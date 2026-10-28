@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P05_oneBasisClusterCardProductBound
 -- name    : QAlgorithms.Papers.Independent.Independent1.P05.oneBasisClusterCardProductBound
--- status  : Open
+-- status  : Proved
 -- author  : @fizzyinc3
 -- created : 2026-10-22T17:53:28.245445+00:00
 -- url     : https://prove2.me/theorems/42133eaa-7f29-4723-a051-de04f7298729

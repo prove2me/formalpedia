@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolarNonOwn_BizChoice_compare_thresholds
 -- name    : SolarNonOwn.BizChoice.compare_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:06.557988+00:00
 -- url     : https://prove2.me/theorems/a683f79c-b388-4208-a454-1c5457dcde6a

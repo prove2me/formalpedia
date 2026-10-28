@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_contDiff_integral_I01
 -- name    : NewtonCartan.contDiff_integral_I01
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:08:29.281222+00:00
 -- url     : https://prove2.me/theorems/a2a1196b-235c-4b91-aa78-65d2715323e7
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineNRM_TSFixed_full_demand_period_revenue_integrable
 -- name    : OnlineNRM.TSFixed.full_demand_period_revenue_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T14:46:39.074969+00:00
 -- url     : https://prove2.me/theorems/4200b95e-e6f5-4b61-a9b7-af5bc0890bd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqRankAgg_Optimality_lemma_8
 -- name    : SeqRankAgg.Optimality.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:36:43.898981+00:00
 -- url     : https://prove2.me/theorems/48b062c7-b5a4-4dbb-8c08-2c8872b07574

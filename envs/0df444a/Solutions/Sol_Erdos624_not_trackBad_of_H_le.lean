@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.not_trackBad_of_H_le
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:22.100995+00:00
 -- url     : https://prove2.me/submissions/482ef212-6125-44e6-874b-401899460aa3
 

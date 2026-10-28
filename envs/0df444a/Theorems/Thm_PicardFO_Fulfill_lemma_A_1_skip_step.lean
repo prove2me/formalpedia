@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PicardFO_Fulfill_lemma_A_1_skip_step
 -- name    : PicardFO.Fulfill.lemma_A_1_skip_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:35.097806+00:00
 -- url     : https://prove2.me/theorems/192e4608-09c4-467b-9a78-f04ee3b35507

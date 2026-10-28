@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MinimalSolutions_Fk_recurrence
 -- name    : MatrixAnalytic.MinimalSolutions.Fk_recurrence
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:36.563759+00:00
 -- url     : https://prove2.me/theorems/630034c1-1bae-486b-8e1e-31f4f7577a2e

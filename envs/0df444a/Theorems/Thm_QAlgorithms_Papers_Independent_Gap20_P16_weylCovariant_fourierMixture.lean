@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P16_weylCovariant_fourierMixture
 -- name    : QAlgorithms.Papers.Independent.Gap20.P16.weylCovariant_fourierMixture
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:38:39.298997+00:00
 -- url     : https://prove2.me/theorems/a851008f-7ddf-4510-a722-87a83ad9a379

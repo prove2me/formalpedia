@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMultitask_Estimator_eq_6_well_aligned_card
 -- name    : RobustMultitask.Estimator.eq_6_well_aligned_card
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:32:53.048764+00:00
 -- url     : https://prove2.me/theorems/8266cf16-0a78-4b34-a5e3-ba1c91583526

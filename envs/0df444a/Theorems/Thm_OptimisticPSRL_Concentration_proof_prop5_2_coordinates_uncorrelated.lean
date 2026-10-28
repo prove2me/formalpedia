@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimisticPSRL_Concentration_proof_prop5_2_coordinates_uncorrelated
 -- name    : OptimisticPSRL.Concentration.proof_prop5_2_coordinates_uncorrelated
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:40:30.534435+00:00
 -- url     : https://prove2.me/theorems/5ea8ca69-848f-4ca7-86d8-bd7680f967ac

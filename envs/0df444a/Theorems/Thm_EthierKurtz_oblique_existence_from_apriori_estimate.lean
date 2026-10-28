@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_existence_from_apriori_estimate
 -- name    : EthierKurtz.oblique_existence_from_apriori_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-10-07T13:30:50.116609+00:00
 -- url     : https://prove2.me/theorems/a450f0db-5924-43c9-b1c9-a0a6a9954b2c

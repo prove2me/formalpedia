@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P10_residue_reduction
 -- name    : QAlgorithms.Papers.Independent.Gap48.P10.residue_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:29:00.154002+00:00
 -- url     : https://prove2.me/theorems/f013a7ef-154f-45bc-81c8-4ffd11fd9cbf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_Complexity_maxCut_iff_stableSchedule
 -- name    : ProjSchedTW.Complexity.maxCut_iff_stableSchedule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T02:10:39.846158+00:00
 -- url     : https://prove2.me/theorems/5cce91b6-247b-4515-b6a9-92870ba65c9b

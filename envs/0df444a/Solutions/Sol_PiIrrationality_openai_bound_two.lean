@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PiIrrationality.openai_bound_two
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-10-07T06:20:49.802341+00:00
 -- url     : https://prove2.me/submissions/7e2032bf-c97d-4115-9caf-a734e883dd72
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_PiIrrationality_UpperBound
 import Theorems.Thm_OAI_PiExponent_main

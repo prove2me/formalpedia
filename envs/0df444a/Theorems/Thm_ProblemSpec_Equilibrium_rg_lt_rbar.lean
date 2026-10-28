@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProblemSpec_Equilibrium_rg_lt_rbar
 -- name    : ProblemSpec.Equilibrium.rg_lt_rbar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:30.40576+00:00
 -- url     : https://prove2.me/theorems/f90424ad-daac-47ba-ad57-8b2c18e2cfc0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_freedman
 -- name    : BestBothWorlds.SAO.freedman
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:58:25.790211+00:00
 -- url     : https://prove2.me/theorems/fd6fc9ec-afb0-44bb-b6b4-5873f348ee03

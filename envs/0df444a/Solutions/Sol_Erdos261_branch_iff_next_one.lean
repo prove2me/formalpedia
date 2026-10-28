@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.branch_iff_next_one
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:26.649323+00:00
 -- url     : https://prove2.me/submissions/bbf2fd15-ffd0-4fa9-8792-39dba8fded2e
 

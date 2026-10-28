@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P11_unital_entropy_nondecreasing
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P11.unital_entropy_nondecreasing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:36:04.503303+00:00
 -- url     : https://prove2.me/theorems/58566b9a-bb9a-49b2-801c-2de217360344

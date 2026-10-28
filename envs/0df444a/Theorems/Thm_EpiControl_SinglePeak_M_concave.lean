@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EpiControl_SinglePeak_M_concave
 -- name    : EpiControl.SinglePeak.M_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:52.31939+00:00
 -- url     : https://prove2.me/theorems/3eb11b62-390a-4644-a448-072384bf6ed7

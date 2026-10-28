@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Sets.eq_6_invariant
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:33:53.322441+00:00
 -- url     : https://prove2.me/submissions/19cbee79-daf6-42cb-b530-e7f2e79a6c4e
 

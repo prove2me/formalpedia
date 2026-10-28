@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Erdos195_tree
 -- name    : Erdos195_tree
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:11:39.410012+00:00
 -- url     : https://prove2.me/theorems/eec7777d-6862-4ebf-8d6e-9579be44d630
 -- title:

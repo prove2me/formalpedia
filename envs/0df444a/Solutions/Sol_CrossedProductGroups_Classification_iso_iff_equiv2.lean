@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CrossedProductGroups.Classification.iso_iff_equiv2
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:17:02.987701+00:00
 -- url     : https://prove2.me/submissions/9c5a2a87-3dc5-438c-9026-1039ff510e93
 

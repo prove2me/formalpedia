@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.OffPolicy.pbe_gradient_factors
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:26:34.383622+00:00
 -- url     : https://prove2.me/submissions/443bf9d4-6ce3-4812-9360-89e72198d567
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KelsoCrawford_ContinuousCore_continuous_market_has_strict_core
 -- name    : KelsoCrawford.ContinuousCore.continuous_market_has_strict_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:34:54.323735+00:00
 -- url     : https://prove2.me/theorems/5de83b1a-d99f-4c9f-be66-489a64037264

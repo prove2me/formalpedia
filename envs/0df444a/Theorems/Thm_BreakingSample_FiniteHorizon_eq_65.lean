@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BreakingSample_FiniteHorizon_eq_65
 -- name    : BreakingSample.FiniteHorizon.eq_65
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:58.989992+00:00
 -- url     : https://prove2.me/theorems/f685d809-e70a-41ac-b71b-3957fa2c0933

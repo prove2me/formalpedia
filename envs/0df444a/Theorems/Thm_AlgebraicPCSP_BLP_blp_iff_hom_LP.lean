@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_BLP_blp_iff_hom_LP
 -- name    : AlgebraicPCSP.BLP.blp_iff_hom_LP
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:16.145954+00:00
 -- url     : https://prove2.me/theorems/47948254-1bd0-458f-81b2-317af3a5cbda

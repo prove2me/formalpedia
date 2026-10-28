@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P42_rays_nullGeodesic
 -- name    : QAlgorithms.Papers.Independent.Renew46.P42.rays_nullGeodesic
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:26:45.416986+00:00
 -- url     : https://prove2.me/theorems/fded2d4c-b931-495a-8140-110966d41ac2

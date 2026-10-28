@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_lemmaB3_three_store
 -- name    : MultiStoreAssort.SQR.lemmaB3_three_store
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:04.96183+00:00
 -- url     : https://prove2.me/theorems/183ba0ae-88b3-434b-990d-a6a2e79a2748

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetInspect_Rate_lemma_EC_4
 -- name    : NetInspect.Rate.lemma_EC_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:17.049489+00:00
 -- url     : https://prove2.me/theorems/226ddcd6-e7a7-4ce3-8808-86ac78d2e12b

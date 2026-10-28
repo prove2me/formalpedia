@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.no_odd_open_pair_classify
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T03:10:47.503243+00:00
 -- url     : https://prove2.me/submissions/ee187f88-9e49-40f6-88bd-71e830771b7f
 

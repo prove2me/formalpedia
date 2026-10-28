@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Cotangent.cot_angle_eq_lengths
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:46:22.807142+00:00
 -- url     : https://prove2.me/submissions/94650c7c-1071-474e-a50f-969cffea9f6b
 

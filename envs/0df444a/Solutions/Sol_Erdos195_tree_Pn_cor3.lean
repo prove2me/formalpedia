@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.tree_Pn_cor3
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:25.846995+00:00
 -- url     : https://prove2.me/submissions/ce6f7e62-6353-4c6e-88d2-2ca989b729ee
 

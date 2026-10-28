@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_spectralOverlapError
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.spectralOverlapError
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:05:04.894932+00:00
 -- url     : https://prove2.me/theorems/31424bd3-13a3-4d85-abac-6748d69f08dc

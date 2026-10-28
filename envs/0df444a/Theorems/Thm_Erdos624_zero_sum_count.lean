@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_zero_sum_count
 -- name    : Erdos624.zero_sum_count
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:40:58.958557+00:00
 -- url     : https://prove2.me/theorems/dc67a94c-dc25-4238-a00c-fae4e31cea70
 -- title:

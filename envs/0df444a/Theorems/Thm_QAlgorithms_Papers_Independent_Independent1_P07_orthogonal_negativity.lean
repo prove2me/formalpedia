@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_orthogonal_negativity
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.orthogonal_negativity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:48:00.611019+00:00
 -- url     : https://prove2.me/theorems/05dfd436-07ca-495c-9a0a-1f9b6fa98190

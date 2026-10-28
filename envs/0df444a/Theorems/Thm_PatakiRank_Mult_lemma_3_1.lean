@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PatakiRank_Mult_lemma_3_1
 -- name    : PatakiRank.Mult.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:26:34.712466+00:00
 -- url     : https://prove2.me/theorems/ad0936e1-ceab-41d0-8b9f-45a4e3fe3a7b

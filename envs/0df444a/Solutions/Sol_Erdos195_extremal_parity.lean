@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.extremal_parity
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:12:23.335678+00:00
 -- url     : https://prove2.me/submissions/24e60838-4783-4ced-a2a2-48c6653d0a3e
 

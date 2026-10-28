@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P42_repeatedBlock_distance_limit
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P42.repeatedBlock_distance_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:59:10.966171+00:00
 -- url     : https://prove2.me/theorems/3668d6dc-bdc3-4657-a20e-c6be154c4ced

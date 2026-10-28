@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnNoConc_ERM_shift_starShaped
 -- name    : LearnNoConc.ERM.shift_starShaped
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:48:10.26599+00:00
 -- url     : https://prove2.me/theorems/435e3d5b-c980-4898-882d-e2219c6ea0bd

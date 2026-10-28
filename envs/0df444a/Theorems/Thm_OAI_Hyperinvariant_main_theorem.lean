@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Hyperinvariant_main_theorem
 -- name    : OAI.Hyperinvariant.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:45.828987+00:00
 -- url     : https://prove2.me/theorems/d0c63e44-ed7d-4b83-9f3a-c9d3d3783378

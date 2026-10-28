@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_Decomp_theorem_7
 -- name    : MultiItemRev.Decomp.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:24:32.256978+00:00
 -- url     : https://prove2.me/theorems/dcb11778-e80e-4c7e-8134-b5ec5fa73a32

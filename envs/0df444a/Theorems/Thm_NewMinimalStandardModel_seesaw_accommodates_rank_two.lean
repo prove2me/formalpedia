@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewMinimalStandardModel_seesaw_accommodates_rank_two
 -- name    : NewMinimalStandardModel.seesaw_accommodates_rank_two
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-04T12:58:33.246408+00:00
 -- url     : https://prove2.me/theorems/9184afda-e814-4017-a441-fe6c81259f84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_scalar_field_eos_range
 -- name    : CosmologyEOS.scalar_field_eos_range
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:38:49.980988+00:00
 -- url     : https://prove2.me/theorems/ac2f8d84-7a58-4d32-b656-32dab0f053e8

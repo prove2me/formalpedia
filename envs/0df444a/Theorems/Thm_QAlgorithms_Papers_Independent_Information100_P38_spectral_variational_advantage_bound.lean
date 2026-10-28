@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_spectral_variational_advantage_bound
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.spectral_variational_advantage_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:06:49.299556+00:00
 -- url     : https://prove2.me/theorems/9b1d8521-017e-4736-b3d7-2da74f3082b2

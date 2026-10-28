@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.H_mono
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:22.033093+00:00
 -- url     : https://prove2.me/submissions/07aa512e-4b0b-4ab8-8457-238ba716aff5
 

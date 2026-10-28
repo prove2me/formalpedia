@@ -16,6 +16,8 @@
 --
 --   This identity turns statements about right translation $z\mapsto z\diamond x$ along the left orbit into statements about the explicit left-inverse terms $q(k+1,k)$. In particular, collisions of right translation on the orbit correspond index by index to collisions on the $q$-subdiagonal.
 --
+--   **Prior work.** The identity is ETP blueprint Lemma 13.1(iii) with $y=x$ at the point $c_k$, with one left cancellation: Lemma 13.1(iii) gives $c_k=c_{k+1}\diamond(c_{k+2}\diamond x)$, E677 gives $c_k=c_{k+1}\diamond q(k+1,k)$, and $L_{c_{k+1}}$ is injective (Lemma 13.1(i)). The same recurrence, $c_k\diamond d_{k+1}=c_{k-1}$ with $d_k=c_k\diamond x$, is in S. Chuks-Onah's posts of May 2026 (ETP Zulip thread "FINITE: 677 -> 255", 2026-05-06 and 2026-05-09).
+--
 --   **Formalization Note** The orbit point $c_n$ is written `(op x)^[n] x`, and $q(k+1,k)$ is written out in full rather than through an auxiliary definition.
 -- source:
 --   Supporting lemma for the finite E677 to E255 formalization, mission 508ccd7b-8791-4bdf-883c-9a44bd760881; Equational Theories Project blueprint, Chapter 13, https://teorth.github.io/equational_theories/blueprint/677-chapter.html; Bolan et al., arXiv:2512.07087v2, Section 8, Problem 8.1.

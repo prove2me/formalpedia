@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for RealTimeIter.Contract.delta_recursion
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:29:22.015736+00:00
 -- url     : https://prove2.me/submissions/99a271af-8ed4-4d87-a129-820d5de5ce2f
 

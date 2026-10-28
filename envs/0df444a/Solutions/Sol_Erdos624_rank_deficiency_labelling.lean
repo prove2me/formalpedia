@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.rank_deficiency_labelling
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T05:45:27.20793+00:00
 -- url     : https://prove2.me/submissions/4db34f8f-9c6d-4801-b994-79d421b2a8d2
 

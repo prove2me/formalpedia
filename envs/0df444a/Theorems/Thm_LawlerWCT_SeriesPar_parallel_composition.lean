@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LawlerWCT_SeriesPar_parallel_composition
 -- name    : LawlerWCT.SeriesPar.parallel_composition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:59:01.902566+00:00
 -- url     : https://prove2.me/theorems/405f708b-30b4-4bf9-a1cd-4b1bcc56e140

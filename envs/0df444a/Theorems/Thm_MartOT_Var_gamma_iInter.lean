@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Var_gamma_iInter
 -- name    : MartOT.Var.gamma_iInter
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:00.017177+00:00
 -- url     : https://prove2.me/theorems/161eea91-b88e-4867-9eb6-03082f5a93a5

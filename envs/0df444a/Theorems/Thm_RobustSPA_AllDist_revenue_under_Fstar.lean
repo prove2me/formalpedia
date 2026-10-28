@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_AllDist_revenue_under_Fstar
 -- name    : RobustSPA.AllDist.revenue_under_Fstar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:47.057135+00:00
 -- url     : https://prove2.me/theorems/b9c4f38f-6236-484a-8221-e9b5fa987e75

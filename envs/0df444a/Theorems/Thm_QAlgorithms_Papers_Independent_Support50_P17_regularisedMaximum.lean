@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P17_regularisedMaximum
 -- name    : QAlgorithms.Papers.Independent.Support50.P17.regularisedMaximum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:58:38.478922+00:00
 -- url     : https://prove2.me/theorems/ddfbfff5-c299-47c8-9071-b62c764a4e07

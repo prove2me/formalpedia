@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_interlocked_pairs_never_close
 -- name    : Erdos195.interlocked_pairs_never_close
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:22:09.981685+00:00
 -- url     : https://prove2.me/theorems/d314ee46-79ad-4071-9359-2c729c53a7a1
 -- title:

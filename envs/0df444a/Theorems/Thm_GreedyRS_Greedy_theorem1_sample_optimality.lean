@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Greedy_theorem1_sample_optimality
 -- name    : GreedyRS.Greedy.theorem1_sample_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:16.136748+00:00
 -- url     : https://prove2.me/theorems/2693a812-57d9-4e2e-a0d9-b4d71acf5160

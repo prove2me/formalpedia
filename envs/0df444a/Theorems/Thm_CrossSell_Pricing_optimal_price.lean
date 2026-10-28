@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossSell_Pricing_optimal_price
 -- name    : CrossSell.Pricing.optimal_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:29:15.445458+00:00
 -- url     : https://prove2.me/theorems/2170706b-d399-451c-9ff0-90da06fa0cd7

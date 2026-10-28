@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_binaryTestingCharacterization
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.binaryTestingCharacterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:03:15.072975+00:00
 -- url     : https://prove2.me/theorems/3ffafc16-90b2-4ce5-a4e0-5e8ad049fa6d

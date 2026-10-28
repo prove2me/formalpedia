@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actual_minor_arithmetic_lower_bound_fixed_height
 -- name    : OAI.PiExponent.DeterminantContradiction.actual_minor_arithmetic_lower_bound_fixed_height
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T06:37:21.473439+00:00
 -- url     : https://prove2.me/theorems/39e8d45a-49b7-4fed-9fbf-3bb9fc6b0719

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_smallSubspace_probability
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.smallSubspace_probability
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:23:51.707076+00:00
 -- url     : https://prove2.me/theorems/39f9689c-8ce9-4e57-b111-f4eb8e466cb9

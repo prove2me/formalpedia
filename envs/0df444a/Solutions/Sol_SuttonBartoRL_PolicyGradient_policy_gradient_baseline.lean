@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.PolicyGradient.policy_gradient_baseline
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:24:25.656677+00:00
 -- url     : https://prove2.me/submissions/cccf7fa3-9169-4cf5-9009-6e9394efa8d4
 

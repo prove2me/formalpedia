@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_FixedReserve_optimal_reserve
 -- name    : RobustSPA.FixedReserve.optimal_reserve
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:54.808216+00:00
 -- url     : https://prove2.me/theorems/3b81ca0f-d36f-4917-9318-11823aa5a53d

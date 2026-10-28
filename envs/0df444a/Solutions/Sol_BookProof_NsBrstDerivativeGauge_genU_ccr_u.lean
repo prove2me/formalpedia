@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NsBrstDerivativeGauge.genU_ccr_u
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:43:52.798471+00:00
 -- url     : https://prove2.me/submissions/d16a45e2-4f3a-4ecf-bc84-28d5e26f6b4c
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QCircMITM.Search.lemma_1
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:40:26.539659+00:00
 -- url     : https://prove2.me/submissions/73595ae8-a536-47cf-b216-8998799621b0
 

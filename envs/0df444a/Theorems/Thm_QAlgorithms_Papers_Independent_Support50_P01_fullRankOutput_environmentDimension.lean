@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P01_fullRankOutput_environmentDimension
 -- name    : QAlgorithms.Papers.Independent.Support50.P01.fullRankOutput_environmentDimension
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:21:24.345884+00:00
 -- url     : https://prove2.me/theorems/6a2be427-8237-4402-b270-b108d01bcbbc

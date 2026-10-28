@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PatakiRank_Mult_theorem_2_2
 -- name    : PatakiRank.Mult.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:26:24.307736+00:00
 -- url     : https://prove2.me/theorems/cb4ef6e5-e025-4997-b902-544b2da13364

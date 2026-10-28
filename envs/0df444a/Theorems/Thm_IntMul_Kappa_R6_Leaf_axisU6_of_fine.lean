@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_Leaf_axisU6_of_fine
 -- name    : IntMul.Kappa.R6.Leaf.axisU6_of_fine
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:22:36.788855+00:00
 -- url     : https://prove2.me/theorems/22ea63b7-ae18-4ecf-b18c-7bfcd2897bca
 -- title:

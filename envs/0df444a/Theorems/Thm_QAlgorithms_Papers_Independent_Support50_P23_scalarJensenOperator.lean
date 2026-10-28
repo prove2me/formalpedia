@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_scalarJensenOperator
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.scalarJensenOperator
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:04:03.510857+00:00
 -- url     : https://prove2.me/theorems/d9ed768d-cf8d-474d-84fd-f59ee74b6fc4

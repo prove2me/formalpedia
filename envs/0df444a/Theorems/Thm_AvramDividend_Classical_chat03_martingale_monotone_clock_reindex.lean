@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat03_martingale_monotone_clock_reindex
 -- name    : AvramDividend.Classical.chat03_martingale_monotone_clock_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T16:52:48.827464+00:00
 -- url     : https://prove2.me/theorems/43fba27e-3756-41a3-b4bd-c5141f7334cb

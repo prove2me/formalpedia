@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxADMMLC_Conv_eq_2_10
 -- name    : ProxADMMLC.Conv.eq_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:47:42.539656+00:00
 -- url     : https://prove2.me/theorems/1283a24e-02bf-4f18-85a9-617e60431aad

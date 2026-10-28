@@ -1,0 +1,705 @@
+-- Prove2me | solution 1 for Erdos624.proper_parent_certificate_ineq
+-- status  : ACCEPTED   (prove)
+-- author  : @Ethan Cheung Wang
+-- created : 2026-10-24T14:04:26.449998+00:00
+-- url     : https://prove2.me/submissions/eae6d0ab-511e-473d-ad37-7f3dde61de04
+
+import Mathlib
+open Finset
+
+namespace E624R10A
+open Finset
+
+section
+variable {U : Type*} [DecidableEq U] {C : Type*} [DecidableEq C]
+
+/-- Palette inequality, image-count form. -/
+lemma palette_count (f : Finset U → C) (W : Finset U) (a b : U) (hab : a ≠ b)
+    (ha : a ∉ W) (hb : b ∉ W) :
+    #((insert a (insert b W)).powerset.image f) +
+        #(W.powerset.image (fun A => f (insert a A)) ∩ W.powerset.image (fun A => f (insert b A))) ≤
+      2 * 2 ^ #W + #(W.powerset.image (fun A => f (insert a A))) +
+        #(W.powerset.image (fun A => f (insert b A))) := by
+  set Sa := W.powerset.image (fun A => f (insert a A))
+  set Sb := W.powerset.image (fun A => f (insert b A))
+  have hsub : (insert a (insert b W)).powerset.image f ⊆
+      (W.powerset.image f ∪ W.powerset.image (fun A => f (insert a (insert b A)))) ∪
+        (Sa ∪ Sb) := by
+    intro x hx
+    obtain ⟨A, hA, rfl⟩ := mem_image.1 hx
+    rw [mem_powerset] at hA
+    set A0 := (A.erase a).erase b with hA0
+    have hA0W : A0 ⊆ W := by
+      intro y hy
+      rw [hA0, mem_erase, mem_erase] at hy
+      have := hA hy.2.2
+      rw [mem_insert, mem_insert] at this
+      rcases this with h | h | h
+      · exact absurd h hy.2.1
+      · exact absurd h hy.1
+      · exact h
+    have hm : A0 ∈ W.powerset := mem_powerset.2 hA0W
+    by_cases haA : a ∈ A <;> by_cases hbA : b ∈ A
+    · have : A = insert a (insert b A0) := by
+        ext y; simp only [hA0, mem_insert, mem_erase]
+        constructor
+        · intro hy; by_cases h1 : y = a; · exact Or.inl h1
+          by_cases h2 : y = b; · exact Or.inr (Or.inl h2)
+          exact Or.inr (Or.inr ⟨h2, h1, hy⟩)
+        · rintro (rfl | rfl | ⟨_, _, hy⟩) <;> assumption
+      rw [this]
+      exact mem_union_left _ (mem_union_right _ (mem_image.2 ⟨A0, hm, rfl⟩))
+    · have : A = insert a A0 := by
+        ext y; simp only [hA0, mem_insert, mem_erase]
+        constructor
+        · intro hy; by_cases h1 : y = a; · exact Or.inl h1
+          refine Or.inr ⟨?_, h1, hy⟩; rintro rfl; exact hbA hy
+        · rintro (rfl | ⟨_, _, hy⟩) <;> assumption
+      rw [this]
+      exact mem_union_right _ (mem_union_left _ (mem_image.2 ⟨A0, hm, rfl⟩))
+    · have : A = insert b A0 := by
+        ext y; simp only [hA0, mem_insert, mem_erase]
+        constructor
+        · intro hy; by_cases h1 : y = b; · exact Or.inl h1
+          refine Or.inr ⟨h1, ?_, hy⟩; rintro rfl; exact haA hy
+        · rintro (rfl | ⟨_, _, hy⟩) <;> assumption
+      rw [this]
+      exact mem_union_right _ (mem_union_right _ (mem_image.2 ⟨A0, hm, rfl⟩))
+    · have : A = A0 := by
+        ext y; simp only [hA0, mem_erase]
+        constructor
+        · intro hy; refine ⟨?_, ?_, hy⟩ <;> rintro rfl <;> contradiction
+        · rintro ⟨_, _, hy⟩; exact hy
+      rw [this]
+      exact mem_union_left _ (mem_union_left _ (mem_image.2 ⟨A0, hm, rfl⟩))
+  have h1 := card_le_card hsub
+  have h2 := card_union_le (W.powerset.image f ∪ W.powerset.image
+    (fun A => f (insert a (insert b A)))) (Sa ∪ Sb)
+  have h3 := card_union_le (W.powerset.image f) (W.powerset.image
+    (fun A => f (insert a (insert b A))))
+  have h4 : #(W.powerset.image f) ≤ 2 ^ #W := (card_image_le).trans (card_powerset W).le
+  have h5 : #(W.powerset.image (fun A => f (insert a (insert b A)))) ≤ 2 ^ #W :=
+    (card_image_le).trans (card_powerset W).le
+  have h6 := card_union_add_card_inter Sa Sb
+  omega
+
+lemma pal_le (f : Finset U → C) (W : Finset U) (a : U) :
+    #(W.powerset.image (fun A => f (insert a A))) ≤ 2 ^ #W :=
+  (card_image_le).trans (card_powerset W).le
+
+end
+
+section
+variable {C : Type*} [Fintype C] [DecidableEq C]
+
+lemma card_inter_eq_sum (S T : Finset C) :
+    (#(S ∩ T) : ℤ) = ∑ u, (if u ∈ S then (1 : ℤ) else 0) * (if u ∈ T then 1 else 0) := by
+  have : S ∩ T = univ.filter (fun u => u ∈ S ∧ u ∈ T) := by ext u; simp
+  rw [this, card_filter]; push_cast
+  apply sum_congr rfl; intro u _
+  by_cases h1 : u ∈ S <;> by_cases h2 : u ∈ T <;> simp [h1, h2]
+
+lemma card_eq_sum (S : Finset C) : (#S : ℤ) = ∑ u, (if u ∈ S then (1 : ℤ) else 0) := by
+  have : S = univ.filter (fun u => u ∈ S) := by ext u; simp
+  conv_lhs => rw [this]
+  rw [card_filter]; push_cast; rfl
+
+end
+
+section
+variable {U : Type*} [DecidableEq U] {C : Type*} [Fintype C] [DecidableEq C]
+
+/-- Per-core averaged bound over an arbitrary pool `R` of extension points (disjoint from `W`). -/
+lemma core_bound (f : Finset U → C) (W R : Finset U) (hRW : Disjoint R W)
+    (hC : Fintype.card C = 4 * 2 ^ #W) (hv : 7 ≤ #R) :
+    Fintype.card C * (#R * (#R - 1)) ≤
+      32 * ∑ a ∈ R, ∑ b ∈ R.erase a,
+        (Fintype.card C - #((insert a (insert b W)).powerset.image f)) := by
+  set V := R with hV
+  set q : ℕ := 2 ^ #W with hq
+  set n := Fintype.card C with hn
+  set v := #V with hvdef
+  have hq0 : 0 < q := by positivity
+  set s : U → ℤ := fun a => #(W.powerset.image (fun A => f (insert a A))) with hs
+  set I : U → U → ℤ := fun a b => #(W.powerset.image (fun A => f (insert a A)) ∩
+    W.powerset.image (fun A => f (insert b A))) with hI
+  set x : C → U → ℤ := fun u a => if u ∈ W.powerset.image (fun A => f (insert a A)) then 1 else 0
+    with hx
+  set σ : ℤ := ∑ a ∈ V, s a with hσ
+  set E2 : ℤ := ∑ u, (∑ a ∈ V, x u a) ^ 2 with hE2
+  have hterm : ∀ a ∈ V, ∀ b ∈ V.erase a,
+      (2 * (q : ℤ) - s a - s b + I a b) ≤
+        ((n - #((insert a (insert b W)).powerset.image f) : ℕ) : ℤ) := by
+    intro a ha b hb
+    rw [mem_erase] at hb
+    have haW : a ∉ W := fun h => disjoint_left.1 hRW ha h
+    have hbW : b ∉ W := fun h => disjoint_left.1 hRW hb.2 h
+    have hl := palette_count f W a b (Ne.symm hb.1) haW hbW
+    have hle : #((insert a (insert b W)).powerset.image f) ≤ n := by
+      rw [hn]; exact card_le_univ _
+    rw [Nat.cast_sub hle]
+    simp only [hs, hI]
+    have : (n : ℤ) = 4 * q := by exact_mod_cast hC
+    omega
+  have hsum_le := sum_le_sum (fun a ha => sum_le_sum (hterm a ha))
+  have hIself : ∀ a, I a a = s a := by intro a; simp [hI, hs]
+  have hIsum : ∑ a ∈ V, ∑ b ∈ V, I a b = E2 := by
+    calc ∑ a ∈ V, ∑ b ∈ V, I a b = ∑ a ∈ V, ∑ b ∈ V, ∑ u, x u a * x u b := by
+          simp only [hI, card_inter_eq_sum, hx]
+      _ = ∑ a ∈ V, ∑ u, ∑ b ∈ V, x u a * x u b := by
+          apply sum_congr rfl; intro a _; rw [sum_comm]
+      _ = ∑ u, ∑ a ∈ V, ∑ b ∈ V, x u a * x u b := by rw [sum_comm]
+      _ = E2 := by simp only [hE2, sq, sum_mul_sum]
+  have hσ2 : σ = ∑ u, ∑ a ∈ V, x u a := by
+    simp only [hσ, hs, card_eq_sum, hx]; rw [sum_comm]
+  have hLHS : ∑ a ∈ V, ∑ b ∈ V.erase a, (2 * (q : ℤ) - s a - s b + I a b) =
+      2 * ((v : ℤ) - 1) * ((q : ℤ) * v - σ) + (E2 - σ) := by
+    have h1 : ∀ a ∈ V, ∑ b ∈ V.erase a, (2 * (q : ℤ) - s a - s b + I a b) =
+        (v : ℤ) * (2 * q - s a) - σ + ∑ b ∈ V, I a b - 2 * q + s a := by
+      intro a ha
+      rw [sum_erase_eq_sub ha, sum_add_distrib, sum_sub_distrib, sum_const, hIself]
+      simp only [nsmul_eq_mul, hσ, hvdef]; ring
+    rw [sum_congr rfl h1, ← hIsum]
+    simp only [sum_add_distrib, sum_sub_distrib, ← mul_sum, sum_const, nsmul_eq_mul, ← hσ,
+      ← hvdef]
+    ring
+  have hCS : σ ^ 2 ≤ (n : ℤ) * E2 := by
+    rw [hσ2, hE2, hn, ← Finset.card_univ]
+    exact sq_sum_le_card_mul_sum_sq
+  have hsq : ∀ a, s a ≤ q := fun a => by simp only [hs]; exact_mod_cast pal_le f W a
+  have hσle : σ ≤ (q : ℤ) * v := by
+    calc σ ≤ ∑ a ∈ V, (q : ℤ) := sum_le_sum (fun a _ => hsq a)
+      _ = q * v := by rw [sum_const, nsmul_eq_mul, hvdef]; ring
+  have hnq : (n : ℤ) = 4 * q := by exact_mod_cast hC
+  have hv7 : (7 : ℤ) ≤ v := by exact_mod_cast hv
+  set T : ℤ := ∑ a ∈ V, ∑ b ∈ V.erase a,
+        (((n - #((insert a (insert b W)).powerset.image f) : ℕ) : ℤ)) with hT
+  have hTge : 2 * ((v : ℤ) - 1) * ((q : ℤ) * v - σ) + (E2 - σ) ≤ T := by
+    rw [← hLHS]; exact hsum_le
+  have hqpos : (0 : ℤ) < q := by exact_mod_cast hq0
+  have key : (4 * q : ℤ) * (4 * q * (v * (v - 1))) ≤ (4 * q) * (32 * T) := by
+    have hD : 0 ≤ (q : ℤ) * v - σ := by linarith
+    have h4E : σ ^ 2 ≤ 4 * q * E2 := by rw [← hnq]; exact hCS
+    nlinarith [mul_nonneg hD (by nlinarith : (0:ℤ) ≤ 6 * q * v - 4 * q), mul_nonneg hD hD,
+      mul_nonneg (mul_nonneg hqpos.le hqpos.le) (by nlinarith : (0:ℤ) ≤ v * (v - 7))]
+  have key2 : (4 * q * (v * (v - 1)) : ℤ) ≤ 32 * T :=
+    le_of_mul_le_mul_left key (by positivity)
+  have hv1 : 1 ≤ v := by omega
+  have : ((n * (v * (v - 1)) : ℕ) : ℤ) ≤ ((32 * ∑ a ∈ V, ∑ b ∈ V.erase a,
+        (n - #((insert a (insert b W)).powerset.image f)) : ℕ) : ℤ) := by
+    push_cast [Nat.cast_sub hv1]
+    rw [hnq]
+    simpa [hT] using key2
+  exact_mod_cast this
+
+end
+
+section
+variable {U : Type*} [Fintype U] [DecidableEq U]
+
+/-- Double counting of presentations `Y = W ∪ {a, b}` inside a pool `V`. -/
+lemma presentation_sum_pool (V : Finset U) (m : ℕ) (F : Finset U → U → U → ℕ) :
+    ∑ W ∈ powersetCard m V, ∑ a ∈ V \ W, ∑ b ∈ (V \ W).erase a,
+      F (insert a (insert b W)) a b =
+    ∑ Y ∈ powersetCard (m + 2) V, ∑ a ∈ Y, ∑ b ∈ Y.erase a, F Y a b := by
+  set R1 : Finset (Finset U × U × U) := univ.filter
+    (fun p => p.1 ⊆ V ∧ #p.1 = m ∧ (p.2.1 ∈ V ∧ p.2.1 ∉ p.1) ∧ p.2.2 ≠ p.2.1 ∧
+      (p.2.2 ∈ V ∧ p.2.2 ∉ p.1)) with hR1
+  set R2 : Finset (Finset U × U × U) := univ.filter
+    (fun p => p.1 ⊆ V ∧ #p.1 = m + 2 ∧ p.2.1 ∈ p.1 ∧ p.2.2 ≠ p.2.1 ∧ p.2.2 ∈ p.1) with hR2
+  have e1 : ∑ W ∈ powersetCard m V, ∑ a ∈ V \ W, ∑ b ∈ (V \ W).erase a,
+      F (insert a (insert b W)) a b =
+        ∑ p ∈ R1, F (insert p.2.1 (insert p.2.2 p.1)) p.2.1 p.2.2 := by
+    rw [Finset.sum_finset_product (r := R1) (s := powersetCard m V)
+      (t := fun W => ((V \ W) ×ˢ univ).filter (fun ab => ab.2 ∈ (V \ W).erase ab.1))]
+    · apply Finset.sum_congr rfl
+      intro W _
+      rw [Finset.sum_finset_product (r := ((V \ W) ×ˢ univ).filter
+        (fun ab => ab.2 ∈ (V \ W).erase ab.1)) (s := V \ W)
+        (t := fun a => (V \ W).erase a)]
+      intro p; simp only [mem_filter, mem_product, mem_univ, and_true]
+    · intro p
+      simp only [hR1, mem_filter, mem_univ, true_and, mem_powersetCard,
+        mem_product, mem_sdiff, mem_erase, and_true]
+      tauto
+  have e2 : ∑ Y ∈ powersetCard (m + 2) V, ∑ a ∈ Y, ∑ b ∈ Y.erase a, F Y a b =
+      ∑ p ∈ R2, F p.1 p.2.1 p.2.2 := by
+    rw [Finset.sum_finset_product (r := R2) (s := powersetCard (m + 2) V)
+      (t := fun Y => (Y ×ˢ univ).filter (fun ab => ab.2 ∈ Y.erase ab.1))]
+    · apply Finset.sum_congr rfl
+      intro Y hY
+      rw [Finset.sum_finset_product (r := (Y ×ˢ univ).filter (fun ab => ab.2 ∈ Y.erase ab.1))
+        (s := Y) (t := fun a => Y.erase a)]
+      intro p; simp only [mem_filter, mem_product, mem_univ, and_true]
+    · intro p
+      simp only [hR2, mem_filter, mem_univ, true_and, mem_powersetCard,
+        mem_product, mem_erase, and_true]
+      tauto
+  rw [e1, e2]
+  apply Finset.sum_nbij' (fun p => (insert p.2.1 (insert p.2.2 p.1), p.2.1, p.2.2))
+    (fun p => ((p.1.erase p.2.1).erase p.2.2, p.2.1, p.2.2))
+  · rintro ⟨W, a, b⟩ h
+    simp only [hR1, hR2, mem_filter, mem_univ, true_and] at h ⊢
+    obtain ⟨h0, h1, ⟨h2V, h2⟩, h4, ⟨h3V, h3⟩⟩ := h
+    refine ⟨?_, ?_, mem_insert_self _ _, h4, mem_insert_of_mem (mem_insert_self _ _)⟩
+    · intro x hx; simp only [mem_insert] at hx
+      rcases hx with rfl | rfl | hx
+      · exact h2V
+      · exact h3V
+      · exact h0 hx
+    rw [card_insert_of_notMem, card_insert_of_notMem h3, h1]
+    simp [h2, Ne.symm h4]
+  · rintro ⟨Y, a, b⟩ h
+    simp only [hR1, hR2, mem_filter, mem_univ, true_and] at h ⊢
+    obtain ⟨h0, h1, h2, h4, h3⟩ := h
+    refine ⟨fun x hx => h0 (mem_of_mem_erase (mem_of_mem_erase hx)), ?_,
+      ⟨h0 h2, by simp⟩, h4, ⟨h0 h3, by simp⟩⟩
+    rw [card_erase_of_mem (mem_erase.2 ⟨h4, h3⟩), card_erase_of_mem h2, h1]; rfl
+  · rintro ⟨W, a, b⟩ h
+    simp only [hR1, mem_filter, mem_univ, true_and] at h
+    obtain ⟨h0, h1, ⟨_, h2⟩, h4, ⟨_, h3⟩⟩ := h
+    simp only [Prod.mk.injEq, and_true]
+    ext x; simp only [mem_erase, mem_insert]
+    constructor
+    · rintro ⟨hb, ha, (rfl | rfl | hx)⟩ <;> tauto
+    · intro hx; refine ⟨?_, ?_, Or.inr (Or.inr hx)⟩ <;> rintro rfl <;> contradiction
+  · rintro ⟨Y, a, b⟩ h
+    simp only [hR2, mem_filter, mem_univ, true_and] at h
+    obtain ⟨h0, h1, h2, h4, h3⟩ := h
+    simp only [Prod.mk.injEq, and_true]
+    ext x; simp only [mem_erase, mem_insert]
+    constructor
+    · rintro (rfl | rfl | ⟨_, _, hx⟩) <;> assumption
+    · intro hx
+      by_cases hxa : x = a
+      · exact Or.inl hxa
+      · by_cases hxb : x = b
+        · exact Or.inr (Or.inl hxb)
+        · exact Or.inr (Or.inr ⟨hxb, hxa, hx⟩)
+  · rintro ⟨W, a, b⟩ _; rfl
+
+/-- Number of ordered pairs of distinct elements of `Y \ B`, written as a sum over `Y`. -/
+lemma pair_count (B Y : Finset U) (G : ℕ) :
+    ∑ a ∈ Y, ∑ b ∈ Y.erase a, (if a ∉ B ∧ b ∉ B then G else 0) =
+      #(Y \ B) * (#(Y \ B) - 1) * G := by
+  have h1 : ∀ a ∈ Y, ∑ b ∈ Y.erase a, (if a ∉ B ∧ b ∉ B then G else 0) =
+      if a ∉ B then (#(Y \ B) - 1) * G else 0 := by
+    intro a ha
+    by_cases haB : a ∉ B
+    · rw [sum_congr rfl (g := fun b => if b ∉ B then G else 0) (fun b _ => by simp [haB])]
+      simp only [haB, not_false_eq_true, if_true]
+      rw [← sum_filter, sum_const, smul_eq_mul]
+      congr 1
+      have : (Y.erase a).filter (fun b => b ∉ B) = (Y \ B).erase a := by
+        ext x; simp [mem_sdiff]; tauto
+      rw [this, card_erase_of_mem (by simp [mem_sdiff, ha, haB])]
+    · simp [haB]
+  rw [sum_congr rfl h1, ← sum_filter, sum_const, smul_eq_mul]
+  have : Y.filter (fun a => a ∉ B) = Y \ B := by ext x; simp [mem_sdiff]
+  rw [this]; ring
+
+variable {C : Type*} [Fintype C] [DecidableEq C]
+
+/-- Conditioned Alon, pool form, general colour type. -/
+theorem conditioned_pool (k : ℕ) (hk : 2 ≤ k) (hC : Fintype.card C = 2 ^ k)
+    (f : Finset U → C) (B V : Finset U) (hB : #B ≤ k - 2) (hV : k + 5 ≤ #V) :
+    2 ^ k * #((powersetCard k V).filter (fun Y => B ⊆ Y)) ≤
+      32 * ∑ Y ∈ (powersetCard k V).filter (fun Y => B ⊆ Y),
+        (2 ^ k - #(Y.powerset.image f)) := by
+  obtain ⟨m, rfl⟩ : ∃ m, k = m + 2 := ⟨k - 2, by omega⟩
+  set L : Finset U → ℕ := fun Y => 2 ^ (m + 2) - #(Y.powerset.image f) with hL
+  set j := m + 2 - #B with hj
+  have hj2 : 2 ≤ j := by omega
+  have key : ∀ G : Finset U → ℕ,
+      ∑ W ∈ (powersetCard m V).filter (fun W => B ⊆ W),
+        ∑ a ∈ V \ W, ∑ b ∈ (V \ W).erase a, G (insert a (insert b W)) =
+      ∑ Y ∈ (powersetCard (m + 2) V).filter (fun Y => B ⊆ Y), j * (j - 1) * G Y := by
+    intro G
+    have hP := presentation_sum_pool V m
+      (fun Y a b => if a ∉ B ∧ b ∉ B ∧ B ⊆ Y then G Y else 0)
+    rw [sum_filter, sum_filter]
+    convert hP using 1
+    · apply sum_congr rfl; intro W _
+      by_cases hBW : B ⊆ W
+      · simp only [hBW, if_true]
+        apply sum_congr rfl; intro a ha; apply sum_congr rfl; intro b hb
+        rw [mem_sdiff] at ha; rw [mem_erase, mem_sdiff] at hb
+        have haB : a ∉ B := fun h => ha.2 (hBW h)
+        have hbB : b ∉ B := fun h => hb.2.2 (hBW h)
+        have : B ⊆ insert a (insert b W) := hBW.trans (by intro x hx; simp [hx])
+        simp [haB, hbB, this]
+      · simp only [hBW, if_false]
+        symm; apply sum_eq_zero; intro a ha; apply sum_eq_zero; intro b hb
+        rw [mem_sdiff] at ha; rw [mem_erase, mem_sdiff] at hb
+        rw [if_neg]
+        rintro ⟨haB, hbB, hBY⟩
+        apply hBW; intro x hx
+        have := hBY hx
+        simp only [mem_insert] at this
+        rcases this with rfl | rfl | h
+        · exact absurd hx haB
+        · exact absurd hx hbB
+        · exact h
+    · apply sum_congr rfl; intro Y hY
+      rw [mem_powersetCard] at hY
+      by_cases hBY : B ⊆ Y
+      · simp only [hBY, and_true, if_true]
+        rw [pair_count B Y (G Y)]
+        have : #(Y \ B) = j := by rw [card_sdiff_of_subset hBY, hY.2]
+        rw [this]
+      · simp only [hBY, and_false, if_false]
+        symm; apply sum_eq_zero; intro a _; apply sum_eq_zero; intro b _; simp
+  have hW : ∀ W ∈ (powersetCard m V).filter (fun W => B ⊆ W),
+      2 ^ (m + 2) * (#(V \ W) * (#(V \ W) - 1)) ≤
+        32 * ∑ a ∈ V \ W, ∑ b ∈ (V \ W).erase a, L (insert a (insert b W)) := by
+    intro W hWm
+    rw [mem_filter, mem_powersetCard] at hWm
+    have hv : #(V \ W) = #V - m := by
+      rw [card_sdiff_of_subset hWm.1.1, hWm.1.2]
+    have h := core_bound f W (V \ W) sdiff_disjoint (by rw [hC, hWm.1.2, pow_add]; ring)
+      (by rw [hv]; omega)
+    rw [hC] at h; exact h
+  have hcnt : ∀ W ∈ (powersetCard m V).filter (fun W => B ⊆ W),
+      #(V \ W) * (#(V \ W) - 1) =
+        ∑ a ∈ V \ W, ∑ b ∈ (V \ W).erase a, (fun _ => (1 : ℕ)) (insert a (insert b W)) := by
+    intro W _
+    rw [sum_congr rfl (g := fun _ => #(V \ W) - 1)]
+    · rw [sum_const, smul_eq_mul]
+    · intro a ha; rw [sum_const, card_erase_of_mem ha, smul_eq_mul, mul_one]
+  have hsum := sum_le_sum hW
+  rw [← mul_sum, ← mul_sum, key L] at hsum
+  rw [sum_congr rfl hcnt, key (fun _ => 1)] at hsum
+  simp only [mul_one, sum_const, smul_eq_mul] at hsum
+  rw [← mul_sum] at hsum
+  have hpos : 0 < j * (j - 1) := Nat.mul_pos (by omega) (by omega)
+  apply Nat.le_of_mul_le_mul_left _ hpos
+  calc j * (j - 1) * (2 ^ (m + 2) * #((powersetCard (m + 2) V).filter (fun Y => B ⊆ Y)))
+      = 2 ^ (m + 2) * (#((powersetCard (m + 2) V).filter (fun Y => B ⊆ Y)) * (j * (j - 1))) := by
+        ring
+    _ ≤ 32 * (j * (j - 1) * ∑ Y ∈ (powersetCard (m + 2) V).filter (fun Y => B ⊆ Y), L Y) := hsum
+    _ = _ := by ring
+
+end
+
+end E624R10A
+
+namespace E624R11
+open Finset
+
+section
+variable {U : Type*} [Fintype U] [DecidableEq U] {C : Type*} [Fintype C] [DecidableEq C]
+
+/-- Swap a sum over pivots `y ∈ V` and `k`-sets through `y`. -/
+lemma pivot_swap (V : Finset U) (k : ℕ) (F : Finset U → ℕ) :
+    ∑ y ∈ V, ∑ Y ∈ (powersetCard k V).filter (fun Y => {y} ⊆ Y), F Y =
+      ∑ Y ∈ powersetCard k V, k * F Y := by
+  simp_rw [sum_filter]
+  rw [sum_comm]
+  apply sum_congr rfl
+  intro Y hY
+  rw [mem_powersetCard] at hY
+  rw [← sum_filter]
+  have : V.filter (fun y => {y} ⊆ Y) = Y := by
+    ext y; simp only [mem_filter, singleton_subset_iff]
+    constructor
+    · exact fun h => h.2
+    · exact fun h => ⟨hY.1 h, h⟩
+  rw [this, sum_const, hY.2, smul_eq_mul]
+
+theorem parity_palette (k : ℕ) (hk : 3 ≤ k) (hC : Fintype.card C = 2 ^ k)
+    (g0 g1 : Finset U → C) (V : Finset U) (hV : k + 5 ≤ #V) (ε : ℕ) :
+    2 ^ k * #(powersetCard k V) ≤
+      32 * ∑ Y ∈ powersetCard k V,
+        (2 ^ k - #((Y.powerset.filter (fun A => #A % 2 = ε)).biUnion
+          (fun A => ({g0 A, g1 A} : Finset C)))) := by
+  by_cases hε : 2 ≤ ε
+  · have hempty : ∀ Y : Finset U, (Y.powerset.filter (fun A => #A % 2 = ε)) = ∅ := by
+      intro Y; apply filter_false_of_mem; intro A _; omega
+    simp only [hempty, biUnion_empty, card_empty, Nat.sub_zero, sum_const, smul_eq_mul]
+    nlinarith [Nat.zero_le (2 ^ k * #(powersetCard k V))]
+  push Not at hε
+  set J : Finset U → Finset C := fun Y => (Y.powerset.filter (fun A => #A % 2 = ε)).biUnion
+          (fun A => ({g0 A, g1 A} : Finset C)) with hJ
+  -- per pivot
+  have hpiv : ∀ y ∈ V, 2 ^ k * #((powersetCard k V).filter (fun Y => {y} ⊆ Y)) ≤
+      32 * ∑ Y ∈ (powersetCard k V).filter (fun Y => {y} ⊆ Y), (2 ^ k - #(J Y)) := by
+    intro y hy
+    set ψ : Finset U → Finset U := fun A => if #A % 2 = ε then A else insert y A with hψ
+    set f : Finset U → C := fun A => (if y ∈ A then g1 else g0) (ψ (A.erase y)) with hf
+    have h := E624R10A.conditioned_pool k (by omega) hC f {y} V (by simp; omega) hV
+    refine h.trans (Nat.mul_le_mul_left _ (sum_le_sum ?_))
+    intro Y hY
+    rw [mem_filter, singleton_subset_iff] at hY
+    apply Nat.sub_le_sub_left
+    apply card_le_card
+    intro c hc
+    simp only [hJ, mem_biUnion, mem_filter, mem_powerset] at hc
+    obtain ⟨A, ⟨hA, hpar⟩, hcA⟩ := hc
+    have hψA : ψ (A.erase y) = A := by
+      simp only [hψ]
+      by_cases hyA : y ∈ A
+      · have hc1 : #(A.erase y) + 1 = #A := card_erase_add_one hyA
+        rw [if_neg (by omega), insert_erase hyA]
+      · rw [erase_eq_of_notMem hyA, if_pos hpar]
+    have hyE : y ∉ A.erase y := notMem_erase _ _
+    simp only [mem_insert, mem_singleton] at hcA
+    rcases hcA with rfl | rfl
+    · refine mem_image.2 ⟨A.erase y, mem_powerset.2 ((erase_subset _ _).trans hA), ?_⟩
+      simp only [hf, if_neg hyE, erase_eq_of_notMem hyE, hψA]
+    · refine mem_image.2 ⟨insert y (A.erase y),
+        mem_powerset.2 (insert_subset hY.2 ((erase_subset _ _).trans hA)), ?_⟩
+      simp only [hf, if_pos (mem_insert_self _ _), erase_insert hyE, hψA]
+  have hsum := sum_le_sum hpiv
+  rw [← mul_sum, ← mul_sum] at hsum
+  have e1 := pivot_swap V k (fun _ => 1)
+  have e2 := pivot_swap V k (fun Y => 2 ^ k - #(J Y))
+  simp only [sum_const, smul_eq_mul, mul_one] at e1
+  rw [e1, e2, ← mul_sum] at hsum
+  have hk0 : 0 < k := by omega
+  apply Nat.le_of_mul_le_mul_left _ hk0
+  calc k * (2 ^ k * #(powersetCard k V)) = 2 ^ k * (#(powersetCard k V) * k) := by ring
+    _ ≤ 32 * (k * ∑ Y ∈ powersetCard k V, (2 ^ k - #(J Y))) := hsum
+    _ = _ := by ring
+
+theorem proper_odd_palette (k : ℕ) (hk : 3 ≤ k) (hC : Fintype.card C = 2 ^ k)
+    (g0 g1 : Finset U → C) (V : Finset U) (hV : k + 5 ≤ #V) :
+    2 ^ k * #(powersetCard k V) ≤
+      32 * ∑ Y ∈ powersetCard k V,
+        (2 ^ k - #((Y.powerset.filter (fun A => A ≠ Y ∧ #A % 2 = 1)).biUnion
+          (fun A => ({g0 A, g1 A} : Finset C)))) := by
+  refine (parity_palette k hk hC g0 g1 V hV 1).trans (Nat.mul_le_mul_left _ (sum_le_sum ?_))
+  intro Y _
+  apply Nat.sub_le_sub_left
+  apply card_le_card
+  apply biUnion_subset_biUnion_of_subset_left
+  intro A; simp only [mem_filter]; exact fun h => ⟨h.1, h.2.2⟩
+
+end
+end E624R11
+
+namespace E624R11
+open Finset
+
+section
+variable {U : Type*} [DecidableEq U] {C : Type*} [Fintype C] [DecidableEq C]
+
+lemma zmod2_eq_one_of_ne_zero : ∀ z : ZMod 2, z ≠ 0 → z = 1 := by decide
+
+/-- Face inequality (14). -/
+theorem face_bound (k : ℕ) (g0 g1 : Finset U → C) (V : Finset U) (S : Finset C)
+    (hS : ∀ u ∈ S, u ∉ ({g0 ∅, g1 ∅} : Finset C))
+    (R : C → Finset U) (w : C → U → ZMod 2)
+    (hw : ∀ u ∈ S, ∀ A ⊆ V \ R u, 0 < #A → #A < k → u ∈ ({g0 A, g1 A} : Finset C) →
+      (∀ B ⊂ A, u ∉ ({g0 B, g1 B} : Finset C)) → ∑ x ∈ A, w u x = 1)
+    (Y : Finset U) (hYV : Y ⊆ V) (hY : #Y = k) :
+    Fintype.card C - #((Y.powerset.filter (fun A => A ≠ Y ∧ #A % 2 = 1)).biUnion
+        (fun A => ({g0 A, g1 A} : Finset C))) ≤
+      (Fintype.card C - #((Y.powerset.filter (fun A => A ≠ Y)).biUnion
+        (fun A => ({g0 A, g1 A} : Finset C)))) + (Fintype.card C - #S) +
+      #(S.filter (fun u => ¬ Disjoint Y (R u ∪ (V \ R u).filter (fun x => w u x = 0)))) := by
+  set Jo := (Y.powerset.filter (fun A => A ≠ Y ∧ #A % 2 = 1)).biUnion
+        (fun A => ({g0 A, g1 A} : Finset C)) with hJo
+  set Jp := (Y.powerset.filter (fun A => A ≠ Y)).biUnion
+        (fun A => ({g0 A, g1 A} : Finset C)) with hJp
+  set M := S.filter (fun u => ¬ Disjoint Y (R u ∪ (V \ R u).filter (fun x => w u x = 0))) with hM
+  have key : univ \ Jo ⊆ ((univ \ Jp) ∪ (univ \ S)) ∪ M := by
+    intro u hu
+    rw [mem_sdiff] at hu
+    by_contra hcon
+    simp only [mem_union, mem_sdiff, mem_univ, true_and, not_or, not_not, hM, mem_filter] at hcon
+    obtain ⟨⟨huJp, huS⟩, hmeet⟩ := hcon
+    have hdisj : Disjoint Y (R u ∪ (V \ R u).filter (fun x => w u x = 0)) := by
+      by_contra h; exact hmeet ⟨huS, h⟩
+    set P := Y.powerset.filter (fun A => A ≠ Y ∧ u ∈ ({g0 A, g1 A} : Finset C)) with hP
+    have hne : P.Nonempty := by
+      rw [hJp, mem_biUnion] at huJp
+      obtain ⟨A, hA, huA⟩ := huJp
+      rw [mem_filter] at hA
+      exact ⟨A, by rw [hP, mem_filter]; exact ⟨hA.1, hA.2, huA⟩⟩
+    obtain ⟨A, hAP, hmin⟩ := P.exists_min_image card hne
+    rw [hP, mem_filter, mem_powerset] at hAP
+    obtain ⟨hAY, hAne, huA⟩ := hAP
+    have hA0 : 0 < #A := by
+      rw [card_pos]; by_contra h; rw [not_nonempty_iff_eq_empty] at h
+      subst h; exact hS u huS huA
+    have hAk : #A < k := by
+      rw [← hY]; exact card_lt_card (lt_of_le_of_ne hAY hAne)
+    have hAV : A ⊆ V \ R u := by
+      intro x hx
+      rw [mem_sdiff]
+      refine ⟨hYV (hAY hx), fun hxR => ?_⟩
+      exact disjoint_left.1 hdisj (hAY hx) (mem_union_left _ hxR)
+    have hAmin : ∀ B ⊂ A, u ∉ ({g0 B, g1 B} : Finset C) := by
+      intro B hB huB
+      have hBP : B ∈ P := by
+        rw [hP, mem_filter, mem_powerset]
+        refine ⟨hB.1.trans hAY, ?_, huB⟩
+        rintro rfl
+        exact absurd (card_lt_card hB) (by have := card_le_card hAY; omega)
+      have := hmin B hBP
+      have := card_lt_card hB
+      omega
+    have hsum := hw u huS A hAV hA0 hAk huA hAmin
+    have hone : ∀ x ∈ A, w u x = 1 := by
+      intro x hx
+      apply zmod2_eq_one_of_ne_zero
+      intro h0
+      apply disjoint_left.1 hdisj (hAY hx)
+      apply mem_union_right
+      rw [mem_filter]; exact ⟨hAV hx, h0⟩
+    rw [sum_congr rfl hone, sum_const, nsmul_eq_mul, mul_one] at hsum
+    have hodd : #A % 2 = 1 := Fin.mk_eq_one.mp hsum
+    apply hu.2
+    rw [hJo, mem_biUnion]
+    exact ⟨A, by rw [mem_filter, mem_powerset]; exact ⟨hAY, hAne, hodd⟩, huA⟩
+  have h1 := card_le_card key
+  have h2 := card_union_le ((univ \ Jp) ∪ (univ \ S)) M
+  have h3 := card_union_le (univ \ Jp) (univ \ S)
+  simp only [card_univ_sdiff] at h1 h3
+  omega
+
+end
+
+section
+variable {U : Type*} [Fintype U] [DecidableEq U] {C : Type*} [Fintype C] [DecidableEq C]
+
+lemma card_through (V : Finset U) (x : U) (hx : x ∈ V) (j : ℕ) :
+    #((powersetCard (j + 1) V).filter (fun Y => x ∈ Y)) = (#V - 1).choose j := by
+  rw [← card_erase_of_mem hx, ← card_powersetCard]
+  symm
+  apply card_nbij' (fun Y => insert x Y) (fun Y => Y.erase x)
+  · intro Y hY
+    simp only [mem_coe, mem_powersetCard] at hY
+    simp only [mem_coe, mem_filter, mem_powersetCard, mem_insert_self, and_true]
+    refine ⟨insert_subset hx (hY.1.trans (erase_subset _ _)), ?_⟩
+    rw [card_insert_of_notMem (fun h => by simpa using hY.1 h), hY.2]
+  · intro Y hY
+    simp only [mem_coe, mem_filter, mem_powersetCard] at hY
+    simp only [mem_coe, mem_powersetCard]
+    refine ⟨erase_subset_erase _ hY.1.1, ?_⟩
+    rw [card_erase_of_mem hY.2, hY.1.2]; rfl
+  · intro Y hY
+    simp only [mem_coe, mem_powersetCard] at hY
+    exact erase_insert (fun h => by simpa using hY.1 h)
+  · intro Y hY
+    simp only [mem_coe, mem_filter] at hY
+    exact insert_erase hY.2
+
+lemma card_meeting (V E : Finset U) (k : ℕ) (hk : 1 ≤ k) :
+    #V * #((powersetCard k V).filter (fun Y => ¬ Disjoint Y E)) ≤
+      #E * (k * #(powersetCard k V)) := by
+  obtain ⟨j, rfl⟩ : ∃ j, k = j + 1 := ⟨k - 1, by omega⟩
+  have hsub : (powersetCard (j + 1) V).filter (fun Y => ¬ Disjoint Y E) ⊆
+      (E ∩ V).biUnion (fun x => (powersetCard (j + 1) V).filter (fun Y => x ∈ Y)) := by
+    intro Y hY
+    rw [mem_filter, mem_powersetCard] at hY
+    rw [not_disjoint_iff] at hY
+    obtain ⟨⟨hYV, _⟩, x, hxY, hxE⟩ := hY
+    rw [mem_biUnion]
+    exact ⟨x, mem_inter.2 ⟨hxE, hYV hxY⟩, mem_filter.2 ⟨mem_powersetCard.2 ⟨hYV, by omega⟩, hxY⟩⟩
+  have h1 := (card_le_card hsub).trans card_biUnion_le
+  rw [sum_congr rfl (fun x hx => card_through V x (mem_inter.1 hx).2 j), sum_const,
+    smul_eq_mul] at h1
+  have hEV : #(E ∩ V) ≤ #E := card_le_card inter_subset_left
+  rcases Nat.eq_zero_or_pos #V with h0 | hpos
+  · rw [h0]; simp
+  obtain ⟨M, hM⟩ : ∃ M, #V = M + 1 := ⟨#V - 1, by omega⟩
+  have hch : #V * (#V - 1).choose j = (j + 1) * #(powersetCard (j + 1) V) := by
+    rw [card_powersetCard, hM, Nat.add_sub_cancel, Nat.add_one_mul_choose_eq]; ring
+  calc #V * #((powersetCard (j + 1) V).filter (fun Y => ¬ Disjoint Y E))
+      ≤ #V * (#(E ∩ V) * (#V - 1).choose j) := Nat.mul_le_mul_left _ h1
+    _ ≤ #V * (#E * (#V - 1).choose j) := Nat.mul_le_mul_left _ (Nat.mul_le_mul_right _ hEV)
+    _ = #E * (#V * (#V - 1).choose j) := by ring
+    _ = _ := by rw [hch]
+
+/-- Certificate inequality (13). -/
+theorem certificate_ineq (k : ℕ) (hk : 3 ≤ k) (hC : Fintype.card C = 2 ^ k)
+    (g0 g1 : Finset U → C) (V : Finset U) (hV : k + 5 ≤ #V) (S : Finset C)
+    (hS : ∀ u ∈ S, u ∉ ({g0 ∅, g1 ∅} : Finset C))
+    (R : C → Finset U) (w : C → U → ZMod 2)
+    (hw : ∀ u ∈ S, ∀ A ⊆ V \ R u, 0 < #A → #A < k → u ∈ ({g0 A, g1 A} : Finset C) →
+      (∀ B ⊂ A, u ∉ ({g0 B, g1 B} : Finset C)) → ∑ x ∈ A, w u x = 1) :
+    2 ^ k * #V * #(powersetCard k V) ≤
+      32 * #V * ∑ Y ∈ powersetCard k V, (2 ^ k - #((Y.powerset.filter (fun A => A ≠ Y)).biUnion
+        (fun A => ({g0 A, g1 A} : Finset C)))) +
+      32 * #V * (2 ^ k - #S) * #(powersetCard k V) +
+      32 * k * #(powersetCard k V) *
+        ∑ u ∈ S, (#(R u) + #((V \ R u).filter (fun x => w u x = 0))) := by
+  set K := #(powersetCard k V) with hK
+  set N := #V with hN
+  set E : C → Finset U := fun u => R u ∪ (V \ R u).filter (fun x => w u x = 0) with hE
+  set Qo : Finset U → ℕ := fun Y => 2 ^ k - #((Y.powerset.filter (fun A => A ≠ Y ∧ #A % 2 = 1)).biUnion
+        (fun A => ({g0 A, g1 A} : Finset C))) with hQo
+  set Dp : Finset U → ℕ := fun Y => 2 ^ k - #((Y.powerset.filter (fun A => A ≠ Y)).biUnion
+        (fun A => ({g0 A, g1 A} : Finset C))) with hDp
+  have h11 : 2 ^ k * K ≤ 32 * ∑ Y ∈ powersetCard k V, Qo Y := proper_odd_palette k hk hC g0 g1 V hV
+  have h14 : ∀ Y ∈ powersetCard k V, Qo Y ≤ Dp Y + (2 ^ k - #S) +
+      #(S.filter (fun u => ¬ Disjoint Y (E u))) := by
+    intro Y hY
+    rw [mem_powersetCard] at hY
+    have := face_bound k g0 g1 V S hS R w hw Y hY.1 hY.2
+    rw [hC] at this; exact this
+  have hsum14 := sum_le_sum h14
+  rw [sum_add_distrib, sum_add_distrib, sum_const, smul_eq_mul] at hsum14
+  have hswap : ∑ Y ∈ powersetCard k V, #(S.filter (fun u => ¬ Disjoint Y (E u))) =
+      ∑ u ∈ S, #((powersetCard k V).filter (fun Y => ¬ Disjoint Y (E u))) := by
+    simp only [card_filter]; rw [sum_comm]
+  have hmeet : ∀ u ∈ S, N * #((powersetCard k V).filter (fun Y => ¬ Disjoint Y (E u))) ≤
+      (#(R u) + #((V \ R u).filter (fun x => w u x = 0))) * (k * K) := by
+    intro u _
+    exact (card_meeting V (E u) k (by omega)).trans
+      (Nat.mul_le_mul_right _ (card_union_le _ _))
+  have hm2 := sum_le_sum hmeet
+  rw [← mul_sum, ← sum_mul] at hm2
+  rw [hswap] at hsum14
+  have hNpos : 0 < N := by omega
+  calc 2 ^ k * N * K = N * (2 ^ k * K) := by ring
+    _ ≤ N * (32 * ∑ Y ∈ powersetCard k V, Qo Y) := Nat.mul_le_mul_left _ h11
+    _ ≤ N * (32 * (∑ Y ∈ powersetCard k V, Dp Y + K * (2 ^ k - #S) +
+          ∑ u ∈ S, #((powersetCard k V).filter (fun Y => ¬ Disjoint Y (E u))))) :=
+        Nat.mul_le_mul_left _ (Nat.mul_le_mul_left _ hsum14)
+    _ = 32 * N * ∑ Y ∈ powersetCard k V, Dp Y + 32 * N * (2 ^ k - #S) * K +
+          32 * (N * ∑ u ∈ S, #((powersetCard k V).filter (fun Y => ¬ Disjoint Y (E u)))) := by ring
+    _ ≤ 32 * N * ∑ Y ∈ powersetCard k V, Dp Y + 32 * N * (2 ^ k - #S) * K +
+          32 * ((∑ u ∈ S, (#(R u) + #((V \ R u).filter (fun x => w u x = 0)))) * (k * K)) := by
+        gcongr
+    _ = _ := by ring
+
+end
+end E624R11
+
+namespace Erdos624
+
+theorem proper_parent_certificate_ineq {U : Type*} [Fintype U] [DecidableEq U]
+    {C : Type*} [Fintype C] [DecidableEq C] (k : ℕ) (hk : 3 ≤ k) (hC : Fintype.card C = 2 ^ k)
+    (g0 g1 : Finset U → C) (V : Finset U) (hV : k + 5 ≤ #V) (S : Finset C)
+    (hS : ∀ u ∈ S, u ∉ ({g0 ∅, g1 ∅} : Finset C))
+    (R : C → Finset U) (w : C → U → ZMod 2)
+    (hw : ∀ u ∈ S, ∀ A ⊆ V \ R u, 0 < #A → #A < k → u ∈ ({g0 A, g1 A} : Finset C) →
+      (∀ B ⊂ A, u ∉ ({g0 B, g1 B} : Finset C)) → ∑ x ∈ A, w u x = 1) :
+    2 ^ k * #V * #(powersetCard k V) ≤
+      32 * #V * ∑ Y ∈ powersetCard k V, (2 ^ k - #((Y.powerset.filter (fun A => A ≠ Y)).biUnion
+        (fun A => ({g0 A, g1 A} : Finset C)))) +
+      32 * #V * (2 ^ k - #S) * #(powersetCard k V) +
+      32 * k * #(powersetCard k V) *
+        ∑ u ∈ S, (#(R u) + #((V \ R u).filter (fun x => w u x = 0))) := by
+  exact E624R11.certificate_ineq k hk hC g0 g1 V hV S hS R w hw
+
+end Erdos624
+
+open Finset
+
+theorem solution {U : Type*} [Fintype U] [DecidableEq U]
+    {C : Type*} [Fintype C] [DecidableEq C] (k : ℕ) (hk : 3 ≤ k) (hC : Fintype.card C = 2 ^ k)
+    (g0 g1 : Finset U → C) (V : Finset U) (hV : k + 5 ≤ #V) (S : Finset C)
+    (hS : ∀ u ∈ S, u ∉ ({g0 ∅, g1 ∅} : Finset C))
+    (R : C → Finset U) (w : C → U → ZMod 2)
+    (hw : ∀ u ∈ S, ∀ A ⊆ V \ R u, 0 < #A → #A < k → u ∈ ({g0 A, g1 A} : Finset C) →
+      (∀ B ⊂ A, u ∉ ({g0 B, g1 B} : Finset C)) → ∑ x ∈ A, w u x = 1) :
+    2 ^ k * #V * #(powersetCard k V) ≤
+      32 * #V * ∑ Y ∈ powersetCard k V, (2 ^ k - #((Y.powerset.filter (fun A => A ≠ Y)).biUnion
+        (fun A => ({g0 A, g1 A} : Finset C)))) +
+      32 * #V * (2 ^ k - #S) * #(powersetCard k V) +
+      32 * k * #(powersetCard k V) *
+        ∑ u ∈ S, (#(R u) + #((V \ R u).filter (fun x => w u x = 0))) :=
+  Erdos624.proper_parent_certificate_ineq k hk hC g0 g1 V hV S hS R w hw

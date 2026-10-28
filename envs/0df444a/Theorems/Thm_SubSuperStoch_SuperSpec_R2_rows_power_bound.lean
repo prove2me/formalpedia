@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubSuperStoch_SuperSpec_R2_rows_power_bound
 -- name    : SubSuperStoch.SuperSpec.R2_rows_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:26:07.174104+00:00
 -- url     : https://prove2.me/theorems/a67e69a9-718d-4cc9-9f0b-f42f0136dbd8

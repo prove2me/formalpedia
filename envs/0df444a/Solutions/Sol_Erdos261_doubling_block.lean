@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.doubling_block
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:53.503994+00:00
 -- url     : https://prove2.me/submissions/1d3bfdc1-6048-4acf-82c9-40ac93a0ec28
 

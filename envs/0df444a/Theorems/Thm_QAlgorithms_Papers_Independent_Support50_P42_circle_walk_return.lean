@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_circle_walk_return
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.circle_walk_return
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:17:11.310037+00:00
 -- url     : https://prove2.me/theorems/4b37e0bc-e4d0-4f50-a1df-a7f1285f9f69

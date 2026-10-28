@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_IndifferencePricing_one_period_indifference_solution
 -- name    : MDPFinance.IndifferencePricing.one_period_indifference_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:10:32.23052+00:00
 -- url     : https://prove2.me/theorems/8ac4627c-6167-46b2-9588-4cc38ac2f00c

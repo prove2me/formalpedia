@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.no_second_phase_dioph
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:17.785277+00:00
 -- url     : https://prove2.me/submissions/c7733dec-b932-4700-a1d3-d1b4e735f7d1
 

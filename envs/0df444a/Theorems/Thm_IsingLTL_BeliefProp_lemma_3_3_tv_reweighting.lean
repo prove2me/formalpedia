@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsingLTL_BeliefProp_lemma_3_3_tv_reweighting
 -- name    : IsingLTL.BeliefProp.lemma_3_3_tv_reweighting
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:30.222696+00:00
 -- url     : https://prove2.me/theorems/a3928a69-4c02-407b-a8a0-8fe247fcf7fa

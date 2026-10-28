@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_purification_measure_counterexample
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.purification_measure_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:27:04.55246+00:00
 -- url     : https://prove2.me/theorems/cf3dc8ff-a7be-4334-a324-ec52aa8393ee

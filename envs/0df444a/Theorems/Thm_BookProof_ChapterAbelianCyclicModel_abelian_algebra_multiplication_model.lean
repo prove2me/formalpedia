@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianCyclicModel_abelian_algebra_multiplication_model
 -- name    : BookProof.ChapterAbelianCyclicModel.abelian_algebra_multiplication_model
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:21:41.673545+00:00
 -- url     : https://prove2.me/theorems/82c6bb90-e8c9-4e6f-8657-e538d3e5ba71

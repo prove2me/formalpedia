@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WernerExt_TwoSided_dual_dominance
 -- name    : WernerExt.TwoSided.dual_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:43:41.449029+00:00
 -- url     : https://prove2.me/theorems/3212d0a9-6c5a-416f-ba46-56ffd5f630f4

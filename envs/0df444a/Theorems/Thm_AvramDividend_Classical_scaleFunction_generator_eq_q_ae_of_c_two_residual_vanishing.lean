@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_eq_q_ae_of_c_two_residual_vanishing
 -- name    : AvramDividend.Classical.scaleFunction_generator_eq_q_ae_of_c_two_residual_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T15:11:57.820984+00:00
 -- url     : https://prove2.me/theorems/cbef8cbe-82d2-46b3-96d5-df0d2a694d20

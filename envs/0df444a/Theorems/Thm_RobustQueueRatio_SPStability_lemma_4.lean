@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustQueueRatio_SPStability_lemma_4
 -- name    : RobustQueueRatio.SPStability.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:23:59.597558+00:00
 -- url     : https://prove2.me/theorems/a6e06b4b-aaf7-41cd-a19c-17aea9d83fe0

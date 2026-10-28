@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaVaRAmb_Robust_theorem_2
 -- name    : LambdaVaRAmb.Robust.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:38.369428+00:00
 -- url     : https://prove2.me/theorems/806cf95c-fbfc-455e-a834-30337f8ee598

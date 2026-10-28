@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_CFixing_corollary_4_11
 -- name    : SymBoolPCSP.CFixing.corollary_4_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:46.042293+00:00
 -- url     : https://prove2.me/theorems/dddc0649-ffda-4f8c-beda-a3afe5bd07ed

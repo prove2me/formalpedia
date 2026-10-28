@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsSDP_dual_constraint_rewrite
 -- name    : MinimaxSLP.RhsSDP.dual_constraint_rewrite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:33.921984+00:00
 -- url     : https://prove2.me/theorems/210365d6-312e-4682-9082-f8e46d6255b4

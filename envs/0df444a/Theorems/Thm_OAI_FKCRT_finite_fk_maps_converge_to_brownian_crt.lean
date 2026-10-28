@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FKCRT_finite_fk_maps_converge_to_brownian_crt
 -- name    : OAI.FKCRT.finite_fk_maps_converge_to_brownian_crt
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:40.087723+00:00
 -- url     : https://prove2.me/theorems/81ba7106-90d1-4200-b707-a7f51f66bda5

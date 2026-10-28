@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P26_appendixA_rate_elimination
 -- name    : QAlgorithms.Papers.Independent.Support50.P26.appendixA_rate_elimination
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:06:38.256256+00:00
 -- url     : https://prove2.me/theorems/31d01e07-2b6e-467c-baa3-0a79b1df81bd

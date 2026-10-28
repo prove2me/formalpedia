@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_maxRelative_mixture_bound
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.maxRelative_mixture_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:45:18.780252+00:00
 -- url     : https://prove2.me/theorems/2bc5503b-b7e2-4fde-9bf3-05341e4f25d8

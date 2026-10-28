@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P30_weightedDataset_delta
 -- name    : QAlgorithms.Papers.Independent.Support50.P30.weightedDataset_delta
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:28:34.973457+00:00
 -- url     : https://prove2.me/theorems/2f55080e-43ad-4051-8b70-d60976766ed1

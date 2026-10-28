@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VdNSim_Sparse_claim_2
 -- name    : VdNSim.Sparse.claim_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:31:57.754987+00:00
 -- url     : https://prove2.me/theorems/7d4ebe0d-9b21-4837-a013-48183e05e8fc

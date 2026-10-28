@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CoboundaryExpanders_main
 -- name    : OAI.CoboundaryExpanders.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:27.216235+00:00
 -- url     : https://prove2.me/theorems/df257a7d-604a-45ec-a1e2-4985b71dc6bc

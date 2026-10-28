@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RVM_global_classical_solution
 -- name    : OAI.RVM.global_classical_solution
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:13.879113+00:00
 -- url     : https://prove2.me/theorems/0842bda1-8e8f-4ec6-9a55-b67482d37aef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KyleProduction_Monopoly_insider_best_response
 -- name    : KyleProduction.Monopoly.insider_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:24.935703+00:00
 -- url     : https://prove2.me/theorems/a3a27c65-7489-4d23-88db-7f800e63d883

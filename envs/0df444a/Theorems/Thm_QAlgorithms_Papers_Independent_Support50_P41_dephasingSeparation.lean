@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_dephasingSeparation
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.dephasingSeparation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:18:34.871162+00:00
 -- url     : https://prove2.me/theorems/941fa2e5-dde4-48c2-a6b1-b595bb6e6edd

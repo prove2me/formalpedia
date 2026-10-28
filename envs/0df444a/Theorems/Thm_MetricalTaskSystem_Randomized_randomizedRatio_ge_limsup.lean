@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Randomized_randomizedRatio_ge_limsup
 -- name    : MetricalTaskSystem.Randomized.randomizedRatio_ge_limsup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:19:17.118773+00:00
 -- url     : https://prove2.me/theorems/9744036f-34d6-4004-8905-b14f023b1d0e

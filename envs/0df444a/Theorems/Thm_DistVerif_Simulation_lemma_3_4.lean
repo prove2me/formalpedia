@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistVerif_Simulation_lemma_3_4
 -- name    : DistVerif.Simulation.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:24:09.981981+00:00
 -- url     : https://prove2.me/theorems/e71ecab3-270c-4c92-8fc2-c2c2150423cf

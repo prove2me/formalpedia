@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonDoubleCount_Leader_rule12_participation
 -- name    : CarbonDoubleCount.Leader.rule12_participation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:39:22.105105+00:00
 -- url     : https://prove2.me/theorems/143753d2-594f-43b1-bc05-b69e12f1b7e7

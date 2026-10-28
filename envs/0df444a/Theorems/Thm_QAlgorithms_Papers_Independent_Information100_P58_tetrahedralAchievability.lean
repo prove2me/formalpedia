@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_tetrahedralAchievability
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.tetrahedralAchievability
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:17:30.779253+00:00
 -- url     : https://prove2.me/theorems/f2b18b52-20be-4ca5-acd9-201ca3f56260

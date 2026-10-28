@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CPDNetworks.Unknown.grid_card
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:03:59.42012+00:00
 -- url     : https://prove2.me/submissions/d3de259c-6bf9-41d1-8545-27621ac89c13
 

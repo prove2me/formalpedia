@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReputationLies_Matching_topHeavy_strictConvexOn
 -- name    : ReputationLies.Matching.topHeavy_strictConvexOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:04.623397+00:00
 -- url     : https://prove2.me/theorems/93b83752-65bc-4b28-925e-21afc5c03375

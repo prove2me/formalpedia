@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.Wj_safe_released
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T10:01:41.707002+00:00
 -- url     : https://prove2.me/submissions/d521b0fc-e2d3-4524-a819-11dbf6f307fc
 

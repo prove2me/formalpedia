@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.partition_counting
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T05:30:43.02843+00:00
 -- url     : https://prove2.me/submissions/afe1a7aa-3d28-4c77-8fb8-5acba68d8afc
 

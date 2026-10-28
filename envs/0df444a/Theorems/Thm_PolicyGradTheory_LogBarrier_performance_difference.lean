@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolicyGradTheory_LogBarrier_performance_difference
 -- name    : PolicyGradTheory.LogBarrier.performance_difference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:55:37.418208+00:00
 -- url     : https://prove2.me/theorems/cc685e70-cb56-4277-85f1-777d1730a728

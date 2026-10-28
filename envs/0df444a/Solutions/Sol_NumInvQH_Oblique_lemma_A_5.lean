@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NumInvQH.Oblique.lemma_A_5
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:32:18.547946+00:00
 -- url     : https://prove2.me/submissions/eed7ca33-4e55-4f9d-8a19-2a6377bb8fb2
 

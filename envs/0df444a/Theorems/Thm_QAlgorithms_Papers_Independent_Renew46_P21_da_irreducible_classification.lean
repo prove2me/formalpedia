@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P21_da_irreducible_classification
 -- name    : QAlgorithms.Papers.Independent.Renew46.P21.da_irreducible_classification
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:28:12.267838+00:00
 -- url     : https://prove2.me/theorems/d0bd847c-f6ad-41b7-89eb-ef1b50c2fc49

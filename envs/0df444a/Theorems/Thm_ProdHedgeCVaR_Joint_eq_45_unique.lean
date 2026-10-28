@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProdHedgeCVaR_Joint_eq_45_unique
 -- name    : ProdHedgeCVaR.Joint.eq_45_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:46:03.449987+00:00
 -- url     : https://prove2.me/theorems/815c5629-9aea-4353-97ad-8e157ed03872

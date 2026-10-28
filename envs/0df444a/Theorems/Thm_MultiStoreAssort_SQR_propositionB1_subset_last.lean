@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_propositionB1_subset_last
 -- name    : MultiStoreAssort.SQR.propositionB1_subset_last
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:13.074597+00:00
 -- url     : https://prove2.me/theorems/0692c965-5769-404a-a803-1505b5b1dddd

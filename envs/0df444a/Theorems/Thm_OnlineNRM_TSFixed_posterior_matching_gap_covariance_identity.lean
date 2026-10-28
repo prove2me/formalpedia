@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineNRM_TSFixed_posterior_matching_gap_covariance_identity
 -- name    : OnlineNRM.TSFixed.posterior_matching_gap_covariance_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T18:31:47.028523+00:00
 -- url     : https://prove2.me/theorems/7af433ea-6c57-49ce-ab83-35f6286fc825

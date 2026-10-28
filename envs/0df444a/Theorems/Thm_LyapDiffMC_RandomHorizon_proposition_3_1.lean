@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LyapDiffMC_RandomHorizon_proposition_3_1
 -- name    : LyapDiffMC.RandomHorizon.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:47.558982+00:00
 -- url     : https://prove2.me/theorems/67d03b22-9311-4877-9b4f-5e3bcd05c1d1

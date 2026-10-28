@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P02_holevo_iff_entanglementBreaking
 -- name    : QAlgorithms.Papers.Independent.Independent1.P02.holevo_iff_entanglementBreaking
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:18:43.276294+00:00
 -- url     : https://prove2.me/theorems/4495818d-8a2f-423f-b87c-fdad990760f0

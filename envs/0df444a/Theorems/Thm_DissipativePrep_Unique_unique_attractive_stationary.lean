@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DissipativePrep_Unique_unique_attractive_stationary
 -- name    : DissipativePrep.Unique.unique_attractive_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:47:16.990752+00:00
 -- url     : https://prove2.me/theorems/9790b7b6-dc3e-4184-9934-4a6b30c69c98

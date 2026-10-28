@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_effective_acceleration_equation
 -- name    : CosmologyEOS.effective_acceleration_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:39.306224+00:00
 -- url     : https://prove2.me/theorems/f9489f0e-3eb5-4a7a-9cc1-c9e0d4267305

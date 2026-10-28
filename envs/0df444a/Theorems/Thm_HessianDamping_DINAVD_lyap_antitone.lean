@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_DINAVD_lyap_antitone
 -- name    : HessianDamping.DINAVD.lyap_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:17.11398+00:00
 -- url     : https://prove2.me/theorems/02a13475-1bb2-4009-9c7e-4b8c6e0a6d56

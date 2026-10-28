@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.residue_extremum_below
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:00.728871+00:00
 -- url     : https://prove2.me/submissions/33d2e548-d2f9-4e31-89e3-f5de303b8663
 

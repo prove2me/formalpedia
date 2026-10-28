@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_alphaPureDuality
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.alphaPureDuality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:59:42.996009+00:00
 -- url     : https://prove2.me/theorems/2081cbb7-df0a-4651-b7a8-5e1a4b764606

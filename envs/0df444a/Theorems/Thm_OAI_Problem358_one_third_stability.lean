@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem358_one_third_stability
 -- name    : OAI.Problem358.one_third_stability
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:11.430978+00:00
 -- url     : https://prove2.me/theorems/b8f8eaff-6364-4e13-b492-77d4e34000f1

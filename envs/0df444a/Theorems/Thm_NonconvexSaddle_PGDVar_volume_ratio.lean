@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSaddle_PGDVar_volume_ratio
 -- name    : NonconvexSaddle.PGDVar.volume_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:10:56.990217+00:00
 -- url     : https://prove2.me/theorems/98affd50-6bc2-4c39-b9dc-eacd4b923f16

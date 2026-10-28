@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for J6Seg.ChB.axBudget6_ap6
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:38:03.696432+00:00
 -- url     : https://prove2.me/submissions/9248e6a7-dec4-436e-bd6c-f60cb60f8b38
 

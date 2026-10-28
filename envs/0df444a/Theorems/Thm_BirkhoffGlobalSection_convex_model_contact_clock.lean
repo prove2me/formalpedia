@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirkhoffGlobalSection_convex_model_contact_clock
 -- name    : BirkhoffGlobalSection.convex_model_contact_clock
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-03T23:12:27.300553+00:00
 -- url     : https://prove2.me/theorems/e63a4b7b-b8fa-4fc4-bcfb-6eb2676173ea

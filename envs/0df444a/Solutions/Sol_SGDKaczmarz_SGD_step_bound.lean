@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SGDKaczmarz.SGD.step_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:27:24.249999+00:00
 -- url     : https://prove2.me/submissions/dec0edbf-4216-4a63-9e60-044e10a630b5
 

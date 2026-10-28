@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrbNetEqui_Equivariance_corollary_S3
 -- name    : OrbNetEqui.Equivariance.corollary_S3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:38:51.515018+00:00
 -- url     : https://prove2.me/theorems/fd5ba8e7-c01e-4210-9026-0829f1325b3b

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_escape_chain_terminates_tree
 -- name    : Erdos195.escape_chain_terminates_tree
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:17:14.559726+00:00
 -- url     : https://prove2.me/theorems/b9530d8c-d643-4809-b0cf-d68e25680d05
 -- title:

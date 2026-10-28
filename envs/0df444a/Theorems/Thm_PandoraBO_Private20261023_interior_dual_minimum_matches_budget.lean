@@ -13,7 +13,7 @@
 --
 --   Randomized policies are included. The separate Gittins cost-extrema milestone supplies the additional bridge needed to choose a budget-matching policy inside the index-policy class.
 -- source:
---   Xie, Astudillo, Frazier, Scully and Terenin, Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index, NeurIPS 2024; arXiv:2406.20062v3 (16 January 2025), https://arxiv.org/pdf/2406.20062v3, Appendix B.5, pp. 21–22, Lemma 8 and equations (48)–(55). Mission source version: the author-revised manuscript reviewed on 23 October 2026, intended for arXiv v4; public posting is pending. References to arXiv v3 identify the earlier published version.
+--   Qian Xie, Raul Astudillo, Peter I. Frazier, Ziv Scully, and Alexander Terenin. [Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index](https://arxiv.org/abs/2406.20062). NeurIPS 2024. Appendix B.5, Lemma 8: budget matching at a strictly positive dual minimizer.
 
 import Definitions.Def_PandoraBO_Model
 

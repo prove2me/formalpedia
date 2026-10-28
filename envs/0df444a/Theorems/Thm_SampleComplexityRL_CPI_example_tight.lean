@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_CPI_example_tight
 -- name    : SampleComplexityRL.CPI.example_tight
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:13:17.629196+00:00
 -- url     : https://prove2.me/theorems/88d570be-0d3b-4c90-87c2-b1c93dcc212d

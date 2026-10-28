@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_SVM_margin_bound_binary_classification_v2
 -- name    : FoundationsML.SVM.margin_bound_binary_classification_v2
--- status  : Open
+-- status  : Disproved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:19:20.620074+00:00
 -- url     : https://prove2.me/theorems/6baebbce-09a8-41ea-8daa-87af4ae14098

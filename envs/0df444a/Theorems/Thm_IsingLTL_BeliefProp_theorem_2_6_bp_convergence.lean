@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsingLTL_BeliefProp_theorem_2_6_bp_convergence
 -- name    : IsingLTL.BeliefProp.theorem_2_6_bp_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:16:56.62232+00:00
 -- url     : https://prove2.me/theorems/183d4682-be4b-4cec-b69c-aba3d33dcab4

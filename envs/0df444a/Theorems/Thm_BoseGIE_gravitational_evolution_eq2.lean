@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoseGIE_gravitational_evolution_eq2
 -- name    : BoseGIE.gravitational_evolution_eq2
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-11T19:25:20.578083+00:00
 -- url     : https://prove2.me/theorems/b5c23001-ec9b-45b5-8474-2c6f4f60e325

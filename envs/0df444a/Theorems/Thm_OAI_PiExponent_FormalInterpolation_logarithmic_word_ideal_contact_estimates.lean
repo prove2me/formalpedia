@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_word_ideal_contact_estimates
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmic_word_ideal_contact_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T03:41:55.65046+00:00
 -- url     : https://prove2.me/theorems/e957da7d-7ac6-44a1-857f-2182088787fc

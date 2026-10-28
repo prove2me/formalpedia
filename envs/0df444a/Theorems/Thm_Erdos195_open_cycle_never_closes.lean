@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_cycle_never_closes
 -- name    : Erdos195.open_cycle_never_closes
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:37:51.809806+00:00
 -- url     : https://prove2.me/theorems/e06b731d-a031-4c0b-b616-9686db282df8
 -- title:

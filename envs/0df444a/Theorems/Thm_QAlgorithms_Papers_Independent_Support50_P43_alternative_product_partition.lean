@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P43_alternative_product_partition
 -- name    : QAlgorithms.Papers.Independent.Support50.P43.alternative_product_partition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:33:09.785166+00:00
 -- url     : https://prove2.me/theorems/c1c1010f-ed99-4459-bdaf-8bf9554bdad2

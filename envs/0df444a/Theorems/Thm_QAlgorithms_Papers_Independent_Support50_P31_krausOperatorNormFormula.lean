@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P31_krausOperatorNormFormula
 -- name    : QAlgorithms.Papers.Independent.Support50.P31.krausOperatorNormFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:27:50.652998+00:00
 -- url     : https://prove2.me/theorems/2f77ac55-bdf8-4cc1-b58b-8704ab1a7c10

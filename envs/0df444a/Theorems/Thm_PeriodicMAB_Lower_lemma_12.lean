@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicMAB_Lower_lemma_12
 -- name    : PeriodicMAB.Lower.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:07:22.368948+00:00
 -- url     : https://prove2.me/theorems/937ed18c-fbda-497f-b2f9-41478f01a9fc

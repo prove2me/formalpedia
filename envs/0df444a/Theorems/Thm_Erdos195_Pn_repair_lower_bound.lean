@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_Pn_repair_lower_bound
 -- name    : Erdos195.Pn_repair_lower_bound
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:38:04.114988+00:00
 -- url     : https://prove2.me/theorems/b96176e5-f401-453a-961a-2cb87badf28d
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FiniteFactor_main_theorem
 -- name    : OAI.FiniteFactor.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:40.708682+00:00
 -- url     : https://prove2.me/theorems/b29ac5c6-8fbf-4964-8d34-c42b78bb9c3a

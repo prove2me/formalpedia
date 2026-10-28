@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HaahQSP_Decomp_prim_mem_E1
 -- name    : HaahQSP.Decomp.prim_mem_E1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:26.655932+00:00
 -- url     : https://prove2.me/theorems/6ddc8cb3-9de8-4f05-96ca-e62c2e85ef6e

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_no_third_term_chain_not_exhaustive
 -- name    : Erdos195.no_third_term_chain_not_exhaustive
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:27.22779+00:00
 -- url     : https://prove2.me/theorems/e83b045b-7576-4085-9bad-946aa11daab8
 -- title:

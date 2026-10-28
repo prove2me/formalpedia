@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P31_productInputBounds
 -- name    : QAlgorithms.Papers.Independent.Support50.P31.productInputBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:24:20.46626+00:00
 -- url     : https://prove2.me/theorems/50eb64a0-a461-40af-92e1-c43c2a37b269

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DissipativePrep_Unique_product_spectrum
 -- name    : DissipativePrep.Unique.product_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:47:14.097713+00:00
 -- url     : https://prove2.me/theorems/6b71d71a-7fd2-40c2-97da-d7d6effc9335

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeinbergPOMDP_Setwise_example_4_1
 -- name    : FeinbergPOMDP.Setwise.example_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:56:33.730596+00:00
 -- url     : https://prove2.me/theorems/d92759ef-edf6-4a22-808e-8766031e612c

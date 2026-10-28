@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Levin2003_exists_complete_length_preserving_owf
 -- name    : Levin2003.exists_complete_length_preserving_owf
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-20T22:01:03.98326+00:00
 -- url     : https://prove2.me/theorems/5156a12d-c347-44be-8533-3273a3023c65

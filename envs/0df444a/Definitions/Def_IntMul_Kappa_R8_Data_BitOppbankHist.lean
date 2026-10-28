@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankHist
 -- name    : IntMul_Kappa_R8_Data_BitOppbankHist
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:32:07.692083+00:00
 -- url     : https://prove2.me/theorems/cb4b257b-f0c6-4043-8e59-32b251fdad4d
 -- title:

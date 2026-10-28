@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_alphaMonotone
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.alphaMonotone
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:57:33.444691+00:00
 -- url     : https://prove2.me/theorems/68c23c51-56a9-40ef-8181-7bcab46f5ca7

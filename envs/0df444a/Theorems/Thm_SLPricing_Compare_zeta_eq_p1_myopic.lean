@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPricing_Compare_zeta_eq_p1_myopic
 -- name    : SLPricing.Compare.zeta_eq_p1_myopic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:56:55.843991+00:00
 -- url     : https://prove2.me/theorems/6d28e2d5-20f3-471c-bbaa-40960bf2b7bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P05_infiniteEntanglementDense
 -- name    : QAlgorithms.Papers.Independent.Gap20.P05.infiniteEntanglementDense
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T23:07:30.853433+00:00
 -- url     : https://prove2.me/theorems/3d9d7296-513f-4b78-bb2c-3c08b4ab388e

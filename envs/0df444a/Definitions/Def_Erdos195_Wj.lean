@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Erdos195_Wj
 -- name    : Erdos195_Wj
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T09:55:54.488647+00:00
 -- url     : https://prove2.me/theorems/7487c199-6d45-4f38-ab15-c9387f1cbc26
 -- title:

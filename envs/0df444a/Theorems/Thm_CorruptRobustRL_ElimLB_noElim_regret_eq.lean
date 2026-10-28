@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_ElimLB_noElim_regret_eq
 -- name    : CorruptRobustRL.ElimLB.noElim_regret_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:05.571351+00:00
 -- url     : https://prove2.me/theorems/34b38c4c-f264-4fe9-b407-b8d008965330

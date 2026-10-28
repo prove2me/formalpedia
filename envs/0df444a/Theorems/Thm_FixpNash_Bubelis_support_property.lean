@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Bubelis_support_property
 -- name    : FixpNash.Bubelis.support_property
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:37.338996+00:00
 -- url     : https://prove2.me/theorems/a989ffd1-9388-4448-8d22-75a6edf0c5b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAmpEst_Est_lemma_1
 -- name    : QAmpEst.Est.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:12.661668+00:00
 -- url     : https://prove2.me/theorems/fbf0fafb-6105-42af-8252-f1a44ad476c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Qg3DGaugeEsa_qg3D_stone_flow
 -- name    : BookProof.Qg3DGaugeEsa.qg3D_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T19:39:19.636998+00:00
 -- url     : https://prove2.me/theorems/4a8316f2-2961-4961-985d-119dfce97112

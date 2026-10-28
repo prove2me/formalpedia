@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EffResSparsify_Sampling_theorem_1
 -- name    : EffResSparsify.Sampling.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:34:23.821984+00:00
 -- url     : https://prove2.me/theorems/311eec0b-39b3-4730-85c6-b5c0f36205e7

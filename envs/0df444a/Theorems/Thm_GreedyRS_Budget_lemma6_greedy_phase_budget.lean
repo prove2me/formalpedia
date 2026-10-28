@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Budget_lemma6_greedy_phase_budget
 -- name    : GreedyRS.Budget.lemma6_greedy_phase_budget
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:06.200131+00:00
 -- url     : https://prove2.me/theorems/6760f6ab-4b68-4918-bcc0-37b2538dc099

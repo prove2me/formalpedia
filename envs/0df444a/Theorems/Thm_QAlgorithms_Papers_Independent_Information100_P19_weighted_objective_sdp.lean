@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_weighted_objective_sdp
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.weighted_objective_sdp
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:07:31.50578+00:00
 -- url     : https://prove2.me/theorems/7b6a7e01-6467-48ef-8ea5-66425518d11c

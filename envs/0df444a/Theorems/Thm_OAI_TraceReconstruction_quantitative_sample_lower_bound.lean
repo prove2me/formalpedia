@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TraceReconstruction_quantitative_sample_lower_bound
 -- name    : OAI.TraceReconstruction.quantitative_sample_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:33.799293+00:00
 -- url     : https://prove2.me/theorems/36f87ae3-b30a-4b87-a7af-25350d9321dd

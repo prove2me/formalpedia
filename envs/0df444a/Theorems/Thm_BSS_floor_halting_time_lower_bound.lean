@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSS_floor_halting_time_lower_bound
 -- name    : BSS.floor_halting_time_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-14T15:07:49.325124+00:00
 -- url     : https://prove2.me/theorems/e0cbdd6c-ddfd-42cc-844f-326a28b86976

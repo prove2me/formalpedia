@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobertsonSeymour1991_GM10_Minimax_result_2_8_no_order_zero
 -- name    : RobertsonSeymour1991.GM10.Minimax.result_2_8_no_order_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:01:51.246703+00:00
 -- url     : https://prove2.me/theorems/a67af7f0-39a4-40f8-a6c1-f86e2bc57c1a

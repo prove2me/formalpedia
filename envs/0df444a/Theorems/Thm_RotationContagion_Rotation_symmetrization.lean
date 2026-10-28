@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationContagion_Rotation_symmetrization
 -- name    : RotationContagion.Rotation.symmetrization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:37.179998+00:00
 -- url     : https://prove2.me/theorems/fcf70630-97eb-4335-92d8-2105fe4760e6

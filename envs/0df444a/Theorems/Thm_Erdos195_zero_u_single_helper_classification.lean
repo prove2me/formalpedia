@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_zero_u_single_helper_classification
 -- name    : Erdos195.zero_u_single_helper_classification
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:51:56.727351+00:00
 -- url     : https://prove2.me/theorems/dcbc8e03-22ed-4976-8dbe-55bcf9bd0ea4
 -- title:

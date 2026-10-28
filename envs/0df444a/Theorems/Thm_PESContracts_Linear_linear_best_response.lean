@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PESContracts_Linear_linear_best_response
 -- name    : PESContracts.Linear.linear_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:18.706696+00:00
 -- url     : https://prove2.me/theorems/c662e4c8-ba75-4906-9474-aec2bd4ff485

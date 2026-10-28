@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KKBinPacking.GeometricGrouping.size_le_lin_le_opt_le_lin_add
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Yuxuan Xu
 -- created : 2026-10-02T13:49:40.715952+00:00
 -- url     : https://prove2.me/submissions/ad4a1544-6ebb-4451-9e9b-d7c58d819c46
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_KKBinPacking_GeometricGrouping_size_le_lin
 import Theorems.Thm_KKBinPacking_GeometricGrouping_lin_le_opt

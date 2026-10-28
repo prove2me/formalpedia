@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NsBrstDerivativeGauge.nsDerivBrstCharge2_ne_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:46:36.644181+00:00
 -- url     : https://prove2.me/submissions/f8850ff1-bff7-4d8c-80f4-cd5c8f8d8831
 

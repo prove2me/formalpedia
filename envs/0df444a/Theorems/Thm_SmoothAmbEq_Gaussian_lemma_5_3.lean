@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothAmbEq_Gaussian_lemma_5_3
 -- name    : SmoothAmbEq.Gaussian.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:08.63364+00:00
 -- url     : https://prove2.me/theorems/de459f83-88ea-417c-b656-7c3672d0bed5

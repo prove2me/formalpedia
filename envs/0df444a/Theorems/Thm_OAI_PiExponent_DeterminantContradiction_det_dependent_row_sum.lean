@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_det_dependent_row_sum
 -- name    : OAI.PiExponent.DeterminantContradiction.det_dependent_row_sum
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:33:21.84506+00:00
 -- url     : https://prove2.me/theorems/ac752a47-ca55-4518-b1ea-570d69afdd62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_StandardMapEntropy_main_components
 -- name    : OAI.StandardMapEntropy.main_components
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:26.037613+00:00
 -- url     : https://prove2.me/theorems/a7f3bdf2-bad8-42c6-a91c-1d1f6bda849a

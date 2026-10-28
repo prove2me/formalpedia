@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_continuousOn_causal_tsum_of_quadratic_over_x_geometric_bound
 -- name    : AvramDividend.Classical.continuousOn_causal_tsum_of_quadratic_over_x_geometric_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T22:21:36.165569+00:00
 -- url     : https://prove2.me/theorems/e3188f4f-903f-40ca-a3c9-598ba4d1251f

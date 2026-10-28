@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_epsLt_chain_extremes_congr
 -- name    : Erdos195.epsLt_chain_extremes_congr
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T01:06:25.603362+00:00
 -- url     : https://prove2.me/theorems/071a03bd-c5b9-4b2b-acf8-525f14038e34
 -- title:

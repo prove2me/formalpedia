@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KernelPotential_actual_row_drift
 -- name    : OAI.KernelPotential.actual_row_drift
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:51.22378+00:00
 -- url     : https://prove2.me/theorems/26d9f850-8c44-431c-9eb2-4646cbf798d6

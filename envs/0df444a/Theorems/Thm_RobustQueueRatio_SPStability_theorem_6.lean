@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustQueueRatio_SPStability_theorem_6
 -- name    : RobustQueueRatio.SPStability.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:24:02.759592+00:00
 -- url     : https://prove2.me/theorems/a48b8c8f-73f6-4e1d-a793-016037c3c386

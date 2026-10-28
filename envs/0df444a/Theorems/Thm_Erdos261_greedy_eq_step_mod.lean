@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_greedy_eq_step_mod
 -- name    : Erdos261.greedy_eq_step_mod
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:01.402212+00:00
 -- url     : https://prove2.me/theorems/1320a72b-ce8c-465b-93e7-408a9f00ab54
 -- title:

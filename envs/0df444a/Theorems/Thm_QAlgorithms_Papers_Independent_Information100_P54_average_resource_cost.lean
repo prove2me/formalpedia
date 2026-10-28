@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P54_average_resource_cost
 -- name    : QAlgorithms.Papers.Independent.Information100.P54.average_resource_cost
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:09:29.364977+00:00
 -- url     : https://prove2.me/theorems/a7541298-0a73-4204-92e6-6d6417b76892

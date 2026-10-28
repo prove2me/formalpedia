@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BrauerIdem.Splitting.lemma_10
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:58:36.327439+00:00
 -- url     : https://prove2.me/submissions/f9868467-8bc0-417a-8770-342a278228db
 

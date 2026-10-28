@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidProphetKW_Inter_T_identity
 -- name    : MatroidProphetKW.Inter.T_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:24:10.532059+00:00
 -- url     : https://prove2.me/theorems/1a0f7945-a498-483e-99df-53e2a2728c8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_SufficientConditions_regret_eq_neg_beta_sum_sqErr
 -- name    : KeskinZeevi.SufficientConditions.regret_eq_neg_beta_sum_sqErr
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T04:03:40.366283+00:00
 -- url     : https://prove2.me/theorems/91d4fe37-4527-4065-985a-4af4caad9e0d

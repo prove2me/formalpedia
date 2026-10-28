@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Intersectionality_Reductive_param_continuous
 -- name    : Intersectionality.Reductive.param_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:30:55.831989+00:00
 -- url     : https://prove2.me/theorems/6fdac4ff-7694-4f35-a7f5-09f00e75f06c

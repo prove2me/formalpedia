@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassiveChannels_GCE_accessible_eq_holevo_of_orthogonal_pure
 -- name    : MassiveChannels.GCE.accessible_eq_holevo_of_orthogonal_pure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:43:41.329565+00:00
 -- url     : https://prove2.me/theorems/bea7a125-400e-4a9a-ac71-fa638d6898e4

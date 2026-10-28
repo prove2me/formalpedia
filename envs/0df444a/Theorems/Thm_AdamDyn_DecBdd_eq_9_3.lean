@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdamDyn_DecBdd_eq_9_3
 -- name    : AdamDyn.DecBdd.eq_9_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:26:25.55399+00:00
 -- url     : https://prove2.me/theorems/011ad43b-ca01-4ede-9b82-ae8f02de4f73

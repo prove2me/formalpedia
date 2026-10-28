@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_local_verification_separated_countable_jump_drop_budget
 -- name    : AvramDividend.Classical.local_verification_separated_countable_jump_drop_budget
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-22T22:24:39.068021+00:00
 -- url     : https://prove2.me/theorems/91f4781b-1386-467f-9bb1-720d169ab082

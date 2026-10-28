@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsD_pos_homog_distance_bijection
 -- name    : DiscreteConvex.MConvexFunctionsD.pos_homog_distance_bijection
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:56:48.406185+00:00
 -- url     : https://prove2.me/theorems/36346878-42c9-4e31-9963-386ad905baeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffNeighbors_Bias_credit_assignment
 -- name    : DiffNeighbors.Bias.credit_assignment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:41:22.318629+00:00
 -- url     : https://prove2.me/theorems/d67ae134-85c9-4823-8f50-149c9fa12bea

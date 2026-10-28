@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SearchNeutrality_ShortTerm_cs_s_display
 -- name    : SearchNeutrality.ShortTerm.cs_s_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:39:35.242984+00:00
 -- url     : https://prove2.me/theorems/adbf8ad9-c60d-4a3d-9928-c32b556455d6

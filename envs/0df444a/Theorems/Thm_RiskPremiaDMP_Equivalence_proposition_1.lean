@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPremiaDMP_Equivalence_proposition_1
 -- name    : RiskPremiaDMP.Equivalence.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:20.150481+00:00
 -- url     : https://prove2.me/theorems/4b95943b-19ef-4eb8-98ca-a699566f0ee3

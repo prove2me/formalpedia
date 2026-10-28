@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InvariantSDP.BlockDiag.blockRel_equivalence
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:08:50.190843+00:00
 -- url     : https://prove2.me/submissions/80f0cb20-b679-4944-815c-0f9667c3b66b
 

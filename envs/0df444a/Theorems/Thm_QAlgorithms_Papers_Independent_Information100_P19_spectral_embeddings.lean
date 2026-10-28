@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_spectral_embeddings
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.spectral_embeddings
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:48:40.639052+00:00
 -- url     : https://prove2.me/theorems/42ab2213-f6cb-4d3c-8f75-5480a2fb9382

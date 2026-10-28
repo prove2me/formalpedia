@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResidualsDRO_Wass_lemma_6
 -- name    : ResidualsDRO.Wass.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:14:37.288048+00:00
 -- url     : https://prove2.me/theorems/e4c0939f-0fe2-49b1-960b-9fa3c69e3d26

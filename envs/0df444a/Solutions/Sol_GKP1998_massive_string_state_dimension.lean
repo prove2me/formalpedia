@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GKP1998.massive_string_state_dimension
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fizzyinc3
 -- created : 2026-10-18T17:41:28.147867+00:00
 -- url     : https://prove2.me/submissions/afa3038f-d84a-4e38-bab0-4cc6fe2b0217
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GKP1998_flux_factor_nonanalytic
 import Theorems.Thm_GKP1998_mass_radius_relation

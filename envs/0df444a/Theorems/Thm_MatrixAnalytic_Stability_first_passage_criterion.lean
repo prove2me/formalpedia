@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Stability_first_passage_criterion
 -- name    : MatrixAnalytic.Stability.first_passage_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:31.942824+00:00
 -- url     : https://prove2.me/theorems/7e58131a-55cf-43b0-9328-f8bcdd220f6e

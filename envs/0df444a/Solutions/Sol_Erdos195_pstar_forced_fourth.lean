@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.pstar_forced_fourth
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:42:55.877993+00:00
 -- url     : https://prove2.me/submissions/2bd7bfae-8b99-4c66-8952-1eedba24adc8
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PrefSemimetric.TopDiff.lemma_3_4
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:11:23.019078+00:00
 -- url     : https://prove2.me/submissions/7c4c59a7-f3dd-4720-bdb9-7d4333cc27e2
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Uniform_lemma7_bias_identities
 -- name    : StabGen.Uniform.lemma7_bias_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:10:32.434405+00:00
 -- url     : https://prove2.me/theorems/b33b0c70-2da6-4954-9e85-826b9afb3f8d

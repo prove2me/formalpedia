@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_MaskedParity_theorem_5_16
 -- name    : PrivLearn.MaskedParity.theorem_5_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:48:15.13098+00:00
 -- url     : https://prove2.me/theorems/8393c162-aebf-4235-b966-3da873b45fcf

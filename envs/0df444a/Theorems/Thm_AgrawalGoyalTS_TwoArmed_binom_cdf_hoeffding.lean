@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgrawalGoyalTS_TwoArmed_binom_cdf_hoeffding
 -- name    : AgrawalGoyalTS.TwoArmed.binom_cdf_hoeffding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:08:13.45715+00:00
 -- url     : https://prove2.me/theorems/c69ab45e-f26b-4742-b1a2-286e08fc1d1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LuKumar_theta_choice
 -- name    : DaiWeissFluid.LuKumar.theta_choice
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:23:59.454642+00:00
 -- url     : https://prove2.me/theorems/87884c1c-ecc9-4fc5-aba1-34a9e92a9de7

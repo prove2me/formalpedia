@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WalledBrauer_Blocks_lemma_8_1
 -- name    : WalledBrauer.Blocks.lemma_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:43:20.384758+00:00
 -- url     : https://prove2.me/theorems/0bbb0c61-2a5d-4447-b0a8-b1e438275e3f

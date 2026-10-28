@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NAPPAL.Subreg.lemma_6_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-22T20:02:34.415743+00:00
 -- url     : https://prove2.me/submissions/d6ed0e18-ed0a-488a-bf9f-5eca6b1cc359
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_NAPPAL_Subreg_Setting

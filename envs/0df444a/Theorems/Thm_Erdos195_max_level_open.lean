@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_max_level_open
 -- name    : Erdos195.max_level_open
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:33:28.259649+00:00
 -- url     : https://prove2.me/theorems/339a3372-5dbf-457f-8aee-5ade7ec895fb
 -- title:

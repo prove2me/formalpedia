@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_core_compression_surplus
 -- name    : Erdos624.core_compression_surplus
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:31.431222+00:00
 -- url     : https://prove2.me/theorems/04fc67de-1158-4d78-af47-2bda05f178bb
 -- title:

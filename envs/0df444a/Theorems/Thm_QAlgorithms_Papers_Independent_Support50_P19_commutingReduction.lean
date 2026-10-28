@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P19_commutingReduction
 -- name    : QAlgorithms.Papers.Independent.Support50.P19.commutingReduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:26:25.460319+00:00
 -- url     : https://prove2.me/theorems/478e4348-5563-4cd7-965f-89eacf4d5b25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_Routing_mean_Z_lt_one
 -- name    : KellyLossNetworks.Routing.mean_Z_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:11:23.855663+00:00
 -- url     : https://prove2.me/theorems/7809acc6-1195-4704-b49c-e927c03ece30

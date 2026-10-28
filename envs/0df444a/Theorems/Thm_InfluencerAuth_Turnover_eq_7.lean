@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfluencerAuth_Turnover_eq_7
 -- name    : InfluencerAuth.Turnover.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:31:03.593175+00:00
 -- url     : https://prove2.me/theorems/4e7dcd75-6221-4dd5-9d11-30c86e048e7a

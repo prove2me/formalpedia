@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ByrdHansenNocedalSinger2016_cor3_3_paper_constant_faithful
 -- name    : ByrdHansenNocedalSinger2016.cor3_3_paper_constant_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T00:54:51.23997+00:00
 -- url     : https://prove2.me/theorems/7184a24b-4df8-4881-bdfd-0658f0b75435

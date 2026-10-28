@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineOvertime_HOOPBOT_weak_duality
 -- name    : OnlineOvertime.HOOPBOT.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:45.563078+00:00
 -- url     : https://prove2.me/theorems/c17f8d1c-3ec4-41c0-8503-71af4a34cfc7

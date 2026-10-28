@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondII_lemma_V_8
 -- name    : NonuniformKuramoto.CondII.lemma_V_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:24:56.383987+00:00
 -- url     : https://prove2.me/theorems/4beff4d6-97b7-4144-8439-66cc0a67b693

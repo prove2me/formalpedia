@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_NAGSC_eq_3_7
 -- name    : HighResODE.NAGSC.eq_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:33:04.525521+00:00
 -- url     : https://prove2.me/theorems/dfe3049e-8c94-4666-8c4c-a744589b72ce

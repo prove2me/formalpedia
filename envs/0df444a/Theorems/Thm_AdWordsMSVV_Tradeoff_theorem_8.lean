@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdWordsMSVV_Tradeoff_theorem_8
 -- name    : AdWordsMSVV.Tradeoff.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:32:28.33999+00:00
 -- url     : https://prove2.me/theorems/4e5cf36b-8afb-4d14-81ef-458dc42feb26

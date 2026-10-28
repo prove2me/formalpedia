@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeymourMFMC_Binary_arrow_asymm
 -- name    : SeymourMFMC.Binary.arrow_asymm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T04:36:55.673252+00:00
 -- url     : https://prove2.me/theorems/a94b950a-c3fa-4073-b989-f80be60a7149

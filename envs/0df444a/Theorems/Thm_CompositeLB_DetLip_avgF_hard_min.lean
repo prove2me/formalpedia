@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompositeLB_DetLip_avgF_hard_min
 -- name    : CompositeLB.DetLip.avgF_hard_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:37:20.693301+00:00
 -- url     : https://prove2.me/theorems/db6fbf64-ccb8-48d4-9b74-b5c0911245eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriendlyShadow_Gaussian_lemma_46
 -- name    : FriendlyShadow.Gaussian.lemma_46
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:18:19.965542+00:00
 -- url     : https://prove2.me/theorems/c5747d22-bf30-4e9c-bea5-0a9567f30b1c

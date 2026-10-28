@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishablePricing_Bounds_theorem_3
 -- name    : PerishablePricing.Bounds.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T21:17:00.093791+00:00
 -- url     : https://prove2.me/theorems/83204147-d7ba-406f-84d5-f2a3bae1fca5

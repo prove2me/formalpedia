@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_PolyCone_lemmaB4_residuals
 -- name    : CtxInvOpt.PolyCone.lemmaB4_residuals
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:30:04.71949+00:00
 -- url     : https://prove2.me/theorems/1c8ee1b7-a41d-4129-a819-5562e059d10b

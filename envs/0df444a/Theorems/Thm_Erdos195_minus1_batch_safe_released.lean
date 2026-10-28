@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_minus1_batch_safe_released
 -- name    : Erdos195.minus1_batch_safe_released
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T11:08:20.008192+00:00
 -- url     : https://prove2.me/theorems/aef68900-e24b-42ae-9d66-9f467cce14f0
 -- title:

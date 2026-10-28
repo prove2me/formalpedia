@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P33_qSquashed_additive
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P33.qSquashed_additive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:31:42.42098+00:00
 -- url     : https://prove2.me/theorems/366a8e17-62ea-4ee2-9dbe-aa0328b0fa85

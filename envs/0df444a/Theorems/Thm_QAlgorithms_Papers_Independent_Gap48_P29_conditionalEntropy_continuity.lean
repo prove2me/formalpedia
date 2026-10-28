@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_conditionalEntropy_continuity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.conditionalEntropy_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:13:51.904966+00:00
 -- url     : https://prove2.me/theorems/35e6c7b4-b60a-4b24-808e-ae5242df4837

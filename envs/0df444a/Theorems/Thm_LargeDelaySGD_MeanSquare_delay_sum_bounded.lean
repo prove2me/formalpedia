@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeDelaySGD_MeanSquare_delay_sum_bounded
 -- name    : LargeDelaySGD.MeanSquare.delay_sum_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:51.609783+00:00
 -- url     : https://prove2.me/theorems/99f2bf50-23d1-4d91-885b-7a76fb09cb19

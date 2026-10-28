@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.three_letter_safe_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:57:31.494932+00:00
 -- url     : https://prove2.me/submissions/85938566-903c-47a1-a520-a18c83e19961
 

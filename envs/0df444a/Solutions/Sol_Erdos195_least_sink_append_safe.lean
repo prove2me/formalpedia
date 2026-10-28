@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.least_sink_append_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T00:09:33.538346+00:00
 -- url     : https://prove2.me/submissions/1a22588b-0220-4132-943b-e066c42711d9
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDASNewton_FunSpace_reformulation_4_9_4_10
 -- name    : PDASNewton.FunSpace.reformulation_4_9_4_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:12:59.076802+00:00
 -- url     : https://prove2.me/theorems/d9f5b1eb-c4be-4875-8af9-8080363651ed

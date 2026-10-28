@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_bl_block
 -- name    : Erdos261.bl_block
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:46:56.51757+00:00
 -- url     : https://prove2.me/theorems/086ea4ff-5dac-4ae6-b240-86b4ddc3d63f
 -- title:

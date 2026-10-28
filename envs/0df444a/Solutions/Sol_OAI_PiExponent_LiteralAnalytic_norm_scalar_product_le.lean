@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LiteralAnalytic.norm_scalar_product_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-13T12:52:03.676476+00:00
 -- url     : https://prove2.me/submissions/9b83a3d8-1db9-4e74-94c7-69c6535c3445
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Mathlib.Analysis.SpecialFunctions.Pow.Real

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubSuperStoch_SuperSpec_normInf_power_bound
 -- name    : SubSuperStoch.SuperSpec.normInf_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:26:56.34525+00:00
 -- url     : https://prove2.me/theorems/c31a5ba7-a8b3-4fff-b1a5-e350e6d2141c

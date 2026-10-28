@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SKValue_value_consequences
 -- name    : OAI.SKValue.value_consequences
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:18.348477+00:00
 -- url     : https://prove2.me/theorems/716b474d-eaef-43ef-a426-41f38acc1f63

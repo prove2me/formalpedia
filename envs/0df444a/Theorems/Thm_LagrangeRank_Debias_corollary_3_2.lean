@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LagrangeRank_Debias_corollary_3_2
 -- name    : LagrangeRank.Debias.corollary_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:24.796167+00:00
 -- url     : https://prove2.me/theorems/db7b9b8c-7d4b-4237-93cb-9365c6c0a505

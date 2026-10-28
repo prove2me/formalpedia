@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_finite_collision_rate_tendsto
 -- name    : OAI.PiExponent.finite_collision_rate_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T03:58:09.08592+00:00
 -- url     : https://prove2.me/theorems/65abe21a-2a95-49ce-b400-e091693d8443

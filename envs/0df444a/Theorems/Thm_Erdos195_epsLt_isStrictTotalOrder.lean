@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_epsLt_isStrictTotalOrder
 -- name    : Erdos195.epsLt_isStrictTotalOrder
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:35:51.756448+00:00
 -- url     : https://prove2.me/theorems/983e7a48-629c-4122-83ab-31751b261fb6
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_pure_state_detection
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.pure_state_detection
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:01:33.350563+00:00
 -- url     : https://prove2.me/theorems/af715b53-5096-479b-a8f2-899b5137d0ac

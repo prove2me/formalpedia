@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Sets.eq_7_equivariant
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:36:35.514541+00:00
 -- url     : https://prove2.me/submissions/39d1b017-d51f-4058-98be-646c3dca9f27
 

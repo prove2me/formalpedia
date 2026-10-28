@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_eventual_log_jets_give_cofinal_truncated_minors
 -- name    : OAI.PiExponent.eventual_log_jets_give_cofinal_truncated_minors
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T03:56:57.628176+00:00
 -- url     : https://prove2.me/theorems/f4d3ca3f-6a61-414d-893c-270bd2ac4741

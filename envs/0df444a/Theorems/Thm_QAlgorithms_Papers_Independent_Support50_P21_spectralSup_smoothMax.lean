@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_spectralSup_smoothMax
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.spectralSup_smoothMax
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:53:31.902244+00:00
 -- url     : https://prove2.me/theorems/61edc590-35da-465e-980a-dd51273474ec

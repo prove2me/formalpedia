@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyCapset20261020_Cert_case023_finite32_10
 -- name    : HardyCapset20261020.Cert.case023_finite32_10
--- status  : Open
+-- status  : Proved
 -- author  : @Somehow
 -- created : 2026-10-21T02:21:11.906005+00:00
 -- url     : https://prove2.me/theorems/2c8a722f-b399-44d7-8a69-059e8a172095

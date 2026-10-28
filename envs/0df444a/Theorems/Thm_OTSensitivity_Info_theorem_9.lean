@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTSensitivity_Info_theorem_9
 -- name    : OTSensitivity.Info.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:15:07.367771+00:00
 -- url     : https://prove2.me/theorems/d5ad965f-ffea-4c36-82f1-6537d5b91a76

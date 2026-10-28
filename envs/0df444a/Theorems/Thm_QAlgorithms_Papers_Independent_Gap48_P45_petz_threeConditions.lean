@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P45_petz_threeConditions
 -- name    : QAlgorithms.Papers.Independent.Gap48.P45.petz_threeConditions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:46:10.220155+00:00
 -- url     : https://prove2.me/theorems/0d372677-1cad-434e-b53a-7d8f4bfc60cf

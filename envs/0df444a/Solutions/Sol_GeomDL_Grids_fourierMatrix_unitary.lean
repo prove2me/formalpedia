@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Grids.fourierMatrix_unitary
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:51:16.706392+00:00
 -- url     : https://prove2.me/submissions/8200430b-91d7-4b1d-b8b1-92ae3e619905
 

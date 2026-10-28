@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskyBenefitCost_NthDegree_proposition_2
 -- name    : RiskyBenefitCost.NthDegree.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:17.693538+00:00
 -- url     : https://prove2.me/theorems/bdd58040-2c1b-43dc-8d70-e769f56f1433

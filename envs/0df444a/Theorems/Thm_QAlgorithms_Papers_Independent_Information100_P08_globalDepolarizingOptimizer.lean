@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P08_globalDepolarizingOptimizer
 -- name    : QAlgorithms.Papers.Independent.Information100.P08.globalDepolarizingOptimizer
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:18:29.928987+00:00
 -- url     : https://prove2.me/theorems/e849fd94-9ae6-44c3-9a56-e67c3b168068

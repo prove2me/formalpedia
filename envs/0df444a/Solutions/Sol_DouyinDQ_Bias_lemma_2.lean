@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for DouyinDQ.Bias.lemma_2
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:19:42.759439+00:00
 -- url     : https://prove2.me/submissions/71c19268-51e8-46b9-ad1e-182e5b027a1a
 

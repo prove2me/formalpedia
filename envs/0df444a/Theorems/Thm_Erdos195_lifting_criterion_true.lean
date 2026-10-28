@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_lifting_criterion_true
 -- name    : Erdos195.lifting_criterion_true
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T15:11:16.996244+00:00
 -- url     : https://prove2.me/theorems/e384900a-7c1d-4f92-b32a-5265437bf26f
 -- title:

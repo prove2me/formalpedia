@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformDRO_Concentration_lemma_3
 -- name    : UniformDRO.Concentration.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:02:51.91095+00:00
 -- url     : https://prove2.me/theorems/3b935365-04d7-4ed5-9b1e-e5e95403495a

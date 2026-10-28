@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircStability_Main_fNum_max_endpoints
 -- name    : CircStability.Main.fNum_max_endpoints
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:43:39.324442+00:00
 -- url     : https://prove2.me/theorems/148853ac-7486-4c1c-a513-9f19b9b9f3aa

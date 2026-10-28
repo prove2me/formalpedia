@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_fourth_moment_comparison
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.fourth_moment_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:02:52.277858+00:00
 -- url     : https://prove2.me/theorems/8f7577f7-118f-4d71-bb35-0e6bb6778284

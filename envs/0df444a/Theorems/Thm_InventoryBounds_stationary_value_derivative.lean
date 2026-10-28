@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryBounds_stationary_value_derivative
 -- name    : InventoryBounds.stationary_value_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T15:32:59.273782+00:00
 -- url     : https://prove2.me/theorems/ea82a240-12bd-4bb8-ad4b-eb821127c30f

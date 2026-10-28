@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_entropy_and_partition_convexity
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.entropy_and_partition_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T18:54:18.377949+00:00
 -- url     : https://prove2.me/theorems/3881b730-bffc-42cf-b383-cf9ba8439f3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CouplingHMC_Exact_eq_119_120
 -- name    : CouplingHMC.Exact.eq_119_120
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T05:27:38.184039+00:00
 -- url     : https://prove2.me/theorems/eafae947-cea0-451d-8074-1301c7921f03

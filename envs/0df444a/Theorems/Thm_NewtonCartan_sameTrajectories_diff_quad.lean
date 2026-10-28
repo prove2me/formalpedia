@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_sameTrajectories_diff_quad
 -- name    : NewtonCartan.sameTrajectories_diff_quad
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:58:00.79889+00:00
 -- url     : https://prove2.me/theorems/a1ea4786-5f32-4e14-8b15-5947bf8bb45e
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_NonparametricLS_thm13_6_critical_radius_exists_v2
 -- name    : HighDimStat.NonparametricLS.thm13_6_critical_radius_exists_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:20:10.162557+00:00
 -- url     : https://prove2.me/theorems/a0378f9b-7097-49d6-a3e3-38fd926561b4

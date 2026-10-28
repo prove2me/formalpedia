@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_twisted_separable_relative_entropy
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.twisted_separable_relative_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:19:53.027369+00:00
 -- url     : https://prove2.me/theorems/61e92eee-53bf-49ba-aba9-b0e113704319

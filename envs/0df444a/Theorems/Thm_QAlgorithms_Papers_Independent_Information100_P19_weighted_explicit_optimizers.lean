@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_weighted_explicit_optimizers
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.weighted_explicit_optimizers
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:08:06.63044+00:00
 -- url     : https://prove2.me/theorems/55df834b-a244-4510-8549-f0eafd37e77f

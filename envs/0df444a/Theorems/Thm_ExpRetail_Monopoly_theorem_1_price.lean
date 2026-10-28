@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpRetail_Monopoly_theorem_1_price
 -- name    : ExpRetail.Monopoly.theorem_1_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:24.164297+00:00
 -- url     : https://prove2.me/theorems/b6ffd2c0-d3f4-4638-933c-24f8be358ecf

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.collision_blocks
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:40.234998+00:00
 -- url     : https://prove2.me/submissions/7de59653-2246-436a-9321-c126ef542df3
 

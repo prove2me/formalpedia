@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P39_continuity_information
 -- name    : QAlgorithms.Papers.Independent.Gap48.P39.continuity_information
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:18:11.15062+00:00
 -- url     : https://prove2.me/theorems/6cd5d744-095e-4a45-914d-dd1702a33c1d

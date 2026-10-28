@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_invariantMass_pairwise
 -- name    : EnergyMomentum.invariantMass_pairwise
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:16:39.447562+00:00
 -- url     : https://prove2.me/theorems/841918ba-8fed-428a-a837-c7ca3ecaa435

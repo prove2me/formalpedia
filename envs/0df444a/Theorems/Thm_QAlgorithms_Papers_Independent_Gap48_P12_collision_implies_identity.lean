@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P12_collision_implies_identity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P12.collision_implies_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:37:50.462285+00:00
 -- url     : https://prove2.me/theorems/2b207fff-4e21-476e-b42e-cf7b12a59c35

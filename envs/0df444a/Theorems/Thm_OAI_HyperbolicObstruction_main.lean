@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HyperbolicObstruction_main
 -- name    : OAI.HyperbolicObstruction.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:45.684062+00:00
 -- url     : https://prove2.me/theorems/6c46d445-40a6-465c-82c5-ea86732775ae

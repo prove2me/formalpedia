@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LawlerWCT_SeriesPar_series_parallel_algorithm_optimal
 -- name    : LawlerWCT.SeriesPar.series_parallel_algorithm_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:58:55.933214+00:00
 -- url     : https://prove2.me/theorems/dccdbb9e-bbd9-468a-8822-1df3cd683359

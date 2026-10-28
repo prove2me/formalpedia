@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P07_fidelity_controlsOrdinaryNorm
 -- name    : QAlgorithms.Papers.Independent.Gap20.P07.fidelity_controlsOrdinaryNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T07:18:49.74237+00:00
 -- url     : https://prove2.me/theorems/fa774f5d-8fe2-48de-93fe-3b3bd09369fe

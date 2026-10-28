@@ -1,0 +1,99 @@
+-- Prove2me | solution 1 for D1Bound5.PairLightPrepared19.left_independent_checked
+-- status  : ACCEPTED   (prove)
+-- author  : @tp
+-- created : 2026-10-24T02:52:42.140413+00:00
+-- url     : https://prove2.me/submissions/4d997135-0b55-421a-9a7a-d68a1db5f5fa
+
+import Init
+import Mathlib.Data.List.Basic
+import Definitions.Def_D1Bound5_PairLightArithmeticChunks_Definitions
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightAdaptiveData19_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData19LeftCached_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData19LeftRows_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData19Sieve_Definitions
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared19_left_prefix_000_direct_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared19_left_prefix_001_direct_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared19_left_prefix_002_direct_checked
+import Theorems.Thm_D1Bound5_pairLightSelectedFloorIndependentBool_of_prefix_drop
+
+section
+namespace D1Bound5.PairLightAdaptivePrepared19
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+/-- Heads 0 through 100; every head retains its entire tail. -/
+theorem left_prefix_000_checked :
+    pairLightSelectedFloorPrefixBool 1 1 PairLightPrepared19.sieve 101
+      leftCached000 leftRows000 = true := by
+  simpa only [leftCached000, leftRows000, List.drop_drop, Nat.reduceAdd, List.drop_zero] using
+    left_prefix_000_direct_checked
+
+end D1Bound5.PairLightAdaptivePrepared19
+end
+
+section
+namespace D1Bound5.PairLightAdaptivePrepared19
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+/-- Heads 101 through 247; every head retains its entire tail. -/
+theorem left_prefix_001_checked :
+    pairLightSelectedFloorPrefixBool 1 1 PairLightPrepared19.sieve 147
+      leftCached001 leftRows001 = true := by
+  simpa only [leftCached000, leftRows000, leftCached001, leftRows001, List.drop_drop, Nat.reduceAdd, List.drop_zero] using
+    left_prefix_001_direct_checked
+
+end D1Bound5.PairLightAdaptivePrepared19
+end
+
+section
+namespace D1Bound5.PairLightAdaptivePrepared19
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+/-- Heads 248 through 445; every head retains its entire tail. -/
+theorem left_prefix_002_checked :
+    pairLightSelectedFloorPrefixBool 1 1 PairLightPrepared19.sieve 198
+      leftCached002 leftRows002 = true := by
+  simpa only [leftCached000, leftRows000, leftCached001, leftRows001, leftCached002, leftRows002, List.drop_drop, Nat.reduceAdd, List.drop_zero] using
+    left_prefix_002_direct_checked
+
+end D1Bound5.PairLightAdaptivePrepared19
+end
+
+section
+namespace D1Bound5.PairLightPrepared19
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+
+
+
+
+theorem _root_.solution :
+    pairLightSelectedFloorIndependentBool 1 1 sieve leftCached leftRows = true := by
+  have h003 : pairLightSelectedFloorIndependentBool 1 1 sieve
+      PairLightAdaptivePrepared19.leftCached003 PairLightAdaptivePrepared19.leftRows003 = true := by
+    rfl
+  have h002 : pairLightSelectedFloorIndependentBool 1 1 sieve
+      PairLightAdaptivePrepared19.leftCached002 PairLightAdaptivePrepared19.leftRows002 = true :=
+    pairLightSelectedFloorIndependentBool_of_prefix_drop 1 1 sieve 198
+      PairLightAdaptivePrepared19.leftCached002 PairLightAdaptivePrepared19.leftRows002
+      PairLightAdaptivePrepared19.left_prefix_002_checked h003
+  have h001 : pairLightSelectedFloorIndependentBool 1 1 sieve
+      PairLightAdaptivePrepared19.leftCached001 PairLightAdaptivePrepared19.leftRows001 = true :=
+    pairLightSelectedFloorIndependentBool_of_prefix_drop 1 1 sieve 147
+      PairLightAdaptivePrepared19.leftCached001 PairLightAdaptivePrepared19.leftRows001
+      PairLightAdaptivePrepared19.left_prefix_001_checked h002
+  have h000 : pairLightSelectedFloorIndependentBool 1 1 sieve
+      PairLightAdaptivePrepared19.leftCached000 PairLightAdaptivePrepared19.leftRows000 = true :=
+    pairLightSelectedFloorIndependentBool_of_prefix_drop 1 1 sieve 101
+      PairLightAdaptivePrepared19.leftCached000 PairLightAdaptivePrepared19.leftRows000
+      PairLightAdaptivePrepared19.left_prefix_000_checked h001
+  exact h000
+
+
+
+end D1Bound5.PairLightPrepared19
+end

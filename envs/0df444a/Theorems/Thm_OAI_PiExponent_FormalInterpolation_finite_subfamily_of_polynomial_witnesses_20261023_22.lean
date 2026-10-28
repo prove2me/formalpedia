@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_subfamily_of_polynomial_witnesses_20261023_22
 -- name    : OAI.PiExponent.FormalInterpolation.finite_subfamily_of_polynomial_witnesses_20261023_22
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T18:38:06.805549+00:00
 -- url     : https://prove2.me/theorems/ec403b21-6703-4ec6-b0d8-7975079e9ee9

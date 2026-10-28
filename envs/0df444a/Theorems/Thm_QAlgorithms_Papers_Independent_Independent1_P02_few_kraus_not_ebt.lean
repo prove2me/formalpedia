@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P02_few_kraus_not_ebt
 -- name    : QAlgorithms.Papers.Independent.Independent1.P02.few_kraus_not_ebt
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:18:51.512279+00:00
 -- url     : https://prove2.me/theorems/ade9d492-765d-426c-bb88-18eac95e8165

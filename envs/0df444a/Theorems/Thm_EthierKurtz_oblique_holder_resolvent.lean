@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_holder_resolvent
 -- name    : EthierKurtz.oblique_holder_resolvent
--- status  : Open
+-- status  : Disproved
 -- author  : @caleb
 -- created : 2026-10-07T03:02:28.882556+00:00
 -- url     : https://prove2.me/theorems/a32caa6f-7410-44a3-89ed-a03d46950585

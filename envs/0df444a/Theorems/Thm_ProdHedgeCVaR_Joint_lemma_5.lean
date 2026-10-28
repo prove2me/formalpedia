@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProdHedgeCVaR_Joint_lemma_5
 -- name    : ProdHedgeCVaR.Joint.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:45:56.534709+00:00
 -- url     : https://prove2.me/theorems/1c63424a-4fd0-4c90-8d09-653b345c9a02

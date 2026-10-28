@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomHorizonPG_Asymp_value_abs_le
 -- name    : RandomHorizonPG.Asymp.value_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:47:21.725568+00:00
 -- url     : https://prove2.me/theorems/7fb7eca0-60e2-4cdb-b66a-fffc6a8f285e

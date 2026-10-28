@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MinimalSolutions_improved_algorithm
 -- name    : MatrixAnalytic.MinimalSolutions.improved_algorithm
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:27.818721+00:00
 -- url     : https://prove2.me/theorems/bcabed76-add0-4610-b3c7-311470ee69cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CurrentProjection_actualRowSourceMain
 -- name    : OAI.CurrentProjection.actualRowSourceMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:32.438661+00:00
 -- url     : https://prove2.me/theorems/62fdcb38-c1d5-40b1-8ba0-8dd682143b8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermDisclosure_Equilibrium_two_tailed_fixed_point
 -- name    : ShortTermDisclosure.Equilibrium.two_tailed_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:17.97886+00:00
 -- url     : https://prove2.me/theorems/0d10c4ad-d8d9-4310-af66-9941235f2a19

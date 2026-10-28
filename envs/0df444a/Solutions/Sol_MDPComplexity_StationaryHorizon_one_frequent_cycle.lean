@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.StationaryHorizon.one_frequent_cycle
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:28:53.243422+00:00
 -- url     : https://prove2.me/submissions/0b6de0b2-b6ed-4359-8f29-6b52c129d888
 

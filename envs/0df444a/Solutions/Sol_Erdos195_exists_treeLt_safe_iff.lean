@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.exists_treeLt_safe_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:17:45.254813+00:00
 -- url     : https://prove2.me/submissions/5f13b8d6-14f5-4c9d-8a31-c54988d9f75a
 

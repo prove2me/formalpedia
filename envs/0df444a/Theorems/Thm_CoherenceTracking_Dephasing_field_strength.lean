@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoherenceTracking_Dephasing_field_strength
 -- name    : CoherenceTracking.Dephasing.field_strength
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:28.688742+00:00
 -- url     : https://prove2.me/theorems/8bc09a40-256c-4385-80a1-7c03a826052c

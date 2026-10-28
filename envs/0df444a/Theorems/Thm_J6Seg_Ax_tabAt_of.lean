@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_J6Seg_Ax_tabAt_of
 -- name    : J6Seg.Ax.tabAt_of
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:53:30.771823+00:00
 -- url     : https://prove2.me/theorems/a4e15763-a81f-40a6-b2ba-21706c0c14ab
 -- title:

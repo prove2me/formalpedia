@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_ymAbelian_essentiallySelfAdjointOn_core
 -- name    : BookProof.YangMillsAbelianEsa.ymAbelian_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T20:35:52.32118+00:00
 -- url     : https://prove2.me/theorems/807ce9d1-dffd-4d23-80ab-0a4fdd938d21

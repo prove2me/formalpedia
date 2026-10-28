@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_E2D_e2d_round_bound
 -- name    : StatComplexityDM.E2D.e2d_round_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:03.928991+00:00
 -- url     : https://prove2.me/theorems/9a62701a-eb83-4055-bb45-93d71e4a1117

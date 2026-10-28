@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_theorem_4_5_lemma_4_6_corrected_mult_agree
 -- name    : PersistClust.Count.theorem_4_5_lemma_4_6_corrected_mult_agree
--- status  : Open
+-- status  : Disproved
 -- author  : @fabianroll
 -- created : 2026-10-09T14:06:10.937177+00:00
 -- url     : https://prove2.me/theorems/0233f077-7505-4acd-b349-59b5297c8a55

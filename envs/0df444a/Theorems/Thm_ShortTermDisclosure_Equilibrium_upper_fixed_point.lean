@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermDisclosure_Equilibrium_upper_fixed_point
 -- name    : ShortTermDisclosure.Equilibrium.upper_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:04.785703+00:00
 -- url     : https://prove2.me/theorems/62b5257f-e677-40ce-9309-94864047a1be

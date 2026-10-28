@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_safe_parity_decomp
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T02:59:02.374059+00:00
 -- url     : https://prove2.me/submissions/08204875-bd31-4a04-98b6-85d1a000895e
 

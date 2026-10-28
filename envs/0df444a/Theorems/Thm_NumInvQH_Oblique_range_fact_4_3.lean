@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumInvQH_Oblique_range_fact_4_3
 -- name    : NumInvQH.Oblique.range_fact_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:24:52.199255+00:00
 -- url     : https://prove2.me/theorems/b88fa8e6-b629-4f3a-97c3-5a9a5f2f6268

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Est_eq_E2
 -- name    : RobustSpecClust.Est.eq_E2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:26.170335+00:00
 -- url     : https://prove2.me/theorems/44ebb685-a705-44d9-b538-7dd613fc686a

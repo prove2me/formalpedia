@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_least_sink_append_safe
 -- name    : Erdos195.least_sink_append_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T00:09:26.544179+00:00
 -- url     : https://prove2.me/theorems/295c938d-9846-479d-b078-28bc551e5f19
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistVerif_Simulation_compl_R_subset_L
 -- name    : DistVerif.Simulation.compl_R_subset_L
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:24:01.463391+00:00
 -- url     : https://prove2.me/theorems/a2006416-549f-4726-95bb-bcc399f4c2b7

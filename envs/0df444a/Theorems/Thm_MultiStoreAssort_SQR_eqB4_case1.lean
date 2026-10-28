@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_eqB4_case1
 -- name    : MultiStoreAssort.SQR.eqB4_case1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:19.377646+00:00
 -- url     : https://prove2.me/theorems/1eaeadf1-6580-4429-ba9c-4b5820570bd8

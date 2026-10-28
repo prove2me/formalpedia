@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VdNSim_Sparse_eq_9
 -- name    : VdNSim.Sparse.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:31:57.058034+00:00
 -- url     : https://prove2.me/theorems/28a68c22-b815-4739-b7a4-f45033f0c6ec

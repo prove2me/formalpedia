@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_ProductForm_independence_iff_rate_eigen
 -- name    : MatrixAnalytic.ProductForm.independence_iff_rate_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:22.91574+00:00
 -- url     : https://prove2.me/theorems/0f605508-4c68-41ac-ab8c-f4532d2779e1

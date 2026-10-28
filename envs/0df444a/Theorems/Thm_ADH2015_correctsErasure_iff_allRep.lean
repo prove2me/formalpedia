@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ADH2015_correctsErasure_iff_allRep
 -- name    : ADH2015.correctsErasure_iff_allRep
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-09T10:04:28.502417+00:00
 -- url     : https://prove2.me/theorems/8b2170af-76f9-4000-9943-356b7a19716f

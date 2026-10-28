@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCLpModules_Principal_lemma_1_2
 -- name    : NCLpModules.Principal.lemma_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:45:53.976421+00:00
 -- url     : https://prove2.me/theorems/2a568966-ae3f-49df-9054-b5f50fdaac70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedMinCut_Transform_lemma_3
 -- name    : ProjSchedMinCut.Transform.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:10:29.457593+00:00
 -- url     : https://prove2.me/theorems/0029d34b-7951-4a74-beb9-cd536bb438ef

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.interlocked_root_obstruction
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:22:22.823827+00:00
 -- url     : https://prove2.me/submissions/07cb33bd-1327-40d9-b586-65920e4f8cd9
 

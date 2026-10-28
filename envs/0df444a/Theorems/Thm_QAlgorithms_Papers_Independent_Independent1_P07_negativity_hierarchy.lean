@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_negativity_hierarchy
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.negativity_hierarchy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:46:58.891087+00:00
 -- url     : https://prove2.me/theorems/84c1dc64-bf5c-4ebf-b47b-a2ca8a684cfb

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.coordinate_pole_le_weighted_at_place
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:33:46.886128+00:00
 -- url     : https://prove2.me/submissions/af3fc34d-5772-4528-977a-1deb880f4f18
 

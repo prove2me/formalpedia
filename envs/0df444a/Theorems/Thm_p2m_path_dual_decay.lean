@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_p2m_path_dual_decay
 -- name    : p2m_path_dual_decay
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T17:20:36.892179+00:00
 -- url     : https://prove2.me/theorems/d59d9ecc-afbd-47db-96ac-2e93d77ba93a

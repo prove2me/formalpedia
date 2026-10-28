@@ -1,0 +1,229 @@
+-- Prove2me | Definitions.Def_OAIQ084L017
+-- name    : OAIQ084L017
+-- status  : Definition
+-- author  : @dbenbenn
+-- created : 2026-10-28T17:30:30.565625+00:00
+-- url     : https://prove2.me/theorems/6b6186de-53af-4856-a00c-72fe53d9a80b
+-- title:
+--   Definitions bundle OAIQ084L017 of the split of OpenAI, A Fock-space inequality and the Laughlin spectral gap
+-- statement:
+--   A definitions bundle of the split of OpenAI's proof of `OAI.LaughlinFock.thm_fock`, carved from OpenAI's openai/math development (OpenAI, *A Fock-space inequality and the Laughlin spectral gap*, OpenAI Math Release, September 24, 2026, result family 269, [github.com/openai/math](https://github.com/openai/math) at commit 7ef5c0c, Apache License 2.0) and ported to Lean 4.33.1 and Mathlib 0df444a. The declarations and their proofs are OpenAI's.
+--
+--   **Contents.** It holds 14 declarations of OpenAI's Lean: 14 definitions. The definitions and types are `OAI.LaughlinFock.fourHighestCache_21_9`, `OAI.LaughlinFock.fourHighestCache_22_0`, `OAI.LaughlinFock.fourHighestCache_22_1`, `OAI.LaughlinFock.fourHighestCache_22_10`, `OAI.LaughlinFock.fourHighestCache_22_11`, `OAI.LaughlinFock.fourHighestCache_22_12`, `OAI.LaughlinFock.fourHighestCache_22_13`, `OAI.LaughlinFock.fourHighestCache_22_14`, `OAI.LaughlinFock.fourHighestCache_22_16`, `OAI.LaughlinFock.fourHighestCache_22_17`, `OAI.LaughlinFock.integerRowsThreeTrace`, `OAI.LaughlinFock.integerThreeTrace`, `OAI.LaughlinFock.localCopyMatrix`, `OAI.LaughlinFock.localPairAnnihilator`.
+--
+--   **Sources.** They come from these modules of lean/OAI/Analysis, in whole or in part: [`LaughlinFock_Certificate21`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/Certificate21.lean), [`LaughlinFock_Certificate22`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/Certificate22.lean), [`LaughlinFock_LocalEnergy`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/LocalEnergy.lean), [`LaughlinFock_RelativeTransfer`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/RelativeTransfer.lean), [`LaughlinFock_ThreeCertificate`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/ThreeCertificate.lean).
+--
+--   **Imports.** It imports the published bundle `Def_LaughlinFock`; the bundles `OAIQ084L000` and `OAIQ084L001` of this split.
+--
+--   **Imported by** (directly, in this split): the bundles `OAIQ084L022` and `OAIQ084L027`; the proof of `OAI.LaughlinFock.thm_fock`.
+-- source:
+--   OpenAI, A Fock-space inequality and the Laughlin spectral gap, OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 269; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026.pdf; Apache License 2.0); definitions carved from lean/OAI/Analysis at commit 7ef5c0c
+
+import Mathlib
+import Definitions.Def_LaughlinFock
+import Definitions.Def_OAIQ084L000
+import Definitions.Def_OAIQ084L001
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_LocalEnergy
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Local Energy. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexConjugate ComplexOrder
+open scoped BigOperators Polynomial
+open Polynomial
+open Filter Topology
+open Filter Topology
+
+
+def localPairAnnihilator (L Q p : ℕ) : FockMatrix L :=
+  coefficientPairAnnihilator L
+    (fun i j => (sphericalPairCoefficient Q p i.val j.val : ℂ))
+
+
+open Filter Topology
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_RelativeTransfer
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Relative Transfer. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexConjugate ComplexOrder
+open Filter Topology
+
+
+
+def localCopyMatrix (D Q : ℕ) : Matrix (CopyLabel D) (FourHighestShell 24 D) ℂ := fun r b =>
+  sphericalCopyCoefficient Q D D r.val.val b.val.1.val b.val.2.val.1.val b.val.2.val.2.val
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_Certificate21
+attribute [-instance] _root_.OAI.LaughlinFock.instDecidableEqFockRotationSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Certificate21. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexOrder
+
+def fourHighestCache_21_9 : List (Occupation 24 × List ℚ) := [
+  ({1,2,9,10}, [622822914093219840000, 54087253065990144000, -1084637427793920000, -674885510627328000, 53536590987264000, -8691005030400000, 21090172207104000, -33894919618560000, 76828484468736000, -243290200817664000, 0]),
+  ({1,3,4,14}, [-194632160654131200000, -10755987825623040000, 3482389148958720000, 1119536641327104000, -521981762125824000, -190188160081920000, 191569064214528000, -4707627724800000, -145120470663168000, 0, 0]),
+  ({1,3,5,13}, [0, 0, -3213740526796800000, -674885510627328000, 397700390191104000, 165708495912960000, -156669850681344000, -7532204359680000, 136583972388864000, 0, 0]),
+  ({1,3,6,12}, [-116779296392478720000, 3380453316624384000, 3969471697551360000, -79088145776640000, -231354553909248000, -49973278924800000, 52725430517760000, 34836445163520000, -102437979291648000, 0, 0])
+]
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_Certificate22
+attribute [-instance] _root_.OAI.LaughlinFock.instDecidableEqFockRotationSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Certificate22. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexOrder
+
+def fourHighestCache_22_0 : List (Occupation 24 × List ℚ) := [
+  ({0,1,2,20}, [0, -2802703113419489280000, -1868468742279659520000, -1124000727777607680000, -554701657864273920000, -160571532539658240000, 58389648196239360000, 102181884343418880000, -29194824098119680000, -335740477128376320000, -817455074747351040000]),
+  ({0,1,3,19}, [0, 2802703113419489280000, 1868468742279659520000, 1124000727777607680000, 554701657864273920000, 160571532539658240000, -58389648196239360000, -102181884343418880000, 29194824098119680000, 335740477128376320000, 817455074747351040000]),
+  ({0,1,4,18}, [0, -3923784358787284992000, -2065149662519623680000, -962660910393262080000, -370927923015057408000, -84511332915609600000, 34880131948806144000, 59157933040926720000, -6146278757498880000, -221880663145709568000, -715273190403932160000]),
+  ({0,1,5,17}, [0, 3736937484559319040000, 1879395460070768640000, 752919147793612800000, 215119756512460800000, 22536355444162560000, -16902266583121920000, -21511975651246080000, -11268177722081280000, 116779296392478720000, 613091306060513280000])
+]
+
+def fourHighestCache_22_1 : List (Occupation 24 × List ℚ) := [
+  ({0,1,6,16}, [0, -3736937484559319040000, -1573447361919713280000, -514178398409195520000, -111717655062773760000, 2485627438694400000, 8903065553141760000, 2214468081745920000, 13829127204372480000, -43792236147179520000, -510909421717094400000]),
+  ({0,1,7,15}, [0, 3269820298989404160000, 1262035904873103360000, 317565268008468480000, 46503829716664320000, -5219817621258240000, -5377993912811520000, 2768085102182400000, -7170658550415360000, 0, 408727537373675520000]),
+  ({0,1,8,14}, [0, -2615856239191523328000, -917844294453166080000, -183273596479733760000, -12401021257777152000, 2899898678476800000, 2372644373299200000, -1107234040872960000, -597554879201280000, 20436376868683776000, -306545653030256640000]),
+  ({0,1,9,13}, [0, 1868468742279659520000, 590042760719892480000, 93007659433328640000, 1120792008720384000, -1988501950955520000, 153656968937472000, -1265410332426240000, 4609709068124160000, -23355859278495744000, 204363768686837760000])
+]
+
+def fourHighestCache_22_10 : List (Occupation 24 × List ℚ) := [
+  ({1,3,4,15}, [0, 326982029898940416000, -57365268403322880000, -35563302884229120000, 7108894474665984000, 7332600944148480000, -2752267473027072000, -2016747717304320000, 2817044430520320000, 1459741204905984000, 0]),
+  ({1,3,5,14}, [0, 140135155670974464000, 62828627298877440000, 22961924990484480000, -5816368206544896000, -5924078728888320000, 2056291790192640000, 1937659571527680000, -2475584499548160000, -1459741204905984000, 0]),
+  ({1,3,6,13}, [0, -233558592784957440000, -90145421776650240000, -5931610933248000000, 5789252270850048000, 1864220579020800000, -519722100817920000, -1331317120573440000, 1280474741145600000, 1459741204905984000, 0]),
+  ({1,3,7,12}, [0, 326982029898940416000, 73755345089986560000, -131813576294400000, -5617518011449344000, 525805804339200000, -194330872479744000, 619523808583680000, -256094948229120000, -1459741204905984000, 0])
+]
+
+def fourHighestCache_22_11 : List (Occupation 24 × List ℚ) := [
+  ({1,3,8,11}, [0, -467117185569914880000, -49170230059991040000, 5008915899187200000, 3190641766760448000, -605473350451200000, 0, 52725430517760000, -426824913715200000, 1459741204905984000, 0]),
+  ({1,3,9,10}, [0, 467117185569914880000, 49170230059991040000, -10914164117176320000, -442893616349184000, -95601055334400000, 397700390191104000, -474528874659840000, 768284844687360000, -1459741204905984000, 0]),
+  ({1,4,5,13}, [0, -373693748455931904000, 21853435582218240000, -4428936163491840000, -1265410332426240000, 2651335934607360000, -840594006540288000, -527254305177600000, 853649827430400000, 0, 0]),
+  ({1,4,6,12}, [0, 373693748455931904000, 0, -1054508610355200000, 1193101170573312000, -1816420051353600000, 429335648501760000, 579979735695360000, -768284844687360000, 0, 0])
+]
+
+def fourHighestCache_22_12 : List (Occupation 24 × List ℚ) := [
+  ({1,4,7,11}, [0, -233558592784957440000, -2731679447777280000, -869969603543040000, 872229264850944000, 207135619891200000, 149137646321664000, -514072947548160000, 512189896458240000, 0, 0]),
+  ({1,4,8,10}, [0, 186846874227965952000, -10926717791109120000, 3479878414172160000, -1608878851227648000, 427018047160320000, -284717324795904000, 316352583106560000, -256094948229120000, 0, 0]),
+  ({1,5,6,11}, [0, -233558592784957440000, -2731679447777280000, 5035278614446080000, -1875518885560320000, 908210025676800000, -248562743869440000, -92269503406080000, 170729965486080000, 0, 0]),
+  ({1,5,7,10}, [0, 233558592784957440000, 2731679447777280000, -4191671726161920000, 1152427267031040000, -487565382205440000, 67789839237120000, 144994933923840000, -170729965486080000, 0, 0])
+]
+
+def fourHighestCache_22_13 : List (Occupation 24 × List ℚ) := [
+  ({1,5,8,9}, [0, -373693748455931904000, 21853435582218240000, -1054508610355200000, 470009552044032000, -152961688535040000, 171734259400704000, -210901722071040000, 170729965486080000, 0, 0]),
+  ({1,6,7,9}, [0, 93423437113982976000, -16390076686663680000, 3216251261583360000, -840594006540288000, 286803166003200000, -99425097547776000, 26362715258880000, 0, 0, 0]),
+  ({2,3,4,14}, [0, -467117185569914880000, -5463358895554560000, 12601377893744640000, -1292526268121088000, -1408522215260160000, 695975682834432000, 79088145776640000, -341459930972160000, 0, 0]),
+  ({2,3,5,13}, [0, 467117185569914880000, 5463358895554560000, -12601377893744640000, 1292526268121088000, 1408522215260160000, -695975682834432000, -79088145776640000, 341459930972160000, 0, 0])
+]
+
+def fourHighestCache_22_14 : List (Occupation 24 × List ℚ) := [
+  ({2,3,6,12}, [0, -467117185569914880000, 16390076686663680000, 7117933119897600000, -1364835429974016000, -573606332006400000, 284717324795904000, 131813576294400000, -256094948229120000, 0, 0]),
+  ({2,3,7,11}, [0, 373693748455931904000, -21853435582218240000, -4007132719349760000, 1554646979837952000, -127468073779200000, 45193226158080000, -158176291553280000, 170729965486080000, 0, 0]),
+  ({2,3,8,10}, [0, -186846874227965952000, 10926717791109120000, 2425369803816960000, -1138869299183616000, 274056358625280000, -112983065395200000, 105450861035520000, -85364982743040000, 0, 0]),
+  ({2,4,5,12}, [0, 0, -21853435582218240000, 5483444773847040000, 72309161852928000, -834915883253760000, 411258358038528000, -52725430517760000, -85364982743040000, 0, 0])
+]
+
+def fourHighestCache_22_16 : List (Occupation 24 × List ℚ) := [
+  ({2,5,7,9}, [0, 46711718556991488000, -8195038343331840000, 2029929074933760000, -781842812534784000, 353723904737280000, -140099001090048000, 39544072888320000, 0, 0, 0]),
+  ({2,6,7,8}, [0, -93423437113982976000, 16390076686663680000, -3216251261583360000, 840594006540288000, -286803166003200000, 99425097547776000, -26362715258880000, 0, 0, 0]),
+  ({3,4,5,11}, [0, -93423437113982976000, 16390076686663680000, -2372644373299200000, 117502388011008000, 133841477468160000, -81347807084544000, 26362715258880000, 0, 0, 0]),
+  ({3,4,6,10}, [0, 93423437113982976000, -16390076686663680000, 2372644373299200000, -117502388011008000, -133841477468160000, 81347807084544000, -26362715258880000, 0, 0, 0])
+]
+
+def fourHighestCache_22_17 : List (Occupation 24 × List ℚ) := [
+  ({3,4,7,9}, [0, -46711718556991488000, 8195038343331840000, -1186322186649600000, 58751194005504000, 66920738734080000, -40673903542272000, 13181357629440000, 0, 0, 0]),
+  ({3,5,6,9}, [0, -46711718556991488000, 8195038343331840000, -1186322186649600000, 58751194005504000, 66920738734080000, -40673903542272000, 13181357629440000, 0, 0, 0]),
+  ({3,5,7,8}, [0, 46711718556991488000, -8195038343331840000, 1186322186649600000, -58751194005504000, -66920738734080000, 40673903542272000, -13181357629440000, 0, 0, 0]),
+  ({4,5,6,8}, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+]
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_ThreeCertificate
+attribute [-instance] _root_.OAI.LaughlinFock.instDecidableEqFockRotationSpace _root_.OAI.LaughlinFock.instFintypeFockRotationSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Three Certificate. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators
+
+def integerThreeTrace (z t : ℕ) (ell : ℚ) (a : RowEntry t → ℚ) : ℚ :=
+  ∑ T ∈ Finset.range 16, if z ≤ T ∧ t ≤ T then
+    let X := ∑ b : RowEntry t, if rowP b+rowJ b=T then
+      a b*(integerCoupling 2 z (T-z) (rowP b) : ℚ) else 0
+    rationalCouplingWeight 2 z (T-z) t * X *
+      (X+2*ell*(integerCoupling 2 z (T-z) t : ℚ))
+  else 0
+
+def integerRowsThreeTrace (z : ℕ) : ℚ :=
+  ∑ t : Fin 8, integerThreeTrace z t.val (certificateEll t) (certificateAlpha t)
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+

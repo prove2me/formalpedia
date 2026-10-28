@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_NonOptimal_counterexample_values
 -- name    : BidPriceControl.NonOptimal.counterexample_values
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T12:26:06.253666+00:00
 -- url     : https://prove2.me/theorems/8a37ee1f-cedb-4903-a2a2-ff0d7cf22b83

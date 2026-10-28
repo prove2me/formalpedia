@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_YauCounterexamples_sphere_two_torus_two
 -- name    : OAI.YauCounterexamples.sphere_two_torus_two
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:39.91013+00:00
 -- url     : https://prove2.me/theorems/d702f2ad-ea5a-435f-9466-f3187404852b

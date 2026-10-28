@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.interlocked_obstruction
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:19:21.694458+00:00
 -- url     : https://prove2.me/submissions/33079a5e-4eea-4716-a9a2-ef1273fcf56f
 

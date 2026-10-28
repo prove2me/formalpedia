@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_nat_horizon_dividend_payoff_mct_hypotheses
 -- name    : AvramDividend.Classical.nat_horizon_dividend_payoff_mct_hypotheses
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-07T06:30:47.225092+00:00
 -- url     : https://prove2.me/theorems/b87f9765-815a-4ff6-b11b-9e5a802b6df8

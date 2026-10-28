@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.BatchTD.batch_td_fixed_point_iff_certainty_equivalence
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:38:43.420057+00:00
 -- url     : https://prove2.me/submissions/563e5b01-bbf1-4fc1-a277-50d40ffa11f5
 

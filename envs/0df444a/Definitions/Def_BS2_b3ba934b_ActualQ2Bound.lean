@@ -1,0 +1,124 @@
+-- Prove2me | Definitions.Def_BS2_b3ba934b_ActualQ2Bound
+-- name    : BS2_b3ba934b_ActualQ2Bound
+-- status  : Definition
+-- author  : @yousofy
+-- created : 2026-10-26T05:49:12.592371+00:00
+-- url     : https://prove2.me/theorems/d835a4b7-fa7e-437a-8a74-cf6672fb4642
+-- title:
+--   Sensitivity separation: ActualQ2Bound (complete source module)
+-- statement:
+--   Complete Lean source module `ActualQ2Bound` from the two verified sensitivity separation proofs. The module supplies the definitions, auxiliary lemmas, and exact finite certificates used by its dependent modules. All original declarations and proof bodies are retained; only local import module paths are changed for Prove2Me. The final campaign goals are published separately as theorems with submitted solutions.
+-- source:
+--   Attached verified checkpoint block_sensitivity_three_bounds; lean_project/ActualQ2Bound.lean; original SHA-256 d2cf219a92dd2bd54c7f2d711d4a10d4b0930d23b66d6c4b074fb7fbacbc612f; campaign https://prove2.me/campaigns/block-sensitivity-vs-sensitivity
+
+/- Complete semantic proof of the q2 record-maximum upward bound. -/
+import Definitions.Def_BS2_b3ba934b_ActualRecordAllowed
+import Definitions.Def_BS2_b3ba934b_ActualNegativeBound
+import Definitions.Def_BS2_b3ba934b_ActualHighRecordBound
+
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+set_option maxRecDepth 10000
+
+namespace ThreeBoundActualQ2Bound
+open OAI.Paper320 ThreeBoundWitness ThreeBoundProfiles ThreeBoundGradedCandidates
+open ThreeBoundGradedCover ThreeBoundActualTargets ThreeBoundNumeric ThreeBoundFullProfile
+open ThreeBoundHeadExpressions ThreeBoundActualEnumeration ThreeBoundActualRecordFields
+open ThreeBoundActualCaps ThreeBoundRecordCaps ThreeBoundTagPrefixes
+open ThreeBoundActualRecordAllowed ThreeBoundActualNegativeBound ThreeBoundHighRecordBound
+open scoped Classical BigOperators
+noncomputable section
+variable {n : ℕ} {I V : Type} [Fintype I] [Fintype V]
+
+def gradedAExpr (n : ℕ) (caps : Caps) (records : List (List ℕ)) (a c : Entry) : Expr n :=
+  Expr.maximum (records.filterMap fun xs =>
+    let r := recordOfList xs
+    if recordAllowedFor caps a c r then some (recordCost n caps a c r) else none)
+
+theorem actual_record_cost (S : Stage (Fin n) I V)
+    (hR : TournamentHighRows.IsTournament S.Adj)
+    (F : Fin n → (I → Bool) → Bool) (hF : Nested F)
+    (i j : Fin n) (P : PairData S F i j) (a c : Entry) (matchE : EntryMatch S F i j P a c)
+    (input : ((V × Bool) × I) → Bool) (hoff : parent S F i input = false)
+    (hQ : S.tolerance j ≤ 2) (caps : Caps) (hcaps : CapsSound S.Adj S.label caps)
+    (v : Profile n) (hv : Upper F v) (hordered : Ordered v) :
+    ∃ xs ∈ ThreeBoundQ2.records,
+      recordAllowedFor caps a c (recordOfList xs) = true ∧
+      (flipsTo (parent S F j) true input).card ≤ (recordCost n caps a c (recordOfList xs)).eval v := by
+  obtain ⟨tag,htag,hcount,hout⟩ := actual_high_tags S F hF i j P input hQ
+  obtain ⟨ts,ds,e,hsort,hget,hdirs,hmem⟩ :=
+    actual_record_exists S hR F hF i j P input hQ tag hcount hout
+  let H := highHeads S F P.strong j input
+  let G := guardSources S F P.strong j input
+  let r := recordOfList (ThreeBoundQ2.record (ts,ds))
+  have hG : G = H.filter fun w => ThreeBoundQ2.isGuard (tag w) = true :=
+    guardSources_eq_filter S F P.strong j input tag htag
+  obtain ⟨htypes,hext,hhist,hrs⟩ := all_record_fields ts ds H G tag S.Adj hR e hget hdirs hG
+    (fun w => (failed S F j input w).card) hcount
+  have hx : ∀ kind : Fin 8, r kind.val = ThreeBoundAccounting.typeCount H tag kind := by
+    intro kind
+    unfold ThreeBoundAccounting.typeCount
+    convert htypes kind using 1 <;> congr 1 <;> ext w <;> simp [H]
+  have hres : ∀ k : Fin 4, k.val+1 ≤ H.card →
+      r (25+k.val) = ThreeBoundActualResidualCaps.residualPrefix S F P.strong j input (k.val+1) := by
+    intro k hk
+    exact hrs k hk
+  have hprefix (q : ℕ) (hq : q ≤ 2) :
+      (targetPrefix S F P.strong j input q).card ≤ capPrefix caps r q :=
+    actual_capPrefix S hR F hF i j P input hQ tag htag hcount caps hcaps r hx hres q hq
+  have hpos (q : ℕ) (hq : q ≤ 2) : positivePrefix r q =
+      (targetPrefix S F P.strong j input q ∩ H).card :=
+    (positivePrefix_card H tag r hx q hq).trans
+      (congrArg Finset.card (prefix_high_eq S F hF i j P input hQ tag htag q).symm)
+  have hallowed : recordAllowedFor caps a c r = true := by
+    apply actual_recordAllowedFor S F hF i j P a c matchE input hoff hQ tag htag caps r hx
+    intro q hq
+    have hq2 : q ≤ 2 := by rw [← matchE.strongTolerance] at hq; omega
+    rw [hpos q hq2]
+    exact (Finset.card_le_card Finset.inter_subset_left).trans (hprefix q hq2)
+  have hnegative := negativeBits_expr_bound S F hF i j P a c matchE input hQ v hv hordered caps r
+    (fun q hq => hprefix q (hq.trans hQ)) (fun q hq => hpos q (hq.trans hQ))
+  obtain ⟨hhigh,hexternal⟩ := actual_record_high_external S hR F hF i j P a c matchE
+    v hv input hoff hQ tag htag hcount ts ds e hget hdirs
+  have hcover := upward_subset S F hF P.strong j P.strongMono P.strongDef input
+    (strong_false_of_weak_false S F hF i j P input hoff)
+  have htotal := ThreeBoundAccounting.union_cover_bound
+    (flipsTo (parent S F j) true input) (negativeBits S F P.strong j input)
+    (highBits S F P.strong j input) (ThreeBoundGradedCover.externalBits S F P.strong j input)
+    _ _ _ (by
+      intro bit hb
+      have hh := hcover hb
+      simpa only [Finset.mem_union] using hh) hnegative hhigh hexternal
+  refine ⟨ThreeBoundQ2.record (ts,ds),hmem,hallowed,?_⟩
+  change _ ≤ (r 8 * bExpr n c.guard a.guard).eval v+
+    (negativeExpr n caps c r).eval v+(highExpr n a c r).eval v
+  change _ ≤ (negativeExpr n caps c r).eval v+(highExpr n a c r).eval v+
+    (r 8 * bExpr n c.guard a.guard).eval v at htotal
+  omega
+
+theorem gradedAExpr_bound (S : Stage (Fin n) I V)
+    (hR : TournamentHighRows.IsTournament S.Adj)
+    (F : Fin n → (I → Bool) → Bool) (hF : Nested F)
+    (i j : Fin n) (P : PairData S F i j) (a c : Entry) (matchE : EntryMatch S F i j P a c)
+    (hQ : S.tolerance j ≤ 2) (caps : Caps) (hcaps : CapsSound S.Adj S.label caps)
+    (records : List (List ℕ)) (hrecords : ∀ xs ∈ ThreeBoundQ2.records, xs ∈ records)
+    (v : Profile n) (hv : Upper F v) (hordered : Ordered v) :
+    ABound (parent S F) i j ((gradedAExpr n caps records a c).eval v) := by
+  intro input hoff
+  obtain ⟨xs,hxs,ha,hb⟩ := actual_record_cost S hR F hF i j P a c matchE input hoff
+    hQ caps hcaps v hv hordered
+  apply hb.trans
+  rw [gradedAExpr,Expr.eval_maximum]
+  apply le_maximum_of_mem
+  apply List.mem_map.mpr
+  refine ⟨recordCost n caps a c (recordOfList xs),?_,rfl⟩
+  apply List.mem_filterMap.mpr
+  exact ⟨xs,hrecords xs hxs,by simp only [ha,ite_true]⟩
+
+end
+end ThreeBoundActualQ2Bound
+
+#print axioms ThreeBoundActualQ2Bound.actual_record_cost
+#print axioms ThreeBoundActualQ2Bound.gradedAExpr_bound
+
+

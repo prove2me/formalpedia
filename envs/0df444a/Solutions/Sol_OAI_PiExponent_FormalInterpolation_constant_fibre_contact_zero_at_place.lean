@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.constant_fibre_contact_zero_at_place
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:46:10.765782+00:00
 -- url     : https://prove2.me/submissions/067dd733-0c4e-4c8e-95b8-07e7b4d38acd
 

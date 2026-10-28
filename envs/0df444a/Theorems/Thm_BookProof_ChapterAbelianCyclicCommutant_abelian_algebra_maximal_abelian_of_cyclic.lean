@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianCyclicCommutant_abelian_algebra_maximal_abelian_of_cyclic
 -- name    : BookProof.ChapterAbelianCyclicCommutant.abelian_algebra_maximal_abelian_of_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:49:56.918235+00:00
 -- url     : https://prove2.me/theorems/cbb2620e-7730-44b1-bf01-06d52efa6049

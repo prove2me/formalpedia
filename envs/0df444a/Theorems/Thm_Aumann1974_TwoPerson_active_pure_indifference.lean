@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Aumann1974_TwoPerson_active_pure_indifference
 -- name    : Aumann1974.TwoPerson.active_pure_indifference
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T00:37:55.694103+00:00
 -- url     : https://prove2.me/theorems/2a6b4c82-7e3a-42f6-bebe-b6629b02c533

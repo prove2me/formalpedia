@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimumBranchings_Polytope_lemma_1
 -- name    : OptimumBranchings.Polytope.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:55:52.227989+00:00
 -- url     : https://prove2.me/theorems/5306355f-0d06-4da8-94fa-931c9eb6f4b9

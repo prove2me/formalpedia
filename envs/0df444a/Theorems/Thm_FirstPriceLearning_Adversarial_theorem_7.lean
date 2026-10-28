@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_Adversarial_theorem_7
 -- name    : FirstPriceLearning.Adversarial.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:58.724105+00:00
 -- url     : https://prove2.me/theorems/331cd4c1-8277-420b-a9bc-3a41218c1c4d

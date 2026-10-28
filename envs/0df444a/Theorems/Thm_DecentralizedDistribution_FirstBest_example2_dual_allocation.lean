@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecentralizedDistribution_FirstBest_example2_dual_allocation
 -- name    : DecentralizedDistribution.FirstBest.example2_dual_allocation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T06:44:23.384907+00:00
 -- url     : https://prove2.me/theorems/04784aa5-b1da-4112-a3cc-d1edc0d14879

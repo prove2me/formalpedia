@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WernerExt_TwoSided_flip_generators
 -- name    : WernerExt.TwoSided.flip_generators
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:43:26.183036+00:00
 -- url     : https://prove2.me/theorems/135b2014-9b17-4327-af5c-9d35caba0f32

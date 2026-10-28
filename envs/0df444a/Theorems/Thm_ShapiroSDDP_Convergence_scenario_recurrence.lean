@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapiroSDDP_Convergence_scenario_recurrence
 -- name    : ShapiroSDDP.Convergence.scenario_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:35:23.910105+00:00
 -- url     : https://prove2.me/theorems/87f92a5b-89e5-4528-8120-124216ec2bf0

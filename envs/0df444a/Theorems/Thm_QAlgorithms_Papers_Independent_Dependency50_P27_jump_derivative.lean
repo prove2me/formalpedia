@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_jump_derivative
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.jump_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:54:11.899977+00:00
 -- url     : https://prove2.me/theorems/57c72513-ba16-4604-bafd-4ed9eef42173

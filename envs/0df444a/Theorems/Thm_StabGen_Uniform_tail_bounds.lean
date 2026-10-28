@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Uniform_tail_bounds
 -- name    : StabGen.Uniform.tail_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:10:56.079376+00:00
 -- url     : https://prove2.me/theorems/9e0129ab-749b-45dd-b154-60eb0b26352d

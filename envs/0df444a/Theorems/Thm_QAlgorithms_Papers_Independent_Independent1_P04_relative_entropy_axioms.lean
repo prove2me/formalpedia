@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P04_relative_entropy_axioms
 -- name    : QAlgorithms.Papers.Independent.Independent1.P04.relative_entropy_axioms
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:24:17.453186+00:00
 -- url     : https://prove2.me/theorems/806e4e5c-9287-4a83-8e67-335843661634

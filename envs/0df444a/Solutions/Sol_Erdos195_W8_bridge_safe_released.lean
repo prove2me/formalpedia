@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.W8_bridge_safe_released
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T10:01:44.172083+00:00
 -- url     : https://prove2.me/submissions/3994be5d-39f0-4ba0-97dd-b1657610154a
 

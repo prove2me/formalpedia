@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFOTLMon_Monitor_observation_2
 -- name    : MFOTLMon.Monitor.observation_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:37:37.270489+00:00
 -- url     : https://prove2.me/theorems/175aa7eb-0540-49eb-a19f-a63b3c55c208

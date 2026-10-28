@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_prop3_forced
 -- name    : Erdos195.prop3_forced
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T03:10:03.910901+00:00
 -- url     : https://prove2.me/theorems/4d12b81c-532c-4a3d-9d66-a2c730e70cf7
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFIrrev_Equilibrium_theorem_4_1_step_1
 -- name    : MFIrrev.Equilibrium.theorem_4_1_step_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:27:06.398265+00:00
 -- url     : https://prove2.me/theorems/66ce1c78-6248-4265-aeb9-ef3ea7e53aab

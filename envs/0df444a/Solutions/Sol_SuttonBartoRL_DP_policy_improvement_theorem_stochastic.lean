@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.DP.policy_improvement_theorem_stochastic
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:09:28.364059+00:00
 -- url     : https://prove2.me/submissions/53834656-9112-41d4-92f0-32c19039e280
 

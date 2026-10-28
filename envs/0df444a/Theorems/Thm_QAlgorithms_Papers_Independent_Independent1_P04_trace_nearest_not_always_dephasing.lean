@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P04_trace_nearest_not_always_dephasing
 -- name    : QAlgorithms.Papers.Independent.Independent1.P04.trace_nearest_not_always_dephasing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:24:55.621876+00:00
 -- url     : https://prove2.me/theorems/b1084deb-24ad-4146-a5e4-f7ce291fff4f

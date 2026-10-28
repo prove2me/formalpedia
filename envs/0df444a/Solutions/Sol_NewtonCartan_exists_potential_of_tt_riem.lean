@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.exists_potential_of_tt_riem
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:37:59.814687+00:00
 -- url     : https://prove2.me/submissions/5d6e07cb-e84a-45cb-a136-40e3908b2be3
 

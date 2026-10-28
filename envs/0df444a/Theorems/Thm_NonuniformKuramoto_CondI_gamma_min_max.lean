@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondI_gamma_min_max
 -- name    : NonuniformKuramoto.CondI.gamma_min_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:24:46.646666+00:00
 -- url     : https://prove2.me/theorems/5bd9a162-958c-43fd-9c55-4e7aea2cad40

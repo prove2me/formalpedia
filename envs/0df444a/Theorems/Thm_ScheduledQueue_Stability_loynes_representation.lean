@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_loynes_representation
 -- name    : ScheduledQueue.Stability.loynes_representation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:07:58.719694+00:00
 -- url     : https://prove2.me/theorems/094434a8-c18f-4c3e-a040-20746211fe70

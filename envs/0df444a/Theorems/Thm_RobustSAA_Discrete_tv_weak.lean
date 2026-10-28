@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Discrete_tv_weak
 -- name    : RobustSAA.Discrete.tv_weak
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:16:49.166682+00:00
 -- url     : https://prove2.me/theorems/c09d8544-5435-4573-8aef-7b347bfe4cce

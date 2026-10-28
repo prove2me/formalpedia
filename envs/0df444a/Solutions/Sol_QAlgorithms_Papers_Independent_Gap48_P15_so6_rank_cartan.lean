@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P15.so6_rank_cartan
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T01:13:58.629751+00:00
 -- url     : https://prove2.me/submissions/a7959201-3633-4989-9be8-af1d0a033aa8
 

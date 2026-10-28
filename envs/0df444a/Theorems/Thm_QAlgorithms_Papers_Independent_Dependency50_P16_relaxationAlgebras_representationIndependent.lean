@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_relaxationAlgebras_representationIndependent
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.relaxationAlgebras_representationIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:39:15.019762+00:00
 -- url     : https://prove2.me/theorems/914f25a8-05da-42e9-bcd6-2dedab4b1013

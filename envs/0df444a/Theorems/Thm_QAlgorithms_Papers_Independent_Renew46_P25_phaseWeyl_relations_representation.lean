@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P25_phaseWeyl_relations_representation
 -- name    : QAlgorithms.Papers.Independent.Renew46.P25.phaseWeyl_relations_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:41:58.85571+00:00
 -- url     : https://prove2.me/theorems/a045ac85-2a20-4dd7-b1cd-40d203680902

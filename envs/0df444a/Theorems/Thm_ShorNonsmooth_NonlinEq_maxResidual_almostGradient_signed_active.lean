@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_NonlinEq_maxResidual_almostGradient_signed_active
 -- name    : ShorNonsmooth.NonlinEq.maxResidual_almostGradient_signed_active
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T11:10:09.201141+00:00
 -- url     : https://prove2.me/theorems/bc83cd8c-8d15-4289-9d7d-a2b5693a387e

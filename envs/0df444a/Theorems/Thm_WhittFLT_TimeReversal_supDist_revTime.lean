@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_TimeReversal_supDist_revTime
 -- name    : WhittFLT.TimeReversal.supDist_revTime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:57:55.608714+00:00
 -- url     : https://prove2.me/theorems/23b9b894-a3eb-450d-98ff-e5be5e66668f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityProfileSearch_exists_215_orbit
 -- name    : SensitivityProfileSearch.exists_215_orbit
--- status  : Open
+-- status  : Disproved
 -- author  : @dmilosch
 -- created : 2026-10-21T22:17:11.021339+00:00
 -- url     : https://prove2.me/theorems/c3770ecd-d493-4b1b-8809-72b030b1f260

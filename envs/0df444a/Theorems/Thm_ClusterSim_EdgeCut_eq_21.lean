@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClusterSim_EdgeCut_eq_21
 -- name    : ClusterSim.EdgeCut.eq_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:53:08.797762+00:00
 -- url     : https://prove2.me/theorems/5264049b-cd0f-4c18-9cde-32d38ba75d1f

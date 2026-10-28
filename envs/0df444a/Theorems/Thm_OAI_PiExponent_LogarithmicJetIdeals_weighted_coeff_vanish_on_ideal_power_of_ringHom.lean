@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_coeff_vanish_on_ideal_power_of_ringHom
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_coeff_vanish_on_ideal_power_of_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T18:30:35.265216+00:00
 -- url     : https://prove2.me/theorems/955b39c2-70ec-4579-8d11-92c8c26cfafd

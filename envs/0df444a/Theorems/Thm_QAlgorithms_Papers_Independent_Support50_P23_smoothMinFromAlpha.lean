@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_smoothMinFromAlpha
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.smoothMinFromAlpha
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:00:27.986381+00:00
 -- url     : https://prove2.me/theorems/53b973f9-0e12-4973-bda6-7931b6da6225

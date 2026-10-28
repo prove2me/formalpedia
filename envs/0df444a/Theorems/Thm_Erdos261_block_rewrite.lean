@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_block_rewrite
 -- name    : Erdos261.block_rewrite
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:46:56.524907+00:00
 -- url     : https://prove2.me/theorems/a974f6af-55c7-468a-be21-5e77ecb243f5
 -- title:

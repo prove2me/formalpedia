@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P24_fidelityDistance
 -- name    : QAlgorithms.Papers.Independent.Support50.P24.fidelityDistance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:02:14.01998+00:00
 -- url     : https://prove2.me/theorems/72aa63ee-35b4-481c-9172-6fcf958a1cff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_ParetoTotal_lemma_11_4
 -- name    : TwoAgentSched.ParetoTotal.lemma_11_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:29:45.114634+00:00
 -- url     : https://prove2.me/theorems/503dc26f-ee58-4343-a1cf-6ed64d682069

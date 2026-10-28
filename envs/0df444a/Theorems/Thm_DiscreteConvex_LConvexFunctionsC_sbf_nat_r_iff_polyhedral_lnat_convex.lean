@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsC_sbf_nat_r_iff_polyhedral_lnat_convex
 -- name    : DiscreteConvex.LConvexFunctionsC.sbf_nat_r_iff_polyhedral_lnat_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:38:57.061626+00:00
 -- url     : https://prove2.me/theorems/2ae9ce4e-2a4a-4367-9621-b48de7e1f347

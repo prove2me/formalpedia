@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_BernLower_posterior_mean_bound
 -- name    : RobustGeneralization.BernLower.posterior_mean_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:20:47.132705+00:00
 -- url     : https://prove2.me/theorems/6ef3a532-00e6-44a6-8269-3e4476931b5a

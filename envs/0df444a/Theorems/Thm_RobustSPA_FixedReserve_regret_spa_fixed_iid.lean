@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_FixedReserve_regret_spa_fixed_iid
 -- name    : RobustSPA.FixedReserve.regret_spa_fixed_iid
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:09.505218+00:00
 -- url     : https://prove2.me/theorems/989e8591-a220-4e76-a76b-2d648054fdd0

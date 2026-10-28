@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.symmetric_lifting
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:37:52.159129+00:00
 -- url     : https://prove2.me/submissions/5290a068-426e-4d66-abb8-84492bb050f2
 

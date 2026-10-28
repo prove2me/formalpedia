@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.Bit.oppbank_mom_of_plain
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:31:47.287894+00:00
 -- url     : https://prove2.me/submissions/60e2b192-de09-4b68-85dd-cb9d5ed95fa3
 -- note    : a sketch -- it imports a theorem that is still Open,

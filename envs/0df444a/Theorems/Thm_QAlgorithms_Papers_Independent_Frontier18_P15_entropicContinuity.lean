@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P15_entropicContinuity
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P15.entropicContinuity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:04:37.58752+00:00
 -- url     : https://prove2.me/theorems/90dd32af-58c4-4ef6-b659-8f200fc4041b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_integrable_of_nonzero_factor
 -- name    : AvramDividend.Classical.scaleFunction_generator_integrable_of_nonzero_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:10:20.868976+00:00
 -- url     : https://prove2.me/theorems/44b032f3-3bca-4fa9-b8d6-7ef603787c59

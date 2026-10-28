@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashWilliams61_TreePacking_lemma_1
 -- name    : NashWilliams61.TreePacking.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:47.863156+00:00
 -- url     : https://prove2.me/theorems/df8255d2-0097-4fd6-9c3e-ab87518bd95f

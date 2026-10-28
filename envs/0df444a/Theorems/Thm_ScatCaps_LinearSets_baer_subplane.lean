@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScatCaps_LinearSets_baer_subplane
 -- name    : ScatCaps.LinearSets.baer_subplane
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:11.757276+00:00
 -- url     : https://prove2.me/theorems/dc04ed57-ebe6-49dd-991a-a7c890122e6f

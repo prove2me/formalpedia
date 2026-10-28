@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFees_UserGain_deviation_profitable
 -- name    : StableFees.UserGain.deviation_profitable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:35:19.201892+00:00
 -- url     : https://prove2.me/theorems/d37f35f1-bad4-4869-98d9-ad3b39cdccea

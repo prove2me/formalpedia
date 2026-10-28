@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_Shops_open_bjob_starts
 -- name    : TwoAgentSched.Shops.open_bjob_starts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:56.188603+00:00
 -- url     : https://prove2.me/theorems/d56ea047-3ccc-4015-9e93-a5a7a0e797c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCoupling_Ergodic_contracting_small_imp
 -- name    : GenCoupling.Ergodic.contracting_small_imp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:00.107007+00:00
 -- url     : https://prove2.me/theorems/5c2fd78f-452b-459d-9564-46e3b50b503a

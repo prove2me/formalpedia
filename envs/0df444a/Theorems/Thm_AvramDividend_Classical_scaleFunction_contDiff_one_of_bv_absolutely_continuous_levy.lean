@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one_of_bv_absolutely_continuous_levy
 -- name    : AvramDividend.Classical.scaleFunction_contDiff_one_of_bv_absolutely_continuous_levy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:09:41.911594+00:00
 -- url     : https://prove2.me/theorems/bced81f2-1208-4b81-ab75-b3c77418fd4a

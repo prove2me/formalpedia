@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem336AdditiveD139_strongly_rayleigh_group_factor
 -- name    : OAI.Problem336AdditiveD139.strongly_rayleigh_group_factor
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:08.579911+00:00
 -- url     : https://prove2.me/theorems/e9ef6a16-93bc-40bd-837b-d0d38896fa37

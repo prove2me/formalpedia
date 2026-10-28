@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LawlerWCT_SeriesPar_series_composition_procedure
 -- name    : LawlerWCT.SeriesPar.series_composition_procedure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:59:10.564998+00:00
 -- url     : https://prove2.me/theorems/bb80a288-bc04-4ba9-bfa4-35508ad88ef7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_tightSpectralQuasiPerfect
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.tightSpectralQuasiPerfect
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:59:51.07216+00:00
 -- url     : https://prove2.me/theorems/33f5dc1d-c89c-4f68-8c9c-33be1b0ca316

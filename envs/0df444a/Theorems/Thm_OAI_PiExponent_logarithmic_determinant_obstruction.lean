@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_logarithmic_determinant_obstruction
 -- name    : OAI.PiExponent.logarithmic_determinant_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T07:54:07.93024+00:00
 -- url     : https://prove2.me/theorems/b15a82d6-4887-4b93-86f4-8e3d838824e2

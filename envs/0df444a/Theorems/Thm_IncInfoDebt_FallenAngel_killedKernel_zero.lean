@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncInfoDebt_FallenAngel_killedKernel_zero
 -- name    : IncInfoDebt.FallenAngel.killedKernel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:08.714014+00:00
 -- url     : https://prove2.me/theorems/d4420539-1486-46d7-8b97-fddf7e8ccad3

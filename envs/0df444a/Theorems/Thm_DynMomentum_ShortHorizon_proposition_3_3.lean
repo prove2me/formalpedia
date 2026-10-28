@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynMomentum_ShortHorizon_proposition_3_3
 -- name    : DynMomentum.ShortHorizon.proposition_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:46:43.412918+00:00
 -- url     : https://prove2.me/theorems/ba268af8-707b-4ca8-b7f6-4a5b16555d10

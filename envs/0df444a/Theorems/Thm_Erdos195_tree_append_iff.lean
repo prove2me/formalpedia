@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_tree_append_iff
 -- name    : Erdos195.tree_append_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:15:30.460305+00:00
 -- url     : https://prove2.me/theorems/f07e946e-b977-4fa8-91d2-3edfca3825f5
 -- title:

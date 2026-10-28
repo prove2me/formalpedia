@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalArtGallery_FanPartition_bound_cannot_be_improved
 -- name    : ChvatalArtGallery.FanPartition.bound_cannot_be_improved
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:14:01.22723+00:00
 -- url     : https://prove2.me/theorems/922e641c-5f61-416d-b3dd-a46d25a1c6b2

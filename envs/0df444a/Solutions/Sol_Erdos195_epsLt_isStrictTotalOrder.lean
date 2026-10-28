@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_isStrictTotalOrder
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:11.610608+00:00
 -- url     : https://prove2.me/submissions/85c6add9-6e88-44d9-8915-ec6383812b17
 

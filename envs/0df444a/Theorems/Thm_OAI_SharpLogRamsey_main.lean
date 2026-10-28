@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpLogRamsey_main
 -- name    : OAI.SharpLogRamsey.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:20.302413+00:00
 -- url     : https://prove2.me/theorems/cace57bc-4860-4399-a7cb-f4f9acdc7bb9

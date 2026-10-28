@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlangA_Diffusion_infinitesimal_moments_limit
 -- name    : ErlangA.Diffusion.infinitesimal_moments_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:03:06.559867+00:00
 -- url     : https://prove2.me/theorems/3f52ac77-0496-4ca4-b295-dd249e2c2e44

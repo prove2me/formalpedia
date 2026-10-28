@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EulerMascheroni_Sondow_scaled_integral_bounds
 -- name    : EulerMascheroni.Sondow.scaled_integral_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-09-14T09:08:41.950168+00:00
 -- url     : https://prove2.me/theorems/00b4cd42-5f36-4d22-ab0f-2a87c9194496

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_hiding_ppt_region
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.hiding_ppt_region
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:18:21.026842+00:00
 -- url     : https://prove2.me/theorems/e00d0de7-27df-4690-bf9e-ec96affd59b8

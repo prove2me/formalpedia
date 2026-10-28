@@ -19,7 +19,7 @@
 --
 --   $$\min_{i\in X}c_i<B.$$
 --
---   There is no upper bound on $B$. For a nonnegative cost multiplier $\lambda$, define the dual objective
+--   For a nonnegative cost multiplier $\lambda$, define the dual objective
 --
 --   $$A_B(\lambda)=\sup_\rho\{R(\rho)-\lambda C(\rho)\}+\lambda B,$$
 --
@@ -33,9 +33,9 @@
 --
 --   For $\lambda>0$, the index $g_i(\lambda)$ is the unique finite solution of $\mathbb E[(F_i-g_i(\lambda))_+]=\lambda c_i$, where $(x)_+=\max(x,0)$, and the policy spends exactly $C(\pi)=B$ in expectation. For $\lambda=0$, the index is $g_i(0)=\operatorname{ess\,sup}F_i$, possibly $+\infty$, and unused budget is permitted. The index policy first opens a maximal-index box, then opens an unopened maximal-index box when its index exceeds the best observed reward, and stops when the best observed reward exceeds every remaining index. Equality permits either action; ties may be randomized.
 --
---   [Paper (arXiv v3)](https://arxiv.org/abs/2406.20062v3). The revised statement formalized here is intended for v4, which will be available on arXiv shortly. No strict reward-gap, bounded-support, continuity, or atomlessness assumption is added. The formal statement and all its proof dependencies have been verified by Prove2Me's Lean 4 server.
+--   Source: [Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index](https://arxiv.org/abs/2406.20062), NeurIPS 2024, Theorem 2 and Appendix B.5. The formal statement and all its proof dependencies have been verified by Prove2Me's Lean 4 server.
 -- source:
---   Xie, Astudillo, Frazier, Scully and Terenin. Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index. NeurIPS 2024. Paper (arXiv v3): https://arxiv.org/abs/2406.20062v3. Formalization target: Theorem 2 and Appendix B.5 of the author-revised manuscript intended for arXiv v4, which will be available shortly.
+--   Qian Xie, Raul Astudillo, Peter I. Frazier, Ziv Scully, and Alexander Terenin. [Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index](https://arxiv.org/abs/2406.20062). NeurIPS 2024. Theorem 2 and Appendix B.5: existence of an optimal generalized Gittins policy for the expected-budget problem, including the zero-multiplier case.
 
 import Definitions.Def_PandoraBO_Model
 

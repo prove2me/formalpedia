@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Invariance_theorem_6_2
 -- name    : PathsTreesFlowers.Invariance.theorem_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:06:12.758111+00:00
 -- url     : https://prove2.me/theorems/d1759df5-e237-4aed-a13a-91619b719980

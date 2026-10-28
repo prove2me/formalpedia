@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsExtension_friedrichs_hashimoto_selects
 -- name    : BookProof.FriedrichsExtension.friedrichs_hashimoto_selects
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-03T07:54:11.045994+00:00
 -- url     : https://prove2.me/theorems/b63c674b-b86a-4bc9-898e-fb6567aac2b0

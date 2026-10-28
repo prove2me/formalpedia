@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Sets.eq_13_equivariant
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:36:38.60457+00:00
 -- url     : https://prove2.me/submissions/0adef564-0dc6-4023-aaa2-84fa932c066e
 

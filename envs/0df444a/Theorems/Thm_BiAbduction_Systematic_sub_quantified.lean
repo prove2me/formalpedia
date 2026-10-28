@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiAbduction_Systematic_sub_quantified
 -- name    : BiAbduction.Systematic.sub_quantified
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:28.489634+00:00
 -- url     : https://prove2.me/theorems/59a42c77-24b2-427a-86d9-9e1fc9c8e3e3

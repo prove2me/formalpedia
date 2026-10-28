@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_Affiliated_lemma_1
 -- name    : RobustSPA.Affiliated.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:41.876608+00:00
 -- url     : https://prove2.me/theorems/1c0ccfc3-6bc1-4929-a0c7-8a303c6c7062

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothAmbEq_Gaussian_proposition_5_4_closed_form
 -- name    : SmoothAmbEq.Gaussian.proposition_5_4_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:22.161771+00:00
 -- url     : https://prove2.me/theorems/67478304-9d97-43b6-96d5-ba87d5b8bf39

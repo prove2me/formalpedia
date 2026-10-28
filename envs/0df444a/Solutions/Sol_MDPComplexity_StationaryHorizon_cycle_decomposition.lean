@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.StationaryHorizon.cycle_decomposition
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:02:54.373228+00:00
 -- url     : https://prove2.me/submissions/447f282d-1f22-4315-b219-a12ed4e86590
 

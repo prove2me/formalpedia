@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Cotangent.edge_length_triangle_inequality
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:41:39.841641+00:00
 -- url     : https://prove2.me/submissions/089abe3d-4f6d-47ac-80a5-c8066546661f
 

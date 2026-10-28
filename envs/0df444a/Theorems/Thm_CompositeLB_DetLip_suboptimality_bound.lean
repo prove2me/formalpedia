@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompositeLB_DetLip_suboptimality_bound
 -- name    : CompositeLB.DetLip.suboptimality_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:34:24.429416+00:00
 -- url     : https://prove2.me/theorems/5055602f-5f64-40cb-bcba-4c94dfdb382c

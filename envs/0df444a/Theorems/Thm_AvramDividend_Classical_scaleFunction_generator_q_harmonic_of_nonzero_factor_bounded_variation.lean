@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_q_harmonic_of_nonzero_factor_bounded_variation
 -- name    : AvramDividend.Classical.scaleFunction_generator_q_harmonic_of_nonzero_factor_bounded_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T15:10:10.486417+00:00
 -- url     : https://prove2.me/theorems/2dc962ec-a1af-45f4-a053-ca4c980db462

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPECRelax_ScholtesMFCQ_mpec_mfcq_posLinIndep
 -- name    : MPECRelax.ScholtesMFCQ.mpec_mfcq_posLinIndep
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:34.949837+00:00
 -- url     : https://prove2.me/theorems/ee50d8ed-a7df-447f-88b1-7ac9af81cd7a

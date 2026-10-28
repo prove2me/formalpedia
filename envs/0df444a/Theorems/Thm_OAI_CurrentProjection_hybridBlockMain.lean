@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CurrentProjection_hybridBlockMain
 -- name    : OAI.CurrentProjection.hybridBlockMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:33.093487+00:00
 -- url     : https://prove2.me/theorems/46fe4c7c-a1a9-46b7-83bc-802ac8bf51d8

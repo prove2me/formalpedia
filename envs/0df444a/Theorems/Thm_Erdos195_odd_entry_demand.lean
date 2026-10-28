@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_odd_entry_demand
 -- name    : Erdos195.odd_entry_demand
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T08:10:13.276898+00:00
 -- url     : https://prove2.me/theorems/c589731c-4954-4d63-93ef-8000c798fbf6
 -- title:

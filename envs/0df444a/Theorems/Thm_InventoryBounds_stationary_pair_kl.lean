@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryBounds_stationary_pair_kl
 -- name    : InventoryBounds.stationary_pair_kl
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T15:33:54.32765+00:00
 -- url     : https://prove2.me/theorems/819d44ef-4fe8-4148-9e1c-c208bc5fa683

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P34_mziScattering
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P34.mziScattering
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:21:54.490193+00:00
 -- url     : https://prove2.me/theorems/721f9d0a-bf2e-432b-b488-50bf2e38212a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFock_sqSumOp_essentiallySelfAdjointOn
 -- name    : BookProof.QgOuterFock.sqSumOp_essentiallySelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:41:23.46879+00:00
 -- url     : https://prove2.me/theorems/c54e7843-7ad0-4785-93ea-5c203f36cc82

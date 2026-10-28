@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.track_amplification
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:23.027244+00:00
 -- url     : https://prove2.me/submissions/ab9fd800-182c-4ebc-bfb2-df73ee4b70ae
 

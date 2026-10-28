@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.no_finite_fourth_term_closed
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:17:47.437531+00:00
 -- url     : https://prove2.me/submissions/d3ffe108-eabb-4eac-b74a-78ebffe27b71
 

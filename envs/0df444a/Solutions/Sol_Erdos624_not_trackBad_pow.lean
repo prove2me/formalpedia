@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.not_trackBad_pow
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:21.763127+00:00
 -- url     : https://prove2.me/submissions/9732a7d8-4065-45ed-9cfe-6487acda7616
 

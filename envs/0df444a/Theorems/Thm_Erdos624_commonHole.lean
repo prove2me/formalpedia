@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_commonHole
 -- name    : Erdos624.commonHole
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:07:56.899368+00:00
 -- url     : https://prove2.me/theorems/bb31e63d-fc44-4111-abd9-25608cacd833
 -- title:

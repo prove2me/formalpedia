@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_unitaryReferenceEntropy
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.unitaryReferenceEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:26:56.825764+00:00
 -- url     : https://prove2.me/theorems/da47ea58-be21-4648-8a69-1cec033e8279

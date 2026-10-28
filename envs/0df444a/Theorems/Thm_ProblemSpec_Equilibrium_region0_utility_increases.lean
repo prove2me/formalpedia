@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProblemSpec_Equilibrium_region0_utility_increases
 -- name    : ProblemSpec.Equilibrium.region0_utility_increases
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:29.960339+00:00
 -- url     : https://prove2.me/theorems/902f6777-252b-47e8-a4d7-837bb42f82e6

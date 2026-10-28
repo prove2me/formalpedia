@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_exists_undominated_iff_inessential
 -- name    : TheoryOfGames.ThreePerson.exists_undominated_iff_inessential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:24:22.92667+00:00
 -- url     : https://prove2.me/theorems/cbbed635-cacf-4ea0-846f-30a3999a01c8

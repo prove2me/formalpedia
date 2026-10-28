@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProviderGuarantee_Bound_dualValue_quasiconvexOn
 -- name    : ProviderGuarantee.Bound.dualValue_quasiconvexOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:35.26735+00:00
 -- url     : https://prove2.me/theorems/e50243ee-02cc-436d-9326-790e3a5e4713

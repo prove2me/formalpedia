@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_Upper_component_1
 -- name    : PigeonholeDesign.Upper.component_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:12:58.049803+00:00
 -- url     : https://prove2.me/theorems/b8d36055-5dd0-4fc4-a93c-8717799d2e7e

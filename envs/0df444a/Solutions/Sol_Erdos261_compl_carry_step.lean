@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.compl_carry_step
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:24.964973+00:00
 -- url     : https://prove2.me/submissions/dc6f1dc8-dc07-40a2-91d7-67865c14e566
 

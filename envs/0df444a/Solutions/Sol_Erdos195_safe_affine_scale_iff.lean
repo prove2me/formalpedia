@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.safe_affine_scale_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T12:42:04.295668+00:00
 -- url     : https://prove2.me/submissions/3133a550-f95f-4abd-a867-0e7eb74aceb0
 

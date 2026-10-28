@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P38_commutingEnsemble_reduction
 -- name    : QAlgorithms.Papers.Independent.Support50.P38.commutingEnsemble_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:08:06.632532+00:00
 -- url     : https://prove2.me/theorems/4c7abafb-5b84-440e-b779-1165667bc0b4

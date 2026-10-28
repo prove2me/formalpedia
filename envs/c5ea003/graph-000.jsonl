@@ -60181,3 +60181,1128 @@
 {"parent": "NoUniversalFSigma.lemma2_4", "child": "NoUniversalFSigma261031052", "via": ["solution", "statement"]}
 {"parent": "MeasureEquivalenceMission.c0_not_reducible", "child": "MeasureEquivalenceSequences", "via": ["solution", "statement"]}
 {"parent": "NoUniversalFSigma.no_universal_fsigma", "child": "NoUniversalFSigma.theorem1_1", "via": ["solution"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPermutation", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPermutation", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPermutation", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPermutation", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPermutation", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "MeasureUnitary.measurable_nat_nth", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.measurable_nat_nth", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.measurable_nat_nth", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_HellingerAffinity", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["statement"]}
+{"parent": "MeasureEquivalenceHellinger.exists_measurable_affinityTest_lt", "child": "BenchmarkOperator20261026_HellingerVariational", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceHellinger.exists_measurable_affinityTest_lt", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_CouplingMixture", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_CouplingMixture", "child": "BenchmarkOperator20261026_CouplingMarkov", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.finite_volume_ac_exponential", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "HofmannMoser.lemma_7", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_OperatorUnitaryBorel", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_OperatorHilbertFlatten", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_OperatorSeries", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_OperatorBlocks", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.head_event_zeroSum_invariant", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.head_event_zeroSum_invariant", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.head_event_zeroSum_invariant", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.head_event_zeroSum_invariant", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.head_event_zeroSum_invariant", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.head_event_zeroSum_invariant", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.head_event_zeroSum_invariant", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_RestrictedInducedTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser_Syntax", "via": ["statement"]}
+{"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser_Typing", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2FiniteOnes", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedErgodic", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedErgodic", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedErgodic", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedErgodic", "child": "BenchmarkOperator20261026_RestrictedPermutation", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedErgodic", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedErgodic", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedErgodic", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.cylinder_blockSwap_independent", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.cylinder_blockSwap_independent", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.cylinder_blockSwap_independent", "child": "BenchmarkOperator20261026_RestrictedPermutation", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.cylinder_blockSwap_independent", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.cylinder_blockSwap_independent", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.cylinder_blockSwap_independent", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_InducedCornerUnitary", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_InducedCornerUnitary", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_InducedCornerUnitary", "child": "BenchmarkOperator20261026_PiecewiseMeasureTransport", "via": ["statement"]}
+{"parent": "HofmannMoser.proposition_4", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_VectorSpectralState", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_VectorSpectralState", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["statement"]}
+{"parent": "BenchmarkComparisons.countable_product_to_c0", "child": "BenchmarkRelations", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureL2Constants", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureL2Constants", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureL2Constants", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureL2Constants", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureL2Constants", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureL2Constants", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorUnitaryBorel", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorUnitaryBorel", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorUnitaryBorel", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedRoots", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedRoots", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedRoots", "child": "BenchmarkOperator20261026_RNGraph", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedRoots", "child": "BenchmarkOperator20261026_DensityMeasure", "via": ["statement"]}
+{"parent": "MeasureEquivalenceHellinger.affinity_compProd", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_HellingerInner", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_ZeroSumConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_ZeroSumDense", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_ZeroSumNonreduction", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_KernelEquivalence", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_CompactAveraging", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_MeasureGramSchmidtBorel", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_OperatorUnitaryBorel", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedInducedTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_OperatorBireduction", "via": ["statement"]}
+{"parent": "HofmannMoser.lemma_12", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "MeasureEquivalenceDensity.squareMeasure_continuous", "child": "BenchmarkOperator20261026_DensityMeasure", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedSpectral", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2ModuleCommutant", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2ModuleCommutant", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_InducedCornerUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFiniteModulus", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_ScalarMeasureNormalization", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedFullReflection", "child": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "via": ["statement"]}
+{"parent": "MeasureEquivalenceMarkov.completedCoupling_ae_equal_iff", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRootContinuity.zeroSumRoot_continuous", "child": "BenchmarkOperator20261026_RootContinuity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRootContinuity.zeroSumRoot_continuous", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRootContinuity.zeroSumRoot_continuous", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRootContinuity.zeroSumRoot_continuous", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorConjugation", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorConjugation", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCorrection", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCorrection", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCorrection", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCorrection", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCorrection", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2CountInjections", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2CountInjections", "child": "BenchmarkOperator20261026_L2CountCoefficients", "via": ["statement"]}
+{"parent": "MeasureEquivalenceL2Restriction.inner_zeroExtend_restrict", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceL2Restriction.inner_zeroExtend_restrict", "child": "BenchmarkOperator20261026_L2RestrictionExtension", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorCoefficients", "child": "BenchmarkOperator20261026_OperatorBlocks", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorCoefficients", "child": "BenchmarkOperator20261026_OperatorSeries", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorCoefficients", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorCoefficients", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureGramSchmidtBorel", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureGramSchmidtBorel", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureGramSchmidtBorel", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkComparisons.classical_countable_ell_two", "child": "BenchmarkRelations", "via": ["statement"]}
+{"parent": "MeasureEquivalenceHellinger.affinity_le_affinityTest_of_integrable", "child": "BenchmarkOperator20261026_HellingerVariational", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceHellinger.affinity_le_affinityTest_of_integrable", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.tendsto_mean_along_real_roots", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.tendsto_mean_along_real_roots", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.tendsto_mean_along_real_roots", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.tendsto_mean_along_real_roots", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_RestrictedSpectralClass", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_InducedCornerUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedFamily", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkComparisons.theorem_1_2", "child": "BenchmarkRelations", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RationalFiberErgodic", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumDense", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumDense", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumDense", "child": "BenchmarkOperator20261026_RNGraph", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedAction", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedAction", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedAction", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedAction", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedAction", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureOperatorReduction", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureOperatorReduction", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureOperatorReduction", "child": "BenchmarkOperator20261026_OperatorUnitaryBorel", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureOperatorReduction", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureOperatorReduction", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureOperatorReduction", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureOperatorReduction", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureOperatorReduction", "child": "BenchmarkOperator20261026_OperatorBireduction", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureOperatorReduction", "child": "BenchmarkOperator20261026_MeasureCantorBorel", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureOperatorReduction", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "MeasureEquivalenceInducedCorners.exists_induced_corner_unitary", "child": "BenchmarkOperator20261026_InducedCornerUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceInducedCorners.exists_induced_corner_unitary", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_L2LocalizedOperators", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2LocalizedOperators", "child": "BenchmarkOperator20261026_L2RestrictionExtension", "via": ["statement"]}
+{"parent": "MeasureEquivalenceInducedCorners.exists_induced_corner_transport", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.measurePreserving_sumTailEquiv", "child": "BenchmarkOperator20261026_RationalFiberErgodic", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.measurePreserving_sumTailEquiv", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSupport", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSupport", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSupport", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSupport", "child": "BenchmarkOperator20261026_RestrictedDeparture", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSupport", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSupport", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ConditionalFibers", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["statement"]}
+{"parent": "MeasureEquivalenceMarkov.setIntegral_eq_mul_of_kernelAverage_limit", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceMarkov.setIntegral_eq_mul_of_kernelAverage_limit", "child": "BenchmarkOperator20261026_KernelAverages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceMarkov.setIntegral_eq_mul_of_kernelAverage_limit", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_HilbertSequenceTopology", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_HilbertSequenceTopology", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_HilbertSequenceTopology", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedMass", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedMass", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedMass", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedMass", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedMass", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedMass", "child": "BenchmarkOperator20261026_RestrictedSupport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorStrongUnitary", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkComparisons.c0_jump_obstruction", "child": "BenchmarkRelations", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "BenchmarkOperator20261026_GroupMarkov", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "BenchmarkOperator20261026_KernelAverages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.measurable_invariant_representative", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedRoots.finiteOrbit_continuous", "child": "BenchmarkOperator20261026_RestrictedRoots", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedRoots.finiteOrbit_continuous", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedRoots.finiteOrbit_continuous", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedRoots.finiteOrbit_continuous", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceDensity.squareMeasure_injective_nonnegative", "child": "BenchmarkOperator20261026_DensityMeasure", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureVariableGramSchmidt", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureVariableGramSchmidt", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureVariableGramSchmidt", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_HellingerInner", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_CompactAveraging", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorUnitaryBorel", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_ZeroSumConditional", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_ZeroSumDense", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedReflection", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2SpectralProjectionIntertwining", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2SpectralProjectionIntertwining", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2SpectralProjectionIntertwining", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2SpectralProjectionIntertwining", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2SpectralProjectionIntertwining", "child": "BenchmarkOperator20261026_L2RestrictionExtension", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2SpectralProjectionIntertwining", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2SpectralProjectionIntertwining", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2SpectralProjectionIntertwining", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkRelations", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_HellingerOrbit", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_HellingerOrbit", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_HellingerOrbit", "child": "BenchmarkOperator20261026_RNGraph", "via": ["statement"]}
+{"parent": "MeasureEquivalenceHellinger.tendsto_integral_regularized_root_tests", "child": "BenchmarkOperator20261026_HellingerVariational", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumNonreduction", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumNonreduction", "child": "BenchmarkOperator20261026_HellingerInner", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumNonreduction", "child": "BenchmarkOperator20261026_ZeroSumConditional", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumNonreduction", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumNonreduction", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumNonreduction", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumNonreduction", "child": "BenchmarkOperator20261026_ZeroSumDense", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumNonreduction", "child": "BenchmarkOperator20261026_CompactAveraging", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumNonreduction", "child": "BenchmarkOperator20261026_RNGraph", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumNonreduction", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.finite_exponential_ac_volume", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "HofmannMoser_Typing", "child": "HofmannMoser_Syntax", "via": ["statement"]}
+{"parent": "HofmannMoser_Typing", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "HofmannMoser.lemma_13", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OrbitMarkov", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OrbitMarkov", "child": "BenchmarkOperator20261026_CouplingMixture", "via": ["statement"]}
+{"parent": "MeasureEquivalenceMarkov.couplingTransition_ae_eq_integral_kernel", "child": "BenchmarkOperator20261026_CouplingMarkov", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_affinity", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_affinity", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorNormalization", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorNormalization", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorGram", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorGram", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorGram", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorGram", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorGram", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorGram", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkComparisons.theorem_1_1", "child": "BenchmarkRelations", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRNGraph.isClosed_graph", "child": "BenchmarkOperator20261026_DensitySquare", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRNGraph.isClosed_graph", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedBoxMass", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedBoxMass", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedBoxMass", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedBoxMass", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedBoxMass", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedBoxMass", "child": "BenchmarkOperator20261026_RestrictedMass", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPhaseFamily", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPhaseFamily", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPhaseFamily", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPhaseFamily", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPhaseFamily", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPhaseFamily", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPhaseFamily", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPhaseFamily", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPhaseFamily", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedPhaseFamily", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompatibility", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompatibility", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompatibility", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompatibility", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSaturation", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSaturation", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSaturation", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSaturation", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSaturation", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.exists_base_event_of_ae_fiber_const", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_L2RestrictionExtension", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_KernelAverages", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_KernelAverages", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTail", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumConditional", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumConditional", "child": "BenchmarkOperator20261026_HellingerInner", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumConditional", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumConditional", "child": "BenchmarkOperator20261026_RootContinuity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumConditional", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumConditional", "child": "BenchmarkOperator20261026_ZeroSumDense", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumConditional", "child": "BenchmarkOperator20261026_RNGraph", "via": ["statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.setLIntegral_of_stationary_noLeak", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_InducedCornerUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_nonsingular", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_stationary", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "child": "BenchmarkOperator20261026_ZeroSumDense", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_ComponentQuasiInvariance", "child": "BenchmarkOperator20261026_RNGraph", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2TransportedMatrix", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2TransportedMatrix", "child": "BenchmarkOperator20261026_L2LocalizedOperators", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2TransportedMatrix", "child": "BenchmarkOperator20261026_PiecewiseMeasureTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorTargets", "child": "BenchmarkOperator20261026_OperatorNormalization", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorTargets", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorTargets", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.tailProbability_zero_one_of_blockSwap_invariant", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.tailProbability_zero_one_of_blockSwap_invariant", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.tailProbability_zero_one_of_blockSwap_invariant", "child": "BenchmarkOperator20261026_RestrictedPermutation", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.tailProbability_zero_one_of_blockSwap_invariant", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.tailProbability_zero_one_of_blockSwap_invariant", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.tailProbability_zero_one_of_blockSwap_invariant", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumRigidity", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumRigidity", "child": "BenchmarkOperator20261026_HellingerInner", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumRigidity", "child": "BenchmarkOperator20261026_ZeroSumConditional", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumRigidity", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumRigidity", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumRigidity", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumRigidity", "child": "BenchmarkOperator20261026_ZeroSumDense", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumRigidity", "child": "BenchmarkOperator20261026_RNGraph", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumRigidity", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "child": "BenchmarkOperator20261026_MeasureGramSchmidtBorel", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedSpectralClass", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_HellingerInner", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_ZeroSumConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_ZeroSumDense", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedInducedTuple", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_continuous_integral", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_continuous_integral", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_continuous_integral", "child": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_continuous_integral", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_continuous_integral", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_continuous_integral", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_continuous_integral", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_continuous_integral", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceMarkov.couplingTransition_fixed_iff", "child": "BenchmarkOperator20261026_CouplingMarkov", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.real_zero_one_of_approximants", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.real_zero_one_of_approximants", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.real_zero_one_of_approximants", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.real_zero_one_of_approximants", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.real_zero_one_of_approximants", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_coordinate_mean_affinity", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_coordinate_mean_affinity", "child": "BenchmarkOperator20261026_HellingerInner", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_coordinate_mean_affinity", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_coordinate_mean_affinity", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_coordinate_mean_affinity", "child": "BenchmarkOperator20261026_RootContinuity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_coordinate_mean_affinity", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_SumFiberCoordinates", "child": "BenchmarkOperator20261026_RationalFiberErgodic", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_SumFiberCoordinates", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "MeasureEquivalenceHellinger.affinity_eq_zero_iff_mutuallySingular", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceDensity.square_continuous", "child": "BenchmarkOperator20261026_DensitySquare", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceHellinger.affinity_map_leftInverse", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceHellinger.affinity_map_leftInverse", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorAmplification", "child": "BenchmarkOperator20261026_OperatorBlocks", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorAmplification", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorAmplification", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "MeasureUnitary.vectorCantorMultiplier_fundamental", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorCantorMultiplier_fundamental", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorCantorMultiplier_fundamental", "child": "BenchmarkOperator20261026_MeasureCantorAmplified", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorCantorMultiplier_fundamental", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorCantorMultiplier_fundamental", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorCantorMultiplier_fundamental", "child": "BenchmarkOperator20261026_MeasureCantorGram", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorCantorMultiplier_fundamental", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorCantorMultiplier_fundamental", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorCantorMultiplier_fundamental", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_ScalarMeasureNormalization", "child": "BenchmarkOperator20261026_MeasureUnitaryRN", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_GroupMarkov", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_GroupMarkov", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_GroupMarkov", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["statement"]}
+{"parent": "MeasureEquivalenceL2Restriction.globalize_adjoint", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceL2Restriction.globalize_adjoint", "child": "BenchmarkOperator20261026_L2LocalizedOperators", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorBorel", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorBorel", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorBorel", "child": "BenchmarkOperator20261026_OperatorUnitaryBorel", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorBorel", "child": "BenchmarkOperator20261026_MeasureCantorAmplified", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorBorel", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorBorel", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorBorel", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorBorel", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorBorel", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedDeparture", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedStages", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedStages", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedStages", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedStages", "child": "BenchmarkOperator20261026_RestrictedTail", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorEigenspaces", "child": "BenchmarkOperator20261026_OperatorCoefficients", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorEigenspaces", "child": "BenchmarkOperator20261026_OperatorSeries", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorEigenspaces", "child": "BenchmarkOperator20261026_OperatorBlocks", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorEigenspaces", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorEigenspaces", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "HofmannMoser_Potential", "child": "HofmannMoser_Syntax", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorAmplified", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorAmplified", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorAmplified", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorAmplified", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureCantorAmplified", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkComparisons.theorem_1_5", "child": "BenchmarkRelations", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_real_root_mean_affinity", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_real_root_mean_affinity", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_real_root_mean_affinity", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_real_root_mean_affinity", "child": "BenchmarkOperator20261026_ComponentQuasiInvariance", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_real_root_mean_affinity", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_real_root_mean_affinity", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_L2CountCoefficients", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_L2CountCoefficients", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.zero_or_conull_of_test_factorization", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.zero_or_conull_of_test_factorization", "child": "BenchmarkOperator20261026_ConditionalFibers", "via": ["solution", "statement"]}
+{"parent": "BenchmarkComparisons.theorem_1_4", "child": "BenchmarkRelations", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariant_graph_action_eq", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkRelations", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkRelations", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedInducedTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorSeries", "child": "BenchmarkOperator20261026_OperatorBlocks", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorSeries", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorSeries", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "OperatorCoding.tupleImaginaryPart_star_entry", "child": "BenchmarkOperator20261026_OperatorBlocks", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.tupleImaginaryPart_star_entry", "child": "BenchmarkOperator20261026_OperatorSeries", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.tupleImaginaryPart_star_entry", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.tupleImaginaryPart_star_entry", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["statement"]}
+{"parent": "BenchmarkComparisons.all_main_comparisons", "child": "BenchmarkRelations", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_ComponentQuasiInvariance", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
+{"parent": "HofmannMoser.lemma_9", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_HellingerInner", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_HellingerInner", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RootContinuity", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RootContinuity", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RootContinuity", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RootContinuity", "child": "BenchmarkOperator20261026_RNGraph", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedModulus", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedModulus", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedModulus", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedModulus", "child": "BenchmarkOperator20261026_RestrictedBoxMass", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedModulus", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedModulus", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedModulus", "child": "BenchmarkOperator20261026_RestrictedSupport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumAffinity", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumAffinity", "child": "BenchmarkOperator20261026_HellingerInner", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumAffinity", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumAffinity", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumAffinity", "child": "BenchmarkOperator20261026_RootContinuity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_ZeroSumAffinity", "child": "BenchmarkOperator20261026_RNGraph", "via": ["statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.conditional_fiber_constant", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_RestrictedCompactMeasure", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_RestrictedInducedFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_PiecewiseMeasureTransport", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_RestrictedModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasureUnitaryDensity", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "HofmannMoser.proposition_3", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "BenchmarkOperator20261026_InducedCornerUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "child": "BenchmarkOperator20261026_L2FiniteOnes", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.determiningSet_generates", "child": "BenchmarkOperator20261026_InvariantConditional", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.determiningSet_generates", "child": "BenchmarkOperator20261026_ConditionalFibers", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.finite_permutation_invariant_of_zeroSum_invariant", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.finite_permutation_invariant_of_zeroSum_invariant", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompactMeasure", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompactMeasure", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompactMeasure", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompactMeasure", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompactMeasure", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompactMeasure", "child": "BenchmarkOperator20261026_RestrictedPhaseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompactMeasure", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompactMeasure", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompactMeasure", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RestrictedCompactMeasure", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.exists_zeroSum_shift_to_base", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.exists_zeroSum_shift_to_base", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.exists_zeroSum_shift_to_base", "child": "BenchmarkOperator20261026_RestrictedSaturation", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.exists_zeroSum_shift_to_base", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.exists_zeroSum_shift_to_base", "child": "BenchmarkOperator20261026_RestrictedFiniteModulus", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.exists_zeroSum_shift_to_base", "child": "BenchmarkOperator20261026_RestrictedCompatibility", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.exists_zeroSum_shift_to_base", "child": "BenchmarkOperator20261026_RestrictedStages", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceHellinger.root_dist_inverse", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorBlocks", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorBlocks", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_DensityMeasure", "child": "BenchmarkOperator20261026_DensitySquare", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "MeasureEquivalenceSolenoid.twoPoint_limit", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_integral", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_integral", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.vectorSpectralState_integral", "child": "BenchmarkOperator20261026_L2ModuleCommutant", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_RNGraph", "child": "BenchmarkOperator20261026_DensitySquare", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_RNGraph", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_twoPoint_affinity", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_twoPoint_affinity", "child": "BenchmarkOperator20261026_HellingerInner", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_twoPoint_affinity", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_twoPoint_affinity", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_twoPoint_affinity", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorHilbertFlatten", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorHilbertFlatten", "child": "BenchmarkOperator20261026_OperatorUnitaryBorel", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorHilbertFlatten", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorHilbertFlatten", "child": "BenchmarkOperator20261026_OperatorBlocks", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorHilbertFlatten", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["statement"]}
+{"parent": "BenchmarkOperator20261026_OperatorHilbertFlatten", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["statement"]}
+{"parent": "MeasureEquivalenceHellinger.exists_continuous_affinityTest_le", "child": "BenchmarkOperator20261026_HellingerVariational", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceInvariantGraph.graphGroup_topologicalGroup", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.tupleImaginaryPart_tuple_entry", "child": "BenchmarkOperator20261026_OperatorBlocks", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.tupleImaginaryPart_tuple_entry", "child": "BenchmarkOperator20261026_OperatorSeries", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.tupleImaginaryPart_tuple_entry", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution", "statement"]}
+{"parent": "OperatorCoding.tupleImaginaryPart_tuple_entry", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "child": "BenchmarkOperator20261026_InvariantGraphGroup", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.exists_faithful_L2", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
+{"parent": "MeasureUnitary.exists_faithful_L2", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceHellinger.exists_measurable_affinityTest_lt", "child": "MeasureEquivalenceHellinger.tendsto_integral_regularized_root_tests", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.head_event_zeroSum_invariant", "child": "BenchmarkOperator20261026_RestrictedCorrection", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.head_event_zeroSum_invariant", "child": "MeasureEquivalenceRestrictedProduct.finite_volume_ac_exponential", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "via": ["solution"]}
+{"parent": "MeasureEquivalenceEquidecomposition.exists_equidecomposition", "child": "BenchmarkOperator20261026_NonsingularDichotomy", "via": ["solution"]}
+{"parent": "MeasureEquivalenceEquidecomposition.exists_equidecomposition", "child": "BenchmarkOperator20261026_ErgodicEquidecomposition", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.affinity_compProd", "child": "BenchmarkOperator20261026_HellingerKernel", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.affinity_compProd", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "child": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "via": ["solution"]}
+{"parent": "MeasureEquivalenceDensity.squareMeasure_continuous", "child": "MeasureEquivalenceDensity.square_continuous", "via": ["solution"]}
+{"parent": "MeasureEquivalenceDensity.squareMeasure_continuous", "child": "BenchmarkOperator20261026_DensitySquare", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "MeasureEquivalenceHellinger.exists_measurable_affinityTest_lt", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "BenchmarkOperator20261026_HellingerOrbit", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "MeasureEquivalenceHellinger.exists_continuous_affinityTest_le", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "BenchmarkOperator20261026_HellingerVariational", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "MeasureEquivalenceRestrictedRoots.finiteOrbit_continuous", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "MeasureEquivalenceHellinger.affinity_compProd", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "MeasureEquivalenceHellinger.affinity_le_affinityTest_of_integrable", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["solution"]}
+{"parent": "MeasureUnitary.continuous_intertwines_of_separating_family", "child": "MeasureEquivalenceRestrictedPhase.starAlgHom_eq_of_separating_family", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRootContinuity.zeroSumRoot_continuous", "child": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.classical_countable_ell_two", "child": "BenchmarkComparisons.theorem_1_1", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.affinity_le_affinityTest_of_integrable", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_2", "child": "MeasureEquivalenceMission.lp_iff_le_two", "via": ["solution"]}
+{"parent": "MeasureEquivalenceInducedCorners.exists_induced_corner_unitary", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["solution"]}
+{"parent": "MeasureEquivalenceInducedCorners.exists_induced_corner_unitary", "child": "MeasureEquivalenceInducedCorners.exists_induced_corner_transport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceInducedCorners.exists_induced_corner_unitary", "child": "BenchmarkOperator20261026_PiecewiseMeasureTransport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceInducedCorners.exists_induced_corner_transport", "child": "MeasureEquivalenceEquidecomposition.exists_equidecomposition", "via": ["solution"]}
+{"parent": "MeasureEquivalenceInducedCorners.exists_induced_corner_transport", "child": "MeasureEquivalenceEquidecomposition.exists_piecewise_measure_transport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceInducedCorners.exists_induced_corner_transport", "child": "MeasureEquivalenceEquidecomposition.restrict_eq_sum_of_disjoint_cover", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "child": "BenchmarkOperator20261026_RestrictedModulus", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "MeasureEquivalenceErgodicDecomposition.measurable_invariant_representative", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "BenchmarkOperator20261026_CouplingMixture", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "MeasureEquivalenceMarkov.couplingTransition_ae_eq_integral_kernel", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "MeasureEquivalenceErgodicDecomposition.conditional_fiber_constant", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "MeasureEquivalenceMarkov.completedCoupling_ae_equal_iff", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "MeasureEquivalenceMarkov.couplingTransition_fixed_iff", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "child": "BenchmarkOperator20261026_CouplingMarkov", "via": ["solution"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "MeasureUnitary.exists_faithful_L2", "via": ["solution"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "MeasureUnitary.vectorSpectralState_continuous_integral", "via": ["solution"]}
+{"parent": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceTopology.continuous_borel_hom", "child": "MeasureEquivalenceTopology.pettis_nhds_one", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_nonsingular", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "MeasureEquivalenceRigidity.absolutelyContinuous_or_mutuallySingular_of_ergodic", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "MeasureEquivalenceHellinger.affinity_eq_zero_iff_mutuallySingular", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "child": "BenchmarkOperator20261026_ComponentQuasiInvariance", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedSpectralClass", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "MeasureUnitary.push_measures_equivalent_of_intertwines_continuous", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureCantorGram", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorHilbertFlatten", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureVariableGramSchmidt", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorAmplification", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedTranslationIntertwining", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "MeasureUnitary.continuous_intertwines_of_separating_family", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "MeasureUnitary.vectorCantorMultiplier_fundamental", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "OperatorCoding.tupleImaginaryPart_tuple_entry", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorBlocks", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorSeries", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorConjugation", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "OperatorCoding.tupleImaginaryPart_star_entry", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureCantorBorel", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedInducedSpectral", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_ScalarMeasureNormalization", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorBireduction", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorNormalization", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_PiecewiseMeasureTransport", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedModulus", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedInducedReflection", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureCantorAmplified", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_OperatorEigenspaces", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedFullReflection", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_ZeroSumNonreduction", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_KernelEquivalence", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedDeparture", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_RestrictedInducedTuple", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureGramSchmidtBorel", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "MeasureEquivalenceRigidity.zeroSum_not_reducible_to_measure_equivalence", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureUnitaryRN", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasureOperatorReduction", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "BenchmarkOperator20261026_InducedCornerUnitary", "via": ["solution"]}
+{"parent": "OperatorCoding.theorem_13_proved", "child": "MeasureUnitary.measurable_nat_nth", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorCoefficients", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorUnitaryBorel", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorHilbertFlatten", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorBlocks", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorEigenspaces", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorSeries", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorConjugation", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorFreeGroup", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorAmplification", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorBireduction", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorNormalization", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.free_representations_borelBireducible_operators", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "MeasureEquivalenceRestrictedProduct.finite_permutation_invariant_of_zeroSum_invariant", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "MeasureEquivalenceInducedCorners.exists_induced_corner_unitary", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedPermutation", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedErgodic", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "MeasureEquivalenceRestrictedProduct.tailProbability_zero_one_of_blockSwap_invariant", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_InducedCornerUnitary", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "MeasureEquivalenceRestrictedProduct.head_event_zeroSum_invariant", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "MeasureEquivalenceRestrictedProduct.finite_exponential_ac_volume", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_PiecewiseMeasureTransport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.exists_induced_H_intertwiner", "child": "BenchmarkOperator20261026_RestrictedModulus", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_affinity", "child": "MeasureEquivalenceHellinger.affinity_map_leftInverse", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_affinity", "child": "BenchmarkOperator20261026_HellingerKernel", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_affinity", "child": "MeasureEquivalenceHellinger.affinity_compProd", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRNGraph.isClosed_graph", "child": "MeasureEquivalenceDensityGraph.isClosed_density_graph", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRNGraph.isClosed_graph", "child": "MeasureEquivalenceDensity.squareMeasure_continuous", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRNGraph.isClosed_graph", "child": "MeasureEquivalenceHellinger.root_dist_inverse", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRNGraph.isClosed_graph", "child": "MeasureEquivalenceDensity.squareMeasure_injective_nonnegative", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRNGraph.isClosed_graph", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRNGraph.isClosed_graph", "child": "BenchmarkOperator20261026_DensityMeasure", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.ae_mem_of_root_mean_affinity", "child": "MeasureEquivalenceRigidity.measureReal_bad_set_le_of_mean_affinity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedCornerCharacterMass", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_SeparatingMultiplierIntertwining", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "MeasureUnitary.continuous_intertwines_of_separating_family", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_L2RestrictionExtension", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_L2SpectralProjectionIntertwining", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedInducedSpectral", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "MeasureUnitary.vectorSpectralState_continuous_integral", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "child": "BenchmarkOperator20261026_RestrictedModulus", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_nonsingular", "child": "MeasureEquivalenceErgodicDecomposition.invariant_graph_action_eq", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_stationary", "child": "MeasureEquivalenceErgodicDecomposition.setLIntegral_of_stationary_noLeak", "via": ["solution"]}
+{"parent": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "child": "MeasureEquivalenceDensity.squareMeasure_continuous", "via": ["solution"]}
+{"parent": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "child": "MeasureEquivalenceRestrictedRoots.finiteOrbit_continuous", "via": ["solution"]}
+{"parent": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "child": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "via": ["solution"]}
+{"parent": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "child": "BenchmarkOperator20261026_RestrictedRoots", "via": ["solution"]}
+{"parent": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "child": "BenchmarkOperator20261026_DensityMeasure", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.tailProbability_zero_one_of_blockSwap_invariant", "child": "MeasureEquivalenceRestrictedProduct.real_zero_one_of_approximants", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.tailProbability_zero_one_of_blockSwap_invariant", "child": "MeasureEquivalenceRestrictedProduct.cylinder_blockSwap_independent", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "MeasureEquivalenceRigidity.quasiInvariant_of_uniform_invariant_mean_affinity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_RootContinuity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "MeasureEquivalenceZeroSumAffinity.uniform_coordinate_mean_affinity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "MeasureEquivalenceDenseInvariance.ae_invariant_of_dense", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_affinity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.coordinateShift_quasiInvariant", "child": "BenchmarkOperator20261026_ZeroSumRigidity", "via": ["solution"]}
+{"parent": "MeasureUnitary.vectorSpectralState_continuous_integral", "child": "BenchmarkOperator20261026_L2ModuleCommutant", "via": ["solution"]}
+{"parent": "MeasureUnitary.vectorSpectralState_continuous_integral", "child": "MeasureUnitary.vectorSpectralState_integral", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.absolutelyContinuous_or_mutuallySingular_of_ergodic", "child": "BenchmarkOperator20261026_NonsingularDichotomy", "via": ["solution"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_coordinate_mean_affinity", "child": "MeasureEquivalenceSolenoid.twoPoint_limit", "via": ["solution"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_coordinate_mean_affinity", "child": "MeasureEquivalenceZeroSumAffinity.uniform_twoPoint_affinity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_coordinate_mean_affinity", "child": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.affinity_eq_zero_iff_mutuallySingular", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["solution"]}
+{"parent": "MeasureUnitary.vectorCantorMultiplier_fundamental", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["solution"]}
+{"parent": "MeasureEquivalenceL2Restriction.globalize_adjoint", "child": "MeasureEquivalenceL2Restriction.inner_zeroExtend_restrict", "via": ["solution"]}
+{"parent": "MeasureEquivalenceL2Restriction.globalize_adjoint", "child": "BenchmarkOperator20261026_L2RestrictionExtension", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_5", "child": "OperatorCoding.theorem_13_proved", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_real_root_mean_affinity", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_real_root_mean_affinity", "child": "BenchmarkOperator20261026_HellingerKernel", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_real_root_mean_affinity", "child": "MeasureEquivalenceRigidity.ae_mem_of_root_mean_affinity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceEquidecomposition.exists_piecewise_measure_transport", "child": "MeasureEquivalenceEquidecomposition.restrict_eq_sum_of_disjoint_cover", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.zero_or_conull_of_test_factorization", "child": "MeasureEquivalenceErgodicDecomposition.determiningSet_generates", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_4", "child": "BenchmarkComparisons.c0_jump_obstruction", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.aeconst_of_dense_translation_invariant", "child": "MeasureEquivalenceRestrictedProduct.map_add_eq_of_dense_invariant", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_L2CountInjections", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_MeasureUnitaryRN", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_L2CountCoefficients", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_L2RestrictionExtension", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_L2SpectralProjectionIntertwining", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_VectorSpectralState", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_MeasurePullbackMultipliers", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_L2LocalizedOperators", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_L2ModuleCommutant", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "child": "BenchmarkOperator20261026_PiecewiseMeasureTransport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_stationary", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "BenchmarkOperator20261026_CouplingMixture", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "BenchmarkOperator20261026_ConditionalFibers", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "MeasureEquivalenceErgodicDecomposition.exists_constant_average_limit_on_components", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "BenchmarkOperator20261026_GroupMarkov", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "BenchmarkOperator20261026_KernelAverages", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "MeasureEquivalenceErgodicDecomposition.setLIntegral_of_stationary_noLeak", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "MeasureEquivalenceErgodicDecomposition.zero_or_conull_of_test_factorization", "via": ["solution"]}
+{"parent": "MeasureEquivalenceErgodicDecomposition.invariantConditionalKernel_ergodic", "child": "MeasureEquivalenceMarkov.setIntegral_eq_mul_of_kernelAverage_limit", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_MeasureGramSchmidtBorel", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_MeasureCantorAmplified", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkComparisons.free_representations_borelBireducible_operators", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_MeasureL2Constants", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_MeasureUnitaryRN", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_MeasureCantorBorel", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_MeasureCantorDenseFamily", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_OperatorUnitaryBorel", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_HilbertSequenceTopology", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_MeasureVariableGramSchmidt", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkComparisons.theorem_1_5", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkComparisons.cyclic_representations_borelReduces_measure", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.theorem_1_6", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "MeasureEquivalenceRestrictedPhase.induced_corner_character_mass_eq", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "MeasureEquivalenceRestrictedPhase.translatedCorner_mass_eq_base_iff", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "MeasureEquivalenceRestrictedPhase.normalizedTranslation_phase_intertwines", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_InducedCornerUnitary", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedPhase.total_eq_zero_of_normalized_intertwiner", "child": "BenchmarkOperator20261026_RestrictedModulus", "via": ["solution"]}
+{"parent": "OperatorCoding.tupleImaginaryPart_star_entry", "child": "BenchmarkOperator20261026_OperatorCoefficients", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.all_main_comparisons", "child": "BenchmarkComparisons.theorem_1_6", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.all_main_comparisons", "child": "MeasureEquivalenceMission.c0_not_reducible", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.all_main_comparisons", "child": "BenchmarkComparisons.theorem_1_1", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.all_main_comparisons", "child": "BenchmarkComparisons.theorem_1_4", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.all_main_comparisons", "child": "BenchmarkComparisons.theorem_1_5", "via": ["solution"]}
+{"parent": "BenchmarkComparisons.all_main_comparisons", "child": "BenchmarkComparisons.theorem_1_2", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "MeasureEquivalenceRigidity.ae_componentQI_of_real_root_mean_affinity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_HellingerKernel", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "MeasureEquivalenceRigidity.tendsto_mean_along_real_roots", "via": ["solution"]}
+{"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "BenchmarkOperator20261026_L2FiniteOnes", "via": ["solution"]}
+{"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "via": ["solution"]}
+{"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "BenchmarkOperator20261026_L2CountInjections", "via": ["solution"]}
+{"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "BenchmarkOperator20261026_L2CountCoefficients", "via": ["solution"]}
+{"parent": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "child": "BenchmarkOperator20261026_L2TransportedMatrix", "via": ["solution"]}
+{"parent": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "child": "BenchmarkOperator20261026_L2LocalizedOperators", "via": ["solution"]}
+{"parent": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "child": "MeasureEquivalenceL2Restriction.inner_zeroExtend_restrict", "via": ["solution"]}
+{"parent": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "child": "MeasureEquivalenceL2Restriction.globalize_adjoint", "via": ["solution"]}
+{"parent": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "child": "BenchmarkOperator20261026_L2RestrictionExtension", "via": ["solution"]}
+{"parent": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "child": "BenchmarkOperator20261026_L2ModuleCommutant", "via": ["solution"]}
+{"parent": "MeasureEquivalenceL2Transport.twisted_coefficient_constant_norm_eq_adjoint", "child": "BenchmarkOperator20261026_PiecewiseMeasureTransport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "child": "MeasureEquivalenceRestrictedProduct.exists_zeroSum_shift_to_base", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "child": "BenchmarkOperator20261026_RestrictedSaturation", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.null_of_invariant_and_base_null", "child": "BenchmarkOperator20261026_RestrictedModulus", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.finite_permutation_invariant_of_zeroSum_invariant", "child": "MeasureEquivalenceRestrictedProduct.aeconst_of_dense_translation_invariant", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.finite_permutation_invariant_of_zeroSum_invariant", "child": "MeasureEquivalenceRestrictedProduct.measurePreserving_sumTailEquiv", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.finite_permutation_invariant_of_zeroSum_invariant", "child": "BenchmarkOperator20261026_RationalFiberErgodic", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.finite_permutation_invariant_of_zeroSum_invariant", "child": "MeasureEquivalenceRestrictedProduct.finite_exponential_ac_volume", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.finite_permutation_invariant_of_zeroSum_invariant", "child": "MeasureEquivalenceRestrictedProduct.exists_base_event_of_ae_fiber_const", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRestrictedProduct.exists_zeroSum_shift_to_base", "child": "BenchmarkOperator20261026_RestrictedCorrection", "via": ["solution"]}
+{"parent": "MeasureUnitary.vectorSpectralState_integral", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_twoPoint_affinity", "child": "MeasureEquivalenceRootContinuity.zeroSumRoot_continuous", "via": ["solution"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_twoPoint_affinity", "child": "BenchmarkOperator20261026_RootContinuity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_twoPoint_affinity", "child": "BenchmarkOperator20261026_ZeroSumAffinity", "via": ["solution"]}
+{"parent": "MeasureEquivalenceZeroSumAffinity.uniform_twoPoint_affinity", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["solution"]}
+{"parent": "MeasureEquivalenceHellinger.exists_continuous_affinityTest_le", "child": "MeasureEquivalenceHellinger.exists_continuous_Icc_integral_sub_le", "via": ["solution"]}
+{"parent": "OperatorCoding.tupleImaginaryPart_tuple_entry", "child": "BenchmarkOperator20261026_OperatorCoefficients", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "child": "MeasureEquivalenceInvariantGraph.graphGroup_topologicalGroup", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "child": "MeasureEquivalenceRNGraph.isClosed_graph", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "child": "BenchmarkOperator20261026_DensitySquare", "via": ["solution"]}
+{"parent": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "child": "MeasureEquivalenceTopology.continuous_borel_hom", "via": ["solution"]}
+{"parent": "MeasureUnitary.exists_faithful_L2", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution"]}
+{"parent": "MeasureUnitary.exists_faithful_L2", "child": "BenchmarkOperator20261026_MeasureUnitaryRN", "via": ["solution"]}

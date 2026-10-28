@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PlanarFalconer_mainTarget_proved
 -- name    : OAI.PlanarFalconer.mainTarget_proved
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:04.412586+00:00
 -- url     : https://prove2.me/theorems/9b46551e-cfc1-437c-9da5-8459e5a73ace

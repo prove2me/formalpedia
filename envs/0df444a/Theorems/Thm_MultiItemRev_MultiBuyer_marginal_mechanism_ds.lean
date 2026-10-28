@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_MultiBuyer_marginal_mechanism_ds
 -- name    : MultiItemRev.MultiBuyer.marginal_mechanism_ds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:47.267355+00:00
 -- url     : https://prove2.me/theorems/fa36a06b-92f9-462d-836d-cbd60e5c33db

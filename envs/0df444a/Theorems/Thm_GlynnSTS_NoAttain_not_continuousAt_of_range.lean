@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_NoAttain_not_continuousAt_of_range
 -- name    : GlynnSTS.NoAttain.not_continuousAt_of_range
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:09:07.862645+00:00
 -- url     : https://prove2.me/theorems/be161d62-633e-4919-9f1a-1cf0b29aadc7

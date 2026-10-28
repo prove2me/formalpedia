@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P05_oneBasisNotConcentrated
 -- name    : QAlgorithms.Papers.Independent.Independent1.P05.oneBasisNotConcentrated
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:35:22.183187+00:00
 -- url     : https://prove2.me/theorems/82de1fbf-8791-4b07-9928-26aa341d4611

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_not_trackBad_pow
 -- name    : Erdos624.not_trackBad_pow
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:11.853389+00:00
 -- url     : https://prove2.me/theorems/1b5e3ed0-3d09-47d7-8903-130b8fcd3dc9
 -- title:

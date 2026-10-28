@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiVempala_Multiplicative_theorem_1_1_b
 -- name    : KalaiVempala.Multiplicative.theorem_1_1_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:52:42.748565+00:00
 -- url     : https://prove2.me/theorems/d418c0e5-6156-4fa9-a13a-924cddec1996

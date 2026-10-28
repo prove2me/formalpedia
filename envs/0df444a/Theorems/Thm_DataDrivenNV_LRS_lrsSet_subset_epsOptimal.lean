@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenNV_LRS_lrsSet_subset_epsOptimal
 -- name    : DataDrivenNV.LRS.lrsSet_subset_epsOptimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:25:42.665817+00:00
 -- url     : https://prove2.me/theorems/5acb7bdd-a0d7-4a98-9bf5-2ee6103ee67f

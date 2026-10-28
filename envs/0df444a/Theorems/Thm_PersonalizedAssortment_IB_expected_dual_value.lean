@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_expected_dual_value
 -- name    : PersonalizedAssortment.IB.expected_dual_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:56:52.37898+00:00
 -- url     : https://prove2.me/theorems/5ae17969-b846-4662-bb51-354e1fc7e349

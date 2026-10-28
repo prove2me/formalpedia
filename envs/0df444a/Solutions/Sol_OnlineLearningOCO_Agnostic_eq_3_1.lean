@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OnlineLearningOCO.Agnostic.eq_3_1
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:29:23.424953+00:00
 -- url     : https://prove2.me/submissions/ca945954-af05-494a-9528-5f565aef96dc
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Tree_rank_one_U
 -- name    : MatrixAnalytic.Tree.rank_one_U
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:08.21933+00:00
 -- url     : https://prove2.me/theorems/29ca4588-4dd0-4393-90bd-62c2e516eac5

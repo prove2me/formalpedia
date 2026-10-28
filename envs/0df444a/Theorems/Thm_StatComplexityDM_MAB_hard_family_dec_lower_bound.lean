@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_MAB_hard_family_dec_lower_bound
 -- name    : StatComplexityDM.MAB.hard_family_dec_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:23:00.568613+00:00
 -- url     : https://prove2.me/theorems/77b5836d-21ad-43f1-b10c-c04c46b0d8c8

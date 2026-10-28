@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P26_introduction_density
 -- name    : QAlgorithms.Papers.Independent.Information100.P26.introduction_density
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:01:43.244399+00:00
 -- url     : https://prove2.me/theorems/11254a22-ac94-46e3-8145-c05b281f4586

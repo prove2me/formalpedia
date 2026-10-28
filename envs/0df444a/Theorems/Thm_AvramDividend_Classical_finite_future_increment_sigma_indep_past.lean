@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_finite_future_increment_sigma_indep_past
 -- name    : AvramDividend.Classical.finite_future_increment_sigma_indep_past
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T10:08:27.542646+00:00
 -- url     : https://prove2.me/theorems/df83d931-9b50-4c91-9b13-698d5a554893

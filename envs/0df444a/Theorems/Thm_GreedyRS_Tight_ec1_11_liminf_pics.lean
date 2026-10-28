@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Tight_ec1_11_liminf_pics
 -- name    : GreedyRS.Tight.ec1_11_liminf_pics
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:41.890689+00:00
 -- url     : https://prove2.me/theorems/0f43728c-25bd-4ddc-8f08-141c5a1c6b89

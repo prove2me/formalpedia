@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_SkipFree_stationary_recursion
 -- name    : MatrixAnalytic.SkipFree.stationary_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:43.731719+00:00
 -- url     : https://prove2.me/theorems/9a87fd8d-931d-4923-bf4e-a8bef92a2527

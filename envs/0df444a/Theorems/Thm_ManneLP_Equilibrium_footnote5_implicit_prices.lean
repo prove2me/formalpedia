@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManneLP_Equilibrium_footnote5_implicit_prices
 -- name    : ManneLP.Equilibrium.footnote5_implicit_prices
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:14:11.122787+00:00
 -- url     : https://prove2.me/theorems/bf1ee08b-4b9f-4686-bb1f-876bb13b9143

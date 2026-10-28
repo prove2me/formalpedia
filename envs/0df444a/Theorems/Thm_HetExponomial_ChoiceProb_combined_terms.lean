@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HetExponomial_ChoiceProb_combined_terms
 -- name    : HetExponomial.ChoiceProb.combined_terms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:30:47.719926+00:00
 -- url     : https://prove2.me/theorems/bf90d45a-eefb-4473-92fa-3ae20715fc5f

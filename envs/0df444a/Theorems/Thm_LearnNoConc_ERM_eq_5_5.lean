@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnNoConc_ERM_eq_5_5
 -- name    : LearnNoConc.ERM.eq_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:47:58.153756+00:00
 -- url     : https://prove2.me/theorems/7238a5ab-c55d-4db0-b3a9-52d064c8e233

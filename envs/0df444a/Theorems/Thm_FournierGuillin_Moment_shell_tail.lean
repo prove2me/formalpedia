@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FournierGuillin_Moment_shell_tail
 -- name    : FournierGuillin.Moment.shell_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:23:17.607929+00:00
 -- url     : https://prove2.me/theorems/a0624c8c-7b5f-42ac-9ad8-d630b15e0b54

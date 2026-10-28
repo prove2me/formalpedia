@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_dir_deriv_eq_finite_diff_l_convex
 -- name    : DiscreteConvex.LConvexFunctionsD.dir_deriv_eq_finite_diff_l_convex
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:06:00.400375+00:00
 -- url     : https://prove2.me/theorems/c2b810c2-420d-44cf-85b3-bf162ad19ebb

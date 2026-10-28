@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DatkoDelayWave_BoundaryDelay_theorem_iii_destabilization
 -- name    : DatkoDelayWave.BoundaryDelay.theorem_iii_destabilization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:00:23.589786+00:00
 -- url     : https://prove2.me/theorems/bb58fcb2-3d97-43dc-b287-04ba448241b4

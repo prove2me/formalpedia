@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.conditional_absorption_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:38:12.263+00:00
 -- url     : https://prove2.me/submissions/e15f026c-c640-4302-832a-4f02638f6be4
 

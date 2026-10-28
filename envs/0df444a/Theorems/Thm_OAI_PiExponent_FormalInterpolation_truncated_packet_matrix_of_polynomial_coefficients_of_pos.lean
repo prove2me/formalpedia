@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_packet_matrix_of_polynomial_coefficients_of_pos
 -- name    : OAI.PiExponent.FormalInterpolation.truncated_packet_matrix_of_polynomial_coefficients_of_pos
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:16:59.124622+00:00
 -- url     : https://prove2.me/theorems/aff273f6-6a2e-4a1e-8179-48c0aba2422e
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CoordinateSweeps_conditional_main
 -- name    : OAI.CoordinateSweeps.conditional_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:29.264042+00:00
 -- url     : https://prove2.me/theorems/d250f3be-d175-4f15-be37-374ff124da87

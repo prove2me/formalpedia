@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StructEstMDP_FiniteTime_lemma_6
 -- name    : StructEstMDP.FiniteTime.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:12:22.360921+00:00
 -- url     : https://prove2.me/theorems/37d3ca44-ad92-4677-a8e3-efe2e5155366

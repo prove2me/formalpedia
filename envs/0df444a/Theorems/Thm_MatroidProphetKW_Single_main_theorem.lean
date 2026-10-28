@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidProphetKW_Single_main_theorem
 -- name    : MatroidProphetKW.Single.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:44.864874+00:00
 -- url     : https://prove2.me/theorems/7d10674a-ed13-4b69-bd36-d4087ab42ac5

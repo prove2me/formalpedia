@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_Newton_q_second_deriv_bound
 -- name    : SlowConvergence.Newton.q_second_deriv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:39:49.728003+00:00
 -- url     : https://prove2.me/theorems/e87551b5-1ca8-46ae-9823-87f59576d382

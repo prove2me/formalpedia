@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_translation_scalar_local_bounds_truncation
 -- name    : OAI.PiExponent.DeterminantContradiction.translation_scalar_local_bounds_truncation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:15:54.633107+00:00
 -- url     : https://prove2.me/theorems/46ef53bf-d184-4200-8dcc-f6d4aa1a6cba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VdNSim_Sparse_complex_hoeffding
 -- name    : VdNSim.Sparse.complex_hoeffding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:31:54.033176+00:00
 -- url     : https://prove2.me/theorems/586861c2-e601-4772-9627-ea5fb6d33f3c

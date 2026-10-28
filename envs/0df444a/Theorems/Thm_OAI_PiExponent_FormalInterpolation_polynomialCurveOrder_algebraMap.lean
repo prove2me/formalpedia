@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_polynomialCurveOrder_algebraMap
 -- name    : OAI.PiExponent.FormalInterpolation.polynomialCurveOrder_algebraMap
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:16:44.872168+00:00
 -- url     : https://prove2.me/theorems/bd101932-9766-434a-a405-d545f12b4d4a
 -- title:

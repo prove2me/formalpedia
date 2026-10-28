@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_separable_purity_tetrahedron
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.separable_purity_tetrahedron
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:49:54.618978+00:00
 -- url     : https://prove2.me/theorems/36a7f9ef-091f-4b29-91f0-5cd33255e457

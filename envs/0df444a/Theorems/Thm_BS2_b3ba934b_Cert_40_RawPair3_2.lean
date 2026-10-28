@@ -1,0 +1,22 @@
+-- Prove2me | Theorems.Thm_BS2_b3ba934b_Cert_40_RawPair3_2
+-- name    : BS2_b3ba934b_Cert_40_RawPair3_2
+-- status  : Proved
+-- author  : @yousofy
+-- created : 2026-10-27T06:47:30.885395+00:00
+-- url     : https://prove2.me/theorems/906ffb12-2336-4d70-8500-28bba0c1bda9
+-- title:
+--   Sensitivity separation: Endpoint40RawPair3_2 raw_pair_bound checkpoint
+-- statement:
+--   The exact finite numeric assertion from Endpoint40RawPair3_2. The interface exposes the statement independently of the original certificate proof source; its complete proof must be verified before any dependent goal is submitted.
+-- source:
+--   Attached verified checkpoint block_sensitivity_three_bounds; lean_project/Endpoint40RawPair3_2.lean; original SHA-256 7d7edefd49269681af113c5b8bf68b31a7d4e485b9d1de74f871f196699f2c5b; campaign https://prove2.me/campaigns/block-sensitivity-vs-sensitivity
+
+import Definitions.Def_BS2_b3ba934b_Endpoint40NumericData
+set_option autoImplicit false
+set_option Elab.async false
+set_option maxRecDepth 2000000
+set_option maxHeartbeats 0
+open ThreeBoundNumeric ThreeBoundFullProfile
+open ThreeBoundNumeric.Endpoint40
+
+theorem BS2_b3ba934b_Cert_40_RawPair3_2 : (rawAExpr 40 caps records (recipe 3 2) (recipe 3 3)).eval profile3≤32945822928780164219782456170000000000000000000000000000000000000000000000 := by sorry

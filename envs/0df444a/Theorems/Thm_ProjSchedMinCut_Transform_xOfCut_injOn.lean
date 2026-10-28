@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedMinCut_Transform_xOfCut_injOn
 -- name    : ProjSchedMinCut.Transform.xOfCut_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:10:48.811978+00:00
 -- url     : https://prove2.me/theorems/64268cac-a1b2-44fb-81bf-ff1e5bcba532

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulsiveISS_AvgDwell_theorem_5
 -- name    : ImpulsiveISS.AvgDwell.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T18:31:54.527118+00:00
 -- url     : https://prove2.me/theorems/8698448d-0c98-4824-a438-8c88a5375c8c

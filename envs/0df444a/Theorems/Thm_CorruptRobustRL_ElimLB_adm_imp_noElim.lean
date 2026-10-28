@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_ElimLB_adm_imp_noElim
 -- name    : CorruptRobustRL.ElimLB.adm_imp_noElim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:09.378245+00:00
 -- url     : https://prove2.me/theorems/23068492-9b22-452a-9f69-ddbe74711003

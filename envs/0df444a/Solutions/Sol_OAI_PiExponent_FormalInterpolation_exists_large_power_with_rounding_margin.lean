@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.exists_large_power_with_rounding_margin
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:28:00.812806+00:00
 -- url     : https://prove2.me/submissions/2de59ff3-c8b3-4fdd-8a4f-fafc5bb5c1c5
 

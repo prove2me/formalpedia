@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SphericalPerceptronFreeEnergy_main
 -- name    : OAI.SphericalPerceptronFreeEnergy.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:24.729716+00:00
 -- url     : https://prove2.me/theorems/78538612-9555-40db-a37a-dec82b98d1ce

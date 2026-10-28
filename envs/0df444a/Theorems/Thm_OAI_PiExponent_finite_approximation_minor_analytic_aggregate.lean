@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_finite_approximation_minor_analytic_aggregate
 -- name    : OAI.PiExponent.finite_approximation_minor_analytic_aggregate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T03:57:53.993567+00:00
 -- url     : https://prove2.me/theorems/690acb6f-9bb5-4bbd-9d0c-a47fa06b1c01

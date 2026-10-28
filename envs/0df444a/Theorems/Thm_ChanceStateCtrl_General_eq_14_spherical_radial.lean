@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_General_eq_14_spherical_radial
 -- name    : ChanceStateCtrl.General.eq_14_spherical_radial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:21:44.617129+00:00
 -- url     : https://prove2.me/theorems/0902b306-b729-467b-a51b-93e947018b80

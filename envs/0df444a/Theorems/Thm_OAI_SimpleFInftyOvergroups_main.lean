@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SimpleFInftyOvergroups_main
 -- name    : OAI.SimpleFInftyOvergroups.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:22.203935+00:00
 -- url     : https://prove2.me/theorems/1971a452-eeaf-4bd5-bea8-c03f41a017c2

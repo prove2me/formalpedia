@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CPDNetworks_Known_eq_7
 -- name    : CPDNetworks.Known.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:35.743184+00:00
 -- url     : https://prove2.me/theorems/e844bac0-7f51-4b00-82bb-990367741a29

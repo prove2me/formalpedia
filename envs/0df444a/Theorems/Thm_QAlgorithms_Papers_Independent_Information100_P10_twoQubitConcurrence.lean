@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P10_twoQubitConcurrence
 -- name    : QAlgorithms.Papers.Independent.Information100.P10.twoQubitConcurrence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:39:30.126211+00:00
 -- url     : https://prove2.me/theorems/8f1c4486-969e-4e5b-807c-ddb17229e7ab

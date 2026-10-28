@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_second_sink_step_safe
 -- name    : Erdos195.second_sink_step_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T00:34:34.697574+00:00
 -- url     : https://prove2.me/theorems/144d505c-0f6d-4b55-8edb-a704299c0fe5
 -- title:

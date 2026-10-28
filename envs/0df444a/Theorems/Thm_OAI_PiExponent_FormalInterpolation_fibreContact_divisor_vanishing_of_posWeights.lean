@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_fibreContact_divisor_vanishing_of_posWeights
 -- name    : OAI.PiExponent.FormalInterpolation.fibreContact_divisor_vanishing_of_posWeights
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:11:15.371956+00:00
 -- url     : https://prove2.me/theorems/8dc819a8-9628-46f3-811d-5ed60bf37543

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynRiskEq_Welfare_lemma_1
 -- name    : DynRiskEq.Welfare.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:26:38.640512+00:00
 -- url     : https://prove2.me/theorems/a9785c92-f1ce-4a0b-b6e8-2e9601194ee1

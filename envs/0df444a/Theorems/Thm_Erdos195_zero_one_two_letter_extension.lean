@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_zero_one_two_letter_extension
 -- name    : Erdos195.zero_one_two_letter_extension
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:08:57.784225+00:00
 -- url     : https://prove2.me/theorems/2dd06a54-d8c1-4621-a548-b3e8251a314e
 -- title:

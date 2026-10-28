@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_Subadditive_theorem_8
 -- name    : BudgetClock.Subadditive.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:25:22.808502+00:00
 -- url     : https://prove2.me/theorems/142e0cf9-b9bd-4188-af61-4d40f8b690a9

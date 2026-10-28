@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one_of_condition33
 -- name    : AvramDividend.Classical.scaleFunction_contDiff_one_of_condition33
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-07T22:44:58.721238+00:00
 -- url     : https://prove2.me/theorems/caa61d14-3aac-46c9-b420-1960f802000a

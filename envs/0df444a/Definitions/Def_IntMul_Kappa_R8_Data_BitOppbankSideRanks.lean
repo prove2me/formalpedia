@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankSideRanks
 -- name    : IntMul_Kappa_R8_Data_BitOppbankSideRanks
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:33:04.52811+00:00
 -- url     : https://prove2.me/theorems/3ff13a77-e37e-4439-95e0-ceefc4d2c061
 -- title:

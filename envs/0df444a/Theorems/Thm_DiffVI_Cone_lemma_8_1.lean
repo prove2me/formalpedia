@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffVI_Cone_lemma_8_1
 -- name    : DiffVI.Cone.lemma_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:39.850971+00:00
 -- url     : https://prove2.me/theorems/baedd44b-d1d1-4ac1-bf20-314d97e458e1

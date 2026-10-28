@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_safe_append_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T02:31:08.956933+00:00
 -- url     : https://prove2.me/submissions/846ed708-e899-4d9f-bfe4-0442de3e6498
 

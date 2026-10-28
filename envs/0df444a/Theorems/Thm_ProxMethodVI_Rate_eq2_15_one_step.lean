@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxMethodVI_Rate_eq2_15_one_step
 -- name    : ProxMethodVI.Rate.eq2_15_one_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:12:06.409965+00:00
 -- url     : https://prove2.me/theorems/26e755fd-c503-4fc0-b1e6-5393f8974f9c

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CatSymplectic.Hemistrict.exact_forms
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:45:07.219427+00:00
 -- url     : https://prove2.me/submissions/3df21a83-afd0-41f3-a62b-8c6a214f9198
 

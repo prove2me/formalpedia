@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AryaANN_Search_lemma_5
 -- name    : AryaANN.Search.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:55:47.26472+00:00
 -- url     : https://prove2.me/theorems/212919b4-d13c-473f-a2c8-8e11b6c6ac00

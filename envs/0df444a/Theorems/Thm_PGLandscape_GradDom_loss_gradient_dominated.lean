@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PGLandscape_GradDom_loss_gradient_dominated
 -- name    : PGLandscape.GradDom.loss_gradient_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:27:51.081003+00:00
 -- url     : https://prove2.me/theorems/edac68b6-df02-40f3-bbce-047ffc41e285

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FournierGuillin_Conc_lemma_11
 -- name    : FournierGuillin.Conc.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:23:01.312978+00:00
 -- url     : https://prove2.me/theorems/ef92133b-5bb6-4ac7-9c60-8b66c1f0f988

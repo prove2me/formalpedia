@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_roots_on_uniq
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.roots_on_uniq
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:49:01.77399+00:00
 -- url     : https://prove2.me/theorems/6449488b-06d5-4c48-b9fc-1e1f036df7b0

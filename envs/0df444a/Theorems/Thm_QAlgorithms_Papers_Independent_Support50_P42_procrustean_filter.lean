@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_procrustean_filter
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.procrustean_filter
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:18:09.507282+00:00
 -- url     : https://prove2.me/theorems/438e0a14-0aed-45e8-a49f-f2ae9721f9f4

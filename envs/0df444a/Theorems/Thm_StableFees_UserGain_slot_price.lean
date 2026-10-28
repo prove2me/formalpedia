@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFees_UserGain_slot_price
 -- name    : StableFees.UserGain.slot_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:35:21.712098+00:00
 -- url     : https://prove2.me/theorems/125c3d35-7b50-4d1c-a086-9352d9160463

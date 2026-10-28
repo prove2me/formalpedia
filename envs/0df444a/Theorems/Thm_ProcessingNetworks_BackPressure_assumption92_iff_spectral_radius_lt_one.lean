@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_BackPressure_assumption92_iff_spectral_radius_lt_one
 -- name    : ProcessingNetworks.BackPressure.assumption92_iff_spectral_radius_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:22:55.422612+00:00
 -- url     : https://prove2.me/theorems/df84c411-5b06-44a3-8c8f-61cc7d46ed7a

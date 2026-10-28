@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.nu2_nine_pow_sub
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T10:01:42.211947+00:00
 -- url     : https://prove2.me/submissions/3b3a5045-ba4f-4d93-8fbe-563917cdf719
 

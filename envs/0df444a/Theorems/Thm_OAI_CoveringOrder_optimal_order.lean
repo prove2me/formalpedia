@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CoveringOrder_optimal_order
 -- name    : OAI.CoveringOrder.optimal_order
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:30.064686+00:00
 -- url     : https://prove2.me/theorems/6e54982b-b43b-4c7f-bb0f-1e2b52a90bc6

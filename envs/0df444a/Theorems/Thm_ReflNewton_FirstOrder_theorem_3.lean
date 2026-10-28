@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReflNewton_FirstOrder_theorem_3
 -- name    : ReflNewton.FirstOrder.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:53:59.238987+00:00
 -- url     : https://prove2.me/theorems/0192ea16-cc00-4c61-ad67-3d0d687205c1

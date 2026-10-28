@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyChainFactoring_Choice_reverse_equilibrium
 -- name    : SupplyChainFactoring.Choice.reverse_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:24:53.017113+00:00
 -- url     : https://prove2.me/theorems/0aaf5232-87a5-4ad6-8695-79cf7e25b36b

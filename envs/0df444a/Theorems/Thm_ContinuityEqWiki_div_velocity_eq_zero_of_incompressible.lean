@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuityEqWiki_div_velocity_eq_zero_of_incompressible
 -- name    : ContinuityEqWiki.div_velocity_eq_zero_of_incompressible
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:11.024151+00:00
 -- url     : https://prove2.me/theorems/ba7e93ce-8ea0-40b9-a30b-5727d59226d7

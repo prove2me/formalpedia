@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_zeta_ne_zero_of_strip_of_fourteen_lt_im
 -- name    : zeta_ne_zero_of_strip_of_fourteen_lt_im
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:11:05.663397+00:00
 -- url     : https://prove2.me/theorems/7ac15c26-d354-4673-bdf0-ee0f7666443a
 -- title:

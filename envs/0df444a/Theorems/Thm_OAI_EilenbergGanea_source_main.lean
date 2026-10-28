@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EilenbergGanea_source_main
 -- name    : OAI.EilenbergGanea.source_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:36.794784+00:00
 -- url     : https://prove2.me/theorems/d61a9384-f6a6-4752-afc4-cad40b25cb12

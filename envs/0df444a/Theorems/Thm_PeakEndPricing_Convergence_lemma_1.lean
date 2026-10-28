@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeakEndPricing_Convergence_lemma_1
 -- name    : PeakEndPricing.Convergence.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:49:14.397757+00:00
 -- url     : https://prove2.me/theorems/d040b594-404a-4513-84f4-60a8a31c4c85

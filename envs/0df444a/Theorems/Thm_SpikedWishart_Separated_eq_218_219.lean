@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpikedWishart_Separated_eq_218_219
 -- name    : SpikedWishart.Separated.eq_218_219
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:36:40.366976+00:00
 -- url     : https://prove2.me/theorems/ce9dd900-e0c5-40d8-8e57-087c054489d7

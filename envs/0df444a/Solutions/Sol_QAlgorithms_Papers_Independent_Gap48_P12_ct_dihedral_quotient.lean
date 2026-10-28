@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P12.ct_dihedral_quotient
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T02:31:42.129984+00:00
 -- url     : https://prove2.me/submissions/1a8c8283-c183-4ee4-89ae-a35b851156ad
 

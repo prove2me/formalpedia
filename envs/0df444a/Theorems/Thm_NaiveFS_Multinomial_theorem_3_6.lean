@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NaiveFS_Multinomial_theorem_3_6
 -- name    : NaiveFS.Multinomial.theorem_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:05.640996+00:00
 -- url     : https://prove2.me/theorems/366e5358-45c0-4d7c-86e3-abdadc342140

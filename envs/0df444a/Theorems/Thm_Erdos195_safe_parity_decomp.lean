@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_safe_parity_decomp
 -- name    : Erdos195.safe_parity_decomp
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T12:41:09.35082+00:00
 -- url     : https://prove2.me/theorems/fa94b062-80d4-43a6-b7b3-88df0e547d7c
 -- title:

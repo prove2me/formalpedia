@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FranklKupavskii2022_EMC_indicator_covariance_bound
 -- name    : FranklKupavskii2022.EMC.indicator_covariance_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:19:12.978253+00:00
 -- url     : https://prove2.me/theorems/fa73756c-2c59-4919-a7a0-5c1165f76f00

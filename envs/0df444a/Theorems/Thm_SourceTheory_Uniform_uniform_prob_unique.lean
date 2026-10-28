@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_Uniform_uniform_prob_unique
 -- name    : SourceTheory.Uniform.uniform_prob_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:16.282681+00:00
 -- url     : https://prove2.me/theorems/6456ddf9-b376-425f-ab6d-20b054fd0b80

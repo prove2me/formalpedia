@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Hardness_lemma_5
 -- name    : MultiPriceOnline.Hardness.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:43:55.357403+00:00
 -- url     : https://prove2.me/theorems/dfa012a6-1cad-4908-a0cd-d21c7b0da406

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.SignFlip.flipU_apply_inc
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:58:07.255988+00:00
 -- url     : https://prove2.me/submissions/ec8c4533-0874-4723-af2d-8b4f08bd74ac
 

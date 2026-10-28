@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GKP1998_massive_string_state_dimension
 -- name    : GKP1998.massive_string_state_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:55:28.624288+00:00
 -- url     : https://prove2.me/theorems/798eb276-2794-41c8-ab0c-4e16d6524254

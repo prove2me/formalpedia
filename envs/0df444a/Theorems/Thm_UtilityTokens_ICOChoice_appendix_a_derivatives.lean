@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UtilityTokens_ICOChoice_appendix_a_derivatives
 -- name    : UtilityTokens.ICOChoice.appendix_a_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:26.055843+00:00
 -- url     : https://prove2.me/theorems/3e17cdad-bff2-4c1c-bbb1-9321ec71e1ff

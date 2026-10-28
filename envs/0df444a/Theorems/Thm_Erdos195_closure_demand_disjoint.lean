@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_closure_demand_disjoint
 -- name    : Erdos195.closure_demand_disjoint
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:33:29.380153+00:00
 -- url     : https://prove2.me/theorems/15a92dcf-836b-4680-921f-0e887b5ca1e0
 -- title:

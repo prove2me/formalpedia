@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CPDNetworks_Unknown_decomposition_7
 -- name    : CPDNetworks.Unknown.decomposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:41.93098+00:00
 -- url     : https://prove2.me/theorems/a479ee91-6c82-4aa5-b41c-12a4d892627f

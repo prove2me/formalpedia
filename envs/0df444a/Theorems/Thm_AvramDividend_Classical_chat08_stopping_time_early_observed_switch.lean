@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat08_stopping_time_early_observed_switch
 -- name    : AvramDividend.Classical.chat08_stopping_time_early_observed_switch
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:41:49.022292+00:00
 -- url     : https://prove2.me/theorems/8901c301-4d7a-4700-9b39-7508d8cece79

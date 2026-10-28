@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_AllDist_Fstar_exchangeable
 -- name    : RobustSPA.AllDist.Fstar_exchangeable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:39.347011+00:00
 -- url     : https://prove2.me/theorems/32d09a04-9bad-4f75-b4ec-10d4334becf9

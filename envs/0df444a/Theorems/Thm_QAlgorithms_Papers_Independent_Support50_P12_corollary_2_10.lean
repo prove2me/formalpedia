@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P12_corollary_2_10
 -- name    : QAlgorithms.Papers.Independent.Support50.P12.corollary_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:14:12.613271+00:00
 -- url     : https://prove2.me/theorems/fe81092a-0bf8-400c-986d-70cdb5fd79d4

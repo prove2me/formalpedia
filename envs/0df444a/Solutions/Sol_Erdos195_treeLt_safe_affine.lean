@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.treeLt_safe_affine
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:17:45.939845+00:00
 -- url     : https://prove2.me/submissions/4140d12d-f622-4594-9ecd-de4919cb4357
 

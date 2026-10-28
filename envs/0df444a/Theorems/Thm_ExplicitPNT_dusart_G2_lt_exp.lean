@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitPNT_dusart_G2_lt_exp
 -- name    : ExplicitPNT.dusart_G2_lt_exp
--- status  : Open
+-- status  : Proved
 -- author  : @chaikon
 -- created : 2026-10-14T03:05:08.102433+00:00
 -- url     : https://prove2.me/theorems/faac22d1-ea50-43d3-9c30-62f3ae9676b2

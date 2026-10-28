@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Duality_berge_3_7
 -- name    : PathsTreesFlowers.Duality.berge_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:24:02.028416+00:00
 -- url     : https://prove2.me/theorems/40917f19-88ab-4f5f-b9f2-e670ef1bccf7

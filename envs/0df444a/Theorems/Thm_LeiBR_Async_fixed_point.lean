@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Async_fixed_point
 -- name    : LeiBR.Async.fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:11.405104+00:00
 -- url     : https://prove2.me/theorems/dc0048c1-d41d-4788-961f-81d9feae5057

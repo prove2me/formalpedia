@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniqueGamesTheorem_theorem11
 -- name    : OAI.UniqueGamesTheorem.theorem11
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:36.622277+00:00
 -- url     : https://prove2.me/theorems/7add89f2-2a6b-4e11-aff4-23640077659e

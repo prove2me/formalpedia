@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_OptEq_lemma71
 -- name    : NegativeDP.OptEq.lemma71
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:55:13.102163+00:00
 -- url     : https://prove2.me/theorems/72fa3e7a-fcfc-42c9-9f45-6b6813abb5e8

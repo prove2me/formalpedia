@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_lemmaB2_revenue_ordered_within
 -- name    : MultiStoreAssort.SQR.lemmaB2_revenue_ordered_within
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:19.418204+00:00
 -- url     : https://prove2.me/theorems/d223bb35-9b8e-49a6-92f4-43108474ba26

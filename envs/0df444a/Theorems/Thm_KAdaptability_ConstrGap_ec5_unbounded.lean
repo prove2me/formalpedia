@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_ConstrGap_ec5_unbounded
 -- name    : KAdaptability.ConstrGap.ec5_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:02:06.752342+00:00
 -- url     : https://prove2.me/theorems/7e60a720-2404-4733-b375-e1388d0ccb5a

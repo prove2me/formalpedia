@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SONATA_Undir_eq_19
 -- name    : SONATA.Undir.eq_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:17:12.130223+00:00
 -- url     : https://prove2.me/theorems/00347675-2399-4d9a-b5fd-8a7e5f475b35

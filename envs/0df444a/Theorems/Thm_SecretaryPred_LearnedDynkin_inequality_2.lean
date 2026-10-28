@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryPred_LearnedDynkin_inequality_2
 -- name    : SecretaryPred.LearnedDynkin.inequality_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:44.443699+00:00
 -- url     : https://prove2.me/theorems/bb0ac6fb-528b-4e67-9f4c-4be6919d836b

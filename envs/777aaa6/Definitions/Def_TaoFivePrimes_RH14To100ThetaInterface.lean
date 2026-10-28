@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100ThetaInterface
 -- name    : TaoFivePrimes_RH14To100ThetaInterface
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:47:40.835593+00:00
 -- url     : https://prove2.me/theorems/cec6a22a-56b3-4324-a3eb-881b35e9a7a8
 -- title:

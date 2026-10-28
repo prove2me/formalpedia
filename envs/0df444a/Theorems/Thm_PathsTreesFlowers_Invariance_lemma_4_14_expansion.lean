@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Invariance_lemma_4_14_expansion
 -- name    : PathsTreesFlowers.Invariance.lemma_4_14_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:03:44.152503+00:00
 -- url     : https://prove2.me/theorems/43f06126-a73c-4e5c-8770-8f6ef46b6434

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.doubling_seq_no_three_ap
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:50.590876+00:00
 -- url     : https://prove2.me/submissions/fbd16232-289b-49bf-ae97-410d422de8de
 

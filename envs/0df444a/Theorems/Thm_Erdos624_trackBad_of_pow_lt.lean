@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_trackBad_of_pow_lt
 -- name    : Erdos624.trackBad_of_pow_lt
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:07:58.71722+00:00
 -- url     : https://prove2.me/theorems/bae04e94-1da5-481e-9e9a-8b3c2f81b037
 -- title:

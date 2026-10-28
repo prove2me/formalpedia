@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat08_stopped_levy_increment_tendsto_of_right_approximation
 -- name    : AvramDividend.Classical.chat08_stopped_levy_increment_tendsto_of_right_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:42:06.59711+00:00
 -- url     : https://prove2.me/theorems/8f73cd3f-a954-42f0-8b97-1d2f9f66b949

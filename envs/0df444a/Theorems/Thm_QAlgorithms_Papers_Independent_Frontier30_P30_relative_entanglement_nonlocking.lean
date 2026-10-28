@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P30_relative_entanglement_nonlocking
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P30.relative_entanglement_nonlocking
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T17:32:06.407227+00:00
 -- url     : https://prove2.me/theorems/a8e73b6f-4800-4bb3-b98d-892063a6f32f

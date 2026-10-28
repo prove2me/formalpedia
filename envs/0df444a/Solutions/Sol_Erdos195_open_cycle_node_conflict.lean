@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_cycle_node_conflict
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:52:10.150751+00:00
 -- url     : https://prove2.me/submissions/4e160d5d-be15-4766-8de5-cda0a66688ec
 

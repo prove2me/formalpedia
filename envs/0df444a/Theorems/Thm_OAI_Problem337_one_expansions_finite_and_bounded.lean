@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem337_one_expansions_finite_and_bounded
 -- name    : OAI.Problem337.one_expansions_finite_and_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:09.768509+00:00
 -- url     : https://prove2.me/theorems/50f763e7-dee4-4ddc-ab67-c02bb4b01161

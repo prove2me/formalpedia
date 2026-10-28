@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.SignFlip.negOne_pow_eq_inc
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:50:07.480792+00:00
 -- url     : https://prove2.me/submissions/927fd4a5-50eb-4d6b-9ed0-e7ba55e981ba
 

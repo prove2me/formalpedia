@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MovingMediaOptics.Gordon.eq_51_rest_frame_metric
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:37:45.788625+00:00
 -- url     : https://prove2.me/submissions/319bc5e1-373d-435e-9640-4eb70c349500
 

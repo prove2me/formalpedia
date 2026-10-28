@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.bellErrorRate
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:16:51.37536+00:00
 -- url     : https://prove2.me/submissions/8053a991-b333-4386-bbcc-14971bb43157
 

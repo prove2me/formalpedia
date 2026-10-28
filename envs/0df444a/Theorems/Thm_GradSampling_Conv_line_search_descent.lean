@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GradSampling_Conv_line_search_descent
 -- name    : GradSampling.Conv.line_search_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:48:27.008231+00:00
 -- url     : https://prove2.me/theorems/0eac16f3-6a5a-423e-9e12-de8ba53a1838

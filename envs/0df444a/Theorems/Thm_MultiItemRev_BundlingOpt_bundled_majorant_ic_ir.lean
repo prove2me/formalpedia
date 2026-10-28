@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_BundlingOpt_bundled_majorant_ic_ir
 -- name    : MultiItemRev.BundlingOpt.bundled_majorant_ic_ir
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:25:51.129294+00:00
 -- url     : https://prove2.me/theorems/68a65b04-7be1-4481-a135-10dc38f7663c

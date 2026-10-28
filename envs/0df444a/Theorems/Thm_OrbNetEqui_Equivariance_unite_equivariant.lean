@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrbNetEqui_Equivariance_unite_equivariant
 -- name    : OrbNetEqui.Equivariance.unite_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:39:01.06635+00:00
 -- url     : https://prove2.me/theorems/9a0aaff4-a99e-4229-b94b-3eab752f5cdc

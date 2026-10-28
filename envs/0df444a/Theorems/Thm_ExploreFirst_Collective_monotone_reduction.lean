@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Collective_monotone_reduction
 -- name    : ExploreFirst.Collective.monotone_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:06:04.369219+00:00
 -- url     : https://prove2.me/theorems/88ee0e1e-6c8d-41c8-aae8-f96b1f6084c4

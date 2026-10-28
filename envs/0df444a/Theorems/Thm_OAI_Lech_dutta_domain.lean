@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Lech_dutta_domain
 -- name    : OAI.Lech.dutta_domain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:53.099094+00:00
 -- url     : https://prove2.me/theorems/2f0b3e72-d07d-4824-ae66-b68cf8115dfb

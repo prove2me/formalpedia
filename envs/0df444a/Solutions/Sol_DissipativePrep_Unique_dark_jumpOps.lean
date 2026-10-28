@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for DissipativePrep.Unique.dark_jumpOps
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:00:19.52306+00:00
 -- url     : https://prove2.me/submissions/68d2e773-6b6e-481a-a147-1708fc7c8786
 

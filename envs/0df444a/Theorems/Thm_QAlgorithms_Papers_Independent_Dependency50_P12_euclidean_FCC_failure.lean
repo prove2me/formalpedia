@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_euclidean_FCC_failure
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.euclidean_FCC_failure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:06:44.211054+00:00
 -- url     : https://prove2.me/theorems/f271c164-27fb-41c7-bb8c-c2da3cf99a5f

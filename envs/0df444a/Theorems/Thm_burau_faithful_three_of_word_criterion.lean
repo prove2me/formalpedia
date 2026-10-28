@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_burau_faithful_three_of_word_criterion
 -- name    : burau_faithful_three_of_word_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @lt9
 -- created : 2026-09-30T19:17:34.563381+00:00
 -- url     : https://prove2.me/theorems/2bf2eda1-9f54-441b-8a90-b54271cd0f02

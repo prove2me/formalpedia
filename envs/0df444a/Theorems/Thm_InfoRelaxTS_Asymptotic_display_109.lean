@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Asymptotic_display_109
 -- name    : InfoRelaxTS.Asymptotic.display_109
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:22:08.086797+00:00
 -- url     : https://prove2.me/theorems/f7bafd4a-3fa3-429e-8ffc-dded1b63cfd4

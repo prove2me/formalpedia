@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityCampaign_reach_doubled_paley_12047_exact
 -- name    : SensitivityCampaign.reach_doubled_paley_12047_exact
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-10-21T16:55:26.171157+00:00
 -- url     : https://prove2.me/theorems/e4ba0749-3735-4f3b-a06c-3c3ed5715a4a

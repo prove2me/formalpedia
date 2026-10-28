@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMStrongSim_RecordBreak_lemma_3_3
 -- name    : FBMStrongSim.RecordBreak.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:56.471177+00:00
 -- url     : https://prove2.me/theorems/e7900903-45b6-4b73-97e4-133679a0b94e

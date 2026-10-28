@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P11_nonSignalling_le_matthewsWehner
 -- name    : QAlgorithms.Papers.Independent.Support50.P11.nonSignalling_le_matthewsWehner
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:08:35.159303+00:00
 -- url     : https://prove2.me/theorems/1ebea71e-8078-4df6-9da6-ac7c87314455

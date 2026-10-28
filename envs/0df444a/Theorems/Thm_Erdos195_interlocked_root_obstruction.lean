@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_interlocked_root_obstruction
 -- name    : Erdos195.interlocked_root_obstruction
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:22:15.801991+00:00
 -- url     : https://prove2.me/theorems/91e69c53-9fdb-463e-a2a0-c5bce45203f7
 -- title:

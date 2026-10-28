@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALADIN_LocalStab_hessian_pd_nearby
 -- name    : ALADIN.LocalStab.hessian_pd_nearby
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:28.389272+00:00
 -- url     : https://prove2.me/theorems/c521eac0-be0f-4887-9b58-2b698929301e

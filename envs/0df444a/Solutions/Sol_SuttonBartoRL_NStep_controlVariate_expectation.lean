@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.NStep.controlVariate_expectation
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:29:28.816194+00:00
 -- url     : https://prove2.me/submissions/c4f209a6-d968-4668-948a-8cc2f918fdea
 

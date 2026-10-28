@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BasicPackArb_Main_theorem_1_6
 -- name    : BasicPackArb.Main.theorem_1_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:29:29.850975+00:00
 -- url     : https://prove2.me/theorems/46e52108-f292-4032-a4df-fdf2e890792e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiAbduction_Footprint_safe_eq_foot_sep_true
 -- name    : BiAbduction.Footprint.safe_eq_foot_sep_true
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:54.400991+00:00
 -- url     : https://prove2.me/theorems/12ddfb07-733d-4935-8b5e-8afa20db71fa

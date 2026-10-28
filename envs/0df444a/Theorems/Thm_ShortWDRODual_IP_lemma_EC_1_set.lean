@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_IP_lemma_EC_1_set
 -- name    : ShortWDRODual.IP.lemma_EC_1_set
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:47.160219+00:00
 -- url     : https://prove2.me/theorems/d4760e21-3a17-4b4b-a54f-29bc183b4c23

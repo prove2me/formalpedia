@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_unitSimplexSlices_volume_scale
 -- name    : OAI.PiExponent.DeterminantContradiction.unitSimplexSlices_volume_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T15:07:14.063975+00:00
 -- url     : https://prove2.me/theorems/1b102273-ad45-4b9d-8216-eee053472604

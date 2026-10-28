@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.zero_one_negone_mod4_one
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:24.213482+00:00
 -- url     : https://prove2.me/submissions/a70791e1-a0a9-4d54-8635-82ae36fdeaba
 

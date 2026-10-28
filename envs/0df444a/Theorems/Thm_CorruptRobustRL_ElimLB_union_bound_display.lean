@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_ElimLB_union_bound_display
 -- name    : CorruptRobustRL.ElimLB.union_bound_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:34.362059+00:00
 -- url     : https://prove2.me/theorems/b7ae4a53-6e22-4865-8403-efe4c64d4273

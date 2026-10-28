@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_symmetric_lifting
 -- name    : Erdos195.symmetric_lifting
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:37:29.711971+00:00
 -- url     : https://prove2.me/theorems/ab240984-c853-4787-b296-536ff6aaee81
 -- title:

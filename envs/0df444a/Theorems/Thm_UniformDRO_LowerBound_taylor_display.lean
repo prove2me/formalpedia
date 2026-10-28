@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformDRO_LowerBound_taylor_display
 -- name    : UniformDRO.LowerBound.taylor_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:08:41.174104+00:00
 -- url     : https://prove2.me/theorems/c3521867-7714-4db9-93a1-e42bdaa815cf

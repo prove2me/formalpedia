@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Tree_U_N_equations
 -- name    : MatrixAnalytic.Tree.U_N_equations
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:05.092726+00:00
 -- url     : https://prove2.me/theorems/0a2c6645-173c-40f9-866c-0ddabf5bdfde

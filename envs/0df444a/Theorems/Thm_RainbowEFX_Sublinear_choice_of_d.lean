@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RainbowEFX_Sublinear_choice_of_d
 -- name    : RainbowEFX.Sublinear.choice_of_d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:28.633809+00:00
 -- url     : https://prove2.me/theorems/299150de-9679-4bd7-9fad-992fdeb413af

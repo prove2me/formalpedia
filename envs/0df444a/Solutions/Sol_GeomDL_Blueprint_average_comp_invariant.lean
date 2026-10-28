@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Blueprint.average_comp_invariant
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:46:24.452961+00:00
 -- url     : https://prove2.me/submissions/2bff2302-c958-4507-a74d-f24a16672f06
 

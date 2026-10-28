@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.target_last_caps
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T14:10:08.46312+00:00
 -- url     : https://prove2.me/submissions/398a4203-221c-4f92-b866-6be0f09baf35
 

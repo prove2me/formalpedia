@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_nine_pow_lift_bit
 -- name    : Erdos195.nine_pow_lift_bit
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T09:56:48.736225+00:00
 -- url     : https://prove2.me/theorems/098ec0a9-3ec0-434d-a2db-a2af8909346a
 -- title:

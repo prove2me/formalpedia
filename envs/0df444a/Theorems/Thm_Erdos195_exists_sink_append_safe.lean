@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_exists_sink_append_safe
 -- name    : Erdos195.exists_sink_append_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T00:09:31.000182+00:00
 -- url     : https://prove2.me/theorems/ab1598e1-78f6-4e20-a9f7-60ea46a59369
 -- title:

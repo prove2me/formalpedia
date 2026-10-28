@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem336_fusf_is_factor_iid
 -- name    : OAI.Problem336.fusf_is_factor_iid
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:08.846927+00:00
 -- url     : https://prove2.me/theorems/6ee05276-1089-4dad-8bb9-39dad44c195f

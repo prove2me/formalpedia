@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.Discounted.exists_stationary_optimal
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:48:57.64299+00:00
 -- url     : https://prove2.me/submissions/f0f21bb3-17f7-48fd-85b4-a834d9129ea4
 

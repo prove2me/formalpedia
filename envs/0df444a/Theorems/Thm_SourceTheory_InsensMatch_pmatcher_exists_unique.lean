@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_InsensMatch_pmatcher_exists_unique
 -- name    : SourceTheory.InsensMatch.pmatcher_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:13.37883+00:00
 -- url     : https://prove2.me/theorems/93b8a245-2ca4-4494-9fbc-dc134992556e

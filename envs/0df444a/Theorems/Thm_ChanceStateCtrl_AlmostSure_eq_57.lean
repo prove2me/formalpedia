@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_AlmostSure_eq_57
 -- name    : ChanceStateCtrl.AlmostSure.eq_57
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:09:48.503886+00:00
 -- url     : https://prove2.me/theorems/35597087-4030-4a36-82e7-399627b5790b

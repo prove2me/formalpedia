@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Erdos624_defs
 -- name    : Erdos624_defs
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:45:32.66758+00:00
 -- url     : https://prove2.me/theorems/3d114ec5-8d5b-4470-8502-9ece4c0c05fa
 -- title:

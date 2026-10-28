@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_Theory_lemma_4_8_pp_power
 -- name    : AlgebraicPCSP.Theory.lemma_4_8_pp_power
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:39.511092+00:00
 -- url     : https://prove2.me/theorems/a84d24d8-5105-4784-8a06-b93fb238ba4b

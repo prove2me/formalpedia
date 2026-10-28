@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_zero_entanglement
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.zero_entanglement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:24:45.886306+00:00
 -- url     : https://prove2.me/theorems/74bba14d-1049-4c9d-9c80-f81a1689683f

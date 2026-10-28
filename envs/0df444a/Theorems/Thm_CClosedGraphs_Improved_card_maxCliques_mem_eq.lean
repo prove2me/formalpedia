@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Improved_card_maxCliques_mem_eq
 -- name    : CClosedGraphs.Improved.card_maxCliques_mem_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:24.246971+00:00
 -- url     : https://prove2.me/theorems/db76ba8d-ee3e-484e-9c0c-74fca1eeef1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BorsukNine_main_theorem
 -- name    : OAI.BorsukNine.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:23.796228+00:00
 -- url     : https://prove2.me/theorems/9b05ba32-6098-4e4e-89ba-f9908ecf987e

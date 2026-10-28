@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Paper170_complete_graph_crossing_number
 -- name    : OAI.Paper170.complete_graph_crossing_number
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:00.035915+00:00
 -- url     : https://prove2.me/theorems/cf975d81-78e8-45ca-a682-cc5e87f6f173

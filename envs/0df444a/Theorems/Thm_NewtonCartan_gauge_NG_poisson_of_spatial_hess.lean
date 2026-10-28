@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_gauge_NG_poisson_of_spatial_hess
 -- name    : NewtonCartan.gauge_NG_poisson_of_spatial_hess
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:37:33.140272+00:00
 -- url     : https://prove2.me/theorems/cb44a392-09c6-4173-89cf-ec9b0d88c974
 -- title:

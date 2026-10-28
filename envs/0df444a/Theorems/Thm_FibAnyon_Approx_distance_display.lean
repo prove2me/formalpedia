@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FibAnyon_Approx_distance_display
 -- name    : FibAnyon.Approx.distance_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:46:28.543358+00:00
 -- url     : https://prove2.me/theorems/feb39ecb-5545-4bc5-836a-e830a0dcced9

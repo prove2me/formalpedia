@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Brennan_Sharp_sharp_endpoints
 -- name    : OAI.Brennan.Sharp.sharp_endpoints
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:24.606822+00:00
 -- url     : https://prove2.me/theorems/3416ef25-6abd-4d6c-9047-1ef53695b677

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Tree_positive_recurrent_iff_sp_lt_one
 -- name    : MatrixAnalytic.Tree.positive_recurrent_iff_sp_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:06.941103+00:00
 -- url     : https://prove2.me/theorems/19b72fd9-a8ed-4161-a237-cb121f06726c

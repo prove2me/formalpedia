@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WeakGoldbach.symmetric_vonMangoldt_lower_bound_with_diagonal_triple_above_2e18
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:34:55.636267+00:00
 -- url     : https://prove2.me/submissions/45f021cb-14b1-4d21-aa69-d857fe66f513
 -- note    : a sketch -- it imports a theorem that is still Open,

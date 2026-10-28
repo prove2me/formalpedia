@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_BidPrice_lemma2_closed_forms
 -- name    : RobustBooking.BidPrice.lemma2_closed_forms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:07:27.986932+00:00
 -- url     : https://prove2.me/theorems/03e4ab5f-d62d-48f8-b940-130e7d9f551f

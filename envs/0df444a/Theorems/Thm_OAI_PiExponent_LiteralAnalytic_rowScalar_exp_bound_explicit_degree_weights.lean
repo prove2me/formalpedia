@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_rowScalar_exp_bound_explicit_degree_weights
 -- name    : OAI.PiExponent.LiteralAnalytic.rowScalar_exp_bound_explicit_degree_weights
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:44:17.035111+00:00
 -- url     : https://prove2.me/theorems/9e25b3ec-4a25-45ea-8c70-461be81a5188

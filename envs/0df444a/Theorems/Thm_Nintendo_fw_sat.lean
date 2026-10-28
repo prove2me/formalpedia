@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Nintendo_fw_sat
 -- name    : Nintendo.fw_sat
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-10-21T11:05:26.079215+00:00
 -- url     : https://prove2.me/theorems/24f4f282-2fce-4e58-af37-5b5536a0ace8

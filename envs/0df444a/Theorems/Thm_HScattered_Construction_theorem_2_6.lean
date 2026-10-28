@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_Construction_theorem_2_6
 -- name    : HScattered.Construction.theorem_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:03.311714+00:00
 -- url     : https://prove2.me/theorems/a7b50f61-d665-479e-97c0-0ac01b7dc294

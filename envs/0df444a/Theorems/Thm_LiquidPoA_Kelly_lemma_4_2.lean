@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidPoA_Kelly_lemma_4_2
 -- name    : LiquidPoA.Kelly.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:02:03.992099+00:00
 -- url     : https://prove2.me/theorems/05b3e292-7c07-4446-a2cb-0e4eca275de2

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.trap_mod4_three
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:59:15.23099+00:00
 -- url     : https://prove2.me/submissions/d4fe99f7-31b3-4b5c-9b3a-a643a6b115fa
 

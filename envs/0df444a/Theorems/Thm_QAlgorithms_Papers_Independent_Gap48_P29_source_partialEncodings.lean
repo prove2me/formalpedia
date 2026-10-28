@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_source_partialEncodings
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.source_partialEncodings
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:26:14.151785+00:00
 -- url     : https://prove2.me/theorems/987daf0f-c87d-4478-8cec-e477159d2463

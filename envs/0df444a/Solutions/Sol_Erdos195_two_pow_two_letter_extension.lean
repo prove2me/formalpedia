@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.two_pow_two_letter_extension
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:10:46.592202+00:00
 -- url     : https://prove2.me/submissions/5a2ba2d6-ae6a-4ee5-ac33-5156d8deeac9
 

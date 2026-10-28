@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WaitJudge.Convex.weak_duality
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:22:50.769183+00:00
 -- url     : https://prove2.me/submissions/5fdb3621-3504-47c0-b9ab-d1205fc446bd
 

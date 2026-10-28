@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P04_depolarizingOneShot
 -- name    : QAlgorithms.Papers.Independent.Gap48.P04.depolarizingOneShot
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:57:57.067678+00:00
 -- url     : https://prove2.me/theorems/fc4fe0f6-27a4-4b32-b026-3ccf5acd13b5

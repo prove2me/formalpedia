@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_main
 -- name    : OAI.PiExponent.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:03.369565+00:00
 -- url     : https://prove2.me/theorems/5f472fc7-4c4f-407f-ac60-4bbaa407d996

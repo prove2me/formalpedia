@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_new_pair_blockers_iff
 -- name    : Erdos195.new_pair_blockers_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:17:38.058102+00:00
 -- url     : https://prove2.me/theorems/5ca02fc9-8600-4d42-9613-1bbbe63088cc
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryBounds_bernoulli_zero_base_stock_optimal
 -- name    : InventoryBounds.bernoulli_zero_base_stock_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T15:32:24.70768+00:00
 -- url     : https://prove2.me/theorems/91968a7e-bc54-4694-affe-0a705809f14b

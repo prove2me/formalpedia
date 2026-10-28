@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovPolyak2006_thm3_item3_local_quadratic_on_F_faithful
 -- name    : NesterovPolyak2006.thm3_item3_local_quadratic_on_F_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T03:21:49.952654+00:00
 -- url     : https://prove2.me/theorems/8d6b4238-834e-44bb-82ea-04d973140ef3

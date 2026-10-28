@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P12.ct_generators
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T02:23:27.900738+00:00
 -- url     : https://prove2.me/submissions/962ee2f5-bfd8-4a57-8d05-c704df6a0e87
 

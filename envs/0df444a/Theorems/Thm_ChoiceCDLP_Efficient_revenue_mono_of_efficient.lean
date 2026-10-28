@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceCDLP_Efficient_revenue_mono_of_efficient
 -- name    : ChoiceCDLP.Efficient.revenue_mono_of_efficient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T07:27:17.842991+00:00
 -- url     : https://prove2.me/theorems/c091f126-4cb1-4d31-8365-51b44ae76834

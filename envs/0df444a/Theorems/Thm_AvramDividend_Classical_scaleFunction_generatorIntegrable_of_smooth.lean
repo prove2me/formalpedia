@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generatorIntegrable_of_smooth
 -- name    : AvramDividend.Classical.scaleFunction_generatorIntegrable_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T20:58:49.173087+00:00
 -- url     : https://prove2.me/theorems/f66bbd53-5413-409d-b5ef-3797a4626c14

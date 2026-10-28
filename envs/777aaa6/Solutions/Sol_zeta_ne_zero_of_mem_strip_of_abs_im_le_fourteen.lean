@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for zeta_ne_zero_of_mem_strip_of_abs_im_le_fourteen
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:11:30.389682+00:00
 -- url     : https://prove2.me/submissions/e9737340-dcaf-44a7-a8d3-c8d8f34f5262
 

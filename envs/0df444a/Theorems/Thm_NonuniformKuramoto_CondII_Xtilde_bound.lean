@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondII_Xtilde_bound
 -- name    : NonuniformKuramoto.CondII.Xtilde_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:24:46.139414+00:00
 -- url     : https://prove2.me/theorems/9bf74c9c-e8eb-4866-b099-5a91ba8b3b2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongWeakEq_TwoState_display_4_11
 -- name    : StrongWeakEq.TwoState.display_4_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:34:57.716011+00:00
 -- url     : https://prove2.me/theorems/cf916bd1-43df-4f1b-b0ff-bf068ab9d9ad

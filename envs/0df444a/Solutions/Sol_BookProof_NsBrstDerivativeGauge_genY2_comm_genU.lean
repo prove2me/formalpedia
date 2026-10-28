@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NsBrstDerivativeGauge.genY2_comm_genU
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:41:37.466997+00:00
 -- url     : https://prove2.me/submissions/560c9efd-0e36-456e-8e1b-049111b49a3b
 

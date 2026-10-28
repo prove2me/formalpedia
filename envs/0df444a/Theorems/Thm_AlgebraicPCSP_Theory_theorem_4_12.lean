@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_Theory_theorem_4_12
 -- name    : AlgebraicPCSP.Theory.theorem_4_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:36.492853+00:00
 -- url     : https://prove2.me/theorems/0082bade-7c1a-46b5-9a1a-eaa17b7887ed

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BraneBrauer.Orthogonal.eq_3_37
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:01:48.248802+00:00
 -- url     : https://prove2.me/submissions/0f40d427-f6ab-4098-be53-d96b50440a04
 

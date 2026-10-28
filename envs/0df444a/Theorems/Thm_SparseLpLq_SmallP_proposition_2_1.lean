@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseLpLq_SmallP_proposition_2_1
 -- name    : SparseLpLq.SmallP.proposition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:45:53.23398+00:00
 -- url     : https://prove2.me/theorems/b28e682c-f21d-423e-a263-34bec6191353

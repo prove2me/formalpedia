@@ -1,0 +1,474 @@
+-- Prove2me | solution 1 for Sensitivity213981Formal.ThreeBoundEndpoint22Records.converted_correct
+-- status  : ACCEPTED   (prove)
+-- author  : @yousofy
+-- created : 2026-10-27T00:13:31.058696+00:00
+-- url     : https://prove2.me/submissions/32eaced5-bb6a-4df4-8e5a-ff5b9c55ed61
+
+import Definitions.Def_Sensitivity213981Formal_ClosureCertificate
+import Definitions.Def_Sensitivity213981Formal_Endpoint22SummaryData
+import Definitions.Def_Sensitivity213981Formal_Namespaces
+import Definitions.Def_Sensitivity213981Formal_NamespacesComplete
+import Definitions.Def_Sensitivity213981Formal_RankSummarizedConverted
+import Definitions.Def_Sensitivity213981Formal_Supplement_NumericExpressions
+import Definitions.Def_SensitivityCampaign
+import Definitions.Def_SensitivitySeparation
+import Lean.Elab.Tactic.Omega
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.GroupWithZero.Units.Equiv
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.Group.List
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.GroupWithZero.Basic
+import Mathlib.Algebra.Order.Ring.Nat
+import Mathlib.Algebra.Order.Ring.Pow
+import Mathlib.Analysis.SpecialFunctions.Log.Deriv
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Combinatorics.Digraph.Basic
+import Mathlib.Combinatorics.Hall.Finite
+import Mathlib.Data.Fin.Basic
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finset.Sort
+import Mathlib.Data.Finset.Union
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.Sort
+import Mathlib.Data.Nat.Basic
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Prod.Lex
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.NumberTheory.JacobiSum.Basic
+import Mathlib.NumberTheory.LegendreSymbol.Basic
+import Mathlib.Order.Interval.Finset.Nat
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.IntervalCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.NormNum.Prime
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Tauto
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked0
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked1
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked10
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked100
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked101
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked102
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked103
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked104
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked105
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked106
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked107
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked108
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked109
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked11
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked110
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked111
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked112
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked113
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked114
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked115
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked116
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked117
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked118
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked119
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked12
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked120
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked121
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked122
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked123
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked124
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked125
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked126
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked127
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked128
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked129
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked13
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked130
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked131
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked132
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked133
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked134
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked135
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked136
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked137
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked138
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked139
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked14
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked140
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked141
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked142
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked143
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked144
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked145
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked146
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked147
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked148
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked149
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked15
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked150
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked151
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked152
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked153
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked154
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked155
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked156
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked157
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked158
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked159
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked16
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked17
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked18
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked19
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked2
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked20
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked21
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked22
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked23
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked24
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked25
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked26
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked27
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked28
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked29
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked3
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked30
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked31
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked32
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked33
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked34
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked35
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked36
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked37
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked38
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked39
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked4
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked40
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked41
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked42
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked43
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked44
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked45
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked46
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked47
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked48
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked49
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked5
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked50
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked51
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked52
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked53
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked54
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked55
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked56
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked57
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked58
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked59
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked6
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked60
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked61
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked62
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked63
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked64
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked65
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked66
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked67
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked68
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked69
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked7
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked70
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked71
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked72
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked73
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked74
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked75
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked76
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked77
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked78
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked79
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked8
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked80
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked81
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked82
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked83
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked84
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked85
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked86
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked87
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked88
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked89
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked9
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked90
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked91
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked92
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked93
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked94
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked95
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked96
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked97
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked98
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_converted_checked99
+
+
+namespace Sensitivity213981Formal
+section
+/- Homogeneous arithmetic expressions for the exact sensitivity transfer.
+Every operation is interpreted in Nat. In particular subtraction is truncated
+subtraction, which commutes with multiplication by every natural scalar. -/
+
+
+set_option autoImplicit false
+
+namespace ThreeBoundNumeric
+open ThreeBoundFullProfile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem mem_interval {a b k : ℕ} : k ∈ interval a b ↔ a ≤  k ∧ k <  b := by
+  simp only [interval, List.mem_map, List.mem_range]
+  constructor
+  · rintro ⟨i,hi,rfl⟩
+    omega
+  · rintro ⟨ha,hb⟩
+    exact ⟨k-a,by omega,by omega⟩
+
+
+
+
+
+
+
+
+
+
+
+end ThreeBoundNumeric
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/- Prefix caps are certified once per static key and reused for every external count. -/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxRecDepth 20000
+
+namespace ThreeBoundRankCached
+open ThreeBoundNumeric (Caps)
+open ThreeBoundRankNumeric
+
+
+
+
+
+
+
+
+
+
+
+theorem fastConverted_eq (caps : Caps) (perfect : ℕ) (r : Record)
+    (summary : ConvertedSummary) (hs : SummaryOK caps r summary) (e : ℕ) (q : Fin 4) :
+    fastConverted caps perfect summary e q.val=convertedCap caps perfect r e q.val := by
+  simp only [fastConverted,convertedCap,hs.1,(hs.2 q).1]
+
+theorem staticAllowed_of_summary (caps : Caps) (r : Record)
+    (summary : ConvertedSummary) (hs : SummaryOK caps r summary) (q : Fin 4) :
+    staticAllowed caps q.val r=true := by
+  apply List.all_eq_true.mpr
+  intro k hk
+  have hlt := List.mem_range.mp hk
+  exact decide_eq_true ((hs.2 ⟨k,by omega⟩).2)
+
+
+
+
+
+
+
+
+
+theorem convertedOK_of_summary (caps : Caps) (perfect : ℕ) (r : Record)
+    (summary : ConvertedSummary) (hs : SummaryOK caps r summary) (values : ConvertedValues)
+    (hv : ConvertedFastOK caps perfect (r 11) summary values) : ConvertedOK caps perfect r values := by
+  constructor
+  · intro q
+    rw [hv.1 q,staticAllowed_of_summary caps r summary hs q]
+  · intro e q
+    exact (hv.2 e q).trans (fastConverted_eq caps perfect r summary hs e.val q)
+
+theorem summarizedConvertedCheck_sound (caps : Caps) (perfect : ℕ) (r : Record)
+    (summary : ConvertedSummary) (values : ConvertedValues)
+    (h : summarizedConvertedCheck caps perfect r summary values=true) : ConvertedOK caps perfect r values := by
+  have hh : summaryCheck caps r summary=true ∧ convertedFastCheck caps perfect (r 11) summary values=true := by
+    simpa only [summarizedConvertedCheck,Bool.and_eq_true] using h
+  exact convertedOK_of_summary caps perfect r summary (of_decide_eq_true hh.1)
+    values (of_decide_eq_true hh.2)
+
+end ThreeBoundRankCached
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/- A small trusted checker for exact closure certificates.
+
+Each node cites either an input bound or one of the already proved semantic
+closure rules, with references strictly earlier in the finite program. The
+checker validates coordinates and integer inequalities. A successful check
+therefore proves a semantic upper profile for every natural scaling of the
+input. No executable output is used as an unverified premise. -/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+
+namespace ThreeBoundNumeric.ClosureCertificate
+open ThreeBoundProfiles ThreeBoundFullProfile
+
+variable {n : ℕ}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem checkInterval_sound (p : ℕ → Bool) (a b : ℕ)
+    (h : checkInterval p a b = true) (k : ℕ) (ha : a≤ k) (hb : k< b) : p k=true :=
+  List.all_eq_true.mp h k (mem_interval.mpr ⟨ha,hb⟩)
+
+theorem checkInterval_join (p : ℕ → Bool) (a b c : ℕ)
+    (hab : checkInterval p a b=true) (hbc : checkInterval p b c=true) :
+    checkInterval p a c=true := by
+  apply List.all_eq_true.mpr
+  intro k hk
+  obtain ⟨ha,hc⟩ := mem_interval.mp hk
+  by_cases hb : k< b
+  · exact checkInterval_sound p a b hab k ha hb
+  · exact checkInterval_sound p b c hbc k (by omega) hc
+
+
+
+
+
+
+
+
+
+end ThreeBoundNumeric.ClosureCertificate
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+
+set_option autoImplicit false
+set_option maxRecDepth 2000000
+set_option maxHeartbeats 0
+set_option Elab.async false
+namespace ThreeBoundEndpoint22Records
+open ThreeBoundNumeric.ClosureCertificate ThreeBoundRankCached
+theorem converted_checked : checkInterval summaryCheckAt 0 20464=true:=
+  (checkInterval_join summaryCheckAt 0 10240 20464 (checkInterval_join summaryCheckAt 0 5120 10240 (checkInterval_join summaryCheckAt 0 2560 5120 (checkInterval_join summaryCheckAt 0 1280 2560 (checkInterval_join summaryCheckAt 0 640 1280 (checkInterval_join summaryCheckAt 0 256 640 (checkInterval_join summaryCheckAt 0 128 256 converted_checked0 converted_checked1) (checkInterval_join summaryCheckAt 256 384 640 converted_checked2 (checkInterval_join summaryCheckAt 384 512 640 converted_checked3 converted_checked4))) (checkInterval_join summaryCheckAt 640 896 1280 (checkInterval_join summaryCheckAt 640 768 896 converted_checked5 converted_checked6) (checkInterval_join summaryCheckAt 896 1024 1280 converted_checked7 (checkInterval_join summaryCheckAt 1024 1152 1280 converted_checked8 converted_checked9)))) (checkInterval_join summaryCheckAt 1280 1920 2560 (checkInterval_join summaryCheckAt 1280 1536 1920 (checkInterval_join summaryCheckAt 1280 1408 1536 converted_checked10 converted_checked11) (checkInterval_join summaryCheckAt 1536 1664 1920 converted_checked12 (checkInterval_join summaryCheckAt 1664 1792 1920 converted_checked13 converted_checked14))) (checkInterval_join summaryCheckAt 1920 2176 2560 (checkInterval_join summaryCheckAt 1920 2048 2176 converted_checked15 converted_checked16) (checkInterval_join summaryCheckAt 2176 2304 2560 converted_checked17 (checkInterval_join summaryCheckAt 2304 2432 2560 converted_checked18 converted_checked19))))) (checkInterval_join summaryCheckAt 2560 3840 5120 (checkInterval_join summaryCheckAt 2560 3200 3840 (checkInterval_join summaryCheckAt 2560 2816 3200 (checkInterval_join summaryCheckAt 2560 2688 2816 converted_checked20 converted_checked21) (checkInterval_join summaryCheckAt 2816 2944 3200 converted_checked22 (checkInterval_join summaryCheckAt 2944 3072 3200 converted_checked23 converted_checked24))) (checkInterval_join summaryCheckAt 3200 3456 3840 (checkInterval_join summaryCheckAt 3200 3328 3456 converted_checked25 converted_checked26) (checkInterval_join summaryCheckAt 3456 3584 3840 converted_checked27 (checkInterval_join summaryCheckAt 3584 3712 3840 converted_checked28 converted_checked29)))) (checkInterval_join summaryCheckAt 3840 4480 5120 (checkInterval_join summaryCheckAt 3840 4096 4480 (checkInterval_join summaryCheckAt 3840 3968 4096 converted_checked30 converted_checked31) (checkInterval_join summaryCheckAt 4096 4224 4480 converted_checked32 (checkInterval_join summaryCheckAt 4224 4352 4480 converted_checked33 converted_checked34))) (checkInterval_join summaryCheckAt 4480 4736 5120 (checkInterval_join summaryCheckAt 4480 4608 4736 converted_checked35 converted_checked36) (checkInterval_join summaryCheckAt 4736 4864 5120 converted_checked37 (checkInterval_join summaryCheckAt 4864 4992 5120 converted_checked38 converted_checked39)))))) (checkInterval_join summaryCheckAt 5120 7680 10240 (checkInterval_join summaryCheckAt 5120 6400 7680 (checkInterval_join summaryCheckAt 5120 5760 6400 (checkInterval_join summaryCheckAt 5120 5376 5760 (checkInterval_join summaryCheckAt 5120 5248 5376 converted_checked40 converted_checked41) (checkInterval_join summaryCheckAt 5376 5504 5760 converted_checked42 (checkInterval_join summaryCheckAt 5504 5632 5760 converted_checked43 converted_checked44))) (checkInterval_join summaryCheckAt 5760 6016 6400 (checkInterval_join summaryCheckAt 5760 5888 6016 converted_checked45 converted_checked46) (checkInterval_join summaryCheckAt 6016 6144 6400 converted_checked47 (checkInterval_join summaryCheckAt 6144 6272 6400 converted_checked48 converted_checked49)))) (checkInterval_join summaryCheckAt 6400 7040 7680 (checkInterval_join summaryCheckAt 6400 6656 7040 (checkInterval_join summaryCheckAt 6400 6528 6656 converted_checked50 converted_checked51) (checkInterval_join summaryCheckAt 6656 6784 7040 converted_checked52 (checkInterval_join summaryCheckAt 6784 6912 7040 converted_checked53 converted_checked54))) (checkInterval_join summaryCheckAt 7040 7296 7680 (checkInterval_join summaryCheckAt 7040 7168 7296 converted_checked55 converted_checked56) (checkInterval_join summaryCheckAt 7296 7424 7680 converted_checked57 (checkInterval_join summaryCheckAt 7424 7552 7680 converted_checked58 converted_checked59))))) (checkInterval_join summaryCheckAt 7680 8960 10240 (checkInterval_join summaryCheckAt 7680 8320 8960 (checkInterval_join summaryCheckAt 7680 7936 8320 (checkInterval_join summaryCheckAt 7680 7808 7936 converted_checked60 converted_checked61) (checkInterval_join summaryCheckAt 7936 8064 8320 converted_checked62 (checkInterval_join summaryCheckAt 8064 8192 8320 converted_checked63 converted_checked64))) (checkInterval_join summaryCheckAt 8320 8576 8960 (checkInterval_join summaryCheckAt 8320 8448 8576 converted_checked65 converted_checked66) (checkInterval_join summaryCheckAt 8576 8704 8960 converted_checked67 (checkInterval_join summaryCheckAt 8704 8832 8960 converted_checked68 converted_checked69)))) (checkInterval_join summaryCheckAt 8960 9600 10240 (checkInterval_join summaryCheckAt 8960 9216 9600 (checkInterval_join summaryCheckAt 8960 9088 9216 converted_checked70 converted_checked71) (checkInterval_join summaryCheckAt 9216 9344 9600 converted_checked72 (checkInterval_join summaryCheckAt 9344 9472 9600 converted_checked73 converted_checked74))) (checkInterval_join summaryCheckAt 9600 9856 10240 (checkInterval_join summaryCheckAt 9600 9728 9856 converted_checked75 converted_checked76) (checkInterval_join summaryCheckAt 9856 9984 10240 converted_checked77 (checkInterval_join summaryCheckAt 9984 10112 10240 converted_checked78 converted_checked79))))))) (checkInterval_join summaryCheckAt 10240 15360 20464 (checkInterval_join summaryCheckAt 10240 12800 15360 (checkInterval_join summaryCheckAt 10240 11520 12800 (checkInterval_join summaryCheckAt 10240 10880 11520 (checkInterval_join summaryCheckAt 10240 10496 10880 (checkInterval_join summaryCheckAt 10240 10368 10496 converted_checked80 converted_checked81) (checkInterval_join summaryCheckAt 10496 10624 10880 converted_checked82 (checkInterval_join summaryCheckAt 10624 10752 10880 converted_checked83 converted_checked84))) (checkInterval_join summaryCheckAt 10880 11136 11520 (checkInterval_join summaryCheckAt 10880 11008 11136 converted_checked85 converted_checked86) (checkInterval_join summaryCheckAt 11136 11264 11520 converted_checked87 (checkInterval_join summaryCheckAt 11264 11392 11520 converted_checked88 converted_checked89)))) (checkInterval_join summaryCheckAt 11520 12160 12800 (checkInterval_join summaryCheckAt 11520 11776 12160 (checkInterval_join summaryCheckAt 11520 11648 11776 converted_checked90 converted_checked91) (checkInterval_join summaryCheckAt 11776 11904 12160 converted_checked92 (checkInterval_join summaryCheckAt 11904 12032 12160 converted_checked93 converted_checked94))) (checkInterval_join summaryCheckAt 12160 12416 12800 (checkInterval_join summaryCheckAt 12160 12288 12416 converted_checked95 converted_checked96) (checkInterval_join summaryCheckAt 12416 12544 12800 converted_checked97 (checkInterval_join summaryCheckAt 12544 12672 12800 converted_checked98 converted_checked99))))) (checkInterval_join summaryCheckAt 12800 14080 15360 (checkInterval_join summaryCheckAt 12800 13440 14080 (checkInterval_join summaryCheckAt 12800 13056 13440 (checkInterval_join summaryCheckAt 12800 12928 13056 converted_checked100 converted_checked101) (checkInterval_join summaryCheckAt 13056 13184 13440 converted_checked102 (checkInterval_join summaryCheckAt 13184 13312 13440 converted_checked103 converted_checked104))) (checkInterval_join summaryCheckAt 13440 13696 14080 (checkInterval_join summaryCheckAt 13440 13568 13696 converted_checked105 converted_checked106) (checkInterval_join summaryCheckAt 13696 13824 14080 converted_checked107 (checkInterval_join summaryCheckAt 13824 13952 14080 converted_checked108 converted_checked109)))) (checkInterval_join summaryCheckAt 14080 14720 15360 (checkInterval_join summaryCheckAt 14080 14336 14720 (checkInterval_join summaryCheckAt 14080 14208 14336 converted_checked110 converted_checked111) (checkInterval_join summaryCheckAt 14336 14464 14720 converted_checked112 (checkInterval_join summaryCheckAt 14464 14592 14720 converted_checked113 converted_checked114))) (checkInterval_join summaryCheckAt 14720 14976 15360 (checkInterval_join summaryCheckAt 14720 14848 14976 converted_checked115 converted_checked116) (checkInterval_join summaryCheckAt 14976 15104 15360 converted_checked117 (checkInterval_join summaryCheckAt 15104 15232 15360 converted_checked118 converted_checked119)))))) (checkInterval_join summaryCheckAt 15360 17920 20464 (checkInterval_join summaryCheckAt 15360 16640 17920 (checkInterval_join summaryCheckAt 15360 16000 16640 (checkInterval_join summaryCheckAt 15360 15616 16000 (checkInterval_join summaryCheckAt 15360 15488 15616 converted_checked120 converted_checked121) (checkInterval_join summaryCheckAt 15616 15744 16000 converted_checked122 (checkInterval_join summaryCheckAt 15744 15872 16000 converted_checked123 converted_checked124))) (checkInterval_join summaryCheckAt 16000 16256 16640 (checkInterval_join summaryCheckAt 16000 16128 16256 converted_checked125 converted_checked126) (checkInterval_join summaryCheckAt 16256 16384 16640 converted_checked127 (checkInterval_join summaryCheckAt 16384 16512 16640 converted_checked128 converted_checked129)))) (checkInterval_join summaryCheckAt 16640 17280 17920 (checkInterval_join summaryCheckAt 16640 16896 17280 (checkInterval_join summaryCheckAt 16640 16768 16896 converted_checked130 converted_checked131) (checkInterval_join summaryCheckAt 16896 17024 17280 converted_checked132 (checkInterval_join summaryCheckAt 17024 17152 17280 converted_checked133 converted_checked134))) (checkInterval_join summaryCheckAt 17280 17536 17920 (checkInterval_join summaryCheckAt 17280 17408 17536 converted_checked135 converted_checked136) (checkInterval_join summaryCheckAt 17536 17664 17920 converted_checked137 (checkInterval_join summaryCheckAt 17664 17792 17920 converted_checked138 converted_checked139))))) (checkInterval_join summaryCheckAt 17920 19200 20464 (checkInterval_join summaryCheckAt 17920 18560 19200 (checkInterval_join summaryCheckAt 17920 18176 18560 (checkInterval_join summaryCheckAt 17920 18048 18176 converted_checked140 converted_checked141) (checkInterval_join summaryCheckAt 18176 18304 18560 converted_checked142 (checkInterval_join summaryCheckAt 18304 18432 18560 converted_checked143 converted_checked144))) (checkInterval_join summaryCheckAt 18560 18816 19200 (checkInterval_join summaryCheckAt 18560 18688 18816 converted_checked145 converted_checked146) (checkInterval_join summaryCheckAt 18816 18944 19200 converted_checked147 (checkInterval_join summaryCheckAt 18944 19072 19200 converted_checked148 converted_checked149)))) (checkInterval_join summaryCheckAt 19200 19840 20464 (checkInterval_join summaryCheckAt 19200 19456 19840 (checkInterval_join summaryCheckAt 19200 19328 19456 converted_checked150 converted_checked151) (checkInterval_join summaryCheckAt 19456 19584 19840 converted_checked152 (checkInterval_join summaryCheckAt 19584 19712 19840 converted_checked153 converted_checked154))) (checkInterval_join summaryCheckAt 19840 20096 20464 (checkInterval_join summaryCheckAt 19840 19968 20096 converted_checked155 converted_checked156) (checkInterval_join summaryCheckAt 20096 20224 20464 converted_checked157 (checkInterval_join summaryCheckAt 20224 20352 20464 converted_checked158 converted_checked159))))))))
+theorem converted_correct (key : ℕ) (hk : key< keyCount) :
+    ConvertedOK ThreeBoundOrdinary5591.numericCaps 14 (staticRow key) (convertedValues key):=by
+  apply summarizedConvertedCheck_sound
+  exact checkInterval_sound summaryCheckAt 0 keyCount converted_checked key (Nat.zero_le _) hk
+end ThreeBoundEndpoint22Records
+
+
+end
+end Sensitivity213981Formal
+
+set_option autoImplicit false
+set_option maxHeartbeats 0
+set_option maxRecDepth 200000
+theorem solution :
+∀ (key : Nat) (hk : @LT.lt.{0} Nat instLTNat key Sensitivity213981Formal.ThreeBoundEndpoint22Records.keyCount),
+  Sensitivity213981Formal.ThreeBoundRankCached.ConvertedOK Sensitivity213981Formal.ThreeBoundOrdinary5591.numericCaps
+    (@OfNat.ofNat.{0} Nat (nat_lit 14) (instOfNatNat (nat_lit 14)))
+    (Sensitivity213981Formal.ThreeBoundEndpoint22Records.staticRow key)
+    (Sensitivity213981Formal.ThreeBoundEndpoint22Records.convertedValues key) := @Sensitivity213981Formal.ThreeBoundEndpoint22Records.converted_correct

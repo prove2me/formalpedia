@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_branch_iff_next_one
 -- name    : Erdos261.branch_iff_next_one
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:13.647243+00:00
 -- url     : https://prove2.me/theorems/93099b39-8a51-448e-834b-1fdcd60a7b52
 -- title:

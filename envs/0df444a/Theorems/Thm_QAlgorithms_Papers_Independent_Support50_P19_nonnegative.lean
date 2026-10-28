@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P19_nonnegative
 -- name    : QAlgorithms.Papers.Independent.Support50.P19.nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:29:07.727059+00:00
 -- url     : https://prove2.me/theorems/a0dcd064-ae98-48c5-a941-fddf3ee8bbb0

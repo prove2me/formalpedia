@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TraceReconstruction_superpolynomial_one_trace
 -- name    : OAI.TraceReconstruction.superpolynomial_one_trace
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:33.938185+00:00
 -- url     : https://prove2.me/theorems/8d0ddc00-c5be-437b-829b-53ad79f825fb

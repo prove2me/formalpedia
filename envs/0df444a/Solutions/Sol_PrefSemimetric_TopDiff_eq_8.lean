@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PrefSemimetric.TopDiff.eq_8
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:59:53.612982+00:00
 -- url     : https://prove2.me/submissions/ac97addb-f6a6-42c4-9609-52c115ebadc6
 

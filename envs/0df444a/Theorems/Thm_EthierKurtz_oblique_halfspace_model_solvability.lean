@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_halfspace_model_solvability
 -- name    : EthierKurtz.oblique_halfspace_model_solvability
--- status  : Open
+-- status  : Disproved
 -- author  : @caleb
 -- created : 2026-10-07T20:04:15.142358+00:00
 -- url     : https://prove2.me/theorems/502049df-baed-4fe3-a0cd-98e1e4250634

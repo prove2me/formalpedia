@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivAcq_Central_binding_reduction
 -- name    : PrivAcq.Central.binding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:26:22.737172+00:00
 -- url     : https://prove2.me/theorems/2a64514d-3e69-4fb3-9ad2-89479fda843e

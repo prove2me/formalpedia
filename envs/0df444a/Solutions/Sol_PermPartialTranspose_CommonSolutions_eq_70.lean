@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PermPartialTranspose.CommonSolutions.eq_70
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:11:33.848989+00:00
 -- url     : https://prove2.me/submissions/17866386-1eaa-4c86-89b9-1b6ddd11a8d5
 

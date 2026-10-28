@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P17_stinespring_radon_nikodym
 -- name    : QAlgorithms.Papers.Independent.Support21.P17.stinespring_radon_nikodym
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:38:36.636147+00:00
 -- url     : https://prove2.me/theorems/6f9c27c0-4e9c-469c-94b9-b4c7421a8a1c

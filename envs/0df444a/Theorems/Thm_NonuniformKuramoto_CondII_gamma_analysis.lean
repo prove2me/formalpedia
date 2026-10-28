@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondII_gamma_analysis
 -- name    : NonuniformKuramoto.CondII.gamma_analysis
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:25:32.206196+00:00
 -- url     : https://prove2.me/theorems/470e37d2-7f8d-44d7-98de-b0e69a60ce3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P01_support_dimensions_and_spanning
 -- name    : QAlgorithms.Papers.Independent.Support50.P01.support_dimensions_and_spanning
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:20:23.431793+00:00
 -- url     : https://prove2.me/theorems/ec298c63-510b-4e60-bae6-504f0ab80323

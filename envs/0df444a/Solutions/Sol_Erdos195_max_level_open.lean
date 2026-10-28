@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.max_level_open
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:01.438281+00:00
 -- url     : https://prove2.me/submissions/0c8ae730-e521-482e-9814-142f4c2cf9b5
 

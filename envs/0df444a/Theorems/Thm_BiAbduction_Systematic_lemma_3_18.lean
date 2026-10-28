@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiAbduction_Systematic_lemma_3_18
 -- name    : BiAbduction.Systematic.lemma_3_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:15:08.013099+00:00
 -- url     : https://prove2.me/theorems/51bf9dce-fcb2-46d8-80d8-d4922597ced1

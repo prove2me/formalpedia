@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_even_extension_bound
 -- name    : Erdos195.even_extension_bound
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T16:09:39.711982+00:00
 -- url     : https://prove2.me/theorems/02b9dc41-eb23-42df-ac67-3ee3d654e750
 -- title:

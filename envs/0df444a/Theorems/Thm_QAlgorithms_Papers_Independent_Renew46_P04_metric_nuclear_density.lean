@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_metric_nuclear_density
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.metric_nuclear_density
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:11:28.193534+00:00
 -- url     : https://prove2.me/theorems/b260eb30-ad66-43e6-9f4d-6e3e93c909b4

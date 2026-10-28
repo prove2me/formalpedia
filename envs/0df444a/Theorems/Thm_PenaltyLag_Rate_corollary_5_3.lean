@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PenaltyLag_Rate_corollary_5_3
 -- name    : PenaltyLag.Rate.corollary_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:45:56.713278+00:00
 -- url     : https://prove2.me/theorems/bcd57e76-531b-4838-8a69-cb6cd7dcd134

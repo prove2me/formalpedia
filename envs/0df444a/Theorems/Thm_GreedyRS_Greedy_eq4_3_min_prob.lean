@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Greedy_eq4_3_min_prob
 -- name    : GreedyRS.Greedy.eq4_3_min_prob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:01.129709+00:00
 -- url     : https://prove2.me/theorems/d9d6bfe9-c608-4542-965f-0bced58dcc32

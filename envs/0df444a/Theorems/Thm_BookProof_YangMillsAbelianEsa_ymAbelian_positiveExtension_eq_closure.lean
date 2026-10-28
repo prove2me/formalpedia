@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_ymAbelian_positiveExtension_eq_closure
 -- name    : BookProof.YangMillsAbelianEsa.ymAbelian_positiveExtension_eq_closure
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:42:05.224303+00:00
 -- url     : https://prove2.me/theorems/38976c1a-7f6e-46f1-a2af-b9d89ef42f7d

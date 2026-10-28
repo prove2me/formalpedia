@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeymourMFMC_Binary_parity_decomposition
 -- name    : SeymourMFMC.Binary.parity_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T04:27:34.275089+00:00
 -- url     : https://prove2.me/theorems/e0140ddc-741f-496c-b5f1-d7c6a36968df

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.lifting_criterion_true
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T15:11:23.178832+00:00
 -- url     : https://prove2.me/submissions/62b1351a-879d-4cd2-9c16-a6c05565262d
 

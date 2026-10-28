@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankLocIds
 -- name    : IntMul_Kappa_R8_Data_BitOppbankLocIds
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:46:01.800152+00:00
 -- url     : https://prove2.me/theorems/5a09ccc8-151e-410f-b8af-3be73471cfea
 -- title:

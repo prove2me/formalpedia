@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.indices_gt
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:01.964893+00:00
 -- url     : https://prove2.me/submissions/9ff7e82c-4716-406b-ab10-bd296d1de335
 

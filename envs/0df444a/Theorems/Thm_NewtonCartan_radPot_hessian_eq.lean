@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_radPot_hessian_eq
 -- name    : NewtonCartan.radPot_hessian_eq
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:14:42.783858+00:00
 -- url     : https://prove2.me/theorems/f4ac7715-49a3-44cb-9d9e-f06e5724387b
 -- title:

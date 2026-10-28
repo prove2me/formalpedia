@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Greedy_lemma2_crossing_time
 -- name    : GreedyRS.Greedy.lemma2_crossing_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:59.771836+00:00
 -- url     : https://prove2.me/theorems/70198966-5b7a-489c-9c3f-ef718d2f617a

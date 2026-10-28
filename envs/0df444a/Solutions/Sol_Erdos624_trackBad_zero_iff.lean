@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.trackBad_zero_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:22.787143+00:00
 -- url     : https://prove2.me/submissions/8adf1b66-bbbe-4c0b-8bb1-2973f41e8f46
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToricFoliations_exists_r_add_one_vectors_in_subspace
 -- name    : ToricFoliations.exists_r_add_one_vectors_in_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @hiraeth
 -- created : 2026-10-07T12:31:37.741993+00:00
 -- url     : https://prove2.me/theorems/a79da369-52ce-46aa-9ca2-9ddee98f4229

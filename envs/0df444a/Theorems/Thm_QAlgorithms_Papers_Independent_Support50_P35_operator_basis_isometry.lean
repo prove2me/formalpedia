@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_operator_basis_isometry
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.operator_basis_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:45:28.710988+00:00
 -- url     : https://prove2.me/theorems/1c1bca61-bb06-4abf-b440-53f9091363c2

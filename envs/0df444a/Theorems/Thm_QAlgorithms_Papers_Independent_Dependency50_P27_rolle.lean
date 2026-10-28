@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_rolle
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.rolle
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:45:18.619986+00:00
 -- url     : https://prove2.me/theorems/8fd76925-5b1d-42a5-92f7-4fbb7fed2e64

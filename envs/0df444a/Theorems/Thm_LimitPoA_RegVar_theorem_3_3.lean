@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitPoA_RegVar_theorem_3_3
 -- name    : LimitPoA.RegVar.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:57.230535+00:00
 -- url     : https://prove2.me/theorems/1c18a968-c8e4-4c41-a7e6-1574a2afa5f8

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_doubling_seq_no_three_ap
 -- name    : Erdos195.doubling_seq_no_three_ap
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:21.991976+00:00
 -- url     : https://prove2.me/theorems/757a9b4d-50bb-4b35-a879-8079a2658cc9
 -- title:

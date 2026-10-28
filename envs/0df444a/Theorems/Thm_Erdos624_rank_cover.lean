@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_rank_cover
 -- name    : Erdos624.rank_cover
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:29.319563+00:00
 -- url     : https://prove2.me/theorems/61482708-a842-434c-a0f3-352b33ef299b
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SphericalPerceptron_spherical_linear_field_formula
 -- name    : OAI.SphericalPerceptron.spherical_linear_field_formula
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:24.955892+00:00
 -- url     : https://prove2.me/theorems/7161efee-2085-4fbd-953e-4f52f449aa5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_Potential_theorem_3
 -- name    : AdaptiveStepIPM.Potential.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:02.019617+00:00
 -- url     : https://prove2.me/theorems/46cc3b65-1295-4957-b165-b982bd89a497

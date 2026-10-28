@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_rank_deficiency_labelling
 -- name    : Erdos624.rank_deficiency_labelling
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T05:45:23.083981+00:00
 -- url     : https://prove2.me/theorems/37f350e2-d0ab-4fa2-bed2-95e2075147a7
 -- title:

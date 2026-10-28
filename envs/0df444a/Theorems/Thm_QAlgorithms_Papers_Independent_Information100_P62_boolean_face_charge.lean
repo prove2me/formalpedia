@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_boolean_face_charge
 -- name    : QAlgorithms.Papers.Independent.Information100.P62.boolean_face_charge
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T21:59:21.955183+00:00
 -- url     : https://prove2.me/theorems/5a7a6b51-e86d-43ff-ad3e-e28bda9e275a

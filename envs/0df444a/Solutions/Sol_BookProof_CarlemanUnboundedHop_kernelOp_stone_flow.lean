@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.CarlemanUnboundedHop.kernelOp_stone_flow
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:57:07.885143+00:00
 -- url     : https://prove2.me/submissions/66b81a50-8871-4f4e-b8bc-7e7c3b3d0c08
 

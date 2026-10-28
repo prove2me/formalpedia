@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_General_theorem_2_2_lipschitz
 -- name    : ChanceStateCtrl.General.theorem_2_2_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:21:34.823001+00:00
 -- url     : https://prove2.me/theorems/e80ba5c3-dd46-42e8-93fe-dad6ce007414

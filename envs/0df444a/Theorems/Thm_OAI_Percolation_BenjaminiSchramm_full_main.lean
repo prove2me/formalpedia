@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Percolation_BenjaminiSchramm_full_main
 -- name    : OAI.Percolation.BenjaminiSchramm.full_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:01.70999+00:00
 -- url     : https://prove2.me/theorems/e98a63da-1ea3-40f0-ba06-723609f6a524

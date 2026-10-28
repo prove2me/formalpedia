@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicTorus_unit_cubic_isoperimetric
 -- name    : OAI.CubicTorus.unit_cubic_isoperimetric
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:31.980272+00:00
 -- url     : https://prove2.me/theorems/7989405e-f81a-4649-ac68-84ffe4b3479a

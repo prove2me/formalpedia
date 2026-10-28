@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_eventual_fixed_minor_analytic_upper_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.eventual_fixed_minor_analytic_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T19:19:09.120442+00:00
 -- url     : https://prove2.me/theorems/86967b12-c5cd-4b3c-926f-627a85736630

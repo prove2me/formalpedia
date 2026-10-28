@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_General_proposition_2_6_a
 -- name    : ChanceStateCtrl.General.proposition_2_6_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:52.260848+00:00
 -- url     : https://prove2.me/theorems/7e8a6896-3f4c-4bf6-b8b2-8e2a3eacb55e

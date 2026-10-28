@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedPRS_DRSSmooth_lemma_B_2
 -- name    : RelaxedPRS.DRSSmooth.lemma_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:23:59.596989+00:00
 -- url     : https://prove2.me/theorems/649d9573-6bff-40f6-a86f-c1c5c62c91bc

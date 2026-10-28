@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.OpenAI.RH.poisson_shift
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:14:38.586885+00:00
 -- url     : https://prove2.me/submissions/8cf4e7a7-27b3-417b-b220-c7f6205ce981
 

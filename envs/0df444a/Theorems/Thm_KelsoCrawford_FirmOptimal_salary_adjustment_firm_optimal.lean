@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KelsoCrawford_FirmOptimal_salary_adjustment_firm_optimal
 -- name    : KelsoCrawford.FirmOptimal.salary_adjustment_firm_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:36:27.195416+00:00
 -- url     : https://prove2.me/theorems/3381d960-4e13-4cf3-a99f-cb82e708fd22

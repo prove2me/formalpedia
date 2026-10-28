@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothAmbEq_Gaussian_step_6_continuity
 -- name    : SmoothAmbEq.Gaussian.step_6_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:37.308153+00:00
 -- url     : https://prove2.me/theorems/d2d48379-8247-4909-84bd-76b6452ec3fc

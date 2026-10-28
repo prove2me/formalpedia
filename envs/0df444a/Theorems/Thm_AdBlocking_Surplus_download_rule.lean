@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlocking_Surplus_download_rule
 -- name    : AdBlocking.Surplus.download_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:39.333661+00:00
 -- url     : https://prove2.me/theorems/2322abee-ce6c-4558-abc4-3424ab385bf3

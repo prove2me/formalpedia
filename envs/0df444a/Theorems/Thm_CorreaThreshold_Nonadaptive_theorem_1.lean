@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Nonadaptive_theorem_1
 -- name    : CorreaThreshold.Nonadaptive.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:13.507266+00:00
 -- url     : https://prove2.me/theorems/5588aae2-5b91-452f-94f0-f3389bbc5349

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_EFG_lemma4_crossing_time
 -- name    : GreedyRS.EFG.lemma4_crossing_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:42.736013+00:00
 -- url     : https://prove2.me/theorems/6658e860-708a-4cf7-820b-fe8ea4884a70

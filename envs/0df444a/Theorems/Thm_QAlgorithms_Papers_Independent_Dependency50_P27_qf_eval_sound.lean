@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_qf_eval_sound
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.qf_eval_sound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:58:02.293834+00:00
 -- url     : https://prove2.me/theorems/87798769-b7ff-40f3-b7c6-59b94eb403f4

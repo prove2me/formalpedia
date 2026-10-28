@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsD_dir_deriv_is_pos_homog_mconvex
 -- name    : DiscreteConvex.MConvexFunctionsD.dir_deriv_is_pos_homog_mconvex
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:58:00.574406+00:00
 -- url     : https://prove2.me/theorems/983ebc44-4f4b-4f3b-baeb-a22eb3b12240

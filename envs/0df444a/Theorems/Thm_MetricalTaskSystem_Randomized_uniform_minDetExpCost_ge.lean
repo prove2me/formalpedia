@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Randomized_uniform_minDetExpCost_ge
 -- name    : MetricalTaskSystem.Randomized.uniform_minDetExpCost_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:19:51.125956+00:00
 -- url     : https://prove2.me/theorems/ac0f52ed-e0e5-41d4-bd92-8b2041aa80f1

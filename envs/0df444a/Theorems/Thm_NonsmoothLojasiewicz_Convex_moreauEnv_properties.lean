@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Convex_moreauEnv_properties
 -- name    : NonsmoothLojasiewicz.Convex.moreauEnv_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:12:35.568508+00:00
 -- url     : https://prove2.me/theorems/c5b12e20-c5d7-434d-9ada-e15df80595db

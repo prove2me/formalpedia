@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsD_pos_homog_induces_distance
 -- name    : DiscreteConvex.MConvexFunctionsD.pos_homog_induces_distance
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:58:50.69988+00:00
 -- url     : https://prove2.me/theorems/b3631673-0382-4021-8966-b105f4ac6c5b

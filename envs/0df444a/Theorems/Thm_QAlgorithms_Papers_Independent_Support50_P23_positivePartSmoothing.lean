@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_positivePartSmoothing
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.positivePartSmoothing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:04:59.347927+00:00
 -- url     : https://prove2.me/theorems/5c6ecb30-dfa4-4894-b889-2f621d5cab66

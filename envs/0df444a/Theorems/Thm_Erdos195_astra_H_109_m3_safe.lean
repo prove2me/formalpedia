@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_astra_H_109_m3_safe
 -- name    : Erdos195.astra_H_109_m3_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T15:32:34.780208+00:00
 -- url     : https://prove2.me/theorems/b61fd081-3942-42fc-812d-3e1d0ec63d6f
 -- title:

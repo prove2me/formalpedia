@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSchedPrec_CMNS_critical_chain_lower_bound
 -- name    : StochSchedPrec.CMNS.critical_chain_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:54:19.669367+00:00
 -- url     : https://prove2.me/theorems/b43636c2-2677-4629-9c8d-71dd28110172

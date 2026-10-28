@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_quintessence_hubble_derivative
 -- name    : DarkEnergyLCDM.quintessence_hubble_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:07:18.4418+00:00
 -- url     : https://prove2.me/theorems/373f1a7a-cadb-4ceb-871d-60d3fceaeb41

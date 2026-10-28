@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSPConvex_CMM_S_T_loewner_concave
 -- name    : BSPConvex.CMM.S_T_loewner_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:41.906607+00:00
 -- url     : https://prove2.me/theorems/4d31c3de-464f-49ea-9454-d0d0b8f4c686

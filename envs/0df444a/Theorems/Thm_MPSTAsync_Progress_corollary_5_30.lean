@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPSTAsync_Progress_corollary_5_30
 -- name    : MPSTAsync.Progress.corollary_5_30
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:18:43.500662+00:00
 -- url     : https://prove2.me/theorems/86b68a94-38a3-48d1-bd3c-15d9e752cfb1

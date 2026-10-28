@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_squashed_convex
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.squashed_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:03:41.407145+00:00
 -- url     : https://prove2.me/theorems/90380a58-c738-4662-94d3-a303281a7e4e

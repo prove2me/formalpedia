@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_pstar_two_four_aux
 -- name    : Erdos195.pstar_two_four_aux
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:41:53.202231+00:00
 -- url     : https://prove2.me/theorems/9f2efbef-e926-4644-8453-a5ac53659ee2
 -- title:

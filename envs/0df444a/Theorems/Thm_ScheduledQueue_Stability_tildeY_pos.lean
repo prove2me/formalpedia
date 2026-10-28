@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_tildeY_pos
 -- name    : ScheduledQueue.Stability.tildeY_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:04.172401+00:00
 -- url     : https://prove2.me/theorems/2e68e8ec-4cb4-432f-914a-8560542e870e

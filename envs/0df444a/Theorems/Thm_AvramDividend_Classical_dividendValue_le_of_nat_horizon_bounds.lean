@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_dividendValue_le_of_nat_horizon_bounds
 -- name    : AvramDividend.Classical.dividendValue_le_of_nat_horizon_bounds
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-07T06:26:07.975437+00:00
 -- url     : https://prove2.me/theorems/1a2e7cf5-7e35-4067-ae62-20b8c49d102f

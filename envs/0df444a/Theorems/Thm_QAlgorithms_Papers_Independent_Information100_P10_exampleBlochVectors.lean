@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P10_exampleBlochVectors
 -- name    : QAlgorithms.Papers.Independent.Information100.P10.exampleBlochVectors
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:41:08.929968+00:00
 -- url     : https://prove2.me/theorems/7de585f4-d295-4cb1-9fa7-70685dc3e228

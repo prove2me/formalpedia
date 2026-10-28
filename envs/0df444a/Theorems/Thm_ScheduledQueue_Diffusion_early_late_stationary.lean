@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Diffusion_early_late_stationary
 -- name    : ScheduledQueue.Diffusion.early_late_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:06.214986+00:00
 -- url     : https://prove2.me/theorems/17388786-853e-4277-9cbb-93a9d2f8f299

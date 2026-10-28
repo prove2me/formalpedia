@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HetExponomial_ChoiceProb_first_integral
 -- name    : HetExponomial.ChoiceProb.first_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:30:47.176117+00:00
 -- url     : https://prove2.me/theorems/65c16811-426c-412b-b4b9-f5da276279f5

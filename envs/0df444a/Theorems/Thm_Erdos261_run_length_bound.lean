@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_run_length_bound
 -- name    : Erdos261.run_length_bound
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:08.529364+00:00
 -- url     : https://prove2.me/theorems/88b23b4d-eb77-4b7b-bffb-8906316ced45
 -- title:

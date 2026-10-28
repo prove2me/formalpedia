@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_renyi_properties
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.renyi_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T18:56:02.468993+00:00
 -- url     : https://prove2.me/theorems/d876b9b1-d41d-466e-b4f1-234d3a03aa83

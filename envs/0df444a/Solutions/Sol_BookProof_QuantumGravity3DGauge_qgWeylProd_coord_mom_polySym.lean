@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.QuantumGravity3DGauge.qgWeylProd_coord_mom_polySym
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T04:40:29.354116+00:00
 -- url     : https://prove2.me/submissions/ca8fcb05-78d8-477e-96da-f8c41872a471
 

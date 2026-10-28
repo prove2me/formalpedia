@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P01_proposition_2_2
 -- name    : QAlgorithms.Papers.Independent.Gap48.P01.proposition_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:41:56.784327+00:00
 -- url     : https://prove2.me/theorems/0baa1303-14da-4341-958f-903b7e216f6f

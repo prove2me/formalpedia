@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P43_intrinsicSubadditivity
 -- name    : QAlgorithms.Papers.Independent.Renew46.P43.intrinsicSubadditivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T07:00:08.833113+00:00
 -- url     : https://prove2.me/theorems/66ff9cfc-19af-4b67-b145-309e842f5ba6

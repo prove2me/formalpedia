@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Est_robustLPSol_isOptimal
 -- name    : RobustSpecClust.Est.robustLPSol_isOptimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:25.314994+00:00
 -- url     : https://prove2.me/theorems/c79cc73c-c2cd-4dc3-a5d7-0391fa3c6a5d

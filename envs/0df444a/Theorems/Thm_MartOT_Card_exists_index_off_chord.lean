@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Card_exists_index_off_chord
 -- name    : MartOT.Card.exists_index_off_chord
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:22.234981+00:00
 -- url     : https://prove2.me/theorems/4bec1e48-2b4d-4022-affb-96316ca70749

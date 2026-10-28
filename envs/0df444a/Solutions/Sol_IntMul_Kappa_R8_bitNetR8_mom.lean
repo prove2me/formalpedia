@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.bitNetR8_mom
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:25:38.271989+00:00
 -- url     : https://prove2.me/submissions/c504eb41-1312-46cf-a073-ccb4cb46615c
 -- note    : a sketch -- it imports a theorem that is still Open,

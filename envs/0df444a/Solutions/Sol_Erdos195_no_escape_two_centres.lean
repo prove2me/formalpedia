@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.no_escape_two_centres
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:07:27.052371+00:00
 -- url     : https://prove2.me/submissions/2fee379a-8181-424a-b9ff-1443cf605c9d
 

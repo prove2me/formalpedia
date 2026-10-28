@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P44_compact_positive_marginal_slices
 -- name    : QAlgorithms.Papers.Independent.Support50.P44.compact_positive_marginal_slices
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:03:53.47767+00:00
 -- url     : https://prove2.me/theorems/60478d4e-7511-420d-8fa8-1a871ceac008

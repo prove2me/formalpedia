@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.odd_two_letter_mod4_target
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:17:04.765976+00:00
 -- url     : https://prove2.me/submissions/b0259f8a-22c5-45ac-b988-a31af2d6c023
 

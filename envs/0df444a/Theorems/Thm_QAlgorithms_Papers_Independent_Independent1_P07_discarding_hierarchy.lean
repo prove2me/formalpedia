@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_discarding_hierarchy
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.discarding_hierarchy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:48:28.483184+00:00
 -- url     : https://prove2.me/theorems/731b0fe2-91b8-4087-b47a-790402eba712

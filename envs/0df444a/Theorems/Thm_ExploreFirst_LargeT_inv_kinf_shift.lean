@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_LargeT_inv_kinf_shift
 -- name    : ExploreFirst.LargeT.inv_kinf_shift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:13:34.559126+00:00
 -- url     : https://prove2.me/theorems/a9584e4f-f379-48a5-bec6-2d08cd7af373

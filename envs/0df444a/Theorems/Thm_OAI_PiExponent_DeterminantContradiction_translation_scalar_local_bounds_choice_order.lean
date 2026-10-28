@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_translation_scalar_local_bounds_choice_order
 -- name    : OAI.PiExponent.DeterminantContradiction.translation_scalar_local_bounds_choice_order
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:15:29.722824+00:00
 -- url     : https://prove2.me/theorems/74160507-e69a-460f-ad77-63267693bb48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_ergodic_recurrence
 -- name    : ScheduledQueue.Stability.ergodic_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:16.925074+00:00
 -- url     : https://prove2.me/theorems/f8a85fc2-081b-408e-bf89-4c0afa13e143

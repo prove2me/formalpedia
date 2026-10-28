@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.no_symmetric_completion
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:12:23.952983+00:00
 -- url     : https://prove2.me/submissions/d1d1abde-a0f4-42ee-a1a4-8421ee2083cd
 

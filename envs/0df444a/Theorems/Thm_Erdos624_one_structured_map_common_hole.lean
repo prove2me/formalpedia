@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_one_structured_map_common_hole
 -- name    : Erdos624.one_structured_map_common_hole
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:34.27023+00:00
 -- url     : https://prove2.me/theorems/67a0b41e-7df1-4bf7-9513-d9639b30151e
 -- title:

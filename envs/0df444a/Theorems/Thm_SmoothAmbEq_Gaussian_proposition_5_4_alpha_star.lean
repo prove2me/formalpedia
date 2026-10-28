@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothAmbEq_Gaussian_proposition_5_4_alpha_star
 -- name    : SmoothAmbEq.Gaussian.proposition_5_4_alpha_star
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:13.013392+00:00
 -- url     : https://prove2.me/theorems/199d3a40-f807-4414-a17c-e2617a83656b

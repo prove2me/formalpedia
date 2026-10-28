@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_General_eq_17_19_radius
 -- name    : ChanceStateCtrl.General.eq_17_19_radius
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:21:30.404797+00:00
 -- url     : https://prove2.me/theorems/882ebe38-98f9-4fe4-a023-26621715f1c3

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.two_letter_tree_extension
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:17:46.453044+00:00
 -- url     : https://prove2.me/submissions/33b1439b-2184-427b-9f64-fa8b06291fe4
 

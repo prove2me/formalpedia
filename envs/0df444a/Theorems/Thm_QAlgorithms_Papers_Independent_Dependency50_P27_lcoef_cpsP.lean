@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_lcoef_cpsP
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.lcoef_cpsP
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:58:47.020978+00:00
 -- url     : https://prove2.me/theorems/1c6de208-ae8e-49e9-95d2-721acc5326a1

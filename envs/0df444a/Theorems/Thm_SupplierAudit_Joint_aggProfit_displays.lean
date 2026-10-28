@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierAudit_Joint_aggProfit_displays
 -- name    : SupplierAudit.Joint.aggProfit_displays
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:31:23.849987+00:00
 -- url     : https://prove2.me/theorems/5cc70019-9291-4ef5-bad9-fb8e5287036f

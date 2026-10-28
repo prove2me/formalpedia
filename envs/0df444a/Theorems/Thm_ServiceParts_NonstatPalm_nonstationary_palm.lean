@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_NonstatPalm_nonstationary_palm
 -- name    : ServiceParts.NonstatPalm.nonstationary_palm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:57:17.251659+00:00
 -- url     : https://prove2.me/theorems/20afa2d8-76f3-4b22-b6cb-2f7acb62c1c1

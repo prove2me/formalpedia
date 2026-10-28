@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SGDKaczmarz.SGD.lemma_A_1
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:27:22.726849+00:00
 -- url     : https://prove2.me/submissions/09c93825-525d-472f-869b-c6ee054ea616
 

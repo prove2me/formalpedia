@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskAverseSDDP_Subdiff_normalCone_C1
 -- name    : RiskAverseSDDP.Subdiff.normalCone_C1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T04:31:47.295647+00:00
 -- url     : https://prove2.me/theorems/df37b7dd-15a8-4a0a-8dbc-99c8434c1903

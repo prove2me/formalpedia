@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ADH2015_twoQubit_example
 -- name    : ADH2015.twoQubit_example
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-09T10:05:21.414189+00:00
 -- url     : https://prove2.me/theorems/5bfead40-857f-4cf7-bffc-7d111a994654

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleLengthsExp_BetaGraph_condition_1_claim_1
 -- name    : CycleLengthsExp.BetaGraph.condition_1_claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:24:20.32868+00:00
 -- url     : https://prove2.me/theorems/7bfd018d-beca-4b5a-a1cb-3d50eedae442

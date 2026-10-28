@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisonReimanRBM_Orthant_veinott_scaling
 -- name    : HarrisonReimanRBM.Orthant.veinott_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:22:42.376375+00:00
 -- url     : https://prove2.me/theorems/cfadeede-7c8a-43ee-876e-578c69ae10cf

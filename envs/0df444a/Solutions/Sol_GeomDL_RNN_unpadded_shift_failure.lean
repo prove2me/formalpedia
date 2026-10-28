@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.RNN.unpadded_shift_failure
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:33:50.684227+00:00
 -- url     : https://prove2.me/submissions/b9bb0e1a-074d-4cd4-8d2a-74ea7567919d
 

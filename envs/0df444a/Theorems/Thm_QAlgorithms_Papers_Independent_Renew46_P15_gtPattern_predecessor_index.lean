@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P15_gtPattern_predecessor_index
 -- name    : QAlgorithms.Papers.Independent.Renew46.P15.gtPattern_predecessor_index
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:18:04.06838+00:00
 -- url     : https://prove2.me/theorems/689fc6fb-afbf-41ae-801c-03db600018ba

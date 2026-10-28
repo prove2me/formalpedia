@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Duality_cover_step_5_8
 -- name    : PathsTreesFlowers.Duality.cover_step_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:48:52.975696+00:00
 -- url     : https://prove2.me/theorems/092472dd-0c7f-4de7-954d-f8d03d329626

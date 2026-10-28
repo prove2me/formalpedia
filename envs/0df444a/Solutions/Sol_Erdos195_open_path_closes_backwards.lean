@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_path_closes_backwards
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T22:32:37.375042+00:00
 -- url     : https://prove2.me/submissions/2b473a79-b332-4cdc-916a-ed9c7f92c03b
 

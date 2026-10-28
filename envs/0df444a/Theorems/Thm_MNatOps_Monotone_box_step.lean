@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNatOps_Monotone_box_step
 -- name    : MNatOps.Monotone.box_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:39.232285+00:00
 -- url     : https://prove2.me/theorems/dd3568ae-b724-4279-b210-048d917a3ea7

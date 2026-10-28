@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.H1_no_even_only_extension
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T16:09:56.868978+00:00
 -- url     : https://prove2.me/submissions/af36102b-18a0-4e8e-a106-342e77662a11
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MyersonAuction_Optimal_optimal_auction_theorem
 -- name    : MyersonAuction.Optimal.optimal_auction_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:59:51.462073+00:00
 -- url     : https://prove2.me/theorems/41835a77-1aa7-44f3-af3e-27398145a10d

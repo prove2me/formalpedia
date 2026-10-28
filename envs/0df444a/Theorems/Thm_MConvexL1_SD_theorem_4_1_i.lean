@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MConvexL1_SD_theorem_4_1_i
 -- name    : MConvexL1.SD.theorem_4_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:45:52.594452+00:00
 -- url     : https://prove2.me/theorems/29623179-6134-47b9-87a8-1f42c34c1c60

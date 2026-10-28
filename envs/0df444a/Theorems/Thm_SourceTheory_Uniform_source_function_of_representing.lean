@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_Uniform_source_function_of_representing
 -- name    : SourceTheory.Uniform.source_function_of_representing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:23.286558+00:00
 -- url     : https://prove2.me/theorems/49f221d7-f4c2-4fa4-a3ee-ef9cb3dd2c11

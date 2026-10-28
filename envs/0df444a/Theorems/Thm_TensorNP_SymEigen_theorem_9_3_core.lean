@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_SymEigen_theorem_9_3_core
 -- name    : TensorNP.SymEigen.theorem_9_3_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:39.187003+00:00
 -- url     : https://prove2.me/theorems/a9b36b48-e00b-40d2-b41b-4f7076f62ca2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralSparsify_Decomp_theorem_7_1
 -- name    : SpectralSparsify.Decomp.theorem_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:35:29.869233+00:00
 -- url     : https://prove2.me/theorems/706a3e79-13c9-45b7-9a00-55bab4d938da

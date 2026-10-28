@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_relativeEntropy_sandwich
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.relativeEntropy_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:46:02.099774+00:00
 -- url     : https://prove2.me/theorems/21d63d5e-3907-4031-9d24-c09a49572d0c

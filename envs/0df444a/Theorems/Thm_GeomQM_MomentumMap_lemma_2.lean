@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomQM_MomentumMap_lemma_2
 -- name    : GeomQM.MomentumMap.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:34.76302+00:00
 -- url     : https://prove2.me/theorems/bc9813c0-4f40-4108-ac2d-3b27c8fa0968

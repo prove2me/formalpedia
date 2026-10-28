@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFOTLMon_Monitor_lemma_3_7
 -- name    : MFOTLMon.Monitor.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:36:36.003159+00:00
 -- url     : https://prove2.me/theorems/981190e3-c3e4-4602-b5ec-a350a37c3d1a

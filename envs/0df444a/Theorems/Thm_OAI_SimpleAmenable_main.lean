@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SimpleAmenable_main
 -- name    : OAI.SimpleAmenable.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:22.006528+00:00
 -- url     : https://prove2.me/theorems/0548f53c-54eb-4d98-86f6-a00778d480bc

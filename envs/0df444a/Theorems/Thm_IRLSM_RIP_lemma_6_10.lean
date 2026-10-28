@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IRLSM_RIP_lemma_6_10
 -- name    : IRLSM.RIP.lemma_6_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:43:19.436499+00:00
 -- url     : https://prove2.me/theorems/702ff92d-28dc-49b4-a767-3803128c9bed

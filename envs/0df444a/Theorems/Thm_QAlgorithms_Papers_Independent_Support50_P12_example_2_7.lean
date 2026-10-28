@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P12_example_2_7
 -- name    : QAlgorithms.Papers.Independent.Support50.P12.example_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:13:15.001014+00:00
 -- url     : https://prove2.me/theorems/d5940a83-d96f-4cff-8da8-282c7e2761de

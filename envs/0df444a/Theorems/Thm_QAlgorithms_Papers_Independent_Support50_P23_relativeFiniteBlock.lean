@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_relativeFiniteBlock
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.relativeFiniteBlock
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:09:50.962858+00:00
 -- url     : https://prove2.me/theorems/e6d29040-1555-4b01-b8c2-e28bae20a004

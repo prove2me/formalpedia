@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistTransform_Distortion_remark_p4
 -- name    : DistTransform.Distortion.remark_p4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:35.934155+00:00
 -- url     : https://prove2.me/theorems/76d27089-7b50-4485-8d57-f328a9dfd195

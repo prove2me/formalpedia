@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat06_positive_count_ae_cylinder
 -- name    : AvramDividend.Classical.chat06_positive_count_ae_cylinder
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T15:52:54.130985+00:00
 -- url     : https://prove2.me/theorems/99d31ac1-c5c4-42c5-96d1-5b970b70a8da

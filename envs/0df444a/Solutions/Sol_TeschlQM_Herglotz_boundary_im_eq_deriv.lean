@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TeschlQM.Herglotz.boundary_im_eq_deriv
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-07T22:11:51.694459+00:00
 -- url     : https://prove2.me/submissions/348077eb-0aac-42f8-b261-b64c5fd98ebf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_TeschlQM_Herglotz_ae_hasMeasureDeriv_rnDeriv
 import Theorems.Thm_TeschlQM_Herglotz_ae_hasMeasureDeriv_top_singularPart

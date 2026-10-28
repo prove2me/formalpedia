@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochOptForest_ApxRisk_region_identity
 -- name    : StochOptForest.ApxRisk.region_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:28:54.969772+00:00
 -- url     : https://prove2.me/theorems/ed4ffd1d-af42-4f20-ad5c-9345b77d2196

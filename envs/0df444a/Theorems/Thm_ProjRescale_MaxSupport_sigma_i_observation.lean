@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjRescale_MaxSupport_sigma_i_observation
 -- name    : ProjRescale.MaxSupport.sigma_i_observation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:28.889845+00:00
 -- url     : https://prove2.me/theorems/1aa7957e-926c-41b2-93f3-a9596b25e48c

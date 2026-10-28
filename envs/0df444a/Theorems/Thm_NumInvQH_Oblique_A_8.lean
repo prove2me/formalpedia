@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumInvQH_Oblique_A_8
 -- name    : NumInvQH.Oblique.A_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:24:33.461457+00:00
 -- url     : https://prove2.me/theorems/6b86d240-e375-4c27-947b-e06c103cba45

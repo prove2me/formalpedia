@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarhiQAOA_Concentration_summand_abs_le_one
 -- name    : FarhiQAOA.Concentration.summand_abs_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:33:08.811653+00:00
 -- url     : https://prove2.me/theorems/5f1fa6d7-fe4a-4465-9c61-f398f35ae08d

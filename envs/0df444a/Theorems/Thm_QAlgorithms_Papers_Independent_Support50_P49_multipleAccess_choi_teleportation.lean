@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P49_multipleAccess_choi_teleportation
 -- name    : QAlgorithms.Papers.Independent.Support50.P49.multipleAccess_choi_teleportation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:05:21.492669+00:00
 -- url     : https://prove2.me/theorems/ef78aef8-84fd-4eab-9dae-08ab971c96dc

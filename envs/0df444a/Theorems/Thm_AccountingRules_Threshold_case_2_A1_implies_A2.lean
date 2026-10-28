@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccountingRules_Threshold_case_2_A1_implies_A2
 -- name    : AccountingRules.Threshold.case_2_A1_implies_A2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:37.942987+00:00
 -- url     : https://prove2.me/theorems/5bf0b143-dfe9-4c30-b310-9ff3bab8dc47

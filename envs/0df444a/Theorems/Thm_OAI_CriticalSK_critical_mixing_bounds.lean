@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CriticalSK_critical_mixing_bounds
 -- name    : OAI.CriticalSK.critical_mixing_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:30.468365+00:00
 -- url     : https://prove2.me/theorems/82bab5df-c2fb-4aa7-82d3-51851e759cbc

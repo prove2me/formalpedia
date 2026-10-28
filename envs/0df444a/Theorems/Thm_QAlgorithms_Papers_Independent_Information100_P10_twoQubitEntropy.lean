@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P10_twoQubitEntropy
 -- name    : QAlgorithms.Papers.Independent.Information100.P10.twoQubitEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:39:54.826643+00:00
 -- url     : https://prove2.me/theorems/b969ea7d-b7b2-4f83-9a70-dec91c7620d9

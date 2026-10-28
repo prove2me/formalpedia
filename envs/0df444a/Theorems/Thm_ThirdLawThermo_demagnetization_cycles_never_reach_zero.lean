@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThirdLawThermo_demagnetization_cycles_never_reach_zero
 -- name    : ThirdLawThermo.demagnetization_cycles_never_reach_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:56.438327+00:00
 -- url     : https://prove2.me/theorems/cb11ad1d-45fa-4700-a103-e9ab81968797

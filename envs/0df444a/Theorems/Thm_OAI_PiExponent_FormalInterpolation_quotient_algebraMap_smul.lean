@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_quotient_algebraMap_smul
 -- name    : OAI.PiExponent.FormalInterpolation.quotient_algebraMap_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T13:19:53.836557+00:00
 -- url     : https://prove2.me/theorems/27dc44fb-a9f0-4822-88f7-e72f3ebd7a84

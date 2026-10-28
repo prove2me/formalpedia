@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_normal_basis_separation_logarithmic_primitive
 -- name    : OAI.PiExponent.FormalInterpolation.normal_basis_separation_logarithmic_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T23:20:25.90087+00:00
 -- url     : https://prove2.me/theorems/44d294ec-843b-4881-8753-f2957f04181f

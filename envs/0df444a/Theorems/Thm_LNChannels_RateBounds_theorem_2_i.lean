@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_RateBounds_theorem_2_i
 -- name    : LNChannels.RateBounds.theorem_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:51.150094+00:00
 -- url     : https://prove2.me/theorems/5e326eac-7e16-490e-8b96-8cab6bf33e5c

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_pair_reaches_sink
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T23:42:44.942435+00:00
 -- url     : https://prove2.me/submissions/76461277-a523-44fa-9983-0439363586ee
 

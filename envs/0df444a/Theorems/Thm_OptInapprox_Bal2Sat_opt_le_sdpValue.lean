@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_Bal2Sat_opt_le_sdpValue
 -- name    : OptInapprox.Bal2Sat.opt_le_sdpValue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:05.363143+00:00
 -- url     : https://prove2.me/theorems/94fd3fb9-ce74-44c6-9ab4-e73824132b2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedSwitching_HighProb_corollary_6
 -- name    : LimitedSwitching.HighProb.corollary_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:01.158981+00:00
 -- url     : https://prove2.me/theorems/1e1df39d-df43-40e6-9bab-c973ceff21fd

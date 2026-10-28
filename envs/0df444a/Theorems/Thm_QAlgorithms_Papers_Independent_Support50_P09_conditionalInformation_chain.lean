@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_conditionalInformation_chain
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.conditionalInformation_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:01:38.836003+00:00
 -- url     : https://prove2.me/theorems/eebea2fb-625c-4de3-b1e5-e4f78af2565e

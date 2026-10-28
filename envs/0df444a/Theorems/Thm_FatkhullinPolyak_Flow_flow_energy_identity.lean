@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatkhullinPolyak_Flow_flow_energy_identity
 -- name    : FatkhullinPolyak.Flow.flow_energy_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:46:46.749757+00:00
 -- url     : https://prove2.me/theorems/3ce7b05a-c5e1-4add-8945-cc6875bfca1c

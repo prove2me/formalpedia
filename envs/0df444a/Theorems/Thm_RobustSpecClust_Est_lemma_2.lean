@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Est_lemma_2
 -- name    : RobustSpecClust.Est.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:23.91499+00:00
 -- url     : https://prove2.me/theorems/d0fc2bff-5f11-4f0e-93d1-76fa488ecf81

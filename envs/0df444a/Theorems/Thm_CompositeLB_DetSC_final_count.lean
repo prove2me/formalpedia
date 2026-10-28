@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompositeLB_DetSC_final_count
 -- name    : CompositeLB.DetSC.final_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:25:18.111783+00:00
 -- url     : https://prove2.me/theorems/b06e6217-7de6-423b-bab8-598184fa0215

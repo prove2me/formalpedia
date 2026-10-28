@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_carry_iff
 -- name    : Erdos261.carry_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:46:52.9873+00:00
 -- url     : https://prove2.me/theorems/1a90f332-c228-41c6-8d57-40c5c3f8465a
 -- title:

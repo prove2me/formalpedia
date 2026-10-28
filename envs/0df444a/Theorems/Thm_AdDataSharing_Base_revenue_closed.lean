@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdDataSharing_Base_revenue_closed
 -- name    : AdDataSharing.Base.revenue_closed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:02.314823+00:00
 -- url     : https://prove2.me/theorems/a419e7a6-dbdb-4287-bb41-357b8f753f20

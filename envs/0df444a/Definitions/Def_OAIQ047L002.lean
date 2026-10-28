@@ -1,0 +1,3189 @@
+-- Prove2me | Definitions.Def_OAIQ047L002
+-- name    : OAIQ047L002
+-- status  : Definition
+-- author  : @dbenbenn
+-- created : 2026-10-28T06:45:27.080977+00:00
+-- url     : https://prove2.me/theorems/e6312c2f-cda5-4d44-9e6f-74384e147110
+-- title:
+--   Definitions bundle OAIQ047L002 of the split of OpenAI, Uniform stability of the spherical Laughlin gap (result family 269)
+-- statement:
+--   A definitions bundle of the split of OpenAI's proof of `OAI.Laughlin.mainTarget_proved`, carved from OpenAI's openai/math development (OpenAI, *Uniform stability of the spherical Laughlin gap (result family 269)*, OpenAI Math Release, October 5, 2026, result family 269, [github.com/openai/math](https://github.com/openai/math) at commit adc7f12, Apache License 2.0) and ported to Lean 4.33.1 and Mathlib 0df444a. The declarations and their proofs are OpenAI's.
+--
+--   **Contents.** It holds 203 declarations of OpenAI's Lean: 108 definitions, 7 instances and 88 theorems. The definitions and types are `OAI.Laughlin.Fock.euclideanFockHamiltonian`, `OAI.Laughlin.Fock.exteriorRotation`, `OAI.Laughlin.Fock.exteriorScaling`, `OAI.Laughlin.Fock.fourCopyOperator`, `OAI.Laughlin.Fock.fourOccupationCoefficient`, `OAI.Laughlin.Fock.fourOccupationCreate`, `OAI.Laughlin.Fock.fourOccupationEnd`, `OAI.Laughlin.Fock.fourOccupationEquiv`, `OAI.Laughlin.Fock.insertionSign`, `OAI.Laughlin.Fock.limitFourColumn`, `OAI.Laughlin.Fock.limitFourCopyEnd`, `OAI.Laughlin.Fock.limitFourEnd`, `OAI.Laughlin.Fock.limitPairEnd`, `OAI.Laughlin.Fock.limitPairWindow`, `OAI.Laughlin.Fock.localFourOperators`, `OAI.Laughlin.Fock.normalizedTensorExterior`, `OAI.Laughlin.Fock.normalizedTensorReadout`, `OAI.Laughlin.Fock.occupationEuclidean`, `OAI.Laughlin.Fock.occupationNormSq`, `OAI.Laughlin.Fock.occupationQuadratic`, `OAI.Laughlin.Fock.occupationQuadruple`, `OAI.Laughlin.Fock.orbitalDual`, `OAI.Laughlin.Fock.orbitalRotation`, `OAI.Laughlin.Fock.orbitalScaling`, `OAI.Laughlin.Fock.orderedWedge`, `OAI.Laughlin.Fock.pairCreateEnd`, `OAI.Laughlin.Fock.pairEnd`, `OAI.Laughlin.Fock.pairExterior`, `OAI.Laughlin.Fock.physicalFourCopyEnd`, `OAI.Laughlin.Fock.physicalFourOccupationColumns`, `OAI.Laughlin.Fock.physicalLimitGram`, `OAI.Laughlin.Fock.physicalLimitMiddle`, `OAI.Laughlin.Fock.physicalTwoBodyMatrix`, `OAI.Laughlin.Fock.physicalWedgeColumns`, `OAI.Laughlin.Fock.quadrupleEmbedding`, `OAI.Laughlin.Fock.retainedFourAllowance`, `OAI.Laughlin.Fock.retainedFourTarget`, `OAI.Laughlin.Fock.rowOutputMode`, `OAI.Laughlin.Fock.sourceA3Form`, `OAI.Laughlin.Fock.sourceA4Form` and 68 more.
+--
+--   **Sources.** They come from these modules of lean/OAI/Analysis, in whole or in part: `Laughlin_Asymptotics_TruncatedMetricPerturbation`, `Laughlin_Asymptotics_TruncatedScaling`, `Laughlin_Asymptotics_UpperSpinCurve`, `Laughlin_Asymptotics_UpperSpinDynamics`, `Laughlin_Exterior_FourConjugation`, `Laughlin_Exterior_OccupationMetric`, `Laughlin_Exterior_PairConjugation`, `Laughlin_Exterior_Scaling`, `Laughlin_Exterior_SpinAction`, `Laughlin_Exterior_VectorAdjoint`, `Laughlin_Fock_Annihilation`, `Laughlin_Fock_Hamiltonian`, `Laughlin_Fock_PairNormalization`, `Laughlin_Fock_Quadruple`, `Laughlin_Fock_SpectralDistance`, `Laughlin_FourBody_ColumnExpansion`, `Laughlin_FourBody_Copies`, `Laughlin_FourBody_CopyFormAllowance`, `Laughlin_FourBody_CopyOperatorHaar`, `Laughlin_FourBody_CopyOrthogonality`, `Laughlin_FourBody_Expansion`, `Laughlin_FourBody_FockCovariance`, `Laughlin_FourBody_GlobalFock`, `Laughlin_FourBody_GroupIntertwining`, `Laughlin_FourBody_Levels`, `Laughlin_FourBody_LimitCARReadout`, `Laughlin_FourBody_LimitPositive`, `Laughlin_FourBody_OccupationCoefficient`, `Laughlin_FourBody_PhysicalCertificate`, `Laughlin_FourBody_PhysicalColumn`, `Laughlin_FourBody_PhysicalMatrix`, `Laughlin_FourBody_PhysicalSlaterReadout`, `Laughlin_FourBody_RetainedComparison`, `Laughlin_FourBody_RetainedInclusions`, `Laughlin_FourBody_SignedCoordinates`, `Laughlin_FourBody_SliceCoefficient`, `Laughlin_FourBody_Square`, `Laughlin_FourBody_TensorIntertwining`, `Laughlin_FourBody_TransferConjugation`, `Laughlin_FourBody_Ungroup`, `Laughlin_FourBody_WedgeCompression`, `Laughlin_FourBody_WeightedReadout`, `Laughlin_Operators_CollectionAnnihilatorBound`, `Laughlin_Operators_FourOccupationEquiv`, `Laughlin_Operators_PhysicalPairRotation`, `Laughlin_Operators_SevenSquareAverage`, `Laughlin_Operators_TruncatedFourCopy`, `Laughlin_Operators_WedgePairRepresentation`, `Laughlin_Operators_WedgePairRotation`, `Laughlin_Pair_CoupledBasis`, `Laughlin_Pair_CoupledIsometry`, `Laughlin_Pair_CoupledParity`, `Laughlin_Pair_ExteriorRotation`, `Laughlin_Polynomial_AntisymmetricCoordinates`, `Laughlin_Spin_Array`, `Laughlin_Spin_Basic`, `Laughlin_Spin_BinomialWeights`, `Laughlin_Spin_Compact`, `Laughlin_Spin_Endpoint`, `Laughlin_Spin_GenericNormalizedLadder`, `Laughlin_Spin_GenericOrthogonality`, `Laughlin_Spin_Haar`, `Laughlin_Spin_Highest2`, `Laughlin_Spin_HighestSpace`, `Laughlin_Spin_Intertwining`, `Laughlin_Spin_LadderGroupIntertwining`, `Laughlin_Spin_LadderMatrix`, `Laughlin_Spin_Mixing`, `Laughlin_Spin_Representation`, `Laughlin_Spin_Sl2DescendantNorm`, `Laughlin_Spin_Sl2Matrix`, `Laughlin_Spin_Support`, `Laughlin_Spin_TensorAction`, `Laughlin_Spin_Torus`, `Laughlin_Spin_TotalSl2Matrix`, `Laughlin_Spin_TripleLadderIntertwining`, `Laughlin_Spin_TwoBodyCertificateHaar`, `Laughlin_Spin_WeightSlice`, `Laughlin_Tensor_ExteriorAdjoint`, `Laughlin_Tensor_ExteriorContraction`, `Laughlin_Tensor_ExteriorIsometry`, `Laughlin_Tensor_ExteriorRotation`, `Laughlin_ThreeBody_FockHaar`, `Laughlin_ThreeBody_HighestFock`, `Laughlin_ThreeBody_PairAction`, `Laughlin_ThreeBody_PhysicalKernel`, `Laughlin_ThreeBody_PhysicalMatrix`.
+--
+--   **Imports.** It imports the published bundle `Def_Laughlin`; the bundles `OAIQ047L000` and `OAIQ047L001` of this split.
+--
+--   **Imported by** (directly, in this split): the bundles `OAIQ047L004`, `OAIQ047L009` and `OAIQ047L010`; the statements `OAI_Laughlin_Certificate_candidateLDL_11`, `OAI_Laughlin_Certificate_candidateLDL_12`, `OAI_Laughlin_Certificate_candidateLDL_13`, `OAI_Laughlin_Certificate_candidateLDL_14`, `OAI_Laughlin_Certificate_candidateLDL_15`, `OAI_Laughlin_Certificate_candidateLDL_16`, `OAI_Laughlin_Certificate_candidateLDL_17`, `OAI_Laughlin_Certificate_candidateLDL_18`, `OAI_Laughlin_Certificate_candidateLDL_19`, `OAI_Laughlin_Certificate_candidateLDL_20`, `OAI_Laughlin_Certificate_candidateLDL_21`, `OAI_Laughlin_Certificate_candidateLDL_22`, `OAI_Laughlin_Certificate_computeLDL_12_2_4`, `OAI_Laughlin_Certificate_computeLDL_12_2_5`, `OAI_Laughlin_Certificate_computeLDL_12_3_0`, `OAI_Laughlin_Certificate_computeLDL_12_3_1`, `OAI_Laughlin_Certificate_computeLDL_12_3_2`, `OAI_Laughlin_Certificate_computeLDL_12_3_3`, `OAI_Laughlin_Certificate_computeLDL_12_3_4`, `OAI_Laughlin_Certificate_computeLDL_12_3_5`, `OAI_Laughlin_Certificate_computeLDL_12_4_0`, `OAI_Laughlin_Certificate_computeLDL_12_4_1`, `OAI_Laughlin_Certificate_computeLDL_12_4_2`, `OAI_Laughlin_Certificate_computeLDL_12_4_3`, `OAI_Laughlin_Certificate_computeLDL_12_4_4`, `OAI_Laughlin_Certificate_computeLDL_12_4_5`, `OAI_Laughlin_Certificate_computeLDL_12_5_0`, `OAI_Laughlin_Certificate_computeLDL_12_5_1`, `OAI_Laughlin_Certificate_computeLDL_12_5_2`, `OAI_Laughlin_Certificate_computeLDL_12_5_3`, `OAI_Laughlin_Certificate_computeLDL_12_5_4`, `OAI_Laughlin_Certificate_computeLDL_12_5_5`, `OAI_Laughlin_Certificate_computeLDL_13_2_4`, `OAI_Laughlin_Certificate_computeLDL_13_2_5`, `OAI_Laughlin_Certificate_computeLDL_13_2_6`, `OAI_Laughlin_Certificate_computeLDL_13_3_0`, `OAI_Laughlin_Certificate_computeLDL_13_3_1`, `OAI_Laughlin_Certificate_computeLDL_13_3_2`, `OAI_Laughlin_Certificate_computeLDL_13_3_3`, `OAI_Laughlin_Certificate_computeLDL_13_3_4`, `OAI_Laughlin_Certificate_computeLDL_13_3_5`, `OAI_Laughlin_Certificate_computeLDL_13_3_6`, `OAI_Laughlin_Certificate_computeLDL_13_4_0`, `OAI_Laughlin_Certificate_computeLDL_13_4_1`, `OAI_Laughlin_Certificate_computeLDL_13_4_2`, `OAI_Laughlin_Certificate_computeLDL_13_4_3`, `OAI_Laughlin_Certificate_computeLDL_13_4_4`, `OAI_Laughlin_Certificate_computeLDL_13_4_5`, `OAI_Laughlin_Certificate_computeLDL_13_4_6`, `OAI_Laughlin_Certificate_computeLDL_13_5_0`, `OAI_Laughlin_Certificate_computeLDL_13_5_1`, `OAI_Laughlin_Certificate_computeLDL_13_5_2`, `OAI_Laughlin_Certificate_computeLDL_13_5_3`, `OAI_Laughlin_Certificate_computeLDL_13_5_4`, `OAI_Laughlin_Certificate_computeLDL_13_5_5`, `OAI_Laughlin_Certificate_computeLDL_13_5_6`, `OAI_Laughlin_Certificate_computeLDL_13_6_0`, `OAI_Laughlin_Certificate_computeLDL_13_6_1`, `OAI_Laughlin_Certificate_computeLDL_13_6_2`, `OAI_Laughlin_Certificate_computeLDL_13_6_3`, `OAI_Laughlin_Certificate_computeLDL_13_6_4`, `OAI_Laughlin_Certificate_computeLDL_13_6_5`, `OAI_Laughlin_Certificate_computeLDL_13_6_6`, `OAI_Laughlin_Certificate_computeLDL_14_2_4`, `OAI_Laughlin_Certificate_computeLDL_14_2_5`, `OAI_Laughlin_Certificate_computeLDL_14_2_6`, `OAI_Laughlin_Certificate_computeLDL_14_3_0`, `OAI_Laughlin_Certificate_computeLDL_14_3_1`, `OAI_Laughlin_Certificate_computeLDL_14_3_2`, `OAI_Laughlin_Certificate_computeLDL_14_3_3`, `OAI_Laughlin_Certificate_computeLDL_14_3_4`, `OAI_Laughlin_Certificate_computeLDL_14_3_5`, `OAI_Laughlin_Certificate_computeLDL_14_3_6`, `OAI_Laughlin_Certificate_computeLDL_14_4_0`, `OAI_Laughlin_Certificate_computeLDL_14_4_1`, `OAI_Laughlin_Certificate_computeLDL_14_4_2`, `OAI_Laughlin_Certificate_computeLDL_14_4_3`, `OAI_Laughlin_Certificate_computeLDL_14_4_4`, `OAI_Laughlin_Certificate_computeLDL_14_4_5`, `OAI_Laughlin_Certificate_computeLDL_14_4_6`, `OAI_Laughlin_Certificate_computeLDL_14_5_0`, `OAI_Laughlin_Certificate_computeLDL_14_5_1`, `OAI_Laughlin_Certificate_computeLDL_14_5_2`, `OAI_Laughlin_Certificate_computeLDL_14_5_3`, `OAI_Laughlin_Certificate_computeLDL_14_5_4`, `OAI_Laughlin_Certificate_computeLDL_14_5_5`, `OAI_Laughlin_Certificate_computeLDL_14_5_6`, `OAI_Laughlin_Certificate_computeLDL_14_6_0`, `OAI_Laughlin_Certificate_computeLDL_14_6_1`, `OAI_Laughlin_Certificate_computeLDL_14_6_2`, `OAI_Laughlin_Certificate_computeLDL_14_6_3`, `OAI_Laughlin_Certificate_computeLDL_14_6_4`, `OAI_Laughlin_Certificate_computeLDL_14_6_5`, `OAI_Laughlin_Certificate_computeLDL_14_6_6`, `OAI_Laughlin_Certificate_computeLDL_15_2_5`, `OAI_Laughlin_Certificate_computeLDL_15_2_6`, `OAI_Laughlin_Certificate_computeLDL_15_2_7`, `OAI_Laughlin_Certificate_computeLDL_15_3_0`, `OAI_Laughlin_Certificate_computeLDL_15_3_1`, `OAI_Laughlin_Certificate_computeLDL_15_3_2`, `OAI_Laughlin_Certificate_computeLDL_15_3_3`, `OAI_Laughlin_Certificate_computeLDL_15_3_4`, `OAI_Laughlin_Certificate_computeLDL_15_3_5`, `OAI_Laughlin_Certificate_computeLDL_15_3_6`, `OAI_Laughlin_Certificate_computeLDL_15_3_7`, `OAI_Laughlin_Certificate_computeLDL_15_4_0`, `OAI_Laughlin_Certificate_computeLDL_15_4_1`, `OAI_Laughlin_Certificate_computeLDL_15_4_2`, `OAI_Laughlin_Certificate_computeLDL_15_4_3`, `OAI_Laughlin_Certificate_computeLDL_15_4_4`, `OAI_Laughlin_Certificate_computeLDL_15_4_5`, `OAI_Laughlin_Certificate_computeLDL_15_4_6`, `OAI_Laughlin_Certificate_computeLDL_15_4_7`, `OAI_Laughlin_Certificate_computeLDL_15_5_0`, `OAI_Laughlin_Certificate_computeLDL_15_5_1`, `OAI_Laughlin_Certificate_computeLDL_15_5_2`, `OAI_Laughlin_Certificate_computeLDL_15_5_3`, `OAI_Laughlin_Certificate_computeLDL_15_5_4`, `OAI_Laughlin_Certificate_computeLDL_15_5_5`, `OAI_Laughlin_Certificate_computeLDL_15_5_6`, `OAI_Laughlin_Certificate_computeLDL_15_5_7`, `OAI_Laughlin_Certificate_computeLDL_15_6_0`, `OAI_Laughlin_Certificate_computeLDL_15_6_1`, `OAI_Laughlin_Certificate_computeLDL_15_6_2`, `OAI_Laughlin_Certificate_computeLDL_15_6_3`, `OAI_Laughlin_Certificate_computeLDL_15_6_4`, `OAI_Laughlin_Certificate_computeLDL_15_6_5`, `OAI_Laughlin_Certificate_computeLDL_15_6_6`, `OAI_Laughlin_Certificate_computeLDL_15_6_7`, `OAI_Laughlin_Certificate_computeLDL_15_7_0`, `OAI_Laughlin_Certificate_computeLDL_15_7_1`, `OAI_Laughlin_Certificate_computeLDL_15_7_2`, `OAI_Laughlin_Certificate_computeLDL_15_7_3`, `OAI_Laughlin_Certificate_computeLDL_15_7_4`, `OAI_Laughlin_Certificate_computeLDL_15_7_5`, `OAI_Laughlin_Certificate_computeLDL_15_7_6`, `OAI_Laughlin_Certificate_computeLDL_15_7_7`, `OAI_Laughlin_Certificate_computeLDL_16_2_5`, `OAI_Laughlin_Certificate_computeLDL_16_2_6`, `OAI_Laughlin_Certificate_computeLDL_16_2_7`, `OAI_Laughlin_Certificate_computeLDL_16_3_0`, `OAI_Laughlin_Certificate_computeLDL_16_3_1`, `OAI_Laughlin_Certificate_computeLDL_16_3_2`, `OAI_Laughlin_Certificate_computeLDL_16_3_3`, `OAI_Laughlin_Certificate_computeLDL_16_3_4`, `OAI_Laughlin_Certificate_computeLDL_16_3_5`, `OAI_Laughlin_Certificate_computeLDL_16_3_6`, `OAI_Laughlin_Certificate_computeLDL_16_3_7`, `OAI_Laughlin_Certificate_computeLDL_16_4_0`, `OAI_Laughlin_Certificate_computeLDL_16_4_1`, `OAI_Laughlin_Certificate_computeLDL_16_4_2`, `OAI_Laughlin_Certificate_computeLDL_16_4_3`, `OAI_Laughlin_Certificate_computeLDL_16_4_4`, `OAI_Laughlin_Certificate_computeLDL_16_4_5`, `OAI_Laughlin_Certificate_computeLDL_16_4_6`, `OAI_Laughlin_Certificate_computeLDL_16_4_7`, `OAI_Laughlin_Certificate_computeLDL_16_5_0`, `OAI_Laughlin_Certificate_computeLDL_16_5_1`, `OAI_Laughlin_Certificate_computeLDL_16_5_2`, `OAI_Laughlin_Certificate_computeLDL_16_5_3`, `OAI_Laughlin_Certificate_computeLDL_16_5_4`, `OAI_Laughlin_Certificate_computeLDL_16_5_5`, `OAI_Laughlin_Certificate_computeLDL_16_5_6`, `OAI_Laughlin_Certificate_computeLDL_16_5_7`, `OAI_Laughlin_Certificate_computeLDL_16_6_0`, `OAI_Laughlin_Certificate_computeLDL_16_6_1`, `OAI_Laughlin_Certificate_computeLDL_16_6_2`, `OAI_Laughlin_Certificate_computeLDL_16_6_3`, `OAI_Laughlin_Certificate_computeLDL_16_6_4`, `OAI_Laughlin_Certificate_computeLDL_16_6_5`, `OAI_Laughlin_Certificate_computeLDL_16_6_6`, `OAI_Laughlin_Certificate_computeLDL_16_6_7`, `OAI_Laughlin_Certificate_computeLDL_16_7_0`, `OAI_Laughlin_Certificate_computeLDL_16_7_1`, `OAI_Laughlin_Certificate_computeLDL_16_7_2`, `OAI_Laughlin_Certificate_computeLDL_16_7_3`, `OAI_Laughlin_Certificate_computeLDL_16_7_4`, `OAI_Laughlin_Certificate_computeLDL_16_7_5`, `OAI_Laughlin_Certificate_computeLDL_16_7_6`, `OAI_Laughlin_Certificate_computeLDL_16_7_7`, `OAI_Laughlin_Certificate_computeLDL_17_2_6`, `OAI_Laughlin_Certificate_computeLDL_17_2_7`, `OAI_Laughlin_Certificate_computeLDL_17_2_8`, `OAI_Laughlin_Certificate_computeLDL_17_3_0`, `OAI_Laughlin_Certificate_computeLDL_17_3_1`, `OAI_Laughlin_Certificate_computeLDL_17_3_2`, `OAI_Laughlin_Certificate_computeLDL_17_3_3`, `OAI_Laughlin_Certificate_computeLDL_17_3_4`, `OAI_Laughlin_Certificate_computeLDL_17_3_5`, `OAI_Laughlin_Certificate_computeLDL_17_3_6`, `OAI_Laughlin_Certificate_computeLDL_17_3_7`, `OAI_Laughlin_Certificate_computeLDL_17_3_8`, `OAI_Laughlin_Certificate_computeLDL_17_4_0`, `OAI_Laughlin_Certificate_computeLDL_17_4_1`, `OAI_Laughlin_Certificate_computeLDL_17_4_2`, `OAI_Laughlin_Certificate_computeLDL_17_4_3`, `OAI_Laughlin_Certificate_computeLDL_17_4_4`, `OAI_Laughlin_Certificate_computeLDL_17_4_5`, `OAI_Laughlin_Certificate_computeLDL_17_4_6`, `OAI_Laughlin_Certificate_computeLDL_17_4_7`, `OAI_Laughlin_Certificate_computeLDL_17_4_8`, `OAI_Laughlin_Certificate_computeLDL_17_5_0`, `OAI_Laughlin_Certificate_computeLDL_17_5_1`, `OAI_Laughlin_Certificate_computeLDL_17_5_2`, `OAI_Laughlin_Certificate_computeLDL_17_5_3`, `OAI_Laughlin_Certificate_computeLDL_17_5_4`, `OAI_Laughlin_Certificate_computeLDL_17_5_5`, `OAI_Laughlin_Certificate_computeLDL_17_5_6`, `OAI_Laughlin_Certificate_computeLDL_17_5_7`, `OAI_Laughlin_Certificate_computeLDL_17_5_8`, `OAI_Laughlin_Certificate_computeLDL_17_6_0`, `OAI_Laughlin_Certificate_computeLDL_17_6_1`, `OAI_Laughlin_Certificate_computeLDL_17_6_2`, `OAI_Laughlin_Certificate_computeLDL_17_6_3`, `OAI_Laughlin_Certificate_computeLDL_17_6_4`, `OAI_Laughlin_Certificate_computeLDL_17_6_5`, `OAI_Laughlin_Certificate_computeLDL_17_6_6`, `OAI_Laughlin_Certificate_computeLDL_17_6_7`, `OAI_Laughlin_Certificate_computeLDL_17_6_8`, `OAI_Laughlin_Certificate_computeLDL_17_7_0`, `OAI_Laughlin_Certificate_computeLDL_17_7_1`, `OAI_Laughlin_Certificate_computeLDL_17_7_2`, `OAI_Laughlin_Certificate_computeLDL_17_7_3`, `OAI_Laughlin_Certificate_computeLDL_17_7_4`, `OAI_Laughlin_Certificate_computeLDL_17_7_5`, `OAI_Laughlin_Certificate_computeLDL_17_7_6`, `OAI_Laughlin_Certificate_computeLDL_17_7_7`, `OAI_Laughlin_Certificate_computeLDL_17_7_8`, `OAI_Laughlin_Certificate_computeLDL_17_8_0`, `OAI_Laughlin_Certificate_computeLDL_17_8_1`, `OAI_Laughlin_Certificate_computeLDL_17_8_2`, `OAI_Laughlin_Certificate_computeLDL_17_8_3`, `OAI_Laughlin_Certificate_computeLDL_17_8_4`, `OAI_Laughlin_Certificate_computeLDL_17_8_5`, `OAI_Laughlin_Certificate_computeLDL_17_8_6`, `OAI_Laughlin_Certificate_computeLDL_17_8_7`, `OAI_Laughlin_Certificate_computeLDL_17_8_8`, `OAI_Laughlin_Certificate_computeLDL_18_2_6`, `OAI_Laughlin_Certificate_computeLDL_18_2_7`, `OAI_Laughlin_Certificate_computeLDL_18_2_8`, `OAI_Laughlin_Certificate_computeLDL_18_3_0`, `OAI_Laughlin_Certificate_computeLDL_18_3_1`, `OAI_Laughlin_Certificate_computeLDL_18_3_2`, `OAI_Laughlin_Certificate_computeLDL_18_3_3`, `OAI_Laughlin_Certificate_computeLDL_18_3_4`, `OAI_Laughlin_Certificate_computeLDL_18_3_5`, `OAI_Laughlin_Certificate_computeLDL_18_3_6`, `OAI_Laughlin_Certificate_computeLDL_18_3_7`, `OAI_Laughlin_Certificate_computeLDL_18_3_8`, `OAI_Laughlin_Certificate_computeLDL_18_4_0`, `OAI_Laughlin_Certificate_computeLDL_18_4_1`, `OAI_Laughlin_Certificate_computeLDL_18_4_2`, `OAI_Laughlin_Certificate_computeLDL_18_4_3`, `OAI_Laughlin_Certificate_computeLDL_18_4_4`, `OAI_Laughlin_Certificate_computeLDL_18_4_5`, `OAI_Laughlin_Certificate_computeLDL_18_4_6`, `OAI_Laughlin_Certificate_computeLDL_18_4_7`, `OAI_Laughlin_Certificate_computeLDL_18_4_8`, `OAI_Laughlin_Certificate_computeLDL_18_5_0`, `OAI_Laughlin_Certificate_computeLDL_18_5_1`, `OAI_Laughlin_Certificate_computeLDL_18_5_2`, `OAI_Laughlin_Certificate_computeLDL_18_5_3`, `OAI_Laughlin_Certificate_computeLDL_18_5_4`, `OAI_Laughlin_Certificate_computeLDL_18_5_5`, `OAI_Laughlin_Certificate_computeLDL_18_5_6`, `OAI_Laughlin_Certificate_computeLDL_18_5_7`, `OAI_Laughlin_Certificate_computeLDL_18_5_8`, `OAI_Laughlin_Certificate_computeLDL_18_6_0`, `OAI_Laughlin_Certificate_computeLDL_18_6_1`, `OAI_Laughlin_Certificate_computeLDL_18_6_2`, `OAI_Laughlin_Certificate_computeLDL_18_6_3`, `OAI_Laughlin_Certificate_computeLDL_18_6_4`, `OAI_Laughlin_Certificate_computeLDL_18_6_5`, `OAI_Laughlin_Certificate_computeLDL_18_6_6`, `OAI_Laughlin_Certificate_computeLDL_18_6_7`, `OAI_Laughlin_Certificate_computeLDL_18_6_8`, `OAI_Laughlin_Certificate_computeLDL_18_7_0`, `OAI_Laughlin_Certificate_computeLDL_18_7_1`, `OAI_Laughlin_Certificate_computeLDL_18_7_2`, `OAI_Laughlin_Certificate_computeLDL_18_7_3`, `OAI_Laughlin_Certificate_computeLDL_18_7_4`, `OAI_Laughlin_Certificate_computeLDL_18_7_5`, `OAI_Laughlin_Certificate_computeLDL_18_7_6`, `OAI_Laughlin_Certificate_computeLDL_18_7_7`, `OAI_Laughlin_Certificate_computeLDL_18_7_8`, `OAI_Laughlin_Certificate_computeLDL_18_8_0`, `OAI_Laughlin_Certificate_computeLDL_18_8_1`, `OAI_Laughlin_Certificate_computeLDL_18_8_2`, `OAI_Laughlin_Certificate_computeLDL_18_8_3`, `OAI_Laughlin_Certificate_computeLDL_18_8_4`, `OAI_Laughlin_Certificate_computeLDL_18_8_5`, `OAI_Laughlin_Certificate_computeLDL_18_8_6`, `OAI_Laughlin_Certificate_computeLDL_18_8_7`, `OAI_Laughlin_Certificate_computeLDL_18_8_8`, `OAI_Laughlin_Certificate_computeLDL_19_2_7`, `OAI_Laughlin_Certificate_computeLDL_19_2_8`, `OAI_Laughlin_Certificate_computeLDL_19_2_9`, `OAI_Laughlin_Certificate_computeLDL_19_3_0`, `OAI_Laughlin_Certificate_computeLDL_19_3_1`, `OAI_Laughlin_Certificate_computeLDL_19_3_2`, `OAI_Laughlin_Certificate_computeLDL_19_3_3`, `OAI_Laughlin_Certificate_computeLDL_19_3_4`, `OAI_Laughlin_Certificate_computeLDL_19_3_5`, `OAI_Laughlin_Certificate_computeLDL_19_3_6`, `OAI_Laughlin_Certificate_computeLDL_19_3_7`, `OAI_Laughlin_Certificate_computeLDL_19_3_8`, `OAI_Laughlin_Certificate_computeLDL_19_3_9`, `OAI_Laughlin_Certificate_computeLDL_19_4_0`, `OAI_Laughlin_Certificate_computeLDL_19_4_1`, `OAI_Laughlin_Certificate_computeLDL_19_4_2`, `OAI_Laughlin_Certificate_computeLDL_19_4_3`, `OAI_Laughlin_Certificate_computeLDL_19_4_4`, `OAI_Laughlin_Certificate_computeLDL_19_4_5`, `OAI_Laughlin_Certificate_computeLDL_19_4_6`, `OAI_Laughlin_Certificate_computeLDL_19_4_7`, `OAI_Laughlin_Certificate_computeLDL_19_4_8`, `OAI_Laughlin_Certificate_computeLDL_19_4_9`, `OAI_Laughlin_Certificate_computeLDL_19_5_0`, `OAI_Laughlin_Certificate_computeLDL_19_5_1`, `OAI_Laughlin_Certificate_computeLDL_19_5_2`, `OAI_Laughlin_Certificate_computeLDL_19_5_3`, `OAI_Laughlin_Certificate_computeLDL_19_5_4`, `OAI_Laughlin_Certificate_computeLDL_19_5_5`, `OAI_Laughlin_Certificate_computeLDL_19_5_6`, `OAI_Laughlin_Certificate_computeLDL_19_5_7`, `OAI_Laughlin_Certificate_computeLDL_19_5_8`, `OAI_Laughlin_Certificate_computeLDL_19_5_9`, `OAI_Laughlin_Certificate_computeLDL_19_6_0`, `OAI_Laughlin_Certificate_computeLDL_19_6_1`, `OAI_Laughlin_Certificate_computeLDL_19_6_2`, `OAI_Laughlin_Certificate_computeLDL_19_6_3`, `OAI_Laughlin_Certificate_computeLDL_19_6_4`, `OAI_Laughlin_Certificate_computeLDL_19_6_5`, `OAI_Laughlin_Certificate_computeLDL_19_6_6`, `OAI_Laughlin_Certificate_computeLDL_19_6_7`, `OAI_Laughlin_Certificate_computeLDL_19_6_8`, `OAI_Laughlin_Certificate_computeLDL_19_6_9`, `OAI_Laughlin_Certificate_computeLDL_19_7_0`, `OAI_Laughlin_Certificate_computeLDL_19_7_1`, `OAI_Laughlin_Certificate_computeLDL_19_7_2`, `OAI_Laughlin_Certificate_computeLDL_19_7_3`, `OAI_Laughlin_Certificate_computeLDL_19_7_4`, `OAI_Laughlin_Certificate_computeLDL_19_7_5`, `OAI_Laughlin_Certificate_computeLDL_19_7_6`, `OAI_Laughlin_Certificate_computeLDL_19_7_7`, `OAI_Laughlin_Certificate_computeLDL_19_7_8`, `OAI_Laughlin_Certificate_computeLDL_19_7_9`, `OAI_Laughlin_Certificate_computeLDL_19_8_0`, `OAI_Laughlin_Certificate_computeLDL_19_8_1`, `OAI_Laughlin_Certificate_computeLDL_19_8_2`, `OAI_Laughlin_Certificate_computeLDL_19_8_3`, `OAI_Laughlin_Certificate_computeLDL_19_8_4`, `OAI_Laughlin_Certificate_computeLDL_19_8_5`, `OAI_Laughlin_Certificate_computeLDL_19_8_6`, `OAI_Laughlin_Certificate_computeLDL_19_8_7`, `OAI_Laughlin_Certificate_computeLDL_19_8_8`, `OAI_Laughlin_Certificate_computeLDL_19_8_9`, `OAI_Laughlin_Certificate_computeLDL_19_9_0`, `OAI_Laughlin_Certificate_computeLDL_19_9_1`, `OAI_Laughlin_Certificate_computeLDL_19_9_2`, `OAI_Laughlin_Certificate_computeLDL_19_9_3`, `OAI_Laughlin_Certificate_computeLDL_19_9_4`, `OAI_Laughlin_Certificate_computeLDL_19_9_5`, `OAI_Laughlin_Certificate_computeLDL_19_9_6`, `OAI_Laughlin_Certificate_computeLDL_19_9_7`, `OAI_Laughlin_Certificate_computeLDL_19_9_8`, `OAI_Laughlin_Certificate_computeLDL_19_9_9`, `OAI_Laughlin_Certificate_computeLDL_20_2_7`, `OAI_Laughlin_Certificate_computeLDL_20_2_8`, `OAI_Laughlin_Certificate_computeLDL_20_2_9`, `OAI_Laughlin_Certificate_computeLDL_20_3_0`, `OAI_Laughlin_Certificate_computeLDL_20_3_1`, `OAI_Laughlin_Certificate_computeLDL_20_3_2`, `OAI_Laughlin_Certificate_computeLDL_20_3_3`, `OAI_Laughlin_Certificate_computeLDL_20_3_4`, `OAI_Laughlin_Certificate_computeLDL_20_3_5`, `OAI_Laughlin_Certificate_computeLDL_20_3_6`, `OAI_Laughlin_Certificate_computeLDL_20_3_7`, `OAI_Laughlin_Certificate_computeLDL_20_3_8`, `OAI_Laughlin_Certificate_computeLDL_20_3_9`, `OAI_Laughlin_Certificate_computeLDL_20_4_0`, `OAI_Laughlin_Certificate_computeLDL_20_4_1`, `OAI_Laughlin_Certificate_computeLDL_20_4_2`, `OAI_Laughlin_Certificate_computeLDL_20_4_3`, `OAI_Laughlin_Certificate_computeLDL_20_4_4`, `OAI_Laughlin_Certificate_computeLDL_20_4_5`, `OAI_Laughlin_Certificate_computeLDL_20_4_6`, `OAI_Laughlin_Certificate_computeLDL_20_4_7`, `OAI_Laughlin_Certificate_computeLDL_20_4_8`, `OAI_Laughlin_Certificate_computeLDL_20_4_9`, `OAI_Laughlin_Certificate_computeLDL_20_5_0`, `OAI_Laughlin_Certificate_computeLDL_20_5_1`, `OAI_Laughlin_Certificate_computeLDL_20_5_2`, `OAI_Laughlin_Certificate_computeLDL_20_5_3`, `OAI_Laughlin_Certificate_computeLDL_20_5_4`, `OAI_Laughlin_Certificate_computeLDL_20_5_5`, `OAI_Laughlin_Certificate_computeLDL_20_5_6`, `OAI_Laughlin_Certificate_computeLDL_20_5_7`, `OAI_Laughlin_Certificate_computeLDL_20_5_8`, `OAI_Laughlin_Certificate_computeLDL_20_5_9`, `OAI_Laughlin_Certificate_computeLDL_20_6_0`, `OAI_Laughlin_Certificate_computeLDL_20_6_1`, `OAI_Laughlin_Certificate_computeLDL_20_6_2`, `OAI_Laughlin_Certificate_computeLDL_20_6_3`, `OAI_Laughlin_Certificate_computeLDL_20_6_4`, `OAI_Laughlin_Certificate_computeLDL_20_6_5`, `OAI_Laughlin_Certificate_computeLDL_20_6_6`, `OAI_Laughlin_Certificate_computeLDL_20_6_7`, `OAI_Laughlin_Certificate_computeLDL_20_6_8`, `OAI_Laughlin_Certificate_computeLDL_20_6_9`, `OAI_Laughlin_Certificate_computeLDL_20_7_0`, `OAI_Laughlin_Certificate_computeLDL_20_7_1`, `OAI_Laughlin_Certificate_computeLDL_20_7_2`, `OAI_Laughlin_Certificate_computeLDL_20_7_3`, `OAI_Laughlin_Certificate_computeLDL_20_7_4`, `OAI_Laughlin_Certificate_computeLDL_20_7_5`, `OAI_Laughlin_Certificate_computeLDL_20_7_6`, `OAI_Laughlin_Certificate_computeLDL_20_7_7`, `OAI_Laughlin_Certificate_computeLDL_20_7_8`, `OAI_Laughlin_Certificate_computeLDL_20_7_9`, `OAI_Laughlin_Certificate_computeLDL_20_8_0`, `OAI_Laughlin_Certificate_computeLDL_20_8_1`, `OAI_Laughlin_Certificate_computeLDL_20_8_2`, `OAI_Laughlin_Certificate_computeLDL_20_8_3`, `OAI_Laughlin_Certificate_computeLDL_20_8_4`, `OAI_Laughlin_Certificate_computeLDL_20_8_5`, `OAI_Laughlin_Certificate_computeLDL_20_8_6`, `OAI_Laughlin_Certificate_computeLDL_20_8_7`, `OAI_Laughlin_Certificate_computeLDL_20_8_8`, `OAI_Laughlin_Certificate_computeLDL_20_8_9`, `OAI_Laughlin_Certificate_computeLDL_20_9_0`, `OAI_Laughlin_Certificate_computeLDL_20_9_1`, `OAI_Laughlin_Certificate_computeLDL_20_9_2`, `OAI_Laughlin_Certificate_computeLDL_20_9_3`, `OAI_Laughlin_Certificate_computeLDL_20_9_4`, `OAI_Laughlin_Certificate_computeLDL_20_9_5`, `OAI_Laughlin_Certificate_computeLDL_20_9_6`, `OAI_Laughlin_Certificate_computeLDL_20_9_7`, `OAI_Laughlin_Certificate_computeLDL_20_9_8`, `OAI_Laughlin_Certificate_computeLDL_20_9_9`, `OAI_Laughlin_Certificate_computeLDL_21_0_10`, `OAI_Laughlin_Certificate_computeLDL_21_10_0`, `OAI_Laughlin_Certificate_computeLDL_21_10_1`, `OAI_Laughlin_Certificate_computeLDL_21_10_10`, `OAI_Laughlin_Certificate_computeLDL_21_10_2`, `OAI_Laughlin_Certificate_computeLDL_21_10_3`, `OAI_Laughlin_Certificate_computeLDL_21_10_4`, `OAI_Laughlin_Certificate_computeLDL_21_10_5`, `OAI_Laughlin_Certificate_computeLDL_21_10_6`, `OAI_Laughlin_Certificate_computeLDL_21_10_7`, `OAI_Laughlin_Certificate_computeLDL_21_10_8`, `OAI_Laughlin_Certificate_computeLDL_21_10_9`, `OAI_Laughlin_Certificate_computeLDL_21_1_10`, `OAI_Laughlin_Certificate_computeLDL_21_2_10`, `OAI_Laughlin_Certificate_computeLDL_21_2_9`, `OAI_Laughlin_Certificate_computeLDL_21_3_0`, `OAI_Laughlin_Certificate_computeLDL_21_3_1`, `OAI_Laughlin_Certificate_computeLDL_21_3_10`, `OAI_Laughlin_Certificate_computeLDL_21_3_2`, `OAI_Laughlin_Certificate_computeLDL_21_3_3`, `OAI_Laughlin_Certificate_computeLDL_21_3_4`, `OAI_Laughlin_Certificate_computeLDL_21_3_5`, `OAI_Laughlin_Certificate_computeLDL_21_3_6`, `OAI_Laughlin_Certificate_computeLDL_21_3_7`, `OAI_Laughlin_Certificate_computeLDL_21_3_8`, `OAI_Laughlin_Certificate_computeLDL_21_3_9`, `OAI_Laughlin_Certificate_computeLDL_21_4_0`, `OAI_Laughlin_Certificate_computeLDL_21_4_1`, `OAI_Laughlin_Certificate_computeLDL_21_4_10`, `OAI_Laughlin_Certificate_computeLDL_21_4_2`, `OAI_Laughlin_Certificate_computeLDL_21_4_3`, `OAI_Laughlin_Certificate_computeLDL_21_4_4`, `OAI_Laughlin_Certificate_computeLDL_21_4_5`, `OAI_Laughlin_Certificate_computeLDL_21_4_6`, `OAI_Laughlin_Certificate_computeLDL_21_4_7`, `OAI_Laughlin_Certificate_computeLDL_21_4_8`, `OAI_Laughlin_Certificate_computeLDL_21_4_9`, `OAI_Laughlin_Certificate_computeLDL_21_5_0`, `OAI_Laughlin_Certificate_computeLDL_21_5_1`, `OAI_Laughlin_Certificate_computeLDL_21_5_10`, `OAI_Laughlin_Certificate_computeLDL_21_5_2`, `OAI_Laughlin_Certificate_computeLDL_21_5_3`, `OAI_Laughlin_Certificate_computeLDL_21_5_4`, `OAI_Laughlin_Certificate_computeLDL_21_5_5`, `OAI_Laughlin_Certificate_computeLDL_21_5_6`, `OAI_Laughlin_Certificate_computeLDL_21_5_7`, `OAI_Laughlin_Certificate_computeLDL_21_5_8`, `OAI_Laughlin_Certificate_computeLDL_21_5_9`, `OAI_Laughlin_Certificate_computeLDL_21_6_0`, `OAI_Laughlin_Certificate_computeLDL_21_6_1`, `OAI_Laughlin_Certificate_computeLDL_21_6_10`, `OAI_Laughlin_Certificate_computeLDL_21_6_2`, `OAI_Laughlin_Certificate_computeLDL_21_6_3`, `OAI_Laughlin_Certificate_computeLDL_21_6_4`, `OAI_Laughlin_Certificate_computeLDL_21_6_5`, `OAI_Laughlin_Certificate_computeLDL_21_6_6`, `OAI_Laughlin_Certificate_computeLDL_21_6_7`, `OAI_Laughlin_Certificate_computeLDL_21_6_8`, `OAI_Laughlin_Certificate_computeLDL_21_6_9`, `OAI_Laughlin_Certificate_computeLDL_21_7_0`, `OAI_Laughlin_Certificate_computeLDL_21_7_1`, `OAI_Laughlin_Certificate_computeLDL_21_7_10`, `OAI_Laughlin_Certificate_computeLDL_21_7_2`, `OAI_Laughlin_Certificate_computeLDL_21_7_3`, `OAI_Laughlin_Certificate_computeLDL_21_7_4`, `OAI_Laughlin_Certificate_computeLDL_21_7_5`, `OAI_Laughlin_Certificate_computeLDL_21_7_6`, `OAI_Laughlin_Certificate_computeLDL_21_7_7`, `OAI_Laughlin_Certificate_computeLDL_21_7_8`, `OAI_Laughlin_Certificate_computeLDL_21_7_9`, `OAI_Laughlin_Certificate_computeLDL_21_8_0`, `OAI_Laughlin_Certificate_computeLDL_21_8_1`, `OAI_Laughlin_Certificate_computeLDL_21_8_10`, `OAI_Laughlin_Certificate_computeLDL_21_8_2`, `OAI_Laughlin_Certificate_computeLDL_21_8_3`, `OAI_Laughlin_Certificate_computeLDL_21_8_4`, `OAI_Laughlin_Certificate_computeLDL_21_8_5`, `OAI_Laughlin_Certificate_computeLDL_21_8_6`, `OAI_Laughlin_Certificate_computeLDL_21_8_7`, `OAI_Laughlin_Certificate_computeLDL_21_8_8`, `OAI_Laughlin_Certificate_computeLDL_21_8_9`, `OAI_Laughlin_Certificate_computeLDL_21_9_0`, `OAI_Laughlin_Certificate_computeLDL_21_9_1`, `OAI_Laughlin_Certificate_computeLDL_21_9_10`, `OAI_Laughlin_Certificate_computeLDL_21_9_2`, `OAI_Laughlin_Certificate_computeLDL_21_9_3`, `OAI_Laughlin_Certificate_computeLDL_21_9_4`, `OAI_Laughlin_Certificate_computeLDL_21_9_5`, `OAI_Laughlin_Certificate_computeLDL_21_9_6`, `OAI_Laughlin_Certificate_computeLDL_21_9_7`, `OAI_Laughlin_Certificate_computeLDL_21_9_8`, `OAI_Laughlin_Certificate_computeLDL_21_9_9`, `OAI_Laughlin_Certificate_computeLDL_22_0_10`, `OAI_Laughlin_Certificate_computeLDL_22_10_0`, `OAI_Laughlin_Certificate_computeLDL_22_10_1`, `OAI_Laughlin_Certificate_computeLDL_22_10_10`, `OAI_Laughlin_Certificate_computeLDL_22_10_2`, `OAI_Laughlin_Certificate_computeLDL_22_10_3`, `OAI_Laughlin_Certificate_computeLDL_22_10_4`, `OAI_Laughlin_Certificate_computeLDL_22_10_5`, `OAI_Laughlin_Certificate_computeLDL_22_10_6`, `OAI_Laughlin_Certificate_computeLDL_22_10_7`, `OAI_Laughlin_Certificate_computeLDL_22_10_8`, `OAI_Laughlin_Certificate_computeLDL_22_10_9`, `OAI_Laughlin_Certificate_computeLDL_22_1_10`, `OAI_Laughlin_Certificate_computeLDL_22_2_10`, `OAI_Laughlin_Certificate_computeLDL_22_2_9`, `OAI_Laughlin_Certificate_computeLDL_22_3_0`, `OAI_Laughlin_Certificate_computeLDL_22_3_1`, `OAI_Laughlin_Certificate_computeLDL_22_3_10`, `OAI_Laughlin_Certificate_computeLDL_22_3_2`, `OAI_Laughlin_Certificate_computeLDL_22_3_3`, `OAI_Laughlin_Certificate_computeLDL_22_3_4`, `OAI_Laughlin_Certificate_computeLDL_22_3_5`, `OAI_Laughlin_Certificate_computeLDL_22_3_6`, `OAI_Laughlin_Certificate_computeLDL_22_3_7`, `OAI_Laughlin_Certificate_computeLDL_22_3_8`, `OAI_Laughlin_Certificate_computeLDL_22_3_9`, `OAI_Laughlin_Certificate_computeLDL_22_4_0`, `OAI_Laughlin_Certificate_computeLDL_22_4_1`, `OAI_Laughlin_Certificate_computeLDL_22_4_10`, `OAI_Laughlin_Certificate_computeLDL_22_4_2`, `OAI_Laughlin_Certificate_computeLDL_22_4_3`, `OAI_Laughlin_Certificate_computeLDL_22_4_4`, `OAI_Laughlin_Certificate_computeLDL_22_4_5`, `OAI_Laughlin_Certificate_computeLDL_22_4_6`, `OAI_Laughlin_Certificate_computeLDL_22_4_7`, `OAI_Laughlin_Certificate_computeLDL_22_4_8`, `OAI_Laughlin_Certificate_computeLDL_22_4_9`, `OAI_Laughlin_Certificate_computeLDL_22_5_0`, `OAI_Laughlin_Certificate_computeLDL_22_5_1`, `OAI_Laughlin_Certificate_computeLDL_22_5_10`, `OAI_Laughlin_Certificate_computeLDL_22_5_2`, `OAI_Laughlin_Certificate_computeLDL_22_5_3`, `OAI_Laughlin_Certificate_computeLDL_22_5_4`, `OAI_Laughlin_Certificate_computeLDL_22_5_5`, `OAI_Laughlin_Certificate_computeLDL_22_5_6`, `OAI_Laughlin_Certificate_computeLDL_22_5_7`, `OAI_Laughlin_Certificate_computeLDL_22_5_8`, `OAI_Laughlin_Certificate_computeLDL_22_5_9`, `OAI_Laughlin_Certificate_computeLDL_22_6_0`, `OAI_Laughlin_Certificate_computeLDL_22_6_1`, `OAI_Laughlin_Certificate_computeLDL_22_6_10`, `OAI_Laughlin_Certificate_computeLDL_22_6_2`, `OAI_Laughlin_Certificate_computeLDL_22_6_3`, `OAI_Laughlin_Certificate_computeLDL_22_6_4`, `OAI_Laughlin_Certificate_computeLDL_22_6_5`, `OAI_Laughlin_Certificate_computeLDL_22_6_6`, `OAI_Laughlin_Certificate_computeLDL_22_6_7`, `OAI_Laughlin_Certificate_computeLDL_22_6_8`, `OAI_Laughlin_Certificate_computeLDL_22_6_9`, `OAI_Laughlin_Certificate_computeLDL_22_7_0`, `OAI_Laughlin_Certificate_computeLDL_22_7_1`, `OAI_Laughlin_Certificate_computeLDL_22_7_10`, `OAI_Laughlin_Certificate_computeLDL_22_7_2`, `OAI_Laughlin_Certificate_computeLDL_22_7_3`, `OAI_Laughlin_Certificate_computeLDL_22_7_4`, `OAI_Laughlin_Certificate_computeLDL_22_7_5`, `OAI_Laughlin_Certificate_computeLDL_22_7_6`, `OAI_Laughlin_Certificate_computeLDL_22_7_7`, `OAI_Laughlin_Certificate_computeLDL_22_7_8`, `OAI_Laughlin_Certificate_computeLDL_22_7_9`, `OAI_Laughlin_Certificate_computeLDL_22_8_0`, `OAI_Laughlin_Certificate_computeLDL_22_8_1`, `OAI_Laughlin_Certificate_computeLDL_22_8_10`, `OAI_Laughlin_Certificate_computeLDL_22_8_2`, `OAI_Laughlin_Certificate_computeLDL_22_8_3`, `OAI_Laughlin_Certificate_computeLDL_22_8_4`, `OAI_Laughlin_Certificate_computeLDL_22_8_5`, `OAI_Laughlin_Certificate_computeLDL_22_8_6`, `OAI_Laughlin_Certificate_computeLDL_22_8_7`, `OAI_Laughlin_Certificate_computeLDL_22_8_8`, `OAI_Laughlin_Certificate_computeLDL_22_8_9`, `OAI_Laughlin_Certificate_computeLDL_22_9_0`, `OAI_Laughlin_Certificate_computeLDL_22_9_1`, `OAI_Laughlin_Certificate_computeLDL_22_9_10`, `OAI_Laughlin_Certificate_computeLDL_22_9_2`, `OAI_Laughlin_Certificate_computeLDL_22_9_3`, `OAI_Laughlin_Certificate_computeLDL_22_9_4`, `OAI_Laughlin_Certificate_computeLDL_22_9_5`, `OAI_Laughlin_Certificate_computeLDL_22_9_6`, `OAI_Laughlin_Certificate_computeLDL_22_9_7`, `OAI_Laughlin_Certificate_computeLDL_22_9_8`, `OAI_Laughlin_Certificate_computeLDL_22_9_9`, `OAI.Laughlin.Fock.fourCopyForm_allowance_identity`, `OAI.Laughlin.Fock.fourCopyForm_scaled_haar`, `OAI.Laughlin.Fock.limitFourCopyEnd_local_sum`, `OAI.Laughlin.Fock.physical_fock_kernel_distance_uniform`, `OAI.Laughlin.Fock.physical_fourBody_total_haar_transfer`, `OAI.Laughlin.Fock.physical_pair_norm_haar_real`, `OAI.Laughlin.Fock.physical_threeBody_Fock_comparison_eventually`, `OAI.Laughlin.Fock.physical_threeBody_Fock_haar_real`, `OAI.Laughlin.Fock.physical_threeBody_budget_eventually`, `OAI.Laughlin.Fock.physical_threeBody_projector_nonneg`, `OAI.Laughlin.Fock.physical_threeBody_tail_sum`, `OAI.Laughlin.Fock.physical_twoBody_certificate_haar`, `OAI.Laughlin.Fock.sourceA4Form_retained_bound`, `OAI.Laughlin.Fock.sourceFockHamiltonian_normal_square`, `OAI.Laughlin.Fock.sourceKForm_decomposition`, `OAI.Laughlin.Fock.source_fourBody_limitpositive`, `OAI.Laughlin.Fock.source_fourBody_physical_L` and `OAI.Laughlin.Spin.source_threeBody_physical_traces_strict_eventually`; the proofs of `OAI_Laughlin_Certificate_candidateLDL_11`, `OAI_Laughlin_Certificate_candidateLDL_12`, `OAI_Laughlin_Certificate_candidateLDL_13`, `OAI_Laughlin_Certificate_candidateLDL_14`, `OAI_Laughlin_Certificate_candidateLDL_15`, `OAI_Laughlin_Certificate_candidateLDL_16`, `OAI_Laughlin_Certificate_candidateLDL_17`, `OAI_Laughlin_Certificate_candidateLDL_18`, `OAI_Laughlin_Certificate_candidateLDL_19`, `OAI_Laughlin_Certificate_candidateLDL_20`, `OAI_Laughlin_Certificate_candidateLDL_21`, `OAI_Laughlin_Certificate_candidateLDL_22`, `OAI_Laughlin_Certificate_computeLDL_12_2_4`, `OAI_Laughlin_Certificate_computeLDL_12_2_5`, `OAI_Laughlin_Certificate_computeLDL_12_3_0`, `OAI_Laughlin_Certificate_computeLDL_12_3_1`, `OAI_Laughlin_Certificate_computeLDL_12_3_2`, `OAI_Laughlin_Certificate_computeLDL_12_3_3`, `OAI_Laughlin_Certificate_computeLDL_12_3_4`, `OAI_Laughlin_Certificate_computeLDL_12_3_5`, `OAI_Laughlin_Certificate_computeLDL_12_4_0`, `OAI_Laughlin_Certificate_computeLDL_12_4_1`, `OAI_Laughlin_Certificate_computeLDL_12_4_2`, `OAI_Laughlin_Certificate_computeLDL_12_4_3`, `OAI_Laughlin_Certificate_computeLDL_12_4_4`, `OAI_Laughlin_Certificate_computeLDL_12_4_5`, `OAI_Laughlin_Certificate_computeLDL_12_5_0`, `OAI_Laughlin_Certificate_computeLDL_12_5_1`, `OAI_Laughlin_Certificate_computeLDL_12_5_2`, `OAI_Laughlin_Certificate_computeLDL_12_5_3`, `OAI_Laughlin_Certificate_computeLDL_12_5_4`, `OAI_Laughlin_Certificate_computeLDL_12_5_5`, `OAI_Laughlin_Certificate_computeLDL_13_2_4`, `OAI_Laughlin_Certificate_computeLDL_13_2_5`, `OAI_Laughlin_Certificate_computeLDL_13_2_6`, `OAI_Laughlin_Certificate_computeLDL_13_3_0`, `OAI_Laughlin_Certificate_computeLDL_13_3_1`, `OAI_Laughlin_Certificate_computeLDL_13_3_2`, `OAI_Laughlin_Certificate_computeLDL_13_3_3`, `OAI_Laughlin_Certificate_computeLDL_13_3_4`, `OAI_Laughlin_Certificate_computeLDL_13_3_5`, `OAI_Laughlin_Certificate_computeLDL_13_3_6`, `OAI_Laughlin_Certificate_computeLDL_13_4_0`, `OAI_Laughlin_Certificate_computeLDL_13_4_1`, `OAI_Laughlin_Certificate_computeLDL_13_4_2`, `OAI_Laughlin_Certificate_computeLDL_13_4_3`, `OAI_Laughlin_Certificate_computeLDL_13_4_4`, `OAI_Laughlin_Certificate_computeLDL_13_4_5`, `OAI_Laughlin_Certificate_computeLDL_13_4_6`, `OAI_Laughlin_Certificate_computeLDL_13_5_0`, `OAI_Laughlin_Certificate_computeLDL_13_5_1`, `OAI_Laughlin_Certificate_computeLDL_13_5_2`, `OAI_Laughlin_Certificate_computeLDL_13_5_3`, `OAI_Laughlin_Certificate_computeLDL_13_5_4`, `OAI_Laughlin_Certificate_computeLDL_13_5_5`, `OAI_Laughlin_Certificate_computeLDL_13_5_6`, `OAI_Laughlin_Certificate_computeLDL_13_6_0`, `OAI_Laughlin_Certificate_computeLDL_13_6_1`, `OAI_Laughlin_Certificate_computeLDL_13_6_2`, `OAI_Laughlin_Certificate_computeLDL_13_6_3`, `OAI_Laughlin_Certificate_computeLDL_13_6_4`, `OAI_Laughlin_Certificate_computeLDL_13_6_5`, `OAI_Laughlin_Certificate_computeLDL_13_6_6`, `OAI_Laughlin_Certificate_computeLDL_14_2_4`, `OAI_Laughlin_Certificate_computeLDL_14_2_5`, `OAI_Laughlin_Certificate_computeLDL_14_2_6`, `OAI_Laughlin_Certificate_computeLDL_14_3_0`, `OAI_Laughlin_Certificate_computeLDL_14_3_1`, `OAI_Laughlin_Certificate_computeLDL_14_3_2`, `OAI_Laughlin_Certificate_computeLDL_14_3_3`, `OAI_Laughlin_Certificate_computeLDL_14_3_4`, `OAI_Laughlin_Certificate_computeLDL_14_3_5`, `OAI_Laughlin_Certificate_computeLDL_14_3_6`, `OAI_Laughlin_Certificate_computeLDL_14_4_0`, `OAI_Laughlin_Certificate_computeLDL_14_4_1`, `OAI_Laughlin_Certificate_computeLDL_14_4_2`, `OAI_Laughlin_Certificate_computeLDL_14_4_3`, `OAI_Laughlin_Certificate_computeLDL_14_4_4`, `OAI_Laughlin_Certificate_computeLDL_14_4_5`, `OAI_Laughlin_Certificate_computeLDL_14_4_6`, `OAI_Laughlin_Certificate_computeLDL_14_5_0`, `OAI_Laughlin_Certificate_computeLDL_14_5_1`, `OAI_Laughlin_Certificate_computeLDL_14_5_2`, `OAI_Laughlin_Certificate_computeLDL_14_5_3`, `OAI_Laughlin_Certificate_computeLDL_14_5_4`, `OAI_Laughlin_Certificate_computeLDL_14_5_5`, `OAI_Laughlin_Certificate_computeLDL_14_5_6`, `OAI_Laughlin_Certificate_computeLDL_14_6_0`, `OAI_Laughlin_Certificate_computeLDL_14_6_1`, `OAI_Laughlin_Certificate_computeLDL_14_6_2`, `OAI_Laughlin_Certificate_computeLDL_14_6_3`, `OAI_Laughlin_Certificate_computeLDL_14_6_4`, `OAI_Laughlin_Certificate_computeLDL_14_6_5`, `OAI_Laughlin_Certificate_computeLDL_14_6_6`, `OAI_Laughlin_Certificate_computeLDL_15_2_5`, `OAI_Laughlin_Certificate_computeLDL_15_2_6`, `OAI_Laughlin_Certificate_computeLDL_15_2_7`, `OAI_Laughlin_Certificate_computeLDL_15_3_0`, `OAI_Laughlin_Certificate_computeLDL_15_3_1`, `OAI_Laughlin_Certificate_computeLDL_15_3_2`, `OAI_Laughlin_Certificate_computeLDL_15_3_3`, `OAI_Laughlin_Certificate_computeLDL_15_3_4`, `OAI_Laughlin_Certificate_computeLDL_15_3_5`, `OAI_Laughlin_Certificate_computeLDL_15_3_6`, `OAI_Laughlin_Certificate_computeLDL_15_3_7`, `OAI_Laughlin_Certificate_computeLDL_15_4_0`, `OAI_Laughlin_Certificate_computeLDL_15_4_1`, `OAI_Laughlin_Certificate_computeLDL_15_4_2`, `OAI_Laughlin_Certificate_computeLDL_15_4_3`, `OAI_Laughlin_Certificate_computeLDL_15_4_4`, `OAI_Laughlin_Certificate_computeLDL_15_4_5`, `OAI_Laughlin_Certificate_computeLDL_15_4_6`, `OAI_Laughlin_Certificate_computeLDL_15_4_7`, `OAI_Laughlin_Certificate_computeLDL_15_5_0`, `OAI_Laughlin_Certificate_computeLDL_15_5_1`, `OAI_Laughlin_Certificate_computeLDL_15_5_2`, `OAI_Laughlin_Certificate_computeLDL_15_5_3`, `OAI_Laughlin_Certificate_computeLDL_15_5_4`, `OAI_Laughlin_Certificate_computeLDL_15_5_5`, `OAI_Laughlin_Certificate_computeLDL_15_5_6`, `OAI_Laughlin_Certificate_computeLDL_15_5_7`, `OAI_Laughlin_Certificate_computeLDL_15_6_0`, `OAI_Laughlin_Certificate_computeLDL_15_6_1`, `OAI_Laughlin_Certificate_computeLDL_15_6_2`, `OAI_Laughlin_Certificate_computeLDL_15_6_3`, `OAI_Laughlin_Certificate_computeLDL_15_6_4`, `OAI_Laughlin_Certificate_computeLDL_15_6_5`, `OAI_Laughlin_Certificate_computeLDL_15_6_6`, `OAI_Laughlin_Certificate_computeLDL_15_6_7`, `OAI_Laughlin_Certificate_computeLDL_15_7_0`, `OAI_Laughlin_Certificate_computeLDL_15_7_1`, `OAI_Laughlin_Certificate_computeLDL_15_7_2`, `OAI_Laughlin_Certificate_computeLDL_15_7_3`, `OAI_Laughlin_Certificate_computeLDL_15_7_4`, `OAI_Laughlin_Certificate_computeLDL_15_7_5`, `OAI_Laughlin_Certificate_computeLDL_15_7_6`, `OAI_Laughlin_Certificate_computeLDL_15_7_7`, `OAI_Laughlin_Certificate_computeLDL_16_2_5`, `OAI_Laughlin_Certificate_computeLDL_16_2_6`, `OAI_Laughlin_Certificate_computeLDL_16_2_7`, `OAI_Laughlin_Certificate_computeLDL_16_3_0`, `OAI_Laughlin_Certificate_computeLDL_16_3_1`, `OAI_Laughlin_Certificate_computeLDL_16_3_2`, `OAI_Laughlin_Certificate_computeLDL_16_3_3`, `OAI_Laughlin_Certificate_computeLDL_16_3_4`, `OAI_Laughlin_Certificate_computeLDL_16_3_5`, `OAI_Laughlin_Certificate_computeLDL_16_3_6`, `OAI_Laughlin_Certificate_computeLDL_16_3_7`, `OAI_Laughlin_Certificate_computeLDL_16_4_0`, `OAI_Laughlin_Certificate_computeLDL_16_4_1`, `OAI_Laughlin_Certificate_computeLDL_16_4_2`, `OAI_Laughlin_Certificate_computeLDL_16_4_3`, `OAI_Laughlin_Certificate_computeLDL_16_4_4`, `OAI_Laughlin_Certificate_computeLDL_16_4_5`, `OAI_Laughlin_Certificate_computeLDL_16_4_6`, `OAI_Laughlin_Certificate_computeLDL_16_4_7`, `OAI_Laughlin_Certificate_computeLDL_16_5_0`, `OAI_Laughlin_Certificate_computeLDL_16_5_1`, `OAI_Laughlin_Certificate_computeLDL_16_5_2`, `OAI_Laughlin_Certificate_computeLDL_16_5_3`, `OAI_Laughlin_Certificate_computeLDL_16_5_4`, `OAI_Laughlin_Certificate_computeLDL_16_5_5`, `OAI_Laughlin_Certificate_computeLDL_16_5_6`, `OAI_Laughlin_Certificate_computeLDL_16_5_7`, `OAI_Laughlin_Certificate_computeLDL_16_6_0`, `OAI_Laughlin_Certificate_computeLDL_16_6_1`, `OAI_Laughlin_Certificate_computeLDL_16_6_2`, `OAI_Laughlin_Certificate_computeLDL_16_6_3`, `OAI_Laughlin_Certificate_computeLDL_16_6_4`, `OAI_Laughlin_Certificate_computeLDL_16_6_5`, `OAI_Laughlin_Certificate_computeLDL_16_6_6`, `OAI_Laughlin_Certificate_computeLDL_16_6_7`, `OAI_Laughlin_Certificate_computeLDL_16_7_0`, `OAI_Laughlin_Certificate_computeLDL_16_7_1`, `OAI_Laughlin_Certificate_computeLDL_16_7_2`, `OAI_Laughlin_Certificate_computeLDL_16_7_3`, `OAI_Laughlin_Certificate_computeLDL_16_7_4`, `OAI_Laughlin_Certificate_computeLDL_16_7_5`, `OAI_Laughlin_Certificate_computeLDL_16_7_6`, `OAI_Laughlin_Certificate_computeLDL_16_7_7`, `OAI_Laughlin_Certificate_computeLDL_17_2_6`, `OAI_Laughlin_Certificate_computeLDL_17_2_7`, `OAI_Laughlin_Certificate_computeLDL_17_2_8`, `OAI_Laughlin_Certificate_computeLDL_17_3_0`, `OAI_Laughlin_Certificate_computeLDL_17_3_1`, `OAI_Laughlin_Certificate_computeLDL_17_3_2`, `OAI_Laughlin_Certificate_computeLDL_17_3_3`, `OAI_Laughlin_Certificate_computeLDL_17_3_4`, `OAI_Laughlin_Certificate_computeLDL_17_3_5`, `OAI_Laughlin_Certificate_computeLDL_17_3_6`, `OAI_Laughlin_Certificate_computeLDL_17_3_7`, `OAI_Laughlin_Certificate_computeLDL_17_3_8`, `OAI_Laughlin_Certificate_computeLDL_17_4_0`, `OAI_Laughlin_Certificate_computeLDL_17_4_1`, `OAI_Laughlin_Certificate_computeLDL_17_4_2`, `OAI_Laughlin_Certificate_computeLDL_17_4_3`, `OAI_Laughlin_Certificate_computeLDL_17_4_4`, `OAI_Laughlin_Certificate_computeLDL_17_4_5`, `OAI_Laughlin_Certificate_computeLDL_17_4_6`, `OAI_Laughlin_Certificate_computeLDL_17_4_7`, `OAI_Laughlin_Certificate_computeLDL_17_4_8`, `OAI_Laughlin_Certificate_computeLDL_17_5_0`, `OAI_Laughlin_Certificate_computeLDL_17_5_1`, `OAI_Laughlin_Certificate_computeLDL_17_5_2`, `OAI_Laughlin_Certificate_computeLDL_17_5_3`, `OAI_Laughlin_Certificate_computeLDL_17_5_4`, `OAI_Laughlin_Certificate_computeLDL_17_5_5`, `OAI_Laughlin_Certificate_computeLDL_17_5_6`, `OAI_Laughlin_Certificate_computeLDL_17_5_7`, `OAI_Laughlin_Certificate_computeLDL_17_5_8`, `OAI_Laughlin_Certificate_computeLDL_17_6_0`, `OAI_Laughlin_Certificate_computeLDL_17_6_1`, `OAI_Laughlin_Certificate_computeLDL_17_6_2`, `OAI_Laughlin_Certificate_computeLDL_17_6_3`, `OAI_Laughlin_Certificate_computeLDL_17_6_4`, `OAI_Laughlin_Certificate_computeLDL_17_6_5`, `OAI_Laughlin_Certificate_computeLDL_17_6_6`, `OAI_Laughlin_Certificate_computeLDL_17_6_7`, `OAI_Laughlin_Certificate_computeLDL_17_6_8`, `OAI_Laughlin_Certificate_computeLDL_17_7_0`, `OAI_Laughlin_Certificate_computeLDL_17_7_1`, `OAI_Laughlin_Certificate_computeLDL_17_7_2`, `OAI_Laughlin_Certificate_computeLDL_17_7_3`, `OAI_Laughlin_Certificate_computeLDL_17_7_4`, `OAI_Laughlin_Certificate_computeLDL_17_7_5`, `OAI_Laughlin_Certificate_computeLDL_17_7_6`, `OAI_Laughlin_Certificate_computeLDL_17_7_7`, `OAI_Laughlin_Certificate_computeLDL_17_7_8`, `OAI_Laughlin_Certificate_computeLDL_17_8_0`, `OAI_Laughlin_Certificate_computeLDL_17_8_1`, `OAI_Laughlin_Certificate_computeLDL_17_8_2`, `OAI_Laughlin_Certificate_computeLDL_17_8_3`, `OAI_Laughlin_Certificate_computeLDL_17_8_4`, `OAI_Laughlin_Certificate_computeLDL_17_8_5`, `OAI_Laughlin_Certificate_computeLDL_17_8_6`, `OAI_Laughlin_Certificate_computeLDL_17_8_7`, `OAI_Laughlin_Certificate_computeLDL_17_8_8`, `OAI_Laughlin_Certificate_computeLDL_18_2_6`, `OAI_Laughlin_Certificate_computeLDL_18_2_7`, `OAI_Laughlin_Certificate_computeLDL_18_2_8`, `OAI_Laughlin_Certificate_computeLDL_18_3_0`, `OAI_Laughlin_Certificate_computeLDL_18_3_1`, `OAI_Laughlin_Certificate_computeLDL_18_3_2`, `OAI_Laughlin_Certificate_computeLDL_18_3_3`, `OAI_Laughlin_Certificate_computeLDL_18_3_4`, `OAI_Laughlin_Certificate_computeLDL_18_3_5`, `OAI_Laughlin_Certificate_computeLDL_18_3_6`, `OAI_Laughlin_Certificate_computeLDL_18_3_7`, `OAI_Laughlin_Certificate_computeLDL_18_3_8`, `OAI_Laughlin_Certificate_computeLDL_18_4_0`, `OAI_Laughlin_Certificate_computeLDL_18_4_1`, `OAI_Laughlin_Certificate_computeLDL_18_4_2`, `OAI_Laughlin_Certificate_computeLDL_18_4_3`, `OAI_Laughlin_Certificate_computeLDL_18_4_4`, `OAI_Laughlin_Certificate_computeLDL_18_4_5`, `OAI_Laughlin_Certificate_computeLDL_18_4_6`, `OAI_Laughlin_Certificate_computeLDL_18_4_7`, `OAI_Laughlin_Certificate_computeLDL_18_4_8`, `OAI_Laughlin_Certificate_computeLDL_18_5_0`, `OAI_Laughlin_Certificate_computeLDL_18_5_1`, `OAI_Laughlin_Certificate_computeLDL_18_5_2`, `OAI_Laughlin_Certificate_computeLDL_18_5_3`, `OAI_Laughlin_Certificate_computeLDL_18_5_4`, `OAI_Laughlin_Certificate_computeLDL_18_5_5`, `OAI_Laughlin_Certificate_computeLDL_18_5_6`, `OAI_Laughlin_Certificate_computeLDL_18_5_7`, `OAI_Laughlin_Certificate_computeLDL_18_5_8`, `OAI_Laughlin_Certificate_computeLDL_18_6_0`, `OAI_Laughlin_Certificate_computeLDL_18_6_1`, `OAI_Laughlin_Certificate_computeLDL_18_6_2`, `OAI_Laughlin_Certificate_computeLDL_18_6_3`, `OAI_Laughlin_Certificate_computeLDL_18_6_4`, `OAI_Laughlin_Certificate_computeLDL_18_6_5`, `OAI_Laughlin_Certificate_computeLDL_18_6_6`, `OAI_Laughlin_Certificate_computeLDL_18_6_7`, `OAI_Laughlin_Certificate_computeLDL_18_6_8`, `OAI_Laughlin_Certificate_computeLDL_18_7_0`, `OAI_Laughlin_Certificate_computeLDL_18_7_1`, `OAI_Laughlin_Certificate_computeLDL_18_7_2`, `OAI_Laughlin_Certificate_computeLDL_18_7_3`, `OAI_Laughlin_Certificate_computeLDL_18_7_4`, `OAI_Laughlin_Certificate_computeLDL_18_7_5`, `OAI_Laughlin_Certificate_computeLDL_18_7_6`, `OAI_Laughlin_Certificate_computeLDL_18_7_7`, `OAI_Laughlin_Certificate_computeLDL_18_7_8`, `OAI_Laughlin_Certificate_computeLDL_18_8_0`, `OAI_Laughlin_Certificate_computeLDL_18_8_1`, `OAI_Laughlin_Certificate_computeLDL_18_8_2`, `OAI_Laughlin_Certificate_computeLDL_18_8_3`, `OAI_Laughlin_Certificate_computeLDL_18_8_4`, `OAI_Laughlin_Certificate_computeLDL_18_8_5`, `OAI_Laughlin_Certificate_computeLDL_18_8_6`, `OAI_Laughlin_Certificate_computeLDL_18_8_7`, `OAI_Laughlin_Certificate_computeLDL_18_8_8`, `OAI_Laughlin_Certificate_computeLDL_19_2_7`, `OAI_Laughlin_Certificate_computeLDL_19_2_8`, `OAI_Laughlin_Certificate_computeLDL_19_2_9`, `OAI_Laughlin_Certificate_computeLDL_19_3_0`, `OAI_Laughlin_Certificate_computeLDL_19_3_1`, `OAI_Laughlin_Certificate_computeLDL_19_3_2`, `OAI_Laughlin_Certificate_computeLDL_19_3_3`, `OAI_Laughlin_Certificate_computeLDL_19_3_4`, `OAI_Laughlin_Certificate_computeLDL_19_3_5`, `OAI_Laughlin_Certificate_computeLDL_19_3_6`, `OAI_Laughlin_Certificate_computeLDL_19_3_7`, `OAI_Laughlin_Certificate_computeLDL_19_3_8`, `OAI_Laughlin_Certificate_computeLDL_19_3_9`, `OAI_Laughlin_Certificate_computeLDL_19_4_0`, `OAI_Laughlin_Certificate_computeLDL_19_4_1`, `OAI_Laughlin_Certificate_computeLDL_19_4_2`, `OAI_Laughlin_Certificate_computeLDL_19_4_3`, `OAI_Laughlin_Certificate_computeLDL_19_4_4`, `OAI_Laughlin_Certificate_computeLDL_19_4_5`, `OAI_Laughlin_Certificate_computeLDL_19_4_6`, `OAI_Laughlin_Certificate_computeLDL_19_4_7`, `OAI_Laughlin_Certificate_computeLDL_19_4_8`, `OAI_Laughlin_Certificate_computeLDL_19_4_9`, `OAI_Laughlin_Certificate_computeLDL_19_5_0`, `OAI_Laughlin_Certificate_computeLDL_19_5_1`, `OAI_Laughlin_Certificate_computeLDL_19_5_2`, `OAI_Laughlin_Certificate_computeLDL_19_5_3`, `OAI_Laughlin_Certificate_computeLDL_19_5_4`, `OAI_Laughlin_Certificate_computeLDL_19_5_5`, `OAI_Laughlin_Certificate_computeLDL_19_5_6`, `OAI_Laughlin_Certificate_computeLDL_19_5_7`, `OAI_Laughlin_Certificate_computeLDL_19_5_8`, `OAI_Laughlin_Certificate_computeLDL_19_5_9`, `OAI_Laughlin_Certificate_computeLDL_19_6_0`, `OAI_Laughlin_Certificate_computeLDL_19_6_1`, `OAI_Laughlin_Certificate_computeLDL_19_6_2`, `OAI_Laughlin_Certificate_computeLDL_19_6_3`, `OAI_Laughlin_Certificate_computeLDL_19_6_4`, `OAI_Laughlin_Certificate_computeLDL_19_6_5`, `OAI_Laughlin_Certificate_computeLDL_19_6_6`, `OAI_Laughlin_Certificate_computeLDL_19_6_7`, `OAI_Laughlin_Certificate_computeLDL_19_6_8`, `OAI_Laughlin_Certificate_computeLDL_19_6_9`, `OAI_Laughlin_Certificate_computeLDL_19_7_0`, `OAI_Laughlin_Certificate_computeLDL_19_7_1`, `OAI_Laughlin_Certificate_computeLDL_19_7_2`, `OAI_Laughlin_Certificate_computeLDL_19_7_3`, `OAI_Laughlin_Certificate_computeLDL_19_7_4`, `OAI_Laughlin_Certificate_computeLDL_19_7_5`, `OAI_Laughlin_Certificate_computeLDL_19_7_6`, `OAI_Laughlin_Certificate_computeLDL_19_7_7`, `OAI_Laughlin_Certificate_computeLDL_19_7_8`, `OAI_Laughlin_Certificate_computeLDL_19_7_9`, `OAI_Laughlin_Certificate_computeLDL_19_8_0`, `OAI_Laughlin_Certificate_computeLDL_19_8_1`, `OAI_Laughlin_Certificate_computeLDL_19_8_2`, `OAI_Laughlin_Certificate_computeLDL_19_8_3`, `OAI_Laughlin_Certificate_computeLDL_19_8_4`, `OAI_Laughlin_Certificate_computeLDL_19_8_5`, `OAI_Laughlin_Certificate_computeLDL_19_8_6`, `OAI_Laughlin_Certificate_computeLDL_19_8_7`, `OAI_Laughlin_Certificate_computeLDL_19_8_8`, `OAI_Laughlin_Certificate_computeLDL_19_8_9`, `OAI_Laughlin_Certificate_computeLDL_19_9_0`, `OAI_Laughlin_Certificate_computeLDL_19_9_1`, `OAI_Laughlin_Certificate_computeLDL_19_9_2`, `OAI_Laughlin_Certificate_computeLDL_19_9_3`, `OAI_Laughlin_Certificate_computeLDL_19_9_4`, `OAI_Laughlin_Certificate_computeLDL_19_9_5`, `OAI_Laughlin_Certificate_computeLDL_19_9_6`, `OAI_Laughlin_Certificate_computeLDL_19_9_7`, `OAI_Laughlin_Certificate_computeLDL_19_9_8`, `OAI_Laughlin_Certificate_computeLDL_19_9_9`, `OAI_Laughlin_Certificate_computeLDL_20_2_7`, `OAI_Laughlin_Certificate_computeLDL_20_2_8`, `OAI_Laughlin_Certificate_computeLDL_20_2_9`, `OAI_Laughlin_Certificate_computeLDL_20_3_0`, `OAI_Laughlin_Certificate_computeLDL_20_3_1`, `OAI_Laughlin_Certificate_computeLDL_20_3_2`, `OAI_Laughlin_Certificate_computeLDL_20_3_3`, `OAI_Laughlin_Certificate_computeLDL_20_3_4`, `OAI_Laughlin_Certificate_computeLDL_20_3_5`, `OAI_Laughlin_Certificate_computeLDL_20_3_6`, `OAI_Laughlin_Certificate_computeLDL_20_3_7`, `OAI_Laughlin_Certificate_computeLDL_20_3_8`, `OAI_Laughlin_Certificate_computeLDL_20_3_9`, `OAI_Laughlin_Certificate_computeLDL_20_4_0`, `OAI_Laughlin_Certificate_computeLDL_20_4_1`, `OAI_Laughlin_Certificate_computeLDL_20_4_2`, `OAI_Laughlin_Certificate_computeLDL_20_4_3`, `OAI_Laughlin_Certificate_computeLDL_20_4_4`, `OAI_Laughlin_Certificate_computeLDL_20_4_5`, `OAI_Laughlin_Certificate_computeLDL_20_4_6`, `OAI_Laughlin_Certificate_computeLDL_20_4_7`, `OAI_Laughlin_Certificate_computeLDL_20_4_8`, `OAI_Laughlin_Certificate_computeLDL_20_4_9`, `OAI_Laughlin_Certificate_computeLDL_20_5_0`, `OAI_Laughlin_Certificate_computeLDL_20_5_1`, `OAI_Laughlin_Certificate_computeLDL_20_5_2`, `OAI_Laughlin_Certificate_computeLDL_20_5_3`, `OAI_Laughlin_Certificate_computeLDL_20_5_4`, `OAI_Laughlin_Certificate_computeLDL_20_5_5`, `OAI_Laughlin_Certificate_computeLDL_20_5_6`, `OAI_Laughlin_Certificate_computeLDL_20_5_7`, `OAI_Laughlin_Certificate_computeLDL_20_5_8`, `OAI_Laughlin_Certificate_computeLDL_20_5_9`, `OAI_Laughlin_Certificate_computeLDL_20_6_0`, `OAI_Laughlin_Certificate_computeLDL_20_6_1`, `OAI_Laughlin_Certificate_computeLDL_20_6_2`, `OAI_Laughlin_Certificate_computeLDL_20_6_3`, `OAI_Laughlin_Certificate_computeLDL_20_6_4`, `OAI_Laughlin_Certificate_computeLDL_20_6_5`, `OAI_Laughlin_Certificate_computeLDL_20_6_6`, `OAI_Laughlin_Certificate_computeLDL_20_6_7`, `OAI_Laughlin_Certificate_computeLDL_20_6_8`, `OAI_Laughlin_Certificate_computeLDL_20_6_9`, `OAI_Laughlin_Certificate_computeLDL_20_7_0`, `OAI_Laughlin_Certificate_computeLDL_20_7_1`, `OAI_Laughlin_Certificate_computeLDL_20_7_2`, `OAI_Laughlin_Certificate_computeLDL_20_7_3`, `OAI_Laughlin_Certificate_computeLDL_20_7_4`, `OAI_Laughlin_Certificate_computeLDL_20_7_5`, `OAI_Laughlin_Certificate_computeLDL_20_7_6`, `OAI_Laughlin_Certificate_computeLDL_20_7_7`, `OAI_Laughlin_Certificate_computeLDL_20_7_8`, `OAI_Laughlin_Certificate_computeLDL_20_7_9`, `OAI_Laughlin_Certificate_computeLDL_20_8_0`, `OAI_Laughlin_Certificate_computeLDL_20_8_1`, `OAI_Laughlin_Certificate_computeLDL_20_8_2`, `OAI_Laughlin_Certificate_computeLDL_20_8_3`, `OAI_Laughlin_Certificate_computeLDL_20_8_4`, `OAI_Laughlin_Certificate_computeLDL_20_8_5`, `OAI_Laughlin_Certificate_computeLDL_20_8_6`, `OAI_Laughlin_Certificate_computeLDL_20_8_7`, `OAI_Laughlin_Certificate_computeLDL_20_8_8`, `OAI_Laughlin_Certificate_computeLDL_20_8_9`, `OAI_Laughlin_Certificate_computeLDL_20_9_0`, `OAI_Laughlin_Certificate_computeLDL_20_9_1`, `OAI_Laughlin_Certificate_computeLDL_20_9_2`, `OAI_Laughlin_Certificate_computeLDL_20_9_3`, `OAI_Laughlin_Certificate_computeLDL_20_9_4`, `OAI_Laughlin_Certificate_computeLDL_20_9_5`, `OAI_Laughlin_Certificate_computeLDL_20_9_6`, `OAI_Laughlin_Certificate_computeLDL_20_9_7`, `OAI_Laughlin_Certificate_computeLDL_20_9_8`, `OAI_Laughlin_Certificate_computeLDL_20_9_9`, `OAI_Laughlin_Certificate_computeLDL_21_0_10`, `OAI_Laughlin_Certificate_computeLDL_21_10_0`, `OAI_Laughlin_Certificate_computeLDL_21_10_1`, `OAI_Laughlin_Certificate_computeLDL_21_10_10`, `OAI_Laughlin_Certificate_computeLDL_21_10_2`, `OAI_Laughlin_Certificate_computeLDL_21_10_3`, `OAI_Laughlin_Certificate_computeLDL_21_10_4`, `OAI_Laughlin_Certificate_computeLDL_21_10_5`, `OAI_Laughlin_Certificate_computeLDL_21_10_6`, `OAI_Laughlin_Certificate_computeLDL_21_10_7`, `OAI_Laughlin_Certificate_computeLDL_21_10_8`, `OAI_Laughlin_Certificate_computeLDL_21_10_9`, `OAI_Laughlin_Certificate_computeLDL_21_1_10`, `OAI_Laughlin_Certificate_computeLDL_21_2_10`, `OAI_Laughlin_Certificate_computeLDL_21_2_9`, `OAI_Laughlin_Certificate_computeLDL_21_3_0`, `OAI_Laughlin_Certificate_computeLDL_21_3_1`, `OAI_Laughlin_Certificate_computeLDL_21_3_10`, `OAI_Laughlin_Certificate_computeLDL_21_3_2`, `OAI_Laughlin_Certificate_computeLDL_21_3_3`, `OAI_Laughlin_Certificate_computeLDL_21_3_4`, `OAI_Laughlin_Certificate_computeLDL_21_3_5`, `OAI_Laughlin_Certificate_computeLDL_21_3_6`, `OAI_Laughlin_Certificate_computeLDL_21_3_7`, `OAI_Laughlin_Certificate_computeLDL_21_3_8`, `OAI_Laughlin_Certificate_computeLDL_21_3_9`, `OAI_Laughlin_Certificate_computeLDL_21_4_0`, `OAI_Laughlin_Certificate_computeLDL_21_4_1`, `OAI_Laughlin_Certificate_computeLDL_21_4_10`, `OAI_Laughlin_Certificate_computeLDL_21_4_2`, `OAI_Laughlin_Certificate_computeLDL_21_4_3`, `OAI_Laughlin_Certificate_computeLDL_21_4_4`, `OAI_Laughlin_Certificate_computeLDL_21_4_5`, `OAI_Laughlin_Certificate_computeLDL_21_4_6`, `OAI_Laughlin_Certificate_computeLDL_21_4_7`, `OAI_Laughlin_Certificate_computeLDL_21_4_8`, `OAI_Laughlin_Certificate_computeLDL_21_4_9`, `OAI_Laughlin_Certificate_computeLDL_21_5_0`, `OAI_Laughlin_Certificate_computeLDL_21_5_1`, `OAI_Laughlin_Certificate_computeLDL_21_5_10`, `OAI_Laughlin_Certificate_computeLDL_21_5_2`, `OAI_Laughlin_Certificate_computeLDL_21_5_3`, `OAI_Laughlin_Certificate_computeLDL_21_5_4`, `OAI_Laughlin_Certificate_computeLDL_21_5_5`, `OAI_Laughlin_Certificate_computeLDL_21_5_6`, `OAI_Laughlin_Certificate_computeLDL_21_5_7`, `OAI_Laughlin_Certificate_computeLDL_21_5_8`, `OAI_Laughlin_Certificate_computeLDL_21_5_9`, `OAI_Laughlin_Certificate_computeLDL_21_6_0`, `OAI_Laughlin_Certificate_computeLDL_21_6_1`, `OAI_Laughlin_Certificate_computeLDL_21_6_10`, `OAI_Laughlin_Certificate_computeLDL_21_6_2`, `OAI_Laughlin_Certificate_computeLDL_21_6_3`, `OAI_Laughlin_Certificate_computeLDL_21_6_4`, `OAI_Laughlin_Certificate_computeLDL_21_6_5`, `OAI_Laughlin_Certificate_computeLDL_21_6_6`, `OAI_Laughlin_Certificate_computeLDL_21_6_7`, `OAI_Laughlin_Certificate_computeLDL_21_6_8`, `OAI_Laughlin_Certificate_computeLDL_21_6_9`, `OAI_Laughlin_Certificate_computeLDL_21_7_0`, `OAI_Laughlin_Certificate_computeLDL_21_7_1`, `OAI_Laughlin_Certificate_computeLDL_21_7_10`, `OAI_Laughlin_Certificate_computeLDL_21_7_2`, `OAI_Laughlin_Certificate_computeLDL_21_7_3`, `OAI_Laughlin_Certificate_computeLDL_21_7_4`, `OAI_Laughlin_Certificate_computeLDL_21_7_5`, `OAI_Laughlin_Certificate_computeLDL_21_7_6`, `OAI_Laughlin_Certificate_computeLDL_21_7_7`, `OAI_Laughlin_Certificate_computeLDL_21_7_8`, `OAI_Laughlin_Certificate_computeLDL_21_7_9`, `OAI_Laughlin_Certificate_computeLDL_21_8_0`, `OAI_Laughlin_Certificate_computeLDL_21_8_1`, `OAI_Laughlin_Certificate_computeLDL_21_8_10`, `OAI_Laughlin_Certificate_computeLDL_21_8_2`, `OAI_Laughlin_Certificate_computeLDL_21_8_3`, `OAI_Laughlin_Certificate_computeLDL_21_8_4`, `OAI_Laughlin_Certificate_computeLDL_21_8_5`, `OAI_Laughlin_Certificate_computeLDL_21_8_6`, `OAI_Laughlin_Certificate_computeLDL_21_8_7`, `OAI_Laughlin_Certificate_computeLDL_21_8_8`, `OAI_Laughlin_Certificate_computeLDL_21_8_9`, `OAI_Laughlin_Certificate_computeLDL_21_9_0`, `OAI_Laughlin_Certificate_computeLDL_21_9_1`, `OAI_Laughlin_Certificate_computeLDL_21_9_10`, `OAI_Laughlin_Certificate_computeLDL_21_9_2`, `OAI_Laughlin_Certificate_computeLDL_21_9_3`, `OAI_Laughlin_Certificate_computeLDL_21_9_4`, `OAI_Laughlin_Certificate_computeLDL_21_9_5`, `OAI_Laughlin_Certificate_computeLDL_21_9_6`, `OAI_Laughlin_Certificate_computeLDL_21_9_7`, `OAI_Laughlin_Certificate_computeLDL_21_9_8`, `OAI_Laughlin_Certificate_computeLDL_21_9_9`, `OAI_Laughlin_Certificate_computeLDL_22_0_10`, `OAI_Laughlin_Certificate_computeLDL_22_10_0`, `OAI_Laughlin_Certificate_computeLDL_22_10_1`, `OAI_Laughlin_Certificate_computeLDL_22_10_10`, `OAI_Laughlin_Certificate_computeLDL_22_10_2`, `OAI_Laughlin_Certificate_computeLDL_22_10_3`, `OAI_Laughlin_Certificate_computeLDL_22_10_4`, `OAI_Laughlin_Certificate_computeLDL_22_10_5`, `OAI_Laughlin_Certificate_computeLDL_22_10_6`, `OAI_Laughlin_Certificate_computeLDL_22_10_7`, `OAI_Laughlin_Certificate_computeLDL_22_10_8`, `OAI_Laughlin_Certificate_computeLDL_22_10_9`, `OAI_Laughlin_Certificate_computeLDL_22_1_10`, `OAI_Laughlin_Certificate_computeLDL_22_2_10`, `OAI_Laughlin_Certificate_computeLDL_22_2_9`, `OAI_Laughlin_Certificate_computeLDL_22_3_0`, `OAI_Laughlin_Certificate_computeLDL_22_3_1`, `OAI_Laughlin_Certificate_computeLDL_22_3_10`, `OAI_Laughlin_Certificate_computeLDL_22_3_2`, `OAI_Laughlin_Certificate_computeLDL_22_3_3`, `OAI_Laughlin_Certificate_computeLDL_22_3_4`, `OAI_Laughlin_Certificate_computeLDL_22_3_5`, `OAI_Laughlin_Certificate_computeLDL_22_3_6`, `OAI_Laughlin_Certificate_computeLDL_22_3_7`, `OAI_Laughlin_Certificate_computeLDL_22_3_8`, `OAI_Laughlin_Certificate_computeLDL_22_3_9`, `OAI_Laughlin_Certificate_computeLDL_22_4_0`, `OAI_Laughlin_Certificate_computeLDL_22_4_1`, `OAI_Laughlin_Certificate_computeLDL_22_4_10`, `OAI_Laughlin_Certificate_computeLDL_22_4_2`, `OAI_Laughlin_Certificate_computeLDL_22_4_3`, `OAI_Laughlin_Certificate_computeLDL_22_4_4`, `OAI_Laughlin_Certificate_computeLDL_22_4_5`, `OAI_Laughlin_Certificate_computeLDL_22_4_6`, `OAI_Laughlin_Certificate_computeLDL_22_4_7`, `OAI_Laughlin_Certificate_computeLDL_22_4_8`, `OAI_Laughlin_Certificate_computeLDL_22_4_9`, `OAI_Laughlin_Certificate_computeLDL_22_5_0`, `OAI_Laughlin_Certificate_computeLDL_22_5_1`, `OAI_Laughlin_Certificate_computeLDL_22_5_10`, `OAI_Laughlin_Certificate_computeLDL_22_5_2`, `OAI_Laughlin_Certificate_computeLDL_22_5_3`, `OAI_Laughlin_Certificate_computeLDL_22_5_4`, `OAI_Laughlin_Certificate_computeLDL_22_5_5`, `OAI_Laughlin_Certificate_computeLDL_22_5_6`, `OAI_Laughlin_Certificate_computeLDL_22_5_7`, `OAI_Laughlin_Certificate_computeLDL_22_5_8`, `OAI_Laughlin_Certificate_computeLDL_22_5_9`, `OAI_Laughlin_Certificate_computeLDL_22_6_0`, `OAI_Laughlin_Certificate_computeLDL_22_6_1`, `OAI_Laughlin_Certificate_computeLDL_22_6_10`, `OAI_Laughlin_Certificate_computeLDL_22_6_2`, `OAI_Laughlin_Certificate_computeLDL_22_6_3`, `OAI_Laughlin_Certificate_computeLDL_22_6_4`, `OAI_Laughlin_Certificate_computeLDL_22_6_5`, `OAI_Laughlin_Certificate_computeLDL_22_6_6`, `OAI_Laughlin_Certificate_computeLDL_22_6_7`, `OAI_Laughlin_Certificate_computeLDL_22_6_8`, `OAI_Laughlin_Certificate_computeLDL_22_6_9`, `OAI_Laughlin_Certificate_computeLDL_22_7_0`, `OAI_Laughlin_Certificate_computeLDL_22_7_1`, `OAI_Laughlin_Certificate_computeLDL_22_7_10`, `OAI_Laughlin_Certificate_computeLDL_22_7_2`, `OAI_Laughlin_Certificate_computeLDL_22_7_3`, `OAI_Laughlin_Certificate_computeLDL_22_7_4`, `OAI_Laughlin_Certificate_computeLDL_22_7_5`, `OAI_Laughlin_Certificate_computeLDL_22_7_6`, `OAI_Laughlin_Certificate_computeLDL_22_7_7`, `OAI_Laughlin_Certificate_computeLDL_22_7_8`, `OAI_Laughlin_Certificate_computeLDL_22_7_9`, `OAI_Laughlin_Certificate_computeLDL_22_8_0`, `OAI_Laughlin_Certificate_computeLDL_22_8_1`, `OAI_Laughlin_Certificate_computeLDL_22_8_10`, `OAI_Laughlin_Certificate_computeLDL_22_8_2`, `OAI_Laughlin_Certificate_computeLDL_22_8_3`, `OAI_Laughlin_Certificate_computeLDL_22_8_4`, `OAI_Laughlin_Certificate_computeLDL_22_8_5`, `OAI_Laughlin_Certificate_computeLDL_22_8_6`, `OAI_Laughlin_Certificate_computeLDL_22_8_7`, `OAI_Laughlin_Certificate_computeLDL_22_8_8`, `OAI_Laughlin_Certificate_computeLDL_22_8_9`, `OAI_Laughlin_Certificate_computeLDL_22_9_0`, `OAI_Laughlin_Certificate_computeLDL_22_9_1`, `OAI_Laughlin_Certificate_computeLDL_22_9_10`, `OAI_Laughlin_Certificate_computeLDL_22_9_2`, `OAI_Laughlin_Certificate_computeLDL_22_9_3`, `OAI_Laughlin_Certificate_computeLDL_22_9_4`, `OAI_Laughlin_Certificate_computeLDL_22_9_5`, `OAI_Laughlin_Certificate_computeLDL_22_9_6`, `OAI_Laughlin_Certificate_computeLDL_22_9_7`, `OAI_Laughlin_Certificate_computeLDL_22_9_8`, `OAI_Laughlin_Certificate_computeLDL_22_9_9`, `OAI.Laughlin.Fock.averagedFourTransferError_tendsto`, `OAI.Laughlin.Fock.complexThreeSpinProjector_eigen`, `OAI.Laughlin.Fock.limitFourCopyEnd_local_sum`, `OAI.Laughlin.Fock.physical_fourBody_total_haar_transfer`, `OAI.Laughlin.Fock.physical_pair_norm_haar_real`, `OAI.Laughlin.Fock.physical_threeBody_Fock_comparison_eventually`, `OAI.Laughlin.Fock.physical_threeBody_budget_eventually`, `OAI.Laughlin.Fock.physical_twoBody_certificate_haar`, `OAI.Laughlin.Fock.sourceFockHamiltonian_normal_square`, `OAI.Laughlin.Fock.sourceKForm_decomposition`, `OAI.Laughlin.Fock.source_fourBody_limitpositive`, `OAI.Laughlin.Fock.source_fourBody_physical_L`, `OAI.Laughlin.Spin.source_threeBody_physical_traces_strict_eventually`, `OAI.Laughlin.Spin.threeGram_on_slice` and `OAI.Laughlin.mainTarget_proved`.
+-- source:
+--   OpenAI, Uniform stability of the spherical Laughlin gap (result family 269), OpenAI Math Release, October 5, 2026, https://github.com/openai/math (result family 269; paper: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/uniform-stability-spherical-laughlin-gap.pdf; Apache License 2.0); definitions carved from lean/OAI/Analysis at commit adc7f12
+
+import Mathlib
+import Definitions.Def_Laughlin
+import Definitions.Def_OAIQ047L000
+import Definitions.Def_OAIQ047L001
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Exterior_Scaling
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+
+noncomputable def orbitalScaling (Q : ℕ) (d : Fin (Q+1) → ℂ) : Orbital Q →ₗ[ℂ] Orbital Q where
+  toFun v i := d i*v i
+  map_add' v w := by ext i; simp [mul_add]
+  map_smul' c v := by ext i; simp [mul_left_comm]
+
+noncomputable def exteriorScaling (Q : ℕ) (d : Fin (Q+1) → ℂ) : Space Q →ₐ[ℂ] Space Q :=
+  ExteriorAlgebra.map (orbitalScaling Q d)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Exterior_PairConjugation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def pairEnd (Q : ℕ) (c : Fin (Q+1) → Fin (Q+1) → ℂ) : Module.End ℂ (Space Q) :=
+  ∑ i, ∑ j, c i j • (annihilate j * annihilate i)
+
+noncomputable def sourcePairEnd (Q p : ℕ) : Module.End ℂ (Space Q) :=
+  pairEnd Q (fun i j => ((pairCoefficient Q p i j / Real.sqrt 2 : ℝ) : ℂ))
+
+noncomputable def limitPairEnd (Q p : ℕ) : Module.End ℂ (Space Q) :=
+  pairEnd Q (fun i j => ((pairLimitCoefficient p i.val j.val / Real.sqrt 2 : ℝ) : ℂ))
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Exterior_FourConjugation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+
+noncomputable def sourceFourEnd (Q p : ℕ) (j k : Fin (Q+1)) : Module.End ℂ (Space Q) :=
+  annihilate k * annihilate j * sourcePairEnd Q p
+
+noncomputable def limitFourEnd (Q p : ℕ) (j k : Fin (Q+1)) : Module.End ℂ (Space Q) :=
+  annihilate k * annihilate j * limitPairEnd Q p
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Exterior_OccupationMetric
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Topology
+
+noncomputable def occupationNormSq (Q : ℕ) (x : Space Q) : ℝ :=
+  ∑ A : Finset (Fin (Q+1)), ‖(occupationBasis Q).repr x A‖^2
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_Annihilation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+
+noncomputable def insertionSign (Q : ℕ) (i : Fin (Q+1)) (A : Finset (Fin (Q+1))) : ℂ :=
+  if h : i ∉ A then (create_unoccupied_sign Q i A h).choose else 1
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_CollectionAnnihilatorBound
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def limitPairWindow (Q : ℕ) (x : Space Q) : ℝ :=
+  ∑ p ∈ Finset.range 24, occupationNormSq Q (limitPairEnd Q p x)
+
+noncomputable def sourcePairWindow (Q : ℕ) (x : Space Q) : ℝ :=
+  ∑ p ∈ Finset.range 24, occupationNormSq Q (sourcePairEnd Q p x)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Asymptotics_TruncatedScaling
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def truncatedModeFactor (L Q : ℕ) (i : Fin (Q+1)) : ℝ :=
+  if i.val ≤ L then modeFactor Q i.val else 1
+
+noncomputable def truncatedScaling (L Q : ℕ) : Space Q →ₐ[ℂ] Space Q :=
+  exteriorScaling Q (fun i => (truncatedModeFactor L Q i : ℂ))
+
+noncomputable def truncatedScalingInv (L Q : ℕ) : Space Q →ₐ[ℂ] Space Q :=
+  exteriorScaling Q (fun i => (truncatedModeFactor L Q i : ℂ)⁻¹)
+
+noncomputable def truncatedDiagonals (L Q : ℕ) (A : Finset (Fin (Q+1))) : ℝ :=
+  ∏ i ∈ A, truncatedModeFactor L Q i
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Asymptotics_TruncatedMetricPerturbation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators InnerProductSpace
+
+noncomputable def occupationQuadratic {I : Type*} [Fintype I]
+    (Q : ℕ) (R : I → I → ℝ) (v : I → Space Q) : ℝ :=
+  (∑ i, ∑ j, (R i j : ℂ) * occupationInner Q (v i) (v j)).re
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_TensorAction
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open scoped BigOperators Matrix
+
+noncomputable def sourceTensorRepresentation (Q : ℕ) : SourceSU2 →*
+    Matrix (Fin Q → Fin 2) (Fin Q → Fin 2) ℂ where
+  toFun g := tensorMatrix Q g.val
+  map_one' := tensorMatrix_one Q
+  map_mul' g h := tensorMatrix_mul Q g.val h.val
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Compact
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open scoped BigOperators Matrix
+
+instance sourceSU2_continuousInv : ContinuousInv SourceSU2 where
+  continuous_inv := by
+    apply continuous_induced_rng.mpr
+    change Continuous (fun g : SourceSU2 => (g.val)ᴴ)
+    fun_prop
+
+instance sourceSU2_topologicalGroup : IsTopologicalGroup SourceSU2 where
+
+instance sourceSU2_compactSpace : CompactSpace SourceSU2 :=
+  isCompact_iff_compactSpace.mp sourceSU2_isCompact
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open MeasureTheory MeasureTheory.Measure TopologicalSpace
+
+noncomputable instance sourceSU2_measurableSpace : MeasurableSpace SourceSU2 := borel SourceSU2
+instance sourceSU2_borelSpace : BorelSpace SourceSU2 := ⟨rfl⟩
+
+noncomputable def sourceHaar : Measure SourceSU2 :=
+  haarMeasure (⊤ : PositiveCompacts SourceSU2)
+
+instance sourceHaar_isHaar : IsHaarMeasure sourceHaar :=
+  inferInstanceAs (IsHaarMeasure (haarMeasure (⊤ : PositiveCompacts SourceSU2)))
+
+instance sourceHaar_isProbability : IsProbabilityMeasure sourceHaar where
+  measure_univ := by
+    simpa [sourceHaar] using (haarMeasure_self (K₀ := (⊤ : PositiveCompacts SourceSU2)))
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Representation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open scoped BigOperators Matrix
+
+noncomputable def sourceSpinMatrix (Q : ℕ) (g : SourceSU2) : Matrix (Fin (Q+1)) (Fin (Q+1)) ℂ :=
+  (symmetricTensorInclusion Q)ᴴ * sourceTensorRepresentation Q g * symmetricTensorInclusion Q
+
+ theorem tensor_spin_intertwining (Q : ℕ) (g : SourceSU2) :
+    symmetricTensorInclusion Q*sourceSpinMatrix Q g = sourceTensorRepresentation Q g*symmetricTensorInclusion Q := by
+  ext a p
+  let v : (Fin Q → Fin 2) → ℂ := fun b => symmetricTensorInclusion Q b p
+  have hv : ∀ b c, tensorWeight Q b=tensorWeight Q c → v b=v c := by
+    intro b c h
+    simp only [v,symmetricTensorInclusion,Matrix.map_apply,symmetricTensorInclusionReal,h]
+  have hf := tensorMatrix_preserves_symmetric Q g.val v hv
+  have he := congrFun (symmetricTensor_projector_fixed Q (sourceTensorRepresentation Q g *ᵥ v) hf) a
+  change (symmetricTensorInclusion Q*((symmetricTensorInclusion Q)ᴴ*sourceTensorRepresentation Q g*symmetricTensorInclusion Q)) a p = _
+  calc
+    _ = ((symmetricTensorInclusion Q*(symmetricTensorInclusion Q)ᴴ)*
+      (sourceTensorRepresentation Q g*symmetricTensorInclusion Q)) a p := by simp only [Matrix.mul_assoc]
+    _ = _ := he
+
+ theorem sourceSpinMatrix_mul (Q : ℕ) (g h : SourceSU2) :
+    sourceSpinMatrix Q (g*h)=sourceSpinMatrix Q g*sourceSpinMatrix Q h := by
+  unfold sourceSpinMatrix
+  rw [map_mul]
+  have he := tensor_spin_intertwining Q h
+  unfold sourceSpinMatrix at he
+  calc
+    _ = (symmetricTensorInclusion Q)ᴴ*sourceTensorRepresentation Q g*
+        (sourceTensorRepresentation Q h*symmetricTensorInclusion Q) := by simp only [Matrix.mul_assoc]
+    _ = _ := by rw [← he]; simp only [Matrix.mul_assoc]
+
+ theorem sourceSpinMatrix_one (Q : ℕ) : sourceSpinMatrix Q 1=1 := by
+  simp only [sourceSpinMatrix,map_one,Matrix.mul_one,symmetricTensorInclusion_isometry]
+
+noncomputable def sourceSpinRepresentation (Q : ℕ) : SourceSU2 →* Matrix (Fin (Q+1)) (Fin (Q+1)) ℂ where
+  toFun := sourceSpinMatrix Q
+  map_one' := sourceSpinMatrix_one Q
+  map_mul' := sourceSpinMatrix_mul Q
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Torus
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open scoped BigOperators Matrix
+
+noncomputable def sourceTorus (z : ℂ) (hz : ‖z‖=1) : SourceSU2 := by
+  let A : Matrix (Fin 2) (Fin 2) ℂ := Matrix.diagonal (fun i => if i=0 then z else star z)
+  have hzz : z*(starRingEnd ℂ) z=1 := by simpa [hz] using Complex.mul_conj' z
+  have hzz' : (starRingEnd ℂ) z*z=1 := by rw [mul_comm]; exact hzz
+  refine ⟨A,?_⟩
+  constructor
+  · apply Matrix.mem_unitaryGroup_iff.mpr
+    ext i j
+    fin_cases i <;> fin_cases j <;>
+      simp [A,Matrix.mul_apply,Matrix.star_eq_conjTranspose,hzz,hzz']
+  · simp [A,Matrix.det_diagonal,Fin.prod_univ_two,hzz]
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Highest2
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators
+
+theorem ladder_pos (A p : ℕ) (hp : p < A) : 0 < ladder A p := by
+  unfold ladder
+  apply Real.sqrt_pos.mpr
+  have h : (0 : ℝ) < (A-p : ℕ) := by exact_mod_cast (show 0 < A-p by omega)
+  positivity
+
+theorem ladder_div_sqrt_choose (A p : ℕ) (hp : p < A) :
+    ladder A p / Real.sqrt (A.choose (p+1) : ℝ) =
+      ((p : ℝ)+1) / Real.sqrt (A.choose p : ℝ) := by
+  have h₀ : 0 < (A.choose p : ℝ) := by exact_mod_cast Nat.choose_pos (by omega : p ≤ A)
+  have h₁ : 0 < (A.choose (p+1) : ℝ) := by exact_mod_cast Nat.choose_pos (by omega : p+1 ≤ A)
+  apply (div_eq_div_iff (ne_of_gt (Real.sqrt_pos.mpr h₁))
+    (ne_of_gt (Real.sqrt_pos.mpr h₀))).mpr
+  have hc := choose_step_real A p (by omega)
+  have he : (ladder A p * Real.sqrt (A.choose p : ℝ))^2 =
+      (((p : ℝ)+1)*Real.sqrt (A.choose (p+1) : ℝ))^2 := by
+    unfold ladder
+    rw [mul_pow,mul_pow,Real.sq_sqrt (by positivity),Real.sq_sqrt (by positivity),
+      Real.sq_sqrt (by positivity)]
+    nlinarith [hc]
+  have hn₀ : 0 ≤ ladder A p * Real.sqrt (A.choose p : ℝ) :=
+    mul_nonneg (le_of_lt (ladder_pos A p hp)) (Real.sqrt_nonneg _)
+  have hn₁ : 0 ≤ ((p : ℝ)+1)*Real.sqrt (A.choose (p+1) : ℝ) := by positivity
+  nlinarith
+
+theorem highestRaw_raising (A B z p : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (hp : p < z) :
+    ladder A p * highestRaw A B z (p+1) +
+      ladder B (z-p-1) * highestRaw A B z p = 0 := by
+  have hpA : p < A := by omega
+  have hkB : z-p-1 < B := by omega
+  have hk : z-(p+1) = z-p-1 := by omega
+  have hk' : z-p = (z-p-1)+1 := by omega
+  have hca : (Real.sqrt (A.choose p : ℝ)) ≠ 0 := by
+    apply ne_of_gt; apply Real.sqrt_pos.mpr; exact_mod_cast Nat.choose_pos (by omega : p ≤ A)
+  have hcb : (Real.sqrt (B.choose (z-p-1) : ℝ)) ≠ 0 := by
+    apply ne_of_gt; apply Real.sqrt_pos.mpr; exact_mod_cast Nat.choose_pos (by omega : z-p-1 ≤ B)
+  simp only [highestRaw,ite_eq_left (show p+1 ≤ z by omega),ite_eq_left (show p ≤ z by omega),hk]
+  rw [Real.sqrt_mul (by positivity),Real.sqrt_mul (by positivity)]
+  have hleft := ladder_div_sqrt_choose A p hpA
+  have hright := ladder_div_sqrt_choose B (z-p-1) hkB
+  rw [← hk'] at hright
+  have hz := choose_step_real z p (by omega)
+  have castk : ((z-p-1 : ℕ) : ℝ)+1 = (z-p : ℕ) := by exact_mod_cast hk'.symm
+  rw [castk] at hright
+  calc
+    _ = (-1 : ℝ)^(p+1)*(z.choose (p+1) : ℝ) /
+          Real.sqrt (B.choose (z-p-1) : ℝ) *
+          (ladder A p / Real.sqrt (A.choose (p+1) : ℝ)) +
+        (-1 : ℝ)^p*(z.choose p : ℝ) / Real.sqrt (A.choose p : ℝ) *
+          (ladder B (z-p-1) / Real.sqrt (B.choose (z-p) : ℝ)) := by ring
+    _ = _ := by rw [hleft,hright]
+    _ = 0 := by rw [pow_succ]; field_simp; linear_combination -((-1 : ℝ)^p)*hz
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_LadderMatrix
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators
+
+theorem raiseMatrix_row (A : ℕ) (i : Fin (A+1)) (f : Fin (A+1) → ℝ) :
+    (∑ j, raiseMatrix A i j*f j) =
+      if hi : i.val < A then ladder A i.val*f ⟨i.val+1,by omega⟩ else 0 := by
+  by_cases hi : i.val < A
+  · rw [dite_eq_left hi]
+    let next : Fin (A+1) := ⟨i.val+1,by omega⟩
+    have he (j : Fin (A+1)) : i.val+1=j.val ↔ next=j := by
+      constructor
+      · intro h; exact Fin.ext h
+      · intro h; exact congrArg Fin.val h
+    simp only [raiseMatrix,he,ite_mul,zero_mul,Finset.sum_ite_eq,Finset.mem_univ,ite_true]
+    rfl
+  · rw [dite_eq_right hi]
+    apply Finset.sum_eq_zero
+    intro j hj
+    have hn : i.val+1 ≠ j.val := by omega
+    simp [raiseMatrix,hn]
+
+theorem raiseMatrix_column (A : ℕ) (j : Fin (A+1)) (f : Fin (A+1) → ℝ) :
+    (∑ i, f i*raiseMatrix A i j) =
+      if hj : 0 < j.val then f ⟨j.val-1,by omega⟩*ladder A (j.val-1) else 0 := by
+  by_cases hj : 0 < j.val
+  · rw [dite_eq_left hj]
+    let prev : Fin (A+1) := ⟨j.val-1,by omega⟩
+    rw [Finset.sum_eq_single prev]
+    · simp [raiseMatrix,prev,show j.val-1+1=j.val by omega]
+    · intro i hi hn
+      have hne : i.val+1 ≠ j.val := by
+        intro h; apply hn; apply Fin.ext; dsimp [prev]; omega
+      simp [raiseMatrix,hne]
+    · simp
+  · rw [dite_eq_right hj]
+    apply Finset.sum_eq_zero
+    intro i hi
+    have hn : i.val+1 ≠ j.val := by omega
+    simp [raiseMatrix,hn]
+
+theorem totalRaise_apply (A B : ℕ) (f : Fin (A+1) × Fin (B+1) → ℝ)
+    (i : Fin (A+1) × Fin (B+1)) :
+    (∑ j, totalRaise A B i j*f j) =
+      (∑ x, raiseMatrix A i.1 x*f (x,i.2)) +
+      (∑ y, raiseMatrix B i.2 y*f (i.1,y)) := by
+  rw [Fintype.sum_prod_type]
+  simp only [totalRaise,add_mul,Finset.sum_add_distrib]
+  congr 1
+  · simp only [mul_ite,mul_one,mul_zero,ite_mul,zero_mul,Finset.sum_ite_eq,
+      Finset.mem_univ,ite_true]
+  · rw [Finset.sum_comm]
+    simp only [ite_mul,one_mul,zero_mul,Finset.sum_ite_eq,Finset.mem_univ,ite_true]
+
+theorem totalRaise_transpose_apply (A B : ℕ) (f : Fin (A+1) × Fin (B+1) → ℝ)
+    (i : Fin (A+1) × Fin (B+1)) :
+    (∑ j, totalRaise A B j i*f j) =
+      (∑ x, f (x,i.2)*raiseMatrix A x i.1) +
+      (∑ y, f (i.1,y)*raiseMatrix B y i.2) := by
+  rw [Fintype.sum_prod_type]
+  simp only [totalRaise,add_mul,Finset.sum_add_distrib]
+  congr 1
+  · simp only [mul_ite,mul_one,mul_zero,ite_mul,zero_mul,Finset.sum_ite_eq',
+      Finset.mem_univ,ite_true]
+    apply Finset.sum_congr rfl
+    intro x hx; ring
+  · rw [Finset.sum_comm]
+    simp only [ite_mul,one_mul,zero_mul,Finset.sum_ite_eq',Finset.mem_univ,ite_true]
+    apply Finset.sum_congr rfl
+    intro y hy; ring
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_BinomialWeights
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open scoped BigOperators
+
+theorem spinBinomialWeight_step (Q : ℕ) (p : Fin Q) :
+    spinBinomialWeight Q p.succ * ((p.val : ℂ)+1) =
+      spinBinomialWeight Q p.castSucc * (Spin.ladder Q p.val : ℂ) := by
+  have hr : Real.sqrt (Q.choose (p.val+1) : ℝ)*((p.val : ℝ)+1) =
+      Real.sqrt (Q.choose p.val : ℝ)*Spin.ladder Q p.val := by
+    have hc := congrArg (fun n : ℕ => (n : ℝ)) (Nat.choose_succ_right_eq Q p.val)
+    push_cast at hc
+    have he : (Real.sqrt (Q.choose (p.val+1) : ℝ)*((p.val : ℝ)+1))^2 =
+        (Real.sqrt (Q.choose p.val : ℝ)*Spin.ladder Q p.val)^2 := by
+      unfold Spin.ladder
+      rw [mul_pow,mul_pow,Real.sq_sqrt (by positivity),Real.sq_sqrt (by positivity),
+        Real.sq_sqrt (by positivity)]
+      linear_combination ((p.val : ℝ)+1)*hc
+    have h1 : 0 ≤ Real.sqrt (Q.choose (p.val+1) : ℝ)*((p.val : ℝ)+1) := by positivity
+    have h2 : 0 ≤ Real.sqrt (Q.choose p.val : ℝ)*Spin.ladder Q p.val := by
+      unfold Spin.ladder; positivity
+    nlinarith only [he,h1,h2]
+  simpa [spinBinomialWeight] using congrArg Complex.ofReal hr
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Asymptotics_UpperSpinCurve
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open Polynomial
+open scoped BigOperators Matrix
+
+theorem upperSpinCurve_derivative_succ (Q : ℕ) (p : Fin (Q+1)) (q : Fin Q) :
+    (upperSpinCurve Q p q.succ).derivative =
+      upperSpinCurve Q p q.castSucc * C (Spin.ladder Q q.val : ℂ) := by
+  by_cases hp : p.val ≤ q.val
+  · have he : q.val+1-p.val-1=q.val-p.val := by omega
+    simp only [upperSpinCurve,Fin.val_succ,Fin.val_castSucc,derivative_monomial,
+      monomial_mul_C,he]
+    congr 1
+    have hc := congrArg (fun n : ℕ => (n : ℂ)) (Nat.choose_mul_succ_eq q.val p.val)
+    push_cast at hc
+    have hw := spinBinomialWeight_step Q q
+    field_simp [spinBinomialWeight_ne_zero Q p]
+    linear_combination -(spinBinomialWeight Q q.succ)*hc +
+      (q.val.choose p.val : ℂ)*hw
+  · have hsmall : q.val < p.val := by omega
+    by_cases hlarge : q.val+1 < p.val
+    · simp [upperSpinCurve,Nat.choose_eq_zero_of_lt hsmall,Nat.choose_eq_zero_of_lt hlarge]
+    · have he : p.val=q.val+1 := by omega
+      simp [upperSpinCurve,he]
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Sl2Matrix
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+theorem raise_mul_transpose_entry (A : ℕ) (i j : Fin (A+1)) :
+    (raiseMatrix A * (raiseMatrix A)ᵀ) i j =
+      if i=j then ((i.val : ℝ)+1)*(A-i.val : ℕ) else 0 := by
+  change (∑ k, raiseMatrix A i k*raiseMatrix A j k) = _
+  rw [raiseMatrix_row]
+  by_cases hi : i.val < A
+  · rw [dite_eq_left hi]
+    by_cases hij : i=j
+    · subst j
+      simp only [raiseMatrix,ite_true]
+      unfold ladder
+      rw [Real.mul_self_sqrt (by positivity)]
+    · have hne : j.val+1 ≠ i.val+1 := by intro h; apply hij; apply Fin.ext; omega
+      simp only [raiseMatrix,ite_eq_right hne,ite_eq_right hij,mul_zero]
+  · rw [dite_eq_right hi]
+    have hz : i.val=A := by omega
+    simp [hz]
+
+theorem transpose_mul_raise_entry (A : ℕ) (i j : Fin (A+1)) :
+    ((raiseMatrix A)ᵀ * raiseMatrix A) i j =
+      if i=j then (i.val : ℝ)*((A : ℝ)-i.val+1) else 0 := by
+  change (∑ k, raiseMatrix A k i*raiseMatrix A k j) = _
+  have he : (∑ k, raiseMatrix A k i*raiseMatrix A k j) =
+      ∑ k, raiseMatrix A k j*raiseMatrix A k i := by
+    apply Finset.sum_congr rfl; intro k hk; ring
+  rw [he,raiseMatrix_column]
+  by_cases hi : 0 < i.val
+  · rw [dite_eq_left hi]
+    by_cases hij : i=j
+    · subst j
+      simp only [raiseMatrix,ite_eq_left (show i.val-1+1=i.val by omega),ite_true]
+      unfold ladder
+      rw [Real.mul_self_sqrt (by positivity)]
+      rw [Nat.cast_sub (by omega : i.val-1 ≤ A),Nat.cast_sub (by omega : 1 ≤ i.val)]
+      push_cast; ring
+    · have hne : i.val-1+1 ≠ j.val := by intro h; apply hij; apply Fin.ext; omega
+      simp only [raiseMatrix,ite_eq_right hne,ite_eq_right hij,zero_mul]
+  · rw [dite_eq_right hi]
+    have hz : i.val=0 := by omega
+    simp [hz]
+
+theorem raise_lower_commutator (A : ℕ) :
+    raiseMatrix A * (raiseMatrix A)ᵀ - (raiseMatrix A)ᵀ * raiseMatrix A = weightMatrix A := by
+  ext i j
+  rw [Matrix.sub_apply,raise_mul_transpose_entry,transpose_mul_raise_entry]
+  by_cases hij : i=j
+  · subst j
+    simp only [ite_true,weightMatrix,Matrix.diagonal_apply_eq]
+    rw [Nat.cast_sub (by omega : i.val ≤ A)]
+    ring
+  · simp [hij,weightMatrix]
+
+theorem weight_lower_commutator (A : ℕ) :
+    weightMatrix A * (raiseMatrix A)ᵀ =
+      (raiseMatrix A)ᵀ * weightMatrix A - (2 : ℝ) • (raiseMatrix A)ᵀ := by
+  ext i j
+  simp only [weightMatrix,Matrix.diagonal_mul,Matrix.mul_diagonal,Matrix.sub_apply,
+    Matrix.smul_apply,Matrix.transpose_apply,smul_eq_mul,raiseMatrix]
+  by_cases h : j.val+1=i.val
+  · rw [ite_eq_left h]
+    have hc : (j.val : ℝ)+1=i.val := by exact_mod_cast h
+    linear_combination 2*ladder A j.val*hc
+  · rw [ite_eq_right h]; ring
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_TripleLadderIntertwining
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix Kronecker
+
+theorem totalRaise_kronecker (A B : ℕ) :
+    totalRaise A B = raiseMatrix A ⊗ₖ (1 : Matrix (Fin (B+1)) (Fin (B+1)) ℝ) +
+      (1 : Matrix (Fin (A+1)) (Fin (A+1)) ℝ) ⊗ₖ raiseMatrix B := by
+  rfl
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_HighestSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators
+
+theorem highestRaw_ne_zero (A B z p : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (hp : p ≤ z) : highestRaw A B z p ≠ 0 := by
+  rw [highestRaw,ite_eq_left hp]
+  apply div_ne_zero
+  · exact mul_ne_zero (pow_ne_zero _ (by norm_num))
+      (by exact_mod_cast Nat.ne_of_gt (Nat.choose_pos hp))
+  · apply ne_of_gt; apply Real.sqrt_pos.mpr
+    have ha : 0 < (A.choose p : ℝ) := by exact_mod_cast Nat.choose_pos (by omega : p ≤ A)
+    have hb : 0 < (B.choose (z-p) : ℝ) := by exact_mod_cast Nat.choose_pos (by omega : z-p ≤ B)
+    positivity
+
+theorem highestNorm_pos (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    0 < highestNorm A B z := by
+  apply Real.sqrt_pos.mpr
+  apply Finset.sum_pos'
+  · intro p hp; exact sq_nonneg _
+  · exact ⟨0,Finset.mem_range.mpr (by omega),sq_pos_of_ne_zero
+      (highestRaw_ne_zero A B z 0 hA hB (by omega))⟩
+
+theorem highestUnit_norm (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    (∑ p ∈ Finset.range (z+1), (highestUnit A B z p)^2) = 1 := by
+  simp only [highestUnit,div_pow,← Finset.sum_div]
+  rw [highestNorm,Real.sq_sqrt (Finset.sum_nonneg (fun _ _ => sq_nonneg _))]
+  apply div_self
+  have h := highestNorm_pos A B z hA hB
+  exact ne_of_gt (Real.sqrt_pos.mp h)
+
+theorem highestUnit_raising (A B z p : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (hp : p < z) :
+    ladder A p*highestUnit A B z (p+1)+ladder B (z-p-1)*highestUnit A B z p = 0 := by
+  simp only [highestUnit,← mul_div_assoc,← add_div]
+  rw [highestRaw_raising A B z p hA hB hp,zero_div]
+
+noncomputable def raiseSlice (A B z : ℕ) (f : Fin (z+1) → ℝ) (p : Fin z) : ℝ :=
+  ladder A p.val * f ⟨p.val+1,by omega⟩ +
+    ladder B (z-p.val-1)*f ⟨p.val,by omega⟩
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_WeightSlice
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+theorem weightSliceIndex_injective (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    Function.Injective (weightSliceIndex A B z hA hB) := by
+  intro p q h
+  exact Fin.ext (congrArg (fun i => i.1.val) h)
+
+theorem extendWeightSlice_at (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (f : Fin (z+1) → ℝ) (p : Fin (z+1)) :
+    extendWeightSlice A B z hA hB f (weightSliceIndex A B z hA hB p) = f p := by
+  simp only [extendWeightSlice,(weightSliceIndex_injective A B z hA hB).eq_iff,
+    Finset.sum_ite_eq',Finset.mem_univ,ite_true]
+
+theorem extendWeightSlice_off (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (f : Fin (z+1) → ℝ) (i : SpinIndex A B) (hi : i.1.val+i.2.val ≠ z) :
+    extendWeightSlice A B z hA hB f i = 0 := by
+  apply Finset.sum_eq_zero
+  intro p hp
+  have hne : weightSliceIndex A B z hA hB p ≠ i := by
+    intro he
+    have h₁ := congrArg (fun x => x.1.val) he
+    have h₂ := congrArg (fun x => x.2.val) he
+    dsimp [weightSliceIndex] at h₁ h₂
+    omega
+  simp [hne]
+
+theorem sum_extendWeightSlice (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (f : Fin (z+1) → ℝ) (g : SpinIndex A B → ℝ) :
+    (∑ i, g i*extendWeightSlice A B z hA hB f i) =
+      ∑ p, g (weightSliceIndex A B z hA hB p)*f p := by
+  simp only [extendWeightSlice,Finset.mul_sum,mul_ite,mul_zero]
+  rw [Finset.sum_comm]
+  simp only [Finset.sum_ite_eq,Finset.mem_univ,ite_true]
+
+theorem totalRaise_below_slice (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (f : SpinIndex A B → ℝ) (p : Fin z) :
+    (totalRaise A B *ᵥ f) (⟨p.val,by omega⟩,⟨z-p.val-1,by omega⟩) =
+      ladder A p.val * f (weightSliceIndex A B z hA hB ⟨p.val+1,by omega⟩) +
+      ladder B (z-p.val-1)*f (weightSliceIndex A B z hA hB ⟨p.val,by omega⟩) := by
+  change (∑ j, totalRaise A B _ j * f j) = _
+  rw [totalRaise_apply,raiseMatrix_row,raiseMatrix_row]
+  rw [dite_eq_left (show p.val < A by omega),dite_eq_left (show z-p.val-1 < B by omega)]
+  have h₁ : z-(p.val+1)=z-p.val-1 := by omega
+  have h₂ : z-p.val-1+1=z-p.val := by omega
+  simp only [weightSliceIndex,h₁,h₂]
+
+theorem extendWeightSlice_highest (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (f : Fin (z+1) → ℝ) (hf : ∀ p, raiseSlice A B z f p=0) :
+    totalRaise A B *ᵥ extendWeightSlice A B z hA hB f = 0 := by
+  funext i
+  change (∑ j, totalRaise A B i j * extendWeightSlice A B z hA hB f j) = 0
+  by_cases hi : i.1.val+i.2.val+1=z
+  · let p : Fin z := ⟨i.1.val,by omega⟩
+    have he : i = (⟨p.val,by omega⟩,⟨z-p.val-1,by omega⟩) := by
+      apply Prod.ext
+      · rfl
+      · apply Fin.ext; dsimp [p]; omega
+    change (totalRaise A B *ᵥ extendWeightSlice A B z hA hB f) i = 0
+    rw [he,totalRaise_below_slice A B z hA hB,extendWeightSlice_at,extendWeightSlice_at]
+    exact hf p
+  · rw [totalRaise_apply,raiseMatrix_row,raiseMatrix_row]
+    have hx (h : i.1.val < A) :
+        extendWeightSlice A B z hA hB f (⟨i.1.val+1,by omega⟩,i.2)=0 := by
+      apply extendWeightSlice_off
+      change i.1.val+1+i.2.val ≠ z
+      omega
+    have hy (h : i.2.val < B) :
+        extendWeightSlice A B z hA hB f (i.1,⟨i.2.val+1,by omega⟩)=0 := by
+      apply extendWeightSlice_off
+      change i.1.val+(i.2.val+1) ≠ z
+      omega
+    split_ifs with h₁ h₂ h₂ <;> simp_all only [mul_zero,add_zero]
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_TotalSl2Matrix
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def totalWeight (A B : ℕ) : Matrix (SpinIndex A B) (SpinIndex A B) ℝ :=
+  weightMatrix A ⊗ₖ (1 : Matrix (Fin (B+1)) (Fin (B+1)) ℝ) +
+    (1 : Matrix (Fin (A+1)) (Fin (A+1)) ℝ) ⊗ₖ weightMatrix B
+
+theorem totalRaise_transpose_kronecker (A B : ℕ) :
+    (totalRaise A B)ᵀ = (raiseMatrix A)ᵀ ⊗ₖ (1 : Matrix (Fin (B+1)) (Fin (B+1)) ℝ) +
+      (1 : Matrix (Fin (A+1)) (Fin (A+1)) ℝ) ⊗ₖ (raiseMatrix B)ᵀ := by
+  ext i j
+  simp [totalRaise,Matrix.kroneckerMap,Matrix.transpose_apply,Matrix.one_apply,eq_comm]
+
+theorem total_raise_lower_commutator (A B : ℕ) :
+    totalRaise A B * (totalRaise A B)ᵀ =
+      (totalRaise A B)ᵀ * totalRaise A B + totalWeight A B := by
+  have ha : raiseMatrix A*(raiseMatrix A)ᵀ = (raiseMatrix A)ᵀ*raiseMatrix A+weightMatrix A := by
+    calc
+      _ = (raiseMatrix A*(raiseMatrix A)ᵀ - (raiseMatrix A)ᵀ*raiseMatrix A) +
+        (raiseMatrix A)ᵀ*raiseMatrix A := by abel
+      _ = _ := by rw [raise_lower_commutator A]; abel
+  have hb : raiseMatrix B*(raiseMatrix B)ᵀ = (raiseMatrix B)ᵀ*raiseMatrix B+weightMatrix B := by
+    calc
+      _ = (raiseMatrix B*(raiseMatrix B)ᵀ - (raiseMatrix B)ᵀ*raiseMatrix B) +
+        (raiseMatrix B)ᵀ*raiseMatrix B := by abel
+      _ = _ := by rw [raise_lower_commutator B]; abel
+  rw [totalRaise_transpose_kronecker,totalRaise_kronecker]
+  unfold totalWeight
+  simp only [Matrix.add_mul,Matrix.mul_add,← Matrix.mul_kronecker_mul,
+    Matrix.one_mul,Matrix.mul_one,ha,hb,Matrix.add_kronecker,Matrix.kronecker_add]
+  abel
+
+theorem total_weight_lower_commutator (A B : ℕ) :
+    totalWeight A B * (totalRaise A B)ᵀ =
+      (totalRaise A B)ᵀ * totalWeight A B - (2 : ℝ) • (totalRaise A B)ᵀ := by
+  have ha : weightMatrix A*(raiseMatrix A)ᵀ =
+      (raiseMatrix A)ᵀ*weightMatrix A+(-2 : ℝ) • (raiseMatrix A)ᵀ := by
+    simpa only [sub_eq_add_neg,neg_smul] using weight_lower_commutator A
+  have hb : weightMatrix B*(raiseMatrix B)ᵀ =
+      (raiseMatrix B)ᵀ*weightMatrix B+(-2 : ℝ) • (raiseMatrix B)ᵀ := by
+    simpa only [sub_eq_add_neg,neg_smul] using weight_lower_commutator B
+  rw [totalRaise_transpose_kronecker]
+  unfold totalWeight
+  simp only [Matrix.add_mul,Matrix.mul_add,← Matrix.mul_kronecker_mul,
+    Matrix.one_mul,Matrix.mul_one,ha,hb,Matrix.add_kronecker,Matrix.kronecker_add,
+    smul_add,neg_smul,sub_eq_add_neg]
+  ext i j
+  simp only [Matrix.add_apply,Matrix.neg_apply,Matrix.smul_apply,Matrix.kroneckerMap,
+    Matrix.of_apply,smul_eq_mul]
+  ring
+
+theorem totalWeight_diagonal (A B : ℕ) :
+    totalWeight A B = Matrix.diagonal (fun i : SpinIndex A B =>
+      (A : ℝ)+B-2*((i.1.val : ℝ)+i.2.val)) := by
+  ext i j
+  by_cases h₁ : i.1=j.1 <;> by_cases h₂ : i.2=j.2 <;>
+    simp [totalWeight,weightMatrix,Matrix.kroneckerMap,
+      Matrix.one_apply,Matrix.diagonal_apply,Prod.ext_iff,h₁,h₂]
+  ring
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Asymptotics_UpperSpinDynamics
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open Polynomial
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def spinRaiseComplex (Q : ℕ) := (Spin.raiseMatrix Q).map Complex.ofReal
+noncomputable def totalRaiseComplex (A B : ℕ) := (Spin.totalRaise A B).map Complex.ofReal
+
+theorem upperSpinCurve_derivative (Q : ℕ) :
+    polynomialMatrixDerivative (upperSpinCurve Q) = upperSpinCurve Q * (spinRaiseComplex Q).map C := by
+  funext p q
+  induction q using Fin.cases with
+  | zero =>
+    change (upperSpinCurve Q p 0).derivative = _
+    rw [upperSpinCurve_derivative_zero]
+    simp [Matrix.mul_apply,spinRaiseComplex,Spin.raiseMatrix]
+  | succ q =>
+    change (upperSpinCurve Q p q.succ).derivative = _
+    rw [upperSpinCurve_derivative_succ,Matrix.mul_apply]
+    have he (r : Fin (Q+1)) : r.val+1=q.succ.val ↔ r=q.castSucc := by
+      simp [Fin.ext_iff]
+    simp only [spinRaiseComplex,Matrix.map_apply,Spin.raiseMatrix,he,apply_ite,
+      Complex.ofReal_zero,map_zero,mul_zero,Finset.sum_ite_eq',Finset.mem_univ,ite_true,
+      Fin.val_castSucc]
+
+theorem totalRaiseComplex_polynomial (A B : ℕ) :
+    (totalRaiseComplex A B).map C =
+      (spinRaiseComplex A).map C ⊗ₖ (1 : Matrix (Fin (B+1)) (Fin (B+1)) (Polynomial ℂ)) +
+      (1 : Matrix (Fin (A+1)) (Fin (A+1)) (Polynomial ℂ)) ⊗ₖ (spinRaiseComplex B).map C := by
+  ext ⟨i,j⟩ ⟨k,l⟩ : 2
+  by_cases hik : i=k <;> by_cases hjl : j=l <;>
+    simp [totalRaiseComplex,spinRaiseComplex,Spin.totalRaise,Matrix.kroneckerMap,
+      Matrix.one_apply,hik,hjl]
+
+theorem upperSpinTensor_derivative (A B : ℕ) :
+    polynomialMatrixDerivative (upperSpinCurve A ⊗ₖ upperSpinCurve B) =
+      (upperSpinCurve A ⊗ₖ upperSpinCurve B)*(totalRaiseComplex A B).map C := by
+  rw [polynomialMatrixDerivative_kronecker,upperSpinCurve_derivative,upperSpinCurve_derivative,
+    totalRaiseComplex_polynomial,Matrix.mul_add]
+  simp only [← Matrix.mul_kronecker_mul,Matrix.mul_one]
+
+theorem raising_intertwiner_upper (A B J : ℕ)
+    (W : Matrix (Fin (A+1) × Fin (B+1)) (Fin (J+1)) ℂ)
+    (hW : totalRaiseComplex A B*W=W*spinRaiseComplex J) (c : ℂ) :
+    (generalSpinMatrix A (Matrix.transvection (0 : Fin 2) 1 c) ⊗ₖ
+      generalSpinMatrix B (Matrix.transvection (0 : Fin 2) 1 c))*W =
+        W*generalSpinMatrix J (Matrix.transvection (0 : Fin 2) 1 c) := by
+  have h := polynomialMatrix_intertwining (upperSpinCurve A ⊗ₖ upperSpinCurve B)
+    (upperSpinCurve J) (totalRaiseComplex A B) (spinRaiseComplex J) W
+    (upperSpinTensor_derivative A B) (upperSpinCurve_derivative J)
+    (upperSpinTensor_initial A B) (upperSpinCurve_initial J) hW
+  ext i j
+  have he := congrArg (fun M => (M i j).eval c) h
+  simpa [Matrix.mul_apply,Matrix.kronecker,Matrix.kroneckerMap,eval_finsetSum,eval_mul,upperSpinCurve_eval] using he
+
+theorem lowering_intertwiner_lower (A B J : ℕ)
+    (W : Matrix (Fin (A+1) × Fin (B+1)) (Fin (J+1)) ℂ)
+    (hW : (totalRaiseComplex A B)ᵀ*W=W*(spinRaiseComplex J)ᵀ) (c : ℂ) :
+    (generalSpinMatrix A (Matrix.transvection (1 : Fin 2) 0 c) ⊗ₖ
+      generalSpinMatrix B (Matrix.transvection (1 : Fin 2) 0 c))*W =
+        W*generalSpinMatrix J (Matrix.transvection (1 : Fin 2) 0 c) := by
+  have ht : spinRaiseComplex J*Wᵀ=Wᵀ*totalRaiseComplex A B := by
+    simpa only [Matrix.transpose_mul,Matrix.transpose_transpose] using congrArg Matrix.transpose hW.symm
+  have h := polynomialMatrix_intertwining (upperSpinCurve J)
+    (upperSpinCurve A ⊗ₖ upperSpinCurve B) (spinRaiseComplex J) (totalRaiseComplex A B) Wᵀ
+    (upperSpinCurve_derivative J) (upperSpinTensor_derivative A B)
+    (upperSpinCurve_initial J) (upperSpinTensor_initial A B) ht
+  have he : W*(generalSpinMatrix J (Matrix.transvection (0 : Fin 2) 1 c))ᵀ =
+      (generalSpinMatrix A (Matrix.transvection (0 : Fin 2) 1 c) ⊗ₖ
+      generalSpinMatrix B (Matrix.transvection (0 : Fin 2) 1 c))ᵀ*W := by
+    have hh := congrArg Matrix.transpose h
+    ext i j
+    have hh' := congrArg (fun M => (M i j).eval c) hh
+    simpa [Matrix.mul_apply,Matrix.transpose_apply,Matrix.kronecker,Matrix.kroneckerMap,
+      eval_finsetSum,eval_mul,upperSpinCurve_eval,mul_comm] using hh'
+  have hf : (Matrix.transvection (0 : Fin 2) 1 c)ᵀ=Matrix.transvection 1 0 c := by
+    ext i j
+    simp [Matrix.transvection,Matrix.transpose_apply,Matrix.single,Matrix.one_apply,eq_comm,and_comm]
+  change W*(generalSpinMatrix J (Matrix.transvection (0 : Fin 2) 1 c))ᵀ =
+    ((generalSpinMatrix A (Matrix.transvection (0 : Fin 2) 1 c))ᵀ ⊗ₖ
+     (generalSpinMatrix B (Matrix.transvection (0 : Fin 2) 1 c))ᵀ)*W at he
+  rw [← generalSpinMatrix_transpose,← generalSpinMatrix_transpose,
+    ← generalSpinMatrix_transpose,hf] at he
+  exact he.symm
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Mixing
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open scoped BigOperators Matrix
+
+noncomputable def sourceMixer : SourceSU2 := by
+  let c : ℝ := Real.sqrt (1/2)
+  have hc : (c : ℂ)^2=(1/2 : ℂ) := by
+    have hs : c^2=(1/2 : ℝ) := Real.sq_sqrt (by norm_num)
+    have h := congrArg Complex.ofReal hs
+    push_cast at h
+    exact h
+  refine ⟨!![(c : ℂ),-(c : ℂ);(c : ℂ),(c : ℂ)],?_⟩
+  constructor
+  · apply Matrix.mem_unitaryGroup_iff.mpr
+    ext i j
+    fin_cases i <;> fin_cases j <;>
+      simp [Matrix.mul_apply,Matrix.star_eq_conjTranspose,Matrix.conjTranspose_apply] <;>
+      linear_combination 2*hc
+  · simp [Matrix.det_fin_two]
+    linear_combination 2*hc
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Exterior_SpinAction
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Matrix
+open Rotation
+
+noncomputable def orbitalRotation (Q : ℕ) (g : SourceSU2) : Orbital Q →ₗ[ℂ] Orbital Q where
+  toFun v := sourceSpinRepresentation Q g *ᵥ v
+  map_add' v w := Matrix.mulVec_add _ v w
+  map_smul' c v := Matrix.mulVec_smul _ c v
+
+noncomputable def exteriorRotation (Q : ℕ) (g : SourceSU2) : Space Q →ₐ[ℂ] Space Q :=
+  ExteriorAlgebra.map (orbitalRotation Q g)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_Hamiltonian
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def pairCreateEnd (Q : ℕ) (c : Fin (Q+1) → Fin (Q+1) → ℂ) :
+    Module.End ℂ (Space Q) := ∑ i, ∑ j, star (c i j) • (create i * create j)
+
+noncomputable def sourcePairCreateEnd (Q p : ℕ) : Module.End ℂ (Space Q) :=
+  pairCreateEnd Q (fun i j => ((pairCoefficient Q p i j / Real.sqrt 2 : ℝ) : ℂ))
+
+noncomputable def sourceFockHamiltonian (Q : ℕ) : Module.End ℂ (Space Q) :=
+  ∑ p ∈ Finset.range (2*Q-1), sourcePairCreateEnd Q p * sourcePairEnd Q p
+
+noncomputable def sourceFockEnergy (Q : ℕ) (x : Space Q) : ℝ :=
+  ∑ p ∈ Finset.range (2*Q-1), occupationNormSq Q (sourcePairEnd Q p x)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Exterior_VectorAdjoint
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Matrix
+open Rotation
+
+noncomputable def orbitalDual (Q : ℕ) (v : Orbital Q) : Module.Dual ℂ (Orbital Q) :=
+  ∑ i, star (v i) • LinearMap.proj i
+
+noncomputable def vectorAnnihilate (Q : ℕ) (v : Orbital Q) : Module.End ℂ (Space Q) :=
+  CliffordAlgebra.contractLeft (orbitalDual Q v)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_PairNormalization
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def sourcePairVector (Q p : ℕ) : Space Q :=
+  ∑ i, ∑ j, ((pairCoefficient Q p i j / Real.sqrt 2 : ℝ) : ℂ) •
+    create i (create j (1 : Space Q))
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_Quadruple
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def occupationQuadruple (Q D : ℕ) (A : FourOccupation Q D) :
+    {t : ℕ×ℕ×ℕ×ℕ // t ∈ Certificate.quadruples D} :=
+  let l := occupationFourLabels Q A.val A.property.1
+  ⟨((l 0).val,(l 1).val,(l 2).val,(l 3).val),
+    (Certificate.mem_quadruples D _ _ _ _).mpr
+      ⟨l.strictMono (by decide),l.strictMono (by decide),l.strictMono (by decide),
+        (occupationFourLabels_sum Q A.val A.property.1).symm.trans A.property.2⟩⟩
+
+theorem occupationQuadruple_injective (Q D : ℕ) : Function.Injective (occupationQuadruple Q D) := by
+  intro A B h
+  have ht := congrArg Subtype.val h
+  simp only [occupationQuadruple,Prod.mk.injEq] at ht
+  have hl : occupationFourLabels Q A.val A.property.1 = occupationFourLabels Q B.val B.property.1 := by
+    ext i
+    fin_cases i
+    · exact ht.1
+    · exact ht.2.1
+    · exact ht.2.2.1
+    · exact ht.2.2.2
+  apply Subtype.ext
+  rw [← occupationFourLabels_range Q A.val A.property.1,
+    ← occupationFourLabels_range Q B.val B.property.1,hl]
+
+noncomputable def quadrupleEmbedding (Q D a b c d : ℕ) (hQ : D+1 ≤ Q)
+    (h : (a,b,c,d) ∈ Certificate.quadruples D) : Fin 4 ↪o Fin (Q+1) := by
+  have hh := (Certificate.mem_quadruples D a b c d).mp h
+  let f : Fin 4 → Fin (Q+1) := ![⟨a,by omega⟩,⟨b,by omega⟩,⟨c,by omega⟩,⟨d,by omega⟩]
+  have hf : StrictMono f := by
+    apply Fin.strictMono_iff_lt_succ.mpr
+    intro i
+    fin_cases i <;> simp [f,Fin.lt_def] <;> omega
+  exact OrderEmbedding.ofStrictMono f hf
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Tensor_ExteriorRotation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Matrix
+open Rotation
+
+noncomputable def tensorExterior (N Q : ℕ) (ψ : State N Q) : Space Q :=
+  ∑ a, ψ a • ExteriorAlgebra.ιMulti ℂ N (fun k => mode (a k))
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_LadderGroupIntertwining
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open scoped BigOperators Matrix Kronecker
+
+theorem ladder_intertwiner_SU2 (A B z J : ℕ) (hz : 2*z+J=A+B)
+    (W : Matrix (Fin (A+1) × Fin (B+1)) (Fin (J+1)) ℂ)
+    (hs : ∀ i n, i.1.val+i.2.val ≠ z+n.val → W i n=0)
+    (hr : totalRaiseComplex A B*W=W*spinRaiseComplex J)
+    (hl : (totalRaiseComplex A B)ᵀ*W=W*(spinRaiseComplex J)ᵀ)
+    (g : SourceSU2) :
+    (sourceSpinRepresentation A g ⊗ₖ sourceSpinRepresentation B g)*W =
+      W*sourceSpinRepresentation J g := by
+  let P : Matrix (Fin 2) (Fin 2) ℂ → Prop := fun M =>
+    (generalSpinMatrix A M ⊗ₖ generalSpinMatrix B M)*W=W*generalSpinMatrix J M
+  have h : P g.val := by
+    apply Matrix.diagonal_transvection_induction P g.val
+    · intro D hD
+      have hxy : D 0*D 1=1 := by
+        simpa [Matrix.det_diagonal,Fin.prod_univ_two] using hD.trans g.property.2
+      have he : D=(fun i : Fin 2 => if i=0 then D 0 else D 1) := by
+        funext i
+        fin_cases i <;> simp
+      change (generalSpinMatrix A (Matrix.diagonal D) ⊗ₖ
+        generalSpinMatrix B (Matrix.diagonal D))*W=W*generalSpinMatrix J (Matrix.diagonal D)
+      rw [he]
+      exact weight_support_diagonal_intertwining A B z J hz W hs _ _ hxy
+    · rintro ⟨i,j,hij,c⟩
+      change (generalSpinMatrix A (Matrix.transvection i j c) ⊗ₖ
+        generalSpinMatrix B (Matrix.transvection i j c))*W=W*generalSpinMatrix J (Matrix.transvection i j c)
+      fin_cases i <;> fin_cases j
+      · exact False.elim (hij rfl)
+      · exact raising_intertwiner_upper A B J W hr c
+      · exact lowering_intertwiner_lower A B J W hl c
+      · exact False.elim (hij rfl)
+    · intro M L hM hL
+      change (generalSpinMatrix A (M*L) ⊗ₖ generalSpinMatrix B (M*L))*W=W*generalSpinMatrix J (M*L)
+      rw [generalSpinMatrix_mul,generalSpinMatrix_mul,generalSpinMatrix_mul,Matrix.mul_kronecker_mul]
+      change (generalSpinMatrix A M ⊗ₖ generalSpinMatrix B M)*
+        (generalSpinMatrix A L ⊗ₖ generalSpinMatrix B L)*W=W*(generalSpinMatrix J M*generalSpinMatrix J L)
+      rw [Matrix.mul_assoc,hL,← Matrix.mul_assoc,hM,Matrix.mul_assoc]
+  exact h
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_PhysicalPairRotation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def physicalPairInclusion (Q : ℕ) := (Spin.pairInclusion Q).map Complex.ofReal
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Pair_ExteriorRotation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def pairExterior (Q : ℕ) (v : Spin.SpinIndex Q Q → ℂ) : Space Q :=
+  ∑ i, v i • create i.1 (create i.2 (1 : Space Q))
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Sl2DescendantNorm
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+variable {I : Type*} [Fintype I] [DecidableEq I]
+
+theorem descendant_norm_step (R H L : Matrix I I ℝ) (v : I → ℝ) (μ : ℝ)
+    (hRL : R*L=L*R+H) (hHL : H*L=L*H-(2 : ℝ) • L) (ht : Lᵀ=R)
+    (hv : H *ᵥ v=μ • v) (hr : R *ᵥ v=0) (n : ℕ) :
+    vectorNormSq (L^(n+1) *ᵥ v) = (((n : ℝ)+1)*(μ-n))*vectorNormSq (L^n *ᵥ v) := by
+  have hs : L^(n+1) *ᵥ v = L *ᵥ (L^n *ᵥ v) := by
+    rw [Matrix.mulVec_mulVec,pow_succ']
+  unfold vectorNormSq
+  simp only [pow_two]
+  conv_lhs => arg 2; ext i; arg 1; rw [hs]
+  rw [matrix_transpose_pairing,ht,descendant_raising R H L v μ hRL hHL hv hr n]
+  simp only [Pi.smul_apply,smul_eq_mul,Finset.mul_sum]
+  apply Finset.sum_congr rfl
+  intro i hi
+  ring
+
+theorem descendant_norm_pos (R H L : Matrix I I ℝ) (v : I → ℝ) (μ n : ℕ)
+    (hRL : R*L=L*R+H) (hHL : H*L=L*H-(2 : ℝ) • L) (ht : Lᵀ=R)
+    (hv : H *ᵥ v=(μ : ℝ) • v) (hr : R *ᵥ v=0)
+    (hnorm : 0 < vectorNormSq v) (hn : n ≤ μ) : 0 < vectorNormSq (L^n *ᵥ v) := by
+  induction n with
+  | zero => simpa using hnorm
+  | succ n ih =>
+    rw [descendant_norm_step R H L v μ hRL hHL ht hv hr n]
+    have hp : (n : ℝ) < μ := by exact_mod_cast (show n < μ by omega)
+    have hi := ih (by omega)
+    positivity
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Basic
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+theorem genericHighest_norm (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    vectorNormSq (genericHighest A B z hA hB) = 1 := by
+  unfold vectorNormSq genericHighest
+  simp only [pow_two]
+  rw [sum_extendWeightSlice]
+  simp_rw [extendWeightSlice_at,← pow_two]
+  simpa only [← Fin.sum_univ_eq_sum_range] using highestUnit_norm A B z hA hB
+
+theorem genericHighest_weight (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    totalWeight A B *ᵥ genericHighest A B z hA hB =
+      (genericCoupledWeight A B z : ℝ) • genericHighest A B z hA hB := by
+  rw [totalWeight_diagonal]
+  funext i
+  simp only [Matrix.mulVec,dotProduct,Matrix.diagonal_apply,ite_mul,zero_mul,
+    Finset.sum_ite_eq,Finset.mem_univ,ite_true]
+  change ((A : ℝ)+B-2*((i.1.val : ℝ)+i.2.val))*genericHighest A B z hA hB i =
+    (genericCoupledWeight A B z : ℝ)*genericHighest A B z hA hB i
+  by_cases hi : i.1.val+i.2.val=z
+  · have hc : (i.1.val : ℝ)+i.2.val=z := by exact_mod_cast hi
+    rw [hc]
+    congr 1
+    unfold genericCoupledWeight
+    rw [Nat.cast_sub (by omega : 2*z ≤ A+B)]
+    push_cast; ring
+  · have he : genericHighest A B z hA hB i = 0 :=
+      extendWeightSlice_off A B z hA hB _ i hi
+    rw [he]; ring
+
+theorem genericHighest_raising_zero (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    totalRaise A B *ᵥ genericHighest A B z hA hB = 0 := by
+  apply extendWeightSlice_highest
+  intro p
+  exact highestUnit_raising A B z p.val hA hB p.isLt
+
+theorem genericDescendant_succ (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) (n : ℕ) :
+    genericDescendant A B z hA hB (n+1) =
+      (totalRaise A B)ᵀ *ᵥ genericDescendant A B z hA hB n := by
+  simp only [genericDescendant,pow_succ',Matrix.mulVec_mulVec]
+
+theorem genericDescendant_norm_pos (A B z n : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (hn : n ≤ genericCoupledWeight A B z) :
+    0 < vectorNormSq (genericDescendant A B z hA hB n) := by
+  apply descendant_norm_pos (totalRaise A B) (totalWeight A B) ((totalRaise A B)ᵀ)
+    (genericHighest A B z hA hB) (genericCoupledWeight A B z) n
+  · exact total_raise_lower_commutator _ _
+  · exact total_weight_lower_commutator _ _
+  · exact Matrix.transpose_transpose _
+  · exact genericHighest_weight A B z hA hB
+  · exact genericHighest_raising_zero A B z hA hB
+  · rw [genericHighest_norm]; norm_num
+  · exact hn
+
+theorem genericDescendant_norm_step (A B z n : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    vectorNormSq (genericDescendant A B z hA hB (n+1)) =
+      (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n))*
+        vectorNormSq (genericDescendant A B z hA hB n) := by
+  exact descendant_norm_step (totalRaise A B) (totalWeight A B) ((totalRaise A B)ᵀ)
+    (genericHighest A B z hA hB) (genericCoupledWeight A B z)
+    (total_raise_lower_commutator _ _) (total_weight_lower_commutator _ _)
+    (Matrix.transpose_transpose _) (genericHighest_weight A B z hA hB)
+    (genericHighest_raising_zero A B z hA hB) n
+
+theorem genericUnitDescendant_norm (A B z n : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (hn : n ≤ genericCoupledWeight A B z) :
+    vectorNormSq (genericUnitDescendant A B z hA hB n) = 1 := by
+  have hp := genericDescendant_norm_pos A B z n hA hB hn
+  unfold genericUnitDescendant vectorNormSq
+  simp only [Pi.smul_apply,smul_eq_mul,mul_pow,← Finset.mul_sum]
+  change (Real.sqrt (vectorNormSq (genericDescendant A B z hA hB n)))⁻¹ ^ 2 *
+    vectorNormSq (genericDescendant A B z hA hB n) = 1
+  rw [inv_pow,Real.sq_sqrt (le_of_lt hp),inv_mul_cancel₀ (ne_of_gt hp)]
+
+theorem genericUnitDescendant_zero (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    genericUnitDescendant A B z hA hB 0 = genericHighest A B z hA hB := by
+  simp [genericUnitDescendant,genericDescendant,genericHighest_norm]
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_GenericNormalizedLadder
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+theorem genericUnitDescendant_lowering (A B z n : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (hn : n < genericCoupledWeight A B z) :
+    (totalRaise A B)ᵀ *ᵥ genericUnitDescendant A B z hA hB n =
+      Real.sqrt (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n)) •
+        genericUnitDescendant A B z hA hB (n+1) := by
+  have hp := genericDescendant_norm_pos A B z n hA hB (by omega)
+  have hp₁ := genericDescendant_norm_pos A B z (n+1) hA hB (by omega)
+  have hnreal : (n : ℝ) < genericCoupledWeight A B z := by exact_mod_cast hn
+  have hc : 0 < ((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n) := by positivity
+  have hden : Real.sqrt (vectorNormSq (genericDescendant A B z hA hB (n+1))) =
+      Real.sqrt (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n))*
+        Real.sqrt (vectorNormSq (genericDescendant A B z hA hB n)) := by
+    rw [genericDescendant_norm_step A B z n hA hB,Real.sqrt_mul (le_of_lt hc)]
+  have hs : (Real.sqrt (vectorNormSq (genericDescendant A B z hA hB n)))⁻¹ =
+      Real.sqrt (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n))*
+        (Real.sqrt (vectorNormSq (genericDescendant A B z hA hB (n+1))))⁻¹ := by
+    rw [hden,mul_inv_rev]
+    field_simp [ne_of_gt (Real.sqrt_pos.mpr hc)]
+  unfold genericUnitDescendant
+  rw [Matrix.mulVec_smul,← genericDescendant_succ,smul_smul,hs]
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Pair_CoupledParity
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+theorem highestUnit_reverse (Q r p : ℕ) (hp : p ≤ r) :
+    highestUnit Q Q r (r-p) = (-1 : ℝ)^r * highestUnit Q Q r p := by
+  unfold highestUnit highestRaw
+  rw [ite_eq_left (by omega : r-p ≤ r),ite_eq_left hp,Nat.sub_sub_self hp,
+    Nat.choose_symm hp,sign_reverse r p hp]
+  rw [mul_comm (Q.choose (r-p) : ℝ) (Q.choose p : ℝ)]
+  ring
+
+theorem genericHighest_swap (Q r : ℕ) (hr : r ≤ Q) (i : SpinIndex Q Q) :
+    genericHighest Q Q r hr hr i.swap = (-1 : ℝ)^r * genericHighest Q Q r hr hr i := by
+  by_cases hi : i.1.val+i.2.val=r
+  · let p : Fin (r+1) := ⟨i.1.val,by omega⟩
+    let q : Fin (r+1) := ⟨r-i.1.val,by omega⟩
+    have h1 : i = weightSliceIndex Q Q r hr hr p := by
+      apply Prod.ext
+      · rfl
+      · apply Fin.ext; dsimp [weightSliceIndex,p]; omega
+    have h2 : i.swap = weightSliceIndex Q Q r hr hr q := by
+      apply Prod.ext <;> apply Fin.ext <;> dsimp [weightSliceIndex,q] <;> omega
+    change extendWeightSlice Q Q r hr hr _ i.swap = _ * extendWeightSlice Q Q r hr hr _ i
+    rw [h2,h1,extendWeightSlice_at,extendWeightSlice_at]
+    exact highestUnit_reverse Q r i.1.val (by omega)
+  · change extendWeightSlice Q Q r hr hr _ i.swap = _ * extendWeightSlice Q Q r hr hr _ i
+    rw [extendWeightSlice_off _ _ _ _ _ _ i hi,
+      extendWeightSlice_off _ _ _ _ _ _ i.swap (by simpa [Nat.add_comm] using hi),mul_zero]
+
+theorem totalLower_swap (Q : ℕ) (f : SpinIndex Q Q → ℝ) (i : SpinIndex Q Q) :
+    ((totalRaise Q Q)ᵀ *ᵥ (fun j => f j.swap)) i =
+      ((totalRaise Q Q)ᵀ *ᵥ f) i.swap := by
+  change (∑ j, totalRaise Q Q j i * f j.swap) =
+    ∑ j, totalRaise Q Q j i.swap * f j
+  rw [totalRaise_transpose_apply,totalRaise_transpose_apply]
+  exact add_comm _ _
+
+theorem genericDescendant_swap (Q r n : ℕ) (hr : r ≤ Q) (i : SpinIndex Q Q) :
+    genericDescendant Q Q r hr hr n i.swap =
+      (-1 : ℝ)^r * genericDescendant Q Q r hr hr n i := by
+  induction n generalizing i with
+  | zero => simpa [genericDescendant] using genericHighest_swap Q r hr i
+  | succ n ih =>
+    rw [genericDescendant_succ]
+    rw [← totalLower_swap]
+    have he : (fun j => genericDescendant Q Q r hr hr n j.swap) =
+      (-1 : ℝ)^r • genericDescendant Q Q r hr hr n := by funext j; exact ih j
+    rw [he,Matrix.mulVec_smul]
+    rfl
+
+theorem genericUnitDescendant_swap (Q r n : ℕ) (hr : r ≤ Q) (i : SpinIndex Q Q) :
+    genericUnitDescendant Q Q r hr hr n i.swap =
+      (-1 : ℝ)^r * genericUnitDescendant Q Q r hr hr n i := by
+  simp only [genericUnitDescendant,Pi.smul_apply,smul_eq_mul,genericDescendant_swap]
+  ring
+
+noncomputable def pairCoupledTensor (Q r : ℕ) (hr : r ≤ Q) (n : ℕ) : SpinIndex Q Q → ℝ :=
+  (-1 : ℝ)^r • genericUnitDescendant Q Q r hr hr n
+
+theorem pairCoupledTensor_norm (Q r n : ℕ) (hr : r ≤ Q)
+    (hn : n ≤ genericCoupledWeight Q Q r) :
+    vectorNormSq (pairCoupledTensor Q r hr n) = 1 := by
+  unfold pairCoupledTensor vectorNormSq
+  simp only [Pi.smul_apply,smul_eq_mul,mul_pow,← Finset.mul_sum]
+  have h : ((-1 : ℝ)^r)^2 = 1 := by rw [← pow_mul,mul_comm r 2,pow_mul]; norm_num
+  rw [h,one_mul]
+  exact genericUnitDescendant_norm Q Q r n hr hr hn
+
+theorem pairCoupledTensor_antisymmetric (Q r n : ℕ) (hr : r ≤ Q) (ho : Odd r)
+    (i j : Fin (Q+1)) :
+    pairCoupledTensor Q r hr n (j,i) = -pairCoupledTensor Q r hr n (i,j) := by
+  have h := genericUnitDescendant_swap Q r n hr (i,j)
+  have hs : (-1 : ℝ)^r = -1 := ho.neg_one_pow
+  simpa [pairCoupledTensor,hs] using congrArg (fun x : ℝ => -x) h
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Polynomial_AntisymmetricCoordinates
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+abbrev WedgePairIndex (Q : ℕ) := {i : SpinIndex Q Q // i.1 < i.2}
+
+noncomputable def tensorToWedgePair (Q : ℕ) (f : SpinIndex Q Q → ℝ) :
+    WedgePairIndex Q → ℝ := fun i => Real.sqrt 2 * f i.val
+
+theorem antisymmetric_pairing (Q : ℕ) (f g : SpinIndex Q Q → ℝ)
+    (hf : ∀ i j, f (j,i) = -f (i,j)) (hg : ∀ i j, g (j,i) = -g (i,j)) :
+    (∑ i : WedgePairIndex Q, tensorToWedgePair Q f i * tensorToWedgePair Q g i) =
+      ∑ i, f i * g i := by
+  have hd (i : Fin (Q+1)) : f (i,i) = 0 := by have h := hf i i; linarith
+  have he (i j : Fin (Q+1)) : f (i,j)*g (i,j) =
+      (if i < j then f (i,j)*g (i,j) else 0) +
+      (if j < i then f (j,i)*g (j,i) else 0) := by
+    rcases lt_trichotomy i j with h | h | h
+    · simp [h,not_lt_of_gt h]
+    · subst j; simp [hd]
+    · simp [h,not_lt_of_gt h,hf i j,hg i j]
+  have hs : (∑ i, f i*g i) = 2 * ∑ i : SpinIndex Q Q, if i.1 < i.2 then f i*g i else 0 := by
+    calc
+      _ = ∑ i : Fin (Q+1), ∑ j : Fin (Q+1),
+          ((if i < j then f (i,j)*g (i,j) else 0) +
+          (if j < i then f (j,i)*g (j,i) else 0)) := by
+        rw [Fintype.sum_prod_type]
+        apply Finset.sum_congr rfl; intro i hi
+        apply Finset.sum_congr rfl; intro j hj
+        exact he i j
+      _ = _ := by
+        simp only [Finset.sum_add_distrib,Fintype.sum_prod_type]
+        rw [Finset.sum_comm (f := fun i j : Fin (Q+1) => if j < i then f (j,i)*g (j,i) else 0)]
+        ring
+  rw [hs]
+  simp only [tensorToWedgePair]
+  have hm (i : WedgePairIndex Q) :
+      Real.sqrt 2*f i.val*(Real.sqrt 2*g i.val) = 2*(f i.val*g i.val) := by
+    have h : Real.sqrt 2 * Real.sqrt 2 = 2 := Real.mul_self_sqrt (by norm_num)
+    calc
+      _ = (Real.sqrt 2 * Real.sqrt 2) * (f i.val * g i.val) := by ring
+      _ = _ := by rw [h]
+  simp_rw [hm]
+  rw [← Finset.mul_sum]
+  congr 1
+  rw [← Finset.sum_filter]
+  exact (Finset.sum_subtype (Finset.univ.filter (fun i : SpinIndex Q Q => i.1 < i.2)) (by simp) (fun i => f i*g i)).symm
+
+theorem tensorToWedgePair_norm (Q : ℕ) (f : SpinIndex Q Q → ℝ)
+    (hf : ∀ i j, f (j,i) = -f (i,j)) :
+    vectorNormSq (tensorToWedgePair Q f) = vectorNormSq f := by
+  simpa only [vectorNormSq,pow_two] using antisymmetric_pairing Q f f hf hf
+
+noncomputable def pairCoupledWedge (Q r : ℕ) (hr : r ≤ Q) (n : ℕ) : WedgePairIndex Q → ℝ :=
+  tensorToWedgePair Q (pairCoupledTensor Q r hr n)
+
+theorem pairCoupledWedge_norm (Q r n : ℕ) (hr : r ≤ Q) (ho : Odd r)
+    (hn : n ≤ genericCoupledWeight Q Q r) :
+    vectorNormSq (pairCoupledWedge Q r hr n) = 1 := by
+  rw [pairCoupledWedge,tensorToWedgePair_norm Q _ (pairCoupledTensor_antisymmetric Q r n hr ho)]
+  exact pairCoupledTensor_norm Q r n hr hn
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_GenericOrthogonality
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+theorem genericHighest_orthogonal (A B z w : ℕ) (hzA : z ≤ A) (hzB : z ≤ B) (hwA : w ≤ A) (hwB : w ≤ B)
+    (hzw : z ≠ w) :
+    (∑ i, genericHighest A B z hzA hzB i*genericHighest A B w hwA hwB i) = 0 := by
+  apply Finset.sum_eq_zero
+  intro i hi
+  by_cases he : i.1.val+i.2.val=z
+  · have hh : i.1.val+i.2.val ≠ w := by omega
+    have hv : genericHighest A B w hwA hwB i = 0 :=
+      extendWeightSlice_off A B w hwA hwB _ i hh
+    rw [hv,mul_zero]
+  · have hv : genericHighest A B z hzA hzB i = 0 :=
+      extendWeightSlice_off A B z hzA hzB _ i he
+    rw [hv,zero_mul]
+
+theorem genericDescendant_orthogonal (A B z w n m : ℕ) (hzA : z ≤ A) (hzB : z ≤ B) (hwA : w ≤ A) (hwB : w ≤ B)
+    (hne : z ≠ w ∨ n ≠ m) :
+    (∑ i, genericDescendant A B z hzA hzB n i*genericDescendant A B w hwA hwB m i) = 0 := by
+  apply descendants_orthogonal (totalRaise A B) (totalWeight A B)
+    ((totalRaise A B)ᵀ) (genericHighest A B z hzA hzB) (genericHighest A B w hwA hwB)
+    (genericCoupledWeight A B w) (total_raise_lower_commutator _ _) (total_weight_lower_commutator _ _)
+    (Matrix.transpose_transpose _) (genericHighest_weight A B w hwA hwB)
+    (genericHighest_raising_zero A B z hzA hzB) (genericHighest_raising_zero A B w hwA hwB) n m
+  rcases hne with h | h
+  · exact Or.inl (genericHighest_orthogonal A B z w hzA hzB hwA hwB h)
+  · exact Or.inr h
+
+theorem genericUnitDescendant_orthogonal (A B z w n m : ℕ) (hzA : z ≤ A) (hzB : z ≤ B) (hwA : w ≤ A) (hwB : w ≤ B)
+    (hne : z ≠ w ∨ n ≠ m) :
+    (∑ i, genericUnitDescendant A B z hzA hzB n i *
+      genericUnitDescendant A B w hwA hwB m i) = 0 := by
+  unfold genericUnitDescendant
+  simp only [Pi.smul_apply,smul_eq_mul]
+  calc
+    _ = (Real.sqrt (vectorNormSq (genericDescendant A B z hzA hzB n)))⁻¹ *
+      (Real.sqrt (vectorNormSq (genericDescendant A B w hwA hwB m)))⁻¹ *
+      (∑ i, genericDescendant A B z hzA hzB n i*genericDescendant A B w hwA hwB m i) := by
+      rw [Finset.mul_sum]
+      apply Finset.sum_congr rfl; intro i hi; ring
+    _ = 0 := by rw [genericDescendant_orthogonal A B z w n m hzA hzB hwA hwB hne,mul_zero]
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Pair_CoupledIsometry
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+theorem pairCoupledTensor_orthogonal (Q r s n m : ℕ) (hr : r ≤ Q) (hs : s ≤ Q)
+    (hne : r ≠ s ∨ n ≠ m) :
+    (∑ i, pairCoupledTensor Q r hr n i * pairCoupledTensor Q s hs m i) = 0 := by
+  unfold pairCoupledTensor
+  simp only [Pi.smul_apply,smul_eq_mul]
+  calc
+    _ = ((-1 : ℝ)^r * (-1 : ℝ)^s) *
+      (∑ i, genericUnitDescendant Q Q r hr hr n i * genericUnitDescendant Q Q s hs hs m i) := by
+      rw [Finset.mul_sum]; apply Finset.sum_congr rfl; intro i hi; ring
+    _ = 0 := by rw [genericUnitDescendant_orthogonal Q Q r s n m hr hr hs hs hne,mul_zero]
+
+theorem pairCoupledWedge_orthogonal (Q r s n m : ℕ) (hr : r ≤ Q) (hs : s ≤ Q)
+    (hor : Odd r) (hos : Odd s) (hne : r ≠ s ∨ n ≠ m) :
+    (∑ i, pairCoupledWedge Q r hr n i * pairCoupledWedge Q s hs m i) = 0 := by
+  rw [pairCoupledWedge,pairCoupledWedge,antisymmetric_pairing Q _ _
+    (pairCoupledTensor_antisymmetric Q r n hr hor) (pairCoupledTensor_antisymmetric Q s m hs hos)]
+  exact pairCoupledTensor_orthogonal Q r s n m hr hs hne
+
+noncomputable def pairCoupledInclusion (Q r : ℕ) (hr : r ≤ Q) :
+    Matrix (WedgePairIndex Q) (Fin (genericCoupledWeight Q Q r+1)) ℝ :=
+  fun i n => pairCoupledWedge Q r hr n.val i
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Support
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+theorem genericDescendant_off (A B z n : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (i : SpinIndex A B) (hi : i.1.val+i.2.val ≠ z+n) :
+    genericDescendant A B z hA hB n i = 0 := by
+  induction n generalizing i with
+  | zero =>
+    simpa [genericDescendant,genericHighest] using
+      extendWeightSlice_off A B z hA hB (fun p => highestUnit A B z p.val) i (by omega)
+  | succ n ih =>
+    rw [genericDescendant_succ]
+    change (∑ j, totalRaise A B j i * genericDescendant A B z hA hB n j) = 0
+    rw [totalRaise_transpose_apply,raiseMatrix_column,raiseMatrix_column]
+    have h1 : (if h : 0 < i.1.val then
+        genericDescendant A B z hA hB n (⟨i.1.val-1,by omega⟩,i.2) * ladder A (i.1.val-1) else 0) = 0 := by
+      split_ifs with h
+      · rw [ih _ (by dsimp; omega),zero_mul]
+      · rfl
+    have h2 : (if h : 0 < i.2.val then
+        genericDescendant A B z hA hB n (i.1,⟨i.2.val-1,by omega⟩) * ladder B (i.2.val-1) else 0) = 0 := by
+      split_ifs with h
+      · rw [ih _ (by dsimp; omega),zero_mul]
+      · rfl
+    rw [h1,h2,add_zero]
+
+theorem genericUnitDescendant_off (A B z n : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (i : SpinIndex A B) (hi : i.1.val+i.2.val ≠ z+n) :
+    genericUnitDescendant A B z hA hB n i = 0 := by
+  simp only [genericUnitDescendant,Pi.smul_apply,smul_eq_mul,genericDescendant_off A B z n hA hB i hi,mul_zero]
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Copies
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def tensorPairInclusion (A Q r : ℕ) (hr : r ≤ Q) :
+    Matrix (Fin (A+1) × WedgePairIndex Q) (SpinIndex A (genericCoupledWeight Q Q r)) ℝ :=
+  (1 : Matrix (Fin (A+1)) (Fin (A+1)) ℝ) ⊗ₖ pairCoupledInclusion Q r hr
+
+noncomputable def fourBodyCopy (Q r D : ℕ) (hr : r ≤ Q)
+    (hA : D-r ≤ 2*Q-2) (hB : D-r ≤ genericCoupledWeight Q Q r) (n : ℕ) :
+    Fin ((2*Q-2)+1) × WedgePairIndex Q → ℝ :=
+  tensorPairInclusion (2*Q-2) Q r hr *ᵥ
+    ((-1 : ℝ)^(D-r) • genericUnitDescendant (2*Q-2) (genericCoupledWeight Q Q r)
+      (D-r) hA hB n)
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Array
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def couplingArray (A B z : ℕ) : ℕ → ℕ → ℝ
+  | 0, p => (-1 : ℝ)^z * highestUnit A B z p
+  | n+1, p =>
+      ((if p=0 then 0 else ladder A (p-1)*couplingArray A B z n (p-1)) +
+       (if p ≤ z+n then ladder B (z+n-p)*couplingArray A B z n p else 0)) /
+        Real.sqrt (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n))
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_PairAction
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def threeBodyColumn (Q p : ℕ) (k : Fin (Q+1)) : Space Q :=
+  sourcePairCreateEnd Q p (create k (1 : Space Q))
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_SliceCoefficient
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators
+
+noncomputable def limitSliceCoefficient (r D p j k : ℕ) : ℝ :=
+  if p+j+k=D then fourBodyLimitCoefficient r D D p j k else 0
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_LimitCARReadout
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def wedgeDelta (Q : ℕ) (j k a b : Fin (Q+1)) : ℂ :=
+  delta j a * delta k b - delta k a * delta j b
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_WeightedReadout
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def weightedFourEnd (Q p : ℕ) (S : Fin (Q+1) → Fin (Q+1) → ℝ) :
+    Module.End ℂ (Space Q) :=
+  ∑ j, ∑ k, ((S j k / 2 : ℝ) : ℂ) • limitFourEnd Q p j k
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_PhysicalSlaterReadout
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+open Spin
+
+noncomputable def limitFourCopyEnd (Q r D : ℕ) : Module.End ℂ (Space Q) :=
+  ∑ p ∈ Finset.range (D+1), weightedFourEnd Q p (fun j k => limitSliceCoefficient r D p j.val k.val)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_TransferConjugation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+open Spin
+
+noncomputable def physicalFourCopyEnd (Q r D : ℕ) (hDQ : D ≤ Q) : Module.End ℂ (Space Q) :=
+  ∑ b : LocalFourIndex D,
+    (fourBodyCoefficient Q r D D b.val.1.val b.val.2.1.val b.val.2.2.val : ℂ) •
+    sourceFourEnd Q b.val.1.val ⟨b.val.2.1.val,by omega⟩ ⟨b.val.2.2.val,by omega⟩
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_PhysicalColumn
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+open Spin
+
+noncomputable def limitFourColumn (Q r D : ℕ) : Space Q :=
+  ∑ p ∈ Finset.range (D+1), ∑ j : Fin (Q+1), ∑ k : Fin (Q+1),
+    ∑ x : Fin (Q+1), ∑ y : Fin (Q+1),
+      (((limitSliceCoefficient r D p j.val k.val / 2) *
+        (pairLimitCoefficient p x.val y.val / Real.sqrt 2) : ℝ) : ℂ) •
+        create x (create y (create j (create k (1 : Space Q))))
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_OccupationCoefficient
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+open Spin
+
+noncomputable def fourOccupationCoefficient (Q r D : ℕ) (A : Finset (Fin (Q+1))) : ℝ :=
+  if hA : A.card=4 then
+    if (∑ i ∈ A, i.val)=D+1 then
+      let l := occupationFourLabels Q A hA
+      Real.sqrt (sourceCopyWeight D r /
+        ((l 0).val.factorial*(l 1).val.factorial*(l 2).val.factorial*(l 3).val.factorial : ℝ)) *
+        (Certificate.L D r ((l 0).val,(l 1).val,(l 2).val,(l 3).val) : ℝ)
+    else 0
+  else 0
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_FourOccupationEquiv
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+theorem occupationQuadruple_surjective (Q D : ℕ) (hQ : D+1 ≤ Q) :
+    Function.Surjective (occupationQuadruple Q D) := by
+  rintro ⟨⟨a,b,c,d⟩,h⟩
+  let l := quadrupleEmbedding Q D a b c d hQ h
+  let A := Set.powersetCard.ofFinEmbEquiv l
+  have hl : occupationFourLabels Q A.val A.property = l :=
+    Set.powersetCard.ofFinEmbEquiv.symm_apply_apply l
+  have hw : (∑ i ∈ A.val, i.val)=D+1 := by
+    rw [occupationFourLabels_sum Q A.val A.property,hl]
+    exact (Certificate.mem_quadruples D a b c d).mp h |>.2.2.2
+  refine ⟨⟨A.val,A.property,hw⟩,?_⟩
+  apply Subtype.ext
+  simp only [occupationQuadruple,hl]
+  rfl
+
+noncomputable def fourOccupationEquiv (Q D : ℕ) (hQ : D+1 ≤ Q) :
+    FourOccupation Q D ≃ {t : ℕ×ℕ×ℕ×ℕ // t ∈ Certificate.quadruples D} :=
+  Equiv.ofBijective (occupationQuadruple Q D)
+    ⟨occupationQuadruple_injective Q D,occupationQuadruple_surjective Q D hQ⟩
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_ColumnExpansion
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+open Spin
+
+noncomputable def fourOccupationCreate (Q D : ℕ) (A : FourOccupation Q D) : Module.End ℂ (Space Q) :=
+  let l := occupationFourLabels Q A.val A.property.1
+  create (l 0)*create (l 1)*create (l 2)*create (l 3)
+
+noncomputable def fourOccupationEnd (Q D : ℕ) (A : FourOccupation Q D) : Module.End ℂ (Space Q) :=
+  let l := occupationFourLabels Q A.val A.property.1
+  annihilate (l 3)*annihilate (l 2)*annihilate (l 1)*annihilate (l 0)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_PhysicalCertificate
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped Matrix
+
+noncomputable def physicalLimitGram (Q D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℝ :=
+  fun i j => (occupationInner Q (limitFourColumn Q (Certificate.copyLabel i) D)
+    (limitFourColumn Q (Certificate.copyLabel j) D)).re
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_WedgeCompression
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped Matrix BigOperators ComplexOrder
+open Matrix Spin
+
+noncomputable def physicalWedgeColumns (Q D : ℕ) :
+    Matrix (Finset (Fin (Q+1))) (Fin ((D+1)/2)) ℂ :=
+  fun A i => (occupationBasis Q).repr (limitFourColumn Q (Certificate.copyLabel i) D) A
+
+noncomputable def physicalLimitMiddle (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℂ :=
+  (Certificate.certificateDiagonal D - physicalLimitError D).map Complex.ofReal
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_LimitPositive
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped Matrix BigOperators ComplexOrder
+open Matrix Spin
+
+noncomputable def physicalFourOccupationColumns (Q D : ℕ) :
+    Matrix (FourOccupation Q D) (Fin ((D+1)/2)) ℂ :=
+  fun A i => physicalWedgeColumns Q D A.val i
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_TruncatedFourCopy
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+open Spin
+
+noncomputable def localFourOperators (Q D : ℕ) (hDQ : D ≤ Q) (b : LocalFourIndex D) : Module.End ℂ (Space Q) :=
+  limitFourEnd Q b.val.1.val ⟨b.val.2.1.val,by omega⟩ ⟨b.val.2.2.val,by omega⟩
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Endpoint
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+theorem genericUnitDescendant_raising_succ (A B z n : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (hn : n < genericCoupledWeight A B z) :
+    totalRaise A B *ᵥ genericUnitDescendant A B z hA hB (n+1) =
+      Real.sqrt (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n)) •
+        genericUnitDescendant A B z hA hB n := by
+  have hr : totalRaise A B *ᵥ genericDescendant A B z hA hB (n+1) =
+      (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n)) • genericDescendant A B z hA hB n := by
+    exact descendant_raising (totalRaise A B) (totalWeight A B) (totalRaise A B)ᵀ
+      (genericHighest A B z hA hB) (genericCoupledWeight A B z)
+      (total_raise_lower_commutator A B) (total_weight_lower_commutator A B)
+      (genericHighest_weight A B z hA hB) (genericHighest_raising_zero A B z hA hB) n
+  have hc : 0 < ((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n) := by
+    have hn' : (n : ℝ) < genericCoupledWeight A B z := by exact_mod_cast hn
+    positivity
+  have hden : Real.sqrt (vectorNormSq (genericDescendant A B z hA hB (n+1))) =
+      Real.sqrt (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n))*
+        Real.sqrt (vectorNormSq (genericDescendant A B z hA hB n)) := by
+    rw [genericDescendant_norm_step,Real.sqrt_mul (le_of_lt hc)]
+  have hx : (Real.sqrt (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n)))⁻¹ *
+      (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n)) =
+        Real.sqrt (((n : ℝ)+1)*((genericCoupledWeight A B z : ℝ)-n)) := by
+    apply mul_left_cancel₀ (ne_of_gt (Real.sqrt_pos.mpr hc))
+    rw [mul_inv_cancel_left₀ (ne_of_gt (Real.sqrt_pos.mpr hc))]
+    exact (Real.mul_self_sqrt (le_of_lt hc)).symm
+  unfold genericUnitDescendant
+  rw [Matrix.mulVec_smul,hr,smul_smul,smul_smul,hden,mul_inv_rev]
+  rw [mul_assoc,hx,mul_comm]
+
+theorem genericDescendant_past_lowest (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    genericDescendant A B z hA hB (genericCoupledWeight A B z+1)=0 := by
+  have h := genericDescendant_norm_step A B z (genericCoupledWeight A B z) hA hB
+  simp only [sub_self,mul_zero,zero_mul] at h
+  funext i
+  have hi : (genericDescendant A B z hA hB (genericCoupledWeight A B z+1) i)^2 ≤
+      vectorNormSq (genericDescendant A B z hA hB (genericCoupledWeight A B z+1)) :=
+    Finset.single_le_sum (fun k hk => sq_nonneg _) (Finset.mem_univ i)
+  rw [h] at hi
+  change genericDescendant A B z hA hB (genericCoupledWeight A B z+1) i=0
+  nlinarith [sq_nonneg (genericDescendant A B z hA hB (genericCoupledWeight A B z+1) i)]
+
+theorem genericUnitDescendant_lowest (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    (totalRaise A B)ᵀ *ᵥ genericUnitDescendant A B z hA hB (genericCoupledWeight A B z)=0 := by
+  unfold genericUnitDescendant
+  rw [Matrix.mulVec_smul,← genericDescendant_succ,genericDescendant_past_lowest,smul_zero]
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Intertwining
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def genericCoupledInclusion (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    Matrix (SpinIndex A B) (Fin (genericCoupledWeight A B z+1)) ℝ :=
+  fun i n => genericUnitDescendant A B z hA hB n.val i
+
+theorem genericCoupledInclusion_raising (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    totalRaise A B*genericCoupledInclusion A B z hA hB =
+      genericCoupledInclusion A B z hA hB*raiseMatrix (genericCoupledWeight A B z) := by
+  funext i n
+  change (totalRaise A B *ᵥ genericUnitDescendant A B z hA hB n.val) i =
+    ∑ k, genericUnitDescendant A B z hA hB k.val i * raiseMatrix (genericCoupledWeight A B z) k n
+  rw [raiseMatrix_column]
+  by_cases hn : 0 < n.val
+  · rw [dite_eq_left hn]
+    have h := genericUnitDescendant_raising_succ A B z (n.val-1) hA hB (by omega)
+    rw [show n.val-1+1=n.val by omega] at h
+    have he := congrFun h i
+    simpa [ladder,Nat.cast_sub (show n.val-1 ≤ genericCoupledWeight A B z by omega),mul_comm] using he
+  · rw [dite_eq_right hn]
+    have hz : n.val=0 := by omega
+    rw [hz,genericUnitDescendant_zero,genericHighest_raising_zero]
+    rfl
+
+theorem genericCoupledInclusion_lowering (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    (totalRaise A B)ᵀ*genericCoupledInclusion A B z hA hB =
+      genericCoupledInclusion A B z hA hB*(raiseMatrix (genericCoupledWeight A B z))ᵀ := by
+  funext i n
+  change ((totalRaise A B)ᵀ *ᵥ genericUnitDescendant A B z hA hB n.val) i =
+    ∑ k, genericUnitDescendant A B z hA hB k.val i * raiseMatrix (genericCoupledWeight A B z) n k
+  conv_rhs => simp only [mul_comm (genericUnitDescendant A B z hA hB _ i)]
+  rw [raiseMatrix_row]
+  by_cases hn : n.val < genericCoupledWeight A B z
+  · rw [dite_eq_left hn]
+    have h := congrFun (genericUnitDescendant_lowering A B z n.val hA hB hn) i
+    simpa [ladder,Nat.cast_sub (Nat.le_of_lt hn)] using h
+  · rw [dite_eq_right hn]
+    have hz : n.val=genericCoupledWeight A B z := by omega
+    rw [hz,genericUnitDescendant_lowest]
+    rfl
+
+theorem genericCoupledInclusion_SU2 (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (g : Rotation.SourceSU2) :
+    (Rotation.sourceSpinRepresentation A g ⊗ₖ Rotation.sourceSpinRepresentation B g)*
+      (genericCoupledInclusion A B z hA hB).map Complex.ofReal =
+      (genericCoupledInclusion A B z hA hB).map Complex.ofReal*
+        Rotation.sourceSpinRepresentation (genericCoupledWeight A B z) g := by
+  apply Rotation.ladder_intertwiner_SU2 A B z (genericCoupledWeight A B z)
+    (by unfold genericCoupledWeight; omega)
+  · intro i n hn
+    simp only [Matrix.map_apply,genericCoupledInclusion,genericUnitDescendant_off A B z n.val hA hB i hn,
+      Complex.ofReal_zero]
+  · ext i n
+    have h := congrArg Complex.ofReal (congrFun (congrFun (genericCoupledInclusion_raising A B z hA hB) i) n)
+    simpa [Rotation.totalRaiseComplex,Rotation.spinRaiseComplex,Matrix.mul_apply] using h
+  · ext i n
+    have h := congrArg Complex.ofReal (congrFun (congrFun (genericCoupledInclusion_lowering A B z hA hB) i) n)
+    simpa [Rotation.totalRaiseComplex,Rotation.spinRaiseComplex,Matrix.mul_apply,Matrix.transpose_apply] using h
+
+noncomputable def physicalCoupledInclusion (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :=
+  (-1 : ℂ)^z • (genericCoupledInclusion A B z hA hB).map Complex.ofReal
+
+theorem physicalCoupledInclusion_SU2 (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (g : Rotation.SourceSU2) :
+    (Rotation.sourceSpinRepresentation A g ⊗ₖ Rotation.sourceSpinRepresentation B g)*
+      physicalCoupledInclusion A B z hA hB =
+      physicalCoupledInclusion A B z hA hB*
+        Rotation.sourceSpinRepresentation (genericCoupledWeight A B z) g := by
+  simp only [physicalCoupledInclusion,Matrix.mul_smul,Matrix.smul_mul,genericCoupledInclusion_SU2]
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_CopyOrthogonality
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def fourBodyInclusion (Q r D : ℕ) (hr : r ≤ Q)
+    (hA : D-r ≤ 2*Q-2) (hB : D-r ≤ genericCoupledWeight Q Q r) :
+    Matrix (Fin (2*Q-2+1) × WedgePairIndex Q)
+      (Fin (genericCoupledWeight (2*Q-2) (genericCoupledWeight Q Q r) (D-r)+1)) ℝ :=
+  tensorPairInclusion (2*Q-2) Q r hr *
+    ((-1 : ℝ)^(D-r) • genericCoupledInclusion (2*Q-2) (genericCoupledWeight Q Q r) (D-r) hA hB)
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Pair_CoupledBasis
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def pairCoupledBasis (Q : ℕ) : Matrix (WedgePairIndex Q) (PairCoupledIndex Q) ℝ :=
+  fun i s => pairCoupledWedge Q (oddPairDeficit s.1) (oddPairDeficit_le s.1) s.2.val i
+
+def wedgePairEquiv (Q : ℕ) : WedgePairIndex Q ≃ Σ j : Fin (Q+1), Fin j.val where
+  toFun i := ⟨i.val.2,⟨i.val.1.val,i.property⟩⟩
+  invFun s := ⟨(⟨s.2.val,by have := s.1.isLt; have := s.2.isLt; omega⟩,s.1),s.2.isLt⟩
+  left_inv i := by apply Subtype.ext; rfl
+  right_inv s := by cases s; rfl
+
+theorem wedgePairIndex_card_real (Q : ℕ) :
+    (Fintype.card (WedgePairIndex Q) : ℝ) = (Q : ℝ)*(Q+1)/2 := by
+  rw [Fintype.card_congr (wedgePairEquiv Q)]
+  simp only [Fintype.card_sigma,Fintype.card_fin,Nat.cast_sum]
+  rw [fin_sum_values]
+  push_cast
+  ring
+
+theorem pairCoupledIndex_card (Q : ℕ) :
+    Fintype.card (PairCoupledIndex Q) = Fintype.card (WedgePairIndex Q) := by
+  have h : (Fintype.card (PairCoupledIndex Q) : ℝ) = (Fintype.card (WedgePairIndex Q) : ℝ) := by
+    rw [wedgePairIndex_card_real]
+    simp only [Fintype.card_sigma,Fintype.card_fin,Nat.cast_sum]
+    have hc (r : OddPairLabel Q) :
+        ((genericCoupledWeight Q Q (oddPairDeficit r)+1 : ℕ) : ℝ) =
+          2*(Q : ℝ)-1-4*(r.val : ℝ) := by
+      have hr := oddPairDeficit_le r
+      unfold genericCoupledWeight
+      rw [Nat.cast_add,Nat.cast_sub (by omega : 2*oddPairDeficit r ≤ Q+Q)]
+      simp only [oddPairDeficit,Nat.cast_add,Nat.cast_mul,Nat.cast_ofNat]
+      ring
+    simp_rw [hc]
+    rw [Finset.sum_sub_distrib,Finset.sum_const,← Finset.mul_sum,fin_sum_values]
+    simp only [Finset.card_univ,Fintype.card_fin,nsmul_eq_mul]
+    have hp : Q+1=2*((Q+1)/2) ∨ Q=2*((Q+1)/2) := by omega
+    rcases hp with hp | hp
+    · have he : (Q : ℝ)+1=2*(((Q+1)/2 : ℕ) : ℝ) := by exact_mod_cast hp
+      nlinarith
+    · have he : (Q : ℝ)=2*(((Q+1)/2 : ℕ) : ℝ) := by exact_mod_cast hp
+      nlinarith
+  exact_mod_cast h
+
+theorem pairCoupledBasis_isometry (Q : ℕ) :
+    (pairCoupledBasis Q)ᵀ * pairCoupledBasis Q = 1 := by
+  ext s t
+  simp only [Matrix.mul_apply,Matrix.transpose_apply,pairCoupledBasis,Matrix.one_apply]
+  by_cases h : s=t
+  · subst t
+    rw [ite_eq_left rfl]
+    simpa only [vectorNormSq,pow_two] using
+      pairCoupledWedge_norm Q (oddPairDeficit s.1) s.2.val (oddPairDeficit_le s.1)
+        (oddPairDeficit_odd s.1) (by have := s.2.isLt; omega)
+  · rw [ite_eq_right h]
+    apply pairCoupledWedge_orthogonal _ _ _ _ _ _ _ (oddPairDeficit_odd s.1) (oddPairDeficit_odd t.1)
+    rcases s with ⟨r,n⟩
+    rcases t with ⟨s,m⟩
+    by_cases hrs : r=s
+    · subst s
+      right
+      intro he
+      exact h (by have hn : n=m := Fin.ext he; subst m; rfl)
+    · left
+      intro he
+      apply hrs
+      apply Fin.ext
+      dsimp [oddPairDeficit] at he
+      omega
+
+theorem pairCoupledBasis_complete (Q : ℕ) :
+    pairCoupledBasis Q * (pairCoupledBasis Q)ᵀ = 1 :=
+  (Matrix.mul_eq_one_comm_of_card_eq (m := PairCoupledIndex Q) (n := WedgePairIndex Q)
+    (R := ℝ) (pairCoupledIndex_card Q)).mp (pairCoupledBasis_isometry Q)
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_TensorIntertwining
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open Rotation
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def fourWedgeInclusion (Q r D : ℕ) (hr : r ≤ Q)
+    (hA : D-r ≤ 2*Q-2) (hB : D-r ≤ genericCoupledWeight Q Q r) :
+    Matrix (Fin (2*Q-2+1) × WedgePairIndex Q)
+      (Fin (genericCoupledWeight (2*Q-2) (genericCoupledWeight Q Q r) (D-r)+1)) ℂ :=
+  fun i n => (fourBodyCopy Q r D hr hA hB n.val i : ℂ)
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_WedgePairRotation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open Rotation
+open scoped BigOperators Matrix Kronecker
+
+theorem antisymmetric_ordered_sum (Q : ℕ) (f g : SpinIndex Q Q → ℂ)
+    (hf : ∀ i j, f (j,i) = -f (i,j)) :
+    (∑ i, f i*g i) = ∑ i : WedgePairIndex Q, f i.val * (g i.val-g i.val.swap) := by
+  have hd (i : Fin (Q+1)) : f (i,i)=0 := by have := hf i i; linear_combination this / 2
+  have he (i j : Fin (Q+1)) : f (i,j)*g (i,j) =
+      (if i < j then f (i,j)*g (i,j) else 0) -
+      (if j < i then f (j,i)*g (i,j) else 0) := by
+    rcases lt_trichotomy i j with h | h | h
+    · simp [h,not_lt_of_gt h]
+    · subst j; simp [hd]
+    · simp [h,not_lt_of_gt h,hf i j]
+  calc
+    _ = ∑ i : Fin (Q+1), ∑ j : Fin (Q+1),
+        ((if i < j then f (i,j)*g (i,j) else 0) -
+        (if j < i then f (j,i)*g (i,j) else 0)) := by
+      rw [Fintype.sum_prod_type]
+      apply Finset.sum_congr rfl; intro i hi
+      apply Finset.sum_congr rfl; intro j hj
+      exact he i j
+    _ = ∑ i : SpinIndex Q Q, if i.1 < i.2 then f i*(g i-g i.swap) else 0 := by
+      simp only [Finset.sum_sub_distrib,Fintype.sum_prod_type]
+      rw [Finset.sum_comm (f := fun i j : Fin (Q+1) => if j < i then f (j,i)*g (i,j) else 0)]
+      rw [← Finset.sum_sub_distrib]
+      apply Finset.sum_congr rfl; intro i hi
+      rw [← Finset.sum_sub_distrib]
+      apply Finset.sum_congr rfl; intro j hj
+      split_ifs <;> simp [mul_sub]
+    _ = _ := by
+      rw [← Finset.sum_filter]
+      exact (Finset.sum_subtype (p := fun i : SpinIndex Q Q => i.1 < i.2) (Finset.univ.filter (fun i : SpinIndex Q Q => i.1 < i.2))
+        (by simp) (fun i => f i*(g i-g i.swap)))
+
+noncomputable def wedgePairMatrix (Q : ℕ) (g : SourceSU2) :
+    Matrix (WedgePairIndex Q) (WedgePairIndex Q) ℂ := fun i j =>
+  sourceSpinRepresentation Q g i.val.1 j.val.1 * sourceSpinRepresentation Q g i.val.2 j.val.2 -
+    sourceSpinRepresentation Q g i.val.1 j.val.2 * sourceSpinRepresentation Q g i.val.2 j.val.1
+
+theorem wedgePairMatrix_tensor (Q : ℕ) (g : SourceSU2) (f : SpinIndex Q Q → ℂ)
+    (hf : ∀ i j, f (j,i) = -f (i,j)) (i : WedgePairIndex Q) :
+    (wedgePairMatrix Q g *ᵥ (fun j => (Real.sqrt 2 : ℂ)*f j.val)) i =
+      (Real.sqrt 2 : ℂ) *
+        ((sourceSpinRepresentation Q g ⊗ₖ sourceSpinRepresentation Q g) *ᵥ f) i.val := by
+  have h := antisymmetric_ordered_sum Q f
+    (fun j => sourceSpinRepresentation Q g i.val.1 j.1 * sourceSpinRepresentation Q g i.val.2 j.2) hf
+  simp only [Matrix.mulVec,dotProduct,Matrix.kroneckerMap,Matrix.of_apply]
+  conv_rhs => rw [show (∑ j : SpinIndex Q Q,
+    sourceSpinRepresentation Q g i.val.1 j.1 * sourceSpinRepresentation Q g i.val.2 j.2 * f j) =
+    ∑ j : SpinIndex Q Q, f j*(sourceSpinRepresentation Q g i.val.1 j.1 *
+      sourceSpinRepresentation Q g i.val.2 j.2) by apply Finset.sum_congr rfl; intro j hj; ring]
+  rw [h,Finset.mul_sum]
+  apply Finset.sum_congr rfl
+  intro j hj
+  dsimp [wedgePairMatrix]
+  ring
+
+theorem pairCoupledInclusion_SU2 (Q r : ℕ) (hr : r ≤ Q) (hor : Odd r) (g : SourceSU2) :
+    wedgePairMatrix Q g * (pairCoupledInclusion Q r hr).map Complex.ofReal =
+      (pairCoupledInclusion Q r hr).map Complex.ofReal *
+        sourceSpinRepresentation (genericCoupledWeight Q Q r) g := by
+  ext i n
+  have hp : physicalCoupledInclusion Q Q r hr hr =
+      (fun j k => (pairCoupledTensor Q r hr k.val j : ℂ)) := by
+    ext j k
+    simp [physicalCoupledInclusion,genericCoupledInclusion,pairCoupledTensor]
+  have h := congrFun (congrFun (physicalCoupledInclusion_SU2 Q Q r hr hr g) i.val) n
+  rw [hp] at h
+  have hf (a b : Fin (Q+1)) :
+      (pairCoupledTensor Q r hr n.val (b,a) : ℂ) = -(pairCoupledTensor Q r hr n.val (a,b) : ℂ) := by
+    exact_mod_cast pairCoupledTensor_antisymmetric Q r n.val hr hor a b
+  change (wedgePairMatrix Q g *ᵥ
+    (fun j => (pairCoupledWedge Q r hr n.val j : ℂ))) i = _
+  simp only [pairCoupledWedge,tensorToWedgePair,Complex.ofReal_mul]
+  rw [wedgePairMatrix_tensor Q g (fun j : SpinIndex Q Q => (pairCoupledTensor Q r hr n.val j : ℂ)) hf i]
+  change ((sourceSpinRepresentation Q g ⊗ₖ sourceSpinRepresentation Q g) *ᵥ
+    (fun j : SpinIndex Q Q => (pairCoupledTensor Q r hr n.val j : ℂ))) i.val =
+      ∑ k, (pairCoupledTensor Q r hr k.val i.val : ℂ) *
+        sourceSpinRepresentation (genericCoupledWeight Q Q r) g k n at h
+  rw [h]
+  simp only [Matrix.mul_apply,Matrix.map_apply,pairCoupledInclusion,pairCoupledWedge,
+    tensorToWedgePair,Complex.ofReal_mul,Finset.mul_sum]
+  apply Finset.sum_congr rfl
+  intro k hk
+  ring
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_WedgePairRepresentation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open Rotation
+open scoped BigOperators Matrix
+
+noncomputable def complexPairBasis (Q : ℕ) := (pairCoupledBasis Q).map Complex.ofReal
+
+theorem complexPairBasis_isometry (Q : ℕ) :
+    (complexPairBasis Q)ᴴ * complexPairBasis Q = 1 := by
+  rw [complexPairBasis,real_matrix_adjoint]
+  exact real_matrix_inverse_complex _ _ (pairCoupledBasis_isometry Q)
+
+theorem complexPairBasis_complete (Q : ℕ) :
+    complexPairBasis Q * (complexPairBasis Q)ᴴ = 1 := by
+  rw [complexPairBasis,real_matrix_adjoint]
+  exact real_matrix_inverse_complex _ _ (pairCoupledBasis_complete Q)
+
+noncomputable def pairBasisAction (Q : ℕ) (g : SourceSU2) :
+    Matrix (PairCoupledIndex Q) (PairCoupledIndex Q) ℂ :=
+  Matrix.blockDiagonal' (fun r : OddPairLabel Q =>
+    sourceSpinRepresentation (genericCoupledWeight Q Q (oddPairDeficit r)) g)
+
+theorem wedgePairMatrix_basis (Q : ℕ) (g : SourceSU2) :
+    wedgePairMatrix Q g * complexPairBasis Q = complexPairBasis Q * pairBasisAction Q g := by
+  ext i s
+  have hb : (complexPairBasis Q * pairBasisAction Q g) i s =
+      ∑ n, complexPairBasis Q i ⟨s.1,n⟩ *
+        sourceSpinRepresentation (genericCoupledWeight Q Q (oddPairDeficit s.1)) g n s.2 := by
+    rw [Matrix.mul_apply,Fintype.sum_sigma,Finset.sum_eq_single s.1]
+    · cases s; simp only [pairBasisAction,Matrix.blockDiagonal'_apply_eq]
+    · intro r hr hrs
+      simp only [pairBasisAction,Matrix.blockDiagonal'_apply_ne _ _ _ hrs,mul_zero,Finset.sum_const_zero]
+    · simp
+  rw [hb]
+  exact congrFun (congrFun (pairCoupledInclusion_SU2 Q (oddPairDeficit s.1)
+    (oddPairDeficit_le s.1) (oddPairDeficit_odd s.1) g) i) s.2
+
+theorem wedgePairMatrix_factor (Q : ℕ) (g : SourceSU2) :
+    wedgePairMatrix Q g = complexPairBasis Q * pairBasisAction Q g * (complexPairBasis Q)ᴴ := by
+  rw [← wedgePairMatrix_basis,Matrix.mul_assoc,complexPairBasis_complete,Matrix.mul_one]
+
+theorem pairBasisAction_one (Q : ℕ) : pairBasisAction Q 1=1 := by
+  simp only [pairBasisAction,map_one]
+  exact Matrix.blockDiagonal'_one
+
+theorem pairBasisAction_mul (Q : ℕ) (g h : SourceSU2) :
+    pairBasisAction Q (g*h) = pairBasisAction Q g * pairBasisAction Q h := by
+  simp only [pairBasisAction,map_mul,Matrix.blockDiagonal'_mul]
+
+theorem wedgePairMatrix_one (Q : ℕ) : wedgePairMatrix Q 1=1 := by
+  rw [wedgePairMatrix_factor,pairBasisAction_one,Matrix.mul_one,complexPairBasis_complete]
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_GroupIntertwining
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open Rotation
+open scoped BigOperators Matrix Kronecker
+
+abbrev FourWedgeIndex (Q : ℕ) := Fin (2*Q-2+1) × WedgePairIndex Q
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_FockCovariance
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation Spin
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def wedgePairVector (Q : ℕ) (i : WedgePairIndex Q) : Space Q :=
+  create i.val.1 (create i.val.2 1)
+
+noncomputable def sourceFourVector (Q : ℕ) (i : FourWedgeIndex Q) : Space Q :=
+  sourcePairVector Q i.1.val * wedgePairVector Q i.2
+
+noncomputable def sourceFourFamilyEnd (Q : ℕ) (i : FourWedgeIndex Q) : Module.End ℂ (Space Q) :=
+  sourceFourEnd Q i.1.val i.2.val.1 i.2.val.2
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_RetainedInclusions
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open Rotation
+open scoped BigOperators Matrix
+
+noncomputable def retainedFourInclusion (Q D : ℕ) (hQ : D+2 ≤ Q) (r : OddPairLabel D) :
+    Matrix (FourWedgeIndex Q) (Fin (fourSpinWeight Q D+1)) ℂ :=
+  castSpinColumns _ _ (four_nested_weight Q D (oddPairDeficit r) hQ (oddPairDeficit_le r))
+    (fourWedgeInclusion Q (oddPairDeficit r) D
+      (by have := oddPairDeficit_le r; omega)
+      (by have := oddPairDeficit_le r; omega)
+      (by have := oddPairDeficit_le r; unfold genericCoupledWeight; omega))
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_CopyOperatorHaar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation Spin MeasureTheory
+open scoped BigOperators Matrix
+
+noncomputable def fourCopyOperator (Q D : ℕ) (hQ : D+2 ≤ Q)
+    (C : OddPairLabel D → OddPairLabel D → ℝ) : Matrix (FourWedgeIndex Q) (FourWedgeIndex Q) ℂ :=
+  ∑ r, ∑ s, (C r s : ℂ) •
+    (retainedFourInclusion Q D hQ r * (retainedFourInclusion Q D hQ s)ᴴ)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_CopyFormAllowance
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Spin Rotation MeasureTheory
+open scoped BigOperators Matrix
+
+noncomputable def retainedFourAllowance (Q : ℕ) (hQ : 25 ≤ Q) (x : Space Q) : ℝ :=
+  ∑ d : Fin 23, (((2*Q-2+1 : ℕ) : ℝ)/((4*Q-1-2*(d.val+1) : ℕ) : ℝ)) *
+    (∑ r : OddPairLabel (d.val+1), (contractionForm Q (sourceFourFamilyEnd Q)
+      (retainedFourInclusion Q (d.val+1) (by omega) r*
+        (retainedFourInclusion Q (d.val+1) (by omega) r)ᴴ) x).re)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_SignedCoordinates
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def fourWedgeUnit (Q p j k : ℕ) : Fin (2*Q-2+1) × WedgePairIndex Q → ℝ :=
+  fun i => if i.1.val=p ∧ i.2.val.1.val=j ∧ i.2.val.2.val=k then 1 else 0
+
+noncomputable def fourSignedUnit (Q p j k : ℕ) : Fin (2*Q-2+1) × WedgePairIndex Q → ℝ :=
+  fourWedgeUnit Q p j k - fourWedgeUnit Q p k j
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_PhysicalMatrix
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def fourBodyTermMatrix (Q t : ℕ) (e f : ℕ × ℕ × ℤ) :
+    Matrix (Fin (2*Q-2+1) × WedgePairIndex Q) (Fin (2*Q-2+1) × WedgePairIndex Q) ℝ :=
+  -(sourceAlpha t e * sourceAlpha t f) •
+    realOuter (fourSignedUnit Q e.1 e.2.1 (f.1+f.2.1-t))
+      (fourSignedUnit Q f.1 f.2.1 (e.1+e.2.1-t))
+
+noncomputable def physicalFourBodyMatrix (Q : ℕ) :
+    Matrix (Fin (2*Q-2+1) × WedgePairIndex Q) (Fin (2*Q-2+1) × WedgePairIndex Q) ℝ :=
+  (Certificate.rows.map (fun row => (row.2.2.map (fun e =>
+    (row.2.2.map (fun f => fourBodyTermMatrix Q row.1 e f)).sum)).sum)).sum
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_GlobalFock
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation Spin MeasureTheory
+open scoped BigOperators Matrix
+
+noncomputable def sourceA4Form (Q : ℕ) (x : Space Q) : ℝ :=
+  ((2*Q-2+1 : ℕ) : ℝ) * (∫ g, contractionForm Q (sourceFourFamilyEnd Q)
+    ((physicalFourBodyMatrix Q).map Complex.ofReal) (exteriorRotation Q g⁻¹ x) ∂sourceHaar).re
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_RetainedComparison
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Spin Rotation MeasureTheory
+open scoped BigOperators Matrix
+
+noncomputable def retainedFourTarget (Q : ℕ) (hQ : 25 ≤ Q) (x : Space Q) : ℝ :=
+  ∑ d : Fin 23, (contractionForm Q (sourceFourFamilyEnd Q)
+    (retainedFourInclusion Q (d.val+1) (by omega) (firstOddPairLabel (d.val+1) (by omega)) *
+      (retainedFourInclusion Q (d.val+1) (by omega) (firstOddPairLabel (d.val+1) (by omega)))ᴴ) x).re
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_PhysicalKernel
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Matrix
+
+noncomputable def threeWedge (Q : ℕ) (u : Spin.PairOrbitalIndex Q → ℂ) : Space Q :=
+  ∑ a, u a • threeBodyColumn Q a.1.val a.2
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_PhysicalMatrix
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def pairOrbitalUnit (Q p j : ℕ) : PairOrbitalIndex Q → ℝ :=
+  fun i => if i.1.val=p ∧ i.2.val=j then 1 else 0
+
+noncomputable def threeBodyLevelVector (Q t T : ℕ) (entries : List (ℕ × ℕ × ℤ)) :
+    PairOrbitalIndex Q → ℝ :=
+  (entries.map (fun e => if e.1+e.2.1=T then sourceAlpha t e • pairOrbitalUnit Q e.1 e.2.1 else 0)).sum
+
+noncomputable def threeBodyLevelMatrix (Q t T : ℕ) (ell : ℤ) (entries : List (ℕ × ℕ × ℤ)) :
+    Matrix (PairOrbitalIndex Q) (PairOrbitalIndex Q) ℝ :=
+  let u := pairOrbitalUnit Q t (T-t)
+  let a := threeBodyLevelVector Q t T entries
+  ((ell : ℝ)/10^7) • (realOuter u a + realOuter a u) + realOuter a a
+
+noncomputable def physicalThreeBodyMatrix (Q : ℕ) :
+    Matrix (PairOrbitalIndex Q) (PairOrbitalIndex Q) ℝ :=
+  (Certificate.rows.map (fun row =>
+    (((List.range 16).filter (fun T => row.1 ≤ T)).map
+      (fun T => threeBodyLevelMatrix Q row.1 T row.2.1 row.2.2)).sum)).sum
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_FockHaar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation Spin MeasureTheory
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def sourceThreeEnd (Q : ℕ) (i : PairOrbitalIndex Q) : Module.End ℂ (Space Q) :=
+  annihilate i.2 * sourcePairEnd Q i.1.val
+
+noncomputable def sourceThreeVector (Q : ℕ) (i : PairOrbitalIndex Q) : Space Q :=
+  sourcePairVector Q i.1.val * create i.2 (1 : Space Q)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_TwoBodyCertificateHaar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation MeasureTheory
+open scoped BigOperators Matrix
+
+noncomputable def physicalTwoBodyMatrix (Q : ℕ) :
+    Matrix (Fin (2*Q-2+1)) (Fin (2*Q-2+1)) ℂ :=
+  (Certificate.rows.map (physicalPairRowMatrix Q)).sum
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Levels
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Spin
+open scoped BigOperators Matrix
+
+noncomputable def sourceRowLevel (Q t T : ℕ) (entries : List (ℕ × ℕ × ℤ))
+    (x : Space Q) : Space Q :=
+  ∑ i, (threeBodyLevelVector Q t T entries i : ℂ) • sourceThreeEnd Q i x
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Square
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Spin
+open scoped BigOperators Matrix
+
+def rowOutputMode (Q t : ℕ) (hQ : 15 ≤ Q) (T : RowLevel t) : Fin (Q+1) :=
+  ⟨T.val.val-t,by have h := T.val.isLt; omega⟩
+
+noncomputable def sourceRowSquareVector (Q : ℕ) (hQ : 15 ≤ Q)
+    (row : ℕ × ℤ × List (ℕ × ℕ × ℤ)) (x : Space Q) : Space Q :=
+  ((row.2.1 : ℂ)/10^7) • sourcePairEnd Q row.1 x +
+    ∑ T : RowLevel row.1, create (rowOutputMode Q row.1 hQ T)
+      (sourceRowLevel Q row.1 T.val.val row.2.2 x)
+
+noncomputable def sourceRowFourForm (Q : ℕ) (hQ : 15 ≤ Q)
+    (row : ℕ × ℤ × List (ℕ × ℕ × ℤ)) (x : Space Q) : ℂ :=
+  -∑ T : RowLevel row.1, ∑ S : RowLevel row.1,
+    occupationInner Q
+      (annihilate (rowOutputMode Q row.1 hQ S) (sourceRowLevel Q row.1 T.val.val row.2.2 x))
+      (annihilate (rowOutputMode Q row.1 hQ T) (sourceRowLevel Q row.1 S.val.val row.2.2 x))
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Expansion
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Spin
+open scoped BigOperators Matrix
+
+noncomputable def sourceEntryThree (Q : ℕ) (e : ℕ × ℕ × ℤ) (x : Space Q) : Space Q :=
+  ∑ i, (pairOrbitalUnit Q e.1 e.2.1 i : ℂ) • sourceThreeEnd Q i x
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Ungroup
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Spin
+open scoped BigOperators Matrix
+
+noncomputable def sourceRowFourEntry (Q t : ℕ) (e f : ℕ × ℕ × ℤ) (x : Space Q) : ℂ :=
+  -(sourceAlpha t e : ℂ)*(sourceAlpha t f : ℂ) * occupationInner Q
+    (boundedAnnihilate Q (f.1+f.2.1-t) (sourceEntryThree Q e x))
+    (boundedAnnihilate Q (e.1+e.2.1-t) (sourceEntryThree Q f x))
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_SevenSquareAverage
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation Spin MeasureTheory
+open scoped BigOperators Matrix
+
+noncomputable def sourceKForm (Q : ℕ) (hQ : 15 ≤ Q) (x : Space Q) : ℝ :=
+  ((2*Q-2+1 : ℕ) : ℝ) * ∫ g, (Certificate.rows.map (fun row =>
+    occupationNormSq Q (sourceRowSquareVector Q hQ row (exteriorRotation Q g⁻¹ x)))).sum ∂sourceHaar
+
+noncomputable def sourceA3Form (Q : ℕ) (x : Space Q) : ℝ :=
+  ((2*Q-2+1 : ℕ) : ℝ) * (∫ g, contractionForm Q (sourceThreeEnd Q)
+    ((physicalThreeBodyMatrix Q).map Complex.ofReal) (exteriorRotation Q g⁻¹ x) ∂sourceHaar).re
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_HighestFock
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation Spin MeasureTheory
+open scoped BigOperators Matrix
+
+noncomputable def sourceThreeHighestEnd (Q z : ℕ) (hQ : 2 ≤ Q) (hz : z ≤ Q) :
+    Module.End ℂ (Space Q) :=
+  ∑ p : Fin (z+1), (highestUnit (2*Q-2) Q z p.val : ℂ) •
+    sourceThreeEnd Q (weightSliceIndex (2*Q-2) Q z (by omega) hz p)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_SpectralDistance
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators InnerProductSpace
+
+noncomputable def occupationEuclidean (Q : ℕ) :
+    Space Q ≃ₗ[ℂ] EuclideanSpace ℂ (Finset (Fin (Q+1))) :=
+  (occupationBasis Q).equivFun.trans (WithLp.linearEquiv 2 ℂ (Finset (Fin (Q+1)) → ℂ)).symm
+
+noncomputable def euclideanFockHamiltonian (Q : ℕ) :
+    Module.End ℂ (EuclideanSpace ℂ (Finset (Fin (Q+1)))) :=
+  (occupationEuclidean Q).toLinearMap.comp
+    ((sourceFockHamiltonian Q).comp (occupationEuclidean Q).symm.toLinearMap)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Tensor_ExteriorContraction
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def orderedWedge {n Q : ℕ} (a : Configuration n Q) : Space Q :=
+  ExteriorAlgebra.ιMulti ℂ n (fun k => mode (a k))
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Tensor_ExteriorIsometry
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def normalizedTensorExterior (n Q : ℕ) (ψ : State n Q) : Space Q :=
+  ((Real.sqrt (n.factorial : ℝ))⁻¹ : ℂ) • tensorExterior n Q ψ
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Tensor_ExteriorAdjoint
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def normalizedTensorReadout (n Q : ℕ) (x : Space Q) : State n Q :=
+  fun a => ((Real.sqrt (n.factorial : ℝ))⁻¹ : ℂ) * occupationInner Q (orderedWedge a) x
+
+end Laughlin.Fock
+
+end OAI
+end
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeymourMFMC_Binary_exists_initial_member
 -- name    : SeymourMFMC.Binary.exists_initial_member
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T05:03:15.41933+00:00
 -- url     : https://prove2.me/theorems/a6aa8f82-ab7d-4564-a701-bc75868d9496

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastComp_IELF_eq_9
 -- name    : ForecastComp.IELF.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:31.689706+00:00
 -- url     : https://prove2.me/theorems/ea43eb3a-58ac-4cc3-b875-5e596116431f

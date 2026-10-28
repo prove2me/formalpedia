@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_roof_graph_fiber
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.roof_graph_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:37:23.940203+00:00
 -- url     : https://prove2.me/theorems/852a1cdb-b4b8-44a8-ba4a-278b0c4c3cf1

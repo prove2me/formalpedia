@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalSGD_Smooth_theorem_2
 -- name    : OptimalSGD.Smooth.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:20:54.973375+00:00
 -- url     : https://prove2.me/theorems/7689db5c-057d-48e7-8996-5202e63ae6f3

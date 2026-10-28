@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EFXGenVal_TwoVal_lemma_18
 -- name    : EFXGenVal.TwoVal.lemma_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:47:52.998572+00:00
 -- url     : https://prove2.me/theorems/68dcbe5b-bd9c-40be-b111-ac596d13d80f

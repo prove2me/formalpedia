@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KKBinPacking_GeometricGrouping_lp_floor_rounding_certificate
 -- name    : KKBinPacking.GeometricGrouping.lp_floor_rounding_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-02T13:48:50.565035+00:00
 -- url     : https://prove2.me/theorems/d4f0eca3-b658-4ba1-82b1-267d1e0de27c

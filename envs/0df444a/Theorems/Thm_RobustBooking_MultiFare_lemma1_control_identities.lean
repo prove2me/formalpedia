@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_MultiFare_lemma1_control_identities
 -- name    : RobustBooking.MultiFare.lemma1_control_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T23:43:44.283597+00:00
 -- url     : https://prove2.me/theorems/71572b5e-610c-4819-9b5b-1875b834f8d6

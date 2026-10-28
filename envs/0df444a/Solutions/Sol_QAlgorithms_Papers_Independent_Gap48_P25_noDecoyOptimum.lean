@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.noDecoyOptimum
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:15:32.698056+00:00
 -- url     : https://prove2.me/submissions/4dd91257-1461-4ec9-ad38-8f983679e10c
 

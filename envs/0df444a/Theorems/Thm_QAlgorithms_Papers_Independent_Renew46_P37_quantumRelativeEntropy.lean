@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P37_quantumRelativeEntropy
 -- name    : QAlgorithms.Papers.Independent.Renew46.P37.quantumRelativeEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T22:25:46.504912+00:00
 -- url     : https://prove2.me/theorems/442c25f9-1628-4233-b6f8-e6e98b6a0aaf

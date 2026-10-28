@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_five_moment_certificate
 -- name    : Erdos624.five_moment_certificate
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:36.349906+00:00
 -- url     : https://prove2.me/theorems/82350780-0577-4047-a981-760351df1378
 -- title:

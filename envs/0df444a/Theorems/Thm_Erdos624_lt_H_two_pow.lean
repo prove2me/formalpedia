@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_lt_H_two_pow
 -- name    : Erdos624.lt_H_two_pow
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:31.356183+00:00
 -- url     : https://prove2.me/theorems/dc9e149a-969f-4d6d-8fed-a1fd6a6f204c
 -- title:

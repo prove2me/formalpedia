@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MHSpectralGap_RWM_conductance_le_accept
 -- name    : MHSpectralGap.RWM.conductance_le_accept
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:14:07.037868+00:00
 -- url     : https://prove2.me/theorems/6bcfc1e2-8e6a-45d8-a83e-28efeab71383

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrbNetEqui_Equivariance_theorem_S1
 -- name    : OrbNetEqui.Equivariance.theorem_S1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:38:45.788007+00:00
 -- url     : https://prove2.me/theorems/ccd5c4ee-4e99-4645-9c51-05640c151eac

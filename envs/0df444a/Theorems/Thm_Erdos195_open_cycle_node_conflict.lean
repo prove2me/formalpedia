@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_cycle_node_conflict
 -- name    : Erdos195.open_cycle_node_conflict
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:52:05.097106+00:00
 -- url     : https://prove2.me/theorems/0d5f4e1f-1954-4ac1-911c-257b0871b497
 -- title:

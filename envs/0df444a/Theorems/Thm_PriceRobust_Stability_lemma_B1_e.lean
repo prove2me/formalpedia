@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceRobust_Stability_lemma_B1_e
 -- name    : PriceRobust.Stability.lemma_B1_e
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:17:15.766771+00:00
 -- url     : https://prove2.me/theorems/b6a756ed-0d05-472b-a791-56608c19cb9b

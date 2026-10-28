@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.QgOuterFockInteractionFL.QgFamily.outerHam_esa
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:33:14.603999+00:00
 -- url     : https://prove2.me/submissions/04ae7951-4893-4917-8a22-63540ebfa600
 

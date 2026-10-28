@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_BigRadius_exists_measure_condExp_eq
 -- name    : CondPortOT.BigRadius.exists_measure_condExp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:18:04.58218+00:00
 -- url     : https://prove2.me/theorems/983e4a6d-78c8-4bdf-a45c-83d14c16dd29

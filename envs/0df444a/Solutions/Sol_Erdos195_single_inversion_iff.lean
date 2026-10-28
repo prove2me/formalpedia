@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.single_inversion_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T20:29:50.18037+00:00
 -- url     : https://prove2.me/submissions/aff10569-3a09-4501-a79f-d460170127fe
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssemblyCoord_Feedback_proposition_2_i
 -- name    : AssemblyCoord.Feedback.proposition_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:40.981042+00:00
 -- url     : https://prove2.me/theorems/1c490a01-377c-417b-b4b3-266085be05e4

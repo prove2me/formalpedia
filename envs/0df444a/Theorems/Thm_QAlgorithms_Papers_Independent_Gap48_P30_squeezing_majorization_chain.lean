@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P30_squeezing_majorization_chain
 -- name    : QAlgorithms.Papers.Independent.Gap48.P30.squeezing_majorization_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:18:31.898087+00:00
 -- url     : https://prove2.me/theorems/28f74d3b-daae-4eac-aea0-0a33fb65ffcd

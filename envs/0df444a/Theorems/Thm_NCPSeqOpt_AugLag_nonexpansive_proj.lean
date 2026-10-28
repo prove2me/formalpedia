@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCPSeqOpt_AugLag_nonexpansive_proj
 -- name    : NCPSeqOpt.AugLag.nonexpansive_proj
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:10.884601+00:00
 -- url     : https://prove2.me/theorems/bbe7bf22-7c77-4ad6-8e13-29eec8a73bf2

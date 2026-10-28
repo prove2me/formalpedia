@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChinesePostman_Polyhedron_min_attained_at_parity_point
 -- name    : ChinesePostman.Polyhedron.min_attained_at_parity_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:39:11.520976+00:00
 -- url     : https://prove2.me/theorems/1935b382-bd76-4930-98ef-f67026a4cd63

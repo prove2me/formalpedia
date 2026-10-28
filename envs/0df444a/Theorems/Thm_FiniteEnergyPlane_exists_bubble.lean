@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_bubble
 -- name    : FiniteEnergyPlane.exists_bubble
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:25:36.960712+00:00
 -- url     : https://prove2.me/theorems/5d13d907-23dc-4df4-b2af-1df9973dffea

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_extremum_obstruction
 -- name    : Erdos195.extremum_obstruction
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:51:36.533417+00:00
 -- url     : https://prove2.me/theorems/3cb1e285-f803-4e15-b388-338c28ac0c62
 -- title:

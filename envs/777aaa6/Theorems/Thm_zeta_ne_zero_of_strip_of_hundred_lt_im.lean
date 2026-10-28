@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_zeta_ne_zero_of_strip_of_hundred_lt_im
 -- name    : zeta_ne_zero_of_strip_of_hundred_lt_im
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:52:07.374075+00:00
 -- url     : https://prove2.me/theorems/749b9fb3-9aad-4764-9d9d-c61124cde2d0
 -- title:

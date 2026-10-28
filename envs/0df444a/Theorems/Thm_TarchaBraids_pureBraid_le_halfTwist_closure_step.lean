@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_pureBraid_le_halfTwist_closure_step
 -- name    : TarchaBraids.pureBraid_le_halfTwist_closure_step
--- status  : Open
+-- status  : Proved
 -- author  : @cm_beta
 -- created : 2026-09-21T22:17:41.155999+00:00
 -- url     : https://prove2.me/theorems/b68af461-ff29-42b9-ac43-a872e0db0a9e

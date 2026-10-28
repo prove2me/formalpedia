@@ -1,0 +1,61 @@
+-- Prove2me | solution 1 for D1Bound5.pairGraphTriangleFreeBool_of_trace_zero_tau_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @tp
+-- created : 2026-10-24T02:35:32.812203+00:00
+-- url     : https://prove2.me/submissions/35d78402-3d69-4d2f-943c-b310c30fe23c
+
+import Mathlib.Algebra.QuadraticAlgebra.Basic
+import Mathlib.Algebra.Ring.Basic
+import Mathlib.Algebra.Ring.Equiv
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Complex.Polynomial.Basic
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Int.GCD
+import Mathlib.Data.Int.Interval
+import Mathlib.Data.Int.Sqrt
+import Mathlib.Data.ZMod.Basic
+import Mathlib.LinearAlgebra.Dimension.Free
+import Mathlib.NumberTheory.NumberField.InfinitePlace.TotallyRealComplex
+import Mathlib.NumberTheory.NumberField.Norm
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.LinearCombination
+import Mathlib.Tactic.Ring
+import Definitions.Def_D1Bound5_Coordinates_Definitions
+import Definitions.Def_D1Bound5_FastSquareTest_Definitions
+import Definitions.Def_D1Bound5_PairGraphNoThreeTransfer_Definitions
+import Definitions.Def_D1Bound5_SmallPairGraphCheck_Definitions
+import Theorems.Thm_D1Bound5_pairAllTraceZeroBool_sound
+import Theorems.Thm_D1Bound5_pairGraphTriangleFreeBool_of_no_three_nonzero
+import Theorems.Thm_D1Bound5_trace_zero_no_three_tau_zero
+
+section
+namespace D1Bound5
+open QuadInt
+
+/-- In the trace-zero model with nu>1, checking the trace of every listed
+vertex replaces all pair comparisons. The original graph predicate remains
+unchanged, and its nonzero guards supply the algebraic endpoint's hypotheses. -/
+theorem _root_.solution {nu : ℤ}
+    (hnu : 1 < nu) (sieve : List (ℕ × ℕ))
+    (hvalid : CoordinateSquareSieveValid 0 nu sieve)
+    (vertices : List (QuadInt 0 nu))
+    (htrace : pairAllTraceZeroBool vertices = true) :
+    pairGraphTriangleFreeBool sieve vertices = true := by
+  have hd : 0 < discriminant 0 nu := by
+    dsimp [discriminant]
+    nlinarith
+  apply pairGraphTriangleFreeBool_of_no_three_nonzero hd sieve hvalid vertices
+  intro x y z hx hy hz hx0 hy0 hz0 hxy hxz hyz
+  exact trace_zero_no_three_tau_zero hnu x y z hx0 hy0 hz0
+    (by simpa only [zero_mul, add_zero] using pairAllTraceZeroBool_sound vertices htrace x hx)
+    (by simpa only [zero_mul, add_zero] using pairAllTraceZeroBool_sound vertices htrace y hy)
+    (by simpa only [zero_mul, add_zero] using pairAllTraceZeroBool_sound vertices htrace z hz)
+    hxy hxz hyz
+
+
+
+end D1Bound5
+end

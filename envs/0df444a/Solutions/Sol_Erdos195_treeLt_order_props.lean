@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.treeLt_order_props
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:17:44.313597+00:00
 -- url     : https://prove2.me/submissions/4c2bf0dc-f3b4-4ba5-b6c9-a7709c2b6dc5
 

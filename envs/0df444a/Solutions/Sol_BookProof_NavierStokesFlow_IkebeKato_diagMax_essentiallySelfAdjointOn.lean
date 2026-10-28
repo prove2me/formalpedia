@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.IkebeKato.diagMax_essentiallySelfAdjointOn
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:35:39.100283+00:00
 -- url     : https://prove2.me/submissions/4a105f82-177a-47e0-bec9-a9f7d0a29533
 

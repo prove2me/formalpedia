@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GIGnBounds_Tail_lemma_8
 -- name    : GIGnBounds.Tail.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:21:57.480165+00:00
 -- url     : https://prove2.me/theorems/aff48b0c-e837-40d1-846d-7d98b1c3d718

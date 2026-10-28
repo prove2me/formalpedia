@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_Putinar_glinear_eq_average
 -- name    : SymPolyOpt.Putinar.glinear_eq_average
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:29:00.993145+00:00
 -- url     : https://prove2.me/theorems/9e608b35-3c00-4751-87f4-b5c512e4ffe1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistVerif_Simulation_theorem_3_1
 -- name    : DistVerif.Simulation.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:50.149979+00:00
 -- url     : https://prove2.me/theorems/665dba51-7763-4ce8-b3e6-cd5e1b24aebf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpConeIPM_Corrector_lemma_2
 -- name    : ExpConeIPM.Corrector.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:07:19.556805+00:00
 -- url     : https://prove2.me/theorems/ab40d3dc-9568-4379-837b-537a51577e1a

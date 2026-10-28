@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropicBarrier_Universal_logPartition_moment_inequality
 -- name    : EntropicBarrier.Universal.logPartition_moment_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:26:15.498418+00:00
 -- url     : https://prove2.me/theorems/a143883d-c299-47b3-a6d0-dc64839146b8

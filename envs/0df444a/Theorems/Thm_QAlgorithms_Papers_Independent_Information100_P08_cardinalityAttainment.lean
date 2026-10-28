@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P08_cardinalityAttainment
 -- name    : QAlgorithms.Papers.Independent.Information100.P08.cardinalityAttainment
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:57:36.911069+00:00
 -- url     : https://prove2.me/theorems/85465070-09de-4feb-af3b-8366b9d49b38

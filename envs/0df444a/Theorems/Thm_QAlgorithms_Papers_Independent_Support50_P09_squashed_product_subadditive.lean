@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_squashed_product_subadditive
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.squashed_product_subadditive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:04:26.494669+00:00
 -- url     : https://prove2.me/theorems/e8770019-7880-44ca-96b4-d69a26401e39

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.FockCubicUnbounded.trial_quartic_form
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:23:08.863182+00:00
 -- url     : https://prove2.me/submissions/c6b70ecf-6460-4092-b62f-72747d6d66e4
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Branching_minCoeffSum_ge_entryDiscount
 -- name    : AllocationIndices.Branching.minCoeffSum_ge_entryDiscount
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:39:06.883652+00:00
 -- url     : https://prove2.me/theorems/cfd5e2cf-33e7-4fff-801a-9d9410e9e427

@@ -1,0 +1,113 @@
+-- Prove2me | Theorems.Thm_OAI_SharpRamseyFive_ScoreGeometry_eventually_high_peel_exceptions
+-- name    : OAI.SharpRamseyFive.ScoreGeometry.eventually_high_peel_exceptions
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-10-27T23:49:47.136989+00:00
+-- url     : https://prove2.me/theorems/e5cf0191-b72e-4cd1-b517-2c9dc90291e9
+-- title:
+--   OAI.SharpRamseyFive.ScoreGeometry.eventually_high_peel_exceptions: intermediate lemma from OpenAI, Sharp logarithmic exponents for fixed off-diagonal Ramsey numbers (result family 170)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.SharpRamseyFive.main`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Sharp logarithmic exponents for fixed off-diagonal Ramsey numbers (result family 170)*, OpenAI Math Release, September 24, 2026, result family 170, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.SharpRamseyFive.ScoreGeometry.eventually_high_peel_exceptions` of [lean/OAI/Combinatorics/RamseyFive/Geometry/HighPeelExceptions.lean](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Combinatorics/RamseyFive/Geometry/HighPeelExceptions.lean) at commit adc7f12, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.SharpRamseyFive.ScoreGeometry`, with `open Module ProjectiveIncidence ProjectiveTraining GreedyTraining GlobalRadial`, `open Filter ParameterHierarchy`, `open scoped BigOperators LinearAlgebra.Projectivization Classical NNReal Topology`):
+--
+--   ```lean
+--   theorem eventually_high_peel_exceptions {η : ℝ} (hη : 0<η) (hη' : η<1/10) :
+--       ∀ᶠ σ : ℝ in atTop,∀ (D : ℝ) (R : ℕ),Range η σ D R →
+--       ∀ (q : ℕ) (K I J : Type) [Field K] [Finite K] [CharP K q] [Fintype I] [LinearOrder J]
+--         [∀x : ℙ K (I→K),Fintype (RadialLine x)],
+--       ∀ (g : ℝ) (F : Finset J) (hF : F.Nonempty) (Flat : J→Submodule K (I→K))
+--         (H : Finset J) (hH : H.Nonempty) (Hyper : J→Submodule K (I→K))
+--         (X XH S : Finset (ℙ K (I→K))) (t : ℝ) (ht0 : 0<t)
+--         (O : ℙ K (I→K)→Finset (ℙ K (I→K)))
+--         (Lines Planes : Finset (Submodule K (I→K))) (Q : Finset (ℙ K (I→K))),
+--         2<q → Nat.card K=q → Real.exp σ=q → Fintype.card I=5 →
+--         P η σ D R/10000<g → g≤σ →
+--         (∀j∈F,finrank K (Flat j)=3) →
+--         (∀U : Submodule K (I→K),finrank K U=3 → ∃j∈F,Flat j=U) →
+--         (∀j∈H,finrank K (Hyper j)=4) →
+--         (∀U : Submodule K (I→K),finrank K U=4 → ∃j∈H,Hyper j=U) →
+--         (∀A∈Planes,finrank K A=3) →
+--         (X.card:ℝ)=Real.exp (2*σ+g) → (X.card:ℝ)≤10*Real.exp (5*σ/2) →
+--         XH=peelSet (P η σ D R/10000<g) H hH (fun j=>flatPoints (Hyper j)) X
+--           ((Nat.card K)^2) (pow_pos (Nat.card_pos (α:=K)) _) →
+--         t=(Real.exp (2*σ+g))^(4/3:ℝ)/Real.exp σ*Real.exp (-(g+σ/2)/5) →
+--         S=peelSet (P η σ D R/10000<g+σ/2) F hF (fun j=>flatPoints (Flat j)) XH ⌈t⌉₊ (Nat.ceil_pos.mpr ht0) →
+--         Real.exp (2*σ+g)/4≤S.card →
+--         (∀x,ownCell F hF (fun j=>flatPoints (Flat j)) XH
+--           (peelLength (P η σ D R/10000<g+σ/2) F hF (fun j=>flatPoints (Flat j)) XH ⌈t⌉₊ (Nat.ceil_pos.mpr ht0)) x⊆O x) →
+--         (∀l∈Lines,finrank K l=2) →
+--         let O' := fun x=>S∩O x
+--         let rad := radialExceptions S O' (pointStrength S) Lines Q q X.card (P η σ D R/200)
+--         let pair := hyperplanePeelExceptions H hH Hyper X XH S Planes
+--           (peelLength (P η σ D R/10000<g) H hH (fun j=>flatPoints (Hyper j)) X ((Nat.card K)^2) (pow_pos (Nat.card_pos (α:=K)) _))
+--           (pointStrength S) (P η σ D R/200) Q
+--         ((rad∪pair).card:ℝ)≤(S.card:ℝ)*Real.exp (-L η σ D/1000)/2
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.SharpRamseyFive.ProjectiveIncidence.RadialLine` (definitions bundle `OAIQ060R000` of this split); `OAI.SharpRamseyFive.GreedyTraining.ownCell`, `OAI.SharpRamseyFive.GreedyTraining.peelLength`, `OAI.SharpRamseyFive.GreedyTraining.peelSet`, `OAI.SharpRamseyFive.ParameterHierarchy.L`, `OAI.SharpRamseyFive.ParameterHierarchy.P`, `OAI.SharpRamseyFive.ParameterHierarchy.Range`, `OAI.SharpRamseyFive.ProjectiveTraining.flatPoints`, `OAI.SharpRamseyFive.ScoreGeometry.hyperplanePeelExceptions`, `OAI.SharpRamseyFive.ScoreGeometry.pointStrength` and `OAI.SharpRamseyFive.ScoreGeometry.radialExceptions` (definitions bundle `OAIQ060R001` of this split).
+--
+--   **Used by.** The proofs of `OAI_SharpRamseyFive_ScoreGeometry_eventually_four_high_score_integrals` and `OAI.SharpRamseyFive.ScoreGeometry.eventually_four_high_training_score` of this split import it.
+-- source:
+--   OpenAI, Sharp logarithmic exponents for fixed off-diagonal Ramsey numbers (result family 170), OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 170; paper: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Sharp-Logarithmic-Exponents-for-Fixed-Off-Diagonal-Ramsey-Numbers-September-24-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Combinatorics/RamseyFive/Geometry/HighPeelExceptions.lean (declaration OAI.SharpRamseyFive.ScoreGeometry.eventually_high_peel_exceptions)
+
+import Mathlib
+import Definitions.Def_OAIQ060R000
+import Definitions.Def_OAIQ060R001
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace SharpRamseyFive.ScoreGeometry
+
+section
+open Module ProjectiveIncidence ProjectiveTraining GreedyTraining GlobalRadial
+open Filter ParameterHierarchy
+open scoped BigOperators LinearAlgebra.Projectivization Classical NNReal Topology
+
+theorem eventually_high_peel_exceptions {η : ℝ} (hη : 0<η) (hη' : η<1/10) :
+    ∀ᶠ σ : ℝ in atTop,∀ (D : ℝ) (R : ℕ),Range η σ D R →
+    ∀ (q : ℕ) (K I J : Type) [Field K] [Finite K] [CharP K q] [Fintype I] [LinearOrder J]
+      [∀x : ℙ K (I→K),Fintype (RadialLine x)],
+    ∀ (g : ℝ) (F : Finset J) (hF : F.Nonempty) (Flat : J→Submodule K (I→K))
+      (H : Finset J) (hH : H.Nonempty) (Hyper : J→Submodule K (I→K))
+      (X XH S : Finset (ℙ K (I→K))) (t : ℝ) (ht0 : 0<t)
+      (O : ℙ K (I→K)→Finset (ℙ K (I→K)))
+      (Lines Planes : Finset (Submodule K (I→K))) (Q : Finset (ℙ K (I→K))),
+      2<q → Nat.card K=q → Real.exp σ=q → Fintype.card I=5 →
+      P η σ D R/10000<g → g≤σ →
+      (∀j∈F,finrank K (Flat j)=3) →
+      (∀U : Submodule K (I→K),finrank K U=3 → ∃j∈F,Flat j=U) →
+      (∀j∈H,finrank K (Hyper j)=4) →
+      (∀U : Submodule K (I→K),finrank K U=4 → ∃j∈H,Hyper j=U) →
+      (∀A∈Planes,finrank K A=3) →
+      (X.card:ℝ)=Real.exp (2*σ+g) → (X.card:ℝ)≤10*Real.exp (5*σ/2) →
+      XH=peelSet (P η σ D R/10000<g) H hH (fun j=>flatPoints (Hyper j)) X
+        ((Nat.card K)^2) (pow_pos (Nat.card_pos (α:=K)) _) →
+      t=(Real.exp (2*σ+g))^(4/3:ℝ)/Real.exp σ*Real.exp (-(g+σ/2)/5) →
+      S=peelSet (P η σ D R/10000<g+σ/2) F hF (fun j=>flatPoints (Flat j)) XH ⌈t⌉₊ (Nat.ceil_pos.mpr ht0) →
+      Real.exp (2*σ+g)/4≤S.card →
+      (∀x,ownCell F hF (fun j=>flatPoints (Flat j)) XH
+        (peelLength (P η σ D R/10000<g+σ/2) F hF (fun j=>flatPoints (Flat j)) XH ⌈t⌉₊ (Nat.ceil_pos.mpr ht0)) x⊆O x) →
+      (∀l∈Lines,finrank K l=2) →
+      let O' := fun x=>S∩O x
+      let rad := radialExceptions S O' (pointStrength S) Lines Q q X.card (P η σ D R/200)
+      let pair := hyperplanePeelExceptions H hH Hyper X XH S Planes
+        (peelLength (P η σ D R/10000<g) H hH (fun j=>flatPoints (Hyper j)) X ((Nat.card K)^2) (pow_pos (Nat.card_pos (α:=K)) _))
+        (pointStrength S) (P η σ D R/200) Q
+      ((rad∪pair).card:ℝ)≤(S.card:ℝ)*Real.exp (-L η σ D/1000)/2 := by
+  sorry
+end
+
+open Module ProjectiveIncidence ProjectiveTraining GreedyTraining GlobalRadial
+open scoped BigOperators LinearAlgebra.Projectivization Classical NNReal
+end SharpRamseyFive.ScoreGeometry
+
+end OAI
+end

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_safe_affine_scale_iff
 -- name    : Erdos195.safe_affine_scale_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T12:41:07.141579+00:00
 -- url     : https://prove2.me/theorems/1dde3004-ff98-4f1d-90e9-5b7a78144fe0
 -- title:

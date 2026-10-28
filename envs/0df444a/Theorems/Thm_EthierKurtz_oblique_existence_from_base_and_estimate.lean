@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_existence_from_base_and_estimate
 -- name    : EthierKurtz.oblique_existence_from_base_and_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-10-07T18:37:30.531134+00:00
 -- url     : https://prove2.me/theorems/211c1a39-9bd7-4af0-8833-6ae6fdcf3b74

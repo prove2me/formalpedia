@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_monic_reduction
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.monic_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:53:21.485372+00:00
 -- url     : https://prove2.me/theorems/e623d0db-352a-4cad-be6b-106a844a9747

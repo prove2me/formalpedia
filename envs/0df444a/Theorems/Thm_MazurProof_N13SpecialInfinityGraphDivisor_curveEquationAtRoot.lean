@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13SpecialInfinityGraphDivisor_curveEquationAtRoot
 -- name    : MazurProof.N13SpecialInfinityGraphDivisor.curveEquationAtRoot
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T08:21:20.742572+00:00
 -- url     : https://prove2.me/theorems/5030e254-f425-4987-9c11-2d999c1b30d1

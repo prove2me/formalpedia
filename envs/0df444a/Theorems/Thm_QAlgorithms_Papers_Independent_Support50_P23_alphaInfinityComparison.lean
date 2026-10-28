@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_alphaInfinityComparison
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.alphaInfinityComparison
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:08:14.80837+00:00
 -- url     : https://prove2.me/theorems/7c999a9d-13d9-46eb-a0f5-b9df5271a55c

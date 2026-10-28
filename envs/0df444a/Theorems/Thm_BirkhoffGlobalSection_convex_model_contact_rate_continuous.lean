@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirkhoffGlobalSection_convex_model_contact_rate_continuous
 -- name    : BirkhoffGlobalSection.convex_model_contact_rate_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-03T23:17:13.544967+00:00
 -- url     : https://prove2.me/theorems/b0510c14-ad54-4242-a02a-5b2eed7d49a7

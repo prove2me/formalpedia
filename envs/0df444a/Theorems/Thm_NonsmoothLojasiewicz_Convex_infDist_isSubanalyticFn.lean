@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Convex_infDist_isSubanalyticFn
 -- name    : NonsmoothLojasiewicz.Convex.infDist_isSubanalyticFn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T18:50:51.161602+00:00
 -- url     : https://prove2.me/theorems/cddf89e7-49fd-4d65-a9cc-120e75b49cb0

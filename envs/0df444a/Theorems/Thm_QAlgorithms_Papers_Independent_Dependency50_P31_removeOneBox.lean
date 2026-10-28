@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P31_removeOneBox
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P31.removeOneBox
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:36:01.55413+00:00
 -- url     : https://prove2.me/theorems/ee0133e7-88e3-4fff-930e-d4f07b73c8c6

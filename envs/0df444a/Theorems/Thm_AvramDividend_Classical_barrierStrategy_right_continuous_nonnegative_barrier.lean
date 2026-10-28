@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierStrategy_right_continuous_nonnegative_barrier
 -- name    : AvramDividend.Classical.barrierStrategy_right_continuous_nonnegative_barrier
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-07T06:13:25.13118+00:00
 -- url     : https://prove2.me/theorems/11865c2a-6684-4cb0-bfaf-417066bf31b5

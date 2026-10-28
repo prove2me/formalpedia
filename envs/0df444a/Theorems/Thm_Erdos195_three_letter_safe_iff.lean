@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_three_letter_safe_iff
 -- name    : Erdos195.three_letter_safe_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:56:45.047954+00:00
 -- url     : https://prove2.me/theorems/901d43b9-9b8a-4019-8f5c-f7d7aed299b1
 -- title:

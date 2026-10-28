@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for zeta_ne_zero_of_strip_of_hundred_lt_im
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T11:42:55.537805+00:00
 -- url     : https://prove2.me/submissions/4ed61d3b-6a77-4716-b7da-474e29b56a2f
 -- note    : a sketch -- it imports a theorem that is still Open,

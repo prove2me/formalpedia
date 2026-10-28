@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemilinearHJ_Verification_observation_4_1
 -- name    : SemilinearHJ.Verification.observation_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:59.450154+00:00
 -- url     : https://prove2.me/theorems/047b36db-965c-4303-b2b1-f9080d5d61bc

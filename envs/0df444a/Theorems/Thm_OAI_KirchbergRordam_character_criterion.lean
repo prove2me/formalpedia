@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KirchbergRordam_character_criterion
 -- name    : OAI.KirchbergRordam.character_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:51.69307+00:00
 -- url     : https://prove2.me/theorems/33f0d9e9-3a44-4567-b9fa-80118317431f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P26_fixed_law_regions_differ
 -- name    : QAlgorithms.Papers.Independent.Support50.P26.fixed_law_regions_differ
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:05:01.090923+00:00
 -- url     : https://prove2.me/theorems/72a9e754-2352-4d42-b54a-90bb8955fdf7

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.rational_degree_initial_components_to_integer_degree
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:12:12.708989+00:00
 -- url     : https://prove2.me/submissions/0b8b31e2-85b6-4d9e-95e0-f3cb211fc378
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Complex.Basic
 import Mathlib.Data.Real.Basic

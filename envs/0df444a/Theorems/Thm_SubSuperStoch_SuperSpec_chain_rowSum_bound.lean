@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubSuperStoch_SuperSpec_chain_rowSum_bound
 -- name    : SubSuperStoch.SuperSpec.chain_rowSum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:26:13.228497+00:00
 -- url     : https://prove2.me/theorems/9a6faa3f-7c06-4dd9-a637-f192f764fe41

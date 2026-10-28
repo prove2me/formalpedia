@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_npComplete_of_polyReducible
 -- name    : CookPvsNP.npComplete_of_polyReducible
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T13:53:08.611195+00:00
 -- url     : https://prove2.me/theorems/c9ac956b-1655-417b-bd21-8eeb85effb5e

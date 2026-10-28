@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_IID_step_2_seller
 -- name    : RobustSPA.IID.step_2_seller
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:08.70031+00:00
 -- url     : https://prove2.me/theorems/1bf50f10-f204-4f01-9bab-575937463da2

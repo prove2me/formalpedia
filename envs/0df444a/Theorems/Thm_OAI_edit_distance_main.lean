@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_edit_distance_main
 -- name    : OAI.edit_distance_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:40.945099+00:00
 -- url     : https://prove2.me/theorems/73558d1a-3242-41e1-a927-41f21a85de82

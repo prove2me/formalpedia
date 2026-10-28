@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformDRO_LowerBound_kl_display
 -- name    : UniformDRO.LowerBound.kl_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:06:53.252973+00:00
 -- url     : https://prove2.me/theorems/87b7fbb6-e48c-4ee7-bdca-46e956cc0287

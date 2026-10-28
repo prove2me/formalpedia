@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAGFiniteSum_Rate_theorem_1
 -- name    : SAGFiniteSum.Rate.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:18:12.036979+00:00
 -- url     : https://prove2.me/theorems/c5a3ca52-20a4-468b-93d6-df9c67fb47e3

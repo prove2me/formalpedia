@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragLOB_Collapse_proof_thm1_flow_balance
 -- name    : FragLOB.Collapse.proof_thm1_flow_balance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:46.053363+00:00
 -- url     : https://prove2.me/theorems/27cd3576-8f1b-4e45-b34c-cdd546d722f4

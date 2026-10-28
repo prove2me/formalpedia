@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SetOptLattice_Existence_proposition_4_1
 -- name    : SetOptLattice.Existence.proposition_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:41.4958+00:00
 -- url     : https://prove2.me/theorems/7f9e336d-bbdb-41c6-b8c6-23c5bb6c75d8

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QCircMITM.Search.terminates_at_least_depth
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:41:59.687954+00:00
 -- url     : https://prove2.me/submissions/65fb89eb-9b94-4328-9723-4a9293524294
 

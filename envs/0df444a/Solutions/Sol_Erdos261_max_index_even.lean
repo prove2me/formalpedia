@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.max_index_even
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:05.303183+00:00
 -- url     : https://prove2.me/submissions/7b164238-223a-4d60-bdc6-f95435ce31da
 

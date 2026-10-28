@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_MigrationDynamics_open_migration_time_reversal
 -- name    : KellyStochasticNetworks.MigrationDynamics.open_migration_time_reversal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:47:23.767916+00:00
 -- url     : https://prove2.me/theorems/dc6cb4fc-ed27-4bb6-ad6c-a1227f65af61

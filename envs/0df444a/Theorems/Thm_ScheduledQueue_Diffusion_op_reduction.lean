@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Diffusion_op_reduction
 -- name    : ScheduledQueue.Diffusion.op_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:03.971+00:00
 -- url     : https://prove2.me/theorems/260c079f-cd2a-4818-809f-74832398b1cc

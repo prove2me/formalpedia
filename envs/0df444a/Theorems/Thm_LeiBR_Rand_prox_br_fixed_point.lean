@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Rand_prox_br_fixed_point
 -- name    : LeiBR.Rand.prox_br_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:49.802085+00:00
 -- url     : https://prove2.me/theorems/b4678c2c-ea69-4c50-8508-347ae4cd1374

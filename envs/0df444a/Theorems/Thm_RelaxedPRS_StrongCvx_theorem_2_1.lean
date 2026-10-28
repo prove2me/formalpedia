@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedPRS_StrongCvx_theorem_2_1
 -- name    : RelaxedPRS.StrongCvx.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:11:38.081859+00:00
 -- url     : https://prove2.me/theorems/e54fb362-2a21-4672-a377-efdc6ec38007

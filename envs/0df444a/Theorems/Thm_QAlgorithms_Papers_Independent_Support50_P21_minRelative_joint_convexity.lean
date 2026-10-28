@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_minRelative_joint_convexity
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.minRelative_joint_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:44:29.351323+00:00
 -- url     : https://prove2.me/theorems/9e23d18c-72ff-4041-aca3-27df2e25a470

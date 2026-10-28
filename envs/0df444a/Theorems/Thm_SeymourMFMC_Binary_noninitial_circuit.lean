@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeymourMFMC_Binary_noninitial_circuit
 -- name    : SeymourMFMC.Binary.noninitial_circuit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T04:56:06.424863+00:00
 -- url     : https://prove2.me/theorems/cadad3c0-dce2-4f0c-9f5b-6496bdc477aa

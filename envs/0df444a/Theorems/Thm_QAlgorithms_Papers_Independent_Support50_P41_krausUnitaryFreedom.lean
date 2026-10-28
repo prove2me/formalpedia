@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_krausUnitaryFreedom
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.krausUnitaryFreedom
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:37:45.065882+00:00
 -- url     : https://prove2.me/theorems/5b633429-67b2-460e-aae4-5bb59a71d565

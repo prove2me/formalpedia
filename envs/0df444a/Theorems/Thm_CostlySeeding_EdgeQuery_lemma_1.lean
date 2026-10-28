@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlySeeding_EdgeQuery_lemma_1
 -- name    : CostlySeeding.EdgeQuery.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:26:20.36098+00:00
 -- url     : https://prove2.me/theorems/62fad8f7-151b-467c-85c1-486ca1bf79f6

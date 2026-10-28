@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P39_bennettDiscarding
 -- name    : QAlgorithms.Papers.Independent.Support50.P39.bennettDiscarding
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:00:23.889711+00:00
 -- url     : https://prove2.me/theorems/9a994e6d-3afe-4789-80de-68e96012f8bc

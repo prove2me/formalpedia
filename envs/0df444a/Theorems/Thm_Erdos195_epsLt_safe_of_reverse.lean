@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_epsLt_safe_of_reverse
 -- name    : Erdos195.epsLt_safe_of_reverse
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:51:13.428402+00:00
 -- url     : https://prove2.me/theorems/95bb0d70-e5b7-405b-a5fb-c52fb3ac306a
 -- title:

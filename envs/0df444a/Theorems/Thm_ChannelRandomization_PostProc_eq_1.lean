@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRandomization_PostProc_eq_1
 -- name    : ChannelRandomization.PostProc.eq_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:28:29.799556+00:00
 -- url     : https://prove2.me/theorems/c06876bd-ab31-42a3-a5ed-1345f385010e

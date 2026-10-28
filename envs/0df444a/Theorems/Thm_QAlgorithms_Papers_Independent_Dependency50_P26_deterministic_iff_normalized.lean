@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P26_deterministic_iff_normalized
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P26.deterministic_iff_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:34:51.030212+00:00
 -- url     : https://prove2.me/theorems/2a3423b5-54cd-4fd5-8eeb-e4a772be61b0

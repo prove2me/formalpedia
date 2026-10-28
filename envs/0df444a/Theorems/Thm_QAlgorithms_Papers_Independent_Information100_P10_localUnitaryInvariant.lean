@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P10_localUnitaryInvariant
 -- name    : QAlgorithms.Papers.Independent.Information100.P10.localUnitaryInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:38:15.305988+00:00
 -- url     : https://prove2.me/theorems/dd3968cf-9ec6-4c5f-b2a7-5e72ed84d0d7

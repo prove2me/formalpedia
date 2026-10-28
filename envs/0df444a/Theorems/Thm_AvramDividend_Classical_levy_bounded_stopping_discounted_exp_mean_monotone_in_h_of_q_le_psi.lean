@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_AvramDividend_Classical_levy_bounded_stopping_discounted_exp_mean_monotone_in_h_of_q_le_psi
+-- name    : AvramDividend.Classical.levy_bounded_stopping_discounted_exp_mean_monotone_in_h_of_q_le_psi
+-- status  : Proved
+-- author  : @WillR
+-- created : 2026-10-24T10:11:34.227738+00:00
+-- url     : https://prove2.me/theorems/de57ae4c-316c-4034-b6d2-16772b1a8b63
+-- title:
+--   Expected discounted Lévy increments increase with horizon above cumulant
+-- statement:
+--   For a discount at or below the Lévy cumulant, the expected discounted future exponential increases with the deterministic horizon.
+-- source:
+--   Both means equal exp(h(ψ(θ)−q)); their comparison follows from the sign of ψ(θ)−q and the ordering of the horizons.
+
+import Mathlib.Analysis.Complex.Exponential
+import Mathlib.Data.NNReal.Defs
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Theorems.Thm_AvramDividend_Classical_levy_bounded_stopping_discounted_increment_laplace
+open MeasureTheory AvramDividend.Classical
+open scoped NNReal
+
+theorem AvramDividend.Classical.levy_bounded_stopping_discounted_exp_mean_monotone_in_h_of_q_le_psi
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕)
+    (τ : Ω → ℝ≥0)
+    (hτ : IsStoppingTime 𝓕 (fun ω => (τ ω : WithTop ℝ≥0)))
+    (T : ℝ≥0) (hbounded : ∀ ω, τ ω ≤ T)
+    (h₁ h₂ : ℝ≥0) (θ q : ℝ) (hθ : 0 ≤ θ) (hle : h₁ ≤ h₂) (hψ : q ≤ X.ψ θ) :
+    (∫ ω, Real.exp (-(q * (h₁ : ℝ))) *
+        Real.exp (θ * (X.X (τ ω + h₁) ω - X.X (τ ω) ω)) ∂P) ≤
+      ∫ ω, Real.exp (-(q * (h₂ : ℝ))) *
+        Real.exp (θ * (X.X (τ ω + h₂) ω - X.X (τ ω) ω)) ∂P := by sorry

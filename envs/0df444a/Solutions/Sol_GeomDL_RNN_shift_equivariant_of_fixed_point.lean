@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.RNN.shift_equivariant_of_fixed_point
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:01:26.615164+00:00
 -- url     : https://prove2.me/submissions/321bca4c-9411-4252-a057-3181c94be0f9
 

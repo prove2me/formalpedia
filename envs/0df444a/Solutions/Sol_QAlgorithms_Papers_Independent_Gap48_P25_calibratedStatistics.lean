@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.calibratedStatistics
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:22:10.67985+00:00
 -- url     : https://prove2.me/submissions/ddfca8ac-3997-4b51-b085-16e58ab7c750
 

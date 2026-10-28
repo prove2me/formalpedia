@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PlanarFPP_manuscriptMain
 -- name    : OAI.PlanarFPP.manuscriptMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:04.195189+00:00
 -- url     : https://prove2.me/theorems/64da51ab-4dde-4e1a-8fac-f879b5802cc4

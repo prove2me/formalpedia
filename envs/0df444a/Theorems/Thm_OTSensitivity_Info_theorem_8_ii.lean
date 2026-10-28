@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTSensitivity_Info_theorem_8_ii
 -- name    : OTSensitivity.Info.theorem_8_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:56.972183+00:00
 -- url     : https://prove2.me/theorems/e78b3b8e-5bc6-4431-8732-6793999fbc61

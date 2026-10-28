@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LatticeHamSim_CommLR_eq_28
 -- name    : LatticeHamSim.CommLR.eq_28
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:03:53.052284+00:00
 -- url     : https://prove2.me/theorems/889c1973-4034-4ee7-8d87-04cfc1c926e7

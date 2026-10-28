@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatroidProphet_Assigned_hidden_vector
 -- name    : OAI.MatroidProphet.Assigned.hidden_vector
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:55.753492+00:00
 -- url     : https://prove2.me/theorems/4c254661-58e4-4079-978c-35c169b34bfb

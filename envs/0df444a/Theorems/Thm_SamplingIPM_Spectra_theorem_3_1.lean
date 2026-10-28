@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamplingIPM_Spectra_theorem_3_1
 -- name    : SamplingIPM.Spectra.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:22:51.951137+00:00
 -- url     : https://prove2.me/theorems/875cce53-c48f-4a2b-91bb-56bf0dece513

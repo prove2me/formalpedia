@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirkhoffGlobalSection_smooth_weighted_sphere_contact
 -- name    : BirkhoffGlobalSection.smooth_weighted_sphere_contact
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-03T23:02:46.01295+00:00
 -- url     : https://prove2.me/theorems/6d23d4ee-c117-4b60-82ff-bdb365356900

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_restart_reduction
 -- name    : Erdos261.restart_reduction
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:09.790977+00:00
 -- url     : https://prove2.me/theorems/ea54e3a8-7816-47c7-95a1-0d809be74211
 -- title:

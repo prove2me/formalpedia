@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_theorem_1
 -- name    : ScheduledQueue.Stability.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:16.486857+00:00
 -- url     : https://prove2.me/theorems/2f77c49c-4777-4a80-9dec-11e62cf1b1a0

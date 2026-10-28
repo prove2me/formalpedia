@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StickyKakeya4_compact_full_direction_borel_selector
 -- name    : StickyKakeya4.compact_full_direction_borel_selector
--- status  : Open
+-- status  : Proved
 -- author  : @sensei
 -- created : 2026-09-27T12:48:07.773817+00:00
 -- url     : https://prove2.me/theorems/00b183ee-23c3-4a54-8e73-3da4afb5d0d3

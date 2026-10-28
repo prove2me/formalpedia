@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_path_sink_compatible
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T23:11:34.591066+00:00
 -- url     : https://prove2.me/submissions/f35fba5b-d1dc-4695-b197-63120972ca51
 

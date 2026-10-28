@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_lemmaB1_nested
 -- name    : MultiStoreAssort.SQR.lemmaB1_nested
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:08.579521+00:00
 -- url     : https://prove2.me/theorems/d9140128-daae-4097-8660-4e1b28f6527b

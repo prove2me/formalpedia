@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_information_merging
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.information_merging
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:59:38.187158+00:00
 -- url     : https://prove2.me/theorems/ee8cbd53-675c-4429-bf87-133e4c0eaa08

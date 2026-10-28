@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReentrantScheduling_LBFS_eq10_remaining_delay
 -- name    : ReentrantScheduling.LBFS.eq10_remaining_delay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:32:08.310174+00:00
 -- url     : https://prove2.me/theorems/7d1e92a9-9020-4679-b975-6f3d548a94d1

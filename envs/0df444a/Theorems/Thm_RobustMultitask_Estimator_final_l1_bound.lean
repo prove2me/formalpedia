@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMultitask_Estimator_final_l1_bound
 -- name    : RobustMultitask.Estimator.final_l1_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:33:50.573358+00:00
 -- url     : https://prove2.me/theorems/9c81b1ad-8874-4afe-819c-83cee0c2a6e9

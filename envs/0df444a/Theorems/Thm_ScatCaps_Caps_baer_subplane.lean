@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScatCaps_Caps_baer_subplane
 -- name    : ScatCaps.Caps.baer_subplane
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:05:14.875308+00:00
 -- url     : https://prove2.me/theorems/ff74bc0d-23af-4407-96da-36a819537c44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashVecOpt_SharedConstraint_cone_decomposition
 -- name    : NashVecOpt.SharedConstraint.cone_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:06:03.268829+00:00
 -- url     : https://prove2.me/theorems/17e91228-8ba6-405e-a730-794667bf727a

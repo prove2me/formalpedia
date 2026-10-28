@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SphereSOS_DPS_eq_39
 -- name    : SphereSOS.DPS.eq_39
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:18:41.75427+00:00
 -- url     : https://prove2.me/theorems/b5a4938a-233f-4fa7-93c9-693722ad0e4e

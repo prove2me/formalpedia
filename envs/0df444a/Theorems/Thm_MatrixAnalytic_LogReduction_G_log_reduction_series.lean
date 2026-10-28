@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_LogReduction_G_log_reduction_series
 -- name    : MatrixAnalytic.LogReduction.G_log_reduction_series
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:46:09.172774+00:00
 -- url     : https://prove2.me/theorems/e7652fbb-3b21-4dfb-acf0-eb948ead7cb3

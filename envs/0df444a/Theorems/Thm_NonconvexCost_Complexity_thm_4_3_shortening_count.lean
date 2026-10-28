@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexCost_Complexity_thm_4_3_shortening_count
 -- name    : NonconvexCost.Complexity.thm_4_3_shortening_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:09:50.091919+00:00
 -- url     : https://prove2.me/theorems/58fc741d-839e-47ed-941a-a0424ea7a646

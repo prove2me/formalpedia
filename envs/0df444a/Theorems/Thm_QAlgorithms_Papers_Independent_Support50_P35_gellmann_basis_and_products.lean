@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_gellmann_basis_and_products
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.gellmann_basis_and_products
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:40:34.833992+00:00
 -- url     : https://prove2.me/theorems/90d961a2-147b-40e9-ac65-abe321c30b33

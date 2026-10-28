@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.second_step_failure_levels
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:41:31.382988+00:00
 -- url     : https://prove2.me/submissions/35d5448a-11d3-4e84-91e1-326931e550b8
 

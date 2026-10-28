@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_rowChoice_nonempty
 -- name    : OAI.PiExponent.DeterminantContradiction.rowChoice_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:10:26.238861+00:00
 -- url     : https://prove2.me/theorems/b7d1f9e1-7ad3-478f-a8d0-1a00d6a7afed

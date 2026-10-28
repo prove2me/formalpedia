@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothAmbEq_Gaussian_lemma_C_2
 -- name    : SmoothAmbEq.Gaussian.lemma_C_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:31.752224+00:00
 -- url     : https://prove2.me/theorems/ce4584f1-167a-41b8-bce1-227eeaf2d0a9

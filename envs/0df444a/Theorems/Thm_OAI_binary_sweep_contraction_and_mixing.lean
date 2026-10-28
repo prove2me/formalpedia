@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_binary_sweep_contraction_and_mixing
 -- name    : OAI.binary_sweep_contraction_and_mixing
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:40.663126+00:00
 -- url     : https://prove2.me/theorems/eb14e641-577b-4f56-8600-e221e9cab90a

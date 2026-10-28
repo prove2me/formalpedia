@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_operatorSumRepresentation
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.operatorSumRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:13:32.49972+00:00
 -- url     : https://prove2.me/theorems/b160b862-4df3-4782-89e2-8378b65e2e99

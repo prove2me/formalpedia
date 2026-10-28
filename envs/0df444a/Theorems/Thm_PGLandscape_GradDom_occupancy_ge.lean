@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PGLandscape_GradDom_occupancy_ge
 -- name    : PGLandscape.GradDom.occupancy_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:27:55.95882+00:00
 -- url     : https://prove2.me/theorems/2f99836d-63e9-4510-971d-dbb2321cc3dd

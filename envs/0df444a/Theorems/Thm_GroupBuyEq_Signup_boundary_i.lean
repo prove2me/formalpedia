@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupBuyEq_Signup_boundary_i
 -- name    : GroupBuyEq.Signup.boundary_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:27.281546+00:00
 -- url     : https://prove2.me/theorems/217d58fa-758d-41fb-bc3e-3ecf91413991

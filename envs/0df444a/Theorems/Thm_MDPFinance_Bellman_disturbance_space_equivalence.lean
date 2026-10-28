@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Bellman_disturbance_space_equivalence
 -- name    : MDPFinance.Bellman.disturbance_space_equivalence
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:11:23.067982+00:00
 -- url     : https://prove2.me/theorems/f896d34a-01d2-4cf5-8e27-c4a0d43ffaa8

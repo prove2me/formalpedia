@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_excursion_laplace_reciprocal_lower_bound_tendsto
 -- name    : AvramDividend.Classical.excursion_laplace_reciprocal_lower_bound_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:43:39.868394+00:00
 -- url     : https://prove2.me/theorems/8b7f5d5e-7ac8-4935-9e87-19cc0d8e8a56

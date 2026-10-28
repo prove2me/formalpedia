@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_exact_synthesis_iff
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.exact_synthesis_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:17:20.542988+00:00
 -- url     : https://prove2.me/theorems/cd79162e-955c-4561-b306-58067c402f6b

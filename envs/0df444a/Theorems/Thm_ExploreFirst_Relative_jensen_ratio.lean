@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Relative_jensen_ratio
 -- name    : ExploreFirst.Relative.jensen_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:12:49.738823+00:00
 -- url     : https://prove2.me/theorems/e742040e-789f-4654-ac6a-1c8afbee36bd

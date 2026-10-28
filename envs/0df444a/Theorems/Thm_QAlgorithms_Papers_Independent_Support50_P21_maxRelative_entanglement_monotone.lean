@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_maxRelative_entanglement_monotone
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.maxRelative_entanglement_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:38:07.087539+00:00
 -- url     : https://prove2.me/theorems/bfcdb1f0-0db0-4496-a6be-95cb24fd615e

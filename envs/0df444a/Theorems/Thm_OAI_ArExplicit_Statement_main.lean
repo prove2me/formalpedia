@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ArExplicit_Statement_main
 -- name    : OAI.ArExplicit.Statement.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:21.062172+00:00
 -- url     : https://prove2.me/theorems/69a49c38-d066-49ee-8a2a-7c185c4481ac

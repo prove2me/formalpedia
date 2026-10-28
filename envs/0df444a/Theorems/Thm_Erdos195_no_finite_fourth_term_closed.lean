@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_no_finite_fourth_term_closed
 -- name    : Erdos195.no_finite_fourth_term_closed
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:13:48.488612+00:00
 -- url     : https://prove2.me/theorems/393af633-4f2a-47fc-8302-0ab582a0c34a
 -- title:

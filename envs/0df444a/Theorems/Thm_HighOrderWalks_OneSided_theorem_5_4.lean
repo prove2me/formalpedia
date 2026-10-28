@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighOrderWalks_OneSided_theorem_5_4
 -- name    : HighOrderWalks.OneSided.theorem_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:42:27.845562+00:00
 -- url     : https://prove2.me/theorems/4252a40e-88e5-4b14-84d3-10ffd48dd74d

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for DissipativePrep.Unique.theorem_1
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:46:50.552763+00:00
 -- url     : https://prove2.me/submissions/91f4e2ce-5c77-4ed5-bde4-19073f5c6f12
 

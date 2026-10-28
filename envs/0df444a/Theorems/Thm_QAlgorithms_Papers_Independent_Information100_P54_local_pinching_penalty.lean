@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P54_local_pinching_penalty
 -- name    : QAlgorithms.Papers.Independent.Information100.P54.local_pinching_penalty
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:07:58.526031+00:00
 -- url     : https://prove2.me/theorems/f9639de3-3d63-425b-b126-297bb4697eb0

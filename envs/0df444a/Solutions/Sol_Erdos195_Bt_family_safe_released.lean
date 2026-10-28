@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.Bt_family_safe_released
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T11:09:14.318548+00:00
 -- url     : https://prove2.me/submissions/67e34d2f-dc45-4897-adc9-0d828182b400
 

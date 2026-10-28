@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetCournot_Equilibrium_H_least_feasible_B17
 -- name    : BudgetCournot.Equilibrium.H_least_feasible_B17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:56.974008+00:00
 -- url     : https://prove2.me/theorems/29e0fdb7-5598-4c5e-908d-3810e0ec254f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecisionForest_Universal_depth_le_and_finite
 -- name    : DecisionForest.Universal.depth_le_and_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:31.515264+00:00
 -- url     : https://prove2.me/theorems/bb81231d-45c0-499b-8c93-356dedadffa8

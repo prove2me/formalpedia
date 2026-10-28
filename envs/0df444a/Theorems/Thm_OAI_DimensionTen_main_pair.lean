@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DimensionTen_main_pair
 -- name    : OAI.DimensionTen.main_pair
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:34.520271+00:00
 -- url     : https://prove2.me/theorems/dc7ff757-fe6e-49d8-98bc-f8ba5b1408bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Taboo_restricted_chain
 -- name    : MatrixAnalytic.Taboo.restricted_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:37.100274+00:00
 -- url     : https://prove2.me/theorems/a6ba4223-6be4-4963-a9aa-6f7cfdb42dd5

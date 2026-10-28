@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_DualGap_alphaStar_norm_le_one
 -- name    : L0BnB.DualGap.alphaStar_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:29:55.323049+00:00
 -- url     : https://prove2.me/theorems/8e62b1cf-c09a-4777-bd5d-e85905bb6ef3

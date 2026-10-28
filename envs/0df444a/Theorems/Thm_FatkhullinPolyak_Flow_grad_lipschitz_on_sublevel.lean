@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatkhullinPolyak_Flow_grad_lipschitz_on_sublevel
 -- name    : FatkhullinPolyak.Flow.grad_lipschitz_on_sublevel
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:45:45.437687+00:00
 -- url     : https://prove2.me/theorems/2407414f-b847-4e86-aeda-0bec5a95fb70

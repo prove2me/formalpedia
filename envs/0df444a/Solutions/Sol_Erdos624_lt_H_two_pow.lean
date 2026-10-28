@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.lt_H_two_pow
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:48.701866+00:00
 -- url     : https://prove2.me/submissions/673cc221-de8f-47b7-8be2-4dc240a27dc6
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DLevelNestedLogit_Assortment_root_local_iff_optimal
 -- name    : DLevelNestedLogit.Assortment.root_local_iff_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T05:01:48.233823+00:00
 -- url     : https://prove2.me/theorems/6349fc5f-733c-4c88-b36e-54f9ed575450

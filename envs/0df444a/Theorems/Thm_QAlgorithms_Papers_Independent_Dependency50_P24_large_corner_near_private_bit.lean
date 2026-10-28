@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_large_corner_near_private_bit
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.large_corner_near_private_bit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:17:33.83489+00:00
 -- url     : https://prove2.me/theorems/a474d1be-ee1d-4fcf-a521-4ae0ec2f0b26

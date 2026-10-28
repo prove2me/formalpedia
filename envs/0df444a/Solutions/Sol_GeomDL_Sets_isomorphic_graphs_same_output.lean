@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Sets.isomorphic_graphs_same_output
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:37:59.440342+00:00
 -- url     : https://prove2.me/submissions/3d5b4d7c-c565-4e26-978b-6e5c6c7ce51e
 

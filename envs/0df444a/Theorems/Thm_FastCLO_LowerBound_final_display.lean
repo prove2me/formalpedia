@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCLO_LowerBound_final_display
 -- name    : FastCLO.LowerBound.final_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:20:26.102405+00:00
 -- url     : https://prove2.me/theorems/4668181c-f046-4213-b56e-425e835a12ac

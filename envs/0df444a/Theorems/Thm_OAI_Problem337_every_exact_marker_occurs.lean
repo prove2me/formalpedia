@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem337_every_exact_marker_occurs
 -- name    : OAI.Problem337.every_exact_marker_occurs
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:09.232397+00:00
 -- url     : https://prove2.me/theorems/05a36d43-649d-4e15-8a28-e345dc8626df

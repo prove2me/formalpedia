@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.singlePhotonModel
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:15:29.793048+00:00
 -- url     : https://prove2.me/submissions/cb369296-eb36-43df-8a37-0aa58c3ffc24
 

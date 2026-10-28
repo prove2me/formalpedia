@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_AllDist_pointwise_regret_le_inv_e
 -- name    : RobustSPA.AllDist.pointwise_regret_le_inv_e
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:39.146193+00:00
 -- url     : https://prove2.me/theorems/3b6d70b3-2dd6-4f88-92ce-84532544b3d8

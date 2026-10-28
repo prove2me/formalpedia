@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_ParetoMax_theorem_11_3
 -- name    : TwoAgentSched.ParetoMax.theorem_11_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:38:28.851539+00:00
 -- url     : https://prove2.me/theorems/0a4b577c-5154-4535-b923-7078b2d3ddc1

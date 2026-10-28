@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelMM_BTMap_lemma_4_2
 -- name    : AccelMM.BTMap.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:34:17.02274+00:00
 -- url     : https://prove2.me/theorems/6713a5d0-7d75-4753-9e07-5449dd266244

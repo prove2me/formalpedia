@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.monoid_compression
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:41.302109+00:00
 -- url     : https://prove2.me/submissions/fead7d37-94da-4384-9e0f-5ebd3a284d02
 

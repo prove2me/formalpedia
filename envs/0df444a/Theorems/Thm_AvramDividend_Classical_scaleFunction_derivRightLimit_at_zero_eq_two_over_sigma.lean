@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_derivRightLimit_at_zero_eq_two_over_sigma
 -- name    : AvramDividend.Classical.scaleFunction_derivRightLimit_at_zero_eq_two_over_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T05:43:54.487987+00:00
 -- url     : https://prove2.me/theorems/62495c30-344f-4493-8c5c-065915fe8ac3

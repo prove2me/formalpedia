@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.contDiff_integral_I01
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:09:42.217085+00:00
 -- url     : https://prove2.me/submissions/04e82e8d-1ae7-4192-973b-c64f676ee2df
 

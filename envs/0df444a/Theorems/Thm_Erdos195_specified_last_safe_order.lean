@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_specified_last_safe_order
 -- name    : Erdos195.specified_last_safe_order
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:22:08.498697+00:00
 -- url     : https://prove2.me/theorems/16637c78-ec7e-4bbc-a379-c1a892636c63
 -- title:

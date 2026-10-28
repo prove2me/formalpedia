@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.no_isolated_max_analogue
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:48.312292+00:00
 -- url     : https://prove2.me/submissions/e5258eb9-677a-4e3c-9444-1fc4d47dce75
 

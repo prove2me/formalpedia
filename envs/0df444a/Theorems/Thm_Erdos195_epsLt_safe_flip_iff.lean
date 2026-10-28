@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_epsLt_safe_flip_iff
 -- name    : Erdos195.epsLt_safe_flip_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:34:57.186833+00:00
 -- url     : https://prove2.me/theorems/a3f5e76f-eae8-4e0a-8325-2e73eea19522
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_global_C1_bv_positive_barrier
 -- name    : AvramDividend.Classical.vcstar_global_C1_bv_positive_barrier
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T23:16:37.213038+00:00
 -- url     : https://prove2.me/theorems/8837ab3a-7d73-4496-8c77-29bfe0c2d749

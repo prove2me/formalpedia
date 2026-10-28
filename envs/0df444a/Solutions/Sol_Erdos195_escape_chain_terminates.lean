@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.escape_chain_terminates
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:19:22.378535+00:00
 -- url     : https://prove2.me/submissions/6091dfca-d3dc-48d0-a9fd-5acace12af24
 

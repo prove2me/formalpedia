@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P33_tightnessNeighborhoodFiniteExceptions
 -- name    : QAlgorithms.Papers.Independent.Support50.P33.tightnessNeighborhoodFiniteExceptions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:33:35.379102+00:00
 -- url     : https://prove2.me/theorems/0f5899e2-1cfc-42b2-a19f-24395fbc4c68

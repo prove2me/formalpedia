@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.rep_iff_int
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:03.091011+00:00
 -- url     : https://prove2.me/submissions/29925173-3181-4e57-b910-275a94a0a7e9
 

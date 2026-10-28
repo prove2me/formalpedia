@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GradSampling_Conv_lemma_3_1
 -- name    : GradSampling.Conv.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:48:30.502584+00:00
 -- url     : https://prove2.me/theorems/e036f048-2b8b-4f3f-bf52-6e3fdac46d9a

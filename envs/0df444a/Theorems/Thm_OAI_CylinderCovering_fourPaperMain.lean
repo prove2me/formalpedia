@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CylinderCovering_fourPaperMain
 -- name    : OAI.CylinderCovering.fourPaperMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:33.722874+00:00
 -- url     : https://prove2.me/theorems/dd75cb14-cec5-4c41-9c49-e7aeeb8949b8

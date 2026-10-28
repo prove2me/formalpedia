@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.adenwalla_fiveAP_free
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:10.010029+00:00
 -- url     : https://prove2.me/submissions/5198b16c-ae08-4709-8db3-8030b1b01c07
 

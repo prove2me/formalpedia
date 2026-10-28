@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P15_proposition_2_3
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P15.proposition_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T09:41:09.245723+00:00
 -- url     : https://prove2.me/theorems/97981944-2ca7-4b7c-af5b-897bf1289a2a

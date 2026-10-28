@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.cxR8_p14NeedG
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:09:48.648034+00:00
 -- url     : https://prove2.me/submissions/d158c967-1f4a-4f76-83c7-b7982bebb901
 

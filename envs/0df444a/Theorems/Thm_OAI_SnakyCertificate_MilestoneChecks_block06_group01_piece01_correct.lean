@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SnakyCertificate_MilestoneChecks_block06_group01_piece01_correct
 -- name    : OAI.SnakyCertificate.MilestoneChecks.block06_group01_piece01_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-09T14:34:33.339187+00:00
 -- url     : https://prove2.me/theorems/56e5fc27-2896-48c1-8c17-ac4a4931fce0

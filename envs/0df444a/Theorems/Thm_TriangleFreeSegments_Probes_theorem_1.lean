@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TriangleFreeSegments_Probes_theorem_1
 -- name    : TriangleFreeSegments.Probes.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:10.077599+00:00
 -- url     : https://prove2.me/theorems/460750e6-2bca-4fb6-8986-5f9c3583eba5

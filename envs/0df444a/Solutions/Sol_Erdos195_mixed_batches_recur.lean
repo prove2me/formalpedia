@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.mixed_batches_recur
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:27:15.28454+00:00
 -- url     : https://prove2.me/submissions/f4151ac2-c249-412e-986e-64575bf5b47e
 

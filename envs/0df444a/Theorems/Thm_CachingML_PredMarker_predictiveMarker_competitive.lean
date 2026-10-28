@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachingML_PredMarker_predictiveMarker_competitive
 -- name    : CachingML.PredMarker.predictiveMarker_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:18:20.515687+00:00
 -- url     : https://prove2.me/theorems/3f23b092-40e7-48ce-a6f4-84d0116a4f2d

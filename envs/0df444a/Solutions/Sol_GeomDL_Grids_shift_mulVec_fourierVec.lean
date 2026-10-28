@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Grids.shift_mulVec_fourierVec
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:50:14.108129+00:00
 -- url     : https://prove2.me/submissions/b02b76cd-1bed-4d9f-a11f-8213f4d0a0eb
 

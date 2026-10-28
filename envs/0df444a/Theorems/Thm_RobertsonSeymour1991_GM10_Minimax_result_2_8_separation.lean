@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobertsonSeymour1991_GM10_Minimax_result_2_8_separation
 -- name    : RobertsonSeymour1991.GM10.Minimax.result_2_8_separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:01:57.387319+00:00
 -- url     : https://prove2.me/theorems/8e644bc7-5be1-4a49-8c28-18f4c785e21e

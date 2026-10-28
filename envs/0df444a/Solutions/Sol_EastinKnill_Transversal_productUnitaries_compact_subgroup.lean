@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for EastinKnill.Transversal.productUnitaries_compact_subgroup
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:58:21.569808+00:00
 -- url     : https://prove2.me/submissions/9d382e1e-32c1-4818-937c-628dc322bc56
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Heisenberg_spontaneous_magnetization
 -- name    : OAI.Heisenberg.spontaneous_magnetization
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:44.318989+00:00
 -- url     : https://prove2.me/theorems/25a716aa-8b6a-4500-acc8-3703bfe70e82

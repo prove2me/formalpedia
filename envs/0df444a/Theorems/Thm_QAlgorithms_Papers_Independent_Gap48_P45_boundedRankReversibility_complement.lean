@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P45_boundedRankReversibility_complement
 -- name    : QAlgorithms.Papers.Independent.Gap48.P45.boundedRankReversibility_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:44:40.58899+00:00
 -- url     : https://prove2.me/theorems/176d3efb-cdf1-47a5-a515-c415ea105976

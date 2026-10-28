@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P11_primal_feasibility_iff
 -- name    : QAlgorithms.Papers.Independent.Support50.P11.primal_feasibility_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:04:10.791949+00:00
 -- url     : https://prove2.me/theorems/13e81b07-5fbb-4039-b951-8d7b0f889d39

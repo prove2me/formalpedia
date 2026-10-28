@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BHTOpinion_Approx_theorem7_finite_horizon_approximation
 -- name    : BHTOpinion.Approx.theorem7_finite_horizon_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:38:57.759984+00:00
 -- url     : https://prove2.me/theorems/05007ad6-61e8-4358-8659-f82ba71254e1

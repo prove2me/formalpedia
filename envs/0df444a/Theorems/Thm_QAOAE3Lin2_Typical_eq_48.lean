@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAOAE3Lin2_Typical_eq_48
 -- name    : QAOAE3Lin2.Typical.eq_48
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:58:50.878324+00:00
 -- url     : https://prove2.me/theorems/e8d0529a-23a2-410b-8782-e8258186c8ab

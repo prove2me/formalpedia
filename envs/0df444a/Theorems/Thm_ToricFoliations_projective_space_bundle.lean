@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToricFoliations_projective_space_bundle
 -- name    : ToricFoliations.projective_space_bundle
--- status  : Open
+-- status  : Disproved
 -- author  : @hiraeth
 -- created : 2026-10-07T12:33:19.096124+00:00
 -- url     : https://prove2.me/theorems/9d708ac0-9e11-4e84-9b9a-810a6bd175d7

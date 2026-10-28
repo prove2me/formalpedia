@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffNeighbors_Bias_taylor_remainder
 -- name    : DiffNeighbors.Bias.taylor_remainder
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:41:22.750278+00:00
 -- url     : https://prove2.me/theorems/fab36078-c09c-4e9d-9fc9-3c899ae2ff94

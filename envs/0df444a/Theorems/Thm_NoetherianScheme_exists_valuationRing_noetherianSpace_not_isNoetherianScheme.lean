@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_exists_valuationRing_noetherianSpace_not_isNoetherianScheme
 -- name    : NoetherianScheme.exists_valuationRing_noetherianSpace_not_isNoetherianScheme
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-10T22:36:46.224619+00:00
 -- url     : https://prove2.me/theorems/2489f22d-a378-4dc9-947a-6d9e9a52b743

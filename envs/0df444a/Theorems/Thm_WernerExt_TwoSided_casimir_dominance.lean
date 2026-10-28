@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WernerExt_TwoSided_casimir_dominance
 -- name    : WernerExt.TwoSided.casimir_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:43:24.682588+00:00
 -- url     : https://prove2.me/theorems/dd9673e6-375e-425d-af03-22c2844fd431

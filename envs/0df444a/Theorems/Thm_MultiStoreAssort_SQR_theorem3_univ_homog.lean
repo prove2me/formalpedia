@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_theorem3_univ_homog
 -- name    : MultiStoreAssort.SQR.theorem3_univ_homog
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:38.83514+00:00
 -- url     : https://prove2.me/theorems/f5a4e7c7-feaf-4bf4-872d-553681a880d2

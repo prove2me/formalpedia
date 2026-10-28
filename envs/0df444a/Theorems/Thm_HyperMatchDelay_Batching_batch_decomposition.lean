@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperMatchDelay_Batching_batch_decomposition
 -- name    : HyperMatchDelay.Batching.batch_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:59.611187+00:00
 -- url     : https://prove2.me/theorems/1cea4998-8d8f-440f-956c-81b1acffbca4

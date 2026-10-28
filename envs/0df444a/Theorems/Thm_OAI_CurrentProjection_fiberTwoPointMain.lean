@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CurrentProjection_fiberTwoPointMain
 -- name    : OAI.CurrentProjection.fiberTwoPointMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:32.978557+00:00
 -- url     : https://prove2.me/theorems/7c3a5d73-2f3a-400a-a58f-39a2c0555b3d

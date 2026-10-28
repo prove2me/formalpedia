@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.residue_extremal_open
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:00.013358+00:00
 -- url     : https://prove2.me/submissions/677424cd-2be7-411f-a676-48dfbbe1dcac
 

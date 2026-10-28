@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_no_isolated_max_analogue
 -- name    : Erdos195.no_isolated_max_analogue
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:29.820259+00:00
 -- url     : https://prove2.me/theorems/7b93ff2b-6adb-4ff7-a116-2cc6cc06ee9b
 -- title:

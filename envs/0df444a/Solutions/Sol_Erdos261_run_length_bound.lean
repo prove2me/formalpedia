@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.run_length_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:25.817752+00:00
 -- url     : https://prove2.me/submissions/aaba0bf0-e9d4-4d9a-acaa-cd4a1f85ad5c
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferencePricing_Myopic_remark2_value_monotone
 -- name    : ReferencePricing.Myopic.remark2_value_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T09:35:04.40042+00:00
 -- url     : https://prove2.me/theorems/5ed526a2-c2f0-4b0d-b973-e1892a329323

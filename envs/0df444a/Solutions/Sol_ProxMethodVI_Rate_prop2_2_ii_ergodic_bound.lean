@@ -1,0 +1,197 @@
+-- Prove2me | solution 1 for ProxMethodVI.Rate.prop2_2_ii_ergodic_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @涼宮 ハルヒ
+-- created : 2026-10-26T10:47:19.210872+00:00
+-- url     : https://prove2.me/submissions/c92229fc-2ea2-408b-a3c8-f19f2fc2c83b
+
+import Mathlib.Algebra.BigOperators.Intervals
+import Mathlib.Topology.Order.Compact
+import Definitions.Def_ProxMethodVI_Rate_Setting
+import Mathlib.Analysis.Calculus.Deriv.MeanValue
+import Mathlib.Analysis.Calculus.Deriv.Pow
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.Ring
+
+set_option autoImplicit false
+open ProxMethodVI.Rate
+
+private theorem dgf_bound {E : Type*} [NormedAddCommGroup E] [NormedSpace ℝ E]
+    (Z : Set E) (hZc : Convex ℝ Z) (ω : E → ℝ) (ω' : E → E →L[ℝ] ℝ)
+    (α : ℝ) (hω : IsStrongDGF Z ω ω' α) (z v : E) (hz : z ∈ Z) (hv : v ∈ Z) :
+    α / 2 * ‖v - z‖ ^ 2 ≤ ω v - ω z - ω' z (v - z) := by
+  let d := v - z
+  let a : ℝ → E := fun t => z + t • d
+  let f : ℝ → ℝ := fun t => ω (a t) - ω z - t * ω' z d - α / 2 * t ^ 2 * ‖d‖ ^ 2
+  let fp : ℝ → ℝ := fun t => ω' (a t) d - ω' z d - α * t * ‖d‖ ^ 2
+  have hamem : Set.MapsTo a (Set.Icc 0 1) Z := by
+    intro t ht
+    exact hZc.add_smul_sub_mem hz hv ht
+  have had (t : ℝ) : HasDerivAt a d t := by
+    simpa only [a, id_eq, one_smul] using ((hasDerivAt_id t).smul_const d).const_add z
+  have hfd (t : ℝ) (ht : t ∈ Set.Icc (0 : ℝ) 1) :
+      HasDerivWithinAt f (fp t) (Set.Icc 0 1) t := by
+    have hcomp := (hω.2.1 (a t) (hamem ht)).comp_hasDerivWithinAt t
+      (had t).hasDerivWithinAt hamem
+    have hder := ((hcomp.sub_const (ω z)).sub
+      ((hasDerivAt_id t).mul_const (ω' z d)).hasDerivWithinAt).sub
+      ((((hasDerivAt_id t).pow 2).const_mul (α / 2)).mul_const (‖d‖ ^ 2)).hasDerivWithinAt
+    convert hder using 1 <;> (first | rfl | (simp only [f, fp, Function.comp, id_eq]; ring))
+  have hnonneg (t : ℝ) (ht : t ∈ interior (Set.Icc (0 : ℝ) 1)) : 0 ≤ fp t := by
+    rw [interior_Icc] at ht
+    have hm := hω.2.2.2 (a t) (hamem ⟨ht.1.le, ht.2.le⟩) z hz
+    have hadiff : a t - z = t • d := by simp [a]
+    rw [hadiff, norm_smul, Real.norm_of_nonneg ht.1.le] at hm
+    simp only [ContinuousLinearMap.sub_apply, map_smul, smul_eq_mul] at hm
+    have hlin : α * t * ‖d‖ ^ 2 ≤ ω' (a t) d - ω' z d := by
+      by_contra! hcontra
+      have hmul := mul_lt_mul_of_pos_right hcontra ht.1
+      nlinarith only [hm, hmul]
+    dsimp [fp]
+    linarith only [hlin]
+  have hmono : MonotoneOn f (Set.Icc (0 : ℝ) 1) :=
+    monotoneOn_of_hasDerivWithinAt_nonneg (convex_Icc _ _)
+      (fun t ht => (hfd t ht).continuousWithinAt)
+      (fun t ht => (hfd t (interior_subset ht)).mono interior_subset) hnonneg
+  have hest := hmono (show (0 : ℝ) ∈ Set.Icc 0 1 by constructor <;> norm_num)
+    (show (1 : ℝ) ∈ Set.Icc 0 1 by constructor <;> norm_num) zero_le_one
+  have ha0 : a 0 = z := by simp [a]
+  have ha1 : a 1 = v := by simp [a, d]
+  dsimp [f] at hest
+  rw [ha0, ha1] at hest
+  norm_num at hest
+  dsimp [d] at hest ⊢
+  linarith only [hest]
+
+
+
+private theorem prox_vi {E : Type*} [NormedAddCommGroup E] [NormedSpace ℝ E]
+    (Z U : Set E) (hUZ : U ⊆ Z) (hUc : Convex ℝ U)
+    (ω : E → ℝ) (ω' : E → E →L[ℝ] ℝ)
+    (hω : ∀ x ∈ Z, HasFDerivWithinAt ω (ω' x) Z x)
+    (z v u : E) (ξ : E →L[ℝ] ℝ) (hv : IsProxPt U ω ω' z ξ v) (hu : u ∈ U) :
+    0 ≤ (ω' v + (ξ - ω' z)) (u - v) := by
+  have hd : HasFDerivWithinAt (fun y => ω y + (ξ - ω' z) y)
+      (ω' v + (ξ - ω' z)) U v :=
+    ((hω v (hUZ hv.1)).mono hUZ).add (ξ - ω' z).hasFDerivAt.hasFDerivWithinAt
+  have hmin : IsMinOn (fun y => ω y + (ξ - ω' z) y) U v := hv.2
+  exact hmin.localize.hasFDerivWithinAt_nonneg hd
+    (sub_mem_posTangentConeAt_of_segment_subset (hUc.segment_subset hv.1 hu))
+
+
+private theorem legendre_at {E : Type*} [NormedAddCommGroup E] [NormedSpace ℝ E]
+    (Z : Set E) (hZc : Convex ℝ Z) (ω : E → ℝ) (ω' : E → E →L[ℝ] ℝ)
+    (α : ℝ) (hω : IsStrongDGF Z ω ω' α) (x : E) (hx : x ∈ Z) :
+    legendre Z ω (ω' x) = ω' x x - ω x := by
+  apply IsGreatest.csSup_eq
+  refine ⟨⟨x, hx, rfl⟩, ?_⟩
+  rintro b ⟨y, hy, rfl⟩
+  have hD := dgf_bound Z hZc ω ω' α hω x y hx hy
+  have h0 : 0 ≤ α / 2 * ‖y - x‖ ^ 2 :=
+    mul_nonneg (div_nonneg hω.1.le (by norm_num)) (sq_nonneg _)
+  simp only [map_sub] at hD
+  linarith
+
+
+private theorem prox_ineq {E : Type*} [NormedAddCommGroup E] [NormedSpace ℝ E] [FiniteDimensional ℝ E]
+    (Z : Set E) (hZc : Convex ℝ Z) (hZk : IsCompact Z) (hZne : Z.Nonempty)
+    (ω : E → ℝ) (ω' : E → E →L[ℝ] ℝ) (α : ℝ) (hω : IsStrongDGF Z ω ω' α)
+    (z : E) (hz : z ∈ Z) (ξ : E →L[ℝ] ℝ) (v : E) (hv : IsProxPt Z ω ω' z ξ v)
+    (u : E) (hu : u ∈ Z) :
+    Hfun Z ω ω' u v - Hfun Z ω ω' u z ≤ ξ (u - v) + (ω z + ω' z (v - z) - ω v) ∧
+      ω z + ω' z (v - z) - ω v ≤ 0 := by
+  have hzval := legendre_at Z hZc ω ω' α hω z hz
+  have hvval := legendre_at Z hZc ω ω' α hω v hv.1
+  have hvi := prox_vi Z Z Set.Subset.rfl hZc ω ω' hω.2.1 z v u ξ hv hu
+  have hD := dgf_bound Z hZc ω ω' α hω z v hz hv.1
+  have hD0 : 0 ≤ α / 2 * ‖v - z‖ ^ 2 :=
+    mul_nonneg (div_nonneg hω.1.le (by norm_num)) (sq_nonneg _)
+  constructor
+  · unfold Hfun
+    rw [hzval, hvval]
+    simp only [ContinuousLinearMap.add_apply, ContinuousLinearMap.sub_apply, map_sub] at *
+    linarith
+  · linarith
+
+
+
+
+private theorem one_step {E : Type*} [NormedAddCommGroup E] [NormedSpace ℝ E] [FiniteDimensional ℝ E]
+    (Z : Set E) (hZc : Convex ℝ Z) (hZk : IsCompact Z) (hZne : Z.Nonempty)
+    (ω : E → ℝ) (ω' : E → E →L[ℝ] ℝ) (α : ℝ) (hω : IsStrongDGF Z ω ω' α)
+    (F : E → E →L[ℝ] ℝ) (γ ε : ℕ → ℝ) (z w : ℕ → E)
+    (hrun : IsRelaxedRun Z F ω ω' γ ε z w) (t : ℕ) (u : E) (hu : u ∈ Z) :
+    γ (t + 1) * F (w (t + 1)) (w (t + 1) - u)
+      ≤ Hfun Z ω ω' u (z t) - Hfun Z ω ω' u (z (t + 1)) + ε (t + 1) := by
+  have hzt : z t ∈ Z := by
+    cases t with
+    | zero => exact hrun.1
+    | succ n => exact (hrun.2 n).2.2.1.1
+  have hp := prox_ineq Z hZc hZk hZne ω ω' α hω (z t) hzt
+    (γ (t + 1) • F (w (t + 1))) (z (t + 1)) (hrun.2 t).2.2.1 u hu
+  have he := (hrun.2 t).2.2.2
+  simp only [ContinuousLinearMap.smul_apply, smul_eq_mul, map_sub] at hp he ⊢
+  linarith only [hp.1, he]
+
+
+
+
+theorem solution {E : Type*} [NormedAddCommGroup E] [NormedSpace ℝ E] [FiniteDimensional ℝ E]
+    (Z : Set E) (hZc : Convex ℝ Z) (hZk : IsCompact Z) (hZne : Z.Nonempty)
+    (ω : E → ℝ) (ω' : E → E →L[ℝ] ℝ) (α : ℝ) (hω : IsStrongDGF Z ω ω' α)
+    (F : E → E →L[ℝ] ℝ) (hmono : IsMonotoneOnWRT Z F)
+    (γ ε : ℕ → ℝ) (z w : ℕ → E) (hrun : IsRelaxedRun Z F ω ω' γ ε z w)
+    (N : ℕ) (hN : 1 ≤ N) (u : E) (hu : u ∈ Z) :
+    F u (ergodicAvg γ w N - u)
+      ≤ (theta Z ω ω' (z 0) + ∑ t ∈ Finset.Icc 1 N, ε t) / ∑ t ∈ Finset.Icc 1 N, γ t := by
+  have hsum : ∀ k : ℕ, (∑ t ∈ Finset.Icc 1 k, γ t * F u (w t - u)) ≤
+      Hfun Z ω ω' u (z 0) - Hfun Z ω ω' u (z k) + ∑ t ∈ Finset.Icc 1 k, ε t := by
+    intro k
+    induction k with
+    | zero => simp
+    | succ k ih =>
+      have he := one_step Z hZc hZk hZne ω ω' α hω F γ ε z w hrun k u hu
+      have hm := hmono (w (k+1)) (hrun.2 k).2.1 u hu
+      simp only [ContinuousLinearMap.sub_apply] at hm
+      have hg := mul_le_mul_of_nonneg_left hm (hrun.2 k).1.le
+      rw [Finset.sum_Icc_succ_top (Nat.succ_le_succ (Nat.zero_le k)),
+        Finset.sum_Icc_succ_top (Nat.succ_le_succ (Nat.zero_le k))]
+      nlinarith only [ih, he, hg]
+  have hzN : z N ∈ Z := by
+    cases N with
+    | zero => exact hrun.1
+    | succ k => exact (hrun.2 k).2.2.1.1
+  have hsupport := dgf_bound Z hZc ω ω' α hω (z N) u hzN hu
+  have hnonneg : 0 ≤ α / 2 * ‖u-z N‖ ^ 2 :=
+    mul_nonneg (div_nonneg hω.1.le (by norm_num)) (sq_nonneg _)
+  have hcω : ContinuousOn ω Z := fun v hv => (hω.2.1 v hv).continuousWithinAt
+  have hc : ContinuousOn (fun v => ω v - ω (z 0) - ω' (z 0) (v-z 0)) Z :=
+    (hcω.sub continuousOn_const).sub
+      (((ω' (z 0)).continuous.comp (continuous_id.sub continuous_const)).continuousOn)
+  have ht : ω u - ω (z 0) - ω' (z 0) (u-z 0) ≤ theta Z ω ω' (z 0) :=
+    le_csSup (hZk.bddAbove_image hc) ⟨u,hu,rfl⟩
+  have hpot : Hfun Z ω ω' u (z 0) - Hfun Z ω ω' u (z N) ≤ theta Z ω ω' (z 0) := by
+    unfold Hfun
+    rw [legendre_at Z hZc ω ω' α hω (z 0) hrun.1,
+      legendre_at Z hZc ω ω' α hω (z N) hzN]
+    simp only [map_sub] at hsupport ht
+    linarith only [hsupport, hnonneg, ht]
+  let S := ∑ t ∈ Finset.Icc 1 N, γ t
+  have hγ : ∀ t ∈ Finset.Icc 1 N, 0 < γ t := by
+    intro t ht
+    obtain ⟨k,rfl⟩ := Nat.exists_eq_succ_of_ne_zero (Nat.ne_of_gt ((Finset.mem_Icc.mp ht).1))
+    exact (hrun.2 k).1
+  have hS : 0 < S := Finset.sum_pos hγ (Finset.nonempty_Icc.mpr hN)
+  have hmap : F u (∑ t ∈ Finset.Icc 1 N, γ t • w t) =
+      ∑ t ∈ Finset.Icc 1 N, γ t * F u (w t) := by simp
+  have hlin : S * F u (ergodicAvg γ w N-u) =
+      ∑ t ∈ Finset.Icc 1 N, γ t * F u (w t-u) := by
+    change S * F u (S⁻¹ • (∑ t ∈ Finset.Icc 1 N, γ t • w t)-u) = _
+    rw [map_sub, map_smul, hmap]
+    simp only [smul_eq_mul, map_sub, mul_sub, Finset.sum_sub_distrib]
+    rw [← mul_assoc, mul_inv_cancel₀ hS.ne', one_mul]
+    rw [← Finset.sum_mul]
+  apply (le_div_iff₀ hS).mpr
+  rw [mul_comm, hlin]
+  linarith only [hsum N, hpot]
+
+#print axioms solution

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_neighpl_mul
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.neighpl_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:51:50.429985+00:00
 -- url     : https://prove2.me/theorems/ec759708-ebd2-458b-9be7-765577b9735b

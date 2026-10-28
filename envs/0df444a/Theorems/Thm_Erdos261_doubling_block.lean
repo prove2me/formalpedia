@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_doubling_block
 -- name    : Erdos261.doubling_block
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:32.307099+00:00
 -- url     : https://prove2.me/theorems/bc14c6a9-62ea-47b8-b8a1-cf1b4aea0e20
 -- title:

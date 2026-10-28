@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_Routing_mean_Y_gt_one
 -- name    : KellyLossNetworks.Routing.mean_Y_gt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:11:14.532036+00:00
 -- url     : https://prove2.me/theorems/92b6c69d-15e2-4868-a6cf-166c326b9ef7

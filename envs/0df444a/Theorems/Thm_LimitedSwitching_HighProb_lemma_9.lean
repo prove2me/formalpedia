@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedSwitching_HighProb_lemma_9
 -- name    : LimitedSwitching.HighProb.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:06.747459+00:00
 -- url     : https://prove2.me/theorems/23ff197a-3243-4218-986a-15819e03333e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FiniteAlgebraicEnvelopes_main
 -- name    : OAI.FiniteAlgebraicEnvelopes.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:40.280984+00:00
 -- url     : https://prove2.me/theorems/e134023a-5966-4913-9e27-582bdc8c6e2e

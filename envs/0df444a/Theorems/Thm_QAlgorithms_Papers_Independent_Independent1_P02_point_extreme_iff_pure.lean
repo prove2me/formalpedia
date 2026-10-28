@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P02_point_extreme_iff_pure
 -- name    : QAlgorithms.Papers.Independent.Independent1.P02.point_extreme_iff_pure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:17:52.107853+00:00
 -- url     : https://prove2.me/theorems/05dc5d86-bb33-49c8-9640-619dd4c2631f

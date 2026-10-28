@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuyXFree_Threshold_q_le_A
 -- name    : BuyXFree.Threshold.q_le_A
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:36.217311+00:00
 -- url     : https://prove2.me/theorems/41259fe0-67e4-4d20-9e3e-0c9913aa42ae

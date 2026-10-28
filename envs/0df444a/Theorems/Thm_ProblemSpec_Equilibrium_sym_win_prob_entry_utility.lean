@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProblemSpec_Equilibrium_sym_win_prob_entry_utility
 -- name    : ProblemSpec.Equilibrium.sym_win_prob_entry_utility
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:32.320366+00:00
 -- url     : https://prove2.me/theorems/b610b749-e0c5-4faf-95f8-b2a140b0cd8f

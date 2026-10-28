@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat08_killed_record_payments_tsum_finite_of_finite_ruin
 -- name    : AvramDividend.Classical.chat08_killed_record_payments_tsum_finite_of_finite_ruin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:40:34.219661+00:00
 -- url     : https://prove2.me/theorems/e61fd739-95eb-4d6e-91ef-641d49487ed4

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.eventual_weighted_generation_implies_eventual_surjective_weighted_sections
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:07:37.858566+00:00
 -- url     : https://prove2.me/submissions/72260df0-962f-4805-8281-8daa8820a3c5
 

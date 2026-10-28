@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.Bit.bitR7plain_bitR8_rankSum_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:34:36.994933+00:00
 -- url     : https://prove2.me/submissions/52aad824-7cd7-4405-8806-79ee8e509e73
 

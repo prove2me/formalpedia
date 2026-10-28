@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_burau_rho_eq_rho_step
 -- name    : burau_rho_eq_rho_step
--- status  : Open
+-- status  : Proved
 -- author  : @lt9
 -- created : 2026-10-01T06:39:28.373972+00:00
 -- url     : https://prove2.me/theorems/fc326b6d-22a7-4697-81da-95c8c42fe002

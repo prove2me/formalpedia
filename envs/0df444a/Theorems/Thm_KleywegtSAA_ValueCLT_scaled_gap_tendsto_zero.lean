@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleywegtSAA_ValueCLT_scaled_gap_tendsto_zero
 -- name    : KleywegtSAA.ValueCLT.scaled_gap_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:09:19.655495+00:00
 -- url     : https://prove2.me/theorems/73a7a065-2525-44d9-8f0a-97bc43dce20e

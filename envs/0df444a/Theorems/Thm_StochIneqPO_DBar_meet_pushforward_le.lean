@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_DBar_meet_pushforward_le
 -- name    : StochIneqPO.DBar.meet_pushforward_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:34:09.750446+00:00
 -- url     : https://prove2.me/theorems/c70bbd00-0de8-4959-a2ee-19a9845670b6

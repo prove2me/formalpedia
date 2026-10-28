@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_pressure_reference_bound
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.pressure_reference_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:56:47.728083+00:00
 -- url     : https://prove2.me/theorems/359f851c-a03b-4001-87d7-433c92b028d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_ancillaPurityCap
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.ancillaPurityCap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:24:38.763576+00:00
 -- url     : https://prove2.me/theorems/d9790881-bbd3-4b70-990f-701ddeb38d39

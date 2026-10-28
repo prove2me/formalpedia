@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.translation_scalar_estimate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:11:38.21104+00:00
 -- url     : https://prove2.me/submissions/25263b0f-396d-4b64-a069-ef147c03d9fc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_MinorTranslationData
 import Theorems.Thm_OAI_PiExponent_DeterminantContradiction_translation_scalar_local_bounds

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.Discounted.B_cheapest_walk
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:38:26.79999+00:00
 -- url     : https://prove2.me/submissions/fa2a8d80-26af-4a9c-a843-7a1137b23269
 

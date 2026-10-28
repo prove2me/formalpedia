@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiLayerCake_LongKnives_counting_claim
 -- name    : MultiLayerCake.LongKnives.counting_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:01.882021+00:00
 -- url     : https://prove2.me/theorems/56b4c8f1-41f7-4ffa-9ab1-13f48e4f15d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FollowCrowd_Inference_eq_A_1
 -- name    : FollowCrowd.Inference.eq_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:03.823457+00:00
 -- url     : https://prove2.me/theorems/05789d6d-7563-41bb-8c28-a8b38909a0c2

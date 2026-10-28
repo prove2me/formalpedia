@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_erdos_624_of_bounded_track_resilience
 -- name    : Erdos624.erdos_624_of_bounded_track_resilience
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:07.760398+00:00
 -- url     : https://prove2.me/theorems/e2f44f1d-be03-4375-b878-6421b2804da7
 -- title:

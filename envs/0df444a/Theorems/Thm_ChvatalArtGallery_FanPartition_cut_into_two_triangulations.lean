@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalArtGallery_FanPartition_cut_into_two_triangulations
 -- name    : ChvatalArtGallery.FanPartition.cut_into_two_triangulations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:58:18.540457+00:00
 -- url     : https://prove2.me/theorems/c1d2c8f6-ccba-4bdc-b21e-9f7414c4e973

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LuKumar_lyapunov_conditions
 -- name    : DaiWeissFluid.LuKumar.lyapunov_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:24:42.257787+00:00
 -- url     : https://prove2.me/theorems/25eed6ad-6d29-4a6d-8e74-97e725fa3f74

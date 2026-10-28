@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossSell_Pricing_H_fixed_point
 -- name    : CrossSell.Pricing.H_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:29:12.862556+00:00
 -- url     : https://prove2.me/theorems/f168f557-5a5a-495a-a385-436853a6a9f8

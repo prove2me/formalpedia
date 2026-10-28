@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochGradTrack_Dimin_theorem_2
 -- name    : StochGradTrack.Dimin.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:46:59.281735+00:00
 -- url     : https://prove2.me/theorems/784968fe-36ac-41c4-9616-956880e5525c

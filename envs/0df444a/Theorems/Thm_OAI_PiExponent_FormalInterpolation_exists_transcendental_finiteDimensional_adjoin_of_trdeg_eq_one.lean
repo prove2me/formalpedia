@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_exists_transcendental_finiteDimensional_adjoin_of_trdeg_eq_one
 -- name    : OAI.PiExponent.FormalInterpolation.exists_transcendental_finiteDimensional_adjoin_of_trdeg_eq_one
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:58:10.20414+00:00
 -- url     : https://prove2.me/theorems/89bbaf2c-0982-4da8-a400-b63dbcb52a80
 -- title:

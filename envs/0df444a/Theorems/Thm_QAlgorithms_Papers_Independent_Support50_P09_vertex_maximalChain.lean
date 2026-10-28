@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_vertex_maximalChain
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.vertex_maximalChain
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:57:02.683458+00:00
 -- url     : https://prove2.me/theorems/488d4e39-576e-4f62-a539-cd01d71800e8

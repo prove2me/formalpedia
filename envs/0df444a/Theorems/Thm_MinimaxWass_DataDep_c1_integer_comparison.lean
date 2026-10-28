@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxWass_DataDep_c1_integer_comparison
 -- name    : MinimaxWass.DataDep.c1_integer_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:12.015001+00:00
 -- url     : https://prove2.me/theorems/7f74c92f-5d51-48e7-981e-eb6a17c0cd30

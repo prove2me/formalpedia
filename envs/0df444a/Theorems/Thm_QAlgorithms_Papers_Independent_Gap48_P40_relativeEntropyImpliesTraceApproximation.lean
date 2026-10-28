@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_relativeEntropyImpliesTraceApproximation
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.relativeEntropyImpliesTraceApproximation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:33:31.45291+00:00
 -- url     : https://prove2.me/theorems/a4840196-d25d-46c7-84e8-2fd23478da58

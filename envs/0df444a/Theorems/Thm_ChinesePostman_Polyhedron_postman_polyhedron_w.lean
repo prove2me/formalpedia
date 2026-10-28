@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChinesePostman_Polyhedron_postman_polyhedron_w
 -- name    : ChinesePostman.Polyhedron.postman_polyhedron_w
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:39:25.915197+00:00
 -- url     : https://prove2.me/theorems/de87a74c-f419-43a6-a094-89b9572efb08

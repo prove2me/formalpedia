@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TiltingFTT_Optimal_tbar_deriv
 -- name    : TiltingFTT.Optimal.tbar_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:39.167986+00:00
 -- url     : https://prove2.me/theorems/ac5f3300-60d1-41de-a76a-4b94b9593d0a

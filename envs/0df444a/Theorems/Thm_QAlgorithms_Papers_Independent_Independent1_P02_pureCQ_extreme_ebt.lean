@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P02_pureCQ_extreme_ebt
 -- name    : QAlgorithms.Papers.Independent.Independent1.P02.pureCQ_extreme_ebt
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:18:05.953978+00:00
 -- url     : https://prove2.me/theorems/51334ed7-5fd1-4970-b0f1-0a8168ac0a39

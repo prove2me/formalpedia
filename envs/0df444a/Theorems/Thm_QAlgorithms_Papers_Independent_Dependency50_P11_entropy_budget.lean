@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P11_entropy_budget
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P11.entropy_budget
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:37:31.916629+00:00
 -- url     : https://prove2.me/theorems/3add145d-f7e8-4050-81f3-dfabcd3d7005

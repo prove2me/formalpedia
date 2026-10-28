@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_taq_constraints1
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.taq_constraints1
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:55:14.163977+00:00
 -- url     : https://prove2.me/theorems/934342d0-b4d5-42fa-834a-02df014d375f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P12_remark_5_4_affine
 -- name    : QAlgorithms.Papers.Independent.Support50.P12.remark_5_4_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:39:43.398359+00:00
 -- url     : https://prove2.me/theorems/c1ebc6f3-239e-4366-a4e7-d814d6b9fa50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynTypeMatching_Priority_respects_of_properties
 -- name    : DynTypeMatching.Priority.respects_of_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:59:20.526698+00:00
 -- url     : https://prove2.me/theorems/b975dcfd-ad09-45b3-9fbb-665ec4dfc0e5

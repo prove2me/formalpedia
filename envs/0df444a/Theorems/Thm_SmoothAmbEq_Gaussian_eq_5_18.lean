@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothAmbEq_Gaussian_eq_5_18
 -- name    : SmoothAmbEq.Gaussian.eq_5_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:29.663237+00:00
 -- url     : https://prove2.me/theorems/5f4b7177-ac9b-40c4-8c58-98a2756239b9

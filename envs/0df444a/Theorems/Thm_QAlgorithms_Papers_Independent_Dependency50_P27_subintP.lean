@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_subintP
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.subintP
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:44:44.185989+00:00
 -- url     : https://prove2.me/theorems/64d7a2fb-480b-4f13-adaa-7fb216d78e13

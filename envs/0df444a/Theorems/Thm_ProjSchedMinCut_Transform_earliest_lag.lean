@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedMinCut_Transform_earliest_lag
 -- name    : ProjSchedMinCut.Transform.earliest_lag
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:09:56.457046+00:00
 -- url     : https://prove2.me/theorems/bfff7766-344c-4dbd-8d07-5fcdd65e8f89

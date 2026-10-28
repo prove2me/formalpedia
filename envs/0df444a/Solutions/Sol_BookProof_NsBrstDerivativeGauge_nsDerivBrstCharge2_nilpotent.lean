@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NsBrstDerivativeGauge.nsDerivBrstCharge2_nilpotent
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:45:20.140745+00:00
 -- url     : https://prove2.me/submissions/e5b19c56-6917-4694-9f72-2351a4dd4a8f
 

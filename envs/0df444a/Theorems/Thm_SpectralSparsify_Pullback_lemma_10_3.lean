@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralSparsify_Pullback_lemma_10_3
 -- name    : SpectralSparsify.Pullback.lemma_10_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:26:52.773986+00:00
 -- url     : https://prove2.me/theorems/791db18f-3d89-4118-b87f-779a2fc56e3f

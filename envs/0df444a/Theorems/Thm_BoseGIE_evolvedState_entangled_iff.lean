@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoseGIE_evolvedState_entangled_iff
 -- name    : BoseGIE.evolvedState_entangled_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-11T19:27:54.35416+00:00
 -- url     : https://prove2.me/theorems/29c59491-1da0-403c-af4a-100b7107d3a8

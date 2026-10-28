@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P29_gaugePurificationCorrespondence
 -- name    : QAlgorithms.Papers.Independent.Support50.P29.gaugePurificationCorrespondence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:16:07.028978+00:00
 -- url     : https://prove2.me/theorems/6e5c0004-1fab-4fd9-8966-d544794f1cc7

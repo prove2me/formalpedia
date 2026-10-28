@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.counterexample_propagates
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:19.312817+00:00
 -- url     : https://prove2.me/submissions/a5f81971-7f5c-40ec-9b16-90af89580a0f
 

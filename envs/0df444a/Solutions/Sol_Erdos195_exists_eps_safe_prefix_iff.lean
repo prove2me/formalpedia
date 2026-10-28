@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.exists_eps_safe_prefix_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T01:54:20.405894+00:00
 -- url     : https://prove2.me/submissions/20fc908c-4260-4397-955a-34609c1d2999
 

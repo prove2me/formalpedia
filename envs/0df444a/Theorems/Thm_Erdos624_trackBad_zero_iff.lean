@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_trackBad_zero_iff
 -- name    : Erdos624.trackBad_zero_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:07:59.582995+00:00
 -- url     : https://prove2.me/theorems/6f10069c-1054-40c1-a95a-b0c8c3514f2d
 -- title:

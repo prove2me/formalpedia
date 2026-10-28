@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirkhoffGlobalSection_smooth_radial_gauge_inverse
 -- name    : BirkhoffGlobalSection.smooth_radial_gauge_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-03T23:02:33.830404+00:00
 -- url     : https://prove2.me/theorems/43aa48b1-4f81-4c96-9ad5-6160f50c2eaf

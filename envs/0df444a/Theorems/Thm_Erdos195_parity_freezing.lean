@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_parity_freezing
 -- name    : Erdos195.parity_freezing
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:27:09.455431+00:00
 -- url     : https://prove2.me/theorems/557c7c97-87b7-4bc0-b978-4393e031c730
 -- title:

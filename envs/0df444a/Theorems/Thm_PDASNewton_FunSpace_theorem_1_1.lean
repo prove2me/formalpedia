@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDASNewton_FunSpace_theorem_1_1
 -- name    : PDASNewton.FunSpace.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:12:38.305131+00:00
 -- url     : https://prove2.me/theorems/6d89bf06-26e7-4573-9349-89fdef00ba8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScaleFreeDiam_Main_lemma_6
 -- name    : ScaleFreeDiam.Main.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:08:36.967973+00:00
 -- url     : https://prove2.me/theorems/51e443f8-b989-4f37-aeaf-af7b26e226bc

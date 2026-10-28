@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothAmbEq_Gaussian_proposition_5_4_existence_uniqueness
 -- name    : SmoothAmbEq.Gaussian.proposition_5_4_existence_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:09.976799+00:00
 -- url     : https://prove2.me/theorems/4da5167c-6e82-400d-af91-f6e5350190a5

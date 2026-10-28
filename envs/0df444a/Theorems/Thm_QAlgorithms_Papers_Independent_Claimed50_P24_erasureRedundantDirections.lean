@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_erasureRedundantDirections
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.erasureRedundantDirections
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:53:32.139262+00:00
 -- url     : https://prove2.me/theorems/e297f9eb-bc90-46d5-9ba7-6e62f19107f9

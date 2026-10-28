@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.SignFlip.esgn_eq_inc
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:58:19.721995+00:00
 -- url     : https://prove2.me/submissions/c20135bb-45aa-4d93-a092-902536b4dc1c
 

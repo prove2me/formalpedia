@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.ScalaronFiberFL.norm_sq_le_quadForm
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:21:35.281186+00:00
 -- url     : https://prove2.me/submissions/bc413db8-a95a-4dca-8791-b0bb868f6750
 

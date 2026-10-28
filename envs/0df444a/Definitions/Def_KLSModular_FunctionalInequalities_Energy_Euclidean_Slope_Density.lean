@@ -1,0 +1,43 @@
+-- Prove2me | Definitions.Def_KLSModular_FunctionalInequalities_Energy_Euclidean_Slope_Density
+-- name    : KLSModular_FunctionalInequalities_Energy_Euclidean_Slope_Density
+-- status  : Definition
+-- author  : @Lazyfill
+-- created : 2026-10-25T16:14:45.999133+00:00
+-- url     : https://prove2.me/theorems/5367291c-d0c5-48f5-b722-92a892987587
+-- title:
+--   Import context: Energy/Euclidean/Slope/Density
+-- statement:
+--   This bundle retains the import context of the source module `FunctionalInequalities.Energy.Euclidean.Slope.Density` in the modular KLS dependency graph. It adds no new mathematical declarations. Substantive statements and proofs are represented by separate theorem nodes.
+--
+--   Its direct project prerequisite module is `FunctionalInequalities.Energy.Euclidean.Slope.Recovery`.
+--
+--   **Original module imports**
+--
+--   ```lean
+--   import FunctionalInequalities.Energy.Euclidean.Slope.Recovery
+--   ```
+--
+--   **Module navigation**
+--
+--   Direct project imports: [`Energy/Euclidean/Slope/Recovery`](https://prove2.me/theorems/4d5469da-893c-48b4-9cb5-3ecfda5a30ce).
+--
+--   Theorems in source order:
+--
+--   - [`lowerSemicontinuous_secant`](https://prove2.me/theorems/fd7d5e26-5f7d-4c26-af0b-4d2fd37844d8)
+--   - [`exists_thickening_pairwise_disjoint`](https://prove2.me/theorems/b2a5cca9-524f-466c-8c07-05aff010b370)
+--   - [`exists_patch_of_isCompact`](https://prove2.me/theorems/ea72d420-aff6-4dac-9243-2603cf6d9d59)
+--   - [`exists_partition`](https://prove2.me/theorems/b31b55c4-8b5a-467c-9181-e00d16b2a28b)
+--   - [`exists_patch`](https://prove2.me/theorems/8a654b9d-4f28-40fc-a4e5-430f38247dc3)
+--   - [`relaxation_le_localSlope_of_lipschitzWith`](https://prove2.me/theorems/56be8628-41c6-4a74-81ac-de10156e3c1f)
+--   - [`sq_add_le_mul_sq_add`](https://prove2.me/theorems/86a67822-cd23-4fcb-bf30-f85ab83dd686)
+--   - [`relaxation_le_localSlope_of_admissible`](https://prove2.me/theorems/4a182de1-2cd4-4b8f-aff6-7ea50dd1dfcc)
+--
+--   Project result: [The KLS conjecture](https://prove2.me/theorems/c4e9e57c-586c-4945-927e-7f33933f1111).
+--
+--   [Original module](https://github.com/human-ai-mathematics/kls-lean/blob/408915fd28eb892a7093fa5df6f6c2699e9de144/formalization/FunctionalInequalities/Energy/Euclidean/Slope/Density.lean) · `FunctionalInequalities.Energy.Euclidean.Slope.Density` · Frozen source `408915f`.
+-- source:
+--   Frozen KLS source: https://github.com/human-ai-mathematics/kls-lean/blob/408915fd28eb892a7093fa5df6f6c2699e9de144/formalization/FunctionalInequalities/Energy/Euclidean/Slope/Density.lean#L1-L1202 (commit 408915fd28eb892a7093fa5df6f6c2699e9de144, module `FunctionalInequalities.Energy.Euclidean.Slope.Density`, import-context bundle `KLSModular_FunctionalInequalities_Energy_Euclidean_Slope_Density`). The line range identifies the complete original source module; this bundle preserves only its direct import context.
+
+import Definitions.Def_KLSModular_FunctionalInequalities_Energy_Euclidean_Slope_Recovery
+
+

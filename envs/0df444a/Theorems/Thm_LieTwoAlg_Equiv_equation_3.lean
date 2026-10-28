@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LieTwoAlg_Equiv_equation_3
 -- name    : LieTwoAlg.Equiv.equation_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:47.871849+00:00
 -- url     : https://prove2.me/theorems/deeaf382-d7cb-421b-9fd7-aa75600cfe1b

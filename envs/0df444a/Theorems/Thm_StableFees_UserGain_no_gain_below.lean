@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFees_UserGain_no_gain_below
 -- name    : StableFees.UserGain.no_gain_below
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:35:26.684398+00:00
 -- url     : https://prove2.me/theorems/bc348b5d-41dc-4efe-a14a-30fe02bd6abd

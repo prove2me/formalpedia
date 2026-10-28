@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_LPDuality_lemma_7_4_1
 -- name    : MDPFinance.LPDuality.lemma_7_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:52:33.251997+00:00
 -- url     : https://prove2.me/theorems/fa802092-9296-4446-98b2-75cb343cd825

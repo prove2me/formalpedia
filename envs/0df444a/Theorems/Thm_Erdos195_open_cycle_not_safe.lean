@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_cycle_not_safe
 -- name    : Erdos195.open_cycle_not_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T22:02:23.860718+00:00
 -- url     : https://prove2.me/theorems/95045b70-0881-4335-80de-54deea7cd64e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_trackBad_obstruction_diverging
 -- name    : Erdos624.trackBad_obstruction_diverging
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:13.953476+00:00
 -- url     : https://prove2.me/theorems/6831b912-49c3-462e-becf-afaf498e684d
 -- title:

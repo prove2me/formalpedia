@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InnovAlloc_Optimal_prop3_region_a
 -- name    : InnovAlloc.Optimal.prop3_region_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:20:25.507047+00:00
 -- url     : https://prove2.me/theorems/fd91e314-7a9d-4020-aa24-5c69130687bd

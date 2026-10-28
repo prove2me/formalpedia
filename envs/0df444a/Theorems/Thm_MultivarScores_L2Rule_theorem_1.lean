@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_L2Rule_theorem_1
 -- name    : MultivarScores.L2Rule.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:30:39.492998+00:00
 -- url     : https://prove2.me/theorems/1218aad5-c617-44f7-ab48-6366e4f0c6ae

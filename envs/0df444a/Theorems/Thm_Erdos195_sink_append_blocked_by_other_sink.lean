@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_sink_append_blocked_by_other_sink
 -- name    : Erdos195.sink_append_blocked_by_other_sink
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T23:42:29.671634+00:00
 -- url     : https://prove2.me/theorems/ed8bb713-345f-42a6-aa1f-0c35bd1447ec
 -- title:

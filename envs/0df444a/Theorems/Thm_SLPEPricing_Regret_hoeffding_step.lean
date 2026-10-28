@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPEPricing_Regret_hoeffding_step
 -- name    : SLPEPricing.Regret.hoeffding_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:33:20.638246+00:00
 -- url     : https://prove2.me/theorems/bdc805e7-93e6-4e34-89c0-432898052e03

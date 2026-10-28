@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdDataSharing_Base_leave_deviation
 -- name    : AdDataSharing.Base.leave_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:01.41983+00:00
 -- url     : https://prove2.me/theorems/e4632345-4def-4b6b-a1a7-9bff05fdf143

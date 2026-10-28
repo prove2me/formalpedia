@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BypassMonster_Falcon_lemma_A_6
 -- name    : BypassMonster.Falcon.lemma_A_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:27:30.452932+00:00
 -- url     : https://prove2.me/theorems/13ca0c2a-c02d-45c4-9991-666e9c2f0f48

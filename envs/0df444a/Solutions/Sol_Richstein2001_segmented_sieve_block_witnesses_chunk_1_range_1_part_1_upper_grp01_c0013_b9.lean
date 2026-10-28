@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Richstein2001.segmented_sieve_block_witnesses_chunk_1_range_1_part_1_upper_grp01_c0013_b9
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:58:22.706343+00:00
 -- url     : https://prove2.me/submissions/e370d217-afed-4bb0-9dbb-dd50cf08a06f
 

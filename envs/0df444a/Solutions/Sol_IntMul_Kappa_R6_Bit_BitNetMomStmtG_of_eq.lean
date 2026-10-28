@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R6.Bit.BitNetMomStmtG_of_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:24:47.801781+00:00
 -- url     : https://prove2.me/submissions/3f8d183d-5d1f-4c48-af1f-0a877179417a
 

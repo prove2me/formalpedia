@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TriangleFreeSegments_Probes_color_count_dichotomy
 -- name    : TriangleFreeSegments.Probes.color_count_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:06.639786+00:00
 -- url     : https://prove2.me/theorems/d2133a93-939b-499d-8849-e68b03e30f16

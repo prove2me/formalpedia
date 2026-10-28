@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HuImkellerMuller_Power_eq_14
 -- name    : HuImkellerMuller.Power.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:44:42.522719+00:00
 -- url     : https://prove2.me/theorems/16461b05-3dc2-4ce3-81ea-44c4386e8f2f

@@ -1,0 +1,46 @@
+-- Prove2me | Theorems.Thm_FunctionalInequalities_KLS_LogConcave_Suspension_letwinCompactBound_readable
+-- name    : FunctionalInequalities.KLS.LogConcave.Suspension.letwinCompactBound_readable
+-- status  : Proved
+-- author  : @Lazyfill
+-- created : 2026-10-26T13:19:04.608359+00:00
+-- url     : https://prove2.me/theorems/2c1c66ed-c8f7-48c2-84a8-22bc394ea100
+-- title:
+--   Compact Log-Concave Quadratic Bound
+-- statement:
+--   For every $n>0$, every compactly supported isotropic log-concave probability law $\mu$ on $\mathrm{EuclideanSpace}\,\mathbb R\,(\mathrm{Fin}\,n)$, and every self-adjoint real continuous linear operator $A$, the associated quadratic form satisfies
+--
+--   $$\operatorname{Var}_{\mu}\bigl(x\mapsto\langle Ax,x\rangle\bigr)
+--   \le 8\,\|A\|_{\mathrm{HS}}^2.$$
+--
+--   Equivalently, in the matrix formulation, the right side is $8\operatorname{tr}(A^2)$. The statement includes singular and indefinite self-adjoint operators and is restricted to compactly supported laws.
+--
+--   **Original Lean source**
+--
+--   Within namespace `FunctionalInequalities.KLS.LogConcave.Suspension`. Shown in its original module context.
+--
+--   ```lean
+--   theorem letwinCompactBound : LetwinCompactBound := by
+--     apply letwinCompactBound_of_regularClass
+--     intro n hn K W κ hκ hK hKc hKint hW hstrong μ hμ hiso
+--     exact regularClass_letwinQuadraticBound hn hκ hK hKc hKint hW hstrong μ hμ hiso
+--   ```
+--
+--   **Module navigation**
+--
+--   Module: [`KLS/Letwin/CompactBound`](https://prove2.me/theorems/ef48b591-498b-4f56-8010-653953c6288d).
+--
+--   Definition modules: [`KLS/BKL/CompactReduction`](https://prove2.me/theorems/a4e51f37-ee65-417d-a309-c9c31bff2101).
+--
+--   Supporting theorems: [`letwinCompactBound_of_regularClass`](https://prove2.me/theorems/a49dd56e-2442-4aae-a07b-6def43badd68), [`regularClass_matrix_variance_le_eight`](https://prove2.me/theorems/cfd65a50-1952-469e-9117-ba413e5f75de).
+--
+--   [Source excerpt, lines 26–29](https://github.com/human-ai-mathematics/kls-lean/blob/408915fd28eb892a7093fa5df6f6c2699e9de144/formalization/FunctionalInequalities/KLS/Letwin/CompactBound.lean#L26-L29) · Frozen source `408915f`.
+--
+--   **Literature**
+--
+--   This formalizes Theorem 1.2 of Letwin (arXiv:2607.24164v1), cited as “Quadratic-form Poincaré inequality,” and is the compact counterpart used in Lemma 4.2 of Bizeul–Klartag–Lehec (arXiv:2610.05474v1).
+-- source:
+--   Source: Letwin, The KLS constant is O(log^(1/4) n) (arXiv:2607.24164v1), Theorem 1.2. Lean source: https://github.com/human-ai-mathematics/kls-lean/blob/408915f/formalization/FunctionalInequalities/KLS/Letwin/CompactBound.lean#L26-L29 (repository human-ai-mathematics/kls-lean, commit 408915f, module `FunctionalInequalities.KLS.Letwin.CompactBound`, declaration `FunctionalInequalities.KLS.LogConcave.Suspension.letwinCompactBound`; the repository is private at upload time).
+
+import Definitions.Def_KLSModular_FunctionalInequalities_KLS_Letwin_CompactBound
+
+theorem FunctionalInequalities.KLS.LogConcave.Suspension.letwinCompactBound_readable : LetwinCompactBound := by sorry

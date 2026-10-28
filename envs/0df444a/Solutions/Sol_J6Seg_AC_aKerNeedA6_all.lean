@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for J6Seg.AC.aKerNeedA6_all
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:40:06.348678+00:00
 -- url     : https://prove2.me/submissions/69cc1318-5716-4a16-a643-7a28e3f2431c
 

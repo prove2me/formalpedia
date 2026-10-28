@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P46_lemma3_decreasing_point
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P46.lemma3_decreasing_point
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:25:26.405385+00:00
 -- url     : https://prove2.me/theorems/82a9bbf0-f14e-4fd8-b9b7-a8be7465bd03

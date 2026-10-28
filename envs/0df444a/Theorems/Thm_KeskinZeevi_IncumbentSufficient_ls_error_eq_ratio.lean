@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_IncumbentSufficient_ls_error_eq_ratio
 -- name    : KeskinZeevi.IncumbentSufficient.ls_error_eq_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:45:15.17122+00:00
 -- url     : https://prove2.me/theorems/bedd8b6e-5dd2-4736-b362-46136f50dd1b

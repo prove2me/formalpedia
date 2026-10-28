@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JSQHalfinWhitt_Tightness_lemma_6_eq_4_10
 -- name    : JSQHalfinWhitt.Tightness.lemma_6_eq_4_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:44:13.109893+00:00
 -- url     : https://prove2.me/theorems/b7acc230-3275-4bcb-96d5-f0e5074bc1d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FiniteMinorComparison_logWeightedCollisionRatio_tendsto
 -- name    : OAI.PiExponent.FiniteMinorComparison.logWeightedCollisionRatio_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:04:44.251263+00:00
 -- url     : https://prove2.me/theorems/56dce4e6-cae7-4316-810a-51be9eb2c9bf

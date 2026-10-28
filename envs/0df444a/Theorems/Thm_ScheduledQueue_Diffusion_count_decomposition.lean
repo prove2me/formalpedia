@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Diffusion_count_decomposition
 -- name    : ScheduledQueue.Diffusion.count_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:56.201721+00:00
 -- url     : https://prove2.me/theorems/61e5fa2a-9236-47a1-8f42-dc29ec5b3624

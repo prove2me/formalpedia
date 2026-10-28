@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MangasarianFJ_GenFJ_generalized_fritz_john
 -- name    : MangasarianFJ.GenFJ.generalized_fritz_john
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:41:22.547993+00:00
 -- url     : https://prove2.me/theorems/7e9d3307-a357-4c38-bf6c-819cf5958048

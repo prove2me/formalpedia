@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_small_batch_comparison
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.small_batch_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:20:09.737085+00:00
 -- url     : https://prove2.me/theorems/e880c259-6998-4478-9c01-4f9472142405

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpatialDemandEq_Optimal_lemma_1_part_2
 -- name    : SpatialDemandEq.Optimal.lemma_1_part_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:04.064613+00:00
 -- url     : https://prove2.me/theorems/30c72a67-5eaf-4ea3-868d-fc6440f41d2e

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.localization
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T14:39:41.73689+00:00
 -- url     : https://prove2.me/submissions/a2ad8e9f-1d72-437d-8fff-a2611834056e
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsE_dir_deriv_eq_finite_diff_on_integral_mconvex
 -- name    : DiscreteConvex.MConvexFunctionsE.dir_deriv_eq_finite_diff_on_integral_mconvex
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:10:11.945738+00:00
 -- url     : https://prove2.me/theorems/deff5453-d6cf-41f2-ac3e-19d7285a885e

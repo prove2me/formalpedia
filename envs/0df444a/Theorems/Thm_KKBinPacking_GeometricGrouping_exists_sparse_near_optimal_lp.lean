@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KKBinPacking_GeometricGrouping_exists_sparse_near_optimal_lp
 -- name    : KKBinPacking.GeometricGrouping.exists_sparse_near_optimal_lp
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-02T13:48:17.496824+00:00
 -- url     : https://prove2.me/theorems/a3149f0a-8819-48eb-a74d-26789cfba321

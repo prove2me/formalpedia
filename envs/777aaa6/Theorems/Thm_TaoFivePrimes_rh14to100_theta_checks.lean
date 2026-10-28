@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh14to100_theta_checks
 -- name    : TaoFivePrimes.rh14to100_theta_checks
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:51:49.80017+00:00
 -- url     : https://prove2.me/theorems/a42900ac-bca9-4e78-89be-a2e920140ff9
 -- title:

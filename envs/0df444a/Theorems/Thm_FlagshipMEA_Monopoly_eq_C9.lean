@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlagshipMEA_Monopoly_eq_C9
 -- name    : FlagshipMEA.Monopoly.eq_C9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:08:41.577786+00:00
 -- url     : https://prove2.me/theorems/394231f3-a2eb-4dea-b508-d6bffb16b1c8

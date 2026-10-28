@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.BrstReducedTransfer.stoneU_sub_mem_exactStates
 -- status  : ACCEPTED   (disprove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T04:34:12.876709+00:00
 -- url     : https://prove2.me/submissions/b625b5ec-1e13-4d13-bb4e-ba8281856acc
 

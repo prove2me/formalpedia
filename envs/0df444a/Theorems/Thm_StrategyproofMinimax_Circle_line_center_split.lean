@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyproofMinimax_Circle_line_center_split
 -- name    : StrategyproofMinimax.Circle.line_center_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T20:54:53.882538+00:00
 -- url     : https://prove2.me/theorems/c1578d03-6712-410c-977e-6fb7492c73ae

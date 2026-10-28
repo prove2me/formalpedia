@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_PrefMatch_pmatcher_exists_unique
 -- name    : SourceTheory.PrefMatch.pmatcher_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:00.148302+00:00
 -- url     : https://prove2.me/theorems/f3ed86c8-5802-4d45-8aed-3268d75b545f

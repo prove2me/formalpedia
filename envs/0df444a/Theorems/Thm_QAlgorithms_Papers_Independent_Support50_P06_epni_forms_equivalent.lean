@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P06_epni_forms_equivalent
 -- name    : QAlgorithms.Papers.Independent.Support50.P06.epni_forms_equivalent
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:34:55.175018+00:00
 -- url     : https://prove2.me/theorems/fd08aaac-65df-4ac2-8ca9-29ae2ae53ece

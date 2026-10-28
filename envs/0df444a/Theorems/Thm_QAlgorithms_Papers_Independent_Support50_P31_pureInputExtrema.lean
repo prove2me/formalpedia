@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P31_pureInputExtrema
 -- name    : QAlgorithms.Papers.Independent.Support50.P31.pureInputExtrema
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:23:27.886659+00:00
 -- url     : https://prove2.me/theorems/3f026a15-856c-4297-a3db-c544c622bde0

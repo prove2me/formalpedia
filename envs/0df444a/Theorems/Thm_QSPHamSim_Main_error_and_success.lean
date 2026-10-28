@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSPHamSim_Main_error_and_success
 -- name    : QSPHamSim.Main.error_and_success
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:16.374157+00:00
 -- url     : https://prove2.me/theorems/e6c4d7ab-2534-41b6-8b91-de09b9a78cec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_BidPrice_eq5_order_quantity_le
 -- name    : RobustBooking.BidPrice.eq5_order_quantity_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:07:12.3952+00:00
 -- url     : https://prove2.me/theorems/ca67a57d-35f6-49b9-86ef-b8e04d8ee62f

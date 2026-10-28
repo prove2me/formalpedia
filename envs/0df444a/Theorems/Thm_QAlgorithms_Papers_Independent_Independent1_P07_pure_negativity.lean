@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_pure_negativity
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.pure_negativity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:47:59.576316+00:00
 -- url     : https://prove2.me/theorems/55bec2d6-5ce6-4cf1-a89a-316f33449dde

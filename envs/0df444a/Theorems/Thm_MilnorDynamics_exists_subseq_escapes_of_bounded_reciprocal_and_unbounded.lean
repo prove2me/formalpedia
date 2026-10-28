@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_exists_subseq_escapes_of_bounded_reciprocal_and_unbounded
 -- name    : MilnorDynamics.exists_subseq_escapes_of_bounded_reciprocal_and_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-03T14:14:39.359504+00:00
 -- url     : https://prove2.me/theorems/d64dae70-bfbc-410c-b851-f30e040bacfb

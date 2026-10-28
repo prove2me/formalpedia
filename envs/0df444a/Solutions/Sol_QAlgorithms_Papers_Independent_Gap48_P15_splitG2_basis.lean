@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P15.splitG2_basis
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T00:29:09.748868+00:00
 -- url     : https://prove2.me/submissions/357cc174-5b60-4c81-b787-d92a38b2f6fc
 

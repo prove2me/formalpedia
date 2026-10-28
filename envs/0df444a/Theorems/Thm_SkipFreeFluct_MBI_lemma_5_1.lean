@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkipFreeFluct_MBI_lemma_5_1
 -- name    : SkipFreeFluct.MBI.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:41.551999+00:00
 -- url     : https://prove2.me/theorems/30ec4ca6-6396-4442-aa7e-6cbf4e789a5a

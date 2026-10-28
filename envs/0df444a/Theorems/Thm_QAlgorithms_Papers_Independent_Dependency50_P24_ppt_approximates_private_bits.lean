@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_ppt_approximates_private_bits
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.ppt_approximates_private_bits
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:19:14.150112+00:00
 -- url     : https://prove2.me/theorems/010d7ad1-f0e7-456e-831b-677beec4d96b

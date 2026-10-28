@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Polyhedral_single_period_dual_representation
 -- name    : RiskFunctionals.Polyhedral.single_period_dual_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:39.31865+00:00
 -- url     : https://prove2.me/theorems/c8fdfaca-dd2f-4b4c-b79f-8a0de3c79e0e

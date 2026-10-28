@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_distillation_rate_bound
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.distillation_rate_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:47:40.298269+00:00
 -- url     : https://prove2.me/theorems/fa058ae7-50c6-45af-81ed-57728bf1abcf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenTeboullePMD_Rate_lemma_3_2
 -- name    : ChenTeboullePMD.Rate.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:39:32.640878+00:00
 -- url     : https://prove2.me/theorems/2a427103-929d-4da4-8f73-876e43c0b177

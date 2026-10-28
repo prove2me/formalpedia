@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetCournot_Equilibrium_eq_B11
 -- name    : BudgetCournot.Equilibrium.eq_B11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:53.401714+00:00
 -- url     : https://prove2.me/theorems/d6802b42-264c-4ea0-a499-67070b9f751b

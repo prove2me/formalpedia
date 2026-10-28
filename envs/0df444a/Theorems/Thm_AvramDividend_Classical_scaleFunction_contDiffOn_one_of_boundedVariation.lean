@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiffOn_one_of_boundedVariation
 -- name    : AvramDividend.Classical.scaleFunction_contDiffOn_one_of_boundedVariation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:13:54.343322+00:00
 -- url     : https://prove2.me/theorems/d42981f3-c381-4abf-9c4e-fd654949db9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnifiedFBSDE_Rational_eq_5_8
 -- name    : UnifiedFBSDE.Rational.eq_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:18:05.796657+00:00
 -- url     : https://prove2.me/theorems/d0901b85-479a-4165-ab2f-c5cb0ee79df9

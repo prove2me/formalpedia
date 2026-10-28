@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_second_step_failure_levels
 -- name    : Erdos195.second_step_failure_levels
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:41:27.308981+00:00
 -- url     : https://prove2.me/theorems/9a903e9b-99d9-4d80-bbbc-c2d421bde8e0
 -- title:

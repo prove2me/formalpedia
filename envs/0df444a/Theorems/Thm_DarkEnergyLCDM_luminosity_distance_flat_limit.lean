@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_luminosity_distance_flat_limit
 -- name    : DarkEnergyLCDM.luminosity_distance_flat_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:06:31.29503+00:00
 -- url     : https://prove2.me/theorems/e236d8e8-28d8-4e6d-8b2c-38b7e23bb7ab

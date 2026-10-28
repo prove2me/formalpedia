@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SabanisEuler_UniformRate_maximal_inequality
 -- name    : SabanisEuler.UniformRate.maximal_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T03:53:36.712302+00:00
 -- url     : https://prove2.me/theorems/e18de885-f79c-46b6-846f-df18f005177b

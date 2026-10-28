@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankBasedSDI_LoadBalancing_remark_3_2
 -- name    : RankBasedSDI.LoadBalancing.remark_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:30:18.31332+00:00
 -- url     : https://prove2.me/theorems/2632628e-640e-43bd-8493-684be8476512

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.tree_append_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:17:47.876982+00:00
 -- url     : https://prove2.me/submissions/dd74bd9e-77d0-4b7c-ade1-d18a8d541492
 

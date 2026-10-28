@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Thomason_main
 -- name    : OAI.Thomason.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:29.453338+00:00
 -- url     : https://prove2.me/theorems/8bbf3940-1f9d-4e11-9b55-d30795e925c1

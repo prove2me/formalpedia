@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_pureInputEntropy
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.pureInputEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:26:14.115077+00:00
 -- url     : https://prove2.me/theorems/0ea6a9ea-5f18-4ce3-8563-0f93f1616edd

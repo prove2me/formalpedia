@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SphereGRF.Spectral.factorial_ratio_bounds
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:21:44.256619+00:00
 -- url     : https://prove2.me/submissions/bf4efff1-2924-4a8d-a26c-c9325100ac32
 

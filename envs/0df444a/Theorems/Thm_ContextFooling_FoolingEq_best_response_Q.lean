@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContextFooling_FoolingEq_best_response_Q
 -- name    : ContextFooling.FoolingEq.best_response_Q
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:48:41.148803+00:00
 -- url     : https://prove2.me/theorems/3a7c715b-99cc-432d-a605-0f45e5e84041

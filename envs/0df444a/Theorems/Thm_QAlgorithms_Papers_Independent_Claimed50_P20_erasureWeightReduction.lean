@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P20_erasureWeightReduction
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P20.erasureWeightReduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:29:06.500427+00:00
 -- url     : https://prove2.me/theorems/0aea8ab3-6d47-4d77-9b67-ff8053e552df

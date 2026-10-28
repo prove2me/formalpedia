@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PlanarL1_planar_graph_metrics_embed_L1
 -- name    : OAI.PlanarL1.planar_graph_metrics_embed_L1
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:04.736053+00:00
 -- url     : https://prove2.me/theorems/f8bb6aa4-8d4d-466d-91ce-0641623df18f

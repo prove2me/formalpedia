@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_safe_odd_affine_iff
 -- name    : Erdos195.safe_odd_affine_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:11:11.753496+00:00
 -- url     : https://prove2.me/theorems/3476741b-5a9c-46e6-9e90-97cc80942d44
 -- title:

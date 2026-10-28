@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Random_theorem_6_13
 -- name    : YeIPA.Random.theorem_6_13
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:02.224602+00:00
 -- url     : https://prove2.me/theorems/a2ef8cdb-b791-4da5-b8f6-9e3ae96222c4

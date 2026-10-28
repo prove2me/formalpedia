@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_target_last_released
 -- name    : Erdos195.target_last_released
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T14:09:59.159682+00:00
 -- url     : https://prove2.me/theorems/204f2435-e630-4546-9dab-2813033451d8
 -- title:

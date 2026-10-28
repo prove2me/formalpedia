@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_StandardMapEntropy_main_entropy_complete
 -- name    : OAI.StandardMapEntropy.main_entropy_complete
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:26.42644+00:00
 -- url     : https://prove2.me/theorems/aad7574f-bf82-4c66-90c9-c6f78749842a

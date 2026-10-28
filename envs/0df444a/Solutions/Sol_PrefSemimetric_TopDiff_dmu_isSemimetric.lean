@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PrefSemimetric.TopDiff.dmu_isSemimetric
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:55:05.61792+00:00
 -- url     : https://prove2.me/submissions/7e73329b-f77c-4cc2-942f-3f178b3e62db
 

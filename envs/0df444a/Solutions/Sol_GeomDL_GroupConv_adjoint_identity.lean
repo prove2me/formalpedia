@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.GroupConv.adjoint_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:38:00.910886+00:00
 -- url     : https://prove2.me/submissions/0faa305b-ce56-4997-b022-fa07b670b7d5
 

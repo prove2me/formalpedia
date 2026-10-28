@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_rolle_weak
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.rolle_weak
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:45:57.142601+00:00
 -- url     : https://prove2.me/theorems/3580b254-0bce-4809-b653-5716ca9e9f98

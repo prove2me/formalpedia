@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_cxR8_p14NeedG
 -- name    : IntMul.Kappa.R8.cxR8_p14NeedG
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:05:17.23662+00:00
 -- url     : https://prove2.me/theorems/e57897ba-00e0-447c-a10f-54aafc7745d5
 -- title:

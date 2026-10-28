@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMembership_PerfectInfo_proposition_1_allocation
 -- name    : CryptoMembership.PerfectInfo.proposition_1_allocation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:47.148977+00:00
 -- url     : https://prove2.me/theorems/cfb8e4a0-5e56-4ef9-a8b9-2bf97ab36f00

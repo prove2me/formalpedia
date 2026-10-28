@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DatkoDelayWave_BoundaryDelay_theorem_i_uniform_decay
 -- name    : DatkoDelayWave.BoundaryDelay.theorem_i_uniform_decay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:00:36.227212+00:00
 -- url     : https://prove2.me/theorems/675fde4f-17d5-4110-a402-7c0ca8b9d35d

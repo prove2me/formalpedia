@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P06_tensor_homology_kunneth
 -- name    : QAlgorithms.Papers.Independent.Independent1.P06.tensor_homology_kunneth
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:44:09.620864+00:00
 -- url     : https://prove2.me/theorems/4b0147b0-1f79-4998-b7e1-14b25d5fb17b

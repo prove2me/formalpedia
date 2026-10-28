@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_rep_iff_int
 -- name    : Erdos261.rep_iff_int
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:46:48.685565+00:00
 -- url     : https://prove2.me/theorems/1134ce7f-a55d-4cd1-bf8b-7d63c37b3d7d
 -- title:

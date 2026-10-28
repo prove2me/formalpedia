@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_bounded_word_prime_selection
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmic_bounded_word_prime_selection
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:41:36.79421+00:00
 -- url     : https://prove2.me/theorems/c116c9ad-0335-4a5c-99fe-cdc8eb2834c8

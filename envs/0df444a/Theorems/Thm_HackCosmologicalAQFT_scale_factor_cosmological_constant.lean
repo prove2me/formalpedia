@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HackCosmologicalAQFT_scale_factor_cosmological_constant
 -- name    : HackCosmologicalAQFT.scale_factor_cosmological_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:45.560908+00:00
 -- url     : https://prove2.me/theorems/6d356da6-6461-40d8-a549-ca3fd57f5e0f

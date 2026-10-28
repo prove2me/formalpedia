@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ObliviousRAM.LowerBound.counting_inequality
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:50:07.687812+00:00
 -- url     : https://prove2.me/submissions/d4c0e4b2-1669-47b2-8f2a-98162d999029
 

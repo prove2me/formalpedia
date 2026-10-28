@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_single_inversion_iff
 -- name    : Erdos195.single_inversion_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T20:29:43.578993+00:00
 -- url     : https://prove2.me/theorems/bccc2e53-053a-438f-a3fe-b422c1919bfc
 -- title:

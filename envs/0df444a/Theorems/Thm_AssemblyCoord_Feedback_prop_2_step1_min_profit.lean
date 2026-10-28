@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssemblyCoord_Feedback_prop_2_step1_min_profit
 -- name    : AssemblyCoord.Feedback.prop_2_step1_min_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:35.037283+00:00
 -- url     : https://prove2.me/theorems/db68a0a4-0b96-4a58-8dea-2c10f9d09d06

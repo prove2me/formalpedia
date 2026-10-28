@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FiniteAlgebraicEnvelopes_embedsInFinitelyPresentedSimpleGroup_of_hasDecidableWordProblem
 -- name    : OAI.FiniteAlgebraicEnvelopes.embedsInFinitelyPresentedSimpleGroup_of_hasDecidableWordProblem
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-12T15:41:24.591306+00:00
 -- url     : https://prove2.me/theorems/d9d8eb37-cf54-44e8-8b50-4cb12ce7e142

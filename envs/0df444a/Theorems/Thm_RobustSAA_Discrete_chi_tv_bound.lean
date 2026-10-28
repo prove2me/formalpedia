@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Discrete_chi_tv_bound
 -- name    : RobustSAA.Discrete.chi_tv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:17:02.065718+00:00
 -- url     : https://prove2.me/theorems/9db24446-e3a0-4a98-aa1a-17b8a90a26d4

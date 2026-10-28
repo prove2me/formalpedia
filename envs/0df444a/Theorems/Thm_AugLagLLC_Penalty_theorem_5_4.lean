@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AugLagLLC_Penalty_theorem_5_4
 -- name    : AugLagLLC.Penalty.theorem_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:38:37.945496+00:00
 -- url     : https://prove2.me/theorems/3fe5a505-2853-4473-9957-3c19a0f551b4

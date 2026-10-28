@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Intersectionality_Reductive_lemma_3
 -- name    : Intersectionality.Reductive.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:11.015977+00:00
 -- url     : https://prove2.me/theorems/379e093b-2f7c-4a24-89ff-50c5e52fbad9

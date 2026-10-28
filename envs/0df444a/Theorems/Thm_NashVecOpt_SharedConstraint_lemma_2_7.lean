@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashVecOpt_SharedConstraint_lemma_2_7
 -- name    : NashVecOpt.SharedConstraint.lemma_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:05:59.055226+00:00
 -- url     : https://prove2.me/theorems/9b97caba-4a4c-4f28-8ee3-1f41ae501f58

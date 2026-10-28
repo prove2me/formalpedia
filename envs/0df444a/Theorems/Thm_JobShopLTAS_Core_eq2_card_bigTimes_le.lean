@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JobShopLTAS_Core_eq2_card_bigTimes_le
 -- name    : JobShopLTAS.Core.eq2_card_bigTimes_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:38:05.059984+00:00
 -- url     : https://prove2.me/theorems/a789ade2-1049-4df8-9b03-d59d41f6fb62

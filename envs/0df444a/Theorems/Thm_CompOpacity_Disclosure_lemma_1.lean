@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOpacity_Disclosure_lemma_1
 -- name    : CompOpacity.Disclosure.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:51:38.300172+00:00
 -- url     : https://prove2.me/theorems/f72b1f0e-e5f8-49ab-84f3-486c882401ae

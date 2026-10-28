@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CatSymplectic.Hemistrict.diagram_three
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:33:43.552388+00:00
 -- url     : https://prove2.me/submissions/8e8ac959-08a0-40c8-9e16-c35064af7d0b
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P37_classicalMonotones
 -- name    : QAlgorithms.Papers.Independent.Renew46.P37.classicalMonotones
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T22:10:52.860903+00:00
 -- url     : https://prove2.me/theorems/f82b4905-5823-40d9-afe3-ab6e7ef2d4e9

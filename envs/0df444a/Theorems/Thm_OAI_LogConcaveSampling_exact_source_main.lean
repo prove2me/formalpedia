@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LogConcaveSampling_exact_source_main
 -- name    : OAI.LogConcaveSampling.exact_source_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:54.182122+00:00
 -- url     : https://prove2.me/theorems/e63761aa-9c7e-438b-afb0-050c2892e625

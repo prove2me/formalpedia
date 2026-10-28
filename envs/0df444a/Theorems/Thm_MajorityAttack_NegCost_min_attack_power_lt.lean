@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MajorityAttack_NegCost_min_attack_power_lt
 -- name    : MajorityAttack.NegCost.min_attack_power_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:10.657965+00:00
 -- url     : https://prove2.me/theorems/635fdedf-c70f-43ca-9481-64c21fc44ac0

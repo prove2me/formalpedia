@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuityEqWiki_fourDiv_fourCurrent
 -- name    : ContinuityEqWiki.fourDiv_fourCurrent
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:56.118685+00:00
 -- url     : https://prove2.me/theorems/ec73a9db-0036-4d5b-8c05-ed1ccec7b48a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedPointAA_Main_reduction_to_plane
 -- name    : FixedPointAA.Main.reduction_to_plane
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:02.742304+00:00
 -- url     : https://prove2.me/theorems/ef75eb90-c923-41c5-913f-cd02316c209c

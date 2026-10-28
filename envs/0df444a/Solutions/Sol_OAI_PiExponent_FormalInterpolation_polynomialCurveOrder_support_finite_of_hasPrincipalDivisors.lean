@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.polynomialCurveOrder_support_finite_of_hasPrincipalDivisors
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:12:22.848813+00:00
 -- url     : https://prove2.me/submissions/6ce310b7-31d5-4cc0-9f32-f4d4982389cb
 

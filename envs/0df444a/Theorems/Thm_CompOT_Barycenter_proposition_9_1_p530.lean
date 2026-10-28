@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Barycenter_proposition_9_1_p530
 -- name    : CompOT.Barycenter.proposition_9_1_p530
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:43.961989+00:00
 -- url     : https://prove2.me/theorems/59cf005c-eff4-4c8d-b421-6a1acceb2a9d

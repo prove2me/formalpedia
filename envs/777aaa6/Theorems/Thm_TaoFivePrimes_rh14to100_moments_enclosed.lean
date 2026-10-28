@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh14to100_moments_enclosed
 -- name    : TaoFivePrimes.rh14to100_moments_enclosed
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:51:59.669838+00:00
 -- url     : https://prove2.me/theorems/1133de2e-7a20-4ee9-b4cb-01410062dc57
 -- title:

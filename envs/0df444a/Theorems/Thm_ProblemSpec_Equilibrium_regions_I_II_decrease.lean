@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProblemSpec_Equilibrium_regions_I_II_decrease
 -- name    : ProblemSpec.Equilibrium.regions_I_II_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:27.347238+00:00
 -- url     : https://prove2.me/theorems/45961d33-f776-4fcb-bc48-4592cadb49c4

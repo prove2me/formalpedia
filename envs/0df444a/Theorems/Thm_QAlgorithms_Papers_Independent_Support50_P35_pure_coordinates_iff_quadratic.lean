@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_pure_coordinates_iff_quadratic
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.pure_coordinates_iff_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:42:28.819323+00:00
 -- url     : https://prove2.me/theorems/e42d074e-eef2-41ed-a494-e0fde9086a0e

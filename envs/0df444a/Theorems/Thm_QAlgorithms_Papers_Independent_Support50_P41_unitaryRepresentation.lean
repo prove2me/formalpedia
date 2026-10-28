@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_unitaryRepresentation
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.unitaryRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:12:46.753552+00:00
 -- url     : https://prove2.me/theorems/b368c9f6-9261-45da-aa2b-c7302fd0ecfa

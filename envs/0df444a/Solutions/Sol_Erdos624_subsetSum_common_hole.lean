@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.subsetSum_common_hole
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:41:08.802048+00:00
 -- url     : https://prove2.me/submissions/af4d42a7-f2b1-404e-a87a-026f5c7c26ba
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P10_so3_exact_denominator_lowering
 -- name    : QAlgorithms.Papers.Independent.Gap48.P10.so3_exact_denominator_lowering
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:26:20.975577+00:00
 -- url     : https://prove2.me/theorems/89732163-873e-4469-8a45-9e181be51437

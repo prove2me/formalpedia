@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_compact_fenchel_duality
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.compact_fenchel_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:05:37.631198+00:00
 -- url     : https://prove2.me/theorems/bd15a3d0-ca96-4ad9-bf44-d69b88093ee8

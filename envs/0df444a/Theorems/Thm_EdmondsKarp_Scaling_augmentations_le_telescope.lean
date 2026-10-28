@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_Scaling_augmentations_le_telescope
 -- name    : EdmondsKarp.Scaling.augmentations_le_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:27:18.168213+00:00
 -- url     : https://prove2.me/theorems/ccf6c51c-5a59-4995-82df-96f21b02cc19

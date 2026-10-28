@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BHTOpinion_Discrete_order_preservation
 -- name    : BHTOpinion.Discrete.order_preservation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:42.947078+00:00
 -- url     : https://prove2.me/theorems/ca64ddfd-618e-4078-b85b-9ca691d1b719

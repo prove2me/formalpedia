@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_Routing_reserve_at_most_once
 -- name    : KellyLossNetworks.Routing.reserve_at_most_once
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:10:47.412795+00:00
 -- url     : https://prove2.me/theorems/42a6ecf2-b5fd-4713-ad9a-1e78733e4354

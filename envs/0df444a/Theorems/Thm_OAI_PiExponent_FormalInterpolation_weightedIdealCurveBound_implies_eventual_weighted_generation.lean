@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_weightedIdealCurveBound_implies_eventual_weighted_generation
 -- name    : OAI.PiExponent.FormalInterpolation.weightedIdealCurveBound_implies_eventual_weighted_generation
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:08:54.878264+00:00
 -- url     : https://prove2.me/theorems/d81695f5-3da7-439d-8cdc-d9c87e919fcf
 -- title:

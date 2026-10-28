@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MConvexL1_SD_lemma_A_2
 -- name    : MConvexL1.SD.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:45:35.286868+00:00
 -- url     : https://prove2.me/theorems/603d64e5-3a58-4952-8b2b-0e142cb6cf15

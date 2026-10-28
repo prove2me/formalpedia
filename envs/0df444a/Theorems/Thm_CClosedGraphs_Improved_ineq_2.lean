@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Improved_ineq_2
 -- name    : CClosedGraphs.Improved.ineq_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:18.977176+00:00
 -- url     : https://prove2.me/theorems/11f3a180-a1c0-4a12-b6ee-a4f9a625f429

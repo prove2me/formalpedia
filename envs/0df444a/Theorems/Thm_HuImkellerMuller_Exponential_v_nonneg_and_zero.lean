@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HuImkellerMuller_Exponential_v_nonneg_and_zero
 -- name    : HuImkellerMuller.Exponential.v_nonneg_and_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:53:01.58592+00:00
 -- url     : https://prove2.me/theorems/3507df1e-80f6-458d-8fc7-c8f622732247

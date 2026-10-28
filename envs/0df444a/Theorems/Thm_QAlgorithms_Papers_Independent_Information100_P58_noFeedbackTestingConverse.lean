@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_noFeedbackTestingConverse
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.noFeedbackTestingConverse
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:14:29.634326+00:00
 -- url     : https://prove2.me/theorems/ddc256a6-376f-4137-bb23-b0d987fb0f8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_partialIsometricEncoding_suffices
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.partialIsometricEncoding_suffices
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:18:59.989008+00:00
 -- url     : https://prove2.me/theorems/35470663-a487-49bf-8a54-9c6969a2b6d1

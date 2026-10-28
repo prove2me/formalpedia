@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_pair_reaches_sink
 -- name    : Erdos195.open_pair_reaches_sink
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T23:42:34.701264+00:00
 -- url     : https://prove2.me/theorems/5b928c23-7fb0-4363-bb1c-ae4922a7119d
 -- title:

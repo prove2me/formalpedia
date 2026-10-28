@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_Robust_dual_measure_rep
 -- name    : ChanceStateCtrl.Robust.dual_measure_rep
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:31.663892+00:00
 -- url     : https://prove2.me/theorems/cf92d415-7fde-410a-928b-83fdc2c11ce6

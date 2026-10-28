@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_imputations_of_inessential_essential
 -- name    : TheoryOfGames.ThreePerson.imputations_of_inessential_essential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:24:22.28048+00:00
 -- url     : https://prove2.me/theorems/06dc0fec-35c9-4b83-b0d7-5dea7871a5b6

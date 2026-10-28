@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FullQuadratic_fqOp_essentiallySelfAdjoint
 -- name    : BookProof.FullQuadratic.fqOp_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T22:45:39.360687+00:00
 -- url     : https://prove2.me/theorems/11388cb5-a488-4570-9649-f046ff9c8f22

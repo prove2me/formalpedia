@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryPred_LearnedDynkin_case_ii
 -- name    : SecretaryPred.LearnedDynkin.case_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:24.34379+00:00
 -- url     : https://prove2.me/theorems/52b6a622-2d87-47ec-9dac-bf5b2113d86c

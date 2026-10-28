@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothCCP_PenaltyModel_lemma_2_1
 -- name    : SmoothCCP.PenaltyModel.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:26.012192+00:00
 -- url     : https://prove2.me/theorems/9f648733-148f-456b-8079-28f169a1da63

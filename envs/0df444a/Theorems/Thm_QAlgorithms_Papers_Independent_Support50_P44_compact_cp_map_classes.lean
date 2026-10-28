@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P44_compact_cp_map_classes
 -- name    : QAlgorithms.Papers.Independent.Support50.P44.compact_cp_map_classes
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:04:34.003353+00:00
 -- url     : https://prove2.me/theorems/3b8ea7ff-0226-4621-9553-0cb11a8e97e9

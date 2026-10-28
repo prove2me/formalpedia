@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_L2Rule_smooth_ae_eq_of_L2div_eq_zero
 -- name    : MultivarScores.L2Rule.smooth_ae_eq_of_L2div_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:30:27.469735+00:00
 -- url     : https://prove2.me/theorems/be9ad5af-ff26-4370-8967-0b863ed8adc7

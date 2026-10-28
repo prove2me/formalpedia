@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.finite_injective_immersion_from_separating_family_main
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:14:42.629282+00:00
 -- url     : https://prove2.me/submissions/1f3ac896-d678-4a2e-b743-b432e42da5f8
 

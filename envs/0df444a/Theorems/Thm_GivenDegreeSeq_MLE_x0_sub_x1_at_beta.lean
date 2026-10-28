@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_MLE_x0_sub_x1_at_beta
 -- name    : GivenDegreeSeq.MLE.x0_sub_x1_at_beta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:44:10.735894+00:00
 -- url     : https://prove2.me/theorems/7dd495bd-340c-40c1-89f3-2693b2685b40

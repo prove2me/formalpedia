@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_beta1_le_gamma1
 -- name    : ScheduledQueue.Stability.beta1_le_gamma1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:07:52.27898+00:00
 -- url     : https://prove2.me/theorems/57257fb1-141d-490a-ac31-c92b4e43e40f

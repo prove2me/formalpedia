@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_no_escape_two_centres
 -- name    : Erdos195.no_escape_two_centres
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:07:17.877046+00:00
 -- url     : https://prove2.me/theorems/6b2853e6-1534-4d24-b5aa-76ba32e6c896
 -- title:

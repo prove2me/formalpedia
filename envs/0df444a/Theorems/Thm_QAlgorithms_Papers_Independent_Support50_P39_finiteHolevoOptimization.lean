@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P39_finiteHolevoOptimization
 -- name    : QAlgorithms.Papers.Independent.Support50.P39.finiteHolevoOptimization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:59:44.464988+00:00
 -- url     : https://prove2.me/theorems/c3ca58e9-9eb1-4fa8-9354-d0b209395d35

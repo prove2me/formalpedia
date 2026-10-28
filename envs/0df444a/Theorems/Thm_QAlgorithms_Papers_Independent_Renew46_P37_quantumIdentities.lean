@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P37_quantumIdentities
 -- name    : QAlgorithms.Papers.Independent.Renew46.P37.quantumIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T22:24:08.746922+00:00
 -- url     : https://prove2.me/theorems/0a4c3d61-94bd-4e3f-b36f-d7cceac34793

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FZEchelon_AverageCost_lemma5_policy_average_cost
 -- name    : FZEchelon.AverageCost.lemma5_policy_average_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:43:18.151418+00:00
 -- url     : https://prove2.me/theorems/b67852fd-6593-4e5a-a297-f83e2119e292

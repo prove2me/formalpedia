@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrainedQueueing_Nonstationary_theorem_4_1
 -- name    : ConstrainedQueueing.Nonstationary.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:01.997867+00:00
 -- url     : https://prove2.me/theorems/6d298117-b623-4879-9e9b-5710893e1860

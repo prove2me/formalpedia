@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_BayesianModels_theorem_5_5_2
 -- name    : MDPFinance.BayesianModels.theorem_5_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:20:33.904201+00:00
 -- url     : https://prove2.me/theorems/d54edb65-410b-4133-a36f-3648f19dde82

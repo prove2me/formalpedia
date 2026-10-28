@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_adenwalla_fiveAP_free
 -- name    : Erdos195.adenwalla_fiveAP_free
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:33:14.706996+00:00
 -- url     : https://prove2.me/theorems/64154951-da85-4e04-95ac-c66c24415a84
 -- title:

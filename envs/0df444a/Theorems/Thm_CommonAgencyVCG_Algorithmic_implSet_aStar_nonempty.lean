@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonAgencyVCG_Algorithmic_implSet_aStar_nonempty
 -- name    : CommonAgencyVCG.Algorithmic.implSet_aStar_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:35.946316+00:00
 -- url     : https://prove2.me/theorems/f46c33e6-c23c-48be-bf0a-2898bd5ee4f5

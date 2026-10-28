@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobertsonSeymour1991_GM10_Minimax_result_2_8_no_edge
 -- name    : RobertsonSeymour1991.GM10.Minimax.result_2_8_no_edge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:01:56.700196+00:00
 -- url     : https://prove2.me/theorems/803f91b6-af8b-49bd-a9d7-9590d079a3b8

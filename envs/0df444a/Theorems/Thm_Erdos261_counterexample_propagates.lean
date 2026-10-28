@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_counterexample_propagates
 -- name    : Erdos261.counterexample_propagates
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:46:55.934974+00:00
 -- url     : https://prove2.me/theorems/b4c7ff49-3177-4a6f-a9ec-5192622607ab
 -- title:

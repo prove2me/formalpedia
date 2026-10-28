@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolarTariff_Fair_adoption_threshold
 -- name    : SolarTariff.Fair.adoption_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:22.928573+00:00
 -- url     : https://prove2.me/theorems/2373923f-1e1a-4030-b831-0a0cba70e3d6

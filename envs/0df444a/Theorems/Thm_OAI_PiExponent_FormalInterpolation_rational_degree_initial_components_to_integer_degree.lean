@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_rational_degree_initial_components_to_integer_degree
 -- name    : OAI.PiExponent.FormalInterpolation.rational_degree_initial_components_to_integer_degree
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:03:17.013845+00:00
 -- url     : https://prove2.me/theorems/9dfd197f-100a-4cc6-88bf-78a2dd0c9251

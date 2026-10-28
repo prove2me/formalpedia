@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPECRelax_ScholtesConv_eventually_index_inclusions
 -- name    : MPECRelax.ScholtesConv.eventually_index_inclusions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:51:52.993609+00:00
 -- url     : https://prove2.me/theorems/925d1dd5-d837-42e3-82be-f6b25abcfdf7

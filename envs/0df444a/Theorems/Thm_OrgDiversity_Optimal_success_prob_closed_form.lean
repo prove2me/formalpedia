@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrgDiversity_Optimal_success_prob_closed_form
 -- name    : OrgDiversity.Optimal.success_prob_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:05.386153+00:00
 -- url     : https://prove2.me/theorems/cc2d1580-91ab-4dba-b143-dd9b25c49cfb

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.zero_u_single_helper_classification
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:52:34.051903+00:00
 -- url     : https://prove2.me/submissions/1127f1a4-7ec8-40f0-8d68-74541ae5ed9e
 

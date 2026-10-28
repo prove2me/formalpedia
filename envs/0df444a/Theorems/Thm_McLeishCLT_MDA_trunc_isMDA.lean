@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_McLeishCLT_MDA_trunc_isMDA
 -- name    : McLeishCLT.MDA.trunc_isMDA
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:31:58.471156+00:00
 -- url     : https://prove2.me/theorems/1953bd43-5d4b-46af-a3b9-b2a744ab5867

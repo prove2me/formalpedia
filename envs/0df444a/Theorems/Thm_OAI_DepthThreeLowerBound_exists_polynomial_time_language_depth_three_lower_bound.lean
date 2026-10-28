@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DepthThreeLowerBound_exists_polynomial_time_language_depth_three_lower_bound
 -- name    : OAI.DepthThreeLowerBound.exists_polynomial_time_language_depth_three_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:33.991019+00:00
 -- url     : https://prove2.me/theorems/ca5d3ba9-a9f6-4ccf-89f5-df5470b07771

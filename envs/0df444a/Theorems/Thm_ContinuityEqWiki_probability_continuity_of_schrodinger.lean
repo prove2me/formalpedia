@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuityEqWiki_probability_continuity_of_schrodinger
 -- name    : ContinuityEqWiki.probability_continuity_of_schrodinger
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:26.035382+00:00
 -- url     : https://prove2.me/theorems/60e52e3e-fc63-4a26-adfb-a50776817934

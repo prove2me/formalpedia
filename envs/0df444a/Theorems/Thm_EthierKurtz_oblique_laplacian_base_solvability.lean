@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_laplacian_base_solvability
 -- name    : EthierKurtz.oblique_laplacian_base_solvability
--- status  : Open
+-- status  : Disproved
 -- author  : @caleb
 -- created : 2026-10-07T18:37:14.10004+00:00
 -- url     : https://prove2.me/theorems/f0119421-052f-4535-b23c-0be3501204a1

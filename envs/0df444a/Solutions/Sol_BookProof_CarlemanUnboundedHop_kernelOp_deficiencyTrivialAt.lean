@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.CarlemanUnboundedHop.kernelOp_deficiencyTrivialAt
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:54:53.296604+00:00
 -- url     : https://prove2.me/submissions/8654787a-a06d-4b30-a88e-826a8fd327d0
 

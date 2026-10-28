@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxMethodVI_Rate_prop2_2_ii_ergodic_bound
 -- name    : ProxMethodVI.Rate.prop2_2_ii_ergodic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:12:10.028242+00:00
 -- url     : https://prove2.me/theorems/50c932da-ea73-4b3f-874c-2bb5b85f8814

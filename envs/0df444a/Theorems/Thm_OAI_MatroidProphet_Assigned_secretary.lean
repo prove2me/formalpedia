@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatroidProphet_Assigned_secretary
 -- name    : OAI.MatroidProphet.Assigned.secretary
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:55.993752+00:00
 -- url     : https://prove2.me/theorems/cc526310-02ec-4237-9353-8c5ae5150590

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Nintendo_pokemon_np
 -- name    : Nintendo.pokemon_np
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T11:09:00.447775+00:00
 -- url     : https://prove2.me/theorems/47654ab8-c65e-4921-8ab9-de868e7b79f8

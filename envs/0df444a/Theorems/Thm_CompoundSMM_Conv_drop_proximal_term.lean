@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompoundSMM_Conv_drop_proximal_term
 -- name    : CompoundSMM.Conv.drop_proximal_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:41.045281+00:00
 -- url     : https://prove2.me/theorems/d230a241-f978-4db4-ae45-6c6aa278053e

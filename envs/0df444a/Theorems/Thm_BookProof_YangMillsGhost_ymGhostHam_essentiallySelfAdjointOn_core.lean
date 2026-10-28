@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsGhost_ymGhostHam_essentiallySelfAdjointOn_core
 -- name    : BookProof.YangMillsGhost.ymGhostHam_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-09-18T01:13:36.609811+00:00
 -- url     : https://prove2.me/theorems/9916bc1a-0df8-45f9-bc4e-33f930c21841

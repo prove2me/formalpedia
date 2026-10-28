@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PicardFO_Fulfill_eq_8_to_10_exchange
 -- name    : PicardFO.Fulfill.eq_8_to_10_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:39.795154+00:00
 -- url     : https://prove2.me/theorems/104aa37a-7977-4ffa-a4c4-648d5a90531e

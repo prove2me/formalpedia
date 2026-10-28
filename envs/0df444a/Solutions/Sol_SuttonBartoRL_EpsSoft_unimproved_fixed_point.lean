@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.EpsSoft.unimproved_fixed_point
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:11:11.585135+00:00
 -- url     : https://prove2.me/submissions/df5c52f6-170b-44f1-b7c4-4787f2161624
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Symmetric_rounding_satisfies
 -- name    : PCSPBLPAff.Symmetric.rounding_satisfies
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:36.333608+00:00
 -- url     : https://prove2.me/theorems/dd8f96c9-0b32-421d-8362-cdcae066355b

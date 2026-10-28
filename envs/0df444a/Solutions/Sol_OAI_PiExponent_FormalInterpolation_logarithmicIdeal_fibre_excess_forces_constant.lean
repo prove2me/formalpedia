@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.logarithmicIdeal_fibre_excess_forces_constant
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:21:28.779931+00:00
 -- url     : https://prove2.me/submissions/e0d43863-4e5c-441f-bb3d-f33f26f542ea
 -- note    : a sketch -- it imports a theorem that is still Open,

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P11_horodecki_ppt_fidelity
 -- name    : QAlgorithms.Papers.Independent.Support50.P11.horodecki_ppt_fidelity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:06:49.307883+00:00
 -- url     : https://prove2.me/theorems/b2f02da9-1a52-4e4c-b24c-2531f3bed72d

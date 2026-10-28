@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.safe_odd_affine_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:11:50.461751+00:00
 -- url     : https://prove2.me/submissions/b433cec1-ec3b-4d9b-b77e-0ae9a34e7d5c
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketFreeze_Hetero_eq_A9_indifference
 -- name    : MarketFreeze.Hetero.eq_A9_indifference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:46.695234+00:00
 -- url     : https://prove2.me/theorems/3793c1f3-8e91-4b96-83ff-b1732adf870b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat03_grid_stopped_scale_payoff_optional_stopping
 -- name    : AvramDividend.Classical.chat03_grid_stopped_scale_payoff_optional_stopping
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-21T04:46:57.209779+00:00
 -- url     : https://prove2.me/theorems/ee165062-110d-4b4e-8683-6f57c532819d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LoopMatching_fullEndpoint
 -- name    : OAI.LoopMatching.fullEndpoint
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:54.377306+00:00
 -- url     : https://prove2.me/theorems/0d49ff1c-c859-49b9-8078-3af4fd98a347

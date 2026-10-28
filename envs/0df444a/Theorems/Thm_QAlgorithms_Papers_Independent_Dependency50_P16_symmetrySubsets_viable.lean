@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_symmetrySubsets_viable
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.symmetrySubsets_viable
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:47:14.266726+00:00
 -- url     : https://prove2.me/theorems/f69124c2-affd-4b67-8bd2-2ce4591816cd

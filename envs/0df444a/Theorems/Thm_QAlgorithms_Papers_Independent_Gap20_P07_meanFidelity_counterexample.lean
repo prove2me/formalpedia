@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P07_meanFidelity_counterexample
 -- name    : QAlgorithms.Papers.Independent.Gap20.P07.meanFidelity_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T07:21:40.22406+00:00
 -- url     : https://prove2.me/theorems/ca2e29f0-a2c4-45d1-a021-ef0e35366c7e

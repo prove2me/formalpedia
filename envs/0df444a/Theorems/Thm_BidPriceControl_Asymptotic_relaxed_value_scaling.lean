@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_relaxed_value_scaling
 -- name    : BidPriceControl.Asymptotic.relaxed_value_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:38:19.860178+00:00
 -- url     : https://prove2.me/theorems/c9607345-0cb9-4be8-823a-3a3e78a8acb2

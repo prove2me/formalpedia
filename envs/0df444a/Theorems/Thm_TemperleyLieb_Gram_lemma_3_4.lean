@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TemperleyLieb_Gram_lemma_3_4
 -- name    : TemperleyLieb.Gram.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:44:37.462999+00:00
 -- url     : https://prove2.me/theorems/5746f8f4-6bd3-4280-a8ba-1511c45dc8cf

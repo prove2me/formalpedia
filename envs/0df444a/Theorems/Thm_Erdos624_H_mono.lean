@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_H_mono
 -- name    : Erdos624.H_mono
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:46:51.156589+00:00
 -- url     : https://prove2.me/theorems/f6353f22-cc43-465a-be67-a1723c6094e1
 -- title:

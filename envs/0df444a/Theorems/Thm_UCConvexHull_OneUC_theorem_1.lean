@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UCConvexHull_OneUC_theorem_1
 -- name    : UCConvexHull.OneUC.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:16.34311+00:00
 -- url     : https://prove2.me/theorems/04db5c6b-ddd0-4e4f-93d5-54fe79b452f7

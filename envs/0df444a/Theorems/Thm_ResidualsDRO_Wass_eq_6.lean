@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResidualsDRO_Wass_eq_6
 -- name    : ResidualsDRO.Wass.eq_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:12:53.766408+00:00
 -- url     : https://prove2.me/theorems/8d108d4c-ef4c-4294-aff4-22718c0c490e

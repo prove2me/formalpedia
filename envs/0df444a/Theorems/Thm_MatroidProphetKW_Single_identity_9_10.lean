@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidProphetKW_Single_identity_9_10
 -- name    : MatroidProphetKW.Single.identity_9_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:29.654258+00:00
 -- url     : https://prove2.me/theorems/5a63e6d0-939d-47f6-9e15-76bda841d7b5

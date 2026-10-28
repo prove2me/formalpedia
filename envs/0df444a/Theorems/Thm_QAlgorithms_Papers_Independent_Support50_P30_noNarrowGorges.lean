@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P30_noNarrowGorges
 -- name    : QAlgorithms.Papers.Independent.Support50.P30.noNarrowGorges
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:30:39.395423+00:00
 -- url     : https://prove2.me/theorems/07936235-d6f6-404e-a220-c3e5a1f6d70e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_VariableWL_main
 -- name    : OAI.VariableWL.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:37.404584+00:00
 -- url     : https://prove2.me/theorems/c3edea93-3cde-4046-a1e9-4390dad99d2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_E2D_confidence_sets_contain_truth
 -- name    : StatComplexityDM.E2D.confidence_sets_contain_truth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:41.635404+00:00
 -- url     : https://prove2.me/theorems/0cb9d276-9bfa-4bd9-8a01-df3d55e7cf16

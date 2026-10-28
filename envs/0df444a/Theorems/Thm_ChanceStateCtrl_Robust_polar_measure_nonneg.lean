@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_Robust_polar_measure_nonneg
 -- name    : ChanceStateCtrl.Robust.polar_measure_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:40.96367+00:00
 -- url     : https://prove2.me/theorems/613b6abf-86f6-4f55-b229-baa59bbf3a2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_step3_case2_add_product
 -- name    : MultiStoreAssort.SQR.step3_case2_add_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:11.890289+00:00
 -- url     : https://prove2.me/theorems/3cba6f9e-d3d3-4077-8ddd-e0272f327c1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P03_standard_form_diagonalization
 -- name    : QAlgorithms.Papers.Independent.Support50.P03.standard_form_diagonalization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:23:46.179922+00:00
 -- url     : https://prove2.me/theorems/3d1965b5-02d9-4bed-90bf-984a97f59a62

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.early_reps_extrema
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:05:46.293319+00:00
 -- url     : https://prove2.me/submissions/eabdf0a3-42bc-4404-9314-f39e578393b5
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EkelandVP_Constraints_theorem_3_1
 -- name    : EkelandVP.Constraints.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T11:16:03.715177+00:00
 -- url     : https://prove2.me/theorems/d8a9203c-86d6-4b97-8875-02f26bd04a7d

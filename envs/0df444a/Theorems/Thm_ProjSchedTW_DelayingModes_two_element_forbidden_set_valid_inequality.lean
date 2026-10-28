@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_DelayingModes_two_element_forbidden_set_valid_inequality
 -- name    : ProjSchedTW.DelayingModes.two_element_forbidden_set_valid_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T23:05:45.628126+00:00
 -- url     : https://prove2.me/theorems/970ac3c2-4424-423b-a71e-4a08800ef437

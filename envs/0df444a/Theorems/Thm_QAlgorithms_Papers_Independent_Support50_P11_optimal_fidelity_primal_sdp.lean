@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P11_optimal_fidelity_primal_sdp
 -- name    : QAlgorithms.Papers.Independent.Support50.P11.optimal_fidelity_primal_sdp
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:05:04.779851+00:00
 -- url     : https://prove2.me/theorems/a746815f-ea7a-4675-8a64-653cdefdf1c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WernerExt_TwoSided_min_casimir
 -- name    : WernerExt.TwoSided.min_casimir
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:43:41.657221+00:00
 -- url     : https://prove2.me/theorems/c69dc68b-abe1-4ff7-be70-5806efa3d9e2

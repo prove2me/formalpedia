@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_boundary_commonHole
 -- name    : Erdos624.boundary_commonHole
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:14.054369+00:00
 -- url     : https://prove2.me/theorems/37afb8ef-8997-4b61-898d-78ddd6d48da1
 -- title:

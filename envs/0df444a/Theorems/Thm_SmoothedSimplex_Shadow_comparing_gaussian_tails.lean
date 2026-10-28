@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothedSimplex_Shadow_comparing_gaussian_tails
 -- name    : SmoothedSimplex.Shadow.comparing_gaussian_tails
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T12:47:50.320235+00:00
 -- url     : https://prove2.me/theorems/c587c5be-4961-4577-8242-9fb1e15159ca

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_cycle_blocks_exhaustive_chain
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:37:58.879802+00:00
 -- url     : https://prove2.me/submissions/231f340a-18cb-4481-9d84-f9b47300eae2
 

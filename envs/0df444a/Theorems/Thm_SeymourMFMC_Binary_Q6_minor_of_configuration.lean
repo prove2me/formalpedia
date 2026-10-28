@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeymourMFMC_Binary_Q6_minor_of_configuration
 -- name    : SeymourMFMC.Binary.Q6_minor_of_configuration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T05:09:49.446665+00:00
 -- url     : https://prove2.me/theorems/0b5b1d3e-8d49-46f6-8cb0-72f9f2e00377

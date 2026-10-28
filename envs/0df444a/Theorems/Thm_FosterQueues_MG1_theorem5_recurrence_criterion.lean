@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FosterQueues_MG1_theorem5_recurrence_criterion
 -- name    : FosterQueues.MG1.theorem5_recurrence_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:20:25.694641+00:00
 -- url     : https://prove2.me/theorems/2bc5ac8f-2452-42cf-ad46-1a729dad81fd

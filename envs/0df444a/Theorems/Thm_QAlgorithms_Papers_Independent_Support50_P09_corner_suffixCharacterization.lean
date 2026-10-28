@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_corner_suffixCharacterization
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.corner_suffixCharacterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:53:59.166188+00:00
 -- url     : https://prove2.me/theorems/4ed74406-69df-483a-943a-9d7bf3ba80ab

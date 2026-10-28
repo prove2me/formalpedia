@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P32_conditional_fannes_common_classical_basis
 -- name    : QAlgorithms.Papers.Independent.Gap48.P32.conditional_fannes_common_classical_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:40:55.50802+00:00
 -- url     : https://prove2.me/theorems/140309ef-6265-4dc9-ac33-9224f79e2890

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_stdNormalPDF_dPlus_balance
 -- name    : BlackScholesModel.stdNormalPDF_dPlus_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T12:46:42.179989+00:00
 -- url     : https://prove2.me/theorems/e18693f5-1d41-44ff-8afb-b18c580650e9

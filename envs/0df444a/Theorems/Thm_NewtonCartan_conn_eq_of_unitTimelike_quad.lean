@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_conn_eq_of_unitTimelike_quad
 -- name    : NewtonCartan.conn_eq_of_unitTimelike_quad
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:58:00.045983+00:00
 -- url     : https://prove2.me/theorems/22a274a5-f6f7-4e15-8218-7705460d127c
 -- title:

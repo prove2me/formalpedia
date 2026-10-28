@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.finite_log_minor_arithmetic_controls
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:26:08.985572+00:00
 -- url     : https://prove2.me/submissions/6df1d84c-cc2d-4e72-bfda-75fffc9af7e3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_PiExponent_FiniteMinorComparison
 import Theorems.Thm_OAI_PiExponent_finite_log_minor_mean_bounds

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.block_reflection_absorption
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T14:33:45.023728+00:00
 -- url     : https://prove2.me/submissions/c061bfda-98c0-4b27-a967-9587fb19907f
 

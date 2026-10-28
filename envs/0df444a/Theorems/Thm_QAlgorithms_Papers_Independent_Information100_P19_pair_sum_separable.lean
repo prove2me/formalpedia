@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_pair_sum_separable
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.pair_sum_separable
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:55:13.459988+00:00
 -- url     : https://prove2.me/theorems/7c114557-1c3d-4b6f-b01e-7a805b6641d3

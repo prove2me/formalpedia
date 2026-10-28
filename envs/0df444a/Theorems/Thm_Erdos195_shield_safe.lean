@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_shield_safe
 -- name    : Erdos195.shield_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:37:55.694657+00:00
 -- url     : https://prove2.me/theorems/9f4e31eb-0c28-4d69-bd90-0b883712d6a5
 -- title:

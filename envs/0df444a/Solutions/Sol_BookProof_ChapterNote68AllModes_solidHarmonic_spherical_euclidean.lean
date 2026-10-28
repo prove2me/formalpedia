@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.ChapterNote68AllModes.solidHarmonic_spherical_euclidean
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:37:45.583841+00:00
 -- url     : https://prove2.me/submissions/9e3b6df8-2820-434c-b10b-555080d91f0e
 

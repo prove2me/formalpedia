@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdamDyn_Rates_eq_7_12
 -- name    : AdamDyn.Rates.eq_7_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:44.684981+00:00
 -- url     : https://prove2.me/theorems/58e3d4e2-9c22-4886-8bc2-237cb81837af

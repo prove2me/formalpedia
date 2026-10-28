@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateRelease_VCLowerBound_theorem_3_11_explicit
 -- name    : PrivateRelease.VCLowerBound.theorem_3_11_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:34.912391+00:00
 -- url     : https://prove2.me/theorems/7ec59035-5be3-45e1-8833-7573861e21c8

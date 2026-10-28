@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MConvexL1_SD_m_exc_iff
 -- name    : MConvexL1.SD.m_exc_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:45:38.341004+00:00
 -- url     : https://prove2.me/theorems/c1c81a55-1b5a-4343-bb10-d6f56b9a33a1

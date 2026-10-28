@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for EquivPosMaps.TwoPositive.phi_equivariant
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:14:34.506007+00:00
 -- url     : https://prove2.me/submissions/697151de-62db-43fc-b137-cc421cde90c1
 

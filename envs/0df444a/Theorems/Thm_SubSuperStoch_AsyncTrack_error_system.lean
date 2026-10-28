@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubSuperStoch_AsyncTrack_error_system
 -- name    : SubSuperStoch.AsyncTrack.error_system
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:43:06.743418+00:00
 -- url     : https://prove2.me/theorems/6a5c6894-0acd-4ae6-8f59-5838f3474e7f

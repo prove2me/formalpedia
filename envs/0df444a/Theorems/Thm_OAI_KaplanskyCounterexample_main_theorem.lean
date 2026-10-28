@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KaplanskyCounterexample_main_theorem
 -- name    : OAI.KaplanskyCounterexample.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:50.940688+00:00
 -- url     : https://prove2.me/theorems/1f5b3f25-df5c-4558-b43e-7d9ebcaa9ef2

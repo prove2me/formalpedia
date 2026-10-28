@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_degs_three_ap
 -- name    : Erdos195.degs_three_ap
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:32:47.021986+00:00
 -- url     : https://prove2.me/theorems/be899e98-a340-4582-b579-11f9700d0ee4
 -- title:

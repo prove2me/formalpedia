@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_Uniform_representing_probability
 -- name    : SourceTheory.Uniform.representing_probability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:59.537804+00:00
 -- url     : https://prove2.me/theorems/972bc187-3b10-4516-93ed-cababf67ed64

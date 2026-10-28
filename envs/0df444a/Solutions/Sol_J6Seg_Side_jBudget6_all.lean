@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for J6Seg.Side.jBudget6_all
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:49:55.296084+00:00
 -- url     : https://prove2.me/submissions/6174f6f8-8334-4c44-93be-9a606291ebc3
 

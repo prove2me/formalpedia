@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P16_propertyLeft_extension
 -- name    : QAlgorithms.Papers.Independent.Gap48.P16.propertyLeft_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:58:06.096235+00:00
 -- url     : https://prove2.me/theorems/1a228911-8700-4cb9-b074-664d044623ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P44_transpose_not_square_root_optimal
 -- name    : QAlgorithms.Papers.Independent.Support50.P44.transpose_not_square_root_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:07:38.738253+00:00
 -- url     : https://prove2.me/theorems/2689b7dd-7fe2-48bd-8e2b-52f39914b10a

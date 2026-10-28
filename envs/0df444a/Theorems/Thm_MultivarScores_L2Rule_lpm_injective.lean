@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_L2Rule_lpm_injective
 -- name    : MultivarScores.L2Rule.lpm_injective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:30:29.207223+00:00
 -- url     : https://prove2.me/theorems/54d07627-fa9a-48ec-a89a-ad1ab52dff20

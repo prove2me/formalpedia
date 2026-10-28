@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Balinski61_Whitney_max_flow_min_cut
 -- name    : Balinski61.Whitney.max_flow_min_cut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T16:05:02.154997+00:00
 -- url     : https://prove2.me/theorems/495c69de-e723-4d8d-89a8-6b3f2dfbf75e

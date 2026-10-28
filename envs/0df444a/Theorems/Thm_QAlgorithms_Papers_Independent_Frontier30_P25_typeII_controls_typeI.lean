@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P25_typeII_controls_typeI
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P25.typeII_controls_typeI
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T18:44:09.209259+00:00
 -- url     : https://prove2.me/theorems/3b0cac94-a29a-406c-8b95-24952571fea7

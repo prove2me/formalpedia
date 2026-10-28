@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.SignFlip.saffH_conj_flip_inc
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:58:00.332753+00:00
 -- url     : https://prove2.me/submissions/f0a3c535-6e1a-48b2-8df5-3471e8b6a66d
 

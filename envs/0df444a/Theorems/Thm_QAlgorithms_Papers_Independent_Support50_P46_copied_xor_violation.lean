@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P46_copied_xor_violation
 -- name    : QAlgorithms.Papers.Independent.Support50.P46.copied_xor_violation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T23:57:45.008499+00:00
 -- url     : https://prove2.me/theorems/7ef3c7eb-ec23-406d-a537-5470b9b8ae45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem336AdditiveD139_translation_invariant_kernel_dpp_factor
 -- name    : OAI.Problem336AdditiveD139.translation_invariant_kernel_dpp_factor
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:08.702675+00:00
 -- url     : https://prove2.me/theorems/d83be366-9951-40aa-a7e5-e27d384f75c9

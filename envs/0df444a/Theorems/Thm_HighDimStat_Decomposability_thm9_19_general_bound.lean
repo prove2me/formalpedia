@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Decomposability_thm9_19_general_bound
 -- name    : HighDimStat.Decomposability.thm9_19_general_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:17:06.145091+00:00
 -- url     : https://prove2.me/theorems/4f8b763e-e706-4b80-903a-b0930ecc9d99

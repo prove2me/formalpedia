@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.scaleFunction_contDiff_one_of_bv_absolutely_continuous_levy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T16:29:12.795641+00:00
 -- url     : https://prove2.me/submissions/2603d4e5-945f-49f3-8273-ef52c24e73ba
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.IntervalIntegral.FundThmCalculus
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

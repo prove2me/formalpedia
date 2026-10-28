@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_StrictHotSpots_main_theorem
 -- name    : OAI.StrictHotSpots.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:26.548959+00:00
 -- url     : https://prove2.me/theorems/ce71961b-32d3-4a29-bd99-e1e31519c953

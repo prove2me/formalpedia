@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_PolyCone_eqB8_circumradius_bound
 -- name    : CtxInvOpt.PolyCone.eqB8_circumradius_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:30:01.252763+00:00
 -- url     : https://prove2.me/theorems/d3480d2f-b49c-4e6b-bd0c-5251b1975810

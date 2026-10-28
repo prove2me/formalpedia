@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TiltingFTT_Optimal_welfare_24_25
 -- name    : TiltingFTT.Optimal.welfare_24_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:50.62898+00:00
 -- url     : https://prove2.me/theorems/34ce2f2e-60dd-4669-a030-23b178a940c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem337_prescribed_denominator_corollary
 -- name    : OAI.Problem337.prescribed_denominator_corollary
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:09.892594+00:00
 -- url     : https://prove2.me/theorems/af0c78ef-cce1-4f96-92ee-7733f0f2ba45

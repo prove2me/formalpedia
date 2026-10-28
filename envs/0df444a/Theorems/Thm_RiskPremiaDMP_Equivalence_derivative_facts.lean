@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPremiaDMP_Equivalence_derivative_facts
 -- name    : RiskPremiaDMP.Equivalence.derivative_facts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:01.251993+00:00
 -- url     : https://prove2.me/theorems/d1eafd7f-969c-4b4d-b633-5687a5e31415

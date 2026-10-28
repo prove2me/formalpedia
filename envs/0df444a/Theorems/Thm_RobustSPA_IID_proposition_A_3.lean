@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_IID_proposition_A_3
 -- name    : RobustSPA.IID.proposition_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:57.235353+00:00
 -- url     : https://prove2.me/theorems/0f9049a7-1d0c-4837-b662-9a82b5306669

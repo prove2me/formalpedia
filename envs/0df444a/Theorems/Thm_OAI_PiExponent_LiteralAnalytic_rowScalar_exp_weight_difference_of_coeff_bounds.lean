@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_rowScalar_exp_weight_difference_of_coeff_bounds
 -- name    : OAI.PiExponent.LiteralAnalytic.rowScalar_exp_weight_difference_of_coeff_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T13:31:30.05699+00:00
 -- url     : https://prove2.me/theorems/2259a4d5-2a9c-4b7d-8f02-5ff97447f0d2

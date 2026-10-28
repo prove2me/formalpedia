@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.one_structured_map
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:42.239982+00:00
 -- url     : https://prove2.me/submissions/66740052-4aeb-43df-aac1-62044c2162be
 

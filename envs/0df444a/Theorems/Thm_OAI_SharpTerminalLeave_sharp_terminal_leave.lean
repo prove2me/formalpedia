@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpTerminalLeave_sharp_terminal_leave
 -- name    : OAI.SharpTerminalLeave.sharp_terminal_leave
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:20.862981+00:00
 -- url     : https://prove2.me/theorems/7eb9feee-789a-4d61-adc3-a7c45ea08c2a

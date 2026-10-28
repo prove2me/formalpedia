@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DilutedSpinGlass_mezard_parisi
 -- name    : OAI.DilutedSpinGlass.mezard_parisi
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:34.266176+00:00
 -- url     : https://prove2.me/theorems/9a256cd8-1dd2-4bc3-8418-4df0042d4328

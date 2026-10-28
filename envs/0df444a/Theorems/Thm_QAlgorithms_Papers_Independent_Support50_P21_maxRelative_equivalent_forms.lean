@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_maxRelative_equivalent_forms
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.maxRelative_equivalent_forms
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:39:47.963556+00:00
 -- url     : https://prove2.me/theorems/e75c07f0-39be-4eaa-b0aa-1c92e3b05b39

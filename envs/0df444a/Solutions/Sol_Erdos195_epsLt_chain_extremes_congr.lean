@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_chain_extremes_congr
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T01:07:03.103298+00:00
 -- url     : https://prove2.me/submissions/3ecf2b93-2893-446c-a9ac-9dca83b9add3
 

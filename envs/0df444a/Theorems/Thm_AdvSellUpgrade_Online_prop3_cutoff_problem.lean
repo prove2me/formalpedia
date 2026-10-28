@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdvSellUpgrade_Online_prop3_cutoff_problem
 -- name    : AdvSellUpgrade.Online.prop3_cutoff_problem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:51:29.492994+00:00
 -- url     : https://prove2.me/theorems/69284fb5-8eb4-4828-9710-06cf3e37e171

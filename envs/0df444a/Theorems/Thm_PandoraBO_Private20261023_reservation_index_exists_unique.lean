@@ -11,9 +11,9 @@
 --
 --   $$\mathbb E[(F_i-g_i)_+]=\lambda c_i.$$
 --
---   This supplies the index used by every policy target. It requires strict decrease only where expected improvement is positive, rather than the incorrect assertion that expected improvement is strictly decreasing everywhere for bounded rewards.
+--   This supplies the index used by every policy target. It requires strict decrease only where expected improvement is positive.
 -- source:
---   Private proof development for Section 3.2, equation (5), of Xie et al., Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index; author-revised manuscript reviewed on 23 October 2026. The positive-cost reservation-index statement is unchanged from arXiv:2406.20062v3. Mission source version: the author-revised manuscript reviewed on 23 October 2026, intended for arXiv v4; public posting is pending. References to arXiv v3 identify the earlier published version.
+--   Qian Xie, Raul Astudillo, Peter I. Frazier, Ziv Scully, and Alexander Terenin. [Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index](https://arxiv.org/abs/2406.20062). NeurIPS 2024. Section 3.2, equation (5): existence and uniqueness of the positive-cost reservation index.
 
 import Definitions.Def_PandoraBO_Model
 import Mathlib.Algebra.Order.Group.MinMax

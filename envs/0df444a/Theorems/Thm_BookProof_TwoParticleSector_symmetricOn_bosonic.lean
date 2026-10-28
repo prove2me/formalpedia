@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_symmetricOn_bosonic
 -- name    : BookProof.TwoParticleSector.symmetricOn_bosonic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-23T23:26:41.143461+00:00
 -- url     : https://prove2.me/theorems/e214d91e-92c9-420b-9223-65874f5d6c51

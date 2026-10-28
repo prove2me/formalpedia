@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_private_ree_bound
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.private_ree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:13:09.178985+00:00
 -- url     : https://prove2.me/theorems/d0d2c170-8dea-4909-a8b6-46c827f5b3d0

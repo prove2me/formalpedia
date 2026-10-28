@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Blueprint.act_linear
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:33:54.493634+00:00
 -- url     : https://prove2.me/submissions/6931edd8-70b8-4de7-af9a-84f60a908692
 

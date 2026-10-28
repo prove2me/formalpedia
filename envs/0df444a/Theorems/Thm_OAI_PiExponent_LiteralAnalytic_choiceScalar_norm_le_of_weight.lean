@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_choiceScalar_norm_le_of_weight
 -- name    : OAI.PiExponent.LiteralAnalytic.choiceScalar_norm_le_of_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T12:51:12.462925+00:00
 -- url     : https://prove2.me/theorems/97efe1de-32b7-40e0-99fc-930bc2d1a915

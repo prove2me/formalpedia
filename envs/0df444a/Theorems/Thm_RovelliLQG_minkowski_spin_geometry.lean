@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RovelliLQG_minkowski_spin_geometry
 -- name    : RovelliLQG.minkowski_spin_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T19:31:54.222121+00:00
 -- url     : https://prove2.me/theorems/ffbed532-0b7a-448f-869e-11970bbb4974

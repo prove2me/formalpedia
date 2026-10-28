@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_tendstoCInfty_of_isIsolated
 -- name    : FiniteEnergyPlane.tendstoCInfty_of_isIsolated
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:25:50.324068+00:00
 -- url     : https://prove2.me/theorems/ce2d40fb-b725-4c13-be92-2645fe45cc1c

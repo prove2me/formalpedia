@@ -13,7 +13,7 @@
 --
 --   then $\pi$ is budget-optimal: every policy $\rho$ with $C(\rho)\le B$ satisfies $R(\rho)\le R(\pi)$. Unlike exact-budget matching, this sufficient condition includes $\lambda=0$ and unused budget. This is an explicit extension of Lemma 5, not a verbatim source statement.
 -- source:
---   Private proof development against the author-revised manuscript reviewed on 23 October 2026; same statement as mission milestone PandoraBO.complementary_lagrangian_certificate. Paper: Xie et al., Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index, Appendix B.5, Lagrangian budget-optimality argument. The mission remains unpublished. Mission source version: the author-revised manuscript reviewed on 23 October 2026, intended for arXiv v4; public posting is pending. References to arXiv v3 identify the earlier published version.
+--   Qian Xie, Raul Astudillo, Peter I. Frazier, Ziv Scully, and Alexander Terenin. [Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index](https://arxiv.org/abs/2406.20062). NeurIPS 2024. Appendix B.5: the Lagrangian budget-optimality argument with complementary slackness, including the zero-multiplier case. This milestone isolates a proof step.
 
 import Definitions.Def_PandoraBO_Model
 

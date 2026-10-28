@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100BernsteinData
 -- name    : TaoFivePrimes_RH14To100BernsteinData
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:46:34.062843+00:00
 -- url     : https://prove2.me/theorems/0b0d9f4e-7b54-408e-905c-becda3e628d5
 -- title:

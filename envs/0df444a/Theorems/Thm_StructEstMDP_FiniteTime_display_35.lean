@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StructEstMDP_FiniteTime_display_35
 -- name    : StructEstMDP.FiniteTime.display_35
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:12:11.000988+00:00
 -- url     : https://prove2.me/theorems/43d08efb-553f-4003-8143-88cdbc32966c

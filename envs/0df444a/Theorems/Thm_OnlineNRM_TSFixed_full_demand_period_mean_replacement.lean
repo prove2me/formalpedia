@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineNRM_TSFixed_full_demand_period_mean_replacement
 -- name    : OnlineNRM.TSFixed.full_demand_period_mean_replacement
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T14:39:51.924102+00:00
 -- url     : https://prove2.me/theorems/4a1f92a0-b136-4f63-999d-96ec4c3c001b

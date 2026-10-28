@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_one_even_not_last_H1
 -- name    : Erdos195.one_even_not_last_H1
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T17:58:56.876965+00:00
 -- url     : https://prove2.me/theorems/5d810f3f-04b2-4d50-8cb1-a2c3aab8778a
 -- title:

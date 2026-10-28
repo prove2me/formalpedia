@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_reflection_only_obstruction
 -- name    : Erdos195.reflection_only_obstruction
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:11:36.291046+00:00
 -- url     : https://prove2.me/theorems/147813ee-7589-4af5-995e-58f957726972
 -- title:

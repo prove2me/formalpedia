@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrgDiversity_Optimal_lemma_1
 -- name    : OrgDiversity.Optimal.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:18:58.850548+00:00
 -- url     : https://prove2.me/theorems/a39b22d7-accc-4005-8ca2-c90b57607317

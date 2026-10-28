@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.interlocked_pairs_never_close
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:22:11.893773+00:00
 -- url     : https://prove2.me/submissions/bef224a7-af9a-42a9-9081-34952cf0f89d
 

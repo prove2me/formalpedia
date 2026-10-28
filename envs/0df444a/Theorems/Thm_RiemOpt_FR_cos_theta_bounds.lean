@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiemOpt_FR_cos_theta_bounds
 -- name    : RiemOpt.FR.cos_theta_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:22:52.350128+00:00
 -- url     : https://prove2.me/theorems/d26e3990-f192-47cd-9351-4e09b5a7252f

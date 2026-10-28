@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynTypeMatching_Priority_monge_exchange
 -- name    : DynTypeMatching.Priority.monge_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:59:47.632903+00:00
 -- url     : https://prove2.me/theorems/d46e6338-2c47-4340-b7e2-0a651e797d8e

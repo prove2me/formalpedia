@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClusterSim_EdgeCut_pieces
 -- name    : ClusterSim.EdgeCut.pieces
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:54:29.284437+00:00
 -- url     : https://prove2.me/theorems/6c58ddce-e57f-4dbb-b7d1-caaf15f536dc

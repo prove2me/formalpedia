@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_relaxation_strictness_and_tightness
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.relaxation_strictness_and_tightness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:57:35.248582+00:00
 -- url     : https://prove2.me/theorems/0be0905b-f842-42ea-b186-c5d90e402258

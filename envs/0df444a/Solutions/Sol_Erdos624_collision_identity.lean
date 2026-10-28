@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.collision_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:41:12.474347+00:00
 -- url     : https://prove2.me/submissions/5cbee276-825c-403a-8714-0977de9f3041
 

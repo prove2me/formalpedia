@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropicBarrier_Universal_lemma2_third_moment
 -- name    : EntropicBarrier.Universal.lemma2_third_moment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:43:02.73703+00:00
 -- url     : https://prove2.me/theorems/268b2c6b-f57c-4357-a2d8-45890784bc80

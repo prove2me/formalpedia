@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeakGoldbach_symmetric_vonMangoldt_off_diagonal_lower_bound_triple_above_2e18
 -- name    : WeakGoldbach.symmetric_vonMangoldt_off_diagonal_lower_bound_triple_above_2e18
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:34:52.926883+00:00
 -- url     : https://prove2.me/theorems/cbaa1a76-3617-4d0d-827f-b80504ad99bd
 -- title:

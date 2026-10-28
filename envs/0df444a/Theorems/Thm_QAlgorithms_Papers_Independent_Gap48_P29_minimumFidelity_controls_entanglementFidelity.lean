@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_minimumFidelity_controls_entanglementFidelity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.minimumFidelity_controls_entanglementFidelity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:16:56.201012+00:00
 -- url     : https://prove2.me/theorems/74ddc596-aa7b-4ba3-a451-d9df2354d39e

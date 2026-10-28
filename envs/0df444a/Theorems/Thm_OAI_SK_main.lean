@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SK_main
 -- name    : OAI.SK.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:18.541149+00:00
 -- url     : https://prove2.me/theorems/d31c290e-62f2-49a2-a694-04f30c70f650

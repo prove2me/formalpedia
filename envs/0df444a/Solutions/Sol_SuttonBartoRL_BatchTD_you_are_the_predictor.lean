@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.BatchTD.you_are_the_predictor
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:31:19.937764+00:00
 -- url     : https://prove2.me/submissions/765ee44a-3f25-44c7-a091-d3521d087a51
 

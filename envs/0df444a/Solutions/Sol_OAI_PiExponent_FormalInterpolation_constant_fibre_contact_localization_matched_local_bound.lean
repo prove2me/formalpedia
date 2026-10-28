@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.constant_fibre_contact_localization_matched_local_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:50:10.402841+00:00
 -- url     : https://prove2.me/submissions/f1a0fcdf-7590-4ac6-b6ac-3a933b310a7e
 

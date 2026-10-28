@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.denominator_clearing_determinant_dichotomy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-24T03:58:23.841325+00:00
 -- url     : https://prove2.me/submissions/b79b09ae-8c62-4a6d-a264-e37d81815dd0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_PiExponent_DeterminantSetup
 import Definitions.Def_PiExponent_FiniteMinorComparison

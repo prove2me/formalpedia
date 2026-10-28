@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_Monotone_lemma_9
 -- name    : BudgetClock.Monotone.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:38.838004+00:00
 -- url     : https://prove2.me/theorems/c43f0734-4166-4791-9878-a64f0f497a1f

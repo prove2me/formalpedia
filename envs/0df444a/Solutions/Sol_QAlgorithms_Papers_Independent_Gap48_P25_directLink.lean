@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.directLink
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:15:34.252091+00:00
 -- url     : https://prove2.me/submissions/b17132f5-6e6b-4da3-ba4c-9b3eeee53291
 

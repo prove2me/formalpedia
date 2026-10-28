@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.AverageReward.exercise_10_7
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:22:12.995984+00:00
 -- url     : https://prove2.me/submissions/15b78673-e3bb-4993-8357-6560ab5bd7dd
 

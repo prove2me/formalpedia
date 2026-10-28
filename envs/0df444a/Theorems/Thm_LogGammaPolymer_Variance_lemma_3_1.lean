@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogGammaPolymer_Variance_lemma_3_1
 -- name    : LogGammaPolymer.Variance.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:22:51.013777+00:00
 -- url     : https://prove2.me/theorems/9b182426-d134-435c-9944-6405568c9e70

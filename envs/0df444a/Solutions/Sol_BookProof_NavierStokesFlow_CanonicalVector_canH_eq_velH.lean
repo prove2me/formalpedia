@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.CanonicalVector.canH_eq_velH
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:46:46.410955+00:00
 -- url     : https://prove2.me/submissions/34eb094a-04dc-4616-ab23-7d8d24700a9f
 

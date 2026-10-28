@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleywegtSAA_ValueCLT_vhat_eq_minOnOpt_eventually
 -- name    : KleywegtSAA.ValueCLT.vhat_eq_minOnOpt_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:09:04.481791+00:00
 -- url     : https://prove2.me/theorems/508eb554-b18f-4d0f-b15d-e108cdf05032

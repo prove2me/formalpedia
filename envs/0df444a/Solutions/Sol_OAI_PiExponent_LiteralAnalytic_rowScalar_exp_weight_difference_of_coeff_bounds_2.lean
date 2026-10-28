@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for OAI.PiExponent.LiteralAnalytic.rowScalar_exp_weight_difference_of_coeff_bounds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:44:55.531431+00:00
 -- url     : https://prove2.me/submissions/073a0a3c-6ff3-4df5-b8ea-1a605cd5d7fe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_LiteralAnalytic_rowScalar_exp_bound_explicit_degree_weights
 import Theorems.Thm_OAI_PiExponent_LiteralAnalytic_product_pow_coeff_ne_zero_degree_bound

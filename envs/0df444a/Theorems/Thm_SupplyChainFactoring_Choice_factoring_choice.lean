@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyChainFactoring_Choice_factoring_choice
 -- name    : SupplyChainFactoring.Choice.factoring_choice
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:26:02.445535+00:00
 -- url     : https://prove2.me/theorems/cf83e9bc-78c7-4772-927e-a303bb8725ed

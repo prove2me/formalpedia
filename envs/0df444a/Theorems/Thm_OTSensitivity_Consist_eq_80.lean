@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTSensitivity_Consist_eq_80
 -- name    : OTSensitivity.Consist.eq_80
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:23.244727+00:00
 -- url     : https://prove2.me/theorems/964bf7ee-83bd-497c-be12-406f38a76f3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Improved_recurrence_bound
 -- name    : CClosedGraphs.Improved.recurrence_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:36.02123+00:00
 -- url     : https://prove2.me/theorems/2a280a95-ed0c-4d67-b456-846180e7128e

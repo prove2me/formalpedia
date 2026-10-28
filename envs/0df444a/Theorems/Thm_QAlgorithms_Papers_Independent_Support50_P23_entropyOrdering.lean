@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_entropyOrdering
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.entropyOrdering
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:56:47.9591+00:00
 -- url     : https://prove2.me/theorems/70c759ae-750d-4a71-91fe-53dab8853be7

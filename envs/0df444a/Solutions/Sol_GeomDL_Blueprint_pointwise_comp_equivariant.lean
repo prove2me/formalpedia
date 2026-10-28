@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Blueprint.pointwise_comp_equivariant
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:36:37.04879+00:00
 -- url     : https://prove2.me/submissions/ed68d2f8-ac3a-40a5-ac2a-36f8f56288da
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.OpenAI.RH.reindex
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:14:40.08671+00:00
 -- url     : https://prove2.me/submissions/f82a29e4-eae9-43ab-91c2-8fe72d38f186
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Async_normInf_Gamma_lt_one
 -- name    : LeiBR.Async.normInf_Gamma_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:59.091981+00:00
 -- url     : https://prove2.me/theorems/2b38ac86-2be8-4df4-b4f6-36e285144a94

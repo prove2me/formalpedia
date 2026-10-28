@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_DPEquations_theorem2_dp_equations
 -- name    : SendSplit.DPEquations.theorem2_dp_equations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:39:45.455822+00:00
 -- url     : https://prove2.me/theorems/4aa34c95-91ae-42ef-aaac-fb0ea1e0bc90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_strategic_equivalence_isomorphism
 -- name    : TheoryOfGames.ThreePerson.strategic_equivalence_isomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:25:00.946635+00:00
 -- url     : https://prove2.me/theorems/351685c9-fbae-48a4-9484-94e4db8a3f1c

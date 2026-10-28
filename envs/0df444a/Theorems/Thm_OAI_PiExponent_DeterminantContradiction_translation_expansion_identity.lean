@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_translation_expansion_identity
 -- name    : OAI.PiExponent.DeterminantContradiction.translation_expansion_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T22:58:05.704892+00:00
 -- url     : https://prove2.me/theorems/a9d3cfea-d748-479a-aa53-c6e3d31c2ce2

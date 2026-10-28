@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Independent1.P05.oneBasisNotConcentrated
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fizzyinc3
 -- created : 2026-10-22T17:55:13.142988+00:00
 -- url     : https://prove2.me/submissions/c3eb3213-fc39-4682-8fcc-44cc2b06bff4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QAlgorithms_Defs_NLTSPreparationCircuits
 import Definitions.Def_QAlgorithms_Defs_Measurement

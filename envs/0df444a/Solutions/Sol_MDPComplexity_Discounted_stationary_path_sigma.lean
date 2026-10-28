@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.Discounted.stationary_path_sigma
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:26:10.445648+00:00
 -- url     : https://prove2.me/submissions/714c6a9d-8b62-4085-9f7d-06830a76471e
 

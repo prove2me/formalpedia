@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffNeighbors_Bias_propensity_weights
 -- name    : DiffNeighbors.Bias.propensity_weights
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:41:18.673602+00:00
 -- url     : https://prove2.me/theorems/9580f1fd-2640-488f-8f67-cb2a480a5c7c

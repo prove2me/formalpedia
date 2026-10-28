@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_LowerBounds_theorem_A_14_p1
 -- name    : ModernOnlineLearning.LowerBounds.theorem_A_14_p1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:36:06.979653+00:00
 -- url     : https://prove2.me/theorems/b94aa227-d5fc-4fdd-a94d-7356c9419e23

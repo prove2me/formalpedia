@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_ContextLowerBound_theorem_6
 -- name    : FirstPriceLearning.ContextLowerBound.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:17.062163+00:00
 -- url     : https://prove2.me/theorems/893675b2-ffe5-4c48-9048-de471d6035e0

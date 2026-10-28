@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_entropy_continuity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.entropy_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:13:05.273653+00:00
 -- url     : https://prove2.me/theorems/52cab573-8c37-4ffe-aff0-d3dd129d55fd

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_ho_nat_fourAP_free
 -- name    : Erdos195.ho_nat_fourAP_free
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:34:33.833984+00:00
 -- url     : https://prove2.me/theorems/57b1fdb5-ff3d-401f-a98e-7a909c7fa509
 -- title:

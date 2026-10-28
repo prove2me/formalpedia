@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_exists_potential_of_spatial_F
 -- name    : NewtonCartan.exists_potential_of_spatial_F
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:37:33.587085+00:00
 -- url     : https://prove2.me/theorems/a3c181c0-d363-4eb8-9994-66411d969ea5
 -- title:

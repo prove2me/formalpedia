@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.sameTrajectories_diff_quad
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:08:00.672647+00:00
 -- url     : https://prove2.me/submissions/e891badf-04ff-45f5-969d-18add83eb33a
 

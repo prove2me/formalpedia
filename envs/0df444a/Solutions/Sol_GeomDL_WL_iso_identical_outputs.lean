@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.WL.iso_identical_outputs
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:53:07.222814+00:00
 -- url     : https://prove2.me/submissions/832b4de4-f3e3-4f22-9478-0124f3b3a5ce
 

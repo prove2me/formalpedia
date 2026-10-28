@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_residue_extremum_below
 -- name    : Erdos195.residue_extremum_below
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:33:36.724925+00:00
 -- url     : https://prove2.me/theorems/e9cb4a3a-2434-40ef-9a21-fccf8a02f233
 -- title:

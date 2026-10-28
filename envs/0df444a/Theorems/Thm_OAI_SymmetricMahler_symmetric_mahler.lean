@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SymmetricMahler_symmetric_mahler
 -- name    : OAI.SymmetricMahler.symmetric_mahler
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:27.929516+00:00
 -- url     : https://prove2.me/theorems/03212def-2faa-4193-a0bc-9ff0490f5d83

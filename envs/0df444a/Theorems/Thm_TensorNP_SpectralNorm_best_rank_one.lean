@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_SpectralNorm_best_rank_one
 -- name    : TensorNP.SpectralNorm.best_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:06:59.144959+00:00
 -- url     : https://prove2.me/theorems/8f9c16f1-39fa-4fa8-aa1d-167bd4837ec7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PatakiRank_Mult_eq_4_31
 -- name    : PatakiRank.Mult.eq_4_31
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:26:38.489974+00:00
 -- url     : https://prove2.me/theorems/a80f59d5-54df-4788-b42c-b3b9e86ec6b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Avram2004_Canadized_U_supermartingale
 -- name    : Avram2004.Canadized.U_supermartingale
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:42:14.048991+00:00
 -- url     : https://prove2.me/theorems/92562e40-1da0-499f-98e6-8a5d718651e1

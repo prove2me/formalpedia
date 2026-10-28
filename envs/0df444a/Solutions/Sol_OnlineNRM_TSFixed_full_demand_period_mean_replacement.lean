@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OnlineNRM.TSFixed.full_demand_period_mean_replacement
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-17T14:47:12.635599+00:00
 -- url     : https://prove2.me/submissions/fac3e62d-3a1c-44dc-95db-307887701a79
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OnlineNRM_TSFixed_full_demand_period_revenue_integrable
 import Theorems.Thm_OnlineNRM_TSFixed_full_demand_period_mean_replacement_identity

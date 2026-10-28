@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_OrderPolyhedra_feasible_region_eq_union_minimal_order_polyhedra
 -- name    : ProjSchedTW.OrderPolyhedra.feasible_region_eq_union_minimal_order_polyhedra
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T15:30:34.471217+00:00
 -- url     : https://prove2.me/theorems/e930e855-eee7-4a0d-abaf-26ce1ae2facb

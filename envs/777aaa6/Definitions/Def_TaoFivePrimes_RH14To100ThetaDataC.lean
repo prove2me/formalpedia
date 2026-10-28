@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100ThetaDataC
 -- name    : TaoFivePrimes_RH14To100ThetaDataC
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:46:12.760853+00:00
 -- url     : https://prove2.me/theorems/48381105-c2cc-4dec-afa2-5fc0beed7f83
 -- title:

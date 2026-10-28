@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VdNSim_Sparse_F_bound
 -- name    : VdNSim.Sparse.F_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:31:56.000303+00:00
 -- url     : https://prove2.me/theorems/e6b62254-e860-49ad-91b1-283f33f0407c

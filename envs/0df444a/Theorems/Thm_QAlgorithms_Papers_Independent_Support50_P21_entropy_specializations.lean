@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_entropy_specializations
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.entropy_specializations
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:41:23.219782+00:00
 -- url     : https://prove2.me/theorems/770a9c7d-0a1b-4f17-8105-a10f99d7f29c

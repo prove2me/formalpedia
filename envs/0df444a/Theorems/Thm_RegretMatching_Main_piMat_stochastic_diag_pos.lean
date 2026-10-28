@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretMatching_Main_piMat_stochastic_diag_pos
 -- name    : RegretMatching.Main.piMat_stochastic_diag_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:05:22.740397+00:00
 -- url     : https://prove2.me/theorems/237d1144-57cc-48eb-a619-105857f3f772

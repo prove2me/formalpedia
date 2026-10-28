@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_CoreSelection_userCentric_reward_mem_core
 -- name    : MusicStreaming.CoreSelection.userCentric_reward_mem_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:42.06951+00:00
 -- url     : https://prove2.me/theorems/1158b2cb-5f71-4952-883d-0caad01db7ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_LearningSurvey_classical_NM_exact_theta
 -- name    : QAlgorithms.LearningSurvey.classical_NM_exact_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:52.463212+00:00
 -- url     : https://prove2.me/theorems/6d03c0d8-1abb-44f7-a00d-ab6115a295fc

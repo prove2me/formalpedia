@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P31_entropyLimitAtOne
 -- name    : QAlgorithms.Papers.Independent.Support50.P31.entropyLimitAtOne
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:25:25.294589+00:00
 -- url     : https://prove2.me/theorems/82b2748c-c563-4efe-894c-75e03086bf58

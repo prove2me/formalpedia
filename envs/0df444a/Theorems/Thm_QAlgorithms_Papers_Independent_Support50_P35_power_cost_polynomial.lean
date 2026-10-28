@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_power_cost_polynomial
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.power_cost_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:47:34.1361+00:00
 -- url     : https://prove2.me/theorems/05134eff-8baa-4bd4-8379-a4c2685a897a

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.interceptResend
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:33:16.328717+00:00
 -- url     : https://prove2.me/submissions/3aa13fdf-eedf-4bfd-a60b-b0f42c3472ed
 

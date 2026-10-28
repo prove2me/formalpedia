@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailOptCaching_ETLRU_next_turn_expected_TEL
 -- name    : TailOptCaching.ETLRU.next_turn_expected_TEL
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:29.306833+00:00
 -- url     : https://prove2.me/theorems/5c74292c-85ba-46d8-9591-e888bdce3fcc

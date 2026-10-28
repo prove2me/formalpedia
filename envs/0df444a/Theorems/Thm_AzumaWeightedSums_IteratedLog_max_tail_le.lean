@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AzumaWeightedSums_IteratedLog_max_tail_le
 -- name    : AzumaWeightedSums.IteratedLog.max_tail_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:31:13.93533+00:00
 -- url     : https://prove2.me/theorems/af2631f5-e11d-4ca9-9a20-854af2cef216

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_GaussConv_fourier_rhoShift
 -- name    : RegevLWE.GaussConv.fourier_rhoShift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:08:28.502741+00:00
 -- url     : https://prove2.me/theorems/9cd72253-d36d-49a2-bb5c-60ac33fe086c

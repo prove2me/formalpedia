@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_D1Bound5_PairLightAdaptivePrepared7_right_coverage_checked
+-- name    : D1Bound5.PairLightAdaptivePrepared7.right_coverage_checked
+-- status  : Proved
+-- author  : @tp
+-- created : 2026-10-24T02:27:20.592446+00:00
+-- url     : https://prove2.me/theorems/c90559f1-005f-4867-8696-ee27c2e3d9a3
+-- title:
+--   Pair Light Adaptive Prepared7 — right coverage checked
+-- statement:
+--   Auxiliary result `PairLightAdaptivePrepared7.right_coverage_checked` in the proof of the bound five for Diophantine D(1) sets in imaginary quadratic integer rings. The formal statement specifies its hypotheses and conclusion; a mathematical prose description remains to be supplied.
+-- source:
+--   D1Bound5/SmallPairLightAdaptiveValidation7.lean, lines 16-18, SHA-256 6266fbd6508cc64bba881090d7e8e22302441650d66b7a660c769ead5d5b5168. Project: https://github.com/tomislav-math/d1-bound5-lean
+
+import Init
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData7RightCached_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData7RightVertices_Definitions
+
+section
+namespace D1Bound5.PairLightAdaptivePrepared7
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+
+
+
+
+theorem _root_.D1Bound5.PairLightAdaptivePrepared7.right_coverage_checked :
+    decide (PairLightPrepared7.rightCached.map Prod.fst = PairLightPrepared7.rightVertices) = true := by sorry
+
+
+
+
+end D1Bound5.PairLightAdaptivePrepared7
+end

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimisticPSRL_Concentration_corollaryB1_bernstein
 -- name    : OptimisticPSRL.Concentration.corollaryB1_bernstein
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:39:48.136825+00:00
 -- url     : https://prove2.me/theorems/e454b8ef-f79b-4ad3-9ddb-cc0772e4a3b6

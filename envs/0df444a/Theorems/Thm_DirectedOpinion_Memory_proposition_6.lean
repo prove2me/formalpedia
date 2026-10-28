@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedOpinion_Memory_proposition_6
 -- name    : DirectedOpinion.Memory.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:59.392715+00:00
 -- url     : https://prove2.me/theorems/9d56ed7a-8754-4e4b-a226-76a030b951fc

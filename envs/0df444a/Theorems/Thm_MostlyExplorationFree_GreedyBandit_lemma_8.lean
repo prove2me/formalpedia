@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MostlyExplorationFree_GreedyBandit_lemma_8
 -- name    : MostlyExplorationFree.GreedyBandit.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:30:56.35899+00:00
 -- url     : https://prove2.me/theorems/506d8137-3b38-4eba-b5df-d62511aba03a

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.contDiff_primitive_of_closed_oneForm
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:51:05.082985+00:00
 -- url     : https://prove2.me/submissions/53abbe88-3782-4a58-94fa-45fe1307bc55
 

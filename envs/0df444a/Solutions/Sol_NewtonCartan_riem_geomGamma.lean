@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.riem_geomGamma
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:43:07.912029+00:00
 -- url     : https://prove2.me/submissions/eb3ac79d-d828-4a34-b344-a5ccc7b31f6f
 

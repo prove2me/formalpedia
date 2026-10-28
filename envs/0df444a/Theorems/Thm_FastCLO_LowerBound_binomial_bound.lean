@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCLO_LowerBound_binomial_bound
 -- name    : FastCLO.LowerBound.binomial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:20:24.899809+00:00
 -- url     : https://prove2.me/theorems/286c5dac-ec5f-4c86-8255-304a23c74fb4

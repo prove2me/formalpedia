@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BonusSeason_Periodic_lemma_1
 -- name    : BonusSeason.Periodic.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:53.936963+00:00
 -- url     : https://prove2.me/theorems/07e4d207-2c5a-43de-a92d-1a9ddf0884de

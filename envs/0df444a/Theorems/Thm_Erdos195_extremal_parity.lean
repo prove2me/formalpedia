@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_extremal_parity
 -- name    : Erdos195.extremal_parity
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:11:31.654151+00:00
 -- url     : https://prove2.me/theorems/c4ac961e-9bd0-4234-8cec-80dde669a5b8
 -- title:

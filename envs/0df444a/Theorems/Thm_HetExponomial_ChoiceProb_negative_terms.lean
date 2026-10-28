@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HetExponomial_ChoiceProb_negative_terms
 -- name    : HetExponomial.ChoiceProb.negative_terms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:30:53.621021+00:00
 -- url     : https://prove2.me/theorems/5ba886e7-fe96-4722-8a98-d97adbd47a0a

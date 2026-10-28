@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_coherence_robustness_advantage_bound
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.coherence_robustness_advantage_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:07:52.078115+00:00
 -- url     : https://prove2.me/theorems/da8def7f-ca76-4364-aaa4-10078bf7fc3a

@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_D1Bound5_PairLightAdaptivePrepared24_right_signatures_checked
+-- name    : D1Bound5.PairLightAdaptivePrepared24.right_signatures_checked
+-- status  : Proved
+-- author  : @tp
+-- created : 2026-10-24T01:43:51.871821+00:00
+-- url     : https://prove2.me/theorems/3d0a79e7-0699-447b-b1cc-b623e6176946
+-- title:
+--   Pair Light Adaptive Prepared24 — right signatures checked
+-- statement:
+--   Auxiliary result `PairLightAdaptivePrepared24.right_signatures_checked` in the proof of the bound five for Diophantine D(1) sets in imaginary quadratic integer rings. The formal statement specifies its hypotheses and conclusion; a mathematical prose description remains to be supplied.
+-- source:
+--   D1Bound5/SmallPairLightAdaptiveValidation24.lean, lines 20-23, SHA-256 201866777ffa497220161a27b542d765e91409d028dcd6720576a3b2e8a29868. Project: https://github.com/tomislav-math/d1-bound5-lean
+
+import Init
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData24RightCached_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData24Sieve_Definitions
+
+section
+namespace D1Bound5.PairLightAdaptivePrepared24
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+
+
+
+
+
+
+theorem _root_.D1Bound5.PairLightAdaptivePrepared24.right_signatures_checked :
+    (PairLightPrepared24.rightCached.all fun x =>
+      decide (x.2 = pairLightCoordinateSignature PairLightPrepared24.sieve x.1)) = true := by sorry
+
+
+end D1Bound5.PairLightAdaptivePrepared24
+end

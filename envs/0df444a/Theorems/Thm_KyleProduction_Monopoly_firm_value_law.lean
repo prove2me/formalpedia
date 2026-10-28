@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KyleProduction_Monopoly_firm_value_law
 -- name    : KyleProduction.Monopoly.firm_value_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:29.015101+00:00
 -- url     : https://prove2.me/theorems/707918e1-699d-49ba-95dd-7cde17bb2675

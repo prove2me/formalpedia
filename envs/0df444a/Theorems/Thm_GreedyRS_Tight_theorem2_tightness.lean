@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Tight_theorem2_tightness
 -- name    : GreedyRS.Tight.theorem2_tightness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:42.057194+00:00
 -- url     : https://prove2.me/theorems/974f7e9f-d2dc-4c17-aede-ea083d76ea46

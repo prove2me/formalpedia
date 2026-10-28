@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PropagatorLimit_Scaling_explicit_solution
 -- name    : PropagatorLimit.Scaling.explicit_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:09.592279+00:00
 -- url     : https://prove2.me/theorems/51683c0b-7ac4-473c-a111-a258adbb9cc4

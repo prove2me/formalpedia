@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.ratio_not_tendsto
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:27.575083+00:00
 -- url     : https://prove2.me/submissions/a3493745-0024-40f8-9955-0597d69d1e03
 

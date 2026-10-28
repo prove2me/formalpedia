@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.ho_nat_fourAP_free
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:10.887023+00:00
 -- url     : https://prove2.me/submissions/ba0ba110-74af-4501-8488-3247e332dec2
 

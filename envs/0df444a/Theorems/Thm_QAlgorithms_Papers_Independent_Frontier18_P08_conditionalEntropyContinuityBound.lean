@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P08_conditionalEntropyContinuityBound
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P08.conditionalEntropyContinuityBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:58:14.364988+00:00
 -- url     : https://prove2.me/theorems/7748a49b-baec-4e44-95d3-907f415d76da

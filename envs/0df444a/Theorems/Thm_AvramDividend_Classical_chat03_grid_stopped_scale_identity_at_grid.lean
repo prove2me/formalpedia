@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat03_grid_stopped_scale_identity_at_grid
 -- name    : AvramDividend.Classical.chat03_grid_stopped_scale_identity_at_grid
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-21T04:40:58.317143+00:00
 -- url     : https://prove2.me/theorems/3711ebca-7939-4d97-8dcf-e863fe132d21

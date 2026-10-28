@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P10_ma_uniqueness
 -- name    : QAlgorithms.Papers.Independent.Gap48.P10.ma_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:19:42.169647+00:00
 -- url     : https://prove2.me/theorems/c4a0303b-c4b2-4ca6-8a52-652dd6da7fe9

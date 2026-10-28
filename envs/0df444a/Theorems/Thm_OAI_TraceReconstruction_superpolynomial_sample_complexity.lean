@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TraceReconstruction_superpolynomial_sample_complexity
 -- name    : OAI.TraceReconstruction.superpolynomial_sample_complexity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:34.067642+00:00
 -- url     : https://prove2.me/theorems/e69b1b6e-abd1-4d44-9de0-463a4c9d5012

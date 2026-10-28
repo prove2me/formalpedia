@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_trace_commutes_with_compatible_derivations
 -- name    : OAI.PiExponent.FormalInterpolation.trace_commutes_with_compatible_derivations
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:23:22.887762+00:00
 -- url     : https://prove2.me/theorems/783583a0-a6d5-451a-9183-65c42b35e752

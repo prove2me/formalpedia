@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_flat_universe_power_law
 -- name    : CosmologyEOS.flat_universe_power_law
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:11.637684+00:00
 -- url     : https://prove2.me/theorems/f9c4b50b-36a0-4a73-a7e5-1d43f5e1e554

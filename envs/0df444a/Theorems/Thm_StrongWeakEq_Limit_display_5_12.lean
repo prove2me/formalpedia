@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongWeakEq_Limit_display_5_12
 -- name    : StrongWeakEq.Limit.display_5_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:33:19.617127+00:00
 -- url     : https://prove2.me/theorems/9d72a522-d4f4-4486-8416-61bb838331e8

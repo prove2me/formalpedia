@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for BookProof.YangMillsGhost.ymGhostHam_stone_flow
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-12T06:10:21.009195+00:00
 -- url     : https://prove2.me/submissions/c3f90235-92ee-40d8-907c-2f8dae7be433
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterYangMillsGhostSector.lean — solution of BookProof.YangMillsGhost.ymGhostHam_stone_flow
 import Mathlib

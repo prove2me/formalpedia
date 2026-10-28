@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_cycle_never_closes
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:37:57.664523+00:00
 -- url     : https://prove2.me/submissions/7a1ff923-b3ca-49b4-8ab0-1ba5df418c56
 

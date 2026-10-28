@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoRefLA_PartialPPE_V_self_eq_Ex
 -- name    : EndoRefLA.PartialPPE.V_self_eq_Ex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:22:46.520045+00:00
 -- url     : https://prove2.me/theorems/bcd87042-7e3e-492c-b8fc-108e3d8973df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BinPackingGap_main_results
 -- name    : OAI.BinPackingGap.main_results
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:23.295072+00:00
 -- url     : https://prove2.me/theorems/3d57d42a-f027-4817-903e-0e9abcae6e36

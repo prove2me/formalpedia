@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPostpone_Threshold_lemma_1
 -- name    : RiskPostpone.Threshold.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:47:30.791826+00:00
 -- url     : https://prove2.me/theorems/c26060a4-7830-4ffd-93ec-6d3de80a154e

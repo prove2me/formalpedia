@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OnlineNRM.TSFixed.ideal_regret_accounting_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-17T14:41:20.629057+00:00
 -- url     : https://prove2.me/submissions/26f9a322-81a7-4204-9c0b-ea61cbad74fd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Bochner.Basic
 import Mathlib.Tactic.Ring

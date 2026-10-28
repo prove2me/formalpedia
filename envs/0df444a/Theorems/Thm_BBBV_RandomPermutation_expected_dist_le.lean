@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBBV_RandomPermutation_expected_dist_le
 -- name    : BBBV.RandomPermutation.expected_dist_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:08:20.776802+00:00
 -- url     : https://prove2.me/theorems/130648ca-e80b-4ca5-98af-0edf61859c6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_rho_star_noise_intervals
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.rho_star_noise_intervals
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:06:59.885906+00:00
 -- url     : https://prove2.me/theorems/66a23a49-fe77-4310-94be-29d54afbded5

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.exists_eq_algebraMap_of_not_transcendental
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:26:37.364345+00:00
 -- url     : https://prove2.me/submissions/78f81de7-2642-4c16-98eb-d1125f82afd6
 

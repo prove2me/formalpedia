@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjRescale_MaxSupport_partition_claim
 -- name    : ProjRescale.MaxSupport.partition_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:31.968157+00:00
 -- url     : https://prove2.me/theorems/db6c59c5-3592-4d4a-9540-35391200140f

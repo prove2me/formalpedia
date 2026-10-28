@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_early_reps_extrema
 -- name    : Erdos195.early_reps_extrema
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:05:38.175622+00:00
 -- url     : https://prove2.me/theorems/908cde80-c065-4fab-99be-16d25bc5b0ba
 -- title:

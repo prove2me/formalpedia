@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_upper_decomposition
 -- name    : ScheduledQueue.Stability.upper_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:07:51.81927+00:00
 -- url     : https://prove2.me/theorems/ad4f14d3-a4bb-451e-9d0b-2d2ea180b597

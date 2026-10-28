@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.radPot_hessian_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:20:56.91828+00:00
 -- url     : https://prove2.me/submissions/de0b982c-0bff-4558-a845-8c6577f2ccaa
 

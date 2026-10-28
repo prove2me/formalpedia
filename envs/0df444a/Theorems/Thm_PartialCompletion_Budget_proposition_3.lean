@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PartialCompletion_Budget_proposition_3
 -- name    : PartialCompletion.Budget.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:51:45.682005+00:00
 -- url     : https://prove2.me/theorems/31fcb606-d31c-46de-b81f-51e4a766aacd

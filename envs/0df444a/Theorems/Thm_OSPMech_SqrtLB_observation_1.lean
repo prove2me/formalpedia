@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OSPMech_SqrtLB_observation_1
 -- name    : OSPMech.SqrtLB.observation_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:40.112393+00:00
 -- url     : https://prove2.me/theorems/c0e49a5a-e76e-461a-ad7b-5e50a51c747c

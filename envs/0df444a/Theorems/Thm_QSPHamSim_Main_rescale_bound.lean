@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSPHamSim_Main_rescale_bound
 -- name    : QSPHamSim.Main.rescale_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:14.69687+00:00
 -- url     : https://prove2.me/theorems/e9467c93-a3fb-449e-aa86-3b48bee942fb

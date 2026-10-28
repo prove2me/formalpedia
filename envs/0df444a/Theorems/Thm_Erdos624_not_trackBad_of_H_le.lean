@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_not_trackBad_of_H_le
 -- name    : Erdos624.not_trackBad_of_H_le
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:07.476803+00:00
 -- url     : https://prove2.me/theorems/fbfeb466-2209-4e0b-ae98-08d5b0e2f649
 -- title:

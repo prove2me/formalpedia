@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAGFiniteSum_Rate_lemma_2
 -- name    : SAGFiniteSum.Rate.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:17:37.667879+00:00
 -- url     : https://prove2.me/theorems/72591e8a-33b4-4cd4-ab97-380cc6e8c391

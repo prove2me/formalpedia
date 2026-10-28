@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.DP.greedy_no_improvement_optimal
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:08:06.076865+00:00
 -- url     : https://prove2.me/submissions/1700d523-dfea-4065-b5e5-702a6383beaf
 

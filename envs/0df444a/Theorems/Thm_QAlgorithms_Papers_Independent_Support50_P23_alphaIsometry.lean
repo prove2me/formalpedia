@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_alphaIsometry
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.alphaIsometry
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:58:17.878983+00:00
 -- url     : https://prove2.me/theorems/d546091c-4b2a-4925-a582-c230420b71c9

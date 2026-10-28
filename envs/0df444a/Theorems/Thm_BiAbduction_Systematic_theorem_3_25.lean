@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiAbduction_Systematic_theorem_3_25
 -- name    : BiAbduction.Systematic.theorem_3_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:05.567189+00:00
 -- url     : https://prove2.me/theorems/28f449db-d9f4-4989-b83d-551e8afa74ea

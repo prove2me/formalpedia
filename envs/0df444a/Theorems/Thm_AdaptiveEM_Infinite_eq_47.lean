@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveEM_Infinite_eq_47
 -- name    : AdaptiveEM.Infinite.eq_47
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:28.723051+00:00
 -- url     : https://prove2.me/theorems/0950a2dc-f6e7-4c6e-9504-dc8b558350d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperBAE_Restriction_specialization
 -- name    : SuperBAE.Restriction.specialization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:23.636217+00:00
 -- url     : https://prove2.me/theorems/34a33189-ec91-41ce-ba38-b0080ba6914a

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_riem_geomGamma
 -- name    : NewtonCartan.riem_geomGamma
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:40:23.194256+00:00
 -- url     : https://prove2.me/theorems/75ddebbc-3e82-4f75-8d93-4907d1d39d49
 -- title:

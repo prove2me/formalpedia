@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P33_purification_squashing_identities
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P33.purification_squashing_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:45:13.498988+00:00
 -- url     : https://prove2.me/theorems/268014a2-f7ad-4e3c-bc13-dfaad4eb5c4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowerFareFirst_Critical_theorem2_critical_values_optimal
 -- name    : LowerFareFirst.Critical.theorem2_critical_values_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:57:14.951997+00:00
 -- url     : https://prove2.me/theorems/2da0cb08-1e0c-4bde-acb8-f67514e463de

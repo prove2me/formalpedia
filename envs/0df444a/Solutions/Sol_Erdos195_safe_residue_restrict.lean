@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.safe_residue_restrict
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T12:42:03.726998+00:00
 -- url     : https://prove2.me/submissions/cc78e6fd-2eb5-427d-b139-d967e3129fb2
 

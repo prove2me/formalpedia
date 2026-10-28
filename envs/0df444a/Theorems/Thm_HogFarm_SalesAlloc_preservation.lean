@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HogFarm_SalesAlloc_preservation
 -- name    : HogFarm.SalesAlloc.preservation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:51:58.312683+00:00
 -- url     : https://prove2.me/theorems/0d3a9eb8-85fa-40bd-aafe-f5b7fa670e2a

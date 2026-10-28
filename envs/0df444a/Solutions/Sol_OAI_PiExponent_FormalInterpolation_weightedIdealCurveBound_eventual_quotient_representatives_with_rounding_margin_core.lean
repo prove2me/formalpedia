@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.weightedIdealCurveBound_eventual_quotient_representatives_with_rounding_margin_core
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:53:58.982826+00:00
 -- url     : https://prove2.me/submissions/512fa8b3-d4a4-4aad-bbbc-512445bd5e10
 -- note    : a sketch -- it imports a theorem that is still Open,

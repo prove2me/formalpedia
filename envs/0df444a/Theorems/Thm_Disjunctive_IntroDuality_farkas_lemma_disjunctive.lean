@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_IntroDuality_farkas_lemma_disjunctive
 -- name    : Disjunctive.IntroDuality.farkas_lemma_disjunctive
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:03:24.36498+00:00
 -- url     : https://prove2.me/theorems/770daf5f-1214-4901-94bf-be9074745bf5

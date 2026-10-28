@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P10_complete_residue_count_classification
 -- name    : QAlgorithms.Papers.Independent.Gap48.P10.complete_residue_count_classification
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:29:32.575643+00:00
 -- url     : https://prove2.me/theorems/049a7a6b-bc4c-410f-9454-02cb4a9d2f2b

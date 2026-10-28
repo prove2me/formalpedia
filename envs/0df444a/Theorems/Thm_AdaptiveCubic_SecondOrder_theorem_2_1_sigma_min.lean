@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveCubic_SecondOrder_theorem_2_1_sigma_min
 -- name    : AdaptiveCubic.SecondOrder.theorem_2_1_sigma_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:38:41.128659+00:00
 -- url     : https://prove2.me/theorems/627da098-0ee3-412b-ae7a-7b47b54d2686

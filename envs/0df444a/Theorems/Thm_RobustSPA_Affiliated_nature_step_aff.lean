@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_Affiliated_nature_step_aff
 -- name    : RobustSPA.Affiliated.nature_step_aff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:47.102389+00:00
 -- url     : https://prove2.me/theorems/66acf652-77c7-4761-85f0-6fa75020f467

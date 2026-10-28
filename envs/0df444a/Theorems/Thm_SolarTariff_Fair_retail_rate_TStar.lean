@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolarTariff_Fair_retail_rate_TStar
 -- name    : SolarTariff.Fair.retail_rate_TStar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:22.534072+00:00
 -- url     : https://prove2.me/theorems/e7d3821f-bfdb-40e1-97c1-bcea11deaf90

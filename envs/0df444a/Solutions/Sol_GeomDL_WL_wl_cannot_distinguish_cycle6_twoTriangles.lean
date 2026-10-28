@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.WL.wl_cannot_distinguish_cycle6_twoTriangles
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:53:52.356835+00:00
 -- url     : https://prove2.me/submissions/49446d42-d5ca-4e90-8a5a-b1e3168d0d5b
 

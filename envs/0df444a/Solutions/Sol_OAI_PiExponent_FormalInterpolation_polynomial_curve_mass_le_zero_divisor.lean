@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.polynomial_curve_mass_le_zero_divisor
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:34:19.10805+00:00
 -- url     : https://prove2.me/submissions/e3db4083-73f9-4b50-ab15-6a9dbe27fd80
 

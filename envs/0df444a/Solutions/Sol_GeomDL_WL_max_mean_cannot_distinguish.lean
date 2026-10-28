@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.WL.max_mean_cannot_distinguish
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:51:58.265841+00:00
 -- url     : https://prove2.me/submissions/9b297c39-c736-4b2a-8ff2-0216dd09d948
 

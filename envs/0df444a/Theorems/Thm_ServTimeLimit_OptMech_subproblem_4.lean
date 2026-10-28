@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServTimeLimit_OptMech_subproblem_4
 -- name    : ServTimeLimit.OptMech.subproblem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:41.860308+00:00
 -- url     : https://prove2.me/theorems/70d4e24a-ad50-4459-8cc1-9e39003d312c

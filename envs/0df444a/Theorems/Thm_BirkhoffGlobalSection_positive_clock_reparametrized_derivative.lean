@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirkhoffGlobalSection_positive_clock_reparametrized_derivative
 -- name    : BirkhoffGlobalSection.positive_clock_reparametrized_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-03T23:13:07.613375+00:00
 -- url     : https://prove2.me/theorems/28f500fb-7339-4688-8f90-080beefc2fee

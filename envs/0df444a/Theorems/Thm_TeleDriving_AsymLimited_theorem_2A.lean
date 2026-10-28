@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleDriving_AsymLimited_theorem_2A
 -- name    : TeleDriving.AsymLimited.theorem_2A
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:56.356988+00:00
 -- url     : https://prove2.me/theorems/ee10dc8d-90d0-4fc4-8069-8b4216694af9

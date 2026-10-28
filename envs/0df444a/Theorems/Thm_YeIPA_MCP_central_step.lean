@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_MCP_central_step
 -- name    : YeIPA.MCP.central_step
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:42.766629+00:00
 -- url     : https://prove2.me/theorems/4d43d4b5-5c30-4afd-9343-69413d4b43e0

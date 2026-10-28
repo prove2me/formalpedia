@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_safe_of_reverse
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:14.633283+00:00
 -- url     : https://prove2.me/submissions/f91b419b-b6aa-4175-be4c-b350b8a2bfcf
 

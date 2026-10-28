@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.exterior_record
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:42:54.22166+00:00
 -- url     : https://prove2.me/submissions/8f43530b-e575-4c57-a2e5-5bd67dc0e838
 

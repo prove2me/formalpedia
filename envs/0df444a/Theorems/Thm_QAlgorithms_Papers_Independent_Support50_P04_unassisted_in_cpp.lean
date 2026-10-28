@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P04_unassisted_in_cpp
 -- name    : QAlgorithms.Papers.Independent.Support50.P04.unassisted_in_cpp
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:32:11.575324+00:00
 -- url     : https://prove2.me/theorems/cc4e2291-8516-4fc0-8256-39b51e07289f

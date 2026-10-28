@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReflNewton_LocalQuad_theorem_13
 -- name    : ReflNewton.LocalQuad.theorem_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:57:42.625576+00:00
 -- url     : https://prove2.me/theorems/827646ea-4034-47e0-a5a5-fe2f4493451c

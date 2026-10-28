@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_ch_independent_of_ZFC
 -- name    : ContinuumHypothesis.ch_independent_of_ZFC
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:39:05.894246+00:00
 -- url     : https://prove2.me/theorems/b00edd57-8d2e-460d-a3ad-b387b817bd60

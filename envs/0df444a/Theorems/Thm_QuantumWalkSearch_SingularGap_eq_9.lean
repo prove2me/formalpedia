@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_SingularGap_eq_9
 -- name    : QuantumWalkSearch.SingularGap.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:41:23.34503+00:00
 -- url     : https://prove2.me/theorems/b21ac3c8-ff18-4627-9af1-68e1a6409898

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P12_backgroundAlickiFannes
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P12.backgroundAlickiFannes
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:38:48.892036+00:00
 -- url     : https://prove2.me/theorems/9c8bc83d-29da-4873-817d-ca865215849f

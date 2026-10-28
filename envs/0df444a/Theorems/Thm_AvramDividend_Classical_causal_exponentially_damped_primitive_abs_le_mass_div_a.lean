@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_causal_exponentially_damped_primitive_abs_le_mass_div_a
 -- name    : AvramDividend.Classical.causal_exponentially_damped_primitive_abs_le_mass_div_a
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:50:22.724797+00:00
 -- url     : https://prove2.me/theorems/c5f22378-a995-45f5-a1f3-7938ca70f05e

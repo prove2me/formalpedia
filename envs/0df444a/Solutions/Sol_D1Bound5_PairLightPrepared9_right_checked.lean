@@ -1,0 +1,196 @@
+-- Prove2me | solution 1 for D1Bound5.PairLightPrepared9.right_checked
+-- status  : ACCEPTED   (prove)
+-- author  : @tp
+-- created : 2026-10-24T02:14:48.957256+00:00
+-- url     : https://prove2.me/submissions/29123c1d-b2aa-4176-a443-883b9f994f40
+
+import Init
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.QuadraticAlgebra.Basic
+import Mathlib.Algebra.Ring.Basic
+import Mathlib.Algebra.Ring.Equiv
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Complex.Polynomial.Basic
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Int.GCD
+import Mathlib.Data.Int.Interval
+import Mathlib.Data.Int.Sqrt
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.Range
+import Mathlib.Data.ZMod.Basic
+import Mathlib.LinearAlgebra.Dimension.Free
+import Mathlib.NumberTheory.NumberField.InfinitePlace.TotallyRealComplex
+import Mathlib.NumberTheory.NumberField.Norm
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.LinearCombination
+import Mathlib.Tactic.Ring
+import Definitions.Def_D1Bound5_Coordinates_Definitions
+import Definitions.Def_D1Bound5_PairBipartiteCheck_Definitions
+import Definitions.Def_D1Bound5_PairCachedResidues_Definitions
+import Definitions.Def_D1Bound5_PairLightArithmeticBridge_Definitions
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+import Definitions.Def_D1Bound5_SmallPairGraphData9_Definitions_001
+import Definitions.Def_D1Bound5_SmallPairGraphData9_Definitions_005
+import Definitions.Def_D1Bound5_SmallPairGraphData9_Definitions_006
+import Definitions.Def_D1Bound5_SmallPairLightData9_Definitions_001
+import Definitions.Def_D1Bound5_SmallPairLightData9_Definitions_003
+import Definitions.Def_D1Bound5_SmallPairLightData9_Definitions_004
+import Definitions.Def_D1Bound5_SmallPairSieve_0_1_Definitions
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared9_right_coverage_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared9_right_signatures_checked
+import Theorems.Thm_D1Bound5_PairLightPrepared9_rightVertices_eq
+import Theorems.Thm_D1Bound5_PairLightPrepared9_right_coverage_checked
+import Theorems.Thm_D1Bound5_PairLightPrepared9_right_independent_checked
+import Theorems.Thm_D1Bound5_PairLightPrepared9_right_signatures_checked
+import Theorems.Thm_D1Bound5_PairLightPrepared9_sieve_eq
+import Theorems.Thm_D1Bound5_pairIndependentBool_of_light_selected_floor_certificate
+
+section
+namespace D1Bound5.PairLightPrepared9
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+
+
+
+
+
+
+theorem right_certificate_checked :
+    pairLightSelectedFloorIndependentCertificateBool 0 1 sieve
+      rightVertices rightCached rightRows = true := by
+  unfold pairLightSelectedFloorIndependentCertificateBool
+  exact Bool.and_eq_true_iff.mpr ⟨right_coverage_checked,
+    Bool.and_eq_true_iff.mpr ⟨right_signatures_checked, right_independent_checked⟩⟩
+
+end D1Bound5.PairLightPrepared9
+end
+
+section
+/- Preserved body from D1Bound5.SmallPairGraphInputs9; original SHA256 ca62ac88f6fd92ac6c88d32728f23d50acccc1b3de5275a1968707cf69b7dac7. -/
+
+namespace D1Bound5
+set_option maxRecDepth 100000
+
+open QuadInt
+
+
+
+
+
+
+
+
+namespace PairGraphPrepared9
+
+
+
+end PairGraphPrepared9
+end D1Bound5
+
+/- Preserved body from D1Bound5.SmallPairGraphArithmetic9; original SHA256 fd1d6157d4b4c24fef10d7a2f6237fde1f8cbfff05503e9ebe391e7d05838373. -/
+
+namespace D1Bound5
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+
+
+
+
+
+
+end D1Bound5
+
+/- Preserved body from D1Bound5.SmallPairGraphWitnessData9; original SHA256 31c1f2f98508bd3fc8b92151463182de4b1512598a59fc695daddafd280d08b6. -/
+
+namespace D1Bound5.PairGraphPrepared9
+set_option maxRecDepth 100000
+
+
+
+
+
+
+
+
+
+end D1Bound5.PairGraphPrepared9
+
+/- Preserved body from D1Bound5.SmallPairGraphClosure9; original SHA256 e94a9445b1c122ab641e2de2725cc3f01edac2e0681257f16ef8978a3df72c9f. -/
+
+namespace D1Bound5
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+open PairGraphPrepared9
+
+
+
+
+
+end D1Bound5
+
+/- Preserved body from D1Bound5.SmallPairRawSelectedData9; original SHA256 6ff0a988a5e6bb648adc3744b2c10ae4709041786930eb7d4d3741248612b9dd. -/
+
+namespace D1Bound5.PairSelectedPrepared9
+set_option maxRecDepth 100000
+
+
+
+
+
+
+
+
+
+end D1Bound5.PairSelectedPrepared9
+
+/- Preserved body from D1Bound5.SmallPairLightAssembly9; original SHA256 029f3dcd6a8d5e1b506a7a8bb9e59164af150af72be69790c07a5a73b8286188. -/
+
+namespace D1Bound5.PairLightPrepared9
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem rightCached_eq :
+    rightCached = PairSelectedPrepared9.rightCached.map pairLightCachedCoordinates := by
+  rfl
+
+theorem rightRows_eq : rightRows = PairSelectedPrepared9.rightRows := by
+  rfl
+
+theorem _root_.solution :
+    pairIndependentBool smallPairSieve_0_1 (pairSplitByMask smallPairLarge_9 PairGraphPrepared9.colors).2 = true := by
+  apply pairIndependentBool_of_light_selected_floor_certificate (by decide) smallPairSieve_0_1
+    (pairSplitByMask smallPairLarge_9 PairGraphPrepared9.colors).2 PairSelectedPrepared9.rightCached PairSelectedPrepared9.rightRows
+  rw [← sieve_eq, ← rightVertices_eq, ← rightCached_eq, ← rightRows_eq]
+  exact right_certificate_checked
+
+end D1Bound5.PairLightPrepared9
+
+/- Preserved body from D1Bound5.SmallPairGraphTriangle9; original SHA256 deaa2af82bd08f97e72491cf75a6a53a63954646129242a9f94f3c14c6e41dc1. -/
+
+namespace D1Bound5
+set_option maxRecDepth 100000
+
+
+
+end D1Bound5
+
+/- Preserved body from D1Bound5.SmallPairGraphData9; original SHA256 88b329ddf09044b819e713be36bebaa67a0cb6ecc5714f24b166e8a129e33139. -/
+end

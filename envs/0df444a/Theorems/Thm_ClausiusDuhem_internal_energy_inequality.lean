@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClausiusDuhem_internal_energy_inequality
 -- name    : ClausiusDuhem.internal_energy_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:36:23.944359+00:00
 -- url     : https://prove2.me/theorems/025198cf-aa9a-40e0-8f5f-4e6101f0837d

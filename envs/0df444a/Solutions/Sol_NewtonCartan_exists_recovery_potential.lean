@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.exists_recovery_potential
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:18:09.78493+00:00
 -- url     : https://prove2.me/submissions/ae26d391-cba6-413b-9536-b85460fd3882
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_hy_semigroup
 -- name    : EthierKurtz.oblique_hy_semigroup
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-27T12:55:54.79208+00:00
 -- url     : https://prove2.me/theorems/d67abb68-8b2b-4881-b288-68a637a301eb

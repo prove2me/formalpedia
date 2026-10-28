@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_eventual_weighted_generation_implies_eventual_surjective_weighted_sections
 -- name    : OAI.PiExponent.FormalInterpolation.eventual_weighted_generation_implies_eventual_surjective_weighted_sections
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:06:56.506762+00:00
 -- url     : https://prove2.me/theorems/c6e1675d-ed07-4058-b079-95411b936698
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjSDP_recourseSet_bounded
 -- name    : MinimaxSLP.ObjSDP.recourseSet_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:08:51.775545+00:00
 -- url     : https://prove2.me/theorems/ed30a840-3efb-4a3f-b9e8-e7cfc6a9853b

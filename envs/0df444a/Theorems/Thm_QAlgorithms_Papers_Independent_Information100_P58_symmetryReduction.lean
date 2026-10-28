@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_symmetryReduction
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.symmetryReduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:21:26.360487+00:00
 -- url     : https://prove2.me/theorems/bbbaea0c-c752-4377-80cd-df84ecf1811d

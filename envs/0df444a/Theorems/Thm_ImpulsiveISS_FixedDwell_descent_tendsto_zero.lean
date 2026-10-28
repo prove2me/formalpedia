@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulsiveISS_FixedDwell_descent_tendsto_zero
 -- name    : ImpulsiveISS.FixedDwell.descent_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:45:05.329412+00:00
 -- url     : https://prove2.me/theorems/5dedcb73-1c18-41ff-a087-a675b8404e71

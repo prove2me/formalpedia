@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_D1Bound5_PairLightAdaptivePrepared33_left_prefix_000_part03_checked
+-- name    : D1Bound5.PairLightAdaptivePrepared33.left_prefix_000_part03_checked
+-- status  : Proved
+-- author  : @tp
+-- created : 2026-10-24T03:10:01.37745+00:00
+-- url     : https://prove2.me/theorems/18c23d7a-ab64-4f83-a4c5-c3704f8d1aed
+-- title:
+--   Selected-floor prefix certificate for prepared pair 33, left list, part 3
+-- statement:
+--   For prepared pair 33, left list, part 3, the selected-floor certificate succeeds for at most `40` head rows of the supplied cached vertex list. Each selected head is checked against its complete remaining tail, including vertices beyond the end of this chunk. The quadratic coordinate parameters are τ = 1 and ν = 2, and the sieve is `PairLightPrepared33.sieve`. Original heads 94 through 133; each retains its entire original tail.
+-- source:
+--   D1Bound5/SmallPairLightAdaptiveLeft33_000Part03.lean, lines 7-11, SHA-256 dd8e1ba86f2a0cbacdcc95ea2af0103cc107db225a238852f98772960d07257b. Project: https://github.com/tomislav-math/d1-bound5-lean
+
+import Init
+import Definitions.Def_D1Bound5_PairLightArithmeticChunks_Definitions
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightAdaptiveData33_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData33_Definitions_001
+
+section
+namespace D1Bound5.PairLightAdaptivePrepared33
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+
+theorem _root_.D1Bound5.PairLightAdaptivePrepared33.left_prefix_000_part03_checked :
+    pairLightSelectedFloorPrefixBool 1 2 PairLightPrepared33.sieve 40
+      (leftCached000.drop 94) (leftRows000.drop 94) = true := by sorry
+
+end D1Bound5.PairLightAdaptivePrepared33
+end

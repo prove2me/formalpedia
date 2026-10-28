@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Scheme_zstar_le_zeta
 -- name    : ConstrNestedLogit.Scheme.zstar_le_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:09:23.599368+00:00
 -- url     : https://prove2.me/theorems/791f5e20-ad3a-4df9-9cd6-ca715b2b34be

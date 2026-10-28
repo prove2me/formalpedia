@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThorpNine_main
 -- name    : OAI.ThorpNine.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:30.406277+00:00
 -- url     : https://prove2.me/theorems/eba1c41e-d316-423d-84d9-e844f5ad231d

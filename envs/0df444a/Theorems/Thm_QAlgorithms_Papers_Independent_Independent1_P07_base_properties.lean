@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_base_properties
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.base_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:46:59.159765+00:00
 -- url     : https://prove2.me/theorems/bd90b816-f305-4cd1-8740-cbc65ed2841c

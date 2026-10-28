@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.chat03_grid_stopped_scale_reward_measurable
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T06:07:09.62002+00:00
 -- url     : https://prove2.me/submissions/4bf1070f-2dec-4fa9-a349-f48096009213
 

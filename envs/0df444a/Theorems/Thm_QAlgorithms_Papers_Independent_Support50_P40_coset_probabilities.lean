@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P40_coset_probabilities
 -- name    : QAlgorithms.Papers.Independent.Support50.P40.coset_probabilities
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:04:01.756692+00:00
 -- url     : https://prove2.me/theorems/4cfb922b-e82c-4ed3-ba09-660621a618fa

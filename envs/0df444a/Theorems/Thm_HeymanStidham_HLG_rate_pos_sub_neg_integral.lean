@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeymanStidham_HLG_rate_pos_sub_neg_integral
 -- name    : HeymanStidham.HLG.rate_pos_sub_neg_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:39:20.36805+00:00
 -- url     : https://prove2.me/theorems/f91c64e1-2a80-4343-ba98-a2239040bfa8

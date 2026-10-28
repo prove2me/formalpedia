@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TurnTables_Reciprocal_offeree_response
 -- name    : TurnTables.Reciprocal.offeree_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:54:21.118844+00:00
 -- url     : https://prove2.me/theorems/2007ec0c-0d78-4567-8f50-d83667bcc455

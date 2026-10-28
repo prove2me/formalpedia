@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_EFG_lemma7_C_continuous_antitone
 -- name    : GreedyRS.EFG.lemma7_C_continuous_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:37.813274+00:00
 -- url     : https://prove2.me/theorems/75bf108d-7648-404a-8b4a-01085db953f5

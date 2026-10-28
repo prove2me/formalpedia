@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_beta2_bounded
 -- name    : ScheduledQueue.Stability.beta2_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:07:44.767989+00:00
 -- url     : https://prove2.me/theorems/018ccaf8-5243-443c-901b-016087f5b818

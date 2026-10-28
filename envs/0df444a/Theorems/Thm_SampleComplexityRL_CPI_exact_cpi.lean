@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_CPI_exact_cpi
 -- name    : SampleComplexityRL.CPI.exact_cpi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:13:08.212181+00:00
 -- url     : https://prove2.me/theorems/f16a915e-8feb-4cbf-9208-264ad6824ea0

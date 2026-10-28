@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DissipativePrep_Unique_theorem_2
 -- name    : DissipativePrep.Unique.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:47:07.998078+00:00
 -- url     : https://prove2.me/theorems/2da459ea-98f6-4fbc-b281-d5af81dc48d5

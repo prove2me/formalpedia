@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Regression_rademacher_regression_bound_v2
 -- name    : FoundationsML.Regression.rademacher_regression_bound_v2
--- status  : Open
+-- status  : Disproved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:18:59.971189+00:00
 -- url     : https://prove2.me/theorems/722b6d6e-5aa7-48ab-a456-fbb11573e7ab

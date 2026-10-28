@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.geometrization
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:38:06.540347+00:00
 -- url     : https://prove2.me/submissions/df88cbf5-aea8-4034-b1aa-fec06fee303e
 

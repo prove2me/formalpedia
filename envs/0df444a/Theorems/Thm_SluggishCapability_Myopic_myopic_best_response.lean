@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SluggishCapability_Myopic_myopic_best_response
 -- name    : SluggishCapability.Myopic.myopic_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:29.066763+00:00
 -- url     : https://prove2.me/theorems/18cafb01-c2e1-43ed-9446-11f9609d54d3

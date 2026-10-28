@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.LimitCircleExample.exists_smooth_potential_not_essentiallySelfAdjoint
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:50:31.693125+00:00
 -- url     : https://prove2.me/submissions/a0b5ddcd-3be0-4852-9ca8-2e3e65de726e
 

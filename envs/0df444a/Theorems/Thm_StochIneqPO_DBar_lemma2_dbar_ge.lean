@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_DBar_lemma2_dbar_ge
 -- name    : StochIneqPO.DBar.lemma2_dbar_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:36:29.32377+00:00
 -- url     : https://prove2.me/theorems/8f489bc1-b7d6-4948-98a1-59838a2c3d1e

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_bottom_insert_iff
 -- name    : Erdos195.bottom_insert_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:33:29.385981+00:00
 -- url     : https://prove2.me/theorems/88b3bee7-e505-46d6-820d-29781ab057e0
 -- title:

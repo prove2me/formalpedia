@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_star
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:12.969654+00:00
 -- url     : https://prove2.me/submissions/f0b7e681-076f-44e2-9d72-e93052633f5b
 

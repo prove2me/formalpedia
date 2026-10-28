@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantileSPQO_Rate_eq_4
 -- name    : QuantileSPQO.Rate.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:46.103434+00:00
 -- url     : https://prove2.me/theorems/a456122a-3dca-4583-8e76-d5f242c3ce69

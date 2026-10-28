@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P43_alternative_pure
 -- name    : QAlgorithms.Papers.Independent.Support50.P43.alternative_pure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:31:26.715147+00:00
 -- url     : https://prove2.me/theorems/5013a1b9-a444-43d2-ad1d-3b28fa2abb6d

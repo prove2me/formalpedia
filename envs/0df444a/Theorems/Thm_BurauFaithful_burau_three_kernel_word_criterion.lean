@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurauFaithful_burau_three_kernel_word_criterion
 -- name    : BurauFaithful.burau_three_kernel_word_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @lt9
 -- created : 2026-09-28T17:33:09.730677+00:00
 -- url     : https://prove2.me/theorems/e1d4bdd7-7967-44d8-91b8-b0c88eb1a843

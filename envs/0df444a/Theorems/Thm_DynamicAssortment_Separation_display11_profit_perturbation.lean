@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicAssortment_Separation_display11_profit_perturbation
 -- name    : DynamicAssortment.Separation.display11_profit_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T10:11:57.152831+00:00
 -- url     : https://prove2.me/theorems/b3a6ac61-d76d-4f3f-8fb7-103a4717f4cb

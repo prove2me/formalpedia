@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_eventualLogJetSurjective_transverseForSpatialVolume_360483bd
 -- name    : OAI.PiExponent.eventualLogJetSurjective_transverseForSpatialVolume_360483bd
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T17:28:40.617371+00:00
 -- url     : https://prove2.me/theorems/9b7e8bd1-5d55-4329-9655-cbdd8e23d0a9

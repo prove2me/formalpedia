@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CyberShare_Sharing_symmetry_reduction
 -- name    : CyberShare.Sharing.symmetry_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:41.832209+00:00
 -- url     : https://prove2.me/theorems/d077d220-5fa4-4b47-a8df-6a1d5e9ea7fa

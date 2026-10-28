@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuityEqWiki_fourDiv_eq_zero_iff_continuity
 -- name    : ContinuityEqWiki.fourDiv_eq_zero_iff_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:34.672042+00:00
 -- url     : https://prove2.me/theorems/7aa2da4e-9f3d-43d7-9592-8f28d9c7c1dc

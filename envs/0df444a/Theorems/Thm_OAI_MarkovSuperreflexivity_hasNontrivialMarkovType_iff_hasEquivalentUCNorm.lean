@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MarkovSuperreflexivity_hasNontrivialMarkovType_iff_hasEquivalentUCNorm
 -- name    : OAI.MarkovSuperreflexivity.hasNontrivialMarkovType_iff_hasEquivalentUCNorm
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:54.806767+00:00
 -- url     : https://prove2.me/theorems/bfe0496e-2d36-4ebd-a56d-7827cf4c584a

@@ -1,0 +1,690 @@
+-- Prove2me | solution 1 for CountingMatroid.Analysis.sortedInsert_value_eq
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-24T11:59:59.133435+00:00
+-- url     : https://prove2.me/submissions/90d19c70-b5cd-461b-a08a-78f2c4e44e64
+
+/-
+Required support modules adapted from meelgroup/arlib, commit 6262f60ad7556be62e94e87f6b5811cf299e7d94. Copyright and authorship notices are preserved in each file. Module import paths use CountingMatroidSupport; original declaration namespaces are retained for proof compatibility. Arlib is not a Lake package dependency.
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "{}"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright {yyyy} {name of copyright owner}
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+-/
+import Definitions.Def_CountingMatroidSupport_Computation_Charged
+import Definitions.Def_CountingMatroidSupport_Computation_Charged_Extension1
+import Definitions.Def_CountingMatroidSupport_Computation_Cost
+import Definitions.Def_CountingMatroidSupport_Computation_Dict
+import Definitions.Def_CountingMatroidSupport_Computation_Heap
+import Definitions.Def_CountingMatroidSupport_Computation_Machine
+import Definitions.Def_CountingMatroidSupport_Computation_Num
+import Definitions.Def_CountingMatroidSupport_Computation_Queue
+import Definitions.Def_CountingMatroidSupport_Computation_Rand
+import Definitions.Def_CountingMatroidSupport_Computation_Roster
+import Definitions.Def_CountingMatroidSupport_Computation_Slot
+import Definitions.Def_CountingMatroidSupport_Computation_Space
+import Definitions.Def_CountingMatroidSupport_Computation_Std
+import Definitions.Def_CountingMatroid_Model_Operations
+import Definitions.Def_CountingMatroid_Model_Prelude
+import Definitions.Def_CountingMatroid_Model_Program
+import Definitions.Def_CountingMatroid_Model_Subroutines
+import Lean
+import Mathlib.Algebra.BigOperators.Group.Finset.Defs
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Defs
+import Mathlib.Algebra.Order.Group.Int
+import Mathlib.Combinatorics.Matroid.Rank.ENat
+import Mathlib.Data.BitVec
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.Sort
+import Mathlib.Data.Multiset.Basic
+import Mathlib.Data.Nat.Log
+import Mathlib.Data.Rat.Defs
+import Mathlib.Data.Real.Basic
+import Mathlib.Order.Interval.Set.Basic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.GCongr
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Ring.RingNF
+
+section
+/-
+Copyright (c) 2026 Kuldeep S. Meel. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Kuldeep S. Meel
+-/
+
+
+/-!
+# Charged computation: the cost comes from the program
+
+`Arlib.Computation.Machine` seals a word RAM, which is the right model when an
+algorithm is written against words and memory.  Many algorithms are not: the
+CVM distinct-elements estimator is written against a *set*, and the natural unit
+of its running time is the container operation, not the machine word.
+
+The temptation, when there is no machine, is to write the cost down beside the
+program:
+
+```
+def stepCost (s : State) : CostVec Op := one .delete + one .insert   -- a claim
+def step (s : State) : State := …                                    -- a program
+```
+
+Nothing relates the two.  `stepCost := 0` typechecks, every theorem downstream
+still holds, and the running-time result is vacuous.  This is exactly the defect
+`Arlib.Computation` exists to remove, and it is the one the Lean standard
+algorithms library's `TimeM` records in its own docstring: its annotations are
+trusted, not verified.
+
+This module removes it without a machine.  `Charged κ κₛ α` is a value paired
+with a tally, with a **private constructor**: the only ways to build one are
+`pure` (free), `bind` (costs add), and `Charged.op` (one operation, one charge).
+So a program's tally is not a claim its author writes; it is a function of the
+program's text, computed by the elaborator.  Writing the wrong cost is not a
+thing one can do — there is no place to write it.
+
+## Two resources, one program
+
+A computation carries a third field: a `Profile κₛ` recording what it does to
+*what is held*, in the storage currency `κₛ`.  It is not a second object to be
+related to the first — the accuracy theorem, the time theorem and the space
+theorem are three operators applied to one `Charged` value.
+
+The two resources compose differently and that is the content, not an accident.
+Time is a commutative monoid under `+`; space is a `(net, peak)` pair whose
+composition takes a `max`, is not commutative, and is the subject of
+`Arlib.Computation.Space`.  `Charged.op` is space-neutral — a comparison is work
+but not storage — and `Charged.opUpdate` is the one operation that changes what
+is held.
+
+## The hole this does not close
+
+`pure` has the identity profile whatever its argument is, so `pure (x, x)` is
+free and holds twice.  Space credits are *linear* where time credits are affine
+([MP22], [MPV25]), and Lean is not a linear language; `Charged.val`'s
+noncomputability blocks the only laundering syntax for time, and there is no
+analogous block for holding a bound variable twice.  `ExactNet` below is the
+obligation that fails on it, at proof time rather than silently.
+
+## What this does and does not seal
+
+`Charged` alone stops a program from *understating* a step it takes.  It does not
+by itself stop `pure (expensiveThing x)`, because Lean will happily compute
+`expensiveThing` for free.  That gap is closed the way `Machine.lean` closes it:
+by sealing the *data*.  `Arlib.Computation.Roster` is the instance of that for
+finite sets — its contents are private and its `Finset` view is
+`noncomputable`, so outside its own module the only thing one can do with a
+roster is call a charged operation on it.  The two modules together are what
+make "the cost is computed from the process" true rather than aspirational.
+
+## Main definitions
+
+* `Charged κ κₛ α` — a value, the tally of work that produced it, and what it
+  did to what is held.
+* `Charged.op` — one operation of the currency, with its result.  Space-neutral.
+* `Charged.opUpdate` — the one operation that changes what is held.
+* `Charged.foldl` — bounded iteration, with the cost of the whole fold.
+* `Charged.steps` — the time operator.
+* `Charged.space` — the space operator.  `noncomputable`, unlike `cost`.
+* `Charged.ExactNet` — the linearity obligation, and the hypothesis of every
+  space bound.
+* `Charged.residency_le_peak_of_prefix` — what is held at any point of a program
+  is below its peak.
+-/
+
+namespace Arlib.Computation
+
+universe u v
+
+
+
+namespace Charged
+
+variable {κ κₛ : Type} {α β γ : Type u}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The operation that changes what is held -/
+
+
+
+
+
+
+
+
+
+/-! ## Iteration -/
+
+
+
+variable {ι : Type v}
+
+
+
+
+
+
+
+@[simp] theorem val_foldl_cons (f : β → ι → Charged κ κₛ β) (a : ι) (l : List ι) (b : β) :
+    (foldl f (a :: l) b).val = (foldl f l (f b a).val).val := rfl
+
+
+
+
+
+/-! ### Iteration with a `Break`
+
+A bounded loop that can stop early — the `Break` of a Karp–Luby estimator when a
+sample list runs out, and every "stop as soon as" line of a paper's pseudocode.
+
+Writing it as a `foldl` with a flag in the accumulator would keep running the
+body and pay for it; writing it outside the fold makes the realised round count
+a second definition alongside the program, which is the defect this area exists
+to remove.  Here the round count *is* the fold: the loop stops when the body
+declines to continue, and its tally stops with it. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The time operator -/
+
+variable [Fintype κ]
+
+/-! ## Changing currency -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## What is held, and the obligation that makes the peak mean something
+
+A `Profile` composes correctly whatever a program does.  That its `net` is
+*really* the change in what the program holds is a separate fact, and it is not
+automatic: `pure (x, x)` has net zero and holds twice.
+
+`ExactNet` is that fact, stated as a proposition.  It is the linearity discipline
+that AARA and the space-credit separation logics get from linear types, which
+Lean does not have — so here it is discharged per development rather than
+provided by the framework.  Saying otherwise would claim a guarantee this module
+has not got.
+
+It is **heterogeneous** in the value's type, because a real program's step takes
+a roster and returns a state record; a version fixing one type cannot be
+stated for the program it is meant to be about.
+
+Note what `ExactNet` does *not* audit: both sides are computed from the measures
+handed to it, so a measure that reports zero satisfies it. It audits the
+*program*, not the measure. What audits a measure is a theorem relating each
+operation's profile to a specification view of the data — `Roster.space_insert` and
+its siblings. Neither substitutes for the other. -/
+
+section ExactNet
+
+variable {κ κₛ : Type} {R S T : Type u} {ι : Type v}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ExactNet
+
+end Charged
+
+end Arlib.Computation
+
+end
+/-!
+# Value of the charged rational insertion scan
+
+On a sorted list, the charged scan inserts a rational at the same position as
+`List.orderedInsert`. The proof first identifies the scan with strict insertion,
+then uses sortedness to handle repeated values.
+-/
+
+set_option autoImplicit false
+
+namespace CountingMatroid.Analysis
+end CountingMatroid.Analysis
+open CountingMatroid CountingMatroid.Analysis
+
+/-- INTERNAL: On sorted input, the charged insertion scan has the value of ordinary ordered insertion. -/
+theorem solution (value : ℚ) (sorted : List ℚ)
+    (hsorted : sorted.Pairwise (· ≤ ·)) :
+    (CountingMatroid.Program.sortedInsert value sorted).val =
+      sorted.orderedInsert (· ≤ ·) value := by
+  have hfront : ∀ xs : List ℚ, (∀ x ∈ xs, value ≤ x) →
+      xs.orderedInsert (· < ·) value = value :: xs := by
+    intro xs
+    induction xs with
+    | nil => intro _; rfl
+    | cons x xs ih =>
+        intro hx
+        have hvx : value ≤ x := hx x (by simp)
+        have hxs : ∀ y ∈ xs, value ≤ y := by
+          intro y hy
+          exact hx y (by simp [hy])
+        by_cases hlt : value < x
+        · simp [List.orderedInsert_cons, hlt]
+        · have heq : value = x := le_antisymm hvx (le_of_not_gt hlt)
+          subst x
+          simp [List.orderedInsert_cons, ih hxs]
+  have hstrict : ∀ xs : List ℚ, xs.Pairwise (· ≤ ·) →
+      xs.orderedInsert (· < ·) value = xs.orderedInsert (· ≤ ·) value := by
+    intro xs
+    induction xs with
+    | nil => intro _; rfl
+    | cons x xs ih =>
+        intro hx
+        have htail : xs.Pairwise (· ≤ ·) := hx.of_cons
+        have hhead : ∀ y ∈ xs, x ≤ y := by
+          intro y hy
+          exact (List.pairwise_cons.mp hx).1 y hy
+        by_cases hlt : value < x
+        · simp [List.orderedInsert_cons, hlt, le_of_lt hlt]
+        · by_cases heq : value = x
+          · subst x
+            simp [List.orderedInsert_cons, hfront xs hhead]
+          · have hgt : x < value := lt_of_le_of_ne (le_of_not_gt hlt) (Ne.symm heq)
+            simp [List.orderedInsert_cons, hlt, not_le_of_gt hgt, ih htail]
+  let step : List ℚ × Bool → ℚ → List ℚ × Bool := fun acc item =>
+    if acc.2 then (item :: acc.1, true)
+    else if value < item then (item :: value :: acc.1, true)
+    else (item :: acc.1, false)
+  let cstep : List ℚ × Bool → ℚ →
+      Arlib.Computation.Charged CountingMatroid.Model.Operations.Op
+        CountingMatroid.Model.Operations.Cell (List ℚ × Bool) := fun acc item => do
+    if acc.2 then
+      let reversed ← CountingMatroid.Model.Operations.consRational item acc.1
+      pure (reversed, true)
+    else
+      let before ← CountingMatroid.Model.Operations.ratLess value item
+      if before then
+        let reversed ← CountingMatroid.Model.Operations.consRational value acc.1
+        let reversed ← CountingMatroid.Model.Operations.consRational item reversed
+        pure (reversed, true)
+      else
+        let reversed ← CountingMatroid.Model.Operations.consRational item acc.1
+        pure (reversed, false)
+  have hstep (acc : List ℚ × Bool) (item : ℚ) :
+      (cstep acc item).val = step acc item := by
+    rcases acc with ⟨rev, flag⟩
+    cases flag <;> simp [cstep, step, CountingMatroid.Model.Operations.ratLess,
+      CountingMatroid.Model.Operations.consRational]
+    split_ifs <;> simp
+  have hfold : ∀ (xs : List ℚ) (acc : List ℚ × Bool),
+      (Arlib.Computation.Charged.foldl cstep xs acc).val = xs.foldl step acc := by
+    intro xs
+    induction xs with
+    | nil => intro acc; rfl
+    | cons item xs ih =>
+        intro acc
+        simp only [Arlib.Computation.Charged.val_foldl_cons, List.foldl_cons]
+        rw [ih, hstep]
+  have hscan : ∀ (xs rev : List ℚ) (flag : Bool),
+      let result := xs.foldl step (rev, flag)
+      (if result.2 then result.1.reverse else (value :: result.1).reverse) =
+        rev.reverse ++ (if flag then xs else xs.orderedInsert (· < ·) value) := by
+    intro xs
+    induction xs with
+    | nil =>
+        intro rev flag
+        cases flag <;> simp [step]
+    | cons item xs ih =>
+        intro rev flag
+        cases flag with
+        | true =>
+            simpa [step, List.foldl_cons, List.reverse_cons, List.append_assoc] using
+              ih (item :: rev) true
+        | false =>
+            by_cases hlt : value < item
+            · simpa [step, hlt, List.foldl_cons, List.orderedInsert_cons,
+                List.reverse_cons, List.append_assoc] using
+                ih (item :: value :: rev) true
+            · simpa [step, hlt, List.foldl_cons, List.orderedInsert_cons,
+                List.reverse_cons, List.append_assoc] using
+                ih (item :: rev) false
+  let result := sorted.foldl step ([], false)
+  have hcharged : (CountingMatroid.Program.sortedInsert value sorted).val =
+      if result.2 then result.1.reverse else (value :: result.1).reverse := by
+    unfold CountingMatroid.Program.sortedInsert
+    change (do
+      let (reversed, inserted) ← Arlib.Computation.Charged.foldl cstep sorted ([], false)
+      let reversed ← if inserted then pure reversed
+        else CountingMatroid.Model.Operations.consRational value reversed
+      CountingMatroid.Model.Operations.reverseRationals reversed).val = _
+    simp [hfold, result, CountingMatroid.Model.Operations.consRational,
+      CountingMatroid.Model.Operations.reverseRationals]
+    split_ifs <;> simp
+  rw [hcharged]
+  have hresult := hscan sorted [] false
+  simpa [result, hstrict sorted hsorted] using hresult

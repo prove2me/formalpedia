@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_twosComplement_no_exhaustive_safe_chain
 -- name    : Erdos195.twosComplement_no_exhaustive_safe_chain
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:15:20.219984+00:00
 -- url     : https://prove2.me/theorems/e3b99f5d-d4c7-4cf8-b80c-5d368d89930c
 -- title:

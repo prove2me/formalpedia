@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_coeff_vanish_of_product
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_coeff_vanish_of_product
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:48:52.49812+00:00
 -- url     : https://prove2.me/theorems/81a82f83-3862-4138-8598-cfb7e0113207

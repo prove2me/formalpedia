@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.two_entry_absorption
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:50:07.270225+00:00
 -- url     : https://prove2.me/submissions/354aed18-a123-47f6-83b6-25d14a69fff8
 

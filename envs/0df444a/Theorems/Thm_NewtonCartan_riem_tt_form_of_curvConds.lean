@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_riem_tt_form_of_curvConds
 -- name    : NewtonCartan.riem_tt_form_of_curvConds
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:15:56.417909+00:00
 -- url     : https://prove2.me/theorems/6325d328-1f04-4d9a-9d5a-02f106d3a357
 -- title:

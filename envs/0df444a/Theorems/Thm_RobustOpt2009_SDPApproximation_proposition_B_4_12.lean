@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_SDPApproximation_proposition_B_4_12
 -- name    : RobustOpt2009.SDPApproximation.proposition_B_4_12
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:43:08.33976+00:00
 -- url     : https://prove2.me/theorems/48ef2b9a-c2ae-487d-8de4-14d3e7937c52

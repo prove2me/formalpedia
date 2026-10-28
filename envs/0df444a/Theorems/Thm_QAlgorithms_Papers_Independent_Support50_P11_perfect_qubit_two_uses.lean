@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P11_perfect_qubit_two_uses
 -- name    : QAlgorithms.Papers.Independent.Support50.P11.perfect_qubit_two_uses
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:15:14.202594+00:00
 -- url     : https://prove2.me/theorems/e063b2ab-4614-47bd-8cf2-0ed0c167cb8f

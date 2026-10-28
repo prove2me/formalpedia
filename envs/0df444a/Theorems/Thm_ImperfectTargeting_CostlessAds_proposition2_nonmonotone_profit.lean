@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImperfectTargeting_CostlessAds_proposition2_nonmonotone_profit
 -- name    : ImperfectTargeting.CostlessAds.proposition2_nonmonotone_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:37:54.296702+00:00
 -- url     : https://prove2.me/theorems/c1afc847-3834-4672-9fa8-2fb81f79912b

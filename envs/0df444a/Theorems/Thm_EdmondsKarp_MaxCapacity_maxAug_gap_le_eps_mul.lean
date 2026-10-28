@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_MaxCapacity_maxAug_gap_le_eps_mul
 -- name    : EdmondsKarp.MaxCapacity.maxAug_gap_le_eps_mul
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:20:31.58792+00:00
 -- url     : https://prove2.me/theorems/8a9711ba-cc79-4e7f-b35f-62c177580eef

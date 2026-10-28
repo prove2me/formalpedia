@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Peeling_type_three_structure
 -- name    : CClosedGraphs.Peeling.type_three_structure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:20:25.051564+00:00
 -- url     : https://prove2.me/theorems/83528d4c-65f5-43a3-b158-6431866e2220

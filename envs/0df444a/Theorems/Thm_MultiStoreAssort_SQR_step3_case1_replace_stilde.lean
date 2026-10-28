@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_step3_case1_replace_stilde
 -- name    : MultiStoreAssort.SQR.step3_case1_replace_stilde
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:23.640544+00:00
 -- url     : https://prove2.me/theorems/bf2ef4c1-1469-46c6-bff8-6053c9fef6d3

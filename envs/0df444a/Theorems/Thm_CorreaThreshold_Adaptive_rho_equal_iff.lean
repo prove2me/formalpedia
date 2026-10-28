@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Adaptive_rho_equal_iff
 -- name    : CorreaThreshold.Adaptive.rho_equal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:38.485696+00:00
 -- url     : https://prove2.me/theorems/8f5a5901-fc8f-4e2c-934a-512ec4f31507

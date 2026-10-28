@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AstromPOMDP_Reduction_theorem_2
 -- name    : AstromPOMDP.Reduction.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:43:57.775105+00:00
 -- url     : https://prove2.me/theorems/133c5a5b-036d-44da-ae15-41db0f218a5e

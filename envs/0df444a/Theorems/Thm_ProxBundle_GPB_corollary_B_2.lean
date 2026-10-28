@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxBundle_GPB_corollary_B_2
 -- name    : ProxBundle.GPB.corollary_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:26.044994+00:00
 -- url     : https://prove2.me/theorems/17a647db-da20-4b68-ab70-b6a1fecd78e4

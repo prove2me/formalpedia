@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FosterQueues_MG1_theorem4_transience_criterion
 -- name    : FosterQueues.MG1.theorem4_transience_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:20:39.455909+00:00
 -- url     : https://prove2.me/theorems/d47ac9a7-51c0-403b-b8c8-41fcb5cef7c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliffordTApprox_Ancilla_phase_reduction
 -- name    : CliffordTApprox.Ancilla.phase_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:29:43.107451+00:00
 -- url     : https://prove2.me/theorems/e251744c-5d64-48c1-b613-74cef7b70e2d

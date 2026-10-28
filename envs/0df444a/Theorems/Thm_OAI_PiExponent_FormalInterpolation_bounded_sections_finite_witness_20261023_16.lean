@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_bounded_sections_finite_witness_20261023_16
 -- name    : OAI.PiExponent.FormalInterpolation.bounded_sections_finite_witness_20261023_16
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T17:54:56.809982+00:00
 -- url     : https://prove2.me/theorems/ebb697d6-ccbc-40c7-b949-54ea86e5ca0c

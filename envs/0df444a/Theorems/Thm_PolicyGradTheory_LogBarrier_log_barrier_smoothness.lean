@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolicyGradTheory_LogBarrier_log_barrier_smoothness
 -- name    : PolicyGradTheory.LogBarrier.log_barrier_smoothness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:58:59.645986+00:00
 -- url     : https://prove2.me/theorems/df6ec2a0-0bc2-46e2-9c6d-6ecca51bac2a

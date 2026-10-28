@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P11_covariant_choi_simulation
 -- name    : QAlgorithms.Papers.Independent.Support50.P11.covariant_choi_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:10:22.885239+00:00
 -- url     : https://prove2.me/theorems/55c4d0f4-a4b0-462e-997f-bfce77c748a2

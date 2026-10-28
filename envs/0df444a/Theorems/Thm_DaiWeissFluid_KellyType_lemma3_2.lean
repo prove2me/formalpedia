@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_KellyType_lemma3_2
 -- name    : DaiWeissFluid.KellyType.lemma3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:46:11.458349+00:00
 -- url     : https://prove2.me/theorems/f802c2d2-293f-49c2-862d-2ceae1d4ddec

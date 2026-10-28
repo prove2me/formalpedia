@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat08_eventually_zero_finite_ennreal_weights_tsum_lt_top
 -- name    : AvramDividend.Classical.chat08_eventually_zero_finite_ennreal_weights_tsum_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:41:44.362616+00:00
 -- url     : https://prove2.me/theorems/32b4b4bb-9dd6-4feb-b6e9-66acd999eecc

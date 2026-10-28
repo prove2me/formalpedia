@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Stability_R_structure
 -- name    : MatrixAnalytic.Stability.R_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:35.09698+00:00
 -- url     : https://prove2.me/theorems/2d0efa86-0865-43ac-869d-772e5cc3e815

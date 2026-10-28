@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_target_last_caps
 -- name    : Erdos195.target_last_caps
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T14:10:02.376827+00:00
 -- url     : https://prove2.me/theorems/40c38a4f-c7f9-481e-8ff6-94ef204e666b
 -- title:

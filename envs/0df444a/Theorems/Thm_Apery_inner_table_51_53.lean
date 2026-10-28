@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_inner_table_51_53
 -- name    : Apery.inner_table_51_53
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-12T20:01:29.742859+00:00
 -- url     : https://prove2.me/theorems/6b637b6d-c2ac-4650-9e89-5315eae59469

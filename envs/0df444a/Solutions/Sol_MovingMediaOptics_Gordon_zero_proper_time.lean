@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MovingMediaOptics.Gordon.zero_proper_time
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:47:25.377499+00:00
 -- url     : https://prove2.me/submissions/0d45c1be-1bb4-4204-9a2f-4100b58a0173
 

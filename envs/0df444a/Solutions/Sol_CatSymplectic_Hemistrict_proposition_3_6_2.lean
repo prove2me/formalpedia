@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CatSymplectic.Hemistrict.proposition_3_6_2
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:22:39.054914+00:00
 -- url     : https://prove2.me/submissions/913ebd91-4c10-4cbf-9380-df94df11e1c8
 

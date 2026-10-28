@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketFreeze_Hetero_lemma_1
 -- name    : MarketFreeze.Hetero.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:39.989996+00:00
 -- url     : https://prove2.me/theorems/aab25156-30a1-45bc-b3e3-86a41c718f71

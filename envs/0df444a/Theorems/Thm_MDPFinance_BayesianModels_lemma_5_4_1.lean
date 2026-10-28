@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_BayesianModels_lemma_5_4_1
 -- name    : MDPFinance.BayesianModels.lemma_5_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:23:40.254032+00:00
 -- url     : https://prove2.me/theorems/b3a3e2ba-026f-47ac-8595-b76c69abd36b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPremiaDMP_Equivalence_surplus_characterization
 -- name    : RiskPremiaDMP.Equivalence.surplus_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:01.985439+00:00
 -- url     : https://prove2.me/theorems/cebb8b4a-1dad-4efa-bbbb-1fca6040c978

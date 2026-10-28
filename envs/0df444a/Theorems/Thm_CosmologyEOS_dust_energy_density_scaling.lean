@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_dust_energy_density_scaling
 -- name    : CosmologyEOS.dust_energy_density_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:33:24.285977+00:00
 -- url     : https://prove2.me/theorems/e9961bf7-5977-4974-8914-e23330b1a9b9

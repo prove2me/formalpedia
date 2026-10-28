@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_entropyThreshold_supermodular
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.entropyThreshold_supermodular
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:54:35.867527+00:00
 -- url     : https://prove2.me/theorems/d8f1aab9-f940-461a-9a80-aadccbe6c755

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleAuctionEff_Repeated_CS_le_of_indivRational
 -- name    : DoubleAuctionEff.Repeated.CS_le_of_indivRational
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:22:01.303988+00:00
 -- url     : https://prove2.me/theorems/09dccf21-74a8-42a5-8b68-7e3e6c9a1107

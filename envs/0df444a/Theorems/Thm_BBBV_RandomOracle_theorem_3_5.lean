@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBBV_RandomOracle_theorem_3_5
 -- name    : BBBV.RandomOracle.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:55:57.865995+00:00
 -- url     : https://prove2.me/theorems/c4c02663-9a65-4448-9278-5124871a0529

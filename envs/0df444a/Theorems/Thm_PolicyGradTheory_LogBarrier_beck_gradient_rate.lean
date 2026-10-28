@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolicyGradTheory_LogBarrier_beck_gradient_rate
 -- name    : PolicyGradTheory.LogBarrier.beck_gradient_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:54:57.975683+00:00
 -- url     : https://prove2.me/theorems/e2410bc4-0db3-4211-8fa3-714b40f18d76

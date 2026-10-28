@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandConc_ConvexHull_exp_fAlpha_le
 -- name    : TalagrandConc.ConvexHull.exp_fAlpha_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:42:13.25406+00:00
 -- url     : https://prove2.me/theorems/541ec0cb-1981-4500-a27d-fde38d78b253

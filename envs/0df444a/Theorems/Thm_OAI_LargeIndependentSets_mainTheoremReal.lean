@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LargeIndependentSets_mainTheoremReal
 -- name    : OAI.LargeIndependentSets.mainTheoremReal
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:51.874978+00:00
 -- url     : https://prove2.me/theorems/7d8c8ba0-7c0a-4343-8459-722c6d43f58d

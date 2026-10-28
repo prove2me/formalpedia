@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Micromobility_Transient_lemma_H_7
 -- name    : Micromobility.Transient.lemma_H_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:30.901546+00:00
 -- url     : https://prove2.me/theorems/49c8e496-5497-4764-8d7d-623bbfcfaf72

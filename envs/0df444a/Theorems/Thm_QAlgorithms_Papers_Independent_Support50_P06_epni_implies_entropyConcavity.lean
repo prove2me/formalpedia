@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P06_epni_implies_entropyConcavity
 -- name    : QAlgorithms.Papers.Independent.Support50.P06.epni_implies_entropyConcavity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:35:43.646886+00:00
 -- url     : https://prove2.me/theorems/40cf705f-f6ad-4835-a4f9-a35ee7048e3a

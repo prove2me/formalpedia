@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationContagion_Rotation_loss_ode
 -- name    : RotationContagion.Rotation.loss_ode
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:47.934862+00:00
 -- url     : https://prove2.me/theorems/535dee31-201d-4f1b-9c2a-42ce92e329ef

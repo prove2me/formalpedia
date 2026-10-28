@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.iterated_isolated_min
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:48.867945+00:00
 -- url     : https://prove2.me/submissions/92235c7d-d43d-457b-bdc5-b7e870c1d066
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlmostSSDPortfolio_AASSD_lemma_1
 -- name    : AlmostSSDPortfolio.AASSD.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:30:48.788884+00:00
 -- url     : https://prove2.me/theorems/b078f5a7-03bf-4ac9-92e9-2cd5383bee6c

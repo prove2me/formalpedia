@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AzumaWeightedSums_IteratedLog_doob_Lp_maximal
 -- name    : AzumaWeightedSums.IteratedLog.doob_Lp_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:06:59.879461+00:00
 -- url     : https://prove2.me/theorems/3bfeeb14-c427-4166-83b5-23ad33d7e950

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Greedy_ec1_5_liminf_bound
 -- name    : GreedyRS.Greedy.ec1_5_liminf_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:02.528351+00:00
 -- url     : https://prove2.me/theorems/d294d533-fa6a-48b1-a178-1d98d3a36e0a

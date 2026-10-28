@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_IntroDuality_regularity_condition_necessary
 -- name    : Disjunctive.IntroDuality.regularity_condition_necessary
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:06:58.198988+00:00
 -- url     : https://prove2.me/theorems/fec16747-894d-4810-be0b-973802913d00

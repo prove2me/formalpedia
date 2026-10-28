@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Invariance_exposed_only_outer_6_6
 -- name    : PathsTreesFlowers.Invariance.exposed_only_outer_6_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:06:02.805396+00:00
 -- url     : https://prove2.me/theorems/5f547165-1577-4e30-ad07-f491462e46e1

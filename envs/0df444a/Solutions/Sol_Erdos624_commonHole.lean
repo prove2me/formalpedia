@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.commonHole
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:20.436411+00:00
 -- url     : https://prove2.me/submissions/f4b6078c-45bc-4e6d-a27b-65c8aa989fe0
 

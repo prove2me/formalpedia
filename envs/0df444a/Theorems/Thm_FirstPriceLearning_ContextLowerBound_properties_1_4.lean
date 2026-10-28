@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_ContextLowerBound_properties_1_4
 -- name    : FirstPriceLearning.ContextLowerBound.properties_1_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:59.623008+00:00
 -- url     : https://prove2.me/theorems/77107748-de49-42f1-87bf-228191f3287a

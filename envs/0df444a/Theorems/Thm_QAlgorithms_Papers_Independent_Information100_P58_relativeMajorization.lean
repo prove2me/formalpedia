@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_relativeMajorization
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.relativeMajorization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:13:48.120352+00:00
 -- url     : https://prove2.me/theorems/0fa21eac-21d7-436f-8b39-f50e8813fc3c

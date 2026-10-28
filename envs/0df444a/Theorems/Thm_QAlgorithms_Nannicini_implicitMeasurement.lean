@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_implicitMeasurement
 -- name    : QAlgorithms.Nannicini.implicitMeasurement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:39.38198+00:00
 -- url     : https://prove2.me/theorems/3421f0b6-6aec-44d7-b14e-6f791529f97e

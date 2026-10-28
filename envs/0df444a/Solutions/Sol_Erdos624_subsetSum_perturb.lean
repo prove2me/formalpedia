@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.subsetSum_perturb
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:41:10.608159+00:00
 -- url     : https://prove2.me/submissions/895857a4-e064-4436-a532-16f47e5bb5d9
 

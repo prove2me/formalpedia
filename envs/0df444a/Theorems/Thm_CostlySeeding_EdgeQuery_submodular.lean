@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlySeeding_EdgeQuery_submodular
 -- name    : CostlySeeding.EdgeQuery.submodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:01.758994+00:00
 -- url     : https://prove2.me/theorems/8b7f9e4b-5d55-4326-a0b8-929b2195fd71

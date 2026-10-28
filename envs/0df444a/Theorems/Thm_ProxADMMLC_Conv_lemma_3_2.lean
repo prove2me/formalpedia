@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxADMMLC_Conv_lemma_3_2
 -- name    : ProxADMMLC.Conv.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:47:39.028024+00:00
 -- url     : https://prove2.me/theorems/ab3efd05-b12c-4946-a3d0-6c8fed653940

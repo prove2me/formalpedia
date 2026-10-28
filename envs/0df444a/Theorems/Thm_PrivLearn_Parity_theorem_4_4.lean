@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_Parity_theorem_4_4
 -- name    : PrivLearn.Parity.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:52:21.186212+00:00
 -- url     : https://prove2.me/theorems/caa5315a-4496-4426-b2be-d09c26d883cd

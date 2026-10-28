@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPremiaDMP_Equivalence_risk_neutral_productivity
 -- name    : RiskPremiaDMP.Equivalence.risk_neutral_productivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:59.814692+00:00
 -- url     : https://prove2.me/theorems/a69567ff-1752-454c-9181-77bd7d7f2d60

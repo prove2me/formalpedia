@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsMonroSA_Conv_theorem_2
 -- name    : RobbinsMonroSA.Conv.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:13:29.560962+00:00
 -- url     : https://prove2.me/theorems/c1692779-cdc1-4c0f-8de1-80a0e2a95408

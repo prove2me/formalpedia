@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.HermiteStrichartzQG.inner_hermiteLp_eq_zero_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:52:19.196992+00:00
 -- url     : https://prove2.me/submissions/2bf30b84-cf87-41a1-a37d-cbafd2fce591
 

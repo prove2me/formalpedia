@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashVecOpt_SharedConstraint_theorem_2_6
 -- name    : NashVecOpt.SharedConstraint.theorem_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:06:05.114245+00:00
 -- url     : https://prove2.me/theorems/c20fbe86-3a8f-4a3a-b85f-0fe4b7f31543

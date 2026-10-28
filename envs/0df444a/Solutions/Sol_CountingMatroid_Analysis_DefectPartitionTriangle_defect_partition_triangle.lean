@@ -1,0 +1,480 @@
+-- Prove2me | solution 1 for CountingMatroid.Analysis.DefectPartitionTriangle.defect_partition_triangle
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-24T16:20:26.315418+00:00
+-- url     : https://prove2.me/submissions/4a970f74-18d4-43b8-a133-3c7f6257d536
+
+import Definitions.Def_CountingMatroidSupport_Computation_Charged
+import Definitions.Def_CountingMatroidSupport_Computation_Charged_Extension1
+import Definitions.Def_CountingMatroidSupport_Computation_Charged_Extension2
+import Definitions.Def_CountingMatroidSupport_Computation_Cost
+import Definitions.Def_CountingMatroidSupport_Computation_Cost_Extension1
+import Definitions.Def_CountingMatroidSupport_Computation_Dict
+import Definitions.Def_CountingMatroidSupport_Computation_Heap
+import Definitions.Def_CountingMatroidSupport_Computation_Machine
+import Definitions.Def_CountingMatroidSupport_Computation_Machine_Extension1
+import Definitions.Def_CountingMatroidSupport_Computation_Num
+import Definitions.Def_CountingMatroidSupport_Computation_Queue
+import Definitions.Def_CountingMatroidSupport_Computation_Rand
+import Definitions.Def_CountingMatroidSupport_Computation_Roster
+import Definitions.Def_CountingMatroidSupport_Computation_Slot
+import Definitions.Def_CountingMatroidSupport_Computation_Space
+import Definitions.Def_CountingMatroidSupport_Computation_Std
+import Definitions.Def_CountingMatroidSupport_MarkovChains_Chains_Metropolis
+import Definitions.Def_CountingMatroidSupport_MarkovChains_Techniques_Dirichlet
+import Definitions.Def_CountingMatroidSupport_Probability_Bilinear
+import Definitions.Def_CountingMatroidSupport_Probability_FinDist
+import Definitions.Def_CountingMatroidSupport_Probability_FinDistFunctional
+import Definitions.Def_CountingMatroid_Analysis_AnnealingPartitionDrift
+import Definitions.Def_CountingMatroid_Analysis_BoundedRunPhase
+import Definitions.Def_CountingMatroid_Analysis_BoundedRunPhaseHistory
+import Definitions.Def_CountingMatroid_Analysis_BoundedRunPhaseWork
+import Definitions.Def_CountingMatroid_Analysis_ConditionalDefectCoefficients
+import Definitions.Def_CountingMatroid_Analysis_ConditionalDefectExtractionCoefficients
+import Definitions.Def_CountingMatroid_Analysis_ConditionalDefectQuadratics
+import Definitions.Def_CountingMatroid_Analysis_ConditionalSelectedStateSum
+import Definitions.Def_CountingMatroid_Analysis_CubicTensorContraction
+import Definitions.Def_CountingMatroid_Analysis_DefectPartitionPositive
+import Definitions.Def_CountingMatroid_Analysis_DefectPartitionQuadraticConstruction
+import Definitions.Def_CountingMatroid_Analysis_EmpiricalPhaseCertificate
+import Definitions.Def_CountingMatroid_Analysis_EstimateMedianResource
+import Definitions.Def_CountingMatroid_Analysis_ExchangeFlowEnergy
+import Definitions.Def_CountingMatroid_Analysis_FinishPhaseEmpiricalUpdate
+import Definitions.Def_CountingMatroid_Analysis_FinishPhaseWork
+import Definitions.Def_CountingMatroid_Analysis_FirstPhaseFailure
+import Definitions.Def_CountingMatroid_Analysis_IdealExchangeChain
+import Definitions.Def_CountingMatroid_Analysis_InitialMultipliersGood
+import Definitions.Def_CountingMatroid_Analysis_LorentzianDirectionalSignature
+import Definitions.Def_CountingMatroid_Analysis_ObservableProjection
+import Definitions.Def_CountingMatroid_Analysis_ObservableVarianceDecomposition
+import Definitions.Def_CountingMatroid_Analysis_ObservePhaseWork
+import Definitions.Def_CountingMatroid_Analysis_OmittedRankWeightPolynomial
+import Definitions.Def_CountingMatroid_Analysis_OmittedSlotQuadratic
+import Definitions.Def_CountingMatroid_Analysis_OmittedTutteNormalization
+import Definitions.Def_CountingMatroid_Analysis_PhaseChainWork
+import Definitions.Def_CountingMatroid_Analysis_PhaseMeanCertificate
+import Definitions.Def_CountingMatroid_Analysis_PhaseResourcePrimitives
+import Definitions.Def_CountingMatroid_Analysis_QuadraticNonpositiveHyperplane
+import Definitions.Def_CountingMatroid_Analysis_RankWeightQuadraticSignature
+import Definitions.Def_CountingMatroid_Analysis_RankWeightSupportExchange
+import Definitions.Def_CountingMatroid_Analysis_RationalHeight
+import Definitions.Def_CountingMatroid_Analysis_RelativeObservationBounds
+import Definitions.Def_CountingMatroid_Analysis_ScheduleConfidence
+import Definitions.Def_CountingMatroid_Analysis_ScheduleOpeningCost
+import Definitions.Def_CountingMatroid_Analysis_ScheduleThermalSetupCost
+import Definitions.Def_CountingMatroid_Analysis_SquarefreeCoordinateHessian
+import Definitions.Def_CountingMatroid_Analysis_StationaryMeanIdentities
+import Definitions.Def_CountingMatroid_Analysis_ThreePairSignatureSchur
+import Definitions.Def_CountingMatroid_Analysis_TransversalClassPartition
+import Definitions.Def_CountingMatroid_Analysis_TransversalEventMean
+import Definitions.Def_CountingMatroid_Analysis_TransversalPartition
+import Definitions.Def_CountingMatroid_Analysis_TransversalProjection
+import Definitions.Def_CountingMatroid_Analysis_TwoPairSignatureBound
+import Definitions.Def_CountingMatroid_Interface_Pseudocode
+import Definitions.Def_CountingMatroid_Interface_Pseudocode_Extension1
+import Definitions.Def_CountingMatroid_Model_Operations
+import Definitions.Def_CountingMatroid_Model_Prelude
+import Definitions.Def_CountingMatroid_Model_Program
+import Definitions.Def_CountingMatroid_Model_Run
+import Definitions.Def_CountingMatroid_Model_Subroutines
+import Lean
+import Mathlib.Algebra.BigOperators.Group.Finset.Defs
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.PDeriv
+import Mathlib.Algebra.MvPolynomial.Rename
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.Chebyshev
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Defs
+import Mathlib.Algebra.Order.Group.Int
+import Mathlib.Algebra.Order.Ring.Pow
+import Mathlib.Algebra.QuadraticDiscriminant
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.InnerProductSpace.Spectrum
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.Analysis.SpecificLimits.Basic
+import Mathlib.Combinatorics.Matroid.Rank.ENat
+import Mathlib.Combinatorics.Matroid.Sum
+import Mathlib.Data.BitVec
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finsupp.Indicator
+import Mathlib.Data.Finsupp.Multiset
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.Induction
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.Sort
+import Mathlib.Data.Multiset.Basic
+import Mathlib.Data.Multiset.Count
+import Mathlib.Data.Nat.Log
+import Mathlib.Data.Rat.Defs
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Set.Card.Arithmetic
+import Mathlib.Data.Set.Finite.List
+import Mathlib.LinearAlgebra.Matrix.BilinearForm
+import Mathlib.LinearAlgebra.QuadraticForm.Basic
+import Mathlib.LinearAlgebra.QuadraticForm.Signature
+import Mathlib.Order.Interval.Set.Basic
+import Mathlib.Probability.ProbabilityMassFunction.Constructions
+import Mathlib.RingTheory.MvPolynomial.EulerIdentity
+import Mathlib.RingTheory.MvPolynomial.Homogeneous
+import Mathlib.Tactic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.GCongr
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Ring.RingNF
+import Mathlib.Topology.Algebra.Order.Field
+import Mathlib.Topology.Instances.Rat
+import Mathlib.Topology.Instances.Real.Lemmas
+import Theorems.Thm_CountingMatroid_Analysis_DefectPartitionPositive_defect_partition_pos
+import Theorems.Thm_CountingMatroid_Analysis_DefectPartitionQuadraticExtraction_defect_partition_quadratic_extraction
+import Theorems.Thm_CountingMatroid_Analysis_DefectPartitionQuadraticExtraction_selected_triple_descendant
+import Theorems.Thm_CountingMatroid_Analysis_InitialMultipliersGood_defect_partition_one
+import Theorems.Thm_CountingMatroid_Analysis_RankWeightQuadraticSignature_branden_huh_quadratic_signature
+import Theorems.Thm_CountingMatroid_Analysis_ThreePairSignatureSchur_three_pair_signature_schur
+
+namespace CountingMatroid.Analysis.DefectPartitionTriangle
+end CountingMatroid.Analysis.DefectPartitionTriangle
+namespace CountingMatroid.Analysis.DefectPartitionQuadraticExtraction
+end CountingMatroid.Analysis.DefectPartitionQuadraticExtraction
+namespace CountingMatroid.Analysis.ConditionalOperationalCoefficients
+end CountingMatroid.Analysis.ConditionalOperationalCoefficients
+namespace CountingMatroid.Analysis.SignatureOrthogonalNonpositive
+end CountingMatroid.Analysis.SignatureOrthogonalNonpositive
+namespace CountingMatroid.Analysis.ConditionalOccupancyCoefficients
+end CountingMatroid.Analysis.ConditionalOccupancyCoefficients
+namespace CountingMatroid.Analysis.TwoLabelDerivativeNilpotence
+end CountingMatroid.Analysis.TwoLabelDerivativeNilpotence
+namespace CountingMatroid.Analysis.MixedDirectionalRankWeightSignature
+end CountingMatroid.Analysis.MixedDirectionalRankWeightSignature
+namespace CountingMatroid.Analysis.RankWeightCoordinateLorentzian
+end CountingMatroid.Analysis.RankWeightCoordinateLorentzian
+namespace CountingMatroid.Analysis.RankWeightCoordinateSignature
+end CountingMatroid.Analysis.RankWeightCoordinateSignature
+namespace CountingMatroid.Analysis.RankWeightResidualSignature
+end CountingMatroid.Analysis.RankWeightResidualSignature
+namespace CountingMatroid.Analysis.RankWeightClosurePair
+end CountingMatroid.Analysis.RankWeightClosurePair
+namespace CountingMatroid.Analysis.ClosureClassQuadraticBound
+end CountingMatroid.Analysis.ClosureClassQuadraticBound
+namespace CountingMatroid.Analysis.SquarefreeFullDerivative
+end CountingMatroid.Analysis.SquarefreeFullDerivative
+namespace CountingMatroid.Analysis.BinaryRankWeightSignature
+end CountingMatroid.Analysis.BinaryRankWeightSignature
+namespace CountingMatroid.Analysis.CubicDirectionalSignature
+end CountingMatroid.Analysis.CubicDirectionalSignature
+namespace CountingMatroid.Analysis.CubicTensorRayleighContraction
+end CountingMatroid.Analysis.CubicTensorRayleighContraction
+namespace CountingMatroid.Analysis.NonnegativeContractionLimit
+end CountingMatroid.Analysis.NonnegativeContractionLimit
+namespace CountingMatroid.Analysis.QuadraticHyperplanePointwiseLimit
+end CountingMatroid.Analysis.QuadraticHyperplanePointwiseLimit
+namespace CountingMatroid.Analysis.ConnectedRayleighHyperplane
+end CountingMatroid.Analysis.ConnectedRayleighHyperplane
+namespace CountingMatroid.Analysis.ConnectedNormalizedRayleigh
+end CountingMatroid.Analysis.ConnectedNormalizedRayleigh
+namespace CountingMatroid.Analysis.ConnectedLaplacianKernel
+end CountingMatroid.Analysis.ConnectedLaplacianKernel
+namespace CountingMatroid.Analysis.RayleighFixedKernel
+end CountingMatroid.Analysis.RayleighFixedKernel
+namespace CountingMatroid.Analysis.QuadraticSignatureHyperplane
+end CountingMatroid.Analysis.QuadraticSignatureHyperplane
+namespace CountingMatroid.Analysis.CubicExchangeCut
+end CountingMatroid.Analysis.CubicExchangeCut
+namespace CountingMatroid.Analysis.CubicThirdDerivativeSupport
+end CountingMatroid.Analysis.CubicThirdDerivativeSupport
+namespace CountingMatroid.Analysis.NonnegativeDirectionalMConvexSupport
+end CountingMatroid.Analysis.NonnegativeDirectionalMConvexSupport
+namespace CountingMatroid.Analysis.LinearSubstitutionHessian
+end CountingMatroid.Analysis.LinearSubstitutionHessian
+namespace CountingMatroid.Analysis.LinearPolynomialChainRule
+end CountingMatroid.Analysis.LinearPolynomialChainRule
+namespace CountingMatroid.Analysis.GreedyRankCorrect
+end CountingMatroid.Analysis.GreedyRankCorrect
+namespace Arlib
+end Arlib
+namespace CountingMatroid.Interface
+end CountingMatroid.Interface
+namespace CountingMatroid.Meta
+end CountingMatroid.Meta
+namespace CountingMatroid.Analysis.TransversalRankBridge
+end CountingMatroid.Analysis.TransversalRankBridge
+namespace CountingMatroid.Analysis.PairedRankValue
+end CountingMatroid.Analysis.PairedRankValue
+namespace CountingMatroid.Analysis.TypeMassLowerBounds
+end CountingMatroid.Analysis.TypeMassLowerBounds
+namespace CountingMatroid.Analysis.BoundedRunResourceEnvelope
+end CountingMatroid.Analysis.BoundedRunResourceEnvelope
+namespace CountingMatroid.Analysis.BoundedRunOtherSteps
+end CountingMatroid.Analysis.BoundedRunOtherSteps
+namespace CountingMatroid.Analysis.ScheduleOtherStepsEnvelope
+end CountingMatroid.Analysis.ScheduleOtherStepsEnvelope
+namespace CountingMatroid.Analysis.LeastHalvingsCost
+end CountingMatroid.Analysis.LeastHalvingsCost
+namespace CountingMatroid.Analysis
+end CountingMatroid.Analysis
+namespace CountingMatroid.Analysis.RestartPhaseWork
+end CountingMatroid.Analysis.RestartPhaseWork
+namespace CountingMatroid.Analysis.BoundedRunPhase
+end CountingMatroid.Analysis.BoundedRunPhase
+namespace CountingMatroid.Analysis.FinishPhaseWeightsSize
+end CountingMatroid.Analysis.FinishPhaseWeightsSize
+namespace CountingMatroid.Analysis.BoundedRunOracleCalls
+end CountingMatroid.Analysis.BoundedRunOracleCalls
+namespace CountingMatroid.Analysis.ResourceBound
+end CountingMatroid.Analysis.ResourceBound
+section
+
+
+set_option autoImplicit false
+
+namespace CountingMatroid.Analysis.InitialMultipliersGood
+
+open CountingMatroid.Model CountingMatroid.Analysis
+open CountingMatroid.Program CountingMatroid.Model.Operations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- PAPER: main.tex:1148-1151
+The initial multiplier four is ideal whenever an ordered defect type exists.
+The statement includes the vacuous defect families at `n = 0` and `n = 1`.
+Its counting proof must characterize the executable classifier's defect fiber,
+rather than assume an independent mathematical state classifier. -/
+theorem initial_ideal_multiplier {n : ℕ} (r : ℕ)
+    (o₁ o₂ : IndependenceOracle n) (index : DefectIndex n) :
+    TransversalPartition.partitionSum r o₁ o₂ 1 /
+      FirstPhaseFailure.defectPartition r o₁ o₂ 1 index = 4 := by
+  have hn : 2 ≤ n := by
+    by_contra h
+    apply index.distinct
+    apply Fin.ext
+    omega
+  rw [defect_partition_one]
+  have hC : TransversalPartition.partitionSum r o₁ o₂ 1 = (2 : ℚ) ^ n := by
+    simp [TransversalPartition.partitionSum]
+  rw [hC, show n = (n - 2) + 2 by omega, pow_add]
+  norm_num
+
+end CountingMatroid.Analysis.InitialMultipliersGood
+
+end
+
+section
+
+
+set_option autoImplicit false
+
+/-!
+The concrete selected-element quadratic used in the three-pair inequality.
+It is constructed from the homogenized Tutte polynomial by the paper's
+actual derivative and substitution sequence. Its membership in the allowed
+closure operations is proved separately from its operational coefficients.
+Its last diagonal Hessian entry is proved to vanish directly from squarefree
+label exponents, without any operational coefficient identity.
+The remaining coefficient identities need the paired-rank correspondence
+and extraction calculation; it does not assume a signature theorem. The
+existing paired-rank correspondence and extraction-calculus lemmas live in
+modules that import this module. Reusing them here requires separating the
+construction declarations above the operational extraction theorem from
+that theorem, so those dependencies no longer import their consumer.
+-/
+
+namespace CountingMatroid.Analysis.DefectPartitionQuadraticExtraction
+
+open CountingMatroid.Model
+open CountingMatroid.Analysis.RankWeightQuadraticSignature
+open CountingMatroid.Analysis.ThreePairSignatureSchur
+open CountingMatroid.Analysis.TwoLabelDerivativeNilpotence
+
+
+
+/-- INTERNAL: The paired matroid has exactly the supplied paired ground.
+TEXLINE: main.tex:262-272 -/
+theorem paired_matroid_full_ground {n : ℕ} (M₁ M₂ : Matroid (Fin n))
+    (hfull : FullGround M₁ M₂) : (pairedMatroid M₁ M₂).E = Set.univ := by
+  ext e
+  rcases e with ⟨i, b⟩
+  cases b <;> simp [pairedMatroid, hfull.1, hfull.2]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end CountingMatroid.Analysis.DefectPartitionQuadraticExtraction
+
+end
+
+section
+
+
+set_option autoImplicit false
+
+/-!
+The unconditional three-pair coefficient inequality used to bound the cost
+of the defect transport. The q=1 case, the numerical Schur-complement
+step, and the real-signature-to-rational-Schur step are proved. The parent
+now uses a concrete homogeneous quadratic constructed by the paper's
+derivatives and substitutions. Its operational coefficient identity and
+the cited Bränden–Huh signature input remain open in their support files.
+-/
+
+namespace CountingMatroid.Analysis.DefectPartitionTriangle
+
+open CountingMatroid.Model CountingMatroid.Program
+
+/-- INTERNAL: The numerical three-pair Schur-complement step, with its
+zero final diagonal and all factors in the operational rational field.
+TEXLINE: main.tex:430-449 -/
+theorem three_pair_schur_bound (a c d e z : ℚ)
+    (ha : 0 ≤ a) (hc : 0 < c) (he : 0 < e) (hz : 0 < z)
+    (hschur : ∀ x y : ℚ,
+      2 * c * (2 * a * x ^ 2 + 4 * d * x * y) ≤
+        (z * x + 2 * e * y) ^ 2) : c * d ≤ z * e := by
+  have h := hschur (2 * e) z
+  have hdiag : 0 ≤ 2 * c * (2 * a * (2 * e) ^ 2) :=
+    mul_nonneg (by positivity) (mul_nonneg (by positivity) (sq_nonneg _))
+  have hdiff : 0 ≤ (z * e - c * d) * (16 * z * e) := by
+    nlinarith [hdiag]
+  exact sub_nonneg.mp (nonneg_of_mul_nonneg_left hdiff (by positivity))
+
+
+
+end CountingMatroid.Analysis.DefectPartitionTriangle
+
+/-! ### Run record
+Newest first. History, not instruction — what this file claims is above.
+
+* 2026-10-09 · decomposed · connected the parent to the concrete Tutte-polynomial derivative/substitution construction; proved its homogeneous degree and the real-signature-to-rational-Schur implication. The two remaining prerequisites are the operational Hessian coefficient identity and the explicitly cited Bränden–Huh quadratic signature theorem.
+* 2026-10-09 · partial · proved the q=1 branch, positivity of all needed operational totals, and `three_pair_schur_bound`; the sole remaining local gap is the explicit extracted-Hessian Schur-complement bound for 0<q<1. Direct finite-sum positivity does not compare the products; pinned Mathlib and Arlib contain no Lorentzian rank-weight signature or closure theorem.
+-/
+
+end
+set_option autoImplicit false
+
+/-!
+The unconditional three-pair coefficient inequality used to bound the cost
+of the defect transport. The q=1 case, the numerical Schur-complement
+step, and the real-signature-to-rational-Schur step are proved. The parent
+now uses a concrete homogeneous quadratic constructed by the paper's
+derivatives and substitutions. Its operational coefficient identity and
+the cited Bränden–Huh signature input remain open in their support files.
+-/
+
+namespace CountingMatroid.Analysis.DefectPartitionTriangle
+end CountingMatroid.Analysis.DefectPartitionTriangle
+open CountingMatroid CountingMatroid.Analysis CountingMatroid.Analysis.DefectPartitionTriangle
+
+open CountingMatroid.Model CountingMatroid.Program
+
+/-- PAPER: main.tex:397-449
+The empty-assignment specialization of the paper's three-pair coefficient
+inequality, evaluated with the operational paired-rank scans. -/
+theorem solution (n r : ℕ) (M₁ M₂ : Matroid (Fin n))
+    (o₁ o₂ : IndependenceOracle n) (q : ℚ)
+    (hfull : FullGround M₁ M₂) (hr : CommonRank r M₁ M₂)
+    (h₁ : ExactOracle M₁ o₁) (h₂ : ExactOracle M₂ o₂)
+    (hq : 0 < q) (hqone : q ≤ 1)
+    (i t k : Fin n) (hit : i ≠ t) (htk : t ≠ k) (hik : i ≠ k) :
+    FirstPhaseFailure.defectPartition r o₁ o₂ q ⟨i, t, hit⟩ *
+      FirstPhaseFailure.defectPartition r o₁ o₂ q ⟨t, k, htk⟩ ≤
+        TransversalPartition.partitionSum r o₁ o₂ q *
+          FirstPhaseFailure.defectPartition r o₁ o₂ q ⟨i, k, hik⟩ := by
+  classical
+  let D := FirstPhaseFailure.defectPartition r o₁ o₂ q
+  let Z := TransversalPartition.partitionSum r o₁ o₂ q
+  by_cases hqeq : q = 1
+  · subst q
+    rw [InitialMultipliersGood.defect_partition_one,
+      InitialMultipliersGood.defect_partition_one,
+      InitialMultipliersGood.defect_partition_one]
+    have hC : TransversalPartition.partitionSum r o₁ o₂ 1 =
+        4 * (2 : ℚ) ^ (n - 2) := by
+      have h := InitialMultipliersGood.initial_ideal_multiplier r o₁ o₂ ⟨i, k, hik⟩
+      rw [InitialMultipliersGood.defect_partition_one] at h
+      exact (div_eq_iff (by positivity)).mp h
+    rw [hC]
+    nlinarith [sq_nonneg ((2 : ℚ) ^ (n - 2))]
+  · have hZ : 0 < Z := by
+      unfold Z TransversalPartition.partitionSum
+      exact Finset.sum_pos (fun A _ => pow_pos hq _)
+        (Finset.univ_nonempty)
+    have hD (index : DefectIndex n) : 0 < D index :=
+      DefectPartitionPositive.defect_partition_pos r o₁ o₂ q hq index
+    have hschur : ∀ x y : ℚ,
+        2 * D ⟨i, t, hit⟩ *
+          (2 * D ⟨t, i, hit.symm⟩ * x ^ 2 +
+            4 * D ⟨t, k, htk⟩ * x * y) ≤
+          (Z * x + 2 * D ⟨i, k, hik⟩ * y) ^ 2 := by
+      have hextract := DefectPartitionQuadraticExtraction.defect_partition_quadratic_extraction
+        n r M₁ M₂ o₁ o₂ q hfull hr h₁ h₂ hq hqone i t k hit htk hik
+      have hsignature := RankWeightQuadraticSignature.branden_huh_quadratic_signature
+        (DefectPartitionQuadraticExtraction.pairedMatroid M₁ M₂)
+        (DefectPartitionQuadraticExtraction.paired_matroid_full_ground M₁ M₂ hfull)
+        q hq hqone (DefectPartitionQuadraticExtraction.selectedTripleQuadratic M₁ M₂ q i t k)
+        (DefectPartitionQuadraticExtraction.selected_triple_descendant M₁ M₂ q hq i t k)
+        hextract.1
+      rw [hextract.2] at hsignature
+      exact ThreePairSignatureSchur.three_pair_signature_schur
+        (D ⟨t, i, hit.symm⟩) (D ⟨i, t, hit⟩) (D ⟨t, k, htk⟩)
+        (D ⟨i, k, hik⟩) Z (hD _) hsignature
+    exact three_pair_schur_bound
+      (D ⟨t, i, hit.symm⟩) (D ⟨i, t, hit⟩) (D ⟨t, k, htk⟩)
+      (D ⟨i, k, hik⟩) Z (hD _).le (hD _) (hD _) hZ hschur

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.bounded_sections_finite_witness_20261023_22
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-23T18:38:20.279563+00:00
 -- url     : https://prove2.me/submissions/90b8e3e5-e005-4794-a9d1-1f1d455e434b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Complex.Basic
 import Mathlib.Data.Real.Basic

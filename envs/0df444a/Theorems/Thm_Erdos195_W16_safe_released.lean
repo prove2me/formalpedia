@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_W16_safe_released
 -- name    : Erdos195.W16_safe_released
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T09:56:53.46507+00:00
 -- url     : https://prove2.me/theorems/6d256000-db8c-4c1d-8620-30ef06d06a37
 -- title:

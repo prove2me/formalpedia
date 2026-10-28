@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_Y_gamma2_finite
 -- name    : ScheduledQueue.Stability.Y_gamma2_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:03.010004+00:00
 -- url     : https://prove2.me/theorems/20b4edb7-d1c0-485f-8be4-232106093b7a

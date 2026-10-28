@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_ppt_satisfies_spectral_embeddings
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.ppt_satisfies_spectral_embeddings
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:05:01.899995+00:00
 -- url     : https://prove2.me/theorems/8ef5e321-8b29-4c29-9039-1565676bf697

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_LogReduction_HL_first_passage
 -- name    : MatrixAnalytic.LogReduction.HL_first_passage
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:46:12.342452+00:00
 -- url     : https://prove2.me/theorems/249dc235-9231-4a2e-a369-bba6f064cf8b

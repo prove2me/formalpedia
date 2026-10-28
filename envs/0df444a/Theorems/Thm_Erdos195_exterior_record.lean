@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_exterior_record
 -- name    : Erdos195.exterior_record
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:42:00.528414+00:00
 -- url     : https://prove2.me/theorems/4e060619-e815-43f3-9a5d-e34d330bf413
 -- title:

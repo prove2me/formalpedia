@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeingartenCalc_Fundamental_theorem_2_1
 -- name    : WeingartenCalc.Fundamental.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:43:04.17197+00:00
 -- url     : https://prove2.me/theorems/93873f9a-fde9-4f23-b146-d9f1675c4eec

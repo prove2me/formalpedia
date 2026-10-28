@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallGainISS_OmegaPath_lemma_8_2
 -- name    : SmallGainISS.OmegaPath.lemma_8_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:15.091931+00:00
 -- url     : https://prove2.me/theorems/745c3b42-3c86-4bc2-8ffa-269e1a2f0840

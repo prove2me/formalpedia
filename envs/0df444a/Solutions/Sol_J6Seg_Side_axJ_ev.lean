@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for J6Seg.Side.axJ_ev
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:58:08.299432+00:00
 -- url     : https://prove2.me/submissions/964e7f35-ba9f-4731-837c-8ebf4b7da447
 

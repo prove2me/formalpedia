@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SynDigits_Ridge_residual_split
 -- name    : SynDigits.Ridge.residual_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:55.91619+00:00
 -- url     : https://prove2.me/theorems/d8db9105-0130-4acb-b6f2-638206977cc3

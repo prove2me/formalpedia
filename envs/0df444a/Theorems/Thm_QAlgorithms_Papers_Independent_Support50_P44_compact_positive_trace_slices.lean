@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P44_compact_positive_trace_slices
 -- name    : QAlgorithms.Papers.Independent.Support50.P44.compact_positive_trace_slices
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:03:04.848159+00:00
 -- url     : https://prove2.me/theorems/94f5d802-c4bc-426a-a374-854569946d97

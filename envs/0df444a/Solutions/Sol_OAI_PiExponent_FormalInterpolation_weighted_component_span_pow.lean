@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.weighted_component_span_pow
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:37:28.331091+00:00
 -- url     : https://prove2.me/submissions/32b96fc5-cace-42d8-b241-ca1597a56ad7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Complex.Basic
 import Mathlib.Data.Real.Basic

@@ -1,0 +1,47 @@
+-- Prove2me | Theorems.Thm_FunctionalInequalities_KLS_kls_readable
+-- name    : FunctionalInequalities.KLS.kls_readable
+-- status  : Proved
+-- author  : @Lazyfill
+-- created : 2026-10-26T13:21:17.050108+00:00
+-- url     : https://prove2.me/theorems/c4e9e57c-586c-4945-927e-7f33933f1111
+-- title:
+--   The KLS Conjecture
+-- statement:
+--   The project-level proposition `KLS.Conjecture` holds: there exists a universal finite constant $C$ such that every log-concave probability law $\mu$ with finite second moment on every finite-dimensional Euclidean space satisfies
+--
+--   $$
+--   C_P^{\mathrm{lit}}(\mu)\le C\,\|\operatorname{Cov}(\mu)\|_{\mathrm{op}}.
+--   $$
+--
+--   In the isotropic normalization, this gives a dimension-free universal bound on the literature Poincaré constant. This declaration is the public target theorem for the formalized KLS result.
+--
+--   **Formalization Note**: The type is exactly `KLS.Conjecture`; the covariance-normalized formula describes the documented meaning of that project-level definition.
+--
+--   **Original Lean source**
+--
+--   Within namespace `FunctionalInequalities.KLS`. Shown in its original module context.
+--
+--   ```lean
+--   theorem kls : Conjecture :=
+--     FunctionalInequalities.KLS.BKL.Localization.conjecture
+--   ```
+--
+--   **Module navigation**
+--
+--   Module: [`KLS/Target`](https://prove2.me/theorems/631d5c8e-7def-4361-9482-129a12b49c83).
+--
+--   Definition modules: [`KLS/Statement`](https://prove2.me/theorems/a8a0c8db-8c01-4ba8-b1c2-6b2fe5d1864a).
+--
+--   Supporting theorems: [`conjecture`](https://prove2.me/theorems/9818bcbe-46db-49a8-b18e-5241717d5715).
+--
+--   [Source excerpt, lines 24–25](https://github.com/human-ai-mathematics/kls-lean/blob/408915fd28eb892a7093fa5df6f6c2699e9de144/formalization/FunctionalInequalities/KLS/Target.lean#L24-L25) · Frozen source `408915f`.
+--
+--   **Literature**
+--
+--   This formalizes Theorem 1.1 of Bizeul–Klartag–Lehec (arXiv:2610.05474v1), p. 2.
+-- source:
+--   Source: Bizeul–Klartag–Lehec, Presenting a proof of the Kannan–Lovász–Simonovits conjecture (arXiv:2610.05474v1), Theorem 1.1, p. 2. Lean source: https://github.com/human-ai-mathematics/kls-lean/blob/408915f/formalization/FunctionalInequalities/KLS/Target.lean#L21-L25 (repository human-ai-mathematics/kls-lean, commit 408915f, module `FunctionalInequalities.KLS.Target`, declaration `FunctionalInequalities.KLS.kls`; the repository is private at upload time).
+
+import Definitions.Def_KLSModular_FunctionalInequalities_KLS_Target
+
+theorem FunctionalInequalities.KLS.kls_readable : Conjecture := by sorry

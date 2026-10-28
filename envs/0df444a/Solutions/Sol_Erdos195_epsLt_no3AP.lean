@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_no3AP
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:12.228755+00:00
 -- url     : https://prove2.me/submissions/eac9c2e6-0f26-4ca0-8bad-8d49aeee3d4c
 

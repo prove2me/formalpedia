@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_DelayingModes_minimal_delaying_alternative_is_minimal_hitting_set
 -- name    : ProjSchedTW.DelayingModes.minimal_delaying_alternative_is_minimal_hitting_set
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T22:40:52.658683+00:00
 -- url     : https://prove2.me/theorems/28abc7f1-0e53-42b7-81f8-d57bf9c89c1f

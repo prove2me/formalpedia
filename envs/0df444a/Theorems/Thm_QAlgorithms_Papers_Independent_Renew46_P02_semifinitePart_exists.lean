@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P02_semifinitePart_exists
 -- name    : QAlgorithms.Papers.Independent.Renew46.P02.semifinitePart_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:46:16.77584+00:00
 -- url     : https://prove2.me/theorems/8ca480db-ebe1-4c50-bb9f-7cb76cb16702

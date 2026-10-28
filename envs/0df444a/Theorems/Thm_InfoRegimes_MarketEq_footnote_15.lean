@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRegimes_MarketEq_footnote_15
 -- name    : InfoRegimes.MarketEq.footnote_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:22:36.721993+00:00
 -- url     : https://prove2.me/theorems/e7c57542-1331-49b0-addb-42968ab4f08a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_CPI_mu_optimality
 -- name    : SampleComplexityRL.CPI.mu_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:12:37.468351+00:00
 -- url     : https://prove2.me/theorems/105a5d0a-8000-444f-aa74-e83ed9901e82

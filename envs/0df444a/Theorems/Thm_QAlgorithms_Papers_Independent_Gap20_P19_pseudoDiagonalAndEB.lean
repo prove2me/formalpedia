@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P19_pseudoDiagonalAndEB
 -- name    : QAlgorithms.Papers.Independent.Gap20.P19.pseudoDiagonalAndEB
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T07:34:50.576167+00:00
 -- url     : https://prove2.me/theorems/5e40043d-9504-4f0f-a9a4-bbc7c56ff98c

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_Bt_family_safe_released
 -- name    : Erdos195.Bt_family_safe_released
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T11:08:22.810526+00:00
 -- url     : https://prove2.me/theorems/fcb03360-214d-4635-bf2b-ee9fd8c61300
 -- title:

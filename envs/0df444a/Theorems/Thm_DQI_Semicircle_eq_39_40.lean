@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DQI_Semicircle_eq_39_40
 -- name    : DQI.Semicircle.eq_39_40
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:19.189251+00:00
 -- url     : https://prove2.me/theorems/a1fdcc04-5630-4d1f-b933-3a82f1705c60

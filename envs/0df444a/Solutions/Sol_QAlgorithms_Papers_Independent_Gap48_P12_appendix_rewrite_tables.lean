@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P12.appendix_rewrite_tables
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T01:50:08.894173+00:00
 -- url     : https://prove2.me/submissions/3a69f37d-75c5-4bdd-aebb-cb0deeaf8aad
 

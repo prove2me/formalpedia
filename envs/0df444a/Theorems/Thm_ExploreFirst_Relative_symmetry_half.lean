@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Relative_symmetry_half
 -- name    : ExploreFirst.Relative.symmetry_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:12:43.42396+00:00
 -- url     : https://prove2.me/theorems/b61a8a79-3042-4cf4-b436-2478f6f4b5dd

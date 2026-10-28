@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_mixed_batches_recur
 -- name    : Erdos195.mixed_batches_recur
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:27:10.689092+00:00
 -- url     : https://prove2.me/theorems/acd6171e-ecd8-4847-975b-a5b884cd7041
 -- title:

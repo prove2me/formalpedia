@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_ordered_shear_has_relation_pivot
 -- name    : OAI.PiExponent.FormalInterpolation.ordered_shear_has_relation_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:32:42.130711+00:00
 -- url     : https://prove2.me/theorems/e1be9b36-02df-4c99-925e-79581fd41bc4

@@ -1,0 +1,103 @@
+-- Prove2me | Theorems.Thm_OAI_CubicTorus_isMinimizerAt_tubular_sections
+-- name    : OAI.CubicTorus.isMinimizerAt_tubular_sections
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-10-28T16:13:50.100699+00:00
+-- url     : https://prove2.me/theorems/e9eec353-7b5b-4d60-900d-e7e0b212ac8d
+-- title:
+--   OAI.CubicTorus.isMinimizerAt_tubular_sections: intermediate lemma from OpenAI, The isoperimetric conjecture for the cubic flat three-torus (result family 354)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.CubicTorus.unit_cubic_isoperimetric`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *The isoperimetric conjecture for the cubic flat three-torus (result family 354)*, OpenAI Math Release, September 24, 2026, result family 354, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.CubicTorus.isMinimizerAt_tubular_sections` of [lean/OAI/Geometry/CubicTorus/Profiles/MinimizerFirstTransitionTube.lean](https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/lean/OAI/Geometry/CubicTorus/Profiles/MinimizerFirstTransitionTube.lean) at commit 1581d4c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.CubicTorus`, with `open MeasureTheory Set Filter`, `open scoped ENNReal NNReal Topology RealInnerProductSpace`):
+--
+--   ```lean
+--   theorem isMinimizerAt_tubular_sections {V : ℝ} (hV : V∈Ioo 0 1)
+--       {E : Set Torus} (hE : MeasurableSet E) (hm : IsMinimizerAt V E)
+--       {μ : FiniteMeasure NormalBundle} (hμ : IsNormalMeasure E μ)
+--       {N : Cover → Cover} (hN : ContDiff ℝ (⊤ : ℕ∞) N)
+--       (hp : ∀ m x,N (x+latticeVector m)=N x)
+--       (ha : ∀ᵐ z ∂(μ : Measure NormalBundle),N z.1=(z.2 : Cover))
+--       (hs : ∀ i : Fin 3,coordinateReflection i ⁻¹' E =ᵐ[torusVolume] E)
+--       {s : Fin 3 → Bool}
+--       (hsg : ∀ (x : Cover) (i : Fin 3),
+--         quotientMap x∈frontier (openRepresentative E)∩coordinateHalf i (if s i then 0 else 1/2) →0<N x i)
+--       (hv0 : quotientMap (chamberVertex s (fun j => decide (j=0)))∈openRepresentative E)
+--       (hv1 : quotientMap (chamberVertex s (fun j => decide (j=1)))∉closure (openRepresentative E))
+--       (hv2 : quotientMap (chamberVertex s (fun j => decide (j=2)))∉closure (openRepresentative E)) :
+--       ∃ r : (Icc (chamberCorner s 0) (chamberCorner s 0+1/2)) × ℝ → ℝ,
+--         Continuous r ∧
+--         (∀ t,ContDiff ℝ (⊤ : ℕ∞) (fun a => r (t,a))) ∧
+--         (∀ t,Function.Periodic (fun a => r (t,a)) 1) ∧
+--         (∀ p,0 < r p ∧ r p<unitSquareScale p.2) ∧
+--         (∀ p,quotientMap (coordinateSectionPoint (chamberCorner s) p.1.val
+--           (r p • unitAngle p.2))∈frontier (openRepresentative E)) ∧
+--         (∀ p u,0≤u → u≤unitSquareScale p.2 →
+--           (quotientMap (coordinateSectionPoint (chamberCorner s) p.1.val
+--             (u • unitAngle p.2))∈openRepresentative E ↔ u < r p)) ∧
+--         (∀ p u,0≤u → u≤unitSquareScale p.2 →
+--           (quotientMap (coordinateSectionPoint (chamberCorner s) p.1.val
+--             (u • unitAngle p.2))∈closure (openRepresentative E) ↔ u ≤ r p))
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.CubicTorus.CompactCell`, `OAI.CubicTorus.IsNormalMeasure`, `OAI.CubicTorus.NormalBundle`, `OAI.CubicTorus.NormalSphere`, `OAI.CubicTorus.chamberCorner`, `OAI.CubicTorus.chamberVertex`, `OAI.CubicTorus.coordinateHalf`, `OAI.CubicTorus.coordinateReflection`, `OAI.CubicTorus.coordinateSectionPoint`, `OAI.CubicTorus.openRepresentative`, `OAI.CubicTorus.unitAngle` and `OAI.CubicTorus.unitSquareScale` (definitions bundle `OAIQ079A000` of this split); `OAI.CubicTorus.Cover`, `OAI.CubicTorus.IsMinimizerAt`, `OAI.CubicTorus.Torus`, `OAI.CubicTorus.latticeVector`, `OAI.CubicTorus.quotientMap` and `OAI.CubicTorus.torusVolume` (the published bundle `Def_CubicTorus`).
+--
+--   **Used by.** The proof of `OAI.CubicTorus.isMinimizerAt_two_vertices_smooth_tube` of this split imports it.
+-- source:
+--   OpenAI, The isoperimetric conjecture for the cubic flat three-torus (result family 354), OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 354; paper: https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/preprints/The-Isoperimetric-Conjecture-for-the-Cubic-Flat-Three-Torus-September-24-2026/article.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/lean/OAI/Geometry/CubicTorus/Profiles/MinimizerFirstTransitionTube.lean (declaration OAI.CubicTorus.isMinimizerAt_tubular_sections)
+
+import Mathlib
+import Definitions.Def_CubicTorus
+import Definitions.Def_OAIQ079A000
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal NNReal Topology RealInnerProductSpace
+namespace CubicTorus
+
+theorem isMinimizerAt_tubular_sections {V : ℝ} (hV : V∈Ioo 0 1)
+    {E : Set Torus} (hE : MeasurableSet E) (hm : IsMinimizerAt V E)
+    {μ : FiniteMeasure NormalBundle} (hμ : IsNormalMeasure E μ)
+    {N : Cover → Cover} (hN : ContDiff ℝ (⊤ : ℕ∞) N)
+    (hp : ∀ m x,N (x+latticeVector m)=N x)
+    (ha : ∀ᵐ z ∂(μ : Measure NormalBundle),N z.1=(z.2 : Cover))
+    (hs : ∀ i : Fin 3,coordinateReflection i ⁻¹' E =ᵐ[torusVolume] E)
+    {s : Fin 3 → Bool}
+    (hsg : ∀ (x : Cover) (i : Fin 3),
+      quotientMap x∈frontier (openRepresentative E)∩coordinateHalf i (if s i then 0 else 1/2) →0<N x i)
+    (hv0 : quotientMap (chamberVertex s (fun j => decide (j=0)))∈openRepresentative E)
+    (hv1 : quotientMap (chamberVertex s (fun j => decide (j=1)))∉closure (openRepresentative E))
+    (hv2 : quotientMap (chamberVertex s (fun j => decide (j=2)))∉closure (openRepresentative E)) :
+    ∃ r : (Icc (chamberCorner s 0) (chamberCorner s 0+1/2)) × ℝ → ℝ,
+      Continuous r ∧
+      (∀ t,ContDiff ℝ (⊤ : ℕ∞) (fun a => r (t,a))) ∧
+      (∀ t,Function.Periodic (fun a => r (t,a)) 1) ∧
+      (∀ p,0 < r p ∧ r p<unitSquareScale p.2) ∧
+      (∀ p,quotientMap (coordinateSectionPoint (chamberCorner s) p.1.val
+        (r p • unitAngle p.2))∈frontier (openRepresentative E)) ∧
+      (∀ p u,0≤u → u≤unitSquareScale p.2 →
+        (quotientMap (coordinateSectionPoint (chamberCorner s) p.1.val
+          (u • unitAngle p.2))∈openRepresentative E ↔ u < r p)) ∧
+      (∀ p u,0≤u → u≤unitSquareScale p.2 →
+        (quotientMap (coordinateSectionPoint (chamberCorner s) p.1.val
+          (u • unitAngle p.2))∈closure (openRepresentative E) ↔ u ≤ r p)) := by
+  sorry
+
+end CubicTorus
+
+end
+end
+
+end OAI
+end

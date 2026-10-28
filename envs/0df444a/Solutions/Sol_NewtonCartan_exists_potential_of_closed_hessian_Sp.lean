@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.exists_potential_of_closed_hessian_Sp
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:00:02.777542+00:00
 -- url     : https://prove2.me/submissions/cbc5fb45-6b01-48b7-999a-f17286aa2a23
 

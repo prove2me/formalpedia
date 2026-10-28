@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALADIN_LocalStab_bound_from_partial_derivatives
 -- name    : ALADIN.LocalStab.bound_from_partial_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:46:06.992057+00:00
 -- url     : https://prove2.me/theorems/41bc1cfb-2943-440e-8aaf-115077c210e5

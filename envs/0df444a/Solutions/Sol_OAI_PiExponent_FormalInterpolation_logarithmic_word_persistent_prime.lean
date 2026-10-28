@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.logarithmic_word_persistent_prime
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:43:35.70682+00:00
 -- url     : https://prove2.me/submissions/05281030-e730-4855-a648-9003388e55da
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_LogarithmicNormalBases
 import Definitions.Def_OAI_PiExponent_LogarithmicInterpolationNumerics

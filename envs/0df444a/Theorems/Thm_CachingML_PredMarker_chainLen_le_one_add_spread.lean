@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachingML_PredMarker_chainLen_le_one_add_spread
 -- name    : CachingML.PredMarker.chainLen_le_one_add_spread
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:10:58.454744+00:00
 -- url     : https://prove2.me/theorems/fc7a363a-831d-4648-be31-2817834f4628

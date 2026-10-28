@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_claimB1_card_antitone
 -- name    : MultiStoreAssort.SQR.claimB1_card_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:21.257539+00:00
 -- url     : https://prove2.me/theorems/8ef645ec-4b20-4877-9ae2-c2df5a471422

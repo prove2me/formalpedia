@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Structure_stopMin_supermodular_pathwise
 -- name    : FastFashion.Structure.stopMin_supermodular_pathwise
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:08:58.161489+00:00
 -- url     : https://prove2.me/theorems/3c7759ae-2484-4a5e-b9f2-7dfe0784ec87

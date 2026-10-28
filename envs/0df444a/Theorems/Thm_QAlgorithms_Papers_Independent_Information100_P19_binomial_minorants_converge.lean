@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_binomial_minorants_converge
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.binomial_minorants_converge
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:58:53.087249+00:00
 -- url     : https://prove2.me/theorems/ba6a907c-43fe-4d01-b31a-2d0dda1d8752

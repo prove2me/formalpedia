@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DealerDissem_RankFree_lemma_A_2
 -- name    : DealerDissem.RankFree.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:02:23.516369+00:00
 -- url     : https://prove2.me/theorems/200b08a1-00ce-46d3-9ff8-d160a1b48158

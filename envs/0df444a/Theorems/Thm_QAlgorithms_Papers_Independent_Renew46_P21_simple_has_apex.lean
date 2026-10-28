@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P21_simple_has_apex
 -- name    : QAlgorithms.Papers.Independent.Renew46.P21.simple_has_apex
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:25:41.217528+00:00
 -- url     : https://prove2.me/theorems/5ad4a681-f36b-4ef4-8d42-ea240ecf9256

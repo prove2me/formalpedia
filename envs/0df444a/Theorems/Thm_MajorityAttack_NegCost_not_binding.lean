@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MajorityAttack_NegCost_not_binding
 -- name    : MajorityAttack.NegCost.not_binding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:11.270813+00:00
 -- url     : https://prove2.me/theorems/3b84f389-8533-4063-9b94-cb5b2dc67bde

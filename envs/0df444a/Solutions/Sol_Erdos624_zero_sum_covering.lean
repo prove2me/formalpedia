@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.zero_sum_covering
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:41:14.140321+00:00
 -- url     : https://prove2.me/submissions/3feb9a34-a123-4bda-a01b-24be636a4346
 

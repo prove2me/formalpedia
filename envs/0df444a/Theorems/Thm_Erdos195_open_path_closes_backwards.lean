@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_path_closes_backwards
 -- name    : Erdos195.open_path_closes_backwards
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T22:32:33.371771+00:00
 -- url     : https://prove2.me/theorems/61dd7408-bcda-48bd-ae16-7b656625c485
 -- title:

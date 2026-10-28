@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_renyi_monotonicity
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.renyi_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T18:57:32.539866+00:00
 -- url     : https://prove2.me/theorems/f20fbd53-6cb0-4467-99b2-7a4f19f8e44e

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.exists_potential_of_spatial_F
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:31:09.878899+00:00
 -- url     : https://prove2.me/submissions/6da525b9-1f1c-42bb-8c82-38b330258a01
 

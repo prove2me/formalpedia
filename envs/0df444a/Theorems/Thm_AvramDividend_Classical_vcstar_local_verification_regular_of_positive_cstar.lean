@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_local_verification_regular_of_positive_cstar
 -- name    : AvramDividend.Classical.vcstar_local_verification_regular_of_positive_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T17:50:22.965434+00:00
 -- url     : https://prove2.me/theorems/a697f73c-f07b-45f4-b758-d8bf6a649adc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_General_clarke_chain_rule_neg_log
 -- name    : ChanceStateCtrl.General.clarke_chain_rule_neg_log
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:39.257043+00:00
 -- url     : https://prove2.me/theorems/c41ef903-fbcb-4226-a0da-2ad9bb485d9d

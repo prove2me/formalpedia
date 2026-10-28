@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InvariantSDP.BlockDiag.obs_i_ii
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:30:32.397471+00:00
 -- url     : https://prove2.me/submissions/284cc95a-f3a1-4c18-8906-f6f2aa650d55
 

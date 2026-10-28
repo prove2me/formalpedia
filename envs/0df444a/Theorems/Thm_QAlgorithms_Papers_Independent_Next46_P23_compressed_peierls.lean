@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_compressed_peierls
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.compressed_peierls
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:37:26.794981+00:00
 -- url     : https://prove2.me/theorems/0a0ec132-6c42-4aa7-b0cd-b1bb166ad037

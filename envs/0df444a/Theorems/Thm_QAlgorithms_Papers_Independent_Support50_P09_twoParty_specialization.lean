@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_twoParty_specialization
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.twoParty_specialization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:52:25.461581+00:00
 -- url     : https://prove2.me/theorems/fb4acff9-4333-4875-bbec-74d89a885f50

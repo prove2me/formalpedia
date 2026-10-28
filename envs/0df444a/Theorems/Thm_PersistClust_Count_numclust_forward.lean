@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_numclust_forward
 -- name    : PersistClust.Count.numclust_forward
--- status  : Open
+-- status  : Proved
 -- author  : @fabianroll
 -- created : 2026-10-09T11:09:51.575984+00:00
 -- url     : https://prove2.me/theorems/b2e06326-c05d-4e37-8ec6-75e6d586e7ed

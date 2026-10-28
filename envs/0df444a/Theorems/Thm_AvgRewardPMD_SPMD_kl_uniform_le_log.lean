@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgRewardPMD_SPMD_kl_uniform_le_log
 -- name    : AvgRewardPMD.SPMD.kl_uniform_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:08.739792+00:00
 -- url     : https://prove2.me/theorems/d702ff77-8136-45dc-b3cc-0328162fff13

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitiveChores_RichFamily_lemma_36
 -- name    : CompetitiveChores.RichFamily.lemma_36
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:00:26.72103+00:00
 -- url     : https://prove2.me/theorems/841435f5-cf69-4026-ab48-015169212818

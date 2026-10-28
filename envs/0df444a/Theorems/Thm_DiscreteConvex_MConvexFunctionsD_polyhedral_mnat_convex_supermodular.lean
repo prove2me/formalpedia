@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsD_polyhedral_mnat_convex_supermodular
 -- name    : DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_convex_supermodular
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:55:53.75058+00:00
 -- url     : https://prove2.me/theorems/800dbb7a-7eaf-4ae9-b3f1-60d4a99a9ad4

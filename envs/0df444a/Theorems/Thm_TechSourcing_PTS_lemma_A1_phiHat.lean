@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechSourcing_PTS_lemma_A1_phiHat
 -- name    : TechSourcing.PTS.lemma_A1_phiHat
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:33.459288+00:00
 -- url     : https://prove2.me/theorems/4e434e9a-badc-40ec-b3f6-0b3c1c15747b

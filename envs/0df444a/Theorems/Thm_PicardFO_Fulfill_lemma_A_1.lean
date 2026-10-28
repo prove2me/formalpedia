@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PicardFO_Fulfill_lemma_A_1
 -- name    : PicardFO.Fulfill.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:47.075056+00:00
 -- url     : https://prove2.me/theorems/5cead996-5ac3-421f-863a-a2bc2ade9330

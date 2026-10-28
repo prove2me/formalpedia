@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.BrstReducedTransfer.stoneTransfer_bijective
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T04:01:10.807828+00:00
 -- url     : https://prove2.me/submissions/dee018fa-7a30-4d34-b5d9-12a416c57f00
 

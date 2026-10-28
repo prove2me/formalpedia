@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Uniform_bias_bounds
 -- name    : StabGen.Uniform.bias_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:10:56.948097+00:00
 -- url     : https://prove2.me/theorems/8d4ca778-0283-4ae8-8dce-7d2270194bd0

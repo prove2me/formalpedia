@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P38_exactEntropy_limit
 -- name    : QAlgorithms.Papers.Independent.Support50.P38.exactEntropy_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:04:17.946991+00:00
 -- url     : https://prove2.me/theorems/4e585807-f4c4-496a-9442-0ac989e05827

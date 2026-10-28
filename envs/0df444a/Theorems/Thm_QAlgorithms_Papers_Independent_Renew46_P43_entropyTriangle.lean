@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P43_entropyTriangle
 -- name    : QAlgorithms.Papers.Independent.Renew46.P43.entropyTriangle
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T07:03:53.6783+00:00
 -- url     : https://prove2.me/theorems/a37629f8-49a7-44c9-86b1-202c539766c2

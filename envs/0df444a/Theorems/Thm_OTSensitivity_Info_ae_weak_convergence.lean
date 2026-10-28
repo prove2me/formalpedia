@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTSensitivity_Info_ae_weak_convergence
 -- name    : OTSensitivity.Info.ae_weak_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:15:06.448092+00:00
 -- url     : https://prove2.me/theorems/c7d15589-9435-4ad0-afd2-8430cf3029ca

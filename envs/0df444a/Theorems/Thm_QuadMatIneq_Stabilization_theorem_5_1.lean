@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Stabilization_theorem_5_1
 -- name    : QuadMatIneq.Stabilization.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:14:17.887367+00:00
 -- url     : https://prove2.me/theorems/b8a54170-73ee-454c-9994-7ca5ccaab88b

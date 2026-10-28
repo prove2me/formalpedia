@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_conditionalInformation_discard
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.conditionalInformation_discard
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:00:50.183879+00:00
 -- url     : https://prove2.me/theorems/a052eafa-8ae9-48a9-9115-11e948a07b37

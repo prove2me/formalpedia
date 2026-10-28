@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyChainFactoring_Choice_nonRecourse_equilibrium
 -- name    : SupplyChainFactoring.Choice.nonRecourse_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:24:08.631281+00:00
 -- url     : https://prove2.me/theorems/4ca26be3-4d1d-42d0-8f7e-57fa821befea

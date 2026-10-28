@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_Upper_unmatched_imbalance
 -- name    : PigeonholeDesign.Upper.unmatched_imbalance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:12:56.852011+00:00
 -- url     : https://prove2.me/theorems/7eba3439-0db5-443e-89a7-f29539ccde67

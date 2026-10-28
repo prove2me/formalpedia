@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_binomial_ray_redundant
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.binomial_ray_redundant
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:04:29.105603+00:00
 -- url     : https://prove2.me/theorems/5555013a-6ca4-45aa-9892-029ca9d98d55

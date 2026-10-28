@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.AverageCost.theorem3_min_mean_cycle
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:46:50.362696+00:00
 -- url     : https://prove2.me/submissions/d71a21bf-9b07-41bd-98b0-f63af1fac1d8
 

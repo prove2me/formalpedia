@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P10_boundsAndFaithfulness
 -- name    : QAlgorithms.Papers.Independent.Information100.P10.boundsAndFaithfulness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:37:43.598573+00:00
 -- url     : https://prove2.me/theorems/0e21f43c-12cf-4c01-bc1d-9fe2013c3645

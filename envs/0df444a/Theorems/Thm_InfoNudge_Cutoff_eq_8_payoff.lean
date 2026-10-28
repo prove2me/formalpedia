@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoNudge_Cutoff_eq_8_payoff
 -- name    : InfoNudge.Cutoff.eq_8_payoff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:48.285289+00:00
 -- url     : https://prove2.me/theorems/b4cdbd32-5e71-4795-afb3-b0b42aa3dd55

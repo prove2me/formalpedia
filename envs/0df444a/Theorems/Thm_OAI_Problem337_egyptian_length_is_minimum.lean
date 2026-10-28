@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem337_egyptian_length_is_minimum
 -- name    : OAI.Problem337.egyptian_length_is_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:09.096622+00:00
 -- url     : https://prove2.me/theorems/43b10430-ee80-49bd-8121-32726bfcd71c

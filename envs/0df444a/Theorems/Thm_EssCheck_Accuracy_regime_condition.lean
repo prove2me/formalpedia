@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EssCheck_Accuracy_regime_condition
 -- name    : EssCheck.Accuracy.regime_condition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:08.167058+00:00
 -- url     : https://prove2.me/theorems/d7028d5d-e582-46a6-b45d-41908c127eb9

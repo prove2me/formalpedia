@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P67_actualMarginalStrongConverse
 -- name    : QAlgorithms.Papers.Independent.Information100.P67.actualMarginalStrongConverse
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:03:55.003758+00:00
 -- url     : https://prove2.me/theorems/cfec62bc-d052-40cc-a747-cff4c1e778d7

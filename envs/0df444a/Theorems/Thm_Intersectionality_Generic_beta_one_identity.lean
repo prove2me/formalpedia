@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Intersectionality_Generic_beta_one_identity
 -- name    : Intersectionality.Generic.beta_one_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:17.071049+00:00
 -- url     : https://prove2.me/theorems/41903823-f507-44bd-9ec1-5a870d44ec6e

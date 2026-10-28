@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem336AdditiveD139_invariant_positive_contraction_dpp_factor
 -- name    : OAI.Problem336AdditiveD139.invariant_positive_contraction_dpp_factor
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:08.459864+00:00
 -- url     : https://prove2.me/theorems/244c509c-d273-4610-9838-546b5aa05ce2

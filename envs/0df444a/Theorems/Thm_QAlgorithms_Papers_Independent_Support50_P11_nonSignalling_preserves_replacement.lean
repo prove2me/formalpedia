@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P11_nonSignalling_preserves_replacement
 -- name    : QAlgorithms.Papers.Independent.Support50.P11.nonSignalling_preserves_replacement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:18:30.570499+00:00
 -- url     : https://prove2.me/theorems/4965d17a-c66b-469d-9a7c-8f9c091a34ae

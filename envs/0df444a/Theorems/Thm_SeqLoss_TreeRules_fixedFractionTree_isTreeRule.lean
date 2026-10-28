@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_TreeRules_fixedFractionTree_isTreeRule
 -- name    : SeqLoss.TreeRules.fixedFractionTree_isTreeRule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:43.183983+00:00
 -- url     : https://prove2.me/theorems/11bf44f1-e0e4-4eee-8305-4631d2b57281

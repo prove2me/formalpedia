@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_midpoint_confinement
 -- name    : Erdos195.midpoint_confinement
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:05:33.140092+00:00
 -- url     : https://prove2.me/theorems/bd131717-04bc-4c12-8919-907fd44e29b5
 -- title:

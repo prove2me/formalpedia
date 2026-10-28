@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighUncertHT_Game_lemma_2
 -- name    : HighUncertHT.Game.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:37:09.781965+00:00
 -- url     : https://prove2.me/theorems/e6cfdba2-de3e-496b-a68d-cf8ced9f7539

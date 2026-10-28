@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.target_last_released
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T14:10:07.3423+00:00
 -- url     : https://prove2.me/submissions/790d378f-29d8-4c28-bebc-0d77449b2655
 

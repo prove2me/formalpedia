@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WitnessedChoice_main
 -- name    : OAI.WitnessedChoice.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:39.467024+00:00
 -- url     : https://prove2.me/theorems/a18f3289-111b-4a1a-8df6-69198c0f8487

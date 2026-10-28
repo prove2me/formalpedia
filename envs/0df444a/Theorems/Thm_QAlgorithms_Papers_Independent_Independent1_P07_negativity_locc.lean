@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_negativity_locc
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.negativity_locc
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:46:47.604653+00:00
 -- url     : https://prove2.me/theorems/c7960be2-bdde-48cc-bd1d-c9bb28865872

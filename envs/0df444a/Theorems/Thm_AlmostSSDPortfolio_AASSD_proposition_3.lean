@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlmostSSDPortfolio_AASSD_proposition_3
 -- name    : AlmostSSDPortfolio.AASSD.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:30:48.294651+00:00
 -- url     : https://prove2.me/theorems/d612d66c-3fa3-47d7-8122-e955c7bccb7d

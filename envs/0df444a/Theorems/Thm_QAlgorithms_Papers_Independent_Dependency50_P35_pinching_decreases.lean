@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P35_pinching_decreases
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P35.pinching_decreases
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:09:45.525453+00:00
 -- url     : https://prove2.me/theorems/43c6896d-0b7a-4262-9acd-accebeccc89f

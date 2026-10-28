@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DissipativePrep_Unique_unitary_covariance
 -- name    : DissipativePrep.Unique.unitary_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:47:08.779127+00:00
 -- url     : https://prove2.me/theorems/a6f8f268-c886-4c53-a48d-0838c798cf0a

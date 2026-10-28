@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KLTNuclear_Lasso_gaussian_tail
 -- name    : KLTNuclear.Lasso.gaussian_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:52:36.577316+00:00
 -- url     : https://prove2.me/theorems/a327c7d2-399c-4a00-bf31-8c815eee9f5b

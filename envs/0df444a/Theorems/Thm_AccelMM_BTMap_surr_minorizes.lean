@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelMM_BTMap_surr_minorizes
 -- name    : AccelMM.BTMap.surr_minorizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:33:57.918987+00:00
 -- url     : https://prove2.me/theorems/50d9ca15-8b66-4fb8-a1af-beb281cb7a0f

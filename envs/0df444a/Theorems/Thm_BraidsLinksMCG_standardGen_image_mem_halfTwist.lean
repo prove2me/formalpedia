@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_standardGen_image_mem_halfTwist
 -- name    : BraidsLinksMCG.standardGen_image_mem_halfTwist
--- status  : Open
+-- status  : Proved
 -- author  : @cm_beta
 -- created : 2026-09-21T23:42:56.745338+00:00
 -- url     : https://prove2.me/theorems/613636f7-9363-4d10-aaf7-a7a17ee8e1ee

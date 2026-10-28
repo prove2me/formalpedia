@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.greedy_eq_step_mod
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:05.902301+00:00
 -- url     : https://prove2.me/submissions/9de19ebf-c535-4a68-aa91-181a50f38a8b
 

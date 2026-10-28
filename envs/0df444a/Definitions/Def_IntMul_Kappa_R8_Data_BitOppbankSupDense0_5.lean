@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankSupDense0_5
 -- name    : IntMul_Kappa_R8_Data_BitOppbankSupDense0_5
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:12:06.125445+00:00
 -- url     : https://prove2.me/theorems/f176f5e9-c8e1-40a6-9f45-049e16dc4983
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.no_tame_cover
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T03:10:48.292076+00:00
 -- url     : https://prove2.me/submissions/5d8fff01-33ee-4c71-b61d-45662e05517c
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P02_stonean_of_monotoneComplete
 -- name    : QAlgorithms.Papers.Independent.Renew46.P02.stonean_of_monotoneComplete
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:46:54.807488+00:00
 -- url     : https://prove2.me/theorems/0a7f0da4-bed1-4fe7-8682-c9c5fc0e007d

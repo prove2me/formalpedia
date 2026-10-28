@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Consistency_key_theorem
 -- name    : NatureSLT.Consistency.key_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:50:34.233329+00:00
 -- url     : https://prove2.me/theorems/0a9a6294-99b2-48e0-afc4-0f019b5bebad

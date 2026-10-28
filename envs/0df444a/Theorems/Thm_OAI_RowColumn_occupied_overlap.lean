@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RowColumn_occupied_overlap
 -- name    : OAI.RowColumn.occupied_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:16.904502+00:00
 -- url     : https://prove2.me/theorems/bf26c32d-04a2-42c1-9f2a-a3e454b13a20

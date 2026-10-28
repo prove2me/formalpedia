@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThirdLawThermo_boltzmannEntropy_one_eq_zero_and_pos
 -- name    : ThirdLawThermo.boltzmannEntropy_one_eq_zero_and_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:26:54.496974+00:00
 -- url     : https://prove2.me/theorems/eb39c628-6e60-42ac-9004-99d6b9fed615

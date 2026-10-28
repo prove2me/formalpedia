@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P19_depolarizingAntidegraderNonunique
 -- name    : QAlgorithms.Papers.Independent.Gap20.P19.depolarizingAntidegraderNonunique
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T07:56:25.174025+00:00
 -- url     : https://prove2.me/theorems/7b0ddff2-9597-46bc-98a7-02cc391b7282

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_tensor_sign_system
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.tensor_sign_system
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:57:28.237487+00:00
 -- url     : https://prove2.me/theorems/1ecd1b60-f91c-43c3-b05b-ad186409a7fc

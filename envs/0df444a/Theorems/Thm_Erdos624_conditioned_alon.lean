@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_conditioned_alon
 -- name    : Erdos624.conditioned_alon
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:31.928934+00:00
 -- url     : https://prove2.me/theorems/382fab1f-5fbe-4eb1-9664-16028c747370
 -- title:

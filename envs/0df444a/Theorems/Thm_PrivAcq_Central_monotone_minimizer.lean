@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivAcq_Central_monotone_minimizer
 -- name    : PrivAcq.Central.monotone_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:26:23.812193+00:00
 -- url     : https://prove2.me/theorems/8467302a-ecef-4c1e-a6be-318c2eb3f761

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoherenceTracking_Dephasing_coherence_tracking_breakdown
 -- name    : CoherenceTracking.Dephasing.coherence_tracking_breakdown
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:33.574259+00:00
 -- url     : https://prove2.me/theorems/c9418be8-4f2c-4a2b-8aad-c129ea4054df

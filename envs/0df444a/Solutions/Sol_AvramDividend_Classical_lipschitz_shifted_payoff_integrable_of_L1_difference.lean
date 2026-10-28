@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.lipschitz_shifted_payoff_integrable_of_L1_difference
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:04:56.449389+00:00
 -- url     : https://prove2.me/submissions/c10e357b-56b6-4865-9431-002a545aa9df
 

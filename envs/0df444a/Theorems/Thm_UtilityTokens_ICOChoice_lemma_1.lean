@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UtilityTokens_ICOChoice_lemma_1
 -- name    : UtilityTokens.ICOChoice.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:15.485672+00:00
 -- url     : https://prove2.me/theorems/4297aefa-b738-4e5f-af6b-87a243729331

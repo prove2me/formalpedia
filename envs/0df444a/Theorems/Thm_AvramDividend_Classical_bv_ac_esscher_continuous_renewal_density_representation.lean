@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_ac_esscher_continuous_renewal_density_representation
 -- name    : AvramDividend.Classical.bv_ac_esscher_continuous_renewal_density_representation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T16:26:09.908302+00:00
 -- url     : https://prove2.me/theorems/17bc0aad-807f-4e33-82d9-b8a65d2b6166

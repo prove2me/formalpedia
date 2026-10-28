@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_zeta_zero_free_rectangle_102_103
 -- name    : TaoFivePrimes.zeta_zero_free_rectangle_102_103
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T11:41:58.734607+00:00
 -- url     : https://prove2.me/theorems/64ac14cb-1512-4d64-a599-d668482ca1a7
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_nonzero_proper_ideal_has_escaping_partial
 -- name    : OAI.PiExponent.FormalInterpolation.nonzero_proper_ideal_has_escaping_partial
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:32:54.484997+00:00
 -- url     : https://prove2.me/theorems/a77ed5b6-84e1-4130-8109-6bc94110d4e3

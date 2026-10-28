@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_SeriesParallel_dirac_two_vertices_degree_le_two
 -- name    : ChvatalPolytopes.SeriesParallel.dirac_two_vertices_degree_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:25:27.535515+00:00
 -- url     : https://prove2.me/theorems/38f92135-c51b-4fb4-ba84-ddf18268fd11

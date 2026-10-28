@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_punctured_disk_asymptotics
 -- name    : FiniteEnergyPlane.punctured_disk_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:26:27.954304+00:00
 -- url     : https://prove2.me/theorems/4aca064f-c3c0-4736-9a5b-21c05f6c61dd

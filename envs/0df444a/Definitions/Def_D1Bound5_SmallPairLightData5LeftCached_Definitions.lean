@@ -1,0 +1,45 @@
+-- Prove2me | Definitions.Def_D1Bound5_SmallPairLightData5LeftCached_Definitions
+-- name    : D1Bound5_SmallPairLightData5LeftCached_Definitions
+-- status  : Definition
+-- author  : @tp
+-- created : 2026-10-23T23:17:44.910934+00:00
+-- url     : https://prove2.me/theorems/90c661c7-43d8-4411-8166-8748ef889b1f
+-- title:
+--   Small Pair Light Data5Left Cached
+-- statement:
+--   Cached exact coordinate data used by the selected-floor tests on the finite small-pair vertex lists. The named objects in this bundle include `PairLightPrepared5.leftCached`.
+-- source:
+--   D1Bound5/SmallPairLightData5LeftCached.lean, lines 7-439, SHA-256 be98051e17b7be7a1f39e931ad469e5de82295af840d8176dd1c9c88654cb094. Project: https://github.com/tomislav-math/d1-bound5-lean
+
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_37f1e5e0b5bf380b4170
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_af572d6bf241dc0105d7
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_a175576471856d0f57fa
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_03d9e36dfe765da157ee
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_56b23735cdf9eec9ea1a
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_dee569629dfed09e5724
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_5c01b8eb7ab855b0a8ca
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_ad66957a0cd97d0f6b29
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_39b9339301a4c64ad604
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_96f91e52d0ed93b43343
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_ceefde862d837ab3b6e0
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_081d0b693ba2340bf84e
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_839a219ea5ea71291071
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_fc15a8487fabb776ab7e
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_a9381bc1264274e3f88d
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_93d45eed1351950db898
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_47ac7b3660967b7c53f8
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_886d1464d5cec844a29c
+import Init
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+
+section
+namespace D1Bound5.PairLightPrepared5
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+def leftCached : List PairLightCachedVertex := (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_37f1e5e0b5bf380b4170 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_af572d6bf241dc0105d7 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_a175576471856d0f57fa (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_03d9e36dfe765da157ee (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_56b23735cdf9eec9ea1a (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_dee569629dfed09e5724 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_5c01b8eb7ab855b0a8ca (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_ad66957a0cd97d0f6b29 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_39b9339301a4c64ad604 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_96f91e52d0ed93b43343 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_ceefde862d837ab3b6e0 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_081d0b693ba2340bf84e (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_839a219ea5ea71291071 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_fc15a8487fabb776ab7e (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_a9381bc1264274e3f88d (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_93d45eed1351950db898 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_47ac7b3660967b7c53f8 _root_.D1Bound5.Prove2MeTransfer.cachedSlice_886d1464d5cec844a29c)))))))))))))))))
+
+end D1Bound5.PairLightPrepared5
+end
+
+

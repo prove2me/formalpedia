@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxMethodVI_Rate_lemma3_1_a_prox_lipschitz
 -- name    : ProxMethodVI.Rate.lemma3_1_a_prox_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:12:08.745981+00:00
 -- url     : https://prove2.me/theorems/8a5aacb0-cfed-46c6-a1c9-7955c27efdf3

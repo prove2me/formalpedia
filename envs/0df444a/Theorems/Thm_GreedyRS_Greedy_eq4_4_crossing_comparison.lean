@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Greedy_eq4_4_crossing_comparison
 -- name    : GreedyRS.Greedy.eq4_4_crossing_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:00.692375+00:00
 -- url     : https://prove2.me/theorems/15532867-1b0b-461e-a0d1-206f49a5c6b3

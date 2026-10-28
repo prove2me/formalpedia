@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_advantage_definition_properties
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.advantage_definition_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:04:09.845764+00:00
 -- url     : https://prove2.me/theorems/133965ca-e174-4a41-bd68-d9ed84d7e933

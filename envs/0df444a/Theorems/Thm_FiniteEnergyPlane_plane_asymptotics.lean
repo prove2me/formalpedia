@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_plane_asymptotics
 -- name    : FiniteEnergyPlane.plane_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:26:03.487004+00:00
 -- url     : https://prove2.me/theorems/d956e970-bdda-4dc8-943d-e7fb8ee859a0

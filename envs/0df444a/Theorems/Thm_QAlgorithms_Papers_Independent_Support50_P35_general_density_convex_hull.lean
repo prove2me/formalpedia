@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_general_density_convex_hull
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.general_density_convex_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:46:05.688616+00:00
 -- url     : https://prove2.me/theorems/67398e2b-cef2-44fd-b818-98d48ccea078

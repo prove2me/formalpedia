@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FosterQueues_MG1_mg1_classification
 -- name    : FosterQueues.MG1.mg1_classification
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:20:48.450126+00:00
 -- url     : https://prove2.me/theorems/b1324630-fd8e-4234-9c76-660df170a792

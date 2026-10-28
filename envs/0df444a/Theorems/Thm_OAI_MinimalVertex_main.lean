@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MinimalVertex_main
 -- name    : OAI.MinimalVertex.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:57.442747+00:00
 -- url     : https://prove2.me/theorems/cc98c14a-a7e7-4499-ac94-623aaa01ab72

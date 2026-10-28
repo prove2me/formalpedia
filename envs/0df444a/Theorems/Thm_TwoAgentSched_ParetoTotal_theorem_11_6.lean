@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_ParetoTotal_theorem_11_6
 -- name    : TwoAgentSched.ParetoTotal.theorem_11_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:30:30.751076+00:00
 -- url     : https://prove2.me/theorems/cf97c7e9-9cb5-41bc-9ce5-bfb37f30c116

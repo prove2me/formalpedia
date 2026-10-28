@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HackCosmologicalAQFT_scale_factor_radiation
 -- name    : HackCosmologicalAQFT.scale_factor_radiation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:34.160233+00:00
 -- url     : https://prove2.me/theorems/da6b832a-8fdf-4074-a8cf-2a30cde46dfd

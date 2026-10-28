@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfluencerAuth_Switch_proposition_1
 -- name    : InfluencerAuth.Switch.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:30.831015+00:00
 -- url     : https://prove2.me/theorems/b2be90aa-70f2-4a37-adfb-3318709db742

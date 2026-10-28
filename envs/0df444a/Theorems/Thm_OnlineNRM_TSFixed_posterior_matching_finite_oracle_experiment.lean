@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineNRM_TSFixed_posterior_matching_finite_oracle_experiment
 -- name    : OnlineNRM.TSFixed.posterior_matching_finite_oracle_experiment
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T18:31:10.007498+00:00
 -- url     : https://prove2.me/theorems/96bc41fc-48b6-489f-9824-af4457d6e65d

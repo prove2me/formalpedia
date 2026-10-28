@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GammaFPP_gamma_differentiability
 -- name    : OAI.GammaFPP.gamma_differentiability
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:41.978378+00:00
 -- url     : https://prove2.me/theorems/b7de25f2-b54a-4efc-8ab8-477206a18f05

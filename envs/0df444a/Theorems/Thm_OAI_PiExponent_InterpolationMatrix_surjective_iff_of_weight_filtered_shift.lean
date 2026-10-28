@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_InterpolationMatrix_surjective_iff_of_weight_filtered_shift
 -- name    : OAI.PiExponent.InterpolationMatrix.surjective_iff_of_weight_filtered_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:33:46.775599+00:00
 -- url     : https://prove2.me/theorems/f825b721-cd12-41f0-b89e-f8f6fdfa4ae7

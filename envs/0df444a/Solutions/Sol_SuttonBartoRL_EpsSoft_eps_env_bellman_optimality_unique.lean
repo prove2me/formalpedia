@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.EpsSoft.eps_env_bellman_optimality_unique
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:14:15.796101+00:00
 -- url     : https://prove2.me/submissions/0bb41dd5-3520-4323-ab36-04eff46bc87d
 

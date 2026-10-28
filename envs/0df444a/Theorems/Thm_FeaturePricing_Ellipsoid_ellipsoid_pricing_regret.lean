@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeaturePricing_Ellipsoid_ellipsoid_pricing_regret
 -- name    : FeaturePricing.Ellipsoid.ellipsoid_pricing_regret
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:33:14.856985+00:00
 -- url     : https://prove2.me/theorems/b2bc0d2e-fbea-4a67-a20b-56d1322dd016

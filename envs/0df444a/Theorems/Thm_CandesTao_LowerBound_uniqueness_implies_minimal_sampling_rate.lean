@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CandesTao_LowerBound_uniqueness_implies_minimal_sampling_rate
 -- name    : CandesTao.LowerBound.uniqueness_implies_minimal_sampling_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:45:39.70093+00:00
 -- url     : https://prove2.me/theorems/476d2728-4712-42cd-9aa3-acd4c40be2e0

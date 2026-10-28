@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for DissipativePrep.Unique.dprime_eq_dark
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:03:08.888305+00:00
 -- url     : https://prove2.me/submissions/31da64e9-f014-40b5-9736-66d1a56b3d5d
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ADH2015_qutrit_marginals_maximallyMixed
 -- name    : ADH2015.qutrit_marginals_maximallyMixed
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-09T08:59:59.494892+00:00
 -- url     : https://prove2.me/theorems/258dbf26-2e96-48ae-9c08-767354bfa982

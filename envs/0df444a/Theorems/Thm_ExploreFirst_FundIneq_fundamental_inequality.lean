@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_FundIneq_fundamental_inequality
 -- name    : ExploreFirst.FundIneq.fundamental_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:23:41.121332+00:00
 -- url     : https://prove2.me/theorems/c48d7730-25bb-4300-8551-5eff987acd72

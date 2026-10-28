@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsallisINF_AdvAlpha_theorem_3
 -- name    : TsallisINF.AdvAlpha.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:34:48.547684+00:00
 -- url     : https://prove2.me/theorems/50255f84-805e-4ed6-824f-39793b2b4ff0

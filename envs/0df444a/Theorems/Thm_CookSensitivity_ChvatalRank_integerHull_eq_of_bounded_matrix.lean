@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookSensitivity_ChvatalRank_integerHull_eq_of_bounded_matrix
 -- name    : CookSensitivity.ChvatalRank.integerHull_eq_of_bounded_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:38:18.854807+00:00
 -- url     : https://prove2.me/theorems/b26d96de-50bf-425b-861a-4fbf18e23a79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServTimeLimit_OptMech_full_extraction
 -- name    : ServTimeLimit.OptMech.full_extraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:46.625466+00:00
 -- url     : https://prove2.me/theorems/df5b01dd-b72b-4e1f-be95-6abd7ea0c2ae

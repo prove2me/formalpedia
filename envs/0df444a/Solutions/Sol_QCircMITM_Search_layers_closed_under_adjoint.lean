@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QCircMITM.Search.layers_closed_under_adjoint
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:38:31.184177+00:00
 -- url     : https://prove2.me/submissions/4578ce38-050b-463c-bfed-451b6a95eb2c
 

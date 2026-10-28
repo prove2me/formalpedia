@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.polynomial_curve_aeval_pole_le_weighted_height
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:50:02.199593+00:00
 -- url     : https://prove2.me/submissions/a63857ca-8642-4d6d-a9d4-4f9896ccfeef
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P06_physical_degradingMap
 -- name    : QAlgorithms.Papers.Independent.Support50.P06.physical_degradingMap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:29:03.817674+00:00
 -- url     : https://prove2.me/theorems/6e223da0-dae5-4535-b6aa-bdf36fba210c

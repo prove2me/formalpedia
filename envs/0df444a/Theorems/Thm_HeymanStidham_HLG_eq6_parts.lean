@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeymanStidham_HLG_eq6_parts
 -- name    : HeymanStidham.HLG.eq6_parts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:39:31.993075+00:00
 -- url     : https://prove2.me/theorems/7209a348-d05e-4827-8b83-2edc08e09fc2

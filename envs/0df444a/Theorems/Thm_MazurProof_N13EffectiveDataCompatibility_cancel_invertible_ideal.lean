@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13EffectiveDataCompatibility_cancel_invertible_ideal
 -- name    : MazurProof.N13EffectiveDataCompatibility.cancel_invertible_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T03:25:17.810271+00:00
 -- url     : https://prove2.me/theorems/d5743255-9306-41ba-be8f-bbb938bbe923

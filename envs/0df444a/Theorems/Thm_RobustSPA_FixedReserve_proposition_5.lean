@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_FixedReserve_proposition_5
 -- name    : RobustSPA.FixedReserve.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:08.333477+00:00
 -- url     : https://prove2.me/theorems/260f5390-606c-4301-8bf1-c18fee83fbbd

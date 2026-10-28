@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_IsingPerceptron_variationalValue_real_of_continuous
 -- name    : OAI.IsingPerceptron.variationalValue_real_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:48.837983+00:00
 -- url     : https://prove2.me/theorems/6880329e-d857-4e2a-ae54-7a208c3f82fa

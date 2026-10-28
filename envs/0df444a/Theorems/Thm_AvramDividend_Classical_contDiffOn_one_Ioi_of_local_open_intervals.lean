@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_contDiffOn_one_Ioi_of_local_open_intervals
 -- name    : AvramDividend.Classical.contDiffOn_one_Ioi_of_local_open_intervals
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:53:46.191565+00:00
 -- url     : https://prove2.me/theorems/a971a6b7-a9d4-4c45-96e7-0269d0c94183

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_quantumFano
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.quantumFano
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:11:46.067729+00:00
 -- url     : https://prove2.me/theorems/aec73939-bda3-4163-b9d4-82c54b3d319b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_BallGraph_cell_card_le
 -- name    : TwinWidthI.BallGraph.cell_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:45:39.451207+00:00
 -- url     : https://prove2.me/theorems/ac31e52b-49b8-4be0-a5e3-ec52345d0fe9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P20_lemma22
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P20.lemma22
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T18:50:06.422906+00:00
 -- url     : https://prove2.me/theorems/a5535ad6-7cce-4b72-8583-f4fcf3fdbfed

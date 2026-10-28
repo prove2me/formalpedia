@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_eq_q_ae_of_weighted_residual_vanishing_Ioi
 -- name    : AvramDividend.Classical.scaleFunction_generator_eq_q_ae_of_weighted_residual_vanishing_Ioi
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-19T22:24:03.355037+00:00
 -- url     : https://prove2.me/theorems/e65ef0d7-ea77-44ac-b844-d0f0ac527bff

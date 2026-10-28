@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoseGIE_reducedPurity_strictAnti
 -- name    : BoseGIE.reducedPurity_strictAnti
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-11T19:27:25.79509+00:00
 -- url     : https://prove2.me/theorems/e8227413-8d38-4a39-86ef-214c1eedab20

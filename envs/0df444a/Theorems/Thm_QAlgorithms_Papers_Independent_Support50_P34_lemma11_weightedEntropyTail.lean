@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P34_lemma11_weightedEntropyTail
 -- name    : QAlgorithms.Papers.Independent.Support50.P34.lemma11_weightedEntropyTail
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:52:53.411726+00:00
 -- url     : https://prove2.me/theorems/f7875cc8-a6bd-486e-8160-34d0733774c9

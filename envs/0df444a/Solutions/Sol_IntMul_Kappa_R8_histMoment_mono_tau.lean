@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.histMoment_mono_tau
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:08:26.508973+00:00
 -- url     : https://prove2.me/submissions/427163f5-11f9-4cb7-b704-607ccecb1547
 

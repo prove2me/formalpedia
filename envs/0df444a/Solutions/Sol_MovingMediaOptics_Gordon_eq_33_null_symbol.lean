@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MovingMediaOptics.Gordon.eq_33_null_symbol
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:25:59.512004+00:00
 -- url     : https://prove2.me/submissions/04864c11-bf92-498d-8363-c6df44e42acb
 

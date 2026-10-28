@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefMNLPricing_Myopic_theorem_3
 -- name    : RefMNLPricing.Myopic.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:15.553887+00:00
 -- url     : https://prove2.me/theorems/566a2dad-cfcf-4132-b8b1-4b7748cb93ac

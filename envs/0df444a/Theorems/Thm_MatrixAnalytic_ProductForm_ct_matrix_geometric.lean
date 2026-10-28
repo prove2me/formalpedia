@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_ProductForm_ct_matrix_geometric
 -- name    : MatrixAnalytic.ProductForm.ct_matrix_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:27.887167+00:00
 -- url     : https://prove2.me/theorems/6e458f83-8f11-40b5-9106-e0075850ace6

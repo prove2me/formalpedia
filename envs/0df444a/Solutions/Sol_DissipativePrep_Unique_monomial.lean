@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for DissipativePrep.Unique.monomial
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:07:35.928089+00:00
 -- url     : https://prove2.me/submissions/6fbce3f8-7acd-46e6-9ce9-ca61e89012de
 

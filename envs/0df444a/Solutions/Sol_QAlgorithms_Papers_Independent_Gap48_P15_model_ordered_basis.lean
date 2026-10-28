@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P15.model_ordered_basis
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T00:29:10.759436+00:00
 -- url     : https://prove2.me/submissions/0db8b783-5ab3-4961-8336-db3cc88786c4
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_quintessence_continuity
 -- name    : DarkEnergyLCDM.quintessence_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:07:50.564666+00:00
 -- url     : https://prove2.me/theorems/b07691c1-2224-4e30-bd4a-f5dc01c49875

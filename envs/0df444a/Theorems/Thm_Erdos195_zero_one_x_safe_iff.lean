@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_zero_one_x_safe_iff
 -- name    : Erdos195.zero_one_x_safe_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T07:47:07.41041+00:00
 -- url     : https://prove2.me/theorems/52359d7c-db31-4e28-80b5-6d83438de6f0
 -- title:

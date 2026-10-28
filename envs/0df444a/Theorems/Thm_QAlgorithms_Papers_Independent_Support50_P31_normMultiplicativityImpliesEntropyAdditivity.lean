@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P31_normMultiplicativityImpliesEntropyAdditivity
 -- name    : QAlgorithms.Papers.Independent.Support50.P31.normMultiplicativityImpliesEntropyAdditivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:26:08.109631+00:00
 -- url     : https://prove2.me/theorems/43d8b713-69fb-44d9-a9e7-3a0fe505d9c7

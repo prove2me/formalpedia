@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_gallego_bound
 -- name    : BidPriceControl.Asymptotic.gallego_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:38:17.152992+00:00
 -- url     : https://prove2.me/theorems/81b32bad-353b-44d3-a578-0dd7e7ca306c

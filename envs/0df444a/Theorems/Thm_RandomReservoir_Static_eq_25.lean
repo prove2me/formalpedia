@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomReservoir_Static_eq_25
 -- name    : RandomReservoir.Static.eq_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:24:53.50719+00:00
 -- url     : https://prove2.me/theorems/9d09c6e9-21bf-4741-81db-de531b3085c7

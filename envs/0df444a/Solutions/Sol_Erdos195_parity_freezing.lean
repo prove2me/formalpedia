@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.parity_freezing
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:27:14.446409+00:00
 -- url     : https://prove2.me/submissions/d713cc95-d173-409b-95fa-4a966b50e8bc
 

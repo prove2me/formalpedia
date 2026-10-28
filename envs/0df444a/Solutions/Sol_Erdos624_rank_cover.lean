@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.rank_cover
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:49.642042+00:00
 -- url     : https://prove2.me/submissions/b5642a61-c728-4e93-a1a5-2fb960557294
 

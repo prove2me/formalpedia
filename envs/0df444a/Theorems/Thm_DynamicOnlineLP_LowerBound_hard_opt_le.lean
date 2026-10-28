@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_LowerBound_hard_opt_le
 -- name    : DynamicOnlineLP.LowerBound.hard_opt_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T20:05:44.645785+00:00
 -- url     : https://prove2.me/theorems/2c69be64-b343-4c2f-a69d-599b89e042f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicAssortment_Separation_display12_optimal_assortment_stable
 -- name    : DynamicAssortment.Separation.display12_optimal_assortment_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T10:12:27.414576+00:00
 -- url     : https://prove2.me/theorems/3e1b3867-431d-4ffd-9aa1-0f36a7326149

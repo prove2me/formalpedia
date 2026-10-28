@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_Differ_reduced_profit_high
 -- name    : QualityEncroach.Differ.reduced_profit_high
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:23:48.741974+00:00
 -- url     : https://prove2.me/theorems/8d9f63a2-8d64-44cc-8a2e-7a2738f7f3fd

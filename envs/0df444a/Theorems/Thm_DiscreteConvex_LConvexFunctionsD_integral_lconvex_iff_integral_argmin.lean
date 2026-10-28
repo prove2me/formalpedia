@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_integral_lconvex_iff_integral_argmin
 -- name    : DiscreteConvex.LConvexFunctionsD.integral_lconvex_iff_integral_argmin
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:06:13.210851+00:00
 -- url     : https://prove2.me/theorems/90f5aee4-5d15-4204-af04-46b16bb0fd54

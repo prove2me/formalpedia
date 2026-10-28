@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_complexStructureGen_spec
 -- name    : GeneralizedComplex.complexStructureGen_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:54:49.478638+00:00
 -- url     : https://prove2.me/theorems/ded06f95-34bb-46e8-bdf8-158c8e72100a

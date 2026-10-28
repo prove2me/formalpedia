@@ -1,0 +1,42 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.chat04_scale_zero_origin_of_unbounded_variation
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-10-24T09:11:13.875356+00:00
+-- url     : https://prove2.me/submissions/6bc76af2-bd7e-4563-874e-0d0b8b16abbd
+
+import Mathlib.MeasureTheory.Integral.Lebesgue.Add
+import Definitions.Def_AvramDividend_Classical_ScaleFunction
+import Theorems.Thm_AvramDividend_Classical_unbounded_variation_gaussian_or_infinite_small_jump_moment
+import Theorems.Thm_AvramDividend_Classical_scaleFunction_zero_origin_gaussian_without_standing
+import Theorems.Thm_AvramDividend_Classical_scaleFunction_zero_origin_infinite_small_jumps
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory AvramDividend.Classical Set
+open scoped NNReal ENNReal
+
+/-- A positive-q scale function vanishes at zero for every
+spectrally negative Lévy process of unbounded variation. This combines
+the Gaussian and infinite-small-jump variation branches. -/
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω]
+    {P : Measure Ω} {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕)
+    (hnbv : ¬ X.BoundedVariation)
+    (q : ℝ) (hq : 0 < q)
+    (W : ℝ → ℝ) (hW : IsScaleFunction X q W) :
+    W 0 = 0 := by
+  by_cases hσ : 0 < X.σ
+  · exact scaleFunction_zero_origin_gaussian_without_standing
+      X q hq W hW hσ
+  · have hinf :
+        (∫⁻ y in Ioo (-1 : ℝ) 0,
+          ENNReal.ofReal |y| ∂X.ν) = ⊤ :=
+      (unbounded_variation_gaussian_or_infinite_small_jump_moment
+        X hnbv).resolve_left hσ
+    have hσ0 : X.σ = 0 :=
+      le_antisymm (le_of_not_gt hσ) X.σ_nonneg
+    exact scaleFunction_zero_origin_infinite_small_jumps
+      X hσ0 hinf q hq W hW

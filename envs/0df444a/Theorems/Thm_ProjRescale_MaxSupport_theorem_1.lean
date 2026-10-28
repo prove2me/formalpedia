@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjRescale_MaxSupport_theorem_1
 -- name    : ProjRescale.MaxSupport.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:27.92751+00:00
 -- url     : https://prove2.me/theorems/054caf78-4c36-4879-9f4e-0c753690516d

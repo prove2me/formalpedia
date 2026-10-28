@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_answer_eq_three_iff
 -- name    : Erdos195.answer_eq_three_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:32:24.444227+00:00
 -- url     : https://prove2.me/theorems/14962be0-da3f-407d-9fc9-024a31f89af1
 -- title:

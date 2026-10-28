@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearMDPRL_Misspec_lemma_C_2
 -- name    : LinearMDPRL.Misspec.lemma_C_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:36:03.591997+00:00
 -- url     : https://prove2.me/theorems/43d0bdaf-b6cb-4c9b-882e-d30d1746ecc9

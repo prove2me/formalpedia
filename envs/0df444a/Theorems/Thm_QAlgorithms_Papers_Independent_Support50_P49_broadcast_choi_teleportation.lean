@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P49_broadcast_choi_teleportation
 -- name    : QAlgorithms.Papers.Independent.Support50.P49.broadcast_choi_teleportation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:04:31.679747+00:00
 -- url     : https://prove2.me/theorems/f7f49964-feb8-4762-ab84-e848eb848573

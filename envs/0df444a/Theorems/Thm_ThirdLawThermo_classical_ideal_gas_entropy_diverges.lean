@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThirdLawThermo_classical_ideal_gas_entropy_diverges
 -- name    : ThirdLawThermo.classical_ideal_gas_entropy_diverges
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:42.467403+00:00
 -- url     : https://prove2.me/theorems/e44092ea-aa53-4403-ad17-a323217dd4a5

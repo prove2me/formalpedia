@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_schoenfeld_psi_deficit_lower_large
 -- name    : TaoFivePrimes.schoenfeld_psi_deficit_lower_large
--- status  : Open
+-- status  : Proved
 -- author  : @cm_beta
 -- created : 2026-09-20T19:15:53.885983+00:00
 -- url     : https://prove2.me/theorems/5c8762cc-96c9-41a7-96ee-3cd87c86eb7b

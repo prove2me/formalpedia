@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_ensembleFidelityBound
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.ensembleFidelityBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:19:27.118556+00:00
 -- url     : https://prove2.me/theorems/f9009acd-6024-465f-a705-36e5671818d7

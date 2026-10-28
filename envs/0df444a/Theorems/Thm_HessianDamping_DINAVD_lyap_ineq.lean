@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_DINAVD_lyap_ineq
 -- name    : HessianDamping.DINAVD.lyap_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:09.363061+00:00
 -- url     : https://prove2.me/theorems/1f790109-d0e7-4aac-966e-bec09a3d883d

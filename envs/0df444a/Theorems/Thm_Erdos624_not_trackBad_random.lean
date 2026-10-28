@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_not_trackBad_random
 -- name    : Erdos624.not_trackBad_random
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:05.876144+00:00
 -- url     : https://prove2.me/theorems/6a21323a-e872-4469-87df-c1405188e525
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_scalarTestingReduction
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.scalarTestingReduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:22:38.212834+00:00
 -- url     : https://prove2.me/theorems/a3d21747-cac1-448d-856d-d395c50e673b

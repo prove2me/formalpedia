@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_path_sink_compatible
 -- name    : Erdos195.open_path_sink_compatible
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T23:11:29.782897+00:00
 -- url     : https://prove2.me/theorems/e33b5b9d-e5b4-4d6d-8fcb-20c847e44e07
 -- title:

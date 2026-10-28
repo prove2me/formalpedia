@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem336AdditiveD139_finite_strongly_rayleigh_response
 -- name    : OAI.Problem336AdditiveD139.finite_strongly_rayleigh_response
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:08.324789+00:00
 -- url     : https://prove2.me/theorems/05a42776-8529-4594-8196-fcb2db7bc1ac

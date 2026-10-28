@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_classical_correspondence
 -- name    : EnergyMomentum.classical_correspondence
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:14:55.991368+00:00
 -- url     : https://prove2.me/theorems/aa72c59e-71f8-4d63-9ab4-85ba1479466d

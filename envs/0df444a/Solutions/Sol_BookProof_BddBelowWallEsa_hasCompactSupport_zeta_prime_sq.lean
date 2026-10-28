@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.BddBelowWallEsa.hasCompactSupport_zeta_prime_sq
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T04:04:20.070036+00:00
 -- url     : https://prove2.me/submissions/ed1b7cf4-07dd-4c21-b6f0-558574a9eebc
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P47_widest_path_cut_property
 -- name    : QAlgorithms.Papers.Independent.Support50.P47.widest_path_cut_property
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:00:10.924933+00:00
 -- url     : https://prove2.me/theorems/4ff615fd-fd51-4d72-a810-2cad78824b9d

@@ -1,0 +1,847 @@
+-- Prove2me | solution 1 for Sensitivity213981Formal.ThreeBoundEndpoint22CampaignComplete.seeds
+-- status  : ACCEPTED   (prove)
+-- author  : @yousofy
+-- created : 2026-10-27T04:53:55.408612+00:00
+-- url     : https://prove2.me/submissions/8a0dd506-1850-4bbd-b02f-7839679664de
+
+import Definitions.Def_Sensitivity213981Formal_Endpoint22HybridAssembly
+import Definitions.Def_Sensitivity213981Formal_Endpoint22NumericalComplete
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedRecordTree
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree000
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree001
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree002
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree003
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree004
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree005
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree006
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree007
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree008
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree009
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree010
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree011
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree012
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree013
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree014
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree015
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree016
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree017
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree018
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree019
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree020
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree021
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree022
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree023
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree024
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree025
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree026
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree027
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree028
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree029
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree030
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree031
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree032
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree033
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree034
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree035
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree036
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree037
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree038
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree039
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree040
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree041
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree042
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree043
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree044
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree045
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree046
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree047
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree048
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree049
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree050
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree051
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree052
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree053
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree054
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree055
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree056
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree057
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree058
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree059
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree060
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree061
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree062
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree063
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree064
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree065
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree066
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree067
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree068
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree069
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree070
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree071
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree072
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree073
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree074
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree075
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree076
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree077
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree078
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree079
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree080
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree081
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree082
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree083
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree084
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree085
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree086
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree087
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree088
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree089
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree090
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree091
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree092
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree093
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree094
+import Definitions.Def_Sensitivity213981Formal_Endpoint22PackedTree095
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks000
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks001
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks002
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks003
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks004
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks005
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks006
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks007
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks008
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks009
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks010
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks011
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks012
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks013
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks014
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks015
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks016
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks017
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks018
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks019
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks020
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks021
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks022
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks023
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks024
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks025
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks026
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks027
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks028
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks029
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks030
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks031
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks032
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks033
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks034
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks035
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks036
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks037
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks038
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks039
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks040
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks041
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks042
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks043
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks044
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks045
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks046
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks047
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks048
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks049
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks050
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks051
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks052
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks053
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks054
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks055
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks056
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks057
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks058
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks059
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks060
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks061
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks062
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks063
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks064
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks065
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks066
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks067
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks068
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks069
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks070
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks071
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks072
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks073
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks074
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks075
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks076
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks077
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks078
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks079
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks080
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks081
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks082
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks083
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks084
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks085
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks086
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks087
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks088
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks089
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks090
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks091
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks092
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks093
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks094
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks095
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks096
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks097
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks098
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks099
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks100
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks101
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks102
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks103
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks104
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks105
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks106
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks107
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks108
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks109
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks110
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks111
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks112
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks113
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks114
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks115
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks116
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks117
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks118
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks119
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks120
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks121
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks122
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks123
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks124
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks125
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks126
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks127
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks128
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks129
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks130
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks131
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks132
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks133
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks134
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks135
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks136
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks137
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks138
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks139
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks140
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks141
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks142
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks143
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks144
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks145
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks146
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks147
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks148
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks149
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks150
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks151
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks152
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks153
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks154
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks155
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks156
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks157
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks158
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks159
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks160
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks161
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks162
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks163
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks164
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks165
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks166
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks167
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks168
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks169
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks170
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks171
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks172
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks173
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks174
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks175
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks176
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks177
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks178
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks179
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks180
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks181
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks182
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks183
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks184
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks185
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks186
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks187
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks188
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks189
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks190
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks191
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks192
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks193
+import Definitions.Def_Sensitivity213981Formal_Endpoint22ReachChecks194
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData000
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData001
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData002
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData003
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData004
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData005
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData006
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData007
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData008
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData009
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData010
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData011
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData012
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData013
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData014
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData015
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData016
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData017
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData018
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData019
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData020
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData021
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData022
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData023
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData024
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData025
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData026
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData027
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData028
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData029
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData030
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData031
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData032
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData033
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData034
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData035
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData036
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData037
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData038
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData039
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData040
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData041
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData042
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData043
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData044
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData045
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData046
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData047
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData048
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData049
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData050
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData051
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData052
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData053
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData054
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData055
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData056
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData057
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData058
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData059
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData060
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData061
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData062
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData063
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData064
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData065
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData066
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData067
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData068
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData069
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData070
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData071
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData072
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData073
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData074
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData075
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData076
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData077
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData078
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData079
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData080
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData081
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData082
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData083
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData084
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData085
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData086
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData087
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData088
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData089
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData090
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData091
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData092
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData093
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData094
+import Definitions.Def_Sensitivity213981Formal_Endpoint22RecordTreeData095
+import Definitions.Def_Sensitivity213981Formal_Endpoint22Seeds
+import Definitions.Def_Sensitivity213981Formal_Endpoint22TypeData
+import Definitions.Def_Sensitivity213981Formal_Endpoint22TypeSplit
+import Definitions.Def_Sensitivity213981Formal_Namespaces
+import Definitions.Def_Sensitivity213981Formal_NamespacesComplete
+import Definitions.Def_Sensitivity213981Formal_RecursiveLowerBounds
+import Definitions.Def_Sensitivity213981Formal_RelaxedPackedTreeMatch
+import Definitions.Def_Sensitivity213981Formal_RelaxedRecordCoverage
+import Definitions.Def_Sensitivity213981Formal_WitnessLifting
+import Definitions.Def_SensitivityCampaign
+import Definitions.Def_SensitivitySeparation
+import Init.Data.Nat.Bitwise.Lemmas
+import Lean
+import Lean.Elab.Tactic.Omega
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.GroupWithZero.Units.Equiv
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.Group.List
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.GroupWithZero.Basic
+import Mathlib.Algebra.Order.Ring.Nat
+import Mathlib.Algebra.Order.Ring.Pow
+import Mathlib.Analysis.SpecialFunctions.Log.Deriv
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Combinatorics.Digraph.Basic
+import Mathlib.Combinatorics.Hall.Finite
+import Mathlib.Data.Fin.Basic
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finset.Sort
+import Mathlib.Data.Finset.Union
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.Sort
+import Mathlib.Data.List.TakeDrop
+import Mathlib.Data.Nat.Basic
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Nat.Digits.Defs
+import Mathlib.Data.Prod.Lex
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.NumberTheory.JacobiSum.Basic
+import Mathlib.NumberTheory.LegendreSymbol.Basic
+import Mathlib.Order.Interval.Finset.Nat
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.IntervalCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.NormNum.Prime
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Tauto
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundEndpoint22Records_records_complete
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundMinmaxNumeric_Endpoint22_closure_complete
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundMinmaxNumeric_Endpoint22_numerical_complete
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundMinmaxNumeric_Endpoint22_periodic_upper_hybrid
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundProfiles_sensitivity_le_diagonal_max
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundWitness_blockSensitivity_lower_of_indexed_blocks
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundWitness_sensitivity_reindex
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundWitness_tower_common_witnesses
+
+
+namespace Sensitivity213981Formal
+section
+/-
+Common block and positive-sensitivity witnesses for a broad two-child
+guarded construction. These are lower-bound witnesses; no upper sensitivity
+transfer theorem is asserted here.
+-/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+
+namespace ThreeBoundWitness
+open _root_.OAI.Paper320 _root_.Sensitivity213981Formal.OAI.Paper320
+
+variable {L I V : Type}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- An injectively indexed family of sensitive coordinates bounds the campaign measure. -/
+theorem sensitivity_lower_of_indexed_bits [Fintype I] {A : Type} [Fintype A]
+    (f : (I → Bool) → Bool) (x : I → Bool) (e : A ↪ I)
+    (he : ∀ a, f (_root_.OAI.Paper320.flip x {e a}) ≠ f x) : Fintype.card A ≤  _root_.OAI.Paper320.sensitivity f := by
+  classical
+  have hsub : (Finset.univ.map e) ⊆
+      Finset.univ.filter (fun i => f (_root_.OAI.Paper320.flip x {i}) ≠ f x) := by
+    intro i hi
+    obtain ⟨a, _, rfl⟩ := Finset.mem_map.mp hi
+    exact Finset.mem_filter.mpr ⟨Finset.mem_univ _, he a⟩
+  have hat : Fintype.card A ≤  _root_.OAI.Paper320.sensitivityAt f x := by
+    simpa only [_root_.OAI.Paper320.sensitivityAt, Finset.card_map, Finset.card_univ]
+      using Finset.card_le_card hsub
+  exact hat.trans (Finset.le_sup (Finset.mem_univ x))
+
+
+
+
+
+
+
+/- Reindexing lemmas follow the accepted Apache-2.0 source by @yousofy:
+   Sol_Paley11987Verified_CompactFiniteProfile11987_actual_seeds_of_label_and_certificate,
+   together with Definitions.Def_Paley11987Support_053. -/
+
+
+
+
+
+
+
+
+
+
+end ThreeBoundWitness
+
+
+
+
+
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/-
+Concrete arbitrary-depth graded/min-max constructions and their lower bounds.
+Every recipe sequence below defines total Boolean functions.  No sensitivity
+upper bound is claimed; the finite sensitivity-profile soundness remains a
+separate obligation for the requested separation exponents.
+-/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+
+namespace ThreeBoundWitness
+open _root_.OAI.Paper320 _root_.Sensitivity213981Formal.OAI.Paper320
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem tower_lower_bounds {L V : Type} [Fintype V]
+    (r : ℕ → MinMaxRecipe L V) (v : V) (n : ℕ) (l : L) :
+    2^n ≤  _root_.OAI.Paper320.sensitivity (towerFamily r n l) ∧
+      (Fintype.card V)^n ≤  _root_.OAI.Paper320.blockSensitivity (towerFamily r n l) := by
+  obtain ⟨w⟩ := tower_common_witnesses r v n
+  constructor
+  · have h := sensitivity_lower_of_indexed_bits (towerFamily r n l) w.positive
+      w.positiveBits (fun a => by rw [w.positive_off a l, w.positive_accepts l]; decide)
+    simpa only [card_iterProd, Fintype.card_bool] using h
+  · have h := blockSensitivity_lower_of_indexed_blocks (towerFamily r n l) w.zero
+      w.blocks w.blocks_nonempty w.blocks_disjoint
+      (fun a => by rw [w.blocks_on a l, w.zero_rejects l]; decide)
+    simpa only [card_iterProd] using h
+
+
+
+
+
+
+
+
+
+end ThreeBoundWitness
+
+
+
+
+
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/- Actual third-endpoint finite Boolean functions and their growing disjoint
+block witnesses.  The periodic upper profile is the final transfer invariant. -/
+
+
+set_option autoImplicit false
+set_option maxRecDepth 100000
+set_option maxHeartbeats 6000000
+set_option linter.unusedSectionVars false
+
+namespace ThreeBoundEndpoint22Seeds
+open _root_.OAI.Paper320 _root_.Sensitivity213981Formal.OAI.Paper320 ThreeBoundWitness ThreeBoundProfiles ThreeBoundFullProfile
+open Sensitivity5591Endpoint22
+
+
+
+
+
+variable (Adj : Fin 5591 → Fin 5591 → Prop) (loopless : ∀ w, ¬Adj w w)
+  (label : Fin 5591 → Fin 5591 → Bool)
+
+theorem finiteFamily_sensitivity (n : ℕ) (l : Fin 22) :
+    _root_.OAI.Paper320.sensitivity (finiteFamily Adj loopless label n l)=_root_.OAI.Paper320.sensitivity (family Adj loopless label n l) :=
+  sensitivity_reindex (coordinates n) (family Adj loopless label n l)
+
+theorem finiteFamily_lower (n : ℕ) (l : Fin 22) :
+    2^n ≤  _root_.OAI.Paper320.sensitivity (finiteFamily Adj loopless label n l) ∧
+      5591^n ≤  _root_.OAI.Paper320.blockSensitivity (finiteFamily Adj loopless label n l) := by
+  classical
+  constructor
+  · rw [finiteFamily_sensitivity]
+    exact (tower_lower_bounds (periodicRecipe Adj loopless label) (0 : Fin 5591) n l).1
+  · obtain ⟨w⟩ := tower_common_witnesses (periodicRecipe Adj loopless label) (0 : Fin 5591) n
+    let w' := w.reindex (coordinates n)
+    have h := blockSensitivity_lower_of_indexed_blocks
+      (reindex (coordinates n) (towerFamily (periodicRecipe Adj loopless label) n l))
+      w'.zero w'.blocks w'.blocks_nonempty w'.blocks_disjoint
+      (fun a => by rw [w'.blocks_on a l,w'.zero_rejects l]; decide)
+    simpa only [card_iterProd,Fintype.card_fin,finiteFamily,family] using h
+
+theorem finiteFamily_four_stage_lower (m : ℕ) (l : Fin 22) :
+    16^m ≤  _root_.OAI.Paper320.sensitivity (finiteFamily Adj loopless label (4*m) l) ∧
+      (5591^4)^m ≤  _root_.OAI.Paper320.blockSensitivity (finiteFamily Adj loopless label (4*m) l) := by
+  simpa only [pow_mul,show (2 : ℕ)^4=16 from rfl] using finiteFamily_lower Adj loopless label (4*m) l
+
+
+
+
+
+theorem finiteFamily_upper (W : Profile 22) (m : ℕ)
+    (hupper : Upper (family Adj loopless label (4*m)) (scale (10121928^m) W)) :
+    _root_.OAI.Paper320.sensitivity (finiteFamily Adj loopless label (4*m) 0) ≤  prefactor W*10121928^m := by
+  rw [finiteFamily_sensitivity]
+  have ha := hupper (.a 0 0) (le_refl (0 : Fin 22))
+  have hb := hupper (.b 0 0) (le_refl (0 : Fin 22))
+  have h := sensitivity_le_diagonal_max (family Adj loopless label (4*m)) 0 _ _ ha hb
+  have hh : _root_.OAI.Paper320.sensitivity (family Adj loopless label (4*m) 0) ≤ 
+      max (W (.a 0 0)) (W (.b 0 0))*10121928^m := by
+    simpa only [scale,← Nat.mul_max_mul_left,Nat.mul_comm] using h
+  exact hh.trans (Nat.mul_le_mul_right _ (le_max_right _ _))
+
+theorem seeds_of_periodic_upper (W : Profile 22)
+    (hupper : ∀ m : ℕ, Upper (family Adj loopless label (4*m)) (scale (10121928^m) W)) :
+    ∀ m : ℕ, ∃ (n : ℕ) (f : (Fin n → Bool) → Bool),
+      16^m ≤  _root_.OAI.Paper320.sensitivity f ∧ _root_.OAI.Paper320.sensitivity f ≤  prefactor W*10121928^m ∧
+        (5591^4)^m ≤  _root_.OAI.Paper320.blockSensitivity f := by
+  intro m
+  refine ⟨11182^(4*m),finiteFamily Adj loopless label (4*m) 0,?_,?_,?_⟩
+  · exact (finiteFamily_four_stage_lower Adj loopless label m 0).1
+  · exact finiteFamily_upper Adj loopless label W m (hupper m)
+  · exact (finiteFamily_four_stage_lower Adj loopless label m 0).2
+
+
+
+end ThreeBoundEndpoint22Seeds
+
+
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/- The essential-entry numerical certificate yields the same periodic family. -/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+set_option maxRecDepth 20000
+
+namespace ThreeBoundMinmaxNumeric.Endpoint22
+open ThreeBoundNumeric ThreeBoundProfiles ThreeBoundFullProfile ThreeBoundWitness
+open ThreeBoundMinmaxHybrid ThreeBoundEndpoint22Hybrid
+
+
+
+
+
+
+
+theorem seeds_of_hybrid_checks (records : List (List ℕ))
+    (hrecords : ∀ xs ∈ ThreeBoundQ3.records, xs ∈ records)
+    (seeds : Fin 4 → List (Fin 22 × Fin 22))
+    (numerical : HybridNumericalBounds records seeds) (closure : ClosureBounds) :
+    ∀ m : ℕ, ∃ (n : ℕ) (f : (Fin n → Bool) → Bool),
+      16^m ≤  _root_.OAI.Paper320.sensitivity f ∧
+      _root_.OAI.Paper320.sensitivity f ≤  ThreeBoundEndpoint22Seeds.prefactor profile0*10121928^m ∧
+      (5591^4)^m ≤  _root_.OAI.Paper320.blockSensitivity f :=
+  ThreeBoundEndpoint22Seeds.seeds_of_periodic_upper Sensitivity5591Labeling.Labeling5591.Adj
+    Sensitivity5591Labeling.Labeling5591.irreflexive ThreeBoundEndpoint22Selected.label profile0
+    (periodic_upper_hybrid records hrecords seeds numerical closure)
+
+
+
+end ThreeBoundMinmaxNumeric.Endpoint22
+
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/- Assemble the third campaign endpoint from its concrete finite certificates. -/
+
+set_option autoImplicit false
+namespace ThreeBoundEndpoint22CampaignComplete
+open _root_.OAI.Paper320 _root_.Sensitivity213981Formal.OAI.Paper320 ThreeBoundFullProfile
+open ThreeBoundMinmaxNumeric.Endpoint22 ThreeBoundEndpoint22Records
+
+
+
+theorem seeds : ∀ m : ℕ, ∃ (n : ℕ) (f : (Fin n → Bool) → Bool),
+    16^m≤_root_.OAI.Paper320.sensitivity f ∧
+      _root_.OAI.Paper320.sensitivity f≤ ThreeBoundEndpoint22Seeds.prefactor profile0*10121928^m ∧
+      (5591^4)^m≤_root_.OAI.Paper320.blockSensitivity f :=
+  seeds_of_hybrid_checks records records_complete essentialSeeds numerical_complete closure_complete
+
+
+
+end ThreeBoundEndpoint22CampaignComplete
+
+
+
+
+end
+end Sensitivity213981Formal
+
+set_option autoImplicit false
+set_option maxHeartbeats 0
+set_option maxRecDepth 200000
+theorem solution :
+∀ (m : Nat),
+  @Exists.{1} Nat fun (n : Nat) =>
+    @Exists.{1} ((Fin n → Bool) → Bool) fun (f : (Fin n → Bool) → Bool) =>
+      And
+        (@LE.le.{0} Nat instLENat
+          (@HPow.hPow.{0, 0, 0} Nat Nat Nat
+            (@instHPow.{0, 0} Nat Nat (@NPow.toPow.{0} Nat (@Monoid.toNPow.{0} Nat Nat.instMonoid)))
+            (@OfNat.ofNat.{0} Nat (nat_lit 16) (instOfNatNat (nat_lit 16))) m)
+          (@OAI.Paper320.sensitivity (Fin n) (Fin.fintype n) f))
+        (And
+          (@LE.le.{0} Nat instLENat (@OAI.Paper320.sensitivity (Fin n) (Fin.fintype n) f)
+            (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+              (Sensitivity213981Formal.ThreeBoundEndpoint22Seeds.prefactor
+                Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.profile0)
+              (@HPow.hPow.{0, 0, 0} Nat Nat Nat
+                (@instHPow.{0, 0} Nat Nat (@NPow.toPow.{0} Nat (@Monoid.toNPow.{0} Nat Nat.instMonoid)))
+                (@OfNat.ofNat.{0} Nat (nat_lit 10121928) (instOfNatNat (nat_lit 10121928))) m)))
+          (@LE.le.{0} Nat instLENat
+            (@HPow.hPow.{0, 0, 0} Nat Nat Nat
+              (@instHPow.{0, 0} Nat Nat (@NPow.toPow.{0} Nat (@Monoid.toNPow.{0} Nat Nat.instMonoid)))
+              (@HPow.hPow.{0, 0, 0} Nat Nat Nat
+                (@instHPow.{0, 0} Nat Nat (@NPow.toPow.{0} Nat (@Monoid.toNPow.{0} Nat Nat.instMonoid)))
+                (@OfNat.ofNat.{0} Nat (nat_lit 5591) (instOfNatNat (nat_lit 5591)))
+                (@OfNat.ofNat.{0} Nat (nat_lit 4) (instOfNatNat (nat_lit 4))))
+              m)
+            (@OAI.Paper320.blockSensitivity (Fin n) (Fin.fintype n) f))) := @Sensitivity213981Formal.ThreeBoundEndpoint22CampaignComplete.seeds

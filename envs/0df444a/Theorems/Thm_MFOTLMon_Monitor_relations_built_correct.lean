@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFOTLMon_Monitor_relations_built_correct
 -- name    : MFOTLMon.Monitor.relations_built_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:38:12.887025+00:00
 -- url     : https://prove2.me/theorems/732a101f-613c-47d4-95da-88b2658a2813

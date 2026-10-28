@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_denominator_clearing_determinant_dichotomy
 -- name    : OAI.PiExponent.denominator_clearing_determinant_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T08:31:29.391427+00:00
 -- url     : https://prove2.me/theorems/f47bd5c2-75c5-40be-b6b3-bcce42277bd1

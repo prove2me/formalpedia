@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P10_exampleDistance
 -- name    : QAlgorithms.Papers.Independent.Information100.P10.exampleDistance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:41:48.837209+00:00
 -- url     : https://prove2.me/theorems/885ec984-770e-45e6-9234-3833ee3aeaa6

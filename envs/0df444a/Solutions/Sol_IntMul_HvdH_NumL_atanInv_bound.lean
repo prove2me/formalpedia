@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.HvdH.NumL.atanInv_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:10:56.721+00:00
 -- url     : https://prove2.me/submissions/bbf3ba8f-8ee3-4efa-a429-96432bd8ae1c
 

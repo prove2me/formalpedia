@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Cotangent.isometry_invariance
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:55:10.813439+00:00
 -- url     : https://prove2.me/submissions/1658c3be-40ed-4399-b616-43e7b72763e7
 

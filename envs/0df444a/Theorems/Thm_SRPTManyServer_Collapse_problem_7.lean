@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SRPTManyServer_Collapse_problem_7
 -- name    : SRPTManyServer.Collapse.problem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:36.352152+00:00
 -- url     : https://prove2.me/theorems/d07ed470-ddc6-44d7-99db-ef0a2ecae1bb

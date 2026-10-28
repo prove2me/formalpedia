@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPrefLearn_MTP_lemma_9
 -- name    : RobustPrefLearn.MTP.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:10.00112+00:00
 -- url     : https://prove2.me/theorems/342b06e7-5800-4a93-b827-7114e667a4e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtADMM_StrongCvx_fixed_matrix_mapping
 -- name    : ExtADMM.StrongCvx.fixed_matrix_mapping
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:17.591204+00:00
 -- url     : https://prove2.me/theorems/a0062730-ddbb-436d-925b-f091ce43fb25

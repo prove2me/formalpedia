@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SynDigits_Ridge_population_coefficient_error
 -- name    : SynDigits.Ridge.population_coefficient_error
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:30.457547+00:00
 -- url     : https://prove2.me/theorems/fb1ea6eb-8370-468f-992a-85d36109ec79

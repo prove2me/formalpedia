@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_kineticEnergy_eq
 -- name    : EnergyMomentum.kineticEnergy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:14:19.752234+00:00
 -- url     : https://prove2.me/theorems/8c42994c-1f6a-4ad7-96a4-81b575dc1a31

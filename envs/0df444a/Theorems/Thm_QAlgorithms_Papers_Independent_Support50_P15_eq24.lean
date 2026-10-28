@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P15_eq24
 -- name    : QAlgorithms.Papers.Independent.Support50.P15.eq24
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:42:12.665147+00:00
 -- url     : https://prove2.me/theorems/4cbb7621-d9bc-4539-b41f-449d3d5ca39f

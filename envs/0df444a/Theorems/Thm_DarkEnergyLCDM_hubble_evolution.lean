@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_hubble_evolution
 -- name    : DarkEnergyLCDM.hubble_evolution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T00:59:06.745651+00:00
 -- url     : https://prove2.me/theorems/715a1b71-5fa8-4fcc-9526-e03e8de6d08b

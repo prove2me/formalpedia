@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BankIntegration_Reversal_competitor_effect_neg
 -- name    : BankIntegration.Reversal.competitor_effect_neg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:04.090001+00:00
 -- url     : https://prove2.me/theorems/eeb6a9d6-0edf-4ce2-aef0-56a2699af456

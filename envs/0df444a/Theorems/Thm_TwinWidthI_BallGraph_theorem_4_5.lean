@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_BallGraph_theorem_4_5
 -- name    : TwinWidthI.BallGraph.theorem_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:43:53.349968+00:00
 -- url     : https://prove2.me/theorems/b7d4cca5-f7c2-4d9e-b010-8a892086e3a0

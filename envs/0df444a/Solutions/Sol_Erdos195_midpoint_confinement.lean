@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.midpoint_confinement
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:05:47.185654+00:00
 -- url     : https://prove2.me/submissions/04d53766-fe1d-48d7-b926-e0e965aaed32
 

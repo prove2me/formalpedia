@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QMCProduct.HalfApprox.fact_2
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:58:47.221699+00:00
 -- url     : https://prove2.me/submissions/43df010a-09f5-40d5-8043-17670cde23cc
 

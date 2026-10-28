@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Continuous_lojasiewicz_continuous_subanalytic
 -- name    : NonsmoothLojasiewicz.Continuous.lojasiewicz_continuous_subanalytic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:15:39.178985+00:00
 -- url     : https://prove2.me/theorems/c2c9aa25-f45e-40b4-a601-98c6eeb1c8db

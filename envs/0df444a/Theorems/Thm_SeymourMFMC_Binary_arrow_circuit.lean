@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeymourMFMC_Binary_arrow_circuit
 -- name    : SeymourMFMC.Binary.arrow_circuit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T04:47:21.748897+00:00
 -- url     : https://prove2.me/theorems/87b247c2-fe36-4ee0-aa96-70c8e0484918

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.SignFlip.esgn_mul_shear_inc
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:58:01.975269+00:00
 -- url     : https://prove2.me/submissions/1517bfbf-dec8-4850-a204-ccd9302c3b6a
 

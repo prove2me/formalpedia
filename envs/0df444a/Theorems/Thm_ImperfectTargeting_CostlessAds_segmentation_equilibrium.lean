@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImperfectTargeting_CostlessAds_segmentation_equilibrium
 -- name    : ImperfectTargeting.CostlessAds.segmentation_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:37:40.016086+00:00
 -- url     : https://prove2.me/theorems/79e5dee5-7b8e-4ebd-9b75-73dc9a0dd776

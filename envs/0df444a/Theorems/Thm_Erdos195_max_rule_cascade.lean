@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_max_rule_cascade
 -- name    : Erdos195.max_rule_cascade
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:41:51.721983+00:00
 -- url     : https://prove2.me/theorems/243324cf-aa85-46a8-9d04-c166e742740a
 -- title:

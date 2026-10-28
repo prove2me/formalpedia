@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_ProductForm_independence_iff
 -- name    : MatrixAnalytic.ProductForm.independence_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:37.821561+00:00
 -- url     : https://prove2.me/theorems/20d070d2-c8f2-4c4b-b5c3-93b5fa7f97d5

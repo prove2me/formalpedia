@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_FixedReserve_regret_spa_fixed_aff_le
 -- name    : RobustSPA.FixedReserve.regret_spa_fixed_aff_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:05.075862+00:00
 -- url     : https://prove2.me/theorems/e65f4a13-863b-4afc-b537-9965e2572180

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BorgersMD2015_prop7_6_pad_flexible_dsic_faithful
 -- name    : BorgersMD2015.prop7_6_pad_flexible_dsic_faithful
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:02:31.245133+00:00
 -- url     : https://prove2.me/theorems/d5c4e6fd-90e9-43f1-9592-cdc32f5887de

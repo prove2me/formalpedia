@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P12_lemma_3_2
 -- name    : QAlgorithms.Papers.Independent.Support50.P12.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:21:31.344991+00:00
 -- url     : https://prove2.me/theorems/80e9ba3d-06bd-42bc-88dd-6ecccde20e6a

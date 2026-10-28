@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MinUncut_main
 -- name    : OAI.MinUncut.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:57.232536+00:00
 -- url     : https://prove2.me/theorems/92b3098f-c55a-4756-8f6e-61448284520a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_linf_squared_advantage_lower_bound
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.linf_squared_advantage_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:08:49.419675+00:00
 -- url     : https://prove2.me/theorems/ff929e00-944f-4c1e-8e97-d915e3e4c996

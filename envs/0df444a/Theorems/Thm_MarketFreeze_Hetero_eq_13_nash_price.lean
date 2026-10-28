@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketFreeze_Hetero_eq_13_nash_price
 -- name    : MarketFreeze.Hetero.eq_13_nash_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:44.899921+00:00
 -- url     : https://prove2.me/theorems/92915f39-c1b9-4602-993e-197a0fa5a4dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfluencerAuth_Turnover_lemma_5
 -- name    : InfluencerAuth.Turnover.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:30:59.491556+00:00
 -- url     : https://prove2.me/theorems/a110728e-e89f-4fe8-84c5-31e31b82b0d2

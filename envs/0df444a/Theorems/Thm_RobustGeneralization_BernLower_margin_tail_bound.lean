@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_BernLower_margin_tail_bound
 -- name    : RobustGeneralization.BernLower.margin_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:22:10.123359+00:00
 -- url     : https://prove2.me/theorems/6f2bc092-a48e-40e6-807b-ea491b381906

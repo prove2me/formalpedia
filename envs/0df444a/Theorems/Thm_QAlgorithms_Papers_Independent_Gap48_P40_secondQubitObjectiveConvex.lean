@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_secondQubitObjectiveConvex
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.secondQubitObjectiveConvex
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:28:21.335114+00:00
 -- url     : https://prove2.me/theorems/f7eff475-4770-40d8-b14f-c3d162eceb23

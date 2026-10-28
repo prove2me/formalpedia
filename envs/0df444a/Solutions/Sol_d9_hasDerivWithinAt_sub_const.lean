@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for d9_hasDerivWithinAt_sub_const
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T04:59:39.829716+00:00
 -- url     : https://prove2.me/submissions/52a9b6a0-ed01-44be-a152-6dbf53523fc5
 

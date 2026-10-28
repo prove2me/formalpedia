@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P31_selfFidelityIdealChannel
 -- name    : QAlgorithms.Papers.Independent.Support50.P31.selfFidelityIdealChannel
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:29:03.522619+00:00
 -- url     : https://prove2.me/theorems/0e57692a-4642-4951-a198-1d3589f719f5

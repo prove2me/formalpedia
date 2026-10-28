@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EpiControl_SinglePeak_M_monotone
 -- name    : EpiControl.SinglePeak.M_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:38.177112+00:00
 -- url     : https://prove2.me/theorems/157720ac-b359-4c14-a9ee-9531af347693

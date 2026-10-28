@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierStrategy_paymentTimes_after_firstUpcrossing_eq_shifted
 -- name    : AvramDividend.Classical.barrierStrategy_paymentTimes_after_firstUpcrossing_eq_shifted
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-21T12:10:44.676007+00:00
 -- url     : https://prove2.me/theorems/28e58b97-9220-49b7-ac07-9f9fe708e0e6

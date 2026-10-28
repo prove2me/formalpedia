@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_FixedRecourse_theorem_1
 -- name    : SPHardness.FixedRecourse.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:08:44.742979+00:00
 -- url     : https://prove2.me/theorems/7568443f-07d0-4225-ac6b-02eab9f10735

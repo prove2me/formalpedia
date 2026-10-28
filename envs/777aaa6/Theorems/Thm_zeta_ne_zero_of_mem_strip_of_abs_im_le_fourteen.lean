@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_zeta_ne_zero_of_mem_strip_of_abs_im_le_fourteen
 -- name    : zeta_ne_zero_of_mem_strip_of_abs_im_le_fourteen
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:11:04.177767+00:00
 -- url     : https://prove2.me/theorems/4d03bd60-1927-4e1b-ad4a-fb46c8524f54
 -- title:

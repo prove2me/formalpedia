@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossSell_Pricing_theorem_1
 -- name    : CrossSell.Pricing.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:29:27.128143+00:00
 -- url     : https://prove2.me/theorems/c6b12a9d-7cf4-44e3-9196-70d00f32563d

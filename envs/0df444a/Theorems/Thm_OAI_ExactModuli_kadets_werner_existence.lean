@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ExactModuli_kadets_werner_existence
 -- name    : OAI.ExactModuli.kadets_werner_existence
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:39.800228+00:00
 -- url     : https://prove2.me/theorems/6599f35c-aee7-4376-befc-b231b56695ce

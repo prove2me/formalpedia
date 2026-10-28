@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFock_qgSectorHam_essentiallySelfAdjointOn
 -- name    : BookProof.QgOuterFock.qgSectorHam_essentiallySelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T20:35:16.077156+00:00
 -- url     : https://prove2.me/theorems/484d65ab-316c-41c9-b96d-2bf8bcc29fd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompositeLB_DetSC_ratio_eps_bound
 -- name    : CompositeLB.DetSC.ratio_eps_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:25:16.83848+00:00
 -- url     : https://prove2.me/theorems/de06f945-e367-4ac9-a531-d3a382e7e77a

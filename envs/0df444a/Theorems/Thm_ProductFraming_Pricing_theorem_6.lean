@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductFraming_Pricing_theorem_6
 -- name    : ProductFraming.Pricing.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:17.906199+00:00
 -- url     : https://prove2.me/theorems/3c8da5fb-3141-437b-8fcf-c9fc1aab011d

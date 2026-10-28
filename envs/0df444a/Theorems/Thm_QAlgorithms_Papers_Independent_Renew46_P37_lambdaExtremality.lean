@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P37_lambdaExtremality
 -- name    : QAlgorithms.Papers.Independent.Renew46.P37.lambdaExtremality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T22:17:43.537564+00:00
 -- url     : https://prove2.me/theorems/2356385e-4cbc-4191-9e44-9670b8fe8432

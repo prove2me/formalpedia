@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P03_depolarizingBasisShannonOptimum
 -- name    : QAlgorithms.Papers.Independent.Gap48.P03.depolarizingBasisShannonOptimum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:57:15.602761+00:00
 -- url     : https://prove2.me/theorems/69f71dd4-cffb-4ee5-8706-359d3bede82b

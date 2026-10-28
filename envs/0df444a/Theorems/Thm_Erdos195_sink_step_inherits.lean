@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_sink_step_inherits
 -- name    : Erdos195.sink_step_inherits
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T00:34:39.029914+00:00
 -- url     : https://prove2.me/theorems/e7433b70-89fc-4e8c-a328-c0ec22b78335
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BMV2017_reducedPurity_strictAnti
 -- name    : BMV2017.reducedPurity_strictAnti
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-08T23:54:16.064628+00:00
 -- url     : https://prove2.me/theorems/bdca76d1-b5ac-47da-bebe-0f6dd22e21e4

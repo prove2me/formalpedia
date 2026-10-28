@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P02_cq_qc_image_dimension
 -- name    : QAlgorithms.Papers.Independent.Independent1.P02.cq_qc_image_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:19:12.592491+00:00
 -- url     : https://prove2.me/theorems/5ef8b4ba-cedf-496f-be7f-9e68c977d62a

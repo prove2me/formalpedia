@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LossAverseAuction_CPERevenue_corollary_1
 -- name    : LossAverseAuction.CPERevenue.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:35:31.871236+00:00
 -- url     : https://prove2.me/theorems/de7afaf6-d839-4c41-a6f2-ed72d900b86d

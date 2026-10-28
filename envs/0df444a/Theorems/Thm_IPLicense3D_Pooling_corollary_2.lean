@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IPLicense3D_Pooling_corollary_2
 -- name    : IPLicense3D.Pooling.corollary_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:25:29.30188+00:00
 -- url     : https://prove2.me/theorems/8b3c2627-611e-40de-b6d1-b1c2564b93bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Nagata_Workers_W30_exists_positive_degree_equation_of_homogeneous_cycle
 -- name    : OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:19.457594+00:00
 -- url     : https://prove2.me/theorems/4e1f30ca-71a6-4343-b765-f42b8bf48600

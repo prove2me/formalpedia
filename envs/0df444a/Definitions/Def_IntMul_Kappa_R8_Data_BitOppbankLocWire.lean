@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankLocWire
 -- name    : IntMul_Kappa_R8_Data_BitOppbankLocWire
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:39:14.493785+00:00
 -- url     : https://prove2.me/theorems/20781af6-50ba-4407-917a-e839629dc092
 -- title:

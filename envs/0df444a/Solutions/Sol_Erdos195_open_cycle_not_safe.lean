@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_cycle_not_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T22:02:28.249829+00:00
 -- url     : https://prove2.me/submissions/96ed893d-b826-474b-954c-9d5775fb910d
 

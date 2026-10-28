@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for DelayImpulse.Optimal.proof_5_3_argmax
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:30:57.013569+00:00
 -- url     : https://prove2.me/submissions/1c8b4365-9edc-49fd-acf5-915dc11e221d
 

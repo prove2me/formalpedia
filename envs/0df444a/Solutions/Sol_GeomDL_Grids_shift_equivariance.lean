@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Grids.shift_equivariance
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:33:55.681572+00:00
 -- url     : https://prove2.me/submissions/3db48051-e02d-4807-a78c-cd6d3add1b97
 

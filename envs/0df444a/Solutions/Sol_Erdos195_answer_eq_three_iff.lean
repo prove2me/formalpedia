@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.answer_eq_three_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:05.532592+00:00
 -- url     : https://prove2.me/submissions/363e143f-b467-4e6e-a923-ffa40dc9b8f0
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenRO_KS_var_le_worst_case_bound
 -- name    : DataDrivenRO.KS.var_le_worst_case_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:45:03.020063+00:00
 -- url     : https://prove2.me/theorems/2d821bb3-c77f-44da-9495-90a13766bd96

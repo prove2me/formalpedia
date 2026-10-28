@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_schmidt_projection
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.schmidt_projection
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:12:32.212566+00:00
 -- url     : https://prove2.me/theorems/a8070024-87b1-467c-9d15-366c5fdd1f57

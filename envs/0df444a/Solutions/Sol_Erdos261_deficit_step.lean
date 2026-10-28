@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.deficit_step
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:51.862586+00:00
 -- url     : https://prove2.me/submissions/a61a6e5f-dd1f-41fb-8123-335ea1b6afb6
 

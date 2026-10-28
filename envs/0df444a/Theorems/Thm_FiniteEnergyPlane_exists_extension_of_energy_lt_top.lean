@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_extension_of_energy_lt_top
 -- name    : FiniteEnergyPlane.exists_extension_of_energy_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:24:26.339358+00:00
 -- url     : https://prove2.me/theorems/3f470c34-204d-454a-bef8-d8c61f6084d2

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_safe_residue_restrict
 -- name    : Erdos195.safe_residue_restrict
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T12:41:13.164657+00:00
 -- url     : https://prove2.me/theorems/e7dc8d81-0b47-40a4-909c-50ea1ccd18ee
 -- title:

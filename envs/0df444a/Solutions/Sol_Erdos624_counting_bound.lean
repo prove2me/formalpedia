@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.counting_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:20.331766+00:00
 -- url     : https://prove2.me/submissions/4fd0956a-6b92-4d41-baa1-a9bbbd7838a0
 

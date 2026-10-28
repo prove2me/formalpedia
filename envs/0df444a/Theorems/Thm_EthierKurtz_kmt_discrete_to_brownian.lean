@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_kmt_discrete_to_brownian
 -- name    : EthierKurtz.kmt_discrete_to_brownian
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-29T20:26:32.518983+00:00
 -- url     : https://prove2.me/theorems/eac1b43d-2792-41f1-86a3-d79e81d358d3

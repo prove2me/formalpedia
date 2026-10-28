@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPurchase_Hardness_theta_transformation
 -- name    : MultiPurchase.Hardness.theta_transformation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:21:55.196787+00:00
 -- url     : https://prove2.me/theorems/f458fc24-5525-42b8-82b4-dd1035d6875e

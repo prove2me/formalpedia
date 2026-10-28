@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassDRCCP_Improved_theorem_3_exact_reformulation
 -- name    : WassDRCCP.Improved.theorem_3_exact_reformulation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:13:38.408624+00:00
 -- url     : https://prove2.me/theorems/9ebf553d-53e7-4ff6-9123-f8a20fc84c95

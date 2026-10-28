@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TikhonovHDD_Ergodic_tikhonov_norm_le
 -- name    : TikhonovHDD.Ergodic.tikhonov_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:22.968672+00:00
 -- url     : https://prove2.me/theorems/1134f188-b612-4081-aa91-5ceaac532bab

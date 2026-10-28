@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_MatrixArithmetic_selectedMinor_row_denominator_bound
 -- name    : OAI.PiExponent.MatrixArithmetic.selectedMinor_row_denominator_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:38:41.769435+00:00
 -- url     : https://prove2.me/theorems/34d186d7-479e-4ce4-ac83-4b5c9205a2cc

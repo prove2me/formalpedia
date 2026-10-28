@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrictionInvest_Benefit_loan_pricing
 -- name    : FrictionInvest.Benefit.loan_pricing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:33:56.711317+00:00
 -- url     : https://prove2.me/theorems/dc8c387e-41ce-4b7d-8e7b-a28aa987fc57

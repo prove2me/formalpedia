@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KieferWolfowitz_Convergence_uplus_lt
 -- name    : KieferWolfowitz.Convergence.uplus_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:48:18.146245+00:00
 -- url     : https://prove2.me/theorems/580ed974-0448-4890-8c2c-b6daac2cbcad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOpacity_Disclosure_eq_50_53
 -- name    : CompOpacity.Disclosure.eq_50_53
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:51:42.912713+00:00
 -- url     : https://prove2.me/theorems/ec3aec97-7e3b-482d-86f0-6ac9b03a7fc1

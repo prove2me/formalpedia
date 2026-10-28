@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFOTLMon_Monitor_theorem_3_9
 -- name    : MFOTLMon.Monitor.theorem_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:38:07.64808+00:00
 -- url     : https://prove2.me/theorems/fac81f2e-d04b-4d89-9be0-b629ec18751d

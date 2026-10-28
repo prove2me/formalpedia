@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_prop3_mod4_two_rigid
 -- name    : Erdos195.prop3_mod4_two_rigid
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T03:43:08.192791+00:00
 -- url     : https://prove2.me/theorems/f31b568f-bb1b-4cb9-9002-529c5b337950
 -- title:

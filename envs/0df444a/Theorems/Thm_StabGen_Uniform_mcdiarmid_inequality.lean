@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Uniform_mcdiarmid_inequality
 -- name    : StabGen.Uniform.mcdiarmid_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T16:47:32.44798+00:00
 -- url     : https://prove2.me/theorems/e9f8d74d-ea17-45b1-90c9-c625bfe68a21

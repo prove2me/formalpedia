@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_pair_common_hole_false_k3
 -- name    : Erdos624.pair_common_hole_false_k3
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:32.699803+00:00
 -- url     : https://prove2.me/theorems/badafefb-3a10-4a77-84d7-62cc29d67404
 -- title:

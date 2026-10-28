@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffNeighbors_Bias_dn_unbiased_first_order
 -- name    : DiffNeighbors.Bias.dn_unbiased_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:41:25.531267+00:00
 -- url     : https://prove2.me/theorems/2c977e2d-0ab0-45a1-bd8d-0e804d23c3f6

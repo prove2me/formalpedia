@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_General_convex_optimality_eq_20
 -- name    : ChanceStateCtrl.General.convex_optimality_eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:40.801173+00:00
 -- url     : https://prove2.me/theorems/09a9991a-4f87-40e0-8aa1-11b06248e110

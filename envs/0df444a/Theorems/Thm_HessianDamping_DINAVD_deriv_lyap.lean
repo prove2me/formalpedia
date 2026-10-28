@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_DINAVD_deriv_lyap
 -- name    : HessianDamping.DINAVD.deriv_lyap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:06:47.366059+00:00
 -- url     : https://prove2.me/theorems/d402ebcd-baf5-4cab-8ac0-21828b8d4ef8

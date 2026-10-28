@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_BernLower_theorem31_linear_robust_error_lower_bound
 -- name    : RobustGeneralization.BernLower.theorem31_linear_robust_error_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:22:42.17615+00:00
 -- url     : https://prove2.me/theorems/f04ab76c-280e-41dd-b53e-ff640347b402

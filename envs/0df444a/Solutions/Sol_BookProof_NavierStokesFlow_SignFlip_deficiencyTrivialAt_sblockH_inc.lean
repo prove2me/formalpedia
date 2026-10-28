@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.SignFlip.deficiencyTrivialAt_sblockH_inc
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:58:15.96924+00:00
 -- url     : https://prove2.me/submissions/e97be0fb-726b-4793-bcc7-9d4674fba13d
 

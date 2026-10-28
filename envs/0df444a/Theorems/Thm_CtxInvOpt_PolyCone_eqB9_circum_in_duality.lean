@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_PolyCone_eqB9_circum_in_duality
 -- name    : CtxInvOpt.PolyCone.eqB9_circum_in_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:57.305662+00:00
 -- url     : https://prove2.me/theorems/b5882baf-5c5a-4156-9e04-73e676d0b26a

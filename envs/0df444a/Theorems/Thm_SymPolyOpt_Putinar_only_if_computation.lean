@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_Putinar_only_if_computation
 -- name    : SymPolyOpt.Putinar.only_if_computation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:33.733322+00:00
 -- url     : https://prove2.me/theorems/33b8dc2e-7762-485a-8f4a-40de0ca5a72c

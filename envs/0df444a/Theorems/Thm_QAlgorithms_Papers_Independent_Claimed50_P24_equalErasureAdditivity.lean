@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_equalErasureAdditivity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.equalErasureAdditivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:54:10.148949+00:00
 -- url     : https://prove2.me/theorems/c590b0b7-7268-4441-880b-9145c473e55f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_seeliger_poisson_no_bounded_potential
 -- name    : CosmoConstCentury.seeliger_poisson_no_bounded_potential
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-05T00:15:24.936985+00:00
 -- url     : https://prove2.me/theorems/947f3099-16e5-4a06-80db-4f0378b815ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBBV_RandomPermutation_piChain_uniform
 -- name    : BBBV.RandomPermutation.piChain_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:07:16.657987+00:00
 -- url     : https://prove2.me/theorems/9d0af2e3-1376-44fc-9c72-121bac18f543

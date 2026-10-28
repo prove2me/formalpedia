@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_pstar_tree_safe
 -- name    : Erdos195.pstar_tree_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:41:53.328989+00:00
 -- url     : https://prove2.me/theorems/70b0d941-c790-4166-9717-bf91e4149703
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffNeighbors_Bias_theorem_1
 -- name    : DiffNeighbors.Bias.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:41:21.523756+00:00
 -- url     : https://prove2.me/theorems/29beea90-a253-4b04-a5c7-f5b87db4ab1b

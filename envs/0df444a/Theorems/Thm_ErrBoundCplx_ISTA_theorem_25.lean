@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErrBoundCplx_ISTA_theorem_25
 -- name    : ErrBoundCplx.ISTA.theorem_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:20.8524+00:00
 -- url     : https://prove2.me/theorems/ab239ae9-2b7c-48e1-8b5e-67f29498134b

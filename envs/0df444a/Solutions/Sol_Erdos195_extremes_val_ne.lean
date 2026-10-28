@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.extremes_val_ne
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T02:07:34.299685+00:00
 -- url     : https://prove2.me/submissions/cd53deb0-f1ce-4ffb-9ea2-8aa1b4223eed
 

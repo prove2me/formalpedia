@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.SignFlip.essentiallySelfAdjointOn_of_intertwine_inc
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:58:03.743992+00:00
 -- url     : https://prove2.me/submissions/cd185c4b-9710-4d39-a012-82ff83e09dfb
 

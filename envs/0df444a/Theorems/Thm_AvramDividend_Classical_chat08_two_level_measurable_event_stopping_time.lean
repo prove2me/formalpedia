@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat08_two_level_measurable_event_stopping_time
 -- name    : AvramDividend.Classical.chat08_two_level_measurable_event_stopping_time
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:39:33.100998+00:00
 -- url     : https://prove2.me/theorems/d96da16f-bbb2-4b2f-8a14-1cab250a3382

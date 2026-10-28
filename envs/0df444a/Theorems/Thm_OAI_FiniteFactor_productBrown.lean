@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FiniteFactor_productBrown
 -- name    : OAI.FiniteFactor.productBrown
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:40.934444+00:00
 -- url     : https://prove2.me/theorems/29d60677-2d88-46f2-9d2d-8660a91048ab

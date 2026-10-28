@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyproofMinimax_Tree_mc_parent_vertex_eq
 -- name    : StrategyproofMinimax.Tree.mc_parent_vertex_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T22:25:24.016115+00:00
 -- url     : https://prove2.me/theorems/81fbc150-fe3d-46c4-9fb4-c3aca6967b1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_SingDual_proposition_2_5
 -- name    : CondPortOT.SingDual.proposition_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:47.083998+00:00
 -- url     : https://prove2.me/theorems/9f9cadfc-09dd-4ba3-9f86-727e93e23578

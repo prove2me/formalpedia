@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Duality_lemma_4_15
 -- name    : PathsTreesFlowers.Duality.lemma_4_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:37:00.726181+00:00
 -- url     : https://prove2.me/theorems/2323991a-f2cd-4633-a9ce-56862a1d58ba

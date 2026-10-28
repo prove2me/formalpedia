@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_matter_density_scaling
 -- name    : DarkEnergyLCDM.matter_density_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:02:24.007201+00:00
 -- url     : https://prove2.me/theorems/59d83cb0-0c19-4a96-a023-c94b842228a8

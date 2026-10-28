@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SmoothObstruction_main
 -- name    : OAI.SmoothObstruction.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:23.086042+00:00
 -- url     : https://prove2.me/theorems/3ab095aa-6c28-41e2-bd08-1bf7bf87be9e

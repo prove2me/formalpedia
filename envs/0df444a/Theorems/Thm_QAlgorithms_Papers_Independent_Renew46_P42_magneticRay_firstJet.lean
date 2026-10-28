@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P42_magneticRay_firstJet
 -- name    : QAlgorithms.Papers.Independent.Renew46.P42.magneticRay_firstJet
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:22:48.5308+00:00
 -- url     : https://prove2.me/theorems/a3eaa08b-ca99-4af1-bb4b-4dac307e3666

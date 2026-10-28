@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_CPI_future_dist_ge_start
 -- name    : SampleComplexityRL.CPI.future_dist_ge_start
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:12:52.830773+00:00
 -- url     : https://prove2.me/theorems/626d57f6-93d3-462a-a4cf-9d40f1ff8f8f

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_one_structured_map
 -- name    : Erdos624.one_structured_map
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:39.733236+00:00
 -- url     : https://prove2.me/theorems/aed1940c-ae79-4118-9cc9-2183b0689327
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ADH2015_o12_logical
 -- name    : ADH2015.o12_logical
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-09T09:01:07.086127+00:00
 -- url     : https://prove2.me/theorems/7fddf7c7-eb2a-4d6e-af04-162a5aa4657f

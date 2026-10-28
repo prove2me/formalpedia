@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_PostedSym_case_1
 -- name    : BudgetClock.PostedSym.case_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:26.689928+00:00
 -- url     : https://prove2.me/theorems/5378bb68-ca22-4453-a279-8d68d56fed4f

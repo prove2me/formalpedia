@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Intersectionality_Reductive_threshold_unique
 -- name    : Intersectionality.Reductive.threshold_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:30:36.231185+00:00
 -- url     : https://prove2.me/theorems/00c565c4-a6e5-4ef3-bf84-5e0b445d028e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DirectedFeedback_main
 -- name    : OAI.DirectedFeedback.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:34.930046+00:00
 -- url     : https://prove2.me/theorems/5b8ecade-a993-4f67-905e-e235dcafd07c

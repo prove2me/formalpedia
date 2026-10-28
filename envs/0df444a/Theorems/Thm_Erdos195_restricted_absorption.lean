@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_restricted_absorption
 -- name    : Erdos195.restricted_absorption
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T15:32:36.675693+00:00
 -- url     : https://prove2.me/theorems/2b86fda5-b2a4-45f4-9438-d18d8a825f1c
 -- title:

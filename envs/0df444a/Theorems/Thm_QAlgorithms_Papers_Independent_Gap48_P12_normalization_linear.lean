@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P12_normalization_linear
 -- name    : QAlgorithms.Papers.Independent.Gap48.P12.normalization_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:37:20.681875+00:00
 -- url     : https://prove2.me/theorems/467a3aff-9166-4a6b-87f7-67caaf3d5844

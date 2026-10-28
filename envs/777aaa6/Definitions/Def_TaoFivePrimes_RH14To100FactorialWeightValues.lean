@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100FactorialWeightValues
 -- name    : TaoFivePrimes_RH14To100FactorialWeightValues
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:45:54.131101+00:00
 -- url     : https://prove2.me/theorems/b8125801-7d45-4a7e-8d1e-0f9da1534715
 -- title:

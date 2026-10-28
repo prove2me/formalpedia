@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldCheapTalk_Truthful_ic_high_iff
 -- name    : YieldCheapTalk.Truthful.ic_high_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:30:43.31423+00:00
 -- url     : https://prove2.me/theorems/63e54781-ab98-4dea-9b6e-aea22ee7c10c

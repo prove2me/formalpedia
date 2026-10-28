@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.riem_tt_form_of_curvConds
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:18:09.327742+00:00
 -- url     : https://prove2.me/submissions/c891c2bd-3a14-416a-af0e-f9b624d46279
 

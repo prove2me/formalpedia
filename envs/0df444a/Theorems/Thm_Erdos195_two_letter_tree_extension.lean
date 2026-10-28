@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_two_letter_tree_extension
 -- name    : Erdos195.two_letter_tree_extension
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:13:41.862462+00:00
 -- url     : https://prove2.me/theorems/49c30433-04fa-47de-819b-c1518e7fc00c
 -- title:

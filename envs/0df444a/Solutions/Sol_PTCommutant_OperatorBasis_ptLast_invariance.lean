@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PTCommutant.OperatorBasis.ptLast_invariance
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:23:46.50266+00:00
 -- url     : https://prove2.me/submissions/a31fd97c-fcb5-4cb1-a286-4b6f866f7f7a
 

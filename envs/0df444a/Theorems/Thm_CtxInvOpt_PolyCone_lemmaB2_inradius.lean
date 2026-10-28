@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_PolyCone_lemmaB2_inradius
 -- name    : CtxInvOpt.PolyCone.lemmaB2_inradius
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:57.285814+00:00
 -- url     : https://prove2.me/theorems/18f8cdce-c98e-41a9-a36d-a7965f2ebcb7

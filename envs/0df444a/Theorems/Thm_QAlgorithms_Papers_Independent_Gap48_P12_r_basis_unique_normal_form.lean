@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P12_r_basis_unique_normal_form
 -- name    : QAlgorithms.Papers.Independent.Gap48.P12.r_basis_unique_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:33:42.184615+00:00
 -- url     : https://prove2.me/theorems/f0f2abd1-9b5b-4b58-b7de-2cbe756040f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_energy_eq_sqrt_momentum
 -- name    : EnergyMomentum.energy_eq_sqrt_momentum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:11:41.778197+00:00
 -- url     : https://prove2.me/theorems/2a7d5f57-f795-47a7-8212-b7404a0b07f7

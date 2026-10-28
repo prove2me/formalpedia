@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_EFG_theorem4_efg_consistent
 -- name    : GreedyRS.EFG.theorem4_efg_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:42.461532+00:00
 -- url     : https://prove2.me/theorems/35e225ff-f8e6-4271-90c8-9c5e7923f613

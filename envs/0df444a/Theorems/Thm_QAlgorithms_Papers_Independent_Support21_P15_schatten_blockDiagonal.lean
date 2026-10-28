@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P15_schatten_blockDiagonal
 -- name    : QAlgorithms.Papers.Independent.Support21.P15.schatten_blockDiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:34:27.815773+00:00
 -- url     : https://prove2.me/theorems/46a414f7-55a7-4bd7-b5bc-7b03ac51f080

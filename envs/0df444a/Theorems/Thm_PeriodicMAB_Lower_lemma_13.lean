@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicMAB_Lower_lemma_13
 -- name    : PeriodicMAB.Lower.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:17.015186+00:00
 -- url     : https://prove2.me/theorems/3edc687c-07b9-4ee7-8a2a-20db7b517c9d

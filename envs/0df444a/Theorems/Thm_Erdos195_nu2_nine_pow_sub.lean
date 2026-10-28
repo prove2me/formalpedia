@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_nu2_nine_pow_sub
 -- name    : Erdos195.nu2_nine_pow_sub
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T09:56:51.762322+00:00
 -- url     : https://prove2.me/theorems/bed9463c-9308-4687-89fa-fdaac4083d05
 -- title:

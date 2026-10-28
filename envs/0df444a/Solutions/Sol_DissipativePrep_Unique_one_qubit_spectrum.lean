@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for DissipativePrep.Unique.one_qubit_spectrum
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:55:05.628144+00:00
 -- url     : https://prove2.me/submissions/811005a6-feec-4dce-ad64-be4f2b508b67
 

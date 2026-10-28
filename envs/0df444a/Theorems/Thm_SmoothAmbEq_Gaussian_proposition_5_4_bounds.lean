@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothAmbEq_Gaussian_proposition_5_4_bounds
 -- name    : SmoothAmbEq.Gaussian.proposition_5_4_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:21.916717+00:00
 -- url     : https://prove2.me/theorems/45a1e684-6415-4e88-8cc2-d7e5d1f8582d

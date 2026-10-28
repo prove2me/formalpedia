@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighOrderWalks_TwoSided_corollary_3_7
 -- name    : HighOrderWalks.TwoSided.corollary_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:38:43.36221+00:00
 -- url     : https://prove2.me/theorems/ffcdcfac-3ecf-46f5-898a-00fadca56654

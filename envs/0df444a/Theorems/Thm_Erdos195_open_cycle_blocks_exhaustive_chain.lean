@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_cycle_blocks_exhaustive_chain
 -- name    : Erdos195.open_cycle_blocks_exhaustive_chain
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:37:50.767806+00:00
 -- url     : https://prove2.me/theorems/72b44c55-85ea-4bcb-bf6a-0b4115e3c3d0
 -- title:

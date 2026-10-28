@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_analyticAggregate
 -- name    : OAI.PiExponent.LiteralAnalytic.analyticAggregate
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-11T13:36:59.104454+00:00
 -- url     : https://prove2.me/theorems/c873700d-6b99-4966-899b-2afef157b779

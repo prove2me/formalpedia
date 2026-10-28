@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CurrentProjection_actualRowSourceRefinement
 -- name    : OAI.CurrentProjection.actualRowSourceRefinement
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:32.569989+00:00
 -- url     : https://prove2.me/theorems/c2ffe9ae-52ae-4d4a-b37c-b6b5256feaad

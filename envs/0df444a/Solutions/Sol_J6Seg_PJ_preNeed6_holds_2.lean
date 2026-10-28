@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for J6Seg.PJ.preNeed6_holds
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:33:53.0853+00:00
 -- url     : https://prove2.me/submissions/7a7b212f-83a7-48ee-a267-1a92056fe47b
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_DLA_phase_sums
 -- name    : DynamicOnlineLP.DLA.phase_sums
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:50:10.527367+00:00
 -- url     : https://prove2.me/theorems/ff1869e6-b6af-4657-89a4-76a7918e05b5

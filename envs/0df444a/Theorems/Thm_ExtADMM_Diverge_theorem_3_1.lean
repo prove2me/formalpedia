@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtADMM_Diverge_theorem_3_1
 -- name    : ExtADMM.Diverge.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:06:15.529452+00:00
 -- url     : https://prove2.me/theorems/1b7448b9-6015-4ad6-9dc8-cb56bdba80d2

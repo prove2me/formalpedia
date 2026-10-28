@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Diffusion_reversed_representation
 -- name    : ScheduledQueue.Diffusion.reversed_representation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:56.386157+00:00
 -- url     : https://prove2.me/theorems/7cea7ef9-9df7-4d6c-acb7-d14dbe2556a1

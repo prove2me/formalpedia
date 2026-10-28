@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PrefSemimetric.TopDiff.dmu_axiom3
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:08:13.212751+00:00
 -- url     : https://prove2.me/submissions/7097af9b-b263-483b-8d83-303609a78fa8
 

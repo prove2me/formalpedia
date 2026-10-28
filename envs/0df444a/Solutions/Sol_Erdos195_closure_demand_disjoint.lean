@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.closure_demand_disjoint
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:04.425559+00:00
 -- url     : https://prove2.me/submissions/674c13f9-afeb-4142-b094-8188b6674ef5
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_relative_entropy_joint_concavity
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.relative_entropy_joint_concavity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:38:59.644707+00:00
 -- url     : https://prove2.me/theorems/3393fcfa-8d89-4e95-b84a-459b49b69e7d

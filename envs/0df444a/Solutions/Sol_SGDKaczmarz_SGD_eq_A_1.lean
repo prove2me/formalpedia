@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SGDKaczmarz.SGD.eq_A_1
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:27:25.64106+00:00
 -- url     : https://prove2.me/submissions/dee7c84b-5603-4519-adbb-db5b4f9bb5fd
 

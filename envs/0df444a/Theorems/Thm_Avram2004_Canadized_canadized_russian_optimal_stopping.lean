@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Avram2004_Canadized_canadized_russian_optimal_stopping
 -- name    : Avram2004.Canadized.canadized_russian_optimal_stopping
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:57:42.585986+00:00
 -- url     : https://prove2.me/theorems/19ac3c9e-d852-4f3e-9cd6-75a70ece0748

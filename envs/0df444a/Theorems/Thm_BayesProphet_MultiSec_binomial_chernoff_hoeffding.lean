@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesProphet_MultiSec_binomial_chernoff_hoeffding
 -- name    : BayesProphet.MultiSec.binomial_chernoff_hoeffding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:45:07.555657+00:00
 -- url     : https://prove2.me/theorems/7af15251-dd6a-4fbb-930b-81937dd13c16

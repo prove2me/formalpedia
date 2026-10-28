@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierAudit_Joint_eq3_cost_shares
 -- name    : SupplierAudit.Joint.eq3_cost_shares
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:31:37.623349+00:00
 -- url     : https://prove2.me/theorems/674fe1f4-5b53-48f7-971e-116e9e4128fa

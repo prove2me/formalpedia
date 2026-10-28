@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_geometrization_curvConds
 -- name    : NewtonCartan.geometrization_curvConds
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:37:46.131734+00:00
 -- url     : https://prove2.me/theorems/e010e8f6-a642-4be3-96ee-bb34aa5a426b
 -- title:

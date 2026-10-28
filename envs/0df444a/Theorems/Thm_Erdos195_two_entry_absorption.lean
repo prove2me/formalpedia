@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_two_entry_absorption
 -- name    : Erdos195.two_entry_absorption
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:49:53.426706+00:00
 -- url     : https://prove2.me/theorems/a319b1bc-f860-4855-a1ac-866365cc7162
 -- title:

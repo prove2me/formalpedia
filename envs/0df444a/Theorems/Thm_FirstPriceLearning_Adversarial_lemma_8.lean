@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_Adversarial_lemma_8
 -- name    : FirstPriceLearning.Adversarial.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:34:09.956304+00:00
 -- url     : https://prove2.me/theorems/cc300d22-a5c0-4496-8967-a935bd8a5ba2

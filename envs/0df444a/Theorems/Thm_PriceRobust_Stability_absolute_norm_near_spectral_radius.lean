@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceRobust_Stability_absolute_norm_near_spectral_radius
 -- name    : PriceRobust.Stability.absolute_norm_near_spectral_radius
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:17:28.996414+00:00
 -- url     : https://prove2.me/theorems/35f05bb5-7b0c-4208-b36e-a7eb39b09a72

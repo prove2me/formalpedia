@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P69_covarianceAndIntersections
 -- name    : QAlgorithms.Papers.Independent.Information100.P69.covarianceAndIntersections
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:05:31.722358+00:00
 -- url     : https://prove2.me/theorems/ad496e2a-030b-4846-baf5-3555faddb022

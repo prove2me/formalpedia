@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RogersSatchell_Correction_overshoot_max_moments
 -- name    : RogersSatchell.Correction.overshoot_max_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:45:57.273534+00:00
 -- url     : https://prove2.me/theorems/7111416b-17e0-461a-ae88-9d2cea5314db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Zarankiewicz_mainTarget_proof
 -- name    : OAI.Zarankiewicz.mainTarget_proof
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:40.273679+00:00
 -- url     : https://prove2.me/theorems/b46b1ce9-5235-440b-af6a-bc745e809524

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_AllDist_SPA_isDSIC
 -- name    : RobustSPA.AllDist.SPA_isDSIC
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:23.746929+00:00
 -- url     : https://prove2.me/theorems/7f9d6bf8-6226-46d2-a211-b27ec4281be0

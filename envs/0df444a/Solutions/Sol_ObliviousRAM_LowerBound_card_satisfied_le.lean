@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ObliviousRAM.LowerBound.card_satisfied_le
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:49:10.911388+00:00
 -- url     : https://prove2.me/submissions/db339ad3-685b-4e16-8a58-f6f08f42acb6
 

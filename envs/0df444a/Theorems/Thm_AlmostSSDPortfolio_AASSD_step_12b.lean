@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlmostSSDPortfolio_AASSD_step_12b
 -- name    : AlmostSSDPortfolio.AASSD.step_12b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:30:54.19269+00:00
 -- url     : https://prove2.me/theorems/c659c363-9696-4da6-ba8b-8196ef688ab9

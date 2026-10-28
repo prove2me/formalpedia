@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_in_order_ap_of_cofinite
 -- name    : Erdos195.in_order_ap_of_cofinite
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:22.676786+00:00
 -- url     : https://prove2.me/theorems/d150976b-91f2-487f-965e-69aca82bd942
 -- title:

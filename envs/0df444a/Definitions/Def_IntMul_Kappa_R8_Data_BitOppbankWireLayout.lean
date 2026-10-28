@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankWireLayout
 -- name    : IntMul_Kappa_R8_Data_BitOppbankWireLayout
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:31:29.618872+00:00
 -- url     : https://prove2.me/theorems/f9c686c7-621c-4b73-a377-1413237cf8a3
 -- title:

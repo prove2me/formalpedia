@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BetaCoskew_ThreeMoment_cov_pricing
 -- name    : BetaCoskew.ThreeMoment.cov_pricing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:53.073984+00:00
 -- url     : https://prove2.me/theorems/6a5a1e46-4510-4fb6-85a9-c0dcfeb092a2

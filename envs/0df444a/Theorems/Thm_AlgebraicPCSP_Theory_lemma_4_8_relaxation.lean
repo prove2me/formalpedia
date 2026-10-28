@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_Theory_lemma_4_8_relaxation
 -- name    : AlgebraicPCSP.Theory.lemma_4_8_relaxation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:04.058+00:00
 -- url     : https://prove2.me/theorems/5842bcf0-77f8-4b68-a2d4-b005e1ff644f

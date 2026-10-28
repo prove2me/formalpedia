@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_input_iterate_upper_bound_iteratelocal
 -- name    : input_iterate_upper_bound_iteratelocal
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-29T06:39:58.395709+00:00
 -- url     : https://prove2.me/theorems/54ffed78-76f7-4c88-855a-b232a547d2f0

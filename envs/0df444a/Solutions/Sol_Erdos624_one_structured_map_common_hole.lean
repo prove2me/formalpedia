@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.one_structured_map_common_hole
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:42.98537+00:00
 -- url     : https://prove2.me/submissions/7ecd5cb9-24e6-4557-9cf9-2f29b9d240c0
 

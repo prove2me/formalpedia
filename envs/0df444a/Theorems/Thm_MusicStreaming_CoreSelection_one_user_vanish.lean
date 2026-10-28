@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_CoreSelection_one_user_vanish
 -- name    : MusicStreaming.CoreSelection.one_user_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:34.003223+00:00
 -- url     : https://prove2.me/theorems/05147156-cb92-48f6-bcbf-5c20c7ef1534

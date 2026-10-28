@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPricing_Resp_proposition_6
 -- name    : SLPricing.Resp.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:08:51.031667+00:00
 -- url     : https://prove2.me/theorems/776519cf-96ca-47db-8108-144b5eabeb66

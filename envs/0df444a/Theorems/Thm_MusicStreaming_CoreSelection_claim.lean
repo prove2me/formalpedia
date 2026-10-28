@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_CoreSelection_claim
 -- name    : MusicStreaming.CoreSelection.claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:42.411153+00:00
 -- url     : https://prove2.me/theorems/cb5b2fa1-1f50-41d3-9f24-4cc3cb11d128

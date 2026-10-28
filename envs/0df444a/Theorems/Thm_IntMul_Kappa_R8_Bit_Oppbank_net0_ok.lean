@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_net0_ok
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.net0_ok
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:35:12.113798+00:00
 -- url     : https://prove2.me/theorems/17856c66-776d-4451-9a2f-a3fd5c7c778f
 -- title:

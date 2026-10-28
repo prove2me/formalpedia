@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSPConvex_CMM_S_posSemidef
 -- name    : BSPConvex.CMM.S_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:40.786786+00:00
 -- url     : https://prove2.me/theorems/4b3ef72a-18a6-4e12-8b96-ddae0a98f7b7

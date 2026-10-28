@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_IncumbentSufficient_sq_pricing_error_split
 -- name    : KeskinZeevi.IncumbentSufficient.sq_pricing_error_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:45:43.150171+00:00
 -- url     : https://prove2.me/theorems/90a61b50-f4e2-4d84-8bf3-a14b9f7f862b

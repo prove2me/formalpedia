@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_indices_gt
 -- name    : Erdos261.indices_gt
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:46:59.501296+00:00
 -- url     : https://prove2.me/theorems/5feaab64-3204-4659-af42-5700ffc6f9ab
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_cptp_monotonicity
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.cptp_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:43:47.485859+00:00
 -- url     : https://prove2.me/theorems/927f5e77-8cb5-4544-9d7b-9f7c8ca28ca4

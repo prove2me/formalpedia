@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HackCosmologicalAQFT_energy_density_scaling
 -- name    : HackCosmologicalAQFT.energy_density_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:28.248406+00:00
 -- url     : https://prove2.me/theorems/02672749-1bed-4bb9-807a-cf2f938023be

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Erdos261_defs
 -- name    : Erdos261_defs
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:45:30.04842+00:00
 -- url     : https://prove2.me/theorems/274fa770-2997-42e3-bc9f-a2857f945a7d
 -- title:

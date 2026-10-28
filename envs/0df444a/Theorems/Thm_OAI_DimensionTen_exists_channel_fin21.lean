@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DimensionTen_exists_channel_fin21
 -- name    : OAI.DimensionTen.exists_channel_fin21
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:34.396288+00:00
 -- url     : https://prove2.me/theorems/60d86307-c436-4820-942f-97755fed2ca9

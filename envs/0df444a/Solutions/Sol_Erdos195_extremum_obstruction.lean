@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.extremum_obstruction
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:15.597834+00:00
 -- url     : https://prove2.me/submissions/00753ae7-ca44-4c4b-8be2-48382591e9be
 

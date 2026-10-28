@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SquareDifference_power_saving
 -- name    : OAI.SquareDifference.power_saving
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:25.626227+00:00
 -- url     : https://prove2.me/theorems/02253db0-41e6-47f5-9417-0b153f4fba45

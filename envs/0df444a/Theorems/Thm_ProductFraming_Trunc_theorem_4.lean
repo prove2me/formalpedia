@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductFraming_Trunc_theorem_4
 -- name    : ProductFraming.Trunc.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:16:23.0145+00:00
 -- url     : https://prove2.me/theorems/22b2b5e3-0a24-4f1c-a445-64dffd5dc8d8

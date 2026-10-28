@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.card_le_of_distinct_mod
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:02.686012+00:00
 -- url     : https://prove2.me/submissions/ecbde1d2-c7cd-4c76-af00-caafe1ccc083
 

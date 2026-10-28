@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Univariate_ks_le_kuiper
 -- name    : RobustSAA.Univariate.ks_le_kuiper
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:17:05.372872+00:00
 -- url     : https://prove2.me/theorems/88ceadb6-735b-43f6-ba7d-753522ff0134

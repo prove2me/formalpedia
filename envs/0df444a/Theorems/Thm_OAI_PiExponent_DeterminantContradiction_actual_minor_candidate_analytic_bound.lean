@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actual_minor_candidate_analytic_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.actual_minor_candidate_analytic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T17:54:30.933861+00:00
 -- url     : https://prove2.me/theorems/ecc58825-bcde-47b3-b021-cca77ad0d27b

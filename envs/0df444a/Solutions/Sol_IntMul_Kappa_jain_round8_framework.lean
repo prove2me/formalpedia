@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.jain_round8_framework
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:08:25.885828+00:00
 -- url     : https://prove2.me/submissions/60d22310-c0a3-400f-904e-d49eba36ebfd
 -- note    : a sketch -- it imports a theorem that is still Open,

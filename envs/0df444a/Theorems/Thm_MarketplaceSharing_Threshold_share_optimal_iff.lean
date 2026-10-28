@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceSharing_Threshold_share_optimal_iff
 -- name    : MarketplaceSharing.Threshold.share_optimal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:32:18.413229+00:00
 -- url     : https://prove2.me/theorems/c387991f-99c2-40c3-b7c7-802473264e77

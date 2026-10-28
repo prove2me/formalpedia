@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_shield_suffix_iff
 -- name    : Erdos195.shield_suffix_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T07:47:12.321509+00:00
 -- url     : https://prove2.me/theorems/eaf4bc62-42b1-4572-9558-5f7afbc89fb3
 -- title:

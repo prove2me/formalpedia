@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_ARC_slow_arc
 -- name    : SlowConvergence.ARC.slow_arc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:05.116574+00:00
 -- url     : https://prove2.me/theorems/1d873180-f7c1-47d1-b494-30e911d7f755

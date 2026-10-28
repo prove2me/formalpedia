@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_geom_braid_artin_action_core_v1
 -- name    : TarchaBraids.geom_braid_artin_action_core_v1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-23T22:00:27.634906+00:00
 -- url     : https://prove2.me/theorems/c9f9390f-92b3-4bf7-8269-25382c8e6027

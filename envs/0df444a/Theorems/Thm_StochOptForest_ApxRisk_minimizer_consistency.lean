@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochOptForest_ApxRisk_minimizer_consistency
 -- name    : StochOptForest.ApxRisk.minimizer_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:29:00.06316+00:00
 -- url     : https://prove2.me/theorems/76454c6f-a23f-48fa-935a-25c9818fdedd

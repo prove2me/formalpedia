@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClausiusDuhem_dissipation_inequality
 -- name    : ClausiusDuhem.dissipation_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:37:33.965634+00:00
 -- url     : https://prove2.me/theorems/87a62aaa-5bfb-4441-8643-db7e0b2b5123

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSVTPhaseEst_BitSearch_eq_64_65
 -- name    : QSVTPhaseEst.BitSearch.eq_64_65
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:00:28.680366+00:00
 -- url     : https://prove2.me/theorems/cc76f0bf-e870-4a1f-8fdf-730b30a82ce0

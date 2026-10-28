@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxValSens_Wolfe_lemma_3_1
 -- name    : MaxValSens.Wolfe.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:07:23.338137+00:00
 -- url     : https://prove2.me/theorems/85ff7c92-fd8e-4484-af83-a57fefb953d2

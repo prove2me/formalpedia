@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiemOpt_FR_lemma_14
 -- name    : RiemOpt.FR.lemma_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:01.481021+00:00
 -- url     : https://prove2.me/theorems/62eb27a0-21b6-4dd4-90ff-d8116aef3e69

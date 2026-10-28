@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankLocGrecDense
 -- name    : IntMul_Kappa_R8_Data_BitOppbankLocGrecDense
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:47:14.504102+00:00
 -- url     : https://prove2.me/theorems/819da911-7cc1-4823-8d94-32f6972a14ed
 -- title:

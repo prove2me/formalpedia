@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProviderGuarantee_Bound_reduction_eq_11_12
 -- name    : ProviderGuarantee.Bound.reduction_eq_11_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:33.811992+00:00
 -- url     : https://prove2.me/theorems/98e8fac7-430d-4c63-83cf-9458f493b493

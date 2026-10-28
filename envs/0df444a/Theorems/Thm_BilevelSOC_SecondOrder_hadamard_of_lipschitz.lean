@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilevelSOC_SecondOrder_hadamard_of_lipschitz
 -- name    : BilevelSOC.SecondOrder.hadamard_of_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:01.104797+00:00
 -- url     : https://prove2.me/theorems/e276bab2-e669-41f6-bfa0-f081ba3fcf6b

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.minus1_reflection_not_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T11:09:15.589423+00:00
 -- url     : https://prove2.me/submissions/3f449401-5035-4593-bb59-05dcbad2e65c
 

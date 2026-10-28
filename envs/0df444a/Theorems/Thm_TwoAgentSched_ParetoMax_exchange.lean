@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_ParetoMax_exchange
 -- name    : TwoAgentSched.ParetoMax.exchange
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:38:23.605233+00:00
 -- url     : https://prove2.me/theorems/42bd811e-f2b0-490b-9ce6-dd1204ce818c

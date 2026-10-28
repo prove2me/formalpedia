@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_P_eq_NP_of_npComplete_mem_P
 -- name    : CookPvsNP.P_eq_NP_of_npComplete_mem_P
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T13:56:45.822459+00:00
 -- url     : https://prove2.me/theorems/49024fa3-3719-4b8a-ade8-48a57ec473e2

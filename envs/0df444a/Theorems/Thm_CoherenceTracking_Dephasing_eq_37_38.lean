@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoherenceTracking_Dephasing_eq_37_38
 -- name    : CoherenceTracking.Dephasing.eq_37_38
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:27.270402+00:00
 -- url     : https://prove2.me/theorems/2a4a4ee2-2c60-4775-92d4-7a7db9b9893e

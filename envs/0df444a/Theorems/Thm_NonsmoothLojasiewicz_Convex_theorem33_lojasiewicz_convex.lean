@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Convex_theorem33_lojasiewicz_convex
 -- name    : NonsmoothLojasiewicz.Convex.theorem33_lojasiewicz_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:12:53.400015+00:00
 -- url     : https://prove2.me/theorems/d3eade6b-78a1-42ac-b2ca-f61e88c02866

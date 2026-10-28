@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaVaRAmb_InfConv_proposition_8
 -- name    : LambdaVaRAmb.InfConv.proposition_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:55.186768+00:00
 -- url     : https://prove2.me/theorems/c6e542c1-1e79-4d9f-b238-1f55162358ea

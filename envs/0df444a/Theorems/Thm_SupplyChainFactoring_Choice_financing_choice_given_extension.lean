@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyChainFactoring_Choice_financing_choice_given_extension
 -- name    : SupplyChainFactoring.Choice.financing_choice_given_extension
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:26:35.123774+00:00
 -- url     : https://prove2.me/theorems/70f1ec9e-c8f2-4477-93a8-44d91ca51dd6

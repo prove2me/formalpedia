@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.logarithmic_determinant_obstruction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T08:31:47.177123+00:00
 -- url     : https://prove2.me/submissions/c12502e6-26ab-4087-8875-48a74cc6868b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_PiExponent_DeterminantSetup
 import Theorems.Thm_OAI_PiExponent_denominator_clearing_determinant_dichotomy

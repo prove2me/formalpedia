@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_zero_one_negone_mod4_one
 -- name    : Erdos195.zero_one_negone_mod4_one
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:34:46.856008+00:00
 -- url     : https://prove2.me/theorems/75c639d9-4343-4bca-aeb4-6cf5b2d2d270
 -- title:

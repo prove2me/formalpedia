@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P06_classicalAgreement_protocol
 -- name    : QAlgorithms.Papers.Independent.Information100.P06.classicalAgreement_protocol
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:26:51.657895+00:00
 -- url     : https://prove2.me/theorems/5578509a-369c-49d9-998f-751dec2bf356

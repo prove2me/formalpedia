@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErrBoundCplx_Cplx_eq_20
 -- name    : ErrBoundCplx.Cplx.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:03.984311+00:00
 -- url     : https://prove2.me/theorems/e6692b1e-195b-45ac-9760-bb0023396d2d

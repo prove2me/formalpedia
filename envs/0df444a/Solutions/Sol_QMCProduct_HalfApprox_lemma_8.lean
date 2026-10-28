@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QMCProduct.HalfApprox.lemma_8
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:30:30.695091+00:00
 -- url     : https://prove2.me/submissions/b3e78cc9-0929-4ae0-a2c4-16b835c62d91
 

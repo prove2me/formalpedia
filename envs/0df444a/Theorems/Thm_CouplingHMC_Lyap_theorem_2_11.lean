@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CouplingHMC_Lyap_theorem_2_11
 -- name    : CouplingHMC.Lyap.theorem_2_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T05:29:06.460369+00:00
 -- url     : https://prove2.me/theorems/6cecd219-1836-44d8-93ed-bc2b56e16a40

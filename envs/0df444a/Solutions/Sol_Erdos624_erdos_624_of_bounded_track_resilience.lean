@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.erdos_624_of_bounded_track_resilience
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:23.922998+00:00
 -- url     : https://prove2.me/submissions/8c5c44b5-45e2-462f-a26f-b68bf77e8094
 

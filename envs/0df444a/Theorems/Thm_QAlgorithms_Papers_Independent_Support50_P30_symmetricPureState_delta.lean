@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P30_symmetricPureState_delta
 -- name    : QAlgorithms.Papers.Independent.Support50.P30.symmetricPureState_delta
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:28:00.012295+00:00
 -- url     : https://prove2.me/theorems/c4adeae4-5730-4406-b655-7ae4f43f45af

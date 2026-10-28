@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LagrangeRank_Debias_lemma_A_1
 -- name    : LagrangeRank.Debias.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:39.998336+00:00
 -- url     : https://prove2.me/theorems/c1a736e2-485f-42bb-8962-24c0237a0870

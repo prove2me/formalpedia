@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProdHedgeCVaR_Joint_eq_50
 -- name    : ProdHedgeCVaR.Joint.eq_50
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:45:55.497979+00:00
 -- url     : https://prove2.me/theorems/a530c9fd-a7f7-4b60-9e5c-2601c70dad3c

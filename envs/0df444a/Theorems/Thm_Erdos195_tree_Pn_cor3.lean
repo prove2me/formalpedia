@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_tree_Pn_cor3
 -- name    : Erdos195.tree_Pn_cor3
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:34:49.585983+00:00
 -- url     : https://prove2.me/theorems/b0a09522-7a94-4736-bac1-40a20fcd5efb
 -- title:

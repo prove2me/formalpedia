@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_restricted_absorption_mod8_exceptional
 -- name    : Erdos195.restricted_absorption_mod8_exceptional
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T20:02:36.195459+00:00
 -- url     : https://prove2.me/theorems/68d71fd1-578f-442b-9530-ca0c84b952ba
 -- title:

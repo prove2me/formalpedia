@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_choiRelativeOutput
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.choiRelativeOutput
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:33:28.867701+00:00
 -- url     : https://prove2.me/theorems/c1abd60a-cec7-455c-b15b-3b2370ab8eee

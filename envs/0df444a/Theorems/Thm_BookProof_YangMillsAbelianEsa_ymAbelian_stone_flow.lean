@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_ymAbelian_stone_flow
 -- name    : BookProof.YangMillsAbelianEsa.ymAbelian_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:34:49.092978+00:00
 -- url     : https://prove2.me/theorems/54ec899e-74b6-4be7-a5d5-a71ea9eddb89

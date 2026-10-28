@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastComp_IELF_hoeffding_one_sided
 -- name    : ForecastComp.IELF.hoeffding_one_sided
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:49.746102+00:00
 -- url     : https://prove2.me/theorems/c537977c-1d89-4602-8e4f-b20417305bca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P41_smoothMixture
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P41.smoothMixture
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:56:11.629173+00:00
 -- url     : https://prove2.me/theorems/a13a5e69-3b7e-4f49-82b5-55f503c5cd2c

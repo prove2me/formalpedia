@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProviderGuarantee_Bound_lemma_1
 -- name    : ProviderGuarantee.Bound.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:26.823522+00:00
 -- url     : https://prove2.me/theorems/a79f8fdc-13fd-48e4-bd98-f448c06144e5

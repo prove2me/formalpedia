@@ -1,0 +1,51 @@
+-- Prove2me | Definitions.Def_D1Bound5_SmallPairLightData43Right_Definitions_002
+-- name    : D1Bound5_SmallPairLightData43Right_Definitions_002
+-- status  : Definition
+-- author  : @tp
+-- created : 2026-10-24T02:08:07.008829+00:00
+-- url     : https://prove2.me/theorems/9f24fad6-37cf-4868-b9ee-93e4c8ca7deb
+-- title:
+--   Small Pair Light Data43Right 002
+-- statement:
+--   Exact finite data for the small-pair square tests and mutation graphs. The named objects in this bundle include `PairLightPrepared43.rightCached`.
+-- source:
+--   D1Bound5/SmallPairLightData43Right.lean, lines 490-971, SHA-256 bc06576b6ab4556cd32902cb696eda774e2ccab7ef685f0207a67b38b3aedb89. Project: https://github.com/tomislav-math/d1-bound5-lean
+
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_23e14ee9cc3babecd056
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_ce977a67bc3afe1008b6
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_00e7e781d01462be7f9c
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_b65dd6dd88499209ebdc
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_a2c01b8068c61f5885a8
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_1556e965cd1d4f37c4c3
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_bd100a5dbe875ccee197
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_1ae8a057c104c2635271
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_bc22619d4aed3193f110
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_61cbe2edff56656a9325
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_4b1aab3ca77a2b6a562d
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_499b37bd0480013f8b33
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_d05b2e11ab0a208d2f33
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_f615c817e434fbd07738
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_4c446bf32267cb530fe0
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_daf2898bcd7db2c8cc42
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_ed6c0cdee76c476c39db
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_4f1d779b844c43d48a3d
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_3c2704fda8b0bef7dcee
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_127d7812b459c1d37dad
+import Init
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+
+section
+namespace D1Bound5.PairLightPrepared43
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+
+
+def rightCached : List PairLightCachedVertex := (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_23e14ee9cc3babecd056 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_ce977a67bc3afe1008b6 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_00e7e781d01462be7f9c (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_b65dd6dd88499209ebdc (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_a2c01b8068c61f5885a8 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_1556e965cd1d4f37c4c3 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_bd100a5dbe875ccee197 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_1ae8a057c104c2635271 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_bc22619d4aed3193f110 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_61cbe2edff56656a9325 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_4b1aab3ca77a2b6a562d (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_499b37bd0480013f8b33 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_d05b2e11ab0a208d2f33 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_f615c817e434fbd07738 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_4c446bf32267cb530fe0 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_daf2898bcd7db2c8cc42 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_ed6c0cdee76c476c39db (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_4f1d779b844c43d48a3d (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_3c2704fda8b0bef7dcee _root_.D1Bound5.Prove2MeTransfer.cachedSlice_127d7812b459c1d37dad)))))))))))))))))))
+
+
+
+end D1Bound5.PairLightPrepared43
+end
+
+

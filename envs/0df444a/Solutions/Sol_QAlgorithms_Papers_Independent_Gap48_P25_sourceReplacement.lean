@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.sourceReplacement
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:27:22.484896+00:00
 -- url     : https://prove2.me/submissions/7f7a4c53-0f03-465a-8d77-b302f148c57c
 

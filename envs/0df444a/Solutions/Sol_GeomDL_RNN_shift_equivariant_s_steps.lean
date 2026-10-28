@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.RNN.shift_equivariant_s_steps
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:33:58.121083+00:00
 -- url     : https://prove2.me/submissions/7efd8f36-41bf-4ef8-a07e-aef2e22dca21
 

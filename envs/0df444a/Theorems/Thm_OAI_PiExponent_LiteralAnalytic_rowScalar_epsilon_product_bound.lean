@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_rowScalar_epsilon_product_bound
 -- name    : OAI.PiExponent.LiteralAnalytic.rowScalar_epsilon_product_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:31:48.661763+00:00
 -- url     : https://prove2.me/theorems/8b4e1abb-2208-4f74-b61a-b30c0a42adb8

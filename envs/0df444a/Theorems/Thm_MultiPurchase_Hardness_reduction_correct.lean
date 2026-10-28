@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPurchase_Hardness_reduction_correct
 -- name    : MultiPurchase.Hardness.reduction_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:03.213405+00:00
 -- url     : https://prove2.me/theorems/beff6892-e608-459f-99fa-2b963fcc969c

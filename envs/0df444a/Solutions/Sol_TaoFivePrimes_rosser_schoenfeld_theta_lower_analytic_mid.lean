@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TaoFivePrimes.rosser_schoenfeld_theta_lower_analytic_mid
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Yuxuan Xu
 -- created : 2026-09-24T12:51:51.927145+00:00
 -- url     : https://prove2.me/submissions/f93df36e-97d5-43eb-a89a-1e7cdc12c82f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_TaoFivePrimes_rosser_schoenfeld_theta_lower_analytic_mid_lower
 import Theorems.Thm_TaoFivePrimes_schoenfeld_psi_error_large

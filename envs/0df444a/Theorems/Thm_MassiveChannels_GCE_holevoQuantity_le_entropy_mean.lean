@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassiveChannels_GCE_holevoQuantity_le_entropy_mean
 -- name    : MassiveChannels.GCE.holevoQuantity_le_entropy_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:43:51.243805+00:00
 -- url     : https://prove2.me/theorems/70182d75-663b-42a5-b05c-aa29546c6de9

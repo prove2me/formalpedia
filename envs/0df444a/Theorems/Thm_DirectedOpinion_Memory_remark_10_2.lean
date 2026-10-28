@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedOpinion_Memory_remark_10_2
 -- name    : DirectedOpinion.Memory.remark_10_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:53.223593+00:00
 -- url     : https://prove2.me/theorems/a90f0748-c1fd-40ff-aca2-5f2988673f62

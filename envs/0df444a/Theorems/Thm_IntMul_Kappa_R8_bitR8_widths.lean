@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_bitR8_widths
 -- name    : IntMul.Kappa.R8.bitR8_widths
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:29:17.300149+00:00
 -- url     : https://prove2.me/theorems/50cdff05-90ad-4eeb-be50-a48e6266555d
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_PostedSym_theorem_15
 -- name    : BudgetClock.PostedSym.theorem_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:27.465982+00:00
 -- url     : https://prove2.me/theorems/f2fb3ba8-0c7b-47b4-bfe9-6b0afebae27a

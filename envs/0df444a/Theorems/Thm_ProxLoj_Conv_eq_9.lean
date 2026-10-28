@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxLoj_Conv_eq_9
 -- name    : ProxLoj.Conv.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:37:36.231408+00:00
 -- url     : https://prove2.me/theorems/79f9516d-d060-4576-a506-14f8680b8fee

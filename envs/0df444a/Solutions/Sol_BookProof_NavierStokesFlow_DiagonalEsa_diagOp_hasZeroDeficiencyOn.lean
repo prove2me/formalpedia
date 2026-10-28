@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.DiagonalEsa.diagOp_hasZeroDeficiencyOn
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:34:46.374859+00:00
 -- url     : https://prove2.me/submissions/0b6e0718-e0ec-479c-9156-e8269fcbb48d
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KMNewsvendor_optional_skipping_slln
 -- name    : KMNewsvendor.optional_skipping_slln
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T02:49:28.468094+00:00
 -- url     : https://prove2.me/theorems/4349709a-22f4-4429-8edb-31f65faef025

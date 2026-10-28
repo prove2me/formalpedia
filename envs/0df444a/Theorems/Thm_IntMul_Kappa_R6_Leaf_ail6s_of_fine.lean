@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_Leaf_ail6s_of_fine
 -- name    : IntMul.Kappa.R6.Leaf.ail6s_of_fine
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:22:20.734998+00:00
 -- url     : https://prove2.me/theorems/3848fffb-dc77-4c60-aec2-9356ad4d73a9
 -- title:

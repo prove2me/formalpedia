@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_odd_shield_unique
 -- name    : Erdos195.odd_shield_unique
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T07:47:07.734549+00:00
 -- url     : https://prove2.me/theorems/b3d06f34-1bc6-4246-a851-8cacb20b01ac
 -- title:

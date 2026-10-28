@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HogFarm_SalesAlloc_attainment
 -- name    : HogFarm.SalesAlloc.attainment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:51:59.788365+00:00
 -- url     : https://prove2.me/theorems/fd989d05-9d6e-4072-8113-28c652985578

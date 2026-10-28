@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P44_touching_interval_sets
 -- name    : QAlgorithms.Papers.Independent.Support50.P44.touching_interval_sets
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:05:42.975352+00:00
 -- url     : https://prove2.me/theorems/821cb4f2-b0b9-4cf7-9011-6cdfbbbcafe0

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_iterated_isolated_min
 -- name    : Erdos195.iterated_isolated_min
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:23.26167+00:00
 -- url     : https://prove2.me/theorems/249fbea6-562a-406e-9c95-59669c9141b0
 -- title:

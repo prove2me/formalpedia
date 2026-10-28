@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PrefSemimetric.TopDiff.agree_same_symmPart
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:17:05.780077+00:00
 -- url     : https://prove2.me/submissions/56a4a91a-0e6e-48fd-b242-1b2949b8a665
 

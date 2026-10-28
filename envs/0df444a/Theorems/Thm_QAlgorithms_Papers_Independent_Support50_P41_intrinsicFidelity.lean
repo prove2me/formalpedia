@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_intrinsicFidelity
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.intrinsicFidelity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:14:15.759754+00:00
 -- url     : https://prove2.me/theorems/c6fa5e3e-51b1-4ec8-b13a-eb8eb93e9bba

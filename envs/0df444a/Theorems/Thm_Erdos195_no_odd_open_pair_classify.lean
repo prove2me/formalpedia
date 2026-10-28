@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_no_odd_open_pair_classify
 -- name    : Erdos195.no_odd_open_pair_classify
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T03:10:00.827594+00:00
 -- url     : https://prove2.me/theorems/f31e8b46-f2d3-48ff-9eba-b22e29dcf213
 -- title:

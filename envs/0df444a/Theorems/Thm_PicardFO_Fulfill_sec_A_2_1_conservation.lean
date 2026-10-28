@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PicardFO_Fulfill_sec_A_2_1_conservation
 -- name    : PicardFO.Fulfill.sec_A_2_1_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:30.956172+00:00
 -- url     : https://prove2.me/theorems/d0a27472-9d49-4ff1-81b3-5a93a32de906

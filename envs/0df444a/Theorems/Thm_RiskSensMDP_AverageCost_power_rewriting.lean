@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskSensMDP_AverageCost_power_rewriting
 -- name    : RiskSensMDP.AverageCost.power_rewriting
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:28:43.98278+00:00
 -- url     : https://prove2.me/theorems/805ed46f-b49c-4504-bf20-00773bf2bd3c

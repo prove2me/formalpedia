@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_prescribed_core_cover
 -- name    : Erdos624.prescribed_core_cover
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:41:07.728295+00:00
 -- url     : https://prove2.me/theorems/e9f429f1-cff8-475a-9cd5-fe25b0a1520d
 -- title:

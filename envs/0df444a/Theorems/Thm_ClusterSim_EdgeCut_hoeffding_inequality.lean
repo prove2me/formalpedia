@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClusterSim_EdgeCut_hoeffding_inequality
 -- name    : ClusterSim.EdgeCut.hoeffding_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:27.135627+00:00
 -- url     : https://prove2.me/theorems/9c253632-d0ea-4fab-8241-92194c48f9dc

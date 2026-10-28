@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Ext_theorem_2
 -- name    : OffloadGNEP.Ext.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:41:16.520441+00:00
 -- url     : https://prove2.me/theorems/6805f9a3-3ddc-468c-b0d7-2aa8d1d58644

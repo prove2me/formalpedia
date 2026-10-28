@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_PhaseSync_weighted_mean_conserved
 -- name    : NonuniformKuramoto.PhaseSync.weighted_mean_conserved
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:14.56598+00:00
 -- url     : https://prove2.me/theorems/cf113aef-7e10-4ef3-b3c8-8af9e6a66bc4

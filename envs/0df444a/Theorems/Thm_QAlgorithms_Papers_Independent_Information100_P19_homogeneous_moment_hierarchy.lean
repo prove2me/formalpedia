@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_homogeneous_moment_hierarchy
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.homogeneous_moment_hierarchy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:00:52.199338+00:00
 -- url     : https://prove2.me/theorems/21710d02-4401-412d-a6eb-a0c1252dc4e7

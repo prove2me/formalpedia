@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_zeta_ne_zero_of_strip_of_fourteen_lt_im_of_im_le_hundred
 -- name    : zeta_ne_zero_of_strip_of_fourteen_lt_im_of_im_le_hundred
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:51:57.693035+00:00
 -- url     : https://prove2.me/theorems/b232bf75-d96c-4fbe-953a-e6068e6a8515
 -- title:

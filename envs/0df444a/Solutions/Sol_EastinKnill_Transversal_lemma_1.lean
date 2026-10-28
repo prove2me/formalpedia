@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for EastinKnill.Transversal.lemma_1
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:55:17.12553+00:00
 -- url     : https://prove2.me/submissions/cc36d8e8-bcbb-4f53-87c1-014cc50dee49
 

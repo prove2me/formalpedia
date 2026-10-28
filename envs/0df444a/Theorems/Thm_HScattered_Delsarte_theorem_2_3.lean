@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_Delsarte_theorem_2_3
 -- name    : HScattered.Delsarte.theorem_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:31:33.014343+00:00
 -- url     : https://prove2.me/theorems/fcfea2d2-bfab-49b2-ba05-8f2a1ad7ef1c

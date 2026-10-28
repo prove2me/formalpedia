@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_YauCounterexamples_sphere_three
 -- name    : OAI.YauCounterexamples.sphere_three
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:39.758978+00:00
 -- url     : https://prove2.me/theorems/9b9fc80f-3c79-46df-a31d-add959f4156b

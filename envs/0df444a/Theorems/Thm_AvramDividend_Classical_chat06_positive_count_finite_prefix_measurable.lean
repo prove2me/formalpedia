@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat06_positive_count_finite_prefix_measurable
 -- name    : AvramDividend.Classical.chat06_positive_count_finite_prefix_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T15:52:52.89184+00:00
 -- url     : https://prove2.me/theorems/e9d5f2c0-ed50-450f-89dd-ebdd809fca4e

@@ -1,0 +1,77 @@
+-- Prove2me | Theorems.Thm_OAI_Percolation_exists_uniform_deformed_row_comparison
+-- name    : OAI.Percolation.exists_uniform_deformed_row_comparison
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-10-27T00:52:26.874054+00:00
+-- url     : https://prove2.me/theorems/e4f03b3c-4f67-455c-a26f-a569482b7e93
+-- title:
+--   OAI.Percolation.exists_uniform_deformed_row_comparison: intermediate lemma from OpenAI, Nonuniqueness of percolation on nonamenable quasi-transitive graphs (result family 214)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.Percolation.arbitrary_cayley`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Nonuniqueness of percolation on nonamenable quasi-transitive graphs (result family 214)*, OpenAI Math Release, September 24, 2026, result family 214, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.Percolation.exists_uniform_deformed_row_comparison` of [lean/OAI/Probability/UnimodularPercolation/UnimodularPercolation/Deformation/AveragedDecrease.lean](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Probability/UnimodularPercolation/UnimodularPercolation/Deformation/AveragedDecrease.lean) at commit adc7f12, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.Percolation`, with `open MeasureTheory ProbabilityTheory`, `open scoped ENNReal NNReal`):
+--
+--   ```lean
+--   theorem exists_uniform_deformed_row_comparison (G : BondGraph V E)
+--       (hconn : Connected G) (hloc : LocallyFinite G) (hqt : QuasiTransitive G)
+--       (root : ι → V) (weight : ι → ℝ) (hw : ∀ i, 0 ≤ weight i) (hw1 : ∑ i, weight i = 1)
+--       (hcover : ∀ x, ∃ i, x ∈ vertexOrbit G (root i))
+--       (d : ℕ) (hd : ∀ x, degree G x ≤ d) (a : ℝ)
+--       (hP : ∀ x y, 0 ≤ walkKernel G hloc a x y)
+--       (hpcrit : 0 < (pc G:ℝ)) (hpcrit₁ : (pc G:ℝ) < 1) :
+--       ∃ C cf : ℝ, 0 < C ∧ 0 < cf ∧ ∀ (p : unitInterval),
+--         (pc G:ℝ)/2 ≤ (p:ℝ) → p < pc G → ∀ (k : ℕ), 3 ≤ k → ∀ (t : ℝ),
+--         0 ≤ t → t*Real.exp (C*(k:ℝ)) ≤ 1 → ∀ x,
+--         cf*averagedDeformedSusceptibility G (walkKernel G hloc a) p k root weight t ≤
+--           deformedSusceptibility G (walkKernel G hloc a) p k t Set.univ x
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.Percolation.Connected`, `OAI.Percolation.LocallyFinite`, `OAI.Percolation.QuasiTransitive`, `OAI.Percolation.averagedDeformedSusceptibility`, `OAI.Percolation.deformedSusceptibility` and `OAI.Percolation.vertexOrbit` (definitions bundle `OAIQ040C000` of this split); `OAI.Percolation.degree` and `OAI.Percolation.walkKernel` (definitions bundle `OAIQ040C002` of this split); `OAI.Percolation.BondGraph` and `OAI.Percolation.pc` (the published bundle `Def_CayleyPercolation`).
+--
+--   **Used by.** The proof of `OAI.Percolation.exists_finite_scale_obstruction` of this split imports it.
+-- source:
+--   OpenAI, Nonuniqueness of percolation on nonamenable quasi-transitive graphs (result family 214), OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 214; paper: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Nonuniqueness-of-percolation-on-nonamenable-quasi-transitive-graphs-September-24-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Probability/UnimodularPercolation/UnimodularPercolation/Deformation/AveragedDecrease.lean (declaration OAI.Percolation.exists_uniform_deformed_row_comparison)
+
+import Mathlib
+import Definitions.Def_CayleyPercolation
+import Definitions.Def_OAIQ040C002
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+open MeasureTheory ProbabilityTheory
+open scoped ENNReal NNReal
+
+namespace Percolation
+universe u v
+variable {V : Type u} {E : Type v}
+section DeformedRowComparison
+attribute [local instance] Classical.propDecidable Classical.decEq
+variable [Countable V] [Countable E] [Nonempty V]
+variable {ι : Type*} [Fintype ι]
+
+theorem exists_uniform_deformed_row_comparison (G : BondGraph V E)
+    (hconn : Connected G) (hloc : LocallyFinite G) (hqt : QuasiTransitive G)
+    (root : ι → V) (weight : ι → ℝ) (hw : ∀ i, 0 ≤ weight i) (hw1 : ∑ i, weight i = 1)
+    (hcover : ∀ x, ∃ i, x ∈ vertexOrbit G (root i))
+    (d : ℕ) (hd : ∀ x, degree G x ≤ d) (a : ℝ)
+    (hP : ∀ x y, 0 ≤ walkKernel G hloc a x y)
+    (hpcrit : 0 < (pc G:ℝ)) (hpcrit₁ : (pc G:ℝ) < 1) :
+    ∃ C cf : ℝ, 0 < C ∧ 0 < cf ∧ ∀ (p : unitInterval),
+      (pc G:ℝ)/2 ≤ (p:ℝ) → p < pc G → ∀ (k : ℕ), 3 ≤ k → ∀ (t : ℝ),
+      0 ≤ t → t*Real.exp (C*(k:ℝ)) ≤ 1 → ∀ x,
+      cf*averagedDeformedSusceptibility G (walkKernel G hloc a) p k root weight t ≤
+        deformedSusceptibility G (walkKernel G hloc a) p k t Set.univ x := by
+  sorry
+
+end DeformedRowComparison
+end Percolation
+
+end OAI
+end

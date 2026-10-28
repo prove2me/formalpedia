@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryBounds_stationary_value_separation
 -- name    : InventoryBounds.stationary_value_separation
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T15:33:39.54898+00:00
 -- url     : https://prove2.me/theorems/f6cc5303-881b-4839-a03b-ef885401baff

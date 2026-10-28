@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_surviving_stopped_test_aestronglyMeasurable_of_progressive
 -- name    : AvramDividend.Classical.surviving_stopped_test_aestronglyMeasurable_of_progressive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:21:47.225825+00:00
 -- url     : https://prove2.me/theorems/2f778d98-8abe-40c2-a45d-00dc5945f25f

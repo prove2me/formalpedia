@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_zero_sum_covering
 -- name    : Erdos624.zero_sum_covering
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:40:57.340896+00:00
 -- url     : https://prove2.me/theorems/75f80305-5f55-4b8d-a396-30678c77e5f6
 -- title:

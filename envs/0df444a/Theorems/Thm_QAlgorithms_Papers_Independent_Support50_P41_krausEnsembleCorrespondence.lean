@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_krausEnsembleCorrespondence
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.krausEnsembleCorrespondence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:35:18.873216+00:00
 -- url     : https://prove2.me/theorems/780c2f34-0c7d-434f-83b7-a16c3a6ef21c

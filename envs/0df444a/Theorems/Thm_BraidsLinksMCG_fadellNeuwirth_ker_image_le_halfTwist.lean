@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_fadellNeuwirth_ker_image_le_halfTwist
 -- name    : BraidsLinksMCG.fadellNeuwirth_ker_image_le_halfTwist
--- status  : Open
+-- status  : Proved
 -- author  : @cm_beta
 -- created : 2026-09-21T23:36:21.691442+00:00
 -- url     : https://prove2.me/theorems/02bcc504-7ca8-4ec2-bc20-a9e7e943f119

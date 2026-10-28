@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_nine_true_release
 -- name    : Erdos195.nine_true_release
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T08:10:13.945648+00:00
 -- url     : https://prove2.me/theorems/55a4320c-4f3e-4d9c-921e-867983ffa165
 -- title:

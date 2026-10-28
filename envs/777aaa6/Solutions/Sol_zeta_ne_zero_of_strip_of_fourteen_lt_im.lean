@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for zeta_ne_zero_of_strip_of_fourteen_lt_im
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T10:04:29.021576+00:00
 -- url     : https://prove2.me/submissions/7b3e490d-84b3-44de-8f2b-049fa89206d5
 -- note    : a sketch -- it imports a theorem that is still Open,

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropicBarrier_Universal_nuBound_iff_covariance
 -- name    : EntropicBarrier.Universal.nuBound_iff_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:26:20.925981+00:00
 -- url     : https://prove2.me/theorems/39b70c27-5375-4cfd-a60a-fe1fc168c8a2

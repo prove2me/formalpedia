@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LasserreFC_FinConv_value_le_fmin_monotone
 -- name    : LasserreFC.FinConv.value_le_fmin_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:33:32.429672+00:00
 -- url     : https://prove2.me/theorems/dc24f867-7bbf-4710-8bef-52c22b9e6c75

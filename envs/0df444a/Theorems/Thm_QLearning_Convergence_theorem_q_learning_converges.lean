@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QLearning_Convergence_theorem_q_learning_converges
 -- name    : QLearning.Convergence.theorem_q_learning_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:54:32.04079+00:00
 -- url     : https://prove2.me/theorems/ae845100-339c-4958-b98c-9077fcd5f747

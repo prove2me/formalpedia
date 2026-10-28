@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UncoupledDyn_Continuum_U0_unique_nash
 -- name    : UncoupledDyn.Continuum.U0_unique_nash
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:09:21.66199+00:00
 -- url     : https://prove2.me/theorems/bb49004e-0dfa-4f4b-90a8-0ab4a04d6dd7

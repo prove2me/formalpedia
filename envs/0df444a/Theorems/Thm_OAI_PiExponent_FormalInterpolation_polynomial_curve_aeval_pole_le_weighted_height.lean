@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_polynomial_curve_aeval_pole_le_weighted_height
 -- name    : OAI.PiExponent.FormalInterpolation.polynomial_curve_aeval_pole_le_weighted_height
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:41:31.541988+00:00
 -- url     : https://prove2.me/theorems/a88160a1-f5d4-40af-b023-aba06a1241e2
 -- title:

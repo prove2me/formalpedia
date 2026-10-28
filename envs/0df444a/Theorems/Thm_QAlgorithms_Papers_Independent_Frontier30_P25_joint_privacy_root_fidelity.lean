@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P25_joint_privacy_root_fidelity
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P25.joint_privacy_root_fidelity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T18:43:19.211288+00:00
 -- url     : https://prove2.me/theorems/d38c5e3a-2b46-448e-bc77-40dc7e1eaa48

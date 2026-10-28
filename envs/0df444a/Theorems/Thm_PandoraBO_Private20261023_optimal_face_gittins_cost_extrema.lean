@@ -17,7 +17,7 @@
 --
 --   By Theorem 1, the two witnesses and the interpolating policies are themselves penalized-optimal. This is an additional bridge required by the budget argument; it is not claimed to be a verbatim numbered lemma in the paper. It makes explicit both extreme-cost attainment within the Gittins class and randomization through admissible ties.
 -- source:
---   Xie, Astudillo, Frazier, Scully and Terenin, Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index, NeurIPS 2024; arXiv:2406.20062v3 (16 January 2025), https://arxiv.org/pdf/2406.20062v3, Additional formalization bridge required by Appendix B.5, Lemma 8 / equation (55) and the conclusion of Theorem 2; not a separately numbered theorem in the source. Mission source version: the author-revised manuscript reviewed on 23 October 2026, intended for arXiv v4; public posting is pending. References to arXiv v3 identify the earlier published version.
+--   Qian Xie, Raul Astudillo, Peter I. Frazier, Ziv Scully, and Alexander Terenin. [Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index](https://arxiv.org/abs/2406.20062). NeurIPS 2024. Appendix B.5, Lemma 8 and the conclusion of Theorem 2. This is a supporting formalization lemma for expected-cost extrema among optimal Gittins policies, not a separately numbered theorem in the paper.
 
 import Definitions.Def_PandoraBO_Model
 

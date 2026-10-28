@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_J6Seg_Side_sideCost6_all
 -- name    : J6Seg.Side.sideCost6_all
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:35:45.150587+00:00
 -- url     : https://prove2.me/theorems/2fb34e85-724d-41a1-8577-414bc93917a8
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrbNetEqui_Equivariance_evNorm_equivariant
 -- name    : OrbNetEqui.Equivariance.evNorm_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:39:06.928522+00:00
 -- url     : https://prove2.me/theorems/50c5125a-8919-40b5-9f17-696bf916d9e0

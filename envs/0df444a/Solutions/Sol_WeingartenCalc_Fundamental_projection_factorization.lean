@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WeingartenCalc.Fundamental.projection_factorization
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:17:19.712335+00:00
 -- url     : https://prove2.me/submissions/d41fab19-8882-4f7f-85ca-dde49aaf4c63
 

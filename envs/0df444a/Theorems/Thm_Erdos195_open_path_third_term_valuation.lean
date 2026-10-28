@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_path_third_term_valuation
 -- name    : Erdos195.open_path_third_term_valuation
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T23:11:29.862175+00:00
 -- url     : https://prove2.me/theorems/68d47e5b-0d85-484c-abe3-6723508c1976
 -- title:

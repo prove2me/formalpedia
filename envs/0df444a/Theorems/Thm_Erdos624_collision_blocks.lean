@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_collision_blocks
 -- name    : Erdos624.collision_blocks
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:36.703987+00:00
 -- url     : https://prove2.me/theorems/2d05af7b-9cfa-4255-a758-b237282d8906
 -- title:

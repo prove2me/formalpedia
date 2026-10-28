@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_expected_yield
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.expected_yield
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:15:31.904246+00:00
 -- url     : https://prove2.me/theorems/77d405cc-9cc3-4c14-b1c7-72373127467f

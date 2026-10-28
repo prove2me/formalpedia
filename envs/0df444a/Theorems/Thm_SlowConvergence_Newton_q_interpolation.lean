@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_Newton_q_interpolation
 -- name    : SlowConvergence.Newton.q_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:40:55.650804+00:00
 -- url     : https://prove2.me/theorems/b0af2537-ec1d-4d34-8ff5-5cf7da3743e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalUtility_bernoulli_cramer_diminishing
 -- name    : MarginalUtility.bernoulli_cramer_diminishing
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:53.837972+00:00
 -- url     : https://prove2.me/theorems/d653affa-0086-4220-b488-8bce4e37e2df

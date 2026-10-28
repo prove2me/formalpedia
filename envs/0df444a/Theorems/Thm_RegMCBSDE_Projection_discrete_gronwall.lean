@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMCBSDE_Projection_discrete_gronwall
 -- name    : RegMCBSDE.Projection.discrete_gronwall
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:36:20.278427+00:00
 -- url     : https://prove2.me/theorems/0e3ba764-6ae8-4922-8325-c1c8f1d6f06f

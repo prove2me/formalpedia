@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P06_sectorial_regularized_strong_structure
 -- name    : QAlgorithms.Papers.Independent.Next46.P06.sectorial_regularized_strong_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T13:46:25.478323+00:00
 -- url     : https://prove2.me/theorems/b9129c09-0d2a-41b1-b0ba-45bfb96454fc

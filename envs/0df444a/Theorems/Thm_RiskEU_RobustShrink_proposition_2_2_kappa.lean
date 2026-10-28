@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskEU_RobustShrink_proposition_2_2_kappa
 -- name    : RiskEU.RobustShrink.proposition_2_2_kappa
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:06:02.975578+00:00
 -- url     : https://prove2.me/theorems/13631ac3-f1a8-4427-b325-9bba4c6292ce

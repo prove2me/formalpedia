@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatroidProphet_Assigned_one_sample
 -- name    : OAI.MatroidProphet.Assigned.one_sample
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:55.879794+00:00
 -- url     : https://prove2.me/theorems/e63c3755-7403-4ba8-b7e4-04a6146b8b86

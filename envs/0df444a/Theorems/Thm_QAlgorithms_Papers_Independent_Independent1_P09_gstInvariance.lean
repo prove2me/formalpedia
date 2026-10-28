@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P09_gstInvariance
 -- name    : QAlgorithms.Papers.Independent.Independent1.P09.gstInvariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:27:23.127673+00:00
 -- url     : https://prove2.me/theorems/dbd3e9fc-41b3-4451-8f85-29c38de8cf83

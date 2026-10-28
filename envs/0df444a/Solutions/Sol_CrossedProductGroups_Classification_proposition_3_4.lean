@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CrossedProductGroups.Classification.proposition_3_4
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:07:37.158391+00:00
 -- url     : https://prove2.me/submissions/7d18c0df-58ee-4b04-a631-4ef362c259ff
 

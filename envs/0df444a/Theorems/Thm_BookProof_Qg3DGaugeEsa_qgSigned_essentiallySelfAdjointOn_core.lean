@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Qg3DGaugeEsa_qgSigned_essentiallySelfAdjointOn_core
 -- name    : BookProof.Qg3DGaugeEsa.qgSigned_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T19:18:47.957898+00:00
 -- url     : https://prove2.me/theorems/1a53e348-e643-4128-a2b6-f6cbbc9c68c2

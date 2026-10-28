@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatchingFPRAS_thm_main
 -- name    : OAI.MatchingFPRAS.thm_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:55.181333+00:00
 -- url     : https://prove2.me/theorems/8fe26d10-c004-49ff-8c4c-08059d02d5e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Convex_factorization_lemma
 -- name    : NonsmoothLojasiewicz.Convex.factorization_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T18:51:12.755745+00:00
 -- url     : https://prove2.me/theorems/f3119b19-44eb-4b6b-8e72-e9653bf0de5f

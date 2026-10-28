@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiIrrationality_openai_bound_two
 -- name    : PiIrrationality.openai_bound_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-07T06:01:15.267396+00:00
 -- url     : https://prove2.me/theorems/406736ed-98ce-4177-b97f-24de96ba4188

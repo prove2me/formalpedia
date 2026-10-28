@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QCircMITM.Search.card_S_le
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:40:21.909188+00:00
 -- url     : https://prove2.me/submissions/699f4867-20ee-4d31-948f-282653932fcd
 

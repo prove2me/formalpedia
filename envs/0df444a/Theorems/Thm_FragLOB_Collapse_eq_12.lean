@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragLOB_Collapse_eq_12
 -- name    : FragLOB.Collapse.eq_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:48.138692+00:00
 -- url     : https://prove2.me/theorems/f63e035a-1893-4034-b8a1-4441c7ee6b15

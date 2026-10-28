@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.max_rule_cascade
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:42:54.961772+00:00
 -- url     : https://prove2.me/submissions/8bcc1b0c-bd2e-46d7-97f5-ceaabe1a62a6
 

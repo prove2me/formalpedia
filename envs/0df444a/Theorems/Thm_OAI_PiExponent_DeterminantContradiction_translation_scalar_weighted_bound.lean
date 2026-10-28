@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_translation_scalar_weighted_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.translation_scalar_weighted_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:11:10.31168+00:00
 -- url     : https://prove2.me/theorems/8101c655-a06f-4cfe-be3e-c887a31fa5c9

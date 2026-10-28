@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_norm_prod_sub_prod_le_sum
 -- name    : QAlgorithms.Nannicini.norm_prod_sub_prod_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:34.872808+00:00
 -- url     : https://prove2.me/theorems/27138c26-cc93-489d-8787-8da807ef63d0

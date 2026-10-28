@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CriticalSK_covariance_and_linear_tests
 -- name    : OAI.CriticalSK.covariance_and_linear_tests
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:30.33556+00:00
 -- url     : https://prove2.me/theorems/e9f896ea-430d-4539-82ad-5c5724d6096e

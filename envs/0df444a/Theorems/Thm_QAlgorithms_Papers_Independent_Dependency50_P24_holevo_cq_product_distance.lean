@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_holevo_cq_product_distance
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.holevo_cq_product_distance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:22:11.838179+00:00
 -- url     : https://prove2.me/theorems/0a9fa87d-b177-4637-b5bd-43fc40fa9a7c

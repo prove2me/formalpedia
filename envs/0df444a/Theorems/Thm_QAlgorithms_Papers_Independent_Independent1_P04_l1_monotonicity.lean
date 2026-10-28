@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P04_l1_monotonicity
 -- name    : QAlgorithms.Papers.Independent.Independent1.P04.l1_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:24:01.379485+00:00
 -- url     : https://prove2.me/theorems/fc1f399c-ca03-44c7-8902-9030ac24f7f3

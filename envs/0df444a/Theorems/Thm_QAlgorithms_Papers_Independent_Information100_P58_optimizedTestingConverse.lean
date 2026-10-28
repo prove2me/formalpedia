@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_optimizedTestingConverse
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.optimizedTestingConverse
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:16:22.246972+00:00
 -- url     : https://prove2.me/theorems/5fd0e4e0-8e91-4fe2-af14-f8ea60659ccb

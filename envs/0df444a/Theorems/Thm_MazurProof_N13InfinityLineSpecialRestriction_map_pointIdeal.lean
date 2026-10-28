@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13InfinityLineSpecialRestriction_map_pointIdeal
 -- name    : MazurProof.N13InfinityLineSpecialRestriction.map_pointIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T08:02:07.172217+00:00
 -- url     : https://prove2.me/theorems/f2ebf30d-1477-4b32-a6d4-83f56c757a6d

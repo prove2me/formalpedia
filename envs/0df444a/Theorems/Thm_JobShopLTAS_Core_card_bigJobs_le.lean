@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JobShopLTAS_Core_card_bigJobs_le
 -- name    : JobShopLTAS.Core.card_bigJobs_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:09:37.710208+00:00
 -- url     : https://prove2.me/theorems/510f9968-1757-4dff-9915-8a7db1e3d38e

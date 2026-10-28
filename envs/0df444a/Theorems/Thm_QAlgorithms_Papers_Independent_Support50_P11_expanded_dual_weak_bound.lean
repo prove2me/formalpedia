@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P11_expanded_dual_weak_bound
 -- name    : QAlgorithms.Papers.Independent.Support50.P11.expanded_dual_weak_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:06:00.882731+00:00
 -- url     : https://prove2.me/theorems/6d6417e3-c085-4c8d-9a7a-4f6e727e9751

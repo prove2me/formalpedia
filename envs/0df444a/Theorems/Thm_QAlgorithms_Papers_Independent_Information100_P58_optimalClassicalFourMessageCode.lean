@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_optimalClassicalFourMessageCode
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.optimalClassicalFourMessageCode
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:18:08.109954+00:00
 -- url     : https://prove2.me/theorems/cd6c1ffc-53f4-4b8a-a918-cfdff6bf0297

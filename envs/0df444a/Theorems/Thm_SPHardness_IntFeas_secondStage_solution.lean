@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_IntFeas_secondStage_solution
 -- name    : SPHardness.IntFeas.secondStage_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:11:43.810355+00:00
 -- url     : https://prove2.me/theorems/90b14ec8-0ec1-410b-beff-051b002ca364

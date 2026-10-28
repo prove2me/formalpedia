@@ -1,0 +1,529 @@
+-- Prove2me | solution 1 for Sensitivity213981Formal.ThreeBoundRankNumeric.actual_dominator_converted_cap
+-- status  : ACCEPTED   (prove)
+-- author  : @yousofy
+-- created : 2026-10-27T01:35:41.850188+00:00
+-- url     : https://prove2.me/submissions/98d2254b-4b18-46fe-b839-4e83276e63ed
+
+import Definitions.Def_Sensitivity213981Formal_GlobalAccounting
+import Definitions.Def_Sensitivity213981Formal_GradedCandidates
+import Definitions.Def_Sensitivity213981Formal_MinmaxCandidates
+import Definitions.Def_Sensitivity213981Formal_MinmaxPairData
+import Definitions.Def_Sensitivity213981Formal_MinmaxPrefixCaps
+import Definitions.Def_Sensitivity213981Formal_Namespaces
+import Definitions.Def_Sensitivity213981Formal_NamespacesComplete
+import Definitions.Def_Sensitivity213981Formal_Q2EnumerationBridge
+import Definitions.Def_Sensitivity213981Formal_RankConvertedCaps
+import Definitions.Def_Sensitivity213981Formal_Supplement_CandidateCoherence
+import Definitions.Def_SensitivityCampaign
+import Definitions.Def_SensitivitySeparation
+import Lean.Elab.Tactic.Omega
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.GroupWithZero.Units.Equiv
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.Group.List
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.GroupWithZero.Basic
+import Mathlib.Algebra.Order.Ring.Nat
+import Mathlib.Algebra.Order.Ring.Pow
+import Mathlib.Analysis.SpecialFunctions.Log.Deriv
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Combinatorics.Digraph.Basic
+import Mathlib.Combinatorics.Hall.Finite
+import Mathlib.Data.Fin.Basic
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finset.Sort
+import Mathlib.Data.Finset.Union
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.Sort
+import Mathlib.Data.Nat.Basic
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Prod.Lex
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.NumberTheory.JacobiSum.Basic
+import Mathlib.NumberTheory.LegendreSymbol.Basic
+import Mathlib.Order.Interval.Finset.Nat
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.IntervalCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.NormNum.Prime
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Tauto
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundRankMarkers_dominator_mismatch_cap
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundRankNumeric_exists_markers_allowance
+import Theorems.Thm_Sensitivity213981Formal_ThreeBoundRankNumeric_negative_mismatch_eq
+
+
+namespace Sensitivity213981Formal
+section
+/-
+The graded-target to labeling-exclusion bridge.
+
+Targets at different rows may use different lower thresholds. A geometric
+one-child candidate has an accepted partner; coloring its row by the other
+position makes every label mismatch an actual guard failure. This argument
+is independent of fixed versus graded targets and applies to min/max targets.
+-/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+
+namespace CandidateCoherence
+open scoped Classical
+open MinmaxLocal TournamentHighRows
+
+variable {N : ℕ} {V X : Type}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem mismatch_mono (R : V → V → Prop) (ell : V → V → Bool)
+    (T U : Finset V) (hTU : T ⊆ U) (color : V → Bool) (v : V) :
+    mismatch R ell T color v ⊆ mismatch R ell U color v := by
+  classical
+  intro w hw
+  rcases Finset.mem_filter.mp hw with ⟨hwT,hw⟩
+  exact Finset.mem_filter.mpr ⟨hTU hwT,hw⟩
+
+
+
+
+
+section ActualGuards
+variable [Fintype V]
+
+
+
+
+
+
+
+
+
+
+
+end ActualGuards
+end CandidateCoherence
+
+
+
+
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/- Shared actual-predicate interface for symmetric min/max transfer. -/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+set_option linter.unusedSectionVars false
+
+namespace ThreeBoundMinmaxTransfer
+open _root_.OAI.Paper320 _root_.Sensitivity213981Formal.OAI.Paper320 ThreeBoundWitness ThreeBoundProfiles ThreeBoundPositive
+open ThreeBoundConditional
+open scoped Classical
+noncomputable section
+variable {L I V : Type} [Preorder L] [Fintype I] [Fintype V]
+
+
+
+theorem mm_true (F : L → (I → Bool) → Bool) (t u : L) (x y : I → Bool) :
+    mm F t u x y=true ↔ F t x=true ∧ F t y=true ∧ (F u x=true ∨ F u y=true) := by
+  simp only [mm,Bool.and_eq_true,Bool.or_eq_true,and_assoc]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+end ThreeBoundMinmaxTransfer
+
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/- Actual geometric target and guard candidates for monotone min/max rows. -/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 7000000
+set_option maxRecDepth 20000
+set_option linter.unusedSectionVars false
+
+namespace ThreeBoundMinmaxCandidates
+open _root_.OAI.Paper320 _root_.Sensitivity213981Formal.OAI.Paper320 ThreeBoundWitness ThreeBoundProfiles ThreeBoundPositive ThreeBoundRepair
+open ThreeBoundMinmaxTransfer ThreeBoundMinmaxHeads
+open scoped Classical BigOperators
+noncomputable section
+variable {L I V : Type} [LinearOrder L] [Fintype I] [Fintype V]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem high_guards_true (S : Stage L I V) (F : L → (I → Bool) → Bool)
+    (hF : Nested F) (i j : L) (P : PairData S F i j) (x : ((V × Bool) × I) → Bool)
+    (w : V) (hw : w ∈ highHeads S F P.strongLower P.strongUpper j x) :
+    ∀ c, F (S.guard j) (child x w c)=true := by
+  rcases (Finset.mem_filter.mp hw).2 with ⟨b,hb⟩ | ⟨b,hb⟩
+  · exact hb.2
+  · have hh := (mm_true F _ _ _ _).1 hb.2.2
+    intro c
+    cases c
+    · exact hF _ _ (P.guardTarget b hb.1) _ hh.1
+    · exact hF _ _ (P.guardTarget b hb.1) _ hh.2.1
+
+theorem target_some_guard (S : Stage L I V) (F : L → (I → Bool) → Bool)
+    (hF : Nested F) (i j : L) (P : PairData S F i j) (x : ((V × Bool) × I) → Bool)
+    (w : V) (b : ℕ) (hb : TargetCandidate S F P.strongLower P.strongUpper j x w b) :
+    F (S.guard j) (child x w false)=true ∨ F (S.guard j) (child x w true)=true :=
+  hb.2.2.2.elim (fun hh => Or.inl (hF _ _ (P.guardTarget b hb.1) _ hh))
+    (fun hh => Or.inr (hF _ _ (P.guardTarget b hb.1) _ hh))
+
+theorem target_partner_guard (S : Stage L I V) (F : L → (I → Bool) → Bool)
+    (hF : Nested F) (i j : L) (P : PairData S F i j) (x : ((V × Bool) × I) → Bool)
+    (w : V) (b : ℕ) (hb : TargetCandidate S F P.strongLower P.strongUpper j x w b)
+    (c : Bool) (hc : c ≠ missing S F j x w) : F (S.guard j) (child x w c)=true := by
+  have hh := target_some_guard S F hF i j P x w b hb
+  unfold missing at hc
+  cases c <;> split_ifs at hc with he <;> simp_all
+
+
+
+
+
+
+
+
+
+
+
+end
+end ThreeBoundMinmaxCandidates
+
+
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/- Actual high candidates of the Boolean construction admit one of the
+kernel-covered sorted tournament records. -/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxRecDepth 10000
+set_option linter.unusedSectionVars false
+
+namespace ThreeBoundActualEnumeration
+open ThreeBoundWitness ThreeBoundProfiles ThreeBoundGradedCandidates ThreeBoundGradedCover
+open scoped Classical BigOperators
+noncomputable section
+
+
+
+variable {L I V : Type} [LinearOrder L] [Fintype I] [Fintype V]
+
+@[simp] theorem guardFailures_eq (S : Stage L I V) (F : L → (I → Bool) → Bool)
+    (j : L) (x : ((V × Bool) × I) → Bool) (v : V) :
+    TournamentHighRows.guardFailures S.Adj S.label
+      (fun z => F (S.guard j) z = true) (child x) v = failed S F j x v := by
+  ext w
+  simp [TournamentHighRows.guardFailures,failed]
+
+
+
+
+
+
+
+end
+end ThreeBoundActualEnumeration
+
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/- Candidate prefix caps for symmetric min/max targets. -/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option maxRecDepth 20000
+set_option linter.unusedSectionVars false
+
+namespace ThreeBoundMinmaxCaps
+open _root_.OAI.Paper320 _root_.Sensitivity213981Formal.OAI.Paper320 ThreeBoundWitness ThreeBoundProfiles ThreeBoundPositive
+open ThreeBoundMinmaxTransfer ThreeBoundMinmaxCandidates ThreeBoundPrefixCaps
+open ThreeBoundActualEnumeration (guardFailures_eq)
+open scoped Classical BigOperators
+noncomputable section
+variable {L I V : Type} [LinearOrder L] [Fintype I] [Fintype V]
+
+theorem prefix_partner (S : Stage L I V) (F : L → (I → Bool) → Bool)
+    (hF : Nested F) (i j : L) (P : PairData S F i j)
+    (x : ((V × Bool) × I) → Bool) (q : ℕ) (w : V)
+    (hw : w ∈ targetPrefix S F P.strongLower P.strongUpper j x q)
+    (c : Bool) (hc : c ≠ missing S F j x w) :
+    F (S.guard j) (child x w c)=true := by
+  obtain ⟨b,hb,ht⟩ := (Finset.mem_filter.mp hw).2
+  exact target_partner_guard S F hF i j P x w b ht c hc
+
+theorem prefix_guard_budget (S : Stage L I V) (F : L → (I → Bool) → Bool)
+    (t u : ℕ → L) (j : L) (x : ((V × Bool) × I) → Bool)
+    (q : ℕ) (v : V) (hv : v ∈ targetPrefix S F t u j x q) :
+    (TournamentHighRows.guardFailures S.Adj S.label (fun z => F (S.guard j) z = true)
+      (child x) v).card ≤  q := by
+  rw [guardFailures_eq]
+  obtain ⟨b,hb,ht⟩ := (Finset.mem_filter.mp hv).2
+  exact ht.2.1.le.trans hb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+end ThreeBoundMinmaxCaps
+
+
+
+end
+end Sensitivity213981Formal
+
+namespace Sensitivity213981Formal
+section
+/- Converted external failures give exact averaged marker budgets for the
+negative target prefixes.  Every selected marker is an actual guard source. -/
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxRecDepth 30000
+set_option linter.unusedSectionVars false
+
+namespace ThreeBoundRankNumeric
+open _root_.OAI.Paper320 _root_.Sensitivity213981Formal.OAI.Paper320 ThreeBoundWitness ThreeBoundProfiles ThreeBoundPositive
+open ThreeBoundMinmaxTransfer ThreeBoundMinmaxCandidates ThreeBoundMinmaxCaps
+open ThreeBoundRankMarkers CandidateCoherence TournamentHighRows
+open scoped Classical BigOperators
+noncomputable section
+variable {n : ℕ} {I V : Type} [Fintype I] [Fintype V]
+
+
+
+theorem negativePrefix_subset_negative (S : Stage (Fin n) I V)
+    (F : Fin n → (I → Bool) → Bool) (t u : ℕ → Fin n) (j : Fin n)
+    (x : ((V × Bool) × I) → Bool) (q : ℕ) :
+    negativePrefix S F t u j x q ⊆ negativeTargets S F t u j x := by
+  intro w hw
+  obtain ⟨ht,hh⟩ := Finset.mem_sdiff.mp hw
+  obtain ⟨b,hb,ht⟩ := (Finset.mem_filter.mp ht).2
+  exact Finset.mem_sdiff.mpr ⟨Finset.mem_filter.mpr ⟨Finset.mem_univ _,b,ht.1,ht⟩,hh⟩
+
+theorem guardSources_subset_high (S : Stage (Fin n) I V)
+    (F : Fin n → (I → Bool) → Bool) (t u : ℕ → Fin n) (j : Fin n)
+    (x : ((V × Bool) × I) → Bool) :
+    guardSources S F t u j x ⊆ highHeads S F t u j x := by
+  intro w hw
+  exact Finset.mem_filter.mpr ⟨Finset.mem_univ _,Or.inr (Finset.mem_filter.mp hw).2⟩
+
+
+
+theorem prefix_mismatch_le_converted (S : Stage (Fin n) I V)
+    (F : Fin n → (I → Bool) → Bool) (hF : Nested F)
+    (i j : Fin n) (P : PairData S F i j) (x : ((V × Bool) × I) → Bool) (q : ℕ) (v : V) :
+    (mismatch S.Adj S.label (negativePrefix S F P.strongLower P.strongUpper j x q)
+      (missing S F j x) v).card ≤ 
+      (ThreeBoundAccounting.externalHeads S F j x (highHeads S F P.strongLower P.strongUpper j x) v ∩
+        negativeTargets S F P.strongLower P.strongUpper j x).card := by
+  rw [← negative_mismatch_eq S F hF i j P x v]
+  exact Finset.card_le_card (mismatch_mono S.Adj S.label _ _
+    (negativePrefix_subset_negative S F _ _ j x q) (missing S F j x) v)
+
+
+
+
+
+theorem actual_dominator_converted_cap (S : Stage (Fin n) I V)
+    (hR : IsTournament S.Adj) (F : Fin n → (I → Bool) → Bool) (hF : Nested F)
+    (i j : Fin n) (P : PairData S F i j) (x : ((V × Bool) × I) → Bool) (m a : ℕ)
+    (hm : m ≤  (guardSources S F P.strongLower P.strongUpper j x).card)
+    (hcap : ResidualCaps.DominatorCardBound S.Adj S.label m a) :
+    (negativePrefix S F P.strongLower P.strongUpper j x 0).card ≤  a-1+
+      allowance m (convertedCount S F P.strongLower P.strongUpper j x)
+        (guardSources S F P.strongLower P.strongUpper j x).card := by
+  let H := highHeads S F P.strongLower P.strongUpper j x
+  let G := guardSources S F P.strongLower P.strongUpper j x
+  let N := negativeTargets S F P.strongLower P.strongUpper j x
+  let A := negativePrefix S F P.strongLower P.strongUpper j x 0
+  let weight := fun v => (ThreeBoundAccounting.externalHeads S F j x H v ∩ N).card
+  obtain ⟨M,hMG,hM,hsum⟩ := exists_markers_allowance G weight m hm
+  have hMH : M ⊆ H := fun v hv => guardSources_subset_high S F _ _ j x (hMG hv)
+  have hdis : Disjoint A H := Finset.disjoint_left.mpr (fun v hv hh => (Finset.mem_sdiff.mp hv).2 hh)
+  have hc := dominator_mismatch_cap S.Adj hR S.label (fun z => F (S.guard j) z=true)
+    (child x) A H M hdis hMH (missing S F j x) m a hM hcap
+    (fun w hw c hne => prefix_partner S F hF i j P x 0 w (Finset.mem_sdiff.mp hw).1 c hne)
+    (high_guards_true S F hF i j P x)
+    (fun w hw => Nat.eq_zero_of_le_zero
+      (prefix_guard_budget S F P.strongLower P.strongUpper j x 0 w (Finset.mem_sdiff.mp hw).1))
+  have hw : (∑ v ∈ M, (mismatch S.Adj S.label A (missing S F j x) v).card) ≤  ∑ v ∈ M, weight v := by
+    exact Finset.sum_le_sum (fun v _ => prefix_mismatch_le_converted S F hF i j P x 0 v)
+  exact hc.trans (Nat.add_le_add_left (hw.trans hsum) _)
+
+
+
+
+
+end
+end ThreeBoundRankNumeric
+
+
+
+
+
+
+end
+end Sensitivity213981Formal
+
+set_option autoImplicit false
+set_option maxHeartbeats 0
+set_option maxRecDepth 200000
+theorem solution :
+∀ {n : Nat} {I V : Type} [Fintype.{0} I] [inst : Fintype.{0} V]
+  (S : Sensitivity213981Formal.ThreeBoundWitness.Stage (Fin n) I V)
+  (hR :
+    @Sensitivity213981Formal.TournamentHighRows.IsTournament V
+      (@Sensitivity213981Formal.ThreeBoundWitness.Stage.Adj (Fin n) I V S))
+  (F : Fin n → (I → Bool) → Bool)
+  (hF :
+    @Sensitivity213981Formal.ThreeBoundProfiles.Nested (Fin n) I
+      (@PartialOrder.toPreorder.{0} (Fin n) (@Fin.instPartialOrder n)) F)
+  (i j : Fin n)
+  (P :
+    @Sensitivity213981Formal.ThreeBoundMinmaxTransfer.PairData (Fin n) I V
+      (@PartialOrder.toPreorder.{0} (Fin n) (@Fin.instPartialOrder n)) S F i j)
+  (x : Prod.{0, 0} (Prod.{0, 0} V Bool) I → Bool) (m a : Nat)
+  (hm :
+    @LE.le.{0} Nat instLENat m
+      (@Finset.card.{0} V
+        (@Sensitivity213981Formal.ThreeBoundMinmaxCandidates.guardSources (Fin n) I V inst S F
+          (@Sensitivity213981Formal.ThreeBoundMinmaxTransfer.PairData.strongLower (Fin n) I V
+            (@PartialOrder.toPreorder.{0} (Fin n) (@Fin.instPartialOrder n)) S F i j P)
+          (@Sensitivity213981Formal.ThreeBoundMinmaxTransfer.PairData.strongUpper (Fin n) I V
+            (@PartialOrder.toPreorder.{0} (Fin n) (@Fin.instPartialOrder n)) S F i j P)
+          j x)))
+  (hcap :
+    @Sensitivity213981Formal.ResidualCaps.DominatorCardBound V
+      (fun (a b : V) => Classical.propDecidable (@Eq.{1} V a b))
+      (@Sensitivity213981Formal.ThreeBoundWitness.Stage.Adj (Fin n) I V S)
+      (@Sensitivity213981Formal.ThreeBoundWitness.Stage.label (Fin n) I V S) m a),
+  @LE.le.{0} Nat instLENat
+    (@Finset.card.{0} V
+      (@Sensitivity213981Formal.ThreeBoundRankNumeric.negativePrefix n I V inst S F
+        (@Sensitivity213981Formal.ThreeBoundMinmaxTransfer.PairData.strongLower (Fin n) I V
+          (@PartialOrder.toPreorder.{0} (Fin n) (@Fin.instPartialOrder n)) S F i j P)
+        (@Sensitivity213981Formal.ThreeBoundMinmaxTransfer.PairData.strongUpper (Fin n) I V
+          (@PartialOrder.toPreorder.{0} (Fin n) (@Fin.instPartialOrder n)) S F i j P)
+        j x (@OfNat.ofNat.{0} Nat (nat_lit 0) (instOfNatNat (nat_lit 0)))))
+    (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat)
+      (@HSub.hSub.{0, 0, 0} Nat Nat Nat (@instHSub.{0} Nat instSubNat) a
+        (@OfNat.ofNat.{0} Nat (nat_lit 1) (instOfNatNat (nat_lit 1))))
+      (Sensitivity213981Formal.ThreeBoundRankNumeric.allowance m
+        (@Sensitivity213981Formal.ThreeBoundRankNumeric.convertedCount n I V inst S F
+          (@Sensitivity213981Formal.ThreeBoundMinmaxTransfer.PairData.strongLower (Fin n) I V
+            (@PartialOrder.toPreorder.{0} (Fin n) (@Fin.instPartialOrder n)) S F i j P)
+          (@Sensitivity213981Formal.ThreeBoundMinmaxTransfer.PairData.strongUpper (Fin n) I V
+            (@PartialOrder.toPreorder.{0} (Fin n) (@Fin.instPartialOrder n)) S F i j P)
+          j x)
+        (@Finset.card.{0} V
+          (@Sensitivity213981Formal.ThreeBoundMinmaxCandidates.guardSources (Fin n) I V inst S F
+            (@Sensitivity213981Formal.ThreeBoundMinmaxTransfer.PairData.strongLower (Fin n) I V
+              (@PartialOrder.toPreorder.{0} (Fin n) (@Fin.instPartialOrder n)) S F i j P)
+            (@Sensitivity213981Formal.ThreeBoundMinmaxTransfer.PairData.strongUpper (Fin n) I V
+              (@PartialOrder.toPreorder.{0} (Fin n) (@Fin.instPartialOrder n)) S F i j P)
+            j x)))) := @Sensitivity213981Formal.ThreeBoundRankNumeric.actual_dominator_converted_cap

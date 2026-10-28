@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LagrangeRank_Debias_theorem_3_1
 -- name    : LagrangeRank.Debias.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:47.725484+00:00
 -- url     : https://prove2.me/theorems/f285108c-0b5c-4240-ba46-3b09dd9bd128

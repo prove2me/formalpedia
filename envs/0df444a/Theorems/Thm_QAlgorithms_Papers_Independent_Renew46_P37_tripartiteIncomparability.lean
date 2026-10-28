@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P37_tripartiteIncomparability
 -- name    : QAlgorithms.Papers.Independent.Renew46.P37.tripartiteIncomparability
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T22:21:10.809188+00:00
 -- url     : https://prove2.me/theorems/cda46882-5d86-4855-a5c9-e5a1d00aaca3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianMatrix_incomplete_gamma_recurrence
 -- name    : GaussianMatrix.incomplete_gamma_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T07:32:49.353195+00:00
 -- url     : https://prove2.me/theorems/1856f72b-0d62-4ba5-842f-14a6afa432c6

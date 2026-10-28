@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntermediateDisorder_PointToLine_partitionFunction_tendstoInDistribution_chaos
 -- name    : IntermediateDisorder.PointToLine.partitionFunction_tendstoInDistribution_chaos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:24:53.250286+00:00
 -- url     : https://prove2.me/theorems/65ecb5d3-897d-47ef-b7cb-d4eb6287418e

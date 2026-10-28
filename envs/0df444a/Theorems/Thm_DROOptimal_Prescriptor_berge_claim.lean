@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROOptimal_Prescriptor_berge_claim
 -- name    : DROOptimal.Prescriptor.berge_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:12:42.335165+00:00
 -- url     : https://prove2.me/theorems/f18b5811-877c-4e5b-8fab-0d8ca7ea562e

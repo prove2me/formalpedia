@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_MigrationDynamics_stationary_time_reversal
 -- name    : KellyStochasticNetworks.MigrationDynamics.stationary_time_reversal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:46:43.260008+00:00
 -- url     : https://prove2.me/theorems/a6943dfc-cc0b-4447-a4b9-5a7e7b49fd4d

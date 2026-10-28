@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QMaxCutBeyond.TwoQubit.eq_10
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:10:35.416578+00:00
 -- url     : https://prove2.me/submissions/7e4ac4d3-255e-4b4b-af84-9c119d5ff45b
 

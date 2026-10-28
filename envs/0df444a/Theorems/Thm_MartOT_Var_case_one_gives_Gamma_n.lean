@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Var_case_one_gives_Gamma_n
 -- name    : MartOT.Var.case_one_gives_Gamma_n
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:10.348746+00:00
 -- url     : https://prove2.me/theorems/a1f57292-c9cc-4c25-9a44-f2e5e38e3d81

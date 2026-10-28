@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_jordan_minimum
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.jordan_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:46:49.037253+00:00
 -- url     : https://prove2.me/theorems/32a214be-d8f4-4ef9-b7ea-065fa222bd8c

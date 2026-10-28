@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastComp_IELF_elf_uniform_transfer
 -- name    : ForecastComp.IELF.elf_uniform_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:32.853736+00:00
 -- url     : https://prove2.me/theorems/a6befb2a-b166-4825-9ec5-b52964a1e7d1

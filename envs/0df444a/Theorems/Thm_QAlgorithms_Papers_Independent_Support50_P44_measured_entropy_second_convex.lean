@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P44_measured_entropy_second_convex
 -- name    : QAlgorithms.Papers.Independent.Support50.P44.measured_entropy_second_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:02:03.022845+00:00
 -- url     : https://prove2.me/theorems/60a5775d-01b9-4e4b-8c80-2b1f63862eff

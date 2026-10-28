@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_lemma5_tail_antitone
 -- name    : PersonalizedAssortment.IB.lemma5_tail_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:45:13.797193+00:00
 -- url     : https://prove2.me/theorems/791ccd05-0e69-4580-a1ff-cffc3147bc70

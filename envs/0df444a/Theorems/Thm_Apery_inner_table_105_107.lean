@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_inner_table_105_107
 -- name    : Apery.inner_table_105_107
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-12T21:47:16.9622+00:00
 -- url     : https://prove2.me/theorems/62cb0177-4957-48d6-a0de-baef2dc5ed5c

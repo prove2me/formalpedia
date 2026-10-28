@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatkhullinPolyak_Flow_flow_integral_bound
 -- name    : FatkhullinPolyak.Flow.flow_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:47:12.990452+00:00
 -- url     : https://prove2.me/theorems/76e9879e-5e40-4d4a-9652-d545ebdb20a9

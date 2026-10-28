@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PandemicInfo_Inequality_Ktil_closed_form
 -- name    : PandemicInfo.Inequality.Ktil_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:34:06.028802+00:00
 -- url     : https://prove2.me/theorems/bc11ebaf-ad51-4578-9e03-81b0dc7d72b2

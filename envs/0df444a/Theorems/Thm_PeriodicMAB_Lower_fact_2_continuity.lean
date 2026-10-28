@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicMAB_Lower_fact_2_continuity
 -- name    : PeriodicMAB.Lower.fact_2_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:28.845673+00:00
 -- url     : https://prove2.me/theorems/8ef38d9f-c7b6-4b3d-9937-92c245272166

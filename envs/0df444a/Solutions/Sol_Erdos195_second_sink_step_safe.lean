@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.second_sink_step_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T00:34:49.600796+00:00
 -- url     : https://prove2.me/submissions/ca1a9ebb-9c64-41d3-b4cc-cb4fa219605d
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.photonThinning
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:20:50.264254+00:00
 -- url     : https://prove2.me/submissions/0e65d3c0-49ab-47ed-b850-66568976d213
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_density_coordinates_convex_hull
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.density_coordinates_convex_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:43:19.137825+00:00
 -- url     : https://prove2.me/theorems/15e6e650-1347-4f4b-b313-59173512af0e

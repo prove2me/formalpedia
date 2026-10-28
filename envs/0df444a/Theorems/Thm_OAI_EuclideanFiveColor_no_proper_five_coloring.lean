@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EuclideanFiveColor_no_proper_five_coloring
 -- name    : OAI.EuclideanFiveColor.no_proper_five_coloring
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:38.055335+00:00
 -- url     : https://prove2.me/theorems/d0806a88-b280-450f-bac9-dfaedfcb4936

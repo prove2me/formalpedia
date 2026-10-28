@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for DissipativePrep.Unique.dark_stationary
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:42:57.370119+00:00
 -- url     : https://prove2.me/submissions/39595a88-bf49-42c3-9f6b-290d84d3eedd
 

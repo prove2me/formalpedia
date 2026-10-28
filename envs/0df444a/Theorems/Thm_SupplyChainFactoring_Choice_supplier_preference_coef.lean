@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyChainFactoring_Choice_supplier_preference_coef
 -- name    : SupplyChainFactoring.Choice.supplier_preference_coef
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:25:42.252068+00:00
 -- url     : https://prove2.me/theorems/2f275d77-4cc3-4186-a54d-bcdb297befcf

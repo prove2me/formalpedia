@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.prefix_safe_iff_closed_cut
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T01:22:57.577492+00:00
 -- url     : https://prove2.me/submissions/c5786bbb-841d-4165-aa0e-52c30a579e52
 

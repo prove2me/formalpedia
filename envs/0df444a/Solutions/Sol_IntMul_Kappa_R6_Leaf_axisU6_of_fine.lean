@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R6.Leaf.axisU6_of_fine
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:33:54.090411+00:00
 -- url     : https://prove2.me/submissions/ef2bb882-9030-41bb-8753-6f9658417514
 

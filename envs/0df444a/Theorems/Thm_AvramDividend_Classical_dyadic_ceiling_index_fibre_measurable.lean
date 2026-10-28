@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_dyadic_ceiling_index_fibre_measurable
 -- name    : AvramDividend.Classical.dyadic_ceiling_index_fibre_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T21:16:33.0467+00:00
 -- url     : https://prove2.me/theorems/c09e6bad-9142-4c9c-9d4d-764cd63f2236

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPSTAsync_Linearity_linear_one_of_linear_n
 -- name    : MPSTAsync.Linearity.linear_one_of_linear_n
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:07:37.667443+00:00
 -- url     : https://prove2.me/theorems/3768bded-a237-4571-b7d2-49feec599c02

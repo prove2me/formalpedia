@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_not_isNoetherianRing_adeleRing
 -- name    : NoetherianScheme.not_isNoetherianRing_adeleRing
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-10T22:41:53.810826+00:00
 -- url     : https://prove2.me/theorems/055110ea-de00-431a-8495-7cf67ab6b905

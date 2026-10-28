@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Blueprint.eq_3_action
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:36:34.190173+00:00
 -- url     : https://prove2.me/submissions/357819b8-8f95-4b36-baac-576fb98c3494
 

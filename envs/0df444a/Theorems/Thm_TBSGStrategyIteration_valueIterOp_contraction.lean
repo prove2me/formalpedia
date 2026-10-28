@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TBSGStrategyIteration_valueIterOp_contraction
 -- name    : TBSGStrategyIteration.valueIterOp_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T01:05:44.029189+00:00
 -- url     : https://prove2.me/theorems/473fa9d4-4a89-4c39-942c-ba9ed3d64006

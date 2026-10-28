@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_alphaAdditivity
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.alphaAdditivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:07:24.414274+00:00
 -- url     : https://prove2.me/theorems/e1c81ca5-fa15-443d-a8d0-097df2df8728

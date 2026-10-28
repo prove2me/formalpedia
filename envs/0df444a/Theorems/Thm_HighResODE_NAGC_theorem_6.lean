@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_NAGC_theorem_6
 -- name    : HighResODE.NAGC.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:26:17.932301+00:00
 -- url     : https://prove2.me/theorems/66767747-7d55-4aed-8ec5-2d6d277ddfa1

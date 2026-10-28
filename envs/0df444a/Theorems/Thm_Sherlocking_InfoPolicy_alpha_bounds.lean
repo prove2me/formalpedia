@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherlocking_InfoPolicy_alpha_bounds
 -- name    : Sherlocking.InfoPolicy.alpha_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:27.781988+00:00
 -- url     : https://prove2.me/theorems/59b4d94f-4762-4dca-838c-39b5c146a576

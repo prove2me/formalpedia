@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_prev_root_mul
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.prev_root_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:51:21.682486+00:00
 -- url     : https://prove2.me/theorems/28e40d00-ac0d-4d7f-bc74-a920644fe925

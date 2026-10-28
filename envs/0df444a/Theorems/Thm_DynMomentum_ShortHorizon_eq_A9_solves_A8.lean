@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynMomentum_ShortHorizon_eq_A9_solves_A8
 -- name    : DynMomentum.ShortHorizon.eq_A9_solves_A8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:46:30.773986+00:00
 -- url     : https://prove2.me/theorems/2bdfdee1-0ac4-4d03-851e-9f1d73cdb1cf

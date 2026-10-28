@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReputationLies_Matching_eq_9_lying_condition
 -- name    : ReputationLies.Matching.eq_9_lying_condition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:19:54.005051+00:00
 -- url     : https://prove2.me/theorems/922cae98-16b1-427a-b6e3-f7930fe37259

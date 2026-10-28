@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P04_linear_bsc_css_conversion
 -- name    : QAlgorithms.Papers.Independent.Support50.P04.linear_bsc_css_conversion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:43:22.042615+00:00
 -- url     : https://prove2.me/theorems/24c983ad-cc40-48f6-9467-1280dc277745

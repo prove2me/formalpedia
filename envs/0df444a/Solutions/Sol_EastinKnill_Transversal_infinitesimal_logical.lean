@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for EastinKnill.Transversal.infinitesimal_logical
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:53:19.296516+00:00
 -- url     : https://prove2.me/submissions/b0cbfb88-a660-47eb-98c5-3d373ea35217
 

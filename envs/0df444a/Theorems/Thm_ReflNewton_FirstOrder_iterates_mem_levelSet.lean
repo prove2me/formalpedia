@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReflNewton_FirstOrder_iterates_mem_levelSet
 -- name    : ReflNewton.FirstOrder.iterates_mem_levelSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:40:18.756445+00:00
 -- url     : https://prove2.me/theorems/282a5e54-bedc-491a-851d-a7d260cb161d

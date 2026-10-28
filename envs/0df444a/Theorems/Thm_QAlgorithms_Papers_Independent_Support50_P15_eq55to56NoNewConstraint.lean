@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P15_eq55to56NoNewConstraint
 -- name    : QAlgorithms.Papers.Independent.Support50.P15.eq55to56NoNewConstraint
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:51:37.998717+00:00
 -- url     : https://prove2.me/theorems/44a06d36-7f34-455f-8f41-d9fc961b9721

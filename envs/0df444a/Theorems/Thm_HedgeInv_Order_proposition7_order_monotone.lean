@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HedgeInv_Order_proposition7_order_monotone
 -- name    : HedgeInv.Order.proposition7_order_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:51.196581+00:00
 -- url     : https://prove2.me/theorems/561e7ef3-9f29-4138-ba17-d06546660bb4

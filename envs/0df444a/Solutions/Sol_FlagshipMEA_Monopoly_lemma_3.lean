@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FlagshipMEA.Monopoly.lemma_3
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:19:43.953354+00:00
 -- url     : https://prove2.me/submissions/4b014a1e-6725-4800-bfe2-143a8ff8edb3
 

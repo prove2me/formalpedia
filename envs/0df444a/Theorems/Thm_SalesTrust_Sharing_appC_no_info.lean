@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesTrust_Sharing_appC_no_info
 -- name    : SalesTrust.Sharing.appC_no_info
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:14:57.591328+00:00
 -- url     : https://prove2.me/theorems/67629eeb-0192-418b-9bb8-c309279e6900

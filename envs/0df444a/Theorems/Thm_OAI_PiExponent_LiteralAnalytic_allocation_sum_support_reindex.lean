@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_allocation_sum_support_reindex
 -- name    : OAI.PiExponent.LiteralAnalytic.allocation_sum_support_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:20:31.297407+00:00
 -- url     : https://prove2.me/theorems/6afe8824-98d0-4f98-a82b-9ec336acd44e

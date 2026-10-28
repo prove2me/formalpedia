@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefMNLPricing_Myopic_revenue_monotone
 -- name    : RefMNLPricing.Myopic.revenue_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:06.475928+00:00
 -- url     : https://prove2.me/theorems/10497f6f-ab44-49d2-a2c7-610377959f80

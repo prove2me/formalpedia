@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Asymptotic_kl_ge_of_eq_11
 -- name    : ExploreFirst.Asymptotic.kl_ge_of_eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:24:48.239999+00:00
 -- url     : https://prove2.me/theorems/d2ca5304-054c-45f3-a893-d07a720298cb

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.conditioned_alon
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:38.845506+00:00
 -- url     : https://prove2.me/submissions/7adc0920-56d8-4111-9121-e9369ab2450c
 

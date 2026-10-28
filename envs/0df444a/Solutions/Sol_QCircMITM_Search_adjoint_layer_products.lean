@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QCircMITM.Search.adjoint_layer_products
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:40:24.994979+00:00
 -- url     : https://prove2.me/submissions/b05cef99-0742-4523-8c34-e56192624a5a
 

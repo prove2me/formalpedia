@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalUtility_satiation_point_is_maximum
 -- name    : MarginalUtility.satiation_point_is_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:24.795761+00:00
 -- url     : https://prove2.me/theorems/cfaa60c6-7b12-427e-9124-1af2c18b2aef

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_H1_no_even_only_extension
 -- name    : Erdos195.H1_no_even_only_extension
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T16:09:51.848883+00:00
 -- url     : https://prove2.me/theorems/2613e411-cb3f-434c-b766-204a87cf2d6e
 -- title:

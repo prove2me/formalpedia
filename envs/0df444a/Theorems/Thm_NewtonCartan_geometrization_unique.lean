@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_geometrization_unique
 -- name    : NewtonCartan.geometrization_unique
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:37:45.028423+00:00
 -- url     : https://prove2.me/theorems/9d3dd696-13b0-4864-80ca-7521fe6638b7
 -- title:

@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_D1Bound5_PairLightAdaptivePrepared10_right_prefix_003_part00_checked
+-- name    : D1Bound5.PairLightAdaptivePrepared10.right_prefix_003_part00_checked
+-- status  : Proved
+-- author  : @tp
+-- created : 2026-10-24T03:05:51.554089+00:00
+-- url     : https://prove2.me/theorems/bbf2d96c-f255-48d9-b314-a6d8a10a4960
+-- title:
+--   Selected-floor prefix certificate for prepared pair 10, right list, part 0
+-- statement:
+--   For prepared pair 10, right list, part 0, the selected-floor certificate succeeds for at most `20` head rows of the supplied cached vertex list. Each selected head is checked against its complete remaining tail, including vertices beyond the end of this chunk. The quadratic coordinate parameters are τ = 0 and ν = 1, and the sieve is `PairLightPrepared10.sieve`. Original heads 255 through 274, retaining complete original tails.
+-- source:
+--   D1Bound5/SmallPairLightAdaptiveRight10_003Part00.lean, lines 11-16, SHA-256 99ae70916051fde2a126c2a6ccef66ba112a9c9f8d7a0304284cd996e2320b89. Project: https://github.com/tomislav-math/d1-bound5-lean
+
+import Init
+import Definitions.Def_D1Bound5_PairLightArithmeticChunks_Definitions
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData10RightCached_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData10RightRows_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData10Sieve_Definitions
+
+section
+namespace D1Bound5.PairLightAdaptivePrepared10
+set_option autoImplicit false
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+
+theorem _root_.D1Bound5.PairLightAdaptivePrepared10.right_prefix_003_part00_checked :
+    pairLightSelectedFloorPrefixBool 0 1 PairLightPrepared10.sieve 20
+      (PairLightPrepared10.rightCached.drop 255)
+      (PairLightPrepared10.rightRows.drop 255) = true := by sorry
+
+end D1Bound5.PairLightAdaptivePrepared10
+end

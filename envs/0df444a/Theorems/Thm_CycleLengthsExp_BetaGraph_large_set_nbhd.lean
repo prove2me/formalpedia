@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleLengthsExp_BetaGraph_large_set_nbhd
 -- name    : CycleLengthsExp.BetaGraph.large_set_nbhd
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:24:28.770361+00:00
 -- url     : https://prove2.me/theorems/978336ce-d32c-46e3-b04f-7e83153b6618

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P22_example12
 -- name    : QAlgorithms.Papers.Independent.Next46.P22.example12
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T13:45:32.203339+00:00
 -- url     : https://prove2.me/theorems/b9049698-9235-41d8-b2e4-d5b02e6988bd

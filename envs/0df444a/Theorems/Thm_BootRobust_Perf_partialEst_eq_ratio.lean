@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_Perf_partialEst_eq_ratio
 -- name    : BootRobust.Perf.partialEst_eq_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:14.918972+00:00
 -- url     : https://prove2.me/theorems/53b869f8-e5aa-41b4-bada-1d8e187db9ac

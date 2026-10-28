@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_Monotone_prefix_T_bound
 -- name    : BudgetClock.Monotone.prefix_T_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:25.602067+00:00
 -- url     : https://prove2.me/theorems/75497ee5-c56c-4499-9de3-3e75824e3d69

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_subsetSum_finite
 -- name    : Erdos624.subsetSum_finite
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:41:07.46018+00:00
 -- url     : https://prove2.me/theorems/352b8e9d-f429-4433-9f40-d943222d7721
 -- title:

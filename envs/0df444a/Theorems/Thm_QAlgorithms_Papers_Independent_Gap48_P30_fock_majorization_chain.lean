@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P30_fock_majorization_chain
 -- name    : QAlgorithms.Papers.Independent.Gap48.P30.fock_majorization_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:17:49.211795+00:00
 -- url     : https://prove2.me/theorems/bcbc8970-8c39-4329-9c2f-2a90319a7113

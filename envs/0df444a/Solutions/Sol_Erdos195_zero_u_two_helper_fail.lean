@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.zero_u_two_helper_fail
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:52:34.827257+00:00
 -- url     : https://prove2.me/submissions/d272cd33-3822-4337-92eb-fd8c6203a775
 

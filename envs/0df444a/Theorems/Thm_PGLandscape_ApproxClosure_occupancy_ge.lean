@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PGLandscape_ApproxClosure_occupancy_ge
 -- name    : PGLandscape.ApproxClosure.occupancy_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:27:51.299042+00:00
 -- url     : https://prove2.me/theorems/faa3749b-cc59-4276-8146-f0be4ef7a09d

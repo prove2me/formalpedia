@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Intersecting_gammaStarIS_posteriors
 -- name    : SCInfoDesign.Intersecting.gammaStarIS_posteriors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:56.738012+00:00
 -- url     : https://prove2.me/theorems/117736a5-4a96-4fc5-b358-36ae12a0c69f

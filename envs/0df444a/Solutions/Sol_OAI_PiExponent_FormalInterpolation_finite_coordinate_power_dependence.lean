@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.finite_coordinate_power_dependence
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-23T16:49:37.439796+00:00
 -- url     : https://prove2.me/submissions/f57b6b13-b318-43f7-9363-62114ce8213d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Complex.Basic
 import Mathlib.RingTheory.MvPolynomial.WeightedHomogeneous

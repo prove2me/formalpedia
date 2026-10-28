@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_no_polynomial_ranking
 -- name    : Erdos261.no_polynomial_ranking
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:09.5714+00:00
 -- url     : https://prove2.me/theorems/f6ca2662-c18e-4982-9025-314cc9f6b495
 -- title:

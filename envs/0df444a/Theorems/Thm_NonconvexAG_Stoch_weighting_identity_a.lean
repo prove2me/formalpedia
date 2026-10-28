@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_Stoch_weighting_identity_a
 -- name    : NonconvexAG.Stoch.weighting_identity_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:23:07.120307+00:00
 -- url     : https://prove2.me/theorems/1c186c9c-1108-4742-8a93-5772cf3de313

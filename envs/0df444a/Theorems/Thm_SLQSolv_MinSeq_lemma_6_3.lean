@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLQSolv_MinSeq_lemma_6_3
 -- name    : SLQSolv.MinSeq.lemma_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:18:08.907935+00:00
 -- url     : https://prove2.me/theorems/dd09237d-17d6-4b66-8498-133a40afa7dd

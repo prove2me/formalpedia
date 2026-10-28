@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_safe_flip_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:35:04.9447+00:00
 -- url     : https://prove2.me/submissions/922bd4f9-5063-40d7-95c6-3a07fc475e33
 

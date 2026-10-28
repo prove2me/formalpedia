@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_burau_rho_mul_Sm_of_L_rule
 -- name    : burau_rho_mul_Sm_of_L_rule
--- status  : Open
+-- status  : Proved
 -- author  : @lt9
 -- created : 2026-10-01T06:46:26.417179+00:00
 -- url     : https://prove2.me/theorems/dedcc384-fc11-4f21-87db-123f56b5f129

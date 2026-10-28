@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P43_table_information_values
 -- name    : QAlgorithms.Papers.Independent.Support50.P43.table_information_values
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:34:35.563554+00:00
 -- url     : https://prove2.me/theorems/0487a9c3-54d9-45b4-b51d-8e571b07863e

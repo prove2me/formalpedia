@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.WL.injective_phi_one_wl_step
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:52:45.698955+00:00
 -- url     : https://prove2.me/submissions/a2c521ff-e6e4-4baf-92b0-7fa9ce5dada9
 

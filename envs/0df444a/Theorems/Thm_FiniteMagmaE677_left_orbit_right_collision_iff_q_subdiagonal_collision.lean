@@ -16,6 +16,8 @@
 --
 --   This is the indexed normalization of right-translation collisions on the left orbit: a collision between the orbit points $c_{i+2}$ and $c_{j+2}$ under $z\mapsto z\diamond x$ holds exactly when the corresponding first-subdiagonal $q$-terms coincide. The indices are preserved; no reduction modulo a period is made.
 --
+--   **Prior work.** This follows in one line from Sub-goal 1 support (b), which comes from ETP blueprint Lemma 13.1(iii) with $y=x$ (see (b)).
+--
 --   **Formalization Note** The orbit point $c_n$ is written `(op x)^[n] x`, and the $q$-terms are written out in full. The statement concerns the orbit points with index at least two.
 -- source:
 --   Supporting lemma for the finite E677 to E255 formalization, mission 508ccd7b-8791-4bdf-883c-9a44bd760881; Equational Theories Project blueprint, Chapter 13, https://teorth.github.io/equational_theories/blueprint/677-chapter.html; Bolan et al., arXiv:2512.07087v2, Section 8, Problem 8.1.

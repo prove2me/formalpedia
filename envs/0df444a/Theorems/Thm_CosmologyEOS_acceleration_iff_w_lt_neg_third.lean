@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_acceleration_iff_w_lt_neg_third
 -- name    : CosmologyEOS.acceleration_iff_w_lt_neg_third
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:34:59.650062+00:00
 -- url     : https://prove2.me/theorems/c979e2ca-c716-4ec8-85c8-29c245f9a90d

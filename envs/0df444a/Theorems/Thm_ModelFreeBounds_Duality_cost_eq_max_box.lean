@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModelFreeBounds_Duality_cost_eq_max_box
 -- name    : ModelFreeBounds.Duality.cost_eq_max_box
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:32.477723+00:00
 -- url     : https://prove2.me/theorems/a9da1d7f-a82f-4e73-81f9-673326e6ed8e

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.constant_fibre_contact_localization_no_match
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:48:46.177807+00:00
 -- url     : https://prove2.me/submissions/0e3f16bf-aabe-4fe9-acaa-7437ab424c07
 

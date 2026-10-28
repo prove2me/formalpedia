@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.minus1_batch_safe_released
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T11:09:13.808141+00:00
 -- url     : https://prove2.me/submissions/4ef332e8-b54a-4b00-b306-0b1390cb10b3
 

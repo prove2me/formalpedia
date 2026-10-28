@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BadLocalMin_Smooth_constant_output_eq_20_21
 -- name    : BadLocalMin.Smooth.constant_output_eq_20_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:37:59.105531+00:00
 -- url     : https://prove2.me/theorems/d8372cf4-cf40-4d3d-9641-93876f6e799f

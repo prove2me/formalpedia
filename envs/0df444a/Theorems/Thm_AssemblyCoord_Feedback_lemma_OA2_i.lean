@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssemblyCoord_Feedback_lemma_OA2_i
 -- name    : AssemblyCoord.Feedback.lemma_OA2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:33.676199+00:00
 -- url     : https://prove2.me/theorems/e431a965-c812-47af-8bed-dbb995237f18

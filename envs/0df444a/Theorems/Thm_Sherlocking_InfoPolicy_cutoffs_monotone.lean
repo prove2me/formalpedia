@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherlocking_InfoPolicy_cutoffs_monotone
 -- name    : Sherlocking.InfoPolicy.cutoffs_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:17.777154+00:00
 -- url     : https://prove2.me/theorems/b86bdbf9-277b-43ea-900a-dd0d9e942239

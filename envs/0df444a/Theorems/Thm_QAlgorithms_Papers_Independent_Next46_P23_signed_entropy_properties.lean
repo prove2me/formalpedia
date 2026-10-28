@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_signed_entropy_properties
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.signed_entropy_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:38:18.477925+00:00
 -- url     : https://prove2.me/theorems/317ebcee-58bd-419d-80d0-b4bfdc78ef3b

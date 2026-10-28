@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffNeighbors_Bias_second_partial
 -- name    : DiffNeighbors.Bias.second_partial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:41:27.858319+00:00
 -- url     : https://prove2.me/theorems/e9f3cef6-08b4-4cb7-8950-59b5fe5b2b75

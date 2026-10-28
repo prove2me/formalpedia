@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InvariantSDP.BlockDiag.exists_unique_unit
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:36:01.391872+00:00
 -- url     : https://prove2.me/submissions/677580bf-a8ac-445b-9fac-32e49c492cc9
 

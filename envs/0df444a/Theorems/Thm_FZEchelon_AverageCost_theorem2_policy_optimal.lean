@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FZEchelon_AverageCost_theorem2_policy_optimal
 -- name    : FZEchelon.AverageCost.theorem2_policy_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:42:41.107272+00:00
 -- url     : https://prove2.me/theorems/bcfb1f5a-952b-45ab-9ac4-bfaee2417c40

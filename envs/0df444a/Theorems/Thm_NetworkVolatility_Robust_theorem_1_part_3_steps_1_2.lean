@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkVolatility_Robust_theorem_1_part_3_steps_1_2
 -- name    : NetworkVolatility.Robust.theorem_1_part_3_steps_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:04.159971+00:00
 -- url     : https://prove2.me/theorems/7fe5d62a-bb92-4aae-86fb-78d78ffb1cd3

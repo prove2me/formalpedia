@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FZEchelon_Discounted_theorem1_policy_optimal
 -- name    : FZEchelon.Discounted.theorem1_policy_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:46:21.296101+00:00
 -- url     : https://prove2.me/theorems/3584c93e-0346-4144-91f9-96639fc0c4a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottNoDiscount_Overtake_theorem_7
 -- name    : VeinottNoDiscount.Overtake.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:52:05.026198+00:00
 -- url     : https://prove2.me/theorems/8b97091c-2d26-43df-9781-96afd65d4aab

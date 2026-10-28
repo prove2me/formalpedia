@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_environmentEntropy
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.environmentEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:25:31.351136+00:00
 -- url     : https://prove2.me/theorems/f49a45a1-1c15-41c4-8f54-c75c0060aa07

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_epsLt_star
 -- name    : Erdos195.epsLt_star
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:39:14.061188+00:00
 -- url     : https://prove2.me/theorems/5f59adf4-b2cb-41d0-b984-67c8d6b1913d
 -- title:

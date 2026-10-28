@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProviderGuarantee_Bound_lemma2Value_antitone
 -- name    : ProviderGuarantee.Bound.lemma2Value_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:36.711635+00:00
 -- url     : https://prove2.me/theorems/d95a6dcc-6c6a-41cc-8896-8df331c14f9e

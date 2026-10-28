@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubSuperStoch_AsyncTrack_Mmat_subStochastic
 -- name    : SubSuperStoch.AsyncTrack.Mmat_subStochastic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:43:03.171147+00:00
 -- url     : https://prove2.me/theorems/6c9e9aa9-d72a-47a3-b966-f814ea29b9fe

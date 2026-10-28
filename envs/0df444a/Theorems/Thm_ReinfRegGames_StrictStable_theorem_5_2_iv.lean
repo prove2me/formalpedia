@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReinfRegGames_StrictStable_theorem_5_2_iv
 -- name    : ReinfRegGames.StrictStable.theorem_5_2_iv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:09:00.092987+00:00
 -- url     : https://prove2.me/theorems/95a8c6f3-0308-4246-9512-4c8f06298b3e

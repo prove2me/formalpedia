@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P28_wigner_eckart
 -- name    : QAlgorithms.Papers.Independent.Gap48.P28.wigner_eckart
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:07:39.061728+00:00
 -- url     : https://prove2.me/theorems/41f14219-45da-4be6-95f9-1a3b6a99eb94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_UnitDecomp_theorem4_decomposition
 -- name    : ServiceParts.UnitDecomp.theorem4_decomposition
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:48:42.521622+00:00
 -- url     : https://prove2.me/theorems/8927cc61-bd53-4f19-8e89-6d1d263cf8ab

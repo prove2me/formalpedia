@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P02_pinching_not_ebt
 -- name    : QAlgorithms.Papers.Independent.Independent1.P02.pinching_not_ebt
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:18:29.208092+00:00
 -- url     : https://prove2.me/theorems/d7df3507-eebd-4923-be56-a0535b09bea0

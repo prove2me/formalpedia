@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QMCProduct.HalfApprox.remark_3
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:59:39.238987+00:00
 -- url     : https://prove2.me/submissions/010f57cd-0e79-48c5-9f37-652affbb21ab
 

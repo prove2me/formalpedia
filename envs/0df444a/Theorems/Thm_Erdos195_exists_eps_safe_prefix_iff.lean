@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_exists_eps_safe_prefix_iff
 -- name    : Erdos195.exists_eps_safe_prefix_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T01:52:52.585687+00:00
 -- url     : https://prove2.me/theorems/5ed614f1-cac7-45b5-85db-6c3254fd90b6
 -- title:

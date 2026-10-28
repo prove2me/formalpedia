@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPurchase_Hardness_compare_step
 -- name    : MultiPurchase.Hardness.compare_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:21:58.790201+00:00
 -- url     : https://prove2.me/theorems/aa4203b7-98fd-48e5-9417-b24fa2c2b3c0

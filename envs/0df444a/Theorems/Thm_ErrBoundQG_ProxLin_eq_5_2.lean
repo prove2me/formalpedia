@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErrBoundQG_ProxLin_eq_5_2
 -- name    : ErrBoundQG.ProxLin.eq_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:35.200439+00:00
 -- url     : https://prove2.me/theorems/cc49b2a2-4530-4240-9b0c-b3a78bea5c05

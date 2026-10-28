@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Kakutani1941.FixedPoint.enclosing_simplex
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:37:22.981615+00:00
 -- url     : https://prove2.me/submissions/6cb8a443-2456-4657-b37f-5bbbbe05b408
 

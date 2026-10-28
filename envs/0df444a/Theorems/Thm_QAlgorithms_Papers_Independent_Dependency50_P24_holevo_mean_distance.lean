@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_holevo_mean_distance
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.holevo_mean_distance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:21:11.948989+00:00
 -- url     : https://prove2.me/theorems/22ec3d6d-5c22-4a0c-8976-4e9c54da2e78

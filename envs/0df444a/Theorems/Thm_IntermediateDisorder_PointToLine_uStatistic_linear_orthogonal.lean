@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntermediateDisorder_PointToLine_uStatistic_linear_orthogonal
 -- name    : IntermediateDisorder.PointToLine.uStatistic_linear_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:42:25.551724+00:00
 -- url     : https://prove2.me/theorems/014f3eb1-145c-4d1a-a34a-ca0e5eb82e36

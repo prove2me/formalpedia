@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P02_pureCQ_extreme_cpt_iff
 -- name    : QAlgorithms.Papers.Independent.Independent1.P02.pureCQ_extreme_cpt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:17:29.060234+00:00
 -- url     : https://prove2.me/theorems/6720aed2-44c0-43bd-8943-615e26454db2

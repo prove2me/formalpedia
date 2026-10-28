@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_classical_christoffel_form
 -- name    : NewtonCartan.classical_christoffel_form
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:30:02.882556+00:00
 -- url     : https://prove2.me/theorems/5ca17246-e257-45ed-91b7-74ab3aca0e57
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericBudgets_AlmostEqual_case_1_perturbation
 -- name    : GenericBudgets.AlmostEqual.case_1_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:33:49.461767+00:00
 -- url     : https://prove2.me/theorems/079a3b7d-a643-4d85-b319-de464bcba6dc

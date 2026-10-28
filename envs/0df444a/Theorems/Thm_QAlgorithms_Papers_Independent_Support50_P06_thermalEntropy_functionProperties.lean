@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P06_thermalEntropy_functionProperties
 -- name    : QAlgorithms.Papers.Independent.Support50.P06.thermalEntropy_functionProperties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:32:37.396604+00:00
 -- url     : https://prove2.me/theorems/f42ba50d-b21d-4347-8cb6-b3c123e1df75

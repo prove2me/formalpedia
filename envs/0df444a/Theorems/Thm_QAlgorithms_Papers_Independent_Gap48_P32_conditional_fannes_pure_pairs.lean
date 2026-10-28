@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P32_conditional_fannes_pure_pairs
 -- name    : QAlgorithms.Papers.Independent.Gap48.P32.conditional_fannes_pure_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:41:32.758831+00:00
 -- url     : https://prove2.me/theorems/6f08a12c-19db-4612-b092-4b2caa8e1a60

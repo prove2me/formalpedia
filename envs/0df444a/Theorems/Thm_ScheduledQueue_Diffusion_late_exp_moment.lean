@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Diffusion_late_exp_moment
 -- name    : ScheduledQueue.Diffusion.late_exp_moment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:05.93175+00:00
 -- url     : https://prove2.me/theorems/1506c48c-7541-4e00-ae0a-5841d27b6013

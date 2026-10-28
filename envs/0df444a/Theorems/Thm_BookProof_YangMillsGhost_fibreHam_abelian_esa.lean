@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsGhost_fibreHam_abelian_esa
 -- name    : BookProof.YangMillsGhost.fibreHam_abelian_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-09-18T01:12:16.673021+00:00
 -- url     : https://prove2.me/theorems/46aac5ab-7c48-456e-b388-bfd66364c7e3

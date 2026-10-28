@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPSTAsync_Linearity_proposition_3_13_1
 -- name    : MPSTAsync.Linearity.proposition_3_13_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:07:55.240473+00:00
 -- url     : https://prove2.me/theorems/59ce54d4-c808-48f6-a70b-124941f124b1

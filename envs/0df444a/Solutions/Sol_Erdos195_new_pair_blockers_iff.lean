@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.new_pair_blockers_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:17:44.939368+00:00
 -- url     : https://prove2.me/submissions/138dbf96-83a4-4796-b628-dffda794cdac
 

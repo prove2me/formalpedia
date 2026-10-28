@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Budget_ec2_4_tail_sum_bound
 -- name    : GreedyRS.Budget.ec2_4_tail_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:13.303489+00:00
 -- url     : https://prove2.me/theorems/fd123d73-174a-4038-9286-dd47b2f94ffa

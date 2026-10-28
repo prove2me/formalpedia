@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P43_alternative_bounds
 -- name    : QAlgorithms.Papers.Independent.Support50.P43.alternative_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:32:17.678983+00:00
 -- url     : https://prove2.me/theorems/61818eed-a622-49e5-a9b7-8f398484aedb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKKTBilevel_VP_bp_iff_vp
 -- name    : DirKKTBilevel.VP.bp_iff_vp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:37.108727+00:00
 -- url     : https://prove2.me/theorems/fe9fb321-b392-4179-a95d-b06271d2589b

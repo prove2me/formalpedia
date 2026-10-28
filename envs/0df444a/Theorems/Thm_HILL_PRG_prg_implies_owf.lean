@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HILL_PRG_prg_implies_owf
 -- name    : HILL.PRG.prg_implies_owf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:09.451144+00:00
 -- url     : https://prove2.me/theorems/776fdcf6-3f5d-48ca-9908-98c94fdc226d

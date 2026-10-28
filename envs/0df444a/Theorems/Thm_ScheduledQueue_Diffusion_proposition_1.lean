@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Diffusion_proposition_1
 -- name    : ScheduledQueue.Diffusion.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:10.782605+00:00
 -- url     : https://prove2.me/theorems/7b7498f2-d17a-46b8-9d71-60f8446b3428

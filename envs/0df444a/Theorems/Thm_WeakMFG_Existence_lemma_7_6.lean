@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeakMFG_Existence_lemma_7_6
 -- name    : WeakMFG.Existence.lemma_7_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:11:44.24498+00:00
 -- url     : https://prove2.me/theorems/cdb15567-ea21-4774-abb9-5404bad3ad32

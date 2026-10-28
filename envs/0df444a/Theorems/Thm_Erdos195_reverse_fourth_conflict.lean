@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_reverse_fourth_conflict
 -- name    : Erdos195.reverse_fourth_conflict
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:28.182357+00:00
 -- url     : https://prove2.me/theorems/64e87abc-29bc-4ed0-a9b2-a4b9bbbb62d6
 -- title:

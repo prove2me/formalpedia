@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.not_trackBad_random
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:24.718214+00:00
 -- url     : https://prove2.me/submissions/10e76e55-cf2c-4b69-8800-35a43b5c0cb5
 

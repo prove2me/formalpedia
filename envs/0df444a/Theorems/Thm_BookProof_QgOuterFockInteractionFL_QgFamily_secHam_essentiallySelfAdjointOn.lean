@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockInteractionFL_QgFamily_secHam_essentiallySelfAdjointOn
 -- name    : BookProof.QgOuterFockInteractionFL.QgFamily.secHam_essentiallySelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-21T12:25:10.973843+00:00
 -- url     : https://prove2.me/theorems/82b69d66-3c66-415d-90b0-c51631de9dc1

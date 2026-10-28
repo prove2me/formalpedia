@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SynDigits_Ridge_coefficient_error
 -- name    : SynDigits.Ridge.coefficient_error
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:21.603794+00:00
 -- url     : https://prove2.me/theorems/4194f11a-4e2b-4620-a27d-df593a6796bb

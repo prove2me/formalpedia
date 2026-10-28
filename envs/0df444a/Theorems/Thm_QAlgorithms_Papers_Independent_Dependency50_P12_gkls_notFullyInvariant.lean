@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_gkls_notFullyInvariant
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.gkls_notFullyInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:44:11.339789+00:00
 -- url     : https://prove2.me/theorems/97b6a473-1776-44a9-a1b1-8869b7ed4f40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P01_qubitOutput_dimensionBounds
 -- name    : QAlgorithms.Papers.Independent.Support50.P01.qubitOutput_dimensionBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:22:13.310345+00:00
 -- url     : https://prove2.me/theorems/59307052-3ae0-4d7f-8c91-22e83479224a

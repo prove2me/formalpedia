@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.weightedIdealCurveBound_eventual_surjective_weighted_sections
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:09:14.631118+00:00
 -- url     : https://prove2.me/submissions/d16dcd70-1795-4c71-8a9c-0e57558bd52a
 -- note    : a sketch -- it imports a theorem that is still Open,

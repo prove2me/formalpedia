@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DirectedOpinion.Memory.proposition_6
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-24T03:28:02.1207+00:00
 -- url     : https://prove2.me/submissions/34ca69b5-aa6b-44b4-980d-b84bbb55ba33
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_DirectedOpinion_Memory_Setting

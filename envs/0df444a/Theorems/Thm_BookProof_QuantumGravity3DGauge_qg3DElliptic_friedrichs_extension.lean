@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_qg3DElliptic_friedrichs_extension
 -- name    : BookProof.QuantumGravity3DGauge.qg3DElliptic_friedrichs_extension
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T19:17:29.451717+00:00
 -- url     : https://prove2.me/theorems/9b094205-308d-4cd0-994b-8135f93b5b9a

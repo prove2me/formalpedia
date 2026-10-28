@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonDoubleCount_Leader_pf_le_pe
 -- name    : CarbonDoubleCount.Leader.pf_le_pe
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:39:36.87527+00:00
 -- url     : https://prove2.me/theorems/6198ea72-5ca4-42ce-9add-78d84a970947

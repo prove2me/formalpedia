@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPSTAsync_Progress_theorem_5_19_3
 -- name    : MPSTAsync.Progress.theorem_5_19_3
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:18:46.689986+00:00
 -- url     : https://prove2.me/theorems/f52ad577-6e86-40e1-8338-b7cf2cafbf11

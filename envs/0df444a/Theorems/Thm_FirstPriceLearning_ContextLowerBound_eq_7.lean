@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_ContextLowerBound_eq_7
 -- name    : FirstPriceLearning.ContextLowerBound.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:34:12.194482+00:00
 -- url     : https://prove2.me/theorems/d7c1a0c4-b0ef-462e-8d3d-f8b59a0c7180

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P10.bloch_clifford_characterization
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T02:55:47.967895+00:00
 -- url     : https://prove2.me/submissions/c7d7f96d-6601-4a13-8177-bba9d8ab8dae
 

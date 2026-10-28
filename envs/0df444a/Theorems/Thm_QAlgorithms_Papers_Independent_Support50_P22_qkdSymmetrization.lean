@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P22_qkdSymmetrization
 -- name    : QAlgorithms.Papers.Independent.Support50.P22.qkdSymmetrization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:52:41.987453+00:00
 -- url     : https://prove2.me/theorems/a48a008a-a833-4298-9c4e-7fd755fd7b66

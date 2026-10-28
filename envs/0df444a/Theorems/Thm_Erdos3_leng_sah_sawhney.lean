@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos3_leng_sah_sawhney
 -- name    : Erdos3.leng_sah_sawhney
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T17:27:48.262966+00:00
 -- url     : https://prove2.me/theorems/f74f8105-6eb7-4b54-a04f-a2bd2c0a796a

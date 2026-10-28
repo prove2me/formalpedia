@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actualMinor_entry_translation_expansion
 -- name    : OAI.PiExponent.DeterminantContradiction.actualMinor_entry_translation_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:10:43.356909+00:00
 -- url     : https://prove2.me/theorems/4d988bef-3bab-4fba-88d3-69c52a365b14

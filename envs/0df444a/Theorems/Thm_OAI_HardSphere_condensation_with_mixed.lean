@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HardSphere_condensation_with_mixed
 -- name    : OAI.HardSphere.condensation_with_mixed
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:43.490386+00:00
 -- url     : https://prove2.me/theorems/7e3e667f-b95d-4751-bfcb-32b610211f1c

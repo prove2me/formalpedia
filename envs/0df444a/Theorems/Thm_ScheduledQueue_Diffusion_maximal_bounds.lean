@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Diffusion_maximal_bounds
 -- name    : ScheduledQueue.Diffusion.maximal_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:17.064056+00:00
 -- url     : https://prove2.me/theorems/44fc734e-9b94-4d07-9dd1-4bedc626f5ed

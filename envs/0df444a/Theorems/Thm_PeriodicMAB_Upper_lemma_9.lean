@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicMAB_Upper_lemma_9
 -- name    : PeriodicMAB.Upper.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:21:56.768254+00:00
 -- url     : https://prove2.me/theorems/e02b854a-be72-407d-959b-92b674709a29

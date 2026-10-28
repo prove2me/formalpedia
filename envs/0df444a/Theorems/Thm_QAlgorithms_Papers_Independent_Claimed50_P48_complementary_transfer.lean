@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_complementary_transfer
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.complementary_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:37:25.558793+00:00
 -- url     : https://prove2.me/theorems/439aa687-2455-4ff9-a051-d7a804e5489d

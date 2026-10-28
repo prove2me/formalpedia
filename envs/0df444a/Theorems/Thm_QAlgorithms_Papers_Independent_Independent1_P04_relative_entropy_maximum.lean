@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P04_relative_entropy_maximum
 -- name    : QAlgorithms.Papers.Independent.Independent1.P04.relative_entropy_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:24:27.064855+00:00
 -- url     : https://prove2.me/theorems/7e365ca9-bf27-4675-b9c9-4bdf29c3f639

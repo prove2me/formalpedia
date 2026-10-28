@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.constant_fibre_contact_localization_matched_finsum
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:41:53.427836+00:00
 -- url     : https://prove2.me/submissions/92e88f11-3779-4f2e-8417-9332444eb6fa
 

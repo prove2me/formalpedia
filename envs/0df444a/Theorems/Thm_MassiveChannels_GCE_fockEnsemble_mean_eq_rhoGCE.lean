@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassiveChannels_GCE_fockEnsemble_mean_eq_rhoGCE
 -- name    : MassiveChannels.GCE.fockEnsemble_mean_eq_rhoGCE
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:43:44.419994+00:00
 -- url     : https://prove2.me/theorems/23d35c64-594b-447c-b043-5b6566bf236e

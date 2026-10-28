@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopkisRation_Backlog_theorem_3
 -- name    : TopkisRation.Backlog.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:48:35.015107+00:00
 -- url     : https://prove2.me/theorems/05939232-2be3-4138-9207-701122889262

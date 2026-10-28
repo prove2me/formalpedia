@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TaoFivePrimes.rh14to100_bernstein_checks
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:53:18.287371+00:00
 -- url     : https://prove2.me/submissions/7791d392-81cd-43f5-a7ce-12b298ff1cfc
 

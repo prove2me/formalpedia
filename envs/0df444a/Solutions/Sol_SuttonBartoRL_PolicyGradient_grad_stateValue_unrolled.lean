@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.PolicyGradient.grad_stateValue_unrolled
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:21:52.595669+00:00
 -- url     : https://prove2.me/submissions/8f14f176-07bb-40c3-be7a-782fb5b46107
 

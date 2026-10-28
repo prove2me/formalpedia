@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircStability_Main_f_split
 -- name    : CircStability.Main.f_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:43:15.411387+00:00
 -- url     : https://prove2.me/theorems/aeda7620-8c76-4462-8838-e21b069a72f9

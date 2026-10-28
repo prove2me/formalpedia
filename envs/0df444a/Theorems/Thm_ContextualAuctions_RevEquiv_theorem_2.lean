@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContextualAuctions_RevEquiv_theorem_2
 -- name    : ContextualAuctions.RevEquiv.theorem_2
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:29:32.909661+00:00
 -- url     : https://prove2.me/theorems/63b11910-30dc-4e0a-8802-ef6b5abcf66b

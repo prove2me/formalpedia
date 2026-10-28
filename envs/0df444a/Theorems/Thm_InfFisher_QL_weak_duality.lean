@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfFisher_QL_weak_duality
 -- name    : InfFisher.QL.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:05:18.651643+00:00
 -- url     : https://prove2.me/theorems/791b854e-5a91-452c-8060-a5677ad9387d

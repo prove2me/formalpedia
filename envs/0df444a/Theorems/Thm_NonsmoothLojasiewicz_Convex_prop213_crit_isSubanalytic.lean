@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Convex_prop213_crit_isSubanalytic
 -- name    : NonsmoothLojasiewicz.Convex.prop213_crit_isSubanalytic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:12:30.14798+00:00
 -- url     : https://prove2.me/theorems/9eb65e14-c071-4377-a989-bef372fabe1f

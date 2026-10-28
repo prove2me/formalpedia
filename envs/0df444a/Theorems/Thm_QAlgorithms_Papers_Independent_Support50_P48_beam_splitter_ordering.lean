@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P48_beam_splitter_ordering
 -- name    : QAlgorithms.Papers.Independent.Support50.P48.beam_splitter_ordering
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:02:47.754654+00:00
 -- url     : https://prove2.me/theorems/0bc2dc48-84a2-495b-9f18-d0d38efc61fc

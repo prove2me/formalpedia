@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_treeLt_order_props
 -- name    : Erdos195.treeLt_order_props
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:13:40.620563+00:00
 -- url     : https://prove2.me/theorems/d55a7159-eb12-4774-8a0c-bcf7e9655c05
 -- title:

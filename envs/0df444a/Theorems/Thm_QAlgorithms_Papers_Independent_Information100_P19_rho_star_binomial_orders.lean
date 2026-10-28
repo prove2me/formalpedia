@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_rho_star_binomial_orders
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.rho_star_binomial_orders
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:06:27.462471+00:00
 -- url     : https://prove2.me/theorems/ffbb514b-9631-4500-b472-8d8c6f0325a7

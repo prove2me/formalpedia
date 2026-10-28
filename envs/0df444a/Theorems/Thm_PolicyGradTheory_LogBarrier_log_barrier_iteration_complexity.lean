@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolicyGradTheory_LogBarrier_log_barrier_iteration_complexity
 -- name    : PolicyGradTheory.LogBarrier.log_barrier_iteration_complexity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:59:02.927983+00:00
 -- url     : https://prove2.me/theorems/a94f2d3c-264b-45e7-a668-6c15fd12643f

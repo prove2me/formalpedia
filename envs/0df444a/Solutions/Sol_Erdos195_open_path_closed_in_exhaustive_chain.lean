@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_path_closed_in_exhaustive_chain
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T22:32:38.540736+00:00
 -- url     : https://prove2.me/submissions/c616d669-5125-44ff-8d0f-9dbcab41f688
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem336AdditiveD139_countable_positive_contraction_dpp_exists_unique
 -- name    : OAI.Problem336AdditiveD139.countable_positive_contraction_dpp_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:08.062177+00:00
 -- url     : https://prove2.me/theorems/a83aa001-441b-485f-b9ea-774881e1d1fd

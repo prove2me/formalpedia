@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracPSG_Enhanced_theorem_6_1_iii
 -- name    : FracPSG.Enhanced.theorem_6_1_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:08:43.639872+00:00
 -- url     : https://prove2.me/theorems/2e99e5dc-c160-4e69-9598-113f1355a972

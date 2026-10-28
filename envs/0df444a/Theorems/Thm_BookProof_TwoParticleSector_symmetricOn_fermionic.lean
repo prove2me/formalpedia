@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_symmetricOn_fermionic
 -- name    : BookProof.TwoParticleSector.symmetricOn_fermionic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-23T23:26:45.033923+00:00
 -- url     : https://prove2.me/theorems/2f0fe6a8-0ab1-43bf-b40a-64acb642b1b2

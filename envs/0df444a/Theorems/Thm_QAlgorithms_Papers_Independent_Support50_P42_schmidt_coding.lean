@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_schmidt_coding
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.schmidt_coding
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:21:09.392094+00:00
 -- url     : https://prove2.me/theorems/5355fc68-deff-402e-8c4c-379a2c786c11

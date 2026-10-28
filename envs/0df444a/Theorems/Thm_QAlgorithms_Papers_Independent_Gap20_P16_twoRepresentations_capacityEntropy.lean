@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P16_twoRepresentations_capacityEntropy
 -- name    : QAlgorithms.Papers.Independent.Gap20.P16.twoRepresentations_capacityEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:35:28.791047+00:00
 -- url     : https://prove2.me/theorems/0a49ceb8-fee8-4737-8823-94f7d039b9a7

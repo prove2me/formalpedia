@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OnlineNRM.TSFixed.full_demand_period_demand_ae
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-17T18:15:11.743685+00:00
 -- url     : https://prove2.me/submissions/acfac0eb-0619-438a-9d52-a43b8c87d895
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Bochner.Basic
 import Definitions.Def_OnlineNRM_TSFixed_LP

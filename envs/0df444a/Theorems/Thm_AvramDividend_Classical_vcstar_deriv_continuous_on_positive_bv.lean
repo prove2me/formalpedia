@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_deriv_continuous_on_positive_bv
 -- name    : AvramDividend.Classical.vcstar_deriv_continuous_on_positive_bv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T23:19:22.184162+00:00
 -- url     : https://prove2.me/theorems/869721ac-142c-4cf4-9bd7-6c97ce2cf307

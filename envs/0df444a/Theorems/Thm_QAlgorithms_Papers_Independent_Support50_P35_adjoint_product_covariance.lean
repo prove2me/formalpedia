@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_adjoint_product_covariance
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.adjoint_product_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:41:35.630172+00:00
 -- url     : https://prove2.me/theorems/e942f438-9450-46d1-bb75-6495c410a2f4

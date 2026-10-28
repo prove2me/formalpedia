@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_DINAVD_vFun_hasDerivWithinAt
 -- name    : HessianDamping.DINAVD.vFun_hasDerivWithinAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:06:57.534768+00:00
 -- url     : https://prove2.me/theorems/3583473e-f9a3-4384-ba17-b755081cd94d

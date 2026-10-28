@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_chernoff_lower_bound
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.chernoff_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:51:16.012128+00:00
 -- url     : https://prove2.me/theorems/ec96b9a9-191c-4152-9cc5-25d551e4644f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_AsymMax_max_poa_theta_sqrt
 -- name    : CongestionPoA.AsymMax.max_poa_theta_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T05:47:49.744147+00:00
 -- url     : https://prove2.me/theorems/18523094-a097-4730-9cfd-d2b419096a51

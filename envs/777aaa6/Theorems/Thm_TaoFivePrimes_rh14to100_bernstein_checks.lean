@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh14to100_bernstein_checks
 -- name    : TaoFivePrimes.rh14to100_bernstein_checks
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:52:30.70685+00:00
 -- url     : https://prove2.me/theorems/4d793ebc-4734-4e4c-9d59-56e5b3f319d1
 -- title:

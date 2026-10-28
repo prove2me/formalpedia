@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_OptimalMaxCut_main
 -- name    : OAI.OptimalMaxCut.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:58.664741+00:00
 -- url     : https://prove2.me/theorems/3eebcf71-05de-48f6-84a6-6ef83e4d0472

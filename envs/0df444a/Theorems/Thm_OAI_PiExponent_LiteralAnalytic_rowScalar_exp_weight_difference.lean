@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_rowScalar_exp_weight_difference
 -- name    : OAI.PiExponent.LiteralAnalytic.rowScalar_exp_weight_difference
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T13:02:23.723931+00:00
 -- url     : https://prove2.me/theorems/9b3469c9-b346-47f8-9bc1-0d9b8fd4d5bb

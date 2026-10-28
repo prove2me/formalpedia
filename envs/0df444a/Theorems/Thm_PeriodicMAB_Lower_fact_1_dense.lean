@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicMAB_Lower_fact_1_dense
 -- name    : PeriodicMAB.Lower.fact_1_dense
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:25.242197+00:00
 -- url     : https://prove2.me/theorems/60d92a86-8e6e-4077-b1bf-90aae1a3b165

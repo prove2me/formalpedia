@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_schoenfeld_psi_error_large
 -- name    : TaoFivePrimes.schoenfeld_psi_error_large
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-09-12T12:01:43.52427+00:00
 -- url     : https://prove2.me/theorems/3fa7d8d1-e2ce-4057-894d-f39a2f0a4a8d

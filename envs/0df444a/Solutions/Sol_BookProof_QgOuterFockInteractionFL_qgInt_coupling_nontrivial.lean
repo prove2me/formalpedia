@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.QgOuterFockInteractionFL.qgInt_coupling_nontrivial
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T04:46:43.8016+00:00
 -- url     : https://prove2.me/submissions/fc493da4-4c8e-4ad8-90e8-5e07964a0f09
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_residue_insert
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T02:52:32.790266+00:00
 -- url     : https://prove2.me/submissions/7937c5ed-e211-417d-ae37-2856e1b081eb
 

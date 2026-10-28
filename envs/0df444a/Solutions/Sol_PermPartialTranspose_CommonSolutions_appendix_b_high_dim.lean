@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PermPartialTranspose.CommonSolutions.appendix_b_high_dim
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:50:59.466127+00:00
 -- url     : https://prove2.me/submissions/902860a7-11c1-407e-8571-bf1cc450ee0c
 

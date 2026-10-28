@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisonReimanRBM_Orthant_rescaling_equiv
 -- name    : HarrisonReimanRBM.Orthant.rescaling_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:21:51.607232+00:00
 -- url     : https://prove2.me/theorems/a679e319-51af-44db-b57b-7b5619d3adc9

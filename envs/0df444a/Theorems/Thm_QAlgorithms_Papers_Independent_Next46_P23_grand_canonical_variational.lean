@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_grand_canonical_variational
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.grand_canonical_variational
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:43:12.718841+00:00
 -- url     : https://prove2.me/theorems/2eeb951a-f256-4119-9185-746c335792d0

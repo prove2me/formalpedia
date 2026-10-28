@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_residue_extremal_open
 -- name    : Erdos195.residue_extremal_open
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:33:36.138526+00:00
 -- url     : https://prove2.me/theorems/d82cb2ac-cc73-4557-a100-b33bb8d7e61d
 -- title:

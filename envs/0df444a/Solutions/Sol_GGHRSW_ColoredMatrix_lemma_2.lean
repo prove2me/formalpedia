@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GGHRSW.ColoredMatrix.lemma_2
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:34:41.774052+00:00
 -- url     : https://prove2.me/submissions/2b3e9909-8844-4990-a388-1d16ffa95bc8
 

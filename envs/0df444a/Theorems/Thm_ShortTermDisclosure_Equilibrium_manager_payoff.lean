@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermDisclosure_Equilibrium_manager_payoff
 -- name    : ShortTermDisclosure.Equilibrium.manager_payoff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:01.550372+00:00
 -- url     : https://prove2.me/theorems/da12157b-b589-4514-b368-669fbf54cba5

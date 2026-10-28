@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P31_binaryBistochasticCapacity
 -- name    : QAlgorithms.Papers.Independent.Support50.P31.binaryBistochasticCapacity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:31:17.969982+00:00
 -- url     : https://prove2.me/theorems/c035de2c-1790-49c7-ad22-a5f89d2b6f26

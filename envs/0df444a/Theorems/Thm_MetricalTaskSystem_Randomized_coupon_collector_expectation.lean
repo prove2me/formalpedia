@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Randomized_coupon_collector_expectation
 -- name    : MetricalTaskSystem.Randomized.coupon_collector_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:20:30.147831+00:00
 -- url     : https://prove2.me/theorems/5f408fbf-9eb5-4eb6-8af4-2b1fdcc23be6

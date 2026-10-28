@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.FockCubicUnbounded.trial_at_n3
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:22:06.861609+00:00
 -- url     : https://prove2.me/submissions/53ccd2a0-802b-4c41-bda6-6bb170086b4b
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P19_quantum_minimum_can_be_positive
 -- name    : QAlgorithms.Papers.Independent.Gap48.P19.quantum_minimum_can_be_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:10:09.921234+00:00
 -- url     : https://prove2.me/theorems/a4e19c56-c7ef-4857-858a-15566473ae8b

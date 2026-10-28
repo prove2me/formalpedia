@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MemoryPrecision_main
 -- name    : OAI.MemoryPrecision.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:56.405282+00:00
 -- url     : https://prove2.me/theorems/6519f316-d12e-41d5-af86-03d810599ec0

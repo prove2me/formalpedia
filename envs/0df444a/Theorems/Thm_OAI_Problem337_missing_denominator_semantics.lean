@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem337_missing_denominator_semantics
 -- name    : OAI.Problem337.missing_denominator_semantics
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:09.646008+00:00
 -- url     : https://prove2.me/theorems/f1bc1eb9-abcf-47b3-b5e3-6680a6736cea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjRescale_MaxSupport_corollary_1
 -- name    : ProjRescale.MaxSupport.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:41.820091+00:00
 -- url     : https://prove2.me/theorems/032ed7ea-e9cb-4e1f-a9fd-27c2434f71b9

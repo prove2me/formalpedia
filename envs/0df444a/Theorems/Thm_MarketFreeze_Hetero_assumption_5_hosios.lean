@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketFreeze_Hetero_assumption_5_hosios
 -- name    : MarketFreeze.Hetero.assumption_5_hosios
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:42.186498+00:00
 -- url     : https://prove2.me/theorems/31223d24-8b9c-4da9-b093-0492592322a7

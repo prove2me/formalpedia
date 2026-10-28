@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QZeroSum19_GK_eps_optimal_of_gap
 -- name    : QZeroSum19.GK.eps_optimal_of_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:13.673372+00:00
 -- url     : https://prove2.me/theorems/ee1dc6b9-0158-45f2-8067-7131cdc089c5

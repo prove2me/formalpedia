@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_NormalForms_parsimonious_mip_representation_v2
 -- name    : Disjunctive.NormalForms.parsimonious_mip_representation_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:05:59.241981+00:00
 -- url     : https://prove2.me/theorems/8f3ff102-74a3-46b6-8daf-7fbb6b8d70ca

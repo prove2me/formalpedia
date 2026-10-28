@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_MAB_ber_family_is_hard
 -- name    : StatComplexityDM.MAB.ber_family_is_hard
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:48.221988+00:00
 -- url     : https://prove2.me/theorems/ab9e6010-70fa-4162-84c8-611ad2834e6a

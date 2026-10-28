@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P10_ma_linear_symbolic_normalization
 -- name    : QAlgorithms.Papers.Independent.Gap48.P10.ma_linear_symbolic_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:18:09.119264+00:00
 -- url     : https://prove2.me/theorems/ac3aadaf-177a-4f54-8b38-0037c9df8d58

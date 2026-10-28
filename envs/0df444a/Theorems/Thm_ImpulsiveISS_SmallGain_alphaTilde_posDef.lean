@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulsiveISS_SmallGain_alphaTilde_posDef
 -- name    : ImpulsiveISS.SmallGain.alphaTilde_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:01:56.516932+00:00
 -- url     : https://prove2.me/theorems/b9c6833c-05d8-4c5b-8c26-d228c8729522

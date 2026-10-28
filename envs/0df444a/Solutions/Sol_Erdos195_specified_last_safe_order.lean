@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.specified_last_safe_order
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:22:11.12004+00:00
 -- url     : https://prove2.me/submissions/dc28b515-4625-4a04-adf9-397a206a757c
 

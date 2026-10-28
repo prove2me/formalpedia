@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_LinearLB_hard_family_lower_bound_measure
 -- name    : StatComplexityDM.LinearLB.hard_family_lower_bound_measure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:21:26.439565+00:00
 -- url     : https://prove2.me/theorems/96f1fc23-15eb-49c6-aac6-5408ca63796a

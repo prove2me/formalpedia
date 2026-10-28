@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDASNewton_FunSpace_active_sets_coincide
 -- name    : PDASNewton.FunSpace.active_sets_coincide
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:13:12.619979+00:00
 -- url     : https://prove2.me/theorems/aabfc8a8-75ab-41f1-8b76-23d108b834d8

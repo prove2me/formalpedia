@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PartitionConsistency_main_consistency
 -- name    : OAI.PartitionConsistency.main_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:01.044345+00:00
 -- url     : https://prove2.me/theorems/877b5995-ce1b-4fe3-b6c5-d095d53e47f5

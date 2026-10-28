@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryBounds_two_point_estimation_information
 -- name    : InventoryBounds.two_point_estimation_information
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T15:34:06.597223+00:00
 -- url     : https://prove2.me/theorems/40199c55-fb5f-4b40-b533-936498196b5f

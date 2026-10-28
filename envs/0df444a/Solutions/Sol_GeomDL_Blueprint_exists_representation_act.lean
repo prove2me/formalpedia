@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Blueprint.exists_representation_act
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:37:57.816123+00:00
 -- url     : https://prove2.me/submissions/4cd62b09-fed2-442d-bafe-6024e4a9a6fd
 

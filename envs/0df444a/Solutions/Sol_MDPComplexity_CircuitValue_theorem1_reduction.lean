@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.CircuitValue.theorem1_reduction
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:35:22.177951+00:00
 -- url     : https://prove2.me/submissions/c6560b01-13c1-4eac-b453-3536b442da02
 

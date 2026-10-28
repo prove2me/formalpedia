@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_minus1_reflection_not_safe
 -- name    : Erdos195.minus1_reflection_not_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T11:08:19.861446+00:00
 -- url     : https://prove2.me/theorems/38cdd833-abd0-4156-922c-2393dd4f763f
 -- title:

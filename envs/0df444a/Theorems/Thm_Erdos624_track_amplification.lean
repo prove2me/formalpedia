@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_track_amplification
 -- name    : Erdos624.track_amplification
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:46:57.098787+00:00
 -- url     : https://prove2.me/theorems/9c18b14e-ce78-4e8d-aa80-05db29598e62
 -- title:

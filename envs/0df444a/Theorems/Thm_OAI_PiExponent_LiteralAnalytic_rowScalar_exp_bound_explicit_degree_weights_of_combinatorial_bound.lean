@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_rowScalar_exp_bound_explicit_degree_weights_of_combinatorial_bound
 -- name    : OAI.PiExponent.LiteralAnalytic.rowScalar_exp_bound_explicit_degree_weights_of_combinatorial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:25:44.996988+00:00
 -- url     : https://prove2.me/theorems/58fdbd5c-4dc1-4233-bf87-7a239c588b70

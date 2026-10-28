@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuyXFree_Threshold_case_c_stationary
 -- name    : BuyXFree.Threshold.case_c_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:45.057+00:00
 -- url     : https://prove2.me/theorems/f60bb5df-f80e-4a29-9f37-7a34adf783da

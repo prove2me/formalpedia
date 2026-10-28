@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_totalInformation_zero_iff_product
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.totalInformation_zero_iff_product
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:58:47.965227+00:00
 -- url     : https://prove2.me/theorems/df183564-9199-44a4-8935-bed33e2c4148

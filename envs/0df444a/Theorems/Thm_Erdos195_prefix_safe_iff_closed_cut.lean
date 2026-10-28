@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_prefix_safe_iff_closed_cut
 -- name    : Erdos195.prefix_safe_iff_closed_cut
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T01:22:23.350606+00:00
 -- url     : https://prove2.me/theorems/d3d0d955-659c-4494-b026-aa1272c2d1bf
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P10_orbitCovariance
 -- name    : QAlgorithms.Papers.Independent.Information100.P10.orbitCovariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:37:02.660987+00:00
 -- url     : https://prove2.me/theorems/d6dbeae0-997b-4945-b3ac-d5370d33119e

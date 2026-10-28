@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.astra_fourclass_example_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T16:09:57.628543+00:00
 -- url     : https://prove2.me/submissions/2bafa3f8-f996-4606-a9fe-a30f2d5f93b5
 

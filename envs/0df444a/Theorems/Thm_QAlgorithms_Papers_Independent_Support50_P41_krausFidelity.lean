@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_krausFidelity
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.krausFidelity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:15:23.184241+00:00
 -- url     : https://prove2.me/theorems/8f39234b-069d-46ec-8e80-454d32194e1b

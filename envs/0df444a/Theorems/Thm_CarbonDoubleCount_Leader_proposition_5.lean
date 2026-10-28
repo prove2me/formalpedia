@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonDoubleCount_Leader_proposition_5
 -- name    : CarbonDoubleCount.Leader.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:39:26.841308+00:00
 -- url     : https://prove2.me/theorems/79f92872-8831-409b-a616-4e7846642153

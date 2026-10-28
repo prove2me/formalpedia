@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_astra_fourclass_example_safe
 -- name    : Erdos195.astra_fourclass_example_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T16:09:31.370696+00:00
 -- url     : https://prove2.me/theorems/3b9b3332-0087-44d7-9907-e4e19e36050b
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedEntropyGames_ConvRate_lemma_1
 -- name    : BoundedEntropyGames.ConvRate.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:35.490609+00:00
 -- url     : https://prove2.me/theorems/bd1937d8-11b2-4217-b11f-74360ca5b89f

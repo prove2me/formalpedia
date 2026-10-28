@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Helfgott_mobiusHarmonicGroup000_checked
 -- name    : Helfgott.mobiusHarmonicGroup000_checked
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-08T21:21:25.589903+00:00
 -- url     : https://prove2.me/theorems/0a4eeff8-82c9-4cf8-99b7-7a300e1632c6

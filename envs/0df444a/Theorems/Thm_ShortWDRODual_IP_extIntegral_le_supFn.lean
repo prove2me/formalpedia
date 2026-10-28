@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_IP_extIntegral_le_supFn
 -- name    : ShortWDRODual.IP.extIntegral_le_supFn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:20.099863+00:00
 -- url     : https://prove2.me/theorems/ab96275a-8861-43dd-b4b2-bfdbebc483da

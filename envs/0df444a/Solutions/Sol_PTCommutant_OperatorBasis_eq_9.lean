@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PTCommutant.OperatorBasis.eq_9
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:26:23.038777+00:00
 -- url     : https://prove2.me/submissions/0b604880-a602-4df3-a9c5-d79c2319ba3f
 

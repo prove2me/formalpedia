@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Tree_node_step
 -- name    : MatrixAnalytic.Tree.node_step
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:59.78584+00:00
 -- url     : https://prove2.me/theorems/336c1ff1-abd2-4ae9-804d-824f5c6e1874

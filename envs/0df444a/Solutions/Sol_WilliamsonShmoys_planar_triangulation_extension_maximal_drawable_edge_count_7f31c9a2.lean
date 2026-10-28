@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for WilliamsonShmoys.planar_triangulation_extension_maximal_drawable_edge_count_7f31c9a2
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @Eyal1990
+-- created : 2026-10-27T19:17:19.564746+00:00
+-- url     : https://prove2.me/submissions/4a177a26-755d-4442-8c76-ecf7f4791fc8
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib
+import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
+import Theorems.Thm_WilliamsonShmoys_planar_edge_count_completion_7f31c9a2
+
+open WilliamsonShmoys
+
+set_option autoImplicit false
+
+theorem solution
+    {V : Type} [Fintype V] [LinearOrder V]
+    (H : SimpleGraph V)
+    (hDraw : HasPlanarDrawingOn H)
+    (hCard : 3 ≤ Fintype.card V)
+    (hMax : ∀ J : SimpleGraph V,
+      H.edgeSet ⊆ J.edgeSet → HasPlanarDrawingOn J →
+        J.edgeSet = H.edgeSet) :
+    H.edgeSet.ncard + 6 = 3 * Fintype.card V := by
+  classical
+  obtain ⟨J, hSub, hJDraw, hJCount⟩ :=
+    WilliamsonShmoys.planar_edge_count_completion_7f31c9a2 H hDraw hCard
+  have hEq : J.edgeSet = H.edgeSet := hMax J hSub hJDraw
+  simpa only [hEq] using hJCount

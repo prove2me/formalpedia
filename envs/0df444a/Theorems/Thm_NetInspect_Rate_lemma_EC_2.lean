@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetInspect_Rate_lemma_EC_2
 -- name    : NetInspect.Rate.lemma_EC_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:13.41154+00:00
 -- url     : https://prove2.me/theorems/e1bee5b3-060b-4370-8941-38c43d0da002

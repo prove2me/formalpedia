@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAOAE3Lin2_Typical_linked_card_le
 -- name    : QAOAE3Lin2.Typical.linked_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:02.09516+00:00
 -- url     : https://prove2.me/theorems/c294525b-57cf-4d3f-839d-7f1d87a4737d

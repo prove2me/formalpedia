@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_fourth_term_node
 -- name    : Erdos195.fourth_term_node
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:33:27.885995+00:00
 -- url     : https://prove2.me/theorems/5a52b7f4-cc74-4750-9249-13134ad79e49
 -- title:

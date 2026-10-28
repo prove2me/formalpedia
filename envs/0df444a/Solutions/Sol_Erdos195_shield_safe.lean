@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.shield_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:38:11.204725+00:00
 -- url     : https://prove2.me/submissions/9aabf17b-42be-4d37-8694-39f75e1ffa0f
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProblemSpec_Equilibrium_marginal_win_prob
 -- name    : ProblemSpec.Equilibrium.marginal_win_prob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:23.133334+00:00
 -- url     : https://prove2.me/theorems/b5d7c0a5-8e15-4101-9b7f-4dc40cc8ac13

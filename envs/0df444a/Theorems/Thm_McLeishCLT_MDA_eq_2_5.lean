@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_McLeishCLT_MDA_eq_2_5
 -- name    : McLeishCLT.MDA.eq_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:33:28.604742+00:00
 -- url     : https://prove2.me/theorems/855a3631-9829-45fb-9d50-0965ebacc9c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPurchase_Hardness_eq_7_maxcut
 -- name    : MultiPurchase.Hardness.eq_7_maxcut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:03.913561+00:00
 -- url     : https://prove2.me/theorems/321b1239-b33f-49fa-8879-acfbdfe6a1ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_PhaseSync_dini_derivative_nonpos
 -- name    : NonuniformKuramoto.PhaseSync.dini_derivative_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:21:42.252125+00:00
 -- url     : https://prove2.me/theorems/9742375c-4900-4e09-a39e-c87f76333d7a

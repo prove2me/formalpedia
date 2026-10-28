@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinRankRecovery_RandomRIP_lemma_4_4
 -- name    : MinRankRecovery.RandomRIP.lemma_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:28.616179+00:00
 -- url     : https://prove2.me/theorems/21f71ee2-9b6c-4816-8a44-fad8927e05d4

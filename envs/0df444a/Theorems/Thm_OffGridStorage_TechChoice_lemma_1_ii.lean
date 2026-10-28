@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffGridStorage_TechChoice_lemma_1_ii
 -- name    : OffGridStorage.TechChoice.lemma_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:53.37942+00:00
 -- url     : https://prove2.me/theorems/2410cb96-9486-4e0f-b63f-ce5ba22f98ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_gibbs_constrained_entropy
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.gibbs_constrained_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:42:03.495774+00:00
 -- url     : https://prove2.me/theorems/38f2665c-f31c-40dc-860d-ba1cb53a72bc

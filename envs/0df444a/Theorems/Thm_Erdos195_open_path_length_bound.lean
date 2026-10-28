@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_path_length_bound
 -- name    : Erdos195.open_path_length_bound
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T22:45:33.171221+00:00
 -- url     : https://prove2.me/theorems/54939c43-e938-40f6-99b3-4142e9d83189
 -- title:

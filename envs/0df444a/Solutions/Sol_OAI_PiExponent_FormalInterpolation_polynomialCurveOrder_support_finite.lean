@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.polynomialCurveOrder_support_finite
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:00:10.298408+00:00
 -- url     : https://prove2.me/submissions/0b496a00-7c15-4106-b952-de3c4d6f123d
 

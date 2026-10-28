@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDC_counterexample_exists
 -- name    : SDC.counterexample_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-23T09:26:27.23973+00:00
 -- url     : https://prove2.me/theorems/4826511a-0ce8-49c1-9476-21f453733b9f

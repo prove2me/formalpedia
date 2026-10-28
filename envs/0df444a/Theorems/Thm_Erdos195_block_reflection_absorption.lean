@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_block_reflection_absorption
 -- name    : Erdos195.block_reflection_absorption
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T14:33:38.252825+00:00
 -- url     : https://prove2.me/theorems/3779d9fd-1d7f-46e0-9b59-9122e8a0f072
 -- title:

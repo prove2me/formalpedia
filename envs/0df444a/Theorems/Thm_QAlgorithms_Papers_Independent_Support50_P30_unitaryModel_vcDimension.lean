@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P30_unitaryModel_vcDimension
 -- name    : QAlgorithms.Papers.Independent.Support50.P30.unitaryModel_vcDimension
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:29:52.173024+00:00
 -- url     : https://prove2.me/theorems/ff842a32-9f7e-4dba-a1a3-1411df9f0faa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_NonstatPalm_units_binomial_given_count
 -- name    : ServiceParts.NonstatPalm.units_binomial_given_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:57:06.561121+00:00
 -- url     : https://prove2.me/theorems/1752c7e3-7e69-458f-ba53-62a49813b790

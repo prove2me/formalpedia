@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochConvexProg_FirstStage_eq_3_5_3_6
 -- name    : StochConvexProg.FirstStage.eq_3_5_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:41:22.736103+00:00
 -- url     : https://prove2.me/theorems/91d8c1fd-7878-4d6f-9d3f-a5a4eba891ba

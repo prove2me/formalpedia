@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_taq_cind
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.taq_cind
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:54:43.452977+00:00
 -- url     : https://prove2.me/theorems/72c30922-fa70-4221-baa2-cb2ef5e184f7

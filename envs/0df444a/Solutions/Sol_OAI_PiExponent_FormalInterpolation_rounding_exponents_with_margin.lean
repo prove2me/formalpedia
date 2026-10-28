@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.rounding_exponents_with_margin
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:29:38.975995+00:00
 -- url     : https://prove2.me/submissions/be5f7ae9-e5ba-4b94-a474-826aeed0cd1e
 

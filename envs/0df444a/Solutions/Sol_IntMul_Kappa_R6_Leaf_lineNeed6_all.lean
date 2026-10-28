@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R6.Leaf.lineNeed6_all
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:23:56.741583+00:00
 -- url     : https://prove2.me/submissions/ae8c13b3-5790-480c-a194-3d221249ddfc
 

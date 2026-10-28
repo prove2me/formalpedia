@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_BigRadius_proposition_4_2
 -- name    : CondPortOT.BigRadius.proposition_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:44.68686+00:00
 -- url     : https://prove2.me/theorems/1521ff01-273d-43b2-925d-9f61474592a1

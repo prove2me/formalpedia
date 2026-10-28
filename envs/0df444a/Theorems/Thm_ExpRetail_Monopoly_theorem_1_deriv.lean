@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpRetail_Monopoly_theorem_1_deriv
 -- name    : ExpRetail.Monopoly.theorem_1_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:32.584967+00:00
 -- url     : https://prove2.me/theorems/726168eb-29db-46a1-b51f-9bbeb4a13442

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P40_tenderMeasurement
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P40.tenderMeasurement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:50:01.543364+00:00
 -- url     : https://prove2.me/theorems/0f195a47-4dbd-4a34-9662-6145466c4805

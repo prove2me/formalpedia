@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HetExponomial_ChoiceProb_eq_1
 -- name    : HetExponomial.ChoiceProb.eq_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:30:40.536014+00:00
 -- url     : https://prove2.me/theorems/2e1e91e0-70aa-43da-bcb4-5c7bdd1fb5a3

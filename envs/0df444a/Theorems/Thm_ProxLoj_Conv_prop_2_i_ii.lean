@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxLoj_Conv_prop_2_i_ii
 -- name    : ProxLoj.Conv.prop_2_i_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:37:27.87423+00:00
 -- url     : https://prove2.me/theorems/40fb2b4e-f8eb-4cf8-8df6-f42c9b56b95d

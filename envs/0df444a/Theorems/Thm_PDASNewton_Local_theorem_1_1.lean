@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDASNewton_Local_theorem_1_1
 -- name    : PDASNewton.Local.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:08:35.57803+00:00
 -- url     : https://prove2.me/theorems/49007289-46fb-4878-97b6-95996ec5c23e

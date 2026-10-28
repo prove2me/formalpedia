@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Matroid_matroid_ocrs
 -- name    : OnlineCRS.Matroid.matroid_ocrs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:23:08.071988+00:00
 -- url     : https://prove2.me/theorems/267ded6c-4ca5-4ad9-9fc6-36d4266660c4

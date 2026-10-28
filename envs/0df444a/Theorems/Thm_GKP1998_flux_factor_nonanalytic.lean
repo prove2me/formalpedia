@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GKP1998_flux_factor_nonanalytic
 -- name    : GKP1998.flux_factor_nonanalytic
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:53:22.48973+00:00
 -- url     : https://prove2.me/theorems/fa90c5a5-8ed7-40ee-ad30-2b788c463cbe

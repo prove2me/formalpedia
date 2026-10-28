@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P15_remark9
 -- name    : QAlgorithms.Papers.Independent.Support50.P15.remark9
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:41:29.551446+00:00
 -- url     : https://prove2.me/theorems/736ab79e-752d-477f-aa99-3d4100326b37

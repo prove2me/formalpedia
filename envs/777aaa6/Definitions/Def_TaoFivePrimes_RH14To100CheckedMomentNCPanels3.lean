@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100CheckedMomentNCPanels3
 -- name    : TaoFivePrimes_RH14To100CheckedMomentNCPanels3
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:50:18.543752+00:00
 -- url     : https://prove2.me/theorems/b4bee528-4766-47ff-9105-93e0a9f6e443
 -- title:

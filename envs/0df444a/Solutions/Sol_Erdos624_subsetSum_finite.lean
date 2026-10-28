@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.subsetSum_finite
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:41:09.738601+00:00
 -- url     : https://prove2.me/submissions/0ec7bc3b-d5ae-4e28-96dd-4da7353ec0ed
 

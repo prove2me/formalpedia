@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100MomentCertificateDataNC
 -- name    : TaoFivePrimes_RH14To100MomentCertificateDataNC
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:48:50.411075+00:00
 -- url     : https://prove2.me/theorems/35d0abd3-7693-426a-a157-b3f2d4a579d4
 -- title:

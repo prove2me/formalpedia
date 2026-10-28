@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuityEqWiki_div_curl_eq_zero
 -- name    : ContinuityEqWiki.div_curl_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:27.373135+00:00
 -- url     : https://prove2.me/theorems/3652b5b8-a6b1-4447-9462-9e3ca0b75790

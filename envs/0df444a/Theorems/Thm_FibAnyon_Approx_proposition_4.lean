@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FibAnyon_Approx_proposition_4
 -- name    : FibAnyon.Approx.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:46:24.67967+00:00
 -- url     : https://prove2.me/theorems/23b58924-01a3-40b0-bed4-4be0c1cafb1e

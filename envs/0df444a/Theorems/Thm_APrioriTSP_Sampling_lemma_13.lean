@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APrioriTSP_Sampling_lemma_13
 -- name    : APrioriTSP.Sampling.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:50.467799+00:00
 -- url     : https://prove2.me/theorems/c15d1400-ee13-439e-8e2a-4a6512089048

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100TranslationInterface
 -- name    : TaoFivePrimes_RH14To100TranslationInterface
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:47:34.619877+00:00
 -- url     : https://prove2.me/theorems/0f8c7d41-9e1e-493a-bc2c-ccd33c9267c7
 -- title:

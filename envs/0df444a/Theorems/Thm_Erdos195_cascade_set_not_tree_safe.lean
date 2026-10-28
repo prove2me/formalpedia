@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_cascade_set_not_tree_safe
 -- name    : Erdos195.cascade_set_not_tree_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:34:48.449033+00:00
 -- url     : https://prove2.me/theorems/e92a1959-3d54-457f-9b9c-7c157828f7a5
 -- title:

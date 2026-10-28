@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffVI_Conv_eq_7_9
 -- name    : DiffVI.Conv.eq_7_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:24.90811+00:00
 -- url     : https://prove2.me/theorems/55c5febc-30ec-43ff-8bc6-3ff7d2bb2661

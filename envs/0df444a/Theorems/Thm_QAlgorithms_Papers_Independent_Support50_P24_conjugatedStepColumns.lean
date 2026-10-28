@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P24_conjugatedStepColumns
 -- name    : QAlgorithms.Papers.Independent.Support50.P24.conjugatedStepColumns
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:01:28.404389+00:00
 -- url     : https://prove2.me/theorems/c77acb2d-2c66-4629-80c9-31d02623cc7b

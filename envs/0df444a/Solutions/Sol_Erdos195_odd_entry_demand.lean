@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.odd_entry_demand
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T08:11:09.208417+00:00
 -- url     : https://prove2.me/submissions/3a1909d0-d75a-46bc-bb0b-bc9b6d4c6d83
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_kmt_discrete_coupling
 -- name    : EthierKurtz.kmt_discrete_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-29T20:26:18.99598+00:00
 -- url     : https://prove2.me/theorems/99bcb804-9d60-4d1f-9d61-159d9ff2e644

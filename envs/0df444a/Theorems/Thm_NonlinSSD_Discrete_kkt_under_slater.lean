@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonlinSSD_Discrete_kkt_under_slater
 -- name    : NonlinSSD.Discrete.kkt_under_slater
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:03:33.420578+00:00
 -- url     : https://prove2.me/theorems/412a8bb9-a8e0-4b60-8b08-e7d852295e4c

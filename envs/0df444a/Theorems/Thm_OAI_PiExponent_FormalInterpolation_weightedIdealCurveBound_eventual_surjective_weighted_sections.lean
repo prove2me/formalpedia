@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_weightedIdealCurveBound_eventual_surjective_weighted_sections
 -- name    : OAI.PiExponent.FormalInterpolation.weightedIdealCurveBound_eventual_surjective_weighted_sections
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:03:11.192275+00:00
 -- url     : https://prove2.me/theorems/d5c27072-6718-4b7d-8007-0096bf7dfd4f
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_centers_contact_is_single_center
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmic_centers_contact_is_single_center
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-21T09:15:27.68405+00:00
 -- url     : https://prove2.me/theorems/d1cc489f-e0d6-4f6a-a342-275cc9a428d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxSparseHDSL_ExcessRisk_lemma_EC2
 -- name    : ApproxSparseHDSL.ExcessRisk.lemma_EC2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:06.622058+00:00
 -- url     : https://prove2.me/theorems/5589bbfb-b8da-4211-9c1d-3630033c0cd5

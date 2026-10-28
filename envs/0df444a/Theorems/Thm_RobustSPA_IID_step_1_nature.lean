@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_IID_step_1_nature
 -- name    : RobustSPA.IID.step_1_nature
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:59.374022+00:00
 -- url     : https://prove2.me/theorems/f18e5bda-9239-47f7-bcb2-8fc089458126

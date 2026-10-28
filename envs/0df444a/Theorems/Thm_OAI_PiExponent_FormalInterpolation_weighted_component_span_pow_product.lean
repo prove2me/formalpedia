@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_weighted_component_span_pow_product
 -- name    : OAI.PiExponent.FormalInterpolation.weighted_component_span_pow_product
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:21:47.2345+00:00
 -- url     : https://prove2.me/theorems/2dd7c94e-d2b6-46b5-a7c3-4fec693dadc0

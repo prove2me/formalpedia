@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastComp_IELF_belief_indep_factorization
 -- name    : ForecastComp.IELF.belief_indep_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:37.596209+00:00
 -- url     : https://prove2.me/theorems/e04d9edc-fe75-477c-8523-5e27db01f536

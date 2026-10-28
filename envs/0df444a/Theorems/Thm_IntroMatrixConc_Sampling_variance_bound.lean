@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroMatrixConc_Sampling_variance_bound
 -- name    : IntroMatrixConc.Sampling.variance_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:38:34.904993+00:00
 -- url     : https://prove2.me/theorems/924f27e1-b35c-4f5e-afba-1af6a2ee887a

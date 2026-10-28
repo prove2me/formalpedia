@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Percolation_BenjaminiSchramm_critical_laws
 -- name    : OAI.Percolation.BenjaminiSchramm.critical_laws
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:01.563738+00:00
 -- url     : https://prove2.me/theorems/4d624472-a84e-4138-8445-745c907e1fa0

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.astra_H_109_m3_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T15:34:29.932918+00:00
 -- url     : https://prove2.me/submissions/59fcaed4-8195-4184-9ff3-5323bb92fd6f
 

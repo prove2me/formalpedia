@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.AverageCost.closed_walk_mean
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:41:20.232869+00:00
 -- url     : https://prove2.me/submissions/5f1c58bd-a5fa-4b79-8dc1-e4ff29c8b3d9
 

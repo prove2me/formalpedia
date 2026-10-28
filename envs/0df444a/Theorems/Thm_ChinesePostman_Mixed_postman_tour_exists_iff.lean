@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChinesePostman_Mixed_postman_tour_exists_iff
 -- name    : ChinesePostman.Mixed.postman_tour_exists_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:52:20.612093+00:00
 -- url     : https://prove2.me/theorems/628f0ef0-4397-4938-a450-bb41af3286e0

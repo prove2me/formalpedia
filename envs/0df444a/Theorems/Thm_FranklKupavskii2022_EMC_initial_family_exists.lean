@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FranklKupavskii2022_EMC_initial_family_exists
 -- name    : FranklKupavskii2022.EMC.initial_family_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:15:51.906966+00:00
 -- url     : https://prove2.me/theorems/3f4ae97e-8cee-4129-ae15-76ed24065e13

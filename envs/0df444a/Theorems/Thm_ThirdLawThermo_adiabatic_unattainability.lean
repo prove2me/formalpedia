@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThirdLawThermo_adiabatic_unattainability
 -- name    : ThirdLawThermo.adiabatic_unattainability
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:31.251145+00:00
 -- url     : https://prove2.me/theorems/3d07f294-70f5-45b4-a0f9-ab9a34904427

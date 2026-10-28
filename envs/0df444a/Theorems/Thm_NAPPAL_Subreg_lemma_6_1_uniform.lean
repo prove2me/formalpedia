@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAPPAL_Subreg_lemma_6_1_uniform
 -- name    : NAPPAL.Subreg.lemma_6_1_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-22T20:01:21.376652+00:00
 -- url     : https://prove2.me/theorems/6d309fc9-fa3c-4caa-8d1e-e86cc1d71a56

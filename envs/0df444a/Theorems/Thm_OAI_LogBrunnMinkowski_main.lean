@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LogBrunnMinkowski_main
 -- name    : OAI.LogBrunnMinkowski.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:54.048402+00:00
 -- url     : https://prove2.me/theorems/170b985a-a9b7-443f-97c7-b94a8b164a8d

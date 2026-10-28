@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_excursion_resolvent_uniform_tightness_from_laplace
 -- name    : AvramDividend.Classical.excursion_resolvent_uniform_tightness_from_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T09:19:44.844054+00:00
 -- url     : https://prove2.me/theorems/f2895e24-7b69-4e5b-b1db-3c4d849e721e

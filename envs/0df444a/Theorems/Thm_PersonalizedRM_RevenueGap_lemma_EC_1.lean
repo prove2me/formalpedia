@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedRM_RevenueGap_lemma_EC_1
 -- name    : PersonalizedRM.RevenueGap.lemma_EC_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:32:50.648903+00:00
 -- url     : https://prove2.me/theorems/8f787546-def5-4546-ac70-dcd89be8c79a

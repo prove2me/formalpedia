@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowJobShop_ThreePartFlow_theorem_2
 -- name    : FlowJobShop.ThreePartFlow.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:37:22.455656+00:00
 -- url     : https://prove2.me/theorems/1b7223b8-1158-4e87-bf61-e8d8f2558756

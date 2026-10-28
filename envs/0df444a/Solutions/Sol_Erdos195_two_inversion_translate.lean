@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.two_inversion_translate
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:07:28.00527+00:00
 -- url     : https://prove2.me/submissions/f11aba8b-5fe1-4cd5-9235-3542d95aa08c
 

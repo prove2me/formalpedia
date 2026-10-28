@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenNV_LRS_propEC1_derivatives_near_zero
 -- name    : DataDrivenNV.LRS.propEC1_derivatives_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:25:26.864367+00:00
 -- url     : https://prove2.me/theorems/4dfe6c21-2823-4e64-87cd-1a007f0c4e3a

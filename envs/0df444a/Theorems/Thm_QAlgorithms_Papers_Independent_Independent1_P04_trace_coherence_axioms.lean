@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P04_trace_coherence_axioms
 -- name    : QAlgorithms.Papers.Independent.Independent1.P04.trace_coherence_axioms
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:24:35.665463+00:00
 -- url     : https://prove2.me/theorems/57442859-b098-4afb-ac31-42fab38b2897

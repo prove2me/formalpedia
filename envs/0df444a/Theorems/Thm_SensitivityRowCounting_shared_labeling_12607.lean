@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityRowCounting_shared_labeling_12607
 -- name    : SensitivityRowCounting.shared_labeling_12607
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-10-20T15:30:22.897576+00:00
 -- url     : https://prove2.me/theorems/6ac66962-64e7-4939-970b-0672f6c94262

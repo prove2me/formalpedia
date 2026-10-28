@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveEM_Finite_eq_35
 -- name    : AdaptiveEM.Finite.eq_35
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:07:26.16599+00:00
 -- url     : https://prove2.me/theorems/f94da2de-0296-49fe-8685-a336de6435cf

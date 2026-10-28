@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_werner_preparation
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.werner_preparation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:28:32.821368+00:00
 -- url     : https://prove2.me/theorems/d9474937-ff32-4e0b-8a5a-66149b04e186

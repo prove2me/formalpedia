@@ -1,0 +1,242 @@
+-- Prove2me | solution 1 for BiAbduction.Footprint.lemma_3_11
+-- status  : ACCEPTED   (prove)
+-- author  : @kmehltretter82
+-- created : 2026-10-28T05:08:36.180307+00:00
+-- url     : https://prove2.me/submissions/5c7ec026-e835-4bb8-b822-cd4592497309
+
+import Mathlib
+import Definitions.Def_BiAbduction_Footprint_Semantics
+
+open BiAbduction.Footprint
+
+namespace SolBiAbductionFootprintLemma311
+
+private theorem heap_ext {h k : Heap} (hc : h.cell = k.cell) : h = k := by
+  cases h
+  cases k
+  cases hc
+  rfl
+
+private theorem subheap_refl (h : Heap) : Heap.Subheap h h :=
+  fun _ _ hv => hv
+
+private theorem subheap_trans {a b c : Heap}
+    (hab : Heap.Subheap a b) (hbc : Heap.Subheap b c) :
+    Heap.Subheap a c :=
+  fun l v hv => hbc l v (hab l v hv)
+
+private theorem subheap_antisymm {a b : Heap}
+    (hab : Heap.Subheap a b) (hba : Heap.Subheap b a) :
+    a = b := by
+  apply heap_ext
+  funext l
+  cases ha : a.cell l with
+  | none =>
+    cases hb : b.cell l with
+    | none => rfl
+    | some v =>
+      have := hba l v hb
+      rw [ha] at this
+      cases this
+  | some v =>
+    exact (hab l v ha).symm
+
+private theorem union_sub_left {h a b : Heap} (hu : Heap.IsUnion h a b) :
+    Heap.Subheap a h := by
+  intro l v hv
+  have hcell := hu.2 l
+  rw [hv] at hcell
+  exact hcell
+
+private theorem sub_split_left {a h : Heap} (ha : Heap.Subheap a h) :
+    ∃ b, Heap.IsUnion h a b := by
+  classical
+  let b : Heap := {
+    cell := fun l => if a.cell l = none then h.cell l else none
+    nil_unalloc := by simp [a.nil_unalloc, h.nil_unalloc]
+    finite_dom := h.finite_dom.subset (by
+      intro l hl
+      simp only [Set.mem_setOf_eq] at hl ⊢
+      by_contra hn
+      simp [hn] at hl) }
+  refine ⟨b, ?_, ?_⟩
+  · intro l
+    by_cases hn : a.cell l = none
+    · exact Or.inl hn
+    · exact Or.inr (by simp [b, hn])
+  · intro l
+    cases he : a.cell l with
+    | none => simp [b, he]
+    | some v => simp [b, he, ha l v he]
+
+private theorem mem_sepConj_univ_iff (M : Pred) (s : Stack) (h : Heap) :
+    (s, h) ∈ sepConj M Set.univ ↔ ∃ h₀ : Heap, Heap.Subheap h₀ h ∧ (s, h₀) ∈ M := by
+  constructor
+  · rintro ⟨h₀, _, hu, hh₀, _⟩
+    exact ⟨h₀, union_sub_left hu, hh₀⟩
+  · rintro ⟨h₀, hsub, hh₀⟩
+    obtain ⟨h₁, hu⟩ := sub_split_left hsub
+    exact ⟨h₀, h₁, hu, hh₀, trivial⟩
+
+private theorem spatialLe_iff (M M' : Pred) :
+    SpatialLe M M' ↔
+      ∀ (s : Stack) (h : Heap), (s, h) ∈ M' →
+        ∃ h₀ : Heap, Heap.Subheap h₀ h ∧ (s, h₀) ∈ M := by
+  constructor
+  · intro hle s h hm'
+    exact (mem_sepConj_univ_iff M s h).mp (hle hm')
+  · rintro hall ⟨s, h⟩ hm'
+    exact (mem_sepConj_univ_iff M s h).mpr (hall s h hm')
+
+private noncomputable def domCard (h : Heap) : ℕ :=
+  h.finite_dom.toFinset.card
+
+private theorem dom_subset_of_subheap {a b : Heap} (hab : Heap.Subheap a b) :
+    a.finite_dom.toFinset ⊆ b.finite_dom.toFinset := by
+  intro l hl
+  rw [Set.Finite.mem_toFinset] at hl ⊢
+  cases ha : a.cell l with
+  | none => exact False.elim (hl ha)
+  | some v =>
+    have hb := hab l v ha
+    simp [hb]
+
+private theorem domCard_lt_of_subheap_ne {a b : Heap}
+    (hab : Heap.Subheap a b) (hne : a ≠ b) :
+    domCard a < domCard b := by
+  apply Finset.card_lt_card
+  rw [Finset.ssubset_iff_subset_ne]
+  refine ⟨dom_subset_of_subheap hab, ?_⟩
+  intro heq
+  apply hne
+  apply subheap_antisymm hab
+  intro l v hv
+  have hmem_b : l ∈ b.finite_dom.toFinset := by
+    rw [Set.Finite.mem_toFinset]
+    simp [hv]
+  have hmem_a : l ∈ a.finite_dom.toFinset := heq ▸ hmem_b
+  rw [Set.Finite.mem_toFinset] at hmem_a
+  cases ha : a.cell l with
+  | none => exact False.elim (hmem_a ha)
+  | some w =>
+    have hbw := hab l w ha
+    rw [hv] at hbw
+    exact hbw.symm
+
+private theorem exists_subheap_mem_minSet_aux (n : ℕ) (M : Pred) (s : Stack) :
+    ∀ h : Heap, domCard h = n → (s, h) ∈ M →
+      ∃ h₀ : Heap, Heap.Subheap h₀ h ∧ (s, h₀) ∈ minSet M := by
+  induction n using Nat.strong_induction_on with
+  | h n ih =>
+    intro h hcard hm
+    by_cases hmin : (s, h) ∈ minSet M
+    · exact ⟨h, subheap_refl h, hmin⟩
+    · simp only [minSet, Set.mem_setOf_eq, hm, true_and, not_forall] at hmin
+      obtain ⟨h', hsub, hm', hne⟩ := hmin
+      have hlt : domCard h' < n := by
+        rw [← hcard]
+        exact domCard_lt_of_subheap_ne hsub hne
+      obtain ⟨h₀, hsub₀, hmin₀⟩ := ih (domCard h') hlt h' rfl hm'
+      exact ⟨h₀, subheap_trans hsub₀ hsub, hmin₀⟩
+
+private theorem exists_subheap_mem_minSet (M : Pred) {s : Stack} {h : Heap}
+    (hm : (s, h) ∈ M) :
+    ∃ h₀ : Heap, Heap.Subheap h₀ h ∧ (s, h₀) ∈ minSet M :=
+  exists_subheap_mem_minSet_aux (domCard h) M s h rfl hm
+
+private theorem spatialLe_refl (M : Pred) : SpatialLe M M := by
+  rw [spatialLe_iff]
+  intro s h hm
+  exact ⟨h, subheap_refl h, hm⟩
+
+private theorem spatialLe_trans {M₁ M₂ M₃ : Pred}
+    (h12 : SpatialLe M₁ M₂) (h23 : SpatialLe M₂ M₃) :
+    SpatialLe M₁ M₃ := by
+  rw [spatialLe_iff] at h12 h23 ⊢
+  intro s h hm3
+  obtain ⟨h₂, hsub2, hm2⟩ := h23 s h hm3
+  obtain ⟨h₁, hsub1, hm1⟩ := h12 s h₂ hm2
+  exact ⟨h₁, subheap_trans hsub1 hsub2, hm1⟩
+
+private theorem spatialLe_minSet_right (M : Pred) : SpatialLe M (minSet M) := by
+  rw [spatialLe_iff]
+  intro s h hmin
+  exact ⟨h, subheap_refl h, hmin.1⟩
+
+private theorem spatialLe_minSet_left (M : Pred) : SpatialLe (minSet M) M := by
+  rw [spatialLe_iff]
+  intro s h hm
+  exact exists_subheap_mem_minSet M hm
+
+private theorem minSet_subset_of_spatialLe_both {M M' : Pred}
+    (h1 : SpatialLe M M') (h2 : SpatialLe M' M) :
+    minSet M ⊆ minSet M' := by
+  rw [spatialLe_iff] at h1 h2
+  rintro ⟨s, h⟩ ⟨hm, hmin⟩
+  obtain ⟨h₁, hsub1, hm1'⟩ := h2 s h hm
+  obtain ⟨h₀, hsub0, hm0⟩ := h1 s h₁ hm1'
+  have h0_eq : h₀ = h := hmin h₀ (subheap_trans hsub0 hsub1) hm0
+  have hsub_h_h1 : Heap.Subheap h h₁ := h0_eq ▸ hsub0
+  have h1_eq : h₁ = h := subheap_antisymm hsub1 hsub_h_h1
+  refine ⟨h1_eq ▸ hm1', ?_⟩
+  intro h' hsub' hm'
+  obtain ⟨h'', hsub'', hm''⟩ := h1 s h' hm'
+  have h''_eq : h'' = h := hmin h'' (subheap_trans hsub'' hsub') hm''
+  have hsub_h_h' : Heap.Subheap h h' := h''_eq ▸ hsub''
+  exact subheap_antisymm hsub' hsub_h_h'
+
+private theorem better_refl (M : Pred) : Better M M :=
+  Or.inr ⟨spatialLe_refl M, spatialLe_refl M, Set.Subset.rfl⟩
+
+private theorem better_trans {M₁ M₂ M₃ : Pred}
+    (h12 : Better M₁ M₂) (h23 : Better M₂ M₃) :
+    Better M₁ M₃ := by
+  have hle12 : SpatialLe M₁ M₂ := by rcases h12 with ⟨h, _⟩ | ⟨h, _, _⟩ <;> exact h
+  have hle23 : SpatialLe M₂ M₃ := by rcases h23 with ⟨h, _⟩ | ⟨h, _, _⟩ <;> exact h
+  have hle13 : SpatialLe M₁ M₃ := spatialLe_trans hle12 hle23
+  by_cases hle31 : SpatialLe M₃ M₁
+  · have hle21 : SpatialLe M₂ M₁ := spatialLe_trans hle23 hle31
+    have hle32 : SpatialLe M₃ M₂ := spatialLe_trans hle31 hle12
+    rcases h12 with ⟨_, hnot21⟩ | ⟨_, _, hsub12⟩
+    · exact False.elim (hnot21 hle21)
+    · rcases h23 with ⟨_, hnot32⟩ | ⟨_, _, hsub23⟩
+      · exact False.elim (hnot32 hle32)
+      · exact Or.inr ⟨hle13, hle31, hsub12.trans hsub23⟩
+  · exact Or.inl ⟨hle13, hle31⟩
+
+private theorem better_antisymm {M₁ M₂ : Pred}
+    (h12 : Better M₁ M₂) (h21 : Better M₂ M₁) :
+    M₁ = M₂ := by
+  have hle12 : SpatialLe M₁ M₂ := by rcases h12 with ⟨h, _⟩ | ⟨h, _, _⟩ <;> exact h
+  have hle21 : SpatialLe M₂ M₁ := by rcases h21 with ⟨h, _⟩ | ⟨h, _, _⟩ <;> exact h
+  rcases h12 with ⟨_, hnot21⟩ | ⟨_, _, hsub12⟩
+  · exact False.elim (hnot21 hle21)
+  · rcases h21 with ⟨_, hnot12⟩ | ⟨_, _, hsub21⟩
+    · exact False.elim (hnot12 hle12)
+    · exact Set.Subset.antisymm hsub12 hsub21
+
+private theorem better_minSet_of_spatialLe {M M' : Pred} (hle : SpatialLe M' M) :
+    Better (minSet M') M := by
+  have hle_min : SpatialLe (minSet M') M :=
+    spatialLe_trans (spatialLe_minSet_left M') hle
+  by_cases hrev : SpatialLe M (minSet M')
+  · have hle_rev : SpatialLe M M' :=
+      spatialLe_trans hrev (spatialLe_minSet_left M')
+    have hsub : minSet M' ⊆ M :=
+      (minSet_subset_of_spatialLe_both hle hle_rev).trans (fun _ hp => hp.1)
+    exact Or.inr ⟨hle_min, hrev, hsub⟩
+  · exact Or.inl ⟨hle_min, hrev⟩
+
+end SolBiAbductionFootprintLemma311
+
+open SolBiAbductionFootprintLemma311
+
+theorem solution :
+    ((∀ M : Pred, Better M M) ∧
+      (∀ M₁ M₂ M₃ : Pred, Better M₁ M₂ → Better M₂ M₃ → Better M₁ M₃) ∧
+      (∀ M₁ M₂ : Pred, Better M₁ M₂ → Better M₂ M₁ → M₁ = M₂)) ∧
+    ∀ M M' : Pred,
+      (SpatialLe M' M → Better (minSet M') M) ∧ Better (minSet M) M := by
+  refine ⟨⟨better_refl, fun _ _ _ => better_trans, fun _ _ => better_antisymm⟩, ?_⟩
+  intro M M'
+  exact ⟨better_minSet_of_spatialLe, better_minSet_of_spatialLe (spatialLe_refl M)⟩

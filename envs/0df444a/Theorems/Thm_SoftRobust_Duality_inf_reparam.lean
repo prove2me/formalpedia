@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftRobust_Duality_inf_reparam
 -- name    : SoftRobust.Duality.inf_reparam
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T18:49:19.98039+00:00
 -- url     : https://prove2.me/theorems/00380182-10b6-41bd-8d64-2aed06fb4fde

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Asymptotic_proposition_1
 -- name    : InfoRelaxTS.Asymptotic.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:22:22.863296+00:00
 -- url     : https://prove2.me/theorems/e45729f2-16db-4878-a2b6-be8cc497750c

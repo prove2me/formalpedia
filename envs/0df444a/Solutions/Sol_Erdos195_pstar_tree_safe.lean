@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.pstar_tree_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:42:56.629708+00:00
 -- url     : https://prove2.me/submissions/68ee2656-43a4-477c-9bf7-ced8ff226821
 

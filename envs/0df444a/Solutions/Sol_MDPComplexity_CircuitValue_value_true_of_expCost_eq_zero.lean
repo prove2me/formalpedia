@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.CircuitValue.value_true_of_expCost_eq_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:34:52.483116+00:00
 -- url     : https://prove2.me/submissions/4d2ad2c5-d5f7-4035-ba8d-b0de62349711
 

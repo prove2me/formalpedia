@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFIrrev_Equilibrium_roots_4_29
 -- name    : MFIrrev.Equilibrium.roots_4_29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:25:20.415969+00:00
 -- url     : https://prove2.me/theorems/51af128f-3de8-4503-8e39-5b988da832de

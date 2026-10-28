@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_AllDist_proposition_4
 -- name    : RobustSPA.AllDist.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:44.726864+00:00
 -- url     : https://prove2.me/theorems/041bde22-0442-47f8-b63a-e920c52a2775

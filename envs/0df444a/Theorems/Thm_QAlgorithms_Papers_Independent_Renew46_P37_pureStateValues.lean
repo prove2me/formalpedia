@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P37_pureStateValues
 -- name    : QAlgorithms.Papers.Independent.Renew46.P37.pureStateValues
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T22:24:56.519712+00:00
 -- url     : https://prove2.me/theorems/84443ffb-dd7e-4f16-a281-2fd57dc3a95e

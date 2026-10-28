@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Symmetric_P_nonneg_sum
 -- name    : PCSPBLPAff.Symmetric.P_nonneg_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:20.190612+00:00
 -- url     : https://prove2.me/theorems/b63a0026-e4cc-4b8e-8d40-71f7c0c6950d

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh_verified_slice_103_104
 -- name    : TaoFivePrimes.rh_verified_slice_103_104
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T11:41:53.431417+00:00
 -- url     : https://prove2.me/theorems/c3513138-4bb8-4c13-8309-1a505e046c06
 -- title:

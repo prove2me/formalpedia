@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_macro_class_no_absorption
 -- name    : Erdos195.macro_class_no_absorption
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:55:47.484048+00:00
 -- url     : https://prove2.me/theorems/d35dac96-be2d-428a-bae3-6ec2897c98d1
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_RayCGLP_ray_normalization_geometry_v2
 -- name    : Disjunctive.RayCGLP.ray_normalization_geometry_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:06:37.153724+00:00
 -- url     : https://prove2.me/theorems/d9496a50-20cf-4e33-a432-18684d249fb9

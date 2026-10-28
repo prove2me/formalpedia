@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_Monotone_theorem_1
 -- name    : BudgetClock.Monotone.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:27.842961+00:00
 -- url     : https://prove2.me/theorems/0f6e1b76-97ea-440a-88e7-2285b8545796

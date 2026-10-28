@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.pstar_two_four_aux
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:42:58.141805+00:00
 -- url     : https://prove2.me/submissions/6521de2b-1fd2-48d9-a0bf-d58447908c99
 

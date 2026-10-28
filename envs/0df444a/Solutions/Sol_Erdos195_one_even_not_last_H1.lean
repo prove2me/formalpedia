@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.one_even_not_last_H1
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T17:59:07.674096+00:00
 -- url     : https://prove2.me/submissions/194a92a4-1c3c-40fe-be9d-2bdf925c2ae2
 

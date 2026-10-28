@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoreauChance_Consistency_theorem_5_4
 -- name    : MoreauChance.Consistency.theorem_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:35.310367+00:00
 -- url     : https://prove2.me/theorems/4cbba069-5534-4b5e-9d85-84dd50de975b

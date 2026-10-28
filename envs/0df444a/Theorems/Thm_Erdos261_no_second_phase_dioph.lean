@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_no_second_phase_dioph
 -- name    : Erdos261.no_second_phase_dioph
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:12.20407+00:00
 -- url     : https://prove2.me/theorems/438eb0e7-4fc3-40cb-8739-0eb6681033c0
 -- title:

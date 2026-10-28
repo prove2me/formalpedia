@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_Dual_inf_quad_hyperplane
 -- name    : OTDRO.Dual.inf_quad_hyperplane
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:29.011247+00:00
 -- url     : https://prove2.me/theorems/097ce444-d58a-4211-9ea5-10770f565086

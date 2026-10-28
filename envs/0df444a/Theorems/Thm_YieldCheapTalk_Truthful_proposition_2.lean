@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldCheapTalk_Truthful_proposition_2
 -- name    : YieldCheapTalk.Truthful.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:30:52.807185+00:00
 -- url     : https://prove2.me/theorems/925b86b0-6d3d-4f4d-9d6e-b502972e3737

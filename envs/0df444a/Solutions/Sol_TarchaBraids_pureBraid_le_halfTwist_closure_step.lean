@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TarchaBraids.pureBraid_le_halfTwist_closure_step
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @cm_beta
 -- created : 2026-09-21T23:36:41.912346+00:00
 -- url     : https://prove2.me/submissions/04b1fb66-bf74-4f13-875f-73407c0eaaae
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_BraidsLinksMCG_fadellNeuwirth_ker_image_le_halfTwist
 import Mathlib

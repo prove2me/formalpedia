@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatch_Attenuation_eq_22
 -- name    : OfflineStochMatch.Attenuation.eq_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:59.246213+00:00
 -- url     : https://prove2.me/theorems/64eac0af-65a5-4366-a898-3208f54e0b0a

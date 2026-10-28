@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.nine_pow_lift_bit
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T10:01:42.727618+00:00
 -- url     : https://prove2.me/submissions/cd8d4786-bf7d-43f8-aa4b-a37f2e4e3769
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BreakingSample_PolicyEval_lemma_10
 -- name    : BreakingSample.PolicyEval.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:01:41.496988+00:00
 -- url     : https://prove2.me/theorems/8cd223c7-4b87-45e2-acb0-a9342884a691

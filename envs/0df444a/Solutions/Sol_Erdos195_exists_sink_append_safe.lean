@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.exists_sink_append_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T00:10:43.791752+00:00
 -- url     : https://prove2.me/submissions/7f4e546c-a138-43c6-8d20-031d17fa4e73
 

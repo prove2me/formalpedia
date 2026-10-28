@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Bandits_theorem_9_17_adversarial
 -- name    : ModernOnlineLearning.Bandits.theorem_9_17_adversarial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:38:25.65925+00:00
 -- url     : https://prove2.me/theorems/482d3fbc-142f-4af1-9f74-2826542fbecc

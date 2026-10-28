@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakHessian_every_geodesic
 -- name    : OAI.WeakHessian.every_geodesic
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:38.446768+00:00
 -- url     : https://prove2.me/theorems/233da58f-705b-47c5-9108-df17f0b21990

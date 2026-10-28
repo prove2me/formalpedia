@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Kaplansky_kaplansky_quasitrace_counterexample
 -- name    : OAI.Kaplansky.kaplansky_quasitrace_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:51.088025+00:00
 -- url     : https://prove2.me/theorems/218152ff-7414-4419-baf7-1aefbc70b7e5

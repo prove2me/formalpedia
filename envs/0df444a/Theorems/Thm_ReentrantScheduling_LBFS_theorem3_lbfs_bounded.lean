@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReentrantScheduling_LBFS_theorem3_lbfs_bounded
 -- name    : ReentrantScheduling.LBFS.theorem3_lbfs_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:32:21.107595+00:00
 -- url     : https://prove2.me/theorems/bd667e42-e544-4ca5-8224-cec534d546ed

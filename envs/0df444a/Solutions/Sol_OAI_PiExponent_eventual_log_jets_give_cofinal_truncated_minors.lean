@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.eventual_log_jets_give_cofinal_truncated_minors
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:44:45.841107+00:00
 -- url     : https://prove2.me/submissions/8621b038-5e30-4f75-b813-e01cd3b535be
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_PiExponent_FiniteMinorComparison
 import Theorems.Thm_OAI_PiExponent_InterpolationMatrix_surjective_iff_of_weight_filtered_shift

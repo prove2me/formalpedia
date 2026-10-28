@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_EqualSources_reversed_implication
 -- name    : SourceTheory.EqualSources.reversed_implication
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:07.794398+00:00
 -- url     : https://prove2.me/theorems/02bf869f-f972-4334-8358-7cbb69670b2b

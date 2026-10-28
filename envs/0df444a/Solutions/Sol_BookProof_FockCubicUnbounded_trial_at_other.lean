@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.FockCubicUnbounded.trial_at_other
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:22:08.290064+00:00
 -- url     : https://prove2.me/submissions/7b0ffb81-3446-4bd1-acdd-ab15ee0736f8
 

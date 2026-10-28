@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThreeTorus_simple_lebesgue_spectrum
 -- name    : OAI.ThreeTorus.simple_lebesgue_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:32.053056+00:00
 -- url     : https://prove2.me/theorems/446ff69c-60cc-4c7b-aa74-a55255ca6911

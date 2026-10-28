@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoreauChance_Consistency_proposition_5_1
 -- name    : MoreauChance.Consistency.proposition_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:56.045986+00:00
 -- url     : https://prove2.me/theorems/b0637b73-0ad4-4a4d-bd23-80be062c1806

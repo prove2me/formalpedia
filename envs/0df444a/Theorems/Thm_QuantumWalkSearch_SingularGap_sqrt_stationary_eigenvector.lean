@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_SingularGap_sqrt_stationary_eigenvector
 -- name    : QuantumWalkSearch.SingularGap.sqrt_stationary_eigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:41:17.708696+00:00
 -- url     : https://prove2.me/theorems/f02c5548-fe05-4119-8607-b01f4f40ba93

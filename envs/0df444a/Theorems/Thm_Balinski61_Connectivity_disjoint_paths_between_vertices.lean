@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Balinski61_Connectivity_disjoint_paths_between_vertices
 -- name    : Balinski61.Connectivity.disjoint_paths_between_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:51:00.894026+00:00
 -- url     : https://prove2.me/theorems/f762a10e-14c5-4b51-9ef6-2763fa26bf0c

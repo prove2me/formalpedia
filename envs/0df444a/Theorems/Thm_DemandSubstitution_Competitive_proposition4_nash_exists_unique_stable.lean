@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DemandSubstitution_Competitive_proposition4_nash_exists_unique_stable
 -- name    : DemandSubstitution.Competitive.proposition4_nash_exists_unique_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:15:28.199851+00:00
 -- url     : https://prove2.me/theorems/19701dd7-9c40-4c1e-899c-901e9588ac5d

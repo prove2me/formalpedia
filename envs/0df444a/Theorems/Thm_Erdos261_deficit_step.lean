@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_deficit_step
 -- name    : Erdos261.deficit_step
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:29.471421+00:00
 -- url     : https://prove2.me/theorems/ea17ac6a-e3e7-4b6a-a19b-02afcface3b6
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_SufficientConditions_sq_pricing_error_split
 -- name    : KeskinZeevi.SufficientConditions.sq_pricing_error_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T04:01:42.836708+00:00
 -- url     : https://prove2.me/theorems/d0e4a1a8-1070-40d3-b477-77a150b9b2f8

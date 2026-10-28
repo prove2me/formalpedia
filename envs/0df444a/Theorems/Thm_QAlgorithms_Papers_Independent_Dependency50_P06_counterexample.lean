@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P06_counterexample
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P06.counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:21:16.434991+00:00
 -- url     : https://prove2.me/theorems/7299c6f4-c4fc-4459-b40f-09e7b39f9883

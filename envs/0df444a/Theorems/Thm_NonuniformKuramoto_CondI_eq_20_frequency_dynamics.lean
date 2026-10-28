@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondI_eq_20_frequency_dynamics
 -- name    : NonuniformKuramoto.CondI.eq_20_frequency_dynamics
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:15.969248+00:00
 -- url     : https://prove2.me/theorems/26839ae9-b0ea-48f4-a391-be8385f2baa4

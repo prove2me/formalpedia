@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Improved_case_2_count
 -- name    : CClosedGraphs.Improved.case_2_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:46.817041+00:00
 -- url     : https://prove2.me/theorems/ab3668d6-7672-4a10-9c41-2b5e0748c5a2

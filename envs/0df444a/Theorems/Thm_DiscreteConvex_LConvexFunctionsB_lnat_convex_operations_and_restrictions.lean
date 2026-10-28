@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsB_lnat_convex_operations_and_restrictions
 -- name    : DiscreteConvex.LConvexFunctionsB.lnat_convex_operations_and_restrictions
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:25:29.048985+00:00
 -- url     : https://prove2.me/theorems/f10024ab-a792-435a-ac69-3ce8f65c5e64

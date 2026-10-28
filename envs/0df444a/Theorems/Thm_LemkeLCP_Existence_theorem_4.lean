@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LemkeLCP_Existence_theorem_4
 -- name    : LemkeLCP.Existence.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:04:48.919857+00:00
 -- url     : https://prove2.me/theorems/f2d1b156-3510-4cc4-bc43-93cb099bfa8a

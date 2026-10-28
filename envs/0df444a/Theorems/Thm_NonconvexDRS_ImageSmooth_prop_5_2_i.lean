@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexDRS_ImageSmooth_prop_5_2_i
 -- name    : NonconvexDRS.ImageSmooth.prop_5_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T15:36:29.372681+00:00
 -- url     : https://prove2.me/theorems/2185f3be-163a-4547-b90d-bd1aacb22d46

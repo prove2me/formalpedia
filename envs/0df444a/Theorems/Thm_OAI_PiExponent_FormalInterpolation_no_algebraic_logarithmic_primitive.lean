@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_no_algebraic_logarithmic_primitive
 -- name    : OAI.PiExponent.FormalInterpolation.no_algebraic_logarithmic_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T23:27:13.634207+00:00
 -- url     : https://prove2.me/theorems/48f7595f-66fd-45ce-be71-9beed29f85b7

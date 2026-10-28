@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemilinearHJ_Verification_eq_3_5
 -- name    : SemilinearHJ.Verification.eq_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:57.457182+00:00
 -- url     : https://prove2.me/theorems/5ca77a92-cfd5-441d-8582-a2cdb062a887

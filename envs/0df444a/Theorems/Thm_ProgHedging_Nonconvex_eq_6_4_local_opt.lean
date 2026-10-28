@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProgHedging_Nonconvex_eq_6_4_local_opt
 -- name    : ProgHedging.Nonconvex.eq_6_4_local_opt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:39:59.983997+00:00
 -- url     : https://prove2.me/theorems/0aaa613f-9623-4918-a68d-9f5f70842277

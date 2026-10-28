@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_J6Seg_ChB_axBudget6_ap6
 -- name    : J6Seg.ChB.axBudget6_ap6
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:30:40.922605+00:00
 -- url     : https://prove2.me/theorems/6aa27c6c-b49e-47ed-b5b3-dcd0d32d39db
 -- title:

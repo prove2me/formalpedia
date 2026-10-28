@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CClosedGraphs.Improved.isCClosedOn_mono
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:55:04.09263+00:00
 -- url     : https://prove2.me/submissions/af067c07-3f19-4ad9-9cff-f6c2e36563e2
 

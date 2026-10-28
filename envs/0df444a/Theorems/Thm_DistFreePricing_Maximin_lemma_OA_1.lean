@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistFreePricing_Maximin_lemma_OA_1
 -- name    : DistFreePricing.Maximin.lemma_OA_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:30.523882+00:00
 -- url     : https://prove2.me/theorems/aa5a486a-aff0-4f9e-9ce4-5891aeb3fdaa

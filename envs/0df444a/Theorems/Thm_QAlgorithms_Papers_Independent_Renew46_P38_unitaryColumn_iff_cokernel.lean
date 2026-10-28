@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P38_unitaryColumn_iff_cokernel
 -- name    : QAlgorithms.Papers.Independent.Renew46.P38.unitaryColumn_iff_cokernel
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:09:42.850679+00:00
 -- url     : https://prove2.me/theorems/0526f84a-afa6-4172-bf7a-6d2e4df58316

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P15_proposition5_quantumCoupling
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P15.proposition5_quantumCoupling
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:23:43.367978+00:00
 -- url     : https://prove2.me/theorems/93b8f117-9e0d-479e-832b-f06b340d079b

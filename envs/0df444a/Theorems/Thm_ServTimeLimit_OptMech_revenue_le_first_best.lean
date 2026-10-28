@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServTimeLimit_OptMech_revenue_le_first_best
 -- name    : ServTimeLimit.OptMech.revenue_le_first_best
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:51.669997+00:00
 -- url     : https://prove2.me/theorems/0a56fe4a-3f1d-4b21-9b8a-86508e0cfc60

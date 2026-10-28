@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineNRM_TSFixed_ideal_regret_accounting_identity
 -- name    : OnlineNRM.TSFixed.ideal_regret_accounting_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T14:28:56.547113+00:00
 -- url     : https://prove2.me/theorems/5f800914-ac8c-4376-977e-4e65e1916a67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P31_capacityEntropyUpperBound
 -- name    : QAlgorithms.Papers.Independent.Support50.P31.capacityEntropyUpperBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:32:16.159842+00:00
 -- url     : https://prove2.me/theorems/4b1c0a30-6e35-45b7-8d31-68859ca9b0af

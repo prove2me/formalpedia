@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyAdvEq_Existence_lemma_7_2
 -- name    : GreedyAdvEq.Existence.lemma_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:33:08.490508+00:00
 -- url     : https://prove2.me/theorems/8ce41479-d31d-444f-87a8-26d5c3075c99

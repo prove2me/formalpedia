@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P33_tightnessNeighborhoodCriterion
 -- name    : QAlgorithms.Papers.Independent.Support50.P33.tightnessNeighborhoodCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:32:55.080062+00:00
 -- url     : https://prove2.me/theorems/6521aa0f-39db-4de1-9ccf-119bada2ea71

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_isAlgebraic_eq_algebraMap_of_isAlgClosed
 -- name    : OAI.PiExponent.FormalInterpolation.isAlgebraic_eq_algebraMap_of_isAlgClosed
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:19:54.950991+00:00
 -- url     : https://prove2.me/theorems/9a04d30b-dfbb-430a-be09-54b7f1f5fbc2
 -- title:

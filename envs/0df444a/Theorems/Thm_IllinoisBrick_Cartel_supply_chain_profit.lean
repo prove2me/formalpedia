@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IllinoisBrick_Cartel_supply_chain_profit
 -- name    : IllinoisBrick.Cartel.supply_chain_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:54.344447+00:00
 -- url     : https://prove2.me/theorems/0920a14f-6394-46e6-a792-9ec080deb6a8

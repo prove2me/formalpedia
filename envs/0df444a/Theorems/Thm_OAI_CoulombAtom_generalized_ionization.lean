@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CoulombAtom_generalized_ionization
 -- name    : OAI.CoulombAtom.generalized_ionization
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:29.871874+00:00
 -- url     : https://prove2.me/theorems/db29ef9a-7631-4b32-8c96-e01d37a688c8

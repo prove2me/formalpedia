@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.GroupConv.cyclic_cross_correlation
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:36:39.895175+00:00
 -- url     : https://prove2.me/submissions/0b1d70d1-d787-4a7a-b3cc-d4a58fbcc137
 

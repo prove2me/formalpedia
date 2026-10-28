@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchalAvg_AvgOpt_lemma_2_3_i
 -- name    : SchalAvg.AvgOpt.lemma_2_3_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:50:55.068975+00:00
 -- url     : https://prove2.me/theorems/e14341e3-495c-45aa-ac43-ca61c2f100d6

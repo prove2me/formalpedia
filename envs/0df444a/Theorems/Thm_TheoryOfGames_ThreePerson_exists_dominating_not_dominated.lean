@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_exists_dominating_not_dominated
 -- name    : TheoryOfGames.ThreePerson.exists_dominating_not_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:24:33.91972+00:00
 -- url     : https://prove2.me/theorems/dda8f660-7451-4350-bb9b-323bf239560b

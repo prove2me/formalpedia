@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_epsLt_safe_append_far
 -- name    : Erdos195.epsLt_safe_append_far
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T02:21:59.619884+00:00
 -- url     : https://prove2.me/theorems/968e0845-2ce9-42f4-b5ce-408631987f1c
 -- title:

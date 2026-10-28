@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P02_degradable_concavity
 -- name    : QAlgorithms.Papers.Independent.Support50.P02.degradable_concavity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:19:59.157635+00:00
 -- url     : https://prove2.me/theorems/2ee45fc8-5660-4a2d-bce6-07d10cb594ed

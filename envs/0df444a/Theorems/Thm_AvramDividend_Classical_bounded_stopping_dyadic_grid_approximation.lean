@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bounded_stopping_dyadic_grid_approximation
 -- name    : AvramDividend.Classical.bounded_stopping_dyadic_grid_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T09:34:57.061216+00:00
 -- url     : https://prove2.me/theorems/68cdb033-cbf7-4640-a303-5d06c3c7a761

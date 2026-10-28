@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P10_count_bounds_and_residue_offsets
 -- name    : QAlgorithms.Papers.Independent.Gap48.P10.count_bounds_and_residue_offsets
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:30:36.6663+00:00
 -- url     : https://prove2.me/theorems/7432c824-b5ee-4581-bbd6-df6d161360f4

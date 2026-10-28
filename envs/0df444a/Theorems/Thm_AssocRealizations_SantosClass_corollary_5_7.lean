@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssocRealizations_SantosClass_corollary_5_7
 -- name    : AssocRealizations.SantosClass.corollary_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:18:29.437271+00:00
 -- url     : https://prove2.me/theorems/0e6c5404-2e13-4f19-b985-d7ba392269ad

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_no_tame_cover
 -- name    : Erdos195.no_tame_cover
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T03:10:04.008715+00:00
 -- url     : https://prove2.me/theorems/93f310e0-2e34-46ce-aaae-0d18db641891
 -- title:

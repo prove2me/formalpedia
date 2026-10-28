@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_fibreContact_excess_forces_derivative_vanishing
 -- name    : OAI.PiExponent.FormalInterpolation.fibreContact_excess_forces_derivative_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T09:44:22.974333+00:00
 -- url     : https://prove2.me/theorems/2abd7dd5-b76e-42d0-beb8-e4bfad44ac52

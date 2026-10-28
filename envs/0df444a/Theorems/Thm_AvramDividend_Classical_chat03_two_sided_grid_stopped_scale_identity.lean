@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat03_two_sided_grid_stopped_scale_identity
 -- name    : AvramDividend.Classical.chat03_two_sided_grid_stopped_scale_identity
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-21T04:13:04.283443+00:00
 -- url     : https://prove2.me/theorems/ac7212b2-18ee-4ce5-b5aa-ea36159e92a4

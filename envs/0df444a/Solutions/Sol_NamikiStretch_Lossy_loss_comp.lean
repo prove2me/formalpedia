@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NamikiStretch.Lossy.loss_comp
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:09:08.891609+00:00
 -- url     : https://prove2.me/submissions/4c1c8d81-e2ca-49e8-9396-6c6b553db99f
 

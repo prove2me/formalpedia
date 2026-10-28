@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliffordTApprox_Ancilla_norm_deficit
 -- name    : CliffordTApprox.Ancilla.norm_deficit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:01.260185+00:00
 -- url     : https://prove2.me/theorems/f13fd7a9-3226-4289-9a83-0284a81dd9c5

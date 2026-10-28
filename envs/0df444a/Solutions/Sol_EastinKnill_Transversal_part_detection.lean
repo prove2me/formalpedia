@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for EastinKnill.Transversal.part_detection
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:10:24.769507+00:00
 -- url     : https://prove2.me/submissions/f95bb140-7d32-4097-8127-336b653341d7
 

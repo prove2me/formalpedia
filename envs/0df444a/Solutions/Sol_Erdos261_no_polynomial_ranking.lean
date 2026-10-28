@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.no_polynomial_ranking
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:28.586495+00:00
 -- url     : https://prove2.me/submissions/20604a90-182c-490b-a247-c8f6a93f4c9b
 

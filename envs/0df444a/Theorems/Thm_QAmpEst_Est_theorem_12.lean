@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAmpEst_Est_theorem_12
 -- name    : QAmpEst.Est.theorem_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:44.481167+00:00
 -- url     : https://prove2.me/theorems/237c190d-621d-43bf-af21-f6056d59d6ee

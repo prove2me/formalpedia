@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P48_conditional_entropy_evaluation
 -- name    : QAlgorithms.Papers.Independent.Support50.P48.conditional_entropy_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:01:34.420836+00:00
 -- url     : https://prove2.me/theorems/2223e1b0-7e04-476e-96dd-7c73f683232e

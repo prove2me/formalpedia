@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IRLSM_Convergence_theorem_6_11
 -- name    : IRLSM.Convergence.theorem_6_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:52:29.347796+00:00
 -- url     : https://prove2.me/theorems/2b5a023a-aade-459d-92c0-39900f5e94d3

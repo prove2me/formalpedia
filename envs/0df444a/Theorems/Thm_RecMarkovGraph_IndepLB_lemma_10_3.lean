@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecMarkovGraph_IndepLB_lemma_10_3
 -- name    : RecMarkovGraph.IndepLB.lemma_10_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:40.808152+00:00
 -- url     : https://prove2.me/theorems/6a51e70e-d154-4fa0-96ca-d09bf1f69c62

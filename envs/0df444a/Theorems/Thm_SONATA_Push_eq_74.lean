@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SONATA_Push_eq_74
 -- name    : SONATA.Push.eq_74
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:14:33.187003+00:00
 -- url     : https://prove2.me/theorems/c47c3bf0-a461-41a0-838d-9f11cb239428

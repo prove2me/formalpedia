@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P30_equivariantUnitary_coveringNumber
 -- name    : QAlgorithms.Papers.Independent.Support50.P30.equivariantUnitary_coveringNumber
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:26:08.947875+00:00
 -- url     : https://prove2.me/theorems/09e2278a-d2ba-418f-bfde-673453c207fb

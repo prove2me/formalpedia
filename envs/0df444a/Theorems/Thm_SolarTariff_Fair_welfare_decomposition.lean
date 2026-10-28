@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolarTariff_Fair_welfare_decomposition
 -- name    : SolarTariff.Fair.welfare_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:30.653352+00:00
 -- url     : https://prove2.me/theorems/eae2f7c9-c269-4b73-852e-6f363784f899

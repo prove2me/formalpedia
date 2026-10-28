@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_packet_support_sum_eq_mulVec
 -- name    : OAI.PiExponent.FormalInterpolation.truncated_packet_support_sum_eq_mulVec
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:54:04.012029+00:00
 -- url     : https://prove2.me/theorems/4d514a66-8ad7-41eb-9f57-2cad737b7d01

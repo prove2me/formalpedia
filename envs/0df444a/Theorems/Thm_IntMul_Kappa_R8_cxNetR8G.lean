@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_cxNetR8G
 -- name    : IntMul.Kappa.R8.cxNetR8G
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:07:10.317308+00:00
 -- url     : https://prove2.me/theorems/dd643349-ee20-4e21-9a28-ac0de8dc98a3
 -- title:

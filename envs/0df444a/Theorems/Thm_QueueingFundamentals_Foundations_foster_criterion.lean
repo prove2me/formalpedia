@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueingFundamentals_Foundations_foster_criterion
 -- name    : QueueingFundamentals.Foundations.foster_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T06:49:12.769692+00:00
 -- url     : https://prove2.me/theorems/9ad500cc-c5b6-4aa2-9d9e-9f32b7850744

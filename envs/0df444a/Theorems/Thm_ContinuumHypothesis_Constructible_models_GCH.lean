@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_Constructible_models_GCH
 -- name    : ContinuumHypothesis.Constructible.models_GCH
--- status  : Open
+-- status  : Proved
 -- author  : @Victorized
 -- created : 2026-10-23T23:11:55.021231+00:00
 -- url     : https://prove2.me/theorems/6743723b-9415-45e2-9393-64e7efbb2528

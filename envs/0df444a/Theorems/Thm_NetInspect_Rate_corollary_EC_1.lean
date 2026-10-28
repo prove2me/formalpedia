@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetInspect_Rate_corollary_EC_1
 -- name    : NetInspect.Rate.corollary_EC_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:04.507992+00:00
 -- url     : https://prove2.me/theorems/29aed802-7e7f-48f0-9ca9-2d2ef3a18dc5

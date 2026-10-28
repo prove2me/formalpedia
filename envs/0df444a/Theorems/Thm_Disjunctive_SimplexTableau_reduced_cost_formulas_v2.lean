@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_SimplexTableau_reduced_cost_formulas_v2
 -- name    : Disjunctive.SimplexTableau.reduced_cost_formulas_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:10:17.909096+00:00
 -- url     : https://prove2.me/theorems/3e6fce0d-5165-4b22-a73b-6e661a6ca0a1

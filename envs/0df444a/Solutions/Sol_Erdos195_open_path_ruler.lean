@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_path_ruler
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T22:16:28.821831+00:00
 -- url     : https://prove2.me/submissions/c77b23d2-0e72-4c8d-a934-5816c95d95ff
 

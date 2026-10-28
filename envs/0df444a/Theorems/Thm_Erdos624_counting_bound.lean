@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_counting_bound
 -- name    : Erdos624.counting_bound
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:46:57.448742+00:00
 -- url     : https://prove2.me/theorems/d9a28e9c-70ae-4307-8f0c-0821d6541336
 -- title:

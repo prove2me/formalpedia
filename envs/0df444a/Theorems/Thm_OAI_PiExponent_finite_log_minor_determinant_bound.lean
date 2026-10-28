@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_finite_log_minor_determinant_bound
 -- name    : OAI.PiExponent.finite_log_minor_determinant_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:13:01.568887+00:00
 -- url     : https://prove2.me/theorems/9cec50be-098f-4ebd-9c81-398ca937900a

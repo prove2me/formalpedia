@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AryaANN_Search_disjoint_box_count
 -- name    : AryaANN.Search.disjoint_box_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:55:47.868475+00:00
 -- url     : https://prove2.me/theorems/612c0a31-3699-4a67-bdc7-3f0e595fcb76

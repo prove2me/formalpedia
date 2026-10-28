@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShadowTomography_QuantumLB_eq_2
 -- name    : ShadowTomography.QuantumLB.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:13:41.36253+00:00
 -- url     : https://prove2.me/theorems/eca4a131-fc12-41e9-a583-0943e7cdccaf

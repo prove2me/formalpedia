@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_relativeEntanglement_le_max
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.relativeEntanglement_le_max
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:48:18.033046+00:00
 -- url     : https://prove2.me/theorems/3d068b5f-8b4b-4e59-9b09-8452df30436f

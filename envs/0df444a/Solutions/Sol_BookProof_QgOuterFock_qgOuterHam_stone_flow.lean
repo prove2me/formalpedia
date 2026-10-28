@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgOuterFock.qgOuterHam_stone_flow
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-05T23:50:15.864568+00:00
 -- url     : https://prove2.me/submissions/72d8e95d-46dc-495b-b370-e78b03b5e24f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgOuterFockEsa.lean — solution of BookProof.QgOuterFock.qgOuterHam_stone_flow
 import Mathlib

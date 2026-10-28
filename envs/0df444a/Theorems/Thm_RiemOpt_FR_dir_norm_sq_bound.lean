@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiemOpt_FR_dir_norm_sq_bound
 -- name    : RiemOpt.FR.dir_norm_sq_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:22:51.867825+00:00
 -- url     : https://prove2.me/theorems/1fde545d-1513-449b-88cd-21181edf37a2

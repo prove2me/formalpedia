@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragLOB_Collapse_lifting_map_recovers
 -- name    : FragLOB.Collapse.lifting_map_recovers
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:43.260705+00:00
 -- url     : https://prove2.me/theorems/085881ce-0b86-4a07-85fb-0a0c177ea091

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CelestialWedge_soft_mode_rescaling
 -- name    : CelestialWedge.soft_mode_rescaling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T02:36:30.153163+00:00
 -- url     : https://prove2.me/theorems/5a2b9797-f526-4ac0-889d-d17fe33b983a

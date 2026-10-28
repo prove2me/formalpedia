@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P06_regularized_semigroup_lipschitz
 -- name    : QAlgorithms.Papers.Independent.Next46.P06.regularized_semigroup_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T13:46:53.911149+00:00
 -- url     : https://prove2.me/theorems/f62886dd-7e2c-4fe3-b0ea-be9c5a0a8aa6

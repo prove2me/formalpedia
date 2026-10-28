@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.bl_block
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:06.434866+00:00
 -- url     : https://prove2.me/submissions/98349f40-c6c5-4a4c-86b6-c918ade017a8
 

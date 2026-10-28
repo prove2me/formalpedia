@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdWordsMSVV_LowerBound_yao_step
 -- name    : AdWordsMSVV.LowerBound.yao_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:30.252782+00:00
 -- url     : https://prove2.me/theorems/cd6510ac-7b1f-42ae-8dbb-429cec64086b

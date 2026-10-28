@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_escape_chain_terminates
 -- name    : Erdos195.escape_chain_terminates
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:19:16.229953+00:00
 -- url     : https://prove2.me/theorems/792f0191-afcd-4970-89e5-de4d9fc0192a
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoherenceTracking_Dephasing_bloch_parametrization
 -- name    : CoherenceTracking.Dephasing.bloch_parametrization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:18.825814+00:00
 -- url     : https://prove2.me/theorems/21e0daec-da05-4cf2-aca6-c5fc02989162

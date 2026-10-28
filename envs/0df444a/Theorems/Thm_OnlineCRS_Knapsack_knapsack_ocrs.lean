@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Knapsack_knapsack_ocrs
 -- name    : OnlineCRS.Knapsack.knapsack_ocrs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:21:24.428986+00:00
 -- url     : https://prove2.me/theorems/42165372-0318-4927-9ba6-74c4ab33de2d

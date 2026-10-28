@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_mvt
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.mvt
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:46:23.66007+00:00
 -- url     : https://prove2.me/theorems/c3e94c9a-f8f2-4f58-8e79-33634e3eda94

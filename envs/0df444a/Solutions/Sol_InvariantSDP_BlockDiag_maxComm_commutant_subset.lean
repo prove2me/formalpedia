@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InvariantSDP.BlockDiag.maxComm_commutant_subset
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:12:02.004411+00:00
 -- url     : https://prove2.me/submissions/2dd0fd03-52b9-4e7c-a839-e3ba694f7dff
 

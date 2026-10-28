@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Regularization_coupling_upper_bound_v2
 -- name    : WassersteinDRO.Regularization.coupling_upper_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-06T16:46:33.097465+00:00
 -- url     : https://prove2.me/theorems/20ff2b51-23fe-4524-b32b-79f67a5c5c0c

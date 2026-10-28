@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P46_five_party_xor_monogamy
 -- name    : QAlgorithms.Papers.Independent.Support50.P46.five_party_xor_monogamy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T23:58:26.265087+00:00
 -- url     : https://prove2.me/theorems/5971caf5-19b5-46df-894b-a29ad3342397

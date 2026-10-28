@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P19_positiveFilter
 -- name    : QAlgorithms.Papers.Independent.Support50.P19.positiveFilter
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:23:41.56818+00:00
 -- url     : https://prove2.me/theorems/1619c4aa-94b4-4636-90df-1f675f0680c8

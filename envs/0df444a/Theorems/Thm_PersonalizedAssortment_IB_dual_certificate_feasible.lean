@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_dual_certificate_feasible
 -- name    : PersonalizedAssortment.IB.dual_certificate_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:56:48.836344+00:00
 -- url     : https://prove2.me/theorems/d1241db8-6c63-4940-82b4-62f981b2e3f1

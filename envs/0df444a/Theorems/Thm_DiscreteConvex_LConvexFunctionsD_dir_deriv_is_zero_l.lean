@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_dir_deriv_is_zero_l
 -- name    : DiscreteConvex.LConvexFunctionsD.dir_deriv_is_zero_l
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:05:32.788286+00:00
 -- url     : https://prove2.me/theorems/0d5d7e9f-ec0c-487f-b4ce-1500b898a8af

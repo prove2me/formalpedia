@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengFedergruenSS_Algorithm_theorem_1a
 -- name    : ZhengFedergruenSS.Algorithm.theorem_1a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:58:33.127556+00:00
 -- url     : https://prove2.me/theorems/dbe847c8-50b7-4006-8eb5-1029fb129063

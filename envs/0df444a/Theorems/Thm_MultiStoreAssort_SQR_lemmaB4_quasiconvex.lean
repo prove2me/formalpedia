@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_lemmaB4_quasiconvex
 -- name    : MultiStoreAssort.SQR.lemmaB4_quasiconvex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:16.212191+00:00
 -- url     : https://prove2.me/theorems/bf4017eb-450f-41ae-a4bf-5e8ba094f2e2

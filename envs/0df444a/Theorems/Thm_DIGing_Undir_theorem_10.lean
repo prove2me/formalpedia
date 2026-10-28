@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DIGing_Undir_theorem_10
 -- name    : DIGing.Undir.theorem_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:09:55.64575+00:00
 -- url     : https://prove2.me/theorems/4e474fb9-7503-478f-998a-4f6ae79dde2b

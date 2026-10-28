@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_large_aux_append
 -- name    : Erdos195.large_aux_append
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T11:08:23.729428+00:00
 -- url     : https://prove2.me/theorems/f15b3487-45f8-43c2-86d8-f7ed91d9dcae
 -- title:

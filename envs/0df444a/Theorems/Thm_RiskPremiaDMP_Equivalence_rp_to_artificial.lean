@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPremiaDMP_Equivalence_rp_to_artificial
 -- name    : RiskPremiaDMP.Equivalence.rp_to_artificial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:08.793975+00:00
 -- url     : https://prove2.me/theorems/d6a440bc-d29a-46ea-8e4d-8cf87d68dfc3

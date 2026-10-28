@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROOptimal_Prescriptor_theorem_7
 -- name    : DROOptimal.Prescriptor.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:13:28.120979+00:00
 -- url     : https://prove2.me/theorems/dd8c12c2-e724-493e-a051-937517ad0aed

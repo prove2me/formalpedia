@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P20_additivitySingleLetterizes
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P20.additivitySingleLetterizes
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:16:53.840481+00:00
 -- url     : https://prove2.me/theorems/ec473173-089f-4bcf-b7ad-8513d292f3c3

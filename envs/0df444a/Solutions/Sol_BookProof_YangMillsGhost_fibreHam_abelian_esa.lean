@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.YangMillsGhost.fibreHam_abelian_esa
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:35:36.470372+00:00
 -- url     : https://prove2.me/submissions/13a5acd3-86a7-495e-9df3-15017f184c51
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterYangMillsGhostSector.lean — solution of BookProof.YangMillsGhost.fibreHam_abelian_esa
 import Mathlib

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_rank_only_bound
 -- name    : Erdos624.rank_only_bound
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:40:58.331333+00:00
 -- url     : https://prove2.me/theorems/f9717209-81af-4f52-a54e-36f368db197b
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Async_eq_C3
 -- name    : LeiBR.Async.eq_C3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:09:18.521294+00:00
 -- url     : https://prove2.me/theorems/f63b572c-6342-48fa-9d43-2a322f2935c6

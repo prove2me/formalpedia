@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.QuadraticRotation.quadOpMat_essentiallySelfAdjoint
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:49:16.316373+00:00
 -- url     : https://prove2.me/submissions/a49d0ec5-e618-41c6-a096-6aabe2236113
 

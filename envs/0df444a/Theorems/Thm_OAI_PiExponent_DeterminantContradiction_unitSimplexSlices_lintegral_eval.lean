@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_unitSimplexSlices_lintegral_eval
 -- name    : OAI.PiExponent.DeterminantContradiction.unitSimplexSlices_lintegral_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T15:03:36.647462+00:00
 -- url     : https://prove2.me/theorems/17e4d6d2-e8af-4c8a-bca5-1890de47e162

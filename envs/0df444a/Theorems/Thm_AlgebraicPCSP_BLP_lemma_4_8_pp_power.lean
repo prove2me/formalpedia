@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_BLP_lemma_4_8_pp_power
 -- name    : AlgebraicPCSP.BLP.lemma_4_8_pp_power
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:12.023987+00:00
 -- url     : https://prove2.me/theorems/a437dd8f-d2d8-4527-a607-1dea1b10f9c3

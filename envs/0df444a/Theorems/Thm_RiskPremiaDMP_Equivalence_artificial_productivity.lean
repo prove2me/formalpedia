@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPremiaDMP_Equivalence_artificial_productivity
 -- name    : RiskPremiaDMP.Equivalence.artificial_productivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:16.442989+00:00
 -- url     : https://prove2.me/theorems/a1121823-1c55-4c6d-b37b-f4e15cbc69cd

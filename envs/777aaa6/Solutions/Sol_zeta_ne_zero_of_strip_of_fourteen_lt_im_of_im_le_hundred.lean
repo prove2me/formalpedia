@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for zeta_ne_zero_of_strip_of_fourteen_lt_im_of_im_le_hundred
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T10:04:22.229674+00:00
 -- url     : https://prove2.me/submissions/0db423c8-0fc6-46e5-8d6a-ca33f87b0251
 

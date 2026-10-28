@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupoidSchreier_Interpretation_theorem_3_2
 -- name    : GroupoidSchreier.Interpretation.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:36.882771+00:00
 -- url     : https://prove2.me/theorems/7dcee340-ae0c-41a3-a022-061babed1481

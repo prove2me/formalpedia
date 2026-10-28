@@ -1,0 +1,94 @@
+-- Prove2me | solution 1 for D1Bound5.PairLightAdaptivePrepared14.left_prefix_001_checked
+-- status  : ACCEPTED   (prove)
+-- author  : @tp
+-- created : 2026-10-24T03:34:27.997009+00:00
+-- url     : https://prove2.me/submissions/204d1835-7ae2-4457-8abb-ff8df31a825d
+
+import Init
+import Mathlib.Data.List.Basic
+import Definitions.Def_D1Bound5_PairLightArithmeticChunks_Definitions
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightAdaptiveData14_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData14LeftCached_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData14LeftRows_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData14Sieve_Definitions
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared14_left_parallel_001_part00_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared14_left_parallel_001_part01_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared14_left_parallel_001_part02_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared14_left_parallel_001_part03_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared14_left_parallel_001_part04_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared14_left_parallel_001_part05_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared14_left_parallel_001_part06_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared14_left_parallel_001_part07_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared14_left_parallel_001_part08_checked
+import Theorems.Thm_D1Bound5_PairLightAdaptivePrepared14_left_parallel_001_part09_checked
+import Theorems.Thm_D1Bound5_pairLightSelectedFloorPrefixBool_of_add
+
+section
+namespace D1Bound5.PairLightAdaptivePrepared14
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+theorem _root_.solution :
+    pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 114
+      leftCached001 leftRows001 = true := by
+  have h0196 : pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 6
+      (PairLightPrepared14.leftCached.drop 196) (PairLightPrepared14.leftRows.drop 196) = true := left_parallel_001_part09_checked
+  have h0184 : pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 18
+      (PairLightPrepared14.leftCached.drop 184) (PairLightPrepared14.leftRows.drop 184) = true := by
+    apply pairLightSelectedFloorPrefixBool_of_add 0 2 PairLightPrepared14.sieve 12 6
+      (PairLightPrepared14.leftCached.drop 184) (PairLightPrepared14.leftRows.drop 184)
+    · exact left_parallel_001_part08_checked
+    · simpa only [List.drop_drop, Nat.reduceAdd] using h0196
+  have h0172 : pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 30
+      (PairLightPrepared14.leftCached.drop 172) (PairLightPrepared14.leftRows.drop 172) = true := by
+    apply pairLightSelectedFloorPrefixBool_of_add 0 2 PairLightPrepared14.sieve 12 18
+      (PairLightPrepared14.leftCached.drop 172) (PairLightPrepared14.leftRows.drop 172)
+    · exact left_parallel_001_part07_checked
+    · simpa only [List.drop_drop, Nat.reduceAdd] using h0184
+  have h0160 : pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 42
+      (PairLightPrepared14.leftCached.drop 160) (PairLightPrepared14.leftRows.drop 160) = true := by
+    apply pairLightSelectedFloorPrefixBool_of_add 0 2 PairLightPrepared14.sieve 12 30
+      (PairLightPrepared14.leftCached.drop 160) (PairLightPrepared14.leftRows.drop 160)
+    · exact left_parallel_001_part06_checked
+    · simpa only [List.drop_drop, Nat.reduceAdd] using h0172
+  have h0148 : pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 54
+      (PairLightPrepared14.leftCached.drop 148) (PairLightPrepared14.leftRows.drop 148) = true := by
+    apply pairLightSelectedFloorPrefixBool_of_add 0 2 PairLightPrepared14.sieve 12 42
+      (PairLightPrepared14.leftCached.drop 148) (PairLightPrepared14.leftRows.drop 148)
+    · exact left_parallel_001_part05_checked
+    · simpa only [List.drop_drop, Nat.reduceAdd] using h0160
+  have h0136 : pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 66
+      (PairLightPrepared14.leftCached.drop 136) (PairLightPrepared14.leftRows.drop 136) = true := by
+    apply pairLightSelectedFloorPrefixBool_of_add 0 2 PairLightPrepared14.sieve 12 54
+      (PairLightPrepared14.leftCached.drop 136) (PairLightPrepared14.leftRows.drop 136)
+    · exact left_parallel_001_part04_checked
+    · simpa only [List.drop_drop, Nat.reduceAdd] using h0148
+  have h0124 : pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 78
+      (PairLightPrepared14.leftCached.drop 124) (PairLightPrepared14.leftRows.drop 124) = true := by
+    apply pairLightSelectedFloorPrefixBool_of_add 0 2 PairLightPrepared14.sieve 12 66
+      (PairLightPrepared14.leftCached.drop 124) (PairLightPrepared14.leftRows.drop 124)
+    · exact left_parallel_001_part03_checked
+    · simpa only [List.drop_drop, Nat.reduceAdd] using h0136
+  have h0112 : pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 90
+      (PairLightPrepared14.leftCached.drop 112) (PairLightPrepared14.leftRows.drop 112) = true := by
+    apply pairLightSelectedFloorPrefixBool_of_add 0 2 PairLightPrepared14.sieve 12 78
+      (PairLightPrepared14.leftCached.drop 112) (PairLightPrepared14.leftRows.drop 112)
+    · exact left_parallel_001_part02_checked
+    · simpa only [List.drop_drop, Nat.reduceAdd] using h0124
+  have h0100 : pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 102
+      (PairLightPrepared14.leftCached.drop 100) (PairLightPrepared14.leftRows.drop 100) = true := by
+    apply pairLightSelectedFloorPrefixBool_of_add 0 2 PairLightPrepared14.sieve 12 90
+      (PairLightPrepared14.leftCached.drop 100) (PairLightPrepared14.leftRows.drop 100)
+    · exact left_parallel_001_part01_checked
+    · simpa only [List.drop_drop, Nat.reduceAdd] using h0112
+  have h0088 : pairLightSelectedFloorPrefixBool 0 2 PairLightPrepared14.sieve 114
+      (PairLightPrepared14.leftCached.drop 88) (PairLightPrepared14.leftRows.drop 88) = true := by
+    apply pairLightSelectedFloorPrefixBool_of_add 0 2 PairLightPrepared14.sieve 12 102
+      (PairLightPrepared14.leftCached.drop 88) (PairLightPrepared14.leftRows.drop 88)
+    · exact left_parallel_001_part00_checked
+    · simpa only [List.drop_drop, Nat.reduceAdd] using h0100
+  exact h0088
+
+end D1Bound5.PairLightAdaptivePrepared14
+end

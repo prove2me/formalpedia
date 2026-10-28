@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAGFiniteSum_Rate_lyapunov_init_zero
 -- name    : SAGFiniteSum.Rate.lyapunov_init_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:19:27.743582+00:00
 -- url     : https://prove2.me/theorems/ce083693-be50-4174-9263-2e88c6962dd1

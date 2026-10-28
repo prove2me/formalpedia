@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedOpinion_Memory_theorem_8
 -- name    : DirectedOpinion.Memory.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:13:02.886381+00:00
 -- url     : https://prove2.me/theorems/2191c33a-a73f-4bd4-9c70-bdcf6705e4f3

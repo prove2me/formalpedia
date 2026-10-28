@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.DP.greedy_policy_improves
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:09:26.98719+00:00
 -- url     : https://prove2.me/submissions/3d17ae0a-f720-4b8a-8383-42c208c48e52
 

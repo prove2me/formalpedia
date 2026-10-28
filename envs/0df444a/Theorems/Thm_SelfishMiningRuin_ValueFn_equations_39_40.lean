@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishMiningRuin_ValueFn_equations_39_40
 -- name    : SelfishMiningRuin.ValueFn.equations_39_40
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:10.031386+00:00
 -- url     : https://prove2.me/theorems/17d44551-5241-4e20-b701-1fcf44214f64

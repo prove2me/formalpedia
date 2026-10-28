@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InfoRegimes.MarketEq.mean_variance_demand
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:21:42.839813+00:00
 -- url     : https://prove2.me/submissions/24e370c3-95c5-4284-82be-1f8e8af633f3
 

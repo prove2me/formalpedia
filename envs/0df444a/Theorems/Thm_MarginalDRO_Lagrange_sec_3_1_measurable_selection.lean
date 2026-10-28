@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalDRO_Lagrange_sec_3_1_measurable_selection
 -- name    : MarginalDRO.Lagrange.sec_3_1_measurable_selection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:45.327661+00:00
 -- url     : https://prove2.me/theorems/311ec4b2-f7cc-4bee-9d67-4f1a24ff18c8

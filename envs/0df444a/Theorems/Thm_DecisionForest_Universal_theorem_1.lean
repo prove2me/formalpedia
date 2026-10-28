@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecisionForest_Universal_theorem_1
 -- name    : DecisionForest.Universal.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:32.279985+00:00
 -- url     : https://prove2.me/theorems/c6d6dc3a-ddb1-42df-be7e-c35e016c3d6b

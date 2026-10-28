@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P04_relative_entropy_formula
 -- name    : QAlgorithms.Papers.Independent.Independent1.P04.relative_entropy_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:23:48.494458+00:00
 -- url     : https://prove2.me/theorems/de78c258-f48b-4564-9542-0f4fd2120eef

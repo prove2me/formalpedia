@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GradSampling_Conv_Gset_subset_epsSubdiff
 -- name    : GradSampling.Conv.Gset_subset_epsSubdiff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:48:29.348208+00:00
 -- url     : https://prove2.me/theorems/d6c5402b-2022-42fe-8353-84d2d527cc36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_pure_state_angle
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.pure_state_angle
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:43:56.257708+00:00
 -- url     : https://prove2.me/theorems/c7247052-ccd3-4373-86e7-22565169e76c

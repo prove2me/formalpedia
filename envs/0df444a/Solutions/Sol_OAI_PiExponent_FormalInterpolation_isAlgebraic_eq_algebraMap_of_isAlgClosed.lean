@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.isAlgebraic_eq_algebraMap_of_isAlgClosed
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:20:28.279998+00:00
 -- url     : https://prove2.me/submissions/823af5b8-7513-43c9-96c1-f9df31dfccd3
 

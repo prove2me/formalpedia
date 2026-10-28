@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Intersectionality_Reductive_poincare_miranda_step
 -- name    : Intersectionality.Reductive.poincare_miranda_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:30:59.242066+00:00
 -- url     : https://prove2.me/theorems/83cc4218-52c1-47a5-97d6-2dd02cdad5ad

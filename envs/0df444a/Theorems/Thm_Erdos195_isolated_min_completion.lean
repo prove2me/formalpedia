@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_isolated_min_completion
 -- name    : Erdos195.isolated_min_completion
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:33:34.728735+00:00
 -- url     : https://prove2.me/theorems/3b7943ca-0b0e-4a14-8400-64c9260210d6
 -- title:

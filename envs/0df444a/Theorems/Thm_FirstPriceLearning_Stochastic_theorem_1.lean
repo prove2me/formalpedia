@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_Stochastic_theorem_1
 -- name    : FirstPriceLearning.Stochastic.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:28:43.118272+00:00
 -- url     : https://prove2.me/theorems/4ba98647-68b5-42a5-82c0-a8556011fb01

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.truncated_packet_monomial_coeff_eq_entry
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:13:24.291689+00:00
 -- url     : https://prove2.me/submissions/44e56af2-8246-4fec-a2f1-0fa496b830fc
 

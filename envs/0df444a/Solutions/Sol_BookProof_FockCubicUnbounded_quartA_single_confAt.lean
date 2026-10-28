@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.FockCubicUnbounded.quartA_single_confAt
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:22:12.303905+00:00
 -- url     : https://prove2.me/submissions/2c86335d-799f-4859-a93f-393f82db7b04
 

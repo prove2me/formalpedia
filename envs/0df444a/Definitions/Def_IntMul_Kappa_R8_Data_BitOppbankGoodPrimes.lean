@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankGoodPrimes
 -- name    : IntMul_Kappa_R8_Data_BitOppbankGoodPrimes
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:23:18.103257+00:00
 -- url     : https://prove2.me/theorems/fac3e30f-7d4f-4f5b-ad1d-a9dcd30f6476
 -- title:

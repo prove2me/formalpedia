@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NeutralAtom_generalized_outer_radii
 -- name    : OAI.NeutralAtom.generalized_outer_radii
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:57.835119+00:00
 -- url     : https://prove2.me/theorems/998b0c05-0582-48de-918f-df130d1d8410

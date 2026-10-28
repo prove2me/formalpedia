@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.six_entry_family
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T15:33:39.923015+00:00
 -- url     : https://prove2.me/submissions/3ef784a1-cfc5-4b95-8d76-3f5cd4e00e15
 

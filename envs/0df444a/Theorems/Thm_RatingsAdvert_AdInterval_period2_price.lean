@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RatingsAdvert_AdInterval_period2_price
 -- name    : RatingsAdvert.AdInterval.period2_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T20:38:46.943968+00:00
 -- url     : https://prove2.me/theorems/01d6e25f-e169-42e5-a81b-40fdd0ed5579

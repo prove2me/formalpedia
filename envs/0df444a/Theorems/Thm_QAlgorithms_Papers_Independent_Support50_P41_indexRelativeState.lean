@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_indexRelativeState
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.indexRelativeState
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:32:38.451772+00:00
 -- url     : https://prove2.me/theorems/c9c0cc4c-aff1-48b6-a852-848184d1082d

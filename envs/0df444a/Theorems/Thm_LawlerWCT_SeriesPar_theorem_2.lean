@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LawlerWCT_SeriesPar_theorem_2
 -- name    : LawlerWCT.SeriesPar.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:57:05.845996+00:00
 -- url     : https://prove2.me/theorems/8336c5ec-b0ce-45c5-bf17-2416976025b3

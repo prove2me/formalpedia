@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AryaANN_Search_rect_diam_le
 -- name    : AryaANN.Search.rect_diam_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:55:48.070145+00:00
 -- url     : https://prove2.me/theorems/20fe6f3f-1f68-46b8-9c3f-d13b96cd44f3

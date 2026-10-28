@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_Uniform_theorem_1_necessity
 -- name    : SourceTheory.Uniform.theorem_1_necessity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:56.747264+00:00
 -- url     : https://prove2.me/theorems/30298632-267f-4a8c-8d5a-1225c0b98da5

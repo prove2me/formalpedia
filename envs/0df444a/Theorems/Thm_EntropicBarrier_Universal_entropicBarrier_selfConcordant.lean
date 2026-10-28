@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropicBarrier_Universal_entropicBarrier_selfConcordant
 -- name    : EntropicBarrier.Universal.entropicBarrier_selfConcordant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:04:38.263277+00:00
 -- url     : https://prove2.me/theorems/942c191b-0f69-4e33-af76-d7851e786ae5

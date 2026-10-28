@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_classicalRandomCodingBounds
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.classicalRandomCodingBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:18:46.992147+00:00
 -- url     : https://prove2.me/theorems/6a592b07-845a-4922-8293-39e2a16fed11

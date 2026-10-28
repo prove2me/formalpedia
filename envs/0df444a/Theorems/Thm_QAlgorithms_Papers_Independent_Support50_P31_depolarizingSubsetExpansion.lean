@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P31_depolarizingSubsetExpansion
 -- name    : QAlgorithms.Papers.Independent.Support50.P31.depolarizingSubsetExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:34:00.482444+00:00
 -- url     : https://prove2.me/theorems/5cb9073c-2aed-481a-8733-4c1fc3da2ba1

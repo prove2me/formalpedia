@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for EthierKurtz.kmt_strong_approximation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-29T20:27:02.202853+00:00
 -- url     : https://prove2.me/submissions/20b4a27a-b7f2-43dc-ba75-630bc5e1f176
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_EthierKurtz_kmt_discrete_coupling

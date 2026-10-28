@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.Pn_repair_lower_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:38:40.724794+00:00
 -- url     : https://prove2.me/submissions/4190eaab-d581-4337-8515-9b873241f639
 

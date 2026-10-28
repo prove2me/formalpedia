@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P16_restricted_entropy_continuity
 -- name    : QAlgorithms.Papers.Independent.Support50.P16.restricted_entropy_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:57:52.328345+00:00
 -- url     : https://prove2.me/theorems/fe2f38b0-0a94-4ede-aa4e-85b833f6d2c1

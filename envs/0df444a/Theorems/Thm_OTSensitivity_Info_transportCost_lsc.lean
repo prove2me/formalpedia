@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTSensitivity_Info_transportCost_lsc
 -- name    : OTSensitivity.Info.transportCost_lsc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:53.45242+00:00
 -- url     : https://prove2.me/theorems/64db3eb5-6af3-42fd-808d-3e1711c66b01

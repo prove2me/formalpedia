@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Diffusion_count_lln
 -- name    : ScheduledQueue.Diffusion.count_lln
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:03.695234+00:00
 -- url     : https://prove2.me/theorems/ce0898ae-c2b3-4651-aa9b-8915ed6049f6

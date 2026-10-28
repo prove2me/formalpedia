@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynMomentum_ShortHorizon_eq_A13_A2
 -- name    : DynMomentum.ShortHorizon.eq_A13_A2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:46:27.073103+00:00
 -- url     : https://prove2.me/theorems/f1c8695a-5c41-4fd0-be8f-51e2bef23cdf

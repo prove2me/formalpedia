@@ -11,9 +11,9 @@
 --
 --   $$R_B^*<R_{\mathrm{all}}.$$
 --
---   Then every minimizer of $A_B$ on $[0,\infty)$ is strictly positive. This corrected Lemma 9 is a corollary about the positive regime; the strict-gap assumption is absent from the main mission goal. It is a sufficient condition, not asserted necessary for existence of some positive multiplier.
+--   Then every minimizer of $A_B$ on $[0,\infty)$ is strictly positive. This supporting corollary concerns the positive regime; the strict-gap assumption is absent from the main mission goal. It is a sufficient condition, not asserted necessary for existence of some positive multiplier.
 -- source:
---   Xie, Astudillo, Frazier, Scully and Terenin, Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index, NeurIPS 2024; arXiv:2406.20062v3 (16 January 2025), https://arxiv.org/pdf/2406.20062v3. Corrected version of Appendix B.5, Lemma 9, retained only as a supporting positivity corollary. Adds R*_B < E[max_i F_i]; this is not a hypothesis of the revised main theorem. Mission source version: the author-revised manuscript reviewed on 23 October 2026, intended for arXiv v4; public posting is pending. References to arXiv v3 identify the earlier published version.
+--   Qian Xie, Raul Astudillo, Peter I. Frazier, Ziv Scully, and Alexander Terenin. [Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index](https://arxiv.org/abs/2406.20062). NeurIPS 2024. Appendix B.5, the budget-duality argument for Theorem 2. This supporting corollary assumes a strict gap between the budget-constrained optimal reward and the full-information reward; that assumption is not imposed on the main theorem.
 
 import Definitions.Def_PandoraBO_Model
 

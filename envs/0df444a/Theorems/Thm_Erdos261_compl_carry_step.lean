@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_compl_carry_step
 -- name    : Erdos261.compl_carry_step
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:11.047696+00:00
 -- url     : https://prove2.me/theorems/b4b2aa52-5dfe-4fe3-a93c-1304d6ac1edf
 -- title:

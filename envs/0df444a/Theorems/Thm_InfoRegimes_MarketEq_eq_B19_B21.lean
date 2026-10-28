@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRegimes_MarketEq_eq_B19_B21
 -- name    : InfoRegimes.MarketEq.eq_B19_B21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:22:30.989185+00:00
 -- url     : https://prove2.me/theorems/b054ff74-e1fe-406a-980d-2be354b4bd16

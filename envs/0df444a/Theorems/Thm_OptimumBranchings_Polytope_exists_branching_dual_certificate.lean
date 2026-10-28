@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimumBranchings_Polytope_exists_branching_dual_certificate
 -- name    : OptimumBranchings.Polytope.exists_branching_dual_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:55:28.039988+00:00
 -- url     : https://prove2.me/theorems/0761a74e-c8b1-44cf-ad23-1342916e9492

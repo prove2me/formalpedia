@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_treeLt_safe_iff
 -- name    : Erdos195.treeLt_safe_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:13:38.680894+00:00
 -- url     : https://prove2.me/theorems/53d9fe66-ed9e-4508-ba86-87701954f21a
 -- title:

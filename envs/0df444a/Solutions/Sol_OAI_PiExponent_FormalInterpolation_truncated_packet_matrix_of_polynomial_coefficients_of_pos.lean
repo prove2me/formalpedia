@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.truncated_packet_matrix_of_polynomial_coefficients_of_pos
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:17:54.119102+00:00
 -- url     : https://prove2.me/submissions/adb0c10f-ba7f-4db6-9774-54908f4a8b65
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_levy_bounded_stopping_increment_laplace
 -- name    : AvramDividend.Classical.levy_bounded_stopping_increment_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T06:36:48.945984+00:00
 -- url     : https://prove2.me/theorems/516fd8e3-ef98-4f7d-9565-5edcc6cb52bc

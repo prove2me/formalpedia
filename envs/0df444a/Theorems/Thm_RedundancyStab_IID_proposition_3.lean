@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RedundancyStab_IID_proposition_3
 -- name    : RedundancyStab.IID.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:43.306122+00:00
 -- url     : https://prove2.me/theorems/50dc2445-e278-4a4b-b2dd-f8c3cb82ab2f

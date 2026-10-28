@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_max_index_even
 -- name    : Erdos261.max_index_even
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:46:51.224864+00:00
 -- url     : https://prove2.me/theorems/6bc7b23f-77c3-41d5-b771-f7001dfcf73d
 -- title:

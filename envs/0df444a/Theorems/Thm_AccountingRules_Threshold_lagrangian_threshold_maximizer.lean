@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccountingRules_Threshold_lagrangian_threshold_maximizer
 -- name    : AccountingRules.Threshold.lagrangian_threshold_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:44.174878+00:00
 -- url     : https://prove2.me/theorems/8d8b241b-7fd7-4f08-a2ef-551579eab21f

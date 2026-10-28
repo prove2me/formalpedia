@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffVI_Conv_lemma_7_1
 -- name    : DiffVI.Conv.lemma_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:10.227919+00:00
 -- url     : https://prove2.me/theorems/b030c848-dfb6-4880-a41a-f4450f0ee136

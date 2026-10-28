@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_ContextLowerBound_lemma_13
 -- name    : FirstPriceLearning.ContextLowerBound.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:32:18.078302+00:00
 -- url     : https://prove2.me/theorems/12fb6107-ec36-485b-bf22-96b939481969

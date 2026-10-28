@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_PolyCone_lemma10_polyCone_angle
 -- name    : CtxInvOpt.PolyCone.lemma10_polyCone_angle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:30:13.041546+00:00
 -- url     : https://prove2.me/theorems/74099726-befb-45eb-a5f4-53df0fec8bc4

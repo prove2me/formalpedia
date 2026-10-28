@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ObliviousRAM.LowerBound.theorem_6_1
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:53:22.36975+00:00
 -- url     : https://prove2.me/submissions/92df49d0-f81f-4a88-a5c9-2cf030e56011
 

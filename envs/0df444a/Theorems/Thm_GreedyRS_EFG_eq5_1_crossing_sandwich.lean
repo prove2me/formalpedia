@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_EFG_eq5_1_crossing_sandwich
 -- name    : GreedyRS.EFG.eq5_1_crossing_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:34.273581+00:00
 -- url     : https://prove2.me/theorems/8c113ded-e92b-47c4-bd85-d552a9d01ccb

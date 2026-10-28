@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_pure_entropy_comparison
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.pure_entropy_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:48:04.793979+00:00
 -- url     : https://prove2.me/theorems/0739fe43-e871-4bcc-a7e7-8982d8b1e9c7

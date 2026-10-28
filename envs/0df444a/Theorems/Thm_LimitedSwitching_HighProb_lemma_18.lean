@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedSwitching_HighProb_lemma_18
 -- name    : LimitedSwitching.HighProb.lemma_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:13.61098+00:00
 -- url     : https://prove2.me/theorems/8d576e20-0f00-4446-a27f-1f45376260e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_interpolation_implies_ppt_detection
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.interpolation_implies_ppt_detection
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:03:29.315395+00:00
 -- url     : https://prove2.me/theorems/9da00563-a1a3-4ef0-8b14-d6d5483586ce

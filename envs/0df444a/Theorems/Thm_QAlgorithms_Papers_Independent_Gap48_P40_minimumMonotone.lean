@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_minimumMonotone
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.minimumMonotone
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:23:48.22299+00:00
 -- url     : https://prove2.me/theorems/8275649a-32b9-4401-98b9-02ae73ea2d3e

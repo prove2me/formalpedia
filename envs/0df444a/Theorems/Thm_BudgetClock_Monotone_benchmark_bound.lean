@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_Monotone_benchmark_bound
 -- name    : BudgetClock.Monotone.benchmark_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:19.547753+00:00
 -- url     : https://prove2.me/theorems/b302293e-c793-416e-afd0-29549292b4e5

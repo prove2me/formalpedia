@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_cycle_forces_closure
 -- name    : Erdos195.open_cycle_forces_closure
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:52:06.911421+00:00
 -- url     : https://prove2.me/theorems/515bf506-185a-48a4-a506-624143a99f96
 -- title:

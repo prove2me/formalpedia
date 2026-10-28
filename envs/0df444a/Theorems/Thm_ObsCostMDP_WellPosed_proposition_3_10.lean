@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObsCostMDP_WellPosed_proposition_3_10
 -- name    : ObsCostMDP.WellPosed.proposition_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:51:37.450461+00:00
 -- url     : https://prove2.me/theorems/eac8cbbb-e70f-4584-84d2-70110a7842df

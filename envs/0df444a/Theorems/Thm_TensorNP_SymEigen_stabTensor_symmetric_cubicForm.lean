@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_SymEigen_stabTensor_symmetric_cubicForm
 -- name    : TensorNP.SymEigen.stabTensor_symmetric_cubicForm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:18.74625+00:00
 -- url     : https://prove2.me/theorems/95a1f8d2-3679-40fe-aa1a-1a2c33ad49aa

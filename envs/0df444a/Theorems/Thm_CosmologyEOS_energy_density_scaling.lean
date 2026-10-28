@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_energy_density_scaling
 -- name    : CosmologyEOS.energy_density_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:18.584679+00:00
 -- url     : https://prove2.me/theorems/e0429920-b1e0-4dee-8c10-76fd2b2ba617

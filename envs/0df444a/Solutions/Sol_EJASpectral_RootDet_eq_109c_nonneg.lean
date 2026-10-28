@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for EJASpectral.RootDet.eq_109c_nonneg
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:18:22.437193+00:00
 -- url     : https://prove2.me/submissions/5c691796-4695-4453-88e7-20dbe638ee8b
 

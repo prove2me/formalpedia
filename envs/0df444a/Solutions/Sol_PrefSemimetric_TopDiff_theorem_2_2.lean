@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PrefSemimetric.TopDiff.theorem_2_2
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:15:57.899908+00:00
 -- url     : https://prove2.me/submissions/54660f1f-7a8a-4886-ae35-d8769710d2d8
 

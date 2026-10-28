@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P22_collectiveMixture
 -- name    : QAlgorithms.Papers.Independent.Support50.P22.collectiveMixture
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:51:51.636982+00:00
 -- url     : https://prove2.me/theorems/9595a0ac-a8bf-41fd-a1f3-5c779047a3ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedPRS_DRSSmooth_theorem_3_2
 -- name    : RelaxedPRS.DRSSmooth.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:23.074918+00:00
 -- url     : https://prove2.me/theorems/07e81721-e3fa-42c8-9771-445c11f39114

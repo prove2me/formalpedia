@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.no_two_phase_termination
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:18.924968+00:00
 -- url     : https://prove2.me/submissions/28458337-6eff-4880-9ec2-3f6e41253838
 

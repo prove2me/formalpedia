@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.QgOuterFockInteractionFL.QgFamily.secData_commForm_le
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:28:36.702819+00:00
 -- url     : https://prove2.me/submissions/d29e27e4-395c-4872-887b-d36dc3f20f84
 

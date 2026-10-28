@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Sync_fixed_point
 -- name    : LeiBR.Sync.fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:10:33.004605+00:00
 -- url     : https://prove2.me/theorems/7d39f892-42a6-459d-b789-0d50d1b44bd8

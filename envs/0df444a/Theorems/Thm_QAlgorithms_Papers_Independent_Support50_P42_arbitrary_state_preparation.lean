@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_arbitrary_state_preparation
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.arbitrary_state_preparation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:22:00.562989+00:00
 -- url     : https://prove2.me/theorems/5a8f34d5-81da-47e8-b7b7-399c1d5b1082

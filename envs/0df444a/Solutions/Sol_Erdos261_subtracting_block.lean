@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.subtracting_block
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:52.682896+00:00
 -- url     : https://prove2.me/submissions/56c5276b-272d-49d7-aed9-3284ef03e6d9
 

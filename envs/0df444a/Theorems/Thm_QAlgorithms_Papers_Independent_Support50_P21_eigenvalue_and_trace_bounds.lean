@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_eigenvalue_and_trace_bounds
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.eigenvalue_and_trace_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:47:21.931626+00:00
 -- url     : https://prove2.me/theorems/9bd17733-7395-41d1-9493-dd116f5b7140

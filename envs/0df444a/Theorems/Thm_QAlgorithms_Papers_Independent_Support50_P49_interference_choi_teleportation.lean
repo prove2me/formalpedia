@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P49_interference_choi_teleportation
 -- name    : QAlgorithms.Papers.Independent.Support50.P49.interference_choi_teleportation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:06:17.18032+00:00
 -- url     : https://prove2.me/theorems/090f5ee4-8a3a-41c1-8ee8-38a9469aa030

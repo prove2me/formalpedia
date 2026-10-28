@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_TreeRules_edge_decomposition
 -- name    : SeqLoss.TreeRules.edge_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:24.076485+00:00
 -- url     : https://prove2.me/theorems/5cd41093-6f8d-4dfb-af97-f9830b857584

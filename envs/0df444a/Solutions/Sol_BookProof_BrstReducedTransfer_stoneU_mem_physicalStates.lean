@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.BrstReducedTransfer.stoneU_mem_physicalStates
 -- status  : ACCEPTED   (disprove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T04:20:50.86279+00:00
 -- url     : https://prove2.me/submissions/4e228081-a3a8-43aa-bb24-a04799d880d7
 

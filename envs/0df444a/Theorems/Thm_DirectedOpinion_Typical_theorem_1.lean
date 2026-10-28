@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedOpinion_Typical_theorem_1
 -- name    : DirectedOpinion.Typical.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:42.475848+00:00
 -- url     : https://prove2.me/theorems/6425fe89-16c3-4c0c-8c8a-4efa0127f328

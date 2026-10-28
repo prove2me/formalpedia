@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.finsum_max_polynomialCurveOrder_eq_finrank
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:35:51.718702+00:00
 -- url     : https://prove2.me/submissions/5bc5c3c4-c713-4f30-9081-2973208b3060
 

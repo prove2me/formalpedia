@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastComp_IELF_win_prob_transfer_strict
 -- name    : ForecastComp.IELF.win_prob_transfer_strict
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:35.96341+00:00
 -- url     : https://prove2.me/theorems/e57ce1d0-3650-4035-8ec9-7c218b528043

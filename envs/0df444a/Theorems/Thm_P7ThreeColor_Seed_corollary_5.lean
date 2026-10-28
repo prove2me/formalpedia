@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P7ThreeColor_Seed_corollary_5
 -- name    : P7ThreeColor.Seed.corollary_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:03.564411+00:00
 -- url     : https://prove2.me/theorems/e07abd26-fcdc-4efd-b1b9-63f7f434bf81

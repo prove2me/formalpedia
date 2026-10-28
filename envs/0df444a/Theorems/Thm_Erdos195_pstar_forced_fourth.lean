@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_pstar_forced_fourth
 -- name    : Erdos195.pstar_forced_fourth
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:41:55.236153+00:00
 -- url     : https://prove2.me/theorems/f118c7be-7636-496d-bd75-4c5d75688700
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_epsLt_residue_insert
 -- name    : Erdos195.epsLt_residue_insert
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T02:52:13.032666+00:00
 -- url     : https://prove2.me/theorems/764a9c18-c726-4f7c-8289-0b3117729bf7
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolarTariff_Fair_T3_threshold
 -- name    : SolarTariff.Fair.T3_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:20.51558+00:00
 -- url     : https://prove2.me/theorems/15e3d31d-0cf8-4e91-bcc1-d4545f117e48

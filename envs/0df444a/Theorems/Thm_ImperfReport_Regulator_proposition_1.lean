@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImperfReport_Regulator_proposition_1
 -- name    : ImperfReport.Regulator.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:03.630723+00:00
 -- url     : https://prove2.me/theorems/22467b5f-d4ee-4f76-9e15-707e4fa7e0f2

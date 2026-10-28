@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.restart_reduction
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:18.496073+00:00
 -- url     : https://prove2.me/submissions/838b7ded-15be-4768-aefe-323d886bcfe3
 

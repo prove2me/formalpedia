@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_Complexity_partitionProject_feasible_iff
 -- name    : ProjSchedTW.Complexity.partitionProject_feasible_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T02:08:59.227426+00:00
 -- url     : https://prove2.me/theorems/0e6d4c3c-eba3-4055-b91c-dd3cfa09ade0

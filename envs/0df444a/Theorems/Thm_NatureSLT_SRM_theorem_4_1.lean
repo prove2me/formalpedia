@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_SRM_theorem_4_1
 -- name    : NatureSLT.SRM.theorem_4_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:48.369897+00:00
 -- url     : https://prove2.me/theorems/b004148d-1bdc-439c-9f7c-887570486242

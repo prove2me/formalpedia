@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Contracting_lemma_7_3_3
 -- name    : MDPFinance.Contracting.lemma_7_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:46:14.897978+00:00
 -- url     : https://prove2.me/theorems/528295cd-bd71-4365-b9c1-528bcbfd640d

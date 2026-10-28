@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.coordinate_poles_invariant_sub_const
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:24:22.301479+00:00
 -- url     : https://prove2.me/submissions/d6dc7855-9043-4441-92df-62848444a55a
 

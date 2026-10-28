@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_centered_tensor_moments
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.centered_tensor_moments
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:52:31.590585+00:00
 -- url     : https://prove2.me/theorems/3e9ed3b0-68c5-4da1-8022-011f346baa60

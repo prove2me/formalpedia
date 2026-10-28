@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EcoOffset_Subgame_caseN_h0_pos_iff
 -- name    : EcoOffset.Subgame.caseN_h0_pos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:02.231299+00:00
 -- url     : https://prove2.me/theorems/df2ced13-1762-4ccb-a147-0b6211a46f31

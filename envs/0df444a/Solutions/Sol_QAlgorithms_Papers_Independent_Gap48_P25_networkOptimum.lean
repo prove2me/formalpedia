@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.networkOptimum
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:18:01.662988+00:00
 -- url     : https://prove2.me/submissions/2e3d4b31-85bd-438c-b7eb-f47ed5d70a99
 

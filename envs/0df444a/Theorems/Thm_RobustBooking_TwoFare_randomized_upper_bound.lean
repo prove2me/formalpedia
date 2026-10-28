@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_TwoFare_randomized_upper_bound
 -- name    : RobustBooking.TwoFare.randomized_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T23:03:05.296024+00:00
 -- url     : https://prove2.me/theorems/e1e86a26-d0eb-46cd-84c9-51a10bd2363e

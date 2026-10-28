@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BitranCaldentey2003_prop8_eq35_convex_region_faithful
 -- name    : BitranCaldentey2003.prop8_eq35_convex_region_faithful
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:03:59.52199+00:00
 -- url     : https://prove2.me/theorems/d8f98b8e-55fa-460f-9864-db3e313ad1ae

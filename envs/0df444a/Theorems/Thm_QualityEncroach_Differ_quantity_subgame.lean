@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_Differ_quantity_subgame
 -- name    : QualityEncroach.Differ.quantity_subgame
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:27:15.359545+00:00
 -- url     : https://prove2.me/theorems/343a39a1-4352-4022-b351-d02247dbd7e3

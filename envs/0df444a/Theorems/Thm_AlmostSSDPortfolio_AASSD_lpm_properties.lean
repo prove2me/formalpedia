@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlmostSSDPortfolio_AASSD_lpm_properties
 -- name    : AlmostSSDPortfolio.AASSD.lpm_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:30:47.141736+00:00
 -- url     : https://prove2.me/theorems/8e815b90-bc9c-41c3-a4b3-0cb7c25958fa

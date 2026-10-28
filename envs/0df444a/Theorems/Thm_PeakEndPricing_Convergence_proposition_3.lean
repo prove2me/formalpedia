@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeakEndPricing_Convergence_proposition_3
 -- name    : PeakEndPricing.Convergence.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:49:19.751983+00:00
 -- url     : https://prove2.me/theorems/da04b92e-b27c-48bc-92a9-b98539ba3fa4

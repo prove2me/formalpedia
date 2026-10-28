@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.geometrization_curvConds
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:50:31.804704+00:00
 -- url     : https://prove2.me/submissions/5bdee9d0-89d7-4d86-bd44-3e1e6bbd843f
 

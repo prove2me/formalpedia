@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_KellyType_drift_identity
 -- name    : DaiWeissFluid.KellyType.drift_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:06:12.997976+00:00
 -- url     : https://prove2.me/theorems/a605bdbf-4689-4c40-83a5-a485709b7ef9

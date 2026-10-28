@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_perfect_gas_eos_parameter
 -- name    : CosmologyEOS.perfect_gas_eos_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:30.932633+00:00
 -- url     : https://prove2.me/theorems/f3503903-66d1-4f50-b4ef-618ded628cc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SingleLatticeCovering_single_lattice_covering
 -- name    : OAI.SingleLatticeCovering.single_lattice_covering
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:22.644544+00:00
 -- url     : https://prove2.me/theorems/b170607c-c467-437e-a129-843dc720d838

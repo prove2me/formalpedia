@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuityEqWiki_integral_form_iff_differential_form
 -- name    : ContinuityEqWiki.integral_form_iff_differential_form
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:58.53518+00:00
 -- url     : https://prove2.me/theorems/0961f461-1e3a-4ab5-9627-b54cfe155ec8

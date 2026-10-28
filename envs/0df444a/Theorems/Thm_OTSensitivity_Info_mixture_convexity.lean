@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTSensitivity_Info_mixture_convexity
 -- name    : OTSensitivity.Info.mixture_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:15:03.760309+00:00
 -- url     : https://prove2.me/theorems/520f550d-6541-4117-ad5d-437dae677f0b

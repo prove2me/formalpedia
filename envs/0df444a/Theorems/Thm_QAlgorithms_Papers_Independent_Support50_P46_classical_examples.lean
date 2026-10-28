@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P46_classical_examples
 -- name    : QAlgorithms.Papers.Independent.Support50.P46.classical_examples
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T23:57:02.471159+00:00
 -- url     : https://prove2.me/theorems/984a8a72-40a6-4166-9113-9f2b1ba6d31a

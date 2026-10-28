@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeLockedSales_Reform_proposition_5
 -- name    : TimeLockedSales.Reform.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:22:40.454985+00:00
 -- url     : https://prove2.me/theorems/35e59939-7c48-4dde-b0f0-bb88fe5725cb

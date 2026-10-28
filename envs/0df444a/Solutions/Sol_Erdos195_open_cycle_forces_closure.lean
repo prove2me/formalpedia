@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_cycle_forces_closure
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:52:09.341144+00:00
 -- url     : https://prove2.me/submissions/8d33a34c-fafa-45e3-917b-79ffbb3dacfd
 

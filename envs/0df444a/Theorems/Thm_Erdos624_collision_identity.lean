@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_collision_identity
 -- name    : Erdos624.collision_identity
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:40:56.771901+00:00
 -- url     : https://prove2.me/theorems/f9d34976-14b0-4946-8896-3f96ed40fde1
 -- title:

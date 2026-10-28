@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_polarPartialIsometry_replacement
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.polarPartialIsometry_replacement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:20:44.085935+00:00
 -- url     : https://prove2.me/theorems/1e0e2f95-5436-4fa5-a433-2241b84e62c2

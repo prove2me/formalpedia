@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P16_weylCovariance_iff_positiveDefinite
 -- name    : QAlgorithms.Papers.Independent.Gap20.P16.weylCovariance_iff_positiveDefinite
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:37:39.330178+00:00
 -- url     : https://prove2.me/theorems/39ccf1ae-41f4-4dbd-bebb-41355a94df2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjSDP_Y_posSemidef
 -- name    : MinimaxSLP.ObjSDP.Y_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:08:58.28844+00:00
 -- url     : https://prove2.me/theorems/6d0591f8-c6d4-4572-8593-784c3325b342

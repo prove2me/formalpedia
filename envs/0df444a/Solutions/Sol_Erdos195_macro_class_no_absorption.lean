@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.macro_class_no_absorption
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:55:57.504999+00:00
 -- url     : https://prove2.me/submissions/af642edb-46e0-4084-b67d-7a4c4b2faace
 

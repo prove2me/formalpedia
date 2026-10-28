@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Intersectionality_Generic_part_b_construction
 -- name    : Intersectionality.Generic.part_b_construction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:23.936909+00:00
 -- url     : https://prove2.me/theorems/6c883e0e-910f-4f85-b457-227c126fd456

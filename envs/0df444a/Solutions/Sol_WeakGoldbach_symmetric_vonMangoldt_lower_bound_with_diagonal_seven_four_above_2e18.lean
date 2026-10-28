@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WeakGoldbach.symmetric_vonMangoldt_lower_bound_with_diagonal_seven_four_above_2e18
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:39:30.037779+00:00
 -- url     : https://prove2.me/submissions/6e44ed7f-f4c9-412e-bcfd-e6b154ca0deb
 -- note    : a sketch -- it imports a theorem that is still Open,

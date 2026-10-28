@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineNRM_TSFixed_full_demand_coordinate_ae
 -- name    : OnlineNRM.TSFixed.full_demand_coordinate_ae
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T18:14:54.323555+00:00
 -- url     : https://prove2.me/theorems/e3672908-46c1-4ae9-89d2-e0c145f7a1b8

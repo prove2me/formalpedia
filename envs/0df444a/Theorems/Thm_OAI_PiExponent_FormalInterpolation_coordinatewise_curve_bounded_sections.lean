@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_coordinatewise_curve_bounded_sections
 -- name    : OAI.PiExponent.FormalInterpolation.coordinatewise_curve_bounded_sections
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-23T19:30:25.403324+00:00
 -- url     : https://prove2.me/theorems/bf553de9-8b44-49c0-855d-f1e91807cfd1

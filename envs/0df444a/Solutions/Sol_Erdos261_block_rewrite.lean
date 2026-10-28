@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.block_rewrite
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T18:47:07.345919+00:00
 -- url     : https://prove2.me/submissions/75e97acd-8c5a-4a71-ac64-7f676ddf4e63
 

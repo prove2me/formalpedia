@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_local_entropy_bounds
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.local_entropy_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:13:35.022174+00:00
 -- url     : https://prove2.me/theorems/4f362c48-80c9-4526-9bce-b455daa63461

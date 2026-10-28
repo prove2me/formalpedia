@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P50_theorem_2_5
 -- name    : QAlgorithms.Papers.Independent.Information100.P50.theorem_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:51:43.580229+00:00
 -- url     : https://prove2.me/theorems/74af12ed-82bf-4406-80f2-cca5eb29df97

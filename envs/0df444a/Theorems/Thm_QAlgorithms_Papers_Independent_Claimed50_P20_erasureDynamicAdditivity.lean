@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P20_erasureDynamicAdditivity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P20.erasureDynamicAdditivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:29:50.252988+00:00
 -- url     : https://prove2.me/theorems/fca4173b-2e31-4e9c-924f-82b779e85ed5

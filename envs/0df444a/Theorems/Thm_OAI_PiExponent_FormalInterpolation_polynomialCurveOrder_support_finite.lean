@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_polynomialCurveOrder_support_finite
 -- name    : OAI.PiExponent.FormalInterpolation.polynomialCurveOrder_support_finite
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:41:27.691803+00:00
 -- url     : https://prove2.me/theorems/0dad6d79-5b69-45fb-ac0b-151c7182712b
 -- title:

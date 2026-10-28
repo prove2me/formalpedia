@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlocking_Surplus_proposition_3
 -- name    : AdBlocking.Surplus.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:53.682731+00:00
 -- url     : https://prove2.me/theorems/f55c8aac-8228-4b39-adf5-304c7796b16f

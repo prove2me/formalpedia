@@ -1,0 +1,105 @@
+-- Prove2me | solution 1 for D1Bound5.smallPairTable_1_8_graph_property_full_ring
+-- status  : ACCEPTED   (prove)
+-- author  : @tp
+-- created : 2026-10-24T00:22:54.150844+00:00
+-- url     : https://prove2.me/submissions/f099dda6-39ce-41d2-94e6-2125d9cfe1e4
+
+import Init
+import Mathlib.Algebra.Group.Int.Units
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Polynomial.Monic
+import Mathlib.Algebra.QuadraticAlgebra.Basic
+import Mathlib.Algebra.Ring.Basic
+import Mathlib.Algebra.Ring.Equiv
+import Mathlib.Algebra.Squarefree.Basic
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Complex.Polynomial.Basic
+import Mathlib.Data.Fin.Tuple.Sort
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Int.GCD
+import Mathlib.Data.Int.Interval
+import Mathlib.Data.Int.Sqrt
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.Range
+import Mathlib.Data.ZMod.Basic
+import Mathlib.LinearAlgebra.Dimension.Free
+import Mathlib.NumberTheory.NumberField.InfinitePlace.TotallyRealComplex
+import Mathlib.NumberTheory.NumberField.Norm
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.IntervalCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.LinearCombination
+import Mathlib.Tactic.Ring
+import Definitions.Def_D1Bound5_Coordinates_Definitions
+import Definitions.Def_D1Bound5_SmallExtensionSymmetry_Definitions
+import Definitions.Def_D1Bound5_SmallPairClassificationData_Definitions
+import Definitions.Def_D1Bound5_SmallPairGraphInputs48_Definitions_001
+import Definitions.Def_D1Bound5_SmallPairGraphSymmetry_Definitions
+import Definitions.Def_D1Bound5_SmallTripleData_Definitions
+import Theorems.Thm_D1Bound5_smallPairGraphProperty_of_orbit
+import Theorems.Thm_D1Bound5_smallPairRepresentative_48_graph_property
+import Theorems.Thm_D1Bound5_smallPairTable_1_8_orbits
+
+section
+open scoped NumberField
+open Module
+
+namespace D1Bound5
+open QuadInt
+
+private theorem smallPairProperty_of_table_orbits {tau nu : ℤ}
+    (table : List (Finset (ℤ × ℤ))) (reps : Finset (Finset (ℤ × ℤ)))
+    (horbits : table.toFinset = reps.biUnion (smallTripleOrbit tau))
+    (hreps : ∀ row ∈ reps, SmallPairGraphProperty (smallCoordinateSet tau nu row))
+    (row : Finset (ℤ × ℤ)) (hrow : row ∈ table) :
+    SmallPairGraphProperty (smallCoordinateSet tau nu row) := by
+  have h : row ∈ reps.biUnion (smallTripleOrbit tau) := by
+    rw [← horbits]
+    exact List.mem_toFinset.mpr hrow
+  obtain ⟨rep, hrep, horbit⟩ := Finset.mem_biUnion.mp h
+  exact smallPairGraphProperty_of_orbit rep row (hreps rep hrep) horbit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem _root_.solution
+    {K : Type*} [Field K] [NumberField K] [NumberField.IsTotallyComplex K]
+    (hK : finrank ℚ K = 2) (phi : K →+* ℂ)
+    (e : QuadInt 1 8 ≃+* 𝓞 K)
+    (row : Finset (ℤ × ℤ)) (hrow : row ∈ smallPairTable 1 8) :
+    SmallPairGraphProperty (smallCoordinateSet 1 8 row) := by
+  apply smallPairProperty_of_table_orbits smallPairs_1_8
+    smallPairRepresentatives_1_8 smallPairTable_1_8_orbits ?_ row
+    (by simpa [smallPairTable] using hrow)
+  intro rep hrep
+  simp only [smallPairRepresentatives_1_8, Finset.mem_insert, Finset.mem_singleton] at hrep
+  rcases hrep with rfl
+  · have heq : smallCoordinateSet 1 8 {(0,-1),(-1,1)} =
+        {smallPairA_48,smallPairB_48} := by decide
+    rw [heq]
+    exact smallPairRepresentative_48_graph_property hK phi e
+
+
+
+end D1Bound5
+end

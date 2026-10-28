@@ -1,0 +1,1260 @@
+-- Prove2me | solution 1 for DiffractionCore.logDeriv_gammaR_conj
+-- status  : ACCEPTED   (prove)
+-- author  : @Johan Mercedes
+-- created : 2026-10-28T07:48:12.916995+00:00
+-- url     : https://prove2.me/submissions/dd20979f-c60e-4b0b-83b6-e1f2d3cc3233
+
+import Definitions.Def_ArdaRH65K_Turing121_DiffractionCore
+import Definitions.Def_ArdaRH65K_Turing121_DlvpTheta
+import Definitions.Def_ArdaRH65K_Turing121_DlvpZetaRateEffective
+import Definitions.Def_ArdaRH65K_Turing121_RHInBoxAnalytic
+import Definitions.Def_ArdaRH65K_Turing121_StripRepr
+import Definitions.Def_ArdaRH65K_Turing121_StripReprR1
+import Mathlib
+import Theorems.Thm_DiffractionCore_gammaR_conj
+/- TURING RUNG T2, brick 1: the Riemann–Siegel theta function, defined BRANCH-CUT-FREE as the
+   integral of an explicit real integrand (TURING_METHOD_SCOPING §3, rung T2).
+
+   Classically `θ(t) = Im logΓ(1/4 + it/2) − (t/2)·log π` with a continuously-tracked branch of
+   `logΓ` — awkward to formalize.  Instead we DEFINE
+
+     `θ(t) := ∫_0^t ( (1/2)·Re ψ(1/4 + i·u/2) − (1/2)·log π ) du`,
+
+   where `ψ = Complex.digamma = logDeriv Γ` (Mathlib).  This agrees with the classical `θ`
+   (both vanish at `0` and have the same derivative `θ'(u) = (1/2)·Re ψ(1/4 + iu/2) − (1/2)·log π`)
+   and needs NO branch tracking: the integrand is a plain continuous real function of `u`.
+
+   This brick: the ray `1/4 + (u/2)·i` avoids all Γ-poles (`Re = 1/4 > 0`), Γ is ANALYTIC there
+   (differentiable on the open right half-plane ⟹ analytic), `ψ` is continuous on the ray
+   (`deriv Γ / Γ`, with `Γ ≠ 0` by `Gamma_ne_zero_of_re_pos`), hence the integrand is continuous,
+   `θ` is well-defined with `θ(0) = 0` and `θ' = integrand` (FTC for continuous integrands).
+
+   Later bricks (T2 cont.): effective two-sided bounds `θ(t) = (t/2)log(t/2π) − t/2 − π/8 +
+   O*(explicit/t)` via Binet-type digamma estimates; then T3 wires `θ` into the rectangle
+   argument identity `N(T) = θ(T)/π + 1 + S(T)`.
+
+   conjecture1_proved = False. -/
+
+
+open Complex
+
+namespace ZeroFreeBridge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Brick 2: the Archimedean bridge — `θ'` IS the `Gammaℝ` log-derivative on the critical line.
+
+`Gammaℝ s = π^(-s/2)·Γ(s/2)` is the Archimedean factor of the completed zeta
+(`Λ = Gammaℝ · ζ` up to the `s(s-1)` polynomial), the object the T3 rectangle identity
+splits off of `logDeriv Λ`.  We compute `logDeriv Gammaℝ s = -(log π)/2 + (1/2)·ψ(s/2)`
+on `Re(s/2) > 0` and specialize to the critical line `s = 1/2 + iu`, where `s/2 = thetaRay u`:
+the θ integrand is EXACTLY `Re (logDeriv Gammaℝ (1/2 + iu))`.  This hard-wires the
+branch-cut-free `θ` into the counting formula's Archimedean term. -/
+
+
+
+theorem gammaRArch_exp :
+    gammaRArch = fun z => Complex.exp (Complex.log (Real.pi : ℂ) * (-z / 2)) :=
+  funext fun z => Complex.cpow_def_of_ne_zero (Complex.ofReal_ne_zero.mpr Real.pi_ne_zero) _
+
+theorem gammaRArch_hasDerivAt (s : ℂ) :
+    HasDerivAt gammaRArch
+      (Complex.exp (Complex.log (Real.pi : ℂ) * (-s / 2))
+        * (Complex.log (Real.pi : ℂ) * (-(1 / 2)))) s := by
+  rw [gammaRArch_exp]
+  have hL : HasDerivAt (fun z : ℂ => Complex.log (Real.pi : ℂ) * (-z / 2))
+      (Complex.log (Real.pi : ℂ) * (-(1 / 2))) s := by
+    have hbase : HasDerivAt (fun z : ℂ => -z / 2) (-(1 / 2) : ℂ) s := by
+      have h1 : HasDerivAt (fun z : ℂ => -z) (-1 : ℂ) s := (hasDerivAt_id s).neg
+      have h2 := h1.div_const 2
+      norm_num at h2
+      exact h2
+    exact hbase.const_mul _
+  exact hL.cexp
+
+
+
+
+
+
+
+
+
+/-! ## Brick 3a: the θ-asymptotics skeleton (T2 rung, first sub-brick).
+
+Target (brick 3 complete): `θ(t) = (t/2)·log(t/(2π)) − t/2 − π/8 + O*(explicit/t)`.
+This sub-brick ships the three UNCONDITIONAL pieces every derivation route needs:
+
+  * `digamma_shift` — the iterated recursion `ψ(s+N) = ψ(s) + Σ_{k<N} (s+k)⁻¹` (from Mathlib's
+    single-step `digamma_apply_add_one`), which moves the evaluation point right, where the
+    Stirling comparison is easy;
+  * `norm_inv_sub_log_one_add_inv_le` — the telescoping step bound
+    `‖s⁻¹ − log(1+s⁻¹)‖ ≤ ‖s⁻¹‖²·(1−‖s⁻¹‖)⁻¹/2` (Mathlib `norm_log_one_add_sub_self_le`):
+    the summand of the Binet-series `ψ(s) − log s = −Σ_{k≥0} [(s+k)⁻¹ − log(1+(s+k)⁻¹)] + …`
+    is quadratically small, so the telescoped series converges with an explicit `O(1/‖s‖)` tail;
+  * `thetaMain` + `thetaMain_hasDerivAt` — the main term and its derivative
+    `(log(t/(2π)))/2`, matching `θ'`'s leading behaviour, so brick 3c can compare the two via
+    FTC on `[t₀, t]`.
+
+Remaining sub-bricks: 3b = sum the telescoped series (Summable + tail bound ⟹ effective
+`|ψ(s) − log s| ≤ C/‖s‖` on `Re s ≥ 1`, plus the anchor `ψ(s+N) − log(s+N) → 0`); 3c = integrate
+`θ' − thetaMain'` and fix the `−π/8` constant.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Brick 3b: the telescoped Binet series — `|ψ(s) − log s| ≤ 1/(Re s − 1)` modulo the anchor.
+
+Telescoping `d(s) = ψ(s) − log s` with `d(s+1) − d(s) = s⁻¹ − log(1+s⁻¹)` (branch-safe on
+`Re s > 0` since `|arg| < π/2` on the right half-plane) gives the FINITE identity
+`d(s) = d(s+N) − Σ_{k<N} [(s+k)⁻¹ − log(1+(s+k)⁻¹)]`; the 3a step bound + an elementary
+inline telescoping estimate `Σ_{k<N} 1/(x+k)² ≤ 1/(x−1)` bound the sum UNIFORMLY in `N`;
+letting `N → ∞` against the anchor `d(s+N) → 0` (the ONE remaining analytic input, carried as
+an explicit hypothesis — brick 3b′ discharges it) yields the effective Binet bound.
+conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Brick 3b′-i: the INTEGER anchor — `ψ(1+N) − log(1+N) → 0`.
+
+The first of the anchor's three sub-bricks (3b′ plan: (i) integer anchor via the Euler–Mascheroni
+limit, (ii) real-axis sandwich via `ψ` monotonicity (log-convexity of `Γ`) killing the 1-periodic
+ambiguity `L(s+1) = L(s)` on a full real interval, (iii) identity theorem
+(`eqOn_of_preconnected_of_frequently_eq`, the corpus `DlvpTransfer` pattern) extending `L ≡ 0`
+to all `Re s > 1`).  Here: `ψ(1+N) = −γ + H_N` (our `digamma_shift` at `s = 1` + Mathlib
+`digamma_one`), so `ψ(1+N) − log(1+N) = −γ + (H_N − log(N+1)) → −γ + γ = 0` by Mathlib's
+`Real.tendsto_harmonic_sub_log_add_one`.  conjecture1_proved = False. -/
+
+
+
+/-! ## Brick 3b′-ii-a: `ψ` is REAL on the positive reals, equals `deriv (log ∘ Γ)`, and that
+derivative is MONOTONE (log-convexity of `Γ`, Bohr–Mollerup).  These are the sandwich's two
+pillars; 3b′-ii-b squeezes `ψ(x+N) − log(x+N) → 0` for real `x` between integer anchors. -/
+
+
+
+
+
+
+
+/-! ## Brick 3b′-ii-b: the REAL-AXIS SQUEEZE — the anchor discharged on `[1, 3]`.
+
+Sandwich `d(x+N) = ψ(x+N) − log(x+N)` for real `x ∈ [1,3]` between the integer-anchor
+sequences: `ψ` monotone (pillar ii-a) gives `ψ(1+N) ≤ ψ(x+N) ≤ ψ(3+N)`; `log` monotone gives
+the reverse for the log part; both outer sequences → 0 by the integer anchor (3b′-i, plus its
+`N ↦ N+2` shift) and the vanishing log gap (`Real.tendsto_log_comp_add_sub_log`).  Squeeze ⟹
+`d(x+N) → 0` for every real `x ∈ [1,3]` — the anchor hypothesis of
+`norm_digamma_sub_log_le_of_anchor` is DISCHARGED on the real segment, yielding the first
+UNCONDITIONAL effective Binet points (`norm_digamma_sub_log_le_ofReal`).  Brick (iii) extends
+to complex `s` by the identity theorem.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Brick 3b′-iii: the IDENTITY THEOREM — the anchor discharged for ALL `Re s ≥ 2`.
+
+The limit function `binetLimit s := (ψ(s) − log s) + Σ′_k [(s+k)⁻¹ − log(1+(s+k)⁻¹)]` is the
+`N → ∞` limit of `ψ(s+N) − log(s+N)` (partial sums = the telescoped Binet identity).  It is
+HOLOMORPHIC on `U = {Re > 3/2}` (Weierstrass M-test: `‖tail_k‖ ≤ (3/2)/(3/2+k)²`, uniform on
+`U`, summable by our own partial-sum lemma), and VANISHES on the real segment `[2,3]` (brick
+ii-b's squeeze + uniqueness of limits).  The identity theorem on the convex half-plane then
+forces `binetLimit ≡ 0` on all of `U` — so the anchor `ψ(s+N) − log(s+N) → 0` holds for EVERY
+`s` with `Re s ≥ 2`, and the effective Binet bound `‖ψ(s) − log s‖ ≤ 1/(Re s − 1)` is
+UNCONDITIONAL.  The analytic heart of Turing rung T2 is complete.
+conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ZeroFreeBridge
+
+
+/-  DIFFRACTION CORE (Dyson/quasicrystal axis, QC2 brick 1): the WEIGHTED rectangle pole formula.
+
+    The T-ladder counts zeros (`rect_winding_generic`: `Bd((·-ρ)⁻¹) = 2πi`, the `g ≡ 1` case).
+    The Dyson/Weil axis needs WEIGHTED sums over zeros — `Σ_ρ g(ρ)` for analytic test weights —
+    because the explicit formula IS the diffraction identity: weighted zero-sums on one side,
+    Bragg peaks at `k·log p` (prime sums) on the other.  This brick proves the single-pole
+    mechanism over a rectangle:
+
+      `Bd(g·(·-ρ)⁻¹) = 2πi·g(ρ)`   (g holomorphic near the closed box, ρ strictly interior).
+
+    Proof: the removable-singularity split `g(z)·(z-ρ)⁻¹ = dslope g ρ z + g(ρ)·(z-ρ)⁻¹` (off ρ);
+    `dslope g ρ` is holomorphic ACROSS ρ (Mathlib `has_fpower_series_dslope_fslope`), so its
+    boundary integral vanishes by the generic rectangle Goursat (`rect_arg_principle_generic`);
+    the remainder is `g(ρ)` times the counting winding (`rect_winding_generic`).
+
+    Downstream (QC ladder): QC2 brick 2 = finite-sum version over a zero Finset (mirrors
+    `box_residue_sum_generic`); QC3 = the finite-height Guinand–Weil identity, pushing the
+    right edge to `Re > 1` where Mathlib's `LSeries_vonMangoldt_eq` (`L Λ = -ζ'/ζ`) turns the
+    contour into PRIME SUMS — the Bragg peaks, kernel-side.  The Archimedean term is already
+    built (`ZeroFreeBridge.logDeriv_gammaR`, the θ-bridge).
+
+    conjecture1_proved = False. -/
+
+
+
+
+
+
+open Complex MeasureTheory Real
+open scoped Topology
+
+namespace DiffractionCore
+
+
+
+
+
+
+
+
+
+/-! ## Brick 4 (P1): the prime keystone — `logDeriv ζ = −L(Λ)` on `Re s > 1`.
+
+Mathlib's `LSeries_vonMangoldt_eq_deriv_riemannZeta_div` supplies the arithmetic side whole:
+`L(Λ) s = −ζ′(s)/ζ(s)` for `Re s > 1`.  Restated in the harness's `logDeriv` vocabulary, this is
+the identity that lets `bd_weighted_logDeriv_zeta`'s RIGHT EDGE (placed in `Re > 1`) speak primes:
+the edge integrand `g·logDeriv ζ` becomes `−g·Σ Λ(n) n^{−s}` — the Bragg peaks at `k·log p`,
+awaiting only the series–integral interchange (P2: dominated convergence along the compact edge,
+`|Λ(n)n^{−s}| = Λ(n)n^{−σ₁}` summable).  conjecture1_proved = False. -/
+
+
+
+
+
+/-! ## Brick 5 (P2): the series–integral interchange on the right edge.
+
+With the right edge at `Re = σ₁ > 1`, the weighted edge integral of `L(Λ)` expands TERMWISE:
+`∫ g·L(Λ) = Σ'_n ∫ g·term(Λ, n)` — dominated convergence with the `y`-independent majorant
+`C·‖term(Λ, σ₁, n)‖` (vertical-line norm invariance is Mathlib's `norm_term_eq`: the norm
+depends only on `Re s`; summability is `LSeriesSummable_vonMangoldt` + `summable_norm_iff`).
+Combined with brick 4 this makes the right edge of `bd_weighted_logDeriv_zeta` a sum of
+prime-power integrals `−Σ Λ(n)·∫ g·n^{−s}` — the Bragg peaks.  conjecture1_proved = False. -/
+
+
+
+/-! ## Brick 6 (ASSEMBLY): the finite-height explicit formula — zeros = primes + boundary.
+
+Composing bricks 3, 4, 5: place the box's right edge at `Re = σ₁ > 1`.  Brick 3 evaluates the
+weighted boundary integral as the ZERO side (`2πi·Σ d(ρ)g(ρ)` over the actual divisor); brick 4
+turns the right-edge integrand into `−g·L(Λ)` pointwise; brick 5 expands it termwise into
+PRIME-POWER integrals.  The result — every hypothesis explicit, every step kernel-checked:
+
+  `2πi · Σ_ρ d(ρ)·g(ρ)  =  (bottom edge) − (top edge) − i·Σ′_n Λ(n)-term integrals − i·(left edge)`
+
+the rectangular Guinand–Weil / explicit-formula identity at finite height: **weighted sums over
+zeta zeros equal von Mangoldt (prime-power) sums plus three boundary integrals.**  The right-edge
+zeta non-vanishing is DERIVED (`Re > 1`, `riemannZeta_ne_zero_of_one_le_re`), and the test-weight
+edge bound is DERIVED (extreme value theorem on the compact edge) — the Arb trust surface is only:
+three off-prime-side edge non-vanishings + strict interiority of the ball's zero support.
+
+Classically the three remaining edges are estimated and sent to limits (`T0 → −∞` symmetrically,
+`σ₀ → −∞` via the functional equation); here they stand as honest, explicit remainder terms.
+conjecture1_proved = False. -/
+
+
+
+/-! ## Brick 7 (W1): the Bragg amplitude in closed form.
+
+The prime-side integrals of `rect_explicit_formula` (constant weight `g ≡ 1`) evaluate in
+CLOSED FORM: the `n`-th term is a pure oscillation of frequency `log n` —
+
+  `∫_{T0}^{T1} Λ(n)·n^{−(σ+iy)} dy  =  [term at T1 − term at T0] / (−i·log n)`,
+
+amplitude `Λ(n)·n^{−σ}/log n`, Bragg frequency `log n` (nonzero exactly at prime powers).
+This is the diffraction pattern of the zeros, prime-side, as concrete arithmetic — the first
+W1 (second-axis) brick: the formula meeting computable prime data.  conjecture1_proved = False. -/
+
+
+
+/-! ## Brick 8 (EDGES-TO-LIMITS, structural half): the reflection identities — the LEFT edge
+speaks primes and Archimedean, with ZERO Arb inputs.
+
+The classical route sends the explicit formula's remaining edges to limits via the functional
+equation: `Λ(1−s) = Λ(s)` reflects the left edge (`Re < 0`) into the prime region (`Re > 1`).
+Here, kernel-side:
+
+  * `logDeriv_completedZeta_reflect` — `(log Λ)′(1−s) = −(log Λ)′(s)` (the FE, differentiated);
+  * `logDeriv_zeta_add_gammaR` — the split `(log Λ)′ = (log ζ)′ + (log Γℝ)′`;
+  * `logDeriv_zeta_reflect` — the ζ reflection identity;
+  * `left_edge_prime_reflection` — **for `Re s < 0`, `Im s ≠ 0`:**
+
+      `(log ζ)′(s) = L(Λ)(1−s) − (log Γℝ)′(s) − (log Γℝ)′(1−s)`
+
+    with EVERY hypothesis derived (`s ∉ {0,1}` from `Re < 0`; `ζ(s) ≠ 0` from the strip-location
+    theorem; `ζ(1−s) ≠ 0` and `Γℝ(1−s) ≠ 0` from `Re(1−s) > 1`; `Γℝ(s) ≠ 0` from `Im ≠ 0`;
+    the prime keystone at `1−s`).  The LEFT edge of any explicit-formula box in `Re < 0` is
+    therefore prime sums (mirrored) + two Archimedean `ψ`-integrals (`logDeriv_gammaR` expands
+    them into digammas — where the θ/Binet machinery lives) — **no ζ data, no Arb input**.
+
+    Remaining for the full classical limit: the horizontal edges as `T → ∞`, which requires the
+    `|ζ′/ζ| = O(log² T)` corridor lemma (zero-avoiding heights) — genuine further analysis,
+    honestly out of scope here.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+/-! ## Brick 9 (T3 ground — the ζ-side of Riemann–von Mangoldt): the box zero-count IS the
+boundary winding of `ζ′/ζ`.
+
+The `g ≡ 1` specialization of `bd_weighted_logDeriv_zeta`: the four-segment boundary integral of
+`ζ′/ζ` around the box equals `2πi · (number of ζ-zeros in the box, with multiplicity)`.  This is
+the argument principle for `ζ` in closed kernel form — the LEFT side of RvM
+(`N(T) = θ(T)/π + 1 + S(T)`), which classically is obtained by taking this box to the half-line
+`[1/2, ∞) × [0, T]` and splitting the boundary contour into the Γ-argument (→ `θ`, our
+`riemannSiegelTheta` via the Archimedean bridge) and the ζ-argument remainder (→ `πS`).  The
+half-line limit + the `S`-identification are the remaining research content
+(see `docs/RVM_T3_T4_SCOPING`).  conjecture1_proved = False. -/
+
+
+
+/-! ## Brick 10 (the argument-change infrastructure — closing the T3 "true gap" branch-free).
+
+RvM's `S(T)` was flagged as needing a continuous `arg`-along-a-path, absent from Mathlib.  But
+the CONTINUOUS ARGUMENT CHANGE along a zero-avoiding path IS the imaginary part of the
+log-derivative line integral — `Im ∫ f′/f = Δ arg f`, `Re ∫ f′/f = Δ log‖f‖` — with NO branch
+function, exactly as `riemannSiegelTheta` was defined by an integral rather than a branch of
+`logΓ`.  These definitions + the box identity (from `bd_logDeriv_zeta_eq_count` by taking `.im`)
+give the argument principle in ARGUMENT-CHANGE form: total argument change around the box =
+`2π · (zero-count)`.  This is the scaffold `S` sits on: as the box opens to the half-plane, the
+vertical-edge argument change on the near-critical side becomes `π·S(T)` and the horizontal/Γ
+contributions become `θ(T)`.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+/-! ## Brick 11 (RvM bookkeeping, phase 1): `S(T)` defined branch-free, and
+`θ(T)` IS the Archimedean argument-change up the critical line.
+
+With the argChange vocabulary the classical objects become DEFINITIONS, not constructions:
+
+  * `riemannS T` — the argument of `ζ` at `1/2 + iT` by continuous variation along the standard
+    zero-avoiding path (`2 → 2 + iT → 1/2 + iT`), divided by `π`.  Branch-free: each leg is an
+    `Im`/`Re` of a log-derivative integral.  (Total function; its RvM meaning requires the path
+    to avoid zeros, i.e. `T` not a zero-ordinate — the classical caveat, honestly inherited.)
+  * `theta_eq_argChangeVert_gammaR` — **`θ(T) = argChangeVert Γℝ (1/2) 0 T`**: the Riemann–Siegel
+    phase IS the continuous Archimedean argument change up the critical line, welding the
+    `DlvpTheta` campaign to the argument-principle machinery.  (Proof: the Archimedean bridge
+    `thetaIntegrand_eq_re_logDeriv_gammaR` + `intervalIntegral_re`; integrability from the
+    digamma ray continuity built in `DlvpTheta`.)
+
+Remaining RvM assembly: the Λ-split of the box argument-change (linearity over
+`logDeriv_zeta_add_gammaR`), the FE-fold, and the `s(s−1)/2` pole bookkeeping — assembly on
+these pieces.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+/-! ## Brick 12 (RvM bookkeeping, phase 2): THE S-DIFFERENCE COUNTING IDENTITY.
+
+Fold brick 10's box argument-principle into the continuous-argument function: define
+`argZeta σ T` — the continuous argument of `ζ` at `σ + iT` along the standard route
+`2 → 2+iT → σ+iT` (so `π·riemannS T = argZeta (1/2) T`).  Then for a box `[σ0, 2] × [T0, T1]`
+with admissible boundary, the count identity becomes
+
+  `2π · N_box  =  (argZeta σ0 T1 − argZeta σ0 T0)  −  argChangeVert ζ σ0 T0 T1`
+
+— **the zero-count is the jump of the continuous argument at the left abscissa, minus the
+left-edge remainder.**  The right edge (`Re = 2`) is absorbed by vertical additivity (its zeta
+non-vanishing and integrability are THEOREMS), the horizontals by the route's definition.  At
+`σ0` in zero-free territory the left edge is computable (reflection/primes); as `σ0 → 1/2` this
+is the classical "`S` counts the zeros".  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Brick 13a (the FE-fold toolkit): log-derivatives under conjugation.
+
+The FE-fold turns the left-edge argument change into mirror-edge data at NEGATIVE heights;
+Schwarz reflection (`f(s̄) = conj (f s)`) folds those back to positive heights.  Kernel form:
+Mathlib's `HasDerivAt.star_conj` gives the anti-holomorphic chain rule, whence for any
+conj-symmetric `f`, `logDeriv f (s̄) = conj (logDeriv f s)` — instantiated for `ζ`
+(`riemannZeta_conj`) and `Γℝ` (proved here from `Gamma_conj` + `exp_conj`).  Since
+`Re ∘ conj = Re`, every `argChangeVert` at a negative height mirrors to its positive-height
+twin — the fold's computability toolkit.  conjecture1_proved = False. -/
+
+/-- Schwarz-reflection derivative: if `f (conj z) = conj (f z)` everywhere and `f` is
+    differentiable at `s`, then `deriv f (conj s) = conj (deriv f s)`. -/
+theorem deriv_conj_of_conj_symm {f : ℂ → ℂ}
+    (hsymm : ∀ z : ℂ, f ((starRingEnd ℂ) z) = (starRingEnd ℂ) (f z))
+    {s : ℂ} (hdf : DifferentiableAt ℂ f s) :
+    deriv f ((starRingEnd ℂ) s) = (starRingEnd ℂ) (deriv f s) := by
+  have h1 := hdf.hasDerivAt.star_conj
+  have hfun : (star ∘ f ∘ (starRingEnd ℂ)) = f := by
+    funext z
+    simp only [Function.comp_apply]
+    rw [hsymm z]
+    simp
+  rw [hfun] at h1
+  have h2 : (starRingEnd ℂ) (deriv f s) = star (deriv f s) := rfl
+  rw [h2]
+  exact h1.deriv
+
+/-- `logDeriv` under conjugation, for conj-symmetric differentiable `f`. -/
+theorem logDeriv_conj_of_conj_symm {f : ℂ → ℂ}
+    (hsymm : ∀ z : ℂ, f ((starRingEnd ℂ) z) = (starRingEnd ℂ) (f z))
+    {s : ℂ} (hdf : DifferentiableAt ℂ f s) :
+    logDeriv f ((starRingEnd ℂ) s) = (starRingEnd ℂ) (logDeriv f s) := by
+  rw [logDeriv_apply, logDeriv_apply, deriv_conj_of_conj_symm hsymm hdf, hsymm s, ← map_div₀]
+
+
+
+
+
+
+
+/-! ## Brick 13b-infra (the FE-fold edge-integrability): `logDeriv ζ` and `logDeriv Γℝ`
+continuous along GENERAL vertical lines.
+
+The symmetric fold's `integral_congr` needs the four edge integrands continuous on arbitrary
+vertical segments — not just the `Re = 1/2`, `Re = 2` lines hardcoded in bricks 11–12.  These
+generalize those to any `Re = σ` (`σ > 1` for `ζ`, `σ > 0` for `Γℝ`), via a reusable general
+digamma continuity (`digamma_continuousAt_of_re_pos`, absent from Mathlib).  With them, every
+`argChangeVert` in the fold is a well-defined integral of a continuous function.
+conjecture1_proved = False. -/
+
+
+
+
+
+
+
+/-! ## Brick 13b (THE SYMMETRIC FOLD IDENTITY): the left-edge argument change equals minus the
+Archimedean argument changes, both edges at the same height.
+
+Reflection (`logDeriv_zeta_reflect`) sends `σ₀ + iy ↦ (1−σ₀) − iy`; the conjugation toolkit
+(`logDeriv_zeta_conj`, `logDeriv_gammaR_conj`) folds that `−iy` back to `+iy`, so the mirror
+data lands on the `Re = 1−σ₀` line at the SAME positive height.  Taking real parts (RvM's
+argument changes) gives, for `σ₀ < 0` and `y > 0`, the pointwise integrand of the fold
+`AV(ζ,σ₀) + AV(ζ,1−σ₀) = −AV(Γℝ,σ₀) − AV(Γℝ,1−σ₀)`.  Every hypothesis is DERIVED: `ζ(σ₀+iy) ≠ 0`
+from the strip-location theorem; `ζ((1−σ₀)+iy) ≠ 0` from `Re > 1`; the `Γℝ` non-vanishings from
+`Im ≠ 0`.  conjecture1_proved = False. -/
+
+
+
+
+
+/-! ## Brick 13b-wrap (THE FOLD, integral form): `AV(ζ,σ₀)+AV(ζ,1−σ₀) = −AV(Γℝ,σ₀)−AV(Γℝ,1−σ₀)`.
+
+Integrate `fold_pointwise` over a positive-height segment `0 < T0 ≤ T1` (the classical
+zero-avoiding requirement).  Edge continuity off the real axis: `Γℝ` analytic where `Im ≠ 0`
+(the `Γ`-poles are real), `ζ` continuous off its zeros; `intervalIntegral.integral_congr` +
+`intervalIntegral_re` do the rest.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Brick 14 (THE POLE "+1"): the winding of the pole factor `(·−1)⁻¹`.
+
+RvM's `+1` is the contribution of the `s(s−1)/2` factor of `ξ` — equivalently, the single simple
+pole of `ζ` (or zero of `s−1`) at `s = 1`.  In argument-change vocabulary: the total continuous
+argument change of `fun s => s − 1` counterclockwise around any box containing `1` is exactly `2π`
+(winding number `1`).  Read off `rect_winding_generic` at `ρ = 1` via `logDeriv (·−1) = (·−1)⁻¹`
+and `.im`.  conjecture1_proved = False. -/
+
+
+
+
+
+/-! ## Brick 15 (THE RvM BAND-DIFFERENCE CAPSTONE): the zero-count of a height band as explicit
+edge argument-changes.
+
+Combining the four RvM ingredients on the classical symmetric rectangle `[−1, 2] × [T0, T1]`
+(`σ₀ = −1` ⟹ `1 − σ₀ = 2`, so the fold's mirror line IS the right edge):
+
+  `2π · N_band  =  2·AV(ζ,2) + AH(ζ,T1,·,−1) − AH(ζ,T0,·,−1) + AV(Γℝ,−1) + AV(Γℝ,2)`
+
+— `count_eq_argZeta_diff_sub_left` gives the count as the argZeta jump minus the left edge;
+`argChangeVert_zeta_line2_add` telescopes the `Re = 2` verticals; `argChangeVert_fold` eliminates
+the left edge in favour of the right edge + the two Archimedean edges.  This is the DIFFERENCE
+(band) form of Riemann–von Mangoldt — the exact object the tiling/Turing height-ladder consumes
+(`N(T1) − N(T0)`); the pole `+1` correctly does NOT appear (the pole `s = 1` sits at height `0`,
+below the band `0 < T0`).  The full `N(T) = θ(T)/π + 1 + S(T)` is the `T0 → 0⁺` limit with the
+real-axis base (where `pole_total_argChange` supplies the `+1`) and the ξ-doubling that identifies
+the edge Archimedean terms with `θ` on the critical line — the honestly-remaining geometric
+reduction.  conjecture1_proved = False. -/
+
+
+
+/-! ## ξ-DOUBLING SESSION, step 1: the entire completed-zeta log-derivative reflection.
+
+`Λ₀ = completedRiemannZeta₀` is ENTIRE (`differentiable_completedZeta₀`) with the clean functional
+equation `Λ₀(1−s) = Λ₀(s)` (`completedRiemannZeta₀_one_sub`) — no `Γℝ` factor, no poles at `0, 1`.
+Differentiating the FE gives the reflection identity `logDeriv Λ₀ (1−s) = −logDeriv Λ₀ s`, valid
+everywhere (junk-equal at zeros).
+
+CORRECTION (2026-09-09): an earlier version of this note claimed "Λ₀'s zeros in the strip are
+exactly the nontrivial ζ-zeros".  That is FALSE.  `completedRiemannZeta_eq` gives
+`Λ = Λ₀ − 1/s − 1/(1−s)` with `Λ = Γℝ·ζ`, so at a nontrivial zero `ρ` (where `Λ(ρ) = 0`) one has
+`Λ₀(ρ) = 1/ρ + 1/(1−ρ) = 1/(ρ(1−ρ)) ≠ 0`.  The ENTIRE function carrying the nontrivial zeros is
+`ξ(s) = ½ s(s−1) Λ(s) = ½ s(s−1) Λ₀(s) + ½`, NOT `Λ₀` itself.  Consequently a `Λ₀`
+argument-principle count would count the WRONG set — the correct count side is the `ζ` argument
+principle already assembled (`bd_logDeriv_zeta_eq_count` → `zero_count_band_edge_decomp`).  The
+reflection/fold lemmas below remain TRUE (pure FE + conjugation identities, no zero claim) but are
+NOT on the RvM critical path; they are kept as honest, verified auxiliary identities.
+conjecture1_proved = False. -/
+
+
+
+/-! ## ξ-DOUBLING SESSION, step 2: the entire fold — Λ₀ argument-change is anti-symmetric across
+`Re = 1/2`, with NO Archimedean remainder.
+
+`Λ₀` is conj-symmetric (`ZetaZeroLocalization.completedRiemannZeta₀_conj`) and entire, so the
+reflection (step 1) + conjugation fold to the SAME positive height give, for ALL `s`:
+
+  `Re(logDeriv Λ₀ (σ+iy)) + Re(logDeriv Λ₀ ((1−σ)+iy)) = 0`
+
+— RHS `0`, no `σ`/`y` constraints, no `Γℝ` terms (they live inside `Λ₀`).  A clean anti-symmetry of
+`Λ₀`'s log-derivative across the critical line.  NB (see the step-1 CORRECTION): this folds `Λ₀`'s
+OWN argument change, and `Λ₀`'s zeros are NOT the nontrivial ζ-zeros, so this is a true auxiliary
+identity rather than an RvM-count ingredient.  The RvM fold that IS on the critical path is
+`argChangeVert_fold` (the `ζ + Γℝ` split), already wired into `zero_count_band_edge_decomp`.
+conjecture1_proved = False. -/
+
+
+
+
+
+/-! ## ξ-DOUBLING SESSION, step 4: the θ/S split of the completed-zeta argument change.
+
+The RvM decomposition `N(T) = θ(T)/π + 1 + S(T)` is, structurally, the statement that the
+argument change of the completed zeta up a vertical line splits as `Γℝ-part (→ θ) + ζ-part (→ πS)`.
+That split is exactly `logDeriv_zeta_add_gammaR` integrated: on any positive-height vertical segment
+where `ζ` is nonvanishing (`Γℝ ≠ 0` and `s ∉ {0,1}` are AUTOMATIC there, from `Im ≠ 0`),
+
+  `AV(Λ, σ) = AV(ζ, σ) + AV(Γℝ, σ)`      (`argChangeVert_completedZeta_split`)
+
+with `Λ = completedRiemannZeta`.  Specialised to the critical line and combined with
+`theta_eq_argChangeVert_gammaR` (θ IS `AV(Γℝ, 1/2)`) and the Γℝ-line additivity, this gives the
+**band form of RvM's θ/S structure, kernel-exact**:
+
+  `AV(Λ, 1/2, T0, T1) = AV(ζ, 1/2, T0, T1) + (θ T1 − θ T0)`
+      (`completedZeta_argChange_critical_eq_zeta_add_theta`)
+
+— the completed-zeta argument change up a critical-line band is the ζ argument change (which is
+`π·ΔS`) plus the θ increment.  This is the honest θ/S identification: the Archimedean part of the
+completed-zeta winding IS `θ`, the ζ part IS `πS`.  The literal `N(T) = θ/π + 1 + S` (the `T0 → 0⁺`
+base case, where `pole_total_argChange` supplies the `+1`, and the reorganisation onto the
+zero-avoiding `S`-path) remains the honestly-scoped remainder.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+/-! ## The pole "+1", first stone: extracting `ζ`'s simple pole at `s = 1` from its log-derivative.
+
+RvM's `+1` is the pole of `ζ` at `s = 1`.  The honest way to expose it (given the holomorphic
+Blaschke machinery `bd_logDeriv_zeta_eq_count` STRUCTURALLY excludes `s = 1`, via `hs1 : 1 ∉ ball`)
+is the meromorphic factorisation `ζ(s) = h(s)/(s − 1)` with `h(s) = ζ(s)·(s − 1)` analytic across
+`s = 1` (`h(1) = 1`, the residue) and `h`'s zeros in the strip EXACTLY `ζ`'s zeros (`s − 1 ≠ 0`
+off `1`).  Log-differentiating (where `ζ ≠ 0`, `s ≠ 1`):
+
+  `(log ζ)′(s) = (log h)′(s) − (s − 1)⁻¹`
+
+— the `−(s − 1)⁻¹` is the pole term whose box-winding is `−2π` (equivalently `+2π` for `h`'s
+factor), i.e. the `+1`, supplied by `pole_total_argChange`.  This is the pointwise stone; the
+remaining gap for the literal `+1` is the argument principle for `h` (entire across `s = 1`,
+same zeros) — a meromorphic re-instantiation of the holomorphic core, honestly out of brick scope.
+conjecture1_proved = False. -/
+
+
+
+/-! ## The pole-free companion `H = (s−1)·ζ(s)`, ENTIRE — the analytic foundation of the `+1`.
+
+The pole-extraction (`logDeriv_zeta_pole_extract`) reduces the `+1` to the argument principle for
+`h(s) = (s−1)·ζ(s)`, but that principle needs `h` ANALYTIC across `s = 1` (the holomorphic Blaschke
+core cannot see a pole).  `ζ` has a simple pole at `1`, so `(s−1)·ζ(s)` has a REMOVABLE singularity:
+`riemannZeta_residue_one` gives `(s−1)·ζ(s) → 1` as `s → 1`.  Defining
+
+  `zetaPoleCompanion = update (fun z => (z−1)·ζ(z)) 1 1`
+
+the removable-singularity theorem (`analyticAt_of_differentiable_on_punctured_nhds_of_continuousAt`)
+makes it ENTIRE, with `H(1) = 1 ≠ 0` and zeros EXACTLY `ζ`'s non-`1` zeros.  This is the complete
+analytic prerequisite the `h`-argument-principle stands on — everything except the (large)
+re-instantiation of the Blaschke winding-count for `H`, which is the honestly-remaining lift.
+conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The `H`-argument-principle prerequisites: the three ζ-specific inputs, ported to `H`.
+
+The Blaschke winding-count core (`zeta_blaschke_split_ball`, `zeta_count_eq_winding_generic`) is
+generic Mathlib machinery (`extract_zeros_poles`, `FactorizedRational`, `logDeriv_congr_of_codiscrete`)
+wrapped around exactly THREE `ζ`-specific facts.  Here they are supplied for the ENTIRE companion
+`H = zetaPoleCompanion`, which — being entire — satisfies each MORE cleanly than `ζ` (no pole to
+dodge, so `H` is meromorphic on the whole CLOSED ball, and its order is finite on all of `ℂ`):
+
+  1. `analyticOnNhd_zetaPoleCompanion`  — `H` analytic on any set (`ζ` needed `{1}ᶜ`).
+  2. `meromorphicOrderAt_zetaPoleCompanion_ne_top` — order `≠ ⊤` EVERYWHERE (`ζ` needed `{1}ᶜ`;
+     seeded here from `H(1) = 1 ≠ 0` on the connected `univ`).
+  3. `divisor_zetaPoleCompanion_ball_support_finite` — divisor finite on any ball, via the GENERIC
+     `MeromorphicOn.divisor_ball_support_finite` (`H` meromorphic on the closed ball since entire;
+     `ζ` had to use the bespoke `IsCompact.inter_riemannZetaZeros_finite` to avoid `s = 1`).
+
+With these three, the generic Blaschke count instantiates at `H` — the honestly-remaining lift being
+the (mechanical, large) generic re-parameterisation of the winding-count proof itself.
+conjecture1_proved = False. -/
+
+
+
+
+
+
+
+/-! ## THE PORT: the generic Blaschke split, then instantiated at `H`.
+
+`zeta_blaschke_split_ball` (RHInBoxAnalytic) is written against `riemannZeta` by name but its proof
+is generic Mathlib machinery over exactly the three prerequisites just supplied for `H`.  Here is
+that proof re-parameterised to an ARBITRARY analytic `f` (`analytic_blaschke_split_ball`), then
+instantiated at `H = zetaPoleCompanion` (`zetaPoleCompanion_blaschke_split_ball`).  The instantiation
+is a one-liner precisely because the three prereqs are in hand.  This is the structural core of the
+`h`-argument-principle; the remaining winding-count capstone is the same substitution over
+`zeta_count_eq_winding_generic`.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+/-! ## THE +1, item 1: the integrated pole extraction on the box boundary.
+
+Lifting `logDeriv_zeta_pole_extract` (`ζ′/ζ = H′/H − (·−1)⁻¹`) from pointwise to the contour: for a
+box with `s = 1` strictly interior and `ζ` non-vanishing on the four edges,
+
+  `Bd(logDeriv ζ) = Bd(logDeriv H) − 2πi`
+
+— the pole's boundary winding is exactly `2πi` (`rect_winding_generic` at `ρ = 1`), so `ζ`'s
+meromorphic boundary winding is `H`'s holomorphic one minus the pole.  Together with the count
+(`analytic_count_eq_winding_generic` at `H`) this is `N_ζ = N_H − 1` — the RvM `+1`.
+conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+/-! ## THE +1, item 2: discharge the routine `hArb` integrabilities, then wire `N_ζ = N_H − 1`.
+
+The generic count's `hArb` bundle mixes genuinely-external facts (edge non-vanishing = Arb
+enclosures; strict interiority of the zeros = geometry) with ROUTINE integrabilities that follow
+from continuity.  Here the routine ones are discharged (four helpers below), leaving a wiring lemma
+`zetaPoleCompanion_count_eq_winding_with_pole` that takes only the external facts + the `ζ` boundary
+winding value `M`, and concludes the box zero-count of `H` (= `ζ`'s zeros, since `H`'s zeros are
+`ζ`'s non-`1` zeros) is `M + 1` — the RvM `+1`, assembled from item 1 + the count at `H`.
+conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Toward the literal RvM: the CONJUGATION fold (one of the two symmetry folds).
+
+RvM's `Δ_box arg = 2·(…)` uses two symmetries of the completed zeta: the reflection `s ↦ 1−s`
+(`argChangeVert_fold`, already merged) and the Schwarz conjugation `s ↦ s̄` folding the lower half
+onto the upper.  Here is the conjugation fold, generically: for any `f` with `f(s̄) = conj(f s)`,
+differentiable along the line, and with `logDeriv f` integrable on `[−T,T]`,
+
+  `AV(f, σ, −T, T) = 2 · AV(f, σ, 0, T)`
+
+— because `Re(logDeriv f (σ + iy))` is EVEN in `y` (`logDeriv f (σ − iy) = conj(logDeriv f(σ+iy))`,
+and `Re ∘ conj = Re`).  Applies to `ζ`, `Γℝ`, and `Λ₀` (all Schwarz-symmetric) on zero-free
+segments.  The remaining literal-RvM work is the reflection-side `θ + πS` identification and the
+`T0 → 0⁺` base — still genuine construction, not claimed.  conjecture1_proved = False. -/
+
+
+
+/-! ## THE θ IDENTIFICATION: the Archimedean part of the right-half path IS Riemann–Siegel `θ`.
+
+The reflection-side of RvM needs `θ`.  The key fact — provable, not just scaffolded — is that `Γℝ` is
+analytic AND non-vanishing on the whole rectangle `[1/2,2] × [0,T]` (its poles are at `Re ≤ 0`, it
+never vanishes), so `logDeriv Γℝ` is holomorphic there and its rectangle winding is `0`
+(`rect_arg_principle_generic`).  Since `Γℝ` is real on the real axis (bottom edge contributes `0`
+to the argument change), this forces the Archimedean argument change along the right-half path
+`2 → 2+iT → 1/2+iT` to equal `θ(T) = AV(Γℝ,1/2,0,T)`:
+
+  `AV(Γℝ,2,0,T) + AH(Γℝ,T,2,1/2) = θ(T)`.
+
+This is the θ half of the `θ + πS` identification.  (The `πS` half is `logDeriv_zeta_add_gammaR`
+integrated along the same path, `Δ_L ζ = πS`; the `+1` is the pole, handled separately.)
+conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+/-! ## THE πS HALF + THE Δ_L Λ = θ + πS COMBINE.
+
+The `ζ` part of the completed-zeta argument change along `L : 2 → 2+iT → 1/2+iT` is `πS(T)` (this is
+essentially how `riemannS` is defined), and the `Γℝ` part is `θ(T)` (`archimedean_pathL_eq_theta`).
+Splitting `logDeriv Λ = logDeriv ζ + logDeriv Γℝ` (`logDeriv_zeta_add_gammaR`) along both legs of `L`
+and adding:
+
+  `AV(Λ,2,0,T) + AH(Λ,T,2,1/2) = θ(T) + π·S(T)`.
+
+Requires `ζ ≠ 0` on the height-`T` horizontal `[1/2,2]×{T}` — the classical "T not a zero ordinate"
+caveat, honestly inherited.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+/-! ## THE COMPLETED-ZETA REFLECTION-CONJUGATION FOLD (left-right edge gear of `Δ_box = 2·Δ_L`).
+
+`Λ = completedRiemannZeta` satisfies `Λ(1−s) = Λ(s)` and `Λ(s̄) = conj Λ(s)` (the latter built here
+from `completedRiemannZeta_eq` + `Λ₀`'s conjugation symmetry + conj-of-reciprocal — Mathlib has no
+direct lemma).  Unlike `Λ₀`, `Λ`'s strip zeros ARE `ζ`'s zeros (`Λ = Γℝ·ζ`, `Γℝ ≠ 0` in the strip).
+Combining reflection + conjugation gives the clean left-right fold, for `Im = y > 0`:
+
+  `Re(logDeriv Λ (σ+iy)) + Re(logDeriv Λ ((1−σ)+iy)) = 0`
+
+— the completed-zeta analog of `fold_pointwise_zeta₀`, on the object with the RIGHT zeros.  This is
+the reflection gear that collapses the box's left half onto its right (`Δ_box = 2·Δ_L`); the
+remaining literal-`N(T)` work is the box argument principle for `Λ` with its poles at `0,1`
+(the source of the `+1`) and the `T0→0⁺` base.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+/-! ## THE ξ FUNCTION — ENTIRE, WITH NO REMOVABLE-SINGULARITY WORK.
+
+The classical `ξ(s) = ½ s(s−1) Λ(s)` (`Λ = completedRiemannZeta`, poles at `0,1`) is entire because
+the `s(s−1)` factor kills both poles.  Rather than build that via two removable-singularity limits,
+use the exact identity `ξ(s) = ½ s(s−1) Λ₀(s) + ½` (the pole corrections `−1/s − 1/(1−s)` of
+`completedRiemannZeta_eq` cancel algebraically against `s(s−1)`).  Since `Λ₀` is ALREADY entire
+(`differentiable_completedZeta₀`), this definition is MANIFESTLY entire — no limits.  It is symmetric
+(`ξ(1−s)=ξ(s)`, since `½s(s−1)` and `Λ₀` both are) and conj-symmetric, and equals the classical
+`½s(s−1)Λ` off `{0,1}`.  Its strip zeros are exactly the nontrivial `ζ`-zeros — the entire,
+symmetric object RvM's box argument principle wants.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## BRICK 1: the ξ box argument principle — ξ zero-count = boundary winding.
+
+`ξ` is entire, so it meets the three prerequisites of the generic Blaschke count more cleanly than
+`ζ` did (no pole to dodge, order finite everywhere seeded from `ξ(1) = ½ ≠ 0`).  Instantiating
+`analytic_count_eq_winding_generic` at `ξ` gives: for a box with `ξ ≠ 0` on the edges and its zeros
+strictly interior, if the boundary winding of `logDeriv ξ` is `2πiN` then the box zero-count of `ξ`
+is `N` — no `+1` (unlike the `ζ` route, `ξ` is entire, no pole enclosed).  Via `xiTele_eq_zero_iff`,
+those box zeros are the nontrivial `ζ`-zeros.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+/-! ## BRICK 3 (pointwise): the `logDeriv ξ` split — the pole/`+1` factor separated from `Λ`.
+
+`ξ = ½s(s−1)·Λ` off `{0,1}`, so `logDeriv ξ = logDeriv[½s(s−1)] + logDeriv Λ`.  The polynomial's
+log-derivative is `1/s + 1/(s−1)` (the `½` drops), whose argument change along the right-half path
+is the `+1`; the `Λ` part's is `θ + πS` (`completedZeta_pathL_eq_theta_add_piS`).
+conjecture1_proved = False. -/
+
+
+
+
+
+/-! ## BRICK 3 (integral): the pole factor's path argument change IS the `+1`.
+
+`Δ_L arg(·−r)` along `L : 2 → 2+iT → ½+iT` telescopes (shared corner `2+iT` cancels; start `2−r`
+is positive-real, arg `0`) to `arg((½−r)+iT)`, for real `r < 2`.  Summing the two pole factors
+`r = 0, 1` (`logDeriv[½s(s−1)] = (·)⁻¹ + (·−1)⁻¹`) gives `arg(½+iT) + arg(−½+iT) = π` — the RvM `+1`
+(after `÷π`), a boundary-log computation, not a winding number.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+/-! ## BRICK 3 (assemble): `Δ_L ξ = π + θ + πS`.
+
+Integrating the pointwise `logDeriv_xiTele_split` (`logDeriv ξ = logDeriv[½s(s−1)] + logDeriv Λ`)
+along the right-half path `L : 2 → 2+iT → ½+iT`: the `½s(s−1)` part contributes `π`
+(`pole_pathL_eq_pi`), the `Λ` part contributes `θ + πS` (`completedZeta_pathL_eq_theta_add_piS`).
+`ζ ≠ 0` on the height-`T` horizontal is the classical zero-ordinate caveat.
+conjecture1_proved = False. -/
+
+
+
+/-! ## BRICK 2 (the ξ folds): reflection + conjugation of `logDeriv ξ`.
+
+`ξ` is entire, `ξ(1−s) = ξ(s)` (`xiTele_one_sub`), `ξ(s̄) = conj ξ(s)` (`xiTele_conj`).  Differentiating
+the reflection gives `logDeriv ξ (1−s) = −logDeriv ξ s`; combined with conjugation, the vertical
+argument-change integrand is anti-symmetric across `Re = ½`:
+
+  `Re(logDeriv ξ (σ+iy)) + Re(logDeriv ξ ((1−σ)+iy)) = 0`
+
+— the entire, pole-free fold (RHS exactly `0`, no `Γℝ` remainder) on the object whose zeros are the
+nontrivial `ζ`-zeros.  This is the reflection symmetry that collapses the RvM box's left half onto
+its right.  The full `Δ_box ξ = 2·Δ_L ξ` additionally needs the bottom-edge reality (`ξ` real on the
+real axis) and the top-edge horizontal reflection — the honestly-remaining geometric reduction.
+conjecture1_proved = False. -/
+
+
+
+
+
+
+
+/-! ## BRICK 2 (B): the vertical fold integrated — `AV(ξ,σ₀) + AV(ξ,1−σ₀) = 0`.
+
+Integrating `fold_pointwise_xiTele` over a zero-free vertical band: the two mirror vertical edges of
+the RvM box cancel.  For the symmetric box `[−1,2]` (`1−(−1)=2`) this is `AV(ξ,−1) + AV(ξ,2) = 0`.
+`ξ ≠ 0` on the edges is the classical zero-free-contour caveat.  conjecture1_proved = False. -/
+
+
+
+
+
+/-! ## BRICK 2 (A): the bottom edge vanishes — `ξ` real on the real axis.
+
+`ξ(x̄) = conj ξ(x)` (`xiTele_conj`); at real `x`, `x̄ = x`, so `ξ(x)` is real, hence `logDeriv ξ(x)`
+is real (`Im = 0`).  The bottom edge of the RvM box lies on the real axis, so its horizontal
+argument change is `0`.  `ξ ≠ 0` on the edge is the zero-free-contour caveat.
+conjecture1_proved = False. -/
+
+
+
+
+
+/-! ## BRICK 2 (C): the top-edge horizontal reflection — `AH(ξ,T,½,−1) = AH(ξ,T,2,½)`.
+
+The top edge (`Im = T`) of the RvM box splits at `Re = ½`; the left half `[½,−1]` folds onto the
+right half `[2,½]` under `x ↦ 1−x` (i.e. `s ↦ 1−s̄` at fixed height).  Pointwise,
+`Im(logDeriv ξ ((1−x)+iT)) = Im(logDeriv ξ (x+iT))` (reflect: `logDeriv ξ(1−s̄)=−conj logDeriv ξ s`,
+so imaginary parts agree), and a change of variables closes it.  `ξ ≠ 0` on the top edge is the
+zero-free-contour caveat.  conjecture1_proved = False. -/
+
+
+
+
+
+/-! ## BRICK 4: `Δ_box ξ = 2·Δ_L ξ` and the RvM formula `N(T) = 1 + θ/π + S`.
+
+Assembling (A) bottom-edge reality, (B) vertical fold, (C) top-edge reflection over the symmetric
+box `[−1,2]×[0,T]`: the boundary winding of `logDeriv ξ` is `2·(AV(ξ,2,0,T) + AH(ξ,T,2,½)) = 2·Δ_L`.
+With the box argument principle (`2πi·N = winding`, `xiTele_count_eq_winding`) and
+`Δ_L ξ = π + θ + πS` (`xiTele_pathL_eq`), this is `2πN = 2(π + θ + πS)`, i.e.
+
+  `N(T) = 1 + θ(T)/π + S(T)` — the Riemann–von Mangoldt formula.
+
+conjecture1_proved = False. -/
+
+
+
+
+
+end DiffractionCore
+
+
+/-  DIFFRACTION CORE (Dyson/quasicrystal axis, QC2 brick 1): the WEIGHTED rectangle pole formula.
+
+    The T-ladder counts zeros (`rect_winding_generic`: `Bd((·-ρ)⁻¹) = 2πi`, the `g ≡ 1` case).
+    The Dyson/Weil axis needs WEIGHTED sums over zeros — `Σ_ρ g(ρ)` for analytic test weights —
+    because the explicit formula IS the diffraction identity: weighted zero-sums on one side,
+    Bragg peaks at `k·log p` (prime sums) on the other.  This brick proves the single-pole
+    mechanism over a rectangle:
+
+      `Bd(g·(·-ρ)⁻¹) = 2πi·g(ρ)`   (g holomorphic near the closed box, ρ strictly interior).
+
+    Proof: the removable-singularity split `g(z)·(z-ρ)⁻¹ = dslope g ρ z + g(ρ)·(z-ρ)⁻¹` (off ρ);
+    `dslope g ρ` is holomorphic ACROSS ρ (Mathlib `has_fpower_series_dslope_fslope`), so its
+    boundary integral vanishes by the generic rectangle Goursat (`rect_arg_principle_generic`);
+    the remainder is `g(ρ)` times the counting winding (`rect_winding_generic`).
+
+    Downstream (QC ladder): QC2 brick 2 = finite-sum version over a zero Finset (mirrors
+    `box_residue_sum_generic`); QC3 = the finite-height Guinand–Weil identity, pushing the
+    right edge to `Re > 1` where Mathlib's `LSeries_vonMangoldt_eq` (`L Λ = -ζ'/ζ`) turns the
+    contour into PRIME SUMS — the Bragg peaks, kernel-side.  The Archimedean term is already
+    built (`ZeroFreeBridge.logDeriv_gammaR`, the θ-bridge).
+
+    conjecture1_proved = False. -/
+
+
+
+
+
+
+open Complex MeasureTheory Real
+open scoped Topology
+
+section
+namespace DiffractionCore
+end DiffractionCore
+open DiffractionCore
+
+
+
+
+
+
+
+
+
+/-! ## Brick 4 (P1): the prime keystone — `logDeriv ζ = −L(Λ)` on `Re s > 1`.
+
+Mathlib's `LSeries_vonMangoldt_eq_deriv_riemannZeta_div` supplies the arithmetic side whole:
+`L(Λ) s = −ζ′(s)/ζ(s)` for `Re s > 1`.  Restated in the harness's `logDeriv` vocabulary, this is
+the identity that lets `bd_weighted_logDeriv_zeta`'s RIGHT EDGE (placed in `Re > 1`) speak primes:
+the edge integrand `g·logDeriv ζ` becomes `−g·Σ Λ(n) n^{−s}` — the Bragg peaks at `k·log p`,
+awaiting only the series–integral interchange (P2: dominated convergence along the compact edge,
+`|Λ(n)n^{−s}| = Λ(n)n^{−σ₁}` summable).  conjecture1_proved = False. -/
+
+
+
+
+
+/-! ## Brick 5 (P2): the series–integral interchange on the right edge.
+
+With the right edge at `Re = σ₁ > 1`, the weighted edge integral of `L(Λ)` expands TERMWISE:
+`∫ g·L(Λ) = Σ'_n ∫ g·term(Λ, n)` — dominated convergence with the `y`-independent majorant
+`C·‖term(Λ, σ₁, n)‖` (vertical-line norm invariance is Mathlib's `norm_term_eq`: the norm
+depends only on `Re s`; summability is `LSeriesSummable_vonMangoldt` + `summable_norm_iff`).
+Combined with brick 4 this makes the right edge of `bd_weighted_logDeriv_zeta` a sum of
+prime-power integrals `−Σ Λ(n)·∫ g·n^{−s}` — the Bragg peaks.  conjecture1_proved = False. -/
+
+
+
+/-! ## Brick 6 (ASSEMBLY): the finite-height explicit formula — zeros = primes + boundary.
+
+Composing bricks 3, 4, 5: place the box's right edge at `Re = σ₁ > 1`.  Brick 3 evaluates the
+weighted boundary integral as the ZERO side (`2πi·Σ d(ρ)g(ρ)` over the actual divisor); brick 4
+turns the right-edge integrand into `−g·L(Λ)` pointwise; brick 5 expands it termwise into
+PRIME-POWER integrals.  The result — every hypothesis explicit, every step kernel-checked:
+
+  `2πi · Σ_ρ d(ρ)·g(ρ)  =  (bottom edge) − (top edge) − i·Σ′_n Λ(n)-term integrals − i·(left edge)`
+
+the rectangular Guinand–Weil / explicit-formula identity at finite height: **weighted sums over
+zeta zeros equal von Mangoldt (prime-power) sums plus three boundary integrals.**  The right-edge
+zeta non-vanishing is DERIVED (`Re > 1`, `riemannZeta_ne_zero_of_one_le_re`), and the test-weight
+edge bound is DERIVED (extreme value theorem on the compact edge) — the Arb trust surface is only:
+three off-prime-side edge non-vanishings + strict interiority of the ball's zero support.
+
+Classically the three remaining edges are estimated and sent to limits (`T0 → −∞` symmetrically,
+`σ₀ → −∞` via the functional equation); here they stand as honest, explicit remainder terms.
+conjecture1_proved = False. -/
+
+
+
+/-! ## Brick 7 (W1): the Bragg amplitude in closed form.
+
+The prime-side integrals of `rect_explicit_formula` (constant weight `g ≡ 1`) evaluate in
+CLOSED FORM: the `n`-th term is a pure oscillation of frequency `log n` —
+
+  `∫_{T0}^{T1} Λ(n)·n^{−(σ+iy)} dy  =  [term at T1 − term at T0] / (−i·log n)`,
+
+amplitude `Λ(n)·n^{−σ}/log n`, Bragg frequency `log n` (nonzero exactly at prime powers).
+This is the diffraction pattern of the zeros, prime-side, as concrete arithmetic — the first
+W1 (second-axis) brick: the formula meeting computable prime data.  conjecture1_proved = False. -/
+
+
+
+/-! ## Brick 8 (EDGES-TO-LIMITS, structural half): the reflection identities — the LEFT edge
+speaks primes and Archimedean, with ZERO Arb inputs.
+
+The classical route sends the explicit formula's remaining edges to limits via the functional
+equation: `Λ(1−s) = Λ(s)` reflects the left edge (`Re < 0`) into the prime region (`Re > 1`).
+Here, kernel-side:
+
+  * `logDeriv_completedZeta_reflect` — `(log Λ)′(1−s) = −(log Λ)′(s)` (the FE, differentiated);
+  * `logDeriv_zeta_add_gammaR` — the split `(log Λ)′ = (log ζ)′ + (log Γℝ)′`;
+  * `logDeriv_zeta_reflect` — the ζ reflection identity;
+  * `left_edge_prime_reflection` — **for `Re s < 0`, `Im s ≠ 0`:**
+
+      `(log ζ)′(s) = L(Λ)(1−s) − (log Γℝ)′(s) − (log Γℝ)′(1−s)`
+
+    with EVERY hypothesis derived (`s ∉ {0,1}` from `Re < 0`; `ζ(s) ≠ 0` from the strip-location
+    theorem; `ζ(1−s) ≠ 0` and `Γℝ(1−s) ≠ 0` from `Re(1−s) > 1`; `Γℝ(s) ≠ 0` from `Im ≠ 0`;
+    the prime keystone at `1−s`).  The LEFT edge of any explicit-formula box in `Re < 0` is
+    therefore prime sums (mirrored) + two Archimedean `ψ`-integrals (`logDeriv_gammaR` expands
+    them into digammas — where the θ/Binet machinery lives) — **no ζ data, no Arb input**.
+
+    Remaining for the full classical limit: the horizontal edges as `T → ∞`, which requires the
+    `|ζ′/ζ| = O(log² T)` corridor lemma (zero-avoiding heights) — genuine further analysis,
+    honestly out of scope here.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+/-! ## Brick 9 (T3 ground — the ζ-side of Riemann–von Mangoldt): the box zero-count IS the
+boundary winding of `ζ′/ζ`.
+
+The `g ≡ 1` specialization of `bd_weighted_logDeriv_zeta`: the four-segment boundary integral of
+`ζ′/ζ` around the box equals `2πi · (number of ζ-zeros in the box, with multiplicity)`.  This is
+the argument principle for `ζ` in closed kernel form — the LEFT side of RvM
+(`N(T) = θ(T)/π + 1 + S(T)`), which classically is obtained by taking this box to the half-line
+`[1/2, ∞) × [0, T]` and splitting the boundary contour into the Γ-argument (→ `θ`, our
+`riemannSiegelTheta` via the Archimedean bridge) and the ζ-argument remainder (→ `πS`).  The
+half-line limit + the `S`-identification are the remaining research content
+(see `docs/RVM_T3_T4_SCOPING`).  conjecture1_proved = False. -/
+
+
+
+/-! ## Brick 10 (the argument-change infrastructure — closing the T3 "true gap" branch-free).
+
+RvM's `S(T)` was flagged as needing a continuous `arg`-along-a-path, absent from Mathlib.  But
+the CONTINUOUS ARGUMENT CHANGE along a zero-avoiding path IS the imaginary part of the
+log-derivative line integral — `Im ∫ f′/f = Δ arg f`, `Re ∫ f′/f = Δ log‖f‖` — with NO branch
+function, exactly as `riemannSiegelTheta` was defined by an integral rather than a branch of
+`logΓ`.  These definitions + the box identity (from `bd_logDeriv_zeta_eq_count` by taking `.im`)
+give the argument principle in ARGUMENT-CHANGE form: total argument change around the box =
+`2π · (zero-count)`.  This is the scaffold `S` sits on: as the box opens to the half-plane, the
+vertical-edge argument change on the near-critical side becomes `π·S(T)` and the horizontal/Γ
+contributions become `θ(T)`.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+/-! ## Brick 11 (RvM bookkeeping, phase 1): `S(T)` defined branch-free, and
+`θ(T)` IS the Archimedean argument-change up the critical line.
+
+With the argChange vocabulary the classical objects become DEFINITIONS, not constructions:
+
+  * `riemannS T` — the argument of `ζ` at `1/2 + iT` by continuous variation along the standard
+    zero-avoiding path (`2 → 2 + iT → 1/2 + iT`), divided by `π`.  Branch-free: each leg is an
+    `Im`/`Re` of a log-derivative integral.  (Total function; its RvM meaning requires the path
+    to avoid zeros, i.e. `T` not a zero-ordinate — the classical caveat, honestly inherited.)
+  * `theta_eq_argChangeVert_gammaR` — **`θ(T) = argChangeVert Γℝ (1/2) 0 T`**: the Riemann–Siegel
+    phase IS the continuous Archimedean argument change up the critical line, welding the
+    `DlvpTheta` campaign to the argument-principle machinery.  (Proof: the Archimedean bridge
+    `thetaIntegrand_eq_re_logDeriv_gammaR` + `intervalIntegral_re`; integrability from the
+    digamma ray continuity built in `DlvpTheta`.)
+
+Remaining RvM assembly: the Λ-split of the box argument-change (linearity over
+`logDeriv_zeta_add_gammaR`), the FE-fold, and the `s(s−1)/2` pole bookkeeping — assembly on
+these pieces.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+/-! ## Brick 12 (RvM bookkeeping, phase 2): THE S-DIFFERENCE COUNTING IDENTITY.
+
+Fold brick 10's box argument-principle into the continuous-argument function: define
+`argZeta σ T` — the continuous argument of `ζ` at `σ + iT` along the standard route
+`2 → 2+iT → σ+iT` (so `π·riemannS T = argZeta (1/2) T`).  Then for a box `[σ0, 2] × [T0, T1]`
+with admissible boundary, the count identity becomes
+
+  `2π · N_box  =  (argZeta σ0 T1 − argZeta σ0 T0)  −  argChangeVert ζ σ0 T0 T1`
+
+— **the zero-count is the jump of the continuous argument at the left abscissa, minus the
+left-edge remainder.**  The right edge (`Re = 2`) is absorbed by vertical additivity (its zeta
+non-vanishing and integrability are THEOREMS), the horizontals by the route's definition.  At
+`σ0` in zero-free territory the left edge is computable (reflection/primes); as `σ0 → 1/2` this
+is the classical "`S` counts the zeros".  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Brick 13a (the FE-fold toolkit): log-derivatives under conjugation.
+
+The FE-fold turns the left-edge argument change into mirror-edge data at NEGATIVE heights;
+Schwarz reflection (`f(s̄) = conj (f s)`) folds those back to positive heights.  Kernel form:
+Mathlib's `HasDerivAt.star_conj` gives the anti-holomorphic chain rule, whence for any
+conj-symmetric `f`, `logDeriv f (s̄) = conj (logDeriv f s)` — instantiated for `ζ`
+(`riemannZeta_conj`) and `Γℝ` (proved here from `Gamma_conj` + `exp_conj`).  Since
+`Re ∘ conj = Re`, every `argChangeVert` at a negative height mirrors to its positive-height
+twin — the fold's computability toolkit.  conjecture1_proved = False. -/
+
+
+
+
+
+
+
+
+
+
+theorem solution {s : ℂ} (hG : Gammaℝ s ≠ 0) :
+    logDeriv Gammaℝ ((starRingEnd ℂ) s) = (starRingEnd ℂ) (logDeriv Gammaℝ s) := by
+  have hGdiff : DifferentiableAt ℂ Gammaℝ s := by
+    have hpole : ∀ m : ℕ, s / 2 ≠ -(m : ℂ) := by
+      intro m hm
+      apply hG
+      rw [Complex.Gammaℝ_eq_zero_iff]
+      exact ⟨m, by linear_combination 2 * hm⟩
+    have hhalf : HasDerivAt (fun z : ℂ => z / 2) ((1 : ℂ) / 2) s := by
+      simpa using (hasDerivAt_id s).div_const 2
+    have hB : HasDerivAt (fun z : ℂ => Complex.Gamma (z / 2))
+        (deriv Complex.Gamma (s / 2) * (1 / 2)) s :=
+      ((Complex.differentiableAt_Gamma _ hpole).hasDerivAt).comp s hhalf
+    have hGdef : Gammaℝ = fun z : ℂ => ZeroFreeBridge.gammaRArch z * Complex.Gamma (z / 2) := rfl
+    rw [hGdef]
+    exact ((ZeroFreeBridge.gammaRArch_hasDerivAt s).differentiableAt).mul hB.differentiableAt
+  exact logDeriv_conj_of_conj_symm gammaR_conj hGdiff

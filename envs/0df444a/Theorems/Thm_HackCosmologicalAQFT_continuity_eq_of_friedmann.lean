@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HackCosmologicalAQFT_continuity_eq_of_friedmann
 -- name    : HackCosmologicalAQFT.continuity_eq_of_friedmann
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:26:52.817264+00:00
 -- url     : https://prove2.me/theorems/afcf0bba-8873-4ba8-9dae-445ef44fd842

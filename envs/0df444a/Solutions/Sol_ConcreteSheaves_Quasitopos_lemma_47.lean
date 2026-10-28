@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ConcreteSheaves.Quasitopos.lemma_47
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:49:45.39399+00:00
 -- url     : https://prove2.me/submissions/0064ec90-1386-4640-b78f-3ecce6316de7
 

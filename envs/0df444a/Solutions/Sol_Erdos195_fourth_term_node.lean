@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.fourth_term_node
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:03.874735+00:00
 -- url     : https://prove2.me/submissions/01b44512-4aac-4625-bb79-441d4e6553f0
 

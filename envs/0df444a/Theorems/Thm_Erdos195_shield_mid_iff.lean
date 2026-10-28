@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_shield_mid_iff
 -- name    : Erdos195.shield_mid_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T07:47:09.461756+00:00
 -- url     : https://prove2.me/theorems/ed45097b-a927-4532-8f86-fda707a00481
 -- title:

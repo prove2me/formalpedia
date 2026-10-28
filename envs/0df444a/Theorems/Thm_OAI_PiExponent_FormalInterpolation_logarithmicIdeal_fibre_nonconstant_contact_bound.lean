@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmicIdeal_fibre_nonconstant_contact_bound
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmicIdeal_fibre_nonconstant_contact_bound
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:17:06.214339+00:00
 -- url     : https://prove2.me/theorems/cd83957f-b27c-4608-99e9-1aee1215de4a
 -- title:

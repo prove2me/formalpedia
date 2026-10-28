@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_stagewise_extremes_diff_dvd
 -- name    : Erdos195.stagewise_extremes_diff_dvd
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T01:38:14.222069+00:00
 -- url     : https://prove2.me/theorems/c756c8a4-ebd2-46ec-808a-334fb42afa99
 -- title:

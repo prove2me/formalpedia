@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonDoubleCount_Leader_pe_reduction
 -- name    : CarbonDoubleCount.Leader.pe_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:41:46.635284+00:00
 -- url     : https://prove2.me/theorems/77f2a2ce-e8c8-4230-99c4-0b73751af146

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P12.clifford_three_cosets
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T02:04:13.59991+00:00
 -- url     : https://prove2.me/submissions/f8a0056d-d041-4e11-9f40-407c0b289aaf
 

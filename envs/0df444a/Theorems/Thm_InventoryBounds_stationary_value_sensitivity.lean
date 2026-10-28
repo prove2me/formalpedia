@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryBounds_stationary_value_sensitivity
 -- name    : InventoryBounds.stationary_value_sensitivity
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T15:33:19.808986+00:00
 -- url     : https://prove2.me/theorems/13dda9a9-f42b-46ef-9576-43183b4a72d4

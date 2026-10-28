@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_exists_potential_of_tt_riem
 -- name    : NewtonCartan.exists_potential_of_tt_riem
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:15:52.147209+00:00
 -- url     : https://prove2.me/theorems/f220ec52-9624-430a-a874-279f2a82ca77
 -- title:

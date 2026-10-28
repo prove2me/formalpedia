@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P10_exampleSeparability
 -- name    : QAlgorithms.Papers.Independent.Information100.P10.exampleSeparability
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:40:41.574945+00:00
 -- url     : https://prove2.me/theorems/731b8f63-5be0-49a3-8857-6e3c975ed39e

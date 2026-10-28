@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P15.compactG2_basis
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T00:19:22.750643+00:00
 -- url     : https://prove2.me/submissions/f5334a4b-b1e1-464d-ae57-0b4b026fdd50
 

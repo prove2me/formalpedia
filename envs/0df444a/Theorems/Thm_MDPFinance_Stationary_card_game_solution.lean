@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Stationary_card_game_solution
 -- name    : MDPFinance.Stationary.card_game_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:46:39.05737+00:00
 -- url     : https://prove2.me/theorems/960c29f5-c9ea-4272-a3d0-ae5ef79fcc47

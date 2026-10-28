@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedParamMDP_Optimal_theorem9_bellman_equations
 -- name    : BoundedParamMDP.Optimal.theorem9_bellman_equations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:05:03.962985+00:00
 -- url     : https://prove2.me/theorems/5f77403c-cd0f-4e57-9fac-2557c0a426f3

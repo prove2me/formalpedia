@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.reverse_fourth_conflict
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:47.837258+00:00
 -- url     : https://prove2.me/submissions/1b92dd74-a464-4b19-861a-fb5fa0951cb7
 

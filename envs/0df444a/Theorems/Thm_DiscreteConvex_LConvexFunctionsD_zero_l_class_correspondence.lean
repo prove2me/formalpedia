@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_zero_l_class_correspondence
 -- name    : DiscreteConvex.LConvexFunctionsD.zero_l_class_correspondence
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:07:22.857153+00:00
 -- url     : https://prove2.me/theorems/14ded228-5017-47a7-8832-0a62b198436d

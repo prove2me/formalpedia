@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBDisclosure_Stage2_lemma_2_region_1
 -- name    : BBDisclosure.Stage2.lemma_2_region_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:32:42.141549+00:00
 -- url     : https://prove2.me/theorems/2db42401-fa7d-422d-bad5-4f967efcaf53

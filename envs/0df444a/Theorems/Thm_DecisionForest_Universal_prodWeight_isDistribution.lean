@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecisionForest_Universal_prodWeight_isDistribution
 -- name    : DecisionForest.Universal.prodWeight_isDistribution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:30.000775+00:00
 -- url     : https://prove2.me/theorems/7b18a7de-26ef-43db-b8a4-d3f003b2d5c8

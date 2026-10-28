@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.Discounted.sigma_cost_closed_form
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:56:41.966935+00:00
 -- url     : https://prove2.me/submissions/f959ff00-28da-4c39-ac33-308496d9d87e
 

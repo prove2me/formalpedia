@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.zero_sum_count
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:41:14.973408+00:00
 -- url     : https://prove2.me/submissions/1f84587e-9ac3-4cc0-9211-acfa11a40b3d
 

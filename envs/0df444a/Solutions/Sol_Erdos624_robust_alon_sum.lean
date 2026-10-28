@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.robust_alon_sum
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:36.687748+00:00
 -- url     : https://prove2.me/submissions/b3993a85-01de-4589-a962-d71481949717
 

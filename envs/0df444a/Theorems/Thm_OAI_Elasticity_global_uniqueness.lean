@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Elasticity_global_uniqueness
 -- name    : OAI.Elasticity.global_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:36.938133+00:00
 -- url     : https://prove2.me/theorems/2eed401d-0941-4ec6-a440-00ff976d011d

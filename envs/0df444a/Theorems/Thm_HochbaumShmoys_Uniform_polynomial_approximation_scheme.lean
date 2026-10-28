@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HochbaumShmoys_Uniform_polynomial_approximation_scheme
 -- name    : HochbaumShmoys.Uniform.polynomial_approximation_scheme
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:23.05499+00:00
 -- url     : https://prove2.me/theorems/1516988e-7b4f-4157-8813-e352e34f9d3f

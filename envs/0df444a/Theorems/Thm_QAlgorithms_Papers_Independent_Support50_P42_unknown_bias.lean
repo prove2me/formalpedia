@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_unknown_bias
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.unknown_bias
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:18:58.89211+00:00
 -- url     : https://prove2.me/theorems/b2e99e2b-69ba-4883-b528-3e2deedb6e9e

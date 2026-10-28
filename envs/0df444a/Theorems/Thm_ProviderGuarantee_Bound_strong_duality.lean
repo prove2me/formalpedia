@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProviderGuarantee_Bound_strong_duality
 -- name    : ProviderGuarantee.Bound.strong_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:51.389134+00:00
 -- url     : https://prove2.me/theorems/f6beb869-f83a-4ddf-85a3-3e9fc413454e

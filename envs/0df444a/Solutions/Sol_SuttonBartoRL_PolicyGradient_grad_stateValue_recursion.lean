@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.PolicyGradient.grad_stateValue_recursion
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:21:54.160754+00:00
 -- url     : https://prove2.me/submissions/4ec14799-e249-4fe6-9a1b-824e107a5e77
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.nine_true_release
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T08:11:09.681519+00:00
 -- url     : https://prove2.me/submissions/dc94adf4-9783-4149-a789-0a67959c712f
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BondVoting.Sybil.proposition_2
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:00:05.15653+00:00
 -- url     : https://prove2.me/submissions/a6d5709d-026a-4620-b560-b58485b0c52b
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_closure_singlevalued
 -- name    : EthierKurtz.oblique_closure_singlevalued
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-27T02:16:28.958157+00:00
 -- url     : https://prove2.me/theorems/74866daf-8eee-42cf-8fea-78c2ab50360d

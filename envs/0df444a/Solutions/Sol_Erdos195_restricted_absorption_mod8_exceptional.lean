@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.restricted_absorption_mod8_exceptional
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T20:14:02.635548+00:00
 -- url     : https://prove2.me/submissions/f696a42f-140f-4202-a484-77c97e05556e
 

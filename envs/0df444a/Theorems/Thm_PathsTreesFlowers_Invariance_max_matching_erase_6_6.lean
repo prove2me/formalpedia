@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Invariance_max_matching_erase_6_6
 -- name    : PathsTreesFlowers.Invariance.max_matching_erase_6_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:06:47.503494+00:00
 -- url     : https://prove2.me/theorems/5659ccc1-3331-478e-8bcc-06da7032c945

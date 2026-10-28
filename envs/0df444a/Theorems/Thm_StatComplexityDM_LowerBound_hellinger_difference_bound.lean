@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_LowerBound_hellinger_difference_bound
 -- name    : StatComplexityDM.LowerBound.hellinger_difference_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:20:39.978041+00:00
 -- url     : https://prove2.me/theorems/c4558661-a520-4327-b237-c439c70ea947

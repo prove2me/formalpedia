@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UtilityTokens_ICOChoice_optimal_late_price
 -- name    : UtilityTokens.ICOChoice.optimal_late_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:19.81259+00:00
 -- url     : https://prove2.me/theorems/81550623-bb0d-44f0-a30c-fb4dc71f9174

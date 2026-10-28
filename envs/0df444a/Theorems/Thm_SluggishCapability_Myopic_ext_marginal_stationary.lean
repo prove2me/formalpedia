@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SluggishCapability_Myopic_ext_marginal_stationary
 -- name    : SluggishCapability.Myopic.ext_marginal_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:30.046245+00:00
 -- url     : https://prove2.me/theorems/1cabcf5b-c674-44ab-9675-2f8b0b2a59b5

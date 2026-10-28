@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Stationary_structure_theorem_stationary
 -- name    : MDPFinance.Stationary.structure_theorem_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:46:37.563346+00:00
 -- url     : https://prove2.me/theorems/7c679470-49d7-4b74-9014-023cf1adf0c3

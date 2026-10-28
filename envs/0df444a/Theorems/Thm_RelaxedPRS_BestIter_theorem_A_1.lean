@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedPRS_BestIter_theorem_A_1
 -- name    : RelaxedPRS.BestIter.theorem_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:32.672398+00:00
 -- url     : https://prove2.me/theorems/73e2d024-3013-4b9a-ad7e-30ed6f1744ed

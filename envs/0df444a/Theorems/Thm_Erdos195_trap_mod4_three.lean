@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_trap_mod4_three
 -- name    : Erdos195.trap_mod4_three
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:58:28.696814+00:00
 -- url     : https://prove2.me/theorems/0e8ae478-2e62-4304-94a2-4df1eb014ad9
 -- title:

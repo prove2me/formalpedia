@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_prime_equations_derivation_relation
 -- name    : OAI.PiExponent.FormalInterpolation.prime_equations_derivation_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:33:11.251101+00:00
 -- url     : https://prove2.me/theorems/6c4496d6-3271-4395-91fe-13811dd9d1fe

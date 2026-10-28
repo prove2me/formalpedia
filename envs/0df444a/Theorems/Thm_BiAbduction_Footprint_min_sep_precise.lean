@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiAbduction_Footprint_min_sep_precise
 -- name    : BiAbduction.Footprint.min_sep_precise
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:43.919805+00:00
 -- url     : https://prove2.me/theorems/d55762ef-ba5d-419a-9854-2aeeca374899

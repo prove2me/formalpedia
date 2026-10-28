@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SliceRibbon_radialSq_not_isLocalMax_of_minimal
 -- name    : SliceRibbon.radialSq_not_isLocalMax_of_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T11:55:33.760068+00:00
 -- url     : https://prove2.me/theorems/479b5ed3-3533-4032-8c05-56900cf319f2

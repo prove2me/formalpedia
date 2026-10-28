@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.one_even_bridge_H1
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T17:55:42.106162+00:00
 -- url     : https://prove2.me/submissions/3a329a70-f54a-43c4-bbb8-9236753dfa12
 

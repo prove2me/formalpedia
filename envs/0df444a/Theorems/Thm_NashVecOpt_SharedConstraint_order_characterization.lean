@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashVecOpt_SharedConstraint_order_characterization
 -- name    : NashVecOpt.SharedConstraint.order_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:06:02.322561+00:00
 -- url     : https://prove2.me/theorems/c39c1cb7-93d0-464f-818f-9972da92b15d

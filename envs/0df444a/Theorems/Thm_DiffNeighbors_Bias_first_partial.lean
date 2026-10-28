@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffNeighbors_Bias_first_partial
 -- name    : DiffNeighbors.Bias.first_partial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:41:20.736464+00:00
 -- url     : https://prove2.me/theorems/4002ea80-6e61-4afc-83c9-e2b1e5584893

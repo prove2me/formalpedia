@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContextFooling_FoolingEq_cost_efficient_qualities
 -- name    : ContextFooling.FoolingEq.cost_efficient_qualities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:48:40.716576+00:00
 -- url     : https://prove2.me/theorems/0973a76e-9c84-4c11-b841-365b42bbbd18

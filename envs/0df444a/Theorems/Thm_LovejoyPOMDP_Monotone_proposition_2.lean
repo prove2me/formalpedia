@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovejoyPOMDP_Monotone_proposition_2
 -- name    : LovejoyPOMDP.Monotone.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:57:08.525978+00:00
 -- url     : https://prove2.me/theorems/34547eb4-8104-4029-9b82-9158aa54587a

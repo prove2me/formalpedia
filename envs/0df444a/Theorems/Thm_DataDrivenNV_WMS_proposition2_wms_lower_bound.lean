@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenNV_WMS_proposition2_wms_lower_bound
 -- name    : DataDrivenNV.WMS.proposition2_wms_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:36:27.386713+00:00
 -- url     : https://prove2.me/theorems/0f16aa5d-9f82-4751-b838-0e88b8527b25

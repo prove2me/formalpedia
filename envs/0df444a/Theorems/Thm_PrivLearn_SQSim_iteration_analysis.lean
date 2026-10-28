@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_SQSim_iteration_analysis
 -- name    : PrivLearn.SQSim.iteration_analysis
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:47:16.795392+00:00
 -- url     : https://prove2.me/theorems/e9a1338d-6f2b-407e-8846-f7aeeb0410ca

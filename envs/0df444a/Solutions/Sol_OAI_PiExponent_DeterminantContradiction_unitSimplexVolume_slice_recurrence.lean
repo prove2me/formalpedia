@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.unitSimplexVolume_slice_recurrence
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-23T15:03:46.542957+00:00
 -- url     : https://prove2.me/submissions/1a1b8bf7-f266-469b-8582-6d3a0992169c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Real.Basic
 import Mathlib.Data.Nat.Factorial.Basic

@@ -13,7 +13,7 @@
 --
 --   Thus $\pi$ is expected-budget optimal. This states the certificate underlying Lemma 5 directly: no separate hypothesis that $\lambda$ minimizes the dual is needed for this implication.
 -- source:
---   Private proof development against the author-revised manuscript reviewed on 23 October 2026; same statement as mission milestone PandoraBO.tight_lagrangian_certificate. Paper: Xie et al., Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index, Appendix B.5, Lagrangian budget-optimality argument. The mission remains unpublished. Mission source version: the author-revised manuscript reviewed on 23 October 2026, intended for arXiv v4; public posting is pending. References to arXiv v3 identify the earlier published version.
+--   Qian Xie, Raul Astudillo, Peter I. Frazier, Ziv Scully, and Alexander Terenin. [Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index](https://arxiv.org/abs/2406.20062). NeurIPS 2024. Appendix B.5: the Lagrangian budget-optimality argument with exact expected expenditure. This milestone isolates a proof step.
 
 import Definitions.Def_PandoraBO_Model
 

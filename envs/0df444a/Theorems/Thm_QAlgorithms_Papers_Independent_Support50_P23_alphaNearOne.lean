@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P23_alphaNearOne
 -- name    : QAlgorithms.Papers.Independent.Support50.P23.alphaNearOne
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:01:23.596526+00:00
 -- url     : https://prove2.me/theorems/5a8f5d3b-dfc9-4387-9ccc-1769d8fb2b23

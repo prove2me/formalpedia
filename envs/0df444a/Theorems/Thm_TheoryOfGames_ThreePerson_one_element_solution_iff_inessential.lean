@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_one_element_solution_iff_inessential
 -- name    : TheoryOfGames.ThreePerson.one_element_solution_iff_inessential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:24:45.795718+00:00
 -- url     : https://prove2.me/theorems/f091d99d-ec84-41a1-bccb-3d4edf6e6585

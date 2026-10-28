@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_subsetSum_common_hole
 -- name    : Erdos624.subsetSum_common_hole
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:40:59.153103+00:00
 -- url     : https://prove2.me/theorems/b278ca4e-bb2c-4b6a-a39c-78231c73bc8a
 -- title:

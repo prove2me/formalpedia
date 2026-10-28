@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P20_dephasingBinaryEnsemble
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P20.dephasingBinaryEnsemble
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:24:13.570584+00:00
 -- url     : https://prove2.me/theorems/537d70a9-6d30-44ee-97af-d35156c5e5a8

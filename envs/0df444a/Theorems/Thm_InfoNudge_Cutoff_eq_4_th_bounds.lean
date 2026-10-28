@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoNudge_Cutoff_eq_4_th_bounds
 -- name    : InfoNudge.Cutoff.eq_4_th_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:42.208199+00:00
 -- url     : https://prove2.me/theorems/a59f3c40-4d1c-4d94-898c-796fffb6b193

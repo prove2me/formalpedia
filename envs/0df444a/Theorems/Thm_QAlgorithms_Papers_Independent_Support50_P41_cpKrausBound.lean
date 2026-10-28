@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_cpKrausBound
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.cpKrausBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:34:18.214529+00:00
 -- url     : https://prove2.me/theorems/e765e97e-f809-4670-8729-70637ea4c7d7

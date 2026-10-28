@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToricFoliations_tail_coefficients_eq_one
 -- name    : ToricFoliations.tail_coefficients_eq_one
--- status  : Open
+-- status  : Disproved
 -- author  : @hiraeth
 -- created : 2026-10-07T12:32:13.779844+00:00
 -- url     : https://prove2.me/theorems/ae656d1a-7e34-4f2d-ac17-dabb321f7823

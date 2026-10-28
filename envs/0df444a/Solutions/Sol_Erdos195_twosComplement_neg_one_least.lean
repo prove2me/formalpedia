@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.twosComplement_neg_one_least
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:16.549854+00:00
 -- url     : https://prove2.me/submissions/8134ffee-79d7-47d1-9e63-734b4b00deea
 

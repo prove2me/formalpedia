@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_AlmostSure_splitting_3_10
 -- name    : ChanceStateCtrl.AlmostSure.splitting_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:00.863637+00:00
 -- url     : https://prove2.me/theorems/e8d43c4f-5d2b-4b2b-beee-4875c01fd2d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingularCardinals_pow_cof_eq_two_pow_of_singular_strongLimit
 -- name    : SingularCardinals.pow_cof_eq_two_pow_of_singular_strongLimit
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T14:48:36.648882+00:00
 -- url     : https://prove2.me/theorems/614f009d-9445-4ceb-84e0-847a9b3839c6

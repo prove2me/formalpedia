@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoCredit_Baseline_alpha_plus_gt_one
 -- name    : EndoCredit.Baseline.alpha_plus_gt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:58.312997+00:00
 -- url     : https://prove2.me/theorems/1e0952ed-bfb7-4f6c-ada4-6ac2d9d6ede3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_ComonoConv_tail_parameter_upward_closed
 -- name    : TailRiskSharing.ComonoConv.tail_parameter_upward_closed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:09:53.410129+00:00
 -- url     : https://prove2.me/theorems/f2db246a-66ca-478d-addf-c34ade198b84

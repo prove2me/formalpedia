@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_polyhedral_description
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.polyhedral_description
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:57:38.555854+00:00
 -- url     : https://prove2.me/theorems/242eb1bc-7a52-4e94-a234-628ee7373083

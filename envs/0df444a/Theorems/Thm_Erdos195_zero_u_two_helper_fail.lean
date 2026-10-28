@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_zero_u_two_helper_fail
 -- name    : Erdos195.zero_u_two_helper_fail
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:52:02.365385+00:00
 -- url     : https://prove2.me/theorems/9b6d2b9d-67ba-4e49-8f16-0bf9d7d6f19f
 -- title:

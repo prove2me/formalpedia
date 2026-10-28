@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_localization
 -- name    : Erdos195.localization
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T14:39:32.6956+00:00
 -- url     : https://prove2.me/theorems/adf85ebf-e2d6-4d53-a094-cf18efac2cdb
 -- title:

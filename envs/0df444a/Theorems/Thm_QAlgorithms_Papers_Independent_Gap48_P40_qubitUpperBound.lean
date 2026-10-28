@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_qubitUpperBound
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.qubitUpperBound
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-22T05:28:53.208909+00:00
 -- url     : https://prove2.me/theorems/0a6cd6c8-4456-4fb1-90a3-64247cdbf093

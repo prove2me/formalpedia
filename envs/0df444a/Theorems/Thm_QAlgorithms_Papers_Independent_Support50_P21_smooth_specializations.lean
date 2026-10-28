@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_smooth_specializations
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.smooth_specializations
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:52:47.430718+00:00
 -- url     : https://prove2.me/theorems/7f6acc2f-f915-4d3e-ad3b-2a9a89760272

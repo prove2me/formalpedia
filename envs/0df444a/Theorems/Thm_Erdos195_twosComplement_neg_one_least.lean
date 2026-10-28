@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_twosComplement_neg_one_least
 -- name    : Erdos195.twosComplement_neg_one_least
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:51:55.783987+00:00
 -- url     : https://prove2.me/theorems/13cc1a58-0a3f-43ab-b6fb-25a8922f3a5f
 -- title:

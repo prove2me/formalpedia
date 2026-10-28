@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Grids.commute_shift_iff_circulant
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T15:57:28.534967+00:00
 -- url     : https://prove2.me/submissions/dffb69b6-a791-40d5-88a3-cb3278164f39
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperMatchDelay_Batching_observation_3
 -- name    : HyperMatchDelay.Batching.observation_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:22:00.27256+00:00
 -- url     : https://prove2.me/theorems/bb6af53a-f3dd-44cb-a3f7-f0556e6980ea

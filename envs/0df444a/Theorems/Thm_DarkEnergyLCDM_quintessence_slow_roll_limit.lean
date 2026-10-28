@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_quintessence_slow_roll_limit
 -- name    : DarkEnergyLCDM.quintessence_slow_roll_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:08:47.670534+00:00
 -- url     : https://prove2.me/theorems/cfacc7f6-472e-475b-adf8-e69f6b45150a

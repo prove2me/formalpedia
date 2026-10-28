@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomQM_MomentumMap_mu_equivariant
 -- name    : GeomQM.MomentumMap.mu_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:34.165025+00:00
 -- url     : https://prove2.me/theorems/220ba797-c563-46fa-a23f-45ff74ee644c

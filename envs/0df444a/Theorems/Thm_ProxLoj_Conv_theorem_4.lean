@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxLoj_Conv_theorem_4
 -- name    : ProxLoj.Conv.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:37:22.535806+00:00
 -- url     : https://prove2.me/theorems/a498c0f1-89cc-4368-9c41-452f8ada585e

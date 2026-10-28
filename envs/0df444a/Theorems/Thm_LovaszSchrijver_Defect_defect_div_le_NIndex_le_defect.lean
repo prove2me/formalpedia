@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_Defect_defect_div_le_NIndex_le_defect
 -- name    : LovaszSchrijver.Defect.defect_div_le_NIndex_le_defect
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:56:42.50498+00:00
 -- url     : https://prove2.me/theorems/95188301-2d15-469f-9db7-f056d28ca56a

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.SignFlip.deficiencyTrivialAt_of_intertwine_inc
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:58:05.464836+00:00
 -- url     : https://prove2.me/submissions/e4b05e74-286c-4a62-9ffd-5f2f318d772f
 

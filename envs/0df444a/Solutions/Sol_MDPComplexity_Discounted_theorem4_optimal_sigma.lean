@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.Discounted.theorem4_optimal_sigma
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:58:20.405694+00:00
 -- url     : https://prove2.me/submissions/bee178fe-6437-4cac-939e-0aee9e8b8c66
 

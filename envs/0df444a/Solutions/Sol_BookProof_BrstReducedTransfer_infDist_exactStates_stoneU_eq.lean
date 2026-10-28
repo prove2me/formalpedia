@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.BrstReducedTransfer.infDist_exactStates_stoneU_eq
 -- status  : ACCEPTED   (disprove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T04:34:16.05221+00:00
 -- url     : https://prove2.me/submissions/d27a5bfb-a3cd-485d-af9c-d54815fdcd05
 

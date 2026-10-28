@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P12_minimal_t_cardinality
 -- name    : QAlgorithms.Papers.Independent.Gap48.P12.minimal_t_cardinality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:44:34.107157+00:00
 -- url     : https://prove2.me/theorems/742d0521-a6e8-45e0-88a9-68d6fa719061

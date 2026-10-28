@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_bounded_open_level_iff
 -- name    : Erdos195.bounded_open_level_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:33:34.250987+00:00
 -- url     : https://prove2.me/theorems/97d6923f-ffa4-41b5-b5ee-5f6e7d108ca2
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_dilationPurifications
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.dilationPurifications
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:35:59.611214+00:00
 -- url     : https://prove2.me/theorems/56c5a882-81f8-4942-b511-dcaac992540c

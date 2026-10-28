@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilevelSOC_SecondOrder_remark_5_1
 -- name    : BilevelSOC.SecondOrder.remark_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:02.639426+00:00
 -- url     : https://prove2.me/theorems/5aab063b-0098-4a07-aba5-e307cf5a028c

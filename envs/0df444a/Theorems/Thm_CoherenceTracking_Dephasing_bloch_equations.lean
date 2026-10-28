@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoherenceTracking_Dephasing_bloch_equations
 -- name    : CoherenceTracking.Dephasing.bloch_equations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:27.752767+00:00
 -- url     : https://prove2.me/theorems/7f6e3fe7-a8c3-418a-b4ea-c028f975b6b2

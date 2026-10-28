@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelax_IdealPenalty_theorem_2_2_complementary_slackness
 -- name    : InfoRelax.IdealPenalty.theorem_2_2_complementary_slackness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:28.725322+00:00
 -- url     : https://prove2.me/theorems/42384d57-b439-46de-9354-81adf5f81695

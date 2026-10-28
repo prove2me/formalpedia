@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_support_implies_multiple_tangency
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.support_implies_multiple_tangency
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:38:11.553164+00:00
 -- url     : https://prove2.me/theorems/55b726cc-6106-4686-97e8-5646b5e445e0

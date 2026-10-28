@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SqrtAgreement_SRA_agree_ge_sq
 -- name    : SqrtAgreement.SRA.agree_ge_sq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:45.033224+00:00
 -- url     : https://prove2.me/theorems/b7c6c9cb-b4d9-46c4-8255-cb077448ca10

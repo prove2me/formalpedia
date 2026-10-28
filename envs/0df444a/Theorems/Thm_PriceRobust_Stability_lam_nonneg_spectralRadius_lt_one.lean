@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceRobust_Stability_lam_nonneg_spectralRadius_lt_one
 -- name    : PriceRobust.Stability.lam_nonneg_spectralRadius_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:17:11.98312+00:00
 -- url     : https://prove2.me/theorems/8ab915a9-02a5-45cd-b2a8-80af6746d3d9

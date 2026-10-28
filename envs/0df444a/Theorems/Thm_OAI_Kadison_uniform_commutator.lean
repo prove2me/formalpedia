@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Kadison_uniform_commutator
 -- name    : OAI.Kadison.uniform_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:50.477242+00:00
 -- url     : https://prove2.me/theorems/b364ae25-c675-41eb-8cc0-485af05626a8

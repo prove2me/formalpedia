@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P20_erasureScalarFormula
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P20.erasureScalarFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:28:21.050489+00:00
 -- url     : https://prove2.me/theorems/e1d33e54-5adc-45c0-9be5-6fd33b58c9e0

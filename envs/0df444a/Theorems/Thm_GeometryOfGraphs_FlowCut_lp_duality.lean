@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_FlowCut_lp_duality
 -- name    : GeometryOfGraphs.FlowCut.lp_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:58:11.22191+00:00
 -- url     : https://prove2.me/theorems/2ca7fa47-9b35-4a12-878e-fd21af1a4e7d

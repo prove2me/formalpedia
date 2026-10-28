@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_radiation_density_scaling
 -- name    : DarkEnergyLCDM.radiation_density_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:00:06.807977+00:00
 -- url     : https://prove2.me/theorems/0fff8c4f-c90b-47a7-b0b5-a878bf36f350

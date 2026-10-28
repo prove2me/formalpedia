@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManneLP_Equilibrium_table2_optimal_solution
 -- name    : ManneLP.Equilibrium.table2_optimal_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:12:57.752461+00:00
 -- url     : https://prove2.me/theorems/6539346b-90ac-42a6-8fb1-5aa8bb69dc22

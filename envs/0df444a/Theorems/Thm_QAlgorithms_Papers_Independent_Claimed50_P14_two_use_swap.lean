@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P14_two_use_swap
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P14.two_use_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T09:34:34.278258+00:00
 -- url     : https://prove2.me/theorems/4eec8172-ff6a-452e-9e40-5a3f8ae2c820

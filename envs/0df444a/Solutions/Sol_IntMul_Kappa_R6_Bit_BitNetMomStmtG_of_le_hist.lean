@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R6.Bit.BitNetMomStmtG_of_le_hist
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:31:46.358995+00:00
 -- url     : https://prove2.me/submissions/2f276c84-5149-4742-87fd-43ab140698a3
 

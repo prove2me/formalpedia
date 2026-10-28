@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliffordTApprox_Ancilla_four_square_unit_vector
 -- name    : CliffordTApprox.Ancilla.four_square_unit_vector
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:29:58.840204+00:00
 -- url     : https://prove2.me/theorems/24855e73-d095-4d29-9f1d-a84ca69fa4d6

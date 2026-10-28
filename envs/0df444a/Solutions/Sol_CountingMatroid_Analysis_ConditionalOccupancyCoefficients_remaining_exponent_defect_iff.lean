@@ -1,0 +1,310 @@
+-- Prove2me | solution 1 for CountingMatroid.Analysis.ConditionalOccupancyCoefficients.remaining_exponent_defect_iff
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-24T15:32:36.069687+00:00
+-- url     : https://prove2.me/submissions/19a278e1-c247-45c6-b7b9-3bd6d2be0ba1
+
+import Definitions.Def_CountingMatroidSupport_Computation_Charged
+import Definitions.Def_CountingMatroidSupport_Computation_Charged_Extension1
+import Definitions.Def_CountingMatroidSupport_Computation_Charged_Extension2
+import Definitions.Def_CountingMatroidSupport_Computation_Cost
+import Definitions.Def_CountingMatroidSupport_Computation_Cost_Extension1
+import Definitions.Def_CountingMatroidSupport_Computation_Dict
+import Definitions.Def_CountingMatroidSupport_Computation_Heap
+import Definitions.Def_CountingMatroidSupport_Computation_Machine
+import Definitions.Def_CountingMatroidSupport_Computation_Machine_Extension1
+import Definitions.Def_CountingMatroidSupport_Computation_Num
+import Definitions.Def_CountingMatroidSupport_Computation_Queue
+import Definitions.Def_CountingMatroidSupport_Computation_Rand
+import Definitions.Def_CountingMatroidSupport_Computation_Roster
+import Definitions.Def_CountingMatroidSupport_Computation_Slot
+import Definitions.Def_CountingMatroidSupport_Computation_Space
+import Definitions.Def_CountingMatroidSupport_Computation_Std
+import Definitions.Def_CountingMatroid_Analysis_BoundedRunPhase
+import Definitions.Def_CountingMatroid_Analysis_BoundedRunPhaseHistory
+import Definitions.Def_CountingMatroid_Analysis_ConditionalDefectCoefficients
+import Definitions.Def_CountingMatroid_Analysis_ConditionalDefectExtractionCoefficients
+import Definitions.Def_CountingMatroid_Analysis_ConditionalDefectQuadratics
+import Definitions.Def_CountingMatroid_Analysis_ConditionalSelectedStateSum
+import Definitions.Def_CountingMatroid_Analysis_CubicTensorContraction
+import Definitions.Def_CountingMatroid_Analysis_DefectPartitionQuadraticConstruction
+import Definitions.Def_CountingMatroid_Analysis_FirstPhaseFailure
+import Definitions.Def_CountingMatroid_Analysis_InitialMultipliersGood
+import Definitions.Def_CountingMatroid_Analysis_LorentzianDirectionalSignature
+import Definitions.Def_CountingMatroid_Analysis_OmittedRankWeightPolynomial
+import Definitions.Def_CountingMatroid_Analysis_OmittedSlotQuadratic
+import Definitions.Def_CountingMatroid_Analysis_OmittedTutteNormalization
+import Definitions.Def_CountingMatroid_Analysis_QuadraticNonpositiveHyperplane
+import Definitions.Def_CountingMatroid_Analysis_RankWeightQuadraticSignature
+import Definitions.Def_CountingMatroid_Analysis_RankWeightSupportExchange
+import Definitions.Def_CountingMatroid_Analysis_ScheduleConfidence
+import Definitions.Def_CountingMatroid_Analysis_SquarefreeCoordinateHessian
+import Definitions.Def_CountingMatroid_Analysis_ThreePairSignatureSchur
+import Definitions.Def_CountingMatroid_Analysis_TransversalPartition
+import Definitions.Def_CountingMatroid_Analysis_TransversalProjection
+import Definitions.Def_CountingMatroid_Interface_Pseudocode
+import Definitions.Def_CountingMatroid_Interface_Pseudocode_Extension1
+import Definitions.Def_CountingMatroid_Model_Operations
+import Definitions.Def_CountingMatroid_Model_Prelude
+import Definitions.Def_CountingMatroid_Model_Program
+import Definitions.Def_CountingMatroid_Model_Run
+import Definitions.Def_CountingMatroid_Model_Subroutines
+import Lean
+import Mathlib.Algebra.BigOperators.Group.Finset.Defs
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.PDeriv
+import Mathlib.Algebra.MvPolynomial.Rename
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.Chebyshev
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Defs
+import Mathlib.Algebra.Order.Group.Int
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.InnerProductSpace.Spectrum
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.Analysis.SpecificLimits.Basic
+import Mathlib.Combinatorics.Matroid.Rank.ENat
+import Mathlib.Combinatorics.Matroid.Sum
+import Mathlib.Data.BitVec
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finsupp.Indicator
+import Mathlib.Data.Finsupp.Multiset
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.Induction
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.Sort
+import Mathlib.Data.Multiset.Basic
+import Mathlib.Data.Multiset.Count
+import Mathlib.Data.Nat.Log
+import Mathlib.Data.Rat.Defs
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Set.Card.Arithmetic
+import Mathlib.Data.Set.Finite.List
+import Mathlib.LinearAlgebra.Matrix.BilinearForm
+import Mathlib.LinearAlgebra.QuadraticForm.Basic
+import Mathlib.LinearAlgebra.QuadraticForm.Signature
+import Mathlib.Order.Interval.Set.Basic
+import Mathlib.Probability.ProbabilityMassFunction.Constructions
+import Mathlib.RingTheory.MvPolynomial.EulerIdentity
+import Mathlib.RingTheory.MvPolynomial.Homogeneous
+import Mathlib.Tactic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.GCongr
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Ring.RingNF
+import Mathlib.Topology.Algebra.Order.Field
+import Mathlib.Topology.Instances.Rat
+import Mathlib.Topology.Instances.Real.Lemmas
+import Theorems.Thm_CountingMatroid_Analysis_ConditionalSelectedStateSum_occupancy_apply
+import Theorems.Thm_CountingMatroid_Analysis_InitialMultipliersGood_classify_defect_iff
+
+namespace CountingMatroid.Analysis.TwoLabelDerivativeNilpotence
+end CountingMatroid.Analysis.TwoLabelDerivativeNilpotence
+namespace CountingMatroid.Analysis.MixedDirectionalRankWeightSignature
+end CountingMatroid.Analysis.MixedDirectionalRankWeightSignature
+namespace CountingMatroid.Analysis.RankWeightCoordinateLorentzian
+end CountingMatroid.Analysis.RankWeightCoordinateLorentzian
+namespace CountingMatroid.Analysis.RankWeightCoordinateSignature
+end CountingMatroid.Analysis.RankWeightCoordinateSignature
+namespace CountingMatroid.Analysis.RankWeightResidualSignature
+end CountingMatroid.Analysis.RankWeightResidualSignature
+namespace CountingMatroid.Analysis.RankWeightClosurePair
+end CountingMatroid.Analysis.RankWeightClosurePair
+namespace CountingMatroid.Analysis.ClosureClassQuadraticBound
+end CountingMatroid.Analysis.ClosureClassQuadraticBound
+namespace CountingMatroid.Analysis.SquarefreeFullDerivative
+end CountingMatroid.Analysis.SquarefreeFullDerivative
+namespace CountingMatroid.Analysis.BinaryRankWeightSignature
+end CountingMatroid.Analysis.BinaryRankWeightSignature
+namespace CountingMatroid.Analysis.CubicDirectionalSignature
+end CountingMatroid.Analysis.CubicDirectionalSignature
+namespace CountingMatroid.Analysis.CubicTensorRayleighContraction
+end CountingMatroid.Analysis.CubicTensorRayleighContraction
+namespace CountingMatroid.Analysis.NonnegativeContractionLimit
+end CountingMatroid.Analysis.NonnegativeContractionLimit
+namespace CountingMatroid.Analysis.QuadraticHyperplanePointwiseLimit
+end CountingMatroid.Analysis.QuadraticHyperplanePointwiseLimit
+namespace CountingMatroid.Analysis.ConnectedRayleighHyperplane
+end CountingMatroid.Analysis.ConnectedRayleighHyperplane
+namespace CountingMatroid.Analysis.ConnectedNormalizedRayleigh
+end CountingMatroid.Analysis.ConnectedNormalizedRayleigh
+namespace CountingMatroid.Analysis.ConnectedLaplacianKernel
+end CountingMatroid.Analysis.ConnectedLaplacianKernel
+namespace CountingMatroid.Analysis.RayleighFixedKernel
+end CountingMatroid.Analysis.RayleighFixedKernel
+namespace CountingMatroid.Analysis.QuadraticSignatureHyperplane
+end CountingMatroid.Analysis.QuadraticSignatureHyperplane
+namespace CountingMatroid.Analysis.CubicExchangeCut
+end CountingMatroid.Analysis.CubicExchangeCut
+namespace CountingMatroid.Analysis.CubicThirdDerivativeSupport
+end CountingMatroid.Analysis.CubicThirdDerivativeSupport
+namespace CountingMatroid.Analysis.NonnegativeDirectionalMConvexSupport
+end CountingMatroid.Analysis.NonnegativeDirectionalMConvexSupport
+namespace CountingMatroid.Analysis.LinearSubstitutionHessian
+end CountingMatroid.Analysis.LinearSubstitutionHessian
+namespace CountingMatroid.Analysis.LinearPolynomialChainRule
+end CountingMatroid.Analysis.LinearPolynomialChainRule
+namespace CountingMatroid.Analysis.GreedyRankCorrect
+end CountingMatroid.Analysis.GreedyRankCorrect
+namespace Arlib
+end Arlib
+namespace CountingMatroid.Interface
+end CountingMatroid.Interface
+namespace CountingMatroid.Meta
+end CountingMatroid.Meta
+namespace CountingMatroid.Analysis.TransversalRankBridge
+end CountingMatroid.Analysis.TransversalRankBridge
+namespace CountingMatroid.Analysis.PairedRankValue
+end CountingMatroid.Analysis.PairedRankValue
+namespace CountingMatroid.Analysis.ConditionalOccupancyCoefficients
+end CountingMatroid.Analysis.ConditionalOccupancyCoefficients
+section
+
+set_option autoImplicit false
+
+/-! Exact selected-state sums for arbitrary assignments. Tutte normalization,
+assigned-label derivatives and pair identification yield the operational
+rank weights. The occupancy-to-classification conversion is separate. -/
+namespace CountingMatroid.Analysis.ConditionalSelectedStateSum
+
+open CountingMatroid.Model
+open CountingMatroid.Analysis.ConditionalDefectCoefficients
+open CountingMatroid.Analysis.ConditionalDefectQuadratics
+open CountingMatroid.Analysis.ConditionalDefectExtractionCoefficients
+open CountingMatroid.Analysis.RankWeightQuadraticSignature
+open CountingMatroid.Analysis.OmittedTutteNormalization
+open CountingMatroid.Analysis.DefectPartitionQuadraticExtraction
+open scoped BigOperators
+open Classical
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- INTERNAL: The derivative list records exactly the prescribed label at each assigned pair.
+TEXLINE: main.tex:354-367,403-417 -/
+theorem selected_label_mem {n : ℕ} (σ : Assignment n) (i : Fin n) (b : Bool) :
+    (i, b) ∈ (selectedLabelList σ).toFinset ↔ σ i = some b := by
+  classical
+  cases h : σ i <;> simp [selectedLabelList, assignedPairs, h]
+
+
+
+
+
+
+
+/-- INTERNAL: Ordinary-pair extraction contributes one precisely at unassigned nonretained pairs.
+TEXLINE: main.tex:354-367,403-417 -/
+theorem ordinary_exponent_apply {n : ℕ} (σ : Assignment n) (T : Finset (Fin n)) (i : Fin n) :
+    ordinaryExponent σ T i = if σ i = none ∧ i ∉ T then 1 else 0 := by
+  classical
+  simp [ordinaryExponent, ← List.sum_toFinset _ (Finset.nodup_toList _),
+    Finsupp.single_apply, assignedPairs, eq_comm]
+
+/-- INTERNAL: At respecting states the surviving exponent counts only unassigned labels.
+TEXLINE: main.tex:354-367,403-417 -/
+theorem respects_occupancy_apply {n : ℕ} (σ : Assignment n) (S : PairedSet n)
+    (hS : Respects σ S) (i : Fin n) :
+    (labelExponent (S \ (selectedLabelList σ).toFinset)).mapDomain Prod.fst i =
+      if σ i = none then
+        (if (i, false) ∈ S then 1 else 0) + (if (i, true) ∈ S then 1 else 0) else 0 := by
+  rw [occupancy_apply]
+  simp only [Finset.mem_sdiff, selected_label_mem]
+  cases hi : σ i with
+  | none => simp
+  | some b =>
+    have h := hS i b hi
+    cases b <;> simp_all
+
+end CountingMatroid.Analysis.ConditionalSelectedStateSum
+
+/-! ### Run record
+Newest first. History, not instruction — what this file claims is above.
+
+* 2026-10-09 · proved · exact normalization through assigned-label conditioning, monomial survival, operational assignment equivalence and finite paired-state coefficient sums; also proved the pair-occupancy and ordinary-exponent evaluations used by the coefficient classifier.
+-/
+
+end
+set_option autoImplicit false
+
+/-! Exact conversion of conditioned polynomial occupancy tests into the
+operational ordered-defect and transversal totals, and exclusion of cubic
+occupancy at a Boolean pair. -/
+
+namespace CountingMatroid.Analysis.ConditionalOccupancyCoefficients
+end CountingMatroid.Analysis.ConditionalOccupancyCoefficients
+open CountingMatroid CountingMatroid.Analysis CountingMatroid.Analysis.ConditionalOccupancyCoefficients
+
+open CountingMatroid.Model CountingMatroid.Program
+open CountingMatroid.Analysis.ConditionalDefectCoefficients
+open CountingMatroid.Analysis.ConditionalDefectQuadratics
+open CountingMatroid.Analysis.ConditionalDefectExtractionCoefficients
+open CountingMatroid.Analysis.ConditionalSelectedStateSum
+open CountingMatroid.Analysis.OmittedTutteNormalization
+open CountingMatroid.Analysis.TransversalPartition
+open scoped BigOperators
+
+/-- INTERNAL: At a respecting state, the exponent with one empty and one
+full unassigned pair is exactly the executable classifier's defect test.
+TEXLINE: main.tex:403-417 -/
+theorem solution {n : ℕ} (σ : Assignment n)
+    (S : PairedSet n) (hS : Respects σ S) (a : DefectIndex n)
+    (he : σ a.emptyPair = none) (hf : σ a.fullPair = none) :
+    (labelExponent (S \ (selectedLabelList σ).toFinset)).mapDomain Prod.fst =
+        Finsupp.single a.fullPair 2 + ordinaryExponent σ {a.emptyPair, a.fullPair} ↔
+      (classifyState S).val = .defect a.emptyPair a.fullPair := by
+  classical
+  rw [InitialMultipliersGood.classify_defect_iff]
+  have hpoint (i : Fin n) :
+      (labelExponent (S \ (selectedLabelList σ).toFinset)).mapDomain Prod.fst i =
+          (Finsupp.single a.fullPair 2 + ordinaryExponent σ {a.emptyPair, a.fullPair} : Fin n →₀ ℕ) i ↔
+        (((i, false) ∉ S ∧ (i, true) ∉ S) ↔ i = a.emptyPair) ∧
+        (((i, false) ∈ S ∧ (i, true) ∈ S) ↔ i = a.fullPair) := by
+    rw [respects_occupancy_apply σ S hS, Finsupp.add_apply,
+      Finsupp.single_apply, ordinary_exponent_apply]
+    by_cases hie : i = a.emptyPair
+    · subst i
+      by_cases hx : (a.emptyPair, false) ∈ S <;>
+        by_cases hy : (a.emptyPair, true) ∈ S <;>
+          simp [he, hx, hy, a.distinct, a.distinct.symm]
+    · by_cases hif : i = a.fullPair
+      · subst i
+        by_cases hx : (a.fullPair, false) ∈ S <;>
+          by_cases hy : (a.fullPair, true) ∈ S <;>
+            simp [hf, hx, hy, a.distinct, a.distinct.symm]
+      · cases hσ : σ i with
+        | none =>
+          by_cases hx : (i, false) ∈ S <;>
+            by_cases hy : (i, true) ∈ S <;>
+              simp [hσ, hx, hy, hie, hif, Ne.symm hif]
+        | some b =>
+          have hb := hS i b hσ
+          cases b <;> simp_all only [Bool.not_false, Bool.not_true]
+          all_goals simp [hσ, hb.1, hb.2, hie, hif, Ne.symm hif]
+  constructor
+  · intro hd
+    exact ⟨fun i => ((hpoint i).mp (DFunLike.congr_fun hd i)).1,
+      fun i => ((hpoint i).mp (DFunLike.congr_fun hd i)).2⟩
+  · rintro ⟨hE, hF⟩
+    ext i
+    exact (hpoint i).mpr ⟨hE i, hF i⟩

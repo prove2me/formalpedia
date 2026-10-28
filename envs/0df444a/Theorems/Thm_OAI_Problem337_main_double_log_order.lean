@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem337_main_double_log_order
 -- name    : OAI.Problem337.main_double_log_order
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:09.517599+00:00
 -- url     : https://prove2.me/theorems/034e7e57-4f39-4123-a938-b552579bba78

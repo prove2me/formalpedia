@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Tight_ec1_8_pics_event
 -- name    : GreedyRS.Tight.ec1_8_pics_event
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:36.251984+00:00
 -- url     : https://prove2.me/theorems/f9f62a63-3ffc-404b-821f-d44a40c71e68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManneLP_Equilibrium_expected_cost_eq_10
 -- name    : ManneLP.Equilibrium.expected_cost_eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:12:28.957861+00:00
 -- url     : https://prove2.me/theorems/f68b5de9-be1f-49c8-b8a7-75973499a001

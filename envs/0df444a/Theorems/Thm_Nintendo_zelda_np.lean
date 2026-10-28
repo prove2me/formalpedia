@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Nintendo_zelda_np
 -- name    : Nintendo.zelda_np
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T11:07:16.612788+00:00
 -- url     : https://prove2.me/theorems/a49df6d5-c6aa-4206-9599-34c8053ada0e

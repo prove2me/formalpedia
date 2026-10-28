@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KServer_main_theorem
 -- name    : OAI.KServer.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:49.599307+00:00
 -- url     : https://prove2.me/theorems/e938c8e5-5386-4775-921d-a9c66896bc0b

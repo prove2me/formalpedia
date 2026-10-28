@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P04_flagged_monotonicity
 -- name    : QAlgorithms.Papers.Independent.Independent1.P04.flagged_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:24:18.200039+00:00
 -- url     : https://prove2.me/theorems/7eafac54-be6f-4ec6-8d13-22c9fcc4f55e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_tightSets_unionIntersection
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.tightSets_unionIntersection
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:55:21.246533+00:00
 -- url     : https://prove2.me/theorems/0cd367ed-5d77-4765-a2a4-69ebd74def74

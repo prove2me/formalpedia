@@ -1,0 +1,72 @@
+-- Prove2me | Theorems.Thm_OAI_RVM_Admissible_time_weight_bin_near
+-- name    : OAI.RVM.Admissible.time_weight_bin_near
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-10-28T10:13:21.214414+00:00
+-- url     : https://prove2.me/theorems/2c686ecc-caff-483f-814f-f3007a2624c9
+-- title:
+--   OAI.RVM.Admissible.time_weight_bin_near: intermediate lemma from OpenAI, Global classical solutions of the three-dimensional relativistic Vlasov–Maxwell system (result family 362)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.RVM.global_classical_solution`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Global classical solutions of the three-dimensional relativistic Vlasov–Maxwell system (result family 362)*, OpenAI Math Release, September 23, 2026, result family 362, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.RVM.Admissible.time_weight_bin_near` of [lean/OAI/Analysis/VlasovMaxwell/Population/ReceiverWeights.lean](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Analysis/VlasovMaxwell/Population/ReceiverWeights.lean) at commit adc7f12, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.RVM`, with `open Set Filter Metric MeasureTheory`, `open scoped ENNReal Topology ContDiff`, `open Set Filter Metric MeasureTheory`, `open scoped ENNReal Topology ContDiff`):
+--
+--   ```lean
+--   lemma Admissible.time_weight_bin_near {d : Datum} (hd : Admissible d) (T₀ : ℝ) :
+--       ∃ C : ℝ,0≤C ∧ ∀ (s : Solution) (T : ℝ) (F : PhaseFlowOn s.E s.B T),
+--         SmoothClassicalPrefix d s T → 0≤T → T≤T₀ →
+--       ∀ (zX : Phase) (k : Fin 4→ℕ) (a b I w : ℝ),
+--         0≤a → b≤T → a≤b → 0<I → b-a≤I → 0<w →
+--         representativeTimeWeightCost s F zX w I k a b≤
+--           ENNReal.ofReal (C*(cappedRepresentative (k 3))^2*(sourceRepresentative (k 0))^3*
+--             (cappedRepresentative (k 1))^3*cappedRepresentative (k 2))
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.RVM.PhaseFlowOn`, `OAI.RVM.SmoothClassicalPrefix`, `OAI.RVM.cappedRepresentative`, `OAI.RVM.representativeTimeWeightCost` and `OAI.RVM.sourceRepresentative` (definitions bundle `OAIQ073V000` of this split); `OAI.RVM.Admissible`, `OAI.RVM.Datum`, `OAI.RVM.Phase` and `OAI.RVM.Solution` (the published bundle `Def_VlasovMaxwell`).
+--
+--   **Used by.** The proof of `OAI.RVM.Admissible.selected_time_weight_uniform` of this split imports it.
+-- source:
+--   OpenAI, Global classical solutions of the three-dimensional relativistic Vlasov–Maxwell system (result family 362), OpenAI Math Release, September 23, 2026, https://github.com/openai/math (result family 362; paper: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Analysis/VlasovMaxwell/Population/ReceiverWeights.lean (declaration OAI.RVM.Admissible.time_weight_bin_near)
+
+import Mathlib
+import Definitions.Def_VlasovMaxwell
+import Definitions.Def_OAIQ073V000
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+namespace RVM
+
+open Set Filter Metric MeasureTheory
+open scoped ENNReal Topology ContDiff
+
+open Set Filter Metric MeasureTheory
+open scoped ENNReal Topology ContDiff
+
+lemma Admissible.time_weight_bin_near {d : Datum} (hd : Admissible d) (T₀ : ℝ) :
+    ∃ C : ℝ,0≤C ∧ ∀ (s : Solution) (T : ℝ) (F : PhaseFlowOn s.E s.B T),
+      SmoothClassicalPrefix d s T → 0≤T → T≤T₀ →
+    ∀ (zX : Phase) (k : Fin 4→ℕ) (a b I w : ℝ),
+      0≤a → b≤T → a≤b → 0<I → b-a≤I → 0<w →
+      representativeTimeWeightCost s F zX w I k a b≤
+        ENNReal.ofReal (C*(cappedRepresentative (k 3))^2*(sourceRepresentative (k 0))^3*
+          (cappedRepresentative (k 1))^3*cappedRepresentative (k 2)) := by
+  sorry
+
+open Set Filter Metric MeasureTheory _root_.Classical
+open scoped ENNReal Topology ContDiff
+
+end RVM
+
+end
+
+end OAI
+end

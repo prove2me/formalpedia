@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuityEqWiki_optical_flow_equation
 -- name    : ContinuityEqWiki.optical_flow_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:43.006238+00:00
 -- url     : https://prove2.me/theorems/83c518be-7419-4163-9929-452ca1977efe

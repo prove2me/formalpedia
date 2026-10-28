@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EssCheck_Accuracy_welfare_formula
 -- name    : EssCheck.Accuracy.welfare_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:06.184988+00:00
 -- url     : https://prove2.me/theorems/7dea1355-e165-4161-8b55-9df077bfe798

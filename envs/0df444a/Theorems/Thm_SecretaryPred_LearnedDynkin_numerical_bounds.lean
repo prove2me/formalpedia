@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryPred_LearnedDynkin_numerical_bounds
 -- name    : SecretaryPred.LearnedDynkin.numerical_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:46.093623+00:00
 -- url     : https://prove2.me/theorems/b8464ebe-0fc1-4345-bfd1-19a5a9c246e9

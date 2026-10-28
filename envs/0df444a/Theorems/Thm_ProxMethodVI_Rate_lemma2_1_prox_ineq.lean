@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxMethodVI_Rate_lemma2_1_prox_ineq
 -- name    : ProxMethodVI.Rate.lemma2_1_prox_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:11:57.100609+00:00
 -- url     : https://prove2.me/theorems/33cf9309-0096-4b73-b119-f80e62aefc4e

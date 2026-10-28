@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.waitingDistribution
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:26:12.353905+00:00
 -- url     : https://prove2.me/submissions/0236e59e-1cba-4cd2-81d4-797d37826ed8
 

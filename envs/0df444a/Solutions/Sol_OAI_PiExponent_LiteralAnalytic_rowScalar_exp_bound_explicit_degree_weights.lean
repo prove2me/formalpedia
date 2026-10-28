@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LiteralAnalytic.rowScalar_exp_bound_explicit_degree_weights
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:26:27.910689+00:00
 -- url     : https://prove2.me/submissions/52177aaf-ac49-4ec2-928d-283bd3285b2b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Mathlib.Analysis.SpecialFunctions.Pow.Real

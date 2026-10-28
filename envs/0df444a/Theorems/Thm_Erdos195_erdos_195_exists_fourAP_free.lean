@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_erdos_195_exists_fourAP_free
 -- name    : Erdos195.erdos_195_exists_fourAP_free
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:30:42.707578+00:00
 -- url     : https://prove2.me/theorems/0dfb0e19-1b29-4696-88fc-dbfe5b6543c0
 -- title:

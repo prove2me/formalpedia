@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_rest_frame
 -- name    : EnergyMomentum.rest_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:13:31.805207+00:00
 -- url     : https://prove2.me/theorems/18365132-76d4-4f04-8e8a-e38b0cbc62bb

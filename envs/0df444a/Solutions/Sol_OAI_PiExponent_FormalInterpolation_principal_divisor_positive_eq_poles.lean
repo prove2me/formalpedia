@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.principal_divisor_positive_eq_poles
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:20:03.733766+00:00
 -- url     : https://prove2.me/submissions/d2a6dd7a-9c07-4960-9b84-dc07f4bc9d96
 

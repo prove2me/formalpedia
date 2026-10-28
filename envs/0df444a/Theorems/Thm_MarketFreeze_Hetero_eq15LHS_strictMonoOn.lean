@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketFreeze_Hetero_eq15LHS_strictMonoOn
 -- name    : MarketFreeze.Hetero.eq15LHS_strictMonoOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:48.863786+00:00
 -- url     : https://prove2.me/theorems/6339e1e0-8e73-42c7-950d-1b466228bdd0

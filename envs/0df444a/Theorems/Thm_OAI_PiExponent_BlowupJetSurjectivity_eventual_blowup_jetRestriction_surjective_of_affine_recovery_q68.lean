@@ -1,0 +1,69 @@
+-- Prove2me | Theorems.Thm_OAI_PiExponent_BlowupJetSurjectivity_eventual_blowup_jetRestriction_surjective_of_affine_recovery_q68
+-- name    : OAI.PiExponent.BlowupJetSurjectivity.eventual_blowup_jetRestriction_surjective_of_affine_recovery_q68
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-10-28T08:57:12.781224+00:00
+-- url     : https://prove2.me/theorems/251ff3e2-46e0-4dc3-907a-a40c8ab240ab
+-- title:
+--   OAI.PiExponent.BlowupJetSurjectivity.eventual_blowup_jetRestriction_surjective_of_affine_recovery_q68: intermediate lemma from OpenAI, The irrationality exponent of pi is 2 (result family 017)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.PiExponent.main`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *The irrationality exponent of pi is 2 (result family 017)*, OpenAI Math Release, September 24, 2026, result family 17, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.PiExponent.BlowupJetSurjectivity.eventual_blowup_jetRestriction_surjective_of_affine_recovery` of [lean/OAI/NumberTheory/PiExponent/Ampleness/BlowupJetReesReduction.lean](https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/lean/OAI/NumberTheory/PiExponent/Ampleness/BlowupJetReesReduction.lean) at commit 1581d4c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.PiExponent.BlowupJetSurjectivity`, with `open AlgebraicGeometry CategoryTheory CategoryTheory.Limits TopologicalSpace`, `open PiExponentSeshadri.Geometry`, `open PiExponent.GeometrySupport`):
+--
+--   ```lean
+--   theorem eventual_blowup_jetRestriction_surjective_of_affine_recovery_q68
+--       (p : X ⟶ Spec (CommRingCat.of R)) [IsProper p] [IsLocallyNoetherian X]
+--       (I : X.IdealSheafData) (A : LineBundle X)
+--       (hample : LineBundle.IsAmple _ (blowupBundle I A))
+--       (hrecover : ∀ U : X.affineOpens, ∃ N, ∀ n, N ≤ n → Function.Bijective
+--         ((ExceptionalRecoveryMap.ordinaryMap (PiExponentSeshadri.BlowupGluing.projection I)
+--           I (PiExponentSeshadri.BlowupGluing.exceptionalLineBundle I)
+--           (PiExponentSeshadri.BlowupGluing.exceptionalInclusion I)
+--           (PiExponentSeshadri.BlowupGluing.exceptional_presents I) n).app U.1)) :
+--       ∃ N, ∀ n, N ≤ n → Function.Surjective (jetRestriction I A n)
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.PiExponentSeshadri.Geometry.LineBundle` (definitions bundle `OAIQ068A000` of this split); `OAI.PiExponentSeshadri.IdealModule.closedModule` (definitions bundle `OAIQ068A001` of this split); `OAI.PiExponentSeshadri.Geometry.modulePow` and `OAI.PiExponentSeshadri.Geometry.moduleTwistFunctor` (definitions bundle `OAIQ068A012` of this split); `OAI.PiExponentSeshadri.Geometry.GlobalSections` (definitions bundle `OAIQ068A013` of this split); `OAI.PiExponent.BlowupJetSurjectivity.jetQuotient` (definitions bundle `OAIQ068A017` of this split); `OAI.PiExponentSeshadri.BlowupGluing.exceptionalLineBundle`, `OAI.PiExponentSeshadri.BlowupGluing.projection` and `OAI.PiExponentSeshadri.BlowupGluing.scheme` (definitions bundle `OAIQ068A020` of this split); `OAI.PiExponentSeshadri.Geometry.LineBundle.IsAmple` (definitions bundle `OAIQ068A021` of this split); `OAI.PiExponentSeshadri.BlowupGluing.exceptionalInclusion`, `OAI.PiExponentSeshadri.BlowupGluing.exceptional_presents` and `OAI.PiExponentSeshadri.BlowupGluing.projection_proper` (definitions bundle `OAIQ068A028` of this split); `OAI.PiExponent.BlowupJetSurjectivity.jetRestriction` (definitions bundle `OAIQ068A032` of this split); `OAI.PiExponent.BlowupJetSurjectivity.blowupBundle` (definitions bundle `OAIQ068A038` of this split); `OAI.PiExponent.GeometrySupport.ExceptionalRecoveryMap.ordinaryMap` (definitions bundle `OAIQ068A044` of this split).
+--
+--   **Used by.** The proof of `OAI.PiExponent.main` of this split imports it.
+-- source:
+--   OpenAI, The irrationality exponent of pi is 2 (result family 017), OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 17; paper: https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/preprints/The-irrationality-exponent-of-pi-is-2-September-24-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/lean/OAI/NumberTheory/PiExponent/Ampleness/BlowupJetReesReduction.lean (declaration OAI.PiExponent.BlowupJetSurjectivity.eventual_blowup_jetRestriction_surjective_of_affine_recovery)
+
+import Mathlib
+import Definitions.Def_OAIQ068A044
+
+section
+
+attribute [-instance] _root_.OAI.PiExponent.CurveCycle.finite_componentsThrough _root_.OAI.PiExponent.CurveFinitePushforwardCoherent.pushforward_isFinitePresentation _root_.OAI.PiExponent.ExceptionalRepresentedTypes.instAddCommGroupSections _root_.OAI.PiExponent.NegativeTwistPresentations.presentationMap_epi _root_.OAI.PiExponent.ProjectivePencil.sectionsMorphism_isFinite _root_.OAI.PiExponent.fromSpecStalk_stalkMap_isIso _root_.OAI.PiExponentJets.PolynomialLocalResidueResolution.primeResidueImage_isPrime _root_.OAI.PiExponentJets.W64.homogeneousSection_finite _root_.OAI.PiExponentSeshadri.BlowupGluing.totalChart_isOpenImmersion _root_.OAI.PiExponentSeshadri.Geometry.LineBundle.quasicoherent _root_.OAI.PiExponentSeshadri.IdealModule.restrictedToClosed_isIso _root_.OAI.PiExponentSeshadri.LaurentLattices.instIsPrincipalIdealRingLaurentPolynomial_solutions _root_.OAI.PiExponentSeshadri.LaurentLattices.laurent_finiteType _root_.OAI.PiExponentSiegel.W17.ConeLocalLength.laurent_flat _root_.OAI.PiExponentSiegel.W17.ConeLocalLength.laurent_polynomial_tower _root_.OAI.PiExponentSiegel.W58.cotangentQuotientScalarTower
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace PiExponent.BlowupJetSurjectivity
+noncomputable section
+open AlgebraicGeometry CategoryTheory CategoryTheory.Limits TopologicalSpace
+open PiExponentSeshadri.Geometry
+open PiExponent.GeometrySupport
+variable {X : Scheme.{0}} {R : Type} [CommRing R] [IsNoetherianRing R]
+
+theorem eventual_blowup_jetRestriction_surjective_of_affine_recovery_q68
+    (p : X ⟶ Spec (CommRingCat.of R)) [IsProper p] [IsLocallyNoetherian X]
+    (I : X.IdealSheafData) (A : LineBundle X)
+    (hample : LineBundle.IsAmple _ (blowupBundle I A))
+    (hrecover : ∀ U : X.affineOpens, ∃ N, ∀ n, N ≤ n → Function.Bijective
+      ((ExceptionalRecoveryMap.ordinaryMap (PiExponentSeshadri.BlowupGluing.projection I)
+        I (PiExponentSeshadri.BlowupGluing.exceptionalLineBundle I)
+        (PiExponentSeshadri.BlowupGluing.exceptionalInclusion I)
+        (PiExponentSeshadri.BlowupGluing.exceptional_presents I) n).app U.1)) :
+    ∃ N, ∀ n, N ≤ n → Function.Surjective (jetRestriction I A n) := by
+  sorry
+
+end
+end PiExponent.BlowupJetSurjectivity
+
+end OAI
+end

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QMCProduct.HalfApprox.gram_psd
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:56:47.139853+00:00
 -- url     : https://prove2.me/submissions/77788bb7-3847-48e0-ab84-d7ac07e512fd
 

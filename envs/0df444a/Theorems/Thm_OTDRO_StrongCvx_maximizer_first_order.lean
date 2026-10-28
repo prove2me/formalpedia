@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_StrongCvx_maximizer_first_order
 -- name    : OTDRO.StrongCvx.maximizer_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:08:21.264074+00:00
 -- url     : https://prove2.me/theorems/35b5a59a-458e-4926-831e-8b7925e16ff2

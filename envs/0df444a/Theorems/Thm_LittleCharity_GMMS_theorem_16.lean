@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LittleCharity_GMMS_theorem_16
 -- name    : LittleCharity.GMMS.theorem_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:18:25.547982+00:00
 -- url     : https://prove2.me/theorems/a454de5d-7ad4-48b1-ae00-7e57e0c64d83

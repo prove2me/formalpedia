@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RatingsAdvert_AdInterval_inferred_quality
 -- name    : RatingsAdvert.AdInterval.inferred_quality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T20:38:55.319817+00:00
 -- url     : https://prove2.me/theorems/c19824a7-be50-403d-947d-f705e4a6b868

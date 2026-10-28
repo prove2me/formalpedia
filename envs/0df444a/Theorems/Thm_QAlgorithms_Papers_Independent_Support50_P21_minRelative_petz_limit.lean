@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_minRelative_petz_limit
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.minRelative_petz_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:40:38.301688+00:00
 -- url     : https://prove2.me/theorems/cdd6556b-6eb6-4a76-93bb-1c5b4e34bd88

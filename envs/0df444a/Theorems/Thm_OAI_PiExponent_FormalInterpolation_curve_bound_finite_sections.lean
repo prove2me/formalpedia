@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_curve_bound_finite_sections
 -- name    : OAI.PiExponent.FormalInterpolation.curve_bound_finite_sections
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-23T19:26:23.191318+00:00
 -- url     : https://prove2.me/theorems/a597fb9c-3d4c-429a-a012-3a90dc8e232f

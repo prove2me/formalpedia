@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_cohen_consistency_not_CH
 -- name    : ContinuumHypothesis.cohen_consistency_not_CH
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:28:14.816988+00:00
 -- url     : https://prove2.me/theorems/a8800158-5c64-4597-9890-33b4113f7bf3

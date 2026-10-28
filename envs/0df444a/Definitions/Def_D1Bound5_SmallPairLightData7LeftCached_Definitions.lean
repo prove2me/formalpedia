@@ -1,0 +1,46 @@
+-- Prove2me | Definitions.Def_D1Bound5_SmallPairLightData7LeftCached_Definitions
+-- name    : D1Bound5_SmallPairLightData7LeftCached_Definitions
+-- status  : Definition
+-- author  : @tp
+-- created : 2026-10-24T02:29:26.443411+00:00
+-- url     : https://prove2.me/theorems/036ad220-e338-4e0f-ab07-b82d14b9f9c1
+-- title:
+--   Small Pair Light Data7Left Cached
+-- statement:
+--   Cached exact coordinate data used by the selected-floor tests on the finite small-pair vertex lists. The named objects in this bundle include `PairLightPrepared7.leftCached`.
+-- source:
+--   D1Bound5/SmallPairLightData7LeftCached.lean, lines 8-441, SHA-256 1e7dad5fe4ece8306d275bd65e86742048e1b79138665c484b1a303b88515d8f. Project: https://github.com/tomislav-math/d1-bound5-lean
+
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_4fa573913c281517a3b3
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_83eca5cd042a31d8a42b
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_1afeb71bd239da5f30e3
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_c30522d194484e346304
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_6bad1b646a635707c474
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_9ed566a90d959f7a5504
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_919a0263080da45b7e1a
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_5727cf085ca030be75fa
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_9f2e99b0fecbfe666465
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_dfe6c3a21350af08c293
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_a52302d09e21965655a0
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_d9e6fe2db6ca61d8bc84
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_738c94811fe527841b03
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_1b65e430ac387b21201e
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_1c6f20c0332cdd7596c7
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_7e7fe23976d20cebeb85
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_da73df4bd76d8d71ab0c
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_5e5e203adec5d86f31c9
+import Init
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+
+section
+namespace D1Bound5.PairLightPrepared7
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+set_option compiler.extract_closed false
+
+def leftCached : List PairLightCachedVertex := (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_4fa573913c281517a3b3 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_83eca5cd042a31d8a42b (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_1afeb71bd239da5f30e3 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_c30522d194484e346304 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_6bad1b646a635707c474 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_9ed566a90d959f7a5504 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_919a0263080da45b7e1a (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_5727cf085ca030be75fa (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_9f2e99b0fecbfe666465 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_dfe6c3a21350af08c293 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_a52302d09e21965655a0 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_d9e6fe2db6ca61d8bc84 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_738c94811fe527841b03 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_1b65e430ac387b21201e (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_1c6f20c0332cdd7596c7 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_7e7fe23976d20cebeb85 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_da73df4bd76d8d71ab0c _root_.D1Bound5.Prove2MeTransfer.cachedSlice_5e5e203adec5d86f31c9)))))))))))))))))
+
+end D1Bound5.PairLightPrepared7
+end
+
+

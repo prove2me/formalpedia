@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_QuantitativeVanDerWaerden_uniform_lower_bound
 -- name    : OAI.QuantitativeVanDerWaerden.uniform_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:13.230004+00:00
 -- url     : https://prove2.me/theorems/7e1d1090-0779-41fb-a276-ae1a532b25e3

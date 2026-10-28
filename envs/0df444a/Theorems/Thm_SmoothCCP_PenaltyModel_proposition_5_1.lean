@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothCCP_PenaltyModel_proposition_5_1
 -- name    : SmoothCCP.PenaltyModel.proposition_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:37.987414+00:00
 -- url     : https://prove2.me/theorems/c1d80bcd-654e-4bdc-8582-faf0ee86bbde

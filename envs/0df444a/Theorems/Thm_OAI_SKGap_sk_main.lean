@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SKGap_sk_main
 -- name    : OAI.SKGap.sk_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:17.891098+00:00
 -- url     : https://prove2.me/theorems/77860317-6d08-4086-ab10-d1afa668ee98

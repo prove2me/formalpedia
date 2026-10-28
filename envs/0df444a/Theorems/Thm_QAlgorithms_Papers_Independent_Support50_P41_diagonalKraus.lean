@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_diagonalKraus
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.diagonalKraus
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:23:30.595597+00:00
 -- url     : https://prove2.me/theorems/cc45d724-3c7c-4e76-9795-5bf96b961c40

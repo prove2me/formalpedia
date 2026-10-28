@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongWeakEq_Discrete_display_5_4
 -- name    : StrongWeakEq.Discrete.display_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:38:37.034626+00:00
 -- url     : https://prove2.me/theorems/1d043a98-452a-454e-9d8d-bf7e6055ffeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_projective_coarse_graining_advantage
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.projective_coarse_graining_advantage
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:05:32.526989+00:00
 -- url     : https://prove2.me/theorems/6f1727b1-dfa6-4276-9984-e5c9a142dfdd

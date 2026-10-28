@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.ImportanceSampling.infinite_variance_example
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:43:06.362229+00:00
 -- url     : https://prove2.me/submissions/fc8be914-eb8f-4acd-abc4-a0e3f9889a0e
 

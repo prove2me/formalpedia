@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TuringRigidity_ManuscriptMain_rigidity
 -- name    : OAI.TuringRigidity.ManuscriptMain.rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:35.500252+00:00
 -- url     : https://prove2.me/theorems/c0cc2bbb-b89f-4aa1-9600-c366fdd7a5f3

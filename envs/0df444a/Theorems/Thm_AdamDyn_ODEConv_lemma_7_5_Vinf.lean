@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdamDyn_ODEConv_lemma_7_5_Vinf
 -- name    : AdamDyn.ODEConv.lemma_7_5_Vinf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:11:45.307705+00:00
 -- url     : https://prove2.me/theorems/6982c0a3-1b95-49ae-99f7-64d82914e257

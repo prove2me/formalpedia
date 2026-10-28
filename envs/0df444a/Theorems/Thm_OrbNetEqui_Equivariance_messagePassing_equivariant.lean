@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrbNetEqui_Equivariance_messagePassing_equivariant
 -- name    : OrbNetEqui.Equivariance.messagePassing_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:38:49.920862+00:00
 -- url     : https://prove2.me/theorems/5c0d033e-210a-4d68-8e79-5de856d4dd1e

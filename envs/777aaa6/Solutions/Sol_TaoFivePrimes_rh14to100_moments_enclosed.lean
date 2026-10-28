@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TaoFivePrimes.rh14to100_moments_enclosed
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:58:16.195069+00:00
 -- url     : https://prove2.me/submissions/8d8bbd7e-bd0b-495f-8d39-15def452be7d
 

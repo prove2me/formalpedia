@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_one_even_bridge_H1
 -- name    : Erdos195.one_even_bridge_H1
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T17:55:35.875849+00:00
 -- url     : https://prove2.me/theorems/660df82d-d6b6-4479-b78c-58cc8f65aabe
 -- title:

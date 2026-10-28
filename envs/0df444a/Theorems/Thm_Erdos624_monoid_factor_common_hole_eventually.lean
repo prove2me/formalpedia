@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_monoid_factor_common_hole_eventually
 -- name    : Erdos624.monoid_factor_common_hole_eventually
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:39.337489+00:00
 -- url     : https://prove2.me/theorems/4d586b30-4003-4670-b2ec-51e1ac274593
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_six_entry_family
 -- name    : Erdos195.six_entry_family
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T15:32:37.918149+00:00
 -- url     : https://prove2.me/theorems/946e96a6-5a74-4147-a4d6-b35ca118be91
 -- title:

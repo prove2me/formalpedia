@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_necessity
 -- name    : ScheduledQueue.Stability.necessity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:16.73489+00:00
 -- url     : https://prove2.me/theorems/3814882c-3ea0-438c-bd1f-6a8295922bb2

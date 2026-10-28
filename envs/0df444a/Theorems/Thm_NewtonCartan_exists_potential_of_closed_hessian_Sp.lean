@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_exists_potential_of_closed_hessian_Sp
 -- name    : NewtonCartan.exists_potential_of_closed_hessian_Sp
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:52:05.243016+00:00
 -- url     : https://prove2.me/theorems/0ed8c69f-7848-478b-b3fc-ba6785dfd0cb
 -- title:

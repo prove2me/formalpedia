@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_kmt_strong_approximation
 -- name    : EthierKurtz.kmt_strong_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T06:00:31.160652+00:00
 -- url     : https://prove2.me/theorems/0f9eda2d-0bf5-4e41-aac0-891ba2f48a17

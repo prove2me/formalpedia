@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Grids.shift_eigenvalues_distinct
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:49:24.288257+00:00
 -- url     : https://prove2.me/submissions/ee094488-1b2a-468f-b0c7-80c9504c1f39
 

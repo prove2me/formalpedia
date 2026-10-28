@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HogFarm_SalesAlloc_proposition_1
 -- name    : HogFarm.SalesAlloc.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:00.096609+00:00
 -- url     : https://prove2.me/theorems/34a70dd7-6fc8-4213-bf9f-ebf2afc9e37d

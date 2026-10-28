@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragLOB_Collapse_proof_thm1_separable
 -- name    : FragLOB.Collapse.proof_thm1_separable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:43.250645+00:00
 -- url     : https://prove2.me/theorems/cab8f6d4-3c54-42a0-9a75-afa843756374

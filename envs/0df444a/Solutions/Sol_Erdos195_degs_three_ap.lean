@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.degs_three_ap
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:22:21.503477+00:00
 -- url     : https://prove2.me/submissions/e12131fd-136e-45e2-bd20-6655e11ed157
 

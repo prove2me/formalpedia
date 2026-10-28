@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CyberShare_Sharing_lemma_c1
 -- name    : CyberShare.Sharing.lemma_c1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:33.109798+00:00
 -- url     : https://prove2.me/theorems/3c2af1f5-2363-43fc-ba17-bfda25b5c818

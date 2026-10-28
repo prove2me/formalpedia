@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.asymptotic_representatives_of_eventual_weighted_surjectivity
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:04:06.230341+00:00
 -- url     : https://prove2.me/submissions/a92b752e-7649-46b5-ab7d-5dec67da1c02
 

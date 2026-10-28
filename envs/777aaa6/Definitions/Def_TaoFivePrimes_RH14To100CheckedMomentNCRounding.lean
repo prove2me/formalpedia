@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100CheckedMomentNCRounding
 -- name    : TaoFivePrimes_RH14To100CheckedMomentNCRounding
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:51:02.177689+00:00
 -- url     : https://prove2.me/theorems/4eded1d6-7317-4896-ab9b-635be97c83b5
 -- title:

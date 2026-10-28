@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSVTPhaseEst_BitSearch_eq_B15_B16_B21
 -- name    : QSVTPhaseEst.BitSearch.eq_B15_B16_B21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:00:38.343245+00:00
 -- url     : https://prove2.me/theorems/1cff4f45-15de-4f1a-a665-b35659ddb414

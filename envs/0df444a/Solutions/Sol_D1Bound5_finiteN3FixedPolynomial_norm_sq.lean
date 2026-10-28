@@ -1,0 +1,115 @@
+-- Prove2me | solution 1 for D1Bound5.finiteN3FixedPolynomial_norm_sq
+-- status  : ACCEPTED   (prove)
+-- author  : @tp
+-- created : 2026-10-24T01:24:09.883805+00:00
+-- url     : https://prove2.me/submissions/5a185155-68df-4046-86de-8fae2dc3bb8b
+
+import Lean.Elab.Tactic.Omega
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.Group.Int.Units
+import Mathlib.Algebra.Polynomial.Monic
+import Mathlib.Algebra.QuadraticAlgebra.Basic
+import Mathlib.Algebra.Ring.Basic
+import Mathlib.Algebra.Ring.Equiv
+import Mathlib.Algebra.Squarefree.Basic
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Complex.Polynomial.Basic
+import Mathlib.Analysis.Normed.Ring.Basic
+import Mathlib.Data.Fin.Tuple.Sort
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Int.GCD
+import Mathlib.Data.Int.Interval
+import Mathlib.Data.Int.Sqrt
+import Mathlib.Data.List.Range
+import Mathlib.LinearAlgebra.Dimension.Free
+import Mathlib.LinearAlgebra.Matrix.Determinant.Basic
+import Mathlib.LinearAlgebra.Matrix.NonsingularInverse
+import Mathlib.NumberTheory.NumberField.InfinitePlace.TotallyRealComplex
+import Mathlib.NumberTheory.NumberField.Norm
+import Mathlib.Tactic.Convert
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.GCongr
+import Mathlib.Tactic.IntervalCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.LinearCombination
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
+import Definitions.Def_D1Bound5_Coordinates_Definitions
+import Definitions.Def_D1Bound5_FiniteHomogeneousTwo_Definitions
+import Definitions.Def_D1Bound5_FiniteN3FixedHeight_Definitions
+import Definitions.Def_D1Bound5_FiniteN3Height_Definitions
+import Definitions.Def_D1Bound5_SmallExtensionSymmetry_Definitions
+import Theorems.Thm_D1Bound5_finiteFixedHomogeneous_map
+import Theorems.Thm_D1Bound5_finiteFixedHomogeneous_neg
+import Theorems.Thm_D1Bound5_finiteFixedHomogeneous_star
+import Theorems.Thm_D1Bound5_norm_sq_full_ring_equiv
+
+section
+open scoped NumberField
+open Module
+
+namespace D1Bound5
+open QuadInt
+
+
+
+
+
+
+
+
+
+
+theorem finiteN3FixedPolynomial_map {R S : Type*} [CommRing R] [CommRing S]
+    (f : R →+* S) (x y : R) (i : Fin 3) (j : Fin 2) (ell : Fin 4) :
+    f (finiteN3FixedPolynomial x y i j ell) = finiteN3FixedPolynomial (f x) (f y) i j ell := by
+  fin_cases ell <;> simp [finiteN3FixedPolynomial,finiteFixedHomogeneous_map]
+
+theorem finiteN3FixedPolynomial_symmetry_norm {tau nu : ℤ}
+    (sgn conj : Bool) (x y : QuadInt tau nu) (i : Fin 3) (j : Fin 2) (ell : Fin 4) :
+    (finiteN3FixedPolynomial (smallExtensionSymmetry sgn conj x)
+      (smallExtensionSymmetry sgn conj y) i j ell).norm =
+      (finiteN3FixedPolynomial x y i j ell).norm := by
+  cases sgn <;> cases conj <;> fin_cases ell
+  all_goals
+    simp [smallExtensionSymmetry,finiteN3FixedPolynomial,finiteFixedHomogeneous_neg,
+      finiteFixedHomogeneous_star,QuadraticAlgebra.norm_star,QuadraticAlgebra.norm_neg]
+
+theorem _root_.solution
+    {K : Type*} [Field K] [NumberField K] [NumberField.IsTotallyComplex K]
+    (phi : K →+* ℂ) {tau nu : ℤ} (e : QuadInt tau nu ≃+* 𝓞 K)
+    (sgn conj : Bool) (x y : 𝓞 K) (i : Fin 3) (j : Fin 2) (ell : Fin 4) :
+    ‖finiteN3FixedPolynomial (phi (x : K)) (phi (y : K)) i j ell‖^2 =
+      ((finiteN3FixedPolynomial
+        (smallExtensionSymmetry sgn conj (e.symm x))
+        (smallExtensionSymmetry sgn conj (e.symm y)) i j ell).norm : ℝ) := by
+  let f : 𝓞 K →+* ℂ := phi.comp (algebraMap (𝓞 K) K)
+  have h := norm_sq_full_ring_equiv e phi
+    (finiteN3FixedPolynomial (e.symm x) (e.symm y) i j ell)
+  have he : e (finiteN3FixedPolynomial (e.symm x) (e.symm y) i j ell) =
+      finiteN3FixedPolynomial x y i j ell := by
+    have he' := finiteN3FixedPolynomial_map e.toRingHom (e.symm x) (e.symm y) i j ell
+    change e (finiteN3FixedPolynomial (e.symm x) (e.symm y) i j ell) =
+      finiteN3FixedPolynomial (e (e.symm x)) (e (e.symm y)) i j ell at he'
+    simpa only [RingEquiv.apply_symm_apply] using he'
+  have hf := finiteN3FixedPolynomial_map f x y i j ell
+  have hnorm : ‖finiteN3FixedPolynomial (f x) (f y) i j ell‖^2 =
+      ((finiteN3FixedPolynomial (e.symm x) (e.symm y) i j ell).norm : ℝ) := by
+    rw [←hf]
+    change ‖phi ((finiteN3FixedPolynomial x y i j ell : 𝓞 K) : K)‖^2 =
+      ((finiteN3FixedPolynomial (e.symm x) (e.symm y) i j ell).norm : ℝ)
+    simpa only [he] using h
+  rw [finiteN3FixedPolynomial_symmetry_norm]
+  exact hnorm
+
+
+
+
+
+end D1Bound5
+end

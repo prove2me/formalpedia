@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTSensitivity_Info_eq_68
 -- name    : OTSensitivity.Info.eq_68
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:15:03.549928+00:00
 -- url     : https://prove2.me/theorems/d31ce266-fc36-4c86-8cc3-84135a6448a1

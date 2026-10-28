@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_general_basis_purity
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.general_basis_purity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:44:44.462709+00:00
 -- url     : https://prove2.me/theorems/bce4f96e-a74b-46e9-96c9-a5590625a10f

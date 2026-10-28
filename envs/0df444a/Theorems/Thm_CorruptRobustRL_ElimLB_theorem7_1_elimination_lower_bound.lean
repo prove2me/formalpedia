@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_ElimLB_theorem7_1_elimination_lower_bound
 -- name    : CorruptRobustRL.ElimLB.theorem7_1_elimination_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:05.596869+00:00
 -- url     : https://prove2.me/theorems/2d946995-2064-447f-abd9-959e586a28bc

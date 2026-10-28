@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_typicalRestriction_fidelity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.typicalRestriction_fidelity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:15:28.78027+00:00
 -- url     : https://prove2.me/theorems/5375dd6b-bed4-4604-9c3e-8167d9e1c73e

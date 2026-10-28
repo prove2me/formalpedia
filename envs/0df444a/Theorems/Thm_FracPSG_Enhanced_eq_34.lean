@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracPSG_Enhanced_eq_34
 -- name    : FracPSG.Enhanced.eq_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:08:15.490408+00:00
 -- url     : https://prove2.me/theorems/fbd4cccb-025d-443f-8485-c77715ba6ca8

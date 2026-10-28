@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Tree_marginal_stack_size
 -- name    : MatrixAnalytic.Tree.marginal_stack_size
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:07.423957+00:00
 -- url     : https://prove2.me/theorems/ba617ab4-f2de-4d57-91c9-7487630cf876

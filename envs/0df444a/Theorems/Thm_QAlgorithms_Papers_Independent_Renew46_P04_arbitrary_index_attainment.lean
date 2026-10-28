@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_arbitrary_index_attainment
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.arbitrary_index_attainment
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:59:39.073805+00:00
 -- url     : https://prove2.me/theorems/23875c91-906e-4940-b32d-8348b0fbb0a3

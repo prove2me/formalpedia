@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_TotalMax_theorem_5_5
 -- name    : TwoAgentSched.TotalMax.theorem_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:43:32.988545+00:00
 -- url     : https://prove2.me/theorems/4a9bae8a-1dca-4639-b56b-a416c5a49e26

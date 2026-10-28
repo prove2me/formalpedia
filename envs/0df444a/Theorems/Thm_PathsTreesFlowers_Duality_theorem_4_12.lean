@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Duality_theorem_4_12
 -- name    : PathsTreesFlowers.Duality.theorem_4_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:37:06.64884+00:00
 -- url     : https://prove2.me/theorems/433ae93c-59e8-4e89-a3f6-09c766f71116

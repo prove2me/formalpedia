@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_robust_alon_count
 -- name    : Erdos624.robust_alon_count
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:39.216883+00:00
 -- url     : https://prove2.me/theorems/346ea7ac-6abe-4c75-bd22-72525acd76ca
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DatkoDelayWave_BoundaryDelay_eq16_characteristic_equation
 -- name    : DatkoDelayWave.BoundaryDelay.eq16_characteristic_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:58:48.317696+00:00
 -- url     : https://prove2.me/theorems/c620772b-2eae-434a-af53-971ea3652a2e

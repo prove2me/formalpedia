@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealTimeIter_Contract_theorem_4_1
 -- name    : RealTimeIter.Contract.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:37.595994+00:00
 -- url     : https://prove2.me/theorems/0f782377-97e0-4562-b65c-20db0b022019

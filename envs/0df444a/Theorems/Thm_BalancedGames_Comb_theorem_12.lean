@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalancedGames_Comb_theorem_12
 -- name    : BalancedGames.Comb.theorem_12
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:31.599768+00:00
 -- url     : https://prove2.me/theorems/9c0a9e2d-23ab-49ae-8e13-ea4b3d222c94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P40_shorLaflamme_relation
 -- name    : QAlgorithms.Papers.Independent.Support50.P40.shorLaflamme_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:03:13.59206+00:00
 -- url     : https://prove2.me/theorems/10748c0c-0fd3-49f1-b731-b0da5f86de3e

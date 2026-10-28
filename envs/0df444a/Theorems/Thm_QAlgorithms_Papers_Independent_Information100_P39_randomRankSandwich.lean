@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P39_randomRankSandwich
 -- name    : QAlgorithms.Papers.Independent.Information100.P39.randomRankSandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:17:03.65498+00:00
 -- url     : https://prove2.me/theorems/88a34304-cc68-4ff6-a09d-c4471ea9a19c

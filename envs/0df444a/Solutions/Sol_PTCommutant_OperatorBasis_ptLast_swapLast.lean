@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PTCommutant.OperatorBasis.ptLast_swapLast
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:03:11.013347+00:00
 -- url     : https://prove2.me/submissions/2aca4889-aaed-4b98-b3ab-dbe3a8cffc26
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecisionForest_Universal_prodWeight_eq_zero_of_not_req2
 -- name    : DecisionForest.Universal.prodWeight_eq_zero_of_not_req2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:41.747252+00:00
 -- url     : https://prove2.me/theorems/02299bde-b0ff-41e6-8c93-a6cee597332d

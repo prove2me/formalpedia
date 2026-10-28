@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteMemQL_Convergence_qStar_fixed_point
 -- name    : FiniteMemQL.Convergence.qStar_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:29:53.564811+00:00
 -- url     : https://prove2.me/theorems/45dcea83-e85c-4b53-aa94-af182164e2e6

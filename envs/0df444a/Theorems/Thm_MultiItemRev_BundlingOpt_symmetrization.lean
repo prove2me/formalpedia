@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_BundlingOpt_symmetrization
 -- name    : MultiItemRev.BundlingOpt.symmetrization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:25:54.162553+00:00
 -- url     : https://prove2.me/theorems/11a5017a-bf86-403b-86e5-e0e9dc8a44e6

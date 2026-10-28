@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_Adversarial_theorem_2
 -- name    : FirstPriceLearning.Adversarial.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:34:07.063925+00:00
 -- url     : https://prove2.me/theorems/5e2d4d2f-b7fe-4b57-aeca-a78fbbdbe3ed

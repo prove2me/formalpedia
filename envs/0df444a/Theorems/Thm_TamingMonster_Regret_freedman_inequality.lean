@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TamingMonster_Regret_freedman_inequality
 -- name    : TamingMonster.Regret.freedman_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T08:30:12.770986+00:00
 -- url     : https://prove2.me/theorems/1ffe9a6c-52be-49fd-a3da-c94e455b2d4e

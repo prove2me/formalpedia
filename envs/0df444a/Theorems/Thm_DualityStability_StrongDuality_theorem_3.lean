@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualityStability_StrongDuality_theorem_3
 -- name    : DualityStability.StrongDuality.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:43:43.095634+00:00
 -- url     : https://prove2.me/theorems/3cac9b59-c64e-4398-ae69-80db4c327ee0

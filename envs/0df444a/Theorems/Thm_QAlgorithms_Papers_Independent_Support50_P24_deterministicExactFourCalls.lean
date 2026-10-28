@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P24_deterministicExactFourCalls
 -- name    : QAlgorithms.Papers.Independent.Support50.P24.deterministicExactFourCalls
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:55:46.651004+00:00
 -- url     : https://prove2.me/theorems/0a56905a-62ac-4339-8dc3-6a4891feeb60

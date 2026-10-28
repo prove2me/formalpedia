@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailOptCaching_ETLRU_lemma_1
 -- name    : TailOptCaching.ETLRU.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:38.656325+00:00
 -- url     : https://prove2.me/theorems/af5c53a0-6c6e-4101-8166-dd83aed70809

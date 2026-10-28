@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatkhullinPolyak_Flow_exists_minimizer
 -- name    : FatkhullinPolyak.Flow.exists_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:44:43.205968+00:00
 -- url     : https://prove2.me/theorems/d1f5919f-05c0-47b1-9089-c99e3e4c04ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarrierTR_Global_lemma_2_1
 -- name    : BarrierTR.Global.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:55:30.609586+00:00
 -- url     : https://prove2.me/theorems/2c49feae-171a-41cd-8bdf-d9748b1a370d

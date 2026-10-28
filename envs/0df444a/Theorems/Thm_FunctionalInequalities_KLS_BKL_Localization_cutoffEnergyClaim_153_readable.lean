@@ -1,0 +1,43 @@
+-- Prove2me | Theorems.Thm_FunctionalInequalities_KLS_BKL_Localization_cutoffEnergyClaim_153_readable
+-- name    : FunctionalInequalities.KLS.BKL.Localization.cutoffEnergyClaim_153_readable
+-- status  : Proved
+-- author  : @Lazyfill
+-- created : 2026-10-26T13:24:45.896259+00:00
+-- url     : https://prove2.me/theorems/8321e3a6-398a-4003-8e41-2eaf4a0c8527
+-- title:
+--   Closed Cutoff Energy Claim at Constant $153$
+-- statement:
+--   The finite-horizon cutoff counterpart of BKL (95), with explicit envelope $b_m=153^{m-1}((m-1)!)^2$, holds at every order $m=d+1\ge2$. For every compactly supported isotropic log-concave prior, unit vector $u$, tolerance $\varepsilon>0$, and horizon $T\ge0$, there is $R_0$ such that for every $R\ge R_0$ and every ball-cutoff Eldan process satisfying `CutoffEnergyClaim` on a Brownian probability space,
+--
+--   $$
+--   E_m(0)+\tfrac12\mathbb E[\int_0^T\gamma_R(p_s)^2 E_{m+1}(p_s)\,ds]\le b_m+\varepsilon.
+--   $$
+--
+--   Here $E_m$ is the cumulant energy, $p_s$ the process parameter, and $\gamma_R$ the ball cutoff. The filtration is a Brownian filtration, is constant for nonpositive times, and contains every measurable null set at time zero, exactly as required by the Lean predicate. This is the cutoff route to Theorem 4.1 formalized here; it does not assert the paper's infinite-horizon uncut identity. The literal uncut identities (68)–(73) are outside the scope of this formalization. Source: [BKL arXiv:2610.05474v1](https://arxiv.org/html/2610.05474v1), Section 6, (95).
+--
+--   **Original Lean source**
+--
+--   Within namespace `FunctionalInequalities.KLS.BKL.Localization`. Shown in its original module context.
+--
+--   ```lean
+--   theorem cutoffEnergyClaim_153 : ∀ d : ℕ, 1 ≤ d → CutoffEnergyClaim 153 d :=
+--     cutoffEnergyClaim_of_letwinCompact LogConcave.Suspension.letwinCompactBound
+--   ```
+--
+--   **Module navigation**
+--
+--   Module: [`KLS/BKL/CumulantBound`](https://prove2.me/theorems/2a920c1d-59d7-44d6-9244-3f5151f5e420).
+--
+--   Definition modules: [`KLS/BKL/Localization/CutoffEnergy/Basic`](https://prove2.me/theorems/ae36e8bc-b0be-4294-a7b1-adcba1129d2b).
+--
+--   Supporting theorems: [`cumulantBoundCompact_of_cutoffEnergyClaim`](https://prove2.me/theorems/a3ff251c-553e-44e1-9529-aa9e7643ca87), [`cutoffEnergyClaim_all`](https://prove2.me/theorems/8ed09f22-1ad1-4f50-a5e4-04b6280a1b1e), [`cutoffEnergyClaim_succ`](https://prove2.me/theorems/8ae5977b-ab49-4d46-8c59-295ce589f83a), [`generator_cumulantEnergy_ge`](https://prove2.me/theorems/d995a803-9dc2-4144-b611-6d14e68dd120), [`letwinCompactBound`](https://prove2.me/theorems/2c1c66ed-c8f7-48c2-84a8-22bc394ea100).
+--
+--   Next: [`cumulantBound_153`](https://prove2.me/theorems/ea132ff5-d4da-4638-93df-e2e8e356623d).
+--
+--   [Source excerpt, lines 20–21](https://github.com/human-ai-mathematics/kls-lean/blob/408915fd28eb892a7093fa5df6f6c2699e9de144/formalization/FunctionalInequalities/KLS/BKL/CumulantBound.lean#L20-L21) · Frozen source `408915f`.
+-- source:
+--   Lean source: https://github.com/human-ai-mathematics/kls-lean/blob/408915f/formalization/FunctionalInequalities/KLS/BKL/CumulantBound.lean#L18-L21 (repository human-ai-mathematics/kls-lean, commit 408915f, module `FunctionalInequalities.KLS.BKL.CumulantBound`, declaration `FunctionalInequalities.KLS.BKL.Localization.cutoffEnergyClaim_153`; the repository is private at upload time).
+
+import Definitions.Def_KLSModular_FunctionalInequalities_KLS_BKL_CumulantBound
+
+theorem FunctionalInequalities.KLS.BKL.Localization.cutoffEnergyClaim_153_readable : ∀ d : ℕ, 1 ≤ d → CutoffEnergyClaim 153 d := by sorry

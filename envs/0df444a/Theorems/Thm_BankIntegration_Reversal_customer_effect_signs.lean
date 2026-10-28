@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BankIntegration_Reversal_customer_effect_signs
 -- name    : BankIntegration.Reversal.customer_effect_signs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:06.134998+00:00
 -- url     : https://prove2.me/theorems/970a911d-0f7f-4fb2-a2b0-f1a3fc05f0ec

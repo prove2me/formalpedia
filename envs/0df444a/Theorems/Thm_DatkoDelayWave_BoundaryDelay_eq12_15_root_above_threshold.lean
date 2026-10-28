@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DatkoDelayWave_BoundaryDelay_eq12_15_root_above_threshold
 -- name    : DatkoDelayWave.BoundaryDelay.eq12_15_root_above_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:59:36.215484+00:00
 -- url     : https://prove2.me/theorems/25d693ac-298b-43f5-8fef-c6a38f03ae63

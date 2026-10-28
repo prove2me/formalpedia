@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RudnevIncidence_PointPlane_eq_9
 -- name    : RudnevIncidence.PointPlane.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:16:54.983153+00:00
 -- url     : https://prove2.me/theorems/30715a89-ee26-4ab8-a26c-d76a21c8e4df

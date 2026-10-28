@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSS_decisionInNP_of_decisionInP
 -- name    : BSS.decisionInNP_of_decisionInP
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-14T15:08:27.048431+00:00
 -- url     : https://prove2.me/theorems/3afc9b30-652d-4d00-bb36-ab1f1970d199

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.YangMillsCertificateSeam.ym_fock_mass_gap_of_matrix_certificate
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T06:03:57.585038+00:00
 -- url     : https://prove2.me/submissions/08b0de2a-1668-4c46-87a6-9eca0741ded6
 

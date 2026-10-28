@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CatSymplectic.Hemistrict.mixed_jacobi
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T22:33:42.112002+00:00
 -- url     : https://prove2.me/submissions/75a614df-d004-41fe-b16a-40286c44134b
 

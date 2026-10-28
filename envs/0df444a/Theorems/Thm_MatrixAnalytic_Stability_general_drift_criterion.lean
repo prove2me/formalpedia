@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Stability_general_drift_criterion
 -- name    : MatrixAnalytic.Stability.general_drift_criterion
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:53.534852+00:00
 -- url     : https://prove2.me/theorems/1f0687ac-7b6d-4e31-8701-8e64f687ef27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochConvexProg_Duality_eq_4_1
 -- name    : StochConvexProg.Duality.eq_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:16:55.061439+00:00
 -- url     : https://prove2.me/theorems/1723346a-d8d3-4711-8ab2-42cfd2b42e50

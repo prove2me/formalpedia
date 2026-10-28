@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThirdLawThermo_gibbsEntropy_tendsto_zero_of_unique_groundState
 -- name    : ThirdLawThermo.gibbsEntropy_tendsto_zero_of_unique_groundState
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:26:20.188178+00:00
 -- url     : https://prove2.me/theorems/6a963324-5e0e-4d68-be2c-fc26dfbfc1dd

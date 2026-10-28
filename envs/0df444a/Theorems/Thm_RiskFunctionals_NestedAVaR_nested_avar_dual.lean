@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_NestedAVaR_nested_avar_dual
 -- name    : RiskFunctionals.NestedAVaR.nested_avar_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:09.394996+00:00
 -- url     : https://prove2.me/theorems/53934090-8630-4cb3-bf29-d396d368f7c2

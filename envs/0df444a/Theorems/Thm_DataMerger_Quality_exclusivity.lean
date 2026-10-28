@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataMerger_Quality_exclusivity
 -- name    : DataMerger.Quality.exclusivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:07.550982+00:00
 -- url     : https://prove2.me/theorems/c683657a-3c08-4339-9d82-793b8b727eea

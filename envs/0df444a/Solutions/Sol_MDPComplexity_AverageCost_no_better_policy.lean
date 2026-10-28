@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.AverageCost.no_better_policy
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:43:26.138455+00:00
 -- url     : https://prove2.me/submissions/6f80905b-1d54-4e81-a880-df43ff733168
 

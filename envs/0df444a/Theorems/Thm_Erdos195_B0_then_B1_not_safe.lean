@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_B0_then_B1_not_safe
 -- name    : Erdos195.B0_then_B1_not_safe
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T11:08:23.275687+00:00
 -- url     : https://prove2.me/theorems/e1213b0c-2329-4346-af4f-9ffb800e40d6
 -- title:

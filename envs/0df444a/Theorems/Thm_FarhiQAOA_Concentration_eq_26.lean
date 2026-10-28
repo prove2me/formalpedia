@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarhiQAOA_Concentration_eq_26
 -- name    : FarhiQAOA.Concentration.eq_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:33:12.146836+00:00
 -- url     : https://prove2.me/theorems/c5202816-035d-43e7-9473-784f4856a413

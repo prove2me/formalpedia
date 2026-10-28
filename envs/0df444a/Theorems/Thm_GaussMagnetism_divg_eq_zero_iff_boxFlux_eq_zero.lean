@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussMagnetism_divg_eq_zero_iff_boxFlux_eq_zero
 -- name    : GaussMagnetism.divg_eq_zero_iff_boxFlux_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T20:04:08.440456+00:00
 -- url     : https://prove2.me/theorems/7e6e8c54-d2b1-4921-84f7-94fff6b75b69

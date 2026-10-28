@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IntMul_Kappa_R8_Data_BitOppbankChkBitDim
 -- name    : IntMul_Kappa_R8_Data_BitOppbankChkBitDim
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:46:33.629706+00:00
 -- url     : https://prove2.me/theorems/67f879b5-74c0-43da-b108-e38bee3c44d3
 -- title:

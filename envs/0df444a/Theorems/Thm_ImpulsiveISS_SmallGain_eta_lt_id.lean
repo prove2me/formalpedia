@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulsiveISS_SmallGain_eta_lt_id
 -- name    : ImpulsiveISS.SmallGain.eta_lt_id
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:57:19.787609+00:00
 -- url     : https://prove2.me/theorems/c6e60774-5c72-44d4-a12e-ed5ed7d722e7

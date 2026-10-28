@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.actual_minor_candidate_analytic_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-23T18:32:22.978441+00:00
 -- url     : https://prove2.me/submissions/d47fd628-1383-48e4-b08c-c3baf8b2f8ff
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_TruncatedPolynomialJets
 import Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actual_minor_log_bound_by_translation_expansion

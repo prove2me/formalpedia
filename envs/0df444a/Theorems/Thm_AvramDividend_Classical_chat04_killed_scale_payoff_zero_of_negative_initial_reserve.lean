@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat04_killed_scale_payoff_zero_of_negative_initial_reserve
 -- name    : AvramDividend.Classical.chat04_killed_scale_payoff_zero_of_negative_initial_reserve
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T15:29:04.249604+00:00
 -- url     : https://prove2.me/theorems/c3f53629-7308-4599-b178-96bb8e2dd636

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixSqrt_lemma_4_3
 -- name    : PoissonDepTrials.MixSqrt.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:38:06.627736+00:00
 -- url     : https://prove2.me/theorems/7505e103-498e-4b4b-befa-f522c7f0237a

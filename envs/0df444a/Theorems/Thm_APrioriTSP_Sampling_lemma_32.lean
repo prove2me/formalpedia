@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APrioriTSP_Sampling_lemma_32
 -- name    : APrioriTSP.Sampling.lemma_32
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:38:33.151256+00:00
 -- url     : https://prove2.me/theorems/cb05a099-65ae-46ca-93d0-685ac86b64fe

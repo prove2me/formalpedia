@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineNRM_TSFixed_full_demand_period_demand_ae
 -- name    : OnlineNRM.TSFixed.full_demand_period_demand_ae
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T18:08:07.554652+00:00
 -- url     : https://prove2.me/theorems/077c65b1-8168-4479-95f9-53f12dc2ce02

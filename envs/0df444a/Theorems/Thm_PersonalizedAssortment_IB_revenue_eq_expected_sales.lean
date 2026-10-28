@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_revenue_eq_expected_sales
 -- name    : PersonalizedAssortment.IB.revenue_eq_expected_sales
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:58:08.942831+00:00
 -- url     : https://prove2.me/theorems/6c8e9a75-7de9-42f1-9493-259f64b3b7ee

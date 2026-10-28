@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AzumaWeightedSums_IteratedLog_mgf_weightedSum_le
 -- name    : AzumaWeightedSums.IteratedLog.mgf_weightedSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:30:23.466912+00:00
 -- url     : https://prove2.me/theorems/580ab33d-2602-453e-8a30-29411d1f2702

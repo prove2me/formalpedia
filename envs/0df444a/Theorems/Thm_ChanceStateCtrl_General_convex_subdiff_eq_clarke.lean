@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_General_convex_subdiff_eq_clarke
 -- name    : ChanceStateCtrl.General.convex_subdiff_eq_clarke
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:45.629154+00:00
 -- url     : https://prove2.me/theorems/9bc89d69-e250-4d86-a51a-85af7de9523b

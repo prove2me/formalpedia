@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AggNash_Existence_proposition_2_4
 -- name    : AggNash.Existence.proposition_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:37:15.324564+00:00
 -- url     : https://prove2.me/theorems/a8072208-1a03-4af6-acc2-6917fb6ed742

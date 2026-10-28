@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AugLagLLC_KKT_eq_4_10
 -- name    : AugLagLLC.KKT.eq_4_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:38:14.220703+00:00
 -- url     : https://prove2.me/theorems/67170b01-bcaf-44d1-be2b-979c7cb55127

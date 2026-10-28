@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_tvDist_le_of_norm_sub_le
 -- name    : QAlgorithms.Nannicini.tvDist_le_of_norm_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:18.772135+00:00
 -- url     : https://prove2.me/theorems/e5b22f49-db09-4465-baf9-1c3b4fe69992

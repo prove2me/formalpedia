@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsGhost_ymGhostHam_stone_flow
 -- name    : BookProof.YangMillsGhost.ymGhostHam_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-09-18T01:15:38.690985+00:00
 -- url     : https://prove2.me/theorems/d116299d-cb21-4c1a-8689-847c7120bbc9

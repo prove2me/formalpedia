@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BMV2017_witnessRot_gt_one
 -- name    : BMV2017.witnessRot_gt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-08T23:55:00.143088+00:00
 -- url     : https://prove2.me/theorems/2218825f-b8ee-4840-8c2f-c574c6ec5386

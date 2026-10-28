@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_exact_key_corner
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.exact_key_corner
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:28:53.447849+00:00
 -- url     : https://prove2.me/theorems/b81e93c4-e1aa-4a92-a21e-1bb5deb3df19

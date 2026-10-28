@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.core_compression_surplus
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:39.543117+00:00
 -- url     : https://prove2.me/submissions/2b41728d-215c-4598-9638-e074d8d48f65
 

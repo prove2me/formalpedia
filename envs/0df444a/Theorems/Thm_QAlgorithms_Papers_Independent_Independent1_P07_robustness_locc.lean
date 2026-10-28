@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_robustness_locc
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.robustness_locc
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:46:46.301376+00:00
 -- url     : https://prove2.me/theorems/c8e3243d-e9d3-41ca-8414-5174eed5fce1

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.classical_christoffel_form
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:30:25.402836+00:00
 -- url     : https://prove2.me/submissions/837601c3-3b8b-4e41-8740-3fe9bdbda857
 

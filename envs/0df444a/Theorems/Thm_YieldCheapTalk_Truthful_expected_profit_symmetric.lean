@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldCheapTalk_Truthful_expected_profit_symmetric
 -- name    : YieldCheapTalk.Truthful.expected_profit_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:30:49.487009+00:00
 -- url     : https://prove2.me/theorems/736961f4-fb49-4c9b-9c99-ba74862dacb5

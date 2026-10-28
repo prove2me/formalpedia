@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceCDLP_MNL_relaxedObjective_quasiconvexOn
 -- name    : ChoiceCDLP.MNL.relaxedObjective_quasiconvexOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T07:59:01.571714+00:00
 -- url     : https://prove2.me/theorems/17a37918-443f-484c-80f8-444fbcdd70b3

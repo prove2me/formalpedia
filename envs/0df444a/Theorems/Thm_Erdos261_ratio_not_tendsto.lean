@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_ratio_not_tendsto
 -- name    : Erdos261.ratio_not_tendsto
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:06.014245+00:00
 -- url     : https://prove2.me/theorems/76898326-031f-48d4-b0bc-e35c364dd90c
 -- title:

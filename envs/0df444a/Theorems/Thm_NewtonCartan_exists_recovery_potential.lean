@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_exists_recovery_potential
 -- name    : NewtonCartan.exists_recovery_potential
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:13:46.275805+00:00
 -- url     : https://prove2.me/theorems/3c870a5f-b3d7-43f9-a47c-f69040fd2d70
 -- title:

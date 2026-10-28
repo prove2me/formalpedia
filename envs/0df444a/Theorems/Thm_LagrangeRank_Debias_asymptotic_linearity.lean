@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LagrangeRank_Debias_asymptotic_linearity
 -- name    : LagrangeRank.Debias.asymptotic_linearity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:33.360984+00:00
 -- url     : https://prove2.me/theorems/f110b135-e79e-49f4-be96-67d527ca98fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuhaEPnI_MinOutput_g_properties
 -- name    : GuhaEPnI.MinOutput.g_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:27:16.642821+00:00
 -- url     : https://prove2.me/theorems/fbc8f5f2-ba88-44e2-8c0f-fc02467c6aba

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_finsum_max_neg_polynomialCurveOrder_eq_finrank
 -- name    : OAI.PiExponent.FormalInterpolation.finsum_max_neg_polynomialCurveOrder_eq_finrank
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:16:47.169874+00:00
 -- url     : https://prove2.me/theorems/72be7d3e-972d-44e2-89ea-dbd6f919a80d
 -- title:

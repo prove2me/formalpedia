@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_zero_one_three_nine
 -- name    : Erdos195.zero_one_three_nine
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:41:51.534095+00:00
 -- url     : https://prove2.me/theorems/bb53852e-1624-4264-addb-1e256affd3ea
 -- title:

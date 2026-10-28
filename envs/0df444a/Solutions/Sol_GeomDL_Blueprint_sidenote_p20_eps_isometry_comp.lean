@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Blueprint.sidenote_p20_eps_isometry_comp
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:47:44.891511+00:00
 -- url     : https://prove2.me/submissions/d87789e9-ce0c-4ca7-b592-7841dad6ff02
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P20_testingDivergence_positive
 -- name    : QAlgorithms.Papers.Independent.Support50.P20.testingDivergence_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:32:01.053387+00:00
 -- url     : https://prove2.me/theorems/d60371af-2a42-4da9-9ea9-f0202e0380a7

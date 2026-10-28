@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_sufficiency
 -- name    : ScheduledQueue.Stability.sufficiency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:07:59.49599+00:00
 -- url     : https://prove2.me/theorems/d3971131-b3ab-43c3-b827-c1da354a1629

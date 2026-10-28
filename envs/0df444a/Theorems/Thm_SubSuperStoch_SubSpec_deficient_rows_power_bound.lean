@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubSuperStoch_SubSpec_deficient_rows_power_bound
 -- name    : SubSuperStoch.SubSpec.deficient_rows_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:31:28.751586+00:00
 -- url     : https://prove2.me/theorems/f54963f7-dfe8-448b-aa91-0300a7f3ded4

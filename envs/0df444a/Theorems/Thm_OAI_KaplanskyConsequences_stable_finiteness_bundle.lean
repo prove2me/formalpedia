@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KaplanskyConsequences_stable_finiteness_bundle
 -- name    : OAI.KaplanskyConsequences.stable_finiteness_bundle
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:50.697811+00:00
 -- url     : https://prove2.me/theorems/2336ed98-3319-4630-80bc-cbaba1976b04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondII_sinc_bound
 -- name    : NonuniformKuramoto.CondII.sinc_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:24:36.471234+00:00
 -- url     : https://prove2.me/theorems/d70fbdd8-47bc-4205-90b1-5c7be5127327

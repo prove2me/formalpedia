@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PrefSemimetric.TopDiff.agree_single_perturbation
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:08:57.124052+00:00
 -- url     : https://prove2.me/submissions/aa6dbb80-3a6c-4677-9aa6-febf15d56504
 

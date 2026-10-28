@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeymourMFMC_Binary_minor_of_mengerian
 -- name    : SeymourMFMC.Binary.minor_of_mengerian
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T04:01:50.285928+00:00
 -- url     : https://prove2.me/theorems/9c07b7d1-4e65-4583-ba8c-76ebfde47922

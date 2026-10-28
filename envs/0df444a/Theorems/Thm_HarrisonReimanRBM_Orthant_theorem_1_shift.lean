@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisonReimanRBM_Orthant_theorem_1_shift
 -- name    : HarrisonReimanRBM.Orthant.theorem_1_shift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:22:30.370923+00:00
 -- url     : https://prove2.me/theorems/cf6b11fb-885f-448e-8421-d27431734663

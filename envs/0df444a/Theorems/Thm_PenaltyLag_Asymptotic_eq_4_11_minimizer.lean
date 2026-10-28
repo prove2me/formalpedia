@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PenaltyLag_Asymptotic_eq_4_11_minimizer
 -- name    : PenaltyLag.Asymptotic.eq_4_11_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:44:46.125858+00:00
 -- url     : https://prove2.me/theorems/c33879c9-99a6-4022-b35a-ac66d7710e70

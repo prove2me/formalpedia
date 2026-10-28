@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Stability_joint_infinitely_often
 -- name    : ScheduledQueue.Stability.joint_infinitely_often
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:11.560978+00:00
 -- url     : https://prove2.me/theorems/bd5952f6-a831-4586-a747-48a583c37b75

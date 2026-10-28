@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidProphetKW_Inter_eq_20_21
 -- name    : MatroidProphetKW.Inter.eq_20_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:26:02.720189+00:00
 -- url     : https://prove2.me/theorems/257c5a57-f180-4b44-9bb5-87b05843a912

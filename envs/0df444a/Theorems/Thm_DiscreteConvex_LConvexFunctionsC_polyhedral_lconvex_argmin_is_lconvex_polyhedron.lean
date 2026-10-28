@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsC_polyhedral_lconvex_argmin_is_lconvex_polyhedron
 -- name    : DiscreteConvex.LConvexFunctionsC.polyhedral_lconvex_argmin_is_lconvex_polyhedron
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:38:49.857352+00:00
 -- url     : https://prove2.me/theorems/30e1b262-4b94-4366-b19e-9f867a2e2951

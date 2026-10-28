@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_rho_star_properties
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.rho_star_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:05:38.069354+00:00
 -- url     : https://prove2.me/theorems/913e02a2-5716-42b3-bf45-0b0c40671e4f

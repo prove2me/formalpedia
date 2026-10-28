@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdWordsMSVV_LowerBound_theorem_9
 -- name    : AdWordsMSVV.LowerBound.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:56.585975+00:00
 -- url     : https://prove2.me/theorems/4b48fcad-0d43-44c5-8b3f-50295a79a0eb

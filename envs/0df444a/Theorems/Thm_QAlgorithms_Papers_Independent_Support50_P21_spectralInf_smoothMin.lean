@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_spectralInf_smoothMin
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.spectralInf_smoothMin
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:54:06.89399+00:00
 -- url     : https://prove2.me/theorems/6619c060-7ba3-4526-ab23-8a42ba0b3a12

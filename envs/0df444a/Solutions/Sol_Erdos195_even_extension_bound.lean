@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.even_extension_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T16:09:45.794986+00:00
 -- url     : https://prove2.me/submissions/b5c78fb5-1249-4f99-8fa9-c670321c1dfc
 

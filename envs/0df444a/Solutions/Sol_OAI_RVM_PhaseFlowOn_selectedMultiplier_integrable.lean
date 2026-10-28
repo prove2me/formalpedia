@@ -1,0 +1,3402 @@
+-- Prove2me | solution 1 for OAI.RVM.PhaseFlowOn.selectedMultiplier_integrable
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-10-28T11:58:14.99199+00:00
+-- url     : https://prove2.me/submissions/9cdb3411-7530-45ed-bbad-d0cb9ad1bc5f
+
+import Mathlib
+import Definitions.Def_VlasovMaxwell
+import Definitions.Def_OAIQ073V000
+import Theorems.Thm_OAI_RVM_PhaseFlowOn_actualLabelCutoffCost_integrable
+import Theorems.Thm_OAI_RVM_PhaseFlowOn_labelConeKernel_integrable
+
+section
+-- module Solutions.OAIQ073_VM.Compat
+namespace OAI
+
+/-! Compatibility with the newer Lean core OpenAI's code was written against: lemmas it uses by
+names this environment (Lean 4.33.1, Mathlib 0df444a) does not have yet. Each is the
+corresponding `if_pos` / `if_neg` / `dif_pos` / `dif_neg`. The `dite` forms are stated as
+`dite p a b`, not with the `if hp : p then …` notation: its eta-expanded lambdas form is a higher-order pattern
+that `rw` cannot find (DepthThree, PeriodicTiling 2026-10-25). -/
+section OAICompat434
+theorem dite_eq_left {α : Sort _} {p : Prop} {_ : Decidable p} {a : p → α} {b : ¬p → α} (h : p) :
+    dite p a b = a h := dif_pos h
+end OAICompat434
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_ConeMotion
+attribute [-instance] _root_.OAI.RVM.phaseVolume_isAddHaarMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Elementary relativistic geometry needed by the retarded-force identity. -/
+
+noncomputable section
+open MeasureTheory Set
+open scoped ContDiff
+
+namespace RVM
+
+lemma q_pos (v : Vec) : 0 < q v := by
+  exact Real.sqrt_pos.2 (by positivity)
+
+lemma q_sq (v : Vec) : q v ^ 2 = 1 + ‖v‖ ^ 2 := by
+  exact Real.sq_sqrt (by positivity)
+
+lemma norm_lt_q (v : Vec) : ‖v‖ < q v := by
+  have hp := q_pos v
+  have hs := q_sq v
+  nlinarith [sq_nonneg ‖v‖, norm_nonneg v]
+
+lemma norm_velocity_lt_one (v : Vec) : ‖velocity v‖ < 1 := by
+  rw [velocity, norm_smul, Real.norm_eq_abs, abs_of_pos (inv_pos.2 (q_pos v))]
+  rw [← div_eq_inv_mul]
+  exact (div_lt_one (q_pos v)).2 (norm_lt_q v)
+
+lemma dot_comm (a b : Vec) : dot a b = dot b a := by
+  simp only [dot, mul_comm]
+
+lemma dot_add_left (a b c : Vec) : dot (a + b) c = dot a c + dot b c := by
+  simp [dot, add_mul, Finset.sum_add_distrib]
+
+lemma dot_sub_left (a b c : Vec) : dot (a - b) c = dot a c - dot b c := by
+  simp [dot, sub_mul, Finset.sum_sub_distrib]
+
+lemma dot_smul_left (r : ℝ) (a b : Vec) : dot (r • a) b = r * dot a b := by
+  simp [dot, mul_assoc, Finset.mul_sum]
+
+lemma dot_add_right (a b c : Vec) : dot a (b + c) = dot a b + dot a c := by
+  rw [dot_comm, dot_add_left, dot_comm b a, dot_comm c a]
+
+lemma dot_sub_right (a b c : Vec) : dot a (b - c) = dot a b - dot a c := by
+  rw [dot_comm, dot_sub_left, dot_comm b a, dot_comm c a]
+
+lemma dot_smul_right (r : ℝ) (a b : Vec) : dot a (r • b) = r * dot a b := by
+  rw [dot_comm, dot_smul_left, dot_comm b a]
+
+lemma dot_le_norm (a b : Vec) : dot a b ≤ ‖a‖ * ‖b‖ := by
+  rw [dot_eq_inner]
+  exact real_inner_le_norm a b
+
+lemma cone_denom_pos (v n : Vec) (hn : ‖n‖ = 1) :
+    0 < 1 - dot n (velocity v) := by
+  have h := dot_le_norm n (velocity v)
+  rw [hn, one_mul] at h
+  linarith [norm_velocity_lt_one v]
+
+open scoped Topology
+
+end RVM
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Flow_ExtendedLorentz
+attribute [-instance] _root_.OAI.RVM.phaseVolume_isAddHaarMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Set
+open scoped ContDiff
+
+namespace RVM
+open scoped Topology
+
+lemma contDiff_q {k : ℕ∞ω} : ContDiff ℝ k q := by
+  exact ((contDiff_const : ContDiff ℝ k (fun _ : Vec => (1 : ℝ))).add
+    (contDiff_id.norm_sq ℝ)).sqrt (fun v => by positivity)
+
+lemma contDiff_velocity {k : ℕ∞ω} : ContDiff ℝ k velocity := by
+  exact (contDiff_q.inv (fun v => ne_of_gt (q_pos v))).smul contDiff_id
+
+lemma contDiff_cross {k : ℕ∞ω} : ContDiff ℝ k (fun z : Vec × Vec => cross z.1 z.2) := by
+  apply contDiff_euclidean.mpr
+  intro i
+  fin_cases i
+  · change ContDiff ℝ k (fun z : Vec × Vec => z.1 1 * z.2 2 - z.1 2 * z.2 1)
+    fun_prop
+  · change ContDiff ℝ k (fun z : Vec × Vec => z.1 2 * z.2 0 - z.1 0 * z.2 2)
+    fun_prop
+  · change ContDiff ℝ k (fun z : Vec × Vec => z.1 0 * z.2 1 - z.1 1 * z.2 0)
+    fun_prop
+
+lemma sum_basis (v : Vec) : ∑ i : Fin 3, v i • basis i = v := by
+  ext j
+  simp [basis, Pi.single_apply]
+
+lemma clm_sum_basis (L : Vec →L[ℝ] ℝ) (v : Vec) :
+    L v = ∑ i : Fin 3, v i * L (basis i) := by
+  conv_lhs => rw [← sum_basis v]
+  simp only [map_sum, map_smul, smul_eq_mul]
+
+lemma full_directional_derivative {f : Particle} {t : ℝ} {x v u K : Vec}
+    (hf : DifferentiableAt ℝ f (t,x,v)) :
+    fderiv ℝ f (t,x,v) (1,u,K) =
+      deriv (fun t' => f (t',x,v)) t +
+      (∑ i : Fin 3, u i * spatialPartial (fun y => f (t,y,v)) x i) +
+      (∑ i : Fin 3, K i * spatialPartial (fun v' => f (t,x,v')) v i) := by
+  let L := fderiv ℝ f (t,x,v)
+  have hT := hf.hasFDerivAt.comp_hasDerivAt t
+    ((hasDerivAt_id t).prodMk (hasDerivAt_const t (x,v)))
+  have hιX : HasFDerivAt (fun y : Vec => (t,y,v))
+      ((0 : Vec →L[ℝ] ℝ).prod ((ContinuousLinearMap.id ℝ Vec).prod 0)) x := by
+    exact (hasFDerivAt_const t x).prodMk
+      ((hasFDerivAt_id x).prodMk (hasFDerivAt_const v x))
+  have hιV : HasFDerivAt (fun y : Vec => (t,x,y))
+      ((0 : Vec →L[ℝ] ℝ).prod ((0 : Vec →L[ℝ] Vec).prod (ContinuousLinearMap.id ℝ Vec))) v := by
+    exact (hasFDerivAt_const t v).prodMk
+      ((hasFDerivAt_const x v).prodMk (hasFDerivAt_id v))
+  have hX := hf.hasFDerivAt.comp x hιX
+  have hV := hf.hasFDerivAt.comp v hιV
+  have ht : deriv (fun t' => f (t',x,v)) t = L (1,0,0) := by
+    convert hT.deriv using 1
+    all_goals try with_reducible_and_instances rfl
+    rfl
+  have hx : fderiv ℝ (fun y => f (t,y,v)) x u = L (0,u,0) := by
+    have h := congrArg (fun F : Vec →L[ℝ] ℝ => F u) hX.fderiv
+    convert h using 1 <;> rfl
+  have hv : fderiv ℝ (fun v' => f (t,x,v')) v K = L (0,0,K) := by
+    have h := congrArg (fun F : Vec →L[ℝ] ℝ => F K) hV.fderiv
+    convert h using 1 <;> rfl
+  change L (1,u,K) = deriv (fun t' => f (t',x,v)) t +
+    (∑ i : Fin 3, u i * fderiv ℝ (fun y => f (t,y,v)) x (basis i)) +
+    (∑ i : Fin 3, K i * fderiv ℝ (fun v' => f (t,x,v')) v (basis i))
+  rw [← clm_sum_basis, ← clm_sum_basis, ht, hx, hv]
+  rw [← map_add, ← map_add]
+  congr 1
+  ext <;> simp
+
+lemma hasDerivAt_particle_along_curve {f : Particle} {X V : ℝ → Vec}
+    {t : ℝ} {u K : Vec} (hf : DifferentiableAt ℝ f (t,X t,V t))
+    (hX : HasDerivAt X u t) (hV : HasDerivAt V K t) :
+    HasDerivAt (fun s => f (s,X s,V s))
+      (deriv (fun s => f (s,X t,V t)) t +
+      (∑ i : Fin 3, u i * spatialPartial (fun y => f (t,y,V t)) (X t) i) +
+      (∑ i : Fin 3, K i * spatialPartial (fun v' => f (t,X t,v')) (V t) i)) t := by
+  have h := hf.hasFDerivAt.comp_hasDerivAt t ((hasDerivAt_id t).prodMk (hX.prodMk hV))
+  rw [full_directional_derivative hf] at h
+  exact h
+
+end RVM
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Maxwell_ExtendedField
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Filter
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open scoped Topology ContDiff NNReal
+open Set MeasureTheory
+
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+
+namespace RVM
+section TimeFlow
+variable {E : Type*} [NormedAddCommGroup E] [NormedSpace ℝ E]
+  [FiniteDimensional ℝ E]
+
+lemma det_time_triangular (L : (ℝ × E) →ₗ[ℝ] (ℝ × E))
+    (hL : (LinearMap.fst ℝ ℝ E).comp L = LinearMap.fst ℝ ℝ E) :
+    L.det = ((LinearMap.snd ℝ ℝ E).comp (L.comp (LinearMap.inr ℝ ℝ E))).det := by
+  classical
+  let b := Module.Basis.singleton Unit ℝ
+  let c := Module.finBasis ℝ E
+  let C := (LinearMap.snd ℝ ℝ E).comp (L.comp (LinearMap.inl ℝ ℝ E))
+  let D := (LinearMap.snd ℝ ℝ E).comp (L.comp (LinearMap.inr ℝ ℝ E))
+  have hf (z : ℝ × E) : (L z).1 = z.1 := LinearMap.congr_fun hL z
+  have hm : LinearMap.toMatrix (b.prod c) (b.prod c) L =
+      Matrix.fromBlocks 1 0 (LinearMap.toMatrix b c C) (LinearMap.toMatrix c c D) := by
+    ext (i | i) (j | j)
+    · simp [LinearMap.toMatrix, b, hf]
+    · simp [LinearMap.toMatrix, b, hf]
+    · simp [LinearMap.toMatrix, C]
+    · simp [LinearMap.toMatrix, D]
+  rw [← LinearMap.det_toMatrix (b.prod c), hm, Matrix.det_fromBlocks_zero₁₂,
+    Matrix.det_one, one_mul, LinearMap.det_toMatrix]
+
+end TimeFlow
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Flow_WithinFlow
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+namespace RVM
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open scoped Topology ContDiff NNReal
+open Set MeasureTheory
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open Set MeasureTheory Metric Filter ODE
+open scoped Topology NNReal ContDiff
+
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open scoped Topology ContDiff NNReal
+open Set MeasureTheory
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open scoped Topology NNReal ContDiff
+
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open scoped Topology ContDiff NNReal
+open Set MeasureTheory
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+
+section
+variable {E : Type*} [NormedAddCommGroup E] [NormedSpace ℝ E] [FiniteDimensional ℝ E]
+
+lemma timeFlowDerivative_det (v : E) (A : E →L[ℝ] E) :
+    (timeFlowDerivative v A).det = A.det := by
+  have hh := det_time_triangular (timeFlowDerivative v A).toLinearMap (by apply LinearMap.ext; intro p; rfl)
+  have he : (LinearMap.snd ℝ ℝ E).comp ((timeFlowDerivative v A).toLinearMap.comp (LinearMap.inr ℝ ℝ E)) = A.toLinearMap := by
+    ext x
+    simp [timeFlowDerivative]
+  rwa [he] at hh
+
+lemma inverse_timeFlowDerivative {v : E} {A : E →L[ℝ] E} (hA : A.det = 1) :
+    ∃ e : (ℝ × E) ≃L[ℝ] (ℝ × E), ∃ D : E →L[ℝ] E,
+      (e : (ℝ × E) →L[ℝ] (ℝ × E)) = timeFlowDerivative v A ∧ D.det = 1 ∧
+      (ContinuousLinearMap.snd ℝ ℝ E).comp (e.symm : (ℝ × E) →L[ℝ] (ℝ × E)) =
+        (ContinuousLinearMap.toSpanSingleton ℝ (-D v)).coprod D := by
+  have hdet : (timeFlowDerivative v A).toLinearMap.det = 1 := (timeFlowDerivative_det v A).trans hA
+  have hunit : IsUnit (timeFlowDerivative v A).toLinearMap.det := hdet.symm ▸ isUnit_one
+  let e : (ℝ × E) ≃L[ℝ] (ℝ × E) := (LinearMap.equivOfIsUnitDet hunit).toContinuousLinearEquiv
+  have he : (e : (ℝ × E) →L[ℝ] (ℝ × E)) = timeFlowDerivative v A := by
+    apply ContinuousLinearMap.ext
+    intro z
+    exact LinearMap.congr_fun (LinearMap.coe_equivOfIsUnitDet hunit) z
+  have happ (z : ℝ × E) : e z = (z.1,z.1 • v+A z.2) := by
+    rw [← ContinuousLinearEquiv.coe_coe,he]
+    rfl
+  have hfst (z : ℝ × E) : (e.symm z).1 = z.1 := by
+    have hh := congrArg Prod.fst (e.apply_symm_apply z)
+    simpa only [happ] using hh
+  let D : E →L[ℝ] E := (ContinuousLinearMap.snd ℝ ℝ E).comp
+    ((e.symm : (ℝ × E) →L[ℝ] (ℝ × E)).comp (ContinuousLinearMap.inr ℝ ℝ E))
+  have hD : D.det = 1 := by
+    have hh := det_time_triangular (e.symm : (ℝ × E) →L[ℝ] (ℝ × E)).toLinearMap (by apply LinearMap.ext; intro z; exact hfst z)
+    change (e.symm : (ℝ × E) →L[ℝ] (ℝ × E)).det = D.det at hh
+    rw [ContinuousLinearEquiv.det_coe_symm,he,timeFlowDerivative_det,hA,inv_one] at hh
+    exact hh.symm
+  have hi : e.symm (1,v) = (1,0) := by
+    apply e.injective
+    simp only [e.apply_symm_apply,happ,one_smul,map_zero,add_zero]
+  refine ⟨e,D,he,hD,?_⟩
+  apply ContinuousLinearMap.ext
+  intro p
+  change (e.symm p).2 = p.1 • (-D v)+D p.2
+  have hp : p = p.1 • (1,v)+(0,p.2-p.1 • v) := by
+    ext <;> simp
+  calc
+    (e.symm p).2 = (e.symm (p.1 • (1,v)+(0,p.2-p.1 • v))).2 := congrArg (fun z => (e.symm z).2) hp
+    _ = D (p.2-p.1 • v) := by
+      rw [map_add,map_smul,hi]
+      change p.1 • (0 : E)+(e.symm (0,p.2-p.1 • v)).2 = D (p.2-p.1 • v)
+      rw [smul_zero,zero_add]
+      rfl
+    _ = p.1 • (-D v)+D p.2 := by simp only [map_sub,map_smul,smul_neg]; abel
+
+lemma hasStrictFDerivAt_inversePhase {α : E → ℝ → E} {v x : E} {A : E →L[ℝ] E} {T t : ℝ}
+    (hbij : ∀ s ∈ Ioo 0 T, Function.Bijective (α · s)) (ht : t ∈ Ioo 0 T)
+    (hA : A.det = 1)
+    (hα : HasStrictFDerivAt (fun z : ℝ × E => α z.2 z.1)
+      ((ContinuousLinearMap.toSpanSingleton ℝ v).coprod A) (t,x)) :
+    ∃ D : E →L[ℝ] E, D.det = 1 ∧
+      HasStrictFDerivAt (inversePhase α)
+        ((ContinuousLinearMap.toSpanSingleton ℝ (-D v)).coprod D) (t,α x t) := by
+  obtain ⟨e,D,he,hD,hder⟩ := inverse_timeFlowDerivative hA
+  let Φ : ℝ × E → ℝ × E := fun z => (z.1,α z.2 z.1)
+  have hΦ : HasStrictFDerivAt Φ (e : (ℝ × E) →L[ℝ] (ℝ × E)) (t,x) := by
+    rw [he]
+    exact hasStrictFDerivAt_fst.prodMk hα
+  let Z := hΦ.localInverse Φ e (t,x)
+  have hZ : HasStrictFDerivAt Z (e.symm : (ℝ × E) →L[ℝ] (ℝ × E)) (t,α x t) := hΦ.to_localInverse
+  have hEq : (fun z => (Z z).2) =ᶠ[𝓝 (t,α x t)] inversePhase α := by
+    have htime : ∀ᶠ z : ℝ × E in 𝓝 (t,α x t), z.1 ∈ Ioo 0 T :=
+      continuous_fst.continuousAt.eventually (isOpen_Ioo.mem_nhds ht)
+    filter_upwards [hΦ.eventually_right_inverse,htime] with z hz hzt
+    have hf : (Z z).1 = z.1 := by
+      have hh := congrArg Prod.fst hz
+      exact hh
+    have hy : α (Z z).2 z.1 = z.2 := by
+      have hh := congrArg Prod.snd hz
+      change α (Z z).2 (Z z).1 = z.2 at hh
+      rwa [hf] at hh
+    apply (hbij z.1 hzt).1
+    exact hy.trans (Function.invFun_eq ((hbij z.1 hzt).2 z.2)).symm
+  refine ⟨D,hD,?_⟩
+  rw [← hder]
+  exact hZ.snd.congr_of_eventuallyEq hEq
+
+lemma determinant_retarded_graph {D : E →L[ℝ] E} (hD : D.det = 1) (v : E) (ℓ : E →L[ℝ] ℝ) :
+    (D.comp ((ContinuousLinearMap.id ℝ E) - (ContinuousLinearMap.toSpanSingleton ℝ v).comp ℓ)).det =
+      1 - ℓ v := by
+  have he : (((ContinuousLinearMap.id ℝ E) - (ContinuousLinearMap.toSpanSingleton ℝ v).comp ℓ) : E →L[ℝ] E).toLinearMap =
+      LinearMap.transvection ℓ.toLinearMap (-v) := by
+    ext x
+    simp [LinearMap.transvection,sub_eq_add_neg]
+  change LinearMap.det (D.toLinearMap.comp _) = _
+  rw [LinearMap.det_comp,he]
+  change D.det * _ = _
+  rw [hD,one_mul,LinearMap.transvection.det,map_neg]
+  rfl
+
+end
+
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+
+
+lemma hasStrictFDerivAt_norm_nonzero {F : Type*} [NormedAddCommGroup F] [InnerProductSpace ℝ F]
+    {x : F} (hx : x ≠ 0) :
+    HasStrictFDerivAt (fun y : F => ‖y‖) (innerSL ℝ (‖x‖⁻¹ • x)) x := by
+  have hn : ‖x‖ ≠ 0 := norm_ne_zero_iff.mpr hx
+  have hh := (Real.hasStrictDerivAt_sqrt (pow_ne_zero 2 hn)).comp_hasStrictFDerivAt x
+    (hasStrictFDerivAt_norm_sq x)
+  have hf : (Real.sqrt ∘ fun y : F => ‖y‖^2) = fun y : F => ‖y‖ := by
+    funext y
+    exact Real.sqrt_sq (norm_nonneg y)
+  rw [hf,Real.sqrt_sq (norm_nonneg x)] at hh
+  convert! hh using 1
+  all_goals try with_reducible_and_instances rfl
+  apply ContinuousLinearMap.ext
+  intro y
+  simp only [smul_apply,innerSL_apply_apply,inner_smul_left,
+    starRingEnd_apply,star_trivial,smul_eq_mul,two_smul,add_apply]
+  ring
+
+lemma norm_coneDirection {x y : Vec} (hxy : x ≠ y) : ‖‖x-y‖⁻¹ • (x-y)‖ = 1 := by
+  rw [norm_smul,Real.norm_eq_abs,abs_inv,abs_of_nonneg (norm_nonneg _),inv_mul_cancel₀]
+  exact norm_ne_zero_iff.mpr (sub_ne_zero.mpr hxy)
+
+lemma cone_deficit_positive {x y : Vec} (hxy : x ≠ y) (v : Vec) :
+    0 < 1 - dot (‖x-y‖⁻¹ • (x-y)) (velocity v) := by
+  have hh := real_inner_le_norm (‖x-y‖⁻¹ • (x-y)) (velocity v)
+  rw [norm_coneDirection hxy,one_mul,← dot_eq_inner] at hh
+  linarith [norm_velocity_lt_one v]
+
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open scoped Topology ContDiff NNReal
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+
+
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+
+lemma PhaseFlowOn.continuousOn_time {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (z : Phase) : ContinuousOn (F.flow z) (Icc 0 T) :=
+  fun t ht => (F.ode z t ht).continuousWithinAt
+
+lemma PhaseFlowOn.timelike {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (hT : 0 ≤ T) (z : Phase) :
+    ∃ c : ℝ≥0, (c : ℝ) < 1 ∧ LipschitzOnWith c (fun t => (F.flow z t).1) (Icc 0 T) := by
+  have hc : ContinuousOn (fun t => ‖velocity (F.flow z t).2‖) (Icc 0 T) :=
+    ((contDiff_velocity (k := 1)).continuous.comp_continuousOn (F.continuousOn_time z).snd).norm
+  obtain ⟨t₀,ht₀,hmax⟩ := isCompact_Icc.exists_isMaxOn (nonempty_Icc.mpr hT) hc
+  refine ⟨⟨‖velocity (F.flow z t₀).2‖,norm_nonneg _⟩,norm_velocity_lt_one _,?_⟩
+  apply (convex_Icc 0 T).lipschitzOnWith_of_nnnorm_hasDerivWithin_le
+    (fun t ht => (F.ode z t ht).fst)
+  intro t ht
+  exact_mod_cast hmax ht
+
+lemma PhaseFlowOn.flow_inversePhase {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (hs : s ∈ Icc 0 T) (z : Phase) : F.flow (inversePhase F.flow (s,z)) s = z :=
+  Function.invFun_eq ((F.bijective s hs).2 z)
+
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+
+
+lemma PhaseFlowOn.inverse_differential {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (hs : s ∈ Ioo 0 T) (z : Phase) :
+    ∃ D : Phase →L[ℝ] Phase, D.det=1 ∧
+      HasStrictFDerivAt (inversePhase F.flow)
+        ((ContinuousLinearMap.toSpanSingleton ℝ (-D (lorentzField E B (s,z)))).coprod D) (s,z) := by
+  let y := Function.invFun (F.flow · s) z
+  have hy : F.flow y s=z := Function.invFun_eq ((F.bijective s (Ioo_subset_Icc_self hs)).2 z)
+  have hh := hasStrictFDerivAt_inversePhase
+    (fun r hr => F.bijective r (Ioo_subset_Icc_self hr)) hs
+    (F.det_one y s (Ioo_subset_Icc_self hs)) (F.joint y s hs)
+  simpa only [hy] using hh
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_ReceiverRadialDomain
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma PhaseFlowOn.arrival_strictMono {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (hT : 0 ≤ T) (z : Phase) (y : Vec) :
+    StrictMonoOn (fun t => t-‖(F.flow z t).1-y‖) (Icc 0 T) := by
+  obtain ⟨c,hc,hLip⟩ := F.timelike hT z
+  intro a ha b hb hab
+  have hbound := hLip.dist_le_mul a ha b hb
+  rw [dist_eq_norm,Real.dist_eq,abs_of_neg (sub_neg.mpr hab)] at hbound
+  have hn : ‖(F.flow z b).1-y‖ ≤ ‖(F.flow z a).1-(F.flow z b).1‖ + ‖(F.flow z a).1-y‖ := by
+    calc
+      _ = ‖((F.flow z b).1-(F.flow z a).1)+((F.flow z a).1-y)‖ := by congr 1; abel
+      _ ≤ ‖(F.flow z b).1-(F.flow z a).1‖ + ‖(F.flow z a).1-y‖ := norm_add_le _ _
+      _ = _ := by rw [norm_sub_rev]
+  have hp := mul_pos (sub_pos.mpr hc) (sub_pos.mpr hab)
+  nlinarith
+
+lemma isOpen_receiverRadialDomain (s T : ℝ) : IsOpen (receiverRadialDomain s T) :=
+  (isOpen_lt continuous_const continuous_norm).inter
+    (isOpen_lt (continuous_const.add continuous_norm) continuous_const)
+
+lemma receiver_time_mem {s T : ℝ} (hs : 0 ≤ s) {w : Vec}
+    (hw : w ∈ receiverRadialDomain s T) : s+‖w‖ ∈ Ioo 0 T := by
+  constructor <;> linarith [hw.1,hw.2]
+
+lemma PhaseFlowOn.receiver_injective {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (hs : s ∈ Icc 0 T) (z : Phase) :
+    InjOn (receiverRadial F.flow z s) (receiverRadialDomain s T) := by
+  intro a ha b hb hab
+  have hta := Ioo_subset_Icc_self (receiver_time_mem hs.1 ha)
+  have htb := Ioo_subset_Icc_self (receiver_time_mem hs.1 hb)
+  let y := receiverRadial F.flow z s a
+  have hya : (F.flow z (s+‖a‖)).1-y=a := by dsimp [y,receiverRadial]; abel
+  have hyb : (F.flow z (s+‖b‖)).1-y=b := by
+    change (F.flow z (s+‖b‖)).1-receiverRadial F.flow z s a=b
+    rw [hab]
+    unfold receiverRadial
+    abel
+  have he : s+‖a‖=s+‖b‖ := by
+    apply (F.arrival_strictMono (hs.1.trans hs.2) z y).injOn hta htb
+    dsimp only
+    rw [hya,hyb]
+    ring
+  rw [← hya,← hyb,he]
+
+lemma PhaseFlowOn.exists_arrival {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (hs : s ∈ Icc 0 T) (z : Phase) {y : Vec}
+    (hy : ‖(F.flow z T).1-y‖ < T-s) :
+    ∃! t : ℝ, t ∈ Icc s T ∧ t-‖(F.flow z t).1-y‖=s := by
+  have hsub : Icc s T ⊆ Icc 0 T := fun _ ht => ⟨hs.1.trans ht.1,ht.2⟩
+  have hc : ContinuousOn (fun t => t-‖(F.flow z t).1-y‖) (Icc s T) :=
+    continuousOn_id.sub ((((F.continuousOn_time z).mono hsub).fst.sub continuousOn_const).norm)
+  have hstart : s-‖(F.flow z s).1-y‖ ≤ s := sub_le_self _ (norm_nonneg _)
+  have hend : s ≤ T-‖(F.flow z T).1-y‖ := by linarith
+  obtain ⟨t,ht,he⟩ := intermediate_value_Icc hs.2 hc ⟨hstart,hend⟩
+  refine ⟨t,⟨ht,he⟩,?_⟩
+  intro r hr
+  apply (F.arrival_strictMono (hs.1.trans hs.2) z y).injOn (hsub hr.1) (hsub ht)
+  exact hr.2.trans he.symm
+
+lemma PhaseFlowOn.receiver_image {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (hs : s ∈ Icc 0 T) (z : Phase) :
+    receiverRadial F.flow z s '' receiverRadialDomain s T =
+      ball (F.flow z T).1 (T-s) \ {(F.flow z s).1} := by
+  ext y
+  constructor
+  · rintro ⟨w,hw,rfl⟩
+    let t := s+‖w‖
+    let y := receiverRadial F.flow z s w
+    have ht : t ∈ Ioo 0 T := receiver_time_mem hs.1 hw
+    have hst : s < t := by dsimp [t]; linarith [hw.1]
+    have he : t-‖(F.flow z t).1-y‖=s := by
+      have hh : (F.flow z t).1-y=w := by dsimp [y,receiverRadial,t]; abel
+      rw [hh]
+      dsimp [t]
+      ring
+    have hm := F.arrival_strictMono (hs.1.trans hs.2) z y
+    constructor
+    · have hh := hm (Ioo_subset_Icc_self ht) ⟨hs.1.trans hs.2,le_rfl⟩ ht.2
+      dsimp only at hh
+      rw [he] at hh
+      rw [mem_ball,dist_eq_norm,norm_sub_rev]
+      linarith
+    · intro hh
+      change y=(F.flow z s).1 at hh
+      have hh' := hm hs (Ioo_subset_Icc_self ht) hst
+      dsimp only at hh'
+      rw [he,hh,sub_self,norm_zero,sub_zero] at hh'
+      exact (lt_irrefl s) hh'
+  · rintro ⟨hy,hn⟩
+    have hy' : ‖(F.flow z T).1-y‖ < T-s := by
+      simpa only [mem_ball,dist_eq_norm,norm_sub_rev] using hy
+    obtain ⟨t,⟨ht,he⟩,_⟩ := F.exists_arrival hs z hy'
+    have hst : s < t := by
+      by_contra h
+      have ht' : t=s := le_antisymm (le_of_not_gt h) ht.1
+      rw [ht'] at he
+      have hh : ‖(F.flow z s).1-y‖=0 := by linarith
+      exact hn (sub_eq_zero.mp (norm_eq_zero.mp hh)).symm
+    have htT : t < T := by
+      by_contra h
+      have ht' : t=T := le_antisymm ht.2 (le_of_not_gt h)
+      rw [ht'] at he
+      linarith
+    let w := (F.flow z t).1-y
+    have hw : s+‖w‖=t := by dsimp [w]; linarith
+    refine ⟨w,⟨?_,?_⟩,?_⟩
+    · dsimp [w]; linarith
+    · rw [hw]; exact htT
+    · unfold receiverRadial
+      rw [hw]
+      dsimp [w]
+      abel
+
+lemma PhaseFlowOn.receiver_differential {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (hs : 0 ≤ s) (z : Phase) {w : Vec} (hw : w ∈ receiverRadialDomain s T) :
+    HasFDerivAt (receiverRadial F.flow z s)
+      ((ContinuousLinearMap.toSpanSingleton ℝ (velocity (F.flow z (s+‖w‖)).2)).comp
+        (innerSL ℝ (‖w‖⁻¹ • w)) - ContinuousLinearMap.id ℝ Vec) w := by
+  have ht := receiver_time_mem hs hw
+  have hX := ((F.ode z _ (Ioo_subset_Icc_self ht)).hasDerivAt (Icc_mem_nhds ht.1 ht.2)).fst
+  change HasDerivAt (fun t => (F.flow z t).1) (velocity (F.flow z (s+‖w‖)).2) (s+‖w‖) at hX
+  have hn := (hasStrictFDerivAt_norm_nonzero (norm_ne_zero_iff.mp (ne_of_gt hw.1))).hasFDerivAt
+  convert! (hX.hasFDerivAt.comp w (hn.const_add s)).sub (hasFDerivAt_id w) using 1
+  all_goals try with_reducible_and_instances rfl
+
+lemma PhaseFlowOn.receiver_jacobian {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (hs : 0 ≤ s) (z : Phase) {w : Vec} (hw : w ∈ receiverRadialDomain s T) :
+    |(fderiv ℝ (receiverRadial F.flow z s) w).det| =
+      1-dot (‖w‖⁻¹ • w) (velocity (F.flow z (s+‖w‖)).2) := by
+  rw [(F.receiver_differential hs z hw).fderiv]
+  let v := velocity (F.flow z (s+‖w‖)).2
+  let ℓ := innerSL ℝ (‖w‖⁻¹ • w)
+  have hd := determinant_retarded_graph
+    (D := ContinuousLinearMap.id ℝ Vec) (by exact LinearMap.det_id) v ℓ
+  simp only [ContinuousLinearMap.id_comp] at hd
+  have he : (ContinuousLinearMap.toSpanSingleton ℝ v).comp ℓ - ContinuousLinearMap.id ℝ Vec =
+      -((ContinuousLinearMap.id ℝ Vec) - (ContinuousLinearMap.toSpanSingleton ℝ v).comp ℓ) := by abel
+  have hneg (A : Vec →L[ℝ] Vec) : |(-A).det|=|A.det| := by
+    change |LinearMap.det (-A.toLinearMap)|=|LinearMap.det A.toLinearMap|
+    rw [← neg_one_smul ℝ A.toLinearMap,LinearMap.det_smul,abs_mul,abs_pow]
+    norm_num
+  change |((ContinuousLinearMap.toSpanSingleton ℝ v).comp ℓ - ContinuousLinearMap.id ℝ Vec).det| = _
+  rw [he,hneg,hd]
+  change |1 - inner ℝ (‖w‖⁻¹ • w) v| = _
+  rw [← dot_eq_inner,abs_of_pos]
+  apply cone_denom_pos
+  simpa only [sub_zero] using norm_coneDirection (x := w) (y := 0)
+    (norm_ne_zero_iff.mp (ne_of_gt hw.1))
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Geometry_CollisionLabels
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+section
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma PhaseFlowOn.branch_spec {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (zX zY : Phase) (hs : s ∈ branchDomain F.flow zX zY T) :
+    branchTime F.flow zX zY T s ∈ Icc s T ∧
+      branchTime F.flow zX zY T s-s =
+        ‖(F.flow zX (branchTime F.flow zX zY T s)).1-(F.flow zY s).1‖ := by
+  have hy : ‖(F.flow zX T).1-(F.flow zY s).1‖ < T-s := by linarith [hs.2]
+  obtain ⟨t,⟨ht,he⟩,_⟩ := F.exists_arrival (Ioo_subset_Icc_self hs.1) zX hy
+  have hex : ∃ t, t ∈ Icc s T ∧ t-s=‖(F.flow zX t).1-(F.flow zY s).1‖ :=
+    ⟨t,ht,by linarith⟩
+  simpa only [branchTime,dite_eq_left hex] using hex.choose_spec
+
+lemma PhaseFlowOn.branch_unique {E B : Field} {T s t : ℝ} (F : PhaseFlowOn E B T)
+    (zX zY : Phase) (hs : s ∈ branchDomain F.flow zX zY T)
+    (ht : t ∈ Icc s T) (he : t-s=‖(F.flow zX t).1-(F.flow zY s).1‖) :
+    t=branchTime F.flow zX zY T s := by
+  obtain ⟨hσ,hcone⟩ := F.branch_spec zX zY hs
+  apply (F.arrival_strictMono (hs.1.1.le.trans hs.1.2.le) zX (F.flow zY s).1).injOn
+    ⟨hs.1.1.le.trans ht.1,ht.2⟩ ⟨hs.1.1.le.trans hσ.1,hσ.2⟩
+  dsimp only
+  linarith
+
+lemma PhaseFlowOn.branch_time_mem {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (zX zY : Phase) (hs : s ∈ branchDomain F.flow zX zY T)
+    (hne : (F.flow zX s).1 ≠ (F.flow zY s).1) :
+    s < branchTime F.flow zX zY T s ∧ branchTime F.flow zX zY T s < T := by
+  obtain ⟨ht,he⟩ := F.branch_spec zX zY hs
+  constructor
+  · by_contra h
+    have hts := le_antisymm (le_of_not_gt h) ht.1
+    rw [hts,sub_self] at he
+    exact hne (sub_eq_zero.mp (norm_eq_zero.mp he.symm))
+  · by_contra h
+    have htT := le_antisymm ht.2 (le_of_not_gt h)
+    rw [htT] at he
+    linarith [hs.2]
+
+end RVM
+end
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma exists_continuous_scalar_root {W : Type*} [NormedAddCommGroup W]
+    [NormedSpace ℝ W] [CompleteSpace W] {H : ℝ × W → ℝ}
+    {L : (ℝ × W) →L[ℝ] ℝ} {t : ℝ} {p : W}
+    (hH : HasStrictFDerivAt H L (t,p)) (hzero : H (t,p)=0)
+    (hk : L (1,0) ≠ 0) :
+    ∃ τ : W → ℝ, τ p=t ∧ ContinuousAt τ p ∧ ∀ᶠ q in 𝓝 p, H (τ q,q)=0 := by
+  have hL (x : ℝ × W) : L x = x.1 * L (1,0)+L (0,x.2) := by
+    have he : x = x.1 • (1,(0 : W))+(0,x.2) := by ext <;> simp
+    conv_lhs => rw [he]
+    rw [map_add,map_smul,smul_eq_mul]
+  let A : (ℝ × W) →L[ℝ] (ℝ × W) := L.prod (ContinuousLinearMap.snd ℝ ℝ W)
+  have hi : Function.Injective A := by
+    intro x y h
+    have hh : L x = L y := congrArg Prod.fst h
+    have he : x.2=y.2 := by
+      have he := congrArg Prod.snd h
+      exact he
+    rw [hL x,hL y,he] at hh
+    have hf : x.1=y.1 := (mul_right_cancel₀ hk) (add_right_cancel hh)
+    exact Prod.ext hf he
+  have hs : Function.Surjective A := by
+    intro y
+    refine ⟨((y.1-L (0,y.2))/L (1,0),y.2),?_⟩
+    apply Prod.ext
+    · change L ((y.1-L (0,y.2))/L (1,0),y.2)=y.1
+      rw [hL]
+      dsimp only
+      field_simp
+      ring
+    · rfl
+  let e : (ℝ × W) ≃L[ℝ] (ℝ × W) := ContinuousLinearEquiv.ofBijective A
+    (LinearMap.ker_eq_bot.mpr hi) (LinearMap.range_eq_top.mpr hs)
+  let Φ : ℝ × W → ℝ × W := fun z => (H z,z.2)
+  have hΦ : HasStrictFDerivAt Φ (e : (ℝ × W) →L[ℝ] (ℝ × W)) (t,p) :=
+    hH.prodMk hasStrictFDerivAt_snd
+  let Z := hΦ.localInverse Φ e (t,p)
+  have hZ : HasStrictFDerivAt Z (e.symm : (ℝ × W) →L[ℝ] (ℝ × W)) (0,p) := by
+    simpa only [Φ,hzero] using hΦ.to_localInverse
+  have hZ₀ : Z (0,p)=(t,p) := by
+    simpa only [Φ,hzero] using hΦ.localInverse_apply_image
+  let τ : W → ℝ := fun q => (Z (0,q)).1
+  have hc : ContinuousAt (fun q : W => ((0 : ℝ),q)) p := continuousAt_const.prodMk continuousAt_id
+  refine ⟨τ,congrArg Prod.fst hZ₀,hZ.continuousAt.fst.comp hc,?_⟩
+  have hev : ∀ᶠ z in 𝓝 (0,p), Φ (Z z)=z := by
+    simpa only [Φ,hzero] using hΦ.eventually_right_inverse
+  filter_upwards [hc.eventually hev] with q hq
+  have he : (Z (0,q)).2=q := congrArg Prod.snd hq
+  have hh : H (Z (0,q))=0 := congrArg Prod.fst hq
+  have hz : Z (0,q) = (τ q,q) := Prod.ext rfl he
+  rwa [hz] at hh
+
+lemma PhaseFlowOn.joint_position_continuousAt {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    {p : ℝ × Phase} (hp : p.1 ∈ Ioo 0 T) :
+    ContinuousAt (fun q : ℝ × Phase => (F.flow q.2 q.1).1) p :=
+  (F.joint p.2 p.1 hp).continuousAt.fst
+
+lemma PhaseFlowOn.isOpen_jointBranchDomain {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (zX : Phase) : IsOpen (jointBranchDomain F.flow zX T) := by
+  apply isOpen_iff_mem_nhds.mpr
+  intro p hp
+  have hY := F.joint_position_continuousAt hp.1.1
+  have hX : ContinuousAt (fun q : ℝ × Phase => (F.flow zX q.1).1) p :=
+    (((F.continuousOn_time zX).fst.continuousAt (Icc_mem_nhds hp.1.1.1 hp.1.1.2)).comp
+      continuousAt_fst)
+  have hd : ContinuousAt (fun q : ℝ × Phase => q.1+‖(F.flow zX T).1-(F.flow q.2 q.1).1‖) p :=
+    continuousAt_fst.add ((continuousAt_const.sub hY).norm)
+  have ht : ∀ᶠ q : ℝ × Phase in 𝓝 p, q.1 ∈ Ioo 0 T :=
+    continuousAt_fst.eventually (isOpen_Ioo.mem_nhds hp.1.1)
+  have hb := hd.eventually (isOpen_Iio.mem_nhds hp.1.2)
+  have hn := (hX.sub hY).eventually (isOpen_compl_singleton.mem_nhds (sub_ne_zero.mpr hp.2))
+  filter_upwards [ht,hb,hn] with q hq hqt hqn
+  exact ⟨⟨hq,hqt⟩,sub_ne_zero.mp hqn⟩
+
+lemma PhaseFlowOn.joint_branch_continuousAt {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (zX : Phase) {p : ℝ × Phase} (hp : p ∈ jointBranchDomain F.flow zX T) :
+    ContinuousAt (fun q : ℝ × Phase => branchTime F.flow zX q.2 T q.1) p := by
+  let t := branchTime F.flow zX p.2 T p.1
+  have ht := F.branch_time_mem zX p.2 hp.1 hp.2
+  have hti : t ∈ Ioo 0 T := ⟨hp.1.1.1.trans ht.1,ht.2⟩
+  have hspec := (F.branch_spec zX p.2 hp.1).2
+  have hxy : (F.flow zX t).1 ≠ (F.flow p.2 p.1).1 := by
+    intro he
+    rw [he,sub_self,norm_zero] at hspec
+    linarith [ht.1]
+  let H : ℝ × (ℝ × Phase) → ℝ := fun q => q.1-q.2.1-‖(F.flow zX q.1).1-(F.flow q.2.2 q.2.1).1‖
+  have hmap : HasStrictFDerivAt (fun q : ℝ × (ℝ × Phase) => (q.1,zX))
+      ((ContinuousLinearMap.fst ℝ ℝ (ℝ × Phase)).prod 0) (t,p) :=
+    hasStrictFDerivAt_fst.prodMk (hasStrictFDerivAt_const _ _)
+  have hparam : HasStrictFDerivAt (fun q : ℝ × (ℝ × Phase) => q.2)
+      (ContinuousLinearMap.snd ℝ ℝ (ℝ × Phase)) (t,p) := hasStrictFDerivAt_snd
+  have hX : HasStrictFDerivAt (fun q : ℝ × (ℝ × Phase) => (F.flow zX q.1).1)
+      _ (t,p) := ((F.joint zX t hti).comp (t,p) hmap).fst
+  have hY : HasStrictFDerivAt (fun q : ℝ × (ℝ × Phase) => (F.flow q.2.2 q.2.1).1)
+      _ (t,p) := ((F.joint p.2 p.1 hp.1.1).comp (t,p) hparam).fst
+  have hN := (hasStrictFDerivAt_norm_nonzero (sub_ne_zero.mpr hxy)).comp (t,p) (hX.sub hY)
+  have htproj : HasStrictFDerivAt (fun q : ℝ × (ℝ × Phase) => q.1)
+      (ContinuousLinearMap.fst ℝ ℝ (ℝ × Phase)) (t,p) := hasStrictFDerivAt_fst
+  have hsproj : HasStrictFDerivAt (fun q : ℝ × (ℝ × Phase) => q.2.1)
+      ((ContinuousLinearMap.fst ℝ ℝ Phase).comp (ContinuousLinearMap.snd ℝ ℝ (ℝ × Phase))) (t,p) :=
+    hasStrictFDerivAt_fst.comp (t,p) hparam
+  have hH := (htproj.sub hsproj).sub hN
+  have hroot : ∃ L : (ℝ × (ℝ × Phase)) →L[ℝ] ℝ,
+      HasStrictFDerivAt H L (t,p) ∧ L (1,0) =
+        1-dot (‖(F.flow zX t).1-(F.flow p.2 p.1).1‖⁻¹ •
+          ((F.flow zX t).1-(F.flow p.2 p.1).1)) (velocity (F.flow zX t).2) := by
+    refine ⟨_,hH,?_⟩
+    change 1 - (0 : ℝ) - inner ℝ
+      (‖(F.flow zX t).1-(F.flow p.2 p.1).1‖⁻¹ •
+        ((F.flow zX t).1-(F.flow p.2 p.1).1))
+      (((1 : ℝ) • lorentzField E B (t,F.flow zX t) + F.differential zX t 0).1 -
+        (((0 : ℝ) • lorentzField E B (p.1,F.flow p.2 p.1) + F.differential p.2 p.1 0).1)) = _
+    simp only [map_zero,one_smul,zero_smul,add_zero,Prod.fst_zero,sub_zero,← dot_eq_inner]
+    rfl
+  obtain ⟨L,hL,hk⟩ := hroot
+  have hkne : L (1,0) ≠ 0 := by
+    rw [hk]
+    exact ne_of_gt (cone_deficit_positive hxy (F.flow zX t).2)
+  obtain ⟨τ,hτ,hτc,hev⟩ := exists_continuous_scalar_root hL
+    (by dsimp [H]; linarith) hkne
+  have hle : ∀ᶠ q in 𝓝 p, q.1 < τ q ∧ τ q < T := by
+    have hpos : 0 < τ p-p.1 := by rw [hτ]; exact sub_pos.mpr ht.1
+    have h1 : ∀ᶠ q in 𝓝 p, 0 < τ q-q.1 :=
+      (hτc.sub continuousAt_fst).eventually (isOpen_Ioi.mem_nhds hpos)
+    have hend : τ p < T := by rw [hτ]; exact ht.2
+    have h2 := hτc.eventually (isOpen_Iio.mem_nhds hend)
+    filter_upwards [h1,h2] with q hq hqT
+    exact ⟨sub_pos.mp hq,hqT⟩
+  apply hτc.congr_of_eventuallyEq
+  filter_upwards [hev,hle,(F.isOpen_jointBranchDomain zX).mem_nhds hp] with q hq hqt hqd
+  exact (F.branch_unique zX q.2 hqd.1 ⟨hqt.1.le,hqt.2.le⟩ (by change H (τ q,q)=0 at hq; dsimp [H] at hq; linarith)).symm
+
+lemma PhaseFlowOn.measurable_joint_flow_zero {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) :
+    Measurable ((Ioo 0 T ×ˢ (univ : Set Phase)).indicator
+      (fun p : ℝ × Phase => F.flow p.2 p.1)) := by
+  classical
+  have hc : ContinuousOn (fun p : ℝ × Phase => F.flow p.2 p.1)
+      (Ioo 0 T ×ˢ (univ : Set Phase)) :=
+    fun p hp => (F.joint p.2 p.1 hp.1).continuousAt.continuousWithinAt
+  have hh := hc.measurable_piecewise
+    (continuousOn_const (c := (0 : Phase))) (measurableSet_Ioo.prod MeasurableSet.univ)
+  convert hh using 1
+  all_goals try with_reducible_and_instances rfl
+  funext p
+  by_cases hp : p ∈ Ioo 0 T ×ˢ (univ : Set Phase) <;>
+    simp [Set.indicator,Set.piecewise,hp]
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Population_LabelOccupation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma PhaseFlowOn.branchDirection_norm {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (zX zY : Phase) (hs : s ∈ branchDomain F.flow zX zY T)
+    (hne : (F.flow zX s).1 ≠ (F.flow zY s).1) :
+    ‖branchDirection F.flow zX zY T s‖ = 1 := by
+  have ht := (F.branch_time_mem zX zY hs hne).1
+  have hr := (F.branch_spec zX zY hs).2
+  dsimp only [branchDirection]
+  rw [norm_smul,Real.norm_eq_abs,abs_of_pos (inv_pos.mpr (sub_pos.mpr ht)),← hr]
+  exact inv_mul_cancel₀ (sub_ne_zero.mpr (ne_of_gt ht))
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_RetardedPhaseDomain
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+section
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma PhaseFlowOn.transport {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    {f : Particle} (hf : ContDiffOn ℝ 1 f (Icc 0 T ×ˢ (univ : Set Phase)))
+    (heq : VlasovOn f E B T) {t : ℝ} (ht : t ∈ Icc 0 T) (z : Phase) :
+    f (t,F.flow z t) = f (0,z) := by
+  rcases ht.1.eq_or_lt with h | h
+  · simp only [← h,F.initial]
+  have hsub : Icc 0 t ⊆ Icc 0 T := fun _ hs => ⟨hs.1,hs.2.trans ht.2⟩
+  have hc : ContinuousOn (fun s => f (s,F.flow z s)) (Icc 0 t) :=
+    hf.continuousOn.comp (continuousOn_id.prodMk ((F.continuousOn_time z).mono hsub))
+      (fun _ hs => ⟨hsub hs,mem_univ _⟩)
+  have hd : ∀ s ∈ Ioo 0 t, HasDerivAt (fun r => f (r,F.flow z r)) (0 : ℝ) s := by
+    intro s hs
+    have hsT : s ∈ Ioo 0 T := ⟨hs.1,hs.2.trans_le ht.2⟩
+    have hdiff : DifferentiableAt ℝ f (s,F.flow z s) :=
+      ((hf (s,F.flow z s) ⟨Ioo_subset_Icc_self hsT,mem_univ _⟩).contDiffAt
+        (prod_mem_nhds (Icc_mem_nhds hsT.1 hsT.2) univ_mem)).differentiableAt (by simp)
+    have hode := (F.ode z s (Ioo_subset_Icc_self hsT)).hasDerivAt (Icc_mem_nhds hsT.1 hsT.2)
+    have hh := hasDerivAt_particle_along_curve (X := fun r => (F.flow z r).1)
+      (V := fun r => (F.flow z r).2) hdiff hode.fst hode.snd
+    simpa only [lorentzField,lorentzPhase,heq s hsT] using hh
+  obtain ⟨r,_,he⟩ := exists_hasDerivAt_eq_slope (fun s => f (s,F.flow z s)) (fun _ => 0) h hc hd
+  have hnum : f (t,F.flow z t)-f (0,F.flow z 0)=0 :=
+    (div_eq_zero_iff.mp he.symm).resolve_right (sub_ne_zero.mpr (ne_of_gt h))
+  simpa only [F.initial] using sub_eq_zero.mp hnum
+
+end RVM
+end
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Flow_PhaseHits
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma lintegral_radial_measure {f : ℝ → ENNReal} (hf : Measurable f) :
+    (∫⁻ r : Ioi (0 : ℝ), f r ∂Measure.volumeIoiPow 2) =
+      ∫⁻ r in Ioi (0 : ℝ), ENNReal.ofReal (r^2) * f r := by
+  have hpow : Measurable (fun r : Ioi (0 : ℝ) => ENNReal.ofReal (r.1^2)) :=
+    (measurable_subtype_coe.pow_const 2).ennreal_ofReal
+  calc
+    _ = ∫⁻ r : Ioi (0 : ℝ), ENNReal.ofReal (r.1^2) * f r.1 ∂volume.comap Subtype.val :=
+      lintegral_withDensity_eq_lintegral_mul _ hpow (hf.comp measurable_subtype_coe)
+    _ = _ := lintegral_subtype_comap (μ := volume) measurableSet_Ioi
+      (fun r : ℝ => ENNReal.ofReal (r^2) * f r)
+
+lemma lintegral_polar {f : Vec → ENNReal} (hf : Measurable f) :
+    (∫⁻ y : Vec, f y) = ∫⁻ n : Sphere, ∫⁻ r in Ioi (0 : ℝ),
+      ENNReal.ofReal (r^2) * f (r • n.1) ∂volume ∂sphereMeasure := by
+  calc
+    _ = ∫⁻ z : ({0}ᶜ : Set Vec), f z.1 ∂volume.comap Subtype.val := by
+      rw [lintegral_subtype_comap (measurableSet_singleton _).compl f,restrict_compl_singleton]
+    _ = ∫⁻ p : Sphere × Ioi (0 : ℝ), f (p.2.1 • p.1.1)
+        ∂sphereMeasure.prod (Measure.volumeIoiPow 2) := by
+      have h := (volume : Measure Vec).measurePreserving_homeomorphUnitSphereProd.lintegral_comp_emb
+        (Homeomorph.measurableEmbedding _)
+        (fun p => f (((homeomorphUnitSphereProd Vec).symm p).1))
+      simpa only [Homeomorph.symm_apply_apply,homeomorphUnitSphereProd_symm_apply_coe,
+        finrank_euclideanSpace_fin,Nat.reduceSub] using h
+    _ = ∫⁻ n : Sphere, ∫⁻ r : Ioi (0 : ℝ), f (r.1 • n.1) ∂Measure.volumeIoiPow 2
+        ∂sphereMeasure := by
+      apply lintegral_prod
+      exact (hf.comp ((measurable_subtype_coe.comp measurable_snd).smul
+        (measurable_subtype_coe.comp measurable_fst))).aemeasurable
+    _ = _ := by
+      apply lintegral_congr
+      intro n
+      exact lintegral_radial_measure (hf.comp (measurable_id.smul_const _))
+
+lemma PhaseFlowOn.receiver_lintegral {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (hs : s ∈ Icc 0 T) (z : Phase) (g : Vec → ENNReal) :
+    ∫⁻ y in ball (F.flow z T).1 (T-s), g y =
+      ∫⁻ w in receiverRadialDomain s T,
+        ENNReal.ofReal (1-dot (‖w‖⁻¹ • w) (velocity (F.flow z (s+‖w‖)).2)) *
+          g (receiverRadial F.flow z s w) := by
+  have hd : ∀ w ∈ receiverRadialDomain s T,
+      HasFDerivWithinAt (receiverRadial F.flow z s)
+        (fderiv ℝ (receiverRadial F.flow z s) w) (receiverRadialDomain s T) w := by
+    intro w hw
+    exact (F.receiver_differential hs.1 z hw).differentiableAt.hasFDerivAt.hasFDerivWithinAt
+  calc
+    _ = ∫⁻ y in receiverRadial F.flow z s '' receiverRadialDomain s T, g y := by
+      apply setLIntegral_congr
+      rw [F.receiver_image hs z]
+      exact (sdiff_null_ae_eq_self (measure_singleton (F.flow z s).1)).symm
+    _ = ∫⁻ w in receiverRadialDomain s T,
+        ENNReal.ofReal |(fderiv ℝ (receiverRadial F.flow z s) w).det| *
+          g (receiverRadial F.flow z s w) :=
+      lintegral_image_eq_lintegral_abs_det_fderiv_mul volume (isOpen_receiverRadialDomain s T).measurableSet
+        hd (F.receiver_injective hs z) g
+    _ = _ := by
+      apply setLIntegral_congr_fun (isOpen_receiverRadialDomain s T).measurableSet
+      intro w hw
+      dsimp only
+      rw [F.receiver_jacobian hs.1 z hw]
+
+lemma PhaseFlowOn.lintegral_comp {E B : Field} {T t : ℝ} (F : PhaseFlowOn E B T)
+    (ht : t ∈ Icc 0 T) (g : Phase → ENNReal) :
+    ∫⁻ z, g (F.flow z t) = ∫⁻ z, g z := by
+  have hh := lintegral_image_eq_lintegral_abs_det_fderiv_mul volume
+    (s := univ) MeasurableSet.univ
+    (fun z _ => (F.label z t ht).hasFDerivWithinAt) (F.bijective t ht).1.injOn g
+  simpa only [Set.image_univ,(F.bijective t ht).2.range_eq,setLIntegral_univ,
+    F.det_one _ _ ht,abs_one,ENNReal.ofReal_one,one_mul] using hh.symm
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_SpaceConeDomain
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma PhaseFlowOn.receiver_polar_lintegral {E B : Field} {T s : ℝ} (F : PhaseFlowOn E B T)
+    (hs : s ∈ Icc 0 T) (z : Phase) {g : Vec → ENNReal} (hg : Measurable g) :
+    (∫⁻ y in ball (F.flow z T).1 (T-s), g y) =
+      ∫⁻ n : Sphere, ∫⁻ r in Ioo (0 : ℝ) (T-s),
+        ENNReal.ofReal (r^2*(1-dot n.1 (velocity (F.flow z (s+r)).2))) *
+          g ((F.flow z (s+r)).1-r • n.1) ∂volume ∂sphereMeasure := by
+  classical
+  let S := receiverRadialDomain s T
+  have hS : MeasurableSet S := (isOpen_receiverRadialDomain s T).measurableSet
+  let Ψ : Vec → Phase := S.indicator (fun w => F.flow z (s+‖w‖))
+  have hcΨ : ContinuousOn (fun w : Vec => F.flow z (s+‖w‖)) S := by
+    intro w hw
+    have ht : s+‖w‖ ∈ Ioo 0 T := ⟨by linarith [hw.1,hs.1],hw.2⟩
+    have hc : ContinuousAt (fun v : Vec => (s+‖v‖,z)) w :=
+      (continuousAt_const.add continuousAt_id.norm).prodMk continuousAt_const
+    have hh := (F.joint z (s+‖w‖) ht).continuousAt.comp (f := fun v : Vec => (s+‖v‖,z)) hc
+    exact hh.continuousWithinAt
+  have hmΨ : Measurable Ψ := by
+    have h := hcΨ.measurable_piecewise (continuousOn_const (c := (0 : Phase))) hS
+    convert h using 1
+    all_goals try with_reducible_and_instances rfl
+    funext w
+    by_cases hw : w ∈ S <;> simp [Ψ,Set.piecewise,hw]
+  let R : Vec → Vec := S.indicator (receiverRadial F.flow z s)
+  have hcR : ContinuousOn (receiverRadial F.flow z s) S :=
+    fun w hw => (F.receiver_differential hs.1 z hw).continuousAt.continuousWithinAt
+  have hmR : Measurable R := by
+    have h := hcR.measurable_piecewise (continuousOn_const (c := (0 : Vec))) hS
+    convert h using 1
+    all_goals try with_reducible_and_instances rfl
+    funext w
+    by_cases hw : w ∈ S <;> simp [R,Set.piecewise,hw]
+  have hmK : Measurable (fun w : Vec => ENNReal.ofReal
+      (1-dot (‖w‖⁻¹ • w) (velocity (Ψ w).2)) * g (R w)) := by
+    simp only [dot_eq_inner]
+    exact ((measurable_const.sub
+      ((measurable_id.norm.inv.smul measurable_id).inner
+        ((contDiff_velocity (k := 1)).continuous.measurable.comp hmΨ.snd))).ennreal_ofReal).mul (hg.comp hmR)
+  let H : Vec → ENNReal := S.indicator
+    (fun w => ENNReal.ofReal (1-dot (‖w‖⁻¹ • w) (velocity (F.flow z (s+‖w‖)).2)) *
+      g (receiverRadial F.flow z s w))
+  have hH : Measurable H := by
+    convert hmK.indicator hS using 1
+    all_goals try with_reducible_and_instances rfl
+    funext w
+    by_cases hw : w ∈ S <;> simp [H,Ψ,R,Set.indicator,hw]
+  rw [F.receiver_lintegral hs z g,← lintegral_indicator hS]
+  change (∫⁻ w, H w) = _
+  rw [lintegral_polar hH]
+  apply lintegral_congr
+  intro n
+  let k : ℝ → ENNReal := fun r => ENNReal.ofReal
+    (r^2*(1-dot n.1 (velocity (F.flow z (s+r)).2))) * g ((F.flow z (s+r)).1-r • n.1)
+  have hn : ‖n.1‖=1 := mem_sphere_zero_iff_norm.mp n.2
+  have he : ∀ r ∈ Ioi (0 : ℝ), ENNReal.ofReal (r^2) * H (r • n.1) =
+      (Iio (T-s)).indicator k r := by
+    intro r hr
+    have hnorm : ‖r • n.1‖=r := by rw [norm_smul,Real.norm_eq_abs,abs_of_pos hr,hn,mul_one]
+    have hd : r • n.1 ∈ S ↔ r < T-s := by
+      change 0 < ‖r • n.1‖ ∧ s+‖r • n.1‖ < T ↔ _
+      rw [hnorm]
+      constructor
+      · intro h; linarith [h.2]
+      · intro h; exact ⟨hr,by linarith⟩
+    by_cases h : r < T-s
+    · rw [show H (r • n.1) = _ from Set.indicator_of_mem (hd.mpr h) _,
+        Set.indicator_of_mem (show r ∈ Iio (T-s) from h)]
+      dsimp only [k,receiverRadial]
+      have hnsmul : r⁻¹ • (r • n.1)=n.1 := by
+        rw [smul_smul,inv_mul_cancel₀ (ne_of_gt (show 0 < r from hr)),one_smul]
+      rw [hnorm,hnsmul,ENNReal.ofReal_mul (sq_nonneg r),mul_assoc]
+    · rw [show H (r • n.1) = 0 from Set.indicator_of_notMem (fun hh => h (hd.mp hh)) _,mul_zero,
+        Set.indicator_of_notMem (show r ∉ Iio (T-s) from h)]
+  calc
+    _ = ∫⁻ r in Ioi (0 : ℝ), (Iio (T-s)).indicator k r :=
+      setLIntegral_congr_fun measurableSet_Ioi he
+    _ = ∫⁻ r in Ioi (0 : ℝ) ∩ Iio (T-s), k r := by
+      simpa only [inter_comm] using (setLIntegral_indicator (μ := (volume : Measure ℝ))
+        (t := Ioi (0 : ℝ)) measurableSet_Iio k)
+    _ = _ := rfl
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Geometry_ArrivalDomain
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+namespace RVM
+
+lemma PhaseFlowOn.arrivalLabel_mem {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (zX : Phase) {p : ℝ × Vec} (hp : p ∈ arrivalDomain F.flow zX T) :
+    arrivalLabel F.flow p ∈ jointBranchDomain F.flow zX T := by
+  have h := F.flow_inversePhase (Ioo_subset_Icc_self hp.1) (p.2,0)
+  change (p.1 ∈ Ioo 0 T ∧ p.1+‖(F.flow zX T).1-(F.flow _ p.1).1‖<T) ∧
+    (F.flow zX p.1).1 ≠ (F.flow _ p.1).1
+  change (p.1 ∈ Ioo 0 T ∧ p.1+‖(F.flow zX T).1-(F.flow (inversePhase F.flow (p.1,(p.2,0))) p.1).1‖<T) ∧
+    (F.flow zX p.1).1 ≠ (F.flow (inversePhase F.flow (p.1,(p.2,0))) p.1).1
+  rw [h]
+  exact ⟨⟨hp.1,hp.2.1⟩,hp.2.2⟩
+
+lemma PhaseFlowOn.arrivalLabel_continuousAt {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    {p : ℝ × Vec} (hp : p.1 ∈ Ioo 0 T) : ContinuousAt (arrivalLabel F.flow) p := by
+  obtain ⟨D,_,hD⟩ := F.inverse_differential hp (p.2,0)
+  exact continuousAt_fst.prodMk (hD.continuousAt.comp
+    (f := fun q : ℝ × Vec => (q.1,(q.2,0)))
+    (continuousAt_fst.prodMk (continuousAt_snd.prodMk continuousAt_const)))
+
+lemma PhaseFlowOn.isOpen_arrivalDomain {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (zX : Phase) : IsOpen (arrivalDomain F.flow zX T) := by
+  apply isOpen_iff_mem_nhds.mpr
+  intro p hp
+  have hX : ContinuousAt (fun q : ℝ × Vec => (F.flow zX q.1).1) p :=
+    (((F.continuousOn_time zX).fst.continuousAt (Icc_mem_nhds hp.1.1 hp.1.2)).comp
+      continuousAt_fst)
+  have ht : ∀ᶠ q : ℝ × Vec in 𝓝 p, q.1 ∈ Ioo 0 T :=
+    continuousAt_fst.eventually (isOpen_Ioo.mem_nhds hp.1)
+  have hd : ContinuousAt (fun q : ℝ × Vec => q.1+‖(F.flow zX T).1-q.2‖) p :=
+    continuousAt_fst.add (continuousAt_const.sub continuousAt_snd).norm
+  have hb := hd.eventually (isOpen_Iio.mem_nhds hp.2.1)
+  have hn := (hX.sub continuousAt_snd).eventually
+    (isOpen_compl_singleton.mem_nhds (sub_ne_zero.mpr hp.2.2))
+  filter_upwards [ht,hb,hn] with q hq hqt hqn
+  exact ⟨hq,hqt,sub_ne_zero.mp hqn⟩
+
+lemma PhaseFlowOn.arrival_time_spec {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (zX : Phase) {p : ℝ × Vec} (hp : p ∈ arrivalDomain F.flow zX T) :
+    arrivalTime F.flow zX T p ∈ Ioo p.1 T ∧
+      arrivalTime F.flow zX T p-p.1=‖(F.flow zX (arrivalTime F.flow zX T p)).1-p.2‖ := by
+  have h := F.arrivalLabel_mem zX hp
+  have ht := F.branch_time_mem zX (arrivalLabel F.flow p).2 h.1 h.2
+  have he := (F.branch_spec zX (arrivalLabel F.flow p).2 h.1).2
+  have hh := F.flow_inversePhase (Ioo_subset_Icc_self hp.1) (p.2,0)
+  change _-p.1=‖_- (F.flow (inversePhase F.flow (p.1,(p.2,0))) p.1).1‖ at he
+  rw [hh] at he
+  exact ⟨ht,he⟩
+
+lemma PhaseFlowOn.arrivalTime_continuousAt {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (zX : Phase) {p : ℝ × Vec} (hp : p ∈ arrivalDomain F.flow zX T) :
+    ContinuousAt (arrivalTime F.flow zX T) p :=
+  (F.joint_branch_continuousAt zX (F.arrivalLabel_mem zX hp)).comp
+    (f := arrivalLabel F.flow) (F.arrivalLabel_continuousAt hp.1)
+
+lemma PhaseFlowOn.arrivalRadius_continuousAt {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (zX : Phase) {p : ℝ × Vec} (hp : p ∈ arrivalDomain F.flow zX T) :
+    ContinuousAt (arrivalRadius F.flow zX T) p :=
+  (F.arrivalTime_continuousAt zX hp).sub continuousAt_fst
+
+lemma PhaseFlowOn.arrivalFlow_continuousAt {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (zX : Phase) {p : ℝ × Vec} (hp : p ∈ arrivalDomain F.flow zX T) :
+    ContinuousAt (fun q => F.flow zX (arrivalTime F.flow zX T q)) p := by
+  have ht := (F.arrival_time_spec zX hp).1
+  have hti : arrivalTime F.flow zX T p ∈ Ioo 0 T := ⟨hp.1.1.trans ht.1,ht.2⟩
+  exact (F.joint zX _ hti).continuousAt.comp
+    (f := fun q => (arrivalTime F.flow zX T q,zX))
+    ((F.arrivalTime_continuousAt zX hp).prodMk continuousAt_const)
+
+lemma PhaseFlowOn.arrivalDirection_continuousAt {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (zX : Phase) {p : ℝ × Vec} (hp : p ∈ arrivalDomain F.flow zX T) :
+    ContinuousAt (arrivalDirection F.flow zX T) p := by
+  have hn : arrivalRadius F.flow zX T p ≠ 0 := ne_of_gt (sub_pos.mpr (F.arrival_time_spec zX hp).1.1)
+  exact ((F.arrivalRadius_continuousAt zX hp).inv₀ hn).smul
+    ((F.arrivalFlow_continuousAt zX hp).fst.sub continuousAt_snd)
+
+lemma PhaseFlowOn.norm_arrivalDirection {E B : Field} {T : ℝ} (F : PhaseFlowOn E B T)
+    (zX : Phase) {p : ℝ × Vec} (hp : p ∈ arrivalDomain F.flow zX T) :
+    ‖arrivalDirection F.flow zX T p‖=1 := by
+  have ht := F.arrival_time_spec zX hp
+  have hr : 0 < arrivalRadius F.flow zX T p := sub_pos.mpr ht.1.1
+  rw [arrivalDirection,norm_smul,Real.norm_eq_abs,abs_of_pos (inv_pos.mpr hr),← ht.2]
+  exact inv_mul_cancel₀ (ne_of_gt hr)
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_ConeArgument
+attribute [-instance] _root_.OAI.RVM.phaseVolume_isAddHaarMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Set
+open scoped ContDiff
+open Filter Set
+open scoped Topology
+open Set MeasureTheory Filter
+open scoped Topology NNReal
+open scoped Topology ContDiff
+open Set MeasureTheory Metric
+open scoped Topology ContDiff RealInnerProductSpace
+
+namespace RVM
+
+lemma sphere_norm (n : Sphere) : ‖n.1‖ = 1 := by
+  simpa only [mem_sphere,dist_zero_right] using n.2
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_PhysicalElectricKernel
+attribute [-instance] _root_.OAI.RVM.phaseVolume_isAddHaarMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open scoped Topology ContDiff NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+
+namespace RVM
+
+lemma physical_kernel_signed_transform (r : ℝ) (n u b a : Vec)
+    (hr : r≠0) (hd : 1-dot n u≠0) (hD : 1-dot n a≠0) :
+    ((1-dot n u)/(1-dot n a)) •
+      ((1-dot n a) • physicalElectricKernel r n u b +
+        (dot a (physicalElectricKernel r n u b)) • n) =
+      signedForceKernel r a u n b := by
+  ext i
+  simp only [physicalElectricKernel,signedForceKernel,coneTransform,sourceVelocityRate,
+    dot_add_right,dot_sub_right,dot_smul_right,PiLp.add_apply,PiLp.sub_apply,
+    PiLp.smul_apply,PiLp.neg_apply,smul_eq_mul]
+  field_simp
+  ring
+
+end RVM
+
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Population_NullConeFlux
+attribute [-instance] _root_.OAI.RVM.phaseVolume_isAddHaarMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Set
+open scoped ContDiff
+open Filter Set
+open scoped Topology
+open Set MeasureTheory Filter
+open scoped Topology NNReal
+open scoped Topology ContDiff
+open scoped Topology ContDiff RealInnerProductSpace
+open Set MeasureTheory Metric
+open scoped Topology Pointwise
+
+namespace RVM
+
+lemma abs_dot_le (a b : Vec) : |dot a b| ≤ ‖a‖*‖b‖ := by
+  rw [dot_eq_inner]
+  exact abs_real_inner_le_norm a b
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_ReceiverQ
+attribute [-instance] _root_.OAI.RVM.phaseVolume_isAddHaarMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal
+open scoped Topology ContDiff ENNReal
+open Set
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+
+namespace RVM
+
+lemma receiverQ_smul (a n h : Vec) (c : ℝ) : receiverQ a n (c • h)=c • receiverQ a n h := by
+  simp only [receiverQ,dot_smul_right,smul_add,smul_smul]
+  module
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Population_DyadicCut
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+section
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal
+open scoped Topology ContDiff ENNReal
+open Set
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+namespace RVM
+
+lemma contDiff_dyadicCut : ContDiff ℝ ∞ dyadicCut :=
+  contDiff_const.sub (Real.smoothTransition.contDiff.comp (contDiff_id.sub contDiff_const))
+lemma contDiff_dyadicBump : ContDiff ℝ ∞ dyadicBump :=
+  contDiff_dyadicCut.sub (contDiff_dyadicCut.comp (contDiff_const.mul contDiff_id))
+lemma contDiff_dyadicFactor (n : ℕ) : ContDiff ℝ ∞ (dyadicFactor n) :=
+  contDiff_dyadicBump.comp (contDiff_const.mul contDiff_id)
+
+lemma dyadicCut_one {x : ℝ} (hx : x≤1) : dyadicCut x=1 := by
+  simp only [dyadicCut,Real.smoothTransition.zero_of_nonpos (sub_nonpos.mpr hx),sub_zero]
+lemma dyadicCut_zero {x : ℝ} (hx : 2≤x) : dyadicCut x=0 := by
+  rw [dyadicCut,Real.smoothTransition.one_of_one_le (by linarith),sub_self]
+lemma dyadicCut_antitone : Antitone dyadicCut := by
+  intro x y hxy
+  exact sub_le_sub_left (Real.smoothTransition.monotone (sub_le_sub_right hxy 1)) 1
+lemma dyadicBump_zero_left {x : ℝ} (hx : x≤1/2) : dyadicBump x=0 := by
+  rw [dyadicBump,dyadicCut_one (by linarith),dyadicCut_one (by linarith),sub_self]
+lemma dyadicBump_zero_right {x : ℝ} (hx : 2≤x) : dyadicBump x=0 := by
+  rw [dyadicBump,dyadicCut_zero hx,dyadicCut_zero (by linarith),sub_self]
+lemma dyadicBump_nonneg (x : ℝ) : 0≤dyadicBump x := by
+  by_cases hx : x≤1/2
+  · rw [dyadicBump_zero_left hx]
+  · exact sub_nonneg.mpr (dyadicCut_antitone (by linarith : x≤2*x))
+lemma dyadicFactor_nonneg (n : ℕ) (x : ℝ) : 0≤dyadicFactor n x := dyadicBump_nonneg _
+
+lemma dyadicFactor_eq (n : ℕ) (x : ℝ) :
+    dyadicFactor n x=dyadicCut ((2:ℝ)^n*x)-dyadicCut ((2:ℝ)^(n+1)*x) := by
+  simp only [dyadicFactor,dyadicBump,pow_succ]
+  congr 2
+  ring
+lemma sum_dyadicFactor (N : ℕ) (x : ℝ) :
+    ∑ n ∈ Finset.range N, dyadicFactor n x=dyadicCut x-dyadicCut ((2:ℝ)^N*x) := by
+  induction N with
+  | zero => simp
+  | succ N ih => rw [Finset.sum_range_succ,ih,dyadicFactor_eq]; ring
+
+lemma dyadicFactor_zero_large {x : ℝ} {n : ℕ} (hn : 2≤(2:ℝ)^n*x) :
+    dyadicFactor n x=0 := dyadicBump_zero_right hn
+
+end RVM
+
+end
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff RealInnerProductSpace
+open Set MeasureTheory
+open scoped ENNReal
+open scoped Topology ContDiff ENNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+namespace RVM
+
+lemma dyadicMultiFactor_nonneg {ι : Type*} [Fintype ι] (n : ι→ℕ) (x : ι→ℝ) :
+    0≤dyadicMultiFactor n x := Finset.prod_nonneg (fun _i _ => dyadicFactor_nonneg _ _)
+
+lemma sum_dyadicMultiFactor {ι : Type*} [Fintype ι] (N : ℕ) (x : ι→ℝ) :
+    ∑ n∈dyadicBox ι N, dyadicMultiFactor n x =
+      ∏ i, (dyadicCut (x i)-dyadicCut ((2:ℝ)^N*x i)) := by
+  classical
+  unfold dyadicBox dyadicMultiFactor
+  convert Finset.sum_prod_piFinset (Finset.range N) (fun i n => dyadicFactor n (x i)) using 1
+  all_goals try with_reducible_and_instances rfl
+  simp only [sum_dyadicFactor]
+
+lemma sum_dyadicMultiFactor_eq_one {ι : Type*} [Fintype ι] (N : ℕ) (x : ι→ℝ)
+    (hx : ∀ i, x i≤1) (hN : ∀ i, 2≤(2:ℝ)^N*x i) :
+    ∑ n∈dyadicBox ι N, dyadicMultiFactor n x=1 := by
+  rw [sum_dyadicMultiFactor]
+  simp only [dyadicCut_one (hx _),dyadicCut_zero (hN _),sub_zero,Finset.prod_const_one]
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Regularity_PhysicalCutoffCoordinates
+attribute [-instance] _root_.OAI.RVM.phaseVolume_isAddHaarMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff RealInnerProductSpace
+open Set MeasureTheory
+open scoped ENNReal
+open scoped Topology ContDiff ENNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+namespace RVM
+
+lemma physicalCutoffCoordinates_pos {T r : ℝ} {n v w : Vec}
+    (hn : ‖n‖=1) (hr : 0 < r) : ∀ i,0<physicalCutoffCoordinates T r n v w i := by
+  intro i
+  fin_cases i <;> simp only [physicalCutoffCoordinates]
+  · exact one_div_pos.mpr (q_pos v)
+  · exact Real.sqrt_pos.mpr (div_pos (cone_denom_pos v n hn) (by norm_num))
+  · exact Real.sqrt_pos.mpr (div_pos (cone_denom_pos w n hn) (by norm_num))
+  · exact div_pos hr (lt_of_lt_of_le (by norm_num) (le_max_left _ _))
+
+lemma real_deficit_le_two {n : Vec} (hn : ‖n‖=1) (v : Vec) : 1-dot n (velocity v) ≤ 2 := by
+  have h := (abs_dot_le n (velocity v)).trans (by simpa only [hn,one_mul] using (norm_velocity_lt_one v).le)
+  linarith [neg_abs_le (dot n (velocity v))]
+
+lemma physicalCutoffCoordinates_le_one {T r : ℝ} {n v w : Vec}
+    (hn : ‖n‖=1) (hr : r ≤ max 1 T) : ∀ i,physicalCutoffCoordinates T r n v w i≤1 := by
+  intro i
+  fin_cases i <;> simp only [physicalCutoffCoordinates]
+  · apply (div_le_one (q_pos v)).mpr
+    have hs := q_sq v
+    nlinarith [q_pos v,sq_nonneg ‖v‖]
+  · apply (Real.sqrt_le_iff).mpr
+    constructor
+    · norm_num
+    · nlinarith [real_deficit_le_two hn v]
+  · apply (Real.sqrt_le_iff).mpr
+    constructor
+    · norm_num
+    · nlinarith [real_deficit_le_two hn w]
+  · exact (div_le_one (lt_of_lt_of_le (by norm_num) (le_max_left _ _))).mpr hr
+
+lemma dyadicMultiFactor_curve_locally_finite {ι : Type*} [Fintype ι]
+    {g : ι → ℝ → ℝ} {t : ℝ} (hg : ∀ i, ContinuousAt (g i) t) (hx : ∀ i,0<g i t) :
+    ∃ N : ℕ, (∀ i,2≤(2:ℝ)^N*g i t) ∧
+      ∀ᶠ r in 𝓝 t, ∀ n : ι→ℕ, n∉dyadicBox ι N → dyadicMultiFactor n (fun i => g i r)=0 := by
+  classical
+  have hp (i : ι) := pow_unbounded_of_one_lt (4/g i t) (by norm_num : (1:ℝ)<2)
+  choose Ns hNs using hp
+  let N := ∑ i,Ns i
+  have hN (i : ι) : 4<(2:ℝ)^N*g i t := by
+    have hNi : Ns i≤N := Finset.single_le_sum (fun j _ => Nat.zero_le _) (Finset.mem_univ i)
+    exact ((div_lt_iff₀ (hx i)).mp (hNs i)).trans_le
+      (mul_le_mul_of_nonneg_right (pow_le_pow_right₀ (by norm_num) hNi) (hx i).le)
+  refine ⟨N,fun i => by linarith [hN i],?_⟩
+  have he : ∀ᶠ r in 𝓝 t, ∀ i,g i t/2<g i r := by
+    apply Filter.eventually_all.mpr
+    intro i
+    exact (hg i).eventually (Ioi_mem_nhds (by linarith [hx i]))
+  filter_upwards [he] with r hr n hn
+  have hb : ∃ i,N≤n i := by
+    by_contra hb
+    push Not at hb
+    apply hn
+    simpa only [dyadicBox,Fintype.mem_piFinset,Finset.mem_range] using hb
+  obtain ⟨i,hi⟩ := hb
+  apply Finset.prod_eq_zero (Finset.mem_univ i)
+  apply dyadicFactor_zero_large
+  have hpN : 0<(2:ℝ)^N := by positivity
+  have hpni : (2:ℝ)^N≤(2:ℝ)^(n i) := pow_le_pow_right₀ (by norm_num) hi
+  have hgr : 0≤g i r := le_of_lt ((by linarith [hx i] : 0<g i t/2).trans (hr i))
+  have hh := mul_le_mul_of_nonneg_right hpni hgr
+  have hh' := mul_lt_mul_of_pos_left (hr i) hpN
+  linarith [hN i]
+
+lemma selectedDyadicCutoff_curve_eventually {ι : Type*} [Fintype ι]
+    {g : ι → ℝ → ℝ} {t : ℝ} (hg : ∀ i, ContinuousAt (g i) t) (hx : ∀ i,0<g i t)
+    (S : Set (ι→ℕ)) :
+    ∃ N : ℕ, (∀ i,2≤(2:ℝ)^N*g i t) ∧
+      (fun r => selectedDyadicCutoff S (fun i => g i r)) =ᶠ[𝓝 t]
+        (fun r => ∑ n∈selectedDyadicBox N S,dyadicMultiFactor n (fun i => g i r)) := by
+  classical
+  obtain ⟨N,hN,he⟩ := dyadicMultiFactor_curve_locally_finite hg hx
+  refine ⟨N,hN,?_⟩
+  filter_upwards [he] with r hr
+  unfold selectedDyadicCutoff
+  rw [tsum_eq_sum (s:=dyadicBox ι N) (fun n hn => ?_)]
+  · simpa only [selectedDyadicBox,id_eq] using (Finset.sum_indicator_eq_sum_filter (dyadicBox ι N) (fun _ n => dyadicMultiFactor n (fun i => g i r)) (fun _ => S) id)
+  · by_cases hs : n∈S
+    · rw [indicator_of_mem hs,hr n hn]
+    · exact indicator_of_notMem hs _
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_ConeRadius
+attribute [-instance] _root_.OAI.RVM.phaseVolume_isAddHaarMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+namespace RVM
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal
+open scoped Topology ContDiff ENNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+open Set
+
+
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+
+
+section
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal
+open scoped Topology ContDiff ENNReal
+open Set
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+
+lemma contDiff_dot_pair {k : ℕ∞ω} :
+    ContDiff ℝ k (fun z : Vec × Vec => dot z.1 z.2) := by
+  unfold dot
+  fun_prop
+
+end
+
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Population_MomentumDirection
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+namespace RVM
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff RealInnerProductSpace
+open Set MeasureTheory
+open scoped ENNReal
+open scoped Topology ContDiff ENNReal
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+
+lemma selectedDyadicCutoff_mem_unit {ι : Type*} [Fintype ι] {x : ι→ℝ}
+    (hp : ∀ i,0<x i) (h1 : ∀ i,x i≤1) (S : Set (ι→ℕ)) :
+    selectedDyadicCutoff S x∈Icc (0:ℝ) 1 := by
+  classical
+  obtain ⟨N,hN,he⟩ := selectedDyadicCutoff_curve_eventually
+    (t:=0) (g:=fun i (_r : ℝ)=>x i) (fun _=>continuousAt_const) hp S
+  have hh := he.eq_of_nhds
+  change selectedDyadicCutoff S x = ∑ n∈selectedDyadicBox N S,dyadicMultiFactor n x at hh
+  rw [hh]
+  refine ⟨Finset.sum_nonneg (fun n _=>dyadicMultiFactor_nonneg n x),?_⟩
+  calc
+    _ ≤ ∑ n∈dyadicBox ι N,dyadicMultiFactor n x := Finset.sum_le_sum_of_subset_of_nonneg
+      (Finset.filter_subset _ _) (fun n _ _=>dyadicMultiFactor_nonneg n x)
+    _ = 1 := sum_dyadicMultiFactor_eq_one N x h1 hN
+
+
+
+open MeasureTheory Set
+
+open Filter Set
+open scoped Topology
+
+open scoped Topology Pointwise
+
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+
+open scoped ContDiff
+
+open Set MeasureTheory Metric
+
+open Set MeasureTheory Metric Filter ODE
+
+open Set MeasureTheory Filter Metric ODE
+
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+
+open Set MeasureTheory Filter
+
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+
+open Set Filter MeasureTheory Metric
+
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+
+open scoped Topology ContDiff NNReal ENNReal
+
+open Set MeasureTheory
+open scoped ENNReal
+
+open Set Filter MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+
+open scoped Topology ContDiff ENNReal
+
+open scoped Topology ContDiff NNReal
+
+open scoped Topology ContDiff
+
+open Set
+
+open Set Filter Metric MeasureTheory
+open scoped ENNReal Topology ContDiff
+
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_SourceWaveSpatialIbp
+attribute [-instance] _root_.OAI.RVM.phaseVolume_isAddHaarMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal
+open scoped Topology ContDiff ENNReal
+open Set
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+namespace RVM
+
+lemma normalisedElectricKernel_eq {r : ℝ} (hr : r≠0) (n u b : Vec) :
+    normalisedElectricKernel r n u b=r^2 • physicalElectricKernel r n u b := by
+  ext i
+  simp only [normalisedElectricKernel,physicalElectricKernel,PiLp.add_apply,PiLp.smul_apply,
+    PiLp.sub_apply,smul_eq_mul]
+  field_simp
+
+lemma continuousOn_normalisedElectricKernel {H : Type*} [TopologicalSpace H]
+    {r : H → ℝ} {n u b : H → Vec} {S : Set H}
+    (hr : ContinuousOn r S) (hn : ContinuousOn n S) (hu : ContinuousOn u S)
+    (hb : ContinuousOn b S) (hd : ∀ z ∈ S, 1-dot (n z) (u z)≠0) :
+    ContinuousOn (fun z => normalisedElectricKernel (r z) (n z) (u z) (b z)) S := by
+  have hdot (f g : H → Vec) (hf : ContinuousOn f S) (hg : ContinuousOn g S) :
+      ContinuousOn (fun z => dot (f z) (g z)) S :=
+    (contDiff_dot_pair (k:=1)).continuous.comp_continuousOn (hf.prodMk hg)
+  have hD : ContinuousOn (fun z => 1-dot (n z) (u z)) S :=
+    continuousOn_const.sub (hdot n u hn hu)
+  have hp : ∀ z ∈ S, (1-dot (n z) (u z))^3≠0 := fun z hz => pow_ne_zero 3 (hd z hz)
+  exact (((continuousOn_const.sub (hdot u u hu hu)).div (hD.pow 3) hp).smul (hn.sub hu)).add
+    ((hr.div (hD.pow 3) hp).smul (((hdot n b hn hb).smul (hn.sub hu)).sub (hD.smul hb)))
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Flow_PhaseTimePullback
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff ENNReal
+open Set MeasureTheory
+open scoped ENNReal
+open Set Filter MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma PhaseFlowOn.measurable_phaseTimePullback {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) {W : Type*} [Zero W] [MeasurableSpace W]
+    {g : ℝ×Phase→W} (hg : Measurable g) :
+    Measurable (phaseTimePullback F.flow T g) := by
+  classical
+  have hm := (hg.comp (measurable_fst.prodMk F.measurable_joint_flow_zero)).indicator
+    ((measurableSet_Ioo : MeasurableSet (Ioo (0:ℝ) T)).prod MeasurableSet.univ)
+  convert hm using 1
+  all_goals try with_reducible_and_instances rfl
+  funext p
+  by_cases hp : p∈Ioo (0:ℝ) T ×ˢ (univ : Set Phase)
+  · simp only [phaseTimePullback,Function.comp_apply,indicator_of_mem hp]
+  · simp only [phaseTimePullback,indicator_of_notMem hp]
+
+lemma PhaseFlowOn.lintegral_phaseTimePullback {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) {g : ℝ×Phase→ENNReal} (hg : Measurable g) :
+    (∫⁻ p : ℝ×Phase,phaseTimePullback F.flow T g p)=
+      ∫⁻ p in Ioo (0:ℝ) T ×ˢ (univ : Set Phase),g p := by
+  classical
+  have hS := (measurableSet_Ioo : MeasurableSet (Ioo (0:ℝ) T)).prod (MeasurableSet.univ : MeasurableSet (univ : Set Phase))
+  rw [←lintegral_indicator hS]
+  calc
+    _ = ∫⁻ t : ℝ,∫⁻ z : Phase,phaseTimePullback F.flow T g (t,z) :=
+      lintegral_prod _ (F.measurable_phaseTimePullback hg).aemeasurable
+    _ = ∫⁻ t : ℝ,∫⁻ z : Phase,(Ioo (0:ℝ) T ×ˢ (univ : Set Phase)).indicator g (t,z) := by
+      apply lintegral_congr
+      intro t
+      by_cases ht : t∈Ioo (0:ℝ) T
+      · simpa only [phaseTimePullback,indicator_of_mem (show (t,_)∈Ioo (0:ℝ) T ×ˢ (univ : Set Phase) from ⟨ht,mem_univ _⟩)]
+          using F.lintegral_comp (Ioo_subset_Icc_self ht) (fun z=>g (t,z))
+      · have hp : ∀z : Phase,(t,z)∉Ioo (0:ℝ) T ×ˢ (univ : Set Phase) := fun z h=>ht h.1
+        simp only [phaseTimePullback,indicator_of_notMem (hp _)]
+    _ = _ := (lintegral_prod _ (hg.indicator hS).aemeasurable).symm
+
+lemma PhaseFlowOn.phaseTimePullback_integrable_iff {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) {W : Type*} [NormedAddCommGroup W]
+    [NormedSpace ℝ W] [MeasurableSpace W] [BorelSpace W] [SecondCountableTopology W]
+    {g : ℝ×Phase→W} (hg : Measurable g) :
+    Integrable (phaseTimePullback F.flow T g) ↔
+      IntegrableOn g (Ioo (0:ℝ) T ×ˢ (univ : Set Phase)) := by
+  classical
+  have hS := (measurableSet_Ioo : MeasurableSet (Ioo (0:ℝ) T)).prod (MeasurableSet.univ : MeasurableSet (univ : Set Phase))
+  have he : (∫⁻ p : ℝ×Phase,ENNReal.ofReal ‖phaseTimePullback F.flow T g p‖)=
+      ∫⁻ p in Ioo (0:ℝ) T ×ˢ (univ : Set Phase),ENNReal.ofReal ‖g p‖ := by
+    rw [←F.lintegral_phaseTimePullback hg.norm.ennreal_ofReal]
+    apply lintegral_congr
+    intro p
+    by_cases hp : p∈Ioo (0:ℝ) T ×ˢ (univ : Set Phase)
+    · simp only [phaseTimePullback,indicator_of_mem hp]
+    · simp only [phaseTimePullback,indicator_of_notMem hp,norm_zero,ENNReal.ofReal_zero]
+  constructor
+  · intro h
+    refine ⟨hg.aestronglyMeasurable,?_⟩
+    rw [hasFiniteIntegral_iff_norm,←he]
+    exact (hasFiniteIntegral_iff_norm _).mp h.2
+  · intro h
+    refine ⟨(F.measurable_phaseTimePullback hg).aestronglyMeasurable,?_⟩
+    rw [hasFiniteIntegral_iff_norm,he]
+    exact (hasFiniteIntegral_iff_norm _).mp h.2
+
+lemma PhaseFlowOn.arrival_polar_mem {E B : Field} {T s r : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) (hs : s∈Ioo 0 T)
+    (hr : r∈Ioo (0:ℝ) (T-s)) (n : Sphere) :
+    (s,(F.flow zX (s+r)).1-r • n.1)∈arrivalDomain F.flow zX T := by
+  have hn := sphere_norm n
+  have hw : r • n.1∈receiverRadialDomain s T := by
+    change 0<‖r • n.1‖ ∧ s+‖r • n.1‖<T
+    rw [norm_smul,Real.norm_eq_abs,abs_of_pos hr.1,hn,mul_one]
+    exact ⟨hr.1,by linarith [hr.2]⟩
+  have him := F.receiver_image (Ioo_subset_Icc_self hs) zX
+  have hy : receiverRadial F.flow zX s (r • n.1) ∈
+      ball (F.flow zX T).1 (T-s)\{(F.flow zX s).1} := by
+    rw [←him]
+    exact mem_image_of_mem _ hw
+  have he : receiverRadial F.flow zX s (r • n.1)=
+      (F.flow zX (s+r)).1-r • n.1 := by
+    simp only [receiverRadial,norm_smul,Real.norm_eq_abs,abs_of_pos hr.1,hn,mul_one]
+  rw [he] at hy
+  refine ⟨hs,?_,?_⟩
+  · have hh := hy.1
+    rw [mem_ball,dist_eq_norm,norm_sub_rev] at hh
+    linarith
+  · exact fun hh=>hy.2 (mem_singleton_iff.mpr hh.symm)
+
+lemma PhaseFlowOn.arrival_polar_time {E B : Field} {T s r : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) (hs : s∈Ioo 0 T)
+    (hr : r∈Ioo (0:ℝ) (T-s)) (n : Sphere) :
+    arrivalTime F.flow zX T (s,(F.flow zX (s+r)).1-r • n.1)=s+r := by
+  have hd := F.arrival_polar_mem zX hs hr n
+  have hl := F.arrivalLabel_mem zX hd
+  have hh : F.flow (arrivalLabel F.flow (s,(F.flow zX (s+r)).1-r • n.1)).2 s =
+      ((F.flow zX (s+r)).1-r • n.1,0) :=
+    F.flow_inversePhase (Ioo_subset_Icc_self hs) _
+  symm
+  apply F.branch_unique (s:=s) zX _ hl.1 ⟨by linarith [hr.1],by linarith [hr.2]⟩
+  rw [hh]
+  simp only [sub_sub_cancel,norm_smul,Real.norm_eq_abs,abs_of_pos hr.1,
+    sphere_norm,mul_one]
+  ring
+
+lemma PhaseFlowOn.arrival_polar_radius {E B : Field} {T s r : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) (hs : s∈Ioo 0 T)
+    (hr : r∈Ioo (0:ℝ) (T-s)) (n : Sphere) :
+    arrivalRadius F.flow zX T (s,(F.flow zX (s+r)).1-r • n.1)=r := by
+  rw [arrivalRadius,F.arrival_polar_time zX hs hr n]
+  ring
+
+lemma PhaseFlowOn.measurable_arrivalInverseSquare {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) :
+    Measurable (arrivalInverseSquare F.flow zX T) := by
+  classical
+  have hc : ContinuousOn (fun p : ℝ×Vec=>(arrivalRadius F.flow zX T p)⁻¹^2)
+      (arrivalDomain F.flow zX T) := by
+    intro p hp
+    apply (((F.arrivalRadius_continuousAt zX hp).inv₀ ?_).pow 2).continuousWithinAt
+    exact ne_of_gt (sub_pos.mpr (F.arrival_time_spec zX hp).1.1)
+  exact hc.measurable_piecewise continuousOn_const (F.isOpen_arrivalDomain zX).measurableSet
+
+lemma arrivalInverseSquare_nonneg (α : Phase→ℝ→Phase) (zX : Phase) (T : ℝ)
+    (p : ℝ×Vec) : 0≤arrivalInverseSquare α zX T p := by
+  classical
+  exact indicator_nonneg (fun _ _=>sq_nonneg _) _
+
+lemma PhaseFlowOn.arrivalInverseSquare_lintegral {E B : Field} {T s : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) (hs : s∈Ioo 0 T) :
+    (∫⁻ y : Vec,ENNReal.ofReal (arrivalInverseSquare F.flow zX T (s,y))) ≤
+      (2:ENNReal)*ENNReal.ofReal (T-s)*sphereMeasure univ := by
+  classical
+  let g : Vec→ENNReal := fun y=>ENNReal.ofReal (arrivalInverseSquare F.flow zX T (s,y))
+  have hgm : Measurable g := ((F.measurable_arrivalInverseSquare zX).comp
+    (measurable_const.prodMk measurable_id)).ennreal_ofReal
+  have hrestrict : (∫⁻ y : Vec,g y)=∫⁻ y in ball (F.flow zX T).1 (T-s),g y := by
+    rw [←lintegral_indicator measurableSet_ball]
+    apply lintegral_congr
+    intro y
+    by_cases hy : y∈ball (F.flow zX T).1 (T-s)
+    · rw [indicator_of_mem hy]
+    · rw [indicator_of_notMem hy]
+      have hh : (s,y)∉arrivalDomain F.flow zX T := by
+        intro h
+        apply hy
+        rw [mem_ball,dist_eq_norm,norm_sub_rev]
+        linarith [h.2.1]
+      simp only [g,arrivalInverseSquare,indicator_of_notMem hh,ENNReal.ofReal_zero]
+  change (∫⁻ y : Vec,g y)≤_
+  rw [hrestrict,F.receiver_polar_lintegral (Ioo_subset_Icc_self hs) zX hgm]
+  calc
+    _ ≤ ∫⁻ _n : Sphere,∫⁻ _r in Ioo (0:ℝ) (T-s),(2:ENNReal) ∂volume ∂sphereMeasure := by
+      apply lintegral_mono
+      intro n
+      apply lintegral_mono_ae
+      apply ae_restrict_of_forall_mem measurableSet_Ioo
+      intro r hr
+      have hd := F.arrival_polar_mem zX hs hr n
+      have hra := F.arrival_polar_radius zX hs hr n
+      have hD : 0≤1-dot n.1 (velocity (F.flow zX (s+r)).2) :=
+        (cone_denom_pos _ _ (sphere_norm n)).le
+      change ENNReal.ofReal (r^2*(1-dot n.1 (velocity (F.flow zX (s+r)).2))) *
+        ENNReal.ofReal (arrivalInverseSquare F.flow zX T (s,(F.flow zX (s+r)).1-r • n.1))≤2
+      rw [arrivalInverseSquare,indicator_of_mem hd,hra,←ENNReal.ofReal_mul (mul_nonneg (sq_nonneg r) hD)]
+      have he : r^2*(1-dot n.1 (velocity (F.flow zX (s+r)).2))*r⁻¹^2=
+          1-dot n.1 (velocity (F.flow zX (s+r)).2) := by
+        field_simp [ne_of_gt hr.1]
+      rw [he]
+      exact (ENNReal.ofReal_le_ofReal (real_deficit_le_two (sphere_norm n) _)).trans_eq (by norm_num)
+    _ = _ := by simp [lintegral_const,Real.volume_Ioo,mul_assoc]
+
+lemma PhaseFlowOn.arrivalInverseSquare_integrable {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) :
+    Integrable (arrivalInverseSquare F.flow zX T) := by
+  classical
+  have hm := F.measurable_arrivalInverseSquare zX
+  have hfin : (∫⁻ p : ℝ×Vec,ENNReal.ofReal (arrivalInverseSquare F.flow zX T p))<⊤ := by
+    change (∫⁻ p : ℝ×Vec,ENNReal.ofReal (arrivalInverseSquare F.flow zX T p)
+      ∂((volume : Measure ℝ).prod (volume : Measure Vec)))<⊤
+    rw [lintegral_prod _ hm.ennreal_ofReal.aemeasurable]
+    have hr : (∫⁻ s : ℝ,∫⁻ y : Vec,ENNReal.ofReal (arrivalInverseSquare F.flow zX T (s,y)))=
+        ∫⁻ s in Ioo (0:ℝ) T,∫⁻ y : Vec,ENNReal.ofReal (arrivalInverseSquare F.flow zX T (s,y)) := by
+      rw [←lintegral_indicator measurableSet_Ioo]
+      apply lintegral_congr
+      intro s
+      by_cases hs : s∈Ioo (0:ℝ) T
+      · rw [indicator_of_mem hs]
+      · rw [indicator_of_notMem hs]
+        apply lintegral_eq_zero_of_ae_eq_zero
+        apply ae_of_all
+        intro y
+        have hh : (s,y)∉arrivalDomain F.flow zX T := fun h=>hs h.1
+        simp only [arrivalInverseSquare,indicator_of_notMem hh,ENNReal.ofReal_zero,Pi.zero_apply]
+    rw [hr]
+    have hb : ∀ s∈Ioo (0:ℝ) T,
+        (∫⁻ y : Vec,ENNReal.ofReal (arrivalInverseSquare F.flow zX T (s,y)))≤
+          (2:ENNReal)*ENNReal.ofReal T*sphereMeasure univ := by
+      intro s hs
+      apply (F.arrivalInverseSquare_lintegral zX hs).trans
+      exact mul_le_mul_of_nonneg_right (mul_le_mul_of_nonneg_left
+        (ENNReal.ofReal_le_ofReal (sub_le_self _ hs.1.le)) zero_le) zero_le
+    apply lt_of_le_of_lt (lintegral_mono_ae (ae_restrict_of_forall_mem measurableSet_Ioo hb))
+    change (∫⁻ _s in Ioo (0:ℝ) T,(2:ENNReal)*ENNReal.ofReal T*sphereMeasure univ)<⊤
+    simp only [lintegral_const,Measure.restrict_apply_univ,Real.volume_Ioo,sub_zero]
+    exact ENNReal.mul_lt_top (ENNReal.mul_lt_top
+      (ENNReal.mul_lt_top (by norm_num) ENNReal.ofReal_lt_top) (measure_lt_top _ _)) ENNReal.ofReal_lt_top
+  refine ⟨hm.aestronglyMeasurable,(hasFiniteIntegral_iff_norm _).mpr ?_⟩
+  simpa only [Real.norm_eq_abs,abs_of_nonneg (arrivalInverseSquare_nonneg F.flow zX T _)] using hfin
+
+lemma PhaseFlowOn.phaseArrivalMajorant_integrable {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) {K : Set Vec} (hK : IsCompact K) :
+    Integrable (phaseArrivalMajorant F.flow zX T K) := by
+  have hk : Integrable (K.indicator (fun _ : Vec=>(1:ℝ))) :=
+    (integrableOn_const hK.measure_lt_top.ne : IntegrableOn (fun _ : Vec=>(1:ℝ)) K).integrable_indicator hK.measurableSet
+  have hh := (F.arrivalInverseSquare_integrable zX).mul_prod hk
+  have hm := (volume_preserving_prodAssoc (α₁:=ℝ) (β₁:=Vec) (γ₁:=Vec)).symm
+  exact hm.integrable_comp_of_integrable hh
+
+lemma PhaseFlowOn.source_cone_integrable_of_bound {E B : Field} {T C : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) {K : Set Vec} (hK : IsCompact K)
+    {g : ℝ×Phase→Vec} (hg : AEStronglyMeasurable g)
+    (hb : ∀ᵐ p,‖g p‖≤C*phaseArrivalMajorant F.flow zX T K p) : Integrable g :=
+  ((F.phaseArrivalMajorant_integrable zX hK).const_mul C).mono' hg hb
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_ReceiverQCLM
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+section
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal
+open scoped Topology ContDiff ENNReal
+open Set
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+
+namespace RVM
+
+lemma continuousOn_receiverQ {H : Type*} [TopologicalSpace H] {S : Set H}
+    {a n h : H → Vec} (ha : ContinuousOn a S) (hn : ContinuousOn n S) (hh : ContinuousOn h S) :
+    ContinuousOn (fun p => receiverQ (a p) (n p) (h p)) S := by
+  exact ((continuousOn_const.sub ((contDiff_dot_pair (k:=1)).continuous.comp_continuousOn
+    (hn.prodMk ha))).smul hh).add
+      (((contDiff_dot_pair (k:=1)).continuous.comp_continuousOn (ha.prodMk hh)).smul hn)
+
+end RVM
+
+end
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff ENNReal
+open Set MeasureTheory
+open scoped ENNReal
+open Set Filter MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma EnergyPrefix.uniform_cone_kernel_bound {s : Solution} {T : ℝ}
+    (hs : EnergyPrefix s T) {A : ConeKernelState→Vec}
+    (hA : ContinuousOn A (coneKernelDomain T)) :
+    ∃ C : ℝ, 0≤C ∧ ∀ t∈Icc 0 T, ∀ σ∈Icc 0 T, ∀ n : Vec, ‖n‖=1 →
+      ∀ z : Phase, ‖s.f (σ,z) • A ((t,σ),(n,z))‖≤C := by
+  obtain ⟨K,hK,hzero⟩ := hs.compact
+  let S : Set ConeKernelState := (Icc (0:ℝ) T ×ˢ Icc (0:ℝ) T) ×ˢ (sphere (0:Vec) 1 ×ˢ K)
+  have hS : IsCompact S := (isCompact_Icc.prod isCompact_Icc).prod ((isCompact_sphere _ _).prod hK)
+  have hsub : S⊆coneKernelDomain T := fun p hp=>⟨hp.1,hp.2.1,mem_univ _⟩
+  have hf : ContinuousOn (fun p : ConeKernelState=>s.f (p.1.2,p.2.2)) S :=
+    hs.f_smooth.continuousOn.comp
+      (continuous_fst.snd.prodMk continuous_snd.snd).continuousOn
+      (fun _ hp=>⟨hp.1.2,mem_univ _⟩)
+  obtain ⟨C,hC⟩ := hS.exists_bound_of_continuousOn (hf.smul (hA.mono hsub))
+  refine ⟨max C 0,le_max_right _ _,?_⟩
+  intro t ht σ hσ n hn z
+  by_cases hz : z∈K
+  · exact (hC ((t,σ),(n,z)) ⟨⟨ht,hσ⟩,⟨by simpa only [mem_sphere,dist_zero_right] using hn,hz⟩⟩).trans (le_max_left _ _)
+  · have hf0 : s.f (σ,z)=0 := by
+      by_contra hne
+      exact hz (hzero σ hσ (subset_tsupport _ hne))
+    simp only [hf0,zero_smul,norm_zero]
+    exact le_max_right _ _
+
+lemma normalisedSignedForce_eq {r : ℝ} (a u n b : Vec)
+    (hr : r≠0) (hd : 1-dot n u≠0) (hD : 1-dot n a≠0) :
+    normalisedSignedForce r a u n b=r^2 • signedForceKernel r a u n b := by
+  rw [normalisedSignedForce,normalisedElectricKernel_eq hr,receiverQ_smul,smul_comm]
+  congr 1
+  exact physical_kernel_signed_transform _ _ _ _ _ hr hd hD
+
+lemma continuousOn_normalisedSignedForce {Q : Type*} [TopologicalSpace Q]
+    {r : Q→ℝ} {a u n b : Q→Vec} {S : Set Q}
+    (hr : ContinuousOn r S) (ha : ContinuousOn a S) (hu : ContinuousOn u S)
+    (hn : ContinuousOn n S) (hb : ContinuousOn b S)
+    (hd : ∀p∈S,1-dot (n p) (u p)≠0) (hD : ∀p∈S,1-dot (n p) (a p)≠0) :
+    ContinuousOn (fun p=>normalisedSignedForce (r p) (a p) (u p) (n p) (b p)) S := by
+  have hdot {f g : Q→Vec} (hf : ContinuousOn f S) (hg : ContinuousOn g S) :
+      ContinuousOn (fun p=>dot (f p) (g p)) S := by
+    simpa only [dot_eq_inner] using hf.inner hg
+  exact ((continuousOn_const.sub (hdot hn hu)).div
+    (continuousOn_const.sub (hdot hn ha)) hD).smul
+      (continuousOn_receiverQ ha hn (continuousOn_normalisedElectricKernel hr hn hu hb hd))
+
+lemma EnergyPrefix.continuousOn_sourceAcceleration {s : Solution} {T : ℝ}
+    (hs : EnergyPrefix s T) :
+    ContinuousOn (sourceAcceleration s) (Icc 0 T ×ˢ (univ : Set Phase)) := by
+  have hp : Continuous (fun p : ℝ×Phase=>(p.1,p.2.1)) := continuous_fst.prodMk continuous_snd.fst
+  have hE : ContinuousOn (fun p : ℝ×Phase=>s.E (p.1,p.2.1)) (Icc 0 T ×ˢ (univ : Set Phase)) :=
+    hs.E_smooth.continuousOn.comp hp.continuousOn (fun _ hp=>⟨hp.1,mem_univ _⟩)
+  have hB : ContinuousOn (fun p : ℝ×Phase=>s.B (p.1,p.2.1)) (Icc 0 T ×ˢ (univ : Set Phase)) :=
+    hs.B_smooth.continuousOn.comp hp.continuousOn (fun _ hp=>⟨hp.1,mem_univ _⟩)
+  have hu := (contDiff_velocity (k:=1)).continuous.comp (continuous_snd.snd : Continuous (fun p : ℝ×Phase=>p.2.2))
+  exact (((contDiff_velocity (k:=1)).continuous_fderiv (by simp)).comp_continuousOn
+    continuous_snd.snd.continuousOn).clm_apply
+      (hE.add ((contDiff_cross (k:=1)).continuous.comp_continuousOn (hu.continuousOn.prodMk hB)))
+
+lemma PhaseFlowOn.normalised_source_force_continuousOn {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (zX : Phase) :
+    ContinuousOn (fun p : ConeKernelState=>normalisedSignedForce (p.1.1-p.1.2)
+      (velocity (F.flow zX p.1.1).2) (velocity p.2.2.2) p.2.1
+      (sourceAcceleration s (p.1.2,p.2.2))) (coneKernelDomain T) := by
+  have ha : ContinuousOn (fun p : ConeKernelState=>velocity (F.flow zX p.1.1).2)
+      (coneKernelDomain T) := (contDiff_velocity (k:=1)).continuous.comp_continuousOn
+        (((F.continuousOn_time zX).comp continuous_fst.fst.continuousOn (fun _ hp=>hp.1.1)).snd)
+  have hu : Continuous (fun p : ConeKernelState=>velocity p.2.2.2) :=
+    (contDiff_velocity (k:=1)).continuous.comp continuous_snd.snd.snd
+  have hb : ContinuousOn (fun p : ConeKernelState=>sourceAcceleration s (p.1.2,p.2.2)) (coneKernelDomain T) :=
+    (hs.continuousOn_sourceAcceleration).comp
+    (continuous_fst.snd.prodMk continuous_snd.snd).continuousOn (fun _ hp=>⟨hp.1.2,mem_univ _⟩)
+  refine continuousOn_normalisedSignedForce (continuous_fst.fst.sub continuous_fst.snd).continuousOn
+    ha hu.continuousOn continuous_snd.fst.continuousOn hb ?_ ?_
+  · intro p hp
+    exact (cone_denom_pos _ _ (by simpa only [mem_sphere,dist_zero_right] using hp.2.1)).ne'
+  · intro p hp
+    exact (cone_denom_pos _ _ (by simpa only [mem_sphere,dist_zero_right] using hp.2.1)).ne'
+
+lemma PhaseFlowOn.isOpen_arrivalPhaseDomain {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) : IsOpen (arrivalPhaseDomain F.flow zX T) :=
+  (F.isOpen_arrivalDomain zX).preimage (continuous_fst.prodMk continuous_snd.fst)
+
+lemma PhaseFlowOn.arrivalKernelState_mem {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) {p : ℝ×Phase}
+    (hp : p∈arrivalPhaseDomain F.flow zX T) :
+    arrivalKernelState F.flow zX T p∈coneKernelDomain T := by
+  have ht := F.arrival_time_spec zX hp
+  exact ⟨⟨⟨(hp.1.1.trans ht.1.1).le,ht.1.2.le⟩,Ioo_subset_Icc_self hp.1⟩,
+    ⟨by simpa only [arrivalKernelState,mem_sphere,dist_zero_right] using F.norm_arrivalDirection zX hp,mem_univ _⟩⟩
+
+lemma PhaseFlowOn.arrivalKernelState_continuousOn {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) :
+    ContinuousOn (arrivalKernelState F.flow zX T) (arrivalPhaseDomain F.flow zX T) := by
+  intro p hp
+  have hc : ContinuousAt (fun p : ℝ×Phase=>(p.1,p.2.1)) p :=
+    continuousAt_fst.prodMk continuousAt_snd.fst
+  exact (((F.arrivalTime_continuousAt zX hp).comp (f := fun p : ℝ×Phase=>(p.1,p.2.1)) hc).prodMk continuousAt_fst).prodMk
+    (((F.arrivalDirection_continuousAt zX hp).comp (f := fun p : ℝ×Phase=>(p.1,p.2.1)) hc).prodMk continuousAt_snd) |>.continuousWithinAt
+
+lemma PhaseFlowOn.measurable_arrivalConeKernel {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (zX : Phase)
+    {A : ConeKernelState→Vec} (hA : ContinuousOn A (coneKernelDomain T)) :
+    Measurable (arrivalConeKernel s F.flow zX T A) := by
+  classical
+  have hr : ContinuousOn (fun p : ℝ×Phase=>arrivalRadius F.flow zX T (p.1,p.2.1))
+      (arrivalPhaseDomain F.flow zX T) := by
+    intro p hp
+    exact ((F.arrivalRadius_continuousAt zX hp).comp (f := fun p : ℝ×Phase=>(p.1,p.2.1))
+      (continuousAt_fst.prodMk continuousAt_snd.fst)).continuousWithinAt
+  have hr0 : ∀p∈arrivalPhaseDomain F.flow zX T,
+      arrivalRadius F.flow zX T (p.1,p.2.1)≠0 := fun p hp=>
+    (sub_pos.mpr (F.arrival_time_spec zX hp).1.1).ne'
+  have hf : ContinuousOn s.f (arrivalPhaseDomain F.flow zX T) :=
+    hs.f_smooth.continuousOn.mono (fun _ hp=>⟨Ioo_subset_Icc_self hp.1,mem_univ _⟩)
+  have hc := ((hr.inv₀ hr0).pow 2).smul (hf.smul
+    (hA.comp (F.arrivalKernelState_continuousOn zX) (fun _ hp=>F.arrivalKernelState_mem zX hp)))
+  exact hc.measurable_piecewise continuousOn_const (F.isOpen_arrivalPhaseDomain zX).measurableSet
+
+lemma PhaseFlowOn.arrivalConeKernel_integrable {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (zX : Phase)
+    {A : ConeKernelState→Vec} (hA : ContinuousOn A (coneKernelDomain T)) :
+    Integrable (arrivalConeKernel s F.flow zX T A) := by
+  classical
+  obtain ⟨K,hK,hzero⟩ := hs.compact
+  obtain ⟨C,hC,hb⟩ := hs.uniform_cone_kernel_bound hA
+  apply F.source_cone_integrable_of_bound zX (hK.image continuous_snd)
+    (F.measurable_arrivalConeKernel hs zX hA).aestronglyMeasurable
+  apply Filter.Eventually.of_forall
+  intro p
+  by_cases hp : p∈arrivalPhaseDomain F.flow zX T
+  · have hspec := F.arrival_time_spec zX hp
+    have ht : arrivalTime F.flow zX T (p.1,p.2.1)∈Icc 0 T :=
+      ⟨(hp.1.1.trans hspec.1.1).le,hspec.1.2.le⟩
+    have he : (p.1,p.2.1)∈arrivalDomain F.flow zX T := hp
+    rw [arrivalConeKernel,indicator_of_mem hp,phaseArrivalMajorant,arrivalInverseSquare,
+      indicator_of_mem he]
+    by_cases hv : p.2.2∈Prod.snd '' K
+    · rw [indicator_of_mem hv,mul_one,norm_smul,Real.norm_eq_abs,abs_of_nonneg (sq_nonneg _)]
+      have hh := hb _ ht _ (Ioo_subset_Icc_self hp.1) _ (F.norm_arrivalDirection zX hp) p.2
+      exact (mul_le_mul_of_nonneg_left hh (sq_nonneg _)).trans_eq (mul_comm _ _)
+    · have hf0 : s.f p=0 := by
+        by_contra hne
+        exact hv ⟨p.2,hzero _ (Ioo_subset_Icc_self hp.1) (subset_tsupport _ hne),rfl⟩
+      simp only [hf0,zero_smul,smul_zero,norm_zero,indicator_of_notMem hv,mul_zero,le_refl]
+  · have he : (p.1,p.2.1)∉arrivalDomain F.flow zX T := hp
+    simp only [arrivalConeKernel,indicator_of_notMem hp,norm_zero,phaseArrivalMajorant,
+      arrivalInverseSquare,indicator_of_notMem he,zero_mul,mul_zero,le_refl]
+
+lemma PhaseFlowOn.actualArrivalSignedForce_eq {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (zX : Phase) :
+    actualArrivalSignedForce s F.flow zX T=arrivalConeKernel s F.flow zX T
+      (fun p=>normalisedSignedForce (p.1.1-p.1.2)
+        (velocity (F.flow zX p.1.1).2) (velocity p.2.2.2) p.2.1
+        (sourceAcceleration s (p.1.2,p.2.2))) := by
+  classical
+  funext p
+  by_cases hp : p∈arrivalPhaseDomain F.flow zX T
+  · have hr : arrivalRadius F.flow zX T (p.1,p.2.1)≠0 :=
+      (sub_pos.mpr (F.arrival_time_spec zX hp).1.1).ne'
+    have hn := F.norm_arrivalDirection zX hp
+    have hd := (cone_denom_pos p.2.2 _ hn).ne'
+    have hD := (cone_denom_pos (F.flow zX (arrivalTime F.flow zX T (p.1,p.2.1))).2 _ hn).ne'
+    simp only [actualArrivalSignedForce,arrivalConeKernel,indicator_of_mem hp,arrivalKernelState]
+    change _=(arrivalRadius F.flow zX T (p.1,p.2.1))⁻¹^2 •
+      (s.f p • normalisedSignedForce (arrivalRadius F.flow zX T (p.1,p.2.1)) _ _ _ _)
+    rw [normalisedSignedForce_eq _ _ _ _ hr hd hD,smul_comm (s.f p),smul_smul,
+      ←mul_pow,inv_mul_cancel₀ hr,one_pow,one_smul]
+  · simp only [actualArrivalSignedForce,arrivalConeKernel,indicator_of_notMem hp]
+
+lemma PhaseFlowOn.actualArrivalSignedForce_measurable {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (zX : Phase) :
+    Measurable (actualArrivalSignedForce s F.flow zX T) := by
+  rw [F.actualArrivalSignedForce_eq zX]
+  exact F.measurable_arrivalConeKernel hs zX (F.normalised_source_force_continuousOn hs zX)
+
+lemma PhaseFlowOn.actualArrivalSignedForce_integrable {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (zX : Phase) :
+    Integrable (actualArrivalSignedForce s F.flow zX T) := by
+  rw [F.actualArrivalSignedForce_eq zX]
+  exact F.arrivalConeKernel_integrable hs zX (F.normalised_source_force_continuousOn hs zX)
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Geometry_ClosedBranchDomain
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+section
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff RealInnerProductSpace
+open Set MeasureTheory
+open scoped ENNReal
+open scoped Topology ContDiff ENNReal
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma PhaseFlowOn.acceleration_continuousOn_closed {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (z : Phase) :
+    ContinuousOn (phaseAcceleration s.E s.B F.flow z) (Icc 0 T) := by
+  have hf := F.continuousOn_time z
+  have hp : ContinuousOn (fun t => (t,(F.flow z t).1)) (Icc 0 T) := continuousOn_id.prodMk hf.fst
+  have hE : ContinuousOn (fun t => s.E (t,(F.flow z t).1)) (Icc 0 T) :=
+    hs.E_smooth.continuousOn.comp hp (fun t ht => ⟨ht,mem_univ _⟩)
+  have hB : ContinuousOn (fun t => s.B (t,(F.flow z t).1)) (Icc 0 T) :=
+    hs.B_smooth.continuousOn.comp hp (fun t ht => ⟨ht,mem_univ _⟩)
+  have hu : ContinuousOn (fun t => velocity (F.flow z t).2) (Icc 0 T) :=
+    (contDiff_velocity (k:=1)).continuous.comp_continuousOn hf.snd
+  have hK : ContinuousOn (fun t => s.E (t,(F.flow z t).1)+
+      cross (velocity (F.flow z t).2) (s.B (t,(F.flow z t).1))) (Icc 0 T) :=
+    hE.add ((contDiff_cross (k:=1)).continuous.comp_continuousOn (hu.prodMk hB))
+  exact (((contDiff_velocity (k:=1)).continuous_fderiv (by simp)).comp_continuousOn hf.snd).clm_apply hK
+
+end RVM
+
+end
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff ENNReal
+open Set MeasureTheory
+open scoped ENNReal
+open Set Filter MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma labelBranchDomain_iff (α : Phase→ℝ→Phase) (zX : Phase) (T : ℝ) (p : ℝ×Phase) :
+    p∈labelBranchDomain α zX T ↔ (p.1,α p.2 p.1)∈arrivalPhaseDomain α zX T := by
+  change ((p.1∈Ioo 0 T ∧ p.1+‖(α zX T).1-(α p.2 p.1).1‖<T) ∧
+    (α zX p.1).1≠(α p.2 p.1).1) ↔ _
+  change _ ↔ (p.1∈Ioo 0 T ∧ p.1+‖(α zX T).1-(α p.2 p.1).1‖<T ∧
+    (α zX p.1).1≠(α p.2 p.1).1)
+  tauto
+
+lemma PhaseFlowOn.arrivalTime_flow_eq_branchTime {E B : Field} {T σ : ℝ}
+    (F : PhaseFlowOn E B T) (zX zY : Phase)
+    (hp : (σ,zY)∈labelBranchDomain F.flow zX T) :
+    arrivalTime F.flow zX T (σ,(F.flow zY σ).1)=branchTime F.flow zX zY T σ := by
+  have hh := F.arrival_time_spec zX ((labelBranchDomain_iff _ _ _ _).mp hp)
+  exact F.branch_unique zX zY hp.1 (Ioo_subset_Icc_self hh.1) hh.2
+
+lemma PhaseFlowOn.actualLabelSignedForce_eq_pullback {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (zX : Phase) :
+    actualLabelSignedForce s F.flow zX T =
+      phaseTimePullback F.flow T (actualArrivalSignedForce s F.flow zX T) := by
+  classical
+  funext p
+  by_cases hp : p∈labelBranchDomain F.flow zX T
+  · have he := (labelBranchDomain_iff _ _ _ _).mp hp
+    have ht : p∈Ioo (0:ℝ) T ×ˢ (univ : Set Phase) := ⟨hp.1.1,mem_univ _⟩
+    rw [actualLabelSignedForce,indicator_of_mem hp,phaseTimePullback,indicator_of_mem ht,
+      actualArrivalSignedForce,indicator_of_mem he]
+    rw [F.transport hs.f_smooth hs.vlasov (Ioo_subset_Icc_self hp.1.1) p.2]
+    simp only [arrivalRadius,arrivalDirection,branchDirection,F.arrivalTime_flow_eq_branchTime zX p.2 hp]
+  · have he := mt (labelBranchDomain_iff _ _ _ _).mpr hp
+    rw [actualLabelSignedForce,indicator_of_notMem hp]
+    by_cases ht : p∈Ioo (0:ℝ) T ×ˢ (univ : Set Phase)
+    · rw [phaseTimePullback,indicator_of_mem ht,actualArrivalSignedForce,indicator_of_notMem he]
+    · rw [phaseTimePullback,indicator_of_notMem ht]
+
+lemma PhaseFlowOn.actualLabelSignedForce_integrable {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (zX : Phase) :
+    Integrable (actualLabelSignedForce s F.flow zX T) := by
+  rw [F.actualLabelSignedForce_eq_pullback hs zX]
+  exact (F.phaseTimePullback_integrable_iff (F.actualArrivalSignedForce_measurable hs zX)).mpr
+    (F.actualArrivalSignedForce_integrable hs zX).integrableOn
+
+lemma normalisedPrimitive_eq {r : ℝ} (a u n : Vec) (hr : r≠0) :
+    normalisedPrimitive r a u n=r^2 • retardedPrimitive r a u n := by
+  rw [normalisedPrimitive,retardedPrimitive,smul_smul]
+  congr 1
+  field_simp
+
+lemma normalisedRemainder_eq {r : ℝ} (a u n b : Vec) (hr : r≠0) :
+    normalisedRemainder r a u n b=r^2 • signedRemainder r a u n b := by
+  simp only [normalisedRemainder,signedRemainder,smul_add,smul_smul]
+  congr 2 <;> field_simp
+
+lemma continuousOn_normalisedPrimitive {Q : Type*} [TopologicalSpace Q]
+    {r : Q→ℝ} {a u n : Q→Vec} {S : Set Q}
+    (hr : ContinuousOn r S) (ha : ContinuousOn a S) (hu : ContinuousOn u S)
+    (hn : ContinuousOn n S) (hd : ∀p∈S,1-dot (n p) (u p)≠0)
+    (hD : ∀p∈S,1-dot (n p) (a p)≠0) :
+    ContinuousOn (fun p=>normalisedPrimitive (r p) (a p) (u p) (n p)) S := by
+  have hdot {f g : Q→Vec} (hf : ContinuousOn f S) (hg : ContinuousOn g S) :
+      ContinuousOn (fun p=>dot (f p) (g p)) S := by
+    simpa only [dot_eq_inner] using hf.inner hg
+  exact (hr.div (continuousOn_const.sub (hdot hn hu)) hd).smul
+    (hu.sub (((continuousOn_const.sub (hdot ha hu)).div
+      (continuousOn_const.sub (hdot hn ha)) hD).smul hn))
+
+lemma continuousOn_normalisedRemainder {Q : Type*} [TopologicalSpace Q]
+    {r : Q→ℝ} {a u n b : Q→Vec} {S : Set Q}
+    (hr : ContinuousOn r S) (ha : ContinuousOn a S) (hu : ContinuousOn u S)
+    (hn : ContinuousOn n S) (hb : ContinuousOn b S)
+    (hD : ∀p∈S,1-dot (n p) (a p)≠0) :
+    ContinuousOn (fun p=>normalisedRemainder (r p) (a p) (u p) (n p) (b p)) S := by
+  have hdot {f g : Q→Vec} (hf : ContinuousOn f S) (hg : ContinuousOn g S) :
+      ContinuousOn (fun p=>dot (f p) (g p)) S := by
+    simpa only [dot_eq_inner] using hf.inner hg
+  have hden : ContinuousOn (fun p=>1-dot (n p) (a p)) S :=
+    continuousOn_const.sub (hdot hn ha)
+  have hp : ContinuousOn (fun p=>signedPrimitive (a p) (u p) (n p)) S :=
+    hu.sub (((continuousOn_const.sub (hdot ha hu)).div hden hD).smul hn)
+  exact (((continuousOn_const.sub (hdot ha hu)).div (hden.pow 2)
+    (fun p hp=>pow_ne_zero _ (hD p hp))).smul
+      ((((continuousOn_const.sub (hdot ha ha)).div hden hD).smul hn).sub ha)).add
+    (((hr.mul (hdot hb hp)).div (hden.pow 2) (fun p hp=>pow_ne_zero _ (hD p hp))).smul hn)
+
+lemma PhaseFlowOn.normalised_remainder_continuousOn {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (zX : Phase) :
+    ContinuousOn (fun p : ConeKernelState=>normalisedRemainder (p.1.1-p.1.2)
+      (velocity (F.flow zX p.1.1).2) (velocity p.2.2.2) p.2.1
+      (phaseAcceleration s.E s.B F.flow zX p.1.1)) (coneKernelDomain T) := by
+  have ha : ContinuousOn (fun p : ConeKernelState=>velocity (F.flow zX p.1.1).2)
+      (coneKernelDomain T) := (contDiff_velocity (k:=1)).continuous.comp_continuousOn
+        (((F.continuousOn_time zX).comp continuous_fst.fst.continuousOn (fun _ hp=>hp.1.1)).snd)
+  have hu : Continuous (fun p : ConeKernelState=>velocity p.2.2.2) :=
+    (contDiff_velocity (k:=1)).continuous.comp continuous_snd.snd.snd
+  have hb : ContinuousOn (fun p : ConeKernelState=>phaseAcceleration s.E s.B F.flow zX p.1.1)
+      (coneKernelDomain T) := (F.acceleration_continuousOn_closed hs zX).comp
+        continuous_fst.fst.continuousOn (fun _ hp=>hp.1.1)
+  refine continuousOn_normalisedRemainder (continuous_fst.fst.sub continuous_fst.snd).continuousOn
+    ha hu.continuousOn continuous_snd.fst.continuousOn hb ?_
+  intro p hp
+  exact (cone_denom_pos _ _ (by simpa only [mem_sphere,dist_zero_right] using hp.2.1)).ne'
+
+lemma PhaseFlowOn.actualLabelRemainder_eq_normalised {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (zX : Phase) :
+    actualLabelRemainder s F.flow zX T=labelConeKernel s F.flow zX T
+      (fun p=>normalisedRemainder (p.1.1-p.1.2) (velocity (F.flow zX p.1.1).2)
+        (velocity p.2.2.2) p.2.1 (phaseAcceleration s.E s.B F.flow zX p.1.1)) := by
+  classical
+  funext p
+  by_cases hp : p∈labelBranchDomain F.flow zX T
+  · have hr : branchTime F.flow zX p.2 T p.1-p.1≠0 :=
+      (sub_pos.mpr (F.branch_time_mem zX p.2 hp.1 hp.2).1).ne'
+    simp only [actualLabelRemainder,labelConeKernel,indicator_of_mem hp,labelKernelState,
+      normalisedRemainder_eq _ _ _ _ hr]
+    rw [smul_comm (s.f (0,p.2)),smul_smul,←mul_pow,inv_mul_cancel₀ hr,one_pow,one_smul]
+  · simp only [actualLabelRemainder,labelConeKernel,indicator_of_notMem hp]
+
+lemma PhaseFlowOn.actualLabelRemainder_integrable {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (zX : Phase) :
+    Integrable (actualLabelRemainder s F.flow zX T) := by
+  rw [F.actualLabelRemainder_eq_normalised zX]
+  exact F.labelConeKernel_integrable hs zX (F.normalised_remainder_continuousOn hs zX)
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Geometry_CutoffState
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff ENNReal
+open scoped Topology ContDiff NNReal
+open Set MeasureTheory
+open scoped ENNReal
+open Set Filter MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff
+
+namespace RVM
+
+lemma selectedDyadicCutoff_eventually {ι : Type*} [Fintype ι]
+    {x : ι→ℝ} (hx : ∀ i,0<x i) (S : Set (ι→ℕ)) :
+    ∃ N : ℕ, selectedDyadicCutoff S =ᶠ[𝓝 x]
+      (fun y => ∑ n∈selectedDyadicBox N S,dyadicMultiFactor n y) := by
+  classical
+  have hp (i : ι) := pow_unbounded_of_one_lt (4/x i) (by norm_num : (1:ℝ)<2)
+  choose Ns hNs using hp
+  let N := ∑ i,Ns i
+  have hN (i : ι) : 4<(2:ℝ)^N*x i := by
+    have hNi : Ns i≤N := Finset.single_le_sum (fun j _ => Nat.zero_le _) (Finset.mem_univ i)
+    exact ((div_lt_iff₀ (hx i)).mp (hNs i)).trans_le
+      (mul_le_mul_of_nonneg_right (pow_le_pow_right₀ (by norm_num) hNi) (hx i).le)
+  have he : ∀ᶠ y in 𝓝 x, ∀ i,x i/2<y i := by
+    apply Filter.eventually_all.mpr
+    intro i
+    exact (continuous_apply i).continuousAt.eventually (Ioi_mem_nhds (by linarith [hx i]))
+  refine ⟨N,?_⟩
+  filter_upwards [he] with y hy
+  have hz : ∀ n : ι→ℕ,n∉dyadicBox ι N → dyadicMultiFactor n y=0 := by
+    intro n hn
+    have hb : ∃ i,N≤n i := by
+      by_contra hb
+      push Not at hb
+      apply hn
+      simpa only [dyadicBox,Fintype.mem_piFinset,Finset.mem_range] using hb
+    obtain ⟨i,hi⟩ := hb
+    apply Finset.prod_eq_zero (Finset.mem_univ i)
+    apply dyadicFactor_zero_large
+    have hpN : 0<(2:ℝ)^N := by positivity
+    have hpni : (2:ℝ)^N≤(2:ℝ)^(n i) := pow_le_pow_right₀ (by norm_num) hi
+    have hyr : 0≤y i := le_of_lt ((by linarith [hx i] : 0<x i/2).trans (hy i))
+    have hh := mul_le_mul_of_nonneg_right hpni hyr
+    have hh' := mul_lt_mul_of_pos_left (hy i) hpN
+    linarith [hN i]
+  unfold selectedDyadicCutoff
+  rw [tsum_eq_sum (s:=dyadicBox ι N) (fun n hn => ?_)]
+  · simpa only [selectedDyadicBox,id_eq] using
+      (Finset.sum_indicator_eq_sum_filter (dyadicBox ι N)
+        (fun _ n => dyadicMultiFactor n y) (fun _ => S) id)
+  · by_cases hs : n∈S
+    · rw [indicator_of_mem hs,hz n hn]
+    · exact indicator_of_notMem hs _
+
+lemma contDiffAt_selectedDyadicCutoff {ι : Type*} [Fintype ι]
+    {x : ι→ℝ} (hx : ∀ i,0<x i) (S : Set (ι→ℕ)) :
+    ContDiffAt ℝ ∞ (selectedDyadicCutoff S) x := by
+  classical
+  obtain ⟨N,he⟩ := selectedDyadicCutoff_eventually hx S
+  apply (ContDiffAt.sum (s:=selectedDyadicBox N S) (fun n _ => ?_)).congr_of_eventuallyEq he
+  exact contDiffAt_prod (fun i _ => (contDiff_dyadicFactor (n i)).contDiffAt.comp x (contDiff_apply ℝ ℝ i).contDiffAt)
+
+lemma contDiffAt_stateCutoff (T : ℝ) (Q : Set (Fin 4→ℕ)) {z : CutoffState}
+    (hr : 0<z.1) (hn : ‖z.2.1‖=1) : ContDiffAt ℝ ∞ (stateCutoff T Q) z := by
+  have hc : ContDiffAt ℝ ∞ (fun z : CutoffState =>
+      physicalCutoffCoordinates T z.1 z.2.1 z.2.2.1 z.2.2.2) z := by
+    apply contDiffAt_pi.mpr
+    intro i
+    have hv : ContDiffAt ℝ ∞ (fun z : CutoffState=>velocity z.2.2.1) z :=
+      (contDiff_velocity (k:=∞)).contDiffAt.comp z contDiffAt_id.snd.snd.fst
+    have hw : ContDiffAt ℝ ∞ (fun z : CutoffState=>velocity z.2.2.2) z :=
+      (contDiff_velocity (k:=∞)).contDiffAt.comp z contDiffAt_id.snd.snd.snd
+    have hd := (contDiffAt_const (c:=(1:ℝ))).sub
+      ((contDiff_dot_pair (k:=∞)).contDiffAt.comp z (contDiffAt_id.snd.fst.prodMk hv))
+    have hD := (contDiffAt_const (c:=(1:ℝ))).sub
+      ((contDiff_dot_pair (k:=∞)).contDiffAt.comp z (contDiffAt_id.snd.fst.prodMk hw))
+    fin_cases i <;> simp only [physicalCutoffCoordinates]
+    · exact contDiffAt_const.div ((contDiff_q (k:=∞)).contDiffAt.comp z contDiffAt_id.snd.snd.fst) (q_pos _).ne'
+    · exact (hd.div_const 2).sqrt (div_pos (cone_denom_pos _ _ hn) (by norm_num)).ne'
+    · exact (hD.div_const 2).sqrt (div_pos (cone_denom_pos _ _ hn) (by norm_num)).ne'
+    · exact contDiffAt_id.fst.div_const _
+  exact (contDiffAt_selectedDyadicCutoff (physicalCutoffCoordinates_pos hn hr) Q).comp z hc
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Flow_BranchCutoffStateContinuous
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff ENNReal
+open Set MeasureTheory
+open scoped ENNReal
+open Set Filter MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma PhaseFlowOn.branchCutoffState_continuousAt {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) {p : ℝ×Phase}
+    (hp : p∈jointBranchDomain F.flow zX T) :
+    ContinuousAt (fun q : ℝ×Phase=>branchCutoffState F.flow T zX q.2 q.1) p := by
+  have hτ := F.joint_branch_continuousAt zX hp
+  have ht := F.branch_time_mem zX p.2 hp.1 hp.2
+  have hX := ((F.continuousOn_time zX).continuousAt
+    (Icc_mem_nhds (hp.1.1.1.trans ht.1) ht.2)).comp (f := fun q : ℝ×Phase=>branchTime F.flow zX q.2 T q.1) hτ
+  have hY := (F.joint p.2 p.1 hp.1.1).continuousAt
+  have hr := hτ.sub continuousAt_fst
+  have hr0 : branchTime F.flow zX p.2 T p.1-p.1≠0 := (sub_pos.mpr ht.1).ne'
+  exact hr.prodMk (((hr.inv₀ hr0).smul (hX.fst.sub hY.fst)).prodMk
+    (hY.snd.prodMk hX.snd))
+
+lemma PhaseFlowOn.selectedCutoff_measurable {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) (Q : Set (Fin 4→ℕ)) :
+    Measurable ((jointBranchDomain F.flow zX T).indicator
+      (fun p : ℝ×Phase=>selectedDyadicCutoff Q (actualCutoffCoordinates F.flow T zX p.2 p.1))) := by
+  classical
+  have hc : ContinuousOn (fun p : ℝ×Phase=>stateCutoff T Q (branchCutoffState F.flow T zX p.2 p.1))
+      (jointBranchDomain F.flow zX T) := by
+    intro p hp
+    exact ((contDiffAt_stateCutoff T Q (z:=branchCutoffState F.flow T zX p.2 p.1)
+      (sub_pos.mpr (F.branch_time_mem zX p.2 hp.1 hp.2).1)
+      (F.branchDirection_norm zX p.2 hp.1 hp.2)).continuousAt.comp (f := fun q : ℝ×Phase=>branchCutoffState F.flow T zX q.2 q.1)
+        (F.branchCutoffState_continuousAt zX hp)).continuousWithinAt
+  exact hc.measurable_piecewise continuousOn_const (F.isOpen_jointBranchDomain zX).measurableSet
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Geometry_ActualLabelCutoffCost
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff ENNReal
+open Set MeasureTheory
+open scoped ENNReal
+open Set Filter MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma PhaseFlowOn.labelReceiverTime_measurable {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) : Measurable (labelReceiverTime F.flow zX T) := by
+  classical
+  apply ContinuousOn.measurable_piecewise _ continuousOn_const (F.isOpen_jointBranchDomain zX).measurableSet
+  intro p hp
+  exact (F.joint_branch_continuousAt zX hp).continuousWithinAt
+
+lemma PhaseFlowOn.labelReceiverTime_mem {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (hT : 0≤T) (zX : Phase) (p : ℝ×Phase) :
+    labelReceiverTime F.flow zX T p∈Icc 0 T := by
+  classical
+  by_cases hp : p∈labelBranchDomain F.flow zX T
+  · rw [labelReceiverTime,indicator_of_mem hp]
+    have ht := F.branch_time_mem zX p.2 hp.1 hp.2
+    exact ⟨(hp.1.1.1.trans ht.1).le,ht.2.le⟩
+  · simp only [labelReceiverTime,indicator_of_notMem hp,mem_Icc,le_refl,hT,and_self]
+
+lemma PhaseFlowOn.labelSelectedCutoff_bound {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) (Q : Set (Fin 4→ℕ)) (p : ℝ×Phase) :
+    |labelSelectedCutoff F.flow zX T Q p|≤1 := by
+  classical
+  by_cases hp : p∈jointBranchDomain F.flow zX T
+  · rw [labelSelectedCutoff,indicator_of_mem hp]
+    have ht := F.branch_time_mem zX p.2 hp.1 hp.2
+    have hn := F.branchDirection_norm zX p.2 hp.1 hp.2
+    have hm : selectedDyadicCutoff Q
+        (actualCutoffCoordinates F.flow T zX p.2 p.1)∈Icc (0:ℝ) 1 := by
+      apply selectedDyadicCutoff_mem_unit
+      · exact physicalCutoffCoordinates_pos hn (sub_pos.mpr ht.1)
+      · exact physicalCutoffCoordinates_le_one hn
+          (by linarith [le_max_right (1:ℝ) T,hp.1.1.1])
+    exact (abs_of_nonneg hm.1).le.trans hm.2
+  · simp only [labelSelectedCutoff,indicator_of_notMem hp,abs_zero,zero_le_one]
+
+lemma PhaseFlowOn.normalisedRatePrimitive_continuousOn {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) :
+    ContinuousOn (normalisedRatePrimitive F.flow zX) (coneKernelDomain T) := by
+  have ha : ContinuousOn (fun p : ConeKernelState=>velocity (F.flow zX p.1.1).2)
+      (coneKernelDomain T) := (contDiff_velocity (k:=1)).continuous.comp_continuousOn
+        (((F.continuousOn_time zX).comp continuous_fst.fst.continuousOn (fun _ hp=>hp.1.1)).snd)
+  have hu : Continuous (fun p : ConeKernelState=>velocity p.2.2.2) :=
+    (contDiff_velocity (k:=1)).continuous.comp continuous_snd.snd.snd
+  have hn : Continuous (fun p : ConeKernelState=>p.2.1) := continuous_snd.fst
+  have hD : ∀p∈coneKernelDomain T,1-dot p.2.1 (velocity (F.flow zX p.1.1).2)≠0 := fun p hp=>
+    (cone_denom_pos _ _ (by simpa only [mem_sphere,dist_zero_right] using hp.2.1)).ne'
+  have hr : ContinuousOn (fun p : ConeKernelState=>(1-dot p.2.1 (velocity p.2.2.2))/
+      (1-dot p.2.1 (velocity (F.flow zX p.1.1).2))) (coneKernelDomain T) := by
+    simp only [dot_eq_inner]
+    exact (continuousOn_const.sub (hn.continuousOn.inner hu.continuousOn)).div
+      (continuousOn_const.sub (hn.continuousOn.inner ha))
+      (fun p hp=>by simpa only [dot_eq_inner] using hD p hp)
+  refine hr.smul (continuousOn_normalisedPrimitive
+    (continuous_fst.fst.sub continuous_fst.snd).continuousOn ha hu.continuousOn hn.continuousOn ?_ hD)
+  intro p hp
+  exact (cone_denom_pos _ _ (by simpa only [mem_sphere,dist_zero_right] using hp.2.1)).ne'
+
+lemma PhaseFlowOn.actualLabelRatePrimitive_eq {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (s : Solution) (zX : Phase) :
+    actualLabelRatePrimitive s F.flow zX T =
+      labelConeKernel s F.flow zX T (normalisedRatePrimitive F.flow zX) := by
+  classical
+  funext p
+  by_cases hp : p∈labelBranchDomain F.flow zX T
+  · have hr : branchTime F.flow zX p.2 T p.1-p.1≠0 :=
+      (sub_pos.mpr (F.branch_time_mem zX p.2 hp.1 hp.2).1).ne'
+    rw [actualLabelRatePrimitive,actualLabelPrimitive,indicator_of_mem hp,labelConeKernel,indicator_of_mem hp]
+    simp only [normalisedRatePrimitive,labelKernelState,normalisedPrimitive_eq _ _ _ hr]
+    simp only [branchRate,smul_smul]
+    congr 1
+    simp only [branchDirection]
+    field_simp
+  · simp only [actualLabelRatePrimitive,actualLabelPrimitive,labelConeKernel,indicator_of_notMem hp,smul_zero]
+
+lemma PhaseFlowOn.actualLabelRatePrimitive_integrable {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (zX : Phase) :
+    Integrable (actualLabelRatePrimitive s F.flow zX T) := by
+  rw [F.actualLabelRatePrimitive_eq s zX]
+  exact F.labelConeKernel_integrable hs zX (F.normalisedRatePrimitive_continuousOn zX)
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Population_LabelWeight
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff ENNReal
+open Set MeasureTheory
+open scoped ENNReal
+open Set Filter MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma PhaseFlowOn.labelWeight_measurable {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (zX : Phase) (Q : Set (Fin 4→ℕ))
+    {ψ : ℝ→ℝ} (hψ : Measurable ψ) :
+    Measurable (labelWeight F.flow zX T Q ψ) :=
+  (hψ.comp (F.labelReceiverTime_measurable zX)).mul (F.selectedCutoff_measurable zX Q)
+
+lemma PhaseFlowOn.labelWeight_bound {E B : Field} {T C : ℝ}
+    (F : PhaseFlowOn E B T) (hT : 0≤T) (zX : Phase) (Q : Set (Fin 4→ℕ))
+    {ψ : ℝ→ℝ} (hψ : ∀t∈Icc 0 T,|ψ t|≤C) (p : ℝ×Phase) :
+    |labelWeight F.flow zX T Q ψ p|≤C := by
+  rw [labelWeight,abs_mul]
+  exact (mul_le_mul_of_nonneg_left (F.labelSelectedCutoff_bound zX Q p) (abs_nonneg _)).trans
+    (by simpa only [mul_one] using hψ _ (F.labelReceiverTime_mem hT zX p))
+
+lemma PhaseFlowOn.selectedLabelSignedForce_integrable {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (hT : 0≤T) (zX : Phase)
+    (Q : Set (Fin 4→ℕ)) {ψ : ℝ→ℝ} (hψ : Measurable ψ)
+    (hψb : ∀t∈Icc 0 T,|ψ t|≤1) :
+    Integrable (selectedLabelSignedForce s F.flow zX T Q ψ) := by
+  apply (F.actualLabelSignedForce_integrable hs zX).bdd_smul 1
+    (F.labelWeight_measurable zX Q hψ).aestronglyMeasurable
+  exact Filter.Eventually.of_forall (fun p=>by
+    simpa only [Real.norm_eq_abs] using F.labelWeight_bound hT zX Q hψb p)
+
+lemma PhaseFlowOn.selectedLabelCosts_integrable {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (hT : 0≤T) (zX : Phase)
+    (Q : Set (Fin 4→ℕ)) {ψ : ℝ→ℝ} {L : NNReal} (hψ : LipschitzWith L ψ)
+    (hψb : ∀t∈Icc 0 T,|ψ t|≤1) :
+    Integrable (selectedLabelCosts s F.flow zX T Q ψ) := by
+  have hd : ∀t∈Icc 0 T,|deriv ψ t|≤(L:ℝ) := fun t _=>by
+    simpa only [Real.norm_eq_abs] using
+      norm_deriv_le_of_lipschitzOn (x₀:=t) (s:=univ) Filter.univ_mem hψ.lipschitzOnWith
+  have hi₁ := (F.actualLabelRatePrimitive_integrable hs zX).bdd_smul (L:ℝ)
+    (F.labelWeight_measurable zX Q (measurable_deriv ψ)).aestronglyMeasurable
+    (Filter.Eventually.of_forall (fun p=>by
+      simpa only [Real.norm_eq_abs] using F.labelWeight_bound hT zX Q hd p))
+  have hi₂ := (F.actualLabelCutoffCost_integrable hs zX Q).bdd_smul 1
+    (hψ.continuous.measurable.comp (F.labelReceiverTime_measurable zX)).aestronglyMeasurable
+    (Filter.Eventually.of_forall (fun p=>by
+      simpa only [Real.norm_eq_abs,Function.comp_apply] using hψb _ (F.labelReceiverTime_mem hT zX p)))
+  have hi₃ := (F.actualLabelRemainder_integrable hs zX).bdd_smul 1
+    (F.labelWeight_measurable zX Q hψ.continuous.measurable).aestronglyMeasurable
+    (Filter.Eventually.of_forall (fun p=>by
+      simpa only [Real.norm_eq_abs] using F.labelWeight_bound hT zX Q hψb p))
+  exact (hi₁.add hi₂).add hi₃
+
+end RVM
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ073_VM.VlasovMaxwell_Retarded_InitialPuncturedCone
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+open MeasureTheory Set
+open Filter Set
+open scoped Topology
+open scoped Topology Pointwise
+open Set MeasureTheory Metric ODE
+open scoped Topology NNReal
+open scoped ContDiff
+open Set MeasureTheory Metric
+open Set MeasureTheory Metric Filter ODE
+open Set MeasureTheory Filter Metric ODE
+open Set MeasureTheory Filter Metric
+open scoped Topology NNReal ContDiff
+open Set MeasureTheory Filter
+open scoped Topology ContDiff RealInnerProductSpace NNReal
+open Set Filter MeasureTheory Metric
+open scoped Topology ContDiff NNReal RealInnerProductSpace
+open scoped Topology ContDiff NNReal ENNReal
+open Set
+open scoped Topology ContDiff ENNReal
+open Set MeasureTheory
+open scoped ENNReal
+open Set Filter MeasureTheory
+open scoped Topology ContDiff RealInnerProductSpace
+open scoped Topology ContDiff
+open Set Filter Metric MeasureTheory
+open scoped Topology ContDiff NNReal
+
+namespace RVM
+
+lemma integrable_bounded_clm_apply {α : Type*} [MeasurableSpace α] {μ : Measure α}
+    {G : α→Vec→L[ℝ]Vec} {f : α→Vec} {C : ℝ}
+    (hf : Integrable f μ) (hG : AEStronglyMeasurable G μ)
+    (hb : ∀ᵐ x∂μ,‖G x‖≤C) : Integrable (fun x=>G x (f x)) μ := by
+  apply (hf.norm.const_mul C).mono'
+    ((continuous_fst.clm_apply continuous_snd).comp_aestronglyMeasurable
+      (hG.prodMk hf.aestronglyMeasurable))
+  filter_upwards [hb] with x hx
+  exact (G x).le_opNorm (f x) |>.trans (mul_le_mul_of_nonneg_right hx (norm_nonneg _))
+
+lemma PhaseFlowOn.integrable_receiver_multiplier {E B : Field} {T : ℝ}
+    (F : PhaseFlowOn E B T) (hT : 0≤T) (zX : Phase)
+    {G : ℝ→Vec→L[ℝ]Vec} (hG : Continuous G) {f : ℝ×Phase→Vec} (hf : Integrable f) :
+    Integrable (fun p=>G (labelReceiverTime F.flow zX T p) (f p)) := by
+  obtain ⟨C,hC⟩ := isCompact_Icc.exists_bound_of_continuousOn hG.continuousOn
+  exact integrable_bounded_clm_apply hf
+    (hG.measurable.comp (F.labelReceiverTime_measurable zX)).aestronglyMeasurable
+    (Filter.Eventually.of_forall (fun p=>hC _ (F.labelReceiverTime_mem hT zX p)))
+
+lemma PhaseFlowOn.selectedMultiplier_integrable_oai {s : Solution} {T : ℝ}
+    (F : PhaseFlowOn s.E s.B T) (hs : EnergyPrefix s T) (hT : 0≤T) (zX : Phase)
+    (Q : Set (Fin 4→ℕ)) {ψ : ℝ→ℝ} {L : NNReal} (hψ : LipschitzWith L ψ)
+    (hψb : ∀t∈Icc 0 T,|ψ t|≤1) {G G' : ℝ→Vec→L[ℝ]Vec}
+    (hG : Continuous G) (hG' : Continuous G') :
+    Integrable (selectedMultiplierForce s F.flow zX T Q ψ G) ∧
+      Integrable (selectedMultiplierCosts s F.flow zX T Q ψ G G') := by
+  have hf := F.selectedLabelSignedForce_integrable hs hT zX Q hψ.continuous.measurable hψb
+  have hc := F.selectedLabelCosts_integrable hs hT zX Q hψ hψb
+  have hp := (F.actualLabelRatePrimitive_integrable hs zX).bdd_smul 1
+    (F.labelWeight_measurable zX Q hψ.continuous.measurable).aestronglyMeasurable
+    (Filter.Eventually.of_forall (fun p=>by
+      simpa only [Real.norm_eq_abs] using F.labelWeight_bound hT zX Q hψb p))
+  exact ⟨F.integrable_receiver_multiplier hT zX hG hf,
+    (F.integrable_receiver_multiplier hT zX hG hc).add
+      (F.integrable_receiver_multiplier hT zX hG' hp)⟩
+
+end RVM
+
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.RVM.PhaseFlowOn.selectedMultiplier_integrable_oai := @OAI.RVM.PhaseFlowOn.selectedMultiplier_integrable_oai

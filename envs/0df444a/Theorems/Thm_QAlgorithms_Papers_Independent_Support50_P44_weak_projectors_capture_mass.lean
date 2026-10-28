@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P44_weak_projectors_capture_mass
 -- name    : QAlgorithms.Papers.Independent.Support50.P44.weak_projectors_capture_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:06:40.585652+00:00
 -- url     : https://prove2.me/theorems/177ac9ea-4e73-492e-a07c-f37c0c2fca38

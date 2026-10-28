@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_CoreSelection_userCentric_axioms
 -- name    : MusicStreaming.CoreSelection.userCentric_axioms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:56.20393+00:00
 -- url     : https://prove2.me/theorems/c19698a4-6756-422b-8220-ecbd54f5df7d

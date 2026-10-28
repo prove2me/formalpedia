@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TurnTables_Reciprocal_optimal_strike
 -- name    : TurnTables.Reciprocal.optimal_strike
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:54:18.837372+00:00
 -- url     : https://prove2.me/theorems/d02a8e06-5380-46e8-a405-c26d0b48b673

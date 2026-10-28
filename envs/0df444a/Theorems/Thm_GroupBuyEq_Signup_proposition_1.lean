@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupBuyEq_Signup_proposition_1
 -- name    : GroupBuyEq.Signup.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:30.798459+00:00
 -- url     : https://prove2.me/theorems/9df36426-0360-4d61-a054-46a6dbe77f24

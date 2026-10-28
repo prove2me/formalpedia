@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_Cooling_chiSq_gibbs_le
 -- name    : QuantumMC.Cooling.chiSq_gibbs_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:43.004707+00:00
 -- url     : https://prove2.me/theorems/303d0955-faf0-4c3d-9960-87664d3c9222

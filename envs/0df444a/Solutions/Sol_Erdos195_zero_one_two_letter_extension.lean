@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.zero_one_two_letter_extension
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:10:47.233532+00:00
 -- url     : https://prove2.me/submissions/0a3f6ed8-0552-4f0b-9031-3aacef0cf610
 

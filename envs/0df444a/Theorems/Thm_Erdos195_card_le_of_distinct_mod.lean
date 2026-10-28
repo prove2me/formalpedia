@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_card_le_of_distinct_mod
 -- name    : Erdos195.card_le_of_distinct_mod
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:33:30.387016+00:00
 -- url     : https://prove2.me/theorems/cf8a2937-e5fd-456e-b18c-768a88e0e01c
 -- title:

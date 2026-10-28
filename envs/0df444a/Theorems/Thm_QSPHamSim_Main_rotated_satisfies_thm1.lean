@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSPHamSim_Main_rotated_satisfies_thm1
 -- name    : QSPHamSim.Main.rotated_satisfies_thm1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:16.20499+00:00
 -- url     : https://prove2.me/theorems/99e7cfa3-7e0e-4aa4-aad0-13f4a4ada29c

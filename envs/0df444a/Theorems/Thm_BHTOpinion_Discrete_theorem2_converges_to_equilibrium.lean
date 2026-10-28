@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BHTOpinion_Discrete_theorem2_converges_to_equilibrium
 -- name    : BHTOpinion.Discrete.theorem2_converges_to_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:52.6533+00:00
 -- url     : https://prove2.me/theorems/9bbdbc1d-c6a6-4300-9d3c-771318e31069

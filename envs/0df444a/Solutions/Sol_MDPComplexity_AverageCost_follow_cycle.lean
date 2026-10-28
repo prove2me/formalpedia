@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.AverageCost.follow_cycle
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:30:38.651988+00:00
 -- url     : https://prove2.me/submissions/d2991b6a-d893-4792-8d04-ed5d36a31d71
 

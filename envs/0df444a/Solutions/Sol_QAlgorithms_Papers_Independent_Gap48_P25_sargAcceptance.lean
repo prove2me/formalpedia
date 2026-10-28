@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P25.sargAcceptance
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T23:15:28.221747+00:00
 -- url     : https://prove2.me/submissions/272e39e5-bcef-4338-a985-b314a0e59f45
 

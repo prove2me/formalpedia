@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PipelineInterv_Welfare_claim_1_budget_saving
 -- name    : PipelineInterv.Welfare.claim_1_budget_saving
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:07.608409+00:00
 -- url     : https://prove2.me/theorems/bec203cf-9441-44b9-bda1-9a176667aeb6

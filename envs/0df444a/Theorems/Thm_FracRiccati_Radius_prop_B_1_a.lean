@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracRiccati_Radius_prop_B_1_a
 -- name    : FracRiccati.Radius.prop_B_1_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:00.129088+00:00
 -- url     : https://prove2.me/theorems/4c045d4b-63c1-41b5-8502-97143a85b663

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenNV_LRS_theoremEC1_bernstein
 -- name    : DataDrivenNV.LRS.theoremEC1_bernstein
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:25:09.187268+00:00
 -- url     : https://prove2.me/theorems/c680c772-6a31-486e-acf8-8a21ce07dab2

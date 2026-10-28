@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P03_covariance_explicit_diagonalization
 -- name    : QAlgorithms.Papers.Independent.Support50.P03.covariance_explicit_diagonalization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:22:37.564434+00:00
 -- url     : https://prove2.me/theorems/b43bb1e5-11dc-443b-96e0-459e2674967e

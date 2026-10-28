@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSchedPrec_InForest_chain_lower_bound
 -- name    : StochSchedPrec.InForest.chain_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:45:12.847104+00:00
 -- url     : https://prove2.me/theorems/94f4c464-5ebd-4bc7-9bf2-cff71d87b843

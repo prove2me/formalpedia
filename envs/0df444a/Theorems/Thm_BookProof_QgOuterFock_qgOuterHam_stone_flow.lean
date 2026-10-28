@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFock_qgOuterHam_stone_flow
 -- name    : BookProof.QgOuterFock.qgOuterHam_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T19:40:34.675978+00:00
 -- url     : https://prove2.me/theorems/d09bf181-5b0d-433e-a3a3-f98ce2d219a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarksKlimm_Consistency_consistency_characterization
 -- name    : HarksKlimm.Consistency.consistency_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:28.693988+00:00
 -- url     : https://prove2.me/theorems/133d1934-2361-4db0-80ec-f8d47eecbfd2

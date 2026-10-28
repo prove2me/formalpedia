@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_no_odd_target_last
 -- name    : Erdos195.no_odd_target_last
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T14:09:58.648149+00:00
 -- url     : https://prove2.me/theorems/e26d83c6-c3a4-499f-bbea-8d2dd481a5a9
 -- title:

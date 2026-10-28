@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100MomentModel
 -- name    : TaoFivePrimes_RH14To100MomentModel
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:46:01.689752+00:00
 -- url     : https://prove2.me/theorems/be63e437-82e3-492c-8f96-d10fb073d3f4
 -- title:

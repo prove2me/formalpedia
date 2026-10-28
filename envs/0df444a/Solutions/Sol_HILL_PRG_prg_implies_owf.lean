@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HILL.PRG.prg_implies_owf
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Victorized
 -- created : 2026-10-24T05:00:18.295994+00:00
 -- url     : https://prove2.me/submissions/bf576cab-683e-4edf-be85-9a0eddfd44bb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_HILL_PRG_InversionCheck
 import Theorems.Thm_HILL_PRG_inverter_check_advantage_bound

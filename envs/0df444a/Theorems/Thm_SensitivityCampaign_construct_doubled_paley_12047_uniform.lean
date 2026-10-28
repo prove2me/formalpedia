@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityCampaign_construct_doubled_paley_12047_uniform
 -- name    : SensitivityCampaign.construct_doubled_paley_12047_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-10-21T16:55:50.313863+00:00
 -- url     : https://prove2.me/theorems/549b1e69-92e3-440b-9051-e2983b252893

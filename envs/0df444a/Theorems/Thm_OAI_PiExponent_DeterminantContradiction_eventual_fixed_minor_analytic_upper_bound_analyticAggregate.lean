@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_eventual_fixed_minor_analytic_upper_bound_analyticAggregate
 -- name    : OAI.PiExponent.DeterminantContradiction.eventual_fixed_minor_analytic_upper_bound_analyticAggregate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T06:05:19.609495+00:00
 -- url     : https://prove2.me/theorems/30983b30-634d-4281-83d0-c9ee99d36872

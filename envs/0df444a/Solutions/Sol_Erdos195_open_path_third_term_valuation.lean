@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_path_third_term_valuation
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T23:11:33.827292+00:00
 -- url     : https://prove2.me/submissions/b2abf955-0404-446e-bf02-eeeb47b4f363
 

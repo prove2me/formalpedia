@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Tight_theorem1_sccv
 -- name    : GreedyRS.Tight.theorem1_sccv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:33.138383+00:00
 -- url     : https://prove2.me/theorems/9f9e94fe-9455-4abd-9f65-0a3f557aebee

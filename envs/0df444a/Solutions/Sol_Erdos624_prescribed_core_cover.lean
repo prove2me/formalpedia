@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.prescribed_core_cover
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:41:11.57497+00:00
 -- url     : https://prove2.me/submissions/7dad54f5-d59c-429a-a419-8eec4e62c424
 

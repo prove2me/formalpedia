@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GCT_dc_padded_iff_affine
 -- name    : GCT.dc_padded_iff_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-14T16:13:48.277368+00:00
 -- url     : https://prove2.me/theorems/4a8940e7-5bb9-4959-8e32-3d334e79e253

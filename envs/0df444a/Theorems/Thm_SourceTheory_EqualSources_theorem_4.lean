@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_EqualSources_theorem_4
 -- name    : SourceTheory.EqualSources.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:16.15063+00:00
 -- url     : https://prove2.me/theorems/25184fce-f9da-4a8e-892d-56965308bc63

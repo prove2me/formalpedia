@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlagshipMEA_Monopoly_index_revenue
 -- name    : FlagshipMEA.Monopoly.index_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:08:38.301982+00:00
 -- url     : https://prove2.me/theorems/409e8c0f-bc09-42ef-9684-2a21bae4ed39

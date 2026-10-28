@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_CoreSelection_equal_totals
 -- name    : MusicStreaming.CoreSelection.equal_totals
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:15:04.46286+00:00
 -- url     : https://prove2.me/theorems/78df580d-6272-493b-a542-d316ec0ce740

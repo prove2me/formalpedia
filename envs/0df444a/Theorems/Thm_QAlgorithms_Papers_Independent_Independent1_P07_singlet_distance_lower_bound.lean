@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_singlet_distance_lower_bound
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.singlet_distance_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:47:51.368749+00:00
 -- url     : https://prove2.me/theorems/2bb708f7-6390-478a-b071-48a383225fa7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_translation_scalar_local_bounds_v2_center_multiplier_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.translation_scalar_local_bounds_v2_center_multiplier_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:34:55.970266+00:00
 -- url     : https://prove2.me/theorems/b1192a8f-1415-47a3-9e09-5535e4d733e9

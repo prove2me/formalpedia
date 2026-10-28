@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SynDigits_Ridge_theorem_4_1
 -- name    : SynDigits.Ridge.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:32.951966+00:00
 -- url     : https://prove2.me/theorems/f17a9814-de23-4041-866b-a374a785ea9c

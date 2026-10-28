@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretMatching_Main_step_M3
 -- name    : RegretMatching.Main.step_M3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:06:39.397738+00:00
 -- url     : https://prove2.me/theorems/19967129-6b5c-4c1e-9a48-7a46b8cd20f2

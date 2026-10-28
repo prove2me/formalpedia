@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_Adversarial_eq_19
 -- name    : FirstPriceLearning.Adversarial.eq_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:54.052928+00:00
 -- url     : https://prove2.me/theorems/fc6b76f2-9a30-4f87-b0ee-3fd327dbaf9c

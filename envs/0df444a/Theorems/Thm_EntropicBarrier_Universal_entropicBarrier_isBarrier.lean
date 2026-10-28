@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropicBarrier_Universal_entropicBarrier_isBarrier
 -- name    : EntropicBarrier.Universal.entropicBarrier_isBarrier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:04:24.794579+00:00
 -- url     : https://prove2.me/theorems/5ef4b0a8-9571-44b9-a554-67969b77440d

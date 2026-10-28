@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.no_odd_target_last
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T14:10:09.362321+00:00
 -- url     : https://prove2.me/submissions/bfc060b9-0af8-4525-ba61-b6f90d70dd71
 

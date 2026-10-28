@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_asymptotic_representatives_of_eventual_weighted_surjectivity
 -- name    : OAI.PiExponent.FormalInterpolation.asymptotic_representatives_of_eventual_weighted_surjectivity
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:03:07.867181+00:00
 -- url     : https://prove2.me/theorems/7d5f46f0-9d87-4bbb-ba6b-af4be37ec5bb
 -- title:

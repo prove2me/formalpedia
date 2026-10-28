@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_LocalSim_randomizer_is_local
 -- name    : PrivLearn.LocalSim.randomizer_is_local
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:51:06.147486+00:00
 -- url     : https://prove2.me/theorems/1f68c796-712e-4ba5-834a-589e550d7e28

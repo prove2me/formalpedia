@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SluggishCapability_Myopic_two_state_feasible
 -- name    : SluggishCapability.Myopic.two_state_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:46.696371+00:00
 -- url     : https://prove2.me/theorems/b01c0592-7b95-4419-bcab-d14623fcde1d

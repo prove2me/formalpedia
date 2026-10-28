@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_effect_trace_bound
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.effect_trace_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:38:53.231991+00:00
 -- url     : https://prove2.me/theorems/34065917-6d43-4d5f-9ad9-1d4702682801

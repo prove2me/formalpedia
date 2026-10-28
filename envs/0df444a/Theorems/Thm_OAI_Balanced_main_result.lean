@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Balanced_main_result
 -- name    : OAI.Balanced.main_result
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:22.730097+00:00
 -- url     : https://prove2.me/theorems/8d39a4f0-945a-4542-949e-dbe71249c443

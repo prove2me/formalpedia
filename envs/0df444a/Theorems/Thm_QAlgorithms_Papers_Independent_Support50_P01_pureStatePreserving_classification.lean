@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P01_pureStatePreserving_classification
 -- name    : QAlgorithms.Papers.Independent.Support50.P01.pureStatePreserving_classification
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:19:24.083283+00:00
 -- url     : https://prove2.me/theorems/9246374c-883c-4971-88d8-fe08989ebf4a

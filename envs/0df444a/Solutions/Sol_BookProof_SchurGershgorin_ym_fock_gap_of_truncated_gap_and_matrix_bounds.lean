@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.SchurGershgorin.ym_fock_gap_of_truncated_gap_and_matrix_bounds
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T06:03:50.990163+00:00
 -- url     : https://prove2.me/submissions/4414cae6-777a-442e-8bd9-0f28d8c0ef93
 

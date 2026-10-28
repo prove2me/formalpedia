@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.SignFlip.flipU_mem_maxDom_inc
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T03:58:08.931233+00:00
 -- url     : https://prove2.me/submissions/3b6de18f-71a1-43ae-be34-b043cb37da39
 

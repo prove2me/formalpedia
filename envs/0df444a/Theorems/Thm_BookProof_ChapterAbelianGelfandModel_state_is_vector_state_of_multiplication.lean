@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianGelfandModel_state_is_vector_state_of_multiplication
 -- name    : BookProof.ChapterAbelianGelfandModel.state_is_vector_state_of_multiplication
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:20:32.723737+00:00
 -- url     : https://prove2.me/theorems/cab8573a-6f90-422a-aeba-797314d7e2a1

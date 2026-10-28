@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P30_hammingWeight_eigenvalues
 -- name    : QAlgorithms.Papers.Independent.Support50.P30.hammingWeight_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:26:46.415746+00:00
 -- url     : https://prove2.me/theorems/bdd9b565-d8b8-4adc-967c-232bc27330b7

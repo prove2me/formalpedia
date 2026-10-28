@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexCost_Complexity_lemma_4_2
 -- name    : NonconvexCost.Complexity.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:09:44.557146+00:00
 -- url     : https://prove2.me/theorems/68e2546d-4ada-405f-9b42-acc02313b9d0

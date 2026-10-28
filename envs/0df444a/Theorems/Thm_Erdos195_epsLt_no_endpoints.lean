@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_epsLt_no_endpoints
 -- name    : Erdos195.epsLt_no_endpoints
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:39:34.48153+00:00
 -- url     : https://prove2.me/theorems/783ba457-049a-45b4-8a74-130cecad73dd
 -- title:

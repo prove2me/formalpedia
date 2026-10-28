@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterimTesting_NotProficient_corollary_A1
 -- name    : InterimTesting.NotProficient.corollary_A1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:37.533954+00:00
 -- url     : https://prove2.me/theorems/44074810-76de-470b-8fa4-68c6648b04d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CurrentProjection_twoLabelComparisonMain
 -- name    : OAI.CurrentProjection.twoLabelComparisonMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:33.471804+00:00
 -- url     : https://prove2.me/theorems/029f3372-d08e-48c8-95a2-2bf3baacbbc9

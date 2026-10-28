@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Asymptotic_allocation_113_123
 -- name    : InfoRelaxTS.Asymptotic.allocation_113_123
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:22:33.304709+00:00
 -- url     : https://prove2.me/theorems/b8a25958-abc6-426d-81ad-0a1fd8ec54dc

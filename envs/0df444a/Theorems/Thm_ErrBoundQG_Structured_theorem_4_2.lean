@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErrBoundQG_Structured_theorem_4_2
 -- name    : ErrBoundQG.Structured.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:28.98136+00:00
 -- url     : https://prove2.me/theorems/e0934d15-00e3-41c8-b8c9-9e6848032592

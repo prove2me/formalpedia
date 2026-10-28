@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P12_corollary_3_3
 -- name    : QAlgorithms.Papers.Independent.Support50.P12.corollary_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:22:25.969977+00:00
 -- url     : https://prove2.me/theorems/066ca148-2ffc-4d2e-957b-4c70af6aeeff

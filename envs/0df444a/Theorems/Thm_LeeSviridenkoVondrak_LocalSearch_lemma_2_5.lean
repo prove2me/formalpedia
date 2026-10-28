@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeeSviridenkoVondrak_LocalSearch_lemma_2_5
 -- name    : LeeSviridenkoVondrak.LocalSearch.lemma_2_5
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:50:20.910822+00:00
 -- url     : https://prove2.me/theorems/749f15da-ed2a-4db6-8ede-e792e4f2766f

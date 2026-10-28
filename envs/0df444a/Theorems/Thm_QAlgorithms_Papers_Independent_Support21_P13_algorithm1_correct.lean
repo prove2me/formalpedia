@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_algorithm1_correct
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.algorithm1_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:21:35.312448+00:00
 -- url     : https://prove2.me/theorems/ef757984-f527-463d-89df-5c72e6ffdd81

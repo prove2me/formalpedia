@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Tree_lumpable_drift_criterion
 -- name    : MatrixAnalytic.Tree.lumpable_drift_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:03.335059+00:00
 -- url     : https://prove2.me/theorems/ba83df76-1619-4ba8-b026-fa79986938f3

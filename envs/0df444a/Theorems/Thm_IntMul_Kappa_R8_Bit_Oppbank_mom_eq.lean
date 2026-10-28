@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_mom_eq
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.mom_eq
--- status  : Open
--- author  : @Ethan Cheung
+-- status  : Disproved
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:35:06.224072+00:00
 -- url     : https://prove2.me/theorems/c9ba878b-4237-4dfe-b46d-64444d96c1a1
 -- title:

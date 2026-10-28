@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateRelease_VCLowerBound_lemma_3_12
 -- name    : PrivateRelease.VCLowerBound.lemma_3_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:34.41669+00:00
 -- url     : https://prove2.me/theorems/1b26d3fa-9059-4a25-bac9-75553be92ffb

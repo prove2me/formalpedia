@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P07_logarithmic_negativity_deterministic
 -- name    : QAlgorithms.Papers.Independent.Independent1.P07.logarithmic_negativity_deterministic
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:47:45.122002+00:00
 -- url     : https://prove2.me/theorems/0704ef7c-ee34-45ce-b43f-226da068aa41

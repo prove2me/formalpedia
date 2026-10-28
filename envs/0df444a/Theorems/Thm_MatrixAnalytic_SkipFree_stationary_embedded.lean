@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_SkipFree_stationary_embedded
 -- name    : MatrixAnalytic.SkipFree.stationary_embedded
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:45.296555+00:00
 -- url     : https://prove2.me/theorems/fa3582c5-d235-4ec4-afa8-35d097e9e2c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P24_specifiedCircuitOutput
 -- name    : QAlgorithms.Papers.Independent.Support50.P24.specifiedCircuitOutput
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:00:49.314815+00:00
 -- url     : https://prove2.me/theorems/bfb2bef1-ec47-4e5b-ae9c-98ca209d7942

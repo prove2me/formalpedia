@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P40_coherentInformation_identity
 -- name    : QAlgorithms.Papers.Independent.Support50.P40.coherentInformation_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:05:33.995836+00:00
 -- url     : https://prove2.me/theorems/17708afa-bcd5-4ba5-9ea1-8c63fd21582c

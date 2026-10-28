@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.weightedIdealCurveBound_asymptotic_representatives
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:04:15.842947+00:00
 -- url     : https://prove2.me/submissions/5b0db196-a6e2-4197-b332-e56a2b908728
 -- note    : a sketch -- it imports a theorem that is still Open,

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_translation_scalar_estimate
 -- name    : OAI.PiExponent.DeterminantContradiction.translation_scalar_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T22:58:44.397945+00:00
 -- url     : https://prove2.me/theorems/d8fb5947-6ff0-49fb-b0d8-5714205653e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CPDNetworks_Lower_eq_25
 -- name    : CPDNetworks.Lower.eq_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:53.857994+00:00
 -- url     : https://prove2.me/theorems/7ab44166-1b7a-4e13-8829-d5c95c229aeb

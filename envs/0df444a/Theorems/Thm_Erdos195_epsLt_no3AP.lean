@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_epsLt_no3AP
 -- name    : Erdos195.epsLt_no3AP
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T13:36:18.429339+00:00
 -- url     : https://prove2.me/theorems/95cc3021-0667-4b17-a320-b7b2ac25866e
 -- title:

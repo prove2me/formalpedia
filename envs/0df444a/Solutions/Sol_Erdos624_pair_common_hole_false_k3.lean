@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.pair_common_hole_false_k3
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:51.091663+00:00
 -- url     : https://prove2.me/submissions/ba9ece48-d441-4b97-bf1b-be1039483678
 

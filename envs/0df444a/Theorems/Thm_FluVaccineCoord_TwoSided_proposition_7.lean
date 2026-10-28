@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FluVaccineCoord_TwoSided_proposition_7
 -- name    : FluVaccineCoord.TwoSided.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:48:46.622618+00:00
 -- url     : https://prove2.me/theorems/49b94282-4576-430f-8b15-ef5d7f4bde74

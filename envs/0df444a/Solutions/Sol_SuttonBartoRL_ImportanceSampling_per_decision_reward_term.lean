@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SuttonBartoRL.ImportanceSampling.per_decision_reward_term
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:24:33.265422+00:00
 -- url     : https://prove2.me/submissions/dbad2591-a812-4f9a-9992-132cc783d310
 

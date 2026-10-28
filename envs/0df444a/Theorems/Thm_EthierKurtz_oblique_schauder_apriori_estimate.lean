@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_schauder_apriori_estimate
 -- name    : EthierKurtz.oblique_schauder_apriori_estimate
--- status  : Open
+-- status  : Disproved
 -- author  : @caleb
 -- created : 2026-10-07T13:30:36.059627+00:00
 -- url     : https://prove2.me/theorems/9877ba46-a83c-487e-aaae-b1ab665e0f36

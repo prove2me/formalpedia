@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IRLSM_Convergence_lemma_6_10
 -- name    : IRLSM.Convergence.lemma_6_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:51:56.700488+00:00
 -- url     : https://prove2.me/theorems/c764891f-d9e7-400a-b747-f747e2df9d3c

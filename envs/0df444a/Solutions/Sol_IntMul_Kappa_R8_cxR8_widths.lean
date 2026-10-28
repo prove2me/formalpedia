@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.cxR8_widths
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:06:07.725125+00:00
 -- url     : https://prove2.me/submissions/734da620-9ddf-408e-af99-adc3a2a69b1a
 

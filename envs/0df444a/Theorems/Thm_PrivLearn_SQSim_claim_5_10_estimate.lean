@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_SQSim_claim_5_10_estimate
 -- name    : PrivLearn.SQSim.claim_5_10_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:47:21.372674+00:00
 -- url     : https://prove2.me/theorems/039d1872-d77d-42d3-b214-9111debfc287

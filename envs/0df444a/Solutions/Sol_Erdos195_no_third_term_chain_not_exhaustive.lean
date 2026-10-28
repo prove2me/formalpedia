@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.no_third_term_chain_not_exhaustive
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:49.921739+00:00
 -- url     : https://prove2.me/submissions/29e175fa-3186-4ab1-a619-cf6bbbcf2d94
 

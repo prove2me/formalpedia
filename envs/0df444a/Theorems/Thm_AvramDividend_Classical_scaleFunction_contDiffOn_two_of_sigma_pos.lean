@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiffOn_two_of_sigma_pos
 -- name    : AvramDividend.Classical.scaleFunction_contDiffOn_two_of_sigma_pos
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:13:56.669016+00:00
 -- url     : https://prove2.me/theorems/f596d402-a449-4fb9-9bc5-65612928538b

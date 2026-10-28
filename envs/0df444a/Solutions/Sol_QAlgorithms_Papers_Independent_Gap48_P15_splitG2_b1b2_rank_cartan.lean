@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P15.splitG2_b1b2_rank_cartan
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T01:02:12.842995+00:00
 -- url     : https://prove2.me/submissions/6514db31-7937-4f65-aaf7-708ce7126c09
 

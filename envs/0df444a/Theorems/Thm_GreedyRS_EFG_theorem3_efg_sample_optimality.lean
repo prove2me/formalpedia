@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_EFG_theorem3_efg_sample_optimality
 -- name    : GreedyRS.EFG.theorem3_efg_sample_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:38.074373+00:00
 -- url     : https://prove2.me/theorems/90bd3c22-6237-45db-80c0-f48331e69811

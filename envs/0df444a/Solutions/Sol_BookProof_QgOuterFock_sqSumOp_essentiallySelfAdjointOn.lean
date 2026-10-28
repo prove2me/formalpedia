@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgOuterFock.sqSumOp_essentiallySelfAdjointOn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T02:29:01.113384+00:00
 -- url     : https://prove2.me/submissions/6457d030-f9be-4f54-83e9-d2218bf1a3fd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgOuterFockEsa.lean — solution of BookProof.QgOuterFock.sqSumOp_essentiallySelfAdjointOn
 import Mathlib

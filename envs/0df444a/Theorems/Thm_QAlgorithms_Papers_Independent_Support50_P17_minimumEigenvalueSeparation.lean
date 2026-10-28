@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P17_minimumEigenvalueSeparation
 -- name    : QAlgorithms.Papers.Independent.Support50.P17.minimumEigenvalueSeparation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:00:09.360155+00:00
 -- url     : https://prove2.me/theorems/d8adc30a-8ce6-4c85-ab36-ea1a0aeeaf5b

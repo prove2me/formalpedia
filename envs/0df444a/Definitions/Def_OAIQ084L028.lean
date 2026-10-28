@@ -1,0 +1,223 @@
+-- Prove2me | Definitions.Def_OAIQ084L028
+-- name    : OAIQ084L028
+-- status  : Definition
+-- author  : @dbenbenn
+-- created : 2026-10-28T17:33:21.445013+00:00
+-- url     : https://prove2.me/theorems/0319de20-fc34-46a8-916f-d63a7326d7a9
+-- title:
+--   Definitions bundle OAIQ084L028 of the split of OpenAI, A Fock-space inequality and the Laughlin spectral gap
+-- statement:
+--   A definitions bundle of the split of OpenAI's proof of `OAI.LaughlinFock.thm_fock`, carved from OpenAI's openai/math development (OpenAI, *A Fock-space inequality and the Laughlin spectral gap*, OpenAI Math Release, September 24, 2026, result family 269, [github.com/openai/math](https://github.com/openai/math) at commit 7ef5c0c, Apache License 2.0) and ported to Lean 4.33.1 and Mathlib 0df444a. The declarations and their proofs are OpenAI's.
+--
+--   **Contents.** It holds 8 declarations of OpenAI's Lean: 8 definitions. The definitions and types are `OAI.LaughlinFock.fourPivotData_15`, `OAI.LaughlinFock.fourPivotData_17`, `OAI.LaughlinFock.fourPivotData_5`, `OAI.LaughlinFock.fourPivotData_7`, `OAI.LaughlinFock.fourPivotData_8`, `OAI.LaughlinFock.fourYData_17`, `OAI.LaughlinFock.fourZData_6`, `OAI.LaughlinFock.integerFourTrace`.
+--
+--   **Sources.** They come from these modules of lean/OAI/Analysis, in whole or in part: [`LaughlinFock_Certificate05Data`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/Certificate05Data.lean), [`LaughlinFock_Certificate06`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/Certificate06.lean), [`LaughlinFock_Certificate07Data`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/Certificate07Data.lean), [`LaughlinFock_Certificate08Data`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/Certificate08Data.lean), [`LaughlinFock_Certificate15Data`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/Certificate15Data.lean), [`LaughlinFock_Certificate17Data`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/Certificate17Data.lean), [`LaughlinFock_IntegerFour`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/LaughlinFock/IntegerFour.lean).
+--
+--   **Imports.** It imports the bundles `OAIQ084L007`, `OAIQ084L012` and `OAIQ084L018` of this split.
+--
+--   **Imported by** (directly, in this split): the bundle `OAIQ084L043`.
+-- source:
+--   OpenAI, A Fock-space inequality and the Laughlin spectral gap, OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 269; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026.pdf; Apache License 2.0); definitions carved from lean/OAI/Analysis at commit 7ef5c0c
+
+import Mathlib
+import Definitions.Def_OAIQ084L007
+import Definitions.Def_OAIQ084L012
+import Definitions.Def_OAIQ084L018
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_IntegerFour
+attribute [-instance] _root_.OAI.LaughlinFock.instFintypeFockRotationSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Integer Four. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexOrder
+
+def integerFourTrace (D t : ℕ) (a : RowEntry t → ℚ) :
+    Matrix (CopyLabel D) (CopyLabel D) ℚ := fun r s =>
+  -(∑ b : RowEntry t, ∑ c : RowEntry t, if D ≤ rowFourLevel b c then
+    a b*a c*rationalFourFactor D b c *
+      (integerCopyPolynomial D (rowFourLevel b c) r.val.val (rowP b) (rowJ b) (rowI c) : ℚ) *
+      (integerCopyPolynomial D (rowFourLevel b c) s.val.val (rowP c) (rowJ c) (rowI b) : ℚ)
+    else 0)
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_Certificate05Data
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Certificate05 Data. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexOrder
+
+
+
+def fourPivotData_5 : CopyLabel 5 → ℚ :=
+  copyDiagonalData 5 [(1888290710477919674814730887537/18790481920000000000000000000), 0, 0]
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_Certificate06
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Certificate06. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexOrder
+
+ 
+
+def fourZData_6 : Matrix (CopyLabel 6) (CopyLabel 6) ℚ :=
+  copyMatrixData 6 [
+    [0, 0, 0],
+    [0, 0, 0],
+    [0, 0, 0]
+  ]
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_Certificate07Data
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Certificate07 Data. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexOrder
+
+
+
+def fourPivotData_7 : CopyLabel 7 → ℚ :=
+  copyDiagonalData 7 [(48465284516682192798125037847983/15032385536000000000000000000), 0, 0, 0]
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_Certificate08Data
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Certificate08 Data. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexOrder
+
+
+
+def fourPivotData_8 : CopyLabel 8 → ℚ :=
+  copyDiagonalData 8 [0, (6175145290577572637607316298463/120259084288000000000000000000), 0, 0]
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_Certificate15Data
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Certificate15 Data. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexOrder
+
+
+
+def fourPivotData_15 : CopyLabel 15 → ℚ :=
+  copyDiagonalData 15 [(231881454488466934430035821347460177/671088640000000000000000), (39302368569002212177261262755724429614412769622037191051602729/1999196918486441165722419485084745728000000000000000000), (3953123032199623161575201625415788658969185578951410974500453602054374900149051416983/7475249994827750208887330019448627601693701879707924523642781696000000000000000), (911903394894658426752892843018866227061590664692990091636114890420843354292133766249799591420238615867266831/26653484674715483900925145444778716620802936841785974241240918442822583688906196878950400000000000000000), (162108513660461990130482535809420900589792904998602621403248683009437560448720649909678006322786899622980548102029237636780043/5782010667906644622771527532948454560286225202244092385955741843313235017809393536381858541938431606177688190976000000000000000), 0, 0, 0]
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ084_LF.LaughlinFock_Certificate17Data
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Certificate17 Data. -/
+noncomputable section
+namespace LaughlinFock
+open scoped BigOperators Matrix ComplexOrder
+
+ 
+
+def fourYData_17 : Matrix (CopyLabel 17) (CopyLabel 17) ℚ :=
+  copyMatrixData 17 [
+    [(-80532574708892899999366914086133/3355443200000000000000), (52168314199581417516891452106867/167772160000000000000000), (3416941451122696842894790053813/16777216000000000000000), (-1780399758192138186776437952187/26843545600000000000000), (-147580447016100579129054473067/33554432000000000000000), (484754681413657976207114779551/13421772800000000000000), (-8998787136844095341470376163507/167772160000000000000000), (13585035090756473170103083369563/134217728000000000000000), 0],
+    [(52168314199581417516891452106867/167772160000000000000000), (-1936359965196807219209198649591/335544320000000000000000), (-42279505429943443249978853463/33554432000000000000000), (80383774372540182022310744913/268435456000000000000000), (7501433511302274776260777749/67108864000000000000000), (-213828608195027061344135968941/671088640000000000000000), (277309144397718714739016580021/335544320000000000000000), (-255854381753090751185768626413/268435456000000000000000), 0],
+    [(3416941451122696842894790053813/16777216000000000000000), (-42279505429943443249978853463/33554432000000000000000), (-6128074571331463431937198371/2684354560000000000000), (10281592378696087538598060783/13421772800000000000000), (-251301453661421637165143991/33554432000000000000000), (-2988845641835365468393449333/8388608000000000000000), (1478457672704508300479559027/2684354560000000000000), (-9486946401639002079898757643/13421772800000000000000), 0],
+    [(-1780399758192138186776437952187/26843545600000000000000), (80383774372540182022310744913/268435456000000000000000), (10281592378696087538598060783/13421772800000000000000), (-56338902649996905268880020737/214748364800000000000000), (3801942718922194741310789331/268435456000000000000000), (12371464740075924792908192517/107374182400000000000000), (-57128772289770289745633735739/268435456000000000000000), (34846908517875080159788075821/214748364800000000000000), 0],
+    [(-147580447016100579129054473067/33554432000000000000000), (7501433511302274776260777749/67108864000000000000000), (-251301453661421637165143991/33554432000000000000000), (3801942718922194741310789331/268435456000000000000000), (-880826387722113202317841761/67108864000000000000000), (778359374321012227957500441/134217728000000000000000), (1542736257700531168437068907/335544320000000000000000), (11878850604017989335381270633/268435456000000000000000), 0],
+    [(484754681413657976207114779551/13421772800000000000000), (-213828608195027061344135968941/671088640000000000000000), (-2988845641835365468393449333/8388608000000000000000), (12371464740075924792908192517/107374182400000000000000), (778359374321012227957500441/134217728000000000000000), (-3469951889789090759165765169/53687091200000000000000), (67600551228997897843877987271/671088640000000000000000), (-55816204555305340589721547269/536870912000000000000000), 0],
+    [(-8998787136844095341470376163507/167772160000000000000000), (277309144397718714739016580021/335544320000000000000000), (1478457672704508300479559027/2684354560000000000000), (-57128772289770289745633735739/268435456000000000000000), (1542736257700531168437068907/335544320000000000000000), (67600551228997897843877987271/671088640000000000000000), (-5335051448812934030171092389/41943040000000000000000), (49207289089932048557142307647/268435456000000000000000), 0],
+    [(13585035090756473170103083369563/134217728000000000000000), (-255854381753090751185768626413/268435456000000000000000), (-9486946401639002079898757643/13421772800000000000000), (34846908517875080159788075821/214748364800000000000000), (11878850604017989335381270633/268435456000000000000000), (-55816204555305340589721547269/536870912000000000000000), (49207289089932048557142307647/268435456000000000000000), (-25213653324476267050918226709/42949672960000000000000), 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ]
+
+def fourPivotData_17 : CopyLabel 17 → ℚ :=
+  copyDiagonalData 17 [(87864290511903174234701328423209379/1048576000000000000000), (108956839769244464109951226932843923884459865903584621576029/8161979382687673691517327679003033600000000000000000), (22280857632646990548931578267011121005719083579013211192210278088007629542251342471/3099973605151954502741994783132105557755294759183751136988364800000000000000), (48335279771787056280416023736414754978437769599092946044435729657953403357310568734552653655390132345589/72836926590006393446304023609270025002160162685332824975318258375142437195709389209600000000000000), (11775271456121018333847960388467241246294586509040458004488292887422983039950031295099869137139838481705205221233769770794607/3547158136808976815199288409159516679003272773378298829224422584881312664734699960905509599350127615016960000000000000000), (22296391454799418208944267100323807615506431152732876070624896007485482989797570438567739119199486707179791568451405742005633419/46819351485589295103347792563859343258446606702913533246618746014963188656965866238101369348021225026034134044065906291428556800), 0, 0, 0]
+
+end LaughlinFock
+end
+
+end OAI
+end
+
+

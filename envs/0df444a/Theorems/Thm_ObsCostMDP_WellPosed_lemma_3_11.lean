@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObsCostMDP_WellPosed_lemma_3_11
 -- name    : ObsCostMDP.WellPosed.lemma_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:51:37.560235+00:00
 -- url     : https://prove2.me/theorems/af453458-9479-4382-baaf-b532f9d57f31

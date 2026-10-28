@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_MeanVariance_mv_eq_mveq
 -- name    : MDPFinance.MeanVariance.mv_eq_mveq
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:07:00.070982+00:00
 -- url     : https://prove2.me/theorems/764d5558-56ac-4e3c-b035-899991ae2db1

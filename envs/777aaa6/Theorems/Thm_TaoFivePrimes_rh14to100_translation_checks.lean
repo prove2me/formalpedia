@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh14to100_translation_checks
 -- name    : TaoFivePrimes.rh14to100_translation_checks
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:51:56.585669+00:00
 -- url     : https://prove2.me/theorems/0672202d-f1cc-4624-be5a-fe85ab389ccb
 -- title:

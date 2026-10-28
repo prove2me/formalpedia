@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMultitask_Estimator_eq_19_lasso_cone
 -- name    : RobustMultitask.Estimator.eq_19_lasso_cone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:34:26.41798+00:00
 -- url     : https://prove2.me/theorems/8df9fbd9-c971-47cb-84e2-6cb3b7f84f86

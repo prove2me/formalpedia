@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_Robust_lemma_3_14
 -- name    : ChanceStateCtrl.Robust.lemma_3_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:18.988983+00:00
 -- url     : https://prove2.me/theorems/a82a3b09-0c64-4b45-b0cb-7642237e7dad

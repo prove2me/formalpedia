@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.recovery
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:14:23.927806+00:00
 -- url     : https://prove2.me/submissions/0f67c2c7-263f-4fa0-9d7d-cbfd3803ed9a
 

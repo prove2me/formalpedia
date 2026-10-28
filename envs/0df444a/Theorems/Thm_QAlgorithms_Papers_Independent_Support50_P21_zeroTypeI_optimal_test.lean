@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_zeroTypeI_optimal_test
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.zeroTypeI_optimal_test
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:50:40.825538+00:00
 -- url     : https://prove2.me/theorems/c2cee9c5-949f-4be6-b74d-404dd5763ac8

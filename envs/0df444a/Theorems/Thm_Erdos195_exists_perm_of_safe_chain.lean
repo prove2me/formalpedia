@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_exists_perm_of_safe_chain
 -- name    : Erdos195.exists_perm_of_safe_chain
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:13:40.545494+00:00
 -- url     : https://prove2.me/theorems/870d2a30-0418-4a5d-aa95-b17b37a84f5d
 -- title:

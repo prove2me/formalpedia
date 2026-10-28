@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchalAvg_AvgOpt_eq_2_2
 -- name    : SchalAvg.AvgOpt.eq_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:50:50.378327+00:00
 -- url     : https://prove2.me/theorems/9a9d065e-6bbe-4887-b25f-96ace3ab2911

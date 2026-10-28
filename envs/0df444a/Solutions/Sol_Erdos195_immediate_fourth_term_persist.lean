@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.immediate_fourth_term_persist
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:38:11.772181+00:00
 -- url     : https://prove2.me/submissions/b7f2e7c4-6877-4de5-8427-1e5f3407a007
 

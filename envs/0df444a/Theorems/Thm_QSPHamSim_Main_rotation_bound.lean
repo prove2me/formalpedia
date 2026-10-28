@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSPHamSim_Main_rotation_bound
 -- name    : QSPHamSim.Main.rotation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:16.227181+00:00
 -- url     : https://prove2.me/theorems/71c1c79f-9dce-406c-9e65-4b6bb7983620

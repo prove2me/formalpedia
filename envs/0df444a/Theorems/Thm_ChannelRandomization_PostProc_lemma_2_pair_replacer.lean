@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRandomization_PostProc_lemma_2_pair_replacer
 -- name    : ChannelRandomization.PostProc.lemma_2_pair_replacer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:28:31.327822+00:00
 -- url     : https://prove2.me/theorems/a03c483c-f898-4742-8063-984df6dfaa26

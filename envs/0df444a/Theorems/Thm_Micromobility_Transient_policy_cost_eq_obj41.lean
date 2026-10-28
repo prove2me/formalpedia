@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Micromobility_Transient_policy_cost_eq_obj41
 -- name    : Micromobility.Transient.policy_cost_eq_obj41
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:17.957754+00:00
 -- url     : https://prove2.me/theorems/8f98a5c0-cca0-4bc4-a2b3-f2fa6b89c681

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CriticalStrip_critical_strip_mass
 -- name    : OAI.CriticalStrip.critical_strip_mass
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:30.874288+00:00
 -- url     : https://prove2.me/theorems/1b3771ec-4d40-4ec9-a192-0552ed9e326b

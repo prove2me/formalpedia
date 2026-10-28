@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P38_lemma6
 -- name    : QAlgorithms.Papers.Independent.Support50.P38.lemma6
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:59:20.23578+00:00
 -- url     : https://prove2.me/theorems/f05fc8b1-d83e-4edd-8fbd-6874dd34de3c

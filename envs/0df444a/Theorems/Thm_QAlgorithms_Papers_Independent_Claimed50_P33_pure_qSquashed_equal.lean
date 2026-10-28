@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P33_pure_qSquashed_equal
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P33.pure_qSquashed_equal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:47:29.766791+00:00
 -- url     : https://prove2.me/theorems/1ed9a9d5-6edf-4299-acd2-00fff4dbdf59

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.reflection_only_obstruction
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:12:24.580367+00:00
 -- url     : https://prove2.me/submissions/720f2f53-77a1-4e0a-adc5-4f6b1b9633ca
 

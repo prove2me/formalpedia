@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Card_local_sign
 -- name    : MartOT.Card.local_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:18:56.87096+00:00
 -- url     : https://prove2.me/theorems/c6f777c7-c4ec-496b-9a86-b03b62efeb0a

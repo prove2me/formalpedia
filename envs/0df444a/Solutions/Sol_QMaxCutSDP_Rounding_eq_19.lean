@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QMaxCutSDP.Rounding.eq_19
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T20:52:07.921837+00:00
 -- url     : https://prove2.me/submissions/130c4c4d-e787-4d41-a8d6-757cfe7b841e
 

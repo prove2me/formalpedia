@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsD_zero_m_integral_and_convex_extension
 -- name    : DiscreteConvex.MConvexFunctionsD.zero_m_integral_and_convex_extension
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:59:46.27754+00:00
 -- url     : https://prove2.me/theorems/3c062546-fb17-4ab6-874f-078fd4ffa260

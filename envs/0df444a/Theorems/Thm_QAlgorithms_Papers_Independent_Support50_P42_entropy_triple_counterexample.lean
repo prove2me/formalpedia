@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P42_entropy_triple_counterexample
 -- name    : QAlgorithms.Papers.Independent.Support50.P42.entropy_triple_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:25:30.636875+00:00
 -- url     : https://prove2.me/theorems/9cfff6db-cfea-4b77-9305-d8624475f9ad

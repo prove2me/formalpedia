@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolarTariff_Fair_lemma_1
 -- name    : SolarTariff.Fair.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:25.009664+00:00
 -- url     : https://prove2.me/theorems/1ab601dc-c196-49b6-9017-afa184f907a0

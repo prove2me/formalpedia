@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_immediate_fourth_term_persist
 -- name    : Erdos195.immediate_fourth_term_persist
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:37:53.048414+00:00
 -- url     : https://prove2.me/theorems/518d50e6-84f5-49e0-8e9f-085362489062
 -- title:

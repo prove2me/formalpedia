@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussMagnetism_gauss_law_magnetism_iff_vector_potential
 -- name    : GaussMagnetism.gauss_law_magnetism_iff_vector_potential
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T20:12:37.828526+00:00
 -- url     : https://prove2.me/theorems/99dcd406-c043-4161-a94f-16579d3388cb

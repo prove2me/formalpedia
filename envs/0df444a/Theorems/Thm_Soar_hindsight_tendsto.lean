@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Soar_hindsight_tendsto
 -- name    : Soar.hindsight_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-22T18:59:12.46854+00:00
 -- url     : https://prove2.me/theorems/7142cecd-d2b5-49e4-b385-02e96dce1c43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_scalar_field_limiting_cases
 -- name    : CosmologyEOS.scalar_field_limiting_cases
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:38:14.51677+00:00
 -- url     : https://prove2.me/theorems/16f7dcaa-0794-4449-9f07-9744e377b438

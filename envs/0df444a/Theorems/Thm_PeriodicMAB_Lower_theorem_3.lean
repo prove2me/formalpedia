@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicMAB_Lower_theorem_3
 -- name    : PeriodicMAB.Lower.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:22.647527+00:00
 -- url     : https://prove2.me/theorems/d803a2af-6a47-4e42-8373-7cbd86a3068a

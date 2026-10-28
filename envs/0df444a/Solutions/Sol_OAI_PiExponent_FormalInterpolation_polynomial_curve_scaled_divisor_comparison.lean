@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.polynomial_curve_scaled_divisor_comparison
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:37:02.30646+00:00
 -- url     : https://prove2.me/submissions/98030e27-b025-4c23-8e42-a29362a4a589
 

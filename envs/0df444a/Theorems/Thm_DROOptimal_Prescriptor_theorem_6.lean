@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROOptimal_Prescriptor_theorem_6
 -- name    : DROOptimal.Prescriptor.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:12:53.802182+00:00
 -- url     : https://prove2.me/theorems/1e792614-2823-447b-8e22-29ad666a4223

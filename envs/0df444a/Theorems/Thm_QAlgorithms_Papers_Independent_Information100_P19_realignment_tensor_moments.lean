@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_realignment_tensor_moments
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.realignment_tensor_moments
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:51:48.746829+00:00
 -- url     : https://prove2.me/theorems/1dea19c1-8329-4bae-b3cf-dd306404aa74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuityEqWiki_electron_continuity_product_rule
 -- name    : ContinuityEqWiki.electron_continuity_product_rule
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:30.774414+00:00
 -- url     : https://prove2.me/theorems/c6965398-c71b-4e68-9921-95009cf37292

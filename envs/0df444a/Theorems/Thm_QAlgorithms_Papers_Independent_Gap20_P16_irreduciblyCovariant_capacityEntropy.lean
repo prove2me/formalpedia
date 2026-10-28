@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P16_irreduciblyCovariant_capacityEntropy
 -- name    : QAlgorithms.Papers.Independent.Gap20.P16.irreduciblyCovariant_capacityEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:34:30.53345+00:00
 -- url     : https://prove2.me/theorems/6adcac3e-7ae9-4ee5-b588-7c104342ab2a

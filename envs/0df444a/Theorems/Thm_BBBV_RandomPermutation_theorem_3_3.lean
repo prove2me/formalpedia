@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBBV_RandomPermutation_theorem_3_3
 -- name    : BBBV.RandomPermutation.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:06:26.931634+00:00
 -- url     : https://prove2.me/theorems/b745355f-83a0-416e-8692-6464554581f3

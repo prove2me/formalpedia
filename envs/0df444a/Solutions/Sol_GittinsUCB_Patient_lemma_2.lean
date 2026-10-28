@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GittinsUCB.Patient.lemma_2
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T06:08:55.379711+00:00
 -- url     : https://prove2.me/submissions/33c5732b-00ae-4786-bbfa-fb14f102e0c4
 

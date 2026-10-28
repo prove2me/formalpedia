@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_conditional_absorption_iff
 -- name    : Erdos195.conditional_absorption_iff
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:37:52.503034+00:00
 -- url     : https://prove2.me/theorems/e8c190e4-be08-49ca-9f5b-109486d44d97
 -- title:

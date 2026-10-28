@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_Shops_theorem_10_2_equivalence
 -- name    : TwoAgentSched.Shops.theorem_10_2_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:54.667132+00:00
 -- url     : https://prove2.me/theorems/195626a7-c739-44a2-a47c-4c5f3a7db9b8

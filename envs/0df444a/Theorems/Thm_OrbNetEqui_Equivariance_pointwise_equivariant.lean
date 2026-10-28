@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrbNetEqui_Equivariance_pointwise_equivariant
 -- name    : OrbNetEqui.Equivariance.pointwise_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:38:58.096588+00:00
 -- url     : https://prove2.me/theorems/f7f15f89-5492-4610-b466-89fc22a676d4

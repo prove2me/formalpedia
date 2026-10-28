@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_monoid_compression
 -- name    : Erdos624.monoid_compression
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:35.637174+00:00
 -- url     : https://prove2.me/theorems/ca841cb8-254b-481f-9523-e444a734ba8b
 -- title:

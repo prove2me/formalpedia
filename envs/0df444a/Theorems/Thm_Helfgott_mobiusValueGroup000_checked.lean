@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Helfgott_mobiusValueGroup000_checked
 -- name    : Helfgott.mobiusValueGroup000_checked
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-08T21:20:55.251969+00:00
 -- url     : https://prove2.me/theorems/a924cbfe-06dc-461e-9005-908b6d210f77

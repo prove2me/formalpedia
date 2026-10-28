@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.sink_step_inherits
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T00:34:48.718706+00:00
 -- url     : https://prove2.me/submissions/87ba7a9f-000a-4bc7-97c0-282d01f3163c
 

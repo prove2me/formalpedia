@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Tree_matrix_product_form
 -- name    : MatrixAnalytic.Tree.matrix_product_form
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:59.748369+00:00
 -- url     : https://prove2.me/theorems/6ac33e4a-fb82-44d5-85e1-8d8b54ea44ef

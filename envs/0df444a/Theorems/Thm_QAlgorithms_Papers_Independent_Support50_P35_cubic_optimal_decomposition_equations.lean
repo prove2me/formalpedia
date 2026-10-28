@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P35_cubic_optimal_decomposition_equations
 -- name    : QAlgorithms.Papers.Independent.Support50.P35.cubic_optimal_decomposition_equations
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:39:44.99071+00:00
 -- url     : https://prove2.me/theorems/c45f8331-ced1-4361-ac9b-3ffd7fd48545

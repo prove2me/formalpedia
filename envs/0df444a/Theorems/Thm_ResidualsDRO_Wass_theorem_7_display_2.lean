@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResidualsDRO_Wass_theorem_7_display_2
 -- name    : ResidualsDRO.Wass.theorem_7_display_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:14:13.586502+00:00
 -- url     : https://prove2.me/theorems/8a594219-600f-4cee-a0a6-3bb03d07a021

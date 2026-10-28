@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R6.Leaf.p18IL6_all
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:18:19.258353+00:00
 -- url     : https://prove2.me/submissions/d770cf67-6fcd-4b65-ab0e-65eab9c83955
 

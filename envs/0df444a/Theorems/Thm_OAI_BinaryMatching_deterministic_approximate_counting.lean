@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BinaryMatching_deterministic_approximate_counting
 -- name    : OAI.BinaryMatching.deterministic_approximate_counting
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:23.428479+00:00
 -- url     : https://prove2.me/theorems/e20b9209-bbf3-45fa-87a7-fa6361570245

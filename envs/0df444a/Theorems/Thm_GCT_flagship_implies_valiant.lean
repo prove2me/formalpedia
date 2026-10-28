@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GCT_flagship_implies_valiant
 -- name    : GCT.flagship_implies_valiant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-14T16:34:29.975779+00:00
 -- url     : https://prove2.me/theorems/a68a61af-9f2b-4771-aba4-6ab56ec33ac4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_psd_cubic_moments
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.psd_cubic_moments
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:46:11.405493+00:00
 -- url     : https://prove2.me/theorems/3a121c76-41e9-4ee1-a5f3-e84fc57e6547

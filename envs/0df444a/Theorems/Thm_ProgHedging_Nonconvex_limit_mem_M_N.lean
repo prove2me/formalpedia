@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProgHedging_Nonconvex_limit_mem_M_N
 -- name    : ProgHedging.Nonconvex.limit_mem_M_N
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:40:18.409976+00:00
 -- url     : https://prove2.me/theorems/30463c3c-cc11-4dce-b4a8-2f3f770adffd

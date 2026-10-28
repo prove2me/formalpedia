@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpNodal_Main
 -- name    : OAI.SharpNodal.Main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:20.450304+00:00
 -- url     : https://prove2.me/theorems/5caadd3a-d622-49b4-8d0a-21d6d57d0e7a

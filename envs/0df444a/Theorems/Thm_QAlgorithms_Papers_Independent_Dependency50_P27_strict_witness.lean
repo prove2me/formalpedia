@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_strict_witness
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.strict_witness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:58:26.338436+00:00
 -- url     : https://prove2.me/theorems/72d3c140-fecd-4fbf-8e36-496988c54322

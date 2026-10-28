@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P01_cloner_capacity_positive
 -- name    : QAlgorithms.Papers.Independent.Support50.P01.cloner_capacity_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:17:55.123988+00:00
 -- url     : https://prove2.me/theorems/fe83f9a6-5c7c-49a5-84d4-3aeef005cd70

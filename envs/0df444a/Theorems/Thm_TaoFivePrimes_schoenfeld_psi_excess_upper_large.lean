@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_schoenfeld_psi_excess_upper_large
 -- name    : TaoFivePrimes.schoenfeld_psi_excess_upper_large
--- status  : Open
+-- status  : Proved
 -- author  : @cm_beta
 -- created : 2026-09-20T19:15:36.156239+00:00
 -- url     : https://prove2.me/theorems/6a65fcdf-3229-40ae-b148-713c741ec80a

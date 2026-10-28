@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Matroid_chain_selectable
 -- name    : OnlineCRS.Matroid.chain_selectable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:23:44.09246+00:00
 -- url     : https://prove2.me/theorems/2a62c55c-f865-4bdc-8487-7bf334205c7b

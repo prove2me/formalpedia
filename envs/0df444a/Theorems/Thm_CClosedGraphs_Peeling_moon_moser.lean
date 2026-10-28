@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Peeling_moon_moser
 -- name    : CClosedGraphs.Peeling.moon_moser
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:20:21.12158+00:00
 -- url     : https://prove2.me/theorems/a075d2b3-bc9f-4815-9653-18fb3ffdfe99

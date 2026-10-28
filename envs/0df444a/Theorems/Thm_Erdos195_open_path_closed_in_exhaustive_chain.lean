@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_open_path_closed_in_exhaustive_chain
 -- name    : Erdos195.open_path_closed_in_exhaustive_chain
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T22:32:33.909618+00:00
 -- url     : https://prove2.me/theorems/bb920c14-8083-4694-ab72-4aac3ca0d363
 -- title:

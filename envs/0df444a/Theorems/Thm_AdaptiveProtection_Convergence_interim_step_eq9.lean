@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveProtection_Convergence_interim_step_eq9
 -- name    : AdaptiveProtection.Convergence.interim_step_eq9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:05:40.938989+00:00
 -- url     : https://prove2.me/theorems/cc0a0c86-6a05-4296-b9fe-e8ea94a2164f

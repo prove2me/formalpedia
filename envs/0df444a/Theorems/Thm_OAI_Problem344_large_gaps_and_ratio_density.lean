@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem344_large_gaps_and_ratio_density
 -- name    : OAI.Problem344.large_gaps_and_ratio_density
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:10.357144+00:00
 -- url     : https://prove2.me/theorems/7da1c158-83a6-4180-b34e-dfb84257c3ea

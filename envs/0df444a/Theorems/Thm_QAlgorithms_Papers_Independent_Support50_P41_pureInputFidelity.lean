@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_pureInputFidelity
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.pureInputFidelity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:17:29.404722+00:00
 -- url     : https://prove2.me/theorems/dcdd510f-12da-4b43-bc90-ffc19ab9c133

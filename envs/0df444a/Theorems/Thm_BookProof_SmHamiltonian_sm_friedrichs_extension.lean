@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmHamiltonian_sm_friedrichs_extension
 -- name    : BookProof.SmHamiltonian.sm_friedrichs_extension
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:13:08.321112+00:00
 -- url     : https://prove2.me/theorems/de01a66a-9e6c-40d5-b7da-d8663cdd1188

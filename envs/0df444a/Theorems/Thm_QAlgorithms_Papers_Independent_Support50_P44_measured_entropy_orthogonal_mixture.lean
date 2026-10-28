@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P44_measured_entropy_orthogonal_mixture
 -- name    : QAlgorithms.Papers.Independent.Support50.P44.measured_entropy_orthogonal_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-24T00:01:06.170717+00:00
 -- url     : https://prove2.me/theorems/00303133-7ada-4806-a0f7-d0d37a87cb1b

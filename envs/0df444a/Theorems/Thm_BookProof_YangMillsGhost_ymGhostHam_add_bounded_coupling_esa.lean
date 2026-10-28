@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsGhost_ymGhostHam_add_bounded_coupling_esa
 -- name    : BookProof.YangMillsGhost.ymGhostHam_add_bounded_coupling_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-09-18T01:15:55.080783+00:00
 -- url     : https://prove2.me/theorems/4177bc9a-7733-45f8-89ac-ea0d4d1f7926

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Blueprint.blueprint_invariant
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:38:55.978498+00:00
 -- url     : https://prove2.me/submissions/381d5f38-d752-4591-9126-ee2e0531ef13
 

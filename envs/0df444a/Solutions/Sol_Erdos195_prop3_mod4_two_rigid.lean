@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.prop3_mod4_two_rigid
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T03:45:41.265477+00:00
 -- url     : https://prove2.me/submissions/47d965fb-8596-4c83-bcdb-42b37b62908d
 

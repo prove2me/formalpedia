@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.large_aux_append
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T11:09:14.878707+00:00
 -- url     : https://prove2.me/submissions/35f1d2b3-0f4d-47c6-8fd6-c1f680d9f805
 

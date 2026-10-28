@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WeakGoldbach.helfgott_platt_block_ladders_grp01
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:20:37.52166+00:00
 -- url     : https://prove2.me/submissions/be27429c-34b6-4dfa-8ad9-0ef8aa36dec7
 -- note    : a sketch -- it imports a theorem that is still Open,

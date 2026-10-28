@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_common_bases_fpras
 -- name    : OAI.common_bases_fpras
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:40.817035+00:00
 -- url     : https://prove2.me/theorems/15234f36-f394-4f8d-8507-60143ff32800

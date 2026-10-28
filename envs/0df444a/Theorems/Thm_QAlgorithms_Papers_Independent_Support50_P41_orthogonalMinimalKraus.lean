@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_orthogonalMinimalKraus
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.orthogonalMinimalKraus
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:24:21.586988+00:00
 -- url     : https://prove2.me/theorems/be16370a-6692-4e45-b532-bf0ff6650f21

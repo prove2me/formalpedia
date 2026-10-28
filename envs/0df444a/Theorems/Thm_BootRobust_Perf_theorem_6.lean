@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_Perf_theorem_6
 -- name    : BootRobust.Perf.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:55.926161+00:00
 -- url     : https://prove2.me/theorems/4926498d-25fe-4ccb-ad18-df3c13d1f99c

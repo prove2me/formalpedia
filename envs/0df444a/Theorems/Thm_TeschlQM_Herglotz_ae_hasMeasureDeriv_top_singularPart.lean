@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Herglotz_ae_hasMeasureDeriv_top_singularPart
 -- name    : TeschlQM.Herglotz.ae_hasMeasureDeriv_top_singularPart
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-07T22:09:28.994746+00:00
 -- url     : https://prove2.me/theorems/9368b0fa-29b4-4abd-ae65-2ca198cf8639

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P43_alternative_relative_decomposition
 -- name    : QAlgorithms.Papers.Independent.Support50.P43.alternative_relative_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:33:47.926708+00:00
 -- url     : https://prove2.me/theorems/e231e8ad-7eab-43ef-be09-11408cf1805a

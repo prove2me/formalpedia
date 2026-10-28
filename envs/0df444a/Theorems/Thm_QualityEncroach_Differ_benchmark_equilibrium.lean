@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_Differ_benchmark_equilibrium
 -- name    : QualityEncroach.Differ.benchmark_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:27:13.333465+00:00
 -- url     : https://prove2.me/theorems/9104e024-9da1-4c8e-971a-14afc6fda1c4

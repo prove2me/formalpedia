@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TaoFivePrimes.rh14to100_theta_checks
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:53:15.836787+00:00
 -- url     : https://prove2.me/submissions/b7e8cfcf-a957-44a9-b342-f7e065ce8df8
 

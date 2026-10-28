@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_UnitDecomp_theorem5_base_stock_optimal
 -- name    : ServiceParts.UnitDecomp.theorem5_base_stock_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T22:01:45.786492+00:00
 -- url     : https://prove2.me/theorems/47afc65a-17d3-49af-a638-90f924e2d9c1

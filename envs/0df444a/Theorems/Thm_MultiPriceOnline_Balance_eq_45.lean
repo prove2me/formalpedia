@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Balance_eq_45
 -- name    : MultiPriceOnline.Balance.eq_45
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:44:04.08045+00:00
 -- url     : https://prove2.me/theorems/b41d6fa1-e960-4606-a924-e4b4d7008d29

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.no_algebraic_logarithmic_primitive
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:44:24.611986+00:00
 -- url     : https://prove2.me/submissions/fdef6cac-b7a3-43b7-90cf-fd73003c89b6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_LogarithmicNormalBases
 import Definitions.Def_OAI_PiExponent_LogarithmicInterpolationNumerics

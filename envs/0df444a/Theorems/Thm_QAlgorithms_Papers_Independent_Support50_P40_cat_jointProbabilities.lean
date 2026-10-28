@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P40_cat_jointProbabilities
 -- name    : QAlgorithms.Papers.Independent.Support50.P40.cat_jointProbabilities
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:06:25.894561+00:00
 -- url     : https://prove2.me/theorems/d35e0b31-acc1-45a4-bcc3-f8117d3c054c

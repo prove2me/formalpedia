@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_erasureFormulaAndOneShot
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.erasureFormulaAndOneShot
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:52:36.935841+00:00
 -- url     : https://prove2.me/theorems/1f118458-bbd7-4e72-afeb-6c12112e826d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PeriodicTilingThree_periodic_tiling_counterexample_and_minimality
 -- name    : OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:02.566453+00:00
 -- url     : https://prove2.me/theorems/c384612f-9658-4aff-bf84-1336e003988b

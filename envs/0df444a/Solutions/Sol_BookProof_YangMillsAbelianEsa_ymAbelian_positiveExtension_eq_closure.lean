@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.YangMillsAbelianEsa.ymAbelian_positiveExtension_eq_closure
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:45:10.766005+00:00
 -- url     : https://prove2.me/submissions/e55864aa-1c38-4f19-8b3a-3341e7f930bd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterYangMillsAbelianEsa.lean — solution of BookProof.YangMillsAbelianEsa.ymAbelian_positiveExtension_eq_closure
 import Mathlib

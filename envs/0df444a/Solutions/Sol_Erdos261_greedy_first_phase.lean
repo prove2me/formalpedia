@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos261.greedy_first_phase
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:06.8259+00:00
 -- url     : https://prove2.me/submissions/3c95bb1c-904b-489c-bdf3-7306990ec000
 

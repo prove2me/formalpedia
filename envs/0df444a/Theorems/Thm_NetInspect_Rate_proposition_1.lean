@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetInspect_Rate_proposition_1
 -- name    : NetInspect.Rate.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:09.408209+00:00
 -- url     : https://prove2.me/theorems/7abbf57f-b1c7-48d8-9734-29026818b33d

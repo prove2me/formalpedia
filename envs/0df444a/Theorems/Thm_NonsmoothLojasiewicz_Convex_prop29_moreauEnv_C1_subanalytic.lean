@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Convex_prop29_moreauEnv_C1_subanalytic
 -- name    : NonsmoothLojasiewicz.Convex.prop29_moreauEnv_C1_subanalytic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:11:33.298377+00:00
 -- url     : https://prove2.me/theorems/bdf5447a-9cbf-405e-86b5-02031b608d81

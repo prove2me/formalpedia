@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ADH2015_u12_recovers
 -- name    : ADH2015.u12_recovers
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-09T09:00:37.156584+00:00
 -- url     : https://prove2.me/theorems/5d5058aa-d22e-44fc-9e57-c6714008d5ae

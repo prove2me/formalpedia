@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Thomason_nerveDetection_allDimensions
 -- name    : OAI.Thomason.nerveDetection_allDimensions
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:29.591952+00:00
 -- url     : https://prove2.me/theorems/af1a387e-6c9b-4248-b4a9-c4dc28b5f266

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_QuarticPowerFree_allDegrees
 -- name    : OAI.QuarticPowerFree.allDegrees
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:13.429978+00:00
 -- url     : https://prove2.me/theorems/2ca8f932-1a00-4324-ac3c-86ad019288c3

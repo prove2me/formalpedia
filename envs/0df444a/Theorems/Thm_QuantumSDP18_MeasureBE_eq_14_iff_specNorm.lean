@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumSDP18_MeasureBE_eq_14_iff_specNorm
 -- name    : QuantumSDP18.MeasureBE.eq_14_iff_specNorm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:30.261716+00:00
 -- url     : https://prove2.me/theorems/53c4bfbc-00cf-4d8d-8c47-40af3fa3573e

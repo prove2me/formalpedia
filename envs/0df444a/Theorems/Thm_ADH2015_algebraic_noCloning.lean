@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ADH2015_algebraic_noCloning
 -- name    : ADH2015.algebraic_noCloning
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-09T10:05:44.315771+00:00
 -- url     : https://prove2.me/theorems/c4e2919e-113c-4139-96dc-1d3962e02267

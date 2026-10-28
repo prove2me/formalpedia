@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LookaheadAPI_LeastSquares_contraction_T
 -- name    : LookaheadAPI.LeastSquares.contraction_T
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:09.525881+00:00
 -- url     : https://prove2.me/theorems/68e1435f-6d1c-4ea3-903d-2edaa29c88d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CannonRelease_cannon
 -- name    : OAI.CannonRelease.cannon
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:25.972801+00:00
 -- url     : https://prove2.me/theorems/13a0e91a-484a-40ad-a142-73a55b94b4bb

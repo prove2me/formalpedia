@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_no_two_phase_termination
 -- name    : Erdos261.no_two_phase_termination
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:06.679997+00:00
 -- url     : https://prove2.me/theorems/a8193b01-6fe2-49d3-b85a-f7381ffc5500
 -- title:

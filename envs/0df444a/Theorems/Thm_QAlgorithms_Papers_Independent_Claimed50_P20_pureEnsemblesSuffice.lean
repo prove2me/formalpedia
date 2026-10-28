@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P20_pureEnsemblesSuffice
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P20.pureEnsemblesSuffice
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:15:42.537828+00:00
 -- url     : https://prove2.me/theorems/21de5956-d158-49b4-ba56-b3600a51ebbe

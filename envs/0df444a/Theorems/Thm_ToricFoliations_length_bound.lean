@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToricFoliations_length_bound
 -- name    : ToricFoliations.length_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @hiraeth
 -- created : 2026-10-07T12:32:39.905423+00:00
 -- url     : https://prove2.me/theorems/f17af3ac-ba42-4163-81e3-0cc90690d016

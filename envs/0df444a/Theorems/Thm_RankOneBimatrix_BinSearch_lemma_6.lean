@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankOneBimatrix_BinSearch_lemma_6
 -- name    : RankOneBimatrix.BinSearch.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:03.99687+00:00
 -- url     : https://prove2.me/theorems/49f36cd0-ad87-40df-8e72-d3c4dacb9899

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynTypeMatching_Priority_theorem_1
 -- name    : DynTypeMatching.Priority.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:59:37.522284+00:00
 -- url     : https://prove2.me/theorems/b575ef3a-910b-4965-96ff-1e26b0f078bc

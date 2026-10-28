@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_CoreSelection_theorem_3
 -- name    : MusicStreaming.CoreSelection.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:50.465776+00:00
 -- url     : https://prove2.me/theorems/3b676423-5eeb-413c-b483-14032e31a7da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P38_commonRandomness_reversal
 -- name    : QAlgorithms.Papers.Independent.Support50.P38.commonRandomness_reversal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:07:20.753996+00:00
 -- url     : https://prove2.me/theorems/8611d8de-bfd0-478e-a764-650c459d8cef

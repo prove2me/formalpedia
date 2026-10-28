@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P07_wastingBlocking_counterexample
 -- name    : QAlgorithms.Papers.Independent.Gap20.P07.wastingBlocking_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T07:28:12.859745+00:00
 -- url     : https://prove2.me/theorems/57a66973-1803-489d-b19e-4ac8b212857c

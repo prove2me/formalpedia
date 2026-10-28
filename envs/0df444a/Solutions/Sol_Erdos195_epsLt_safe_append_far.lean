@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_safe_append_far
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T02:22:16.857729+00:00
 -- url     : https://prove2.me/submissions/11aee37b-3ca7-4661-9225-3a1ae3392631
 

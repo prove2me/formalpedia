@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperMatchDelay_Batching_reduction_4
 -- name    : HyperMatchDelay.Batching.reduction_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:58.170851+00:00
 -- url     : https://prove2.me/theorems/cd682f6f-db67-43f7-b91d-3be133847a3a

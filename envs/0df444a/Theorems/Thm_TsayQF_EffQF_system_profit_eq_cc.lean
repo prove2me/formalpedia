@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsayQF_EffQF_system_profit_eq_cc
 -- name    : TsayQF.EffQF.system_profit_eq_cc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:25.187584+00:00
 -- url     : https://prove2.me/theorems/7ebf3135-2f1c-4e0f-970c-599e83e6cb8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_relative_entropy_variational
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.relative_entropy_variational
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T18:59:20.037096+00:00
 -- url     : https://prove2.me/theorems/6cb21eeb-044d-4d30-815a-beb0c7d9a22a

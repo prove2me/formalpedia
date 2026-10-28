@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P19_equalDimensionsLargeEnvironment
 -- name    : QAlgorithms.Papers.Independent.Gap20.P19.equalDimensionsLargeEnvironment
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T07:46:58.872715+00:00
 -- url     : https://prove2.me/theorems/4502e578-a8b0-4321-a49f-244e12966c10

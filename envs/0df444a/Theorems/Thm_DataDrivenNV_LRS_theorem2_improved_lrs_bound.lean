@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenNV_LRS_theorem2_improved_lrs_bound
 -- name    : DataDrivenNV.LRS.theorem2_improved_lrs_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:25:57.487334+00:00
 -- url     : https://prove2.me/theorems/78e30f3e-07be-4637-9827-b5c9761c0c7e

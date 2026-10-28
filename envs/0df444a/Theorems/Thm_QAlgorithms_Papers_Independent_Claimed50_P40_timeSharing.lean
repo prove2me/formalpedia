@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P40_timeSharing
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P40.timeSharing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:47:11.154657+00:00
 -- url     : https://prove2.me/theorems/03e8813d-4d6c-4f73-9d2b-033bd0c59a4e

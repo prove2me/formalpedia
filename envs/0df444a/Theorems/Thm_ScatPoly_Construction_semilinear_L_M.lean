@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScatPoly_Construction_semilinear_L_M
 -- name    : ScatPoly.Construction.semilinear_L_M
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:16:44.020027+00:00
 -- url     : https://prove2.me/theorems/6e2affa6-f084-4273-a3a0-a0b97158a809

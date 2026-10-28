@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondI_theorem_V_3
 -- name    : NonuniformKuramoto.CondI.theorem_V_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:24:38.129789+00:00
 -- url     : https://prove2.me/theorems/d3b52a40-40c3-4b36-ac0d-998751ed8768

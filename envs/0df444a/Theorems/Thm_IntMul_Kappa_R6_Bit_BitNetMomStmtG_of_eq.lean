@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_Bit_BitNetMomStmtG_of_eq
 -- name    : IntMul.Kappa.R6.Bit.BitNetMomStmtG_of_eq
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:16:21.016987+00:00
 -- url     : https://prove2.me/theorems/43926340-a616-4496-8ad1-a04319264671
 -- title:

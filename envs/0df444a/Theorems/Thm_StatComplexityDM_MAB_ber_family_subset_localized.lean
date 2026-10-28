@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_MAB_ber_family_subset_localized
 -- name    : StatComplexityDM.MAB.ber_family_subset_localized
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:23:08.561431+00:00
 -- url     : https://prove2.me/theorems/ca5fb86f-47f7-4fa2-ac7d-a059ab49196a

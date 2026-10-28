@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_causal_polynomial_geometric_majorant_conversion
 -- name    : AvramDividend.Classical.causal_polynomial_geometric_majorant_conversion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:48:03.538876+00:00
 -- url     : https://prove2.me/theorems/859fcce7-2f9d-44db-9814-60ce1ee315f6

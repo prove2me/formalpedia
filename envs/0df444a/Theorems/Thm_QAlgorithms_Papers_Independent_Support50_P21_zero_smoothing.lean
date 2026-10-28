@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P21_zero_smoothing
 -- name    : QAlgorithms.Papers.Independent.Support50.P21.zero_smoothing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:52:03.132143+00:00
 -- url     : https://prove2.me/theorems/f4bba76a-3614-45a0-9735-b8530a043cb4

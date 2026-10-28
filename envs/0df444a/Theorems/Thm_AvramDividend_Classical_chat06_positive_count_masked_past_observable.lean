@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat06_positive_count_masked_past_observable
 -- name    : AvramDividend.Classical.chat06_positive_count_masked_past_observable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T15:52:52.045652+00:00
 -- url     : https://prove2.me/theorems/16c87328-b687-444b-a6a0-4f5031925fa5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_P_subset_coNP
 -- name    : CookPvsNP.P_subset_coNP
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T13:49:13.725545+00:00
 -- url     : https://prove2.me/theorems/eddde6d0-c662-4bbc-b93f-464048ef609d

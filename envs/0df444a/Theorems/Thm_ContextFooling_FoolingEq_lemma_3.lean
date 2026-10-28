@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContextFooling_FoolingEq_lemma_3
 -- name    : ContextFooling.FoolingEq.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:48:46.219979+00:00
 -- url     : https://prove2.me/theorems/67c074bc-0557-43f2-976d-ea1cd7f53926

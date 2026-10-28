@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.open_path_length_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T22:45:42.664917+00:00
 -- url     : https://prove2.me/submissions/fa87daee-e14a-452d-9b97-8802060edda6
 

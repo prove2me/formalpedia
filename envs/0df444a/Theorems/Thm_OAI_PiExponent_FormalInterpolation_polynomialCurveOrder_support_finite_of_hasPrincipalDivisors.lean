@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_polynomialCurveOrder_support_finite_of_hasPrincipalDivisors
 -- name    : OAI.PiExponent.FormalInterpolation.polynomialCurveOrder_support_finite_of_hasPrincipalDivisors
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:59:23.364928+00:00
 -- url     : https://prove2.me/theorems/019da36e-8b41-4b2f-96a2-73fd14da4a10
 -- title:

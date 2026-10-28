@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P11_generic_field_characterization
 -- name    : QAlgorithms.Papers.Independent.Support21.P11.generic_field_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:59:08.244149+00:00
 -- url     : https://prove2.me/theorems/e7be2362-b6c0-4ac3-8378-2b491992092d

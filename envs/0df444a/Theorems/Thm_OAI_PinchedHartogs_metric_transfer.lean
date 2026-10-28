@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PinchedHartogs_metric_transfer
 -- name    : OAI.PinchedHartogs.metric_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:03.766716+00:00
 -- url     : https://prove2.me/theorems/de78274b-24d7-4f84-83fd-92d91b69af36

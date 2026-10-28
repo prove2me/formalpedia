@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IPLicense3D_Pooling_lemma_1_vi
 -- name    : IPLicense3D.Pooling.lemma_1_vi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:25:31.507332+00:00
 -- url     : https://prove2.me/theorems/25c3ea44-c05a-45d3-83ef-e0c637617d8b

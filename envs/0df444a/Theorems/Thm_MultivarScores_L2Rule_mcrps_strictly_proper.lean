@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_L2Rule_mcrps_strictly_proper
 -- name    : MultivarScores.L2Rule.mcrps_strictly_proper
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:30:40.897219+00:00
 -- url     : https://prove2.me/theorems/17d63217-cb0b-4cbf-afdb-337dae17843a

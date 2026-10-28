@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P41_rankRefinedFano
 -- name    : QAlgorithms.Papers.Independent.Support50.P41.rankRefinedFano
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:30:31.956403+00:00
 -- url     : https://prove2.me/theorems/0d3ca4d8-10b1-4bf0-b3b2-9a379b820db2

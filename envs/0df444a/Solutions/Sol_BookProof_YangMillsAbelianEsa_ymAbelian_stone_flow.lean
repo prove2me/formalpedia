@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.YangMillsAbelianEsa.ymAbelian_stone_flow
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T12:06:10.671643+00:00
 -- url     : https://prove2.me/submissions/63e946ad-0fa7-422d-8f0b-451ded85a497
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterYangMillsAbelianEsa.lean — solution of BookProof.YangMillsAbelianEsa.ymAbelian_stone_flow
 import Mathlib

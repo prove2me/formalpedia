@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperMatchDelay_Batching_lemma_4
 -- name    : HyperMatchDelay.Batching.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:57.9078+00:00
 -- url     : https://prove2.me/theorems/1a8d02b3-74a3-43ff-9688-e245a8a2559a

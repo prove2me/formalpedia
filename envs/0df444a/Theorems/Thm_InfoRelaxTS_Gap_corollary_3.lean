@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Gap_corollary_3
 -- name    : InfoRelaxTS.Gap.corollary_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:30:40.57534+00:00
 -- url     : https://prove2.me/theorems/0f256d09-cef4-4b90-a07b-7969f24202b3

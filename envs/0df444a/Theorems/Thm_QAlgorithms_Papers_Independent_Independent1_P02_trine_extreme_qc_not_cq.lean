@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P02_trine_extreme_qc_not_cq
 -- name    : QAlgorithms.Papers.Independent.Independent1.P02.trine_extreme_qc_not_cq
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:18:21.103292+00:00
 -- url     : https://prove2.me/theorems/cfe6eae2-33f5-4856-9503-4f43d7ffa4f3

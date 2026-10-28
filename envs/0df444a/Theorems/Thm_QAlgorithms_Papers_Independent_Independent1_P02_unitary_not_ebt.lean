@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P02_unitary_not_ebt
 -- name    : QAlgorithms.Papers.Independent.Independent1.P02.unitary_not_ebt
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:17:54.009061+00:00
 -- url     : https://prove2.me/theorems/60f3db17-b0a6-481e-9898-6d98804fe78c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Branching_optimalReturn_upper_bound
 -- name    : AllocationIndices.Branching.optimalReturn_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:39:09.863523+00:00
 -- url     : https://prove2.me/theorems/a351786c-b3f0-4166-95df-c52294374541

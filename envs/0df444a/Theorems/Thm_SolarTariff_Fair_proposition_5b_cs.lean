@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolarTariff_Fair_proposition_5b_cs
 -- name    : SolarTariff.Fair.proposition_5b_cs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:29.676915+00:00
 -- url     : https://prove2.me/theorems/ec4503dc-9a2f-4b0e-b579-7bdd3fc31a5d

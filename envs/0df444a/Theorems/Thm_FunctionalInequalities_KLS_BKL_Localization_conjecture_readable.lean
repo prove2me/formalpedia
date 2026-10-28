@@ -1,0 +1,49 @@
+-- Prove2me | Theorems.Thm_FunctionalInequalities_KLS_BKL_Localization_conjecture_readable
+-- name    : FunctionalInequalities.KLS.BKL.Localization.conjecture_readable
+-- status  : Proved
+-- author  : @Lazyfill
+-- created : 2026-10-26T13:21:39.662975+00:00
+-- url     : https://prove2.me/theorems/9818bcbe-46db-49a8-b18e-5241717d5715
+-- title:
+--   Closed Dimension-Free KLS Bound
+-- statement:
+--   The declaration proves the project-level proposition `KLS.Conjecture`: there is a universal finite constant controlling the literature Poincaré constant of every log-concave probability measure with finite second moment on every finite-dimensional Euclidean space, in the covariance-normalized form
+--
+--   $$
+--   C_P^{\mathrm{lit}}(\mu)\le C\,\|\operatorname{Cov}(\mu)\|_{\mathrm{op}}.
+--   $$
+--
+--   This is the closed endpoint of the Bizeul–Klartag–Lehec formalization and is reused by the public KLS target theorem.
+--
+--   **Formalization Note**: The exact proposition is represented by the opaque definition `KLS.Conjecture`; the displayed expansion follows the module's documented meaning of that definition.
+--
+--   **Original Lean source**
+--
+--   Within namespace `FunctionalInequalities.KLS.BKL.Localization`. Shown in its original module context.
+--
+--   ```lean
+--   theorem conjecture : KLS.Conjecture :=
+--     conjecture_of_letwinCompact LogConcave.Suspension.letwinCompactBound
+--   ```
+--
+--   **Module navigation**
+--
+--   Module: [`KLS/BKL/Poincare`](https://prove2.me/theorems/1ee28d07-eccf-4bb6-a860-f00b4a98b229).
+--
+--   Definition modules: [`KLS/Statement`](https://prove2.me/theorems/a8a0c8db-8c01-4ba8-b1c2-6b2fe5d1864a).
+--
+--   Selected supporting theorems: [`cumulantBoundCompact_of_cutoffEnergyClaim`](https://prove2.me/theorems/a3ff251c-553e-44e1-9529-aa9e7643ca87), [`cutoffEnergyClaim_all`](https://prove2.me/theorems/8ed09f22-1ad1-4f50-a5e4-04b6280a1b1e), [`cutoffEnergyClaim_succ`](https://prove2.me/theorems/8ae5977b-ab49-4d46-8c59-295ce589f83a), [`generator_cumulantEnergy_ge`](https://prove2.me/theorems/d995a803-9dc2-4144-b611-6d14e68dd120), [`cumulantBound_of_compact`](https://prove2.me/theorems/642ea310-0dfa-47d8-b6bd-18048856ed8f).
+--
+--   Previous: [`exists_isotropicBound`](https://prove2.me/theorems/3abd4931-3ee7-4615-bcaf-0dde5143dea7).
+--
+--   [Source excerpt, lines 40–41](https://github.com/human-ai-mathematics/kls-lean/blob/408915fd28eb892a7093fa5df6f6c2699e9de144/formalization/FunctionalInequalities/KLS/BKL/Poincare.lean#L40-L41) · Frozen source `408915f`.
+--
+--   **Literature**
+--
+--   This formalizes Theorem 1.1 of Bizeul–Klartag–Lehec (arXiv:2610.05474v1), p. 2.
+-- source:
+--   Source: Bizeul–Klartag–Lehec, Presenting a proof of the Kannan–Lovász–Simonovits conjecture (arXiv:2610.05474v1), Theorem 1.1, p. 2. Lean source: https://github.com/human-ai-mathematics/kls-lean/blob/408915f/formalization/FunctionalInequalities/KLS/BKL/Poincare.lean#L38-L41 (repository human-ai-mathematics/kls-lean, commit 408915f, module `FunctionalInequalities.KLS.BKL.Poincare`, declaration `FunctionalInequalities.KLS.BKL.Localization.conjecture`; the repository is private at upload time).
+
+import Definitions.Def_KLSModular_FunctionalInequalities_KLS_BKL_Poincare
+
+theorem FunctionalInequalities.KLS.BKL.Localization.conjecture_readable : KLS.Conjecture := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncInfoDebt_FallenAngel_d20_limit
 -- name    : IncInfoDebt.FallenAngel.d20_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:19.659813+00:00
 -- url     : https://prove2.me/theorems/499a2877-f380-42e4-a30b-b8a29d1e44ef

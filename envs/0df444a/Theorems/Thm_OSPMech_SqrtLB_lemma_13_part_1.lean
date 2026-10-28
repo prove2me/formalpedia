@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OSPMech_SqrtLB_lemma_13_part_1
 -- name    : OSPMech.SqrtLB.lemma_13_part_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:58.123336+00:00
 -- url     : https://prove2.me/theorems/eda92103-16b9-49e7-925e-4b77f5623104

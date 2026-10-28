@@ -1,0 +1,95 @@
+-- Prove2me | Theorems.Thm_OAI_CoulombAtom_OwnProbabilityTailTiltState_expandedAnnulus_small_event_integral
+-- name    : OAI.CoulombAtom.OwnProbabilityTailTiltState.expandedAnnulus_small_event_integral
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-10-28T05:25:29.689117+00:00
+-- url     : https://prove2.me/theorems/52b99180-b8c1-4441-8943-e4cd1ef42d48
+-- title:
+--   OAI.CoulombAtom.OwnProbabilityTailTiltState.expandedAnnulus_small_event_integral: intermediate lemma from OpenAI, Generalized ionization energies for full Coulomb atoms (result family 263)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.CoulombAtom.generalized_ionization`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Generalized ionization energies for full Coulomb atoms (result family 263)*, OpenAI Math Release, September 24, 2026, result family 263, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.CoulombAtom.OwnProbabilityTailTiltState.expandedAnnulus_small_event_integral` of [lean/OAI/Analysis/CoulombIonization/FieldAnalysis/ExpandedAnnulusSmallEventIntegral.lean](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Analysis/CoulombIonization/FieldAnalysis/ExpandedAnnulusSmallEventIntegral.lean) at commit adc7f12, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.CoulombAtom`, with `open MeasureTheory Filter Set`, `open scoped Topology`, `open CoulombAnalysis CoulombObservation CoulombBarrier`):
+--
+--   ```lean
+--   theorem OwnProbabilityTailTiltState.expandedAnnulus_small_event_integral {Z lam r : ℝ}
+--       (hZ : 0 ≤ Z) (hlam : 0 < lam) (hr : 0 < r) {N K : ℕ} {F : fermionGraph N}
+--       {δ c₁ r₀ s : ℝ}
+--       (hF : OwnProbabilityTailTiltState Z lam r K
+--         (fun j => tinyProbabilityFloor Z ((2:ℝ)^j.val*r)) δ F)
+--       (hc : 0 < c₁) (hcL : c₁ < (10*(100000:ℝ))⁻¹)
+--       (hr₀ : 0 < r₀) (hs : 0 < s) (hs1 : s ≤ 1)
+--       (j : Fin (K+1)) {y : Space}
+--       (huy : ((2:ℝ)^j.val*r)/2 ≤ ‖y‖)
+--       (hu1 : (2:ℝ)^j.val*r ≤ 1)
+--       (hgeom : InverseFiniteGeometry c₁ r₀ s (((2:ℝ)^j.val*r)^(101/100:ℝ)) y)
+--       (hcap : ∀ p : ℝ, 0 < p → p ≤ ((2:ℝ)^j.val*r)^80 →
+--         (localCellRadius y)^4*(p*originalFieldCapBudget ((2:ℝ)^j.val*r) p δ c₁ r₀ s y
+--           ((localCellRadius y)^(6/5:ℝ))
+--           (localCellRadius y*(localCellRadius y)^masterExponent)) ≤
+--         p^(3/4:ℝ)*(tfPatchCapConstant+1))
+--       (A : Set (Configuration N × (Fin K × (Fin N × Fin 3) → ℝ)))
+--       (hA : MeasurableSet[observationInformation (fun k : Fin K => dyadicObservationWidth r k) j] A)
+--       (hpA : (physicalObservationLaw (graphRawLaw F) K).real A ≤ ((2:ℝ)^j.val*r)^80) :
+--       (localCellRadius y)^4*(∫ z in A, originalQueryField F Z lam r j c₁ r₀ s z y
+--         ∂physicalObservationLaw (graphRawLaw F) K) ≤
+--         (tfPatchCapConstant+2)*((2:ℝ)^j.val*r)^60
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.CoulombAtom.SectorGraph`, `OAI.CoulombAtom.WeakGraphAmbient`, `OAI.CoulombAtom.fermionGraph`, `OAI.CoulombAtom.sectorDirections` and `OAI.CoulombAtom.weakGraph` (definitions bundle `OAIQ071C000` of this split); `OAI.CoulombAtom.masterExponent` (definitions bundle `OAIQ071C001` of this split); `OAI.CoulombAtom.tinyProbabilityFloor` and `OAI.CoulombObservation.dyadicObservationWidth` (definitions bundle `OAIQ071C002` of this split); `OAI.CoulombAnalysis.tfPatchCapConstant`, `OAI.CoulombAtom.graphRawLaw` and `OAI.CoulombAtom.localCellRadius` (definitions bundle `OAIQ071C003` of this split); `OAI.CoulombAtom.observationInformation` and `OAI.CoulombAtom.physicalObservationLaw` (definitions bundle `OAIQ071C006` of this split); `OAI.CoulombAtom.InverseFiniteGeometry`, `OAI.CoulombAtom.OwnProbabilityTailTiltState`, `OAI.CoulombAtom.originalFieldCapBudget` and `OAI.CoulombAtom.originalQueryField` (definitions bundle `OAIQ071C010` of this split); `OAI.CoulombAtom.Configuration`, `OAI.CoulombAtom.Space` and `OAI.CoulombAtom.Spins` (the published bundle `Def_CoulombIonization`).
+--
+--   **Used by.** The proofs of `OAI_CoulombAtom_actual_expandedAnnulus_cap_excess_uniform_eventually` and `OAI.CoulombAtom.actual_scaled_original_cap_eventually` of this split import it.
+-- source:
+--   OpenAI, Generalized ionization energies for full Coulomb atoms (result family 263), OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 263; paper: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Generalized-ionization-energies-for-full-Coulomb-atoms-September-24-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Analysis/CoulombIonization/FieldAnalysis/ExpandedAnnulusSmallEventIntegral.lean (declaration OAI.CoulombAtom.OwnProbabilityTailTiltState.expandedAnnulus_small_event_integral)
+
+import Mathlib
+import Definitions.Def_CoulombIonization
+import Definitions.Def_OAIQ071C010
+
+section
+
+attribute [-instance] _root_.OAI.CoulombAtom.rotationMeasureHaar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+open MeasureTheory Filter Set
+open scoped Topology
+noncomputable section
+namespace CoulombAtom
+open CoulombAnalysis CoulombObservation CoulombBarrier
+attribute [local irreducible] graphComponent graphFormVector fermionGraph weakGraph fermionGraphValue
+
+theorem OwnProbabilityTailTiltState.expandedAnnulus_small_event_integral {Z lam r : ℝ}
+    (hZ : 0 ≤ Z) (hlam : 0 < lam) (hr : 0 < r) {N K : ℕ} {F : fermionGraph N}
+    {δ c₁ r₀ s : ℝ}
+    (hF : OwnProbabilityTailTiltState Z lam r K
+      (fun j => tinyProbabilityFloor Z ((2:ℝ)^j.val*r)) δ F)
+    (hc : 0 < c₁) (hcL : c₁ < (10*(100000:ℝ))⁻¹)
+    (hr₀ : 0 < r₀) (hs : 0 < s) (hs1 : s ≤ 1)
+    (j : Fin (K+1)) {y : Space}
+    (huy : ((2:ℝ)^j.val*r)/2 ≤ ‖y‖)
+    (hu1 : (2:ℝ)^j.val*r ≤ 1)
+    (hgeom : InverseFiniteGeometry c₁ r₀ s (((2:ℝ)^j.val*r)^(101/100:ℝ)) y)
+    (hcap : ∀ p : ℝ, 0 < p → p ≤ ((2:ℝ)^j.val*r)^80 →
+      (localCellRadius y)^4*(p*originalFieldCapBudget ((2:ℝ)^j.val*r) p δ c₁ r₀ s y
+        ((localCellRadius y)^(6/5:ℝ))
+        (localCellRadius y*(localCellRadius y)^masterExponent)) ≤
+      p^(3/4:ℝ)*(tfPatchCapConstant+1))
+    (A : Set (Configuration N × (Fin K × (Fin N × Fin 3) → ℝ)))
+    (hA : MeasurableSet[observationInformation (fun k : Fin K => dyadicObservationWidth r k) j] A)
+    (hpA : (physicalObservationLaw (graphRawLaw F) K).real A ≤ ((2:ℝ)^j.val*r)^80) :
+    (localCellRadius y)^4*(∫ z in A, originalQueryField F Z lam r j c₁ r₀ s z y
+      ∂physicalObservationLaw (graphRawLaw F) K) ≤
+      (tfPatchCapConstant+2)*((2:ℝ)^j.val*r)^60 := by
+  sorry
+
+end CoulombAtom
+
+end
+
+end OAI
+end

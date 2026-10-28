@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffNeighbors_Bias_remainder_bound
 -- name    : DiffNeighbors.Bias.remainder_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:41:30.287344+00:00
 -- url     : https://prove2.me/theorems/f98486a2-6f8f-4ae7-82b3-061a9251c772

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Absolute_theorem_2
 -- name    : ExploreFirst.Absolute.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:12:30.309812+00:00
 -- url     : https://prove2.me/theorems/a07b7a06-55eb-440d-ac24-2e5bd7b9b7a8

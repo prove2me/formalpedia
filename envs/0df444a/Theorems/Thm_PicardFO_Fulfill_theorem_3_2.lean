@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PicardFO_Fulfill_theorem_3_2
 -- name    : PicardFO.Fulfill.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:54.430082+00:00
 -- url     : https://prove2.me/theorems/b4675b1d-640f-426e-8918-73afbc469e03

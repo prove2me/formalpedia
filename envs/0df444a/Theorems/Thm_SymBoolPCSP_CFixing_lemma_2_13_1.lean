@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_CFixing_lemma_2_13_1
 -- name    : SymBoolPCSP.CFixing.lemma_2_13_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:28:52.489179+00:00
 -- url     : https://prove2.me/theorems/cde05dcb-a18e-4987-b4f5-38d942c2a14c

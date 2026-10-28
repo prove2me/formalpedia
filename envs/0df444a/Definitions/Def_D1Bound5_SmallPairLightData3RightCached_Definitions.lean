@@ -1,0 +1,45 @@
+-- Prove2me | Definitions.Def_D1Bound5_SmallPairLightData3RightCached_Definitions
+-- name    : D1Bound5_SmallPairLightData3RightCached_Definitions
+-- status  : Definition
+-- author  : @tp
+-- created : 2026-10-23T23:31:31.205733+00:00
+-- url     : https://prove2.me/theorems/3a2f26a6-4037-47e5-855b-b4c8d008f159
+-- title:
+--   Small Pair Light Data3Right Cached
+-- statement:
+--   Cached exact coordinate data used by the selected-floor tests on the finite small-pair vertex lists. The named objects in this bundle include `PairLightPrepared3.rightCached`.
+-- source:
+--   D1Bound5/SmallPairLightData3RightCached.lean, lines 7-422, SHA-256 11b8b03b91173fbecbdc15b806c4e9c75b7181e19f13bb9bf2a721b5e9097e1f. Project: https://github.com/tomislav-math/d1-bound5-lean
+
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_3dd37450a59ef15257db
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_d29c272f4b7d8e0de7dd
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_ca71a64ac424d22cfda8
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_512e843142c1e0b45825
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_e990cef29b61a8d32872
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_61917aa27c0cf557653a
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_bcb7cc544e8f1966acc5
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_d8cd9731302e63b11bfd
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_86c822bb4679f7fdf7e3
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_ea5d10347501b29f3ee1
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_0540d8cd89082358f687
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_14ca48c5ab757c47aa41
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_cc5ac1ea1e2c2ff5d65b
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_49332a18f58683a11952
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_03a6d3f74537d8bf6b79
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_d3fd4c0dc10e33fb53c4
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_9e91b307dd9cd7bb0e14
+import Definitions.Def_D1Bound5_Prove2MeTransfer_cachedSlice_bac2785d94fbe7e9cf09
+import Init
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+
+section
+namespace D1Bound5.PairLightPrepared3
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+def rightCached : List PairLightCachedVertex := (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_3dd37450a59ef15257db (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_d29c272f4b7d8e0de7dd (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_ca71a64ac424d22cfda8 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_512e843142c1e0b45825 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_e990cef29b61a8d32872 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_61917aa27c0cf557653a (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_bcb7cc544e8f1966acc5 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_d8cd9731302e63b11bfd (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_86c822bb4679f7fdf7e3 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_ea5d10347501b29f3ee1 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_0540d8cd89082358f687 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_14ca48c5ab757c47aa41 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_cc5ac1ea1e2c2ff5d65b (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_49332a18f58683a11952 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_03a6d3f74537d8bf6b79 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_d3fd4c0dc10e33fb53c4 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.cachedSlice_9e91b307dd9cd7bb0e14 _root_.D1Bound5.Prove2MeTransfer.cachedSlice_bac2785d94fbe7e9cf09)))))))))))))))))
+
+end D1Bound5.PairLightPrepared3
+end
+
+

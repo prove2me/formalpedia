@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxMethodVI_Rate_lemma3_1_c
 -- name    : ProxMethodVI.Rate.lemma3_1_c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:11:59.138655+00:00
 -- url     : https://prove2.me/theorems/0376233c-db86-4868-82a2-49632d39b9dc

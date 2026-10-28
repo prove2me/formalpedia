@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeavyTailNV_Tail_theorem_4_3
 -- name    : HeavyTailNV.Tail.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T13:23:17.63651+00:00
 -- url     : https://prove2.me/theorems/8db645de-e9a9-4ebd-b9ed-c8d18900f920

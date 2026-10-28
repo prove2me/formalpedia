@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RyserCoveringCounterexample_exists_prime_eventually_counterexampleRank
 -- name    : OAI.RyserCoveringCounterexample.exists_prime_eventually_counterexampleRank
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:17.473367+00:00
 -- url     : https://prove2.me/theorems/34053039-84c6-4169-9488-97dcc1a029c2

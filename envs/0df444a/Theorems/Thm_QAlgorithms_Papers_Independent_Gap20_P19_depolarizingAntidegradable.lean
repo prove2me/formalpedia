@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P19_depolarizingAntidegradable
 -- name    : QAlgorithms.Papers.Independent.Gap20.P19.depolarizingAntidegradable
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T07:55:38.297263+00:00
 -- url     : https://prove2.me/theorems/c65146f1-3612-4628-aa8f-374f7b5e03e5

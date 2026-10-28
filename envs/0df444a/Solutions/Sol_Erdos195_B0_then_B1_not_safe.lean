@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.B0_then_B1_not_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T11:09:16.06983+00:00
 -- url     : https://prove2.me/submissions/28a4edd5-a50a-4d45-940b-d2ec75b09d44
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PicardFO_Fulfill_eq_5
 -- name    : PicardFO.Fulfill.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:40.658864+00:00
 -- url     : https://prove2.me/theorems/10f8b963-cc7a-472f-aed9-c2d9ce8516a4

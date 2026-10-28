@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetInspect_Rate_theorem_2_step_ia
 -- name    : NetInspect.Rate.theorem_2_step_ia
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:22.329138+00:00
 -- url     : https://prove2.me/theorems/de615f2e-3072-4661-b257-d0897286ac0c

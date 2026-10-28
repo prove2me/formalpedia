@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P08_sum_rate_redundancy
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P08.sum_rate_redundancy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T09:15:12.334645+00:00
 -- url     : https://prove2.me/theorems/2e1f047c-9355-48da-b757-ad7be53d31a5

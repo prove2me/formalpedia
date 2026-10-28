@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Stability_G_structure
 -- name    : MatrixAnalytic.Stability.G_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:39.251214+00:00
 -- url     : https://prove2.me/theorems/72a2e39b-8e21-4b18-b97e-f51efc04421b

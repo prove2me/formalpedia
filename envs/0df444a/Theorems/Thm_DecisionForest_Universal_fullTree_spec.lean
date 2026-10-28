@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecisionForest_Universal_fullTree_spec
 -- name    : DecisionForest.Universal.fullTree_spec
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:38:42.859624+00:00
 -- url     : https://prove2.me/theorems/f775162c-bc6d-4881-b953-48ab8f69ba15

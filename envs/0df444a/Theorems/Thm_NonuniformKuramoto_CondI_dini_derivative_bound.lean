@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondI_dini_derivative_bound
 -- name    : NonuniformKuramoto.CondI.dini_derivative_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:24:33.485396+00:00
 -- url     : https://prove2.me/theorems/7e31789e-919c-4f28-8d1e-949e17ce92ec

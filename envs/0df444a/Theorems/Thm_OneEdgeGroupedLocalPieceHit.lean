@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OneEdgeGroupedLocalPieceHit
 -- name    : OneEdgeGroupedLocalPieceHit
--- status  : Open
+-- status  : Proved
 -- author  : @moona3k
 -- created : 2026-10-04T20:26:51.418403+00:00
 -- url     : https://prove2.me/theorems/3cac99a1-d536-44b6-a9c6-08f7ba491cc9

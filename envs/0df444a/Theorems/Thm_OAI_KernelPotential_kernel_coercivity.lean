@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KernelPotential_kernel_coercivity
 -- name    : OAI.KernelPotential.kernel_coercivity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:51.389693+00:00
 -- url     : https://prove2.me/theorems/303620de-b996-45e2-ad5c-d5b0a86b8828

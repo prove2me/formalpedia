@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsB_lconvex_basic_operations
 -- name    : DiscreteConvex.LConvexFunctionsB.lconvex_basic_operations
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:22:25.406606+00:00
 -- url     : https://prove2.me/theorems/6040ceb5-0d01-450d-a8d4-d8c7f562ed54

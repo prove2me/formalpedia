@@ -1,0 +1,5511 @@
+-- Prove2me | solution 1 for OAI.HardSphere.Groups.physicalObservedMixture_mass
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-10-27T20:12:33.354706+00:00
+-- url     : https://prove2.me/submissions/04972280-9227-42df-9ac8-ef62b56c63cc
+
+import Mathlib
+import Definitions.Def_HardSphere
+import Definitions.Def_OAIQ054H002
+import Theorems.Thm_OAI_HardSphere_Groups_physicalSharedOn_mass
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_Index
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instBorelSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasureNoiseLaw _root_.OAI.HardSphere.Bridge.instMeasurableSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.trialKernel_markov _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.Wiener.instIsProbabilityMeasureContinuousMapElemRealTimeBridgeLaw _root_.OAI.HardSphere.configurationPathBorel _root_.OAI.HardSphere.coordinateBridge_probability _root_.OAI.HardSphere.coordinateWiener_probability
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+section
+noncomputable section
+open MeasureTheory Filter Set
+open scoped ENNReal Topology BigOperators
+noncomputable section
+open scoped BigOperators ComplexConjugate
+noncomputable section
+open MeasureTheory ProbabilityTheory Filter Set
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Wiener
+
+lemma coordinate_preserving (i : Index) :
+    MeasurePreserving (fun ω : Noise ↦ ω i) law (gaussianReal 0 1) :=
+  measurePreserving_eval_infinitePi _ _
+
+lemma tent_nonneg (n : ℕ) (k : Fin (2 ^ n)) (t : ℝ) : 0 ≤ tent n k t :=
+  le_max_left _ _
+
+lemma tent_le_one (n : ℕ) (k : Fin (2 ^ n)) (t : ℝ) : tent n k t ≤ 1 := by
+  unfold tent
+  exact max_le (by norm_num) (by linarith [abs_nonneg ((2:ℝ)^(n+1)*t-(2*(k:ℝ)+1))])
+
+lemma tent_positive_unique (n : ℕ) (k l : Fin (2 ^ n)) (t : ℝ)
+    (hk : 0 < tent n k t) (hl : 0 < tent n l t) : k = l := by
+  have hk' : |(2 : ℝ) ^ (n + 1) * t - (2 * (k : ℝ) + 1)| < 1 := by
+    simpa only [tent, lt_max_iff, lt_self_iff_false, false_or, sub_pos] using hk
+  have hl' : |(2 : ℝ) ^ (n + 1) * t - (2 * (l : ℝ) + 1)| < 1 := by
+    simpa only [tent, lt_max_iff, lt_self_iff_false, false_or, sub_pos] using hl
+  obtain ⟨hk1, hk2⟩ := abs_lt.mp hk'
+  obtain ⟨hl1, hl2⟩ := abs_lt.mp hl'
+  have hkl : (k : ℝ) < (l : ℝ) + 1 := by linarith
+  have hlk : (l : ℝ) < (k : ℝ) + 1 := by linarith
+  have hkl' : k.val < l.val + 1 := by exact_mod_cast hkl
+  have hlk' : l.val < k.val + 1 := by exact_mod_cast hlk
+  apply Fin.ext
+  omega
+
+lemma sum_tent_le_one (n : ℕ) (t : ℝ) : ∑ k, tent n k t ≤ 1 := by
+  classical
+  by_cases h : ∃ k, 0 < tent n k t
+  · obtain ⟨k, hk⟩ := h
+    rw [Finset.sum_eq_single k]
+    · exact tent_le_one n k t
+    · intro l _ hl
+      exact le_antisymm (le_of_not_gt fun hp ↦ hl (tent_positive_unique n l k t hp hk))
+        (tent_nonneg n l t)
+    · simp
+  · have hz : ∀ k, tent n k t = 0 := fun k ↦
+      le_antisymm (le_of_not_gt fun hk ↦ h ⟨k, hk⟩) (tent_nonneg n k t)
+    simp [hz]
+
+lemma amplitude_nonneg (n : ℕ) : 0 ≤ amplitude n := by unfold amplitude; positivity
+
+lemma norm_level_le (n : ℕ) (ω : Noise) {M : ℝ} (hM : 0 ≤ M)
+    (hω : ∀ k : Fin (2 ^ n), |ω (.inr ⟨n, k⟩)| ≤ M) :
+    ‖level n ω‖ ≤ amplitude n * M := by
+  apply (ContinuousMap.norm_le _ (mul_nonneg (amplitude_nonneg n) hM)).2
+  intro t
+  simp only [level, ContinuousMap.smul_apply, ContinuousMap.sum_apply,
+    smul_eq_mul, tentMap, ContinuousMap.coe_mk, Real.norm_eq_abs]
+  rw [abs_mul, abs_of_nonneg (amplitude_nonneg n)]
+  apply mul_le_mul_of_nonneg_left _ (amplitude_nonneg n)
+  calc
+    |∑ k, ω (.inr ⟨n, k⟩) * tent n k t| ≤
+        ∑ k, |ω (.inr ⟨n, k⟩) * tent n k t| := Finset.abs_sum_le_sum_abs _ _
+    _ = ∑ k, |ω (.inr ⟨n, k⟩)| * tent n k t := by
+      simp_rw [abs_mul, abs_of_nonneg (tent_nonneg n _ t)]
+    _ ≤ ∑ k, M * tent n k t := Finset.sum_le_sum fun k _ ↦
+      mul_le_mul_of_nonneg_right (hω k) (tent_nonneg n k t)
+    _ = M * ∑ k, tent n k t := (Finset.mul_sum ..).symm
+    _ ≤ M * 1 := mul_le_mul_of_nonneg_left (sum_tent_le_one n t) hM
+    _ = M := mul_one _
+
+lemma moment_ne_top : moment ≠ ∞ := by
+  exact ENNReal.pow_ne_top (memLp_id_gaussianReal' (μ := 0) (v := 1) 4 (by norm_num)).2.ne
+
+lemma coordinate_tail (i : Index) {a : ℝ} (ha : 0 < a) :
+    law {ω | a ≤ |ω i|} ≤ (ENNReal.ofReal a)⁻¹ ^ (4 : ℕ) * moment := by
+  have hm := (memLp_id_gaussianReal' (μ := 0) (v := 1) 4 (by norm_num))
+  have he : eLpNorm (fun ω : Noise ↦ ω i) 4 law =
+      eLpNorm (id : ℝ → ℝ) 4 (gaussianReal 0 1) :=
+    by simpa only [Function.comp_def, id_eq] using
+      (eLpNorm_comp_measurePreserving (p := 4) (g := (id : ℝ → ℝ))
+        hm.aestronglyMeasurable (coordinate_preserving i))
+  have ht := meas_ge_le_mul_pow_eLpNorm_enorm law (p := 4) (by norm_num) (by norm_num)
+    (f := fun ω : Noise ↦ ω i)
+    ((coordinate_preserving i).measurable.aestronglyMeasurable)
+    (ε := ENNReal.ofReal a) (ne_of_gt (ENNReal.ofReal_pos.mpr ha)) (fun h => absurd h (by simp))
+  have hs : {ω : Noise | ENNReal.ofReal a ≤ ‖ω i‖ₑ} = {ω | a ≤ |ω i|} := by
+    ext ω
+    simp only [Set.mem_ofPred_eq, ← ofReal_norm, Real.norm_eq_abs]
+    exact ENNReal.ofReal_le_ofReal_iff (abs_nonneg _)
+  simpa only [Function.comp_def, id_eq, ENNReal.toReal_ofNat, ← ENNReal.rpow_natCast,
+    Nat.cast_ofNat, he, hs, moment] using ht
+
+lemma badLevel_bound (n : ℕ) :
+    law (badLevel n) ≤ (ENNReal.ofReal (81/128 : ℝ)) ^ n * moment := by
+  have hu : badLevel n = ⋃ k : Fin (2 ^ n), {ω | (4/3 : ℝ)^n ≤ |ω (.inr ⟨n, k⟩)|} := by
+    ext ω; simp [badLevel]
+  rw [hu]
+  refine (measure_iUnion_fintype_le _ _).trans ?_
+  calc
+    _ ≤ ∑ _k : Fin (2 ^ n), (ENNReal.ofReal ((4/3 : ℝ)^n))⁻¹ ^ (4 : ℕ) * moment :=
+      Finset.sum_le_sum fun k _ ↦ coordinate_tail _ (by positivity)
+    _ = (ENNReal.ofReal (81/128 : ℝ))^n * moment := by
+      simp only [Finset.sum_const, Finset.card_univ, Fintype.card_fin, nsmul_eq_mul,
+        Nat.cast_pow, Nat.cast_ofNat, ENNReal.ofReal_pow (by norm_num : (0:ℝ) ≤ 4/3),
+        ENNReal.ofReal_div_of_pos (by norm_num : (0:ℝ) < 3), ENNReal.ofReal_ofNat,
+        ← mul_assoc]
+      rw [ENNReal.inv_pow, ← pow_mul, Nat.mul_comm n 4, pow_mul, ← mul_pow]
+      have hq : (2 : ℝ≥0∞) * (4/3)⁻¹ ^ (4 : ℕ) = ENNReal.ofReal (81/128 : ℝ) := by
+        have hreal : (2 : ℝ) * (4/3)⁻¹ ^ (4 : ℕ) = 81/128 := by norm_num
+        rw [← hreal, ENNReal.ofReal_mul (by norm_num : (0:ℝ) ≤ 2),
+          ENNReal.ofReal_pow (by positivity), ENNReal.ofReal_inv_of_pos (by norm_num),
+          ENNReal.ofReal_div_of_pos (by norm_num)]
+        norm_num
+      rw [hq]
+
+lemma ae_eventually_coordinates_small : ∀ᵐ ω ∂law, ∀ᶠ n in atTop,
+    ∀ k : Fin (2 ^ n), |ω (.inr ⟨n, k⟩)| < (4/3 : ℝ)^n := by
+  have hs : (∑' n, law (badLevel n)) ≠ ∞ := by
+    apply ne_top_of_le_ne_top _ (ENNReal.tsum_le_tsum badLevel_bound)
+    rw [ENNReal.tsum_mul_right, ENNReal.tsum_geometric]
+    apply ENNReal.mul_ne_top _ moment_ne_top
+    simpa only [ENNReal.inv_ne_top] using
+      (ne_of_gt (tsub_pos_of_lt (by rw [ENNReal.ofReal_lt_one]; norm_num : (ENNReal.ofReal (81/128 : ℝ)) < 1)))
+  filter_upwards [ae_eventually_notMem hs] with ω hω
+  filter_upwards [hω] with n hn
+  simpa only [badLevel, Set.mem_ofPred_eq, not_exists, not_le] using hn
+
+lemma decay_lt_one : (4/3 : ℝ) / Real.sqrt 2 < 1 := by
+  have hp : 0 < Real.sqrt 2 := Real.sqrt_pos.2 (by norm_num)
+  rw [div_lt_one hp]
+  nlinarith [Real.sq_sqrt (by norm_num : (0:ℝ) ≤ 2)]
+
+lemma summable_level_bound : Summable (fun n : ℕ ↦ amplitude n * (4/3 : ℝ)^n) := by
+  have h := (summable_geometric_of_lt_one (by positivity : 0 ≤ (4/3 : ℝ) / Real.sqrt 2)
+    decay_lt_one).mul_left (1/2 : ℝ)
+  have heq : (fun n : ℕ ↦ amplitude n * (4/3 : ℝ)^n) =
+      (fun n : ℕ ↦ (1/2 : ℝ) * ((4/3 : ℝ) / Real.sqrt 2)^n) := by
+    funext n
+    simp only [amplitude, div_eq_mul_inv, mul_pow]
+    ring
+  rw [heq]
+  exact h
+
+lemma ae_summable_level : ∀ᵐ ω ∂law, Summable (fun n ↦ level n ω) := by
+  filter_upwards [ae_eventually_coordinates_small] with ω hω
+  apply summable_level_bound.of_norm_bounded_eventually_nat
+  filter_upwards [hω] with n hn
+  exact norm_level_le n ω (by positivity) (fun k ↦ (hn k).le)
+
+lemma tent_at_zero (n : ℕ) (k : Fin (2 ^ n)) : tent n k 0 = 0 := by
+  simp only [tent, mul_zero, zero_sub, abs_neg]
+  rw [abs_of_nonneg (by positivity : (0:ℝ) ≤ 2 * (k:ℝ) + 1)]
+  apply max_eq_left
+  norm_num
+
+lemma tent_at_one (n : ℕ) (k : Fin (2 ^ n)) : tent n k 1 = 0 := by
+  have hk : (k : ℝ) + 1 ≤ (2:ℝ)^n := by exact_mod_cast k.isLt
+  simp only [tent, mul_one, pow_succ]
+  rw [abs_of_nonneg (by linarith : (0:ℝ) ≤ (2:ℝ)^n*2-(2*(k:ℝ)+1))]
+  exact max_eq_left (by linarith)
+
+lemma level_at_zero (n : ℕ) (ω : Noise) : level n ω 0 = 0 := by
+  simp [level, tentMap, tent_at_zero]
+
+lemma level_at_one (n : ℕ) (ω : Noise) : level n ω 1 = 0 := by
+  simp [level, tentMap, tent_at_one]
+
+lemma path_at_zero (ω : Noise) : path ω 0 = 0 := by
+  by_cases h : Summable (fun n ↦ level n ω)
+  · simp only [path, ContinuousMap.add_apply, ContinuousMap.smul_apply, ContinuousMap.coe_mk,
+      smul_eq_mul]
+    change ω (.inl ()) * 0 + _ = 0
+    rw [← ContinuousMap.tsum_apply h]
+    simp [level_at_zero]
+  · simp [path, tsum_eq_zero_of_not_summable h]
+
+lemma path_at_one (ω : Noise) : path ω 1 = ω (.inl ()) := by
+  by_cases h : Summable (fun n ↦ level n ω)
+  · simp only [path, ContinuousMap.add_apply, ContinuousMap.smul_apply, ContinuousMap.coe_mk,
+      smul_eq_mul]
+    change ω (.inl ()) * 1 + _ = _
+    rw [← ContinuousMap.tsum_apply h]
+    simp [level_at_one]
+  · simp [path, tsum_eq_zero_of_not_summable h]
+
+open Complex in
+lemma hasLaw_gaussian_of_ae_tendsto {Ω : Type*} [MeasurableSpace Ω]
+    {P : Measure Ω} [IsProbabilityMeasure P] {X : ℕ → Ω → ℝ} {Y : Ω → ℝ}
+    {m : ℕ → ℝ} {v : ℕ → ℝ≥0} {m₀ : ℝ} {v₀ : ℝ≥0}
+    (hX : ∀ n, HasLaw (X n) (gaussianReal (m n) (v n)) P)
+    (hY : ∀ᵐ ω ∂P, Tendsto (fun n ↦ X n ω) atTop (𝓝 (Y ω)))
+    (hm : Tendsto m atTop (𝓝 m₀)) (hv : Tendsto v atTop (𝓝 v₀)) :
+    HasLaw Y (gaussianReal m₀ v₀) P := by
+  have hmY := aemeasurable_of_tendsto_metrizable_ae atTop (fun n ↦ (hX n).aemeasurable) hY
+  refine ⟨hmY, Measure.ext_of_charFun (funext fun t ↦ ?_)⟩
+  have : IsProbabilityMeasure (P.map Y) := by first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+  have hlim : Tendsto (fun n ↦ charFun (P.map (X n)) t) atTop
+      (𝓝 (charFun (P.map Y) t)) := by
+    have he (Z : Ω → ℝ) (hZ : AEMeasurable Z P) :
+        charFun (P.map Z) t = ∫ ω, exp ((t * Z ω : ℝ) * I) ∂P := by
+      rw [charFun_apply_real, integral_map hZ (by fun_prop)]
+      simp only [ofReal_mul]
+    simp_rw [he _ (hX _).aemeasurable, he _ hmY]
+    apply tendsto_integral_of_dominated_convergence (fun _ ↦ (1 : ℝ))
+    · intro n
+      exact ((by fun_prop : Continuous (fun x : ℝ ↦ exp ((t * x : ℝ) * I))).measurable.comp_aemeasurable
+        (hX n).aemeasurable).aestronglyMeasurable
+    · exact integrable_const 1
+    · intro n
+      exact ae_of_all P fun ω ↦ le_of_eq (norm_exp_ofReal_mul_I _)
+    · filter_upwards [hY] with ω hω
+      exact continuous_exp.continuousAt.tendsto.comp
+        ((continuous_ofReal.tendsto _ |>.comp (tendsto_const_nhds.mul hω)).mul_const I)
+  have hlim' : Tendsto (fun n ↦ charFun (P.map (X n)) t) atTop
+      (𝓝 (charFun (gaussianReal m₀ v₀) t)) := by
+    simp_rw [(hX _).map_eq, charFun_gaussianReal]
+    exact continuous_exp.continuousAt.tendsto.comp
+      (((tendsto_const_nhds.mul (continuous_ofReal.tendsto _ |>.comp hm)).mul_const I).sub
+        (((continuous_ofReal.tendsto _ |>.comp (NNReal.continuous_coe.tendsto _ |>.comp hv)).mul_const
+          ((t : ℂ)^2)).div_const 2))
+  exact tendsto_nhds_unique hlim hlim'
+
+lemma hasLaw_centered_gaussian_sum {ι Ω : Type*} [Fintype ι] [MeasurableSpace Ω]
+    {P : Measure Ω} [IsProbabilityMeasure P] {X : ι → Ω → ℝ} {v : ι → ℝ≥0}
+    (hX : ∀ i, HasLaw (X i) (gaussianReal 0 (v i)) P) (hind : iIndepFun X P) :
+    HasLaw (fun ω ↦ ∑ i, X i ω) (gaussianReal 0 (∑ i, v i)) P := by
+  classical
+  have hg := hind.hasGaussianLaw_fun_sum (fun i ↦ (hX i).hasGaussianLaw)
+  have hmean : ∫ ω, ∑ i, X i ω ∂P = 0 := by
+    rw [integral_finsetSum _ (fun i _ ↦ (hX i).hasGaussianLaw.integrable)]
+    simp only [(hX _).integral_eq, integral_id_gaussianReal, Finset.sum_const_zero]
+  have hvar : Var[fun ω ↦ ∑ i, X i ω; P] = ∑ i, (v i : ℝ) := by
+    have hh := IndepFun.variance_sum (s := Finset.univ)
+      (fun i _ ↦ (hX i).hasGaussianLaw.memLp_two)
+      (fun i _ j _ hij ↦ hind.indepFun hij)
+    have he : (fun ω ↦ ∑ i, X i ω) = ∑ i, X i := by funext ω; simp
+    rw [he]
+    simpa only [(hX _).variance_eq, variance_id_gaussianReal] using hh
+  refine ⟨hg.aemeasurable, ?_⟩
+  rw [hg.map_eq_gaussianReal, hmean, hvar]
+  simp only [← NNReal.coe_sum, Real.toNNReal_coe]
+
+lemma sum_split_level (n : ℕ) (f : Fin (2^(n+1)) → ℝ) :
+    ∑ k, f k = ∑ k, f (leftIndex n k) + ∑ k, f (rightIndex n k) := by
+  let e : Fin (2^n + 2^n) ≃ Fin (2^(n+1)) :=
+    finCongr (by simp [pow_succ, Nat.mul_two])
+  rw [← Equiv.sum_comp e, Fin.sum_univ_add]
+  rfl
+
+lemma tent_left (n : ℕ) (k : Fin (2^n)) (s : ℝ) :
+    tent (n+1) (leftIndex n k) s = tent n k (2*s) := by
+  unfold tent leftIndex
+  congr 3
+  simp only [pow_succ]
+  ring
+
+lemma tent_right (n : ℕ) (k : Fin (2^n)) (s : ℝ) :
+    tent (n+1) (rightIndex n k) s = tent n k (2*s-1) := by
+  unfold tent rightIndex
+  congr 3
+  simp only [pow_succ, Nat.cast_add, Nat.cast_pow, Nat.cast_ofNat]
+  ring
+
+lemma tent_nonpos (n : ℕ) (k : Fin (2^n)) {s : ℝ} (hs : s ≤ 0) : tent n k s = 0 := by
+  unfold tent
+  apply max_eq_left
+  have hpow : 0 ≤ (2:ℝ)^(n+1) := by positivity
+  have hx : (2:ℝ)^(n+1)*s ≤ 0 := mul_nonpos_of_nonneg_of_nonpos hpow hs
+  rw [abs_of_nonpos (by linarith [show (0:ℝ) ≤ k by positivity])]
+  linarith [show (0:ℝ) ≤ k by positivity]
+
+lemma tent_ge_one (n : ℕ) (k : Fin (2^n)) {s : ℝ} (hs : 1 ≤ s) : tent n k s = 0 := by
+  have hk : (k : ℝ) + 1 ≤ (2:ℝ)^n := by exact_mod_cast k.isLt
+  have hp : 0 < (2:ℝ)^n := by positivity
+  have hx : (2:ℝ)^n*2 ≤ (2:ℝ)^n*2*s := le_mul_of_one_le_right (by positivity) hs
+  unfold tent
+  simp only [pow_succ]
+  rw [abs_of_nonneg (by linarith : (0:ℝ) ≤ (2:ℝ)^n*2*s-(2*(k:ℝ)+1))]
+  exact max_eq_left (by linarith)
+
+lemma hatKernel_rec (n : ℕ) (s t : ℝ) :
+    hatKernel (n+1) s t = hatKernel n (2*s) (2*t) + hatKernel n (2*s-1) (2*t-1) := by
+  unfold hatKernel
+  rw [sum_split_level]
+  simp only [tent_left, tent_right]
+
+lemma partialBridge_zero_left (n : ℕ) {s : ℝ} (hs : s ≤ 0 ∨ 1 ≤ s) (t : ℝ) :
+    partialBridge n s t = 0 := by
+  rcases hs with hs | hs <;> simp [partialBridge, hatKernel, tent_nonpos, tent_ge_one, hs]
+
+lemma partialBridge_zero_right (n : ℕ) (s : ℝ) {t : ℝ} (ht : t ≤ 0 ∨ 1 ≤ t) :
+    partialBridge n s t = 0 := by
+  rcases ht with ht | ht <;> simp [partialBridge, hatKernel, tent_nonpos, tent_ge_one, ht]
+
+lemma partialBridge_rec (n : ℕ) (s t : ℝ) :
+    partialBridge (n+1) s t = (1/4 : ℝ) * tent 0 0 s * tent 0 0 t +
+      (1/2 : ℝ)*(partialBridge n (2*s) (2*t) + partialBridge n (2*s-1) (2*t-1)) := by
+  have h0 : hatKernel 0 s t = tent 0 0 s * tent 0 0 t := by
+    simp [hatKernel]
+  have hx : ∑ m ∈ Finset.range n, weight (m+1)*hatKernel (m+1) s t =
+      (1/2 : ℝ)*(partialBridge n (2*s) (2*t) + partialBridge n (2*s-1) (2*t-1)) := by
+    simp only [partialBridge, mul_add, Finset.mul_sum, ← Finset.sum_add_distrib]
+    apply Finset.sum_congr rfl
+    intro m _
+    rw [hatKernel_rec]
+    simp only [weight, pow_succ]
+    ring
+  change (∑ m ∈ Finset.range (n+1), weight m * hatKernel m s t) = _
+  rw [Finset.sum_range_succ', hx, h0]
+  simp only [weight, pow_zero, mul_one]
+  ring
+
+lemma tent_zero_left {s : ℝ} (h0 : 0 ≤ s) (h1 : s ≤ 1/2) : tent 0 0 s = 2*s := by
+  simp only [tent, pow_one, Fin.val_zero, Nat.cast_zero, mul_zero, zero_add]
+  rw [abs_of_nonpos (by linarith), max_eq_right (by linarith)]
+  ring
+
+lemma tent_zero_right {s : ℝ} (h0 : 1/2 ≤ s) (h1 : s ≤ 1) : tent 0 0 s = 2*(1-s) := by
+  simp only [tent, pow_one, Fin.val_zero, Nat.cast_zero, mul_zero, zero_add]
+  rw [abs_of_nonneg (by linarith), max_eq_right (by linarith)]
+  ring
+
+lemma weight_step (n : ℕ) : weight (n+1) = (1/2 : ℝ)*weight n := by
+  simp only [weight, pow_succ]
+  ring
+
+lemma abs_half_mul (x : ℝ) : |(1/2 : ℝ)*x| = (1/2 : ℝ)*|x| := by
+  rw [abs_mul]
+  norm_num
+
+lemma partialBridge_error_ordered (n : ℕ) {s t : ℝ}
+    (hs : 0 ≤ s) (ht : t ≤ 1) (hst : s ≤ t) :
+    |partialBridge n s t - (s-s*t)| ≤ weight n := by
+  induction n generalizing s t with
+  | zero =>
+      have hnn : 0 ≤ s-s*t := by nlinarith
+      have hb : s-s*t ≤ (1/4 : ℝ) := by nlinarith [sq_nonneg (s-1/2)]
+      simp only [partialBridge, Finset.range_zero, Finset.sum_empty, zero_sub,
+        abs_neg, abs_of_nonneg hnn, weight, pow_zero, mul_one]
+      exact hb
+  | succ n ih =>
+      rw [partialBridge_rec, weight_step]
+      by_cases ht2 : t ≤ 1/2
+      · have hs2 : s ≤ 1/2 := hst.trans ht2
+        rw [tent_zero_left hs hs2, tent_zero_left (hs.trans hst) ht2,
+          partialBridge_zero_left n (Or.inl (by linarith : 2*s-1 ≤ 0)), add_zero]
+        have hh := ih (s := 2*s) (t := 2*t) (by linarith) (by linarith) (by linarith)
+        calc
+          _ = (1/2 : ℝ)*|partialBridge n (2*s) (2*t) - (2*s-(2*s)*(2*t))| := by
+            rw [← abs_half_mul]
+            congr 1
+            ring
+          _ ≤ _ := mul_le_mul_of_nonneg_left hh (by norm_num)
+      · by_cases hs2 : 1/2 ≤ s
+        · rw [tent_zero_right hs2 (hst.trans ht), tent_zero_right (hs2.trans hst) ht,
+            partialBridge_zero_left n (Or.inr (by linarith : 1 ≤ 2*s)), zero_add]
+          have hh := ih (s := 2*s-1) (t := 2*t-1) (by linarith) (by linarith) (by linarith)
+          calc
+            _ = (1/2 : ℝ)*|partialBridge n (2*s-1) (2*t-1) - ((2*s-1)-(2*s-1)*(2*t-1))| := by
+              rw [← abs_half_mul]
+              congr 1
+              ring
+            _ ≤ _ := mul_le_mul_of_nonneg_left hh (by norm_num)
+        · rw [tent_zero_left hs (by linarith), tent_zero_right (by linarith) ht,
+            partialBridge_zero_right n _ (Or.inr (by linarith : 1 ≤ 2*t)),
+            partialBridge_zero_left n (Or.inl (by linarith : 2*s-1 ≤ 0))]
+          have he : (1/4 : ℝ)*(2*s)*(2*(1-t)) + (1/2)*(0+0) - (s-s*t) = 0 := by ring
+          rw [he, abs_zero]
+          unfold weight
+          positivity
+
+end HardSphere.Wiener
+end
+end
+end
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_PartialIndex
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instBorelSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasureNoiseLaw _root_.OAI.HardSphere.Bridge.instMeasurableSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.trialKernel_markov _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.configurationPathBorel _root_.OAI.HardSphere.coordinateBridge_probability _root_.OAI.HardSphere.coordinateWiener_probability
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+section
+noncomputable section
+open MeasureTheory Filter Set
+open scoped ENNReal Topology BigOperators
+noncomputable section
+open scoped BigOperators ComplexConjugate
+noncomputable section
+open MeasureTheory ProbabilityTheory Filter Set
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Wiener
+
+lemma partialBridge_symm (n : ℕ) (s t : ℝ) : partialBridge n s t = partialBridge n t s := by
+  simp only [partialBridge, hatKernel, mul_comm (tent _ _ s) (tent _ _ t)]
+
+lemma partialBridge_error (n : ℕ) {s t : ℝ}
+    (hs : s ∈ Set.Icc (0:ℝ) 1) (ht : t ∈ Set.Icc (0:ℝ) 1) :
+    |partialBridge n s t - (min s t-s*t)| ≤ weight n := by
+  rcases le_total s t with hst | hts
+  · rw [min_eq_left hst]
+    exact partialBridge_error_ordered n hs.1 ht.2 hst
+  · rw [partialBridge_symm, min_eq_right hts, mul_comm s t]
+    exact partialBridge_error_ordered n ht.1 hs.2 hts
+
+lemma partialBridge_tendsto {s t : ℝ}
+    (hs : s ∈ Set.Icc (0:ℝ) 1) (ht : t ∈ Set.Icc (0:ℝ) 1) :
+    Filter.Tendsto (fun n ↦ partialBridge n s t) Filter.atTop (𝓝 (min s t-s*t)) := by
+  apply tendsto_iff_norm_sub_tendsto_zero.mpr
+  apply squeeze_zero (fun n ↦ norm_nonneg _) (fun n ↦ partialBridge_error n hs ht)
+  change Filter.Tendsto (fun n ↦ weight n) Filter.atTop (𝓝 0)
+  simpa only [weight, mul_zero] using
+    (tendsto_const_nhds.mul
+      (tendsto_pow_atTop_nhds_zero_of_lt_one (by norm_num : (0:ℝ) ≤ 1/2)
+        (by norm_num : (1/2:ℝ) < 1)) :
+      Filter.Tendsto (fun n ↦ (1/4:ℝ)*(1/2:ℝ)^n) Filter.atTop (𝓝 ((1/4:ℝ)*0)))
+
+lemma partialEmbed_injective (n : ℕ) : Function.Injective (partialEmbed n) := by
+  intro i j hij
+  cases i with
+  | inl u =>
+    cases j with
+    | inl v => exact congrArg Sum.inl (Subsingleton.elim _ _)
+    | inr j => cases hij
+  | inr i =>
+    cases j with
+    | inl u => cases hij
+    | inr j =>
+      obtain ⟨m,k⟩ := i
+      obtain ⟨l,q⟩ := j
+      simp only [partialEmbed, Sum.inr.injEq] at hij
+      cases m; cases l
+      cases hij
+      rfl
+
+lemma partialPath_expansion (n : ℕ) (t : Time) (ω : Noise) :
+    partialPath n ω t = ∑ i : PartialIndex n, coefficient n t i * ω (partialEmbed n i) := by
+  simp only [Fintype.sum_sum_type, Fintype.sum_sigma, coefficient, partialEmbed,
+    Fintype.sum_unique, partialPath, ContinuousMap.add_apply, ContinuousMap.smul_apply,
+    ContinuousMap.coe_mk, smul_eq_mul, ContinuousMap.sum_apply, level, tentMap,
+    ← Finset.mul_sum]
+  rw [Fin.sum_univ_eq_sum_range (fun m ↦ ∑ k : Fin (2^m),
+    amplitude m * tent m k t * ω (.inr ⟨m,k⟩)) n]
+  congr 1
+  · ring
+  · apply Finset.sum_congr rfl
+    intro m _
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro k _
+    ring
+
+lemma coefficient_covariance (n : ℕ) (s t : ℝ) :
+    ∑ i : PartialIndex n, coefficient n s i * coefficient n t i =
+      s*t + partialBridge n s t := by
+  have hamp (m : ℕ) : amplitude m ^ 2 = weight m := by
+    have hs : (Real.sqrt 2)^2 = (2:ℝ) := Real.sq_sqrt (by norm_num)
+    simp only [amplitude, mul_pow, weight]
+    rw [← pow_mul, Nat.mul_comm m 2, pow_mul, inv_pow, hs]
+    norm_num
+  simp only [Fintype.sum_sum_type, Fintype.sum_sigma, coefficient, Fintype.sum_unique]
+  rw [Fin.sum_univ_eq_sum_range (fun m ↦ ∑ k : Fin (2^m),
+    amplitude m * tent m k s * (amplitude m * tent m k t)) n]
+  congr 1
+  unfold partialBridge
+  apply Finset.sum_congr rfl
+  intro m _
+  rw [hatKernel, Finset.mul_sum, ← hamp]
+  apply Finset.sum_congr rfl
+  intro k _
+  ring
+
+lemma independent_coordinates : iIndepFun (fun i ω ↦ ω i) law :=
+  iIndepFun_infinitePi (fun _ ↦ measurable_id)
+
+lemma finite_coordinate_law (n : ℕ) (c : PartialIndex n → ℝ) :
+    HasLaw (fun ω ↦ ∑ i, c i * ω (partialEmbed n i))
+      (gaussianReal 0 (∑ i, NNReal.mk ((c i)^2) (sq_nonneg _))) law := by
+  have hh (i : PartialIndex n) : HasLaw (fun ω ↦ c i * ω (partialEmbed n i))
+      (gaussianReal 0 (NNReal.mk ((c i)^2) (sq_nonneg _))) law := by
+    simpa only [mul_zero, mul_one] using
+      gaussianReal_const_mul (coordinate_preserving (partialEmbed n i)).hasLaw (c i)
+  exact hasLaw_centered_gaussian_sum hh
+    ((independent_coordinates.precomp (partialEmbed_injective n)).comp
+      (fun i x ↦ c i*x) (fun i ↦ by fun_prop))
+
+lemma square_sum_covariance {ι κ : Type*} [Fintype ι] [Fintype κ]
+    (c : ι → ℝ) (f : ι → κ → ℝ) :
+    ∑ u, (∑ i, c i*f i u)^2 = ∑ i, ∑ j, c i*c j*(∑ u, f i u*f j u) := by
+  simp only [pow_two, Finset.mul_sum, Finset.sum_mul]
+  rw [Finset.sum_comm]
+  apply Finset.sum_congr rfl
+  intro i _
+  rw [Finset.sum_comm]
+  apply Finset.sum_congr rfl
+  intro j _
+  apply Finset.sum_congr rfl
+  intro u _
+  ring
+
+lemma ae_partialPath_tendsto : ∀ᵐ ω ∂law,
+    Tendsto (fun n ↦ partialPath n ω) atTop (𝓝 (path ω)) := by
+  filter_upwards [ae_summable_level] with ω hω
+  exact tendsto_const_nhds.add hω.hasSum.tendsto_sum_nat
+
+lemma finite_projection_expansion {ι : Type*} [Fintype ι]
+    (n : ℕ) (c : ι → ℝ) (t : ι → Time) (ω : Noise) :
+    ∑ i, c i * partialPath n ω (t i) =
+      ∑ u : PartialIndex n, (∑ i, c i * coefficient n (t i) u) * ω (partialEmbed n u) := by
+  simp_rw [partialPath_expansion, Finset.mul_sum, Finset.sum_mul]
+  rw [Finset.sum_comm]
+  apply Finset.sum_congr rfl
+  intro u _
+  apply Finset.sum_congr rfl
+  intro i _
+  ring
+
+lemma finite_projection_variance {ι : Type*} [Fintype ι]
+    (n : ℕ) (c : ι → ℝ) (t : ι → Time) :
+    ∑ u : PartialIndex n, (∑ i, c i * coefficient n (t i) u)^2 =
+      ∑ i, ∑ j, c i*c j*((t i : ℝ)*(t j : ℝ)+partialBridge n (t i) (t j)) := by
+  rw [square_sum_covariance]
+  simp_rw [coefficient_covariance]
+
+lemma finite_projection_law {ι : Type*} [Fintype ι]
+    (n : ℕ) (c : ι → ℝ) (t : ι → Time) :
+    HasLaw (fun ω ↦ ∑ i, c i * partialPath n ω (t i))
+      (gaussianReal 0 (Real.toNNReal
+        (∑ i, ∑ j, c i*c j*((t i : ℝ)*(t j : ℝ)+partialBridge n (t i) (t j))))) law := by
+  have hh := finite_coordinate_law n (fun u ↦ ∑ i, c i * coefficient n (t i) u)
+  simp_rw [finite_projection_expansion]
+  convert hh using 2
+  all_goals try with_reducible_and_instances rfl
+  rw [← finite_projection_variance]
+  change Real.toNNReal (∑ u : PartialIndex n,
+    ((NNReal.mk ((∑ i, c i * coefficient n (t i) u)^2) (sq_nonneg _) : ℝ≥0) : ℝ)) = _
+  rw [← NNReal.coe_sum, Real.toNNReal_coe]
+
+lemma path_projection_law {ι : Type*} [Fintype ι]
+    (c : ι → ℝ) (t : ι → Time) :
+    HasLaw (fun ω ↦ ∑ i, c i * path ω (t i))
+      (gaussianReal 0 (Real.toNNReal (∑ i, ∑ j, c i*c j*min (t i : ℝ) (t j : ℝ)))) law := by
+  refine hasLaw_gaussian_of_ae_tendsto (fun n ↦ finite_projection_law n c t) ?_
+    tendsto_const_nhds ?_
+  · filter_upwards [ae_partialPath_tendsto] with ω hω
+    apply tendsto_finsetSum
+    intro i _
+    exact tendsto_const_nhds.mul ((continuous_eval_const (t i)).tendsto _ |>.comp hω)
+  · apply continuous_real_toNNReal.tendsto _ |>.comp
+    apply tendsto_finsetSum
+    intro i _
+    apply tendsto_finsetSum
+    intro j _
+    have hh := ((tendsto_const_nhds (x := (t i : ℝ)*(t j : ℝ))).add
+      (partialBridge_tendsto (t i).property (t j).property)).const_mul (c i*c j)
+    convert hh using 1
+    all_goals try with_reducible_and_instances rfl
+    congr 1
+    ring
+
+lemma finite_linear_projection {ι : Type*} [Fintype ι] [DecidableEq ι]
+    (L : (ι → ℝ) →L[ℝ] ℝ) (x : ι → ℝ) :
+    L x = ∑ i, L (Pi.single i 1) * x i := by
+  conv_lhs => rw [pi_eq_sum_univ' x]
+  simp only [map_sum, map_smul, smul_eq_mul]
+  apply Finset.sum_congr rfl
+  intro i _
+  ring
+
+lemma finite_path_gaussian {ι : Type*} [Fintype ι] (t : ι → Time) :
+    HasGaussianLaw (fun ω i ↦ path ω (t i)) law := by
+  classical
+  have hm : Measurable (fun ω i ↦ path ω (t i)) :=
+    Measurable.of_eval fun coordinate ↦
+      (continuous_eval_const (t coordinate)).measurable.comp measurable_path
+  refine ⟨?_⟩
+  apply isGaussian_of_map_eq_gaussianReal
+  intro L
+  refine ⟨0, Real.toNNReal (∑ i, ∑ j,
+    L (Pi.single i 1)*L (Pi.single j 1)*min (t i : ℝ) (t j : ℝ)), ?_⟩
+  rw [Measure.map_map L.continuous.measurable hm]
+  convert (path_projection_law (fun i ↦ L (Pi.single i 1)) t).map_eq using 1
+  all_goals try with_reducible_and_instances rfl
+  congr 1
+  funext ω
+  exact finite_linear_projection L _
+
+lemma path_eval_law (t : Time) :
+    HasLaw (fun ω ↦ path ω t) (gaussianReal 0 (Real.toNNReal t.val)) law := by
+  simpa using path_projection_law (fun _ : Unit ↦ (1:ℝ)) (fun _ ↦ t)
+
+lemma path_variance (t : Time) : Var[fun ω ↦ path ω t; law] = t.val := by
+  rw [(path_eval_law t).variance_eq, variance_id_gaussianReal, Real.coe_toNNReal _ t.property.1]
+
+lemma path_add_law (s t : Time) :
+    HasLaw (fun ω ↦ path ω s + path ω t)
+      (gaussianReal 0 ((s:ℝ)+(t:ℝ)+2*min (s:ℝ) (t:ℝ)).toNNReal) law := by
+  have hh := path_projection_law (fun _ : Bool ↦ (1:ℝ)) (fun b ↦ if b then s else t)
+  simp only [Fintype.sum_bool, Bool.false_eq_true, ↓reduceIte, mul_one, one_mul, min_self] at hh
+  convert hh using 1
+  all_goals try with_reducible_and_instances rfl
+  congr 1
+  congr 1
+  rw [min_comm (t:ℝ) (s:ℝ)]
+  ring
+
+lemma path_covariance (s t : Time) :
+    cov[fun ω ↦ path ω s, fun ω ↦ path ω t; law] = min (s:ℝ) (t:ℝ) := by
+  have hs : 0 ≤ (s:ℝ) := s.property.1
+  have ht : 0 ≤ (t:ℝ) := t.property.1
+  have hmin : 0 ≤ min (s:ℝ) (t:ℝ) := le_min hs ht
+  have hvar := variance_fun_add (path_eval_law s).hasGaussianLaw.memLp_two
+    (path_eval_law t).hasGaussianLaw.memLp_two
+  rw [path_variance s, path_variance t, (path_add_law s t).variance_eq,
+    variance_id_gaussianReal, Real.coe_toNNReal _ (by positivity)] at hvar
+  linarith
+
+lemma bridge_eq (ω : Noise) : bridge ω = ∑' n, level n ω := by
+  simp only [bridge, bridgeMap, path, embedRest, Sum.elim_inl, zero_smul, zero_add]
+  congr 1
+
+lemma path_decomposition (ω : Noise) : path ω = ω (.inl ()) • linearPath + bridge ω := by
+  rw [bridge_eq]
+  rfl
+
+lemma bridge_at_zero (ω : Noise) : bridge ω 0 = 0 := path_at_zero _
+lemma bridge_at_one (ω : Noise) : bridge ω 1 = 0 := path_at_one _
+
+lemma bridge_apply (ω : Noise) (t : Time) : bridge ω t = path ω t - t.val * path ω 1 := by
+  have h := congrArg (fun f : C(Time,ℝ) ↦ f t) (path_decomposition ω)
+  simp only [ContinuousMap.add_apply, ContinuousMap.smul_apply, linearPath,
+    ContinuousMap.coe_mk, smul_eq_mul] at h
+  rw [path_at_one]
+  linarith
+
+lemma bridge_projection_algebra {ι : Type*} [Fintype ι] (c : ι → ℝ) (t : ι → Time) :
+    let a : Option ι → ℝ := fun i ↦ i.elim (-∑ i, c i*(t i:ℝ)) c
+    let u : Option ι → Time := fun i ↦ i.elim 1 t
+    (∑ i, ∑ j, a i*a j*min (u i:ℝ) (u j:ℝ)) =
+      ∑ i, ∑ j, c i*c j*(min (t i:ℝ) (t j:ℝ) - (t i:ℝ)*(t j:ℝ)) := by
+  let A : ℝ := ∑ i, c i*(t i:ℝ)
+  have hh : (∑ i, ∑ j, c i*c j*((t i:ℝ)*(t j:ℝ))) = A*A := by
+    dsimp only [A]
+    rw [Finset.sum_mul_sum]
+    apply Finset.sum_congr rfl
+    intro i _
+    apply Finset.sum_congr rfl
+    intro j _
+    ring
+  have h1 : (∑ i, (-A)*c i*(t i:ℝ)) = -A*A := by
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro i _
+    ring
+  have h2 : (∑ i, c i*(-A)*(t i:ℝ)) = -A*A := by
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro i _
+    ring
+  dsimp only
+  simp only [Fintype.sum_option, Option.elim_none, Option.elim_some,
+    show ((1:Time):ℝ) = 1 from rfl, min_self, min_eq_right (t _).property.2,
+    min_eq_left (t _).property.2, mul_one]
+  simp only [Finset.sum_add_distrib, mul_sub, Finset.sum_sub_distrib]
+  change (-A)*(-A) + (∑ i, (-A)*c i*(t i:ℝ)) +
+    ((∑ i, c i*(-A)*(t i:ℝ)) + _) = _
+  rw [h1,h2,hh]
+  ring
+
+lemma bridge_projection_law {ι : Type*} [Fintype ι] (c : ι → ℝ) (t : ι → Time) :
+    HasLaw (fun ω ↦ ∑ i, c i*bridge ω (t i))
+      (gaussianReal 0 (Real.toNNReal (∑ i, ∑ j, c i*c j*
+        (min (t i:ℝ) (t j:ℝ) - (t i:ℝ)*(t j:ℝ))))) law := by
+  have h := path_projection_law (fun i : Option ι ↦ i.elim (-∑ i, c i*(t i:ℝ)) c)
+    (fun i ↦ i.elim 1 t)
+  rw [bridge_projection_algebra] at h
+  convert h using 1
+  all_goals try with_reducible_and_instances rfl
+  funext ω
+  simp only [Fintype.sum_option, Option.elim_none, Option.elim_some, bridge_apply,
+    mul_sub, Finset.sum_sub_distrib, neg_mul, Finset.sum_mul]
+  simp only [mul_assoc]
+  ring
+
+lemma denseEval_embedding : MeasurableEmbedding denseEval := by
+  apply Measurable.measurableEmbedding
+  · exact Measurable.of_eval fun _ ↦ (continuous_eval_const _).measurable
+  · intro f g h
+    apply DFunLike.coe_injective
+    exact (TopologicalSpace.denseRange_denseSeq Time).equalizer f.continuous g.continuous h
+
+lemma continuous_path_law_ext {X Y : Noise → C(Time,ℝ)}
+    (hX : Measurable X) (hY : Measurable Y)
+    (h : ∀ {ι : Type} [Fintype ι] (c : ι → ℝ) (t : ι → Time),
+      law.map (fun ω ↦ ∑ i, c i * X ω (t i)) =
+        law.map (fun ω ↦ ∑ i, c i * Y ω (t i))) :
+    law.map X = law.map Y := by
+  apply denseEval_embedding.map_injective
+  rw [Measure.map_map denseEval_embedding.measurable hX,
+    Measure.map_map denseEval_embedding.measurable hY]
+  apply (map_eq_iff_forall_finset_map_restrict_eq
+    (denseEval_embedding.measurable.comp hX).aemeasurable
+    (denseEval_embedding.measurable.comp hY).aemeasurable).mpr
+  intro I
+  apply Measure.ext_of_charFunDual
+  funext L
+  rw [charFunDual_eq_charFun_map_one, charFunDual_eq_charFun_map_one]
+  congr 1
+  have hXm : Measurable (fun ω ↦ I.restrict (fun x ↦ denseEval (X ω) x)) :=
+    Measurable.of_eval fun coordinate ↦ (measurable_pi_apply coordinate.val).comp
+      (denseEval_embedding.measurable.comp hX)
+  have hYm : Measurable (fun ω ↦ I.restrict (fun x ↦ denseEval (Y ω) x)) :=
+    Measurable.of_eval fun coordinate ↦ (measurable_pi_apply coordinate.val).comp
+      (denseEval_embedding.measurable.comp hY)
+  simp only [Function.comp_def, Finset.restrict_def] at hXm hYm ⊢
+  rw [Measure.map_map L.continuous.measurable hXm,
+    Measure.map_map L.continuous.measurable hYm]
+  convert h (fun i : I ↦ L (Pi.single i 1))
+    (fun i : I ↦ TopologicalSpace.denseSeq Time i.val) using 1 <;>
+    congr 1 <;> funext ω <;> exact finite_linear_projection L _
+
+end HardSphere.Wiener
+end
+end
+end
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_PrefixMap
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instBorelSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasureNoiseLaw _root_.OAI.HardSphere.Bridge.instMeasurableSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.trialKernel_markov _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.configurationPathBorel _root_.OAI.HardSphere.coordinateBridge_probability _root_.OAI.HardSphere.coordinateWiener_probability
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Filter Set
+open scoped ENNReal Topology BigOperators
+open scoped BigOperators ComplexConjugate
+open MeasureTheory ProbabilityTheory Filter Set
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Wiener
+
+lemma prefixTime_le (u t : Time) : (prefixTime u t:ℝ) ≤ u := by
+  change (u:ℝ)*(t:ℝ) ≤ u
+  nlinarith [u.property.1,t.property.2]
+lemma le_suffixTime (u t : Time) : (u:ℝ) ≤ suffixTime u t := by
+  change (u:ℝ) ≤ (u:ℝ)+(1-(u:ℝ))*(t:ℝ)
+  nlinarith [u.property.2,t.property.1]
+
+lemma scaled_path_projection_law {ι : Type*} [Fintype ι]
+    (r : ℝ) (hr : 0 ≤ r) (c : ι → ℝ) (t : ι → Time) :
+    HasLaw (fun ω ↦ ∑ i, c i * (Real.sqrt r • path ω) (t i))
+      (gaussianReal 0 (Real.toNNReal (r * ∑ i, ∑ j,
+        c i*c j*min (t i:ℝ) (t j:ℝ)))) law := by
+  have hh := path_projection_law (fun i ↦ c i * Real.sqrt r) t
+  convert hh using 1
+  · funext ω
+    apply Finset.sum_congr rfl
+    intro i _
+    simp only [ContinuousMap.smul_apply,smul_eq_mul]
+    ring
+  · congr 1
+    congr 1
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro i _
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro j _
+    calc
+      r * (c i*c j*min (t i:ℝ) (t j:ℝ)) =
+          Real.sqrt r ^ 2 * (c i*c j*min (t i:ℝ) (t j:ℝ)) := by rw [Real.sq_sqrt hr]
+      _ = _ := by ring
+
+lemma prefix_law (u : Time) :
+    law.map (fun ω ↦ prefixMap u (path ω)) =
+      law.map (fun ω ↦ Real.sqrt (u:ℝ) • path ω) := by
+  apply continuous_path_law_ext (X := fun ω ↦ prefixMap u (path ω))
+    (Y := fun ω ↦ Real.sqrt (u:ℝ) • path ω)
+    ((prefixMap u).continuous.measurable.comp measurable_path)
+    ((show Measurable (fun f : C(Time,ℝ) ↦ Real.sqrt (u:ℝ) • f) from
+      (by fun_prop)).comp measurable_path)
+  intro ι _ c t
+  have h := path_projection_law c (fun i ↦ prefixTime u (t i))
+  have hvar : (∑ i, ∑ j, c i*c j*min (prefixTime u (t i):ℝ) (prefixTime u (t j):ℝ)) =
+      (u:ℝ)*∑ i, ∑ j, c i*c j*min (t i:ℝ) (t j:ℝ) := by
+    simp only [prefixTime,ContinuousMap.coe_mk]
+    simp_rw [← mul_min_of_nonneg _ _ u.property.1]
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro i _
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro j _
+    ring
+  rw [hvar] at h
+  exact h.map_eq.trans (scaled_path_projection_law _ u.property.1 c t).map_eq.symm
+
+lemma suffix_projection_algebra {ι : Type*} [Fintype ι]
+    (u : Time) (c : ι → ℝ) (t : ι → Time) :
+    let a : Option ι → ℝ := fun i ↦ i.elim (-∑ i, c i) c
+    let v : Option ι → Time := fun i ↦ i.elim u (fun j ↦ suffixTime u (t j))
+    (∑ i, ∑ j, a i*a j*min (v i:ℝ) (v j:ℝ)) =
+      (1-(u:ℝ))*∑ i, ∑ j, c i*c j*min (t i:ℝ) (t j:ℝ) := by
+  let A : ℝ := ∑ i, c i
+  have hh : (∑ i, ∑ j, c i*c j*(u:ℝ)) = A*A*(u:ℝ) := by
+    dsimp only [A]
+    rw [Finset.sum_mul_sum, Finset.sum_mul]
+    apply Finset.sum_congr rfl
+    intro i _
+    rw [Finset.sum_mul]
+  have h1 : (∑ i, (-A)*c i*(u:ℝ)) = -A*A*(u:ℝ) := by
+    rw [← Finset.sum_mul, ← Finset.mul_sum]
+  have h2 : (∑ i, c i*(-A)*(u:ℝ)) = -A*A*(u:ℝ) := by
+    rw [← Finset.sum_mul, ← Finset.sum_mul]
+    dsimp only [A]
+    ring
+  have h3 : (∑ i, ∑ j, c i*c j*((1-(u:ℝ))*min (t i:ℝ) (t j:ℝ))) =
+      (1-(u:ℝ))*∑ i, ∑ j, c i*c j*min (t i:ℝ) (t j:ℝ) := by
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro i _
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro j _
+    ring
+  dsimp only
+  simp only [Fintype.sum_option,Option.elim_none,Option.elim_some,
+    min_self,min_eq_left (le_suffixTime u (t _)),min_eq_right (le_suffixTime u (t _))]
+  have ht i j : min (suffixTime u (t i):ℝ) (suffixTime u (t j):ℝ) =
+      (u:ℝ)+(1-(u:ℝ))*min (t i:ℝ) (t j:ℝ) := by
+    change min ((u:ℝ)+(1-(u:ℝ))*(t i:ℝ)) ((u:ℝ)+(1-(u:ℝ))*(t j:ℝ)) = _
+    rw [min_add_add_left,← mul_min_of_nonneg _ _ (sub_nonneg.mpr u.property.2)]
+  simp_rw [ht,mul_add,Finset.sum_add_distrib]
+  change (-A)*(-A)*(u:ℝ)+(∑ i,(-A)*c i*(u:ℝ))+
+    ((∑ i,c i*(-A)*(u:ℝ))+((∑ i,∑ j,c i*c j*(u:ℝ))+_)) = _
+  rw [hh,h1,h2,h3]
+  ring
+
+lemma suffix_law (u : Time) :
+    law.map (fun ω ↦ suffixMap u (path ω)) =
+      law.map (fun ω ↦ Real.sqrt (1-(u:ℝ)) • path ω) := by
+  apply continuous_path_law_ext (X := fun ω ↦ suffixMap u (path ω))
+    (Y := fun ω ↦ Real.sqrt (1-(u:ℝ)) • path ω)
+    ((suffixMap u).continuous.measurable.comp measurable_path)
+    ((show Measurable (fun f : C(Time,ℝ) ↦ Real.sqrt (1-(u:ℝ)) • f) from
+      (by fun_prop)).comp measurable_path)
+  intro ι _ c t
+  have hh := path_projection_law (fun i : Option ι ↦ i.elim (-∑ i,c i) c)
+    (fun i ↦ i.elim u (fun j ↦ suffixTime u (t j)))
+  rw [suffix_projection_algebra] at hh
+  have heq : (fun ω ↦ ∑ i, c i*suffixMap u (path ω) (t i)) =
+      (fun ω ↦ ∑ i : Option ι, i.elim (-∑ i,c i) c *
+        path ω (i.elim u (fun j ↦ suffixTime u (t j)))) := by
+    funext ω
+    simp only [Fintype.sum_option,Option.elim_none,Option.elim_some,suffixMap_apply,
+      mul_sub,Finset.sum_sub_distrib,neg_mul,Finset.sum_mul]
+    ring
+  rw [heq, hh.map_eq,
+    (scaled_path_projection_law _ (sub_nonneg.mpr u.property.2) c t).map_eq]
+
+end HardSphere.Wiener
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_ReverseTime
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instBorelSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasureNoiseLaw _root_.OAI.HardSphere.Bridge.instMeasurableSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.trialKernel_markov _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.configurationPathBorel _root_.OAI.HardSphere.coordinateBridge_probability _root_.OAI.HardSphere.coordinateWiener_probability
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Filter Set
+open scoped ENNReal Topology BigOperators
+open scoped BigOperators ComplexConjugate
+open MeasureTheory ProbabilityTheory Filter Set
+open scoped ENNReal NNReal Topology BigOperators
+open MeasureTheory ProbabilityTheory Real Complex
+open scoped ENNReal ComplexConjugate
+namespace HardSphere.Wiener
+
+lemma endpoint_shift_projection_algebra {ι : Type*} [Fintype ι] (c : ι → ℝ) (t : ι → Time) :
+    let a : Option ι → ℝ := fun i ↦ i.elim (-∑ i,c i) c
+    let v : Option ι → Time := fun i ↦ i.elim 1 t
+    (∑ i,∑ j,a i*a j*min (v i:ℝ) (v j:ℝ)) =
+      ∑ i,∑ j,c i*c j*(min (t i:ℝ) (t j:ℝ)-(t i:ℝ)-(t j:ℝ)+1) := by
+  let A : ℝ := ∑ i,c i
+  let B : ℝ := ∑ i,c i*(t i:ℝ)
+  have h1 : (∑ i, (-A)*c i*(t i:ℝ)) = -A*B := by
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro i _
+    ring
+  have h2 : (∑ i, c i*(-A)*(t i:ℝ)) = -A*B := by
+    rw [Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro i _
+    ring
+  have h3 : (∑ i, ∑ j, c i*c j*(t i:ℝ)) = A*B := by
+    dsimp only [A,B]
+    rw [Finset.sum_mul_sum,Finset.sum_comm]
+    apply Finset.sum_congr rfl
+    intro i _
+    apply Finset.sum_congr rfl
+    intro j _
+    ring
+  have h4 : (∑ i, ∑ j, c i*c j*(t j:ℝ)) = A*B := by
+    dsimp only [A,B]
+    rw [Finset.sum_mul_sum]
+    apply Finset.sum_congr rfl
+    intro i _
+    apply Finset.sum_congr rfl
+    intro j _
+    ring
+  have h5 : (∑ i, ∑ j, c i*c j) = A*A := (Finset.sum_mul_sum _ _ _ _).symm
+  dsimp only
+  simp only [Fintype.sum_option,Option.elim_none,Option.elim_some,
+    show ((1:Time):ℝ) = 1 from rfl, min_self,min_eq_right (t _).property.2,
+    min_eq_left (t _).property.2,mul_one,mul_add,mul_sub,Finset.sum_add_distrib,
+    Finset.sum_sub_distrib]
+  change (-A)*(-A)+(∑ i,c i*(-A)*(t i:ℝ))+
+    ((∑ i,(-A)*c i*(t i:ℝ))+_) = _
+  rw [h1,h2,h3,h4,h5]
+  ring
+
+lemma reverseIncrements_law :
+    law.map (fun ω ↦ reverseIncrements (path ω)) = wiener := by
+  apply continuous_path_law_ext (reverseIncrements.continuous.measurable.comp measurable_path)
+    measurable_path
+  intro ι _ c t
+  have h := path_projection_law (fun i : Option ι ↦ i.elim (-∑ i,c i) c)
+    (fun i ↦ i.elim 1 (fun j ↦ reverseTime (t j)))
+  rw [endpoint_shift_projection_algebra] at h
+  have hv i j : min (reverseTime (t i):ℝ) (reverseTime (t j):ℝ) -
+      (reverseTime (t i):ℝ) - (reverseTime (t j):ℝ) +1 = min (t i:ℝ) (t j:ℝ) := by
+    change min (1-(t i:ℝ)) (1-(t j:ℝ)) - (1-(t i:ℝ)) - (1-(t j:ℝ))+1 = _
+    rcases le_total (t i:ℝ) (t j:ℝ) with hij|hji
+    · rw [min_eq_right (by linarith), min_eq_left hij]; ring
+    · rw [min_eq_left (by linarith), min_eq_right hji]; ring
+  simp_rw [hv] at h
+  have heq : (fun ω ↦ ∑ i,c i*reverseIncrements (path ω) (t i)) =
+      (fun ω ↦ ∑ i : Option ι,i.elim (-∑ i,c i) c *
+        path ω (i.elim 1 (fun j ↦ reverseTime (t j)))) := by
+    funext ω
+    simp only [Fintype.sum_option,Option.elim_none,Option.elim_some,reverseIncrements_apply,
+      mul_sub,Finset.sum_sub_distrib,neg_mul,Finset.sum_mul]
+    ring
+  change Measure.map (fun ω ↦ ∑ i,c i*reverseIncrements (path ω) (t i)) law = _
+  rw [heq,h.map_eq,(path_projection_law c t).map_eq]
+
+end HardSphere.Wiener
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Geometry_EuclideanTorus
+attribute [-instance] _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.Rescaling.config_haar _root_.OAI.HardSphere.bridgeEndpointBase_finite _root_.OAI.HardSphere.endpointWeightedBase_sfinite _root_.OAI.HardSphere.freePathLaw_finite_deletion _root_.OAI.HardSphere.killedPathLaw_finite_deletion
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Filter Set
+open scoped ENNReal Topology BigOperators
+open scoped BigOperators ComplexConjugate
+open MeasureTheory ProbabilityTheory Filter Set
+open scoped ENNReal NNReal Topology BigOperators
+open MeasureTheory ProbabilityTheory Real Complex
+open scoped ENNReal ComplexConjugate
+open ProbabilityTheory
+open MeasureTheory Filter Set
+open scoped ENNReal Topology
+open MeasureTheory Set
+open scoped ENNReal
+namespace HardSphere
+open MeasureTheory Set Filter ContinuousLinearMap
+open scoped NNReal ComplexConjugate
+
+lemma euclideanTorusPoint_dist (L : Length) (x y : Torus L) :
+    dist (euclideanTorusPoint L x) (euclideanTorusPoint L y)=torusDistance L x y :=
+  PiLp.dist_eq_of_L2 _ _
+
+end HardSphere
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Geometry_CenteredCircleLift
+attribute [-instance] _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.Rescaling.config_haar _root_.OAI.HardSphere.bridgeEndpointBase_finite _root_.OAI.HardSphere.endpointWeightedBase_sfinite _root_.OAI.HardSphere.freePathLaw_finite_deletion _root_.OAI.HardSphere.killedPathLaw_finite_deletion
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Filter Set
+open scoped ENNReal Topology BigOperators
+open scoped BigOperators ComplexConjugate
+open MeasureTheory ProbabilityTheory Filter Set
+open scoped ENNReal NNReal Topology BigOperators
+open MeasureTheory ProbabilityTheory Real Complex
+open scoped ENNReal ComplexConjugate
+open ProbabilityTheory
+open MeasureTheory Filter Set
+open scoped ENNReal Topology
+open MeasureTheory Set
+open scoped ENNReal
+
+namespace HardSphere
+open MeasureTheory Set Filter
+
+variable {ι : Type*} [Fintype ι] [DecidableEq ι] [Nontrivial ι]
+
+lemma torusDistance_triangle' (L : Length) (x y z : Torus L) :
+    torusDistance L x z≤torusDistance L x y+torusDistance L y z := by
+  simpa only [euclideanTorusPoint_dist] using dist_triangle
+    (euclideanTorusPoint L x) (euclideanTorusPoint L y) (euclideanTorusPoint L z)
+
+end HardSphere
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_BridgeResidual
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instBorelSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasureNoiseLaw _root_.OAI.HardSphere.Bridge.instMeasurableSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.trialKernel_markov _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory Set Filter ProbabilityTheory
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Wiener
+
+lemma centerMap_path (ω : Noise) : centerMap (path ω)=bridge ω := by
+  ext s
+  simpa only [centerMap_apply] using (bridge_apply ω s).symm
+
+lemma bridgeLaw_center : bridgeLaw=wiener.map centerMap := by
+  rw [bridgeLaw,wiener,Measure.map_map centerMap.continuous.measurable measurable_path]
+  congr 1
+  funext ω
+  exact (centerMap_path ω).symm
+
+lemma finite_bridge_gaussian {ι : Type*} [Fintype ι] (t : ι → Time) :
+    HasGaussianLaw (fun ω i ↦ bridge ω (t i)) law := by
+  classical
+  let loc : Option ι → Time := fun i ↦ i.elim 1 t
+  let L : (Option ι → ℝ) →L[ℝ] (ι → ℝ) := ContinuousLinearMap.pi
+    (fun i ↦ ContinuousLinearMap.proj (some i) - (t i:ℝ) • ContinuousLinearMap.proj none)
+  convert! (finite_path_gaussian loc).map_fun L using 1
+  all_goals try with_reducible_and_instances rfl
+  funext ω i
+  simp [L,loc,bridge_apply]
+
+lemma bridge_eval_law (t : Time) :
+    HasLaw (fun ω ↦ bridge ω t) (gaussianReal 0 (Real.toNNReal ((t:ℝ)-(t:ℝ)^2))) law := by
+  simpa only [Fintype.sum_unique,mul_one,one_mul,min_self,pow_two] using
+    bridge_projection_law (fun _ : Unit ↦ (1:ℝ)) (fun _ ↦ t)
+
+lemma bridge_covariance (s t : Time) :
+    cov[fun ω ↦ bridge ω s,fun ω ↦ bridge ω t;law]=min (s:ℝ) (t:ℝ)-(s:ℝ)*(t:ℝ) := by
+  have hp (v : Time) := (path_eval_law v).hasGaussianLaw.memLp_two
+  simp only [bridge_apply]
+  rw [covariance_fun_sub_fun_sub (hp s) ((hp 1).const_mul (s:ℝ)) (hp t) ((hp 1).const_mul (t:ℝ))]
+  simp only [covariance_const_mul_left,covariance_const_mul_right,path_covariance]
+  have hs : min (s:ℝ) (1:ℝ)=(s:ℝ) := min_eq_left s.property.2
+  have ht : min (1:ℝ) (t:ℝ)=(t:ℝ) := min_eq_right t.property.2
+  change min (s:ℝ) (t:ℝ)-(t:ℝ)*min (s:ℝ) 1-(s:ℝ)*min 1 (t:ℝ)+(t:ℝ)*((s:ℝ)*min (1:ℝ) 1)=_
+  rw [hs,ht,min_self]
+  ring
+
+lemma bridgeRemainder_eq (u : Time) (ω : Noise) :
+    bridgeRemainder u (bridge ω)=centerMap (suffixMap u (path ω)) := by
+  ext s
+  simp only [bridgeRemainder_apply,bridge_apply,centerMap_apply,suffixMap_apply]
+  have he : suffixTime u 1=1 := by apply Subtype.ext; change (u:ℝ)+(1-(u:ℝ))*1=1; ring
+  rw [he]
+  change path ω (suffixTime u s)-((u:ℝ)+(1-(u:ℝ))*(s:ℝ))*path ω 1-
+    (1-(s:ℝ))*(path ω u-(u:ℝ)*path ω 1)=_
+  ring
+
+lemma bridgeRemainder_law (u : Time) :
+    law.map (fun ω ↦ bridgeRemainder u (bridge ω)) =
+      bridgeLaw.map (fun β ↦ Real.sqrt (1-(u:ℝ)) • β) := by
+  calc
+    _ = (law.map (fun ω ↦ suffixMap u (path ω))).map centerMap := by
+      rw [Measure.map_map (f:=fun ω ↦ suffixMap u (path ω)) centerMap.continuous.measurable
+        ((suffixMap u).continuous.measurable.comp measurable_path)]
+      congr 1
+      funext ω
+      exact bridgeRemainder_eq u ω
+    _ = (law.map (fun ω ↦ Real.sqrt (1-(u:ℝ)) • path ω)).map centerMap := by rw [suffix_law]
+    _ = _ := by
+      rw [Measure.map_map (f:=fun ω ↦ Real.sqrt (1-(u:ℝ)) • path ω) centerMap.continuous.measurable
+        ((show Continuous (fun w : C(Time,ℝ) ↦ Real.sqrt (1-(u:ℝ)) • w) from by fun_prop).measurable.comp measurable_path),bridgeLaw,
+        Measure.map_map (by fun_prop) measurable_bridge]
+      congr 1
+      funext ω
+      exact (centerMap.map_smul _ _).trans (congrArg (fun β ↦ Real.sqrt (1-(u:ℝ)) • β) (centerMap_path ω))
+
+end HardSphere.Wiener
+
+namespace HardSphere
+open Wiener
+
+lemma bridge_endpoints : ∀ᵐ β ∂bridgeLaw, β (0:Time)=0 ∧ β (1:Time)=0 := by
+  have hm : MeasurableSet {β : C(Time,ℝ) | β (0:Time)=0 ∧ β (1:Time)=0} :=
+    ((isClosed_eq (continuous_eval_const (0:Time)) continuous_const).inter (isClosed_eq (continuous_eval_const (1:Time)) continuous_const)).measurableSet
+  rw [bridgeLaw,ae_map_iff measurable_bridge.aemeasurable hm]
+  exact ae_of_all _ (fun ω ↦ ⟨bridge_at_zero ω,bridge_at_one ω⟩)
+
+end HardSphere
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_GaussianPacking
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instBorelSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasurePointMidpointNoise _root_.OAI.HardSphere.Bridge.instMeasurableSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Bridge.trialKernel_markov _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory MeasureTheory.Measure Set Filter
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.GaussianPacking
+
+lemma kernel_product (b : ℝ) (x : Point) : kernel b x=∏j,Real.exp (-b*x j^2) := by
+  rw [kernel,square,Finset.mul_sum,Real.exp_sum]
+
+end HardSphere.GaussianPacking
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_GaussianDensity
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instBorelSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasurePointMidpointNoise _root_.OAI.HardSphere.Bridge.instMeasurableSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Bridge.trialKernel_markov _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open MeasureTheory MeasureTheory.Measure Set Filter ProbabilityTheory
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.GaussianPacking
+
+lemma gaussianDensity_nonneg (q : Point) (v : ℝ≥0) (x : Point) : 0≤gaussianDensity q v x :=
+  Finset.prod_nonneg (fun _ _ ↦ gaussianPDFReal_nonneg _ _ _)
+lemma gaussianDensity_integrable (q : Point) (v : ℝ≥0) : Integrable (gaussianDensity q v) volume :=
+  Integrable.fintype_prod (fun j ↦ integrable_gaussianPDFReal (q j) v)
+
+theorem gaussian_pi_density (q : Point) {v : ℝ≥0} (hv : v≠0) :
+    Measure.pi (fun j : Fin 3 ↦ gaussianReal (q j) v)=
+      (volume : Measure Point).withDensity (fun x ↦ ENNReal.ofReal (gaussianDensity q v x)) := by
+  apply Measure.pi_eq
+  intro s hs
+  rw [withDensity_apply' _ _,←ofReal_integral_eq_lintegral_ofReal
+    (gaussianDensity_integrable q v).restrict (Eventually.of_forall (gaussianDensity_nonneg q v))]
+  change ENNReal.ofReal (∫x,gaussianDensity q v x ∂(Measure.pi (fun _ : Fin 3 ↦ (volume : Measure ℝ))).restrict (univ.pi s))=_
+  rw [Measure.restrict_pi_pi]
+  unfold gaussianDensity
+  rw [integral_fintype_prod_eq_prod]
+  simp_rw [gaussianReal_apply_eq_integral _ hv]
+  exact ENNReal.ofReal_prod_of_nonneg (fun j _ ↦ integral_nonneg (gaussianPDFReal_nonneg (q j) v))
+
+lemma gaussianDensity_eq (q x : Point) {v : ℝ≥0} (hv : v≠0) :
+    gaussianDensity q v x=density ((2*(v:ℝ))⁻¹) (x-q) := by
+  have hvp : 0<(v:ℝ) := NNReal.coe_pos.mpr (pos_iff_ne_zero.mpr hv)
+  unfold gaussianDensity gaussianPDFReal density
+  rw [Finset.prod_mul_distrib,Finset.prod_const,Finset.card_univ,Fintype.card_fin]
+  have he : (Real.sqrt (2*Real.pi*(v:ℝ)))⁻¹=Real.sqrt ((2*(v:ℝ))⁻¹/Real.pi) := by
+    rw [←Real.sqrt_inv]
+    congr 1
+    field_simp
+  rw [he]
+  congr 1
+  rw [kernel_product]
+  apply Finset.prod_congr rfl
+  intro j hj
+  congr 1
+  simp only [Pi.sub_apply]
+  ring
+
+lemma gaussian_pi_eq (q : Point) {v : ℝ≥0} (hv : v≠0) :
+    Measure.pi (fun j : Fin 3 ↦ gaussianReal (q j) v)=
+      (volume : Measure Point).withDensity (fun x ↦ ENNReal.ofReal (density ((2*(v:ℝ))⁻¹) (x-q))) := by
+  rw [gaussian_pi_density q hv]
+  congr 1
+  funext x
+  rw [gaussianDensity_eq q x hv]
+
+end HardSphere.GaussianPacking
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_GaussianMixture
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasurePointMidpointNoise _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory MeasureTheory.Measure Set Filter ProbabilityTheory
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Bridge
+open Wiener GaussianPacking
+
+lemma leg_continuous (t : ℝ) (y u : Point) : Continuous (leg t y u) := by
+  apply ContinuousMap.continuous_of_continuous_uncurry
+  change Continuous (fun p : Noise×Time ↦ fun j ↦ mean y u p.2 j+Real.sqrt (2*t)*p.1 j p.2)
+  unfold mean
+  fun_prop
+
+end HardSphere.Bridge
+
+end
+end
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Bridge
+open Wiener GaussianPacking
+lemma center_one (β : C(Time,ℝ)) : center β 1=0 := by simp [center,linearPath]
+lemma center_eq {β : C(Time,ℝ)} (h0 : β 0=0) (h1 : β 1=0) : center β=β := by simp [center,h0,h1]
+lemma pinned_continuous : Continuous pinned := continuous_pi (fun j ↦ center_continuous.comp (continuous_apply j))
+lemma pinned_law : law.map pinned=law := by
+  have h : pinned=ᵐ[law] id := by
+    have hβ : ∀j : Fin 3,∀ᵐ β ∂law,(β j) 0=0 ∧ (β j) 1=0 := fun j ↦ by
+      exact (measurePreserving_eval (fun _ : Fin 3 ↦ bridgeLaw) j).quasiMeasurePreserving.ae bridge_endpoints
+    filter_upwards [ae_all_iff.mpr hβ] with β hβ
+    funext j
+    exact center_eq (hβ j).1 (hβ j).2
+  rw [Measure.map_congr h,Measure.map_id]
+
+lemma pinned_leg_one (t : ℝ) (y u : Point) (β : Noise) : leg t y u (pinned β) 1=u := by
+  ext j
+  simp [leg,mean,pinned,center_one]
+
+lemma trial_midpoint (t : ℝ) (y z u : Point) (β : Noise×Noise) : trialPath t y z u β midpointTime=u := by
+  have hl : leftTime midpointTime=1 := by ext; norm_num [leftTime,midpointTime]
+  have hr : reverseTime (rightTime midpointTime)=1 := by ext; norm_num [rightTime,midpointTime,reverseTime]
+  simp only [trialPath,ContinuousMap.coe_mk,hl,hr,pinned_leg_one,add_sub_cancel_right]
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_BridgeSplit
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instBorelSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasureNoiseLaw _root_.OAI.HardSphere.Bridge.instMeasurableSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.trialKernel_markov _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory Set Filter ProbabilityTheory
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Wiener
+
+lemma bridgePrefix_eq (u : Time) (ω : Noise) :
+    bridgePrefix u (bridge ω)=centerMap (prefixMap u (path ω)) := by
+  ext s
+  simp only [bridgePrefix_apply,bridge_apply,centerMap_apply,prefixMap_apply]
+  have he : prefixTime u 1=u := by ext; simp [prefixTime]
+  rw [he]
+  change path ω (prefixTime u s)-((u:ℝ)*(s:ℝ))*path ω 1-
+    (s:ℝ)*(path ω u-(u:ℝ)*path ω 1)=_
+  ring
+
+lemma bridgePrefix_law (u : Time) :
+    law.map (fun ω ↦ bridgePrefix u (bridge ω))=
+      bridgeLaw.map (fun β ↦ Real.sqrt (u:ℝ) • β) := by
+  calc
+    _ = (law.map (fun ω ↦ prefixMap u (path ω))).map centerMap := by
+      rw [Measure.map_map (f:=fun ω ↦ prefixMap u (path ω)) centerMap.continuous.measurable
+        ((prefixMap u).continuous.measurable.comp measurable_path)]
+      congr 1
+      funext ω
+      exact bridgePrefix_eq u ω
+    _ = _ := by
+      rw [prefix_law,Measure.map_map (f:=fun ω ↦ Real.sqrt (u:ℝ) • path ω) centerMap.continuous.measurable ((show Continuous (fun w : C(Time,ℝ) ↦ Real.sqrt (u:ℝ) • w) from by fun_prop).measurable.comp measurable_path),
+        bridgeLaw,Measure.map_map (by fun_prop) measurable_bridge]
+      congr 1
+      funext ω
+      exact (centerMap.map_smul _ _).trans (congrArg (fun β ↦ Real.sqrt (u:ℝ) • β) (centerMap_path ω))
+
+lemma prefixRemainder_gaussian (u : Time) :
+    IsGaussianProcess (Sum.elim (fun s ω ↦ prefixMap u (bridge ω) s)
+      (fun s ω ↦ bridgeRemainder u (bridge ω) s)) law := by
+  classical
+  constructor
+  intro I
+  let loc : Option I → Time := fun i ↦ i.elim u
+    (fun j ↦ j.val.elim (prefixTime u) (suffixTime u))
+  let ev (i : Option I) : (Option I → ℝ) →L[ℝ] ℝ := ContinuousLinearMap.proj i
+  let L : (Option I → ℝ) →L[ℝ] (I → ℝ) := ContinuousLinearMap.pi
+    (fun j ↦ match j.val with
+      | .inl _ => ev (some j)
+      | .inr s => ev (some j) - (1-(s:ℝ)) • ev none)
+  convert! (finite_bridge_gaussian loc).map_fun L using 1
+  all_goals try with_reducible_and_instances rfl
+  funext ω j
+  cases hj : j.val <;> simp [L,loc,ev,hj]
+
+lemma prefixRemainder_independent (u : Time) :
+    IndepFun (fun ω ↦ prefixMap u (bridge ω)) (fun ω ↦ bridgeRemainder u (bridge ω)) law := by
+  have hc (a s : Time) :
+      cov[fun ω ↦ prefixMap u (bridge ω) a,fun ω ↦ bridgeRemainder u (bridge ω) s;law]=0 := by
+    simp only [prefixMap_apply,bridgeRemainder_apply]
+    rw [covariance_fun_sub_right (bridge_eval_law _).hasGaussianLaw.memLp_two
+      (bridge_eval_law _).hasGaussianLaw.memLp_two ((bridge_eval_law u).hasGaussianLaw.memLp_two.const_mul _),
+      covariance_const_mul_right,bridge_covariance,bridge_covariance,
+      min_eq_left ((prefixTime_le u a).trans (le_suffixTime u s)),min_eq_left (prefixTime_le u a)]
+    change (u:ℝ)*(a:ℝ)-((u:ℝ)*(a:ℝ))*((u:ℝ)+(1-(u:ℝ))*(s:ℝ))-
+      (1-(s:ℝ))*((u:ℝ)*(a:ℝ)-((u:ℝ)*(a:ℝ))*(u:ℝ))=0
+    ring
+  have hi := (prefixRemainder_gaussian u).indepFun_of_covariance_eq_zero
+    (fun s ↦ ((continuous_eval_const s).measurable.comp ((prefixMap u).continuous.measurable.comp measurable_bridge)).aemeasurable)
+    (fun s ↦ ((continuous_eval_const s).measurable.comp ((bridgeRemainder u).continuous.measurable.comp measurable_bridge)).aemeasurable) hc
+  have hid := hi.comp
+    (Measurable.of_eval fun n ↦ measurable_pi_apply (TopologicalSpace.denseSeq Time n))
+    (Measurable.of_eval fun n ↦ measurable_pi_apply (TopologicalSpace.denseSeq Time n))
+  have hh := hid.comp denseEval_embedding.measurable_invFun denseEval_embedding.measurable_invFun
+  convert hh using 1 <;> funext ω <;> exact (denseEval_embedding.leftInverse_invFun _).symm
+
+lemma prefixValue_gaussian (u : Time) :
+    IsGaussianProcess (Sum.elim (fun _ : Unit ↦ fun ω ↦ bridge ω u)
+      (fun s ω ↦ bridgePrefix u (bridge ω) s)) law := by
+  classical
+  constructor
+  intro I
+  let loc : Option I → Time := fun i ↦ i.elim u
+    (fun j ↦ j.val.elim (fun _ ↦ u) (prefixTime u))
+  let ev (i : Option I) : (Option I → ℝ) →L[ℝ] ℝ := ContinuousLinearMap.proj i
+  let L : (Option I → ℝ) →L[ℝ] (I → ℝ) := ContinuousLinearMap.pi
+    (fun j ↦ match j.val with
+      | .inl _ => ev (some j)
+      | .inr s => ev (some j) - (s:ℝ) • ev none)
+  convert! (finite_bridge_gaussian loc).map_fun L using 1
+  all_goals try with_reducible_and_instances rfl
+  funext ω j
+  cases hj : j.val <;> simp [L,loc,ev,hj]
+
+lemma prefixValue_independent (u : Time) :
+    IndepFun (fun ω ↦ bridge ω u) (fun ω ↦ bridgePrefix u (bridge ω)) law := by
+  have hc (_ : Unit) (s : Time) :
+      cov[fun ω ↦ bridge ω u,fun ω ↦ bridgePrefix u (bridge ω) s;law]=0 := by
+    simp only [bridgePrefix_apply]
+    rw [covariance_fun_sub_right (bridge_eval_law _).hasGaussianLaw.memLp_two
+      (bridge_eval_law _).hasGaussianLaw.memLp_two ((bridge_eval_law u).hasGaussianLaw.memLp_two.const_mul _),
+      covariance_const_mul_right,bridge_covariance,bridge_covariance,
+      min_eq_right (prefixTime_le u s),min_self]
+    change (u:ℝ)*(s:ℝ)-(u:ℝ)*((u:ℝ)*(s:ℝ))-
+      (s:ℝ)*((u:ℝ)-(u:ℝ)*(u:ℝ))=0
+    ring
+  have hi := (prefixValue_gaussian u).indepFun_of_covariance_eq_zero
+    (fun _ ↦ ((continuous_eval_const u).measurable.comp measurable_bridge).aemeasurable)
+    (fun s ↦ ((continuous_eval_const s).measurable.comp ((bridgePrefix u).continuous.measurable.comp measurable_bridge)).aemeasurable) hc
+  have hid := hi.comp (measurable_pi_apply ())
+    (Measurable.of_eval fun n ↦ measurable_pi_apply (TopologicalSpace.denseSeq Time n))
+  have hh := hid.comp measurable_id denseEval_embedding.measurable_invFun
+  convert hh using 1
+  · rfl
+  · funext ω
+    exact (denseEval_embedding.leftInverse_invFun _).symm
+
+lemma bridge_three_law (u : Time) :
+    bridgeLaw.map (fun β ↦ ((β u,bridgePrefix u β),bridgeRemainder u β))=
+      ((gaussianReal 0 (Real.toNNReal ((u:ℝ)-(u:ℝ)^2))).prod
+        (bridgeLaw.map (fun β ↦ Real.sqrt (u:ℝ) • β))).prod
+        (bridgeLaw.map (fun β ↦ Real.sqrt (1-(u:ℝ)) • β)) := by
+  have hi := (prefixRemainder_independent u).comp
+    (show Measurable (fun f : C(Time,ℝ) ↦ (f 1,centerMap f)) from by fun_prop) measurable_id
+  have he : (fun ω ↦ (prefixMap u (bridge ω) 1,centerMap (prefixMap u (bridge ω))))=
+      (fun ω ↦ (bridge ω u,bridgePrefix u (bridge ω))) := by
+    funext ω
+    apply Prod.ext
+    · simp only [prefixMap_apply]
+      congr 1
+      apply Subtype.ext
+      simp [prefixTime]
+    · rfl
+  simp only [Function.comp_def,id_eq] at hi
+  rw [he] at hi
+  rw [bridgeLaw,Measure.map_map (by fun_prop) measurable_bridge]
+  simp only [Function.comp_def]
+  have hh := hi.map_prod_eq_prod_map_map
+    ((((continuous_eval_const u).measurable.comp measurable_bridge).prodMk
+      ((bridgePrefix u).continuous.measurable.comp measurable_bridge)).aemeasurable)
+    (((bridgeRemainder u).continuous.measurable.comp measurable_bridge).aemeasurable)
+  simp only [Function.comp_def] at hh
+  rw [hh]
+  have hp := (prefixValue_independent u).map_prod_eq_prod_map_map
+    ((continuous_eval_const u).measurable.comp measurable_bridge).aemeasurable
+    ((bridgePrefix u).continuous.measurable.comp measurable_bridge).aemeasurable
+  simp only [Function.comp_def] at hp
+  rw [hp,(bridge_eval_law u).map_eq,bridgePrefix_law,bridgeRemainder_law]
+  rfl
+
+end HardSphere.Wiener
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_BridgeAssemble
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory Set Filter ProbabilityTheory
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Wiener
+open Bridge (leftTime rightTime midpointTime leftTime_continuous rightTime_continuous)
+
+lemma assembleBridge_continuous : Continuous assembleBridge := by
+  apply ContinuousMap.continuous_of_continuous_uncurry
+  change Continuous (fun p : ((ℝ×C(Time,ℝ))×C(Time,ℝ))×Time ↦
+    ((leftTime p.2:ℝ)-(rightTime p.2:ℝ))*p.1.1.1+
+      p.1.1.2 (leftTime p.2)+p.1.2 (rightTime p.2))
+  have hl := leftTime_continuous
+  have hr := rightTime_continuous
+  fun_prop
+
+lemma assembleBridge_split (β : C(Time,ℝ)) (h0 : β 0=0) (h1 : β 1=0) :
+    assembleBridge ((β midpointTime,bridgePrefix midpointTime β),bridgeRemainder midpointTime β)=β := by
+  ext s
+  simp only [assembleBridge,ContinuousMap.coe_mk,bridgePrefix_apply,bridgeRemainder_apply]
+  by_cases hs0 : s=0
+  · subst s
+    simp [leftTime,rightTime,prefixTime,suffixTime,h0]
+  by_cases hs1 : s=1
+  · subst s
+    norm_num [leftTime,rightTime,prefixTime,suffixTime,midpointTime,h1]
+  by_cases hs : (s:ℝ)≤1/2
+  · have hr : rightTime s=0 := by apply Subtype.ext; simp only [rightTime]; exact max_eq_right (by linarith)
+    have hl : (leftTime s:ℝ)=2*(s:ℝ) := min_eq_left (by linarith)
+    have hp : prefixTime midpointTime (leftTime s)=s := by apply Subtype.ext; change (1/2:ℝ)*(leftTime s:ℝ)=(s:ℝ); rw [hl]; ring
+    have he : suffixTime midpointTime (0:Time)=midpointTime := by apply Subtype.ext; simp [suffixTime]
+    rw [hr,hp,he]
+    change _+_+(β midpointTime-(1-(0:ℝ))*β midpointTime)=_
+    simp only [show ((0:Time):ℝ)=0 from rfl]
+    ring
+  · have hl : leftTime s=1 := by apply Subtype.ext; simp only [leftTime]; exact min_eq_right (by linarith)
+    have hr : (rightTime s:ℝ)=2*(s:ℝ)-1 := max_eq_left (by linarith)
+    have hp : prefixTime midpointTime (1:Time)=midpointTime := by apply Subtype.ext; simp [prefixTime]
+    have he : suffixTime midpointTime (rightTime s)=s := by
+      apply Subtype.ext
+      change (1/2:ℝ)+(1-1/2)*(rightTime s:ℝ)=(s:ℝ)
+      rw [hr]
+      ring
+    rw [hl,hp,he]
+    change ((1:ℝ)-(rightTime s:ℝ))*β midpointTime+(β midpointTime-1*β midpointTime)+_= _
+    ring
+
+lemma bridge_midpoint_disintegration :
+    (((gaussianReal 0 (Real.toNNReal (1/4:ℝ))).prod
+      (bridgeLaw.map (fun β ↦ Real.sqrt (1/2:ℝ) • β))).prod
+      (bridgeLaw.map (fun β ↦ Real.sqrt (1/2:ℝ) • β))).map assembleBridge=bridgeLaw := by
+  have he := bridge_three_law midpointTime
+  norm_num [midpointTime] at he
+  norm_num only [Real.sqrt_div,Real.sqrt_one,one_div]
+  rw [←he,Measure.map_map assembleBridge_continuous.measurable (by fun_prop)]
+  have ha : assembleBridge ∘ (fun β ↦ ((β midpointTime,bridgePrefix midpointTime β),bridgeRemainder midpointTime β))=ᵐ[bridgeLaw] id := by
+    filter_upwards [HardSphere.bridge_endpoints] with β hβ
+    exact assembleBridge_split β hβ.1 hβ.2
+  change bridgeLaw.map (assembleBridge ∘ (fun β ↦ ((β midpointTime,bridgePrefix midpointTime β),bridgeRemainder midpointTime β)))=bridgeLaw
+  rw [Measure.map_congr ha,Measure.map_id]
+
+end HardSphere.Wiener
+
+end
+end
+
+section
+noncomputable section
+open MeasureTheory Set Filter ProbabilityTheory
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Wiener
+
+lemma center_reverse (ω : Noise) :
+    centerMap (reverseIncrements (path ω))=bridgeReverse (bridge ω) := by
+  ext s
+  simp only [centerMap_apply,reverseIncrements_apply,bridgeReverse,ContinuousMap.compCLM_apply,
+    ContinuousMap.comp_apply,bridge_apply]
+  have hr : reverseTime 1=0 := by ext; norm_num [reverseTime]
+  rw [hr,path_at_zero]
+  change path ω (reverseTime s)-path ω 1-(s:ℝ)*(0-path ω 1)=
+    path ω (reverseTime s)-(1-(s:ℝ))*path ω 1
+  ring
+
+lemma bridgeReverse_preserving : MeasurePreserving bridgeReverse bridgeLaw bridgeLaw := by
+  refine ⟨bridgeReverse.continuous.measurable,?_⟩
+  have hm := congrArg (fun μ : Measure C(Time,ℝ) ↦ μ.map centerMap) reverseIncrements_law
+  rw [Measure.map_map (f:=fun ω ↦ reverseIncrements (path ω)) centerMap.continuous.measurable
+    (reverseIncrements.continuous.measurable.comp measurable_path),←bridgeLaw_center] at hm
+  rw [bridgeLaw,Measure.map_map bridgeReverse.continuous.measurable measurable_bridge]
+  convert hm using 1
+  · congr 1
+    funext ω
+    exact (center_reverse ω).symm
+  · rfl
+
+end HardSphere.Wiener
+
+end
+end
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Bridge
+open Wiener GaussianPacking
+
+lemma assembleNoise_continuous : Continuous assembleNoise := by
+  apply continuous_pi
+  intro j
+  exact assembleBridge_continuous.comp (by fun_prop)
+
+lemma scalar_assemble_law :
+    (((gaussianReal 0 (Real.toNNReal (1/4:ℝ))).prod bridgeLaw).prod bridgeLaw).map
+      (fun p ↦ assembleBridge ((p.1.1,Real.sqrt (1/2:ℝ) • p.1.2),Real.sqrt (1/2:ℝ) • p.2))=bridgeLaw := by
+  have hs : MeasurePreserving (fun β : C(Time,ℝ) ↦ Real.sqrt (1/2:ℝ) • β) bridgeLaw
+      (bridgeLaw.map (fun β ↦ Real.sqrt (1/2:ℝ) • β)) := ⟨by fun_prop,rfl⟩
+  have hp := ((MeasurePreserving.id (gaussianReal 0 (Real.toNNReal (1/4:ℝ)))).prod hs).prod hs
+  have hm := congrArg (fun μ : Measure ((ℝ×C(Time,ℝ))×C(Time,ℝ)) ↦ μ.map assembleBridge) hp.map_eq
+  rw [Measure.map_map assembleBridge_continuous.measurable hp.measurable] at hm
+  exact hm.trans bridge_midpoint_disintegration
+
+lemma assembleNoise_preserving :
+    MeasurePreserving assembleNoise ((midpointNoise.prod law).prod law) law := by
+  refine ⟨assembleNoise_continuous.measurable,?_⟩
+  let g : Measure ℝ := gaussianReal 0 (Real.toNNReal (1/4:ℝ))
+  let b := bridgeLaw
+  have h₁ := measurePreserving_arrowProdEquivProdArrow ℝ C(Time,ℝ) (Fin 3) (fun _ ↦ g) (fun _ ↦ b)
+  have h₂ := measurePreserving_arrowProdEquivProdArrow (ℝ×C(Time,ℝ)) C(Time,ℝ) (Fin 3)
+    (fun _ ↦ g.prod b) (fun _ ↦ b)
+  have ht := (h₁.prod (MeasurePreserving.id (Measure.pi (fun _ : Fin 3 ↦ b)))).comp h₂
+  change (((Measure.pi (fun _ : Fin 3 ↦ g)).prod (Measure.pi (fun _ : Fin 3 ↦ b))).prod
+    (Measure.pi (fun _ : Fin 3 ↦ b))).map assembleNoise=Measure.pi (fun _ : Fin 3 ↦ b)
+  rw [←ht.map_eq,Measure.map_map assembleNoise_continuous.measurable ht.measurable]
+  change (Measure.pi (fun _ : Fin 3 ↦ (g.prod b).prod b)).map
+    (fun p j ↦ assembleBridge (((p j).1.1,Real.sqrt (1/2:ℝ) • (p j).1.2),Real.sqrt (1/2:ℝ) • (p j).2))=_
+  rw [Measure.pi_map_pi (fun _ ↦ (show Measurable (fun p : (ℝ×C(Time,ℝ))×C(Time,ℝ) ↦
+    assembleBridge ((p.1.1,Real.sqrt (1/2:ℝ) • p.1.2),Real.sqrt (1/2:ℝ) • p.2)) from
+      assembleBridge_continuous.measurable.comp (by fun_prop)).aemeasurable)]
+  simp_rw [show (g.prod b).prod b=(((gaussianReal 0 (Real.toNNReal (1/4:ℝ))).prod bridgeLaw).prod bridgeLaw) from rfl,
+    scalar_assemble_law]
+  rfl
+
+lemma reverseNoise_continuous : Continuous reverseNoise := by unfold reverseNoise; fun_prop
+lemma reverseNoise_preserving : MeasurePreserving reverseNoise law law := by
+  refine ⟨reverseNoise_continuous.measurable,?_⟩
+  unfold law reverseNoise
+  rw [Measure.pi_map_pi (fun _ ↦ bridgeReverse.continuous.measurable.aemeasurable)]
+  simp_rw [bridgeReverse_preserving.map_eq]
+
+lemma left_add_right (s : Time) : (leftTime s:ℝ)+(rightTime s:ℝ)=2*(s:ℝ) := by
+  change min (2*(s:ℝ)) 1+max (2*(s:ℝ)-1) 0=_
+  by_cases h : 2*(s:ℝ)≤1
+  · rw [min_eq_left h,max_eq_right (by linarith)]; ring
+  · rw [min_eq_right (le_of_not_ge h),max_eq_left (by linarith)]; ring
+
+lemma trial_assemble (t : ℝ) (ht : 0≤t) (y z v : Point) (β γ : Noise) :
+    trialPath t y z (midpointPoint t y z v) (β,γ)=
+      leg (2*t) y z (assembleNoise ((v,pinned β),reverseNoise (pinned γ))) := by
+  ext s j
+  simp only [trialPath,leg,ContinuousMap.coe_mk,mean,Pi.add_apply,Pi.sub_apply,
+    assembleNoise,assembleBridge,ContinuousMap.smul_apply,smul_eq_mul,reverseNoise,
+    bridgeReverse,ContinuousMap.compCLM_apply,ContinuousMap.comp_apply,midpointPoint]
+  have hs := left_add_right s
+  have hr : (reverseTime (rightTime s):ℝ)=1-(rightTime s:ℝ) := rfl
+  have hmul : Real.sqrt (4*t)*Real.sqrt (1/2:ℝ)=Real.sqrt (2*t) := by
+    rw [←Real.sqrt_mul (by positivity)]
+    congr 1
+    ring
+  rw [show 2*(2*t)=4*t by ring,hr]
+  rw [←hmul]
+  have hs' : (s:ℝ)=((leftTime s:ℝ)+(rightTime s:ℝ))/2 := by linarith
+  rw [hs']
+  ring
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_BridgeReference
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Bridge
+open Wiener GaussianPacking
+
+lemma midpointPoint_continuous (t : ℝ) (y z : Point) : Continuous (midpointPoint t y z) := by
+  unfold midpointPoint
+  fun_prop
+
+instance midpointLaw_probability (t : ℝ) (y z : Point) : IsProbabilityMeasure (midpointLaw t y z) := by
+  unfold midpointLaw
+  exact Measure.isProbabilityMeasure_map (midpointPoint_continuous t y z).measurable.aemeasurable
+
+lemma trial_product (μ : Measure Point) [SFinite μ] (t : ℝ) (y z : Point) :
+    (μ.compProd (trialKernel t y z)).map Prod.snd=
+      (μ.prod (law.prod law)).map (fun p ↦ trialPath t y z p.1 p.2) := by
+  ext B hB
+  rw [Measure.map_apply measurable_snd hB,Measure.compProd_apply (hB.preimage measurable_snd),
+    Measure.map_apply (trialPath_continuous t y z).measurable hB,
+    Measure.prod_apply (hB.preimage (trialPath_continuous t y z).measurable)]
+  apply lintegral_congr
+  intro u
+  change (trialKernel t y z u) B = (law.prod law) ((fun p ↦ trialPath t y z u p) ⁻¹' B)
+  rw [trialKernel_apply]
+  have hm : Continuous (trialPath t y z u) := (trialPath_continuous t y z).comp (continuous_const.prodMk continuous_id)
+  exact Measure.map_apply hm.measurable hB
+
+lemma full_bridge_midpoint {t : ℝ} (ht : 0≤t) (y z : Point) :
+    ((midpointLaw t y z).compProd (trialKernel t y z)).map Prod.snd=
+      law.map (leg (2*t) y z) := by
+  rw [trial_product]
+  have hpin : MeasurePreserving pinned law law := ⟨pinned_continuous.measurable,pinned_law⟩
+  have hn := ((MeasurePreserving.id midpointNoise).prod hpin).prod (reverseNoise_preserving.comp hpin)
+  have ha := assembleNoise_preserving.comp hn
+  have hl := congrArg (fun μ : Measure Noise ↦ μ.map (leg (2*t) y z)) ha.map_eq
+  rw [Measure.map_map (leg_continuous (2*t) y z).measurable ha.measurable] at hl
+  have hm : MeasurePreserving (midpointPoint t y z) midpointNoise (midpointLaw t y z) :=
+    ⟨(midpointPoint_continuous t y z).measurable,rfl⟩
+  have hp := hm.prod (MeasurePreserving.id (law.prod law))
+  have he := congrArg (fun μ : Measure (Point×(Noise×Noise)) ↦ μ.map (fun p ↦ trialPath t y z p.1 p.2)) hp.map_eq
+  rw [Measure.map_map (trialPath_continuous t y z).measurable hp.measurable] at he
+  rw [←he,← Measure.prodAssoc_prod (μ := midpointNoise) (ν := law) (τ := law),
+    Measure.map_map ((trialPath_continuous t y z).measurable.comp hp.measurable) MeasurableEquiv.prodAssoc.measurable]
+  convert hl using 1
+  all_goals try with_reducible_and_instances rfl
+  congr 1
+  funext p
+  exact trial_assemble t ht y z p.1.1 p.1.2 p.2
+
+lemma midpointLaw_gaussian {t : ℝ} (ht : 0≤t) (y z : Point) :
+    midpointLaw t y z=Measure.pi (fun j : Fin 3 ↦ gaussianReal ((y j+z j)/2) (Real.toNNReal t)) := by
+  unfold midpointLaw midpointNoise midpointPoint
+  rw [Measure.pi_map_pi (fun _ ↦ (by fun_prop : Measurable (fun v : ℝ ↦ (_ : ℝ)+Real.sqrt (4*t)*v)).aemeasurable)]
+  congr 1
+  funext j
+  have h : HasLaw id (gaussianReal 0 (Real.toNNReal (1/4:ℝ))) (gaussianReal 0 (Real.toNNReal (1/4:ℝ))) := ⟨measurable_id.aemeasurable,Measure.map_id⟩
+  have he := (gaussianReal_const_add (gaussianReal_const_mul h (Real.sqrt (4*t))) ((y j+z j)/2)).map_eq
+  simp only [mul_zero,zero_add] at he
+  change _ = _ at he
+  change (Measure.map (fun v ↦ (y j+z j)/2+Real.sqrt (4*t)*v) _) = _
+  simp only [id_eq] at he
+  rw [he]
+  apply congrArg (gaussianReal ((y j+z j)/2))
+  apply NNReal.coe_injective
+  simp only [NNReal.coe_mul,NNReal.coe_mk,Real.coe_toNNReal _ ht,
+    Real.coe_toNNReal _ (show 0≤(1/4:ℝ) by norm_num),Real.sq_sqrt (show 0≤4*t by positivity)]
+  ring
+
+end HardSphere.Bridge
+
+end
+end
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.GaussianPacking
+
+lemma densityLower_pos {b : ℝ} (hb : 0<b) (C : ℝ) : 0<densityLower b C := by
+  unfold densityLower
+  exact mul_pos (pow_pos (Real.sqrt_pos.mpr (div_pos hb Real.pi_pos)) _) (Real.exp_pos _)
+
+lemma density_lower {b C : ℝ} (hb : 0≤b) (hC : 0≤C) (x : Point) (hx : ‖x‖≤C) :
+    densityLower b C≤density b x := by
+  have hs : square x≤3*C^2 := by
+    unfold square
+    calc
+      _ ≤ ∑_j : Fin 3,C^2 := Finset.sum_le_sum (fun j _ ↦ by
+        have h := (norm_le_pi_norm x j).trans hx
+        simpa only [Real.norm_eq_abs,sq_abs] using (sq_le_sq₀ (norm_nonneg (x j)) hC).mpr h)
+      _ = _ := by simp
+  unfold density densityLower kernel
+  exact mul_le_mul_of_nonneg_left (Real.exp_le_exp.mpr (by nlinarith)) (by positivity)
+
+lemma gaussian_dominates_local {v : ℝ≥0} (hv : v≠0) (q : Point) {C : ℝ} (hC : 0≤C)
+    {B : Set Point} (hB : MeasurableSet B) (hbound : ∀x∈B,‖x-q‖≤C) :
+    ENNReal.ofReal (densityLower ((2*(v:ℝ))⁻¹) C) • (volume.restrict B) ≤
+      Measure.pi (fun j : Fin 3 ↦ gaussianReal (q j) v) := by
+  rw [gaussian_pi_eq q hv]
+  apply Measure.le_iff.mpr
+  intro A hA
+  rw [Measure.smul_apply,smul_eq_mul,Measure.restrict_apply hA,
+    withDensity_apply _ hA]
+  calc
+    _ = ∫⁻x in A∩B,ENNReal.ofReal (densityLower ((2*(v:ℝ))⁻¹) C) := by simp [lintegral_const]
+    _ ≤ ∫⁻x in A∩B,ENNReal.ofReal (density ((2*(v:ℝ))⁻¹) (x-q)) := by
+      apply setLIntegral_mono' (hA.inter hB)
+      intro x hx
+      exact ENNReal.ofReal_le_ofReal (density_lower (by positivity) hC (x-q) (hbound x hx.2))
+    _ ≤ _ := lintegral_mono_set inter_subset_left
+
+end HardSphere.GaussianPacking
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Kernels_TrialKernel
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+variable {U X Y : Type*} [MeasurableSpace U] [MeasurableSpace X] [MeasurableSpace Y]
+
+lemma successKernel_apply (κ : Kernel U X) (S : Set X) (hS : MeasurableSet S) (u : U) :
+    successKernel κ S hS u=(κ u S)⁻¹ • (κ u).restrict S := rfl
+
+lemma successKernel_mass_le (κ : Kernel U X) [IsFiniteKernel κ] (S : Set X) (hS : MeasurableSet S) (u : U) :
+    successKernel κ S hS u univ ≤ 1 := by
+  simp only [successKernel_apply,Measure.smul_apply,Measure.restrict_apply_univ,smul_eq_mul]
+  exact ENNReal.inv_mul_le_one _
+
+instance successKernel_finite (κ : Kernel U X) [IsFiniteKernel κ] (S : Set X) (hS : MeasurableSet S) :
+    IsFiniteKernel (successKernel κ S hS) := ⟨1,by simp,successKernel_mass_le κ S hS⟩
+
+lemma successKernel_mass (κ : Kernel U X) [IsFiniteKernel κ] (S : Set X) (hS : MeasurableSet S)
+    {u : U} (h : 0<κ u S) : successKernel κ S hS u univ=1 := by
+  simp only [successKernel_apply,Measure.smul_apply,Measure.restrict_apply_univ,smul_eq_mul]
+  exact ENNReal.inv_mul_cancel h.ne' (measure_ne_top _ _)
+
+lemma pairedFactor_mass (μ : Measure U) [IsProbabilityMeasure μ]
+    (κ : Kernel U X) (η : Kernel U Y) [IsFiniteKernel κ] [IsFiniteKernel η]
+    (S : Set X) (T : Set Y) (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hκ : ∀ᵐ u ∂μ,0<κ u S) (hη : ∀ᵐ u ∂μ,0<η u T) :
+    pairedFactor μ κ η S T hS hT univ=1 := by
+  rw [pairedFactor,Measure.compProd_apply MeasurableSet.univ]
+  have hea : (fun u ↦ ((successKernel κ S hS).prod (successKernel η T hT)) u
+      ((fun p : X×Y ↦ (u,p))⁻¹' univ))=ᵐ[μ] fun _ ↦ 1 := by
+    filter_upwards [hκ,hη] with u hu hv
+    simp only [preimage_univ,Kernel.prod_apply]
+    rw [show (Set.univ : Set (X×Y))=(Set.univ:Set X)×ˢ(Set.univ:Set Y) from Set.univ_prod_univ.symm,
+      Measure.prod_prod,successKernel_mass κ S hS hu,successKernel_mass η T hT hv,one_mul]
+  rw [lintegral_congr_ae hea]
+  simp
+
+lemma pairedFactor_fst (μ : Measure U) [SFinite μ]
+    (κ : Kernel U X) (η : Kernel U Y) [IsFiniteKernel κ] [IsFiniteKernel η]
+    (S : Set X) (T : Set Y) (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hη : ∀ᵐ u ∂μ,0<η u T) :
+    (pairedFactor μ κ η S T hS hT).map (fun p ↦ (p.1,p.2.1))=
+      μ.compProd (successKernel κ S hS) := by
+  have hm : Measurable (fun p : U×(X×Y) ↦ (p.1,p.2.1)) := by fun_prop
+  ext B hB
+  rw [Measure.map_apply hm hB,
+    pairedFactor,Measure.compProd_apply (hB.preimage hm),
+    Measure.compProd_apply hB]
+  apply lintegral_congr_ae
+  filter_upwards [hη] with u hu
+  rw [Kernel.prod_apply]
+  have he : (fun p : X×Y ↦ (u,p))⁻¹' ((fun p : U×(X×Y) ↦ (p.1,p.2.1))⁻¹' B)=
+      ((fun x : X ↦ (u,x))⁻¹' B)×ˢ(univ : Set Y) := by ext p; simp
+  rw [he,Measure.prod_prod,successKernel_mass η T hT hu,mul_one]
+
+lemma pairedFactor_snd (μ : Measure U) [SFinite μ]
+    (κ : Kernel U X) (η : Kernel U Y) [IsFiniteKernel κ] [IsFiniteKernel η]
+    (S : Set X) (T : Set Y) (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hκ : ∀ᵐ u ∂μ,0<κ u S) :
+    (pairedFactor μ κ η S T hS hT).map (fun p ↦ (p.1,p.2.2))=
+      μ.compProd (successKernel η T hT) := by
+  have hm : Measurable (fun p : U×(X×Y) ↦ (p.1,p.2.2)) := by fun_prop
+  ext B hB
+  rw [Measure.map_apply hm hB,
+    pairedFactor,Measure.compProd_apply (hB.preimage hm),
+    Measure.compProd_apply hB]
+  apply lintegral_congr_ae
+  filter_upwards [hκ] with u hu
+  rw [Kernel.prod_apply]
+  have he : (fun p : X×Y ↦ (u,p))⁻¹' ((fun p : U×(X×Y) ↦ (p.1,p.2.2))⁻¹' B)=
+      (univ : Set X)×ˢ((fun y : Y ↦ (u,y))⁻¹' B) := by ext p; simp
+  rw [he,Measure.prod_prod,successKernel_mass κ S hS hu,one_mul]
+
+lemma successKernel_absolutelyContinuous (κ : Kernel U X) (S : Set X)
+    (hS : MeasurableSet S) (u : U) : successKernel κ S hS u ≪ κ u := by
+  rw [successKernel_apply]
+  exact Measure.smul_absolutelyContinuous.trans (Measure.restrict_le_self.absolutelyContinuous)
+
+lemma pairedFactor_midpoint {E : Type*} [MeasurableSpace E] [MeasurableEq E]
+    (μ : Measure U) [SFinite μ] (κ : Kernel U X) (η : Kernel U Y)
+    [IsFiniteKernel κ] [IsFiniteKernel η] (π : X→E) (σ : Y→E) (uval : U→E)
+    (hπ : Measurable π) (hσ : Measurable σ) (huval : Measurable uval)
+    (S : Set X) (T : Set Y) (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hκ : ∀ᵐ u ∂μ,∀ᵐ x ∂κ u,π x=uval u)
+    (hη : ∀ᵐ u ∂μ,∀ᵐ y ∂η u,σ y=uval u) :
+    ∀ᵐ p ∂pairedFactor μ κ η S T hS hT,π p.2.1=uval p.1 ∧ σ p.2.2=uval p.1 := by
+  rw [pairedFactor,Measure.ae_compProd_iff (by measurability)]
+  filter_upwards [hκ,hη] with u hu hv
+  rw [Kernel.prod_apply]
+  apply (Measure.ae_prod_iff_ae_ae (by measurability)).mpr
+  filter_upwards [(successKernel_absolutelyContinuous κ S hS u).ae_le hu] with x hx
+  filter_upwards [(successKernel_absolutelyContinuous η T hT u).ae_le hv] with y hy
+  exact ⟨hx,hy⟩
+
+end HardSphere.Comparison
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Kernels_KernelDensity
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Comparison
+variable {U X : Type*} [MeasurableSpace U] [MeasurableSpace X]
+
+lemma successKernel_restrict_le (κ : Kernel U X) [IsFiniteKernel κ] (S : Set X) (hS : MeasurableSet S)
+    {u : U} {c : ℝ≥0∞} (hc : c≤κ u S) :
+    successKernel κ S hS u ≤ c⁻¹ • (κ u).restrict S := by
+  rw [successKernel_apply]
+  intro B
+  simp only [Measure.smul_apply,smul_eq_mul]
+  exact mul_le_mul_left (ENNReal.inv_le_inv.mpr hc) _
+
+lemma successful_marginal_le (μ ν : Measure U) [SFinite μ] [SFinite ν]
+    (κ : Kernel U X) [IsFiniteKernel κ] (S : Set X) (hS : MeasurableSet S)
+    {c A : ℝ≥0∞} (hμ : μ≤A • ν) (hc : ∀ᵐu ∂μ,c≤κ u S) :
+    (μ.compProd (successKernel κ S hS)).map Prod.snd ≤
+      (c⁻¹*A) • (((ν.compProd κ).map Prod.snd).restrict S) := by
+  apply Measure.le_iff.mpr
+  intro B hB
+  rw [Measure.map_apply measurable_snd hB,Measure.compProd_apply (hB.preimage measurable_snd),
+    Measure.smul_apply,smul_eq_mul,Measure.restrict_apply hB,
+    Measure.map_apply measurable_snd (hB.inter hS),Measure.compProd_apply ((hB.inter hS).preimage measurable_snd)]
+  calc
+    _ ≤ ∫⁻u,c⁻¹*(κ u (B∩S)) ∂μ := by
+      apply lintegral_mono_ae
+      filter_upwards [hc] with u hu
+      change successKernel κ S hS u B≤_
+      simpa only [preimage_preimage,preimage_id,Measure.smul_apply,smul_eq_mul,Measure.restrict_apply hB] using
+        successKernel_restrict_le κ S hS hu B
+    _ = c⁻¹*(∫⁻u,κ u (B∩S) ∂μ) := lintegral_const_mul _ (κ.measurable_coe (hB.inter hS))
+    _ ≤ c⁻¹*(∫⁻u,κ u (B∩S) ∂A • ν) := mul_le_mul_right (lintegral_mono' hμ le_rfl) _
+    _ = _ := by rw [lintegral_smul_measure]; simp only [smul_eq_mul]; rw [mul_assoc]; rfl
+
+lemma normalizer_positive_of_uniform_success (μ ν : Measure U) [IsProbabilityMeasure μ] [SFinite ν]
+    (κ : Kernel U X) [IsFiniteKernel κ] (S : Set X) (hS : MeasurableSet S)
+    {c A : ℝ≥0∞} (hc0 : 0 < c) (hA : A≠⊤) (hμ : μ≤A • ν)
+    (hc : ∀ᵐu ∂μ,c≤κ u S) : 0<((ν.compProd κ).map Prod.snd) S := by
+  rw [Measure.map_apply measurable_snd hS,Measure.compProd_apply (hS.preimage measurable_snd)]
+  have h₁ : c≤∫⁻u,κ u S ∂μ := by
+    calc
+      _ = ∫⁻_u,c ∂μ := by simp
+      _ ≤ _ := lintegral_mono_ae hc
+  have h₂ : (∫⁻u,κ u S ∂μ)≤A*(∫⁻u,κ u S ∂ν) := by
+    convert lintegral_mono' hμ (f:=fun u ↦ κ u S) le_rfl using 1
+    all_goals try with_reducible_and_instances rfl
+    rw [lintegral_smul_measure,smul_eq_mul]
+  change 0<(∫⁻u,κ u S ∂ν)
+  exact (ENNReal.div_pos hc0.ne' hA).trans_le (ENNReal.div_le_of_le_mul' (h₁.trans h₂))
+
+lemma restricted_le_normalized (P : Measure X) [IsProbabilityMeasure P] (S : Set X) :
+    P.restrict S≤(P S)⁻¹ • P.restrict S := by
+  intro B
+  rw [Measure.smul_apply,smul_eq_mul]
+  have hi : (1:ℝ≥0∞)≤(P S)⁻¹ := by
+    simpa using ENNReal.inv_le_inv.mpr (prob_le_one (μ:=P) (s:=S))
+  simpa using mul_le_mul_left hi (P.restrict S B)
+
+lemma successful_marginal_le_reference (μ ν : Measure U) [SFinite μ] [IsProbabilityMeasure ν]
+    (κ : Kernel U X) [IsMarkovKernel κ] (S : Set X) (hS : MeasurableSet S)
+    {c A : ℝ≥0∞} (hμ : μ≤A • ν) (hc : ∀ᵐu ∂μ,c≤κ u S) :
+    (μ.compProd (successKernel κ S hS)).map Prod.snd ≤
+      (c⁻¹*A) • ((((ν.compProd κ).map Prod.snd) S)⁻¹ • (((ν.compProd κ).map Prod.snd).restrict S)) := by
+  have := successful_marginal_le μ ν κ S hS hμ hc
+  refine this.trans ?_
+  intro B
+  simpa only [Measure.smul_apply,smul_eq_mul] using mul_le_mul_right (restricted_le_normalized ((ν.compProd κ).map Prod.snd) S B) (c⁻¹*A)
+
+end HardSphere.Comparison
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Kernels_TrialObserved
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasurePointMidpointNoise _root_.OAI.HardSphere.Bridge.midpointLaw_probability _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+open Bridge Wiener GaussianPacking
+
+lemma trialKernel_midpoint (t : ℝ) (y z u : Point) :
+    ∀ᵐ ω ∂trialKernel t y z u,ω midpointTime=u := by
+  rw [trialKernel_apply]
+  apply (ae_map_iff ((trialPath_continuous t y z).measurable.comp
+    (measurable_const.prodMk measurable_id)).aemeasurable (measurableSet_eq_fun ((continuous_eval_const midpointTime).measurable : Measurable (fun ω : C(Time,Point) ↦ ω midpointTime)) measurable_const)).mpr
+  exact ae_of_all _ (fun β ↦ trial_midpoint t y z u β)
+
+lemma paired_trial_midpoint (μ : Measure Point) [SFinite μ] (t : ℝ) (y z y' z' : Point)
+    (S T : Set C(Time,Point)) (hS : MeasurableSet S) (hT : MeasurableSet T) :
+    ∀ᵐ p ∂pairedFactor μ (trialKernel t y z) (trialKernel t y' z') S T hS hT,
+      p.2.1 midpointTime=p.1 ∧ p.2.2 midpointTime=p.1 := by
+  apply pairedFactor_midpoint μ (trialKernel t y z) (trialKernel t y' z')
+    (fun ω ↦ ω midpointTime) (fun ω ↦ ω midpointTime) id
+    (continuous_eval_const midpointTime).measurable (continuous_eval_const midpointTime).measurable measurable_id
+  · exact ae_of_all _ (trialKernel_midpoint t y z)
+  · exact ae_of_all _ (trialKernel_midpoint t y' z')
+
+end HardSphere.Comparison
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_LocalReference
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Bridge
+open Wiener GaussianPacking Comparison
+
+lemma targetUniform_probability {A : Set Point} (hA0 : volume A≠0) (hAfinite : volume A≠⊤) : IsProbabilityMeasure (targetUniform A) := by
+  constructor
+  simp only [targetUniform,Measure.smul_apply,Measure.restrict_apply_univ,smul_eq_mul]
+  exact ENNReal.inv_mul_cancel hA0 hAfinite
+
+lemma midpointLower_pos {t : ℝ} (ht : 0<t) (C : ℝ) : 0 < midpointLower t C :=
+  ENNReal.ofReal_pos.mpr (densityLower_pos (by positivity) C)
+lemma midpointLower_ne_top (t C : ℝ) : midpointLower t C≠⊤ := ENNReal.ofReal_ne_top
+
+lemma targetUniform_le_midpoint {t C : ℝ} (ht : 0<t) (hC : 0≤C) (y z : Point)
+    {A : Set Point} (hA : MeasurableSet A) (hbound : ∀x∈A,‖x-(fun j ↦ (y j+z j)/2)‖≤C) :
+    targetUniform A≤((volume A)⁻¹*(midpointLower t C)⁻¹) • midpointLaw t y z := by
+  have h := gaussian_dominates_local (v:=Real.toNNReal t) (by simpa [Real.toNNReal_eq_zero] using not_le.mpr ht)
+    (fun j ↦ (y j+z j)/2) hC hA hbound
+  rw [←midpointLaw_gaussian ht.le y z,Real.coe_toNNReal t ht.le] at h
+  change midpointLower t C • volume.restrict A ≤ midpointLaw t y z at h
+  have hd0 := ne_of_gt (midpointLower_pos ht C)
+  intro B
+  have hh := mul_le_mul_right (h B) ((volume A)⁻¹*(midpointLower t C)⁻¹)
+  have he : (volume A)⁻¹*(midpointLower t C)⁻¹*midpointLower t C=(volume A)⁻¹ := by
+    rw [mul_assoc,ENNReal.inv_mul_cancel hd0 (midpointLower_ne_top t C),mul_one]
+  simpa only [targetUniform,Measure.smul_apply,smul_eq_mul,←mul_assoc,he] using hh
+
+lemma physical_trial_le_reference {t C : ℝ} (ht : 0<t) (hC : 0≤C) (y z : Point)
+    {A : Set Point} (hA : MeasurableSet A) (hAfinite : volume A≠⊤)
+    (hbound : ∀x∈A,‖x-(fun j ↦ (y j+z j)/2)‖≤C)
+    (S : Set C(Time,Point)) (hS : MeasurableSet S) {c : ℝ≥0∞}
+    (hc : ∀ᵐu ∂targetUniform A,c≤trialKernel t y z u S) :
+    ((targetUniform A).compProd (successKernel (trialKernel t y z) S hS)).map Prod.snd ≤
+      (c⁻¹*((volume A)⁻¹*(midpointLower t C)⁻¹)) • individualReference t y z S := by
+  let : IsFiniteMeasure (volume.restrict A) := ⟨by simp [hAfinite.lt_top]⟩
+  let : IsFiniteMeasure (targetUniform A) := by
+    by_cases h0 : volume A=0
+    · have hz : targetUniform A=0 := by simp [targetUniform,Measure.restrict_eq_zero.mpr h0]
+      rw [hz]
+      first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+    · let : IsProbabilityMeasure (targetUniform A) := targetUniform_probability h0 hAfinite
+      first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+  have h := successful_marginal_le_reference (targetUniform A) (midpointLaw t y z)
+    (trialKernel t y z) S hS (targetUniform_le_midpoint ht hC y z hA hbound) hc
+  simpa only [full_bridge_midpoint ht.le,individualReference] using h
+
+end HardSphere.Bridge
+
+end
+end
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Bridge
+open Wiener GaussianPacking Comparison
+
+lemma individualReference_probability {t C : ℝ} (ht : 0<t) (hC : 0≤C) (y z : Point)
+    {A : Set Point} (hA : MeasurableSet A) (hA0 : volume A≠0) (hAfinite : volume A≠⊤)
+    (hbound : ∀u∈A,‖u-(fun j ↦ (y j+z j)/2)‖≤C)
+    (S : Set C(Time,Point)) (hS : MeasurableSet S) {c : ℝ≥0∞} (hc0 : 0 < c)
+    (hc : ∀ᵐu ∂targetUniform A,c≤trialKernel t y z u S) :
+    IsProbabilityMeasure (individualReference t y z S) := by
+  let _ : IsProbabilityMeasure (targetUniform A) := targetUniform_probability hA0 hAfinite
+  have hp := normalizer_positive_of_uniform_success (targetUniform A) (midpointLaw t y z)
+    (trialKernel t y z) S hS hc0 (ENNReal.mul_ne_top (ENNReal.inv_ne_top.mpr hA0)
+      (ENNReal.inv_ne_top.mpr (midpointLower_pos ht C).ne'))
+    (targetUniform_le_midpoint ht hC y z hA hbound) hc
+  rw [full_bridge_midpoint ht.le y z] at hp
+  let _ : IsProbabilityMeasure (law.map (leg (2*t) y z)) := Measure.isProbabilityMeasure_map (leg_continuous (2*t) y z).measurable.aemeasurable
+  constructor
+  simp only [individualReference,Measure.smul_apply,Measure.restrict_apply_univ,smul_eq_mul]
+  exact ENNReal.inv_mul_cancel hp.ne' (measure_ne_top _ _)
+
+lemma pairedTrialLaw_probability (t : ℝ) (y z y' z' : Point) (A : Set Point)
+    (hA0 : volume A≠0) (hAfinite : volume A≠⊤)
+    (S T : Set C(Time,Point)) (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hκ : ∀ᵐu ∂targetUniform A,0<trialKernel t y z u S)
+    (hη : ∀ᵐu ∂targetUniform A,0<trialKernel t y' z' u T) :
+    IsProbabilityMeasure (pairedTrialLaw t y z y' z' A S T hS hT) := by
+  let _ : IsProbabilityMeasure (targetUniform A) := targetUniform_probability hA0 hAfinite
+  let _ : IsProbabilityMeasure (pairedFactor (targetUniform A) (trialKernel t y z) (trialKernel t y' z') S T hS hT) :=
+    ⟨pairedFactor_mass _ _ _ _ _ _ _ hκ hη⟩
+  unfold pairedTrialLaw
+  first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+
+lemma pairedTrialLaw_fst (t : ℝ) (y z y' z' : Point) (A : Set Point)
+    (hA0 : volume A≠0) (hAfinite : volume A≠⊤)
+    (S T : Set C(Time,Point)) (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hη : ∀ᵐu ∂targetUniform A,0<trialKernel t y' z' u T) :
+    (pairedTrialLaw t y z y' z' A S T hS hT).fst=
+      ((targetUniform A).compProd (successKernel (trialKernel t y z) S hS)).map Prod.snd := by
+  let _ : IsProbabilityMeasure (targetUniform A) := targetUniform_probability hA0 hAfinite
+  have h := congrArg (fun μ : Measure (Point×C(Time,Point)) ↦ μ.map Prod.snd)
+    (pairedFactor_fst (targetUniform A) (trialKernel t y z) (trialKernel t y' z') S T hS hT hη)
+  rw [Measure.map_map measurable_snd (by fun_prop)] at h
+  unfold pairedTrialLaw Measure.fst
+  rw [Measure.map_map measurable_fst (by fun_prop)]
+  exact h
+
+lemma pairedTrialLaw_midpoint (t : ℝ) (y z y' z' : Point) (A : Set Point)
+    (hA0 : volume A≠0) (hAfinite : volume A≠⊤)
+    (S T : Set C(Time,Point)) (hS : MeasurableSet S) (hT : MeasurableSet T) :
+    ∀ᵐp ∂pairedTrialLaw t y z y' z' A S T hS hT,
+      p.1 midpointTime=p.2.1 ∧ p.2.2 midpointTime=p.2.1 := by
+  let _ : IsProbabilityMeasure (targetUniform A) := targetUniform_probability hA0 hAfinite
+  rw [pairedTrialLaw]
+  apply (ae_map_iff (by fun_prop) (by measurability)).mpr
+  exact paired_trial_midpoint (targetUniform A) t y z y' z' S T hS hT
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Comparison_FiberNormalize
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+variable {W V : Type*} [MeasurableSpace W] [MeasurableSpace V]
+
+lemma fiberRestrict_apply (κ : Kernel W V) [IsSFiniteKernel κ] {C : Set (W×V)}
+    (hC : MeasurableSet C) (w : W) :
+    fiberRestrict κ C w=(κ w).restrict {v | (w,v)∈C} := by
+  have hm : Measurable (Function.uncurry (fun w : W ↦ fun v : V ↦ C.indicator (fun _ ↦ (1 : ℝ≥0∞)) (w,v))) := by
+    change Measurable (C.indicator (fun _ ↦ (1 : ℝ≥0∞)))
+    exact measurable_const.indicator hC
+  rw [fiberRestrict,Kernel.withDensity_apply _ hm]
+  have he : (fun v ↦ C.indicator (fun _ ↦ (1 : ℝ≥0∞)) (w,v))=
+      {v | (w,v)∈C}.indicator (fun _ ↦ (1 : ℝ≥0∞)) := rfl
+  rw [he]
+  have hs : MeasurableSet {v : V | (w,v)∈C} := hC.preimage (measurable_const.prodMk measurable_id)
+  exact withDensity_indicator_one hs
+
+end HardSphere.Comparison
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Conditioning_PairFiber
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal BigOperators
+namespace HardSphere.Comparison
+variable {I E : Type*} [Fintype I] [MeasurableSpace E]
+variable {X : I→Type*} [∀i,MeasurableSpace (X i)]
+attribute [local instance] Classical.propDecidable
+
+lemma pairEvent_measurable (C : ∀i j,X i→X j→Prop)
+    (hC : ∀i j,MeasurableSet {z : X i×X j | C i j z.1 z.2}) :
+    MeasurableSet (pairEvent C) := by
+  simp only [pairEvent,ofPred_forall]
+  exact MeasurableSet.iInter fun i ↦ MeasurableSet.iInter fun j ↦
+    MeasurableSet.iInter fun (_ : i≠j) ↦ (hC i j).preimage ((measurable_pi_apply i).prodMk (measurable_pi_apply j))
+
+end HardSphere.Comparison
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Kernels_FiniteKernelPi
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory
+open scoped ENNReal
+
+namespace HardSphere.Comparison
+
+lemma finiteKernelPi_apply {α ι : Type*} [MeasurableSpace α] [Fintype ι]
+    {β : ι → Type*} [∀ i, MeasurableSpace (β i)]
+    (κ : ∀ i, Kernel α (β i)) [∀ i, IsFiniteKernel (κ i)] (a : α) :
+    finiteKernelPi κ a = Measure.pi (fun i ↦ κ i a) :=
+  (exists_kernel_pi β κ).choose_spec.2 a
+
+end HardSphere.Comparison
+
+end
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Conditioning_RestrictedMeasure
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+variable {X : Type*} [MeasurableSpace X]
+
+lemma subtypeConditional_map (P : Measure X) {S : Set X} (hS : MeasurableSet S) :
+    (subtypeConditional P S).map (Subtype.val:S→X)=(P S)⁻¹ • P.restrict S := by
+  rw [subtypeConditional,Measure.map_smul, map_comap_subtype_coe hS]
+
+end HardSphere.Comparison
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_PhysicalInsertion
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Bridge
+open Wiener GaussianPacking PathCutoff Comparison
+
+lemma referenceOn_map (t : ℝ) (y z : Point) {S : Set C(Time,Point)} (hS : MeasurableSet S) :
+    (referenceOn t y z S).map Subtype.val=individualReference t y z S :=
+  subtypeConditional_map _ hS
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_ConfinedLift
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Bridge
+open Wiener PathCutoff GaussianPacking
+attribute [local irreducible] torusDistance
+
+lemma leg_translate (t : ℝ) (y z c : Point) (β : Noise) :
+    leg t (y+c) (z+c) β=leg t y z β+ContinuousMap.const _ c := by
+  ext s j
+  change (1-(s:ℝ))*(y j+c j)+(s:ℝ)*(z j+c j)+Real.sqrt (2*t)*β j s=
+    ((1-(s:ℝ))*y j+(s:ℝ)*z j+Real.sqrt (2*t)*β j s)+c j
+  ring
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Conditioning_ConditionTransport
+attribute [-instance] _root_.OAI.HardSphere.Comparison.conditioned_finite _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Comparison
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+lemma conditioned_map_preimage (μ : Measure X) (f : X→Y) (hf : Measurable f)
+    {S : Set Y} (hS : MeasurableSet S) :
+    (conditionedMeasure μ (f⁻¹' S)).map f=conditionedMeasure (μ.map f) S := by
+  unfold conditionedMeasure
+  rw [Measure.map_smul,Measure.map_apply hf hS]
+  congr 1
+  ext B hB
+  rw [Measure.map_apply hf hB,Measure.restrict_apply (hB.preimage hf),
+    Measure.restrict_apply hB,Measure.map_apply hf (hB.inter hS)]
+  rfl
+
+lemma conditioned_pi_map {I : Type*} [Fintype I] {X Y : I→Type*}
+    [∀i,MeasurableSpace (X i)] [∀i,MeasurableSpace (Y i)]
+    (μ : ∀i,Measure (X i)) [∀i,IsFiniteMeasure (μ i)]
+    (f : ∀i,X i→Y i) (hf : ∀i,Measurable (f i))
+    {S : Set (∀i,Y i)} (hS : MeasurableSet S) :
+    (conditionedMeasure (Measure.pi μ) ((fun x i ↦ f i (x i))⁻¹' S)).map
+      (fun x i ↦ f i (x i))=
+      conditionedMeasure (Measure.pi fun i ↦ (μ i).map (f i)) S := by
+  have hmf : Measurable (fun x : ∀i,X i ↦ fun i ↦ f i (x i)) := by
+    exact Measurable.of_eval (fun i ↦ (hf i).comp (measurable_pi_apply i))
+  rw [conditioned_map_preimage _ _ hmf hS,Measure.pi_map_pi (fun i ↦ (hf i).aemeasurable)]
+end HardSphere.Comparison
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalReference
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Groups
+open Wiener Bridge GaussianPacking Comparison CellOrbital
+attribute [local instance] Classical.propDecidable
+
+lemma physicalMutual_measurable {I : Type*} [Fintype I] {L : Length} (r : ℝ) :
+    MeasurableSet (physicalMutual (I:=I) (L:=L) r) :=
+  pairEvent_measurable _ (fun _ _ ↦ (jointCollision_closed (L:=L) r).measurableSet.compl)
+
+end HardSphere.Groups
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Kernels_ExposedPhysicalPair
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Bridge
+open Wiener GaussianPacking Comparison
+variable {E : Type*} [MeasurableSpace E]
+
+lemma parameterTrialSuccess_apply (t : ℝ) (y z : E→Point) (hy : Measurable y) (hz : Measurable z)
+    (S : Set (E×C(Time,Point))) (hS : MeasurableSet S) (e : E) (u : Point) :
+    parameterSuccessKernel (parameterTrialKernel t y z hy hz) (exposedSuccess S)
+      (exposedSuccess_measurable hS) (e,u)=
+    successKernel (trialKernel t (y e) (z e)) (Prod.mk e ⁻¹' S)
+      (hS.preimage measurable_prodMk_left) u := by
+  rw [parameterSuccessKernel_apply,successKernel_apply,parameterTrialKernel_apply]
+  rfl
+
+lemma exposedPairedTrialKernel_apply (Q : Kernel E Point) [IsFiniteKernel Q] (t : ℝ)
+    (y z y' z' : E→Point) (hy : Measurable y) (hz : Measurable z)
+    (hy' : Measurable y') (hz' : Measurable z')
+    (S T : Set (E×C(Time,Point))) (hS : MeasurableSet S) (hT : MeasurableSet T) (e : E) :
+    exposedPairedTrialKernel Q t y z y' z' hy hz hy' hz' S T hS hT e=
+      (pairedFactor (Q e) (trialKernel t (y e) (z e)) (trialKernel t (y' e) (z' e))
+        (Prod.mk e ⁻¹' S) (Prod.mk e ⁻¹' T)
+        (hS.preimage measurable_prodMk_left) (hT.preimage measurable_prodMk_left)).map
+        (fun p ↦ (p.2.1,(p.1,p.2.2))) := by
+  rw [exposedPairedTrialKernel,Kernel.map_apply _ (by fun_prop)]
+  congr 1
+  ext B hB
+  rw [parameterPairedKernel,Kernel.compProd_apply hB,pairedFactor,Measure.compProd_apply hB]
+  apply lintegral_congr
+  intro u
+  rw [Kernel.prod_apply,Kernel.prod_apply,parameterTrialSuccess_apply,parameterTrialSuccess_apply] <;> assumption
+
+lemma exposedPairedTrialKernel_physical (Q : Kernel E Point) [IsFiniteKernel Q] (t : ℝ)
+    (y z y' z' : E→Point) (hy : Measurable y) (hz : Measurable z)
+    (hy' : Measurable y') (hz' : Measurable z')
+    (S T : Set (E×C(Time,Point))) (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (A : E→Set Point) (hQ : ∀e,Q e=targetUniform (A e)) (e : E) :
+    exposedPairedTrialKernel Q t y z y' z' hy hz hy' hz' S T hS hT e=
+      pairedTrialLaw t (y e) (z e) (y' e) (z' e) (A e)
+        (Prod.mk e ⁻¹' S) (Prod.mk e ⁻¹' T)
+        (hS.preimage measurable_prodMk_left) (hT.preimage measurable_prodMk_left) := by
+  rw [exposedPairedTrialKernel_apply,hQ]
+  rfl
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_ExposedReference
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Bridge
+open Wiener GaussianPacking Comparison
+variable {E : Type*} [MeasurableSpace E]
+
+lemma exposedBridgeKernel_apply (t : ℝ) (y z : Point) :
+    exposedBridgeKernel t (y,z)=law.map (leg t y z) := by
+  rw [exposedBridgeKernel,Kernel.map_apply _ (leg_all_continuous t).measurable,
+    Kernel.prod_apply,Kernel.deterministic_apply,Kernel.const_apply,Measure.dirac_prod,
+    Measure.map_map (leg_all_continuous t).measurable
+      (measurable_const.prodMk measurable_id : Measurable (Prod.mk (id (y,z))))]
+  rfl
+
+lemma parameterBridgeKernel_apply (t : ℝ) (y z : E→Point) (hy : Measurable y) (hz : Measurable z) (e : E) :
+    parameterBridgeKernel t y z hy hz e=law.map (leg t (y e) (z e)) := exposedBridgeKernel_apply _ _ _
+
+lemma parameterIndividualReference_apply (t : ℝ) (y z : E→Point) (hy : Measurable y) (hz : Measurable z)
+    (S : Set (E×C(Time,Point))) (hS : MeasurableSet S) (e : E) :
+    parameterIndividualReference t y z hy hz S hS e=individualReference t (y e) (z e) (Prod.mk e ⁻¹' S) := by
+  rw [parameterIndividualReference,parameterSuccessKernel_apply,parameterBridgeKernel_apply]
+  rfl
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_PairedMarginal
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology BigOperators
+namespace HardSphere.Bridge
+open Wiener GaussianPacking PathCutoff Comparison
+
+lemma pairedTrialLaw_other (t : ℝ) (y z y' z' : Point) (A : Set Point)
+    (hA0 : volume A≠0) (hAfinite : volume A≠⊤)
+    (S T : Set C(Time,Point)) (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hκ : ∀ᵐu ∂targetUniform A,0<trialKernel t y z u S) :
+    (pairedTrialLaw t y z y' z' A S T hS hT).map (fun p ↦ p.2.2)=
+      ((targetUniform A).compProd (successKernel (trialKernel t y' z') T hT)).map Prod.snd := by
+  let _ : IsProbabilityMeasure (targetUniform A) := targetUniform_probability hA0 hAfinite
+  have h := congrArg (fun μ : Measure (Point×C(Time,Point)) ↦ μ.map Prod.snd)
+    (pairedFactor_snd (targetUniform A) (trialKernel t y z) (trialKernel t y' z') S T hS hT hκ)
+  rw [Measure.map_map measurable_snd (by fun_prop)] at h
+  unfold pairedTrialLaw
+  rw [Measure.map_map (by fun_prop) (by fun_prop)]
+  exact h
+
+lemma pairedTrialLaw_marginals {t C C' : ℝ} (ht : 0<t) (hC : 0≤C) (hC' : 0≤C')
+    (y z y' z' : Point) {A : Set Point} (hA : MeasurableSet A)
+    (hA0 : volume A≠0) (hAfinite : volume A≠⊤)
+    (hb : ∀u∈A,‖u-(fun j ↦ (y j+z j)/2)‖≤C)
+    (hb' : ∀u∈A,‖u-(fun j ↦ (y' j+z' j)/2)‖≤C')
+    (S T : Set C(Time,Point)) (hS : MeasurableSet S) (hT : MeasurableSet T)
+    {c d : ℝ≥0∞} (hc0 : 0 < c) (hd0 : 0<d)
+    (hc : ∀ᵐu ∂targetUniform A,c≤trialKernel t y z u S)
+    (hd : ∀ᵐu ∂targetUniform A,d≤trialKernel t y' z' u T) :
+    (pairedTrialLaw t y z y' z' A S T hS hT).fst≤
+      (c⁻¹*((volume A)⁻¹*(midpointLower t C)⁻¹)) • individualReference t y z S ∧
+    (pairedTrialLaw t y z y' z' A S T hS hT).map (fun p ↦ p.2.2)≤
+      (d⁻¹*((volume A)⁻¹*(midpointLower t C')⁻¹)) • individualReference t y' z' T := by
+  constructor
+  · rw [pairedTrialLaw_fst t y z y' z' A hA0 hAfinite S T hS hT (hd.mono (fun _ h ↦ hd0.trans_le h))]
+    exact physical_trial_le_reference ht hC y z hA hAfinite hb S hS hc
+  · rw [pairedTrialLaw_other t y z y' z' A hA0 hAfinite S T hS hT (hc.mono (fun _ h ↦ hc0.trans_le h))]
+    exact physical_trial_le_reference ht hC' y' z' hA hAfinite hb' T hT hd
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Conditioning_SupportedPair
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+
+lemma supportedPair_map (ρ : Measure (X×Y)) {S : Set X} {T : Set Y}
+    (hS : MeasurableSet S) (hT : MeasurableSet T) (hρ : ∀ᵐp ∂ρ,p.1∈S ∧ p.2∈T) :
+    (supportedPair ρ S T).map (Prod.map Subtype.val Subtype.val)=ρ := by
+  rw [supportedPair,((MeasurableEmbedding.subtype_coe hS).prodMap
+    (MeasurableEmbedding.subtype_coe hT)).map_comap]
+  apply Measure.restrict_eq_self_of_ae_mem
+  filter_upwards [hρ] with p hp
+  exact ⟨(⟨p.1,hp.1⟩,⟨p.2,hp.2⟩),rfl⟩
+
+lemma supportedPair_probability (ρ : Measure (X×Y)) [IsProbabilityMeasure ρ]
+    {S : Set X} {T : Set Y} (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hρ : ∀ᵐp ∂ρ,p.1∈S ∧ p.2∈T) : IsProbabilityMeasure (supportedPair ρ S T) := by
+  constructor
+  have h := congrArg (fun μ : Measure (X×Y) ↦ μ univ) (supportedPair_map ρ hS hT hρ)
+  simpa only [Measure.map_apply (by fun_prop : Measurable (Prod.map (Subtype.val:S→X) (Subtype.val:T→Y)))
+    MeasurableSet.univ,preimage_univ,measure_univ] using h
+
+lemma map_le_reflect {A B : Type*} [MeasurableSpace A] [MeasurableSpace B]
+    {f : A→B} (hf : MeasurableEmbedding f) {μ ν : Measure A}
+    (h : μ.map f≤ν.map f) : μ≤ν := by
+  apply Measure.le_iff.mpr
+  intro C hC
+  have hh := h (f '' C)
+  simpa only [hf.map_apply,hf.injective.preimage_image] using hh
+
+lemma supportedPair_fst (ρ : Measure (X×Y)) {S : Set X} {T : Set Y}
+    (hS : MeasurableSet S) (hT : MeasurableSet T) (hρ : ∀ᵐp ∂ρ,p.1∈S ∧ p.2∈T) :
+    (supportedPair ρ S T).fst.map Subtype.val=ρ.fst := by
+  have h := congrArg (fun μ : Measure (X×Y) ↦ μ.fst) (supportedPair_map ρ hS hT hρ)
+  rw [Measure.fst,Measure.map_map measurable_fst (by fun_prop)] at h
+  rw [Measure.fst,Measure.map_map measurable_subtype_coe measurable_fst]
+  exact h
+
+lemma supportedPair_snd (ρ : Measure (X×Y)) {S : Set X} {T : Set Y}
+    (hS : MeasurableSet S) (hT : MeasurableSet T) (hρ : ∀ᵐp ∂ρ,p.1∈S ∧ p.2∈T) :
+    (supportedPair ρ S T).snd.map Subtype.val=ρ.snd := by
+  have h := congrArg (fun μ : Measure (X×Y) ↦ μ.snd) (supportedPair_map ρ hS hT hρ)
+  rw [Measure.snd,Measure.map_map measurable_snd (by fun_prop)] at h
+  rw [Measure.snd,Measure.map_map measurable_subtype_coe measurable_snd]
+  exact h
+
+lemma supportedPair_fst_le (ρ : Measure (X×Y)) {S : Set X} {T : Set Y}
+    (hS : MeasurableSet S) (hT : MeasurableSet T) (hρ : ∀ᵐp ∂ρ,p.1∈S ∧ p.2∈T)
+    (P : Measure S) {G : ℝ≥0∞} (hP : ρ.fst≤G • P.map Subtype.val) :
+    (supportedPair ρ S T).fst≤G • P := by
+  apply map_le_reflect (MeasurableEmbedding.subtype_coe hS)
+  rw [supportedPair_fst ρ hS hT hρ,Measure.map_smul]
+  exact hP
+
+lemma supportedPair_snd_le (ρ : Measure (X×Y)) {S : Set X} {T : Set Y}
+    (hS : MeasurableSet S) (hT : MeasurableSet T) (hρ : ∀ᵐp ∂ρ,p.1∈S ∧ p.2∈T)
+    (P : Measure T) {G : ℝ≥0∞} (hP : ρ.snd≤G • P.map Subtype.val) :
+    (supportedPair ρ S T).snd≤G • P := by
+  apply map_le_reflect (MeasurableEmbedding.subtype_coe hT)
+  rw [supportedPair_snd ρ hS hT hρ,Measure.map_smul]
+  exact hP
+
+lemma supported_of_marginals (ρ : Measure (X×Y)) {S : Set X} {T : Set Y}
+    (hS : MeasurableSet S) (hT : MeasurableSet T) (P : Measure S) (Q : Measure T)
+    {G H : ℝ≥0∞} (hP : ρ.fst≤G • P.map Subtype.val) (hQ : ρ.snd≤H • Q.map Subtype.val) :
+    ∀ᵐp ∂ρ,p.1∈S ∧ p.2∈T := by
+  have hp0 : (P.map Subtype.val) Sᶜ=0 := by
+    rw [Measure.map_apply measurable_subtype_coe hS.compl]
+    have he : (Subtype.val:S→X) ⁻¹' Sᶜ=∅ := by ext x; simp only [mem_preimage,mem_compl_iff,x.property,not_true,mem_empty_iff_false]
+    rw [he,measure_empty]
+  have hq0 : (Q.map Subtype.val) Tᶜ=0 := by
+    rw [Measure.map_apply measurable_subtype_coe hT.compl]
+    have he : (Subtype.val:T→Y) ⁻¹' Tᶜ=∅ := by ext x; simp only [mem_preimage,mem_compl_iff,x.property,not_true,mem_empty_iff_false]
+    rw [he,measure_empty]
+  have hpa : ∀ᵐx ∂ρ.fst,x∈S := by
+    rw [ae_iff]
+    change ρ.fst Sᶜ=0
+    exact le_antisymm (by simpa only [Measure.smul_apply,smul_eq_mul,hp0,mul_zero] using hP Sᶜ) bot_le
+  have hqa : ∀ᵐy ∂ρ.snd,y∈T := by
+    rw [ae_iff]
+    change ρ.snd Tᶜ=0
+    exact le_antisymm (by simpa only [Measure.smul_apply,smul_eq_mul,hq0,mul_zero] using hQ Tᶜ) bot_le
+  have hp' : ∀ᵐp ∂ρ,p.1∈S := (ae_map_iff measurable_fst.aemeasurable hS).mp hpa
+  have hq' : ∀ᵐp ∂ρ,p.2∈T := (ae_map_iff measurable_snd.aemeasurable hT).mp hqa
+  exact hp'.and hq'
+
+end HardSphere.Comparison
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_PeriodShift
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.conditioned_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.Rescaling.config_haar _root_.OAI.HardSphere.bridgeEndpointBase_finite _root_.OAI.HardSphere.endpointWeightedBase_sfinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Bridge
+open Wiener GaussianPacking PathCutoff Comparison
+
+lemma shiftPath_cancel (c : Point) (f : C(Time,Point)) : shiftPath (-c) (shiftPath c f)=f := by
+  ext s j
+  change (f s j+c j)+(-c j)=f s j
+  ring
+
+lemma projectPoint_shift {L : Length} (c : Point) (hc : projectPoint L c=0) (v : Point) :
+    projectPoint L (v+c)=projectPoint L v := by
+  ext j
+  change (((v j+c j):ℝ):AddCircle L.val)=_
+  rw [AddCircle.coe_add]
+  have h := congrFun hc j
+  change ((c j:ℝ):AddCircle L.val)=0 at h
+  rw [h,add_zero]
+
+lemma trialPath_shift (t : ℝ) (y z u c : Point) (β : Noise×Noise) :
+    trialPath t (y+c) (z+c) (u+c) β=shiftPath c (trialPath t y z u β) := by
+  ext s j
+  change (leg t (y+c) (u+c) (pinned β.1) (leftTime s) j +
+    leg t (z+c) (u+c) (pinned β.2) (reverseTime (rightTime s)) j)-(u j+c j)=_
+  rw [leg_translate,leg_translate]
+  change ((leg t y u (pinned β.1) (leftTime s) j+c j)+
+    (leg t z u (pinned β.2) (reverseTime (rightTime s)) j+c j))-(u j+c j)=_
+  change _=((leg t y u (pinned β.1) (leftTime s) j+
+    leg t z u (pinned β.2) (reverseTime (rightTime s)) j)-u j)+c j
+  ring
+
+lemma trialKernel_shift (t : ℝ) (y z u c : Point) :
+    (trialKernel t y z u).map (shiftPath c)=trialKernel t (y+c) (z+c) (u+c) := by
+  have hm : Measurable (trialPath t y z u) :=
+    ((trialPath_continuous t y z).comp (continuous_const.prodMk continuous_id)).measurable
+  rw [trialKernel_apply,trialKernel_apply,Measure.map_map (shiftPath_continuous c).measurable hm]
+  congr 1
+  funext β
+  exact (trialPath_shift t y z u c β).symm
+
+lemma individualReference_shift (t : ℝ) (y z c : Point)
+    (S T : Set C(Time,Point)) (hT : MeasurableSet T)
+    (hST : ∀f,shiftPath c f∈T ↔ f∈S) :
+    (individualReference t y z S).map (shiftPath c)=
+      individualReference t (y+c) (z+c) T := by
+  have he : S=(shiftPath c)⁻¹' T := by ext f;exact (hST f).symm
+  change (conditionedMeasure (law.map (leg (2*t) y z)) S).map (shiftPath c)=_
+  rw [he,conditioned_map_preimage _ _ (shiftPath_continuous c).measurable hT,
+    Measure.map_map (shiftPath_continuous c).measurable (leg_continuous ..).measurable]
+  congr 1
+  congr 1
+  funext β
+  exact (leg_translate (2*t) y z c β).symm
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_PhysicalPair
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.Rescaling.config_haar _root_.OAI.HardSphere.bridgeEndpointBase_finite _root_.OAI.HardSphere.endpointWeightedBase_sfinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Bridge
+open Wiener GaussianPacking PathCutoff Comparison
+
+lemma individualReference_unshift (t : ℝ) (y z c : Point)
+    (S T : Set C(Time,Point)) (hT : MeasurableSet T)
+    (hST : ∀f, shiftPath c f ∈ T ↔ f ∈ S) :
+    (individualReference t (y+c) (z+c) T).map (shiftPath (-c)) =
+      individualReference t y z S := by
+  rw [←individualReference_shift t y z c S T hT hST,
+    Measure.map_map (shiftPath_continuous (-c)).measurable (shiftPath_continuous c).measurable]
+  have he : shiftPath (-c) ∘ shiftPath c = id := by
+    funext f
+    exact shiftPath_cancel c f
+  rw [he, Measure.map_id]
+
+variable {E : Type*} [MeasurableSpace E]
+
+lemma exposedPeriodPair_apply (Q : Kernel E Point) [IsFiniteKernel Q] (t : ℝ)
+    (y z y' z' : E → Point) (hy : Measurable y) (hz : Measurable z)
+    (hy' : Measurable y') (hz' : Measurable z') (c : Point)
+    (S U : Set (E × C(Time,Point))) (hS : MeasurableSet S) (hU : MeasurableSet U)
+    (A : E → Set Point) (hQ : ∀e, Q e=targetUniform (A e)) (e : E) :
+    exposedPeriodPair Q t y z y' z' hy hz hy' hz' c S U hS hU e =
+      (pairedTrialLaw t (y e) (z e) (y' e+c) (z' e+c) (A e)
+        (Prod.mk e ⁻¹' S) (Prod.mk e ⁻¹' U)
+        (hS.preimage measurable_prodMk_left) (hU.preimage measurable_prodMk_left)).map
+          (fun p ↦ (p.1, shiftPath (-c) p.2.2)) := by
+  have hm : Measurable (fun p : C(Time,Point) × (Point × C(Time,Point)) ↦
+      (p.1, shiftPath (-c) p.2.2)) :=
+    measurable_fst.prodMk ((shiftPath_continuous (-c)).measurable.comp
+      (measurable_snd.comp measurable_snd))
+  rw [exposedPeriodPair, Kernel.map_apply _ hm,
+    exposedPairedTrialKernel_physical Q t y z (fun e ↦ y' e+c) (fun e ↦ z' e+c)
+      hy hz (hy'.add measurable_const) (hz'.add measurable_const) S U hS hU A hQ]
+
+lemma exposedPeriodPair_physical {L : Length} (Q : Kernel E Point) [IsFiniteKernel Q]
+    {t C : ℝ} (ht : 0<t) (hC : 0≤C)
+    (y z y' z' : E → Point) (hy : Measurable y) (hz : Measurable z)
+    (hy' : Measurable y') (hz' : Measurable z') (c : Point) (hc : projectPoint L c=0)
+    (S T U : Set (E × C(Time,Point))) (hS : MeasurableSet S)
+    (hT : MeasurableSet T) (hU : MeasurableSet U)
+    (hTU : ∀e f, (e,shiftPath c f)∈U ↔ (e,f)∈T)
+    (A : E → Set Point) (hQ : ∀e, Q e=targetUniform (A e))
+    (hA : ∀e, MeasurableSet (A e)) (hAf : ∀e, volume (A e)≠⊤)
+    {a b : ℝ≥0∞} (ha : 0<a) (hb : 0<b) (hvol : ∀e, a≤volume (A e))
+    (hbound : ∀e u, u∈A e → ‖u-(fun j ↦ (y e j+z e j)/2)‖≤C)
+    (hbound' : ∀e u, u∈A e → ‖u-(fun j ↦ ((y' e+c) j+(z' e+c) j)/2)‖≤C)
+    (hfirst : ∀e, ∀ᵐu ∂targetUniform (A e), b≤trialKernel t (y e) (z e) u (Prod.mk e ⁻¹' S))
+    (hsecond : ∀e, ∀ᵐu ∂targetUniform (A e), b≤trialKernel t (y' e+c) (z' e+c) u (Prod.mk e ⁻¹' U)) :
+    let ρ := exposedPeriodPair Q t y z y' z' hy hz hy' hz' c S U hS hU
+    let P := parameterIndividualReference t y z hy hz S hS
+    let P' := parameterIndividualReference t y' z' hy' hz' T hT
+    let G := b⁻¹*(a⁻¹*(midpointLower t C)⁻¹)
+    IsMarkovKernel ρ ∧ IsMarkovKernel P ∧ IsMarkovKernel P' ∧
+      (∀e, (ρ e).fst≤G • P e ∧ (ρ e).snd≤G • P' e) ∧
+      (∀e, ∀ᵐp ∂ρ e,
+        projectPoint L (p.1 midpointTime)=projectPoint L (p.2 midpointTime)) := by
+  dsimp only
+  let ρ := exposedPeriodPair Q t y z y' z' hy hz hy' hz' c S U hS hU
+  let μ := parameterIndividualReference t y z hy hz S hS
+  let ν := parameterIndividualReference t y' z' hy' hz' T hT
+  let G := b⁻¹*(a⁻¹*(midpointLower t C)⁻¹)
+  have hA0 (e : E) : volume (A e)≠0 := (ha.trans_le (hvol e)).ne'
+  have hμ (e : E) : IsProbabilityMeasure (μ e) := by
+    rw [show μ e=individualReference t (y e) (z e) (Prod.mk e ⁻¹' S) from
+      parameterIndividualReference_apply ..]
+    exact individualReference_probability ht hC (y e) (z e) (hA e) (hA0 e) (hAf e)
+      (hbound e) _ (hS.preimage measurable_prodMk_left) hb (hfirst e)
+  have hν (e : E) : IsProbabilityMeasure (ν e) := by
+    rw [show ν e=individualReference t (y' e) (z' e) (Prod.mk e ⁻¹' T) from
+      parameterIndividualReference_apply ..,
+      ←individualReference_unshift t (y' e) (z' e) c (Prod.mk e ⁻¹' T) (Prod.mk e ⁻¹' U)
+        (hU.preimage measurable_prodMk_left) (hTU e)]
+    let _ := individualReference_probability ht hC (y' e+c) (z' e+c) (hA e)
+      (hA0 e) (hAf e) (hbound' e) _ (hU.preimage measurable_prodMk_left) hb (hsecond e)
+    first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+  have hm : Measurable (fun p : C(Time,Point) × (Point × C(Time,Point)) ↦
+      (p.1, shiftPath (-c) p.2.2)) :=
+    measurable_fst.prodMk ((shiftPath_continuous (-c)).measurable.comp
+      (measurable_snd.comp measurable_snd))
+  have hp (e : E) : IsProbabilityMeasure (pairedTrialLaw t (y e) (z e) (y' e+c) (z' e+c)
+      (A e) (Prod.mk e ⁻¹' S) (Prod.mk e ⁻¹' U)
+      (hS.preimage measurable_prodMk_left) (hU.preimage measurable_prodMk_left)) :=
+    pairedTrialLaw_probability t (y e) (z e) (y' e+c) (z' e+c) (A e)
+      (hA0 e) (hAf e) _ _ (hS.preimage measurable_prodMk_left)
+      (hU.preimage measurable_prodMk_left)
+      ((hfirst e).mono (fun _ hu ↦ hb.trans_le hu))
+      ((hsecond e).mono (fun _ hu ↦ hb.trans_le hu))
+  have hρ (e : E) : IsProbabilityMeasure (ρ e) := by
+    rw [show ρ e = _ from exposedPeriodPair_apply Q t y z y' z' hy hz hy' hz' c S U hS hU A hQ e]
+    let _ := hp e
+    first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+  refine ⟨⟨hρ⟩,⟨hμ⟩,⟨hν⟩,?_,?_⟩
+  · intro e
+    obtain ⟨h₁,h₂⟩ := pairedTrialLaw_marginals ht hC hC (y e) (z e) (y' e+c) (z' e+c)
+      (hA e) (hA0 e) (hAf e) (hbound e) (hbound' e) _ _
+      (hS.preimage measurable_prodMk_left) (hU.preimage measurable_prodMk_left)
+      hb hb (hfirst e) (hsecond e)
+    have hf : (ρ e).fst = (pairedTrialLaw t (y e) (z e) (y' e+c) (z' e+c)
+      (A e) (Prod.mk e ⁻¹' S) (Prod.mk e ⁻¹' U)
+      (hS.preimage measurable_prodMk_left) (hU.preimage measurable_prodMk_left)).fst := by
+      rw [show ρ e = _ from exposedPeriodPair_apply Q t y z y' z' hy hz hy' hz' c S U hS hU A hQ e,
+        Measure.fst, Measure.map_map measurable_fst hm]
+      rfl
+    have hs : (ρ e).snd = ((pairedTrialLaw t (y e) (z e) (y' e+c) (z' e+c)
+      (A e) (Prod.mk e ⁻¹' S) (Prod.mk e ⁻¹' U)
+      (hS.preimage measurable_prodMk_left) (hU.preimage measurable_prodMk_left)).map
+        (fun p ↦ p.2.2)).map (shiftPath (-c)) := by
+      rw [show ρ e = _ from exposedPeriodPair_apply Q t y z y' z' hy hz hy' hz' c S U hS hU A hQ e,
+        Measure.snd, Measure.map_map measurable_snd hm,
+        Measure.map_map (shiftPath_continuous (-c)).measurable (by fun_prop)]
+      rfl
+    constructor
+    · rw [hf, parameterIndividualReference_apply]
+      apply h₁.trans
+      intro B
+      simp only [Measure.smul_apply, smul_eq_mul]
+      gcongr
+      exact hvol e
+    · rw [hs, parameterIndividualReference_apply]
+      have H := Measure.map_mono h₂ (shiftPath_continuous (-c)).measurable
+      rw [Measure.map_smul,
+        individualReference_unshift t (y' e) (z' e) c
+        (Prod.mk e ⁻¹' T) (Prod.mk e ⁻¹' U) (hU.preimage measurable_prodMk_left) (hTU e)] at H
+      apply H.trans
+      intro B
+      simp only [Measure.smul_apply, smul_eq_mul]
+      gcongr
+      exact hvol e
+  · intro e
+    rw [show ρ e = _ from exposedPeriodPair_apply Q t y z y' z' hy hz hy' hz' c S U hS hU A hQ e]
+    apply (ae_map_iff hm.aemeasurable (by measurability)).mpr
+    filter_upwards [pairedTrialLaw_midpoint t (y e) (z e) (y' e+c) (z' e+c) (A e)
+      (hA0 e) (hAf e) (Prod.mk e ⁻¹' S) (Prod.mk e ⁻¹' U)
+      (hS.preimage measurable_prodMk_left) (hU.preimage measurable_prodMk_left)] with p hmid
+    have hc' : projectPoint L (-c)=0 := by
+      ext j
+      change (((-c j):ℝ):AddCircle L.val)=0
+      rw [AddCircle.coe_neg]
+      have h := congrFun hc j
+      change ((c j:ℝ):AddCircle L.val)=0 at h
+      rw [h,neg_zero]
+    change projectPoint L (p.1 midpointTime)=projectPoint L (p.2.2 midpointTime+(-c))
+    rw [projectPoint_shift (-c) hc',hmid.1,hmid.2]
+
+end HardSphere.Bridge
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_CoarsePhysical
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Comparison
+
+lemma coarse_joint_reference {W D X Y : Type*} [MeasurableSpace W]
+    [MeasurableSpace D] [MeasurableSpace X] [MeasurableSpace Y]
+    (μ : Measure W) [SFinite μ] (κ : Kernel W X) [IsSFiniteKernel κ]
+    (R : Kernel D Y) [IsSFiniteKernel R] (d : W→D) (hd : Measurable d)
+    (f : W×X→Y) (hf : Measurable f)
+    (h : ∀ᵐw ∂μ,(κ w).map (fun x ↦ f (w,x))=R (d w)) :
+    (μ.compProd κ).map (fun p ↦ (d p.1,f p))=(μ.map d).compProd R := by
+  apply Measure.ext_of_lintegral
+  intro F hF
+  have hm : Measurable (fun p : W×X ↦ (d p.1,f p)) :=
+    (hd.comp measurable_fst).prodMk hf
+  rw [lintegral_map hF hm]
+  have hFm : Measurable (fun p : W×X ↦ F (d p.1,f p)) := hF.comp hm
+  rw [Measure.lintegral_compProd hFm,Measure.lintegral_compProd hF,
+    lintegral_map (hF.lintegral_kernel_prod_right' (κ:=R)) hd]
+  apply lintegral_congr_ae
+  filter_upwards [h] with w hw
+  rw [←hw]
+  exact (lintegral_map (μ:=κ w)
+    (show Measurable (fun y ↦ F (d w,y)) from hF.comp measurable_prodMk_left)
+    (show Measurable (fun x ↦ f (w,x)) from hf.comp measurable_prodMk_left)).symm
+
+end HardSphere.Comparison
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+attribute [local instance] Classical.propDecidable
+
+lemma datumIndividualReference_apply {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (r R C S t : ℝ) (u : Time) (i : Fin N)
+    (d : PhysicalDatum N K M G L) :
+    datumIndividualReference hL g m r R C S t u i d=
+      individualReference t (datumStart hL d i) (datumEnd hL d i)
+        (Prod.mk d ⁻¹' datumPermitted hL g m r R C S u i) :=
+  parameterIndividualReference_apply ..
+
+end HardSphere.Groups
+
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalTargets
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal BigOperators
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+attribute [local instance] Classical.propDecidable
+
+lemma unitTarget_radius (c u : Point) (hu : u∈unitTarget c) : ‖u-c‖≤1/2 := by
+  apply (pi_norm_le_iff_of_nonneg (by norm_num : (0:ℝ)≤1/2)).mpr
+  intro j
+  have hj := hu j (Set.mem_univ j)
+  change |u j-c j|≤1/2
+  rw [abs_le]
+  constructor <;> linarith [hj.1,hj.2]
+
+lemma targetStep_radius (j : Fin 7) : ‖targetStep j‖≤1 := by
+  apply (pi_norm_le_iff_of_nonneg (by norm_num : (0:ℝ)≤1)).mpr
+  intro k
+  unfold targetStep
+  change |(if j.val=0 then (0:Point) else fun k ↦
+    if k.val=(j.val-1)/2 then (if (j.val-1)%2=0 then 1 else -1) else 0) k|≤1
+  split_ifs <;> norm_num
+  all_goals split_ifs <;> norm_num
+
+lemma targetCell_radius (c : Point) (j : Fin 7) (u : Point)
+    (hu : u∈unitTarget (c+targetStep j)) : ‖u-c‖≤3 := by
+  have H := norm_add_le (u-(c+targetStep j)) (targetStep j)
+  have he : u-(c+targetStep j)+targetStep j = u-c := by abel
+  rw [he] at H
+  linarith [unitTarget_radius (c+targetStep j) u hu,targetStep_radius j]
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Comparison_ParameterTarget
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.vertexPair_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+open HardSphere.Bridge HardSphere.Wiener HardSphere.GaussianPacking
+variable {E : Type*} [MeasurableSpace E]
+
+lemma parameterTargetKernel_apply {B : Set Point} (hB : volume B ≠ ⊤)
+    (A : Set (E×Point)) (hA : MeasurableSet A)
+    (hAB : ∀e,Prod.mk e ⁻¹' A ⊆ B) (e : E) :
+    parameterTargetKernel hB A hA e=targetUniform (Prod.mk e ⁻¹' A) := by
+  let : IsFiniteMeasure (volume.restrict B) := ⟨by simpa using hB.lt_top⟩
+  have hs := hA.preimage (@measurable_prodMk_left E Point _ _ e)
+  change ((volume.restrict B) (Prod.mk e ⁻¹' A))⁻¹ •
+    (volume.restrict B).restrict (Prod.mk e ⁻¹' A)=_
+  rw [Measure.restrict_apply hs,inter_eq_left.mpr (hAB e),
+    Measure.restrict_restrict hs,inter_eq_left.mpr (hAB e)]
+  rfl
+
+end HardSphere.Comparison
+
+end
+end
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Comparison
+variable {E U X Y : Type*} [MeasurableSpace E] [MeasurableSpace U]
+  [MeasurableSpace X] [MeasurableSpace Y]
+
+lemma probability_inter_98 (μ : Measure U) [IsProbabilityMeasure μ]
+    {s t : Set U} (_hs : MeasurableSet s) (ht : MeasurableSet t)
+    (hsm : ENNReal.ofReal (99/100:ℝ)≤μ s) (htm : ENNReal.ofReal (99/100:ℝ)≤μ t) :
+    ENNReal.ofReal (49/50:ℝ)≤μ (s∩t) := by
+  have he := congrArg ENNReal.toReal (measure_union_add_inter (μ:=μ) s ht)
+  rw [ENNReal.toReal_add (measure_ne_top _ _) (measure_ne_top _ _),
+    ENNReal.toReal_add (measure_ne_top _ _) (measure_ne_top _ _)] at he
+  have hu : (μ (s∪t)).toReal≤1 := by
+    exact_mod_cast ENNReal.toReal_mono ENNReal.one_ne_top (prob_le_one : μ (s∪t)≤1)
+  have hsr := ENNReal.toReal_mono (measure_ne_top _ _) hsm
+  have htr := ENNReal.toReal_mono (measure_ne_top _ _) htm
+  apply (ENNReal.toReal_le_toReal ENNReal.ofReal_ne_top (measure_ne_top _ _)).mp
+  norm_num at hsr htr ⊢
+  linarith
+
+end HardSphere.Comparison
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalVertex
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal Topology
+namespace HardSphere.Bridge
+open Wiener GaussianPacking Comparison
+
+lemma exposedPeriodPair_at {E : Type*} [MeasurableSpace E] {L : Length}
+    (Q : Kernel E Point) [IsFiniteKernel Q] {t C : ℝ} (ht : 0<t) (hC : 0≤C)
+    (y z y' z' : E→Point) (hy : Measurable y) (hz : Measurable z)
+    (hy' : Measurable y') (hz' : Measurable z') (c : Point) (hc : projectPoint L c=0)
+    (S T U : Set (E×C(Time,Point))) (hS : MeasurableSet S)
+    (hT : MeasurableSet T) (hU : MeasurableSet U)
+    (hTU : ∀e f,(e,shiftPath c f)∈U ↔ (e,f)∈T)
+    (A : E→Set Point) (hQ : ∀e,Q e=targetUniform (A e)) (e : E)
+    (hA : MeasurableSet (A e)) (hAf : volume (A e)≠⊤) {a b : ℝ≥0∞}
+    (ha : 0<a) (hb : 0<b) (hvol : a≤volume (A e))
+    (hbound : ∀u∈A e,‖u-(fun j ↦ (y e j+z e j)/2)‖≤C)
+    (hbound' : ∀u∈A e,‖u-(fun j ↦ ((y' e+c) j+(z' e+c) j)/2)‖≤C)
+    (hfirst : ∀ᵐu ∂targetUniform (A e),b≤trialKernel t (y e) (z e) u (Prod.mk e ⁻¹' S))
+    (hsecond : ∀ᵐu ∂targetUniform (A e),b≤trialKernel t (y' e+c) (z' e+c) u (Prod.mk e ⁻¹' U)) :
+    let ρ := exposedPeriodPair Q t y z y' z' hy hz hy' hz' c S U hS hU
+    let P := parameterIndividualReference t y z hy hz S hS
+    let P' := parameterIndividualReference t y' z' hy' hz' T hT
+    let G := b⁻¹*(a⁻¹*(midpointLower t C)⁻¹)
+    IsProbabilityMeasure (ρ e) ∧ IsProbabilityMeasure (P e) ∧ IsProbabilityMeasure (P' e) ∧
+      (ρ e).fst≤G • P e ∧ (ρ e).snd≤G • P' e ∧
+      (∀ᵐp ∂ρ e,projectPoint L (p.1 midpointTime)=projectPoint L (p.2 midpointTime)) := by
+  dsimp only
+  let Q₀ := Kernel.const Unit (Q e)
+  let S₀ : Set (Unit×C(Time,Point)) := Prod.snd ⁻¹' (Prod.mk e ⁻¹' S)
+  let T₀ : Set (Unit×C(Time,Point)) := Prod.snd ⁻¹' (Prod.mk e ⁻¹' T)
+  let U₀ : Set (Unit×C(Time,Point)) := Prod.snd ⁻¹' (Prod.mk e ⁻¹' U)
+  have hs : MeasurableSet S₀ := (hS.preimage measurable_prodMk_left).preimage measurable_snd
+  have ht' : MeasurableSet T₀ := (hT.preimage measurable_prodMk_left).preimage measurable_snd
+  have hu : MeasurableSet U₀ := (hU.preimage measurable_prodMk_left).preimage measurable_snd
+  have htu : ∀q f,(q,shiftPath c f)∈U₀ ↔ (q,f)∈T₀ := fun _ f ↦ hTU e f
+  have hq : ∀q : Unit,Q₀ q=targetUniform (A e) := fun _ ↦ hQ e
+  obtain ⟨hp,hm,hn,hdom,hmid⟩ := exposedPeriodPair_physical Q₀ ht hC
+    (fun _ ↦ y e) (fun _ ↦ z e) (fun _ ↦ y' e) (fun _ ↦ z' e)
+    measurable_const measurable_const measurable_const measurable_const c hc
+    S₀ T₀ U₀ hs ht' hu htu (fun _ ↦ A e) hq (fun _ ↦ hA) (fun _ ↦ hAf)
+    ha hb (fun _ ↦ hvol) (fun _ ↦ hbound) (fun _ ↦ hbound')
+    (fun _ ↦ hfirst) (fun _ ↦ hsecond)
+  let ρ₀ := exposedPeriodPair Q₀ t (fun _ ↦ y e) (fun _ ↦ z e)
+    (fun _ ↦ y' e) (fun _ ↦ z' e) measurable_const measurable_const
+    measurable_const measurable_const c S₀ U₀ hs hu
+  have he : ρ₀ ()=exposedPeriodPair Q t y z y' z' hy hz hy' hz' c S U hS hU e := by
+    rw [exposedPeriodPair_apply Q t y z y' z' hy hz hy' hz' c S U hS hU A hQ e]
+    exact exposedPeriodPair_apply Q₀ t _ _ _ _ _ _ _ _ c S₀ U₀ hs hu (fun _ ↦ A e) hq ()
+  have hme : parameterIndividualReference t (fun _ : Unit ↦ y e) (fun _ ↦ z e)
+      measurable_const measurable_const S₀ hs ()=parameterIndividualReference t y z hy hz S hS e := by
+    rw [parameterIndividualReference_apply,parameterIndividualReference_apply]
+    rfl
+  have hne : parameterIndividualReference t (fun _ : Unit ↦ y' e) (fun _ ↦ z' e)
+      measurable_const measurable_const T₀ ht' ()=parameterIndividualReference t y' z' hy' hz' T hT e := by
+    rw [parameterIndividualReference_apply,parameterIndividualReference_apply]
+    rfl
+  have hf := hdom ()
+  have hi := hmid ()
+  change (ρ₀ ()).fst≤_ ∧ (ρ₀ ()).snd≤_ at hf
+  change ∀ᵐp ∂ρ₀ (),_ at hi
+  rw [he,hme,hne] at hf
+  rw [he] at hi
+  refine ⟨?_,?_,?_,hf.1,hf.2,hi⟩
+  · rw [←he]; exact hp.isProbabilityMeasure ()
+  · rw [←hme]; exact hm.isProbabilityMeasure ()
+  · rw [←hne]; exact hn.isProbabilityMeasure ()
+
+end HardSphere.Bridge
+
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+attribute [local instance] Classical.propDecidable
+
+lemma datumAccessible_endpoints {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (i : Fin N)
+    (d : PhysicalDatum N K M G L) (hi : datumAccessible hL g m t r R C S u i d) :
+    ‖datumStart hL d i-anchorPoint (datumHome hL d i)‖≤10 ∧
+    ‖datumEnd hL d i-anchorPoint (datumHome hL d i)‖≤10 := by
+  have ha : 0<volume (Prod.mk d ⁻¹' datumTarget hL g m t r R C S u i 0) :=
+    lt_of_lt_of_le (by norm_num) (hi 0)
+  obtain ⟨U,hU⟩ := nonempty_of_measure_ne_zero ha.ne'
+  have hs : 0<trialKernel t (datumStart hL d i) (datumEnd hL d i) U
+      (Prod.mk d ⁻¹' datumPermitted hL g m r R C S u i) :=
+    lt_of_lt_of_le (by norm_num : (0:ℝ≥0∞)<ENNReal.ofReal (9/10:ℝ)) hU.2
+  obtain ⟨f,hf⟩ := nonempty_of_measure_ne_zero hs.ne'
+  exact ⟨by rw [←hf.2.2.1.1]; exact (hf.2.1 0).1,
+    by rw [←hf.2.2.1.2]; exact (hf.2.1 1).1⟩
+
+lemma midpoint_bound (v y z U : Point) (hy : ‖y-v‖≤10) (hz : ‖z-v‖≤10)
+    (hU : ‖U-v‖≤3) : ‖U-(fun j ↦ (y j+z j)/2)‖≤13 := by
+  apply (pi_norm_le_iff_of_nonneg (by norm_num : (0:ℝ)≤13)).mpr
+  intro j
+  have hyj := (pi_norm_le_iff_of_nonneg (by norm_num : (0:ℝ)≤10)).mp hy j
+  have hzj := (pi_norm_le_iff_of_nonneg (by norm_num : (0:ℝ)≤10)).mp hz j
+  have huj := (pi_norm_le_iff_of_nonneg (by norm_num : (0:ℝ)≤3)).mp hU j
+  change |y j-v j|≤10 at hyj
+  change |z j-v j|≤10 at hzj
+  change |U j-v j|≤3 at huj
+  change |U j-(y j+z j)/2|≤13
+  rw [abs_le] at hyj hzj huj ⊢
+  constructor <;> linarith
+
+lemma unitTarget_sub (v c U : Point) : U-c∈unitTarget v ↔ U∈unitTarget (v+c) := by
+  simp only [unitTarget,mem_pi,mem_univ,forall_const,mem_Ico,Pi.sub_apply,Pi.add_apply]
+  constructor <;> intro h j <;> specialize h j <;> constructor <;> linarith [h.1,h.2]
+
+lemma routeCellPeriod_chart {K : ℕ} (v w : Fin 3→Fin K) (j : Fin 7) :
+    anchorPoint w+targetStep j+routeCellPeriod v w j=anchorPoint v := by
+  unfold routeCellPeriod
+  abel
+
+lemma vertexTarget_subset {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (i i' : Fin N)
+    (v w : Fin 3→Fin K) (j : Fin 7) (d : PhysicalDatum N K M G L) :
+    Prod.mk d ⁻¹' vertexTarget hL g m t r R C S u i i' v w j ⊆ unitTarget (anchorPoint v) :=
+  fun _ h ↦ h.1.2
+
+lemma vertexTarget_volume {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (i i' : Fin N)
+    (v w : Fin 3→Fin K) (j : Fin 7) (d : PhysicalDatum N K M G L)
+    (hv : datumHome hL d i=v) (hw : datumHome hL d i'=w)
+    (hi : datumAccessible hL g m t r R C S u i d)
+    (hi' : datumAccessible hL g m t r R C S u i' d) :
+    ENNReal.ofReal (49/50:ℝ)≤volume
+      (Prod.mk d ⁻¹' vertexTarget hL g m t r R C S u i i' v w j) := by
+  let B := unitTarget (anchorPoint v)
+  let A := Prod.mk d ⁻¹' datumTarget hL g m t r R C S u i 0
+  let T := (fun U : Point ↦ U-routeCellPeriod v w j) ⁻¹'
+    (Prod.mk d ⁻¹' datumTarget hL g m t r R C S u i' j)
+  have hA : MeasurableSet A := (datumTarget_measurable hL g m t r R C S u i 0).preimage measurable_prodMk_left
+  have hT : MeasurableSet T := ((datumTarget_measurable hL g m t r R C S u i' j).preimage
+    measurable_prodMk_left).preimage (measurable_id.sub measurable_const)
+  have hAB : A⊆B := by
+    intro U hU
+    have h := hU.1
+    simpa [hv,targetStep,B] using h
+  have hTB : T⊆B := by
+    intro U hU
+    have h := hU.1
+    rw [hw,unitTarget_sub,routeCellPeriod_chart] at h
+    exact h
+  have htvol : volume T=volume (Prod.mk d ⁻¹' datumTarget hL g m t r R C S u i' j) := by
+    exact (measurePreserving_add_right volume (-routeCellPeriod v w j)).measure_preimage
+      ((datumTarget_measurable hL g m t r R C S u i' j).preimage measurable_prodMk_left).nullMeasurableSet
+  let : IsProbabilityMeasure (volume.restrict B) := ⟨by
+    rw [Measure.restrict_apply_univ,unitTarget_volume]⟩
+  have ha : ENNReal.ofReal (99/100:ℝ)≤(volume.restrict B) A := by
+    rw [Measure.restrict_apply hA,inter_eq_left.mpr hAB]
+    exact hi 0
+  have ht : ENNReal.ofReal (99/100:ℝ)≤(volume.restrict B) T := by
+    rw [Measure.restrict_apply hT,inter_eq_left.mpr hTB,htvol]
+    exact hi' j
+  have H := probability_inter_98 (volume.restrict B) hA hT ha ht
+  rw [Measure.restrict_apply (hA.inter hT)] at H
+  convert H using 1
+  all_goals try with_reducible_and_instances rfl
+  congr 1
+  ext U
+  simp only [vertexTarget,mem_preimage,mem_inter_iff,mem_prod,mem_univ,true_and,A,T,B]
+  tauto
+
+lemma shiftedDatumPermitted_equiv {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (r R C S : ℝ) (u : Time) (i : Fin N) (c : Point)
+    (d : PhysicalDatum N K M G L) (f : C(Time,Point)) :
+    (d,Bridge.shiftPath c f)∈shiftedDatumPermitted hL g m r R C S u i c ↔
+      (d,f)∈datumPermitted hL g m r R C S u i := by
+  simp only [shiftedDatumPermitted,mem_preimage,Bridge.shiftPath_cancel]
+
+lemma datumSuccess_shift {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (i : Fin N) (c : Point)
+    (d : PhysicalDatum N K M G L) (U : Point) :
+    trialKernel t (datumStart hL d i+c) (datumEnd hL d i+c) U
+      (Prod.mk d ⁻¹' shiftedDatumPermitted hL g m r R C S u i c)=
+    datumSuccess hL g m t r R C S u i (d,U-c) := by
+  have H := trialKernel_shift t (datumStart hL d i) (datumEnd hL d i) (U-c) c
+  rw [sub_add_cancel] at H
+  rw [←H,Measure.map_apply (Bridge.shiftPath_continuous c).measurable
+    ((shiftedDatumPermitted_measurable hL g m r R C S u i c).preimage measurable_prodMk_left)]
+  congr 1
+  ext f
+  exact shiftedDatumPermitted_equiv hL g m r R C S u i c d f
+
+theorem vertexPair_physical {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (u : Time) (i i' : Fin N)
+    (v w : Fin 3→Fin K) (j : Fin 7) (hc : projectPoint L (routeCellPeriod v w j)=0)
+    (d : PhysicalDatum N K M G L) (hv : datumHome hL d i=v) (hw : datumHome hL d i'=w)
+    (hi : datumAccessible hL g m t r R C S u i d)
+    (hi' : datumAccessible hL g m t r R C S u i' d) :
+    let ρ := vertexPair hL g m t r R C S u i i' v w j d
+    let P := datumIndividualReference hL g m r R C S t u i d
+    let P' := datumIndividualReference hL g m r R C S t u i' d
+    IsProbabilityMeasure ρ ∧ IsProbabilityMeasure P ∧ IsProbabilityMeasure P' ∧
+      ρ.fst≤vertexDensityBound t • P ∧ ρ.snd≤vertexDensityBound t • P' ∧
+      (∀ᵐp ∂ρ,projectPoint L (p.1 midpointTime)=projectPoint L (p.2 midpointTime)) := by
+  dsimp only
+  let A := fun d : PhysicalDatum N K M G L ↦
+    Prod.mk d ⁻¹' vertexTarget hL g m t r R C S u i i' v w j
+  have hA : MeasurableSet (A d) :=
+    (vertexTarget_measurable hL g m t r R C S u i i' v w j).preimage measurable_prodMk_left
+  have hAf : volume (A d)≠⊤ := ne_top_of_le_ne_top
+    (by rw [unitTarget_volume]; exact ENNReal.one_ne_top)
+    (measure_mono (vertexTarget_subset hL g m t r R C S u i i' v w j d))
+  have hmem : ∀ᵐU ∂targetUniform (A d),U∈A d :=
+    Measure.ae_smul_measure (ae_restrict_mem hA) _
+  have hei := datumAccessible_endpoints hL g m t r R C S u i d hi
+  have hei' := datumAccessible_endpoints hL g m t r R C S u i' d hi'
+  apply exposedPeriodPair_at _ ht (by norm_num : (0:ℝ)≤13)
+    (fun d ↦ datumStart hL d i) (fun d ↦ datumEnd hL d i)
+    (fun d ↦ datumStart hL d i') (fun d ↦ datumEnd hL d i')
+    (datumStart_measurable hL i) (datumEnd_measurable hL i)
+    (datumStart_measurable hL i') (datumEnd_measurable hL i')
+    (routeCellPeriod v w j) hc (datumPermitted hL g m r R C S u i)
+    (datumPermitted hL g m r R C S u i')
+    (shiftedDatumPermitted hL g m r R C S u i' (routeCellPeriod v w j))
+    (datumPermitted_measurable hL g m r R C S u i)
+    (datumPermitted_measurable hL g m r R C S u i')
+    (shiftedDatumPermitted_measurable hL g m r R C S u i' (routeCellPeriod v w j))
+    (shiftedDatumPermitted_equiv hL g m r R C S u i' (routeCellPeriod v w j))
+    A (parameterTargetKernel_apply _ _ _ (vertexTarget_subset hL g m t r R C S u i i' v w j)) d
+    hA hAf (by norm_num : (0:ℝ≥0∞)<ENNReal.ofReal (49/50:ℝ))
+    (by norm_num : (0:ℝ≥0∞)<ENNReal.ofReal (9/10:ℝ))
+    (vertexTarget_volume hL g m t r R C S u i i' v w j d hv hw hi hi')
+  · intro U hU
+    exact midpoint_bound _ _ _ U hei.1 hei.2
+      (targetCell_radius _ 0 U hU.2.1.1)
+  · intro U hU
+    have H := midpoint_bound _ _ _ (U-routeCellPeriod v w j) hei'.1 hei'.2
+      (targetCell_radius _ j _ hU.2.2.1)
+    convert H using 1
+    all_goals try with_reducible_and_instances rfl
+    congr 1
+    ext k
+    change U k-((datumStart hL d i' k+routeCellPeriod v w j k)+
+      (datumEnd hL d i' k+routeCellPeriod v w j k))/2=
+      (U k-routeCellPeriod v w j k)-(datumStart hL d i' k+datumEnd hL d i' k)/2
+    ring
+  · filter_upwards [hmem] with U hU
+    exact hU.2.1.2
+  · filter_upwards [hmem] with U hU
+    rw [datumSuccess_shift]
+    exact hU.2.2.2
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalRouteGeometry
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Lattice.environmentMeasurableSpace _root_.OAI.HardSphere.Lattice.simplePathCountable _root_.OAI.HardSphere.Lattice.simplePathMeasurableSpace _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital HardSphere.Lattice
+
+lemma self_routeCellPeriod {K : ℕ} {L : Length} (v : Fin 3→Fin K) :
+    projectPoint L (routeCellPeriod v v 0)=0 := by
+  simp only [routeCellPeriod,targetStep,Fin.val_zero,↓reduceIte,add_zero,sub_self]
+  rfl
+
+end HardSphere.Groups
+end
+end
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital HardSphere.Lattice
+
+lemma nearest_project_distance {L : Length} {x y : Vertex} (h : nearestStep x y) :
+    torusDistance L (projectPoint L (fun k ↦ (x k:ℝ)))
+      (projectPoint L (fun k ↦ (y k:ℝ)))≤1 := by
+  obtain ⟨j,hj,hh⟩ := h
+  have hc (i : Fin 3) : dist (((x i:ℝ):AddCircle L.val)) ((y i:ℝ):AddCircle L.val)≤
+      if i=j then (1:ℝ) else 0 := by
+    rw [dist_eq_norm,←AddCircle.coe_sub]
+    refine (QuotientAddGroup.norm_mk_le_norm (m:=(x i:ℝ)-(y i:ℝ))).trans ?_
+    rw [Real.norm_eq_abs]
+    by_cases hi : i=j
+    · subst i
+      simp only
+      exact_mod_cast le_of_eq hj
+    · simp only [ite_eq_right hi,hh i hi,sub_self,abs_zero,le_refl]
+  unfold torusDistance
+  apply (Real.sqrt_le_iff).mpr
+  refine ⟨by norm_num,?_⟩
+  calc
+    _ ≤ ∑ i : Fin 3,(if i=j then (1:ℝ) else 0)^2 := Finset.sum_le_sum fun i _ ↦
+      (sq_le_sq₀ dist_nonneg (by split_ifs <;> norm_num)).mpr (hc i)
+    _ = 1^2 := by simp
+
+lemma adjacent_center_distance {K : ℕ} [NeZero K] {L : Length}
+    (hL : L.val=(K:ℝ)) {x y : DiscreteTorus K} (h : (torusNearestGraph K).Adj x y) :
+    torusDistance L (gridCenter L (siteIndex x)) (gridCenter L (siteIndex y))≤1 := by
+  obtain ⟨_,v,w,hv,hw,hn⟩ := h
+  subst x y
+  change torusDistance L (projectPoint L (anchorPoint (siteIndex (torusProjection K v))))
+    (projectPoint L (anchorPoint (siteIndex (torusProjection K w))))≤1
+  rw [siteIndex_project_lift hL,siteIndex_project_lift hL]
+  exact nearest_project_distance hn
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalLabelLaw
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Lattice.environmentMeasurableSpace _root_.OAI.HardSphere.Lattice.simplePathCountable _root_.OAI.HardSphere.Lattice.simplePathMeasurableSpace _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital HardSphere.Lattice
+attribute [local instance] Classical.propDecidable
+
+variable {J : Type*} [Fintype J] [DecidableEq J] [MeasurableSpace J] [MeasurableSingletonClass J]
+
+omit [MeasurableSpace J] [MeasurableSingletonClass J] in
+lemma uniformLabels_supported (s : Finset J) : ∀ᵐ i ∂uniformLabels s,i∈paddedLabels s := by
+  rw [ae_iff]
+  change uniformLabels s ((↑(paddedLabels s) : Set (Option J))ᶜ)=0
+  unfold uniformLabels
+  rw [PMF.toMeasure_uniformOfFinset_apply _ _ (Set.to_countable _).measurableSet]
+  simp
+
+instance physicalLabels_markov {N K M G : ℕ} [NeZero K] {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J→Fin N) :
+    IsMarkovKernel (physicalLabels (M:=M) hL g m t r R C S u particle) := by
+  constructor
+  intro d
+  rw [physicalLabels,finiteKernelPi_apply]
+  first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+
+omit [MeasurableSpace J] [MeasurableSingletonClass J] in
+lemma physicalLabels_supported {N K M G : ℕ} [NeZero K] {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J→Fin N)
+    (d : PhysicalDatum N K M G L) :
+    ∀ᵐ z ∂physicalLabels hL g m t r R C S u particle d,
+      ∀v,z v∈paddedLabels (branchAccessible hL g m t r R C S u particle v d) := by
+  rw [physicalLabels,finiteKernelPi_apply]
+  apply ae_all_iff.mpr
+  intro v
+  exact (measurePreserving_eval (fun v ↦ physicalLabelAt hL g m t r R C S u particle v d) v).quasiMeasurePreserving.ae
+    (uniformLabels_supported _)
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_PhysicalEndpoint
+attribute [-instance] _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Bridge
+open Wiener Comparison GaussianPacking
+variable {E : Type*} [MeasurableSpace E]
+
+lemma exposedPeriodSingle_apply (Q : Kernel E Point) [IsFiniteKernel Q] (t : ℝ)
+    (y z : E→Point) (hy : Measurable y) (hz : Measurable z) (c : Point)
+    (S : Set (E×C(Time,Point))) (hS : MeasurableSet S) (e : E) :
+    exposedPeriodSingle Q t y z hy hz c S hS e =
+      ((Q e).compProd (successKernel (trialKernel t (y e+c) (z e+c))
+        (Prod.mk e ⁻¹' S) (hS.preimage measurable_prodMk_left))).map
+        (fun p ↦ (shiftPath (-c) p.2,p.1)) := by
+  rw [exposedPeriodSingle,Kernel.map_apply _ (by fun_prop)]
+  congr 1
+  ext B hB
+  rw [Kernel.compProd_apply hB,Measure.compProd_apply hB]
+  apply lintegral_congr
+  intro U
+  rw [parameterTrialSuccess_apply]
+  exact hS
+
+lemma successJoint_fst (μ : Measure Point) [SFinite μ] (t : ℝ) (y z : Point)
+    (S : Set C(Time,Point)) (hS : MeasurableSet S)
+    (hp : ∀ᵐU ∂μ,0<trialKernel t y z U S) :
+    (μ.compProd (successKernel (trialKernel t y z) S hS)).fst=μ := by
+  ext B hB
+  rw [Measure.fst_apply hB,Measure.compProd_apply (hB.preimage measurable_fst)]
+  calc
+    _ = ∫⁻U,B.indicator (fun _ ↦ (1:ℝ≥0∞)) U ∂μ := by
+      apply lintegral_congr_ae
+      filter_upwards [hp] with U hU
+      by_cases h : U∈B
+      · simp only [Set.indicator_of_mem h]
+        rw [show (fun x : C(Time,Point) ↦ (U,x)) ⁻¹' (Prod.fst ⁻¹' B)=univ by
+          ext x; simp [h]]
+        exact successKernel_mass _ S hS hU
+      · rw [show (fun x : C(Time,Point) ↦ (U,x)) ⁻¹' (Prod.fst ⁻¹' B)=∅ by
+          ext x; simp [h]]
+        simp [h]
+    _ = μ B := by rw [lintegral_indicator hB]; simp
+
+lemma exposedPeriodSingle_physical {L : Length} (Q : Kernel E Point) [IsFiniteKernel Q]
+    {t C : ℝ} (ht : 0<t) (hC : 0≤C)
+    (y z : E→Point) (hy : Measurable y) (hz : Measurable z) (c : Point)
+    (hc : projectPoint L c=0) (S T : Set (E×C(Time,Point)))
+    (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hst : ∀e f,(e,shiftPath c f)∈T ↔ (e,f)∈S)
+    (e : E) (A B : Set Point) (hQ : Q e=targetUniform A)
+    (hA : MeasurableSet A) (hAf : volume A≠⊤) (hAB : A⊆B) (hBvol : volume B=1)
+    {a b : ℝ≥0∞} (ha : 0<a) (hb : 0<b) (hvol : a≤volume A)
+    (hbound : ∀U∈A,‖U-(fun k ↦ ((y e+c) k+(z e+c) k)/2)‖≤C)
+    (hs : ∀ᵐU ∂targetUniform A,b≤trialKernel t (y e+c) (z e+c) U (Prod.mk e ⁻¹' T)) :
+    let ρ := exposedPeriodSingle Q t y z hy hz c T hT e
+    let P := parameterIndividualReference t y z hy hz S hS e
+    IsProbabilityMeasure ρ ∧ IsProbabilityMeasure P ∧
+      ρ.fst≤(b⁻¹*(a⁻¹*(midpointLower t C)⁻¹)) • P ∧
+      ρ.snd≤a⁻¹ • targetUniform B ∧
+      (∀ᵐp ∂ρ,projectPoint L (p.1 midpointTime)=projectPoint L p.2) := by
+  dsimp only
+  have hA0 : volume A≠0 := (ha.trans_le hvol).ne'
+  let := targetUniform_probability hA0 hAf
+  let μ := (targetUniform A).compProd (successKernel (trialKernel t (y e+c) (z e+c))
+    (Prod.mk e ⁻¹' T) (hT.preimage measurable_prodMk_left))
+  have hp : ∀ᵐU ∂targetUniform A,0<trialKernel t (y e+c) (z e+c) U (Prod.mk e ⁻¹' T) :=
+    hs.mono fun _ h ↦ hb.trans_le h
+  have hf : μ.fst=targetUniform A := successJoint_fst _ _ _ _ _ _ hp
+  have hm : IsProbabilityMeasure μ := ⟨by
+    have H := congrArg (fun ν : Measure Point ↦ ν univ) hf
+    simpa only [Measure.fst_apply MeasurableSet.univ,preimage_univ,measure_univ] using H⟩
+  let := hm
+  have hmap : Measurable (fun p : Point×C(Time,Point) ↦ (shiftPath (-c) p.2,p.1)) := by fun_prop
+  have hr : exposedPeriodSingle Q t y z hy hz c T hT e=
+      μ.map (fun p ↦ (shiftPath (-c) p.2,p.1)) := by
+    rw [exposedPeriodSingle_apply,hQ]
+  have href := individualReference_unshift t (y e) (z e) c (Prod.mk e ⁻¹' S)
+    (Prod.mk e ⁻¹' T) (hT.preimage measurable_prodMk_left) (hst e)
+  have hP : IsProbabilityMeasure (parameterIndividualReference t y z hy hz S hS e) := by
+    rw [parameterIndividualReference_apply,←href]
+    let := individualReference_probability ht hC (y e+c) (z e+c) hA hA0 hAf hbound
+      (Prod.mk e ⁻¹' T) (hT.preimage measurable_prodMk_left) hb hs
+    first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+  refine ⟨?_,hP,?_,?_,?_⟩
+  · rw [hr]
+    first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+  · have HD := physical_trial_le_reference ht hC (y e+c) (z e+c) hA hAf hbound
+      (Prod.mk e ⁻¹' T) (hT.preimage measurable_prodMk_left) hs
+    have HD' := Measure.map_mono HD (shiftPath_continuous (-c)).measurable
+    rw [Measure.map_smul,href] at HD'
+    rw [hr,Measure.fst,Measure.map_map measurable_fst hmap,parameterIndividualReference_apply]
+    apply (show μ.map (fun p ↦ shiftPath (-c) p.2)≤
+      (b⁻¹*((volume A)⁻¹*(midpointLower t C)⁻¹)) • individualReference t (y e) (z e)
+        (Prod.mk e ⁻¹' S) by
+      convert HD' using 1
+      all_goals try with_reducible_and_instances rfl
+      rw [Measure.map_map (shiftPath_continuous (-c)).measurable measurable_snd]
+      rfl).trans
+    intro D
+    simp only [Measure.smul_apply,smul_eq_mul]
+    exact mul_le_mul' (mul_le_mul' le_rfl
+      (mul_le_mul' (ENNReal.inv_le_inv.mpr hvol) le_rfl)) le_rfl
+  · rw [hr,Measure.snd,Measure.map_map measurable_snd hmap]
+    change μ.fst≤_
+    rw [hf]
+    simp only [targetUniform,hBvol,inv_one,one_smul]
+    intro D
+    simp only [Measure.smul_apply,smul_eq_mul]
+    exact mul_le_mul' (ENNReal.inv_le_inv.mpr hvol) (Measure.restrict_mono_set _ hAB D)
+  · rw [hr]
+    apply (ae_map_iff hmap.aemeasurable (by measurability)).mpr
+    have HH : ∀ᵐp ∂μ,p.2 midpointTime=p.1 := by
+      apply Measure.ae_compProd_of_ae_ae (measurableSet_eq_fun
+        ((continuous_eval_const midpointTime).measurable.comp measurable_snd) measurable_fst)
+      apply ae_of_all
+      intro U
+      exact (successKernel_absolutelyContinuous _ _ _ U).ae_le (trialKernel_midpoint t (y e+c) (z e+c) U)
+    filter_upwards [HH] with p hp
+    have hc' : projectPoint L (-c)=0 := by
+      ext j
+      change (((-c j):ℝ):AddCircle L.val)=0
+      rw [AddCircle.coe_neg]
+      have h := congrFun hc j
+      change ((c j:ℝ):AddCircle L.val)=0 at h
+      rw [h,neg_zero]
+    change projectPoint L (p.2 midpointTime+(-c))=projectPoint L p.1
+    rw [projectPoint_shift (-c) hc',hp]
+
+end HardSphere.Bridge
+
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+attribute [local instance] Classical.propDecidable
+
+lemma endpointTarget_subset {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (i : Fin N)
+    (v w : Fin 3→Fin K) (j : Fin 7) (d : PhysicalDatum N K M G L) :
+    Prod.mk d ⁻¹' endpointTarget hL g m t r R C S u i v w j ⊆ unitTarget (anchorPoint v) :=
+  fun _ h ↦ h.1.2
+
+lemma endpointTarget_volume {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (i : Fin N)
+    (v w : Fin 3→Fin K) (j : Fin 7) (d : PhysicalDatum N K M G L)
+    (hw : datumHome hL d i=w) (hi : datumAccessible hL g m t r R C S u i d) :
+    ENNReal.ofReal (49/50:ℝ)≤volume (Prod.mk d ⁻¹' endpointTarget hL g m t r R C S u i v w j) := by
+  have he : Prod.mk d ⁻¹' endpointTarget hL g m t r R C S u i v w j=
+      (fun U ↦ U-routeCellPeriod v w j) ⁻¹' (Prod.mk d ⁻¹' datumTarget hL g m t r R C S u i j) := by
+    ext U
+    constructor
+    · exact fun h ↦ h.2
+    · intro h
+      refine ⟨⟨mem_univ _,?_⟩,h⟩
+      have H := h.1
+      rw [hw,unitTarget_sub,routeCellPeriod_chart] at H
+      exact H
+  rw [he]
+  have hvol : volume ((fun U ↦ U-routeCellPeriod v w j) ⁻¹'
+      (Prod.mk d ⁻¹' datumTarget hL g m t r R C S u i j))=
+      volume (Prod.mk d ⁻¹' datumTarget hL g m t r R C S u i j) :=
+    (measurePreserving_add_right volume (-routeCellPeriod v w j)).measure_preimage
+      ((datumTarget_measurable hL g m t r R C S u i j).preimage measurable_prodMk_left).nullMeasurableSet
+  rw [hvol]
+  exact (by norm_num : ENNReal.ofReal (49/50:ℝ)≤ENNReal.ofReal (99/100:ℝ)).trans (hi j)
+
+theorem endpointPair_physical {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (u : Time) (i : Fin N)
+    (v w : Fin 3→Fin K) (j : Fin 7) (hc : projectPoint L (routeCellPeriod v w j)=0)
+    (d : PhysicalDatum N K M G L) (hw : datumHome hL d i=w)
+    (hi : datumAccessible hL g m t r R C S u i d) :
+    let ρ := endpointPair hL g m t r R C S u i v w j d
+    let P := datumIndividualReference hL g m r R C S t u i d
+    IsProbabilityMeasure ρ ∧ IsProbabilityMeasure P ∧
+      ρ.fst≤vertexDensityBound t • P ∧
+      ρ.snd≤(ENNReal.ofReal (49/50:ℝ))⁻¹ • targetUniform (unitTarget (anchorPoint v)) ∧
+      (∀ᵐp ∂ρ,projectPoint L (p.1 midpointTime)=projectPoint L p.2) := by
+  dsimp only
+  let A := Prod.mk d ⁻¹' endpointTarget hL g m t r R C S u i v w j
+  have hA : MeasurableSet A :=
+    (endpointTarget_measurable hL g m t r R C S u i v w j).preimage measurable_prodMk_left
+  have hAB := endpointTarget_subset hL g m t r R C S u i v w j d
+  have hAf : volume A≠⊤ := ne_top_of_le_ne_top
+    (by rw [unitTarget_volume]; exact ENNReal.one_ne_top) (measure_mono hAB)
+  have hmem : ∀ᵐU ∂targetUniform A,U∈A := Measure.ae_smul_measure (ae_restrict_mem hA) _
+  have hei := datumAccessible_endpoints hL g m t r R C S u i d hi
+  apply exposedPeriodSingle_physical _ ht (by norm_num : (0:ℝ)≤13)
+    (fun d ↦ datumStart hL d i) (fun d ↦ datumEnd hL d i)
+    (datumStart_measurable hL i) (datumEnd_measurable hL i) (routeCellPeriod v w j) hc
+    (datumPermitted hL g m r R C S u i)
+    (shiftedDatumPermitted hL g m r R C S u i (routeCellPeriod v w j))
+    (datumPermitted_measurable hL g m r R C S u i)
+    (shiftedDatumPermitted_measurable hL g m r R C S u i (routeCellPeriod v w j))
+    (shiftedDatumPermitted_equiv hL g m r R C S u i (routeCellPeriod v w j)) d
+    A (unitTarget (anchorPoint v))
+    (parameterTargetKernel_apply _ _ _ (endpointTarget_subset hL g m t r R C S u i v w j) d)
+    hA hAf hAB (unitTarget_volume _) (by norm_num : (0:ℝ≥0∞)<ENNReal.ofReal (49/50:ℝ))
+    (by norm_num : (0:ℝ≥0∞)<ENNReal.ofReal (9/10:ℝ))
+    (endpointTarget_volume hL g m t r R C S u i v w j d hw hi)
+  · intro U hU
+    have H := midpoint_bound _ _ _ (U-routeCellPeriod v w j) hei.1 hei.2
+      (targetCell_radius _ j _ hU.2.1)
+    convert H using 1
+    all_goals try with_reducible_and_instances rfl
+    congr 1
+    ext k
+    change U k-((datumStart hL d i k+routeCellPeriod v w j k)+
+      (datumEnd hL d i k+routeCellPeriod v w j k))/2=
+      (U k-routeCellPeriod v w j k)-(datumStart hL d i k+datumEnd hL d i k)/2
+    ring
+  · filter_upwards [hmem] with U hU
+    rw [datumSuccess_shift]
+    exact hU.2.2
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalRouteFactors
+attribute [-instance] _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+
+lemma vertex_le_routeDensity (t : ℝ) : vertexDensityBound t ≤ routeDensityBound t := le_max_right _ _
+lemma endpoint_le_routeDensity (t : ℝ) :
+    (ENNReal.ofReal (49/50:ℝ))⁻¹ ≤ routeDensityBound t := by
+  apply le_trans _ (le_max_left _ _)
+  rw [←ENNReal.ofReal_inv_of_pos (by norm_num : (0:ℝ)<49/50)]
+  norm_num
+
+lemma encodeFirstEndpoint_measurable : Measurable encodeFirstEndpoint :=
+  measurable_fst.prodMk (pointAsPath_measurable.comp measurable_snd)
+lemma encodeLastEndpoint_measurable : Measurable encodeLastEndpoint :=
+  (pointAsPath_measurable.comp measurable_snd).prodMk measurable_fst
+
+lemma encoded_endpoint_physical {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (u : Time) (i : Fin N)
+    (v w : Fin 3→Fin K) (j : Fin 7) (hc : projectPoint L (routeCellPeriod v w j)=0)
+    (d : PhysicalDatum N K M G L) (hw : datumHome hL d i=w)
+    (hi : datumAccessible hL g m t r R C S u i d) :
+    let ρ := endpointPair hL g m t r R C S u i v w j d
+    let P := datumIndividualReference hL g m r R C S t u i d
+    let ρ₀ := ρ.map encodeFirstEndpoint
+    let ρ₁ := ρ.map encodeLastEndpoint
+    IsProbabilityMeasure ρ₀ ∧ IsProbabilityMeasure ρ₁ ∧ IsProbabilityMeasure P ∧
+      ρ₀.fst ≤ routeDensityBound t • P ∧ ρ₀.snd ≤ routeDensityBound t • cellPathReference v ∧
+      ρ₁.fst ≤ routeDensityBound t • cellPathReference v ∧ ρ₁.snd ≤ routeDensityBound t • P ∧
+      (∀ᵐp ∂ρ₀,projectPoint L (p.1 midpointTime)=projectPoint L (p.2 midpointTime)) ∧
+      (∀ᵐp ∂ρ₁,projectPoint L (p.1 midpointTime)=projectPoint L (p.2 midpointTime)) := by
+  dsimp only
+  obtain ⟨hρ,hP,hfst,hsnd,hmid⟩ := endpointPair_physical hL g m t r R C S ht u i v w j hc d hw hi
+  let ρ := endpointPair hL g m t r R C S u i v w j d
+  have : IsProbabilityMeasure ρ := hρ
+  have F : (ρ.map encodeFirstEndpoint).fst=ρ.fst := by
+    rw [Measure.fst,Measure.map_map measurable_fst encodeFirstEndpoint_measurable]
+    rfl
+  have HS : (ρ.map encodeFirstEndpoint).snd=ρ.snd.map pointAsPath := by
+    rw [Measure.snd,Measure.map_map measurable_snd encodeFirstEndpoint_measurable,
+      Measure.snd,Measure.map_map pointAsPath_measurable measurable_snd]
+    rfl
+  have F' : (ρ.map encodeLastEndpoint).fst=ρ.snd.map pointAsPath := by
+    rw [Measure.fst,Measure.map_map measurable_fst encodeLastEndpoint_measurable,
+      Measure.snd,Measure.map_map pointAsPath_measurable measurable_snd]
+    rfl
+  have HS' : (ρ.map encodeLastEndpoint).snd=ρ.fst := by
+    rw [Measure.snd,Measure.map_map measurable_snd encodeLastEndpoint_measurable]
+    rfl
+  have HB : ρ.snd.map pointAsPath ≤ routeDensityBound t • cellPathReference v := by
+    have H := Measure.map_mono hsnd pointAsPath_measurable
+    rw [Measure.map_smul] at H
+    exact H.trans (by dsimp only [cellPathReference]; gcongr; exact endpoint_le_routeDensity t)
+  have HP : ρ.fst ≤ routeDensityBound t • datumIndividualReference hL g m r R C S t u i d :=
+    hfst.trans (by gcongr; exact vertex_le_routeDensity t)
+  refine ⟨(Measure.isProbabilityMeasure_map encodeFirstEndpoint_measurable.aemeasurable),(Measure.isProbabilityMeasure_map encodeLastEndpoint_measurable.aemeasurable),hP,?_,?_,?_,?_,?_,?_⟩
+  · rw [F];exact HP
+  · rw [HS];exact HB
+  · rw [F'];exact HB
+  · rw [HS'];exact HP
+  · rw [ae_map_iff encodeFirstEndpoint_measurable.aemeasurable (by measurability)]
+    exact hmid
+  · rw [ae_map_iff encodeLastEndpoint_measurable.aemeasurable (by measurability)]
+    filter_upwards [hmid] with p hp
+    exact hp.symm
+
+theorem physicalRouteFactor_physical {N K M G n : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (u : Time)
+    (labels : Fin (n+1)↪Fin N) (v : Fin (n+2)→(Fin 3→Fin K))
+    (steps : Fin (n+1)→Fin 7)
+    (hc : ∀k,projectPoint L (routeCellPeriod (v k.succ) (v k.castSucc) (steps k))=0)
+    (d : PhysicalDatum N K M G L)
+    (hhome : ∀k,datumHome hL d (labels k)=v k.castSucc)
+    (haccess : ∀k,datumAccessible hL g m t r R C S u (labels k) d)
+    (k : Fin (n+2)) :
+    let ρ := physicalRouteFactor hL g m t r R C S u labels v steps k d
+    let P := routeFirstReference hL g m t r R C S u labels v k d
+    let Q := routeSecondReference hL g m t r R C S u labels v k d
+    IsProbabilityMeasure ρ ∧ IsProbabilityMeasure P ∧ IsProbabilityMeasure Q ∧
+      ρ.fst ≤ routeDensityBound t • P ∧ ρ.snd ≤ routeDensityBound t • Q ∧
+      (∀ᵐp ∂ρ,projectPoint L (p.1 midpointTime)=projectPoint L (p.2 midpointTime)) := by
+  dsimp only
+  by_cases h0 : k.val=0
+  · have hk : k=0 := Fin.ext h0
+    subst k
+    have H := encoded_endpoint_physical hL g m t r R C S ht u (labels 0) (v 0) (v 0) 0
+      (self_routeCellPeriod (v 0)) d (hhome 0) (haccess 0)
+    simp only [physicalRouteFactor,routeFirstReference,routeSecondReference,Fin.val_zero,
+      Nat.zero_lt_succ,↓reduceDIte,Kernel.map_apply _ encodeFirstEndpoint_measurable]
+    exact ⟨H.1,H.2.2.1,(by first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)),H.2.2.2.1,H.2.2.2.2.1,H.2.2.2.2.2.2.2.1⟩
+  · by_cases hk : k.val<n+1
+    · let i : Fin (n+1) := ⟨k.val,hk⟩
+      let j : Fin (n+1) := ⟨k.val-1,by omega⟩
+      have hi : i.castSucc=k := Fin.ext rfl
+      have hj : j.succ=k := Fin.ext (by dsimp [j];omega)
+      have he : projectPoint L (routeCellPeriod (v k) (v j.castSucc) (steps j))=0 := by
+        simpa only [hj] using hc j
+      obtain ⟨hρ,hP,hQ,hF,hS,hmid⟩ := vertexPair_physical hL g m t r R C S ht u
+        (labels i) (labels j) (v k) (v j.castSucc) (steps j) he d
+        (by simpa only [hi] using hhome i) (hhome j) (haccess i) (haccess j)
+      simp only [physicalRouteFactor,routeFirstReference,routeSecondReference,dite_eq_right h0,dite_eq_left hk]
+      exact ⟨hρ,hP,hQ,hF.trans (by gcongr;exact vertex_le_routeDensity t),
+        hS.trans (by gcongr;exact vertex_le_routeDensity t),hmid⟩
+    · have he : k=Fin.last (n+1) := Fin.ext (by simp only [Fin.val_last];omega)
+      subst k
+      have H := encoded_endpoint_physical hL g m t r R C S ht u (labels (Fin.last n))
+        (v (Fin.last (n+1))) (v (Fin.last n).castSucc) (steps (Fin.last n))
+        (hc (Fin.last n)) d (hhome (Fin.last n)) (haccess (Fin.last n))
+      have hl : (⟨(n+1)-1,by omega⟩ : Fin (n+1))=Fin.last n := Fin.ext (by simp)
+      simp only [physicalRouteFactor,routeFirstReference,routeSecondReference,
+        Fin.val_last,Nat.add_one_ne_zero,Nat.lt_irrefl,↓reduceDIte,hl,Kernel.map_apply _ encodeLastEndpoint_measurable]
+      exact ⟨H.2.1,(by first | infer_instance | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)),H.2.2.1,H.2.2.2.2.2.1,H.2.2.2.2.2.2.1,H.2.2.2.2.2.2.2.2⟩
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Conditioning_RoutePartition
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+namespace HardSphere.Comparison
+variable {J : Type*}
+
+lemma routePermutation_label {d : ℕ} (labels : Fin d↪J) (i : Fin d) :
+    routePermutation labels (some (labels i))=routeEmbedding labels i.succ := by
+  rw [←routeEmbedding_castSucc labels i]
+  change (finRotate (d+1)).viaEmbedding (routeEmbedding labels) _=_
+  rw [Equiv.Perm.viaEmbedding_apply]
+  congr 1
+  exact finRotate_of_lt i.isLt
+
+lemma routePermutation_star (d : ℕ) (labels : Fin (d+1)↪J) :
+    routePermutation labels none=some (labels 0) := by
+  rw [←routeEmbedding_last labels]
+  change (finRotate (d+1+1)).viaEmbedding (routeEmbedding labels) _=_
+  rw [Equiv.Perm.viaEmbedding_apply,finRotate_last]
+  exact routeEmbedding_castSucc labels 0
+
+end HardSphere.Comparison
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Conditioning_PhysicalRoute
+attribute [-instance] _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Comparison
+variable {J : Type*}
+
+lemma routeEmbedding_position {d : ℕ} (labels : Fin d↪J) (i : routeSlots labels) :
+    routeEmbedding labels (routePosition labels i)=i.val :=
+  (Finset.mem_map.mp i.property).choose_spec.2
+
+lemma routePermutation_symm_first {n : ℕ} (labels : Fin (n+1)↪J) :
+    (routePermutation labels).symm (routeEmbedding labels 0)=none := by
+  apply (routePermutation labels).injective
+  rw [Equiv.apply_symm_apply,routePermutation_star]
+  exact routeEmbedding_castSucc labels 0
+
+lemma routePermutation_symm_later {n : ℕ} (labels : Fin (n+1)↪J)
+    (k : Fin (n+2)) (hk : k.val≠0) :
+    (routePermutation labels).symm (routeEmbedding labels k)=
+      some (labels ⟨k.val-1,by omega⟩) := by
+  apply (routePermutation labels).injective
+  rw [Equiv.apply_symm_apply,routePermutation_label]
+  congr 1
+  exact Fin.ext (by simp only [Fin.val_succ];omega)
+
+end HardSphere.Comparison
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+variable {J : Type*}
+
+lemma physicalSlot_first {N K M G n : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time)
+    (particle : J↪Fin N) (labels : Fin (n+1)↪J) (v : Fin (n+2)→(Fin 3→Fin K))
+    (k : Fin (n+2)) (d : PhysicalDatum N K M G L) :
+    physicalSlotReference hL g m t r R C S u particle (v (Fin.last (n+1)))
+      (routeEmbedding labels k) d=routeFirstReference hL g m t r R C S u (labels.trans particle) v k d := by
+  by_cases hk : k.val<n+1
+  · have he : routeEmbedding labels k=some (labels ⟨k.val,hk⟩) := routeEmbedding_castSucc labels ⟨k.val,hk⟩
+    rw [he]
+    simp only [routeFirstReference,dite_eq_left hk,physicalSlotReference,Function.Embedding.trans_apply]
+  · have he : k=Fin.last (n+1) := Fin.ext (by simp only [Fin.val_last];omega)
+    subst k
+    rw [routeEmbedding_last]
+    simp only [routeFirstReference,Fin.val_last,lt_self_iff_false,↓reduceDIte,physicalSlotReference,Kernel.const_apply]
+
+lemma physicalSlot_second {N K M G n : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time)
+    (particle : J↪Fin N) (labels : Fin (n+1)↪J) (v : Fin (n+2)→(Fin 3→Fin K))
+    (k : Fin (n+2)) (d : PhysicalDatum N K M G L) :
+    physicalSlotReference hL g m t r R C S u particle (v 0)
+      ((routePermutation labels).symm (routeEmbedding labels k)) d=
+      routeSecondReference hL g m t r R C S u (labels.trans particle) v k d := by
+  by_cases hk : k.val=0
+  · have he : k=0 := Fin.ext hk
+    subst k
+    rw [routePermutation_symm_first]
+    simp only [routeSecondReference,Fin.val_zero,↓reduceDIte,physicalSlotReference,Kernel.const_apply]
+  · rw [routePermutation_symm_later labels k hk]
+    simp only [routeSecondReference,dite_eq_right hk,physicalSlotReference,Function.Embedding.trans_apply]
+
+theorem physicalSelectedFactor_physical {N K M G n : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (u : Time)
+    (particle : J↪Fin N) (labels : Fin (n+1)↪J) (v : Fin (n+2)→(Fin 3→Fin K))
+    (steps : Fin (n+1)→Fin 7)
+    (hc : ∀k,projectPoint L (routeCellPeriod (v k.succ) (v k.castSucc) (steps k))=0)
+    (d : PhysicalDatum N K M G L)
+    (hhome : ∀k,datumHome hL d (particle (labels k))=v k.castSucc)
+    (haccess : ∀k,datumAccessible hL g m t r R C S u (particle (labels k)) d)
+    (i : routeSlots labels) :
+    let ρ := physicalSelectedFactor hL g m t r R C S u particle labels v steps i d
+    let P := physicalSlotReference hL g m t r R C S u particle (v (Fin.last (n+1))) i d
+    let Q := physicalSlotReference hL g m t r R C S u particle (v 0) ((routePermutation labels).symm i) d
+    IsProbabilityMeasure ρ ∧ IsProbabilityMeasure P ∧ IsProbabilityMeasure Q ∧
+      ρ.fst ≤ routeDensityBound t • P ∧ ρ.snd ≤ routeDensityBound t • Q ∧
+      (∀ᵐp ∂ρ,projectPoint L (p.1 midpointTime)=projectPoint L (p.2 midpointTime)) := by
+  dsimp only [physicalSelectedFactor]
+  rw [←routeEmbedding_position labels i,physicalSlot_first,physicalSlot_second]
+  exact physicalRouteFactor_physical hL g m t r R C S ht u (labels.trans particle) v steps hc d hhome haccess _
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Geometry_SparseChecks
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instBorelSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasureNoiseLaw _root_.OAI.HardSphere.Bridge.instMeasurableSpaceContinuousMapElemRealTimePoint _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Bridge.trialKernel_markov _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.Rescaling.config_haar _root_.OAI.HardSphere.bridgeEndpointBase_finite _root_.OAI.HardSphere.coordinateBridge_probability _root_.OAI.HardSphere.endpointWeightedBase_sfinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal BigOperators
+namespace HardSphere.Groups
+open Wiener
+attribute [local irreducible] torusDistance
+
+lemma confined_far_avoid {L : Length} (v w : Torus L) (f g : ConfigurationPath 1 L)
+    (hf : Confined v f) (hg : Confined w g) (hfar : 21<torusDistance L v w)
+    {r : ℝ} (hr : r≤1) : ∀s : Time,r<torusDistance L (f s 0) (g s 0) := by
+  intro s
+  have h₁ := torusDistance_triangle' L v (f s 0) w
+  have h₂ := torusDistance_triangle' L (f s 0) (g s 0) w
+  rw [torusDistance_comm L v (f s 0)] at h₁
+  have hh := hf s
+  have hh' := hg s
+  linarith
+
+end HardSphere.Groups
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_PhysicalSparse
+attribute [-instance] _root_.OAI.HardSphere.Bridge.exposedBridgeKernel_markov _root_.OAI.HardSphere.Bridge.exposedPeriodSingle_finite _root_.OAI.HardSphere.Bridge.exposedTrialKernel_markov _root_.OAI.HardSphere.Bridge.instIsProbabilityMeasurePointMidpointNoise _root_.OAI.HardSphere.Bridge.midpointLaw_probability _root_.OAI.HardSphere.Bridge.parameterBridgeKernel_markov _root_.OAI.HardSphere.Bridge.parameterIndividualReference_finite _root_.OAI.HardSphere.Bridge.parameterTrialKernel_markov _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Comparison.instFintypeFrozenCheckIndex _root_.OAI.HardSphere.Comparison.parameterTargetKernel_finite _root_.OAI.HardSphere.Comparison.proposalKernel_finite _root_.OAI.HardSphere.Groups.cellPathReference_probability _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.datumGroupReference_finite _root_.OAI.HardSphere.Groups.datumIndividualReference_finite _root_.OAI.HardSphere.Groups.datumPhysicalReference_finite _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalAllocationKernel_markov _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Groups.vertexPair_finite _root_.OAI.HardSphere.Rescaling.config_haar _root_.OAI.HardSphere.bridgeEndpointBase_finite _root_.OAI.HardSphere.endpointWeightedBase_sfinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal BigOperators
+namespace HardSphere.Bridge
+open Wiener GaussianPacking Comparison Groups CellOrbital
+attribute [local instance] Classical.propDecidable
+variable {I J : Type*} [Fintype I] [DecidableEq I] [Fintype J] [DecidableEq J]
+  {L : Length} {V : I → Type*} [∀i,MeasurableSpace (V i)]
+
+omit [Fintype J] [DecidableEq J] in
+lemma physicalSparseChecks_complete (r : ℝ) (hr : r≤1)
+    (anchor : J → Torus L) (allowed : J → Set C(Time,Point))
+    (hconf : ∀j,∀f : allowed j,Confined (anchor j) (projectCurve L f.val))
+    (owner : Bool → J → I) (path : ∀b j,V (owner b j) → allowed j)
+    (hpath : ∀b j,Measurable (path b j)) (x : ∀i,V i)
+    (hx : x∈retainedEvent (physicalSparseChecks r anchor allowed owner path hpath) Finset.univ) :
+    ∀b j k,j≠k → ¬TrialCollision r (projectCurve L (path b k (x (owner b k))).val)
+      (path b j (x (owner b j))).val := by
+  intro b j k hjk
+  by_cases hn : torusDistance L (anchor j) (anchor k)≤21
+  · exact hx (b,⟨(j,k),hjk,hn⟩) (Finset.subset_univ _)
+  · rintro ⟨s,hs⟩
+    exact (not_le_of_gt (confined_far_avoid (anchor j) (anchor k)
+      (projectCurve L (path b j (x (owner b j))).val)
+      (projectCurve L (path b k (x (owner b k))).val)
+      (hconf _ _) (hconf _ _) (lt_of_not_ge hn) hr s)) hs
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Bridges_SelectedReverse
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Bridge
+open Comparison Wiener GaussianPacking
+variable {I : Type*} [Fintype I] [DecidableEq I] {X : I→Type*}
+  [∀i,MeasurableSpace (X i)]
+
+omit [Fintype I] in
+lemma reverseSelected_apply (σ : Equiv.Perm I) (s : Finset I) (hf : ∀i,i∉s→σ i=i)
+    (p : ∀i:s,X i×X (σ.symm i)) (j : s) :
+    reverseSelected σ s hf p j=
+      (fiberEquiv (σ.symm_apply_apply j) (p (selectedPerm σ s hf j)).2,
+        (p (selectedPerm σ s hf j)).1) := rfl
+
+end HardSphere.Bridge
+
+end
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Conditioning_SharedRoute
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+open HardSphere.Bridge
+attribute [local instance] Classical.propDecidable
+
+lemma fiberNormalize_apply_measure {E X : Type*} [MeasurableSpace E] [MeasurableSpace X]
+    (κ : Kernel E X) [IsSFiniteKernel κ] (A : Set (E×X)) (hA : MeasurableSet A) (e : E) :
+    fiberNormalize κ A e=conditionedMeasure (κ e) (Prod.mk e ⁻¹' A) := by
+  change (fiberRestrict _ _ e univ)⁻¹ • fiberRestrict _ _ e=_
+  rw [fiberRestrict_apply _ hA]
+  simp only [Measure.restrict_apply_univ,conditionedMeasure]
+  rfl
+
+variable {E I : Type*} [MeasurableSpace E] [Fintype I] [DecidableEq I]
+  {X : I→Type*} [∀i,MeasurableSpace (X i)]
+
+omit [Fintype I] in
+lemma ambientFirst_measurable (s : Finset I) (σ : Equiv.Perm I) :
+    Measurable (ambientFirst (X:=X) s σ) :=
+  measurable_updateFinset'.comp (measurable_fst.prodMk
+    (Measurable.of_eval (fun i ↦ measurable_fst.comp ((measurable_pi_apply i).comp measurable_snd))))
+
+omit [Fintype I] in
+lemma ambientSecond_measurable (s : Finset I) (σ : Equiv.Perm I) (hf : ∀i,i∉s→σ i=i) :
+    Measurable (ambientSecond (X:=X) s σ hf) :=
+  measurable_updateFinset'.comp (measurable_fst.prodMk
+    (Measurable.of_eval (fun i ↦ measurable_fst.comp ((measurable_pi_apply i).comp
+      ((reverseSelected σ s hf).measurable.comp measurable_snd)))))
+
+omit [Fintype I] in
+lemma ambientRefreshEvent_measurable (s : Finset I) (σ : Equiv.Perm I)
+    (hf : ∀i,i∉s→σ i=i) (A : Set (E×(∀i,X i))) (hA : MeasurableSet A) :
+    MeasurableSet (ambientRefreshEvent s σ hf A) := by
+  exact (hA.preimage (measurable_fst.fst.prodMk ((ambientFirst_measurable s σ).comp
+    (measurable_fst.snd.prodMk measurable_snd)))).inter
+    (hA.preimage (measurable_fst.fst.prodMk ((ambientSecond_measurable s σ hf).comp
+      (measurable_fst.snd.prodMk measurable_snd))))
+
+omit [Fintype I] in
+lemma ambientRefreshKernel_apply (s : Finset I) (σ : Equiv.Perm I) (hf : ∀i,i∉s→σ i=i)
+    (ρ : ∀i:s,Kernel E (X i×X (σ.symm i))) [∀i,IsFiniteKernel (ρ i)]
+    (A : Set (E×(∀i,X i))) (hA : MeasurableSet A) (e : E) (x : ∀i,X i) :
+    ambientRefreshKernel s σ hf ρ A (e,x)=
+      conditionedMeasure (Measure.pi fun i ↦ ρ i e)
+        {p | (e,ambientFirst s σ (x,p))∈A ∧ (e,ambientSecond s σ hf (x,p))∈A} := by
+  rw [ambientRefreshKernel,fiberNormalize_apply_measure _ _ (ambientRefreshEvent_measurable s σ hf A hA),
+    Kernel.comap_apply,finiteKernelPi_apply]
+  rfl
+
+end HardSphere.Comparison
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Conditioning_SharedTransport
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+open HardSphere.Bridge
+attribute [local instance] Classical.propDecidable
+variable {E I : Type*} [MeasurableSpace E] [Fintype I] [DecidableEq I]
+  {X Y : I→Type*} [∀i,MeasurableSpace (X i)] [∀i,MeasurableSpace (Y i)]
+
+omit [Fintype I] [DecidableEq I] in
+lemma routeConfigMap_measurable (f : ∀i,X i→Y i) (hf : ∀i,Measurable (f i)) :
+    Measurable (routeConfigMap f) :=
+  Measurable.of_eval fun i ↦ (hf i).comp (measurable_pi_apply i)
+omit [Fintype I] [DecidableEq I] in
+lemma routeFactorMap_measurable (f : ∀i,X i→Y i) (hf : ∀i,Measurable (f i))
+    (s : Finset I) (σ : Equiv.Perm I) : Measurable (routeFactorMap f s σ) :=
+  Measurable.of_eval fun i ↦ ((hf i).comp (measurable_fst.comp (measurable_pi_apply i))).prodMk
+    ((hf _).comp (measurable_snd.comp (measurable_pi_apply i)))
+omit [Fintype I] [DecidableEq I] in
+lemma routePairedMap_measurable (f : ∀i,X i→Y i) (hf : ∀i,Measurable (f i))
+    (s : Finset I) (σ : Equiv.Perm I) : Measurable (routePairedMap f s σ) :=
+  ((routeConfigMap_measurable f hf).comp measurable_fst).prodMk
+    ((routeFactorMap_measurable f hf s σ).comp measurable_snd)
+
+omit [Fintype I] [DecidableEq I] in
+lemma fiberEquiv_natural (f : ∀i,X i→Y i) {i j : I} (h : i=j) (x : X i) :
+    fiberEquiv h (f i x)=f j (fiberEquiv h x) := by cases h; rfl
+
+omit [Fintype I] [∀i,MeasurableSpace (X i)] [∀i,MeasurableSpace (Y i)] in
+lemma ambientFirst_natural (f : ∀i,X i→Y i) (s : Finset I) (σ : Equiv.Perm I)
+    (p : (∀i,X i)×(∀i:s,X i×X (σ.symm i))) :
+    ambientFirst s σ (routePairedMap f s σ p)=routeConfigMap f (ambientFirst s σ p) := by
+  funext i
+  by_cases hi : i∈s
+  · simp only [ambientFirst,routePairedMap,routeConfigMap,routeFactorMap,Function.updateFinset,dite_eq_left hi]
+  · simp only [ambientFirst,routePairedMap,routeConfigMap,routeFactorMap,Function.updateFinset,dite_eq_right hi]
+
+omit [Fintype I] in
+lemma ambientSecond_natural (f : ∀i,X i→Y i) (s : Finset I) (σ : Equiv.Perm I)
+    (hσ : ∀i,i∉s→σ i=i) (p : (∀i,X i)×(∀i:s,X i×X (σ.symm i))) :
+    ambientSecond s σ hσ (routePairedMap f s σ p)=
+      routeConfigMap f (ambientSecond s σ hσ p) := by
+  funext i
+  by_cases hi : i∈s
+  · simp only [ambientSecond,routePairedMap,routeConfigMap,Function.updateFinset,dite_eq_left hi,
+      reverseSelected_apply,routeFactorMap]
+    exact fiberEquiv_natural f _ _
+  · simp only [ambientSecond,routePairedMap,routeConfigMap,Function.updateFinset,dite_eq_right hi]
+
+omit [Fintype I] in
+lemma ambientSharedKernel_apply_measure (s : Finset I) (σ : Equiv.Perm I)
+    (hσ : ∀i,i∉s→σ i=i) (ξ : Kernel E (∀i,X i)) [IsFiniteKernel ξ]
+    (ρ : ∀i:s,Kernel E (X i×X (σ.symm i))) [∀i,IsFiniteKernel (ρ i)]
+    (A : Set (E×(∀i,X i))) (e : E) :
+    ambientSharedKernel s σ hσ ξ ρ A e=(ξ e).compProd
+      ((ambientRefreshKernel s σ hσ ρ A).comap (Prod.mk e) measurable_prodMk_left) := by
+  ext C hC
+  rw [ambientSharedKernel,Kernel.compProd_apply hC,Measure.compProd_apply hC]
+  rfl
+
+omit [Fintype I] in
+lemma ambientRefresh_map (f : ∀i,X i→Y i) (hf : ∀i,Measurable (f i))
+    (s : Finset I) (σ : Equiv.Perm I) (hσ : ∀i,i∉s→σ i=i)
+    (ρ : ∀i:s,Kernel E (X i×X (σ.symm i))) [∀i,IsFiniteKernel (ρ i)]
+    (A : Set (E×(∀i,Y i))) (hA : MeasurableSet A) (e : E) (x : ∀i,X i) :
+    (ambientRefreshKernel s σ hσ ρ
+      ((fun p : E×(∀i,X i) ↦ (p.1,routeConfigMap f p.2)) ⁻¹' A) (e,x)).map
+        (routeFactorMap f s σ)=
+    ambientRefreshKernel s σ hσ (fun i ↦ (ρ i).map (Prod.map (f i) (f (σ.symm i))))
+      A (e,routeConfigMap f x) := by
+  have hP : Measurable (fun p : E×(∀i,X i) ↦ (p.1,routeConfigMap f p.2)) :=
+    measurable_fst.prodMk ((routeConfigMap_measurable f hf).comp measurable_snd)
+  have hB : MeasurableSet {p : ∀i:s,Y i×Y (σ.symm i) |
+      (e,ambientFirst s σ (routeConfigMap f x,p))∈A ∧
+      (e,ambientSecond s σ hσ (routeConfigMap f x,p))∈A} :=
+    (ambientRefreshEvent_measurable s σ hσ A hA).preimage
+      (measurable_prodMk_left (x:=(e,routeConfigMap f x)))
+  rw [ambientRefreshKernel_apply _ _ _ _ _ (hA.preimage hP),
+    ambientRefreshKernel_apply _ _ _ _ _ hA]
+  have he : {p : ∀i:s,X i×X (σ.symm i) |
+      (e,ambientFirst s σ (x,p))∈((fun q : E×(∀i,X i) ↦ (q.1,routeConfigMap f q.2)) ⁻¹' A) ∧
+      (e,ambientSecond s σ hσ (x,p))∈((fun q : E×(∀i,X i) ↦ (q.1,routeConfigMap f q.2)) ⁻¹' A)} =
+      (routeFactorMap f s σ) ⁻¹' {p | (e,ambientFirst s σ (routeConfigMap f x,p))∈A ∧
+        (e,ambientSecond s σ hσ (routeConfigMap f x,p))∈A} := by
+    ext p
+    simp only [mem_ofPred_eq,mem_preimage]
+    change _ ↔ (e,ambientFirst s σ (routePairedMap f s σ (x,p)))∈A ∧
+      (e,ambientSecond s σ hσ (routePairedMap f s σ (x,p)))∈A
+    rw [ambientFirst_natural,ambientSecond_natural]
+  rw [he,conditioned_map_preimage _ _ (routeFactorMap_measurable f hf s σ) hB]
+  congr 1
+  have hmap := Measure.pi_map_pi (μ:=fun i:s ↦ ρ i e)
+    (fun i:s ↦ ((hf i).prodMap (hf (σ.symm i))).aemeasurable)
+  simp only [Kernel.map_apply _ ((hf _).prodMap (hf _))]
+  exact hmap
+
+end HardSphere.Comparison
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalPrimary
+attribute [-instance] _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+omit [DecidableEq J] in
+lemma physicalSlotMutual_measurable {L : Length} (r : ℝ) :
+    MeasurableSet (physicalSlotMutual (J:=J) (L:=L) r) :=
+  (physicalMutual_measurable r).preimage
+    (Measurable.of_eval fun i ↦ measurable_pi_apply (some i))
+
+omit [DecidableEq J] in
+lemma physicalPrimaryReference_apply {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time)
+    (particle : J→Fin N) (v : Fin 3→Fin K) (d : PhysicalDatum N K M G L) :
+    physicalPrimaryReference hL g m t r R C S u particle v d=
+      conditionedMeasure (Measure.pi fun i ↦ physicalSlotReference hL g m t r R C S u particle v i d)
+        (physicalSlotMutual (L:=L) r) := by
+  unfold physicalPrimaryReference
+  change (fiberRestrict _ _ d univ)⁻¹ • fiberRestrict _ _ d=_
+  rw [fiberRestrict_apply _ ((physicalSlotMutual_measurable r).preimage measurable_snd)]
+  simp only [Measure.restrict_apply_univ,finiteKernelPi_apply]
+  rfl
+
+end HardSphere.Groups
+end
+end
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+omit [Fintype J] [DecidableEq J] in
+lemma physicalSlotAllowed_measurable {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (r R C S : ℝ) (u : Time)
+    (particle : J→Fin N) (d : PhysicalDatum N K M G L) (i : Option J) :
+    MeasurableSet (physicalSlotAllowed hL g m r R C S u particle d i) := by
+  cases i with
+  | none => exact MeasurableSet.univ
+  | some i => exact (datumPermitted_measurable hL g m r R C S u (particle i)).preimage measurable_prodMk_left
+
+omit [Fintype J] [DecidableEq J] in
+lemma physicalSlotOn_map {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time)
+    (particle : J→Fin N) (v : Fin 3→Fin K) (d : PhysicalDatum N K M G L) (i : Option J) :
+    (physicalSlotOn hL g m t r R C S u particle v d i).map Subtype.val=
+      physicalSlotReference hL g m t r R C S u particle v i d := by
+  cases i with
+  | none =>
+    change (subtypeConditional (cellPathReference v) (univ : Set C(Time,Point))).map
+      Subtype.val=cellPathReference v
+    rw [subtypeConditional_map _ MeasurableSet.univ,measure_univ,inv_one,
+      one_smul,Measure.restrict_univ]
+  | some i =>
+    change (referenceOn t (datumStart hL d (particle i)) (datumEnd hL d (particle i))
+      (Prod.mk d ⁻¹' datumPermitted hL g m r R C S u (particle i))).map Subtype.val=
+      datumIndividualReference hL g m r R C S t u (particle i) d
+    rw [referenceOn_map _ _ _ ((datumPermitted_measurable hL g m r R C S u (particle i)).preimage
+      measurable_prodMk_left),datumIndividualReference_apply]
+
+instance physicalSlotOn_finite {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time)
+    (particle : J→Fin N) (v : Fin 3→Fin K) (d : PhysicalDatum N K M G L) (i : Option J) :
+    IsFiniteMeasure (physicalSlotOn hL g m t r R C S u particle v d i) := by
+  have hm := physicalSlotOn_map hL g m t r R C S u particle v d i
+  have : IsFiniteMeasure ((physicalSlotOn hL g m t r R C S u particle v d i).map Subtype.val) := by
+    rw [hm]; infer_instance
+  exact Measure.isFiniteMeasure_of_map measurable_subtype_coe.aemeasurable
+
+omit [Fintype J] [DecidableEq J] in
+lemma physicalSlotOn_probability {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time)
+    (particle : J→Fin N) (v : Fin 3→Fin K) (d : PhysicalDatum N K M G L) (i : Option J)
+    [IsProbabilityMeasure (physicalSlotReference hL g m t r R C S u particle v i d)] :
+    IsProbabilityMeasure (physicalSlotOn hL g m t r R C S u particle v d i) := by
+  have : IsProbabilityMeasure ((physicalSlotOn hL g m t r R C S u particle v d i).map Subtype.val) := by
+    rw [physicalSlotOn_map]; infer_instance
+  exact Measure.isProbabilityMeasure_of_map (Subtype.val : _ → _)
+
+omit [Fintype J] [DecidableEq J] in
+lemma physicalAllowed_confined {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (r R C S : ℝ) (u : Time)
+    (particle : J→Fin N) (d : PhysicalDatum N K M G L) (i : J)
+    (f : physicalSlotAllowed hL g m r R C S u particle d (some i)) :
+    Confined (projectPoint L (anchorPoint (datumHome hL d (particle i)))) (projectCurve L f.val) :=
+  fun s ↦ (f.property.2.1 s).2
+
+lemma physicalAllowed_checks {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (r R C S : ℝ) (hr : r≤1) (u : Time)
+    (particle : J→Fin N) (d : PhysicalDatum N K M G L) :
+    (routeConfigMap (fun i ↦ (Subtype.val : physicalSlotAllowed hL g m r R C S u particle d i→_))) ⁻¹'
+      physicalSlotMutual (L:=L) r=
+    retainedEvent (primaryChecks r (fun j ↦ projectPoint L (anchorPoint (datumHome hL d (particle j))))
+      (fun j ↦ physicalSlotAllowed hL g m r R C S u particle d (some j))
+      some (fun _ f ↦ f) (fun _ ↦ measurable_id)) Finset.univ := by
+  ext x
+  constructor
+  · intro hx e he
+    exact hx e.2.val.1 e.2.val.2 e.2.property.1
+  · intro hx
+    let allowed := physicalSlotAllowed hL g m r R C S u particle d
+    let anchor := fun j ↦ projectPoint L (anchorPoint (datumHome hL d (particle j)))
+    have hconf : ∀j,∀f : allowed (some j),Confined (anchor j) (projectCurve L f.val) :=
+      physicalAllowed_confined hL g m r R C S u particle d
+    have hh := physicalSparseChecks_complete (I:=Option J) (V:=fun i ↦ allowed i)
+      r hr anchor (fun j ↦ allowed (some j)) hconf
+      (fun _ ↦ some) (fun _ _ f ↦ f) (fun _ _ ↦ measurable_id) x hx
+    exact hh false
+
+lemma physicalPrimary_on_map {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (hr : r≤1) (u : Time)
+    (particle : J→Fin N) (v : Fin 3→Fin K) (d : PhysicalDatum N K M G L) :
+    (conditionedMeasure (Measure.pi (physicalSlotOn hL g m t r R C S u particle v d))
+      (retainedEvent (primaryChecks r (fun j ↦ projectPoint L (anchorPoint (datumHome hL d (particle j))))
+        (fun j ↦ physicalSlotAllowed hL g m r R C S u particle d (some j))
+        some (fun _ f ↦ f) (fun _ ↦ measurable_id)) Finset.univ)).map
+      (routeConfigMap (fun i ↦ (Subtype.val : physicalSlotAllowed hL g m r R C S u particle d i→_)))=
+      physicalPrimaryReference hL g m t r R C S u particle v d := by
+  rw [←physicalAllowed_checks hL g m r R C S hr u particle d,
+    physicalPrimaryReference_apply]
+  exact (conditioned_pi_map (physicalSlotOn hL g m t r R C S u particle v d)
+    (fun i ↦ (Subtype.val : physicalSlotAllowed hL g m r R C S u particle d i→_))
+    (fun _ ↦ measurable_subtype_coe) (physicalSlotMutual_measurable r)).trans
+    (by simp only [physicalSlotOn_map])
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalSupported
+attribute [-instance] _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+instance physicalSlotAllowed_borel {N K M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (r R C S : ℝ) (u : Time)
+    (particle : J→Fin N) (d : PhysicalDatum N K M G L) (i : Option J) :
+    StandardBorelSpace (physicalSlotAllowed hL g m r R C S u particle d i) :=
+  (physicalSlotAllowed_measurable hL g m r R C S u particle d i).standardBorel
+
+omit [Fintype J] [DecidableEq J] in
+theorem physicalSelectedOn_physical {N K M G n : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (u : Time)
+    (particle : J↪Fin N) (labels : Fin (n+1)↪J) (v : Fin (n+2)→(Fin 3→Fin K))
+    (steps : Fin (n+1)→Fin 7)
+    (hc : ∀k,projectPoint L (routeCellPeriod (v k.succ) (v k.castSucc) (steps k))=0)
+    (d : PhysicalDatum N K M G L)
+    (hhome : ∀k,datumHome hL d (particle (labels k))=v k.castSucc)
+    (haccess : ∀k,datumAccessible hL g m t r R C S u (particle (labels k)) d)
+    (i : routeSlots labels) :
+    let ρ := physicalSelectedOn hL g m t r R C S u particle labels v steps d i
+    let P := physicalSlotOn hL g m t r R C S u particle (v (Fin.last (n+1))) d i
+    let Q := physicalSlotOn hL g m t r R C S u particle (v 0) d ((routePermutation labels).symm i)
+    IsProbabilityMeasure ρ ∧ IsProbabilityMeasure P ∧ IsProbabilityMeasure Q ∧
+      ρ.fst ≤ routeDensityBound t • P ∧ ρ.snd ≤ routeDensityBound t • Q ∧
+      ρ.map (Prod.map Subtype.val Subtype.val)=
+        physicalSelectedFactor hL g m t r R C S u particle labels v steps i d := by
+  dsimp only
+  obtain ⟨hp,hP,hQ,hfst,hsnd,-⟩ := physicalSelectedFactor_physical
+    hL g m t r R C S ht u particle labels v steps hc d hhome haccess i
+  let := hp
+  let := hP
+  let := hQ
+  rw [←physicalSlotOn_map hL g m t r R C S u particle (v (Fin.last (n+1))) d i] at hfst
+  rw [←physicalSlotOn_map hL g m t r R C S u particle (v 0) d ((routePermutation labels).symm i)] at hsnd
+  have hS := physicalSlotAllowed_measurable hL g m r R C S u particle d i
+  have hT := physicalSlotAllowed_measurable hL g m r R C S u particle d ((routePermutation labels).symm i)
+  have hsupp := supported_of_marginals _ hS hT _ _ hfst hsnd
+  exact ⟨supportedPair_probability _ hS hT hsupp,
+    physicalSlotOn_probability hL g m t r R C S u particle _ d i,
+    physicalSlotOn_probability hL g m t r R C S u particle _ d _,
+    supportedPair_fst_le _ hS hT hsupp _ hfst,
+    supportedPair_snd_le _ hS hT hsupp _ hsnd,
+    supportedPair_map _ hS hT hsupp⟩
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Geometry_SharedFixed
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+variable {E I : Type*} [MeasurableSpace E] [Fintype I] [DecidableEq I]
+  {X : I→Type*} [∀i,MeasurableSpace (X i)]
+
+omit [Fintype I] in
+lemma ambientShared_constant (s : Finset I) (σ : Equiv.Perm I) (hσ : ∀i,i∉s→σ i=i)
+    (ξ : Kernel E (∀i,X i)) [IsFiniteKernel ξ]
+    (ρ : ∀i:s,Kernel E (X i×X (σ.symm i))) [∀i,IsFiniteKernel (ρ i)]
+    (A : Set (E×(∀i,X i))) (hA : MeasurableSet A) (e : E) :
+    ambientSharedKernel s σ hσ ξ ρ A e=
+      ambientSharedKernel s σ hσ (Kernel.const Unit (ξ e))
+        (fun i ↦ Kernel.const Unit (ρ i e)) (Prod.snd ⁻¹' (Prod.mk e ⁻¹' A)) () := by
+  rw [ambientSharedKernel_apply_measure,ambientSharedKernel_apply_measure,Kernel.const_apply]
+  congr 1
+  ext x B hB
+  simp only [Kernel.comap_apply]
+  rw [ambientRefreshKernel_apply s σ hσ ρ A hA,
+    ambientRefreshKernel_apply s σ hσ _ _ (hA.preimage measurable_prodMk_left |>.preimage measurable_snd)]
+  simp only [Kernel.const_apply,mem_preimage]
+
+omit [Fintype I] in
+lemma ambientShared_constant_of (s : Finset I) (σ : Equiv.Perm I) (hσ : ∀i,i∉s→σ i=i)
+    (ξ : Kernel E (∀i,X i)) [IsFiniteKernel ξ]
+    (ρ : ∀i:s,Kernel E (X i×X (σ.symm i))) [∀i,IsFiniteKernel (ρ i)]
+    (A : Set (E×(∀i,X i))) (hA : MeasurableSet A) (e : E)
+    (μ : Measure (∀i,X i)) [IsFiniteMeasure μ]
+    (ν : ∀i:s,Measure (X i×X (σ.symm i))) [∀i,IsFiniteMeasure (ν i)]
+    (B : Set (∀i,X i)) (hμ : ξ e=μ) (hν : ∀i,ρ i e=ν i)
+    (hB : Prod.mk e ⁻¹' A=B) :
+    ambientSharedKernel s σ hσ ξ ρ A e=
+      ambientSharedKernel s σ hσ (Kernel.const Unit μ)
+        (fun i ↦ Kernel.const Unit (ν i)) (Prod.snd ⁻¹' B) () := by
+  simpa only [hμ,hν,hB] using ambientShared_constant s σ hσ ξ ρ A hA e
+
+end HardSphere.Comparison
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Geometry_SharedIdentities
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+open HardSphere.Bridge HardSphere.Wiener HardSphere.GaussianPacking
+attribute [local instance] Classical.propDecidable
+variable {E I : Type*} [MeasurableSpace E] [Fintype I] [DecidableEq I]
+  {X Y : I→Type*} [∀i,MeasurableSpace (X i)] [∀i,MeasurableSpace (Y i)]
+
+omit [Fintype I] in
+lemma ambientShared_map (f : ∀i,X i→Y i) (hf : ∀i,Measurable (f i))
+    (s : Finset I) (σ : Equiv.Perm I) (hσ : ∀i,i∉s→σ i=i)
+    (ξ : Kernel E (∀i,X i)) [IsFiniteKernel ξ]
+    (ρ : ∀i:s,Kernel E (X i×X (σ.symm i))) [∀i,IsFiniteKernel (ρ i)]
+    (A : Set (E×(∀i,Y i))) (hA : MeasurableSet A) (e : E) :
+    (ambientSharedKernel s σ hσ ξ ρ
+      ((fun p : E×(∀i,X i) ↦ (p.1,routeConfigMap f p.2)) ⁻¹' A) e).map
+        (routePairedMap f s σ)=
+    ambientSharedKernel s σ hσ (ξ.map (routeConfigMap f))
+      (fun i ↦ (ρ i).map (Prod.map (f i) (f (σ.symm i)))) A e := by
+  rw [ambientSharedKernel_apply_measure,ambientSharedKernel_apply_measure,
+    Kernel.map_apply _ (routeConfigMap_measurable f hf)]
+  apply coarse_joint_reference (ξ e) _ _ _ (routeConfigMap_measurable f hf)
+    (fun p ↦ routeFactorMap f s σ p.2) ((routeFactorMap_measurable f hf s σ).comp measurable_snd)
+  exact ae_of_all _ (fun x ↦ ambientRefresh_map f hf s σ hσ ρ A hA e x)
+
+end HardSphere.Comparison
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalLifted
+attribute [-instance] _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+theorem physicalSharedOn_map {N K M G n : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (hr : r≤1) (u : Time)
+    (particle : J↪Fin N) (labels : Fin (n+1)↪J) (v : Fin (n+2)→(Fin 3→Fin K))
+    (steps : Fin (n+1)→Fin 7)
+    (hc : ∀k,projectPoint L (routeCellPeriod (v k.succ) (v k.castSucc) (steps k))=0)
+    (d : PhysicalDatum N K M G L)
+    (hhome : ∀k,datumHome hL d (particle (labels k))=v k.castSucc)
+    (haccess : ∀k,datumAccessible hL g m t r R C S u (particle (labels k)) d) :
+    (physicalSharedOn hL g m t r R C S u particle labels v steps d).map
+      (routePairedMap (fun i ↦ (Subtype.val : physicalSlotAllowed hL g m r R C S u particle d i→_))
+        (routeSlots labels) (routePermutation labels))=
+      physicalSharedRoute hL g m t r R C S u particle labels v steps d := by
+  let f := fun i ↦ (Subtype.val : physicalSlotAllowed hL g m r R C S u particle d i→C(Time,Point))
+  let s := routeSlots labels
+  let σ := routePermutation labels
+  let P := physicalOnPrimary hL g m t r R C S u particle (v (Fin.last (n+1))) d
+  let ρ := physicalSelectedOn hL g m t r R C S u particle labels v steps d
+  have hf : ∀i,Measurable (f i) := fun _ ↦ measurable_subtype_coe
+  have hP : P.map (routeConfigMap f)=
+      physicalPrimaryReference hL g m t r R C S u particle (v (Fin.last (n+1))) d :=
+    physicalPrimary_on_map hL g m t r R C S hr u particle _ d
+  have hρ : ∀i,(ρ i).map (Prod.map (f i) (f (σ.symm i)))=
+      physicalSelectedFactor hL g m t r R C S u particle labels v steps i d :=
+    fun i ↦ (physicalSelectedOn_physical hL g m t r R C S ht u particle labels v steps hc d hhome haccess i).2.2.2.2.2
+  have hE : (fun p : Unit×(∀i,physicalSlotAllowed hL g m r R C S u particle d i) ↦
+      (p.1,routeConfigMap f p.2)) ⁻¹' (Prod.snd ⁻¹' physicalSlotMutual (L:=L) r)=
+      Prod.snd ⁻¹' retainedEvent (physicalOnChecks hL g m r R C S u particle d) Finset.univ := by
+    change Prod.snd ⁻¹' ((routeConfigMap f) ⁻¹' physicalSlotMutual (L:=L) r)=_
+    exact congrArg (fun event ↦ Prod.snd ⁻¹' event)
+      (physicalAllowed_checks hL g m r R C S hr u particle d)
+  have H := ambientShared_map f hf s σ (routePermutation_fixed labels)
+    (Kernel.const Unit P) (fun i ↦ Kernel.const Unit (ρ i))
+    (Prod.snd ⁻¹' physicalSlotMutual (L:=L) r) ((physicalSlotMutual_measurable r).preimage measurable_snd) ()
+  rw [hE] at H
+  change (physicalSharedOn hL g m t r R C S u particle labels v steps d).map
+    (routePairedMap f s σ)=_ at H
+  refine H.trans ?_
+  have HP : ((Kernel.const Unit P).map (routeConfigMap f)) ()=
+      physicalPrimaryReference hL g m t r R C S u particle (v (Fin.last (n+1))) d := by
+    rw [Kernel.map_apply _ (routeConfigMap_measurable f hf),Kernel.const_apply,hP]
+  have HR : ∀i,((Kernel.const Unit (ρ i)).map (Prod.map (f i) (f (σ.symm i)))) ()=
+      physicalSelectedFactor hL g m t r R C S u particle labels v steps i d := by
+    intro i
+    rw [Kernel.map_apply _ ((hf i).prodMap (hf _)),Kernel.const_apply,hρ]
+  rw [ambientShared_constant_of s σ (routePermutation_fixed labels) _ _ _
+    ((physicalSlotMutual_measurable r).preimage measurable_snd) () _ _ _ HP HR rfl]
+  exact (ambientShared_constant s σ (routePermutation_fixed labels) _ _ _
+    ((physicalSlotMutual_measurable r).preimage measurable_snd) d).symm
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalPairedRoute
+attribute [-instance] _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Comparison
+variable {E X : Type*} [MeasurableSpace E] [MeasurableSpace X]
+lemma fiberNormalize_mass_le_one (κ : Kernel E X) [IsSFiniteKernel κ]
+    (A : Set (E×X)) (e : E) : fiberNormalize κ A e univ≤1 := by
+  change ((fiberRestrict κ A e univ)⁻¹ • fiberRestrict κ A e) univ≤1
+  rw [Measure.smul_apply,smul_eq_mul]
+  exact ENNReal.inv_mul_le_one _
+
+variable {I : Type*} [Fintype I] [DecidableEq I]
+  {V : I→Type*} [∀i,MeasurableSpace (V i)]
+omit [Fintype I] in
+lemma ambientSharedKernel_mass_le (s : Finset I) (σ : Equiv.Perm I)
+    (hσ : ∀i,i∉s→σ i=i) (ξ : Kernel E (∀i,V i)) [IsFiniteKernel ξ]
+    (ρ : ∀i:s,Kernel E (V i×V (σ.symm i))) [∀i,IsFiniteKernel (ρ i)]
+    (A : Set (E×(∀i,V i))) (e : E) :
+    ambientSharedKernel s σ hσ ξ ρ A e univ≤ξ e univ := by
+  rw [ambientSharedKernel,Kernel.compProd_apply MeasurableSet.univ]
+  simp only [preimage_univ]
+  calc
+    _ ≤ ∫⁻_x,1 ∂ξ e := lintegral_mono fun _ ↦ fiberNormalize_mass_le_one _ _ _
+    _ = _ := by simp
+end HardSphere.Comparison
+
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+attribute [local instance] Classical.propDecidable
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+lemma physicalPairedRoute_total {N K M G n : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time)
+    (particle : J↪Fin N) (labels : Fin (n+1)↪J) (v : Fin (n+2)→(Fin 3→Fin K))
+    (steps : Fin (n+1)→Fin 7) (d : PhysicalDatum N K M G L) :
+    physicalPairedRoute hL g m t r R C S u particle labels v steps d univ=
+      physicalSharedRoute hL g m t r R C S u particle labels v steps d univ := by
+  rw [physicalPairedRoute,Kernel.map_apply _ ((ambientFirst_measurable _ _).prodMk (ambientSecond_measurable _ _ _)),
+    Measure.map_apply ((ambientFirst_measurable _ _).prodMk (ambientSecond_measurable _ _ _)) MeasurableSet.univ]
+  rfl
+
+lemma physicalPairedRoute_mass_le_one {N K M G n : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time)
+    (particle : J↪Fin N) (labels : Fin (n+1)↪J) (v : Fin (n+2)→(Fin 3→Fin K))
+    (steps : Fin (n+1)→Fin 7) (d : PhysicalDatum N K M G L) :
+    physicalPairedRoute hL g m t r R C S u particle labels v steps d univ≤1 := by
+  rw [physicalPairedRoute_total]
+  exact (ambientSharedKernel_mass_le _ _ _ _ _ _ _).trans (fiberNormalize_mass_le_one _ _ _)
+
+lemma physicalPairedRoute_mass_from_allowed {N K M G n : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (hr : r≤1) (u : Time)
+    (particle : J↪Fin N) (labels : Fin (n+1)↪J) (v : Fin (n+2)→(Fin 3→Fin K))
+    (steps : Fin (n+1)→Fin 7)
+    (hc : ∀k,projectPoint L (routeCellPeriod (v k.succ) (v k.castSucc) (steps k))=0)
+    (d : PhysicalDatum N K M G L)
+    (hhome : ∀k,datumHome hL d (particle (labels k))=v k.castSucc)
+    (haccess : ∀k,datumAccessible hL g m t r R C S u (particle (labels k)) d) :
+    physicalPairedRoute hL g m t r R C S u particle labels v steps d univ=
+      physicalSharedOn hL g m t r R C S u particle labels v steps d univ := by
+  rw [physicalPairedRoute_total,←physicalSharedOn_map hL g m t r R C S ht hr u particle labels v steps hc d hhome haccess]
+  rw [Measure.map_apply (routePairedMap_measurable _ (fun _ ↦ measurable_subtype_coe) _ _) MeasurableSet.univ]
+  rfl
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Paths_SimpleRouteGeometry
+attribute [-instance] _root_.OAI.HardSphere.Bridge.physicalEdges_fintype _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.endpointPair_finite _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalOnPrimary_finite _root_.OAI.HardSphere.Groups.physicalPairedRoute_finite _root_.OAI.HardSphere.Groups.physicalPrimaryReference_finite _root_.OAI.HardSphere.Groups.physicalRouteFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedFactor_finite _root_.OAI.HardSphere.Groups.physicalSelectedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalSharedRoute_finite _root_.OAI.HardSphere.Groups.physicalSlotAllowed_borel _root_.OAI.HardSphere.Groups.physicalSlotOn_finite _root_.OAI.HardSphere.Groups.physicalSlotReference_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital HardSphere.Lattice
+attribute [local instance] Classical.propDecidable
+variable {K : ℕ} [NeZero K] {x y : DiscreteTorus K} {J : Type*}
+
+lemma simpleRouteVertices_last (p : SimplePath x y) (n : ℕ) (hn : n+1=p.val.length) :
+    simpleRouteVertices p n (Fin.last (n+1))=siteIndex y := by
+  simp only [simpleRouteVertices,Fin.val_last,hn,SimpleGraph.Walk.getVert_length]
+
+lemma simpleRouteVertices_distance {L : Length} (hL : L.val=(K:ℝ))
+    (p : SimplePath x y) (n : ℕ) (hn : n+1=p.val.length) :
+    ∀i:Fin (n+1),torusDistance L (gridCenter L (simpleRouteVertices p n i.castSucc))
+      (gridCenter L (simpleRouteVertices p n i.succ))≤1 :=
+  fun i ↦ adjacent_center_distance hL (simpleRouteVertices_adjacent p n hn i)
+
+lemma simpleRouteSteps_period {L : Length} (hL : L.val=(K:ℝ))
+    (p : SimplePath x y) (n : ℕ) (hn : n+1=p.val.length) :
+    ∀ i : Fin (n+1), projectPoint L (routeCellPeriod (simpleRouteVertices p n i.succ)
+      (simpleRouteVertices p n i.castSucc) (simpleRouteSteps hL p n hn i))=0 :=
+  fun i ↦ (adjacent_routeCellPeriod hL (simpleRouteVertices_adjacent p n hn i)).choose_spec
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_RouteFields
+attribute [-instance] _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital HardSphere.Lattice
+attribute [local instance] Classical.propDecidable
+variable {K : ℕ} [NeZero K] {x y : DiscreteTorus K}
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+omit [NeZero K] [Fintype J] [DecidableEq J] in
+lemma fieldLabels_spec (p : SimplePath x y) (z : DiscreteTorus K→Option J) (h : RouteFieldValid p z) :
+    ∀i,z (pathVertexEmbedding p i.castSucc)=some (fieldLabels p z h i) := h.choose_spec
+
+omit [DecidableEq J] in
+lemma branchAccessible_home {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J→Fin N)
+    (v : DiscreteTorus K) (d : PhysicalDatum N K M G L) (j : J)
+    (hj : j∈branchAccessible hL g m t r R C S u particle v d) :
+    datumHome hL d (particle j)=siteIndex v ∧ datumAccessible hL g m t r R C S u (particle j) d := by
+  exact (Finset.mem_filter.mp (Finset.mem_filter.mp hj).2).2
+
+lemma routeFieldValid_of_supported {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J→Fin N)
+    (d : PhysicalDatum N K M G L) (p : SimplePath x y) (z : DiscreteTorus K→Option J)
+    (hz : ∀v,z v∈paddedLabels (branchAccessible hL g m t r R C S u particle v d))
+    (ha : ∀i : Fin p.val.length,(branchAccessible hL g m t r R C S u particle (pathVertexEmbedding p i.castSucc) d).Nonempty) :
+    RouteFieldValid p z := by
+  have he : ∀i : Fin p.val.length,∃j : J,
+      j∈branchAccessible hL g m t r R C S u particle (pathVertexEmbedding p i.castSucc) d ∧
+      z (pathVertexEmbedding p i.castSucc)=some j := by
+    intro i
+    have hh := hz (pathVertexEmbedding p i.castSucc)
+    rw [paddedLabels,ite_eq_left (ha i)] at hh
+    obtain ⟨j,hj,he⟩ := Finset.mem_image.mp hh
+    exact ⟨j,hj,he.symm⟩
+  choose f hf hfe using he
+  have hhome : ∀i,gridSite (datumHome hL d (particle (f i)))=pathVertexEmbedding p i.castSucc := by
+    intro i
+    rw [(branchAccessible_home hL g m t r R C S u particle _ d _ (hf i)).1]
+    exact indexSite_siteIndex _
+  exact ⟨departureEmbedding p (fun j ↦ gridSite (datumHome hL d (particle j))) f hhome,hfe⟩
+
+lemma fieldLabels_physical {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J→Fin N)
+    (d : PhysicalDatum N K M G L) (p : SimplePath x y) (z : DiscreteTorus K→Option J)
+    (hz : ∀v,z v∈paddedLabels (branchAccessible hL g m t r R C S u particle v d))
+    (ha : ∀i : Fin p.val.length,(branchAccessible hL g m t r R C S u particle (pathVertexEmbedding p i.castSucc) d).Nonempty)
+    (h : RouteFieldValid p z) :
+    ∀i,datumHome hL d (particle (fieldLabels p z h i))=siteIndex (pathVertexEmbedding p i.castSucc) ∧
+      datumAccessible hL g m t r R C S u (particle (fieldLabels p z h i)) d := by
+  intro i
+  apply branchAccessible_home hL g m t r R C S u particle _ d _
+  have hh := hz (pathVertexEmbedding p i.castSucc)
+  rw [paddedLabels,ite_eq_left (ha i),fieldLabels_spec p z h] at hh
+  simpa using hh
+
+lemma fieldRouteLabels_physical {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J→Fin N)
+    (d : PhysicalDatum N K M G L) (hxy : x≠y) (p : SimplePath x y) (z : DiscreteTorus K→Option J)
+    (hz : ∀v,z v∈paddedLabels (branchAccessible hL g m t r R C S u particle v d))
+    (ha : ∀i : Fin p.val.length,(branchAccessible hL g m t r R C S u particle (pathVertexEmbedding p i.castSucc) d).Nonempty)
+    (h : RouteFieldValid p z) :
+    ∀i,datumHome hL d (particle (fieldRouteLabels hxy p z h i))=
+      simpleRouteVertices p (p.val.length-1) i.castSucc ∧
+      datumAccessible hL g m t r R C S u (particle (fieldRouteLabels hxy p z h i)) d := by
+  intro i
+  exact fieldLabels_physical hL g m t r R C S u particle d p z hz ha h (Fin.cast (simpleRouteLength_eq hxy p) i)
+
+end HardSphere.Groups
+end
+end
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital HardSphere.Lattice
+attribute [local instance] Classical.propDecidable
+variable {K : ℕ} [NeZero K] {x y : DiscreteTorus K}
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+lemma physicalCodedRoute_mass_le_one {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J↪Fin N)
+    (hxy : x≠y) (c : PhysicalRouteCode x y J) (d : PhysicalDatum N K M G L) :
+    physicalCodedRoute hL g m t r R C S u particle hxy c d univ≤1 := by
+  unfold physicalCodedRoute
+  split
+  · exact physicalPairedRoute_mass_le_one ..
+  · change (0 : ℝ≥0∞)≤1
+    exact bot_le
+instance physicalCodedRoute_finite {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J↪Fin N)
+    (hxy : x≠y) (c : PhysicalRouteCode x y J) :
+    IsFiniteKernel (physicalCodedRoute (M:=M) hL g m t r R C S u particle hxy c) :=
+  ⟨1,by simp,physicalCodedRoute_mass_le_one hL g m t r R C S u particle hxy c⟩
+
+instance physicalRouteFamily_finite {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J↪Fin N)
+    (hxy : x≠y) : IsFiniteKernel (physicalRouteFamily (M:=M) hL g m t r R C S u particle hxy) :=
+  ⟨1,by simp,fun z ↦ physicalCodedRoute_mass_le_one hL g m t r R C S u particle hxy z.2 z.1⟩
+
+instance physicalMixedRoutes_finite {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J↪Fin N)
+    (hxy : x≠y) (ν : Kernel (PhysicalDatum N K M G L) (SimplePath x y)) [IsMarkovKernel ν] :
+    IsFiniteKernel (physicalMixedRoutes hL g m t r R C S u particle hxy ν) := by
+  unfold physicalMixedRoutes; infer_instance
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalFamilyLikelihood
+attribute [-instance] _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital HardSphere.Lattice
+variable {K : ℕ} [NeZero K] {x y : DiscreteTorus K}
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+instance physicalRouteView_finite {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J↪Fin N)
+    (hxy : x≠y) (b : Bool) :
+    IsFiniteKernel (physicalRouteView (M:=M) hL g m t r R C S u particle hxy b) := by
+  unfold physicalRouteView; infer_instance
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Geometry_UniformBath
+attribute [-instance] _root_.OAI.HardSphere.Groups.labelOptionSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+attribute [local instance] Classical.propDecidable
+variable {n : ℕ} {E : Type*} [MeasurableSpace E]
+
+attribute [local instance] OAI.HardSphere.Comparison.permBathSpace
+attribute [local instance] OAI.HardSphere.Comparison.permBathSingleton
+lemma orderedPrimaryObservation_measurable (b : Bool) (i : Fin (n+1)) :
+    Measurable (orderedPrimaryObservation (E:=E) b i) := by
+  apply measurable_from_prod_countable_left
+  intro τ
+  cases b <;> dsimp [orderedPrimaryObservation] <;> fun_prop
+
+end HardSphere.Comparison
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Comparison_PhysicalObservedLaw
+attribute [-instance] _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.labelOptionSpace _root_.OAI.HardSphere.Groups.physicalBranchLaw_sfinite _root_.OAI.HardSphere.Groups.physicalCodedRoute_finite _root_.OAI.HardSphere.Groups.physicalFamilyReference_finite _root_.OAI.HardSphere.Groups.physicalLabelAt_markov _root_.OAI.HardSphere.Groups.physicalLabels_markov _root_.OAI.HardSphere.Groups.physicalMixedRoutes_finite _root_.OAI.HardSphere.Groups.physicalRouteFamily_finite _root_.OAI.HardSphere.Groups.physicalRouteView_finite _root_.OAI.HardSphere.Groups.physicalSharedOn_finite _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Comparison
+attribute [local instance] Classical.propDecidable
+variable {n : ℕ} {E : Type*} [MeasurableSpace E]
+attribute [local instance] permBathSpace permBathSingleton
+
+instance primaryBathKernel_markov (b : Bool) (i : Fin (n+1)) :
+    IsMarkovKernel (primaryBathKernel (E:=E) b i) :=
+  Kernel.IsMarkovKernel.map _ (orderedPrimaryObservation_measurable b i)
+
+end HardSphere.Comparison
+
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital
+attribute [local instance] Classical.propDecidable
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+instance physicalBathKernel_markov {N K M G : ℕ} {L : Length} (particle : J↪Fin (N+1))
+    (b : Bool) (i : J) : IsMarkovKernel (physicalBathKernel (K:=K) (M:=M) (G:=G) (L:=L) particle b i) := by
+  unfold physicalBathKernel; infer_instance
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalMixedObservation
+attribute [-instance] _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital _root_.OAI.HardSphere.Lattice
+attribute [local instance] Classical.propDecidable
+variable {K : ℕ} [NeZero K] {x y : DiscreteTorus K}
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+instance taggedPhysicalBathKernel_markov {N M G : ℕ} {L : Length} (particle : J↪Fin (N+1)) (b : Bool) :
+    IsMarkovKernel (taggedPhysicalBathKernel (K:=K) (M:=M) (G:=G) (L:=L) particle b) :=
+  ⟨fun z ↦ inferInstanceAs (IsProbabilityMeasure (primaryBathKernel b z.1 (physicalFullMidpoint particle z.2)))⟩
+
+instance physicalCodeObserver_markov {N M G : ℕ} {L : Length} (particle : J↪Fin (N+1))
+    (hxy : x≠y) (b : Bool) :
+    IsMarkovKernel (physicalCodeObserver (M:=M) (G:=G) (L:=L) particle hxy b) := by
+  unfold physicalCodeObserver; infer_instance
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalObservedMixture
+attribute [-instance] _root_.OAI.HardSphere.Bridge.targetUniform_finite _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital HardSphere.Lattice
+attribute [local instance] Classical.propDecidable
+variable {K : ℕ} [NeZero K] {x y : DiscreteTorus K}
+variable {J : Type*} [Fintype J] [DecidableEq J]
+
+instance physicalObservedMixture_finite {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J↪Fin (N+1))
+    (hxy : x≠y) (ν : Kernel (PhysicalDatum (N+1) K M G L) (SimplePath x y)) [IsMarkovKernel ν]
+    (b : Bool) : IsFiniteKernel (physicalObservedMixture hL g m t r R C S u particle hxy ν b) := by
+  unfold physicalObservedMixture; infer_instance
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalTaggedObservation
+attribute [-instance] _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.physicalTaggedReference_finite _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital _root_.OAI.HardSphere.Lattice
+attribute [local instance] Classical.propDecidable
+variable {K : ℕ} [NeZero K] {x y : DiscreteTorus K}
+variable {J : Type*} [Fintype J] [DecidableEq J] [MeasurableSpace J] [MeasurableSingletonClass J]
+
+instance retainedTaggedPhysicalBath_markov {N M G : ℕ} {L : Length} (particle : J↪Fin (N+1)) (b : Bool) :
+    IsMarkovKernel (retainedTaggedPhysicalBath (K:=K) (M:=M) (G:=G) (L:=L) particle b) := by
+  unfold retainedTaggedPhysicalBath; infer_instance
+instance physicalTaggedMixture_finite {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J↪Fin (N+1))
+    (hxy : x≠y) (b : Bool)
+    (ν : Kernel (PhysicalDatum (N+1) K M G L) (SimplePath x y)) [IsMarkovKernel ν]
+    (μ : Measure (PhysicalDatum (N+1) K M G L)) [IsFiniteMeasure μ]
+    (E : Set (PhysicalDatum (N+1) K M G L)) :
+    IsFiniteMeasure (physicalTaggedMixture hL g m t r R C S u particle hxy b ν μ E) := by
+  unfold physicalTaggedMixture; infer_instance
+
+end HardSphere.Groups
+end
+end
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital _root_.OAI.HardSphere.Lattice
+attribute [local instance] Classical.propDecidable
+variable {K : ℕ} [NeZero K] {x y : DiscreteTorus K}
+variable {J : Type*} [Fintype J] [DecidableEq J] [MeasurableSpace J] [MeasurableSingletonClass J]
+
+omit [NeZero K] [MeasurableSpace J] [MeasurableSingletonClass J] in
+lemma physicalOnPrimary_mass {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (hr : r≤1) (u : Time)
+    (particle : J→Fin N) (v : Fin 3→Fin K) (d : PhysicalDatum N K M G L) :
+    physicalOnPrimary hL g m t r R C S u particle v d univ=
+      physicalPrimaryReference hL g m t r R C S u particle v d univ := by
+  rw [←physicalPrimary_on_map hL g m t r R C S hr u particle v d]
+  rw [Measure.map_apply (routeConfigMap_measurable _ (fun _ ↦ measurable_subtype_coe)) MeasurableSet.univ]
+  rfl
+
+omit [MeasurableSpace J] [MeasurableSingletonClass J] in
+theorem physicalCodedRoute_mass {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (hr : r≤1) (u : Time)
+    (particle : J↪Fin N) (d : PhysicalDatum N K M G L) (hxy : x≠y)
+    (p : SimplePath x y) (z : DiscreteTorus K→Option J)
+    (hz : ∀v,z v∈paddedLabels (branchAccessible hL g m t r R C S u particle v d))
+    (ha : ∀i : Fin p.val.length,(branchAccessible hL g m t r R C S u particle (pathVertexEmbedding p i.castSucc) d).Nonempty)
+    (hm : ∀w,(Finset.univ.filter (fun j ↦ datumHome hL d (particle j)=w)).card≤M)
+    (hp : ∀j,IsProbabilityMeasure (datumIndividualReference hL g m r R C S t u (particle j) d))
+    (q a : ℝ≥0∞) (ha0 : 0<a)
+    (hq : ∀ j k, j ≠ k → ∀f : physicalSlotAllowed hL g m r R C S u particle d (some k),
+      physicalCollisionReference hL g m t r R C S u particle d j
+        {p | TrialCollision r (projectCurve L f.val) p.val}≤q)
+    (hsmall : a+(4*(49^3*(M+1)):ℕ)*(routeDensityBound t*q)≤1) :
+    physicalCodedRoute hL g m t r R C S u particle hxy (p,z) d univ=
+      physicalPrimaryReference hL g m t r R C S u particle (siteIndex y) d univ := by
+  have hv := routeFieldValid_of_supported hL g m t r R C S u particle d p z hz ha
+  have hphys := fieldRouteLabels_physical hL g m t r R C S u particle d hxy p z hz ha hv
+  rw [physicalCodedRoute,dite_eq_left hv,
+    physicalPairedRoute_mass_from_allowed hL g m t r R C S ht hr u particle _ _ _
+      (simpleRouteSteps_period hL p _ (simpleRouteLength_eq hxy p)) d (fun i ↦ (hphys i).1) (fun i ↦ (hphys i).2)]
+  rw [physicalSharedOn_mass hL g m t r R C S ht u particle _ _ _
+    (simpleRouteSteps_period hL p _ (simpleRouteLength_eq hxy p)) d (fun i ↦ (hphys i).1) (fun i ↦ (hphys i).2)
+    (simpleRouteVertices_distance hL p _ (simpleRouteLength_eq hxy p)) hm hp q a ha0 hq hsmall]
+  rw [physicalOnPrimary_mass hL g m t r R C S hr u,
+    simpleRouteVertices_last p _ (simpleRouteLength_eq hxy p)]
+
+omit [MeasurableSpace J] [MeasurableSingletonClass J] in
+theorem physicalMixedRoutes_mass {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (hr : r≤1) (u : Time)
+    (particle : J↪Fin N) (d : PhysicalDatum N K M G L) (hxy : x≠y)
+    (ν : Kernel (PhysicalDatum N K M G L) (SimplePath x y)) [IsMarkovKernel ν]
+    (ha : ∀ᵐp ∂ν d,∀i : Fin p.val.length,
+      (branchAccessible hL g m t r R C S u particle (pathVertexEmbedding p i.castSucc) d).Nonempty)
+    (hm : ∀w,(Finset.univ.filter (fun j ↦ datumHome hL d (particle j)=w)).card≤M)
+    (hp : ∀j,IsProbabilityMeasure (datumIndividualReference hL g m r R C S t u (particle j) d))
+    (q a : ℝ≥0∞) (ha0 : 0<a)
+    (hq : ∀ j k, j ≠ k → ∀f : physicalSlotAllowed hL g m r R C S u particle d (some k),
+      physicalCollisionReference hL g m t r R C S u particle d j
+        {p | TrialCollision r (projectCurve L f.val) p.val}≤q)
+    (hsmall : a+(4*(49^3*(M+1)):ℕ)*(routeDensityBound t*q)≤1) :
+    physicalMixedRoutes hL g m t r R C S u particle hxy ν d univ=
+      physicalPrimaryReference hL g m t r R C S u particle (siteIndex y) d univ := by
+  rw [physicalMixedRoutes,Kernel.compProd_apply MeasurableSet.univ]
+  simp only [preimage_univ]
+  have hae : ∀ᵐc ∂(ν.prod (physicalLabels hL g m t r R C S u particle)) d,
+      physicalRouteFamily hL g m t r R C S u particle hxy (d,c) univ=
+        physicalPrimaryReference hL g m t r R C S u particle (siteIndex y) d univ := by
+    rw [Kernel.prod_apply]
+    apply (Measure.ae_prod_iff_ae_ae (Set.to_countable _).measurableSet).mpr
+    filter_upwards [ha] with p hpPath
+    filter_upwards [physicalLabels_supported hL g m t r R C S u particle d] with z hz
+    exact physicalCodedRoute_mass hL g m t r R C S ht hr u particle d hxy p z hz hpPath hm hp q a ha0 hq hsmall
+  rw [lintegral_congr_ae hae]
+  simp
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ054_HS.HardSphere_Allocation_PhysicalObservedMass
+attribute [-instance] _root_.OAI.HardSphere.Groups.cellPointReference_probability _root_.OAI.HardSphere.Groups.rawPhysicalBranch_sfinite _root_.OAI.HardSphere.Rescaling.config_haar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital _root_.OAI.HardSphere.Lattice
+attribute [local instance] Classical.propDecidable
+variable {K : ℕ} [NeZero K] {x y : DiscreteTorus K}
+variable {J : Type*} [Fintype J] [DecidableEq J] [MeasurableSpace J] [MeasurableSingletonClass J]
+
+omit [MeasurableSpace J] [MeasurableSingletonClass J] in
+lemma physicalObservedMixture_mass_eq {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J↪Fin (N+1))
+    (hxy : x≠y) (ν : Kernel (PhysicalDatum (N+1) K M G L) (SimplePath x y)) [IsMarkovKernel ν]
+    (b : Bool) (d : PhysicalDatum (N+1) K M G L) :
+    physicalObservedMixture hL g m t r R C S u particle hxy ν b d univ=
+      physicalMixedRoutes hL g m t r R C S u particle hxy ν d univ := by
+  simp only [physicalObservedMixture,Kernel.snd_apply' _ _ MeasurableSet.univ,preimage_univ,
+    Kernel.compProd_apply_univ]
+
+omit [MeasurableSpace J] [MeasurableSingletonClass J] in
+theorem physicalObservedMixture_mass_oai {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (ht : 0<t) (hr : r≤1) (u : Time)
+    (particle : J↪Fin (N+1)) (hxy : x≠y)
+    (ν : Kernel (PhysicalDatum (N+1) K M G L) (SimplePath x y)) [IsMarkovKernel ν]
+    (μ : Measure (PhysicalDatum (N+1) K M G L)) [SFinite μ] (E : Set (PhysicalDatum (N+1) K M G L))
+    (q a : ℝ≥0∞) (ha0 : 0<a)
+    (hsmall : a+(4*(49^3*(M+1)):ℕ)*(routeDensityBound t*q)≤1)
+    (hdata : ∀ᵐd ∂μ.restrict E,
+      (∀ᵐp ∂ν d,∀i : Fin p.val.length,
+        (branchAccessible hL g m t r R C S u particle (pathVertexEmbedding p i.castSucc) d).Nonempty) ∧
+      (∀w,(Finset.univ.filter (fun j ↦ datumHome hL d (particle j)=w)).card≤M) ∧
+      (∀j,IsProbabilityMeasure (datumIndividualReference hL g m r R C S t u (particle j) d)) ∧
+      (∀ j k, j ≠ k → ∀f : physicalSlotAllowed hL g m r R C S u particle d (some k),
+        physicalCollisionReference hL g m t r R C S u particle d j
+          {p | TrialCollision r (projectCurve L f.val) p.val}≤q) ∧
+      IsProbabilityMeasure (physicalPrimaryReference hL g m t r R C S u particle (siteIndex y) d))
+    (b : Bool) :
+    ((μ.restrict E).compProd (physicalObservedMixture hL g m t r R C S u particle hxy ν b)) univ=μ E := by
+  rw [Measure.compProd_apply MeasurableSet.univ]
+  simp only [preimage_univ]
+  have hh : ∀ᵐd ∂μ.restrict E,physicalObservedMixture hL g m t r R C S u particle hxy ν b d univ=1 := by
+    filter_upwards [hdata] with d hd
+    rw [physicalObservedMixture_mass_eq,physicalMixedRoutes_mass hL g m t r R C S ht hr u
+      particle d hxy ν hd.1 hd.2.1 hd.2.2.1 q a ha0 hd.2.2.2.1 hsmall]
+    let := hd.2.2.2.2
+    exact measure_univ
+  rw [lintegral_congr_ae hh]
+  simp
+
+end HardSphere.Groups
+end
+end
+
+section
+
+noncomputable section
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal BigOperators
+namespace HardSphere.Groups
+open Wiener Bridge Sampling Comparison GaussianPacking PathCutoff CellOrbital HardSphere.Lattice
+attribute [local instance] Classical.propDecidable
+variable {K : ℕ} [NeZero K] {x y : DiscreteTorus K}
+variable {J : Type*} [Fintype J] [DecidableEq J] [MeasurableSpace J] [MeasurableSingletonClass J]
+
+instance physicalCommonObserved_finite {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J↪Fin (N+1))
+    (hxy : x≠y) (ν : Kernel (PhysicalDatum (N+1) K M G L) (SimplePath x y)) [IsMarkovKernel ν]
+    (μ : Measure (PhysicalDatum (N+1) K M G L)) [IsFiniteMeasure μ] (E : Set (PhysicalDatum (N+1) K M G L)) :
+    IsFiniteMeasure (physicalCommonObserved hL g m t r R C S u particle hxy ν μ E) := by
+  unfold physicalCommonObserved; infer_instance
+
+instance physicalObservedReference_finite {N M G : ℕ} {L : Length} (hL : L.val=(K:ℝ))
+    (g : Fin G) (m : ℕ) (t r R C S : ℝ) (u : Time) (particle : J↪Fin (N+1))
+    (b : Bool) (μ : Measure (PhysicalDatum (N+1) K M G L)) [IsFiniteMeasure μ] :
+    IsFiniteMeasure (physicalObservedReference (x:=x) (y:=y) hL g m t r R C S u particle b μ) := by
+  unfold physicalObservedReference; infer_instance
+
+end HardSphere.Groups
+end
+end
+
+end OAI
+end
+
+theorem solution.{u_1} : type_of% @OAI.HardSphere.Groups.physicalObservedMixture_mass_oai.{u_1} := @OAI.HardSphere.Groups.physicalObservedMixture_mass_oai.{u_1}

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_riem00_spatial_closed_F
 -- name    : NewtonCartan.riem00_spatial_closed_F
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:37:33.049694+00:00
 -- url     : https://prove2.me/theorems/06c8f658-5368-4310-a348-878a728d2a4d
 -- title:

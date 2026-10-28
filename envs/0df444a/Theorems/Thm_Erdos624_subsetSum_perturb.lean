@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_subsetSum_perturb
 -- name    : Erdos624.subsetSum_perturb
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:40:58.267687+00:00
 -- url     : https://prove2.me/theorems/7c8e99a7-e77a-462c-9aa5-3301aa41f193
 -- title:

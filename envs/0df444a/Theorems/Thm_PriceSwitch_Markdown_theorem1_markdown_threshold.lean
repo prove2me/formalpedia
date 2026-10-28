@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceSwitch_Markdown_theorem1_markdown_threshold
 -- name    : PriceSwitch.Markdown.theorem1_markdown_threshold
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:08:19.388975+00:00
 -- url     : https://prove2.me/theorems/872a3835-fe1a-453a-806f-1b2d9b51f86f

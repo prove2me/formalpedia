@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiAbduction_Systematic_pure_qe
 -- name    : BiAbduction.Systematic.pure_qe
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:20.854079+00:00
 -- url     : https://prove2.me/theorems/4f317aed-5af1-41c6-9f40-b20970380817

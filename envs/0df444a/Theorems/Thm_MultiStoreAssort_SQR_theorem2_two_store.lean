@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_theorem2_two_store
 -- name    : MultiStoreAssort.SQR.theorem2_two_store
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:29.027975+00:00
 -- url     : https://prove2.me/theorems/c56eab30-e941-41b4-b358-f9213a7bbf6c

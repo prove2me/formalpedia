@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RatingsAdvert_AdInterval_root_unique
 -- name    : RatingsAdvert.AdInterval.root_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T20:38:46.701191+00:00
 -- url     : https://prove2.me/theorems/874a7d0d-4ce3-4267-ad05-2faff000c0cd

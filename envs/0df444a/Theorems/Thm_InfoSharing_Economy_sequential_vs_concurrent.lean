@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoSharing_Economy_sequential_vs_concurrent
 -- name    : InfoSharing.Economy.sequential_vs_concurrent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T00:24:49.943369+00:00
 -- url     : https://prove2.me/theorems/275b80c4-4ec2-49d1-b96b-65c5e42c8df2

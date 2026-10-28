@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ShorNonsmooth.NonlinEq.max_residual_almost_gradient_near_solution
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-20T11:32:16.828458+00:00
 -- url     : https://prove2.me/submissions/447b41b8-15cc-40a7-b9b3-5fef2d7096a7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_ShorNonsmooth_NonlinEq_maxResidual
 import Definitions.Def_ShorNonsmooth_NonlinEq_jacobianMatrix

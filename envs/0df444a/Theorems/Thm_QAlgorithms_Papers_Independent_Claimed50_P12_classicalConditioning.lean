@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P12_classicalConditioning
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P12.classicalConditioning
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T18:40:27.246911+00:00
 -- url     : https://prove2.me/theorems/a0de8d60-7817-45c2-be94-eed5cd822e2b

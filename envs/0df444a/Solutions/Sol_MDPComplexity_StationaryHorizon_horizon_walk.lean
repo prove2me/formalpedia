@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.StationaryHorizon.horizon_walk
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:36:47.990046+00:00
 -- url     : https://prove2.me/submissions/a999cdef-3006-41f6-841a-1104a0109aa2
 

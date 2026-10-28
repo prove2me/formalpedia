@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P46_local_divergence_cancellation
 -- name    : QAlgorithms.Papers.Independent.Support50.P46.local_divergence_cancellation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T23:59:12.104709+00:00
 -- url     : https://prove2.me/theorems/c11a4483-df8e-4412-b7ea-78fbdf505ec7

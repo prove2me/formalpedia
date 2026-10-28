@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Percolation_BenjaminiSchramm_cayley_main
 -- name    : OAI.Percolation.BenjaminiSchramm.cayley_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:01.409379+00:00
 -- url     : https://prove2.me/theorems/d71a279a-01f1-4007-bce6-3586e0f4fcce

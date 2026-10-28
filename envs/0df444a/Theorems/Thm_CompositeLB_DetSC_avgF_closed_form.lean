@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompositeLB_DetSC_avgF_closed_form
 -- name    : CompositeLB.DetSC.avgF_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:25:28.230323+00:00
 -- url     : https://prove2.me/theorems/8e11fe61-f0dd-448a-94f3-36d49d8640fc

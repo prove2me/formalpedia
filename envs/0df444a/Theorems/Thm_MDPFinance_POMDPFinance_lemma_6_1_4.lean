@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_POMDPFinance_lemma_6_1_4
 -- name    : MDPFinance.POMDPFinance.lemma_6_1_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:38:06.816884+00:00
 -- url     : https://prove2.me/theorems/db260b80-6a97-4177-81aa-47f34dd1f705

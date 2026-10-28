@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulsiveISS_SmallGain_jump_estimate
 -- name    : ImpulsiveISS.SmallGain.jump_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:57:29.066188+00:00
 -- url     : https://prove2.me/theorems/8c9077de-4113-4c34-907a-3521432a3f52

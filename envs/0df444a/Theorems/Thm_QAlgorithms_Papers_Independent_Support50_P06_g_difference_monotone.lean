@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P06_g_difference_monotone
 -- name    : QAlgorithms.Papers.Independent.Support50.P06.g_difference_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:31:52.21621+00:00
 -- url     : https://prove2.me/theorems/cd67b03d-0db3-43b2-b9d5-03315126a887

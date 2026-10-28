@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Balinski61_Connectivity_degree_at_least_n
 -- name    : Balinski61.Connectivity.degree_at_least_n
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:50:33.04714+00:00
 -- url     : https://prove2.me/theorems/84e068c7-52d8-41a7-bb5e-6c38fd5c2c06

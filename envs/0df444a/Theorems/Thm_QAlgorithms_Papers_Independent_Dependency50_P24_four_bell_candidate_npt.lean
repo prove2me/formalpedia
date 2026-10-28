@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_four_bell_candidate_npt
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.four_bell_candidate_npt
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:29:31.713035+00:00
 -- url     : https://prove2.me/theorems/0b04e651-8af5-4e5a-ac60-1b8fb399508f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCoupling_Ergodic_dN_isDistanceLike
 -- name    : GenCoupling.Ergodic.dN_isDistanceLike
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:45:54.800979+00:00
 -- url     : https://prove2.me/theorems/dab47481-b2a1-4f78-96b6-1b99a3bc0cde

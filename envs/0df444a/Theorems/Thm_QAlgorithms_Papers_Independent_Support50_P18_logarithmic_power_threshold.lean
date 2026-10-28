@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P18_logarithmic_power_threshold
 -- name    : QAlgorithms.Papers.Independent.Support50.P18.logarithmic_power_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:18:44.139+00:00
 -- url     : https://prove2.me/theorems/d0ee2df8-fc14-46f8-ad99-04e3f4e8c19a

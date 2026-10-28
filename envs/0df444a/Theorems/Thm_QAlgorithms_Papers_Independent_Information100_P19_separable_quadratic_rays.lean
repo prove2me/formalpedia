@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_separable_quadratic_rays
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.separable_quadratic_rays
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:50:34.351974+00:00
 -- url     : https://prove2.me/theorems/7090622b-0781-4a0b-aa4b-34d06d11d97c

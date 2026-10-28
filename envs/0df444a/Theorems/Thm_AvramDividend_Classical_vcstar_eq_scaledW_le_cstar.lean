@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_eq_scaledW_le_cstar
 -- name    : AvramDividend.Classical.vcstar_eq_scaledW_le_cstar
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-08T09:15:25.753988+00:00
 -- url     : https://prove2.me/theorems/3371748a-dfe1-4097-b355-d749f95f3db4

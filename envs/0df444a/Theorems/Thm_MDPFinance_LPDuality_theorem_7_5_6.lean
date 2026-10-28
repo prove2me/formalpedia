@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_LPDuality_theorem_7_5_6
 -- name    : MDPFinance.LPDuality.theorem_7_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:56:00.352566+00:00
 -- url     : https://prove2.me/theorems/f71adf1d-27c5-4a5b-94c0-d67a429ce0ad

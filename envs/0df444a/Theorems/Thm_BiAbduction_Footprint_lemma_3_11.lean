@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiAbduction_Footprint_lemma_3_11
 -- name    : BiAbduction.Footprint.lemma_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:12:53.503971+00:00
 -- url     : https://prove2.me/theorems/357ce38f-9d57-4436-b1f6-c0af7286912a

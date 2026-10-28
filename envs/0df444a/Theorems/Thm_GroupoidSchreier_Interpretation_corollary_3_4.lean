@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupoidSchreier_Interpretation_corollary_3_4
 -- name    : GroupoidSchreier.Interpretation.corollary_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:32.097029+00:00
 -- url     : https://prove2.me/theorems/3e9ac4b9-790d-4bf8-8db7-57cd72593119

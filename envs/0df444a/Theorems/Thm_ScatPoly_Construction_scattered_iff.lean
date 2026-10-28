@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScatPoly_Construction_scattered_iff
 -- name    : ScatPoly.Construction.scattered_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:16:41.000711+00:00
 -- url     : https://prove2.me/theorems/144239ff-dd64-4391-bd60-b12e3d09799f

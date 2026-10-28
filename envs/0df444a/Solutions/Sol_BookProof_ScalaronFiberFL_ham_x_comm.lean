@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookProof.ScalaronFiberFL.ham_x_comm
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T05:25:22.459991+00:00
 -- url     : https://prove2.me/submissions/e6ce1f35-e5d7-46ed-98b4-807db8112a40
 

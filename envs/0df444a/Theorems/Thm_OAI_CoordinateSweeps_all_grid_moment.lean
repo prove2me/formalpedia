@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CoordinateSweeps_all_grid_moment
 -- name    : OAI.CoordinateSweeps.all_grid_moment
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:29.147621+00:00
 -- url     : https://prove2.me/theorems/1dee102d-9af6-47b1-afe1-67ae4d7b5133

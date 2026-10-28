@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_safe_append_block
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T02:52:32.322466+00:00
 -- url     : https://prove2.me/submissions/25c586aa-46e5-44ef-8f66-6449c7c53811
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.exists_perm_of_safe_chain
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:17:46.932929+00:00
 -- url     : https://prove2.me/submissions/b9464d2b-29b7-45a1-b6af-770873ebab45
 

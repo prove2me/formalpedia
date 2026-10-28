@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Symmetric_eq_9
 -- name    : PCSPBLPAff.Symmetric.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:21.477725+00:00
 -- url     : https://prove2.me/theorems/01f1675e-8a71-4398-900c-8bac67e4ba64

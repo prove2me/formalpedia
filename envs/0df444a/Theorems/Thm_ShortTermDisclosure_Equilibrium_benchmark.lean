@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermDisclosure_Equilibrium_benchmark
 -- name    : ShortTermDisclosure.Equilibrium.benchmark
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:02.828284+00:00
 -- url     : https://prove2.me/theorems/e506ba6a-4b21-414d-81c4-a2f9c4a3ca3b

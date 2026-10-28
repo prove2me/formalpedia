@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat08_levy_upcrossing_event_measurable_at_time
 -- name    : AvramDividend.Classical.chat08_levy_upcrossing_event_measurable_at_time
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:43:18.015783+00:00
 -- url     : https://prove2.me/theorems/bb9f53a4-021a-40c6-b4e1-6b00e03ab3cd

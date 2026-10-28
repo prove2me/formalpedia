@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistVerif_Simulation_cut_edges_le
 -- name    : DistVerif.Simulation.cut_edges_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:52.290053+00:00
 -- url     : https://prove2.me/theorems/16a1dee3-9e62-440a-bdb6-de999bcb5461

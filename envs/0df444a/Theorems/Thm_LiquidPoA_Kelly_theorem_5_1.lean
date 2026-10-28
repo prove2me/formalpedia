@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidPoA_Kelly_theorem_5_1
 -- name    : LiquidPoA.Kelly.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:02:10.502913+00:00
 -- url     : https://prove2.me/theorems/f55facae-3cd4-4660-9dc8-d407c61f3b4a

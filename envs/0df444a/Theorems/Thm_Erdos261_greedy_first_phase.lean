@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_greedy_first_phase
 -- name    : Erdos261.greedy_first_phase
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:07:59.750994+00:00
 -- url     : https://prove2.me/theorems/cd87e6af-fafe-4d72-b5e5-0ac0e4ee89f8
 -- title:

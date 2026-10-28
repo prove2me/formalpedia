@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundledPay_Base_lemma_4
 -- name    : BundledPay.Base.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:54:32.891084+00:00
 -- url     : https://prove2.me/theorems/9470ef39-409d-44e3-9cfc-62495298067a

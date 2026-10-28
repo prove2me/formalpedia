@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Micromobility_Transient_lemma_H_9
 -- name    : Micromobility.Transient.lemma_H_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:21.962695+00:00
 -- url     : https://prove2.me/theorems/dc2c4efc-f8f8-444b-8a39-ddd46f2858dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P37_groupingParties
 -- name    : QAlgorithms.Papers.Independent.Renew46.P37.groupingParties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T22:13:42.639631+00:00
 -- url     : https://prove2.me/theorems/5e3302cd-6ff0-4803-925d-fa5cd88cbe68

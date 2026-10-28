@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_odd_two_letter_odd_target
 -- name    : Erdos195.odd_two_letter_odd_target
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T04:13:12.055201+00:00
 -- url     : https://prove2.me/theorems/610ba587-25bd-47b7-b399-3ec6fab9f29f
 -- title:

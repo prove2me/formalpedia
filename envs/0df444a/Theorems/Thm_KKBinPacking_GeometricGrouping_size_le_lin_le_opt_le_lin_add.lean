@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KKBinPacking_GeometricGrouping_size_le_lin_le_opt_le_lin_add
 -- name    : KKBinPacking.GeometricGrouping.size_le_lin_le_opt_le_lin_add
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T17:15:12.88943+00:00
 -- url     : https://prove2.me/theorems/5455998b-e4e9-4edb-92fc-4effa3b071a2

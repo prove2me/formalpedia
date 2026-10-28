@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos624_partition_counting
 -- name    : Erdos624.partition_counting
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T05:30:41.371239+00:00
 -- url     : https://prove2.me/theorems/6efb9f0b-6ed5-48b9-9341-8465337044b0
 -- title:

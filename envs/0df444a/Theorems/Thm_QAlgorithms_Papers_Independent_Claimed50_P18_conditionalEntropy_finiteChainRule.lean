@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P18_conditionalEntropy_finiteChainRule
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P18.conditionalEntropy_finiteChainRule
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:05:03.087651+00:00
 -- url     : https://prove2.me/theorems/85760e4d-5ece-4855-aadd-088e973448f8

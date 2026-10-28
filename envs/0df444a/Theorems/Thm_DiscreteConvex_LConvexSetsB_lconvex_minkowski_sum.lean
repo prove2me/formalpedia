@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexSetsB_lconvex_minkowski_sum
 -- name    : DiscreteConvex.LConvexSetsB.lconvex_minkowski_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:44:57.452132+00:00
 -- url     : https://prove2.me/theorems/6aa0e041-2176-4afd-9d71-2524717e042d

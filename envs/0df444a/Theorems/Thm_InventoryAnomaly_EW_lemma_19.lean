@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryAnomaly_EW_lemma_19
 -- name    : InventoryAnomaly.EW.lemma_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:27:01.75473+00:00
 -- url     : https://prove2.me/theorems/cb9ad320-9b05-48b5-aeed-228d4a4f0be0

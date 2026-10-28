@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TaoFivePrimes.rh14to100_translation_checks
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:53:17.099913+00:00
 -- url     : https://prove2.me/submissions/7f6079f4-7662-4667-9ed0-4c5b123ad29c
 

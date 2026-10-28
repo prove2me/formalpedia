@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPSTAsync_Progress_theorem_5_22
 -- name    : MPSTAsync.Progress.theorem_5_22
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:20:25.466978+00:00
 -- url     : https://prove2.me/theorems/f44de857-46a8-44b7-8605-68985be359b2

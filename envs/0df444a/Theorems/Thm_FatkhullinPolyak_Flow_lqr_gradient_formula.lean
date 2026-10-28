@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatkhullinPolyak_Flow_lqr_gradient_formula
 -- name    : FatkhullinPolyak.Flow.lqr_gradient_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:45:11.891197+00:00
 -- url     : https://prove2.me/theorems/032eddac-0f11-4ec5-bdb2-962e1b0b08e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HogFarm_SalesAlloc_lemma_2_1
 -- name    : HogFarm.SalesAlloc.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:00.766988+00:00
 -- url     : https://prove2.me/theorems/da557141-d97f-45a8-a6a8-f7fbe45f8470

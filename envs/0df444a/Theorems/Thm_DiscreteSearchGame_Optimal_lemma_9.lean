@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteSearchGame_Optimal_lemma_9
 -- name    : DiscreteSearchGame.Optimal.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:33:55.384652+00:00
 -- url     : https://prove2.me/theorems/4b69b2f1-a4a1-4c52-8542-db627b44d5c7

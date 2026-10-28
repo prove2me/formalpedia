@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothCCP_PenaltyModel_linearization_bound
 -- name    : SmoothCCP.PenaltyModel.linearization_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:47:24.441236+00:00
 -- url     : https://prove2.me/theorems/958f2e44-3687-4073-ae20-e012bb843726

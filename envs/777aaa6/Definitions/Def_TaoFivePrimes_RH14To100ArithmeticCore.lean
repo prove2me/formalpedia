@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100ArithmeticCore
 -- name    : TaoFivePrimes_RH14To100ArithmeticCore
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:45:40.887214+00:00
 -- url     : https://prove2.me/theorems/47f15563-fccf-451b-a04e-3fbf07d78a5b
 -- title:

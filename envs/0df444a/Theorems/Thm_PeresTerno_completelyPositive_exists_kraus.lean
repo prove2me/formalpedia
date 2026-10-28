@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeresTerno_completelyPositive_exists_kraus
 -- name    : PeresTerno.completelyPositive_exists_kraus
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-05T02:34:24.70977+00:00
 -- url     : https://prove2.me/theorems/13de0e91-0a77-4859-a807-4d82114a62f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P11_nonunital_not_repeatable
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P11.nonunital_not_repeatable
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:34:53.442982+00:00
 -- url     : https://prove2.me/theorems/1e50a871-6ce9-4a2e-9bf2-14cba2a8f741

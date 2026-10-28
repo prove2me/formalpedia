@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelax_IdealPenalty_proposition_2_1_structured_policies
 -- name    : InfoRelax.IdealPenalty.proposition_2_1_structured_policies
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:37.618675+00:00
 -- url     : https://prove2.me/theorems/007889ea-6b70-409b-b7e1-f5b71d513446

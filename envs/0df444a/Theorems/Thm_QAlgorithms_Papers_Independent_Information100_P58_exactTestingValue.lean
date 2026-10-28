@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_exactTestingValue
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.exactTestingValue
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:15:38.186148+00:00
 -- url     : https://prove2.me/theorems/03a6b370-184c-48d3-81c4-7a152777a40f

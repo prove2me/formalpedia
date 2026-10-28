@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ContinuumHypothesis.ch_independent_of_ZFC
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Victorized
 -- created : 2026-10-22T10:50:57.623042+00:00
 -- url     : https://prove2.me/submissions/68ec8837-329f-49ca-b538-263310ec6862
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Prove2Me proof-sketch prepared for Wentao Li.

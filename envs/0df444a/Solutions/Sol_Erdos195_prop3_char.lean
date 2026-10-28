@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.prop3_char
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T03:38:58.015651+00:00
 -- url     : https://prove2.me/submissions/2c075bee-eb60-402b-ad82-f542e491cd94
 

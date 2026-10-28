@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_survival_event_measurable_of_stopping_and_admissible
 -- name    : AvramDividend.Classical.survival_event_measurable_of_stopping_and_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:22:27.631466+00:00
 -- url     : https://prove2.me/theorems/e340e4be-5f7b-44d6-b526-434e0429f761

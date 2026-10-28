@@ -13,7 +13,7 @@
 --
 --   Then $A_B$ is convex on $[0,\infty)$ and attains its minimum there. The supremum ranges over the full measurable adaptive randomized policy class. No positivity of the minimizing multiplier is asserted here.
 -- source:
---   Xie, Astudillo, Frazier, Scully and Terenin, Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index, NeurIPS 2024; arXiv:2406.20062v3 (16 January 2025), https://arxiv.org/pdf/2406.20062v3, Appendix B.5, p. 20, Lemma 6 and definition of the Lagrangian envelope in equations (35)–(39). Mission source version: the author-revised manuscript reviewed on 23 October 2026, intended for arXiv v4; public posting is pending. References to arXiv v3 identify the earlier published version.
+--   Qian Xie, Raul Astudillo, Peter I. Frazier, Ziv Scully, and Alexander Terenin. [Cost-aware Bayesian Optimization via the Pandora's Box Gittins Index](https://arxiv.org/abs/2406.20062). NeurIPS 2024. Appendix B.5, Lemma 6 and the definition of the Lagrangian envelope.
 
 import Definitions.Def_PandoraBO_Model
 

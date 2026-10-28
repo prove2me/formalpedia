@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimisticPSRL_Concentration_proof_prop5_2_predictable_variance
 -- name    : OptimisticPSRL.Concentration.proof_prop5_2_predictable_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:40:39.660078+00:00
 -- url     : https://prove2.me/theorems/3cfcad51-77a8-4dff-b268-fb43adae3671

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_nuclear_not_operator
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.nuclear_not_operator
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:56:42.526328+00:00
 -- url     : https://prove2.me/theorems/8fda0660-9283-4466-8d20-33acd708216c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_FixedReserve_sup_over_c
 -- name    : RobustSPA.FixedReserve.sup_over_c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:56.877913+00:00
 -- url     : https://prove2.me/theorems/a3f25651-e430-4926-98ed-3ab514c346b1

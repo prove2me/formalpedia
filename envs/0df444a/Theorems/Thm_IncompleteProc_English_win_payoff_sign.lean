@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncompleteProc_English_win_payoff_sign
 -- name    : IncompleteProc.English.win_payoff_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:07:25.936971+00:00
 -- url     : https://prove2.me/theorems/7e5d5dcb-4fcf-4e8b-be5a-0a5c2d184229

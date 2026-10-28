@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTSensitivity_Info_relative_monotonicity
 -- name    : OTSensitivity.Info.relative_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:15:06.152855+00:00
 -- url     : https://prove2.me/theorems/bf2e4040-a86c-480d-99f7-40051145542e

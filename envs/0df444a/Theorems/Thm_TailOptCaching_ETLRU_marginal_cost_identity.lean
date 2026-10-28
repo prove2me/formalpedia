@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailOptCaching_ETLRU_marginal_cost_identity
 -- name    : TailOptCaching.ETLRU.marginal_cost_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:31.137067+00:00
 -- url     : https://prove2.me/theorems/3b6ca5db-53af-4ff9-8be8-2a3935568c59

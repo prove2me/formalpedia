@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_discrete_separability_bounds
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.discrete_separability_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:59:27.387515+00:00
 -- url     : https://prove2.me/theorems/c8b8142b-9431-43d2-8892-7f6b20d35d5f

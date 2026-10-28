@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_finite_log_minor_arithmetic_controls
 -- name    : OAI.PiExponent.finite_log_minor_arithmetic_controls
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-24T03:57:13.762461+00:00
 -- url     : https://prove2.me/theorems/84ac271b-41d6-4b2d-b407-b15d6158dfe8

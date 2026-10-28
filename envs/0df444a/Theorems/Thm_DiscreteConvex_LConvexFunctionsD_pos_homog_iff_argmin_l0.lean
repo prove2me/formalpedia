@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_pos_homog_iff_argmin_l0
 -- name    : DiscreteConvex.LConvexFunctionsD.pos_homog_iff_argmin_l0
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:05:35.075994+00:00
 -- url     : https://prove2.me/theorems/a04c532f-5cd9-4a8d-944f-a3e82c7ca873

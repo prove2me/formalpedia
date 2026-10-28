@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem337_exact_marker_padding
 -- name    : OAI.Problem337.exact_marker_padding
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:09.384531+00:00
 -- url     : https://prove2.me/theorems/43e4a3f6-9642-40bc-8fab-9df1904eaa41

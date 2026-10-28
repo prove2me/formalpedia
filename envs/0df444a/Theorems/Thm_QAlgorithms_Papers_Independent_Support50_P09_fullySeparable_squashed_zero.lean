@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P09_fullySeparable_squashed_zero
 -- name    : QAlgorithms.Papers.Independent.Support50.P09.fullySeparable_squashed_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T19:02:19.003802+00:00
 -- url     : https://prove2.me/theorems/a5996ef9-fe08-4621-a3a6-d0f8500c7270

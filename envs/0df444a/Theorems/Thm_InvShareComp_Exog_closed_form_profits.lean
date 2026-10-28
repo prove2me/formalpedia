@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvShareComp_Exog_closed_form_profits
 -- name    : InvShareComp.Exog.closed_form_profits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:07:15.414022+00:00
 -- url     : https://prove2.me/theorems/7c17bef8-9a23-461a-9449-0909c596dbe7

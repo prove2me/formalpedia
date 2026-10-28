@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_LogReduction_HLU_limits
 -- name    : MatrixAnalytic.LogReduction.HLU_limits
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:46:08.887405+00:00
 -- url     : https://prove2.me/theorems/5a608105-9730-4dab-aacb-3f7ecc550463

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeakGoldbach_symmetric_vonMangoldt_lower_bound_with_diagonal_seven_four_above_2e18
 -- name    : WeakGoldbach.symmetric_vonMangoldt_lower_bound_with_diagonal_seven_four_above_2e18
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:31:06.707981+00:00
 -- url     : https://prove2.me/theorems/22645f86-2177-490e-a9f8-0bea330e94ac
 -- title:

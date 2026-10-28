@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_StructuralCrouzeixReference_challenge
 -- name    : OAI.StructuralCrouzeixReference.challenge
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:27.152506+00:00
 -- url     : https://prove2.me/theorems/a02ab6cd-7c12-481f-834d-cc950c88a53b

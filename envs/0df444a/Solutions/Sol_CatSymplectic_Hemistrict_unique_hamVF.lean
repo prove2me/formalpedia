@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CatSymplectic.Hemistrict.unique_hamVF
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:44:16.788285+00:00
 -- url     : https://prove2.me/submissions/64678f35-e308-4e91-86cf-fc6ae47bd618
 

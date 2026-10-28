@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdDataSharing_Base_lemma_1
 -- name    : AdDataSharing.Base.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:00.486353+00:00
 -- url     : https://prove2.me/theorems/c94259f4-ede2-42c8-8ac6-2695186942a2

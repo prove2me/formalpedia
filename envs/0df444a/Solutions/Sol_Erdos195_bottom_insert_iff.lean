@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.bottom_insert_iff
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:05.026441+00:00
 -- url     : https://prove2.me/submissions/bbe3db1b-b49c-4a59-9edb-5521e333ac21
 

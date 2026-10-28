@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P23_renyi_joint_concavity
 -- name    : QAlgorithms.Papers.Independent.Next46.P23.renyi_joint_concavity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T18:58:18.925154+00:00
 -- url     : https://prove2.me/theorems/6e170013-52ca-4e51-8a1b-b53541d3fb1a

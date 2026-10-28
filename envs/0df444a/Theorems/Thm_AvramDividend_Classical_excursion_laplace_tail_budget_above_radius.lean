@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_excursion_laplace_tail_budget_above_radius
 -- name    : AvramDividend.Classical.excursion_laplace_tail_budget_above_radius
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T23:52:18.830238+00:00
 -- url     : https://prove2.me/theorems/397458b3-aac0-4947-9bc7-83f00e085588

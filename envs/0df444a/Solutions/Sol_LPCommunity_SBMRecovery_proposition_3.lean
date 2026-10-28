@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LPCommunity.SBMRecovery.proposition_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-23T10:50:04.181881+00:00
 -- url     : https://prove2.me/submissions/1a205da1-5f1c-4552-a3e0-791882807c14
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LPCommunity_SBMRecovery_Setting

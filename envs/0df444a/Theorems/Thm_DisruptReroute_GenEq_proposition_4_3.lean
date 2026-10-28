@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisruptReroute_GenEq_proposition_4_3
 -- name    : DisruptReroute.GenEq.proposition_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T04:31:37.418223+00:00
 -- url     : https://prove2.me/theorems/87d817e4-561b-433a-aa15-5ce7b5f39d4e

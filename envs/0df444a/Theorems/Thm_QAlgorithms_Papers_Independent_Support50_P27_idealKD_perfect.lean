@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P27_idealKD_perfect
 -- name    : QAlgorithms.Papers.Independent.Support50.P27.idealKD_perfect
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T21:09:12.460331+00:00
 -- url     : https://prove2.me/theorems/5ddb9a45-2c78-4ca8-97eb-4165582d1e3f

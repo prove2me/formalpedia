@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_extremes_val_ne
 -- name    : Erdos195.extremes_val_ne
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T02:07:21.573479+00:00
 -- url     : https://prove2.me/theorems/37e8eeaf-3b86-4d8f-88af-93a84ea8081f
 -- title:

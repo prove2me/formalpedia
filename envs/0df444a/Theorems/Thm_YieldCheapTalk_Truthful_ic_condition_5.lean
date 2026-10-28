@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldCheapTalk_Truthful_ic_condition_5
 -- name    : YieldCheapTalk.Truthful.ic_condition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:30:43.659439+00:00
 -- url     : https://prove2.me/theorems/4524248e-c258-4da7-8424-77f68e8c755d

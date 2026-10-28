@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoiseAssistedTransport_FCN_eq_8_expansion
 -- name    : NoiseAssistedTransport.FCN.eq_8_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:08.350025+00:00
 -- url     : https://prove2.me/theorems/7759026f-0d0b-4ec2-8fd9-457946ee4884

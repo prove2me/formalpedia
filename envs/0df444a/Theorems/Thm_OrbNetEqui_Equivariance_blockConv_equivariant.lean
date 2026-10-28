@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrbNetEqui_Equivariance_blockConv_equivariant
 -- name    : OrbNetEqui.Equivariance.blockConv_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:38:54.962288+00:00
 -- url     : https://prove2.me/theorems/41628886-b5da-4693-8cc0-db2116820ba8

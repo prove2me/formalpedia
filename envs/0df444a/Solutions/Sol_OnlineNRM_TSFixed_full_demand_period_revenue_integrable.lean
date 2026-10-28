@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OnlineNRM.TSFixed.full_demand_period_revenue_integrable
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-17T18:08:39.372481+00:00
 -- url     : https://prove2.me/submissions/4d490c12-8928-4a32-b5af-100697dfc3a3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Bochner.Basic
 import Definitions.Def_OnlineNRM_TSFixed_LP

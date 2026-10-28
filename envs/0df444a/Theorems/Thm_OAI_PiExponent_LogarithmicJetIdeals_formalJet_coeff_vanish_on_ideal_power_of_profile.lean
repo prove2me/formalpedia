@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_coeff_vanish_on_ideal_power_of_profile
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_coeff_vanish_on_ideal_power_of_profile
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T18:21:36.904364+00:00
 -- url     : https://prove2.me/theorems/45fff3f1-8f55-4996-ba4b-ed2f4217da68

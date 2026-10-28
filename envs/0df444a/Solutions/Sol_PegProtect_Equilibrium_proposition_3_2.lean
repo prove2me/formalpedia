@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PegProtect.Equilibrium.proposition_3_2
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T18:58:27.891797+00:00
 -- url     : https://prove2.me/submissions/be0d12b6-251c-4c2d-af7b-95fc80918c13
 

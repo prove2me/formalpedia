@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P20_testingDivergence_orderZero
 -- name    : QAlgorithms.Papers.Independent.Support50.P20.testingDivergence_orderZero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:31:09.943202+00:00
 -- url     : https://prove2.me/theorems/3ce66135-6c2f-4db4-aba4-6be27749bc78

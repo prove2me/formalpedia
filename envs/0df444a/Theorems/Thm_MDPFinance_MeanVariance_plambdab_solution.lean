@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_MeanVariance_plambdab_solution
 -- name    : MDPFinance.MeanVariance.plambdab_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:08:55.712991+00:00
 -- url     : https://prove2.me/theorems/0c66035a-e348-4cc3-a9da-acf33a61cba1

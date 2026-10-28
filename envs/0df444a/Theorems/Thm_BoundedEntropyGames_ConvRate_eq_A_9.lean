@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedEntropyGames_ConvRate_eq_A_9
 -- name    : BoundedEntropyGames.ConvRate.eq_A_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:36.725781+00:00
 -- url     : https://prove2.me/theorems/3d2a97ab-19da-4f46-90d5-f1ad7b6566a3

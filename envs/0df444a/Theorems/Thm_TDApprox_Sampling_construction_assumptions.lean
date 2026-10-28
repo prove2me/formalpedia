@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TDApprox_Sampling_construction_assumptions
 -- name    : TDApprox.Sampling.construction_assumptions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:24:45.936664+00:00
 -- url     : https://prove2.me/theorems/062e522e-4548-4e2a-b4d6-bd32579398fb

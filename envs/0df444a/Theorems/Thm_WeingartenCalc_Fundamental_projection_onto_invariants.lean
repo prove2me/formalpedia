@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeingartenCalc_Fundamental_projection_onto_invariants
 -- name    : WeingartenCalc.Fundamental.projection_onto_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:42:56.739615+00:00
 -- url     : https://prove2.me/theorems/5d8f3fb8-410c-4acd-8093-7ebda0a26633

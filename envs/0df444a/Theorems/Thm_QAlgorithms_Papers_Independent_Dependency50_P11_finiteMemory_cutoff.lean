@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P11_finiteMemory_cutoff
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P11.finiteMemory_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:38:28.530977+00:00
 -- url     : https://prove2.me/theorems/940813bf-734f-4d97-b1fb-ac9d7aa696cc

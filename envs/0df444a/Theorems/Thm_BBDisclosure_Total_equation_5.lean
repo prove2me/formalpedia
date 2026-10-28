@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBDisclosure_Total_equation_5
 -- name    : BBDisclosure.Total.equation_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:23:36.400031+00:00
 -- url     : https://prove2.me/theorems/ace86943-3ddd-4187-ae18-54ccd5041abe

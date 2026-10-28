@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_General_prekopa_logconcave
 -- name    : ChanceStateCtrl.General.prekopa_logconcave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:44.387833+00:00
 -- url     : https://prove2.me/theorems/ab50b33b-7b6c-4c71-95a2-1d99805171e0

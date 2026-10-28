@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRegimes_MarketEq_posterior_variance
 -- name    : InfoRegimes.MarketEq.posterior_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:47.316417+00:00
 -- url     : https://prove2.me/theorems/c8dd2fa5-2058-4e89-ae3e-8373255c4643

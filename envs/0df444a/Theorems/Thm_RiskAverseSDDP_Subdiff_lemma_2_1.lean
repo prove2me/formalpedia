@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskAverseSDDP_Subdiff_lemma_2_1
 -- name    : RiskAverseSDDP.Subdiff.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T04:31:57.551981+00:00
 -- url     : https://prove2.me/theorems/772e04b9-ba42-4370-95d3-d439b90a9cc1

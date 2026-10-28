@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_Shops_flow_bjob_latest_start
 -- name    : TwoAgentSched.Shops.flow_bjob_latest_start
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:30.717354+00:00
 -- url     : https://prove2.me/theorems/f678faf9-6269-4369-b970-f1d34b59ef66

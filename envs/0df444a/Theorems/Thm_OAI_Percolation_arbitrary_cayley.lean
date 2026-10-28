@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Percolation_arbitrary_cayley
 -- name    : OAI.Percolation.arbitrary_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:01.864261+00:00
 -- url     : https://prove2.me/theorems/44ffcea7-73fa-4472-b13c-bf01a37d2ad3

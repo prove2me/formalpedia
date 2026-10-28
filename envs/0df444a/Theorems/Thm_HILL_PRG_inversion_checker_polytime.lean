@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HILL_PRG_inversion_checker_polytime
 -- name    : HILL.PRG.inversion_checker_polytime
--- status  : Open
+-- status  : Proved
 -- author  : @Victorized
 -- created : 2026-10-24T04:55:09.133632+00:00
 -- url     : https://prove2.me/theorems/2f639b4d-3ad1-4e71-a728-48fd8edd4a35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RendezvousKn_Sym_W_symm
 -- name    : RendezvousKn.Sym.W_symm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:01.802021+00:00
 -- url     : https://prove2.me/theorems/ce6ea499-fafe-49ee-9fb5-a9bba816c610

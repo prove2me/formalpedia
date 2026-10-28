@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteSearchGame_Optimal_theorem_6
 -- name    : DiscreteSearchGame.Optimal.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:33:38.311394+00:00
 -- url     : https://prove2.me/theorems/66ce0697-1934-4528-8ebb-c474fc533aaf

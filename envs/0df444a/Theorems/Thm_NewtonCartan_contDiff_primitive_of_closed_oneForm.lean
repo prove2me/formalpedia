@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_contDiff_primitive_of_closed_oneForm
 -- name    : NewtonCartan.contDiff_primitive_of_closed_oneForm
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:51:01.768994+00:00
 -- url     : https://prove2.me/theorems/f5c16b4b-b381-4e08-b6cc-4e69952926b4
 -- title:

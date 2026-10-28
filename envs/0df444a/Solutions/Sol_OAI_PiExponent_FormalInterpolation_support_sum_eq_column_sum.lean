@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.support_sum_eq_column_sum
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:56:41.374967+00:00
 -- url     : https://prove2.me/submissions/c24d729a-fc5d-4f83-8e29-a87619e54cb8
 

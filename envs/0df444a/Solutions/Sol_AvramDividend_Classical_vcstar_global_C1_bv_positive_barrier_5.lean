@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for AvramDividend.Classical.vcstar_global_C1_bv_positive_barrier
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T16:36:58.45801+00:00
 -- url     : https://prove2.me/submissions/ac058fae-b1e0-46f1-b33b-a3e872f03d40
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.ENNReal.Real
 import Mathlib.MeasureTheory.Integral.IntervalIntegral.FundThmCalculus

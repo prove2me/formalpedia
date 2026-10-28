@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScheduledQueue_Diffusion_increment_moments
 -- name    : ScheduledQueue.Diffusion.increment_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:54.422281+00:00
 -- url     : https://prove2.me/theorems/f08f30e5-0113-4431-aa8a-ff0e57abab35

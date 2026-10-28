@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConservativeAD_AutoDiff_M_eq_prod_J
 -- name    : ConservativeAD.AutoDiff.M_eq_prod_J
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:42:15.698346+00:00
 -- url     : https://prove2.me/theorems/3d8da4c5-c1eb-4478-8d87-bfdff0717d61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APrioriTSP_Sampling_proposition_12
 -- name    : APrioriTSP.Sampling.proposition_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:34.625013+00:00
 -- url     : https://prove2.me/theorems/2ab685bb-b1d2-4ff6-a0a8-c3eb628bd1f0

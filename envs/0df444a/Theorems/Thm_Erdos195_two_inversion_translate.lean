@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_two_inversion_translate
 -- name    : Erdos195.two_inversion_translate
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T21:07:20.127203+00:00
 -- url     : https://prove2.me/theorems/8808c73e-db58-49fe-af94-5e6b4a6b06b5
 -- title:

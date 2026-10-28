@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.cascade_set_not_tree_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:25.311885+00:00
 -- url     : https://prove2.me/submissions/6097d168-01b5-4294-b438-65f671b7db86
 

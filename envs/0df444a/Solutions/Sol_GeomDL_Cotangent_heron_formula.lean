@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Cotangent.heron_formula
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:39:52.900908+00:00
 -- url     : https://prove2.me/submissions/56e79487-ea12-4f1d-a177-5055b5d5c00f
 

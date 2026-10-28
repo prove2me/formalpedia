@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.monoid_factor_common_hole_eventually
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:43.668384+00:00
 -- url     : https://prove2.me/submissions/062d1a42-a019-4945-9207-8639e2d9878b
 

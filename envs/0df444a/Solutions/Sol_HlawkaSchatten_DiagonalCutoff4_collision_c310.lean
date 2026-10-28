@@ -1,0 +1,16 @@
+-- Prove2me | solution 1 for HlawkaSchatten.DiagonalCutoff4.collision_c310
+-- status  : ACCEPTED   (prove)
+-- author  : @shivm
+-- created : 2026-10-28T11:41:23.631285+00:00
+-- url     : https://prove2.me/submissions/b26a31c6-3baa-41d7-8a28-6099a7f40254
+
+import Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_collision_c310_s0
+import Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_collision_c310_s1
+import Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_collision_c310_s2
+import Definitions.Def_HlawkaSchatten_DiagonalCutoff4_Localization
+open HlawkaSchatten.DiagonalConstruction HlawkaSchatten.DiagonalCutoff6 HlawkaSchatten.DiagonalCutoff4
+theorem solution (p : ℝ) (hpa : (4 : ℝ) ≤ p) (hpb : p ≤ (33/8 : ℝ))
+    (X : Fin 3 → Fin 3 → ℝ) (hX : OrderedChart p (3667/2500 : ℝ) (37167/20000 : ℝ) (37991/50000 : ℝ) X ![![0, 2, 1], ![0, 2, 1], ![1, 2, 0]] ![![true, true, true], ![true, false, true], ![true, false, true]]) : False := by
+  have h0 := collision_c310_s0 p hpa hpb X hX
+  have h1 := collision_c310_s1 p hpa hpb X hX h0
+  exact collision_c310_s2 p hpa hpb X hX h0 h1

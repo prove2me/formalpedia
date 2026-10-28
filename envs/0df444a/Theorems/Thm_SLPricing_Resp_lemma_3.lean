@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPricing_Resp_lemma_3
 -- name    : SLPricing.Resp.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:11:41.618421+00:00
 -- url     : https://prove2.me/theorems/0266fa72-8888-47f3-b2a2-5b2977c12cad

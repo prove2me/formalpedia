@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpRamseyFive_main
 -- name    : OAI.SharpRamseyFive.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:20.645127+00:00
 -- url     : https://prove2.me/theorems/8a98dfee-805c-4d38-abd5-8a5bf3c0436d

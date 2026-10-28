@@ -1,0 +1,95 @@
+-- Prove2me | Definitions.Def_D1Bound5_PellLightMatchingField7_Definitions_RecoverySplit20261024
+-- name    : D1Bound5_PellLightMatchingField7_Definitions_RecoverySplit20261024
+-- status  : Definition
+-- author  : @tp
+-- created : 2026-10-24T06:40:41.442411+00:00
+-- url     : https://prove2.me/theorems/4b9ca6f6-e92c-4325-938b-c4171563c4ce
+-- title:
+--   Pell Light Matching Field7 — verified data slices
+-- statement:
+--   Exact integer magnitudes, modular square masks and index witnesses for the finite Pell matching certificates. The named objects in this bundle include `PellMatchingLightProduction.pellMagnitudes_7`, `PellMatchingLightProduction.pellMasks_7`, `PellMatchingLightProduction.pellWitnesses_7`. The accompanying auxiliary certificates are included with their original proofs.
+-- source:
+--   D1Bound5/PellLightMatchingField7.lean, lines 7-8, SHA-256 cb2b47876127a30e241273d61a4c1a7056c0b462398797ee7f4519b7c4f90d82; D1Bound5/PellLightMatchingField7.lean, lines 10-11, SHA-256 cb2b47876127a30e241273d61a4c1a7056c0b462398797ee7f4519b7c4f90d82; D1Bound5/PellLightMatchingField7.lean, lines 13-14, SHA-256 cb2b47876127a30e241273d61a4c1a7056c0b462398797ee7f4519b7c4f90d82; D1Bound5/PellLightMatchingField7.lean, lines 16-18, SHA-256 cb2b47876127a30e241273d61a4c1a7056c0b462398797ee7f4519b7c4f90d82; D1Bound5/PellLightMatchingField7.lean, lines 20-22, SHA-256 cb2b47876127a30e241273d61a4c1a7056c0b462398797ee7f4519b7c4f90d82; D1Bound5/PellLightMatchingField7.lean, lines 24-26, SHA-256 cb2b47876127a30e241273d61a4c1a7056c0b462398797ee7f4519b7c4f90d82. Project: https://github.com/tomislav-math/d1-bound5-lean
+
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_27eb91109ec4a4ce18d7
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_8267a4e588e8ca51761f
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_70d57ddd1a377a3471d7
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_3f4e67db903eefd7efbd
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_0f2c9bda5df19bc02ba7
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_c99cd627e0ef8b243e7e
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_51c977607dd5133922de
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_cf1cc4a82c425e40f9d6
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_89a82e9e97e8e4ee16cc
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_dd481fb8ac963da830e9
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_5ba7711efe0083ec3bec
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_aaef6643a8234789e067
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_1ed7f83fc7f6469e4fbf
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_6bccec4ef0173a4ef2b6
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_1b13948f9be02d0d0927
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_e643b682a787686e5c7d
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_da7221f5e6c43769f6ee
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_8ee781c6af2f577f778c
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_60acddd4ce16a8d435d8
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_4fb432769e39f3ddfa0d
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_b84276eaf0b2eb019f0d
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_15b12dc30ec35bedaf08
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_86c998742de7b173f6d0
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_21ef3d5a4f845e77d318
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_1b7503d3c62c94d06150
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_4292364f623410c9a03e
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_d62701952b675706887d
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_eab743ad36502c994dec
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_dbd09f06478d7fc1ad1f
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_b7a3476dd8b6830928e1
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_712f586b3d85ded0c023
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_128bdcfcf3b34e5d46ca
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_a0b6ff82d377609344b8
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_84460cc264311eb4dbdf
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_b07b5e4cf718500e7390
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_1933f62d81b216f23597
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_4bfbf02eae2caa351759
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_1ece46ca4e13b79c5840
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_02617ec78fbb9076b34d
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_58b2618ca103a640e57c
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_8bc6e5fa5d389d1fe74b
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_547d02c0e9df9a9b97a0
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_7caf8806fe87b3381832
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_35fe19ae14465c572d5b
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_9cae497e06a6b8a672dd
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_833bbac9340d3d89d97d
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_9d8d7910780d595003af
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_c32505db6967e0441b7a
+import Definitions.Def_D1Bound5_Prove2MeTransfer_pellSlice_b6fef2eff26af77c07b5
+import Init
+import Definitions.Def_D1Bound5_PellLightMatching_Definitions
+
+section
+namespace D1Bound5.PellMatchingLightProduction
+set_option maxRecDepth 32768
+set_option maxHeartbeats 12000000
+
+def pellMagnitudes_7 : List Int :=
+  (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_27eb91109ec4a4ce18d7 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_8267a4e588e8ca51761f (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_70d57ddd1a377a3471d7 _root_.D1Bound5.Prove2MeTransfer.pellSlice_3f4e67db903eefd7efbd)))
+
+def pellMasks_7 : List PellLightSquareMasks :=
+  [⟨4,19,13⟩,⟨8,147,147⟩,⟨10,571,1477⟩,⟨12,5659,2533⟩,⟨18,199411,199411⟩,⟨28,332473075,332473075⟩,⟨30,303908791,303908791⟩,⟨36,96068509339,96068509339⟩,⟨40,1870503675703,328519579849⟩,⟨42,3678700564051,5117392458157⟩,⟨46,4626135339999,4626135339999⟩,⟨52,5310023542746835,5310023542746835⟩,⟨58,156326468341437115,156326468341437115⟩,⟨60,1662926210933060155,642916798280633797⟩,⟨66,61808106872519771731,85765845717156641197⟩,⟨72,9059857384996697084767,384875580742593342625⟩,⟨78,89932533647391829339959,514530376159922758013129⟩,⟨82,2911111237809585785085595,2911111237809585785085595⟩]
+
+def pellWitnesses_7 : List (List (Nat × Nat)) :=
+  (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_0f2c9bda5df19bc02ba7 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_c99cd627e0ef8b243e7e (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_51c977607dd5133922de (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_cf1cc4a82c425e40f9d6 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_89a82e9e97e8e4ee16cc (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_dd481fb8ac963da830e9 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_5ba7711efe0083ec3bec (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_aaef6643a8234789e067 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_1ed7f83fc7f6469e4fbf (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_6bccec4ef0173a4ef2b6 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_1b13948f9be02d0d0927 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_e643b682a787686e5c7d (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_da7221f5e6c43769f6ee (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_8ee781c6af2f577f778c (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_60acddd4ce16a8d435d8 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_4fb432769e39f3ddfa0d (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_b84276eaf0b2eb019f0d (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_15b12dc30ec35bedaf08 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_86c998742de7b173f6d0 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_21ef3d5a4f845e77d318 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_1b7503d3c62c94d06150 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_4292364f623410c9a03e (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_d62701952b675706887d (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_eab743ad36502c994dec (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_dbd09f06478d7fc1ad1f (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_b7a3476dd8b6830928e1 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_712f586b3d85ded0c023 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_128bdcfcf3b34e5d46ca (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_a0b6ff82d377609344b8 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_84460cc264311eb4dbdf (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_b07b5e4cf718500e7390 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_1933f62d81b216f23597 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_4bfbf02eae2caa351759 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_1ece46ca4e13b79c5840 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_02617ec78fbb9076b34d (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_58b2618ca103a640e57c (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_8bc6e5fa5d389d1fe74b (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_547d02c0e9df9a9b97a0 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_7caf8806fe87b3381832 (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_35fe19ae14465c572d5b (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_9cae497e06a6b8a672dd (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_833bbac9340d3d89d97d (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_9d8d7910780d595003af (_root_.List.append _root_.D1Bound5.Prove2MeTransfer.pellSlice_c32505db6967e0441b7a _root_.D1Bound5.Prove2MeTransfer.pellSlice_b6fef2eff26af77c07b5))))))))))))))))))))))))))))))))))))))))))))
+
+theorem pellMasks_7_valid :
+    (pellMasks_7.all fun m => m.validBool 7) = true := by
+  decide +kernel
+
+theorem pellMatching_7_checked :
+    pellLightMatchingCheck pellMasks_7 pellMagnitudes_7 pellWitnesses_7 = true := by
+  decide +kernel
+
+theorem pellMagnitudes_7_large :
+    (pellMagnitudes_7.all fun x => decide (2 ≤ x)) = true := by
+  decide +kernel
+
+end D1Bound5.PellMatchingLightProduction
+end
+
+

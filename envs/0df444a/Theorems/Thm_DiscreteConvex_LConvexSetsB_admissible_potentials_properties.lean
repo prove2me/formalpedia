@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexSetsB_admissible_potentials_properties
 -- name    : DiscreteConvex.LConvexSetsB.admissible_potentials_properties
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:47:49.561381+00:00
 -- url     : https://prove2.me/theorems/a9285f4f-1d74-4e27-8141-d22239f798b1

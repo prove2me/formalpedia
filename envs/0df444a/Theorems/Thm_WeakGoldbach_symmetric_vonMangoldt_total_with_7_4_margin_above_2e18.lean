@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeakGoldbach_symmetric_vonMangoldt_total_with_7_4_margin_above_2e18
 -- name    : WeakGoldbach.symmetric_vonMangoldt_total_with_7_4_margin_above_2e18
 -- status  : Open
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T05:39:55.460559+00:00
 -- url     : https://prove2.me/theorems/b13acb86-cee8-4443-b13d-85f4735bd848
 -- title:

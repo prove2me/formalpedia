@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManneLP_Equilibrium_lp_optimum_gives_optimal_rule
 -- name    : ManneLP.Equilibrium.lp_optimum_gives_optimal_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:14:17.04066+00:00
 -- url     : https://prove2.me/theorems/8124c91f-0e10-4bc3-8295-cc3adc7f8eab

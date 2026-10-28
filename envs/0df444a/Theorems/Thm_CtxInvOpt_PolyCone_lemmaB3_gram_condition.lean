@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_PolyCone_lemmaB3_gram_condition
 -- name    : CtxInvOpt.PolyCone.lemmaB3_gram_condition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:30:09.590828+00:00
 -- url     : https://prove2.me/theorems/29c036e4-322f-4d7e-88c4-3e2c8efac5f3

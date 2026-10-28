@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliffordTApprox_Ancilla_rounding_error
 -- name    : CliffordTApprox.Ancilla.rounding_error
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:08.132395+00:00
 -- url     : https://prove2.me/theorems/8b9882ee-ddf5-4a1d-88d2-e1aa9c14d6bb

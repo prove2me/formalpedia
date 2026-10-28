@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Grids.circulant_mulVec_eq_conv
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:36:32.883154+00:00
 -- url     : https://prove2.me/submissions/7c1e0012-c0ab-4311-8bfa-7b81f82db721
 

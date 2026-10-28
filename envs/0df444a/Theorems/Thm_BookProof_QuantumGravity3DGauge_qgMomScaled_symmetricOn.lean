@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_qgMomScaled_symmetricOn
 -- name    : BookProof.QuantumGravity3DGauge.qgMomScaled_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T17:53:47.051469+00:00
 -- url     : https://prove2.me/theorems/14c74e55-8e9b-4826-a0c9-04e799d35430

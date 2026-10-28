@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_greedy_phase_types_infinite
 -- name    : Erdos261.greedy_phase_types_infinite
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:08:02.334734+00:00
 -- url     : https://prove2.me/theorems/3a8d5aa8-457a-4538-94fd-3435abd3639b
 -- title:

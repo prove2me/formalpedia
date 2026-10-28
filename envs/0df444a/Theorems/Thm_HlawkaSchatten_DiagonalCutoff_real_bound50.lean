@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff_real_bound50
 -- name    : HlawkaSchatten.DiagonalCutoff.real_bound50
--- status  : Open
+-- status  : Proved
 -- author  : @savarin
 -- created : 2026-10-13T14:06:02.448537+00:00
 -- url     : https://prove2.me/theorems/5e7a20ab-2fe5-400a-aced-87365027a599

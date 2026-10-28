@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeberGittins_Suboptimality_theorem2_suboptimality_bound
 -- name    : WeberGittins.Suboptimality.theorem2_suboptimality_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:56:11.182823+00:00
 -- url     : https://prove2.me/theorems/3c06f6ec-9c5a-4c40-b9aa-683742392f9c

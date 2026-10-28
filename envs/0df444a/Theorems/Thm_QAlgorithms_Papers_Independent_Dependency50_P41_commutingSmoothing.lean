@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P41_commutingSmoothing
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P41.commutingSmoothing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:56:51.392541+00:00
 -- url     : https://prove2.me/theorems/296d3de6-335e-4658-840f-6ffe35ee2065

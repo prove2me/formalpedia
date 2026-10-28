@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_D1Bound5_PairLightPrepared28_left_independent_checked
+-- name    : D1Bound5.PairLightPrepared28.left_independent_checked
+-- status  : Proved
+-- author  : @tp
+-- created : 2026-10-24T02:35:59.091759+00:00
+-- url     : https://prove2.me/theorems/9f799761-3fae-46d0-a087-7bbddedcf534
+-- title:
+--   Pair Light Prepared28 — left independent checked
+-- statement:
+--   Auxiliary result `PairLightPrepared28.left_independent_checked` in the proof of the bound five for Diophantine D(1) sets in imaginary quadratic integer rings. The formal statement specifies its hypotheses and conclusion; a mathematical prose description remains to be supplied.
+-- source:
+--   D1Bound5/SmallPairLightLeft28.lean, lines 20-45, SHA-256 af533af691858b7c37e90a1326fcffaae5ae290adf72e5baad4fab414545fd44. Project: https://github.com/tomislav-math/d1-bound5-lean
+
+import Init
+import Mathlib.Data.List.Basic
+import Definitions.Def_D1Bound5_PairLightArithmetic_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData28LeftCached_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData28LeftRows_Definitions
+import Definitions.Def_D1Bound5_SmallPairLightData28Sieve_Definitions
+
+section
+namespace D1Bound5.PairLightPrepared28
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+
+
+
+
+theorem _root_.D1Bound5.PairLightPrepared28.left_independent_checked :
+    pairLightSelectedFloorIndependentBool 1 1 sieve leftCached leftRows = true := by sorry
+
+
+
+end D1Bound5.PairLightPrepared28
+end

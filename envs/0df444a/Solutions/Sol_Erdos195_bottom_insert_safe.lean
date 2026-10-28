@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.bottom_insert_safe
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:35:05.519272+00:00
 -- url     : https://prove2.me/submissions/853c8d69-3f61-44e0-b082-5dc31c92620d
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_CFixing_proposition_2_10
 -- name    : SymBoolPCSP.CFixing.proposition_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:28:51.437246+00:00
 -- url     : https://prove2.me/theorems/781d28e6-6b00-4282-afd9-342cb0c3c686

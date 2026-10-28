@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.five_moment_certificate
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-24T03:33:44.331575+00:00
 -- url     : https://prove2.me/submissions/a21e804e-b4ad-4c02-b007-f4e2b98dee2a
 

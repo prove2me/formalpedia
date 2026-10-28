@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.finite_truncated_log_matrix_surjective_of_distinct_centers
 -- status  : ACCEPTED   (disprove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T07:30:01.656764+00:00
 -- url     : https://prove2.me/submissions/c1699665-d7c3-4b68-8555-77adf6768b13
 

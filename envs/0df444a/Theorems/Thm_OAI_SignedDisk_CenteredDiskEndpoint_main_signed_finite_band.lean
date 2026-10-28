@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SignedDisk_CenteredDiskEndpoint_main_signed_finite_band
 -- name    : OAI.SignedDisk.CenteredDiskEndpoint.main_signed_finite_band
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:21.579251+00:00
 -- url     : https://prove2.me/theorems/c881525c-8981-44f0-9fea-d43f4fb565bb

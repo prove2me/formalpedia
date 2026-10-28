@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Convex_ineq15_distance_bound
 -- name    : NonsmoothLojasiewicz.Convex.ineq15_distance_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:12:35.754879+00:00
 -- url     : https://prove2.me/theorems/8f0d60b5-276c-4336-b19b-df436cdf611d

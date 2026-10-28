@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P04_optimal_complementary_slackness
 -- name    : QAlgorithms.Papers.Independent.Support50.P04.optimal_complementary_slackness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T18:46:04.30493+00:00
 -- url     : https://prove2.me/theorems/5775527f-812d-4bc2-98e5-ced194bba831

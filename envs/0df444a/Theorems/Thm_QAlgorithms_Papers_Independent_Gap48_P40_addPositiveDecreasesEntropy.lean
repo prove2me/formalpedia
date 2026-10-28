@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_addPositiveDecreasesEntropy
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.addPositiveDecreasesEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:30:10.195587+00:00
 -- url     : https://prove2.me/theorems/22a4b7b6-69fc-49de-baff-7a74947be225

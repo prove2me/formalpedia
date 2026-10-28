@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_SkipFree_gm1_matrix_geometric
 -- name    : MatrixAnalytic.SkipFree.gm1_matrix_geometric
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:44.133836+00:00
 -- url     : https://prove2.me/theorems/6e1e11d3-9c3e-4db8-9ceb-bf5effbad609

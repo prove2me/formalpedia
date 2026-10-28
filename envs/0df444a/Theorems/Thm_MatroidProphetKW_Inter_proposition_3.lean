@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidProphetKW_Inter_proposition_3
 -- name    : MatroidProphetKW.Inter.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:24:26.809035+00:00
 -- url     : https://prove2.me/theorems/f148aff9-1518-4d4d-9192-7bb38fcebbfa

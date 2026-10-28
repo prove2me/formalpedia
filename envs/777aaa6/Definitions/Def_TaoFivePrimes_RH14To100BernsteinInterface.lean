@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TaoFivePrimes_RH14To100BernsteinInterface
 -- name    : TaoFivePrimes_RH14To100BernsteinInterface
 -- status  : Definition
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T09:47:30.172586+00:00
 -- url     : https://prove2.me/theorems/37f756f0-9547-47ac-8284-ee651a306b98
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AllScaleInverseVolume_inverse_volume_without_support
 -- name    : OAI.AllScaleInverseVolume.inverse_volume_without_support
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:20.747734+00:00
 -- url     : https://prove2.me/theorems/5618cee2-64cf-4daf-a584-a923b2d1980e

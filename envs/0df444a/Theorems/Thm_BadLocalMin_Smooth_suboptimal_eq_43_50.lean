@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BadLocalMin_Smooth_suboptimal_eq_43_50
 -- name    : BadLocalMin.Smooth.suboptimal_eq_43_50
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:38:16.25699+00:00
 -- url     : https://prove2.me/theorems/d058e9a9-4457-4b09-abe0-7309206ff35f

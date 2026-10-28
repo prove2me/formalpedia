@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P40_cat_phaseErrors_distanceOne
 -- name    : QAlgorithms.Papers.Independent.Support50.P40.cat_phaseErrors_distanceOne
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T22:08:21.784912+00:00
 -- url     : https://prove2.me/theorems/9e67bc83-15a1-4c9c-9eed-deb82c51a86a

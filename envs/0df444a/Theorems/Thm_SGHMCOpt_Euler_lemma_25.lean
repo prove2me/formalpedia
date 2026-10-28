@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SGHMCOpt_Euler_lemma_25
 -- name    : SGHMCOpt.Euler.lemma_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:12.401731+00:00
 -- url     : https://prove2.me/theorems/08182730-412d-4044-8bda-5714f8d0bbd1

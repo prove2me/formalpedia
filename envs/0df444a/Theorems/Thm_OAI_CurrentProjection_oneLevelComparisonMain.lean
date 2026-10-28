@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CurrentProjection_oneLevelComparisonMain
 -- name    : OAI.CurrentProjection.oneLevelComparisonMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:33.362137+00:00
 -- url     : https://prove2.me/theorems/3b2168ce-ee0a-4b19-977b-a329887c24cb

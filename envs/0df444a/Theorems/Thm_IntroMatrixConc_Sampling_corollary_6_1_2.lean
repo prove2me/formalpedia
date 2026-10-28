@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroMatrixConc_Sampling_corollary_6_1_2
 -- name    : IntroMatrixConc.Sampling.corollary_6_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:38:01.257717+00:00
 -- url     : https://prove2.me/theorems/5d136b61-8a22-4cca-8cc0-fd15a66f3426

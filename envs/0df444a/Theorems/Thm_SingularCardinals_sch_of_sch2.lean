@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingularCardinals_sch_of_sch2
 -- name    : SingularCardinals.sch_of_sch2
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T14:49:06.531309+00:00
 -- url     : https://prove2.me/theorems/ae6d6fab-28a3-44ce-98dd-b062b2a24da8

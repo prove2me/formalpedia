@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SynDigits_Ridge_structural_split
 -- name    : SynDigits.Ridge.structural_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:23.266376+00:00
 -- url     : https://prove2.me/theorems/aaee3e3d-748b-4065-92f3-dfe4502927bd

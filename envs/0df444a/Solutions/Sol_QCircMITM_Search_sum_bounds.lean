@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QCircMITM.Search.sum_bounds
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:18:19.245984+00:00
 -- url     : https://prove2.me/submissions/35bb6941-a332-423e-8616-c14515098acc
 

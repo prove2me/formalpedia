@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GeomDL.Sets.complete_graph_aggregate_constant
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T19:37:56.287763+00:00
 -- url     : https://prove2.me/submissions/2bdf61d9-8e67-4ea3-9219-187a091b23de
 

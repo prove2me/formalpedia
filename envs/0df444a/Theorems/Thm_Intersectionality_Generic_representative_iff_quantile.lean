@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Intersectionality_Generic_representative_iff_quantile
 -- name    : Intersectionality.Generic.representative_iff_quantile
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:16.71373+00:00
 -- url     : https://prove2.me/theorems/dd961950-2bb8-4f0e-93d0-73a7eca0d019

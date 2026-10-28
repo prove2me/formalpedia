@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos261_subtracting_block
 -- name    : Erdos261.subtracting_block
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:27:28.665128+00:00
 -- url     : https://prove2.me/theorems/b757afb2-7dfc-4bf4-bbe7-8f574ccf8d8f
 -- title:

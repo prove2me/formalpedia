@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_eventual_fixed_minor_arithmetic_lower_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.eventual_fixed_minor_arithmetic_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T19:18:53.868341+00:00
 -- url     : https://prove2.me/theorems/49438e40-7dbf-45ac-8c75-3a4c53f8d7ad

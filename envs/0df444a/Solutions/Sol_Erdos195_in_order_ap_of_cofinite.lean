@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.in_order_ap_of_cofinite
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T06:12:49.469055+00:00
 -- url     : https://prove2.me/submissions/57f2eab6-0bd3-46ba-b2e2-2deef15804e7
 

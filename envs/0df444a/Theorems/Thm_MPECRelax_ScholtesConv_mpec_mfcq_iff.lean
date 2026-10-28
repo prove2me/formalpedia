@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPECRelax_ScholtesConv_mpec_mfcq_iff
 -- name    : MPECRelax.ScholtesConv.mpec_mfcq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:47:39.137253+00:00
 -- url     : https://prove2.me/theorems/d7d846e0-b424-431f-9220-5bd9f158bf6b

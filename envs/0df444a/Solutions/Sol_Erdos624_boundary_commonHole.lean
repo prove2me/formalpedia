@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos624.boundary_commonHole
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T19:30:20.252502+00:00
 -- url     : https://prove2.me/submissions/2dd2574d-9a5b-461d-a216-49d38e503789
 

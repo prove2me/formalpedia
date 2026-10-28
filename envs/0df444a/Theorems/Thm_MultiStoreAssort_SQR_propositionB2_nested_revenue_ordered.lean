@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_propositionB2_nested_revenue_ordered
 -- name    : MultiStoreAssort.SQR.propositionB2_nested_revenue_ordered
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:54.478322+00:00
 -- url     : https://prove2.me/theorems/bdaf5d39-9ea4-4618-9d80-df37cb285745

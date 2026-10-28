@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeakMFG_Uniqueness_eq_7_11_7_12
 -- name    : WeakMFG.Uniqueness.eq_7_11_7_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:26:33.311226+00:00
 -- url     : https://prove2.me/theorems/1d59a197-91db-4ab0-b158-2cbebd1e9411

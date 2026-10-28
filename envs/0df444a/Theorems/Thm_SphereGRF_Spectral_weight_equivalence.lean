@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SphereGRF_Spectral_weight_equivalence
 -- name    : SphereGRF.Spectral.weight_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:39:56.495128+00:00
 -- url     : https://prove2.me/theorems/beb2d31b-499e-4da2-a9df-82dd0ca012bc

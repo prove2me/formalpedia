@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_TreeRules_scale_invariance
 -- name    : SeqLoss.TreeRules.scale_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:26.042017+00:00
 -- url     : https://prove2.me/theorems/4087c0d7-cd1f-4cc0-bafe-529a7c8ec317

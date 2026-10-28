@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenComplexity_Tradeoff_eqs_9_10
 -- name    : TokenComplexity.Tradeoff.eqs_9_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:08.550245+00:00
 -- url     : https://prove2.me/theorems/e349a3b4-5c91-4e93-ae7a-e40adf43e271

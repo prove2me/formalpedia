@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MDPComplexity.AverageCost.min_plus_walks
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T17:24:04.040725+00:00
 -- url     : https://prove2.me/submissions/4532ee3c-202c-4428-8d5a-5e6eda4e97e0
 

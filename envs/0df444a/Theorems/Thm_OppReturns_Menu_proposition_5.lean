@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OppReturns_Menu_proposition_5
 -- name    : OppReturns.Menu.proposition_5
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:43.149082+00:00
 -- url     : https://prove2.me/theorems/77223054-86e5-4e91-a198-1c3196697426

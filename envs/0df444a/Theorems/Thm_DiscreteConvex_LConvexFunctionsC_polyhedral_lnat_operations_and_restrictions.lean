@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsC_polyhedral_lnat_operations_and_restrictions
 -- name    : DiscreteConvex.LConvexFunctionsC.polyhedral_lnat_operations_and_restrictions
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:40:24.338035+00:00
 -- url     : https://prove2.me/theorems/cfb0003c-f443-47b7-96ff-89e617ad979c

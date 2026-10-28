@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_sameTrajectories_geomGamma
 -- name    : NewtonCartan.sameTrajectories_geomGamma
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:13:57.661993+00:00
 -- url     : https://prove2.me/theorems/7cc654f8-a85b-48dd-8922-34260196cd94
 -- title:

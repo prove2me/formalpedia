@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PESContracts_Linear_rent_free_upper_bound
 -- name    : PESContracts.Linear.rent_free_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:30.033864+00:00
 -- url     : https://prove2.me/theorems/25834ba7-ccfc-46df-89df-27fb74f71180

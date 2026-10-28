@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HedgeInv_Order_dap_third_deriv_antitone
 -- name    : HedgeInv.Order.dap_third_deriv_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:22.627333+00:00
 -- url     : https://prove2.me/theorems/c0934076-5dc9-431d-8c78-d06f4ce7b3c3

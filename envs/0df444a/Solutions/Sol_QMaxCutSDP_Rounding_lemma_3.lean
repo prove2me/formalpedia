@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QMaxCutSDP.Rounding.lemma_3
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T21:00:51.586624+00:00
 -- url     : https://prove2.me/submissions/f8260f27-173d-43d1-907f-2fb027d6d4e6
 

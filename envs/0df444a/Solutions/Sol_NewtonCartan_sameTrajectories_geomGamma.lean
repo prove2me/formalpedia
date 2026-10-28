@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NewtonCartan.sameTrajectories_geomGamma
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T06:14:23.2944+00:00
 -- url     : https://prove2.me/submissions/e96cb8c1-be79-43ca-90a4-5fe52d5c61a8
 

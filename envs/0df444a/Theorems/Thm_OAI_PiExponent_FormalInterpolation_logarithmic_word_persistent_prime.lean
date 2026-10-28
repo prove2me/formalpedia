@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_word_persistent_prime
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmic_word_persistent_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T23:14:18.054619+00:00
 -- url     : https://prove2.me/theorems/4b5b9633-39f3-4a4d-96cd-1fcbf52bb889

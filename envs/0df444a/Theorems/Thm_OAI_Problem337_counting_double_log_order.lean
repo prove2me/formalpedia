@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem337_counting_double_log_order
 -- name    : OAI.Problem337.counting_double_log_order
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:08.980996+00:00
 -- url     : https://prove2.me/theorems/cc62b393-015e-4613-abff-2ff863881479

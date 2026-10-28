@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_LowerBound_regret_eq_neg_beta_sum_sqErr
 -- name    : KeskinZeevi.LowerBound.regret_eq_neg_beta_sum_sqErr
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T02:43:35.301281+00:00
 -- url     : https://prove2.me/theorems/291db0d6-d156-4669-a4bd-326e0853ac7f

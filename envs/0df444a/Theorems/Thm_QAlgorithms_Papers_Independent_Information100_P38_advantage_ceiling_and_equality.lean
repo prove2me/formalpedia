@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_advantage_ceiling_and_equality
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.advantage_ceiling_and_equality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:06:10.332785+00:00
 -- url     : https://prove2.me/theorems/919af263-d1ef-4d9f-ba14-ffd0a576d7d5

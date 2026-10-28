@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Univariate_watson_bound
 -- name    : RobustSAA.Univariate.watson_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:17:14.002017+00:00
 -- url     : https://prove2.me/theorems/7c4894e4-2688-4500-a786-105410107fb3

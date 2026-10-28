@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropicBarrier_Universal_eq7_variance_bound
 -- name    : EntropicBarrier.Universal.eq7_variance_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:26:26.624158+00:00
 -- url     : https://prove2.me/theorems/d1be0a34-4af2-4849-ba62-abde9ac48ed9

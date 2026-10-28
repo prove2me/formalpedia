@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Opt_reroute_competitor
 -- name    : MartOT.Opt.reroute_competitor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:26.750295+00:00
 -- url     : https://prove2.me/theorems/52168fb8-bce4-47f0-8beb-a7e7ccf4cbab

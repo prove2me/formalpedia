@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_c0_l1_attainment
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.c0_l1_attainment
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:58:21.503791+00:00
 -- url     : https://prove2.me/theorems/85d2de26-72ae-49dd-9a8b-6563c1852f34

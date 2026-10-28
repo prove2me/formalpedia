@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_FOInterp_Iind_coarsening
 -- name    : TwinWidthI.FOInterp.Iind_coarsening
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:45:27.393066+00:00
 -- url     : https://prove2.me/theorems/9373f801-e26d-49e6-8947-85d7fea31076

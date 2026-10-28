@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaVaRAmb_Robust_corollary_1
 -- name    : LambdaVaRAmb.Robust.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:41.613981+00:00
 -- url     : https://prove2.me/theorems/fe46f1f4-6b62-4783-844b-bfb1dec39288

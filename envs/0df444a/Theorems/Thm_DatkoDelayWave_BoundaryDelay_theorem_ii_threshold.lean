@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DatkoDelayWave_BoundaryDelay_theorem_ii_threshold
 -- name    : DatkoDelayWave.BoundaryDelay.theorem_ii_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:00:12.004361+00:00
 -- url     : https://prove2.me/theorems/8101ba50-9e81-4093-ba84-f9b9fd53491d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_hermitian_parity
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.hermitian_parity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:40:29.725168+00:00
 -- url     : https://prove2.me/theorems/54fe44c4-b427-471f-a109-6d6d13f9aeb8

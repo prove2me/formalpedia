@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P26_completeTester_invertibleNormalization
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P26.completeTester_invertibleNormalization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:44:20.798168+00:00
 -- url     : https://prove2.me/theorems/a029c0ae-f8a4-43e3-a41a-daa81a587552

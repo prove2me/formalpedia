@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CurrentProjection_fiberBlockMain
 -- name    : OAI.CurrentProjection.fiberBlockMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:32.829818+00:00
 -- url     : https://prove2.me/theorems/7f6e379c-12a5-4659-a06e-307825bf29fe

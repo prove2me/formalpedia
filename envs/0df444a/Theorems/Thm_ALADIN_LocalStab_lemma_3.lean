@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALADIN_LocalStab_lemma_3
 -- name    : ALADIN.LocalStab.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:20.244817+00:00
 -- url     : https://prove2.me/theorems/b97d81b0-ec0d-4c47-abe7-e7495ed1d2fc

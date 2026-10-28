@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SliceRibbon_round_unknot_isRibbon
 -- name    : SliceRibbon.round_unknot_isRibbon
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T11:56:38.714414+00:00
 -- url     : https://prove2.me/theorems/e12b0574-5960-42a2-89d0-2cc03654d5d2

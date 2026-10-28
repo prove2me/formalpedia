@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.gaussian_levy_large_jump_finite
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:18:21.031751+00:00
 -- url     : https://prove2.me/submissions/12ad9cec-e19f-41b5-b1a1-93697a049ea3
 

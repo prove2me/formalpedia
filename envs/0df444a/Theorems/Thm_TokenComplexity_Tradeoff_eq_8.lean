@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenComplexity_Tradeoff_eq_8
 -- name    : TokenComplexity.Tradeoff.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:03.90684+00:00
 -- url     : https://prove2.me/theorems/af392f34-adbf-4254-b255-0ebb415182e6

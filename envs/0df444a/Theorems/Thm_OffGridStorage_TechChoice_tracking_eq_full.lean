@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffGridStorage_TechChoice_tracking_eq_full
 -- name    : OffGridStorage.TechChoice.tracking_eq_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:49.10714+00:00
 -- url     : https://prove2.me/theorems/9291ab6b-c9cf-44ea-a01b-5af076fe569b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolicyGradTheory_LogBarrier_log_barrier_stationary_near_optimal
 -- name    : PolicyGradTheory.LogBarrier.log_barrier_stationary_near_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:58:40.769198+00:00
 -- url     : https://prove2.me/theorems/a50a9c68-bf7b-406c-872d-012332996c0a

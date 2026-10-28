@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.zero_one_three_nine
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T05:42:58.960634+00:00
 -- url     : https://prove2.me/submissions/57c5f318-931c-4aff-833a-83aa9c0e009e
 

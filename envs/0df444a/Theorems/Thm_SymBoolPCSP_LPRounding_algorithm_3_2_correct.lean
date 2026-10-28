@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_LPRounding_algorithm_3_2_correct
 -- name    : SymBoolPCSP.LPRounding.algorithm_3_2_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:30:36.51749+00:00
 -- url     : https://prove2.me/theorems/29e5edea-4bbc-41ae-81a8-584ef0c20a7d

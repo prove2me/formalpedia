@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bagaria_berkeley_reflects_reinhardt
 -- name    : Bagaria.berkeley_reflects_reinhardt
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-10-19T23:16:13.428063+00:00
 -- url     : https://prove2.me/theorems/275ed984-84b2-49ba-abaf-79073c1fc549

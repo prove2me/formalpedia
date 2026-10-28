@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.twosComplement_no_exhaustive_safe_chain
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:18.196336+00:00
 -- url     : https://prove2.me/submissions/cdfb006d-61d2-4bca-9b01-428f01a4f000
 

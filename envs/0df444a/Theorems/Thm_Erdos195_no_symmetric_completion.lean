@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos195_no_symmetric_completion
 -- name    : Erdos195.no_symmetric_completion
 -- status  : Proved
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-23T13:11:36.507948+00:00
 -- url     : https://prove2.me/theorems/907a2e8d-696a-41c4-99bd-2594d06f9810
 -- title:

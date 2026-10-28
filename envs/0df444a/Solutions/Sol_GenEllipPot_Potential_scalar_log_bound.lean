@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GenEllipPot.Potential.scalar_log_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-21T16:29:20.403796+00:00
 -- url     : https://prove2.me/submissions/c765f06f-faa3-4054-b2be-f4462eb53786
 

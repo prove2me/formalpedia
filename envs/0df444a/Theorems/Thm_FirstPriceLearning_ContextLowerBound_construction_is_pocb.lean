@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_ContextLowerBound_construction_is_pocb
 -- name    : FirstPriceLearning.ContextLowerBound.construction_is_pocb
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:34:13.134318+00:00
 -- url     : https://prove2.me/theorems/11879163-e2ef-463e-a01e-e451f8ce7848

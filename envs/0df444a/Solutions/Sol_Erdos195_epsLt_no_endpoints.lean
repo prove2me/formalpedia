@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos195.epsLt_no_endpoints
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan Cheung
+-- author  : @Ethan Cheung Wang
 -- created : 2026-10-22T21:24:13.795381+00:00
 -- url     : https://prove2.me/submissions/1ecb040e-c7a0-4086-8cdf-4358138853bc
 

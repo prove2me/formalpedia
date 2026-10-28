@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_CoreSelection_userCentric_mem_allocSet
 -- name    : MusicStreaming.CoreSelection.userCentric_mem_allocSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:34.113952+00:00
 -- url     : https://prove2.me/theorems/aab5dcd6-3486-4bb4-bb10-f85528defc9f

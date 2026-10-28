@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCMu_HeavyTraffic_lemma_1
 -- name    : GenCMu.HeavyTraffic.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:43:10.62007+00:00
 -- url     : https://prove2.me/theorems/44ef561d-e14f-4f86-b129-de1879e85750

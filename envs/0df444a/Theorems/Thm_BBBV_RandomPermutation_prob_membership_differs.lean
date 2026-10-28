@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBBV_RandomPermutation_prob_membership_differs
 -- name    : BBBV.RandomPermutation.prob_membership_differs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:07:22.720035+00:00
 -- url     : https://prove2.me/theorems/e045f79b-8dfe-4617-94e5-c46f3f71551f

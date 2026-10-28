@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.actual_minor_log_bound_by_translation_expansion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-24T04:01:59.197052+00:00
 -- url     : https://prove2.me/submissions/7de66d58-c3e6-44c6-9efc-061b291625dd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_TruncatedPolynomialJets
 import Definitions.Def_OAI_PiExponent_MinorTranslationData

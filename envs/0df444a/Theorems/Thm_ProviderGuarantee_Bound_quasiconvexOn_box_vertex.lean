@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProviderGuarantee_Bound_quasiconvexOn_box_vertex
 -- name    : ProviderGuarantee.Bound.quasiconvexOn_box_vertex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:43:06.392222+00:00
 -- url     : https://prove2.me/theorems/d0f36358-8fa6-455a-935f-9de30603c5b5

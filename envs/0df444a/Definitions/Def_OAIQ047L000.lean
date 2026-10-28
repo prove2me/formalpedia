@@ -1,0 +1,3931 @@
+-- Prove2me | Definitions.Def_OAIQ047L000
+-- name    : OAIQ047L000
+-- status  : Definition
+-- author  : @dbenbenn
+-- created : 2026-10-28T06:43:37.422066+00:00
+-- url     : https://prove2.me/theorems/fc4f3dd1-00f8-4f2c-a0d1-7d0d6732083f
+-- title:
+--   Definitions bundle OAIQ047L000 of the split of OpenAI, Uniform stability of the spherical Laughlin gap (result family 269)
+-- statement:
+--   A definitions bundle of the split of OpenAI's proof of `OAI.Laughlin.mainTarget_proved`, carved from OpenAI's openai/math development (OpenAI, *Uniform stability of the spherical Laughlin gap (result family 269)*, OpenAI Math Release, October 5, 2026, result family 269, [github.com/openai/math](https://github.com/openai/math) at commit adc7f12, Apache License 2.0) and ported to Lean 4.33.1 and Mathlib 0df444a. The declarations and their proofs are OpenAI's.
+--
+--   **Contents.** It holds 199 declarations of OpenAI's Lean: 194 definitions and 5 theorems. The definitions and types are `OAI.Laughlin.Certificate.GramCompute.LFast`, `OAI.Laughlin.Certificate.GramCompute.ZFast`, `OAI.Laughlin.Certificate.GramCompute.quadruples`, `OAI.Laughlin.Certificate.L`, `OAI.Laughlin.Certificate.LFast`, `OAI.Laughlin.Certificate.MatrixCompute.compressed`, `OAI.Laughlin.Certificate.MatrixCompute.copyLabel`, `OAI.Laughlin.Certificate.MatrixCompute.copyWeight`, `OAI.Laughlin.Certificate.MatrixCompute.middle`, `OAI.Laughlin.Certificate.RowCompute.UFast`, `OAI.Laughlin.Certificate.RowCompute.VFast`, `OAI.Laughlin.Certificate.RowCompute.rows`, `OAI.Laughlin.Certificate.RowCompute.yEntryIntegralFast`, `OAI.Laughlin.Certificate.RowCompute.yRowIntegralFast`, `OAI.Laughlin.Certificate.U`, `OAI.Laughlin.Certificate.UFast`, `OAI.Laughlin.Certificate.V`, `OAI.Laughlin.Certificate.VFast`, `OAI.Laughlin.Certificate.X`, `OAI.Laughlin.Certificate.Y`, `OAI.Laughlin.Certificate.Z`, `OAI.Laughlin.Certificate.ZFast`, `OAI.Laughlin.Certificate.arithmeticScale`, `OAI.Laughlin.Certificate.candidateY_10`, `OAI.Laughlin.Certificate.candidateY_11`, `OAI.Laughlin.Certificate.candidateY_12`, `OAI.Laughlin.Certificate.candidateY_13`, `OAI.Laughlin.Certificate.candidateY_14`, `OAI.Laughlin.Certificate.candidateY_15`, `OAI.Laughlin.Certificate.candidateY_16`, `OAI.Laughlin.Certificate.candidateY_17`, `OAI.Laughlin.Certificate.candidateY_18`, `OAI.Laughlin.Certificate.candidateY_19`, `OAI.Laughlin.Certificate.candidateY_20`, `OAI.Laughlin.Certificate.candidateY_21`, `OAI.Laughlin.Certificate.candidateY_22`, `OAI.Laughlin.Certificate.candidateY_23`, `OAI.Laughlin.Certificate.candidateY_9`, `OAI.Laughlin.Certificate.candidateZ_10`, `OAI.Laughlin.Certificate.candidateZ_11` and 154 more.
+--
+--   **Sources.** They come from these modules of lean/OAI/Analysis, in whole or in part: `Laughlin_Asymptotics_LocalDiagonalLimit`, `Laughlin_Asymptotics_LocalMetricLimit`, `Laughlin_Exterior_OccupationDiagonal`, `Laughlin_FiniteFlux_Data09`, `Laughlin_FiniteFlux_Data10`, `Laughlin_FiniteFlux_Data11`, `Laughlin_FiniteFlux_Data12`, `Laughlin_FiniteFlux_Data13`, `Laughlin_FiniteFlux_Data14`, `Laughlin_FiniteFlux_Data15`, `Laughlin_FiniteFlux_Data16`, `Laughlin_FiniteFlux_Data17`, `Laughlin_FiniteFlux_Data18`, `Laughlin_FiniteFlux_Data19`, `Laughlin_FiniteFlux_Data20`, `Laughlin_FiniteFlux_Data21`, `Laughlin_FiniteFlux_Data22`, `Laughlin_FiniteFlux_Data23`, `Laughlin_FiniteFlux_LDLData08`, `Laughlin_FiniteFlux_Positive05`, `Laughlin_FiniteFlux_Positive07`, `Laughlin_Fock_Adjoint`, `Laughlin_Fock_Bidegree`, `Laughlin_Fock_Creation`, `Laughlin_Fock_HaarQuadratic`, `Laughlin_Fock_Quadruple`, `Laughlin_Fock_RankOneHaar`, `Laughlin_FourBody_Basic`, `Laughlin_FourBody_CoefficientLimit`, `Laughlin_FourBody_Coefficients`, `Laughlin_FourBody_ErrorLimit`, `Laughlin_FourBody_Fast`, `Laughlin_FourBody_FastChoose`, `Laughlin_FourBody_GramCompute`, `Laughlin_FourBody_HaarTransfer`, `Laughlin_FourBody_Integral`, `Laughlin_FourBody_Matrix`, `Laughlin_FourBody_MatrixCompute`, `Laughlin_FourBody_MiddleLimit`, `Laughlin_FourBody_PhysicalCertificate`, `Laughlin_FourBody_Quadruples`, `Laughlin_FourBody_RowCompute`, `Laughlin_FourBody_Scaled`, `Laughlin_FourBody_Square`, `Laughlin_FourBody_TransferCoefficients`, `Laughlin_FourBody_TransferConjugation`, `Laughlin_FourBody_Ungroup`, `Laughlin_FourBody_UniformTransfer`, `Laughlin_Operators_CAR`, `Laughlin_Operators_Certificate`, `Laughlin_Operators_CopyQuadraticMatrix`, `Laughlin_Operators_MatrixMetricError`, `Laughlin_Operators_NormalOrder`, `Laughlin_Operators_PhysicalCoupling`, `Laughlin_Pair_Conjugation`, `Laughlin_Pair_LadderIntertwining`, `Laughlin_Polynomial_OscillatorPolynomial`, `Laughlin_Polynomial_SourceIntegerPolynomial`, `Laughlin_Spin_Basic`, `Laughlin_Spin_Basis`, `Laughlin_Spin_DescendantNorm`, `Laughlin_Spin_Highest2`, `Laughlin_Spin_HighestSpace`, `Laughlin_Spin_LadderMatrix`, `Laughlin_Spin_Sl2DescendantNorm`, `Laughlin_Spin_TensorAction`, `Laughlin_Spin_TripleLadderIntertwining`, `Laughlin_Spin_WeightSlice`, `Laughlin_ThreeBody_Descendants`, `Laughlin_ThreeBody_HighestEigen`, `Laughlin_ThreeBody_IntegerPolynomial`, `Laughlin_ThreeBody_NullSectors`, `Laughlin_ThreeBody_PhysicalKernel`, `Laughlin_ThreeBody_SpinCovariance`, `Laughlin_ThreeBody_SpinProjectors`.
+--
+--   **Imports.** It imports the published bundle `Def_Laughlin`.
+--
+--   **Imported by** (directly, in this split): the bundles `OAIQ047L002`, `OAIQ047L003`, `OAIQ047L009`, `OAIQ047L010` and `OAIQ047L012`; the statements `OAI_Laughlin_Certificate_candidateLDL_11`, `OAI_Laughlin_Certificate_candidateLDL_12`, `OAI_Laughlin_Certificate_candidateLDL_13`, `OAI_Laughlin_Certificate_candidateLDL_14`, `OAI_Laughlin_Certificate_candidateLDL_15`, `OAI_Laughlin_Certificate_candidateLDL_16`, `OAI_Laughlin_Certificate_candidateLDL_17`, `OAI_Laughlin_Certificate_candidateLDL_18`, `OAI_Laughlin_Certificate_candidateLDL_19`, `OAI_Laughlin_Certificate_candidateLDL_20`, `OAI_Laughlin_Certificate_candidateLDL_21`, `OAI_Laughlin_Certificate_candidateLDL_22`, `OAI_Laughlin_Certificate_candidateLDL_23`, `OAI_Laughlin_Certificate_computeLDL_12_2_4`, `OAI_Laughlin_Certificate_computeLDL_12_2_5`, `OAI_Laughlin_Certificate_computeLDL_12_3_0`, `OAI_Laughlin_Certificate_computeLDL_12_3_1`, `OAI_Laughlin_Certificate_computeLDL_12_3_2`, `OAI_Laughlin_Certificate_computeLDL_12_3_3`, `OAI_Laughlin_Certificate_computeLDL_12_3_4`, `OAI_Laughlin_Certificate_computeLDL_12_3_5`, `OAI_Laughlin_Certificate_computeLDL_12_4_0`, `OAI_Laughlin_Certificate_computeLDL_12_4_1`, `OAI_Laughlin_Certificate_computeLDL_12_4_2`, `OAI_Laughlin_Certificate_computeLDL_12_4_3`, `OAI_Laughlin_Certificate_computeLDL_12_4_4`, `OAI_Laughlin_Certificate_computeLDL_12_4_5`, `OAI_Laughlin_Certificate_computeLDL_12_5_0`, `OAI_Laughlin_Certificate_computeLDL_12_5_1`, `OAI_Laughlin_Certificate_computeLDL_12_5_2`, `OAI_Laughlin_Certificate_computeLDL_12_5_3`, `OAI_Laughlin_Certificate_computeLDL_12_5_4`, `OAI_Laughlin_Certificate_computeLDL_12_5_5`, `OAI_Laughlin_Certificate_computeLDL_13_2_4`, `OAI_Laughlin_Certificate_computeLDL_13_2_5`, `OAI_Laughlin_Certificate_computeLDL_13_2_6`, `OAI_Laughlin_Certificate_computeLDL_13_3_0`, `OAI_Laughlin_Certificate_computeLDL_13_3_1`, `OAI_Laughlin_Certificate_computeLDL_13_3_2`, `OAI_Laughlin_Certificate_computeLDL_13_3_3`, `OAI_Laughlin_Certificate_computeLDL_13_3_4`, `OAI_Laughlin_Certificate_computeLDL_13_3_5`, `OAI_Laughlin_Certificate_computeLDL_13_3_6`, `OAI_Laughlin_Certificate_computeLDL_13_4_0`, `OAI_Laughlin_Certificate_computeLDL_13_4_1`, `OAI_Laughlin_Certificate_computeLDL_13_4_2`, `OAI_Laughlin_Certificate_computeLDL_13_4_3`, `OAI_Laughlin_Certificate_computeLDL_13_4_4`, `OAI_Laughlin_Certificate_computeLDL_13_4_5`, `OAI_Laughlin_Certificate_computeLDL_13_4_6`, `OAI_Laughlin_Certificate_computeLDL_13_5_0`, `OAI_Laughlin_Certificate_computeLDL_13_5_1`, `OAI_Laughlin_Certificate_computeLDL_13_5_2`, `OAI_Laughlin_Certificate_computeLDL_13_5_3`, `OAI_Laughlin_Certificate_computeLDL_13_5_4`, `OAI_Laughlin_Certificate_computeLDL_13_5_5`, `OAI_Laughlin_Certificate_computeLDL_13_5_6`, `OAI_Laughlin_Certificate_computeLDL_13_6_0`, `OAI_Laughlin_Certificate_computeLDL_13_6_1`, `OAI_Laughlin_Certificate_computeLDL_13_6_2`, `OAI_Laughlin_Certificate_computeLDL_13_6_3`, `OAI_Laughlin_Certificate_computeLDL_13_6_4`, `OAI_Laughlin_Certificate_computeLDL_13_6_5`, `OAI_Laughlin_Certificate_computeLDL_13_6_6`, `OAI_Laughlin_Certificate_computeLDL_14_2_4`, `OAI_Laughlin_Certificate_computeLDL_14_2_5`, `OAI_Laughlin_Certificate_computeLDL_14_2_6`, `OAI_Laughlin_Certificate_computeLDL_14_3_0`, `OAI_Laughlin_Certificate_computeLDL_14_3_1`, `OAI_Laughlin_Certificate_computeLDL_14_3_2`, `OAI_Laughlin_Certificate_computeLDL_14_3_3`, `OAI_Laughlin_Certificate_computeLDL_14_3_4`, `OAI_Laughlin_Certificate_computeLDL_14_3_5`, `OAI_Laughlin_Certificate_computeLDL_14_3_6`, `OAI_Laughlin_Certificate_computeLDL_14_4_0`, `OAI_Laughlin_Certificate_computeLDL_14_4_1`, `OAI_Laughlin_Certificate_computeLDL_14_4_2`, `OAI_Laughlin_Certificate_computeLDL_14_4_3`, `OAI_Laughlin_Certificate_computeLDL_14_4_4`, `OAI_Laughlin_Certificate_computeLDL_14_4_5`, `OAI_Laughlin_Certificate_computeLDL_14_4_6`, `OAI_Laughlin_Certificate_computeLDL_14_5_0`, `OAI_Laughlin_Certificate_computeLDL_14_5_1`, `OAI_Laughlin_Certificate_computeLDL_14_5_2`, `OAI_Laughlin_Certificate_computeLDL_14_5_3`, `OAI_Laughlin_Certificate_computeLDL_14_5_4`, `OAI_Laughlin_Certificate_computeLDL_14_5_5`, `OAI_Laughlin_Certificate_computeLDL_14_5_6`, `OAI_Laughlin_Certificate_computeLDL_14_6_0`, `OAI_Laughlin_Certificate_computeLDL_14_6_1`, `OAI_Laughlin_Certificate_computeLDL_14_6_2`, `OAI_Laughlin_Certificate_computeLDL_14_6_3`, `OAI_Laughlin_Certificate_computeLDL_14_6_4`, `OAI_Laughlin_Certificate_computeLDL_14_6_5`, `OAI_Laughlin_Certificate_computeLDL_14_6_6`, `OAI_Laughlin_Certificate_computeLDL_15_2_5`, `OAI_Laughlin_Certificate_computeLDL_15_2_6`, `OAI_Laughlin_Certificate_computeLDL_15_2_7`, `OAI_Laughlin_Certificate_computeLDL_15_3_0`, `OAI_Laughlin_Certificate_computeLDL_15_3_1`, `OAI_Laughlin_Certificate_computeLDL_15_3_2`, `OAI_Laughlin_Certificate_computeLDL_15_3_3`, `OAI_Laughlin_Certificate_computeLDL_15_3_4`, `OAI_Laughlin_Certificate_computeLDL_15_3_5`, `OAI_Laughlin_Certificate_computeLDL_15_3_6`, `OAI_Laughlin_Certificate_computeLDL_15_3_7`, `OAI_Laughlin_Certificate_computeLDL_15_4_0`, `OAI_Laughlin_Certificate_computeLDL_15_4_1`, `OAI_Laughlin_Certificate_computeLDL_15_4_2`, `OAI_Laughlin_Certificate_computeLDL_15_4_3`, `OAI_Laughlin_Certificate_computeLDL_15_4_4`, `OAI_Laughlin_Certificate_computeLDL_15_4_5`, `OAI_Laughlin_Certificate_computeLDL_15_4_6`, `OAI_Laughlin_Certificate_computeLDL_15_4_7`, `OAI_Laughlin_Certificate_computeLDL_15_5_0`, `OAI_Laughlin_Certificate_computeLDL_15_5_1`, `OAI_Laughlin_Certificate_computeLDL_15_5_2`, `OAI_Laughlin_Certificate_computeLDL_15_5_3`, `OAI_Laughlin_Certificate_computeLDL_15_5_4`, `OAI_Laughlin_Certificate_computeLDL_15_5_5`, `OAI_Laughlin_Certificate_computeLDL_15_5_6`, `OAI_Laughlin_Certificate_computeLDL_15_5_7`, `OAI_Laughlin_Certificate_computeLDL_15_6_0`, `OAI_Laughlin_Certificate_computeLDL_15_6_1`, `OAI_Laughlin_Certificate_computeLDL_15_6_2`, `OAI_Laughlin_Certificate_computeLDL_15_6_3`, `OAI_Laughlin_Certificate_computeLDL_15_6_4`, `OAI_Laughlin_Certificate_computeLDL_15_6_5`, `OAI_Laughlin_Certificate_computeLDL_15_6_6`, `OAI_Laughlin_Certificate_computeLDL_15_6_7`, `OAI_Laughlin_Certificate_computeLDL_15_7_0`, `OAI_Laughlin_Certificate_computeLDL_15_7_1`, `OAI_Laughlin_Certificate_computeLDL_15_7_2`, `OAI_Laughlin_Certificate_computeLDL_15_7_3`, `OAI_Laughlin_Certificate_computeLDL_15_7_4`, `OAI_Laughlin_Certificate_computeLDL_15_7_5`, `OAI_Laughlin_Certificate_computeLDL_15_7_6`, `OAI_Laughlin_Certificate_computeLDL_15_7_7`, `OAI_Laughlin_Certificate_computeLDL_16_2_5`, `OAI_Laughlin_Certificate_computeLDL_16_2_6`, `OAI_Laughlin_Certificate_computeLDL_16_2_7`, `OAI_Laughlin_Certificate_computeLDL_16_3_0`, `OAI_Laughlin_Certificate_computeLDL_16_3_1`, `OAI_Laughlin_Certificate_computeLDL_16_3_2`, `OAI_Laughlin_Certificate_computeLDL_16_3_3`, `OAI_Laughlin_Certificate_computeLDL_16_3_4`, `OAI_Laughlin_Certificate_computeLDL_16_3_5`, `OAI_Laughlin_Certificate_computeLDL_16_3_6`, `OAI_Laughlin_Certificate_computeLDL_16_3_7`, `OAI_Laughlin_Certificate_computeLDL_16_4_0`, `OAI_Laughlin_Certificate_computeLDL_16_4_1`, `OAI_Laughlin_Certificate_computeLDL_16_4_2`, `OAI_Laughlin_Certificate_computeLDL_16_4_3`, `OAI_Laughlin_Certificate_computeLDL_16_4_4`, `OAI_Laughlin_Certificate_computeLDL_16_4_5`, `OAI_Laughlin_Certificate_computeLDL_16_4_6`, `OAI_Laughlin_Certificate_computeLDL_16_4_7`, `OAI_Laughlin_Certificate_computeLDL_16_5_0`, `OAI_Laughlin_Certificate_computeLDL_16_5_1`, `OAI_Laughlin_Certificate_computeLDL_16_5_2`, `OAI_Laughlin_Certificate_computeLDL_16_5_3`, `OAI_Laughlin_Certificate_computeLDL_16_5_4`, `OAI_Laughlin_Certificate_computeLDL_16_5_5`, `OAI_Laughlin_Certificate_computeLDL_16_5_6`, `OAI_Laughlin_Certificate_computeLDL_16_5_7`, `OAI_Laughlin_Certificate_computeLDL_16_6_0`, `OAI_Laughlin_Certificate_computeLDL_16_6_1`, `OAI_Laughlin_Certificate_computeLDL_16_6_2`, `OAI_Laughlin_Certificate_computeLDL_16_6_3`, `OAI_Laughlin_Certificate_computeLDL_16_6_4`, `OAI_Laughlin_Certificate_computeLDL_16_6_5`, `OAI_Laughlin_Certificate_computeLDL_16_6_6`, `OAI_Laughlin_Certificate_computeLDL_16_6_7`, `OAI_Laughlin_Certificate_computeLDL_16_7_0`, `OAI_Laughlin_Certificate_computeLDL_16_7_1`, `OAI_Laughlin_Certificate_computeLDL_16_7_2`, `OAI_Laughlin_Certificate_computeLDL_16_7_3`, `OAI_Laughlin_Certificate_computeLDL_16_7_4`, `OAI_Laughlin_Certificate_computeLDL_16_7_5`, `OAI_Laughlin_Certificate_computeLDL_16_7_6`, `OAI_Laughlin_Certificate_computeLDL_16_7_7`, `OAI_Laughlin_Certificate_computeLDL_17_2_6`, `OAI_Laughlin_Certificate_computeLDL_17_2_7`, `OAI_Laughlin_Certificate_computeLDL_17_2_8`, `OAI_Laughlin_Certificate_computeLDL_17_3_0`, `OAI_Laughlin_Certificate_computeLDL_17_3_1`, `OAI_Laughlin_Certificate_computeLDL_17_3_2`, `OAI_Laughlin_Certificate_computeLDL_17_3_3`, `OAI_Laughlin_Certificate_computeLDL_17_3_4`, `OAI_Laughlin_Certificate_computeLDL_17_3_5`, `OAI_Laughlin_Certificate_computeLDL_17_3_6`, `OAI_Laughlin_Certificate_computeLDL_17_3_7`, `OAI_Laughlin_Certificate_computeLDL_17_3_8`, `OAI_Laughlin_Certificate_computeLDL_17_4_0`, `OAI_Laughlin_Certificate_computeLDL_17_4_1`, `OAI_Laughlin_Certificate_computeLDL_17_4_2`, `OAI_Laughlin_Certificate_computeLDL_17_4_3`, `OAI_Laughlin_Certificate_computeLDL_17_4_4`, `OAI_Laughlin_Certificate_computeLDL_17_4_5`, `OAI_Laughlin_Certificate_computeLDL_17_4_6`, `OAI_Laughlin_Certificate_computeLDL_17_4_7`, `OAI_Laughlin_Certificate_computeLDL_17_4_8`, `OAI_Laughlin_Certificate_computeLDL_17_5_0`, `OAI_Laughlin_Certificate_computeLDL_17_5_1`, `OAI_Laughlin_Certificate_computeLDL_17_5_2`, `OAI_Laughlin_Certificate_computeLDL_17_5_3`, `OAI_Laughlin_Certificate_computeLDL_17_5_4`, `OAI_Laughlin_Certificate_computeLDL_17_5_5`, `OAI_Laughlin_Certificate_computeLDL_17_5_6`, `OAI_Laughlin_Certificate_computeLDL_17_5_7`, `OAI_Laughlin_Certificate_computeLDL_17_5_8`, `OAI_Laughlin_Certificate_computeLDL_17_6_0`, `OAI_Laughlin_Certificate_computeLDL_17_6_1`, `OAI_Laughlin_Certificate_computeLDL_17_6_2`, `OAI_Laughlin_Certificate_computeLDL_17_6_3`, `OAI_Laughlin_Certificate_computeLDL_17_6_4`, `OAI_Laughlin_Certificate_computeLDL_17_6_5`, `OAI_Laughlin_Certificate_computeLDL_17_6_6`, `OAI_Laughlin_Certificate_computeLDL_17_6_7`, `OAI_Laughlin_Certificate_computeLDL_17_6_8`, `OAI_Laughlin_Certificate_computeLDL_17_7_0`, `OAI_Laughlin_Certificate_computeLDL_17_7_1`, `OAI_Laughlin_Certificate_computeLDL_17_7_2`, `OAI_Laughlin_Certificate_computeLDL_17_7_3`, `OAI_Laughlin_Certificate_computeLDL_17_7_4`, `OAI_Laughlin_Certificate_computeLDL_17_7_5`, `OAI_Laughlin_Certificate_computeLDL_17_7_6`, `OAI_Laughlin_Certificate_computeLDL_17_7_7`, `OAI_Laughlin_Certificate_computeLDL_17_7_8`, `OAI_Laughlin_Certificate_computeLDL_17_8_0`, `OAI_Laughlin_Certificate_computeLDL_17_8_1`, `OAI_Laughlin_Certificate_computeLDL_17_8_2`, `OAI_Laughlin_Certificate_computeLDL_17_8_3`, `OAI_Laughlin_Certificate_computeLDL_17_8_4`, `OAI_Laughlin_Certificate_computeLDL_17_8_5`, `OAI_Laughlin_Certificate_computeLDL_17_8_6`, `OAI_Laughlin_Certificate_computeLDL_17_8_7`, `OAI_Laughlin_Certificate_computeLDL_17_8_8`, `OAI_Laughlin_Certificate_computeLDL_18_2_6`, `OAI_Laughlin_Certificate_computeLDL_18_2_7`, `OAI_Laughlin_Certificate_computeLDL_18_2_8`, `OAI_Laughlin_Certificate_computeLDL_18_3_0`, `OAI_Laughlin_Certificate_computeLDL_18_3_1`, `OAI_Laughlin_Certificate_computeLDL_18_3_2`, `OAI_Laughlin_Certificate_computeLDL_18_3_3`, `OAI_Laughlin_Certificate_computeLDL_18_3_4`, `OAI_Laughlin_Certificate_computeLDL_18_3_5`, `OAI_Laughlin_Certificate_computeLDL_18_3_6`, `OAI_Laughlin_Certificate_computeLDL_18_3_7`, `OAI_Laughlin_Certificate_computeLDL_18_3_8`, `OAI_Laughlin_Certificate_computeLDL_18_4_0`, `OAI_Laughlin_Certificate_computeLDL_18_4_1`, `OAI_Laughlin_Certificate_computeLDL_18_4_2`, `OAI_Laughlin_Certificate_computeLDL_18_4_3`, `OAI_Laughlin_Certificate_computeLDL_18_4_4`, `OAI_Laughlin_Certificate_computeLDL_18_4_5`, `OAI_Laughlin_Certificate_computeLDL_18_4_6`, `OAI_Laughlin_Certificate_computeLDL_18_4_7`, `OAI_Laughlin_Certificate_computeLDL_18_4_8`, `OAI_Laughlin_Certificate_computeLDL_18_5_0`, `OAI_Laughlin_Certificate_computeLDL_18_5_1`, `OAI_Laughlin_Certificate_computeLDL_18_5_2`, `OAI_Laughlin_Certificate_computeLDL_18_5_3`, `OAI_Laughlin_Certificate_computeLDL_18_5_4`, `OAI_Laughlin_Certificate_computeLDL_18_5_5`, `OAI_Laughlin_Certificate_computeLDL_18_5_6`, `OAI_Laughlin_Certificate_computeLDL_18_5_7`, `OAI_Laughlin_Certificate_computeLDL_18_5_8`, `OAI_Laughlin_Certificate_computeLDL_18_6_0`, `OAI_Laughlin_Certificate_computeLDL_18_6_1`, `OAI_Laughlin_Certificate_computeLDL_18_6_2`, `OAI_Laughlin_Certificate_computeLDL_18_6_3`, `OAI_Laughlin_Certificate_computeLDL_18_6_4`, `OAI_Laughlin_Certificate_computeLDL_18_6_5`, `OAI_Laughlin_Certificate_computeLDL_18_6_6`, `OAI_Laughlin_Certificate_computeLDL_18_6_7`, `OAI_Laughlin_Certificate_computeLDL_18_6_8`, `OAI_Laughlin_Certificate_computeLDL_18_7_0`, `OAI_Laughlin_Certificate_computeLDL_18_7_1`, `OAI_Laughlin_Certificate_computeLDL_18_7_2`, `OAI_Laughlin_Certificate_computeLDL_18_7_3`, `OAI_Laughlin_Certificate_computeLDL_18_7_4`, `OAI_Laughlin_Certificate_computeLDL_18_7_5`, `OAI_Laughlin_Certificate_computeLDL_18_7_6`, `OAI_Laughlin_Certificate_computeLDL_18_7_7`, `OAI_Laughlin_Certificate_computeLDL_18_7_8`, `OAI_Laughlin_Certificate_computeLDL_18_8_0`, `OAI_Laughlin_Certificate_computeLDL_18_8_1`, `OAI_Laughlin_Certificate_computeLDL_18_8_2`, `OAI_Laughlin_Certificate_computeLDL_18_8_3`, `OAI_Laughlin_Certificate_computeLDL_18_8_4`, `OAI_Laughlin_Certificate_computeLDL_18_8_5`, `OAI_Laughlin_Certificate_computeLDL_18_8_6`, `OAI_Laughlin_Certificate_computeLDL_18_8_7`, `OAI_Laughlin_Certificate_computeLDL_18_8_8`, `OAI_Laughlin_Certificate_computeLDL_19_2_7`, `OAI_Laughlin_Certificate_computeLDL_19_2_8`, `OAI_Laughlin_Certificate_computeLDL_19_2_9`, `OAI_Laughlin_Certificate_computeLDL_19_3_0`, `OAI_Laughlin_Certificate_computeLDL_19_3_1`, `OAI_Laughlin_Certificate_computeLDL_19_3_2`, `OAI_Laughlin_Certificate_computeLDL_19_3_3`, `OAI_Laughlin_Certificate_computeLDL_19_3_4`, `OAI_Laughlin_Certificate_computeLDL_19_3_5`, `OAI_Laughlin_Certificate_computeLDL_19_3_6`, `OAI_Laughlin_Certificate_computeLDL_19_3_7`, `OAI_Laughlin_Certificate_computeLDL_19_3_8`, `OAI_Laughlin_Certificate_computeLDL_19_3_9`, `OAI_Laughlin_Certificate_computeLDL_19_4_0`, `OAI_Laughlin_Certificate_computeLDL_19_4_1`, `OAI_Laughlin_Certificate_computeLDL_19_4_2`, `OAI_Laughlin_Certificate_computeLDL_19_4_3`, `OAI_Laughlin_Certificate_computeLDL_19_4_4`, `OAI_Laughlin_Certificate_computeLDL_19_4_5`, `OAI_Laughlin_Certificate_computeLDL_19_4_6`, `OAI_Laughlin_Certificate_computeLDL_19_4_7`, `OAI_Laughlin_Certificate_computeLDL_19_4_8`, `OAI_Laughlin_Certificate_computeLDL_19_4_9`, `OAI_Laughlin_Certificate_computeLDL_19_5_0`, `OAI_Laughlin_Certificate_computeLDL_19_5_1`, `OAI_Laughlin_Certificate_computeLDL_19_5_2`, `OAI_Laughlin_Certificate_computeLDL_19_5_3`, `OAI_Laughlin_Certificate_computeLDL_19_5_4`, `OAI_Laughlin_Certificate_computeLDL_19_5_5`, `OAI_Laughlin_Certificate_computeLDL_19_5_6`, `OAI_Laughlin_Certificate_computeLDL_19_5_7`, `OAI_Laughlin_Certificate_computeLDL_19_5_8`, `OAI_Laughlin_Certificate_computeLDL_19_5_9`, `OAI_Laughlin_Certificate_computeLDL_19_6_0`, `OAI_Laughlin_Certificate_computeLDL_19_6_1`, `OAI_Laughlin_Certificate_computeLDL_19_6_2`, `OAI_Laughlin_Certificate_computeLDL_19_6_3`, `OAI_Laughlin_Certificate_computeLDL_19_6_4`, `OAI_Laughlin_Certificate_computeLDL_19_6_5`, `OAI_Laughlin_Certificate_computeLDL_19_6_6`, `OAI_Laughlin_Certificate_computeLDL_19_6_7`, `OAI_Laughlin_Certificate_computeLDL_19_6_8`, `OAI_Laughlin_Certificate_computeLDL_19_6_9`, `OAI_Laughlin_Certificate_computeLDL_19_7_0`, `OAI_Laughlin_Certificate_computeLDL_19_7_1`, `OAI_Laughlin_Certificate_computeLDL_19_7_2`, `OAI_Laughlin_Certificate_computeLDL_19_7_3`, `OAI_Laughlin_Certificate_computeLDL_19_7_4`, `OAI_Laughlin_Certificate_computeLDL_19_7_5`, `OAI_Laughlin_Certificate_computeLDL_19_7_6`, `OAI_Laughlin_Certificate_computeLDL_19_7_7`, `OAI_Laughlin_Certificate_computeLDL_19_7_8`, `OAI_Laughlin_Certificate_computeLDL_19_7_9`, `OAI_Laughlin_Certificate_computeLDL_19_8_0`, `OAI_Laughlin_Certificate_computeLDL_19_8_1`, `OAI_Laughlin_Certificate_computeLDL_19_8_2`, `OAI_Laughlin_Certificate_computeLDL_19_8_3`, `OAI_Laughlin_Certificate_computeLDL_19_8_4`, `OAI_Laughlin_Certificate_computeLDL_19_8_5`, `OAI_Laughlin_Certificate_computeLDL_19_8_6`, `OAI_Laughlin_Certificate_computeLDL_19_8_7`, `OAI_Laughlin_Certificate_computeLDL_19_8_8`, `OAI_Laughlin_Certificate_computeLDL_19_8_9`, `OAI_Laughlin_Certificate_computeLDL_19_9_0`, `OAI_Laughlin_Certificate_computeLDL_19_9_1`, `OAI_Laughlin_Certificate_computeLDL_19_9_2`, `OAI_Laughlin_Certificate_computeLDL_19_9_3`, `OAI_Laughlin_Certificate_computeLDL_19_9_4`, `OAI_Laughlin_Certificate_computeLDL_19_9_5`, `OAI_Laughlin_Certificate_computeLDL_19_9_6`, `OAI_Laughlin_Certificate_computeLDL_19_9_7`, `OAI_Laughlin_Certificate_computeLDL_19_9_8`, `OAI_Laughlin_Certificate_computeLDL_19_9_9`, `OAI_Laughlin_Certificate_computeLDL_20_2_7`, `OAI_Laughlin_Certificate_computeLDL_20_2_8`, `OAI_Laughlin_Certificate_computeLDL_20_2_9`, `OAI_Laughlin_Certificate_computeLDL_20_3_0`, `OAI_Laughlin_Certificate_computeLDL_20_3_1`, `OAI_Laughlin_Certificate_computeLDL_20_3_2`, `OAI_Laughlin_Certificate_computeLDL_20_3_3`, `OAI_Laughlin_Certificate_computeLDL_20_3_4`, `OAI_Laughlin_Certificate_computeLDL_20_3_5`, `OAI_Laughlin_Certificate_computeLDL_20_3_6`, `OAI_Laughlin_Certificate_computeLDL_20_3_7`, `OAI_Laughlin_Certificate_computeLDL_20_3_8`, `OAI_Laughlin_Certificate_computeLDL_20_3_9`, `OAI_Laughlin_Certificate_computeLDL_20_4_0`, `OAI_Laughlin_Certificate_computeLDL_20_4_1`, `OAI_Laughlin_Certificate_computeLDL_20_4_2`, `OAI_Laughlin_Certificate_computeLDL_20_4_3`, `OAI_Laughlin_Certificate_computeLDL_20_4_4`, `OAI_Laughlin_Certificate_computeLDL_20_4_5`, `OAI_Laughlin_Certificate_computeLDL_20_4_6`, `OAI_Laughlin_Certificate_computeLDL_20_4_7`, `OAI_Laughlin_Certificate_computeLDL_20_4_8`, `OAI_Laughlin_Certificate_computeLDL_20_4_9`, `OAI_Laughlin_Certificate_computeLDL_20_5_0`, `OAI_Laughlin_Certificate_computeLDL_20_5_1`, `OAI_Laughlin_Certificate_computeLDL_20_5_2`, `OAI_Laughlin_Certificate_computeLDL_20_5_3`, `OAI_Laughlin_Certificate_computeLDL_20_5_4`, `OAI_Laughlin_Certificate_computeLDL_20_5_5`, `OAI_Laughlin_Certificate_computeLDL_20_5_6`, `OAI_Laughlin_Certificate_computeLDL_20_5_7`, `OAI_Laughlin_Certificate_computeLDL_20_5_8`, `OAI_Laughlin_Certificate_computeLDL_20_5_9`, `OAI_Laughlin_Certificate_computeLDL_20_6_0`, `OAI_Laughlin_Certificate_computeLDL_20_6_1`, `OAI_Laughlin_Certificate_computeLDL_20_6_2`, `OAI_Laughlin_Certificate_computeLDL_20_6_3`, `OAI_Laughlin_Certificate_computeLDL_20_6_4`, `OAI_Laughlin_Certificate_computeLDL_20_6_5`, `OAI_Laughlin_Certificate_computeLDL_20_6_6`, `OAI_Laughlin_Certificate_computeLDL_20_6_7`, `OAI_Laughlin_Certificate_computeLDL_20_6_8`, `OAI_Laughlin_Certificate_computeLDL_20_6_9`, `OAI_Laughlin_Certificate_computeLDL_20_7_0`, `OAI_Laughlin_Certificate_computeLDL_20_7_1`, `OAI_Laughlin_Certificate_computeLDL_20_7_2`, `OAI_Laughlin_Certificate_computeLDL_20_7_3`, `OAI_Laughlin_Certificate_computeLDL_20_7_4`, `OAI_Laughlin_Certificate_computeLDL_20_7_5`, `OAI_Laughlin_Certificate_computeLDL_20_7_6`, `OAI_Laughlin_Certificate_computeLDL_20_7_7`, `OAI_Laughlin_Certificate_computeLDL_20_7_8`, `OAI_Laughlin_Certificate_computeLDL_20_7_9`, `OAI_Laughlin_Certificate_computeLDL_20_8_0`, `OAI_Laughlin_Certificate_computeLDL_20_8_1`, `OAI_Laughlin_Certificate_computeLDL_20_8_2`, `OAI_Laughlin_Certificate_computeLDL_20_8_3`, `OAI_Laughlin_Certificate_computeLDL_20_8_4`, `OAI_Laughlin_Certificate_computeLDL_20_8_5`, `OAI_Laughlin_Certificate_computeLDL_20_8_6`, `OAI_Laughlin_Certificate_computeLDL_20_8_7`, `OAI_Laughlin_Certificate_computeLDL_20_8_8`, `OAI_Laughlin_Certificate_computeLDL_20_8_9`, `OAI_Laughlin_Certificate_computeLDL_20_9_0`, `OAI_Laughlin_Certificate_computeLDL_20_9_1`, `OAI_Laughlin_Certificate_computeLDL_20_9_2`, `OAI_Laughlin_Certificate_computeLDL_20_9_3`, `OAI_Laughlin_Certificate_computeLDL_20_9_4`, `OAI_Laughlin_Certificate_computeLDL_20_9_5`, `OAI_Laughlin_Certificate_computeLDL_20_9_6`, `OAI_Laughlin_Certificate_computeLDL_20_9_7`, `OAI_Laughlin_Certificate_computeLDL_20_9_8`, `OAI_Laughlin_Certificate_computeLDL_20_9_9`, `OAI_Laughlin_Certificate_computeLDL_21_0_10`, `OAI_Laughlin_Certificate_computeLDL_21_10_0`, `OAI_Laughlin_Certificate_computeLDL_21_10_1`, `OAI_Laughlin_Certificate_computeLDL_21_10_10`, `OAI_Laughlin_Certificate_computeLDL_21_10_2`, `OAI_Laughlin_Certificate_computeLDL_21_10_3`, `OAI_Laughlin_Certificate_computeLDL_21_10_4`, `OAI_Laughlin_Certificate_computeLDL_21_10_5`, `OAI_Laughlin_Certificate_computeLDL_21_10_6`, `OAI_Laughlin_Certificate_computeLDL_21_10_7`, `OAI_Laughlin_Certificate_computeLDL_21_10_8`, `OAI_Laughlin_Certificate_computeLDL_21_10_9`, `OAI_Laughlin_Certificate_computeLDL_21_1_10`, `OAI_Laughlin_Certificate_computeLDL_21_2_10`, `OAI_Laughlin_Certificate_computeLDL_21_2_9`, `OAI_Laughlin_Certificate_computeLDL_21_3_0`, `OAI_Laughlin_Certificate_computeLDL_21_3_1`, `OAI_Laughlin_Certificate_computeLDL_21_3_10`, `OAI_Laughlin_Certificate_computeLDL_21_3_2`, `OAI_Laughlin_Certificate_computeLDL_21_3_3`, `OAI_Laughlin_Certificate_computeLDL_21_3_4`, `OAI_Laughlin_Certificate_computeLDL_21_3_5`, `OAI_Laughlin_Certificate_computeLDL_21_3_6`, `OAI_Laughlin_Certificate_computeLDL_21_3_7`, `OAI_Laughlin_Certificate_computeLDL_21_3_8`, `OAI_Laughlin_Certificate_computeLDL_21_3_9`, `OAI_Laughlin_Certificate_computeLDL_21_4_0`, `OAI_Laughlin_Certificate_computeLDL_21_4_1`, `OAI_Laughlin_Certificate_computeLDL_21_4_10`, `OAI_Laughlin_Certificate_computeLDL_21_4_2`, `OAI_Laughlin_Certificate_computeLDL_21_4_3`, `OAI_Laughlin_Certificate_computeLDL_21_4_4`, `OAI_Laughlin_Certificate_computeLDL_21_4_5`, `OAI_Laughlin_Certificate_computeLDL_21_4_6`, `OAI_Laughlin_Certificate_computeLDL_21_4_7`, `OAI_Laughlin_Certificate_computeLDL_21_4_8`, `OAI_Laughlin_Certificate_computeLDL_21_4_9`, `OAI_Laughlin_Certificate_computeLDL_21_5_0`, `OAI_Laughlin_Certificate_computeLDL_21_5_1`, `OAI_Laughlin_Certificate_computeLDL_21_5_10`, `OAI_Laughlin_Certificate_computeLDL_21_5_2`, `OAI_Laughlin_Certificate_computeLDL_21_5_3`, `OAI_Laughlin_Certificate_computeLDL_21_5_4`, `OAI_Laughlin_Certificate_computeLDL_21_5_5`, `OAI_Laughlin_Certificate_computeLDL_21_5_6`, `OAI_Laughlin_Certificate_computeLDL_21_5_7`, `OAI_Laughlin_Certificate_computeLDL_21_5_8`, `OAI_Laughlin_Certificate_computeLDL_21_5_9`, `OAI_Laughlin_Certificate_computeLDL_21_6_0`, `OAI_Laughlin_Certificate_computeLDL_21_6_1`, `OAI_Laughlin_Certificate_computeLDL_21_6_10`, `OAI_Laughlin_Certificate_computeLDL_21_6_2`, `OAI_Laughlin_Certificate_computeLDL_21_6_3`, `OAI_Laughlin_Certificate_computeLDL_21_6_4`, `OAI_Laughlin_Certificate_computeLDL_21_6_5`, `OAI_Laughlin_Certificate_computeLDL_21_6_6`, `OAI_Laughlin_Certificate_computeLDL_21_6_7`, `OAI_Laughlin_Certificate_computeLDL_21_6_8`, `OAI_Laughlin_Certificate_computeLDL_21_6_9`, `OAI_Laughlin_Certificate_computeLDL_21_7_0`, `OAI_Laughlin_Certificate_computeLDL_21_7_1`, `OAI_Laughlin_Certificate_computeLDL_21_7_10`, `OAI_Laughlin_Certificate_computeLDL_21_7_2`, `OAI_Laughlin_Certificate_computeLDL_21_7_3`, `OAI_Laughlin_Certificate_computeLDL_21_7_4`, `OAI_Laughlin_Certificate_computeLDL_21_7_5`, `OAI_Laughlin_Certificate_computeLDL_21_7_6`, `OAI_Laughlin_Certificate_computeLDL_21_7_7`, `OAI_Laughlin_Certificate_computeLDL_21_7_8`, `OAI_Laughlin_Certificate_computeLDL_21_7_9`, `OAI_Laughlin_Certificate_computeLDL_21_8_0`, `OAI_Laughlin_Certificate_computeLDL_21_8_1`, `OAI_Laughlin_Certificate_computeLDL_21_8_10`, `OAI_Laughlin_Certificate_computeLDL_21_8_2`, `OAI_Laughlin_Certificate_computeLDL_21_8_3`, `OAI_Laughlin_Certificate_computeLDL_21_8_4`, `OAI_Laughlin_Certificate_computeLDL_21_8_5`, `OAI_Laughlin_Certificate_computeLDL_21_8_6`, `OAI_Laughlin_Certificate_computeLDL_21_8_7`, `OAI_Laughlin_Certificate_computeLDL_21_8_8`, `OAI_Laughlin_Certificate_computeLDL_21_8_9`, `OAI_Laughlin_Certificate_computeLDL_21_9_0`, `OAI_Laughlin_Certificate_computeLDL_21_9_1`, `OAI_Laughlin_Certificate_computeLDL_21_9_10`, `OAI_Laughlin_Certificate_computeLDL_21_9_2`, `OAI_Laughlin_Certificate_computeLDL_21_9_3`, `OAI_Laughlin_Certificate_computeLDL_21_9_4`, `OAI_Laughlin_Certificate_computeLDL_21_9_5`, `OAI_Laughlin_Certificate_computeLDL_21_9_6`, `OAI_Laughlin_Certificate_computeLDL_21_9_7`, `OAI_Laughlin_Certificate_computeLDL_21_9_8`, `OAI_Laughlin_Certificate_computeLDL_21_9_9`, `OAI_Laughlin_Certificate_computeLDL_22_0_10`, `OAI_Laughlin_Certificate_computeLDL_22_10_0`, `OAI_Laughlin_Certificate_computeLDL_22_10_1`, `OAI_Laughlin_Certificate_computeLDL_22_10_10`, `OAI_Laughlin_Certificate_computeLDL_22_10_2`, `OAI_Laughlin_Certificate_computeLDL_22_10_3`, `OAI_Laughlin_Certificate_computeLDL_22_10_4`, `OAI_Laughlin_Certificate_computeLDL_22_10_5`, `OAI_Laughlin_Certificate_computeLDL_22_10_6`, `OAI_Laughlin_Certificate_computeLDL_22_10_7`, `OAI_Laughlin_Certificate_computeLDL_22_10_8`, `OAI_Laughlin_Certificate_computeLDL_22_10_9`, `OAI_Laughlin_Certificate_computeLDL_22_1_10`, `OAI_Laughlin_Certificate_computeLDL_22_2_10`, `OAI_Laughlin_Certificate_computeLDL_22_2_9`, `OAI_Laughlin_Certificate_computeLDL_22_3_0`, `OAI_Laughlin_Certificate_computeLDL_22_3_1`, `OAI_Laughlin_Certificate_computeLDL_22_3_10`, `OAI_Laughlin_Certificate_computeLDL_22_3_2`, `OAI_Laughlin_Certificate_computeLDL_22_3_3`, `OAI_Laughlin_Certificate_computeLDL_22_3_4`, `OAI_Laughlin_Certificate_computeLDL_22_3_5`, `OAI_Laughlin_Certificate_computeLDL_22_3_6`, `OAI_Laughlin_Certificate_computeLDL_22_3_7`, `OAI_Laughlin_Certificate_computeLDL_22_3_8`, `OAI_Laughlin_Certificate_computeLDL_22_3_9`, `OAI_Laughlin_Certificate_computeLDL_22_4_0`, `OAI_Laughlin_Certificate_computeLDL_22_4_1`, `OAI_Laughlin_Certificate_computeLDL_22_4_10`, `OAI_Laughlin_Certificate_computeLDL_22_4_2`, `OAI_Laughlin_Certificate_computeLDL_22_4_3`, `OAI_Laughlin_Certificate_computeLDL_22_4_4`, `OAI_Laughlin_Certificate_computeLDL_22_4_5`, `OAI_Laughlin_Certificate_computeLDL_22_4_6`, `OAI_Laughlin_Certificate_computeLDL_22_4_7`, `OAI_Laughlin_Certificate_computeLDL_22_4_8`, `OAI_Laughlin_Certificate_computeLDL_22_4_9`, `OAI_Laughlin_Certificate_computeLDL_22_5_0`, `OAI_Laughlin_Certificate_computeLDL_22_5_1`, `OAI_Laughlin_Certificate_computeLDL_22_5_10`, `OAI_Laughlin_Certificate_computeLDL_22_5_2`, `OAI_Laughlin_Certificate_computeLDL_22_5_3`, `OAI_Laughlin_Certificate_computeLDL_22_5_4`, `OAI_Laughlin_Certificate_computeLDL_22_5_5`, `OAI_Laughlin_Certificate_computeLDL_22_5_6`, `OAI_Laughlin_Certificate_computeLDL_22_5_7`, `OAI_Laughlin_Certificate_computeLDL_22_5_8`, `OAI_Laughlin_Certificate_computeLDL_22_5_9`, `OAI_Laughlin_Certificate_computeLDL_22_6_0`, `OAI_Laughlin_Certificate_computeLDL_22_6_1`, `OAI_Laughlin_Certificate_computeLDL_22_6_10`, `OAI_Laughlin_Certificate_computeLDL_22_6_2`, `OAI_Laughlin_Certificate_computeLDL_22_6_3`, `OAI_Laughlin_Certificate_computeLDL_22_6_4`, `OAI_Laughlin_Certificate_computeLDL_22_6_5`, `OAI_Laughlin_Certificate_computeLDL_22_6_6`, `OAI_Laughlin_Certificate_computeLDL_22_6_7`, `OAI_Laughlin_Certificate_computeLDL_22_6_8`, `OAI_Laughlin_Certificate_computeLDL_22_6_9`, `OAI_Laughlin_Certificate_computeLDL_22_7_0`, `OAI_Laughlin_Certificate_computeLDL_22_7_1`, `OAI_Laughlin_Certificate_computeLDL_22_7_10`, `OAI_Laughlin_Certificate_computeLDL_22_7_2`, `OAI_Laughlin_Certificate_computeLDL_22_7_3`, `OAI_Laughlin_Certificate_computeLDL_22_7_4`, `OAI_Laughlin_Certificate_computeLDL_22_7_5`, `OAI_Laughlin_Certificate_computeLDL_22_7_6`, `OAI_Laughlin_Certificate_computeLDL_22_7_7`, `OAI_Laughlin_Certificate_computeLDL_22_7_8`, `OAI_Laughlin_Certificate_computeLDL_22_7_9`, `OAI_Laughlin_Certificate_computeLDL_22_8_0`, `OAI_Laughlin_Certificate_computeLDL_22_8_1`, `OAI_Laughlin_Certificate_computeLDL_22_8_10`, `OAI_Laughlin_Certificate_computeLDL_22_8_2`, `OAI_Laughlin_Certificate_computeLDL_22_8_3`, `OAI_Laughlin_Certificate_computeLDL_22_8_4`, `OAI_Laughlin_Certificate_computeLDL_22_8_5`, `OAI_Laughlin_Certificate_computeLDL_22_8_6`, `OAI_Laughlin_Certificate_computeLDL_22_8_7`, `OAI_Laughlin_Certificate_computeLDL_22_8_8`, `OAI_Laughlin_Certificate_computeLDL_22_8_9`, `OAI_Laughlin_Certificate_computeLDL_22_9_0`, `OAI_Laughlin_Certificate_computeLDL_22_9_1`, `OAI_Laughlin_Certificate_computeLDL_22_9_10`, `OAI_Laughlin_Certificate_computeLDL_22_9_2`, `OAI_Laughlin_Certificate_computeLDL_22_9_3`, `OAI_Laughlin_Certificate_computeLDL_22_9_4`, `OAI_Laughlin_Certificate_computeLDL_22_9_5`, `OAI_Laughlin_Certificate_computeLDL_22_9_6`, `OAI_Laughlin_Certificate_computeLDL_22_9_7`, `OAI_Laughlin_Certificate_computeLDL_22_9_8`, `OAI_Laughlin_Certificate_computeLDL_22_9_9`, `OAI_Laughlin_Certificate_computeLDL_23_0_10`, `OAI_Laughlin_Certificate_computeLDL_23_0_11`, `OAI_Laughlin_Certificate_computeLDL_23_10_0`, `OAI_Laughlin_Certificate_computeLDL_23_10_1`, `OAI_Laughlin_Certificate_computeLDL_23_10_10`, `OAI_Laughlin_Certificate_computeLDL_23_10_11`, `OAI_Laughlin_Certificate_computeLDL_23_10_2`, `OAI_Laughlin_Certificate_computeLDL_23_10_3`, `OAI_Laughlin_Certificate_computeLDL_23_10_4`, `OAI_Laughlin_Certificate_computeLDL_23_10_5`, `OAI_Laughlin_Certificate_computeLDL_23_10_6`, `OAI_Laughlin_Certificate_computeLDL_23_10_7`, `OAI_Laughlin_Certificate_computeLDL_23_10_8`, `OAI_Laughlin_Certificate_computeLDL_23_10_9`, `OAI_Laughlin_Certificate_computeLDL_23_11_0`, `OAI_Laughlin_Certificate_computeLDL_23_11_1`, `OAI_Laughlin_Certificate_computeLDL_23_11_10`, `OAI_Laughlin_Certificate_computeLDL_23_11_11`, `OAI_Laughlin_Certificate_computeLDL_23_11_2`, `OAI_Laughlin_Certificate_computeLDL_23_11_3`, `OAI_Laughlin_Certificate_computeLDL_23_11_4`, `OAI_Laughlin_Certificate_computeLDL_23_11_5`, `OAI_Laughlin_Certificate_computeLDL_23_11_6`, `OAI_Laughlin_Certificate_computeLDL_23_11_7`, `OAI_Laughlin_Certificate_computeLDL_23_11_8`, `OAI_Laughlin_Certificate_computeLDL_23_11_9`, `OAI_Laughlin_Certificate_computeLDL_23_1_10`, `OAI_Laughlin_Certificate_computeLDL_23_1_11`, `OAI_Laughlin_Certificate_computeLDL_23_2_10`, `OAI_Laughlin_Certificate_computeLDL_23_2_11`, `OAI_Laughlin_Certificate_computeLDL_23_3_10`, `OAI_Laughlin_Certificate_computeLDL_23_3_11`, `OAI_Laughlin_Certificate_computeLDL_23_3_2`, `OAI_Laughlin_Certificate_computeLDL_23_3_3`, `OAI_Laughlin_Certificate_computeLDL_23_3_4`, `OAI_Laughlin_Certificate_computeLDL_23_3_5`, `OAI_Laughlin_Certificate_computeLDL_23_3_6`, `OAI_Laughlin_Certificate_computeLDL_23_3_7`, `OAI_Laughlin_Certificate_computeLDL_23_3_8`, `OAI_Laughlin_Certificate_computeLDL_23_3_9`, `OAI_Laughlin_Certificate_computeLDL_23_4_0`, `OAI_Laughlin_Certificate_computeLDL_23_4_1`, `OAI_Laughlin_Certificate_computeLDL_23_4_10`, `OAI_Laughlin_Certificate_computeLDL_23_4_11`, `OAI_Laughlin_Certificate_computeLDL_23_4_2`, `OAI_Laughlin_Certificate_computeLDL_23_4_3`, `OAI_Laughlin_Certificate_computeLDL_23_4_4`, `OAI_Laughlin_Certificate_computeLDL_23_4_5`, `OAI_Laughlin_Certificate_computeLDL_23_4_6`, `OAI_Laughlin_Certificate_computeLDL_23_4_7`, `OAI_Laughlin_Certificate_computeLDL_23_4_8`, `OAI_Laughlin_Certificate_computeLDL_23_4_9`, `OAI_Laughlin_Certificate_computeLDL_23_5_0`, `OAI_Laughlin_Certificate_computeLDL_23_5_1`, `OAI_Laughlin_Certificate_computeLDL_23_5_10`, `OAI_Laughlin_Certificate_computeLDL_23_5_11`, `OAI_Laughlin_Certificate_computeLDL_23_5_2`, `OAI_Laughlin_Certificate_computeLDL_23_5_3`, `OAI_Laughlin_Certificate_computeLDL_23_5_4`, `OAI_Laughlin_Certificate_computeLDL_23_5_5`, `OAI_Laughlin_Certificate_computeLDL_23_5_6`, `OAI_Laughlin_Certificate_computeLDL_23_5_7`, `OAI_Laughlin_Certificate_computeLDL_23_5_8`, `OAI_Laughlin_Certificate_computeLDL_23_5_9`, `OAI_Laughlin_Certificate_computeLDL_23_6_0`, `OAI_Laughlin_Certificate_computeLDL_23_6_1`, `OAI_Laughlin_Certificate_computeLDL_23_6_10`, `OAI_Laughlin_Certificate_computeLDL_23_6_11`, `OAI_Laughlin_Certificate_computeLDL_23_6_2`, `OAI_Laughlin_Certificate_computeLDL_23_6_3`, `OAI_Laughlin_Certificate_computeLDL_23_6_4`, `OAI_Laughlin_Certificate_computeLDL_23_6_5`, `OAI_Laughlin_Certificate_computeLDL_23_6_6`, `OAI_Laughlin_Certificate_computeLDL_23_6_7`, `OAI_Laughlin_Certificate_computeLDL_23_6_8`, `OAI_Laughlin_Certificate_computeLDL_23_6_9`, `OAI_Laughlin_Certificate_computeLDL_23_7_0`, `OAI_Laughlin_Certificate_computeLDL_23_7_1`, `OAI_Laughlin_Certificate_computeLDL_23_7_10`, `OAI_Laughlin_Certificate_computeLDL_23_7_11`, `OAI_Laughlin_Certificate_computeLDL_23_7_2`, `OAI_Laughlin_Certificate_computeLDL_23_7_3`, `OAI_Laughlin_Certificate_computeLDL_23_7_4`, `OAI_Laughlin_Certificate_computeLDL_23_7_5`, `OAI_Laughlin_Certificate_computeLDL_23_7_6`, `OAI_Laughlin_Certificate_computeLDL_23_7_7`, `OAI_Laughlin_Certificate_computeLDL_23_7_8`, `OAI_Laughlin_Certificate_computeLDL_23_7_9`, `OAI_Laughlin_Certificate_computeLDL_23_8_0`, `OAI_Laughlin_Certificate_computeLDL_23_8_1`, `OAI_Laughlin_Certificate_computeLDL_23_8_10`, `OAI_Laughlin_Certificate_computeLDL_23_8_11`, `OAI_Laughlin_Certificate_computeLDL_23_8_2`, `OAI_Laughlin_Certificate_computeLDL_23_8_3`, `OAI_Laughlin_Certificate_computeLDL_23_8_4`, `OAI_Laughlin_Certificate_computeLDL_23_8_5`, `OAI_Laughlin_Certificate_computeLDL_23_8_6`, `OAI_Laughlin_Certificate_computeLDL_23_8_7`, `OAI_Laughlin_Certificate_computeLDL_23_8_8`, `OAI_Laughlin_Certificate_computeLDL_23_8_9`, `OAI_Laughlin_Certificate_computeLDL_23_9_0`, `OAI_Laughlin_Certificate_computeLDL_23_9_1`, `OAI_Laughlin_Certificate_computeLDL_23_9_10`, `OAI_Laughlin_Certificate_computeLDL_23_9_11`, `OAI_Laughlin_Certificate_computeLDL_23_9_2`, `OAI_Laughlin_Certificate_computeLDL_23_9_3`, `OAI_Laughlin_Certificate_computeLDL_23_9_4`, `OAI_Laughlin_Certificate_computeLDL_23_9_5`, `OAI_Laughlin_Certificate_computeLDL_23_9_6`, `OAI_Laughlin_Certificate_computeLDL_23_9_7`, `OAI_Laughlin_Certificate_computeLDL_23_9_8`, `OAI_Laughlin_Certificate_computeLDL_23_9_9`, `OAI.Laughlin.Certificate.error_12`, `OAI.Laughlin.Certificate.error_13`, `OAI.Laughlin.Certificate.error_14`, `OAI.Laughlin.Certificate.error_15`, `OAI.Laughlin.Certificate.error_16`, `OAI.Laughlin.Certificate.error_17`, `OAI.Laughlin.Certificate.error_18`, `OAI.Laughlin.Certificate.error_19`, `OAI.Laughlin.Certificate.error_20`, `OAI.Laughlin.Certificate.error_21`, `OAI.Laughlin.Certificate.error_22`, `OAI.Laughlin.Certificate.error_23`, `OAI_Laughlin_Certificate_error_7_3_1`, `OAI_Laughlin_Certificate_error_7_5_1`, `OAI.Laughlin.Certificate.error_7_5_3`, `OAI.Laughlin.Certificate.error_7_7_1`, `OAI_Laughlin_Certificate_error_7_7_3`, `OAI.Laughlin.Certificate.error_7_7_5`, `OAI_Laughlin_Certificate_error_8_3_1`, `OAI_Laughlin_Certificate_error_8_5_1`, `OAI_Laughlin_Certificate_error_8_5_3`, `OAI_Laughlin_Certificate_error_8_5_7`, `OAI_Laughlin_Certificate_error_8_7_1`, `OAI_Laughlin_Certificate_error_8_7_3`, `OAI_Laughlin_Certificate_error_8_7_5`, `OAI_Laughlin_Certificate_error_8_7_7`, `OAI.Laughlin.Certificate.four_body_10_positive`, `OAI.Laughlin.Certificate.four_body_11_positive`, `OAI.Laughlin.Certificate.four_body_12_positive`, `OAI.Laughlin.Certificate.four_body_13_positive`, `OAI.Laughlin.Certificate.four_body_14_positive`, `OAI.Laughlin.Certificate.four_body_15_positive`, `OAI.Laughlin.Certificate.four_body_16_positive`, `OAI.Laughlin.Certificate.four_body_17_positive`, `OAI.Laughlin.Certificate.four_body_18_positive`, `OAI.Laughlin.Certificate.four_body_19_positive`, `OAI.Laughlin.Certificate.four_body_20_positive`, `OAI.Laughlin.Certificate.four_body_21_positive`, `OAI.Laughlin.Certificate.four_body_22_positive`, `OAI.Laughlin.Certificate.four_body_9_positive`, `OAI.Laughlin.Certificate.ldl_23`, `OAI.Laughlin.Certificate.ldl_7`, `OAI.Laughlin.Certificate.scaled_four_body_certificates`, `OAI_Laughlin_Certificate_source_error_10_1_1`, `OAI_Laughlin_Certificate_source_error_10_1_5`, `OAI_Laughlin_Certificate_source_error_10_1_9`, `OAI_Laughlin_Certificate_source_error_10_3_1`, `OAI_Laughlin_Certificate_source_error_10_3_7`, `OAI_Laughlin_Certificate_source_error_10_3_9`, `OAI_Laughlin_Certificate_source_error_10_5_1`, `OAI_Laughlin_Certificate_source_error_10_5_3`, `OAI_Laughlin_Certificate_source_error_10_7_1`, `OAI_Laughlin_Certificate_source_error_10_7_3`, `OAI_Laughlin_Certificate_source_error_10_7_5`, `OAI_Laughlin_Certificate_source_error_10_7_9`, `OAI_Laughlin_Certificate_source_error_10_9_1`, `OAI_Laughlin_Certificate_source_error_10_9_3`, `OAI_Laughlin_Certificate_source_error_10_9_5`, `OAI_Laughlin_Certificate_source_error_10_9_7`, `OAI_Laughlin_Certificate_source_error_10_9_9`, `OAI_Laughlin_Certificate_source_error_11_11_1`, `OAI_Laughlin_Certificate_source_error_11_11_11`, `OAI_Laughlin_Certificate_source_error_11_11_3`, `OAI_Laughlin_Certificate_source_error_11_11_5`, `OAI_Laughlin_Certificate_source_error_11_11_7`, `OAI_Laughlin_Certificate_source_error_11_11_9`, `OAI_Laughlin_Certificate_source_error_11_1_1`, `OAI_Laughlin_Certificate_source_error_11_1_11`, `OAI_Laughlin_Certificate_source_error_11_1_3`, `OAI_Laughlin_Certificate_source_error_11_1_5`, `OAI_Laughlin_Certificate_source_error_11_1_7`, `OAI_Laughlin_Certificate_source_error_11_1_9`, `OAI_Laughlin_Certificate_source_error_11_3_1`, `OAI_Laughlin_Certificate_source_error_11_3_11`, `OAI_Laughlin_Certificate_source_error_11_3_3`, `OAI_Laughlin_Certificate_source_error_11_3_7`, `OAI_Laughlin_Certificate_source_error_11_5_1`, `OAI_Laughlin_Certificate_source_error_11_5_11`, `OAI_Laughlin_Certificate_source_error_11_5_3`, `OAI_Laughlin_Certificate_source_error_11_7_1`, `OAI_Laughlin_Certificate_source_error_11_7_11`, `OAI_Laughlin_Certificate_source_error_11_7_3`, `OAI_Laughlin_Certificate_source_error_11_7_5`, `OAI_Laughlin_Certificate_source_error_11_9_1`, `OAI_Laughlin_Certificate_source_error_11_9_11`, `OAI_Laughlin_Certificate_source_error_11_9_3`, `OAI_Laughlin_Certificate_source_error_11_9_5`, `OAI_Laughlin_Certificate_source_error_11_9_7`, `OAI_Laughlin_Certificate_source_error_12_11_1`, `OAI_Laughlin_Certificate_source_error_12_11_11`, `OAI_Laughlin_Certificate_source_error_12_11_3`, `OAI_Laughlin_Certificate_source_error_12_11_5`, `OAI_Laughlin_Certificate_source_error_12_11_7`, `OAI_Laughlin_Certificate_source_error_12_11_9`, `OAI_Laughlin_Certificate_source_error_12_1_1`, `OAI_Laughlin_Certificate_source_error_12_1_11`, `OAI_Laughlin_Certificate_source_error_12_1_3`, `OAI_Laughlin_Certificate_source_error_12_1_5`, `OAI_Laughlin_Certificate_source_error_12_1_7`, `OAI_Laughlin_Certificate_source_error_12_1_9`, `OAI_Laughlin_Certificate_source_error_12_3_1`, `OAI_Laughlin_Certificate_source_error_12_3_11`, `OAI_Laughlin_Certificate_source_error_12_3_3`, `OAI_Laughlin_Certificate_source_error_12_3_7`, `OAI_Laughlin_Certificate_source_error_12_3_9`, `OAI_Laughlin_Certificate_source_error_12_5_1`, `OAI_Laughlin_Certificate_source_error_12_5_11`, `OAI_Laughlin_Certificate_source_error_12_5_3`, `OAI_Laughlin_Certificate_source_error_12_5_5`, `OAI_Laughlin_Certificate_source_error_12_5_7`, `OAI_Laughlin_Certificate_source_error_12_5_9`, `OAI_Laughlin_Certificate_source_error_12_7_1`, `OAI_Laughlin_Certificate_source_error_12_7_11`, `OAI_Laughlin_Certificate_source_error_12_7_3`, `OAI_Laughlin_Certificate_source_error_12_7_5`, `OAI_Laughlin_Certificate_source_error_12_7_7`, `OAI_Laughlin_Certificate_source_error_12_7_9`, `OAI_Laughlin_Certificate_source_error_12_9_1`, `OAI_Laughlin_Certificate_source_error_12_9_11`, `OAI_Laughlin_Certificate_source_error_12_9_3`, `OAI_Laughlin_Certificate_source_error_12_9_5`, `OAI_Laughlin_Certificate_source_error_12_9_7`, `OAI_Laughlin_Certificate_source_error_12_9_9`, `OAI.Laughlin.Certificate.source_error_13_11_1`, `OAI.Laughlin.Certificate.source_error_13_11_11`, `OAI_Laughlin_Certificate_source_error_13_11_13`, `OAI.Laughlin.Certificate.source_error_13_11_3`, `OAI.Laughlin.Certificate.source_error_13_11_5`, `OAI.Laughlin.Certificate.source_error_13_11_7`, `OAI.Laughlin.Certificate.source_error_13_11_9`, `OAI.Laughlin.Certificate.source_error_13_13_1`, `OAI.Laughlin.Certificate.source_error_13_13_11`, `OAI.Laughlin.Certificate.source_error_13_13_13`, `OAI.Laughlin.Certificate.source_error_13_13_3`, `OAI.Laughlin.Certificate.source_error_13_13_5`, `OAI.Laughlin.Certificate.source_error_13_13_7`, `OAI.Laughlin.Certificate.source_error_13_13_9`, `OAI_Laughlin_Certificate_source_error_13_1_1`, `OAI_Laughlin_Certificate_source_error_13_1_11`, `OAI_Laughlin_Certificate_source_error_13_1_13`, `OAI_Laughlin_Certificate_source_error_13_1_3`, `OAI_Laughlin_Certificate_source_error_13_1_5`, `OAI_Laughlin_Certificate_source_error_13_1_7`, `OAI_Laughlin_Certificate_source_error_13_1_9`, `OAI.Laughlin.Certificate.source_error_13_3_1`, `OAI_Laughlin_Certificate_source_error_13_3_11`, `OAI_Laughlin_Certificate_source_error_13_3_13`, `OAI_Laughlin_Certificate_source_error_13_3_3`, `OAI_Laughlin_Certificate_source_error_13_3_7`, `OAI_Laughlin_Certificate_source_error_13_3_9`, `OAI.Laughlin.Certificate.source_error_13_5_1`, `OAI_Laughlin_Certificate_source_error_13_5_11`, `OAI_Laughlin_Certificate_source_error_13_5_13`, `OAI.Laughlin.Certificate.source_error_13_5_3`, `OAI_Laughlin_Certificate_source_error_13_5_5`, `OAI_Laughlin_Certificate_source_error_13_5_7`, `OAI_Laughlin_Certificate_source_error_13_5_9`, `OAI.Laughlin.Certificate.source_error_13_7_1`, `OAI_Laughlin_Certificate_source_error_13_7_11`, `OAI_Laughlin_Certificate_source_error_13_7_13`, `OAI.Laughlin.Certificate.source_error_13_7_3`, `OAI.Laughlin.Certificate.source_error_13_7_5`, `OAI_Laughlin_Certificate_source_error_13_7_7`, `OAI_Laughlin_Certificate_source_error_13_7_9`, `OAI.Laughlin.Certificate.source_error_13_9_1`, `OAI_Laughlin_Certificate_source_error_13_9_11`, `OAI_Laughlin_Certificate_source_error_13_9_13`, `OAI.Laughlin.Certificate.source_error_13_9_3`, `OAI.Laughlin.Certificate.source_error_13_9_5`, `OAI.Laughlin.Certificate.source_error_13_9_7`, `OAI_Laughlin_Certificate_source_error_13_9_9`, `OAI.Laughlin.Certificate.source_error_14_11_1`, `OAI_Laughlin_Certificate_source_error_14_11_11`, `OAI.Laughlin.Certificate.source_error_14_11_13`, `OAI.Laughlin.Certificate.source_error_14_11_3`, `OAI.Laughlin.Certificate.source_error_14_11_5`, `OAI.Laughlin.Certificate.source_error_14_11_7`, `OAI.Laughlin.Certificate.source_error_14_11_9`, `OAI.Laughlin.Certificate.source_error_14_13_1`, `OAI.Laughlin.Certificate.source_error_14_13_11`, `OAI.Laughlin.Certificate.source_error_14_13_13`, `OAI.Laughlin.Certificate.source_error_14_13_3`, `OAI.Laughlin.Certificate.source_error_14_13_5`, `OAI.Laughlin.Certificate.source_error_14_13_7`, `OAI.Laughlin.Certificate.source_error_14_13_9`, `OAI_Laughlin_Certificate_source_error_14_1_1`, `OAI_Laughlin_Certificate_source_error_14_1_11`, `OAI_Laughlin_Certificate_source_error_14_1_13`, `OAI_Laughlin_Certificate_source_error_14_1_3`, `OAI_Laughlin_Certificate_source_error_14_1_5`, `OAI_Laughlin_Certificate_source_error_14_1_7`, `OAI_Laughlin_Certificate_source_error_14_1_9`, `OAI.Laughlin.Certificate.source_error_14_3_1`, `OAI_Laughlin_Certificate_source_error_14_3_11`, `OAI_Laughlin_Certificate_source_error_14_3_13`, `OAI_Laughlin_Certificate_source_error_14_3_3`, `OAI_Laughlin_Certificate_source_error_14_3_5`, `OAI_Laughlin_Certificate_source_error_14_3_7`, `OAI_Laughlin_Certificate_source_error_14_3_9`, `OAI.Laughlin.Certificate.source_error_14_5_1`, `OAI_Laughlin_Certificate_source_error_14_5_11`, `OAI_Laughlin_Certificate_source_error_14_5_13`, `OAI.Laughlin.Certificate.source_error_14_5_3`, `OAI_Laughlin_Certificate_source_error_14_5_5`, `OAI_Laughlin_Certificate_source_error_14_5_7`, `OAI_Laughlin_Certificate_source_error_14_5_9`, `OAI.Laughlin.Certificate.source_error_14_7_1`, `OAI_Laughlin_Certificate_source_error_14_7_11`, `OAI_Laughlin_Certificate_source_error_14_7_13`, `OAI.Laughlin.Certificate.source_error_14_7_3`, `OAI.Laughlin.Certificate.source_error_14_7_5`, `OAI_Laughlin_Certificate_source_error_14_7_7`, `OAI.Laughlin.Certificate.source_error_14_9_1`, `OAI_Laughlin_Certificate_source_error_14_9_11`, `OAI_Laughlin_Certificate_source_error_14_9_13`, `OAI.Laughlin.Certificate.source_error_14_9_3`, `OAI.Laughlin.Certificate.source_error_14_9_5`, `OAI.Laughlin.Certificate.source_error_14_9_7`, `OAI_Laughlin_Certificate_source_error_14_9_9`, `OAI.Laughlin.Certificate.source_error_15_11_1`, `OAI.Laughlin.Certificate.source_error_15_11_11`, `OAI.Laughlin.Certificate.source_error_15_11_13`, `OAI.Laughlin.Certificate.source_error_15_11_15`, `OAI.Laughlin.Certificate.source_error_15_11_3`, `OAI.Laughlin.Certificate.source_error_15_11_5`, `OAI.Laughlin.Certificate.source_error_15_11_7`, `OAI.Laughlin.Certificate.source_error_15_11_9`, `OAI.Laughlin.Certificate.source_error_15_13_1`, `OAI.Laughlin.Certificate.source_error_15_13_11`, `OAI.Laughlin.Certificate.source_error_15_13_13`, `OAI.Laughlin.Certificate.source_error_15_13_15`, `OAI.Laughlin.Certificate.source_error_15_13_3`, `OAI.Laughlin.Certificate.source_error_15_13_5`, `OAI.Laughlin.Certificate.source_error_15_13_7`, `OAI.Laughlin.Certificate.source_error_15_13_9`, `OAI.Laughlin.Certificate.source_error_15_15_1`, `OAI.Laughlin.Certificate.source_error_15_15_11`, `OAI.Laughlin.Certificate.source_error_15_15_13`, `OAI.Laughlin.Certificate.source_error_15_15_15`, `OAI.Laughlin.Certificate.source_error_15_15_3`, `OAI.Laughlin.Certificate.source_error_15_15_5`, `OAI.Laughlin.Certificate.source_error_15_15_7`, `OAI.Laughlin.Certificate.source_error_15_15_9`, `OAI_Laughlin_Certificate_source_error_15_1_1`, `OAI.Laughlin.Certificate.source_error_15_1_11`, `OAI.Laughlin.Certificate.source_error_15_1_13`, `OAI.Laughlin.Certificate.source_error_15_1_15`, `OAI_Laughlin_Certificate_source_error_15_1_3`, `OAI_Laughlin_Certificate_source_error_15_1_5`, `OAI_Laughlin_Certificate_source_error_15_1_7`, `OAI_Laughlin_Certificate_source_error_15_1_9`, `OAI.Laughlin.Certificate.source_error_15_3_1`, `OAI_Laughlin_Certificate_source_error_15_3_11`, `OAI_Laughlin_Certificate_source_error_15_3_13`, `OAI_Laughlin_Certificate_source_error_15_3_15`, `OAI_Laughlin_Certificate_source_error_15_3_3`, `OAI_Laughlin_Certificate_source_error_15_3_5`, `OAI_Laughlin_Certificate_source_error_15_3_7`, `OAI_Laughlin_Certificate_source_error_15_3_9`, `OAI.Laughlin.Certificate.source_error_15_5_1`, `OAI_Laughlin_Certificate_source_error_15_5_11`, `OAI_Laughlin_Certificate_source_error_15_5_13`, `OAI_Laughlin_Certificate_source_error_15_5_15`, `OAI.Laughlin.Certificate.source_error_15_5_3`, `OAI_Laughlin_Certificate_source_error_15_5_5`, `OAI_Laughlin_Certificate_source_error_15_5_7`, `OAI_Laughlin_Certificate_source_error_15_5_9`, `OAI.Laughlin.Certificate.source_error_15_7_1`, `OAI_Laughlin_Certificate_source_error_15_7_11`, `OAI.Laughlin.Certificate.source_error_15_7_13`, `OAI_Laughlin_Certificate_source_error_15_7_15`, `OAI.Laughlin.Certificate.source_error_15_7_3`, `OAI.Laughlin.Certificate.source_error_15_7_5`, `OAI_Laughlin_Certificate_source_error_15_7_7`, `OAI.Laughlin.Certificate.source_error_15_9_1`, `OAI_Laughlin_Certificate_source_error_15_9_11`, `OAI_Laughlin_Certificate_source_error_15_9_13`, `OAI_Laughlin_Certificate_source_error_15_9_15`, `OAI.Laughlin.Certificate.source_error_15_9_3`, `OAI.Laughlin.Certificate.source_error_15_9_5`, `OAI.Laughlin.Certificate.source_error_15_9_7`, `OAI_Laughlin_Certificate_source_error_15_9_9`, `OAI.Laughlin.Certificate.source_error_16_11_1`, `OAI.Laughlin.Certificate.source_error_16_11_11`, `OAI.Laughlin.Certificate.source_error_16_11_13`, `OAI.Laughlin.Certificate.source_error_16_11_15`, `OAI.Laughlin.Certificate.source_error_16_11_3`, `OAI.Laughlin.Certificate.source_error_16_11_5`, `OAI.Laughlin.Certificate.source_error_16_11_7`, `OAI.Laughlin.Certificate.source_error_16_11_9`, `OAI.Laughlin.Certificate.source_error_16_13_1`, `OAI.Laughlin.Certificate.source_error_16_13_11`, `OAI.Laughlin.Certificate.source_error_16_13_13`, `OAI.Laughlin.Certificate.source_error_16_13_15`, `OAI.Laughlin.Certificate.source_error_16_13_3`, `OAI.Laughlin.Certificate.source_error_16_13_5`, `OAI.Laughlin.Certificate.source_error_16_13_7`, `OAI.Laughlin.Certificate.source_error_16_13_9`, `OAI.Laughlin.Certificate.source_error_16_15_1`, `OAI.Laughlin.Certificate.source_error_16_15_11`, `OAI.Laughlin.Certificate.source_error_16_15_13`, `OAI.Laughlin.Certificate.source_error_16_15_15`, `OAI.Laughlin.Certificate.source_error_16_15_3`, `OAI.Laughlin.Certificate.source_error_16_15_5`, `OAI.Laughlin.Certificate.source_error_16_15_7`, `OAI.Laughlin.Certificate.source_error_16_15_9`, `OAI_Laughlin_Certificate_source_error_16_1_1`, `OAI_Laughlin_Certificate_source_error_16_1_11`, `OAI.Laughlin.Certificate.source_error_16_1_13`, `OAI_Laughlin_Certificate_source_error_16_1_15`, `OAI_Laughlin_Certificate_source_error_16_1_3`, `OAI_Laughlin_Certificate_source_error_16_1_5`, `OAI_Laughlin_Certificate_source_error_16_1_7`, `OAI_Laughlin_Certificate_source_error_16_1_9`, `OAI.Laughlin.Certificate.source_error_16_3_1`, `OAI_Laughlin_Certificate_source_error_16_3_11`, `OAI.Laughlin.Certificate.source_error_16_3_13`, `OAI.Laughlin.Certificate.source_error_16_3_15`, `OAI_Laughlin_Certificate_source_error_16_3_3`, `OAI_Laughlin_Certificate_source_error_16_3_7`, `OAI_Laughlin_Certificate_source_error_16_3_9`, `OAI.Laughlin.Certificate.source_error_16_5_1`, `OAI_Laughlin_Certificate_source_error_16_5_11`, `OAI_Laughlin_Certificate_source_error_16_5_13`, `OAI_Laughlin_Certificate_source_error_16_5_15`, `OAI.Laughlin.Certificate.source_error_16_5_3`, `OAI_Laughlin_Certificate_source_error_16_5_5`, `OAI_Laughlin_Certificate_source_error_16_5_7`, `OAI_Laughlin_Certificate_source_error_16_5_9`, `OAI.Laughlin.Certificate.source_error_16_7_1`, `OAI_Laughlin_Certificate_source_error_16_7_11`, `OAI.Laughlin.Certificate.source_error_16_7_13`, `OAI_Laughlin_Certificate_source_error_16_7_15`, `OAI.Laughlin.Certificate.source_error_16_7_3`, `OAI.Laughlin.Certificate.source_error_16_7_5`, `OAI_Laughlin_Certificate_source_error_16_7_7`, `OAI_Laughlin_Certificate_source_error_16_7_9`, `OAI.Laughlin.Certificate.source_error_16_9_1`, `OAI_Laughlin_Certificate_source_error_16_9_11`, `OAI_Laughlin_Certificate_source_error_16_9_13`, `OAI_Laughlin_Certificate_source_error_16_9_15`, `OAI.Laughlin.Certificate.source_error_16_9_3`, `OAI.Laughlin.Certificate.source_error_16_9_5`, `OAI.Laughlin.Certificate.source_error_16_9_7`, `OAI_Laughlin_Certificate_source_error_16_9_9`, `OAI.Laughlin.Certificate.source_error_17_11_1`, `OAI.Laughlin.Certificate.source_error_17_11_11`, `OAI.Laughlin.Certificate.source_error_17_11_13`, `OAI.Laughlin.Certificate.source_error_17_11_15`, `OAI_Laughlin_Certificate_source_error_17_11_17`, `OAI.Laughlin.Certificate.source_error_17_11_3`, `OAI.Laughlin.Certificate.source_error_17_11_5`, `OAI.Laughlin.Certificate.source_error_17_11_7`, `OAI.Laughlin.Certificate.source_error_17_11_9`, `OAI.Laughlin.Certificate.source_error_17_13_1`, `OAI.Laughlin.Certificate.source_error_17_13_11`, `OAI.Laughlin.Certificate.source_error_17_13_13`, `OAI.Laughlin.Certificate.source_error_17_13_15`, `OAI_Laughlin_Certificate_source_error_17_13_17`, `OAI.Laughlin.Certificate.source_error_17_13_3`, `OAI.Laughlin.Certificate.source_error_17_13_5`, `OAI.Laughlin.Certificate.source_error_17_13_7`, `OAI.Laughlin.Certificate.source_error_17_13_9`, `OAI.Laughlin.Certificate.source_error_17_15_1`, `OAI.Laughlin.Certificate.source_error_17_15_11`, `OAI.Laughlin.Certificate.source_error_17_15_13`, `OAI.Laughlin.Certificate.source_error_17_15_15`, `OAI_Laughlin_Certificate_source_error_17_15_17`, `OAI.Laughlin.Certificate.source_error_17_15_3`, `OAI.Laughlin.Certificate.source_error_17_15_5`, `OAI.Laughlin.Certificate.source_error_17_15_7`, `OAI.Laughlin.Certificate.source_error_17_15_9`, `OAI.Laughlin.Certificate.source_error_17_17_1`, `OAI.Laughlin.Certificate.source_error_17_17_11`, `OAI.Laughlin.Certificate.source_error_17_17_13`, `OAI.Laughlin.Certificate.source_error_17_17_15`, `OAI_Laughlin_Certificate_source_error_17_17_17`, `OAI.Laughlin.Certificate.source_error_17_17_3`, `OAI.Laughlin.Certificate.source_error_17_17_5`, `OAI.Laughlin.Certificate.source_error_17_17_7`, `OAI.Laughlin.Certificate.source_error_17_17_9`, `OAI_Laughlin_Certificate_source_error_17_1_1`, `OAI.Laughlin.Certificate.source_error_17_1_11`, `OAI.Laughlin.Certificate.source_error_17_1_13`, `OAI.Laughlin.Certificate.source_error_17_1_15`, `OAI_Laughlin_Certificate_source_error_17_1_3`, `OAI_Laughlin_Certificate_source_error_17_1_5`, `OAI_Laughlin_Certificate_source_error_17_1_7`, `OAI_Laughlin_Certificate_source_error_17_1_9`, `OAI.Laughlin.Certificate.source_error_17_3_1`, `OAI.Laughlin.Certificate.source_error_17_3_11`, `OAI.Laughlin.Certificate.source_error_17_3_13`, `OAI.Laughlin.Certificate.source_error_17_3_15`, `OAI_Laughlin_Certificate_source_error_17_3_17`, `OAI_Laughlin_Certificate_source_error_17_3_3`, `OAI_Laughlin_Certificate_source_error_17_3_5`, `OAI_Laughlin_Certificate_source_error_17_3_7`, `OAI_Laughlin_Certificate_source_error_17_3_9`, `OAI.Laughlin.Certificate.source_error_17_5_1`, `OAI.Laughlin.Certificate.source_error_17_5_11`, `OAI.Laughlin.Certificate.source_error_17_5_13`, `OAI_Laughlin_Certificate_source_error_17_5_15`, `OAI_Laughlin_Certificate_source_error_17_5_17`, `OAI.Laughlin.Certificate.source_error_17_5_3`, `OAI_Laughlin_Certificate_source_error_17_5_5`, `OAI_Laughlin_Certificate_source_error_17_5_7`, `OAI_Laughlin_Certificate_source_error_17_5_9`, `OAI.Laughlin.Certificate.source_error_17_7_1`, `OAI.Laughlin.Certificate.source_error_17_7_11`, `OAI.Laughlin.Certificate.source_error_17_7_13`, `OAI.Laughlin.Certificate.source_error_17_7_15`, `OAI_Laughlin_Certificate_source_error_17_7_17`, `OAI.Laughlin.Certificate.source_error_17_7_3`, `OAI.Laughlin.Certificate.source_error_17_7_5`, `OAI_Laughlin_Certificate_source_error_17_7_7`, `OAI_Laughlin_Certificate_source_error_17_7_9`, `OAI.Laughlin.Certificate.source_error_17_9_1`, `OAI_Laughlin_Certificate_source_error_17_9_11`, `OAI.Laughlin.Certificate.source_error_17_9_13`, `OAI.Laughlin.Certificate.source_error_17_9_15`, `OAI_Laughlin_Certificate_source_error_17_9_17`, `OAI.Laughlin.Certificate.source_error_17_9_3`, `OAI.Laughlin.Certificate.source_error_17_9_5`, `OAI.Laughlin.Certificate.source_error_17_9_7`, `OAI_Laughlin_Certificate_source_error_17_9_9`, `OAI.Laughlin.Certificate.source_error_18_11_1`, `OAI.Laughlin.Certificate.source_error_18_11_11`, `OAI.Laughlin.Certificate.source_error_18_11_13`, `OAI.Laughlin.Certificate.source_error_18_11_15`, `OAI_Laughlin_Certificate_source_error_18_11_17`, `OAI.Laughlin.Certificate.source_error_18_11_3`, `OAI.Laughlin.Certificate.source_error_18_11_5`, `OAI.Laughlin.Certificate.source_error_18_11_7`, `OAI.Laughlin.Certificate.source_error_18_11_9`, `OAI.Laughlin.Certificate.source_error_18_13_1`, `OAI.Laughlin.Certificate.source_error_18_13_11`, `OAI.Laughlin.Certificate.source_error_18_13_13`, `OAI.Laughlin.Certificate.source_error_18_13_15`, `OAI_Laughlin_Certificate_source_error_18_13_17`, `OAI.Laughlin.Certificate.source_error_18_13_3`, `OAI.Laughlin.Certificate.source_error_18_13_5`, `OAI.Laughlin.Certificate.source_error_18_13_7`, `OAI.Laughlin.Certificate.source_error_18_13_9`, `OAI.Laughlin.Certificate.source_error_18_15_1`, `OAI.Laughlin.Certificate.source_error_18_15_11`, `OAI.Laughlin.Certificate.source_error_18_15_13`, `OAI.Laughlin.Certificate.source_error_18_15_15`, `OAI_Laughlin_Certificate_source_error_18_15_17`, `OAI.Laughlin.Certificate.source_error_18_15_3`, `OAI.Laughlin.Certificate.source_error_18_15_5`, `OAI.Laughlin.Certificate.source_error_18_15_7`, `OAI.Laughlin.Certificate.source_error_18_15_9`, `OAI.Laughlin.Certificate.source_error_18_17_1`, `OAI.Laughlin.Certificate.source_error_18_17_11`, `OAI.Laughlin.Certificate.source_error_18_17_13`, `OAI.Laughlin.Certificate.source_error_18_17_15`, `OAI_Laughlin_Certificate_source_error_18_17_17`, `OAI.Laughlin.Certificate.source_error_18_17_3`, `OAI.Laughlin.Certificate.source_error_18_17_5`, `OAI.Laughlin.Certificate.source_error_18_17_7`, `OAI.Laughlin.Certificate.source_error_18_17_9`, `OAI_Laughlin_Certificate_source_error_18_1_1`, `OAI.Laughlin.Certificate.source_error_18_1_11`, `OAI.Laughlin.Certificate.source_error_18_1_13`, `OAI.Laughlin.Certificate.source_error_18_1_15`, `OAI_Laughlin_Certificate_source_error_18_1_3`, `OAI_Laughlin_Certificate_source_error_18_1_5`, `OAI_Laughlin_Certificate_source_error_18_1_7`, `OAI_Laughlin_Certificate_source_error_18_1_9`, `OAI.Laughlin.Certificate.source_error_18_3_1`, `OAI.Laughlin.Certificate.source_error_18_3_11`, `OAI.Laughlin.Certificate.source_error_18_3_13`, `OAI_Laughlin_Certificate_source_error_18_3_15`, `OAI_Laughlin_Certificate_source_error_18_3_17`, `OAI_Laughlin_Certificate_source_error_18_3_3`, `OAI_Laughlin_Certificate_source_error_18_3_5`, `OAI_Laughlin_Certificate_source_error_18_3_7`, `OAI_Laughlin_Certificate_source_error_18_3_9`, `OAI.Laughlin.Certificate.source_error_18_5_1`, `OAI.Laughlin.Certificate.source_error_18_5_11`, `OAI.Laughlin.Certificate.source_error_18_5_13`, `OAI.Laughlin.Certificate.source_error_18_5_15`, `OAI_Laughlin_Certificate_source_error_18_5_17`, `OAI.Laughlin.Certificate.source_error_18_5_3`, `OAI_Laughlin_Certificate_source_error_18_5_5`, `OAI_Laughlin_Certificate_source_error_18_5_7`, `OAI_Laughlin_Certificate_source_error_18_5_9`, `OAI.Laughlin.Certificate.source_error_18_7_1`, `OAI.Laughlin.Certificate.source_error_18_7_11`, `OAI.Laughlin.Certificate.source_error_18_7_13`, `OAI.Laughlin.Certificate.source_error_18_7_15`, `OAI_Laughlin_Certificate_source_error_18_7_17`, `OAI.Laughlin.Certificate.source_error_18_7_3`, `OAI.Laughlin.Certificate.source_error_18_7_5`, `OAI_Laughlin_Certificate_source_error_18_7_7`, `OAI_Laughlin_Certificate_source_error_18_7_9`, `OAI.Laughlin.Certificate.source_error_18_9_1`, `OAI_Laughlin_Certificate_source_error_18_9_11`, `OAI.Laughlin.Certificate.source_error_18_9_13`, `OAI.Laughlin.Certificate.source_error_18_9_15`, `OAI_Laughlin_Certificate_source_error_18_9_17`, `OAI.Laughlin.Certificate.source_error_18_9_3`, `OAI.Laughlin.Certificate.source_error_18_9_5`, `OAI.Laughlin.Certificate.source_error_18_9_7`, `OAI_Laughlin_Certificate_source_error_18_9_9`, `OAI.Laughlin.Certificate.source_error_19_11_1`, `OAI.Laughlin.Certificate.source_error_19_11_11`, `OAI.Laughlin.Certificate.source_error_19_11_13`, `OAI.Laughlin.Certificate.source_error_19_11_15`, `OAI_Laughlin_Certificate_source_error_19_11_17`, `OAI_Laughlin_Certificate_source_error_19_11_19`, `OAI.Laughlin.Certificate.source_error_19_11_3`, `OAI.Laughlin.Certificate.source_error_19_11_5`, `OAI.Laughlin.Certificate.source_error_19_11_7`, `OAI.Laughlin.Certificate.source_error_19_11_9`, `OAI.Laughlin.Certificate.source_error_19_13_1`, `OAI.Laughlin.Certificate.source_error_19_13_11`, `OAI.Laughlin.Certificate.source_error_19_13_13`, `OAI.Laughlin.Certificate.source_error_19_13_15`, `OAI_Laughlin_Certificate_source_error_19_13_17`, `OAI_Laughlin_Certificate_source_error_19_13_19`, `OAI.Laughlin.Certificate.source_error_19_13_3`, `OAI.Laughlin.Certificate.source_error_19_13_5`, `OAI.Laughlin.Certificate.source_error_19_13_7`, `OAI.Laughlin.Certificate.source_error_19_13_9`, `OAI.Laughlin.Certificate.source_error_19_15_1`, `OAI.Laughlin.Certificate.source_error_19_15_11`, `OAI.Laughlin.Certificate.source_error_19_15_13`, `OAI.Laughlin.Certificate.source_error_19_15_15`, `OAI_Laughlin_Certificate_source_error_19_15_17`, `OAI_Laughlin_Certificate_source_error_19_15_19`, `OAI.Laughlin.Certificate.source_error_19_15_3`, `OAI.Laughlin.Certificate.source_error_19_15_5`, `OAI.Laughlin.Certificate.source_error_19_15_7`, `OAI.Laughlin.Certificate.source_error_19_15_9`, `OAI.Laughlin.Certificate.source_error_19_17_1`, `OAI.Laughlin.Certificate.source_error_19_17_11`, `OAI.Laughlin.Certificate.source_error_19_17_13`, `OAI.Laughlin.Certificate.source_error_19_17_15`, `OAI_Laughlin_Certificate_source_error_19_17_17`, `OAI_Laughlin_Certificate_source_error_19_17_19`, `OAI.Laughlin.Certificate.source_error_19_17_3`, `OAI.Laughlin.Certificate.source_error_19_17_5`, `OAI.Laughlin.Certificate.source_error_19_17_7`, `OAI.Laughlin.Certificate.source_error_19_17_9`, `OAI.Laughlin.Certificate.source_error_19_19_1`, `OAI.Laughlin.Certificate.source_error_19_19_11`, `OAI.Laughlin.Certificate.source_error_19_19_13`, `OAI.Laughlin.Certificate.source_error_19_19_15`, `OAI.Laughlin.Certificate.source_error_19_19_17`, `OAI_Laughlin_Certificate_source_error_19_19_19`, `OAI.Laughlin.Certificate.source_error_19_19_3`, `OAI.Laughlin.Certificate.source_error_19_19_5`, `OAI.Laughlin.Certificate.source_error_19_19_7`, `OAI.Laughlin.Certificate.source_error_19_19_9`, `OAI.Laughlin.Certificate.source_error_19_1_1`, `OAI.Laughlin.Certificate.source_error_19_1_11`, `OAI.Laughlin.Certificate.source_error_19_1_13`, `OAI.Laughlin.Certificate.source_error_19_1_15`, `OAI_Laughlin_Certificate_source_error_19_1_19`, `OAI.Laughlin.Certificate.source_error_19_1_3`, `OAI.Laughlin.Certificate.source_error_19_1_5`, `OAI_Laughlin_Certificate_source_error_19_1_7`, `OAI_Laughlin_Certificate_source_error_19_1_9`, `OAI.Laughlin.Certificate.source_error_19_3_1`, `OAI.Laughlin.Certificate.source_error_19_3_11`, `OAI.Laughlin.Certificate.source_error_19_3_13`, `OAI.Laughlin.Certificate.source_error_19_3_15`, `OAI_Laughlin_Certificate_source_error_19_3_17`, `OAI_Laughlin_Certificate_source_error_19_3_19`, `OAI.Laughlin.Certificate.source_error_19_3_3`, `OAI.Laughlin.Certificate.source_error_19_3_5`, `OAI.Laughlin.Certificate.source_error_19_3_7`, `OAI_Laughlin_Certificate_source_error_19_3_9`, `OAI.Laughlin.Certificate.source_error_19_5_1`, `OAI.Laughlin.Certificate.source_error_19_5_11`, `OAI.Laughlin.Certificate.source_error_19_5_13`, `OAI.Laughlin.Certificate.source_error_19_5_15`, `OAI_Laughlin_Certificate_source_error_19_5_17`, `OAI_Laughlin_Certificate_source_error_19_5_19`, `OAI.Laughlin.Certificate.source_error_19_5_3`, `OAI.Laughlin.Certificate.source_error_19_5_5`, `OAI_Laughlin_Certificate_source_error_19_5_7`, `OAI.Laughlin.Certificate.source_error_19_5_9`, `OAI.Laughlin.Certificate.source_error_19_7_1`, `OAI.Laughlin.Certificate.source_error_19_7_11`, `OAI.Laughlin.Certificate.source_error_19_7_13`, `OAI.Laughlin.Certificate.source_error_19_7_15`, `OAI_Laughlin_Certificate_source_error_19_7_17`, `OAI_Laughlin_Certificate_source_error_19_7_19`, `OAI.Laughlin.Certificate.source_error_19_7_3`, `OAI.Laughlin.Certificate.source_error_19_7_5`, `OAI_Laughlin_Certificate_source_error_19_7_7`, `OAI_Laughlin_Certificate_source_error_19_7_9`, `OAI.Laughlin.Certificate.source_error_19_9_1`, `OAI.Laughlin.Certificate.source_error_19_9_11`, `OAI.Laughlin.Certificate.source_error_19_9_13`, `OAI.Laughlin.Certificate.source_error_19_9_15`, `OAI_Laughlin_Certificate_source_error_19_9_17`, `OAI_Laughlin_Certificate_source_error_19_9_19`, `OAI.Laughlin.Certificate.source_error_19_9_3`, `OAI.Laughlin.Certificate.source_error_19_9_5`, `OAI.Laughlin.Certificate.source_error_19_9_7`, `OAI_Laughlin_Certificate_source_error_19_9_9`, `OAI.Laughlin.Certificate.source_error_20_11_1`, `OAI.Laughlin.Certificate.source_error_20_11_11`, `OAI.Laughlin.Certificate.source_error_20_11_13`, `OAI.Laughlin.Certificate.source_error_20_11_15`, `OAI_Laughlin_Certificate_source_error_20_11_17`, `OAI_Laughlin_Certificate_source_error_20_11_19`, `OAI.Laughlin.Certificate.source_error_20_11_3`, `OAI.Laughlin.Certificate.source_error_20_11_5`, `OAI.Laughlin.Certificate.source_error_20_11_7`, `OAI.Laughlin.Certificate.source_error_20_11_9`, `OAI.Laughlin.Certificate.source_error_20_13_1`, `OAI.Laughlin.Certificate.source_error_20_13_11`, `OAI.Laughlin.Certificate.source_error_20_13_13`, `OAI.Laughlin.Certificate.source_error_20_13_15`, `OAI_Laughlin_Certificate_source_error_20_13_17`, `OAI_Laughlin_Certificate_source_error_20_13_19`, `OAI.Laughlin.Certificate.source_error_20_13_3`, `OAI.Laughlin.Certificate.source_error_20_13_5`, `OAI.Laughlin.Certificate.source_error_20_13_7`, `OAI.Laughlin.Certificate.source_error_20_13_9`, `OAI.Laughlin.Certificate.source_error_20_15_1`, `OAI.Laughlin.Certificate.source_error_20_15_11`, `OAI.Laughlin.Certificate.source_error_20_15_13`, `OAI.Laughlin.Certificate.source_error_20_15_15`, `OAI_Laughlin_Certificate_source_error_20_15_17`, `OAI_Laughlin_Certificate_source_error_20_15_19`, `OAI.Laughlin.Certificate.source_error_20_15_3`, `OAI.Laughlin.Certificate.source_error_20_15_5`, `OAI.Laughlin.Certificate.source_error_20_15_7`, `OAI.Laughlin.Certificate.source_error_20_15_9`, `OAI.Laughlin.Certificate.source_error_20_17_1`, `OAI.Laughlin.Certificate.source_error_20_17_11`, `OAI.Laughlin.Certificate.source_error_20_17_13`, `OAI.Laughlin.Certificate.source_error_20_17_15`, `OAI_Laughlin_Certificate_source_error_20_17_17`, `OAI_Laughlin_Certificate_source_error_20_17_19`, `OAI.Laughlin.Certificate.source_error_20_17_3`, `OAI.Laughlin.Certificate.source_error_20_17_5`, `OAI.Laughlin.Certificate.source_error_20_17_7`, `OAI.Laughlin.Certificate.source_error_20_17_9`, `OAI.Laughlin.Certificate.source_error_20_19_1`, `OAI.Laughlin.Certificate.source_error_20_19_11`, `OAI.Laughlin.Certificate.source_error_20_19_13`, `OAI.Laughlin.Certificate.source_error_20_19_15`, `OAI.Laughlin.Certificate.source_error_20_19_17`, `OAI_Laughlin_Certificate_source_error_20_19_19`, `OAI.Laughlin.Certificate.source_error_20_19_3`, `OAI.Laughlin.Certificate.source_error_20_19_5`, `OAI.Laughlin.Certificate.source_error_20_19_7`, `OAI.Laughlin.Certificate.source_error_20_19_9`, `OAI.Laughlin.Certificate.source_error_20_1_1`, `OAI.Laughlin.Certificate.source_error_20_1_11`, `OAI.Laughlin.Certificate.source_error_20_1_13`, `OAI.Laughlin.Certificate.source_error_20_1_15`, `OAI_Laughlin_Certificate_source_error_20_1_19`, `OAI.Laughlin.Certificate.source_error_20_1_3`, `OAI.Laughlin.Certificate.source_error_20_1_5`, `OAI_Laughlin_Certificate_source_error_20_1_7`, `OAI.Laughlin.Certificate.source_error_20_1_9`, `OAI.Laughlin.Certificate.source_error_20_3_1`, `OAI.Laughlin.Certificate.source_error_20_3_11`, `OAI.Laughlin.Certificate.source_error_20_3_13`, `OAI.Laughlin.Certificate.source_error_20_3_15`, `OAI_Laughlin_Certificate_source_error_20_3_17`, `OAI_Laughlin_Certificate_source_error_20_3_19`, `OAI.Laughlin.Certificate.source_error_20_3_3`, `OAI.Laughlin.Certificate.source_error_20_3_5`, `OAI.Laughlin.Certificate.source_error_20_3_7`, `OAI_Laughlin_Certificate_source_error_20_3_9`, `OAI.Laughlin.Certificate.source_error_20_5_1`, `OAI.Laughlin.Certificate.source_error_20_5_11`, `OAI.Laughlin.Certificate.source_error_20_5_13`, `OAI.Laughlin.Certificate.source_error_20_5_15`, `OAI_Laughlin_Certificate_source_error_20_5_17`, `OAI_Laughlin_Certificate_source_error_20_5_19`, `OAI.Laughlin.Certificate.source_error_20_5_3`, `OAI.Laughlin.Certificate.source_error_20_5_5`, `OAI_Laughlin_Certificate_source_error_20_5_7`, `OAI_Laughlin_Certificate_source_error_20_5_9`, `OAI.Laughlin.Certificate.source_error_20_7_1`, `OAI.Laughlin.Certificate.source_error_20_7_11`, `OAI.Laughlin.Certificate.source_error_20_7_13`, `OAI.Laughlin.Certificate.source_error_20_7_15`, `OAI_Laughlin_Certificate_source_error_20_7_17`, `OAI_Laughlin_Certificate_source_error_20_7_19`, `OAI.Laughlin.Certificate.source_error_20_7_3`, `OAI.Laughlin.Certificate.source_error_20_7_5`, `OAI_Laughlin_Certificate_source_error_20_7_7`, `OAI_Laughlin_Certificate_source_error_20_7_9`, `OAI.Laughlin.Certificate.source_error_20_9_1`, `OAI.Laughlin.Certificate.source_error_20_9_11`, `OAI.Laughlin.Certificate.source_error_20_9_13`, `OAI.Laughlin.Certificate.source_error_20_9_15`, `OAI_Laughlin_Certificate_source_error_20_9_17`, `OAI_Laughlin_Certificate_source_error_20_9_19`, `OAI.Laughlin.Certificate.source_error_20_9_3`, `OAI.Laughlin.Certificate.source_error_20_9_5`, `OAI.Laughlin.Certificate.source_error_20_9_7`, `OAI_Laughlin_Certificate_source_error_20_9_9`, `OAI.Laughlin.Certificate.source_error_21_11_1`, `OAI.Laughlin.Certificate.source_error_21_11_11`, `OAI.Laughlin.Certificate.source_error_21_11_13`, `OAI.Laughlin.Certificate.source_error_21_11_15`, `OAI_Laughlin_Certificate_source_error_21_11_17`, `OAI_Laughlin_Certificate_source_error_21_11_19`, `OAI_Laughlin_Certificate_source_error_21_11_21`, `OAI.Laughlin.Certificate.source_error_21_11_3`, `OAI.Laughlin.Certificate.source_error_21_11_5`, `OAI.Laughlin.Certificate.source_error_21_11_7`, `OAI.Laughlin.Certificate.source_error_21_11_9`, `OAI.Laughlin.Certificate.source_error_21_13_1`, `OAI.Laughlin.Certificate.source_error_21_13_11`, `OAI.Laughlin.Certificate.source_error_21_13_13`, `OAI.Laughlin.Certificate.source_error_21_13_15`, `OAI_Laughlin_Certificate_source_error_21_13_17`, `OAI_Laughlin_Certificate_source_error_21_13_19`, `OAI_Laughlin_Certificate_source_error_21_13_21`, `OAI.Laughlin.Certificate.source_error_21_13_3`, `OAI.Laughlin.Certificate.source_error_21_13_5`, `OAI.Laughlin.Certificate.source_error_21_13_7`, `OAI.Laughlin.Certificate.source_error_21_13_9`, `OAI.Laughlin.Certificate.source_error_21_15_1`, `OAI.Laughlin.Certificate.source_error_21_15_11`, `OAI.Laughlin.Certificate.source_error_21_15_13`, `OAI.Laughlin.Certificate.source_error_21_15_15`, `OAI_Laughlin_Certificate_source_error_21_15_17`, `OAI_Laughlin_Certificate_source_error_21_15_19`, `OAI_Laughlin_Certificate_source_error_21_15_21`, `OAI.Laughlin.Certificate.source_error_21_15_3`, `OAI.Laughlin.Certificate.source_error_21_15_5`, `OAI.Laughlin.Certificate.source_error_21_15_7`, `OAI.Laughlin.Certificate.source_error_21_15_9`, `OAI.Laughlin.Certificate.source_error_21_17_1`, `OAI.Laughlin.Certificate.source_error_21_17_11`, `OAI.Laughlin.Certificate.source_error_21_17_13`, `OAI.Laughlin.Certificate.source_error_21_17_15`, `OAI_Laughlin_Certificate_source_error_21_17_17`, `OAI_Laughlin_Certificate_source_error_21_17_19`, `OAI.Laughlin.Certificate.source_error_21_17_21`, `OAI.Laughlin.Certificate.source_error_21_17_3`, `OAI.Laughlin.Certificate.source_error_21_17_5`, `OAI.Laughlin.Certificate.source_error_21_17_7`, `OAI.Laughlin.Certificate.source_error_21_17_9`, `OAI.Laughlin.Certificate.source_error_21_19_1`, `OAI.Laughlin.Certificate.source_error_21_19_11`, `OAI.Laughlin.Certificate.source_error_21_19_13`, `OAI.Laughlin.Certificate.source_error_21_19_15`, `OAI.Laughlin.Certificate.source_error_21_19_17`, `OAI.Laughlin.Certificate.source_error_21_19_19`, `OAI.Laughlin.Certificate.source_error_21_19_21`, `OAI.Laughlin.Certificate.source_error_21_19_3`, `OAI.Laughlin.Certificate.source_error_21_19_5`, `OAI.Laughlin.Certificate.source_error_21_19_7`, `OAI.Laughlin.Certificate.source_error_21_19_9`, `OAI.Laughlin.Certificate.source_error_21_1_1`, `OAI.Laughlin.Certificate.source_error_21_1_11`, `OAI.Laughlin.Certificate.source_error_21_1_13`, `OAI.Laughlin.Certificate.source_error_21_1_15`, `OAI_Laughlin_Certificate_source_error_21_1_19`, `OAI_Laughlin_Certificate_source_error_21_1_21`, `OAI.Laughlin.Certificate.source_error_21_1_3`, `OAI.Laughlin.Certificate.source_error_21_1_5`, `OAI.Laughlin.Certificate.source_error_21_1_7`, `OAI.Laughlin.Certificate.source_error_21_1_9`, `OAI.Laughlin.Certificate.source_error_21_21_1`, `OAI.Laughlin.Certificate.source_error_21_21_11`, `OAI.Laughlin.Certificate.source_error_21_21_13`, `OAI.Laughlin.Certificate.source_error_21_21_15`, `OAI.Laughlin.Certificate.source_error_21_21_17`, `OAI.Laughlin.Certificate.source_error_21_21_19`, `OAI.Laughlin.Certificate.source_error_21_21_21`, `OAI.Laughlin.Certificate.source_error_21_21_3`, `OAI.Laughlin.Certificate.source_error_21_21_5`, `OAI.Laughlin.Certificate.source_error_21_21_7`, `OAI.Laughlin.Certificate.source_error_21_21_9`, `OAI.Laughlin.Certificate.source_error_21_3_1`, `OAI.Laughlin.Certificate.source_error_21_3_11`, `OAI.Laughlin.Certificate.source_error_21_3_13`, `OAI.Laughlin.Certificate.source_error_21_3_15`, `OAI_Laughlin_Certificate_source_error_21_3_17`, `OAI_Laughlin_Certificate_source_error_21_3_19`, `OAI_Laughlin_Certificate_source_error_21_3_21`, `OAI.Laughlin.Certificate.source_error_21_3_3`, `OAI.Laughlin.Certificate.source_error_21_3_5`, `OAI.Laughlin.Certificate.source_error_21_3_7`, `OAI.Laughlin.Certificate.source_error_21_3_9`, `OAI.Laughlin.Certificate.source_error_21_5_1`, `OAI.Laughlin.Certificate.source_error_21_5_11`, `OAI.Laughlin.Certificate.source_error_21_5_13`, `OAI.Laughlin.Certificate.source_error_21_5_15`, `OAI_Laughlin_Certificate_source_error_21_5_17`, `OAI_Laughlin_Certificate_source_error_21_5_19`, `OAI_Laughlin_Certificate_source_error_21_5_21`, `OAI.Laughlin.Certificate.source_error_21_5_3`, `OAI.Laughlin.Certificate.source_error_21_5_5`, `OAI.Laughlin.Certificate.source_error_21_5_7`, `OAI.Laughlin.Certificate.source_error_21_5_9`, `OAI.Laughlin.Certificate.source_error_21_7_1`, `OAI.Laughlin.Certificate.source_error_21_7_11`, `OAI.Laughlin.Certificate.source_error_21_7_13`, `OAI.Laughlin.Certificate.source_error_21_7_15`, `OAI_Laughlin_Certificate_source_error_21_7_17`, `OAI_Laughlin_Certificate_source_error_21_7_19`, `OAI_Laughlin_Certificate_source_error_21_7_21`, `OAI.Laughlin.Certificate.source_error_21_7_3`, `OAI.Laughlin.Certificate.source_error_21_7_5`, `OAI.Laughlin.Certificate.source_error_21_7_7`, `OAI.Laughlin.Certificate.source_error_21_7_9`, `OAI.Laughlin.Certificate.source_error_21_9_1`, `OAI.Laughlin.Certificate.source_error_21_9_11`, `OAI.Laughlin.Certificate.source_error_21_9_13`, `OAI.Laughlin.Certificate.source_error_21_9_15`, `OAI_Laughlin_Certificate_source_error_21_9_17`, `OAI_Laughlin_Certificate_source_error_21_9_19`, `OAI_Laughlin_Certificate_source_error_21_9_21`, `OAI.Laughlin.Certificate.source_error_21_9_3`, `OAI.Laughlin.Certificate.source_error_21_9_5`, `OAI.Laughlin.Certificate.source_error_21_9_7`, `OAI.Laughlin.Certificate.source_error_21_9_9`, `OAI.Laughlin.Certificate.source_error_22_11_1`, `OAI.Laughlin.Certificate.source_error_22_11_11`, `OAI.Laughlin.Certificate.source_error_22_11_13`, `OAI.Laughlin.Certificate.source_error_22_11_15`, `OAI.Laughlin.Certificate.source_error_22_11_17`, `OAI.Laughlin.Certificate.source_error_22_11_19`, `OAI.Laughlin.Certificate.source_error_22_11_21`, `OAI.Laughlin.Certificate.source_error_22_11_3`, `OAI.Laughlin.Certificate.source_error_22_11_5`, `OAI.Laughlin.Certificate.source_error_22_11_7`, `OAI.Laughlin.Certificate.source_error_22_11_9`, `OAI.Laughlin.Certificate.source_error_22_13_1`, `OAI.Laughlin.Certificate.source_error_22_13_11`, `OAI.Laughlin.Certificate.source_error_22_13_13`, `OAI.Laughlin.Certificate.source_error_22_13_15`, `OAI.Laughlin.Certificate.source_error_22_13_17`, `OAI.Laughlin.Certificate.source_error_22_13_19`, `OAI.Laughlin.Certificate.source_error_22_13_21`, `OAI.Laughlin.Certificate.source_error_22_13_3`, `OAI.Laughlin.Certificate.source_error_22_13_5`, `OAI.Laughlin.Certificate.source_error_22_13_7`, `OAI.Laughlin.Certificate.source_error_22_13_9`, `OAI.Laughlin.Certificate.source_error_22_15_1`, `OAI.Laughlin.Certificate.source_error_22_15_11`, `OAI.Laughlin.Certificate.source_error_22_15_13`, `OAI.Laughlin.Certificate.source_error_22_15_15`, `OAI.Laughlin.Certificate.source_error_22_15_17`, `OAI.Laughlin.Certificate.source_error_22_15_19`, `OAI.Laughlin.Certificate.source_error_22_15_21`, `OAI.Laughlin.Certificate.source_error_22_15_3`, `OAI.Laughlin.Certificate.source_error_22_15_5`, `OAI.Laughlin.Certificate.source_error_22_15_7`, `OAI.Laughlin.Certificate.source_error_22_15_9`, `OAI.Laughlin.Certificate.source_error_22_17_1`, `OAI.Laughlin.Certificate.source_error_22_17_11`, `OAI.Laughlin.Certificate.source_error_22_17_13`, `OAI.Laughlin.Certificate.source_error_22_17_15`, `OAI.Laughlin.Certificate.source_error_22_17_17`, `OAI.Laughlin.Certificate.source_error_22_17_19`, `OAI.Laughlin.Certificate.source_error_22_17_21`, `OAI.Laughlin.Certificate.source_error_22_17_3`, `OAI.Laughlin.Certificate.source_error_22_17_5`, `OAI.Laughlin.Certificate.source_error_22_17_7`, `OAI.Laughlin.Certificate.source_error_22_17_9`, `OAI.Laughlin.Certificate.source_error_22_19_1`, `OAI.Laughlin.Certificate.source_error_22_19_11`, `OAI.Laughlin.Certificate.source_error_22_19_13`, `OAI.Laughlin.Certificate.source_error_22_19_15`, `OAI.Laughlin.Certificate.source_error_22_19_17`, `OAI.Laughlin.Certificate.source_error_22_19_19`, `OAI.Laughlin.Certificate.source_error_22_19_21`, `OAI.Laughlin.Certificate.source_error_22_19_3`, `OAI.Laughlin.Certificate.source_error_22_19_5`, `OAI.Laughlin.Certificate.source_error_22_19_7`, `OAI.Laughlin.Certificate.source_error_22_19_9`, `OAI_Laughlin_Certificate_source_error_22_1_11`, `OAI_Laughlin_Certificate_source_error_22_1_13`, `OAI_Laughlin_Certificate_source_error_22_1_15`, `OAI_Laughlin_Certificate_source_error_22_1_17`, `OAI_Laughlin_Certificate_source_error_22_1_19`, `OAI_Laughlin_Certificate_source_error_22_1_21`, `OAI_Laughlin_Certificate_source_error_22_1_3`, `OAI_Laughlin_Certificate_source_error_22_1_5`, `OAI_Laughlin_Certificate_source_error_22_1_7`, `OAI_Laughlin_Certificate_source_error_22_1_9`, `OAI.Laughlin.Certificate.source_error_22_21_1`, `OAI.Laughlin.Certificate.source_error_22_21_11`, `OAI.Laughlin.Certificate.source_error_22_21_13`, `OAI.Laughlin.Certificate.source_error_22_21_15`, `OAI.Laughlin.Certificate.source_error_22_21_17`, `OAI.Laughlin.Certificate.source_error_22_21_19`, `OAI.Laughlin.Certificate.source_error_22_21_21`, `OAI.Laughlin.Certificate.source_error_22_21_3`, `OAI.Laughlin.Certificate.source_error_22_21_5`, `OAI.Laughlin.Certificate.source_error_22_21_7`, `OAI.Laughlin.Certificate.source_error_22_21_9`, `OAI.Laughlin.Certificate.source_error_22_3_1`, `OAI_Laughlin_Certificate_source_error_22_3_11`, `OAI_Laughlin_Certificate_source_error_22_3_13`, `OAI_Laughlin_Certificate_source_error_22_3_15`, `OAI_Laughlin_Certificate_source_error_22_3_17`, `OAI_Laughlin_Certificate_source_error_22_3_19`, `OAI.Laughlin.Certificate.source_error_22_3_21`, `OAI_Laughlin_Certificate_source_error_22_3_3`, `OAI_Laughlin_Certificate_source_error_22_3_5`, `OAI_Laughlin_Certificate_source_error_22_3_7`, `OAI_Laughlin_Certificate_source_error_22_3_9`, `OAI.Laughlin.Certificate.source_error_22_5_1`, `OAI.Laughlin.Certificate.source_error_22_5_11`, `OAI.Laughlin.Certificate.source_error_22_5_13`, `OAI.Laughlin.Certificate.source_error_22_5_15`, `OAI.Laughlin.Certificate.source_error_22_5_17`, `OAI.Laughlin.Certificate.source_error_22_5_19`, `OAI.Laughlin.Certificate.source_error_22_5_21`, `OAI.Laughlin.Certificate.source_error_22_5_3`, `OAI_Laughlin_Certificate_source_error_22_5_5`, `OAI_Laughlin_Certificate_source_error_22_5_7`, `OAI_Laughlin_Certificate_source_error_22_5_9`, `OAI.Laughlin.Certificate.source_error_22_7_1`, `OAI.Laughlin.Certificate.source_error_22_7_11`, `OAI.Laughlin.Certificate.source_error_22_7_13`, `OAI.Laughlin.Certificate.source_error_22_7_15`, `OAI.Laughlin.Certificate.source_error_22_7_17`, `OAI.Laughlin.Certificate.source_error_22_7_19`, `OAI.Laughlin.Certificate.source_error_22_7_21`, `OAI.Laughlin.Certificate.source_error_22_7_3`, `OAI.Laughlin.Certificate.source_error_22_7_5`, `OAI_Laughlin_Certificate_source_error_22_7_7`, `OAI_Laughlin_Certificate_source_error_22_7_9`, `OAI.Laughlin.Certificate.source_error_22_9_1`, `OAI.Laughlin.Certificate.source_error_22_9_11`, `OAI.Laughlin.Certificate.source_error_22_9_13`, `OAI.Laughlin.Certificate.source_error_22_9_15`, `OAI.Laughlin.Certificate.source_error_22_9_17`, `OAI.Laughlin.Certificate.source_error_22_9_19`, `OAI.Laughlin.Certificate.source_error_22_9_21`, `OAI.Laughlin.Certificate.source_error_22_9_3`, `OAI.Laughlin.Certificate.source_error_22_9_5`, `OAI.Laughlin.Certificate.source_error_22_9_7`, `OAI_Laughlin_Certificate_source_error_22_9_9`, `OAI.Laughlin.Certificate.source_error_23_11_1`, `OAI.Laughlin.Certificate.source_error_23_11_11`, `OAI.Laughlin.Certificate.source_error_23_11_13`, `OAI.Laughlin.Certificate.source_error_23_11_15`, `OAI.Laughlin.Certificate.source_error_23_11_17`, `OAI.Laughlin.Certificate.source_error_23_11_19`, `OAI.Laughlin.Certificate.source_error_23_11_21`, `OAI.Laughlin.Certificate.source_error_23_11_23`, `OAI.Laughlin.Certificate.source_error_23_11_3`, `OAI.Laughlin.Certificate.source_error_23_11_5`, `OAI.Laughlin.Certificate.source_error_23_11_7`, `OAI.Laughlin.Certificate.source_error_23_11_9`, `OAI.Laughlin.Certificate.source_error_23_13_1`, `OAI.Laughlin.Certificate.source_error_23_13_11`, `OAI.Laughlin.Certificate.source_error_23_13_13`, `OAI.Laughlin.Certificate.source_error_23_13_15`, `OAI.Laughlin.Certificate.source_error_23_13_17`, `OAI.Laughlin.Certificate.source_error_23_13_19`, `OAI.Laughlin.Certificate.source_error_23_13_21`, `OAI.Laughlin.Certificate.source_error_23_13_23`, `OAI.Laughlin.Certificate.source_error_23_13_3`, `OAI.Laughlin.Certificate.source_error_23_13_5`, `OAI.Laughlin.Certificate.source_error_23_13_7`, `OAI.Laughlin.Certificate.source_error_23_13_9`, `OAI.Laughlin.Certificate.source_error_23_15_1`, `OAI.Laughlin.Certificate.source_error_23_15_11`, `OAI.Laughlin.Certificate.source_error_23_15_13`, `OAI.Laughlin.Certificate.source_error_23_15_15`, `OAI.Laughlin.Certificate.source_error_23_15_17`, `OAI.Laughlin.Certificate.source_error_23_15_19`, `OAI.Laughlin.Certificate.source_error_23_15_21`, `OAI.Laughlin.Certificate.source_error_23_15_23`, `OAI.Laughlin.Certificate.source_error_23_15_3`, `OAI.Laughlin.Certificate.source_error_23_15_5`, `OAI.Laughlin.Certificate.source_error_23_15_7`, `OAI.Laughlin.Certificate.source_error_23_15_9`, `OAI.Laughlin.Certificate.source_error_23_17_1`, `OAI.Laughlin.Certificate.source_error_23_17_11`, `OAI.Laughlin.Certificate.source_error_23_17_13`, `OAI.Laughlin.Certificate.source_error_23_17_15`, `OAI.Laughlin.Certificate.source_error_23_17_17`, `OAI.Laughlin.Certificate.source_error_23_17_19`, `OAI.Laughlin.Certificate.source_error_23_17_21`, `OAI.Laughlin.Certificate.source_error_23_17_23`, `OAI.Laughlin.Certificate.source_error_23_17_3`, `OAI.Laughlin.Certificate.source_error_23_17_5`, `OAI.Laughlin.Certificate.source_error_23_17_7`, `OAI.Laughlin.Certificate.source_error_23_17_9`, `OAI.Laughlin.Certificate.source_error_23_19_1`, `OAI.Laughlin.Certificate.source_error_23_19_11`, `OAI.Laughlin.Certificate.source_error_23_19_13`, `OAI.Laughlin.Certificate.source_error_23_19_15`, `OAI.Laughlin.Certificate.source_error_23_19_17`, `OAI.Laughlin.Certificate.source_error_23_19_19`, `OAI.Laughlin.Certificate.source_error_23_19_21`, `OAI.Laughlin.Certificate.source_error_23_19_23`, `OAI.Laughlin.Certificate.source_error_23_19_3`, `OAI.Laughlin.Certificate.source_error_23_19_5`, `OAI.Laughlin.Certificate.source_error_23_19_7`, `OAI.Laughlin.Certificate.source_error_23_19_9`, `OAI_Laughlin_Certificate_source_error_23_1_11`, `OAI_Laughlin_Certificate_source_error_23_1_13`, `OAI_Laughlin_Certificate_source_error_23_1_15`, `OAI_Laughlin_Certificate_source_error_23_1_17`, `OAI_Laughlin_Certificate_source_error_23_1_19`, `OAI_Laughlin_Certificate_source_error_23_1_21`, `OAI_Laughlin_Certificate_source_error_23_1_23`, `OAI_Laughlin_Certificate_source_error_23_1_3`, `OAI_Laughlin_Certificate_source_error_23_1_5`, `OAI_Laughlin_Certificate_source_error_23_1_7`, `OAI_Laughlin_Certificate_source_error_23_1_9`, `OAI.Laughlin.Certificate.source_error_23_21_1`, `OAI.Laughlin.Certificate.source_error_23_21_11`, `OAI.Laughlin.Certificate.source_error_23_21_13`, `OAI.Laughlin.Certificate.source_error_23_21_15`, `OAI.Laughlin.Certificate.source_error_23_21_17`, `OAI.Laughlin.Certificate.source_error_23_21_19`, `OAI.Laughlin.Certificate.source_error_23_21_21`, `OAI.Laughlin.Certificate.source_error_23_21_23`, `OAI.Laughlin.Certificate.source_error_23_21_3`, `OAI.Laughlin.Certificate.source_error_23_21_5`, `OAI.Laughlin.Certificate.source_error_23_21_7`, `OAI.Laughlin.Certificate.source_error_23_21_9`, `OAI.Laughlin.Certificate.source_error_23_23_1`, `OAI.Laughlin.Certificate.source_error_23_23_11`, `OAI.Laughlin.Certificate.source_error_23_23_13`, `OAI.Laughlin.Certificate.source_error_23_23_15`, `OAI.Laughlin.Certificate.source_error_23_23_17`, `OAI.Laughlin.Certificate.source_error_23_23_19`, `OAI.Laughlin.Certificate.source_error_23_23_21`, `OAI.Laughlin.Certificate.source_error_23_23_23`, `OAI.Laughlin.Certificate.source_error_23_23_3`, `OAI.Laughlin.Certificate.source_error_23_23_5`, `OAI.Laughlin.Certificate.source_error_23_23_7`, `OAI.Laughlin.Certificate.source_error_23_23_9`, `OAI.Laughlin.Certificate.source_error_23_3_1`, `OAI_Laughlin_Certificate_source_error_23_3_11`, `OAI_Laughlin_Certificate_source_error_23_3_13`, `OAI_Laughlin_Certificate_source_error_23_3_15`, `OAI_Laughlin_Certificate_source_error_23_3_17`, `OAI.Laughlin.Certificate.source_error_23_3_19`, `OAI.Laughlin.Certificate.source_error_23_3_21`, `OAI.Laughlin.Certificate.source_error_23_3_23`, `OAI_Laughlin_Certificate_source_error_23_3_3`, `OAI_Laughlin_Certificate_source_error_23_3_5`, `OAI_Laughlin_Certificate_source_error_23_3_7`, `OAI_Laughlin_Certificate_source_error_23_3_9`, `OAI.Laughlin.Certificate.source_error_23_5_1`, `OAI.Laughlin.Certificate.source_error_23_5_11`, `OAI.Laughlin.Certificate.source_error_23_5_13`, `OAI.Laughlin.Certificate.source_error_23_5_15`, `OAI.Laughlin.Certificate.source_error_23_5_17`, `OAI.Laughlin.Certificate.source_error_23_5_19`, `OAI.Laughlin.Certificate.source_error_23_5_21`, `OAI.Laughlin.Certificate.source_error_23_5_23`, `OAI.Laughlin.Certificate.source_error_23_5_3`, `OAI_Laughlin_Certificate_source_error_23_5_5`, `OAI_Laughlin_Certificate_source_error_23_5_7`, `OAI_Laughlin_Certificate_source_error_23_5_9`, `OAI.Laughlin.Certificate.source_error_23_7_1`, `OAI.Laughlin.Certificate.source_error_23_7_11`, `OAI.Laughlin.Certificate.source_error_23_7_13`, `OAI.Laughlin.Certificate.source_error_23_7_15`, `OAI.Laughlin.Certificate.source_error_23_7_17`, `OAI.Laughlin.Certificate.source_error_23_7_19`, `OAI.Laughlin.Certificate.source_error_23_7_21`, `OAI.Laughlin.Certificate.source_error_23_7_23`, `OAI.Laughlin.Certificate.source_error_23_7_3`, `OAI.Laughlin.Certificate.source_error_23_7_5`, `OAI_Laughlin_Certificate_source_error_23_7_7`, `OAI_Laughlin_Certificate_source_error_23_7_9`, `OAI.Laughlin.Certificate.source_error_23_9_1`, `OAI.Laughlin.Certificate.source_error_23_9_11`, `OAI.Laughlin.Certificate.source_error_23_9_13`, `OAI.Laughlin.Certificate.source_error_23_9_15`, `OAI.Laughlin.Certificate.source_error_23_9_17`, `OAI.Laughlin.Certificate.source_error_23_9_19`, `OAI.Laughlin.Certificate.source_error_23_9_21`, `OAI.Laughlin.Certificate.source_error_23_9_23`, `OAI.Laughlin.Certificate.source_error_23_9_3`, `OAI.Laughlin.Certificate.source_error_23_9_5`, `OAI.Laughlin.Certificate.source_error_23_9_7`, `OAI_Laughlin_Certificate_source_error_23_9_9`, `OAI_Laughlin_Certificate_source_error_9_1_1`, `OAI_Laughlin_Certificate_source_error_9_1_7`, `OAI_Laughlin_Certificate_source_error_9_1_9`, `OAI_Laughlin_Certificate_source_error_9_3_1`, `OAI_Laughlin_Certificate_source_error_9_3_3`, `OAI_Laughlin_Certificate_source_error_9_3_9`, `OAI_Laughlin_Certificate_source_error_9_5_1`, `OAI_Laughlin_Certificate_source_error_9_5_3`, `OAI_Laughlin_Certificate_source_error_9_7_1`, `OAI_Laughlin_Certificate_source_error_9_7_3`, `OAI_Laughlin_Certificate_source_error_9_7_5`, `OAI_Laughlin_Certificate_source_error_9_7_9`, `OAI_Laughlin_Certificate_source_error_9_9_1`, `OAI_Laughlin_Certificate_source_error_9_9_3`, `OAI_Laughlin_Certificate_source_error_9_9_5`, `OAI_Laughlin_Certificate_source_error_9_9_7`, `OAI_Laughlin_Certificate_source_error_9_9_9`, `OAI_Laughlin_Certificate_source_gram_12_11_11`, `OAI_Laughlin_Certificate_source_gram_12_11_3`, `OAI_Laughlin_Certificate_source_gram_12_11_5`, `OAI_Laughlin_Certificate_source_gram_12_11_7`, `OAI_Laughlin_Certificate_source_gram_12_11_9`, `OAI_Laughlin_Certificate_source_gram_12_5_11`, `OAI_Laughlin_Certificate_source_gram_12_5_3`, `OAI_Laughlin_Certificate_source_gram_12_5_7`, `OAI_Laughlin_Certificate_source_gram_12_7_11`, `OAI_Laughlin_Certificate_source_gram_12_7_3`, `OAI_Laughlin_Certificate_source_gram_12_7_5`, `OAI_Laughlin_Certificate_source_gram_12_7_7`, `OAI_Laughlin_Certificate_source_gram_12_7_9`, `OAI_Laughlin_Certificate_source_gram_12_9_11`, `OAI_Laughlin_Certificate_source_gram_12_9_3`, `OAI_Laughlin_Certificate_source_gram_12_9_5`, `OAI_Laughlin_Certificate_source_gram_12_9_7`, `OAI_Laughlin_Certificate_source_gram_12_9_9`, `OAI_Laughlin_Certificate_source_gram_13_11_1`, `OAI_Laughlin_Certificate_source_gram_13_11_11`, `OAI_Laughlin_Certificate_source_gram_13_11_13`, `OAI_Laughlin_Certificate_source_gram_13_11_3`, `OAI_Laughlin_Certificate_source_gram_13_11_5`, `OAI_Laughlin_Certificate_source_gram_13_11_7`, `OAI_Laughlin_Certificate_source_gram_13_11_9`, `OAI_Laughlin_Certificate_source_gram_13_13_1`, `OAI_Laughlin_Certificate_source_gram_13_13_11`, `OAI_Laughlin_Certificate_source_gram_13_13_13`, `OAI_Laughlin_Certificate_source_gram_13_13_3`, `OAI_Laughlin_Certificate_source_gram_13_13_5`, `OAI_Laughlin_Certificate_source_gram_13_13_7`, `OAI_Laughlin_Certificate_source_gram_13_13_9`, `OAI_Laughlin_Certificate_source_gram_13_3_1`, `OAI_Laughlin_Certificate_source_gram_13_5_1`, `OAI_Laughlin_Certificate_source_gram_13_5_11`, `OAI_Laughlin_Certificate_source_gram_13_5_13`, `OAI_Laughlin_Certificate_source_gram_13_5_3`, `OAI_Laughlin_Certificate_source_gram_13_7_1`, `OAI_Laughlin_Certificate_source_gram_13_7_11`, `OAI_Laughlin_Certificate_source_gram_13_7_13`, `OAI_Laughlin_Certificate_source_gram_13_7_3`, `OAI_Laughlin_Certificate_source_gram_13_7_5`, `OAI_Laughlin_Certificate_source_gram_13_7_7`, `OAI_Laughlin_Certificate_source_gram_13_7_9`, `OAI_Laughlin_Certificate_source_gram_13_9_1`, `OAI_Laughlin_Certificate_source_gram_13_9_11`, `OAI_Laughlin_Certificate_source_gram_13_9_13`, `OAI_Laughlin_Certificate_source_gram_13_9_3`, `OAI_Laughlin_Certificate_source_gram_13_9_5`, `OAI_Laughlin_Certificate_source_gram_13_9_7`, `OAI_Laughlin_Certificate_source_gram_13_9_9`, `OAI_Laughlin_Certificate_source_gram_14_11_1`, `OAI_Laughlin_Certificate_source_gram_14_11_11`, `OAI_Laughlin_Certificate_source_gram_14_11_13`, `OAI_Laughlin_Certificate_source_gram_14_11_3`, `OAI_Laughlin_Certificate_source_gram_14_11_5`, `OAI_Laughlin_Certificate_source_gram_14_11_7`, `OAI_Laughlin_Certificate_source_gram_14_11_9`, `OAI_Laughlin_Certificate_source_gram_14_13_1`, `OAI_Laughlin_Certificate_source_gram_14_13_11`, `OAI_Laughlin_Certificate_source_gram_14_13_13`, `OAI_Laughlin_Certificate_source_gram_14_13_3`, `OAI_Laughlin_Certificate_source_gram_14_13_5`, `OAI_Laughlin_Certificate_source_gram_14_13_7`, `OAI_Laughlin_Certificate_source_gram_14_13_9`, `OAI_Laughlin_Certificate_source_gram_14_3_1`, `OAI_Laughlin_Certificate_source_gram_14_5_1`, `OAI_Laughlin_Certificate_source_gram_14_5_13`, `OAI_Laughlin_Certificate_source_gram_14_5_3`, `OAI_Laughlin_Certificate_source_gram_14_5_9`, `OAI_Laughlin_Certificate_source_gram_14_7_1`, `OAI_Laughlin_Certificate_source_gram_14_7_11`, `OAI_Laughlin_Certificate_source_gram_14_7_13`, `OAI_Laughlin_Certificate_source_gram_14_7_3`, `OAI_Laughlin_Certificate_source_gram_14_7_5`, `OAI_Laughlin_Certificate_source_gram_14_7_7`, `OAI_Laughlin_Certificate_source_gram_14_7_9`, `OAI_Laughlin_Certificate_source_gram_14_9_1`, `OAI_Laughlin_Certificate_source_gram_14_9_11`, `OAI_Laughlin_Certificate_source_gram_14_9_13`, `OAI_Laughlin_Certificate_source_gram_14_9_3`, `OAI_Laughlin_Certificate_source_gram_14_9_5`, `OAI_Laughlin_Certificate_source_gram_14_9_7`, `OAI_Laughlin_Certificate_source_gram_14_9_9`, `OAI_Laughlin_Certificate_source_gram_15_11_1`, `OAI_Laughlin_Certificate_source_gram_15_11_11`, `OAI_Laughlin_Certificate_source_gram_15_11_13`, `OAI_Laughlin_Certificate_source_gram_15_11_15`, `OAI_Laughlin_Certificate_source_gram_15_11_3`, `OAI_Laughlin_Certificate_source_gram_15_11_5`, `OAI_Laughlin_Certificate_source_gram_15_11_7`, `OAI_Laughlin_Certificate_source_gram_15_11_9`, `OAI_Laughlin_Certificate_source_gram_15_13_1`, `OAI_Laughlin_Certificate_source_gram_15_13_11`, `OAI_Laughlin_Certificate_source_gram_15_13_13`, `OAI_Laughlin_Certificate_source_gram_15_13_15`, `OAI_Laughlin_Certificate_source_gram_15_13_3`, `OAI_Laughlin_Certificate_source_gram_15_13_5`, `OAI_Laughlin_Certificate_source_gram_15_13_7`, `OAI_Laughlin_Certificate_source_gram_15_13_9`, `OAI_Laughlin_Certificate_source_gram_15_15_1`, `OAI_Laughlin_Certificate_source_gram_15_15_11`, `OAI_Laughlin_Certificate_source_gram_15_15_13`, `OAI_Laughlin_Certificate_source_gram_15_15_15`, `OAI_Laughlin_Certificate_source_gram_15_15_3`, `OAI_Laughlin_Certificate_source_gram_15_15_5`, `OAI_Laughlin_Certificate_source_gram_15_15_7`, `OAI_Laughlin_Certificate_source_gram_15_15_9`, `OAI_Laughlin_Certificate_source_gram_15_3_1`, `OAI_Laughlin_Certificate_source_gram_15_5_1`, `OAI_Laughlin_Certificate_source_gram_15_5_11`, `OAI_Laughlin_Certificate_source_gram_15_5_13`, `OAI_Laughlin_Certificate_source_gram_15_5_15`, `OAI_Laughlin_Certificate_source_gram_15_5_3`, `OAI_Laughlin_Certificate_source_gram_15_7_1`, `OAI_Laughlin_Certificate_source_gram_15_7_11`, `OAI_Laughlin_Certificate_source_gram_15_7_13`, `OAI_Laughlin_Certificate_source_gram_15_7_15`, `OAI_Laughlin_Certificate_source_gram_15_7_3`, `OAI_Laughlin_Certificate_source_gram_15_7_5`, `OAI_Laughlin_Certificate_source_gram_15_7_7`, `OAI_Laughlin_Certificate_source_gram_15_7_9`, `OAI_Laughlin_Certificate_source_gram_15_9_1`, `OAI_Laughlin_Certificate_source_gram_15_9_11`, `OAI_Laughlin_Certificate_source_gram_15_9_13`, `OAI_Laughlin_Certificate_source_gram_15_9_15`, `OAI_Laughlin_Certificate_source_gram_15_9_3`, `OAI_Laughlin_Certificate_source_gram_15_9_5`, `OAI_Laughlin_Certificate_source_gram_15_9_7`, `OAI_Laughlin_Certificate_source_gram_15_9_9`, `OAI_Laughlin_Certificate_source_gram_16_11_1`, `OAI_Laughlin_Certificate_source_gram_16_11_11`, `OAI_Laughlin_Certificate_source_gram_16_11_13`, `OAI_Laughlin_Certificate_source_gram_16_11_15`, `OAI_Laughlin_Certificate_source_gram_16_11_3`, `OAI_Laughlin_Certificate_source_gram_16_11_5`, `OAI_Laughlin_Certificate_source_gram_16_11_7`, `OAI_Laughlin_Certificate_source_gram_16_11_9`, `OAI_Laughlin_Certificate_source_gram_16_13_1`, `OAI_Laughlin_Certificate_source_gram_16_13_11`, `OAI_Laughlin_Certificate_source_gram_16_13_13`, `OAI_Laughlin_Certificate_source_gram_16_13_15`, `OAI_Laughlin_Certificate_source_gram_16_13_3`, `OAI_Laughlin_Certificate_source_gram_16_13_5`, `OAI_Laughlin_Certificate_source_gram_16_13_7`, `OAI_Laughlin_Certificate_source_gram_16_13_9`, `OAI_Laughlin_Certificate_source_gram_16_15_1`, `OAI_Laughlin_Certificate_source_gram_16_15_11`, `OAI_Laughlin_Certificate_source_gram_16_15_13`, `OAI_Laughlin_Certificate_source_gram_16_15_15`, `OAI_Laughlin_Certificate_source_gram_16_15_3`, `OAI_Laughlin_Certificate_source_gram_16_15_5`, `OAI_Laughlin_Certificate_source_gram_16_15_7`, `OAI_Laughlin_Certificate_source_gram_16_15_9`, `OAI_Laughlin_Certificate_source_gram_16_3_1`, `OAI_Laughlin_Certificate_source_gram_16_5_1`, `OAI_Laughlin_Certificate_source_gram_16_5_11`, `OAI_Laughlin_Certificate_source_gram_16_5_15`, `OAI_Laughlin_Certificate_source_gram_16_5_3`, `OAI_Laughlin_Certificate_source_gram_16_5_5`, `OAI_Laughlin_Certificate_source_gram_16_7_1`, `OAI_Laughlin_Certificate_source_gram_16_7_11`, `OAI_Laughlin_Certificate_source_gram_16_7_13`, `OAI_Laughlin_Certificate_source_gram_16_7_15`, `OAI_Laughlin_Certificate_source_gram_16_7_3`, `OAI_Laughlin_Certificate_source_gram_16_7_5`, `OAI_Laughlin_Certificate_source_gram_16_7_7`, `OAI_Laughlin_Certificate_source_gram_16_7_9`, `OAI_Laughlin_Certificate_source_gram_16_9_1`, `OAI_Laughlin_Certificate_source_gram_16_9_11`, `OAI_Laughlin_Certificate_source_gram_16_9_13`, `OAI_Laughlin_Certificate_source_gram_16_9_15`, `OAI_Laughlin_Certificate_source_gram_16_9_3`, `OAI_Laughlin_Certificate_source_gram_16_9_5`, `OAI_Laughlin_Certificate_source_gram_16_9_7`, `OAI_Laughlin_Certificate_source_gram_16_9_9`, `OAI_Laughlin_Certificate_source_gram_17_11_1`, `OAI_Laughlin_Certificate_source_gram_17_11_11`, `OAI_Laughlin_Certificate_source_gram_17_11_13`, `OAI_Laughlin_Certificate_source_gram_17_11_15`, `OAI_Laughlin_Certificate_source_gram_17_11_17`, `OAI_Laughlin_Certificate_source_gram_17_11_3`, `OAI_Laughlin_Certificate_source_gram_17_11_5`, `OAI_Laughlin_Certificate_source_gram_17_11_7`, `OAI_Laughlin_Certificate_source_gram_17_11_9`, `OAI_Laughlin_Certificate_source_gram_17_13_1`, `OAI_Laughlin_Certificate_source_gram_17_13_11`, `OAI_Laughlin_Certificate_source_gram_17_13_13`, `OAI_Laughlin_Certificate_source_gram_17_13_15`, `OAI_Laughlin_Certificate_source_gram_17_13_17`, `OAI_Laughlin_Certificate_source_gram_17_13_3`, `OAI_Laughlin_Certificate_source_gram_17_13_5`, `OAI_Laughlin_Certificate_source_gram_17_13_7`, `OAI_Laughlin_Certificate_source_gram_17_13_9`, `OAI_Laughlin_Certificate_source_gram_17_15_1`, `OAI_Laughlin_Certificate_source_gram_17_15_11`, `OAI_Laughlin_Certificate_source_gram_17_15_13`, `OAI_Laughlin_Certificate_source_gram_17_15_15`, `OAI_Laughlin_Certificate_source_gram_17_15_17`, `OAI_Laughlin_Certificate_source_gram_17_15_3`, `OAI_Laughlin_Certificate_source_gram_17_15_5`, `OAI_Laughlin_Certificate_source_gram_17_15_7`, `OAI_Laughlin_Certificate_source_gram_17_15_9`, `OAI_Laughlin_Certificate_source_gram_17_17_1`, `OAI_Laughlin_Certificate_source_gram_17_17_11`, `OAI_Laughlin_Certificate_source_gram_17_17_13`, `OAI_Laughlin_Certificate_source_gram_17_17_15`, `OAI_Laughlin_Certificate_source_gram_17_17_17`, `OAI_Laughlin_Certificate_source_gram_17_17_3`, `OAI_Laughlin_Certificate_source_gram_17_17_5`, `OAI_Laughlin_Certificate_source_gram_17_17_7`, `OAI_Laughlin_Certificate_source_gram_17_17_9`, `OAI_Laughlin_Certificate_source_gram_17_3_1`, `OAI_Laughlin_Certificate_source_gram_17_5_1`, `OAI_Laughlin_Certificate_source_gram_17_5_13`, `OAI_Laughlin_Certificate_source_gram_17_5_15`, `OAI_Laughlin_Certificate_source_gram_17_5_17`, `OAI_Laughlin_Certificate_source_gram_17_5_3`, `OAI_Laughlin_Certificate_source_gram_17_7_1`, `OAI_Laughlin_Certificate_source_gram_17_7_11`, `OAI_Laughlin_Certificate_source_gram_17_7_13`, `OAI_Laughlin_Certificate_source_gram_17_7_15`, `OAI_Laughlin_Certificate_source_gram_17_7_17`, `OAI_Laughlin_Certificate_source_gram_17_7_3`, `OAI_Laughlin_Certificate_source_gram_17_7_5`, `OAI_Laughlin_Certificate_source_gram_17_7_7`, `OAI_Laughlin_Certificate_source_gram_17_7_9`, `OAI_Laughlin_Certificate_source_gram_17_9_1`, `OAI_Laughlin_Certificate_source_gram_17_9_11`, `OAI_Laughlin_Certificate_source_gram_17_9_13`, `OAI_Laughlin_Certificate_source_gram_17_9_15`, `OAI_Laughlin_Certificate_source_gram_17_9_17`, `OAI_Laughlin_Certificate_source_gram_17_9_3`, `OAI_Laughlin_Certificate_source_gram_17_9_5`, `OAI_Laughlin_Certificate_source_gram_17_9_7`, `OAI_Laughlin_Certificate_source_gram_17_9_9`, `OAI_Laughlin_Certificate_source_gram_18_11_1`, `OAI_Laughlin_Certificate_source_gram_18_11_11`, `OAI_Laughlin_Certificate_source_gram_18_11_13`, `OAI_Laughlin_Certificate_source_gram_18_11_15`, `OAI_Laughlin_Certificate_source_gram_18_11_17`, `OAI_Laughlin_Certificate_source_gram_18_11_3`, `OAI_Laughlin_Certificate_source_gram_18_11_5`, `OAI_Laughlin_Certificate_source_gram_18_11_7`, `OAI_Laughlin_Certificate_source_gram_18_11_9`, `OAI_Laughlin_Certificate_source_gram_18_13_1`, `OAI_Laughlin_Certificate_source_gram_18_13_11`, `OAI_Laughlin_Certificate_source_gram_18_13_13`, `OAI_Laughlin_Certificate_source_gram_18_13_15`, `OAI_Laughlin_Certificate_source_gram_18_13_17`, `OAI_Laughlin_Certificate_source_gram_18_13_3`, `OAI_Laughlin_Certificate_source_gram_18_13_5`, `OAI_Laughlin_Certificate_source_gram_18_13_7`, `OAI_Laughlin_Certificate_source_gram_18_13_9`, `OAI_Laughlin_Certificate_source_gram_18_15_1`, `OAI_Laughlin_Certificate_source_gram_18_15_11`, `OAI_Laughlin_Certificate_source_gram_18_15_13`, `OAI_Laughlin_Certificate_source_gram_18_15_15`, `OAI_Laughlin_Certificate_source_gram_18_15_17`, `OAI_Laughlin_Certificate_source_gram_18_15_3`, `OAI_Laughlin_Certificate_source_gram_18_15_5`, `OAI_Laughlin_Certificate_source_gram_18_15_7`, `OAI_Laughlin_Certificate_source_gram_18_15_9`, `OAI_Laughlin_Certificate_source_gram_18_17_1`, `OAI_Laughlin_Certificate_source_gram_18_17_11`, `OAI_Laughlin_Certificate_source_gram_18_17_13`, `OAI_Laughlin_Certificate_source_gram_18_17_15`, `OAI_Laughlin_Certificate_source_gram_18_17_17`, `OAI_Laughlin_Certificate_source_gram_18_17_3`, `OAI_Laughlin_Certificate_source_gram_18_17_5`, `OAI_Laughlin_Certificate_source_gram_18_17_7`, `OAI_Laughlin_Certificate_source_gram_18_17_9`, `OAI_Laughlin_Certificate_source_gram_18_3_1`, `OAI_Laughlin_Certificate_source_gram_18_5_1`, `OAI_Laughlin_Certificate_source_gram_18_5_13`, `OAI_Laughlin_Certificate_source_gram_18_5_17`, `OAI_Laughlin_Certificate_source_gram_18_5_3`, `OAI_Laughlin_Certificate_source_gram_18_5_5`, `OAI_Laughlin_Certificate_source_gram_18_7_1`, `OAI_Laughlin_Certificate_source_gram_18_7_11`, `OAI_Laughlin_Certificate_source_gram_18_7_13`, `OAI_Laughlin_Certificate_source_gram_18_7_15`, `OAI_Laughlin_Certificate_source_gram_18_7_17`, `OAI_Laughlin_Certificate_source_gram_18_7_3`, `OAI_Laughlin_Certificate_source_gram_18_7_5`, `OAI_Laughlin_Certificate_source_gram_18_7_7`, `OAI_Laughlin_Certificate_source_gram_18_7_9`, `OAI_Laughlin_Certificate_source_gram_18_9_1`, `OAI_Laughlin_Certificate_source_gram_18_9_11`, `OAI_Laughlin_Certificate_source_gram_18_9_13`, `OAI_Laughlin_Certificate_source_gram_18_9_15`, `OAI_Laughlin_Certificate_source_gram_18_9_17`, `OAI_Laughlin_Certificate_source_gram_18_9_3`, `OAI_Laughlin_Certificate_source_gram_18_9_5`, `OAI_Laughlin_Certificate_source_gram_18_9_7`, `OAI_Laughlin_Certificate_source_gram_18_9_9`, `OAI_Laughlin_Certificate_source_gram_19_11_1`, `OAI_Laughlin_Certificate_source_gram_19_11_11`, `OAI_Laughlin_Certificate_source_gram_19_11_13`, `OAI_Laughlin_Certificate_source_gram_19_11_15`, `OAI_Laughlin_Certificate_source_gram_19_11_17`, `OAI_Laughlin_Certificate_source_gram_19_11_19`, `OAI_Laughlin_Certificate_source_gram_19_11_3`, `OAI_Laughlin_Certificate_source_gram_19_11_5`, `OAI_Laughlin_Certificate_source_gram_19_11_7`, `OAI_Laughlin_Certificate_source_gram_19_11_9`, `OAI_Laughlin_Certificate_source_gram_19_13_1`, `OAI_Laughlin_Certificate_source_gram_19_13_11`, `OAI_Laughlin_Certificate_source_gram_19_13_13`, `OAI_Laughlin_Certificate_source_gram_19_13_15`, `OAI_Laughlin_Certificate_source_gram_19_13_17`, `OAI_Laughlin_Certificate_source_gram_19_13_19`, `OAI_Laughlin_Certificate_source_gram_19_13_3`, `OAI_Laughlin_Certificate_source_gram_19_13_5`, `OAI_Laughlin_Certificate_source_gram_19_13_7`, `OAI_Laughlin_Certificate_source_gram_19_13_9`, `OAI_Laughlin_Certificate_source_gram_19_15_1`, `OAI_Laughlin_Certificate_source_gram_19_15_11`, `OAI_Laughlin_Certificate_source_gram_19_15_13`, `OAI_Laughlin_Certificate_source_gram_19_15_15`, `OAI_Laughlin_Certificate_source_gram_19_15_17`, `OAI_Laughlin_Certificate_source_gram_19_15_19`, `OAI_Laughlin_Certificate_source_gram_19_15_3`, `OAI_Laughlin_Certificate_source_gram_19_15_5`, `OAI_Laughlin_Certificate_source_gram_19_15_7`, `OAI_Laughlin_Certificate_source_gram_19_15_9`, `OAI_Laughlin_Certificate_source_gram_19_17_1`, `OAI_Laughlin_Certificate_source_gram_19_17_11`, `OAI_Laughlin_Certificate_source_gram_19_17_13`, `OAI_Laughlin_Certificate_source_gram_19_17_15`, `OAI_Laughlin_Certificate_source_gram_19_17_17`, `OAI_Laughlin_Certificate_source_gram_19_17_19`, `OAI_Laughlin_Certificate_source_gram_19_17_3`, `OAI_Laughlin_Certificate_source_gram_19_17_5`, `OAI_Laughlin_Certificate_source_gram_19_17_7`, `OAI_Laughlin_Certificate_source_gram_19_17_9`, `OAI_Laughlin_Certificate_source_gram_19_19_1`, `OAI_Laughlin_Certificate_source_gram_19_19_11`, `OAI_Laughlin_Certificate_source_gram_19_19_13`, `OAI_Laughlin_Certificate_source_gram_19_19_15`, `OAI_Laughlin_Certificate_source_gram_19_19_17`, `OAI_Laughlin_Certificate_source_gram_19_19_19`, `OAI_Laughlin_Certificate_source_gram_19_19_3`, `OAI_Laughlin_Certificate_source_gram_19_19_5`, `OAI_Laughlin_Certificate_source_gram_19_19_7`, `OAI_Laughlin_Certificate_source_gram_19_19_9`, `OAI_Laughlin_Certificate_source_gram_19_3_1`, `OAI_Laughlin_Certificate_source_gram_19_5_1`, `OAI_Laughlin_Certificate_source_gram_19_5_15`, `OAI_Laughlin_Certificate_source_gram_19_5_17`, `OAI_Laughlin_Certificate_source_gram_19_5_19`, `OAI_Laughlin_Certificate_source_gram_19_5_3`, `OAI_Laughlin_Certificate_source_gram_19_7_1`, `OAI_Laughlin_Certificate_source_gram_19_7_11`, `OAI_Laughlin_Certificate_source_gram_19_7_13`, `OAI_Laughlin_Certificate_source_gram_19_7_15`, `OAI_Laughlin_Certificate_source_gram_19_7_17`, `OAI_Laughlin_Certificate_source_gram_19_7_19`, `OAI_Laughlin_Certificate_source_gram_19_7_3`, `OAI_Laughlin_Certificate_source_gram_19_7_5`, `OAI_Laughlin_Certificate_source_gram_19_7_7`, `OAI_Laughlin_Certificate_source_gram_19_7_9`, `OAI_Laughlin_Certificate_source_gram_19_9_1`, `OAI_Laughlin_Certificate_source_gram_19_9_11`, `OAI_Laughlin_Certificate_source_gram_19_9_13`, `OAI_Laughlin_Certificate_source_gram_19_9_15`, `OAI_Laughlin_Certificate_source_gram_19_9_17`, `OAI_Laughlin_Certificate_source_gram_19_9_19`, `OAI_Laughlin_Certificate_source_gram_19_9_3`, `OAI_Laughlin_Certificate_source_gram_19_9_5`, `OAI_Laughlin_Certificate_source_gram_19_9_7`, `OAI_Laughlin_Certificate_source_gram_19_9_9`, `OAI_Laughlin_Certificate_source_gram_20_11_1`, `OAI_Laughlin_Certificate_source_gram_20_11_11`, `OAI_Laughlin_Certificate_source_gram_20_11_13`, `OAI_Laughlin_Certificate_source_gram_20_11_15`, `OAI_Laughlin_Certificate_source_gram_20_11_17`, `OAI_Laughlin_Certificate_source_gram_20_11_19`, `OAI_Laughlin_Certificate_source_gram_20_11_3`, `OAI_Laughlin_Certificate_source_gram_20_11_5`, `OAI_Laughlin_Certificate_source_gram_20_11_7`, `OAI_Laughlin_Certificate_source_gram_20_11_9`, `OAI_Laughlin_Certificate_source_gram_20_13_1`, `OAI_Laughlin_Certificate_source_gram_20_13_11`, `OAI_Laughlin_Certificate_source_gram_20_13_13`, `OAI_Laughlin_Certificate_source_gram_20_13_15`, `OAI_Laughlin_Certificate_source_gram_20_13_17`, `OAI_Laughlin_Certificate_source_gram_20_13_19`, `OAI_Laughlin_Certificate_source_gram_20_13_3`, `OAI_Laughlin_Certificate_source_gram_20_13_5`, `OAI_Laughlin_Certificate_source_gram_20_13_7`, `OAI_Laughlin_Certificate_source_gram_20_13_9`, `OAI_Laughlin_Certificate_source_gram_20_15_1`, `OAI_Laughlin_Certificate_source_gram_20_15_11`, `OAI_Laughlin_Certificate_source_gram_20_15_13`, `OAI_Laughlin_Certificate_source_gram_20_15_15`, `OAI_Laughlin_Certificate_source_gram_20_15_17`, `OAI_Laughlin_Certificate_source_gram_20_15_19`, `OAI_Laughlin_Certificate_source_gram_20_15_3`, `OAI_Laughlin_Certificate_source_gram_20_15_5`, `OAI_Laughlin_Certificate_source_gram_20_15_7`, `OAI_Laughlin_Certificate_source_gram_20_15_9`, `OAI_Laughlin_Certificate_source_gram_20_17_1`, `OAI_Laughlin_Certificate_source_gram_20_17_11`, `OAI_Laughlin_Certificate_source_gram_20_17_13`, `OAI_Laughlin_Certificate_source_gram_20_17_15`, `OAI_Laughlin_Certificate_source_gram_20_17_17`, `OAI_Laughlin_Certificate_source_gram_20_17_19`, `OAI_Laughlin_Certificate_source_gram_20_17_3`, `OAI_Laughlin_Certificate_source_gram_20_17_5`, `OAI_Laughlin_Certificate_source_gram_20_17_7`, `OAI_Laughlin_Certificate_source_gram_20_17_9`, `OAI_Laughlin_Certificate_source_gram_20_19_1`, `OAI_Laughlin_Certificate_source_gram_20_19_11`, `OAI_Laughlin_Certificate_source_gram_20_19_13`, `OAI_Laughlin_Certificate_source_gram_20_19_15`, `OAI_Laughlin_Certificate_source_gram_20_19_17`, `OAI_Laughlin_Certificate_source_gram_20_19_19`, `OAI_Laughlin_Certificate_source_gram_20_19_3`, `OAI_Laughlin_Certificate_source_gram_20_19_5`, `OAI_Laughlin_Certificate_source_gram_20_19_7`, `OAI_Laughlin_Certificate_source_gram_20_19_9`, `OAI_Laughlin_Certificate_source_gram_20_3_1`, `OAI_Laughlin_Certificate_source_gram_20_5_1`, `OAI_Laughlin_Certificate_source_gram_20_5_15`, `OAI_Laughlin_Certificate_source_gram_20_5_19`, `OAI_Laughlin_Certificate_source_gram_20_5_3`, `OAI_Laughlin_Certificate_source_gram_20_5_5`, `OAI_Laughlin_Certificate_source_gram_20_7_1`, `OAI_Laughlin_Certificate_source_gram_20_7_11`, `OAI_Laughlin_Certificate_source_gram_20_7_13`, `OAI_Laughlin_Certificate_source_gram_20_7_15`, `OAI_Laughlin_Certificate_source_gram_20_7_17`, `OAI_Laughlin_Certificate_source_gram_20_7_19`, `OAI_Laughlin_Certificate_source_gram_20_7_3`, `OAI_Laughlin_Certificate_source_gram_20_7_5`, `OAI_Laughlin_Certificate_source_gram_20_7_7`, `OAI_Laughlin_Certificate_source_gram_20_7_9`, `OAI_Laughlin_Certificate_source_gram_20_9_1`, `OAI_Laughlin_Certificate_source_gram_20_9_11`, `OAI_Laughlin_Certificate_source_gram_20_9_13`, `OAI_Laughlin_Certificate_source_gram_20_9_15`, `OAI_Laughlin_Certificate_source_gram_20_9_17`, `OAI_Laughlin_Certificate_source_gram_20_9_19`, `OAI_Laughlin_Certificate_source_gram_20_9_3`, `OAI_Laughlin_Certificate_source_gram_20_9_5`, `OAI_Laughlin_Certificate_source_gram_20_9_7`, `OAI_Laughlin_Certificate_source_gram_20_9_9`, `OAI_Laughlin_Certificate_source_gram_21_11_1`, `OAI_Laughlin_Certificate_source_gram_21_11_11`, `OAI_Laughlin_Certificate_source_gram_21_11_13`, `OAI_Laughlin_Certificate_source_gram_21_11_15`, `OAI_Laughlin_Certificate_source_gram_21_11_17`, `OAI_Laughlin_Certificate_source_gram_21_11_19`, `OAI_Laughlin_Certificate_source_gram_21_11_21`, `OAI_Laughlin_Certificate_source_gram_21_11_3`, `OAI_Laughlin_Certificate_source_gram_21_11_5`, `OAI_Laughlin_Certificate_source_gram_21_11_7`, `OAI_Laughlin_Certificate_source_gram_21_11_9`, `OAI_Laughlin_Certificate_source_gram_21_13_1`, `OAI_Laughlin_Certificate_source_gram_21_13_11`, `OAI_Laughlin_Certificate_source_gram_21_13_13`, `OAI_Laughlin_Certificate_source_gram_21_13_15`, `OAI_Laughlin_Certificate_source_gram_21_13_17`, `OAI_Laughlin_Certificate_source_gram_21_13_19`, `OAI_Laughlin_Certificate_source_gram_21_13_21`, `OAI_Laughlin_Certificate_source_gram_21_13_3`, `OAI_Laughlin_Certificate_source_gram_21_13_5`, `OAI_Laughlin_Certificate_source_gram_21_13_7`, `OAI_Laughlin_Certificate_source_gram_21_13_9`, `OAI_Laughlin_Certificate_source_gram_21_15_1`, `OAI_Laughlin_Certificate_source_gram_21_15_11`, `OAI_Laughlin_Certificate_source_gram_21_15_13`, `OAI_Laughlin_Certificate_source_gram_21_15_15`, `OAI_Laughlin_Certificate_source_gram_21_15_17`, `OAI_Laughlin_Certificate_source_gram_21_15_19`, `OAI_Laughlin_Certificate_source_gram_21_15_21`, `OAI_Laughlin_Certificate_source_gram_21_15_3`, `OAI_Laughlin_Certificate_source_gram_21_15_5`, `OAI_Laughlin_Certificate_source_gram_21_15_7`, `OAI_Laughlin_Certificate_source_gram_21_15_9`, `OAI_Laughlin_Certificate_source_gram_21_17_1`, `OAI_Laughlin_Certificate_source_gram_21_17_11`, `OAI_Laughlin_Certificate_source_gram_21_17_13`, `OAI_Laughlin_Certificate_source_gram_21_17_15`, `OAI_Laughlin_Certificate_source_gram_21_17_17`, `OAI_Laughlin_Certificate_source_gram_21_17_19`, `OAI_Laughlin_Certificate_source_gram_21_17_21`, `OAI_Laughlin_Certificate_source_gram_21_17_3`, `OAI_Laughlin_Certificate_source_gram_21_17_5`, `OAI_Laughlin_Certificate_source_gram_21_17_7`, `OAI_Laughlin_Certificate_source_gram_21_17_9`, `OAI_Laughlin_Certificate_source_gram_21_19_1`, `OAI_Laughlin_Certificate_source_gram_21_19_11`, `OAI_Laughlin_Certificate_source_gram_21_19_13`, `OAI_Laughlin_Certificate_source_gram_21_19_15`, `OAI_Laughlin_Certificate_source_gram_21_19_17`, `OAI_Laughlin_Certificate_source_gram_21_19_19`, `OAI_Laughlin_Certificate_source_gram_21_19_21`, `OAI_Laughlin_Certificate_source_gram_21_19_3`, `OAI_Laughlin_Certificate_source_gram_21_19_5`, `OAI_Laughlin_Certificate_source_gram_21_19_7`, `OAI_Laughlin_Certificate_source_gram_21_19_9`, `OAI_Laughlin_Certificate_source_gram_21_21_1`, `OAI_Laughlin_Certificate_source_gram_21_21_11`, `OAI_Laughlin_Certificate_source_gram_21_21_13`, `OAI_Laughlin_Certificate_source_gram_21_21_15`, `OAI_Laughlin_Certificate_source_gram_21_21_17`, `OAI_Laughlin_Certificate_source_gram_21_21_19`, `OAI_Laughlin_Certificate_source_gram_21_21_21`, `OAI_Laughlin_Certificate_source_gram_21_21_3`, `OAI_Laughlin_Certificate_source_gram_21_21_5`, `OAI_Laughlin_Certificate_source_gram_21_21_7`, `OAI_Laughlin_Certificate_source_gram_21_21_9`, `OAI_Laughlin_Certificate_source_gram_21_3_1`, `OAI_Laughlin_Certificate_source_gram_21_5_1`, `OAI_Laughlin_Certificate_source_gram_21_5_17`, `OAI_Laughlin_Certificate_source_gram_21_5_19`, `OAI_Laughlin_Certificate_source_gram_21_5_21`, `OAI_Laughlin_Certificate_source_gram_21_5_3`, `OAI_Laughlin_Certificate_source_gram_21_7_1`, `OAI_Laughlin_Certificate_source_gram_21_7_11`, `OAI_Laughlin_Certificate_source_gram_21_7_13`, `OAI_Laughlin_Certificate_source_gram_21_7_15`, `OAI_Laughlin_Certificate_source_gram_21_7_17`, `OAI_Laughlin_Certificate_source_gram_21_7_19`, `OAI_Laughlin_Certificate_source_gram_21_7_21`, `OAI_Laughlin_Certificate_source_gram_21_7_3`, `OAI_Laughlin_Certificate_source_gram_21_7_5`, `OAI_Laughlin_Certificate_source_gram_21_7_7`, `OAI_Laughlin_Certificate_source_gram_21_7_9`, `OAI_Laughlin_Certificate_source_gram_21_9_1`, `OAI_Laughlin_Certificate_source_gram_21_9_11`, `OAI_Laughlin_Certificate_source_gram_21_9_13`, `OAI_Laughlin_Certificate_source_gram_21_9_15`, `OAI_Laughlin_Certificate_source_gram_21_9_17`, `OAI_Laughlin_Certificate_source_gram_21_9_19`, `OAI_Laughlin_Certificate_source_gram_21_9_21`, `OAI_Laughlin_Certificate_source_gram_21_9_3`, `OAI_Laughlin_Certificate_source_gram_21_9_5`, `OAI_Laughlin_Certificate_source_gram_21_9_7`, `OAI_Laughlin_Certificate_source_gram_21_9_9`, `OAI_Laughlin_Certificate_source_gram_22_11_1`, `OAI_Laughlin_Certificate_source_gram_22_11_11`, `OAI_Laughlin_Certificate_source_gram_22_11_13`, `OAI_Laughlin_Certificate_source_gram_22_11_15`, `OAI_Laughlin_Certificate_source_gram_22_11_17`, `OAI_Laughlin_Certificate_source_gram_22_11_19`, `OAI_Laughlin_Certificate_source_gram_22_11_21`, `OAI_Laughlin_Certificate_source_gram_22_11_3`, `OAI_Laughlin_Certificate_source_gram_22_11_5`, `OAI_Laughlin_Certificate_source_gram_22_11_7`, `OAI_Laughlin_Certificate_source_gram_22_11_9`, `OAI_Laughlin_Certificate_source_gram_22_13_1`, `OAI_Laughlin_Certificate_source_gram_22_13_11`, `OAI_Laughlin_Certificate_source_gram_22_13_13`, `OAI_Laughlin_Certificate_source_gram_22_13_15`, `OAI_Laughlin_Certificate_source_gram_22_13_17`, `OAI_Laughlin_Certificate_source_gram_22_13_19`, `OAI_Laughlin_Certificate_source_gram_22_13_21`, `OAI_Laughlin_Certificate_source_gram_22_13_3`, `OAI_Laughlin_Certificate_source_gram_22_13_5`, `OAI_Laughlin_Certificate_source_gram_22_13_7`, `OAI_Laughlin_Certificate_source_gram_22_13_9`, `OAI_Laughlin_Certificate_source_gram_22_15_1`, `OAI_Laughlin_Certificate_source_gram_22_15_11`, `OAI_Laughlin_Certificate_source_gram_22_15_13`, `OAI_Laughlin_Certificate_source_gram_22_15_15`, `OAI_Laughlin_Certificate_source_gram_22_15_17`, `OAI_Laughlin_Certificate_source_gram_22_15_19`, `OAI_Laughlin_Certificate_source_gram_22_15_21`, `OAI_Laughlin_Certificate_source_gram_22_15_3`, `OAI_Laughlin_Certificate_source_gram_22_15_5`, `OAI_Laughlin_Certificate_source_gram_22_15_7`, `OAI_Laughlin_Certificate_source_gram_22_15_9`, `OAI_Laughlin_Certificate_source_gram_22_17_1`, `OAI_Laughlin_Certificate_source_gram_22_17_11`, `OAI_Laughlin_Certificate_source_gram_22_17_13`, `OAI_Laughlin_Certificate_source_gram_22_17_15`, `OAI_Laughlin_Certificate_source_gram_22_17_17`, `OAI_Laughlin_Certificate_source_gram_22_17_19`, `OAI_Laughlin_Certificate_source_gram_22_17_21`, `OAI_Laughlin_Certificate_source_gram_22_17_3`, `OAI_Laughlin_Certificate_source_gram_22_17_5`, `OAI_Laughlin_Certificate_source_gram_22_17_7`, `OAI_Laughlin_Certificate_source_gram_22_17_9`, `OAI_Laughlin_Certificate_source_gram_22_19_1`, `OAI_Laughlin_Certificate_source_gram_22_19_11`, `OAI_Laughlin_Certificate_source_gram_22_19_13`, `OAI_Laughlin_Certificate_source_gram_22_19_15`, `OAI_Laughlin_Certificate_source_gram_22_19_17`, `OAI_Laughlin_Certificate_source_gram_22_19_19`, `OAI_Laughlin_Certificate_source_gram_22_19_21`, `OAI_Laughlin_Certificate_source_gram_22_19_3`, `OAI_Laughlin_Certificate_source_gram_22_19_5`, `OAI_Laughlin_Certificate_source_gram_22_19_7`, `OAI_Laughlin_Certificate_source_gram_22_19_9`, `OAI_Laughlin_Certificate_source_gram_22_21_1`, `OAI_Laughlin_Certificate_source_gram_22_21_11`, `OAI_Laughlin_Certificate_source_gram_22_21_13`, `OAI_Laughlin_Certificate_source_gram_22_21_15`, `OAI_Laughlin_Certificate_source_gram_22_21_17`, `OAI_Laughlin_Certificate_source_gram_22_21_19`, `OAI_Laughlin_Certificate_source_gram_22_21_21`, `OAI_Laughlin_Certificate_source_gram_22_21_3`, `OAI_Laughlin_Certificate_source_gram_22_21_5`, `OAI_Laughlin_Certificate_source_gram_22_21_7`, `OAI_Laughlin_Certificate_source_gram_22_21_9`, `OAI_Laughlin_Certificate_source_gram_22_3_1`, `OAI_Laughlin_Certificate_source_gram_22_5_1`, `OAI_Laughlin_Certificate_source_gram_22_5_17`, `OAI_Laughlin_Certificate_source_gram_22_5_21`, `OAI_Laughlin_Certificate_source_gram_22_5_3`, `OAI_Laughlin_Certificate_source_gram_22_5_5`, `OAI_Laughlin_Certificate_source_gram_22_7_1`, `OAI_Laughlin_Certificate_source_gram_22_7_11`, `OAI_Laughlin_Certificate_source_gram_22_7_13`, `OAI_Laughlin_Certificate_source_gram_22_7_15`, `OAI_Laughlin_Certificate_source_gram_22_7_17`, `OAI_Laughlin_Certificate_source_gram_22_7_19`, `OAI_Laughlin_Certificate_source_gram_22_7_21`, `OAI_Laughlin_Certificate_source_gram_22_7_3`, `OAI_Laughlin_Certificate_source_gram_22_7_5`, `OAI_Laughlin_Certificate_source_gram_22_7_7`, `OAI_Laughlin_Certificate_source_gram_22_7_9`, `OAI_Laughlin_Certificate_source_gram_22_9_1`, `OAI_Laughlin_Certificate_source_gram_22_9_11`, `OAI_Laughlin_Certificate_source_gram_22_9_13`, `OAI_Laughlin_Certificate_source_gram_22_9_15`, `OAI_Laughlin_Certificate_source_gram_22_9_17`, `OAI_Laughlin_Certificate_source_gram_22_9_19`, `OAI_Laughlin_Certificate_source_gram_22_9_21`, `OAI_Laughlin_Certificate_source_gram_22_9_3`, `OAI_Laughlin_Certificate_source_gram_22_9_5`, `OAI_Laughlin_Certificate_source_gram_22_9_7`, `OAI_Laughlin_Certificate_source_gram_22_9_9`, `OAI_Laughlin_Certificate_source_gram_23_11_1`, `OAI_Laughlin_Certificate_source_gram_23_11_11`, `OAI_Laughlin_Certificate_source_gram_23_11_13`, `OAI_Laughlin_Certificate_source_gram_23_11_15`, `OAI_Laughlin_Certificate_source_gram_23_11_17`, `OAI_Laughlin_Certificate_source_gram_23_11_19`, `OAI_Laughlin_Certificate_source_gram_23_11_21`, `OAI_Laughlin_Certificate_source_gram_23_11_23`, `OAI_Laughlin_Certificate_source_gram_23_11_3`, `OAI_Laughlin_Certificate_source_gram_23_11_5`, `OAI_Laughlin_Certificate_source_gram_23_11_7`, `OAI_Laughlin_Certificate_source_gram_23_11_9`, `OAI_Laughlin_Certificate_source_gram_23_13_1`, `OAI_Laughlin_Certificate_source_gram_23_13_11`, `OAI_Laughlin_Certificate_source_gram_23_13_13`, `OAI_Laughlin_Certificate_source_gram_23_13_15`, `OAI_Laughlin_Certificate_source_gram_23_13_17`, `OAI_Laughlin_Certificate_source_gram_23_13_19`, `OAI_Laughlin_Certificate_source_gram_23_13_21`, `OAI_Laughlin_Certificate_source_gram_23_13_23`, `OAI_Laughlin_Certificate_source_gram_23_13_3`, `OAI_Laughlin_Certificate_source_gram_23_13_5`, `OAI_Laughlin_Certificate_source_gram_23_13_7`, `OAI_Laughlin_Certificate_source_gram_23_13_9`, `OAI_Laughlin_Certificate_source_gram_23_15_1`, `OAI_Laughlin_Certificate_source_gram_23_15_11`, `OAI_Laughlin_Certificate_source_gram_23_15_13`, `OAI_Laughlin_Certificate_source_gram_23_15_15`, `OAI_Laughlin_Certificate_source_gram_23_15_17`, `OAI_Laughlin_Certificate_source_gram_23_15_19`, `OAI_Laughlin_Certificate_source_gram_23_15_21`, `OAI_Laughlin_Certificate_source_gram_23_15_23`, `OAI_Laughlin_Certificate_source_gram_23_15_3`, `OAI_Laughlin_Certificate_source_gram_23_15_5`, `OAI_Laughlin_Certificate_source_gram_23_15_7`, `OAI_Laughlin_Certificate_source_gram_23_15_9`, `OAI_Laughlin_Certificate_source_gram_23_17_1`, `OAI_Laughlin_Certificate_source_gram_23_17_11`, `OAI_Laughlin_Certificate_source_gram_23_17_13`, `OAI_Laughlin_Certificate_source_gram_23_17_15`, `OAI_Laughlin_Certificate_source_gram_23_17_17`, `OAI_Laughlin_Certificate_source_gram_23_17_19`, `OAI_Laughlin_Certificate_source_gram_23_17_21`, `OAI_Laughlin_Certificate_source_gram_23_17_23`, `OAI_Laughlin_Certificate_source_gram_23_17_3`, `OAI_Laughlin_Certificate_source_gram_23_17_5`, `OAI_Laughlin_Certificate_source_gram_23_17_7`, `OAI_Laughlin_Certificate_source_gram_23_17_9`, `OAI_Laughlin_Certificate_source_gram_23_19_1`, `OAI_Laughlin_Certificate_source_gram_23_19_11`, `OAI_Laughlin_Certificate_source_gram_23_19_13`, `OAI_Laughlin_Certificate_source_gram_23_19_15`, `OAI_Laughlin_Certificate_source_gram_23_19_17`, `OAI_Laughlin_Certificate_source_gram_23_19_19`, `OAI_Laughlin_Certificate_source_gram_23_19_21`, `OAI_Laughlin_Certificate_source_gram_23_19_23`, `OAI_Laughlin_Certificate_source_gram_23_19_3`, `OAI_Laughlin_Certificate_source_gram_23_19_5`, `OAI_Laughlin_Certificate_source_gram_23_19_7`, `OAI_Laughlin_Certificate_source_gram_23_19_9`, `OAI_Laughlin_Certificate_source_gram_23_21_1`, `OAI_Laughlin_Certificate_source_gram_23_21_11`, `OAI_Laughlin_Certificate_source_gram_23_21_13`, `OAI_Laughlin_Certificate_source_gram_23_21_15`, `OAI_Laughlin_Certificate_source_gram_23_21_17`, `OAI_Laughlin_Certificate_source_gram_23_21_19`, `OAI_Laughlin_Certificate_source_gram_23_21_21`, `OAI_Laughlin_Certificate_source_gram_23_21_23`, `OAI_Laughlin_Certificate_source_gram_23_21_3`, `OAI_Laughlin_Certificate_source_gram_23_21_5`, `OAI_Laughlin_Certificate_source_gram_23_21_7`, `OAI_Laughlin_Certificate_source_gram_23_21_9`, `OAI_Laughlin_Certificate_source_gram_23_23_1`, `OAI_Laughlin_Certificate_source_gram_23_23_11`, `OAI_Laughlin_Certificate_source_gram_23_23_13`, `OAI_Laughlin_Certificate_source_gram_23_23_15`, `OAI_Laughlin_Certificate_source_gram_23_23_17`, `OAI_Laughlin_Certificate_source_gram_23_23_19`, `OAI_Laughlin_Certificate_source_gram_23_23_21`, `OAI_Laughlin_Certificate_source_gram_23_23_23`, `OAI_Laughlin_Certificate_source_gram_23_23_3`, `OAI_Laughlin_Certificate_source_gram_23_23_5`, `OAI_Laughlin_Certificate_source_gram_23_23_7`, `OAI_Laughlin_Certificate_source_gram_23_23_9`, `OAI_Laughlin_Certificate_source_gram_23_3_1`, `OAI_Laughlin_Certificate_source_gram_23_5_1`, `OAI_Laughlin_Certificate_source_gram_23_5_17`, `OAI_Laughlin_Certificate_source_gram_23_5_19`, `OAI_Laughlin_Certificate_source_gram_23_5_21`, `OAI_Laughlin_Certificate_source_gram_23_5_23`, `OAI_Laughlin_Certificate_source_gram_23_5_3`, `OAI_Laughlin_Certificate_source_gram_23_5_5`, `OAI_Laughlin_Certificate_source_gram_23_7_1`, `OAI_Laughlin_Certificate_source_gram_23_7_11`, `OAI_Laughlin_Certificate_source_gram_23_7_13`, `OAI_Laughlin_Certificate_source_gram_23_7_15`, `OAI_Laughlin_Certificate_source_gram_23_7_17`, `OAI_Laughlin_Certificate_source_gram_23_7_19`, `OAI_Laughlin_Certificate_source_gram_23_7_21`, `OAI_Laughlin_Certificate_source_gram_23_7_23`, `OAI_Laughlin_Certificate_source_gram_23_7_3`, `OAI_Laughlin_Certificate_source_gram_23_7_5`, `OAI_Laughlin_Certificate_source_gram_23_7_7`, `OAI_Laughlin_Certificate_source_gram_23_9_1`, `OAI_Laughlin_Certificate_source_gram_23_9_11`, `OAI_Laughlin_Certificate_source_gram_23_9_13`, `OAI_Laughlin_Certificate_source_gram_23_9_15`, `OAI_Laughlin_Certificate_source_gram_23_9_17`, `OAI_Laughlin_Certificate_source_gram_23_9_19`, `OAI_Laughlin_Certificate_source_gram_23_9_21`, `OAI_Laughlin_Certificate_source_gram_23_9_23`, `OAI_Laughlin_Certificate_source_gram_23_9_3`, `OAI_Laughlin_Certificate_source_gram_23_9_5`, `OAI_Laughlin_Certificate_source_gram_23_9_7`, `OAI_Laughlin_Certificate_source_gram_23_9_9`, `OAI.Laughlin.Certificate.yRow_5_1_1_0`, `OAI.Laughlin.Certificate.yRow_5_1_1_1`, `OAI.Laughlin.Certificate.yRow_5_1_1_2`, `OAI.Laughlin.Certificate.yRow_5_1_1_3`, `OAI.Laughlin.Certificate.yRow_5_1_1_4`, `OAI.Laughlin.Certificate.yRow_5_1_1_5`, `OAI.Laughlin.Certificate.yRow_5_1_1_6`, `OAI.Laughlin.Certificate.yRow_5_1_3_0`, `OAI.Laughlin.Certificate.yRow_5_1_3_1`, `OAI.Laughlin.Certificate.yRow_5_1_3_2`, `OAI.Laughlin.Certificate.yRow_5_1_3_3`, `OAI.Laughlin.Certificate.yRow_5_1_3_4`, `OAI_Laughlin_Certificate_yRow_7_3_1_2`, `OAI_Laughlin_Certificate_yRow_7_3_1_3`, `OAI_Laughlin_Certificate_yRow_7_3_1_4`, `OAI_Laughlin_Certificate_yRow_7_3_1_5`, `OAI_Laughlin_Certificate_yRow_7_5_1_2`, `OAI_Laughlin_Certificate_yRow_7_5_1_3`, `OAI_Laughlin_Certificate_yRow_7_5_1_4`, `OAI_Laughlin_Certificate_yRow_7_5_1_5`, `OAI_Laughlin_Certificate_yRow_7_5_3_2`, `OAI_Laughlin_Certificate_yRow_7_5_3_3`, `OAI_Laughlin_Certificate_yRow_7_5_3_4`, `OAI_Laughlin_Certificate_yRow_7_5_3_5`, `OAI_Laughlin_Certificate_yRow_7_5_3_6`, `OAI_Laughlin_Certificate_yRow_7_7_1_2`, `OAI_Laughlin_Certificate_yRow_7_7_1_4`, `OAI_Laughlin_Certificate_yRow_7_7_1_5`, `OAI_Laughlin_Certificate_yRow_7_7_1_6`, `OAI_Laughlin_Certificate_yRow_7_7_3_2`, `OAI_Laughlin_Certificate_yRow_7_7_3_3`, `OAI_Laughlin_Certificate_yRow_7_7_3_4`, `OAI_Laughlin_Certificate_yRow_7_7_3_5`, `OAI_Laughlin_Certificate_yRow_7_7_3_6`, `OAI_Laughlin_Certificate_yRow_7_7_5_2`, `OAI_Laughlin_Certificate_yRow_7_7_5_3`, `OAI_Laughlin_Certificate_yRow_7_7_5_4`, `OAI_Laughlin_Certificate_yRow_7_7_5_5`, `OAI_Laughlin_Certificate_yRow_7_7_5_6`, `OAI.Laughlin.Fock.averagedFourTransferError_tendsto`, `OAI.Laughlin.Fock.complexThreeSpinProjector_eigen`, `OAI_Laughlin_Spin_source_fourBody_radical_coefficient` and `OAI.Laughlin.Spin.threeGram_on_slice`; the proofs of `OAI_Laughlin_Certificate_candidateLDL_11`, `OAI_Laughlin_Certificate_candidateLDL_12`, `OAI_Laughlin_Certificate_candidateLDL_13`, `OAI_Laughlin_Certificate_candidateLDL_14`, `OAI_Laughlin_Certificate_candidateLDL_15`, `OAI_Laughlin_Certificate_candidateLDL_16`, `OAI_Laughlin_Certificate_candidateLDL_17`, `OAI_Laughlin_Certificate_candidateLDL_18`, `OAI_Laughlin_Certificate_candidateLDL_19`, `OAI_Laughlin_Certificate_candidateLDL_20`, `OAI_Laughlin_Certificate_candidateLDL_21`, `OAI_Laughlin_Certificate_candidateLDL_22`, `OAI_Laughlin_Certificate_candidateLDL_23`, `OAI_Laughlin_Certificate_computeLDL_12_2_4`, `OAI_Laughlin_Certificate_computeLDL_12_2_5`, `OAI_Laughlin_Certificate_computeLDL_12_3_0`, `OAI_Laughlin_Certificate_computeLDL_12_3_1`, `OAI_Laughlin_Certificate_computeLDL_12_3_2`, `OAI_Laughlin_Certificate_computeLDL_12_3_3`, `OAI_Laughlin_Certificate_computeLDL_12_3_4`, `OAI_Laughlin_Certificate_computeLDL_12_3_5`, `OAI_Laughlin_Certificate_computeLDL_12_4_0`, `OAI_Laughlin_Certificate_computeLDL_12_4_1`, `OAI_Laughlin_Certificate_computeLDL_12_4_2`, `OAI_Laughlin_Certificate_computeLDL_12_4_3`, `OAI_Laughlin_Certificate_computeLDL_12_4_4`, `OAI_Laughlin_Certificate_computeLDL_12_4_5`, `OAI_Laughlin_Certificate_computeLDL_12_5_0`, `OAI_Laughlin_Certificate_computeLDL_12_5_1`, `OAI_Laughlin_Certificate_computeLDL_12_5_2`, `OAI_Laughlin_Certificate_computeLDL_12_5_3`, `OAI_Laughlin_Certificate_computeLDL_12_5_4`, `OAI_Laughlin_Certificate_computeLDL_12_5_5`, `OAI_Laughlin_Certificate_computeLDL_13_2_4`, `OAI_Laughlin_Certificate_computeLDL_13_2_5`, `OAI_Laughlin_Certificate_computeLDL_13_2_6`, `OAI_Laughlin_Certificate_computeLDL_13_3_0`, `OAI_Laughlin_Certificate_computeLDL_13_3_1`, `OAI_Laughlin_Certificate_computeLDL_13_3_2`, `OAI_Laughlin_Certificate_computeLDL_13_3_3`, `OAI_Laughlin_Certificate_computeLDL_13_3_4`, `OAI_Laughlin_Certificate_computeLDL_13_3_5`, `OAI_Laughlin_Certificate_computeLDL_13_3_6`, `OAI_Laughlin_Certificate_computeLDL_13_4_0`, `OAI_Laughlin_Certificate_computeLDL_13_4_1`, `OAI_Laughlin_Certificate_computeLDL_13_4_2`, `OAI_Laughlin_Certificate_computeLDL_13_4_3`, `OAI_Laughlin_Certificate_computeLDL_13_4_4`, `OAI_Laughlin_Certificate_computeLDL_13_4_5`, `OAI_Laughlin_Certificate_computeLDL_13_4_6`, `OAI_Laughlin_Certificate_computeLDL_13_5_0`, `OAI_Laughlin_Certificate_computeLDL_13_5_1`, `OAI_Laughlin_Certificate_computeLDL_13_5_2`, `OAI_Laughlin_Certificate_computeLDL_13_5_3`, `OAI_Laughlin_Certificate_computeLDL_13_5_4`, `OAI_Laughlin_Certificate_computeLDL_13_5_5`, `OAI_Laughlin_Certificate_computeLDL_13_5_6`, `OAI_Laughlin_Certificate_computeLDL_13_6_0`, `OAI_Laughlin_Certificate_computeLDL_13_6_1`, `OAI_Laughlin_Certificate_computeLDL_13_6_2`, `OAI_Laughlin_Certificate_computeLDL_13_6_3`, `OAI_Laughlin_Certificate_computeLDL_13_6_4`, `OAI_Laughlin_Certificate_computeLDL_13_6_5`, `OAI_Laughlin_Certificate_computeLDL_13_6_6`, `OAI_Laughlin_Certificate_computeLDL_14_2_4`, `OAI_Laughlin_Certificate_computeLDL_14_2_5`, `OAI_Laughlin_Certificate_computeLDL_14_2_6`, `OAI_Laughlin_Certificate_computeLDL_14_3_0`, `OAI_Laughlin_Certificate_computeLDL_14_3_1`, `OAI_Laughlin_Certificate_computeLDL_14_3_2`, `OAI_Laughlin_Certificate_computeLDL_14_3_3`, `OAI_Laughlin_Certificate_computeLDL_14_3_4`, `OAI_Laughlin_Certificate_computeLDL_14_3_5`, `OAI_Laughlin_Certificate_computeLDL_14_3_6`, `OAI_Laughlin_Certificate_computeLDL_14_4_0`, `OAI_Laughlin_Certificate_computeLDL_14_4_1`, `OAI_Laughlin_Certificate_computeLDL_14_4_2`, `OAI_Laughlin_Certificate_computeLDL_14_4_3`, `OAI_Laughlin_Certificate_computeLDL_14_4_4`, `OAI_Laughlin_Certificate_computeLDL_14_4_5`, `OAI_Laughlin_Certificate_computeLDL_14_4_6`, `OAI_Laughlin_Certificate_computeLDL_14_5_0`, `OAI_Laughlin_Certificate_computeLDL_14_5_1`, `OAI_Laughlin_Certificate_computeLDL_14_5_2`, `OAI_Laughlin_Certificate_computeLDL_14_5_3`, `OAI_Laughlin_Certificate_computeLDL_14_5_4`, `OAI_Laughlin_Certificate_computeLDL_14_5_5`, `OAI_Laughlin_Certificate_computeLDL_14_5_6`, `OAI_Laughlin_Certificate_computeLDL_14_6_0`, `OAI_Laughlin_Certificate_computeLDL_14_6_1`, `OAI_Laughlin_Certificate_computeLDL_14_6_2`, `OAI_Laughlin_Certificate_computeLDL_14_6_3`, `OAI_Laughlin_Certificate_computeLDL_14_6_4`, `OAI_Laughlin_Certificate_computeLDL_14_6_5`, `OAI_Laughlin_Certificate_computeLDL_14_6_6`, `OAI_Laughlin_Certificate_computeLDL_15_2_5`, `OAI_Laughlin_Certificate_computeLDL_15_2_6`, `OAI_Laughlin_Certificate_computeLDL_15_2_7`, `OAI_Laughlin_Certificate_computeLDL_15_3_0`, `OAI_Laughlin_Certificate_computeLDL_15_3_1`, `OAI_Laughlin_Certificate_computeLDL_15_3_2`, `OAI_Laughlin_Certificate_computeLDL_15_3_3`, `OAI_Laughlin_Certificate_computeLDL_15_3_4`, `OAI_Laughlin_Certificate_computeLDL_15_3_5`, `OAI_Laughlin_Certificate_computeLDL_15_3_6`, `OAI_Laughlin_Certificate_computeLDL_15_3_7`, `OAI_Laughlin_Certificate_computeLDL_15_4_0`, `OAI_Laughlin_Certificate_computeLDL_15_4_1`, `OAI_Laughlin_Certificate_computeLDL_15_4_2`, `OAI_Laughlin_Certificate_computeLDL_15_4_3`, `OAI_Laughlin_Certificate_computeLDL_15_4_4`, `OAI_Laughlin_Certificate_computeLDL_15_4_5`, `OAI_Laughlin_Certificate_computeLDL_15_4_6`, `OAI_Laughlin_Certificate_computeLDL_15_4_7`, `OAI_Laughlin_Certificate_computeLDL_15_5_0`, `OAI_Laughlin_Certificate_computeLDL_15_5_1`, `OAI_Laughlin_Certificate_computeLDL_15_5_2`, `OAI_Laughlin_Certificate_computeLDL_15_5_3`, `OAI_Laughlin_Certificate_computeLDL_15_5_4`, `OAI_Laughlin_Certificate_computeLDL_15_5_5`, `OAI_Laughlin_Certificate_computeLDL_15_5_6`, `OAI_Laughlin_Certificate_computeLDL_15_5_7`, `OAI_Laughlin_Certificate_computeLDL_15_6_0`, `OAI_Laughlin_Certificate_computeLDL_15_6_1`, `OAI_Laughlin_Certificate_computeLDL_15_6_2`, `OAI_Laughlin_Certificate_computeLDL_15_6_3`, `OAI_Laughlin_Certificate_computeLDL_15_6_4`, `OAI_Laughlin_Certificate_computeLDL_15_6_5`, `OAI_Laughlin_Certificate_computeLDL_15_6_6`, `OAI_Laughlin_Certificate_computeLDL_15_6_7`, `OAI_Laughlin_Certificate_computeLDL_15_7_0`, `OAI_Laughlin_Certificate_computeLDL_15_7_1`, `OAI_Laughlin_Certificate_computeLDL_15_7_2`, `OAI_Laughlin_Certificate_computeLDL_15_7_3`, `OAI_Laughlin_Certificate_computeLDL_15_7_4`, `OAI_Laughlin_Certificate_computeLDL_15_7_5`, `OAI_Laughlin_Certificate_computeLDL_15_7_6`, `OAI_Laughlin_Certificate_computeLDL_15_7_7`, `OAI_Laughlin_Certificate_computeLDL_16_2_5`, `OAI_Laughlin_Certificate_computeLDL_16_2_6`, `OAI_Laughlin_Certificate_computeLDL_16_2_7`, `OAI_Laughlin_Certificate_computeLDL_16_3_0`, `OAI_Laughlin_Certificate_computeLDL_16_3_1`, `OAI_Laughlin_Certificate_computeLDL_16_3_2`, `OAI_Laughlin_Certificate_computeLDL_16_3_3`, `OAI_Laughlin_Certificate_computeLDL_16_3_4`, `OAI_Laughlin_Certificate_computeLDL_16_3_5`, `OAI_Laughlin_Certificate_computeLDL_16_3_6`, `OAI_Laughlin_Certificate_computeLDL_16_3_7`, `OAI_Laughlin_Certificate_computeLDL_16_4_0`, `OAI_Laughlin_Certificate_computeLDL_16_4_1`, `OAI_Laughlin_Certificate_computeLDL_16_4_2`, `OAI_Laughlin_Certificate_computeLDL_16_4_3`, `OAI_Laughlin_Certificate_computeLDL_16_4_4`, `OAI_Laughlin_Certificate_computeLDL_16_4_5`, `OAI_Laughlin_Certificate_computeLDL_16_4_6`, `OAI_Laughlin_Certificate_computeLDL_16_4_7`, `OAI_Laughlin_Certificate_computeLDL_16_5_0`, `OAI_Laughlin_Certificate_computeLDL_16_5_1`, `OAI_Laughlin_Certificate_computeLDL_16_5_2`, `OAI_Laughlin_Certificate_computeLDL_16_5_3`, `OAI_Laughlin_Certificate_computeLDL_16_5_4`, `OAI_Laughlin_Certificate_computeLDL_16_5_5`, `OAI_Laughlin_Certificate_computeLDL_16_5_6`, `OAI_Laughlin_Certificate_computeLDL_16_5_7`, `OAI_Laughlin_Certificate_computeLDL_16_6_0`, `OAI_Laughlin_Certificate_computeLDL_16_6_1`, `OAI_Laughlin_Certificate_computeLDL_16_6_2`, `OAI_Laughlin_Certificate_computeLDL_16_6_3`, `OAI_Laughlin_Certificate_computeLDL_16_6_4`, `OAI_Laughlin_Certificate_computeLDL_16_6_5`, `OAI_Laughlin_Certificate_computeLDL_16_6_6`, `OAI_Laughlin_Certificate_computeLDL_16_6_7`, `OAI_Laughlin_Certificate_computeLDL_16_7_0`, `OAI_Laughlin_Certificate_computeLDL_16_7_1`, `OAI_Laughlin_Certificate_computeLDL_16_7_2`, `OAI_Laughlin_Certificate_computeLDL_16_7_3`, `OAI_Laughlin_Certificate_computeLDL_16_7_4`, `OAI_Laughlin_Certificate_computeLDL_16_7_5`, `OAI_Laughlin_Certificate_computeLDL_16_7_6`, `OAI_Laughlin_Certificate_computeLDL_16_7_7`, `OAI_Laughlin_Certificate_computeLDL_17_2_6`, `OAI_Laughlin_Certificate_computeLDL_17_2_7`, `OAI_Laughlin_Certificate_computeLDL_17_2_8`, `OAI_Laughlin_Certificate_computeLDL_17_3_0`, `OAI_Laughlin_Certificate_computeLDL_17_3_1`, `OAI_Laughlin_Certificate_computeLDL_17_3_2`, `OAI_Laughlin_Certificate_computeLDL_17_3_3`, `OAI_Laughlin_Certificate_computeLDL_17_3_4`, `OAI_Laughlin_Certificate_computeLDL_17_3_5`, `OAI_Laughlin_Certificate_computeLDL_17_3_6`, `OAI_Laughlin_Certificate_computeLDL_17_3_7`, `OAI_Laughlin_Certificate_computeLDL_17_3_8`, `OAI_Laughlin_Certificate_computeLDL_17_4_0`, `OAI_Laughlin_Certificate_computeLDL_17_4_1`, `OAI_Laughlin_Certificate_computeLDL_17_4_2`, `OAI_Laughlin_Certificate_computeLDL_17_4_3`, `OAI_Laughlin_Certificate_computeLDL_17_4_4`, `OAI_Laughlin_Certificate_computeLDL_17_4_5`, `OAI_Laughlin_Certificate_computeLDL_17_4_6`, `OAI_Laughlin_Certificate_computeLDL_17_4_7`, `OAI_Laughlin_Certificate_computeLDL_17_4_8`, `OAI_Laughlin_Certificate_computeLDL_17_5_0`, `OAI_Laughlin_Certificate_computeLDL_17_5_1`, `OAI_Laughlin_Certificate_computeLDL_17_5_2`, `OAI_Laughlin_Certificate_computeLDL_17_5_3`, `OAI_Laughlin_Certificate_computeLDL_17_5_4`, `OAI_Laughlin_Certificate_computeLDL_17_5_5`, `OAI_Laughlin_Certificate_computeLDL_17_5_6`, `OAI_Laughlin_Certificate_computeLDL_17_5_7`, `OAI_Laughlin_Certificate_computeLDL_17_5_8`, `OAI_Laughlin_Certificate_computeLDL_17_6_0`, `OAI_Laughlin_Certificate_computeLDL_17_6_1`, `OAI_Laughlin_Certificate_computeLDL_17_6_2`, `OAI_Laughlin_Certificate_computeLDL_17_6_3`, `OAI_Laughlin_Certificate_computeLDL_17_6_4`, `OAI_Laughlin_Certificate_computeLDL_17_6_5`, `OAI_Laughlin_Certificate_computeLDL_17_6_6`, `OAI_Laughlin_Certificate_computeLDL_17_6_7`, `OAI_Laughlin_Certificate_computeLDL_17_6_8`, `OAI_Laughlin_Certificate_computeLDL_17_7_0`, `OAI_Laughlin_Certificate_computeLDL_17_7_1`, `OAI_Laughlin_Certificate_computeLDL_17_7_2`, `OAI_Laughlin_Certificate_computeLDL_17_7_3`, `OAI_Laughlin_Certificate_computeLDL_17_7_4`, `OAI_Laughlin_Certificate_computeLDL_17_7_5`, `OAI_Laughlin_Certificate_computeLDL_17_7_6`, `OAI_Laughlin_Certificate_computeLDL_17_7_7`, `OAI_Laughlin_Certificate_computeLDL_17_7_8`, `OAI_Laughlin_Certificate_computeLDL_17_8_0`, `OAI_Laughlin_Certificate_computeLDL_17_8_1`, `OAI_Laughlin_Certificate_computeLDL_17_8_2`, `OAI_Laughlin_Certificate_computeLDL_17_8_3`, `OAI_Laughlin_Certificate_computeLDL_17_8_4`, `OAI_Laughlin_Certificate_computeLDL_17_8_5`, `OAI_Laughlin_Certificate_computeLDL_17_8_6`, `OAI_Laughlin_Certificate_computeLDL_17_8_7`, `OAI_Laughlin_Certificate_computeLDL_17_8_8`, `OAI_Laughlin_Certificate_computeLDL_18_2_6`, `OAI_Laughlin_Certificate_computeLDL_18_2_7`, `OAI_Laughlin_Certificate_computeLDL_18_2_8`, `OAI_Laughlin_Certificate_computeLDL_18_3_0`, `OAI_Laughlin_Certificate_computeLDL_18_3_1`, `OAI_Laughlin_Certificate_computeLDL_18_3_2`, `OAI_Laughlin_Certificate_computeLDL_18_3_3`, `OAI_Laughlin_Certificate_computeLDL_18_3_4`, `OAI_Laughlin_Certificate_computeLDL_18_3_5`, `OAI_Laughlin_Certificate_computeLDL_18_3_6`, `OAI_Laughlin_Certificate_computeLDL_18_3_7`, `OAI_Laughlin_Certificate_computeLDL_18_3_8`, `OAI_Laughlin_Certificate_computeLDL_18_4_0`, `OAI_Laughlin_Certificate_computeLDL_18_4_1`, `OAI_Laughlin_Certificate_computeLDL_18_4_2`, `OAI_Laughlin_Certificate_computeLDL_18_4_3`, `OAI_Laughlin_Certificate_computeLDL_18_4_4`, `OAI_Laughlin_Certificate_computeLDL_18_4_5`, `OAI_Laughlin_Certificate_computeLDL_18_4_6`, `OAI_Laughlin_Certificate_computeLDL_18_4_7`, `OAI_Laughlin_Certificate_computeLDL_18_4_8`, `OAI_Laughlin_Certificate_computeLDL_18_5_0`, `OAI_Laughlin_Certificate_computeLDL_18_5_1`, `OAI_Laughlin_Certificate_computeLDL_18_5_2`, `OAI_Laughlin_Certificate_computeLDL_18_5_3`, `OAI_Laughlin_Certificate_computeLDL_18_5_4`, `OAI_Laughlin_Certificate_computeLDL_18_5_5`, `OAI_Laughlin_Certificate_computeLDL_18_5_6`, `OAI_Laughlin_Certificate_computeLDL_18_5_7`, `OAI_Laughlin_Certificate_computeLDL_18_5_8`, `OAI_Laughlin_Certificate_computeLDL_18_6_0`, `OAI_Laughlin_Certificate_computeLDL_18_6_1`, `OAI_Laughlin_Certificate_computeLDL_18_6_2`, `OAI_Laughlin_Certificate_computeLDL_18_6_3`, `OAI_Laughlin_Certificate_computeLDL_18_6_4`, `OAI_Laughlin_Certificate_computeLDL_18_6_5`, `OAI_Laughlin_Certificate_computeLDL_18_6_6`, `OAI_Laughlin_Certificate_computeLDL_18_6_7`, `OAI_Laughlin_Certificate_computeLDL_18_6_8`, `OAI_Laughlin_Certificate_computeLDL_18_7_0`, `OAI_Laughlin_Certificate_computeLDL_18_7_1`, `OAI_Laughlin_Certificate_computeLDL_18_7_2`, `OAI_Laughlin_Certificate_computeLDL_18_7_3`, `OAI_Laughlin_Certificate_computeLDL_18_7_4`, `OAI_Laughlin_Certificate_computeLDL_18_7_5`, `OAI_Laughlin_Certificate_computeLDL_18_7_6`, `OAI_Laughlin_Certificate_computeLDL_18_7_7`, `OAI_Laughlin_Certificate_computeLDL_18_7_8`, `OAI_Laughlin_Certificate_computeLDL_18_8_0`, `OAI_Laughlin_Certificate_computeLDL_18_8_1`, `OAI_Laughlin_Certificate_computeLDL_18_8_2`, `OAI_Laughlin_Certificate_computeLDL_18_8_3`, `OAI_Laughlin_Certificate_computeLDL_18_8_4`, `OAI_Laughlin_Certificate_computeLDL_18_8_5`, `OAI_Laughlin_Certificate_computeLDL_18_8_6`, `OAI_Laughlin_Certificate_computeLDL_18_8_7`, `OAI_Laughlin_Certificate_computeLDL_18_8_8`, `OAI_Laughlin_Certificate_computeLDL_19_2_7`, `OAI_Laughlin_Certificate_computeLDL_19_2_8`, `OAI_Laughlin_Certificate_computeLDL_19_2_9`, `OAI_Laughlin_Certificate_computeLDL_19_3_0`, `OAI_Laughlin_Certificate_computeLDL_19_3_1`, `OAI_Laughlin_Certificate_computeLDL_19_3_2`, `OAI_Laughlin_Certificate_computeLDL_19_3_3`, `OAI_Laughlin_Certificate_computeLDL_19_3_4`, `OAI_Laughlin_Certificate_computeLDL_19_3_5`, `OAI_Laughlin_Certificate_computeLDL_19_3_6`, `OAI_Laughlin_Certificate_computeLDL_19_3_7`, `OAI_Laughlin_Certificate_computeLDL_19_3_8`, `OAI_Laughlin_Certificate_computeLDL_19_3_9`, `OAI_Laughlin_Certificate_computeLDL_19_4_0`, `OAI_Laughlin_Certificate_computeLDL_19_4_1`, `OAI_Laughlin_Certificate_computeLDL_19_4_2`, `OAI_Laughlin_Certificate_computeLDL_19_4_3`, `OAI_Laughlin_Certificate_computeLDL_19_4_4`, `OAI_Laughlin_Certificate_computeLDL_19_4_5`, `OAI_Laughlin_Certificate_computeLDL_19_4_6`, `OAI_Laughlin_Certificate_computeLDL_19_4_7`, `OAI_Laughlin_Certificate_computeLDL_19_4_8`, `OAI_Laughlin_Certificate_computeLDL_19_4_9`, `OAI_Laughlin_Certificate_computeLDL_19_5_0`, `OAI_Laughlin_Certificate_computeLDL_19_5_1`, `OAI_Laughlin_Certificate_computeLDL_19_5_2`, `OAI_Laughlin_Certificate_computeLDL_19_5_3`, `OAI_Laughlin_Certificate_computeLDL_19_5_4`, `OAI_Laughlin_Certificate_computeLDL_19_5_5`, `OAI_Laughlin_Certificate_computeLDL_19_5_6`, `OAI_Laughlin_Certificate_computeLDL_19_5_7`, `OAI_Laughlin_Certificate_computeLDL_19_5_8`, `OAI_Laughlin_Certificate_computeLDL_19_5_9`, `OAI_Laughlin_Certificate_computeLDL_19_6_0`, `OAI_Laughlin_Certificate_computeLDL_19_6_1`, `OAI_Laughlin_Certificate_computeLDL_19_6_2`, `OAI_Laughlin_Certificate_computeLDL_19_6_3`, `OAI_Laughlin_Certificate_computeLDL_19_6_4`, `OAI_Laughlin_Certificate_computeLDL_19_6_5`, `OAI_Laughlin_Certificate_computeLDL_19_6_6`, `OAI_Laughlin_Certificate_computeLDL_19_6_7`, `OAI_Laughlin_Certificate_computeLDL_19_6_8`, `OAI_Laughlin_Certificate_computeLDL_19_6_9`, `OAI_Laughlin_Certificate_computeLDL_19_7_0`, `OAI_Laughlin_Certificate_computeLDL_19_7_1`, `OAI_Laughlin_Certificate_computeLDL_19_7_2`, `OAI_Laughlin_Certificate_computeLDL_19_7_3`, `OAI_Laughlin_Certificate_computeLDL_19_7_4`, `OAI_Laughlin_Certificate_computeLDL_19_7_5`, `OAI_Laughlin_Certificate_computeLDL_19_7_6`, `OAI_Laughlin_Certificate_computeLDL_19_7_7`, `OAI_Laughlin_Certificate_computeLDL_19_7_8`, `OAI_Laughlin_Certificate_computeLDL_19_7_9`, `OAI_Laughlin_Certificate_computeLDL_19_8_0`, `OAI_Laughlin_Certificate_computeLDL_19_8_1`, `OAI_Laughlin_Certificate_computeLDL_19_8_2`, `OAI_Laughlin_Certificate_computeLDL_19_8_3`, `OAI_Laughlin_Certificate_computeLDL_19_8_4`, `OAI_Laughlin_Certificate_computeLDL_19_8_5`, `OAI_Laughlin_Certificate_computeLDL_19_8_6`, `OAI_Laughlin_Certificate_computeLDL_19_8_7`, `OAI_Laughlin_Certificate_computeLDL_19_8_8`, `OAI_Laughlin_Certificate_computeLDL_19_8_9`, `OAI_Laughlin_Certificate_computeLDL_19_9_0`, `OAI_Laughlin_Certificate_computeLDL_19_9_1`, `OAI_Laughlin_Certificate_computeLDL_19_9_2`, `OAI_Laughlin_Certificate_computeLDL_19_9_3`, `OAI_Laughlin_Certificate_computeLDL_19_9_4`, `OAI_Laughlin_Certificate_computeLDL_19_9_5`, `OAI_Laughlin_Certificate_computeLDL_19_9_6`, `OAI_Laughlin_Certificate_computeLDL_19_9_7`, `OAI_Laughlin_Certificate_computeLDL_19_9_8`, `OAI_Laughlin_Certificate_computeLDL_19_9_9`, `OAI_Laughlin_Certificate_computeLDL_20_2_7`, `OAI_Laughlin_Certificate_computeLDL_20_2_8`, `OAI_Laughlin_Certificate_computeLDL_20_2_9`, `OAI_Laughlin_Certificate_computeLDL_20_3_0`, `OAI_Laughlin_Certificate_computeLDL_20_3_1`, `OAI_Laughlin_Certificate_computeLDL_20_3_2`, `OAI_Laughlin_Certificate_computeLDL_20_3_3`, `OAI_Laughlin_Certificate_computeLDL_20_3_4`, `OAI_Laughlin_Certificate_computeLDL_20_3_5`, `OAI_Laughlin_Certificate_computeLDL_20_3_6`, `OAI_Laughlin_Certificate_computeLDL_20_3_7`, `OAI_Laughlin_Certificate_computeLDL_20_3_8`, `OAI_Laughlin_Certificate_computeLDL_20_3_9`, `OAI_Laughlin_Certificate_computeLDL_20_4_0`, `OAI_Laughlin_Certificate_computeLDL_20_4_1`, `OAI_Laughlin_Certificate_computeLDL_20_4_2`, `OAI_Laughlin_Certificate_computeLDL_20_4_3`, `OAI_Laughlin_Certificate_computeLDL_20_4_4`, `OAI_Laughlin_Certificate_computeLDL_20_4_5`, `OAI_Laughlin_Certificate_computeLDL_20_4_6`, `OAI_Laughlin_Certificate_computeLDL_20_4_7`, `OAI_Laughlin_Certificate_computeLDL_20_4_8`, `OAI_Laughlin_Certificate_computeLDL_20_4_9`, `OAI_Laughlin_Certificate_computeLDL_20_5_0`, `OAI_Laughlin_Certificate_computeLDL_20_5_1`, `OAI_Laughlin_Certificate_computeLDL_20_5_2`, `OAI_Laughlin_Certificate_computeLDL_20_5_3`, `OAI_Laughlin_Certificate_computeLDL_20_5_4`, `OAI_Laughlin_Certificate_computeLDL_20_5_5`, `OAI_Laughlin_Certificate_computeLDL_20_5_6`, `OAI_Laughlin_Certificate_computeLDL_20_5_7`, `OAI_Laughlin_Certificate_computeLDL_20_5_8`, `OAI_Laughlin_Certificate_computeLDL_20_5_9`, `OAI_Laughlin_Certificate_computeLDL_20_6_0`, `OAI_Laughlin_Certificate_computeLDL_20_6_1`, `OAI_Laughlin_Certificate_computeLDL_20_6_2`, `OAI_Laughlin_Certificate_computeLDL_20_6_3`, `OAI_Laughlin_Certificate_computeLDL_20_6_4`, `OAI_Laughlin_Certificate_computeLDL_20_6_5`, `OAI_Laughlin_Certificate_computeLDL_20_6_6`, `OAI_Laughlin_Certificate_computeLDL_20_6_7`, `OAI_Laughlin_Certificate_computeLDL_20_6_8`, `OAI_Laughlin_Certificate_computeLDL_20_6_9`, `OAI_Laughlin_Certificate_computeLDL_20_7_0`, `OAI_Laughlin_Certificate_computeLDL_20_7_1`, `OAI_Laughlin_Certificate_computeLDL_20_7_2`, `OAI_Laughlin_Certificate_computeLDL_20_7_3`, `OAI_Laughlin_Certificate_computeLDL_20_7_4`, `OAI_Laughlin_Certificate_computeLDL_20_7_5`, `OAI_Laughlin_Certificate_computeLDL_20_7_6`, `OAI_Laughlin_Certificate_computeLDL_20_7_7`, `OAI_Laughlin_Certificate_computeLDL_20_7_8`, `OAI_Laughlin_Certificate_computeLDL_20_7_9`, `OAI_Laughlin_Certificate_computeLDL_20_8_0`, `OAI_Laughlin_Certificate_computeLDL_20_8_1`, `OAI_Laughlin_Certificate_computeLDL_20_8_2`, `OAI_Laughlin_Certificate_computeLDL_20_8_3`, `OAI_Laughlin_Certificate_computeLDL_20_8_4`, `OAI_Laughlin_Certificate_computeLDL_20_8_5`, `OAI_Laughlin_Certificate_computeLDL_20_8_6`, `OAI_Laughlin_Certificate_computeLDL_20_8_7`, `OAI_Laughlin_Certificate_computeLDL_20_8_8`, `OAI_Laughlin_Certificate_computeLDL_20_8_9`, `OAI_Laughlin_Certificate_computeLDL_20_9_0`, `OAI_Laughlin_Certificate_computeLDL_20_9_1`, `OAI_Laughlin_Certificate_computeLDL_20_9_2`, `OAI_Laughlin_Certificate_computeLDL_20_9_3`, `OAI_Laughlin_Certificate_computeLDL_20_9_4`, `OAI_Laughlin_Certificate_computeLDL_20_9_5`, `OAI_Laughlin_Certificate_computeLDL_20_9_6`, `OAI_Laughlin_Certificate_computeLDL_20_9_7`, `OAI_Laughlin_Certificate_computeLDL_20_9_8`, `OAI_Laughlin_Certificate_computeLDL_20_9_9`, `OAI_Laughlin_Certificate_computeLDL_21_0_10`, `OAI_Laughlin_Certificate_computeLDL_21_10_0`, `OAI_Laughlin_Certificate_computeLDL_21_10_1`, `OAI_Laughlin_Certificate_computeLDL_21_10_10`, `OAI_Laughlin_Certificate_computeLDL_21_10_2`, `OAI_Laughlin_Certificate_computeLDL_21_10_3`, `OAI_Laughlin_Certificate_computeLDL_21_10_4`, `OAI_Laughlin_Certificate_computeLDL_21_10_5`, `OAI_Laughlin_Certificate_computeLDL_21_10_6`, `OAI_Laughlin_Certificate_computeLDL_21_10_7`, `OAI_Laughlin_Certificate_computeLDL_21_10_8`, `OAI_Laughlin_Certificate_computeLDL_21_10_9`, `OAI_Laughlin_Certificate_computeLDL_21_1_10`, `OAI_Laughlin_Certificate_computeLDL_21_2_10`, `OAI_Laughlin_Certificate_computeLDL_21_2_9`, `OAI_Laughlin_Certificate_computeLDL_21_3_0`, `OAI_Laughlin_Certificate_computeLDL_21_3_1`, `OAI_Laughlin_Certificate_computeLDL_21_3_10`, `OAI_Laughlin_Certificate_computeLDL_21_3_2`, `OAI_Laughlin_Certificate_computeLDL_21_3_3`, `OAI_Laughlin_Certificate_computeLDL_21_3_4`, `OAI_Laughlin_Certificate_computeLDL_21_3_5`, `OAI_Laughlin_Certificate_computeLDL_21_3_6`, `OAI_Laughlin_Certificate_computeLDL_21_3_7`, `OAI_Laughlin_Certificate_computeLDL_21_3_8`, `OAI_Laughlin_Certificate_computeLDL_21_3_9`, `OAI_Laughlin_Certificate_computeLDL_21_4_0`, `OAI_Laughlin_Certificate_computeLDL_21_4_1`, `OAI_Laughlin_Certificate_computeLDL_21_4_10`, `OAI_Laughlin_Certificate_computeLDL_21_4_2`, `OAI_Laughlin_Certificate_computeLDL_21_4_3`, `OAI_Laughlin_Certificate_computeLDL_21_4_4`, `OAI_Laughlin_Certificate_computeLDL_21_4_5`, `OAI_Laughlin_Certificate_computeLDL_21_4_6`, `OAI_Laughlin_Certificate_computeLDL_21_4_7`, `OAI_Laughlin_Certificate_computeLDL_21_4_8`, `OAI_Laughlin_Certificate_computeLDL_21_4_9`, `OAI_Laughlin_Certificate_computeLDL_21_5_0`, `OAI_Laughlin_Certificate_computeLDL_21_5_1`, `OAI_Laughlin_Certificate_computeLDL_21_5_10`, `OAI_Laughlin_Certificate_computeLDL_21_5_2`, `OAI_Laughlin_Certificate_computeLDL_21_5_3`, `OAI_Laughlin_Certificate_computeLDL_21_5_4`, `OAI_Laughlin_Certificate_computeLDL_21_5_5`, `OAI_Laughlin_Certificate_computeLDL_21_5_6`, `OAI_Laughlin_Certificate_computeLDL_21_5_7`, `OAI_Laughlin_Certificate_computeLDL_21_5_8`, `OAI_Laughlin_Certificate_computeLDL_21_5_9`, `OAI_Laughlin_Certificate_computeLDL_21_6_0`, `OAI_Laughlin_Certificate_computeLDL_21_6_1`, `OAI_Laughlin_Certificate_computeLDL_21_6_10`, `OAI_Laughlin_Certificate_computeLDL_21_6_2`, `OAI_Laughlin_Certificate_computeLDL_21_6_3`, `OAI_Laughlin_Certificate_computeLDL_21_6_4`, `OAI_Laughlin_Certificate_computeLDL_21_6_5`, `OAI_Laughlin_Certificate_computeLDL_21_6_6`, `OAI_Laughlin_Certificate_computeLDL_21_6_7`, `OAI_Laughlin_Certificate_computeLDL_21_6_8`, `OAI_Laughlin_Certificate_computeLDL_21_6_9`, `OAI_Laughlin_Certificate_computeLDL_21_7_0`, `OAI_Laughlin_Certificate_computeLDL_21_7_1`, `OAI_Laughlin_Certificate_computeLDL_21_7_10`, `OAI_Laughlin_Certificate_computeLDL_21_7_2`, `OAI_Laughlin_Certificate_computeLDL_21_7_3`, `OAI_Laughlin_Certificate_computeLDL_21_7_4`, `OAI_Laughlin_Certificate_computeLDL_21_7_5`, `OAI_Laughlin_Certificate_computeLDL_21_7_6`, `OAI_Laughlin_Certificate_computeLDL_21_7_7`, `OAI_Laughlin_Certificate_computeLDL_21_7_8`, `OAI_Laughlin_Certificate_computeLDL_21_7_9`, `OAI_Laughlin_Certificate_computeLDL_21_8_0`, `OAI_Laughlin_Certificate_computeLDL_21_8_1`, `OAI_Laughlin_Certificate_computeLDL_21_8_10`, `OAI_Laughlin_Certificate_computeLDL_21_8_2`, `OAI_Laughlin_Certificate_computeLDL_21_8_3`, `OAI_Laughlin_Certificate_computeLDL_21_8_4`, `OAI_Laughlin_Certificate_computeLDL_21_8_5`, `OAI_Laughlin_Certificate_computeLDL_21_8_6`, `OAI_Laughlin_Certificate_computeLDL_21_8_7`, `OAI_Laughlin_Certificate_computeLDL_21_8_8`, `OAI_Laughlin_Certificate_computeLDL_21_8_9`, `OAI_Laughlin_Certificate_computeLDL_21_9_0`, `OAI_Laughlin_Certificate_computeLDL_21_9_1`, `OAI_Laughlin_Certificate_computeLDL_21_9_10`, `OAI_Laughlin_Certificate_computeLDL_21_9_2`, `OAI_Laughlin_Certificate_computeLDL_21_9_3`, `OAI_Laughlin_Certificate_computeLDL_21_9_4`, `OAI_Laughlin_Certificate_computeLDL_21_9_5`, `OAI_Laughlin_Certificate_computeLDL_21_9_6`, `OAI_Laughlin_Certificate_computeLDL_21_9_7`, `OAI_Laughlin_Certificate_computeLDL_21_9_8`, `OAI_Laughlin_Certificate_computeLDL_21_9_9`, `OAI_Laughlin_Certificate_computeLDL_22_0_10`, `OAI_Laughlin_Certificate_computeLDL_22_10_0`, `OAI_Laughlin_Certificate_computeLDL_22_10_1`, `OAI_Laughlin_Certificate_computeLDL_22_10_10`, `OAI_Laughlin_Certificate_computeLDL_22_10_2`, `OAI_Laughlin_Certificate_computeLDL_22_10_3`, `OAI_Laughlin_Certificate_computeLDL_22_10_4`, `OAI_Laughlin_Certificate_computeLDL_22_10_5`, `OAI_Laughlin_Certificate_computeLDL_22_10_6`, `OAI_Laughlin_Certificate_computeLDL_22_10_7`, `OAI_Laughlin_Certificate_computeLDL_22_10_8`, `OAI_Laughlin_Certificate_computeLDL_22_10_9`, `OAI_Laughlin_Certificate_computeLDL_22_1_10`, `OAI_Laughlin_Certificate_computeLDL_22_2_10`, `OAI_Laughlin_Certificate_computeLDL_22_2_9`, `OAI_Laughlin_Certificate_computeLDL_22_3_0`, `OAI_Laughlin_Certificate_computeLDL_22_3_1`, `OAI_Laughlin_Certificate_computeLDL_22_3_10`, `OAI_Laughlin_Certificate_computeLDL_22_3_2`, `OAI_Laughlin_Certificate_computeLDL_22_3_3`, `OAI_Laughlin_Certificate_computeLDL_22_3_4`, `OAI_Laughlin_Certificate_computeLDL_22_3_5`, `OAI_Laughlin_Certificate_computeLDL_22_3_6`, `OAI_Laughlin_Certificate_computeLDL_22_3_7`, `OAI_Laughlin_Certificate_computeLDL_22_3_8`, `OAI_Laughlin_Certificate_computeLDL_22_3_9`, `OAI_Laughlin_Certificate_computeLDL_22_4_0`, `OAI_Laughlin_Certificate_computeLDL_22_4_1`, `OAI_Laughlin_Certificate_computeLDL_22_4_10`, `OAI_Laughlin_Certificate_computeLDL_22_4_2`, `OAI_Laughlin_Certificate_computeLDL_22_4_3`, `OAI_Laughlin_Certificate_computeLDL_22_4_4`, `OAI_Laughlin_Certificate_computeLDL_22_4_5`, `OAI_Laughlin_Certificate_computeLDL_22_4_6`, `OAI_Laughlin_Certificate_computeLDL_22_4_7`, `OAI_Laughlin_Certificate_computeLDL_22_4_8`, `OAI_Laughlin_Certificate_computeLDL_22_4_9`, `OAI_Laughlin_Certificate_computeLDL_22_5_0`, `OAI_Laughlin_Certificate_computeLDL_22_5_1`, `OAI_Laughlin_Certificate_computeLDL_22_5_10`, `OAI_Laughlin_Certificate_computeLDL_22_5_2`, `OAI_Laughlin_Certificate_computeLDL_22_5_3`, `OAI_Laughlin_Certificate_computeLDL_22_5_4`, `OAI_Laughlin_Certificate_computeLDL_22_5_5`, `OAI_Laughlin_Certificate_computeLDL_22_5_6`, `OAI_Laughlin_Certificate_computeLDL_22_5_7`, `OAI_Laughlin_Certificate_computeLDL_22_5_8`, `OAI_Laughlin_Certificate_computeLDL_22_5_9`, `OAI_Laughlin_Certificate_computeLDL_22_6_0`, `OAI_Laughlin_Certificate_computeLDL_22_6_1`, `OAI_Laughlin_Certificate_computeLDL_22_6_10`, `OAI_Laughlin_Certificate_computeLDL_22_6_2`, `OAI_Laughlin_Certificate_computeLDL_22_6_3`, `OAI_Laughlin_Certificate_computeLDL_22_6_4`, `OAI_Laughlin_Certificate_computeLDL_22_6_5`, `OAI_Laughlin_Certificate_computeLDL_22_6_6`, `OAI_Laughlin_Certificate_computeLDL_22_6_7`, `OAI_Laughlin_Certificate_computeLDL_22_6_8`, `OAI_Laughlin_Certificate_computeLDL_22_6_9`, `OAI_Laughlin_Certificate_computeLDL_22_7_0`, `OAI_Laughlin_Certificate_computeLDL_22_7_1`, `OAI_Laughlin_Certificate_computeLDL_22_7_10`, `OAI_Laughlin_Certificate_computeLDL_22_7_2`, `OAI_Laughlin_Certificate_computeLDL_22_7_3`, `OAI_Laughlin_Certificate_computeLDL_22_7_4`, `OAI_Laughlin_Certificate_computeLDL_22_7_5`, `OAI_Laughlin_Certificate_computeLDL_22_7_6`, `OAI_Laughlin_Certificate_computeLDL_22_7_7`, `OAI_Laughlin_Certificate_computeLDL_22_7_8`, `OAI_Laughlin_Certificate_computeLDL_22_7_9`, `OAI_Laughlin_Certificate_computeLDL_22_8_0`, `OAI_Laughlin_Certificate_computeLDL_22_8_1`, `OAI_Laughlin_Certificate_computeLDL_22_8_10`, `OAI_Laughlin_Certificate_computeLDL_22_8_2`, `OAI_Laughlin_Certificate_computeLDL_22_8_3`, `OAI_Laughlin_Certificate_computeLDL_22_8_4`, `OAI_Laughlin_Certificate_computeLDL_22_8_5`, `OAI_Laughlin_Certificate_computeLDL_22_8_6`, `OAI_Laughlin_Certificate_computeLDL_22_8_7`, `OAI_Laughlin_Certificate_computeLDL_22_8_8`, `OAI_Laughlin_Certificate_computeLDL_22_8_9`, `OAI_Laughlin_Certificate_computeLDL_22_9_0`, `OAI_Laughlin_Certificate_computeLDL_22_9_1`, `OAI_Laughlin_Certificate_computeLDL_22_9_10`, `OAI_Laughlin_Certificate_computeLDL_22_9_2`, `OAI_Laughlin_Certificate_computeLDL_22_9_3`, `OAI_Laughlin_Certificate_computeLDL_22_9_4`, `OAI_Laughlin_Certificate_computeLDL_22_9_5`, `OAI_Laughlin_Certificate_computeLDL_22_9_6`, `OAI_Laughlin_Certificate_computeLDL_22_9_7`, `OAI_Laughlin_Certificate_computeLDL_22_9_8`, `OAI_Laughlin_Certificate_computeLDL_22_9_9`, `OAI_Laughlin_Certificate_computeLDL_23_0_10`, `OAI_Laughlin_Certificate_computeLDL_23_0_11`, `OAI_Laughlin_Certificate_computeLDL_23_10_0`, `OAI_Laughlin_Certificate_computeLDL_23_10_1`, `OAI_Laughlin_Certificate_computeLDL_23_10_10`, `OAI_Laughlin_Certificate_computeLDL_23_10_11`, `OAI_Laughlin_Certificate_computeLDL_23_10_2`, `OAI_Laughlin_Certificate_computeLDL_23_10_3`, `OAI_Laughlin_Certificate_computeLDL_23_10_4`, `OAI_Laughlin_Certificate_computeLDL_23_10_5`, `OAI_Laughlin_Certificate_computeLDL_23_10_6`, `OAI_Laughlin_Certificate_computeLDL_23_10_7`, `OAI_Laughlin_Certificate_computeLDL_23_10_8`, `OAI_Laughlin_Certificate_computeLDL_23_10_9`, `OAI_Laughlin_Certificate_computeLDL_23_11_0`, `OAI_Laughlin_Certificate_computeLDL_23_11_1`, `OAI_Laughlin_Certificate_computeLDL_23_11_10`, `OAI_Laughlin_Certificate_computeLDL_23_11_11`, `OAI_Laughlin_Certificate_computeLDL_23_11_2`, `OAI_Laughlin_Certificate_computeLDL_23_11_3`, `OAI_Laughlin_Certificate_computeLDL_23_11_4`, `OAI_Laughlin_Certificate_computeLDL_23_11_5`, `OAI_Laughlin_Certificate_computeLDL_23_11_6`, `OAI_Laughlin_Certificate_computeLDL_23_11_7`, `OAI_Laughlin_Certificate_computeLDL_23_11_8`, `OAI_Laughlin_Certificate_computeLDL_23_11_9`, `OAI_Laughlin_Certificate_computeLDL_23_1_10`, `OAI_Laughlin_Certificate_computeLDL_23_1_11`, `OAI_Laughlin_Certificate_computeLDL_23_2_10`, `OAI_Laughlin_Certificate_computeLDL_23_2_11`, `OAI_Laughlin_Certificate_computeLDL_23_3_10`, `OAI_Laughlin_Certificate_computeLDL_23_3_11`, `OAI_Laughlin_Certificate_computeLDL_23_3_2`, `OAI_Laughlin_Certificate_computeLDL_23_3_3`, `OAI_Laughlin_Certificate_computeLDL_23_3_4`, `OAI_Laughlin_Certificate_computeLDL_23_3_5`, `OAI_Laughlin_Certificate_computeLDL_23_3_6`, `OAI_Laughlin_Certificate_computeLDL_23_3_7`, `OAI_Laughlin_Certificate_computeLDL_23_3_8`, `OAI_Laughlin_Certificate_computeLDL_23_3_9`, `OAI_Laughlin_Certificate_computeLDL_23_4_0`, `OAI_Laughlin_Certificate_computeLDL_23_4_1`, `OAI_Laughlin_Certificate_computeLDL_23_4_10`, `OAI_Laughlin_Certificate_computeLDL_23_4_11`, `OAI_Laughlin_Certificate_computeLDL_23_4_2`, `OAI_Laughlin_Certificate_computeLDL_23_4_3`, `OAI_Laughlin_Certificate_computeLDL_23_4_4`, `OAI_Laughlin_Certificate_computeLDL_23_4_5`, `OAI_Laughlin_Certificate_computeLDL_23_4_6`, `OAI_Laughlin_Certificate_computeLDL_23_4_7`, `OAI_Laughlin_Certificate_computeLDL_23_4_8`, `OAI_Laughlin_Certificate_computeLDL_23_4_9`, `OAI_Laughlin_Certificate_computeLDL_23_5_0`, `OAI_Laughlin_Certificate_computeLDL_23_5_1`, `OAI_Laughlin_Certificate_computeLDL_23_5_10`, `OAI_Laughlin_Certificate_computeLDL_23_5_11`, `OAI_Laughlin_Certificate_computeLDL_23_5_2`, `OAI_Laughlin_Certificate_computeLDL_23_5_3`, `OAI_Laughlin_Certificate_computeLDL_23_5_4`, `OAI_Laughlin_Certificate_computeLDL_23_5_5`, `OAI_Laughlin_Certificate_computeLDL_23_5_6`, `OAI_Laughlin_Certificate_computeLDL_23_5_7`, `OAI_Laughlin_Certificate_computeLDL_23_5_8`, `OAI_Laughlin_Certificate_computeLDL_23_5_9`, `OAI_Laughlin_Certificate_computeLDL_23_6_0`, `OAI_Laughlin_Certificate_computeLDL_23_6_1`, `OAI_Laughlin_Certificate_computeLDL_23_6_10`, `OAI_Laughlin_Certificate_computeLDL_23_6_11`, `OAI_Laughlin_Certificate_computeLDL_23_6_2`, `OAI_Laughlin_Certificate_computeLDL_23_6_3`, `OAI_Laughlin_Certificate_computeLDL_23_6_4`, `OAI_Laughlin_Certificate_computeLDL_23_6_5`, `OAI_Laughlin_Certificate_computeLDL_23_6_6`, `OAI_Laughlin_Certificate_computeLDL_23_6_7`, `OAI_Laughlin_Certificate_computeLDL_23_6_8`, `OAI_Laughlin_Certificate_computeLDL_23_6_9`, `OAI_Laughlin_Certificate_computeLDL_23_7_0`, `OAI_Laughlin_Certificate_computeLDL_23_7_1`, `OAI_Laughlin_Certificate_computeLDL_23_7_10`, `OAI_Laughlin_Certificate_computeLDL_23_7_11`, `OAI_Laughlin_Certificate_computeLDL_23_7_2`, `OAI_Laughlin_Certificate_computeLDL_23_7_3`, `OAI_Laughlin_Certificate_computeLDL_23_7_4`, `OAI_Laughlin_Certificate_computeLDL_23_7_5`, `OAI_Laughlin_Certificate_computeLDL_23_7_6`, `OAI_Laughlin_Certificate_computeLDL_23_7_7`, `OAI_Laughlin_Certificate_computeLDL_23_7_8`, `OAI_Laughlin_Certificate_computeLDL_23_7_9`, `OAI_Laughlin_Certificate_computeLDL_23_8_0`, `OAI_Laughlin_Certificate_computeLDL_23_8_1`, `OAI_Laughlin_Certificate_computeLDL_23_8_10`, `OAI_Laughlin_Certificate_computeLDL_23_8_11`, `OAI_Laughlin_Certificate_computeLDL_23_8_2`, `OAI_Laughlin_Certificate_computeLDL_23_8_3`, `OAI_Laughlin_Certificate_computeLDL_23_8_4`, `OAI_Laughlin_Certificate_computeLDL_23_8_5`, `OAI_Laughlin_Certificate_computeLDL_23_8_6`, `OAI_Laughlin_Certificate_computeLDL_23_8_7`, `OAI_Laughlin_Certificate_computeLDL_23_8_8`, `OAI_Laughlin_Certificate_computeLDL_23_8_9`, `OAI_Laughlin_Certificate_computeLDL_23_9_0`, `OAI_Laughlin_Certificate_computeLDL_23_9_1`, `OAI_Laughlin_Certificate_computeLDL_23_9_10`, `OAI_Laughlin_Certificate_computeLDL_23_9_11`, `OAI_Laughlin_Certificate_computeLDL_23_9_2`, `OAI_Laughlin_Certificate_computeLDL_23_9_3`, `OAI_Laughlin_Certificate_computeLDL_23_9_4`, `OAI_Laughlin_Certificate_computeLDL_23_9_5`, `OAI_Laughlin_Certificate_computeLDL_23_9_6`, `OAI_Laughlin_Certificate_computeLDL_23_9_7`, `OAI_Laughlin_Certificate_computeLDL_23_9_8`, `OAI_Laughlin_Certificate_computeLDL_23_9_9`, `OAI.Laughlin.Certificate.error_12`, `OAI.Laughlin.Certificate.error_13`, `OAI.Laughlin.Certificate.error_14`, `OAI.Laughlin.Certificate.error_15`, `OAI.Laughlin.Certificate.error_16`, `OAI.Laughlin.Certificate.error_17`, `OAI.Laughlin.Certificate.error_18`, `OAI.Laughlin.Certificate.error_19`, `OAI.Laughlin.Certificate.error_20`, `OAI.Laughlin.Certificate.error_21`, `OAI.Laughlin.Certificate.error_22`, `OAI.Laughlin.Certificate.error_23`, `OAI_Laughlin_Certificate_error_7_3_1`, `OAI_Laughlin_Certificate_error_7_5_1`, `OAI.Laughlin.Certificate.error_7_5_3`, `OAI.Laughlin.Certificate.error_7_7_1`, `OAI.Laughlin.Certificate.error_7_7_5`, `OAI_Laughlin_Certificate_error_8_7_5`, `OAI.Laughlin.Certificate.four_body_10_positive`, `OAI.Laughlin.Certificate.four_body_11_positive`, `OAI.Laughlin.Certificate.four_body_12_positive`, `OAI.Laughlin.Certificate.four_body_13_positive`, `OAI.Laughlin.Certificate.four_body_14_positive`, `OAI.Laughlin.Certificate.four_body_15_positive`, `OAI.Laughlin.Certificate.four_body_16_positive`, `OAI.Laughlin.Certificate.four_body_17_positive`, `OAI.Laughlin.Certificate.four_body_18_positive`, `OAI.Laughlin.Certificate.four_body_19_positive`, `OAI.Laughlin.Certificate.four_body_20_positive`, `OAI.Laughlin.Certificate.four_body_21_positive`, `OAI.Laughlin.Certificate.four_body_22_positive`, `OAI.Laughlin.Certificate.four_body_9_positive`, `OAI.Laughlin.Certificate.ldl_23`, `OAI.Laughlin.Certificate.ldl_7`, `OAI.Laughlin.Certificate.scaled_four_body_certificates`, `OAI_Laughlin_Certificate_source_error_10_5_1`, `OAI_Laughlin_Certificate_source_error_10_7_3`, `OAI_Laughlin_Certificate_source_error_10_9_1`, `OAI_Laughlin_Certificate_source_error_10_9_3`, `OAI_Laughlin_Certificate_source_error_10_9_7`, `OAI_Laughlin_Certificate_source_error_11_11_1`, `OAI_Laughlin_Certificate_source_error_11_11_3`, `OAI_Laughlin_Certificate_source_error_11_11_5`, `OAI_Laughlin_Certificate_source_error_11_11_7`, `OAI_Laughlin_Certificate_source_error_11_11_9`, `OAI_Laughlin_Certificate_source_error_11_3_1`, `OAI_Laughlin_Certificate_source_error_11_5_1`, `OAI_Laughlin_Certificate_source_error_11_7_1`, `OAI_Laughlin_Certificate_source_error_11_7_3`, `OAI_Laughlin_Certificate_source_error_11_9_1`, `OAI_Laughlin_Certificate_source_error_12_11_1`, `OAI_Laughlin_Certificate_source_error_12_11_3`, `OAI_Laughlin_Certificate_source_error_12_11_5`, `OAI_Laughlin_Certificate_source_error_12_11_7`, `OAI_Laughlin_Certificate_source_error_12_11_9`, `OAI_Laughlin_Certificate_source_error_12_3_1`, `OAI_Laughlin_Certificate_source_error_12_5_1`, `OAI_Laughlin_Certificate_source_error_12_7_1`, `OAI_Laughlin_Certificate_source_error_12_7_3`, `OAI_Laughlin_Certificate_source_error_12_7_5`, `OAI_Laughlin_Certificate_source_error_12_9_1`, `OAI_Laughlin_Certificate_source_error_12_9_3`, `OAI_Laughlin_Certificate_source_error_12_9_5`, `OAI_Laughlin_Certificate_source_error_12_9_7`, `OAI.Laughlin.Certificate.source_error_13_11_1`, `OAI.Laughlin.Certificate.source_error_13_11_11`, `OAI.Laughlin.Certificate.source_error_13_11_3`, `OAI.Laughlin.Certificate.source_error_13_11_5`, `OAI.Laughlin.Certificate.source_error_13_11_7`, `OAI.Laughlin.Certificate.source_error_13_11_9`, `OAI.Laughlin.Certificate.source_error_13_13_1`, `OAI.Laughlin.Certificate.source_error_13_13_11`, `OAI.Laughlin.Certificate.source_error_13_13_13`, `OAI.Laughlin.Certificate.source_error_13_13_3`, `OAI.Laughlin.Certificate.source_error_13_13_5`, `OAI.Laughlin.Certificate.source_error_13_13_7`, `OAI.Laughlin.Certificate.source_error_13_13_9`, `OAI.Laughlin.Certificate.source_error_13_3_1`, `OAI.Laughlin.Certificate.source_error_13_5_1`, `OAI.Laughlin.Certificate.source_error_13_5_3`, `OAI.Laughlin.Certificate.source_error_13_7_1`, `OAI.Laughlin.Certificate.source_error_13_7_3`, `OAI.Laughlin.Certificate.source_error_13_7_5`, `OAI.Laughlin.Certificate.source_error_13_9_1`, `OAI.Laughlin.Certificate.source_error_13_9_3`, `OAI.Laughlin.Certificate.source_error_13_9_5`, `OAI.Laughlin.Certificate.source_error_13_9_7`, `OAI.Laughlin.Certificate.source_error_14_11_1`, `OAI.Laughlin.Certificate.source_error_14_11_13`, `OAI.Laughlin.Certificate.source_error_14_11_3`, `OAI.Laughlin.Certificate.source_error_14_11_5`, `OAI.Laughlin.Certificate.source_error_14_11_7`, `OAI.Laughlin.Certificate.source_error_14_11_9`, `OAI.Laughlin.Certificate.source_error_14_13_1`, `OAI.Laughlin.Certificate.source_error_14_13_11`, `OAI.Laughlin.Certificate.source_error_14_13_13`, `OAI.Laughlin.Certificate.source_error_14_13_3`, `OAI.Laughlin.Certificate.source_error_14_13_5`, `OAI.Laughlin.Certificate.source_error_14_13_7`, `OAI.Laughlin.Certificate.source_error_14_13_9`, `OAI.Laughlin.Certificate.source_error_14_3_1`, `OAI.Laughlin.Certificate.source_error_14_5_1`, `OAI.Laughlin.Certificate.source_error_14_5_3`, `OAI.Laughlin.Certificate.source_error_14_7_1`, `OAI.Laughlin.Certificate.source_error_14_7_3`, `OAI.Laughlin.Certificate.source_error_14_7_5`, `OAI.Laughlin.Certificate.source_error_14_9_1`, `OAI.Laughlin.Certificate.source_error_14_9_3`, `OAI.Laughlin.Certificate.source_error_14_9_5`, `OAI.Laughlin.Certificate.source_error_14_9_7`, `OAI.Laughlin.Certificate.source_error_15_11_1`, `OAI.Laughlin.Certificate.source_error_15_11_11`, `OAI.Laughlin.Certificate.source_error_15_11_13`, `OAI.Laughlin.Certificate.source_error_15_11_15`, `OAI.Laughlin.Certificate.source_error_15_11_3`, `OAI.Laughlin.Certificate.source_error_15_11_5`, `OAI.Laughlin.Certificate.source_error_15_11_7`, `OAI.Laughlin.Certificate.source_error_15_11_9`, `OAI.Laughlin.Certificate.source_error_15_13_1`, `OAI.Laughlin.Certificate.source_error_15_13_11`, `OAI.Laughlin.Certificate.source_error_15_13_13`, `OAI.Laughlin.Certificate.source_error_15_13_15`, `OAI.Laughlin.Certificate.source_error_15_13_3`, `OAI.Laughlin.Certificate.source_error_15_13_5`, `OAI.Laughlin.Certificate.source_error_15_13_7`, `OAI.Laughlin.Certificate.source_error_15_13_9`, `OAI.Laughlin.Certificate.source_error_15_15_1`, `OAI.Laughlin.Certificate.source_error_15_15_11`, `OAI.Laughlin.Certificate.source_error_15_15_13`, `OAI.Laughlin.Certificate.source_error_15_15_15`, `OAI.Laughlin.Certificate.source_error_15_15_3`, `OAI.Laughlin.Certificate.source_error_15_15_5`, `OAI.Laughlin.Certificate.source_error_15_15_7`, `OAI.Laughlin.Certificate.source_error_15_15_9`, `OAI.Laughlin.Certificate.source_error_15_1_11`, `OAI.Laughlin.Certificate.source_error_15_1_13`, `OAI.Laughlin.Certificate.source_error_15_1_15`, `OAI.Laughlin.Certificate.source_error_15_3_1`, `OAI.Laughlin.Certificate.source_error_15_5_1`, `OAI.Laughlin.Certificate.source_error_15_5_3`, `OAI.Laughlin.Certificate.source_error_15_7_1`, `OAI.Laughlin.Certificate.source_error_15_7_13`, `OAI.Laughlin.Certificate.source_error_15_7_3`, `OAI.Laughlin.Certificate.source_error_15_7_5`, `OAI.Laughlin.Certificate.source_error_15_9_1`, `OAI.Laughlin.Certificate.source_error_15_9_3`, `OAI.Laughlin.Certificate.source_error_15_9_5`, `OAI.Laughlin.Certificate.source_error_15_9_7`, `OAI.Laughlin.Certificate.source_error_16_11_1`, `OAI.Laughlin.Certificate.source_error_16_11_11`, `OAI.Laughlin.Certificate.source_error_16_11_13`, `OAI.Laughlin.Certificate.source_error_16_11_15`, `OAI.Laughlin.Certificate.source_error_16_11_3`, `OAI.Laughlin.Certificate.source_error_16_11_5`, `OAI.Laughlin.Certificate.source_error_16_11_7`, `OAI.Laughlin.Certificate.source_error_16_11_9`, `OAI.Laughlin.Certificate.source_error_16_13_1`, `OAI.Laughlin.Certificate.source_error_16_13_11`, `OAI.Laughlin.Certificate.source_error_16_13_13`, `OAI.Laughlin.Certificate.source_error_16_13_15`, `OAI.Laughlin.Certificate.source_error_16_13_3`, `OAI.Laughlin.Certificate.source_error_16_13_5`, `OAI.Laughlin.Certificate.source_error_16_13_7`, `OAI.Laughlin.Certificate.source_error_16_13_9`, `OAI.Laughlin.Certificate.source_error_16_15_1`, `OAI.Laughlin.Certificate.source_error_16_15_11`, `OAI.Laughlin.Certificate.source_error_16_15_13`, `OAI.Laughlin.Certificate.source_error_16_15_15`, `OAI.Laughlin.Certificate.source_error_16_15_3`, `OAI.Laughlin.Certificate.source_error_16_15_5`, `OAI.Laughlin.Certificate.source_error_16_15_7`, `OAI.Laughlin.Certificate.source_error_16_15_9`, `OAI.Laughlin.Certificate.source_error_16_1_13`, `OAI.Laughlin.Certificate.source_error_16_3_1`, `OAI.Laughlin.Certificate.source_error_16_3_13`, `OAI.Laughlin.Certificate.source_error_16_3_15`, `OAI.Laughlin.Certificate.source_error_16_5_1`, `OAI.Laughlin.Certificate.source_error_16_5_3`, `OAI.Laughlin.Certificate.source_error_16_7_1`, `OAI.Laughlin.Certificate.source_error_16_7_13`, `OAI.Laughlin.Certificate.source_error_16_7_3`, `OAI.Laughlin.Certificate.source_error_16_7_5`, `OAI.Laughlin.Certificate.source_error_16_9_1`, `OAI.Laughlin.Certificate.source_error_16_9_3`, `OAI.Laughlin.Certificate.source_error_16_9_5`, `OAI.Laughlin.Certificate.source_error_16_9_7`, `OAI.Laughlin.Certificate.source_error_17_11_1`, `OAI.Laughlin.Certificate.source_error_17_11_11`, `OAI.Laughlin.Certificate.source_error_17_11_13`, `OAI.Laughlin.Certificate.source_error_17_11_15`, `OAI.Laughlin.Certificate.source_error_17_11_3`, `OAI.Laughlin.Certificate.source_error_17_11_5`, `OAI.Laughlin.Certificate.source_error_17_11_7`, `OAI.Laughlin.Certificate.source_error_17_11_9`, `OAI.Laughlin.Certificate.source_error_17_13_1`, `OAI.Laughlin.Certificate.source_error_17_13_11`, `OAI.Laughlin.Certificate.source_error_17_13_13`, `OAI.Laughlin.Certificate.source_error_17_13_15`, `OAI.Laughlin.Certificate.source_error_17_13_3`, `OAI.Laughlin.Certificate.source_error_17_13_5`, `OAI.Laughlin.Certificate.source_error_17_13_7`, `OAI.Laughlin.Certificate.source_error_17_13_9`, `OAI.Laughlin.Certificate.source_error_17_15_1`, `OAI.Laughlin.Certificate.source_error_17_15_11`, `OAI.Laughlin.Certificate.source_error_17_15_13`, `OAI.Laughlin.Certificate.source_error_17_15_15`, `OAI.Laughlin.Certificate.source_error_17_15_3`, `OAI.Laughlin.Certificate.source_error_17_15_5`, `OAI.Laughlin.Certificate.source_error_17_15_7`, `OAI.Laughlin.Certificate.source_error_17_15_9`, `OAI.Laughlin.Certificate.source_error_17_17_1`, `OAI.Laughlin.Certificate.source_error_17_17_11`, `OAI.Laughlin.Certificate.source_error_17_17_13`, `OAI.Laughlin.Certificate.source_error_17_17_15`, `OAI.Laughlin.Certificate.source_error_17_17_3`, `OAI.Laughlin.Certificate.source_error_17_17_5`, `OAI.Laughlin.Certificate.source_error_17_17_7`, `OAI.Laughlin.Certificate.source_error_17_17_9`, `OAI.Laughlin.Certificate.source_error_17_1_11`, `OAI.Laughlin.Certificate.source_error_17_1_13`, `OAI.Laughlin.Certificate.source_error_17_1_15`, `OAI.Laughlin.Certificate.source_error_17_3_1`, `OAI.Laughlin.Certificate.source_error_17_3_11`, `OAI.Laughlin.Certificate.source_error_17_3_13`, `OAI.Laughlin.Certificate.source_error_17_3_15`, `OAI.Laughlin.Certificate.source_error_17_5_1`, `OAI.Laughlin.Certificate.source_error_17_5_11`, `OAI.Laughlin.Certificate.source_error_17_5_13`, `OAI.Laughlin.Certificate.source_error_17_5_3`, `OAI.Laughlin.Certificate.source_error_17_7_1`, `OAI.Laughlin.Certificate.source_error_17_7_11`, `OAI.Laughlin.Certificate.source_error_17_7_13`, `OAI.Laughlin.Certificate.source_error_17_7_15`, `OAI.Laughlin.Certificate.source_error_17_7_3`, `OAI.Laughlin.Certificate.source_error_17_7_5`, `OAI.Laughlin.Certificate.source_error_17_9_1`, `OAI.Laughlin.Certificate.source_error_17_9_13`, `OAI.Laughlin.Certificate.source_error_17_9_15`, `OAI.Laughlin.Certificate.source_error_17_9_3`, `OAI.Laughlin.Certificate.source_error_17_9_5`, `OAI.Laughlin.Certificate.source_error_17_9_7`, `OAI.Laughlin.Certificate.source_error_18_11_1`, `OAI.Laughlin.Certificate.source_error_18_11_11`, `OAI.Laughlin.Certificate.source_error_18_11_13`, `OAI.Laughlin.Certificate.source_error_18_11_15`, `OAI.Laughlin.Certificate.source_error_18_11_3`, `OAI.Laughlin.Certificate.source_error_18_11_5`, `OAI.Laughlin.Certificate.source_error_18_11_7`, `OAI.Laughlin.Certificate.source_error_18_11_9`, `OAI.Laughlin.Certificate.source_error_18_13_1`, `OAI.Laughlin.Certificate.source_error_18_13_11`, `OAI.Laughlin.Certificate.source_error_18_13_13`, `OAI.Laughlin.Certificate.source_error_18_13_15`, `OAI.Laughlin.Certificate.source_error_18_13_3`, `OAI.Laughlin.Certificate.source_error_18_13_5`, `OAI.Laughlin.Certificate.source_error_18_13_7`, `OAI.Laughlin.Certificate.source_error_18_13_9`, `OAI.Laughlin.Certificate.source_error_18_15_1`, `OAI.Laughlin.Certificate.source_error_18_15_11`, `OAI.Laughlin.Certificate.source_error_18_15_13`, `OAI.Laughlin.Certificate.source_error_18_15_15`, `OAI.Laughlin.Certificate.source_error_18_15_3`, `OAI.Laughlin.Certificate.source_error_18_15_5`, `OAI.Laughlin.Certificate.source_error_18_15_7`, `OAI.Laughlin.Certificate.source_error_18_15_9`, `OAI.Laughlin.Certificate.source_error_18_17_1`, `OAI.Laughlin.Certificate.source_error_18_17_11`, `OAI.Laughlin.Certificate.source_error_18_17_13`, `OAI.Laughlin.Certificate.source_error_18_17_15`, `OAI.Laughlin.Certificate.source_error_18_17_3`, `OAI.Laughlin.Certificate.source_error_18_17_5`, `OAI.Laughlin.Certificate.source_error_18_17_7`, `OAI.Laughlin.Certificate.source_error_18_17_9`, `OAI.Laughlin.Certificate.source_error_18_1_11`, `OAI.Laughlin.Certificate.source_error_18_1_13`, `OAI.Laughlin.Certificate.source_error_18_1_15`, `OAI.Laughlin.Certificate.source_error_18_3_1`, `OAI.Laughlin.Certificate.source_error_18_3_11`, `OAI.Laughlin.Certificate.source_error_18_3_13`, `OAI.Laughlin.Certificate.source_error_18_5_1`, `OAI.Laughlin.Certificate.source_error_18_5_11`, `OAI.Laughlin.Certificate.source_error_18_5_13`, `OAI.Laughlin.Certificate.source_error_18_5_15`, `OAI.Laughlin.Certificate.source_error_18_5_3`, `OAI.Laughlin.Certificate.source_error_18_7_1`, `OAI.Laughlin.Certificate.source_error_18_7_11`, `OAI.Laughlin.Certificate.source_error_18_7_13`, `OAI.Laughlin.Certificate.source_error_18_7_15`, `OAI.Laughlin.Certificate.source_error_18_7_3`, `OAI.Laughlin.Certificate.source_error_18_7_5`, `OAI.Laughlin.Certificate.source_error_18_9_1`, `OAI.Laughlin.Certificate.source_error_18_9_13`, `OAI.Laughlin.Certificate.source_error_18_9_15`, `OAI.Laughlin.Certificate.source_error_18_9_3`, `OAI.Laughlin.Certificate.source_error_18_9_5`, `OAI.Laughlin.Certificate.source_error_18_9_7`, `OAI.Laughlin.Certificate.source_error_19_11_1`, `OAI.Laughlin.Certificate.source_error_19_11_11`, `OAI.Laughlin.Certificate.source_error_19_11_13`, `OAI.Laughlin.Certificate.source_error_19_11_15`, `OAI.Laughlin.Certificate.source_error_19_11_3`, `OAI.Laughlin.Certificate.source_error_19_11_5`, `OAI.Laughlin.Certificate.source_error_19_11_7`, `OAI.Laughlin.Certificate.source_error_19_11_9`, `OAI.Laughlin.Certificate.source_error_19_13_1`, `OAI.Laughlin.Certificate.source_error_19_13_11`, `OAI.Laughlin.Certificate.source_error_19_13_13`, `OAI.Laughlin.Certificate.source_error_19_13_15`, `OAI.Laughlin.Certificate.source_error_19_13_3`, `OAI.Laughlin.Certificate.source_error_19_13_5`, `OAI.Laughlin.Certificate.source_error_19_13_7`, `OAI.Laughlin.Certificate.source_error_19_13_9`, `OAI.Laughlin.Certificate.source_error_19_15_1`, `OAI.Laughlin.Certificate.source_error_19_15_11`, `OAI.Laughlin.Certificate.source_error_19_15_13`, `OAI.Laughlin.Certificate.source_error_19_15_15`, `OAI.Laughlin.Certificate.source_error_19_15_3`, `OAI.Laughlin.Certificate.source_error_19_15_5`, `OAI.Laughlin.Certificate.source_error_19_15_7`, `OAI.Laughlin.Certificate.source_error_19_15_9`, `OAI.Laughlin.Certificate.source_error_19_17_1`, `OAI.Laughlin.Certificate.source_error_19_17_11`, `OAI.Laughlin.Certificate.source_error_19_17_13`, `OAI.Laughlin.Certificate.source_error_19_17_15`, `OAI.Laughlin.Certificate.source_error_19_17_3`, `OAI.Laughlin.Certificate.source_error_19_17_5`, `OAI.Laughlin.Certificate.source_error_19_17_7`, `OAI.Laughlin.Certificate.source_error_19_17_9`, `OAI.Laughlin.Certificate.source_error_19_19_1`, `OAI.Laughlin.Certificate.source_error_19_19_11`, `OAI.Laughlin.Certificate.source_error_19_19_13`, `OAI.Laughlin.Certificate.source_error_19_19_15`, `OAI.Laughlin.Certificate.source_error_19_19_17`, `OAI.Laughlin.Certificate.source_error_19_19_3`, `OAI.Laughlin.Certificate.source_error_19_19_5`, `OAI.Laughlin.Certificate.source_error_19_19_7`, `OAI.Laughlin.Certificate.source_error_19_19_9`, `OAI.Laughlin.Certificate.source_error_19_1_1`, `OAI.Laughlin.Certificate.source_error_19_1_11`, `OAI.Laughlin.Certificate.source_error_19_1_13`, `OAI.Laughlin.Certificate.source_error_19_1_15`, `OAI.Laughlin.Certificate.source_error_19_1_3`, `OAI.Laughlin.Certificate.source_error_19_1_5`, `OAI.Laughlin.Certificate.source_error_19_3_1`, `OAI.Laughlin.Certificate.source_error_19_3_11`, `OAI.Laughlin.Certificate.source_error_19_3_13`, `OAI.Laughlin.Certificate.source_error_19_3_15`, `OAI.Laughlin.Certificate.source_error_19_3_3`, `OAI.Laughlin.Certificate.source_error_19_3_5`, `OAI.Laughlin.Certificate.source_error_19_3_7`, `OAI.Laughlin.Certificate.source_error_19_5_1`, `OAI.Laughlin.Certificate.source_error_19_5_11`, `OAI.Laughlin.Certificate.source_error_19_5_13`, `OAI.Laughlin.Certificate.source_error_19_5_15`, `OAI.Laughlin.Certificate.source_error_19_5_3`, `OAI.Laughlin.Certificate.source_error_19_5_5`, `OAI.Laughlin.Certificate.source_error_19_5_9`, `OAI.Laughlin.Certificate.source_error_19_7_1`, `OAI.Laughlin.Certificate.source_error_19_7_11`, `OAI.Laughlin.Certificate.source_error_19_7_13`, `OAI.Laughlin.Certificate.source_error_19_7_15`, `OAI.Laughlin.Certificate.source_error_19_7_3`, `OAI.Laughlin.Certificate.source_error_19_7_5`, `OAI.Laughlin.Certificate.source_error_19_9_1`, `OAI.Laughlin.Certificate.source_error_19_9_11`, `OAI.Laughlin.Certificate.source_error_19_9_13`, `OAI.Laughlin.Certificate.source_error_19_9_15`, `OAI.Laughlin.Certificate.source_error_19_9_3`, `OAI.Laughlin.Certificate.source_error_19_9_5`, `OAI.Laughlin.Certificate.source_error_19_9_7`, `OAI.Laughlin.Certificate.source_error_20_11_1`, `OAI.Laughlin.Certificate.source_error_20_11_11`, `OAI.Laughlin.Certificate.source_error_20_11_13`, `OAI.Laughlin.Certificate.source_error_20_11_15`, `OAI.Laughlin.Certificate.source_error_20_11_3`, `OAI.Laughlin.Certificate.source_error_20_11_5`, `OAI.Laughlin.Certificate.source_error_20_11_7`, `OAI.Laughlin.Certificate.source_error_20_11_9`, `OAI.Laughlin.Certificate.source_error_20_13_1`, `OAI.Laughlin.Certificate.source_error_20_13_11`, `OAI.Laughlin.Certificate.source_error_20_13_13`, `OAI.Laughlin.Certificate.source_error_20_13_15`, `OAI.Laughlin.Certificate.source_error_20_13_3`, `OAI.Laughlin.Certificate.source_error_20_13_5`, `OAI.Laughlin.Certificate.source_error_20_13_7`, `OAI.Laughlin.Certificate.source_error_20_13_9`, `OAI.Laughlin.Certificate.source_error_20_15_1`, `OAI.Laughlin.Certificate.source_error_20_15_11`, `OAI.Laughlin.Certificate.source_error_20_15_13`, `OAI.Laughlin.Certificate.source_error_20_15_15`, `OAI.Laughlin.Certificate.source_error_20_15_3`, `OAI.Laughlin.Certificate.source_error_20_15_5`, `OAI.Laughlin.Certificate.source_error_20_15_7`, `OAI.Laughlin.Certificate.source_error_20_15_9`, `OAI.Laughlin.Certificate.source_error_20_17_1`, `OAI.Laughlin.Certificate.source_error_20_17_11`, `OAI.Laughlin.Certificate.source_error_20_17_13`, `OAI.Laughlin.Certificate.source_error_20_17_15`, `OAI.Laughlin.Certificate.source_error_20_17_3`, `OAI.Laughlin.Certificate.source_error_20_17_5`, `OAI.Laughlin.Certificate.source_error_20_17_7`, `OAI.Laughlin.Certificate.source_error_20_17_9`, `OAI.Laughlin.Certificate.source_error_20_19_1`, `OAI.Laughlin.Certificate.source_error_20_19_11`, `OAI.Laughlin.Certificate.source_error_20_19_13`, `OAI.Laughlin.Certificate.source_error_20_19_15`, `OAI.Laughlin.Certificate.source_error_20_19_17`, `OAI.Laughlin.Certificate.source_error_20_19_3`, `OAI.Laughlin.Certificate.source_error_20_19_5`, `OAI.Laughlin.Certificate.source_error_20_19_7`, `OAI.Laughlin.Certificate.source_error_20_19_9`, `OAI.Laughlin.Certificate.source_error_20_1_1`, `OAI.Laughlin.Certificate.source_error_20_1_11`, `OAI.Laughlin.Certificate.source_error_20_1_13`, `OAI.Laughlin.Certificate.source_error_20_1_15`, `OAI.Laughlin.Certificate.source_error_20_1_3`, `OAI.Laughlin.Certificate.source_error_20_1_5`, `OAI.Laughlin.Certificate.source_error_20_1_9`, `OAI.Laughlin.Certificate.source_error_20_3_1`, `OAI.Laughlin.Certificate.source_error_20_3_11`, `OAI.Laughlin.Certificate.source_error_20_3_13`, `OAI.Laughlin.Certificate.source_error_20_3_15`, `OAI.Laughlin.Certificate.source_error_20_3_3`, `OAI.Laughlin.Certificate.source_error_20_3_5`, `OAI.Laughlin.Certificate.source_error_20_3_7`, `OAI.Laughlin.Certificate.source_error_20_5_1`, `OAI.Laughlin.Certificate.source_error_20_5_11`, `OAI.Laughlin.Certificate.source_error_20_5_13`, `OAI.Laughlin.Certificate.source_error_20_5_15`, `OAI.Laughlin.Certificate.source_error_20_5_3`, `OAI.Laughlin.Certificate.source_error_20_5_5`, `OAI.Laughlin.Certificate.source_error_20_7_1`, `OAI.Laughlin.Certificate.source_error_20_7_11`, `OAI.Laughlin.Certificate.source_error_20_7_13`, `OAI.Laughlin.Certificate.source_error_20_7_15`, `OAI.Laughlin.Certificate.source_error_20_7_3`, `OAI.Laughlin.Certificate.source_error_20_7_5`, `OAI.Laughlin.Certificate.source_error_20_9_1`, `OAI.Laughlin.Certificate.source_error_20_9_11`, `OAI.Laughlin.Certificate.source_error_20_9_13`, `OAI.Laughlin.Certificate.source_error_20_9_15`, `OAI.Laughlin.Certificate.source_error_20_9_3`, `OAI.Laughlin.Certificate.source_error_20_9_5`, `OAI.Laughlin.Certificate.source_error_20_9_7`, `OAI.Laughlin.Certificate.source_error_21_11_1`, `OAI.Laughlin.Certificate.source_error_21_11_11`, `OAI.Laughlin.Certificate.source_error_21_11_13`, `OAI.Laughlin.Certificate.source_error_21_11_15`, `OAI.Laughlin.Certificate.source_error_21_11_3`, `OAI.Laughlin.Certificate.source_error_21_11_5`, `OAI.Laughlin.Certificate.source_error_21_11_7`, `OAI.Laughlin.Certificate.source_error_21_11_9`, `OAI.Laughlin.Certificate.source_error_21_13_1`, `OAI.Laughlin.Certificate.source_error_21_13_11`, `OAI.Laughlin.Certificate.source_error_21_13_13`, `OAI.Laughlin.Certificate.source_error_21_13_15`, `OAI.Laughlin.Certificate.source_error_21_13_3`, `OAI.Laughlin.Certificate.source_error_21_13_5`, `OAI.Laughlin.Certificate.source_error_21_13_7`, `OAI.Laughlin.Certificate.source_error_21_13_9`, `OAI.Laughlin.Certificate.source_error_21_15_1`, `OAI.Laughlin.Certificate.source_error_21_15_11`, `OAI.Laughlin.Certificate.source_error_21_15_13`, `OAI.Laughlin.Certificate.source_error_21_15_15`, `OAI.Laughlin.Certificate.source_error_21_15_3`, `OAI.Laughlin.Certificate.source_error_21_15_5`, `OAI.Laughlin.Certificate.source_error_21_15_7`, `OAI.Laughlin.Certificate.source_error_21_15_9`, `OAI.Laughlin.Certificate.source_error_21_17_1`, `OAI.Laughlin.Certificate.source_error_21_17_11`, `OAI.Laughlin.Certificate.source_error_21_17_13`, `OAI.Laughlin.Certificate.source_error_21_17_15`, `OAI.Laughlin.Certificate.source_error_21_17_21`, `OAI.Laughlin.Certificate.source_error_21_17_3`, `OAI.Laughlin.Certificate.source_error_21_17_5`, `OAI.Laughlin.Certificate.source_error_21_17_7`, `OAI.Laughlin.Certificate.source_error_21_17_9`, `OAI.Laughlin.Certificate.source_error_21_19_1`, `OAI.Laughlin.Certificate.source_error_21_19_11`, `OAI.Laughlin.Certificate.source_error_21_19_13`, `OAI.Laughlin.Certificate.source_error_21_19_15`, `OAI.Laughlin.Certificate.source_error_21_19_17`, `OAI.Laughlin.Certificate.source_error_21_19_19`, `OAI.Laughlin.Certificate.source_error_21_19_21`, `OAI.Laughlin.Certificate.source_error_21_19_3`, `OAI.Laughlin.Certificate.source_error_21_19_5`, `OAI.Laughlin.Certificate.source_error_21_19_7`, `OAI.Laughlin.Certificate.source_error_21_19_9`, `OAI.Laughlin.Certificate.source_error_21_1_1`, `OAI.Laughlin.Certificate.source_error_21_1_11`, `OAI.Laughlin.Certificate.source_error_21_1_13`, `OAI.Laughlin.Certificate.source_error_21_1_15`, `OAI.Laughlin.Certificate.source_error_21_1_3`, `OAI.Laughlin.Certificate.source_error_21_1_5`, `OAI.Laughlin.Certificate.source_error_21_1_7`, `OAI.Laughlin.Certificate.source_error_21_1_9`, `OAI.Laughlin.Certificate.source_error_21_21_1`, `OAI.Laughlin.Certificate.source_error_21_21_11`, `OAI.Laughlin.Certificate.source_error_21_21_13`, `OAI.Laughlin.Certificate.source_error_21_21_15`, `OAI.Laughlin.Certificate.source_error_21_21_17`, `OAI.Laughlin.Certificate.source_error_21_21_19`, `OAI.Laughlin.Certificate.source_error_21_21_21`, `OAI.Laughlin.Certificate.source_error_21_21_3`, `OAI.Laughlin.Certificate.source_error_21_21_5`, `OAI.Laughlin.Certificate.source_error_21_21_7`, `OAI.Laughlin.Certificate.source_error_21_21_9`, `OAI.Laughlin.Certificate.source_error_21_3_1`, `OAI.Laughlin.Certificate.source_error_21_3_11`, `OAI.Laughlin.Certificate.source_error_21_3_13`, `OAI.Laughlin.Certificate.source_error_21_3_15`, `OAI.Laughlin.Certificate.source_error_21_3_3`, `OAI.Laughlin.Certificate.source_error_21_3_5`, `OAI.Laughlin.Certificate.source_error_21_3_7`, `OAI.Laughlin.Certificate.source_error_21_3_9`, `OAI.Laughlin.Certificate.source_error_21_5_1`, `OAI.Laughlin.Certificate.source_error_21_5_11`, `OAI.Laughlin.Certificate.source_error_21_5_13`, `OAI.Laughlin.Certificate.source_error_21_5_15`, `OAI.Laughlin.Certificate.source_error_21_5_3`, `OAI.Laughlin.Certificate.source_error_21_5_5`, `OAI.Laughlin.Certificate.source_error_21_5_7`, `OAI.Laughlin.Certificate.source_error_21_5_9`, `OAI.Laughlin.Certificate.source_error_21_7_1`, `OAI.Laughlin.Certificate.source_error_21_7_11`, `OAI.Laughlin.Certificate.source_error_21_7_13`, `OAI.Laughlin.Certificate.source_error_21_7_15`, `OAI.Laughlin.Certificate.source_error_21_7_3`, `OAI.Laughlin.Certificate.source_error_21_7_5`, `OAI.Laughlin.Certificate.source_error_21_7_7`, `OAI.Laughlin.Certificate.source_error_21_7_9`, `OAI.Laughlin.Certificate.source_error_21_9_1`, `OAI.Laughlin.Certificate.source_error_21_9_11`, `OAI.Laughlin.Certificate.source_error_21_9_13`, `OAI.Laughlin.Certificate.source_error_21_9_15`, `OAI.Laughlin.Certificate.source_error_21_9_3`, `OAI.Laughlin.Certificate.source_error_21_9_5`, `OAI.Laughlin.Certificate.source_error_21_9_7`, `OAI.Laughlin.Certificate.source_error_21_9_9`, `OAI.Laughlin.Certificate.source_error_22_11_1`, `OAI.Laughlin.Certificate.source_error_22_11_11`, `OAI.Laughlin.Certificate.source_error_22_11_13`, `OAI.Laughlin.Certificate.source_error_22_11_15`, `OAI.Laughlin.Certificate.source_error_22_11_17`, `OAI.Laughlin.Certificate.source_error_22_11_19`, `OAI.Laughlin.Certificate.source_error_22_11_21`, `OAI.Laughlin.Certificate.source_error_22_11_3`, `OAI.Laughlin.Certificate.source_error_22_11_5`, `OAI.Laughlin.Certificate.source_error_22_11_7`, `OAI.Laughlin.Certificate.source_error_22_11_9`, `OAI.Laughlin.Certificate.source_error_22_13_1`, `OAI.Laughlin.Certificate.source_error_22_13_11`, `OAI.Laughlin.Certificate.source_error_22_13_13`, `OAI.Laughlin.Certificate.source_error_22_13_15`, `OAI.Laughlin.Certificate.source_error_22_13_17`, `OAI.Laughlin.Certificate.source_error_22_13_19`, `OAI.Laughlin.Certificate.source_error_22_13_21`, `OAI.Laughlin.Certificate.source_error_22_13_3`, `OAI.Laughlin.Certificate.source_error_22_13_5`, `OAI.Laughlin.Certificate.source_error_22_13_7`, `OAI.Laughlin.Certificate.source_error_22_13_9`, `OAI.Laughlin.Certificate.source_error_22_15_1`, `OAI.Laughlin.Certificate.source_error_22_15_11`, `OAI.Laughlin.Certificate.source_error_22_15_13`, `OAI.Laughlin.Certificate.source_error_22_15_15`, `OAI.Laughlin.Certificate.source_error_22_15_17`, `OAI.Laughlin.Certificate.source_error_22_15_19`, `OAI.Laughlin.Certificate.source_error_22_15_21`, `OAI.Laughlin.Certificate.source_error_22_15_3`, `OAI.Laughlin.Certificate.source_error_22_15_5`, `OAI.Laughlin.Certificate.source_error_22_15_7`, `OAI.Laughlin.Certificate.source_error_22_15_9`, `OAI.Laughlin.Certificate.source_error_22_17_1`, `OAI.Laughlin.Certificate.source_error_22_17_11`, `OAI.Laughlin.Certificate.source_error_22_17_13`, `OAI.Laughlin.Certificate.source_error_22_17_15`, `OAI.Laughlin.Certificate.source_error_22_17_17`, `OAI.Laughlin.Certificate.source_error_22_17_19`, `OAI.Laughlin.Certificate.source_error_22_17_21`, `OAI.Laughlin.Certificate.source_error_22_17_3`, `OAI.Laughlin.Certificate.source_error_22_17_5`, `OAI.Laughlin.Certificate.source_error_22_17_7`, `OAI.Laughlin.Certificate.source_error_22_17_9`, `OAI.Laughlin.Certificate.source_error_22_19_1`, `OAI.Laughlin.Certificate.source_error_22_19_11`, `OAI.Laughlin.Certificate.source_error_22_19_13`, `OAI.Laughlin.Certificate.source_error_22_19_15`, `OAI.Laughlin.Certificate.source_error_22_19_17`, `OAI.Laughlin.Certificate.source_error_22_19_19`, `OAI.Laughlin.Certificate.source_error_22_19_21`, `OAI.Laughlin.Certificate.source_error_22_19_3`, `OAI.Laughlin.Certificate.source_error_22_19_5`, `OAI.Laughlin.Certificate.source_error_22_19_7`, `OAI.Laughlin.Certificate.source_error_22_19_9`, `OAI.Laughlin.Certificate.source_error_22_21_1`, `OAI.Laughlin.Certificate.source_error_22_21_11`, `OAI.Laughlin.Certificate.source_error_22_21_13`, `OAI.Laughlin.Certificate.source_error_22_21_15`, `OAI.Laughlin.Certificate.source_error_22_21_17`, `OAI.Laughlin.Certificate.source_error_22_21_19`, `OAI.Laughlin.Certificate.source_error_22_21_21`, `OAI.Laughlin.Certificate.source_error_22_21_3`, `OAI.Laughlin.Certificate.source_error_22_21_5`, `OAI.Laughlin.Certificate.source_error_22_21_7`, `OAI.Laughlin.Certificate.source_error_22_21_9`, `OAI.Laughlin.Certificate.source_error_22_3_1`, `OAI.Laughlin.Certificate.source_error_22_3_21`, `OAI.Laughlin.Certificate.source_error_22_5_1`, `OAI.Laughlin.Certificate.source_error_22_5_11`, `OAI.Laughlin.Certificate.source_error_22_5_13`, `OAI.Laughlin.Certificate.source_error_22_5_15`, `OAI.Laughlin.Certificate.source_error_22_5_17`, `OAI.Laughlin.Certificate.source_error_22_5_19`, `OAI.Laughlin.Certificate.source_error_22_5_21`, `OAI.Laughlin.Certificate.source_error_22_5_3`, `OAI.Laughlin.Certificate.source_error_22_7_1`, `OAI.Laughlin.Certificate.source_error_22_7_11`, `OAI.Laughlin.Certificate.source_error_22_7_13`, `OAI.Laughlin.Certificate.source_error_22_7_15`, `OAI.Laughlin.Certificate.source_error_22_7_17`, `OAI.Laughlin.Certificate.source_error_22_7_19`, `OAI.Laughlin.Certificate.source_error_22_7_21`, `OAI.Laughlin.Certificate.source_error_22_7_3`, `OAI.Laughlin.Certificate.source_error_22_7_5`, `OAI.Laughlin.Certificate.source_error_22_9_1`, `OAI.Laughlin.Certificate.source_error_22_9_11`, `OAI.Laughlin.Certificate.source_error_22_9_13`, `OAI.Laughlin.Certificate.source_error_22_9_15`, `OAI.Laughlin.Certificate.source_error_22_9_17`, `OAI.Laughlin.Certificate.source_error_22_9_19`, `OAI.Laughlin.Certificate.source_error_22_9_21`, `OAI.Laughlin.Certificate.source_error_22_9_3`, `OAI.Laughlin.Certificate.source_error_22_9_5`, `OAI.Laughlin.Certificate.source_error_22_9_7`, `OAI.Laughlin.Certificate.source_error_23_11_1`, `OAI.Laughlin.Certificate.source_error_23_11_11`, `OAI.Laughlin.Certificate.source_error_23_11_13`, `OAI.Laughlin.Certificate.source_error_23_11_15`, `OAI.Laughlin.Certificate.source_error_23_11_17`, `OAI.Laughlin.Certificate.source_error_23_11_19`, `OAI.Laughlin.Certificate.source_error_23_11_21`, `OAI.Laughlin.Certificate.source_error_23_11_23`, `OAI.Laughlin.Certificate.source_error_23_11_3`, `OAI.Laughlin.Certificate.source_error_23_11_5`, `OAI.Laughlin.Certificate.source_error_23_11_7`, `OAI.Laughlin.Certificate.source_error_23_11_9`, `OAI.Laughlin.Certificate.source_error_23_13_1`, `OAI.Laughlin.Certificate.source_error_23_13_11`, `OAI.Laughlin.Certificate.source_error_23_13_13`, `OAI.Laughlin.Certificate.source_error_23_13_15`, `OAI.Laughlin.Certificate.source_error_23_13_17`, `OAI.Laughlin.Certificate.source_error_23_13_19`, `OAI.Laughlin.Certificate.source_error_23_13_21`, `OAI.Laughlin.Certificate.source_error_23_13_23`, `OAI.Laughlin.Certificate.source_error_23_13_3`, `OAI.Laughlin.Certificate.source_error_23_13_5`, `OAI.Laughlin.Certificate.source_error_23_13_7`, `OAI.Laughlin.Certificate.source_error_23_13_9`, `OAI.Laughlin.Certificate.source_error_23_15_1`, `OAI.Laughlin.Certificate.source_error_23_15_11`, `OAI.Laughlin.Certificate.source_error_23_15_13`, `OAI.Laughlin.Certificate.source_error_23_15_15`, `OAI.Laughlin.Certificate.source_error_23_15_17`, `OAI.Laughlin.Certificate.source_error_23_15_19`, `OAI.Laughlin.Certificate.source_error_23_15_21`, `OAI.Laughlin.Certificate.source_error_23_15_23`, `OAI.Laughlin.Certificate.source_error_23_15_3`, `OAI.Laughlin.Certificate.source_error_23_15_5`, `OAI.Laughlin.Certificate.source_error_23_15_7`, `OAI.Laughlin.Certificate.source_error_23_15_9`, `OAI.Laughlin.Certificate.source_error_23_17_1`, `OAI.Laughlin.Certificate.source_error_23_17_11`, `OAI.Laughlin.Certificate.source_error_23_17_13`, `OAI.Laughlin.Certificate.source_error_23_17_15`, `OAI.Laughlin.Certificate.source_error_23_17_17`, `OAI.Laughlin.Certificate.source_error_23_17_19`, `OAI.Laughlin.Certificate.source_error_23_17_21`, `OAI.Laughlin.Certificate.source_error_23_17_23`, `OAI.Laughlin.Certificate.source_error_23_17_3`, `OAI.Laughlin.Certificate.source_error_23_17_5`, `OAI.Laughlin.Certificate.source_error_23_17_7`, `OAI.Laughlin.Certificate.source_error_23_17_9`, `OAI.Laughlin.Certificate.source_error_23_19_1`, `OAI.Laughlin.Certificate.source_error_23_19_11`, `OAI.Laughlin.Certificate.source_error_23_19_13`, `OAI.Laughlin.Certificate.source_error_23_19_15`, `OAI.Laughlin.Certificate.source_error_23_19_17`, `OAI.Laughlin.Certificate.source_error_23_19_19`, `OAI.Laughlin.Certificate.source_error_23_19_21`, `OAI.Laughlin.Certificate.source_error_23_19_23`, `OAI.Laughlin.Certificate.source_error_23_19_3`, `OAI.Laughlin.Certificate.source_error_23_19_5`, `OAI.Laughlin.Certificate.source_error_23_19_7`, `OAI.Laughlin.Certificate.source_error_23_19_9`, `OAI.Laughlin.Certificate.source_error_23_21_1`, `OAI.Laughlin.Certificate.source_error_23_21_11`, `OAI.Laughlin.Certificate.source_error_23_21_13`, `OAI.Laughlin.Certificate.source_error_23_21_15`, `OAI.Laughlin.Certificate.source_error_23_21_17`, `OAI.Laughlin.Certificate.source_error_23_21_19`, `OAI.Laughlin.Certificate.source_error_23_21_21`, `OAI.Laughlin.Certificate.source_error_23_21_23`, `OAI.Laughlin.Certificate.source_error_23_21_3`, `OAI.Laughlin.Certificate.source_error_23_21_5`, `OAI.Laughlin.Certificate.source_error_23_21_7`, `OAI.Laughlin.Certificate.source_error_23_21_9`, `OAI.Laughlin.Certificate.source_error_23_23_1`, `OAI.Laughlin.Certificate.source_error_23_23_11`, `OAI.Laughlin.Certificate.source_error_23_23_13`, `OAI.Laughlin.Certificate.source_error_23_23_15`, `OAI.Laughlin.Certificate.source_error_23_23_17`, `OAI.Laughlin.Certificate.source_error_23_23_19`, `OAI.Laughlin.Certificate.source_error_23_23_21`, `OAI.Laughlin.Certificate.source_error_23_23_23`, `OAI.Laughlin.Certificate.source_error_23_23_3`, `OAI.Laughlin.Certificate.source_error_23_23_5`, `OAI.Laughlin.Certificate.source_error_23_23_7`, `OAI.Laughlin.Certificate.source_error_23_23_9`, `OAI.Laughlin.Certificate.source_error_23_3_1`, `OAI.Laughlin.Certificate.source_error_23_3_19`, `OAI.Laughlin.Certificate.source_error_23_3_21`, `OAI.Laughlin.Certificate.source_error_23_3_23`, `OAI.Laughlin.Certificate.source_error_23_5_1`, `OAI.Laughlin.Certificate.source_error_23_5_11`, `OAI.Laughlin.Certificate.source_error_23_5_13`, `OAI.Laughlin.Certificate.source_error_23_5_15`, `OAI.Laughlin.Certificate.source_error_23_5_17`, `OAI.Laughlin.Certificate.source_error_23_5_19`, `OAI.Laughlin.Certificate.source_error_23_5_21`, `OAI.Laughlin.Certificate.source_error_23_5_23`, `OAI.Laughlin.Certificate.source_error_23_5_3`, `OAI.Laughlin.Certificate.source_error_23_7_1`, `OAI.Laughlin.Certificate.source_error_23_7_11`, `OAI.Laughlin.Certificate.source_error_23_7_13`, `OAI.Laughlin.Certificate.source_error_23_7_15`, `OAI.Laughlin.Certificate.source_error_23_7_17`, `OAI.Laughlin.Certificate.source_error_23_7_19`, `OAI.Laughlin.Certificate.source_error_23_7_21`, `OAI.Laughlin.Certificate.source_error_23_7_23`, `OAI.Laughlin.Certificate.source_error_23_7_3`, `OAI.Laughlin.Certificate.source_error_23_7_5`, `OAI.Laughlin.Certificate.source_error_23_9_1`, `OAI.Laughlin.Certificate.source_error_23_9_11`, `OAI.Laughlin.Certificate.source_error_23_9_13`, `OAI.Laughlin.Certificate.source_error_23_9_15`, `OAI.Laughlin.Certificate.source_error_23_9_17`, `OAI.Laughlin.Certificate.source_error_23_9_19`, `OAI.Laughlin.Certificate.source_error_23_9_21`, `OAI.Laughlin.Certificate.source_error_23_9_23`, `OAI.Laughlin.Certificate.source_error_23_9_3`, `OAI.Laughlin.Certificate.source_error_23_9_5`, `OAI.Laughlin.Certificate.source_error_23_9_7`, `OAI_Laughlin_Certificate_source_error_9_7_1`, `OAI_Laughlin_Certificate_source_error_9_9_1`, `OAI_Laughlin_Certificate_source_error_9_9_3`, `OAI_Laughlin_Certificate_source_error_9_9_7`, `OAI_Laughlin_Certificate_source_gram_12_11_11`, `OAI_Laughlin_Certificate_source_gram_12_11_3`, `OAI_Laughlin_Certificate_source_gram_12_11_5`, `OAI_Laughlin_Certificate_source_gram_12_11_7`, `OAI_Laughlin_Certificate_source_gram_12_11_9`, `OAI_Laughlin_Certificate_source_gram_12_5_11`, `OAI_Laughlin_Certificate_source_gram_12_5_3`, `OAI_Laughlin_Certificate_source_gram_12_5_7`, `OAI_Laughlin_Certificate_source_gram_12_7_11`, `OAI_Laughlin_Certificate_source_gram_12_7_3`, `OAI_Laughlin_Certificate_source_gram_12_7_5`, `OAI_Laughlin_Certificate_source_gram_12_7_7`, `OAI_Laughlin_Certificate_source_gram_12_7_9`, `OAI_Laughlin_Certificate_source_gram_12_9_11`, `OAI_Laughlin_Certificate_source_gram_12_9_3`, `OAI_Laughlin_Certificate_source_gram_12_9_5`, `OAI_Laughlin_Certificate_source_gram_12_9_7`, `OAI_Laughlin_Certificate_source_gram_12_9_9`, `OAI_Laughlin_Certificate_source_gram_13_11_1`, `OAI_Laughlin_Certificate_source_gram_13_11_11`, `OAI_Laughlin_Certificate_source_gram_13_11_13`, `OAI_Laughlin_Certificate_source_gram_13_11_3`, `OAI_Laughlin_Certificate_source_gram_13_11_5`, `OAI_Laughlin_Certificate_source_gram_13_11_7`, `OAI_Laughlin_Certificate_source_gram_13_11_9`, `OAI_Laughlin_Certificate_source_gram_13_13_1`, `OAI_Laughlin_Certificate_source_gram_13_13_11`, `OAI_Laughlin_Certificate_source_gram_13_13_13`, `OAI_Laughlin_Certificate_source_gram_13_13_3`, `OAI_Laughlin_Certificate_source_gram_13_13_5`, `OAI_Laughlin_Certificate_source_gram_13_13_7`, `OAI_Laughlin_Certificate_source_gram_13_13_9`, `OAI_Laughlin_Certificate_source_gram_13_3_1`, `OAI_Laughlin_Certificate_source_gram_13_5_1`, `OAI_Laughlin_Certificate_source_gram_13_5_11`, `OAI_Laughlin_Certificate_source_gram_13_5_13`, `OAI_Laughlin_Certificate_source_gram_13_5_3`, `OAI_Laughlin_Certificate_source_gram_13_7_1`, `OAI_Laughlin_Certificate_source_gram_13_7_11`, `OAI_Laughlin_Certificate_source_gram_13_7_13`, `OAI_Laughlin_Certificate_source_gram_13_7_3`, `OAI_Laughlin_Certificate_source_gram_13_7_5`, `OAI_Laughlin_Certificate_source_gram_13_7_7`, `OAI_Laughlin_Certificate_source_gram_13_7_9`, `OAI_Laughlin_Certificate_source_gram_13_9_1`, `OAI_Laughlin_Certificate_source_gram_13_9_11`, `OAI_Laughlin_Certificate_source_gram_13_9_13`, `OAI_Laughlin_Certificate_source_gram_13_9_3`, `OAI_Laughlin_Certificate_source_gram_13_9_5`, `OAI_Laughlin_Certificate_source_gram_13_9_7`, `OAI_Laughlin_Certificate_source_gram_13_9_9`, `OAI_Laughlin_Certificate_source_gram_14_11_1`, `OAI_Laughlin_Certificate_source_gram_14_11_11`, `OAI_Laughlin_Certificate_source_gram_14_11_13`, `OAI_Laughlin_Certificate_source_gram_14_11_3`, `OAI_Laughlin_Certificate_source_gram_14_11_5`, `OAI_Laughlin_Certificate_source_gram_14_11_7`, `OAI_Laughlin_Certificate_source_gram_14_11_9`, `OAI_Laughlin_Certificate_source_gram_14_13_1`, `OAI_Laughlin_Certificate_source_gram_14_13_11`, `OAI_Laughlin_Certificate_source_gram_14_13_13`, `OAI_Laughlin_Certificate_source_gram_14_13_3`, `OAI_Laughlin_Certificate_source_gram_14_13_5`, `OAI_Laughlin_Certificate_source_gram_14_13_7`, `OAI_Laughlin_Certificate_source_gram_14_13_9`, `OAI_Laughlin_Certificate_source_gram_14_3_1`, `OAI_Laughlin_Certificate_source_gram_14_5_1`, `OAI_Laughlin_Certificate_source_gram_14_5_13`, `OAI_Laughlin_Certificate_source_gram_14_5_3`, `OAI_Laughlin_Certificate_source_gram_14_5_9`, `OAI_Laughlin_Certificate_source_gram_14_7_1`, `OAI_Laughlin_Certificate_source_gram_14_7_11`, `OAI_Laughlin_Certificate_source_gram_14_7_13`, `OAI_Laughlin_Certificate_source_gram_14_7_3`, `OAI_Laughlin_Certificate_source_gram_14_7_5`, `OAI_Laughlin_Certificate_source_gram_14_7_7`, `OAI_Laughlin_Certificate_source_gram_14_7_9`, `OAI_Laughlin_Certificate_source_gram_14_9_1`, `OAI_Laughlin_Certificate_source_gram_14_9_11`, `OAI_Laughlin_Certificate_source_gram_14_9_13`, `OAI_Laughlin_Certificate_source_gram_14_9_3`, `OAI_Laughlin_Certificate_source_gram_14_9_5`, `OAI_Laughlin_Certificate_source_gram_14_9_7`, `OAI_Laughlin_Certificate_source_gram_14_9_9`, `OAI_Laughlin_Certificate_source_gram_15_11_1`, `OAI_Laughlin_Certificate_source_gram_15_11_11`, `OAI_Laughlin_Certificate_source_gram_15_11_13`, `OAI_Laughlin_Certificate_source_gram_15_11_15`, `OAI_Laughlin_Certificate_source_gram_15_11_3`, `OAI_Laughlin_Certificate_source_gram_15_11_5`, `OAI_Laughlin_Certificate_source_gram_15_11_7`, `OAI_Laughlin_Certificate_source_gram_15_11_9`, `OAI_Laughlin_Certificate_source_gram_15_13_1`, `OAI_Laughlin_Certificate_source_gram_15_13_11`, `OAI_Laughlin_Certificate_source_gram_15_13_13`, `OAI_Laughlin_Certificate_source_gram_15_13_15`, `OAI_Laughlin_Certificate_source_gram_15_13_3`, `OAI_Laughlin_Certificate_source_gram_15_13_5`, `OAI_Laughlin_Certificate_source_gram_15_13_7`, `OAI_Laughlin_Certificate_source_gram_15_13_9`, `OAI_Laughlin_Certificate_source_gram_15_15_1`, `OAI_Laughlin_Certificate_source_gram_15_15_11`, `OAI_Laughlin_Certificate_source_gram_15_15_13`, `OAI_Laughlin_Certificate_source_gram_15_15_15`, `OAI_Laughlin_Certificate_source_gram_15_15_3`, `OAI_Laughlin_Certificate_source_gram_15_15_5`, `OAI_Laughlin_Certificate_source_gram_15_15_7`, `OAI_Laughlin_Certificate_source_gram_15_15_9`, `OAI_Laughlin_Certificate_source_gram_15_3_1`, `OAI_Laughlin_Certificate_source_gram_15_5_1`, `OAI_Laughlin_Certificate_source_gram_15_5_11`, `OAI_Laughlin_Certificate_source_gram_15_5_13`, `OAI_Laughlin_Certificate_source_gram_15_5_15`, `OAI_Laughlin_Certificate_source_gram_15_5_3`, `OAI_Laughlin_Certificate_source_gram_15_7_1`, `OAI_Laughlin_Certificate_source_gram_15_7_11`, `OAI_Laughlin_Certificate_source_gram_15_7_13`, `OAI_Laughlin_Certificate_source_gram_15_7_15`, `OAI_Laughlin_Certificate_source_gram_15_7_3`, `OAI_Laughlin_Certificate_source_gram_15_7_5`, `OAI_Laughlin_Certificate_source_gram_15_7_7`, `OAI_Laughlin_Certificate_source_gram_15_7_9`, `OAI_Laughlin_Certificate_source_gram_15_9_1`, `OAI_Laughlin_Certificate_source_gram_15_9_11`, `OAI_Laughlin_Certificate_source_gram_15_9_13`, `OAI_Laughlin_Certificate_source_gram_15_9_15`, `OAI_Laughlin_Certificate_source_gram_15_9_3`, `OAI_Laughlin_Certificate_source_gram_15_9_5`, `OAI_Laughlin_Certificate_source_gram_15_9_7`, `OAI_Laughlin_Certificate_source_gram_15_9_9`, `OAI_Laughlin_Certificate_source_gram_16_11_1`, `OAI_Laughlin_Certificate_source_gram_16_11_11`, `OAI_Laughlin_Certificate_source_gram_16_11_13`, `OAI_Laughlin_Certificate_source_gram_16_11_15`, `OAI_Laughlin_Certificate_source_gram_16_11_3`, `OAI_Laughlin_Certificate_source_gram_16_11_5`, `OAI_Laughlin_Certificate_source_gram_16_11_7`, `OAI_Laughlin_Certificate_source_gram_16_11_9`, `OAI_Laughlin_Certificate_source_gram_16_13_1`, `OAI_Laughlin_Certificate_source_gram_16_13_11`, `OAI_Laughlin_Certificate_source_gram_16_13_13`, `OAI_Laughlin_Certificate_source_gram_16_13_15`, `OAI_Laughlin_Certificate_source_gram_16_13_3`, `OAI_Laughlin_Certificate_source_gram_16_13_5`, `OAI_Laughlin_Certificate_source_gram_16_13_7`, `OAI_Laughlin_Certificate_source_gram_16_13_9`, `OAI_Laughlin_Certificate_source_gram_16_15_1`, `OAI_Laughlin_Certificate_source_gram_16_15_11`, `OAI_Laughlin_Certificate_source_gram_16_15_13`, `OAI_Laughlin_Certificate_source_gram_16_15_15`, `OAI_Laughlin_Certificate_source_gram_16_15_3`, `OAI_Laughlin_Certificate_source_gram_16_15_5`, `OAI_Laughlin_Certificate_source_gram_16_15_7`, `OAI_Laughlin_Certificate_source_gram_16_15_9`, `OAI_Laughlin_Certificate_source_gram_16_3_1`, `OAI_Laughlin_Certificate_source_gram_16_5_1`, `OAI_Laughlin_Certificate_source_gram_16_5_11`, `OAI_Laughlin_Certificate_source_gram_16_5_15`, `OAI_Laughlin_Certificate_source_gram_16_5_3`, `OAI_Laughlin_Certificate_source_gram_16_5_5`, `OAI_Laughlin_Certificate_source_gram_16_7_1`, `OAI_Laughlin_Certificate_source_gram_16_7_11`, `OAI_Laughlin_Certificate_source_gram_16_7_13`, `OAI_Laughlin_Certificate_source_gram_16_7_15`, `OAI_Laughlin_Certificate_source_gram_16_7_3`, `OAI_Laughlin_Certificate_source_gram_16_7_5`, `OAI_Laughlin_Certificate_source_gram_16_7_7`, `OAI_Laughlin_Certificate_source_gram_16_7_9`, `OAI_Laughlin_Certificate_source_gram_16_9_1`, `OAI_Laughlin_Certificate_source_gram_16_9_11`, `OAI_Laughlin_Certificate_source_gram_16_9_13`, `OAI_Laughlin_Certificate_source_gram_16_9_15`, `OAI_Laughlin_Certificate_source_gram_16_9_3`, `OAI_Laughlin_Certificate_source_gram_16_9_5`, `OAI_Laughlin_Certificate_source_gram_16_9_7`, `OAI_Laughlin_Certificate_source_gram_16_9_9`, `OAI_Laughlin_Certificate_source_gram_17_11_1`, `OAI_Laughlin_Certificate_source_gram_17_11_11`, `OAI_Laughlin_Certificate_source_gram_17_11_13`, `OAI_Laughlin_Certificate_source_gram_17_11_15`, `OAI_Laughlin_Certificate_source_gram_17_11_17`, `OAI_Laughlin_Certificate_source_gram_17_11_3`, `OAI_Laughlin_Certificate_source_gram_17_11_5`, `OAI_Laughlin_Certificate_source_gram_17_11_7`, `OAI_Laughlin_Certificate_source_gram_17_11_9`, `OAI_Laughlin_Certificate_source_gram_17_13_1`, `OAI_Laughlin_Certificate_source_gram_17_13_11`, `OAI_Laughlin_Certificate_source_gram_17_13_13`, `OAI_Laughlin_Certificate_source_gram_17_13_15`, `OAI_Laughlin_Certificate_source_gram_17_13_17`, `OAI_Laughlin_Certificate_source_gram_17_13_3`, `OAI_Laughlin_Certificate_source_gram_17_13_5`, `OAI_Laughlin_Certificate_source_gram_17_13_7`, `OAI_Laughlin_Certificate_source_gram_17_13_9`, `OAI_Laughlin_Certificate_source_gram_17_15_1`, `OAI_Laughlin_Certificate_source_gram_17_15_11`, `OAI_Laughlin_Certificate_source_gram_17_15_13`, `OAI_Laughlin_Certificate_source_gram_17_15_15`, `OAI_Laughlin_Certificate_source_gram_17_15_17`, `OAI_Laughlin_Certificate_source_gram_17_15_3`, `OAI_Laughlin_Certificate_source_gram_17_15_5`, `OAI_Laughlin_Certificate_source_gram_17_15_7`, `OAI_Laughlin_Certificate_source_gram_17_15_9`, `OAI_Laughlin_Certificate_source_gram_17_17_1`, `OAI_Laughlin_Certificate_source_gram_17_17_11`, `OAI_Laughlin_Certificate_source_gram_17_17_13`, `OAI_Laughlin_Certificate_source_gram_17_17_15`, `OAI_Laughlin_Certificate_source_gram_17_17_17`, `OAI_Laughlin_Certificate_source_gram_17_17_3`, `OAI_Laughlin_Certificate_source_gram_17_17_5`, `OAI_Laughlin_Certificate_source_gram_17_17_7`, `OAI_Laughlin_Certificate_source_gram_17_17_9`, `OAI_Laughlin_Certificate_source_gram_17_3_1`, `OAI_Laughlin_Certificate_source_gram_17_5_1`, `OAI_Laughlin_Certificate_source_gram_17_5_13`, `OAI_Laughlin_Certificate_source_gram_17_5_15`, `OAI_Laughlin_Certificate_source_gram_17_5_17`, `OAI_Laughlin_Certificate_source_gram_17_5_3`, `OAI_Laughlin_Certificate_source_gram_17_7_1`, `OAI_Laughlin_Certificate_source_gram_17_7_11`, `OAI_Laughlin_Certificate_source_gram_17_7_13`, `OAI_Laughlin_Certificate_source_gram_17_7_15`, `OAI_Laughlin_Certificate_source_gram_17_7_17`, `OAI_Laughlin_Certificate_source_gram_17_7_3`, `OAI_Laughlin_Certificate_source_gram_17_7_5`, `OAI_Laughlin_Certificate_source_gram_17_7_7`, `OAI_Laughlin_Certificate_source_gram_17_7_9`, `OAI_Laughlin_Certificate_source_gram_17_9_1`, `OAI_Laughlin_Certificate_source_gram_17_9_11`, `OAI_Laughlin_Certificate_source_gram_17_9_13`, `OAI_Laughlin_Certificate_source_gram_17_9_15`, `OAI_Laughlin_Certificate_source_gram_17_9_17`, `OAI_Laughlin_Certificate_source_gram_17_9_3`, `OAI_Laughlin_Certificate_source_gram_17_9_5`, `OAI_Laughlin_Certificate_source_gram_17_9_7`, `OAI_Laughlin_Certificate_source_gram_17_9_9`, `OAI_Laughlin_Certificate_source_gram_18_11_1`, `OAI_Laughlin_Certificate_source_gram_18_11_11`, `OAI_Laughlin_Certificate_source_gram_18_11_13`, `OAI_Laughlin_Certificate_source_gram_18_11_15`, `OAI_Laughlin_Certificate_source_gram_18_11_17`, `OAI_Laughlin_Certificate_source_gram_18_11_3`, `OAI_Laughlin_Certificate_source_gram_18_11_5`, `OAI_Laughlin_Certificate_source_gram_18_11_7`, `OAI_Laughlin_Certificate_source_gram_18_11_9`, `OAI_Laughlin_Certificate_source_gram_18_13_1`, `OAI_Laughlin_Certificate_source_gram_18_13_11`, `OAI_Laughlin_Certificate_source_gram_18_13_13`, `OAI_Laughlin_Certificate_source_gram_18_13_15`, `OAI_Laughlin_Certificate_source_gram_18_13_17`, `OAI_Laughlin_Certificate_source_gram_18_13_3`, `OAI_Laughlin_Certificate_source_gram_18_13_5`, `OAI_Laughlin_Certificate_source_gram_18_13_7`, `OAI_Laughlin_Certificate_source_gram_18_13_9`, `OAI_Laughlin_Certificate_source_gram_18_15_1`, `OAI_Laughlin_Certificate_source_gram_18_15_11`, `OAI_Laughlin_Certificate_source_gram_18_15_13`, `OAI_Laughlin_Certificate_source_gram_18_15_15`, `OAI_Laughlin_Certificate_source_gram_18_15_17`, `OAI_Laughlin_Certificate_source_gram_18_15_3`, `OAI_Laughlin_Certificate_source_gram_18_15_5`, `OAI_Laughlin_Certificate_source_gram_18_15_7`, `OAI_Laughlin_Certificate_source_gram_18_15_9`, `OAI_Laughlin_Certificate_source_gram_18_17_1`, `OAI_Laughlin_Certificate_source_gram_18_17_11`, `OAI_Laughlin_Certificate_source_gram_18_17_13`, `OAI_Laughlin_Certificate_source_gram_18_17_15`, `OAI_Laughlin_Certificate_source_gram_18_17_17`, `OAI_Laughlin_Certificate_source_gram_18_17_3`, `OAI_Laughlin_Certificate_source_gram_18_17_5`, `OAI_Laughlin_Certificate_source_gram_18_17_7`, `OAI_Laughlin_Certificate_source_gram_18_17_9`, `OAI_Laughlin_Certificate_source_gram_18_3_1`, `OAI_Laughlin_Certificate_source_gram_18_5_1`, `OAI_Laughlin_Certificate_source_gram_18_5_13`, `OAI_Laughlin_Certificate_source_gram_18_5_17`, `OAI_Laughlin_Certificate_source_gram_18_5_3`, `OAI_Laughlin_Certificate_source_gram_18_5_5`, `OAI_Laughlin_Certificate_source_gram_18_7_1`, `OAI_Laughlin_Certificate_source_gram_18_7_11`, `OAI_Laughlin_Certificate_source_gram_18_7_13`, `OAI_Laughlin_Certificate_source_gram_18_7_15`, `OAI_Laughlin_Certificate_source_gram_18_7_17`, `OAI_Laughlin_Certificate_source_gram_18_7_3`, `OAI_Laughlin_Certificate_source_gram_18_7_5`, `OAI_Laughlin_Certificate_source_gram_18_7_7`, `OAI_Laughlin_Certificate_source_gram_18_7_9`, `OAI_Laughlin_Certificate_source_gram_18_9_1`, `OAI_Laughlin_Certificate_source_gram_18_9_11`, `OAI_Laughlin_Certificate_source_gram_18_9_13`, `OAI_Laughlin_Certificate_source_gram_18_9_15`, `OAI_Laughlin_Certificate_source_gram_18_9_17`, `OAI_Laughlin_Certificate_source_gram_18_9_3`, `OAI_Laughlin_Certificate_source_gram_18_9_5`, `OAI_Laughlin_Certificate_source_gram_18_9_7`, `OAI_Laughlin_Certificate_source_gram_18_9_9`, `OAI_Laughlin_Certificate_source_gram_19_11_1`, `OAI_Laughlin_Certificate_source_gram_19_11_11`, `OAI_Laughlin_Certificate_source_gram_19_11_13`, `OAI_Laughlin_Certificate_source_gram_19_11_15`, `OAI_Laughlin_Certificate_source_gram_19_11_17`, `OAI_Laughlin_Certificate_source_gram_19_11_19`, `OAI_Laughlin_Certificate_source_gram_19_11_3`, `OAI_Laughlin_Certificate_source_gram_19_11_5`, `OAI_Laughlin_Certificate_source_gram_19_11_7`, `OAI_Laughlin_Certificate_source_gram_19_11_9`, `OAI_Laughlin_Certificate_source_gram_19_13_1`, `OAI_Laughlin_Certificate_source_gram_19_13_11`, `OAI_Laughlin_Certificate_source_gram_19_13_13`, `OAI_Laughlin_Certificate_source_gram_19_13_15`, `OAI_Laughlin_Certificate_source_gram_19_13_17`, `OAI_Laughlin_Certificate_source_gram_19_13_19`, `OAI_Laughlin_Certificate_source_gram_19_13_3`, `OAI_Laughlin_Certificate_source_gram_19_13_5`, `OAI_Laughlin_Certificate_source_gram_19_13_7`, `OAI_Laughlin_Certificate_source_gram_19_13_9`, `OAI_Laughlin_Certificate_source_gram_19_15_1`, `OAI_Laughlin_Certificate_source_gram_19_15_11`, `OAI_Laughlin_Certificate_source_gram_19_15_13`, `OAI_Laughlin_Certificate_source_gram_19_15_15`, `OAI_Laughlin_Certificate_source_gram_19_15_17`, `OAI_Laughlin_Certificate_source_gram_19_15_19`, `OAI_Laughlin_Certificate_source_gram_19_15_3`, `OAI_Laughlin_Certificate_source_gram_19_15_5`, `OAI_Laughlin_Certificate_source_gram_19_15_7`, `OAI_Laughlin_Certificate_source_gram_19_15_9`, `OAI_Laughlin_Certificate_source_gram_19_17_1`, `OAI_Laughlin_Certificate_source_gram_19_17_11`, `OAI_Laughlin_Certificate_source_gram_19_17_13`, `OAI_Laughlin_Certificate_source_gram_19_17_15`, `OAI_Laughlin_Certificate_source_gram_19_17_17`, `OAI_Laughlin_Certificate_source_gram_19_17_19`, `OAI_Laughlin_Certificate_source_gram_19_17_3`, `OAI_Laughlin_Certificate_source_gram_19_17_5`, `OAI_Laughlin_Certificate_source_gram_19_17_7`, `OAI_Laughlin_Certificate_source_gram_19_17_9`, `OAI_Laughlin_Certificate_source_gram_19_19_1`, `OAI_Laughlin_Certificate_source_gram_19_19_11`, `OAI_Laughlin_Certificate_source_gram_19_19_13`, `OAI_Laughlin_Certificate_source_gram_19_19_15`, `OAI_Laughlin_Certificate_source_gram_19_19_17`, `OAI_Laughlin_Certificate_source_gram_19_19_19`, `OAI_Laughlin_Certificate_source_gram_19_19_3`, `OAI_Laughlin_Certificate_source_gram_19_19_5`, `OAI_Laughlin_Certificate_source_gram_19_19_7`, `OAI_Laughlin_Certificate_source_gram_19_19_9`, `OAI_Laughlin_Certificate_source_gram_19_3_1`, `OAI_Laughlin_Certificate_source_gram_19_5_1`, `OAI_Laughlin_Certificate_source_gram_19_5_15`, `OAI_Laughlin_Certificate_source_gram_19_5_17`, `OAI_Laughlin_Certificate_source_gram_19_5_19`, `OAI_Laughlin_Certificate_source_gram_19_5_3`, `OAI_Laughlin_Certificate_source_gram_19_7_1`, `OAI_Laughlin_Certificate_source_gram_19_7_11`, `OAI_Laughlin_Certificate_source_gram_19_7_13`, `OAI_Laughlin_Certificate_source_gram_19_7_15`, `OAI_Laughlin_Certificate_source_gram_19_7_17`, `OAI_Laughlin_Certificate_source_gram_19_7_19`, `OAI_Laughlin_Certificate_source_gram_19_7_3`, `OAI_Laughlin_Certificate_source_gram_19_7_5`, `OAI_Laughlin_Certificate_source_gram_19_7_7`, `OAI_Laughlin_Certificate_source_gram_19_7_9`, `OAI_Laughlin_Certificate_source_gram_19_9_1`, `OAI_Laughlin_Certificate_source_gram_19_9_11`, `OAI_Laughlin_Certificate_source_gram_19_9_13`, `OAI_Laughlin_Certificate_source_gram_19_9_15`, `OAI_Laughlin_Certificate_source_gram_19_9_17`, `OAI_Laughlin_Certificate_source_gram_19_9_19`, `OAI_Laughlin_Certificate_source_gram_19_9_3`, `OAI_Laughlin_Certificate_source_gram_19_9_5`, `OAI_Laughlin_Certificate_source_gram_19_9_7`, `OAI_Laughlin_Certificate_source_gram_19_9_9`, `OAI_Laughlin_Certificate_source_gram_20_11_1`, `OAI_Laughlin_Certificate_source_gram_20_11_11`, `OAI_Laughlin_Certificate_source_gram_20_11_13`, `OAI_Laughlin_Certificate_source_gram_20_11_15`, `OAI_Laughlin_Certificate_source_gram_20_11_17`, `OAI_Laughlin_Certificate_source_gram_20_11_19`, `OAI_Laughlin_Certificate_source_gram_20_11_3`, `OAI_Laughlin_Certificate_source_gram_20_11_5`, `OAI_Laughlin_Certificate_source_gram_20_11_7`, `OAI_Laughlin_Certificate_source_gram_20_11_9`, `OAI_Laughlin_Certificate_source_gram_20_13_1`, `OAI_Laughlin_Certificate_source_gram_20_13_11`, `OAI_Laughlin_Certificate_source_gram_20_13_13`, `OAI_Laughlin_Certificate_source_gram_20_13_15`, `OAI_Laughlin_Certificate_source_gram_20_13_17`, `OAI_Laughlin_Certificate_source_gram_20_13_19`, `OAI_Laughlin_Certificate_source_gram_20_13_3`, `OAI_Laughlin_Certificate_source_gram_20_13_5`, `OAI_Laughlin_Certificate_source_gram_20_13_7`, `OAI_Laughlin_Certificate_source_gram_20_13_9`, `OAI_Laughlin_Certificate_source_gram_20_15_1`, `OAI_Laughlin_Certificate_source_gram_20_15_11`, `OAI_Laughlin_Certificate_source_gram_20_15_13`, `OAI_Laughlin_Certificate_source_gram_20_15_15`, `OAI_Laughlin_Certificate_source_gram_20_15_17`, `OAI_Laughlin_Certificate_source_gram_20_15_19`, `OAI_Laughlin_Certificate_source_gram_20_15_3`, `OAI_Laughlin_Certificate_source_gram_20_15_5`, `OAI_Laughlin_Certificate_source_gram_20_15_7`, `OAI_Laughlin_Certificate_source_gram_20_15_9`, `OAI_Laughlin_Certificate_source_gram_20_17_1`, `OAI_Laughlin_Certificate_source_gram_20_17_11`, `OAI_Laughlin_Certificate_source_gram_20_17_13`, `OAI_Laughlin_Certificate_source_gram_20_17_15`, `OAI_Laughlin_Certificate_source_gram_20_17_17`, `OAI_Laughlin_Certificate_source_gram_20_17_19`, `OAI_Laughlin_Certificate_source_gram_20_17_3`, `OAI_Laughlin_Certificate_source_gram_20_17_5`, `OAI_Laughlin_Certificate_source_gram_20_17_7`, `OAI_Laughlin_Certificate_source_gram_20_17_9`, `OAI_Laughlin_Certificate_source_gram_20_19_1`, `OAI_Laughlin_Certificate_source_gram_20_19_11`, `OAI_Laughlin_Certificate_source_gram_20_19_13`, `OAI_Laughlin_Certificate_source_gram_20_19_15`, `OAI_Laughlin_Certificate_source_gram_20_19_17`, `OAI_Laughlin_Certificate_source_gram_20_19_19`, `OAI_Laughlin_Certificate_source_gram_20_19_3`, `OAI_Laughlin_Certificate_source_gram_20_19_5`, `OAI_Laughlin_Certificate_source_gram_20_19_7`, `OAI_Laughlin_Certificate_source_gram_20_19_9`, `OAI_Laughlin_Certificate_source_gram_20_3_1`, `OAI_Laughlin_Certificate_source_gram_20_5_1`, `OAI_Laughlin_Certificate_source_gram_20_5_15`, `OAI_Laughlin_Certificate_source_gram_20_5_19`, `OAI_Laughlin_Certificate_source_gram_20_5_3`, `OAI_Laughlin_Certificate_source_gram_20_5_5`, `OAI_Laughlin_Certificate_source_gram_20_7_1`, `OAI_Laughlin_Certificate_source_gram_20_7_11`, `OAI_Laughlin_Certificate_source_gram_20_7_13`, `OAI_Laughlin_Certificate_source_gram_20_7_15`, `OAI_Laughlin_Certificate_source_gram_20_7_17`, `OAI_Laughlin_Certificate_source_gram_20_7_19`, `OAI_Laughlin_Certificate_source_gram_20_7_3`, `OAI_Laughlin_Certificate_source_gram_20_7_5`, `OAI_Laughlin_Certificate_source_gram_20_7_7`, `OAI_Laughlin_Certificate_source_gram_20_7_9`, `OAI_Laughlin_Certificate_source_gram_20_9_1`, `OAI_Laughlin_Certificate_source_gram_20_9_11`, `OAI_Laughlin_Certificate_source_gram_20_9_13`, `OAI_Laughlin_Certificate_source_gram_20_9_15`, `OAI_Laughlin_Certificate_source_gram_20_9_17`, `OAI_Laughlin_Certificate_source_gram_20_9_19`, `OAI_Laughlin_Certificate_source_gram_20_9_3`, `OAI_Laughlin_Certificate_source_gram_20_9_5`, `OAI_Laughlin_Certificate_source_gram_20_9_7`, `OAI_Laughlin_Certificate_source_gram_20_9_9`, `OAI_Laughlin_Certificate_source_gram_21_11_1`, `OAI_Laughlin_Certificate_source_gram_21_11_11`, `OAI_Laughlin_Certificate_source_gram_21_11_13`, `OAI_Laughlin_Certificate_source_gram_21_11_15`, `OAI_Laughlin_Certificate_source_gram_21_11_17`, `OAI_Laughlin_Certificate_source_gram_21_11_19`, `OAI_Laughlin_Certificate_source_gram_21_11_21`, `OAI_Laughlin_Certificate_source_gram_21_11_3`, `OAI_Laughlin_Certificate_source_gram_21_11_5`, `OAI_Laughlin_Certificate_source_gram_21_11_7`, `OAI_Laughlin_Certificate_source_gram_21_11_9`, `OAI_Laughlin_Certificate_source_gram_21_13_1`, `OAI_Laughlin_Certificate_source_gram_21_13_11`, `OAI_Laughlin_Certificate_source_gram_21_13_13`, `OAI_Laughlin_Certificate_source_gram_21_13_15`, `OAI_Laughlin_Certificate_source_gram_21_13_17`, `OAI_Laughlin_Certificate_source_gram_21_13_19`, `OAI_Laughlin_Certificate_source_gram_21_13_21`, `OAI_Laughlin_Certificate_source_gram_21_13_3`, `OAI_Laughlin_Certificate_source_gram_21_13_5`, `OAI_Laughlin_Certificate_source_gram_21_13_7`, `OAI_Laughlin_Certificate_source_gram_21_13_9`, `OAI_Laughlin_Certificate_source_gram_21_15_1`, `OAI_Laughlin_Certificate_source_gram_21_15_11`, `OAI_Laughlin_Certificate_source_gram_21_15_13`, `OAI_Laughlin_Certificate_source_gram_21_15_15`, `OAI_Laughlin_Certificate_source_gram_21_15_17`, `OAI_Laughlin_Certificate_source_gram_21_15_19`, `OAI_Laughlin_Certificate_source_gram_21_15_21`, `OAI_Laughlin_Certificate_source_gram_21_15_3`, `OAI_Laughlin_Certificate_source_gram_21_15_5`, `OAI_Laughlin_Certificate_source_gram_21_15_7`, `OAI_Laughlin_Certificate_source_gram_21_15_9`, `OAI_Laughlin_Certificate_source_gram_21_17_1`, `OAI_Laughlin_Certificate_source_gram_21_17_11`, `OAI_Laughlin_Certificate_source_gram_21_17_13`, `OAI_Laughlin_Certificate_source_gram_21_17_15`, `OAI_Laughlin_Certificate_source_gram_21_17_17`, `OAI_Laughlin_Certificate_source_gram_21_17_19`, `OAI_Laughlin_Certificate_source_gram_21_17_21`, `OAI_Laughlin_Certificate_source_gram_21_17_3`, `OAI_Laughlin_Certificate_source_gram_21_17_5`, `OAI_Laughlin_Certificate_source_gram_21_17_7`, `OAI_Laughlin_Certificate_source_gram_21_17_9`, `OAI_Laughlin_Certificate_source_gram_21_19_1`, `OAI_Laughlin_Certificate_source_gram_21_19_11`, `OAI_Laughlin_Certificate_source_gram_21_19_13`, `OAI_Laughlin_Certificate_source_gram_21_19_15`, `OAI_Laughlin_Certificate_source_gram_21_19_17`, `OAI_Laughlin_Certificate_source_gram_21_19_19`, `OAI_Laughlin_Certificate_source_gram_21_19_21`, `OAI_Laughlin_Certificate_source_gram_21_19_3`, `OAI_Laughlin_Certificate_source_gram_21_19_5`, `OAI_Laughlin_Certificate_source_gram_21_19_7`, `OAI_Laughlin_Certificate_source_gram_21_19_9`, `OAI_Laughlin_Certificate_source_gram_21_21_1`, `OAI_Laughlin_Certificate_source_gram_21_21_11`, `OAI_Laughlin_Certificate_source_gram_21_21_13`, `OAI_Laughlin_Certificate_source_gram_21_21_15`, `OAI_Laughlin_Certificate_source_gram_21_21_17`, `OAI_Laughlin_Certificate_source_gram_21_21_19`, `OAI_Laughlin_Certificate_source_gram_21_21_21`, `OAI_Laughlin_Certificate_source_gram_21_21_3`, `OAI_Laughlin_Certificate_source_gram_21_21_5`, `OAI_Laughlin_Certificate_source_gram_21_21_7`, `OAI_Laughlin_Certificate_source_gram_21_21_9`, `OAI_Laughlin_Certificate_source_gram_21_3_1`, `OAI_Laughlin_Certificate_source_gram_21_5_1`, `OAI_Laughlin_Certificate_source_gram_21_5_17`, `OAI_Laughlin_Certificate_source_gram_21_5_19`, `OAI_Laughlin_Certificate_source_gram_21_5_21`, `OAI_Laughlin_Certificate_source_gram_21_5_3`, `OAI_Laughlin_Certificate_source_gram_21_7_1`, `OAI_Laughlin_Certificate_source_gram_21_7_11`, `OAI_Laughlin_Certificate_source_gram_21_7_13`, `OAI_Laughlin_Certificate_source_gram_21_7_15`, `OAI_Laughlin_Certificate_source_gram_21_7_17`, `OAI_Laughlin_Certificate_source_gram_21_7_19`, `OAI_Laughlin_Certificate_source_gram_21_7_21`, `OAI_Laughlin_Certificate_source_gram_21_7_3`, `OAI_Laughlin_Certificate_source_gram_21_7_5`, `OAI_Laughlin_Certificate_source_gram_21_7_7`, `OAI_Laughlin_Certificate_source_gram_21_7_9`, `OAI_Laughlin_Certificate_source_gram_21_9_1`, `OAI_Laughlin_Certificate_source_gram_21_9_11`, `OAI_Laughlin_Certificate_source_gram_21_9_13`, `OAI_Laughlin_Certificate_source_gram_21_9_15`, `OAI_Laughlin_Certificate_source_gram_21_9_17`, `OAI_Laughlin_Certificate_source_gram_21_9_19`, `OAI_Laughlin_Certificate_source_gram_21_9_21`, `OAI_Laughlin_Certificate_source_gram_21_9_3`, `OAI_Laughlin_Certificate_source_gram_21_9_5`, `OAI_Laughlin_Certificate_source_gram_21_9_7`, `OAI_Laughlin_Certificate_source_gram_21_9_9`, `OAI_Laughlin_Certificate_source_gram_22_11_1`, `OAI_Laughlin_Certificate_source_gram_22_11_11`, `OAI_Laughlin_Certificate_source_gram_22_11_13`, `OAI_Laughlin_Certificate_source_gram_22_11_15`, `OAI_Laughlin_Certificate_source_gram_22_11_17`, `OAI_Laughlin_Certificate_source_gram_22_11_19`, `OAI_Laughlin_Certificate_source_gram_22_11_21`, `OAI_Laughlin_Certificate_source_gram_22_11_3`, `OAI_Laughlin_Certificate_source_gram_22_11_5`, `OAI_Laughlin_Certificate_source_gram_22_11_7`, `OAI_Laughlin_Certificate_source_gram_22_11_9`, `OAI_Laughlin_Certificate_source_gram_22_13_1`, `OAI_Laughlin_Certificate_source_gram_22_13_11`, `OAI_Laughlin_Certificate_source_gram_22_13_13`, `OAI_Laughlin_Certificate_source_gram_22_13_15`, `OAI_Laughlin_Certificate_source_gram_22_13_17`, `OAI_Laughlin_Certificate_source_gram_22_13_19`, `OAI_Laughlin_Certificate_source_gram_22_13_21`, `OAI_Laughlin_Certificate_source_gram_22_13_3`, `OAI_Laughlin_Certificate_source_gram_22_13_5`, `OAI_Laughlin_Certificate_source_gram_22_13_7`, `OAI_Laughlin_Certificate_source_gram_22_13_9`, `OAI_Laughlin_Certificate_source_gram_22_15_1`, `OAI_Laughlin_Certificate_source_gram_22_15_11`, `OAI_Laughlin_Certificate_source_gram_22_15_13`, `OAI_Laughlin_Certificate_source_gram_22_15_15`, `OAI_Laughlin_Certificate_source_gram_22_15_17`, `OAI_Laughlin_Certificate_source_gram_22_15_19`, `OAI_Laughlin_Certificate_source_gram_22_15_21`, `OAI_Laughlin_Certificate_source_gram_22_15_3`, `OAI_Laughlin_Certificate_source_gram_22_15_5`, `OAI_Laughlin_Certificate_source_gram_22_15_7`, `OAI_Laughlin_Certificate_source_gram_22_15_9`, `OAI_Laughlin_Certificate_source_gram_22_17_1`, `OAI_Laughlin_Certificate_source_gram_22_17_11`, `OAI_Laughlin_Certificate_source_gram_22_17_13`, `OAI_Laughlin_Certificate_source_gram_22_17_15`, `OAI_Laughlin_Certificate_source_gram_22_17_17`, `OAI_Laughlin_Certificate_source_gram_22_17_19`, `OAI_Laughlin_Certificate_source_gram_22_17_21`, `OAI_Laughlin_Certificate_source_gram_22_17_3`, `OAI_Laughlin_Certificate_source_gram_22_17_5`, `OAI_Laughlin_Certificate_source_gram_22_17_7`, `OAI_Laughlin_Certificate_source_gram_22_17_9`, `OAI_Laughlin_Certificate_source_gram_22_19_1`, `OAI_Laughlin_Certificate_source_gram_22_19_11`, `OAI_Laughlin_Certificate_source_gram_22_19_13`, `OAI_Laughlin_Certificate_source_gram_22_19_15`, `OAI_Laughlin_Certificate_source_gram_22_19_17`, `OAI_Laughlin_Certificate_source_gram_22_19_19`, `OAI_Laughlin_Certificate_source_gram_22_19_21`, `OAI_Laughlin_Certificate_source_gram_22_19_3`, `OAI_Laughlin_Certificate_source_gram_22_19_5`, `OAI_Laughlin_Certificate_source_gram_22_19_7`, `OAI_Laughlin_Certificate_source_gram_22_19_9`, `OAI_Laughlin_Certificate_source_gram_22_21_1`, `OAI_Laughlin_Certificate_source_gram_22_21_11`, `OAI_Laughlin_Certificate_source_gram_22_21_13`, `OAI_Laughlin_Certificate_source_gram_22_21_15`, `OAI_Laughlin_Certificate_source_gram_22_21_17`, `OAI_Laughlin_Certificate_source_gram_22_21_19`, `OAI_Laughlin_Certificate_source_gram_22_21_21`, `OAI_Laughlin_Certificate_source_gram_22_21_3`, `OAI_Laughlin_Certificate_source_gram_22_21_5`, `OAI_Laughlin_Certificate_source_gram_22_21_7`, `OAI_Laughlin_Certificate_source_gram_22_21_9`, `OAI_Laughlin_Certificate_source_gram_22_3_1`, `OAI_Laughlin_Certificate_source_gram_22_5_1`, `OAI_Laughlin_Certificate_source_gram_22_5_17`, `OAI_Laughlin_Certificate_source_gram_22_5_21`, `OAI_Laughlin_Certificate_source_gram_22_5_3`, `OAI_Laughlin_Certificate_source_gram_22_5_5`, `OAI_Laughlin_Certificate_source_gram_22_7_1`, `OAI_Laughlin_Certificate_source_gram_22_7_11`, `OAI_Laughlin_Certificate_source_gram_22_7_13`, `OAI_Laughlin_Certificate_source_gram_22_7_15`, `OAI_Laughlin_Certificate_source_gram_22_7_17`, `OAI_Laughlin_Certificate_source_gram_22_7_19`, `OAI_Laughlin_Certificate_source_gram_22_7_21`, `OAI_Laughlin_Certificate_source_gram_22_7_3`, `OAI_Laughlin_Certificate_source_gram_22_7_5`, `OAI_Laughlin_Certificate_source_gram_22_7_7`, `OAI_Laughlin_Certificate_source_gram_22_7_9`, `OAI_Laughlin_Certificate_source_gram_22_9_1`, `OAI_Laughlin_Certificate_source_gram_22_9_11`, `OAI_Laughlin_Certificate_source_gram_22_9_13`, `OAI_Laughlin_Certificate_source_gram_22_9_15`, `OAI_Laughlin_Certificate_source_gram_22_9_17`, `OAI_Laughlin_Certificate_source_gram_22_9_19`, `OAI_Laughlin_Certificate_source_gram_22_9_21`, `OAI_Laughlin_Certificate_source_gram_22_9_3`, `OAI_Laughlin_Certificate_source_gram_22_9_5`, `OAI_Laughlin_Certificate_source_gram_22_9_7`, `OAI_Laughlin_Certificate_source_gram_22_9_9`, `OAI_Laughlin_Certificate_source_gram_23_11_1`, `OAI_Laughlin_Certificate_source_gram_23_11_11`, `OAI_Laughlin_Certificate_source_gram_23_11_13`, `OAI_Laughlin_Certificate_source_gram_23_11_15`, `OAI_Laughlin_Certificate_source_gram_23_11_17`, `OAI_Laughlin_Certificate_source_gram_23_11_19`, `OAI_Laughlin_Certificate_source_gram_23_11_21`, `OAI_Laughlin_Certificate_source_gram_23_11_23`, `OAI_Laughlin_Certificate_source_gram_23_11_3`, `OAI_Laughlin_Certificate_source_gram_23_11_5`, `OAI_Laughlin_Certificate_source_gram_23_11_7`, `OAI_Laughlin_Certificate_source_gram_23_11_9`, `OAI_Laughlin_Certificate_source_gram_23_13_1`, `OAI_Laughlin_Certificate_source_gram_23_13_11`, `OAI_Laughlin_Certificate_source_gram_23_13_13`, `OAI_Laughlin_Certificate_source_gram_23_13_15`, `OAI_Laughlin_Certificate_source_gram_23_13_17`, `OAI_Laughlin_Certificate_source_gram_23_13_19`, `OAI_Laughlin_Certificate_source_gram_23_13_21`, `OAI_Laughlin_Certificate_source_gram_23_13_23`, `OAI_Laughlin_Certificate_source_gram_23_13_3`, `OAI_Laughlin_Certificate_source_gram_23_13_5`, `OAI_Laughlin_Certificate_source_gram_23_13_7`, `OAI_Laughlin_Certificate_source_gram_23_13_9`, `OAI_Laughlin_Certificate_source_gram_23_15_1`, `OAI_Laughlin_Certificate_source_gram_23_15_11`, `OAI_Laughlin_Certificate_source_gram_23_15_13`, `OAI_Laughlin_Certificate_source_gram_23_15_15`, `OAI_Laughlin_Certificate_source_gram_23_15_17`, `OAI_Laughlin_Certificate_source_gram_23_15_19`, `OAI_Laughlin_Certificate_source_gram_23_15_21`, `OAI_Laughlin_Certificate_source_gram_23_15_23`, `OAI_Laughlin_Certificate_source_gram_23_15_3`, `OAI_Laughlin_Certificate_source_gram_23_15_5`, `OAI_Laughlin_Certificate_source_gram_23_15_7`, `OAI_Laughlin_Certificate_source_gram_23_15_9`, `OAI_Laughlin_Certificate_source_gram_23_17_1`, `OAI_Laughlin_Certificate_source_gram_23_17_11`, `OAI_Laughlin_Certificate_source_gram_23_17_13`, `OAI_Laughlin_Certificate_source_gram_23_17_15`, `OAI_Laughlin_Certificate_source_gram_23_17_17`, `OAI_Laughlin_Certificate_source_gram_23_17_19`, `OAI_Laughlin_Certificate_source_gram_23_17_21`, `OAI_Laughlin_Certificate_source_gram_23_17_23`, `OAI_Laughlin_Certificate_source_gram_23_17_3`, `OAI_Laughlin_Certificate_source_gram_23_17_5`, `OAI_Laughlin_Certificate_source_gram_23_17_7`, `OAI_Laughlin_Certificate_source_gram_23_17_9`, `OAI_Laughlin_Certificate_source_gram_23_19_1`, `OAI_Laughlin_Certificate_source_gram_23_19_11`, `OAI_Laughlin_Certificate_source_gram_23_19_13`, `OAI_Laughlin_Certificate_source_gram_23_19_15`, `OAI_Laughlin_Certificate_source_gram_23_19_17`, `OAI_Laughlin_Certificate_source_gram_23_19_19`, `OAI_Laughlin_Certificate_source_gram_23_19_21`, `OAI_Laughlin_Certificate_source_gram_23_19_23`, `OAI_Laughlin_Certificate_source_gram_23_19_3`, `OAI_Laughlin_Certificate_source_gram_23_19_5`, `OAI_Laughlin_Certificate_source_gram_23_19_7`, `OAI_Laughlin_Certificate_source_gram_23_19_9`, `OAI_Laughlin_Certificate_source_gram_23_21_1`, `OAI_Laughlin_Certificate_source_gram_23_21_11`, `OAI_Laughlin_Certificate_source_gram_23_21_13`, `OAI_Laughlin_Certificate_source_gram_23_21_15`, `OAI_Laughlin_Certificate_source_gram_23_21_17`, `OAI_Laughlin_Certificate_source_gram_23_21_19`, `OAI_Laughlin_Certificate_source_gram_23_21_21`, `OAI_Laughlin_Certificate_source_gram_23_21_23`, `OAI_Laughlin_Certificate_source_gram_23_21_3`, `OAI_Laughlin_Certificate_source_gram_23_21_5`, `OAI_Laughlin_Certificate_source_gram_23_21_7`, `OAI_Laughlin_Certificate_source_gram_23_21_9`, `OAI_Laughlin_Certificate_source_gram_23_23_1`, `OAI_Laughlin_Certificate_source_gram_23_23_11`, `OAI_Laughlin_Certificate_source_gram_23_23_13`, `OAI_Laughlin_Certificate_source_gram_23_23_15`, `OAI_Laughlin_Certificate_source_gram_23_23_17`, `OAI_Laughlin_Certificate_source_gram_23_23_19`, `OAI_Laughlin_Certificate_source_gram_23_23_21`, `OAI_Laughlin_Certificate_source_gram_23_23_23`, `OAI_Laughlin_Certificate_source_gram_23_23_3`, `OAI_Laughlin_Certificate_source_gram_23_23_5`, `OAI_Laughlin_Certificate_source_gram_23_23_7`, `OAI_Laughlin_Certificate_source_gram_23_23_9`, `OAI_Laughlin_Certificate_source_gram_23_3_1`, `OAI_Laughlin_Certificate_source_gram_23_5_1`, `OAI_Laughlin_Certificate_source_gram_23_5_17`, `OAI_Laughlin_Certificate_source_gram_23_5_19`, `OAI_Laughlin_Certificate_source_gram_23_5_21`, `OAI_Laughlin_Certificate_source_gram_23_5_23`, `OAI_Laughlin_Certificate_source_gram_23_5_3`, `OAI_Laughlin_Certificate_source_gram_23_5_5`, `OAI_Laughlin_Certificate_source_gram_23_7_1`, `OAI_Laughlin_Certificate_source_gram_23_7_11`, `OAI_Laughlin_Certificate_source_gram_23_7_13`, `OAI_Laughlin_Certificate_source_gram_23_7_15`, `OAI_Laughlin_Certificate_source_gram_23_7_17`, `OAI_Laughlin_Certificate_source_gram_23_7_19`, `OAI_Laughlin_Certificate_source_gram_23_7_21`, `OAI_Laughlin_Certificate_source_gram_23_7_23`, `OAI_Laughlin_Certificate_source_gram_23_7_3`, `OAI_Laughlin_Certificate_source_gram_23_7_5`, `OAI_Laughlin_Certificate_source_gram_23_7_7`, `OAI_Laughlin_Certificate_source_gram_23_9_1`, `OAI_Laughlin_Certificate_source_gram_23_9_11`, `OAI_Laughlin_Certificate_source_gram_23_9_13`, `OAI_Laughlin_Certificate_source_gram_23_9_15`, `OAI_Laughlin_Certificate_source_gram_23_9_17`, `OAI_Laughlin_Certificate_source_gram_23_9_19`, `OAI_Laughlin_Certificate_source_gram_23_9_21`, `OAI_Laughlin_Certificate_source_gram_23_9_23`, `OAI_Laughlin_Certificate_source_gram_23_9_3`, `OAI_Laughlin_Certificate_source_gram_23_9_5`, `OAI_Laughlin_Certificate_source_gram_23_9_7`, `OAI_Laughlin_Certificate_source_gram_23_9_9`, `OAI.Laughlin.Certificate.yRow_5_1_1_0`, `OAI.Laughlin.Certificate.yRow_5_1_1_1`, `OAI.Laughlin.Certificate.yRow_5_1_1_2`, `OAI.Laughlin.Certificate.yRow_5_1_1_3`, `OAI.Laughlin.Certificate.yRow_5_1_1_4`, `OAI.Laughlin.Certificate.yRow_5_1_1_5`, `OAI.Laughlin.Certificate.yRow_5_1_1_6`, `OAI.Laughlin.Certificate.yRow_5_1_3_0`, `OAI.Laughlin.Certificate.yRow_5_1_3_1`, `OAI.Laughlin.Certificate.yRow_5_1_3_2`, `OAI.Laughlin.Certificate.yRow_5_1_3_3`, `OAI.Laughlin.Certificate.yRow_5_1_3_4`, `OAI_Laughlin_Certificate_yRow_7_3_1_2`, `OAI_Laughlin_Certificate_yRow_7_3_1_3`, `OAI_Laughlin_Certificate_yRow_7_3_1_4`, `OAI_Laughlin_Certificate_yRow_7_3_1_5`, `OAI_Laughlin_Certificate_yRow_7_5_1_2`, `OAI_Laughlin_Certificate_yRow_7_5_1_3`, `OAI_Laughlin_Certificate_yRow_7_5_1_4`, `OAI_Laughlin_Certificate_yRow_7_5_1_5`, `OAI_Laughlin_Certificate_yRow_7_7_1_2` and `OAI_Laughlin_Spin_source_fourBody_radical_coefficient`.
+-- source:
+--   OpenAI, Uniform stability of the spherical Laughlin gap (result family 269), OpenAI Math Release, October 5, 2026, https://github.com/openai/math (result family 269; paper: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/uniform-stability-spherical-laughlin-gap.pdf; Apache License 2.0); definitions carved from lean/OAI/Analysis at commit adc7f12
+
+import Mathlib
+import Definitions.Def_Laughlin
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_CAR
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+
+abbrev Orbital (Q : ℕ) := Fin (Q+1) → ℂ
+abbrev Space (Q : ℕ) := ExteriorAlgebra ℂ (Orbital Q)
+
+noncomputable def mode {Q : ℕ} (i : Fin (Q+1)) : Orbital Q := Pi.single i 1
+
+noncomputable def create {Q : ℕ} (i : Fin (Q+1)) : Module.End ℂ (Space Q) where
+  toFun x := ExteriorAlgebra.ι ℂ (mode i) * x
+  map_add' x y := mul_add _ x y
+  map_smul' c x := by simp
+
+noncomputable def annihilate {Q : ℕ} (i : Fin (Q+1)) : Module.End ℂ (Space Q) :=
+  CliffordAlgebra.contractLeft (Q := (0 : QuadraticForm ℂ (Orbital Q))) (LinearMap.proj i : Module.Dual ℂ (Orbital Q))
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Pair_Conjugation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin
+
+noncomputable def modeFactor (Q x : ℕ) : ℝ :=
+  Real.sqrt ((Q.descFactorial x : ℝ) / (Q : ℝ)^x)
+
+noncomputable def pairFactor (Q p : ℕ) : ℝ :=
+  Real.sqrt (((2 : ℝ)*Q)^p / ((2*Q-2).descFactorial p : ℝ))
+
+end Laughlin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Asymptotics_LocalDiagonalLimit
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Topology
+open Filter
+
+noncomputable def localDiagonals (L Q : ℕ) (A : Finset (Fin (L+1))) : ℝ :=
+  ∏ i ∈ A, modeFactor Q i.val
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Exterior_OccupationDiagonal
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def occupationBasis (Q : ℕ) :
+    Module.Basis (Finset (Fin (Q+1))) ℂ (Space Q) :=
+  (Pi.basisFun ℂ (Fin (Q+1))).ExteriorAlgebra
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Asymptotics_LocalMetricLimit
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Topology
+open Filter
+
+noncomputable def localMetricError (L Q : ℕ) : ℝ :=
+  ‖fun A : Finset (Fin (L+1)) => ((localDiagonals L Q A)⁻¹)^2 - 1‖
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_MatrixCompute
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate.MatrixCompute
+
+def copyLabel {D : ℕ} (i : Fin ((D+1)/2)) : ℕ := 2*i.val+1
+
+def copyWeight (D : ℕ) (i : Fin ((D+1)/2)) : ℚ :=
+  1 / ((copyLabel i).factorial * (D-copyLabel i).factorial : ℕ)
+
+def middle (D : ℕ) (Y : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℚ) :
+    Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℚ :=
+  Matrix.diagonal (fun i => ((if copyLabel i = 1 then 2 else 0) + (3/10^6 : ℚ)) *
+    copyWeight D i) - Matrix.diagonal (copyWeight D) * Y * Matrix.diagonal (copyWeight D)
+
+def compressed (D : ℕ) (Y Z : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℚ) :
+    Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℚ := Z * middle D Y * Z
+
+open scoped BigOperators
+
+end Laughlin.Certificate.MatrixCompute
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data09
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_9 : Matrix (Fin 5) (Fin 5) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => -12465910883340844333323483/6710886400000000000000
+  | 0, 1 => -33961811903853786055197/838860800000000000000
+  | 0, 2 => -670994343426034247927913/6710886400000000000000
+  | 0, 3 => 4530779263986412498504797/3355443200000000000000
+  | 0, 4 => 2064320406503781558919011/838860800000000000000
+  | 1, 0 => -33961811903853786055197/838860800000000000000
+  | 1, 1 => 2960534512700301116069433/23488102400000000000000
+  | 1, 2 => -249132079557021880785303/11744051200000000000000
+  | 1, 3 => -172612848420190308157317/419430400000000000000
+  | 1, 4 => -460639144770506834240727/209715200000000000000
+  | 2, 0 => -670994343426034247927913/6710886400000000000000
+  | 2, 1 => -249132079557021880785303/11744051200000000000000
+  | 2, 2 => -12391755266391716879263611/46976204800000000000000
+  | 2, 3 => 202846259663372040293217/3355443200000000000000
+  | 2, 4 => 1717697222431419971099331/838860800000000000000
+  | 3, 0 => 4530779263986412498504797/3355443200000000000000
+  | 3, 1 => -172612848420190308157317/419430400000000000000
+  | 3, 2 => 202846259663372040293217/3355443200000000000000
+  | 3, 3 => -3138981013037239731556773/1677721600000000000000
+  | 3, 4 => -1034085603218724160418079/419430400000000000000
+  | 4, 0 => 2064320406503781558919011/838860800000000000000
+  | 4, 1 => -460639144770506834240727/209715200000000000000
+  | 4, 2 => 1717697222431419971099331/838860800000000000000
+  | 4, 3 => -1034085603218724160418079/419430400000000000000
+  | 4, 4 => -9956547203160990435022917/104857600000000000000
+  | _, _ => 0
+def candidateZ_9 : Matrix (Fin 5) (Fin 5) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 80640
+  | 0, 3 => -10080
+  | 0, 4 => 136080
+  | 1, 1 => 4320
+  | 1, 2 => -2160
+  | 1, 4 => 22680
+  | 2, 1 => -2160
+  | 2, 2 => 1080
+  | 2, 4 => -11340
+  | 3, 0 => -10080
+  | 3, 3 => 1260
+  | 3, 4 => -17010
+  | 4, 0 => 136080
+  | 4, 1 => 22680
+  | 4, 2 => -11340
+  | 4, 3 => -17010
+  | 4, 4 => 348705
+  | _, _ => 0
+def lower_9 : Matrix (Fin 5) (Fin 5) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 0 => 23599862696142345457458519/3087682465193682626040960764
+  | 1, 1 => 1
+  | 2, 0 => -23599862696142345457458519/6175364930387365252081921528
+  | 2, 1 => -1/2
+  | 2, 2 => 1
+  | 3, 0 => -1/8
+  | 3, 3 => 1
+  | 4, 0 => 2667181719584543372547889257/1543841232596841313020480382
+  | 4, 1 => 21/4
+  | 4, 4 => 1
+  | _, _ => 0
+def pivots_9 : Fin 5 → ℚ := fun i =>
+  match i.val with
+  | 0 => 2315761848895261969530720573/6710886400000000000000
+  | 1 => 366163547971210521373295701801015256521000393308993/453273762007210333459693706370088960000000000000
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data10
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_10 : Matrix (Fin 5) (Fin 5) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 3252603773208384966897801/134217728000000000000
+  | 0, 1 => -1219963203744052188572919/167772160000000000000
+  | 0, 2 => 1233781148459940320874483/134217728000000000000
+  | 0, 3 => -4673143458544379455879083/335544320000000000000
+  | 0, 4 => 2012606963507139814961019/83886080000000000000
+  | 1, 0 => -1219963203744052188572919/167772160000000000000
+  | 1, 1 => 23917264894764854794377/16777216000000000000
+  | 1, 2 => -13854999171694482915831/8388608000000000000
+  | 1, 3 => 57805337880323795919969/16777216000000000000
+  | 1, 4 => -52562004903703102850037/5242880000000000000
+  | 2, 0 => 1233781148459940320874483/134217728000000000000
+  | 2, 1 => -13854999171694482915831/8388608000000000000
+  | 2, 2 => 2285267576183515842978393/939524096000000000000
+  | 2, 3 => -121198635809384297528619/67108864000000000000
+  | 2, 4 => 127922353790121014632767/16777216000000000000
+  | 3, 0 => -4673143458544379455879083/335544320000000000000
+  | 3, 1 => 57805337880323795919969/16777216000000000000
+  | 3, 2 => -121198635809384297528619/67108864000000000000
+  | 3, 3 => 51194502011873480782923/167772160000000000000
+  | 3, 4 => 10203611212469228878953/41943040000000000000
+  | 4, 0 => 2012606963507139814961019/83886080000000000000
+  | 4, 1 => -52562004903703102850037/5242880000000000000
+  | 4, 2 => 127922353790121014632767/16777216000000000000
+  | 4, 3 => 10203611212469228878953/41943040000000000000
+  | 4, 4 => -990036939147267786688413/10485760000000000000
+  | _, _ => 0
+def candidateZ_10 : Matrix (Fin 5) (Fin 5) ℚ := fun i j =>
+  match i.val, j.val with
+  | 1, 1 => 30240
+  | 1, 3 => -22680
+  | 1, 4 => 90720
+  | 3, 1 => -22680
+  | 3, 3 => 17010
+  | 3, 4 => -68040
+  | 4, 1 => 90720
+  | 4, 3 => -68040
+  | 4, 4 => 272160
+  | _, _ => 0
+def lower_10 : Matrix (Fin 5) (Fin 5) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 1 => 1
+  | 2, 2 => 1
+  | 3, 1 => -3/4
+  | 3, 3 => 1
+  | 4, 1 => 3
+  | 4, 4 => 1
+  | _, _ => 0
+def pivots_10 : Fin 5 → ℚ := fun i =>
+  match i.val with
+  | 1 => 7825536458311031147272977/536870912000000000000
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data11
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_11 : Matrix (Fin 6) (Fin 6) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 15310420495743050456853357/134217728000000000000
+  | 0, 1 => -21091981152473935416162441/335544320000000000000
+  | 0, 2 => 1759644912412486678804947/134217728000000000000
+  | 0, 3 => -7117902998608090523107887/335544320000000000000
+  | 0, 4 => 2050140304557578762479287/16777216000000000000
+  | 0, 5 => -3816671070411211699962099/8388608000000000000
+  | 1, 0 => -21091981152473935416162441/335544320000000000000
+  | 1, 1 => 3139824493398164330092707/167772160000000000000
+  | 1, 2 => -110846050581407277067047/13421772800000000000
+  | 1, 3 => -120000452149124136234801/167772160000000000000
+  | 1, 4 => -804905973848069092119267/41943040000000000000
+  | 1, 5 => -488664944191263381981813/20971520000000000000
+  | 2, 0 => 1759644912412486678804947/134217728000000000000
+  | 2, 1 => -110846050581407277067047/13421772800000000000
+  | 2, 2 => 186561496958160530399967/134217728000000000000
+  | 2, 3 => -132022995280028243088831/67108864000000000000
+  | 2, 4 => 39011604836809336804287/16777216000000000000
+  | 2, 5 => -536635508982633719381547/8388608000000000000
+  | 3, 0 => -7117902998608090523107887/335544320000000000000
+  | 3, 1 => -120000452149124136234801/167772160000000000000
+  | 3, 2 => -132022995280028243088831/67108864000000000000
+  | 3, 3 => 53081184869685889157043/167772160000000000000
+  | 3, 4 => 581826960578730870868149/41943040000000000000
+  | 3, 5 => 48169578758531066711919/20971520000000000000
+  | 4, 0 => 2050140304557578762479287/16777216000000000000
+  | 4, 1 => -804905973848069092119267/41943040000000000000
+  | 4, 2 => 39011604836809336804287/16777216000000000000
+  | 4, 3 => 581826960578730870868149/41943040000000000000
+  | 4, 4 => -985704999590345844614157/10485760000000000000
+  | 4, 5 => 390621018140645815377261/1048576000000000000
+  | 5, 0 => -3816671070411211699962099/8388608000000000000
+  | 5, 1 => -488664944191263381981813/20971520000000000000
+  | 5, 2 => -536635508982633719381547/8388608000000000000
+  | 5, 3 => 48169578758531066711919/20971520000000000000
+  | 5, 4 => 390621018140645815377261/1048576000000000000
+  | 5, 5 => -7434351034101698173344801/524288000000000000
+  | _, _ => 0
+def candidateZ_11 : Matrix (Fin 6) (Fin 6) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 7257600
+  | 0, 4 => -453600
+  | 0, 5 => 9979200
+  | 1, 1 => 241920
+  | 1, 3 => -60480
+  | 1, 5 => 2494800
+  | 2, 2 => 54000
+  | 2, 3 => -75600
+  | 2, 4 => 113400
+  | 3, 1 => -60480
+  | 3, 2 => -75600
+  | 3, 3 => 120960
+  | 3, 4 => -158760
+  | 3, 5 => -623700
+  | 4, 0 => -453600
+  | 4, 2 => 113400
+  | 4, 3 => -158760
+  | 4, 4 => 266490
+  | 4, 5 => -623700
+  | 5, 0 => 9979200
+  | 5, 1 => 2494800
+  | 5, 3 => -623700
+  | 5, 4 => -623700
+  | 5, 5 => 39449025
+  | _, _ => 0
+def lower_11 : Matrix (Fin 6) (Fin 6) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 0 => 1925158773729525751974454/150990079174740777675305331
+  | 1, 1 => 1
+  | 2, 0 => -3936218478175539835501733/1207920633397926221402442648
+  | 2, 1 => 97293768145330047583879356561582525137135743957/398751775291942480923180911595463390779768165464
+  | 2, 2 => 1
+  | 3, 0 => 8301941609933521328767591/6039603166989631107012213240
+  | 3, 1 => -1179496096132238434241131635425406914434660414529/1993758876459712404615904557977316953898840827320
+  | 3, 2 => -7/5
+  | 3, 3 => 1
+  | 4, 0 => -34900457663141259371752627/503300263915802592251017770
+  | 4, 1 => 2043169131051930999261466487793233027879850623097/3987517752919424809231809115954633907797681654640
+  | 4, 2 => 21/10
+  | 4, 4 => 1
+  | 5, 0 => 75821519573118101206927129/50330026391580259225101777
+  | 5, 1 => 165/16
+  | 5, 5 => 1
+  | _, _ => 0
+def pivots_11 : Fin 6 → ℚ := fun i =>
+  match i.val with
+  | 0 => 4076732137718000997233243937/134217728000000000000
+  | 1 => 149531915734478430346192841848298771542413062049/4397904812798138491435026743296000000000000
+  | 2 => 44365601556251097376769358134495883600481873025846129343811138887/167248616611409551550602139022849848180114473547831705600000000000
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data12
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_12 : Matrix (Fin 6) (Fin 6) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => -21758497948837526814361611/16777216000000000000
+  | 0, 1 => 7514500960705467759694389/41943040000000000000
+  | 0, 2 => 3165688667606660909537571/16777216000000000000
+  | 0, 3 => -41707520784065633150907/8388608000000000000
+  | 0, 4 => -2287894342236011100448461/10485760000000000000
+  | 0, 5 => 974459105668097994666249/1048576000000000000
+  | 1, 0 => 7514500960705467759694389/41943040000000000000
+  | 1, 1 => -2755174567464265689714987/41943040000000000000
+  | 1, 2 => 13005450739700130750669/8388608000000000000
+  | 1, 3 => 81483121238154923538567/4194304000000000000
+  | 1, 4 => 404785016635235824043973/5242880000000000000
+  | 1, 5 => 6215584013984995241823/40960000000000000
+  | 2, 0 => 3165688667606660909537571/16777216000000000000
+  | 2, 1 => 13005450739700130750669/8388608000000000000
+  | 2, 2 => 46805674377515194537803/3355443200000000000
+  | 2, 3 => -41483885509932371903727/8388608000000000000
+  | 2, 4 => -10240121934522536047317/419430400000000000
+  | 2, 5 => -25627330574660171363787/1048576000000000000
+  | 3, 0 => -41707520784065633150907/8388608000000000000
+  | 3, 1 => 81483121238154923538567/4194304000000000000
+  | 3, 2 => -41483885509932371903727/8388608000000000000
+  | 3, 3 => -192219299280069275276433/4194304000000000000
+  | 3, 4 => -42262827210616968341919/1048576000000000000
+  | 3, 5 => 102387833991081458685459/524288000000000000
+  | 4, 0 => -2287894342236011100448461/10485760000000000000
+  | 4, 1 => 404785016635235824043973/5242880000000000000
+  | 4, 2 => -10240121934522536047317/419430400000000000
+  | 4, 3 => -42262827210616968341919/1048576000000000000
+  | 4, 4 => 42184147125974825030859/1310720000000000000
+  | 4, 5 => 18732467483584451907057/655360000000000000
+  | 5, 0 => 974459105668097994666249/1048576000000000000
+  | 5, 1 => 6215584013984995241823/40960000000000000
+  | 5, 2 => -25627330574660171363787/1048576000000000000
+  | 5, 3 => 102387833991081458685459/524288000000000000
+  | 5, 4 => 18732467483584451907057/655360000000000000
+  | 5, 5 => -330567209557174956464307/65536000000000000
+  | _, _ => 0
+def candidateZ_12 : Matrix (Fin 6) (Fin 6) ℚ := fun i j =>
+  match i.val, j.val with
+  | 1, 1 => 2177280
+  | 1, 4 => -1088640
+  | 1, 5 => 7484400
+  | 2, 2 => 604800
+  | 2, 3 => -453600
+  | 2, 5 => 2494800
+  | 3, 2 => -453600
+  | 3, 3 => 340200
+  | 3, 5 => -1871100
+  | 4, 1 => -1088640
+  | 4, 4 => 544320
+  | 4, 5 => -3742200
+  | 5, 1 => 7484400
+  | 5, 2 => 2494800
+  | 5, 3 => -1871100
+  | 5, 4 => -3742200
+  | 5, 5 => 36018675
+  | _, _ => 0
+def lower_12 : Matrix (Fin 6) (Fin 6) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 1 => 1
+  | 2, 1 => 204004003367800299891773/539865092478537355668714
+  | 2, 2 => 1
+  | 3, 1 => -204004003367800299891773/719820123304716474224952
+  | 3, 2 => -3/4
+  | 3, 3 => 1
+  | 4, 1 => -1/2
+  | 4, 4 => 1
+  | 5, 1 => 449550461547858066194128/89977515413089559278119
+  | 5, 2 => 33/8
+  | 5, 5 => 1
+  | _, _ => 0
+def pivots_12 : Fin 6 → ℚ := fun i =>
+  match i.val with
+  | 1 => 21864536245380762904582917/83886080000000000000
+  | 2 => 649683024815757908332880506062421317689132763/78623552668163164758010757120000000000000
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data13
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_13 : Matrix (Fin 7) (Fin 7) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 121685493803305440547576917/8388608000000000000
+  | 0, 1 => 7563908306608840424871171/8388608000000000000
+  | 0, 2 => -66091999624888726298111247/16777216000000000000
+  | 0, 3 => 2728798823338271240310567/1677721600000000000
+  | 0, 4 => -13501297339814524797227781/10485760000000000000
+  | 0, 5 => 12432022452888993488134359/1048576000000000000
+  | 0, 6 => -165874530574631465579316753/1048576000000000000
+  | 1, 0 => 7563908306608840424871171/8388608000000000000
+  | 1, 1 => -2041302613950531427151763/8388608000000000000
+  | 1, 2 => 126715690823288866730217/419430400000000000
+  | 1, 3 => -500594098074230841463629/2097152000000000000
+  | 1, 4 => -1215155073315811787592453/2621440000000000000
+  | 1, 5 => -47337050492347165740927/524288000000000000
+  | 1, 6 => -394753123867351949086959/131072000000000000
+  | 2, 0 => -66091999624888726298111247/16777216000000000000
+  | 2, 1 => 126715690823288866730217/419430400000000000
+  | 2, 2 => -1379799513707028925041063/16777216000000000000
+  | 2, 3 => 701982483744393187744923/8388608000000000000
+  | 2, 4 => 672840394965225922256721/2097152000000000000
+  | 2, 5 => 2506297034373528441573/1048576000000000000
+  | 2, 6 => 5534718096701578046307903/1048576000000000000
+  | 3, 0 => 2728798823338271240310567/1677721600000000000
+  | 3, 1 => -500594098074230841463629/2097152000000000000
+  | 3, 2 => 701982483744393187744923/8388608000000000000
+  | 3, 3 => 126607865811947282465541/838860800000000000
+  | 3, 4 => -175665130303631642663517/1048576000000000000
+  | 3, 5 => 420722950805223871087107/524288000000000000
+  | 3, 6 => -2485443250416390286101651/524288000000000000
+  | 4, 0 => -13501297339814524797227781/10485760000000000000
+  | 4, 1 => -1215155073315811787592453/2621440000000000000
+  | 4, 2 => 672840394965225922256721/2097152000000000000
+  | 4, 3 => -175665130303631642663517/1048576000000000000
+  | 4, 4 => -125541053085493256369427/262144000000000000
+  | 4, 5 => 1437479079722043725179197/655360000000000000
+  | 4, 6 => -2022830025440980274156781/655360000000000000
+  | 5, 0 => 12432022452888993488134359/1048576000000000000
+  | 5, 1 => -47337050492347165740927/524288000000000000
+  | 5, 2 => 2506297034373528441573/1048576000000000000
+  | 5, 3 => 420722950805223871087107/524288000000000000
+  | 5, 4 => 1437479079722043725179197/655360000000000000
+  | 5, 5 => -184207969249874832456117/65536000000000000
+  | 5, 6 => 252554056596275363975331/65536000000000000
+  | 6, 0 => -165874530574631465579316753/1048576000000000000
+  | 6, 1 => -394753123867351949086959/131072000000000000
+  | 6, 2 => 5534718096701578046307903/1048576000000000000
+  | 6, 3 => -2485443250416390286101651/524288000000000000
+  | 6, 4 => -2022830025440980274156781/655360000000000000
+  | 6, 5 => 252554056596275363975331/65536000000000000
+  | 6, 6 => -17580701774552693245136811/13107200000000000
+  | _, _ => 0
+def candidateZ_13 : Matrix (Fin 7) (Fin 7) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 958003200
+  | 0, 5 => -29937600
+  | 0, 6 => 972972000
+  | 1, 1 => 21772800
+  | 1, 4 => -2721600
+  | 1, 6 => 291891600
+  | 2, 2 => 4838400
+  | 2, 3 => -907200
+  | 2, 4 => -4082400
+  | 2, 5 => 12474000
+  | 2, 6 => 48648600
+  | 3, 2 => -907200
+  | 3, 3 => 453600
+  | 3, 6 => -24324300
+  | 4, 1 => -2721600
+  | 4, 2 => -4082400
+  | 4, 4 => 5851440
+  | 4, 5 => -16839900
+  | 4, 6 => -36486450
+  | 5, 0 => -29937600
+  | 5, 2 => 12474000
+  | 5, 4 => -16839900
+  | 5, 5 => 52390800
+  | 5, 6 => -30405375
+  | 6, 0 => 972972000
+  | 6, 1 => 291891600
+  | 6, 2 => 48648600
+  | 6, 3 => -24324300
+  | 6, 4 => -36486450
+  | 6, 5 => -30405375
+  | 6, 6 => 12411474075/2
+  | _, _ => 0
+def lower_13 : Matrix (Fin 7) (Fin 7) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 0 => 1111855671728339030775679/197045554945531736379875742
+  | 1, 1 => 1
+  | 2, 0 => 1791249419107115395188367/1182273329673190418279254452
+  | 2, 1 => -23158466219111904247947676151589232601649996629/349541975522142742932216682562005884893537644542
+  | 2, 2 => 1
+  | 3, 0 => -33408601617411273839585/35826464535551224796341044
+  | 3, 1 => -7547483379072103020857744738955493237743278651/233027983681428495288144455041337256595691763028
+  | 3, 2 => -21197452145059780073388475447411012177964120746217336845656524034634/265400427424486625635730094240887975974934890860545150367437796795333
+  | 3, 3 => 1
+  | 4, 0 => -114738360616464815616263/492613887363829340949689355
+  | 4, 1 => 120923267605168300684507624514429840089303789453/2330279836814284952881444550413372565956917630280
+  | 4, 2 => -401409941641860717880115658022918712914211968862598858017024547706917/353867236565982167514306792321183967966579854480726867156583729060444
+  | 4, 3 => -27/10
+  | 4, 4 => 1
+  | 5, 0 => -292822950672807339915922/8956616133887806199085261
+  | 5, 1 => -251905039959805173207865007026506417731839079201/466055967362856990576288910082674513191383526056
+  | 5, 2 => 2453060754478037720378484576806725467809073143049215243437372235986715/707734473131964335028613584642367935933159708961453734313167458120888
+  | 5, 3 => 33/4
+  | 5, 5 => 1
+  | 6, 0 => 1135776041819186628637426/995179570431978466565029
+  | 6, 1 => 1764382601215946144725091581012207960554988007877/116513991840714247644072227520668628297845881514
+  | 6, 2 => 1515617828371774275247275994489887370724434633354539584464441468476331/353867236565982167514306792321183967966579854480726867156583729060444
+  | 6, 3 => -429/8
+  | 6, 6 => 1
+  | _, _ => 0
+def pivots_13 : Fin 7 → ℚ := fun i =>
+  match i.val with
+  | 0 => 263351384184703165671703929183/67108864000000000000
+  | 1 => 1572938889849642343194975071529026482020919400439/521760706622641126278445924352000000000000
+  | 2 => 7165811540461138892164712544503975351323242053234719059920820513473991/7635860969273048933601917502794539224127627690901504000000000000
+  | 3 => 22597095286098904465180990607174049148899538410734195998820269052085603485624016933/45295006280445717441831269417111547899722221373533038996042717319736832000000000000
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data14
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_14 : Matrix (Fin 7) (Fin 7) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 165377041672743964897444611/4194304000000000000
+  | 0, 1 => -99652836936417746642331957/4194304000000000000
+  | 0, 2 => 198343656225197394663337443/8388608000000000000
+  | 0, 3 => -10805495312804179528323783/4194304000000000000
+  | 0, 4 => 21398938288605875882996397/1048576000000000000
+  | 0, 5 => 3160468299521670425437149/104857600000000000
+  | 0, 6 => -12750872962864833675394659/524288000000000000
+  | 1, 0 => -99652836936417746642331957/4194304000000000000
+  | 1, 1 => 23310418524081657499377/524288000000000000
+  | 1, 2 => -347065711842922353039231/419430400000000000
+  | 1, 3 => -138985253242272601987977/104857600000000000
+  | 1, 4 => -567150585351068471238783/131072000000000000
+  | 1, 5 => -141724874857705188581763/32768000000000000
+  | 1, 6 => -841622022843306152134401/26214400000000000
+  | 2, 0 => 198343656225197394663337443/8388608000000000000
+  | 2, 1 => -347065711842922353039231/419430400000000000
+  | 2, 2 => -948697485826720805007561/1677721600000000000
+  | 2, 3 => 1776603855966711095862153/4194304000000000000
+  | 2, 4 => 932798387166894000074907/1048576000000000000
+  | 2, 5 => 269131392507015595229211/524288000000000000
+  | 2, 6 => 6370357421543107418633493/524288000000000000
+  | 3, 0 => -10805495312804179528323783/4194304000000000000
+  | 3, 1 => -138985253242272601987977/104857600000000000
+  | 3, 2 => 1776603855966711095862153/4194304000000000000
+  | 3, 3 => -2225592748224580792706397/2097152000000000000
+  | 3, 4 => 1701251773125333268329/20971520000000000
+  | 3, 5 => -41108078112253038740007/52428800000000000
+  | 3, 6 => -1332400286315383367619537/262144000000000000
+  | 4, 0 => 21398938288605875882996397/1048576000000000000
+  | 4, 1 => -567150585351068471238783/131072000000000000
+  | 4, 2 => 932798387166894000074907/1048576000000000000
+  | 4, 3 => 1701251773125333268329/20971520000000000
+  | 4, 4 => 1451654095595659568163/26214400000000000
+  | 4, 5 => 56731873890489317051103/65536000000000000
+  | 4, 6 => 702921905295609015979677/65536000000000000
+  | 5, 0 => 3160468299521670425437149/104857600000000000
+  | 5, 1 => -141724874857705188581763/32768000000000000
+  | 5, 2 => 269131392507015595229211/524288000000000000
+  | 5, 3 => -41108078112253038740007/52428800000000000
+  | 5, 4 => 56731873890489317051103/65536000000000000
+  | 5, 5 => 15883626629942625122019/32768000000000000
+  | 5, 6 => -304589521531696266272979/32768000000000000
+  | 6, 0 => -12750872962864833675394659/524288000000000000
+  | 6, 1 => -841622022843306152134401/26214400000000000
+  | 6, 2 => 6370357421543107418633493/524288000000000000
+  | 6, 3 => -1332400286315383367619537/262144000000000000
+  | 6, 4 => 702921905295609015979677/65536000000000000
+  | 6, 5 => -304589521531696266272979/32768000000000000
+  | 6, 6 => -10250896235928348183825213/32768000000000000
+  | _, _ => 0
+def candidateZ_14 : Matrix (Fin 7) (Fin 7) ℚ := fun i j =>
+  match i.val, j.val with
+  | 1, 1 => 239500800
+  | 1, 5 => -74844000
+  | 1, 6 => 778377600
+  | 2, 2 => 43545600
+  | 2, 4 => -21772800
+  | 2, 6 => 389188800
+  | 3, 3 => 11113200
+  | 3, 4 => -19051200
+  | 3, 5 => 26195400
+  | 4, 2 => -21772800
+  | 4, 3 => -19051200
+  | 4, 4 => 43545600
+  | 4, 5 => -44906400
+  | 4, 6 => -194594400
+  | 5, 1 => -74844000
+  | 5, 3 => 26195400
+  | 5, 4 => -44906400
+  | 5, 5 => 85135050
+  | 5, 6 => -243243000
+  | 6, 1 => 778377600
+  | 6, 2 => 389188800
+  | 6, 4 => -194594400
+  | 6, 5 => -243243000
+  | 6, 6 => 6008102100
+  | _, _ => 0
+def lower_14 : Matrix (Fin 7) (Fin 7) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 1 => 1
+  | 2, 1 => 120386933257136954636/536030904312722438251
+  | 2, 2 => 1
+  | 3, 1 => -4332122510776549572923/707560793692793618491320
+  | 3, 2 => 307688534849122453100467601486871491946187/581648401554992803788669771158411492269968
+  | 3, 3 => 1
+  | 4, 1 => -206979540853306295379/2033220671531016145090
+  | 4, 2 => -68190855043237431553166135915439263408323/48470700129582733649055814263200957689164
+  | 4, 3 => -12/7
+  | 4, 4 => 1
+  | 5, 1 => -876227953263419430954/2680154521563612191255
+  | 5, 2 => 483510554762906712015020516622226630201151/387765601036661869192446514105607661513312
+  | 5, 3 => 33/14
+  | 5, 5 => 1
+  | 6, 1 => 2818058655002009456375/536030904312722438251
+  | 6, 2 => 143/16
+  | 6, 6 => 1
+  | _, _ => 0
+def pivots_14 : Fin 7 → ℚ := fun i =>
+  match i.val with
+  | 1 => 15760916679506977851894153/1677721600000000000
+  | 2 => 2944595032872151069180140716489458179616713/2195582584064911107076096000000000000
+  | 3 => 158050942662752402961772876954531015304963741122714063961053/2353019113846173357351497661891213306012631040000000000000
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data15
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_15 : Matrix (Fin 8) (Fin 8) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1160239161688954312188380157/1048576000000000000
+  | 0, 1 => 527769145158896263581537579/2097152000000000000
+  | 0, 2 => -364633884256427977153375413/1677721600000000000
+  | 0, 3 => 70800295830292526868599229/838860800000000000
+  | 0, 4 => -213215905018995130639958571/1048576000000000000
+  | 0, 5 => -236988935373506936612565573/524288000000000000
+  | 0, 6 => 374746885492881333249210393/524288000000000000
+  | 0, 7 => -1454272995490648196091417189/52428800000000000
+  | 1, 0 => 527769145158896263581537579/2097152000000000000
+  | 1, 1 => -79903889464778925306594867/2097152000000000000
+  | 1, 2 => 10380910649344519579874271/838860800000000000
+  | 1, 3 => 2399450471501791440121389/419430400000000000
+  | 1, 4 => 7831247768240800098462597/524288000000000000
+  | 1, 5 => 260365051976410952573409/52428800000000000
+  | 1, 6 => 15417580069242120546303813/262144000000000000
+  | 1, 7 => -19651317795670208550803901/26214400000000000
+  | 2, 0 => -364633884256427977153375413/1677721600000000000
+  | 2, 1 => 10380910649344519579874271/838860800000000000
+  | 2, 2 => -544144788797698439940321/335544320000000000
+  | 2, 3 => -1550173356554793074510931/838860800000000000
+  | 2, 4 => -251612565167710626302493/209715200000000000
+  | 2, 5 => 412467042517374252900789/104857600000000000
+  | 2, 6 => -3917597116231063282740723/104857600000000000
+  | 2, 7 => 6737890215993101774728119/10485760000000000
+  | 3, 0 => 70800295830292526868599229/838860800000000000
+  | 3, 1 => 2399450471501791440121389/419430400000000000
+  | 3, 2 => -1550173356554793074510931/838860800000000000
+  | 3, 3 => -11010455047903773080463201/2097152000000000000
+  | 3, 4 => 483384920806779568744041/524288000000000000
+  | 3, 5 => -2196385127442123145785873/262144000000000000
+  | 3, 6 => -3020058706667129324414217/262144000000000000
+  | 3, 7 => 6630571266894369608354541/26214400000000000
+  | 4, 0 => -213215905018995130639958571/1048576000000000000
+  | 4, 1 => 7831247768240800098462597/524288000000000000
+  | 4, 2 => -251612565167710626302493/209715200000000000
+  | 4, 3 => 483384920806779568744041/524288000000000000
+  | 4, 4 => -733927230254603053476261/131072000000000000
+  | 4, 5 => 144198476217622441333917/65536000000000000
+  | 4, 6 => -270537545003843608530039/65536000000000000
+  | 4, 7 => 488416974255188057862783/1310720000000000
+  | 5, 0 => -236988935373506936612565573/524288000000000000
+  | 5, 1 => 260365051976410952573409/52428800000000000
+  | 5, 2 => 412467042517374252900789/104857600000000000
+  | 5, 3 => -2196385127442123145785873/262144000000000000
+  | 5, 4 => 144198476217622441333917/65536000000000000
+  | 5, 5 => 103242122786757662097687/32768000000000000
+  | 5, 6 => -1188419411670004290171681/32768000000000000
+  | 5, 7 => -946932022961651320973379/3276800000000000
+  | 6, 0 => 374746885492881333249210393/524288000000000000
+  | 6, 1 => 15417580069242120546303813/262144000000000000
+  | 6, 2 => -3917597116231063282740723/104857600000000000
+  | 6, 3 => -3020058706667129324414217/262144000000000000
+  | 6, 4 => -270537545003843608530039/65536000000000000
+  | 6, 5 => -1188419411670004290171681/32768000000000000
+  | 6, 6 => -13385634727914986582216457/32768000000000000
+  | 6, 7 => 6044229669744752465993013/3276800000000000
+  | 7, 0 => -1454272995490648196091417189/52428800000000000
+  | 7, 1 => -19651317795670208550803901/26214400000000000
+  | 7, 2 => 6737890215993101774728119/10485760000000000
+  | 7, 3 => 6630571266894369608354541/26214400000000000
+  | 7, 4 => 488416974255188057862783/1310720000000000
+  | 7, 5 => -946932022961651320973379/3276800000000000
+  | 7, 6 => 6044229669744752465993013/3276800000000000
+  | 7, 7 => -31526289117493065494479881/327680000000000
+  | _, _ => 0
+def candidateZ_15 : Matrix (Fin 8) (Fin 8) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 174356582400
+  | 0, 6 => -2724321600
+  | 0, 7 => 122594472000
+  | 1, 1 => 2874009600
+  | 1, 5 => -179625600
+  | 1, 7 => 40864824000
+  | 2, 2 => 435456000
+  | 2, 4 => -40824000
+  | 2, 5 => -299376000
+  | 2, 6 => 1459458000
+  | 2, 7 => 10216206000
+  | 3, 3 => 177811200
+  | 3, 4 => -171460800
+  | 3, 6 => 681080400
+  | 4, 2 => -40824000
+  | 4, 3 => -171460800
+  | 4, 4 => 175543200
+  | 4, 6 => -656756100
+  | 4, 7 => -2554051500
+  | 5, 1 => -179625600
+  | 5, 2 => -299376000
+  | 5, 5 => 340540200
+  | 5, 6 => -1605403800
+  | 5, 7 => -2554051500
+  | 6, 0 => -2724321600
+  | 6, 2 => 1459458000
+  | 6, 3 => 681080400
+  | 6, 4 => -656756100
+  | 6, 5 => -1605403800
+  | 6, 6 => 10477692225
+  | 6, 7 => -1915538625
+  | 7, 0 => 122594472000
+  | 7, 1 => 40864824000
+  | 7, 2 => 10216206000
+  | 7, 4 => -2554051500
+  | 7, 5 => -2554051500
+  | 7, 6 => -1915538625
+  | 7, 7 => 1306397342250
+  | _, _ => 0
+def lower_15 : Matrix (Fin 8) (Fin 8) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 0 => 197930700637414421837892/97247812005704593891661675
+  | 1, 1 => 1
+  | 2, 0 => 36261774332356403991399/77798249604563675113329340
+  | 2, 1 => -1734106666864679455581400713948829255800237455/19797225624156201420121219315318097526857047788
+  | 2, 2 => 1
+  | 3, 0 => -23957260623299580546277/33342106973384432191426860
+  | 3, 1 => -624196251755535956149438461279071991189114595/59391676872468604260363657945954292580571143364
+  | 3, 2 => 303528572474207973463704744629937909376413767666986608473671375559/518665375860506760625961490756824848120953439349257906610363915955
+  | 3, 3 => 1
+  | 4, 0 => 496375964381946111357/1023661179007416777806965
+  | 4, 1 => -486540140982570387792868750778417139890866395/26396300832208268560161625753757463369142730384
+  | 4, 2 => -434406574781237967441900173220368084053771212269687136733349786553/691553834480675680834615321009099797494604585799010542147151887940
+  | 4, 3 => -170642676494886817200553163565280791711087620144089633618121582441925509275929838011/171086617074875330697113852379164678624089998458380783511885582555597656081587924209
+  | 4, 4 => 1
+  | 5, 0 => 5351067720970075571982/19449562401140918778332335
+  | 5, 1 => 1148569105109967564185374595147977467320161985/7198991136056800516407716114661126373402562832
+  | 5, 2 => -283212392301264935312765751709162333082734798025620504193091613103/345776917240337840417307660504549898747302292899505271073575943970
+  | 5, 3 => 49863402548204756592216006328416408447435927492586127181469410660015800021565046209/342173234149750661394227704758329357248179996916761567023771165111195312163175848418
+  | 5, 4 => -22/5
+  | 5, 5 => 1
+  | 6, 0 => -1977883869664167079693446/97247812005704593891661675
+  | 6, 1 => -505157650111198927113503706110557130686944676/449936946003550032275482257166320398337660177
+  | 6, 2 => 36538005133794511969035965102506791153878259272812797414179484589/5860625715937929498598434923805930487242411744059411374128405830
+  | 6, 3 => 2135123208195057797120959747964427415128021469041762264502063064505967180468355781093/684346468299501322788455409516658714496359993833523134047542330222390624326351696836
+  | 6, 4 => 429/20
+  | 6, 6 => 1
+  | 7, 0 => 2178650591645921788996608/2778508914448702682618905
+  | 7, 1 => 25637460033619581337817763456396286026941820605/1199831856009466752734619352443521062233760472
+  | 7, 2 => 552496357271419294519425838185729534629755806181813234555850949939/34577691724033784041730766050454989874730229289950527107357594397
+  | 7, 3 => 3241121165633309178494040411347066549083335287018098266795511692901027001401728003585/391055124742572184450545948295233551140777139333441790884309902984223213900772398192
+  | 7, 4 => -1001/4
+  | 7, 7 => 1
+  | _, _ => 0
+def pivots_15 : Fin 8 → ℚ := fun i =>
+  match i.val with
+  | 0 => 946193981428144101279578432481/1342177280000000000
+  | 1 => 39688488070027144796988014422383956016966666552993/227615450271637723760140697600000000000000
+  | 2 => 8402379088940209522140576150260562539559445717457978087087895438471/1572643610308728262144320277634771926691034525859840000000000
+  | 3 => 32335370627151437501754518099662124259953009708633968083746375103007956999420117675501/4425944540676324357341538054458238703965469349113667469741772082816000000000000
+  | 4 => 63969564659509058197628411283630898558162890371801893104190890068659388379197572494976593499596483/4004404477363939168773590510543191563681557906774443938655333406558445710343909357486080000000000
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data16
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_16 : Matrix (Fin 8) (Fin 8) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => -2276708101299057121652517561/52428800000000000
+  | 0, 1 => -39034614015379387104670971/13107200000000000
+  | 0, 2 => 78202406241711463127687271/83886080000000000
+  | 0, 3 => 23832834670493732956060989/209715200000000000
+  | 0, 4 => 22048584820368310367604441/52428800000000000
+  | 0, 5 => 2553473034802720354150827/26214400000000000
+  | 0, 6 => 108255415269241130506236621/26214400000000000
+  | 0, 7 => -41435755574383986458435793/2621440000000000
+  | 1, 0 => -39034614015379387104670971/13107200000000000
+  | 1, 1 => -374098046732570322778463991/1048576000000000000
+  | 1, 2 => 2737552373685628655395239/41943040000000000
+  | 1, 3 => 22736583113602023500964129/524288000000000000
+  | 1, 4 => 1851780972244557042321633/131072000000000000
+  | 1, 5 => 507618379345280460543/1310720000000000
+  | 1, 6 => 32584839756386941473215337/65536000000000000
+  | 1, 7 => -12977256793584317385992841/6553600000000000
+  | 2, 0 => 78202406241711463127687271/83886080000000000
+  | 2, 1 => 2737552373685628655395239/41943040000000000
+  | 2, 2 => -2533363535515609982834649/83886080000000000
+  | 2, 3 => 1549750421445905525422653/209715200000000000
+  | 2, 4 => -611154627229412014141701/52428800000000000
+  | 2, 5 => -578745616368603039939/41943040000000
+  | 2, 6 => -64505141078209101647091/1048576000000000
+  | 2, 7 => -99002192076248555811717/524288000000000
+  | 3, 0 => 23832834670493732956060989/209715200000000000
+  | 3, 1 => 22736583113602023500964129/524288000000000000
+  | 3, 2 => 1549750421445905525422653/209715200000000000
+  | 3, 3 => -11434119007650938281635057/524288000000000000
+  | 3, 4 => 1484433801775108633948569/131072000000000000
+  | 3, 5 => 207943103777772680639091/13107200000000000
+  | 3, 6 => -8974467290230038089021529/65536000000000000
+  | 3, 7 => 4777756237785689667105597/6553600000000000
+  | 4, 0 => 22048584820368310367604441/52428800000000000
+  | 4, 1 => 1851780972244557042321633/131072000000000000
+  | 4, 2 => -611154627229412014141701/52428800000000000
+  | 4, 3 => 1484433801775108633948569/131072000000000000
+  | 4, 4 => -621920505954394918130013/32768000000000000
+  | 4, 5 => -28769175431642817466911/3276800000000000
+  | 4, 6 => 1147904288009241919132977/16384000000000000
+  | 4, 7 => 68877548037338038801803/1638400000000000
+  | 5, 0 => 2553473034802720354150827/26214400000000000
+  | 5, 1 => 507618379345280460543/1310720000000000
+  | 5, 2 => -578745616368603039939/41943040000000
+  | 5, 3 => 207943103777772680639091/13107200000000000
+  | 5, 4 => -28769175431642817466911/3276800000000000
+  | 5, 5 => -47586420975452552673183/1638400000000000
+  | 5, 6 => 189274484540778686288811/1638400000000000
+  | 5, 7 => -71581303517955662317887/163840000000000
+  | 6, 0 => 108255415269241130506236621/26214400000000000
+  | 6, 1 => 32584839756386941473215337/65536000000000000
+  | 6, 2 => -64505141078209101647091/1048576000000000
+  | 6, 3 => -8974467290230038089021529/65536000000000000
+  | 6, 4 => 1147904288009241919132977/16384000000000000
+  | 6, 5 => 189274484540778686288811/1638400000000000
+  | 6, 6 => -7689933670205658822668289/8192000000000000
+  | 6, 7 => 384276867404942369454597/819200000000000
+  | 7, 0 => -41435755574383986458435793/2621440000000000
+  | 7, 1 => -12977256793584317385992841/6553600000000000
+  | 7, 2 => -99002192076248555811717/524288000000000
+  | 7, 3 => 4777756237785689667105597/6553600000000000
+  | 7, 4 => 68877548037338038801803/1638400000000000
+  | 7, 5 => -71581303517955662317887/163840000000000
+  | 7, 6 => 384276867404942369454597/819200000000000
+  | 7, 7 => -2280462391086995129495481/81920000000000
+  | _, _ => 0
+def candidateZ_16 : Matrix (Fin 8) (Fin 8) ℚ := fun i j =>
+  match i.val, j.val with
+  | 1, 1 => 37362124800
+  | 1, 6 => -7005398400
+  | 1, 7 => 102162060000
+  | 2, 2 => 4790016000
+  | 2, 5 => -1496880000
+  | 2, 7 => 61297236000
+  | 3, 3 => 1828915200
+  | 3, 4 => -685843200
+  | 3, 5 => -1571724000
+  | 3, 6 => 4086482400
+  | 3, 7 => 15324309000
+  | 4, 3 => -685843200
+  | 4, 4 => 457228800
+  | 4, 7 => -10216206000
+  | 5, 2 => -1496880000
+  | 5, 3 => -1571724000
+  | 5, 5 => 3555090000
+  | 5, 6 => -8027019000
+  | 5, 7 => -19155386250
+  | 6, 1 => -7005398400
+  | 6, 3 => 4086482400
+  | 6, 5 => -8027019000
+  | 6, 6 => 22183761600
+  | 6, 7 => -19155386250
+  | 7, 1 => 102162060000
+  | 7, 2 => 61297236000
+  | 7, 3 => 15324309000
+  | 7, 4 => -10216206000
+  | 7, 5 => -19155386250
+  | 7, 6 => -19155386250
+  | 7, 7 => 2584061605125/2
+  | _, _ => 0
+def lower_16 : Matrix (Fin 8) (Fin 8) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 1 => 1
+  | 2, 1 => 3206343438656158285365/28684732320735088531813
+  | 2, 2 => 1
+  | 3, 1 => -54877189171649281865449/344216787848821062381756
+  | 3, 2 => -19880867897726867470809330758846303284631/361700098638082573428816645249340132620844
+  | 3, 3 => 1
+  | 4, 1 => 349501055170489161415/28684732320735088531813
+  | 4, 2 => 7974393916372040975712468793702276397163/180850049319041286714408322624670066310422
+  | 4, 3 => -1829024744598826060427709473400208028305860576380374485804792/7345332138093951654543316940989723219670777360892472479457151
+  | 4, 4 => 1
+  | 5, 1 => 20853333024669907257460/86054196962205265595439
+  | 5, 2 => -483886160701375938228598543593722155044225/1446800394552330293715266580997360530483376
+  | 5, 3 => -253098726165764191014596400198917614746659257297705091291247965/205669299866630646327212874347712250150781766104989229424800228
+  | 5, 4 => -165/56
+  | 5, 5 => 1
+  | 6, 1 => -16487932909993594598/18151064535373394979
+  | 6, 2 => 3176103740377272144257773703204698926817/55646169021243472835202560807590789633976
+  | 6, 3 => 658056688030986896637950640517185798341314068974033237357244709/205669299866630646327212874347712250150781766104989229424800228
+  | 6, 4 => 429/56
+  | 6, 6 => 1
+  | 7, 1 => 111656826929597416061840/28684732320735088531813
+  | 7, 2 => 657273111018667284729959547377935235866791/55646169021243472835202560807590789633976
+  | 7, 3 => 163469086548520079150726534185143592529836289013995969668803285/29381328552375806618173267763958892878683109443569889917828604
+  | 7, 4 => -715/32
+  | 7, 7 => 1
+  | _, _ => 0
+def pivots_16 : Fin 8 → ℚ := fun i =>
+  match i.val with
+  | 1 => 8970891870719012322527729433/8388608000000000000
+  | 2 => 65919842976790549007401833596692239170148819/854492098805315800918589440000000000
+  | 3 => 87460869768284682350647274816364634376619946036146669812896296957/1481523604021586220764432978941297183214977024000000000000
+  | 4 => 58443121758337845880938015150381796161824002859575616943582223394870562414699/117525314209503226472693071055835571514732437774279559671314416000000000000
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data17
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_17 : Matrix (Fin 9) (Fin 9) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => -27062893468327394953193285367/419430400000000000
+  | 0, 1 => -34150355623889743675914477/104857600000000000
+  | 0, 2 => 260924265129905899387586721/83886080000000000
+  | 0, 3 => -67528457531024325424642053/41943040000000000
+  | 0, 4 => -30137637143983305054521403/52428800000000000
+  | 0, 5 => 95166999960067286140262373/26214400000000000
+  | 0, 6 => -175538440354363800262225677/26214400000000000
+  | 0, 7 => 69154353838247955125781933/2621440000000000
+  | 1, 0 => -34150355623889743675914477/104857600000000000
+  | 1, 1 => -259433233939629173544831711/1048576000000000000
+  | 1, 2 => 10972785710270109216153663/104857600000000000
+  | 1, 3 => -408068525315759942414781/13107200000000000
+  | 1, 4 => 729849806595543331244547/65536000000000000
+  | 1, 5 => 11113201543710491752527/13107200000000000
+  | 1, 6 => -12885057439514659527475347/32768000000000000
+  | 1, 7 => 1281998470570534260875331/1638400000000000
+  | 2, 0 => 260924265129905899387586721/83886080000000000
+  | 2, 1 => 10972785710270109216153663/104857600000000000
+  | 2, 2 => -16291154585525363835188931/83886080000000000
+  | 2, 3 => 4351689332062192591003071/41943040000000000
+  | 2, 4 => 83301302217472013622717/10485760000000000
+  | 2, 5 => -203973650747133817508343/1048576000000000
+  | 2, 6 => 16866893128958580992747463/26214400000000000
+  | 2, 7 => -99471136192512553900431/104857600000000
+  | 3, 0 => -67528457531024325424642053/41943040000000000
+  | 3, 1 => -408068525315759942414781/13107200000000000
+  | 3, 2 => 4351689332062192591003071/41943040000000000
+  | 3, 3 => -1404556469174930860536363/20971520000000000
+  | 3, 4 => 138574461584170298662731/26214400000000000
+  | 3, 5 => 322312699672503215100579/2621440000000000
+  | 3, 6 => -5414374042135146758937267/13107200000000000
+  | 3, 7 => 53455862611083189243987/1310720000000000
+  | 4, 0 => -30137637143983305054521403/52428800000000000
+  | 4, 1 => 729849806595543331244547/65536000000000000
+  | 4, 2 => 83301302217472013622717/10485760000000000
+  | 4, 3 => 138574461584170298662731/26214400000000000
+  | 4, 4 => -560195899211802719046699/32768000000000000
+  | 4, 5 => 1543576781120216089401/131072000000000
+  | 4, 6 => 727025046163822366323363/16384000000000000
+  | 4, 7 => 948970636189602992298333/1638400000000000
+  | 5, 0 => 95166999960067286140262373/26214400000000000
+  | 5, 1 => 11113201543710491752527/13107200000000000
+  | 5, 2 => -203973650747133817508343/1048576000000000
+  | 5, 3 => 322312699672503215100579/2621440000000000
+  | 5, 4 => 1543576781120216089401/131072000000000
+  | 5, 5 => -428477431290639456169917/1638400000000000
+  | 5, 6 => 1054078060656605687920503/1638400000000000
+  | 5, 7 => -99701519947816820212179/163840000000000
+  | 6, 0 => -175538440354363800262225677/26214400000000000
+  | 6, 1 => -12885057439514659527475347/32768000000000000
+  | 6, 2 => 16866893128958580992747463/26214400000000000
+  | 6, 3 => -5414374042135146758937267/13107200000000000
+  | 6, 4 => 727025046163822366323363/16384000000000000
+  | 6, 5 => 1054078060656605687920503/1638400000000000
+  | 6, 6 => -13417206537411611280214011/8192000000000000
+  | 6, 7 => 797255391734832796032267/819200000000000
+  | 7, 0 => 69154353838247955125781933/2621440000000000
+  | 7, 1 => 1281998470570534260875331/1638400000000000
+  | 7, 2 => -99471136192512553900431/104857600000000
+  | 7, 3 => 53455862611083189243987/1310720000000000
+  | 7, 4 => 948970636189602992298333/1638400000000000
+  | 7, 5 => -99701519947816820212179/163840000000000
+  | 7, 6 => 797255391734832796032267/819200000000000
+  | 7, 7 => -2081041110780259193873307/81920000000000
+  | _, _ => 0
+def candidateZ_17 : Matrix (Fin 9) (Fin 9) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 41845579776000
+  | 0, 7 => -326918592000
+  | 0, 8 => 19451656224000
+  | 1, 1 => 523069747200
+  | 1, 6 => -16345929600
+  | 1, 8 => 6947020080000
+  | 2, 2 => 57480192000
+  | 2, 5 => -2694384000
+  | 2, 6 => -29189160000
+  | 2, 7 => 204324120000
+  | 2, 8 => 2084106024000
+  | 3, 3 => 18289152000
+  | 3, 4 => -1143072000
+  | 3, 5 => -12573792000
+  | 3, 7 => 143026884000
+  | 3, 8 => 347351004000
+  | 4, 3 => -1143072000
+  | 4, 4 => 5372438400
+  | 4, 5 => -9430344000
+  | 4, 6 => 12259447200
+  | 4, 8 => -173675502000
+  | 5, 2 => -2694384000
+  | 5, 3 => -12573792000
+  | 5, 4 => -9430344000
+  | 5, 5 => 28740096000
+  | 5, 6 => -24081057000
+  | 5, 7 => -112378266000
+  | 5, 8 => -260513253000
+  | 6, 1 => -16345929600
+  | 6, 2 => -29189160000
+  | 6, 4 => 12259447200
+  | 6, 5 => -24081057000
+  | 6, 6 => 55532376900
+  | 6, 7 => -166013347500
+  | 6, 8 => -217094377500
+  | 7, 0 => -326918592000
+  | 7, 2 => 204324120000
+  | 7, 3 => 143026884000
+  | 7, 5 => -112378266000
+  | 7, 6 => -166013347500
+  | 7, 7 => 2442950259750
+  | 7, 8 => -151966064250
+  | 8, 0 => 19451656224000
+  | 8, 1 => 6947020080000
+  | 8, 2 => 2084106024000
+  | 8, 3 => 347351004000
+  | 8, 4 => -173675502000
+  | 8, 5 => -260513253000
+  | 8, 6 => -217094377500
+  | 8, 7 => -151966064250
+  | 8, 8 => 355589735626125
+  | _, _ => 0
+def lower_17 : Matrix (Fin 9) (Fin 9) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 0 => -17074299907403761141/3933206859654717967797816
+  | 1, 1 => 1
+  | 2, 0 => -29108706077229270416971/385454272246162360844185968
+  | 2, 1 => -23903215896147783453722199043995011350002095/32315731140285268640562251998797048123441158
+  | 2, 2 => 1
+  | 3, 0 => 359147782598992292617/18354965345055350516389808
+  | 3, 1 => -1020691970834637687700866031758787090035195/2308266510020376331468732285628360580245797
+  | 3, 2 => -283538310838883583566340872312634146897359890258361021664296369/889442356638458559293052059188217299713741152168140352688919601
+  | 3, 3 => 1
+  | 4, 0 => 9363311208475594563/417158303296712511736132
+  | 4, 1 => -336919552011183192929322540587846345723853/9233066040081505325874929142513442320983188
+  | 4, 2 => -2674384864213951993148201591875982195006170634954906789080476291/8894423566384585592930520591882172997137411521681403526889196010
+  | 4, 3 => 41271718399593646067579378636731561436803441798995959104813586715550592760494749/214038709054329274198044281167057989778399610209731044834516283303597544939778870
+  | 4, 4 => 1
+  | 5, 0 => -940578202163404210449/16060594676923431701841082
+  | 5, 1 => 28024298102916842812030743772012710744210825/64631462280570537281124503997594096246882316
+  | 5, 2 => 5900589436455135874651409741161668775599531241178082353073468491/7115538853107668474344416473505738397709929217345122821511356808
+  | 5, 3 => -1401430526633342941929325287926515633420030875226867491768136634829265126585469267/1198616770704243935509047974535524742759037817174493851073291186500146251662761672
+  | 5, 4 => -58174865625352179395573885943383634492656038867848316801777736660427658279911833085053323787115/28566515103070080496146958987164600609392781604764280759476047930393443055542870950818632109804
+  | 5, 5 => 1
+  | 6, 0 => 777567542845922824885/6883112004395756443646178
+  | 6, 1 => 6178438691041407044933500593005506423239086/16157865570142634320281125999398524061720579
+  | 6, 2 => -2057133941010983182319296466461545847795494641866516829142765187/1368372856366859321989310860289565076482678695643292850290645540
+  | 6, 3 => 6270490517061553254110074721234477953828149660737619534303852637778396316275749107/11986167707042439355090479745355247427590378171744938510732911865001462516627616720
+  | 6, 4 => 172700158881146687721172640811910407384075966784700668622385597436093506647049466396112581846499/57133030206140160992293917974329201218785563209528561518952095860786886111085741901637264219608
+  | 6, 5 => -13/2
+  | 6, 6 => 1
+  | 7, 0 => -3946103659940235586480/491650857456839745974727
+  | 7, 1 => -34622831454985827189343372085165616549621755/4616533020040752662937464571256721160491594
+  | 7, 2 => 629345487290773004208066778654630075692558951177432017228794287/273674571273371864397862172057913015296535739128658570058129108
+  | 7, 3 => 2987026582292976247742788505452556320158062929302914464670480903750512582333837841/342461934486926838716870849867292783645439376335569671735226053285756071903646192
+  | 7, 4 => -3350860664879847076981333962361399641120354020046100771525544081090874237387296933589678125000/1020232682252502874862391392398735736049742200170152884267001711799765823412245391100665432493
+  | 7, 5 => 91/2
+  | 7, 7 => 1
+  | 8, 0 => 228170651102924800000000/491650857456839745974727
+  | 8, 1 => 4787760852129261109418493544468144000000000/2308266510020376331468732285628360580245797
+  | 8, 2 => 626655198583298383926181935776276753064680559351863359200000000/68418642818342966099465543014478253824133934782164642514532277
+  | 8, 3 => 78334892007928146619822509938646242027617215239754443742045819209115579699062500/21403870905432927419804428116705798977839961020973104483451628330359754493977887
+  | 8, 4 => 56964631302957400308682677360143793899046018340783713115934249378544862035584047871024528125000/1020232682252502874862391392398735736049742200170152884267001711799765823412245391100665432493
+  | 8, 5 => -1547/2
+  | 8, 8 => 1
+  | _, _ => 0
+def pivots_17 : Fin 9 → ℚ := fun i =>
+  match i.val with
+  | 0 => 17579822539494988338529186390167/104857600000000000
+  | 1 => 357298881352564072724376539224699562576827163427/1952777611775239369224224768000000000000
+  | 2 => 7132438257883799186970984462630314526404490299236317488212446280419/10589218780048676828139438734965816729089198653440000000000
+  | 3 => 764567672612969600362833976756847845287421247630180265253375615588780790279384101527/4553944865988907823580426543043672574534354699100878605767268357120000000000
+  | 4 => 327993584784674896736635346350877153046895570190502280610114113324794914802979358539561829226742077/5479390951790829419469933597876684538327030021369114747763616852572097150458339072000000000000
+  | 5 => 9670059656402727573219555154447076358618182987506578229349447920117676330673762758147876668370922239589/13372393812820005681396336458448709039551180966070227884664444836901890600628982790234641956772249600
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data18
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_18 : Matrix (Fin 9) (Fin 9) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => -3559166385880423516847027379/41943040000000000
+  | 0, 1 => 43700029260178412251303173/3276800000000000
+  | 0, 2 => -157097886646298732847063351/41943040000000000
+  | 0, 3 => 45795850251189055946275347/20971520000000000
+  | 0, 4 => -15768543277252499592049191/5242880000000000
+  | 0, 5 => 15774590706413201698776741/2621440000000000
+  | 0, 6 => -111481601475376052708801013/13107200000000000
+  | 0, 7 => -58408977661685586058262139/1310720000000000
+  | 1, 0 => 43700029260178412251303173/3276800000000000
+  | 1, 1 => -81940194402186836366199549/26214400000000000
+  | 1, 2 => 5636036629375968042063837/5242880000000000
+  | 1, 3 => -2298714004872189626128407/5242880000000000
+  | 1, 4 => 297813059860269307535181/1638400000000000
+  | 1, 5 => -427966983073658698687017/3276800000000000
+  | 1, 6 => 460639052423449997118021/1638400000000000
+  | 1, 7 => 856489912851915268585659/327680000000000
+  | 2, 0 => -157097886646298732847063351/41943040000000000
+  | 2, 1 => 5636036629375968042063837/5242880000000000
+  | 2, 2 => -17038127051364859101889227/41943040000000000
+  | 2, 3 => 3236875371562490528333463/20971520000000000
+  | 2, 4 => 109159200441997398693/5242880000000000
+  | 2, 5 => -76974792598120601955771/524288000000000
+  | 2, 6 => 525900691396984091231043/2621440000000000
+  | 2, 7 => 166478085484275751174989/262144000000000
+  | 3, 0 => 45795850251189055946275347/20971520000000000
+  | 3, 1 => -2298714004872189626128407/5242880000000000
+  | 3, 2 => 3236875371562490528333463/20971520000000000
+  | 3, 3 => -152920142255560594957119/2097152000000000
+  | 3, 4 => 76480320836604209603463/2621440000000000
+  | 3, 5 => 34507713700153945513647/1310720000000000
+  | 3, 6 => -126720387057916007218863/1310720000000000
+  | 3, 7 => -293804443074929463225549/655360000000000
+  | 4, 0 => -15768543277252499592049191/5242880000000000
+  | 4, 1 => 297813059860269307535181/1638400000000000
+  | 4, 2 => 109159200441997398693/5242880000000000
+  | 4, 3 => 76480320836604209603463/2621440000000000
+  | 4, 4 => -59366777784768563477067/655360000000000
+  | 4, 5 => 50562764756881342854273/327680000000000
+  | 4, 6 => -141645844790470070219169/1638400000000000
+  | 4, 7 => -70438571087878610696079/163840000000000
+  | 5, 0 => 15774590706413201698776741/2621440000000000
+  | 5, 1 => -427966983073658698687017/3276800000000000
+  | 5, 2 => -76974792598120601955771/524288000000000
+  | 5, 3 => 34507713700153945513647/1310720000000000
+  | 5, 4 => 50562764756881342854273/327680000000000
+  | 5, 5 => -60223184109272615717979/163840000000000
+  | 5, 6 => 241267392281008969222347/819200000000000
+  | 5, 7 => 153598002652096074585513/81920000000000
+  | 6, 0 => -111481601475376052708801013/13107200000000000
+  | 6, 1 => 460639052423449997118021/1638400000000000
+  | 6, 2 => 525900691396984091231043/2621440000000000
+  | 6, 3 => -126720387057916007218863/1310720000000000
+  | 6, 4 => -141645844790470070219169/1638400000000000
+  | 6, 5 => 241267392281008969222347/819200000000000
+  | 6, 6 => -149658956021574385833447/819200000000000
+  | 6, 7 => -32035926190597582065813/16384000000000
+  | 7, 0 => -58408977661685586058262139/1310720000000000
+  | 7, 1 => 856489912851915268585659/327680000000000
+  | 7, 2 => 166478085484275751174989/262144000000000
+  | 7, 3 => -293804443074929463225549/655360000000000
+  | 7, 4 => -70438571087878610696079/163840000000000
+  | 7, 5 => 153598002652096074585513/81920000000000
+  | 7, 6 => -32035926190597582065813/16384000000000
+  | 7, 7 => -884740548279231685308267/40960000000000
+  | _, _ => 0
+def candidateZ_18 : Matrix (Fin 9) (Fin 9) ℚ := fun i j =>
+  match i.val, j.val with
+  | 1, 1 => 7846046208000
+  | 1, 7 => -858161304000
+  | 1, 8 => 16672848192000
+  | 2, 2 => 747242496000
+  | 2, 6 => -140107968000
+  | 2, 8 => 11115232128000
+  | 3, 3 => 201180672000
+  | 3, 5 => -47151720000
+  | 3, 6 => -163459296000
+  | 3, 7 => 643620978000
+  | 3, 8 => 4168212048000
+  | 4, 4 => 98761420800
+  | 4, 5 => -113164128000
+  | 4, 7 => 367783416000
+  | 5, 3 => -47151720000
+  | 5, 4 => -113164128000
+  | 5, 5 => 149313780000
+  | 5, 7 => -421418497500
+  | 5, 8 => -1736755020000
+  | 6, 2 => -140107968000
+  | 6, 3 => -163459296000
+  | 6, 6 => 329837508000
+  | 6, 7 => -1195296102000
+  | 6, 8 => -2084106024000
+  | 7, 1 => -858161304000
+  | 7, 3 => 643620978000
+  | 7, 4 => 367783416000
+  | 7, 5 => -421418497500
+  | 7, 6 => -1195296102000
+  | 7, 7 => 6169949911125
+  | 7, 8 => -1823592771000
+  | 8, 1 => 16672848192000
+  | 8, 2 => 11115232128000
+  | 8, 3 => 4168212048000
+  | 8, 5 => -1736755020000
+  | 8, 6 => -2084106024000
+  | 8, 7 => -1823592771000
+  | 8, 8 => 354298024080000
+  | _, _ => 0
+def lower_18 : Matrix (Fin 9) (Fin 9) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 1 => 1
+  | 2, 1 => -349137946238921854792/1525877070950641412829
+  | 2, 2 => 1
+  | 3, 1 => 2448474494275238057/871929754828937950188
+  | 3, 2 => -28272705865850687826561643980455827573/32289923184509364807145527796719201480
+  | 3, 3 => 1
+  | 4, 1 => -10834989514912180131/72660812902411495849
+  | 4, 2 => -979061977497069791996229265720311753/896942310680815689087375772131088930
+  | 4, 3 => -440685757333367566070661575038916090137433038690979892/629581877147636158092152188207568795896263505459777553
+  | 4, 4 => 1
+  | 5, 1 => 34030303649537365180/217982438707234487547
+  | 5, 2 => 12187338312118806997808062708304419093/8610646182535830615238807412458453728
+  | 5, 3 => 1955080829813198644410494898659162001703219742000324505/2518327508590544632368608752830275183585054021839110212
+  | 5, 4 => -134094910016360450773526967315269896725107554663849514202706685510965/109148753121288526125863247197819858970566946403445427530838707355024
+  | 5, 5 => 1
+  | 6, 1 => 157812974422168849522/1525877070950641412829
+  | 6, 2 => 45513952742062515426150455606615999639/64579846369018729614291055593438402960
+  | 6, 3 => -1097097007256332713510526764085515391074758346482444027/629581877147636158092152188207568795896263505459777553
+  | 6, 4 => 5868609758841276148633964435715850408866403574769391852020100000000/15917526496854576726688390216348729433207679683835791514913978155941
+  | 6, 5 => -156/35
+  | 6, 6 => 1
+  | 7, 1 => -65611877688532324320/72660812902411495849
+  | 7, 2 => -54377807926711122382500801023294698143/7175538485446525512699006177048711440
+  | 7, 3 => 2678724067668904800382475039040753287522149412899359696/629581877147636158092152188207568795896263505459777553
+  | 7, 4 => 992051781081002513030703127326879805091498553059561527576614111642545/436595012485154104503452988791279435882267785613781710123354829420096
+  | 7, 5 => 351/20
+  | 7, 7 => 1
+  | 8, 1 => 1832714240000000000/72660812902411495849
+  | 8, 2 => 86328815377143985393057963520000000/269082693204244706726212731639326679
+  | 8, 3 => 1430508497687333005102158111282728725862998579200000000/629581877147636158092152188207568795896263505459777553
+  | 8, 4 => 49883182950150847263388697703584728475364430385539830742170850000000/6821797070080532882866452949863741185660434150215339220677419209689
+  | 8, 5 => -442/5
+  | 8, 8 => 1
+  | _, _ => 0
+def pivots_18 : Fin 9 → ℚ := fun i =>
+  match i.val with
+  | 1 => 3340430247323221822626880023/838860800000000000
+  | 2 => 84153190555388693826262495905614664917139/297618689648277486997504000000000
+  | 3 => 27486915174388647026145272384954246060034968384868428186427/587820112727779370000302586023830441164800000000000
+  | 4 => 6579398154789361307939559277196232870110361943555737572149088472911120763/251832750859054463236860875283027518358505402183911021200000000000
+  | 5 => 7480414033596234167413017594446696521620202424169281059330524956670415242021/186280538660332417921473275217612559309767588528546862985964727219240960
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data19
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_19 : Matrix (Fin 10) (Fin 10) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => -22693099803596038799039320263/209715200000000000
+  | 0, 1 => 2702377258995069402702006051/104857600000000000
+  | 0, 2 => -75142211033583596476200627/8388608000000000
+  | 0, 3 => 14766383937965483058974739/4194304000000000
+  | 0, 4 => -5511147190592216732622063/5242880000000000
+  | 0, 5 => 7980474838179577610603727/13107200000000000
+  | 0, 6 => -114214449015342819092842893/13107200000000000
+  | 0, 7 => 15237169390990960795194813/262144000000000
+  | 1, 0 => 2702377258995069402702006051/104857600000000000
+  | 1, 1 => -333726928481320238730768903/52428800000000000
+  | 1, 2 => 48289254450191241887451051/20971520000000000
+  | 1, 3 => -10153357419755611709274627/10485760000000000
+  | 1, 4 => 908184765784913635277259/2621440000000000
+  | 1, 5 => -1019757214709519396489379/6553600000000000
+  | 1, 6 => 11402120818106472624739569/6553600000000000
+  | 1, 7 => -8025292448927789565871341/655360000000000
+  | 2, 0 => -75142211033583596476200627/8388608000000000
+  | 2, 1 => 48289254450191241887451051/20971520000000000
+  | 2, 2 => -37648602224655100714998963/41943040000000000
+  | 2, 3 => 9278879137014220083120771/20971520000000000
+  | 2, 4 => -1279464695992326165509187/5242880000000000
+  | 2, 5 => 488068742424207599021367/2621440000000000
+  | 2, 6 => -1577990685084360947348949/2621440000000000
+  | 2, 7 => 4397077893934901813915277/1310720000000000
+  | 3, 0 => 14766383937965483058974739/4194304000000000
+  | 3, 1 => -10153357419755611709274627/10485760000000000
+  | 3, 2 => 9278879137014220083120771/20971520000000000
+  | 3, 3 => -601273345026853390678479/2097152000000000
+  | 3, 4 => 5095867887885096310527/20971520000000
+  | 3, 5 => -66971412540394818930243/262144000000000
+  | 3, 6 => 423492380929481504822181/1310720000000000
+  | 3, 7 => -316097984120195393369253/655360000000000
+  | 4, 0 => -5511147190592216732622063/5242880000000000
+  | 4, 1 => 908184765784913635277259/2621440000000000
+  | 4, 2 => -1279464695992326165509187/5242880000000000
+  | 4, 3 => 5095867887885096310527/20971520000000
+  | 4, 4 => -38268821834268590378583/131072000000000
+  | 4, 5 => 120716948708384445134487/327680000000000
+  | 4, 6 => -96794549499067619556357/327680000000000
+  | 4, 7 => -152177568634600729759539/163840000000000
+  | 5, 0 => 7980474838179577610603727/13107200000000000
+  | 5, 1 => -1019757214709519396489379/6553600000000000
+  | 5, 2 => 488068742424207599021367/2621440000000000
+  | 5, 3 => -66971412540394818930243/262144000000000
+  | 5, 4 => 120716948708384445134487/327680000000000
+  | 5, 5 => -433804997186099031291183/819200000000000
+  | 5, 6 => 429290867351544749347797/819200000000000
+  | 5, 7 => 90088259697128585251359/81920000000000
+  | 6, 0 => -114214449015342819092842893/13107200000000000
+  | 6, 1 => 11402120818106472624739569/6553600000000000
+  | 6, 2 => -1577990685084360947348949/2621440000000000
+  | 6, 3 => 423492380929481504822181/1310720000000000
+  | 6, 4 => -96794549499067619556357/327680000000000
+  | 6, 5 => 429290867351544749347797/819200000000000
+  | 6, 6 => -1253076332636888755282287/819200000000000
+  | 6, 7 => 415758366080515083757131/81920000000000
+  | 7, 0 => 15237169390990960795194813/262144000000000
+  | 7, 1 => -8025292448927789565871341/655360000000000
+  | 7, 2 => 4397077893934901813915277/1310720000000000
+  | 7, 3 => -316097984120195393369253/655360000000000
+  | 7, 4 => -152177568634600729759539/163840000000000
+  | 7, 5 => 90088259697128585251359/81920000000000
+  | 7, 6 => 415758366080515083757131/81920000000000
+  | 7, 7 => -68818433127534301774563/1638400000000
+  | _, _ => 0
+def candidateZ_19 : Matrix (Fin 10) (Fin 10) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 12804747411456000
+  | 0, 8 => -50018544576000
+  | 0, 9 => 3801409387776000
+  | 1, 1 => 125536739328000
+  | 1, 7 => -1961511552000
+  | 1, 9 => 1425528520416000
+  | 2, 2 => 10461394944000
+  | 2, 6 => -245188944000
+  | 2, 7 => -3677834160000
+  | 2, 8 => 34735100400000
+  | 2, 9 => 475176173472000
+  | 3, 3 => 2414168064000
+  | 3, 5 => -75442752000
+  | 3, 6 => -1225944720000
+  | 3, 8 => 29177484336000
+  | 3, 9 => 118794043368000
+  | 4, 4 => 1265380704000
+  | 4, 5 => -678984768000
+  | 4, 6 => -1103350248000
+  | 4, 7 => 2574483912000
+  | 4, 8 => 9378477108000
+  | 5, 3 => -75442752000
+  | 5, 4 => -678984768000
+  | 5, 5 => 572107536000
+  | 5, 8 => -7641722088000
+  | 5, 9 => -29698510842000
+  | 6, 2 => -245188944000
+  | 6, 3 => -1225944720000
+  | 6, 4 => -1103350248000
+  | 6, 6 => 3544293753000
+  | 6, 7 => -6574128561000
+  | 6, 8 => -16933361445000
+  | 6, 9 => -29698510842000
+  | 7, 1 => -1961511552000
+  | 7, 2 => -3677834160000
+  | 7, 4 => 2574483912000
+  | 7, 6 => -6574128561000
+  | 7, 7 => 17439063642000
+  | 7, 8 => -19538493975000
+  | 7, 9 => -22273883131500
+  | 8, 0 => -50018544576000
+  | 8, 2 => 34735100400000
+  | 8, 3 => 29177484336000
+  | 8, 4 => 9378477108000
+  | 8, 5 => -7641722088000
+  | 8, 6 => -16933361445000
+  | 8, 7 => -19538493975000
+  | 8, 8 => 693290894546250
+  | 8, 9 => -14849255421000
+  | 9, 0 => 3801409387776000
+  | 9, 1 => 1425528520416000
+  | 9, 2 => 475176173472000
+  | 9, 3 => 118794043368000
+  | 9, 5 => -29698510842000
+  | 9, 6 => -29698510842000
+  | 9, 7 => -22273883131500
+  | 9, 8 => -14849255421000
+  | 9, 9 => 121635819624193875
+  | _, _ => 0
+def lower_19 : Matrix (Fin 10) (Fin 10) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 0 => -2961386467910644914/3436008051774471467006057
+  | 1, 1 => 1
+  | 2, 0 => 32868502091063334461/54976128828391543472096912
+  | 2, 1 => -382681628336533263172827585860911581922227/664405076952214538692620490978325294375408
+  | 2, 2 => 1
+  | 3, 0 => -12605880710080439027/54976128828391543472096912
+  | 3, 1 => 161737392301757251513277454079926045377115/664405076952214538692620490978325294375408
+  | 3, 2 => -50250215728550168294149709946214804555490003532691546631/1073340545827898416393588652894857493507658149711501015285
+  | 3, 3 => 1
+  | 4, 0 => -3030333728405132259/13744032207097885868024228
+  | 4, 1 => 160523298500011983288271819972957034094987/1328810153904429077385240981956650588750816
+  | 4, 2 => -2417829575181235969321246961770873991540939361714610356621/2146681091655796832787177305789714987015316299423002030570
+  | 4, 3 => -22965661866173979128366345222917969142808057833824257675971717421026667/17979035256509678741586586582984183445732267398041101641709395188613418
+  | 4, 4 => 1
+  | 5, 0 => -174152127966390163/6872016103548942934012114
+  | 5, 1 => 63173795145917582387221887164825763389205/1328810153904429077385240981956650588750816
+  | 5, 2 => 257381482090328304440332959885953020569008045379687613094/1073340545827898416393588652894857493507658149711501015285
+  | 5, 3 => 25609147132316783113580256703554979735227017555590674768001803342857627/26968552884764518112379879874476275168598401097061652462564092782920127
+  | 5, 4 => -179211548793387697380180474676542143193021577375388073863862434243516388587231255/822217327179269096824488745375019221164303403948976369565640125598119135841515624
+  | 5, 5 => 1
+  | 6, 0 => 37119364338609142477/48104112724842600538084798
+  | 6, 1 => -1383501467797740445417107983773565585170851/2325417769332750885424171718424138530313928
+  | 6, 2 => 16103069103965665259682055101994537939308667687238368458239/7513383820795288914755120570264002454553607047980507106995
+  | 6, 3 => -294804672437498922168256413775704224318702197343812657692819044881777563/1006825974364542009528848848647114272961006974290301691935726130562351408
+  | 6, 4 => -14448862161388126485759117178453977351373474575407922522472660616272942502486528287/7674028387006511570361894956833512730866831770190446115945974505582445267854145824
+  | 6, 5 => -1003184935151953416634223281268462615532647423841289158293770463036325500339108675798477289/320375745541799464072048113497256804323482244994208291721481509924111074377238562568353164
+  | 6, 6 => 1
+  | 7, 0 => -6140285291563728480/3436008051774471467006057
+  | 7, 1 => 891363664038882269233634801038604137294155/664405076952214538692620490978325294375408
+  | 7, 2 => -5842331865258346644158257101898369234067728509060109004448/1073340545827898416393588652894857493507658149711501015285
+  | 7, 3 => -49059253193772961329746664366615898786316214020069688969975906294068087/71916141026038714966346346331936733782929069592164406566837580754453672
+  | 7, 4 => 408866832458305351573659151621463148809590530760332785016532675145726508490254367/91357480797696566313832082819446580129367044883219596618404458399791015093501736
+  | 7, 5 => 83396419025943334833770561841527230337997496793868644429800348698404397416799524488175607/11441990912207123716858861196330600154410080178364581847195768211575395513472805806012613
+  | 7, 6 => -9
+  | 7, 7 => 1
+  | 8, 0 => -13421802836480000000000/3436008051774471467006057
+  | 8, 1 => -1295686998080400818447338374729600000000/41525317309513408668288780686145330898463
+  | 8, 2 => 134876713521216767239170334596868548136430347855078400000/214668109165579683278717730578971498701531629942300203057
+  | 8, 3 => 22634898736030881597541500320992524541650678016921698093845936794437500/26968552884764518112379879874476275168598401097061652462564092782920127
+  | 8, 4 => 6454554530171126601374164656915579337824189367448454919916324457545829979121008045/3288869308717076387297954981500076884657213615795905478262560502392476543366062496
+  | 8, 5 => -621851393826751641183301789624188289755277715016465090228859509403781493934936397535624347/45767963648828494867435444785322400617640320713458327388783072846301582053891223224050452
+  | 8, 6 => 85
+  | 8, 8 => 1
+  | 9, 0 => 1020057028074905600000000/3436008051774471467006057
+  | 9, 1 => 165789376611013204396971335065112850000000/41525317309513408668288780686145330898463
+  | 9, 2 => 3550303167275036238900210528190229417245897134919123200000/214668109165579683278717730578971498701531629942300203057
+  | 9, 3 => -58643223061267437284649920144160396796768331325378044053105571334328125/17979035256509678741586586582984183445732267398041101641709395188613418
+  | 9, 4 => 17464209939361954639662753282747761972857280764878129882714513507669482484305828555/730859846381572530510656662555572641034936359065756772947235667198328120748013888
+  | 9, 5 => -470528345714752654295653291172328016180092196620919391389024803430615333210287220043706969/91535927297656989734870889570644801235280641426916654777566145692603164107782446448100904
+  | 9, 6 => -1938
+  | 9, 9 => 1
+  | _, _ => 0
+def pivots_19 : Fin 10 → ℚ := fun i =>
+  match i.val with
+  | 0 => 2685376904705879952676290239320263/52428800000000000
+  | 1 => 1909040381322096342228407329403169208785883911201/351847224501705878221420236800000000000
+  | 2 => 3289640437299075230685203627170908148295369470509460482408212613/8708490224628066401551915299351105298437347737600000000
+  | 3 => 31790341360690220599246615736873511834817615024408596491303314623856765266711/137387589865970997298379347570541759168980243163072129956480000000000
+  | 4 => 33041728287192005333626007782733694299111342129019058009411009792301715357819127055517/115065825641661943946154154131098774052686511347463050506940129207125875200000
+  | 5 => 18501699305038919050160778554466580449681099648415528846915557198117414545285526988322395221/1539918688672284508730272474191165400040688954080936081271541817306765423139848192000
+  | 6 => 98048496096756067261891323132563398837289446263970298601171328383568919254762877516980741523513427/2130290671654562670193358884553188101475622200480969420277903027027855455599300571883075584000
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data20
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_20 : Matrix (Fin 10) (Fin 10) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => -864345790529147882613755097/1638400000000000
+  | 0, 1 => 21667622927027497262745903/204800000000000
+  | 0, 2 => -11712315275254254792460329/327680000000000
+  | 0, 3 => 665376664948039201360203/40960000000000
+  | 0, 4 => -316262058979922913891033/40960000000000
+  | 0, 5 => 5363979077413683764037/25600000000000
+  | 0, 6 => 1356924469605003889899309/102400000000000
+  | 0, 7 => -99760004425375579574289/2560000000000
+  | 1, 0 => 21667622927027497262745903/204800000000000
+  | 1, 1 => -23371021993295094552757323/819200000000000
+  | 1, 2 => 1943037668945799386453493/163840000000000
+  | 1, 3 => -1013982585631618048647201/163840000000000
+  | 1, 4 => 30613754919741298283979/10240000000000
+  | 1, 5 => 107082038149227953680869/102400000000000
+  | 1, 6 => -520977417754125297368403/51200000000000
+  | 1, 7 => 304457703228940211619669/10240000000000
+  | 2, 0 => -11712315275254254792460329/327680000000000
+  | 2, 1 => 1943037668945799386453493/163840000000000
+  | 2, 2 => -355964824312558132018347/65536000000000
+  | 2, 3 => 97684912586085571093347/32768000000000
+  | 2, 4 => -11858364672253510424013/8192000000000
+  | 2, 5 => -14013038479459638758139/20480000000000
+  | 2, 6 => 117196994897535165704091/20480000000000
+  | 2, 7 => -34211653005025978665183/2048000000000
+  | 3, 0 => 665376664948039201360203/40960000000000
+  | 3, 1 => -1013982585631618048647201/163840000000000
+  | 3, 2 => 97684912586085571093347/32768000000000
+  | 3, 3 => -54884862420967333061307/32768000000000
+  | 3, 4 => 333816883149802681629/409600000000
+  | 3, 5 => 8819254098389714698719/20480000000000
+  | 3, 6 => -35062147478835063928341/10240000000000
+  | 3, 7 => 20460760081953150590631/2048000000000
+  | 4, 0 => -316262058979922913891033/40960000000000
+  | 4, 1 => 30613754919741298283979/10240000000000
+  | 4, 2 => -11858364672253510424013/8192000000000
+  | 4, 3 => 333816883149802681629/409600000000
+  | 4, 4 => -405636934175189416161/1024000000000
+  | 4, 5 => -272920889814962733729/1280000000000
+  | 4, 6 => 4300425691175779286121/2560000000000
+  | 4, 7 => -627014474788464764001/128000000000
+  | 5, 0 => 5363979077413683764037/25600000000000
+  | 5, 1 => 107082038149227953680869/102400000000000
+  | 5, 2 => -14013038479459638758139/20480000000000
+  | 5, 3 => 8819254098389714698719/20480000000000
+  | 5, 4 => -272920889814962733729/1280000000000
+  | 5, 5 => -2024204103566300379339/12800000000000
+  | 5, 6 => 7072091643721157882829/6400000000000
+  | 5, 7 => -4132909998582898800267/1280000000000
+  | 6, 0 => 1356924469605003889899309/102400000000000
+  | 6, 1 => -520977417754125297368403/51200000000000
+  | 6, 2 => 117196994897535165704091/20480000000000
+  | 6, 3 => -35062147478835063928341/10240000000000
+  | 6, 4 => 4300425691175779286121/2560000000000
+  | 6, 5 => 7072091643721157882829/6400000000000
+  | 6, 6 => -51489116962575084283491/6400000000000
+  | 6, 7 => 15026634633786455969289/640000000000
+  | 7, 0 => -99760004425375579574289/2560000000000
+  | 7, 1 => 304457703228940211619669/10240000000000
+  | 7, 2 => -34211653005025978665183/2048000000000
+  | 7, 3 => 20460760081953150590631/2048000000000
+  | 7, 4 => -627014474788464764001/128000000000
+  | 7, 5 => -4132909998582898800267/1280000000000
+  | 7, 6 => 15026634633786455969289/640000000000
+  | 7, 7 => -8768897177979921681699/128000000000
+  | _, _ => 0
+def candidateZ_20 : Matrix (Fin 10) (Fin 10) ℚ := fun i j =>
+  match i.val, j.val with
+  | 1, 1 => 2134124568576000
+  | 1, 8 => -133382785536000
+  | 1, 9 => 3326233214304000
+  | 2, 2 => 156920924160000
+  | 2, 7 => -17163226080000
+  | 2, 9 => 2375880867360000
+  | 3, 3 => 31384184832000
+  | 3, 6 => -4413400992000
+  | 3, 7 => -21454032600000
+  | 3, 8 => 116709937344000
+  | 3, 9 => 1069146390312000
+  | 4, 4 => 14485008384000
+  | 4, 5 => -2263282560000
+  | 4, 6 => -11769069312000
+  | 4, 8 => 100037089152000
+  | 4, 9 => 237588086736000
+  | 5, 4 => -2263282560000
+  | 5, 5 => 5148967824000
+  | 5, 6 => -8091235152000
+  | 5, 7 => 10114043940000
+  | 5, 9 => -148492554210000
+  | 6, 3 => -4413400992000
+  | 6, 4 => -11769069312000
+  | 6, 5 => -8091235152000
+  | 6, 6 => 31384184832000
+  | 6, 7 => -21913761870000
+  | 6, 8 => -108373513248000
+  | 6, 9 => -267286597578000
+  | 7, 2 => -17163226080000
+  | 7, 3 => -21454032600000
+  | 7, 5 => 10114043940000
+  | 7, 6 => -21913761870000
+  | 7, 7 => 62791356127500
+  | 7, 8 => -182359277100000
+  | 7, 9 => -259861969867500
+  | 8, 1 => -133382785536000
+  | 8, 3 => 116709937344000
+  | 8, 4 => 100037089152000
+  | 8, 6 => -108373513248000
+  | 8, 7 => -182359277100000
+  | 8, 8 => 1921545754128000
+  | 8, 9 => -207889575894000
+  | 9, 1 => 3326233214304000
+  | 9, 2 => 2375880867360000
+  | 9, 3 => 1069146390312000
+  | 9, 4 => 237588086736000
+  | 9, 5 => -148492554210000
+  | 9, 6 => -267286597578000
+  | 9, 7 => -259861969867500
+  | 9, 8 => -207889575894000
+  | 9, 9 => 121494751697694375
+  | _, _ => 0
+def lower_20 : Matrix (Fin 10) (Fin 10) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 1 => 1
+  | 2, 1 => -35271522237113355/147707684316989588
+  | 2, 2 => 1
+  | 3, 1 => 13552063136396403/53711885206178032
+  | 3, 2 => -26951235569631035647864429672331/63363303569163631484444183694484
+  | 3, 3 => 1
+  | 4, 1 => -27845094595539873/147707684316989588
+  | 4, 2 => 6198614363370263024421143942010/15840825892290907871111045923621
+  | 4, 3 => -5488928522115734285223809582285965948253331084/7080288448599026212327340384223832181879775341
+  | 4, 4 => 1
+  | 5, 1 => -37369443052409085/295415368633979176
+  | 5, 2 => 32220490734518520519475982493591/126726607138327262968888367388968
+  | 5, 3 => -53485551765591815944753102349372532681677976141/70802884485990262123273403842238321818797753410
+  | 5, 4 => 155055478876273221503467781611480320610092472948218709/258592337393080717387838505162845046188018716700687080
+  | 5, 5 => 1
+  | 6, 1 => 69049063039899869/147707684316989588
+  | 6, 2 => -61957215264707741137696949969195/63363303569163631484444183694484
+  | 6, 3 => 8471070127087045295071733714616727047888131791/3453799243219037176745044089865283991160866020
+  | 6, 4 => -963366712386391410456130993466415229299535440762277583/387888506089621076081757757744267569282028075051030620
+  | 6, 5 => -13105986926343292700786978652372053726565753743555683428802/5846458902123404029581360979142345959067188987899263029263
+  | 6, 6 => 1
+  | 7, 1 => -94978031352709435/147707684316989588
+  | 7, 2 => 80006742500841326724882139142513/63363303569163631484444183694484
+  | 7, 3 => -324387224145991101150322110070575031860539967/93778654948331473010958150784421618303043382
+  | 7, 4 => 700049595221624343959385951934715978288822982291462173/310310804871696860865406206195414055425622460040824496
+  | 7, 5 => 18575780183308702392787205969949921234474746861647671946330/5846458902123404029581360979142345959067188987899263029263
+  | 7, 6 => -25/4
+  | 7, 7 => 1
+  | 8, 1 => -814956800000000/36926921079247397
+  | 8, 2 => -1816150174951180555904480000000/15840825892290907871111045923621
+  | 8, 3 => 3886390958787136362754813016561109161256000000/7080288448599026212327340384223832181879775341
+  | 8, 4 => 149213033060034671014822190201296242239403726466795399/25859233739308071738783850516284504618801871670068708
+  | 8, 5 => -14914416372581188314263682050497007718619371838980860090227/5846458902123404029581360979142345959067188987899263029263
+  | 8, 6 => 34
+  | 8, 8 => 1
+  | 9, 1 => 20947021200000000/36926921079247397
+  | 9, 2 => 251408737722295139958793710000000/15840825892290907871111045923621
+  | 9, 3 => 40984263831233174279840627463764636604961500000/7080288448599026212327340384223832181879775341
+  | 9, 4 => 10135444848994695812098617396521887108295239968439950737/413747739828929147820541608260552073900829946721099328
+  | 9, 5 => 283373911079042577971009958959443146653768064940636341714313/15590557072329077412216962611046255890845837301064701411368
+  | 9, 6 => -969/4
+  | 9, 9 => 1
+  | _, _ => 0
+def pivots_20 : Fin 10 → ℚ := fun i =>
+  match i.val with
+  | 1 => 28859857000887030552757323/819200000000000
+  | 2 => 66204466578727251847483047558206891697/55000970451126304768000000000
+  | 3 => 108500527995462094776803773196024729519269878176064369/64884022854823558640070844103151616000000000
+  | 4 => 205758115091506213711939562636087280358501374303133291938747/906276921420675355177899569180650519280611243648000
+  | 5 => 62025883457496784256180711274175290781140200177514623676486176031/1034369349572322869551354020651380184752074866802748320000
+  | 6 => 99280203996433602814754380959974749006154407584400647898000155432387/61592324236361787307523802907837060309514418967169190760960000
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data21
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_21 : Matrix (Fin 11) (Fin 11) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => -96711588542532735223983531/32768000000000
+  | 0, 1 => 57038851132594341185352177/163840000000000
+  | 0, 2 => -5636036476590197124447/327680000000
+  | 0, 3 => -1952083051117812873373113/32768000000000
+  | 0, 4 => 418641912860774562758799/4096000000000
+  | 0, 5 => -644220666819787412766411/4096000000000
+  | 0, 6 => 1256376941124933712895811/5120000000000
+  | 0, 7 => -135618250205634004439631/409600000000
+  | 1, 0 => 57038851132594341185352177/163840000000000
+  | 1, 1 => -44082193767443568976121883/819200000000000
+  | 1, 2 => 492577388419375083797973/40960000000000
+  | 1, 3 => -281862084701495601299997/163840000000000
+  | 1, 4 => -57918765188790724575357/20480000000000
+  | 1, 5 => 143714000293113981147417/20480000000000
+  | 1, 6 => -331513340018520454483689/25600000000000
+  | 1, 7 => 195188481739185067894761/10240000000000
+  | 2, 0 => -5636036476590197124447/327680000000
+  | 2, 1 => 492577388419375083797973/40960000000000
+  | 2, 2 => -16263180195796078115571/2048000000000
+  | 2, 3 => 53358620528514863973411/8192000000000
+  | 2, 4 => -6801410828588460561477/1024000000000
+  | 2, 5 => 1665119090212013288853/204800000000
+  | 2, 6 => -14227460106212415583521/1280000000000
+  | 2, 7 => 7041025764192505558473/512000000000
+  | 3, 0 => -1952083051117812873373113/32768000000000
+  | 3, 1 => -281862084701495601299997/163840000000000
+  | 3, 2 => 53358620528514863973411/8192000000000
+  | 3, 3 => -9444449794627227102723/1310720000000
+  | 3, 4 => 34389795345971868711909/4096000000000
+  | 3, 5 => -45427929111821472609393/4096000000000
+  | 3, 6 => 81562090823302666065489/5120000000000
+  | 3, 7 => -41788312207893754536033/2048000000000
+  | 4, 0 => 418641912860774562758799/4096000000000
+  | 4, 1 => -57918765188790724575357/20480000000000
+  | 4, 2 => -6801410828588460561477/1024000000000
+  | 4, 3 => 34389795345971868711909/4096000000000
+  | 4, 4 => -1046564151268430692359/102400000000
+  | 4, 5 => 7064452961983792435599/512000000000
+  | 4, 6 => -12849900797681178702471/640000000000
+  | 4, 7 => 6640967897736757856271/256000000000
+  | 5, 0 => -644220666819787412766411/4096000000000
+  | 5, 1 => 143714000293113981147417/20480000000000
+  | 5, 2 => 1665119090212013288853/204800000000
+  | 5, 3 => -45427929111821472609393/4096000000000
+  | 5, 4 => 7064452961983792435599/512000000000
+  | 5, 5 => -9636033814007219448291/512000000000
+  | 5, 6 => 17633221184266489332531/640000000000
+  | 5, 7 => -365961031875624676491/10240000000
+  | 6, 0 => 1256376941124933712895811/5120000000000
+  | 6, 1 => -331513340018520454483689/25600000000000
+  | 6, 2 => -14227460106212415583521/1280000000000
+  | 6, 3 => 81562090823302666065489/5120000000000
+  | 6, 4 => -12849900797681178702471/640000000000
+  | 6, 5 => 17633221184266489332531/640000000000
+  | 6, 6 => -32379448935674822168187/800000000000
+  | 6, 7 => 16838009783175354176403/320000000000
+  | 7, 0 => -135618250205634004439631/409600000000
+  | 7, 1 => 195188481739185067894761/10240000000000
+  | 7, 2 => 7041025764192505558473/512000000000
+  | 7, 3 => -41788312207893754536033/2048000000000
+  | 7, 4 => 6640967897736757856271/256000000000
+  | 7, 5 => -365961031875624676491/10240000000
+  | 7, 6 => 16838009783175354176403/320000000000
+  | 7, 7 => -8768897177979921681699/128000000000
+  | _, _ => 0
+def candidateZ_21 : Matrix (Fin 11) (Fin 11) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 4865804016353280000
+  | 0, 9 => -9503523469440000
+  | 0, 10 => 898082967862080000
+  | 1, 1 => 38414242234368000
+  | 1, 8 => -300111267456000
+  | 1, 10 => 349254487501920000
+  | 2, 2 => 2510734786560000
+  | 2, 7 => -29422673280000
+  | 2, 8 => -583549686720000
+  | 2, 9 => 7127642602080000
+  | 2, 10 => 124733745536400000
+  | 3, 3 => 439378587648000
+  | 3, 6 => -6865290432000
+  | 3, 7 => -154469034720000
+  | 3, 9 => 6652466428608000
+  | 3, 10 => 37420123660920000
+  | 4, 4 => 173820100608000
+  | 4, 5 => -3394923840000
+  | 4, 6 => -66201014880000
+  | 4, 7 => -154469034720000
+  | 4, 8 => 525194718048000
+  | 4, 9 => 3207439170936000
+  | 4, 10 => 6236687276820000
+  | 5, 4 => -3394923840000
+  | 5, 5 => 95057867520000
+  | 5, 6 => -121368527280000
+  | 5, 8 => 343877493960000
+  | 5, 10 => -3118343638410000
+  | 6, 3 => -6865290432000
+  | 6, 4 => -66201014880000
+  | 6, 5 => -121368527280000
+  | 6, 6 => 198480450168000
+  | 6, 8 => -447040742148000
+  | 6, 9 => -1930403204730000
+  | 6, 10 => -4677515457615000
+  | 7, 2 => -29422673280000
+  | 7, 3 => -154469034720000
+  | 7, 4 => -154469034720000
+  | 7, 7 => 481336545690000
+  | 7, 8 => -1422402361380000
+  | 7, 9 => -2672865975780000
+  | 7, 10 => -3897929548012500
+  | 8, 1 => -300111267456000
+  | 8, 2 => -583549686720000
+  | 8, 4 => 525194718048000
+  | 8, 5 => 343877493960000
+  | 8, 6 => -447040742148000
+  | 8, 7 => -1422402361380000
+  | 8, 8 => 6322135623804000
+  | 8, 9 => -2650592092648500
+  | 8, 10 => -2728550683608750
+  | 9, 0 => -9503523469440000
+  | 9, 2 => 7127642602080000
+  | 9, 3 => 6652466428608000
+  | 9, 4 => 3207439170936000
+  | 9, 6 => -1930403204730000
+  | 9, 7 => -2672865975780000
+  | 9, 8 => -2650592092648500
+  | 9, 9 => 241033113993672000
+  | 9, 10 => -1754068296605625
+  | 10, 0 => 898082967862080000
+  | 10, 1 => 349254487501920000
+  | 10, 2 => 124733745536400000
+  | 10, 3 => 37420123660920000
+  | 10, 4 => 6236687276820000
+  | 10, 5 => -3118343638410000
+  | 10, 6 => -4677515457615000
+  | 10, 7 => -3897929548012500
+  | 10, 8 => -2728550683608750
+  | 10, 9 => -1754068296605625
+  | 10, 10 => 102179740482167473125/2
+  | _, _ => 0
+def lower_21 : Matrix (Fin 11) (Fin 11) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 0 => -3739586273669637/107374408857605613959110
+  | 1, 1 => 1
+  | 2, 0 => 42917021151345/42949763543042245583644
+  | 2, 1 => -2754494102774409256708039938102406905/55101259836743085110111322759642888286
+  | 2, 2 => 1
+  | 3, 0 => 32603554581073/25264566790024850343320
+  | 3, 1 => 19736944274324808448714748250673702531/661215118040917021321335873115714659432
+  | 3, 2 => -28814354818578090714149102244859088577959391/135171633225332028090338934243100644999477932
+  | 3, 3 => 1
+  | 4, 0 => -1686576098456379/171799054172168982334576
+  | 4, 1 => 6947516762454988509449222023584027875/440810078693944680880890582077143106288
+  | 4, 2 => 111774107054151349634748526085288490733401633/270343266450664056180677868486201289998955864
+  | 4, 3 => -814361992613372078815560084061530396046441414931169/1241480910030216053577478080906334013659843205408662
+  | 4, 4 => 1
+  | 5, 0 => 3949985641446423/171799054172168982334576
+  | 5, 1 => -27562914327042743767342683176729852515/440810078693944680880890582077143106288
+  | 5, 2 => -199843734971752637295958956381809621516336367/270343266450664056180677868486201289998955864
+  | 5, 3 => 3635084314832807407670737096823288644793041676537775/2482961820060432107154956161812668027319686410817324
+  | 5, 4 => -11762578660290143002961524155303416403787334288613634446055/7140240565457511713334448562032166963891212442895758704532
+  | 5, 5 => 1
+  | 6, 0 => -6350527481042977/214748817715211227918220
+  | 6, 1 => 28069720902948540812738287817770730863/330607559020458510660667936557857329716
+  | 6, 2 => 483078044414662133376940376935141175982383745/540686532901328112361355736972402579997911728
+  | 6, 3 => -9332054263005462434092222127654035629551929659553663/4965923640120864214309912323625336054639372821634648
+  | 6, 4 => 28621014367806154276237251134932844661524344524402516614433/14280481130915023426668897124064333927782424885791517409064
+  | 6, 5 => -2521643197553287834812309698360522383524562167907761801910250473/1782723182987375871627803245970655706449461946171000734932853326
+  | 6, 6 => 1
+  | 7, 0 => 2109664577983545/85899527086084491167288
+  | 7, 1 => -1438319909238975908129989378416372815/20036821758815667312767753730779232104
+  | 7, 2 => -100253388196114199946281472255846144180996741/135171633225332028090338934243100644999477932
+  | 7, 3 => 12375583665247951196671712849896820706470439075673695/9931847280241728428619824647250672109278745643269296
+  | 7, 4 => -59577236123658401122530012013066481808505262394569657625815/28560962261830046853337794248128667855564849771583034818128
+  | 7, 5 => 1829075310857617709386248164728766045661953288082367227681358445/3565446365974751743255606491941311412898923892342001469865706652
+  | 7, 6 => -3789344048713596289788827118869104546566043125001683976933556642655/847987744905699066390032929775384688812915350304424007852946776316
+  | 7, 7 => 1
+  | 8, 0 => 91980000000/10737440885760561395911
+  | 8, 1 => -253715258217967370961553275950000000/27550629918371542555055661379821444143
+  | 8, 2 => -398624424849983184792966977318975752993506015/2162746131605312449445422947889610319991646912
+  | 8, 3 => -673933961202360291677386519725721825860313661519355/19863694560483456857239649294501344218557491286538592
+  | 8, 4 => 56478523870505941336981982628757993374237037496559269031763/57121924523660093706675588496257335711129699543166069636256
+  | 8, 5 => 41883691881200042654310739187058600564182845041103740969954511519/21392678195848510459533638951647868477393543354052008819194239912
+  | 8, 6 => 25315325874097613118136566301267759514083802076751642050268219707015/1695975489811398132780065859550769377625830700608848015705893552632
+  | 8, 7 => -119/10
+  | 8, 8 => 1
+  | 9, 0 => -1233621593590000000/631614169750621258583
+  | 9, 1 => -168878646683131688360719646525000000/27550629918371542555055661379821444143
+  | 9, 2 => 166198003030821228223514443827573517712588529/67585816612666014045169467121550322499738966
+  | 9, 3 => 521488036260118559948223123201671741114707738620088515/39727389120966913714479298589002688437114982573077184
+  | 9, 4 => 830211347585029173861237247955247045180241202440377136819011/114243849047320187413351176992514671422259399086332139272512
+  | 9, 5 => 74545061632926304019242939162748597843292006136030504893354932049/14261785463899006973022425967765245651595695569368005879462826608
+  | 9, 6 => -148874317888028894553369314529627974724210036763511905165406266414107/3391950979622796265560131719101538755251661401217696031411787105264
+  | 9, 7 => 2907/20
+  | 9, 9 => 1
+  | 10, 0 => 1981813099151655000000/10737440885760561395911
+  | 10, 1 => 347165973775158904689165895528262500000/27550629918371542555055661379821444143
+  | 10, 2 => 420529499754752051497112599939318321425224541057/8650984526421249797781691791558441279966587648
+  | 10, 3 => 997911185751593128723721594130614722031480817250471215/11350682605990546775565513882572196696318566449450624
+  | 10, 4 => -4075181008074170088866928631221058719537266348655119087649875/228487698094640374826702353985029342844518798172664278545024
+  | 10, 5 => 266308250544531215894463353288926370962615274655156953863701013887/28523570927798013946044851935530491303191391138736011758925653216
+  | 10, 6 => -902166246023909096592778923549092048117755890653318940795531098762805/6783901959245592531120263438203077510503322802435392062823574210528
+  | 10, 7 => -33915/8
+  | 10, 10 => 1
+  | _, _ => 0
+def pivots_21 : Fin 11 → ℚ := fun i =>
+  match i.val with
+  | 0 => 159443002280547058016234743983531/8192000000000
+  | 1 => 11399247882371797962848706613961254721586449049/64677290982463616878899200000000000
+  | 2 => 141232627880430997230888664300360595595770772862431/8014728703526266925107101492311692841600
+  | 3 => 66586929790164805496236403433874818688867803599314827175953/17301969052842499595563383583116882559933175296000
+  | 4 => 56813842778922157084402418710539193295096944427089335611491881663/11350682605990546775565513882572196696318566449450624000
+  | 5 => 368806512387088227905578664088173995206305444582688058368064871360573409/91395079237856149930680941594011737137807519269065711418009600
+  | 6 => 1140296001783246508096176269188676685849630816159197846184575254811978310261/28523570927798013946044851935530491303191391138736011758925653216000
+  | 7 => 43249709135952940118581859654013822366164026698816076284093184456070451365487/8683394507834358439833937200899939213444253187117301840414174989475840
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data22
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_22 : Matrix (Fin 11) (Fin 11) ℚ := fun i j =>
+  match i.val, j.val with
+  | _, _ => 0
+def candidateZ_22 : Matrix (Fin 11) (Fin 11) ℚ := fun i j =>
+  match i.val, j.val with
+  | 1, 1 => 729870602452992000
+  | 1, 9 => -25659513367488000
+  | 1, 10 => 798295971432960000
+  | 2, 2 => 42682491371520000
+  | 2, 8 => -2667655710720000
+  | 2, 10 => 598721978574720000
+  | 3, 3 => 6590678814720000
+  | 3, 7 => -540641621520000
+  | 3, 8 => -3501298120320000
+  | 3, 9 => 24946749107280000
+  | 3, 10 => 299360989287360000
+  | 4, 4 => 2259661307904000
+  | 4, 6 => -211843247616000
+  | 4, 7 => -1544690347200000
+  | 4, 9 => 25659513367488000
+  | 4, 10 => 99786996429120000
+  | 5, 5 => 1437750246240000
+  | 5, 6 => -970948218240000
+  | 5, 7 => -1274369536440000
+  | 5, 8 => 2751019951680000
+  | 5, 9 => 9800508577860000
+  | 6, 4 => -211843247616000
+  | 6, 5 => -970948218240000
+  | 6, 6 => 997428624192000
+  | 6, 9 => -9265935382704000
+  | 6, 10 => -37420123660920000
+  | 7, 3 => -540641621520000
+  | 7, 4 => -1544690347200000
+  | 7, 5 => -1274369536440000
+  | 7, 7 => 5440206316545000
+  | 7, 8 => -8534414168280000
+  | 7, 9 => -23387577288075000
+  | 7, 10 => -43656810937740000
+  | 8, 2 => -2667655710720000
+  | 8, 3 => -3501298120320000
+  | 8, 5 => 2751019951680000
+  | 8, 7 => -8534414168280000
+  | 8, 8 => 22841802023040000
+  | 8, 9 => -30292481058840000
+  | 8, 10 => -37420123660920000
+  | 9, 1 => -25659513367488000
+  | 9, 3 => 24946749107280000
+  | 9, 4 => 25659513367488000
+  | 9, 5 => 9800508577860000
+  | 9, 6 => -9265935382704000
+  | 9, 7 => -23387577288075000
+  | 9, 8 => -30292481058840000
+  | 9, 9 => 698765124659852250
+  | 9, 10 => -28065092745690000
+  | 10, 1 => 798295971432960000
+  | 10, 2 => 598721978574720000
+  | 10, 3 => 299360989287360000
+  | 10, 4 => 99786996429120000
+  | 10, 6 => -37420123660920000
+  | 10, 7 => -43656810937740000
+  | 10, 8 => -37420123660920000
+  | 10, 9 => -28065092745690000
+  | 10, 10 => 51071452523969377500
+  | _, _ => 0
+def lower_22 : Matrix (Fin 11) (Fin 11) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 1 => 1
+  | 2, 1 => 840/66737
+  | 2, 2 => 1
+  | 3, 1 => 1365/266948
+  | 3, 2 => 150800307/2039061058
+  | 3, 3 => 1
+  | 4, 1 => 59/66737
+  | 4, 2 => 47591523/2039061058
+  | 4, 3 => 15198870291372/93648863499905
+  | 4, 4 => 1
+  | 5, 1 => -45/97072
+  | 5, 2 => -68696727/20390610580
+  | 5, 3 => 660425774481/26756818142830
+  | 5, 4 => 154645157313363/764453665033535
+  | 5, 5 => 1
+  | 6, 1 => -93/266948
+  | 6, 2 => -713614293/81562442320
+  | 6, 3 => -59927368152/1101751335293
+  | 6, 4 => -1484762516855427/8408990315368885
+  | 6, 5 => -746190355712094625176/1223003674500472600219
+  | 6, 6 => 1
+  | 7, 1 => 805/4271168
+  | 7, 2 => 65693817/163124884640
+  | 7, 3 => -31148397247191/214054545142640
+  | 7, 4 => -68088830727895943/67271922522951080
+  | 7, 5 => -5355557626784774638047/4892014698001890400876
+  | 7, 6 => -1847528495687487453844185/575526667846139930071682
+  | 7, 7 => 1
+  | 8, 1 => 345/533896
+  | 8, 2 => -7443144957/81562442320
+  | 8, 3 => -6674712615021/11017513352930
+  | 8, 4 => 36395025913148901/67271922522951080
+  | 8, 5 => 8545737798499491261178/3669011023501417800657
+  | 8, 6 => 329641681800251111369765/50781764809953523241619
+  | 8, 7 => -408/49
+  | 8, 8 => 1
+  | 9, 1 => -1164591/17084672
+  | 9, 2 => 7220729277/163124884640
+  | 9, 3 => 507284045584347/88140106823440
+  | 9, 4 => 116125139366547324/8408990315368885
+  | 9, 5 => 63465354136001688316641/9784029396003780801752
+  | 9, 6 => -198922152416610445086139/33854509873302348827746
+  | 9, 7 => 2907/49
+  | 9, 9 => 1
+  | 10, 1 => 573685/266948
+  | 10, 2 => 30939714679041/1304999077120
+  | 10, 3 => 173420174307033/3147860957980
+  | 10, 4 => 3909404991384728899/134543845045902160
+  | 10, 5 => -7491126795250110445251/2446007349000945200438
+  | 10, 6 => -5331080780369311833373095/135418039493209395310984
+  | 10, 7 => -3876/7
+  | 10, 10 => 1
+  | _, _ => 0
+def pivots_22 : Fin 11 → ℚ := fun i =>
+  match i.val with
+  | 1 => 8918952831281493/4000
+  | 2 => 72436694902527501/485360
+  | 3 => 18082311934319207702127/652499538560
+  | 4 => 695854616241889310717511/66892045357075
+  | 5 => 38925040602836761141408803009/6115629320268280000
+  | 6 => 357191714080491816199102308268389/444728608909262763716000
+  | 7 => 29690453297529080152425914264867187/184168533710764777622938240
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Data23
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+def candidateY_23 : Matrix (Fin 12) (Fin 12) ℚ := fun i j =>
+  match i.val, j.val with
+  | _, _ => 0
+def candidateZ_23 : Matrix (Fin 12) (Fin 12) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 2248001455555215360000
+  | 0, 10 => -2195313921440640000
+  | 0, 11 => 252461100965673600000
+  | 1, 1 => 14597412049059840000
+  | 1, 9 => -57021140816640000
+  | 1, 11 => 100984440386269440000
+  | 2, 2 => 768284844687360000
+  | 2, 8 => -4501669011840000
+  | 2, 9 => -114042281633280000
+  | 2, 10 => 1746272437509600000
+  | 2, 11 => 37869165144851040000
+  | 3, 3 => 105450861035520000
+  | 3, 7 => -823834851840000
+  | 3, 8 => -24509086842240000
+  | 3, 10 => 1746272437509600000
+  | 3, 11 => 12623055048283680000
+  | 4, 4 => 31635258310656000
+  | 4, 6 => -308938069440000
+  | 4, 7 => -8341327874880000
+  | 4, 8 => -26259735902400000
+  | 4, 9 => 119744395714944000
+  | 4, 10 => 1010343338844840000
+  | 4, 11 => 3155763762070920000
+  | 5, 5 => 18896146093440000
+  | 5, 6 => -4854741091200000
+  | 5, 7 => -16991593819200000
+  | 5, 9 => 117606102934320000
+  | 5, 10 => 274414240180080000
+  | 6, 4 => -308938069440000
+  | 6, 5 => -4854741091200000
+  | 6, 6 => 8396495387280000
+  | 6, 7 => -11044535982480000
+  | 6, 8 => 13411222264440000
+  | 6, 10 => -202692336496650000
+  | 6, 11 => -788940940517730000
+  | 7, 3 => -823834851840000
+  | 7, 4 => -8341327874880000
+  | 7, 5 => -16991593819200000
+  | 7, 6 => -11044535982480000
+  | 7, 7 => 52725430517760000
+  | 7, 8 => -31292851950360000
+  | 7, 9 => -162153869197320000
+  | 7, 10 => -420976391185350000
+  | 7, 11 => -788940940517730000
+  | 8, 2 => -4501669011840000
+  | 8, 3 => -24509086842240000
+  | 8, 4 => -26259735902400000
+  | 8, 6 => 13411222264440000
+  | 8, 7 => -31292851950360000
+  | 8, 8 => 111009907368360000
+  | 8, 9 => -302924810588400000
+  | 8, 10 => -463853616213487500
+  | 8, 11 => -591705705388297500
+  | 9, 1 => -57021140816640000
+  | 9, 2 => -114042281633280000
+  | 9, 4 => 119744395714944000
+  | 9, 5 => 117606102934320000
+  | 9, 7 => -162153869197320000
+  | 9, 8 => -302924810588400000
+  | 9, 9 => 2530981340232345000
+  | 9, 10 => -414739703908530000
+  | 9, 11 => -394470470258865000
+  | 10, 0 => -2195313921440640000
+  | 10, 2 => 1746272437509600000
+  | 10, 3 => 1746272437509600000
+  | 10, 4 => 1010343338844840000
+  | 10, 5 => 274414240180080000
+  | 10, 6 => -202692336496650000
+  | 10, 7 => -420976391185350000
+  | 10, 8 => -463853616213487500
+  | 10, 9 => -414739703908530000
+  | 10, 10 => 101850365435360416875
+  | 10, 11 => -246544043911790625
+  | 11, 0 => 252461100965673600000
+  | 11, 1 => 100984440386269440000
+  | 11, 2 => 37869165144851040000
+  | 11, 3 => 12623055048283680000
+  | 11, 4 => 3155763762070920000
+  | 11, 6 => -788940940517730000
+  | 11, 7 => -788940940517730000
+  | 11, 8 => -591705705388297500
+  | 11, 9 => -394470470258865000
+  | 11, 10 => -246544043911790625
+  | 11, 11 => 25851868812458629565625
+  | _, _ => 0
+def lower_23 : Matrix (Fin 12) (Fin 12) ℚ := fun i j =>
+  match i.val, j.val with
+  | 0, 0 => 1
+  | 1, 0 => 345/1048577573743
+  | 1, 1 => 1
+  | 2, 0 => 465/4194310294972
+  | 2, 1 => 201963530395658/20166243897788951
+  | 2, 2 => 1
+  | 3, 0 => 30/1048577573743
+  | 3, 1 => 265290126005179/80664975591155804
+  | 3, 2 => 332148196734695751793/5894356643077481051949
+  | 3, 3 => 1
+  | 4, 0 => 51/16777241179888
+  | 4, 1 => 13434900159550/20166243897788951
+  | 4, 2 => 241839610991979869629/11788713286154962103898
+  | 4, 3 => 558748096498957863063676946/3854866416052307060169897565
+  | 4, 4 => 1
+  | 5, 0 => -33/16777241179888
+  | 5, 1 => -49432942720425/322659902364623216
+  | 5, 2 => 816842823598526230/5894356643077481051949
+  | 5, 3 => 271118458980709501504750913/7709732832104614120339795130
+  | 5, 4 => 183460604356060440272919394566095/912492775553114299235651205336958
+  | 5, 5 => 1
+  | 6, 0 => -75/67108964719552
+  | 6, 1 => -33161265757763/161329951182311608
+  | 6, 2 => -75878744617480952119/13472815184177099547312
+  | 6, 3 => -255914793917203570711756019/7709732832104614120339795130
+  | 6, 4 => -52629204745453498067759412062635/1824985551106228598471302410673916
+  | 6, 5 => -511161485774106343747899688487963641/4641715056261562091994311565431952959
+  | 6, 6 => 1
+  | 7, 0 => 15/33554482359776
+  | 7, 1 => 7340042978251/1290639609458492864
+  | 7, 2 => -53826474130765973461/31436568763079898943728
+  | 7, 3 => -2691513774959985657046702857/61677862656836912962718361040
+  | 7, 4 => -255301583103139618475404468620105/521424443173208170991800688763976
+  | 7, 5 => -244281606388753916638146875851511556239/204235462475508732047749708879005930196
+  | 7, 6 => -871270481830772945196296430021323257221815/389245422884705485467669569392415525492781
+  | 7, 7 => 1
+  | 8, 0 => 375/268435858878208
+  | 8, 1 => 4849086132973/20166243897788951
+  | 8, 2 => -126610091103297683417/31436568763079898943728
+  | 8, 3 => -4669321454807479672372261089/15419465664209228240679590260
+  | 8, 4 => -3350528227731030896574532676573595/3649971102212457196942604821347832
+  | 8, 5 => 7226761974529335135951529165505220457/51058865618877183011937427219751482549
+  | 8, 6 => 877517561683146974892250812004505270759033/389245422884705485467669569392415525492781
+  | 8, 7 => -2149485405922476109461327803218860087576451580/357288100994165292101443563021377816034441037
+  | 8, 8 => 1
+  | 9, 0 => 453/268435858878208
+  | 9, 1 => -37186155888609801/5162558437833971456
+  | 9, 2 => -3929759593855251397667/15718284381539949471864
+  | 9, 3 => 80235381091594789004152890837/308389313284184564813591805200
+  | 9, 4 => 42206482799880566588067552672544509/7299942204424914393885209642695664
+  | 9, 5 => 15206123889007365374367234449679334888503/2042354624755087320477497088790059301960
+  | 9, 6 => 1728414985718012732165744553875995649337544/648742371474509142446115948987359209154635
+  | 9, 7 => 47956834228992794970294642188728332076685865129/1786440504970826460507217815106889080172205185
+  | 9, 8 => -76/5
+  | 9, 9 => 1
+  | 10, 0 => -1048578357607/1073743435512832
+  | 10, 1 => 1394608297026685/2581279218916985728
+  | 10, 2 => 6184830591167510390475025/1508955300627835149298944
+  | 10, 3 => 292335005146257211435397680859/12335572531367382592543672208
+  | 10, 4 => 68391187533320405733068453811892445/2085697772692832683967202755055904
+  | 10, 5 => 3937712408681015175493709663951092602497/408470924951017464095499417758011860392
+  | 10, 6 => -12493830276507879648736028481970837666070573/1037987794359214627913785518379774734647416
+  | 10, 7 => -5525214534856393868865566110795649580988755063/51041157284880756014491937574482545147777291
+  | 10, 8 => 931/4
+  | 10, 10 => 1
+  | 11, 0 => 30146627830105/268435858878208
+  | 11, 1 => 278034133123027888827/20650233751335885824
+  | 11, 2 => 129823823892450334408582601/1508955300627835149298944
+  | 11, 3 => 143433987501531150697752909147377/986845802509390607403493776640
+  | 11, 4 => 164070244050457811766440819336418545/4171395545385665367934405510111808
+  | 11, 5 => -3474462440748244245422492818232190945903/148534881800369986943817970093822494688
+  | 11, 6 => 19983224049978600492936320204846726907812909/1037987794359214627913785518379774734647416
+  | 11, 7 => -190008968277167187380127733099574652696056726025/408329258279046048115935500595860361182218328
+  | 11, 8 => -33649/4
+  | 11, 11 => 1
+  | _, _ => 0
+def pivots_23 : Fin 12 → ℚ := fun i =>
+  match i.val with
+  | 0 => 3596807727106964372495493/400
+  | 1 => 2695083358684056754955880339/59918718499600
+  | 2 => 41460066632617412037005591462619/16132995118231160800
+  | 3 => 1687804688951660387226431508125931/3991945239756177643648
+  | 4 => 440474619464572437164875860934388795628693/3083893132841845648135918052000
+  | 5 => 17875786513703508084674654426461795282409857029/208569777269283268396720275505590400
+  | 6 => 161052762702264252299142605764190579764316339459883/7426744090018499347190898504691124734400
+  | 7 => 3104434579359970407545821546788921635658478795883201511/830390235487371702331028414703819787717932800
+  | 8 => 617253866866789232996626176408903607856598861326229375/816658516558092096231871001191720722364436656
+  | _ => 0
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_Certificate
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+
+def rows : List (ℕ × ℤ × List (ℕ × ℕ × ℤ)) :=
+  [(0, 7181518, [(0, 5, -849651), (0, 7, -2958744), (1, 5, 751659), (1, 6, -43084), (1, 7, -146216), (3, 2, 720949), (3, 5, -127514), (4, 2, 222437), (4, 3, -262822), (5, 3, -117700), (6, 1, -55024), (7, 1, -166049)]),
+   (1, -112991, [(0, 5, 142772), (0, 6, -142342), (0, 7, 527055), (0, 8, 50742), (1, 6, 197917), (1, 8, -18343), (2, 4, 5764), (2, 7, -21183), (3, 2, 75832), (3, 5, -6115), (4, 5, 2660), (5, 3, -9455), (6, 1, -27091), (6, 3, -3494), (7, 1, 479), (7, 2, -15331)]),
+   (1, -4247311, [(0, 5, -12207250), (0, 6, -14064191), (0, 7, -14063663), (0, 8, -15662679), (1, 6, 483831), (1, 8, 3987214), (2, 4, -814558), (2, 7, 888887), (3, 2, 966462), (3, 5, 145978), (4, 5, -171722), (5, 3, 34350), (6, 1, 389319), (6, 3, 97603), (7, 1, 412447), (7, 2, -53786)]),
+   (2, 3438746, [(1, 4, 6689266), (1, 5, 6620205), (1, 6, 6625065), (1, 7, 4969272), (1, 8, 4878238), (2, 7, -1387380), (3, 6, -586188), (3, 7, 344087), (4, 2, -1120634), (4, 5, -318530), (4, 6, 559169), (5, 5, 157455), (6, 1, 1207103), (6, 3, 211617), (6, 4, 33240), (7, 1, 577001), (7, 3, -142578)]),
+   (5, -98645, [(0, 5, -2719776), (0, 8, -8519913), (1, 4, -949523), (1, 7, -1952105), (1, 8, -1562606), (2, 8, -8919966), (3, 2, 248826), (3, 5, -1017623), (3, 7, 3656005), (3, 8, -2081871), (4, 2, -33163), (4, 3, -305905), (4, 6, 35677), (4, 7, -1320749), (4, 8, -1040378), (5, 3, 502094), (5, 5, 1060633), (5, 8, -998003), (6, 1, -113617), (6, 3, 184919), (6, 4, 209239), (6, 5, -68198), (6, 7, -266297), (7, 2, -606696), (7, 3, -563620), (7, 4, 437345), (7, 6, -432189)]),
+   (5, -3160276, [(0, 5, -1698129), (0, 8, 10575875), (1, 4, -252576), (1, 7, -8002616), (1, 8, 22592844), (2, 8, 7370640), (3, 2, 289294), (3, 5, 1400647), (3, 7, 1987740), (3, 8, 4030699), (4, 2, -1731401), (4, 3, -1034062), (4, 6, -1106371), (4, 7, -1257051), (4, 8, 1461735), (5, 3, 1408149), (5, 5, 1136847), (5, 8, 1878501), (6, 1, -2838516), (6, 3, -734099), (6, 4, 1062416), (6, 5, 11745), (6, 7, 611312), (7, 2, -480776), (7, 3, 20459), (7, 4, 316925), (7, 6, 37092)]),
+   (7, 1441784, [(0, 7, 3441286), (0, 8, -6097155), (3, 7, -1002399), (4, 7, -251321), (5, 8, 1143225), (6, 6, -17397), (7, 1, -1007464), (7, 3, -662286), (7, 6, -344621), (7, 8, -1115284)])]
+
+def U (c z T p : ℕ) : ℤ :=
+  if z ≤ T ∧ p ≤ T then
+    (((List.range (min p z + 1)).filter (fun h => p + z ≤ T + h)).map
+      (fun h => (-1 : ℤ) ^ (z-h) * (Nat.choose z h : ℤ) *
+        (Nat.choose (T-z) (p-h) : ℤ) * (c : ℤ) ^ (p-h))).sum
+  else 0
+
+def X (entries : List (ℕ × ℕ × ℤ)) (z T : ℕ) : ℤ :=
+  (entries.map (fun (p,j,a) => if p+j = T then a * U 2 z T p else 0)).sum
+
+def e (z : ℕ) : ℚ :=
+  (rows.map (fun (t,ell,entries) =>
+    (((List.range 16).filter (fun T => max z t ≤ T)).map (fun T =>
+      ((2 : ℚ)^z * (Nat.choose T z : ℚ) /
+        ((3 : ℚ)^T * (2 : ℚ)^t * (Nat.choose T t : ℚ))) *
+        (X entries z T : ℚ) *
+        ((X entries z T : ℚ) + 2 * (ell : ℚ) * (U 2 z T t : ℚ)))).sum)).sum /
+          (10^14 : ℚ)
+
+def limitBound (z : ℕ) : ℚ := (3/2 : ℚ) * (3 * (z : ℚ) - 1) * (-1/2 : ℚ)^z
+
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Basic
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+open scoped BigOperators Matrix
+
+def V (r D T p j k : ℕ) : ℤ :=
+  if r ≤ j+k then U 1 r (j+k) j * U 1 (D-r) (T-r) p else 0
+
+def yEntry (D r s t : ℕ) (e f : ℕ × ℕ × ℤ) : ℚ :=
+  let (p,j,a) := e
+  let (q,l,b) := f
+  let i := p+j-t
+  let k := q+l-t
+  let T := p+j+k
+  if D ≤ T then
+    (a : ℚ) * (b : ℚ) * (V r D T p j k : ℚ) * (V s D T q l i : ℚ) *
+    (2 : ℚ) ^ (1-2*(T : ℤ)+(p : ℤ)+(q : ℤ)-(t : ℤ)+((r+s)/2 : ℕ)) *
+    ((i.factorial : ℚ) * (k.factorial : ℚ) * (t.factorial : ℚ) /
+      ((T-D).factorial : ℚ))
+  else 0
+
+def yRow (D r s : ℕ) (row : ℕ × ℤ × List (ℕ × ℕ × ℤ)) : ℚ :=
+  (row.2.2.map (fun e => (row.2.2.map (fun f => yEntry D r s row.1 e f)).sum)).sum
+
+def Y (D r s : ℕ) : ℚ :=
+  -(rows.map (yRow D r s)).sum / (10^14 : ℚ)
+
+def quadruples (D : ℕ) : List (ℕ × ℕ × ℕ × ℕ) :=
+  (List.range (D+2)).flatMap (fun a =>
+    (List.range (D+2)).flatMap (fun b =>
+      (List.range (D+2)).filterMap (fun c =>
+        let d := D+1-a-b-c
+        if a < b ∧ b < c ∧ c < d ∧ a+b+c ≤ D+1 then some (a,b,c,d) else none)))
+
+def L (D r : ℕ) (A : ℕ × ℕ × ℕ × ℕ) : ℚ :=
+  let (a,b,c,d) := A
+  let term := fun (x y j k : ℕ) => ((x : ℤ)-(y : ℤ)) *
+    ((x+y-1).factorial : ℤ) * (j.factorial : ℤ) * (k.factorial : ℤ) *
+      V r D D (x+y-1) j k
+  (2 : ℚ)^(((1 : ℤ)-2*(D : ℤ)+(r : ℤ))/2) *
+    ((term a b c d - term a c b d + term a d b c + term b c a d -
+      term b d a c + term c d a b : ℤ) : ℚ)
+
+def Z (D r s : ℕ) : ℚ :=
+  ((quadruples D).map (fun A =>
+    let (a,b,c,d) := A
+    L D r A * L D s A /
+      ((a.factorial : ℚ)*(b.factorial : ℚ)*(c.factorial : ℚ)*(d.factorial : ℚ)))).sum
+
+def copyLabel {D : ℕ} (i : Fin ((D+1)/2)) : ℕ := 2*i.val+1
+
+def gramRational (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℚ :=
+  fun i j => Z D (copyLabel i) (copyLabel j)
+
+def errorRational (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℚ :=
+  fun i j => Y D (copyLabel i) (copyLabel j)
+
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Matrix
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+open scoped Matrix
+
+def copyWeight (D : ℕ) (i : Fin ((D+1)/2)) : ℚ :=
+  1 / ((copyLabel i).factorial * (D-copyLabel i).factorial : ℕ)
+
+def middleRational (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℚ :=
+  Matrix.diagonal (fun i => ((if copyLabel i = 1 then 2 else 0) + (3/10^6 : ℚ)) *
+    copyWeight D i) - Matrix.diagonal (copyWeight D) * errorRational D *
+      Matrix.diagonal (copyWeight D)
+
+def compressedRational (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℚ :=
+  gramRational D * middleRational D * gramRational D
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_LDLData08
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+open scoped Matrix
+def lower_8 : Matrix (Fin 4) (Fin 4) ℚ :=
+  !![1, 0, 0, 0;
+    0, 1, 0, 0;
+    0, -1, 1, 0;
+    0, 7/4, 0, 1]
+def pivots_8 : Fin 4 → ℚ :=
+  ![0, 38057801156652456127253649/187904819200000000000000, 0, 0]
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Positive05
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+open scoped Matrix
+
+def lowerFive : Matrix (Fin 3) (Fin 3) ℚ :=
+  !![1, 0, 0; -1/2, 1, 0; 5/4, 0, 1]
+
+def pivotsFive : Fin 3 → ℚ :=
+  ![56737668577815655510619653/300647710720000000000000, 0, 0]
+
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Fast
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+
+def yEntryFast (D r s t : ℕ) (e f : ℕ × ℕ × ℤ) : ℚ :=
+  let (p,j,a) := e
+  let (q,l,b) := f
+  let i := p+j-t
+  let k := q+l-t
+  let T := p+j+k
+  if D ≤ T then
+    let vr := V r D T p j k
+    let vs := V s D T q l i
+    if vr = 0 ∨ vs = 0 then 0 else
+      ((a*b*vr*vs*(i.factorial : ℤ)*(k.factorial : ℤ)*(t.factorial : ℤ) : ℤ) : ℚ) *
+        (2 : ℚ) ^ (1-2*(T : ℤ)+(p : ℤ)+(q : ℤ)-(t : ℤ)+((r+s)/2 : ℕ)) /
+        ((T-D).factorial : ℚ)
+  else 0
+
+def yRowFast (D r s : ℕ) (row : ℕ × ℤ × List (ℕ × ℕ × ℤ)) : ℚ :=
+  (row.2.2.map (fun e => (row.2.2.map (fun f => yEntryFast D r s row.1 e f)).sum)).sum
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FiniteFlux_Positive07
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+open scoped Matrix
+def lower_7 : Matrix (Fin 4) (Fin 4) ℚ :=
+  !![1, 0, 0, 0;
+    0, 1, 0, 0;
+    -1/4, 0, 1, 0;
+    7/4, 0, 0, 1]
+def pivots_7 : Fin 4 → ℚ :=
+  ![4554569876705321270859037803/751619276800000000000000, 0, 0, 0]
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_Creation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+theorem occupation_singleton (Q : ℕ) (i : Fin (Q+1)) :
+    occupationBasis Q {i} = ExteriorAlgebra.ι ℂ (mode i) := by
+  let A : Set.powersetCard (Fin (Q+1)) 1 := ⟨{i},Finset.card_singleton i⟩
+  have hi : Set.powersetCard.ofFinEmbEquiv.symm A 0 = i := by
+    have hm := (Set.powersetCard.mem_range_ofFinEmbEquiv_symm_iff_mem A
+      (Set.powersetCard.ofFinEmbEquiv.symm A 0)).mp ⟨0,rfl⟩
+    exact Finset.mem_singleton.mp hm
+  change (Pi.basisFun ℂ (Fin (Q+1))).ExteriorAlgebra A.val = _
+  rw [ExteriorAlgebra.basis_apply_powersetCard]
+  simp only [ExteriorAlgebra.ιMulti_family, ExteriorAlgebra.ιMulti_succ_apply,
+    ExteriorAlgebra.ιMulti_zero_apply, mul_one, Function.comp_apply, hi]
+  simp [Pi.basisFun_apply, mode]
+
+theorem create_unoccupied_sign (Q : ℕ) (i : Fin (Q+1))
+    (A : Finset (Fin (Q+1))) (hi : i ∉ A) :
+    ∃ ε : ℂ, (ε = 1 ∨ ε = -1) ∧
+      create i (occupationBasis Q A) = ε • occupationBasis Q (insert i A) := by
+  let S : Set.powersetCard (Fin (Q+1)) 1 := ⟨{i},Finset.card_singleton i⟩
+  let T : Set.powersetCard (Fin (Q+1)) A.card := ⟨A,rfl⟩
+  have hd : Disjoint S.val T.val := by simpa [S,T] using hi
+  have h := ExteriorAlgebra.basis_mul_of_disjoint (Pi.basisFun ℂ (Fin (Q+1))) S T hd
+  rcases Int.units_eq_one_or (Set.powersetCard.permOfDisjoint hd).sign with hs | hs
+  · refine ⟨1,Or.inl rfl,?_⟩
+    simpa [hs,S,T,occupationBasis,Set.powersetCard.disjUnion,
+      ← occupation_singleton Q i, create] using h
+  · refine ⟨-1,Or.inr rfl,?_⟩
+    simpa [hs,S,T,occupationBasis,Set.powersetCard.disjUnion,
+      ← occupation_singleton Q i, create] using h
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_Adjoint
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+noncomputable def occupationInner (Q : ℕ) (x y : Space Q) : ℂ :=
+  ∑ A : Finset (Fin (Q+1)), star ((occupationBasis Q).repr x A) * (occupationBasis Q).repr y A
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_Bidegree
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+def OccupationBidegree (Q n w : ℕ) (x : Space Q) : Prop :=
+  ∀ A : Finset (Fin (Q+1)), (A.card ≠ n ∨ (∑ i ∈ A, i.val) ≠ w) →
+    (occupationBasis Q).repr x A = 0
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_TensorAction
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Rotation
+open scoped BigOperators Matrix
+
+abbrev SourceSU2 := Matrix.specialUnitaryGroup (Fin 2) ℂ
+
+end Laughlin.Rotation
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_HaarQuadratic
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation MeasureTheory
+open scoped BigOperators Matrix
+
+noncomputable def contractionForm {I : Type*} [Fintype I] (Q : ℕ)
+    (minus : I → Module.End ℂ (Space Q)) (M : Matrix I I ℂ) (x : Space Q) : ℂ :=
+  ∑ i, ∑ j, M i j * occupationInner Q (minus i x) (minus j x)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Quadruples
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+
+def quadTail (D a b : ℕ) :=
+  (List.range (D+2)).filterMap (fun c =>
+    let d := D+1-a-b-c
+    if a<b ∧ b < c ∧ c<d ∧ a+b+c≤D+1 then some (a,b,c,d) else none)
+
+theorem mem_quadTail (D a b x y z w : ℕ) :
+    (x,y,z,w) ∈ quadTail D a b ↔
+      x=a ∧ y=b ∧ a<b ∧ b<z ∧ z<w ∧ a+b+z+w=D+1 := by
+  simp only [quadTail,List.mem_filterMap,List.mem_range]
+  constructor
+  · rintro ⟨c,hc,he⟩
+    split_ifs at he with h
+    · simp only [Option.some.injEq,Prod.mk.injEq] at he
+      rcases he with ⟨rfl,rfl,rfl,rfl⟩
+      omega
+  · rintro ⟨rfl,rfl,hab,hbz,hzw,hs⟩
+    refine ⟨z,by omega,?_⟩
+    have hd : D+1-x-y-z=w := by omega
+    simp [hd,hab,hbz,hzw,show x+y+z≤D+1 by omega]
+
+theorem mem_quadruples (D a b c d : ℕ) :
+    (a,b,c,d) ∈ quadruples D ↔ a<b ∧ b < c ∧ c<d ∧ a+b+c+d=D+1 := by
+  change (a,b,c,d) ∈ (List.range (D+2)).flatMap
+    (fun x => (List.range (D+2)).flatMap (quadTail D x)) ↔ _
+  simp only [List.mem_flatMap,List.mem_range,mem_quadTail]
+  constructor
+  · rintro ⟨x,hx,y,hy,rfl,rfl,h⟩
+    exact h
+  · rintro ⟨hab,hbc,hcd,hs⟩
+    exact ⟨a,by omega,b,by omega,rfl,rfl,hab,hbc,hcd,hs⟩
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_Quadruple
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators
+
+abbrev FourOccupation (Q D : ℕ) :=
+  {A : Finset (Fin (Q+1)) // A.card=4 ∧ (∑ i ∈ A, i.val)=D+1}
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_NormalOrder
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+
+noncomputable def delta {Q : ℕ} (i j : Fin (Q+1)) : ℂ := if i = j then 1 else 0
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Highest2
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators
+
+noncomputable def ladder (A p : ℕ) : ℝ :=
+  Real.sqrt (((p : ℝ)+1)*(A-p : ℕ))
+
+noncomputable def highestRaw (A B z p : ℕ) : ℝ :=
+  if p ≤ z then (-1 : ℝ)^p * (z.choose p : ℝ) /
+    Real.sqrt ((A.choose p : ℝ)*(B.choose (z-p) : ℝ)) else 0
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_LadderMatrix
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators
+
+noncomputable def raiseMatrix (A : ℕ) : Matrix (Fin (A+1)) (Fin (A+1)) ℝ :=
+  fun i j => if i.val+1=j.val then ladder A i.val else 0
+
+noncomputable def totalRaise (A B : ℕ) :
+    Matrix (Fin (A+1) × Fin (B+1)) (Fin (A+1) × Fin (B+1)) ℝ := fun i j =>
+  raiseMatrix A i.1 j.1 * (if i.2=j.2 then 1 else 0) +
+    (if i.1=j.1 then 1 else 0)*raiseMatrix B i.2 j.2
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Pair_LadderIntertwining
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def pairInclusion (Q : ℕ) :
+    Matrix (Fin (Q+1) × Fin (Q+1)) (Fin ((2*Q-2)+1)) ℝ :=
+  fun i p => pairCoefficient Q p.val i.1 i.2
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_TripleLadderIntertwining
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix Kronecker
+
+abbrev Orbital (Q : ℕ) := Fin (Q+1)
+abbrev TripleIndex (Q : ℕ) := (Orbital Q × Orbital Q) × Orbital Q
+abbrev PairOrbitalIndex (Q : ℕ) := Fin ((2*Q-2)+1) × Orbital Q
+
+noncomputable def tripleInclusion (Q : ℕ) : Matrix (TripleIndex Q) (PairOrbitalIndex Q) ℝ :=
+  pairInclusion Q ⊗ₖ (1 : Matrix (Orbital Q) (Orbital Q) ℝ)
+
+def swap23 {Q : ℕ} (i : TripleIndex Q) : TripleIndex Q := ((i.1.1,i.2),i.1.2)
+
+@[simp] theorem swap23_involutive {Q : ℕ} (i : TripleIndex Q) : swap23 (swap23 i) = i := by
+  rcases i with ⟨⟨i,j⟩,k⟩; rfl
+
+noncomputable def swap23Matrix (Q : ℕ) : Matrix (TripleIndex Q) (TripleIndex Q) ℝ :=
+  fun i j => if swap23 i=j then 1 else 0
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_HighestSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators
+
+noncomputable def highestNorm (A B z : ℕ) : ℝ :=
+  Real.sqrt (∑ p ∈ Finset.range (z+1), (highestRaw A B z p)^2)
+
+noncomputable def highestUnit (A B z p : ℕ) : ℝ :=
+  highestRaw A B z p / highestNorm A B z
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_WeightSlice
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+abbrev SpinIndex (A B : ℕ) := Fin (A+1) × Fin (B+1)
+
+def weightSliceIndex (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (p : Fin (z+1)) : SpinIndex A B := (⟨p.val,by omega⟩,⟨z-p.val,by omega⟩)
+
+noncomputable def extendWeightSlice (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B)
+    (f : Fin (z+1) → ℝ) (i : SpinIndex A B) : ℝ :=
+  ∑ p, if weightSliceIndex A B z hA hB p=i then f p else 0
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Fock_RankOneHaar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation MeasureTheory
+open scoped BigOperators Matrix
+
+noncomputable def complexOuter {I : Type*} (v w : I → ℂ) : Matrix I I ℂ :=
+  fun i j => v i * star (w j)
+
+noncomputable def diagonalUnit {J : Type*} [DecidableEq J] (p : J) : Matrix J J ℂ :=
+  fun i j => if i=p ∧ j=p then 1 else 0
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Sl2DescendantNorm
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+variable {I : Type*} [Fintype I] [DecidableEq I]
+
+noncomputable def vectorNormSq (v : I → ℝ) : ℝ := ∑ i, (v i)^2
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Basic
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def genericHighest (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) :
+    SpinIndex A B → ℝ :=
+  extendWeightSlice A B z hA hB (fun p => highestUnit A B z p.val)
+
+noncomputable def genericDescendant (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) (n : ℕ) :
+    SpinIndex A B → ℝ :=
+  ((totalRaise A B)ᵀ ^ n) *ᵥ genericHighest A B z hA hB
+
+noncomputable def genericUnitDescendant (A B z : ℕ) (hA : z ≤ A) (hB : z ≤ B) (n : ℕ) :
+    SpinIndex A B → ℝ :=
+  (Real.sqrt (vectorNormSq (genericDescendant A B z hA hB n)))⁻¹ • genericDescendant A B z hA hB n
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Polynomial_OscillatorPolynomial
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators
+open Polynomial
+
+noncomputable def sqrtFactorial (n : ℕ) : ℝ := Real.sqrt (n.factorial : ℝ)
+noncomputable def monomialNormFactor (T p : ℕ) : ℝ := sqrtFactorial p * sqrtFactorial (T-p)
+
+noncomputable def couplingPolynomial (u v : ℝ) (z n : ℕ) : Polynomial ℝ :=
+  (C u * X-C v)^z * (C v * X+C u)^n
+
+noncomputable def couplingPolynomialCoefficient (u v : ℝ) (z n p : ℕ) : ℝ :=
+  (couplingPolynomial u v z n).coeff p * monomialNormFactor (z+n) p /
+    (sqrtFactorial z * sqrtFactorial n)
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_PhysicalCoupling
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped Topology
+open Filter
+
+noncomputable def physicalCouplingCoefficient (A B z T p : ℕ) : ℝ :=
+  if h : z ≤ T ∧ p ≤ T ∧ T ≤ A ∧ T ≤ B then
+    (-1 : ℝ)^z * genericUnitDescendant A B z (by omega) (by omega) (T-z)
+      (⟨p,by omega⟩,⟨T-p,by omega⟩)
+  else 0
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Coefficients
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def fourBodyCoefficient (Q r D T p j k : ℕ) : ℝ :=
+  if r ≤ j+k then Real.sqrt 2 * physicalCouplingCoefficient Q Q r (j+k) j *
+    physicalCouplingCoefficient (2*Q-2) (2*Q-2*r) (D-r) (T-r) p else 0
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_SpinCovariance
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix Kronecker
+
+noncomputable def swapCompression (Q : ℕ) : Matrix (PairOrbitalIndex Q) (PairOrbitalIndex Q) ℝ :=
+  (tripleInclusion Q)ᵀ * swap23Matrix Q * tripleInclusion Q
+
+noncomputable def threeGram (Q : ℕ) : Matrix (PairOrbitalIndex Q) (PairOrbitalIndex Q) ℝ :=
+  1 - (2 : ℝ) • swapCompression Q
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_HighestEigen
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def coupledHighest (Q z : ℕ) (hQ : 2 ≤ Q) (hz : z ≤ Q) : PairOrbitalIndex Q → ℝ :=
+  extendWeightSlice (2*Q-2) Q z (by omega) hz (fun p => highestUnit (2*Q-2) Q z p.val)
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_Descendants
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def coupledDescendant (Q z : ℕ) (hQ : 2 ≤ Q) (hz : z ≤ Q) (n : ℕ) :
+    PairOrbitalIndex Q → ℝ :=
+  ((totalRaise (2*Q-2) Q)ᵀ ^ n) *ᵥ coupledHighest Q z hQ hz
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_DescendantNorm
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+def coupledWeight (Q z : ℕ) : ℕ := 3*Q-2-2*z
+
+noncomputable def normalizedCoupledDescendant (Q z : ℕ) (hQ : 2 ≤ Q) (hz : z ≤ Q) (n : ℕ) :
+    PairOrbitalIndex Q → ℝ :=
+  (Real.sqrt (vectorNormSq (coupledDescendant Q z hQ hz n)))⁻¹ • coupledDescendant Q z hQ hz n
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_CoefficientLimit
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped Topology
+open Filter
+
+noncomputable def fourBodyLimitCoefficient (r D T p j k : ℕ) : ℝ :=
+  if r ≤ j+k then Real.sqrt 2 *
+    couplingPolynomialCoefficient (Real.sqrt (1/2)) (Real.sqrt (1/2)) r (j+k-r) j *
+    couplingPolynomialCoefficient (Real.sqrt (1/2)) (Real.sqrt (1/2)) (D-r) (T-D) p else 0
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_ErrorLimit
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped Topology
+open Filter
+
+noncomputable def sourceAlpha (t : ℕ) (e : ℕ × ℕ × ℤ) : ℝ :=
+  (e.2.2 : ℝ)/(10^7) * Real.sqrt ((2 : ℝ)^((e.1 : ℤ)-t) *
+    ((t.factorial : ℝ)*((e.1+e.2.1-t).factorial : ℝ) /
+      ((e.1.factorial : ℝ)*(e.2.1.factorial : ℝ))))
+
+noncomputable def fourErrorEntry (Q D r s t : ℕ) (e f : ℕ × ℕ × ℤ) : ℝ :=
+  let i := e.1+e.2.1-t
+  let k := f.1+f.2.1-t
+  let T := e.1+e.2.1+k
+  if D ≤ T then sourceAlpha t e * sourceAlpha t f *
+    fourBodyCoefficient Q r D T e.1 e.2.1 k * fourBodyCoefficient Q s D T f.1 f.2.1 i else 0
+
+noncomputable def fourErrorLimitEntry (D r s t : ℕ) (e f : ℕ × ℕ × ℤ) : ℝ :=
+  let i := e.1+e.2.1-t
+  let k := f.1+f.2.1-t
+  let T := e.1+e.2.1+k
+  if D ≤ T then sourceAlpha t e * sourceAlpha t f *
+    fourBodyLimitCoefficient r D T e.1 e.2.1 k * fourBodyLimitCoefficient s D T f.1 f.2.1 i else 0
+
+noncomputable def fourErrorRow (Q D r s : ℕ) (row : ℕ × ℤ × List (ℕ × ℕ × ℤ)) : ℝ :=
+  (row.2.2.map (fun e => (row.2.2.map (fun f => fourErrorEntry Q D r s row.1 e f)).sum)).sum
+noncomputable def fourErrorLimitRow (D r s : ℕ) (row : ℕ × ℤ × List (ℕ × ℕ × ℤ)) : ℝ :=
+  (row.2.2.map (fun e => (row.2.2.map (fun f => fourErrorLimitEntry D r s row.1 e f)).sum)).sum
+
+noncomputable def physicalFourError (Q D r s : ℕ) : ℝ :=
+  -(Certificate.rows.map (fourErrorRow Q D r s)).sum
+noncomputable def limitFourError (D r s : ℕ) : ℝ :=
+  -(Certificate.rows.map (fourErrorLimitRow D r s)).sum
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Integral
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+
+def arithmeticScale : ℚ := 2^64 * (Nat.factorial 24 : ℚ)
+
+def yEntryIntegral (D r s t : ℕ) (e f : ℕ × ℕ × ℤ) : ℤ :=
+  let (p,j,a) := e
+  let (q,l,b) := f
+  let i := p+j-t
+  let k := q+l-t
+  let T := p+j+k
+  if D ≤ T then
+    a*b*V r D T p j k*V s D T q l i *
+      (2 : ℤ)^((65-2*(T : ℤ)+(p : ℤ)+(q : ℤ)-(t : ℤ)+((r+s)/2 : ℕ)).toNat) *
+      (i.factorial : ℤ)*(k.factorial : ℤ)*(t.factorial : ℤ) *
+      ((24 : ℕ).descFactorial (24-(T-D)) : ℤ)
+  else 0
+
+def yRowIntegral (D r s : ℕ) (row : ℕ × ℤ × List (ℕ × ℕ × ℤ)) : ℤ :=
+  (row.2.2.map (fun e => (row.2.2.map (fun f => yEntryIntegral D r s row.1 e f)).sum)).sum
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_FastChoose
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+
+def UFast (c z T p : ℕ) : ℤ :=
+  if z ≤ T ∧ p ≤ T then
+    (((List.range (min p z + 1)).filter (fun h => p + z ≤ T + h)).map
+      (fun h => (-1 : ℤ) ^ (z-h) * (Nat.fast_choose z h : ℤ) *
+        (Nat.fast_choose (T-z) (p-h) : ℤ) * (c : ℤ) ^ (p-h))).sum
+  else 0
+
+def VFast (r D T p j k : ℕ) : ℤ :=
+  if r ≤ j+k then UFast 1 r (j+k) j * UFast 1 (D-r) (T-r) p else 0
+
+def yEntryIntegralFast (D r s t : ℕ) (e f : ℕ × ℕ × ℤ) : ℤ :=
+  let (p,j,a) := e
+  let (q,l,b) := f
+  let i := p+j-t
+  let k := q+l-t
+  let T := p+j+k
+  if D ≤ T then
+    a*b*VFast r D T p j k*VFast s D T q l i *
+      (2 : ℤ)^((65-2*(T : ℤ)+(p : ℤ)+(q : ℤ)-(t : ℤ)+((r+s)/2 : ℕ)).toNat) *
+      (i.factorial : ℤ)*(k.factorial : ℤ)*(t.factorial : ℤ) *
+      ((24 : ℕ).descFactorial (24-(T-D)) : ℤ)
+  else 0
+
+def yRowIntegralFast (D r s : ℕ) (row : ℕ × ℤ × List (ℕ × ℕ × ℤ)) : ℤ :=
+  (row.2.2.map (fun e => (row.2.2.map (fun f => yEntryIntegralFast D r s row.1 e f)).sum)).sum
+
+def LFast (D r : ℕ) (A : ℕ × ℕ × ℕ × ℕ) : ℚ :=
+  let (a,b,c,d) := A
+  let term := fun (x y j k : ℕ) => ((x : ℤ)-(y : ℤ)) *
+    ((x+y-1).factorial : ℤ) * (j.factorial : ℤ) * (k.factorial : ℤ) *
+      VFast r D D (x+y-1) j k
+  (2 : ℚ)^(((1 : ℤ)-2*(D : ℤ)+(r : ℤ))/2) *
+    ((term a b c d - term a c b d + term a d b c + term b c a d -
+      term b d a c + term c d a b : ℤ) : ℚ)
+
+def ZFast (D r s : ℕ) : ℚ :=
+  ((quadruples D).map (fun A =>
+    let (a,b,c,d) := A
+    LFast D r A * LFast D s A /
+      ((a.factorial : ℚ)*(b.factorial : ℚ)*(c.factorial : ℚ)*(d.factorial : ℚ)))).sum
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_RowCompute
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate.RowCompute
+
+def rows : List (ℕ × ℤ × List (ℕ × ℕ × ℤ)) :=
+  [(0, 7181518, [(0, 5, -849651), (0, 7, -2958744), (1, 5, 751659), (1, 6, -43084), (1, 7, -146216), (3, 2, 720949), (3, 5, -127514), (4, 2, 222437), (4, 3, -262822), (5, 3, -117700), (6, 1, -55024), (7, 1, -166049)]),
+   (1, -112991, [(0, 5, 142772), (0, 6, -142342), (0, 7, 527055), (0, 8, 50742), (1, 6, 197917), (1, 8, -18343), (2, 4, 5764), (2, 7, -21183), (3, 2, 75832), (3, 5, -6115), (4, 5, 2660), (5, 3, -9455), (6, 1, -27091), (6, 3, -3494), (7, 1, 479), (7, 2, -15331)]),
+   (1, -4247311, [(0, 5, -12207250), (0, 6, -14064191), (0, 7, -14063663), (0, 8, -15662679), (1, 6, 483831), (1, 8, 3987214), (2, 4, -814558), (2, 7, 888887), (3, 2, 966462), (3, 5, 145978), (4, 5, -171722), (5, 3, 34350), (6, 1, 389319), (6, 3, 97603), (7, 1, 412447), (7, 2, -53786)]),
+   (2, 3438746, [(1, 4, 6689266), (1, 5, 6620205), (1, 6, 6625065), (1, 7, 4969272), (1, 8, 4878238), (2, 7, -1387380), (3, 6, -586188), (3, 7, 344087), (4, 2, -1120634), (4, 5, -318530), (4, 6, 559169), (5, 5, 157455), (6, 1, 1207103), (6, 3, 211617), (6, 4, 33240), (7, 1, 577001), (7, 3, -142578)]),
+   (5, -98645, [(0, 5, -2719776), (0, 8, -8519913), (1, 4, -949523), (1, 7, -1952105), (1, 8, -1562606), (2, 8, -8919966), (3, 2, 248826), (3, 5, -1017623), (3, 7, 3656005), (3, 8, -2081871), (4, 2, -33163), (4, 3, -305905), (4, 6, 35677), (4, 7, -1320749), (4, 8, -1040378), (5, 3, 502094), (5, 5, 1060633), (5, 8, -998003), (6, 1, -113617), (6, 3, 184919), (6, 4, 209239), (6, 5, -68198), (6, 7, -266297), (7, 2, -606696), (7, 3, -563620), (7, 4, 437345), (7, 6, -432189)]),
+   (5, -3160276, [(0, 5, -1698129), (0, 8, 10575875), (1, 4, -252576), (1, 7, -8002616), (1, 8, 22592844), (2, 8, 7370640), (3, 2, 289294), (3, 5, 1400647), (3, 7, 1987740), (3, 8, 4030699), (4, 2, -1731401), (4, 3, -1034062), (4, 6, -1106371), (4, 7, -1257051), (4, 8, 1461735), (5, 3, 1408149), (5, 5, 1136847), (5, 8, 1878501), (6, 1, -2838516), (6, 3, -734099), (6, 4, 1062416), (6, 5, 11745), (6, 7, 611312), (7, 2, -480776), (7, 3, 20459), (7, 4, 316925), (7, 6, 37092)]),
+   (7, 1441784, [(0, 7, 3441286), (0, 8, -6097155), (3, 7, -1002399), (4, 7, -251321), (5, 8, 1143225), (6, 6, -17397), (7, 1, -1007464), (7, 3, -662286), (7, 6, -344621), (7, 8, -1115284)])]
+
+def UFast (c z T p : ℕ) : ℤ :=
+  if z ≤ T ∧ p ≤ T then
+    (((List.range (min p z + 1)).filter (fun h => p + z ≤ T + h)).map
+      (fun h => (-1 : ℤ) ^ (z-h) * (Nat.fast_choose z h : ℤ) *
+        (Nat.fast_choose (T-z) (p-h) : ℤ) * (c : ℤ) ^ (p-h))).sum
+  else 0
+
+def VFast (r D T p j k : ℕ) : ℤ :=
+  if r ≤ j+k then UFast 1 r (j+k) j * UFast 1 (D-r) (T-r) p else 0
+
+def yEntryIntegralFast (D r s t : ℕ) (e f : ℕ × ℕ × ℤ) : ℤ :=
+  let (p,j,a) := e
+  let (q,l,b) := f
+  let i := p+j-t
+  let k := q+l-t
+  let T := p+j+k
+  if D ≤ T then
+    a*b*VFast r D T p j k*VFast s D T q l i *
+      (2 : ℤ)^((65-2*(T : ℤ)+(p : ℤ)+(q : ℤ)-(t : ℤ)+((r+s)/2 : ℕ)).toNat) *
+      (i.factorial : ℤ)*(k.factorial : ℤ)*(t.factorial : ℤ) *
+      ((24 : ℕ).descFactorial (24-(T-D)) : ℤ)
+  else 0
+
+def yRowIntegralFast (D r s : ℕ) (row : ℕ × ℤ × List (ℕ × ℕ × ℤ)) : ℤ :=
+  (row.2.2.map (fun e => (row.2.2.map (fun f => yEntryIntegralFast D r s row.1 e f)).sum)).sum
+end Laughlin.Certificate.RowCompute
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_GramCompute
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate.GramCompute
+
+def quadruples (D : ℕ) : List (ℕ × ℕ × ℕ × ℕ) :=
+  (List.range (D+2)).flatMap (fun a =>
+    (List.range (D+2)).flatMap (fun b =>
+      (List.range (D+2)).filterMap (fun c =>
+        let d := D+1-a-b-c
+        if a < b ∧ b < c ∧ c < d ∧ a+b+c ≤ D+1 then some (a,b,c,d) else none)))
+
+def LFast (D r : ℕ) (A : ℕ × ℕ × ℕ × ℕ) : ℚ :=
+  let (a,b,c,d) := A
+  let term := fun (x y j k : ℕ) => ((x : ℤ)-(y : ℤ)) *
+    ((x+y-1).factorial : ℤ) * (j.factorial : ℤ) * (k.factorial : ℤ) *
+      RowCompute.VFast r D D (x+y-1) j k
+  (2 : ℚ)^(((1 : ℤ)-2*(D : ℤ)+(r : ℤ))/2) *
+    ((term a b c d - term a c b d + term a d b c + term b c a d -
+      term b d a c + term c d a b : ℤ) : ℚ)
+
+def ZFast (D r s : ℕ) : ℚ :=
+  ((quadruples D).map (fun A =>
+    let (a,b,c,d) := A
+    LFast D r A * LFast D s A /
+      ((a.factorial : ℚ)*(b.factorial : ℚ)*(c.factorial : ℚ)*(d.factorial : ℚ)))).sum
+end Laughlin.Certificate.GramCompute
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Polynomial_SourceIntegerPolynomial
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+open scoped BigOperators
+open Polynomial
+
+noncomputable def integerCouplingPolynomial (z n : ℕ) : Polynomial ℤ := (Polynomial.X-1)^z * (Polynomial.X+1)^n
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_TransferConjugation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Topology
+open Filter
+
+abbrev LocalFourIndex (D : ℕ) :=
+  {b : Fin (D+1) × Fin (D+1) × Fin (D+1) // b.1.val+b.2.1.val+b.2.2.val=D ∧ b.2.1 < b.2.2}
+
+noncomputable def physicalFourBeta (Q r D : ℕ) (b : LocalFourIndex D) : ℝ :=
+  fourBodyCoefficient Q r D D b.val.1.val b.val.2.1.val b.val.2.2.val *
+    pairFactor Q b.val.1.val / (modeFactor Q b.val.2.1.val * modeFactor Q b.val.2.2.val)
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Scaled
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+open scoped Matrix
+
+noncomputable def weightSqrtDiagonal (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℝ :=
+  Matrix.diagonal (fun i => Real.sqrt (copyWeight D i : ℝ))
+
+noncomputable def certificateDiagonal (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℝ :=
+  (Matrix.diagonal (fun i : Fin ((D+1)/2) =>
+    (if copyLabel i = 1 then 2 else 0) + (3/10^6 : ℚ))).map (Rat.castHom ℝ)
+
+noncomputable def scaledError (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℝ :=
+  weightSqrtDiagonal D * (errorRational D).map (Rat.castHom ℝ) * weightSqrtDiagonal D
+
+noncomputable def scaledGram (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℝ :=
+  weightSqrtDiagonal D * (gramRational D).map (Rat.castHom ℝ) * weightSqrtDiagonal D
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_PhysicalCertificate
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped Matrix
+
+noncomputable def physicalLimitError (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℝ :=
+  fun i j => Spin.limitFourError D (Certificate.copyLabel i) (Certificate.copyLabel j)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_MiddleLimit
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Matrix Topology
+open Filter Spin
+
+noncomputable def fourDimensionRatio (Q D : ℕ) : ℝ :=
+  (4*(Q : ℝ)-1-2*(D : ℝ))/(2*(Q : ℝ)-1)
+
+noncomputable def finiteFourMiddle (Q D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℝ :=
+  Matrix.diagonal (fun i : Fin ((D+1)/2) => (if Certificate.copyLabel i=1 then fourDimensionRatio Q D else 0) + (3/10^6 : ℝ)) -
+    Matrix.of (fun i j : Fin ((D+1)/2) => physicalFourError Q D (Certificate.copyLabel i) (Certificate.copyLabel j))
+
+noncomputable def limitFourMiddle (D : ℕ) : Matrix (Fin ((D+1)/2)) (Fin ((D+1)/2)) ℝ :=
+  Certificate.certificateDiagonal D - physicalLimitError D
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_CopyQuadraticMatrix
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Matrix
+open Matrix
+
+noncomputable def copyQuadraticMatrix {I J : Type*} [Fintype I]
+    (C : I → I → ℝ) (β : I → J → ℝ) : J → J → ℝ :=
+  fun a b => ∑ i, ∑ j, C i j * β i a * β j b
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Operators_MatrixMetricError
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Topology
+open Filter
+
+noncomputable def entrySum {I : Type*} [Fintype I] (R : I → I → ℝ) : ℝ := ∑ i, ∑ j, |R i j|
+
+noncomputable def matrixMetricError {I : Type*} [Fintype I] (L Q : ℕ) (R S : I → I → ℝ) : ℝ :=
+  entrySum (fun i j => R i j-S i j) + localMetricError L Q * entrySum R
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_TransferCoefficients
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Topology
+open Filter Spin
+
+noncomputable def finiteLocalFourMatrix (Q D : ℕ) : LocalFourIndex D → LocalFourIndex D → ℝ :=
+  copyQuadraticMatrix (finiteFourMiddle Q D)
+    (fun i b => physicalFourBeta Q (Certificate.copyLabel i) D b)
+
+noncomputable def limitLocalFourMatrix (D : ℕ) : LocalFourIndex D → LocalFourIndex D → ℝ :=
+  copyQuadraticMatrix (limitFourMiddle D)
+    (fun i b => fourBodyLimitCoefficient (Certificate.copyLabel i) D D
+      b.val.1.val b.val.2.1.val b.val.2.2.val)
+
+noncomputable def fourBodyRho (D Q : ℕ) : ℝ :=
+  matrixMetricError 24 Q (finiteLocalFourMatrix Q D) (limitLocalFourMatrix D) *
+    (Fintype.card (LocalFourIndex D) : ℝ)^2
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_UniformTransfer
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Topology
+open Filter Spin
+
+noncomputable def uniformFourBodyRho (Q : ℕ) : ℝ := ∑ D ∈ Finset.range 24, fourBodyRho D Q
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_HaarTransfer
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Rotation Spin MeasureTheory
+open scoped BigOperators Topology
+
+noncomputable def averagedFourTransferError (Q : ℕ) : ℝ := 24 * uniformFourBodyRho Q
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_Spin_Basis
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+abbrev CoupledIndex (Q : ℕ) := Σ z : Fin (Q+1), Fin (coupledWeight Q z.val+1)
+
+noncomputable def coupledBasisMatrix (Q : ℕ) (hQ : 2 ≤ Q) :
+    Matrix (PairOrbitalIndex Q) (CoupledIndex Q) ℝ := fun i s =>
+  normalizedCoupledDescendant Q s.1.val hQ (by omega) s.2.val i
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_SpinProjectors
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Matrix
+
+noncomputable def coupledSelector (Q : ℕ) (z : Fin (Q+1)) :
+    Matrix (CoupledIndex Q) (CoupledIndex Q) ℝ :=
+  Matrix.diagonal (fun s => if s.1=z then 1 else 0)
+
+noncomputable def threeSpinProjector (Q : ℕ) (hQ : 2 ≤ Q) (z : Fin (Q+1)) :
+    Matrix (PairOrbitalIndex Q) (PairOrbitalIndex Q) ℝ :=
+  coupledBasisMatrix Q hQ * coupledSelector Q z * (coupledBasisMatrix Q hQ)ᵀ
+
+end Laughlin.Spin
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_PhysicalKernel
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Matrix
+
+noncomputable def complexThreeGram (Q : ℕ) :
+    Matrix (Spin.PairOrbitalIndex Q) (Spin.PairOrbitalIndex Q) ℂ :=
+  fun a b => (Spin.threeGram Q a b : ℂ)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_IntegerPolynomial
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Certificate
+open scoped BigOperators
+open Polynomial
+
+noncomputable def weightedIntegerCouplingPolynomial (c z n : ℕ) : Polynomial ℤ :=
+  (Polynomial.X-1)^z * (C (c : ℤ)*Polynomial.X+1)^n
+
+end Laughlin.Certificate
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Square
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Spin
+open scoped BigOperators Matrix
+
+abbrev RowLevel (t : ℕ) := {T : Fin 16 // t ≤ T.val}
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_FourBody_Ungroup
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open Spin
+open scoped BigOperators Matrix
+
+noncomputable def boundedAnnihilate (Q n : ℕ) : Module.End ℂ (Space Q) :=
+  if h : n ≤ Q then annihilate ⟨n,by omega⟩ else 0
+
+end Laughlin.Fock
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ047_LA.Laughlin_ThreeBody_NullSectors
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Fock
+open scoped BigOperators Matrix
+
+noncomputable def complexThreeSpinProjector (Q : ℕ) (hQ : 2 ≤ Q) (z : Fin (Q+1)) :
+    Matrix (Spin.PairOrbitalIndex Q) (Spin.PairOrbitalIndex Q) ℂ :=
+  fun a b => (Spin.threeSpinProjector Q hQ z a b : ℂ)
+
+end Laughlin.Fock
+
+end OAI
+end
+
+
