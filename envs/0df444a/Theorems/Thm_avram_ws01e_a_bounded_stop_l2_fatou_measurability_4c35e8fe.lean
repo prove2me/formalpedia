@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_ws01e_a_bounded_stop_l2_fatou_measurability_4c35e8fe
 -- name    : avram_ws01e_a_bounded_stop_l2_fatou_measurability_4c35e8fe
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T15:12:16.954087+00:00
 -- url     : https://prove2.me/theorems/77cdf854-c55e-4e71-8811-d24496fb8fb2

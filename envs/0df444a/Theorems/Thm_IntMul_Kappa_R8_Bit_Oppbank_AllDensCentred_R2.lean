@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_AllDensCentred_R2
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.AllDensCentred_R2
--- status  : Open
+-- status  : Proved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T20:33:52.462298+00:00
 -- url     : https://prove2.me/theorems/e63d84c3-eb17-458b-874a-eb9c96b118c5

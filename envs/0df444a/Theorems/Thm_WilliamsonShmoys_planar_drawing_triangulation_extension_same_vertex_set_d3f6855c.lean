@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_extension_same_vertex_set_d3f6855c
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_extension_same_vertex_set_d3f6855c
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T18:46:03.929966+00:00
 -- url     : https://prove2.me/theorems/957bde25-6adc-4708-a09b-ebc3230d75e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBBV_RandomOracle_corollary_3_4
 -- name    : BBBV.RandomOracle.corollary_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:56:43.07825+00:00
 -- url     : https://prove2.me/theorems/012f8191-f06b-4a96-985f-ce21afead959

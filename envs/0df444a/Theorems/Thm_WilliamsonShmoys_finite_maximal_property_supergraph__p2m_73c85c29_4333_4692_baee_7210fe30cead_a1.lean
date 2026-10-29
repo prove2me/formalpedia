@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_maximal_property_supergraph__p2m_73c85c29_4333_4692_baee_7210fe30cead_a1
 -- name    : WilliamsonShmoys.finite_maximal_property_supergraph__p2m_73c85c29_4333_4692_baee_7210fe30cead_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:37:26.947015+00:00
 -- url     : https://prove2.me/theorems/94840855-3f80-4ebf-bea7-e02128c254e5

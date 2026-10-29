@@ -42597,7 +42597,7 @@
 {"parent": "AstromPOMDP_Reduction_Belief", "child": "AstromPOMDP_Reduction_Model", "via": ["statement"]}
 {"parent": "AstromPOMDP_Reduction_BeliefProcess", "child": "AstromPOMDP_Reduction_Belief", "via": ["statement"]}
 {"parent": "AstrophysicalFluidDynamics.rankine_hugoniot_shock_relations", "child": "AstrophysicalFluidDynamics_ShockDefs", "via": ["solution", "statement"]}
-{"parent": "AstrophysicalFluidDynamics.shock_compression_or_rarefaction", "child": "AstrophysicalFluidDynamics_ShockDefs", "via": ["statement"]}
+{"parent": "AstrophysicalFluidDynamics.shock_compression_or_rarefaction", "child": "AstrophysicalFluidDynamics_ShockDefs", "via": ["solution", "statement"]}
 {"parent": "AstrophysicalFluidDynamics.shock_density_ratio", "child": "AstrophysicalFluidDynamics_ShockDefs", "via": ["solution", "statement"]}
 {"parent": "AstrophysicalFluidDynamics.shock_downstream_mach_sq", "child": "AstrophysicalFluidDynamics_ShockDefs", "via": ["solution", "statement"]}
 {"parent": "AstrophysicalFluidDynamics.shock_entropy_jump", "child": "AstrophysicalFluidDynamics_ShockDefs", "via": ["solution", "statement"]}
@@ -75047,7 +75047,7 @@
 {"parent": "BBBV.RandomOracle.fails_one_of_close", "child": "BBBV_RandomOracle_QueryModel", "via": ["solution", "statement"]}
 {"parent": "BBBV.RandomOracle.prob_noInverse_ge", "child": "BBBV_RandomOracle_QueryModel", "via": ["solution", "statement"]}
 {"parent": "BBBV.RandomOracle.prob_uniqueInverse_ge", "child": "BBBV_RandomOracle_QueryModel", "via": ["solution", "statement"]}
-{"parent": "BBBV.RandomOracle.theorem_3_3", "child": "BBBV_RandomOracle_QueryModel", "via": ["statement"]}
+{"parent": "BBBV.RandomOracle.theorem_3_3", "child": "BBBV_RandomOracle_QueryModel", "via": ["solution", "statement"]}
 {"parent": "BBBV.RandomOracle.theorem_3_5", "child": "BBBV_RandomOracle_QueryModel", "via": ["solution", "statement"]}
 {"parent": "BBBV.RandomPermutation.expected_dist_le", "child": "BBBV_RandomPermutation_Chain", "via": ["solution", "statement"]}
 {"parent": "BBBV.RandomPermutation.expected_queryMag_le", "child": "BBBV_RandomPermutation_Chain", "via": ["solution", "statement"]}
@@ -75546,8 +75546,8 @@
 {"parent": "BalkemaDeHaan.LimitTypes.lemma_1", "child": "BalkemaDeHaan_LimitTypes_ResidualLife", "via": ["statement"]}
 {"parent": "BalkemaDeHaan.LimitTypes.lemma_2", "child": "BalkemaDeHaan_LimitTypes_LimitLaws", "via": ["statement"]}
 {"parent": "BalkemaDeHaan.LimitTypes.lemma_2", "child": "BalkemaDeHaan_LimitTypes_ResidualLife", "via": ["statement"]}
-{"parent": "BalkemaDeHaan.LimitTypes.theorem_1", "child": "BalkemaDeHaan_LimitTypes_LimitLaws", "via": ["statement"]}
-{"parent": "BalkemaDeHaan.LimitTypes.theorem_1", "child": "BalkemaDeHaan_LimitTypes_ResidualLife", "via": ["statement"]}
+{"parent": "BalkemaDeHaan.LimitTypes.theorem_1", "child": "BalkemaDeHaan_LimitTypes_LimitLaws", "via": ["solution", "statement"]}
+{"parent": "BalkemaDeHaan.LimitTypes.theorem_1", "child": "BalkemaDeHaan_LimitTypes_ResidualLife", "via": ["solution", "statement"]}
 {"parent": "BalkemaDeHaan.Moments.gamma_moment", "child": "BalkemaDeHaan_Moments_ResidualLife", "via": ["solution"]}
 {"parent": "BalkemaDeHaan.Moments.gamma_moment", "child": "BalkemaDeHaan_ParetoBounds_GammaLaw", "via": ["solution", "statement"]}
 {"parent": "BalkemaDeHaan.Moments.tail_moment_identity", "child": "BalkemaDeHaan_Moments_ResidualLife", "via": ["solution", "statement"]}

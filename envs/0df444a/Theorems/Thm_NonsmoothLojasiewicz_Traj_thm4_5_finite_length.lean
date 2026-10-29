@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Traj_thm4_5_finite_length
 -- name    : NonsmoothLojasiewicz.Traj.thm4_5_finite_length
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:37:44.994141+00:00
 -- url     : https://prove2.me/theorems/3ebf3a15-301b-4312-b793-e4b73e4e9210

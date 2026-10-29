@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_supergraph_with_property__p2m_fe6641dc_c570_459f_b36e_e7aed3590a75_a1__p2m_fe6641dc_c570_459f_b36e_e7aed3590a75_a2
 -- name    : WilliamsonShmoys.exists_maximal_supergraph_with_property__p2m_fe6641dc_c570_459f_b36e_e7aed3590a75_a1__p2m_fe6641dc_c570_459f_b36e_e7aed3590a75_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:32:07.644246+00:00
 -- url     : https://prove2.me/theorems/9ded64de-7a59-4a66-875b-3c7a1e0e31cc

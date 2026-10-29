@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-22T22:36:27.105296+00:00
 -- url     : https://prove2.me/submissions/0bc61145-bc40-4d9b-8119-cbd273174a7c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Defs
 import Mathlib.Data.ENNReal.Real

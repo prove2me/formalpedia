@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_drawable_supergraph__p2m_20afdcd4_5dba_470f_a57a_287711f6e0ce_a2
 -- name    : WilliamsonShmoys.exists_maximal_drawable_supergraph__p2m_20afdcd4_5dba_470f_a57a_287711f6e0ce_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:13:22.131989+00:00
 -- url     : https://prove2.me/theorems/afcb74a2-92ae-4444-9657-28f7f6cf41f5

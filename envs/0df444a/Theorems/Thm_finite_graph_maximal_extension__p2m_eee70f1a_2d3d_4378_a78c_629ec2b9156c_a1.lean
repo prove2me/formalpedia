@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_graph_maximal_extension__p2m_eee70f1a_2d3d_4378_a78c_629ec2b9156c_a1
 -- name    : finite_graph_maximal_extension__p2m_eee70f1a_2d3d_4378_a78c_629ec2b9156c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:20:06.270273+00:00
 -- url     : https://prove2.me/theorems/51f9d70f-43de-41d0-98ce-5eaffefb8172

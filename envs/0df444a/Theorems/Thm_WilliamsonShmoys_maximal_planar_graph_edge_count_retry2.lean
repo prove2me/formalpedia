@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_edge_count_retry2
 -- name    : WilliamsonShmoys.maximal_planar_graph_edge_count_retry2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:31:08.304984+00:00
 -- url     : https://prove2.me/theorems/d6680b41-3fc0-45fd-93b9-3599c9b9a53d

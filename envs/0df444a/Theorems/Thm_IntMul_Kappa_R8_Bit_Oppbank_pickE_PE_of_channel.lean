@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_pickE_PE_of_channel
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.pickE_PE_of_channel
--- status  : Open
+-- status  : Proved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T20:01:39.535985+00:00
 -- url     : https://prove2.me/theorems/b0170535-881c-46d9-9b83-81b3256d1643

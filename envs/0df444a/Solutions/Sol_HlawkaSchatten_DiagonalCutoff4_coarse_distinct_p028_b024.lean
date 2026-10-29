@@ -1,0 +1,1914 @@
+-- Prove2me | solution 1 for HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p028_b024
+-- status  : ACCEPTED   (prove)
+-- author  : @shivm
+-- created : 2026-10-29T02:21:24.130152+00:00
+-- url     : https://prove2.me/submissions/30eab29b-e8a7-4873-82dd-9ece36e099a6
+
+import Definitions.Def_HlawkaSchatten_DiagonalCutoff4_FiniteCharts
+import Definitions.Def_HlawkaSchatten_DiagonalCutoff4_Localization
+import Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_ordered_majorant
+import Mathlib.Analysis.Normed.Lp.PiLp
+import Mathlib.Analysis.SpecialFunctions.Pow.Continuity
+import Mathlib.Analysis.Convex.SpecificFunctions.Basic
+import Mathlib.Analysis.MeanInequalities
+import Mathlib.Data.Fin.VecNotation
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.LinearCombination
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.FinCases
+import Definitions.Def_HlawkaSchatten_GapComparison
+import Definitions.Def_HlawkaSchatten_DiagonalConstruction_Basic
+import Definitions.Def_HlawkaSchatten_DiagonalConstruction_Normalization
+import Definitions.Def_HlawkaSchatten_DiagonalCutoff6_Localization
+import Theorems.Thm_HlawkaSchatten_DiagonalCutoff6_signed_majorant
+/- Generic norm facts retain Apache-2.0 attribution to Ezzeri Esa,
+bwdaugherty and Yuxuan Xu. All new numerical implications are checked below. -/
+open HlawkaSchatten HlawkaSchatten.DiagonalConstruction
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+set_option maxRecDepth 10000
+set_option linter.unusedSimpArgs false
+namespace HlawkaSchatten.DiagonalConstruction
+
+variable {ι E : Type*} [Fintype ι] [NormedAddCommGroup E]
+
+/-- The coordinate `p`-norm is nonnegative. -/
+theorem lpNorm_nonneg (p : ℝ) (x : ι → E) : 0 ≤ lpNorm p x :=
+  Real.rpow_nonneg (Finset.sum_nonneg fun _ _ ↦ Real.rpow_nonneg (norm_nonneg _) _) _
+
+/-- The coordinate `p`-norm agrees with the `PiLp` norm. -/
+theorem lpNorm_eq_piLp {p : ℝ} (hp : 0 < p) (x : ι → E) :
+    lpNorm p x = ‖WithLp.toLp (ENNReal.ofReal p) x‖ := by
+  rw [PiLp.norm_eq_sum (by simpa only [ENNReal.toReal_ofReal hp.le] using hp)]
+  simp [lpNorm, ENNReal.toReal_ofReal hp.le]
+
+/-- The `p`-norm of zero is zero. -/
+@[simp]
+theorem lpNorm_zero {p : ℝ} (hp : 0 < p) : lpNorm p (0 : ι → E) = 0 := by
+  simp [lpNorm, hp.ne']
+
+/-- The `p`-norm is invariant under negation. -/
+@[simp]
+theorem lpNorm_neg (p : ℝ) (x : ι → E) : lpNorm p (-x) = lpNorm p x := by
+  simp [lpNorm]
+
+/-- Minkowski's inequality for the coordinate `p`-norm. -/
+theorem lpNorm_add {p : ℝ} (hp : 1 ≤ p) (x y : ι → E) :
+    lpNorm p (x + y) ≤ lpNorm p x + lpNorm p y := by
+  have hp0 : 0 < p := lt_of_lt_of_le zero_lt_one hp
+  let : Fact (1 ≤ ENNReal.ofReal p) := ⟨ENNReal.one_le_ofReal.mpr hp⟩
+  simpa only [lpNorm_eq_piLp hp0, ← WithLp.toLp_add] using
+    norm_add_le (WithLp.toLp (ENNReal.ofReal p) x) (WithLp.toLp (ENNReal.ofReal p) y)
+
+/-- Each coordinate norm is at most the `p`-norm. -/
+theorem norm_apply_le_lpNorm {p : ℝ} (hp : 1 ≤ p) (x : ι → E) (i : ι) :
+    ‖x i‖ ≤ lpNorm p x := by
+  have hp0 : 0 < p := lt_of_lt_of_le zero_lt_one hp
+  let : Fact (1 ≤ ENNReal.ofReal p) := ⟨ENNReal.one_le_ofReal.mpr hp⟩
+  rw [lpNorm_eq_piLp hp0]
+  exact PiLp.norm_apply_le (WithLp.toLp (ENNReal.ofReal p) x) i
+
+/-- Raising the `p`-norm to the `p`-th power recovers the sum of `p`-th powers. -/
+theorem lpNorm_rpow {p : ℝ} (hp : 0 < p) (x : ι → E) :
+    lpNorm p x ^ p = ∑ i, ‖x i‖ ^ p := by
+  unfold lpNorm
+  rw [← Real.rpow_mul (Finset.sum_nonneg fun i _ ↦ Real.rpow_nonneg (norm_nonneg _) _)]
+  rw [one_div_mul_cancel hp.ne', Real.rpow_one]
+
+/-- The `p`-norm vanishes iff the vector is zero. -/
+theorem lpNorm_eq_zero_iff {p : ℝ} (hp : 0 < p) (x : ι → E) :
+    lpNorm p x = 0 ↔ x = 0 := by
+  constructor
+  · intro h
+    have hs : (∑ i, ‖x i‖ ^ p) = 0 := by
+      rw [← lpNorm_rpow hp x, h, Real.zero_rpow hp.ne']
+    have hi := (Finset.sum_eq_zero_iff_of_nonneg
+      (fun i (_ : i ∈ Finset.univ) ↦ Real.rpow_nonneg (norm_nonneg (x i)) p)).mp hs
+    funext i
+    exact norm_eq_zero.mp ((Real.rpow_eq_zero (norm_nonneg (x i)) hp.ne').mp
+      (hi i (Finset.mem_univ i)))
+  · rintro rfl
+    exact lpNorm_zero hp
+
+/-- A nonzero vector has strictly positive `p`-norm. -/
+theorem lpNorm_pos {p : ℝ} (hp : 0 < p) {x : ι → E} (hx : x ≠ 0) :
+    0 < lpNorm p x :=
+  lt_of_le_of_ne (lpNorm_nonneg p x) (Ne.symm ((lpNorm_eq_zero_iff hp x).not.mpr hx))
+
+/-- The `p`-norm of a constant vector. -/
+theorem lpNorm_const {p : ℝ} (hp : 0 < p) (x : E) :
+    lpNorm p (fun _ : ι ↦ x) = (Fintype.card ι : ℝ) ^ (1 / p) * ‖x‖ := by
+  unfold lpNorm
+  simp only [Finset.sum_const, Finset.card_univ, nsmul_eq_mul]
+  rw [Real.mul_rpow (Nat.cast_nonneg _) (Real.rpow_nonneg (norm_nonneg _) _),
+    ← Real.rpow_mul (norm_nonneg x), mul_one_div_cancel hp.ne', Real.rpow_one]
+
+/-- The `p`-norm scales homogeneously. -/
+theorem lpNorm_smul [NormedSpace ℝ E] {p : ℝ} (hp : 0 < p)
+    (c : ℝ) (x : ι → E) : lpNorm p (c • x) = |c| * lpNorm p x := by
+  unfold lpNorm
+  simp only [Pi.smul_apply, norm_smul, Real.norm_eq_abs,
+    Real.mul_rpow (abs_nonneg c) (norm_nonneg _), ← Finset.mul_sum]
+  rw [Real.mul_rpow (Real.rpow_nonneg (abs_nonneg c) _)
+    (Finset.sum_nonneg fun i _ ↦ Real.rpow_nonneg (norm_nonneg (x i)) _),
+    ← Real.rpow_mul (abs_nonneg c), mul_one_div_cancel hp.ne', Real.rpow_one]
+
+/-- The coordinate `p`-norm is convex for `p ≥ 1`. -/
+theorem convexOn_lpNorm [NormedSpace ℝ E] {p : ℝ} (hp : 1 ≤ p) :
+    ConvexOn ℝ Set.univ (lpNorm p : (ι → E) → ℝ) := by
+  refine ⟨convex_univ, ?_⟩
+  intro x _ y _ a b ha hb _
+  have hp0 := zero_lt_one.trans_le hp
+  simpa only [lpNorm_smul hp0, abs_of_nonneg ha, abs_of_nonneg hb, smul_eq_mul]
+    using lpNorm_add hp (a • x) (b • y)
+
+/-- The coordinate `p`-norm is continuous. -/
+theorem continuous_lpNorm {p : ℝ} (hp : 0 < p) :
+    Continuous (lpNorm p : (ι → E) → ℝ) := by
+  exact (continuous_finsetSum _ fun i _ ↦
+    (continuous_apply i).norm.rpow_const (fun _ ↦ Or.inr hp.le)).rpow_const
+      (fun _ ↦ Or.inr (one_div_nonneg.mpr hp.le))
+
+/-- The `p`-norm is at most `n^(1/p) * M` when each coordinate norm is at most `M`. -/
+theorem lpNorm_le_card_root_mul {p M : ℝ} (hp : 0 < p) (hM : 0 ≤ M)
+    (x : ι → E) (hx : ∀ i, ‖x i‖ ≤ M) :
+    lpNorm p x ≤ (Fintype.card ι : ℝ) ^ (1 / p) * M := by
+  have hsum : (∑ i, ‖x i‖ ^ p) ≤ (Fintype.card ι : ℝ) * M ^ p := by
+    calc
+      _ ≤ ∑ _ : ι, M ^ p :=
+        Finset.sum_le_sum fun i _ ↦ Real.rpow_le_rpow (norm_nonneg _) (hx i) hp.le
+      _ = _ := by simp
+  have h := Real.rpow_le_rpow
+    (Finset.sum_nonneg fun i _ ↦ Real.rpow_nonneg (norm_nonneg (x i)) p)
+    hsum (one_div_nonneg.mpr hp.le)
+  rw [Real.mul_rpow (Nat.cast_nonneg _) (Real.rpow_nonneg hM _),
+    ← Real.rpow_mul hM, mul_one_div_cancel hp.ne', Real.rpow_one] at h
+  exact h
+
+/-- The `p`-norm of real coordinates equals the `p`-norm of their complex embeddings. -/
+theorem lpNorm_ofReal (p : ℝ) (x : ι → ℝ) :
+    lpNorm p (fun i ↦ (x i : ℂ)) = lpNorm p x := by
+  simp [lpNorm]
+
+/-- Appending zero coordinates does not change the `p`-norm. -/
+theorem lpNorm_fin_append_zero {p : ℝ} (hp : 0 < p) {n : ℕ}
+    (x : Fin n → E) (m : ℕ) :
+    lpNorm p (Fin.append x (0 : Fin m → E)) = lpNorm p x := by
+  simp [lpNorm, Fin.sum_univ_add, hp.ne']
+
+/-- A Hlawka constant in dimension `n` is also admissible in every lower dimension. -/
+theorem hasHlawkaConstant_fin_of_le {p C : ℝ} (hp : 0 < p)
+    {m n : ℕ} (hn : m ≤ n)
+    (hC : HasHlawkaConstant (lpNorm p : (Fin n → E) → ℝ) C) :
+    HasHlawkaConstant (lpNorm p : (Fin m → E) → ℝ) C := by
+  obtain ⟨k, rfl⟩ := Nat.exists_eq_add_of_le hn
+  intro x y z
+  have h := hC (Fin.append x (0 : Fin k → E))
+    (Fin.append y (0 : Fin k → E)) (Fin.append z (0 : Fin k → E))
+  have hadd (u v : Fin m → E) :
+      Fin.append u (0 : Fin k → E) + Fin.append v (0 : Fin k → E) =
+        Fin.append (u + v) (0 : Fin k → E) := by
+    ext i
+    refine Fin.addCases (fun j ↦ ?_) (fun j ↦ ?_) i <;> simp
+  simpa only [tripleGap, pairGapSum, pairGap, hadd, lpNorm_fin_append_zero hp] using h
+
+/-- A Hlawka constant in dimension `n ≥ 3` is admissible in dimension 3. -/
+theorem hasHlawkaConstant_fin_three_of_ge {p C : ℝ} (hp : 0 < p)
+    {n : ℕ} (hn : 3 ≤ n)
+    (hC : HasHlawkaConstant (lpNorm p : (Fin n → E) → ℝ) C) :
+    HasHlawkaConstant (lpNorm p : (Fin 3 → E) → ℝ) C :=
+  hasHlawkaConstant_fin_of_le hp hn hC
+
+/-- The `p`-norm is invariant under coordinate permutation. -/
+theorem lpNorm_comp_equiv {κ : Type*} [Fintype κ]
+    (p : ℝ) (x : κ → E) (e : ι ≃ κ) : lpNorm p (x ∘ e) = lpNorm p x := by
+  unfold lpNorm
+  congr 1
+  exact e.sum_comp (fun i ↦ ‖x i‖ ^ p)
+
+/-- The `p`-norm restricted to a subtype equals the full norm when unsupported entries vanish. -/
+theorem lpNorm_subtype {p : ℝ} (hp : 0 < p) (x : ι → E)
+    (P : ι → Prop) [DecidablePred P] (hx : ∀ i, ¬P i → x i = 0) :
+    lpNorm p (fun i : Subtype P ↦ x i.1) = lpNorm p x := by
+  unfold lpNorm
+  congr 1
+  have hzero : (∑ i : {i : ι // ¬P i}, ‖x i.1‖ ^ p) = 0 := by
+    exact Finset.sum_eq_zero fun i _ ↦ by simp [hx i.1 i.2, hp.ne']
+  rw [← Fintype.sum_subtype_add_sum_subtype P (fun i ↦ ‖x i‖ ^ p), hzero, add_zero]
+
+/-- A Hlawka constant in dimension 3 lifts to any index type of cardinality at most 3. -/
+theorem hasHlawkaConstant_of_card_le_three {p C : ℝ} (hp : 0 < p)
+    (hcard : Fintype.card ι ≤ 3)
+    (hC : HasHlawkaConstant (lpNorm p : (Fin 3 → E) → ℝ) C) :
+    HasHlawkaConstant (lpNorm p : (ι → E) → ℝ) C := by
+  let e := (Fintype.equivFin ι).symm
+  have hf := hasHlawkaConstant_fin_of_le hp hcard hC
+  intro x y z
+  have h := hf (x ∘ e) (y ∘ e) (z ∘ e)
+  have hadd (u v : ι → E) : u ∘ e + v ∘ e = (u + v) ∘ e := rfl
+  simpa only [tripleGap, pairGapSum, pairGap, hadd, lpNorm_comp_equiv] using h
+
+/-- The pair deficit is nonneg for `p ≥ 1` by Minkowski. -/
+theorem pairGap_nonneg {p : ℝ} (hp : 1 ≤ p) (x y : ι → E) :
+    0 ≤ pairGap (lpNorm p) x y := sub_nonneg.mpr (lpNorm_add hp x y)
+
+/-- The sum of pair deficits is nonneg for `p ≥ 1`. -/
+theorem pairGapSum_nonneg {p : ℝ} (hp : 1 ≤ p) (x y z : ι → E) :
+    0 ≤ pairGapSum (lpNorm p) x y z :=
+  add_nonneg (add_nonneg (pairGap_nonneg hp x y) (pairGap_nonneg hp x z))
+    (pairGap_nonneg hp y z)
+
+end HlawkaSchatten.DiagonalConstruction
+namespace HlawkaSchatten.DiagonalRealBundle
+theorem sum3 (f : Fin 3 → ℝ) {i j k : Fin 3} (hij : i ≠ j) (hik : i ≠ k) (hjk : j ≠ k) :
+    ∑ l, f l = f i + f j + f k := by
+  rw [Fin.sum_univ_three]
+  fin_cases i <;> fin_cases j <;> fin_cases k <;> simp_all <;> ring
+theorem lpNorm_eq3 (p : ℝ) (x : Fin 3 → ℝ) {i j k : Fin 3} (hij : i ≠ j) (hik : i ≠ k)
+    (hjk : j ≠ k) : lpNorm p x = (|x i| ^ p + |x j| ^ p + |x k| ^ p) ^ (1/p) := by
+  unfold lpNorm
+  rw [sum3 (fun l ↦ ‖x l‖ ^ p) hij hik hjk]
+  simp [Real.norm_eq_abs]
+end HlawkaSchatten.DiagonalRealBundle
+namespace HlawkaSchatten.DiagonalRealBundle
+theorem le_rpow_of_pow_le {x X : ℝ} (hx : 0 ≤ x) (m k : ℕ) (hk : 0 < k)
+    (h : X ^ k ≤ x ^ m) : X ≤ x ^ ((m : ℝ) / k) := by
+  rcases le_or_gt X 0 with hX | hX
+  · exact hX.trans (Real.rpow_nonneg hx _)
+  · have e : x ^ ((m : ℝ) / k) = (x ^ m) ^ ((k : ℝ)⁻¹) := by
+      rw [div_eq_mul_inv, Real.rpow_mul hx, Real.rpow_natCast]
+    rw [e]
+    calc X = (X ^ k) ^ ((k : ℝ)⁻¹) := (Real.pow_rpow_inv_natCast hX.le hk.ne').symm
+      _ ≤ (x ^ m) ^ ((k : ℝ)⁻¹) := Real.rpow_le_rpow (by positivity) h (by positivity)
+theorem rpow_le_of_pow_le {x X : ℝ} (hx : 0 ≤ x) (hX : 0 ≤ X) (m k : ℕ) (hk : 0 < k)
+    (h : x ^ m ≤ X ^ k) : x ^ ((m : ℝ) / k) ≤ X := by
+  have e : x ^ ((m : ℝ) / k) = (x ^ m) ^ ((k : ℝ)⁻¹) := by
+    rw [div_eq_mul_inv, Real.rpow_mul hx, Real.rpow_natCast]
+  rw [e]
+  calc (x ^ m) ^ ((k : ℝ)⁻¹) ≤ (X ^ k) ^ ((k : ℝ)⁻¹) :=
+        Real.rpow_le_rpow (by positivity) h (by positivity)
+    _ = X := Real.pow_rpow_inv_natCast hX hk.ne'
+end HlawkaSchatten.DiagonalRealBundle
+
+set_option autoImplicit false
+namespace HlawkaSchatten.DiagonalCutoff12
+open HlawkaSchatten.DiagonalConstruction
+open scoped BigOperators
+
+theorem norm_support {ι : Type*} [Fintype ι] {p q : ℝ}
+    (hpq : p.HolderConjugate q) (w x : ι → ℝ)
+    (hw : (∑ i, |w i| ^ q) ≤ 1) :
+    (∑ i, w i*x i) ≤ lpNorm p x := by
+  have h := Real.inner_le_Lp_mul_Lq Finset.univ w x hpq.symm
+  have hq : 0 ≤ 1/q := hpq.symm.one_div_nonneg
+  have hr := Real.rpow_le_rpow
+    (Finset.sum_nonneg fun i _ => Real.rpow_nonneg (abs_nonneg (w i)) q) hw hq
+  rw [Real.one_rpow] at hr
+  have hn := lpNorm_nonneg p x
+  have hm := mul_le_mul_of_nonneg_right hr hn
+  simpa only [lpNorm, Real.norm_eq_abs, one_mul] using h.trans hm
+
+theorem power12over11_upper {x y : ℝ} (hx : 0 ≤ x) (hy : 0 ≤ y)
+    (h : x^12 ≤ y^11) : x^(12/11 : ℝ) ≤ y := by
+  have hr := Real.rpow_le_rpow (pow_nonneg hx 12) h (by norm_num : (0 : ℝ) ≤ 1/11)
+  rw [← Real.rpow_natCast x 12, ← Real.rpow_natCast y 11,
+    ← Real.rpow_mul hx, ← Real.rpow_mul hy] at hr
+  norm_num at hr ⊢
+  exact hr
+
+theorem norm_support12 (w v x : Fin 3 → ℝ)
+    (hv : ∀ i, 0 ≤ v i) (hp : ∀ i, |w i|^12 ≤ (v i)^11)
+    (hs : (∑ i, v i) ≤ 1) : (∑ i, w i*x i) ≤ lpNorm 12 x := by
+  apply norm_support (q := 12/11)
+    (Real.holderConjugate_iff.mpr (by norm_num))
+  exact (Finset.sum_le_sum fun i _ => power12over11_upper (abs_nonneg _) (hv i) (hp i)).trans hs
+
+theorem power_ratio_upper {x y : ℝ} (m n : ℕ) (hn : 0 < n)
+    (hx : 0 ≤ x) (hy : 0 ≤ y) (h : x^m ≤ y^n) :
+    x^((m : ℝ)/(n : ℝ)) ≤ y := by
+  have hn0 : (0 : ℝ) < n := by exact_mod_cast hn
+  have hr := Real.rpow_le_rpow (pow_nonneg hx m) h (one_div_nonneg.mpr hn0.le)
+  rw [← Real.rpow_natCast x m, ← Real.rpow_natCast y n,
+    ← Real.rpow_mul hx, ← Real.rpow_mul hy,
+    mul_one_div_cancel hn0.ne', Real.rpow_one] at hr
+  simpa only [div_eq_mul_inv, one_div, one_mul] using hr
+
+theorem norm_support_interval {p b : ℝ} (hp : 1 < p) (hb : 1 < b)
+    (hpb : p ≤ b) (w x : Fin 3 → ℝ)
+    (hw1 : ∀ i, |w i| ≤ 1)
+    (hw : (∑ i, |w i|^(b/(b-1))) ≤ 1) :
+    (∑ i, w i*x i) ≤ lpNorm p x := by
+  have hqp : b/(b-1) ≤ p/(p-1) := by
+    apply (div_le_div_iff₀ (by linarith) (by linarith)).mpr
+    nlinarith
+  have hq0 : 0 ≤ b/(b-1) := div_nonneg (by linarith) (by linarith)
+  apply norm_support (q := p/(p-1))
+    ((Real.holderConjugate_iff_eq_conjExponent hp).mpr rfl)
+  apply le_trans _ hw
+  exact Finset.sum_le_sum fun i _ => Real.rpow_le_rpow_of_exponent_ge'
+    (abs_nonneg _) (hw1 i) hq0 hqp
+
+theorem norm_support_interval_cert {p b : ℝ} (m n : ℕ) (hn : 0 < n)
+    (hp : 1 < p) (hb : 1 < b) (hpb : p ≤ b)
+    (hconj : b/(b-1) = (m : ℝ)/(n : ℝ))
+    (w v x : Fin 3 → ℝ) (hw1 : ∀ i, |w i| ≤ 1) (hv : ∀ i, 0 ≤ v i)
+    (hpowers : ∀ i, |w i|^m ≤ (v i)^n) (hs : (∑ i, v i) ≤ 1) :
+    (∑ i, w i*x i) ≤ lpNorm p x := by
+  apply norm_support_interval hp hb hpb w x hw1
+  rw [hconj]
+  exact (Finset.sum_le_sum fun i _ =>
+    power_ratio_upper m n hn (abs_nonneg _) (hv i) (hpowers i)).trans hs
+
+end HlawkaSchatten.DiagonalCutoff12
+
+
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open HlawkaSchatten.DiagonalConstruction
+open scoped BigOperators
+namespace HlawkaSchatten.DiagonalCutoff6
+
+
+
+
+theorem total_eq (X : Fin 3 → Fin 3 → ℝ) : total X = X 0+X 1+X 2 := by
+  simp [total,Fin.sum_univ_three]
+theorem pair0 (X : Fin 3 → Fin 3 → ℝ) : pair X 0 = X 1+X 2 := by
+  rw [pair,total_eq];abel
+theorem pair1 (X : Fin 3 → Fin 3 → ℝ) : pair X 1 = X 0+X 2 := by
+  rw [pair,total_eq];abel
+theorem pair2 (X : Fin 3 → Fin 3 → ℝ) : pair X 2 = X 0+X 1 := by
+  rw [pair,total_eq];abel
+
+
+theorem oriented_frame {p q k d : ℝ} {X : Fin 3 → Fin 3 → ℝ}
+    (h : RelativeOrientedData p q k d X) : Frame p k (3*q) d X := by
+  constructor
+  · simpa [Fin.sum_univ_three] using h.sum
+  · simpa [total_eq] using h.norm_le_total
+  · simpa [total_eq] using h.total_one
+  · simpa [total_eq] using h.total_cap.le
+  · intro i;fin_cases i
+    · simpa [pair0] using h.main0
+    · simpa [pair1] using h.main1
+    · simpa [pair2] using h.main2
+  · intro i h';fin_cases i
+    · simpa [pair0] using h.max0 h'
+    · simpa [pair1] using h.max1 h'
+    · simpa [pair2] using h.max2 h'
+  · simpa [total_eq,Fin.sum_univ_three,pair0,pair1,pair2] using h.linear_failure
+
+theorem total_relabel (e : Equiv.Perm (Fin 3)) (X : Fin 3 → Fin 3 → ℝ) :
+    total (relabel e X) = total X ∘ e := by
+  ext h
+  simp only [total,Finset.sum_apply,relabel,Function.comp_apply]
+  exact Equiv.sum_comp e (fun j => X j (e h))
+
+theorem pair_relabel (e : Equiv.Perm (Fin 3)) (X : Fin 3 → Fin 3 → ℝ) (i : Fin 3) :
+    pair (relabel e X) i = pair X (e i) ∘ e := by
+  ext h
+  simp [pair,total_relabel,relabel]
+
+theorem frame_relabel {p k A d : ℝ} {X : Fin 3 → Fin 3 → ℝ}
+    (h : Frame p k A d X) (e : Equiv.Perm (Fin 3)) : Frame p k A d (relabel e X) := by
+  have hr (j : Fin 3) : lpNorm p (relabel e X j) = lpNorm p (X (e j)) :=
+    lpNorm_comp_equiv p (X (e j)) e
+  have ht : lpNorm p (total (relabel e X)) = lpNorm p (total X) := by
+    rw [total_relabel,lpNorm_comp_equiv]
+  have hp (i : Fin 3) : lpNorm p (pair (relabel e X) i) = lpNorm p (pair X (e i)) := by
+    rw [pair_relabel,lpNorm_comp_equiv]
+  constructor
+  · simp_rw [hr];rw [Equiv.sum_comp e (fun j => lpNorm p (X j))];exact h.sum
+  · intro j;rw [hr,ht];exact h.row_total (e j)
+  · rw [ht];exact h.total_one
+  · rw [ht];exact h.total_cap
+  · intro i;rw [hp,pair_relabel];exact h.main (e i)
+  · intro i j;rw [pair_relabel];exact h.maximal (e i) (e j)
+  · simp_rw [ht,hp];rw [Equiv.sum_comp e (fun i => lpNorm p (pair X i))];exact h.linear_failure
+
+theorem frame_box_of_base {p k A d ell u v w rho : ℝ}
+    (base : ∀ X : Fin 3 → Fin 3 → ℝ, Frame p k A d X →
+      (∀ i h, i ≠ h → 0 ≤ pair X i h) →
+      (∀ i h, i ≠ h → |pair X i h| ≤ rho*pair X i i) →
+      -u ≤ X 0 0 ∧ X 0 0 ≤ -ell ∧ v ≤ X 0 1 ∧ X 0 1 ≤ w)
+    (X : Fin 3 → Fin 3 → ℝ) (hX : Frame p k A d X)
+    (hsign : ∀ i h, i ≠ h → 0 ≤ pair X i h)
+    (hratio : ∀ i h, i ≠ h → |pair X i h| ≤ rho*pair X i i) :
+    ∀ j i, if j=i then -u ≤ X j i ∧ X j i ≤ -ell else v ≤ X j i ∧ X j i ≤ w := by
+  have permuted (e : Equiv.Perm (Fin 3)) :
+      -u ≤ X (e 0) (e 0) ∧ X (e 0) (e 0) ≤ -ell ∧
+      v ≤ X (e 0) (e 1) ∧ X (e 0) (e 1) ≤ w := by
+    apply base (relabel e X) (frame_relabel hX e)
+    · intro i j hij
+      rw [pair_relabel]
+      exact hsign (e i) (e j) (e.injective.ne hij)
+    · intro i j hij
+      rw [pair_relabel]
+      exact hratio (e i) (e j) (e.injective.ne hij)
+  have h0 := permuted (Equiv.refl (Fin 3))
+  have h01 := permuted (Equiv.swap (0 : Fin 3) 1)
+  have h02 := permuted (Equiv.swap (0 : Fin 3) 2)
+  have h12 := permuted (Equiv.swap (1 : Fin 3) 2)
+  have h120 := permuted ((Equiv.swap (1 : Fin 3) 2).trans (Equiv.swap 0 1))
+  have h201 := permuted ((Equiv.swap (0 : Fin 3) 1).trans (Equiv.swap 1 2))
+  norm_num [Equiv.swap_apply_def] at h0 h01 h02 h12 h120 h201
+  intro j i
+  fin_cases j <;> fin_cases i <;> simp only [ite_true,ite_false]
+  · exact ⟨h0.1,h0.2.1⟩
+  · exact h0.2.2
+  · exact h12.2.2
+  · exact h01.2.2
+  · exact ⟨h01.1,h01.2.1⟩
+  · exact h120.2.2
+  · exact h201.2.2
+  · exact h02.2.2
+  · exact ⟨h02.1,h02.2.1⟩
+
+theorem frame_ratio_of_base {p k A d rho R : ℝ}
+    (base : ∀ X : Fin 3 → Fin 3 → ℝ, Frame p k A d X →
+      (∀ i h, i ≠ h → 0 ≤ pair X i h) →
+      (∀ i h, i ≠ h → |pair X i h| ≤ rho*pair X i i) →
+      pair X 0 1 ≤ R*pair X 0 0)
+    (X : Fin 3 → Fin 3 → ℝ) (hX : Frame p k A d X)
+    (hsign : ∀ i h, i ≠ h → 0 ≤ pair X i h)
+    (hratio : ∀ i h, i ≠ h → |pair X i h| ≤ rho*pair X i i) :
+    ∀ i h, i ≠ h → |pair X i h| ≤ R*pair X i i := by
+  have permuted (e : Equiv.Perm (Fin 3)) :
+      pair X (e 0) (e 1) ≤ R*pair X (e 0) (e 0) := by
+    have hh := base (relabel e X) (frame_relabel hX e)
+      (fun i j hij => by rw [pair_relabel];exact hsign (e i) (e j) (e.injective.ne hij))
+      (fun i j hij => by rw [pair_relabel];exact hratio (e i) (e j) (e.injective.ne hij))
+    simpa only [pair_relabel,Function.comp_apply] using hh
+  have h0 := permuted (Equiv.refl (Fin 3))
+  have h01 := permuted (Equiv.swap (0 : Fin 3) 1)
+  have h02 := permuted (Equiv.swap (0 : Fin 3) 2)
+  have h12 := permuted (Equiv.swap (1 : Fin 3) 2)
+  have h120 := permuted ((Equiv.swap (1 : Fin 3) 2).trans (Equiv.swap 0 1))
+  have h201 := permuted ((Equiv.swap (0 : Fin 3) 1).trans (Equiv.swap 1 2))
+  norm_num [Equiv.swap_apply_def] at h0 h01 h02 h12 h120 h201
+  intro i j hij
+  rw [abs_of_nonneg (hsign i j hij)]
+  fin_cases i <;> fin_cases j <;> try contradiction
+  all_goals first | exact h0 | exact h01 | exact h02 | exact h12 | exact h120 | exact h201
+
+end HlawkaSchatten.DiagonalCutoff6
+
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open HlawkaSchatten.DiagonalConstruction
+open scoped BigOperators
+namespace HlawkaSchatten.DiagonalCutoff6
+
+
+theorem pair_eq_of_distinct (X : Fin 3 → Fin 3 → ℝ) (i j l : Fin 3)
+    (hij : i ≠ j) (hil : i ≠ l) (hjl : j ≠ l) : pair X i = X j+X l := by
+  fin_cases i <;> fin_cases j <;> fin_cases l <;> try contradiction
+  all_goals first
+    | exact pair0 X
+    | exact (pair0 X).trans (add_comm _ _)
+    | exact pair1 X
+    | exact (pair1 X).trans (add_comm _ _)
+    | exact pair2 X
+    | exact (pair2 X).trans (add_comm _ _)
+
+theorem frame_linear_data {p k A d : ℝ} (hp : 1 ≤ p) (X : Fin 3 → Fin 3 → ℝ)
+    (h : Frame p k A d X) :
+    LinearData k A d X (fun j => lpNorm p (X j))
+      (fun i => lpNorm p (pair X i)) (lpNorm p (total X)) := by
+  have hn (j : Fin 3) := lpNorm_nonneg p (X j)
+  have hs : lpNorm p (X 0)+lpNorm p (X 1)+lpNorm p (X 2)=3 := by
+    simpa [Fin.sum_univ_three] using h.sum
+  constructor
+  · exact hs
+  · exact hn
+  · exact h.row_total
+  · exact h.total_one
+  · exact h.total_cap
+  · intro j i;exact abs_le.mp (norm_apply_le_lpNorm hp (X j) i)
+  · intro i;simpa [total_eq] using abs_le.mp (norm_apply_le_lpNorm hp (total X) i)
+  · intro i;exact lpNorm_nonneg p (pair X i)
+  · intro i;fin_cases i
+    · change lpNorm p (pair X 0) ≤ 3-lpNorm p (X 0)
+      rw [pair0];linarith only [lpNorm_add hp (X 1) (X 2),hs]
+    · change lpNorm p (pair X 1) ≤ 3-lpNorm p (X 1)
+      rw [pair1];linarith only [lpNorm_add hp (X 0) (X 2),hs]
+    · change lpNorm p (pair X 2) ≤ 3-lpNorm p (X 2)
+      rw [pair2];linarith only [lpNorm_add hp (X 0) (X 1),hs]
+  · exact h.main
+  · exact h.maximal
+  · intro i
+    have hh := lpNorm_add hp (total X) (-X i)
+    simpa [pair,sub_eq_add_neg] using hh
+  · intro i
+    have hh := lpNorm_add hp (pair X i) (X i)
+    simpa [pair] using hh
+  · intro i j l hij hil hjl
+    rw [pair_eq_of_distinct X i j l hij hil hjl]
+    have hh := lpNorm_add hp (X j+X l) (-X l)
+    have he : X j+X l+-X l = X j := by abel
+    rw [he,lpNorm_neg] at hh
+    linarith
+  · simpa [Fin.sum_univ_three] using h.linear_failure
+
+theorem linear_data_bounds {k A d T : ℝ} {X : Fin 3 → Fin 3 → ℝ} {N P : Fin 3 → ℝ}
+    (h : LinearData k A d X N P T) (hA : A ≤ 3) :
+    (∀ j i, -3 ≤ X j i ∧ X j i ≤ 3) ∧
+    (∀ j, -3 ≤ N j ∧ N j ≤ 3) ∧ (∀ i, -3 ≤ P i ∧ P i ≤ 3) ∧ (-3 ≤ T ∧ T ≤ 3) := by
+  have hN (j : Fin 3) : 0 ≤ N j ∧ N j ≤ 3 := by
+    refine ⟨h.Nnonneg j,?_⟩
+    exact ((h.Ntotal j).trans h.Tcap).trans hA
+  refine ⟨?_,?_,?_,?_⟩
+  · intro j i;have hc := h.coord j i;have hn := hN j;constructor <;> linarith
+  · intro j;have hn := hN j;constructor <;> linarith
+  · intro i;have hn := hN i;have ht := h.Ptriangle i
+    have hz := h.Pnonneg i;constructor <;> linarith
+  · constructor <;> linarith only [h.Tone,h.Tcap,hA]
+
+theorem positive_pair_majorant {p a rho alpha : ℝ}
+    (hp : 1 ≤ p) (ha : 0 < a) (hap : a ≤ p)
+    (hrho : 0 < rho) (hrho1 : rho ≤ 1) (halpha : 0 ≤ alpha)
+    (hc1 : 1+rho^a ≤ (1+alpha*rho)^a)
+    (hc2 : 1+2*rho^a ≤ (1+2*alpha*rho)^a)
+    (X : Fin 3 → Fin 3 → ℝ)
+    (hm : ∀ i, 0 ≤ pair X i i)
+    (hsign : ∀ i h, i ≠ h → 0 ≤ pair X i h)
+    (hratio : ∀ i h, i ≠ h → |pair X i h| ≤ rho*pair X i i)
+    (i j l : Fin 3) (hij : i ≠ j) (hil : i ≠ l) (hjl : j ≠ l) :
+    lpNorm p (pair X i) ≤ pair X i i+alpha*(pair X i j+pair X i l) := by
+  rw [HlawkaSchatten.DiagonalRealBundle.lpNorm_eq3 p _ hij hil hjl]
+  have hh := signed_majorant hp ha hap hrho hrho1 halpha hc1 hc2 (hm i)
+    (hratio i j hij) (hratio i l hil)
+  simpa only [abs_of_nonneg (hsign i j hij),abs_of_nonneg (hsign i l hil)] using hh
+
+theorem frame_weaken {p k A d k' A' d' : ℝ} {X : Fin 3 → Fin 3 → ℝ}
+    (hp : 1 ≤ p) (h : Frame p k A d X) (hk : k' ≤ k) (hA : A ≤ A') (hd : d' ≤ d) :
+    Frame p k' A' d' X := by
+  have f := frame_linear_data hp X h
+  have hs : (∑ i, lpNorm p (pair X i)) ≤ 6 := by
+    rw [Fin.sum_univ_three]
+    have hh := f.sum
+    linarith only [f.Ptriangle 0,f.Ptriangle 1,f.Ptriangle 2,hh]
+  constructor
+  · exact h.sum
+  · exact h.row_total
+  · exact h.total_one
+  · exact h.total_cap.trans hA
+  · intro i
+    exact (mul_le_mul_of_nonneg_right hd (lpNorm_nonneg p (pair X i))).trans (h.main i)
+  · exact h.maximal
+  · have hh := mul_le_mul_of_nonneg_right hk (sub_nonneg.mpr hs)
+    linarith only [hh,h.linear_failure]
+
+end HlawkaSchatten.DiagonalCutoff6
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open HlawkaSchatten.DiagonalConstruction HlawkaSchatten.DiagonalCutoff6
+namespace HlawkaSchatten.DiagonalCutoff4
+theorem raw_linear_data {p k A : ℝ} (hp : 1 ≤ p) (X : Fin 3 → Fin 3 → ℝ)
+    (h : RawFrame p k A X) :
+    RawLinearData k A X (fun j => lpNorm p (X j))
+      (fun i => lpNorm p (pair X i)) (lpNorm p (total X)) := by
+  have hn (j : Fin 3) := lpNorm_nonneg p (X j)
+  have hs : lpNorm p (X 0)+lpNorm p (X 1)+lpNorm p (X 2)=3 := by
+    simpa [Fin.sum_univ_three] using h.sum
+  constructor
+  · exact hs
+  · exact hn
+  · exact h.row_total
+  · exact h.total_one
+  · exact h.total_cap
+  · intro j i;exact abs_le.mp (norm_apply_le_lpNorm hp (X j) i)
+  · intro i;simpa [total_eq] using abs_le.mp (norm_apply_le_lpNorm hp (total X) i)
+  · intro i;exact lpNorm_nonneg p (pair X i)
+  · intro i;fin_cases i
+    · change lpNorm p (pair X 0) ≤ 3-lpNorm p (X 0)
+      rw [pair0];linarith only [lpNorm_add hp (X 1) (X 2),hs]
+    · change lpNorm p (pair X 1) ≤ 3-lpNorm p (X 1)
+      rw [pair1];linarith only [lpNorm_add hp (X 0) (X 2),hs]
+    · change lpNorm p (pair X 2) ≤ 3-lpNorm p (X 2)
+      rw [pair2];linarith only [lpNorm_add hp (X 0) (X 1),hs]
+  · intro i
+    have hh := lpNorm_add hp (total X) (-X i)
+    simpa [pair,sub_eq_add_neg] using hh
+  · intro i
+    have hh := lpNorm_add hp (pair X i) (X i)
+    simpa [pair] using hh
+  · intro i j l hij hil hjl
+    rw [pair_eq_of_distinct X i j l hij hil hjl]
+    have hh := lpNorm_add hp (X j+X l) (-X l)
+    have he : X j+X l+-X l = X j := by abel
+    rw [he,lpNorm_neg] at hh
+    linarith
+  · simpa [Fin.sum_univ_three] using h.linear_failure
+
+theorem raw_linear_data_bounds {k A T : ℝ} {X : Fin 3 → Fin 3 → ℝ} {N P : Fin 3 → ℝ}
+    (h : RawLinearData k A X N P T) (hA : A ≤ 3) :
+    (∀ j i, -3 ≤ X j i ∧ X j i ≤ 3) ∧
+    (∀ j, -3 ≤ N j ∧ N j ≤ 3) ∧ (∀ i, -3 ≤ P i ∧ P i ≤ 3) ∧ (-3 ≤ T ∧ T ≤ 3) := by
+  have hN (j : Fin 3) : 0 ≤ N j ∧ N j ≤ 3 := by
+    refine ⟨h.Nnonneg j,?_⟩
+    exact ((h.Ntotal j).trans h.Tcap).trans hA
+  refine ⟨?_,?_,?_,?_⟩
+  · intro j i;have hc := h.coord j i;have hn := hN j;constructor <;> linarith
+  · intro j;have hn := hN j;constructor <;> linarith
+  · intro i;have hn := hN i;have ht := h.Ptriangle i
+    have hz := h.Pnonneg i;constructor <;> linarith
+  · constructor <;> linarith only [h.Tone,h.Tcap,hA]
+
+
+
+theorem abs_signValue (b : Bool) : |signValue b|=1 := by
+  cases b <;> norm_num [signValue]
+
+theorem abs_signedPair (X : Fin 3 → Fin 3 → ℝ) (signs : Fin 3 → Fin 3 → Bool) (i h : Fin 3) :
+    |signedPair X signs i h|=|pair X i h| := by
+  simp [signedPair,abs_mul,abs_signValue]
+
+theorem chart_majorant {p k A d a rho alpha beta : ℝ}
+    (hp : 1 ≤ p) (ha : 0 < a) (hap : a ≤ p)
+    (hrho : 0 < rho) (hrho1 : rho ≤ 1) (halpha : 0 ≤ alpha) (hbeta : 0 ≤ beta)
+    (hcorner1 : 1+rho^a ≤ (1+alpha*rho)^a)
+    (hcorner2 : 1+2*rho^a ≤ (1+(alpha+beta)*rho)^a)
+    (X : Fin 3 → Fin 3 → ℝ) (orders : Fin 3 → Fin 3 → Fin 3)
+    (signs : Fin 3 → Fin 3 → Bool) (hX : OrderedChart p k A d X orders signs)
+    (i : Fin 3)
+    (hratio : signedPair X signs i (orders i 1) ≤ rho*signedPair X signs i (orders i 0)) :
+    lpNorm p (pair X i) ≤ signedPair X signs i (orders i 0)+
+      alpha*signedPair X signs i (orders i 1)+beta*signedPair X signs i (orders i 2) := by
+  obtain ⟨h2,h21,h10⟩ := hX.ordered i
+  have h1 : 0 ≤ signedPair X signs i (orders i 1) := h2.trans h21
+  have h0 : 0 ≤ signedPair X signs i (orders i 0) := h1.trans h10
+  have hh := ordered_majorant (M := signedPair X signs i (orders i 0))
+    (u := signedPair X signs i (orders i 1)) (v := signedPair X signs i (orders i 2)) hp ha hap hrho hrho1 halpha hbeta hcorner1 hcorner2 h0
+    (by simpa only [abs_of_nonneg h1,abs_of_nonneg h2] using h21)
+    (by simpa only [abs_of_nonneg h1] using hratio)
+  have he := HlawkaSchatten.DiagonalRealBundle.lpNorm_eq3 p (pair X i)
+    (i := orders i 0) (j := orders i 1) (k := orders i 2)
+    ((hX.permutation i).1.ne (by decide)) ((hX.permutation i).1.ne (by decide))
+    ((hX.permutation i).1.ne (by decide))
+  rw [he]
+  calc
+    _ ≤ signedPair X signs i (orders i 0)+alpha*|signedPair X signs i (orders i 1)|+
+        beta*|signedPair X signs i (orders i 2)| := by
+      simpa only [abs_signedPair] using hh
+    _ = _ := by rw [abs_of_nonneg h1,abs_of_nonneg h2]
+
+end HlawkaSchatten.DiagonalCutoff4
+
+set_option autoImplicit false
+namespace HlawkaSchatten.DiagonalCutoff4
+
+theorem rational_powers_le (a b c d m n : ℕ) (hb : 0 < b) (hd : 0 < d)
+    (h : a^m*d^n ≤ c^n*b^m) :
+    ((a : ℝ)/b)^m ≤ ((c : ℝ)/d)^n := by
+  rw [div_pow,div_pow]
+  have hb' : (0 : ℝ) < b := by exact_mod_cast hb
+  have hd' : (0 : ℝ) < d := by exact_mod_cast hd
+  apply (div_le_div_iff₀ (pow_pos hb' m) (pow_pos hd' n)).mpr
+  exact_mod_cast h
+
+theorem rectangle_budgets {a lo hi c alpha pl ph : ℝ}
+    (hl : lo^a ≤ pl) (hh : hi^a ≤ ph)
+    (h00 : 1+2*pl ≤ (c+2*alpha*lo)^a)
+    (h10 : 1+ph+pl ≤ (c+alpha*(hi+lo))^a)
+    (h11 : 1+2*ph ≤ (c+2*alpha*hi)^a) :
+    1+2*lo^a ≤ (c+2*alpha*lo)^a ∧
+    1+hi^a+lo^a ≤ (c+alpha*(hi+lo))^a ∧
+    1+2*hi^a ≤ (c+2*alpha*hi)^a := by
+  constructor
+  · linarith only [hl,h00]
+  constructor
+  · linarith only [hl,hh,h10]
+  · linarith only [hh,h11]
+
+theorem sum_two_bounds {x y X Y z : ℝ} (hx : x ≤ X) (hy : y ≤ Y)
+    (hz : X+2*Y ≤ z) : x+2*y ≤ z := by
+  linarith only [hx,hy,hz]
+
+theorem three_bounds {x X : ℝ} (hx : x ≤ X) (hX : 3*X ≤ 1) : x+x+x ≤ 1 := by
+  linarith only [hx,hX]
+
+end HlawkaSchatten.DiagonalCutoff4
+
+open HlawkaSchatten.DiagonalCutoff4
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+set_option maxRecDepth 40000
+set_option exponentiation.threshold 40000
+set_option linter.unusedSimpArgs false
+namespace HlawkaSchatten.DiagonalCutoff4
+open HlawkaSchatten.DiagonalConstruction HlawkaSchatten.DiagonalRealBundle HlawkaSchatten.DiagonalCutoff6
+theorem collision_support_c328051_s0_0 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (-3197061743/10000000000 : ℝ)*x 0 + (3197062323/10000000000 : ℝ)*x 1 + (698891873/1250000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (3197061743/10000000000 : ℝ)^93 ≤ (12612818602627/50000000000000 : ℝ)^77 := by
+    have hnat : (3197061743 : ℕ)^93*50000000000000^77 ≤ 12612818602627^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      3197061743 10000000000 12612818602627 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (3197062323/10000000000 : ℝ)^93 ≤ (25225642732533/100000000000000 : ℝ)^77 := by
+    have hnat : (3197062323 : ℕ)^93*100000000000000^77 ≤ 25225642732533^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      3197062323 10000000000 25225642732533 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (698891873/1250000000 : ℝ)^93 ≤ (49548720045451/100000000000000 : ℝ)^77 := by
+    have hnat : (698891873 : ℕ)^93*100000000000000^77 ≤ 49548720045451^77*1250000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      698891873 1250000000 49548720045451 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(-3197061743/10000000000 : ℝ), (3197062323/10000000000 : ℝ), (698891873/1250000000 : ℝ)] ![(12612818602627/50000000000000 : ℝ), (25225642732533/100000000000000 : ℝ), (49548720045451/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(-3197061743/10000000000 : ℝ)|^93 ≤ (12612818602627/50000000000000 : ℝ)^77
+        have hw : |(-3197061743/10000000000 : ℝ)|=(3197061743/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(3197062323/10000000000 : ℝ)|^93 ≤ (25225642732533/100000000000000 : ℝ)^77
+        have hw : |(3197062323/10000000000 : ℝ)|=(3197062323/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(698891873/1250000000 : ℝ)|^93 ≤ (49548720045451/100000000000000 : ℝ)^77
+        have hw : |(698891873/1250000000 : ℝ)|=(698891873/1250000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_1 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (2380299951/10000000000 : ℝ)*x 0 + (-148768777/625000000 : ℝ)*x 1 + (6970693401/10000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (2380299951/10000000000 : ℝ)^93 ≤ (3532893985923/20000000000000 : ℝ)^77 := by
+    have hnat : (2380299951 : ℕ)^93*20000000000000^77 ≤ 3532893985923^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      2380299951 10000000000 3532893985923 20000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (148768777/625000000 : ℝ)^93 ≤ (3532894848179/20000000000000 : ℝ)^77 := by
+    have hnat : (148768777 : ℕ)^93*20000000000000^77 ≤ 3532894848179^77*625000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      148768777 625000000 3532894848179 20000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (6970693401/10000000000 : ℝ)^93 ≤ (64671055813473/100000000000000 : ℝ)^77 := by
+    have hnat : (6970693401 : ℕ)^93*100000000000000^77 ≤ 64671055813473^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      6970693401 10000000000 64671055813473 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(2380299951/10000000000 : ℝ), (-148768777/625000000 : ℝ), (6970693401/10000000000 : ℝ)] ![(3532893985923/20000000000000 : ℝ), (3532894848179/20000000000000 : ℝ), (64671055813473/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(2380299951/10000000000 : ℝ)|^93 ≤ (3532893985923/20000000000000 : ℝ)^77
+        have hw : |(2380299951/10000000000 : ℝ)|=(2380299951/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(-148768777/625000000 : ℝ)|^93 ≤ (3532894848179/20000000000000 : ℝ)^77
+        have hw : |(-148768777/625000000 : ℝ)|=(148768777/625000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(6970693401/10000000000 : ℝ)|^93 ≤ (64671055813473/100000000000000 : ℝ)^77
+        have hw : |(6970693401/10000000000 : ℝ)|=(6970693401/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_2 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (2932809159/5000000000 : ℝ)*x 0 + (664623541/1250000000 : ℝ)*x 1 + (-19660897/1000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (2932809159/5000000000 : ℝ)^93 ≤ (10500287930801/20000000000000 : ℝ)^77 := by
+    have hnat : (2932809159 : ℕ)^93*20000000000000^77 ≤ 10500287930801^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      2932809159 5000000000 10500287930801 20000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (664623541/1250000000 : ℝ)^93 ≤ (46629545083629/100000000000000 : ℝ)^77 := by
+    have hnat : (664623541 : ℕ)^93*100000000000000^77 ≤ 46629545083629^77*1250000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      664623541 1250000000 46629545083629 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (19660897/1000000000 : ℝ)^93 ≤ (34760609871/4000000000000 : ℝ)^77 := by
+    have hnat : (19660897 : ℕ)^93*4000000000000^77 ≤ 34760609871^77*1000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      19660897 1000000000 34760609871 4000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(2932809159/5000000000 : ℝ), (664623541/1250000000 : ℝ), (-19660897/1000000000 : ℝ)] ![(10500287930801/20000000000000 : ℝ), (46629545083629/100000000000000 : ℝ), (34760609871/4000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(2932809159/5000000000 : ℝ)|^93 ≤ (10500287930801/20000000000000 : ℝ)^77
+        have hw : |(2932809159/5000000000 : ℝ)|=(2932809159/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(664623541/1250000000 : ℝ)|^93 ≤ (46629545083629/100000000000000 : ℝ)^77
+        have hw : |(664623541/1250000000 : ℝ)|=(664623541/1250000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(-19660897/1000000000 : ℝ)|^93 ≤ (34760609871/4000000000000 : ℝ)^77
+        have hw : |(-19660897/1000000000 : ℝ)|=(19660897/1000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_7 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (-278387731/1000000000 : ℝ)*x 0 + (1661480499/10000000000 : ℝ)*x 1 + (7196935051/10000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (278387731/1000000000 : ℝ)^93 ≤ (1333929032779/6250000000000 : ℝ)^77 := by
+    have hnat : (278387731 : ℕ)^93*6250000000000^77 ≤ 1333929032779^77*1000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      278387731 1000000000 1333929032779 6250000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (1661480499/10000000000 : ℝ)^93 ≤ (11442481921341/100000000000000 : ℝ)^77 := by
+    have hnat : (1661480499 : ℕ)^93*100000000000000^77 ≤ 11442481921341^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      1661480499 10000000000 11442481921341 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (7196935051/10000000000 : ℝ)^93 ≤ (67214653536093/100000000000000 : ℝ)^77 := by
+    have hnat : (7196935051 : ℕ)^93*100000000000000^77 ≤ 67214653536093^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      7196935051 10000000000 67214653536093 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(-278387731/1000000000 : ℝ), (1661480499/10000000000 : ℝ), (7196935051/10000000000 : ℝ)] ![(1333929032779/6250000000000 : ℝ), (11442481921341/100000000000000 : ℝ), (67214653536093/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(-278387731/1000000000 : ℝ)|^93 ≤ (1333929032779/6250000000000 : ℝ)^77
+        have hw : |(-278387731/1000000000 : ℝ)|=(278387731/1000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(1661480499/10000000000 : ℝ)|^93 ≤ (11442481921341/100000000000000 : ℝ)^77
+        have hw : |(1661480499/10000000000 : ℝ)|=(1661480499/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(7196935051/10000000000 : ℝ)|^93 ≤ (67214653536093/100000000000000 : ℝ)^77
+        have hw : |(7196935051/10000000000 : ℝ)|=(7196935051/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_8 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (1623049137/10000000000 : ℝ)*x 0 + (-443247163/5000000000 : ℝ)*x 1 + (8614669363/10000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (1623049137/10000000000 : ℝ)^93 ≤ (173806001287/1562500000000 : ℝ)^77 := by
+    have hnat : (1623049137 : ℕ)^93*1562500000000^77 ≤ 173806001287^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      1623049137 10000000000 173806001287 1562500000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (443247163/5000000000 : ℝ)^93 ≤ (2679052529089/50000000000000 : ℝ)^77 := by
+    have hnat : (443247163 : ℕ)^93*50000000000000^77 ≤ 2679052529089^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      443247163 5000000000 2679052529089 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (8614669363/10000000000 : ℝ)^93 ≤ (83518310837291/100000000000000 : ℝ)^77 := by
+    have hnat : (8614669363 : ℕ)^93*100000000000000^77 ≤ 83518310837291^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      8614669363 10000000000 83518310837291 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(1623049137/10000000000 : ℝ), (-443247163/5000000000 : ℝ), (8614669363/10000000000 : ℝ)] ![(173806001287/1562500000000 : ℝ), (2679052529089/50000000000000 : ℝ), (83518310837291/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(1623049137/10000000000 : ℝ)|^93 ≤ (173806001287/1562500000000 : ℝ)^77
+        have hw : |(1623049137/10000000000 : ℝ)|=(1623049137/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(-443247163/5000000000 : ℝ)|^93 ≤ (2679052529089/50000000000000 : ℝ)^77
+        have hw : |(-443247163/5000000000 : ℝ)|=(443247163/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(8614669363/10000000000 : ℝ)|^93 ≤ (83518310837291/100000000000000 : ℝ)^77
+        have hw : |(8614669363/10000000000 : ℝ)|=(8614669363/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_9 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (1043392701/2500000000 : ℝ)*x 0 + (3477404079/5000000000 : ℝ)*x 1 + (-82289267/5000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (1043392701/2500000000 : ℝ)^93 ≤ (139223405247/400000000000 : ℝ)^77 := by
+    have hnat : (1043392701 : ℕ)^93*400000000000^77 ≤ 139223405247^77*2500000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      1043392701 2500000000 139223405247 400000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (3477404079/5000000000 : ℝ)^93 ≤ (64493097960913/100000000000000 : ℝ)^77 := by
+    have hnat : (3477404079 : ℕ)^93*100000000000000^77 ≤ 64493097960913^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      3477404079 5000000000 64493097960913 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (82289267/5000000000 : ℝ)^93 ≤ (701050715111/100000000000000 : ℝ)^77 := by
+    have hnat : (82289267 : ℕ)^93*100000000000000^77 ≤ 701050715111^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      82289267 5000000000 701050715111 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(1043392701/2500000000 : ℝ), (3477404079/5000000000 : ℝ), (-82289267/5000000000 : ℝ)] ![(139223405247/400000000000 : ℝ), (64493097960913/100000000000000 : ℝ), (701050715111/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(1043392701/2500000000 : ℝ)|^93 ≤ (139223405247/400000000000 : ℝ)^77
+        have hw : |(1043392701/2500000000 : ℝ)|=(1043392701/2500000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(3477404079/5000000000 : ℝ)|^93 ≤ (64493097960913/100000000000000 : ℝ)^77
+        have hw : |(3477404079/5000000000 : ℝ)|=(3477404079/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(-82289267/5000000000 : ℝ)|^93 ≤ (701050715111/100000000000000 : ℝ)^77
+        have hw : |(-82289267/5000000000 : ℝ)|=(82289267/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_13 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (711645463/2500000000 : ℝ)*x 0 + (8093037103/10000000000 : ℝ)*x 1 + (74905843/5000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (711645463/2500000000 : ℝ)^93 ≤ (21924837752041/100000000000000 : ℝ)^77 := by
+    have hnat : (711645463 : ℕ)^93*100000000000000^77 ≤ 21924837752041^77*2500000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      711645463 2500000000 21924837752041 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (8093037103/10000000000 : ℝ)^93 ≤ (77449358280979/100000000000000 : ℝ)^77 := by
+    have hnat : (8093037103 : ℕ)^93*100000000000000^77 ≤ 77449358280979^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      8093037103 10000000000 77449358280979 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (74905843/5000000000 : ℝ)^93 ≤ (312901977067/50000000000000 : ℝ)^77 := by
+    have hnat : (74905843 : ℕ)^93*50000000000000^77 ≤ 312901977067^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      74905843 5000000000 312901977067 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(711645463/2500000000 : ℝ), (8093037103/10000000000 : ℝ), (74905843/5000000000 : ℝ)] ![(21924837752041/100000000000000 : ℝ), (77449358280979/100000000000000 : ℝ), (312901977067/50000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(711645463/2500000000 : ℝ)|^93 ≤ (21924837752041/100000000000000 : ℝ)^77
+        have hw : |(711645463/2500000000 : ℝ)|=(711645463/2500000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(8093037103/10000000000 : ℝ)|^93 ≤ (77449358280979/100000000000000 : ℝ)^77
+        have hw : |(8093037103/10000000000 : ℝ)|=(8093037103/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(74905843/5000000000 : ℝ)|^93 ≤ (312901977067/50000000000000 : ℝ)^77
+        have hw : |(74905843/5000000000 : ℝ)|=(74905843/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_14 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (-1788548153/10000000000 : ℝ)*x 0 + (2814588911/10000000000 : ℝ)*x 1 + (7077056081/10000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (1788548153/10000000000 : ℝ)^93 ≤ (3126915194713/25000000000000 : ℝ)^77 := by
+    have hnat : (1788548153 : ℕ)^93*25000000000000^77 ≤ 3126915194713^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      1788548153 10000000000 3126915194713 25000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (2814588911/10000000000 : ℝ)^93 ≤ (21627568379979/100000000000000 : ℝ)^77 := by
+    have hnat : (2814588911 : ℕ)^93*100000000000000^77 ≤ 21627568379979^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      2814588911 10000000000 21627568379979 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (7077056081/10000000000 : ℝ)^93 ≤ (32932385415803/50000000000000 : ℝ)^77 := by
+    have hnat : (7077056081 : ℕ)^93*50000000000000^77 ≤ 32932385415803^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      7077056081 10000000000 32932385415803 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(-1788548153/10000000000 : ℝ), (2814588911/10000000000 : ℝ), (7077056081/10000000000 : ℝ)] ![(3126915194713/25000000000000 : ℝ), (21627568379979/100000000000000 : ℝ), (32932385415803/50000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(-1788548153/10000000000 : ℝ)|^93 ≤ (3126915194713/25000000000000 : ℝ)^77
+        have hw : |(-1788548153/10000000000 : ℝ)|=(1788548153/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(2814588911/10000000000 : ℝ)|^93 ≤ (21627568379979/100000000000000 : ℝ)^77
+        have hw : |(2814588911/10000000000 : ℝ)|=(2814588911/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(7077056081/10000000000 : ℝ)|^93 ≤ (32932385415803/50000000000000 : ℝ)^77
+        have hw : |(7077056081/10000000000 : ℝ)|=(7077056081/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_15 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (1106464593/10000000000 : ℝ)*x 0 + (-1745425669/10000000000 : ℝ)*x 1 + (8386397547/10000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (1106464593/10000000000 : ℝ)^93 ≤ (700285586597/10000000000000 : ℝ)^77 := by
+    have hnat : (1106464593 : ℕ)^93*10000000000000^77 ≤ 700285586597^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      1106464593 10000000000 700285586597 10000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (1745425669/10000000000 : ℝ)^93 ≤ (12144352603147/100000000000000 : ℝ)^77 := by
+    have hnat : (1745425669 : ℕ)^93*100000000000000^77 ≤ 12144352603147^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      1745425669 10000000000 12144352603147 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (8386397547/10000000000 : ℝ)^93 ≤ (80852791514273/100000000000000 : ℝ)^77 := by
+    have hnat : (8386397547 : ℕ)^93*100000000000000^77 ≤ 80852791514273^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      8386397547 10000000000 80852791514273 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(1106464593/10000000000 : ℝ), (-1745425669/10000000000 : ℝ), (8386397547/10000000000 : ℝ)] ![(700285586597/10000000000000 : ℝ), (12144352603147/100000000000000 : ℝ), (80852791514273/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(1106464593/10000000000 : ℝ)|^93 ≤ (700285586597/10000000000000 : ℝ)^77
+        have hw : |(1106464593/10000000000 : ℝ)|=(1106464593/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(-1745425669/10000000000 : ℝ)|^93 ≤ (12144352603147/100000000000000 : ℝ)^77
+        have hw : |(-1745425669/10000000000 : ℝ)|=(1745425669/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(8386397547/10000000000 : ℝ)|^93 ≤ (80852791514273/100000000000000 : ℝ)^77
+        have hw : |(8386397547/10000000000 : ℝ)|=(8386397547/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_16 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (229574619/312500000 : ℝ)*x 0 + (940399373/2500000000 : ℝ)*x 1 + (-51274537/5000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (229574619/312500000 : ℝ)^93 ≤ (68904096158551/100000000000000 : ℝ)^77 := by
+    have hnat : (229574619 : ℕ)^93*100000000000000^77 ≤ 68904096158551^77*312500000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      229574619 312500000 68904096158551 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (940399373/2500000000 : ℝ)^93 ≤ (15349986713503/50000000000000 : ℝ)^77 := by
+    have hnat : (940399373 : ℕ)^93*50000000000000^77 ≤ 15349986713503^77*2500000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      940399373 2500000000 15349986713503 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (51274537/5000000000 : ℝ)^93 ≤ (395930409027/100000000000000 : ℝ)^77 := by
+    have hnat : (51274537 : ℕ)^93*100000000000000^77 ≤ 395930409027^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      51274537 5000000000 395930409027 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(229574619/312500000 : ℝ), (940399373/2500000000 : ℝ), (-51274537/5000000000 : ℝ)] ![(68904096158551/100000000000000 : ℝ), (15349986713503/50000000000000 : ℝ), (395930409027/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(229574619/312500000 : ℝ)|^93 ≤ (68904096158551/100000000000000 : ℝ)^77
+        have hw : |(229574619/312500000 : ℝ)|=(229574619/312500000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(940399373/2500000000 : ℝ)|^93 ≤ (15349986713503/50000000000000 : ℝ)^77
+        have hw : |(940399373/2500000000 : ℝ)|=(940399373/2500000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(-51274537/5000000000 : ℝ)|^93 ≤ (395930409027/100000000000000 : ℝ)^77
+        have hw : |(-51274537/5000000000 : ℝ)|=(51274537/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_20 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (3643330913/5000000000 : ℝ)*x 0 + (949246919/2500000000 : ℝ)*x 1 + (42196659/2500000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (3643330913/5000000000 : ℝ)^93 ≤ (68228077116751/100000000000000 : ℝ)^77 := by
+    have hnat : (3643330913 : ℕ)^93*100000000000000^77 ≤ 68228077116751^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      3643330913 5000000000 68228077116751 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (949246919/2500000000 : ℝ)^93 ≤ (15524582591017/50000000000000 : ℝ)^77 := by
+    have hnat : (949246919 : ℕ)^93*50000000000000^77 ≤ 15524582591017^77*2500000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      949246919 2500000000 15524582591017 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (42196659/2500000000 : ℝ)^93 ≤ (722757686179/100000000000000 : ℝ)^77 := by
+    have hnat : (42196659 : ℕ)^93*100000000000000^77 ≤ 722757686179^77*2500000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      42196659 2500000000 722757686179 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(3643330913/5000000000 : ℝ), (949246919/2500000000 : ℝ), (42196659/2500000000 : ℝ)] ![(68228077116751/100000000000000 : ℝ), (15524582591017/50000000000000 : ℝ), (722757686179/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(3643330913/5000000000 : ℝ)|^93 ≤ (68228077116751/100000000000000 : ℝ)^77
+        have hw : |(3643330913/5000000000 : ℝ)|=(3643330913/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(949246919/2500000000 : ℝ)|^93 ≤ (15524582591017/50000000000000 : ℝ)^77
+        have hw : |(949246919/2500000000 : ℝ)|=(949246919/2500000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(42196659/2500000000 : ℝ)|^93 ≤ (722757686179/100000000000000 : ℝ)^77
+        have hw : |(42196659/2500000000 : ℝ)|=(42196659/2500000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_21 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (-4617065131/10000000000 : ℝ)*x 0 + (2105098433/5000000000 : ℝ)*x 1 + (201639977/625000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (4617065131/10000000000 : ℝ)^93 ≤ (39320938178829/100000000000000 : ℝ)^77 := by
+    have hnat : (4617065131 : ℕ)^93*100000000000000^77 ≤ 39320938178829^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      4617065131 10000000000 39320938178829 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (2105098433/5000000000 : ℝ)^93 ≤ (35175102417357/100000000000000 : ℝ)^77 := by
+    have hnat : (2105098433 : ℕ)^93*100000000000000^77 ≤ 35175102417357^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      2105098433 5000000000 35175102417357 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (201639977/625000000 : ℝ)^93 ≤ (25503959393599/100000000000000 : ℝ)^77 := by
+    have hnat : (201639977 : ℕ)^93*100000000000000^77 ≤ 25503959393599^77*625000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      201639977 625000000 25503959393599 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(-4617065131/10000000000 : ℝ), (2105098433/5000000000 : ℝ), (201639977/625000000 : ℝ)] ![(39320938178829/100000000000000 : ℝ), (35175102417357/100000000000000 : ℝ), (25503959393599/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(-4617065131/10000000000 : ℝ)|^93 ≤ (39320938178829/100000000000000 : ℝ)^77
+        have hw : |(-4617065131/10000000000 : ℝ)|=(4617065131/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(2105098433/5000000000 : ℝ)|^93 ≤ (35175102417357/100000000000000 : ℝ)^77
+        have hw : |(2105098433/5000000000 : ℝ)|=(2105098433/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(201639977/625000000 : ℝ)|^93 ≤ (25503959393599/100000000000000 : ℝ)^77
+        have hw : |(201639977/625000000 : ℝ)|=(201639977/625000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_22 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (1190592657/10000000000 : ℝ)*x 0 + (-1597460241/10000000000 : ℝ)*x 1 + (8436534117/10000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (1190592657/10000000000 : ℝ)^93 ≤ (956365734531/12500000000000 : ℝ)^77 := by
+    have hnat : (1190592657 : ℕ)^93*12500000000000^77 ≤ 956365734531^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      1190592657 10000000000 956365734531 12500000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (1597460241/10000000000 : ℝ)^93 ≤ (2728029357217/25000000000000 : ℝ)^77 := by
+    have hnat : (1597460241 : ℕ)^93*25000000000000^77 ≤ 2728029357217^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      1597460241 10000000000 2728029357217 25000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (8436534117/10000000000 : ℝ)^93 ≤ (81436956683057/100000000000000 : ℝ)^77 := by
+    have hnat : (8436534117 : ℕ)^93*100000000000000^77 ≤ 81436956683057^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      8436534117 10000000000 81436956683057 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(1190592657/10000000000 : ℝ), (-1597460241/10000000000 : ℝ), (8436534117/10000000000 : ℝ)] ![(956365734531/12500000000000 : ℝ), (2728029357217/25000000000000 : ℝ), (81436956683057/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(1190592657/10000000000 : ℝ)|^93 ≤ (956365734531/12500000000000 : ℝ)^77
+        have hw : |(1190592657/10000000000 : ℝ)|=(1190592657/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(-1597460241/10000000000 : ℝ)|^93 ≤ (2728029357217/25000000000000 : ℝ)^77
+        have hw : |(-1597460241/10000000000 : ℝ)|=(1597460241/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(8436534117/10000000000 : ℝ)|^93 ≤ (81436956683057/100000000000000 : ℝ)^77
+        have hw : |(8436534117/10000000000 : ℝ)|=(8436534117/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_23 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (416699757/625000000 : ℝ)*x 0 + (1129514809/2500000000 : ℝ)*x 1 + (-105416991/10000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (416699757/625000000 : ℝ)^93 ≤ (3064291025293/5000000000000 : ℝ)^77 := by
+    have hnat : (416699757 : ℕ)^93*5000000000000^77 ≤ 3064291025293^77*625000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      416699757 625000000 3064291025293 5000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (1129514809/2500000000 : ℝ)^93 ≤ (38304836983541/100000000000000 : ℝ)^77 := by
+    have hnat : (1129514809 : ℕ)^93*100000000000000^77 ≤ 38304836983541^77*2500000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      1129514809 2500000000 38304836983541 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (105416991/10000000000 : ℝ)^93 ≤ (204671254639/50000000000000 : ℝ)^77 := by
+    have hnat : (105416991 : ℕ)^93*50000000000000^77 ≤ 204671254639^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      105416991 10000000000 204671254639 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(416699757/625000000 : ℝ), (1129514809/2500000000 : ℝ), (-105416991/10000000000 : ℝ)] ![(3064291025293/5000000000000 : ℝ), (38304836983541/100000000000000 : ℝ), (204671254639/50000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(416699757/625000000 : ℝ)|^93 ≤ (3064291025293/5000000000000 : ℝ)^77
+        have hw : |(416699757/625000000 : ℝ)|=(416699757/625000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(1129514809/2500000000 : ℝ)|^93 ≤ (38304836983541/100000000000000 : ℝ)^77
+        have hw : |(1129514809/2500000000 : ℝ)|=(1129514809/2500000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(-105416991/10000000000 : ℝ)|^93 ≤ (204671254639/50000000000000 : ℝ)^77
+        have hw : |(-105416991/10000000000 : ℝ)|=(105416991/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s0_27 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (486549999/2000000000 : ℝ)*x 0 + (4220828809/5000000000 : ℝ)*x 1 + (48222829/5000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (486549999/2000000000 : ℝ)^93 ≤ (9067829064353/50000000000000 : ℝ)^77 := by
+    have hnat : (486549999 : ℕ)^93*50000000000000^77 ≤ 9067829064353^77*2000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      486549999 2000000000 9067829064353 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (4220828809/5000000000 : ℝ)^93 ≤ (16299338750523/20000000000000 : ℝ)^77 := by
+    have hnat : (4220828809 : ℕ)^93*20000000000000^77 ≤ 16299338750523^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      4220828809 5000000000 16299338750523 20000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (48222829/5000000000 : ℝ)^93 ≤ (22978006377/6250000000000 : ℝ)^77 := by
+    have hnat : (48222829 : ℕ)^93*6250000000000^77 ≤ 22978006377^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      48222829 5000000000 22978006377 6250000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(486549999/2000000000 : ℝ), (4220828809/5000000000 : ℝ), (48222829/5000000000 : ℝ)] ![(9067829064353/50000000000000 : ℝ), (16299338750523/20000000000000 : ℝ), (22978006377/6250000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(486549999/2000000000 : ℝ)|^93 ≤ (9067829064353/50000000000000 : ℝ)^77
+        have hw : |(486549999/2000000000 : ℝ)|=(486549999/2000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(4220828809/5000000000 : ℝ)|^93 ≤ (16299338750523/20000000000000 : ℝ)^77
+        have hw : |(4220828809/5000000000 : ℝ)|=(4220828809/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(48222829/5000000000 : ℝ)|^93 ≤ (22978006377/6250000000000 : ℝ)^77
+        have hw : |(48222829/5000000000 : ℝ)|=(48222829/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s1_0 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (-3530264573/10000000000 : ℝ)*x 0 + (3527798577/10000000000 : ℝ)*x 1 + (2493399579/5000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (3530264573/10000000000 : ℝ)^93 ≤ (14217234601957/50000000000000 : ℝ)^77 := by
+    have hnat : (3530264573 : ℕ)^93*50000000000000^77 ≤ 14217234601957^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      3530264573 10000000000 14217234601957 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (3527798577/10000000000 : ℝ)^93 ≤ (28410481375339/100000000000000 : ℝ)^77 := by
+    have hnat : (3527798577 : ℕ)^93*100000000000000^77 ≤ 28410481375339^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      3527798577 10000000000 28410481375339 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (2493399579/5000000000 : ℝ)^93 ≤ (21577524708133/50000000000000 : ℝ)^77 := by
+    have hnat : (2493399579 : ℕ)^93*50000000000000^77 ≤ 21577524708133^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      2493399579 5000000000 21577524708133 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(-3530264573/10000000000 : ℝ), (3527798577/10000000000 : ℝ), (2493399579/5000000000 : ℝ)] ![(14217234601957/50000000000000 : ℝ), (28410481375339/100000000000000 : ℝ), (21577524708133/50000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(-3530264573/10000000000 : ℝ)|^93 ≤ (14217234601957/50000000000000 : ℝ)^77
+        have hw : |(-3530264573/10000000000 : ℝ)|=(3530264573/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(3527798577/10000000000 : ℝ)|^93 ≤ (28410481375339/100000000000000 : ℝ)^77
+        have hw : |(3527798577/10000000000 : ℝ)|=(3527798577/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(2493399579/5000000000 : ℝ)|^93 ≤ (21577524708133/50000000000000 : ℝ)^77
+        have hw : |(2493399579/5000000000 : ℝ)|=(2493399579/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s1_1 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (1474356237/5000000000 : ℝ)*x 0 + (-294665271/1000000000 : ℝ)*x 1 + (6028050577/10000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (1474356237/5000000000 : ℝ)^93 ≤ (11439213940179/50000000000000 : ℝ)^77 := by
+    have hnat : (1474356237 : ℕ)^93*50000000000000^77 ≤ 11439213940179^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      1474356237 5000000000 11439213940179 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (294665271/1000000000 : ℝ)^93 ≤ (4571825446277/20000000000000 : ℝ)^77 := by
+    have hnat : (294665271 : ℕ)^93*20000000000000^77 ≤ 4571825446277^77*1000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      294665271 1000000000 4571825446277 20000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (6028050577/10000000000 : ℝ)^93 ≤ (54262444873803/100000000000000 : ℝ)^77 := by
+    have hnat : (6028050577 : ℕ)^93*100000000000000^77 ≤ 54262444873803^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      6028050577 10000000000 54262444873803 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(1474356237/5000000000 : ℝ), (-294665271/1000000000 : ℝ), (6028050577/10000000000 : ℝ)] ![(11439213940179/50000000000000 : ℝ), (4571825446277/20000000000000 : ℝ), (54262444873803/100000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(1474356237/5000000000 : ℝ)|^93 ≤ (11439213940179/50000000000000 : ℝ)^77
+        have hw : |(1474356237/5000000000 : ℝ)|=(1474356237/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(-294665271/1000000000 : ℝ)|^93 ≤ (4571825446277/20000000000000 : ℝ)^77
+        have hw : |(-294665271/1000000000 : ℝ)|=(294665271/1000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(6028050577/10000000000 : ℝ)|^93 ≤ (54262444873803/100000000000000 : ℝ)^77
+        have hw : |(6028050577/10000000000 : ℝ)|=(6028050577/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s1_2 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (2579530327/5000000000 : ℝ)*x 0 + (5162571389/10000000000 : ℝ)*x 1 + (-745449813/5000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (2579530327/5000000000 : ℝ)^93 ≤ (22480970491599/50000000000000 : ℝ)^77 := by
+    have hnat : (2579530327 : ℕ)^93*50000000000000^77 ≤ 22480970491599^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      2579530327 5000000000 22480970491599 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (5162571389/10000000000 : ℝ)^93 ≤ (44998897870729/100000000000000 : ℝ)^77 := by
+    have hnat : (5162571389 : ℕ)^93*100000000000000^77 ≤ 44998897870729^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      5162571389 10000000000 44998897870729 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (745449813/5000000000 : ℝ)^93 ≤ (5019580569719/50000000000000 : ℝ)^77 := by
+    have hnat : (745449813 : ℕ)^93*50000000000000^77 ≤ 5019580569719^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      745449813 5000000000 5019580569719 50000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(2579530327/5000000000 : ℝ), (5162571389/10000000000 : ℝ), (-745449813/5000000000 : ℝ)] ![(22480970491599/50000000000000 : ℝ), (44998897870729/100000000000000 : ℝ), (5019580569719/50000000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(2579530327/5000000000 : ℝ)|^93 ≤ (22480970491599/50000000000000 : ℝ)^77
+        have hw : |(2579530327/5000000000 : ℝ)|=(2579530327/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(5162571389/10000000000 : ℝ)|^93 ≤ (44998897870729/100000000000000 : ℝ)^77
+        have hw : |(5162571389/10000000000 : ℝ)|=(5162571389/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(-745449813/5000000000 : ℝ)|^93 ≤ (5019580569719/50000000000000 : ℝ)^77
+        have hw : |(-745449813/5000000000 : ℝ)|=(745449813/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_support_c328051_s1_6 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ)) (x : Fin 3 → ℝ) :
+    (4929576751/10000000000 : ℝ)*x 0 + (2466465661/5000000000 : ℝ)*x 1 + (2061660937/10000000000 : ℝ)*x 2 ≤ lpNorm p x := by
+  have power0 : (4929576751/10000000000 : ℝ)^93 ≤ (42557672496517/100000000000000 : ℝ)^77 := by
+    have hnat : (4929576751 : ℕ)^93*100000000000000^77 ≤ 42557672496517^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      4929576751 10000000000 42557672496517 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power1 : (2466465661/5000000000 : ℝ)^93 ≤ (42592653168293/100000000000000 : ℝ)^77 := by
+    have hnat : (2466465661 : ℕ)^93*100000000000000^77 ≤ 42592653168293^77*5000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      2466465661 5000000000 42592653168293 100000000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have power2 : (2061660937/10000000000 : ℝ)^93 ≤ (928104645179/6250000000000 : ℝ)^77 := by
+    have hnat : (2061660937 : ℕ)^93*6250000000000^77 ≤ 928104645179^77*10000000000^93 := by decide +kernel
+    have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+      2061660937 10000000000 928104645179 6250000000000 93 77 (by decide) (by decide) hnat
+    simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+  have h := HlawkaSchatten.DiagonalCutoff12.norm_support_interval_cert
+    (p := p) (b := (93/16 : ℝ)) 93 77 (by norm_num)
+    (by linarith only [hpa]) (by norm_num) hpb (by norm_num) ![(4929576751/10000000000 : ℝ), (2466465661/5000000000 : ℝ), (2061660937/10000000000 : ℝ)] ![(42557672496517/100000000000000 : ℝ), (42592653168293/100000000000000 : ℝ), (928104645179/6250000000000 : ℝ)] x
+    (by intro i; fin_cases i <;> norm_num)
+    (by intro i; fin_cases i <;> norm_num)
+    (by
+      intro i
+      fin_cases i
+      · change |(4929576751/10000000000 : ℝ)|^93 ≤ (42557672496517/100000000000000 : ℝ)^77
+        have hw : |(4929576751/10000000000 : ℝ)|=(4929576751/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power0
+      · change |(2466465661/5000000000 : ℝ)|^93 ≤ (42592653168293/100000000000000 : ℝ)^77
+        have hw : |(2466465661/5000000000 : ℝ)|=(2466465661/5000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power1
+      · change |(2061660937/10000000000 : ℝ)|^93 ≤ (928104645179/6250000000000 : ℝ)^77
+        have hw : |(2061660937/10000000000 : ℝ)|=(2061660937/10000000000 : ℝ) := by norm_num
+        rw [hw]
+        exact power2
+      )
+    (by norm_num [Fin.sum_univ_succ])
+  simpa [Fin.sum_univ_succ,add_assoc] using h
+theorem collision_c328051 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ))
+    (X : Fin 3 → Fin 3 → ℝ) (hX : OrderedChart p (8679/4000 : ℝ) (80697/50000 : ℝ) (82433/100000 : ℝ) X ![![0, 1, 2], ![1, 0, 2], ![2, 0, 1]] ![![true, true, true], ![true, true, false], ![false, true, true]]) : False := by
+  let N : Fin 3 → ℝ := fun j => lpNorm p (X j)
+  let P : Fin 3 → ℝ := fun i => lpNorm p (pair X i)
+  let T : ℝ := lpNorm p (total X)
+  have f : RawLinearData _ _ X N P T := raw_linear_data (by linarith : (1 : ℝ) ≤ p) X hX.raw
+  have bounds := raw_linear_data_bounds f (by norm_num)
+  have main0 : (82433/100000 : ℝ)*P 0 ≤ ((1 : ℝ)*(X 1 0+X 2 0)) := by
+    have hh := hX.main 0
+    change (82433/100000 : ℝ)*P 0 ≤ ((1 : ℝ)*pair X 0 0) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have order0 : 0 ≤ ((1 : ℝ)*(X 1 2+X 2 2)) ∧ ((1 : ℝ)*(X 1 2+X 2 2)) ≤ ((1 : ℝ)*(X 1 1+X 2 1)) ∧ ((1 : ℝ)*(X 1 1+X 2 1)) ≤ ((1 : ℝ)*(X 1 0+X 2 0)) := by
+    have hh := hX.ordered 0
+    change 0 ≤ ((1 : ℝ)*pair X 0 2) ∧ ((1 : ℝ)*pair X 0 2) ≤ ((1 : ℝ)*pair X 0 1) ∧ ((1 : ℝ)*pair X 0 1) ≤ ((1 : ℝ)*pair X 0 0) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have main1 : (82433/100000 : ℝ)*P 1 ≤ ((1 : ℝ)*(X 0 1+X 2 1)) := by
+    have hh := hX.main 1
+    change (82433/100000 : ℝ)*P 1 ≤ ((1 : ℝ)*pair X 1 1) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have order1 : 0 ≤ ((-1 : ℝ)*(X 0 2+X 2 2)) ∧ ((-1 : ℝ)*(X 0 2+X 2 2)) ≤ ((1 : ℝ)*(X 0 0+X 2 0)) ∧ ((1 : ℝ)*(X 0 0+X 2 0)) ≤ ((1 : ℝ)*(X 0 1+X 2 1)) := by
+    have hh := hX.ordered 1
+    change 0 ≤ ((-1 : ℝ)*pair X 1 2) ∧ ((-1 : ℝ)*pair X 1 2) ≤ ((1 : ℝ)*pair X 1 0) ∧ ((1 : ℝ)*pair X 1 0) ≤ ((1 : ℝ)*pair X 1 1) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have main2 : (82433/100000 : ℝ)*P 2 ≤ ((1 : ℝ)*(X 0 2+X 1 2)) := by
+    have hh := hX.main 2
+    change (82433/100000 : ℝ)*P 2 ≤ ((1 : ℝ)*pair X 2 2) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have order2 : 0 ≤ ((1 : ℝ)*(X 0 1+X 1 1)) ∧ ((1 : ℝ)*(X 0 1+X 1 1)) ≤ ((-1 : ℝ)*(X 0 0+X 1 0)) ∧ ((-1 : ℝ)*(X 0 0+X 1 0)) ≤ ((1 : ℝ)*(X 0 2+X 1 2)) := by
+    have hh := hX.ordered 2
+    change 0 ≤ ((1 : ℝ)*pair X 2 1) ∧ ((1 : ℝ)*pair X 2 1) ≤ ((-1 : ℝ)*pair X 2 0) ∧ ((-1 : ℝ)*pair X 2 0) ≤ ((1 : ℝ)*pair X 2 2) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have base5 : ((1 : ℝ)*N 2+(-1 : ℝ)*T) ≤ (0 : ℝ) := by
+    linarith only [f.Ntotal 2]
+  have base7 : ((1 : ℝ)*T) ≤ (80697/50000 : ℝ) := by
+    linarith only [f.Tcap]
+  have base19 : ((1 : ℝ)*X 1 2+(-1 : ℝ)*N 1) ≤ (0 : ℝ) := by
+    linarith only [(f.coord 1 2).2]
+  have base23 : ((1 : ℝ)*X 2 1+(-1 : ℝ)*N 2) ≤ (0 : ℝ) := by
+    linarith only [(f.coord 2 1).2]
+  have base39 : ((-1 : ℝ)*X 1 2+(-1 : ℝ)*X 2 2) ≤ (0 : ℝ) := by
+    linarith only [order0.1]
+  have base43 : ((-1 : ℝ)*N 0+(-1 : ℝ)*N 2+(1 : ℝ)*P 1) ≤ (0 : ℝ) := by
+    linarith only [f.Ptriangle 1,f.sum]
+  have base49 : ((1 : ℝ)*X 0 2+(1 : ℝ)*X 2 2) ≤ (0 : ℝ) := by
+    linarith only [order1.1]
+  have base59 : ((-1 : ℝ)*X 0 1+(-1 : ℝ)*X 1 1) ≤ (0 : ℝ) := by
+    linarith only [order2.1]
+  have base60 : ((1 : ℝ)*X 0 0+(1 : ℝ)*X 0 1+(1 : ℝ)*X 1 0+(1 : ℝ)*X 1 1) ≤ (0 : ℝ) := by
+    linarith only [order2.2.1]
+  have base62 : ((-1 : ℝ)*X 0 0) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 0 0).1]
+  have base63 : ((1 : ℝ)*X 0 0) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 0 0).2]
+  have base64 : ((-1 : ℝ)*X 0 1) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 0 1).1]
+  have base65 : ((1 : ℝ)*X 0 1) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 0 1).2]
+  have base66 : ((-1 : ℝ)*X 0 2) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 0 2).1]
+  have base67 : ((1 : ℝ)*X 0 2) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 0 2).2]
+  have base68 : ((-1 : ℝ)*X 1 0) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 1 0).1]
+  have base69 : ((1 : ℝ)*X 1 0) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 1 0).2]
+  have base70 : ((-1 : ℝ)*X 1 1) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 1 1).1]
+  have base71 : ((1 : ℝ)*X 1 1) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 1 1).2]
+  have base72 : ((-1 : ℝ)*X 1 2) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 1 2).1]
+  have base73 : ((1 : ℝ)*X 1 2) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 1 2).2]
+  have base74 : ((-1 : ℝ)*X 2 0) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 2 0).1]
+  have base75 : ((1 : ℝ)*X 2 0) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 2 0).2]
+  have base76 : ((-1 : ℝ)*X 2 1) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 2 1).1]
+  have base77 : ((1 : ℝ)*X 2 1) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 2 1).2]
+  have base78 : ((-1 : ℝ)*X 2 2) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 2 2).1]
+  have base79 : ((1 : ℝ)*X 2 2) ≤ (3 : ℝ) := by
+    linarith only [(bounds.1 2 2).2]
+  have base80 : ((-1 : ℝ)*N 0) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.1 0).1]
+  have base81 : ((1 : ℝ)*N 0) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.1 0).2]
+  have base82 : ((-1 : ℝ)*N 1) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.1 1).1]
+  have base83 : ((1 : ℝ)*N 1) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.1 1).2]
+  have base84 : ((-1 : ℝ)*N 2) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.1 2).1]
+  have base85 : ((1 : ℝ)*N 2) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.1 2).2]
+  have base86 : ((-1 : ℝ)*P 0) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.2.1 0).1]
+  have base87 : ((1 : ℝ)*P 0) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.2.1 0).2]
+  have base88 : ((-1 : ℝ)*P 1) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.2.1 1).1]
+  have base89 : ((1 : ℝ)*P 1) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.2.1 1).2]
+  have base90 : ((-1 : ℝ)*P 2) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.2.1 2).1]
+  have base91 : ((1 : ℝ)*P 2) ≤ (3 : ℝ) := by
+    linarith only [(bounds.2.2.1 2).2]
+  have base92 : ((-1 : ℝ)*T) ≤ (3 : ℝ) := by
+    linarith only [bounds.2.2.2.1]
+  have base93 : ((1 : ℝ)*T) ≤ (3 : ℝ) := by
+    linarith only [bounds.2.2.2.2]
+  have s0_pow0 : (1 : ℝ) ^ (91/16 : ℝ) ≤ (1 : ℝ) := by
+    have hpowers : (1 : ℝ)^91 ≤ (1 : ℝ)^16 := by
+      have hnat : (1 : ℕ)^91*1^16 ≤ 1^16*1^91 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        1 1 1 1 91 16 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := rpow_le_of_pow_le (x := (1 : ℝ)) (X := (1 : ℝ)) (by norm_num) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s0_corner0a : (2 : ℝ) ≤ (11296095383713331/10000000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (2 : ℝ)^16 ≤ (11296095383713331/10000000000000000 : ℝ)^91 := by
+      have hnat : (2 : ℕ)^16*10000000000000000^91 ≤ 11296095383713331^91*1^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        2 1 11296095383713331 10000000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (11296095383713331/10000000000000000 : ℝ)) (X := (2 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s0_corner0b : (3 : ℝ) ≤ (12130800245449181/10000000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (3 : ℝ)^16 ≤ (12130800245449181/10000000000000000 : ℝ)^91 := by
+      have hnat : (3 : ℕ)^16*10000000000000000^91 ≤ 12130800245449181^91*1^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        3 1 12130800245449181 10000000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (12130800245449181/10000000000000000 : ℝ)) (X := (3 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have major_s0_0 : P 0 ≤ ((1 : ℝ)*(X 1 0+X 2 0))+(1296095383713331/10000000000000000 : ℝ)*((1 : ℝ)*(X 1 1+X 2 1))+(16694097234717/200000000000000 : ℝ)*((1 : ℝ)*(X 1 2+X 2 2)) := by
+    have hh := chart_majorant (a := (91/16 : ℝ)) (rho := (1 : ℝ)) (alpha := (1296095383713331/10000000000000000 : ℝ)) (beta := (16694097234717/200000000000000 : ℝ))
+      (by linarith only [hpa] : (1 : ℝ) ≤ p) (by norm_num) hpa (by norm_num) (by norm_num) (by norm_num) (by norm_num)
+      (by linarith only [s0_pow0,s0_corner0a]) (by linarith only [s0_pow0,s0_corner0b])
+      X ![![0, 1, 2], ![1, 0, 2], ![2, 0, 1]] ![![true, true, true], ![true, true, false], ![false, true, true]] hX 0 (by
+        change ((1 : ℝ)*pair X 0 1) ≤ (1 : ℝ)*((1 : ℝ)*pair X 0 0)
+        simp only [pair0,pair1,pair2,Pi.add_apply]
+        linarith only [order0.2.2])
+    change lpNorm p (pair X 0) ≤ ((1 : ℝ)*pair X 0 0)+(1296095383713331/10000000000000000 : ℝ)*((1 : ℝ)*pair X 0 1)+(16694097234717/200000000000000 : ℝ)*((1 : ℝ)*pair X 0 2) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have s0_pow1 : (1 : ℝ) ^ (91/16 : ℝ) ≤ (1 : ℝ) := by
+    have hpowers : (1 : ℝ)^91 ≤ (1 : ℝ)^16 := by
+      have hnat : (1 : ℕ)^91*1^16 ≤ 1^16*1^91 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        1 1 1 1 91 16 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := rpow_le_of_pow_le (x := (1 : ℝ)) (X := (1 : ℝ)) (by norm_num) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s0_corner1a : (2 : ℝ) ≤ (11296095383713331/10000000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (2 : ℝ)^16 ≤ (11296095383713331/10000000000000000 : ℝ)^91 := by
+      have hnat : (2 : ℕ)^16*10000000000000000^91 ≤ 11296095383713331^91*1^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        2 1 11296095383713331 10000000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (11296095383713331/10000000000000000 : ℝ)) (X := (2 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s0_corner1b : (3 : ℝ) ≤ (12130800245449181/10000000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (3 : ℝ)^16 ≤ (12130800245449181/10000000000000000 : ℝ)^91 := by
+      have hnat : (3 : ℕ)^16*10000000000000000^91 ≤ 12130800245449181^91*1^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        3 1 12130800245449181 10000000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (12130800245449181/10000000000000000 : ℝ)) (X := (3 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have major_s0_1 : P 1 ≤ ((1 : ℝ)*(X 0 1+X 2 1))+(1296095383713331/10000000000000000 : ℝ)*((1 : ℝ)*(X 0 0+X 2 0))+(16694097234717/200000000000000 : ℝ)*((-1 : ℝ)*(X 0 2+X 2 2)) := by
+    have hh := chart_majorant (a := (91/16 : ℝ)) (rho := (1 : ℝ)) (alpha := (1296095383713331/10000000000000000 : ℝ)) (beta := (16694097234717/200000000000000 : ℝ))
+      (by linarith only [hpa] : (1 : ℝ) ≤ p) (by norm_num) hpa (by norm_num) (by norm_num) (by norm_num) (by norm_num)
+      (by linarith only [s0_pow1,s0_corner1a]) (by linarith only [s0_pow1,s0_corner1b])
+      X ![![0, 1, 2], ![1, 0, 2], ![2, 0, 1]] ![![true, true, true], ![true, true, false], ![false, true, true]] hX 1 (by
+        change ((1 : ℝ)*pair X 1 0) ≤ (1 : ℝ)*((1 : ℝ)*pair X 1 1)
+        simp only [pair0,pair1,pair2,Pi.add_apply]
+        linarith only [order1.2.2])
+    change lpNorm p (pair X 1) ≤ ((1 : ℝ)*pair X 1 1)+(1296095383713331/10000000000000000 : ℝ)*((1 : ℝ)*pair X 1 0)+(16694097234717/200000000000000 : ℝ)*((-1 : ℝ)*pair X 1 2) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have s0_pow2 : (1 : ℝ) ^ (91/16 : ℝ) ≤ (1 : ℝ) := by
+    have hpowers : (1 : ℝ)^91 ≤ (1 : ℝ)^16 := by
+      have hnat : (1 : ℕ)^91*1^16 ≤ 1^16*1^91 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        1 1 1 1 91 16 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := rpow_le_of_pow_le (x := (1 : ℝ)) (X := (1 : ℝ)) (by norm_num) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s0_corner2a : (2 : ℝ) ≤ (11296095383713331/10000000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (2 : ℝ)^16 ≤ (11296095383713331/10000000000000000 : ℝ)^91 := by
+      have hnat : (2 : ℕ)^16*10000000000000000^91 ≤ 11296095383713331^91*1^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        2 1 11296095383713331 10000000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (11296095383713331/10000000000000000 : ℝ)) (X := (2 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s0_corner2b : (3 : ℝ) ≤ (12130800245449181/10000000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (3 : ℝ)^16 ≤ (12130800245449181/10000000000000000 : ℝ)^91 := by
+      have hnat : (3 : ℕ)^16*10000000000000000^91 ≤ 12130800245449181^91*1^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        3 1 12130800245449181 10000000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (12130800245449181/10000000000000000 : ℝ)) (X := (3 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have major_s0_2 : P 2 ≤ ((1 : ℝ)*(X 0 2+X 1 2))+(1296095383713331/10000000000000000 : ℝ)*((-1 : ℝ)*(X 0 0+X 1 0))+(16694097234717/200000000000000 : ℝ)*((1 : ℝ)*(X 0 1+X 1 1)) := by
+    have hh := chart_majorant (a := (91/16 : ℝ)) (rho := (1 : ℝ)) (alpha := (1296095383713331/10000000000000000 : ℝ)) (beta := (16694097234717/200000000000000 : ℝ))
+      (by linarith only [hpa] : (1 : ℝ) ≤ p) (by norm_num) hpa (by norm_num) (by norm_num) (by norm_num) (by norm_num)
+      (by linarith only [s0_pow2,s0_corner2a]) (by linarith only [s0_pow2,s0_corner2b])
+      X ![![0, 1, 2], ![1, 0, 2], ![2, 0, 1]] ![![true, true, true], ![true, true, false], ![false, true, true]] hX 2 (by
+        change ((-1 : ℝ)*pair X 2 0) ≤ (1 : ℝ)*((1 : ℝ)*pair X 2 2)
+        simp only [pair0,pair1,pair2,Pi.add_apply]
+        linarith only [order2.2.2])
+    change lpNorm p (pair X 2) ≤ ((1 : ℝ)*pair X 2 2)+(1296095383713331/10000000000000000 : ℝ)*((-1 : ℝ)*pair X 2 0)+(16694097234717/200000000000000 : ℝ)*((1 : ℝ)*pair X 2 1) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have sp_s0_0 : ((-3197061743/10000000000 : ℝ)*X 0 0+(3197062323/10000000000 : ℝ)*X 0 1+(698891873/1250000000 : ℝ)*X 0 2+(-1 : ℝ)*N 0) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_0 p hpa hpb (X 0)
+    change _ ≤ N 0 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_1 : ((2380299951/10000000000 : ℝ)*X 1 0+(-148768777/625000000 : ℝ)*X 1 1+(6970693401/10000000000 : ℝ)*X 1 2+(-1 : ℝ)*N 1) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_1 p hpa hpb (X 1)
+    change _ ≤ N 1 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_2 : ((2932809159/5000000000 : ℝ)*X 2 0+(664623541/1250000000 : ℝ)*X 2 1+(-19660897/1000000000 : ℝ)*X 2 2+(-1 : ℝ)*N 2) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_2 p hpa hpb (X 2)
+    change _ ≤ N 2 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_7 : ((-278387731/1000000000 : ℝ)*X 0 0+(1661480499/10000000000 : ℝ)*X 0 1+(7196935051/10000000000 : ℝ)*X 0 2+(-1 : ℝ)*N 0) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_7 p hpa hpb (X 0)
+    change _ ≤ N 0 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_8 : ((1623049137/10000000000 : ℝ)*X 1 0+(-443247163/5000000000 : ℝ)*X 1 1+(8614669363/10000000000 : ℝ)*X 1 2+(-1 : ℝ)*N 1) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_8 p hpa hpb (X 1)
+    change _ ≤ N 1 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_9 : ((1043392701/2500000000 : ℝ)*X 2 0+(3477404079/5000000000 : ℝ)*X 2 1+(-82289267/5000000000 : ℝ)*X 2 2+(-1 : ℝ)*N 2) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_9 p hpa hpb (X 2)
+    change _ ≤ N 2 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_13 : ((711645463/2500000000 : ℝ)*X 0 0+(8093037103/10000000000 : ℝ)*X 0 1+(74905843/5000000000 : ℝ)*X 0 2+(711645463/2500000000 : ℝ)*X 1 0+(8093037103/10000000000 : ℝ)*X 1 1+(74905843/5000000000 : ℝ)*X 1 2+(711645463/2500000000 : ℝ)*X 2 0+(8093037103/10000000000 : ℝ)*X 2 1+(74905843/5000000000 : ℝ)*X 2 2+(-1 : ℝ)*T) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_13 p hpa hpb (total X)
+    change _ ≤ T at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_14 : ((-1788548153/10000000000 : ℝ)*X 0 0+(2814588911/10000000000 : ℝ)*X 0 1+(7077056081/10000000000 : ℝ)*X 0 2+(-1 : ℝ)*N 0) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_14 p hpa hpb (X 0)
+    change _ ≤ N 0 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_15 : ((1106464593/10000000000 : ℝ)*X 1 0+(-1745425669/10000000000 : ℝ)*X 1 1+(8386397547/10000000000 : ℝ)*X 1 2+(-1 : ℝ)*N 1) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_15 p hpa hpb (X 1)
+    change _ ≤ N 1 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_16 : ((229574619/312500000 : ℝ)*X 2 0+(940399373/2500000000 : ℝ)*X 2 1+(-51274537/5000000000 : ℝ)*X 2 2+(-1 : ℝ)*N 2) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_16 p hpa hpb (X 2)
+    change _ ≤ N 2 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_20 : ((3643330913/5000000000 : ℝ)*X 0 0+(949246919/2500000000 : ℝ)*X 0 1+(42196659/2500000000 : ℝ)*X 0 2+(3643330913/5000000000 : ℝ)*X 1 0+(949246919/2500000000 : ℝ)*X 1 1+(42196659/2500000000 : ℝ)*X 1 2+(3643330913/5000000000 : ℝ)*X 2 0+(949246919/2500000000 : ℝ)*X 2 1+(42196659/2500000000 : ℝ)*X 2 2+(-1 : ℝ)*T) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_20 p hpa hpb (total X)
+    change _ ≤ T at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_21 : ((-4617065131/10000000000 : ℝ)*X 0 0+(2105098433/5000000000 : ℝ)*X 0 1+(201639977/625000000 : ℝ)*X 0 2+(-1 : ℝ)*N 0) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_21 p hpa hpb (X 0)
+    change _ ≤ N 0 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_22 : ((1190592657/10000000000 : ℝ)*X 1 0+(-1597460241/10000000000 : ℝ)*X 1 1+(8436534117/10000000000 : ℝ)*X 1 2+(-1 : ℝ)*N 1) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_22 p hpa hpb (X 1)
+    change _ ≤ N 1 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_23 : ((416699757/625000000 : ℝ)*X 2 0+(1129514809/2500000000 : ℝ)*X 2 1+(-105416991/10000000000 : ℝ)*X 2 2+(-1 : ℝ)*N 2) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_23 p hpa hpb (X 2)
+    change _ ≤ N 2 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s0_27 : ((486549999/2000000000 : ℝ)*X 0 0+(4220828809/5000000000 : ℝ)*X 0 1+(48222829/5000000000 : ℝ)*X 0 2+(486549999/2000000000 : ℝ)*X 1 0+(4220828809/5000000000 : ℝ)*X 1 1+(48222829/5000000000 : ℝ)*X 1 2+(486549999/2000000000 : ℝ)*X 2 0+(4220828809/5000000000 : ℝ)*X 2 1+(48222829/5000000000 : ℝ)*X 2 2+(-1 : ℝ)*T) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s0_27 p hpa hpb (total X)
+    change _ ≤ T at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have ratio_s0_0 : (0 : ℝ) ≤ ((58301/100000 : ℝ)*X 1 0+(-1 : ℝ)*X 1 1+(58301/100000 : ℝ)*X 2 0+(-1 : ℝ)*X 2 1) := by
+    have hcertificate_margin : (0 : ℝ) ≤ (89936710621681488913647/5000000000000000000000000000 : ℝ) := by norm_num
+    linear_combination (7967587729/8000000000 : ℝ)*(base7) + (3534932487/1000000000000 : ℝ)*(base39) + (1306653701/100000000000 : ℝ)*(base49) + (20818550493/200000000000 : ℝ)*(base60) + (1805595695671/1000000000000 : ℝ)*(major_s0_0) + (1805595695671/1000000000000 : ℝ)*(major_s0_1) + (1805595695671/1000000000000 : ℝ)*(major_s0_2) + (409671/500000000000 : ℝ)*(sp_s0_2) + (1121577835989/500000000000 : ℝ)*(sp_s0_7) + (2243217418749/1000000000000 : ℝ)*(sp_s0_8) + (2243216599407/1000000000000 : ℝ)*(sp_s0_9) + (1828046042907/1000000000000 : ℝ)*(sp_s0_13) + (61746771/1000000000000 : ℝ)*(sp_s0_14) + (70044221/1000000000000 : ℝ)*(sp_s0_27) + (832167621003/1000000000000 : ℝ)*(f.failure) + (2243217418749/1000000000000 : ℝ)*(f.sum) + (703932621/2500000000000000000000 : ℝ)*base63 + (115820639770107/200000000000000000000000000 : ℝ)*base65 + (9364633209893/200000000000000000000000000 : ℝ)*base67 + (6457307546309899/10000000000000000000000000000 : ℝ)*base69 + (2623533747195451/10000000000000000000000000000 : ℝ)*base71 + (128928177670107/200000000000000000000000000 : ℝ)*base73 + (3413697538690101/10000000000000000000000000000 : ℝ)*base75 + (2688863700690101/10000000000000000000000000000 : ℝ)*base77 + (173286729/5000000000000000000000 : ℝ)*base79 + (1037/4000000000000000 : ℝ)*base87 + (1037/4000000000000000 : ℝ)*base89 + (1037/4000000000000000 : ℝ)*base91 + hcertificate_margin
+  have ratio_s0_1 : (0 : ℝ) ≤ ((-1 : ℝ)*X 0 0+(57651/100000 : ℝ)*X 0 1+(-1 : ℝ)*X 2 0+(57651/100000 : ℝ)*X 2 1) := by
+    have hcertificate_margin : (0 : ℝ) ≤ (37517871898649248911543/5000000000000000000000000000 : ℝ) := by norm_num
+    linear_combination (219868610003/1000000000000 : ℝ)*(base5) + (979385062327/1000000000000 : ℝ)*(base7) + (23667/1000000000000 : ℝ)*(base49) + (231535254353/1000000000000 : ℝ)*(base60) + (1994914681649/1000000000000 : ℝ)*(major_s0_0) + (1994914681649/1000000000000 : ℝ)*(major_s0_1) + (1994914681649/1000000000000 : ℝ)*(major_s0_2) + (3318283/1000000000000 : ℝ)*(sp_s0_0) + (11196741/1000000000000 : ℝ)*(sp_s0_1) + (1271756261181/500000000000 : ℝ)*(sp_s0_14) + (635824478663/250000000000 : ℝ)*(sp_s0_15) + (2763384450647/1000000000000 : ℝ)*(sp_s0_16) + (1678937897951/1000000000000 : ℝ)*(sp_s0_20) + (51682313/250000000000 : ℝ)*(sp_s0_22) + (919421445627/1000000000000 : ℝ)*(f.failure) + (508703168129/200000000000 : ℝ)*(f.sum) + (4322726129/10000000000000000000000 : ℝ)*base63 + (81440664268333/200000000000000000000000000 : ℝ)*base65 + (29699141791667/200000000000000000000000000 : ℝ)*base67 + (3900591240637181/10000000000000000000000000000 : ℝ)*base69 + (4504287778779469/10000000000000000000000000000 : ℝ)*base71 + (24885476491667/200000000000000000000000000 : ℝ)*base72 + (3084381040362819/10000000000000000000000000000 : ℝ)*base75 + (2372582142362819/10000000000000000000000000000 : ℝ)*base77 + (893984021/5000000000000000000000 : ℝ)*base79 + (1/1000000000000 : ℝ)*base84 + (733/4000000000000000 : ℝ)*base87 + (733/4000000000000000 : ℝ)*base89 + (733/4000000000000000 : ℝ)*base91 + hcertificate_margin
+  have ratio_s0_2 : (0 : ℝ) ≤ ((1 : ℝ)*X 0 0+(20581/100000 : ℝ)*X 0 2+(1 : ℝ)*X 1 0+(20581/100000 : ℝ)*X 1 2) := by
+    have hcertificate_margin : (0 : ℝ) ≤ (6394182063536607/625000000000000000000 : ℝ) := by norm_num
+    linear_combination (46119/1000000000000 : ℝ)*(base5) + (133811682483/1000000000000 : ℝ)*(base7) + (53716184087/100000000000 : ℝ)*(base39) + (556089370839/1000000000000 : ℝ)*(base49) + (1780779060943/1000000000000 : ℝ)*(major_s0_0) + (1780779060943/1000000000000 : ℝ)*(major_s0_1) + (1780779060943/1000000000000 : ℝ)*(major_s0_2) + (10043503/250000000000 : ℝ)*(sp_s0_1) + (37760799/500000000000 : ℝ)*(sp_s0_13) + (78257091/1000000000000 : ℝ)*(sp_s0_15) + (667209159149/250000000000 : ℝ)*(sp_s0_21) + (2668718205493/1000000000000 : ℝ)*(sp_s0_22) + (667209170679/250000000000 : ℝ)*(sp_s0_23) + (238616545219/250000000000 : ℝ)*(sp_s0_27) + (82073006611/100000000000 : ℝ)*(f.failure) + (667209159149/250000000000 : ℝ)*(f.sum) + (16860013/125000000000000000000 : ℝ)*base62 + (82406876398131/200000000000000000000000000 : ℝ)*base65 + (52419615481869/200000000000000000000000000 : ℝ)*base67 + (3037613117468867/10000000000000000000000000000 : ℝ)*base69 + (369967677562317/10000000000000000000000000000 : ℝ)*base70 + (164316600238131/200000000000000000000000000 : ℝ)*base73 + (431099182531133/10000000000000000000000000000 : ℝ)*base75 + (1014305552531133/10000000000000000000000000000 : ℝ)*base77 + (27094923/250000000000000000000 : ℝ)*base79 + (1/1000000000000 : ℝ)*base85 + (331/400000000000000 : ℝ)*base86 + (331/400000000000000 : ℝ)*base88 + (331/400000000000000 : ℝ)*base90 + hcertificate_margin
+  have s1_pow0 : (58301/100000 : ℝ) ^ (91/16 : ℝ) ≤ (1162043220819153823/25000000000000000000 : ℝ) := by
+    have hpowers : (58301/100000 : ℝ)^91 ≤ (1162043220819153823/25000000000000000000 : ℝ)^16 := by
+      have hnat : (58301 : ℕ)^91*25000000000000000000^16 ≤ 1162043220819153823^16*100000^91 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        58301 100000 1162043220819153823 25000000000000000000 91 16 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := rpow_le_of_pow_le (x := (58301/100000 : ℝ)) (X := (1162043220819153823/25000000000000000000 : ℝ)) (by norm_num) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s1_corner0a : (26162043220819153823/25000000000000000000 : ℝ) ≤ (2520050882830601/2500000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (26162043220819153823/25000000000000000000 : ℝ)^16 ≤ (2520050882830601/2500000000000000 : ℝ)^91 := by
+      have hnat : (26162043220819153823 : ℕ)^16*2500000000000000^91 ≤ 2520050882830601^91*25000000000000000000^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        26162043220819153823 25000000000000000000 2520050882830601 2500000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (2520050882830601/2500000000000000 : ℝ)) (X := (26162043220819153823/25000000000000000000 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s1_corner0b : (13662043220819153823/12500000000000000000 : ℝ) ≤ (406300911379299/400000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (13662043220819153823/12500000000000000000 : ℝ)^16 ≤ (406300911379299/400000000000000 : ℝ)^91 := by
+      have hnat : (13662043220819153823 : ℕ)^16*400000000000000^91 ≤ 406300911379299^91*12500000000000000000^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        13662043220819153823 12500000000000000000 406300911379299 400000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (406300911379299/400000000000000 : ℝ)) (X := (13662043220819153823/12500000000000000000 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have major_s1_0 : P 0 ≤ ((1 : ℝ)*(X 1 0+X 2 0))+(20050882830601/1457525000000000 : ℝ)*((1 : ℝ)*(X 1 1+X 2 1))+(77319253160071/5830100000000000 : ℝ)*((1 : ℝ)*(X 1 2+X 2 2)) := by
+    have hh := chart_majorant (a := (91/16 : ℝ)) (rho := (58301/100000 : ℝ)) (alpha := (20050882830601/1457525000000000 : ℝ)) (beta := (77319253160071/5830100000000000 : ℝ))
+      (by linarith only [hpa] : (1 : ℝ) ≤ p) (by norm_num) hpa (by norm_num) (by norm_num) (by norm_num) (by norm_num)
+      (by linarith only [s1_pow0,s1_corner0a]) (by linarith only [s1_pow0,s1_corner0b])
+      X ![![0, 1, 2], ![1, 0, 2], ![2, 0, 1]] ![![true, true, true], ![true, true, false], ![false, true, true]] hX 0 (by
+        change ((1 : ℝ)*pair X 0 1) ≤ (58301/100000 : ℝ)*((1 : ℝ)*pair X 0 0)
+        simp only [pair0,pair1,pair2,Pi.add_apply]
+        linarith only [ratio_s0_0])
+    change lpNorm p (pair X 0) ≤ ((1 : ℝ)*pair X 0 0)+(20050882830601/1457525000000000 : ℝ)*((1 : ℝ)*pair X 0 1)+(77319253160071/5830100000000000 : ℝ)*((1 : ℝ)*pair X 0 2) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have s1_pow1 : (57651/100000 : ℝ) ^ (91/16 : ℝ) ≤ (4361028553031616657/100000000000000000000 : ℝ) := by
+    have hpowers : (57651/100000 : ℝ)^91 ≤ (4361028553031616657/100000000000000000000 : ℝ)^16 := by
+      have hnat : (57651 : ℕ)^91*100000000000000000000^16 ≤ 4361028553031616657^16*100000^91 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        57651 100000 4361028553031616657 100000000000000000000 91 16 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := rpow_le_of_pow_le (x := (57651/100000 : ℝ)) (X := (4361028553031616657/100000000000000000000 : ℝ)) (by norm_num) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s1_corner1a : (104361028553031616657/100000000000000000000 : ℝ) ≤ (10075334886437431/10000000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (104361028553031616657/100000000000000000000 : ℝ)^16 ≤ (10075334886437431/10000000000000000 : ℝ)^91 := by
+      have hnat : (104361028553031616657 : ℕ)^16*10000000000000000^91 ≤ 10075334886437431^91*100000000000000000000^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        104361028553031616657 100000000000000000000 10075334886437431 10000000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (10075334886437431/10000000000000000 : ℝ)) (X := (104361028553031616657/100000000000000000000 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s1_corner1b : (54361028553031616657/50000000000000000000 : ℝ) ≤ (10148118335447367/10000000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (54361028553031616657/50000000000000000000 : ℝ)^16 ≤ (10148118335447367/10000000000000000 : ℝ)^91 := by
+      have hnat : (54361028553031616657 : ℕ)^16*10000000000000000^91 ≤ 10148118335447367^91*50000000000000000000^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        54361028553031616657 50000000000000000000 10148118335447367 10000000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (10148118335447367/10000000000000000 : ℝ)) (X := (54361028553031616657/50000000000000000000 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have major_s1_1 : P 1 ≤ ((1 : ℝ)*(X 0 1+X 2 1))+(25111628812477/1921700000000000 : ℝ)*((1 : ℝ)*(X 0 0+X 2 0))+(4548965563121/360318750000000 : ℝ)*((-1 : ℝ)*(X 0 2+X 2 2)) := by
+    have hh := chart_majorant (a := (91/16 : ℝ)) (rho := (57651/100000 : ℝ)) (alpha := (25111628812477/1921700000000000 : ℝ)) (beta := (4548965563121/360318750000000 : ℝ))
+      (by linarith only [hpa] : (1 : ℝ) ≤ p) (by norm_num) hpa (by norm_num) (by norm_num) (by norm_num) (by norm_num)
+      (by linarith only [s1_pow1,s1_corner1a]) (by linarith only [s1_pow1,s1_corner1b])
+      X ![![0, 1, 2], ![1, 0, 2], ![2, 0, 1]] ![![true, true, true], ![true, true, false], ![false, true, true]] hX 1 (by
+        change ((1 : ℝ)*pair X 1 0) ≤ (57651/100000 : ℝ)*((1 : ℝ)*pair X 1 1)
+        simp only [pair0,pair1,pair2,Pi.add_apply]
+        linarith only [ratio_s0_1])
+    change lpNorm p (pair X 1) ≤ ((1 : ℝ)*pair X 1 1)+(25111628812477/1921700000000000 : ℝ)*((1 : ℝ)*pair X 1 0)+(4548965563121/360318750000000 : ℝ)*((-1 : ℝ)*pair X 1 2) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have s1_pow2 : (20581/100000 : ℝ) ^ (91/16 : ℝ) ≤ (2490981825636957/20000000000000000000 : ℝ) := by
+    have hpowers : (20581/100000 : ℝ)^91 ≤ (2490981825636957/20000000000000000000 : ℝ)^16 := by
+      have hnat : (20581 : ℕ)^91*20000000000000000000^16 ≤ 2490981825636957^16*100000^91 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        20581 100000 2490981825636957 20000000000000000000 91 16 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := rpow_le_of_pow_le (x := (20581/100000 : ℝ)) (X := (2490981825636957/20000000000000000000 : ℝ)) (by norm_num) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s1_corner2a : (20002490981825636957/20000000000000000000 : ℝ) ≤ (10000218976174527/10000000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (20002490981825636957/20000000000000000000 : ℝ)^16 ≤ (10000218976174527/10000000000000000 : ℝ)^91 := by
+      have hnat : (20002490981825636957 : ℕ)^16*10000000000000000^91 ≤ 10000218976174527^91*20000000000000000000^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        20002490981825636957 20000000000000000000 10000218976174527 10000000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (10000218976174527/10000000000000000 : ℝ)) (X := (20002490981825636957/20000000000000000000 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have s1_corner2b : (10002490981825636957/10000000000000000000 : ℝ) ≤ (400017517195001/400000000000000 : ℝ) ^ (91/16 : ℝ) := by
+    have hpowers : (10002490981825636957/10000000000000000000 : ℝ)^16 ≤ (400017517195001/400000000000000 : ℝ)^91 := by
+      have hnat : (10002490981825636957 : ℕ)^16*400000000000000^91 ≤ 400017517195001^91*10000000000000000000^16 := by decide +kernel
+      have hreal := HlawkaSchatten.DiagonalCutoff4.rational_powers_le
+        10002490981825636957 10000000000000000000 400017517195001 400000000000000 16 91 (by decide) (by decide) hnat
+      simpa only [Nat.cast_ofNat, Nat.cast_zero, Nat.cast_one, div_one] using hreal
+    have h := le_rpow_of_pow_le (x := (400017517195001/400000000000000 : ℝ)) (X := (10002490981825636957/10000000000000000000 : ℝ)) (by norm_num) 91 16 (by norm_num) hpowers
+    exact h
+  have major_s1_2 : P 2 ≤ ((1 : ℝ)*(X 0 2+X 1 2))+(19906924957/187100000000000 : ℝ)*((-1 : ℝ)*(X 0 0+X 1 0))+(109476850249/1029050000000000 : ℝ)*((1 : ℝ)*(X 0 1+X 1 1)) := by
+    have hh := chart_majorant (a := (91/16 : ℝ)) (rho := (20581/100000 : ℝ)) (alpha := (19906924957/187100000000000 : ℝ)) (beta := (109476850249/1029050000000000 : ℝ))
+      (by linarith only [hpa] : (1 : ℝ) ≤ p) (by norm_num) hpa (by norm_num) (by norm_num) (by norm_num) (by norm_num)
+      (by linarith only [s1_pow2,s1_corner2a]) (by linarith only [s1_pow2,s1_corner2b])
+      X ![![0, 1, 2], ![1, 0, 2], ![2, 0, 1]] ![![true, true, true], ![true, true, false], ![false, true, true]] hX 2 (by
+        change ((-1 : ℝ)*pair X 2 0) ≤ (20581/100000 : ℝ)*((1 : ℝ)*pair X 2 2)
+        simp only [pair0,pair1,pair2,Pi.add_apply]
+        linarith only [ratio_s0_2])
+    change lpNorm p (pair X 2) ≤ ((1 : ℝ)*pair X 2 2)+(19906924957/187100000000000 : ℝ)*((-1 : ℝ)*pair X 2 0)+(109476850249/1029050000000000 : ℝ)*((1 : ℝ)*pair X 2 1) at hh
+    simpa only [P,pair0,pair1,pair2,Pi.add_apply] using hh
+  have sp_s1_0 : ((-3530264573/10000000000 : ℝ)*X 0 0+(3527798577/10000000000 : ℝ)*X 0 1+(2493399579/5000000000 : ℝ)*X 0 2+(-1 : ℝ)*N 0) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s1_0 p hpa hpb (X 0)
+    change _ ≤ N 0 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s1_1 : ((1474356237/5000000000 : ℝ)*X 1 0+(-294665271/1000000000 : ℝ)*X 1 1+(6028050577/10000000000 : ℝ)*X 1 2+(-1 : ℝ)*N 1) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s1_1 p hpa hpb (X 1)
+    change _ ≤ N 1 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s1_2 : ((2579530327/5000000000 : ℝ)*X 2 0+(5162571389/10000000000 : ℝ)*X 2 1+(-745449813/5000000000 : ℝ)*X 2 2+(-1 : ℝ)*N 2) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s1_2 p hpa hpb (X 2)
+    change _ ≤ N 2 at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have sp_s1_6 : ((4929576751/10000000000 : ℝ)*X 0 0+(2466465661/5000000000 : ℝ)*X 0 1+(2061660937/10000000000 : ℝ)*X 0 2+(4929576751/10000000000 : ℝ)*X 1 0+(2466465661/5000000000 : ℝ)*X 1 1+(2061660937/10000000000 : ℝ)*X 1 2+(4929576751/10000000000 : ℝ)*X 2 0+(2466465661/5000000000 : ℝ)*X 2 1+(2061660937/10000000000 : ℝ)*X 2 2+(-1 : ℝ)*T) ≤ (0 : ℝ) := by
+    have hh := collision_support_c328051_s1_6 p hpa hpb (total X)
+    change _ ≤ T at hh
+    try simp only [pair0,pair1,pair2,total_eq,Pi.add_apply] at hh
+    linarith only [hh]
+  have hsep : (-20037/2000 : ℝ) < ((-8679/4000 : ℝ)*P 0+(-8679/4000 : ℝ)*P 1+(-8679/4000 : ℝ)*P 2+(1 : ℝ)*T) := by
+    have hcertificate_margin : (-20037/2000 : ℝ) < (-259810927631120262635311044587742239/26202660788837500000000000000000000 : ℝ) := by norm_num
+    linear_combination (16309/100000000000 : ℝ)*(base5) + (1/39062500 : ℝ)*(base7) + (26991/125000000000 : ℝ)*(base19) + (9391/1000000000000 : ℝ)*(base23) + (883/125000000000 : ℝ)*(base43) + (287980836957/1000000000000 : ℝ)*(base49) + (191270299973/1000000000000 : ℝ)*(base59) + (87746102719/125000000000 : ℝ)*(base60) + (8679/4000 : ℝ)*(major_s1_0) + (271218749117/125000000000 : ℝ)*(major_s1_1) + (8679/4000 : ℝ)*(major_s1_2) + (330514685877/100000000000 : ℝ)*(sp_s1_0) + (661029329981/200000000000 : ℝ)*(sp_s1_1) + (3305147012469/1000000000000 : ℝ)*(sp_s1_2) + (99999986251/100000000000 : ℝ)*(sp_s1_6) + (3305146865833/1000000000000 : ℝ)*(f.sum) + (6312105684624889/449437587500000000000000000000 : ℝ)*base63 + (1222725942221/1871000000000000000000000 : ℝ)*base64 + (682813435433099/1441275000000000000000000000 : ℝ)*base66 + (142120385871/935500000000000000000000 : ℝ)*base69 + (32177717518007957/109081171000000000000000000000 : ℝ)*base70 + (34005108135289/116602000000000000000000000 : ℝ)*base73 + (11681944575581/240212500000000000000000000 : ℝ)*base74 + (220866998823961/583010000000000000000000000 : ℝ)*base76 + (18909845067865135457/42013886887500000000000000000000 : ℝ)*base78 + (1/1000000000000 : ℝ)*base81 + (1/1000000000000 : ℝ)*base85 + hcertificate_margin
+  linarith only [hsep,f.failure]
+
+end HlawkaSchatten.DiagonalCutoff4
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+set_option maxRecDepth 40000
+open HlawkaSchatten.DiagonalConstruction HlawkaSchatten.DiagonalCutoff6
+namespace HlawkaSchatten.DiagonalCutoff4
+theorem coarse_distinct_p028_b024 (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ))
+    (c : Fin 88) (hlo : 51 ≤ c.val) (hhi : c.val < 52)
+    (hn63 : c ≠ 63) (hn87 : c ≠ 87)
+    (X : Fin 3 → Fin 3 → ℝ) (hX : OrderedChart p (8679/4000 : ℝ) (80697/50000 : ℝ) (82433/100000 : ℝ) X (distinctOrders c) (distinctSigns c)) : False := by
+  have hc : c=51 := by omega
+  rcases hc with rfl
+  · exact collision_c328051 p hpa (by linarith only [hpb]) X hX
+
+end HlawkaSchatten.DiagonalCutoff4
+open HlawkaSchatten.DiagonalCutoff4 HlawkaSchatten.DiagonalCutoff6
+
+theorem solution (p : ℝ) (hpa : (91/16 : ℝ) ≤ p) (hpb : p ≤ (93/16 : ℝ))
+    (c : Fin 88) (hlo : 51 ≤ c.val) (hhi : c.val < 52)
+    (hn63 : c ≠ 63) (hn87 : c ≠ 87)
+    (X : Fin 3 → Fin 3 → ℝ) (hX : OrderedChart p (8679/4000 : ℝ) (80697/50000 : ℝ) (82433/100000 : ℝ) X (distinctOrders c) (distinctSigns c)) : False := by
+  exact HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p028_b024 p hpa hpb c hlo hhi hn63 hn87 X hX
+
+#print axioms solution

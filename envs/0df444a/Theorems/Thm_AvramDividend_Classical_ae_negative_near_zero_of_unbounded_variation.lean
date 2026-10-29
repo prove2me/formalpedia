@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_ae_negative_near_zero_of_unbounded_variation
 -- name    : AvramDividend.Classical.ae_negative_near_zero_of_unbounded_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T21:20:47.874263+00:00
 -- url     : https://prove2.me/theorems/703dc740-a8df-4cd1-9ff1-622fd81d68c7

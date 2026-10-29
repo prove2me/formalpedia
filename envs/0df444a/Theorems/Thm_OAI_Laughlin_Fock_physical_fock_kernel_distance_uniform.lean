@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_fock_kernel_distance_uniform
 -- name    : OAI.Laughlin.Fock.physical_fock_kernel_distance_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T08:30:10.210984+00:00
 -- url     : https://prove2.me/theorems/c9bc5384-a8e7-4e7e-8bb1-3024692e2460

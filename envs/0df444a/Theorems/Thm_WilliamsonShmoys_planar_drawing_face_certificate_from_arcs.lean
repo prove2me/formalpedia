@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_certificate_from_arcs
 -- name    : WilliamsonShmoys.planar_drawing_face_certificate_from_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:00:10.668946+00:00
 -- url     : https://prove2.me/theorems/41afc169-9eb4-4682-8d03-09ec36ef1b9a

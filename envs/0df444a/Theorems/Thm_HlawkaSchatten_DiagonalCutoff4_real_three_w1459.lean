@@ -1,0 +1,20 @@
+-- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_real_three_w1459
+-- name    : HlawkaSchatten.DiagonalCutoff4.real_three_w1459
+-- status  : Proved
+-- author  : @shivm
+-- created : 2026-10-28T21:44:16.266388+00:00
+-- url     : https://prove2.me/theorems/06ee1d8a-c6bf-4302-ab54-ddbc9476337a
+-- title:
+--   Sharp diagonal Hlawka inequality in real dimension three for 2209/512 ≤ p ≤ 4419/1024
+-- statement:
+--   For every real p in [2209/512,4419/1024], the campaign cyclic constant satisfies the Hlawka inequality for every triple in real dimension three. No sign or localization assumption is imposed.
+-- source:
+--   Sharp diagonal Hlawka campaign: https://prove2.me/campaigns/sharp-diagonal-hlawka-constant . Analytic strengthening of the proved cutoff-six method. Generic norm facts retain Apache-2.0 attribution to Ezzeri Esa, bwdaugherty and Yuxuan Xu.
+
+import Definitions.Def_HlawkaSchatten_GapComparison
+import Definitions.Def_HlawkaSchatten_DiagonalCutoff4_Localization
+open HlawkaSchatten.DiagonalConstruction HlawkaSchatten.DiagonalCutoff6 HlawkaSchatten.DiagonalCutoff4
+open HlawkaSchatten
+
+theorem HlawkaSchatten.DiagonalCutoff4.real_three_w1459 (p : ℝ) (hpa : (2209/512 : ℝ) ≤ p) (hpb : p ≤ (4419/1024 : ℝ)) :
+    HasHlawkaConstant (lpNorm p : (Fin 3 → ℝ) → ℝ) (cyclicConstant p) := by sorry

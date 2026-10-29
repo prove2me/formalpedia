@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_dense_supergraph_completion
 -- name    : WilliamsonShmoys.planar_graph_has_dense_supergraph_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T05:24:59.886014+00:00
 -- url     : https://prove2.me/theorems/932ee8f7-1f4c-44d2-9f10-3199153b8220

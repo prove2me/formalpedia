@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkutellaCQP_NoRel_lemma_2_8
 -- name    : SkutellaCQP.NoRel.lemma_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:06:13.611044+00:00
 -- url     : https://prove2.me/theorems/dba7aed6-e582-414c-9e28-2f97ed1c18f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityB_mnat_lnat_ineq_extends_to_reals
 -- name    : DiscreteConvex.ConjugacyDualityB.mnat_lnat_ineq_extends_to_reals
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:34:54.608222+00:00
 -- url     : https://prove2.me/theorems/f42c8066-10c2-44d8-87ae-3700757ed285

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAssignment_Svensson_configLP_integrality_gap
 -- name    : RestrictedAssignment.Svensson.configLP_integrality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:32:28.982171+00:00
 -- url     : https://prove2.me/theorems/f83dc63c-d76c-4bb4-ba6f-04234a1f347d

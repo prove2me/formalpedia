@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_smooth_below_positive_cstar
 -- name    : AvramDividend.Classical.vcstar_smooth_below_positive_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T20:48:04.672976+00:00
 -- url     : https://prove2.me/theorems/abc53032-95fc-4630-afb1-742ae38fc0db

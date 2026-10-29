@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CPDNetworks_Lower_theorem_2
 -- name    : CPDNetworks.Lower.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:27:04.62535+00:00
 -- url     : https://prove2.me/theorems/649c1a4d-cc90-4d27-933e-5a8f118adfa2

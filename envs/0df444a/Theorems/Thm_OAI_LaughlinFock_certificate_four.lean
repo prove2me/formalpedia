@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LaughlinFock_certificate_four
 -- name    : OAI.LaughlinFock.certificate_four
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T17:47:49.270359+00:00
 -- url     : https://prove2.me/theorems/43985e99-cfa4-4979-8de7-fb28d95da0ca

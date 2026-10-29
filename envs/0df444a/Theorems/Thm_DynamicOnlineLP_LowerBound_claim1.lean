@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_LowerBound_claim1
 -- name    : DynamicOnlineLP.LowerBound.claim1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T20:12:04.139977+00:00
 -- url     : https://prove2.me/theorems/3ccad566-8739-40eb-8417-6c91bf02c66b

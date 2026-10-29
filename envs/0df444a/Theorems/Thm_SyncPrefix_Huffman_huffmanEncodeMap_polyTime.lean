@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncPrefix_Huffman_huffmanEncodeMap_polyTime
 -- name    : SyncPrefix.Huffman.huffmanEncodeMap_polyTime
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:39:35.810105+00:00
 -- url     : https://prove2.me/theorems/46b534ea-7a76-469d-afe0-94705cf03701

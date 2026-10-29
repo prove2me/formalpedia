@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_net0O2_blk1_LabGates2
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.net0O2_blk1_LabGates2
--- status  : Open
+-- status  : Proved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T20:28:36.324332+00:00
 -- url     : https://prove2.me/theorems/9d79d35c-e781-4b7c-aa85-bc69a8292864

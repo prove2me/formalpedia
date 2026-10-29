@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkutellaCQP_NoRel_theorem_2_6_a
 -- name    : SkutellaCQP.NoRel.theorem_2_6_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:06:12.931818+00:00
 -- url     : https://prove2.me/theorems/7e50f92e-8ee7-4091-a053-c30c97b88ca9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HofmannMoser_proposition_4
 -- name    : HofmannMoser.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-28T00:51:36.964075+00:00
 -- url     : https://prove2.me/theorems/247cc268-56b0-4ea4-804a-44b8c8461dbc

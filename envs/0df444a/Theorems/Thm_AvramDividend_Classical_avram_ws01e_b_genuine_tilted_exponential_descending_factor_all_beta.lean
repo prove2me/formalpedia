@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ws01e_b_genuine_tilted_exponential_descending_factor_all_beta
 -- name    : AvramDividend.Classical.avram_ws01e_b_genuine_tilted_exponential_descending_factor_all_beta
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T10:15:29.619189+00:00
 -- url     : https://prove2.me/theorems/e4e12a00-3785-4af6-9fde-d20df7a0d7bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_RationalPhysicalKernel_histories_survival
 -- name    : OAI.MetricKMedian.RationalPhysicalKernel.histories_survival
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:36:19.936984+00:00
 -- url     : https://prove2.me/theorems/15003c2d-8c41-44c8-8294-acbb1dcff88c

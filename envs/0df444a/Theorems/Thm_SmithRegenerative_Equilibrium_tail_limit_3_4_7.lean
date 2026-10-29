@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithRegenerative_Equilibrium_tail_limit_3_4_7
 -- name    : SmithRegenerative.Equilibrium.tail_limit_3_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:35:47.384765+00:00
 -- url     : https://prove2.me/theorems/764a1781-cfa7-4b17-99f0-43dfa2da221d

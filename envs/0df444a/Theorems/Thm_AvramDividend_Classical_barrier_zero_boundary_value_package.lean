@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrier_zero_boundary_value_package
 -- name    : AvramDividend.Classical.barrier_zero_boundary_value_package
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T20:49:48.148501+00:00
 -- url     : https://prove2.me/theorems/027a50fd-b61d-4033-9fd7-d3b97fe2f5e2

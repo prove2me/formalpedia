@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_esscher_tilted_scale_positive_finite_limit
 -- name    : AvramDividend.Classical.unbounded_esscher_tilted_scale_positive_finite_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T22:08:29.651218+00:00
 -- url     : https://prove2.me/theorems/644a82be-2981-40ce-8a33-f9f02dc55b89

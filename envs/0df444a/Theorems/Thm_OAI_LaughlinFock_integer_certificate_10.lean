@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LaughlinFock_integer_certificate_10
 -- name    : OAI.LaughlinFock.integer_certificate_10
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T18:24:26.910182+00:00
 -- url     : https://prove2.me/theorems/d7acf0b0-1337-4d65-8c8c-9b0a3a8882eb

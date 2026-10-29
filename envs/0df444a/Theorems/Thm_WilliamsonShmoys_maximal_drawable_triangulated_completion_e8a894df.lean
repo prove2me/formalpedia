@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_triangulated_completion_e8a894df
 -- name    : WilliamsonShmoys.maximal_drawable_triangulated_completion_e8a894df
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T10:41:46.96081+00:00
 -- url     : https://prove2.me/theorems/202d559d-0e5c-40b5-aae4-a86f170ee5dd

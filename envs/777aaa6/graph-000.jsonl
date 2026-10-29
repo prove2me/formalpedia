@@ -12539,7 +12539,7 @@
 {"parent": "mme_released_interior_owner0_region_coarse_penalty", "child": "mme_rational_coarse_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner0_region_coarse_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner0_regional_joint_counts", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner0_shape10_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner0_shape10_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
@@ -13691,7 +13691,7 @@
 {"parent": "mme_released_interior_owner1_region_coarse_penalty", "child": "mme_rational_coarse_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner1_region_coarse_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner1_regional_joint_counts", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner1_shape10_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner1_shape10_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
@@ -14841,7 +14841,7 @@
 {"parent": "mme_released_interior_owner2_region_coarse_penalty", "child": "mme_rational_coarse_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner2_region_coarse_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner2_regional_joint_counts", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner2_shape10_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner2_shape10_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
@@ -14972,9 +14972,9 @@
 {"parent": "mme_released_interior_owner3_cell18_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell18_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell18_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_owner3_cell19_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell19_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell19_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner3_cell19_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell19_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell19_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell19_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell19_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell19_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
@@ -14990,108 +14990,108 @@
 {"parent": "mme_released_interior_owner3_cell20_region1_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell20_region1_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell20_region1_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_owner3_cell20_region4_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell20_region4_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell20_region4_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell20_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell20_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell20_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner3_cell20_region4_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell20_region4_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell20_region4_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell20_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell20_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell20_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell21_region0_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell21_region0_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell21_region0_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell21_region1_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell21_region1_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell21_region1_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region4_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region4_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region4_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell21_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region4_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region4_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region4_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell21_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell22_region0_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell22_region0_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell22_region0_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell22_region1_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell22_region1_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell22_region1_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_owner3_cell22_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell22_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell22_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell22_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell22_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell22_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell22_region4_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell22_region4_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell22_region4_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell25_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell25_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell25_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell25_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell25_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell25_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell25_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell25_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell25_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner3_cell22_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell22_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell22_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell22_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell22_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell22_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell22_region4_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell22_region4_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell22_region4_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell25_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell25_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell25_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell25_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell25_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell25_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell25_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell25_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell25_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell26_region0_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell26_region0_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell26_region0_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell26_region1_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell26_region1_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell26_region1_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_owner3_cell26_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell26_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell26_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell26_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell26_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell26_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region4_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region4_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region4_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell27_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner3_cell26_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell26_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell26_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell26_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell26_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell26_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region4_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region4_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region4_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell27_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell28_region0_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell28_region0_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell28_region0_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_owner3_cell28_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell28_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell28_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell28_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell28_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell28_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner3_cell28_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell28_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell28_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell28_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell28_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell28_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell31_region0_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell31_region0_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell31_region0_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell31_region1_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell31_region1_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell31_region1_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_owner3_cell31_region4_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell31_region4_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell31_region4_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner3_cell31_region4_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell31_region4_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell31_region4_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell32_region0_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell32_region0_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell32_region0_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_owner3_cell32_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell32_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell32_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell32_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell32_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell32_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell32_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell32_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_cell32_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner3_cell32_region2_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell32_region2_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell32_region2_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell32_region3_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell32_region3_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell32_region3_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell32_region5_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell32_region5_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_cell32_region5_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell33_region1_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell33_region1_product_dual_penalty", "child": "mme_rational_product_dual_penalty_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_cell33_region1_product_dual_penalty", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
@@ -15144,30 +15144,30 @@
 {"parent": "mme_released_interior_owner3_shape18_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_shape19_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_shape19_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_owner3_shape20_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape20_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape21_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape21_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape22_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape22_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape25_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape25_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape26_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape26_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape27_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape27_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape28_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape28_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape31_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape31_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape32_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape32_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape33_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape33_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape36_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape36_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape37_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
-{"parent": "mme_released_interior_owner3_shape37_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
+{"parent": "mme_released_interior_owner3_shape20_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape20_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape21_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape21_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape22_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape22_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape25_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape25_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape26_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape26_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape27_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape27_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape28_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape28_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape31_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape31_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape32_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape32_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape33_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape33_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape36_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape36_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape37_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_owner3_shape37_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_owner3_shape40_region_parent_compatibility", "child": "mme_rational_parent_compatibility_certificate", "via": ["statement"]}
 {"parent": "mme_released_interior_owner3_shape40_region_parent_compatibility", "child": "mme_released_interior_integer_profiles", "via": ["statement"]}
 {"parent": "mme_released_interior_owner4_cell10_region0_product_dual_penalty", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
@@ -15492,10 +15492,10 @@
 {"parent": "mme_released_interior_scaled_graded_fine_word_window", "child": "mme_recursive_profiled_CW_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_scaled_graded_fine_word_window", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_scaled_graded_fine_word_window", "child": "mme_released_interior_scaled_partition_parent_window", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_scaled_integer_profile_constraints", "child": "mme_more_asymmetry_released_exact_profile_seed", "via": ["statement"]}
-{"parent": "mme_released_interior_scaled_integer_profile_constraints", "child": "mme_recursive_region_parent_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_scaled_integer_profile_constraints", "child": "mme_recursive_x_hash_families", "via": ["statement"]}
-{"parent": "mme_released_interior_scaled_integer_profile_constraints", "child": "mme_released_global_profile_data", "via": ["statement"]}
+{"parent": "mme_released_interior_scaled_integer_profile_constraints", "child": "mme_more_asymmetry_released_exact_profile_seed", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_scaled_integer_profile_constraints", "child": "mme_recursive_region_parent_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_scaled_integer_profile_constraints", "child": "mme_recursive_x_hash_families", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_scaled_integer_profile_constraints", "child": "mme_released_global_profile_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_scaled_integer_profile_constraints_exact", "child": "mme_more_asymmetry_released_exact_profile_seed", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_scaled_integer_profile_constraints_exact", "child": "mme_recursive_region_parent_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_scaled_integer_profile_constraints_exact", "child": "mme_recursive_x_hash_families", "via": ["solution", "statement"]}
@@ -15531,9 +15531,9 @@
 {"parent": "mme_released_interior_weighted_output_matrix_weight_rate", "child": "mme_released_interior_permuted_output_matrix_weight_rate", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_weighted_parent_center", "child": "mme_released_interior_aggregate_parent_counts", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_weighted_parent_center", "child": "mme_released_interior_weighted_region_parent_mixture_exact", "via": ["solution", "statement"]}
-{"parent": "mme_released_interior_weighted_region_parent_mixture", "child": "mme_more_asymmetry_released_exact_profile_seed", "via": ["statement"]}
-{"parent": "mme_released_interior_weighted_region_parent_mixture", "child": "mme_recursive_region_parent_profiles", "via": ["statement"]}
-{"parent": "mme_released_interior_weighted_region_parent_mixture", "child": "mme_released_global_profile_data", "via": ["statement"]}
+{"parent": "mme_released_interior_weighted_region_parent_mixture", "child": "mme_more_asymmetry_released_exact_profile_seed", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_weighted_region_parent_mixture", "child": "mme_recursive_region_parent_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_weighted_region_parent_mixture", "child": "mme_released_global_profile_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_weighted_region_parent_mixture_exact", "child": "mme_more_asymmetry_released_exact_profile_seed", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_weighted_region_parent_mixture_exact", "child": "mme_recursive_region_parent_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_weighted_region_parent_mixture_exact", "child": "mme_released_global_profile_data", "via": ["solution", "statement"]}
@@ -20911,11 +20911,11 @@
 {"parent": "mme_released_recursive_stage_region0_coarse_floor", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_coarse_floor", "child": "mme_released_recursive_stage_region0_counts", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_released_recursive_level3_compat0", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_released_recursive_level3_compat1", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_released_recursive_level3_compat2", "via": ["statement"]}
@@ -20923,7 +20923,7 @@
 {"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_released_recursive_level3_compat4", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_released_recursive_level3_compat5", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_released_recursive_level3_compat6", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -20947,11 +20947,11 @@
 {"parent": "mme_released_recursive_stage_region0_compat1_s0_h1", "child": "mme_released_recursive_level3_compat6", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s0_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_released_recursive_level3_compat10", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_released_recursive_level3_compat11", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_released_recursive_level3_compat12", "via": ["statement"]}
@@ -20959,7 +20959,7 @@
 {"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_released_recursive_level3_compat7", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_released_recursive_level3_compat8", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_released_recursive_level3_compat9", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -20983,11 +20983,11 @@
 {"parent": "mme_released_recursive_stage_region0_compat1_s1_h1", "child": "mme_released_recursive_level3_compat9", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat1_s1_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_released_recursive_level3_compat0", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_released_recursive_level3_compat1", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_released_recursive_level3_compat2", "via": ["statement"]}
@@ -20995,7 +20995,7 @@
 {"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_released_recursive_level3_compat4", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_released_recursive_level3_compat5", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_released_recursive_level3_compat6", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21019,11 +21019,11 @@
 {"parent": "mme_released_recursive_stage_region0_compat2_s0_h1", "child": "mme_released_recursive_level3_compat6", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s0_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_released_recursive_level3_compat10", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_released_recursive_level3_compat11", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_released_recursive_level3_compat12", "via": ["statement"]}
@@ -21031,7 +21031,7 @@
 {"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_released_recursive_level3_compat7", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_released_recursive_level3_compat8", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_released_recursive_level3_compat9", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s1_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s1_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region0_compat2_s1_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21208,11 +21208,11 @@
 {"parent": "mme_released_recursive_stage_region1_compat1_s0_h1", "child": "mme_released_recursive_level3_compat18", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s0_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_released_recursive_level3_compat18", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_released_recursive_level3_compat19", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_released_recursive_level3_compat20", "via": ["statement"]}
@@ -21220,7 +21220,7 @@
 {"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_released_recursive_level3_compat22", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_released_recursive_level3_compat23", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_released_recursive_level3_compat24", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21244,18 +21244,18 @@
 {"parent": "mme_released_recursive_stage_region1_compat1_s1_h1", "child": "mme_released_recursive_level3_compat24", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat1_s1_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_released_recursive_level3_compat13", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_released_recursive_level3_compat14", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_released_recursive_level3_compat15", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_released_recursive_level3_compat16", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_released_recursive_level3_compat17", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_released_recursive_level3_compat18", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21278,18 +21278,18 @@
 {"parent": "mme_released_recursive_stage_region1_compat2_s0_h1", "child": "mme_released_recursive_level3_compat18", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s0_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_released_recursive_level3_compat19", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_released_recursive_level3_compat20", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_released_recursive_level3_compat21", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_released_recursive_level3_compat22", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_released_recursive_level3_compat23", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_released_recursive_level3_compat24", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region1_compat2_s1_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21464,11 +21464,11 @@
 {"parent": "mme_released_recursive_stage_region2_compat1_s0_h1", "child": "mme_released_recursive_level3_compat30", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s0_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_released_recursive_level3_compat30", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_released_recursive_level3_compat31", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_released_recursive_level3_compat32", "via": ["statement"]}
@@ -21476,7 +21476,7 @@
 {"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_released_recursive_level3_compat34", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_released_recursive_level3_compat35", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_released_recursive_level3_compat36", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21500,18 +21500,18 @@
 {"parent": "mme_released_recursive_stage_region2_compat1_s1_h1", "child": "mme_released_recursive_level3_compat36", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat1_s1_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_released_recursive_level3_compat25", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_released_recursive_level3_compat26", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_released_recursive_level3_compat27", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_released_recursive_level3_compat28", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_released_recursive_level3_compat29", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_released_recursive_level3_compat30", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region2_compat2_s0_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21706,11 +21706,11 @@
 {"parent": "mme_released_recursive_stage_region3_compat1_s0_h1", "child": "mme_released_recursive_level3_compat42", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s0_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_released_recursive_level3_compat42", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_released_recursive_level3_compat43", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_released_recursive_level3_compat44", "via": ["statement"]}
@@ -21718,7 +21718,7 @@
 {"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_released_recursive_level3_compat46", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_released_recursive_level3_compat47", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_released_recursive_level3_compat48", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21742,18 +21742,18 @@
 {"parent": "mme_released_recursive_stage_region3_compat1_s1_h1", "child": "mme_released_recursive_level3_compat48", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat1_s1_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_released_recursive_level3_compat37", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_released_recursive_level3_compat38", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_released_recursive_level3_compat39", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_released_recursive_level3_compat40", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_released_recursive_level3_compat41", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_released_recursive_level3_compat42", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21776,11 +21776,11 @@
 {"parent": "mme_released_recursive_stage_region3_compat2_s0_h1", "child": "mme_released_recursive_level3_compat42", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s0_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_released_recursive_level3_compat42", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_released_recursive_level3_compat43", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_released_recursive_level3_compat44", "via": ["statement"]}
@@ -21788,7 +21788,7 @@
 {"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_released_recursive_level3_compat46", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_released_recursive_level3_compat47", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_released_recursive_level3_compat48", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s1_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s1_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region3_compat2_s1_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21930,18 +21930,18 @@
 {"parent": "mme_released_recursive_stage_region4_coarse_floor", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_coarse_floor", "child": "mme_released_recursive_stage_region4_counts", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_released_recursive_level3_compat49", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_released_recursive_level3_compat50", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_released_recursive_level3_compat51", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_released_recursive_level3_compat52", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_released_recursive_level3_compat53", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_released_recursive_level3_compat54", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -21964,11 +21964,11 @@
 {"parent": "mme_released_recursive_stage_region4_compat1_s0_h1", "child": "mme_released_recursive_level3_compat54", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s0_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_released_recursive_level3_compat54", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_released_recursive_level3_compat55", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_released_recursive_level3_compat56", "via": ["statement"]}
@@ -21976,7 +21976,7 @@
 {"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_released_recursive_level3_compat58", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_released_recursive_level3_compat59", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_released_recursive_level3_compat60", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s1_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s1_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat1_s1_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -22034,11 +22034,11 @@
 {"parent": "mme_released_recursive_stage_region4_compat2_s0_h1", "child": "mme_released_recursive_level3_compat54", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s0_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_released_recursive_level3_compat54", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_released_recursive_level3_compat55", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_released_recursive_level3_compat56", "via": ["statement"]}
@@ -22046,7 +22046,7 @@
 {"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_released_recursive_level3_compat58", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_released_recursive_level3_compat59", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_released_recursive_level3_compat60", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s1_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s1_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region4_compat2_s1_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -22257,18 +22257,18 @@
 {"parent": "mme_released_recursive_stage_region5_compat1_s1_h1", "child": "mme_released_recursive_level3_compat72", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat1_s1_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_released_recursive_level3_compat61", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_released_recursive_level3_compat62", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_released_recursive_level3_compat63", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_released_recursive_level3_compat64", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_released_recursive_level3_compat65", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_released_recursive_level3_compat66", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -22291,11 +22291,11 @@
 {"parent": "mme_released_recursive_stage_region5_compat2_s0_h1", "child": "mme_released_recursive_level3_compat66", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s0_h1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_certified_entropy_bridge", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_certified_entropy_bridge_data", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_certified_generic_ceiling_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_certified_potential_ceiling", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_recursive_yz_owned_filters", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_regional_split_entropy_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_released_recursive_level3_compat66", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_released_recursive_level3_compat67", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_released_recursive_level3_compat68", "via": ["statement"]}
@@ -22303,7 +22303,7 @@
 {"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_released_recursive_level3_compat70", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_released_recursive_level3_compat71", "via": ["statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_released_recursive_level3_compat72", "via": ["statement"]}
-{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s1_h0", "child": "mme_certified_entropy_bridge", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s1_h0", "child": "mme_certified_entropy_bridge_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_region5_compat2_s1_h0", "child": "mme_certified_generic_ceiling_data", "via": ["solution", "statement"]}
@@ -24055,3 +24055,100 @@
 {"parent": "zeta_ne_zero_of_strip_of_fourteen_lt_im_of_im_le_hundred", "child": "TaoFivePrimes.rh14to100_bernstein_checks", "via": ["solution"]}
 {"parent": "zeta_ne_zero_of_strip_of_fourteen_lt_im", "child": "zeta_ne_zero_of_strip_of_hundred_lt_im", "via": ["solution"]}
 {"parent": "zeta_ne_zero_of_strip_of_fourteen_lt_im", "child": "zeta_ne_zero_of_strip_of_fourteen_lt_im_of_im_le_hundred", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape15_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape27_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape21_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape14_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape20_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape22_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape19_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape28_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape36_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape18_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape40_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape12_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape10_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape32_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape26_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape37_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape33_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape13_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape25_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape31_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner0_region_parent_compatibility", "child": "mme_released_interior_owner0_shape11_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape14_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape21_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape33_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape22_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape26_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape13_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape32_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape10_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape11_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape36_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape37_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape19_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape40_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape15_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape28_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape18_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape27_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape31_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape25_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape20_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner1_region_parent_compatibility", "child": "mme_released_interior_owner1_shape12_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape12_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape21_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape40_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape18_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape28_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape25_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape22_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape36_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape10_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape20_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape33_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape11_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape14_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape32_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape15_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape26_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape13_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape27_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape37_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape19_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_interior_owner2_region_parent_compatibility", "child": "mme_released_interior_owner2_shape31_region_parent_compatibility", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_released_recursive_stage_region0_compat1_s0_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s0", "child": "mme_released_recursive_stage_region0_compat1_s0_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_released_recursive_stage_region0_compat1_s1_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region0_compat1_s1", "child": "mme_released_recursive_stage_region0_compat1_s1_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_released_recursive_stage_region0_compat2_s0_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s0", "child": "mme_released_recursive_stage_region0_compat2_s0_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_released_recursive_stage_region0_compat2_s1_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region0_compat2_s1", "child": "mme_released_recursive_stage_region0_compat2_s1_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_released_recursive_stage_region1_compat1_s1_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region1_compat1_s1", "child": "mme_released_recursive_stage_region1_compat1_s1_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_released_recursive_stage_region1_compat2_s0_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s0", "child": "mme_released_recursive_stage_region1_compat2_s0_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_released_recursive_stage_region1_compat2_s1_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region1_compat2_s1", "child": "mme_released_recursive_stage_region1_compat2_s1_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_released_recursive_stage_region2_compat1_s1_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region2_compat1_s1", "child": "mme_released_recursive_stage_region2_compat1_s1_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_released_recursive_stage_region2_compat2_s0_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region2_compat2_s0", "child": "mme_released_recursive_stage_region2_compat2_s0_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_released_recursive_stage_region3_compat1_s1_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region3_compat1_s1", "child": "mme_released_recursive_stage_region3_compat1_s1_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_released_recursive_stage_region3_compat2_s0_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s0", "child": "mme_released_recursive_stage_region3_compat2_s0_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_released_recursive_stage_region3_compat2_s1_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region3_compat2_s1", "child": "mme_released_recursive_stage_region3_compat2_s1_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_released_recursive_stage_region4_compat1_s0_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s0", "child": "mme_released_recursive_stage_region4_compat1_s0_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_released_recursive_stage_region4_compat1_s1_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region4_compat1_s1", "child": "mme_released_recursive_stage_region4_compat1_s1_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_released_recursive_stage_region4_compat2_s1_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region4_compat2_s1", "child": "mme_released_recursive_stage_region4_compat2_s1_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_released_recursive_stage_region5_compat2_s0_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s0", "child": "mme_released_recursive_stage_region5_compat2_s0_h1", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_released_recursive_stage_region5_compat2_s1_h0", "via": ["solution"]}
+{"parent": "mme_released_recursive_stage_region5_compat2_s1", "child": "mme_released_recursive_stage_region5_compat2_s1_h1", "via": ["solution"]}

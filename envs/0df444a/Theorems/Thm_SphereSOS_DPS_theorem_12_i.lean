@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SphereSOS_DPS_theorem_12_i
 -- name    : SphereSOS.DPS.theorem_12_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:18:32.669808+00:00
 -- url     : https://prove2.me/theorems/65129676-fe7d-4ffb-9024-47bff1479563

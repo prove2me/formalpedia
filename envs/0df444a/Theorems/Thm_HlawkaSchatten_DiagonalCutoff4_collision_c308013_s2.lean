@@ -1,0 +1,19 @@
+-- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_collision_c308013_s2
+-- name    : HlawkaSchatten.DiagonalCutoff4.collision_c308013_s2
+-- status  : Proved
+-- author  : @shivm
+-- created : 2026-10-28T21:20:59.069293+00:00
+-- url     : https://prove2.me/theorems/0375bee5-d53c-466e-a26c-d39ff0ccc2f8
+-- title:
+--   Hlawka collision chart 308014, bounded proof step 3
+-- statement:
+--   For the normalized ordered chart on $[17/4,35/8]$ and the preceding tail-ratio bounds displayed formally, no such real triple exists.
+-- source:
+--   Sharp diagonal Hlawka campaign: https://prove2.me/campaigns/sharp-diagonal-hlawka-constant . Analytic strengthening of the proved cutoff-six method. Generic norm facts retain Apache-2.0 attribution to Ezzeri Esa, bwdaugherty and Yuxuan Xu.
+
+import Definitions.Def_HlawkaSchatten_DiagonalCutoff4_Localization
+open HlawkaSchatten.DiagonalConstruction HlawkaSchatten.DiagonalCutoff6 HlawkaSchatten.DiagonalCutoff4
+
+theorem HlawkaSchatten.DiagonalCutoff4.collision_c308013_s2 (p : ℝ) (hpa : (17/4 : ℝ) ≤ p) (hpb : p ≤ (35/8 : ℝ))
+    (X : Fin 3 → Fin 3 → ℝ) (hX : OrderedChart p (156711/100000 : ℝ) (11517/6250 : ℝ) (3861/5000 : ℝ) X ![![0, 1, 2], ![1, 0, 2], ![2, 0, 1]] ![![true, true, true], ![false, false, true], ![true, false, true]])
+    (hprev1 : (0 : ℝ) ≤ ((6403/50000 : ℝ)*X 1 0+(-1 : ℝ)*X 1 1+(6403/50000 : ℝ)*X 2 0+(-1 : ℝ)*X 2 1) ∧ (0 : ℝ) ≤ ((1 : ℝ)*X 0 0+(-6209/50000 : ℝ)*X 0 1+(1 : ℝ)*X 2 0+(-6209/50000 : ℝ)*X 2 1) ∧ (0 : ℝ) ≤ ((-1 : ℝ)*X 0 0+(1397/10000 : ℝ)*X 0 2+(-1 : ℝ)*X 1 0+(1397/10000 : ℝ)*X 1 2)) : False := by sorry

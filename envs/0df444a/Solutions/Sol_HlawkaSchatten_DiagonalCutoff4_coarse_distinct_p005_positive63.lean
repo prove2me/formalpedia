@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p005_positive63
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @shivm
 -- created : 2026-10-28T20:28:57.789707+00:00
 -- url     : https://prove2.me/submissions/cb07bd3d-4978-472f-be76-444e9148914f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_collision_c305063_s0
 import Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_collision_c305063_s1

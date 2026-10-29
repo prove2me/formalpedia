@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_unrestricted_verification_regularity
 -- name    : AvramDividend.Classical.vcstar_unrestricted_verification_regularity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:35:29.372903+00:00
 -- url     : https://prove2.me/theorems/ffdd6f8d-a5cc-4aee-8726-785404cd72f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HHRControl_PV_approval_cc_in_NP
 -- name    : HHRControl.PV.approval_cc_in_NP
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:01:36.637149+00:00
 -- url     : https://prove2.me/theorems/327816ca-30ae-4c9c-b0ab-c485cad4252b

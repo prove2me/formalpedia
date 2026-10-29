@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_LowerBound_lemma11
 -- name    : DynamicOnlineLP.LowerBound.lemma11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T20:20:00.938786+00:00
 -- url     : https://prove2.me/theorems/8868b423-c46a-4e87-b7ca-f5256bf9e957

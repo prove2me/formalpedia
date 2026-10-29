@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.halfCyl_eventually_ne_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-26T22:25:39.101869+00:00
 -- url     : https://prove2.me/submissions/fe099ef8-798e-49ca-b332-418b0e8a019a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_Asymptotics
 import Theorems.Thm_FiniteEnergyPlane_isLoopEigen_apply_ne_zero

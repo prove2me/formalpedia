@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_boundedVariationOn_of_mem_exposedEdge
 -- name    : MovingSofa.boundedVariationOn_of_mem_exposedEdge
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-05T00:11:29.123996+00:00
 -- url     : https://prove2.me/theorems/a58aacea-51f0-4cb9-bba5-a562af388bb2

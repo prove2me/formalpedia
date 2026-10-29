@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_zero_cap_boundary_value_package
 -- name    : AvramDividend.Classical.zero_cap_boundary_value_package
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T20:47:55.444561+00:00
 -- url     : https://prove2.me/theorems/72a2a0e7-03c4-4fc3-8837-490cc6288445

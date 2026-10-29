@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_graph_connected_extension_of_local_step__p2m_343e7634_bf89_4d0d_a54b_557d3af37c62_a1
 -- name    : WilliamsonShmoys.finite_graph_connected_extension_of_local_step__p2m_343e7634_bf89_4d0d_a54b_557d3af37c62_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:38:18.586705+00:00
 -- url     : https://prove2.me/theorems/ae139772-cde8-4644-bb54-63943db19887

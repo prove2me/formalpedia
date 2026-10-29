@@ -1,0 +1,241 @@
+-- Prove2me | solution 1 for LIDT.MIPStarRE.LDT.MainInductionStep.answer_gamma_le_one_of_mainInductionError_lt_one
+-- status  : ACCEPTED   (prove)
+-- author  : @Dengnifer
+-- created : 2026-10-27T14:25:02.862614+00:00
+-- url     : https://prove2.me/submissions/8b479709-1eca-4727-9586-7558f09e9d9c
+
+-- Generated proof for MIPStarRE.LDT.MainInductionStep.answer_gamma_le_one_of_mainInductionError_lt_one.
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionAvg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionUniformSums
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFUniformAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_TensorPlacement
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Statements
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_MainError
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_Preliminaries
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyFailures
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyRole_Core
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Mathlib
+import Mathlib.Analysis.Convex.SpecificFunctions.Pow
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+
+namespace LIDT
+
+/- Source helpers from MIPStarRE/LDT/Test/StrategyFailures.lean. -/
+/-!
+# Symmetrized-strategy failure probabilities and test bounds
+
+Failure-probability surrogates and basic low-individual-degree test bounds for
+the split strategy interface.
+-/
+
+@[expose] public section
+
+namespace MIPStarRE.LDT
+
+open scoped BigOperators MatrixOrder _root_.Matrix ComplexOrder
+
+/-! ### Symmetrized strategies and tested-branch bounds -/
+
+namespace SymStrat
+
+
+
+
+
+
+
+
+
+end SymStrat
+
+
+
+
+
+
+
+
+
+/-! ### Answer-valued symmetric strategies -/
+
+/-- The answer-valued diagonal-line failure surrogate is nonnegative. -/
+theorem answer_diagonalFailureProbability_nonneg
+    (params : Parameters) [FieldModel params.q]
+    {ι : Type*} [Fintype ι] [DecidableEq ι]
+    (strategy : AnswerSymStrat params ι) :
+    0 ≤ strategy.diagonalFailureProbability := by
+  unfold AnswerSymStrat.diagonalFailureProbability
+  refine mul_nonneg ?_ ?_
+  · positivity
+  · refine Finset.sum_nonneg ?_
+    intro j _
+    exact bipartiteConsError_nonneg strategy.state
+      (uniformDistribution (RestrictedDiagonalSample params j))
+      (AnswerSymStrat.diagonalPointAnswerFamily strategy j)
+      (AnswerSymStrat.diagonalLineAnswerFamily strategy j)
+
+/-- A good answer-valued symmetric strategy has a nonnegative axis-parallel
+error parameter `ε`. -/
+theorem answer_eps_nonneg_of_isGood
+    (params : Parameters)
+    [FieldModel params.q]
+    {ι : Type*} [Fintype ι] [DecidableEq ι]
+    (strategy : AnswerSymStrat params ι)
+    {eps delta gamma : Error}
+    (hgood : strategy.IsGood eps delta gamma) :
+    0 ≤ eps := by
+  exact le_trans
+    (bipartiteConsError_nonneg strategy.state
+      (uniformDistribution (AxisParallelTestSample params))
+      (AnswerSymStrat.axisParallelPointAnswerFamily strategy)
+      (AnswerSymStrat.axisParallelLineAnswerFamily strategy))
+    hgood.axisParallelTest
+
+/-- A good answer-valued symmetric strategy has a nonnegative self-consistency
+error parameter `δ`. -/
+theorem answer_delta_nonneg_of_isGood
+    (params : Parameters)
+    [FieldModel params.q]
+    {ι : Type*} [Fintype ι] [DecidableEq ι]
+    (strategy : AnswerSymStrat params ι)
+    {eps delta gamma : Error}
+    (hgood : strategy.IsGood eps delta gamma) :
+    0 ≤ delta := by
+  exact le_trans
+    (bipartiteSSCError_nonneg strategy.state
+      (uniformDistribution (Point params))
+      (IdxProjMeas.toIdxSubMeas strategy.pointMeasurement))
+    hgood.selfConsistencyTest
+
+/-- A good answer-valued symmetric strategy has a nonnegative diagonal-lines
+error parameter `γ`. -/
+theorem answer_gamma_nonneg_of_isGood
+    (params : Parameters)
+    [FieldModel params.q]
+    {ι : Type*} [Fintype ι] [DecidableEq ι]
+    (strategy : AnswerSymStrat params ι)
+    {eps delta gamma : Error}
+    (hgood : strategy.IsGood eps delta gamma) :
+    0 ≤ gamma := by
+  exact le_trans (answer_diagonalFailureProbability_nonneg params strategy)
+    hgood.diagonalLineTest
+
+
+
+end MIPStarRE.LDT
+
+end
+
+end LIDT
+
+open LIDT
+/-!
+# Section 6 — Main-Induction Error Bounds
+
+This file is one leaf of `InductionParameterBounds`. It contains the scalar
+consequences of the non-vacuous hypothesis `mainInductionError < 1`, including
+the bounds `eps ≤ 1`, `delta ≤ 1`, `gamma ≤ 1`, `params.d ≤ params.q`, and
+`mainInductionNu < 1`.
+
+## References
+
+- `blueprint/src/chapter/ch10_induction.tex`
+- `references/ldt-paper/inductive_step.tex`
+-/
+
+@[expose] public section
+
+open LIDT.MIPStarRE.LDT.MainInductionStep
+
+open MIPStarRE.LDT
+open scoped MatrixOrder
+
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ### Answer-valued small-error scalar consequences -/
+
+theorem solution
+    (params : _root_.LIDT.MIPStarRE.LDT.Parameters)
+    [_root_.LIDT.MIPStarRE.LDT.FieldModel params.q]
+    (strategy : _root_.LIDT.MIPStarRE.LDT.AnswerSymStrat params.next ι)
+    {eps delta gamma : _root_.LIDT.MIPStarRE.LDT.Error} {k : ℕ}
+    (hgood : strategy.IsGood eps delta gamma)
+    (hsmall : _root_.LIDT.MIPStarRE.LDT.MainInductionStep.mainInductionError params.next k eps delta gamma < 1) :
+    gamma ≤ 1 := by
+  have heps_nonneg := _root_.LIDT.MIPStarRE.LDT.answer_eps_nonneg_of_isGood params.next strategy hgood
+  have hdelta_nonneg := _root_.LIDT.MIPStarRE.LDT.answer_delta_nonneg_of_isGood params.next strategy hgood
+  have hgamma_nonneg := _root_.LIDT.MIPStarRE.LDT.answer_gamma_nonneg_of_isGood params.next strategy hgood
+  have hratio_nonneg : 0 ≤ ((params.d : _root_.LIDT.MIPStarRE.LDT.Error) / (params.q : _root_.LIDT.MIPStarRE.LDT.Error)) := by
+    positivity
+  have hrest_nonneg :
+      0 ≤ Real.rpow eps (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)) +
+            Real.rpow delta (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)) +
+            Real.rpow (((params.d : _root_.LIDT.MIPStarRE.LDT.Error) / (params.q : _root_.LIDT.MIPStarRE.LDT.Error))) (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)) := by
+    have heps_root_nonneg : 0 ≤ Real.rpow eps (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)) :=
+      Real.rpow_nonneg heps_nonneg (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error))
+    have hdelta_root_nonneg : 0 ≤ Real.rpow delta (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)) :=
+      Real.rpow_nonneg hdelta_nonneg (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error))
+    have hratio_root_nonneg :
+        0 ≤ Real.rpow (((params.d : _root_.LIDT.MIPStarRE.LDT.Error) / (params.q : _root_.LIDT.MIPStarRE.LDT.Error))) (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)) :=
+      Real.rpow_nonneg hratio_nonneg (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error))
+    exact add_nonneg (add_nonneg heps_root_nonneg hdelta_root_nonneg) hratio_root_nonneg
+  have hgamma_scaled_le :
+      1000 * ((k : _root_.LIDT.MIPStarRE.LDT.Error) ^ (2 : ℕ)) * ((params.next.m : _root_.LIDT.MIPStarRE.LDT.Error) ^ (2 : ℕ)) *
+          Real.rpow gamma (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)) ≤
+        _root_.LIDT.MIPStarRE.LDT.MainInductionStep.mainInductionNu params.next k eps delta gamma := by
+    simpa [_root_.LIDT.MIPStarRE.LDT.MainInductionStep.mainInductionNu, _root_.LIDT.MIPStarRE.LDT.Parameters.next, mul_assoc, mul_left_comm, mul_comm,
+      add_assoc, add_left_comm, add_comm] using
+      (mainInductionNu_scaled_component_le (params := params) (k := k)
+        (x := Real.rpow gamma (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)))
+        (y := Real.rpow eps (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)))
+        (z := Real.rpow delta (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)))
+        (w := Real.rpow (((params.d : _root_.LIDT.MIPStarRE.LDT.Error) / (params.q : _root_.LIDT.MIPStarRE.LDT.Error))) (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)))
+        hrest_nonneg)
+  exact
+    le_one_of_mainInductionError_lt_one_of_scaled_bound
+      params hsmall hgamma_scaled_le

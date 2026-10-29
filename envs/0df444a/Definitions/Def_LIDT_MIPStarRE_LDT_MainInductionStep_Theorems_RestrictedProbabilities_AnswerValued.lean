@@ -1,0 +1,489 @@
+-- Prove2me | Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_AnswerValued
+-- name    : LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_AnswerValued
+-- status  : Definition
+-- author  : @Dengnifer
+-- created : 2026-10-27T13:13:27.802234+00:00
+-- url     : https://prove2.me/theorems/b280d512-fc9c-4390-adb1-cde0f4378585
+-- title:
+--   LIDT definitions: LDT / MainInductionStep / Theorems / RestrictedProbabilities / AnswerValued
+-- statement:
+--   This bundle defines the restricted error profile for answer-valued successor strategies. It identifies the axis-parallel failure probability with the legacy restricted slice, averages the three slice errors, and packages the resulting restricted-probabilities statement and diagonal index errors.
+--
+--   Principal definitions:
+--   - `answerRestricted_axisParallelFailureProbability_eq`: identifies the answer-valued and legacy axis-parallel failure probabilities.
+--   - `AnswerSuccessorRestrictedFailureProfile`: the error profile of restricted answer-valued slices.
+--   - `averageAnswerSuccessorRestrictedAxisParallelError`: the averaged axis-parallel error.
+--   - `averageAnswerSuccessorRestrictedSelfConsistencyError`: the averaged self-consistency error.
+--   - `averageAnswerSuccessorRestrictedDiagonalError`: the averaged diagonal error.
+--   - `AnswerSuccessorRestrictedProbabilitiesStatement`: the full restricted-probabilities statement.
+--   - `answerSuccessorDiagonalSliceIndexError`: the diagonal slice-index error.
+--   - `answerSuccessorDiagonalIndexError`: the resulting diagonal index error.
+--
+--   Formalization credit: Sirui Lu, Ruixuan Deng, Yanqiao Zhu, and Zhengfeng Ji (arXiv:2609.19814). Mathematical source: Zhengfeng Ji, Anand Natarajan, Thomas Vidick, John Wright, and Henry Yuen (arXiv:2009.12982).
+-- source:
+--   https://github.com/LionSR/MIPStarRE/blob/f382c801026f53a9efc260fdee707cb35e0adb15/MIPStarRE/LDT/MainInductionStep/Theorems/RestrictedProbabilities/AnswerValued.lean#L29-L400
+
+-- Generated from MIPStarRE/LDT/MainInductionStep/Theorems/RestrictedProbabilities/AnswerValued.lean by skeleton subtraction.
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionAvg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionUniformSums
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LinePolynomialEmbedding
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_MeasurementLift
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFUniformAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SqrtBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_TensorPlacement
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_Approximation
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_SharedHelpers_SharedLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Normalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Stability
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceBounds_PhaseOneThree
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_First
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_RawSecond
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_HEvalTransport
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_ScalarMarginalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Products
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_PaperChainPhaseFive
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_MainChain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_PhaseTwo
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Averages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Y
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Normalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_Pullback
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Fourier
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_TraceForms
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Foundations
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Matrix
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Results
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Families
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Operators
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_AlgebraicIdentity
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Averaging
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_CollisionExpansion
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_MainTheorems
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_PolynomialSumBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransportSum
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransport_Point
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransport_PointLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransport_Utilities
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Statements
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_TransportChain_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_TransportChain_SumForm
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Statements
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_MainError
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_Preliminaries
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Axis
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Base
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Diagonal
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_SelfImprovementAssembly_AnswerSlice
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_SelfImprovementAssembly_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_LocalityPreservingRepair
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_NaimarkCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_Completion
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_ErrorBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_RestrictSome
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Projectivization
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_ProjectivizationChain_Basic
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_LayerAlgebra
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Completion
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Rows
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Sigma
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_ProjectorApprox
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_AlmostProjective
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_QCompleteness
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_LowRank
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_Sigma
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_TruncationCombinatorics
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_SpectralTruncation_Conversion
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_SpectralTruncation_ProjectiveNonMeasurement
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Statements
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_FinalMove
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_HalfSandwich
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_StageA0M1
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_BernoulliTail
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_FactBundles
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_MoveLemmas_Basic
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_PaperBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Scalar
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_BackChain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Base
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Chain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_FlatChain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Lifting
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_CSSetup
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_Endpoint
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_EndpointEquivs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_PrefixMoved
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadMass
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_NonglobalDecomposition
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Core_LdGbcon
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Families
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Tuples
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Sandwich_GHatSandwich
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Sandwich_PastedFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Sandwich_Switcheroo
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Statements
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_ScalarTerms
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_Split
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Centers
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Terms
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Completion
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Local
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_CauchySchwarz
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Completion
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_CompletionTransfer
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_DistanceBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_PolynomialAgreement
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Polynomials
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SelfConsistency_DataProcessing
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SelfConsistency_Extensions
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichMain_Completeness
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_ApproxDelta
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Triangles_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Base
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_CanonicalPrimal
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_Saturated
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_StrongDuality_Basic
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_StrongDuality_Separation
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_Witness
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_AddInUFullStatement
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Residual
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_ScalarChain
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Selection
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUPointConsistency
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Algebra
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Raw
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Selected
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Factored
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Selected
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Transfer
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Variance
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_BoundednessTransport_BoundednessGap
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_BoundednessTransport_Decomposition
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_BoundednessTransport_PointConsistency
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_BoundednessTransport_PointConsistencyLiteral
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_CommonHelpers
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_Bracketed
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_FiberBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_InputSdp
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_Linearized
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_Assembly
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_PostDeleteA
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SdpMatrixBridge
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_Completeness
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_FinalFields
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_SelfCloseness
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Statements
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Thresholds_Final
+import Definitions.Def_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Thresholds_Helper
+import Definitions.Def_LIDT_MIPStarRE_LDT_Tactic_AvgCongr
+import Definitions.Def_LIDT_MIPStarRE_LDT_Tactic_LdtSimp
+import Definitions.Def_LIDT_MIPStarRE_LDT_Tactic_LdtSimpAttr
+import Definitions.Def_LIDT_MIPStarRE_LDT_Tactic_QuantumNonneg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyFailures
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyRole_Core
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteConicDuality
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteHilbert
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_LIDT_MIPStarRE_Quantum_Measurement
+import Definitions.Def_LIDT_MIPStarRE_Quantum_ProjectorONB
+import Lean.Elab.Tactic
+import Mathlib
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Order
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Convex.Cone.Dual
+import Mathlib.Analysis.Convex.SpecificFunctions.Pow
+import Mathlib.Analysis.Fourier.ZMod
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.LocallyConvex.WithSeminorms
+import Mathlib.Analysis.Matrix.HermitianFunctionalCalculus
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Nat.Choose.Sum
+import Mathlib.Probability.Distributions.Binomial
+import Mathlib.Probability.Moments.SubGaussian
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+import Mathlib.RingTheory.MvPolynomial.Basic
+import Mathlib.Tactic.Attr.Register
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.PiProd
+import Mathlib.Topology.Bases
+import Mathlib.Topology.Instances.Matrix
+
+namespace LIDT
+
+namespace MIPStarRE.LDT
+end MIPStarRE.LDT
+namespace MIPStarRE.LDT.Commutativity
+end MIPStarRE.LDT.Commutativity
+namespace MIPStarRE.LDT.Commutativity.GCommStability.Scalar
+end MIPStarRE.LDT.Commutativity.GCommStability.Scalar
+namespace MIPStarRE.LDT.CommutativityPoints
+end MIPStarRE.LDT.CommutativityPoints
+namespace MIPStarRE.LDT.MainInductionStep
+end MIPStarRE.LDT.MainInductionStep
+namespace MIPStarRE.LDT.MakingMeasurementsProjective
+end MIPStarRE.LDT.MakingMeasurementsProjective
+namespace MIPStarRE.LDT.Pasting
+end MIPStarRE.LDT.Pasting
+namespace MIPStarRE.LDT.Preliminaries
+end MIPStarRE.LDT.Preliminaries
+
+/-!
+# Section 6 -- Answer-Valued Restricted Probability Statement
+
+This module contains the answer-valued form of the restricted-probability
+bookkeeping for the main induction step.
+
+## References
+
+- `blueprint/src/chapter/ch10_induction.tex`
+-/
+
+@[expose] public section
+
+namespace MIPStarRE.LDT.MainInductionStep
+
+open MIPStarRE.LDT
+open scoped MatrixOrder
+
+universe uF uι
+
+variable {ι : Type uι} [Fintype ι] [DecidableEq ι]
+
+/-- The answer-valued slice has the same axis-parallel failure probability as the
+legacy restricted slice. -/
+lemma answerRestricted_axisParallelFailureProbability_eq
+    (params : Parameters)
+    [FieldModel params.q]
+    (strategy : SymStrat params.next ι) (x : Fq params) :
+    (xRestrictedAnswerSymStrat params strategy x).axisParallelFailureProbability =
+      (xRestrictedStrategy params strategy x).axisParallelFailureProbability := by
+  rfl
+
+/-- The answer-valued slice has the same self-consistency failure probability as
+the legacy restricted slice. -/
+lemma answerRestricted_selfConsistencyFailureProbability_eq
+    (params : Parameters)
+    [FieldModel params.q]
+    (strategy : SymStrat params.next ι) (x : Fq params) :
+    (xRestrictedAnswerSymStrat params strategy x).selfConsistencyFailureProbability =
+      (xRestrictedStrategy params strategy x).selfConsistencyFailureProbability := by
+  rfl
+
+/-- The answer-valued slice has the same verifier-visible diagonal failure
+probability as the legacy restricted slice after evaluating line answers at the
+base point. -/
+lemma answerRestricted_diagonalFailureProbability_eq
+    (params : Parameters)
+    [FieldModel params.q]
+    (strategy : SymStrat params.next ι) (x : Fq params) :
+    (xRestrictedAnswerSymStrat params strategy x).diagonalFailureProbability =
+      (xRestrictedStrategy params strategy x).diagonalFailureProbability := by
+  unfold AnswerSymStrat.diagonalFailureProbability RestrictedSymStrat.diagonalFailureProbability
+  apply congrArg (fun s => (1 / (params.m : Error)) * s)
+  refine Finset.sum_congr rfl ?_
+  intro j _hj
+  apply congrArg
+  funext s
+  let ℓ : DiagonalLine params :=
+    { base := s.1, direction := extendRestrictedDirection j s.2 }
+  change
+    postprocess ((restrictDiagonalAnswerMeasurement params strategy x ℓ).toSubMeas)
+        (fun f : DiagonalLineAnswer params => f zeroCoord) =
+      postprocess ((restrictDiagonalMeasurement params strategy x ℓ).toSubMeas)
+        (fun f : DiagonalLinePolynomial params => f zeroCoord)
+  rw [restrictDiagonalAnswerMeasurement_postprocess_zero,
+    restrictDiagonalMeasurement_postprocess_zero]
+
+
+
+
+
+
+
+
+
+/-! ### Answer-valued successor restrictions
+
+The preceding lemmas start from an ordinary successor strategy and build the
+answer-valued slice profile used in the current Section 6 successor route.  For
+the simultaneous answer-valued induction theorem, the successor strategy itself
+has answer-valued diagonal measurements.  The next definitions and lemmas
+record the corresponding restricted-probability theorem without replacing that
+diagonal measurement by an ordinary low-degree realization.
+-/
+
+/-- Slice-wise error profile obtained by restricting an answer-valued successor
+strategy.
+
+This is the answer-valued analogue of `AnswerRestrictedFailureProfile`, but
+with source strategy `AnswerSymStrat params.next ι` and slices
+`xRestrictedAnswerSymStratOfAnswer`. -/
+structure AnswerSuccessorRestrictedFailureProfile (params : Parameters)
+    [FieldModel params.q]
+    (strategy : AnswerSymStrat params.next ι) : Type where
+  /-- The axis-parallel failure bound attached to each slice height. -/
+  axisParallel : Fq params → Error
+  /-- The self-consistency failure bound attached to each slice height. -/
+  selfConsistency : Fq params → Error
+  /-- The diagonal-line failure bound attached to each slice height. -/
+  diagonal : Fq params → Error
+  /-- Each answer-valued slice is good with the recorded parameters. -/
+  restrictedGood :
+    ∀ x,
+      (xRestrictedAnswerSymStratOfAnswer params strategy x).IsGood
+        (axisParallel x)
+        (selfConsistency x)
+        (diagonal x)
+
+/-- Average restricted axis-parallel error over answer-valued successor slices. -/
+noncomputable def averageAnswerSuccessorRestrictedAxisParallelError
+    (params : Parameters)
+    [FieldModel params.q]
+    {strategy : AnswerSymStrat params.next ι}
+    (profile : AnswerSuccessorRestrictedFailureProfile params strategy) : Error :=
+  avgOver (uniformDistribution (Fq params)) profile.axisParallel
+
+/-- Average restricted self-consistency error over answer-valued successor slices. -/
+noncomputable def averageAnswerSuccessorRestrictedSelfConsistencyError
+    (params : Parameters)
+    [FieldModel params.q]
+    {strategy : AnswerSymStrat params.next ι}
+    (profile : AnswerSuccessorRestrictedFailureProfile params strategy) : Error :=
+  avgOver (uniformDistribution (Fq params)) profile.selfConsistency
+
+/-- Average restricted diagonal-line error over answer-valued successor slices. -/
+noncomputable def averageAnswerSuccessorRestrictedDiagonalError
+    (params : Parameters)
+    [FieldModel params.q]
+    {strategy : AnswerSymStrat params.next ι}
+    (profile : AnswerSuccessorRestrictedFailureProfile params strategy) : Error :=
+  avgOver (uniformDistribution (Fq params)) profile.diagonal
+
+/-- Restricted-probabilities statement for an answer-valued successor strategy.
+
+This is a Lean-only statement needed for the simultaneous answer-valued
+induction route.  It has the same three averaged conclusions as the restricted
+probabilities lemma (`\label{lem:restricted-probabilities}`), with
+`xRestrictedAnswerSymStratOfAnswer` as the slice strategy. -/
+structure AnswerSuccessorRestrictedProbabilitiesStatement (params : Parameters)
+    [FieldModel params.q]
+    (strategy : AnswerSymStrat params.next ι)
+    (eps delta gamma : Error) : Prop where
+  /-- There is a slice-wise answer-valued error profile realizing the three
+  averaged restricted bounds. -/
+  profileExists :
+    ∃ profile : AnswerSuccessorRestrictedFailureProfile params strategy,
+      averageAnswerSuccessorRestrictedAxisParallelError params profile ≤
+          sliceConditioningLoss params * eps ∧
+        averageAnswerSuccessorRestrictedSelfConsistencyError params profile ≤ delta ∧
+        averageAnswerSuccessorRestrictedDiagonalError params profile ≤
+          sliceConditioningLoss params * gamma
+
+
+
+
+
+
+
+ noncomputable def answerSuccessorDiagonalSliceIndexError
+    (params : Parameters)
+    [FieldModel params.q]
+    (strategy : AnswerSymStrat params.next ι)
+    (x : Fq params)
+    (j : Fin params.m) : Error :=
+  bipartiteConsError strategy.state
+    (uniformDistribution (RestrictedDiagonalSample params j))
+    (AnswerSymStrat.diagonalPointAnswerFamily
+      (xRestrictedAnswerSymStratOfAnswer params strategy x) j)
+    (AnswerSymStrat.diagonalLineAnswerFamily
+      (xRestrictedAnswerSymStratOfAnswer params strategy x) j)
+
+ noncomputable def answerSuccessorDiagonalIndexError
+    (params : Parameters)
+    [FieldModel params.q]
+    (strategy : AnswerSymStrat params.next ι)
+    (j : Fin params.next.m) : Error :=
+  bipartiteConsError strategy.state
+    (uniformDistribution (RestrictedDiagonalSample params.next j))
+    (AnswerSymStrat.diagonalPointAnswerFamily strategy j)
+    (AnswerSymStrat.diagonalLineAnswerFamily strategy j)
+
+
+
+
+
+
+
+
+
+
+
+
+
+end MIPStarRE.LDT.MainInductionStep
+
+end
+
+end LIDT
+
+

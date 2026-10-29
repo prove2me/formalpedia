@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.unbounded_tilted_positive_monotone
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T15:38:58.386715+00:00
 -- url     : https://prove2.me/submissions/0b9e9c5d-2a4e-4a53-83e7-b96ad17362c9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_positive_esscher_root_of_unbounded_variation
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_strict_pos_of_unbounded_variation

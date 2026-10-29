@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_esscher_tilted_scale_monotone_uniform_bound
 -- name    : AvramDividend.Classical.unbounded_esscher_tilted_scale_monotone_uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T22:45:08.125859+00:00
 -- url     : https://prove2.me/theorems/2e0c71fa-d8e4-453b-8f77-f76c971bd559

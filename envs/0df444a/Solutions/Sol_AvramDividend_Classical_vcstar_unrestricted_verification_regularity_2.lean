@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.vcstar_unrestricted_verification_regularity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T06:46:18.246045+00:00
 -- url     : https://prove2.me/submissions/a1e5e772-de3e-49a5-a6f1-9200a2a4783c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_vcstar_zero_basic_verification_boundary
 import Theorems.Thm_AvramDividend_Classical_vcstar_smooth_of_zero_cstar

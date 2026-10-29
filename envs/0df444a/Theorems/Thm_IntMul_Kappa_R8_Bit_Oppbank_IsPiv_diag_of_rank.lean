@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_IsPiv_diag_of_rank
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.IsPiv_diag_of_rank
--- status  : Open
+-- status  : Disproved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T19:54:16.016619+00:00
 -- url     : https://prove2.me/theorems/6744ba70-f1a3-4bc1-a1b0-1ea615f844a4

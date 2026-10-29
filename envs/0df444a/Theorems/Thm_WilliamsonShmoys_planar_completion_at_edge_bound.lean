@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_completion_at_edge_bound
 -- name    : WilliamsonShmoys.planar_completion_at_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T20:21:41.587287+00:00
 -- url     : https://prove2.me/theorems/e210cba6-c66e-4778-8131-95af1f0a3c78

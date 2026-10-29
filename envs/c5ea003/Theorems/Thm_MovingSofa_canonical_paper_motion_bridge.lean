@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_canonical_paper_motion_bridge
 -- name    : MovingSofa.canonical_paper_motion_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-03T20:25:52.420993+00:00
 -- url     : https://prove2.me/theorems/7581981b-c878-4cfe-8b53-e1627e5b642c

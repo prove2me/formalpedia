@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_disconnected_ordered_unreachable_cut__p2m_41ac2ad2_1442_40d5_933f_adb24d67ad24_a3
 -- name    : WilliamsonShmoys.disconnected_ordered_unreachable_cut__p2m_41ac2ad2_1442_40d5_933f_adb24d67ad24_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:08:22.977297+00:00
 -- url     : https://prove2.me/theorems/14a3f77f-68b8-4d06-86d5-54f2c723cf69

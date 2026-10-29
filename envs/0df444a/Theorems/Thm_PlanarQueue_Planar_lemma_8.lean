@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarQueue_Planar_lemma_8
 -- name    : PlanarQueue.Planar.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T13:24:29.352166+00:00
 -- url     : https://prove2.me/theorems/e861b278-0745-439e-ac97-28151e437d2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_RationalPhysicalKernel_histories_count_tail
 -- name    : OAI.MetricKMedian.RationalPhysicalKernel.histories_count_tail
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:35:46.51715+00:00
 -- url     : https://prove2.me/theorems/5b2b1339-34a8-4084-8242-541ac14c8365

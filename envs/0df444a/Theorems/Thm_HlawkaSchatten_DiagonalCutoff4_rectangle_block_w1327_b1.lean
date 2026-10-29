@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_rectangle_block_w1327_b1
 -- name    : HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1327_b1
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-10-28T20:33:09.261299+00:00
 -- url     : https://prove2.me/theorems/345db04f-a782-48e3-bb59-fc3301796579

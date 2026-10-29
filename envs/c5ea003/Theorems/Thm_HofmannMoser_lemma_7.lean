@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HofmannMoser_lemma_7
 -- name    : HofmannMoser.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-28T00:51:49.751137+00:00
 -- url     : https://prove2.me/theorems/51154005-1adc-4801-b724-2f1bc163283b

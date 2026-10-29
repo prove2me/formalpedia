@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_superset_of_hereditary__p2m_ff3915fc_abca_4176_9ba9_489c8aaa0e6f_a1
 -- name    : WilliamsonShmoys.exists_maximal_superset_of_hereditary__p2m_ff3915fc_abca_4176_9ba9_489c8aaa0e6f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:18:33.395139+00:00
 -- url     : https://prove2.me/theorems/7486eb50-a720-420d-b854-621569123c00

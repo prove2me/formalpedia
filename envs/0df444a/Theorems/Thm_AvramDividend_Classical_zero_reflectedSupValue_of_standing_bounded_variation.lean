@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_zero_reflectedSupValue_of_standing_bounded_variation
 -- name    : AvramDividend.Classical.zero_reflectedSupValue_of_standing_bounded_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T22:55:46.712354+00:00
 -- url     : https://prove2.me/theorems/7daa759d-4890-41e5-a36a-d7fd7ba44d6e

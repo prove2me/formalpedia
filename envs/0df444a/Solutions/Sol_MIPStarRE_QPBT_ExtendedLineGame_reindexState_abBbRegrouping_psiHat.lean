@@ -1,0 +1,102 @@
+-- Prove2me | solution 1 for MIPStarRE.QPBT.ExtendedLineGame.reindexState_abBbRegrouping_psiHat
+-- status  : ACCEPTED   (prove)
+-- author  : @Dengnifer
+-- created : 2026-10-27T21:47:23.344371+00:00
+-- url     : https://prove2.me/submissions/45d0874b-3aff-42cc-8c80-eba55ec07612
+
+-- Generated proof for MIPStarRE.QPBT.ExtendedLineGame.reindexState_abBbRegrouping_psiHat.
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Families
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation
+import Definitions.Def_LIDT_MIPStarRE_LDT_Tactic_AvgCongr
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_QPBT_QPBT_Algebra_FieldBasis
+import Definitions.Def_QPBT_QPBT_Algebra_LowDegreeCode
+import Definitions.Def_QPBT_QPBT_Algebra_Pauli
+import Definitions.Def_QPBT_QPBT_Combining_ExtendedLineGame
+import Definitions.Def_QPBT_QPBT_Combining_ExtendedLineGame_StateTransport
+import Definitions.Def_QPBT_QPBT_Games_Defs
+import Definitions.Def_QPBT_QPBT_Observables_Defs
+import Definitions.Def_QPBT_QPBT_Observables_ExpandedDefs
+import Definitions.Def_QPBT_QPBT_State
+import Definitions.Def_QPBT_QPBT_Test_MagicSquareTheorems_PerfectStrategy_Observables
+import Definitions.Def_QPBT_QPBT_Test_PauliBasisTest
+import Mathlib
+import Mathlib.Analysis.MeanInequalitiesPow
+
+namespace LIDT.MIPStarRE.Quantum
+end LIDT.MIPStarRE.Quantum
+namespace MIPStarRE.QPBT
+end MIPStarRE.QPBT
+namespace MIPStarRE.QPBT.ExtendedLineGame
+end MIPStarRE.QPBT.ExtendedLineGame
+namespace MIPStarRE.QPBT.ProjectiveSetting
+end MIPStarRE.QPBT.ProjectiveSetting
+
+/-!
+# Correlations on the two-player expanded state
+
+The six-register state of `eq:def-psihat` factors as the two-player state
+`ExtendedLineGame.pairState` and an unused normalized EPR pair, for each of
+the opposite register placements `AA'`--`BA''` and `AB''`--`BB'`. Therefore
+arbitrary Hermitian operators on the expanded local spaces have the same
+correlation in the two descriptions. An individual operator need not factor
+between its strategy register and its Pauli register.
+
+These are formalization-only auxiliary identities for the strategy construction
+in the proof of `lem:qld-4-7`. They do not establish its passing value or the
+existence of its input measurements. Parent issue Dengnifer/MIPStarRE-QPBT-bak#119 remains open.
+
+## References
+
+- `references/qpbt-paper/14_analysis_of_the_pauli_basis_test.tex:367-372`,
+  equation `eq:def-psihat`.
+- The same source, `lem:qld-4-7`, proof at lines 1279-1288.
+- Blueprint `def:expanded-state`, `def:symmetric-equivalents`, and `lem:qld-4-7`.
+- Issue Dengnifer/MIPStarRE-QPBT-bak#302.
+-/
+
+
+
+-- The six-register products require the same instance-search size as ExpandedPlacement.
+set_option synthInstance.maxSize 400
+
+open MIPStarRE.QPBT
+
+open LIDT.MIPStarRE.Quantum
+open MIPStarRE.QPBT.ProjectiveSetting
+
+
+
+open MIPStarRE.QPBT.ExtendedLineGame
+
+variable {P : _root_.MIPStarRE.QPBT.AdmissibleParams} {epsilon : Real}
+
+theorem solution (setting : _root_.MIPStarRE.QPBT.ProjectiveSetting P epsilon) :
+    _root_.MIPStarRE.QPBT.reindexState (_root_.MIPStarRE.QPBT.ExtendedLineGame.abBbRegrouping setting) setting.psiHat =
+      _root_.MIPStarRE.QPBT.vecTensor (_root_.MIPStarRE.QPBT.ExtendedLineGame.pairState setting) (_root_.MIPStarRE.QPBT.eprState (_root_.MIPStarRE.QPBT.PauliRegister P)) := by
+  ext p
+  have hswap := congrArg
+    (fun v : EuclideanSpace Complex (_root_.MIPStarRE.QPBT.PauliRegister P × _root_.MIPStarRE.QPBT.PauliRegister P) =>
+      v (p.1.1.2, p.1.2.2)) (_root_.MIPStarRE.QPBT.reindexState_prodComm_eprState (_root_.MIPStarRE.QPBT.PauliRegister P))
+  change _root_.MIPStarRE.QPBT.eprState (_root_.MIPStarRE.QPBT.PauliRegister P) (p.1.2.2, p.1.1.2) =
+    _root_.MIPStarRE.QPBT.eprState (_root_.MIPStarRE.QPBT.PauliRegister P) (p.1.1.2, p.1.2.2) at hswap
+  change
+    (setting.toStrategy.ψ (p.1.1.1, p.1.2.1) * _root_.MIPStarRE.QPBT.eprState (_root_.MIPStarRE.QPBT.PauliRegister P) p.2) *
+        _root_.MIPStarRE.QPBT.eprState (_root_.MIPStarRE.QPBT.PauliRegister P) (p.1.2.2, p.1.1.2) =
+      (setting.toStrategy.ψ (p.1.1.1, p.1.2.1) *
+        _root_.MIPStarRE.QPBT.eprState (_root_.MIPStarRE.QPBT.PauliRegister P) (p.1.1.2, p.1.2.2)) *
+          _root_.MIPStarRE.QPBT.eprState (_root_.MIPStarRE.QPBT.PauliRegister P) p.2
+  rw [hswap]
+  ring

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_zero_barrier_instant_ruin_of_standing_unbounded_variation
 -- name    : AvramDividend.Classical.zero_barrier_instant_ruin_of_standing_unbounded_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T22:55:37.362489+00:00
 -- url     : https://prove2.me/theorems/8bec33c8-6ed7-4a98-a603-6cc6e4faf588

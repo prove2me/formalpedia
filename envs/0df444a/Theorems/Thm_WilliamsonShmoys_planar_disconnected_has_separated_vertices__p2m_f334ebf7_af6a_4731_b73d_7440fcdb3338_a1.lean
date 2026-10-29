@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_disconnected_has_separated_vertices__p2m_f334ebf7_af6a_4731_b73d_7440fcdb3338_a1
 -- name    : WilliamsonShmoys.planar_disconnected_has_separated_vertices__p2m_f334ebf7_af6a_4731_b73d_7440fcdb3338_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:37:16.011406+00:00
 -- url     : https://prove2.me/theorems/8e171d0a-651d-45cf-84b1-d01abdfb969d

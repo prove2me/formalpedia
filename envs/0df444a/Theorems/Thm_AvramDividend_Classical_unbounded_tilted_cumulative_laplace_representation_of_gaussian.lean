@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_tilted_cumulative_laplace_representation_of_gaussian
 -- name    : AvramDividend.Classical.unbounded_tilted_cumulative_laplace_representation_of_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T15:15:06.711988+00:00
 -- url     : https://prove2.me/theorems/d2e374c7-7205-4bad-b995-ed4a55013550

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_nonempty_subset_has_maximal__p2m_afcb74a2_92ae_4444_9657_28f7f6cf41f5_a1
 -- name    : WilliamsonShmoys.finite_nonempty_subset_has_maximal__p2m_afcb74a2_92ae_4444_9657_28f7f6cf41f5_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:33:58.264416+00:00
 -- url     : https://prove2.me/theorems/997de6ff-2795-4635-b9b0-6618c923766b

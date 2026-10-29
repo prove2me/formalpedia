@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_has_exact_edge_count_for_f2fc27dd
 -- name    : WilliamsonShmoys.maximal_planar_drawing_has_exact_edge_count_for_f2fc27dd
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:30:40.94498+00:00
 -- url     : https://prove2.me/theorems/fad5e82d-4b2c-4a7e-abf6-71a91af3a271

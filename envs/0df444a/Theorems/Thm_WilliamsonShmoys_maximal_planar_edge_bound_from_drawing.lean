@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_bound_from_drawing
 -- name    : WilliamsonShmoys.maximal_planar_edge_bound_from_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:39:40.130437+00:00
 -- url     : https://prove2.me/theorems/6c2b7c10-a8c6-43bc-a680-bed4e9a9961b

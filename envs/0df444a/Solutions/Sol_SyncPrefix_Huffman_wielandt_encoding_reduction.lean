@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SyncPrefix.Huffman.wielandt_encoding_reduction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:25:49.536464+00:00
 -- url     : https://prove2.me/submissions/73c5226d-6430-46fd-821f-0f9ef439fff6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_SyncPrefix_Huffman_Constructions
 import Definitions.Def_SyncPrefix_Huffman_WielandtReduction

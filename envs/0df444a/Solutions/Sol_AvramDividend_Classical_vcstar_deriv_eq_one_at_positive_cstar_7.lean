@@ -1,10 +1,8 @@
 -- Prove2me | solution 7 for AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T15:28:03.104684+00:00
 -- url     : https://prove2.me/submissions/09526686-b845-4ab3-a75e-a1c5798caaae
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_vcstar_differentiableAt_positive_cstar_of_gaussian_or_bv
 import Theorems.Thm_AvramDividend_Classical_vcstar_deriv_one_of_contDiffOn

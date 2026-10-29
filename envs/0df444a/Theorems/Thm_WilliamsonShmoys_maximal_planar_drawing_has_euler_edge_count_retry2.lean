@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_has_euler_edge_count_retry2
 -- name    : WilliamsonShmoys.maximal_planar_drawing_has_euler_edge_count_retry2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:05:50.751993+00:00
 -- url     : https://prove2.me/theorems/45cc48cb-2419-43df-b4b6-ff2643ac8c59

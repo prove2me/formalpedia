@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_compl_Pl_idem
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.compl_Pl_idem
--- status  : Open
+-- status  : Proved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T19:58:20.382003+00:00
 -- url     : https://prove2.me/theorems/2305d1c0-0065-40be-93f4-0b8daefa63cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_real_cover_g024
 -- name    : HlawkaSchatten.DiagonalCutoff4.real_cover_g024
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-10-28T14:53:59.765574+00:00
 -- url     : https://prove2.me/theorems/52f43e99-0e68-4c23-9289-c21893dbb4d8

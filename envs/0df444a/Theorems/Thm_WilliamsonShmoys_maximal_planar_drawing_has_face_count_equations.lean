@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_has_face_count_equations
 -- name    : WilliamsonShmoys.maximal_planar_drawing_has_face_count_equations
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:35:21.29087+00:00
 -- url     : https://prove2.me/theorems/14998a38-c366-470e-b637-a7eb26ebed17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastComp_IELF_ielf_select_lower_bound
 -- name    : ForecastComp.IELF.ielf_select_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:51.524975+00:00
 -- url     : https://prove2.me/theorems/932a4367-7e66-485e-82ce-be1e0972a242

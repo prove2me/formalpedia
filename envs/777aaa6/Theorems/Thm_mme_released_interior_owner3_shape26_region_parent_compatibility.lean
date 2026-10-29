@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mme_released_interior_owner3_shape26_region_parent_compatibility
 -- name    : mme_released_interior_owner3_shape26_region_parent_compatibility
--- status  : Open
+-- status  : Proved
 -- author  : @Robertboy18
 -- created : 2026-09-23T09:08:23.909531+00:00
 -- url     : https://prove2.me/theorems/61307c3f-a772-4b46-a45d-03b7f6e69e61

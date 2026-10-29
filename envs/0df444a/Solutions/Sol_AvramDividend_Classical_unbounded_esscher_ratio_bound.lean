@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.unbounded_esscher_ratio_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-22T11:37:56.903643+00:00
 -- url     : https://prove2.me/submissions/f7bd3e90-e8f5-42e6-a3a4-85700a9fcaaa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Complex.Exponential
 import Mathlib.MeasureTheory.MeasurableSpace.Defs

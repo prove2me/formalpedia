@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_mono__p2m_73c85c29_4333_4692_baee_7210fe30cead_a1
 -- name    : WilliamsonShmoys.planar_drawing_mono__p2m_73c85c29_4333_4692_baee_7210fe30cead_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:37:34.506643+00:00
 -- url     : https://prove2.me/theorems/ef2a0659-6cef-461e-8075-d5a2f1e97ba3

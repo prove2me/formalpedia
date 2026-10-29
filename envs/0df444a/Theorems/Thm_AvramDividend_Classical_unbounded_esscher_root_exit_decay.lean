@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_esscher_root_exit_decay
 -- name    : AvramDividend.Classical.unbounded_esscher_root_exit_decay
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T22:38:11.294511+00:00
 -- url     : https://prove2.me/theorems/0c9c7c97-80c0-431d-a96e-ec5a6090c1ec

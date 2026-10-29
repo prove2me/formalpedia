@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ContingencyTables_exactSampling
 -- name    : OAI.ContingencyTables.exactSampling
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:28.515862+00:00
 -- url     : https://prove2.me/theorems/cc07b94d-873a-45ba-9ca5-a7e8b8694b39

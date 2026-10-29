@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_levy_gaussian_grid_uniform_negative_mass_ws01f
 -- name    : AvramDividend.Classical.levy_gaussian_grid_uniform_negative_mass_ws01f
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T13:22:39.188123+00:00
 -- url     : https://prove2.me/theorems/9697f22d-85aa-4d0a-88cd-1ee9a005f2e0

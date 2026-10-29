@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.LaughlinFock.certificate_four
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-28T20:20:54.464699+00:00
 -- url     : https://prove2.me/submissions/a96885f7-2b23-406a-a6dc-3d37bd113d4c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LaughlinFock

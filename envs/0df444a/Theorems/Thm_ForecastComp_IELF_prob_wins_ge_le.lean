@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastComp_IELF_prob_wins_ge_le
 -- name    : ForecastComp.IELF.prob_wins_ge_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:42.927734+00:00
 -- url     : https://prove2.me/theorems/eb5f801c-b05c-432b-8af2-d3adb1095516

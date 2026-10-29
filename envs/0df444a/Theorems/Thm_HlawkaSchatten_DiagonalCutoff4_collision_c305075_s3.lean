@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_collision_c305075_s3
 -- name    : HlawkaSchatten.DiagonalCutoff4.collision_c305075_s3
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-10-28T20:22:51.002149+00:00
 -- url     : https://prove2.me/theorems/c6ddeec1-f3d5-4a43-a105-947c0c5f01cc

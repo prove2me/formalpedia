@@ -3486,7 +3486,7 @@
 {"parent": "BookSixth.isUnlink_pair_swap", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.isUnlink_path_image", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.isUnlink_snoc_of_standardized_prefix", "child": "BookSixth", "via": ["solution", "statement"]}
-{"parent": "BookSixth.isometry_preserves_roundness", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.isometry_preserves_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.jacobi_reduction", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.kakeya_bound", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.latin_asymptotic", "child": "BookSixth", "via": ["solution", "statement"]}
@@ -34377,35 +34377,35 @@
 {"parent": "MovingSofa.area_image_rotationMap", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.area_image_rotationMap", "child": "MovingSofa_Classical_Area", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.area_image_rotationMap", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
-{"parent": "MovingSofa.boundedVariationOn_of_mem_exposedEdge", "child": "MovingSofa_Geometry_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.boundedVariationOn_of_mem_exposedEdge", "child": "MovingSofa_Geometry_Contacts", "via": ["statement"]}
-{"parent": "MovingSofa.boundedVariationOn_of_mem_exposedEdge", "child": "MovingSofa_Geometry_Plane", "via": ["statement"]}
+{"parent": "MovingSofa.boundedVariationOn_of_mem_exposedEdge", "child": "MovingSofa_Geometry_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.boundedVariationOn_of_mem_exposedEdge", "child": "MovingSofa_Geometry_Contacts", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.boundedVariationOn_of_mem_exposedEdge", "child": "MovingSofa_Geometry_Plane", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.canonical_motion_compactness", "child": "MovingSofa.IsMovingSofa.isBounded", "via": ["solution"]}
 {"parent": "MovingSofa.canonical_motion_compactness", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.canonical_motion_compactness", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
-{"parent": "MovingSofa.canonical_paper_motion_bridge", "child": "MovingSofa_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.canonical_paper_motion_bridge", "child": "MovingSofa_Geometry_Rotation", "via": ["statement"]}
-{"parent": "MovingSofa.canonical_paper_motion_bridge", "child": "MovingSofa_Motion_Paper", "via": ["statement"]}
-{"parent": "MovingSofa.continuous_motion_linear_apply", "child": "MovingSofa_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.continuous_motion_linear_apply", "child": "MovingSofa_Geometry_Rotation", "via": ["statement"]}
-{"parent": "MovingSofa.continuous_rotation_trans_vaddConst", "child": "MovingSofa_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.continuous_rotation_trans_vaddConst", "child": "MovingSofa_Geometry_Rotation", "via": ["statement"]}
-{"parent": "MovingSofa.continuous_vaddConst_trans_rotation", "child": "MovingSofa_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.continuous_vaddConst_trans_rotation", "child": "MovingSofa_Geometry_Rotation", "via": ["statement"]}
-{"parent": "MovingSofa.edgeVertices_fst_mem", "child": "MovingSofa_Geometry_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.edgeVertices_fst_mem", "child": "MovingSofa_Geometry_Contacts", "via": ["statement"]}
-{"parent": "MovingSofa.edgeVertices_fst_mem", "child": "MovingSofa_Geometry_Plane", "via": ["statement"]}
-{"parent": "MovingSofa.edgeVertices_snd_mem", "child": "MovingSofa_Geometry_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.edgeVertices_snd_mem", "child": "MovingSofa_Geometry_Contacts", "via": ["statement"]}
-{"parent": "MovingSofa.edgeVertices_snd_mem", "child": "MovingSofa_Geometry_Plane", "via": ["statement"]}
+{"parent": "MovingSofa.canonical_paper_motion_bridge", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.canonical_paper_motion_bridge", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.canonical_paper_motion_bridge", "child": "MovingSofa_Motion_Paper", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.continuous_motion_linear_apply", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.continuous_motion_linear_apply", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.continuous_rotation_trans_vaddConst", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.continuous_rotation_trans_vaddConst", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.continuous_vaddConst_trans_rotation", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.continuous_vaddConst_trans_rotation", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.edgeVertices_fst_mem", "child": "MovingSofa_Geometry_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.edgeVertices_fst_mem", "child": "MovingSofa_Geometry_Contacts", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.edgeVertices_fst_mem", "child": "MovingSofa_Geometry_Plane", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.edgeVertices_snd_mem", "child": "MovingSofa_Geometry_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.edgeVertices_snd_mem", "child": "MovingSofa_Geometry_Contacts", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.edgeVertices_snd_mem", "child": "MovingSofa_Geometry_Plane", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.exists_motion_rotation", "child": "MovingSofa.motion_linear_det_pos", "via": ["solution"]}
 {"parent": "MovingSofa.exists_motion_rotation", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.exists_motion_rotation", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
-{"parent": "MovingSofa.exposedEdge_eq_segment_edgeVertices", "child": "MovingSofa_Geometry_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.exposedEdge_eq_segment_edgeVertices", "child": "MovingSofa_Geometry_Contacts", "via": ["statement"]}
-{"parent": "MovingSofa.exposedEdge_eq_segment_edgeVertices", "child": "MovingSofa_Geometry_Plane", "via": ["statement"]}
-{"parent": "MovingSofa.inner_le_supportValue", "child": "MovingSofa_Geometry_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.inner_le_supportValue", "child": "MovingSofa_Geometry_Plane", "via": ["statement"]}
+{"parent": "MovingSofa.exposedEdge_eq_segment_edgeVertices", "child": "MovingSofa_Geometry_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.exposedEdge_eq_segment_edgeVertices", "child": "MovingSofa_Geometry_Contacts", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.exposedEdge_eq_segment_edgeVertices", "child": "MovingSofa_Geometry_Plane", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.inner_le_supportValue", "child": "MovingSofa_Geometry_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.inner_le_supportValue", "child": "MovingSofa_Geometry_Plane", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.inner_le_supportValue_of_isCompact", "child": "MovingSofa_Geometry_Basic", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.inner_le_supportValue_of_isCompact", "child": "MovingSofa_Geometry_Plane", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.inner_normalVector_smul_add_inner_tangentVector_smul", "child": "MovingSofa_Geometry_Basic", "via": ["solution", "statement"]}
@@ -34413,9 +34413,9 @@
 {"parent": "MovingSofa.motion_linear_det_pos", "child": "MovingSofa.continuous_motion_linear_apply", "via": ["solution"]}
 {"parent": "MovingSofa.motion_linear_det_pos", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.motion_linear_det_pos", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
-{"parent": "MovingSofa.positiveVertex_boundedVariation", "child": "MovingSofa_Geometry_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.positiveVertex_boundedVariation", "child": "MovingSofa_Geometry_Contacts", "via": ["statement"]}
-{"parent": "MovingSofa.positiveVertex_boundedVariation", "child": "MovingSofa_Geometry_Plane", "via": ["statement"]}
+{"parent": "MovingSofa.positiveVertex_boundedVariation", "child": "MovingSofa_Geometry_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.positiveVertex_boundedVariation", "child": "MovingSofa_Geometry_Contacts", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.positiveVertex_boundedVariation", "child": "MovingSofa_Geometry_Plane", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.real_area_le_iff_volume_le", "child": "MovingSofa_Classical_Area", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.sofaConstant_eq_volume_gerversSofaWith", "child": "MovingSofa.isMovingSofa_gerversSofaWith", "via": ["solution"]}
 {"parent": "MovingSofa.sofaConstant_eq_volume_gerversSofaWith", "child": "MovingSofa.volume_gerversSofaWith_le_sofaConstant", "via": ["solution"]}
@@ -60195,7 +60195,7 @@
 {"parent": "BenchmarkOperator20261026_CouplingMixture", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_CouplingMixture", "child": "BenchmarkOperator20261026_CouplingMarkov", "via": ["statement"]}
 {"parent": "MeasureEquivalenceRestrictedProduct.finite_volume_ac_exponential", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
-{"parent": "HofmannMoser.lemma_7", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "HofmannMoser.lemma_7", "child": "HofmannMoser_Potential", "via": ["solution", "statement"]}
 {"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_OperatorTargets", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_OperatorUnitaryBorel", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_OperatorBireduction", "child": "BenchmarkOperator20261026_OperatorHilbertFlatten", "via": ["statement"]}
@@ -60227,7 +60227,7 @@
 {"parent": "MeasureEquivalenceRestrictedPhase.exists_inducedTuple_intertwiner_of_zeroSum", "child": "BenchmarkOperator20261026_OperatorStrongUnitary", "via": ["solution", "statement"]}
 {"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser_Syntax", "via": ["statement"]}
 {"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser_Potential", "via": ["statement"]}
-{"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser_Typing", "via": ["statement"]}
+{"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser_Typing", "via": ["solution", "statement"]}
 {"parent": "BenchmarkOperator20261026_L2FiniteOnes", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_RestrictedErgodic", "child": "BenchmarkOperator20261026_SumFiberCoordinates", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_RestrictedErgodic", "child": "BenchmarkOperator20261026_RestrictedProduct", "via": ["statement"]}
@@ -60262,7 +60262,7 @@
 {"parent": "BenchmarkOperator20261026_InducedCornerUnitary", "child": "BenchmarkOperator20261026_InducedCornerTransport", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_InducedCornerUnitary", "child": "BenchmarkOperator20261026_MeasureUnitaryMultipliers", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_InducedCornerUnitary", "child": "BenchmarkOperator20261026_PiecewiseMeasureTransport", "via": ["statement"]}
-{"parent": "HofmannMoser.proposition_4", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "HofmannMoser.proposition_4", "child": "HofmannMoser_Potential", "via": ["solution", "statement"]}
 {"parent": "BenchmarkOperator20261026_VectorSpectralState", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_VectorSpectralState", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["statement"]}
 {"parent": "BenchmarkComparisons.countable_product_to_c0", "child": "BenchmarkRelations", "via": ["solution", "statement"]}
@@ -60312,7 +60312,7 @@
 {"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedInducedTuple", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_RestrictedAction", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_MeasureInducedOperatorCode", "child": "BenchmarkOperator20261026_OperatorBireduction", "via": ["statement"]}
-{"parent": "HofmannMoser.lemma_12", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "HofmannMoser.lemma_12", "child": "HofmannMoser_Potential", "via": ["solution", "statement"]}
 {"parent": "MeasureEquivalenceDensity.squareMeasure_continuous", "child": "BenchmarkOperator20261026_DensityMeasure", "via": ["solution", "statement"]}
 {"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["solution", "statement"]}
 {"parent": "MeasureEquivalenceHellinger.upperSemicontinuous_integrated_affinity_standardBorel", "child": "BenchmarkOperator20261026_SolenoidGroups", "via": ["solution", "statement"]}
@@ -60617,7 +60617,7 @@
 {"parent": "MeasureEquivalenceRestrictedProduct.finite_exponential_ac_volume", "child": "BenchmarkOperator20261026_RestrictedDensity", "via": ["solution", "statement"]}
 {"parent": "HofmannMoser_Typing", "child": "HofmannMoser_Syntax", "via": ["statement"]}
 {"parent": "HofmannMoser_Typing", "child": "HofmannMoser_Potential", "via": ["statement"]}
-{"parent": "HofmannMoser.lemma_13", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "HofmannMoser.lemma_13", "child": "HofmannMoser_Potential", "via": ["solution", "statement"]}
 {"parent": "BenchmarkOperator20261026_OrbitMarkov", "child": "BenchmarkOperator20261026_MetropolisCoupling", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_OrbitMarkov", "child": "BenchmarkOperator20261026_CouplingMixture", "via": ["statement"]}
 {"parent": "MeasureEquivalenceMarkov.couplingTransition_ae_eq_integral_kernel", "child": "BenchmarkOperator20261026_CouplingMarkov", "via": ["solution", "statement"]}
@@ -60912,7 +60912,7 @@
 {"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_ComponentQuasiInvariance", "via": ["solution", "statement"]}
 {"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_RNGraph", "via": ["solution", "statement"]}
 {"parent": "MeasureEquivalenceRigidity.ae_componentQI_of_uniform_mean_affinity", "child": "BenchmarkOperator20261026_OrbitMarkov", "via": ["solution", "statement"]}
-{"parent": "HofmannMoser.lemma_9", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "HofmannMoser.lemma_9", "child": "HofmannMoser_Potential", "via": ["solution", "statement"]}
 {"parent": "BenchmarkOperator20261026_HellingerInner", "child": "BenchmarkOperator20261026_HellingerAffinity", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_HellingerInner", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_RootContinuity", "child": "BenchmarkOperator20261026_HellingerTransport", "via": ["statement"]}
@@ -60954,7 +60954,7 @@
 {"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_PiecewiseMeasureTransport", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_RestrictedTranslatedCorner", "child": "BenchmarkOperator20261026_RestrictedModulus", "via": ["statement"]}
 {"parent": "BenchmarkOperator20261026_MeasureUnitaryDensity", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["statement"]}
-{"parent": "HofmannMoser.proposition_3", "child": "HofmannMoser_Potential", "via": ["statement"]}
+{"parent": "HofmannMoser.proposition_3", "child": "HofmannMoser_Potential", "via": ["solution", "statement"]}
 {"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "BenchmarkOperator20261026_MeasureCantorTuple", "via": ["solution", "statement"]}
 {"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution", "statement"]}
 {"parent": "MeasureEquivalenceInducedCorners.induced_corner_unitary_mass_eq", "child": "BenchmarkOperator20261026_InducedCornerUnitary", "via": ["solution", "statement"]}
@@ -61306,3 +61306,7 @@
 {"parent": "MeasureEquivalenceRootContinuity.continuous_root_of_mem", "child": "MeasureEquivalenceTopology.continuous_borel_hom", "via": ["solution"]}
 {"parent": "MeasureUnitary.exists_faithful_L2", "child": "BenchmarkOperator20261026_MeasureUnitaryDensity", "via": ["solution"]}
 {"parent": "MeasureUnitary.exists_faithful_L2", "child": "BenchmarkOperator20261026_MeasureUnitaryRN", "via": ["solution"]}
+{"parent": "MovingSofa.canonical_paper_motion_bridge", "child": "MovingSofa.IsMovingSofa.isPaperMotion", "via": ["solution"]}
+{"parent": "MovingSofa.inner_le_supportValue", "child": "MovingSofa_Geometry_Contacts", "via": ["solution"]}
+{"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser.lemma_13", "via": ["solution"]}
+{"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser.lemma_12", "via": ["solution"]}

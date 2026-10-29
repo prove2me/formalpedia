@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ContingencyTables_counting
 -- name    : OAI.ContingencyTables.counting
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:28.379034+00:00
 -- url     : https://prove2.me/theorems/5ca70385-d3cb-4806-8df4-1df783c46062

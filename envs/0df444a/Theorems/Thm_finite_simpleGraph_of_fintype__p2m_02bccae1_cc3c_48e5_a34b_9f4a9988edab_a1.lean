@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_simpleGraph_of_fintype__p2m_02bccae1_cc3c_48e5_a34b_9f4a9988edab_a1
 -- name    : finite_simpleGraph_of_fintype__p2m_02bccae1_cc3c_48e5_a34b_9f4a9988edab_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:45:38.573627+00:00
 -- url     : https://prove2.me/theorems/093ee8fc-c5f6-49e9-9fb7-99c6885e4636

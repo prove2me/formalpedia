@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.unbounded_tilted_cumulative_laplace_representation_of_gaussian
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T15:50:17.230601+00:00
 -- url     : https://prove2.me/submissions/8dc68e10-ea5e-4350-ae4f-795a12ecd11f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_unbounded_esscher_root_first_passage_scale_decay
 import Theorems.Thm_AvramDividend_Classical_gaussian_cumulative_of_exit_decay_without_aux

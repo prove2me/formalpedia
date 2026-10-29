@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_global_C2_gaussian_positive_barrier
 -- name    : AvramDividend.Classical.vcstar_global_C2_gaussian_positive_barrier
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T23:16:40.560544+00:00
 -- url     : https://prove2.me/theorems/a8fb5c02-0f6f-4f67-b8cc-9d2ebcffe2e3

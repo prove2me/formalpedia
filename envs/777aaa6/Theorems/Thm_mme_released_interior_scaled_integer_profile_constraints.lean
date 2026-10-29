@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mme_released_interior_scaled_integer_profile_constraints
 -- name    : mme_released_interior_scaled_integer_profile_constraints
--- status  : Open
+-- status  : Proved
 -- author  : @Robertboy18
 -- created : 2026-09-23T03:44:43.039505+00:00
 -- url     : https://prove2.me/theorems/e3320eb3-2256-4020-850b-f71016a7b0f7

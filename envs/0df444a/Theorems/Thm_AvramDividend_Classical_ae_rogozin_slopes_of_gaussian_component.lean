@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_ae_rogozin_slopes_of_gaussian_component
 -- name    : AvramDividend.Classical.ae_rogozin_slopes_of_gaussian_component
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-27T16:36:06.518047+00:00
 -- url     : https://prove2.me/theorems/0b94b9ab-de34-451e-bdc2-d5e2ecf92372

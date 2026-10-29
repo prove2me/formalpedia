@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_ws01e_a_finite_grid_ae_stop_cylinder_identity_6e132acd
 -- name    : avram_ws01e_a_finite_grid_ae_stop_cylinder_identity_6e132acd
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T13:10:39.381255+00:00
 -- url     : https://prove2.me/theorems/08bfb1bf-7120-4bc1-8da5-357da22043a8

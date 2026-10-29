@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SyncPrefix.Huffman.huffmanOfStronglyAcyclic_encode_polyTime
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:39:38.126836+00:00
 -- url     : https://prove2.me/submissions/b6ae6f24-4da7-4131-be54-b655f19e1580
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_SyncPrefix_Huffman_Automata
 import Definitions.Def_SyncPrefix_Huffman_Lemma5Construction

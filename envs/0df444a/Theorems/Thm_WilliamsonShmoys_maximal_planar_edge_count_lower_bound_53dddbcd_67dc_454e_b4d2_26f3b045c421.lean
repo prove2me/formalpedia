@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_lower_bound_53dddbcd_67dc_454e_b4d2_26f3b045c421
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_lower_bound_53dddbcd_67dc_454e_b4d2_26f3b045c421
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:46:48.391516+00:00
 -- url     : https://prove2.me/theorems/48db118a-aba6-4e54-b39d-edf0710069f7

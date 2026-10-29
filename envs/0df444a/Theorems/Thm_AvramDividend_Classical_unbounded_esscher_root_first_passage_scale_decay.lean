@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_esscher_root_first_passage_scale_decay
 -- name    : AvramDividend.Classical.unbounded_esscher_root_first_passage_scale_decay
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T22:26:13.309103+00:00
 -- url     : https://prove2.me/theorems/680362b2-6512-477d-bf22-28e65a334e66

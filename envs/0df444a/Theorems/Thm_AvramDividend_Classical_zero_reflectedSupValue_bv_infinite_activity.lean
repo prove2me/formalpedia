@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_zero_reflectedSupValue_bv_infinite_activity
 -- name    : AvramDividend.Classical.zero_reflectedSupValue_bv_infinite_activity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T23:02:44.997693+00:00
 -- url     : https://prove2.me/theorems/625fac59-bc0e-4cbb-b9c7-219536136b68

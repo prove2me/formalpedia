@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.unbounded_tilted_cumulative_laplace_representation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T15:51:14.481194+00:00
 -- url     : https://prove2.me/submissions/57a8e43e-a3f7-4205-b212-5a3735850afa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_unbounded_variation_gaussian_or_infinite_small_jump_moment
 import Theorems.Thm_AvramDividend_Classical_unbounded_tilted_cumulative_laplace_representation_of_gaussian

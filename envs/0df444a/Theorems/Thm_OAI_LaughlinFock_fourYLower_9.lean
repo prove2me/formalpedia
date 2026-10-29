@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LaughlinFock_fourYLower_9
 -- name    : OAI.LaughlinFock.fourYLower_9
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T18:23:46.524933+00:00
 -- url     : https://prove2.me/theorems/9d13e11d-7dbd-4d97-8aa8-f09f80c25dcf

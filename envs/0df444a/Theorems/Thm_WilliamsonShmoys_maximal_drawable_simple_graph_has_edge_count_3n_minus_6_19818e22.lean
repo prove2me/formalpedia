@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_simple_graph_has_edge_count_3n_minus_6_19818e22
 -- name    : WilliamsonShmoys.maximal_drawable_simple_graph_has_edge_count_3n_minus_6_19818e22
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:58:48.211673+00:00
 -- url     : https://prove2.me/theorems/1ef256c2-6154-41ca-a8ba-2b92078fa256

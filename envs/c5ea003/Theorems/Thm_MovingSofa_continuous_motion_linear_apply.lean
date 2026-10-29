@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_continuous_motion_linear_apply
 -- name    : MovingSofa.continuous_motion_linear_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-03T16:47:13.915984+00:00
 -- url     : https://prove2.me/theorems/81a69736-5ec0-4538-b367-494be99d6a16

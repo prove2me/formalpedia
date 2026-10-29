@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityProfileWord_exists_215_word
 -- name    : SensitivityProfileWord.exists_215_word
--- status  : Open
+-- status  : Disproved
 -- author  : @dmilosch
 -- created : 2026-10-21T22:38:39.707271+00:00
 -- url     : https://prove2.me/theorems/76888ed0-dff9-4b8d-b69f-5a603abeb564

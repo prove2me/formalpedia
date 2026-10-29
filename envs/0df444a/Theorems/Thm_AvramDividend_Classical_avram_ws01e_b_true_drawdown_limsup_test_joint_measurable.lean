@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ws01e_b_true_drawdown_limsup_test_joint_measurable
 -- name    : AvramDividend.Classical.avram_ws01e_b_true_drawdown_limsup_test_joint_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T20:12:43.247299+00:00
 -- url     : https://prove2.me/theorems/fac2f5c9-eea7-4503-ad75-1eb291f4c32b

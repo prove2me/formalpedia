@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.barrier_zero_boundary_value_nonneg
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T19:07:18.047418+00:00
 -- url     : https://prove2.me/submissions/cbb29ac5-b9ba-4012-b7dd-a79422671c1c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_barrierValue_zero_boundary_nonneg
 import Theorems.Thm_AvramDividend_Classical_barrier_zero_boundary_value

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mme_released_recursive_stage_region3_compat1_s1
 -- name    : mme_released_recursive_stage_region3_compat1_s1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-09-24T09:45:32.214472+00:00
 -- url     : https://prove2.me/theorems/ed7f6dfd-189d-4720-b852-e9f8d988b1d0

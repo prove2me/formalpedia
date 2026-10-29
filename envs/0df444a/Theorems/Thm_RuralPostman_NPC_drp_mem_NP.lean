@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RuralPostman_NPC_drp_mem_NP
 -- name    : RuralPostman.NPC.drp_mem_NP
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:33:41.539393+00:00
 -- url     : https://prove2.me/theorems/76b13823-4a90-44f5-8e99-3a1aeb01e53d

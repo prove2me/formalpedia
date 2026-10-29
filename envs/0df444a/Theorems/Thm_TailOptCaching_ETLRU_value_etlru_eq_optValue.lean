@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailOptCaching_ETLRU_value_etlru_eq_optValue
 -- name    : TailOptCaching.ETLRU.value_etlru_eq_optValue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:29.254545+00:00
 -- url     : https://prove2.me/theorems/18e94d19-3fdd-413f-bc5a-9b7b059d955c

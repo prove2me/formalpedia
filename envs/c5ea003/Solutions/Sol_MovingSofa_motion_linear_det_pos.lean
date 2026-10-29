@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MovingSofa.motion_linear_det_pos
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Tamas Fulop
 -- created : 2026-10-03T16:57:09.968913+00:00
 -- url     : https://prove2.me/submissions/f80ac36b-0775-4bcf-9240-38f26e2f43d4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Geometry.Euclidean.Angle.Oriented.Rotation
 import Definitions.Def_MovingSofa_Basic

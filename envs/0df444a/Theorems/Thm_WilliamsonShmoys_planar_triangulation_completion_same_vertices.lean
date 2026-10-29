@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_completion_same_vertices
 -- name    : WilliamsonShmoys.planar_triangulation_completion_same_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:32:39.080987+00:00
 -- url     : https://prove2.me/theorems/e4e68e92-6c00-4382-bd03-ce02a90a1d55

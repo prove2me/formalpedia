@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_edge_count_completion_ed91fffc_a32b_46e0_9209_f57c29a4258c_maximal_edge_count
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:08:52.890329+00:00
 -- url     : https://prove2.me/submissions/0fe0ea58-b84f-485c-b5e2-6ff284fef27c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_saturated_extension_for_maximal_edge_count_retry2
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_has_euler_edge_count_retry2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_tensor_properties
 -- name    : QAlgorithms.Nannicini.tensor_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:39.73823+00:00
 -- url     : https://prove2.me/theorems/7f1607cc-f6db-4e69-8fa7-ac087f39f35a

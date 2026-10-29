@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_mainTarget_proved
 -- name    : OAI.Laughlin.mainTarget_proved
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:52.3178+00:00
 -- url     : https://prove2.me/theorems/d504c020-0af5-410a-8835-c228471092a0

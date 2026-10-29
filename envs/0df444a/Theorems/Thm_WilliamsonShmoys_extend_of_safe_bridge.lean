@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_extend_of_safe_bridge
 -- name    : WilliamsonShmoys.extend_of_safe_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T11:11:12.237591+00:00
 -- url     : https://prove2.me/theorems/1d9314e3-6c8b-411f-a63d-c02ea42ea559

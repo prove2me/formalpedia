@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidProphetKW_Inter_intersection_prophet
 -- name    : MatroidProphetKW.Inter.intersection_prophet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:24:14.131802+00:00
 -- url     : https://prove2.me/theorems/15a44f47-a275-4194-97cb-0b0eab97367c

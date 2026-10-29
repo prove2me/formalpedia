@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_source_fourBody_limitpositive
 -- name    : OAI.Laughlin.Fock.source_fourBody_limitpositive
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T08:33:11.318019+00:00
 -- url     : https://prove2.me/theorems/e360bbeb-daff-4d87-9322-b3f47d8bee1c

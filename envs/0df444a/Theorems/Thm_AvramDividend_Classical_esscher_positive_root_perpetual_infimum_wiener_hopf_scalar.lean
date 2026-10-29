@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_esscher_positive_root_perpetual_infimum_wiener_hopf_scalar
 -- name    : AvramDividend.Classical.esscher_positive_root_perpetual_infimum_wiener_hopf_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-27T00:34:03.866599+00:00
 -- url     : https://prove2.me/theorems/07c7d8b4-44ae-416c-8ef4-c205398f5876

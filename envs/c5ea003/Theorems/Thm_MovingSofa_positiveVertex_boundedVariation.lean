@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_positiveVertex_boundedVariation
 -- name    : MovingSofa.positiveVertex_boundedVariation
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-05T00:11:43.539511+00:00
 -- url     : https://prove2.me/theorems/7fc759c0-8de9-4c61-996f-1d13277c6937

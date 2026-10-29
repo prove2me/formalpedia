@@ -1,0 +1,213 @@
+-- Prove2me | solution 1 for PutermanMDP.FiniteHorizon.policy_evaluation
+-- status  : ACCEPTED   (prove)
+-- author  : @fizzyinc3
+-- created : 2026-10-29T04:24:07.584005+00:00
+-- url     : https://prove2.me/submissions/b08c087d-6bc9-4edb-b4f8-0145fc535b08
+
+import Mathlib
+import Definitions.Def_PutermanMDP_FiniteHorizon_continuationValue
+
+open MeasureTheory
+open PutermanMDP.FiniteHorizon
+
+theorem fh_hasSum_one {X : Type*} (p : PMF X) : HasSum (fun x => (p x).toReal) 1 := by
+  have h := ENNReal.hasSum_toReal (f := fun x => p x) (PMF.tsum_coe_ne_top p)
+  rw [← ENNReal.tsum_toReal_eq (fun a => PMF.apply_ne_top p a), PMF.tsum_coe] at h
+  simpa using h
+
+theorem fh_gen {X : Type*} (p : PMF X) (x : X → ℝ) (B : ℝ)
+    (hB : ∀ a, p a ≠ 0 → |x a| ≤ B) :
+    Summable (fun a => (p a).toReal * x a) ∧ |∑' a, (p a).toReal * x a| ≤ B := by
+  have hn : ∀ a, ‖(p a).toReal * x a‖ ≤ (p a).toReal * B := by
+    intro a
+    rw [Real.norm_eq_abs, abs_mul, abs_of_nonneg ENNReal.toReal_nonneg]
+    by_cases ha : p a = 0
+    · rw [ha]; simp
+    · exact mul_le_mul_of_nonneg_left (hB a ha) ENNReal.toReal_nonneg
+  have hg : HasSum (fun a => (p a).toReal * B) B := by
+    simpa using (fh_hasSum_one p).mul_right B
+  refine ⟨Summable.of_norm_bounded hg.summable hn, ?_⟩
+  have := tsum_of_norm_bounded hg hn
+  simpa [Real.norm_eq_abs] using this
+
+def Bd (p : PMF ℝ) (B : ℝ) : Prop := ∀ z, p z ≠ 0 → |z| ≤ B
+
+noncomputable def Phi (p : PMF ℝ) : ℝ := ∑' z, (p z).toReal * z
+
+theorem Phi_bound (p : PMF ℝ) (B : ℝ) (h : Bd p B) : |Phi p| ≤ B :=
+  (fh_gen p id B h).2
+
+theorem Phi_integral (p : PMF ℝ) (B : ℝ) (h : Bd p B) :
+    ∫ z : ℝ, z ∂p.toMeasure = Phi p := by
+  have hint : Integrable (fun z : ℝ => z) p.toMeasure := by
+    refine Integrable.of_bound (C := B) measurable_id.aestronglyMeasurable ?_
+    rw [ae_iff]
+    have hms : MeasurableSet {a : ℝ | ¬ ‖a‖ ≤ B} := by
+      have : {a : ℝ | ¬ ‖a‖ ≤ B} = (fun a : ℝ => ‖a‖) ⁻¹' Set.Ioi B := by
+        ext a; simp
+      rw [this]; exact measurable_norm measurableSet_Ioi
+    rw [p.toMeasure_apply_eq_zero_iff hms, Set.disjoint_left]
+    intro a ha hb
+    exact hb (by rw [Real.norm_eq_abs]; exact h a ha)
+  rw [PMF.integral_eq_tsum p _ hint]
+  rfl
+
+theorem Bd_mono (p : PMF ℝ) (B B' : ℝ) (h : Bd p B) (hB : B ≤ B') : Bd p B' :=
+  fun z hz => le_trans (h z hz) hB
+
+theorem map_add_apply (q : PMF ℝ) (c z : ℝ) : (q.map (fun w => c + w)) (c + z) = q z := by
+  rw [PMF.map_apply]
+  rw [tsum_eq_single z]
+  · simp
+  · intro b hb
+    rw [if_neg]
+    intro h; exact hb (by linarith)
+
+theorem Phi_map (q : PMF ℝ) (c B : ℝ) (h : Bd q B) :
+    Bd (q.map (fun w => c + w)) (|c| + B) ∧ Phi (q.map (fun w => c + w)) = c + Phi q := by
+  constructor
+  · intro w hw
+    have e : w = c + (w - c) := by ring
+    rw [e, map_add_apply] at hw
+    have := h _ hw
+    rw [e]
+    calc |c + (w - c)| ≤ |c| + |w - c| := abs_add_le _ _
+      _ ≤ _ := by linarith
+  · unfold Phi
+    rw [← (Equiv.addLeft c).tsum_eq]
+    simp only [Equiv.coe_addLeft, map_add_apply]
+    have hs : Summable (fun z => (q z).toReal * z) := (fh_gen q (fun z => z) B h).1
+    have hs1 := (fh_hasSum_one q).summable.mul_right c
+    simp only [mul_add]
+    rw [hs1.tsum_add hs, tsum_mul_right, (fh_hasSum_one q).tsum_eq]
+    simp
+
+theorem Phi_bind {α : Type*} (p : PMF α) (f : α → PMF ℝ) (B : ℝ) (h : ∀ a, Bd (f a) B) :
+    Bd (p.bind f) B ∧ Phi (p.bind f) = ∑' a, (p a).toReal * Phi (f a) := by
+  constructor
+  · intro w hw
+    have hmem : w ∈ (p.bind f).support := hw
+    rw [PMF.mem_support_bind_iff] at hmem
+    obtain ⟨a, _, ha⟩ := hmem
+    exact h a w ha
+  · unfold Phi
+    set F : α → ℝ → ℝ := fun a z => (p a * f a z).toReal * z with hF
+    have hne : ∑' x : α × ℝ, p x.1 * f x.1 x.2 ≠ ⊤ := by
+      rw [ENNReal.tsum_prod (f := fun a z => p a * f a z)]
+      simp only [ENNReal.tsum_mul_left, PMF.tsum_coe, mul_one]
+      exact ENNReal.one_ne_top
+    have hsum : Summable (Function.uncurry F) := by
+      refine Summable.of_norm_bounded
+        (g := fun x : α × ℝ => (p x.1 * f x.1 x.2).toReal * B)
+        ((ENNReal.summable_toReal hne).mul_right B) ?_
+      rintro ⟨a, z⟩
+      simp only [Function.uncurry_apply_pair, hF]
+      rw [Real.norm_eq_abs, abs_mul, abs_of_nonneg ENNReal.toReal_nonneg]
+      by_cases hz : f a z = 0
+      · rw [hz]; simp
+      · exact mul_le_mul_of_nonneg_left (h a z hz) ENNReal.toReal_nonneg
+    have lhs : ∀ z, ((p.bind f) z).toReal * z = ∑' a, F a z := by
+      intro z
+      rw [PMF.bind_apply, ENNReal.tsum_toReal_eq
+        (fun a => ENNReal.mul_ne_top (PMF.apply_ne_top p a) (PMF.apply_ne_top (f a) z)),
+        ← tsum_mul_right]
+    have rhs : ∀ a, (p a).toReal * ∑' z, (f a z).toReal * z = ∑' z, F a z := by
+      intro a
+      rw [← tsum_mul_left]
+      congr 1; funext z
+      simp only [hF, ENNReal.toReal_mul]; ring
+    simp only [lhs, rhs]
+    exact hsum.tsum_comm
+
+theorem solution {S A : Type} [Countable S] [Nonempty S]
+    (M : Model S A) (π : Policy M) :
+    (∀ h : History S A, h.time ≤ M.horizon →
+      evaluate M π (M.horizon - h.time) h = continuationValue M π h) ∧
+    (∀ s, totalValue M π s = evaluate M π M.horizon (History.initial s)) := by
+  obtain ⟨C, hC0, hCr, hCt⟩ := M.bounded
+  have hext : ∀ (h : History S A) (a : A) (j : S), (h.extend a j).time = h.time + 1 := by
+    intro h a j; simp [History.extend, History.time]
+  have main : ∀ k : ℕ, ∀ h : History S A, h.time + k ≤ M.horizon →
+      Bd (rewardLaw M π k h) ((k + 1) * C) ∧ evaluate M π k h = Phi (rewardLaw M π k h) := by
+    intro k
+    induction k with
+    | zero =>
+      intro h _
+      have hp : ∀ z, (PMF.pure (M.terminal h.state)) z ≠ 0 → z = M.terminal h.state := by
+        intro z hz
+        by_contra hne
+        exact hz (PMF.pure_apply_of_ne _ _ hne)
+      simp only [rewardLaw, evaluate]
+      constructor
+      · intro z hz
+        rw [hp z hz]; simpa using hCt h.state
+      · unfold Phi
+        rw [tsum_eq_single (M.terminal h.state)]
+        · simp
+        · intro b hb; rw [PMF.pure_apply_of_ne _ _ hb]; simp
+    | succ k ih =>
+      intro h hh
+      have hlt : h.time < M.horizon := by omega
+      have IH : ∀ (a : {a // a ∈ M.available h.state}) (j : S),
+          Bd (rewardLaw M π k (h.extend a.val j)) ((k + 1) * C) ∧
+            evaluate M π k (h.extend a.val j) = Phi (rewardLaw M π k (h.extend a.val j)) := by
+        intro a j; exact ih _ (by rw [hext]; omega)
+      have hmapB : ∀ (a : {a // a ∈ M.available h.state}) (j : S),
+          Bd ((rewardLaw M π k (h.extend a.val j)).map
+            (fun z => M.reward h.time h.state a + z)) ((↑(k + 1) + 1) * C) := by
+        intro a j
+        refine Bd_mono _ _ _ (Phi_map _ _ _ (IH a j).1).1 ?_
+        have := hCr h.time hlt h.state a
+        push_cast; linarith
+      have hinner : ∀ (a : {a // a ∈ M.available h.state}),
+          Bd ((M.transition h.time h.state a).bind fun j =>
+            (rewardLaw M π k (h.extend a.val j)).map
+              (fun z => M.reward h.time h.state a + z)) ((↑(k + 1) + 1) * C) ∧
+          Phi ((M.transition h.time h.state a).bind fun j =>
+            (rewardLaw M π k (h.extend a.val j)).map
+              (fun z => M.reward h.time h.state a + z)) =
+          M.reward h.time h.state a + ∑' j, (M.transition h.time h.state a j).toReal *
+            evaluate M π k (h.extend a.val j) := by
+        intro a
+        obtain ⟨hb1, hb2⟩ := Phi_bind (M.transition h.time h.state a) _ _ (hmapB a)
+        refine ⟨hb1, ?_⟩
+        rw [hb2]
+        have e : ∀ j, Phi ((rewardLaw M π k (h.extend a.val j)).map
+            (fun z => M.reward h.time h.state a + z)) =
+            M.reward h.time h.state a + evaluate M π k (h.extend a.val j) := by
+          intro j
+          rw [(Phi_map _ _ _ (IH a j).1).2, (IH a j).2]
+        simp only [e, mul_add]
+        set T := M.transition h.time h.state a
+        have hs1 := (fh_hasSum_one T).summable.mul_right (M.reward h.time h.state a)
+        have hs2 := (fh_gen T (fun j => evaluate M π k (h.extend a.val j)) ((k + 1) * C)
+          (fun j _ => by rw [(IH a j).2]; exact Phi_bound _ _ (IH a j).1)).1
+        rw [hs1.tsum_add hs2, tsum_mul_right, (fh_hasSum_one T).tsum_eq, one_mul]
+      have hrl : rewardLaw M π (k + 1) h = (π h).bind fun a =>
+          (M.transition h.time h.state a).bind fun j =>
+            (rewardLaw M π k (h.extend a.val j)).map
+              (fun z => M.reward h.time h.state a + z) := rfl
+      have hev : evaluate M π (k + 1) h = ∑' a, (π h a).toReal *
+          (M.reward h.time h.state a +
+            ∑' j, (M.transition h.time h.state a j).toReal *
+              evaluate M π k (h.extend a.val j)) := rfl
+      obtain ⟨hB, hP⟩ := Phi_bind (π h) _ _ (fun a => (hinner a).1)
+      rw [hrl, hev]
+      refine ⟨hB, ?_⟩
+      rw [hP]
+      congr 1; funext a
+      rw [(hinner a).2]
+  have part1 : ∀ h : History S A, h.time ≤ M.horizon →
+      evaluate M π (M.horizon - h.time) h = continuationValue M π h := by
+    intro h hh
+    obtain ⟨hB, hE⟩ := main (M.horizon - h.time) h (by omega)
+    rw [hE]
+    unfold continuationValue
+    rw [Phi_integral _ _ hB]
+  refine ⟨part1, ?_⟩
+  intro s
+  have := part1 (History.initial s) (by simp [History.initial, History.time])
+  have e : (History.initial s : History S A).time = 0 := rfl
+  rw [e, Nat.sub_zero] at this
+  rw [this]
+  rfl

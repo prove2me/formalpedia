@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_halfCyl_eventually_ne_zero
 -- name    : FiniteEnergyPlane.halfCyl_eventually_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-21T12:42:49.102058+00:00
 -- url     : https://prove2.me/theorems/f15a583c-d9a0-4a59-8e3c-ecd666ab428e

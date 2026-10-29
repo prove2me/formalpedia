@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_drawable_edge_augmentation
 -- name    : WilliamsonShmoys.exists_drawable_edge_augmentation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T11:35:49.868146+00:00
 -- url     : https://prove2.me/theorems/b5b120c7-6d20-4d88-bc17-a71de5c3565a

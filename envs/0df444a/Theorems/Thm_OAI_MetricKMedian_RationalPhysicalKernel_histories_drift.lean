@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_RationalPhysicalKernel_histories_drift
 -- name    : OAI.MetricKMedian.RationalPhysicalKernel.histories_drift
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:36:01.421792+00:00
 -- url     : https://prove2.me/theorems/aab88e2b-5783-4d32-a626-c5293ec09182

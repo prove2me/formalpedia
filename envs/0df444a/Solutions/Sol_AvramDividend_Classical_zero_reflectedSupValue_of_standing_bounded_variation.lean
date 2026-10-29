@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.zero_reflectedSupValue_of_standing_bounded_variation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T23:04:36.140491+00:00
 -- url     : https://prove2.me/submissions/3cd2bbdd-f492-4978-9787-d86cb0a72f81
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_zero_reflectedSupValue_bv_finite_activity
 import Theorems.Thm_AvramDividend_Classical_zero_reflectedSupValue_bv_infinite_activity

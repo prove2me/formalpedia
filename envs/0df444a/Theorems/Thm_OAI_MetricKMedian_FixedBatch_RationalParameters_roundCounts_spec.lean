@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_FixedBatch_RationalParameters_roundCounts_spec
 -- name    : OAI.MetricKMedian.FixedBatch.RationalParameters.roundCounts_spec
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:33:52.612798+00:00
 -- url     : https://prove2.me/theorems/7b86010a-5201-4882-a625-9ee1e42732ef

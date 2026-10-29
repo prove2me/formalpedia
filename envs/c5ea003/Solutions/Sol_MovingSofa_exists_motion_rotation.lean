@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MovingSofa.exists_motion_rotation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Tamas Fulop
 -- created : 2026-10-03T16:57:10.85103+00:00
 -- url     : https://prove2.me/submissions/22d1ebba-b914-4d0c-845c-e188fbb01b48
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Geometry.Euclidean.Angle.Oriented.Rotation
 import Definitions.Def_MovingSofa_Basic

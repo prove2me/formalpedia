@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_esscher_bounded_stop_stoppedHistory_observable_terminal_consistency
 -- name    : AvramDividend.Classical.esscher_bounded_stop_stoppedHistory_observable_terminal_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T19:21:35.601376+00:00
 -- url     : https://prove2.me/theorems/4c1a5b7a-3823-4410-843a-a15e67667201

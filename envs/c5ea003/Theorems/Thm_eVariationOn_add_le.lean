@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eVariationOn_add_le
 -- name    : eVariationOn.add_le
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-04T22:34:45.971248+00:00
 -- url     : https://prove2.me/theorems/75ba7b38-4264-42fc-b77f-9ea156d2ceb1

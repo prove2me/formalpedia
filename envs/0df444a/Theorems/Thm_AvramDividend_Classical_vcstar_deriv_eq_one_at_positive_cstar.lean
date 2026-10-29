@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_deriv_eq_one_at_positive_cstar
 -- name    : AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:42:56.927707+00:00
 -- url     : https://prove2.me/theorems/edf21020-2dbd-48f9-82ea-adf0f40c61d9

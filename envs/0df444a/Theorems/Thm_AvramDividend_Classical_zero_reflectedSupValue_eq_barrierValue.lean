@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_zero_reflectedSupValue_eq_barrierValue
 -- name    : AvramDividend.Classical.zero_reflectedSupValue_eq_barrierValue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:42:40.607259+00:00
 -- url     : https://prove2.me/theorems/b83a725b-f7cf-4aef-8105-310d38d8cd46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalkemaDeHaan_LimitTypes_theorem_1
 -- name    : BalkemaDeHaan.LimitTypes.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:20:58.420026+00:00
 -- url     : https://prove2.me/theorems/7a75536d-7a8c-49b9-892b-13223b5b4281

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_strict_edge_augmentation
 -- name    : WilliamsonShmoys.planar_drawing_strict_edge_augmentation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:54:28.680797+00:00
 -- url     : https://prove2.me/theorems/d3f6855c-e788-4eb5-b9d7-df4909b92559

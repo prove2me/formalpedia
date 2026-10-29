@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_drawing_has_face_count_equations
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:14:52.173988+00:00
 -- url     : https://prove2.me/submissions/4ebdd9b9-2d5e-4443-af7d-228b17928d7f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_graph_augmentation_edge_count
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

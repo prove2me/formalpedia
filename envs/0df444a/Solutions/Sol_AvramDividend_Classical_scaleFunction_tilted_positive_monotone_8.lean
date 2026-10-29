@@ -1,10 +1,8 @@
 -- Prove2me | solution 8 for AvramDividend.Classical.scaleFunction_tilted_positive_monotone
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T18:58:37.604514+00:00
 -- url     : https://prove2.me/submissions/a411fbb1-8177-4c06-98ef-3212d9df4532
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_TwoSidedExit
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_tilted_positive_monotone_of_bv

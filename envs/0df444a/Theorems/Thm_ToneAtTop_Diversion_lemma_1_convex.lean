@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToneAtTop_Diversion_lemma_1_convex
 -- name    : ToneAtTop.Diversion.lemma_1_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:53:02.203605+00:00
 -- url     : https://prove2.me/theorems/b6a0bf15-5c45-4010-9d49-f1702e53293a

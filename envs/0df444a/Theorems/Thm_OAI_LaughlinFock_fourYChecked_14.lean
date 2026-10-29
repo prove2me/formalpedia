@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LaughlinFock_fourYChecked_14
 -- name    : OAI.LaughlinFock.fourYChecked_14
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T18:20:54.398059+00:00
 -- url     : https://prove2.me/theorems/da0ab4a2-6760-4175-87de-5b7efcb435ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HofmannMoser_lemma_9
 -- name    : HofmannMoser.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-28T00:51:57.309282+00:00
 -- url     : https://prove2.me/theorems/d43fa31e-026c-410b-9e82-0decfb661498

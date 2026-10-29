@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Traj_tail_length_bound
 -- name    : NonsmoothLojasiewicz.Traj.tail_length_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:37:56.474575+00:00
 -- url     : https://prove2.me/theorems/c52f306a-c1fe-436c-90af-d9f02195e0f3

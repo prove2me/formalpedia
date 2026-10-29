@@ -10722,7 +10722,7 @@
 {"parent": "NLogN.KIL.mid_run", "child": "IntMul_Kappa_K_Defs18", "via": ["solution", "statement"]}
 {"parent": "ClassNumberFormula.quadratic_dedekindZeta_eq_zeta_mul_L", "child": "ClassNumberFormula_Kronecker", "via": ["statement"]}
 {"parent": "NLogN.KFG.gate_iruns", "child": "IntMul_Kappa_K_Defs18", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.Nannicini.reducedDensity_prob", "child": "QAlgorithms_Defs_Measurement", "via": ["statement"]}
+{"parent": "QAlgorithms.Nannicini.reducedDensity_prob", "child": "QAlgorithms_Defs_Measurement", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms_Defs_CompressedOracle", "child": "QAlgorithms_Defs_Polynomial", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0255_parallel2", "child": "PNT_ZeroFree_433_0238_parallel1_1", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0255_parallel2", "child": "PNT_ZeroFree_433_0017", "via": ["statement"]}
@@ -14195,7 +14195,7 @@
 {"parent": "PNT_ZeroFree_433_0120_parallel1", "child": "PNT_ZeroFree_433_0091", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0120_parallel1", "child": "PNT_ZeroFree_433_0073", "via": ["statement"]}
 {"parent": "QAlgorithms.DeWolf.grover_known_t", "child": "QAlgorithms_Defs_Search", "via": ["statement"]}
-{"parent": "QAlgorithms.Nannicini.tensor_properties", "child": "QAlgorithms_Defs_Measurement", "via": ["statement"]}
+{"parent": "QAlgorithms.Nannicini.tensor_properties", "child": "QAlgorithms_Defs_Measurement", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterUnitaryTransport.transported_position_group", "child": "ChapterContinuityUnitaryInfinite", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterUnitaryTransport.transported_position_group", "child": "ChapterUnitaryTransport", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterUnitaryTransport.transported_position_group", "child": "ChapterUnboundedPosition", "via": ["solution", "statement"]}
@@ -32760,8 +32760,8 @@
 {"parent": "ThreeSum.Arithmetic.early_yes", "child": "ThreeSum1962Source_Bundle01", "via": ["solution", "statement"]}
 {"parent": "DirectedOpinion.Typical.theorem_1", "child": "DirectedOpinion_Typical_Model", "via": ["solution", "statement"]}
 {"parent": "SourceTheory.Uniform.uniform_prob_unique", "child": "SourceTheory_Uniform_Model", "via": ["solution", "statement"]}
-{"parent": "CPDNetworks.Lower.theorem_2", "child": "HighDimProb_RandomMatrices_matrixOpNorm", "via": ["statement"]}
-{"parent": "CPDNetworks.Lower.theorem_2", "child": "CPDNetworks_Lower_Setting", "via": ["statement"]}
+{"parent": "CPDNetworks.Lower.theorem_2", "child": "HighDimProb_RandomMatrices_matrixOpNorm", "via": ["solution", "statement"]}
+{"parent": "CPDNetworks.Lower.theorem_2", "child": "CPDNetworks_Lower_Setting", "via": ["solution", "statement"]}
 {"parent": "OTSensitivity.Info.transportCost_lsc", "child": "OTSensitivity_Info_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ModuloCosts.time_bound", "child": "ThreeSum1962Source_Bundle02", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ModuloCosts.time_bound", "child": "ThreeSum1962Source_Bundle05", "via": ["solution", "statement"]}

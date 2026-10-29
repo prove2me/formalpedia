@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReflNewton_FirstOrder_theorem_8
 -- name    : ReflNewton.FirstOrder.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:54:41.176422+00:00
 -- url     : https://prove2.me/theorems/5e0f1d58-7a46-4282-922b-063f38693e3b

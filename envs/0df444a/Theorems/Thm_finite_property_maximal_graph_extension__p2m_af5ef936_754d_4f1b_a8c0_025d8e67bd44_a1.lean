@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_property_maximal_graph_extension__p2m_af5ef936_754d_4f1b_a8c0_025d8e67bd44_a1
 -- name    : finite_property_maximal_graph_extension__p2m_af5ef936_754d_4f1b_a8c0_025d8e67bd44_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:40:31.19434+00:00
 -- url     : https://prove2.me/theorems/cff2ce8c-e80b-4bb3-a446-1b34a17c7175

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mme_released_interior_weighted_region_parent_mixture
 -- name    : mme_released_interior_weighted_region_parent_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @Robertboy18
 -- created : 2026-09-23T03:52:17.024556+00:00
 -- url     : https://prove2.me/theorems/8cef580f-3e70-4f36-a013-7961d1e900ef

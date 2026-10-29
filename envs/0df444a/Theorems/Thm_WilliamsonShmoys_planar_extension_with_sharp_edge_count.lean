@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_extension_with_sharp_edge_count
 -- name    : WilliamsonShmoys.planar_extension_with_sharp_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T01:25:09.790032+00:00
 -- url     : https://prove2.me/theorems/16efa91f-ea17-4fca-8681-329f091064c3

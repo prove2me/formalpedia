@@ -1,0 +1,76 @@
+-- Prove2me | Definitions.Def_PeskirShiryaev_Maximality_Diffusion
+-- name    : PeskirShiryaev_Maximality_Diffusion
+-- status  : Definition
+-- author  : @Shuze Chen
+-- created : 2026-10-29T02:24:03.695079+00:00
+-- url     : https://prove2.me/theorems/e868d545-bd3f-43f8-bbef-682d90f240a4
+-- title:
+--   Diffusion and natural stopping-time information
+-- statement:
+--   Let $\rho,\sigma,c:\mathbb R\to\mathbb R$ be continuous, with $\sigma(x)>0$ and $c(x)>0$. On a probability space $(\Omega,\mathcal F,P)$, a diffusion started at $x$ has continuous paths, measurable evaluations, and is a nonexplosive weak solution of
+--
+--   $$dX_t=\rho(X_t)\,dt+\sigma(X_t)\,dB_t,\qquad X_0=x.$$
+--
+--   A witnessing filtration makes $X$ and a standard Brownian motion $B$ adapted, and each future Brownian increment independent of its past. The stochastic integral is represented by convergence in probability of its left dyadic sums. The natural past of $X$ is augmented by ambient measurable null sets and made right-continuous. A Markov time is a measurable $[0,\infty]$-valued random variable whose lower level events belong to this past.
+--
+--   This supplies the stochastic model without assuming any exit identity, optimality property, or value formula.
+--
+--   **Formalization Note** Time is nonnegative real, while stopping times may take $+\infty$. Almost sure finiteness is imposed separately when defining admissibility, as in Definition 2.1. Continuous versions are represented with continuous paths for every sample point; initial equality remains almost sure. The dyadic-sum relation specifies the actual stochastic integral rather than an arbitrary operation.
+-- source:
+--   Peskir and Shiryaev, Optimal Stopping and Free-Boundary Problems, Birkhäuser Verlag, 2006, DOI 10.1007/978-3-7643-7390-0, pp. 199–200 (PDF 218–219), Eqs. (13.1.1)–(13.1.5); p. 27 (PDF 47), Definition 2.1 and filtration convention
+
+import Mathlib
+
+open MeasureTheory ProbabilityTheory Filter
+open scoped ENNReal NNReal Topology BigOperators
+
+namespace PeskirShiryaev.Maximality
+
+structure Coefficients where
+  drift : ℝ → ℝ
+  volatility : ℝ → ℝ
+  cost : ℝ → ℝ
+  drift_continuous : Continuous drift
+  volatility_continuous : Continuous volatility
+  volatility_pos : ∀ x, 0 < volatility x
+  cost_continuous : Continuous cost
+  cost_pos : ∀ x, 0 < cost x
+
+noncomputable def itoSum {Ω : Type*} (σ : ℝ → ℝ)
+    (X B : ℝ≥0 → Ω → ℝ) (t : ℝ≥0) (n : ℕ) (ω : Ω) : ℝ :=
+  ∑ k ∈ Finset.range (2 ^ n),
+    σ (X (t * (k : ℝ≥0) / (2 ^ n : ℝ≥0)) ω) *
+      (B (t * ((k + 1 : ℕ) : ℝ≥0) / (2 ^ n : ℝ≥0)) ω -
+       B (t * (k : ℝ≥0) / (2 ^ n : ℝ≥0)) ω)
+
+/-- A nonexplosive weak solution on R. The stochastic integral is specified by
+its defining left dyadic sums in probability, not by an unconstrained integral oracle. -/
+structure Diffusion {Ω : Type*} [MeasurableSpace Ω] (p : Coefficients)
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (x : ℝ) : Prop where
+  probability : IsProbabilityMeasure P
+  measurable : ∀ t, Measurable (X t)
+  continuous : ∀ ω, Continuous (fun t => X t ω)
+  initial : ∀ᵐ ω ∂P, X 0 ω = x
+  weak_solution : ∃ (ℱ : Filtration ℝ≥0 ‹MeasurableSpace Ω›) (B : ℝ≥0 → Ω → ℝ),
+    Adapted ℱ X ∧ Adapted ℱ B ∧ IsBrownianReal B P ∧
+    (∀ s t : ℝ≥0, s ≤ t →
+      Indep (MeasurableSpace.comap (fun ω => B t ω - B s ω) inferInstance) (ℱ s) P) ∧
+    ∀ t : ℝ≥0, TendstoInMeasure P (itoSum p.volatility X B t) atTop
+      (fun ω => X t ω - x -
+        ∫ r in (0 : ℝ)..(t : ℝ), p.drift (X r.toNNReal ω))
+
+/-- Right-continuous natural past, augmented by ambient measurable null sets. -/
+noncomputable def naturalPast {Ω : Type*} [MeasurableSpace Ω]
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (t : ℝ≥0) : MeasurableSpace Ω :=
+  ⨅ u : ℝ≥0, ⨅ (_ : t < u),
+    ((⨆ r : ℝ≥0, ⨆ (_ : r ≤ u), MeasurableSpace.comap (X r) inferInstance) ⊔
+      MeasurableSpace.generateFrom {N : Set Ω | MeasurableSet N ∧ P N = 0})
+
+/-- The book's Markov times; a stopping time must additionally be finite a.s. -/
+def IsMarkovTime {Ω : Type*} [MeasurableSpace Ω]
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (τ : Ω → ℝ≥0∞) : Prop :=
+  Measurable τ ∧ ∀ t : ℝ≥0, MeasurableSet[naturalPast P X t] {ω | τ ω ≤ (t : ℝ≥0∞)}
+
+end PeskirShiryaev.Maximality
+
+

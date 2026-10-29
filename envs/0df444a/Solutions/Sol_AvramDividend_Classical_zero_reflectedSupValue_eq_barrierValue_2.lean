@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.zero_reflectedSupValue_eq_barrierValue
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T21:24:06.938987+00:00
 -- url     : https://prove2.me/submissions/48f7238d-98b3-4187-b648-971b30b60719
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_zero_reflectedSupValue_of_standing_bounded_variation
 import Theorems.Thm_AvramDividend_Classical_zero_barrier_instant_ruin_of_standing_unbounded_variation

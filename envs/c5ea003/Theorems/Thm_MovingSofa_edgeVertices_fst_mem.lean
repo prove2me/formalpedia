@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_edgeVertices_fst_mem
 -- name    : MovingSofa.edgeVertices_fst_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-05T00:11:26.279341+00:00
 -- url     : https://prove2.me/theorems/00102252-358a-415c-948a-c428d02dd5cb

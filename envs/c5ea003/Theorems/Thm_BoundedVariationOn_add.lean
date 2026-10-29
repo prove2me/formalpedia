@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedVariationOn_add
 -- name    : BoundedVariationOn.add
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-04T23:45:16.694606+00:00
 -- url     : https://prove2.me/theorems/ec9fcbf7-f3aa-49e5-8de9-e54854c9b5a7

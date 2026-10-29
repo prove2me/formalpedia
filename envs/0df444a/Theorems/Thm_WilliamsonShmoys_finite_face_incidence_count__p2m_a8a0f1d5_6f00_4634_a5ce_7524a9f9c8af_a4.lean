@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_face_incidence_count__p2m_a8a0f1d5_6f00_4634_a5ce_7524a9f9c8af_a4
 -- name    : WilliamsonShmoys.finite_face_incidence_count__p2m_a8a0f1d5_6f00_4634_a5ce_7524a9f9c8af_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:30:50.658909+00:00
 -- url     : https://prove2.me/theorems/1e617845-84a7-4850-95b3-f3b95b3a1a08

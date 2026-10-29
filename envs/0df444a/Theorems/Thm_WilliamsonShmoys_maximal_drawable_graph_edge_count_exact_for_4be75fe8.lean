@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_count_exact_for_4be75fe8
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_count_exact_for_4be75fe8
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T09:43:54.886353+00:00
 -- url     : https://prove2.me/theorems/7721b27c-f110-41cf-87bd-6f874bcfc3d8

@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.barrier_strategy_value_zero_all_capital
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T23:16:39.529121+00:00
 -- url     : https://prove2.me/submissions/029419bf-7a05-4337-a23b-0f9f8f86068e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_barrier_strategy_value_zero_all_capital_of_boundary
 import Theorems.Thm_AvramDividend_Classical_barrierStrategy_zero_boundary_value_identity

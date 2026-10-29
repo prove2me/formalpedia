@@ -1,0 +1,451 @@
+-- Prove2me | solution 1 for LIDT.MIPStarRE.LDT.Pasting.ldSandwichLineOnePoint_adjointRawCommutation_originalOutcome
+-- status  : ACCEPTED   (prove)
+-- author  : @Dengnifer
+-- created : 2026-10-27T16:17:05.580497+00:00
+-- url     : https://prove2.me/submissions/705427db-22c1-42a1-b41d-6062a2e94c58
+
+-- Generated proof for MIPStarRE.LDT.Pasting.ldSandwichLineOnePoint_adjointRawCommutation_originalOutcome.
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionAvg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionUniformSums
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LinePolynomialEmbedding
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_MeasurementLift
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFUniformAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_TensorPlacement
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_Approximation
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_SharedHelpers_SharedLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Normalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Stability
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceBounds_PhaseOneThree
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_First
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_RawSecond
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_HEvalTransport
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_ScalarMarginalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Products
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_PaperChainPhaseFive
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_MainChain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_PhaseTwo
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Averages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Y
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Normalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_Pullback
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_BackChain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Base
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Chain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_FlatChain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Lifting
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_CSSetup
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_Endpoint
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_EndpointEquivs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_PrefixMoved
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Core_LdGbcon
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Families
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Tuples
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Sandwich_GHatSandwich
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Sandwich_PastedFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Sandwich_Switcheroo
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Statements
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_ScalarTerms
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_Split
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Centers
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Terms
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Completion
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Local
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_CauchySchwarz
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_CompletionTransfer
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_DistanceBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_PolynomialAgreement
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Polynomials
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SelfConsistency_Extensions
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichMain_Completeness
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_ApproxDelta
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Triangles_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Tactic_QuantumNonneg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyFailures
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyRole_Core
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_LIDT_MIPStarRE_Quantum_Measurement
+import Mathlib
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+import Mathlib.RingTheory.MvPolynomial.Basic
+import Theorems.Thm_LIDT_MIPStarRE_LDT_CommutativityPoints_sddOpRel_congr_outcome
+import Theorems.Thm_LIDT_MIPStarRE_LDT_CommutativityPoints_sddOpRel_reindex
+import Theorems.Thm_LIDT_MIPStarRE_LDT_Pasting_sddOpRel_uniform_equiv
+
+namespace LIDT.MIPStarRE.LDT
+end LIDT.MIPStarRE.LDT
+namespace LIDT.MIPStarRE.LDT.Commutativity
+end LIDT.MIPStarRE.LDT.Commutativity
+namespace LIDT.MIPStarRE.LDT.Commutativity.GCommStability.Scalar
+end LIDT.MIPStarRE.LDT.Commutativity.GCommStability.Scalar
+namespace LIDT.MIPStarRE.LDT.CommutativityPoints
+end LIDT.MIPStarRE.LDT.CommutativityPoints
+namespace LIDT.MIPStarRE.LDT.Pasting
+end LIDT.MIPStarRE.LDT.Pasting
+namespace LIDT.MIPStarRE.LDT.Preliminaries
+end LIDT.MIPStarRE.LDT.Preliminaries
+
+namespace LIDT
+
+/- Source helpers from MIPStarRE/LDT/Pasting/ComparisonLemmas/CommuteGHalfSandwich/Setup/Definitions.lean. -/
+/-!
+# Section 12 pasting: commute G half-sandwich setup — definitions
+
+Tuple equivalences, operator definitions, and family constructions for the half-sandwich
+commutation chain. This module contains all `def`/`noncomputable def` declarations and small
+helper lemmas used by the sum-bound and step-commutation submodules.
+
+## References
+
+- `references/ldt-paper/ld-pasting.tex`
+- `blueprint/src/chapter/ch09_pasting.tex`
+-/
+
+@[expose] public section
+
+namespace MIPStarRE.LDT.Pasting
+
+open MIPStarRE.LDT
+open MIPStarRE.LDT.ExpansionHypercubeGraph
+open MIPStarRE.LDT.CommutativityPoints
+open scoped BigOperators MatrixOrder _root_.Matrix ComplexOrder
+
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+
+/-! ### Sandwich-chain comparison lemmas
+
+These lemmas capture the infrastructure needed for the `lem:commute-g-half-sandwich`
+through `cor:h-a-consistency` chain in `ld-pasting.tex` §9.3.
+
+The n-step SDDOpRel composition lemma (`sddOpRel_chain`) lives in
+`MIPStarRE.LDT.Preliminaries.CompletionTransfer` alongside `sddOpRel_triangle`,
+since it is a general-purpose result used by multiple chapters. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ### Base cases and consistency lifts -/
+
+
+
+lemma sddOpRel_uniform_fst
+    {α β Outcome : Type*}
+    [Fintype α] [DecidableEq α] [Nonempty α]
+    [Fintype β] [DecidableEq β] [Nonempty β]
+    [Fintype Outcome]
+    (ψ : QuantumState (ι × ι))
+    (A B : IdxOpFamily α Outcome (ι × ι))
+    (δ : Error) :
+    SDDOpRel ψ (uniformDistribution α) A B δ →
+      SDDOpRel ψ (uniformDistribution (α × β))
+        (fun ab => A ab.1)
+        (fun ab => B ab.1)
+        δ := by
+  intro ⟨h⟩
+  constructor
+  unfold sddErrorOp at *
+  calc
+    avgOver (uniformDistribution (α × β)) (fun ab => qSDDOp ψ (A ab.1) (B ab.1))
+      = avgOver (uniformDistribution α) (fun a => qSDDOp ψ (A a) (B a)) := by
+          exact avgOver_uniform_fst (fun a => qSDDOp ψ (A a) (B a))
+    _ ≤ δ := h
+
+
+
+/-! ### Slice-front equivalences -/
+
+
+
+/-! ### Question/outcome equivalences -/
+
+
+
+
+
+
+
+/-! ### Split-successor and move-tail equivalences -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ### Move-step and source families -/
+
+
+
+
+
+
+
+
+
+/-! ### Move-source splitting lemmas -/
+
+
+
+
+
+/-! ### One-element tuple equivalences -/
+
+
+
+
+
+
+
+
+
+/-! ### Outcome slice-front equivalences -/
+
+
+
+end MIPStarRE.LDT.Pasting
+
+end
+
+/- Source helpers from MIPStarRE/LDT/Pasting/ComparisonLemmas/LdSandwichLineOnePoint/PrefixMoved.lean. -/
+/-!
+# Section 12 pasting: line one-point transport — prefix moved lemmas
+
+Internal helper module; part of the file-split for `#1127`.
+
+## References
+
+- `references/ldt-paper/ld-pasting.tex`
+- `blueprint/src/chapter/ch09_pasting.tex`
+-/
+
+@[expose] public section
+
+namespace MIPStarRE.LDT.Pasting
+
+open MIPStarRE.LDT
+open MIPStarRE.LDT.ExpansionHypercubeGraph
+open MIPStarRE.LDT.CommutativityPoints
+open scoped BigOperators MatrixOrder _root_.Matrix ComplexOrder
+
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+
+
+
+
+
+
+
+
+
+
+
+/-- Raw commutation for the nonempty prefix before adding the remaining question tail. -/
+lemma ldSandwichLineOnePointPrefixMoved_rawCommutation
+    (params : Parameters)
+    [FieldModel params.q]
+    (ψ : QuantumState (ι × ι))
+    (family : IdxPolyFamily params ι)
+    (gamma zeta : Error)
+    (hcomm : ∀ j : ℕ, 2 ≤ j →
+      CommuteGHalfSandwichStatement params ψ family gamma zeta j)
+    {i : ℕ} (hi0 : i ≠ 0) :
+    SDDOpRel ψ
+      (uniformDistribution (PointTuple params (i + 1)))
+      (gHatHalfSandwichLeft params family (i + 1))
+      (gHatHalfSandwichRight params family (i + 1))
+      (commuteGHalfSandwichError params gamma zeta (i + 1)) := by
+  -- `hi0` is used by `omega` to turn `i ≠ 0` into `2 ≤ i + 1`.
+  have hi_succ : 2 ≤ i + 1 := by omega
+  exact (hcomm (i + 1) hi_succ).repeatedCommutation
+
+
+
+
+
+
+
+
+
+
+
+end MIPStarRE.LDT.Pasting
+
+end
+
+end LIDT
+
+open LIDT
+/-!
+# Section 12 pasting: line one-point transport — Cauchy-Schwarz setup
+
+Internal helper module; part of the file-split for `#1127`.
+
+## References
+
+- `references/ldt-paper/ld-pasting.tex`
+- `blueprint/src/chapter/ch09_pasting.tex`
+-/
+
+@[expose] public section
+
+open LIDT.MIPStarRE.LDT.Pasting
+
+open MIPStarRE.LDT
+open MIPStarRE.LDT.ExpansionHypercubeGraph
+open MIPStarRE.LDT.CommutativityPoints
+open scoped BigOperators MatrixOrder _root_.Matrix ComplexOrder
+
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+
+theorem solution
+    (params : _root_.LIDT.MIPStarRE.LDT.Parameters)
+    [_root_.LIDT.MIPStarRE.LDT.FieldModel params.q]
+    (ψ : _root_.LIDT.MIPStarRE.LDT.QuantumState (ι × ι))
+    (family : _root_.LIDT.MIPStarRE.LDT.IdxPolyFamily params ι)
+    (gamma zeta : _root_.LIDT.MIPStarRE.LDT.Error)
+    (hcomm : ∀ j : ℕ, 2 ≤ j →
+      _root_.LIDT.MIPStarRE.LDT.Pasting.CommuteGHalfSandwichStatement params ψ family gamma zeta j)
+    {k i : ℕ} (hi : i < k) (hi0 : i ≠ 0) :
+    _root_.LIDT.MIPStarRE.LDT.SDDOpRel ψ
+      (_root_.LIDT.MIPStarRE.LDT.uniformDistribution (_root_.LIDT.MIPStarRE.LDT.Pasting.SandwichedLineQuestion params k))
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.ldSandwichLineOnePointAdjointRawLeftFamily params family hi)
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.ldSandwichLineOnePointAdjointRawRightFamily params family hi)
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwichError params gamma zeta (i + 1)) := by
+  let Rest := _root_.LIDT.MIPStarRE.LDT.Point params × ({j : Fin k // i < j.1} → _root_.LIDT.MIPStarRE.LDT.Fq params)
+  let A : _root_.LIDT.MIPStarRE.LDT.IdxOpFamily (_root_.LIDT.MIPStarRE.LDT.PointTuple params (i + 1))
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.GHatTupleOutcome params (i + 1)) (ι × ι) :=
+    fun xs =>
+      _root_.LIDT.MIPStarRE.LDT.Pasting.gHatHalfSandwichLeft params family (i + 1)
+        ((_root_.LIDT.MIPStarRE.LDT.Pasting.pointTupleLastReverseEquiv params i) xs)
+  let B : _root_.LIDT.MIPStarRE.LDT.IdxOpFamily (_root_.LIDT.MIPStarRE.LDT.PointTuple params (i + 1))
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.GHatTupleOutcome params (i + 1)) (ι × ι) :=
+    fun xs =>
+      _root_.LIDT.MIPStarRE.LDT.Pasting.gHatHalfSandwichRight params family (i + 1)
+        ((_root_.LIDT.MIPStarRE.LDT.Pasting.pointTupleLastReverseEquiv params i) xs)
+  have hraw := _root_.LIDT.MIPStarRE.LDT.Pasting.ldSandwichLineOnePointPrefixMoved_rawCommutation
+    params ψ family gamma zeta hcomm hi0
+  have hprefix : _root_.LIDT.MIPStarRE.LDT.SDDOpRel ψ
+      (_root_.LIDT.MIPStarRE.LDT.uniformDistribution (_root_.LIDT.MIPStarRE.LDT.PointTuple params (i + 1))) A B
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwichError params gamma zeta (i + 1)) := by
+    simpa [A, B] using
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.sddOpRel_uniform_equiv (_root_.LIDT.MIPStarRE.LDT.Pasting.pointTupleLastReverseEquiv params i).symm ψ
+        (_root_.LIDT.MIPStarRE.LDT.Pasting.gHatHalfSandwichLeft params family (i + 1))
+        (_root_.LIDT.MIPStarRE.LDT.Pasting.gHatHalfSandwichRight params family (i + 1))
+        (_root_.LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwichError params gamma zeta (i + 1))).1 hraw
+  have hprod : _root_.LIDT.MIPStarRE.LDT.SDDOpRel ψ
+      (_root_.LIDT.MIPStarRE.LDT.uniformDistribution (_root_.LIDT.MIPStarRE.LDT.PointTuple params (i + 1) × Rest))
+      (fun qr => A qr.1)
+      (fun qr => B qr.1)
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwichError params gamma zeta (i + 1)) :=
+    _root_.LIDT.MIPStarRE.LDT.Pasting.sddOpRel_uniform_fst ψ A B
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwichError params gamma zeta (i + 1)) hprefix
+  have hfull : _root_.LIDT.MIPStarRE.LDT.SDDOpRel ψ
+      (_root_.LIDT.MIPStarRE.LDT.uniformDistribution (_root_.LIDT.MIPStarRE.LDT.Pasting.SandwichedLineQuestion params k))
+      (fun q => A ((_root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixFstEquiv params hi q).1))
+      (fun q => B ((_root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixFstEquiv params hi q).1))
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwichError params gamma zeta (i + 1)) := by
+    exact (_root_.LIDT.MIPStarRE.LDT.Pasting.sddOpRel_uniform_equiv (_root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixFstEquiv params hi).symm ψ
+      (fun qr => A qr.1)
+      (fun qr => B qr.1)
+      (_root_.LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwichError params gamma zeta (i + 1))).1 hprod
+  have hout := _root_.LIDT.MIPStarRE.LDT.CommutativityPoints.sddOpRel_reindex
+    (_root_.LIDT.MIPStarRE.LDT.Pasting.gHatTupleOutcomeLastReverseEquiv params i).symm
+    ψ
+    (_root_.LIDT.MIPStarRE.LDT.uniformDistribution (_root_.LIDT.MIPStarRE.LDT.Pasting.SandwichedLineQuestion params k))
+    (fun q => A ((_root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixFstEquiv params hi q).1))
+    (fun q => B ((_root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixFstEquiv params hi q).1))
+    (_root_.LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwichError params gamma zeta (i + 1))
+    hfull
+  exact _root_.LIDT.MIPStarRE.LDT.CommutativityPoints.sddOpRel_congr_outcome ψ
+    (_root_.LIDT.MIPStarRE.LDT.uniformDistribution (_root_.LIDT.MIPStarRE.LDT.Pasting.SandwichedLineQuestion params k))
+    _ _
+    (_root_.LIDT.MIPStarRE.LDT.Pasting.ldSandwichLineOnePointAdjointRawLeftFamily params family hi)
+    (_root_.LIDT.MIPStarRE.LDT.Pasting.ldSandwichLineOnePointAdjointRawRightFamily params family hi)
+    (_root_.LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwichError params gamma zeta (i + 1))
+    (by
+      intro q gs
+      have hprefix :
+          ((_root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixFstEquiv params hi q).1) =
+            (fun j : Fin (i + 1) => q.2 ⟨j.1, by omega⟩) := by
+        funext j
+        simp [_root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixFstEquiv,
+          _root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixEquiv, _root_.LIDT.MIPStarRE.LDT.Pasting.prodPrefixReassocEquiv]
+      simp [A, _root_.LIDT.MIPStarRE.LDT.Pasting.ldSandwichLineOnePointAdjointRawLeftFamily,
+        hprefix])
+    (by
+      intro q gs
+      have hprefix :
+          ((_root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixFstEquiv params hi q).1) =
+            (fun j : Fin (i + 1) => q.2 ⟨j.1, by omega⟩) := by
+        funext j
+        simp [_root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixFstEquiv,
+          _root_.LIDT.MIPStarRE.LDT.Pasting.sandwichedLineQuestionPrefixEquiv, _root_.LIDT.MIPStarRE.LDT.Pasting.prodPrefixReassocEquiv]
+      simp [B, _root_.LIDT.MIPStarRE.LDT.Pasting.ldSandwichLineOnePointAdjointRawRightFamily,
+        hprefix])
+    hout

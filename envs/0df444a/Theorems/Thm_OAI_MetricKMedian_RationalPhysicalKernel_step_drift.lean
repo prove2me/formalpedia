@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_RationalPhysicalKernel_step_drift
 -- name    : OAI.MetricKMedian.RationalPhysicalKernel.step_drift
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:36:43.474628+00:00
 -- url     : https://prove2.me/theorems/e1a4155f-e616-4dc9-8c06-340acdfd50a1

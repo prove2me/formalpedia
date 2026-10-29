@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_has_dense_supergraph
 -- name    : WilliamsonShmoys.drawable_graph_has_dense_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T10:53:17.090996+00:00
 -- url     : https://prove2.me/theorems/4abbea4b-d91a-40b0-b03f-739e009c940e

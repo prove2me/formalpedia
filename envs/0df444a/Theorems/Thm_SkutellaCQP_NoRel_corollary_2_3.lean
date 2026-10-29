@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkutellaCQP_NoRel_corollary_2_3
 -- name    : SkutellaCQP.NoRel.corollary_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:06:16.463981+00:00
 -- url     : https://prove2.me/theorems/1bb75f13-1355-4c73-9051-be23f0b8afe5

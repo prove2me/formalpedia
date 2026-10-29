@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_supergraph_edge_bound
 -- name    : WilliamsonShmoys.exists_planar_supergraph_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:28:05.681655+00:00
 -- url     : https://prove2.me/theorems/f03d561d-1e05-48e4-985a-a56c82cc8fdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_RationalPhysicalKernel_histories_completion
 -- name    : OAI.MetricKMedian.RationalPhysicalKernel.histories_completion
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:35:01.00348+00:00
 -- url     : https://prove2.me/theorems/56d9e3d7-874a-4718-a356-d399e6201bcd

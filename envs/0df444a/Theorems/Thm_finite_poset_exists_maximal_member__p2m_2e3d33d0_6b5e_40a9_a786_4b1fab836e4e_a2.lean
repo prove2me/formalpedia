@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_poset_exists_maximal_member__p2m_2e3d33d0_6b5e_40a9_a786_4b1fab836e4e_a2
 -- name    : finite_poset_exists_maximal_member__p2m_2e3d33d0_6b5e_40a9_a786_4b1fab836e4e_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:13:01.268248+00:00
 -- url     : https://prove2.me/theorems/3ad80762-4eb7-4a83-8cfc-9cfdebf55813

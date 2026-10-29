@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierStrategy_zero_boundary_value_identity
 -- name    : AvramDividend.Classical.barrierStrategy_zero_boundary_value_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:31:01.566016+00:00
 -- url     : https://prove2.me/theorems/c2921c8c-bf0f-407f-9d75-c154bb4ce6ea

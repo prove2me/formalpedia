@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_triangulated_completion_for_edge_count
 -- name    : WilliamsonShmoys.planar_graph_has_triangulated_completion_for_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:47:53.607536+00:00
 -- url     : https://prove2.me/theorems/19818e22-2386-49d7-851c-0c578cd76de2

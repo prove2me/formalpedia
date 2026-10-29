@@ -54989,7 +54989,7 @@
 {"parent": "MIPStarRE.LDT.SelfImprovement.addInU_selected_cs_chain_step2_abs_le_sqrt_two_delta", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Residual", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.SelfImprovement.addInU_selected_cs_chain_step2_abs_le_sqrt_two_delta", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MultitierCSR.Strategy.domination", "child": "MultitierCSR_Strategy_Model", "via": ["solution", "statement"]}
-{"parent": "FairProxy.ClosedFormDD.eq_13_bounds", "child": "FairProxy_ClosedFormDD_Model", "via": ["statement"]}
+{"parent": "FairProxy.ClosedFormDD.eq_13_bounds", "child": "FairProxy_ClosedFormDD_Model", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff21.envelope_linear21", "child": "HlawkaSchatten_DiagonalConstruction_ScalarBounds", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem313.graphVariance_bound_of_spectral_inputs", "child": "OAI_Combinatorics_SharpThreshold_Probability", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem313.graphVariance_bound_of_spectral_inputs", "child": "OAI_Combinatorics_SharpThreshold_FourierBasis", "via": ["solution", "statement"]}

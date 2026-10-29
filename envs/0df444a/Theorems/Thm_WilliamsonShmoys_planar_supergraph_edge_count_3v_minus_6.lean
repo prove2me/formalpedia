@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_edge_count_3v_minus_6
 -- name    : WilliamsonShmoys.planar_supergraph_edge_count_3v_minus_6
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T02:25:33.266456+00:00
 -- url     : https://prove2.me/theorems/2c7940e6-a778-4532-b0e6-040ffde52bce

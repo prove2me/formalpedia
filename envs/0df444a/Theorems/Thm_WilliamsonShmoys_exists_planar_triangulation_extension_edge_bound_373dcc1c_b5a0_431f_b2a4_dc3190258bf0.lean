@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_triangulation_extension_edge_bound_373dcc1c_b5a0_431f_b2a4_dc3190258bf0
 -- name    : WilliamsonShmoys.exists_planar_triangulation_extension_edge_bound_373dcc1c_b5a0_431f_b2a4_dc3190258bf0
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:49:15.248874+00:00
 -- url     : https://prove2.me/theorems/f39f88bf-8625-48f9-b44c-01764ef15f8d

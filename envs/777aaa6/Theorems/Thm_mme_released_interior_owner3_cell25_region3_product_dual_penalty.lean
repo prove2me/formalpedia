@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mme_released_interior_owner3_cell25_region3_product_dual_penalty
 -- name    : mme_released_interior_owner3_cell25_region3_product_dual_penalty
--- status  : Open
+-- status  : Proved
 -- author  : @Robertboy18
 -- created : 2026-09-23T16:27:09.024575+00:00
 -- url     : https://prove2.me/theorems/cb85c0ab-46d0-4a38-82ae-f32f6ed57337

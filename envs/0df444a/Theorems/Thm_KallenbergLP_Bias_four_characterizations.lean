@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallenbergLP_Bias_four_characterizations
 -- name    : KallenbergLP.Bias.four_characterizations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:18:04.452991+00:00
 -- url     : https://prove2.me/theorems/68b3cebf-bce3-43ad-b5e0-90cf6a582211

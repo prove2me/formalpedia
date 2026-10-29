@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncPrefix_Huffman_wielandtAB_encode_polyTime
 -- name    : SyncPrefix.Huffman.wielandtAB_encode_polyTime
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:25:08.124239+00:00
 -- url     : https://prove2.me/theorems/9a368d7f-c9f0-495c-9116-e1e70cc81621

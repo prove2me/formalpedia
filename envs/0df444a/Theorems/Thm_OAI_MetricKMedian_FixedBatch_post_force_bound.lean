@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_FixedBatch_post_force_bound
 -- name    : OAI.MetricKMedian.FixedBatch.post_force_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:23:31.719986+00:00
 -- url     : https://prove2.me/theorems/fc08203b-cd97-4aae-ae70-9d1cdd03c61a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastComp_IELF_theorem_6
 -- name    : ForecastComp.IELF.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:32.979807+00:00
 -- url     : https://prove2.me/theorems/c833e234-4a01-41a0-912f-0e6dc8d1873c

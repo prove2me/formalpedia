@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_inner_le_supportValue
 -- name    : MovingSofa.inner_le_supportValue
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-04T23:41:34.420364+00:00
 -- url     : https://prove2.me/theorems/d45008a1-081e-4539-84f9-afa2070ece04

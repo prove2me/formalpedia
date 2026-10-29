@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_tilted_positive_monotone
 -- name    : AvramDividend.Classical.unbounded_tilted_positive_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T02:25:06.139078+00:00
 -- url     : https://prove2.me/theorems/4349fd54-dc08-4f40-a0d5-f301b2659a04

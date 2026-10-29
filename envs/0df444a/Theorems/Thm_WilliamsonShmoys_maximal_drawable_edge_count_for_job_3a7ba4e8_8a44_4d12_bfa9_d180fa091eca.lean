@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_count_for_job_3a7ba4e8_8a44_4d12_bfa9_d180fa091eca
 -- name    : WilliamsonShmoys.maximal_drawable_edge_count_for_job_3a7ba4e8_8a44_4d12_bfa9_d180fa091eca
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T10:04:51.301614+00:00
 -- url     : https://prove2.me/theorems/8a971d4a-2c9c-4fb3-9b34-1e8f0b46a217

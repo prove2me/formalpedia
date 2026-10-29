@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_graph_edge_lower_bound
 -- name    : WilliamsonShmoys.exists_planar_graph_edge_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T11:29:41.338787+00:00
 -- url     : https://prove2.me/theorems/b930043c-4820-417e-800b-91790181e1e6

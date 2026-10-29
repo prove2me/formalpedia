@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.ae_rogozin_negative_slopes_of_unbounded_variation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T07:25:21.178309+00:00
 -- url     : https://prove2.me/submissions/1fe03f97-836b-4563-83e0-970aa8224e97
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

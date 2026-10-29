@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.barrier_zero_boundary_value
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T23:35:44.346984+00:00
 -- url     : https://prove2.me/submissions/730ab5d1-72da-4806-83bc-ca6032d9bdd3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_barrierStrategy_zero_boundary_value_identity
 import Mathlib.Data.ENNReal.Basic

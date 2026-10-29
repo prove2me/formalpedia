@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAssignment_Svensson_makespan_le_of_clp_feasible_one
 -- name    : RestrictedAssignment.Svensson.makespan_le_of_clp_feasible_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:30:51.895032+00:00
 -- url     : https://prove2.me/theorems/2eb79309-bd0c-4554-9ef9-3228dd9306a7

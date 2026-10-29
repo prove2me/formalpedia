@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MovingSofa.IsMovingSofa.isPaperMotion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Tamas Fulop
 -- created : 2026-10-04T22:03:21.218246+00:00
 -- url     : https://prove2.me/submissions/7b58e0c7-7e23-4fd9-b8cd-31343097889d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.InnerProductSpace.PiL2
 import Mathlib.Geometry.Euclidean.Angle.Oriented.Rotation

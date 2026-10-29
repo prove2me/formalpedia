@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MetricKMedian.FixedBatch.RationalParameters.roundCounts_spec
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:47:25.541997+00:00
 -- url     : https://prove2.me/submissions/ed02de4f-0150-46e9-9603-00377349be49
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ035K012

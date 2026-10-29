@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ws01e_b_actual_Qp_runningSup_terminalDrawdown_indepFun
 -- name    : AvramDividend.Classical.avram_ws01e_b_actual_Qp_runningSup_terminalDrawdown_indepFun
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T20:16:29.440672+00:00
 -- url     : https://prove2.me/theorems/421ab102-88ae-410a-894e-357198318f45

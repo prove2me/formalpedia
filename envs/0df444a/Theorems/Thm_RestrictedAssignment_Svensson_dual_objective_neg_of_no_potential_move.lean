@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAssignment_Svensson_dual_objective_neg_of_no_potential_move
 -- name    : RestrictedAssignment.Svensson.dual_objective_neg_of_no_potential_move
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:29:07.573055+00:00
 -- url     : https://prove2.me/theorems/04d9e45e-66aa-46e9-8068-804366b6f99a

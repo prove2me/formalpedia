@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_exposedEdge_eq_segment_edgeVertices
 -- name    : MovingSofa.exposedEdge_eq_segment_edgeVertices
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-05T00:11:48.693001+00:00
 -- url     : https://prove2.me/theorems/714aaff4-4930-41cd-b91c-6aa8e3adfec9

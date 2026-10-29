@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Laughlin.Fock.physical_fourBody_total_haar_transfer
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-28T11:34:06.489618+00:00
 -- url     : https://prove2.me/submissions/b578635f-9534-410a-b58c-e1f1cb655873
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Laughlin

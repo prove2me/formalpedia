@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_reducedDensity_prob
 -- name    : QAlgorithms.Nannicini.reducedDensity_prob
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:07.347888+00:00
 -- url     : https://prove2.me/theorems/b34f6f94-7221-4c5b-8849-751984af73ac

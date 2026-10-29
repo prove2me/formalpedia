@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_tilted_cumulative_laplace_representation_of_infinite_small_jump
 -- name    : AvramDividend.Classical.unbounded_tilted_cumulative_laplace_representation_of_infinite_small_jump
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T15:15:18.641004+00:00
 -- url     : https://prove2.me/theorems/eec8f705-e437-45bb-af25-990c448c46f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_exists_motion_rotation
 -- name    : MovingSofa.exists_motion_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-03T16:56:10.879882+00:00
 -- url     : https://prove2.me/theorems/c10b1159-4688-4c0c-a789-8772c210db81

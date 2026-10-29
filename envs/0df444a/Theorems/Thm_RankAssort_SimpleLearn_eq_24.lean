@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankAssort_SimpleLearn_eq_24
 -- name    : RankAssort.SimpleLearn.eq_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:57:31.574259+00:00
 -- url     : https://prove2.me/theorems/896edfba-a684-4e55-a2d1-13d175c11969

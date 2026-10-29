@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_esscher_ratio_bound
 -- name    : AvramDividend.Classical.unbounded_esscher_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T20:33:15.753636+00:00
 -- url     : https://prove2.me/theorems/8ec2b84f-4b1d-423d-b296-a3f3ee5a357c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_exact_edge_count_supergraph
 -- name    : WilliamsonShmoys.planar_graph_has_exact_edge_count_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T15:46:34.627168+00:00
 -- url     : https://prove2.me/theorems/f2fc27dd-11bb-43a6-bfde-da936b7428a1

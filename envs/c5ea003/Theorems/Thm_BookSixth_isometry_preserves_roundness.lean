@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookSixth_isometry_preserves_roundness
 -- name    : BookSixth.isometry_preserves_roundness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-25T17:57:38.953074+00:00
 -- url     : https://prove2.me/theorems/308bb418-1d47-40a8-99c8-f9203e582869

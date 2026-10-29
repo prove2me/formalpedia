@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_FixedBatch_RationalParameters_completed_expectation
 -- name    : OAI.MetricKMedian.FixedBatch.RationalParameters.completed_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:34:16.468143+00:00
 -- url     : https://prove2.me/theorems/5d110e81-993a-40d1-a788-c95e7d0482f2

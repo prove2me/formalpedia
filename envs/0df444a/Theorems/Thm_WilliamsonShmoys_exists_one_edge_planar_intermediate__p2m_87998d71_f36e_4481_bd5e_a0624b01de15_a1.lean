@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_one_edge_planar_intermediate__p2m_87998d71_f36e_4481_bd5e_a0624b01de15_a1
 -- name    : WilliamsonShmoys.exists_one_edge_planar_intermediate__p2m_87998d71_f36e_4481_bd5e_a0624b01de15_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:25:36.869987+00:00
 -- url     : https://prove2.me/theorems/bc1101b7-4ecc-4921-bd00-cf3198687379

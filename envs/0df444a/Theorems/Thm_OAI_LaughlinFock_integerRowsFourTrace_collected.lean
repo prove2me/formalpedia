@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LaughlinFock_integerRowsFourTrace_collected
 -- name    : OAI.LaughlinFock.integerRowsFourTrace_collected
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T18:23:27.62118+00:00
 -- url     : https://prove2.me/theorems/dac3bdac-93b6-47de-b192-013e821f236b

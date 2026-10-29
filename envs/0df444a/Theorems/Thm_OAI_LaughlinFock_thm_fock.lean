@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LaughlinFock_thm_fock
 -- name    : OAI.LaughlinFock.thm_fock
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:52.033103+00:00
 -- url     : https://prove2.me/theorems/4a955857-c579-494a-a2f9-03e39a06c17b

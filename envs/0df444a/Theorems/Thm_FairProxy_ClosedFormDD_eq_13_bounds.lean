@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairProxy_ClosedFormDD_eq_13_bounds
 -- name    : FairProxy.ClosedFormDD.eq_13_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:01.152182+00:00
 -- url     : https://prove2.me/theorems/acd8851f-0631-41f1-bc21-77a0d2a3fc9d

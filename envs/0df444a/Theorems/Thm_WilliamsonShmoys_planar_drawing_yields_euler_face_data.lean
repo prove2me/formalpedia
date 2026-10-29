@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_yields_euler_face_data
 -- name    : WilliamsonShmoys.planar_drawing_yields_euler_face_data
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:03:38.718866+00:00
 -- url     : https://prove2.me/theorems/3dc70f40-f8da-4d4c-98d1-32c92197df22

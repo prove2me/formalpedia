@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_face_count_inequality_of_drawing
 -- name    : WilliamsonShmoys.planar_face_count_inequality_of_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:24:24.041993+00:00
 -- url     : https://prove2.me/theorems/7379e96c-5645-4e15-b04d-78d4884cf4e2

@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.zero_cap_boundary_value_package
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T06:19:23.938335+00:00
 -- url     : https://prove2.me/submissions/9611ea1d-8cbd-4baa-88df-97d02984b2df
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

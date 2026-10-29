@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_edgeVertices_snd_mem
 -- name    : MovingSofa.edgeVertices_snd_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-05T00:11:45.337986+00:00
 -- url     : https://prove2.me/theorems/aebe042f-30a4-45f5-b6dd-05847d368501

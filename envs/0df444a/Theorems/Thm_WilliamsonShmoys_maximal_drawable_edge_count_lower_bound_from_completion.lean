@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_count_lower_bound_from_completion
 -- name    : WilliamsonShmoys.maximal_drawable_edge_count_lower_bound_from_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:21:01.945416+00:00
 -- url     : https://prove2.me/theorems/53481078-b292-486a-a92c-be0849ecaf94

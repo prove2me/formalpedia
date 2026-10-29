@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_shock_compression_or_rarefaction
 -- name    : AstrophysicalFluidDynamics.shock_compression_or_rarefaction
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-04T18:07:10.527775+00:00
 -- url     : https://prove2.me/theorems/ae7ab585-182e-4b1c-8cde-ccb743e03e2a

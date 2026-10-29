@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_WSR_K_martingale
 -- name    : RiskControl.WSR.K_martingale
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:35:52.634747+00:00
 -- url     : https://prove2.me/theorems/e757d735-3abe-45e6-b88b-72a961c0c3ef

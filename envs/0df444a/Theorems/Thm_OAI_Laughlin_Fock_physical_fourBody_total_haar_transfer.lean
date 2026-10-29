@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_fourBody_total_haar_transfer
 -- name    : OAI.Laughlin.Fock.physical_fourBody_total_haar_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T08:30:47.881632+00:00
 -- url     : https://prove2.me/theorems/759fc8d0-ca23-462c-a804-e601d2af069e

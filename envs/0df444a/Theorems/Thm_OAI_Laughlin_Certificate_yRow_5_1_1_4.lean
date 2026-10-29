@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Certificate_yRow_5_1_1_4
 -- name    : OAI.Laughlin.Certificate.yRow_5_1_1_4
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T19:42:12.0826+00:00
 -- url     : https://prove2.me/theorems/8c6a041d-bcff-4c38-9b62-4713bdfe4d79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_global_smooth_of_positive_cstar
 -- name    : AvramDividend.Classical.vcstar_global_smooth_of_positive_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T23:14:22.740847+00:00
 -- url     : https://prove2.me/theorems/710416d9-ea5e-4de0-8e06-e250674de443

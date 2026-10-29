@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_tilted_positive_monotone_of_unbounded
 -- name    : AvramDividend.Classical.scaleFunction_tilted_positive_monotone_of_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-03T20:31:31.533779+00:00
 -- url     : https://prove2.me/theorems/85a4bf8b-5b82-4479-8c27-057fce34bffa

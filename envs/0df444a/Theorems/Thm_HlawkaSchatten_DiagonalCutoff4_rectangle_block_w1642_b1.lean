@@ -1,0 +1,22 @@
+-- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_rectangle_block_w1642_b1
+-- name    : HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1642_b1
+-- status  : Proved
+-- author  : @shivm
+-- created : 2026-10-29T00:19:15.380077+00:00
+-- url     : https://prove2.me/theorems/c80cfc8b-85de-46e7-9220-21447cc131c2
+-- title:
+--   Hlawka rectangular localization block 2 on [4883/1024,4887/1024]
+-- statement:
+--   Under the normalized frame, sign and initial pair-tail bounds displayed formally, the displayed refined tail bounds or coordinate box hold throughout the stated exponent interval.
+-- source:
+--   Sharp diagonal Hlawka campaign: https://prove2.me/campaigns/sharp-diagonal-hlawka-constant . Analytic strengthening of the proved cutoff-six method. Generic norm facts retain Apache-2.0 attribution to Ezzeri Esa, bwdaugherty and Yuxuan Xu.
+
+import Definitions.Def_HlawkaSchatten_DiagonalCutoff6_Localization
+open HlawkaSchatten.DiagonalConstruction HlawkaSchatten.DiagonalCutoff6
+
+theorem HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1642_b1 (p A d : ℝ) (hA : A ≤ 3) (hpa : (4883/1024 : ℝ) ≤ p) (hpb : p ≤ (4887/1024 : ℝ))
+    (X : Fin 3 → Fin 3 → ℝ) (hX : Frame p (178059701/100000000 : ℝ) A d X)
+    (hsign : ∀ i h, i ≠ h → 0 ≤ pair X i h)
+    (hratio : ∀ i h, i ≠ h → |pair X i h| ≤ (4093/25000 : ℝ)*pair X i i)
+    (hlower : ∀ i h, i ≠ h → (2637/25000 : ℝ)*pair X i i ≤ pair X i h) :
+    ∀ j i, if j=i then -(13007/20000 : ℝ) ≤ X j i ∧ X j i ≤ -(2927/5000 : ℝ) else (1621/2000 : ℝ) ≤ X j i ∧ X j i ≤ (17629/20000 : ℝ) := by sorry

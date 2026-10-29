@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_SingularGap_lemma_3
 -- name    : QuantumWalkSearch.SingularGap.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:43:26.313425+00:00
 -- url     : https://prove2.me/theorems/3ad73b40-4a26-4d14-8814-36df2f4004a5

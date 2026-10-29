@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithRegenerative_Equilibrium_theorem_2
 -- name    : SmithRegenerative.Equilibrium.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:35:39.640637+00:00
 -- url     : https://prove2.me/theorems/4053a34d-f16b-45ca-a51f-497b19e510c6

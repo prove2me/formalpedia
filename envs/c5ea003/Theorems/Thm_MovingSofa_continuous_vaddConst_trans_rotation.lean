@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_continuous_vaddConst_trans_rotation
 -- name    : MovingSofa.continuous_vaddConst_trans_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-03T16:56:33.055213+00:00
 -- url     : https://prove2.me/theorems/eaa6f682-8996-4055-b106-8264e5c81486

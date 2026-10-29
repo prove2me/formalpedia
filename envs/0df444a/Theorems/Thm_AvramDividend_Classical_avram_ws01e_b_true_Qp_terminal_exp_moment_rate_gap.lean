@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ws01e_b_true_Qp_terminal_exp_moment_rate_gap
 -- name    : AvramDividend.Classical.avram_ws01e_b_true_Qp_terminal_exp_moment_rate_gap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T20:14:54.812251+00:00
 -- url     : https://prove2.me/theorems/8b26b52f-49ed-43dc-b2ab-0f9b325f38a3

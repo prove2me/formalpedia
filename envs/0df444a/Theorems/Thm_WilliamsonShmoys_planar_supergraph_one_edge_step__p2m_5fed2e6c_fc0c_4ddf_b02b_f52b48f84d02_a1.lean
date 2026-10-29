@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_one_edge_step__p2m_5fed2e6c_fc0c_4ddf_b02b_f52b48f84d02_a1
 -- name    : WilliamsonShmoys.planar_supergraph_one_edge_step__p2m_5fed2e6c_fc0c_4ddf_b02b_f52b48f84d02_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:17:18.775823+00:00
 -- url     : https://prove2.me/theorems/f3c47a63-e0db-468e-855d-93d2c2950018

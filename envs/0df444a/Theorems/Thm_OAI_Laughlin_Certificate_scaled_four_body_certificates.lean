@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Certificate_scaled_four_body_certificates
 -- name    : OAI.Laughlin.Certificate.scaled_four_body_certificates
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T06:50:58.836532+00:00
 -- url     : https://prove2.me/theorems/a9f8fa5d-92c5-430b-8ca5-8b96af0f140f

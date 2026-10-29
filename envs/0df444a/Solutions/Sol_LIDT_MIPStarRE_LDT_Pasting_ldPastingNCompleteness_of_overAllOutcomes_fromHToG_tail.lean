@@ -1,0 +1,353 @@
+-- Prove2me | solution 1 for LIDT.MIPStarRE.LDT.Pasting.ldPastingNCompleteness_of_overAllOutcomes_fromHToG_tail
+-- status  : ACCEPTED   (prove)
+-- author  : @Dengnifer
+-- created : 2026-10-27T15:23:02.298079+00:00
+-- url     : https://prove2.me/submissions/17794213-264c-4d6f-b766-cc8d0731aa8d
+
+-- Generated proof for MIPStarRE.LDT.Pasting.ldPastingNCompleteness_of_overAllOutcomes_fromHToG_tail.
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionAvg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionUniformSums
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LinePolynomialEmbedding
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_MeasurementLift
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFUniformAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_TensorPlacement
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_Approximation
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_SharedHelpers_SharedLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Normalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Stability
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceBounds_PhaseOneThree
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_First
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_RawSecond
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_HEvalTransport
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_ScalarMarginalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Products
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_PaperChainPhaseFive
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_MainChain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_PhaseTwo
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Averages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Y
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Normalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Transport_Pullback
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_MainInductionStep_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_FinalMove
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_HalfSandwich
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_StageA0M1
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_BernoulliTail
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_FactBundles
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_MoveLemmas_Basic
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_PaperBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Scalar
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_BackChain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Base
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Chain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_FlatChain
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Lifting
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_CSSetup
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_Endpoint
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_EndpointEquivs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_PrefixMoved
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadMass
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_NonglobalDecomposition
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Core_LdGbcon
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Families
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Defs_Tuples
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Sandwich_GHatSandwich
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Sandwich_PastedFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Sandwich_Switcheroo
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_Statements
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_ScalarTerms
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_Split
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Centers
+import Definitions.Def_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Terms
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Completion
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Local
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_CauchySchwarz
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_CompletionTransfer
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_DistanceBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_PolynomialAgreement
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Polynomials
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SelfConsistency_Extensions
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichMain_Completeness
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_ApproxDelta
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Triangles_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Tactic_QuantumNonneg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyFailures
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyRole_Core
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_LIDT_MIPStarRE_Quantum_Measurement
+import Mathlib
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Order
+import Mathlib.Analysis.Matrix.HermitianFunctionalCalculus
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Data.Nat.Choose.Sum
+import Mathlib.Probability.Distributions.Binomial
+import Mathlib.Probability.Moments.SubGaussian
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+import Mathlib.RingTheory.MvPolynomial.Basic
+
+namespace LIDT.MIPStarRE.LDT
+end LIDT.MIPStarRE.LDT
+namespace LIDT.MIPStarRE.LDT.Commutativity
+end LIDT.MIPStarRE.LDT.Commutativity
+namespace LIDT.MIPStarRE.LDT.Commutativity.GCommStability.Scalar
+end LIDT.MIPStarRE.LDT.Commutativity.GCommStability.Scalar
+namespace LIDT.MIPStarRE.LDT.CommutativityPoints
+end LIDT.MIPStarRE.LDT.CommutativityPoints
+namespace LIDT.MIPStarRE.LDT.Pasting
+end LIDT.MIPStarRE.LDT.Pasting
+namespace LIDT.MIPStarRE.LDT.Preliminaries
+end LIDT.MIPStarRE.LDT.Preliminaries
+
+namespace LIDT
+
+/- Source helpers from MIPStarRE/LDT/Pasting/Bernoulli/Final.lean. -/
+/-!
+# Section 12 pasting: final pasting theorems
+
+Final completeness and pasting theorems.
+-/
+
+@[expose] public section
+
+namespace MIPStarRE.LDT.Pasting
+
+open MIPStarRE.LDT
+open MIPStarRE.LDT.ExpansionHypercubeGraph
+open MIPStarRE.LDT.CommutativityPoints
+open scoped BigOperators MatrixOrder _root_.Matrix ComplexOrder
+
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+
+/-- Arithmetic helper for `cor:ld-pasting-N-completeness`: absorb the
+`overAllOutcomes` and `fromHToG` scalar losses into
+`ldPastingInInductionNu`.
+
+The proof uses that the corrected `fromHToGError` tail sum is a sub-sum of the
+full `overAllOutcomesError` sum and the slack `46 + 46 ≤ 100`. -/
+private lemma overAllOutcomesError_add_fromHToGError_le_ldPastingNu
+    (params : Parameters)
+    [FieldModel params.q]
+    (eps delta gamma zeta : Error) (k : ℕ)
+    (hk_pos : 1 ≤ k)
+    (heps_nonneg : 0 ≤ eps)
+    (hdelta_nonneg : 0 ≤ delta)
+    (hgamma_nonneg : 0 ≤ gamma)
+    (hzeta_nonneg : 0 ≤ zeta) :
+    overAllOutcomesError params eps delta gamma zeta k +
+        fromHToGError params gamma zeta k ≤
+      MainInductionStep.ldPastingInInductionNu params k eps delta gamma zeta := by
+  let kE : Error := (k : Error)
+  let mE : Error := (params.m : Error)
+  let ratio : Error := (params.d : Error) / (params.q : Error)
+  let epsTerm : Error := Real.rpow eps (1 / (32 : Error))
+  let deltaTerm : Error := Real.rpow delta (1 / (32 : Error))
+  let gammaTerm : Error := Real.rpow gamma (1 / (32 : Error))
+  let zetaTerm : Error := Real.rpow zeta (1 / (32 : Error))
+  let dqTerm : Error := Real.rpow ratio (1 / (32 : Error))
+  let fullSum : Error := epsTerm + deltaTerm + gammaTerm + zetaTerm + dqTerm
+  let tailSum : Error := gammaTerm + zetaTerm + dqTerm
+  have hkE_one : (1 : Error) ≤ kE := by
+    dsimp [kE]
+    exact_mod_cast hk_pos
+  have hkE_nonneg : 0 ≤ kE := by positivity
+  have hmE_nonneg : 0 ≤ mE := by positivity
+  have hratio_nonneg : 0 ≤ ratio := by
+    dsimp [ratio]
+    positivity
+  have hepsTerm_nonneg : 0 ≤ epsTerm := by
+    dsimp [epsTerm]
+    exact Real.rpow_nonneg heps_nonneg _
+  have hdeltaTerm_nonneg : 0 ≤ deltaTerm := by
+    dsimp [deltaTerm]
+    exact Real.rpow_nonneg hdelta_nonneg _
+  have hgammaTerm_nonneg : 0 ≤ gammaTerm := by
+    dsimp [gammaTerm]
+    exact Real.rpow_nonneg hgamma_nonneg _
+  have hzetaTerm_nonneg : 0 ≤ zetaTerm := by
+    dsimp [zetaTerm]
+    exact Real.rpow_nonneg hzeta_nonneg _
+  have hdqTerm_nonneg : 0 ≤ dqTerm := by
+    dsimp [dqTerm]
+    exact Real.rpow_nonneg hratio_nonneg _
+  have htail_le_full : tailSum ≤ fullSum := by
+    dsimp [tailSum, fullSum]
+    linarith
+  have hfull_nonneg : 0 ≤ fullSum := by
+    dsimp [fullSum]
+    linarith
+  calc
+    overAllOutcomesError params eps delta gamma zeta k +
+        fromHToGError params gamma zeta k
+      = 46 * (kE ^ (2 : ℕ)) * mE * fullSum +
+          46 * (kE ^ (2 : ℕ)) * mE * tailSum := by
+          simp [overAllOutcomesError, fromHToGError, kE, mE, fullSum, tailSum,
+            epsTerm, deltaTerm, gammaTerm, zetaTerm, dqTerm, ratio]
+    _ ≤ 46 * (kE ^ (2 : ℕ)) * mE * fullSum +
+          46 * (kE ^ (2 : ℕ)) * mE * fullSum := by
+          gcongr
+    _ ≤ 100 * (kE ^ (2 : ℕ)) * mE * fullSum := by
+          have hterm_nonneg : 0 ≤ (kE ^ (2 : ℕ)) * mE * fullSum := by
+            positivity
+          nlinarith
+    _ = MainInductionStep.ldPastingInInductionNu params k eps delta gamma zeta := by
+          simp [MainInductionStep.ldPastingInInductionNu, kE, mE, fullSum,
+            epsTerm, deltaTerm, gammaTerm, zetaTerm, dqTerm, ratio]
+
+
+
+
+
+
+
+
+
+
+
+-- The downstream completeness theorem elaborates the full `fromHToG` reduction facts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end MIPStarRE.LDT.Pasting
+
+end
+
+end LIDT
+
+open LIDT
+/-!
+# Section 12 pasting: final pasting theorems
+
+Final completeness and pasting theorems.
+-/
+
+@[expose] public section
+
+open LIDT.MIPStarRE.LDT.Pasting
+
+open MIPStarRE.LDT
+open MIPStarRE.LDT.ExpansionHypercubeGraph
+open MIPStarRE.LDT.CommutativityPoints
+open scoped BigOperators MatrixOrder _root_.Matrix ComplexOrder
+
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+
+theorem solution
+    (params : _root_.LIDT.MIPStarRE.LDT.Parameters)
+    [_root_.LIDT.MIPStarRE.LDT.FieldModel params.q]
+    (strategy : _root_.LIDT.MIPStarRE.LDT.SymStrat params.next ι)
+    (eps delta gamma kappa zeta : _root_.LIDT.MIPStarRE.LDT.Error)
+    (heps_nonneg : 0 ≤ eps)
+    (hdelta_nonneg : 0 ≤ delta)
+    (hgamma_nonneg : 0 ≤ gamma)
+    (hzeta_nonneg : 0 ≤ zeta)
+    (family : _root_.LIDT.MIPStarRE.LDT.IdxPolyFamily params ι)
+    (k : ℕ)
+    (hk_pos : 1 ≤ k)
+    (hOAO : _root_.LIDT.MIPStarRE.LDT.Pasting.OverAllOutcomesStatement params strategy family eps delta gamma zeta k)
+    (hFrom : _root_.LIDT.MIPStarRE.LDT.Pasting.FromHToGStatement params strategy strategy.state family gamma zeta k)
+    (htail :
+      1 - kappa * (1 + 1 / (100 * (params.m : _root_.LIDT.MIPStarRE.LDT.Error))) -
+          Real.exp (-((k : _root_.LIDT.MIPStarRE.LDT.Error) / (80000 * ((params.m : _root_.LIDT.MIPStarRE.LDT.Error) ^ (2 : ℕ))))) ≤
+        _root_.LIDT.MIPStarRE.LDT.Pasting.fromHToGBernoulliTailMass params strategy.state family k) :
+    _root_.LIDT.MIPStarRE.LDT.Pasting.LdPastingNCompletenessStatement params strategy family kappa
+      (_root_.LIDT.MIPStarRE.LDT.MainInductionStep.ldPastingInInductionNu params k eps delta gamma zeta) k := by
+  let ν := _root_.LIDT.MIPStarRE.LDT.MainInductionStep.ldPastingInInductionNu params k eps delta gamma zeta
+  have happrox_le :
+      _root_.LIDT.MIPStarRE.LDT.Pasting.overAllOutcomesError params eps delta gamma zeta k +
+          _root_.LIDT.MIPStarRE.LDT.Pasting.fromHToGError params gamma zeta k ≤ ν := by
+    simpa [ν] using
+      overAllOutcomesError_add_fromHToGError_le_ldPastingNu params
+        eps delta gamma zeta k hk_pos
+        heps_nonneg hdelta_nonneg hgamma_nonneg hzeta_nonneg
+  constructor
+  constructor
+  have hOAO_mass :
+      _root_.LIDT.MIPStarRE.LDT.Pasting.overAllOutcomesPastedMass params strategy family k ≥
+        _root_.LIDT.MIPStarRE.LDT.Pasting.overAllOutcomesExpansionMass params strategy family k -
+          _root_.LIDT.MIPStarRE.LDT.Pasting.overAllOutcomesError params eps delta gamma zeta k := by
+    have habs := abs_le.mp hOAO.totalOutcomeExpansion
+    linarith
+  have hFrom_mass :
+      _root_.LIDT.MIPStarRE.LDT.Pasting.fromHToGAllOutcomesMass params strategy strategy.state family k ≥
+        _root_.LIDT.MIPStarRE.LDT.Pasting.fromHToGBernoulliTailMass params strategy.state family k -
+          _root_.LIDT.MIPStarRE.LDT.Pasting.fromHToGError params gamma zeta k := by
+    have habs := abs_le.mp hFrom.bernoulliPolynomialRewrite
+    linarith
+  have hmass :
+      _root_.LIDT.MIPStarRE.LDT.Pasting.overAllOutcomesPastedMass params strategy family k ≥
+        1 - kappa * (1 + 1 / (100 * (params.m : _root_.LIDT.MIPStarRE.LDT.Error))) - ν -
+          Real.exp (-((k : _root_.LIDT.MIPStarRE.LDT.Error) / (80000 * ((params.m : _root_.LIDT.MIPStarRE.LDT.Error) ^ (2 : ℕ))))) := by
+    have hOAO_mass' :
+        _root_.LIDT.MIPStarRE.LDT.Pasting.overAllOutcomesPastedMass params strategy family k ≥
+          _root_.LIDT.MIPStarRE.LDT.Pasting.fromHToGAllOutcomesMass params strategy strategy.state family k -
+            _root_.LIDT.MIPStarRE.LDT.Pasting.overAllOutcomesError params eps delta gamma zeta k := by
+      simpa [_root_.LIDT.MIPStarRE.LDT.Pasting.overAllOutcomesExpansionMass, _root_.LIDT.MIPStarRE.LDT.Pasting.fromHToGAllOutcomesMass] using hOAO_mass
+    linarith
+  simpa [ν, _root_.LIDT.MIPStarRE.LDT.Pasting.ldPastingCompletenessLowerBound, _root_.LIDT.MIPStarRE.LDT.Pasting.overAllOutcomesPastedMass] using hmass

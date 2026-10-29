@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_count_from_arc_drawing
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_count_from_arc_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:21:16.422142+00:00
 -- url     : https://prove2.me/theorems/faaef0db-f949-4633-b30b-82bc3430d246

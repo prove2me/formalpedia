@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_faces_are_triangles__p2m_68b7ee61_4139_4050_b42c_be1c462d54e2_a1
 -- name    : WilliamsonShmoys.maximal_planar_faces_are_triangles__p2m_68b7ee61_4139_4050_b42c_be1c462d54e2_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:43:11.808988+00:00
 -- url     : https://prove2.me/theorems/2b92d8e9-77cc-417a-8c50-09970fb055b4

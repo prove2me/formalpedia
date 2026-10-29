@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Traj_cor4_1_iii_maximal_extension
 -- name    : NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:37:20.318649+00:00
 -- url     : https://prove2.me/theorems/0373f612-f223-44e4-81bc-e3454f8b508c

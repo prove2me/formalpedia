@@ -9230,14 +9230,14 @@
 {"parent": "NegativeDP.OptEq.theorem71", "child": "DiscountedDP_Stationary_Operators", "via": ["statement"]}
 {"parent": "NegativeDP.OptEq.theorem71", "child": "DiscountedDP_Stationary_Return", "via": ["statement"]}
 {"parent": "NegativeDP.OptEq.theorem71", "child": "NegativeDP_OptEq_Model", "via": ["statement"]}
-{"parent": "NegativeDP.OptEq.theorem81", "child": "DiscountedDP_Stationary_Model", "via": ["statement"]}
-{"parent": "NegativeDP.OptEq.theorem81", "child": "DiscountedDP_Stationary_Operators", "via": ["statement"]}
-{"parent": "NegativeDP.OptEq.theorem81", "child": "DiscountedDP_Stationary_Return", "via": ["statement"]}
-{"parent": "NegativeDP.OptEq.theorem81", "child": "NegativeDP_OptEq_Model", "via": ["statement"]}
-{"parent": "NegativeDP.OptEq.theorem82", "child": "DiscountedDP_Stationary_Model", "via": ["statement"]}
-{"parent": "NegativeDP.OptEq.theorem82", "child": "DiscountedDP_Stationary_Operators", "via": ["statement"]}
-{"parent": "NegativeDP.OptEq.theorem82", "child": "DiscountedDP_Stationary_Return", "via": ["statement"]}
-{"parent": "NegativeDP.OptEq.theorem82", "child": "NegativeDP_OptEq_Model", "via": ["statement"]}
+{"parent": "NegativeDP.OptEq.theorem81", "child": "DiscountedDP_Stationary_Model", "via": ["solution", "statement"]}
+{"parent": "NegativeDP.OptEq.theorem81", "child": "DiscountedDP_Stationary_Operators", "via": ["solution", "statement"]}
+{"parent": "NegativeDP.OptEq.theorem81", "child": "DiscountedDP_Stationary_Return", "via": ["solution", "statement"]}
+{"parent": "NegativeDP.OptEq.theorem81", "child": "NegativeDP_OptEq_Model", "via": ["solution", "statement"]}
+{"parent": "NegativeDP.OptEq.theorem82", "child": "DiscountedDP_Stationary_Model", "via": ["solution", "statement"]}
+{"parent": "NegativeDP.OptEq.theorem82", "child": "DiscountedDP_Stationary_Operators", "via": ["solution", "statement"]}
+{"parent": "NegativeDP.OptEq.theorem82", "child": "DiscountedDP_Stationary_Return", "via": ["solution", "statement"]}
+{"parent": "NegativeDP.OptEq.theorem82", "child": "NegativeDP_OptEq_Model", "via": ["solution", "statement"]}
 {"parent": "NegativeDP.Stationary.lemma21", "child": "DiscountedDP_Stationary_Model", "via": ["statement"]}
 {"parent": "NegativeDP.Stationary.lemma21", "child": "DiscountedDP_Stationary_Return", "via": ["statement"]}
 {"parent": "NegativeDP.Stationary.lemma21", "child": "NegativeDP_Stationary_Model", "via": ["statement"]}
@@ -9268,9 +9268,9 @@
 {"parent": "NegativeDP.Stationary.theorem51d", "child": "DiscountedDP_Stationary_Model", "via": ["statement"]}
 {"parent": "NegativeDP.Stationary.theorem51d", "child": "DiscountedDP_Stationary_Return", "via": ["statement"]}
 {"parent": "NegativeDP.Stationary.theorem51d", "child": "NegativeDP_Stationary_Model", "via": ["statement"]}
-{"parent": "NegativeDP.Stationary.theorem51f", "child": "DiscountedDP_Stationary_Model", "via": ["statement"]}
-{"parent": "NegativeDP.Stationary.theorem51f", "child": "DiscountedDP_Stationary_Return", "via": ["statement"]}
-{"parent": "NegativeDP.Stationary.theorem51f", "child": "NegativeDP_Stationary_Model", "via": ["statement"]}
+{"parent": "NegativeDP.Stationary.theorem51f", "child": "DiscountedDP_Stationary_Model", "via": ["solution", "statement"]}
+{"parent": "NegativeDP.Stationary.theorem51f", "child": "DiscountedDP_Stationary_Return", "via": ["solution", "statement"]}
+{"parent": "NegativeDP.Stationary.theorem51f", "child": "NegativeDP_Stationary_Model", "via": ["solution", "statement"]}
 {"parent": "NegativeDP.Stationary.theorem51g", "child": "DiscountedDP_Stationary_Model", "via": ["statement"]}
 {"parent": "NegativeDP.Stationary.theorem51g", "child": "DiscountedDP_Stationary_Return", "via": ["statement"]}
 {"parent": "NegativeDP.Stationary.theorem51g", "child": "NegativeDP_Stationary_Model", "via": ["statement"]}
@@ -11483,16 +11483,16 @@
 {"parent": "NonsmoothLojasiewicz.Convex.theorem33_lojasiewicz_convex", "child": "NonsmoothLojasiewicz.Convex.ineq16_value_gap_le", "via": ["solution"]}
 {"parent": "NonsmoothLojasiewicz.Convex.theorem33_lojasiewicz_convex", "child": "NonsmoothLojasiewicz_Continuous_IsSubanalytic", "via": ["solution", "statement"]}
 {"parent": "NonsmoothLojasiewicz.Convex.theorem33_lojasiewicz_convex", "child": "NonsmoothLojasiewicz_Convex_crit", "via": ["solution", "statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule", "child": "MoreauProx_Characterization_GammaZero", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension", "child": "MoreauProx_Characterization_GammaZero", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule", "child": "MoreauProx_Characterization_GammaZero", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension", "child": "MoreauProx_Characterization_GammaZero", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.cor4_1_iii_maximal_extension", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["solution", "statement"]}
 {"parent": "NonsmoothLojasiewicz.Traj.cor4_2_slow_solution", "child": "MoreauProx_Characterization_GammaZero", "via": ["statement"]}
 {"parent": "NonsmoothLojasiewicz.Traj.cor4_2_slow_solution", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
 {"parent": "NonsmoothLojasiewicz.Traj.cor4_2_slow_solution", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["statement"]}
@@ -11510,24 +11510,24 @@
 {"parent": "NonsmoothLojasiewicz.Traj.ineq27_tail_length", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["statement"]}
 {"parent": "NonsmoothLojasiewicz.Traj.ineq27_tail_length", "child": "NonsmoothLojasiewicz_Traj_Subanalytic", "via": ["statement"]}
 {"parent": "NonsmoothLojasiewicz.Traj.ineq27_tail_length", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "MoreauProx_Characterization_GammaZero", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "NonsmoothLojasiewicz_Traj_Subanalytic", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "MoreauProx_Characterization_GammaZero", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "NonsmoothLojasiewicz_Traj_Subanalytic", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "MoreauProx_Characterization_GammaZero", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "NonsmoothLojasiewicz_Traj_Subanalytic", "via": ["statement"]}
-{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "MoreauProx_Characterization_GammaZero", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "NonsmoothLojasiewicz_Traj_Subanalytic", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.tail_length_bound", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "MoreauProx_Characterization_GammaZero", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "NonsmoothLojasiewicz_Traj_Subanalytic", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_5_finite_length", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "MoreauProx_Characterization_GammaZero", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "NonsmoothLojasiewicz_Traj_LowerC2", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "NonsmoothLojasiewicz_Traj_Slope", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "NonsmoothLojasiewicz_Traj_Subanalytic", "via": ["solution", "statement"]}
+{"parent": "NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates", "child": "NonsmoothLojasiewicz_Traj_Trajectory", "via": ["solution", "statement"]}
 {"parent": "NonsmoothLojasiewicz_Continuous_LojIneqAt", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
 {"parent": "NonsmoothLojasiewicz_Continuous_slope", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
 {"parent": "NonsmoothLojasiewicz_Convex_crit", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
@@ -18002,9 +18002,9 @@
 {"parent": "OAI.ComparatorModel.RecursivePotentials.main", "child": "RecursivePotentials", "via": ["solution", "statement"]}
 {"parent": "OAI.CompleteCrouzeix.main", "child": "CompleteCrouzeix", "via": ["solution", "statement"]}
 {"parent": "OAI.ComplexCancellation.main", "child": "ComplexCancellation", "via": ["solution", "statement"]}
-{"parent": "OAI.ContingencyTables.boundedSampling", "child": "ContingencyTables", "via": ["statement"]}
-{"parent": "OAI.ContingencyTables.counting", "child": "ContingencyTables", "via": ["statement"]}
-{"parent": "OAI.ContingencyTables.exactSampling", "child": "ContingencyTables", "via": ["statement"]}
+{"parent": "OAI.ContingencyTables.boundedSampling", "child": "ContingencyTables", "via": ["solution", "statement"]}
+{"parent": "OAI.ContingencyTables.counting", "child": "ContingencyTables", "via": ["solution", "statement"]}
+{"parent": "OAI.ContingencyTables.exactSampling", "child": "ContingencyTables", "via": ["solution", "statement"]}
 {"parent": "OAI.ContinuousCircleWeight.main_theorem", "child": "ContinuousCircleWeight", "via": ["solution", "statement"]}
 {"parent": "OAI.ContinuumCoulomb.binary_coulomb_qmaHard", "child": "ContinuumCoulombHardness", "via": ["statement"]}
 {"parent": "OAI.ContinuumCoulomb.unit_coulomb_qmaHard", "child": "ContinuumCoulombHardness", "via": ["statement"]}
@@ -25773,9 +25773,9 @@
 {"parent": "PGLandscape.FiniteHorizon.stationary_iff_stagewise", "child": "PGLandscape_Closure_Conditions", "via": ["statement"]}
 {"parent": "PGLandscape.FiniteHorizon.stationary_iff_stagewise", "child": "PGLandscape_Closure_MDP", "via": ["statement"]}
 {"parent": "PGLandscape.FiniteHorizon.stationary_iff_stagewise", "child": "PGLandscape_FiniteHorizon_Stages", "via": ["statement"]}
-{"parent": "PGLandscape.FiniteHorizon.stationary_optimal_finite_horizon", "child": "PGLandscape_Closure_Conditions", "via": ["statement"]}
-{"parent": "PGLandscape.FiniteHorizon.stationary_optimal_finite_horizon", "child": "PGLandscape_Closure_MDP", "via": ["statement"]}
-{"parent": "PGLandscape.FiniteHorizon.stationary_optimal_finite_horizon", "child": "PGLandscape_FiniteHorizon_Stages", "via": ["statement"]}
+{"parent": "PGLandscape.FiniteHorizon.stationary_optimal_finite_horizon", "child": "PGLandscape_Closure_Conditions", "via": ["solution", "statement"]}
+{"parent": "PGLandscape.FiniteHorizon.stationary_optimal_finite_horizon", "child": "PGLandscape_Closure_MDP", "via": ["solution", "statement"]}
+{"parent": "PGLandscape.FiniteHorizon.stationary_optimal_finite_horizon", "child": "PGLandscape_FiniteHorizon_Stages", "via": ["solution", "statement"]}
 {"parent": "PGLandscape.GradDom.bellman_le", "child": "PGLandscape_Closure_MDP", "via": ["statement"]}
 {"parent": "PGLandscape.GradDom.closure_gap_bound", "child": "PGLandscape_Closure_Conditions", "via": ["statement"]}
 {"parent": "PGLandscape.GradDom.closure_gap_bound", "child": "PGLandscape_Closure_MDP", "via": ["statement"]}
@@ -29615,7 +29615,7 @@
 {"parent": "PlanarEdgeBound", "child": "InducedSubdrawingBridge", "via": ["solution"]}
 {"parent": "PlanarEdgeBound", "child": "OrdinaryPolygonalDrawing", "via": ["solution", "statement"]}
 {"parent": "PlanarEdgeBound", "child": "SimpleGraphComponentEdgeSumBound", "via": ["solution"]}
-{"parent": "PlanarQueue.Genus.extra_queues_4g", "child": "PlanarQueue_Genus_Setting", "via": ["statement"]}
+{"parent": "PlanarQueue.Genus.extra_queues_4g", "child": "PlanarQueue_Genus_Setting", "via": ["solution", "statement"]}
 {"parent": "PlanarQueue.Genus.lemma_18", "child": "PlanarQueue_Genus_Setting", "via": ["statement"]}
 {"parent": "PlanarQueue.Genus.lemma_18", "child": "RobertsonSeymour1986_GM5_IsPlanar", "via": ["statement"]}
 {"parent": "PlanarQueue.Genus.lemma_21", "child": "PlanarQueue_Genus_EulerGenus", "via": ["statement"]}
@@ -29625,7 +29625,7 @@
 {"parent": "PlanarQueue.Genus.theorem_2", "child": "PlanarQueue_Genus_Setting", "via": ["statement"]}
 {"parent": "PlanarQueue.Planar.complete_queue_number", "child": "PlanarQueue_Planar_Setting", "via": ["statement"]}
 {"parent": "PlanarQueue.Planar.lemma_5", "child": "PlanarQueue_Planar_Setting", "via": ["statement"]}
-{"parent": "PlanarQueue.Planar.lemma_8", "child": "PlanarQueue_Planar_Setting", "via": ["statement"]}
+{"parent": "PlanarQueue.Planar.lemma_8", "child": "PlanarQueue_Planar_Setting", "via": ["solution", "statement"]}
 {"parent": "PlanarQueue.Planar.lemma_9", "child": "PlanarQueue_Planar_Setting", "via": ["statement"]}
 {"parent": "PlanarQueue.Planar.rainbow_iff", "child": "PlanarQueue_Planar_Setting", "via": ["statement"]}
 {"parent": "PlanarQueue.Planar.theorem_1", "child": "PlanarQueue_Planar_Setting", "via": ["statement"]}
@@ -38830,8 +38830,8 @@
 {"parent": "QuantumWalkSearch.PhaseReflection.theorem_6", "child": "QuantumWalkSearch_PhaseReflection_ReflectionCircuit", "via": ["solution", "statement"]}
 {"parent": "QuantumWalkSearch.PhaseReflection.unique_one_eigenvector", "child": "QuantumWalkSearch_PhaseReflection_Walk", "via": ["statement"]}
 {"parent": "QuantumWalkSearch.SingularGap.eq_9", "child": "QuantumWalkSearch_SingularGap_Discriminant", "via": ["solution", "statement"]}
-{"parent": "QuantumWalkSearch.SingularGap.equality_case", "child": "QuantumWalkSearch_SingularGap_Discriminant", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.SingularGap.lemma_3", "child": "QuantumWalkSearch_SingularGap_Discriminant", "via": ["statement"]}
+{"parent": "QuantumWalkSearch.SingularGap.equality_case", "child": "QuantumWalkSearch_SingularGap_Discriminant", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.SingularGap.lemma_3", "child": "QuantumWalkSearch_SingularGap_Discriminant", "via": ["solution", "statement"]}
 {"parent": "QuantumWalkSearch.SingularGap.path_chaining", "child": "QuantumWalkSearch_SingularGap_Discriminant", "via": ["solution", "statement"]}
 {"parent": "QuantumWalkSearch.SingularGap.proposition_3", "child": "QuantumWalkSearch_SingularGap_Discriminant", "via": ["statement"]}
 {"parent": "QuantumWalkSearch.SingularGap.sqrt_stationary_eigenvector", "child": "QuantumWalkSearch_SingularGap_Discriminant", "via": ["solution", "statement"]}
@@ -44047,8 +44047,8 @@
 {"parent": "ReflNewton.FirstOrder.tendsto_inner_grad_dir", "child": "ReflNewton_FirstOrder_Setting", "via": ["statement"]}
 {"parent": "ReflNewton.FirstOrder.theorem_3", "child": "LewisTorczon_BoundPS_Box", "via": ["solution", "statement"]}
 {"parent": "ReflNewton.FirstOrder.theorem_3", "child": "ReflNewton_FirstOrder_Setting", "via": ["solution", "statement"]}
-{"parent": "ReflNewton.FirstOrder.theorem_8", "child": "LewisTorczon_BoundPS_Box", "via": ["statement"]}
-{"parent": "ReflNewton.FirstOrder.theorem_8", "child": "ReflNewton_FirstOrder_Setting", "via": ["statement"]}
+{"parent": "ReflNewton.FirstOrder.theorem_8", "child": "LewisTorczon_BoundPS_Box", "via": ["solution", "statement"]}
+{"parent": "ReflNewton.FirstOrder.theorem_8", "child": "ReflNewton_FirstOrder_Setting", "via": ["solution", "statement"]}
 {"parent": "ReflNewton.LocalQuad.fnu_zero_and_regular", "child": "LewisTorczon_BoundPS_Box", "via": ["statement"]}
 {"parent": "ReflNewton.LocalQuad.fnu_zero_and_regular", "child": "ReflNewton_LocalQuad_Setting", "via": ["statement"]}
 {"parent": "ReflNewton.LocalQuad.lemma_12", "child": "LewisTorczon_BoundPS_Box", "via": ["statement"]}
@@ -47159,16 +47159,16 @@
 {"parent": "RestrictedAssignment.Svensson.clp_feasible_of_schedule", "child": "RestrictedAssignment_Svensson_configLP", "via": ["solution", "statement"]}
 {"parent": "RestrictedAssignment.Svensson.clp_feasible_scale", "child": "RestrictedAssignment_Svensson_configLP", "via": ["solution", "statement"]}
 {"parent": "RestrictedAssignment.Svensson.clp_infeasible_of_dual_certificate", "child": "RestrictedAssignment_Svensson_configLP", "via": ["solution", "statement"]}
-{"parent": "RestrictedAssignment.Svensson.configLP_integrality_gap", "child": "RestrictedAssignment_Svensson_configLP", "via": ["statement"]}
-{"parent": "RestrictedAssignment.Svensson.dual_feasible_of_no_potential_move", "child": "RestrictedAssignment_Svensson_configLP", "via": ["statement"]}
-{"parent": "RestrictedAssignment.Svensson.dual_feasible_of_no_potential_move", "child": "RestrictedAssignment_Svensson_extendSchedule", "via": ["statement"]}
-{"parent": "RestrictedAssignment.Svensson.dual_objective_neg_of_no_potential_move", "child": "RestrictedAssignment_Svensson_configLP", "via": ["statement"]}
-{"parent": "RestrictedAssignment.Svensson.dual_objective_neg_of_no_potential_move", "child": "RestrictedAssignment_Svensson_extendSchedule", "via": ["statement"]}
+{"parent": "RestrictedAssignment.Svensson.configLP_integrality_gap", "child": "RestrictedAssignment_Svensson_configLP", "via": ["solution", "statement"]}
+{"parent": "RestrictedAssignment.Svensson.dual_feasible_of_no_potential_move", "child": "RestrictedAssignment_Svensson_configLP", "via": ["solution", "statement"]}
+{"parent": "RestrictedAssignment.Svensson.dual_feasible_of_no_potential_move", "child": "RestrictedAssignment_Svensson_extendSchedule", "via": ["solution", "statement"]}
+{"parent": "RestrictedAssignment.Svensson.dual_objective_neg_of_no_potential_move", "child": "RestrictedAssignment_Svensson_configLP", "via": ["solution", "statement"]}
+{"parent": "RestrictedAssignment.Svensson.dual_objective_neg_of_no_potential_move", "child": "RestrictedAssignment_Svensson_extendSchedule", "via": ["solution", "statement"]}
 {"parent": "RestrictedAssignment.Svensson.exists_potential_move", "child": "RestrictedAssignment_Svensson_configLP", "via": ["solution", "statement"]}
 {"parent": "RestrictedAssignment.Svensson.exists_potential_move", "child": "RestrictedAssignment_Svensson_extendSchedule", "via": ["solution", "statement"]}
 {"parent": "RestrictedAssignment.Svensson.extendSchedule_terminates", "child": "RestrictedAssignment_Svensson_configLP", "via": ["solution", "statement"]}
 {"parent": "RestrictedAssignment.Svensson.extendSchedule_terminates", "child": "RestrictedAssignment_Svensson_extendSchedule", "via": ["solution", "statement"]}
-{"parent": "RestrictedAssignment.Svensson.makespan_le_of_clp_feasible_one", "child": "RestrictedAssignment_Svensson_configLP", "via": ["statement"]}
+{"parent": "RestrictedAssignment.Svensson.makespan_le_of_clp_feasible_one", "child": "RestrictedAssignment_Svensson_configLP", "via": ["solution", "statement"]}
 {"parent": "RestrictedAssignment.Svensson.valid_of_reachable", "child": "RestrictedAssignment_Svensson_configLP", "via": ["solution", "statement"]}
 {"parent": "RestrictedAssignment.Svensson.valid_of_reachable", "child": "RestrictedAssignment_Svensson_extendSchedule", "via": ["solution", "statement"]}
 {"parent": "RestrictedProduct.measurable_iff_forall_measurable_apply", "child": "P2M_Util", "via": ["solution"]}
@@ -50161,7 +50161,7 @@
 {"parent": "RiskControl.UCB.theorem_1", "child": "RiskControl_UCB_Setting", "via": ["solution", "statement"]}
 {"parent": "RiskControl.UCB.theorem_A_1", "child": "RiskControl_UCB_Setting", "via": ["solution", "statement"]}
 {"parent": "RiskControl.UCB.ucb_lt_at_failure_point", "child": "RiskControl_UCB_Setting", "via": ["solution", "statement"]}
-{"parent": "RiskControl.WSR.K_martingale", "child": "RiskControl_WSR_Process", "via": ["statement"]}
+{"parent": "RiskControl.WSR.K_martingale", "child": "RiskControl_WSR_Process", "via": ["solution", "statement"]}
 {"parent": "RiskControl.WSR.K_monotone", "child": "RiskControl_WSR_Process", "via": ["solution", "statement"]}
 {"parent": "RiskControl.WSR.factor_nonneg", "child": "RiskControl_WSR_Process", "via": ["solution", "statement"]}
 {"parent": "RiskControl.WSR.proposition_5", "child": "RiskControl_WSR_Process", "via": ["solution", "statement"]}
@@ -55362,15 +55362,15 @@
 {"parent": "SkutellaCQP.MaxSNP.l_reduction", "child": "SkutellaCQP_MaxSNP_Setting", "via": ["statement"]}
 {"parent": "SkutellaCQP.MaxSNP.lemma_7_1_a", "child": "SkutellaCQP_MaxSNP_Setting", "via": ["solution", "statement"]}
 {"parent": "SkutellaCQP.MaxSNP.lemma_7_1_b", "child": "SkutellaCQP_MaxSNP_Setting", "via": ["solution", "statement"]}
-{"parent": "SkutellaCQP.NoRel.corollary_2_11", "child": "SkutellaCQP_NoRel_Setting", "via": ["statement"]}
-{"parent": "SkutellaCQP.NoRel.corollary_2_3", "child": "SkutellaCQP_NoRel_Setting", "via": ["statement"]}
+{"parent": "SkutellaCQP.NoRel.corollary_2_11", "child": "SkutellaCQP_NoRel_Setting", "via": ["solution", "statement"]}
+{"parent": "SkutellaCQP.NoRel.corollary_2_3", "child": "SkutellaCQP_NoRel_Setting", "via": ["solution", "statement"]}
 {"parent": "SkutellaCQP.NoRel.cqp_psd", "child": "SkutellaCQP_NoRel_Setting", "via": ["solution", "statement"]}
 {"parent": "SkutellaCQP.NoRel.lemma_2_2", "child": "SkutellaCQP_NoRel_Setting", "via": ["solution", "statement"]}
 {"parent": "SkutellaCQP.NoRel.lemma_2_4", "child": "SkutellaCQP_NoRel_Setting", "via": ["statement"]}
-{"parent": "SkutellaCQP.NoRel.lemma_2_8", "child": "SkutellaCQP_NoRel_Setting", "via": ["statement"]}
-{"parent": "SkutellaCQP.NoRel.theorem_2_1", "child": "SkutellaCQP_NoRel_Setting", "via": ["statement"]}
-{"parent": "SkutellaCQP.NoRel.theorem_2_10", "child": "SkutellaCQP_NoRel_Setting", "via": ["statement"]}
-{"parent": "SkutellaCQP.NoRel.theorem_2_6_a", "child": "SkutellaCQP_NoRel_Setting", "via": ["statement"]}
+{"parent": "SkutellaCQP.NoRel.lemma_2_8", "child": "SkutellaCQP_NoRel_Setting", "via": ["solution", "statement"]}
+{"parent": "SkutellaCQP.NoRel.theorem_2_1", "child": "SkutellaCQP_NoRel_Setting", "via": ["solution", "statement"]}
+{"parent": "SkutellaCQP.NoRel.theorem_2_10", "child": "SkutellaCQP_NoRel_Setting", "via": ["solution", "statement"]}
+{"parent": "SkutellaCQP.NoRel.theorem_2_6_a", "child": "SkutellaCQP_NoRel_Setting", "via": ["solution", "statement"]}
 {"parent": "SkutellaCQP.NoRel.three_halves_rounding", "child": "SkutellaCQP_NoRel_Setting", "via": ["solution", "statement"]}
 {"parent": "SkutellaCQP.NoRel.zqp_eq_zcqp_add", "child": "SkutellaCQP_NoRel_Setting", "via": ["solution", "statement"]}
 {"parent": "SkutellaCQP.Preempt.bound_25", "child": "SkutellaCQP_Preempt_Setting", "via": ["statement"]}
@@ -55647,11 +55647,11 @@
 {"parent": "SmithRegenerative.CLT.theorem_B_vector", "child": "SmithRegenerative_CLT_CumulativeProcess", "via": ["statement"]}
 {"parent": "SmithRegenerative.Equilibrium.decomposition_3_4_3", "child": "SmithRegenerative_Equilibrium_EquilibriumProcess", "via": ["solution", "statement"]}
 {"parent": "SmithRegenerative.Equilibrium.lemma_A", "child": "SmithRegenerative_Equilibrium_Renewal", "via": ["statement"]}
-{"parent": "SmithRegenerative.Equilibrium.tail_limit_3_4_7", "child": "SmithRegenerative_Equilibrium_EquilibriumProcess", "via": ["statement"]}
-{"parent": "SmithRegenerative.Equilibrium.theorem_1", "child": "SmithRegenerative_Equilibrium_Renewal", "via": ["statement"]}
-{"parent": "SmithRegenerative.Equilibrium.theorem_2", "child": "SmithRegenerative_Equilibrium_EquilibriumProcess", "via": ["statement"]}
-{"parent": "SmithRegenerative.Equilibrium.theorem_A_a", "child": "SmithRegenerative_Equilibrium_Renewal", "via": ["statement"]}
-{"parent": "SmithRegenerative.Equilibrium.window_limit_3_4_5", "child": "SmithRegenerative_Equilibrium_EquilibriumProcess", "via": ["statement"]}
+{"parent": "SmithRegenerative.Equilibrium.tail_limit_3_4_7", "child": "SmithRegenerative_Equilibrium_EquilibriumProcess", "via": ["solution", "statement"]}
+{"parent": "SmithRegenerative.Equilibrium.theorem_1", "child": "SmithRegenerative_Equilibrium_Renewal", "via": ["solution", "statement"]}
+{"parent": "SmithRegenerative.Equilibrium.theorem_2", "child": "SmithRegenerative_Equilibrium_EquilibriumProcess", "via": ["solution", "statement"]}
+{"parent": "SmithRegenerative.Equilibrium.theorem_A_a", "child": "SmithRegenerative_Equilibrium_Renewal", "via": ["solution", "statement"]}
+{"parent": "SmithRegenerative.Equilibrium.window_limit_3_4_5", "child": "SmithRegenerative_Equilibrium_EquilibriumProcess", "via": ["solution", "statement"]}
 {"parent": "SmithRegenerative.Ergodic.count_div_tendsto", "child": "SmithRegenerative_Ergodic_Renewal", "via": ["solution", "statement"]}
 {"parent": "SmithRegenerative.Ergodic.eq_5_3_4", "child": "SmithRegenerative_Ergodic_CumulativeProcess", "via": ["solution", "statement"]}
 {"parent": "SmithRegenerative.Ergodic.eq_5_3_4", "child": "SmithRegenerative_Ergodic_Renewal", "via": ["solution", "statement"]}
@@ -56166,8 +56166,8 @@
 {"parent": "SolomonRWRE.DiffEq.theorem_4_4", "child": "SolomonRWRE_DiffEq_System", "via": ["solution", "statement"]}
 {"parent": "SolomonRWRE.Recurrence.lemma_1_1_i", "child": "SolomonRWRE_Recurrence_Model", "via": ["statement"]}
 {"parent": "SolomonRWRE.Recurrence.lemma_1_1_ii", "child": "SolomonRWRE_Recurrence_Model", "via": ["statement"]}
-{"parent": "SolomonRWRE.Recurrence.lemma_1_5", "child": "SolomonRWRE_Recurrence_Model", "via": ["statement"]}
-{"parent": "SolomonRWRE.Recurrence.lemma_1_6", "child": "SolomonRWRE_Recurrence_Model", "via": ["statement"]}
+{"parent": "SolomonRWRE.Recurrence.lemma_1_5", "child": "SolomonRWRE_Recurrence_Model", "via": ["solution", "statement"]}
+{"parent": "SolomonRWRE.Recurrence.lemma_1_6", "child": "SolomonRWRE_Recurrence_Model", "via": ["solution", "statement"]}
 {"parent": "SolomonRWRE.Recurrence.proof_1_7_boundary", "child": "SolomonRWRE_Recurrence_Model", "via": ["solution", "statement"]}
 {"parent": "SolomonRWRE.Recurrence.proof_1_7_log_moment", "child": "SolomonRWRE_Recurrence_Model", "via": ["statement"]}
 {"parent": "SolomonRWRE.Recurrence.theorem_0_1", "child": "SolomonRWRE_Recurrence_Model", "via": ["solution", "statement"]}
@@ -56207,7 +56207,7 @@
 {"parent": "SongZipkinFluct.FixedCost.theorem5e_theorem6", "child": "SongZipkinFluct_FixedCost_Policy", "via": ["statement"]}
 {"parent": "SongZipkinFluct.Linear.corollary1", "child": "SongZipkinFluct_Linear_Model", "via": ["statement"]}
 {"parent": "SongZipkinFluct.Linear.corollary2", "child": "SongZipkinFluct_Linear_Dynamics", "via": ["statement"]}
-{"parent": "SongZipkinFluct.Linear.lemma1", "child": "SongZipkinFluct_Linear_Model", "via": ["statement"]}
+{"parent": "SongZipkinFluct.Linear.lemma1", "child": "SongZipkinFluct_Linear_Model", "via": ["solution", "statement"]}
 {"parent": "SongZipkinFluct.Linear.lemma2", "child": "SongZipkinFluct_Linear_Model", "via": ["statement"]}
 {"parent": "SongZipkinFluct.Linear.lemma4", "child": "SongZipkinFluct_Linear_Dynamics", "via": ["statement"]}
 {"parent": "SongZipkinFluct.Linear.theorem1_ac", "child": "SongZipkinFluct_Linear_Dynamics", "via": ["statement"]}
@@ -56501,12 +56501,12 @@
 {"parent": "SphereGRF_Truncation_Setting", "child": "SphereGRF_Holder_Setting", "via": ["statement"]}
 {"parent": "SphereGRF_Truncation_Setting", "child": "SphereGRF_Spectral_Legendre", "via": ["statement"]}
 {"parent": "SphereSOS.DPS.dual_dps", "child": "SphereSOS_DPS_Setting", "via": ["statement"]}
-{"parent": "SphereSOS.DPS.eq_37", "child": "SphereSOS_DPS_Setting", "via": ["statement"]}
+{"parent": "SphereSOS.DPS.eq_37", "child": "SphereSOS_DPS_Setting", "via": ["solution", "statement"]}
 {"parent": "SphereSOS.DPS.eq_39", "child": "SphereSOS_DPS_Setting", "via": ["solution", "statement"]}
 {"parent": "SphereSOS.DPS.lemma_19", "child": "SphereSOS_DPS_Setting", "via": ["statement"]}
 {"parent": "SphereSOS.DPS.lemma_20", "child": "SphereSOS_DPS_Setting", "via": ["statement"]}
 {"parent": "SphereSOS.DPS.theorem_12", "child": "SphereSOS_DPS_Setting", "via": ["statement"]}
-{"parent": "SphereSOS.DPS.theorem_12_i", "child": "SphereSOS_DPS_Setting", "via": ["statement"]}
+{"parent": "SphereSOS.DPS.theorem_12_i", "child": "SphereSOS_DPS_Setting", "via": ["solution", "statement"]}
 {"parent": "SphereSOS.DPS.theorem_15", "child": "SphereSOS_DPS_Setting", "via": ["statement"]}
 {"parent": "SphereSOS.Rate.eq_34", "child": "SphereSOS_Rate_Setting", "via": ["statement"]}
 {"parent": "SphereSOS.Rate.funk_hecke", "child": "SphereSOS_Rate_Gegenbauer", "via": ["statement"]}
@@ -91102,7 +91102,7 @@
 {"parent": "ZipfLaw.zipfPMF_variance", "child": "ZipfLaw_Defs", "via": ["solution", "statement"]}
 {"parent": "ZipfLaw.zipf_infinite_extension", "child": "ZipfLaw_Defs", "via": ["solution", "statement"]}
 {"parent": "ZipfLaw.zipf_one_leadingDigit_benford", "child": "ZipfLaw_Defs", "via": ["solution", "statement"]}
-{"parent": "ZipkinLostSales.Bounds.corollary_9", "child": "ZipkinLostSales_Bounds_Model", "via": ["statement"]}
+{"parent": "ZipkinLostSales.Bounds.corollary_9", "child": "ZipkinLostSales_Bounds_Model", "via": ["solution", "statement"]}
 {"parent": "ZipkinLostSales.Bounds.eq_7", "child": "ZipkinLostSales_Bounds_Model", "via": ["solution", "statement"]}
 {"parent": "ZipkinLostSales.Bounds.g_convex_in_z", "child": "ZipkinLostSales_Bounds_Model", "via": ["statement"]}
 {"parent": "ZipkinLostSales.Bounds.lemma_6", "child": "ZipkinLostSales_Bounds_Model", "via": ["solution", "statement"]}

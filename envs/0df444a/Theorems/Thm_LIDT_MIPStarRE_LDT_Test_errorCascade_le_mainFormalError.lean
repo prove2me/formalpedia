@@ -1,0 +1,72 @@
+-- Prove2me | Theorems.Thm_LIDT_MIPStarRE_LDT_Test_errorCascade_le_mainFormalError
+-- name    : LIDT.MIPStarRE.LDT.Test.errorCascade_le_mainFormalError
+-- status  : Proved
+-- author  : @Dengnifer
+-- created : 2026-10-27T18:22:17.375967+00:00
+-- url     : https://prove2.me/theorems/87645816-ec5a-44b3-a603-aebfc116065f
+-- title:
+--   Error Cascade Le Main Formal Error
+-- statement:
+--   **The five scalar cascade quantities fit inside the public main error envelope.**
+--
+--   Under the complete cascade hypotheses, assume `nu` is nonnegative and satisfies the coarse induction bound. Let `sigma`, `zeta1`, `zeta2`, and `zeta3` be identified with their cascade definitions by the theorem's four equality hypotheses. Then the five quantities used by the main theorem obey the packaged bounds
+--
+--   $$
+--   \sigma\le E,\qquad\zeta_1\le E,\qquad\zeta_2\le E,\qquad\zeta_3\le2E,
+--   \qquad\operatorname{cascadeZeta4}(\sigma,\zeta_1,\zeta_3)\le E,
+--   $$
+--
+--   where $E=\operatorname{mainFormalError}(\mathrm{params},k,\varepsilon)$. This is the final scalar cascade interface consumed by the role-register conclusion.
+--
+--   Formalization credit: Sirui Lu, Ruixuan Deng, Yanqiao Zhu, and Zhengfeng Ji (arXiv:2609.19814). Mathematical source: Zhengfeng Ji, Anand Natarajan, Thomas Vidick, John Wright, and Henry Yuen (arXiv:2009.12982).
+--
+--   **Formalization Note.** The source declaration is `MIPStarRE.LDT.Test.errorCascade_le_mainFormalError`; its Lean statement gives the exact quantifier order and all boundary hypotheses.
+-- source:
+--   https://github.com/LionSR/MIPStarRE/blob/f382c801026f53a9efc260fdee707cb35e0adb15/MIPStarRE/LDT/Test/MainTheorem/ScalarBounds/CascadeBounds/Final.lean#L24-L53
+
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SqrtBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_MainTheorem_ScalarBounds_Definitions
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_MainTheorem_ScalarBounds_EnvelopeBounds
+import Mathlib
+
+namespace LIDT.MIPStarRE.LDT
+end LIDT.MIPStarRE.LDT
+namespace LIDT.MIPStarRE.LDT.Test
+end LIDT.MIPStarRE.LDT.Test
+
+open LIDT
+/-!
+# Error cascade — final assembly
+
+This module contains the final tuple-valued consolidator for the error cascade
+in Step 8 of the main inductive step.
+
+## References
+
+* `references/ldt-paper/inductive_step.tex`, lines 230--234.
+-/
+
+@[expose] public section
+
+open scoped BigOperators
+
+open LIDT.MIPStarRE.LDT
+
+open LIDT.MIPStarRE.LDT.Test
+
+theorem LIDT.MIPStarRE.LDT.Test.errorCascade_le_mainFormalError {params : _root_.LIDT.MIPStarRE.LDT.Parameters} {k : ℕ} {eps : _root_.LIDT.MIPStarRE.LDT.Error}
+    (h : _root_.LIDT.MIPStarRE.LDT.Test.CascadeHypotheses params k eps) {ν σ ζ₁ ζ₂ ζ₃ : _root_.LIDT.MIPStarRE.LDT.Error}
+    (hνNN : 0 ≤ ν)
+    (hν : ν ≤ 10000 * ((k : _root_.LIDT.MIPStarRE.LDT.Error) ^ (2 : ℕ)) * ((params.m : _root_.LIDT.MIPStarRE.LDT.Error) ^ (2 : ℕ)) *
+      (Real.rpow eps (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error)) +
+        Real.rpow ((params.d : _root_.LIDT.MIPStarRE.LDT.Error) / (params.q : _root_.LIDT.MIPStarRE.LDT.Error)) (1 / (1024 : _root_.LIDT.MIPStarRE.LDT.Error))))
+    (hσEq : σ = _root_.LIDT.MIPStarRE.LDT.Test.cascadeSigma params k ν)
+    (hζ₁Eq : ζ₁ = _root_.LIDT.MIPStarRE.LDT.Test.cascadeZeta1 params eps σ)
+    (hζ₂Eq : ζ₂ = _root_.LIDT.MIPStarRE.LDT.Test.cascadeZeta2 ζ₁)
+    (hζ₃Eq : ζ₃ = _root_.LIDT.MIPStarRE.LDT.Test.cascadeZeta3 ζ₁ ζ₂) :
+    σ ≤ _root_.LIDT.MIPStarRE.LDT.Test.mainFormalError params k eps ∧
+    ζ₁ ≤ _root_.LIDT.MIPStarRE.LDT.Test.mainFormalError params k eps ∧
+    ζ₂ ≤ _root_.LIDT.MIPStarRE.LDT.Test.mainFormalError params k eps ∧
+    ζ₃ ≤ 2 * _root_.LIDT.MIPStarRE.LDT.Test.mainFormalError params k eps ∧
+    _root_.LIDT.MIPStarRE.LDT.Test.cascadeZeta4 σ ζ₁ ζ₃ ≤ _root_.LIDT.MIPStarRE.LDT.Test.mainFormalError params k eps := by sorry

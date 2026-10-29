@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_maximal_completion_for_edge_bound
 -- name    : WilliamsonShmoys.planar_drawing_maximal_completion_for_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:06:37.807416+00:00
 -- url     : https://prove2.me/theorems/e9c82dc3-e247-48ae-989d-76bf4073323a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EFXGenVal_TwoVal_theorem_14
 -- name    : EFXGenVal.TwoVal.theorem_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:06.649135+00:00
 -- url     : https://prove2.me/theorems/0f173eda-12c8-4058-afde-9a13c3fe5f19

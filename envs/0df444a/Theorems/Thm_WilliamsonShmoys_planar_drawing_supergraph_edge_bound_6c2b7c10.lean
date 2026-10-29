@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_supergraph_edge_bound_6c2b7c10
 -- name    : WilliamsonShmoys.planar_drawing_supergraph_edge_bound_6c2b7c10
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:58:32.376781+00:00
 -- url     : https://prove2.me/theorems/56026657-cacd-4cfb-bbbf-79fafccb7b1f

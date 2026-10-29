@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_ae_rogozin_slopes_of_infinite_small_jumps
 -- name    : AvramDividend.Classical.ae_rogozin_slopes_of_infinite_small_jumps
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-27T16:36:02.774765+00:00
 -- url     : https://prove2.me/theorems/b12c5430-2bd6-4ba0-9184-becc6f00b058

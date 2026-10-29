@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarQueue_Genus_extra_queues_4g
 -- name    : PlanarQueue.Genus.extra_queues_4g
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:22:35.361768+00:00
 -- url     : https://prove2.me/theorems/c287baaf-48b0-470f-b319-5c822a6b36a5

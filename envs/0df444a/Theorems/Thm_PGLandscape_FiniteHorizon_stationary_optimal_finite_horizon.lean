@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PGLandscape_FiniteHorizon_stationary_optimal_finite_horizon
 -- name    : PGLandscape.FiniteHorizon.stationary_optimal_finite_horizon
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:29:45.161708+00:00
 -- url     : https://prove2.me/theorems/62d0fea3-fe4e-435c-9595-d0570ae8cc8c

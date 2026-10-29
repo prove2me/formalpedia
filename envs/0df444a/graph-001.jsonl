@@ -93287,9 +93287,9 @@
 {"parent": "DiscreteConvex.ConjugacyDualityB.mnat2_convex_is_integrally_convex", "child": "DiscreteConvex_ConjugacyDualityB_IsIntegrallyConvexFunction", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.mnat2_convex_is_integrally_convex", "child": "DiscreteConvex_ConjugacyDualityB_MNat2Convex", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.mnat2_convex_is_integrally_convex", "child": "DiscreteConvex_ConjugacyDualityB_MNat2ConvexSet", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.mnat_lnat_ineq_extends_to_reals", "child": "DiscreteConvex_ConjugacyDualityB_ConvexClosureVal", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.mnat_lnat_ineq_extends_to_reals", "child": "DiscreteConvex_ConjugacyDualityB_LNaturalConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.mnat_lnat_ineq_extends_to_reals", "child": "DiscreteConvex_ConjugacyDualityB_MNaturalConvex", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.mnat_lnat_ineq_extends_to_reals", "child": "DiscreteConvex_ConjugacyDualityB_ConvexClosureVal", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.mnat_lnat_ineq_extends_to_reals", "child": "DiscreteConvex_ConjugacyDualityB_LNaturalConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.mnat_lnat_ineq_extends_to_reals", "child": "DiscreteConvex_ConjugacyDualityB_MNaturalConvex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateRW", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_IsClosedProperConvex", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_MExchangeAxiomR", "via": ["statement"]}

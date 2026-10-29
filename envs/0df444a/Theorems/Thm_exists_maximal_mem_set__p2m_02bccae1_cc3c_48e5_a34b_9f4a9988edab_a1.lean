@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_maximal_mem_set__p2m_02bccae1_cc3c_48e5_a34b_9f4a9988edab_a1
 -- name    : exists_maximal_mem_set__p2m_02bccae1_cc3c_48e5_a34b_9f4a9988edab_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:45:30.815108+00:00
 -- url     : https://prove2.me/theorems/2a9c7f88-bc19-40ef-be14-6ba573b95df5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_lower_bound_of_maximal_planar_drawing_via_threshold_euler
 -- name    : WilliamsonShmoys.edge_count_lower_bound_of_maximal_planar_drawing_via_threshold_euler
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T11:11:32.33798+00:00
 -- url     : https://prove2.me/theorems/bb20dc02-6c3e-49d4-81ba-d2e5dd682396

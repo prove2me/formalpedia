@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_DLA_threshold_le_optimal
 -- name    : DynamicOnlineLP.DLA.threshold_le_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:35:26.036551+00:00
 -- url     : https://prove2.me/theorems/eecb262a-207d-42b7-a0fc-c7df2ae781a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_supergraph_edge_count_v4
 -- name    : WilliamsonShmoys.maximal_drawable_supergraph_edge_count_v4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T19:20:34.60728+00:00
 -- url     : https://prove2.me/theorems/33017ba9-bdc3-4e6e-8325-089771e876d3

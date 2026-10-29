@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.zero_barrier_instant_ruin_of_standing_unbounded_variation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T06:46:29.95298+00:00
 -- url     : https://prove2.me/submissions/2e1922fd-97ef-4c42-bd0c-ff3c7c16d9d9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
 import Definitions.Def_AvramDividend_Classical_ScaleFunction

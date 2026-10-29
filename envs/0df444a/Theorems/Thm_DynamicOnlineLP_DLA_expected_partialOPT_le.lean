@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_DLA_expected_partialOPT_le
 -- name    : DynamicOnlineLP.DLA.expected_partialOPT_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:45:32.833631+00:00
 -- url     : https://prove2.me/theorems/9f0873e2-ea09-45db-9d19-349dd2e6d4ef

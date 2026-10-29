@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithRegenerative_Equilibrium_window_limit_3_4_5
 -- name    : SmithRegenerative.Equilibrium.window_limit_3_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:35:37.754881+00:00
 -- url     : https://prove2.me/theorems/76d0900a-f13f-4cd6-a150-4e94a0c8e58a

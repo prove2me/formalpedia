@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_Preparation_selected_preparation_outcome
 -- name    : OAI.MetricKMedian.Preparation.selected_preparation_outcome
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:28:41.127929+00:00
 -- url     : https://prove2.me/theorems/1f193d25-2865-45f9-830f-a2dcae004a44

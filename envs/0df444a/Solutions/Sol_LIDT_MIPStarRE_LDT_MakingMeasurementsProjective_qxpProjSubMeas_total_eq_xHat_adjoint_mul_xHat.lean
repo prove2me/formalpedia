@@ -1,0 +1,118 @@
+-- Prove2me | solution 1 for LIDT.MIPStarRE.LDT.MakingMeasurementsProjective.qxpProjSubMeas_total_eq_xHat_adjoint_mul_xHat
+-- status  : ACCEPTED   (prove)
+-- author  : @Dengnifer
+-- created : 2026-10-27T15:14:56.919731+00:00
+-- url     : https://prove2.me/submissions/cfcbd773-7a2b-4caf-81a4-a3fcfe768963
+
+-- Generated proof for MIPStarRE.LDT.MakingMeasurementsProjective.qxpProjSubMeas_total_eq_xHat_adjoint_mul_xHat.
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionAvg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionUniformSums
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_MeasurementLift
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFUniformAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_TensorPlacement
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Projectivization
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_LayerAlgebra
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Completion
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Rows
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Sigma
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_AlmostProjective
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_QCompleteness
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_LowRank
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_Sigma
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_TruncationCombinatorics
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Statements
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Completion
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Local
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_CauchySchwarz
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_CompletionTransfer
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_DistanceBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichMain_Completeness
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_ApproxDelta
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct
+import Definitions.Def_LIDT_MIPStarRE_LDT_Tactic_QuantumNonneg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteHilbert
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_LIDT_MIPStarRE_Quantum_Measurement
+import Definitions.Def_LIDT_MIPStarRE_Quantum_ProjectorONB
+import Mathlib
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+
+open scoped _root_.Matrix
+
+namespace LIDT.MIPStarRE.LDT.Preliminaries
+end LIDT.MIPStarRE.LDT.Preliminaries
+
+namespace LIDT
+
+end LIDT
+
+open LIDT
+/-!
+# Section 5 — Q/X/XHat/P algebraic identities
+
+Algebraic identities for the `Q/X/XHat/P` layer, including the
+restatements of `Q_a`, `P_a`, the mixed product, and projectivity of `P`.
+-/
+
+@[expose] public section
+
+open scoped BigOperators MatrixOrder _root_.Matrix ComplexOrder
+
+open LIDT.MIPStarRE.LDT.MakingMeasurementsProjective
+
+open MIPStarRE.LDT
+
+universe uOutcome uι
+
+noncomputable section
+
+theorem solution {Outcome : Type*}
+    {ι : Type*} [Fintype ι] [DecidableEq ι]
+    [Fintype Outcome]
+    (data : _root_.LIDT.MIPStarRE.LDT.MakingMeasurementsProjective.QXPLayerData Outcome ι) :
+    (_root_.LIDT.MIPStarRE.LDT.MakingMeasurementsProjective.qxpProjSubMeas data).toSubMeas.total = data.xHatᴴ * data.xHat := by
+  calc
+    (_root_.LIDT.MIPStarRE.LDT.MakingMeasurementsProjective.qxpProjSubMeas data).toSubMeas.total
+        = ∑ a, (_root_.LIDT.MIPStarRE.LDT.MakingMeasurementsProjective.qxpProjSubMeas data).outcome a :=
+            (_root_.LIDT.MIPStarRE.LDT.MakingMeasurementsProjective.qxpProjSubMeas data).sum_eq_total.symm
+    _ = ∑ a, _root_.LIDT.MIPStarRE.LDT.MakingMeasurementsProjective.Pa data a := by
+          simp [_root_.LIDT.MIPStarRE.LDT.MakingMeasurementsProjective.qxpProjSubMeas_outcome]
+    _ = data.xHatᴴ * data.xHat := _root_.LIDT.MIPStarRE.LDT.MakingMeasurementsProjective.sum_pa_eq_xHat_adjoint_mul_xHat data

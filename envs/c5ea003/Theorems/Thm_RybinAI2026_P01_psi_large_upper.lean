@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RybinAI2026_P01_psi_large_upper
 -- name    : RybinAI2026.P01.psi_large_upper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-02T20:26:29.210995+00:00
 -- url     : https://prove2.me/theorems/e1914e98-4279-4ad5-8ea8-c2ed1c99a7e5

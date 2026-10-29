@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_drawable_euler_face_count_for_maximal_equations
 -- name    : WilliamsonShmoys.connected_drawable_euler_face_count_for_maximal_equations
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T11:29:20.522893+00:00
 -- url     : https://prove2.me/theorems/07854bfb-4798-40a9-819d-79177af0b8f8

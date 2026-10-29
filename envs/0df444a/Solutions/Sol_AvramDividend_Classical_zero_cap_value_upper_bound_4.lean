@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.zero_cap_value_upper_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T22:22:26.803106+00:00
 -- url     : https://prove2.me/submissions/e612c539-5925-47e2-8536-5c81e6491977
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_zero_cap_boundary_value_package
 import Theorems.Thm_AvramDividend_Classical_zero_cap_value_upper_bound_of_zero_bound

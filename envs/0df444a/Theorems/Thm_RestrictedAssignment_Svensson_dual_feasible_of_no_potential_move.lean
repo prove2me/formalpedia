@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAssignment_Svensson_dual_feasible_of_no_potential_move
 -- name    : RestrictedAssignment.Svensson.dual_feasible_of_no_potential_move
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:28:33.665466+00:00
 -- url     : https://prove2.me/theorems/63c72c85-5882-4ecc-acca-9c9a49af913e

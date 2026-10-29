@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_halfCyl_exists_subseq_tendsto_eigen
 -- name    : FiniteEnergyPlane.halfCyl_exists_subseq_tendsto_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-26T22:24:12.307044+00:00
 -- url     : https://prove2.me/theorems/da0f5d3e-df2d-4159-9ca8-1aed7cdd1e19

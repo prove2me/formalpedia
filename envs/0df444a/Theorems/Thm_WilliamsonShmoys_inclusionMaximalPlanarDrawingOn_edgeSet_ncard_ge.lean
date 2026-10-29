@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_inclusionMaximalPlanarDrawingOn_edgeSet_ncard_ge
 -- name    : WilliamsonShmoys.inclusionMaximalPlanarDrawingOn_edgeSet_ncard_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:52:00.888992+00:00
 -- url     : https://prove2.me/theorems/10326427-f5ce-4956-94e3-04a0599776f7

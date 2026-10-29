@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HHRControl_PV_restrictedHS_in_NP
 -- name    : HHRControl.PV.restrictedHS_in_NP
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:01:36.356524+00:00
 -- url     : https://prove2.me/theorems/8889653b-98e3-44b4-83e9-ecc18536adad

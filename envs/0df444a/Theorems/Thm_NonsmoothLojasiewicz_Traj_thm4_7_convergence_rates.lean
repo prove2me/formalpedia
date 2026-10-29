@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Traj_thm4_7_convergence_rates
 -- name    : NonsmoothLojasiewicz.Traj.thm4_7_convergence_rates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:38:11.115912+00:00
 -- url     : https://prove2.me/theorems/5e6f0069-fc7a-4b78-992c-7ae1157da667

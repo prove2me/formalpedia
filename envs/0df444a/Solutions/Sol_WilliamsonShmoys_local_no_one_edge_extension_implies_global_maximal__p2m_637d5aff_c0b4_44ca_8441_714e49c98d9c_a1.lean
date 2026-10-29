@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.local_no_one_edge_extension_implies_global_maximal__p2m_637d5aff_c0b4_44ca_8441_714e49c98d9c_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:26:12.144323+00:00
 -- url     : https://prove2.me/submissions/3d0d39d6-8baf-4f3f-a8d9-46854d179494
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

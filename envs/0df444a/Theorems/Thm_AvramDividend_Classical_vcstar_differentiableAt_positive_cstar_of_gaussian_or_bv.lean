@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_differentiableAt_positive_cstar_of_gaussian_or_bv
 -- name    : AvramDividend.Classical.vcstar_differentiableAt_positive_cstar_of_gaussian_or_bv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T22:21:00.122998+00:00
 -- url     : https://prove2.me/theorems/9e3c3fa3-2e99-4362-846d-5b6e1503add2

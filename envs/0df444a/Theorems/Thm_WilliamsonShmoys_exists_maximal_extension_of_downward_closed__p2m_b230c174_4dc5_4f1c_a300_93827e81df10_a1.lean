@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_extension_of_downward_closed__p2m_b230c174_4dc5_4f1c_a300_93827e81df10_a1
 -- name    : WilliamsonShmoys.exists_maximal_extension_of_downward_closed__p2m_b230c174_4dc5_4f1c_a300_93827e81df10_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:41:38.214201+00:00
 -- url     : https://prove2.me/theorems/59fa87a3-70b8-4c3b-978b-2ea5ba62a9ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_property_extension_maximal__p2m_af21b660_e263_41f3_a209_fea21d5ace1b_a1
 -- name    : WilliamsonShmoys.finite_property_extension_maximal__p2m_af21b660_e263_41f3_a209_fea21d5ace1b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:40:52.231787+00:00
 -- url     : https://prove2.me/theorems/b627b66b-7038-44ac-a9b3-e51226961fdb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_Stationary_theorem51f
 -- name    : NegativeDP.Stationary.theorem51f
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:54:58.194808+00:00
 -- url     : https://prove2.me/theorems/4788bc8d-3df2-4d15-ad11-c36e12164641

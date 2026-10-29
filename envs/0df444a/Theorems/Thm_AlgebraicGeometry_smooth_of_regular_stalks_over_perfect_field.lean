@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_smooth_of_regular_stalks_over_perfect_field
 -- name    : AlgebraicGeometry.smooth_of_regular_stalks_over_perfect_field
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-28T18:15:26.45598+00:00
 -- url     : https://prove2.me/theorems/7969cf08-06cd-40d3-81b4-8adffe115fe3

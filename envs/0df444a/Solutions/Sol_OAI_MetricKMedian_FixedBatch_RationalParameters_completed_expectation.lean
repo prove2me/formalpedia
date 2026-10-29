@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MetricKMedian.FixedBatch.RationalParameters.completed_expectation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:46:20.887297+00:00
 -- url     : https://prove2.me/submissions/413aa6d9-91a6-4ee1-8cab-85518b803739
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ035K044

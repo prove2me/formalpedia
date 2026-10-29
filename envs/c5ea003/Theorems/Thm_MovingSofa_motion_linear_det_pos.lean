@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovingSofa_motion_linear_det_pos
 -- name    : MovingSofa.motion_linear_det_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-03T16:56:18.714277+00:00
 -- url     : https://prove2.me/theorems/2c1a9443-9870-4ab7-bcf3-2b9ab94a90c0

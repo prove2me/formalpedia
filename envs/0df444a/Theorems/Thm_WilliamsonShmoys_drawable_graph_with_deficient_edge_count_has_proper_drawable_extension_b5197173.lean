@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_with_deficient_edge_count_has_proper_drawable_extension_b5197173
 -- name    : WilliamsonShmoys.drawable_graph_with_deficient_edge_count_has_proper_drawable_extension_b5197173
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T10:34:49.671506+00:00
 -- url     : https://prove2.me/theorems/be664796-cf08-43bf-a690-72284ce2f02d

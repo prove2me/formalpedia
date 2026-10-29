@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_completion_on_same_vertices
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_completion_on_same_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:57:18.942009+00:00
 -- url     : https://prove2.me/theorems/e0661f22-04f1-4138-9730-6c8dde1880cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_zero_cap_value_at_zero_upper_bound
 -- name    : AvramDividend.Classical.zero_cap_value_at_zero_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T17:56:11.967349+00:00
 -- url     : https://prove2.me/theorems/c7854fde-e22f-45b4-90b6-1ed7e894755c

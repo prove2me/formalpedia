@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_real_three_w1300
 -- name    : HlawkaSchatten.DiagonalCutoff4.real_three_w1300
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-10-28T20:24:32.454924+00:00
 -- url     : https://prove2.me/theorems/7c0b7a5b-9968-4db2-9f48-1bb96d8b229d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound_components_exact
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound_components_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:58:40.070814+00:00
 -- url     : https://prove2.me/theorems/4db24ad1-8669-4807-8d3f-ffb0e29a5c1e

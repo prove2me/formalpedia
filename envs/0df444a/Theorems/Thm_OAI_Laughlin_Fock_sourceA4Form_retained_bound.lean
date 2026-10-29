@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_sourceA4Form_retained_bound
 -- name    : OAI.Laughlin.Fock.sourceA4Form_retained_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T08:32:17.696764+00:00
 -- url     : https://prove2.me/theorems/ebd5adff-0fa0-43ed-a2e2-ed859bc948d1

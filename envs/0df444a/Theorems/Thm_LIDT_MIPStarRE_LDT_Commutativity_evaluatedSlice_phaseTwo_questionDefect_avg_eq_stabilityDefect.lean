@@ -1,0 +1,135 @@
+-- Prove2me | Theorems.Thm_LIDT_MIPStarRE_LDT_Commutativity_evaluatedSlice_phaseTwo_questionDefect_avg_eq_stabilityDefect
+-- name    : LIDT.MIPStarRE.LDT.Commutativity.evaluatedSlice_phaseTwo_questionDefect_avg_eq_stabilityDefect
+-- status  : Proved
+-- author  : @Dengnifer
+-- created : 2026-10-27T14:00:12.29051+00:00
+-- url     : https://prove2.me/theorems/02cfde58-54b4-4c6f-8da2-f61d1fe4528b
+-- title:
+--   Evaluated Slice Phase Two Question Defect Avg Eq Stability Defect
+-- statement:
+--   **The phase-two question defect averages to the scalar stability defect.**
+--
+--   Let $(q,m,d)$ have a field model, let $S$ be a symmetric strategy on the successor space, let `family` be a slice-indexed polynomial submeasurement family, and let $G$ map each field element to a polynomial-outcome submeasurement. The phase-two question defect is a scalar function of a uniformly sampled pair of evaluated-slice points. Reindexing that pair and the associated field coordinates gives exactly the scalar stability defect averaged over a uniform field element:
+--
+--   $$
+--   \mathbb{E}_{Q\sim\mathrm{Unif}(\mathrm{EvaluatedSliceQuestion})}
+--   \bigl[\mathrm{evaluatedSlicePhaseTwoQuestionDefect}(Q)\bigr]
+--   =
+--   \mathbb{E}_{x\sim\mathrm{Unif}(\mathbb{F}_q)}
+--   \bigl[\mathrm{evaluatedSlicePhaseTwoStabilityDefect}(x)\bigr].
+--   $$
+--
+--   No consistency or normalization hypothesis is added. This is the exact finite reindexing bridge from the question-level defect to the scalar defect used in the commutativity stability chain.
+--
+--   Formalization credit: Sirui Lu, Ruixuan Deng, Yanqiao Zhu, and Zhengfeng Ji (arXiv:2609.19814). Mathematical source: Zhengfeng Ji, Anand Natarajan, Thomas Vidick, John Wright, and Henry Yuen (arXiv:2009.12982).
+--
+--   **Formalization Note.** The source declaration is `MIPStarRE.LDT.Commutativity.evaluatedSlice_phaseTwo_questionDefect_avg_eq_stabilityDefect`; its Lean statement gives the exact quantifier order and all boundary hypotheses.
+-- source:
+--   https://github.com/LionSR/MIPStarRE/blob/f382c801026f53a9efc260fdee707cb35e0adb15/MIPStarRE/LDT/Commutativity/ScalarApproximation/ProcessedG/PhaseTwo.lean#L565-L689
+
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionAvg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_DistributionUniformSums
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_MeasurementLift
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_PMFUniformAverages
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Basic_TensorPlacement
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_Approximation
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_CommutativityPoints_SharedHelpers_SharedLine
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Normalization
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Defs_Stability
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceBounds_PhaseOneThree
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_First
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Products
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_PhaseTwo
+import Definitions.Def_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Completion
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Local
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_CauchySchwarz
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_DistanceBounds
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SelfConsistency_Extensions
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichMain_Completeness
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_ApproxDelta
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_Core
+import Definitions.Def_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct
+import Definitions.Def_LIDT_MIPStarRE_LDT_Tactic_QuantumNonneg
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyFailures
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra
+import Definitions.Def_LIDT_MIPStarRE_LDT_Test_StrategyRole_Core
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_LIDT_MIPStarRE_Quantum_Measurement
+import Mathlib
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+
+namespace LIDT.MIPStarRE.LDT
+end LIDT.MIPStarRE.LDT
+namespace LIDT.MIPStarRE.LDT.Commutativity
+end LIDT.MIPStarRE.LDT.Commutativity
+namespace LIDT.MIPStarRE.LDT.Commutativity.GCommStability.Scalar
+end LIDT.MIPStarRE.LDT.Commutativity.GCommStability.Scalar
+namespace LIDT.MIPStarRE.LDT.CommutativityPoints
+end LIDT.MIPStarRE.LDT.CommutativityPoints
+namespace LIDT.MIPStarRE.LDT.Preliminaries
+end LIDT.MIPStarRE.LDT.Preliminaries
+
+open LIDT
+/-!
+# Phase 2 stability defect infrastructure
+
+Internal helper definitions and lemmas for the Phase 2 scalar bridge in
+`ProcessedG`.  These definitions extract and bound the one-dimensional stability
+defect controlled by `gCommStability_scalar` (the paper's `clm:g-comm-stability`),
+reindex the question-level defect into the stability defect via finite
+marginalization, and perform the subtraction algebra that rewrites the phase-2
+insertion/removal difference as the negative defect.
+-/
+
+@[expose] public section
+
+open LIDT.MIPStarRE.LDT.Commutativity
+
+open MIPStarRE.LDT
+open MIPStarRE.LDT.ExpansionHypercubeGraph
+open MIPStarRE.LDT.CommutativityPoints
+open scoped BigOperators MatrixOrder _root_.Matrix ComplexOrder
+
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+
+lemma LIDT.MIPStarRE.LDT.Commutativity.evaluatedSlice_phaseTwo_questionDefect_avg_eq_stabilityDefect
+    (params : _root_.LIDT.MIPStarRE.LDT.Parameters) [_root_.LIDT.MIPStarRE.LDT.FieldModel params.q]
+    (strategy : _root_.LIDT.MIPStarRE.LDT.SymStrat params.next ι)
+    (family : _root_.LIDT.MIPStarRE.LDT.IdxPolyFamily params ι)
+    (G : _root_.LIDT.MIPStarRE.LDT.Fq params → _root_.LIDT.MIPStarRE.LDT.SubMeas (_root_.LIDT.MIPStarRE.LDT.Polynomial params) ι) :
+  _root_.LIDT.MIPStarRE.LDT.avgOver (_root_.LIDT.MIPStarRE.LDT.uniformDistribution (_root_.LIDT.MIPStarRE.LDT.Commutativity.EvaluatedSliceQuestion params))
+      (_root_.LIDT.MIPStarRE.LDT.Commutativity.evaluatedSlicePhaseTwoQuestionDefect params strategy family G) =
+    _root_.LIDT.MIPStarRE.LDT.avgOver (_root_.LIDT.MIPStarRE.LDT.uniformDistribution (_root_.LIDT.MIPStarRE.LDT.Fq params))
+      (_root_.LIDT.MIPStarRE.LDT.Commutativity.evaluatedSlicePhaseTwoStabilityDefect params strategy family G) := by sorry

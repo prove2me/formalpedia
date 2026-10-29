@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Certificate_yRow_eq_integral
 -- name    : OAI.Laughlin.Certificate.yRow_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T19:53:29.165718+00:00
 -- url     : https://prove2.me/theorems/683cc4df-3225-4ceb-9c79-c91a83a957d5

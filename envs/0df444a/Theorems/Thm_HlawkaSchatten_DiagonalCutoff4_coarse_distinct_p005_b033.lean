@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_coarse_distinct_p005_b033
 -- name    : HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p005_b033
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-10-28T16:55:27.411372+00:00
 -- url     : https://prove2.me/theorems/f9493834-9a1d-4f32-a9ca-39d11a9de1ef

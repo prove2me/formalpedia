@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_completion_exact_edge_count_for_f2fc27dd
 -- name    : WilliamsonShmoys.maximal_planar_completion_exact_edge_count_for_f2fc27dd
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:54:01.531111+00:00
 -- url     : https://prove2.me/theorems/c3fbd97c-1077-40ea-9553-45bcba514778

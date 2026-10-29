@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_strict_supergraph_below_triangulation_bound_3909e30c_a531_4010_a48d_ad4d6b0818e8
 -- name    : WilliamsonShmoys.planar_strict_supergraph_below_triangulation_bound_3909e30c_a531_4010_a48d_ad4d6b0818e8
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:29:40.766987+00:00
 -- url     : https://prove2.me/theorems/279ea82e-1137-4707-afd7-6dd930290cf1

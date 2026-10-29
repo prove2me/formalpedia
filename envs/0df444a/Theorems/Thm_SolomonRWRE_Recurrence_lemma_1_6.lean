@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolomonRWRE_Recurrence_lemma_1_6
 -- name    : SolomonRWRE.Recurrence.lemma_1_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:30:45.107094+00:00
 -- url     : https://prove2.me/theorems/07f9fc42-ea5c-46df-898f-e0f234d01169

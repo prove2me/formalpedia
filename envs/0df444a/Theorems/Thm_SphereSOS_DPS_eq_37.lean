@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SphereSOS_DPS_eq_37
 -- name    : SphereSOS.DPS.eq_37
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:18:22.924472+00:00
 -- url     : https://prove2.me/theorems/99e9d086-ad52-459e-b162-d5b2cca90fd9

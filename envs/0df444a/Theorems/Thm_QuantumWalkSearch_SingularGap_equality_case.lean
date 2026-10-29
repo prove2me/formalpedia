@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_SingularGap_equality_case
 -- name    : QuantumWalkSearch.SingularGap.equality_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:41:54.225882+00:00
 -- url     : https://prove2.me/theorems/e8eff3ef-05d4-45ea-8260-381344440770

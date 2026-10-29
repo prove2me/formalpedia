@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_triangulation_same_vertices
 -- name    : WilliamsonShmoys.exists_planar_triangulation_same_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T10:15:35.384097+00:00
 -- url     : https://prove2.me/theorems/e8a894df-2a63-4360-888f-7de982faaf47

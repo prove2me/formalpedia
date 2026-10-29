@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.LaughlinFock.fourYChecked_11
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-28T20:20:55.818766+00:00
 -- url     : https://prove2.me/submissions/0fd6eba1-9993-4476-b80a-adbf03442ce4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ084L031

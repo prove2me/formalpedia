@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_Preparation_nearby_assignments
 -- name    : OAI.MetricKMedian.Preparation.nearby_assignments
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:28:23.748022+00:00
 -- url     : https://prove2.me/theorems/ab475fa5-d95a-47d5-9cbe-f0c70d44379f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_LabGates_flatMap_range
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.LabGates_flatMap_range
--- status  : Open
+-- status  : Proved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T20:34:06.087754+00:00
 -- url     : https://prove2.me/theorems/f02b6616-facb-4b88-bd94-59dcbcf61150

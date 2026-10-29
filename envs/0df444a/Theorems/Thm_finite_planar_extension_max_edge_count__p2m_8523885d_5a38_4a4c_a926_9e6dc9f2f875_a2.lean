@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_planar_extension_max_edge_count__p2m_8523885d_5a38_4a4c_a926_9e6dc9f2f875_a2
 -- name    : finite_planar_extension_max_edge_count__p2m_8523885d_5a38_4a4c_a926_9e6dc9f2f875_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:48:54.097765+00:00
 -- url     : https://prove2.me/theorems/50074e12-440f-499c-afbf-43ae85e24b38

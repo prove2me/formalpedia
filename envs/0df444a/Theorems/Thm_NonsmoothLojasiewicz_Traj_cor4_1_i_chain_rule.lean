@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Traj_cor4_1_i_chain_rule
 -- name    : NonsmoothLojasiewicz.Traj.cor4_1_i_chain_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:37:11.047616+00:00
 -- url     : https://prove2.me/theorems/a03d300e-4c45-489b-a167-4b625066e8ea

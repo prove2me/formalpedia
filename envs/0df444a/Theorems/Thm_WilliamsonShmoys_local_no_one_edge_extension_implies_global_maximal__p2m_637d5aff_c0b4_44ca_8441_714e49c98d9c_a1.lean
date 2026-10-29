@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_local_no_one_edge_extension_implies_global_maximal__p2m_637d5aff_c0b4_44ca_8441_714e49c98d9c_a1
 -- name    : WilliamsonShmoys.local_no_one_edge_extension_implies_global_maximal__p2m_637d5aff_c0b4_44ca_8441_714e49c98d9c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:15:11.968694+00:00
 -- url     : https://prove2.me/theorems/87998d71-f36e-4481-bd5e-a0624b01de15

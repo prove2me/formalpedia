@@ -17593,10 +17593,10 @@
 {"parent": "GTWSched.MaxDisc.rtp_implies_deadline_split", "child": "GTWSched_MaxDisc_Model", "via": ["solution", "statement"]}
 {"parent": "GTWSched.MaxDisc.theorem_4", "child": "GTWSched_MaxDisc_Model", "via": ["solution", "statement"]}
 {"parent": "GTWSched.NPC.cost_ge_k_and_eq_case", "child": "GTWSched_NPC_Schedules", "via": ["solution", "statement"]}
-{"parent": "GTWSched.NPC.evenOdd_mem_NP", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "GTWSched.NPC.evenOdd_mem_NP", "child": "GTWSched_NPC_Problems", "via": ["statement"]}
-{"parent": "GTWSched.NPC.evenOdd_mem_NP", "child": "GTWSched_NPC_Schedules", "via": ["statement"]}
-{"parent": "GTWSched.NPC.evenOdd_mem_NP", "child": "ProjSchedTW_Complexity_Encoding", "via": ["statement"]}
+{"parent": "GTWSched.NPC.evenOdd_mem_NP", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
+{"parent": "GTWSched.NPC.evenOdd_mem_NP", "child": "GTWSched_NPC_Problems", "via": ["solution", "statement"]}
+{"parent": "GTWSched.NPC.evenOdd_mem_NP", "child": "GTWSched_NPC_Schedules", "via": ["solution", "statement"]}
+{"parent": "GTWSched.NPC.evenOdd_mem_NP", "child": "ProjSchedTW_Complexity_Encoding", "via": ["solution", "statement"]}
 {"parent": "GTWSched.NPC.lemma_1", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
 {"parent": "GTWSched.NPC.lemma_1", "child": "GTWSched_NPC_Problems", "via": ["solution", "statement"]}
 {"parent": "GTWSched.NPC.lemma_1", "child": "GTWSched_NPC_Schedules", "via": ["solution", "statement"]}
@@ -50198,7 +50198,7 @@
 {"parent": "KallenbergLP.AverageLP.theorem_4_4_1", "child": "MarkovDecisionProcesses_AverageReward", "via": ["solution", "statement"]}
 {"parent": "KallenbergLP.Bias.abel_bound", "child": "KallenbergLP_Bias_Criteria", "via": ["solution", "statement"]}
 {"parent": "KallenbergLP.Bias.bias_optimal_implies_average", "child": "KallenbergLP_Bias_Criteria", "via": ["statement"]}
-{"parent": "KallenbergLP.Bias.four_characterizations", "child": "KallenbergLP_Bias_Stationary", "via": ["statement"]}
+{"parent": "KallenbergLP.Bias.four_characterizations", "child": "KallenbergLP_Bias_Stationary", "via": ["solution", "statement"]}
 {"parent": "KallenbergLP.Constrained.closedConvexHull_LD_eq_L", "child": "KallenbergLP_Constrained_Frequencies", "via": ["statement"]}
 {"parent": "KallenbergLP.Constrained.closedConvexHull_LD_eq_L", "child": "MarkovDecisionProcesses_AverageReward", "via": ["statement"]}
 {"parent": "KallenbergLP.Constrained.constrained_problem_eq_lp", "child": "KallenbergLP_Constrained_Frequencies", "via": ["statement"]}
@@ -85852,8 +85852,8 @@
 {"parent": "MatroidProphetKW.Inter.eq_23", "child": "MatroidProphetKW_Inter_Setting", "via": ["statement"]}
 {"parent": "MatroidProphetKW.Inter.eq_24", "child": "MatroidProphetKW_Inter_Online", "via": ["statement"]}
 {"parent": "MatroidProphetKW.Inter.eq_24", "child": "MatroidProphetKW_Inter_Setting", "via": ["statement"]}
-{"parent": "MatroidProphetKW.Inter.intersection_prophet", "child": "MatroidProphetKW_Inter_Online", "via": ["statement"]}
-{"parent": "MatroidProphetKW.Inter.intersection_prophet", "child": "MatroidProphetKW_Inter_Setting", "via": ["statement"]}
+{"parent": "MatroidProphetKW.Inter.intersection_prophet", "child": "MatroidProphetKW_Inter_Online", "via": ["solution", "statement"]}
+{"parent": "MatroidProphetKW.Inter.intersection_prophet", "child": "MatroidProphetKW_Inter_Setting", "via": ["solution", "statement"]}
 {"parent": "MatroidProphetKW.Inter.proposition_2", "child": "MatroidProphetKW_Inter_Online", "via": ["statement"]}
 {"parent": "MatroidProphetKW.Inter.proposition_2", "child": "MatroidProphetKW_Inter_Setting", "via": ["statement"]}
 {"parent": "MatroidProphetKW.Inter.proposition_3", "child": "MatroidProphetKW_Inter_Online", "via": ["solution", "statement"]}

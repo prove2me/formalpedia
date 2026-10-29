@@ -1,0 +1,189 @@
+-- Prove2me | Definitions.Def_PeskirShiryaev_Maximality_Stopping
+-- name    : PeskirShiryaev_Maximality_Stopping
+-- status  : Definition
+-- author  : @Shuze Chen
+-- created : 2026-10-29T02:25:28.973746+00:00
+-- url     : https://prove2.me/theorems/908cbcda-a029-474d-9233-640bb578ff19
+-- title:
+--   Maximum reward, cost admissibility, and boundary approximation
+-- statement:
+--   Given $X_0=x\le s$, set $S_t=s\vee\sup_{0\le r\le t}X_r$. A stopping rule is admissible when it is a stopping time for the augmented right-continuous natural filtration of $X$, is almost surely finite, and has finite expected accumulated cost. Define
+--
+--   $$J_{x,s}(\tau)=E_{x,s}\left[S_\tau-\int_0^\tau c(X_t)\,dt\right],\qquad V_*(x,s)=\sup_{\tau\text{ admissible}}J_{x,s}(\tau).$$
+--
+--   The value and rewards are extended real. A rule is optimal precisely when it is admissible and attains this supremum. For a boundary $g$, its hitting rule is $\tau_g=\inf\{t>0:X_t\le g(S_t)\}$, with empty infimum $+\infty$. The candidate reward is the analogous expectation with $V_g(X_\tau,S_\tau)$ replacing $S_\tau$.
+--
+--   Boundary approximation means that continuous ODE boundaries $g_n$, each meeting the diagonal at a finite level, decrease pointwise to $g$; their hitting times are admissible, increase almost surely to $\tau_g$, and their rewards converge to $V_*(x,s)$. This records the specific approximation in the source, not merely an abstract epsilon-optimal sequence.
+--
+--   **Formalization Note** Nonnegative Lebesgue integrals represent costs and maximum increments above $s$. On admissible times, expected reward is $s+E(S_\tau-s)-E\int c$, so no undefined infinity-minus-infinity occurs. Conversion of a time to a finite real is used only under almost sure finiteness. The definition of optimality does not add finite expected reward; this matters for finding F4.
+-- source:
+--   Peskir and Shiryaev, Optimal Stopping and Free-Boundary Problems, Birkhäuser Verlag, 2006, DOI 10.1007/978-3-7643-7390-0, pp. 200, 204, 206–210, 213 (PDF 219, 223, 225–229, 232), Eqs. (13.1.3)–(13.1.5), (13.2.13), (13.2.30)–(13.2.32), (13.2.41); p. 27 (PDF 47), Definition 2.1
+
+import Definitions.Def_PeskirShiryaev_Maximality_Boundary
+
+open MeasureTheory Filter
+open scoped ENNReal NNReal Topology
+
+/- Imported declaration context (verbatim, for a self-contained blind code audit):
+
+structure Coefficients where
+  drift : ℝ → ℝ
+  volatility : ℝ → ℝ
+  cost : ℝ → ℝ
+  drift_continuous : Continuous drift
+  volatility_continuous : Continuous volatility
+  volatility_pos : ∀ x, 0 < volatility x
+  cost_continuous : Continuous cost
+  cost_pos : ∀ x, 0 < cost x
+
+noncomputable def itoSum {Ω : Type*} (σ : ℝ → ℝ)
+    (X B : ℝ≥0 → Ω → ℝ) (t : ℝ≥0) (n : ℕ) (ω : Ω) : ℝ :=
+  ∑ k ∈ Finset.range (2 ^ n),
+    σ (X (t * (k : ℝ≥0) / (2 ^ n : ℝ≥0)) ω) *
+      (B (t * ((k + 1 : ℕ) : ℝ≥0) / (2 ^ n : ℝ≥0)) ω -
+       B (t * (k : ℝ≥0) / (2 ^ n : ℝ≥0)) ω)
+
+/-- A nonexplosive weak solution on R. The stochastic integral is specified by
+its defining left dyadic sums in probability, not by an unconstrained integral oracle. -/
+structure Diffusion {Ω : Type*} [MeasurableSpace Ω] (p : Coefficients)
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (x : ℝ) : Prop where
+  probability : IsProbabilityMeasure P
+  measurable : ∀ t, Measurable (X t)
+  continuous : ∀ ω, Continuous (fun t => X t ω)
+  initial : ∀ᵐ ω ∂P, X 0 ω = x
+  weak_solution : ∃ (ℱ : Filtration ℝ≥0 ‹MeasurableSpace Ω›) (B : ℝ≥0 → Ω → ℝ),
+    Adapted ℱ X ∧ Adapted ℱ B ∧ IsBrownianReal B P ∧
+    (∀ s t : ℝ≥0, s ≤ t →
+      Indep (MeasurableSpace.comap (fun ω => B t ω - B s ω) inferInstance) (ℱ s) P) ∧
+    ∀ t : ℝ≥0, TendstoInMeasure P (itoSum p.volatility X B t) atTop
+      (fun ω => X t ω - x -
+        ∫ r in (0 : ℝ)..(t : ℝ), p.drift (X r.toNNReal ω))
+
+/-- Right-continuous natural past, augmented by ambient measurable null sets. -/
+noncomputable def naturalPast {Ω : Type*} [MeasurableSpace Ω]
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (t : ℝ≥0) : MeasurableSpace Ω :=
+  ⨅ u : ℝ≥0, ⨅ (_ : t < u),
+    ((⨆ r : ℝ≥0, ⨆ (_ : r ≤ u), MeasurableSpace.comap (X r) inferInstance) ⊔
+      MeasurableSpace.generateFrom {N : Set Ω | MeasurableSet N ∧ P N = 0})
+
+/-- The book's Markov times; a stopping time must additionally be finite a.s. -/
+def IsMarkovTime {Ω : Type*} [MeasurableSpace Ω]
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (τ : Ω → ℝ≥0∞) : Prop :=
+  Measurable τ ∧ ∀ t : ℝ≥0, MeasurableSet[naturalPast P X t] {ω | τ ω ≤ (t : ℝ≥0∞)}
+
+
+
+noncomputable def scaleDensity (p : Coefficients) (y : ℝ) : ℝ :=
+  Real.exp (- ∫ z in (0 : ℝ)..y, 2 * p.drift z / p.volatility z ^ 2)
+
+noncomputable def scale (p : Coefficients) (x : ℝ) : ℝ :=
+  ∫ y in (0 : ℝ)..x, scaleDensity p y
+
+noncomputable def speedDensity (p : Coefficients) (x : ℝ) : ℝ :=
+  2 / (scaleDensity p x * p.volatility x ^ 2)
+
+noncomputable def speed (p : Coefficients) : Measure ℝ :=
+  volume.withDensity (fun y => ENNReal.ofReal (speedDensity p y))
+
+noncomputable def green (p : Coefficients) (a b x y : ℝ) : ℝ :=
+  if y ≤ x then (scale p b - scale p x) * (scale p y - scale p a) /
+      (scale p b - scale p a)
+  else (scale p b - scale p y) * (scale p x - scale p a) /
+      (scale p b - scale p a)
+
+noncomputable def odeRhs (p : Coefficients) (s y : ℝ) : ℝ :=
+  p.volatility y ^ 2 * scaleDensity p y /
+    (2 * p.cost y * (scale p s - scale p y))
+
+/-- Global C1 solutions strictly below the diagonal; no optimality is assumed. -/
+def AdmissibleBoundary (p : Coefficients) (g : ℝ → ℝ) : Prop :=
+  ContDiff ℝ 1 g ∧ ∀ s, g s < s ∧ HasDerivAt g (odeRhs p s (g s)) s
+
+def MaximalBoundary (p : Coefficients) (g : ℝ → ℝ) : Prop :=
+  AdmissibleBoundary p g ∧ ∀ h, AdmissibleBoundary p h → ∀ s, h s ≤ g s
+
+/-- The analytic expression, extended to either side of its lower integration limit. -/
+noncomputable def integralCandidate (p : Coefficients) (g : ℝ → ℝ) (x s : ℝ) : ℝ :=
+  s + ∫ y in g s..x, (scale p x - scale p y) * p.cost y * speedDensity p y
+
+noncomputable def candidate (p : Coefficients) (g : ℝ → ℝ) (x s : ℝ) : ℝ :=
+  if x ≤ g s then s else integralCandidate p g x s
+
+/-- Equations (13.2.9)--(13.2.12), with inward derivatives at the two boundaries. -/
+def FreeBoundarySystem (p : Coefficients) (g : ℝ → ℝ) : Prop :=
+  (∀ s x, g s < x → x < s →
+    p.drift x * deriv (fun z => integralCandidate p g z s) x +
+    p.volatility x ^ 2 / 2 * deriv (deriv (fun z => integralCandidate p g z s)) x =
+      p.cost x) ∧
+  (∀ s, HasDerivWithinAt (fun u => integralCandidate p g s u) 0 (Set.Ici s) s) ∧
+  (∀ s, integralCandidate p g (g s) s = s) ∧
+  (∀ s, HasDerivWithinAt (fun x => integralCandidate p g x s) 0 (Set.Ici (g s)) (g s))
+
+/-- A solution up to its first diagonal contact, extended by the diagonal afterwards. -/
+def DiagonalBoundary (p : Coefficients) (g : ℝ → ℝ) (d : ℝ) : Prop :=
+  Continuous g ∧
+  (∀ s, s < d → g s < s ∧ HasDerivAt g (odeRhs p s (g s)) s) ∧
+  ∀ s, d ≤ s → g s = s
+
+
+-/
+
+namespace PeskirShiryaev.Maximality
+
+noncomputable def runningMaximum {Ω : Type*} (X : ℝ≥0 → Ω → ℝ)
+    (s : ℝ) (t : ℝ≥0) (ω : Ω) : ℝ :=
+  max s (sSup ((fun r => X r ω) '' Set.Icc 0 t))
+
+noncomputable def accumulatedCost {Ω : Type*} (p : Coefficients)
+    (X : ℝ≥0 → Ω → ℝ) (τ : Ω → ℝ≥0∞) (ω : Ω) : ℝ≥0∞ :=
+  ∫⁻ r : ℝ in {r : ℝ | 0 ≤ r ∧ ENNReal.ofReal r < τ ω},
+    ENNReal.ofReal (p.cost (X r.toNNReal ω))
+
+noncomputable def expectedCost {Ω : Type*} [MeasurableSpace Ω] (p : Coefficients)
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (τ : Ω → ℝ≥0∞) : ℝ≥0∞ :=
+  ∫⁻ ω, accumulatedCost p X τ ω ∂P
+
+def AdmissibleTime {Ω : Type*} [MeasurableSpace Ω] (p : Coefficients)
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (τ : Ω → ℝ≥0∞) : Prop :=
+  IsMarkovTime P X τ ∧ (∀ᵐ ω ∂P, τ ω < ⊤) ∧ expectedCost p P X τ < ⊤
+
+/-- The lower bound S_tau >= s makes the positive-increment representation exact.
+The subtraction is only used for admissible times, whose expected cost is finite. -/
+noncomputable def reward {Ω : Type*} [MeasurableSpace Ω] (p : Coefficients)
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (s : ℝ) (τ : Ω → ℝ≥0∞) : EReal :=
+  (s : EReal) + (∫⁻ ω, ENNReal.ofReal (runningMaximum X s (τ ω).toNNReal ω - s) ∂P).toEReal -
+    (expectedCost p P X τ).toEReal
+
+noncomputable def value {Ω : Type*} [MeasurableSpace Ω] (p : Coefficients)
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (s : ℝ) : EReal :=
+  ⨆ τ : Ω → ℝ≥0∞, ⨆ (_ : AdmissibleTime p P X τ), reward p P X s τ
+
+def OptimalTime {Ω : Type*} [MeasurableSpace Ω] (p : Coefficients)
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (s : ℝ) (τ : Ω → ℝ≥0∞) : Prop :=
+  AdmissibleTime p P X τ ∧ reward p P X s τ = value p P X s
+
+noncomputable def boundaryTime {Ω : Type*} (X : ℝ≥0 → Ω → ℝ)
+    (s : ℝ) (g : ℝ → ℝ) (ω : Ω) : ℝ≥0∞ :=
+  ⨅ t : ℝ≥0, ⨅ (_ : 0 < t ∧ X t ω ≤ g (runningMaximum X s t ω)), (t : ℝ≥0∞)
+
+noncomputable def candidateReward {Ω : Type*} [MeasurableSpace Ω] (p : Coefficients)
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (s : ℝ) (g : ℝ → ℝ)
+    (τ : Ω → ℝ≥0∞) : EReal :=
+  (s : EReal) + (∫⁻ ω, ENNReal.ofReal
+    (candidate p g (X (τ ω).toNNReal ω) (runningMaximum X s (τ ω).toNNReal ω) - s) ∂P).toEReal -
+    (expectedCost p P X τ).toEReal
+
+/-- The boundary approximation specified in (13.2.41) and the subsequent discussion. -/
+def BoundaryApproximation {Ω : Type*} [MeasurableSpace Ω] (p : Coefficients)
+    (P : Measure Ω) (X : ℝ≥0 → Ω → ℝ) (s : ℝ) (g : ℝ → ℝ) : Prop :=
+  ∃ (gn : ℕ → ℝ → ℝ) (dn : ℕ → ℝ),
+    (∀ n, DiagonalBoundary p (gn n) (dn n)) ∧
+    (∀ u, Antitone (fun n => gn n u) ∧ Tendsto (fun n => gn n u) atTop (𝓝 (g u))) ∧
+    (∀ n, AdmissibleTime p P X (boundaryTime X s (gn n))) ∧
+    (∀ᵐ ω ∂P, Monotone (fun n => boundaryTime X s (gn n) ω) ∧
+      Tendsto (fun n => boundaryTime X s (gn n) ω) atTop (𝓝 (boundaryTime X s g ω))) ∧
+    Tendsto (fun n => reward p P X s (boundaryTime X s (gn n))) atTop (𝓝 (value p P X s))
+
+end PeskirShiryaev.Maximality
+
+

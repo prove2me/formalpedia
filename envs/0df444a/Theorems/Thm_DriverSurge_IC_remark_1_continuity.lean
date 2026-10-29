@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DriverSurge_IC_remark_1_continuity
 -- name    : DriverSurge.IC.remark_1_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:31:07.893639+00:00
 -- url     : https://prove2.me/theorems/c6eccb33-8087-4826-96cb-b9cb47438480

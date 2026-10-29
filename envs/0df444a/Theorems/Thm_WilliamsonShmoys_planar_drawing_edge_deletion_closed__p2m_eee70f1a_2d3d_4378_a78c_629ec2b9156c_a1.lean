@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_deletion_closed__p2m_eee70f1a_2d3d_4378_a78c_629ec2b9156c_a1
 -- name    : WilliamsonShmoys.planar_drawing_edge_deletion_closed__p2m_eee70f1a_2d3d_4378_a78c_629ec2b9156c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:19:55.99467+00:00
 -- url     : https://prove2.me/theorems/ea226d6c-bcfa-4e35-b5a1-53b49ed2687f

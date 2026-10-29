@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Certificate_four_body_12_positive
 -- name    : OAI.Laughlin.Certificate.four_body_12_positive
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T06:48:47.31926+00:00
 -- url     : https://prove2.me/theorems/eb90fc99-e34d-4fff-a6ad-0b9b7dbf79fa

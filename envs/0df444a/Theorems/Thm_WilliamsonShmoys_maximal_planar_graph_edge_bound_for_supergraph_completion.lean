@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_edge_bound_for_supergraph_completion
 -- name    : WilliamsonShmoys.maximal_planar_graph_edge_bound_for_supergraph_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T05:17:33.113989+00:00
 -- url     : https://prove2.me/theorems/b9f04a05-a438-43ae-a2ca-730f23ec6864

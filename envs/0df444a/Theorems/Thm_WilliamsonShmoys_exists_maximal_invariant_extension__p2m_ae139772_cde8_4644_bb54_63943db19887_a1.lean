@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_invariant_extension__p2m_ae139772_cde8_4644_bb54_63943db19887_a1
 -- name    : WilliamsonShmoys.exists_maximal_invariant_extension__p2m_ae139772_cde8_4644_bb54_63943db19887_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:51:46.857989+00:00
 -- url     : https://prove2.me/theorems/4fd4dfa8-35f1-4d2f-b4df-0c96f8a4da0f

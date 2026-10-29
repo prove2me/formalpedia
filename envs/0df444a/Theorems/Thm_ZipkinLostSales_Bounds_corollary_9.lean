@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_Bounds_corollary_9
 -- name    : ZipkinLostSales.Bounds.corollary_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:41.1045+00:00
 -- url     : https://prove2.me/theorems/c47a69ec-2cee-44ee-95c3-150f9cf41855

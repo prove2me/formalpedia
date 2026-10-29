@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ws01e_b_actual_Qp_strict_supremum_drawdown_laplace_threshold_factor
 -- name    : AvramDividend.Classical.avram_ws01e_b_actual_Qp_strict_supremum_drawdown_laplace_threshold_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T18:43:05.399991+00:00
 -- url     : https://prove2.me/theorems/45c2af56-ab71-41f7-a256-46f7457ed40b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_ae_rogozin_negative_slopes_of_unbounded_variation
 -- name    : AvramDividend.Classical.ae_rogozin_negative_slopes_of_unbounded_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-26T16:06:49.041685+00:00
 -- url     : https://prove2.me/theorems/4502f364-2bef-4d60-ac91-218b3d317a87

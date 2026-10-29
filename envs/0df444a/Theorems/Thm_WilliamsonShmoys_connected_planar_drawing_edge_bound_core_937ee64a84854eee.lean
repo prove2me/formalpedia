@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_drawing_edge_bound_core_937ee64a84854eee
 -- name    : WilliamsonShmoys.connected_planar_drawing_edge_bound_core_937ee64a84854eee
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T00:28:12.938336+00:00
 -- url     : https://prove2.me/theorems/9236e6ca-acd5-41e3-be95-915cbda340be

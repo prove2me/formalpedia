@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecompGames_Duplication_lemma_A_2
 -- name    : DecompGames.Duplication.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:38:00.815497+00:00
 -- url     : https://prove2.me/theorems/9781aa4f-d54c-4867-a648-b79ffd17bf9e
