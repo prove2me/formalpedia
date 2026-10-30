@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Mathlib_RingTheory_DedekindDomain_AdicValuation_p0
 -- name    : MazurN13_FLT_Mathlib_RingTheory_DedekindDomain_AdicValuation_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:10:51.041703+00:00
 -- url     : https://prove2.me/theorems/1ba7003b-d31c-42a3-9d4b-f93fc1257883
 -- title:

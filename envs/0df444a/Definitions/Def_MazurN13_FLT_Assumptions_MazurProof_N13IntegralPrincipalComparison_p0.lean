@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralPrincipalComparison_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralPrincipalComparison_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T23:18:26.44566+00:00
 -- url     : https://prove2.me/theorems/9f4426ac-97d1-47eb-aba1-265ef46de313
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_dilogCont
 -- name    : RamanujanNotebooks_shared_dilogCont
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T00:24:42.761238+00:00
 -- url     : https://prove2.me/theorems/b19e4a55-2b77-4d7b-96da-bf6ade32983f
 -- title:

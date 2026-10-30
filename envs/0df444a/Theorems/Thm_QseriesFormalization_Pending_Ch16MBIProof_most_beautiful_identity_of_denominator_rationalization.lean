@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_most_beautiful_identity_of_denominator_rationalization
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.most_beautiful_identity_of_denominator_rationalization
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:24:51.35576+00:00
 -- url     : https://prove2.me/theorems/689212aa-5176-46ab-8e8e-28cb07c60f5e
 -- title:

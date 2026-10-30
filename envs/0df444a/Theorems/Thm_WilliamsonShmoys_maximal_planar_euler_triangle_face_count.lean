@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_euler_triangle_face_count
 -- name    : WilliamsonShmoys.maximal_planar_euler_triangle_face_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T10:44:45.460338+00:00
 -- url     : https://prove2.me/theorems/d51190b1-8a07-4935-b1e8-3fdecb95c1b0

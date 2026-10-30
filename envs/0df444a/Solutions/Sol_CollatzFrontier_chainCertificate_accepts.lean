@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.chainCertificate_accepts
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T18:09:42.396039+00:00
 -- url     : https://prove2.me/submissions/4389a470-daa8-4240-935a-94ab33814698
 

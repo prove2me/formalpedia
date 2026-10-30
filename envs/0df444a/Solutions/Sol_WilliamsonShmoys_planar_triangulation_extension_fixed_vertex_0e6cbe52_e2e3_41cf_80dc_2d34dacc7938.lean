@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_triangulation_extension_fixed_vertex_0e6cbe52_e2e3_41cf_80dc_2d34dacc7938
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T23:35:16.686311+00:00
 -- url     : https://prove2.me/submissions/e8e77542-3bb4-468d-907d-b67626794a0f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_supergraph_on_fixed_vertices
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_via_euler_c27addfb_131a_4167_b7de_c130c93bb2da

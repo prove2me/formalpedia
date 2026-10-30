@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch18_legLength_staircasePartition
 -- name    : QseriesFormalization.PartIV.Ch18.legLength_staircasePartition
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:47:54.792745+00:00
 -- url     : https://prove2.me/theorems/a77b5dd9-938f-46a9-83bc-f9aca4e2ea6e
 -- title:

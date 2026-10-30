@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch09_lemma91BaseM_eq
 -- name    : QseriesFormalization.PartII.Ch09.lemma91BaseM_eq
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:30:49.814223+00:00
 -- url     : https://prove2.me/theorems/bacfb03c-f275-43fd-b6d8-c40b225d2687
 -- title:

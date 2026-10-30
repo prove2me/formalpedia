@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_connected_core_repair
 -- name    : WilliamsonShmoys.planar_edge_count_connected_core_repair
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:53:23.399136+00:00
 -- url     : https://prove2.me/theorems/ff4aa18e-3454-44b7-a1a0-16ab45dfa62e

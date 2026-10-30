@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIII_Ch14Thm116_coeff_zero_qPochAPPS_complex
 -- name    : QseriesFormalization.PartIII.Ch14Thm116.coeff_zero_qPochAPPS_complex
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:14:08.778566+00:00
 -- url     : https://prove2.me/theorems/462f41af-f3ef-4dfb-8f3e-d975e2c66e16
 -- title:

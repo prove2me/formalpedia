@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_augmentation_lower_bound_for_maximal_exact_count
 -- name    : WilliamsonShmoys.planar_augmentation_lower_bound_for_maximal_exact_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:40:32.979617+00:00
 -- url     : https://prove2.me/theorems/11b3a564-6a8b-460f-9b21-ee21f3fb131d

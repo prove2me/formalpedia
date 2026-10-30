@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch04_ch04LambertTerm
 -- name    : RamanujanLostNotebook_PartI_ch04_ch04LambertTerm
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T11:55:31.233347+00:00
 -- url     : https://prove2.me/theorems/b4d20638-2999-4eb3-bef4-844476c2e41a
 -- title:

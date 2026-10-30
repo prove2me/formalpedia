@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_same_vertex_triangulation_with_exact_edge_count
 -- name    : WilliamsonShmoys.exists_same_vertex_triangulation_with_exact_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:27:57.077073+00:00
 -- url     : https://prove2.me/theorems/154637ce-fcea-4dee-8706-336ac9ae49a3

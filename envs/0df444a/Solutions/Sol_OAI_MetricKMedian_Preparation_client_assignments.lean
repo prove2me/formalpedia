@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MetricKMedian.Preparation.client_assignments
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:41:55.202019+00:00
 -- url     : https://prove2.me/submissions/366dacaf-d148-4ce2-be8d-0a579c897530
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ035K016

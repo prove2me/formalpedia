@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Falconer_falconer_distance_conjecture
 -- name    : OAI.Falconer.falconer_distance_conjecture
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:40.215286+00:00
 -- url     : https://prove2.me/theorems/cb49a3cb-4278-4937-a074-8ddc1af3c15f

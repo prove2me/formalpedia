@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_extension_has_triangulation_edge_count__p2m_80d3c120_40ab_4263_83fa_69737aacfbab_a1
 -- name    : WilliamsonShmoys.planar_extension_has_triangulation_edge_count__p2m_80d3c120_40ab_4263_83fa_69737aacfbab_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:42:10.888014+00:00
 -- url     : https://prove2.me/theorems/57f967cc-933c-4757-9db5-f93a97c57bfc

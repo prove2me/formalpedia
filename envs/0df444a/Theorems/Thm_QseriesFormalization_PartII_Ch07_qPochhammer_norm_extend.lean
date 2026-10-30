@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_qPochhammer_norm_extend
 -- name    : QseriesFormalization.PartII.Ch07.qPochhammer_norm_extend
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:21:24.203698+00:00
 -- url     : https://prove2.me/theorems/ebff1c79-35c8-4b56-98c4-b0e6f9c19181
 -- title:

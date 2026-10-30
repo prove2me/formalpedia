@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Rokhlin.sequential_mixing_all
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-26T07:01:50.989975+00:00
 -- url     : https://prove2.me/submissions/0d737021-9f26-42ba-92ae-54f4c9905ba7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ3Ro000

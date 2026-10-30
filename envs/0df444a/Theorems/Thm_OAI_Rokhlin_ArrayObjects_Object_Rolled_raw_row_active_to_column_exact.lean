@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_ArrayObjects_Object_Rolled_raw_row_active_to_column_exact
 -- name    : OAI.Rokhlin.ArrayObjects.Object.Rolled.raw_row_active_to_column_exact
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:44:08.206803+00:00
 -- url     : https://prove2.me/theorems/2b757a19-7d6d-488c-8708-15997f012ab3

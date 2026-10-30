@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_shifted_chart_reduced_residual_identity
 -- name    : MazurHuang.N19.shifted_chart_reduced_residual_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:13:19.017383+00:00
 -- url     : https://prove2.me/theorems/3678cd48-0b66-42b7-bc2d-93ab1e486b81
 -- title:

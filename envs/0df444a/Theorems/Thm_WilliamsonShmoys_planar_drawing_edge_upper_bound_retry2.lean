@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_upper_bound_retry2
 -- name    : WilliamsonShmoys.planar_drawing_edge_upper_bound_retry2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:42:51.520395+00:00
 -- url     : https://prove2.me/theorems/217ef723-d8d6-4cf8-a756-f72ae4cf0ee7

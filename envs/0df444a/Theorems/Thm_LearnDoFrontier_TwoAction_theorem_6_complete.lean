@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnDoFrontier_TwoAction_theorem_6_complete
 -- name    : LearnDoFrontier.TwoAction.theorem_6_complete
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:35:51.492979+00:00
 -- url     : https://prove2.me/theorems/dd7f72c2-af48-4b16-8cf8-1f5e6b64891a

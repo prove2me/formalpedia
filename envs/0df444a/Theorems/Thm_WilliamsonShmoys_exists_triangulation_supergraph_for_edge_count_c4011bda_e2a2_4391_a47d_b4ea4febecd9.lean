@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulation_supergraph_for_edge_count_c4011bda_e2a2_4391_a47d_b4ea4febecd9
 -- name    : WilliamsonShmoys.exists_triangulation_supergraph_for_edge_count_c4011bda_e2a2_4391_a47d_b4ea4febecd9
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T11:18:17.318796+00:00
 -- url     : https://prove2.me/theorems/962b94d7-bf99-4177-9904-f3b578ab1bfc

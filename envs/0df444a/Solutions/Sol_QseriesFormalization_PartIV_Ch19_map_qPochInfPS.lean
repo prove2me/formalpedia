@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.map_qPochInfPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:48:08.752469+00:00
 -- url     : https://prove2.me/submissions/e2159962-1d3e-464d-90ab-cbf4f3ceb4b7
 

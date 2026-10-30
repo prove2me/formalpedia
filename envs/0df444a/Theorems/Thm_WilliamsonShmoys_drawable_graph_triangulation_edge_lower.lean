@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_triangulation_edge_lower
 -- name    : WilliamsonShmoys.drawable_graph_triangulation_edge_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T02:53:52.026252+00:00
 -- url     : https://prove2.me/theorems/360dfd46-ff48-420b-8199-ef7d5aad9824

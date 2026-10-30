@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.quintupleLogFactor_eq_apSigmaLambertFactor
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:43:36.055721+00:00
 -- url     : https://prove2.me/submissions/d0bddc30-4bcb-4f10-a9ad-f22e8ccc657f
 

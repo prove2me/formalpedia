@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.jacobiTripleSign_nonzero_mod_7_residue
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:24:01.997849+00:00
 -- url     : https://prove2.me/submissions/d98ad353-2444-4711-8ea9-c10588a9aaa9
 

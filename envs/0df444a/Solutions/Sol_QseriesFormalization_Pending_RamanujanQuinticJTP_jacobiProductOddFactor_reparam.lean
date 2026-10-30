@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.jacobiProductOddFactor_reparam
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:17:55.582872+00:00
 -- url     : https://prove2.me/submissions/af771b90-0d17-421d-8917-213f9cf26375
 

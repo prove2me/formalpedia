@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_heat_extension_c1mu_properties
 -- name    : EthierKurtz.heat_extension_c1mu_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:19:28.022473+00:00
 -- url     : https://prove2.me/theorems/cd05efef-8f90-407e-82e6-194df06fc096

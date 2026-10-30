@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BramsonQueueing_FIFOKelly_entropy_nonnegative
 -- name    : BramsonQueueing.FIFOKelly.entropy_nonnegative
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:07:42.151983+00:00
 -- url     : https://prove2.me/theorems/73f58f37-cc2a-4016-9a67-73aaee517f1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SluggishCapability_Myopic_part_ii_recurrent
 -- name    : SluggishCapability.Myopic.part_ii_recurrent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:06:10.86315+00:00
 -- url     : https://prove2.me/theorems/15854688-a257-4605-86b6-2ef78c459030

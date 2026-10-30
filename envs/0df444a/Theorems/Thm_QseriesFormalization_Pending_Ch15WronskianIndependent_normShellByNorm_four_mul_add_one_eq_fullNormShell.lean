@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_normShellByNorm_four_mul_add_one_eq_fullNormShell
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.normShellByNorm_four_mul_add_one_eq_fullNormShell
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:15:39.219922+00:00
 -- url     : https://prove2.me/theorems/2b8f25f9-277b-4d1e-bd36-2f41c2b8c0ed
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch03.gaussianBinom_pascal_alt
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:31:54.307303+00:00
 -- url     : https://prove2.me/submissions/c30aadb0-9395-49ab-954d-d4400691f66f
 

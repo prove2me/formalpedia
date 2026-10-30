@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GlobalKummerPID_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GlobalKummerPID_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:11:38.436727+00:00
 -- url     : https://prove2.me/theorems/20379345-14a9-48ca-89e2-4c60f829f66a
 -- title:

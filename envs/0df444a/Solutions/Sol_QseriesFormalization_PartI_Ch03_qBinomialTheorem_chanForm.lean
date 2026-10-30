@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch03.qBinomialTheorem_chanForm
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:24:11.714516+00:00
 -- url     : https://prove2.me/submissions/30964802-86c1-4d69-86f2-1cdee1e4fb67
 

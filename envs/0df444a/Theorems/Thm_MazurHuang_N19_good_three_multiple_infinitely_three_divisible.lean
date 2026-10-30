@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_good_three_multiple_infinitely_three_divisible
 -- name    : MazurHuang.N19.good_three_multiple_infinitely_three_divisible
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:22.125015+00:00
 -- url     : https://prove2.me/theorems/f98c2fb3-975c-43b6-a766-f43ee77ad80c
 -- title:

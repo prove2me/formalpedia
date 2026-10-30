@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for AvramDividend.Classical.vcstar_unrestricted_verification_regularity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T05:56:43.38829+00:00
 -- url     : https://prove2.me/submissions/85aa1f4a-a041-4e63-933d-2b2a02821b2b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
 import Definitions.Def_AvramDividend_Classical_ScaleFunction

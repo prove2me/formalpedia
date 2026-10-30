@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_ncard_triangulation_job9e56ac28_v2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-29T04:04:30.578991+00:00
 -- url     : https://prove2.me/submissions/320c72ab-e1b2-4202-853e-c5f449abf9b8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Theorems.Thm_WilliamsonShmoys_planar_simple_edge_count_upper_bound__p2m_4e1da140_2dc1_48aa_a5de_903746e6acda_a7

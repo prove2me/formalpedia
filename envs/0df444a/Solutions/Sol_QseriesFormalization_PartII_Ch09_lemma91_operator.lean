@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch09.lemma91_operator
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:32:00.183872+00:00
 -- url     : https://prove2.me/submissions/55c25e8c-c506-4856-96a0-b186c854f9ba
 

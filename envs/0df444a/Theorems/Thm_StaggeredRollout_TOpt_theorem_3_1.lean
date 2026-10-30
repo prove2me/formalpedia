@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaggeredRollout_TOpt_theorem_3_1
 -- name    : StaggeredRollout.TOpt.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:59:38.496557+00:00
 -- url     : https://prove2.me/theorems/ea0ff415-a94f-4696-b164-d0e6f490bcb4

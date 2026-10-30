@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurCampaign.no_order_eleven
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:39:17.417474+00:00
 -- url     : https://prove2.me/submissions/efadea24-e229-4229-8793-784a8ab217e3
 

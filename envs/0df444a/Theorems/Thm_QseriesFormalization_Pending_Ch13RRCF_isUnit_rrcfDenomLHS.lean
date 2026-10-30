@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch13RRCF_isUnit_rrcfDenomLHS
 -- name    : QseriesFormalization.Pending.Ch13RRCF.isUnit_rrcfDenomLHS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:07:51.145062+00:00
 -- url     : https://prove2.me/theorems/c95746da-e05e-4357-9ceb-328031f1583c
 -- title:

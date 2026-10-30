@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_connected_euler_face_bound
 -- name    : WilliamsonShmoys.planar_connected_euler_face_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T01:14:24.924928+00:00
 -- url     : https://prove2.me/theorems/b06d3ee5-790d-46a7-ad1f-7d1c9d220177

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_killed_firstRecord_initial_discount_scale_lower
 -- name    : AvramDividend.Classical.killed_firstRecord_initial_discount_scale_lower
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T15:28:29.037161+00:00
 -- url     : https://prove2.me/theorems/44f0919f-2032-40e1-8182-37adb60a402a

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIII.Ch14Thm116.coeff_zero_qPochAPPS_complex
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:52:10.573137+00:00
 -- url     : https://prove2.me/submissions/f1b39f9e-bda0-44ff-afbe-5f2e4d7d1245
 

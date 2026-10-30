@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_normShellBox_sum_gaussK_eq_gaussH_of_t0
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.normShellBox_sum_gaussK_eq_gaussH_of_t0
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:15:31.685965+00:00
 -- url     : https://prove2.me/theorems/f8a1d25f-df1f-47ad-a785-13d98bc391af
 -- title:

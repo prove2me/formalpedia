@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_syracuse_uniform_descent_of_descent
 -- name    : CollatzFrontier.syracuse_uniform_descent_of_descent
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:25:00.42385+00:00
 -- url     : https://prove2.me/theorems/7e2abde1-c1a6-4d11-b023-05fa24e4fd06
 -- title:

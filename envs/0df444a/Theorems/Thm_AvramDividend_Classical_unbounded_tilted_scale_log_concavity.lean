@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_tilted_scale_log_concavity
 -- name    : AvramDividend.Classical.unbounded_tilted_scale_log_concavity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T23:54:27.393994+00:00
 -- url     : https://prove2.me/theorems/0aa170e8-3557-48df-893e-a2015627238e

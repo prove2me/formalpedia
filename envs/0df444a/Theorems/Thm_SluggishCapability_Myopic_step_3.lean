@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SluggishCapability_Myopic_step_3
 -- name    : SluggishCapability.Myopic.step_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:48.93516+00:00
 -- url     : https://prove2.me/theorems/f5d3f991-2f9d-4ae6-b6e0-9bf1d2d0f0b7

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanLostNotebook_PartV_letter_f3_bounded_a
 -- name    : RamanujanLostNotebook.PartV.letter_f3_bounded_a
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T18:11:57.60922+00:00
 -- url     : https://prove2.me/theorems/90efd028-b9c6-40bc-9675-6de1e5659c57
 -- title:

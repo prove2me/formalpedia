@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_eventual_descent_iff_certificate
 -- name    : CollatzFrontier.eventual_descent_iff_certificate
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:58:25.599828+00:00
 -- url     : https://prove2.me/theorems/63797e2f-629c-4467-a3d0-fa25ea7d184c
 -- title:

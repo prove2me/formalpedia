@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgRewardPMD_SPMD_three_point
 -- name    : AvgRewardPMD.SPMD.three_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:08.226751+00:00
 -- url     : https://prove2.me/theorems/a630f7a2-9764-445b-95ea-52b2285887a3

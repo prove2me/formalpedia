@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicMumfordTransport_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicMumfordTransport_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:02:38.169261+00:00
 -- url     : https://prove2.me/theorems/117bdda8-37e0-476c-9caa-3a2d4f131094
 -- title:

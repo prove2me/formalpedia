@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpreadRationalPointReduction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpreadRationalPointReduction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T19:42:49.938755+00:00
 -- url     : https://prove2.me/theorems/8ad2c14b-f708-40bb-afd9-6b51fd6c2d6d
 -- title:

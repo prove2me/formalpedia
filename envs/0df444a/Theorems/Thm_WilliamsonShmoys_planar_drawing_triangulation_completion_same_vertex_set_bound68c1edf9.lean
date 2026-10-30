@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_completion_same_vertex_set_bound68c1edf9
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_completion_same_vertex_set_bound68c1edf9
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T07:03:55.639304+00:00
 -- url     : https://prove2.me/theorems/437ae037-6315-4598-a71b-f3c87f44dd3b

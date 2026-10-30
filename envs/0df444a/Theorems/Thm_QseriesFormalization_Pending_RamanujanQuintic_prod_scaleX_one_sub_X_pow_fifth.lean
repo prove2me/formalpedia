@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuintic_prod_scaleX_one_sub_X_pow_fifth
 -- name    : QseriesFormalization.Pending.RamanujanQuintic.prod_scaleX_one_sub_X_pow_fifth
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:47:31.342058+00:00
 -- url     : https://prove2.me/theorems/90d4afe0-31ca-4445-8db2-ca4f321527f3
 -- title:

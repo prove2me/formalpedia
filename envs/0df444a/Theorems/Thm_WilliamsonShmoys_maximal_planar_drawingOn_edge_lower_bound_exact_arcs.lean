@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawingOn_edge_lower_bound_exact_arcs
 -- name    : WilliamsonShmoys.maximal_planar_drawingOn_edge_lower_bound_exact_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:10:15.613282+00:00
 -- url     : https://prove2.me/theorems/534a7c2b-92cb-487c-be70-82df334072d1

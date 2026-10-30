@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13NormalizedHermiteResidual_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13NormalizedHermiteResidual_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T02:55:02.391853+00:00
 -- url     : https://prove2.me/theorems/74d34f69-7595-4b6e-afe8-dd616495b1a8
 -- title:

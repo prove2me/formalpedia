@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.jacobiIdentity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:08:58.615086+00:00
 -- url     : https://prove2.me/submissions/b1771143-a309-4ce3-bb6e-4d34a47a59d3
 

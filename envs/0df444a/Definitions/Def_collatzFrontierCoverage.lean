@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_collatzFrontierCoverage
 -- name    : collatzFrontierCoverage
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:57:58.779976+00:00
 -- url     : https://prove2.me/theorems/2893e840-c968-4ddc-87e4-ff84708a000a
 -- title:

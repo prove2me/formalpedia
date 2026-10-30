@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_negJTPSummand_Qpow
 -- name    : QseriesFormalization.Ch10TwoVar.negJTPSummand_Qpow
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:02:19.738511+00:00
 -- url     : https://prove2.me/theorems/86b4e1b9-2164-47f8-8a94-7be936431a1f
 -- title:

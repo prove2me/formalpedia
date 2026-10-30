@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JordanCurve_two_components_from_arc_complement
 -- name    : JordanCurve.two_components_from_arc_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-09-25T00:29:21.126019+00:00
 -- url     : https://prove2.me/theorems/df3e625b-5091-4593-92fe-1c0dabf6d20c

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralHermiteNumerator_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralHermiteNumerator_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T01:56:05.733289+00:00
 -- url     : https://prove2.me/theorems/f53abbec-3866-4665-ba1d-1b4162f7a9a1
 -- title:

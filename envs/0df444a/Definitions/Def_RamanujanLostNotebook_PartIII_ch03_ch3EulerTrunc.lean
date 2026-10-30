@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch03_ch3EulerTrunc
 -- name    : RamanujanLostNotebook_PartIII_ch03_ch3EulerTrunc
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T09:01:15.428991+00:00
 -- url     : https://prove2.me/theorems/c832eebc-6349-4976-aa1e-e25e71966f74
 -- title:

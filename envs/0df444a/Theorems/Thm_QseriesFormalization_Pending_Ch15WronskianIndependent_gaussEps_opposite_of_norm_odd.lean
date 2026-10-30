@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_gaussEps_opposite_of_norm_odd
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.gaussEps_opposite_of_norm_odd
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:11:41.885266+00:00
 -- url     : https://prove2.me/theorems/6f5dddb7-2295-4e52-965c-e952aabf7f80
 -- title:

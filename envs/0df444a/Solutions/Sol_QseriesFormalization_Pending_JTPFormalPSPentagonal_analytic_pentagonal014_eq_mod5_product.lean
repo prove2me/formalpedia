@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.analytic_pentagonal014_eq_mod5_product
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:40:39.483917+00:00
 -- url     : https://prove2.me/submissions/b15f0096-7463-43a7-a711-2ce8c85eefb5
 

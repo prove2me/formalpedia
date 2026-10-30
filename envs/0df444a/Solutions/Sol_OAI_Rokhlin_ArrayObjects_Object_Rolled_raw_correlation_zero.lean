@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Rokhlin.ArrayObjects.Object.Rolled.raw_correlation_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-26T07:08:30.942363+00:00
 -- url     : https://prove2.me/submissions/0303957b-023d-40c7-969c-547f5251299e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ3Ro002

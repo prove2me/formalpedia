@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_dense_completion__p2m_a1bc3295_288e_4dac_b293_e5c76a636381_a1
 -- name    : WilliamsonShmoys.planar_graph_has_dense_completion__p2m_a1bc3295_288e_4dac_b293_e5c76a636381_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T22:21:54.537774+00:00
 -- url     : https://prove2.me/theorems/5479ae8d-caff-4270-918d-e124546166f7

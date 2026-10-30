@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaggeredRollout_TOpt_omega_star_minimizes_f1
 -- name    : StaggeredRollout.TOpt.omega_star_minimizes_f1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T04:00:21.278301+00:00
 -- url     : https://prove2.me/theorems/51fab7f0-e6ec-4049-bd53-29befa289110

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_has_euler_triangular_face_counts__p2m_218cb22b_5a70_4242_ad72_2387eb96d6df_a1
 -- name    : WilliamsonShmoys.maximal_planar_drawing_has_euler_triangular_face_counts__p2m_218cb22b_5a70_4242_ad72_2387eb96d6df_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:40:43.998654+00:00
 -- url     : https://prove2.me/theorems/15d9d9e3-06da-4cda-a49a-4bfa4d6bbf59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_count_euler_20261027
 -- name    : WilliamsonShmoys.maximal_drawable_edge_count_euler_20261027
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:07:54.586984+00:00
 -- url     : https://prove2.me/theorems/1e52d5d6-6b79-46ff-829f-42b3b7201237

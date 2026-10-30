@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_pentagonalWronskianCoeff_eq_expanded
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.pentagonalWronskianCoeff_eq_expanded
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:18:29.896691+00:00
 -- url     : https://prove2.me/theorems/7c8d72c6-b459-42c4-9e44-69456d227a9a
 -- title:

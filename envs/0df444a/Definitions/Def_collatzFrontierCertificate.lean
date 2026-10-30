@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_collatzFrontierCertificate
 -- name    : collatzFrontierCertificate
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:35:52.689973+00:00
 -- url     : https://prove2.me/theorems/32ce78a2-88bc-451d-bc8d-dd6ca0963e5c
 -- title:

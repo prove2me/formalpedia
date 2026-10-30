@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_jacobiTripleSign_nonzero_mod_7_residue
 -- name    : QseriesFormalization.PartIV.Ch17.jacobiTripleSign_nonzero_mod_7_residue
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:34:56.55434+00:00
 -- url     : https://prove2.me/theorems/dc5bf52b-5d16-457e-a88e-e75b0e2873ce
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_same_vertex_edge_bound_of_planar_drawing
 -- name    : WilliamsonShmoys.same_vertex_edge_bound_of_planar_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:23:39.598251+00:00
 -- url     : https://prove2.me/theorems/c3e7ef2c-f13a-4fc1-98cd-88c2a8ff08b1

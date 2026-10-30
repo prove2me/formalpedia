@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_has_exact_edge_count_from_planarity
 -- name    : WilliamsonShmoys.maximal_drawable_graph_has_exact_edge_count_from_planarity
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:07:04.321042+00:00
 -- url     : https://prove2.me/theorems/842a865e-2025-4300-a57b-a10fa2e8f60a

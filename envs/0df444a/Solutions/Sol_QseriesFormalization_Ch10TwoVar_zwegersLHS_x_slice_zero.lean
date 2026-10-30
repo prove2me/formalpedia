@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.zwegersLHS_x_slice_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:47:04.255426+00:00
 -- url     : https://prove2.me/submissions/d2352cf0-0d3c-49ba-9b57-b18417abae85
 

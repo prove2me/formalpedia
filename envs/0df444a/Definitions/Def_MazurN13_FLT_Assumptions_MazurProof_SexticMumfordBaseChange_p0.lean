@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_SexticMumfordBaseChange_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_SexticMumfordBaseChange_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:23:10.420909+00:00
 -- url     : https://prove2.me/theorems/b25f3aae-e336-4a59-a324-4cfb90acedb7
 -- title:

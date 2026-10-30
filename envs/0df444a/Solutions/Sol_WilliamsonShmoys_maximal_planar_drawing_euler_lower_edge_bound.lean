@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_drawing_euler_lower_edge_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:24:38.469024+00:00
 -- url     : https://prove2.me/submissions/c32183a0-0037-4580-b368-ad6df734af4e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_exists_planar_supergraph_with_triangulation_edge_count
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

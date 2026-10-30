@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_planar_connected_completion__p2m_ae0a4a79_a73d_4cfa_8a9e_24a09f20fefd_a2
 -- name    : WilliamsonShmoys.finite_planar_connected_completion__p2m_ae0a4a79_a73d_4cfa_8a9e_24a09f20fefd_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T22:36:24.211741+00:00
 -- url     : https://prove2.me/theorems/00d84506-131e-4af5-b179-a5b238d43337

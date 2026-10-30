@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_sliceSub_coeff_eq
 -- name    : QseriesFormalization.Ch10TwoVar.sliceSub_coeff_eq
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:05:47.466959+00:00
 -- url     : https://prove2.me/theorems/032e2b15-4168-4c41-8c57-48cc8ce9ae01
 -- title:

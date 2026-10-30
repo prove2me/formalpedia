@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIV_ch11_primeTheta
 -- name    : RamanujanLostNotebook_PartIV_ch11_primeTheta
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T14:26:46.187543+00:00
 -- url     : https://prove2.me/theorems/5a62a471-15c9-4164-bf16-24f7b378c41d
 -- title:

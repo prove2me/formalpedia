@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_local_pieces_from_boundary_solvers
 -- name    : EthierKurtz.oblique_local_pieces_from_boundary_solvers
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:10:46.743888+00:00
 -- url     : https://prove2.me/theorems/9f0c7027-f3b1-439e-995a-d07a96846b43

@@ -1,10 +1,8 @@
 -- Prove2me | solution 8 for AvramDividend.Classical.unbounded_esscher_ratio_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-27T21:13:48.766816+00:00
 -- url     : https://prove2.me/submissions/54cdb698-8491-4b29-b2f3-ccd6b2f45082
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_Preparation_FractionalRefinement_scan_spec
 -- name    : OAI.MetricKMedian.Preparation.FractionalRefinement.scan_spec
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:38:00.167726+00:00
 -- url     : https://prove2.me/theorems/0895c648-132f-4abd-812d-17baae2d97a8

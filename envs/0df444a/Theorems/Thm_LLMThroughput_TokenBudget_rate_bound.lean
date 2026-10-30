@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLMThroughput_TokenBudget_rate_bound
 -- name    : LLMThroughput.TokenBudget.rate_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:29.178365+00:00
 -- url     : https://prove2.me/theorems/eac3ef89-0c36-4e7b-a2ca-f802720a8ec9

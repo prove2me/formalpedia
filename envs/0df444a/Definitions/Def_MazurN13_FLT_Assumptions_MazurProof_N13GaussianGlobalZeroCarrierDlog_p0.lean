@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianGlobalZeroCarrierDlog_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianGlobalZeroCarrierDlog_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:28:00.406323+00:00
 -- url     : https://prove2.me/theorems/2c0bb7b2-481c-491f-bdc7-a0e812e94892
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.jacobiOrbitPoint_fullShellInverse
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:13:07.279628+00:00
 -- url     : https://prove2.me/submissions/422b0d42-9631-4653-add7-27e4954c0ca9
 

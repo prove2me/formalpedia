@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.tendsto_gBz_center_schurBottomH
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:03:51.711346+00:00
 -- url     : https://prove2.me/submissions/1661481b-1000-4ea6-a156-dfbabd263ea4
 

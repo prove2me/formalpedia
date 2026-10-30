@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HaircutRate_Downside_marginal_value_strictMono
 -- name    : HaircutRate.Downside.marginal_value_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:57:25.562768+00:00
 -- url     : https://prove2.me/theorems/b90577e4-9f65-407c-80f4-d09e1a03a8f3

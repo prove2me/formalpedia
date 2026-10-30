@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_no_minus_pentagonal_eq_plus_pentagonal
 -- name    : QseriesFormalization.PartIV.Ch19.no_minus_pentagonal_eq_plus_pentagonal
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:56:44.373103+00:00
 -- url     : https://prove2.me/theorems/4c65486f-cae7-4481-8a50-4b693768358e
 -- title:

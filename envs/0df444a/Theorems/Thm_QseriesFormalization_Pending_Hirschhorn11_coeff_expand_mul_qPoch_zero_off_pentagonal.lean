@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_coeff_expand_mul_qPoch_zero_off_pentagonal
 -- name    : QseriesFormalization.Pending.Hirschhorn11.coeff_expand_mul_qPoch_zero_off_pentagonal
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:31:51.151989+00:00
 -- url     : https://prove2.me/theorems/d583c108-8192-4393-b114-6e298c804b68
 -- title:

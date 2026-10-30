@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MumfordFullKummerTwoSurjective_p2
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MumfordFullKummerTwoSurjective_p2
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T17:30:10.658045+00:00
 -- url     : https://prove2.me/theorems/fc13ed9e-cf52-409e-82dd-f2e3d6e60aba
 -- title:

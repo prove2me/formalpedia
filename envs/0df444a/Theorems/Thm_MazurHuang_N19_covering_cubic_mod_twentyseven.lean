@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_covering_cubic_mod_twentyseven
 -- name    : MazurHuang.N19.covering_cubic_mod_twentyseven
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:07.320073+00:00
 -- url     : https://prove2.me/theorems/e342bcb1-678d-46c2-aa22-2ab8eb847c1e
 -- title:

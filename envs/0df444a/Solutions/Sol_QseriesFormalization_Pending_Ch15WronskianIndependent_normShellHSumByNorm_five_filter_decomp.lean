@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.normShellHSumByNorm_five_filter_decomp
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:13:50.568867+00:00
 -- url     : https://prove2.me/submissions/f57af856-4006-4e91-8c83-da8d5319f98d
 

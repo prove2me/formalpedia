@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.isRes_mul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:37:22.777486+00:00
 -- url     : https://prove2.me/submissions/d4991818-f9d1-445f-8412-764eedbc00cf
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_triangulation_for_edge_bound_5164bdb5_maximal_edge_count
 -- name    : WilliamsonShmoys.planar_supergraph_triangulation_for_edge_bound_5164bdb5_maximal_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:30:35.054188+00:00
 -- url     : https://prove2.me/theorems/06b37cfb-5289-4772-9a3d-e9de9d552633

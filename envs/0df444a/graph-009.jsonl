@@ -632,7 +632,6 @@
 {"parent": "MIPRE.Cost.encode_injective", "child": "MIPRE_Foundations_Cost_Basic_B", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.encode_injective", "child": "MIPRE_Foundations_Cost_Encoding_B", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group365_part05", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "DynOpaque.TwoPeriod.lemma_4_corrected", "child": "DynOpaque_TwoPeriod_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P16.unitalStabilizable_criteria", "child": "QAlgorithms_Papers_Independent_Dependency50_P16", "via": ["statement"]}
 {"parent": "UniformPatrol.Star.start_decomposition", "child": "UniformPatrol_Star_Model", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group266_part06", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
@@ -13670,7 +13669,6 @@
 {"parent": "dusart_mesh_upper_group146", "child": "dusart_mesh_upper_group146_part07", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group146", "child": "dusart_mesh_upper_group146_part06", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group146", "child": "dusart_mesh_upper_group146_part09", "via": ["statement"]}
-{"parent": "NetworkedMarkets.Relaxation.lemma_EC_1_ii", "child": "NetworkedMarkets_Relaxation_Setting", "via": ["statement"]}
 {"parent": "MIPRE_Foundations_Introspection_EPR", "child": "MIPRE_Foundations_WeylEPR", "via": ["statement"]}
 {"parent": "MIPRE_Foundations_Introspection_EPR", "child": "MIPRE_Foundations_Distances", "via": ["statement"]}
 {"parent": "MIPRE_Foundations_Introspection_EPR", "child": "MIPRE_Foundations_Games", "via": ["statement"]}
@@ -16571,7 +16569,6 @@
 {"parent": "OAI.ThresholdParallelRepetition.MixedExposure.step_right", "child": "OAI_Probability_EntangledGames_Resolvent", "via": ["solution", "statement"]}
 {"parent": "OAI.ThresholdParallelRepetition.MixedExposure.step_right", "child": "OAI_Probability_EntangledGames_SamplingStrategy", "via": ["solution", "statement"]}
 {"parent": "OAI.ThresholdParallelRepetition.MixedExposure.step_right", "child": "OAI_Probability_EntangledGames_CoherentFilters", "via": ["solution", "statement"]}
-{"parent": "NetworkedMarkets.Relaxation.proposition_EC_1_iii", "child": "NetworkedMarkets_Relaxation_Setting", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.CookLevin.Desc.windowPred_iff", "child": "MIPRE_TM_CookLevin_Families", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.CookLevin.Desc.windowPred_iff", "child": "MIPRE_Foundations_SAT_Circuit", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.CookLevin.Desc.windowPred_iff", "child": "MIPRE_Foundations_Cost_Loops_B", "via": ["solution", "statement"]}
@@ -28748,7 +28745,6 @@
 {"parent": "actuarial_d_blocked_reversion_occupation", "child": "actuarial_d_onlyY", "via": ["solution", "statement"]}
 {"parent": "actuarial_d_blocked_reversion_occupation", "child": "actuarial_d_delayedSpouse", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group455_part04", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "CallNoCall.OneDir.theorem_4", "child": "CallNoCall_OneDir_Setting", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group516_part02", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "MIPRE.Cost.Prog.pairTakeProg_runs", "child": "MIPRE_Foundations_Halting_Lists", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Prog.pairTakeProg_runs", "child": "MIPRE_Foundations_Cost_Encoding_B", "via": ["solution", "statement"]}
@@ -42228,7 +42224,6 @@
 {"parent": "MIPStarRE.LDT.MainInductionStep.answerLdPastingInInductionError_le_mainInductionError_of_smallError", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_LowRank", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.MainInductionStep.answerLdPastingInInductionError_le_mainInductionError_of_smallError", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomialEmbedding", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.MainInductionStep.answerLdPastingInInductionError_le_mainInductionError_of_smallError", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Terms", "via": ["solution", "statement"]}
-{"parent": "CloudMWU.Bicriteria.lemma_1", "child": "CloudMWU_Bicriteria_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.MatrixTranslationBounds.rowScalar_factor_bound", "child": "OAI_NumberTheory_PiExponent_Analysis_AnalyticAggregate_RemainderData", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.MatrixTranslationBounds.rowScalar_factor_bound", "child": "OAI_NumberTheory_PiExponent_Analysis_LiteralAnalyticSummand_InterfaceData", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.MatrixTranslationBounds.rowScalar_factor_bound", "child": "OAI_NumberTheory_PiExponent_Approximation_RowTranslation_CoreData", "via": ["solution", "statement"]}
@@ -50424,19 +50419,11 @@
 {"parent": "StochFictPlay.Potential.lemmaA4_nondegenerate", "child": "StochFictPlay_Potential_Dynamics", "via": ["solution"]}
 {"parent": "StochFictPlay.Potential.lemmaA4_nondegenerate", "child": "StochFictPlay_Potential_PotentialGame", "via": ["solution"]}
 {"parent": "TongString.virasoro_shapiro_integral", "child": "TongString.vs_integral_beta_form", "via": ["solution"]}
-{"parent": "WangKangXue.SpectralTuran.lemma_3_10", "child": "WangKangXue.SpectralTuran.lemma_3_1", "via": ["solution"]}
-{"parent": "WangKangXue.SpectralTuran.lemma_3_10", "child": "WangKangXue.SpectralTuran.lemma_3_8", "via": ["solution"]}
-{"parent": "WangKangXue.SpectralTuran.lemma_3_10", "child": "WangKangXue.SpectralTuran.lemma_3_7", "via": ["solution"]}
-{"parent": "WangKangXue.SpectralTuran.lemma_3_10", "child": "WangKangXue_SpectralTuran_edgesIn", "via": ["solution"]}
-{"parent": "WangKangXue.SpectralTuran.lemma_3_10", "child": "WangKangXue.SpectralTuran.lemma_3_9", "via": ["solution"]}
 {"parent": "WangKangXue.SpectralTuran.lemma_3_3", "child": "WangKangXue.SpectralTuran.corollary_2_6", "via": ["solution"]}
 {"parent": "WangKangXue.SpectralTuran.lemma_3_6", "child": "WangKangXue.SpectralTuran.lemma_3_3", "via": ["solution"]}
 {"parent": "WangKangXue.SpectralTuran.lemma_3_6", "child": "WangKangXue.SpectralTuran.lemma_3_1", "via": ["solution"]}
 {"parent": "WangKangXue.SpectralTuran.lemma_3_7", "child": "WangKangXue_SpectralTuran_edgesIn", "via": ["solution"]}
 {"parent": "WangKangXue.SpectralTuran.lemma_3_7", "child": "WangKangXue.SpectralTuran.lemma_3_6", "via": ["solution"]}
-{"parent": "WangKangXue.SpectralTuran.lemma_3_8", "child": "WangKangXue_SpectralTuran_IsMaxCut", "via": ["solution"]}
-{"parent": "WangKangXue.SpectralTuran.lemma_3_8", "child": "WangKangXue_SpectralTuran_edgesIn", "via": ["solution"]}
-{"parent": "WangKangXue.SpectralTuran.lemma_3_8", "child": "WangKangXue.SpectralTuran.lemma_3_6", "via": ["solution"]}
 {"parent": "WangKangXue.SpectralTuran.lemma_3_9", "child": "WangKangXue.SpectralTuran.lemma_3_6", "via": ["solution"]}
 {"parent": "WittenAdSHolography.massive_dirichlet_problem", "child": "WittenAdSHolography.kernel_approx_identity", "via": ["solution"]}
 {"parent": "WittenAdSHolography.massive_dirichlet_problem", "child": "WittenAdSHolography.bulkKernel_solution", "via": ["solution"]}

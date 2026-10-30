@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.connected_planar_drawing_triangulation_edge_count_maximal
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:28:24.912618+00:00
 -- url     : https://prove2.me/submissions/610d2f89-59b2-43db-bf07-6339b185cdaf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_count_upper_bound_maximal_target
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_lower_bound_target

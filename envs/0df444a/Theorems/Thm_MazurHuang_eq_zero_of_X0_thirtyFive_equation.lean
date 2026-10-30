@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_eq_zero_of_X0_thirtyFive_equation
 -- name    : MazurHuang.eq_zero_of_X0_thirtyFive_equation
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:54.811433+00:00
 -- url     : https://prove2.me/theorems/330252c3-7ab1-4646-9a54-abc87dcbf5fe
 -- title:

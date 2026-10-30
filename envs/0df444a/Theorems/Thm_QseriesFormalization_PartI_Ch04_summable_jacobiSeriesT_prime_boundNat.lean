@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_summable_jacobiSeriesT_prime_boundNat
 -- name    : QseriesFormalization.PartI.Ch04.summable_jacobiSeriesT_prime_boundNat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:33:09.486469+00:00
 -- url     : https://prove2.me/theorems/025c7102-f996-434c-9ff2-5ea04fc379e2
 -- title:

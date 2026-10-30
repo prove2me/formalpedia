@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_subgraph_edge_bound_of_connected_planar_supergraph
 -- name    : WilliamsonShmoys.planar_subgraph_edge_bound_of_connected_planar_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T21:14:08.735682+00:00
 -- url     : https://prove2.me/theorems/61ca263b-415e-46d9-a83e-57fd1a8a1974

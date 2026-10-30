@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_edge_augmentation_for_maximal_face_decomposition_6274f47d
 -- name    : WilliamsonShmoys.planar_graph_edge_augmentation_for_maximal_face_decomposition_6274f47d
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T07:37:10.286165+00:00
 -- url     : https://prove2.me/theorems/9bfcd617-f846-4378-a6d8-859a6c446614

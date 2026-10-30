@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_same_vertex_planar_extension_lower_bound
 -- name    : WilliamsonShmoys.same_vertex_planar_extension_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:24:02.597149+00:00
 -- url     : https://prove2.me/theorems/461941b6-8dbe-4844-a709-3e81d4ca08ca

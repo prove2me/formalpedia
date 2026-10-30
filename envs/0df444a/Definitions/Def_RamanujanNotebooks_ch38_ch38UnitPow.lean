@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch38_ch38UnitPow
 -- name    : RamanujanNotebooks_ch38_ch38UnitPow
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T08:50:28.562128+00:00
 -- url     : https://prove2.me/theorems/c296c4a7-e755-42e8-b07e-9ef0688f145e
 -- title:

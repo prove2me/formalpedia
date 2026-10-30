@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.JSum_eq_qPochInfPS_cube
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:57:24.547785+00:00
 -- url     : https://prove2.me/submissions/af61df9c-b792-4f07-ada4-c1b9eee903ee
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianSignature_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianSignature_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:16:48.279107+00:00
 -- url     : https://prove2.me/theorems/23bc0dba-d9cc-46b1-8e9c-acdc7949a4b5
 -- title:

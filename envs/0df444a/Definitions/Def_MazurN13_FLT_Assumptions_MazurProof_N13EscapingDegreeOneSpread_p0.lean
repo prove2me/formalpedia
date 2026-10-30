@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13EscapingDegreeOneSpread_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13EscapingDegreeOneSpread_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T20:38:20.078481+00:00
 -- url     : https://prove2.me/theorems/f769256a-db8a-42fa-97f1-b01b56da1cb2
 -- title:

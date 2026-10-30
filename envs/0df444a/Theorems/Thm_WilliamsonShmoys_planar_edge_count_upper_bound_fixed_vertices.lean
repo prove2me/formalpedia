@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_fixed_vertices
 -- name    : WilliamsonShmoys.planar_edge_count_upper_bound_fixed_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:23:17.499151+00:00
 -- url     : https://prove2.me/theorems/adb299c8-4e48-42ff-8cc3-e2dc6a62d1dd

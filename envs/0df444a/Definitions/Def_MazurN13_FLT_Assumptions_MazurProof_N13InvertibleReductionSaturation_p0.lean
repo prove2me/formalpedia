@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13InvertibleReductionSaturation_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13InvertibleReductionSaturation_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:29:48.570624+00:00
 -- url     : https://prove2.me/theorems/1ef7edb6-02d0-446e-902d-7a921680db09
 -- title:

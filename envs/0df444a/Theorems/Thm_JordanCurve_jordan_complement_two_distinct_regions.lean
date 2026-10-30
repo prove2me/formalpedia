@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JordanCurve_jordan_complement_two_distinct_regions
 -- name    : JordanCurve.jordan_complement_two_distinct_regions
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-09-25T00:36:38.019615+00:00
 -- url     : https://prove2.me/theorems/9aeb3c4c-2d87-444f-8c88-7c4d496fccdd

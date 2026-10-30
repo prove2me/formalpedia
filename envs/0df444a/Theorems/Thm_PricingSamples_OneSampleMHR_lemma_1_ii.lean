@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingSamples_OneSampleMHR_lemma_1_ii
 -- name    : PricingSamples.OneSampleMHR.lemma_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:06.453442+00:00
 -- url     : https://prove2.me/theorems/81ba21cb-71d5-46d4-a225-8a4ce028b21b

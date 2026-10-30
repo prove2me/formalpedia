@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_DefCoreQSeries
 -- name    : QseriesFormalization_DefCoreQSeries
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:23:24.493986+00:00
 -- url     : https://prove2.me/theorems/bfb9420b-364d-4567-ac9a-aa6cb5379ac4
 -- title:

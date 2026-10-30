@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_prodFamSub_term_coeff
 -- name    : QseriesFormalization.Ch10TwoVar.prodFamSub_term_coeff
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:03:28.219318+00:00
 -- url     : https://prove2.me/theorems/b3a9fdcc-dcb5-437f-ba9a-febb40b5586e
 -- title:

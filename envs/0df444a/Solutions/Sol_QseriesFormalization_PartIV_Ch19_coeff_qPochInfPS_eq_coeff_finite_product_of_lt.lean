@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.coeff_qPochInfPS_eq_coeff_finite_product_of_lt
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:36:37.867127+00:00
 -- url     : https://prove2.me/submissions/bb7f920b-aaab-469e-a0f7-fcabcbfa84b1
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_good_dual_forward_vertical_coordinate
 -- name    : MazurHuang.N19.good_dual_forward_vertical_coordinate
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:49.422418+00:00
 -- url     : https://prove2.me/theorems/f2c1d152-ff68-48c1-bc2b-2917c6d571c3
 -- title:

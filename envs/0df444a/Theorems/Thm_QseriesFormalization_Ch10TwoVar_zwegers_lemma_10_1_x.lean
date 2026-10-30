@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_zwegers_lemma_10_1_x
 -- name    : QseriesFormalization.Ch10TwoVar.zwegers_lemma_10_1_x
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:10:07.66577+00:00
 -- url     : https://prove2.me/theorems/45627c7a-25ad-41a2-886c-7a95533723eb
 -- title:

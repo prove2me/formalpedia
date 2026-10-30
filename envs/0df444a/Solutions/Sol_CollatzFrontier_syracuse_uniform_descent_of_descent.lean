@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.syracuse_uniform_descent_of_descent
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:26:43.199353+00:00
 -- url     : https://prove2.me/submissions/fdd6643e-8bf1-42a6-ae03-84197778da2c
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxSpectralRisk_Duality_proposition_1
 -- name    : MaxSpectralRisk.Duality.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:26.119082+00:00
 -- url     : https://prove2.me/theorems/07347080-077b-485b-8f38-fefb3b2bb084

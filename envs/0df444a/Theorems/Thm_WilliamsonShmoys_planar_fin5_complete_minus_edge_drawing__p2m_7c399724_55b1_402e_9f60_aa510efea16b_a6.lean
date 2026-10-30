@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_fin5_complete_minus_edge_drawing__p2m_7c399724_55b1_402e_9f60_aa510efea16b_a6
 -- name    : WilliamsonShmoys.planar_fin5_complete_minus_edge_drawing__p2m_7c399724_55b1_402e_9f60_aa510efea16b_a6
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T03:06:15.791548+00:00
 -- url     : https://prove2.me/theorems/50cd08a9-fdd4-40bc-afbc-34df935162eb

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch13RRCF.coeff_zero_rrcf_v_eq_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:32:26.362133+00:00
 -- url     : https://prove2.me/submissions/e027f52c-b53b-474f-99a8-8a1f2ff0a5da
 

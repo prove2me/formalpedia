@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragileBandit_CauchyTail_markov_tail_bound
 -- name    : FragileBandit.CauchyTail.markov_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:44.266667+00:00
 -- url     : https://prove2.me/theorems/221e574d-ba0c-4d6c-bbcc-2a348d95d199

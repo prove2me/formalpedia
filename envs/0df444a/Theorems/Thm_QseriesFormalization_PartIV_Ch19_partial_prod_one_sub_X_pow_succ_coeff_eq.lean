@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_partial_prod_one_sub_X_pow_succ_coeff_eq
 -- name    : QseriesFormalization.PartIV.Ch19.partial_prod_one_sub_X_pow_succ_coeff_eq
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:57:04.087545+00:00
 -- url     : https://prove2.me/theorems/166cdb75-e00b-4fc1-a56e-93d0b8d736dc
 -- title:

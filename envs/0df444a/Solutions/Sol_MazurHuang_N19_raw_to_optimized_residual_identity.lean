@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.raw_to_optimized_residual_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T19:01:14.784136+00:00
 -- url     : https://prove2.me/submissions/215d38a4-61f8-4511-81ee-e65da8306789
 

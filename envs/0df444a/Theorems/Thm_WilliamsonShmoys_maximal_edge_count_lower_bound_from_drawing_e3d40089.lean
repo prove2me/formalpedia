@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_edge_count_lower_bound_from_drawing_e3d40089
 -- name    : WilliamsonShmoys.maximal_edge_count_lower_bound_from_drawing_e3d40089
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:15:56.825969+00:00
 -- url     : https://prove2.me/theorems/130473eb-c6fb-4e00-afa4-1a853bd46770

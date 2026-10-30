@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_pentagonalProduct023PS_eq_pentagonal023SeriesPS_complex
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.pentagonalProduct023PS_eq_pentagonal023SeriesPS_complex
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:37:56.534494+00:00
 -- url     : https://prove2.me/theorems/52b7f710-2cb2-45af-ba28-82f2c5dc5a64
 -- title:

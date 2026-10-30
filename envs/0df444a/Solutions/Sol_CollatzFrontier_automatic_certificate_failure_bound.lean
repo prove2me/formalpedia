@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.automatic_certificate_failure_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-05T17:56:41.8401+00:00
 -- url     : https://prove2.me/submissions/74904ec6-5e17-457d-bae0-f26281ffe51c
 

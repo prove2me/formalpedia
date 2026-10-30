@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_lcoeff_qPochhammer_mul_gaussian_center_sub_low_int
 -- name    : QseriesFormalization.Pending.Ch10HM.lcoeff_qPochhammer_mul_gaussian_center_sub_low_int
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:50:35.144376+00:00
 -- url     : https://prove2.me/theorems/3a4b77db-96bf-4e8e-8013-99576926241b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TensorSpecialFiber_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TensorSpecialFiber_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:43:56.972988+00:00
 -- url     : https://prove2.me/theorems/a7f84ebc-f1fa-41fe-903b-d5ddf6e2bea6
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.section5_four_E5_sum_pow_four_rat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:54:51.66125+00:00
 -- url     : https://prove2.me/submissions/4d2961ea-9e1d-4f75-adef-492096590a31
 

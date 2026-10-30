@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceSharing_Threshold_lemma_2
 -- name    : MarketplaceSharing.Threshold.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:32:20.957729+00:00
 -- url     : https://prove2.me/theorems/7b858780-df84-4957-a907-bfc7f5e3b8d3

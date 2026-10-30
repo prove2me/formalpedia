@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_drawing_edge_count_6357fee1_f927_4c5b_a160_dca513168a22
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:35:23.358264+00:00
 -- url     : https://prove2.me/submissions/ef49c5f1-b175-44f9-bf44-49a82e737743
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_euler_triangulation_extension_baad2582_408f_4cf5_91c1_4db79dadb6d2
 

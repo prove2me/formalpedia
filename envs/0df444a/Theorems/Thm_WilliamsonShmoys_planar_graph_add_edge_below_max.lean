@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_add_edge_below_max
 -- name    : WilliamsonShmoys.planar_graph_add_edge_below_max
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T20:23:11.764775+00:00
 -- url     : https://prove2.me/theorems/c58be912-27e8-4387-96f7-ac1f50cf37d2

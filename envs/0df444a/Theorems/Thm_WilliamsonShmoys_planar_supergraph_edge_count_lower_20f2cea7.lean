@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_edge_count_lower_20f2cea7
 -- name    : WilliamsonShmoys.planar_supergraph_edge_count_lower_20f2cea7
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:04:30.381771+00:00
 -- url     : https://prove2.me/theorems/8a9ff1ae-13be-4572-be16-f99afb72c239

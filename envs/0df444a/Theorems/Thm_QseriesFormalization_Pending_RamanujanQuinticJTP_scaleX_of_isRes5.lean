@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_scaleX_of_isRes5
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.scaleX_of_isRes5
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:45:47.730575+00:00
 -- url     : https://prove2.me/theorems/1ec94035-fc5e-4e05-95f2-95420f2f1228
 -- title:

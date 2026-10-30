@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_chainCertificate_accepts
 -- name    : CollatzFrontier.chainCertificate_accepts
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:58:17.935992+00:00
 -- url     : https://prove2.me/theorems/a5df2493-ab51-482e-b8d0-e7133123a724
 -- title:

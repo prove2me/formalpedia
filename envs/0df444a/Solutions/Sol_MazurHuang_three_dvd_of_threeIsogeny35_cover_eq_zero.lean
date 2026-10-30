@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.three_dvd_of_threeIsogeny35_cover_eq_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:07:23.561513+00:00
 -- url     : https://prove2.me/submissions/d8f47aad-8f61-4d82-9e6c-a4590d384fd0
 

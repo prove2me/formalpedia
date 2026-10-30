@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_pentagonal023Exp_mem_Icc_of_eq
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.pentagonal023Exp_mem_Icc_of_eq
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:36:16.223182+00:00
 -- url     : https://prove2.me/theorems/c3a72c40-55c4-456d-b479-d6bf1403cfa8
 -- title:

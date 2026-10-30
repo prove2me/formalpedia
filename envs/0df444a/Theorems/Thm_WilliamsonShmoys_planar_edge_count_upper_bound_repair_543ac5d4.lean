@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_repair_543ac5d4
 -- name    : WilliamsonShmoys.planar_edge_count_upper_bound_repair_543ac5d4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:37:41.432899+00:00
 -- url     : https://prove2.me/theorems/094f9761-81cb-4254-a465-084cbfd6a9aa

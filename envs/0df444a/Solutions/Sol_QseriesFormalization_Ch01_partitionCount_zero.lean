@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch01.partitionCount_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:55:23.104866+00:00
 -- url     : https://prove2.me/submissions/c78d894d-53a6-4c5d-a649-bc55ffd50060
 

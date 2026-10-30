@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_count_on_fixed_vertex_type_4156f0d3
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_count_on_fixed_vertex_type_4156f0d3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T08:55:36.584663+00:00
 -- url     : https://prove2.me/theorems/aea3a4e2-bf3e-4b3e-858c-45991cf7934b

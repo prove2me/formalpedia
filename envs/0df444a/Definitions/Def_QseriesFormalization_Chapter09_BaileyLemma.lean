@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter09_BaileyLemma
 -- name    : QseriesFormalization_Chapter09_BaileyLemma
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:26:32.098257+00:00
 -- url     : https://prove2.me/theorems/e9cfd3de-d695-4b1b-94ed-9c5f7b84673c
 -- title:

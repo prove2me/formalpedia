@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.eq_zero_or_eq_neg_four_of_X1_eleven_equation
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:29:28.171316+00:00
 -- url     : https://prove2.me/submissions/89e02c03-8d33-4021-b3c1-b9ca3d786bef
 

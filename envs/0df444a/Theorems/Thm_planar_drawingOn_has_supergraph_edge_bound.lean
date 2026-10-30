@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_drawingOn_has_supergraph_edge_bound
 -- name    : planar_drawingOn_has_supergraph_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:06:16.252127+00:00
 -- url     : https://prove2.me/theorems/e691469b-b4f6-4886-a149-aa66a91db182

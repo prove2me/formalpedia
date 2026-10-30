@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_triangulated_supergraph
 -- name    : WilliamsonShmoys.maximal_planar_triangulated_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T13:07:30.095058+00:00
 -- url     : https://prove2.me/theorems/ac1a1c00-b7f0-45aa-82c1-64875af5decb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_tight_supergraph
 -- name    : WilliamsonShmoys.exists_planar_tight_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:09:25.153167+00:00
 -- url     : https://prove2.me/theorems/454b9bfe-ae40-4745-b185-30d9ca26acee

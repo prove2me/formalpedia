@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_upper_bound_from_drawing_e3d40089
 -- name    : WilliamsonShmoys.edge_count_upper_bound_from_drawing_e3d40089
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:11:32.617992+00:00
 -- url     : https://prove2.me/theorems/820dd98c-2d64-44e2-9707-893186b95c7a

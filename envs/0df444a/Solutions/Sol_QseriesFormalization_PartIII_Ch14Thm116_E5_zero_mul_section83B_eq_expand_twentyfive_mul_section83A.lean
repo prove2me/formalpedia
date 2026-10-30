@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIII.Ch14Thm116.E5_zero_mul_section83B_eq_expand_twentyfive_mul_section83A
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:42:35.556013+00:00
 -- url     : https://prove2.me/submissions/8d38bfa3-c191-4649-839d-63c1efbef3ae
 

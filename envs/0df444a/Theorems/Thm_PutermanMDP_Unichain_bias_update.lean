@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PutermanMDP_Unichain_bias_update
 -- name    : PutermanMDP.Unichain.bias_update
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:32:19.390023+00:00
 -- url     : https://prove2.me/theorems/30b4decd-53ae-48be-9194-db5f48144cc6

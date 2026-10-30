@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankAssort_SimpleLearn_approx_greedy_bound
 -- name    : RankAssort.SimpleLearn.approx_greedy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:57:23.985862+00:00
 -- url     : https://prove2.me/theorems/69050f3b-3ad8-4f36-a123-ee6bdcbc7691

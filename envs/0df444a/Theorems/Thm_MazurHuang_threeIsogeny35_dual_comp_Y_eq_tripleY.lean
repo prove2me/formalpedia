@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_threeIsogeny35_dual_comp_Y_eq_tripleY
 -- name    : MazurHuang.threeIsogeny35_dual_comp_Y_eq_tripleY
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:13.873232+00:00
 -- url     : https://prove2.me/theorems/988d844d-5ca4-4700-9b8f-d948bbf12d0a
 -- title:

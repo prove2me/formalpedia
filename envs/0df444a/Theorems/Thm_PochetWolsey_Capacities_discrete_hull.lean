@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PochetWolsey_Capacities_discrete_hull
 -- name    : PochetWolsey.Capacities.discrete_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:28:01.213098+00:00
 -- url     : https://prove2.me/theorems/fdae2afc-d6fe-47a0-90c5-e8500a1aaa0c

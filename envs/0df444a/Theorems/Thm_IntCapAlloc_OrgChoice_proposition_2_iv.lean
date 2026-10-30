@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntCapAlloc_OrgChoice_proposition_2_iv
 -- name    : IntCapAlloc.OrgChoice.proposition_2_iv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:40:26.089598+00:00
 -- url     : https://prove2.me/theorems/06941f93-d549-4827-9549-866d126103c6

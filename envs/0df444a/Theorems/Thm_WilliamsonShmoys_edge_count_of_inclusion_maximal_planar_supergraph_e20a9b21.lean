@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_of_inclusion_maximal_planar_supergraph_e20a9b21
 -- name    : WilliamsonShmoys.edge_count_of_inclusion_maximal_planar_supergraph_e20a9b21
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T06:45:48.53166+00:00
 -- url     : https://prove2.me/theorems/dc3302e1-84cf-43b8-aa22-2655fb1d265f

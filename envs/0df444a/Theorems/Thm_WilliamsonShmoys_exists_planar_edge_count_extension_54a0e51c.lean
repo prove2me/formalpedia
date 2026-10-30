@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_edge_count_extension_54a0e51c
 -- name    : WilliamsonShmoys.exists_planar_edge_count_extension_54a0e51c
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T12:15:50.564363+00:00
 -- url     : https://prove2.me/theorems/f56d394a-03d3-402d-8d6f-651f25ea859b

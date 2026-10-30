@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_normShellHSumByNorm_inter_filter_reindex_of_five_dvd
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.normShellHSumByNorm_inter_filter_reindex_of_five_dvd
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:16:30.55007+00:00
 -- url     : https://prove2.me/theorems/39a610d0-795d-4a74-a22c-ce9e786d53ff
 -- title:

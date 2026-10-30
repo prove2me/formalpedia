@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.triangulated_supergraph_of_connected_drawing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:03:21.688576+00:00
 -- url     : https://prove2.me/submissions/4d02b3d4-3e74-48a4-865c-a5c4e56cc6d1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

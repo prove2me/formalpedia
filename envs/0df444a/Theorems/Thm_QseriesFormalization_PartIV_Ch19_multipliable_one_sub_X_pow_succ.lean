@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_multipliable_one_sub_X_pow_succ
 -- name    : QseriesFormalization.PartIV.Ch19.multipliable_one_sub_X_pow_succ
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:56:31.897556+00:00
 -- url     : https://prove2.me/theorems/45f0db1d-7b39-48bb-9be6-1ce22d7420a4
 -- title:

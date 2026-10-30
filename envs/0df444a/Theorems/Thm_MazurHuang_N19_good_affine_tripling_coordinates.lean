@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_good_affine_tripling_coordinates
 -- name    : MazurHuang.N19.good_affine_tripling_coordinates
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:23.854454+00:00
 -- url     : https://prove2.me/theorems/4eb76ad4-1662-41ba-8675-bdba9ea2ccb0
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_completion_lower_bound_repair_b095f50e
 -- name    : WilliamsonShmoys.maximal_completion_lower_bound_repair_b095f50e
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T20:25:52.502214+00:00
 -- url     : https://prove2.me/theorems/04a22c47-b2c7-499e-b874-542ef0631830

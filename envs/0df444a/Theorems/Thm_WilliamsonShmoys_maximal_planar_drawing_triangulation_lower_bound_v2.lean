@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_triangulation_lower_bound_v2
 -- name    : WilliamsonShmoys.maximal_planar_drawing_triangulation_lower_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T11:33:28.687162+00:00
 -- url     : https://prove2.me/theorems/eb0d732d-d4fa-4cbb-94d7-ceb6f42a4af4

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_quintupleLogFactor_eq_apSigmaLambertFactor
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.quintupleLogFactor_eq_apSigmaLambertFactor
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:19:41.773674+00:00
 -- url     : https://prove2.me/theorems/73092378-4f90-427d-bb1a-859a2d6b1c0d
 -- title:

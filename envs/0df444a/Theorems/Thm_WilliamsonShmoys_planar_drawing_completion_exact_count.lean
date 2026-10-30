@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_completion_exact_count
 -- name    : WilliamsonShmoys.planar_drawing_completion_exact_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:08:57.653376+00:00
 -- url     : https://prove2.me/theorems/efb0a43e-4e35-40a2-b271-6686b0ab398f

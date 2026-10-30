@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_drawing_has_euler_triangular_face_counts__p2m_218cb22b_5a70_4242_ad72_2387eb96d6df_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:54:32.315501+00:00
 -- url     : https://prove2.me/submissions/9cf45e5e-5973-43b1-9a73-119fe0bc88a0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

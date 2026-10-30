@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.sliceSub_coeff_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:47:50.944368+00:00
 -- url     : https://prove2.me/submissions/856e862c-f698-490c-9d96-44117c0bf772
 

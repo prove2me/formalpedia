@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_edge_bounded_extension
 -- name    : WilliamsonShmoys.planar_graph_has_edge_bounded_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T23:28:57.096117+00:00
 -- url     : https://prove2.me/theorems/b35b9526-2968-4401-ac87-aad8a3580ca5

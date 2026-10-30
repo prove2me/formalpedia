@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Rokhlin.ArrayObjects.Object.Rolled.raw_row_indicators_equal
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:56:58.982987+00:00
 -- url     : https://prove2.me/submissions/e7df219e-b6f6-4db9-b4f7-c2c4bd29fc12
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ3Ro002

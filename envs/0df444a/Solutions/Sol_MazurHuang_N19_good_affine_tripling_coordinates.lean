@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.good_affine_tripling_coordinates
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:24:53.751979+00:00
 -- url     : https://prove2.me/submissions/83666103-c4a5-4bf1-b0c4-d131a5ca1c17
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulation_completion_with_exact_edge_count
 -- name    : WilliamsonShmoys.exists_triangulation_completion_with_exact_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:30:52.502344+00:00
 -- url     : https://prove2.me/theorems/07e1ae9f-021c-4dea-90ca-dda5cc25e684

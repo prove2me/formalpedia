@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_simple_graph_triangulation
 -- name    : WilliamsonShmoys.connected_planar_simple_graph_triangulation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:56:34.041521+00:00
 -- url     : https://prove2.me/theorems/19b80a2c-1c09-40dd-a8e6-789089df722b

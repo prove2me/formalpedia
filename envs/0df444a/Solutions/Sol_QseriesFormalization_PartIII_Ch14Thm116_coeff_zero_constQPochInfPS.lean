@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIII.Ch14Thm116.coeff_zero_constQPochInfPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:18:39.615258+00:00
 -- url     : https://prove2.me/submissions/1188fa6b-60fd-4bd4-959d-6cfcde780b4e
 

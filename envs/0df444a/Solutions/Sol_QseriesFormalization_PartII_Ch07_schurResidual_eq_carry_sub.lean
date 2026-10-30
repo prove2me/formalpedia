@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.schurResidual_eq_carry_sub
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:16:19.502652+00:00
 -- url     : https://prove2.me/submissions/b1646ced-be40-46ca-962b-b18f342b6254
 

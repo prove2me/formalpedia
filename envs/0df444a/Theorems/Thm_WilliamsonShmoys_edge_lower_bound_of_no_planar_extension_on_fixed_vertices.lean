@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_lower_bound_of_no_planar_extension_on_fixed_vertices
 -- name    : WilliamsonShmoys.edge_lower_bound_of_no_planar_extension_on_fixed_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:07:08.622143+00:00
 -- url     : https://prove2.me/theorems/fd5841b3-47d6-4110-a690-9c63bff57c51

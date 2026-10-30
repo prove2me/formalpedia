@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.lcoeff_jTripleProductPartialLaurent_eq_jCoeff_succ_degree
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:45:16.71601+00:00
 -- url     : https://prove2.me/submissions/f00d3953-443c-434c-8e76-7493e8488630
 

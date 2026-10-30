@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch13DeepIdentity.eq1237_expanded_ratio
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:23:11.666525+00:00
 -- url     : https://prove2.me/submissions/b60c184b-75b1-452a-b36e-91c9c7c39577
 

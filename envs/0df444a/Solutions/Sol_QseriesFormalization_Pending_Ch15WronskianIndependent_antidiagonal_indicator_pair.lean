@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.antidiagonal_indicator_pair
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:44:03.960737+00:00
 -- url     : https://prove2.me/submissions/9eb5b6c3-5d01-46bb-9751-7e96d2882f24
 

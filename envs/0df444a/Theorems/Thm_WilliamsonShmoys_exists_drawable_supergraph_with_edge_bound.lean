@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_drawable_supergraph_with_edge_bound
 -- name    : WilliamsonShmoys.exists_drawable_supergraph_with_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:38:44.741973+00:00
 -- url     : https://prove2.me/theorems/b1fff909-3724-4412-b571-7f014957ce50

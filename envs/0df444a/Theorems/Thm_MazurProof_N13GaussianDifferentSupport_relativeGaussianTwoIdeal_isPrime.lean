@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13GaussianDifferentSupport_relativeGaussianTwoIdeal_isPrime
 -- name    : MazurProof.N13GaussianDifferentSupport.relativeGaussianTwoIdeal_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T03:28:49.197855+00:00
 -- url     : https://prove2.me/theorems/01fd449e-681e-4001-81a6-285f04cef5f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_ray_kernel_smoothness_and_mass
 -- name    : EthierKurtz.ray_kernel_smoothness_and_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T23:29:15.978777+00:00
 -- url     : https://prove2.me/theorems/66aff360-1732-4e7b-859b-ac3a434aea9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_for_n_ge_three
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_for_n_ge_three
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T10:20:34.283781+00:00
 -- url     : https://prove2.me/theorems/c06a69a3-ca91-45ac-86f5-c61df4ae7c99

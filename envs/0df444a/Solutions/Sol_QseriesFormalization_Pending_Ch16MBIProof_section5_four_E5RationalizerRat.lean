@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.section5_four_E5RationalizerRat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:16:26.781977+00:00
 -- url     : https://prove2.me/submissions/049480d1-a445-48f5-8df8-8a4c61b9aa2c
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch07_ch07BernoulliStar
 -- name    : RamanujanNotebooks_ch07_ch07BernoulliStar
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T01:04:33.498694+00:00
 -- url     : https://prove2.me/theorems/c4f58edb-56b1-447f-b4cf-1c9bd365e0bd
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_halfspace_variable_coeff_model
 -- name    : EthierKurtz.oblique_halfspace_variable_coeff_model
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:07:06.468478+00:00
 -- url     : https://prove2.me/theorems/1c19182e-c80b-4e0d-8eeb-65e1cdaeac5f

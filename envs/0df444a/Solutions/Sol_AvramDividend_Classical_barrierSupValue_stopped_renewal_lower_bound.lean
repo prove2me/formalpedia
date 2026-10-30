@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.barrierSupValue_stopped_renewal_lower_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T13:52:20.293514+00:00
 -- url     : https://prove2.me/submissions/542422a3-a5b9-43f4-86f5-5085863153c0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_stoppedFirstRecord_lower_geometric_budgets
 import Theorems.Thm_AvramDividend_Classical_barrierSupValue_ge_left_scale_quotient_of_record_budgets

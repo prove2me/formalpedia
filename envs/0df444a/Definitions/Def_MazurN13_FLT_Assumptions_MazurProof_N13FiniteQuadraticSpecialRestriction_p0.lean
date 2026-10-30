@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FiniteQuadraticSpecialRestriction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FiniteQuadraticSpecialRestriction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:43:21.823377+00:00
 -- url     : https://prove2.me/theorems/9b122515-9428-4ccd-961d-c19275265dfd
 -- title:

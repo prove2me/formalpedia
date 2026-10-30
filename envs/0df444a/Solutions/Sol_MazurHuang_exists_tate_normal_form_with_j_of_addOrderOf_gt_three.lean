@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.exists_tate_normal_form_with_j_of_addOrderOf_gt_three
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:08:52.19366+00:00
 -- url     : https://prove2.me/submissions/fd33d2a3-7367-4ebb-8169-1ca32e10c088
 

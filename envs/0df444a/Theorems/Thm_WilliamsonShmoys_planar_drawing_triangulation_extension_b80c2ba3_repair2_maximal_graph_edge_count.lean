@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_extension_b80c2ba3_repair2_maximal_graph_edge_count
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_extension_b80c2ba3_repair2_maximal_graph_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:27:36.088843+00:00
 -- url     : https://prove2.me/theorems/eaa99414-a46b-4eff-9f57-b4eb1f7b5f38

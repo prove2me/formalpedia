@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_minimumAt_attained
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.minimumAt_attained
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-29T00:09:57.243251+00:00
 -- url     : https://prove2.me/theorems/14ccd208-0220-4b85-91f1-e3d2c1894330

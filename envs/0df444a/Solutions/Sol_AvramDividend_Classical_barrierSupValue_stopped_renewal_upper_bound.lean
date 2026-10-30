@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.barrierSupValue_stopped_renewal_upper_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T22:19:05.713018+00:00
 -- url     : https://prove2.me/submissions/6358f9e5-7872-4cca-b0b6-ece15a6682fe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Lebesgue.Basic
 import Mathlib.Topology.Order.OrderClosed

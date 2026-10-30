@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_SexticMumfordFixedUnit_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_SexticMumfordFixedUnit_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:08:27.162596+00:00
 -- url     : https://prove2.me/theorems/b056096b-0aae-42b7-8ac7-b7c6b129b7f0
 -- title:

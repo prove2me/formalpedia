@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_quintic_dissection_factor_product
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.quintic_dissection_factor_product
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:45:11.703749+00:00
 -- url     : https://prove2.me/theorems/40fb0f3b-1374-4360-a9fc-7f755dae30eb
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.coeff_jTripleProductInfPS_eq_coeff_partial
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:35:51.391164+00:00
 -- url     : https://prove2.me/submissions/7bc2e21d-5e58-46d5-b971-bf7f4713b14c
 

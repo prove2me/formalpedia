@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralFractionalHull_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralFractionalHull_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:11:00.283665+00:00
 -- url     : https://prove2.me/theorems/822c3e86-dec1-485c-83fd-b52f8a696f46
 -- title:

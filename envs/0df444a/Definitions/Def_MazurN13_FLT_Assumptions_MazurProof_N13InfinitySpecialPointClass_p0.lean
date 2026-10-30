@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13InfinitySpecialPointClass_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13InfinitySpecialPointClass_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T19:42:28.153285+00:00
 -- url     : https://prove2.me/theorems/325950d2-fb16-446e-a950-d94927ec0fd9
 -- title:

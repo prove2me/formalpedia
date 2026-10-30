@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_augmentation
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_augmentation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:16:14.789043+00:00
 -- url     : https://prove2.me/theorems/d1503eb1-0fde-451f-95cc-9e34d85d2bae

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GoodCoordinateRingTwo_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GoodCoordinateRingTwo_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:52:29.948099+00:00
 -- url     : https://prove2.me/theorems/70454182-e8ed-404a-9882-485354faf7c3
 -- title:

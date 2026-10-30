@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIV_ch04_ramanujanGammaH
 -- name    : RamanujanLostNotebook_PartIV_ch04_ramanujanGammaH
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T12:03:03.291842+00:00
 -- url     : https://prove2.me/theorems/c5f7e03b-d3c1-47fb-88c0-6cd2701d2fd5
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_sparse_graph_has_planar_strict_supergraph__p2m_781b7780_35b2_4c7b_8f6f_87d1d7202df9_a1
 -- name    : WilliamsonShmoys.planar_drawing_sparse_graph_has_planar_strict_supergraph__p2m_781b7780_35b2_4c7b_8f6f_87d1d7202df9_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:16:13.762986+00:00
 -- url     : https://prove2.me/theorems/7e1e673f-b342-4c9b-bd1e-cc03f8c5f53a

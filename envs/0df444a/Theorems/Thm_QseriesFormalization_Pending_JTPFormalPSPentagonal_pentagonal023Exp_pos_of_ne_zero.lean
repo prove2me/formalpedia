@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_pentagonal023Exp_pos_of_ne_zero
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.pentagonal023Exp_pos_of_ne_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:36:56.881646+00:00
 -- url     : https://prove2.me/theorems/508273e9-ed1e-4a82-9518-b8fb92fb18d5
 -- title:

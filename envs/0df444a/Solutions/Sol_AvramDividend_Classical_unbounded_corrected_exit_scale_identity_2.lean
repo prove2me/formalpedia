@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.unbounded_corrected_exit_scale_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T10:39:44.337966+00:00
 -- url     : https://prove2.me/submissions/ebbb895b-c900-4bd7-8014-45299c4747eb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.ENNReal.Inv
 import Mathlib.MeasureTheory.Integral.Lebesgue.Basic

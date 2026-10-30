@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.hasSum_section83B_coeff_mul_pow
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:42:09.838825+00:00
 -- url     : https://prove2.me/submissions/fe1e2a58-dbb4-4d5c-8ac8-1406140513d2
 

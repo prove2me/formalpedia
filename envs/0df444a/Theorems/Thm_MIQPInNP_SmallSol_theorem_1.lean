@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIQPInNP_SmallSol_theorem_1
 -- name    : MIQPInNP.SmallSol.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:34:58.662473+00:00
 -- url     : https://prove2.me/theorems/4487e2b7-432f-4a9b-ace6-b0ad6a98e6ac

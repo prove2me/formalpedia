@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.unbounded_tilted_cumulative_laplace_representation_of_infinite_small_jump
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T10:44:47.9+00:00
 -- url     : https://prove2.me/submissions/dde67d75-680b-4166-a3c7-0e86d4a8f821
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

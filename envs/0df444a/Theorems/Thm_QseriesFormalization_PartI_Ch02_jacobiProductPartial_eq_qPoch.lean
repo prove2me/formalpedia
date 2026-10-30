@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch02_jacobiProductPartial_eq_qPoch
 -- name    : QseriesFormalization.PartI.Ch02.jacobiProductPartial_eq_qPoch
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:19:45.620872+00:00
 -- url     : https://prove2.me/theorems/58f23c69-09a7-4806-8d02-73b0f00eaf8e
 -- title:

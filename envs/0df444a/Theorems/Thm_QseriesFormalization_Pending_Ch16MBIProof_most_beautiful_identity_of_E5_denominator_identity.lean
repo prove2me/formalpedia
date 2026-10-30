@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_most_beautiful_identity_of_E5_denominator_identity
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.most_beautiful_identity_of_E5_denominator_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:24:28.785806+00:00
 -- url     : https://prove2.me/theorems/7b59110d-b157-4188-a0c1-01fcb95f9982
 -- title:

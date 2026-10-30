@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortOpt_HMF_opt_policy_assortment
 -- name    : AssortOpt.HMF.opt_policy_assortment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:58:22.151995+00:00
 -- url     : https://prove2.me/theorems/6650e13f-2043-4866-a19e-9417886af129

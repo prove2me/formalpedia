@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.stoppedFirstRecord_upper_geometric_budgets
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T22:25:17.095983+00:00
 -- url     : https://prove2.me/submissions/922eadc9-7a16-45e9-a01a-434a373197df
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Lebesgue.Basic
 import Mathlib.Analysis.Complex.Exponential

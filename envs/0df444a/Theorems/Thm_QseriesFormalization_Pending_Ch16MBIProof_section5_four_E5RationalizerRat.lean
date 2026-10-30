@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_section5_four_E5RationalizerRat
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.section5_four_E5RationalizerRat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:29:03.842602+00:00
 -- url     : https://prove2.me/theorems/52fde0db-e1ad-42f6-82b7-90135070e563
 -- title:

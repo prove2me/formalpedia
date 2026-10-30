@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_incidence_bound_from_drawing
 -- name    : WilliamsonShmoys.planar_drawing_incidence_bound_from_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T15:24:42.464629+00:00
 -- url     : https://prove2.me/theorems/b4124831-0c15-4632-b642-7fb3fafb3aeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_DLA_learned_price_feasible
 -- name    : DynamicOnlineLP.DLA.learned_price_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:39:19.195981+00:00
 -- url     : https://prove2.me/theorems/a0f6681b-583d-49bc-9fec-a160c7c5663a

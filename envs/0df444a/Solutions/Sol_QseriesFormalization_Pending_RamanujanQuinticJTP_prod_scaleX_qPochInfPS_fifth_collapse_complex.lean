@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.prod_scaleX_qPochInfPS_fifth_collapse_complex
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:03:42.486158+00:00
 -- url     : https://prove2.me/submissions/9fa82ad5-993f-4105-8b35-def942b867e5
 

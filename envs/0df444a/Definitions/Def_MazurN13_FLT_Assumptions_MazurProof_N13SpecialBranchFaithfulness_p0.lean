@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialBranchFaithfulness_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialBranchFaithfulness_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T23:05:42.272997+00:00
 -- url     : https://prove2.me/theorems/1afc4f1c-00ce-4778-9edf-3bb6e2f3b5bc
 -- title:

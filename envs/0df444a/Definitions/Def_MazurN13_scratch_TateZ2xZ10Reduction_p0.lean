@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_scratch_TateZ2xZ10Reduction_p0
 -- name    : MazurN13_scratch_TateZ2xZ10Reduction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:45:48.165335+00:00
 -- url     : https://prove2.me/theorems/266dc24a-7a4e-465a-9eaf-fcd8a88ac7fd
 -- title:

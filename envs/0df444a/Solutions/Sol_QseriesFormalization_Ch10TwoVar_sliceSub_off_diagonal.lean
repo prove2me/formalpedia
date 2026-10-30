@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.sliceSub_off_diagonal
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:14:53.729851+00:00
 -- url     : https://prove2.me/submissions/18e9c55d-0b37-4674-8338-d6245db38b67
 

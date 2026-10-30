@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawingOn_face_count_euler_and_boundary
 -- name    : WilliamsonShmoys.drawingOn_face_count_euler_and_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:02:39.516728+00:00
 -- url     : https://prove2.me/theorems/fed6f1a3-900d-430a-8b0c-023c8eff9304

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04Franklin_franklinInv_card
 -- name    : QseriesFormalization.PartI.Ch04Franklin.franklinInv_card
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:25:39.913887+00:00
 -- url     : https://prove2.me/theorems/c322490b-4862-4cff-ae6f-60341684c9c8
 -- title:

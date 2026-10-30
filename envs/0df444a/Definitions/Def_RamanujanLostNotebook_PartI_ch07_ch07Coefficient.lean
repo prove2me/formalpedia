@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch07_ch07Coefficient
 -- name    : RamanujanLostNotebook_PartI_ch07_ch07Coefficient
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T05:04:20.576383+00:00
 -- url     : https://prove2.me/theorems/ed9edb2d-a7bd-4da0-a41b-a265dfe39acc
 -- title:

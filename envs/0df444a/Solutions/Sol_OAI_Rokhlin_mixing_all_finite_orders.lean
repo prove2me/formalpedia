@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Rokhlin.mixing_all_finite_orders
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-26T07:01:27.166842+00:00
 -- url     : https://prove2.me/submissions/11179382-952f-46fc-9f74-c9a152832036
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Rokhlin

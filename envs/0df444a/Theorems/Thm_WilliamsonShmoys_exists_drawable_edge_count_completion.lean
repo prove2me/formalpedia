@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_drawable_edge_count_completion
 -- name    : WilliamsonShmoys.exists_drawable_edge_count_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:51:37.755743+00:00
 -- url     : https://prove2.me/theorems/91679e32-5c82-4cc7-b5b1-dcdad4dff49f

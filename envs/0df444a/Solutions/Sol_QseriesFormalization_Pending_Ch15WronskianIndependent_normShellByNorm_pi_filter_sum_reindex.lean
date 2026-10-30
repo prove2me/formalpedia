@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.normShellByNorm_pi_filter_sum_reindex
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:15:18.859845+00:00
 -- url     : https://prove2.me/submissions/0390e8f7-fdb3-46a8-b288-417a2db889bf
 

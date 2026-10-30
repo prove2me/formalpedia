@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_isRes_pow
 -- name    : QseriesFormalization.Pending.Hirschhorn11.isRes_pow
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:33:27.833709+00:00
 -- url     : https://prove2.me/theorems/86bd008a-51ba-4fdc-a9ec-dccfb2c275de
 -- title:

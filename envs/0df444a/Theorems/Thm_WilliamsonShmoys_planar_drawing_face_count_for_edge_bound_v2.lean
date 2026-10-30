@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_count_for_edge_bound_v2
 -- name    : WilliamsonShmoys.planar_drawing_face_count_for_edge_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:51:13.471005+00:00
 -- url     : https://prove2.me/theorems/51a9b3eb-dda2-461c-a497-8e5607f1fe5f

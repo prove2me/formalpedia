@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter08_FiniteRR
 -- name    : QseriesFormalization_Pending_Chapter08_FiniteRR
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:31:36.06323+00:00
 -- url     : https://prove2.me/theorems/6caed044-2a9f-4fa1-b482-55ed05ff4412
 -- title:

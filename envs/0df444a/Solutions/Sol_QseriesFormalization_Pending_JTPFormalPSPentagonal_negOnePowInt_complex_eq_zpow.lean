@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.negOnePowInt_complex_eq_zpow
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:59:50.920135+00:00
 -- url     : https://prove2.me/submissions/a260a45f-1285-4438-a54d-959e99103d0e
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawingOn_edgeCount_le
 -- name    : WilliamsonShmoys.planarDrawingOn_edgeCount_le
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T13:09:18.940401+00:00
 -- url     : https://prove2.me/theorems/c0e03149-d8d6-4a8d-9c52-c2eeebb61f70

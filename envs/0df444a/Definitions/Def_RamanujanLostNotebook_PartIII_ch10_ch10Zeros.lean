@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch10_ch10Zeros
 -- name    : RamanujanLostNotebook_PartIII_ch10_ch10Zeros
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T12:25:55.037552+00:00
 -- url     : https://prove2.me/theorems/ca7953c7-b4f4-4213-a24d-1a219f13d3d8
 -- title:

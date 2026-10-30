@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13QuadraticTwoChartSpread_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13QuadraticTwoChartSpread_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:55:43.633726+00:00
 -- url     : https://prove2.me/theorems/c617f70f-88b5-4c0f-a70b-0a957a6c53c1
 -- title:

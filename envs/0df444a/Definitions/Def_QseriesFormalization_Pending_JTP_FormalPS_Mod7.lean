@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_JTP_FormalPS_Mod7
 -- name    : QseriesFormalization_Pending_JTP_FormalPS_Mod7
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:30:59.950916+00:00
 -- url     : https://prove2.me/theorems/4948a646-0ed6-4b45-9bd4-469257ff85c9
 -- title:

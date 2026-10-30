@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter12_SpecialValue
 -- name    : QseriesFormalization_Pending_Chapter12_SpecialValue
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:33:42.043603+00:00
 -- url     : https://prove2.me/theorems/96ac7afd-134d-4e58-8d92-4c9669184618
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SideConstrainedDTA_Existence_theorem_3_3
 -- name    : SideConstrainedDTA.Existence.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:29.997656+00:00
 -- url     : https://prove2.me/theorems/8734bcb9-a09c-432c-b79b-a3ccc7cdc029

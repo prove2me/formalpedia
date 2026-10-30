@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_strict_extension_below_bound_2026
 -- name    : WilliamsonShmoys.planar_strict_extension_below_bound_2026
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T05:15:14.672076+00:00
 -- url     : https://prove2.me/theorems/c06b1a15-afcc-416c-9d91-33f65c42cb53

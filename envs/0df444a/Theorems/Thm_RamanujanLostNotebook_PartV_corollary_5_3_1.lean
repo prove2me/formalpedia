@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanLostNotebook_PartV_corollary_5_3_1
 -- name    : RamanujanLostNotebook.PartV.corollary_5_3_1
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T17:04:15.323387+00:00
 -- url     : https://prove2.me/theorems/e10ca90e-64c8-4957-bd11-6c4c8ce3fd4f
 -- title:

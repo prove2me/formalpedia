@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoApport_Flow_proposition_8
 -- name    : MonoApport.Flow.proposition_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:39.1607+00:00
 -- url     : https://prove2.me/theorems/21666c4a-4375-4683-b456-5287a39faf51

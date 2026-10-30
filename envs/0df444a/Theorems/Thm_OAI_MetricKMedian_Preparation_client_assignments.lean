@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_Preparation_client_assignments
 -- name    : OAI.MetricKMedian.Preparation.client_assignments
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:27:13.689556+00:00
 -- url     : https://prove2.me/theorems/92666996-c8a4-4d86-bf01-f4aa15a2b43c

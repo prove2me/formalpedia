@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.quintupleProduct_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:16:06.420376+00:00
 -- url     : https://prove2.me/submissions/3f08e1c2-b821-4e12-b8ae-10647bf249be
 

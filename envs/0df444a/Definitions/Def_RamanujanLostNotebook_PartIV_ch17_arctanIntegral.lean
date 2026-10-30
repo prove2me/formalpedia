@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIV_ch17_arctanIntegral
 -- name    : RamanujanLostNotebook_PartIV_ch17_arctanIntegral
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T12:27:30.16471+00:00
 -- url     : https://prove2.me/theorems/5e445f6b-e0c2-44fe-bd72-be792204e49e
 -- title:

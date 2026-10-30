@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch10_ch10Threshold
 -- name    : RamanujanLostNotebook_PartIII_ch10_ch10Threshold
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T12:29:45.139613+00:00
 -- url     : https://prove2.me/theorems/c966c222-4c37-468a-a13e-68d2074580c8
 -- title:

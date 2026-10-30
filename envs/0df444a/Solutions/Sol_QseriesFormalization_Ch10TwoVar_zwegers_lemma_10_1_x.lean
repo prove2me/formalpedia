@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.zwegers_lemma_10_1_x
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:25:12.352832+00:00
 -- url     : https://prove2.me/submissions/5d9f8186-7519-422b-9f6e-7291c3b765fc
 

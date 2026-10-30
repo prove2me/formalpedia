@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_simple_edge_bound_for_face_data
 -- name    : WilliamsonShmoys.planar_simple_edge_bound_for_face_data
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T13:36:50.974499+00:00
 -- url     : https://prove2.me/theorems/d2873200-f497-4c95-b562-0dee8a72d1d9

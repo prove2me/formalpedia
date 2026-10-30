@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetMgmt_Profit_items_sold_shading_identity
 -- name    : BudgetMgmt.Profit.items_sold_shading_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:33.067189+00:00
 -- url     : https://prove2.me/theorems/7fddf8e3-0b18-4cbe-b9dd-4eba901c7499

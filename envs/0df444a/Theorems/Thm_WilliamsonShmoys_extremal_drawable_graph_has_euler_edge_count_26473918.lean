@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_extremal_drawable_graph_has_euler_edge_count_26473918
 -- name    : WilliamsonShmoys.extremal_drawable_graph_has_euler_edge_count_26473918
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:49:23.877643+00:00
 -- url     : https://prove2.me/theorems/39cb4e21-5e99-4085-b73c-5a5667f48d95

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.drawable_supergraph_with_euler_edge_count_0c08120b_590f_482f_88d1_cccf74679dd8
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:51:08.406716+00:00
 -- url     : https://prove2.me/submissions/bbefa9d0-6fcb-4ec9-99c3-fcbc383593d3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_drawable_supergraph_maximal_extension_87a22553

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for syracuse_descent_twentyseven_mod32_mod1048576_step12
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T11:17:32.222981+00:00
 -- url     : https://prove2.me/submissions/909b8eb5-b20d-4629-b211-f60b0a830d3a
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubscriptionPlanning_GrandOptimal_mechanism_1_revenue
 -- name    : SubscriptionPlanning.GrandOptimal.mechanism_1_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:26.591988+00:00
 -- url     : https://prove2.me/theorems/9b1b29e1-6c83-4a9f-89ea-a2aee5a48a0b

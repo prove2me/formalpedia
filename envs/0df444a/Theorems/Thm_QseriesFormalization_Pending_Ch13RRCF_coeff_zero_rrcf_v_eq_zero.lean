@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch13RRCF_coeff_zero_rrcf_v_eq_zero
 -- name    : QseriesFormalization.Pending.Ch13RRCF.coeff_zero_rrcf_v_eq_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:07:07.33204+00:00
 -- url     : https://prove2.me/theorems/0c2cd245-311b-4c63-b756-73f6db939820
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_le_three_n_sub_six_from_planar_drawing
 -- name    : WilliamsonShmoys.edge_count_le_three_n_sub_six_from_planar_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:51:18.357467+00:00
 -- url     : https://prove2.me/theorems/5438d717-60ba-4719-bd8d-a39b0e45c967

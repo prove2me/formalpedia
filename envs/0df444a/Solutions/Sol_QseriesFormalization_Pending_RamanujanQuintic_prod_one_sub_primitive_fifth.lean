@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuintic.prod_one_sub_primitive_fifth
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:03:31.942649+00:00
 -- url     : https://prove2.me/submissions/175b28c4-7af4-417d-8f2c-4c6bb0c32d79
 

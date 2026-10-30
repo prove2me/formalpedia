@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_triangular_mod_7_in
 -- name    : QseriesFormalization.PartIV.Ch17.triangular_mod_7_in
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:46:13.965718+00:00
 -- url     : https://prove2.me/theorems/774a26d4-d796-4396-82a2-7a3eb93cbe65
 -- title:

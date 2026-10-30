@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NaimarkZFC_main
 -- name    : OAI.NaimarkZFC.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:57.720575+00:00
 -- url     : https://prove2.me/theorems/76ca3772-9b1a-4eba-9aae-47311f3a0da1

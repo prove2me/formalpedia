@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound_for_incidence_target
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound_for_incidence_target
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T15:49:25.020888+00:00
 -- url     : https://prove2.me/theorems/8c27650b-8ea3-49c2-807f-cf2cc75a14d7

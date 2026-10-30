@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter11_RRCF_Convergent
 -- name    : QseriesFormalization_Pending_Chapter11_RRCF_Convergent
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:33:20.303984+00:00
 -- url     : https://prove2.me/theorems/6c3a702a-beeb-4063-8228-4c58a5f8b77f
 -- title:

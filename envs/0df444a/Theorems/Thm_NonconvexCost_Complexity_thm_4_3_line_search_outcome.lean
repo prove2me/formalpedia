@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexCost_Complexity_thm_4_3_line_search_outcome
 -- name    : NonconvexCost.Complexity.thm_4_3_line_search_outcome
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:34.611987+00:00
 -- url     : https://prove2.me/theorems/f09f9137-1072-4815-869d-bceaaf165df3

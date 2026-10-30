@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_DedekindDomain_AdicValuation_p0
 -- name    : MazurN13_FLT_DedekindDomain_AdicValuation_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:15:24.821567+00:00
 -- url     : https://prove2.me/theorems/617679e0-e290-45a7-9456-bc00cc8276eb
 -- title:

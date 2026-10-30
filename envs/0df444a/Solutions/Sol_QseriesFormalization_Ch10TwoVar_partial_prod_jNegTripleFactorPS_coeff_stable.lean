@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.partial_prod_jNegTripleFactorPS_coeff_stable
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:22:15.992827+00:00
 -- url     : https://prove2.me/submissions/2086477c-6a67-4a3d-a691-9dfc0be09103
 

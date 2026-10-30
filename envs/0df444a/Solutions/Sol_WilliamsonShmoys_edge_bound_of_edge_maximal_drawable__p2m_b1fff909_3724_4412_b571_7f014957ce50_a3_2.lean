@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for WilliamsonShmoys.edge_bound_of_edge_maximal_drawable__p2m_b1fff909_3724_4412_b571_7f014957ce50_a3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T21:48:52.918732+00:00
 -- url     : https://prove2.me/submissions/5d3595a5-910f-416a-a337-a40d976b777d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_inequality_ac816c5dcb924d25
 -- name    : WilliamsonShmoys.planar_drawing_face_inequality_ac816c5dcb924d25
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T02:11:20.261225+00:00
 -- url     : https://prove2.me/theorems/ec07db92-02ba-46d0-8e26-10ae1b978d20

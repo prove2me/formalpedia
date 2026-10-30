@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_triangular_index_mod_7_eq_3_of_n_mod_7_eq_6
 -- name    : QseriesFormalization.PartIV.Ch17.triangular_index_mod_7_eq_3_of_n_mod_7_eq_6
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:45:55.620814+00:00
 -- url     : https://prove2.me/theorems/c6ea9792-d83d-4d58-852a-0f9e1080314d
 -- title:

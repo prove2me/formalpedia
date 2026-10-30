@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_jacobiTripleSign_squared_per_term_zero_mod_7
 -- name    : QseriesFormalization.PartIV.Ch17.jacobiTripleSign_squared_per_term_zero_mod_7
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:35:22.497021+00:00
 -- url     : https://prove2.me/theorems/ca6a633b-16cc-485f-a8d6-5a576ece18c6
 -- title:

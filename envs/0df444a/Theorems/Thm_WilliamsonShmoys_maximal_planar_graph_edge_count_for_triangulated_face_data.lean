@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_edge_count_for_triangulated_face_data
 -- name    : WilliamsonShmoys.maximal_planar_graph_edge_count_for_triangulated_face_data
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:37:43.788779+00:00
 -- url     : https://prove2.me/theorems/0d6855cc-5062-4808-8487-8440fd9bb7d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_edge_upper_bound_maximal_drawing_core
 -- name    : WilliamsonShmoys.connected_planar_edge_upper_bound_maximal_drawing_core
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:17:37.099976+00:00
 -- url     : https://prove2.me/theorems/b35e3d15-508e-41e1-97ba-51e27adb6431

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulation_extension
 -- name    : WilliamsonShmoys.exists_triangulation_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T21:19:34.927009+00:00
 -- url     : https://prove2.me/theorems/63b5fd87-9f08-49aa-9d78-7cfa3f633c53

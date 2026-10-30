@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntCapAlloc_OrgChoice_appendix_b1_no_disclosure_of_zero
 -- name    : IntCapAlloc.OrgChoice.appendix_b1_no_disclosure_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:40:34.977985+00:00
 -- url     : https://prove2.me/theorems/a8186135-6853-4cc4-a040-b107d01f04d8

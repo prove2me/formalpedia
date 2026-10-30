@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch09_lemma91_operator
 -- name    : QseriesFormalization.PartII.Ch09.lemma91_operator
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:31:48.20312+00:00
 -- url     : https://prove2.me/theorems/5728f6cf-4542-41ef-b658-eb7f613d0b35
 -- title:

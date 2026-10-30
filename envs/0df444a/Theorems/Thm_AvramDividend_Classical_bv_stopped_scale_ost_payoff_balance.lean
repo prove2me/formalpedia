@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_stopped_scale_ost_payoff_balance
 -- name    : AvramDividend.Classical.bv_stopped_scale_ost_payoff_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-26T16:33:12.686181+00:00
 -- url     : https://prove2.me/theorems/09caed2c-1cc0-4083-8a24-a39b70d511c8

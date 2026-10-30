@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.no_minus_pentagonal_eq_plus_pentagonal
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:49:46.302406+00:00
 -- url     : https://prove2.me/submissions/97b9275b-dbb9-4d10-afa3-d4d2581a3f8d
 

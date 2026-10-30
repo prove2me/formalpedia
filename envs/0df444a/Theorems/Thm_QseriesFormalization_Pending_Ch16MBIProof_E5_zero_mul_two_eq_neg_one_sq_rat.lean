@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_E5_zero_mul_two_eq_neg_one_sq_rat
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.E5_zero_mul_two_eq_neg_one_sq_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:22:47.744151+00:00
 -- url     : https://prove2.me/theorems/fcf8137f-fe60-47f8-8415-6637042151af
 -- title:

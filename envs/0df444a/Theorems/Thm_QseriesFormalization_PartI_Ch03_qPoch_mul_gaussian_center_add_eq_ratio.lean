@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch03_qPoch_mul_gaussian_center_add_eq_ratio
 -- name    : QseriesFormalization.PartI.Ch03.qPoch_mul_gaussian_center_add_eq_ratio
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:22:22.43102+00:00
 -- url     : https://prove2.me/theorems/e1755059-1b5c-4e81-bd69-8d149c5aff8d
 -- title:

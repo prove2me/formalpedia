@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuintic.quinticPeriod_sum
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:03:12.99198+00:00
 -- url     : https://prove2.me/submissions/53b99ce0-81cc-4a48-a627-aeb3a73ebfd8
 

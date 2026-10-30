@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurCampaign.no_order_thirty_five
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:28:38.102482+00:00
 -- url     : https://prove2.me/submissions/2e3cc8bf-0be8-4312-b519-7a858a36075f
 

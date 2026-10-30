@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_terminal_power_contraction
 -- name    : CollatzFrontier.terminal_power_contraction
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:25:08.362177+00:00
 -- url     : https://prove2.me/theorems/7dd4394e-e27e-4d04-aca0-b524d5d496cc
 -- title:

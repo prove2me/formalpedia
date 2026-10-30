@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_ws01e_a_bounded_stop_l2_fatou_pointwise_upper_bound_0987f6d0
 -- name    : avram_ws01e_a_bounded_stop_l2_fatou_pointwise_upper_bound_0987f6d0
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T15:11:47.372097+00:00
 -- url     : https://prove2.me/theorems/c407cf7f-fb29-4709-be06-f1abb1e21e0f

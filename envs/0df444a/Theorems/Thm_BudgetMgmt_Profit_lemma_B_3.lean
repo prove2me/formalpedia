@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetMgmt_Profit_lemma_B_3
 -- name    : BudgetMgmt.Profit.lemma_B_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:24.757427+00:00
 -- url     : https://prove2.me/theorems/92513b94-9dd1-426d-862b-fc4b85446179

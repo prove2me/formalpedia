@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch01_ch1IsMagic
 -- name    : RamanujanNotebooks_ch01_ch1IsMagic
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:14:35.46265+00:00
 -- url     : https://prove2.me/theorems/5b166d58-c44b-4c0f-a1c3-862f8e33a456
 -- title:

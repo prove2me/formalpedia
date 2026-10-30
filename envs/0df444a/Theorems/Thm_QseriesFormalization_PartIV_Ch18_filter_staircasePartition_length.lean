@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch18_filter_staircasePartition_length
 -- name    : QseriesFormalization.PartIV.Ch18.filter_staircasePartition_length
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:47:18.297982+00:00
 -- url     : https://prove2.me/theorems/6c9fa1ba-0a74-4369-aed4-3cbcb05154ca
 -- title:

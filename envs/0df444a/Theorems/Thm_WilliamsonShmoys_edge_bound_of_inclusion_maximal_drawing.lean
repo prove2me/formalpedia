@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_bound_of_inclusion_maximal_drawing
 -- name    : WilliamsonShmoys.edge_bound_of_inclusion_maximal_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T01:38:34.702033+00:00
 -- url     : https://prove2.me/theorems/b91e3086-4225-4a64-a8b2-041818632bd0

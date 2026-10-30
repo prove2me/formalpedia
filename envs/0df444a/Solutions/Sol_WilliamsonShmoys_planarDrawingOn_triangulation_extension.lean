@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planarDrawingOn_triangulation_extension
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:19:53.231777+00:00
 -- url     : https://prove2.me/submissions/c8cdfe20-0dd3-4c75-887d-58af20d4adc2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planarDrawingOn_exists_maximal_extension
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_from_drawing_cd0a3fa1

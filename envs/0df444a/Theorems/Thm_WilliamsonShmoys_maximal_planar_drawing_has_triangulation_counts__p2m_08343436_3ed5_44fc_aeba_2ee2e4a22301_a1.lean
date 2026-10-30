@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_has_triangulation_counts__p2m_08343436_3ed5_44fc_aeba_2ee2e4a22301_a1
 -- name    : WilliamsonShmoys.maximal_planar_drawing_has_triangulation_counts__p2m_08343436_3ed5_44fc_aeba_2ee2e4a22301_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:29:47.31189+00:00
 -- url     : https://prove2.me/theorems/80d3c120-40ab-4263-83fa-69737aacfbab

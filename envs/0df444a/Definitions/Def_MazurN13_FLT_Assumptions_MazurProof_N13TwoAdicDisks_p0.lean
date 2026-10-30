@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicDisks_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicDisks_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:56:18.896743+00:00
 -- url     : https://prove2.me/theorems/145a0a18-abd3-4668-8f06-65d0c880a731
 -- title:

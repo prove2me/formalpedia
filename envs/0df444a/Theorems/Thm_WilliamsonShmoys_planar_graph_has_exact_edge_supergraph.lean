@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_exact_edge_supergraph
 -- name    : WilliamsonShmoys.planar_graph_has_exact_edge_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T09:27:09.071996+00:00
 -- url     : https://prove2.me/theorems/dd73cac9-b90d-44a4-8977-1c0859414274

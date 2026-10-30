@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_face_incidence_bound_edge_bound_fd674c06_a657_4ca8_b75f_41f75c897817
 -- name    : WilliamsonShmoys.planar_face_incidence_bound_edge_bound_fd674c06_a657_4ca8_b75f_41f75c897817
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T11:49:26.227974+00:00
 -- url     : https://prove2.me/theorems/efdb65a9-ed38-4865-8858-defaa2f32f6b

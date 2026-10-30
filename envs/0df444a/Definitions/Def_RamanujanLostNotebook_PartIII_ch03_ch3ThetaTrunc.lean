@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch03_ch3ThetaTrunc
 -- name    : RamanujanLostNotebook_PartIII_ch03_ch3ThetaTrunc
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T09:01:20.942401+00:00
 -- url     : https://prove2.me/theorems/9d205c1d-b93c-4570-b02c-53ae8bb1b40a
 -- title:

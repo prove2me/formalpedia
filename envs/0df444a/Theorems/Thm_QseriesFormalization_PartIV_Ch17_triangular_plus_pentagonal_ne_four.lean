@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_triangular_plus_pentagonal_ne_four
 -- name    : QseriesFormalization.PartIV.Ch17.triangular_plus_pentagonal_ne_four
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:46:33.903019+00:00
 -- url     : https://prove2.me/theorems/f20e4434-a3d5-4ee5-993a-996163f68f78
 -- title:

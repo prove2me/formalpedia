@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragileBandit_CauchyTail_remark_3
 -- name    : FragileBandit.CauchyTail.remark_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:51.798856+00:00
 -- url     : https://prove2.me/theorems/b7008e2d-3004-470c-9bc0-fb46713273df

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_gaussMul_pi5_gaussPiDiv_of_piDividesExact
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.gaussMul_pi5_gaussPiDiv_of_piDividesExact
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:13:40.990841+00:00
 -- url     : https://prove2.me/theorems/2cb4cd7c-fc40-46ec-929d-8359549f6c78
 -- title:

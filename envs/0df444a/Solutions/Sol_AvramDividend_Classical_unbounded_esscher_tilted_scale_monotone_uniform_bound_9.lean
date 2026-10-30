@@ -1,10 +1,8 @@
 -- Prove2me | solution 9 for AvramDividend.Classical.unbounded_esscher_tilted_scale_monotone_uniform_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T18:39:48.124748+00:00
 -- url     : https://prove2.me/submissions/031f9c9d-3fe1-4d8b-917b-2b7dc9bdd7fc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Complex.Exponential
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

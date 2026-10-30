@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04Franklin.euler_pentagonal_combinatorial
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:08:50.772974+00:00
 -- url     : https://prove2.me/submissions/7a3751df-b0dc-4be7-ac7b-4516901796ee
 

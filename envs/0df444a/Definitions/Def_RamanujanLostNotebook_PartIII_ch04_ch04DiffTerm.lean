@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch04_ch04DiffTerm
 -- name    : RamanujanLostNotebook_PartIII_ch04_ch04DiffTerm
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T07:49:55.721984+00:00
 -- url     : https://prove2.me/theorems/05fdc70a-4ec9-4c68-9613-02ac2b6eaf3e
 -- title:

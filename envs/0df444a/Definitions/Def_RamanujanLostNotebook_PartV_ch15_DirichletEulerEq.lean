@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_ch15_DirichletEulerEq
 -- name    : RamanujanLostNotebook_PartV_ch15_DirichletEulerEq
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T18:33:31.933388+00:00
 -- url     : https://prove2.me/theorems/111a38a0-7ff9-4b8b-8e44-2dcf2d62e518
 -- title:

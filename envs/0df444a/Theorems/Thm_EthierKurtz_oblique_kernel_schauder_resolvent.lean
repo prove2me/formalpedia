@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_kernel_schauder_resolvent
 -- name    : EthierKurtz.oblique_kernel_schauder_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:40:58.09565+00:00
 -- url     : https://prove2.me/theorems/fbaa5e3a-d9dc-4e8a-b743-575685ce85cc

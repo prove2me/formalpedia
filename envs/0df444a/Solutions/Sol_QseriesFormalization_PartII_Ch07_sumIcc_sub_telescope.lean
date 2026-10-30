@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.sumIcc_sub_telescope
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:32:51.663474+00:00
 -- url     : https://prove2.me/submissions/ede7c54b-5791-435f-985d-4c24f3af25e1
 

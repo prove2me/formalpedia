@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialConstantInfinityVerticalGraph_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialConstantInfinityVerticalGraph_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:26:15.092765+00:00
 -- url     : https://prove2.me/theorems/4285a5c1-68e4-4b89-86a4-b809d6ac9755
 -- title:

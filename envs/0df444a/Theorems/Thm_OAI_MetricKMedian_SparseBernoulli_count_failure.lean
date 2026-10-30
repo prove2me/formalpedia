@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_SparseBernoulli_count_failure
 -- name    : OAI.MetricKMedian.SparseBernoulli.count_failure
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:30:41.444238+00:00
 -- url     : https://prove2.me/theorems/422f874c-58b9-4eff-8b7a-788092cd177f

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_shared_mockPhi3
 -- name    : RamanujanLostNotebook_PartV_shared_mockPhi3
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T16:05:50.602982+00:00
 -- url     : https://prove2.me/theorems/ac307224-222e-4765-9625-c1dcd91bee21
 -- title:

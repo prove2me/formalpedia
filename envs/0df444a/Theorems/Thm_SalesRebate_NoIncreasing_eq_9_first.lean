@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesRebate_NoIncreasing_eq_9_first
 -- name    : SalesRebate.NoIncreasing.eq_9_first
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:12.747327+00:00
 -- url     : https://prove2.me/theorems/6c11a489-1550-49d2-a3a2-e153cf8b80a5

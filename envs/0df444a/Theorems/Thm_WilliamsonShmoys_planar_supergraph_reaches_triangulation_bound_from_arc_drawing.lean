@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_reaches_triangulation_bound_from_arc_drawing
 -- name    : WilliamsonShmoys.planar_supergraph_reaches_triangulation_bound_from_arc_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T05:32:42.510996+00:00
 -- url     : https://prove2.me/theorems/66ba9c1f-cf00-4c5b-ab7d-b77104994fe7

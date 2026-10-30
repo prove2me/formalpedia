@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_edge_count_fixed_vertex_type
 -- name    : WilliamsonShmoys.maximal_planar_drawing_edge_count_fixed_vertex_type
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T06:47:23.548523+00:00
 -- url     : https://prove2.me/theorems/9c4dbc1a-f9e4-40a6-9196-85a92370151e

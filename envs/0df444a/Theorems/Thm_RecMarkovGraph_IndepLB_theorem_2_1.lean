@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecMarkovGraph_IndepLB_theorem_2_1
 -- name    : RecMarkovGraph.IndepLB.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:43:08.134821+00:00
 -- url     : https://prove2.me/theorems/51790111-2e2e-4d77-81cb-8997e4a77e5b

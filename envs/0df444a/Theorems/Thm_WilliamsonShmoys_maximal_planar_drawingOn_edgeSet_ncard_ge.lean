@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawingOn_edgeSet_ncard_ge
 -- name    : WilliamsonShmoys.maximal_planar_drawingOn_edgeSet_ncard_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:02:15.98269+00:00
 -- url     : https://prove2.me/theorems/ec32842e-409d-4410-855b-5f46efdc1635

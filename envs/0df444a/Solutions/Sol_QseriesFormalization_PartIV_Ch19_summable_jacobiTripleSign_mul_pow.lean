@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.summable_jacobiTripleSign_mul_pow
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:50:00.709932+00:00
 -- url     : https://prove2.me/submissions/eeb5c0b7-b67b-45f3-b3bd-ef741545e68e
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_rrcfDen
 -- name    : RamanujanNotebooks_shared_rrcfDen
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:18:24.398979+00:00
 -- url     : https://prove2.me/theorems/fc877f90-8feb-4f47-af98-488462f53049
 -- title:

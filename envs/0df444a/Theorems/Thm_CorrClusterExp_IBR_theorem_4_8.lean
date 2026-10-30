@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrClusterExp_IBR_theorem_4_8
 -- name    : CorrClusterExp.IBR.theorem_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:05.3798+00:00
 -- url     : https://prove2.me/theorems/8d59bcb9-4758-4908-b32a-5b0820fba595

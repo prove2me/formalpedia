@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch11_ch11QuotCoeff
 -- name    : RamanujanLostNotebook_PartII_ch11_ch11QuotCoeff
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T11:24:25.348992+00:00
 -- url     : https://prove2.me/theorems/35a14ed5-ad57-48f8-8680-c7a3144804a5
 -- title:

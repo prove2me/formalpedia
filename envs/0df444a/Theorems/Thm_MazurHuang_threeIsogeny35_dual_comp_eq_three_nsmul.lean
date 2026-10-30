@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_threeIsogeny35_dual_comp_eq_three_nsmul
 -- name    : MazurHuang.threeIsogeny35_dual_comp_eq_three_nsmul
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:14.62048+00:00
 -- url     : https://prove2.me/theorems/1c35bb68-d8ca-40b0-b7ec-8735ea42f6df
 -- title:

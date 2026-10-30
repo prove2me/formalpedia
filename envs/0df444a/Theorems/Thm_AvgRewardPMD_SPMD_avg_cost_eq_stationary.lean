@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgRewardPMD_SPMD_avg_cost_eq_stationary
 -- name    : AvgRewardPMD.SPMD.avg_cost_eq_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:03.582296+00:00
 -- url     : https://prove2.me/theorems/0c0497c1-eb99-46f8-b633-73a200596f1a

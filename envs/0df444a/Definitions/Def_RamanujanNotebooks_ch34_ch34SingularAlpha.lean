@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch34_ch34SingularAlpha
 -- name    : RamanujanNotebooks_ch34_ch34SingularAlpha
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T08:04:03.18651+00:00
 -- url     : https://prove2.me/theorems/a441f289-60aa-4664-bf57-8fc5d993e47a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04Franklin_staircasePartition_getD_of_lt
 -- name    : QseriesFormalization.PartI.Ch04Franklin.staircasePartition_getD_of_lt
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:27:05.652257+00:00
 -- url     : https://prove2.me/theorems/0b80a2b0-649f-4133-ad05-2ab4ab7abb5f
 -- title:

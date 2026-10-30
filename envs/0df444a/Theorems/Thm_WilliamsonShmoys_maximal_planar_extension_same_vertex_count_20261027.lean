@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_extension_same_vertex_count_20261027
 -- name    : WilliamsonShmoys.maximal_planar_extension_same_vertex_count_20261027
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T20:13:26.227831+00:00
 -- url     : https://prove2.me/theorems/12e592dc-313e-4019-b7fa-ab27702be44e

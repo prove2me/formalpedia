@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Normal_copeland_erdos
 -- name    : Normal.copeland_erdos
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:29:22.260971+00:00
 -- url     : https://prove2.me/theorems/07d4c5ee-1a04-4725-b654-b2e94a485d16
 -- title:

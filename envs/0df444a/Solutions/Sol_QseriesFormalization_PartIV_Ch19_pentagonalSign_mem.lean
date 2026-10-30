@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.pentagonalSign_mem
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:49:25.151184+00:00
 -- url     : https://prove2.me/submissions/e9e29ee3-38a2-421a-96ac-f048ed1fae01
 

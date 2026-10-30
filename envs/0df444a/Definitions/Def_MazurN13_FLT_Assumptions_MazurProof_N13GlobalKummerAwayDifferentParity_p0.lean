@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GlobalKummerAwayDifferentParity_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GlobalKummerAwayDifferentParity_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:08:35.305168+00:00
 -- url     : https://prove2.me/theorems/7503a21c-29b6-4093-9a04-ba92a17b0fc7
 -- title:

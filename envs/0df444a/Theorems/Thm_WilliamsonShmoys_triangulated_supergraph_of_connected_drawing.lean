@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulated_supergraph_of_connected_drawing
 -- name    : WilliamsonShmoys.triangulated_supergraph_of_connected_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T02:09:38.192895+00:00
 -- url     : https://prove2.me/theorems/f989d15a-9de4-46ba-a064-c857ec5b8d7e

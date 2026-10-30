@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIII_Ch14Thm116_E5_zero_mul_section83B_eq_expand_twentyfive_mul_section83A
 -- name    : QseriesFormalization.PartIII.Ch14Thm116.E5_zero_mul_section83B_eq_expand_twentyfive_mul_section83A
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:12:09.097295+00:00
 -- url     : https://prove2.me/theorems/2534c951-5602-47a5-86e9-160643db06e1
 -- title:

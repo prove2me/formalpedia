@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialCuspReduction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialCuspReduction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:31:06.976663+00:00
 -- url     : https://prove2.me/theorems/f7e6b835-0a58-411f-b0de-68933ad28222
 -- title:

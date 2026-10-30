@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_automatic_certificate_failure_bound
 -- name    : CollatzFrontier.automatic_certificate_failure_bound
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T18:31:37.230287+00:00
 -- url     : https://prove2.me/theorems/a0f44624-1f83-48f3-9739-49baddba4148
 -- title:

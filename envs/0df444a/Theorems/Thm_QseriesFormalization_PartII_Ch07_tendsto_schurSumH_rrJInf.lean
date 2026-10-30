@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_tendsto_schurSumH_rrJInf
 -- name    : QseriesFormalization.PartII.Ch07.tendsto_schurSumH_rrJInf
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:25:44.225044+00:00
 -- url     : https://prove2.me/theorems/5a148d25-8b37-417f-b3cd-3c09d0477eb3
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIII_Ch14Thm116_coeff_zero_constQPochInfPS
 -- name    : QseriesFormalization.PartIII.Ch14Thm116.coeff_zero_constQPochInfPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:13:50.359033+00:00
 -- url     : https://prove2.me/theorems/583532bd-101c-4c67-9e5e-396ce9dee9e1
 -- title:

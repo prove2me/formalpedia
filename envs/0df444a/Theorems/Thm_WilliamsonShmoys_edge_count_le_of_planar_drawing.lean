@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_le_of_planar_drawing
 -- name    : WilliamsonShmoys.edge_count_le_of_planar_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T08:13:14.510371+00:00
 -- url     : https://prove2.me/theorems/015062cf-b2c0-48d5-a279-da412d383b8b

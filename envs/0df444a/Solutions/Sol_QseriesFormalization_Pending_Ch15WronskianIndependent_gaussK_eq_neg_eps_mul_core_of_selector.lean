@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.gaussK_eq_neg_eps_mul_core_of_selector
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:14:32.532818+00:00
 -- url     : https://prove2.me/submissions/bd4f8b4b-3d7f-426f-8cc3-4c9d7789ac05
 

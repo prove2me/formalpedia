@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13PointDataCertificates_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13PointDataCertificates_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T23:32:49.29155+00:00
 -- url     : https://prove2.me/theorems/6a1f053a-f518-439b-8409-dd4af0deecd4
 -- title:

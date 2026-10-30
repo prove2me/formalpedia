@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13QuotientReduction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13QuotientReduction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:59:08.139565+00:00
 -- url     : https://prove2.me/theorems/211534cb-1d44-47d0-b411-db934cf2399b
 -- title:

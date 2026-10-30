@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_extension_augmentation_20261026
 -- name    : WilliamsonShmoys.maximal_drawable_extension_augmentation_20261026
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:45:21.398755+00:00
 -- url     : https://prove2.me/theorems/5e7e0a08-a5de-445b-86ba-39e4ea810e00

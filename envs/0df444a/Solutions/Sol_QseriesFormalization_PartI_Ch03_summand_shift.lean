@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch03.summand_shift
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:24:22.110286+00:00
 -- url     : https://prove2.me/submissions/d4e7807c-97c9-4c02-9c6e-665ae5097fdc
 

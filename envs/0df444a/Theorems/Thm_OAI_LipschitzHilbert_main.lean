@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LipschitzHilbert_main
 -- name    : OAI.LipschitzHilbert.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:53.534794+00:00
 -- url     : https://prove2.me/theorems/9f32dae8-0e57-43f9-acf2-06fae7409ee6

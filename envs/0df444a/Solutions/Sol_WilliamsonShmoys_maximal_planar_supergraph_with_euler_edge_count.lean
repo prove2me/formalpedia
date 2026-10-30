@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_supergraph_with_euler_edge_count
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:19:34.258169+00:00
 -- url     : https://prove2.me/submissions/8e5c80a0-be77-43fe-9cb9-771c08cc267b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_exists_maximum_edge_planar_supergraph
 import Theorems.Thm_WilliamsonShmoys_maximum_edge_planar_graph_has_euler_edge_count

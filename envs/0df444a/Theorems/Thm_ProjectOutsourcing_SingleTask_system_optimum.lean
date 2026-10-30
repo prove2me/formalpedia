@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjectOutsourcing_SingleTask_system_optimum
 -- name    : ProjectOutsourcing.SingleTask.system_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:02.755013+00:00
 -- url     : https://prove2.me/theorems/19c37f6a-561c-42cd-9160-9d0e938003e9

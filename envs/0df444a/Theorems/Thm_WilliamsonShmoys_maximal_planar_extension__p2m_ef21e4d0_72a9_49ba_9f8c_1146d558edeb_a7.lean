@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_extension__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a7
 -- name    : WilliamsonShmoys.maximal_planar_extension__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a7
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T22:40:49.260705+00:00
 -- url     : https://prove2.me/theorems/337d3ec9-bc9c-4a02-9472-77e31d84e6a7

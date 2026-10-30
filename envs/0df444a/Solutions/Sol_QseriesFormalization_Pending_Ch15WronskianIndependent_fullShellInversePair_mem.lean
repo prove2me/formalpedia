@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.fullShellInversePair_mem
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:12:54.682771+00:00
 -- url     : https://prove2.me/submissions/15cbee4e-3372-436f-9153-c6a3c1a9cdcf
 

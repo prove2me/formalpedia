@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.connected_maximal_drawable_edge_count__p2m_93ac3156_1efb_4b4a_874e_65a14cba6456_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T21:53:46.961555+00:00
 -- url     : https://prove2.me/submissions/09b146a6-db30-42f0-a732-8f550d6a58df
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuintic.prod_scaleX_one_sub_X_pow_fifth
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:42:08.447131+00:00
 -- url     : https://prove2.me/submissions/7f92b473-f5ad-477f-950a-ce58be8c88b2
 

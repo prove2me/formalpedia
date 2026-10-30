@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawingOn_same_vertex_euler_completion
 -- name    : WilliamsonShmoys.planar_drawingOn_same_vertex_euler_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T10:14:00.045612+00:00
 -- url     : https://prove2.me/theorems/09e79d85-6f2e-4efd-9ead-ae485c166487

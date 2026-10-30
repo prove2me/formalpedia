@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04Franklin_pred_false_at_takeWhile_length_prime
 -- name    : QseriesFormalization.PartI.Ch04Franklin.pred_false_at_takeWhile_length_prime
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:26:29.293979+00:00
 -- url     : https://prove2.me/theorems/c9557532-9ea3-4135-906e-0feac7f1e181
 -- title:

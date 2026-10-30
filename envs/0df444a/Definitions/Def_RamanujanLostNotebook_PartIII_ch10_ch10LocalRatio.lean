@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch10_ch10LocalRatio
 -- name    : RamanujanLostNotebook_PartIII_ch10_ch10LocalRatio
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T12:25:44.103124+00:00
 -- url     : https://prove2.me/theorems/32a0a1a0-c67f-41ba-b8d2-f3ba15260146
 -- title:

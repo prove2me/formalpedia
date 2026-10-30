@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnDoFrontier_TwoAction_eq18_general_solution
 -- name    : LearnDoFrontier.TwoAction.eq18_general_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:46.251487+00:00
 -- url     : https://prove2.me/theorems/fdbf8240-dd99-4f50-ae60-b2aabeb60ad7

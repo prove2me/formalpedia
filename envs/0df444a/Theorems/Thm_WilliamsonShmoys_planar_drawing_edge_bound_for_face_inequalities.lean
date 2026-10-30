@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound_for_face_inequalities
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound_for_face_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:24:39.001315+00:00
 -- url     : https://prove2.me/theorems/833020de-b458-4aff-a554-ec66f391f5e9

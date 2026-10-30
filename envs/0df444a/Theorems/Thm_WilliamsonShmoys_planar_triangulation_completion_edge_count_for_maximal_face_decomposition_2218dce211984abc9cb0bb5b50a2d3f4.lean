@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_completion_edge_count_for_maximal_face_decomposition_2218dce211984abc9cb0bb5b50a2d3f4
 -- name    : WilliamsonShmoys.planar_triangulation_completion_edge_count_for_maximal_face_decomposition_2218dce211984abc9cb0bb5b50a2d3f4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T15:28:59.56727+00:00
 -- url     : https://prove2.me/theorems/f15616f1-a7af-4bda-bd21-ea5d91d23182

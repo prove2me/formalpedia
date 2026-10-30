@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_heat_kernel_smoothing_estimates
 -- name    : EthierKurtz.heat_kernel_smoothing_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:27:12.875973+00:00
 -- url     : https://prove2.me/theorems/66bef1a8-80bd-44f1-8088-5d2685fb6ef8

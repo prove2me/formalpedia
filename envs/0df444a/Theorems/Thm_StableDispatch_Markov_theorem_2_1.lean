@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableDispatch_Markov_theorem_2_1
 -- name    : StableDispatch.Markov.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:18.876292+00:00
 -- url     : https://prove2.me/theorems/196c8812-5e66-4b40-9603-bad905dfda95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_augmentation_if_sparse
 -- name    : WilliamsonShmoys.planar_edge_augmentation_if_sparse
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:08:38.368928+00:00
 -- url     : https://prove2.me/theorems/fd0d87e6-b805-416b-90da-57eb1ca5807e

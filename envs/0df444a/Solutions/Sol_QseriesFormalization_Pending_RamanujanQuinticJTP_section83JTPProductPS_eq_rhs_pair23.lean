@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.section83JTPProductPS_eq_rhs_pair23
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:21:53.047821+00:00
 -- url     : https://prove2.me/submissions/59af8c2a-3b19-487e-ac25-6d369913d6f6
 

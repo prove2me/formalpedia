@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch13DeepIdentity_chan_theorem_11_5
 -- name    : QseriesFormalization.Pending.Ch13DeepIdentity.chan_theorem_11_5
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:04:10.551521+00:00
 -- url     : https://prove2.me/theorems/a4508d10-9371-4473-833f-cccfeab6179c
 -- title:

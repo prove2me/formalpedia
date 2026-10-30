@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch05_ch05ParameterDomain
 -- name    : RamanujanLostNotebook_PartII_ch05_ch05ParameterDomain
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T04:45:43.932549+00:00
 -- url     : https://prove2.me/theorems/32139edf-cc2d-494f-87f6-66358ab52a66
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Mathlib_RingTheory_LocalRing_MaximalIdeal_Basic_p0
 -- name    : MazurN13_FLT_Mathlib_RingTheory_LocalRing_MaximalIdeal_Basic_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:47:42.123279+00:00
 -- url     : https://prove2.me/theorems/0374935e-e93f-4cbd-b357-ff726337a16b
 -- title:

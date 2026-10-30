@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_LinearAdjoinRootScalar_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_LinearAdjoinRootScalar_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:22:00.558216+00:00
 -- url     : https://prove2.me/theorems/8b28a3d6-f874-49a2-8830-36f446a7e574
 -- title:

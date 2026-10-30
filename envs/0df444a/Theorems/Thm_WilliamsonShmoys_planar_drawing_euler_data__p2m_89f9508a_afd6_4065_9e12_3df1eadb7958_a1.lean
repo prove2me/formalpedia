@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_euler_data__p2m_89f9508a_afd6_4065_9e12_3df1eadb7958_a1
 -- name    : WilliamsonShmoys.planar_drawing_euler_data__p2m_89f9508a_afd6_4065_9e12_3df1eadb7958_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:29:45.106546+00:00
 -- url     : https://prove2.me/theorems/346cbd2e-54dd-4cc1-8c07-090cbf4f0cd3

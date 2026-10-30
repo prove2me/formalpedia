@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_normShellK_pi_sum_recurrence_of_not_five_dvd
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.normShellK_pi_sum_recurrence_of_not_five_dvd
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:17:57.668176+00:00
 -- url     : https://prove2.me/theorems/a2d2ac9e-45db-4e25-a85e-0ec4a439b525
 -- title:

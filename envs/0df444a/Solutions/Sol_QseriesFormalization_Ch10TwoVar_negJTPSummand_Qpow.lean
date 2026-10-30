@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.negJTPSummand_Qpow
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:27:06.549754+00:00
 -- url     : https://prove2.me/submissions/c1cb56da-9a1d-45c1-9c16-f558c7329bf6
 

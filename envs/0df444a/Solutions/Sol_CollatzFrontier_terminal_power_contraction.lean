@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.terminal_power_contraction
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:26:50.21098+00:00
 -- url     : https://prove2.me/submissions/ca7d40f9-b074-4960-8e5c-5702b3139db0
 

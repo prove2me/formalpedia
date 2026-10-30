@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_has_triangulation_extension_for_maximality
 -- name    : WilliamsonShmoys.drawable_graph_has_triangulation_extension_for_maximality
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:35:33.155697+00:00
 -- url     : https://prove2.me/theorems/719c6bb7-9aa0-4725-9f39-6c34f4357440

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_raw_chart_normalized_polynomial_identity
 -- name    : MazurHuang.N19.raw_chart_normalized_polynomial_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:41.803896+00:00
 -- url     : https://prove2.me/theorems/972be982-2b31-4310-bc7d-8cacc83d129c
 -- title:

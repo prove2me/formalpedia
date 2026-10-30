@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AzumaWeightedSums_IteratedLog_theorem2_limsup_le_one
 -- name    : AzumaWeightedSums.IteratedLog.theorem2_limsup_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:31:34.044692+00:00
 -- url     : https://prove2.me/theorems/3c81eca2-6493-48b9-bc21-e055163fd287

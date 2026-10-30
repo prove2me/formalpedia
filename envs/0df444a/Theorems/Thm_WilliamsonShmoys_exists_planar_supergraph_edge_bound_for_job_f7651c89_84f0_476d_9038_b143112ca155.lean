@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_supergraph_edge_bound_for_job_f7651c89_84f0_476d_9038_b143112ca155
 -- name    : WilliamsonShmoys.exists_planar_supergraph_edge_bound_for_job_f7651c89_84f0_476d_9038_b143112ca155
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T05:14:36.744985+00:00
 -- url     : https://prove2.me/theorems/1741d11a-1189-4036-a189-421ad3678041

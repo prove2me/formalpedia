@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Opt_theorem_5_3
 -- name    : MartOT.Opt.theorem_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:46.009069+00:00
 -- url     : https://prove2.me/theorems/5cdb6f50-c328-46b8-89ae-b9d022da6205

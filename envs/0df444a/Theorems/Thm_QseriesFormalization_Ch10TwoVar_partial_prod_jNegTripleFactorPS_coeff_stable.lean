@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_partial_prod_jNegTripleFactorPS_coeff_stable
 -- name    : QseriesFormalization.Ch10TwoVar.partial_prod_jNegTripleFactorPS_coeff_stable
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:02:52.803993+00:00
 -- url     : https://prove2.me/theorems/30fe5836-f99b-4479-91b4-3ab5b74e04a6
 -- title:

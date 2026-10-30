@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JordanCurve_simple_closed_curve_two_regions
 -- name    : JordanCurve.simple_closed_curve_two_regions
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-09-25T00:15:57.107736+00:00
 -- url     : https://prove2.me/theorems/5d7581c0-2803-49f6-a2af-da917bafc813

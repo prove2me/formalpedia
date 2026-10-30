@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.killed_firstRecord_initial_discount_scale_lower
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T16:18:33.10182+00:00
 -- url     : https://prove2.me/submissions/aff382e0-6d51-4a80-9bb7-0c942811d6ff
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Lebesgue.Basic
 import Mathlib.Data.ENNReal.Real

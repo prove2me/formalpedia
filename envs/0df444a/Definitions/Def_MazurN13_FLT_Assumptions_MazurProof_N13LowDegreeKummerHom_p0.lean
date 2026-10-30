@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13LowDegreeKummerHom_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13LowDegreeKummerHom_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:17:29.012701+00:00
 -- url     : https://prove2.me/theorems/db8f4d12-17cd-4e68-a072-25e41ef7b9a4
 -- title:

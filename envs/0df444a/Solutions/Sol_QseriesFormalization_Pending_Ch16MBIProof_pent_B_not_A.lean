@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.pent_B_not_A
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:01:56.836118+00:00
 -- url     : https://prove2.me/submissions/b998015b-268b-4299-b0b0-6567f560050f
 

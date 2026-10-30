@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.StringSumQ_pred
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:32:25.368009+00:00
 -- url     : https://prove2.me/submissions/7b9c9907-288c-47b3-8e18-b5ebef6a09dc
 

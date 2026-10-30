@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04Franklin_fixed_sum_eq_pentagonalSign
 -- name    : QseriesFormalization.PartI.Ch04Franklin.fixed_sum_eq_pentagonalSign
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:25:10.2463+00:00
 -- url     : https://prove2.me/theorems/5232768f-dd62-4199-bbad-e7131973256a
 -- title:

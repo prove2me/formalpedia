@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_ramanujan_11_dvd_p_11n_plus_6
 -- name    : QseriesFormalization.Pending.Hirschhorn11.ramanujan_11_dvd_p_11n_plus_6
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:34:05.65853+00:00
 -- url     : https://prove2.me/theorems/c62378c2-5cd2-4c92-966a-aa24c28d5a3c
 -- title:

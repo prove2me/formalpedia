@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_completion_retry3_planar_edge_bound
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_completion_retry3_planar_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T10:35:24.050737+00:00
 -- url     : https://prove2.me/theorems/7bbf5f85-8927-4de4-a611-1d085b257f03

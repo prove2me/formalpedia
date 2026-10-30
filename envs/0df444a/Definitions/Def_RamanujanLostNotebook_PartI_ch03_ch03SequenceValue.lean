@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch03_ch03SequenceValue
 -- name    : RamanujanLostNotebook_PartI_ch03_ch03SequenceValue
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T10:05:46.560129+00:00
 -- url     : https://prove2.me/theorems/14e4bb71-5f8e-4a20-b861-8c3bfb4f43d0
 -- title:

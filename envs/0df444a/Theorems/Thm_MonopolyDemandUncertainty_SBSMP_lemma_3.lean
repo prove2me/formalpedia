@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonopolyDemandUncertainty_SBSMP_lemma_3
 -- name    : MonopolyDemandUncertainty.SBSMP.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:11:14.45499+00:00
 -- url     : https://prove2.me/theorems/8e905c94-66b1-40b1-bb2d-a0a54970d5c5

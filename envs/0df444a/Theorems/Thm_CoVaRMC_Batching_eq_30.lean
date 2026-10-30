@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoVaRMC_Batching_eq_30
 -- name    : CoVaRMC.Batching.eq_30
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:55.648122+00:00
 -- url     : https://prove2.me/theorems/a0c14042-7700-4720-91a4-026944ed8e28

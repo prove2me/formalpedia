@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_isRes5_pow
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.isRes5_pow
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:23:50.686539+00:00
 -- url     : https://prove2.me/theorems/97603f13-1f3a-44e5-9c55-b436a8ba39b4
 -- title:

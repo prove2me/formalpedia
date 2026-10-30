@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.ofPSK_expand_qPochInfPS_eq_apK
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:45:38.959931+00:00
 -- url     : https://prove2.me/submissions/4d1ee726-94ce-45b8-82bf-a55549dc950d
 

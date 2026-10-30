@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.reduced_tate_raw_polynomial_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:44:57.151534+00:00
 -- url     : https://prove2.me/submissions/3a46323d-4daf-4b3c-9c27-51fa49a3d3e8
 

@@ -25980,8 +25980,6 @@
 {"parent": "FunctionalInequalities.Analysis.BakryEmery.directional_centeredGradient_logLaplace_zero_of_compact_readable", "child": "FunctionalInequalities.Analysis.BakryEmery.iteratedFDeriv_centeredGradient_logLaplace_zero_of_compact_readable", "via": ["solution"]}
 {"parent": "OAI.CannonEmbeddedArc.Arc.exists_global_radius_constant", "child": "OAIQ046C001", "via": ["solution"]}
 {"parent": "OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_exact_split_span", "child": "OAI.Rokhlin.MeasurablePolarRectangle.torus_coordinates", "via": ["solution"]}
-{"parent": "OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_exact_split_span", "child": "OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_polar_a_field", "via": ["solution"]}
-{"parent": "OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_exact_split_span", "child": "OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_polar_b_field", "via": ["solution"]}
 {"parent": "OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_exact_split_span", "child": "OAIQ3Ro002", "via": ["solution"]}
 {"parent": "OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_exact_split_span", "child": "OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_polar_data", "via": ["solution"]}
 {"parent": "OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_exact_split_span", "child": "OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_column_contraction_projection", "via": ["solution"]}
@@ -31464,7 +31462,6 @@
 {"parent": "D1Bound5.PairLightClosurePrepared6.all_checked", "child": "D1Bound5.PairLightClosurePrepared6.chunk17_checked", "via": ["solution"]}
 {"parent": "D1Bound5.PairLightClosurePrepared6.all_checked", "child": "D1Bound5.PairLightClosurePrepared6.chunk04_checked", "via": ["solution"]}
 {"parent": "D1Bound5.finiteFixedHomogeneous_intCast_norm_sq", "child": "D1Bound5.finiteFixedHomogeneous_map", "via": ["solution"]}
-{"parent": "OAI.Rokhlin.ArrayObjects.Object.Rolled.exists_raw_finite_levels", "child": "OAI.Rokhlin.ArrayObjects.Object.Rolled.rawCounting_partial_unitary", "via": ["solution"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.ST03.chr_on_0_4_4", "child": "ExactVacuumAtlas.pd_congr_of_eqOn", "via": ["solution"]}
 {"parent": "OAI.PiExponentJets.W22.homogeneous_local_regular_bezout_q68", "child": "OAI.PiExponentJets.W22.ActualRegularCutHistory.degree_bound_q68", "via": ["solution"]}
 {"parent": "OAI.PiExponentJets.W22.homogeneous_local_regular_bezout_q68", "child": "OAI.PiExponentJets.W22.homogeneous_prefix_hilbert_degree_q68", "via": ["solution"]}
@@ -49582,7 +49579,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1754", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p013_b024", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c316086_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.finite_planar_connected_completion__p2m_ae0a4a79_a73d_4cfa_8a9e_24a09f20fefd_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.finite_planar_connected_completion__p2m_ae0a4a79_a73d_4cfa_8a9e_24a09f20fefd_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1495_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1462_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1491_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -49712,7 +49709,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p003_b038", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1616", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1616", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count_lower_bound__p2m_b0a02e34_0eef_479c_ba08_d5e8c6d2e779_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count_lower_bound__p2m_b0a02e34_0eef_479c_ba08_d5e8c6d2e779_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p027_b022", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c310055_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.fromHToGAdjacentStageM3_pointwise_finalLeftShape", "child": "LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core", "via": ["solution", "statement"]}
@@ -50032,7 +50029,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1598_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1542", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1542", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.connected_planar_edge_count_upper_bound__p2m_c955d1e3_af39_465d_8618_7c677be66dad_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_planar_edge_count_upper_bound__p2m_c955d1e3_af39_465d_8618_7c677be66dad_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QPBT_QPBT_Test_MagicSquareTheorems", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Test_MagicSquareTheorems", "child": "LIDT_MIPStarRE_LDT_CommutativityPoints_Defs", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Test_MagicSquareTheorems", "child": "QPBT_QPBT_Test_MagicSquare", "via": ["statement"]}
@@ -50328,7 +50325,7 @@
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.chain_bounds", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.chain_bounds", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p026_b017", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "PutermanMDP.Unichain.bias_update", "child": "PutermanMDP_Unichain_Iteration", "via": ["statement"]}
+{"parent": "PutermanMDP.Unichain.bias_update", "child": "PutermanMDP_Unichain_Iteration", "via": ["solution", "statement"]}
 {"parent": "QPBT_QPBT_Combining_DirectLowDegree_Transport_Combining_Recovery", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Combining_DirectLowDegree_Transport_Combining_Recovery", "child": "QPBT_QPBT_Combining_DirectLowDegree_Transport_Combining_Parameters", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Combining_DirectLowDegree_Transport_Combining_Recovery", "child": "LIDT_MIPStarRE_LDT_Preliminaries_Polynomials", "via": ["statement"]}
@@ -50358,7 +50355,7 @@
 {"parent": "AvramDividend.Classical.levy_original_exp_clock_drawdown_zero_atom_of_infinite_jumps_ws01f", "child": "AvramDividend.Classical.levy_tilted_clock_drawdown_zero_atom_of_infinite_jumps_ws01f", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p005_b064", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p026_b011", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.connected_planar_drawing_edge_count__p2m_2c262075_af7a_40b5_8216_f56b847d81a6_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_planar_drawing_edge_count__p2m_2c262075_af7a_40b5_8216_f56b847d81a6_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.mainInductionFromStageData", "child": "LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_ErrorBounds", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.mainInductionFromStageData", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.mainInductionFromStageData", "child": "LIDT_MIPStarRE_LDT_Tactic_LdtSimpAttr", "via": ["solution", "statement"]}
@@ -50900,7 +50897,7 @@
 {"parent": "AvramDividend.Classical.bv_finite_grid_NNReal_coe_ws01c", "child": "AvramDividend_Classical_BvFiniteGridClocks_ws01c", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1609", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1609", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_fin5_complete_minus_edge_drawing__p2m_7c399724_55b1_402e_9f60_aa510efea16b_a6", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_fin5_complete_minus_edge_drawing__p2m_7c399724_55b1_402e_9f60_aa510efea16b_a6", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1583", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1583", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Test_MainTheorem_SourceScalars", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["statement"]}
@@ -52536,7 +52533,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1680", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1680", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "FiniteEnergyPlane.halfCyl_slice_deriv_sq_le_of_logDeriv_bound", "child": "FiniteEnergyPlane_Asymptotics", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_exact_edge_count_completion__p2m_536aaf66_0a7c_4c8d_b8d1_73a7e039d5bd_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_exact_edge_count_completion__p2m_536aaf66_0a7c_4c8d_b8d1_73a7e039d5bd_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1689_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.pauli_naimark_operator_distanceB_le", "child": "QPBT_QPBT_Test_Soundness_NaimarkOperatorTransfer", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.pauli_naimark_operator_distanceB_le", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -54997,7 +54994,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.Commutativity.xEvaluatedFullSliceABABtensor_to_evaluatedSliceABABAvg", "child": "LIDT_MIPStarRE_LDT_Basic_Distribution", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p023_b007", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308050_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "ZhangTangLabelCut.LP2.fractional_optimum_le_k", "child": "ZhangTangLabelCut_LP2_Configurations", "via": ["statement"]}
+{"parent": "ZhangTangLabelCut.LP2.fractional_optimum_le_k", "child": "ZhangTangLabelCut_LP2_Configurations", "via": ["solution", "statement"]}
 {"parent": "ZhangTangLabelCut.LP2.fractional_optimum_le_k", "child": "ZhangTangLabelCut_LP2_CoveringLP", "via": ["statement"]}
 {"parent": "ZhangTangLabelCut.LP2.fractional_optimum_le_k", "child": "ZhangTangLabelCut_LP2_FiniteGraph", "via": ["statement"]}
 {"parent": "ZhangTangLabelCut.LP2.fractional_optimum_le_k", "child": "ZhangTangLabelCut_LP2_Shutter", "via": ["statement"]}
@@ -55239,7 +55236,7 @@
 {"parent": "AvramDividend.Classical.avram_ws01e_integrator_new_supported_infimum_laplace_identifies_scale", "child": "AvramDividend.Classical.levy_esscher_root_scale_tilted_laplace", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ws01e_integrator_new_supported_infimum_laplace_identifies_scale", "child": "AvramDividend.Classical.continuous_rightContinuous_Ioi_eq_of_laplace_eq", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ws01e_integrator_new_supported_infimum_laplace_identifies_scale", "child": "AvramDividend.Classical.scaleFunction_continuousAt_away_zero", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_triangulation_extension__p2m_727657a6_98ce_4392_ad63_d05814912170_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_triangulation_extension__p2m_727657a6_98ce_4392_ad63_d05814912170_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.foldl_edges_scalar", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.supportfree_repeated_b034", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.honest_point_msVar_Z_rejected_mul", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
@@ -55270,7 +55267,7 @@
 {"parent": "MIPStarRE.QPBT.honest_point_msVar_Z_rejected_mul", "child": "QPBT_QPBT_Test_PauliBasisTest", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.honest_point_msVar_Z_rejected_mul", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.honest_point_msVar_Z_rejected_mul", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_edge_bound__p2m_d7d089da_42dd_4fb9_9d5f_fd887681c907_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_edge_bound__p2m_d7d089da_42dd_4fb9_9d5f_fd887681c907_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.gHatSandwich_sum_last_eq_prefix", "child": "LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.gHatSandwich_sum_last_eq_prefix", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.gHatSandwich_sum_last_eq_prefix", "child": "LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions", "via": ["solution", "statement"]}
@@ -58051,11 +58048,11 @@
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.diagonal_parameter_evaluated_coefficient_defect_eq", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p023_b039", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p002_b029", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planarDrawingOn_eulerData_2026__p2m_43f98bfb_7424_41c7_97de_56fe6ca417c5_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planarDrawingOn_eulerData_2026__p2m_43f98bfb_7424_41c7_97de_56fe6ca417c5_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p007_b028", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312076_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c315086_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Gap48.P40.minimumAt_attained", "child": "QAlgorithms_Papers_Independent_Gap48_P40", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Gap48.P40.minimumAt_attained", "child": "QAlgorithms_Papers_Independent_Gap48_P40", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.win_comm_explicit", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.win_comm_explicit", "child": "QPBT_QPBT_Algebra_Pauli", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.win_comm_explicit", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -59901,7 +59898,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1589_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p022_b044", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p022_b037", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_simple_graph_edge_bound_from_drawing_retry_20261027__p2m_82d3f981_edc6_4261_adff_4cb68e598032_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_simple_graph_edge_bound_from_drawing_retry_20261027__p2m_82d3f981_edc6_4261_adff_4cb68e598032_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.win_comm_cons_explicit", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.win_comm_cons_explicit", "child": "QPBT_QPBT_Algebra_Pauli", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.win_comm_cons_explicit", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -60334,7 +60331,7 @@
 {"parent": "AvramDividend.Classical.bv_actual_finite_capped_grid_right_clock_ws01c", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.bv_actual_finite_capped_grid_right_clock_ws01c", "child": "AvramDividend_Classical_BvFiniteGridClocks_ws01c", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.bv_actual_finite_capped_grid_right_clock_ws01c", "child": "AvramDividend.Classical.bv_actual_finite_grid_clock_prefix_cap_ws01c", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_e8ae6a5a_5a4c_4f53_9707_6853e31c2747_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_e8ae6a5a_5a4c_4f53_9707_6853e31c2747_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_MoveLemmas_Basic", "child": "LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_MoveLemmas_Basic", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_MoveLemmas_Basic", "child": "LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions", "via": ["statement"]}
@@ -60909,9 +60906,9 @@
 {"parent": "QPBT_QPBT_Test_PauliBasisTest", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Test_PauliBasisTest", "child": "QPBT_QPBT_Test_LowDegreeGame", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Test_PauliBasisTest", "child": "QPBT_QPBT_Games_Defs", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_graph_edge_count__p2m_337d3ec9_bc9c_4a02_9472_77e31d84e6a7_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_graph_edge_count__p2m_337d3ec9_bc9c_4a02_9472_77e31d84e6a7_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "PochetWolsey.Mixing.vertices_rays", "child": "PochetWolsey_Mixing_Geometry", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_extension__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_extension__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c314063_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.exists_unit_aux_near_eprProjection", "child": "QPBT_QPBT_Algebra_Pauli", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.exists_unit_aux_near_eprProjection", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -60953,11 +60950,11 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1467_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1617_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p015_b005", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_completion_triangulation__p2m_8a3bb09f_be34_4160_8a3f_717a48932654_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_completion_triangulation__p2m_8a3bb09f_be34_4160_8a3f_717a48932654_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c314083_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1569", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1569", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_drawable_graph_edge_lower_bound_retry_20261027__p2m_82d3f981_edc6_4261_adff_4cb68e598032_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_drawable_graph_edge_lower_bound_retry_20261027__p2m_82d3f981_edc6_4261_adff_4cb68e598032_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1768_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c306055_s4", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c310055_s5", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
@@ -61072,7 +61069,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.supportfree_repeated_b022", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1360", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1360", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_edge_bound__p2m_d7d089da_42dd_4fb9_9d5f_fd887681c907_a1__p2m_d7d089da_42dd_4fb9_9d5f_fd887681c907_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_edge_bound__p2m_d7d089da_42dd_4fb9_9d5f_fd887681c907_a1__p2m_d7d089da_42dd_4fb9_9d5f_fd887681c907_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c315086_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p014_b004", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c320083_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
@@ -61473,7 +61470,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1398_b3", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1377", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1377", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_connected_edge_bound__p2m_a37fca92_b240_4415_b2f0_be56bbb8e59b_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_connected_edge_bound__p2m_a37fca92_b240_4415_b2f0_be56bbb8e59b_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1364", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1364", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1440_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -61551,7 +61548,7 @@
 {"parent": "LIDT_MIPStarRE_LDT_Basic_OpFamily", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Basic_OpFamily", "child": "LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Basic_OpFamily", "child": "LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.connected_planar_edge_count_bound__p2m_e46e8dd0_1680_4d93_a7d5_10e0bd7d8348_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_planar_edge_count_bound__p2m_e46e8dd0_1680_4d93_a7d5_10e0bd7d8348_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p026_b008", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "ChenChaoShiSALA.Regret.proposition_5", "child": "ChenChaoShiSALA_Regret_Spline", "via": ["statement"]}
 {"parent": "ChenChaoShiSALA.Regret.proposition_5", "child": "ChenChaoShiSALA_Regret_Model", "via": ["statement"]}
@@ -62177,7 +62174,7 @@
 {"parent": "QPBT_QPBT_Combining_Lines_SubLineMixture", "child": "QPBT_QPBT_Games_DistributionAux", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1453_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c307058_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_edge_lower_bound__p2m_68d7f981_8fd3_430a_af01_9cf213d6ade1_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_edge_lower_bound__p2m_68d7f981_8fd3_430a_af01_9cf213d6ade1_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p015_b007", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.levy_negative_near_zero_of_fixed_infimum_no_atom_ws01f", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.levy_negative_near_zero_of_fixed_infimum_no_atom_ws01f", "child": "AvramDividend.Classical.chat04_reflected_infimum_Iic_iff_survival", "via": ["solution", "statement"]}
@@ -63361,7 +63358,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1597_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "BitcoinReorg.connectChain_reachable", "child": "BitcoinReorg", "via": ["solution", "statement"]}
 {"parent": "BitcoinReorg.connectChain_reachable", "child": "BitcoinSer", "via": ["solution", "statement"]}
-{"parent": "PutermanMDP.Multichain.policy_iteration_terminates", "child": "PutermanMDP_Multichain_Iteration", "via": ["statement"]}
+{"parent": "PutermanMDP.Multichain.policy_iteration_terminates", "child": "PutermanMDP_Multichain_Iteration", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c322061_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p008_b035", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1578_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -64708,7 +64705,7 @@
 {"parent": "MIPStarRE.QPBT.WinImplications.win_comm_interchanged_explicit", "child": "QPBT_QPBT_Observables_WinImplications_Interchange", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.win_comm_interchanged_explicit", "child": "LIDT_MIPStarRE_LDT_Basic_OpFamily", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.win_comm_interchanged_explicit", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_edge_bound__p2m_1b8ea8dd_99bc_4e7e_aeca_9707a03ee4e9_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_edge_bound__p2m_1b8ea8dd_99bc_4e7e_aeca_9707a03ee4e9_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "CloseGaps_DPA_ControlledSales", "child": "CloseGaps_DPA_Model", "via": ["statement"]}
 {"parent": "CloseGaps_DPA_ControlledSales", "child": "QueueingFundamentals_Foundations_ArrivalProcess", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1610_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -65053,12 +65050,12 @@
 {"parent": "AvramDividend.Classical.avram_ws01e_bt_new_original_P_exp_clock_sup_drawdown_indepFun", "child": "AvramDividend.Classical.avram_ws01e_b_actual_Qp_runningSup_terminalDrawdown_indepFun", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c311053_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "XuDRMDP_Finite_Robustness", "child": "XuDRMDP_Finite_Returns", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_COnceHolder", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_BoundaryCOnceHolder", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_BoundaryCTwiceHolder", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_IsOutwardUnitNormal", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_CTwiceHolder", "via": ["statement"]}
+{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_COnceHolder", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_BoundaryCOnceHolder", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_BoundaryCTwiceHolder", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_IsOutwardUnitNormal", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_base_from_halfspace_model_lt_one", "child": "EthierKurtz_CTwiceHolder", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.supportfree_repeated_b105", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1758", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1758", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
@@ -65128,7 +65125,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.switcherooAggregate_qSDDOp_expand_avg", "child": "LIDT_MIPStarRE_LDT_MainInductionStep_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1661_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "PochetWolsey_BacklogStartup_StartupModel", "child": "PochetWolsey_BacklogStartup_Horizon", "via": ["statement"]}
-{"parent": "ChenWasserstein.Reform.theorem_1", "child": "ChenWasserstein_Reform_Data", "via": ["statement"]}
+{"parent": "ChenWasserstein.Reform.theorem_1", "child": "ChenWasserstein_Reform_Data", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.ldPastingNCompleteness_of_overAllOutcomes_fromHToG_tail", "child": "LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.ldPastingNCompleteness_of_overAllOutcomes_fromHToG_tail", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.ldPastingNCompleteness_of_overAllOutcomes_fromHToG_tail", "child": "LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions", "via": ["solution", "statement"]}
@@ -66207,7 +66204,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p020_b029", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c316061_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308013_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_connected_extension__p2m_2c262075_af7a_40b5_8216_f56b847d81a6_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_connected_extension__p2m_2c262075_af7a_40b5_8216_f56b847d81a6_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c310059_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1446_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c309061_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
@@ -66428,7 +66425,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c309053_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1397", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1397", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.disconnected_drawing_strict_extension__p2m_8603d9a1_7393_4bbf_851c_41d8426e3226_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.disconnected_drawing_strict_extension__p2m_8603d9a1_7393_4bbf_851c_41d8426e3226_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.Distribution.restrict_isProbability", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.Distribution.restrict_isProbability", "child": "LIDT_MIPStarRE_LDT_CommutativityPoints_Defs", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.Distribution.restrict_isProbability", "child": "LIDT_MIPStarRE_LDT_Pasting_Defs_Families", "via": ["solution", "statement"]}
@@ -66633,7 +66630,7 @@
 {"parent": "MIPStarRE.QPBT.CombinedPointsWitness.ordered_dist_le", "child": "LIDT_MIPStarRE_LDT_Basic_Distribution", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.CombinedPointsWitness.ordered_dist_le", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c324062_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_edge_count_upper_bound__p2m_b0a02e34_0eef_479c_ba08_d5e8c6d2e779_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_edge_count_upper_bound__p2m_b0a02e34_0eef_479c_ba08_d5e8c6d2e779_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c323055_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p003_b039", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.g1_inj", "child": "IntMul_Kappa_R8_Data_BitOppbankQHNet", "via": ["solution", "statement"]}
@@ -66957,7 +66954,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c315087_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_extension__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a4__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.esscher_ae_bounded_stop_stoppedHistory_density_eq", "child": "AvramDividend.Classical.esscher_bounded_stop_stoppedHistory_density_eq", "via": ["solution", "statement"]}
-{"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p013_b028", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["statement"]}
+{"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p013_b028", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p024_b000", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c309059_s4", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.linePointDist_nondegenerate_weighted_collision_le", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -67115,7 +67112,7 @@
 {"parent": "MIPStarRE.QPBT.exists_extractionWitness_ofGlobalPairWitness_of_four_le", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.exists_extractionWitness_ofGlobalPairWitness_of_four_le", "child": "QPBT_QPBT_Extraction_Unitary", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.exists_extractionWitness_ofGlobalPairWitness_of_four_le", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_edge_count_upper_nat_bound__p2m_de6b6dff_c710_4528_88b6_44a74b62cc1d_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_edge_count_upper_nat_bound__p2m_de6b6dff_c710_4528_88b6_44a74b62cc1d_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1413_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.norm_marginal_sub_sq_le", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.norm_marginal_sub_sq_le", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -67138,7 +67135,7 @@
 {"parent": "MIPStarRE.QPBT.norm_marginal_sub_sq_le", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.norm_marginal_sub_sq_le", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.norm_marginal_sub_sq_le", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.exists_maximal_planar_supergraph__p2m_f34871aa_4b26_4166_99f3_d88e1cde8300_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.exists_maximal_planar_supergraph__p2m_f34871aa_4b26_4166_99f3_d88e1cde8300_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.sum_norm_place_completedPair_sub_sq", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.sum_norm_place_completedPair_sub_sq", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.sum_norm_place_completedPair_sub_sq", "child": "QPBT_QPBT_Observables_Defs", "via": ["solution", "statement"]}
@@ -67341,7 +67338,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p029_b032", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c320063_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312053_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_connected_supergraph__p2m_a37fca92_b240_4415_b2f0_be56bbb8e59b_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_connected_supergraph__p2m_a37fca92_b240_4415_b2f0_be56bbb8e59b_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c319083_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_euler_data__p2m_d55c87f4_5c3d_477a_90f7_18a99497d822_a5", "child": "PlanarEulerData__p2m_d55c87f4_5c3d_477a_90f7_18a99497d822_a5", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_euler_data__p2m_d55c87f4_5c3d_477a_90f7_18a99497d822_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
@@ -67732,7 +67729,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.Preliminaries.triangleSub_right_heterogeneous", "child": "LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Preliminaries.triangleSub_right_heterogeneous", "child": "LIDT_MIPStarRE_LDT_Basic_Distribution", "via": ["solution", "statement"]}
 {"parent": "OAI.LaughlinFock.fourYNumber_15_9_1", "child": "OAIQ084L022", "via": ["solution", "statement"]}
-{"parent": "FairDivisionGraph.TreeMMS.lemma_5_2", "child": "FairDivisionGraph_TreeMMS_Algorithm", "via": ["statement"]}
+{"parent": "FairDivisionGraph.TreeMMS.lemma_5_2", "child": "FairDivisionGraph_TreeMMS_Algorithm", "via": ["solution", "statement"]}
 {"parent": "FairDivisionGraph.TreeMMS.lemma_5_2", "child": "FairDivisionGraph_TreeMMS_Model", "via": ["statement"]}
 {"parent": "FairDivisionGraph.TreeMMS.lemma_5_2", "child": "FairDivisionGraph_TreeMMS_MMS", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Combining_ExtendedLineGame_ScalarNonlinearMass", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}
@@ -68993,11 +68990,11 @@
 {"parent": "MIPStarRE.QPBT.WinImplications.twisted_commutation_of_halves", "child": "QPBT_QPBT_Test_PauliBasisTest", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.twisted_commutation_of_halves", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.twisted_commutation_of_halves", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
-{"parent": "XuDRMDP.Finite.lemma_3_2", "child": "XuDRMDP_Finite_Setup", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.lemma_3_2", "child": "XuDRMDP_Finite_Robustness", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.lemma_3_2", "child": "XuDRMDP_Finite_Returns", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.lemma_3_2", "child": "XuDRMDP_Finite_Policies", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.lemma_3_2", "child": "XuDRMDP_Finite_Ambiguity", "via": ["statement"]}
+{"parent": "XuDRMDP.Finite.lemma_3_2", "child": "XuDRMDP_Finite_Setup", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.lemma_3_2", "child": "XuDRMDP_Finite_Robustness", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.lemma_3_2", "child": "XuDRMDP_Finite_Returns", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.lemma_3_2", "child": "XuDRMDP_Finite_Policies", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.lemma_3_2", "child": "XuDRMDP_Finite_Ambiguity", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1740_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1528_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312048_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
@@ -69844,10 +69841,10 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1613", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1613", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p014_b000", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_4b265a90_b8bd_4522_9040_b7d7632358e1_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_4b265a90_b8bd_4522_9040_b7d7632358e1_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1587_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c325054_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_graph_edge_upper_bound__p2m_ec284709_a18f_4c8c_aa4a_41fee9be8d7b_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_graph_edge_upper_bound__p2m_ec284709_a18f_4c8c_aa4a_41fee9be8d7b_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p019_b002", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "PutermanMDP_Unichain_PolicyData", "child": "MarkovDecisionProcesses_AverageReward", "via": ["statement"]}
 {"parent": "PutermanMDP_Unichain_PolicyData", "child": "BlackwellDiscreteDP_NearOne_LimitMatrix", "via": ["statement"]}
@@ -71029,7 +71026,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c314059_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1405_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1515_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_simple_edge_count_upper_bound__p2m_4e1da140_2dc1_48aa_a5de_903746e6acda_a7", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_simple_edge_count_upper_bound__p2m_4e1da140_2dc1_48aa_a5de_903746e6acda_a7", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1548", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1548", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p005_b027", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
@@ -71315,7 +71312,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.CommutativityPoints.sddOpRel_reindex", "child": "LIDT_MIPStarRE_LDT_Test_StrategyFailures", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.CommutativityPoints.sddOpRel_reindex", "child": "LIDT_MIPStarRE_LDT_Basic_Distribution", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p008_b014", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_has_exact_edge_count__p2m_9b481115_396e_4251_a44a_4293d6576e9f_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_has_exact_edge_count__p2m_9b481115_396e_4251_a44a_4293d6576e9f_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c319055_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "RefDemandLearning_SlowMoving_Regret", "child": "RefDemandLearning_SlowMoving_Noise", "via": ["statement"]}
 {"parent": "RefDemandLearning_SlowMoving_Regret", "child": "RefDemandLearning_SlowMoving_Policy", "via": ["statement"]}
@@ -71976,7 +71973,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p008_b059", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1745_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1606_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_edge_bound__p2m_3fec8f0c_c3a7_4eba_b2f0_d2b6c5de2dde_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_edge_bound__p2m_3fec8f0c_c3a7_4eba_b2f0_d2b6c5de2dde_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p027_b002", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c311075_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p003_b093", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
@@ -72250,7 +72247,7 @@
 {"parent": "QPBT_QPBT_Combining_Points_Placement", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1583_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p023_b041", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_connected_drawing_edge_count_upper_bound_06232b3e__p2m_2a9dccf6_668c_4d19_9019_ad95792f6898_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_connected_drawing_edge_count_upper_bound_06232b3e__p2m_2a9dccf6_668c_4d19_9019_ad95792f6898_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1335", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1335", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.subLineTripleOf_compatibility", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -74434,7 +74431,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1666", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_ec_edge_count_eq_hist1", "child": "IntMul_Kappa_R6_Defs4", "via": ["statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_ec_edge_count_eq_hist1", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_f34871aa_4b26_4166_99f3_d88e1cde8300_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_f34871aa_4b26_4166_99f3_d88e1cde8300_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.tildeM_consistencyDefect_eq_one_sub_decoded_overlap", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.tildeM_consistencyDefect_eq_one_sub_decoded_overlap", "child": "QPBT_QPBT_Extraction_PointConsistency", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.tildeM_consistencyDefect_eq_one_sub_decoded_overlap", "child": "QPBT_QPBT_Games_DistanceTheorems_Support", "via": ["solution", "statement"]}
@@ -74477,8 +74474,8 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308050_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1605_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c310062_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "EthierKurtz.oblique_global_solver_from_pieces", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_global_solver_from_pieces", "child": "EthierKurtz_CTwiceHolder", "via": ["statement"]}
+{"parent": "EthierKurtz.oblique_global_solver_from_pieces", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_global_solver_from_pieces", "child": "EthierKurtz_CTwiceHolder", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p009_b007", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.combined_line_measurement_consistency", "child": "QPBT_QPBT_Games_ErrorFunctions", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.combined_line_measurement_consistency", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -74535,7 +74532,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.avgOver_uniform_equiv_prod", "child": "LIDT_MIPStarRE_LDT_Basic_Distribution", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.avgOver_uniform_equiv_prod", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.avgOver_uniform_equiv_prod", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace", "via": ["solution", "statement"]}
-{"parent": "BramsonQueueing.FIFOKelly.entropy_derivative", "child": "BramsonQueueing_FIFOKelly_Entropy", "via": ["statement"]}
+{"parent": "BramsonQueueing.FIFOKelly.entropy_derivative", "child": "BramsonQueueing_FIFOKelly_Entropy", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c314053_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1504_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1370_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -74586,7 +74583,7 @@
 {"parent": "AvramDividend.Classical.avram_ws01e_bt_new_actual_Qp_joint_sup_drawdown_product_law", "child": "AvramDividend.Classical.levy_exponential_real_clock_extrema_drawdown_measurable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ws01e_bt_new_actual_Qp_joint_sup_drawdown_product_law", "child": "AvramDividend.Classical.chat04_esscher_joint_exponential_horizon_probability_of_measurable_likelihood", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ws01e_bt_new_actual_Qp_joint_sup_drawdown_product_law", "child": "AvramDividend.Classical.avram_ws01e_b_actual_Qp_runningSup_terminalDrawdown_indepFun", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_edge_count_le__p2m_6af46978_2916_4816_b606_4f4cb75b2f24_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_edge_count_le__p2m_6af46978_2916_4816_b606_4f4cb75b2f24_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.overlap_AB_prime_prime_BB_prime_eq", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.overlap_AB_prime_prime_BB_prime_eq", "child": "QPBT_QPBT_Games_DistanceTheorems_Support", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.overlap_AB_prime_prime_BB_prime_eq", "child": "QPBT_QPBT_Observables_LineDefs", "via": ["solution", "statement"]}
@@ -74675,7 +74672,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1688", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1482", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1482", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_edge_count_lower_bound__p2m_e0ba5d4e_e2d8_4da4_a9bb_b103b70f3cfe_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_edge_count_lower_bound__p2m_e0ba5d4e_e2d8_4da4_a9bb_b103b70f3cfe_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1467_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.deltaQld_mono", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.deltaQld_mono", "child": "LIDT_MIPStarRE_LDT_CommutativityPoints_Defs", "via": ["solution", "statement"]}
@@ -75991,7 +75988,7 @@
 {"parent": "AvramDividend.Classical.avram_ws01e_bi_new_levy_inverse_esscher_measure_equality", "child": "AvramDividend_Classical_Reflection", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ws01e_bi_new_levy_inverse_esscher_measure_equality", "child": "AvramDividend.Classical.avram_ws01e_bi_new_inverse_clock_measure_equality", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1363_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_graph_edge_lower_bound__p2m_d831683a_dc67_4372_b92f_31061460229f_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_graph_edge_lower_bound__p2m_d831683a_dc67_4372_b92f_31061460229f_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1389_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_FinalFields", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_FinalFields", "child": "LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransport_Utilities", "via": ["statement"]}
@@ -76863,7 +76860,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1422_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1368_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p026_b007", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "GaoImpatientMNL.Pricing.theorem_4_1", "child": "GaoImpatientMNL_Pricing_Model", "via": ["statement"]}
+{"parent": "GaoImpatientMNL.Pricing.theorem_4_1", "child": "GaoImpatientMNL_Pricing_Model", "via": ["solution", "statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Statements", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Statements", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Order", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Statements", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}
@@ -77370,10 +77367,10 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c320053_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1422_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312087_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "ChenGallegoPricing.ABE.theorem_1", "child": "ChenGallegoPricing_ABE_Geometry", "via": ["statement"]}
-{"parent": "ChenGallegoPricing.ABE.theorem_1", "child": "ChenGallegoPricing_ABE_Algorithm", "via": ["statement"]}
-{"parent": "ChenGallegoPricing.ABE.theorem_1", "child": "ChenGallegoPricing_ABE_Model", "via": ["statement"]}
-{"parent": "ChenGallegoPricing.ABE.theorem_1", "child": "ChenGallegoPricing_ABE_Process", "via": ["statement"]}
+{"parent": "ChenGallegoPricing.ABE.theorem_1", "child": "ChenGallegoPricing_ABE_Geometry", "via": ["solution", "statement"]}
+{"parent": "ChenGallegoPricing.ABE.theorem_1", "child": "ChenGallegoPricing_ABE_Algorithm", "via": ["solution", "statement"]}
+{"parent": "ChenGallegoPricing.ABE.theorem_1", "child": "ChenGallegoPricing_ABE_Model", "via": ["solution", "statement"]}
+{"parent": "ChenGallegoPricing.ABE.theorem_1", "child": "ChenGallegoPricing_ABE_Process", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.throughPoint_eq_zeroPoint_of_m_eq_one", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.throughPoint_eq_zeroPoint_of_m_eq_one", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Order", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.throughPoint_eq_zeroPoint_of_m_eq_one", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -77565,7 +77562,7 @@
 {"parent": "QPBT_QPBT_Observables_ExpandedPlacement", "child": "QPBT_QPBT_Games_Defs", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c311061_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "BramsonQueueing.Fluid.proposition_4_11", "child": "BramsonQueueing_Fluid_FluidModel", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_simple_graph_edge_bound__p2m_58a549ee_4768_4664_9403_907071b96f48_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_simple_graph_edge_bound__p2m_58a549ee_4768_4664_9403_907071b96f48_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1654", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1654", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p009_b026", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
@@ -77738,7 +77735,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1592_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c311082_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c315062_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_graph_edge_count__p2m_92669c9b_dd39_4b0e_bff1_b3f1c8b950b1_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_graph_edge_count__p2m_92669c9b_dd39_4b0e_bff1_b3f1c8b950b1_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.pointPairLabels_eq_of_win", "child": "QPBT_QPBT_Algebra_Pauli", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.pointPairLabels_eq_of_win", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.pointPairLabels_eq_of_win", "child": "QPBT_QPBT_Observables_Defs", "via": ["solution", "statement"]}
@@ -79069,7 +79066,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.ProjStrat.sourceRoleRegisterPointConsistency_ofSymConsistency", "child": "LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Scalar", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c306054_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c318063_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "RefDemandLearning.SlowMoving.proposition_1", "child": "RefDemandLearning_SlowMoving_Mechanism", "via": ["statement"]}
+{"parent": "RefDemandLearning.SlowMoving.proposition_1", "child": "RefDemandLearning_SlowMoving_Mechanism", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1364_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.extendedQ_spec", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.extendedQ_spec", "child": "QPBT_QPBT_Algebra_Pauli", "via": ["solution", "statement"]}
@@ -79618,7 +79615,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1603_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1408_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c313062_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_supergraph_with_maximal_edge_count__p2m_d65752b0_c280_4c98_926b_0ae69c395723_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_supergraph_with_maximal_edge_count__p2m_d65752b0_c280_4c98_926b_0ae69c395723_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p027_positive63", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c311063_s4", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.ordered_cross_dist_le_explicit", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
@@ -79873,7 +79870,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p005_b026", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1502_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "CloseGaps_DPA_RevenueEvents", "child": "CloseGaps_DPA_Execution", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_drawingOn_disconnected_strict_extension__p2m_bb4fff64_74f4_4b90_94e5_c66daa170ebe_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawingOn_disconnected_strict_extension__p2m_bb4fff64_74f4_4b90_94e5_c66daa170ebe_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.fromHToG_gHatHalfProduct_reverse_eq_adjoint", "child": "LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.fromHToG_gHatHalfProduct_reverse_eq_adjoint", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.fromHToG_gHatHalfProduct_reverse_eq_adjoint", "child": "LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions", "via": ["solution", "statement"]}
@@ -79993,7 +79990,7 @@
 {"parent": "MIPStarRE.QPBT.WinImplications.msVarObs_anticommutator_le", "child": "QPBT_QPBT_Test_MagicSquareTheorems_Rigidity_Transfer", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.msVarObs_anticommutator_le", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.msVarObs_anticommutator_le", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_extension__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a4__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a5__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a6", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_extension__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a4__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a5__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a6", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p008_b083", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1466_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_TraceForms", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["statement"]}
@@ -80480,7 +80477,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1549", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p010_b031", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c311053_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_drawable_graph_edge_bound__p2m_1016eb9f_955e_4666_8793_89a9a11ff9b9_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_drawable_graph_edge_bound__p2m_1016eb9f_955e_4666_8793_89a9a11ff9b9_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c314086_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1632_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "QPBT_QPBT_Test_MagicSquareTheorems_Rigidity_Dilation", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["statement"]}
@@ -81439,7 +81436,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1593", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c311087_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "CapacitatedAssort.General.theorem_4", "child": "CapacitatedAssort_General_Model", "via": ["statement"]}
-{"parent": "CapacitatedAssort.General.theorem_4", "child": "CapacitatedAssort_General_Algorithm", "via": ["statement"]}
+{"parent": "CapacitatedAssort.General.theorem_4", "child": "CapacitatedAssort_General_Algorithm", "via": ["solution", "statement"]}
 {"parent": "CapacitatedAssort.General.theorem_4", "child": "CapacitatedAssort_General_Work", "via": ["statement"]}
 {"parent": "CapacitatedAssort.General.theorem_4", "child": "CapacitatedAssort_General_Functions", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1520_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -81600,7 +81597,7 @@
 {"parent": "MIPStarRE.QPBT.WinImplications.evalCoefficient_padTo", "child": "LIDT_MIPStarRE_LDT_Tactic_AvgCongr", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.evalCoefficient_padTo", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.evalCoefficient_padTo", "child": "QPBT_QPBT_Test_LowDegreeGame", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_drawable_edge_count_lower_bound__p2m_c4dc32d3_4855_4c98_90fe_4846f7b25dee_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_drawable_edge_count_lower_bound__p2m_c4dc32d3_4855_4c98_90fe_4846f7b25dee_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1720", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1720", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p025_b036", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
@@ -82077,7 +82074,7 @@
 {"parent": "GaoImpatientMNL_Pricing_Heuristic", "child": "SinglePointPricing_Det_Setting", "via": ["statement"]}
 {"parent": "GaoImpatientMNL_Pricing_Heuristic", "child": "GaoImpatientMNL_Pricing_Relaxation", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308061_s5", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "BramsonQueueing.FIFOKelly.entropy_nonnegative", "child": "BramsonQueueing_FIFOKelly_Entropy", "via": ["statement"]}
+{"parent": "BramsonQueueing.FIFOKelly.entropy_nonnegative", "child": "BramsonQueueing_FIFOKelly_Entropy", "via": ["solution", "statement"]}
 {"parent": "WangGreenTech.Regulation.proposition_4", "child": "WangGreenTech_Regulation_Policies", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312061_s4", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c310045_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
@@ -83448,7 +83445,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1497", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1497", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c316051_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.connected_drawing_euler_and_face_degree_bound__p2m_41c4318d_ce97_4723_a74a_87f78274716c_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_drawing_euler_and_face_degree_bound__p2m_41c4318d_ce97_4723_a74a_87f78274716c_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1454_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.outcomeWeight_directCombinedStrategy", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.outcomeWeight_directCombinedStrategy", "child": "QPBT_QPBT_Combining_DirectLowDegree_Transport_Combining_Strategy", "via": ["solution", "statement"]}
@@ -83542,11 +83539,11 @@
 {"parent": "QPBT_QPBT_Combining_ExtendedLineGame_PairPointConsistency", "child": "QPBT_QPBT_Combining_ExtendedLineGame_PairMeasurement", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Combining_ExtendedLineGame_PairPointConsistency", "child": "LIDT_MIPStarRE_LDT_Basic_Distribution", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Combining_ExtendedLineGame_PairPointConsistency", "child": "QPBT_QPBT_Games_Defs", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.theorem_3_1", "child": "XuDRMDP_Finite_Setup", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.theorem_3_1", "child": "XuDRMDP_Finite_Robustness", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.theorem_3_1", "child": "XuDRMDP_Finite_Returns", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.theorem_3_1", "child": "XuDRMDP_Finite_Policies", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.theorem_3_1", "child": "XuDRMDP_Finite_Ambiguity", "via": ["statement"]}
+{"parent": "XuDRMDP.Finite.theorem_3_1", "child": "XuDRMDP_Finite_Setup", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.theorem_3_1", "child": "XuDRMDP_Finite_Robustness", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.theorem_3_1", "child": "XuDRMDP_Finite_Returns", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.theorem_3_1", "child": "XuDRMDP_Finite_Policies", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.theorem_3_1", "child": "XuDRMDP_Finite_Ambiguity", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1671_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.projZ_subLineExtDirection_mem_span", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.projZ_subLineExtDirection_mem_span", "child": "QPBT_QPBT_Combining_DirectLowDegree_Geometry", "via": ["solution", "statement"]}
@@ -83745,7 +83742,7 @@
 {"parent": "QPBT_QPBT_Observables_WinImplications_InterchangedCommutation", "child": "LIDT_MIPStarRE_LDT_Tactic_AvgCongr", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Observables_WinImplications_InterchangedCommutation", "child": "QPBT_QPBT_Test_PauliBasisTest", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Observables_WinImplications_InterchangedCommutation", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["statement"]}
-{"parent": "PutermanMDP.Multichain.strict_improvement", "child": "PutermanMDP_Multichain_Criteria", "via": ["statement"]}
+{"parent": "PutermanMDP.Multichain.strict_improvement", "child": "PutermanMDP_Multichain_Criteria", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c306080_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p002_b034", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1375_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -84558,7 +84555,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p026_b034", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p005_b028", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c314083_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.exists_triangulating_planar_supergraph__p2m_64a468bf_7449_4dff_8ab0_8bb8c0a06a4e_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.exists_triangulating_planar_supergraph__p2m_64a468bf_7449_4dff_8ab0_8bb8c0a06a4e_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.dline_dline_rejection_le_diagonalParameterEvaluatedCoefficientDefect_add", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.dline_dline_rejection_le_diagonalParameterEvaluatedCoefficientDefect_add", "child": "QPBT_QPBT_Combining_ExtendedLineGame", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.dline_dline_rejection_le_diagonalParameterEvaluatedCoefficientDefect_add", "child": "LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation", "via": ["solution", "statement"]}
@@ -84657,7 +84654,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p004_b065", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "PochetWolsey_WagnerWhitin_ShortestPath", "child": "PochetWolsey_WagnerWhitin_LotSizing", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1601_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.connected_planar_edge_count_upper__p2m_23ef3f28_c786_4f0c_b412_311d85f11230_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_planar_edge_count_upper__p2m_23ef3f28_c786_4f0c_b412_311d85f11230_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Preliminaries_Completion", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Preliminaries_Completion", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Order", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Preliminaries_Completion", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}
@@ -85564,7 +85561,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p026_b040", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c311058_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p007_b031", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.edge_count_of_maximal_planar_drawing__p2m_68514819_a212_4a71_843f_93b3ee5d7783_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.edge_count_of_maximal_planar_drawing__p2m_68514819_a212_4a71_843f_93b3ee5d7783_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c310036_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.switcherooAggregateThirdTerm_eq_fourthTerm", "child": "LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.switcherooAggregateThirdTerm_eq_fourthTerm", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -86059,7 +86056,7 @@
 {"parent": "avram_ws01e_bi_new_record_upper_ray_ae_ain_e_c1afc633", "child": "AvramDividend.Classical.avram_ws01e_b_runningSup_gt_iff_strict_upcrossing_before_horizon", "via": ["solution", "statement"]}
 {"parent": "avram_ws01e_bi_new_record_upper_ray_ae_ain_e_c1afc633", "child": "AvramDividend.Classical.chat08_upper_passage_clock_measurable", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1488_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.connected_edge_count_le_three_n_sub_six_from_drawing__p2m_5438d717_60ba_4719_bd8d_a39b0e45c967_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_edge_count_le_three_n_sub_six_from_drawing__p2m_5438d717_60ba_4719_bd8d_a39b0e45c967_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1428_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p027_b026", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1571_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -87243,7 +87240,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.Preliminaries.question_switchSandwich_left_gap", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Preliminaries.question_switchSandwich_left_gap", "child": "LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p015_b029", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_edge_upper_bound__p2m_68d7f981_8fd3_430a_af01_9cf213d6ade1_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_edge_upper_bound__p2m_68d7f981_8fd3_430a_af01_9cf213d6ade1_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.stateQForm_pairState_eq_AA_prime_BA_prime_prime", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.stateQForm_pairState_eq_AA_prime_BA_prime_prime", "child": "QPBT_QPBT_Algebra_Pauli", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.stateQForm_pairState_eq_AA_prime_BA_prime_prime", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -87600,7 +87597,7 @@
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.twisted_commutator_avg_le_explicit", "child": "QPBT_QPBT_Test_PauliBasisTest", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.twisted_commutator_avg_le_explicit", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.twisted_commutator_avg_le_explicit", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.drawable_supergraph_edge_count__p2m_37df6a54_88e4_4a1c_bff9_1bc979b9e8cf_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.drawable_supergraph_edge_count__p2m_37df6a54_88e4_4a1c_bff9_1bc979b9e8cf_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c306060_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1586_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312083_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
@@ -90473,7 +90470,7 @@
 {"parent": "MIPStarRE.QPBT.op_dist_sq_commutator_right_le_explicit", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.op_dist_sq_commutator_right_le_explicit", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p020_b039", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_drawable_graph_has_triangulation_edge_count__p2m_f6fbb2eb_cab6_4ebc_b0c8_9e00fa476533_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_drawable_graph_has_triangulation_edge_count__p2m_f6fbb2eb_cab6_4ebc_b0c8_9e00fa476533_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p017_b001", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p030_b004", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c314061_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
@@ -90501,7 +90498,7 @@
 {"parent": "QPBT_QPBT_Combining_Lines_SubLineBranch", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Combining_Lines_SubLineBranch", "child": "QPBT_QPBT_Test_LowDegreeGame", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312083_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_connected_augmentation_large__p2m_eaa8e65f_484e_4122_a273_e383810a3b15_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_connected_augmentation_large__p2m_eaa8e65f_484e_4122_a273_e383810a3b15_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.placeSide_extracted", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.placeSide_extracted", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.placeSide_extracted", "child": "QPBT_QPBT_Observables_Defs", "via": ["solution", "statement"]}
@@ -90568,7 +90565,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1436", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1436", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p028_b018", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.connected_planar_face_accounting__p2m_1bec9fe1_f96d_4d95_8b96_08ac82faf267_a7", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_planar_face_accounting__p2m_1bec9fe1_f96d_4d95_8b96_08ac82faf267_a7", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1644_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c314087_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p022_b023", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
@@ -90857,7 +90854,7 @@
 {"parent": "LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_FiberBounds", "child": "LIDT_MIPStarRE_LDT_MainInductionStep_Defs", "via": ["statement"]}
 {"parent": "BramsonQueueing_FIFOKelly_Trace", "child": "BramsonQueueing_FIFOKelly_State", "via": ["statement"]}
 {"parent": "BramsonQueueing_FIFOKelly_Trace", "child": "BramsonQueueing_FIFOKelly_Primitives", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_completion_edge_count_7369a359__p2m_57f967cc_933c_4757_9db5_f93a97c57bfc_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_completion_edge_count_7369a359__p2m_57f967cc_933c_4757_9db5_f93a97c57bfc_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c318023_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c318053_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c313086_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
@@ -92951,7 +92948,7 @@
 {"parent": "NetworkDuopoly_Asymmetry_bestResponse", "child": "NetworkDuopoly_Asymmetry_revenue", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p002_b059", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c328054_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.exists_connected_planar_supergraph_for_edge_bound_30a2cd75__p2m_66e594d2_cb5c_4a09_8145_3dd71ccc0d91_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.exists_connected_planar_supergraph_for_edge_bound_30a2cd75__p2m_66e594d2_cb5c_4a09_8145_3dd71ccc0d91_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312075_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308036_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c307057_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
@@ -93158,7 +93155,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwich_postMoveFlatStep", "child": "LIDT_MIPStarRE_LDT_Test_StrategyFailures", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.commuteGHalfSandwich_postMoveFlatStep", "child": "LIDT_MIPStarRE_LDT_MainInductionStep_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p027_b035", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_edge_bound__p2m_30825c49_c1ed_4d16_b870_dd4c24d4c0d7_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_edge_bound__p2m_30825c49_c1ed_4d16_b870_dd4c24d4c0d7_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.parameterEvalDefect_le_completed_add_none", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.parameterEvalDefect_le_completed_add_none", "child": "QPBT_QPBT_Combining_DirectLowDegree_Geometry", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.parameterEvalDefect_le_completed_add_none", "child": "LIDT_MIPStarRE_LDT_CommutativityPoints_Defs", "via": ["solution", "statement"]}
@@ -93400,8 +93397,8 @@
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.answerComMainForCarrier_ofAnswerGood", "child": "LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Scalar", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p002_b062", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308061_s7", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "EthierKurtz.oblique_boundary_local_solver", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_boundary_local_solver", "child": "EthierKurtz_CTwiceHolder", "via": ["statement"]}
+{"parent": "EthierKurtz.oblique_boundary_local_solver", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_boundary_local_solver", "child": "EthierKurtz_CTwiceHolder", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.supportfree_repeated_b055", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.polynomialOnLine_lowDegreeEncoding_natDegree_le_one_of_axis", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.polynomialOnLine_lowDegreeEncoding_natDegree_le_one_of_axis", "child": "QPBT_QPBT_Algebra_Lines", "via": ["solution", "statement"]}
@@ -93902,7 +93899,7 @@
 {"parent": "MIPStarRE.QPBT.SubLineWitness.avgOver_zPointOverlap_le_one_at", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1572", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1572", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_e2c10b97_84b2_4ddf_bc9b_07844206edcc_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_e2c10b97_84b2_4ddf_bc9b_07844206edcc_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c314051_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308063_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.avgOver_distinct_bounded_le_avgOver_uniform_add_tv_of_any_k", "child": "LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core", "via": ["solution", "statement"]}
@@ -94198,7 +94195,7 @@
 {"parent": "MIPStarRE.QPBT.avgOver_prod_restrictedLinePointDist_le", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.avgOver_prod_restrictedLinePointDist_le", "child": "QPBT_QPBT_Test_LowDegreeGame", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1584_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_edge_count_upper__p2m_fe266be1_b394_4319_ae10_b52cb17a5e91_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_edge_count_upper__p2m_fe266be1_b394_4319_ae10_b52cb17a5e91_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1350_b3", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312082_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.pauliCL_dline_eq", "child": "QPBT_QPBT_Algebra_Pauli", "via": ["solution", "statement"]}
@@ -94259,7 +94256,7 @@
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.stateQForm_place_AB_prime_prime_mul_BB_prime", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.stateQForm_place_AB_prime_prime_mul_BB_prime", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.supportfree_repeated_b001", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_exact_edge_count_completion__p2m_536aaf66_0a7c_4c8d_b8d1_73a7e039d5bd_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_exact_edge_count_completion__p2m_536aaf66_0a7c_4c8d_b8d1_73a7e039d5bd_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p028_b003", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c320055_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_Core", "child": "LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_ErrorBounds", "via": ["statement"]}
@@ -94850,11 +94847,11 @@
 {"parent": "MIPStarRE.QPBT.direct_ld_transport_constants_explicit", "child": "LIDT_MIPStarRE_LDT_Tactic_AvgCongr", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.direct_ld_transport_constants_explicit", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "CloseGaps.DPA.theorem_1", "child": "CloseGaps_DPA_RevenueEvents", "via": ["solution", "statement"]}
-{"parent": "XuDRMDP.Finite.lemma_3_3", "child": "XuDRMDP_Finite_Setup", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.lemma_3_3", "child": "XuDRMDP_Finite_Robustness", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.lemma_3_3", "child": "XuDRMDP_Finite_Returns", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.lemma_3_3", "child": "XuDRMDP_Finite_Policies", "via": ["statement"]}
-{"parent": "XuDRMDP.Finite.lemma_3_3", "child": "XuDRMDP_Finite_Ambiguity", "via": ["statement"]}
+{"parent": "XuDRMDP.Finite.lemma_3_3", "child": "XuDRMDP_Finite_Setup", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.lemma_3_3", "child": "XuDRMDP_Finite_Robustness", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.lemma_3_3", "child": "XuDRMDP_Finite_Returns", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.lemma_3_3", "child": "XuDRMDP_Finite_Policies", "via": ["solution", "statement"]}
+{"parent": "XuDRMDP.Finite.lemma_3_3", "child": "XuDRMDP_Finite_Ambiguity", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.point_point_rejection_le", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.point_point_rejection_le", "child": "QPBT_QPBT_Games_Distance", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.point_point_rejection_le", "child": "QPBT_QPBT_Combining_ExtendedLineGame", "via": ["solution", "statement"]}
@@ -94970,7 +94967,7 @@
 {"parent": "BramsonQueueing.FIFOKelly.emptying_time_bound", "child": "BramsonQueueing_FIFOKelly_Fluid", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_edge_lower_bound__p2m_ac994e54_6c64_49c2_8ec9_d8877c55139c_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ws01e_cr_new_levy_psi_hasDerivAt_positive", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.connected_planar_edge_bound_for_edge_bound_30a2cd75__p2m_66e594d2_cb5c_4a09_8145_3dd71ccc0d91_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_planar_edge_bound_for_edge_bound_30a2cd75__p2m_66e594d2_cb5c_4a09_8145_3dd71ccc0d91_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1611", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1611", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.consistencyDefect_padState_compressAt", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
@@ -95090,7 +95087,7 @@
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankCentBound11bFix", "child": "IntMul_Kappa_R8_Data_BitOppbankPndFix", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankCentBound11bFix", "child": "IntMul_Kappa_R6_Defs4", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankCentBound11bFix", "child": "IntMul_Kappa_R8_Data_BitOppbankCentFix", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_edge_count__p2m_e69220cf_5cc1_4342_a84f_9ccd3d593737_a7", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_edge_count__p2m_e69220cf_5cc1_4342_a84f_9ccd3d593737_a7", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c318055_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.answerSuccessorRecursiveSliceMeasurements_ofMainInductionHypothesis", "child": "LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_ErrorBounds", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.answerSuccessorRecursiveSliceMeasurements_ofMainInductionHypothesis", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["solution", "statement"]}
@@ -97040,7 +97037,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1628", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1628", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p007_b035", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_edge_count_05250361_edf9_4bba_b0bb_f1c9e6abc2aa__p2m_8b7a9859_39fc_4bba_ad5e_209d86284fdb_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_edge_count_05250361_edf9_4bba_b0bb_f1c9e6abc2aa__p2m_8b7a9859_39fc_4bba_ad5e_209d86284fdb_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1651_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1441", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1441", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
@@ -97549,7 +97546,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.ldSandwichLineOnePoint_endpoint_comm_error_le", "child": "LIDT_MIPStarRE_LDT_MainInductionStep_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c311062_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "OAI.LaughlinFock.fourYNumber_15_13_9", "child": "OAIQ084L022", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planarSimpleEdgeBound__p2m_4a6667dc_3f5b_4370_a682_d1aef720dceb_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planarSimpleEdgeBound__p2m_4a6667dc_3f5b_4370_a682_d1aef720dceb_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1705_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1459_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1710_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -97767,7 +97764,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p003_b022", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1453", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1453", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_edge_bound__p2m_26108e05_c2fc_4fe9_8d2c_bd306f1fbc83_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_edge_bound__p2m_26108e05_c2fc_4fe9_8d2c_bd306f1fbc83_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308031_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p005_b062", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Test.mainFormalInductionNu_nonneg", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["solution", "statement"]}
@@ -97848,7 +97845,7 @@
 {"parent": "AvramDividend.Classical.avram_ws01e_cr_new_c1_derivative_growth_of_standing", "child": "AvramDividend.Classical.scaleFunction_tilted_positive_monotone", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ws01e_cr_new_c1_derivative_growth_of_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ws01e_cr_new_c1_derivative_growth_of_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_supergraph__p2m_d7d089da_42dd_4fb9_9d5f_fd887681c907_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_supergraph__p2m_d7d089da_42dd_4fb9_9d5f_fd887681c907_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1492", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1492", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.connected_maximal_drawable_edge_count__p2m_93ac3156_1efb_4b4a_874e_65a14cba6456_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
@@ -98048,7 +98045,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p021_positive63", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1527_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "ChenWasserstein_Reform_Data", "child": "WassDRCCP_Improved_Setting", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.exists_connected_planar_supergraph__p2m_c955d1e3_af39_465d_8618_7c677be66dad_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.exists_connected_planar_supergraph__p2m_c955d1e3_af39_465d_8618_7c677be66dad_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.MagicSquareRigidity.conjTranspose_mul_le_one_of_obsOf", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.MagicSquareRigidity.conjTranspose_mul_le_one_of_obsOf", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.MagicSquareRigidity.conjTranspose_mul_le_one_of_obsOf", "child": "QPBT_QPBT_Test_MagicSquareTheorems_Basic", "via": ["solution", "statement"]}
@@ -99077,7 +99074,7 @@
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.stateQForm_placePlayers", "child": "QPBT_QPBT_Test_PauliBasisTest", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.stateQForm_placePlayers", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.stateQForm_placePlayers", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_edge_bound__p2m_77670b4a_3d82_4709_99a1_b7afb10e3984_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_edge_bound__p2m_77670b4a_3d82_4709_99a1_b7afb10e3984_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312063_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SdpMatrixBridge", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SdpMatrixBridge", "child": "LIDT_MIPStarRE_Quantum_FiniteConicDuality", "via": ["statement"]}
@@ -99327,7 +99324,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p002_b078", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1394", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1394", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_simple_graph_edge_bound__p2m_954f7585_7fa1_4081_ba59_71da7d8d78f3_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_simple_graph_edge_bound__p2m_954f7585_7fa1_4081_ba59_71da7d8d78f3_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1654_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p021_b026", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.wide_coarse_distinct_p020_b021", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
@@ -99385,7 +99382,7 @@
 {"parent": "MIPStarRE.QPBT.sum_norm_rightTensor_conjIsometry_sub_sq_le", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c316060_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p002", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_edge_count_upper_bound_for_at_least_three_vertices__p2m_e0ba5d4e_e2d8_4da4_a9bb_b103b70f3cfe_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_edge_count_upper_bound_for_at_least_three_vertices__p2m_e0ba5d4e_e2d8_4da4_a9bb_b103b70f3cfe_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QPBT_QPBT_Combining_Lines_SubLineSupport", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Combining_Lines_SubLineSupport", "child": "LIDT_MIPStarRE_LDT_CommutativityPoints_Defs", "via": ["statement"]}
 {"parent": "QPBT_QPBT_Combining_Lines_SubLineSupport", "child": "LIDT_MIPStarRE_LDT_Pasting_Defs_Families", "via": ["statement"]}
@@ -99641,7 +99638,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1523", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c327053_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1532_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "PutermanMDP.Multichain.laurent_improvement", "child": "PutermanMDP_Multichain_Criteria", "via": ["statement"]}
+{"parent": "PutermanMDP.Multichain.laurent_improvement", "child": "PutermanMDP_Multichain_Criteria", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.point_obs_commutator_comm_le_explicit", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.point_obs_commutator_comm_le_explicit", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.point_obs_commutator_comm_le_explicit", "child": "QPBT_QPBT_Games_Distance", "via": ["solution", "statement"]}
@@ -99845,7 +99842,7 @@
 {"parent": "ClickomaniaNPC_ThreeColor_Languages", "child": "ClickomaniaNPC_ThreeColor_Play", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c310080_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1358_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.connected_planar_edge_bound_repair__p2m_21446003_fac0_46fd_be6f_03d17c7cc1aa_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_planar_edge_bound_repair__p2m_21446003_fac0_46fd_be6f_03d17c7cc1aa_a4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.AnswerRestrictedProbabilitiesStatement.ofWeightedBounds", "child": "LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_ErrorBounds", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.AnswerRestrictedProbabilitiesStatement.ofWeightedBounds", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.MainInductionStep.AnswerRestrictedProbabilitiesStatement.ofWeightedBounds", "child": "LIDT_MIPStarRE_LDT_Tactic_LdtSimpAttr", "via": ["solution", "statement"]}

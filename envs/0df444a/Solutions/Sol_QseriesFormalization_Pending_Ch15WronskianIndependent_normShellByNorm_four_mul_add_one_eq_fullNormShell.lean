@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.normShellByNorm_four_mul_add_one_eq_fullNormShell
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:12:25.664435+00:00
 -- url     : https://prove2.me/submissions/89b1929f-a320-4255-8e43-1ef333d547b8
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_triangulated_supergraph_edge_count_bound
 -- name    : WilliamsonShmoys.planar_drawing_has_triangulated_supergraph_edge_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:41:46.626213+00:00
 -- url     : https://prove2.me/theorems/2eec570b-ffd5-435e-a8fa-d87718384d1c

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_qPochInfPS_mul_E5RationalizerRat_eq_E5DenominatorCoreRat
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.qPochInfPS_mul_E5RationalizerRat_eq_E5DenominatorCoreRat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:28:25.42599+00:00
 -- url     : https://prove2.me/theorems/3f7a53c1-9b65-432e-94b0-750e27a38668
 -- title:

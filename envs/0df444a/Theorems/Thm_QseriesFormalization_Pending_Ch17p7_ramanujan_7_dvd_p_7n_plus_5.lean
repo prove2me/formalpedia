@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch17p7_ramanujan_7_dvd_p_7n_plus_5
 -- name    : QseriesFormalization.Pending.Ch17p7.ramanujan_7_dvd_p_7n_plus_5
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:30:23.678495+00:00
 -- url     : https://prove2.me/theorems/5eb62e9d-7962-4c18-b9c9-92cf1844e2e4
 -- title:

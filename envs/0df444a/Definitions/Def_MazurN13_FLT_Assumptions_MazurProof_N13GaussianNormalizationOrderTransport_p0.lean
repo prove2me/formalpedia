@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianNormalizationOrderTransport_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianNormalizationOrderTransport_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:18:20.44383+00:00
 -- url     : https://prove2.me/theorems/a99776a5-dddd-49f7-a3ed-21736ccfa2cd
 -- title:

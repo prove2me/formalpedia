@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawable_maximal_extension_euler
 -- name    : WilliamsonShmoys.planar_drawable_maximal_extension_euler
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:19:37.782988+00:00
 -- url     : https://prove2.me/theorems/0bddf106-34d7-477e-9a27-7b669d8814d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_drawing_edge_count_upper_bound_repair3
 -- name    : WilliamsonShmoys.connected_planar_drawing_edge_count_upper_bound_repair3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:06:32.923492+00:00
 -- url     : https://prove2.me/theorems/3bfdd216-0218-4372-98fc-4ac585666340

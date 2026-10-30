@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_qPochAPPS_mul_qPochAPNegPS
 -- name    : QseriesFormalization.Ch10TwoVar.qPochAPPS_mul_qPochAPNegPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:04:09.179964+00:00
 -- url     : https://prove2.me/theorems/8769a3c6-6ba9-410c-bf89-b9b39c2184af
 -- title:

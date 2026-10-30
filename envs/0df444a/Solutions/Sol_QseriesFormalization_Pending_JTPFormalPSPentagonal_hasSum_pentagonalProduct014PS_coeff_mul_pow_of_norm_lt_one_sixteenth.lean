@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.hasSum_pentagonalProduct014PS_coeff_mul_pow_of_norm_lt_one_sixteenth
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:28:29.559271+00:00
 -- url     : https://prove2.me/submissions/8ae981f1-fb39-47c3-b3b7-491fa03a352f
 

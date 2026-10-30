@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_apSigmaLambertFactor_eq_etaQuotient_iff_mul_expandFive
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.apSigmaLambertFactor_eq_etaQuotient_iff_mul_expandFive
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:10:44.297274+00:00
 -- url     : https://prove2.me/theorems/5df1796e-3628-4a25-9bdf-80fd7845388e
 -- title:

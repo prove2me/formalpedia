@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_wronskianCore_add_conj_of_norm_odd
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.wronskianCore_add_conj_of_norm_odd
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:20:34.709703+00:00
 -- url     : https://prove2.me/theorems/889cfba9-e18a-40c0-973a-6ca946dace3d
 -- title:

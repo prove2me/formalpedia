@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.jTripleProductPartialLaurent_eq_coe_partial_jTripleFactorPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:35:58.367978+00:00
 -- url     : https://prove2.me/submissions/5e538a9d-fdb1-4b92-b7d0-c9df38890950
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_sumIcc_sub_telescope
 -- name    : QseriesFormalization.PartII.Ch07.sumIcc_sub_telescope
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:24:22.529598+00:00
 -- url     : https://prove2.me/theorems/94f13733-e9d4-4f60-be92-7b497ec968d3
 -- title:

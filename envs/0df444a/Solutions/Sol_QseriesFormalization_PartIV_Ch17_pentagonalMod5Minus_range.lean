@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.pentagonalMod5Minus_range
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:50:16.625653+00:00
 -- url     : https://prove2.me/submissions/67711ffb-a8a5-46a5-9629-17d9b84913ef
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.gBz_odd_residual
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:01:45.374447+00:00
 -- url     : https://prove2.me/submissions/3c3b6631-29f7-4d02-808f-0fe28d30e8f0
 

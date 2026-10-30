@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_coeff_pentagonalProduct023PS_eq_coeff_partial
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.coeff_pentagonalProduct023PS_eq_coeff_partial
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:31:58.330008+00:00
 -- url     : https://prove2.me/theorems/88b1b858-ddeb-446e-8771-b39f2449b572
 -- title:

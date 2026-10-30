@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch03_finite_jacobi_triple_product
 -- name    : QseriesFormalization.PartI.Ch03.finite_jacobi_triple_product
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:21:12.718979+00:00
 -- url     : https://prove2.me/theorems/59002a8f-d0c5-4e3f-a057-8a47b7e02141
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_face_data_arithmetic__p2m_58a549ee_4768_4664_9403_907071b96f48_a4
 -- name    : WilliamsonShmoys.face_data_arithmetic__p2m_58a549ee_4768_4664_9403_907071b96f48_a4
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-29T05:53:50.120112+00:00
 -- url     : https://prove2.me/theorems/811751c4-7b8e-4969-a6e6-f904ed10f9d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_ArrayObjects_Object_Rolled_raw_row_indicators_equal
 -- name    : OAI.Rokhlin.ArrayObjects.Object.Rolled.raw_row_indicators_equal
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:44:48.493328+00:00
 -- url     : https://prove2.me/theorems/895a6e88-dd3c-48c3-958f-5f54199fa492

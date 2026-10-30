@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.threeIsogeny35_three_nsmul_eq_three_pow_nsmul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:20:52.08857+00:00
 -- url     : https://prove2.me/submissions/419a238d-fa34-4493-a592-656487d0942a
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_pentagonalSign_mem
 -- name    : QseriesFormalization.PartIV.Ch19.pentagonalSign_mem
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:58:21.441647+00:00
 -- url     : https://prove2.me/theorems/ed28944f-c484-4677-97b9-a5d455b3ba79
 -- title:

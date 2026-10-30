@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.drawable_supergraph_face_count__p2m_b2793381_3dc8_4ae5_ab06_93034309e127_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T22:57:27.467729+00:00
 -- url     : https://prove2.me/submissions/e0521f5d-3804-4c90-b4f0-c10527734504
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

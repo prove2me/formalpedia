@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.JK_one_eq_apKneg_prod_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:56:52.089506+00:00
 -- url     : https://prove2.me/submissions/d814d1a5-7f55-4f9b-8483-7762b66515c9
 

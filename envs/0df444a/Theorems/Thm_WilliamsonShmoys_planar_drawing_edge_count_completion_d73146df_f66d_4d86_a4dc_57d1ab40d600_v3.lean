@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_count_completion_d73146df_f66d_4d86_a4dc_57d1ab40d600_v3
 -- name    : WilliamsonShmoys.planar_drawing_edge_count_completion_d73146df_f66d_4d86_a4dc_57d1ab40d600_v3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T09:39:18.104982+00:00
 -- url     : https://prove2.me/theorems/54a0e51c-08bc-41d0-9e00-f8ba78b35c82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawingOn_edge_count_repair_3_maximal_lower_edge_bound
 -- name    : WilliamsonShmoys.maximal_planar_drawingOn_edge_count_repair_3_maximal_lower_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T11:01:04.507157+00:00
 -- url     : https://prove2.me/theorems/3866b437-4938-4cb4-96fc-954e96126455

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_card_maximal_edge_count
 -- name    : WilliamsonShmoys.planar_supergraph_card_maximal_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T19:51:10.270703+00:00
 -- url     : https://prove2.me/theorems/6a5dd28f-2326-433e-8b91-8d8c26373ca9

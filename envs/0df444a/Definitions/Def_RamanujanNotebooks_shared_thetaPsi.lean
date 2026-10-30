@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_thetaPsi
 -- name    : RamanujanNotebooks_shared_thetaPsi
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:18:26.002397+00:00
 -- url     : https://prove2.me/theorems/60698144-f7fb-497b-b0ba-bb1e9b0091b1
 -- title:

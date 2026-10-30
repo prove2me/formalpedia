@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter19_Section5
 -- name    : QseriesFormalization_Chapter19_Section5
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:29:48.203905+00:00
 -- url     : https://prove2.me/theorems/1b762f9e-d7bd-4851-acab-24081e7e64ca
 -- title:

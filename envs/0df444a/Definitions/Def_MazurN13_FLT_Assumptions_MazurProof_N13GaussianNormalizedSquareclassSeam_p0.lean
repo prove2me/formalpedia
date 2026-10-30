@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianNormalizedSquareclassSeam_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianNormalizedSquareclassSeam_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:22:51.503386+00:00
 -- url     : https://prove2.me/theorems/f242bb58-d953-4d35-99b9-3d2f7d851384
 -- title:

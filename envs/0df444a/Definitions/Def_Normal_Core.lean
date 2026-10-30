@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Normal_Core
 -- name    : Normal_Core
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:24:53.488975+00:00
 -- url     : https://prove2.me/theorems/ef41cdf5-131b-4144-b399-321486d55de3
 -- title:

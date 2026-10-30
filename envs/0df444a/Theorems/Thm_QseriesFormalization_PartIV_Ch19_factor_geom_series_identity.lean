@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_factor_geom_series_identity
 -- name    : QseriesFormalization.PartIV.Ch19.factor_geom_series_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:54:53.144516+00:00
 -- url     : https://prove2.me/theorems/b81ac0e8-0242-43d2-bd32-3d6526094dae
 -- title:

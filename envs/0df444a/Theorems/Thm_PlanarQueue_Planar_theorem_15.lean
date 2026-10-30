@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarQueue_Planar_theorem_15
 -- name    : PlanarQueue.Planar.theorem_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T13:24:53.093439+00:00
 -- url     : https://prove2.me/theorems/8100c3d9-abdb-4d96-b73a-41e6c288bcab

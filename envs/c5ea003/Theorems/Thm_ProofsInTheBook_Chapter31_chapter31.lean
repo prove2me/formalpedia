@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter31_chapter31
 -- name    : ProofsInTheBook.Chapter31.chapter31
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-09-12T16:20:04.601984+00:00
 -- url     : https://prove2.me/theorems/e98f7159-97e9-4cdb-84dc-66ce9af61c17
 -- title:

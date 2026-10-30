@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_exists_tate_normal_form_with_j_of_addOrderOf_gt_three
 -- name    : MazurHuang.exists_tate_normal_form_with_j_of_addOrderOf_gt_three
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:08.994197+00:00
 -- url     : https://prove2.me/theorems/d896121f-b0e9-4f05-9595-f085b5fa85e1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_E5_one_eq_neg_X_mul_expand_twentyfive_qPochInfPS
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.E5_one_eq_neg_X_mul_expand_twentyfive_qPochInfPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:21:51.644414+00:00
 -- url     : https://prove2.me/theorems/98d9bba1-508d-4f2e-aee5-2099dab48c3b
 -- title:

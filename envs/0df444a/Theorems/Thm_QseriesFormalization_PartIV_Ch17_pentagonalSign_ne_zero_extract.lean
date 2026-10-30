@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_pentagonalSign_ne_zero_extract
 -- name    : QseriesFormalization.PartIV.Ch17.pentagonalSign_ne_zero_extract
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:43:39.047297+00:00
 -- url     : https://prove2.me/theorems/311086df-fe60-4c5a-9daf-e94787286597
 -- title:

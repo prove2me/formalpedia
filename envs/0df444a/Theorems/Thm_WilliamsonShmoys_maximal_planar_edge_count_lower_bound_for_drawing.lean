@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_lower_bound_for_drawing
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_lower_bound_for_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T19:07:53.044859+00:00
 -- url     : https://prove2.me/theorems/f7a4937f-b285-44cd-b3f2-a3428ab9639b

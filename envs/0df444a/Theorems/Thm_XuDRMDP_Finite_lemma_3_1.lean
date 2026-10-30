@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XuDRMDP_Finite_lemma_3_1
 -- name    : XuDRMDP.Finite.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:30:17.209983+00:00
 -- url     : https://prove2.me/theorems/f5f60970-6958-4365-934e-3f8dc716d376

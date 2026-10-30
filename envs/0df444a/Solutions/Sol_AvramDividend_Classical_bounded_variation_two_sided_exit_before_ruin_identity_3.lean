@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.bounded_variation_two_sided_exit_before_ruin_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T03:17:06.801285+00:00
 -- url     : https://prove2.me/submissions/d307e6b3-f836-4da4-9a32-ddbfa5475259
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /- 494dbcd1 repair of CE 14807 (unsolved goals at hfold rfl).
 Cause: `hfold ... := rfl` claimed definitional equality between the raw

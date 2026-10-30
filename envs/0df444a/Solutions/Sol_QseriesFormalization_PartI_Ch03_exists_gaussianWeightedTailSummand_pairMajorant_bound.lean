@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch03.exists_gaussianWeightedTailSummand_pairMajorant_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:48:42.770167+00:00
 -- url     : https://prove2.me/submissions/4d6638de-380d-4ffe-9c6f-475d84995bbe
 

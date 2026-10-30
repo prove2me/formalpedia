@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_edge_bound_875ae99f
 -- name    : WilliamsonShmoys.maximal_drawing_edge_bound_875ae99f
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:42:57.238126+00:00
 -- url     : https://prove2.me/theorems/e3322ee4-770e-467a-82df-15d112e9cf23

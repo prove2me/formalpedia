@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HlawkaSchatten.DiagonalCutoff4.real_cover_g018
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @shivm
 -- created : 2026-10-29T00:04:01.238121+00:00
 -- url     : https://prove2.me/submissions/afd7bbbc-83f5-4c6f-adb0-1b02013ffa57
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_real_three_w1576
 import Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_real_three_w1577

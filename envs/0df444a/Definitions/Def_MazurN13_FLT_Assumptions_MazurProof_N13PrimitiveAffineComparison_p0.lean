@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13PrimitiveAffineComparison_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13PrimitiveAffineComparison_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:49:20.740001+00:00
 -- url     : https://prove2.me/theorems/723ada14-b755-41c9-9648-8658400ff29f
 -- title:

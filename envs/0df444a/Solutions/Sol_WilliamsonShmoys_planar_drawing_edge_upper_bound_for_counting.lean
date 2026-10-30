@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_edge_upper_bound_for_counting
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:40:20.663267+00:00
 -- url     : https://prove2.me/submissions/b9b73f8c-83fa-47d1-b47b-ac5401a5c2a2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_augmented_euler_data_1f26b2b1_f51b_4e13_bfd7_806af5753a70

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.jLaurent_nat_eq_jTripleProductInfPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:57:22.343195+00:00
 -- url     : https://prove2.me/submissions/cd4f196a-b8a0-4e14-8407-a23a2e68e7b7
 

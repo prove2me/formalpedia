@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_triangular_cast_eq_triangularMod5
 -- name    : QseriesFormalization.PartIV.Ch17.triangular_cast_eq_triangularMod5
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:45:50.844815+00:00
 -- url     : https://prove2.me/theorems/702f06d0-e6eb-4c23-97f1-ca5ec0738bf4
 -- title:

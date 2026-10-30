@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P40.commutingMinimum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Alien60
 -- created : 2026-10-29T00:10:13.463275+00:00
 -- url     : https://prove2.me/submissions/97078836-b755-4295-bca2-8966c5c8e0c5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QAlgorithms_Papers_Independent_Gap48_P40
 import Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_minimumAt_attained

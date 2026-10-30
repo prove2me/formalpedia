@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianOrderTwo_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianOrderTwo_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:22:02.212714+00:00
 -- url     : https://prove2.me/theorems/a6cce881-2242-4a93-898c-6e31688ecbbc
 -- title:

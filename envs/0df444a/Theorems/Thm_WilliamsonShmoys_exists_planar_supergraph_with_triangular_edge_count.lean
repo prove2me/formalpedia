@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_supergraph_with_triangular_edge_count
 -- name    : WilliamsonShmoys.exists_planar_supergraph_with_triangular_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T06:10:57.139987+00:00
 -- url     : https://prove2.me/theorems/e20a9b21-2bfd-4446-a4dd-6a64e939359c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_triangulation_edge_count
 -- name    : WilliamsonShmoys.maximal_drawable_triangulation_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:44:26.550188+00:00
 -- url     : https://prove2.me/theorems/a549787b-27c9-4464-aa0b-4803a7aff3d9

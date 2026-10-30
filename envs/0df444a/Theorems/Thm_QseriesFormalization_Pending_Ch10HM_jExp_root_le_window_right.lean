@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_jExp_root_le_window_right
 -- name    : QseriesFormalization.Pending.Ch10HM.jExp_root_le_window_right
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:48:07.203588+00:00
 -- url     : https://prove2.me/theorems/8b88777d-68dc-46f3-8906-374e70b308e0
 -- title:

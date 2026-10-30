@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuintic.quinticPeriodAlpha_sq
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:18:57.6389+00:00
 -- url     : https://prove2.me/submissions/e02ff315-9233-4953-9760-c884a748b4ad
 

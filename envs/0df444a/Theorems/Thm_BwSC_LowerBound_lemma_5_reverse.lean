@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BwSC_LowerBound_lemma_5_reverse
 -- name    : BwSC.LowerBound.lemma_5_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:33:24.323821+00:00
 -- url     : https://prove2.me/theorems/b8a8862c-e08e-4aeb-b346-b37204a744e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_extension_edge_lower_bound_of_maximal_drawable
 -- name    : WilliamsonShmoys.planar_extension_edge_lower_bound_of_maximal_drawable
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T11:22:00.386293+00:00
 -- url     : https://prove2.me/theorems/e9650e8f-e865-48b3-bcdd-880fe4d8e2af

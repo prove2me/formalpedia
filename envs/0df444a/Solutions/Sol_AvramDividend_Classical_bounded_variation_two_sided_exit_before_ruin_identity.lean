@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.bounded_variation_two_sided_exit_before_ruin_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T00:20:00.582911+00:00
 -- url     : https://prove2.me/submissions/fd6dc7c8-976f-497f-b062-08c4c53c7e50
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /- 494dbcd1 via published helper 2bb529c8 (replaces cyclic parent import).
 Helper identity authoritative: publication job 54892a26 PUBLISHED; theorem_id

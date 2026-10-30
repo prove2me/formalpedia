@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulated_planar_supergraph_edge_bound_1e14dc85_fe67_4e30_934e_c619828dd605
 -- name    : WilliamsonShmoys.exists_triangulated_planar_supergraph_edge_bound_1e14dc85_fe67_4e30_934e_c619828dd605
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T08:26:14.593437+00:00
 -- url     : https://prove2.me/theorems/cbc0594c-ac31-4402-82bd-76ff29091572

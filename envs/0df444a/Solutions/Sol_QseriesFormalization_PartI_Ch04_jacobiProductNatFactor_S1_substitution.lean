@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.jacobiProductNatFactor_S1_substitution
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:59:40.243691+00:00
 -- url     : https://prove2.me/submissions/25641394-7e3f-4bb4-9c96-f12189fd075f
 

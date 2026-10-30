@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_corrected_exit_scale_identity
 -- name    : AvramDividend.Classical.unbounded_corrected_exit_scale_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T22:53:25.672673+00:00
 -- url     : https://prove2.me/theorems/6d3911f8-9669-4969-a6df-83b0c1d7ea50

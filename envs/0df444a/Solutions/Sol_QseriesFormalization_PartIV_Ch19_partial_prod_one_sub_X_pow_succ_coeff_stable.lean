@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.partial_prod_one_sub_X_pow_succ_coeff_stable
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:09:33.960482+00:00
 -- url     : https://prove2.me/submissions/5857f40a-2b8a-469a-9b6a-4a886ac509ad
 

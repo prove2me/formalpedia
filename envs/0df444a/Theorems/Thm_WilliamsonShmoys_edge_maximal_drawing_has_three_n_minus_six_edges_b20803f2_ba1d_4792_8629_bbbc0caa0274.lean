@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_drawing_has_three_n_minus_six_edges_b20803f2_ba1d_4792_8629_bbbc0caa0274
 -- name    : WilliamsonShmoys.edge_maximal_drawing_has_three_n_minus_six_edges_b20803f2_ba1d_4792_8629_bbbc0caa0274
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T20:29:57.667555+00:00
 -- url     : https://prove2.me/theorems/4c29d803-dc21-4f24-8d2c-ce4e8908d2d3

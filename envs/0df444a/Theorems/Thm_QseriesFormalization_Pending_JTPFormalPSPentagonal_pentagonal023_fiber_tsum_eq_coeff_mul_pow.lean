@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_pentagonal023_fiber_tsum_eq_coeff_mul_pow
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.pentagonal023_fiber_tsum_eq_coeff_mul_pow
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:37:14.255858+00:00
 -- url     : https://prove2.me/theorems/9faea05e-bb28-4f52-af85-ffa52a8e75a3
 -- title:

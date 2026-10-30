@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutlierAssort_ActiveElim_lemma_2
 -- name    : OutlierAssort.ActiveElim.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:39:07.928343+00:00
 -- url     : https://prove2.me/theorems/01aa20d3-c60c-4d38-a4b1-acb1ab0f3441

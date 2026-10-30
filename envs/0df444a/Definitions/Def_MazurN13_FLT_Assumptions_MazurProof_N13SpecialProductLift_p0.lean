@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialProductLift_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialProductLift_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:32:42.470819+00:00
 -- url     : https://prove2.me/theorems/e022411e-25d3-4a32-9fc4-970fbb31d77f
 -- title:

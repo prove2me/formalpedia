@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NSWApxHard_Reduction_reduction_encode_polyTime
 -- name    : NSWApxHard.Reduction.reduction_encode_polyTime
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T21:38:45.975658+00:00
 -- url     : https://prove2.me/theorems/0097d088-ef18-460e-8c07-d288a9ad0aa0

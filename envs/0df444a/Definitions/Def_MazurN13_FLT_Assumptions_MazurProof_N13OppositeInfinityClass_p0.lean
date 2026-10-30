@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13OppositeInfinityClass_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13OppositeInfinityClass_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:44:13.200699+00:00
 -- url     : https://prove2.me/theorems/076f3d5c-5a58-4d48-a9d7-9a389a7e18b0
 -- title:

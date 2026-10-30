@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurHuang_ThreeIsogeny35
 -- name    : MazurHuang_ThreeIsogeny35
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:04:58.304983+00:00
 -- url     : https://prove2.me/theorems/ddb1d4da-2831-49c4-a028-3a0d1d0147db
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjectOutsourcing_SingleTask_disc_eq_integral_cdf
 -- name    : ProjectOutsourcing.SingleTask.disc_eq_integral_cdf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:01.743913+00:00
 -- url     : https://prove2.me/theorems/f88e4c87-06ae-4707-8207-80d029fac167

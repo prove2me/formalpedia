@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SignalSearch_Tree_lemma_2
 -- name    : SignalSearch.Tree.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:37:53.851411+00:00
 -- url     : https://prove2.me/theorems/6534c941-5969-49eb-a167-d9858536bc4e

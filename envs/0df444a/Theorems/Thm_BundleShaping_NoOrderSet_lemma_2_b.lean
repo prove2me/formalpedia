@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundleShaping_NoOrderSet_lemma_2_b
 -- name    : BundleShaping.NoOrderSet.lemma_2_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:12:14.952441+00:00
 -- url     : https://prove2.me/theorems/fbdda145-c171-4970-b1da-9a5442990993

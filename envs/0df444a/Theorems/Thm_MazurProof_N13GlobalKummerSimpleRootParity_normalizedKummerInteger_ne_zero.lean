@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13GlobalKummerSimpleRootParity_normalizedKummerInteger_ne_zero
 -- name    : MazurProof.N13GlobalKummerSimpleRootParity.normalizedKummerInteger_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T07:55:48.92615+00:00
 -- url     : https://prove2.me/theorems/60bbfc5b-01a6-4095-8d03-098cc38e20fe

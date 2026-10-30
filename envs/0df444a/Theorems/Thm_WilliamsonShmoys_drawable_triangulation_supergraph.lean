@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_triangulation_supergraph
 -- name    : WilliamsonShmoys.drawable_triangulation_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T14:10:32.127965+00:00
 -- url     : https://prove2.me/theorems/20e15f2d-7e53-47dd-bb50-add567d01574

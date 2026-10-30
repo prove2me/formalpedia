@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_exists_X0_thirtyFive_point_of_X0_five_seven_fiber
 -- name    : MazurHuang.exists_X0_thirtyFive_point_of_X0_five_seven_fiber
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:11.94075+00:00
 -- url     : https://prove2.me/theorems/310d702c-76c8-4b28-a94f-e35e56e7960d
 -- title:

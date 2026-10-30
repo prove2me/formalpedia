@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialQuotientBasis_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialQuotientBasis_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:07:37.53999+00:00
 -- url     : https://prove2.me/theorems/6b9b86de-31b5-48c6-8926-ab7a4264e39d
 -- title:

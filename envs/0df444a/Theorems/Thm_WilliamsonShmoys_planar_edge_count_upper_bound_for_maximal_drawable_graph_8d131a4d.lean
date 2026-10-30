@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_for_maximal_drawable_graph_8d131a4d
 -- name    : WilliamsonShmoys.planar_edge_count_upper_bound_for_maximal_drawable_graph_8d131a4d
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T06:36:50.545439+00:00
 -- url     : https://prove2.me/theorems/c2473ef1-1340-467b-9e7a-007cecaf1890

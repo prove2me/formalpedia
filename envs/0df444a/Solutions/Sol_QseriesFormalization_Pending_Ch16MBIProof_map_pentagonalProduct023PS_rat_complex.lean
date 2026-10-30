@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.map_pentagonalProduct023PS_rat_complex
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:17:45.11374+00:00
 -- url     : https://prove2.me/submissions/987678fc-39ff-418e-b2b5-3ba838912a94
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.gaussMul_piBar5_gaussPiBarDiv_of_piBarDividesExact
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:53:12.373476+00:00
 -- url     : https://prove2.me/submissions/96a74c25-a168-49ba-a848-5a88a5da5589
 

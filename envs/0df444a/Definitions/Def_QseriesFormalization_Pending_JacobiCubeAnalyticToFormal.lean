@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_JacobiCubeAnalyticToFormal
 -- name    : QseriesFormalization_Pending_JacobiCubeAnalyticToFormal
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:36:34.852625+00:00
 -- url     : https://prove2.me/theorems/db8e00df-5977-4ede-8e24-39fa2da78cf9
 -- title:

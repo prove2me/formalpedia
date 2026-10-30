@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundleShaping_NoOrderSet_H_jointly_convex
 -- name    : BundleShaping.NoOrderSet.H_jointly_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:12:06.38962+00:00
 -- url     : https://prove2.me/theorems/104b1431-3bd2-46dd-85ef-27257d007736

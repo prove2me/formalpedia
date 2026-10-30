@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_count_for_strict_augmentation_ff597491
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_count_for_strict_augmentation_ff597491
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:53:39.088832+00:00
 -- url     : https://prove2.me/theorems/c683258d-9797-470e-9da6-8cc1d2b584e1

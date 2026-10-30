@@ -1,10 +1,8 @@
 -- Prove2me | solution 15 for AvramDividend.Classical.unbounded_tilted_positive_monotone
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T15:19:02.154559+00:00
 -- url     : https://prove2.me/submissions/85d1f5a8-193f-4749-85c6-572c99cb138e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

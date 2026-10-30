@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_graph_has_triangulated_extension_3fe8be02_4541_4d0a_bbf4_850e46d722fe
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:09:39.70242+00:00
 -- url     : https://prove2.me/submissions/da56a98c-e2e8-49a1-b0b0-7743292113fd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_exists_maximal_planar_extension_dabb2cbe_7fe3_4213_96ba_204afbbd922b
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_edge_count_dabb2cbe_7fe3_4213_96ba_204afbbd922b

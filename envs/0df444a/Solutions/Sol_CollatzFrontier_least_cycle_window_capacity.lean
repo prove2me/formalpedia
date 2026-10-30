@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.least_cycle_window_capacity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T18:09:46.187933+00:00
 -- url     : https://prove2.me/submissions/0d96654c-7d47-4a19-a511-bf0a398380f1
 

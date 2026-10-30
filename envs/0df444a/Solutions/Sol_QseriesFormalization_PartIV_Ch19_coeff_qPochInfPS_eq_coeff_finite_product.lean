@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.coeff_qPochInfPS_eq_coeff_finite_product
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:17:09.215997+00:00
 -- url     : https://prove2.me/submissions/a1f113ac-b87a-46b2-9ff3-f59ff3e120b1
 

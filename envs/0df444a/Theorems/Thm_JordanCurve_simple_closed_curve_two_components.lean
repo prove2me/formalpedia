@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JordanCurve_simple_closed_curve_two_components
 -- name    : JordanCurve.simple_closed_curve_two_components
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-09-25T00:23:20.390341+00:00
 -- url     : https://prove2.me/theorems/3de6ef89-dd7a-474b-b7f8-924d798154b1

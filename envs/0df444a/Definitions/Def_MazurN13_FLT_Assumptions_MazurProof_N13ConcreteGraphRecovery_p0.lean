@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13ConcreteGraphRecovery_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13ConcreteGraphRecovery_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:01:15.454018+00:00
 -- url     : https://prove2.me/theorems/b3cc5c23-993c-475d-81f5-880bceabd16b
 -- title:

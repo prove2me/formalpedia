@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_planar_drawing_triangulation_extension_for_euler_count
 -- name    : WilliamsonShmoys.edge_maximal_planar_drawing_triangulation_extension_for_euler_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T10:52:21.5354+00:00
 -- url     : https://prove2.me/theorems/304f8fa5-790a-4081-b498-6c0918c5b6f9

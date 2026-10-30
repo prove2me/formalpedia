@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HerdingForecast_Equilibrium_ec_14_closed_form_solves
 -- name    : HerdingForecast.Equilibrium.ec_14_closed_form_solves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:09:04.037254+00:00
 -- url     : https://prove2.me/theorems/0e8952cc-fed5-4838-b9f6-a18617320b1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_drawing_euler_counts_v2
 -- name    : WilliamsonShmoys.connected_planar_drawing_euler_counts_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:10:11.100833+00:00
 -- url     : https://prove2.me/theorems/2215f4a6-abc8-46a4-8daa-6b014a3b506a

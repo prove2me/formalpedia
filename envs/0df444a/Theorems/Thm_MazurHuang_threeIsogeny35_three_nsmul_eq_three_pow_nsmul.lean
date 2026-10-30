@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_threeIsogeny35_three_nsmul_eq_three_pow_nsmul
 -- name    : MazurHuang.threeIsogeny35_three_nsmul_eq_three_pow_nsmul
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:17.975205+00:00
 -- url     : https://prove2.me/theorems/10701d87-574c-4a43-a188-39b7d381cbd9
 -- title:

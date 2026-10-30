@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_simpleGraph_edge_upper_bound_of_planar_drawing
 -- name    : WilliamsonShmoys.simpleGraph_edge_upper_bound_of_planar_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:12:09.75009+00:00
 -- url     : https://prove2.me/theorems/0066810a-e363-4f61-93ee-0b1982239d9f

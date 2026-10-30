@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_has_triangulating_supergraph_maximal_edge_count
 -- name    : WilliamsonShmoys.drawable_graph_has_triangulating_supergraph_maximal_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T15:18:42.984325+00:00
 -- url     : https://prove2.me/theorems/6de63aba-c2d3-4f4c-87ac-831ab7a47d09

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.normShellK_pi_sum_recurrence_of_not_five_dvd
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:28:11.245716+00:00
 -- url     : https://prove2.me/submissions/5a262226-4d14-4a63-bb2c-43db532854e6
 

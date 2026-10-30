@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_dense_supergraph_f3620a14
 -- name    : WilliamsonShmoys.planar_drawing_has_dense_supergraph_f3620a14
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:21:56.609054+00:00
 -- url     : https://prove2.me/theorems/b78c43d7-3644-4a9d-a128-52043bc8bb14

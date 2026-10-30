@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.gaussK_pi5_second_order_of_norm_odd
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:23:40.128999+00:00
 -- url     : https://prove2.me/submissions/bb449228-eeee-480b-a65d-5b7035277a3c
 

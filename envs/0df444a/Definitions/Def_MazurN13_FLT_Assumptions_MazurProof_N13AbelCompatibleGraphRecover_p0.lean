@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13AbelCompatibleGraphRecover_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13AbelCompatibleGraphRecover_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T23:56:53.319059+00:00
 -- url     : https://prove2.me/theorems/4f9a0bc9-c7ce-483b-9ac3-0f3d1a79cabc
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_edge_maximizer
 -- name    : WilliamsonShmoys.exists_planar_edge_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T03:59:53.534104+00:00
 -- url     : https://prove2.me/theorems/c5621e40-5a5e-4f4e-99f4-ecb1743bdbdf

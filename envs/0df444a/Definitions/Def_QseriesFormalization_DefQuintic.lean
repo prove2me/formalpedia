@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_DefQuintic
 -- name    : QseriesFormalization_DefQuintic
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:31:05.560087+00:00
 -- url     : https://prove2.me/theorems/2b0f3f41-375c-4100-bafd-7e6ecf503984
 -- title:

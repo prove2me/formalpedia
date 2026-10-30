@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairDivisionGraph_TreeMMS_lemma_5_2
 -- name    : FairDivisionGraph.TreeMMS.lemma_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:20:48.717337+00:00
 -- url     : https://prove2.me/theorems/1ac95fc3-862a-4140-a62c-6a47728e8ebd

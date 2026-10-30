@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_has_triangulating_supergraph
 -- name    : WilliamsonShmoys.drawable_has_triangulating_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:00:06.037613+00:00
 -- url     : https://prove2.me/theorems/d4a7b1db-bf31-4c4d-a988-78948aa0997a

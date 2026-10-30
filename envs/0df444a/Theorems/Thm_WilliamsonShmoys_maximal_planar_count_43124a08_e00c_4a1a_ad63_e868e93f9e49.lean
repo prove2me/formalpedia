@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_count_43124a08_e00c_4a1a_ad63_e868e93f9e49
 -- name    : WilliamsonShmoys.maximal_planar_count_43124a08_e00c_4a1a_ad63_e868e93f9e49
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:08:25.049053+00:00
 -- url     : https://prove2.me/theorems/3fe6515b-8335-4a72-a208-f1a2ec6f6eaf

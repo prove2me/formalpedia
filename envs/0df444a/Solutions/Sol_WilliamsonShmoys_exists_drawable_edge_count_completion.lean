@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_drawable_edge_count_completion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:21:57.988181+00:00
 -- url     : https://prove2.me/submissions/6a255547-c02a-49ff-994d-a9969804bc47
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_exists_maximal_drawable_supergraph_for_edge_count_91679e32
 import Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_count_for_completion_91679e32

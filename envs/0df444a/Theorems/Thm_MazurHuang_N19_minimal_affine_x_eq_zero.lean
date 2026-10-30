@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_minimal_affine_x_eq_zero
 -- name    : MazurHuang.N19.minimal_affine_x_eq_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T14:55:22.036795+00:00
 -- url     : https://prove2.me/theorems/fdc8b044-6ad9-422f-ae40-024e367c001c
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_most_beautiful_identity
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.most_beautiful_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:42:38.622042+00:00
 -- url     : https://prove2.me/theorems/c0288137-3fab-454b-b10b-a03ab9235d6d
 -- title:

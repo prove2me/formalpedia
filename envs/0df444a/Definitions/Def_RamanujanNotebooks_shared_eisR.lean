@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_eisR
 -- name    : RamanujanNotebooks_shared_eisR
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:18:01.899988+00:00
 -- url     : https://prove2.me/theorems/d8238e9e-b414-4473-844c-505a053a5d50
 -- title:

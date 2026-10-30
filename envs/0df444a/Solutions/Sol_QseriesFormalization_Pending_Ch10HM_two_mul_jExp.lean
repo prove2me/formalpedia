@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.two_mul_jExp
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:20:50.231889+00:00
 -- url     : https://prove2.me/submissions/28b33e64-e3d8-4205-a94a-eb19fdfcaf3f
 

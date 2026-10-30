@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_negOnePowInt_complex_eq_zpow
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.negOnePowInt_complex_eq_zpow
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:33:24.940905+00:00
 -- url     : https://prove2.me/theorems/3e08ea30-65e5-4667-b518-aee107f306b4
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_face_decomposition_edge_bound_9a40956c04dd448b9ab680f8d2edf7ce
 -- name    : WilliamsonShmoys.maximal_planar_face_decomposition_edge_bound_9a40956c04dd448b9ab680f8d2edf7ce
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:57:08.511288+00:00
 -- url     : https://prove2.me/theorems/2218dce2-1198-4abc-9cb0-bb5b50a2d3f4

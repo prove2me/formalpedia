@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IrreducibleQuadraticFinite_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IrreducibleQuadraticFinite_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:44:59.702967+00:00
 -- url     : https://prove2.me/theorems/3a4c2643-2e75-4f42-963a-d9882f7445e1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_CTxy_embedQ_mul
 -- name    : QseriesFormalization.Ch10TwoVar.CTxy_embedQ_mul
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:51:29.26737+00:00
 -- url     : https://prove2.me/theorems/8e589218-4609-486f-a149-3b7ba459ce56
 -- title:

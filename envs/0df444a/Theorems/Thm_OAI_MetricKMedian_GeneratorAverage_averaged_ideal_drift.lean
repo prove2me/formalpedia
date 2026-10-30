@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_GeneratorAverage_averaged_ideal_drift
 -- name    : OAI.MetricKMedian.GeneratorAverage.averaged_ideal_drift
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:19:08.564832+00:00
 -- url     : https://prove2.me/theorems/785763f4-b2b5-4508-9532-a4ed8105d3a5

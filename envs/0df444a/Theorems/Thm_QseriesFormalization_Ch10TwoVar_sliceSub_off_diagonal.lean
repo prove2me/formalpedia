@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_sliceSub_off_diagonal
 -- name    : QseriesFormalization.Ch10TwoVar.sliceSub_off_diagonal
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:06:20.834731+00:00
 -- url     : https://prove2.me/theorems/fe15f8de-19c9-4719-93fa-963b72ff6ecb
 -- title:

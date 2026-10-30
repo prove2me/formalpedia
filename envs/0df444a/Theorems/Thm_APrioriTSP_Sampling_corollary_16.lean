@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APrioriTSP_Sampling_corollary_16
 -- name    : APrioriTSP.Sampling.corollary_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:00.773836+00:00
 -- url     : https://prove2.me/theorems/f6838b87-7fb1-4fa0-a871-2d8aed01ee0c

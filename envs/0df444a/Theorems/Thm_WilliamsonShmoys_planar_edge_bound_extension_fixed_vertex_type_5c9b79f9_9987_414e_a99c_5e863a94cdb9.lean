@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_bound_extension_fixed_vertex_type_5c9b79f9_9987_414e_a99c_5e863a94cdb9
 -- name    : WilliamsonShmoys.planar_edge_bound_extension_fixed_vertex_type_5c9b79f9_9987_414e_a99c_5e863a94cdb9
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:58:48.190228+00:00
 -- url     : https://prove2.me/theorems/4d4521ad-8ce4-4c29-bfad-617e82943bc3

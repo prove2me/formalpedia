@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.schurSum_recurrence
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:33:04.500364+00:00
 -- url     : https://prove2.me/submissions/549a0997-2175-4feb-b64c-2c64824dab65
 

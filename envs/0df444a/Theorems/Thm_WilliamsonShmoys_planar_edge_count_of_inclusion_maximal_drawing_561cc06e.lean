@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_of_inclusion_maximal_drawing_561cc06e
 -- name    : WilliamsonShmoys.planar_edge_count_of_inclusion_maximal_drawing_561cc06e
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T04:24:29.972779+00:00
 -- url     : https://prove2.me/theorems/09cd0f78-596e-4a94-9326-038b3be8d638

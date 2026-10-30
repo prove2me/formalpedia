@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonopolyDemandUncertainty_SBSMP_proposition_1_condition_4ii
 -- name    : MonopolyDemandUncertainty.SBSMP.proposition_1_condition_4ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:11:22.471903+00:00
 -- url     : https://prove2.me/theorems/a868b5cf-0cea-4036-bbac-f653f858b770

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulation_completion
 -- name    : WilliamsonShmoys.exists_triangulation_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T00:50:42.495586+00:00
 -- url     : https://prove2.me/theorems/946a4eaf-d114-4840-b3d3-4fb36f73ba29

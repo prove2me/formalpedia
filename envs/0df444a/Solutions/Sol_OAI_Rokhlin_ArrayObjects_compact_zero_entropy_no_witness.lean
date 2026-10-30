@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Rokhlin.ArrayObjects.compact_zero_entropy_no_witness
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:59:35.773033+00:00
 -- url     : https://prove2.me/submissions/dc133394-9a3e-44ac-b65c-9c4436dcfcb8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ3Ro002

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter34_chapter34
 -- name    : ProofsInTheBook.Chapter34.chapter34
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-09-12T16:11:42.778993+00:00
 -- url     : https://prove2.me/theorems/bf27ff00-4fea-40e6-b1c4-7d64834196b4
 -- title:

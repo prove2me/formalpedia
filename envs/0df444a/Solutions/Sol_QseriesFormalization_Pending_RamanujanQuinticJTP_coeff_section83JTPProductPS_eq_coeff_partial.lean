@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.coeff_section83JTPProductPS_eq_coeff_partial
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:30:12.124888+00:00
 -- url     : https://prove2.me/submissions/1100dccf-ec3a-4610-957b-7f9984e568d8
 

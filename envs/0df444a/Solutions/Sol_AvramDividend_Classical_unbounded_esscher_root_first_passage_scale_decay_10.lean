@@ -1,10 +1,8 @@
 -- Prove2me | solution 10 for AvramDividend.Classical.unbounded_esscher_root_first_passage_scale_decay
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-27T17:13:49.18024+00:00
 -- url     : https://prove2.me/submissions/13cd5ebc-52f0-4ff8-8d90-6370b7eecc1e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13AbelFiberTwoModel_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13AbelFiberTwoModel_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:55:14.997903+00:00
 -- url     : https://prove2.me/theorems/2714aab4-754a-4231-bf49-ec8cc0197c3f
 -- title:

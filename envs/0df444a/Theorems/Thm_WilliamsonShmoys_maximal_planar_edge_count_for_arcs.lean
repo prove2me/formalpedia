@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_for_arcs
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_for_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:12:36.806721+00:00
 -- url     : https://prove2.me/theorems/bce40739-9345-4213-b60f-77ecc5333c94

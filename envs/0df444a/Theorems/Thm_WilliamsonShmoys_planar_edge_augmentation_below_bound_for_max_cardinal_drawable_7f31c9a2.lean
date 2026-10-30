@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_augmentation_below_bound_for_max_cardinal_drawable_7f31c9a2
 -- name    : WilliamsonShmoys.planar_edge_augmentation_below_bound_for_max_cardinal_drawable_7f31c9a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:59:06.087758+00:00
 -- url     : https://prove2.me/theorems/72237221-a8b4-4f4d-8f83-4504f9e5ce12

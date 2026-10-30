@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_hasSum_coeff_mul_constQFactorPS_complex
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.hasSum_coeff_mul_constQFactorPS_complex
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:40:57.143624+00:00
 -- url     : https://prove2.me/theorems/585bb360-15ab-42e6-9011-3ac82ca088a0
 -- title:

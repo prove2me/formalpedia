@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10TenthOrder.coeff_qPochAPPS_eq_qPochAPFinitePS_rat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:19:55.040622+00:00
 -- url     : https://prove2.me/submissions/502eed8b-df38-49f2-8ffe-2bacae3a5d09
 

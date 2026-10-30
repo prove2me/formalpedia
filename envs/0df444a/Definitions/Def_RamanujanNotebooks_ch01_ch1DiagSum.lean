@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch01_ch1DiagSum
 -- name    : RamanujanNotebooks_ch01_ch1DiagSum
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:11:00.251054+00:00
 -- url     : https://prove2.me/theorems/2bd15b40-070a-4059-ab4a-2a721199262d
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_euler_face_inequality
 -- name    : WilliamsonShmoys.connected_planar_euler_face_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:48:55.780209+00:00
 -- url     : https://prove2.me/theorems/dd6acdd1-4a1c-4f79-9506-af44b9d3a7fb

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_coeff_jacobiThetaPS
 -- name    : QseriesFormalization.PartIV.Ch19.coeff_jacobiThetaPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:49:07.607571+00:00
 -- url     : https://prove2.me/theorems/5fd834e4-3468-4676-b454-669db649151e
 -- title:

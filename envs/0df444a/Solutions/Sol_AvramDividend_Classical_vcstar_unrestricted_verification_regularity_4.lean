@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.vcstar_unrestricted_verification_regularity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-27T07:13:47.174803+00:00
 -- url     : https://prove2.me/submissions/e5e92c5c-7806-4fbd-ac8b-ed34a6507d6f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Defs
 import Mathlib.Tactic.NormNum

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch13DeepIdentity.chan_theorem_11_5
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:30:30.845212+00:00
 -- url     : https://prove2.me/submissions/68bbe0d6-7f49-4c01-86f2-8ff76c44fc3a
 

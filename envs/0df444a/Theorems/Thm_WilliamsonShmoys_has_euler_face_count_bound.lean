@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_has_euler_face_count_bound
 -- name    : WilliamsonShmoys.has_euler_face_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T20:19:00.694872+00:00
 -- url     : https://prove2.me/theorems/bbcc6704-0440-4d8a-8be6-bf0d05d75f7c

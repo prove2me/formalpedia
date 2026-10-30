@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.init_product_P0
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:13:53.357574+00:00
 -- url     : https://prove2.me/submissions/30ce2e4c-e91f-4839-b361-9d516bcbe013
 

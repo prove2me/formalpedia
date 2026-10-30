@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_tight_edge_count_ea3c3bca_edge_count
 -- name    : WilliamsonShmoys.planar_supergraph_tight_edge_count_ea3c3bca_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:36:52.70471+00:00
 -- url     : https://prove2.me/theorems/d357ae52-745c-4b5b-a849-2767522cac40

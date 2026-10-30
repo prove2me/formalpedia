@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinglePointPricing_Det_proposition_D_1
 -- name    : SinglePointPricing.Det.proposition_D_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:26:46.572075+00:00
 -- url     : https://prove2.me/theorems/7ddeeb12-4ea4-4afe-a098-fa6ab85b237f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat04_unbounded_killed_discounted_scale_martingale
 -- name    : AvramDividend.Classical.chat04_unbounded_killed_discounted_scale_martingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T08:43:05.211999+00:00
 -- url     : https://prove2.me/theorems/5cce898d-6355-4a98-961a-0e1c0aa14b60

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianFactorization_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianFactorization_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:09:04.985345+00:00
 -- url     : https://prove2.me/theorems/756d7abd-52ba-4a58-aa7b-a7488bcea2b3
 -- title:

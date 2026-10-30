@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.jacobiTripleSign_triangular
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:38:28.779172+00:00
 -- url     : https://prove2.me/submissions/427b452e-0ebf-4a50-8d0e-3a169232b4bf
 

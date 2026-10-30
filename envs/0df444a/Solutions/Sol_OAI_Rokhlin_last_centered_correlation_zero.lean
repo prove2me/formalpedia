@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Rokhlin.last_centered_correlation_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-26T07:00:21.246838+00:00
 -- url     : https://prove2.me/submissions/876abb02-0989-4f9b-9170-04a6ae0579de
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Rokhlin

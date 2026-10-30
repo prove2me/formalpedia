@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_completion_three_edges
 -- name    : WilliamsonShmoys.planar_completion_three_edges
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:32:39.59588+00:00
 -- url     : https://prove2.me/theorems/d02dec5c-46dc-48a3-a22b-812ae758970e

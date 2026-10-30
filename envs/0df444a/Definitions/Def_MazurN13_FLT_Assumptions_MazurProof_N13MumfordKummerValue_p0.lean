@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MumfordKummerValue_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MumfordKummerValue_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:11:35.141693+00:00
 -- url     : https://prove2.me/theorems/e7a7abde-6be9-43d1-917a-205928e10543
 -- title:

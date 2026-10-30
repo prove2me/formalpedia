@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_drawable_supergraph_with_euler_edge_count_a4f892c9_f19c_464f_8d5c_153cf02f5773
 -- name    : WilliamsonShmoys.exists_drawable_supergraph_with_euler_edge_count_a4f892c9_f19c_464f_8d5c_153cf02f5773
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T10:02:14.503144+00:00
 -- url     : https://prove2.me/theorems/d0c7f10e-35cd-48c0-b98e-d612581c45c6

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter17_PerTermAnalysis
 -- name    : QseriesFormalization_Chapter17_PerTermAnalysis
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:28:56.646821+00:00
 -- url     : https://prove2.me/theorems/eaab47c8-7236-4e06-9fbc-a9c3342a4080
 -- title:

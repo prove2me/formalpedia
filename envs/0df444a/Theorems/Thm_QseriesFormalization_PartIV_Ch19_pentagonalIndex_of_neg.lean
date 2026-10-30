@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_pentagonalIndex_of_neg
 -- name    : QseriesFormalization.PartIV.Ch19.pentagonalIndex_of_neg
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:58:17.266977+00:00
 -- url     : https://prove2.me/theorems/5fa0dd59-f744-4af1-aaac-33e9ec3618f3
 -- title:

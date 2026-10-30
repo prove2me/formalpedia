@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GoodPointFirstJet_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GoodPointFirstJet_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:35:50.591172+00:00
 -- url     : https://prove2.me/theorems/6747040a-00b5-4b64-bcec-179c9eb63203
 -- title:

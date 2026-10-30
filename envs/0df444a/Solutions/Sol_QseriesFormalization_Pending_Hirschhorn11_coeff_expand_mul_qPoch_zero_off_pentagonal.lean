@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.coeff_expand_mul_qPoch_zero_off_pentagonal
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:46:09.985119+00:00
 -- url     : https://prove2.me/submissions/922b73ef-31a0-4383-8382-fc5958335cfb
 

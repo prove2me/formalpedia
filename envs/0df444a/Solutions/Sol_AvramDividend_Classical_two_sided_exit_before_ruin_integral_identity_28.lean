@@ -1,10 +1,8 @@
 -- Prove2me | solution 28 for AvramDividend.Classical.two_sided_exit_before_ruin_integral_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T20:20:06.527434+00:00
 -- url     : https://prove2.me/submissions/7ea6e4a3-ecdb-48e9-8858-f1ff3fae2288
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- SKETCH B for 3e1ce2c8 (parent: none; fresh sorry-free reduction over Open children).
 -- Cause-linked vs draft A: hBalance sorry replaced by by_cases split into the

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_lower_bound_repair
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_lower_bound_repair
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T21:53:29.030499+00:00
 -- url     : https://prove2.me/theorems/5a848f27-da77-4398-8f59-dbcec5fc82ba

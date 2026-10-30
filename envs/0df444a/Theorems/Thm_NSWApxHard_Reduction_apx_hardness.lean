@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NSWApxHard_Reduction_apx_hardness
 -- name    : NSWApxHard.Reduction.apx_hardness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:33:38.673213+00:00
 -- url     : https://prove2.me/theorems/3697e8ea-145b-4797-ae18-5c664ad027fe

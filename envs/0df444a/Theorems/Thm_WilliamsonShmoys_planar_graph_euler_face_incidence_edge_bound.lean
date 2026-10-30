@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_euler_face_incidence_edge_bound
 -- name    : WilliamsonShmoys.planar_graph_euler_face_incidence_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:37:11.541005+00:00
 -- url     : https://prove2.me/theorems/3c186683-4aab-4112-b37e-6e32db24902a

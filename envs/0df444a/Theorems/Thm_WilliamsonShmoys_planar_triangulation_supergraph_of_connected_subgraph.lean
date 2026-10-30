@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_supergraph_of_connected_subgraph
 -- name    : WilliamsonShmoys.planar_triangulation_supergraph_of_connected_subgraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:08:36.772823+00:00
 -- url     : https://prove2.me/theorems/79bba284-f932-49fa-aed3-2669b6357e0d

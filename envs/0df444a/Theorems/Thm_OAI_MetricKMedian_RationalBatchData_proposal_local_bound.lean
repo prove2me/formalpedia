@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_RationalBatchData_proposal_local_bound
 -- name    : OAI.MetricKMedian.RationalBatchData.proposal_local_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:29:56.514754+00:00
 -- url     : https://prove2.me/theorems/9fbee55b-60ba-4295-bf83-4c063dc8c070

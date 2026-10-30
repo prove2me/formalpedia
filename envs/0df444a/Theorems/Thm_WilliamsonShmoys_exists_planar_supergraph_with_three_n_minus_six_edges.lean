@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_supergraph_with_three_n_minus_six_edges
 -- name    : WilliamsonShmoys.exists_planar_supergraph_with_three_n_minus_six_edges
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:19:30.868591+00:00
 -- url     : https://prove2.me/theorems/a2f52d9b-6169-470c-ae48-de76a02b2a86

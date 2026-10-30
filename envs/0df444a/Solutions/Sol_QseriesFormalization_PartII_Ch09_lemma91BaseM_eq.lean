@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch09.lemma91BaseM_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:47:18.331479+00:00
 -- url     : https://prove2.me/submissions/d16567e9-8a21-485d-a704-a110caba69ba
 

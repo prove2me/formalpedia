@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.quintupleProduct_log_derivative_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:39:06.842322+00:00
 -- url     : https://prove2.me/submissions/95fc360e-0bda-470a-b39f-1e476d30fb5b
 

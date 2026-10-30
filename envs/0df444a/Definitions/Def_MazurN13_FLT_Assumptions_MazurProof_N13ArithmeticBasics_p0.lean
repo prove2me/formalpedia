@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13ArithmeticBasics_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13ArithmeticBasics_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:33:59.866689+00:00
 -- url     : https://prove2.me/theorems/ac9cf7a4-0fe4-40a0-a2f7-9c5a02d242fb
 -- title:

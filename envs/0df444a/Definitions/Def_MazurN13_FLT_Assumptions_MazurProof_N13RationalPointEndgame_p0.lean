@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13RationalPointEndgame_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13RationalPointEndgame_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T18:19:34.165998+00:00
 -- url     : https://prove2.me/theorems/85b6df60-90b9-47ed-9524-159ef5f49482
 -- title:

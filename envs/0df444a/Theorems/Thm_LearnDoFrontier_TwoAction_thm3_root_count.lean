@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnDoFrontier_TwoAction_thm3_root_count
 -- name    : LearnDoFrontier.TwoAction.thm3_root_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:35:32.023689+00:00
 -- url     : https://prove2.me/theorems/656da560-cae2-4529-975c-753a1063968c

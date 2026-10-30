@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_max_cardinal_drawable_edge_count_7f31c9a2
 -- name    : WilliamsonShmoys.max_cardinal_drawable_edge_count_7f31c9a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:29:33.28086+00:00
 -- url     : https://prove2.me/theorems/40ad5c02-4cfe-4ee0-9841-6782479b4d6d

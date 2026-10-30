@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_strict_extension_below_max_edge_count
 -- name    : WilliamsonShmoys.planar_drawing_has_strict_extension_below_max_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T07:20:21.584788+00:00
 -- url     : https://prove2.me/theorems/9f4db670-1052-4aa4-ac14-eefb1dacf28a

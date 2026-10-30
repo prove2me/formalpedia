@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_euler_edge_bound_for_finite_simple_graph
 -- name    : WilliamsonShmoys.planar_drawing_euler_edge_bound_for_finite_simple_graph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T20:01:47.042529+00:00
 -- url     : https://prove2.me/theorems/ebe90c44-ff54-4015-b7bb-f37708f52e3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnNoConc_ERM_theorem_5_4
 -- name    : LearnNoConc.ERM.theorem_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:48:04.959028+00:00
 -- url     : https://prove2.me/theorems/6a1be4fd-5d0c-4b99-b098-b67792dcbe7d

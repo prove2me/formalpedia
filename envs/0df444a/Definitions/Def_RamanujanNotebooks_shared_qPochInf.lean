@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_qPochInf
 -- name    : RamanujanNotebooks_shared_qPochInf
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:18:10.033714+00:00
 -- url     : https://prove2.me/theorems/badc5649-23fa-4973-bd97-4d1d884fb36f
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_drawable_edge_bound_3daf7e3a
 -- name    : WilliamsonShmoys.connected_drawable_edge_bound_3daf7e3a
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:25:13.203112+00:00
 -- url     : https://prove2.me/theorems/6a8d1e34-1b9f-4372-8a14-b5efc6adec09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_component_local_edge_estimate
 -- name    : WilliamsonShmoys.planar_component_local_edge_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T01:25:38.179986+00:00
 -- url     : https://prove2.me/theorems/6a637569-a6f2-448b-be8a-edb306a61b35

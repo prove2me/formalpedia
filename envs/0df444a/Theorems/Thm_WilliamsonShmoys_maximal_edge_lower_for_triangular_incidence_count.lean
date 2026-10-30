@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_edge_lower_for_triangular_incidence_count
 -- name    : WilliamsonShmoys.maximal_edge_lower_for_triangular_incidence_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:13:46.236858+00:00
 -- url     : https://prove2.me/theorems/f2bcadcd-42d3-4cf2-b4cc-052a8cb334d1

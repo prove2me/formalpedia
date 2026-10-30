@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_bound_for_three_or_more_vertices_connected_core
 -- name    : WilliamsonShmoys.planar_edge_bound_for_three_or_more_vertices_connected_core
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T07:45:51.905717+00:00
 -- url     : https://prove2.me/theorems/6657b366-47d7-459e-89be-4ac7872215f4

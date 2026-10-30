@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_lower_bound_ctx816e1e7a
 -- name    : WilliamsonShmoys.maximal_planar_edge_lower_bound_ctx816e1e7a
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:05:18.508524+00:00
 -- url     : https://prove2.me/theorems/c72a9a05-e87e-4fe2-b1e7-8c96278e5fc9

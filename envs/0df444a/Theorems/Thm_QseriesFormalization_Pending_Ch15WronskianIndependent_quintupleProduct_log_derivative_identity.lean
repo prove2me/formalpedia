@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_quintupleProduct_log_derivative_identity
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.quintupleProduct_log_derivative_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:19:52.569514+00:00
 -- url     : https://prove2.me/theorems/8de1f278-02d0-41bb-8149-e7874872ba5a
 -- title:

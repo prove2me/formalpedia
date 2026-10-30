@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Opt_theorem_1_7
 -- name    : MartOT.Opt.theorem_1_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:35.664353+00:00
 -- url     : https://prove2.me/theorems/5b43ae57-2027-4980-aa3e-3236c82bef95

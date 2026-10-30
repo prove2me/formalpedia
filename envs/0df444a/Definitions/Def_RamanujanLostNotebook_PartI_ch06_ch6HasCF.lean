@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch06_ch6HasCF
 -- name    : RamanujanLostNotebook_PartI_ch06_ch6HasCF
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T10:55:06.859186+00:00
 -- url     : https://prove2.me/theorems/fc55a838-9b01-440a-9ae8-3bd6c652c2ba
 -- title:

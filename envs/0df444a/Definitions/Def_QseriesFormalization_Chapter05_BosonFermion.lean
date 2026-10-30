@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter05_BosonFermion
 -- name    : QseriesFormalization_Chapter05_BosonFermion
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:22:56.087252+00:00
 -- url     : https://prove2.me/theorems/2e0470f8-db2c-4eb8-958d-98cc9319ae6d
 -- title:

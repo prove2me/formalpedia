@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPEPricing_Regret_lemma_4
 -- name    : SLPEPricing.Regret.lemma_4
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:33:22.443501+00:00
 -- url     : https://prove2.me/theorems/f5157694-d3a6-4b06-bb87-3395a645ec58

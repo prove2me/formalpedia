@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicAbelChartRecover_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicAbelChartRecover_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T23:15:04.499374+00:00
 -- url     : https://prove2.me/theorems/e7bae953-5ae1-4173-8295-5fa28d9747f7
 -- title:

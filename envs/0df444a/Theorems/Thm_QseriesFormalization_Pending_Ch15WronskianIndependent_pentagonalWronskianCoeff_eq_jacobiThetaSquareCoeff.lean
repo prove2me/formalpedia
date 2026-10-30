@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_pentagonalWronskianCoeff_eq_jacobiThetaSquareCoeff
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.pentagonalWronskianCoeff_eq_jacobiThetaSquareCoeff
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:19:15.909683+00:00
 -- url     : https://prove2.me/theorems/c5164454-2624-4863-a97c-7700c41f19a5
 -- title:

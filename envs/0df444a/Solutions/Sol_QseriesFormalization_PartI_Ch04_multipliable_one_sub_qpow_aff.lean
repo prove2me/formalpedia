@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.multipliable_one_sub_qpow_aff
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:47:30.05154+00:00
 -- url     : https://prove2.me/submissions/aa45e820-fdf0-412b-b224-f7294f8ea228
 

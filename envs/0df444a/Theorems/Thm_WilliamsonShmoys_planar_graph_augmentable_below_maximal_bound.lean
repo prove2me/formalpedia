@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_augmentable_below_maximal_bound
 -- name    : WilliamsonShmoys.planar_graph_augmentable_below_maximal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:42:32.255552+00:00
 -- url     : https://prove2.me/theorems/eeac03ef-36e6-44d1-be88-71ee042c1f55

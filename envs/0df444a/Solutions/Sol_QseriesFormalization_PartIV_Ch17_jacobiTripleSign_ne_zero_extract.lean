@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.jacobiTripleSign_ne_zero_extract
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:05:30.254981+00:00
 -- url     : https://prove2.me/submissions/509bbd06-56c1-405d-ba8b-0ce593ca612f
 

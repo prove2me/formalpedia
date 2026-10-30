@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_section11_JSum_pow_four_eq_R6
 -- name    : QseriesFormalization.Pending.Hirschhorn11.section11_JSum_pow_four_eq_R6
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:34:55.974352+00:00
 -- url     : https://prove2.me/theorems/dcfd2494-7f99-4c5e-834c-342698501457
 -- title:

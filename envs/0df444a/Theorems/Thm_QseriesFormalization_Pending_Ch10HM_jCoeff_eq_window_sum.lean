@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_jCoeff_eq_window_sum
 -- name    : QseriesFormalization.Pending.Ch10HM.jCoeff_eq_window_sum
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:47:23.378288+00:00
 -- url     : https://prove2.me/theorems/27550b95-d40f-4bd9-bd94-3235f1582386
 -- title:

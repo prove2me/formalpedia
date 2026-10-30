@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_dense_planar_supergraph
 -- name    : WilliamsonShmoys.exists_dense_planar_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T11:00:20.550876+00:00
 -- url     : https://prove2.me/theorems/f274a542-0cb7-49e3-9b4f-2bbc2d7007cc

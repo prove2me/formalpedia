@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoApport_Flow_extreme_points_eq_integer
 -- name    : MonoApport.Flow.extreme_points_eq_integer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:30.202543+00:00
 -- url     : https://prove2.me/theorems/7fd8c3db-ff5e-41e5-8db2-afff03666d73

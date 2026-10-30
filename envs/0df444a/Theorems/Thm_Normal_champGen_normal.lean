@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Normal_champGen_normal
 -- name    : Normal.champGen_normal
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:29:00.31797+00:00
 -- url     : https://prove2.me/theorems/79771d27-eb83-4708-bfd3-281b7d421548
 -- title:

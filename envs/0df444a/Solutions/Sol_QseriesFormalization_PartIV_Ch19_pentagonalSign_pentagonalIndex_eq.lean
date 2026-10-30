@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.pentagonalSign_pentagonalIndex_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:59:13.244286+00:00
 -- url     : https://prove2.me/submissions/ad0f3d51-890b-4dd8-90cb-42f4eaa469d7
 

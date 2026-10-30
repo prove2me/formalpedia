@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SplitQuadraticSpecialRestriction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SplitQuadraticSpecialRestriction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:06:17.445476+00:00
 -- url     : https://prove2.me/theorems/523086bf-a89c-4c10-88a6-c214c4cc83b5
 -- title:

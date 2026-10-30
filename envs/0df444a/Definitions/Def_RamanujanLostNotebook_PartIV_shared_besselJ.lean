@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIV_shared_besselJ
 -- name    : RamanujanLostNotebook_PartIV_shared_besselJ
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T14:56:43.074126+00:00
 -- url     : https://prove2.me/theorems/b8da4f46-f90c-4507-bafa-b89c5e6c0f6a
 -- title:

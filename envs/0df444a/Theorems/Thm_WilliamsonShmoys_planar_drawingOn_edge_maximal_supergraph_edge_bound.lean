@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawingOn_edge_maximal_supergraph_edge_bound
 -- name    : WilliamsonShmoys.planar_drawingOn_edge_maximal_supergraph_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:53:54.402946+00:00
 -- url     : https://prove2.me/theorems/e5a7f9d6-bace-4e4e-8552-536c6d6539c9

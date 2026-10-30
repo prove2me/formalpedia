@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.jExpTwice_lower_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:20:58.404374+00:00
 -- url     : https://prove2.me/submissions/3d4be61e-0c34-44de-b0db-bd76d324262d
 

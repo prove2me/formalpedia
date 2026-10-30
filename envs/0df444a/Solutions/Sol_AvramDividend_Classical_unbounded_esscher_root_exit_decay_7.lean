@@ -1,10 +1,8 @@
 -- Prove2me | solution 7 for AvramDividend.Classical.unbounded_esscher_root_exit_decay
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T17:49:23.664114+00:00
 -- url     : https://prove2.me/submissions/01719f08-6012-4ab9-93c7-5ff5387ea09b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_TwoSidedExit
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_strict_pos_of_unbounded_variation

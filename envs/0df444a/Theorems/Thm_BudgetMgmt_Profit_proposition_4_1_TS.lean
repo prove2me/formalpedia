@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetMgmt_Profit_proposition_4_1_TS
 -- name    : BudgetMgmt.Profit.proposition_4_1_TS
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:25.823231+00:00
 -- url     : https://prove2.me/theorems/ef24b09d-dadd-4afc-ba23-883528b3a886

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.pentagonalMod5_range
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:49:22.288216+00:00
 -- url     : https://prove2.me/submissions/2548481e-1c61-4925-b5c1-90eb74b910ed
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_gaussian_heat_kernel_calculus
 -- name    : EthierKurtz.gaussian_heat_kernel_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:14:29.122156+00:00
 -- url     : https://prove2.me/theorems/30e19e83-ea43-4787-8e8d-11b5e806eddf

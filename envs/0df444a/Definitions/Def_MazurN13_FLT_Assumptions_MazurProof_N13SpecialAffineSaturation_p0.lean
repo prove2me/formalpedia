@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialAffineSaturation_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialAffineSaturation_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:04:57.42841+00:00
 -- url     : https://prove2.me/theorems/dc9b0fb5-b4af-43be-81c0-b82894d770ee
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableDispatch_Markov_eq_A_3
 -- name    : StableDispatch.Markov.eq_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:14.601446+00:00
 -- url     : https://prove2.me/theorems/8011f722-dc8a-434f-b10b-25a730e61769

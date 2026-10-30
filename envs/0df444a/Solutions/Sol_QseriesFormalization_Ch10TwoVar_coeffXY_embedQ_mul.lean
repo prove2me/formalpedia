@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.coeffXY_embedQ_mul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:30:09.928995+00:00
 -- url     : https://prove2.me/submissions/6f61714a-1422-41c2-b2c8-48cc5e420fec
 

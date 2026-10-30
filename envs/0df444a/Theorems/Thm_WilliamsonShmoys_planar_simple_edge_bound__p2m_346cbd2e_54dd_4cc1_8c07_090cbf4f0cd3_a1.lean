@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_simple_edge_bound__p2m_346cbd2e_54dd_4cc1_8c07_090cbf4f0cd3_a1
 -- name    : WilliamsonShmoys.planar_simple_edge_bound__p2m_346cbd2e_54dd_4cc1_8c07_090cbf4f0cd3_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:43:17.436014+00:00
 -- url     : https://prove2.me/theorems/d4f28163-3042-4d0d-a07e-fef5f41a3e54

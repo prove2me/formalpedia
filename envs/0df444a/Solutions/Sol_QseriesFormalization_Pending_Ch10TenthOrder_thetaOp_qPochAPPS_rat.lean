@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10TenthOrder.thetaOp_qPochAPPS_rat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:29:57.618528+00:00
 -- url     : https://prove2.me/submissions/41f5be58-9d2d-46dc-aa39-1c40f68da0ca
 

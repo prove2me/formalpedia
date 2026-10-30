@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for AvramDividend.Classical.two_sided_exit_stopped_scale_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-27T18:13:39.955142+00:00
 -- url     : https://prove2.me/submissions/15d15f38-bb5e-4111-8658-fe3891afc9c2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

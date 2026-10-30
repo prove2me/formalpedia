@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter10_MockTheta_PS
 -- name    : QseriesFormalization_Pending_Chapter10_MockTheta_PS
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:32:53.475073+00:00
 -- url     : https://prove2.me/theorems/63f82d7a-f89b-4f54-acb4-046bc93042cd
 -- title:

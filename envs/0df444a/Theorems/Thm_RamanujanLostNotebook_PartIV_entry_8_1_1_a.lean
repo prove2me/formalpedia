@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanLostNotebook_PartIV_entry_8_1_1_a
 -- name    : RamanujanLostNotebook.PartIV.entry_8_1_1_a
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T14:41:07.952789+00:00
 -- url     : https://prove2.me/theorems/c15d2e1e-07c7-4c7b-9887-022b4ffc23a3
 -- title:

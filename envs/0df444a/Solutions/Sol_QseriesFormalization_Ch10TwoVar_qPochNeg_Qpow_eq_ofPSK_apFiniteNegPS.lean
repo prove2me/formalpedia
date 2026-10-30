@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.qPochNeg_Qpow_eq_ofPSK_apFiniteNegPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:21:50.398366+00:00
 -- url     : https://prove2.me/submissions/de4b9a58-f195-4758-8d0d-ad95a6ba5069
 

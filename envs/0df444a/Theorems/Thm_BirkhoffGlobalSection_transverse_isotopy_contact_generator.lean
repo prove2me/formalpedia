@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirkhoffGlobalSection_transverse_isotopy_contact_generator
 -- name    : BirkhoffGlobalSection.transverse_isotopy_contact_generator
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-10-07T13:33:17.448977+00:00
 -- url     : https://prove2.me/theorems/127b6bf7-3a22-4600-82ae-2c5c3205a1bb

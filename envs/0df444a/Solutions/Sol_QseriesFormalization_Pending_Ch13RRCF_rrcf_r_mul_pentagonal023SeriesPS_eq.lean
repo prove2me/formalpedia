@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch13RRCF.rrcf_r_mul_pentagonal023SeriesPS_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:51:02.935+00:00
 -- url     : https://prove2.me/submissions/9f609606-83a0-49f7-b265-a9bd03166fda
 

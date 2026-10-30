@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialInfinitySaturation_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialInfinitySaturation_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:39:55.183628+00:00
 -- url     : https://prove2.me/theorems/478df780-261a-4919-8a98-85f139688621
 -- title:

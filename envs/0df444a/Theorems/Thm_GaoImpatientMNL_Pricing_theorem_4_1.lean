@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaoImpatientMNL_Pricing_theorem_4_1
 -- name    : GaoImpatientMNL.Pricing.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:23:06.211557+00:00
 -- url     : https://prove2.me/theorems/1f8b1708-d7bf-4753-8603-cf1cbf4b9d2c

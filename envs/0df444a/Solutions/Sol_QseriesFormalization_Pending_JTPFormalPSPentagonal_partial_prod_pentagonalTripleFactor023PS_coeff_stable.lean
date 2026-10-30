@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.partial_prod_pentagonalTripleFactor023PS_coeff_stable
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:00:09.614018+00:00
 -- url     : https://prove2.me/submissions/fc60f6b6-e6f8-4389-868e-21bef3c582cd
 

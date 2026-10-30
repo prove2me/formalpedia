@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch11_ch11Sigma
 -- name    : RamanujanLostNotebook_PartII_ch11_ch11Sigma
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T11:23:47.377362+00:00
 -- url     : https://prove2.me/theorems/c4ea9efb-760c-4b92-bac3-6e2a7d345657
 -- title:

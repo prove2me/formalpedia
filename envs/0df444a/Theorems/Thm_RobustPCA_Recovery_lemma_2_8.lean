@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPCA_Recovery_lemma_2_8
 -- name    : RobustPCA.Recovery.lemma_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:43:07.616498+00:00
 -- url     : https://prove2.me/theorems/38087c24-f16a-46bd-81bc-0ab713bd1964

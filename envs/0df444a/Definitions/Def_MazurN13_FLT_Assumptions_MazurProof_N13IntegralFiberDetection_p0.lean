@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralFiberDetection_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralFiberDetection_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:28:03.198981+00:00
 -- url     : https://prove2.me/theorems/cf75ed02-77bc-493e-b9a6-e28a9d7162aa
 -- title:

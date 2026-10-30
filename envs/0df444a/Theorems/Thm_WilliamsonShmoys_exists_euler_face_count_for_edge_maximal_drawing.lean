@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_euler_face_count_for_edge_maximal_drawing
 -- name    : WilliamsonShmoys.exists_euler_face_count_for_edge_maximal_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T10:00:17.425892+00:00
 -- url     : https://prove2.me/theorems/ec75bbb7-38db-4926-916a-a6b72b574497

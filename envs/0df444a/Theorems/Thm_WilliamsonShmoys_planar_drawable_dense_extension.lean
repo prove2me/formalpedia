@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawable_dense_extension
 -- name    : WilliamsonShmoys.planar_drawable_dense_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:55:57.683701+00:00
 -- url     : https://prove2.me/theorems/a72cf706-e493-49e9-966a-058a42f60774

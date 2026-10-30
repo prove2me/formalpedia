@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_rho_agree_succ
 -- name    : QseriesFormalization.Ch10TwoVar.rho_agree_succ
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:05:18.213396+00:00
 -- url     : https://prove2.me/theorems/ac7b0ffe-f092-422c-a1e8-ab9eb2df1b16
 -- title:

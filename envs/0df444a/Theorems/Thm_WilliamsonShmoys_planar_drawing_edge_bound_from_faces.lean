@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound_from_faces
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound_from_faces
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:47:15.614973+00:00
 -- url     : https://prove2.me/theorems/7c26b4e8-59da-4b61-8645-9586bd504461

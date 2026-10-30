@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_section5_four_E5_sum_pow_four_rat
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.section5_four_E5_sum_pow_four_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:29:13.312541+00:00
 -- url     : https://prove2.me/theorems/25fbf88d-52aa-4929-a171-d7474fb3d44e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13InfinityBranchJetLift_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13InfinityBranchJetLift_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:51:31.547582+00:00
 -- url     : https://prove2.me/theorems/48ed81c0-5eea-4ec8-bc55-10a919ef922c
 -- title:

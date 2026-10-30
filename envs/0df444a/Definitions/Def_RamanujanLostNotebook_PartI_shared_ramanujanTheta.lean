@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_shared_ramanujanTheta
 -- name    : RamanujanLostNotebook_PartI_shared_ramanujanTheta
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T02:12:10.803982+00:00
 -- url     : https://prove2.me/theorems/18454e48-f10c-47c1-8387-45f95bafc965
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HerdingForecast_Equilibrium_ec_5_1_uniqueness
 -- name    : HerdingForecast.Equilibrium.ec_5_1_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:58.855634+00:00
 -- url     : https://prove2.me/theorems/adfebe54-8124-4e25-8cd4-6a515c3b1866

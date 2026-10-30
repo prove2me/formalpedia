@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.E5_one_eq_neg_X_mul_expand_twentyfive_qPochInfPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:27:25.444095+00:00
 -- url     : https://prove2.me/submissions/d4b2f25f-9ff4-43c5-bcff-399297bfb70f
 

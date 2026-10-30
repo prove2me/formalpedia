@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_of_triangulating_supergraph
 -- name    : WilliamsonShmoys.edge_count_of_triangulating_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:00:25.326+00:00
 -- url     : https://prove2.me/theorems/d0fbf8a5-dc2f-49cb-98ec-1250fd244082

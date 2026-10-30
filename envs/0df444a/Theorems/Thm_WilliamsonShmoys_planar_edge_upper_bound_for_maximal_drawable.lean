@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_upper_bound_for_maximal_drawable
 -- name    : WilliamsonShmoys.planar_edge_upper_bound_for_maximal_drawable
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T11:35:20.734997+00:00
 -- url     : https://prove2.me/theorems/4d87f36a-d084-4bd0-aa3c-37e32c8541d5

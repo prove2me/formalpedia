@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch34_ch34InvariantJ
 -- name    : RamanujanNotebooks_ch34_ch34InvariantJ
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T08:06:50.497979+00:00
 -- url     : https://prove2.me/theorems/53ebc5be-86ad-449a-aa60-adfe8a6ad8c3
 -- title:

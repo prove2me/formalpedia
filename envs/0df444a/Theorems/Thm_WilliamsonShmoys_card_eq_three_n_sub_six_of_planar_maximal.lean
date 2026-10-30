@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_card_eq_three_n_sub_six_of_planar_maximal
 -- name    : WilliamsonShmoys.card_eq_three_n_sub_six_of_planar_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:12:21.461188+00:00
 -- url     : https://prove2.me/theorems/3283e70a-bf65-40e4-a209-7c126eda83bf

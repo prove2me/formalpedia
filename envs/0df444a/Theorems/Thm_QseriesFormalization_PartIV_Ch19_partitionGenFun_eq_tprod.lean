@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_partitionGenFun_eq_tprod
 -- name    : QseriesFormalization.PartIV.Ch19.partitionGenFun_eq_tprod
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:57:31.119532+00:00
 -- url     : https://prove2.me/theorems/24484b60-ac0f-4de8-9323-d830b76678e2
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_pentagonalProduct014_mul_pentagonalProduct023_eq_qPochInfPS_mul_expand_five_qPochInfPS_rat
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.pentagonalProduct014_mul_pentagonalProduct023_eq_qPochInfPS_mul_expand_five_qPochInfPS_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:26:34.915883+00:00
 -- url     : https://prove2.me/theorems/6b46fe0f-b98e-40a6-b76c-0a067032bbdb
 -- title:

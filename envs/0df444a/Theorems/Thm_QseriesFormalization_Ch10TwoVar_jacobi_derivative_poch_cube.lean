@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_jacobi_derivative_poch_cube
 -- name    : QseriesFormalization.Ch10TwoVar.jacobi_derivative_poch_cube
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:00:53.302802+00:00
 -- url     : https://prove2.me/theorems/591d47ee-388f-48e6-8f18-96937cc8d563
 -- title:

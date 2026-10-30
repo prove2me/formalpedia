@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch38_ch38GammaOsc
 -- name    : RamanujanNotebooks_ch38_ch38GammaOsc
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T08:53:38.115993+00:00
 -- url     : https://prove2.me/theorems/70ad5ede-9108-4a7f-9b6f-30ae3cfcf4ca
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.most_beautiful_identity_of_denominator_rationalization
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:24:22.495011+00:00
 -- url     : https://prove2.me/submissions/0f7a7de5-7f6e-474f-bade-56111538c0f7
 

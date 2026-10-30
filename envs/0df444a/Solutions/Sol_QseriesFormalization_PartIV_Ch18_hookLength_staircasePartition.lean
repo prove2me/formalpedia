@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch18.hookLength_staircasePartition
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:44:02.487812+00:00
 -- url     : https://prove2.me/submissions/56ab8ba3-a072-46da-8535-305b3d5579ff
 

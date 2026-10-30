@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurHuang_EisensteinDescent35
 -- name    : MazurHuang_EisensteinDescent35
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:04:50.076079+00:00
 -- url     : https://prove2.me/theorems/f3ba2861-1037-4929-80e3-d25cae24128c
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_triangulation_extension_f1f92bb7_maximal_supergraph_edge_count
 -- name    : WilliamsonShmoys.drawable_triangulation_extension_f1f92bb7_maximal_supergraph_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T07:26:03.800081+00:00
 -- url     : https://prove2.me/theorems/eccbc3ea-a49b-47f0-9f72-4d134a188e7f

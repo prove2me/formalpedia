@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarQueue_Planar_lemma_5
 -- name    : PlanarQueue.Planar.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T13:24:27.836641+00:00
 -- url     : https://prove2.me/theorems/1576ebc4-c97d-4bb7-b9ad-6498a28cac96

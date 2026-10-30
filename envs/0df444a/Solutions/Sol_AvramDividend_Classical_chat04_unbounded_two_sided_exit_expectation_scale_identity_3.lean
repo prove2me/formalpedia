@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.chat04_unbounded_two_sided_exit_expectation_scale_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-27T23:54:26.256662+00:00
 -- url     : https://prove2.me/submissions/114a61d1-bdc2-49fc-b91b-6db23af4c2d3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

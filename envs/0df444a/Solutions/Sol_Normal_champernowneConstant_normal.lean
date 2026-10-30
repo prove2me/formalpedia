@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Normal.champernowneConstant_normal
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:29:37.322775+00:00
 -- url     : https://prove2.me/submissions/5183ccfb-cdfe-4a6d-98bf-b6cdc3545083
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch02_summable_jacobiInfiniteSeries_terms
 -- name    : QseriesFormalization.PartI.Ch02.summable_jacobiInfiniteSeries_terms
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:20:15.134652+00:00
 -- url     : https://prove2.me/theorems/6e0113d3-ce9e-4314-9e32-7652324a124e
 -- title:

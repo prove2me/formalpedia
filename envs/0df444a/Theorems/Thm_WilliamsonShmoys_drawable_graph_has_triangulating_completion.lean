@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_has_triangulating_completion
 -- name    : WilliamsonShmoys.drawable_graph_has_triangulating_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T18:58:00.891445+00:00
 -- url     : https://prove2.me/theorems/399d67b6-1225-43ef-9a0c-578821b9bf96

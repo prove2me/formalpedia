@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter07_RRStep1H
 -- name    : QseriesFormalization_Chapter07_RRStep1H
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:25:30.742342+00:00
 -- url     : https://prove2.me/theorems/754cd66b-1162-4329-82d5-977957006d77
 -- title:

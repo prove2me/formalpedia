@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_sparse_graph_has_drawable_strict_extension_dichotomy__p2m_5bb20037_ccd1_423f_b2f4_e98cccbfec38_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:24:41.131222+00:00
 -- url     : https://prove2.me/submissions/371576d0-da94-4a7c-8a5d-9d3a24e208c6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

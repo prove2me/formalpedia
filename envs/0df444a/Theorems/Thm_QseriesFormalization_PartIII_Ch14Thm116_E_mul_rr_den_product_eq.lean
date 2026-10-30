@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIII_Ch14Thm116_E_mul_rr_den_product_eq
 -- name    : QseriesFormalization.PartIII.Ch14Thm116.E_mul_rr_den_product_eq
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:12:22.169185+00:00
 -- url     : https://prove2.me/theorems/cce76950-f643-44e2-961e-fc3cf8e59f48
 -- title:

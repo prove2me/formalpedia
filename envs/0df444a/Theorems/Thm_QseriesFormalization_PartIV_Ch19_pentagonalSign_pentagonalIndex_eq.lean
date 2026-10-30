@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_pentagonalSign_pentagonalIndex_eq
 -- name    : QseriesFormalization.PartIV.Ch19.pentagonalSign_pentagonalIndex_eq
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:58:55.601987+00:00
 -- url     : https://prove2.me/theorems/57f4680f-7d58-47aa-9200-ac3cff0bcf28
 -- title:

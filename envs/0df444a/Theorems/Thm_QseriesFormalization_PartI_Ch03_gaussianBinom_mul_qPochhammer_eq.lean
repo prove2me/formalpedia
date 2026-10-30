@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch03_gaussianBinom_mul_qPochhammer_eq
 -- name    : QseriesFormalization.PartI.Ch03.gaussianBinom_mul_qPochhammer_eq
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:21:23.647449+00:00
 -- url     : https://prove2.me/theorems/46ec46d9-3f2f-40f6-a62f-0a434540994a
 -- title:

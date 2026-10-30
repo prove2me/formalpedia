@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_jacobiIdentity
 -- name    : QseriesFormalization.PartI.Ch04.jacobiIdentity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:29:11.255473+00:00
 -- url     : https://prove2.me/theorems/bbbf8b76-87e5-4dd9-a9b3-34e10e344e36
 -- title:

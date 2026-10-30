@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_augmentation_54a0e51c_maximal_drawable_edge_count
 -- name    : WilliamsonShmoys.planar_edge_augmentation_54a0e51c_maximal_drawable_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:47:38.157985+00:00
 -- url     : https://prove2.me/theorems/40ded0e5-34ac-442a-8b1d-7117b45102fb

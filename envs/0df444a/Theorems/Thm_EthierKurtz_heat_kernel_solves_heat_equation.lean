@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_heat_kernel_solves_heat_equation
 -- name    : EthierKurtz.heat_kernel_solves_heat_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T23:15:03.100998+00:00
 -- url     : https://prove2.me/theorems/5d1d5d40-76ba-47b6-962c-5eea37577c7d

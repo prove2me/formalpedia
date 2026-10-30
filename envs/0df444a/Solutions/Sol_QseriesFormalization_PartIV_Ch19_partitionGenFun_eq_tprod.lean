@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.partitionGenFun_eq_tprod
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:07:40.911842+00:00
 -- url     : https://prove2.me/submissions/3a1b7ec9-3f2c-4289-958e-6bd4690c72a4
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch05_ch05EtaCoeff
 -- name    : RamanujanLostNotebook_PartIII_ch05_ch05EtaCoeff
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T12:55:30.187879+00:00
 -- url     : https://prove2.me/theorems/f2790626-f582-462f-925a-f7b3c203a62b
 -- title:

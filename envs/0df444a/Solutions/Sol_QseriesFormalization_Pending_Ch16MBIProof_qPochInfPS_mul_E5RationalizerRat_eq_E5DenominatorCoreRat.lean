@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.qPochInfPS_mul_E5RationalizerRat_eq_E5DenominatorCoreRat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:16:45.407982+00:00
 -- url     : https://prove2.me/submissions/1ec7d7c1-6441-4830-ba31-5392c91c6ecc
 

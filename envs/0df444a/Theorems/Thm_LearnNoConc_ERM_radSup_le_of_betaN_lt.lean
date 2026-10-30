@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnNoConc_ERM_radSup_le_of_betaN_lt
 -- name    : LearnNoConc.ERM.radSup_le_of_betaN_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:49:54.03982+00:00
 -- url     : https://prove2.me/theorems/71e959f9-6c46-4ea1-81d6-e79dd4bbcf72

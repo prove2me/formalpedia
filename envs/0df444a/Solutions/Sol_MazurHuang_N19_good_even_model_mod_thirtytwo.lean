@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.good_even_model_mod_thirtytwo
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:13:42.287976+00:00
 -- url     : https://prove2.me/submissions/f33b2af2-28f7-4b9d-b8c1-b6ccb2d111a8
 

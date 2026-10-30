@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_schurSum_recurrence
 -- name    : QseriesFormalization.PartII.Ch07.schurSum_recurrence
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:24:23.833463+00:00
 -- url     : https://prove2.me/theorems/8d285921-27e5-443e-bddb-3347593d84d5
 -- title:

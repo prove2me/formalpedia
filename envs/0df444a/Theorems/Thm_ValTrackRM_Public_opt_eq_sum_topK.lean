@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValTrackRM_Public_opt_eq_sum_topK
 -- name    : ValTrackRM.Public.opt_eq_sum_topK
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:31:30.866987+00:00
 -- url     : https://prove2.me/theorems/8b290881-0673-40c9-8a1c-0871df05c2bf

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_apK_coeff_nat
 -- name    : QseriesFormalization.Ch10TwoVar.apK_coeff_nat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:55:12.663207+00:00
 -- url     : https://prove2.me/theorems/a3f224e9-1371-42bb-8e68-e5756a2d926f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_gaussK_piBar5_mul
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.gaussK_piBar5_mul
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:13:05.407612+00:00
 -- url     : https://prove2.me/theorems/7454276f-272f-4503-bcc5-c232dbd255e5
 -- title:

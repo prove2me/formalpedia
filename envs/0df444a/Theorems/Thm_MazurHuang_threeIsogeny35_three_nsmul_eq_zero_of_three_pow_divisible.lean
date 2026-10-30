@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_threeIsogeny35_three_nsmul_eq_zero_of_three_pow_divisible
 -- name    : MazurHuang.threeIsogeny35_three_nsmul_eq_zero_of_three_pow_divisible
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:21.640154+00:00
 -- url     : https://prove2.me/theorems/eda33143-7b0b-4241-be76-fa71e3eb7016
 -- title:

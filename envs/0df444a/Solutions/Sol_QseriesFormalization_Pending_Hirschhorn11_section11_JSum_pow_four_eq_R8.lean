@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.section11_JSum_pow_four_eq_R8
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:56:09.181202+00:00
 -- url     : https://prove2.me/submissions/ec4a6db1-158a-43b5-b2d4-2321de517d2b
 

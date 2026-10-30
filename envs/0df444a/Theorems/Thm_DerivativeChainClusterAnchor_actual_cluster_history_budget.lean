@@ -1,0 +1,47 @@
+-- Prove2me | Theorems.Thm_DerivativeChainClusterAnchor_actual_cluster_history_budget
+-- name    : DerivativeChainClusterAnchor.actual_cluster_history_budget
+-- status  : Proved
+-- author  : @labuka
+-- created : 2026-10-27T00:41:40.25769+00:00
+-- url     : https://prove2.me/theorems/4964318a-9ba1-4794-8cc1-025d8e88cfc3
+-- title:
+--   Actual clustered-source complete derivative-chain budget
+-- statement:
+--   Let a have n+1 complex root slots, r>0, 2r<n+1 and at most r outliers. Assume ε≥0, non-outliers lie within ε of c, and every slot lies within D of c. Set u=(Σaᵢ)/(n+1) and V=(Σ|aᵢ−u|²)/(n+1). There is a complete actual derivative-root chain with length at most (2r−1)√(V/n)+√((2r−1)V/n+|u−c|²)+4(n+1)ε+16r^(3/2)√(Dε/(n+1)). Neither ε≤D nor V>0 is assumed.
+-- source:
+--   New frozen formal source /Users/amal/.codex/worktrees/prove2me-sync-20261026/derivative-chain-prize/submission_sync/new_formal/cluster_anchor/ClusterBudget.lean, lines 56-85, SHA-256 1d385fca9cde10cc53f95d116f42a747aba58943a19a961bdad65fd4c05c926f. The source manifest pins the author receipts and analytic provenance. This new code is not attributed to the older public checkpoint. Mathematical source checkpoint f6f9312a25cdfb1cc2c359eb04374ae01c451978: /Users/amal/.codex/worktrees/prove2me-sync-20261026/derivative-chain-prize/submission_sync/platform/new_analytic/analytic_sources/cluster/source_provenance/PROOF.md, SHA-256 58372fc49757644245d40862747bcba5a45990d6e2d3140f51b913629a2090df; /Users/amal/.codex/worktrees/prove2me-sync-20261026/derivative-chain-prize/submission_sync/platform/new_analytic/analytic_sources/cluster/source_provenance/RESULT.md, SHA-256 32d429f3fdcc4e6ef33dbd5eeaa34d57ae0e0befad59d01cc01bee0cc1a90b9c; /Users/amal/.codex/worktrees/prove2me-sync-20261026/derivative-chain-prize/submission_sync/platform/new_analytic/analytic_sources/cluster/source_provenance/VERIFICATION.md, SHA-256 29d6e418d33b3a3eae2f5ac59bc979c87b90e4288066c4a24705670ed682386a.
+
+import Mathlib
+import Definitions.Def_DerivativeChainContinuation_CollinearTransport
+import Definitions.Def_DerivativeChainPrivate_foundations
+set_option autoImplicit false
+namespace DerivativeChain
+end DerivativeChain
+namespace DerivativeChainClusterAnchor
+end DerivativeChainClusterAnchor
+namespace DerivativeChainContinuation
+end DerivativeChainContinuation
+namespace DerivativeChainExtremal
+end DerivativeChainExtremal
+namespace DerivativeChainPrefixLaws
+end DerivativeChainPrefixLaws
+namespace DerivativeChainPrivate
+end DerivativeChainPrivate
+
+set_option autoImplicit false
+set_option backward.isDefEq.respectTransparency false
+set_option maxHeartbeats 1500000
+open scoped BigOperators
+open Polynomial DerivativeChainContinuation DerivativeChainPrivate DerivativeChainPrefixLaws
+open DerivativeChainClusterAnchor
+
+theorem DerivativeChainClusterAnchor.actual_cluster_history_budget (n r : ℕ) (a : Fin (n+1) → ℂ) (c : ℂ)
+    (O : Finset (Fin (n+1))) (hr : 0 < r) (hcut : 2*r < n+1) (hO : O.card ≤ r)
+    (ε D : ℝ) (hε : 0 ≤ ε)
+    (hnear : ∀ i, i ∉ O → ‖a i-c‖ ≤ ε) (hall : ∀ i, ‖a i-c‖ ≤ D) :
+    let u := complexCentroid a
+    let V := ∑ i, (n+1:ℝ)⁻¹*‖a i-u‖^2
+    ∃ z : Fin (n+1) → ℂ, IsChain a z ∧
+      chainCost z ≤ ((2*r-1:ℕ):ℝ)*Real.sqrt (V/(n:ℝ))+
+        Real.sqrt (((2*r-1:ℕ):ℝ)*V/(n:ℝ)+‖u-c‖^2)+
+        4*(n+1:ℝ)*ε+16*(r:ℝ)^((3:ℝ)/2)*Real.sqrt (D*ε/(n+1:ℝ)) := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_triangular_face_incidence
 -- name    : WilliamsonShmoys.maximal_planar_drawing_triangular_face_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T20:42:10.117913+00:00
 -- url     : https://prove2.me/theorems/ad420e80-a88b-4b08-882f-7ffc4feb506f

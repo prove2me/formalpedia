@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound_for_face_incidence
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound_for_face_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:35:18.711496+00:00
 -- url     : https://prove2.me/theorems/9118e2b8-237f-4a25-b764-cf083375a4f2

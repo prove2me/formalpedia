@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_jacobiPentagonal_per_term_zero_mod_5
 -- name    : QseriesFormalization.PartIV.Ch17.jacobiPentagonal_per_term_zero_mod_5
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:34:23.536978+00:00
 -- url     : https://prove2.me/theorems/e2141301-3ecc-4ba0-a36d-7cb95f5aea74
 -- title:

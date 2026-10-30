@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_bound_fixed_vertex_type
 -- name    : WilliamsonShmoys.maximal_planar_edge_bound_fixed_vertex_type
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:06:24.233987+00:00
 -- url     : https://prove2.me/theorems/f255de1b-0f14-475d-ab9a-526a64231511

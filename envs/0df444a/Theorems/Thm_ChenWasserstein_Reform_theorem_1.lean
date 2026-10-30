@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenWasserstein_Reform_theorem_1
 -- name    : ChenWasserstein.Reform.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:18:52.299981+00:00
 -- url     : https://prove2.me/theorems/2978ef92-3c29-4061-bd19-4d9d4b1fa9e1

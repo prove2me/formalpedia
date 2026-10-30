@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MetricKMedian.GeneratorAverage.averaged_ideal_drift
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:38:17.491725+00:00
 -- url     : https://prove2.me/submissions/37a167da-c804-4ad2-bec3-ff69256a5368
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ035K021

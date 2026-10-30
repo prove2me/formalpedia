@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edgeMaximalPlanarOn_card
 -- name    : WilliamsonShmoys.edgeMaximalPlanarOn_card
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:27:47.87199+00:00
 -- url     : https://prove2.me/theorems/7b8669e3-d596-4e0d-9033-72c379cabd1a

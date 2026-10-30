@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactPenGNEP_NonShared_proposition_3_a
 -- name    : ExactPenGNEP.NonShared.proposition_3_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:41.457754+00:00
 -- url     : https://prove2.me/theorems/0768c10e-639e-4047-aac9-0ebfe3bec41e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_euler_and_face_degree_bound
 -- name    : WilliamsonShmoys.planar_drawing_euler_and_face_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:02:10.768847+00:00
 -- url     : https://prove2.me/theorems/d022b1d1-d1e3-4932-940e-a619c500f998

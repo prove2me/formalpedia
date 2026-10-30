@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.ASDEtaProducts.asd5FProductPS_eq_asd5FSeriesPS_complex
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:40:21.066647+00:00
 -- url     : https://prove2.me/submissions/658550e2-2956-4202-9941-1dfb3e040e4c
 

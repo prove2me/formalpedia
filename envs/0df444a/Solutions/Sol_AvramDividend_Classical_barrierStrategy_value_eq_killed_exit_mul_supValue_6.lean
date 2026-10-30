@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for AvramDividend.Classical.barrierStrategy_value_eq_killed_exit_mul_supValue
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-29T04:03:16.806278+00:00
 -- url     : https://prove2.me/submissions/caa04e44-7f1f-4b96-b180-7cc0a53e509f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

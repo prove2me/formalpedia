@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_SexticMumfordIdealConjugation_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_SexticMumfordIdealConjugation_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:59:55.807614+00:00
 -- url     : https://prove2.me/theorems/72647f71-3214-4cf3-a832-fc3b01a05c20
 -- title:

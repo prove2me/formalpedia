@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_hasSum_pentagonalProduct023PS_coeff_mul_pow_of_norm_lt_one_sixteenth
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.hasSum_pentagonalProduct023PS_coeff_mul_pow_of_norm_lt_one_sixteenth
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:32:53.177637+00:00
 -- url     : https://prove2.me/theorems/a05c9e05-9b6d-4dbb-a0a9-bf1b7a649e5c
 -- title:

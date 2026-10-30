@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FormalInfinitySplit_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FormalInfinitySplit_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:46:50.990352+00:00
 -- url     : https://prove2.me/theorems/2685b5db-0579-4a71-a70a-0b3d31b04ea2
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.continuousAt_jacobiProductOddFactor_zinv_shifted_tprod
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:49:03.758413+00:00
 -- url     : https://prove2.me/submissions/31b60353-1c04-4870-90b8-bef5098b0b32
 

@@ -3149,7 +3149,6 @@
 {"parent": "MIPStarRE.LDT.SelfImprovement.matrixSdpCanonicalObjective_trace_extractedPrimalSubmeasurement", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_PMFAverages", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.SelfImprovement.matrixSdpCanonicalObjective_trace_extractedPrimalSubmeasurement", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Families", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.SelfImprovement.matrixSdpCanonicalObjective_trace_extractedPrimalSubmeasurement", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
-{"parent": "CorrelatedTrials.Consistency.lemma_EC_1", "child": "CorrelatedTrials_Consistency_AllocationIndex", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Prog.routeOneCall_closed", "child": "MIPRE_Foundations_Cost_TreeBits", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Prog.routeOneCall_closed", "child": "MIPRE_Foundations_SAT_Circuit", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Prog.routeOneCall_closed", "child": "MIPRE_Foundations_CL_DetypingProgCall", "via": ["solution", "statement"]}
@@ -16771,7 +16770,6 @@
 {"parent": "MIPStarRE.LDT.Pasting.fromHToG_ev_sum_isSome_true_weight", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "CallNoCall.OneDir.avgWait_strictAnti_coord", "child": "CallNoCall_OneDir_StateDepQueue", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group260_part03", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "CloudMWU.Bicriteria.lemma_2", "child": "CloudMWU_Bicriteria_Model", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer.Order13PellActualOrdinaryChart.pellFunction_eq_ordinaryPlus", "child": "MazurTransfer_Order13PellChartOverlapIdentities", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer.Order13PellActualOrdinaryChart.pellFunction_eq_ordinaryPlus", "child": "MazurTransfer_Order13ActualInfinityValuationData", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.glued_function_initial_form", "child": "TypeDensity_Formula_FiniteFieldCounts", "via": ["solution", "statement"]}
@@ -20003,7 +20001,6 @@
 {"parent": "OAI.Saxl.vector_of_invariant_functional", "child": "OAI_RepresentationTheory_Saxl_CyclicSector", "via": ["solution", "statement"]}
 {"parent": "OAI.Saxl.vector_of_invariant_functional", "child": "OAI_RepresentationTheory_Saxl_HighProjection", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Information100.P26.corollary_6_15", "child": "QAlgorithms_Papers_Independent_Information100_P26", "via": ["solution", "statement"]}
-{"parent": "CloudMWU.Bicriteria.theorem_3", "child": "CloudMWU_Bicriteria_Model", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group407_part00", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "MIPRE_Background_LIDT_Presentation", "child": "MIPRE_Foundations_CL_Canonical", "via": ["statement"]}
 {"parent": "MIPRE_Background_LIDT_Presentation", "child": "MIPRE.LIDT.CL.card_chi_fiber", "via": ["statement"]}
@@ -23431,7 +23428,6 @@
 {"parent": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_DiagonalLine", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine", "via": ["statement"]}
 {"parent": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_DiagonalLine", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.LSW15.convexOpt_of_separationOracle", "child": "QAlgorithms_Defs_ConvexOpt", "via": ["statement"]}
-{"parent": "CorrelatedTrials.Consistency.lemma_EC_4", "child": "CorrelatedTrials_Consistency_CpdeProcess", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSlicedLongJet_ideal_transfer_s2", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSlicedLongJet_ideal_transfer_s2", "child": "OAIE3v2B194", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.MainInductionStep.answerLdPastingInInductionSectionOfSmallError", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_Split", "via": ["solution", "statement"]}
@@ -28550,7 +28546,6 @@
 {"parent": "OAI.Erdos3.rationalInactive_translated_grid_comparison_s2", "child": "OAIE3v2B105", "via": ["statement"]}
 {"parent": "EquiSegment.Multivalued.claim_4_4", "child": "EquiSegment_Multivalued_Setting", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group312_part06", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "CollabProject.TimeDep.theorem_2", "child": "CollabProject_TimeDep_Model", "via": ["statement"]}
 {"parent": "FarmerInfo.Exclusive.proposition_1_uniqueness", "child": "FarmerInfo_Exclusive_Setting", "via": ["solution", "statement"]}
 {"parent": "MIPRE.SyncStrategy.isPCC_relabel", "child": "MIPRE_Foundations_GameTransport", "via": ["solution", "statement"]}
 {"parent": "MIPRE.SyncStrategy.isPCC_relabel", "child": "MIPRE_Foundations_Games", "via": ["solution", "statement"]}
@@ -35655,7 +35650,6 @@
 {"parent": "OAI.KervaireTraceCalculus.trace_mul_nonneg", "child": "OAI_GroupTheory_Kervaire_TraceCalculus", "via": ["solution", "statement"]}
 {"parent": "OAI.KervaireTraceCalculus.trace_mul_nonneg", "child": "OAI_GroupTheory_Kervaire_Suppression", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group159_part01", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "ProcFlex.DMGI.proposition_1", "child": "ProcFlex_DMGI_Model", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group370_part02", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "TypeDensity.chart_point_isMaximal_of_residue_surjective", "child": "TypeDensity_Basic", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.chart_point_isMaximal_of_residue_surjective", "child": "TypeDensity_Measure_AdicCylinders", "via": ["solution", "statement"]}
@@ -73154,7 +73148,6 @@
 {"parent": "MIPRE.Introspection.TypedEstimates.introspect_coarseZ_commutator_alice", "child": "MIPRE_Foundations_Cost_Basic_B", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group363_part04", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group413_part02", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "CloudMWU.Bicriteria.claim_3_2", "child": "CloudMWU_Bicriteria_Model", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer_Order13ActualNormCharacterContinuousH1Data", "child": "MazurTransfer.Order13ActualPicardNormContinuousCocycles.kernel_continuousSMul", "via": ["statement"]}
 {"parent": "MazurTransfer_Order13ActualNormCharacterContinuousH1Data", "child": "MazurTransfer.ContinuousCoefficientExponentAndContinuity.quotient_continuousSMul", "via": ["statement"]}
 {"parent": "MazurTransfer_Order13ActualNormCharacterContinuousH1Data", "child": "MazurTransfer_Order13ActualNormKernelF19RepresentationOriginalContextDataV220261018", "via": ["statement"]}
@@ -84134,7 +84127,6 @@
 {"parent": "QAlgorithms.Papers.Independent.Independent1.P06.pairReading_tensorDescription", "child": "QAlgorithms_Defs_MitigationOperationBasis", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Independent1.P06.pairReading_tensorDescription", "child": "QAlgorithms_Papers_Independent_Independent1_P06_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Independent1.P06.pairReading_tensorDescription", "child": "QAlgorithms_Defs_SurgeryFaultComplexes", "via": ["solution", "statement"]}
-{"parent": "CorrelatedTrials.Consistency.lemma_EC_5", "child": "CorrelatedTrials_Consistency_CpdeProcess", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group106_part04", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group338_part07", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "MIPRE.QLD.sum_uniform_snorm_sq_ordComb_XZ_le_of_isLinAB", "child": "MIPRE_Foundations_WeylEPR", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLMThroughput_TokenBudget_eq_56
 -- name    : LLMThroughput.TokenBudget.eq_56
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:37.766386+00:00
 -- url     : https://prove2.me/theorems/6c1cf762-0926-481f-9706-a311fc7e9ff0

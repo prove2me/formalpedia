@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13IntegralInfinityVerticalGraphJacobian_verticalIdeal_isUnit
 -- name    : MazurProof.N13IntegralInfinityVerticalGraphJacobian.verticalIdeal_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T08:10:27.87012+00:00
 -- url     : https://prove2.me/theorems/877cb383-5139-4298-94ee-c279a35b1ede

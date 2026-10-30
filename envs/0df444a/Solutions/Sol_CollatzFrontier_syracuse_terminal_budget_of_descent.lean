@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.syracuse_terminal_budget_of_descent
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T18:22:17.689984+00:00
 -- url     : https://prove2.me/submissions/3d576559-01a2-4a9b-ac1f-27adb95946bb
 

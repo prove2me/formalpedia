@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_tate_raw_polynomial_identity
 -- name    : MazurHuang.N19.tate_raw_polynomial_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:13:30.677989+00:00
 -- url     : https://prove2.me/theorems/96eaf0b7-d862-4ef7-ba84-2ae8882423de
 -- title:

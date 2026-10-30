@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_edge_count_upper_bound_for_component_edge_bound
 -- name    : WilliamsonShmoys.connected_planar_edge_count_upper_bound_for_component_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T09:57:12.697908+00:00
 -- url     : https://prove2.me/theorems/a90184ce-ee9b-446c-ba5f-8b914323af6c

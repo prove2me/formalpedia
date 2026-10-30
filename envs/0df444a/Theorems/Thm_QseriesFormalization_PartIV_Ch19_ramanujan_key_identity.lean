@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_ramanujan_key_identity
 -- name    : QseriesFormalization.PartIV.Ch19.ramanujan_key_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:59:33.635274+00:00
 -- url     : https://prove2.me/theorems/ad640aff-3e42-42d5-acd5-948c226c93e1
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_graph_edge_count_v2_face_incidence_bound
 -- name    : WilliamsonShmoys.connected_planar_graph_edge_count_v2_face_incidence_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T04:15:40.652899+00:00
 -- url     : https://prove2.me/theorems/8b6bc1d0-8ae3-4194-b54a-dbb7d52694ad

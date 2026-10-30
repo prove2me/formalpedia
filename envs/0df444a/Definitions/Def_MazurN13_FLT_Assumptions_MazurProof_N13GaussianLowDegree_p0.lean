@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianLowDegree_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianLowDegree_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:26:46.540488+00:00
 -- url     : https://prove2.me/theorems/f0580f03-4c63-403b-8ee7-420c6d89242f
 -- title:

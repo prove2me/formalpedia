@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_isRes5_natCast_mul
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.isRes5_natCast_mul
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:23:31.623813+00:00
 -- url     : https://prove2.me/theorems/a0711eb2-ad2b-4f3c-94d5-c387292372c9
 -- title:

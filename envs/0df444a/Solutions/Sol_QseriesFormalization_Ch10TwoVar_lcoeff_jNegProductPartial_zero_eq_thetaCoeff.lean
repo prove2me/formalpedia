@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.lcoeff_jNegProductPartial_zero_eq_thetaCoeff
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:44:14.59045+00:00
 -- url     : https://prove2.me/submissions/6fd0c617-65a3-4192-996d-9d2c10656436
 

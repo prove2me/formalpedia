@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13CandidateCollapse_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13CandidateCollapse_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:20:47.39429+00:00
 -- url     : https://prove2.me/theorems/a46d1758-5bf6-450d-aebc-bf8ae66de137
 -- title:

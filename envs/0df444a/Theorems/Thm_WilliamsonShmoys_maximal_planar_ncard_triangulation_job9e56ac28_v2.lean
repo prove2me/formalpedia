@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_ncard_triangulation_job9e56ac28_v2
 -- name    : WilliamsonShmoys.maximal_planar_ncard_triangulation_job9e56ac28_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:44:37.228179+00:00
 -- url     : https://prove2.me/theorems/4e1da140-2dc1-48aa-a5de-903746e6acda

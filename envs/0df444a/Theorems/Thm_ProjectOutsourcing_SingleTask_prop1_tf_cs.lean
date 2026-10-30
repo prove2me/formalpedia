@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjectOutsourcing_SingleTask_prop1_tf_cs
 -- name    : ProjectOutsourcing.SingleTask.prop1_tf_cs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:06.483176+00:00
 -- url     : https://prove2.me/theorems/9eaa0b2b-c600-4458-af9e-f50b3ff0e023

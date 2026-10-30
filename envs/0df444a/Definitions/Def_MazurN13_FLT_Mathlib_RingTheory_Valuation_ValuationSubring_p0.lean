@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Mathlib_RingTheory_Valuation_ValuationSubring_p0
 -- name    : MazurN13_FLT_Mathlib_RingTheory_Valuation_ValuationSubring_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:48:08.790976+00:00
 -- url     : https://prove2.me/theorems/0b94f3e3-3b31-4a50-8f34-41fc78fc1388
 -- title:

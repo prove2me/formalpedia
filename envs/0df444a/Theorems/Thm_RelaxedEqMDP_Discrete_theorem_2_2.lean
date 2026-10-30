@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedEqMDP_Discrete_theorem_2_2
 -- name    : RelaxedEqMDP.Discrete.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:51.935799+00:00
 -- url     : https://prove2.me/theorems/50dd09fc-bc4e-4e79-825c-09b32b1569fe

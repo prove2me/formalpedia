@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassDRCCP_Improved_eq_3_dual_form
 -- name    : WassDRCCP.Improved.eq_3_dual_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:13:18.539681+00:00
 -- url     : https://prove2.me/theorems/725a5820-88ed-4bc2-913b-71ceeb533602

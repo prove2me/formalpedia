@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.pentagonalWronskianCoeff_eq_jacobiThetaSquareCoeff
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:34:38.479794+00:00
 -- url     : https://prove2.me/submissions/87af7320-9001-4d18-939a-fbd68fc585aa
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N18RouteC_PushPull_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N18RouteC_PushPull_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:45:34.44599+00:00
 -- url     : https://prove2.me/theorems/313dc864-38c4-4671-a3a7-51c2e36a2a82
 -- title:

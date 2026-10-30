@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.rs_odd_of_norm_shell
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:52:25.900232+00:00
 -- url     : https://prove2.me/submissions/65b042d7-af61-4f57-843d-9d73f588a954
 

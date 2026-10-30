@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.gaussianBinom_norm_le
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:44:28.250613+00:00
 -- url     : https://prove2.me/submissions/51bed631-a317-496c-bb18-fd1930777f95
 

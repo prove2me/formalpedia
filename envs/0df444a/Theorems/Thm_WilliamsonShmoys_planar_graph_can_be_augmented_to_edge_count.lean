@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_can_be_augmented_to_edge_count
 -- name    : WilliamsonShmoys.planar_graph_can_be_augmented_to_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T05:50:23.31596+00:00
 -- url     : https://prove2.me/theorems/5956d2a1-afad-4c5c-bc6a-fee0d4abf9bd

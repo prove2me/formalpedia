@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_fixed_vertex_planar_edge_lower_bound
 -- name    : WilliamsonShmoys.maximal_fixed_vertex_planar_edge_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:39:15.178572+00:00
 -- url     : https://prove2.me/theorems/5c9b79f9-9987-414e-a99c-5e863a94cdb9

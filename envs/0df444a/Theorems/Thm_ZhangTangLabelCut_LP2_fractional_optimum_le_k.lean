@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhangTangLabelCut_LP2_fractional_optimum_le_k
 -- name    : ZhangTangLabelCut.LP2.fractional_optimum_le_k
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:14:31.227985+00:00
 -- url     : https://prove2.me/theorems/32b61c59-01e8-4e95-b6bb-8c736f634473

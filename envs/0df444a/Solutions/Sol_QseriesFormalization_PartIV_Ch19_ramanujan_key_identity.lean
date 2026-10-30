@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.ramanujan_key_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:26:54.691988+00:00
 -- url     : https://prove2.me/submissions/d036352d-000b-4f23-977c-360d57fe71ff
 

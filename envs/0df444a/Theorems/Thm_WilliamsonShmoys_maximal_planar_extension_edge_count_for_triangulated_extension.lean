@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_extension_edge_count_for_triangulated_extension
 -- name    : WilliamsonShmoys.maximal_planar_extension_edge_count_for_triangulated_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T06:14:06.157584+00:00
 -- url     : https://prove2.me/theorems/dab1c322-eb27-4595-920f-b3e42afc5ffe

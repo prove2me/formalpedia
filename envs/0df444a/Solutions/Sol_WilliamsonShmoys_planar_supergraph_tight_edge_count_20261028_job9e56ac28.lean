@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_supergraph_tight_edge_count_20261028_job9e56ac28
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:53:44.018833+00:00
 -- url     : https://prove2.me/submissions/d1b3ad5a-ba46-473f-9b4d-cd2c2be455f7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_maximal_extension_job9e56ac28_v2
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_ncard_triangulation_job9e56ac28_v2

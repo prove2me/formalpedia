@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_bound_of_drawing
 -- name    : WilliamsonShmoys.planar_edge_bound_of_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T06:08:29.11992+00:00
 -- url     : https://prove2.me/theorems/5be0e446-5676-4591-ad5c-6c470f2261db

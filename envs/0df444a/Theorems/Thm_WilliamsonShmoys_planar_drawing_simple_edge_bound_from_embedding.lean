@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_simple_edge_bound_from_embedding
 -- name    : WilliamsonShmoys.planar_drawing_simple_edge_bound_from_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T05:12:20.77901+00:00
 -- url     : https://prove2.me/theorems/3a56e81a-25fa-4f93-9f9a-be45665c79be

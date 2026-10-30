@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for WilliamsonShmoys.maximal_planar_drawingOn_connected
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:25:58.475646+00:00
 -- url     : https://prove2.me/submissions/6ccfca9d-cc16-4015-ae83-d41e994956ec
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingSamples_OneSampleMHR_mhr_opt_quantile
 -- name    : PricingSamples.OneSampleMHR.mhr_opt_quantile
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:14.738734+00:00
 -- url     : https://prove2.me/theorems/ec475948-e609-4041-b9d6-0cf4f3040368

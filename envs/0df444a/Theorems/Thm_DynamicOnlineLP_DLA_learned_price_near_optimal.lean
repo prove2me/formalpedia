@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_DLA_learned_price_near_optimal
 -- name    : DynamicOnlineLP.DLA.learned_price_near_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:42:39.492657+00:00
 -- url     : https://prove2.me/theorems/db9873f4-da85-4898-8519-cffb1a226c4d

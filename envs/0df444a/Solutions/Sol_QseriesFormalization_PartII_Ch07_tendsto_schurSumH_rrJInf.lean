@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.tendsto_schurSumH_rrJInf
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:17:21.897634+00:00
 -- url     : https://prove2.me/submissions/b3e77c06-6aad-4b93-90cc-6e5008925069
 

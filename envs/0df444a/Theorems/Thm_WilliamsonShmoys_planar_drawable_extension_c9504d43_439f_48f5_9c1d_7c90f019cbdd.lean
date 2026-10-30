@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawable_extension_c9504d43_439f_48f5_9c1d_7c90f019cbdd
 -- name    : WilliamsonShmoys.planar_drawable_extension_c9504d43_439f_48f5_9c1d_7c90f019cbdd
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:36:46.656967+00:00
 -- url     : https://prove2.me/theorems/36d3a241-b919-419b-b1f0-bf080f70e21f

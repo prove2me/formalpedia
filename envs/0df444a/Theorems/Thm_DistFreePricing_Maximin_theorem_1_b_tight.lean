@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistFreePricing_Maximin_theorem_1_b_tight
 -- name    : DistFreePricing.Maximin.theorem_1_b_tight
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:34.485616+00:00
 -- url     : https://prove2.me/theorems/06d323db-7738-4686-a1a0-9813299bb2d9

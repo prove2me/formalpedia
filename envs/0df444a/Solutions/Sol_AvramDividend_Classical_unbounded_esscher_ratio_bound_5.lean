@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for AvramDividend.Classical.unbounded_esscher_ratio_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T17:51:00.043105+00:00
 -- url     : https://prove2.me/submissions/f10a7281-caac-4618-aa67-9bc72b9fcc1b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_TwoSidedExit
 import Theorems.Thm_AvramDividend_Classical_positive_esscher_root_of_unbounded_variation

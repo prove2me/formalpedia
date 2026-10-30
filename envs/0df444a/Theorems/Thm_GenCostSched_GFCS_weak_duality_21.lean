@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCostSched_GFCS_weak_duality_21
 -- name    : GenCostSched.GFCS.weak_duality_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:37.389639+00:00
 -- url     : https://prove2.me/theorems/1175ee0a-0c60-4e04-a9b1-706eec5b0009

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinglePointPricing_Det_lemma_D_1
 -- name    : SinglePointPricing.Det.lemma_D_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:26:48.959268+00:00
 -- url     : https://prove2.me/theorems/fa486482-19f1-4309-872a-2ba44bf8bdfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_completion_with_exact_euler_edge_count_95ea5390
 -- name    : WilliamsonShmoys.planar_completion_with_exact_euler_edge_count_95ea5390
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T17:59:19.520414+00:00
 -- url     : https://prove2.me/theorems/1dc633c7-70a8-4274-883e-7335c1c0b3c4

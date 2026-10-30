@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_IntegralClosureOfEisensteinDiscr_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_IntegralClosureOfEisensteinDiscr_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:45:59.868086+00:00
 -- url     : https://prove2.me/theorems/b23de355-9ff0-4142-9088-6323903732a2
 -- title:

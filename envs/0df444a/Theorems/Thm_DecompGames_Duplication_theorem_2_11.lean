@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecompGames_Duplication_theorem_2_11
 -- name    : DecompGames.Duplication.theorem_2_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:38:29.034483+00:00
 -- url     : https://prove2.me/theorems/d1b2075f-26d6-421c-bf69-9a0fec21fe5b

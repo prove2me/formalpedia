@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_has_sharp_edge_count
 -- name    : WilliamsonShmoys.maximal_planar_graph_has_sharp_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:26:18.958436+00:00
 -- url     : https://prove2.me/theorems/f81c96b6-b51d-4165-8b99-52e367cbc589

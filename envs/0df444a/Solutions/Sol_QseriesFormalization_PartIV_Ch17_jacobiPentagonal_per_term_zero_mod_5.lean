@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.jacobiPentagonal_per_term_zero_mod_5
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:23:46.22954+00:00
 -- url     : https://prove2.me/submissions/f93bc14e-1f64-4368-89b0-347c1d450b8d
 

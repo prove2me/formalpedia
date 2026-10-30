@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MarkedTensorComparison_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MarkedTensorComparison_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T23:21:56.196807+00:00
 -- url     : https://prove2.me/theorems/2612ef3c-65b9-4445-a70a-ac2e41a15e83
 -- title:

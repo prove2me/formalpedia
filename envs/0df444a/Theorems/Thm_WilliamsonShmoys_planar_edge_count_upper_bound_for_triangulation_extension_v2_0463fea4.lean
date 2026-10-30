@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_for_triangulation_extension_v2_0463fea4
 -- name    : WilliamsonShmoys.planar_edge_count_upper_bound_for_triangulation_extension_v2_0463fea4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:14:06.289044+00:00
 -- url     : https://prove2.me/theorems/988c2725-6106-44e5-9793-243ea2dd6303

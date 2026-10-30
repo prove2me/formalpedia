@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximalPlanar_has_edge_count
 -- name    : WilliamsonShmoys.maximalPlanar_has_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T09:41:15.178962+00:00
 -- url     : https://prove2.me/theorems/570807d1-034b-400e-a623-bb3aff438dd2

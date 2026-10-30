@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurCampaign_no_prime_ge_twenty_three
 -- name    : MazurCampaign.no_prime_ge_twenty_three
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T13:32:24.59931+00:00
 -- url     : https://prove2.me/theorems/6f3af729-845e-43f4-8dbd-60d7c5d4a2fc
 -- title:

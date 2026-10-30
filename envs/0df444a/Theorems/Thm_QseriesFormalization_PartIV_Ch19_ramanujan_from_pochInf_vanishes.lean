@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_ramanujan_from_pochInf_vanishes
 -- name    : QseriesFormalization.PartIV.Ch19.ramanujan_from_pochInf_vanishes
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:59:20.871415+00:00
 -- url     : https://prove2.me/theorems/8fb5c33a-1a18-4346-ba14-d91dd56f6325
 -- title:

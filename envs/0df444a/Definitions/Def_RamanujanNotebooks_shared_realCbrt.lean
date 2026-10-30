@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_realCbrt
 -- name    : RamanujanNotebooks_shared_realCbrt
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:18:15.798848+00:00
 -- url     : https://prove2.me/theorems/a4da090f-8b80-4b80-be21-44d277c99d6e
 -- title:

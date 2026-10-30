@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04Franklin.fixed_sum_eq_pentagonalSign
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:05:30.02132+00:00
 -- url     : https://prove2.me/submissions/bcc9c2ee-c9d7-445f-b5cf-ae0e3972492b
 

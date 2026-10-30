@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_inclusion_maximal_planar_has_extremal_edge_count
 -- name    : WilliamsonShmoys.inclusion_maximal_planar_has_extremal_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-25T23:43:36.407387+00:00
 -- url     : https://prove2.me/theorems/2cb1de58-9250-4fe4-a5b9-435246c2a8e6

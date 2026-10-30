@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_eulerF
 -- name    : RamanujanNotebooks_shared_eulerF
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:21:38.774256+00:00
 -- url     : https://prove2.me/theorems/654ed04f-9318-42cd-b014-2200801919ed
 -- title:

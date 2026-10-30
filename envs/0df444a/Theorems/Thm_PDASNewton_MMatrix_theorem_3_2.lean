@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDASNewton_MMatrix_theorem_3_2
 -- name    : PDASNewton.MMatrix.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:13:13.603366+00:00
 -- url     : https://prove2.me/theorems/a06a0a4b-9438-4b66-a001-433064fcf99e

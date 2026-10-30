@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HaircutRate_Downside_eq_34
 -- name    : HaircutRate.Downside.eq_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:57:19.399257+00:00
 -- url     : https://prove2.me/theorems/d739f87f-a4e6-4bbf-b926-bc2ff88d2283

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_lcoeff_jTripleProductPartialLaurent_eq_jCoeff_succ_degree
 -- name    : QseriesFormalization.Pending.Ch10HM.lcoeff_jTripleProductPartialLaurent_eq_jCoeff_succ_degree
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:49:33.799994+00:00
 -- url     : https://prove2.me/theorems/40a82238-70b4-47aa-bc0f-3b5e99bd0ab6
 -- title:

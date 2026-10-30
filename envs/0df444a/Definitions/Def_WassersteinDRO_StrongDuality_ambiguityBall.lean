@@ -1,0 +1,46 @@
+-- Prove2me | Definitions.Def_WassersteinDRO_StrongDuality_ambiguityBall
+-- name    : WassersteinDRO_StrongDuality_ambiguityBall
+-- status  : Definition
+-- author  : @mikedeng1
+-- created : 2026-10-30T02:57:20.489985+00:00
+-- url     : https://prove2.me/theorems/a42edd29-cb15-46ff-89fb-4b82c2f5aa3d
+-- title:
+--   Wasserstein ambiguity set $\mathbb B_{\varepsilon,p}(\mathbb P)$
+-- statement:
+--   Let $(E, \|\cdot\|)$ be a normed space with its Borel $\sigma$-algebra, $\Xi \subseteq E$, $p \ge 1$, $\varepsilon \in \mathbb R$, and let $\mathbb P$ be a measure on $E$ (the nominal distribution $\widehat{\mathbb P}_N$). The **Wasserstein ambiguity set** is
+--   $$\mathbb B_{\varepsilon,p}(\mathbb P) = \{\mathbb Q \in \mathcal P(\Xi) : W_p(\mathbb Q, \mathbb P) \le \varepsilon\},$$
+--   where $\mathcal P(\Xi)$ is the set of probability measures $\mathbb Q$ on $E$ with $\mathbb Q(E \setminus \Xi) = 0$.
+--
+--   It is the set of all distributions supported on $\Xi$ that can be obtained by reshaping the nominal distribution at a transportation cost of at most $\varepsilon$; the worst-case risk is the supremum of the risk over it.
+--
+--   **Formalization Note** "Supported on $\Xi$" is read as $\mathbb Q(\Xi^c) = 0$. The radius is compared in $[0, \infty]$. Closedness of $\Xi$ and $\varepsilon \ge 0$ are hypotheses of the theorems that use the ball.
+-- source:
+--   Kuhn, Mohajerin Esfahani, Nguyen, Shafieezadeh-Abadeh, Wasserstein Distributionally Robust Optimization: Theory and Applications in Machine Learning, arXiv:1908.08729v2, §1, p. 6 (Ξ, P(Ξ) and B_{ε,p}(P̂N))
+
+import Mathlib
+import Definitions.Def_WassersteinDRO_StrongDuality_wasserstein
+
+open MeasureTheory
+
+namespace WassersteinDRO.StrongDuality
+
+/-- **The Wasserstein ambiguity set `B_{ε,p}(P)`.**
+Kuhn, Mohajerin Esfahani, Nguyen, Shafieezadeh-Abadeh, *Wasserstein Distributionally Robust Optimization: Theory and Applications in Machine Learning*, arXiv:1908.08729v2, §1, p. 6: "we let Ξ ⊆ R^m be a closed set that is known to contain the support of P. …
+Moreover, we denote by P(Ξ) the family of all probability distributions supported on Ξ, and we
+define the ambiguity set B_{ε,p}(P̂N) = {Q ∈ P(Ξ) : W_p(Q, P̂N) ≤ ε} as the ball of radius ε ≥ 0 in
+P(Ξ) centered at the nominal distribution P̂N with respect to the type-p Wasserstein distance."
+
+`ambiguityBall ε p P Ξ` is the set of Borel probability measures `Q` on `E` with `Q(E ∖ Ξ) = 0`
+and `W_p(Q, P) ≤ ε`.
+
+**Formalization Note.** "Supported on Ξ" is read as `Q(Ξᶜ) = 0`; for `Ξ = ℝ^m` this is no
+condition. The centre `P` is any measure (the paper's nominal distribution `P̂_N`); the radius is
+compared in `[0, ∞]` through `ENNReal.ofReal ε`. Closedness of `Ξ` and `ε ≥ 0` are hypotheses of
+the statements that use the ball, not part of the definition. -/
+def ambiguityBall {E : Type*} [NormedAddCommGroup E] [MeasurableSpace E] (ε p : ℝ)
+    (P : Measure E) (Ξ : Set E) : Set (Measure E) :=
+  {Q | IsProbabilityMeasure Q ∧ Q Ξᶜ = 0 ∧ wasserstein p Q P ≤ ENNReal.ofReal ε}
+
+end WassersteinDRO.StrongDuality
+
+

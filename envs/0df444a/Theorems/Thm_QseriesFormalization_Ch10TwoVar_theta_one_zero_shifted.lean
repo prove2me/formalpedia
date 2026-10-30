@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_theta_one_zero_shifted
 -- name    : QseriesFormalization.Ch10TwoVar.theta_one_zero_shifted
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:08:24.630043+00:00
 -- url     : https://prove2.me/theorems/2a032ed7-d835-4c8b-a91d-ba0feb8beab2
 -- title:

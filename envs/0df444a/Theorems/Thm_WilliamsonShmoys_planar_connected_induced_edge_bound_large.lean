@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_connected_induced_edge_bound_large
 -- name    : WilliamsonShmoys.planar_connected_induced_edge_bound_large
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T02:37:39.883033+00:00
 -- url     : https://prove2.me/theorems/168c37d2-a1cd-4257-829e-99eabc1ea57a

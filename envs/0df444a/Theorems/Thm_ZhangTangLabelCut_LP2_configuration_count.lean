@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhangTangLabelCut_LP2_configuration_count
 -- name    : ZhangTangLabelCut.LP2.configuration_count
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:14:36.719207+00:00
 -- url     : https://prove2.me/theorems/eda364f7-3e80-4429-b2a1-9faff6b9d28e

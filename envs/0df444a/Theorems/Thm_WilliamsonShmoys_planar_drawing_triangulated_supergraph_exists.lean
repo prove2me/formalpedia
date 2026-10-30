@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulated_supergraph_exists
 -- name    : WilliamsonShmoys.planar_drawing_triangulated_supergraph_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:01:23.793022+00:00
 -- url     : https://prove2.me/theorems/d3aee67b-a4ad-45fe-af2e-fefe3561f6fd

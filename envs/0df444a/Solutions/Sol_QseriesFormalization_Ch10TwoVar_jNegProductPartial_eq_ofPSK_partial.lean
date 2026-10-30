@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.jNegProductPartial_eq_ofPSK_partial
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:25:32.209786+00:00
 -- url     : https://prove2.me/submissions/4d98c95d-39b3-4cbb-be30-aaa296358550
 

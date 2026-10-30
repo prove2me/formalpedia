@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.coeff_mul_expand_of_lt
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:27:03.235393+00:00
 -- url     : https://prove2.me/submissions/2ae5581d-ab01-451a-9384-53795685d64c
 

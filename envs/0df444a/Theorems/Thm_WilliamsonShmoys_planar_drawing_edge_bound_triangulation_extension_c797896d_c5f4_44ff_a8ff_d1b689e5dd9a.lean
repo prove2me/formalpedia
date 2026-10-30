@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound_triangulation_extension_c797896d_c5f4_44ff_a8ff_d1b689e5dd9a
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound_triangulation_extension_c797896d_c5f4_44ff_a8ff_d1b689e5dd9a
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T19:14:42.073498+00:00
 -- url     : https://prove2.me/theorems/f2da4cfd-e819-4288-8676-db748164e3f1

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch12_ch12MuCutoff
 -- name    : RamanujanLostNotebook_PartII_ch12_ch12MuCutoff
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:22:47.215014+00:00
 -- url     : https://prove2.me/theorems/699b09c1-1d2c-4227-b993-95a7fd6a5e3c
 -- title:

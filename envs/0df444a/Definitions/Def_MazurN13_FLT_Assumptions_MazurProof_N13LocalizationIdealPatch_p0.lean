@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13LocalizationIdealPatch_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13LocalizationIdealPatch_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:32:25.475968+00:00
 -- url     : https://prove2.me/theorems/a34c6abf-67fb-4bf2-9244-8fc35335ef45
 -- title:

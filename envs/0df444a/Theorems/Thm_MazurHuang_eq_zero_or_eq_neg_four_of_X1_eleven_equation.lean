@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_eq_zero_or_eq_neg_four_of_X1_eleven_equation
 -- name    : MazurHuang.eq_zero_or_eq_neg_four_of_X1_eleven_equation
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T14:14:05.553805+00:00
 -- url     : https://prove2.me/theorems/6de2ccc1-9c95-45a7-b791-9ae2ca614993
 -- title:

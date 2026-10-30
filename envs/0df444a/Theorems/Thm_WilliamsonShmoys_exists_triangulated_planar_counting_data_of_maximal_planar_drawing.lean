@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulated_planar_counting_data_of_maximal_planar_drawing
 -- name    : WilliamsonShmoys.exists_triangulated_planar_counting_data_of_maximal_planar_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T00:51:35.900492+00:00
 -- url     : https://prove2.me/theorems/463b2b68-5f3b-42b0-a160-4e60ee89475d

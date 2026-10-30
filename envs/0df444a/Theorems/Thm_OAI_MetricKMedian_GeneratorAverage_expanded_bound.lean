@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_GeneratorAverage_expanded_bound
 -- name    : OAI.MetricKMedian.GeneratorAverage.expanded_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:23:51.195899+00:00
 -- url     : https://prove2.me/theorems/dc30e412-1079-4a11-ad10-1e328aaea622

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.gaussK_t0_core
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:14:51.967575+00:00
 -- url     : https://prove2.me/submissions/1afe8674-c83c-45b8-bd1c-b093c8b12745
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_coeffXY_zwegersLHS_x_collapse
 -- name    : QseriesFormalization.Ch10TwoVar.coeffXY_zwegersLHS_x_collapse
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:57:32.288654+00:00
 -- url     : https://prove2.me/theorems/6731b5eb-0c31-45f8-9d4e-18e2c6aace58
 -- title:

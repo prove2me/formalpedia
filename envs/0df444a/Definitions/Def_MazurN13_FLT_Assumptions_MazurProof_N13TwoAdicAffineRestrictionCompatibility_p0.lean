@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicAffineRestrictionCompatibility_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicAffineRestrictionCompatibility_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:54:52.440966+00:00
 -- url     : https://prove2.me/theorems/b4cc19b3-2f12-4ad2-a6ad-1e26f4478262
 -- title:

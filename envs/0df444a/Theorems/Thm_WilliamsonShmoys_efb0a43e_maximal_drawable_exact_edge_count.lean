@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_efb0a43e_maximal_drawable_exact_edge_count
 -- name    : WilliamsonShmoys.efb0a43e_maximal_drawable_exact_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:47:45.56359+00:00
 -- url     : https://prove2.me/theorems/51cf6003-2dc3-4ddc-ba40-9d49bf38afc4

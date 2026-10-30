@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Rokhlin.ArrayObjects.Object.Rolled.raw_row_active_to_column_exact
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:56:14.297953+00:00
 -- url     : https://prove2.me/submissions/5fb439ae-cf5f-4841-9c24-93ae623e72eb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ3Ro002

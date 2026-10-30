@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurCampaign.no_prime_ge_seventeen
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T13:32:46.211818+00:00
 -- url     : https://prove2.me/submissions/c7ebd228-642f-4d1f-bdb9-d7ef151ec41e
 -- note    : a sketch -- it imports a theorem that is still Open,

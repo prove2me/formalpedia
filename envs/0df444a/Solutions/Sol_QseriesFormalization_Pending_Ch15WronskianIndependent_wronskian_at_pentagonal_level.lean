@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.wronskian_at_pentagonal_level
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:36:57.622314+00:00
 -- url     : https://prove2.me/submissions/34dddecd-822b-48d6-9636-bdb5be6d21cb
 

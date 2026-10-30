@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_E5DenominatorCoreRat_mul_expand_twentyfive_qPochInfPS
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.E5DenominatorCoreRat_mul_expand_twentyfive_qPochInfPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:39:32.285986+00:00
 -- url     : https://prove2.me/theorems/cc1f68a5-6f71-4900-9ba7-c65665f69e15
 -- title:

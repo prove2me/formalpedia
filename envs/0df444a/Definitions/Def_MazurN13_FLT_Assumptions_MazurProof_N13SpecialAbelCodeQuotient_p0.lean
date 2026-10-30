@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialAbelCodeQuotient_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialAbelCodeQuotient_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:35:37.873611+00:00
 -- url     : https://prove2.me/theorems/ada062b9-a726-4015-86e7-8d3735315d52
 -- title:

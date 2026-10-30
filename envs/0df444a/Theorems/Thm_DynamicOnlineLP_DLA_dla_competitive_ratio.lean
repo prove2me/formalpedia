@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_DLA_dla_competitive_ratio
 -- name    : DynamicOnlineLP.DLA.dla_competitive_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:53:43.365984+00:00
 -- url     : https://prove2.me/theorems/b5ba88a1-060c-48da-80f9-4751db1269e3

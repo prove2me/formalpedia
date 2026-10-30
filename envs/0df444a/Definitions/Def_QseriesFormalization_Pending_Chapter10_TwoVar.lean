@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter10_TwoVar
 -- name    : QseriesFormalization_Pending_Chapter10_TwoVar
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:33:58.046855+00:00
 -- url     : https://prove2.me/theorems/6d2109c4-bee6-444b-a657-9af06300ccbc
 -- title:

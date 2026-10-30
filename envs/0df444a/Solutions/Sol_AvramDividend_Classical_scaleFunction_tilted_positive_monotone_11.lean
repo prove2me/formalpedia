@@ -1,10 +1,8 @@
 -- Prove2me | solution 11 for AvramDividend.Classical.scaleFunction_tilted_positive_monotone
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T11:04:31.223293+00:00
 -- url     : https://prove2.me/submissions/aec3553e-974e-42a9-a0a3-5ec38054af24
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

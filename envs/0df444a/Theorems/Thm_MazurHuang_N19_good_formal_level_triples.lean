@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_good_formal_level_triples
 -- name    : MazurHuang.N19.good_formal_level_triples
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:13.09098+00:00
 -- url     : https://prove2.me/theorems/03084ba5-7bbf-426a-81dd-8443f3c2a6a3
 -- title:

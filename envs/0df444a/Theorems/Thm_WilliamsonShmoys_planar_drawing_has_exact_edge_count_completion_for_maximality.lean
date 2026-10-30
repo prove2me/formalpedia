@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_exact_edge_count_completion_for_maximality
 -- name    : WilliamsonShmoys.planar_drawing_has_exact_edge_count_completion_for_maximality
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:10:35.151561+00:00
 -- url     : https://prove2.me/theorems/eb48bd77-69db-40f2-b2db-c4e8d2ad0dc2

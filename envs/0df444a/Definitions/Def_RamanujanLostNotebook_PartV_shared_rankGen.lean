@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_shared_rankGen
 -- name    : RamanujanLostNotebook_PartV_shared_rankGen
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T16:06:14.246029+00:00
 -- url     : https://prove2.me/theorems/14044176-1c1b-46af-9506-409612d6c0a9
 -- title:

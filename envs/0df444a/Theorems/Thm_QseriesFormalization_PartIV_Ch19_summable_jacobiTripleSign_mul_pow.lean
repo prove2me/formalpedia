@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_summable_jacobiTripleSign_mul_pow
 -- name    : QseriesFormalization.PartIV.Ch19.summable_jacobiTripleSign_mul_pow
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:00:50.982766+00:00
 -- url     : https://prove2.me/theorems/0f004521-e0f3-4587-ac1b-7556723008ed
 -- title:

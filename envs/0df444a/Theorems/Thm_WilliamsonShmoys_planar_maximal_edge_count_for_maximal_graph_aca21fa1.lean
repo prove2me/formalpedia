@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_maximal_edge_count_for_maximal_graph_aca21fa1
 -- name    : WilliamsonShmoys.planar_maximal_edge_count_for_maximal_graph_aca21fa1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:54:06.292762+00:00
 -- url     : https://prove2.me/theorems/476a6978-7ed6-4951-ba61-17442c91884f

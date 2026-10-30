@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_shared_eulerF
 -- name    : RamanujanLostNotebook_PartI_shared_eulerF
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T02:15:27.620638+00:00
 -- url     : https://prove2.me/theorems/841c93d5-379a-4f87-a809-b1d1e4d8b670
 -- title:

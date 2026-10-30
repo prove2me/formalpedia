@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_insertion_step
 -- name    : WilliamsonShmoys.planar_drawing_edge_insertion_step
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-28T17:24:40.185861+00:00
 -- url     : https://prove2.me/theorems/4ec347cd-4c63-45be-9341-157dae494809

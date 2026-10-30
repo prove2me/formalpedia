@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_edge_bound_retry2
 -- name    : WilliamsonShmoys.connected_planar_edge_bound_retry2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T21:20:25.812564+00:00
 -- url     : https://prove2.me/theorems/c7b7713f-ad5a-442d-9192-fda90323e5ef

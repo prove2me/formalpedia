@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_card_2d69255633d74159
 -- name    : WilliamsonShmoys.maximal_planar_card_2d69255633d74159
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:47:51.635982+00:00
 -- url     : https://prove2.me/theorems/7a93b747-db37-418d-896d-785911ca7c9a

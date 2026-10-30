@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_jacobiInfiniteSeries_qsq_iterate_int
 -- name    : QseriesFormalization.PartI.Ch04.jacobiInfiniteSeries_qsq_iterate_int
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:29:53.082196+00:00
 -- url     : https://prove2.me/theorems/f8b4a127-0386-4e30-8de1-55425e706155
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_has_triangulation_edge_count_retry2
 -- name    : WilliamsonShmoys.maximal_drawable_graph_has_triangulation_edge_count_retry2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T18:09:48.501506+00:00
 -- url     : https://prove2.me/theorems/f9cbd8b9-e96b-443f-8c6b-5c3a6e04fc5c

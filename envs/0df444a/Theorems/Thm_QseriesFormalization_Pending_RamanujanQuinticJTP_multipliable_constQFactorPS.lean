@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_multipliable_constQFactorPS
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.multipliable_constQFactorPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:42:51.266998+00:00
 -- url     : https://prove2.me/theorems/dd2ab8a6-21bf-4154-a068-216ccb21e408
 -- title:

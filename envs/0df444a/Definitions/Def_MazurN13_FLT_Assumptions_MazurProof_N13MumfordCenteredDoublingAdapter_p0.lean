@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MumfordCenteredDoublingAdapter_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MumfordCenteredDoublingAdapter_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T20:02:55.547855+00:00
 -- url     : https://prove2.me/theorems/ecb0b6c9-0380-48f9-9a09-976c21f41e60
 -- title:

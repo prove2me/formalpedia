@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_shared_thetaPsi
 -- name    : RamanujanLostNotebook_PartV_shared_thetaPsi
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T16:06:11.873572+00:00
 -- url     : https://prove2.me/theorems/8202ddc3-2fe8-4f0d-8767-e900d9878610
 -- title:

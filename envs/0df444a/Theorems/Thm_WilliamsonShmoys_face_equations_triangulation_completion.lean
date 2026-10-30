@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_face_equations_triangulation_completion
 -- name    : WilliamsonShmoys.face_equations_triangulation_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T02:37:03.148724+00:00
 -- url     : https://prove2.me/theorems/9eb70de9-dd3d-4b3d-9125-16ac19cb1db0

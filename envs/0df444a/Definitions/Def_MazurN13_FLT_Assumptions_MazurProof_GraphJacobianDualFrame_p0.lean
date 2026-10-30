@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_GraphJacobianDualFrame_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_GraphJacobianDualFrame_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:45:15.857651+00:00
 -- url     : https://prove2.me/theorems/0d11c63d-6813-40d7-90e0-e4c7d0549749
 -- title:

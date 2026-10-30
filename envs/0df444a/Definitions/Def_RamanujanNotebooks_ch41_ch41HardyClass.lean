@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch41_ch41HardyClass
 -- name    : RamanujanNotebooks_ch41_ch41HardyClass
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T15:52:59.649462+00:00
 -- url     : https://prove2.me/theorems/4f97d607-348f-45e1-aab5-7bf296ee5580
 -- title:

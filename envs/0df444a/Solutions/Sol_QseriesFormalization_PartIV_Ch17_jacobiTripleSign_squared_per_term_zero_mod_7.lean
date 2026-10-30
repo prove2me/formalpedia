@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.jacobiTripleSign_squared_per_term_zero_mod_7
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:32:12.001532+00:00
 -- url     : https://prove2.me/submissions/06b3b4a6-780f-4019-a457-fbd836b2964a
 

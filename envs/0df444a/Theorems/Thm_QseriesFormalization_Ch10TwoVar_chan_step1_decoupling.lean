@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_chan_step1_decoupling
 -- name    : QseriesFormalization.Ch10TwoVar.chan_step1_decoupling
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:55:59.097506+00:00
 -- url     : https://prove2.me/theorems/65a851d0-9bd1-45dd-88f0-ac78a756b035
 -- title:

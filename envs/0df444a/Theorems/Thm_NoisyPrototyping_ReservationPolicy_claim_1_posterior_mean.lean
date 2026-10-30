@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoisyPrototyping_ReservationPolicy_claim_1_posterior_mean
 -- name    : NoisyPrototyping.ReservationPolicy.claim_1_posterior_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:50.990982+00:00
 -- url     : https://prove2.me/theorems/4c0a2817-9ea6-490c-8795-b6af60b0ad6a

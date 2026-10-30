@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_jacobiTripleSign_triangular
 -- name    : QseriesFormalization.PartIV.Ch19.jacobiTripleSign_triangular
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:55:25.983615+00:00
 -- url     : https://prove2.me/theorems/e39df09d-6f45-4bb8-a794-dc524b044380
 -- title:

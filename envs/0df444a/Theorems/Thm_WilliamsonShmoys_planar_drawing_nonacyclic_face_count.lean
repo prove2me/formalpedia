@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_nonacyclic_face_count
 -- name    : WilliamsonShmoys.planar_drawing_nonacyclic_face_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T03:26:30.054+00:00
 -- url     : https://prove2.me/theorems/f6d1941e-096c-42d9-a12f-4557d5ddf9e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPCA_Recovery_lemma_3_1
 -- name    : RobustPCA.Recovery.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:42:54.883979+00:00
 -- url     : https://prove2.me/theorems/34329952-e08b-43e5-a127-8c2329f393f3

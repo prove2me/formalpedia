@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCostSched_GFCS_eq_24
 -- name    : GenCostSched.GFCS.eq_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:39.169284+00:00
 -- url     : https://prove2.me/theorems/ddfa39f9-f21d-4567-ab88-9fe2a8f7733b

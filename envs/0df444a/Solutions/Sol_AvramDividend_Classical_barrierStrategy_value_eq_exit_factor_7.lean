@@ -1,10 +1,8 @@
 -- Prove2me | solution 7 for AvramDividend.Classical.barrierStrategy_value_eq_exit_factor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T06:17:03.342642+00:00
 -- url     : https://prove2.me/submissions/549c97dc-fe75-4cce-8867-36818c3e0119
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_barrierStrategy_value_eq_killed_exit_mul_supValue
 import Theorems.Thm_AvramDividend_Classical_two_sided_exit_before_ruin_integral_identity

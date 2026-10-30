@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch13RRCF_constantCoeff_pentagonal023SeriesPS_rat_ne_zero
 -- name    : QseriesFormalization.Pending.Ch13RRCF.constantCoeff_pentagonal023SeriesPS_rat_ne_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:07:05.609545+00:00
 -- url     : https://prove2.me/theorems/b3519774-1fe3-43b0-8086-dcf80365791d
 -- title:

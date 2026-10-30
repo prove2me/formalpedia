@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_partial_prod_jTripleFactorPS_coeff_stable
 -- name    : QseriesFormalization.Pending.Ch10HM.partial_prod_jTripleFactorPS_coeff_stable
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:51:18.090141+00:00
 -- url     : https://prove2.me/theorems/b3e625c4-e1ee-4647-a950-467257d5378e
 -- title:

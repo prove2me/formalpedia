@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.minimal_affine_x_eq_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:40:32.49443+00:00
 -- url     : https://prove2.me/submissions/afdd5542-0383-4434-90de-ceb64be14c2a
 

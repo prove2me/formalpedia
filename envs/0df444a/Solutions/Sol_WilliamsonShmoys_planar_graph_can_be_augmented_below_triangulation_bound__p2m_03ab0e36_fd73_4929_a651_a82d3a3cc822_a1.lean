@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_graph_can_be_augmented_below_triangulation_bound__p2m_03ab0e36_fd73_4929_a651_a82d3a3cc822_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:17:45.866995+00:00
 -- url     : https://prove2.me/submissions/02267afb-1379-4204-b7c5-3b8a668f26b3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

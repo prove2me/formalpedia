@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaggeredRollout_TOpt_a_ell_feasible
 -- name    : StaggeredRollout.TOpt.a_ell_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:59:31.228701+00:00
 -- url     : https://prove2.me/theorems/8183ff51-5314-4249-98d4-7b3f332d2e2b

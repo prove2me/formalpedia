@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawingOn_triangulation_edge_count
 -- name    : WilliamsonShmoys.maximal_planar_drawingOn_triangulation_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:12:39.579876+00:00
 -- url     : https://prove2.me/theorems/26688f3c-2bfa-482b-811b-fcb8201596ad

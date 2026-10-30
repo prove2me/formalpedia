@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_graph_edge_count_for_triangulation_extension_v2_0463fea4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:07:47.661119+00:00
 -- url     : https://prove2.me/submissions/2573b789-3f81-4e2c-93ca-49dd53867e31
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_for_triangulation_extension_v2_0463fea4

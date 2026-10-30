@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RuralPostman_NPC_dhc_polyReducible_drp
 -- name    : RuralPostman.NPC.dhc_polyReducible_drp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:33:30.67266+00:00
 -- url     : https://prove2.me/theorems/e0024f7d-4b1d-469b-89cb-4a3cde5adf2f

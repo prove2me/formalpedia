@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_face_decomposition_7369a359
 -- name    : WilliamsonShmoys.maximal_planar_face_decomposition_7369a359
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T11:20:41.538356+00:00
 -- url     : https://prove2.me/theorems/0ee93c57-78a1-468c-b694-46e2f02e98b4

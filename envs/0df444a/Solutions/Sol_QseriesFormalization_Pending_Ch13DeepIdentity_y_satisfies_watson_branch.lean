@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch13DeepIdentity.y_satisfies_watson_branch
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:27:44.599191+00:00
 -- url     : https://prove2.me/submissions/6f26a8a1-8e17-415b-81c9-2c67280bc1bb
 

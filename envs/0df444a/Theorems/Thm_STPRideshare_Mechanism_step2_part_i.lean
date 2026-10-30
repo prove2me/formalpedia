@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_STPRideshare_Mechanism_step2_part_i
 -- name    : STPRideshare.Mechanism.step2_part_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:33:20.483639+00:00
 -- url     : https://prove2.me/theorems/c2609526-c90c-4e6b-bfcb-9a8c8d696c5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_drawing_edge_bound_face_degree_bound
 -- name    : WilliamsonShmoys.connected_planar_drawing_edge_bound_face_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T20:30:21.355767+00:00
 -- url     : https://prove2.me/theorems/30f0a939-7ff5-40ac-8139-d1b9f0124c83

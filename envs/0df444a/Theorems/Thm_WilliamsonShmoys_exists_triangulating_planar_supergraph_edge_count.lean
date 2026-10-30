@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulating_planar_supergraph_edge_count
 -- name    : WilliamsonShmoys.exists_triangulating_planar_supergraph_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T11:41:08.887064+00:00
 -- url     : https://prove2.me/theorems/71a098b3-0bc7-499f-9534-e042704115d1

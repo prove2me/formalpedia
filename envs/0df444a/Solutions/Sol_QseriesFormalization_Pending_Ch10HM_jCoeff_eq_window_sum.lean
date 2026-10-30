@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.jCoeff_eq_window_sum
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:25:15.043341+00:00
 -- url     : https://prove2.me/submissions/9d5e036c-ed6d-4862-a3f0-ce69043560bf
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.qPochInfPS_eq_tprod
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:11:58.619835+00:00
 -- url     : https://prove2.me/submissions/364a2bd0-944a-4a75-aa0b-ada03ab69b9b
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FiniteAffinePointInfinityClosure_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FiniteAffinePointInfinityClosure_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:52:21.647594+00:00
 -- url     : https://prove2.me/theorems/9f76d30a-6b77-46ae-8087-e9c479e77cbf
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianNamedUnitSquareclasses_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianNamedUnitSquareclasses_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:26:59.477773+00:00
 -- url     : https://prove2.me/theorems/47cf30ea-77e5-42a7-88b0-1269ecdec86a
 -- title:

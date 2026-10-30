@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_ch13_ch13Integrand
 -- name    : RamanujanLostNotebook_PartV_ch13_ch13Integrand
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T18:28:31.881248+00:00
 -- url     : https://prove2.me/theorems/167aab7a-9abf-49fd-b4ea-d846e385fc5e
 -- title:

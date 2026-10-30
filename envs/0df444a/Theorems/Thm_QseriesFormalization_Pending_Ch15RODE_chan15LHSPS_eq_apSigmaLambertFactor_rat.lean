@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15RODE_chan15LHSPS_eq_apSigmaLambertFactor_rat
 -- name    : QseriesFormalization.Pending.Ch15RODE.chan15LHSPS_eq_apSigmaLambertFactor_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:09:38.771016+00:00
 -- url     : https://prove2.me/theorems/bedd7058-a0ef-4c58-b547-36758ca2cd1a
 -- title:

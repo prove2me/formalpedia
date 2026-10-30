@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMT_Classif_theorem_3_11_ii
 -- name    : RegMT.Classif.theorem_3_11_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:05:30.707534+00:00
 -- url     : https://prove2.me/theorems/113e1c50-d8a3-4003-9d79-8a935de477da

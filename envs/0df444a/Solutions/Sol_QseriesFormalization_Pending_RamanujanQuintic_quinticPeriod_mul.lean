@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuintic.quinticPeriod_mul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:03:23.346893+00:00
 -- url     : https://prove2.me/submissions/0dec3e54-5495-4e3b-a008-04f5c5e9332e
 

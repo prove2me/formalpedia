@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.qPochAPPS_mul_qPochAPNegPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:36:24.440137+00:00
 -- url     : https://prove2.me/submissions/92d3428a-0b00-41eb-af9e-a1244e77e0ae
 

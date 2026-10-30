@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_euler_and_incidence
 -- name    : WilliamsonShmoys.maximal_planar_euler_and_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:48:05.745818+00:00
 -- url     : https://prove2.me/theorems/ac69e49c-7b63-4757-a149-d1ffff7b54d9

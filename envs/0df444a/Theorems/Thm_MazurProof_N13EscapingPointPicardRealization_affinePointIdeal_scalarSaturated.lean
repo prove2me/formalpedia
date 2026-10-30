@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13EscapingPointPicardRealization_affinePointIdeal_scalarSaturated
 -- name    : MazurProof.N13EscapingPointPicardRealization.affinePointIdeal_scalarSaturated
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T04:24:04.920875+00:00
 -- url     : https://prove2.me/theorems/81f225d0-b208-4494-812f-da835af0dd80

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_planar_triangulated_completion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T03:24:54.861699+00:00
 -- url     : https://prove2.me/submissions/a968df2a-bfdd-4749-a1eb-328ebf6b18e1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_exists_maximal_drawable_supergraph_by_finite_edges
 import Theorems.Thm_WilliamsonShmoys_edge_count_of_inclusion_maximal_planar_drawing

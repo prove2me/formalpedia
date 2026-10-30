@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.partitionGenFun_mul_qPochInfPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:56:51.168597+00:00
 -- url     : https://prove2.me/submissions/51aa5d08-41c4-4128-9262-c67d33d74027
 

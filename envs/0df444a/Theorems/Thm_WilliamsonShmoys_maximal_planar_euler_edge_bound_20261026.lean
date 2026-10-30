@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_euler_edge_bound_20261026
 -- name    : WilliamsonShmoys.maximal_planar_euler_edge_bound_20261026
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:13:52.090702+00:00
 -- url     : https://prove2.me/theorems/ed53988f-6337-4ff2-a3f0-b70ff66e45c2

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13ReductionClassifier_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13ReductionClassifier_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T18:14:41.226845+00:00
 -- url     : https://prove2.me/theorems/c3d03a75-8203-400b-9465-9b5b89c9f6de
 -- title:

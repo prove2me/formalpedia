@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_has_euler_certificate_cd4931de_38bf_49be_8f7a_54b333eaee7b
 -- name    : WilliamsonShmoys.maximal_planar_drawing_has_euler_certificate_cd4931de_38bf_49be_8f7a_54b333eaee7b
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T04:13:39.928901+00:00
 -- url     : https://prove2.me/theorems/d3fe441d-a75c-45cc-9bb6-7b9517918e7f

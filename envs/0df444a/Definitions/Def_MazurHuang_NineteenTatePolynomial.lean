@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurHuang_NineteenTatePolynomial
 -- name    : MazurHuang_NineteenTatePolynomial
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T14:54:59.982179+00:00
 -- url     : https://prove2.me/theorems/12d4fa8c-4737-4bbe-8d30-14e0eee4279e
 -- title:

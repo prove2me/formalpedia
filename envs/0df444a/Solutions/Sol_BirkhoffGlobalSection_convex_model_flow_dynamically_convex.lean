@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BirkhoffGlobalSection.convex_model_flow_dynamically_convex
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-03T19:34:50.26689+00:00
 -- url     : https://prove2.me/submissions/745d5a38-8584-46f9-9ee3-6d788f5fb26e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_BirkhoffGlobalSection_dynamically_convex_on_strictly_convex_star_shaped_points
 import Theorems.Thm_BirkhoffGlobalSection_convex_model_boundary_contact_positive

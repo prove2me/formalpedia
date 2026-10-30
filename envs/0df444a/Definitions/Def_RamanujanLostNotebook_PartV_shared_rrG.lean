@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_shared_rrG
 -- name    : RamanujanLostNotebook_PartV_shared_rrG
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T16:06:09.42698+00:00
 -- url     : https://prove2.me/theorems/d04ad076-f8eb-4eb2-bf13-d124709cbb7b
 -- title:

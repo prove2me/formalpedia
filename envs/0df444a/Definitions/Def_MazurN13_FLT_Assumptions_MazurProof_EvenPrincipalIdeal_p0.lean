@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_EvenPrincipalIdeal_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_EvenPrincipalIdeal_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:17:04.665222+00:00
 -- url     : https://prove2.me/theorems/b1f3953c-fc85-42eb-90fc-20d39f89e256
 -- title:

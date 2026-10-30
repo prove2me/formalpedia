@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.eulerPentagonalInfiniteProduct_eq_tsum_pentagonalSign
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:25:41.495631+00:00
 -- url     : https://prove2.me/submissions/4f831f2a-d56f-4e67-9eac-f718c59979ce
 

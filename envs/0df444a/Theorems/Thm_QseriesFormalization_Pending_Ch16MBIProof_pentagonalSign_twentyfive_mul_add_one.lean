@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_pentagonalSign_twentyfive_mul_add_one
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.pentagonalSign_twentyfive_mul_add_one
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:27:13.449629+00:00
 -- url     : https://prove2.me/theorems/78354446-f94b-4822-a65a-50020f59416f
 -- title:

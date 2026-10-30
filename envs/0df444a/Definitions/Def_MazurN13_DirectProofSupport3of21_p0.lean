@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_DirectProofSupport3of21_p0
 -- name    : MazurN13_DirectProofSupport3of21_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-09T13:28:03.259413+00:00
 -- url     : https://prove2.me/theorems/84631a11-c5ab-4394-a13d-a15b753acb80
 -- title:

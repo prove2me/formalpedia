@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_triangulation_completion_on_same_vertices
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T08:09:37.563776+00:00
 -- url     : https://prove2.me/submissions/fca7cb6f-2203-4d03-ad08-e61a87768cdc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_exists_maximal_planar_supergraph_for_completion_20261026
 import Theorems.Thm_WilliamsonShmoys_edge_count_of_maximal_planar_drawing_for_completion_20261026

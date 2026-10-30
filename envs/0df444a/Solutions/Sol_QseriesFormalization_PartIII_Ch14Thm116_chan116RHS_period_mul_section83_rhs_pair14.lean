@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIII.Ch14Thm116.chan116RHS_period_mul_section83_rhs_pair14
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:02:57.300854+00:00
 -- url     : https://prove2.me/submissions/de9ece43-8f11-40c5-9570-894e73e0263e
 

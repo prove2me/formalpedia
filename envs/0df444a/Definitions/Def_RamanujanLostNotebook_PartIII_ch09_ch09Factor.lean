@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch09_ch09Factor
 -- name    : RamanujanLostNotebook_PartIII_ch09_ch09Factor
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T08:02:09.675097+00:00
 -- url     : https://prove2.me/theorems/23dcb05b-350b-47b4-9ef8-8333537407fe
 -- title:

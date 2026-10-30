@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexCost_Complexity_theorem_5_2
 -- name    : NonconvexCost.Complexity.theorem_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:09:48.34725+00:00
 -- url     : https://prove2.me/theorems/bf4a4dc6-de4a-4726-a709-b9344419fada

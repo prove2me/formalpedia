@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_of_inclusion_maximal_planar_graph_for_f2fc27dd
 -- name    : WilliamsonShmoys.edge_count_of_inclusion_maximal_planar_graph_for_f2fc27dd
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T17:25:28.272996+00:00
 -- url     : https://prove2.me/theorems/195acd84-fd5c-4c13-a5a5-81ba44b3ad19

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.euler_face_count_planar_edge_bound_4d0c2802_8f3b_4d79_b31d_d0704c9c8543
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:38:32.345857+00:00
 -- url     : https://prove2.me/submissions/a7172386-ba17-4fd6-8312-3c924381f40d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

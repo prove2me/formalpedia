@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04Franklin.topStaircase_eq_of
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:00:03.523748+00:00
 -- url     : https://prove2.me/submissions/d930dcc1-1ab4-41bd-a0e6-3d7ffce1a766
 

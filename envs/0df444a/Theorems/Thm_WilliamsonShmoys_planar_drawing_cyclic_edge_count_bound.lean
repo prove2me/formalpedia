@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_cyclic_edge_count_bound
 -- name    : WilliamsonShmoys.planar_drawing_cyclic_edge_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T03:36:38.845202+00:00
 -- url     : https://prove2.me/theorems/479c1166-2ea4-40b5-b7df-4149a6615f1e

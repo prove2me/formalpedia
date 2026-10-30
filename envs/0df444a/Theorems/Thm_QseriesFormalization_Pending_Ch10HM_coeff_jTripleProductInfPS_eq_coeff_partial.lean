@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_coeff_jTripleProductInfPS_eq_coeff_partial
 -- name    : QseriesFormalization.Pending.Ch10HM.coeff_jTripleProductInfPS_eq_coeff_partial
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:47:01.974456+00:00
 -- url     : https://prove2.me/theorems/4fa3a617-f922-4569-8761-45181b184fb6
 -- title:

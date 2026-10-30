@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Normal_champernowneConstant_normal
 -- name    : Normal.champernowneConstant_normal
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:28:59.544095+00:00
 -- url     : https://prove2.me/theorems/f89db4e4-6767-4399-bb0b-3a772e77e946
 -- title:

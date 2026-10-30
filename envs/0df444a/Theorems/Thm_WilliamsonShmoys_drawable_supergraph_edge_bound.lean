@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_supergraph_edge_bound
 -- name    : WilliamsonShmoys.drawable_supergraph_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T20:18:46.823777+00:00
 -- url     : https://prove2.me/theorems/c78fb73c-d326-40e0-9d98-620813a2d60e

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurProof_TateOrder13_exists_tate_parameters_of_order_thirteen
 -- name    : MazurProof.TateOrder13.exists_tate_parameters_of_order_thirteen
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:50:27.779777+00:00
 -- url     : https://prove2.me/theorems/acfc34f8-c1fb-474e-8638-9b85f1e33a56
 -- title:

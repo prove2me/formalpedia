@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactPenGNEP_NonShared_eq_5_gradient
 -- name    : ExactPenGNEP.NonShared.eq_5_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:31.147357+00:00
 -- url     : https://prove2.me/theorems/f059de70-854e-4c6a-a69d-279766798b84

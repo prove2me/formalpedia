@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_two_sided_exit_before_ruin_integral_identity
 -- name    : AvramDividend.Classical.two_sided_exit_before_ruin_integral_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T20:43:16.943739+00:00
 -- url     : https://prove2.me/theorems/3e1ce2c8-c846-4e0f-8e4f-4fcbd9a0d4d7

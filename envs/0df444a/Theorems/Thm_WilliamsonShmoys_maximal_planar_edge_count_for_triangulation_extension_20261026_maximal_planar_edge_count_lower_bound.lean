@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_for_triangulation_extension_20261026_maximal_planar_edge_count_lower_bound
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_for_triangulation_extension_20261026_maximal_planar_edge_count_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:58:53.494238+00:00
 -- url     : https://prove2.me/theorems/e8404987-fef7-4615-812d-47ea2c9e93da

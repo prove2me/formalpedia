@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_TowerDiscriminant_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_TowerDiscriminant_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:14:45.089224+00:00
 -- url     : https://prove2.me/theorems/be7d9170-42a2-447f-af6e-f3b2055d9ece
 -- title:

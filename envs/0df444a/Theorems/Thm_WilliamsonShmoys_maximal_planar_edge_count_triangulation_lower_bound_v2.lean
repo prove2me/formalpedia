@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_triangulation_lower_bound_v2
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_triangulation_lower_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:39:23.878988+00:00
 -- url     : https://prove2.me/theorems/f99d8ec9-4cf1-4d4a-b139-6bdd2c5dbd1a

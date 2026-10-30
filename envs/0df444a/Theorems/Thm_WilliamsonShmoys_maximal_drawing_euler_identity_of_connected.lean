@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_euler_identity_of_connected
 -- name    : WilliamsonShmoys.maximal_drawing_euler_identity_of_connected
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T04:28:20.249521+00:00
 -- url     : https://prove2.me/theorems/e8633538-2938-47c7-9d02-dfc0ca9506b9

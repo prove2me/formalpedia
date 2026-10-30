@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.isRes5_natCast_mul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:01:02.741152+00:00
 -- url     : https://prove2.me/submissions/ca8deecf-40fb-490c-a364-1a62f2ebcd95
 

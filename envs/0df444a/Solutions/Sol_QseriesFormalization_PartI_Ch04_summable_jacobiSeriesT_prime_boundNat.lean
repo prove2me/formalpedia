@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.summable_jacobiSeriesT_prime_boundNat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:39:32.959865+00:00
 -- url     : https://prove2.me/submissions/8e6a10c3-5a6a-4870-841e-80eac60f5c60
 

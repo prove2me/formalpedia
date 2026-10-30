@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_ArrayObjects_Object_Rolled_grouped_exact_split_span
 -- name    : OAI.Rokhlin.ArrayObjects.Object.Rolled.grouped_exact_split_span
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:40:44.399572+00:00
 -- url     : https://prove2.me/theorems/9f5677d8-be3c-4f1e-9467-b7b9914c763f

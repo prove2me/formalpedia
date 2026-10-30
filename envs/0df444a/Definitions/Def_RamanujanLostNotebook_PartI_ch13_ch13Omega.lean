@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch13_ch13Omega
 -- name    : RamanujanLostNotebook_PartI_ch13_ch13Omega
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T10:44:31.873991+00:00
 -- url     : https://prove2.me/theorems/10e11381-cc8d-48d6-b99b-6743c8e79762
 -- title:

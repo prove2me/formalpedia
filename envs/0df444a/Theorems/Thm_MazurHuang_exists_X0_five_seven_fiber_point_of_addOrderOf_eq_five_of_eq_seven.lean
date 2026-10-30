@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_exists_X0_five_seven_fiber_point_of_addOrderOf_eq_five_of_eq_seven
 -- name    : MazurHuang.exists_X0_five_seven_fiber_point_of_addOrderOf_eq_five_of_eq_seven
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:10.581719+00:00
 -- url     : https://prove2.me/theorems/c28677ae-dcc8-44e5-8def-1eb9f670f8dc
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisclosureDiscretion_InfoSystem_proposition_9
 -- name    : DisclosureDiscretion.InfoSystem.proposition_9
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:32.983662+00:00
 -- url     : https://prove2.me/theorems/66ea8e4a-ef28-42c0-baea-b102904dc2f4

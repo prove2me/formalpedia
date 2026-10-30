@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_qPochInfPS_five_dissection
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.qPochInfPS_five_dissection
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:28:24.483672+00:00
 -- url     : https://prove2.me/theorems/cf06ad9e-21e8-4d77-a3db-ad3623a0e07b
 -- title:

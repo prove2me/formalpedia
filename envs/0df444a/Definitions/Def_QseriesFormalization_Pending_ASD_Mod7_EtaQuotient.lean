@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_ASD_Mod7_EtaQuotient
 -- name    : QseriesFormalization_Pending_ASD_Mod7_EtaQuotient
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:31:36.451656+00:00
 -- url     : https://prove2.me/theorems/4a7f0515-7336-4629-9012-64eb7381d4bb
 -- title:

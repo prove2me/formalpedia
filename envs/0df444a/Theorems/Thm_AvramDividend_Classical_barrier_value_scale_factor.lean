@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrier_value_scale_factor
 -- name    : AvramDividend.Classical.barrier_value_scale_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-04T08:26:24.359917+00:00
 -- url     : https://prove2.me/theorems/e185eb4b-39be-442d-b6f8-61627a0f122d

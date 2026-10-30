@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.jacobiInfiniteSeries_qsq_iterate_int
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:47:21.814766+00:00
 -- url     : https://prove2.me/submissions/38907d42-2181-4722-aabe-11c43dcace03
 

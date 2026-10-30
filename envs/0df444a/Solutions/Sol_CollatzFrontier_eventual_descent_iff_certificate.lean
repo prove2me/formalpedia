@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.eventual_descent_iff_certificate
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T18:09:44.304922+00:00
 -- url     : https://prove2.me/submissions/f2233b7b-dbde-492d-aa8e-af4b1937d6d2
 

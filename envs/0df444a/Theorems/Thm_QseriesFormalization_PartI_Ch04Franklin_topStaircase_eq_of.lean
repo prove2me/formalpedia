@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04Franklin_topStaircase_eq_of
 -- name    : QseriesFormalization.PartI.Ch04Franklin.topStaircase_eq_of
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:27:06.688176+00:00
 -- url     : https://prove2.me/theorems/5ed4ffd9-838c-4c2f-8d43-f66a06eaa156
 -- title:

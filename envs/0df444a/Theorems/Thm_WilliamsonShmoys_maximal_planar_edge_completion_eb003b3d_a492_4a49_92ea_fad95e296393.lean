@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_completion_eb003b3d_a492_4a49_92ea_fad95e296393
 -- name    : WilliamsonShmoys.maximal_planar_edge_completion_eb003b3d_a492_4a49_92ea_fad95e296393
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:55:37.892454+00:00
 -- url     : https://prove2.me/theorems/17116a12-3e08-4cdd-9e5e-221cdff470e7

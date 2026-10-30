@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.StringSumQ_succ
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:31:45.496009+00:00
 -- url     : https://prove2.me/submissions/feb5d706-e0de-4881-8901-f18421ddd30d
 

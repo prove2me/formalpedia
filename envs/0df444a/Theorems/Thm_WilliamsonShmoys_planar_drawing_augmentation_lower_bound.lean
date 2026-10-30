@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_augmentation_lower_bound
 -- name    : WilliamsonShmoys.planar_drawing_augmentation_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:53:48.800555+00:00
 -- url     : https://prove2.me/theorems/dfe71645-fdc0-4fca-9b99-b202026249e9

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.qPochhammer_norm_extend
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:32:18.164242+00:00
 -- url     : https://prove2.me/submissions/9629be2a-179a-4304-907f-8219c1c1ada5
 

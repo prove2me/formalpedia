@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.mem_normShellBox_of_norm_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:52:18.622995+00:00
 -- url     : https://prove2.me/submissions/13b15238-0ae0-4cad-b1e2-6c505cdd6edc
 

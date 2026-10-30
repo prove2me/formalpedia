@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch03_gaussianBinom_pascal_alt
 -- name    : QseriesFormalization.PartI.Ch03.gaussianBinom_pascal_alt
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:21:45.972992+00:00
 -- url     : https://prove2.me/theorems/00e9e01c-0148-4314-b7fe-0ed18c8c0725
 -- title:

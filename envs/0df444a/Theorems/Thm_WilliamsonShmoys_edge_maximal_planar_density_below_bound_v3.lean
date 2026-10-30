@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_planar_density_below_bound_v3
 -- name    : WilliamsonShmoys.edge_maximal_planar_density_below_bound_v3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T09:51:47.228803+00:00
 -- url     : https://prove2.me/theorems/8233e9d7-ff90-44df-80fb-d5b30ed530a0

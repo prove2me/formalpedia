@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.chat04_unbounded_two_sided_exit_expectation_scale_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T18:18:37.558392+00:00
 -- url     : https://prove2.me/submissions/cd40f077-316f-4e10-91e7-3f622e4e24a8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Proof of helper 2dcc8bcc (Open): two-sided exit expectation scale identity.
 -- Route: the raw two-leg stopped integral equals both sides.

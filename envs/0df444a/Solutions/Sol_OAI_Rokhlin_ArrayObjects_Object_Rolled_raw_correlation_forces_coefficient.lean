@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Rokhlin.ArrayObjects.Object.Rolled.raw_correlation_forces_coefficient
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:53:40.799626+00:00
 -- url     : https://prove2.me/submissions/d8c6e111-56b7-4034-8f55-142cdfb542a5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ3Ro002

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_gBz_lower1
 -- name    : QseriesFormalization.PartII.Ch07.gBz_lower1
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:19:47.20148+00:00
 -- url     : https://prove2.me/theorems/8f0d67dd-6b07-4df9-8f03-085df851733d
 -- title:

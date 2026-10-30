@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_gaussK_t0_core
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.gaussK_t0_core
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:13:19.445597+00:00
 -- url     : https://prove2.me/theorems/307ca975-39ca-42ee-87ba-a1ca3e85e10b
 -- title:

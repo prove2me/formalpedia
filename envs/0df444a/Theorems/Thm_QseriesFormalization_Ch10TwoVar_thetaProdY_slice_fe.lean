@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_thetaProdY_slice_fe
 -- name    : QseriesFormalization.Ch10TwoVar.thetaProdY_slice_fe
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:08:00.156997+00:00
 -- url     : https://prove2.me/theorems/c10e021e-acd4-40db-918d-bca011eabb0a
 -- title:

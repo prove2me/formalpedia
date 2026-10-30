@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.has_euler_face_count_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T20:26:09.714997+00:00
 -- url     : https://prove2.me/submissions/088b60fe-a4cf-443c-a2bb-d707a3acdaf3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 
 import Mathlib

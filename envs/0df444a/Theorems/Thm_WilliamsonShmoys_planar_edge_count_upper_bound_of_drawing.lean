@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_of_drawing
 -- name    : WilliamsonShmoys.planar_edge_count_upper_bound_of_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:32:49.011111+00:00
 -- url     : https://prove2.me/theorems/8398ec67-a394-4cc8-8745-77d07baaa8e2

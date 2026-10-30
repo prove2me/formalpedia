@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialSmallNumerator_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialSmallNumerator_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T23:12:17.028275+00:00
 -- url     : https://prove2.me/theorems/e3a5cd76-7adb-4559-b2a7-899b16bcae61
 -- title:

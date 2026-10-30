@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch06_ch6EulerPower
 -- name    : RamanujanLostNotebook_PartIII_ch06_ch6EulerPower
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T06:29:56.796978+00:00
 -- url     : https://prove2.me/theorems/c60ee034-4e89-4904-b311-442d49fcbe8d
 -- title:

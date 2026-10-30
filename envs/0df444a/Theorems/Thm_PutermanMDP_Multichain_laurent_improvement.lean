@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PutermanMDP_Multichain_laurent_improvement
 -- name    : PutermanMDP.Multichain.laurent_improvement
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T03:00:23.757793+00:00
 -- url     : https://prove2.me/theorems/8d531789-7a6f-4a44-8849-43b45ef3aa1e

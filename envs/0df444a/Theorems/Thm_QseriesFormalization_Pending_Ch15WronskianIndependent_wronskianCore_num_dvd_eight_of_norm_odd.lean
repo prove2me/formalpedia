@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_wronskianCore_num_dvd_eight_of_norm_odd
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.wronskianCore_num_dvd_eight_of_norm_odd
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:20:32.793713+00:00
 -- url     : https://prove2.me/theorems/0fb0431d-3d6a-4e82-8add-89a85cad3c4d
 -- title:

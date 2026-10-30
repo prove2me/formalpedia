@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_upper_bound_981f13e1
 -- name    : WilliamsonShmoys.edge_upper_bound_981f13e1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:14:45.804429+00:00
 -- url     : https://prove2.me/theorems/e54d2930-9aa2-40dd-90b4-f5fef531c453

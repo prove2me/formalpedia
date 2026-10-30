@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawingOn_face_boundary_bound
 -- name    : WilliamsonShmoys.drawingOn_face_boundary_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:34:18.207097+00:00
 -- url     : https://prove2.me/theorems/33d64242-310a-491a-b81b-d3f0c8a715bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulated_planar_extension_edge_count
 -- name    : WilliamsonShmoys.exists_triangulated_planar_extension_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T01:06:11.273753+00:00
 -- url     : https://prove2.me/theorems/777ec98c-98f4-4f6a-b3be-b4ac80a215e9

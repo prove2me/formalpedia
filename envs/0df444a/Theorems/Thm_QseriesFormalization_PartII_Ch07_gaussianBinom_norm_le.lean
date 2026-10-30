@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_gaussianBinom_norm_le
 -- name    : QseriesFormalization.PartII.Ch07.gaussianBinom_norm_le
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:20:52.147473+00:00
 -- url     : https://prove2.me/theorems/ce40dc82-e68c-4b0a-b6e6-a1427cd5fae9
 -- title:

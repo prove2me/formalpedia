@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SnakyCertificate_certificate_correct
 -- name    : OAI.SnakyCertificate.certificate_correct
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:23.414197+00:00
 -- url     : https://prove2.me/theorems/c5e790f7-904e-40dd-a7f5-ba72d31e941b

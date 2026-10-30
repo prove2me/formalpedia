@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.one_sub_inv_mul_section83JTPProductAnalytic_eq_triangular_tsum_of_ne_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:41:28.094785+00:00
 -- url     : https://prove2.me/submissions/47bdcc45-6764-44e5-a7e5-7b7fec991f01
 

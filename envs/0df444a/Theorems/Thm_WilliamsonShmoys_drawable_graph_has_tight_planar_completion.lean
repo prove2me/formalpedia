@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_has_tight_planar_completion
 -- name    : WilliamsonShmoys.drawable_graph_has_tight_planar_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:48:43.529715+00:00
 -- url     : https://prove2.me/theorems/44b30fe4-6bd0-4f77-a817-96c82473dfd0

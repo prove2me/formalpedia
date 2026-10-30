@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirkhoffGlobalSection_dynamically_convex_on_strictly_convex_star_shaped_points
 -- name    : BirkhoffGlobalSection.dynamically_convex_on_strictly_convex_star_shaped_points
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-28T03:12:31.182585+00:00
 -- url     : https://prove2.me/theorems/0dd652a3-7869-4583-8992-5ff7af05220e

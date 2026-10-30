@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Tachikawa_main_theorem
 -- name    : OAI.Tachikawa.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:28.544376+00:00
 -- url     : https://prove2.me/theorems/835d6f0b-e639-4266-a278-5635203c6a35

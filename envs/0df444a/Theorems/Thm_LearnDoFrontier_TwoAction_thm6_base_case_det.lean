@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnDoFrontier_TwoAction_thm6_base_case_det
 -- name    : LearnDoFrontier.TwoAction.thm6_base_case_det
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:38.520005+00:00
 -- url     : https://prove2.me/theorems/349a2ba3-541b-4cfd-95da-c15cf826e8b4

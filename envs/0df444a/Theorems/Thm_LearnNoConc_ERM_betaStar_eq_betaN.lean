@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnNoConc_ERM_betaStar_eq_betaN
 -- name    : LearnNoConc.ERM.betaStar_eq_betaN
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:47:59.578069+00:00
 -- url     : https://prove2.me/theorems/3ce215f4-eeef-4b47-8bc4-14d23902d09a

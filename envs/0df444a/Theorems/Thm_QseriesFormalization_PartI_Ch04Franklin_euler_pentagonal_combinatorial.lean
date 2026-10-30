@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04Franklin_euler_pentagonal_combinatorial
 -- name    : QseriesFormalization.PartI.Ch04Franklin.euler_pentagonal_combinatorial
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:23:43.382658+00:00
 -- url     : https://prove2.me/theorems/13673b29-50ff-4f7d-a620-f9cb6f681516
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecBilevel_SLDBO_lemma_A_9
 -- name    : DecBilevel.SLDBO.lemma_A_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:44.99402+00:00
 -- url     : https://prove2.me/theorems/54116ae3-9bb6-4fa5-9256-dc87b807abb8

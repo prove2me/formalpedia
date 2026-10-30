@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepeatedNRM_Myopic_ec5_quality_bound
 -- name    : RepeatedNRM.Myopic.ec5_quality_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:04.684036+00:00
 -- url     : https://prove2.me/theorems/82a490e2-bb9f-4f1a-969e-a7e13589fdc9

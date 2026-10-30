@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_below_edge_bound_can_be_augmented
 -- name    : WilliamsonShmoys.planar_graph_below_edge_bound_can_be_augmented
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T06:44:31.807598+00:00
 -- url     : https://prove2.me/theorems/e6494b82-c13d-4728-8e3f-6619a8b5c762

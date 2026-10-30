@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for AvramDividend.Classical.unbounded_esscher_root_exit_decay
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T13:51:22.702583+00:00
 -- url     : https://prove2.me/submissions/ad53b222-17e5-4014-a74b-0951d13a0fe9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_TwoSidedExit
 import Theorems.Thm_AvramDividend_Classical_chat01_unbounded_esscher_decay_of_stopped_scale_balance

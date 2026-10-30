@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_ArrayObjects_Object_Rolled_raw_row_line_projection
 -- name    : OAI.Rokhlin.ArrayObjects.Object.Rolled.raw_row_line_projection
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:44:44.756591+00:00
 -- url     : https://prove2.me/theorems/4a424aa8-a72a-4667-bc8e-097b4eeed4af

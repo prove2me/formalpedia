@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_stopped_scale_ost_expectation_identity
 -- name    : AvramDividend.Classical.bv_stopped_scale_ost_expectation_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-27T11:34:57.552746+00:00
 -- url     : https://prove2.me/theorems/322217fe-647f-4cde-92dc-5e6488349c3a

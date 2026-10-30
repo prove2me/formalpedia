@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Normal.large_deviation
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:30:10.671049+00:00
 -- url     : https://prove2.me/submissions/5687d88b-c2a7-4107-a9f4-7dfc104bc276
 

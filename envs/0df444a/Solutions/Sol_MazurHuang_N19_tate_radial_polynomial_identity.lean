@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.tate_radial_polynomial_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:42:34.073254+00:00
 -- url     : https://prove2.me/submissions/53984df9-9f40-42ba-83fd-02598ebb86b6
 

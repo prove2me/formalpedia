@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_short_model_two_adic_certificate
 -- name    : MazurHuang.N19.short_model_two_adic_certificate
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:15.861058+00:00
 -- url     : https://prove2.me/theorems/dc59a23e-d70f-4200-b1f7-07fc6c6ddf1d
 -- title:

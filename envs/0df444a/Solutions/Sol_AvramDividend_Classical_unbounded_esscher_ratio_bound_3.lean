@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.unbounded_esscher_ratio_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T13:47:57.927688+00:00
 -- url     : https://prove2.me/submissions/acd17704-7857-416a-a503-bd16b7bebe5e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_TwoSidedExit
 import Theorems.Thm_AvramDividend_Classical_chat01_unbounded_ratio_bound_of_stopped_scale_balance

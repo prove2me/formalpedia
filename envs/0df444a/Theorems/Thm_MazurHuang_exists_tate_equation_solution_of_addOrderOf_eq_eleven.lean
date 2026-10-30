@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_exists_tate_equation_solution_of_addOrderOf_eq_eleven
 -- name    : MazurHuang.exists_tate_equation_solution_of_addOrderOf_eq_eleven
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T14:13:54.490148+00:00
 -- url     : https://prove2.me/theorems/ef5a6bc1-f584-4309-8907-d2586430bb11
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_induced_edge_bound_retry3
 -- name    : WilliamsonShmoys.planar_drawing_connected_induced_edge_bound_retry3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T19:14:06.101468+00:00
 -- url     : https://prove2.me/theorems/0b050164-1d49-4d39-aebe-37444558e83d

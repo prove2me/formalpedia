@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LipschitzHilbert_uniform_truncation
 -- name    : OAI.LipschitzHilbert.uniform_truncation
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:53.673349+00:00
 -- url     : https://prove2.me/theorems/1cb8e6f7-49a9-4b04-bc8f-76d33e33dcc2

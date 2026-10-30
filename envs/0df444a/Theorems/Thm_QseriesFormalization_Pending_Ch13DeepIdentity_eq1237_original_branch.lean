@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch13DeepIdentity_eq1237_original_branch
 -- name    : QseriesFormalization.Pending.Ch13DeepIdentity.eq1237_original_branch
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:04:46.807721+00:00
 -- url     : https://prove2.me/theorems/7a2260ed-65c8-4d87-bdec-af1061499d93
 -- title:

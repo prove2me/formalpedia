@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter04_FranklinPentagonal
 -- name    : QseriesFormalization_Chapter04_FranklinPentagonal
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:08:32.085682+00:00
 -- url     : https://prove2.me/theorems/7ba94211-96ea-4ea5-a6e1-6a00050d0311
 -- title:

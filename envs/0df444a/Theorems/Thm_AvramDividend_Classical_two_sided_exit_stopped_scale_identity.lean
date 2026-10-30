@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_two_sided_exit_stopped_scale_identity
 -- name    : AvramDividend.Classical.two_sided_exit_stopped_scale_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T18:57:20.675419+00:00
 -- url     : https://prove2.me/theorems/09663d0d-c23e-47da-b5b9-1bbf28449a4d

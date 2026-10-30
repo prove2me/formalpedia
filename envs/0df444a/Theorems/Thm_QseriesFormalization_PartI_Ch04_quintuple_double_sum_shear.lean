@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_quintuple_double_sum_shear
 -- name    : QseriesFormalization.PartI.Ch04.quintuple_double_sum_shear
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:32:24.585794+00:00
 -- url     : https://prove2.me/theorems/edc40390-2c33-4a0e-b284-27da78874c89
 -- title:

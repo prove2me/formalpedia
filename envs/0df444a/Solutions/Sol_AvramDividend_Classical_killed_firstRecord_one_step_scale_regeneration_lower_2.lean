@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.killed_firstRecord_one_step_scale_regeneration_lower
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T12:12:53.7366+00:00
 -- url     : https://prove2.me/submissions/b45fefea-43bf-47c2-b9ea-88e7abe7385f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Lebesgue.Basic
 import Mathlib.Analysis.Complex.Exponential

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_threeIsogeny35_exists_preimage_of_dual_equation
 -- name    : MazurHuang.threeIsogeny35_exists_preimage_of_dual_equation
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:05:57.777147+00:00
 -- url     : https://prove2.me/theorems/174b1870-b252-49d8-a8fb-1e31b5fd508c
 -- title:

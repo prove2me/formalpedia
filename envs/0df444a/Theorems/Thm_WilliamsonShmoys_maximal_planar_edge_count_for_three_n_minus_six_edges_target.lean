@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_for_three_n_minus_six_edges_target
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_for_three_n_minus_six_edges_target
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:52:44.859917+00:00
 -- url     : https://prove2.me/theorems/c11fbfb2-5669-4f9b-9e63-10213a7fd38f

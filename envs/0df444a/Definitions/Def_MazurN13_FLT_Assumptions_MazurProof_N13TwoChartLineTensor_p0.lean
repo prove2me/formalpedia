@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoChartLineTensor_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoChartLineTensor_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T20:43:08.580093+00:00
 -- url     : https://prove2.me/theorems/b2464c10-44bb-4f63-b6d7-8e3a3552ccb3
 -- title:

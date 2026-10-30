@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_lower_edge_bound
 -- name    : WilliamsonShmoys.maximal_drawing_lower_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:41:28.054543+00:00
 -- url     : https://prove2.me/theorems/679bf6a6-fac0-4eb8-a381-2f80a1e33cc2

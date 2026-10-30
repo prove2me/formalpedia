@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_edge_count_lower_bound_retry7_f81c96b6_b51d_4165_8b99_52e367cbc589
 -- name    : WilliamsonShmoys.maximal_planar_graph_edge_count_lower_bound_retry7_f81c96b6_b51d_4165_8b99_52e367cbc589
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:42:53.836831+00:00
 -- url     : https://prove2.me/theorems/ddd22073-d89c-45ed-9a1c-ee4a0e7442c5

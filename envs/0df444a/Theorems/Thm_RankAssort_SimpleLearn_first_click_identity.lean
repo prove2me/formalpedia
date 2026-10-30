@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankAssort_SimpleLearn_first_click_identity
 -- name    : RankAssort.SimpleLearn.first_click_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:56:38.60275+00:00
 -- url     : https://prove2.me/theorems/8afd9d12-bb3b-415f-a585-533be4b02de5

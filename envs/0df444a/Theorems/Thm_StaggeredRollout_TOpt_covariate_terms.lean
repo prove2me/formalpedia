@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaggeredRollout_TOpt_covariate_terms
 -- name    : StaggeredRollout.TOpt.covariate_terms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T04:00:18.385828+00:00
 -- url     : https://prove2.me/theorems/628cfc6b-9d99-4d79-9b42-3168885ceaed

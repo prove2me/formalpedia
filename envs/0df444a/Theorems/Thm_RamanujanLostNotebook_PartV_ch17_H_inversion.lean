@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanLostNotebook_PartV_ch17_H_inversion
 -- name    : RamanujanLostNotebook.PartV.ch17_H_inversion
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-09T00:22:22.348019+00:00
 -- url     : https://prove2.me/theorems/bedb7350-c83f-470d-abd7-07a8e7661760
 -- title:

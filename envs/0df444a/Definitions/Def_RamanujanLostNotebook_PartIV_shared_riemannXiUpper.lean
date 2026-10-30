@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIV_shared_riemannXiUpper
 -- name    : RamanujanLostNotebook_PartIV_shared_riemannXiUpper
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:08:54.634012+00:00
 -- url     : https://prove2.me/theorems/eeaca314-4f7f-41aa-8484-410026ad5e28
 -- title:

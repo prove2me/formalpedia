@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortOpt_HMF_theorem_2
 -- name    : AssortOpt.HMF.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:58:28.504247+00:00
 -- url     : https://prove2.me/theorems/ceb7dbb3-ad86-4acd-9b4e-8ec52b8c7cc3

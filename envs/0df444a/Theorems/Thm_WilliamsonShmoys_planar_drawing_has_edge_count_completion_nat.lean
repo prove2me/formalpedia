@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_edge_count_completion_nat
 -- name    : WilliamsonShmoys.planar_drawing_has_edge_count_completion_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T18:50:36.036016+00:00
 -- url     : https://prove2.me/theorems/c10b408b-b7ec-40f0-b964-0a6697295590

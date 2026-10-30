@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_lower_bound_retry_20261027__p2m_82d3f981_edc6_4261_adff_4cb68e598032_a5
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_lower_bound_retry_20261027__p2m_82d3f981_edc6_4261_adff_4cb68e598032_a5
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T01:49:00.497607+00:00
 -- url     : https://prove2.me/theorems/16d51e77-f287-4433-812a-f986691e7885

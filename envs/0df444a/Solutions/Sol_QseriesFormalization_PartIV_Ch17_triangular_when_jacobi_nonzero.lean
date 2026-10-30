@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.triangular_when_jacobi_nonzero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:49:04.015907+00:00
 -- url     : https://prove2.me/submissions/ac49bea8-daec-45de-b818-5317215d00f0
 

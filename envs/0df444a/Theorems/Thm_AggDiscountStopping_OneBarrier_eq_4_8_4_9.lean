@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AggDiscountStopping_OneBarrier_eq_4_8_4_9
 -- name    : AggDiscountStopping.OneBarrier.eq_4_8_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:56:08.384679+00:00
 -- url     : https://prove2.me/theorems/113e09b7-5f69-40a9-a598-8fc67eb4e521

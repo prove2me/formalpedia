@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15RODE.chan_theorem_11_7
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:41:16.280984+00:00
 -- url     : https://prove2.me/submissions/6d12af3a-7548-4c66-9c64-d27e3c9e2775
 

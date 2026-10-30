@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10TenthOrder_one_sub_X_pow_mul_divisorGeomPSLocal
 -- name    : QseriesFormalization.Pending.Ch10TenthOrder.one_sub_X_pow_mul_divisorGeomPSLocal
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:55:08.455107+00:00
 -- url     : https://prove2.me/theorems/0a812327-346a-4448-8b57-4555c47dd65f
 -- title:

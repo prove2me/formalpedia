@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_completion_retry3_maximal_planar_face_decomposition
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_completion_retry3_maximal_planar_face_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T10:03:44.876966+00:00
 -- url     : https://prove2.me/theorems/c56f87ad-0620-45d3-bcca-6a52dcb9099e

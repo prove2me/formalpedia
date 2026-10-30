@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_TauParity_ramanujanTau_odd_iff_odd_square
 -- name    : QseriesFormalization.Pending.TauParity.ramanujanTau_odd_iff_odd_square
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:50:29.303071+00:00
 -- url     : https://prove2.me/theorems/2d54de55-7335-4931-bf85-823281140da3
 -- title:

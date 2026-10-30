@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.triangulated_supergraph_edge_bound__p2m_abc6942a_8a99_4355_badf_59d2c1ffe2f0_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T20:18:53.384884+00:00
 -- url     : https://prove2.me/submissions/c9aee3b8-06be-4750-a2bb-8f94beaff35e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_supergraph__p2m_f480263f_1ac3_4297_8888_36232c8b7a10_a1

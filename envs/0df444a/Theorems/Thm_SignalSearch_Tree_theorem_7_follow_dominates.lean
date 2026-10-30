@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SignalSearch_Tree_theorem_7_follow_dominates
 -- name    : SignalSearch.Tree.theorem_7_follow_dominates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:37:57.094757+00:00
 -- url     : https://prove2.me/theorems/53c23551-be42-455d-8ed9-2a0b90b1028f

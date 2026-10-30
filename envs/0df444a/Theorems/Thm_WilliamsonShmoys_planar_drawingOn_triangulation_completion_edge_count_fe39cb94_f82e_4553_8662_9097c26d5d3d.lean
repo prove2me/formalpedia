@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawingOn_triangulation_completion_edge_count_fe39cb94_f82e_4553_8662_9097c26d5d3d
 -- name    : WilliamsonShmoys.planar_drawingOn_triangulation_completion_edge_count_fe39cb94_f82e_4553_8662_9097c26d5d3d
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:26:07.606696+00:00
 -- url     : https://prove2.me/theorems/73897ec1-3ca7-4610-af6a-93823533007f

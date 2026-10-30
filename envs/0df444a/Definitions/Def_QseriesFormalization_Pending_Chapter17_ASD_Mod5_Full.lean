@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter17_ASD_Mod5_Full
 -- name    : QseriesFormalization_Pending_Chapter17_ASD_Mod5_Full
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:36:12.547985+00:00
 -- url     : https://prove2.me/theorems/b166396b-0d19-40fe-aa9d-5f8c764bf0bb
 -- title:

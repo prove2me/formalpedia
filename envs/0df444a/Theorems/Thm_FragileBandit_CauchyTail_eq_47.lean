@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragileBandit_CauchyTail_eq_47
 -- name    : FragileBandit.CauchyTail.eq_47
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:53.08603+00:00
 -- url     : https://prove2.me/theorems/0a06a179-e921-4877-8a55-4ad7e64254b9

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch03_ch3C
 -- name    : RamanujanNotebooks_ch03_ch3C
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T22:23:09.189025+00:00
 -- url     : https://prove2.me/theorems/ff76488c-e406-4c77-9fd8-9cb66e30af92
 -- title:

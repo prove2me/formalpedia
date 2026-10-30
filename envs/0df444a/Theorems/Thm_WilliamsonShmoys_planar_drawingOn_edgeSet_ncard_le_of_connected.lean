@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawingOn_edgeSet_ncard_le_of_connected
 -- name    : WilliamsonShmoys.planar_drawingOn_edgeSet_ncard_le_of_connected
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T17:29:52.91323+00:00
 -- url     : https://prove2.me/theorems/d4a780a1-0e30-41cf-aea2-2a8b33d329cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HerdingForecast_Equilibrium_ec_11_12_best_response
 -- name    : HerdingForecast.Equilibrium.ec_11_12_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:56.550001+00:00
 -- url     : https://prove2.me/theorems/7eb322d3-91f8-4c39-8008-be81d88fd8ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_tail_correlation_zero
 -- name    : OAI.Rokhlin.tail_correlation_zero
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:45:57.490514+00:00
 -- url     : https://prove2.me/theorems/516d6a74-d283-4bcb-b48a-be2127326548

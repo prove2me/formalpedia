@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_FakeSquareClass_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_FakeSquareClass_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:47:20.959518+00:00
 -- url     : https://prove2.me/theorems/9ede225e-ea72-46bc-8596-8a994f5b9490
 -- title:

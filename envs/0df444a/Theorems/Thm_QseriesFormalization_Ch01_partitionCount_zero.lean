@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch01_partitionCount_zero
 -- name    : QseriesFormalization.Ch01.partitionCount_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:50:20.029338+00:00
 -- url     : https://prove2.me/theorems/dc1f16cb-bd29-4064-8e9e-946d738c4cad
 -- title:

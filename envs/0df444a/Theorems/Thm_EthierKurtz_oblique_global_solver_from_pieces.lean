@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_global_solver_from_pieces
 -- name    : EthierKurtz.oblique_global_solver_from_pieces
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:03:37.121786+00:00
 -- url     : https://prove2.me/theorems/3e5109a8-b053-4fd1-b564-ecdab8d0d809

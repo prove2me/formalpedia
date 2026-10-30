@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_face_equations_9367f2ac
 -- name    : WilliamsonShmoys.maximal_planar_face_equations_9367f2ac
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T17:58:10.209387+00:00
 -- url     : https://prove2.me/theorems/43062042-0cdc-4c51-9c62-1a9950b577b3

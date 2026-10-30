@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.sum_range_center_eq_sum_Icc
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:26:54.593036+00:00
 -- url     : https://prove2.me/submissions/08b57e30-4dc9-4f02-b972-fc9d6cea0dc2
 

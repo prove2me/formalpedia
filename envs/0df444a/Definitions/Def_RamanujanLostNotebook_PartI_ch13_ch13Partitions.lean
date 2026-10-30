@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch13_ch13Partitions
 -- name    : RamanujanLostNotebook_PartI_ch13_ch13Partitions
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T10:22:27.81149+00:00
 -- url     : https://prove2.me/theorems/26773efe-d74c-4228-b37b-829979317184
 -- title:

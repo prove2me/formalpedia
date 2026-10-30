@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_modularDegree
 -- name    : RamanujanNotebooks_shared_modularDegree
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T03:34:24.971923+00:00
 -- url     : https://prove2.me/theorems/056ae641-1e01-44ca-8788-e740fe05adfc
 -- title:

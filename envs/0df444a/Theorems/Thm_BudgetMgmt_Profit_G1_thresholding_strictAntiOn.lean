@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetMgmt_Profit_G1_thresholding_strictAntiOn
 -- name    : BudgetMgmt.Profit.G1_thresholding_strictAntiOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:21.565558+00:00
 -- url     : https://prove2.me/theorems/529e1042-36a7-478d-9fc0-cebd468bf714

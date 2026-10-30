@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.pentagonalIndex_of_neg
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:49:35.492855+00:00
 -- url     : https://prove2.me/submissions/8958bff4-7a66-447d-880d-e229c910fe47
 

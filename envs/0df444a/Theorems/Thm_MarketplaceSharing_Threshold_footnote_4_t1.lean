@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceSharing_Threshold_footnote_4_t1
 -- name    : MarketplaceSharing.Threshold.footnote_4_t1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:32:26.100664+00:00
 -- url     : https://prove2.me/theorems/adfcbb5b-dcb3-46e6-8a18-d020ec5725e8

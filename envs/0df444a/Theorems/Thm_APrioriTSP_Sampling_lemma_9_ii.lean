@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APrioriTSP_Sampling_lemma_9_ii
 -- name    : APrioriTSP.Sampling.lemma_9_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:38:36.195011+00:00
 -- url     : https://prove2.me/theorems/e3101c69-3b25-4ca7-8096-3fe6de4030e8

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.jacobiSeriesT_prime_pair_at_negQ
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:39:40.100603+00:00
 -- url     : https://prove2.me/submissions/ffd9676f-2445-4561-b407-e695aacec261
 

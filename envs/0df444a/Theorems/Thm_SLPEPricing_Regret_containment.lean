@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPEPricing_Regret_containment
 -- name    : SLPEPricing.Regret.containment
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:33:17.506114+00:00
 -- url     : https://prove2.me/theorems/6857ce26-1958-4acc-aea5-3445f770036e

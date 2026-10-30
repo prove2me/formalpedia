@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for AvramDividend.Classical.barrier_value_scale_factor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T06:17:52.975108+00:00
 -- url     : https://prove2.me/submissions/c5650eec-4b48-4b3e-abb9-2ea94b141c0a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_strict_pos_of_standing
 import Theorems.Thm_AvramDividend_Classical_barrierStrategy_value_eq_exit_factor

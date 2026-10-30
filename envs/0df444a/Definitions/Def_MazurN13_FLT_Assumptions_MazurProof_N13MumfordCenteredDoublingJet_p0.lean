@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MumfordCenteredDoublingJet_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MumfordCenteredDoublingJet_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:35:35.637844+00:00
 -- url     : https://prove2.me/theorems/1db25504-816b-4b90-ae4c-c0038e482cbf
 -- title:

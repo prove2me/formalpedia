@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_sum_range_center_eq_sum_Icc
 -- name    : QseriesFormalization.Pending.Ch10HM.sum_range_center_eq_sum_Icc
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:52:15.23373+00:00
 -- url     : https://prove2.me/theorems/f081fe25-c16e-457a-b4e6-fb01af767739
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralModelContraction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralModelContraction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:06:59.432604+00:00
 -- url     : https://prove2.me/theorems/54342f10-5e36-4cd4-903b-a5aeb87e6a16
 -- title:

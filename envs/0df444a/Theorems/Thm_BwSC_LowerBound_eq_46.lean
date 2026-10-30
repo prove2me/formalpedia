@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BwSC_LowerBound_eq_46
 -- name    : BwSC.LowerBound.eq_46
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:35:22.752405+00:00
 -- url     : https://prove2.me/theorems/ed25a476-0dc9-4e0d-a4b1-bdbec598a977

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BwSC_LowerBound_theorem_2
 -- name    : BwSC.LowerBound.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:05.315108+00:00
 -- url     : https://prove2.me/theorems/122c93c4-9391-440f-b70f-e6024a91429d

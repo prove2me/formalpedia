@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_bound_v4_triangulated_supergraph
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_bound_v4_triangulated_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T04:50:33.969449+00:00
 -- url     : https://prove2.me/theorems/0c9f4ecf-e48c-41a7-930a-efceb2c0f3bf

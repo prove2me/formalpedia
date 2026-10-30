@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutlierAssort_ActiveElim_regret_sum_bound
 -- name    : OutlierAssort.ActiveElim.regret_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:40:21.529236+00:00
 -- url     : https://prove2.me/theorems/10cede31-86c6-4287-aeb4-70a673909b6e

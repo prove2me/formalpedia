@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch07_ch07PochConverges
 -- name    : RamanujanLostNotebook_PartI_ch07_ch07PochConverges
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T04:56:57.518429+00:00
 -- url     : https://prove2.me/theorems/00a967fc-c4e6-4ca5-82b6-fb250f4c36fb
 -- title:

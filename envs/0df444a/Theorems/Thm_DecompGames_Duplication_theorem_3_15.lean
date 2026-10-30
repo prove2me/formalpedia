@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecompGames_Duplication_theorem_3_15
 -- name    : DecompGames.Duplication.theorem_3_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:38:35.722664+00:00
 -- url     : https://prove2.me/theorems/258bf274-5461-4b92-a2ee-44e273cf98b1

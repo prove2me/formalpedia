@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_pentagonalToGauss_pentagonalSectorInverse
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.pentagonalToGauss_pentagonalSectorInverse
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:18:24.213632+00:00
 -- url     : https://prove2.me/theorems/1ec44254-aedc-46a8-95cd-843592a75fb0
 -- title:

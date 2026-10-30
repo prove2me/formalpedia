@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_augmentation_when_sparse_v2
 -- name    : WilliamsonShmoys.planar_augmentation_when_sparse_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T03:46:26.949259+00:00
 -- url     : https://prove2.me/theorems/729fc1e5-7595-4c6b-88b7-16892de5217a

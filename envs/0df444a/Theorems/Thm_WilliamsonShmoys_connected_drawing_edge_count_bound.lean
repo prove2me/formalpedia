@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_drawing_edge_count_bound
 -- name    : WilliamsonShmoys.connected_drawing_edge_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T08:39:00.483077+00:00
 -- url     : https://prove2.me/theorems/1900a061-7754-4717-8cad-cc59aa97e9d8

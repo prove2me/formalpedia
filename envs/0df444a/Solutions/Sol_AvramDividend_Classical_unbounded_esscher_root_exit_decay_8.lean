@@ -1,10 +1,8 @@
 -- Prove2me | solution 8 for AvramDividend.Classical.unbounded_esscher_root_exit_decay
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T18:39:46.876905+00:00
 -- url     : https://prove2.me/submissions/cb6067e6-03d9-40c6-b762-10071fdf5e87
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Complex.Exponential
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

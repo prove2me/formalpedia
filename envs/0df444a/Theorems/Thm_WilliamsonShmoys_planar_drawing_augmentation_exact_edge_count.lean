@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_augmentation_exact_edge_count
 -- name    : WilliamsonShmoys.planar_drawing_augmentation_exact_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:08:15.820881+00:00
 -- url     : https://prove2.me/theorems/27ebe3c7-de05-4ecd-b2e0-015385be129a

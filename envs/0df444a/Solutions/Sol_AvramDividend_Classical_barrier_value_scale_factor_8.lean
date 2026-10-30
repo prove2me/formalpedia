@@ -1,10 +1,8 @@
 -- Prove2me | solution 8 for AvramDividend.Classical.barrier_value_scale_factor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T09:57:16.797977+00:00
 -- url     : https://prove2.me/submissions/e91c09f9-05c3-416b-b932-372944d12ce0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch13DeepIdentity_y_satisfies_watson_branch
 -- name    : QseriesFormalization.Pending.Ch13DeepIdentity.y_satisfies_watson_branch
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:05:20.25414+00:00
 -- url     : https://prove2.me/theorems/365e3914-a84c-43f7-9abf-b952884305b6
 -- title:

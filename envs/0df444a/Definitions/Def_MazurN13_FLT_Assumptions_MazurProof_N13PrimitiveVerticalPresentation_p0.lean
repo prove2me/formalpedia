@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13PrimitiveVerticalPresentation_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13PrimitiveVerticalPresentation_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:34:06.020744+00:00
 -- url     : https://prove2.me/theorems/c56bfeb1-c689-41a4-a7fa-0e159599c286
 -- title:

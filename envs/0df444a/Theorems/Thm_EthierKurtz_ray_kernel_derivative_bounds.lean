@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_ray_kernel_derivative_bounds
 -- name    : EthierKurtz.ray_kernel_derivative_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T23:07:34.576776+00:00
 -- url     : https://prove2.me/theorems/a063430d-6736-4cbf-a753-ef3f917ddda5

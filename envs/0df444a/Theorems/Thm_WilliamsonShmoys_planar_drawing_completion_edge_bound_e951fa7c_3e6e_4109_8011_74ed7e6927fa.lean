@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_completion_edge_bound_e951fa7c_3e6e_4109_8011_74ed7e6927fa
 -- name    : WilliamsonShmoys.planar_drawing_completion_edge_bound_e951fa7c_3e6e_4109_8011_74ed7e6927fa
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:09:41.978281+00:00
 -- url     : https://prove2.me/theorems/536dd7c5-55fb-48e9-82b0-863b2ebb607e

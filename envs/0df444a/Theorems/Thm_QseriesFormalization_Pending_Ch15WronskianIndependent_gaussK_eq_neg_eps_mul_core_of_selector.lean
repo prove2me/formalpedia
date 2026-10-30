@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_gaussK_eq_neg_eps_mul_core_of_selector
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.gaussK_eq_neg_eps_mul_core_of_selector
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:12:15.227619+00:00
 -- url     : https://prove2.me/theorems/b1bcd9e5-adea-4e53-b11a-d3dd66cb9466
 -- title:

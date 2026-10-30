@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_lower_bound_3n6_for_planar_dense_extension_v4
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_lower_bound_3n6_for_planar_dense_extension_v4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:28:12.05085+00:00
 -- url     : https://prove2.me/theorems/d6028321-0365-4a5b-8d5f-60fc96622285

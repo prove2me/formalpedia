@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrClusterExp_IBR_bellman_4
 -- name    : CorrClusterExp.IBR.bellman_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:12.516313+00:00
 -- url     : https://prove2.me/theorems/4fbb06bd-12ee-45fa-ae30-5d5254ee10fc

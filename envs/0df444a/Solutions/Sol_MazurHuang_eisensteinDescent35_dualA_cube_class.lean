@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.eisensteinDescent35_dualA_cube_class
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:07:25.568766+00:00
 -- url     : https://prove2.me/submissions/8360aa71-16be-4ffc-b755-659cef9afa00
 

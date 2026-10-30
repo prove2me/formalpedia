@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Persist_dirac_mem_M
 -- name    : StochKolmogorov.Persist.dirac_mem_M
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:31:50.348982+00:00
 -- url     : https://prove2.me/theorems/29423352-a196-47e0-9e6f-c4658561e546

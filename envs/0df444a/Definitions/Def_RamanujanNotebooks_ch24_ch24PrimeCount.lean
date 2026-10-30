@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch24_ch24PrimeCount
 -- name    : RamanujanNotebooks_ch24_ch24PrimeCount
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T23:54:04.09915+00:00
 -- url     : https://prove2.me/theorems/d493f062-7e9f-46d0-9512-dd8c34755e97
 -- title:

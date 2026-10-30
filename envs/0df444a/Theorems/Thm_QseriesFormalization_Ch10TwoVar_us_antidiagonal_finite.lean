@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_us_antidiagonal_finite
 -- name    : QseriesFormalization.Ch10TwoVar.us_antidiagonal_finite
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:08:56.029773+00:00
 -- url     : https://prove2.me/theorems/3ceef014-c6ea-43aa-86e0-b9012704d251
 -- title:

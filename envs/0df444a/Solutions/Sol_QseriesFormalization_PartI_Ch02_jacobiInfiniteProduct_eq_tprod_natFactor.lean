@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch02.jacobiInfiniteProduct_eq_tprod_natFactor
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:38:52.35485+00:00
 -- url     : https://prove2.me/submissions/73b7a6ad-a269-483f-8e32-24dd23f34973
 

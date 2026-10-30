@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrClusterExp_IBR_lemma_4_1
 -- name    : CorrClusterExp.IBR.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:04.745478+00:00
 -- url     : https://prove2.me/theorems/11b3c841-1e32-4136-922f-98c26eae5ee3

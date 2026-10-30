@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_quintuple_theta_kernel_eval
 -- name    : QseriesFormalization.PartI.Ch04.quintuple_theta_kernel_eval
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:32:45.924522+00:00
 -- url     : https://prove2.me/theorems/bae81b66-e072-45a0-ad61-987f514cbd1b
 -- title:

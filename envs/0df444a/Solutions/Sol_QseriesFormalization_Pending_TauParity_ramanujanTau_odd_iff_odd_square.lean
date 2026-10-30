@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.TauParity.ramanujanTau_odd_iff_odd_square
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:25:39.50378+00:00
 -- url     : https://prove2.me/submissions/8290181d-282c-44a5-8acf-9a63c2f3aa6c
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch13DeepIdentity_eq1237_expanded_ratio
 -- name    : QseriesFormalization.Pending.Ch13DeepIdentity.eq1237_expanded_ratio
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:04:31.248421+00:00
 -- url     : https://prove2.me/theorems/12582f9a-8c66-4ce7-8db2-413906d22a15
 -- title:

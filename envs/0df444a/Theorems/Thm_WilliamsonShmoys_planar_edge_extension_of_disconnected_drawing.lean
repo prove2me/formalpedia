@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_extension_of_disconnected_drawing
 -- name    : WilliamsonShmoys.planar_edge_extension_of_disconnected_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T15:26:26.611383+00:00
 -- url     : https://prove2.me/theorems/6afa16d8-44ba-4055-8683-f29063f5c38c

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter10_TenthOrder
 -- name    : QseriesFormalization_Pending_Chapter10_TenthOrder
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:32:05.854139+00:00
 -- url     : https://prove2.me/theorems/458c26b3-5e87-4d11-83e6-22f1d0b0dfd8
 -- title:

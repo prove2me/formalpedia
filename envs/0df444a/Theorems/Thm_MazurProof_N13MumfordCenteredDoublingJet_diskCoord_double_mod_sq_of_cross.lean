@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13MumfordCenteredDoublingJet_diskCoord_double_mod_sq_of_cross
 -- name    : MazurProof.N13MumfordCenteredDoublingJet.diskCoord_double_mod_sq_of_cross
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T03:51:48.879983+00:00
 -- url     : https://prove2.me/theorems/0804b129-98c2-4fc5-8c67-853ab3d2007a

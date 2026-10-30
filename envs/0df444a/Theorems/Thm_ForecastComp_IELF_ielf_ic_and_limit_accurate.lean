@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastComp_IELF_ielf_ic_and_limit_accurate
 -- name    : ForecastComp.IELF.ielf_ic_and_limit_accurate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:38.818933+00:00
 -- url     : https://prove2.me/theorems/d53018ed-e1df-41ba-baa4-8a6aa0632c13

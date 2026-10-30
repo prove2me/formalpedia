@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_euler_count_87a22553
 -- name    : WilliamsonShmoys.maximal_drawable_euler_count_87a22553
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:42:46.951093+00:00
 -- url     : https://prove2.me/theorems/68a44d12-3e5f-406a-a171-0bd7422aa7be

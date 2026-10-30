@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MHSpectralGap_RWM_acceptance_bound
 -- name    : MHSpectralGap.RWM.acceptance_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:15:07.254212+00:00
 -- url     : https://prove2.me/theorems/72e376e1-3f11-4a8c-9ba3-f08264b07e86

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.edge_count_of_same_vertex_edge_maximal_planar_d91007ea_2b83_4647_90f6_3b32f55c223e
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:42:56.043619+00:00
 -- url     : https://prove2.me/submissions/116902f5-4c29-47d1-8e46-6c68d3ddfec3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

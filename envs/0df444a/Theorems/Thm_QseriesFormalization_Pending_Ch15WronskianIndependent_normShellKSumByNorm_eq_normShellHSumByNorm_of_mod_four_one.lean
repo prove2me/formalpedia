@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_normShellKSumByNorm_eq_normShellHSumByNorm_of_mod_four_one
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.normShellKSumByNorm_eq_normShellHSumByNorm_of_mod_four_one
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:17:20.77936+00:00
 -- url     : https://prove2.me/theorems/e8ae4814-1634-4c38-a4b3-453dac8227be
 -- title:

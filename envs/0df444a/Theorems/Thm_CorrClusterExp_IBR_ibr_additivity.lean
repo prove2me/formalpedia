@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrClusterExp_IBR_ibr_additivity
 -- name    : CorrClusterExp.IBR.ibr_additivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:07.383267+00:00
 -- url     : https://prove2.me/theorems/c2975e07-d0f0-4143-b27e-cb091742ca40

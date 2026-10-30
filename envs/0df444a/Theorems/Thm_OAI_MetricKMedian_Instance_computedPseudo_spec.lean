@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_Instance_computedPseudo_spec
 -- name    : OAI.MetricKMedian.Instance.computedPseudo_spec
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:37:58.854982+00:00
 -- url     : https://prove2.me/theorems/97b3ccfe-e401-44b5-9bb3-860692db4048

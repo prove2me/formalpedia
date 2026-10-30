@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch09_ch09LambdaRegular
 -- name    : RamanujanLostNotebook_PartII_ch09_ch09LambdaRegular
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T11:14:18.217404+00:00
 -- url     : https://prove2.me/theorems/e341c956-9544-4ddf-8663-0d41adbbc554
 -- title:

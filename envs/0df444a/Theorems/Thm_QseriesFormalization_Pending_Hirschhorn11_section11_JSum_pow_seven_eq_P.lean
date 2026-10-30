@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_section11_JSum_pow_seven_eq_P
 -- name    : QseriesFormalization.Pending.Hirschhorn11.section11_JSum_pow_seven_eq_P
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:35:51.877921+00:00
 -- url     : https://prove2.me/theorems/de39e525-eedd-4d6b-b0a3-6c394f2ccdce
 -- title:

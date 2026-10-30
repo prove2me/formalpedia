@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolomonRWRE_Recurrence_theorem_1_7
 -- name    : SolomonRWRE.Recurrence.theorem_1_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:30:43.066499+00:00
 -- url     : https://prove2.me/theorems/09a9f1e5-e70a-4ce6-a7f4-e6164f8c04f7

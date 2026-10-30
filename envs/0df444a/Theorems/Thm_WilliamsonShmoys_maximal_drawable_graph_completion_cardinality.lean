@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_completion_cardinality
 -- name    : WilliamsonShmoys.maximal_drawable_graph_completion_cardinality
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:15:02.897087+00:00
 -- url     : https://prove2.me/theorems/1e007d92-6a24-4737-84e9-a5b1a6e8a897

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JacobiCubeAnalyticToFormal_qPochInfPS_pow_three_eq_jacobiThetaPS
 -- name    : QseriesFormalization.Pending.JacobiCubeAnalyticToFormal.qPochInfPS_pow_three_eq_jacobiThetaPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:38:45.262181+00:00
 -- url     : https://prove2.me/theorems/342bbacd-744b-4507-a293-93618ab1a7f4
 -- title:

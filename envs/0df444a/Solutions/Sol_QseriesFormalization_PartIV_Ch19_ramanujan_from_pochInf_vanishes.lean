@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.ramanujan_from_pochInf_vanishes
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:32:26.092802+00:00
 -- url     : https://prove2.me/submissions/2b1e09a8-ce19-473b-b118-fe9391a0f7b7
 

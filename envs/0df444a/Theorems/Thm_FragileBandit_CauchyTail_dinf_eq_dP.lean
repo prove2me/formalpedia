@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragileBandit_CauchyTail_dinf_eq_dP
 -- name    : FragileBandit.CauchyTail.dinf_eq_dP
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:50.404041+00:00
 -- url     : https://prove2.me/theorems/fd8ac5ce-5ab5-432f-ac09-c37368710921

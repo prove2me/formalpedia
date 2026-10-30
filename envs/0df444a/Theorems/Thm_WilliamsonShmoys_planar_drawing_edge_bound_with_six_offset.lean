@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound_with_six_offset
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound_with_six_offset
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:25:26.138277+00:00
 -- url     : https://prove2.me/theorems/0d94eccd-1b7d-4473-b0bf-957d45668280

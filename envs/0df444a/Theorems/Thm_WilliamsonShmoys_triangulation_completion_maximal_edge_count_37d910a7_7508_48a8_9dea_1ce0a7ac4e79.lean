@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulation_completion_maximal_edge_count_37d910a7_7508_48a8_9dea_1ce0a7ac4e79
 -- name    : WilliamsonShmoys.triangulation_completion_maximal_edge_count_37d910a7_7508_48a8_9dea_1ce0a7ac4e79
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:39:24.702285+00:00
 -- url     : https://prove2.me/theorems/e3bc719b-bda8-4c11-b923-312be78eb315

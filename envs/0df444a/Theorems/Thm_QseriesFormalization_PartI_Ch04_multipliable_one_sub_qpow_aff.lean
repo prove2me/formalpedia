@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_multipliable_one_sub_qpow_aff
 -- name    : QseriesFormalization.PartI.Ch04.multipliable_one_sub_qpow_aff
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:31:10.562458+00:00
 -- url     : https://prove2.me/theorems/79a496fd-3c7d-464b-91de-db886a395fb4
 -- title:

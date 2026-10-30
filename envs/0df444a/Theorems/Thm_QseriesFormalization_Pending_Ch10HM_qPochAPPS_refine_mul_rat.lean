@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_qPochAPPS_refine_mul_rat
 -- name    : QseriesFormalization.Pending.Ch10HM.qPochAPPS_refine_mul_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:51:44.122569+00:00
 -- url     : https://prove2.me/theorems/24a80d99-f7f4-43a6-92d0-8bb5f88d7492
 -- title:

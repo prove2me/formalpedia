@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.drawingOn_face_count_euler_and_boundary
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:11:25.669909+00:00
 -- url     : https://prove2.me/submissions/eb8e36f9-7e55-4a39-9818-488990ed5664
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_one_sub_inv_mul_section83JTPProductAnalytic_eq_triangular_tsum_of_ne_zero
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.one_sub_inv_mul_section83JTPProductAnalytic_eq_triangular_tsum_of_ne_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:43:55.650131+00:00
 -- url     : https://prove2.me/theorems/10db315b-3d0c-462a-a3e2-39ac00fb5596
 -- title:

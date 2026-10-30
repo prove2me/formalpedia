@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_STPRideshare_Mechanism_lemma_1
 -- name    : STPRideshare.Mechanism.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:31:37.47496+00:00
 -- url     : https://prove2.me/theorems/6630fce7-95ca-45a5-bf99-457c8e11e709

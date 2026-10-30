@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.lcoeff_qPochhammer_mul_gaussian_center_add_low_int
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:34:45.27498+00:00
 -- url     : https://prove2.me/submissions/4b84ce8a-6693-411c-9332-a422c2125cb5
 

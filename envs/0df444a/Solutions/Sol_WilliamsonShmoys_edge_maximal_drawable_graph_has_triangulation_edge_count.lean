@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.edge_maximal_drawable_graph_has_triangulation_edge_count
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T15:29:45.690018+00:00
 -- url     : https://prove2.me/submissions/7a29831d-83aa-4f70-ba36-77eb83de7fef
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_for_maximal_drawable_target
 import Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_count_lower_bound_for_triangulation_target

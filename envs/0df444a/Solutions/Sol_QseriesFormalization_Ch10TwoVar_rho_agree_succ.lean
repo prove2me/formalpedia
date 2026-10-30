@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.rho_agree_succ
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:29:08.91206+00:00
 -- url     : https://prove2.me/submissions/14275c4a-63b8-4aea-a9a3-663b4de37cb3
 

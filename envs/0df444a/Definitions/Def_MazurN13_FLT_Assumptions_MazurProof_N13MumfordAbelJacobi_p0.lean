@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MumfordAbelJacobi_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MumfordAbelJacobi_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:23:51.886028+00:00
 -- url     : https://prove2.me/theorems/c62df462-2629-46c3-9e74-a7feb71c5b84
 -- title:

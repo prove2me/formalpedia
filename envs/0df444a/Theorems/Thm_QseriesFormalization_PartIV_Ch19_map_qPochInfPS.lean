@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_map_qPochInfPS
 -- name    : QseriesFormalization.PartIV.Ch19.map_qPochInfPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:56:07.677982+00:00
 -- url     : https://prove2.me/theorems/c5f0ac65-c107-42b0-abb7-20146e93cbcf
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableDispatch_Markov_drift_outside_Fn
 -- name    : StableDispatch.Markov.drift_outside_Fn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:08.358636+00:00
 -- url     : https://prove2.me/theorems/0d531691-bbab-4f33-94cc-14781035009a

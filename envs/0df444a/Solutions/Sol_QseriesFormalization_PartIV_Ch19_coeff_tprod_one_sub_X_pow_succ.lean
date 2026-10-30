@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.coeff_tprod_one_sub_X_pow_succ
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:14:22.271043+00:00
 -- url     : https://prove2.me/submissions/c1fbf11f-2899-4f67-bc23-d31fcc7ab9ce
 

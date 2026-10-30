@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_tendsto_gBz_center_schurBottomH
 -- name    : QseriesFormalization.PartII.Ch07.tendsto_gBz_center_schurBottomH
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:25:05.330079+00:00
 -- url     : https://prove2.me/theorems/d898bb5f-5618-4182-a5e6-9ce15913b4e1
 -- title:

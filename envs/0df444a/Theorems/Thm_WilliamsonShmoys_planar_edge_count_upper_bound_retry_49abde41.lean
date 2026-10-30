@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_retry_49abde41
 -- name    : WilliamsonShmoys.planar_edge_count_upper_bound_retry_49abde41
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T05:24:11.949204+00:00
 -- url     : https://prove2.me/theorems/eb93e679-8821-41f1-b787-569e84785022

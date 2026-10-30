@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_gBz_odd_residual
 -- name    : QseriesFormalization.PartII.Ch07.gBz_odd_residual
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:20:18.261712+00:00
 -- url     : https://prove2.me/theorems/c3939c6e-0536-4eed-a861-f8cffc31a7de
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FormalOverlapSplit_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FormalOverlapSplit_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:49:05.161986+00:00
 -- url     : https://prove2.me/theorems/090a8b9d-3080-406e-ae2e-c284af4eaa46
 -- title:

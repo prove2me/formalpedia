@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_extension_density_8b6262cf
 -- name    : WilliamsonShmoys.maximal_planar_extension_density_8b6262cf
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:33:28.027+00:00
 -- url     : https://prove2.me/theorems/ff7c9ff8-0a1c-4df0-abf1-b97d1d2ffeec

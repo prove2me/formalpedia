@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13CenteredHermiteFirstOrder_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13CenteredHermiteFirstOrder_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:37:22.603702+00:00
 -- url     : https://prove2.me/theorems/e3355a6c-028d-459a-9fb4-18564b2f07b7
 -- title:

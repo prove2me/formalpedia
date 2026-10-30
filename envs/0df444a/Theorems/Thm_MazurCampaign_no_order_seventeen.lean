@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurCampaign_no_order_seventeen
 -- name    : MazurCampaign.no_order_seventeen
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T13:32:25.252082+00:00
 -- url     : https://prove2.me/theorems/a2347b55-6b22-473f-9dfa-246a091a2a5d
 -- title:

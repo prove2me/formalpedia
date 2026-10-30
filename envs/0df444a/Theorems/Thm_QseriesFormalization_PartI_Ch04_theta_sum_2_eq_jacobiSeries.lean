@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_theta_sum_2_eq_jacobiSeries
 -- name    : QseriesFormalization.PartI.Ch04.theta_sum_2_eq_jacobiSeries
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:34:00.785857+00:00
 -- url     : https://prove2.me/theorems/49cb4a41-c9fd-4a90-b634-4dab6dc1fb81
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13VerticalGraphJacobian_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13VerticalGraphJacobian_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:10:23.542616+00:00
 -- url     : https://prove2.me/theorems/9ef62088-6c27-4540-8dc6-d3669e48c3ea
 -- title:

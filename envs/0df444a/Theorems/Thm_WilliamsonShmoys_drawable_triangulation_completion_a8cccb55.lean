@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_triangulation_completion_a8cccb55
 -- name    : WilliamsonShmoys.drawable_triangulation_completion_a8cccb55
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T13:14:32.129657+00:00
 -- url     : https://prove2.me/theorems/a360d65d-be6d-4f06-9256-c282a404573b

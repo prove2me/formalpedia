@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_edge_count_upper_bound
 -- name    : WilliamsonShmoys.drawable_edge_count_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:05:40.211004+00:00
 -- url     : https://prove2.me/theorems/cde84d52-afde-4ca1-ab9c-5b2c8d4a1a21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubscriptionPlanning_GrandOptimal_lemma_4
 -- name    : SubscriptionPlanning.GrandOptimal.lemma_4
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:11.941641+00:00
 -- url     : https://prove2.me/theorems/8556b392-d7f2-4ee2-8159-f20318d69ae9

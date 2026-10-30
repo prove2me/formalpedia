@@ -4807,12 +4807,8 @@
 {"parent": "AdWordsMSVV.Tradeoff.theorem_8", "child": "AdWordsMSVV_Tradeoff_Setting", "via": ["solution", "statement"]}
 {"parent": "AdaGrad.Diag.eq_13", "child": "AdaGrad_Diag_Setup", "via": ["solution", "statement"]}
 {"parent": "AdaGrad.Diag.eq_14", "child": "AdaGrad_Diag_Setup", "via": ["solution", "statement"]}
-{"parent": "AdaGrad.Diag.lemma_16", "child": "AdaGrad_Diag_Setup", "via": ["solution", "statement"]}
 {"parent": "AdaGrad.Diag.lemma_4", "child": "AdaGrad_Diag_Setup", "via": ["solution", "statement"]}
 {"parent": "AdaGrad.Diag.primal_dual_gradient_term", "child": "AdaGrad_Diag_Setup", "via": ["solution", "statement"]}
-{"parent": "AdaGrad.Diag.proposition_2", "child": "AdaGrad_Diag_Setup", "via": ["solution", "statement"]}
-{"parent": "AdaGrad.Diag.proposition_3", "child": "AdaGrad_Diag_Setup", "via": ["solution", "statement"]}
-{"parent": "AdaGrad.Diag.theorem_5", "child": "AdaGrad_Diag_Setup", "via": ["solution", "statement"]}
 {"parent": "AdaGrad.Full.display_bregman_increment", "child": "AdaGrad_Full_Algorithm2", "via": ["solution", "statement"]}
 {"parent": "AdaGrad.Full.eq_16", "child": "AdaGrad_Full_Algorithm2", "via": ["solution", "statement"]}
 {"parent": "AdaGrad.Full.eq_17", "child": "AdaGrad_Full_Algorithm2", "via": ["statement"]}
@@ -5899,8 +5895,6 @@
 {"parent": "AlgMechDesign.Rounding.ghat_is_makespan", "child": "AlgMechDesign_Rounding_Model", "via": ["solution", "statement"]}
 {"parent": "AlgMechDesign.Rounding.rounded_opt_approx", "child": "AlgMechDesign_Rounding_Mechanism", "via": ["solution"]}
 {"parent": "AlgMechDesign.Rounding.rounded_opt_approx", "child": "AlgMechDesign_Rounding_Model", "via": ["solution", "statement"]}
-{"parent": "AlgMechDesign.Rounding.rounding_mechanism_truthful_approx", "child": "AlgMechDesign_Rounding_Mechanism", "via": ["solution", "statement"]}
-{"parent": "AlgMechDesign.Rounding.rounding_mechanism_truthful_approx", "child": "AlgMechDesign_Rounding_Model", "via": ["solution", "statement"]}
 {"parent": "AlgMechDesign.Rounding.rounds_like_truth_approx", "child": "AlgMechDesign_Rounding_Mechanism", "via": ["solution", "statement"]}
 {"parent": "AlgMechDesign.Rounding.rounds_like_truth_approx", "child": "AlgMechDesign_Rounding_Model", "via": ["solution", "statement"]}
 {"parent": "AlgMechDesign.Rounding.rounds_like_truth_dominant", "child": "AlgMechDesign_Rounding_Mechanism", "via": ["solution", "statement"]}
@@ -75025,8 +75019,8 @@
 {"parent": "AzumaWeightedSums.IteratedLog.max_tail_le", "child": "AzumaWeightedSums_IteratedLog_WeightedSums", "via": ["solution", "statement"]}
 {"parent": "AzumaWeightedSums.IteratedLog.mgf_weightedSum_le", "child": "AzumaWeightedSums_IteratedLog_ClassG", "via": ["solution", "statement"]}
 {"parent": "AzumaWeightedSums.IteratedLog.mgf_weightedSum_le", "child": "AzumaWeightedSums_IteratedLog_WeightedSums", "via": ["solution", "statement"]}
-{"parent": "AzumaWeightedSums.IteratedLog.theorem2_limsup_le_one", "child": "AzumaWeightedSums_IteratedLog_ClassG", "via": ["statement"]}
-{"parent": "AzumaWeightedSums.IteratedLog.theorem2_limsup_le_one", "child": "AzumaWeightedSums_IteratedLog_WeightedSums", "via": ["statement"]}
+{"parent": "AzumaWeightedSums.IteratedLog.theorem2_limsup_le_one", "child": "AzumaWeightedSums_IteratedLog_ClassG", "via": ["solution", "statement"]}
+{"parent": "AzumaWeightedSums.IteratedLog.theorem2_limsup_le_one", "child": "AzumaWeightedSums_IteratedLog_WeightedSums", "via": ["solution", "statement"]}
 {"parent": "AzumaWeightedSums.Multiplicative.exp_bound", "child": "AzumaWeightedSums_Multiplicative_IsMultiplicativeSystem", "via": ["statement"]}
 {"parent": "AzumaWeightedSums.Multiplicative.exp_bound", "child": "AzumaWeightedSums_Multiplicative_WeightedSums", "via": ["statement"]}
 {"parent": "AzumaWeightedSums.Multiplicative.exp_series_summable", "child": "AzumaWeightedSums_Multiplicative_IsMultiplicativeSystem", "via": ["solution", "statement"]}
@@ -77006,12 +77000,10 @@
 {"parent": "BeckTeboulleMD.EMDA.lemma_4_1", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.one_step_4_21", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.optimality_4_16", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
-{"parent": "BeckTeboulleMD.EMDA.proposition_4_1", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.proposition_5_1_a", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.proposition_5_1_c", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.remark_5_1", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.theorem_4_1_a", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
-{"parent": "BeckTeboulleMD.EMDA.theorem_4_2", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.theorem_4_2_upper_bound", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BellRegret.Paradoxes.coexistence_insurance_gambling", "child": "BellRegret_Paradoxes_Model", "via": ["solution", "statement"]}
 {"parent": "BellRegret.Paradoxes.display11_of_ratio_strictMono", "child": "BellRegret_Paradoxes_Model", "via": ["solution", "statement"]}

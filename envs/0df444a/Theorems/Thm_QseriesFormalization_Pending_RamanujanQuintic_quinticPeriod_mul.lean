@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuintic_quinticPeriod_mul
 -- name    : QseriesFormalization.Pending.RamanujanQuintic.quinticPeriod_mul
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:49:05.99691+00:00
 -- url     : https://prove2.me/theorems/b9946115-5ecd-444e-b0a5-33ea3ecb0da3
 -- title:

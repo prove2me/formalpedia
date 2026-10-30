@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonRandomChoice_Assort_qip_mono_convex
 -- name    : NonRandomChoice.Assort.qip_mono_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:35.269181+00:00
 -- url     : https://prove2.me/theorems/c605cb57-4379-4316-b1ee-4cc139d04d82

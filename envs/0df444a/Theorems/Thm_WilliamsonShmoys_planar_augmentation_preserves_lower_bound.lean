@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_augmentation_preserves_lower_bound
 -- name    : WilliamsonShmoys.planar_augmentation_preserves_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T11:50:00.737057+00:00
 -- url     : https://prove2.me/theorems/61ae66c6-986d-4f07-8042-2c1fde16d2b8

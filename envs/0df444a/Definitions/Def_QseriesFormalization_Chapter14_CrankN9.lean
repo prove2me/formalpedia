@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter14_CrankN9
 -- name    : QseriesFormalization_Chapter14_CrankN9
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:28:19.776742+00:00
 -- url     : https://prove2.me/theorems/1f2603d9-cd9f-438e-989e-ce114945eb43
 -- title:

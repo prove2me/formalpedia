@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIII.Ch14Thm116.fMinusQ25PS_eq_qPochAPPS_25_25
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:52:31.526057+00:00
 -- url     : https://prove2.me/submissions/09bcd498-b386-4375-82b3-e9e344ba0658
 

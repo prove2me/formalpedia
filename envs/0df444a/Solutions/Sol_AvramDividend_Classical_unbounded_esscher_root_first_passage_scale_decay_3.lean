@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.unbounded_esscher_root_first_passage_scale_decay
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T21:17:11.873976+00:00
 -- url     : https://prove2.me/submissions/178fc5b7-6ff5-4a7f-992e-8bd792a12af7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Bochner.Basic
 import Theorems.Thm_AvramDividend_Classical_unbounded_corrected_exit_scale_identity

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch13RRCF.isUnit_rrcfDenomLHS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:42:35.586337+00:00
 -- url     : https://prove2.me/submissions/213641ad-0a94-4ada-ac5a-24f96a0c259e
 

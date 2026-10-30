@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch01_partitionGenFun_eq_euler_product
 -- name    : QseriesFormalization.Ch01.partitionGenFun_eq_euler_product
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:50:36.644143+00:00
 -- url     : https://prove2.me/theorems/5c5abc8a-f574-4613-9d8d-b2a115f132be
 -- title:

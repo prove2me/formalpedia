@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_continuousAt_jacobiProductOddFactor_zinv_shifted_tprod
 -- name    : QseriesFormalization.PartI.Ch04.continuousAt_jacobiProductOddFactor_zinv_shifted_tprod
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:27:45.207172+00:00
 -- url     : https://prove2.me/theorems/64bfde2f-8382-43a3-b168-773b8bdc7176
 -- title:

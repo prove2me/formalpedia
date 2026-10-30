@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BwSC_LowerBound_corollary_4
 -- name    : BwSC.LowerBound.corollary_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:35:01.167048+00:00
 -- url     : https://prove2.me/theorems/522dc7b3-2715-4489-b059-615c2a598214

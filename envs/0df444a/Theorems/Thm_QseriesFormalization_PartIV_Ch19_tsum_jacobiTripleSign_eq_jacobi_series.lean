@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_tsum_jacobiTripleSign_eq_jacobi_series
 -- name    : QseriesFormalization.PartIV.Ch19.tsum_jacobiTripleSign_eq_jacobi_series
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:01:26.418746+00:00
 -- url     : https://prove2.me/theorems/6dadb6b4-2cf8-466c-89d7-88c5cdbabb94
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_heat_extension_holder_estimates
 -- name    : EthierKurtz.heat_extension_holder_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:23:24.962585+00:00
 -- url     : https://prove2.me/theorems/f5821902-cab6-4e4d-b775-0aaeed32bed8

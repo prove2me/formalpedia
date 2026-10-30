@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_completion_for_maximal_edge_saturation_fa75ef82
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_completion_for_maximal_edge_saturation_fa75ef82
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:49:18.901381+00:00
 -- url     : https://prove2.me/theorems/e8ae6a5a-5a4c-4f53-9707-6853e31c2747

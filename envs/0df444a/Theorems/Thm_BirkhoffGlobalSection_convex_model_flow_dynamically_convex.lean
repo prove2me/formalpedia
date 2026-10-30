@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirkhoffGlobalSection_convex_model_flow_dynamically_convex
 -- name    : BirkhoffGlobalSection.convex_model_flow_dynamically_convex
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-28T03:19:22.651522+00:00
 -- url     : https://prove2.me/theorems/5f08e79b-87c2-4f82-8f2a-eb84c61aa622

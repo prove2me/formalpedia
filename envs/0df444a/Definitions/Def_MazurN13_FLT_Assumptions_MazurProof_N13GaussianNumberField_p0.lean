@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianNumberField_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianNumberField_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:15:45.889528+00:00
 -- url     : https://prove2.me/theorems/d0ad8ddf-e441-48b8-899f-9caba12d83a2
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefDemandLearning_SlowMoving_theorem_1
 -- name    : RefDemandLearning.SlowMoving.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:25:17.013014+00:00
 -- url     : https://prove2.me/theorems/e8888325-d1e9-468a-937b-20bfda6e3e35

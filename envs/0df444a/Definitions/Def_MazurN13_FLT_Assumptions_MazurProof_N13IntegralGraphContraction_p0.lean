@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralGraphContraction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralGraphContraction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:13:57.156153+00:00
 -- url     : https://prove2.me/theorems/16fdf887-8f75-4767-a530-c82e966f0968
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch02.summable_jacobiSeries_nat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:38:58.508734+00:00
 -- url     : https://prove2.me/submissions/b7cc9eb1-c29f-44bf-aa1a-e488772f75c7
 

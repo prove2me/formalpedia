@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.triangular_plus_pentagonal_ne_four
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:04:55.773112+00:00
 -- url     : https://prove2.me/submissions/e0545dca-5f1c-463b-a1b2-12a86f3eec40
 

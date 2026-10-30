@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_supergraph_with_euler_edge_count_0c08120b_590f_482f_88d1_cccf74679dd8
 -- name    : WilliamsonShmoys.drawable_supergraph_with_euler_edge_count_0c08120b_590f_482f_88d1_cccf74679dd8
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:15:04.060335+00:00
 -- url     : https://prove2.me/theorems/87a22553-dea2-4f4b-84fd-2bea87c50680

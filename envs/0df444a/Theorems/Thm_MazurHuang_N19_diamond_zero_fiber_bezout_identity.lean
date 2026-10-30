@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_diamond_zero_fiber_bezout_identity
 -- name    : MazurHuang.N19.diamond_zero_fiber_bezout_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:33.639873+00:00
 -- url     : https://prove2.me/theorems/ee842dbf-6f03-4735-9d40-1901f07ca50f
 -- title:

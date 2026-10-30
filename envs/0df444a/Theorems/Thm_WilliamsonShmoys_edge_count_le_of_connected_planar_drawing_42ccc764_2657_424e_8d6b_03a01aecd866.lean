@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_le_of_connected_planar_drawing_42ccc764_2657_424e_8d6b_03a01aecd866
 -- name    : WilliamsonShmoys.edge_count_le_of_connected_planar_drawing_42ccc764_2657_424e_8d6b_03a01aecd866
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T20:02:21.50361+00:00
 -- url     : https://prove2.me/theorems/fe97821b-5b47-41a4-8f5f-6e0ef25077bb

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch02_summable_jacobiSeries_nat
 -- name    : QseriesFormalization.PartI.Ch02.summable_jacobiSeries_nat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:20:16.787967+00:00
 -- url     : https://prove2.me/theorems/711fe292-e815-4181-a23b-b92fc14def31
 -- title:

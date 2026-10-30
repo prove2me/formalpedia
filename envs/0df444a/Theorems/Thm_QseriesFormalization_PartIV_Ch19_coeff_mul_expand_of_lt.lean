@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_coeff_mul_expand_of_lt
 -- name    : QseriesFormalization.PartIV.Ch19.coeff_mul_expand_of_lt
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:49:26.523917+00:00
 -- url     : https://prove2.me/theorems/2a444045-0acd-43a0-b6a5-77cdb19d18a5
 -- title:

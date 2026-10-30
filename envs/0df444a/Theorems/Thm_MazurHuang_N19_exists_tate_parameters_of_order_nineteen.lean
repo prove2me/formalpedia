@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_exists_tate_parameters_of_order_nineteen
 -- name    : MazurHuang.N19.exists_tate_parameters_of_order_nineteen
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T14:56:41.125191+00:00
 -- url     : https://prove2.me/theorems/513fbb87-3e42-4087-bda9-33129d179fc2
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_StringSumQ_mul_one_sub
 -- name    : QseriesFormalization.Ch10TwoVar.StringSumQ_mul_one_sub
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:53:23.395606+00:00
 -- url     : https://prove2.me/theorems/4cec9f7c-ba0c-483a-915e-272f491e74a0
 -- title:

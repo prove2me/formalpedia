@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_ArrayObjects_Object_Rolled_slot_conditional_exactness
 -- name    : OAI.Rokhlin.ArrayObjects.Object.Rolled.slot_conditional_exactness
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:45:08.784854+00:00
 -- url     : https://prove2.me/theorems/6206d193-e2b0-4305-b843-b27a4442293e

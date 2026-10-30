@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch03_qBinomialTheorem_chanForm
 -- name    : QseriesFormalization.PartI.Ch03.qBinomialTheorem_chanForm
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:21:51.913838+00:00
 -- url     : https://prove2.me/theorems/a2b8f782-986b-460d-a523-73bc9571f8ed
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_completion_same_vertex_set_7842deb4_e63b_4553_baf8_30586367a025
 -- name    : WilliamsonShmoys.planar_edge_count_completion_same_vertex_set_7842deb4_e63b_4553_baf8_30586367a025
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T13:57:56.730977+00:00
 -- url     : https://prove2.me/theorems/3179f37e-52aa-4ff6-9aa1-854963e13cc0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_bound_on_fixed_vertices
 -- name    : WilliamsonShmoys.maximal_planar_edge_bound_on_fixed_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:25:15.899515+00:00
 -- url     : https://prove2.me/theorems/fe727e98-c766-43aa-839c-f06290f1244e

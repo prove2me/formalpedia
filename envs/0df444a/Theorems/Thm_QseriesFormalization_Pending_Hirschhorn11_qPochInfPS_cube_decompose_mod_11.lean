@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_qPochInfPS_cube_decompose_mod_11
 -- name    : QseriesFormalization.Pending.Hirschhorn11.qPochInfPS_cube_decompose_mod_11
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:34:11.712185+00:00
 -- url     : https://prove2.me/theorems/aac9eb21-3c0b-4f8a-b53b-be84c1816380
 -- title:

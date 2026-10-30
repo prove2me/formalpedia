@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_eisP
 -- name    : RamanujanNotebooks_shared_eisP
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:18:21.52029+00:00
 -- url     : https://prove2.me/theorems/e714af7a-90e1-4bdd-a6f5-dc0ec8d73436
 -- title:

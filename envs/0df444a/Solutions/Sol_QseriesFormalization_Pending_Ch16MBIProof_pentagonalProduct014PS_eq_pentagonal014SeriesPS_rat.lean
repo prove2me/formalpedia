@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.pentagonalProduct014PS_eq_pentagonal014SeriesPS_rat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:14:59.625987+00:00
 -- url     : https://prove2.me/submissions/a0cf4791-63d1-402f-9bc7-0a7967fcc8ad
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.pentagonal023Exp_nonneg_int
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:59:58.348991+00:00
 -- url     : https://prove2.me/submissions/18b32612-2fc7-45ce-86ff-d73b22a25279
 

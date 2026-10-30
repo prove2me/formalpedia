@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_ellipticNome
 -- name    : RamanujanNotebooks_shared_ellipticNome
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:35:13.457278+00:00
 -- url     : https://prove2.me/theorems/52927081-2a45-4963-8e2d-d30294e287ae
 -- title:

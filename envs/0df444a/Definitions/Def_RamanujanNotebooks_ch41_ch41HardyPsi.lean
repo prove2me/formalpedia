@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch41_ch41HardyPsi
 -- name    : RamanujanNotebooks_ch41_ch41HardyPsi
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T15:53:36.603474+00:00
 -- url     : https://prove2.me/theorems/e4c7f30b-e1dd-4964-92e7-3f5d9605e43b
 -- title:

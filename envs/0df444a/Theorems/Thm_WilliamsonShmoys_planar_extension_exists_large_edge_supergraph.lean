@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_extension_exists_large_edge_supergraph
 -- name    : WilliamsonShmoys.planar_extension_exists_large_edge_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T11:43:11.495095+00:00
 -- url     : https://prove2.me/theorems/feafdeb8-087e-46ef-8af7-a56169435f6d

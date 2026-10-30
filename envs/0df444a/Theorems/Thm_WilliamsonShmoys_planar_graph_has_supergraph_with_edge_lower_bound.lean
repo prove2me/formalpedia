@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_supergraph_with_edge_lower_bound
 -- name    : WilliamsonShmoys.planar_graph_has_supergraph_with_edge_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:39:20.268933+00:00
 -- url     : https://prove2.me/theorems/2b497fc7-7fc6-42a1-a360-fe0b2de9ac74

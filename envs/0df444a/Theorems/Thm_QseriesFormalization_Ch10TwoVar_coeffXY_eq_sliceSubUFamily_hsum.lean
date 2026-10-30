@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_coeffXY_eq_sliceSubUFamily_hsum
 -- name    : QseriesFormalization.Ch10TwoVar.coeffXY_eq_sliceSubUFamily_hsum
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:57:06.433818+00:00
 -- url     : https://prove2.me/theorems/5184151a-7193-4036-9f87-584e2b815bcc
 -- title:

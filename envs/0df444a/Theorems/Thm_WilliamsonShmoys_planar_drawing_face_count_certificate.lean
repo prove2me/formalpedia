@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_count_certificate
 -- name    : WilliamsonShmoys.planar_drawing_face_count_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T09:39:05.604639+00:00
 -- url     : https://prove2.me/theorems/113e29a6-207c-4745-85d3-0c1876af3a03

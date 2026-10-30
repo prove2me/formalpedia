@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound_for_euler_counts_v2
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound_for_euler_counts_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:26:17.38406+00:00
 -- url     : https://prove2.me/theorems/c3178297-3c38-44ba-8503-4d1935f412a9

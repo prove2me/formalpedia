@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JordanCurve_arc_complement_at_most_two_regions
 -- name    : JordanCurve.arc_complement_at_most_two_regions
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-09-25T00:36:38.389011+00:00
 -- url     : https://prove2.me/theorems/19932e9c-5154-45ad-8576-604e8d04ad22

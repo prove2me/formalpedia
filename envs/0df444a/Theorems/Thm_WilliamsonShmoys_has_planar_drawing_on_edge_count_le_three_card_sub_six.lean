@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_has_planar_drawing_on_edge_count_le_three_card_sub_six
 -- name    : WilliamsonShmoys.has_planar_drawing_on_edge_count_le_three_card_sub_six
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T18:58:51.218966+00:00
 -- url     : https://prove2.me/theorems/caf89453-fefb-49cf-ad04-ba4468da8e18

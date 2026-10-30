@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_edge_bound_extension_fixed_vertex_type_5c9b79f9_9987_414e_a99c_5e863a94cdb9
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:06:49.649256+00:00
 -- url     : https://prove2.me/submissions/95085fb0-8b9e-4c5d-8c22-a772c1044906
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

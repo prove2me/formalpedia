@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPCA_Recovery_eq_2_4
 -- name    : RobustPCA.Recovery.eq_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:42:54.952223+00:00
 -- url     : https://prove2.me/theorems/0363db4b-316e-4cfb-9239-bca12d162ae2

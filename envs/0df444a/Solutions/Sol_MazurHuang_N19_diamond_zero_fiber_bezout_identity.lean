@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.diamond_zero_fiber_bezout_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T19:05:29.243693+00:00
 -- url     : https://prove2.me/submissions/15967b32-888f-45b8-aba7-a31110688953
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.normShellHSumByNorm_inter_filter_reindex_of_five_dvd
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:14:02.759303+00:00
 -- url     : https://prove2.me/submissions/b6880097-1cb2-49e3-bc75-d45ecbddf2b6
 

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.triangulated_euler_count_of_maximal
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T05:44:10.978043+00:00
 -- url     : https://prove2.me/submissions/f36fc88e-993e-4522-95c3-f3137fc1d04f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_count_for_euler_count_def6ae5e_bde9_4d7e_98ba_cdd8403c7813

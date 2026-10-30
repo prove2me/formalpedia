@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.shifted_chart_numerator_factorization
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:48:39.613151+00:00
 -- url     : https://prove2.me/submissions/757d3dc7-9711-40fb-95c4-fb9803330cf0
 

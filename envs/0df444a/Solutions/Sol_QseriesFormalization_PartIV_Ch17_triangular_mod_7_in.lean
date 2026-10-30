@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.triangular_mod_7_in
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:06:15.72911+00:00
 -- url     : https://prove2.me/submissions/724eb723-db42-40b4-826f-a991c6da9056
 

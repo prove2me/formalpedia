@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_hasPlanarDrawingOn_eulerData
 -- name    : WilliamsonShmoys.hasPlanarDrawingOn_eulerData
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:31:47.633875+00:00
 -- url     : https://prove2.me/theorems/ee668d5a-cece-412b-b4ca-fa597fcc222e

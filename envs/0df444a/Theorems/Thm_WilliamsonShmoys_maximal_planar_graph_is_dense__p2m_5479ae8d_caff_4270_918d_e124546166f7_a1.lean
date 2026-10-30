@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_is_dense__p2m_5479ae8d_caff_4270_918d_e124546166f7_a1
 -- name    : WilliamsonShmoys.maximal_planar_graph_is_dense__p2m_5479ae8d_caff_4270_918d_e124546166f7_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T22:34:08.847312+00:00
 -- url     : https://prove2.me/theorems/48acce6a-8f33-48c6-a9d8-ff0d2e5ac6c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound_augmentation_for_euler_bound
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound_augmentation_for_euler_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:20:55.508104+00:00
 -- url     : https://prove2.me/theorems/52aeed95-458e-46e0-ad35-c5b4fde8ed3c

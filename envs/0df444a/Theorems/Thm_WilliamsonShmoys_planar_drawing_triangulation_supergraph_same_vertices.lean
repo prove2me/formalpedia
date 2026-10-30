@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_supergraph_same_vertices
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_supergraph_same_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:30:22.481432+00:00
 -- url     : https://prove2.me/theorems/11e39700-d6db-44d6-8025-90a84f6dc502

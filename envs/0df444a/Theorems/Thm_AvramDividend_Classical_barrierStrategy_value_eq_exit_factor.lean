@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierStrategy_value_eq_exit_factor
 -- name    : AvramDividend.Classical.barrierStrategy_value_eq_exit_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T18:29:03.640462+00:00
 -- url     : https://prove2.me/theorems/870df5c1-832c-45e2-ab50-320b83ed39af

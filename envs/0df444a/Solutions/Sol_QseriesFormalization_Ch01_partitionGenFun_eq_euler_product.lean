@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch01.partitionGenFun_eq_euler_product
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:19:18.168853+00:00
 -- url     : https://prove2.me/submissions/babc883c-7f1e-4264-b740-b7ef170529a0
 

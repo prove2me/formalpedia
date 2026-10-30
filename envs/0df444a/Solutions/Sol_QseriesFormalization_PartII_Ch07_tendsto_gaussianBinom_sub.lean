@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.tendsto_gaussianBinom_sub
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:03:24.152679+00:00
 -- url     : https://prove2.me/submissions/19bea0ee-3f66-4e48-b848-d4e1f0216fb3
 

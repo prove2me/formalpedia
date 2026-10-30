@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_edge_count_upper_bound
 -- name    : WilliamsonShmoys.maximal_drawing_edge_count_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:10:10.40272+00:00
 -- url     : https://prove2.me/theorems/a67f12a4-d905-496e-b2ba-b71bf100c45a

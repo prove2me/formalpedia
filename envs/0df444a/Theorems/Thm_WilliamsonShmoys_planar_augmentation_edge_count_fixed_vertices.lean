@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_augmentation_edge_count_fixed_vertices
 -- name    : WilliamsonShmoys.planar_augmentation_edge_count_fixed_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:35:06.836396+00:00
 -- url     : https://prove2.me/theorems/d59862b3-4e99-4fc0-bdea-a0a653d282d8

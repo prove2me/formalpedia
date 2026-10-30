@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_triangulation_extension_edge_count_1bb3a12b_18f2_4a01_afbb_d45898a830ec
 -- name    : WilliamsonShmoys.planar_drawing_connected_triangulation_extension_edge_count_1bb3a12b_18f2_4a01_afbb_d45898a830ec
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:37:31.214029+00:00
 -- url     : https://prove2.me/theorems/5ed61c52-02e6-498b-bd86-a784d0948c04

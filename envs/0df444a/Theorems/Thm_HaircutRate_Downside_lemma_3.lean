@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HaircutRate_Downside_lemma_3
 -- name    : HaircutRate.Downside.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:57:23.414999+00:00
 -- url     : https://prove2.me/theorems/870eb8b6-6fe4-416f-ae19-830d543aace0

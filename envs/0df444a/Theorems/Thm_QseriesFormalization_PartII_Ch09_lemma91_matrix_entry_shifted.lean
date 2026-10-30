@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch09_lemma91_matrix_entry_shifted
 -- name    : QseriesFormalization.PartII.Ch09.lemma91_matrix_entry_shifted
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:31:19.422242+00:00
 -- url     : https://prove2.me/theorems/17c094fa-3b50-4623-8802-deb266a06431
 -- title:

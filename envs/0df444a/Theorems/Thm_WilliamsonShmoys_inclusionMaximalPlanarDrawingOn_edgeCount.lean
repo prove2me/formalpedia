@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_inclusionMaximalPlanarDrawingOn_edgeCount
 -- name    : WilliamsonShmoys.inclusionMaximalPlanarDrawingOn_edgeCount
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:42:56.112789+00:00
 -- url     : https://prove2.me/theorems/b481bed5-ada8-42d0-8959-ea426f80fe65

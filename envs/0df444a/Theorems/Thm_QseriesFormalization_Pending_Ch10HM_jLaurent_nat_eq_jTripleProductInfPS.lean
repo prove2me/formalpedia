@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_jLaurent_nat_eq_jTripleProductInfPS
 -- name    : QseriesFormalization.Pending.Ch10HM.jLaurent_nat_eq_jTripleProductInfPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:48:53.043263+00:00
 -- url     : https://prove2.me/theorems/49880a6b-df96-4d33-a608-fc0966ad6796
 -- title:

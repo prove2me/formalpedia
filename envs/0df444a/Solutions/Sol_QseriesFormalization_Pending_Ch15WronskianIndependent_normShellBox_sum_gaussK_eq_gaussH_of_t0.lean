@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.normShellBox_sum_gaussK_eq_gaussH_of_t0
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:28:28.631364+00:00
 -- url     : https://prove2.me/submissions/3b676c47-161c-4fc5-b4bc-b7c5f7969796
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SymmetricSquareTwo_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SymmetricSquareTwo_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:53:16.699868+00:00
 -- url     : https://prove2.me/theorems/ee408ff7-eded-46af-91b1-09d2c86e658c
 -- title:

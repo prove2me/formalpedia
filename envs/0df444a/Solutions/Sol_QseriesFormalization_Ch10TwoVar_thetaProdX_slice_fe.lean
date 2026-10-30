@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.thetaProdX_slice_fe
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:37:07.095649+00:00
 -- url     : https://prove2.me/submissions/7a8a7b4e-f651-49eb-8eab-7701d6c3bb64
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch09_ch09Lambda
 -- name    : RamanujanLostNotebook_PartII_ch09_ch09Lambda
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T11:09:03.404127+00:00
 -- url     : https://prove2.me/theorems/dc20e845-ff68-486e-86c6-4f923a6ace5f
 -- title:

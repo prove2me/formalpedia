@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_extension_fixed_vertex_0e6cbe52_e2e3_41cf_80dc_2d34dacc7938
 -- name    : WilliamsonShmoys.planar_triangulation_extension_fixed_vertex_0e6cbe52_e2e3_41cf_80dc_2d34dacc7938
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T23:21:22.989369+00:00
 -- url     : https://prove2.me/theorems/c27addfb-131a-4167-b7de-c130c93bb2da

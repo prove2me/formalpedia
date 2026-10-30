@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesRebate_NoIncreasing_eq_9
 -- name    : SalesRebate.NoIncreasing.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:20.976009+00:00
 -- url     : https://prove2.me/theorems/2cd5bdd0-81fe-44a7-933f-459d90a3a5c1

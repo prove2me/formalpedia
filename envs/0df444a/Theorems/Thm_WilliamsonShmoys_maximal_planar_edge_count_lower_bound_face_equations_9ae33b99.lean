@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_lower_bound_face_equations_9ae33b99
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_lower_bound_face_equations_9ae33b99
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T05:50:49.832417+00:00
 -- url     : https://prove2.me/theorems/09e79c63-e21c-48cc-8d84-f87d06d25208

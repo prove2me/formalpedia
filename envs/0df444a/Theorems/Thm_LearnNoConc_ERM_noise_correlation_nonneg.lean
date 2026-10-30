@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnNoConc_ERM_noise_correlation_nonneg
 -- name    : LearnNoConc.ERM.noise_correlation_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:50:32.675407+00:00
 -- url     : https://prove2.me/theorems/6e3a7578-84fa-408b-8597-caa51815b2d1

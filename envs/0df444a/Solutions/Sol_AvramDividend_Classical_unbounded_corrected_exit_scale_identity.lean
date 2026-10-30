@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.unbounded_corrected_exit_scale_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T10:36:46.966994+00:00
 -- url     : https://prove2.me/submissions/5e4dd88a-117a-4d52-a4b6-7e2db96c7cb1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Lebesgue.Basic
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

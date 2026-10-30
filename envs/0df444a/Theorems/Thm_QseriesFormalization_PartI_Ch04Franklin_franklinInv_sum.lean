@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04Franklin_franklinInv_sum
 -- name    : QseriesFormalization.PartI.Ch04Franklin.franklinInv_sum
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:26:25.990335+00:00
 -- url     : https://prove2.me/theorems/e2194023-78f8-4832-8f1f-6bf7d2d0ebe4
 -- title:

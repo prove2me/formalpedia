@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPEPricing_Regret_round_count
 -- name    : SLPEPricing.Regret.round_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:33:19.832623+00:00
 -- url     : https://prove2.me/theorems/0f937394-a248-4f08-9652-2b2915798e8b

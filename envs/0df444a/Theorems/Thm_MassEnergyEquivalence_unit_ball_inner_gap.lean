@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_unit_ball_inner_gap
 -- name    : MassEnergyEquivalence.unit_ball_inner_gap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-11T08:44:42.196119+00:00
 -- url     : https://prove2.me/theorems/da664ce7-f299-46a5-b903-9823f169cd2d

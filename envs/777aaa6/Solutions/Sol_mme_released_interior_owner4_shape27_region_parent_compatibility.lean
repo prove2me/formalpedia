@@ -1,0 +1,329 @@
+-- Prove2me | solution 1 for mme_released_interior_owner4_shape27_region_parent_compatibility
+-- status  : ACCEPTED   (prove)
+-- author  : @fizzyinc3
+-- created : 2026-10-29T07:46:42.641992+00:00
+-- url     : https://prove2.me/submissions/dbdaf504-8b3f-4be4-976b-7e5cffab17e4
+
+import Theorems.Thm_mme_rational_parent_compatibility_certificate
+import Definitions.Def_mme_released_interior_integer_profiles
+
+open scoped BigOperators
+open MME MME.RegionRate MME.RegionRealization MME.RecursiveYZ MME.ReleasedInterior
+open MME.CompleteSplit
+
+private def wordIndex (w : CompleteWord 2) : ℕ := 3 * (w 0).val + (w 1).val
+
+private def parentExponent_s27_r0_i0 (w : Fin 2 → CompleteWord 2) : ℕ :=
+  [0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 0, 7, 0, 2, 0, 7, 0, 0, 0, 7, 0, 7, 0, 0, 0, 0, 0, 0, 0, 7, 0, 2, 0, 7, 0, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].getD (9 * wordIndex (w 0) + wordIndex (w 1)) 0
+
+private def compatibilityExponent_s27_r0_i0
+    (t : MME.ReleasedInterior.Split 27 ⊕ Fin 5)
+    (w : CompleteWord 2) : ℕ :=
+  match t with
+  | Sum.inl c =>
+    ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 4, 0, 0, 0, 4, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 1, 0, 1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD ((seed 4 27).splits.idxOf (sourceShape 4 c)) []).getD
+      (wordIndex w) 0
+  | Sum.inr j => ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 5, 0, 0, 0, 5, 0, 0], [0, 0, 0, 0, 0, 1, 0, 1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD j.val []).getD (wordIndex w) 0
+
+private theorem region_s27_r0_i0 :
+    (2 / 5 : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 1) 0) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 0 ⟨0, c⟩)
+          (fun c => c.val (yzMode 0))
+          (fun c w => integerProfile 4 27 1 ⟨0, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 0) := by
+  have h := mme_rational_parent_compatibility_certificate (parent_total 27)
+    (regionalSize 4 27) (splitCount 4 27) (integerProfile 4 27 1)
+    0 0 parentExponent_s27_r0_i0 compatibilityExponent_s27_r0_i0 (2 / 5)
+  have hc : ((2 / 5 : ℚ) : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 1) 0) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 0 ⟨0, c⟩)
+          (fun c => c.val (yzMode 0))
+          (fun c w => integerProfile 4 27 1 ⟨0, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 0) := by
+    apply h
+    decide +kernel
+  simpa only [Rat.cast_div, Rat.cast_ofNat] using hc
+
+private def parentExponent_s27_r0_i1 (w : Fin 2 → CompleteWord 2) : ℕ :=
+  [0, 0, 8, 0, 3, 0, 8, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].getD (9 * wordIndex (w 0) + wordIndex (w 1)) 0
+
+private def compatibilityExponent_s27_r0_i1
+    (t : MME.ReleasedInterior.Split 27 ⊕ Fin 5)
+    (w : CompleteWord 2) : ℕ :=
+  match t with
+  | Sum.inl c =>
+    ([[0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 4, 0, 0, 0, 4, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 4, 0, 0, 0, 4, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0]].getD ((seed 4 27).splits.idxOf (sourceShape 4 c)) []).getD
+      (wordIndex w) 0
+  | Sum.inr j => ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 6, 0, 0, 0, 6, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD j.val []).getD (wordIndex w) 0
+
+private theorem region_s27_r0_i1 :
+    (2 / 5 : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 2) 0) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 1 ⟨0, c⟩)
+          (fun c => c.val (yzMode 1))
+          (fun c w => integerProfile 4 27 2 ⟨0, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 0) := by
+  have h := mme_rational_parent_compatibility_certificate (parent_total 27)
+    (regionalSize 4 27) (splitCount 4 27) (integerProfile 4 27 2)
+    1 0 parentExponent_s27_r0_i1 compatibilityExponent_s27_r0_i1 (2 / 5)
+  have hc : ((2 / 5 : ℚ) : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 2) 0) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 1 ⟨0, c⟩)
+          (fun c => c.val (yzMode 1))
+          (fun c w => integerProfile 4 27 2 ⟨0, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 0) := by
+    apply h
+    decide +kernel
+  simpa only [Rat.cast_div, Rat.cast_ofNat] using hc
+
+private def parentExponent_s27_r1_i0 (w : Fin 2 → CompleteWord 2) : ℕ :=
+  [0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 0, 7, 0, 2, 0, 7, 0, 0, 0, 7, 0, 7, 0, 0, 0, 0, 0, 0, 0, 7, 0, 2, 0, 7, 0, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].getD (9 * wordIndex (w 0) + wordIndex (w 1)) 0
+
+private def compatibilityExponent_s27_r1_i0
+    (t : MME.ReleasedInterior.Split 27 ⊕ Fin 5)
+    (w : CompleteWord 2) : ℕ :=
+  match t with
+  | Sum.inl c =>
+    ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 4, 0, 0, 0, 4, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 1, 0, 1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD ((seed 4 27).splits.idxOf (sourceShape 4 c)) []).getD
+      (wordIndex w) 0
+  | Sum.inr j => ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 5, 0, 0, 0, 5, 0, 0], [0, 0, 0, 0, 0, 1, 0, 1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD j.val []).getD (wordIndex w) 0
+
+private theorem region_s27_r1_i0 :
+    (2 / 5 : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 1) 1) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 0 ⟨1, c⟩)
+          (fun c => c.val (yzMode 0))
+          (fun c w => integerProfile 4 27 1 ⟨1, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 1) := by
+  have h := mme_rational_parent_compatibility_certificate (parent_total 27)
+    (regionalSize 4 27) (splitCount 4 27) (integerProfile 4 27 1)
+    0 1 parentExponent_s27_r1_i0 compatibilityExponent_s27_r1_i0 (2 / 5)
+  have hc : ((2 / 5 : ℚ) : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 1) 1) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 0 ⟨1, c⟩)
+          (fun c => c.val (yzMode 0))
+          (fun c w => integerProfile 4 27 1 ⟨1, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 1) := by
+    apply h
+    decide +kernel
+  simpa only [Rat.cast_div, Rat.cast_ofNat] using hc
+
+private def parentExponent_s27_r1_i1 (w : Fin 2 → CompleteWord 2) : ℕ :=
+  [0, 0, 8, 0, 2, 0, 8, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].getD (9 * wordIndex (w 0) + wordIndex (w 1)) 0
+
+private def compatibilityExponent_s27_r1_i1
+    (t : MME.ReleasedInterior.Split 27 ⊕ Fin 5)
+    (w : CompleteWord 2) : ℕ :=
+  match t with
+  | Sum.inl c =>
+    ([[0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 5, 0, 0, 0, 5, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 4, 0, 0, 0, 4, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0]].getD ((seed 4 27).splits.idxOf (sourceShape 4 c)) []).getD
+      (wordIndex w) 0
+  | Sum.inr j => ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 6, 0, 0, 0, 6, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD j.val []).getD (wordIndex w) 0
+
+private theorem region_s27_r1_i1 :
+    (2 / 5 : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 2) 1) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 1 ⟨1, c⟩)
+          (fun c => c.val (yzMode 1))
+          (fun c w => integerProfile 4 27 2 ⟨1, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 1) := by
+  have h := mme_rational_parent_compatibility_certificate (parent_total 27)
+    (regionalSize 4 27) (splitCount 4 27) (integerProfile 4 27 2)
+    1 1 parentExponent_s27_r1_i1 compatibilityExponent_s27_r1_i1 (2 / 5)
+  have hc : ((2 / 5 : ℚ) : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 2) 1) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 1 ⟨1, c⟩)
+          (fun c => c.val (yzMode 1))
+          (fun c w => integerProfile 4 27 2 ⟨1, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 1) := by
+    apply h
+    decide +kernel
+  simpa only [Rat.cast_div, Rat.cast_ofNat] using hc
+
+private def parentExponent_s27_r4_i0 (w : Fin 2 → CompleteWord 2) : ℕ :=
+  [0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 0, 7, 0, 2, 0, 7, 0, 0, 0, 7, 0, 7, 0, 0, 0, 0, 0, 0, 0, 7, 0, 2, 0, 7, 0, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].getD (9 * wordIndex (w 0) + wordIndex (w 1)) 0
+
+private def compatibilityExponent_s27_r4_i0
+    (t : MME.ReleasedInterior.Split 27 ⊕ Fin 5)
+    (w : CompleteWord 2) : ℕ :=
+  match t with
+  | Sum.inl c =>
+    ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 4, 0, 0, 0, 4, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 1, 0, 1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD ((seed 4 27).splits.idxOf (sourceShape 4 c)) []).getD
+      (wordIndex w) 0
+  | Sum.inr j => ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 7, 0, 0, 0, 7, 0, 0], [0, 0, 0, 0, 0, 1, 0, 1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD j.val []).getD (wordIndex w) 0
+
+private theorem region_s27_r4_i0 :
+    (2 / 5 : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 1) 4) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 0 ⟨4, c⟩)
+          (fun c => c.val (yzMode 0))
+          (fun c w => integerProfile 4 27 1 ⟨4, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 4) := by
+  have h := mme_rational_parent_compatibility_certificate (parent_total 27)
+    (regionalSize 4 27) (splitCount 4 27) (integerProfile 4 27 1)
+    0 4 parentExponent_s27_r4_i0 compatibilityExponent_s27_r4_i0 (2 / 5)
+  have hc : ((2 / 5 : ℚ) : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 1) 4) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 0 ⟨4, c⟩)
+          (fun c => c.val (yzMode 0))
+          (fun c w => integerProfile 4 27 1 ⟨4, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 4) := by
+    apply h
+    decide +kernel
+  simpa only [Rat.cast_div, Rat.cast_ofNat] using hc
+
+private def parentExponent_s27_r4_i1 (w : Fin 2 → CompleteWord 2) : ℕ :=
+  [0, 0, 8, 0, 2, 0, 8, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].getD (9 * wordIndex (w 0) + wordIndex (w 1)) 0
+
+private def compatibilityExponent_s27_r4_i1
+    (t : MME.ReleasedInterior.Split 27 ⊕ Fin 5)
+    (w : CompleteWord 2) : ℕ :=
+  match t with
+  | Sum.inl c =>
+    ([[0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 4, 0, 0, 0, 4, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 5, 0, 0, 0, 5, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0]].getD ((seed 4 27).splits.idxOf (sourceShape 4 c)) []).getD
+      (wordIndex w) 0
+  | Sum.inr j => ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 6, 0, 0, 0, 6, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD j.val []).getD (wordIndex w) 0
+
+private theorem region_s27_r4_i1 :
+    (2 / 5 : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 2) 4) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 1 ⟨4, c⟩)
+          (fun c => c.val (yzMode 1))
+          (fun c w => integerProfile 4 27 2 ⟨4, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 4) := by
+  have h := mme_rational_parent_compatibility_certificate (parent_total 27)
+    (regionalSize 4 27) (splitCount 4 27) (integerProfile 4 27 2)
+    1 4 parentExponent_s27_r4_i1 compatibilityExponent_s27_r4_i1 (2 / 5)
+  have hc : ((2 / 5 : ℚ) : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 2) 4) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 1 ⟨4, c⟩)
+          (fun c => c.val (yzMode 1))
+          (fun c w => integerProfile 4 27 2 ⟨4, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 4) := by
+    apply h
+    decide +kernel
+  simpa only [Rat.cast_div, Rat.cast_ofNat] using hc
+
+private def parentExponent_s27_r5_i0 (w : Fin 2 → CompleteWord 2) : ℕ :=
+  [0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 0, 8, 0, 2, 0, 8, 0, 0, 0, 8, 0, 8, 0, 0, 0, 0, 0, 0, 0, 8, 0, 2, 0, 8, 0, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 8, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].getD (9 * wordIndex (w 0) + wordIndex (w 1)) 0
+
+private def compatibilityExponent_s27_r5_i0
+    (t : MME.ReleasedInterior.Split 27 ⊕ Fin 5)
+    (w : CompleteWord 2) : ℕ :=
+  match t with
+  | Sum.inl c =>
+    ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 4, 0, 0, 0, 4, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 1, 0, 1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD ((seed 4 27).splits.idxOf (sourceShape 4 c)) []).getD
+      (wordIndex w) 0
+  | Sum.inr j => ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 9, 0, 0, 0, 9, 0, 0], [0, 0, 0, 0, 0, 1, 0, 1, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD j.val []).getD (wordIndex w) 0
+
+private theorem region_s27_r5_i0 :
+    (2 / 5 : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 1) 5) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 0 ⟨5, c⟩)
+          (fun c => c.val (yzMode 0))
+          (fun c w => integerProfile 4 27 1 ⟨5, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 5) := by
+  have h := mme_rational_parent_compatibility_certificate (parent_total 27)
+    (regionalSize 4 27) (splitCount 4 27) (integerProfile 4 27 1)
+    0 5 parentExponent_s27_r5_i0 compatibilityExponent_s27_r5_i0 (2 / 5)
+  have hc : ((2 / 5 : ℚ) : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 1) 5) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 0 ⟨5, c⟩)
+          (fun c => c.val (yzMode 0))
+          (fun c w => integerProfile 4 27 1 ⟨5, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 5) := by
+    apply h
+    decide +kernel
+  simpa only [Rat.cast_div, Rat.cast_ofNat] using hc
+
+private def parentExponent_s27_r5_i1 (w : Fin 2 → CompleteWord 2) : ℕ :=
+  [0, 0, 8, 0, 3, 0, 8, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].getD (9 * wordIndex (w 0) + wordIndex (w 1)) 0
+
+private def compatibilityExponent_s27_r5_i1
+    (t : MME.ReleasedInterior.Split 27 ⊕ Fin 5)
+    (w : CompleteWord 2) : ℕ :=
+  match t with
+  | Sum.inl c =>
+    ([[0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 4, 0, 0, 0, 4, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 4, 0, 0, 0, 4, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0]].getD ((seed 4 27).splits.idxOf (sourceShape 4 c)) []).getD
+      (wordIndex w) 0
+  | Sum.inr j => ([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 1, 0, 1, 0, 0, 0, 0, 0], [0, 0, 6, 0, 0, 0, 6, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]].getD j.val []).getD (wordIndex w) 0
+
+private theorem region_s27_r5_i1 :
+    (2 / 5 : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 2) 5) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 1 ⟨5, c⟩)
+          (fun c => c.val (yzMode 1))
+          (fun c w => integerProfile 4 27 2 ⟨5, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 5) := by
+  have h := mme_rational_parent_compatibility_certificate (parent_total 27)
+    (regionalSize 4 27) (splitCount 4 27) (integerProfile 4 27 2)
+    1 5 parentExponent_s27_r5_i1 compatibilityExponent_s27_r5_i1 (2 / 5)
+  have hc : ((2 / 5 : ℚ) : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 2) 5) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) 1 ⟨5, c⟩)
+          (fun c => c.val (yzMode 1))
+          (fun c w => integerProfile 4 27 2 ⟨5, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 5) := by
+    apply h
+    decide +kernel
+  simpa only [Rat.cast_div, Rat.cast_ofNat] using hc
+
+theorem solution
+    (r : Fin 6) (i : Fin 2)
+    (hn : 0 < (seed 4 27).region.getD r.val 0) :
+    (2 / 5 : ℝ) ≤
+      entropy (parentMixture (parent_total 27) (regionalSize 4 27)
+        (splitCount 4 27) (integerProfile 4 27 (yzMode i)) r) -
+      ∑ t, massEntropy (fun w =>
+        (partCount (fun c => yzBoundary (parent := parent 27) i ⟨r, c⟩)
+          (fun c => c.val (yzMode i))
+          (fun c w => integerProfile 4 27 (yzMode i) ⟨r, c⟩ w) t w : ℝ) /
+        regionalSize 4 27 r) := by
+  fin_cases r
+  · fin_cases i
+    · exact region_s27_r0_i0
+    · exact region_s27_r0_i1
+  · fin_cases i
+    · exact region_s27_r1_i0
+    · exact region_s27_r1_i1
+  · exact absurd hn (by decide +kernel)
+  · exact absurd hn (by decide +kernel)
+  · fin_cases i
+    · exact region_s27_r4_i0
+    · exact region_s27_r4_i1
+  · fin_cases i
+    · exact region_s27_r5_i0
+    · exact region_s27_r5_i1

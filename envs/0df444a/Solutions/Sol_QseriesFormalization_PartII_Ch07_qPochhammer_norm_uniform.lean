@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.qPochhammer_norm_uniform
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:02:09.357205+00:00
 -- url     : https://prove2.me/submissions/b29400e3-c64c-4ae3-a891-b7445625c589
 

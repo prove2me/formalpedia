@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_bound_for_face_accounting_57972424
 -- name    : WilliamsonShmoys.planar_edge_bound_for_face_accounting_57972424
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:40:23.59151+00:00
 -- url     : https://prove2.me/theorems/9b1de031-9f3a-4b12-85af-57ed9adde3d2

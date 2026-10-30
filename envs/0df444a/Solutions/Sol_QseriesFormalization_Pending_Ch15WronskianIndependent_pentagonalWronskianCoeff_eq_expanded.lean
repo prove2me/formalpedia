@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.pentagonalWronskianCoeff_eq_expanded
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:52:53.208013+00:00
 -- url     : https://prove2.me/submissions/b612025a-e578-46ce-bf22-4aa7150de9ea
 

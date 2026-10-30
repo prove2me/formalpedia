@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.gaussK_piBar5_mul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:53:41.08891+00:00
 -- url     : https://prove2.me/submissions/48f37980-24bc-4010-9bbd-153d5fd7d85f
 

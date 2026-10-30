@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch07_divisorSigma
 -- name    : RamanujanLostNotebook_PartIII_ch07_divisorSigma
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:18:49.27634+00:00
 -- url     : https://prove2.me/theorems/fc3846a9-14f5-4c15-9495-8b9b82e5c8f4
 -- title:

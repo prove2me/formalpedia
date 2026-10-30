@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch09_ch09EulerRegular
 -- name    : RamanujanLostNotebook_PartII_ch09_ch09EulerRegular
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T11:06:14.335142+00:00
 -- url     : https://prove2.me/theorems/7e96a003-fe05-47ce-a426-becf362740a8
 -- title:

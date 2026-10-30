@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIII_Ch14Thm116_fMinusQ25PS_eq_qPochAPPS_25_25
 -- name    : QseriesFormalization.PartIII.Ch14Thm116.fMinusQ25PS_eq_qPochAPPS_25_25
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:14:25.934039+00:00
 -- url     : https://prove2.me/theorems/4e50a531-1068-49b9-b20d-77b9de08d63f
 -- title:

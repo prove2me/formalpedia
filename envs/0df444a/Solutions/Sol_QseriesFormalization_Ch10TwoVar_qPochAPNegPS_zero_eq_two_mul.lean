@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.qPochAPNegPS_zero_eq_two_mul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:30:01.97872+00:00
 -- url     : https://prove2.me/submissions/bb8a2ece-a0d4-4d3b-8cfc-943ecbe264b1
 

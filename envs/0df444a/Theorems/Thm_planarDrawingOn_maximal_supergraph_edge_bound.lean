@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planarDrawingOn_maximal_supergraph_edge_bound
 -- name    : planarDrawingOn_maximal_supergraph_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:38:11.362445+00:00
 -- url     : https://prove2.me/theorems/0f32b84e-1909-420f-8d03-c02b7d464669

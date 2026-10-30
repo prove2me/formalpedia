@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_normShellHSumByNorm_pi_reindex
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.normShellHSumByNorm_pi_reindex
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:16:59.749159+00:00
 -- url     : https://prove2.me/theorems/cdfeb3e3-ee5c-498f-a170-b4660b7a17a6
 -- title:

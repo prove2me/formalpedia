@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_supergraph_card_eq_three_n_sub_six
 -- name    : WilliamsonShmoys.exists_planar_supergraph_card_eq_three_n_sub_six
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T21:35:00.364377+00:00
 -- url     : https://prove2.me/theorems/34ab6217-99ed-4ad8-851a-598b74fb942c

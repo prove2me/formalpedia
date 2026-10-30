@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_count_completion_for_maximal_face_equations
 -- name    : WilliamsonShmoys.planar_drawing_edge_count_completion_for_maximal_face_equations
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:17:43.917619+00:00
 -- url     : https://prove2.me/theorems/5fea99b5-0454-49fd-813a-783ce0f19989

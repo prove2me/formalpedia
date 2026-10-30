@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicAbelChartData_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicAbelChartData_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:00:53.511001+00:00
 -- url     : https://prove2.me/theorems/f3c15244-47ac-48f8-83be-a2d4ae9c64d2
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarCompletionOn_card
 -- name    : WilliamsonShmoys.planarCompletionOn_card
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:36:24.160132+00:00
 -- url     : https://prove2.me/theorems/ccc1651f-d67f-4413-97b7-8b072e5530b3

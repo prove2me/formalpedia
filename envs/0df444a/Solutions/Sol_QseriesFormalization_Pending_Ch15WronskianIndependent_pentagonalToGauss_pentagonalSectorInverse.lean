@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.pentagonalToGauss_pentagonalSectorInverse
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:12:40.2955+00:00
 -- url     : https://prove2.me/submissions/7cc5278a-a497-41d6-b4f4-1d043cce46db
 

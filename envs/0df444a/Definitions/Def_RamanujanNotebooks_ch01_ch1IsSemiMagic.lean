@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch01_ch1IsSemiMagic
 -- name    : RamanujanNotebooks_ch01_ch1IsSemiMagic
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:11:01.70591+00:00
 -- url     : https://prove2.me/theorems/9f5e8cca-dadc-47e3-8e18-befa72a7f099
 -- title:

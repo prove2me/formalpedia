@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.good_dual_forward_vertical_coordinate
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:22:53.168171+00:00
 -- url     : https://prove2.me/submissions/d742b36b-654b-4915-8bdf-6ef1e5cdb995
 

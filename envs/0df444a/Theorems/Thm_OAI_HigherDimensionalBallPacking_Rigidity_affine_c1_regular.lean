@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HigherDimensionalBallPacking_Rigidity_affine_c1_regular
 -- name    : OAI.HigherDimensionalBallPacking.Rigidity.affine_c1_regular
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T16:42:15.14534+00:00
 -- url     : https://prove2.me/theorems/ae430dd8-f81d-476a-9479-2e5ef7f5317e

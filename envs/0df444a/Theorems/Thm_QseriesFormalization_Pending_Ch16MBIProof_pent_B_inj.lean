@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_pent_B_inj
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.pent_B_inj
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:25:30.472217+00:00
 -- url     : https://prove2.me/theorems/9722fe13-f612-4d45-a282-5e628a34bb1e
 -- title:

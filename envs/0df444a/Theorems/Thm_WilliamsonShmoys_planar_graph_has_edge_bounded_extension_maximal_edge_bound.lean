@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_edge_bounded_extension_maximal_edge_bound
 -- name    : WilliamsonShmoys.planar_graph_has_edge_bounded_extension_maximal_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T23:46:03.26192+00:00
 -- url     : https://prove2.me/theorems/f4cab8f1-36b2-49a4-9100-a8a3956b9d6e

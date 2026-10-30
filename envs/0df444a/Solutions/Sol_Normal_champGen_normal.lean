@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Normal.champGen_normal
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:29:36.038558+00:00
 -- url     : https://prove2.me/submissions/884e9314-4b0b-4614-9a77-c04ab702e340
 

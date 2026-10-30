@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_augmentation_bound_same_vertices
 -- name    : WilliamsonShmoys.planar_drawing_augmentation_bound_same_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:39:27.801624+00:00
 -- url     : https://prove2.me/theorems/23f6598a-3170-4674-aead-aee7adf41df1

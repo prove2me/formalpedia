@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_upper_bound_connected
 -- name    : WilliamsonShmoys.edge_upper_bound_connected
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:29:47.528184+00:00
 -- url     : https://prove2.me/theorems/b2651101-1aa0-4db8-8c6b-e2983a7a8cb2

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_StringSumQ_succ
 -- name    : QseriesFormalization.Ch10TwoVar.StringSumQ_succ
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:54:14.100539+00:00
 -- url     : https://prove2.me/theorems/bd8fa810-6d68-49f9-a59f-7ebc9b6770a1
 -- title:

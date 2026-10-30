@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.threeIsogeny35_dual_comp_eq_three_nsmul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:17:28.930578+00:00
 -- url     : https://prove2.me/submissions/837ab803-9a0a-4c29-b56f-efea3b295694
 

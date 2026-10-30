@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianCandidateDlog_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianCandidateDlog_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T23:18:39.67298+00:00
 -- url     : https://prove2.me/theorems/52e1ec01-f970-46f7-861d-d1cc08251c2a
 -- title:

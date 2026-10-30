@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_maximal_edge_count_repair_543ac5d4
 -- name    : WilliamsonShmoys.planar_drawing_maximal_edge_count_repair_543ac5d4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:06:50.539809+00:00
 -- url     : https://prove2.me/theorems/3aad0407-8baf-4dd2-8df6-3afd46b71d5c

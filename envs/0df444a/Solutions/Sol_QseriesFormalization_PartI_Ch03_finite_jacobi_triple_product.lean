@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch03.finite_jacobi_triple_product
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:26:46.494168+00:00
 -- url     : https://prove2.me/submissions/62bb1788-70ae-4107-b719-10e88b859f2a
 

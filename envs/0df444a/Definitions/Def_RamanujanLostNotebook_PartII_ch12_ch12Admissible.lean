@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch12_ch12Admissible
 -- name    : RamanujanLostNotebook_PartII_ch12_ch12Admissible
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:20:54.866268+00:00
 -- url     : https://prove2.me/theorems/70d14b3e-65b2-4ecb-8949-742438ff6699
 -- title:

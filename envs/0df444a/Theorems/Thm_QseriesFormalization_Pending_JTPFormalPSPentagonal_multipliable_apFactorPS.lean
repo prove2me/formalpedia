@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_multipliable_apFactorPS
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.multipliable_apFactorPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:33:15.950626+00:00
 -- url     : https://prove2.me/theorems/37628745-3ca6-46f2-8e54-30323bdeeb9d
 -- title:

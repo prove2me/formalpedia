@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierStrategy_value_eq_killed_exit_mul_supValue
 -- name    : AvramDividend.Classical.barrierStrategy_value_eq_killed_exit_mul_supValue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:11:05.476793+00:00
 -- url     : https://prove2.me/theorems/8fc83520-78bb-4a8c-a394-12b04a096b66

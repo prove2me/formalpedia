@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_sparse_graph_has_drawable_strict_extension__p2m_19289cd0_8bc0_4354_9e78_5126f5795da0_a2
 -- name    : WilliamsonShmoys.planar_sparse_graph_has_drawable_strict_extension__p2m_19289cd0_8bc0_4354_9e78_5126f5795da0_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:11:07.547417+00:00
 -- url     : https://prove2.me/theorems/5bb20037-ccd1-423f-b2f4-e98cccbfec38

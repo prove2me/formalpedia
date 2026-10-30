@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_CopyState_rational_conditional_round_drift
 -- name    : OAI.MetricKMedian.CopyState.rational_conditional_round_drift
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:29:46.196257+00:00
 -- url     : https://prove2.me/theorems/483e6621-df6f-4472-9c66-db28e94e8466

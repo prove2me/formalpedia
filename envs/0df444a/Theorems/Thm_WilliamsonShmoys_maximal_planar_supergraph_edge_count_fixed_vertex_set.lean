@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_supergraph_edge_count_fixed_vertex_set
 -- name    : WilliamsonShmoys.maximal_planar_supergraph_edge_count_fixed_vertex_set
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:47:33.892378+00:00
 -- url     : https://prove2.me/theorems/8988d4b7-1148-4c6d-a075-6122aca6f987

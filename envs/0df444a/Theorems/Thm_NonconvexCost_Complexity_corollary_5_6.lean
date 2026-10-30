@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexCost_Complexity_corollary_5_6
 -- name    : NonconvexCost.Complexity.corollary_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:09:48.546798+00:00
 -- url     : https://prove2.me/theorems/bd650fe1-8ee0-4c25-a59c-712a1296ed74

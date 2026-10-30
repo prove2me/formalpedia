@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_log_primeIntervalProduct_eq_theta_sub
 -- name    : ProofsInTheBook.Chapter03.log_primeIntervalProduct_eq_theta_sub
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-09-12T16:27:00.639039+00:00
 -- url     : https://prove2.me/theorems/21913ec7-c29f-4fef-a28c-e919d80e29f4
 -- title:

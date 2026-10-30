@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.eulerPentagonalInfiniteProduct_eq_tsum
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:09:14.213738+00:00
 -- url     : https://prove2.me/submissions/40767062-e3e9-4697-b2e1-af8c45a8f8fc
 

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_drawing_edge_lower_bound_for_counting
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:35:23.712816+00:00
 -- url     : https://prove2.me/submissions/d406f255-19fc-4ccd-901c-7268e1d9737d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_supergraph_with_exact_edge_count
 import Mathlib.Combinatorics.SimpleGraph.Basic

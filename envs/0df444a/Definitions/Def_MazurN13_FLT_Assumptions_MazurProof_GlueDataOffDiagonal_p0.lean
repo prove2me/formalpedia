@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_GlueDataOffDiagonal_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_GlueDataOffDiagonal_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:31:23.279976+00:00
 -- url     : https://prove2.me/theorems/7f5a3f99-dcce-4dbb-bec3-cb8ae63a1ad0
 -- title:

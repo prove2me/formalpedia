@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.good_three_multiple_infinitely_three_divisible
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:27:50.014306+00:00
 -- url     : https://prove2.me/submissions/aab0f994-51d3-4191-b65f-4862e77cb0b7
 

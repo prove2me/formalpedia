@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.coeff_pentagonalProduct023PS_eq_coeff_partial
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:10:34.870301+00:00
 -- url     : https://prove2.me/submissions/d6c5c686-c198-4af6-bece-7e2a583755cb
 

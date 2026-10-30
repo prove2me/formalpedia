@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.raw_chart_denominator_specialization
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:59:01.14377+00:00
 -- url     : https://prove2.me/submissions/1b1bb480-951c-45cd-90e6-21d8dbd1479a
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_tate_radial_polynomial_identity
 -- name    : MazurHuang.N19.tate_radial_polynomial_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:57.058652+00:00
 -- url     : https://prove2.me/theorems/bc3426f4-c1a0-4bf0-8833-762e43e76c94
 -- title:

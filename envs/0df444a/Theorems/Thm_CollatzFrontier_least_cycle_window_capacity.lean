@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_least_cycle_window_capacity
 -- name    : CollatzFrontier.least_cycle_window_capacity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:58:59.678908+00:00
 -- url     : https://prove2.me/theorems/190f9432-2f0d-49a4-9a03-05da87e148e7
 -- title:

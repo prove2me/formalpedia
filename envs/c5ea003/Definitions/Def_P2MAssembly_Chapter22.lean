@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_P2MAssembly_Chapter22
 -- name    : P2MAssembly_Chapter22
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-09-12T17:02:46.249921+00:00
 -- url     : https://prove2.me/theorems/79dcfcac-2de8-443b-9621-7c9668dff418
 -- title:

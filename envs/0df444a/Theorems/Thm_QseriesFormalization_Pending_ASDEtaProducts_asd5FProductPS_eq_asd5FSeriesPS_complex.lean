@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_ASDEtaProducts_asd5FProductPS_eq_asd5FSeriesPS_complex
 -- name    : QseriesFormalization.Pending.ASDEtaProducts.asd5FProductPS_eq_asd5FSeriesPS_complex
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:35:50.652647+00:00
 -- url     : https://prove2.me/theorems/7a64205e-b9bb-4766-9f4a-af33ba03eeae
 -- title:

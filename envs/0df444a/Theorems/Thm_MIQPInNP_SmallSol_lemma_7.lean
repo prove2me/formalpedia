@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIQPInNP_SmallSol_lemma_7
 -- name    : MIQPInNP.SmallSol.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:34:47.176251+00:00
 -- url     : https://prove2.me/theorems/fbc9ee49-3e84-4dee-b6cf-3d39ec12fd0f

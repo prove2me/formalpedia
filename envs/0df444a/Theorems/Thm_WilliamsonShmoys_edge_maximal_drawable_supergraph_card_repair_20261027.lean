@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_drawable_supergraph_card_repair_20261027
 -- name    : WilliamsonShmoys.edge_maximal_drawable_supergraph_card_repair_20261027
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T21:18:41.319157+00:00
 -- url     : https://prove2.me/theorems/5ac0c4f7-6455-4ae4-ac3e-220b84c3380a

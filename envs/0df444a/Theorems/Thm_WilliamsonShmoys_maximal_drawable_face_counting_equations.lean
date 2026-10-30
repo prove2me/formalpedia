@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_face_counting_equations
 -- name    : WilliamsonShmoys.maximal_drawable_face_counting_equations
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T12:09:56.054968+00:00
 -- url     : https://prove2.me/theorems/3bf5a307-a677-4652-af6f-9ad2cdab51c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_ray_integrand_derivative_bounds
 -- name    : EthierKurtz.ray_integrand_derivative_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T23:03:47.868415+00:00
 -- url     : https://prove2.me/theorems/1dd29b5a-7b09-4d8a-bda1-bec2e8aeac12

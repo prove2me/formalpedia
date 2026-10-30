@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_supergraph_exact_edge_count__p2m_ee2f00f2_33d3_4fa6_ae59_6744e739db8c_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:30:07.528926+00:00
 -- url     : https://prove2.me/submissions/22c4c088-3484-4af1-a281-00ca84b7fab4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GlobalKummerIdealSquare_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GlobalKummerIdealSquare_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T23:17:32.239859+00:00
 -- url     : https://prove2.me/theorems/fba07589-cd17-4615-a163-552cdd29784b
 -- title:

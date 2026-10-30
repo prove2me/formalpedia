@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_antidiagonal_indicator_pair
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.antidiagonal_indicator_pair
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:10:03.246579+00:00
 -- url     : https://prove2.me/theorems/a125f486-df1e-4595-8ec7-d1893a79e89f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_jacobiInfiniteProduct_reparam_section83
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.jacobiInfiniteProduct_reparam_section83
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:41:59.188213+00:00
 -- url     : https://prove2.me/theorems/c89b988e-b88c-48b3-9d4b-a16b26c62fdb
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnDoFrontier_TwoAction_thm3_decay_selects_unit_roots
 -- name    : LearnDoFrontier.TwoAction.thm3_decay_selects_unit_roots
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:47.080373+00:00
 -- url     : https://prove2.me/theorems/073f9309-2597-4dc1-ac36-2fd91c93c2d9

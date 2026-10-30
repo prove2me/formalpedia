@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.qPochInfPS_five_dissection
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:11:07.753032+00:00
 -- url     : https://prove2.me/submissions/501d6d5d-53cb-47ce-b30f-edb3eb1b011c
 

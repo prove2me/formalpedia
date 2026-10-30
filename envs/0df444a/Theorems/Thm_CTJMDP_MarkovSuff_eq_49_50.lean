@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CTJMDP_MarkovSuff_eq_49_50
 -- name    : CTJMDP.MarkovSuff.eq_49_50
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:06:25.203119+00:00
 -- url     : https://prove2.me/theorems/ff981a48-0461-47ce-93e7-5e16d01f3fce

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_qPochAPNegPS_zero_eq_two_mul
 -- name    : QseriesFormalization.Ch10TwoVar.qPochAPNegPS_zero_eq_two_mul
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:04:05.789023+00:00
 -- url     : https://prove2.me/theorems/e1c3b592-5454-48e5-a50e-da0553ea59dc
 -- title:

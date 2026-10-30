@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_hasSum_section83JTPProductPS_coeff_mul_pow_of_norm_lt_one_sixteenth
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.hasSum_section83JTPProductPS_coeff_mul_pow_of_norm_lt_one_sixteenth
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:41:41.225436+00:00
 -- url     : https://prove2.me/theorems/4313951f-5abb-49d2-9fa8-feec878bd0d6
 -- title:

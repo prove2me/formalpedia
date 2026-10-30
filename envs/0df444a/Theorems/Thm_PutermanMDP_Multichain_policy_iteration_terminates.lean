@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PutermanMDP_Multichain_policy_iteration_terminates
 -- name    : PutermanMDP.Multichain.policy_iteration_terminates
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T03:01:19.642983+00:00
 -- url     : https://prove2.me/theorems/5737d147-a503-4f27-b036-09eeb491002d

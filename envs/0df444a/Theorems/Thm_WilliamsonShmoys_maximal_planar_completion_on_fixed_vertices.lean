@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_completion_on_fixed_vertices
 -- name    : WilliamsonShmoys.maximal_planar_completion_on_fixed_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:37:59.639992+00:00
 -- url     : https://prove2.me/theorems/5000a3d3-511e-405f-b32a-6b656cf08b5b

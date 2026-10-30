@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Normal_large_deviation
 -- name    : Normal.large_deviation
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:29:29.926212+00:00
 -- url     : https://prove2.me/theorems/6049c216-bd1e-41be-815b-5fdf621235c0
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankAssort_SimpleLearn_theorem_3_1
 -- name    : RankAssort.SimpleLearn.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:57:34.64423+00:00
 -- url     : https://prove2.me/theorems/b31f02ea-d356-4098-835e-8168d21ec099

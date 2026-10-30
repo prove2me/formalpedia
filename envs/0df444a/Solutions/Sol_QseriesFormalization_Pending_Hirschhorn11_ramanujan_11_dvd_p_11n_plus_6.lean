@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.ramanujan_11_dvd_p_11n_plus_6
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:05:55.355139+00:00
 -- url     : https://prove2.me/submissions/861c4638-3343-4b8e-894a-987675a67e89
 

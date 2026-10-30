@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_triangulation_augmentation
 -- name    : WilliamsonShmoys.connected_planar_triangulation_augmentation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:03:36.780686+00:00
 -- url     : https://prove2.me/theorems/d6c1cda6-0c6b-4181-879b-1515d91138b3

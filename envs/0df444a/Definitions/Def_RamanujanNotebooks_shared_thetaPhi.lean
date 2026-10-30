@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_thetaPhi
 -- name    : RamanujanNotebooks_shared_thetaPhi
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:18:25.951479+00:00
 -- url     : https://prove2.me/theorems/41ead90d-ad27-4b12-9429-2eb73e54d02d
 -- title:

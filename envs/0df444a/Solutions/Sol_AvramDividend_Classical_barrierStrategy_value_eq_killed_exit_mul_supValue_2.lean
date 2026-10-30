@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.barrierStrategy_value_eq_killed_exit_mul_supValue
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T06:19:31.55574+00:00
 -- url     : https://prove2.me/submissions/d3afe10d-16bb-48c0-b36a-81f9d30de007
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_dividendValue_barrierStrategy_upExit_split_of_standing
 import Theorems.Thm_AvramDividend_Classical_barrierValue_self_eq_barrierSupValue

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_simple_graph_edge_count_upper__p2m_a57dc3db_20ea_40d3_9b0f_dcd4c88e6cc2_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:58:44.612629+00:00
 -- url     : https://prove2.me/submissions/2629fd1e-349b-4c77-869d-2924b374a1b6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HerdingForecast_Equilibrium_theorem_1
 -- name    : HerdingForecast.Equilibrium.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:09:02.853697+00:00
 -- url     : https://prove2.me/theorems/db092015-a961-48e4-8e72-069cef658326

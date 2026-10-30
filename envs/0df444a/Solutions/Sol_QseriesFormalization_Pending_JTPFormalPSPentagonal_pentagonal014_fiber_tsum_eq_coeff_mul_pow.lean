@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.pentagonal014_fiber_tsum_eq_coeff_mul_pow
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:27:47.827236+00:00
 -- url     : https://prove2.me/submissions/86f47824-7584-48fe-bf5b-8d16200973a1
 

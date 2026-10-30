@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_eq_one_of_curve_35a1_equation
 -- name    : MazurHuang.eq_one_of_curve_35a1_equation
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:03.751535+00:00
 -- url     : https://prove2.me/theorems/9986ff2a-ab51-44dd-a3c3-10dc564dcf41
 -- title:

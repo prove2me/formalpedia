@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_count_lower_bound_8d131a4d
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_count_lower_bound_8d131a4d
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T06:44:03.499448+00:00
 -- url     : https://prove2.me/theorems/ee5fe5ac-0940-42ee-9925-9f9d4fb6a416

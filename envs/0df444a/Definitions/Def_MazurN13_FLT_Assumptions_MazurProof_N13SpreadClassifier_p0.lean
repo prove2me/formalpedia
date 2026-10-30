@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpreadClassifier_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpreadClassifier_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T19:39:09.542544+00:00
 -- url     : https://prove2.me/theorems/093b5d6e-41c6-4784-b174-7a93f7e66489
 -- title:

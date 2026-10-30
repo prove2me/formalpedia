@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragileBandit_CauchyTail_change_of_measure
 -- name    : FragileBandit.CauchyTail.change_of_measure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:46.383411+00:00
 -- url     : https://prove2.me/theorems/d27346dc-a291-4154-a1bb-cad1c9841cef

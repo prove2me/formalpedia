@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_count_lower_bound_71955334_b5e9_40f2_bf30_231a1d4336f4
 -- name    : WilliamsonShmoys.maximal_drawable_edge_count_lower_bound_71955334_b5e9_40f2_bf30_231a1d4336f4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T00:26:16.540796+00:00
 -- url     : https://prove2.me/theorems/3fe8be02-4541-4d0a-bbf4-850e46d722fe

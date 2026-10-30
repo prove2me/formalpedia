@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialAffineNorm_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialAffineNorm_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:55:10.476994+00:00
 -- url     : https://prove2.me/theorems/dd257ccd-1d00-4abf-9228-e6047c5176dd
 -- title:

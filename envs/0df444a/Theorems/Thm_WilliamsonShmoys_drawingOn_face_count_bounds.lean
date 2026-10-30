@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawingOn_face_count_bounds
 -- name    : WilliamsonShmoys.drawingOn_face_count_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:18:14.304626+00:00
 -- url     : https://prove2.me/theorems/a7846a2c-8999-4973-90af-8ddd969e3b13

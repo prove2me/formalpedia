@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubscriptionPlanning_GrandOptimal_lemma_3_claim_1
 -- name    : SubscriptionPlanning.GrandOptimal.lemma_3_claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:14.251661+00:00
 -- url     : https://prove2.me/theorems/411ed528-baf3-4693-bcfc-773245e296e9

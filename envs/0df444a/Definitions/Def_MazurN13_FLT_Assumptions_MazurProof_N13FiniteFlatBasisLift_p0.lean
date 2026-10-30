@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FiniteFlatBasisLift_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FiniteFlatBasisLift_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:44:59.225033+00:00
 -- url     : https://prove2.me/theorems/16fcbe98-5050-4fce-910e-efbe2bc4f5e7
 -- title:

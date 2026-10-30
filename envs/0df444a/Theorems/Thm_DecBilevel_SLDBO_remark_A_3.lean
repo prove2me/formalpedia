@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecBilevel_SLDBO_remark_A_3
 -- name    : DecBilevel.SLDBO.remark_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:38.606606+00:00
 -- url     : https://prove2.me/theorems/c1f4ff9f-e101-4b5d-919e-2f084b68725f

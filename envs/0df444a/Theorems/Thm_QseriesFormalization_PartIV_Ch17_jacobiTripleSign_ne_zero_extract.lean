@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_jacobiTripleSign_ne_zero_extract
 -- name    : QseriesFormalization.PartIV.Ch17.jacobiTripleSign_ne_zero_extract
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:34:22.672859+00:00
 -- url     : https://prove2.me/theorems/ae3fee7e-aed9-4e4a-8d88-c72fbb2761f6
 -- title:

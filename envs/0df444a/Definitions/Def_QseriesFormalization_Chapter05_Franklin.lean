@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter05_Franklin
 -- name    : QseriesFormalization_Chapter05_Franklin
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:22:57.907992+00:00
 -- url     : https://prove2.me/theorems/79ae01d0-a6ab-4944-99e7-3ef1f901446a
 -- title:

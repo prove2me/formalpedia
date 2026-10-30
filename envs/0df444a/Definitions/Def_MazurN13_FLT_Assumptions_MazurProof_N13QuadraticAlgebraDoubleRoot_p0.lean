@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13QuadraticAlgebraDoubleRoot_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13QuadraticAlgebraDoubleRoot_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:20:14.764858+00:00
 -- url     : https://prove2.me/theorems/33f1f1d6-e203-45f9-9619-17508382e299
 -- title:

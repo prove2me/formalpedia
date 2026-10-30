@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_incidence_euler_data
 -- name    : WilliamsonShmoys.planar_drawing_face_incidence_euler_data
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:18:18.735353+00:00
 -- url     : https://prove2.me/theorems/e0cc44bf-b744-44d9-96d5-ab427541823d

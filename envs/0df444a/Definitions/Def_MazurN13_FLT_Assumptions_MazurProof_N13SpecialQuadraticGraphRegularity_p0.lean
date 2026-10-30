@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialQuadraticGraphRegularity_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialQuadraticGraphRegularity_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:23:18.481729+00:00
 -- url     : https://prove2.me/theorems/0298e8f2-fe83-404e-bb11-6f8d727f341a
 -- title:

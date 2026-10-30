@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_full_edge_supergraph_maximal_edge_count_20261028_lower_bound
 -- name    : WilliamsonShmoys.planar_full_edge_supergraph_maximal_edge_count_20261028_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:58:36.844665+00:00
 -- url     : https://prove2.me/theorems/bfa5e028-d9d2-445f-9469-8c5d5776f54c

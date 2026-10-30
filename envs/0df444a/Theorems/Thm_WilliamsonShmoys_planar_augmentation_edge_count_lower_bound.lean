@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_augmentation_edge_count_lower_bound
 -- name    : WilliamsonShmoys.planar_augmentation_edge_count_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T00:24:48.846997+00:00
 -- url     : https://prove2.me/theorems/856388c3-d7a3-49dc-acab-0480aa762444

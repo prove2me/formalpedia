@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_supergraph_face_count__p2m_b2793381_3dc8_4ae5_ab06_93034309e127_a2
 -- name    : WilliamsonShmoys.drawable_supergraph_face_count__p2m_b2793381_3dc8_4ae5_ab06_93034309e127_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T22:23:14.408501+00:00
 -- url     : https://prove2.me/theorems/37df6a54-88e4-4a1c-bff9-1bc979b9e8cf

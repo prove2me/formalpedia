@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_zwegersLHS_x_slice_fe
 -- name    : QseriesFormalization.Ch10TwoVar.zwegersLHS_x_slice_fe
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:08:57.93224+00:00
 -- url     : https://prove2.me/theorems/744c7764-09c2-4d65-bd04-0d77b4773f14
 -- title:

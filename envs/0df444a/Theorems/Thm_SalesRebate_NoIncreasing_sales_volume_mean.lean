@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesRebate_NoIncreasing_sales_volume_mean
 -- name    : SalesRebate.NoIncreasing.sales_volume_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:15.496067+00:00
 -- url     : https://prove2.me/theorems/59fc5829-1f01-4892-ab81-3196aec76c01

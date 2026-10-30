@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIII_Ch14Thm116_chan116RHS_period_mul_section83_rhs_pair14
 -- name    : QseriesFormalization.PartIII.Ch14Thm116.chan116RHS_period_mul_section83_rhs_pair14
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:13:06.765777+00:00
 -- url     : https://prove2.me/theorems/36950e0f-339b-42cb-8034-184f5f779ac4
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.jacobiInfiniteProduct_S1_eq_mod5_triple
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:09:40.293931+00:00
 -- url     : https://prove2.me/submissions/a6ef21b9-66e7-4751-a1f1-a211948cf783
 

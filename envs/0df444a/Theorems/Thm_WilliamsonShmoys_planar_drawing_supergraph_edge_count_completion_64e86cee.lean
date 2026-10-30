@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_supergraph_edge_count_completion_64e86cee
 -- name    : WilliamsonShmoys.planar_drawing_supergraph_edge_count_completion_64e86cee
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:06:54.376489+00:00
 -- url     : https://prove2.me/theorems/98108dba-1927-4e81-b6e3-ce95ad278038

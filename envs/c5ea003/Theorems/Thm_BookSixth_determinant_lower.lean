@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_determinant_lower
 -- name    : BookSixth.determinant_lower
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-09-13T01:36:33.907702+00:00
 -- url     : https://prove2.me/theorems/ef87faca-88c4-4b3a-9610-7dd3c6bd9fee
 -- title:

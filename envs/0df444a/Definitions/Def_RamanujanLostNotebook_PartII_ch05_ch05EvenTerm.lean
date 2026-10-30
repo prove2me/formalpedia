@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch05_ch05EvenTerm
 -- name    : RamanujanLostNotebook_PartII_ch05_ch05EvenTerm
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T04:45:29.686302+00:00
 -- url     : https://prove2.me/theorems/8a5f875d-10d2-4b06-97f4-e7c349c719c1
 -- title:

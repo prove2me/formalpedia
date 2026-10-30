@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_kernel_potential_time_estimates
 -- name    : EthierKurtz.kernel_potential_time_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:56:01.028448+00:00
 -- url     : https://prove2.me/theorems/bb8f737c-fcd4-42db-a285-fd3e13008204

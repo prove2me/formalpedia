@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityGraphJacobian_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityGraphJacobian_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T18:36:59.857514+00:00
 -- url     : https://prove2.me/theorems/2a04e908-899d-46a2-9348-c767a307c6c3
 -- title:

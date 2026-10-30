@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_kThetaGen_eq_zero_of_anti
 -- name    : QseriesFormalization.Ch10TwoVar.kThetaGen_eq_zero_of_anti
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:01:06.164984+00:00
 -- url     : https://prove2.me/theorems/0ef45741-fbca-4178-aa81-5313f26e24d8
 -- title:

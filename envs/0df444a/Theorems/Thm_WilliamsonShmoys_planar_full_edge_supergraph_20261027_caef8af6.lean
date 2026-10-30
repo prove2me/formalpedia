@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_full_edge_supergraph_20261027_caef8af6
 -- name    : WilliamsonShmoys.planar_full_edge_supergraph_20261027_caef8af6
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T21:36:17.758395+00:00
 -- url     : https://prove2.me/theorems/d800f429-0dcb-44c3-989f-b60bdda1f2ea

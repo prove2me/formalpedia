@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuintic_quinticPeriod_sum
 -- name    : QseriesFormalization.Pending.RamanujanQuintic.quinticPeriod_sum
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:49:12.275409+00:00
 -- url     : https://prove2.me/theorems/851a1a1c-63d8-4f66-8467-0ec489fc3f6b
 -- title:

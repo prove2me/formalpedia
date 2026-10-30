@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MetricKMedian.RationalPhysicalKernel.step_drift
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:49:37.539978+00:00
 -- url     : https://prove2.me/submissions/a6abaa61-3f14-4719-86bc-8db3f19d0d4b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ035K044

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_augmentation_euler_count_16de6deb_de5f_4a25_8b3a_216fac552bd1
 -- name    : WilliamsonShmoys.planar_augmentation_euler_count_16de6deb_de5f_4a25_8b3a_216fac552bd1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T12:26:05.801516+00:00
 -- url     : https://prove2.me/theorems/01e46af9-a098-4ef9-87c9-63ad085d1147

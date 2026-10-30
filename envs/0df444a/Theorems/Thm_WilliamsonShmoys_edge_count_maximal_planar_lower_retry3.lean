@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_maximal_planar_lower_retry3
 -- name    : WilliamsonShmoys.edge_count_maximal_planar_lower_retry3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:36:01.974892+00:00
 -- url     : https://prove2.me/theorems/7cbba167-dbe3-4e97-9632-fbcaaee0fd3e

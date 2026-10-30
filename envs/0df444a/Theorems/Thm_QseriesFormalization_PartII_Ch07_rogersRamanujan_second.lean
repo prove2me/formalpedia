@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_rogersRamanujan_second
 -- name    : QseriesFormalization.PartII.Ch07.rogersRamanujan_second
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:22:49.445834+00:00
 -- url     : https://prove2.me/theorems/67e6b5ef-0667-4c77-bd55-430b225ebf98
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch09.lemma91_operator_inner_sum
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:23:17.734474+00:00
 -- url     : https://prove2.me/submissions/90fb38f4-fff1-4f14-9714-fa84292aa3b3
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_has_triangulated_face_count
 -- name    : WilliamsonShmoys.maximal_drawable_graph_has_triangulated_face_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T17:13:08.974932+00:00
 -- url     : https://prove2.me/theorems/85360098-dba7-4c11-ba84-e51ff8660a8a

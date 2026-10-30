@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_arc_drawn_graph_has_triangulation_bound
 -- name    : WilliamsonShmoys.edge_maximal_arc_drawn_graph_has_triangulation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T06:20:41.755983+00:00
 -- url     : https://prove2.me/theorems/b21952c5-cef5-45be-8330-15732a741057

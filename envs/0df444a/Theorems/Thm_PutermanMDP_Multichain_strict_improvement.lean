@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PutermanMDP_Multichain_strict_improvement
 -- name    : PutermanMDP.Multichain.strict_improvement
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T03:00:28.050991+00:00
 -- url     : https://prove2.me/theorems/846fafc7-2b5d-4ca2-a06d-04070a90b22e

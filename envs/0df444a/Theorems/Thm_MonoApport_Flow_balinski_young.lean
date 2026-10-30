@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoApport_Flow_balinski_young
 -- name    : MonoApport.Flow.balinski_young
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:27.352378+00:00
 -- url     : https://prove2.me/theorems/be5d7709-682c-440c-be7a-be2370c9efa0

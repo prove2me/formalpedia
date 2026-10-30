@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_syracuse_descent_residual_twentyseven_mod32_mod1048576
 -- name    : syracuse_descent_residual_twentyseven_mod32_mod1048576
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T11:57:58.822435+00:00
 -- url     : https://prove2.me/theorems/eac53492-b38e-40fe-980c-fb176406150d
 -- title:

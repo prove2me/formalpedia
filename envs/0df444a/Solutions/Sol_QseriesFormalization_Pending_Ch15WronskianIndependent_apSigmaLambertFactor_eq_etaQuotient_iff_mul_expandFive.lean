@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.apSigmaLambertFactor_eq_etaQuotient_iff_mul_expandFive
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:43:45.822328+00:00
 -- url     : https://prove2.me/submissions/337d2bb7-562c-45ca-820e-afaa8250733d
 

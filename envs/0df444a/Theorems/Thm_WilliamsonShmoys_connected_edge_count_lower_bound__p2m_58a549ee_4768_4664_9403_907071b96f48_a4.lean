@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_edge_count_lower_bound__p2m_58a549ee_4768_4664_9403_907071b96f48_a4
 -- name    : WilliamsonShmoys.connected_edge_count_lower_bound__p2m_58a549ee_4768_4664_9403_907071b96f48_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T05:53:46.057256+00:00
 -- url     : https://prove2.me/theorems/8d099cf2-cac0-45a7-bb59-0ef1b2eb6592

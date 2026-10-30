@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_planar_drawing_is_dense
 -- name    : WilliamsonShmoys.edge_maximal_planar_drawing_is_dense
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:16:58.033266+00:00
 -- url     : https://prove2.me/theorems/572903dc-85c6-49e9-9710-c32e95b4c977

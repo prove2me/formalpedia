@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.chan_eq_10_15_CTxy
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:41:12.692975+00:00
 -- url     : https://prove2.me/submissions/d82c287e-33b8-42f7-9d4c-c0700a916587
 

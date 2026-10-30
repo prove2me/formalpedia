@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BwSC_LowerBound_p59_first_term
 -- name    : BwSC.LowerBound.p59_first_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:11.76582+00:00
 -- url     : https://prove2.me/theorems/39879844-64bc-49b3-95ec-e53b9c31671a

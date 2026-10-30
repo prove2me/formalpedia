@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.HirschhornComb.hirschhorn_P_eq_combination
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:36:53.846026+00:00
 -- url     : https://prove2.me/submissions/5fa3d3a4-d8a3-4e00-8ac0-7fbf58f5ab33
 

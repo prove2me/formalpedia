@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoNudge_Cutoff_lhs12_monotone
 -- name    : InfoNudge.Cutoff.lhs12_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:54.149494+00:00
 -- url     : https://prove2.me/theorems/94fdec12-93e6-42cf-a602-6d9871b91c24

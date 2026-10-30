@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_JK_eq_jLaurent
 -- name    : QseriesFormalization.Ch10TwoVar.JK_eq_jLaurent
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:52:25.465264+00:00
 -- url     : https://prove2.me/theorems/d1f5d7d8-f057-4d92-a895-8148613d106a
 -- title:

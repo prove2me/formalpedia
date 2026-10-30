@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.norm_jacobiSeriesT_prime_le
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:49:15.313445+00:00
 -- url     : https://prove2.me/submissions/1ab88791-ac28-4cc6-95dc-1f2cdf915338
 

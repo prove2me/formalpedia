@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch18.filter_staircasePartition_length
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:27:27.265934+00:00
 -- url     : https://prove2.me/submissions/2b845a6a-0705-4b04-80b7-2acd78461a91
 

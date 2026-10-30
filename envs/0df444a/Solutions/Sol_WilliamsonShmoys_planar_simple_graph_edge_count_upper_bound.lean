@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_simple_graph_edge_count_upper_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T08:03:23.635944+00:00
 -- url     : https://prove2.me/submissions/31fe0852-6c52-417c-9c9a-50890ff1df66
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_exists_maximal_planar_supergraph_6009196b_f86b_4d84_8003_efa7e8eeee60
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_face_decomposition_6009196b_f86b_4d84_8003_efa7e8eeee60

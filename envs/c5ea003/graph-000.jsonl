@@ -30310,7 +30310,7 @@
 {"parent": "KServer.gamPot_le_lazyPot_manhattan", "child": "KServer_workfunctionU", "via": ["solution", "statement"]}
 {"parent": "KServer.injective_or_covering", "child": "KServer_model", "via": ["solution", "statement"]}
 {"parent": "KServer.kserver_conjecture", "child": "KServer_model", "via": ["statement"]}
-{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer_model", "via": ["statement"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer_model", "via": ["solution", "statement"]}
 {"parent": "KServer.lamPot_corner_dispatch", "child": "KServer.lamPot_instance_le_lazyPot_adjacent", "via": ["solution"]}
 {"parent": "KServer.lamPot_corner_dispatch", "child": "KServer.lamPot_instance_le_lazyPot_special", "via": ["solution"]}
 {"parent": "KServer.lamPot_corner_dispatch", "child": "KServer.workFnU_perm", "via": ["solution"]}
@@ -61310,3 +61310,32 @@
 {"parent": "MovingSofa.inner_le_supportValue", "child": "MovingSofa_Geometry_Contacts", "via": ["solution"]}
 {"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser.lemma_13", "via": ["solution"]}
 {"parent": "HofmannMoser.theorem_16", "child": "HofmannMoser.lemma_12", "via": ["solution"]}
+{"parent": "Shamir1979.threshold_scheme", "child": "Shamir1979_Model", "via": ["solution", "statement"]}
+{"parent": "Shamir1979.valid_polynomial", "child": "Cryptography_ShamirSecretSharing", "via": ["solution", "statement"]}
+{"parent": "Shamir1979.valid_polynomial", "child": "Shamir1979_Model", "via": ["solution", "statement"]}
+{"parent": "KServer.chunk_scale_sizes_price", "child": "KServer_chunk_cond", "via": ["solution", "statement"]}
+{"parent": "Shamir1979.independent_refresh_privacy", "child": "Shamir1979_Model", "via": ["solution", "statement"]}
+{"parent": "Shamir1979.privacy_fiber_count", "child": "Shamir1979_Model", "via": ["solution", "statement"]}
+{"parent": "Shamir1979.perfect_privacy", "child": "Shamir1979_Model", "via": ["solution", "statement"]}
+{"parent": "KServer_finite_chunk_certificates", "child": "KServer_chunk_system_b", "via": ["statement"]}
+{"parent": "Shamir1979.extension_consistency", "child": "Shamir1979_Model", "via": ["solution", "statement"]}
+{"parent": "KServer_chunk_bellman", "child": "KServer_finite_chunk_certificates", "via": ["statement"]}
+{"parent": "KServer.chunk_bellman_lower", "child": "KServer_chunk_bellman", "via": ["solution", "statement"]}
+{"parent": "Shamir1979.hierarchical_threshold", "child": "Shamir1979_Model", "via": ["solution", "statement"]}
+{"parent": "Shamir1979.reconstruction", "child": "Shamir1979_Model", "via": ["solution", "statement"]}
+{"parent": "KServer.bcr_claim13_relative_efficiency", "child": "KServer_chunk_cond", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_relative_efficiency", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.finite_chunk_certificate_iff", "child": "KServer_finite_chunk_certificates", "via": ["solution", "statement"]}
+{"parent": "KServer.bcr_claim13_tight_subchunks", "child": "KServer.chunk_scale_sizes_price", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_tight_subchunks", "child": "KServer.bcr_claim13_relative_efficiency", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer.server_to_evader_reduction", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer.schedule_exists", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer_evader", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer.evader_to_server_offline", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer_evader_encoding", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer.mss_randomized_lower_bound", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer.exists_lazy_injective_algorithm", "via": ["solution"]}
+{"parent": "Shamir1979.threshold_scheme", "child": "Shamir1979.reconstruction", "via": ["solution"]}
+{"parent": "Shamir1979.threshold_scheme", "child": "Shamir1979.perfect_privacy", "via": ["solution"]}
+{"parent": "Shamir1979.hierarchical_threshold", "child": "Shamir1979.reconstruction", "via": ["solution"]}
+{"parent": "Shamir1979.hierarchical_threshold", "child": "Shamir1979.perfect_privacy", "via": ["solution"]}

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Normal_copelandErdosConstant_normal
 -- name    : Normal.copelandErdosConstant_normal
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:29:10.057879+00:00
 -- url     : https://prove2.me/theorems/0d7ee62f-cf89-4000-afa0-3868b5865085
 -- title:

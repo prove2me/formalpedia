@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_killed_firstRecord_grid_expected_scale_lower
 -- name    : AvramDividend.Classical.killed_firstRecord_grid_expected_scale_lower
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T15:13:01.858673+00:00
 -- url     : https://prove2.me/theorems/77dc4109-c325-41aa-a80c-9cd7723cdf3a

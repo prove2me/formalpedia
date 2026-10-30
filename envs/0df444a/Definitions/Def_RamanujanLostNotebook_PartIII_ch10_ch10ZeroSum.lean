@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch10_ch10ZeroSum
 -- name    : RamanujanLostNotebook_PartIII_ch10_ch10ZeroSum
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T12:30:36.205631+00:00
 -- url     : https://prove2.me/theorems/f9a9dd42-9cff-4675-af22-9030115409d5
 -- title:

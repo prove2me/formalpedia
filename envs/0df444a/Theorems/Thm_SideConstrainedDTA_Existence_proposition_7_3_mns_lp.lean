@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SideConstrainedDTA_Existence_proposition_7_3_mns_lp
 -- name    : SideConstrainedDTA.Existence.proposition_7_3_mns_lp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:26.479993+00:00
 -- url     : https://prove2.me/theorems/c283bd07-dac2-4789-9c89-7b3f0f6314e3

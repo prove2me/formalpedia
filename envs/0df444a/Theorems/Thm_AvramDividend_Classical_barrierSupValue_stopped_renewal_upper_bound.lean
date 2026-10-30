@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierSupValue_stopped_renewal_upper_bound
 -- name    : AvramDividend.Classical.barrierSupValue_stopped_renewal_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T00:27:13.807839+00:00
 -- url     : https://prove2.me/theorems/c6c3b1d0-2c2f-41ce-a5a0-2771efcc3a69

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FiniteAffineTwoChart_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FiniteAffineTwoChart_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T20:23:57.62827+00:00
 -- url     : https://prove2.me/theorems/a057e696-d62e-410c-a318-9deade2ed259
 -- title:

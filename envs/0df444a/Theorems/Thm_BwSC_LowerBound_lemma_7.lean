@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BwSC_LowerBound_lemma_7
 -- name    : BwSC.LowerBound.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:52.747274+00:00
 -- url     : https://prove2.me/theorems/726cfea4-70f8-4877-b331-279e2c047997

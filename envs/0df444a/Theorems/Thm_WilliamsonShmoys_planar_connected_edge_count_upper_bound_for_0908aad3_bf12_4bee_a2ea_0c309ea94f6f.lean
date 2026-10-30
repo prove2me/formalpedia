@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_connected_edge_count_upper_bound_for_0908aad3_bf12_4bee_a2ea_0c309ea94f6f
 -- name    : WilliamsonShmoys.planar_connected_edge_count_upper_bound_for_0908aad3_bf12_4bee_a2ea_0c309ea94f6f
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T04:30:50.173195+00:00
 -- url     : https://prove2.me/theorems/562a75e6-ccf0-4c4a-bbad-305ee006339b

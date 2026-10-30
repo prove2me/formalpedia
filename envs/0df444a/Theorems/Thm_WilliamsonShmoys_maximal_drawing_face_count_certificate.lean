@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_face_count_certificate
 -- name    : WilliamsonShmoys.maximal_drawing_face_count_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T03:29:12.069953+00:00
 -- url     : https://prove2.me/theorems/4e1a8ce7-d97b-4d15-ad77-83cfce372367

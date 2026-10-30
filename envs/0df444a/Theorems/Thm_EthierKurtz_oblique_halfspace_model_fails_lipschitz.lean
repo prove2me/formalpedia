@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_halfspace_model_fails_lipschitz
 -- name    : EthierKurtz.oblique_halfspace_model_fails_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T21:47:40.967983+00:00
 -- url     : https://prove2.me/theorems/fb0ba85c-2255-4819-81f5-ea1403491eec

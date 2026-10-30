@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulated_planar_supergraph_same_vertex
 -- name    : WilliamsonShmoys.exists_triangulated_planar_supergraph_same_vertex
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T03:39:48.975165+00:00
 -- url     : https://prove2.me/theorems/a0d7916a-0378-4cc4-8609-751369741c85

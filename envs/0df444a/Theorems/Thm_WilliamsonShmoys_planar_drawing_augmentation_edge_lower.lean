@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_augmentation_edge_lower
 -- name    : WilliamsonShmoys.planar_drawing_augmentation_edge_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:27:56.638421+00:00
 -- url     : https://prove2.me/theorems/c2692e15-4304-47c5-864b-198ffa7f5189

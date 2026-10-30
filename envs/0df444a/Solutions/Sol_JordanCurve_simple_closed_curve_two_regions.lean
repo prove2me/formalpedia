@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for JordanCurve.simple_closed_curve_two_regions
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-09-25T00:23:56.685478+00:00
 -- url     : https://prove2.me/submissions/1b7fdb53-3359-4051-87f1-a5076b078759
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Topology.MetricSpace.ProperSpace
 import Mathlib.Topology.Connected.LocallyConnected

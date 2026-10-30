@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Normal.copeland_erdos
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:29:50.5928+00:00
 -- url     : https://prove2.me/submissions/7a433383-20d1-4e96-b2e3-ec12712e1a5e
 

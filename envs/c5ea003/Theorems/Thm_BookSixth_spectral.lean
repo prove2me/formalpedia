@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_spectral
 -- name    : BookSixth.spectral
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-09-13T01:35:56.737289+00:00
 -- url     : https://prove2.me/theorems/d8387b3c-83c8-4d3a-b863-b32c5a1bbf3e
 -- title:

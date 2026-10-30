@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_DLA_bernstein_without_replacement
 -- name    : DynamicOnlineLP.DLA.bernstein_without_replacement
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:37:59.323983+00:00
 -- url     : https://prove2.me/theorems/f774ecb3-9a9b-490c-b64d-0e3995c062df

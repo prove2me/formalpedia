@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.section5_two_E5_sum_cube_rat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:27:01.008981+00:00
 -- url     : https://prove2.me/submissions/8026d88f-e313-4586-a26a-19e71746d5a1
 

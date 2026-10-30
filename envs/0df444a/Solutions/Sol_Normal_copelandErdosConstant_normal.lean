@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Normal.copelandErdosConstant_normal
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:29:46.767836+00:00
 -- url     : https://prove2.me/submissions/8a59703a-5102-4583-a39a-03f6de75c2b8
 

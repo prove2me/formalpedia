@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_ch05_mtcM2
 -- name    : RamanujanLostNotebook_PartV_ch05_mtcM2
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T16:59:14.293797+00:00
 -- url     : https://prove2.me/theorems/769160aa-8d6b-486d-8e42-2061fe5858b1
 -- title:

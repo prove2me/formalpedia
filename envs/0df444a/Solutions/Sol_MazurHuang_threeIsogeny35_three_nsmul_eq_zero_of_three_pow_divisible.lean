@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.threeIsogeny35_three_nsmul_eq_zero_of_three_pow_divisible
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:20:53.652828+00:00
 -- url     : https://prove2.me/submissions/6f2666ac-1f31-4a42-aa7a-c5047a12ed25
 

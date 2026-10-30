@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoChartPicardRealization_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoChartPicardRealization_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:08:10.448047+00:00
 -- url     : https://prove2.me/theorems/ad0efcd0-9a90-41fa-a480-89697c137fd9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10Bridge_chan1015
 -- name    : QseriesFormalization.Pending.Ch10Bridge.chan1015
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:45:22.791987+00:00
 -- url     : https://prove2.me/theorems/ef0b8e0f-2d15-4550-b212-12ff781deaa4
 -- title:

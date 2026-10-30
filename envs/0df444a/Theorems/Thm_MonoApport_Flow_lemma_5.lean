@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoApport_Flow_lemma_5
 -- name    : MonoApport.Flow.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:52.463777+00:00
 -- url     : https://prove2.me/theorems/18c99f55-3df1-4b62-9aa6-b628d290a218

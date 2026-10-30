@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04Franklin.pred_false_at_takeWhile_length_prime
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T15:58:01.744001+00:00
 -- url     : https://prove2.me/submissions/03426499-ee13-41d8-92e7-ca50cd631a7f
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecBilevel_SLDBO_hypergrad_lipschitz
 -- name    : DecBilevel.SLDBO.hypergrad_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:49.368836+00:00
 -- url     : https://prove2.me/theorems/7f81e964-2180-4d52-9fd1-6b199b88f8e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_euler_compatible_face_count_incidence_7c1cdf82
 -- name    : WilliamsonShmoys.euler_compatible_face_count_incidence_7c1cdf82
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:09:12.161796+00:00
 -- url     : https://prove2.me/theorems/4d0c2802-8f3b-4d79-b31d-d0704c9c8543

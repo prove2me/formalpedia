@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.triangular_index_mod_7_eq_3_of_n_mod_7_eq_6
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:06:02.028111+00:00
 -- url     : https://prove2.me/submissions/c7cfa214-1efd-4222-8bb4-93442613a837
 

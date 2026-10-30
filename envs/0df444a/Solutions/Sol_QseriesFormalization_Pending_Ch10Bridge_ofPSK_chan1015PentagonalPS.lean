@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10Bridge.ofPSK_chan1015PentagonalPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:09:27.25433+00:00
 -- url     : https://prove2.me/submissions/47affbad-7687-4458-8c0a-289b274b432c
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_accounting
 -- name    : WilliamsonShmoys.planar_drawing_face_accounting
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:59:55.835999+00:00
 -- url     : https://prove2.me/theorems/57972424-e6b5-450b-8797-923265814c99

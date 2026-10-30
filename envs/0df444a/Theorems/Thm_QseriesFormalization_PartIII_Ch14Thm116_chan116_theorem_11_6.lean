@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIII_Ch14Thm116_chan116_theorem_11_6
 -- name    : QseriesFormalization.PartIII.Ch14Thm116.chan116_theorem_11_6
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:13:37.905932+00:00
 -- url     : https://prove2.me/theorems/ab38a160-93f0-4210-bb5a-5d8ac8047103
 -- title:

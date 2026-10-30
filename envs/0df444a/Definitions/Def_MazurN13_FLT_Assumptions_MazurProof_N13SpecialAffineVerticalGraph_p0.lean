@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialAffineVerticalGraph_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialAffineVerticalGraph_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:37:19.717902+00:00
 -- url     : https://prove2.me/theorems/724602a1-7c40-4d48-9ade-40230a5aa63f
 -- title:

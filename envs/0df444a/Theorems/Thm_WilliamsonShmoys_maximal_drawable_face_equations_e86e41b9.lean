@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_face_equations_e86e41b9
 -- name    : WilliamsonShmoys.maximal_drawable_face_equations_e86e41b9
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T11:58:17.855207+00:00
 -- url     : https://prove2.me/theorems/d47f3ab2-10a3-4179-9975-a34de0f049a7

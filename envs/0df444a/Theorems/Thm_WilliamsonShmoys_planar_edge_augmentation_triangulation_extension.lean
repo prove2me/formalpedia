@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_augmentation_triangulation_extension
 -- name    : WilliamsonShmoys.planar_edge_augmentation_triangulation_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T20:43:29.016726+00:00
 -- url     : https://prove2.me/theorems/f7bc6fe0-4048-4b9c-9c3b-12bf5b1d7024

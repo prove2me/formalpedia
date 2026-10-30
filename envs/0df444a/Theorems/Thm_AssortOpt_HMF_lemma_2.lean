@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortOpt_HMF_lemma_2
 -- name    : AssortOpt.HMF.lemma_2
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:58:27.051644+00:00
 -- url     : https://prove2.me/theorems/d5bfe8fd-7d36-41c1-9fd0-f033dee8b6aa

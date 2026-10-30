@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for WilliamsonShmoys.maximal_drawable_graph_exact_edge_count
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T19:05:10.356494+00:00
 -- url     : https://prove2.me/submissions/a6b4db15-4cb5-4450-9bcb-7df894deac15
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_drawable_graph_has_triangulating_completion
 

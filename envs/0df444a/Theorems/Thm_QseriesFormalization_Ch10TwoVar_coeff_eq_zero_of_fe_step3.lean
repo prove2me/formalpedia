@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_coeff_eq_zero_of_fe_step3
 -- name    : QseriesFormalization.Ch10TwoVar.coeff_eq_zero_of_fe_step3
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:58:17.984874+00:00
 -- url     : https://prove2.me/theorems/43da8860-1e9a-484c-acce-b1f7f43eea40
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.StringSumQ_mul_one_sub
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:35:17.067031+00:00
 -- url     : https://prove2.me/submissions/da669fbe-2f73-45fd-b3cd-15c792d5fc2a
 

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_planar_edge_maximizer
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:36:25.395813+00:00
 -- url     : https://prove2.me/submissions/048323f2-652d-48bf-a67b-564f07194a3f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_exists_edge_maximal_planar_supergraph_for_exists_planar_edge_maximizer_c5621e40
 import Theorems.Thm_WilliamsonShmoys_edge_count_eq_of_edge_maximal_planar_on_c5621e40

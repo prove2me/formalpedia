@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for mme_released_recursive_stage_level2_rate_margin
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-09-23T05:45:25.206451+00:00
 -- url     : https://prove2.me/submissions/45a76dcb-354f-49f7-bbe0-8f5c89b3a353
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_mme_released_recursive_level2_pen0

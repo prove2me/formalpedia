@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_c2mu_extension_package
 -- name    : EthierKurtz.oblique_c2mu_extension_package
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T21:59:50.457315+00:00
 -- url     : https://prove2.me/theorems/e247dc64-e73e-4280-a075-5f48abfcb367

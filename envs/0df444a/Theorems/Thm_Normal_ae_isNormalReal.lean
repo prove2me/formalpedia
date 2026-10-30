@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Normal_ae_isNormalReal
 -- name    : Normal.ae_isNormalReal
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T12:44:56.982706+00:00
 -- url     : https://prove2.me/theorems/3d5ca33d-2b3c-4a74-8068-aea31e268a95
 -- title:

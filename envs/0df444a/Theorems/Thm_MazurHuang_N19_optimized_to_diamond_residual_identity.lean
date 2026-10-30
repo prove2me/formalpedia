@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_optimized_to_diamond_residual_identity
 -- name    : MazurHuang.N19.optimized_to_diamond_residual_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:30.284997+00:00
 -- url     : https://prove2.me/theorems/f091ed5f-5cc6-4c7b-815f-d609b928ac60
 -- title:

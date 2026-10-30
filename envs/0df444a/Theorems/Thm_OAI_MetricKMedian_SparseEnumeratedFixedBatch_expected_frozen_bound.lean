@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_SparseEnumeratedFixedBatch_expected_frozen_bound
 -- name    : OAI.MetricKMedian.SparseEnumeratedFixedBatch.expected_frozen_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:32:45.48725+00:00
 -- url     : https://prove2.me/theorems/5c5e4503-6306-4c12-b96c-49871d5f1b9e

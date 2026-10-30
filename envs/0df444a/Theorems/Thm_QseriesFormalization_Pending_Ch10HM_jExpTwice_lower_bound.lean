@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_jExpTwice_lower_bound
 -- name    : QseriesFormalization.Pending.Ch10HM.jExpTwice_lower_bound
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:47:37.265722+00:00
 -- url     : https://prove2.me/theorems/3b03758d-587e-4329-9089-c715136764e8
 -- title:

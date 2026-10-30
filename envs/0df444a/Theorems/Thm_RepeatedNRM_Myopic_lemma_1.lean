@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepeatedNRM_Myopic_lemma_1
 -- name    : RepeatedNRM.Myopic.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:10.107857+00:00
 -- url     : https://prove2.me/theorems/87016005-4e87-4ed3-b5fa-abb3af51ccf1

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.coeffXY_zwegersLHS_y_collapse
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:37:36.910469+00:00
 -- url     : https://prove2.me/submissions/524fe1fc-1a52-476d-aaea-167e9e5635d6
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenGallegoPricing_ABE_theorem_1
 -- name    : ChenGallegoPricing.ABE.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:34:21.024141+00:00
 -- url     : https://prove2.me/theorems/8068ef5d-813a-4d90-8bdd-c9156921344d

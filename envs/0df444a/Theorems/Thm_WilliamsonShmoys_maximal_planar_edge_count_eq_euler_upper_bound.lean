@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_eq_euler_upper_bound
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_eq_euler_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T18:47:39.639491+00:00
 -- url     : https://prove2.me/theorems/d9e6fa81-f701-488e-92d0-a87ec6c3ec1a

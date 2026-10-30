@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_euler_face_incidence
 -- name    : WilliamsonShmoys.planar_graph_euler_face_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:14:08.159236+00:00
 -- url     : https://prove2.me/theorems/e9ef2b10-8ddc-4b14-8636-269173947867

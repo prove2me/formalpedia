@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialDivisorBranchOrders_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialDivisorBranchOrders_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T23:07:23.32793+00:00
 -- url     : https://prove2.me/theorems/13ee6649-5a4e-4b97-aa20-1128d9f6c4a7
 -- title:

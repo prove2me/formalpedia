@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_last_centered_correlation_zero
 -- name    : OAI.Rokhlin.last_centered_correlation_zero
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:36:07.560189+00:00
 -- url     : https://prove2.me/theorems/5853260f-c209-4b0e-8d0e-82a7c720ed62

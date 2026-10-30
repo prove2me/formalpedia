@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.JSum_pow_seven_expansion
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:45:59.271615+00:00
 -- url     : https://prove2.me/submissions/9294fbf5-6320-462a-960f-4a5a441322cc
 

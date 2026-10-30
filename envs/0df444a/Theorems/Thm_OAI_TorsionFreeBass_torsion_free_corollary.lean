@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TorsionFreeBass_torsion_free_corollary
 -- name    : OAI.TorsionFreeBass.torsion_free_corollary
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:32.566324+00:00
 -- url     : https://prove2.me/theorems/22e79a4b-c4ca-4cbe-81df-3e42aa55651f

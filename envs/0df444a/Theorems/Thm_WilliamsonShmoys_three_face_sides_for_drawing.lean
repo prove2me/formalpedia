@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_three_face_sides_for_drawing
 -- name    : WilliamsonShmoys.three_face_sides_for_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:39:53.10484+00:00
 -- url     : https://prove2.me/theorems/ea237986-dde8-45aa-8717-82b33fafcc6c

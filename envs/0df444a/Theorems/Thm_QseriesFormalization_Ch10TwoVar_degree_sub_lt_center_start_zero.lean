@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_degree_sub_lt_center_start_zero
 -- name    : QseriesFormalization.Ch10TwoVar.degree_sub_lt_center_start_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:59:00.132445+00:00
 -- url     : https://prove2.me/theorems/8bcc59f0-dbbd-45e9-ba09-77bdf24859cb
 -- title:

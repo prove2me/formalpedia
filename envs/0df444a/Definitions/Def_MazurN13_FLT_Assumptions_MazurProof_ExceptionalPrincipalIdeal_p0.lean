@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_ExceptionalPrincipalIdeal_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_ExceptionalPrincipalIdeal_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:17:35.805527+00:00
 -- url     : https://prove2.me/theorems/f0fec7af-ac1b-459b-b17e-ac32c3645b9f
 -- title:

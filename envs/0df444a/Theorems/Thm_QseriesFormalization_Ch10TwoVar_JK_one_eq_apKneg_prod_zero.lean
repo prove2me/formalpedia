@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_JK_one_eq_apKneg_prod_zero
 -- name    : QseriesFormalization.Ch10TwoVar.JK_one_eq_apKneg_prod_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:52:29.79726+00:00
 -- url     : https://prove2.me/theorems/d99243dc-ffaf-4120-b59d-79bda90daa47
 -- title:

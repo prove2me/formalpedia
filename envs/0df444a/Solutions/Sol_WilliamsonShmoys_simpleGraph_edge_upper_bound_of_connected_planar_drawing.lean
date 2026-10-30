@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.simpleGraph_edge_upper_bound_of_connected_planar_drawing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-29T00:31:55.094778+00:00
 -- url     : https://prove2.me/submissions/4a0b4d56-1536-4604-b6c2-a22a6ec2098c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib.Combinatorics.SimpleGraph.Connectivity.Connected

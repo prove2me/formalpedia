@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_triangulated_extension_f4cab8f1_36b2_49a4_9100_a8a3956b9d6e
 -- name    : WilliamsonShmoys.maximal_drawable_graph_triangulated_extension_f4cab8f1_36b2_49a4_9100_a8a3956b9d6e
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T00:04:01.22229+00:00
 -- url     : https://prove2.me/theorems/e02108dc-5749-4b8c-85cc-e86e3f71cac7

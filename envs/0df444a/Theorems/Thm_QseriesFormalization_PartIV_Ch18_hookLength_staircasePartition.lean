@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch18_hookLength_staircasePartition
 -- name    : QseriesFormalization.PartIV.Ch18.hookLength_staircasePartition
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:47:35.915066+00:00
 -- url     : https://prove2.me/theorems/fffb5c31-d58c-497c-876c-a15358e2f65c
 -- title:

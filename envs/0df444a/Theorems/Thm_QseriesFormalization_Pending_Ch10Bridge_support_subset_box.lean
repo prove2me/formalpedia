@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10Bridge_support_subset_box
 -- name    : QseriesFormalization.Pending.Ch10Bridge.support_subset_box
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:46:22.882488+00:00
 -- url     : https://prove2.me/theorems/97109130-09c6-4108-93b0-a581df009ec7
 -- title:

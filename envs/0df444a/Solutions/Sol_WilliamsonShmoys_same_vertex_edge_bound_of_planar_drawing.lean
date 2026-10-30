@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.same_vertex_edge_bound_of_planar_drawing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:39:44.180861+00:00
 -- url     : https://prove2.me/submissions/c2afa6af-776c-4f73-b53a-4cb57105291f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

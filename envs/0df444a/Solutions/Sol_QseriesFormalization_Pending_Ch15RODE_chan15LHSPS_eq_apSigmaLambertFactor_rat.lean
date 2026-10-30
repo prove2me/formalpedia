@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15RODE.chan15LHSPS_eq_apSigmaLambertFactor_rat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:43:14.949497+00:00
 -- url     : https://prove2.me/submissions/14d929bd-4eff-4f2b-93ba-93a5f0ab354a
 

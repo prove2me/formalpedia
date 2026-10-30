@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexCost_Complexity_theorem_6_6
 -- name    : NonconvexCost.Complexity.theorem_6_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:45.700324+00:00
 -- url     : https://prove2.me/theorems/bf92e90a-ede7-469e-b111-eb11dbed5c50

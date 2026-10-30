@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connectedPlanarDrawing_edgeUpper
 -- name    : WilliamsonShmoys.connectedPlanarDrawing_edgeUpper
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:38:16.551771+00:00
 -- url     : https://prove2.me/theorems/58115d6d-d07e-4fe8-a305-b4b7a1897190

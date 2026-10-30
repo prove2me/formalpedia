@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_raw_chart_denominator_specialization
 -- name    : MazurHuang.N19.raw_chart_denominator_specialization
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:28.10321+00:00
 -- url     : https://prove2.me/theorems/7d37217c-902f-4082-8a23-dc3d13883a00
 -- title:

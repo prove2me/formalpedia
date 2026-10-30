@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianDifferentSupport_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianDifferentSupport_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:19:06.209144+00:00
 -- url     : https://prove2.me/theorems/2dc71779-bf1d-486d-851f-bc95dc5b353a
 -- title:

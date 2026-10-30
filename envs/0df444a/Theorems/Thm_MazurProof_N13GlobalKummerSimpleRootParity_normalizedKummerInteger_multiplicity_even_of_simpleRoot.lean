@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13GlobalKummerSimpleRootParity_normalizedKummerInteger_multiplicity_even_of_simpleRoot
 -- name    : MazurProof.N13GlobalKummerSimpleRootParity.normalizedKummerInteger_multiplicity_even_of_simpleRoot
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T07:56:22.715004+00:00
 -- url     : https://prove2.me/theorems/6a8dfeb7-f74a-4fb9-934c-a247cb0a5e5c

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.wronskianCore_num_dvd_eight_of_norm_odd
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:53:48.322587+00:00
 -- url     : https://prove2.me/submissions/76ea66c4-ba9c-4483-b801-711e323cb99d
 

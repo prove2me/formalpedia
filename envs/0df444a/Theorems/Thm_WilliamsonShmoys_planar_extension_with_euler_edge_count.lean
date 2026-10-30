@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_extension_with_euler_edge_count
 -- name    : WilliamsonShmoys.planar_extension_with_euler_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:58:36.670646+00:00
 -- url     : https://prove2.me/theorems/9367f2ac-e8a7-4ca2-9515-83e5ed53886a

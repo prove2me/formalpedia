@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_triangulated_planar_supergraph_edge_bound_1e14dc85_fe67_4e30_934e_c619828dd605
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:43:24.769114+00:00
 -- url     : https://prove2.me/submissions/845dff07-13a7-492a-a3c8-c59b04bc5a0c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

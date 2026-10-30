@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.lcoeff_qPoch_tail_pair_low_nat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:25:53.420848+00:00
 -- url     : https://prove2.me/submissions/a4a4fb71-03e7-4d36-bb95-edc2ac9d4825
 

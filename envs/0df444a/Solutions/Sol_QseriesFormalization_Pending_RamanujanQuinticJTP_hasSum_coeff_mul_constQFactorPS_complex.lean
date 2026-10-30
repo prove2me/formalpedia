@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.hasSum_coeff_mul_constQFactorPS_complex
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:18:27.106104+00:00
 -- url     : https://prove2.me/submissions/e2c10947-7334-4012-aca0-e4d75a6c1bfb
 

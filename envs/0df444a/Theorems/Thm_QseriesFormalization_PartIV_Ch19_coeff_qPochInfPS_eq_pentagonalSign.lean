@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_coeff_qPochInfPS_eq_pentagonalSign
 -- name    : QseriesFormalization.PartIV.Ch19.coeff_qPochInfPS_eq_pentagonalSign
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:50:51.574133+00:00
 -- url     : https://prove2.me/theorems/e29a590d-362d-4952-9157-d0436c85403b
 -- title:

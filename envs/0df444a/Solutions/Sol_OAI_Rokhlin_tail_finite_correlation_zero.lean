@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Rokhlin.tail_finite_correlation_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-26T07:02:57.317723+00:00
 -- url     : https://prove2.me/submissions/80551dd8-cc52-4249-9bfd-b835e466fe12
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Rokhlin

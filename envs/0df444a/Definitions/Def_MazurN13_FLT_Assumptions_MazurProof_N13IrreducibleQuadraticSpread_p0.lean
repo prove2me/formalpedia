@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IrreducibleQuadraticSpread_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IrreducibleQuadraticSpread_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:50:38.93783+00:00
 -- url     : https://prove2.me/theorems/18fa3367-cfa1-4b58-9ff7-6d754a496c27
 -- title:

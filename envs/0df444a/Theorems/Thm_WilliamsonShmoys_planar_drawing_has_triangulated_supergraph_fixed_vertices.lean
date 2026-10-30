@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_triangulated_supergraph_fixed_vertices
 -- name    : WilliamsonShmoys.planar_drawing_has_triangulated_supergraph_fixed_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T20:32:24.932267+00:00
 -- url     : https://prove2.me/theorems/38271ead-fcb7-486e-b3a1-3bd65c5883ef

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_syracuse_no_least_period_50275
 -- name    : CollatzFrontier.syracuse_no_least_period_50275
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:36:28.943165+00:00
 -- url     : https://prove2.me/theorems/efb1f864-5ba7-4dbe-a76f-951cb11fddc8
 -- title:

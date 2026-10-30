@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanNotebooks_entry_23_13_landau
 -- name    : RamanujanNotebooks.entry_23_13_landau
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T23:06:35.418026+00:00
 -- url     : https://prove2.me/theorems/517a1e54-d391-4ece-a681-73193ddb5baa
 -- title:

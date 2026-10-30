@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceSharing_Threshold_corollary_1
 -- name    : MarketplaceSharing.Threshold.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:32:41.452495+00:00
 -- url     : https://prove2.me/theorems/4fe342a5-c030-4f81-8ccc-469d9d29aac2

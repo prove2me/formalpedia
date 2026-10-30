@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundleShaping_NoOrderSet_theorem_2_b_concave
 -- name    : BundleShaping.NoOrderSet.theorem_2_b_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:12:16.112799+00:00
 -- url     : https://prove2.me/theorems/54af5831-c1ee-4a72-b92b-72b30a00bad6

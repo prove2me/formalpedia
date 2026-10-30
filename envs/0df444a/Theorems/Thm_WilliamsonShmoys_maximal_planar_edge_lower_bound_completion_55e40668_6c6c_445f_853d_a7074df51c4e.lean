@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_lower_bound_completion_55e40668_6c6c_445f_853d_a7074df51c4e
 -- name    : WilliamsonShmoys.maximal_planar_edge_lower_bound_completion_55e40668_6c6c_445f_853d_a7074df51c4e
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:32:36.566711+00:00
 -- url     : https://prove2.me/theorems/ea86fb8c-626b-4602-b4df-ce0f5d3fdec6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_supergraph_edge_count_lower_bound
 -- name    : WilliamsonShmoys.drawable_supergraph_edge_count_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T07:31:34.879928+00:00
 -- url     : https://prove2.me/theorems/6806e764-8684-4246-93b2-a7ef08b08a0a

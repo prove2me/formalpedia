@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.good_formal_level_triples
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:29:42.117669+00:00
 -- url     : https://prove2.me/submissions/2519ed6d-de4a-435f-b49b-ad84cebab4f2
 

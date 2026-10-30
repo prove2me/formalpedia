@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrClusterExp_IBR_proposition_3_1
 -- name    : CorrClusterExp.IBR.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:01.753115+00:00
 -- url     : https://prove2.me/theorems/6752fd2f-c37a-4234-befd-a59e199fcb72

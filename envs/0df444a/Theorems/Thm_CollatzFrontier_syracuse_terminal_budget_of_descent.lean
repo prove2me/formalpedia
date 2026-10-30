@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_syracuse_terminal_budget_of_descent
 -- name    : CollatzFrontier.syracuse_terminal_budget_of_descent
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:25:18.409985+00:00
 -- url     : https://prove2.me/theorems/2513a4d3-77eb-4b93-9876-33755812122c
 -- title:

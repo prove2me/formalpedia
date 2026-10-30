@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter15_FormalDeriv
 -- name    : QseriesFormalization_Pending_Chapter15_FormalDeriv
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:34:35.535822+00:00
 -- url     : https://prove2.me/theorems/3cbe8be3-5abc-4099-abcf-14c45f929f65
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SideConstrainedDTA_Existence_lemma_5_7
 -- name    : SideConstrainedDTA.Existence.lemma_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:20.80466+00:00
 -- url     : https://prove2.me/theorems/919330cc-d37a-4da1-9a9b-8f3e519232aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_simple_graph_edge_count_upper_bound_0319396f
 -- name    : WilliamsonShmoys.planar_simple_graph_edge_count_upper_bound_0319396f
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T01:08:10.507568+00:00
 -- url     : https://prove2.me/theorems/1421d245-d209-4a30-a3d5-a4bf5a371168

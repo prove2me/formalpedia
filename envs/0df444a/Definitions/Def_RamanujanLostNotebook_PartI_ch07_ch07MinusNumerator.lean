@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch07_ch07MinusNumerator
 -- name    : RamanujanLostNotebook_PartI_ch07_ch07MinusNumerator
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T04:53:43.541922+00:00
 -- url     : https://prove2.me/theorems/5a22379f-126c-4640-937f-578889ad6c65
 -- title:

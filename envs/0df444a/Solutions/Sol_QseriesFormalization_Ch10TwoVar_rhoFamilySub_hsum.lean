@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.rhoFamilySub_hsum
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:37:51.895665+00:00
 -- url     : https://prove2.me/submissions/d66d24a7-26ae-4d79-8124-5d9f1dfd5a5e
 

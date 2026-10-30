@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_bounded_descent_generated
 -- name    : CollatzFrontier.bounded_descent_generated
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:58:22.452411+00:00
 -- url     : https://prove2.me/theorems/9fa112f4-9f0e-4a99-b490-7b32d3a2f43a
 -- title:

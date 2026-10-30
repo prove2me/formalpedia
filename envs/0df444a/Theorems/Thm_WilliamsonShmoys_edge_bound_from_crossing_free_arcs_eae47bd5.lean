@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_bound_from_crossing_free_arcs_eae47bd5
 -- name    : WilliamsonShmoys.edge_bound_from_crossing_free_arcs_eae47bd5
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T11:44:20.453023+00:00
 -- url     : https://prove2.me/theorems/014ba93e-27d6-4424-99f6-daebb07fc320

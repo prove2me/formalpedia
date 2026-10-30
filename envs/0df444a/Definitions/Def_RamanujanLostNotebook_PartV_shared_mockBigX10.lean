@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_shared_mockBigX10
 -- name    : RamanujanLostNotebook_PartV_shared_mockBigX10
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T16:09:54.577071+00:00
 -- url     : https://prove2.me/theorems/415bea81-2579-4f41-a1b1-4c5c97ad69f5
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_kernel_bounds_heat_mass
 -- name    : EthierKurtz.oblique_kernel_bounds_heat_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T23:18:45.941002+00:00
 -- url     : https://prove2.me/theorems/5c4487eb-7c4e-4334-afc4-4d074df3320e

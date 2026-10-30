@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for maximal_planar_edgeSet_ncard_ge_three_mul_card_sub_six
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:13:37.061271+00:00
 -- url     : https://prove2.me/submissions/903d0218-9a79-42a1-9d12-e55b07d49158
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

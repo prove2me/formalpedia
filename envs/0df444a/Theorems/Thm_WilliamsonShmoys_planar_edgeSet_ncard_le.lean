@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edgeSet_ncard_le
 -- name    : WilliamsonShmoys.planar_edgeSet_ncard_le
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:04:10.930662+00:00
 -- url     : https://prove2.me/theorems/3215bf73-2bb0-494f-be7f-83f41ecfa990

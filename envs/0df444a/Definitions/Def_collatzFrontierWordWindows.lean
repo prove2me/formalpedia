@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_collatzFrontierWordWindows
 -- name    : collatzFrontierWordWindows
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:35:59.879284+00:00
 -- url     : https://prove2.me/theorems/4009e76c-fb68-44b7-8990-e0b46bb1a1c6
 -- title:

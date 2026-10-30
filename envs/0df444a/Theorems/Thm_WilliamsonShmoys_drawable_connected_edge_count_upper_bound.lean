@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_connected_edge_count_upper_bound
 -- name    : WilliamsonShmoys.drawable_connected_edge_count_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:58:38.787973+00:00
 -- url     : https://prove2.me/theorems/9b7dc0d6-58f7-46d1-89ca-75df75c378f2

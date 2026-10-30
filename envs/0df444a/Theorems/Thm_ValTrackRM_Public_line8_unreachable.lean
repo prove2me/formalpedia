@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValTrackRM_Public_line8_unreachable
 -- name    : ValTrackRM.Public.line8_unreachable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:31:16.799398+00:00
 -- url     : https://prove2.me/theorems/8b48cfc5-4d55-4d74-a934-a1bf35d67e21

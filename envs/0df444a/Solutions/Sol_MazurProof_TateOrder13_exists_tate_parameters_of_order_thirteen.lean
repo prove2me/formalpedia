@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurProof.TateOrder13.exists_tate_parameters_of_order_thirteen
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:50:46.878984+00:00
 -- url     : https://prove2.me/submissions/04f7db61-866a-42e9-9c2f-f8c7f4ec623a
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_shared_thetaChi
 -- name    : RamanujanLostNotebook_PartII_shared_thetaChi
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T02:19:56.617991+00:00
 -- url     : https://prove2.me/theorems/25125b89-1592-4ae0-9183-8f74e1cc7608
 -- title:

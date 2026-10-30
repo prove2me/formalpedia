@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10Bridge.support_subset_box
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:19:18.117232+00:00
 -- url     : https://prove2.me/submissions/832af8f6-0b61-420f-ae3f-e29b15b5b2a0
 

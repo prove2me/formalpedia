@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_E5_two_product_bridge_of_E5_zero_product_bridge
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.E5_two_product_bridge_of_E5_zero_product_bridge
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:22:09.017271+00:00
 -- url     : https://prove2.me/theorems/e79cbf2a-3658-48b3-8346-389f6b930689
 -- title:

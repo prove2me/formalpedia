@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCostSched_GFCS_beta_increment_le
 -- name    : GenCostSched.GFCS.beta_increment_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:37.642669+00:00
 -- url     : https://prove2.me/theorems/f437cd12-c933-4803-a2fe-a74299ce51c1

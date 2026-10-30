@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.sliceSub_coeff_reindexed
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:57:34.054733+00:00
 -- url     : https://prove2.me/submissions/8b0057fc-7f15-44f0-9949-08b260d195f3
 

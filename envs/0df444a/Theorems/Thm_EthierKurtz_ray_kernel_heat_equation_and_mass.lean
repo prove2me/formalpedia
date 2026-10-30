@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_ray_kernel_heat_equation_and_mass
 -- name    : EthierKurtz.ray_kernel_heat_equation_and_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T23:25:44.327155+00:00
 -- url     : https://prove2.me/theorems/f90dfd5c-4b74-4cb6-b6b2-9160eeba16de

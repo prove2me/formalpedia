@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_jacobiProductNatFactor_S2_substitution
 -- name    : QseriesFormalization.PartI.Ch04.jacobiProductNatFactor_S2_substitution
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:30:32.901428+00:00
 -- url     : https://prove2.me/theorems/4303b4d7-58ce-45b4-84e3-25f332c3cc68
 -- title:

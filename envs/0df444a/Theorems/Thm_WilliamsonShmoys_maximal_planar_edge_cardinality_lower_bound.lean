@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_cardinality_lower_bound
 -- name    : WilliamsonShmoys.maximal_planar_edge_cardinality_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T23:45:43.197403+00:00
 -- url     : https://prove2.me/theorems/f663d05c-99da-48e1-89c4-968325b370bc

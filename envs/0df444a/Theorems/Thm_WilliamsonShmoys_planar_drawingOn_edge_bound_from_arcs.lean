@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawingOn_edge_bound_from_arcs
 -- name    : WilliamsonShmoys.planar_drawingOn_edge_bound_from_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:25:47.673392+00:00
 -- url     : https://prove2.me/theorems/c12bdc62-7d17-4f68-b639-7986bd508587

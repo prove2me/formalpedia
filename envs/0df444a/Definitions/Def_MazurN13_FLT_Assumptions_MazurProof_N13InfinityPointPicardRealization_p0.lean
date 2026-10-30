@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13InfinityPointPicardRealization_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13InfinityPointPicardRealization_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:27:58.026045+00:00
 -- url     : https://prove2.me/theorems/48de0058-b2d9-43bd-9824-69972f8a6bab
 -- title:

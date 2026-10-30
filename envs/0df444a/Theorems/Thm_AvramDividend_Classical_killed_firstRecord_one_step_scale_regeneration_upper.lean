@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_killed_firstRecord_one_step_scale_regeneration_upper
 -- name    : AvramDividend.Classical.killed_firstRecord_one_step_scale_regeneration_upper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T22:23:24.574537+00:00
 -- url     : https://prove2.me/theorems/9c0db52e-4ddb-41ca-b8ab-d512f05e5a3b

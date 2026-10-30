@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch24_ch24PrimePi
 -- name    : RamanujanNotebooks_ch24_ch24PrimePi
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T23:57:39.507389+00:00
 -- url     : https://prove2.me/theorems/b7cf76a3-6d0b-4933-9a18-ac3b2e5bffb7
 -- title:

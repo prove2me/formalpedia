@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_lower_bound_of_inclusion_maximal_job_09cd0f78_596e_4a94_9326_038b3be8d638
 -- name    : WilliamsonShmoys.planar_edge_count_lower_bound_of_inclusion_maximal_job_09cd0f78_596e_4a94_9326_038b3be8d638
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T04:54:20.058178+00:00
 -- url     : https://prove2.me/theorems/f7651c89-84f0-476d-9038-b143112ca155

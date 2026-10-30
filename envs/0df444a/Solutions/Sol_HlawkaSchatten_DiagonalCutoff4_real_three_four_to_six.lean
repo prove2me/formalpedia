@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HlawkaSchatten.DiagonalCutoff4.real_three_four_to_six
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @shivm
 -- created : 2026-10-28T14:54:50.836999+00:00
 -- url     : https://prove2.me/submissions/c5fa8071-4df3-4d1c-9edc-be4814591c06
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_real_cover_g000
 import Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_real_cover_g001

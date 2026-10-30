@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MarkedQuadraticExistence_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MarkedQuadraticExistence_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:41:44.051015+00:00
 -- url     : https://prove2.me/theorems/f8587920-f881-4131-9e26-a59fb3b356ec
 -- title:

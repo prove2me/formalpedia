@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_RamifiedDlog_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_RamifiedDlog_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:18:07.635293+00:00
 -- url     : https://prove2.me/theorems/e520f560-2886-4b9e-8ee5-02fe05740d97
 -- title:

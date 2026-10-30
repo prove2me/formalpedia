@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_lcoeff_jNegProductPartial_zero_eq_thetaCoeff
 -- name    : QseriesFormalization.Ch10TwoVar.lcoeff_jNegProductPartial_zero_eq_thetaCoeff
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:01:39.592994+00:00
 -- url     : https://prove2.me/theorems/bd0df78f-dc10-457e-a840-e78f4b53d3a3
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonRandomChoice_Assort_theorem_5
 -- name    : NonRandomChoice.Assort.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:40.067442+00:00
 -- url     : https://prove2.me/theorems/177bdacc-9599-4dc1-8659-182b49a10719

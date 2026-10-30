@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.multipliable_apFactorPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:21:31.099107+00:00
 -- url     : https://prove2.me/submissions/c187b5b7-292f-44a7-b60f-029c7cfe8305
 

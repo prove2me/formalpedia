@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13ConstructedHalfIntegralSpread_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13ConstructedHalfIntegralSpread_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T17:38:31.484659+00:00
 -- url     : https://prove2.me/theorems/aff9873b-81a1-4521-9404-f90efa921ea7
 -- title:

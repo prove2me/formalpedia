@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoVaRMC_Batching_ybe_eq_quantile
 -- name    : CoVaRMC.Batching.ybe_eq_quantile
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:51.271689+00:00
 -- url     : https://prove2.me/theorems/c848bc47-aa99-418d-9598-dc1e5e604498

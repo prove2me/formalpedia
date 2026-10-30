@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_lcoeff_qPoch_tail_pair_low_nat
 -- name    : QseriesFormalization.Pending.Ch10HM.lcoeff_qPoch_tail_pair_low_nat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:49:56.079876+00:00
 -- url     : https://prove2.me/theorems/2df7c12e-83ee-4d76-bf5b-2b35c5ba89ff
 -- title:

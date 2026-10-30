@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_for_max_cardinal_drawable_7f31c9a2
 -- name    : WilliamsonShmoys.planar_edge_count_upper_bound_for_max_cardinal_drawable_7f31c9a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:51:16.031642+00:00
 -- url     : https://prove2.me/theorems/7f19d37e-9065-4d86-af4a-0527774a3612

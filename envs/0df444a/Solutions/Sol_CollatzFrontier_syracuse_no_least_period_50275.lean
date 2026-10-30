@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.syracuse_no_least_period_50275
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:44:45.429859+00:00
 -- url     : https://prove2.me/submissions/a025c0d2-e70c-4127-a449-d973b426b797
 

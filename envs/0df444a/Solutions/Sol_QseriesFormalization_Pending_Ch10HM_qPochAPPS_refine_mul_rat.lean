@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.qPochAPPS_refine_mul_rat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:36:09.580316+00:00
 -- url     : https://prove2.me/submissions/0747c1d5-48be-4beb-bee0-05bb7bd87f37
 

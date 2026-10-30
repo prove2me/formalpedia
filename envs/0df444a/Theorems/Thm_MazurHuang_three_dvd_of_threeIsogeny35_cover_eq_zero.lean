@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_three_dvd_of_threeIsogeny35_cover_eq_zero
 -- name    : MazurHuang.three_dvd_of_threeIsogeny35_cover_eq_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:06.350918+00:00
 -- url     : https://prove2.me/theorems/f44ad6d5-33f0-45b6-a3c8-339cdd0ae90d
 -- title:

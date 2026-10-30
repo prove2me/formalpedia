@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_simple_graph_edge_bound_retry2
 -- name    : WilliamsonShmoys.planar_simple_graph_edge_bound_retry2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T20:46:18.810554+00:00
 -- url     : https://prove2.me/theorems/68a21d27-29ba-4640-a9f9-b202f61345f5

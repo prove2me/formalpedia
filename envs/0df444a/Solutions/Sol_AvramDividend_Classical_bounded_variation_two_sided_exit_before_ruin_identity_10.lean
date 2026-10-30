@@ -1,10 +1,8 @@
 -- Prove2me | solution 10 for AvramDividend.Classical.bounded_variation_two_sided_exit_before_ruin_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T13:02:14.923768+00:00
 -- url     : https://prove2.me/submissions/76c22da6-d3a9-4e9e-9452-b003a754803a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

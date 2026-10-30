@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.coeff_qPochInfPS_pow_three_int_eq_cubeConvolution
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:50:30.204634+00:00
 -- url     : https://prove2.me/submissions/4cc96ca4-0217-48ce-926d-71ed653312c4
 

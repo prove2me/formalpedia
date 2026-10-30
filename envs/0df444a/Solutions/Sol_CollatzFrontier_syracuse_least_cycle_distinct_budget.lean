@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.syracuse_least_cycle_distinct_budget
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:44:44.508701+00:00
 -- url     : https://prove2.me/submissions/8c188af5-f0ae-4343-b8c0-4a1447008e8b
 

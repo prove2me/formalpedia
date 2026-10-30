@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralCurveScheme_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralCurveScheme_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:48:57.253612+00:00
 -- url     : https://prove2.me/theorems/c85b5410-2369-4861-b461-44600d63bb67
 -- title:

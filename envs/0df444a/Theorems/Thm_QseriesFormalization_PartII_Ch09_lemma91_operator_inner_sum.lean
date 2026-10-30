@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch09_lemma91_operator_inner_sum
 -- name    : QseriesFormalization.PartII.Ch09.lemma91_operator_inner_sum
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:31:52.29264+00:00
 -- url     : https://prove2.me/theorems/e588a397-881a-4013-8487-cdfe26c2f96b
 -- title:

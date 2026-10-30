@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04Franklin.fixed_implies_pentagonal
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:03:30.549443+00:00
 -- url     : https://prove2.me/submissions/f1529eb9-26dd-4fde-81c6-f0cb073f0da4
 

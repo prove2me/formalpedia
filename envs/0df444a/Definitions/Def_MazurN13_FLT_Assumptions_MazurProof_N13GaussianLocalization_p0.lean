@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianLocalization_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianLocalization_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:24:24.431981+00:00
 -- url     : https://prove2.me/theorems/179a0e90-53d0-4505-942f-5d9e54b04c68
 -- title:

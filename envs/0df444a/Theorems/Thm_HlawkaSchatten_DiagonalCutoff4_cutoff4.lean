@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff4_cutoff4
 -- name    : HlawkaSchatten.DiagonalCutoff4.cutoff4
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-10-28T00:45:11.554737+00:00
 -- url     : https://prove2.me/theorems/0ee0074e-f0be-4d07-89a9-f8012acf0199
@@ -12,9 +12,9 @@
 --   Prove that $K_p$ is the least real constant $C$ such that
 --   $$\|x\|_p+\|y\|_p+\|z\|_p-\|x+y+z\|_p\le C\bigl(2\|x\|_p+2\|y\|_p+2\|z\|_p-\|x+y\|_p-\|x+z\|_p-\|y+z\|_p\bigr)$$
 --   for every finite dimension and all complex vectors $x,y,z$ in that dimension.
---   The cutoff-four claim is not yet proved. The existing cutoff-six theorem covers $p\ge6$; the real three-dimensional interval $[4,6]$ remains the open obligation. No claim is made that four is the optimal cutoff.
+--   This theorem is proved on Prove2Me. The complete real three-dimensional interval $[4,6]$, the campaign reductions, and the proved cutoff-six theorem establish the result for every $p\ge4$. Four is not asserted to be the optimal cutoff.
 -- source:
---   Sharp diagonal Hlawka campaign: https://prove2.me/campaigns/sharp-diagonal-hlawka-constant . The cutoff-six theorem is proved: https://prove2.me/theorems/cc454546-564a-4781-a821-e78176963c44 . The extension to cutoff four is work in progress; the finite interval is not yet proved.
+--   Sharp diagonal Hlawka campaign: https://prove2.me/campaigns/sharp-diagonal-hlawka-constant . The real interval [4,6] is proved: https://prove2.me/theorems/ef250dcd-b74c-4162-aadf-1f68c353d915 . The proved cutoff-six theorem covers p >= 6: https://prove2.me/theorems/cc454546-564a-4781-a821-e78176963c44 .
 
 import Definitions.Def_HlawkaSchatten_DiagonalConstruction_Basic
 import Definitions.Def_HlawkaSchatten_DiagonalConstruction_Cyclic

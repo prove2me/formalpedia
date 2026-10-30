@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_extension_density
 -- name    : WilliamsonShmoys.planar_extension_density
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:23:31.882859+00:00
 -- url     : https://prove2.me/theorems/8b6262cf-afb8-48cb-948e-a428a96643e9

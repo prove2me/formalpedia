@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_drawable_graph_edge_bound_for_job_1741d11a_1189_4036_a189_421ad3678041
 -- name    : WilliamsonShmoys.edge_maximal_drawable_graph_edge_bound_for_job_1741d11a_1189_4036_a189_421ad3678041
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T05:48:03.191314+00:00
 -- url     : https://prove2.me/theorems/057ef142-41f3-41d0-8648-8115a105ce61

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.partial_prod_jTripleFactorPS_coeff_stable
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:30:18.317219+00:00
 -- url     : https://prove2.me/submissions/6f84cca8-7445-4259-a839-372e562ef57a
 

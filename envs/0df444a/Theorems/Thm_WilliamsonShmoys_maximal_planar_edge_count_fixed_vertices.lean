@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_fixed_vertices
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_fixed_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:05:35.285875+00:00
 -- url     : https://prove2.me/theorems/2b2bbb5c-14de-4433-af7a-1d29c3335de9

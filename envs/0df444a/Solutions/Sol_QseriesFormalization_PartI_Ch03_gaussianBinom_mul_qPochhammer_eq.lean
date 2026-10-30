@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch03.gaussianBinom_mul_qPochhammer_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:25:42.62399+00:00
 -- url     : https://prove2.me/submissions/e90d50e9-b65a-4ad1-8018-a08507bf6aef
 

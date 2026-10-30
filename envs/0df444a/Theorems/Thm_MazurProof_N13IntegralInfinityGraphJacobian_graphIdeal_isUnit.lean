@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13IntegralInfinityGraphJacobian_graphIdeal_isUnit
 -- name    : MazurProof.N13IntegralInfinityGraphJacobian.graphIdeal_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T04:52:52.357927+00:00
 -- url     : https://prove2.me/theorems/b2976cf4-9bbc-4401-b093-62b686680370

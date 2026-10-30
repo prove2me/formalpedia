@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_ArrayObjects_compact_zero_entropy_no_witness
 -- name    : OAI.Rokhlin.ArrayObjects.compact_zero_entropy_no_witness
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:46:11.848586+00:00
 -- url     : https://prove2.me/theorems/d0198119-9dc6-4a1d-996f-9ad7904304ca

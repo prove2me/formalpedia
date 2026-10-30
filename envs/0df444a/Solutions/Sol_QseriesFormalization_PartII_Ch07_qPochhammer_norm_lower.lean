@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.qPochhammer_norm_lower
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:32:06.073842+00:00
 -- url     : https://prove2.me/submissions/e912f9bf-9793-43e4-bf6d-09d994550bcc
 

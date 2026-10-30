@@ -4631,7 +4631,6 @@
 {"parent": "dusart_mesh_upper_group106_part00", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "BookProof.ChapterSchurFiniteDim.isSchurUnitary_of_irreducible", "child": "ChapterA", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSchurFiniteDim.isSchurUnitary_of_irreducible", "child": "ChapterSchurFiniteDim", "via": ["solution", "statement"]}
-{"parent": "ProcFlex.DMGI.theorem_3", "child": "ProcFlex_DMGI_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.KervaireSpectral.sumPhase_add_star_le_codim", "child": "OAI_GroupTheory_Kervaire_SpectralLogarithm", "via": ["solution", "statement"]}
 {"parent": "OAI.KervaireSpectral.sumPhase_add_star_le_codim", "child": "OAI_GroupTheory_Kervaire_ScalarPhase", "via": ["solution", "statement"]}
 {"parent": "OAI.KervaireSpectral.sumPhase_add_star_le_codim", "child": "OAI_GroupTheory_Kervaire_StrongLimits", "via": ["solution", "statement"]}
@@ -12059,7 +12058,6 @@
 {"parent": "OAI.Release075.expect_deletedMarks_le", "child": "OAI_GroupTheory_Hyperbolic_Incidence", "via": ["solution", "statement"]}
 {"parent": "OAI.Release075.expect_deletedMarks_le", "child": "TorsionFreeHyperbolic", "via": ["solution", "statement"]}
 {"parent": "OAI.Release075.expect_deletedMarks_le", "child": "OAI_GroupTheory_Hyperbolic_MatrixRank", "via": ["solution", "statement"]}
-{"parent": "FarmerInfo.Exclusive.proposition_2", "child": "FarmerInfo_Exclusive_Setting", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Information100.P06.classicalTwirl_agreement", "child": "QAlgorithms_Papers_Independent_Information100_P06", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group606_part01", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "OAIE3v2B192", "child": "OAIE3v2B164", "via": ["statement"]}
@@ -39495,7 +39493,6 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.forecastLawDensityPhysicalTarget_cutoff_of_active_support_s2", "child": "OAIE3v2B217", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.forecastLawDensityPhysicalTarget_cutoff_of_active_support_s2", "child": "OAIE3v2B301", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group259_part01", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "CloudMWU.Bicriteria.theorem_4", "child": "CloudMWU_Bicriteria_Model", "via": ["solution", "statement"]}
 {"parent": "OAI_Combinatorics_HoneycombCorridor_CollisionGrouping", "child": "OAI_Combinatorics_HoneycombCorridor_Currents", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_HoneycombCorridor_CollisionGrouping", "child": "OAI_Combinatorics_HoneycombCorridor_Curvature", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_HoneycombCorridor_CollisionGrouping", "child": "OAI_Combinatorics_HoneycombCorridor_ReturnCycles", "via": ["statement"]}
@@ -40934,7 +40931,6 @@
 {"parent": "OAI.EntropyRateDimension.FiniteEntropy.binEntropy_bits_le_three_sqrt", "child": "OAI_MeasureTheory_SelfSimilar_Basic", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyRateDimension.FiniteEntropy.binEntropy_bits_le_three_sqrt", "child": "SelfSimilar", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyRateDimension.FiniteEntropy.binEntropy_bits_le_three_sqrt", "child": "OAI_MeasureTheory_SelfSimilar_FiniteEntropy", "via": ["solution", "statement"]}
-{"parent": "CollabProject.TimeDep.theorem_5", "child": "CollabProject_TimeDep_Model", "via": ["statement"]}
 {"parent": "QAlgorithms.DeWolf.binEntropy2_gap_quadratic", "child": "QAlgorithms_Defs_Information", "via": ["solution", "statement"]}
 {"parent": "ComonoNetPricing_DebtEquity_Model", "child": "ComonoNetPricing_DebtEquity_Network", "via": ["statement"]}
 {"parent": "OAI.MainGap.mem_Her_of_moduli", "child": "OAI_Analysis_CStarAlgebra_PureInfiniteness_OrthogonalSlots", "via": ["solution", "statement"]}
@@ -51720,7 +51716,7 @@
 {"parent": "OAI_Combinatorics_MatchingPSD_EdgeMonomials", "child": "OAI_Combinatorics_MatchingPSD_IncidenceKernels", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_MatchingPSD_EdgeMonomials", "child": "OAI_Combinatorics_MatchingPSD_TableMoments", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_MatchingPSD_EdgeMonomials", "child": "OAI_Combinatorics_MatchingPSD_ScalarSmoothing", "via": ["statement"]}
-{"parent": "NetworkedMarkets.Relaxation.theorem_1_i", "child": "NetworkedMarkets_Relaxation_Setting", "via": ["solution", "statement"]}
+{"parent": "NetworkedMarkets.Relaxation.theorem_1_i", "child": "NetworkedMarkets_Relaxation_Setting", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group370_part03", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "TaoFivePrimes_RHBatch01New256Common", "child": "TaoFivePrimes_RHFastComplexBallArithmetic", "via": ["statement"]}
 {"parent": "BrandSpillover.Commitment.lemma_2", "child": "BrandSpillover_Commitment_Model", "via": ["solution", "statement"]}
@@ -67693,7 +67689,6 @@
 {"parent": "dusart_mesh_upper_group042_part00", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "NLogN.KFV.p18IL_of", "child": "IntMul_Kappa_K_Defs33", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group148_part01", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "ProcFlex.DMGI.theorem_2a", "child": "ProcFlex_DMGI_Model", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.Quantum.ProjectorRangeONB.subprojector_diff_eq_compl", "child": "MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.Quantum.ProjectorRangeONB.subprojector_diff_eq_compl", "child": "MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.Quantum.ProjectorRangeONB.subprojector_diff_eq_compl", "child": "MIPRE_Background_LIDT_MIPStarRE_Quantum_ProjectorONB", "via": ["solution", "statement"]}
@@ -70711,7 +70706,6 @@
 {"parent": "OAI.ReflexiveFixedPoints.OrderedTree.sum_descendants_eq_Ico", "child": "OAI_Analysis_Nonexpansive_Resolvents", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group398_part08", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "OAI.ContinuumTemperature.core_pressure_locally_uniform", "child": "OAIQWCT000", "via": ["solution", "statement"]}
-{"parent": "CloudMWU.Bicriteria.proposition_2_weak_duality", "child": "CloudMWU_Bicriteria_Queue", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group317", "child": "dusart_mesh_upper_group317_part04", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group317", "child": "dusart_mesh_upper_group317_part02", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group317", "child": "dusart_mesh_upper_group317_part05", "via": ["statement"]}

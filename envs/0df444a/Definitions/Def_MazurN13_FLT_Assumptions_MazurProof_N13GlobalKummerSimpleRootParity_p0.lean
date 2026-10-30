@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GlobalKummerSimpleRootParity_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GlobalKummerSimpleRootParity_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:04:16.939267+00:00
 -- url     : https://prove2.me/theorems/2756b000-4fc6-4dca-b4a0-4deab5e3d42e
 -- title:

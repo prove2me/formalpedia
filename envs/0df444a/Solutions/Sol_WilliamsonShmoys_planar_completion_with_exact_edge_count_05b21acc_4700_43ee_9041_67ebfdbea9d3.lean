@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_completion_with_exact_edge_count_05b21acc_4700_43ee_9041_67ebfdbea9d3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:35:37.768843+00:00
 -- url     : https://prove2.me/submissions/9e498355-f542-4e33-b878-20ec6e1a5c58
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

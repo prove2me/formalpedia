@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_six_offset_lower_bound
 -- name    : WilliamsonShmoys.maximal_planar_drawing_six_offset_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:29:42.645431+00:00
 -- url     : https://prove2.me/theorems/e6900d01-e9d4-454e-a64f-eebc6e59faa2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortOpt_HMF_eq_43
 -- name    : AssortOpt.HMF.eq_43
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:58:16.559719+00:00
 -- url     : https://prove2.me/theorems/0bb7e39c-743e-4f70-9e39-36499abf76a1

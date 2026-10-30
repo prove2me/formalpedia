@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch09.L_comp_M_double_sum
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:46:59.162864+00:00
 -- url     : https://prove2.me/submissions/1ecdd00e-8448-4872-a57f-43b3b1f97922
 

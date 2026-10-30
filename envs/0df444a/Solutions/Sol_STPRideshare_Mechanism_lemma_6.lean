@@ -1,0 +1,176 @@
+-- Prove2me | solution 1 for STPRideshare.Mechanism.lemma_6
+-- status  : ACCEPTED   (prove)
+-- author  : @tianyipeng
+-- created : 2026-10-30T05:00:26.192805+00:00
+-- url     : https://prove2.me/submissions/cab80e86-6b7f-44a1-a9b9-dec87232f969
+
+import Mathlib
+import Definitions.Def_STPRideshare_Mechanism_Model
+
+namespace STPRideshare.Mechanism
+
+open scoped Classical
+
+set_option linter.unusedSectionVars false
+
+namespace StaticAux
+
+variable {L : Type}
+
+theorem isPathFrom_times' {κ : Type} (P : Params L) :
+    ∀ (a : L) (t : ℕ) (zs : List (Trip L × Option κ)), P.IsPathFrom a t (zs.map Prod.fst) →
+      ∀ st ∈ zs, t ≤ st.1.2.2
+  | _, _, [], _ => by simp
+  | a, t, z :: zs, h => by
+    simp only [List.map_cons, Params.IsPathFrom] at h
+    obtain ⟨h1, h2, h3, h4⟩ := h
+    intro st hst
+    rcases List.mem_cons.mp hst with rfl | hst
+    · omega
+    · have := isPathFrom_times' P _ _ zs h4 st hst
+      omega
+
+/-- Along a feasible path, trip start times strictly increase, so entries are distinct. -/
+theorem isPathFrom_nodup {κ : Type} (P : Params L) (hP : ∀ a b, 1 ≤ P.δ a b) :
+    ∀ (a : L) (t : ℕ) (zs : List (Trip L × Option κ)), P.IsPathFrom a t (zs.map Prod.fst) →
+      zs.Nodup
+  | _, _, [], _ => List.nodup_nil
+  | a, t, z :: zs, h => by
+    simp only [List.map_cons, Params.IsPathFrom] at h
+    obtain ⟨h1, h2, h3, h4⟩ := h
+    refine List.nodup_cons.mpr ⟨fun hz => ?_, isPathFrom_nodup P hP _ _ zs h4⟩
+    have := isPathFrom_times' P _ _ zs h4 z hz
+    have := hP a z.1.2.1
+    omega
+
+theorem sum_map_sub' {α : Type} (l : List α) (f g : α → ℝ) :
+    (l.map (fun x => f x - g x)).sum = (l.map f).sum - (l.map g).sum := by
+  induction l with
+  | nil => simp
+  | cons a l ih => simp only [List.map_cons, List.sum_cons, ih]; ring
+
+theorem eq_zero_of_sum_nonpos {α : Type} (l : List α) (f : α → ℝ) (hnn : ∀ x ∈ l, 0 ≤ f x)
+    (hs : (l.map f).sum ≤ 0) : ∀ x ∈ l, f x = 0 := by
+  induction l with
+  | nil => simp
+  | cons a l ih =>
+    simp only [List.map_cons, List.sum_cons] at hs
+    have h1 := hnn a (by simp)
+    have h2 : 0 ≤ (l.map f).sum := List.sum_nonneg (by
+      intro y hy; obtain ⟨x, hx, rfl⟩ := List.mem_map.mp hy; exact hnn x (by simp [hx]))
+    intro x hx
+    rcases List.mem_cons.mp hx with rfl | hx
+    · linarith
+    · exact ih (fun y hy => hnn y (by simp [hy])) (by linarith) x hx
+
+/-- The payment of a rider-tagged entry of an action path. -/
+noncomputable def tagPay (p : Price L) {κ : Type} (st : Trip L × Option κ) : ℝ :=
+  if st.2.isSome then p st.1 else 0
+
+section Main
+
+variable {ι κ : Type} [Fintype ι] [Fintype κ] (e : Econ L ι κ)
+
+/-- With anonymous prices, a driver's total payment is the sum of the prices of the rider trips
+on her action path. -/
+theorem payTotal_eq (he : e.Valid) (d : Dispatch e) (hd : d.Feasible) (p : Price L) (i : ι) :
+    (d.withPrices p).payTotal i = ((d.z i).map (tagPay p)).sum := by
+  obtain ⟨hf1, hf2, hf3, hf4⟩ := hd
+  have hnd : (d.z i).Nodup := isPathFrom_nodup e.P he.1.1 _ _ _ (hf1 i)
+  -- step 1: sum over times
+  have h1 : (d.withPrices p).payTotal i =
+      ∑ j, if (riderTrip (e.R j), some j) ∈ d.z i then p (riderTrip (e.R j)) else 0 := by
+    unfold Plan.payTotal Dispatch.withPrices
+    simp only
+    rw [Finset.sum_comm]
+    refine Finset.sum_congr rfl (fun j _ => ?_)
+    have hτ : (e.R j).τ < e.P.T + 1 := by
+      have := he.2.2.2 j
+      have := he.1.1 (e.R j).o (e.R j).d
+      simp only [Params.IsTrip, riderTrip] at *
+      omega
+    by_cases hm : (riderTrip (e.R j), some j) ∈ d.z i
+    · rw [if_pos hm, Finset.sum_eq_single (e.R j).τ]
+      · simp [hm]
+      · intro b _ hb; rw [if_neg]; rintro ⟨_, h⟩; exact hb h.symm
+      · intro h; exact absurd (Finset.mem_range.mpr hτ) h
+    · rw [if_neg hm]
+      apply Finset.sum_eq_zero
+      intro b _
+      rw [if_neg]; rintro ⟨h, _⟩; exact hm h
+  -- step 2: as a sum over the entries of the path
+  rw [h1]
+  have h2 : ∀ st ∈ d.z i, tagPay p st =
+      ∑ j, if st = (riderTrip (e.R j), some j) then p (riderTrip (e.R j)) else 0 := by
+    intro st hst
+    unfold tagPay
+    rcases st with ⟨tr, _ | j0⟩
+    · simp
+    · have := hf2 i (tr, some j0) hst j0 rfl
+      simp only at this
+      subst this
+      rw [Finset.sum_eq_single j0]
+      · simp
+      · intro b _ hb; rw [if_neg]; intro h; simp at h; exact hb h.2.symm
+      · simp
+  rw [List.map_congr_left h2, ← List.sum_toFinset _ hnd, Finset.sum_comm]
+  refine Finset.sum_congr rfl (fun j _ => ?_)
+  rw [Finset.sum_ite_eq']
+  simp
+
+/-- In a CE, every entry of a driver's own action path is paid exactly its positive-part price:
+relocations have non-positive price and rider trips have non-negative price. -/
+theorem ce_entries (he : e.Valid) (d : Dispatch e) (p : Price L) (hce : d.IsCE p) (i : ι) :
+    ∀ st ∈ d.z i, tagPay p st = max (p st.1) 0 := by
+  obtain ⟨hfe, _, hdr⟩ := hce
+  have hpay := payTotal_eq e he d hfe p i
+  have hmem := (hdr i).2 ⟨d.path i, hfe.1 i, rfl⟩
+  -- own path with positive parts is at most the realized utility
+  simp only [Plan.driverUtil, Dispatch.cost] at hmem
+  have hcost : (d.withPrices p).toDispatch = d := rfl
+  rw [hcost, hpay] at hmem
+  simp only [Dispatch.path, List.map_map] at hmem
+  -- termwise inequality
+  have hle : ∀ st ∈ d.z i, tagPay p st ≤ max (p st.1) 0 := by
+    intro st _
+    unfold tagPay
+    split_ifs
+    · exact le_max_left _ _
+    · exact le_max_right _ _
+  have hsum : ((d.z i).map (fun st => max (p st.1) 0 - tagPay p st)).sum ≤ 0 := by
+    have : ((d.z i).map (fun st => max (p st.1) 0 - tagPay p st)).sum =
+        ((d.z i).map ((fun tr => max (p tr) 0) ∘ Prod.fst)).sum - ((d.z i).map (tagPay p)).sum := by
+      rw [← sum_map_sub']; rfl
+    rw [this]; linarith
+  have hnn : ∀ st ∈ d.z i, 0 ≤ max (p st.1) 0 - tagPay p st := fun st hst => by
+    linarith [hle st hst]
+  have hzero := eq_zero_of_sum_nonpos _ _ hnn hsum
+  intro st hst
+  have := hzero st hst
+  linarith
+
+end Main
+
+end StaticAux
+
+end STPRideshare.Mechanism
+
+
+namespace STPRideshare.Mechanism
+
+theorem lemma_6_aux {L ι κ : Type} [Fintype L] [Fintype ι] [Fintype κ] (e : Econ L ι κ)
+    (he : e.Valid) (d : Dispatch e) (p : Price L) (hce : d.IsCE p) :
+    ∀ (i : ι) (tr : Trip L), (tr, none) ∈ d.z i → p tr ≤ 0 := by
+  intro i tr htr
+  have := StaticAux.ce_entries e he d p hce i _ htr
+  simp only [StaticAux.tagPay, Option.isSome_none] at this
+  simp at this
+  linarith [le_max_left (p tr) 0]
+
+end STPRideshare.Mechanism
+
+open STPRideshare.Mechanism in
+theorem solution {L ι κ : Type} [Fintype L] [Fintype ι] [Fintype κ] (e : Econ L ι κ)
+    (he : e.Valid) (d : Dispatch e) (p : Price L) (hce : d.IsCE p) :
+    ∀ (i : ι) (tr : Trip L), (tr, none) ∈ d.z i → p tr ≤ 0 :=
+  lemma_6_aux e he d p hce

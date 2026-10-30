@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_underfull_edge_augmentation
 -- name    : WilliamsonShmoys.planar_underfull_edge_augmentation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T06:09:03.445264+00:00
 -- url     : https://prove2.me/theorems/7bb986fa-cc60-4171-bd66-8c1485a93a8f

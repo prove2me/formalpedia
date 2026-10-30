@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_triangulation_for_edge_bound
 -- name    : WilliamsonShmoys.planar_supergraph_triangulation_for_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:59:37.514992+00:00
 -- url     : https://prove2.me/theorems/5164bdb5-f88b-47a6-b9f7-561ca2e2d817

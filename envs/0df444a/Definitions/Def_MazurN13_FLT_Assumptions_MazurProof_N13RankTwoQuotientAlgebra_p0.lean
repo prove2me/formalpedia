@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13RankTwoQuotientAlgebra_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13RankTwoQuotientAlgebra_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:43:55.868431+00:00
 -- url     : https://prove2.me/theorems/cf08000f-8c92-4f41-bd77-6af0090cb166
 -- title:

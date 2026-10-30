@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.exists_X0_thirtyFive_point_of_X0_five_seven_fiber
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:12:40.911763+00:00
 -- url     : https://prove2.me/submissions/75ed4013-9013-498f-99f5-0e0e5e648631
 

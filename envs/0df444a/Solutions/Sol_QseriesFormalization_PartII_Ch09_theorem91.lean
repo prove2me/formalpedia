@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch09.theorem91
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:43:03.76946+00:00
 -- url     : https://prove2.me/submissions/5d7e960d-7147-4f00-a117-6f28910ee564
 

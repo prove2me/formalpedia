@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_coeff_finite_product_eq_signedStrictPartitionCount
 -- name    : QseriesFormalization.PartIV.Ch19.coeff_finite_product_eq_signedStrictPartitionCount
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:48:13.548104+00:00
 -- url     : https://prove2.me/theorems/ba547c7a-cb7b-4083-88e4-72e4dcfe2835
 -- title:

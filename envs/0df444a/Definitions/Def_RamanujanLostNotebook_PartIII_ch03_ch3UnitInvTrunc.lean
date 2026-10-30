@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch03_ch3UnitInvTrunc
 -- name    : RamanujanLostNotebook_PartIII_ch03_ch3UnitInvTrunc
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T09:01:29.198279+00:00
 -- url     : https://prove2.me/theorems/54a71192-ab57-49bc-80f2-c85399c35cf6
 -- title:

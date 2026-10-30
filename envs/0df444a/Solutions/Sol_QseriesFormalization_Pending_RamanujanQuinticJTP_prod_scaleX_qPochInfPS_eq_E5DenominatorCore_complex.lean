@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.prod_scaleX_qPochInfPS_eq_E5DenominatorCore_complex
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:51:47.195006+00:00
 -- url     : https://prove2.me/submissions/d7c57d8b-c64c-4b98-b191-1708abfad753
 

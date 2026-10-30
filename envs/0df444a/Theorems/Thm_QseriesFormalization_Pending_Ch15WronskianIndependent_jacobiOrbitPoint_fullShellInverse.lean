@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_jacobiOrbitPoint_fullShellInverse
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.jacobiOrbitPoint_fullShellInverse
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:14:25.317225+00:00
 -- url     : https://prove2.me/theorems/224f1e2b-0138-4de6-8257-9dc91a6841ee
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.threeIsogeny35_alpha_eq_cube_class
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:07:22.304288+00:00
 -- url     : https://prove2.me/submissions/54c87829-ea95-45f5-ad66-902ef6506be3
 

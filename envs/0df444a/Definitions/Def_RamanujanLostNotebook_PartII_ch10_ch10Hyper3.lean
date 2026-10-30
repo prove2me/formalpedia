@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch10_ch10Hyper3
 -- name    : RamanujanLostNotebook_PartII_ch10_ch10Hyper3
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T08:43:14.569338+00:00
 -- url     : https://prove2.me/theorems/79375aa6-05a0-4a65-9b21-3240eff860c7
 -- title:

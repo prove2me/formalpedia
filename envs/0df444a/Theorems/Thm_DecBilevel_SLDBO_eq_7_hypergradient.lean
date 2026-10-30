@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecBilevel_SLDBO_eq_7_hypergradient
 -- name    : DecBilevel.SLDBO.eq_7_hypergradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:37.611991+00:00
 -- url     : https://prove2.me/theorems/26c5a47f-1437-4574-918c-a183a1ca2d82

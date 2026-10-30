@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13EffectiveInfinityRepair_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13EffectiveInfinityRepair_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:34:49.950672+00:00
 -- url     : https://prove2.me/theorems/e5a098ce-62f7-4ab6-98b0-f8126d953535
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.norm_coeff_mul_pentagonalTripleFactor014PS_complex_le
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:02:40.670902+00:00
 -- url     : https://prove2.me/submissions/1da92c3a-b82f-4487-ab11-bb1002011179
 

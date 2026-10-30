@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_jTripleProductPartialLaurent_eq_coe_partial_jTripleFactorPS
 -- name    : QseriesFormalization.Pending.Ch10HM.jTripleProductPartialLaurent_eq_coe_partial_jTripleFactorPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:49:14.758836+00:00
 -- url     : https://prove2.me/theorems/5d669801-b9e5-424c-8335-f09d88e1cb1c
 -- title:

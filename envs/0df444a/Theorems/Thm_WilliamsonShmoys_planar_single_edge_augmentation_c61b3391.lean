@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_single_edge_augmentation_c61b3391
 -- name    : WilliamsonShmoys.planar_single_edge_augmentation_c61b3391
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T10:01:28.066087+00:00
 -- url     : https://prove2.me/theorems/55b4dccf-4d10-44b5-877b-8055cea99126

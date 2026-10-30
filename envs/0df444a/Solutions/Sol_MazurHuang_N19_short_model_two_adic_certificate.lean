@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.short_model_two_adic_certificate
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:37:12.887977+00:00
 -- url     : https://prove2.me/submissions/2b6d5dd6-47ed-410a-8229-bf85ef81f02f
 

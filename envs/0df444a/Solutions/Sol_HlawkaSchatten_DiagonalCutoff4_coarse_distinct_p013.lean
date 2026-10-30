@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p013
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @shivm
 -- created : 2026-10-29T00:31:36.149363+00:00
 -- url     : https://prove2.me/submissions/07f6f97a-b83f-4935-8b9e-bd25d3fcafbc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic.NormNum
 import Mathlib.Tactic.Linarith

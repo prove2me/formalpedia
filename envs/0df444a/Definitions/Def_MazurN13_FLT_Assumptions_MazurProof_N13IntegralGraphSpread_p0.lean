@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralGraphSpread_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralGraphSpread_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:29:52.311985+00:00
 -- url     : https://prove2.me/theorems/52397fe6-ac8c-4b36-b050-ba89823007d5
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_has_triangular_incidence_count
 -- name    : WilliamsonShmoys.maximal_planar_drawing_has_triangular_incidence_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T04:42:48.400819+00:00
 -- url     : https://prove2.me/theorems/94fe7ade-67af-4d0f-8c97-4b852ca16eac

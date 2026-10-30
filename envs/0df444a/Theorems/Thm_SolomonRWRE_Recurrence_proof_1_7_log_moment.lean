@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolomonRWRE_Recurrence_proof_1_7_log_moment
 -- name    : SolomonRWRE.Recurrence.proof_1_7_log_moment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:31:12.983699+00:00
 -- url     : https://prove2.me/theorems/a8f88add-8b3e-45d8-9845-8778b8600ab0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_Preparation_physical_old_estimates
 -- name    : OAI.MetricKMedian.Preparation.physical_old_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:28:18.139902+00:00
 -- url     : https://prove2.me/theorems/7d5202e4-d877-486c-9e58-1a971b7c3b77

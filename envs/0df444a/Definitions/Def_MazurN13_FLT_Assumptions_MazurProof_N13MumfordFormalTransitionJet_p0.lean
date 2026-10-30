@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MumfordFormalTransitionJet_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MumfordFormalTransitionJet_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:32:33.421914+00:00
 -- url     : https://prove2.me/theorems/b2e96d13-2f10-4fc2-b0aa-88668a309780
 -- title:

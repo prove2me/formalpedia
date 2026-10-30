@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_section5_four_qPochInfPS_pow_four_rat
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.section5_four_qPochInfPS_pow_four_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:29:46.105924+00:00
 -- url     : https://prove2.me/theorems/a593be3d-a555-4052-97c0-ff2686a6c292
 -- title:

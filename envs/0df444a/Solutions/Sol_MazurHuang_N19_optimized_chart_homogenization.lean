@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.optimized_chart_homogenization
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:47:31.199248+00:00
 -- url     : https://prove2.me/submissions/611c7074-6a7f-4a4a-b8a5-063100da9534
 

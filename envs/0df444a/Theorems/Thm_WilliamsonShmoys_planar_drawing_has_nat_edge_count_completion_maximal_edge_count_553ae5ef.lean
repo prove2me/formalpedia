@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_nat_edge_count_completion_maximal_edge_count_553ae5ef
 -- name    : WilliamsonShmoys.planar_drawing_has_nat_edge_count_completion_maximal_edge_count_553ae5ef
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T06:38:04.201572+00:00
 -- url     : https://prove2.me/theorems/57ec06b7-68e5-4473-9704-8e33e9567d83

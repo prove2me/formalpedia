@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.pi_or_piBarDividesExact_of_norm_mod_five_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:53:21.715232+00:00
 -- url     : https://prove2.me/submissions/e273d0a9-353d-4928-98bb-5ee63a1baa5e
 

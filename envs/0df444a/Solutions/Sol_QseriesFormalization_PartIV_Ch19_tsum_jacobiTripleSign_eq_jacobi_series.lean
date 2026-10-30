@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.tsum_jacobiTripleSign_eq_jacobi_series
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:50:16.251625+00:00
 -- url     : https://prove2.me/submissions/3d31f755-a365-4f3a-ab22-9ee4299a7c83
 

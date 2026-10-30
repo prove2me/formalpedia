@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10Bridge.mem_squareWindow_Icc
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:09:15.701927+00:00
 -- url     : https://prove2.me/submissions/0cda20a9-2ef7-4613-9258-6f026b021eed
 

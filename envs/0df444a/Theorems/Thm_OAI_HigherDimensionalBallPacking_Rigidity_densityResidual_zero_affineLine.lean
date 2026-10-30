@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HigherDimensionalBallPacking_Rigidity_densityResidual_zero_affineLine
 -- name    : OAI.HigherDimensionalBallPacking.Rigidity.densityResidual_zero_affineLine
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T16:43:24.393128+00:00
 -- url     : https://prove2.me/theorems/c1362665-1d60-430d-9221-183a517d428b

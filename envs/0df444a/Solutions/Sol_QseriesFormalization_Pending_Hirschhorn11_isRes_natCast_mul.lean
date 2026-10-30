@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.isRes_natCast_mul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:37:12.920994+00:00
 -- url     : https://prove2.me/submissions/d3757561-a362-44c7-8dfd-348f4fd34772
 

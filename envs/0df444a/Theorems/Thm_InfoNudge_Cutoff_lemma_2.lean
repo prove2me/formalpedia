@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoNudge_Cutoff_lemma_2
 -- name    : InfoNudge.Cutoff.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:39.250581+00:00
 -- url     : https://prove2.me/theorems/c32dc83d-d586-490d-bab8-276f106b7ab5

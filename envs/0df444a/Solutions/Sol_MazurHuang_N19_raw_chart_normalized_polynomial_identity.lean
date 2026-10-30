@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.raw_chart_normalized_polynomial_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:54:15.277308+00:00
 -- url     : https://prove2.me/submissions/c64ce6ac-19a9-4108-9ff7-1b7064e73d4b
 

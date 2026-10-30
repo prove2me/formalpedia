@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_bound__p2m_a4df0fa7_688f_4bd0_bfe4_ea6603f7e8eb_a1
 -- name    : WilliamsonShmoys.maximal_planar_edge_bound__p2m_a4df0fa7_688f_4bd0_bfe4_ea6603f7e8eb_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:46:38.896827+00:00
 -- url     : https://prove2.me/theorems/46c30075-4bfd-440f-9130-4a3c3cfebadb

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_summable_pentagonal014ThetaTerm
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.summable_pentagonal014ThetaTerm
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:38:14.096005+00:00
 -- url     : https://prove2.me/theorems/1d785fd4-94ea-4613-b659-9586945cd563
 -- title:

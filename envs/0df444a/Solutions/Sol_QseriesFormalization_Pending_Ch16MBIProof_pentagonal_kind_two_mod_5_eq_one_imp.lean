@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.pentagonal_kind_two_mod_5_eq_one_imp
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:01:20.992365+00:00
 -- url     : https://prove2.me/submissions/7640c073-0ac3-4618-a418-91af5f865df4
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_has_planar_edge_bound
 -- name    : WilliamsonShmoys.maximal_drawable_graph_has_planar_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:12:43.095617+00:00
 -- url     : https://prove2.me/theorems/71d18d81-b781-4d1d-8db7-e961ba28c810

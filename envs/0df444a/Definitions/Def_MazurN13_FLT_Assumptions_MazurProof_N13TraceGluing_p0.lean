@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TraceGluing_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TraceGluing_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:31:51.095985+00:00
 -- url     : https://prove2.me/theorems/71b6e581-a80f-4db9-bc48-810299936aa4
 -- title:

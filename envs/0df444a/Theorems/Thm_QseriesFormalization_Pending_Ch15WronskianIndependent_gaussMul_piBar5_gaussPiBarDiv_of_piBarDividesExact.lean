@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_gaussMul_piBar5_gaussPiBarDiv_of_piBarDividesExact
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.gaussMul_piBar5_gaussPiBarDiv_of_piBarDividesExact
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:13:48.957865+00:00
 -- url     : https://prove2.me/theorems/a1e6c333-b1d9-449d-87b4-c373c7ded9be
 -- title:

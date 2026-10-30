@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThresholdMNL_Pricing_theorem_4
 -- name    : ThresholdMNL.Pricing.theorem_4
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:36:19.623984+00:00
 -- url     : https://prove2.me/theorems/20b08ece-a606-48de-b5bb-ae50a5499eee

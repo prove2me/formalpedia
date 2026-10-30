@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MirrorBP_JEA_proposition_2
 -- name    : MirrorBP.JEA.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:58:49.948331+00:00
 -- url     : https://prove2.me/theorems/f59c040c-ea9b-45c9-a202-b93abd5ad580

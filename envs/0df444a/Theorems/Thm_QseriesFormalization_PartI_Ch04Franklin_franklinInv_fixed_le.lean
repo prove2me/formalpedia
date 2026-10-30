@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04Franklin_franklinInv_fixed_le
 -- name    : QseriesFormalization.PartI.Ch04Franklin.franklinInv_fixed_le
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:25:48.4592+00:00
 -- url     : https://prove2.me/theorems/e86a4315-072d-4571-b1e0-1c782e35014c
 -- title:

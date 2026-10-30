@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_incidence_for_euler_count
 -- name    : WilliamsonShmoys.maximal_drawable_graph_incidence_for_euler_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:14:21.52684+00:00
 -- url     : https://prove2.me/theorems/bb1e381f-3bfa-43e8-873d-4da72a56878c

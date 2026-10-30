@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoxTDIMinMax_Separable_lemma_3_2
 -- name    : BoxTDIMinMax.Separable.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:06:30.061804+00:00
 -- url     : https://prove2.me/theorems/7f079e4a-2643-43c7-b20e-a033853ab745

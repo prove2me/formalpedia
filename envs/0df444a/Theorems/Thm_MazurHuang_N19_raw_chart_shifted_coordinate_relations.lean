@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_raw_chart_shifted_coordinate_relations
 -- name    : MazurHuang.N19.raw_chart_shifted_coordinate_relations
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:21.488168+00:00
 -- url     : https://prove2.me/theorems/6d2d46ab-b763-4ab2-8008-f66ca7029096
 -- title:

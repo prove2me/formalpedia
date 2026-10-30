@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_triangular_map_face_count
 -- name    : WilliamsonShmoys.maximal_planar_drawing_triangular_map_face_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-25T22:54:28.773047+00:00
 -- url     : https://prove2.me/theorems/1412e851-c896-4214-8017-3b8f16a45cde

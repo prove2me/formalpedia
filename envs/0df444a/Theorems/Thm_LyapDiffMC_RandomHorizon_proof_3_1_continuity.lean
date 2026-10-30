@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LyapDiffMC_RandomHorizon_proof_3_1_continuity
 -- name    : LyapDiffMC.RandomHorizon.proof_3_1_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:44.203983+00:00
 -- url     : https://prove2.me/theorems/8f234985-08e3-48c1-9ddc-043345595106

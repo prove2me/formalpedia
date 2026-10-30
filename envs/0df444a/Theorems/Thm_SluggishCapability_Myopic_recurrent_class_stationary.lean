@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SluggishCapability_Myopic_recurrent_class_stationary
 -- name    : SluggishCapability.Myopic.recurrent_class_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:34.409089+00:00
 -- url     : https://prove2.me/theorems/e82090c1-a2b5-4bf3-acd1-92c470c4a900

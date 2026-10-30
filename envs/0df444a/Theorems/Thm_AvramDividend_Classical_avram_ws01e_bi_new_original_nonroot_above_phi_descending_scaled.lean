@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ws01e_bi_new_original_nonroot_above_phi_descending_scaled
 -- name    : AvramDividend.Classical.avram_ws01e_bi_new_original_nonroot_above_phi_descending_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-29T01:29:44.668982+00:00
 -- url     : https://prove2.me/theorems/f716346d-531e-4be5-8976-a42ca4df6e14

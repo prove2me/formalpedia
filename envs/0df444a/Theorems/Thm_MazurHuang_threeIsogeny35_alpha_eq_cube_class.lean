@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_threeIsogeny35_alpha_eq_cube_class
 -- name    : MazurHuang.threeIsogeny35_alpha_eq_cube_class
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:05:58.883878+00:00
 -- url     : https://prove2.me/theorems/6eca7688-2b89-4739-b2dc-42d0a60ae338
 -- title:

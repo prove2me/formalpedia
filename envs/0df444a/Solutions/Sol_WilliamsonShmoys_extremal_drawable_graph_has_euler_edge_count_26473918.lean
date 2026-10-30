@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.extremal_drawable_graph_has_euler_edge_count_26473918
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:05:58.288422+00:00
 -- url     : https://prove2.me/submissions/3f54c2ee-2d44-4a4a-a43d-6b72055e1e03
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_supergraph_with_euler_edge_count_26473918
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

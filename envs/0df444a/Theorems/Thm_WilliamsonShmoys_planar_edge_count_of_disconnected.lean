@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_of_disconnected
 -- name    : WilliamsonShmoys.planar_edge_count_of_disconnected
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T01:07:43.417155+00:00
 -- url     : https://prove2.me/theorems/03529993-0cac-4c04-9322-56ef094f9836

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FiniteContractIdealInvertible_p2
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FiniteContractIdealInvertible_p2
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T07:14:21.146589+00:00
 -- url     : https://prove2.me/theorems/72a9bb9f-1b4e-4e16-843d-818bb9b1b294
 -- title:

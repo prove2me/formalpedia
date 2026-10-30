@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_good_flex_cubeclasses
 -- name    : MazurHuang.N19.good_flex_cubeclasses
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:06.63398+00:00
 -- url     : https://prove2.me/theorems/081b92b0-d9e6-4777-a4e3-8fde401b5519
 -- title:

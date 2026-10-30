@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13InfinityHalf_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13InfinityHalf_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:26:41.859643+00:00
 -- url     : https://prove2.me/theorems/dd5798ce-ab84-4995-a300-f100609f0f4c
 -- title:

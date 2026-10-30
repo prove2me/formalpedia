@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.wronskianSelector_exists_int
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:53:56.403033+00:00
 -- url     : https://prove2.me/submissions/14da4d29-5c42-49fc-8c89-b01add47b313
 

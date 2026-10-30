@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13CechLaurentCore_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13CechLaurentCore_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:30:21.935218+00:00
 -- url     : https://prove2.me/theorems/d76f0604-d9c5-46f9-aa9c-fb1b89c97bbe
 -- title:

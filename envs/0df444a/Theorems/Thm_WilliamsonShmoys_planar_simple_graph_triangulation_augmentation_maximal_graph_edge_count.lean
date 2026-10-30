@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_simple_graph_triangulation_augmentation_maximal_graph_edge_count
 -- name    : WilliamsonShmoys.planar_simple_graph_triangulation_augmentation_maximal_graph_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T06:45:39.804927+00:00
 -- url     : https://prove2.me/theorems/3396737a-f473-47a7-8a50-921e40ec9d74

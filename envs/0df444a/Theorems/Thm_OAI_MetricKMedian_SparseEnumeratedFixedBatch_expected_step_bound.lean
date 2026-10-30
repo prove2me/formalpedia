@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_SparseEnumeratedFixedBatch_expected_step_bound
 -- name    : OAI.MetricKMedian.SparseEnumeratedFixedBatch.expected_step_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:33:15.736084+00:00
 -- url     : https://prove2.me/theorems/a1ed74ab-9e7e-4b42-b934-235b757aa33e

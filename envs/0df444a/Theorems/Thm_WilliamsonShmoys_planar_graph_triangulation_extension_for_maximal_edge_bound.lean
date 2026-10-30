@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_triangulation_extension_for_maximal_edge_bound
 -- name    : WilliamsonShmoys.planar_graph_triangulation_extension_for_maximal_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T01:26:30.162395+00:00
 -- url     : https://prove2.me/theorems/3e2c2e6e-1c06-4a01-82e7-ee101c95699a

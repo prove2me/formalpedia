@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_edge_count_upper_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T09:13:03.989644+00:00
 -- url     : https://prove2.me/submissions/d60edada-13b0-49d1-b225-10b520c4865a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_edge_bound_extension_to_maximal
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_has_exact_edge_count_v2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepeatedNRM_Myopic_scaling_step
 -- name    : RepeatedNRM.Myopic.scaling_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:14.408274+00:00
 -- url     : https://prove2.me/theorems/109a6312-6ba4-4911-a3ef-b9c4928e89d6

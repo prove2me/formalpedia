@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_retry2_triangulation_extension
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_retry2_triangulation_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:15:36.668481+00:00
 -- url     : https://prove2.me/theorems/9e9bab3a-ed2f-44d4-8020-d51853fbec93

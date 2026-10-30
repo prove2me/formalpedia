@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetMgmt_Profit_G1_shading_strictAntiOn
 -- name    : BudgetMgmt.Profit.G1_shading_strictAntiOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:23.909819+00:00
 -- url     : https://prove2.me/theorems/de149cf0-cc4e-4767-ac1d-28e91533a2fd

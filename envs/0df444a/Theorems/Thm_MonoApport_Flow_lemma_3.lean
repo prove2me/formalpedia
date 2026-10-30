@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoApport_Flow_lemma_3
 -- name    : MonoApport.Flow.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:41.365211+00:00
 -- url     : https://prove2.me/theorems/316a8a8e-790b-47e1-b5c1-3212b3caf0e3

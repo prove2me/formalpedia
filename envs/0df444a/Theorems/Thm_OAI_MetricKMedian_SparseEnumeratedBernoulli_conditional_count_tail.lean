@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_SparseEnumeratedBernoulli_conditional_count_tail
 -- name    : OAI.MetricKMedian.SparseEnumeratedBernoulli.conditional_count_tail
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:37:16.6461+00:00
 -- url     : https://prove2.me/theorems/e4475f32-4144-41de-916e-db5dec767913

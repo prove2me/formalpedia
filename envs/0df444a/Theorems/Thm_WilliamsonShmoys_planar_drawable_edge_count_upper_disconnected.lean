@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawable_edge_count_upper_disconnected
 -- name    : WilliamsonShmoys.planar_drawable_edge_count_upper_disconnected
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T08:59:06.233159+00:00
 -- url     : https://prove2.me/theorems/750f83fd-53ba-456e-9338-6f04ee193e86

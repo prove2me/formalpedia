@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_coeff_section83JTPProductPS_eq_coeff_partial
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.coeff_section83JTPProductPS_eq_coeff_partial
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:39:54.837353+00:00
 -- url     : https://prove2.me/theorems/dab5231e-1f7a-4552-aba7-5a3b3f236a59
 -- title:

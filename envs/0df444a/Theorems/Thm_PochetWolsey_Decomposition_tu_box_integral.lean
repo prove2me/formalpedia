@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PochetWolsey_Decomposition_tu_box_integral
 -- name    : PochetWolsey.Decomposition.tu_box_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:26:44.923294+00:00
 -- url     : https://prove2.me/theorems/6ac5bef5-037f-4833-86fe-82ff87873b7b

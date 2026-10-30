@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.section83_triangular_tsum_period_collapse_of_ne_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:29:21.967269+00:00
 -- url     : https://prove2.me/submissions/45f0e890-e1cf-4918-983c-51d3e84f5545
 

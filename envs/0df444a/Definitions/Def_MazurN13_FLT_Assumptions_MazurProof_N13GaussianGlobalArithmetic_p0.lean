@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GaussianGlobalArithmetic_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GaussianGlobalArithmetic_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:46:33.070305+00:00
 -- url     : https://prove2.me/theorems/75289f1b-d5c0-4496-ae75-dc41af49e7c1
 -- title:

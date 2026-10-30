@@ -1,0 +1,191 @@
+-- Prove2me | solution 1 for BitcoinBackboneProb.window_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @pitimespi
+-- created : 2026-10-30T00:37:42.231919+00:00
+-- url     : https://prove2.me/submissions/6328c409-0f72-49a1-9901-bc8f19e3a370
+
+import Definitions.Def_BitcoinBackboneProb
+import Theorems.Thm_BitcoinBackboneProb_integral_advCount
+import Theorems.Thm_BitcoinBackboneProb_integral_roundY
+import Theorems.Thm_BitcoinBackboneProb_sets_hoeffding
+
+open BitcoinBackboneProb BitcoinBackbone
+open MeasureTheory ProbabilityTheory
+
+private theorem integral_pi_prod_ber (m : ℕ) (p : unitInterval) (g : Fin m → Bool → ℝ) :
+    ∫ f : Fin m → Bool, ∏ i, g i (f i) ∂(Measure.pi fun _ => ber p) =
+      ∏ i, ((p : ℝ) * g i true + (1 - (p : ℝ)) * g i false) := by
+  rw [integral_fintype_prod_eq_prod]
+  congr 1; ext i
+  simp [ber, integral_bernoulliMeasure]
+
+private theorem integral_pi_eval_ber (m : ℕ) (p : unitInterval) (j : Fin m) (g : Bool → ℝ) :
+    ∫ f : Fin m → Bool, g (f j) ∂(Measure.pi fun _ => ber p) =
+      (p : ℝ) * g true + (1 - (p : ℝ)) * g false := by
+  have h := integral_pi_prod_ber m p (fun i b => if i = j then g b else 1)
+  simp only [Finset.prod_ite_eq', Finset.mem_univ, if_true] at h
+  rw [h]
+  rw [Finset.prod_eq_single j]
+  · simp
+  · intro b _ hb; simp [hb]
+  · simp
+
+private theorem honestCount_eq_zero_iff {n t : ℕ} (ρ : Round n t) :
+    honestCount ρ = 0 ↔ ∀ i, ρ.1 i = false := by
+  simp [honestCount, Finset.card_eq_zero, Finset.filter_eq_empty_iff]
+
+private theorem honestCount_eq_one_iff {n t : ℕ} (ρ : Round n t) (i : Fin n) :
+    (∀ j, ρ.1 j = decide (j = i)) → honestCount ρ = 1 := by
+  intro h
+  unfold honestCount
+  rw [Finset.card_eq_one]
+  exact ⟨i, by ext j; simp [h j]⟩
+
+private theorem roundY_real_eq {n t : ℕ} (ρ : Round n t) :
+    (roundY ρ : ℝ) = ∑ i, ∏ j, (if ρ.1 j = decide (j = i) then (1 : ℝ) else 0) := by
+  simp only [Finset.prod_boole, Finset.mem_univ, true_implies]
+  rw [Finset.sum_boole]
+  unfold roundY
+  by_cases h : honestCount ρ = 1
+  · obtain ⟨a, ha⟩ := Finset.card_eq_one.1 h
+    have hf : ∀ j, ρ.1 j = decide (j = a) := by
+      intro j
+      have := congrArg (fun s => j ∈ s) ha
+      simp at this
+      cases hj : ρ.1 j <;> simp_all
+    have : (Finset.univ.filter fun i => ∀ j, ρ.1 j = decide (j = i)) = {a} := by
+      ext i; simp only [Finset.mem_filter, Finset.mem_univ, true_and, Finset.mem_singleton]
+      constructor
+      · intro hi; have := (hi a).symm.trans (hf a); simpa [eq_comm] using this
+      · rintro rfl; exact hf
+    simp [h, this]
+  · have : (Finset.univ.filter fun i => ∀ j, ρ.1 j = decide (j = i)) = ∅ := by
+      ext i; simp only [Finset.mem_filter, Finset.mem_univ, true_and, Finset.notMem_empty, iff_false]
+      intro hi; exact h (honestCount_eq_one_iff ρ i hi)
+    simp [h, this]
+
+private theorem roundX_real_eq {n t : ℕ} (ρ : Round n t) :
+    (roundX ρ : ℝ) = 1 - ∏ i, (if ρ.1 i = false then (1 : ℝ) else 0) := by
+  rw [Finset.prod_boole]
+  unfold roundX
+  have := honestCount_eq_zero_iff ρ
+  by_cases h : honestCount ρ = 0
+  · simp [h, this.1 h]
+  · have h' : ¬ ∀ i, ρ.1 i = false := fun h'' => h (this.2 h'')
+    simp [Nat.pos_of_ne_zero h, h']
+
+private theorem advCount_real_eq {n t : ℕ} (ρ : Round n t) :
+    (advCount ρ : ℝ) = ∑ j, (if ρ.2 j = true then (1 : ℝ) else 0) := by
+  simp [advCount, Finset.sum_boole]
+
+private theorem integral_round_fst (n t : ℕ) (p : unitInterval) (g : (Fin n → Bool) → ℝ) :
+    ∫ ρ, g ρ.1 ∂(roundMeasure n t p) = ∫ f, g f ∂(Measure.pi fun _ => ber p) := by
+  unfold roundMeasure
+  rw [integral_fun_fst]; simp
+
+private theorem integral_round_snd (n t : ℕ) (p : unitInterval) (g : (Fin t → Bool) → ℝ) :
+    ∫ ρ, g ρ.2 ∂(roundMeasure n t p) = ∫ f, g f ∂(Measure.pi fun _ => ber p) := by
+  unfold roundMeasure
+  rw [integral_fun_snd]; simp
+
+private theorem integral_trace_eval (n t : ℕ) (p : unitInterval) (r : ℕ) (g : Round n t → ℝ) :
+    ∫ ω, g (ω r) ∂(P n t p) = ∫ ρ, g ρ ∂(roundMeasure n t p) := by
+  unfold P
+  conv_rhs => rw [← Measure.infinitePi_map_eval (fun _ : ℕ => roundMeasure n t p) r]
+  rw [integral_map (measurable_pi_apply r).aemeasurable (Measurable.of_discrete.aestronglyMeasurable)]
+
+private theorem advCount_le {n t : ℕ} (ρ : Round n t) : advCount ρ ≤ t := by
+  unfold advCount
+  exact (Finset.card_filter_le _ _).trans (by simp)
+
+private theorem roundY_le_one {n t : ℕ} (ρ : Round n t) : roundY ρ ≤ 1 := by
+  unfold roundY; split_ifs <;> simp
+
+private theorem hoeffding_core (n t : ℕ) (p : unitInterval) (S T : Finset ℕ) (hTS : T ⊆ S)
+    (j : ℕ) (ε : ℝ)
+    (hεdef : ε = j + T.card * (n * p * (1 - (p : ℝ)) ^ (n - 1)) - S.card * (t * p))
+    (hε : 0 ≤ ε) :
+    (P n t p).real {ω | ∑ i ∈ T, Y ω i + j ≤ ∑ i ∈ S, Z ω i} ≤
+      Real.exp (-2 * ε ^ 2 / (S.card * ((t : ℝ) + 1) ^ 2)) := by
+  classical
+  set y : ℝ := n * p * (1 - (p : ℝ)) ^ (n - 1) with hy
+  set z : ℝ := t * p with hz
+  let V : ℕ → Round n t → ℝ := fun i ρ => (advCount ρ : ℝ) - if i ∈ T then (roundY ρ : ℝ) else 0
+  have hVint : ∀ i, ∫ ω, V i (ω i) ∂(P n t p) = z - if i ∈ T then y else 0 := by
+    intro i
+    rw [integral_trace_eval n t p i (V i)]
+    simp only [V]
+    rw [integral_sub Integrable.of_finite Integrable.of_finite, integral_advCount]
+    split_ifs
+    · rw [integral_roundY]
+    · simp [hz]
+  let Xf : ℕ → Trace n t → ℝ := fun i ω => V i (ω i) - (z - if i ∈ T then y else 0)
+  have hind : iIndepFun Xf (P n t p) :=
+    iIndepFun_infinitePi (X := fun i ρ => V i ρ - (z - if i ∈ T then y else 0))
+      (fun _ => Measurable.of_discrete)
+  have hsub : ∀ i ∈ S, HasSubgaussianMGF (Xf i) ((‖(t : ℝ) - (-1)‖₊ / 2) ^ 2) (P n t p) := by
+    intro i _
+    have h := hasSubgaussianMGF_of_mem_Icc (X := fun ω => V i (ω i)) (μ := P n t p)
+      (a := -1) (b := t) ((Measurable.of_discrete (f := V i)).comp (measurable_pi_apply i)).aemeasurable
+      (ae_of_all _ (fun ω => by
+        have h1 := advCount_le (ω i)
+        have h2 := roundY_le_one (ω i)
+        have h1' : (advCount (ω i) : ℝ) ≤ t := by exact_mod_cast h1
+        have h2' : (roundY (ω i) : ℝ) ≤ 1 := by exact_mod_cast h2
+        have h3 : (0 : ℝ) ≤ advCount (ω i) := Nat.cast_nonneg _
+        have h4 : (0 : ℝ) ≤ roundY (ω i) := Nat.cast_nonneg _
+        simp only [V, Set.mem_Icc]
+        split_ifs <;> constructor <;> linarith))
+    rw [hVint i] at h
+    exact h
+  have hH := HasSubgaussianMGF.measure_sum_ge_le_of_iIndepFun hind hsub hε
+  have hset : {ω : Trace n t | ∑ i ∈ T, Y ω i + j ≤ ∑ i ∈ S, Z ω i} =
+      {ω | ε ≤ ∑ i ∈ S, Xf i ω} := by
+    ext ω
+    simp only [Set.mem_ofPred_eq, Xf, V]
+    rw [Finset.sum_sub_distrib, Finset.sum_sub_distrib, Finset.sum_sub_distrib,
+      Finset.sum_ite_mem, Finset.sum_ite_mem, Finset.inter_eq_right.mpr hTS]
+    simp only [Finset.sum_const, nsmul_eq_mul, hεdef]
+    have : ∀ i, (advCount (ω i) : ℝ) = Z ω i := fun i => rfl
+    have : ∀ i, (roundY (ω i) : ℝ) = Y ω i := fun i => rfl
+    simp only [*]
+    constructor
+    · intro h
+      have : ((∑ i ∈ T, Y ω i + j : ℕ) : ℝ) ≤ ((∑ i ∈ S, Z ω i : ℕ) : ℝ) := by exact_mod_cast h
+      push_cast at this
+      linarith
+    · intro h
+      have : ((∑ i ∈ T, Y ω i + j : ℕ) : ℝ) ≤ ((∑ i ∈ S, Z ω i : ℕ) : ℝ) := by
+        push_cast; linarith
+      exact_mod_cast this
+  rw [hset]
+  refine hH.trans (le_of_eq ?_)
+  congr 1
+  simp only [Finset.sum_const, nsmul_eq_mul]
+  push_cast
+  rw [sub_neg_eq_add, Real.norm_of_nonneg (by positivity)]
+  rcases Nat.eq_zero_or_pos S.card with h | h
+  · simp [h]
+  · have : (0 : ℝ) < S.card := by exact_mod_cast h
+    field_simp
+
+/-- Hoeffding bound for one window `[a, a + k]`: typicality fails on it with probability at most
+`exp (-2 ((k - 1) m - 2 t p)² / ((k + 1) (t + 1)²))`, where `m` is the honest-majority margin. -/
+theorem solution (n t : ℕ) (p : unitInterval) (a k : ℕ) (hk1 : 1 ≤ k)
+    (hk : 2 * t * (p : ℝ) ≤ ((k : ℝ) - 1) * margin n t p) :
+    (P n t p).real {ω | ∑ i ∈ Finset.Ioo a (a + k), Y ω i ≤ ∑ i ∈ Finset.Icc a (a + k), Z ω i} ≤
+      Real.exp (-2 * (((k : ℝ) - 1) * margin n t p - 2 * t * p) ^ 2 /
+        (((k : ℝ) + 1) * ((t : ℝ) + 1) ^ 2)) := by
+  have hS : ((Finset.Icc a (a + k)).card : ℝ) = (k : ℝ) + 1 := by
+    rw [Nat.card_Icc]; push_cast [show a + k + 1 - a = k + 1 by omega]; ring
+  have hT : ((Finset.Ioo a (a + k)).card : ℝ) = (k : ℝ) - 1 := by
+    rw [Nat.card_Ioo, show a + k - a - 1 = k - 1 by omega, Nat.cast_sub hk1]; simp
+  have heq : (0 : ℝ) + ((Finset.Ioo a (a + k)).card : ℝ) * (n * p * (1 - (p : ℝ)) ^ (n - 1)) -
+      ((Finset.Icc a (a + k)).card : ℝ) * (t * p) = ((k : ℝ) - 1) * margin n t p - 2 * t * p := by
+    rw [hS, hT, margin]; ring
+  have h := sets_hoeffding n t p (Finset.Icc a (a + k)) (Finset.Ioo a (a + k))
+    Finset.Ioo_subset_Icc_self 0 (by push_cast; rw [heq]; linarith)
+  simp only [add_zero, Nat.cast_zero, zero_add] at h
+  simp only [zero_add] at heq
+  rw [heq, hS] at h
+  exact h

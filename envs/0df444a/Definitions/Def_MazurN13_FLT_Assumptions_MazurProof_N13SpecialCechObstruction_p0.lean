@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialCechObstruction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialCechObstruction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:32:36.893801+00:00
 -- url     : https://prove2.me/theorems/ad028f3b-8e5d-44f3-a24f-608f9ea3ad24
 -- title:

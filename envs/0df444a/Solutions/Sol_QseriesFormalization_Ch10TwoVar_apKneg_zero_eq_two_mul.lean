@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.apKneg_zero_eq_two_mul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:32:35.494595+00:00
 -- url     : https://prove2.me/submissions/03b5ac48-5e74-4dbc-be4f-84f0dc529aa6
 

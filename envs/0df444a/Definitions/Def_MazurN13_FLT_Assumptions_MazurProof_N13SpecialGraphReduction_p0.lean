@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialGraphReduction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialGraphReduction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:16:32.769661+00:00
 -- url     : https://prove2.me/theorems/30a8ce1f-073d-4493-9e82-cbf211d11432
 -- title:

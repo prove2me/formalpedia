@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutlierAssort_ActiveElim_corollary_1
 -- name    : OutlierAssort.ActiveElim.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T08:40:02.684041+00:00
 -- url     : https://prove2.me/theorems/c9897062-808e-48ef-87c4-05143edc1efe

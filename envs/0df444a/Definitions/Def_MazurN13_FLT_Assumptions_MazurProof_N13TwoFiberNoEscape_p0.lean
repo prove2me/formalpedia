@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoFiberNoEscape_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoFiberNoEscape_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:44:32.10823+00:00
 -- url     : https://prove2.me/theorems/822dbae0-b68a-4d13-a4be-1d64166fee8d
 -- title:

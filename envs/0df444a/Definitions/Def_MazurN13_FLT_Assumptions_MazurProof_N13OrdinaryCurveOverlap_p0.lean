@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13OrdinaryCurveOverlap_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13OrdinaryCurveOverlap_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:46:37.464392+00:00
 -- url     : https://prove2.me/theorems/a96a98ad-3643-4987-b86e-e4d16ea41b6a
 -- title:

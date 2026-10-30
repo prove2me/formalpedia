@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_TateNFDivision_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_TateNFDivision_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:44:42.971137+00:00
 -- url     : https://prove2.me/theorems/d20a4e4b-4f26-49f1-8cc7-ab807ca469ad
 -- title:

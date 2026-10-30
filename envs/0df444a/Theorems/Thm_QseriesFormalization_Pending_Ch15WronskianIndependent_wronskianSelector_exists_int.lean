@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_wronskianSelector_exists_int
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.wronskianSelector_exists_int
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:20:51.851986+00:00
 -- url     : https://prove2.me/theorems/15a9dd57-39ce-48d2-bea2-af36057472d6
 -- title:

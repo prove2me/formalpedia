@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_good_six_multiple_is_formal
 -- name    : MazurHuang.N19.good_six_multiple_is_formal
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:13.28599+00:00
 -- url     : https://prove2.me/theorems/184134ed-903b-4215-926c-bd82bc4a174f
 -- title:

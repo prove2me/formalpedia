@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteMemQL_Convergence_qStar_min_eq_JN
 -- name    : FiniteMemQL.Convergence.qStar_min_eq_JN
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:30:02.105232+00:00
 -- url     : https://prove2.me/theorems/01d2e7b3-369b-4cc3-95bc-c55282665714

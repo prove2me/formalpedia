@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_pentagonal_minus_cast_eq_pentagonalMod5Minus
 -- name    : QseriesFormalization.PartIV.Ch17.pentagonal_minus_cast_eq_pentagonalMod5Minus
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:43:50.554596+00:00
 -- url     : https://prove2.me/theorems/bbe1b9d9-d2ff-4e72-8606-d9db1d00bd00
 -- title:

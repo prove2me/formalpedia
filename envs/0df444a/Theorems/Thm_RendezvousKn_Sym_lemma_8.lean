@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RendezvousKn_Sym_lemma_8
 -- name    : RendezvousKn.Sym.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:12.421786+00:00
 -- url     : https://prove2.me/theorems/43262fb4-7e15-4856-b32e-559569efb202

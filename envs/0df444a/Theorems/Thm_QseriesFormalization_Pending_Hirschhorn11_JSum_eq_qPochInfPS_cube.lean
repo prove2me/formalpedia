@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_JSum_eq_qPochInfPS_cube
 -- name    : QseriesFormalization.Pending.Hirschhorn11.JSum_eq_qPochInfPS_cube
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:31:13.023848+00:00
 -- url     : https://prove2.me/theorems/5b6d90a0-3162-40ec-924b-f98a95d02551
 -- title:

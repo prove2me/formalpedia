@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_edge_count_bound_fddd844c
 -- name    : WilliamsonShmoys.connected_planar_edge_count_bound_fddd844c
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T07:42:48.024194+00:00
 -- url     : https://prove2.me/theorems/d2113679-7a71-4032-9a7c-bf81246b4b4a

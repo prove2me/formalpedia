@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch03_ch03Cubic
 -- name    : RamanujanLostNotebook_PartI_ch03_ch03Cubic
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T10:13:54.758273+00:00
 -- url     : https://prove2.me/theorems/5f18618a-6186-4ec0-a94d-8d7e9d74c8fa
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_count_for_face_count_85360098_dba7_4c11_ba84_e51ff8660a8a
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_count_for_face_count_85360098_dba7_4c11_ba84_e51ff8660a8a
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T17:46:06.769402+00:00
 -- url     : https://prove2.me/theorems/c9f2f72f-e500-46c8-ab0e-7bffe07c2b59

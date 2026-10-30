@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_shared_qPoch
 -- name    : RamanujanLostNotebook_PartIII_shared_qPoch
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T02:20:52.218345+00:00
 -- url     : https://prove2.me/theorems/f30cf995-1d95-46af-aaaf-8870055f5785
 -- title:

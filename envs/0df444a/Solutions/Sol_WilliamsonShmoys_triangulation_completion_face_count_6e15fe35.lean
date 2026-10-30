@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.triangulation_completion_face_count_6e15fe35
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T01:57:48.625508+00:00
 -- url     : https://prove2.me/submissions/6c083e37-0771-4096-a6b6-c0a58632e36c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_for_triangulation_completion_face_count_6e15fe35
 

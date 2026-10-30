@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13CenteredNormFirstOrder_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13CenteredNormFirstOrder_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T02:03:22.325324+00:00
 -- url     : https://prove2.me/theorems/c5893bef-15ba-450b-9c2d-286fd0573668
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_completion
 -- name    : WilliamsonShmoys.planar_drawing_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:43:49.765845+00:00
 -- url     : https://prove2.me/theorems/7b0f0259-fdff-4f2f-8071-8a0ca08f5fc0

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_HirschhornComb_hirschhorn_P_eq_combination
 -- name    : QseriesFormalization.Pending.HirschhornComb.hirschhorn_P_eq_combination
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T15:23:34.563327+00:00
 -- url     : https://prove2.me/theorems/3a093d98-6f90-4fce-bd96-adcede7761c0
 -- title:

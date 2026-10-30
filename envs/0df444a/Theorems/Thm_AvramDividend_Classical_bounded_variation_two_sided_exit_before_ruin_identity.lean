@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bounded_variation_two_sided_exit_before_ruin_identity
 -- name    : AvramDividend.Classical.bounded_variation_two_sided_exit_before_ruin_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T07:13:10.503746+00:00
 -- url     : https://prove2.me/theorems/494dbcd1-770a-49c0-986b-046103fab9c4

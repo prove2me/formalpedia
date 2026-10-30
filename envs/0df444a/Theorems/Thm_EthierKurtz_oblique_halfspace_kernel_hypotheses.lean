@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_halfspace_kernel_hypotheses
 -- name    : EthierKurtz.oblique_halfspace_kernel_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:37:40.104982+00:00
 -- url     : https://prove2.me/theorems/43232f28-2832-470b-88c6-6935756e0822

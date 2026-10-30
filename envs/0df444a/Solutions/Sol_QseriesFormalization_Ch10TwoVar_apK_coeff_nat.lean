@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.apK_coeff_nat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:29:51.823098+00:00
 -- url     : https://prove2.me/submissions/e7523550-2399-4c10-9eea-d6dc395ec6d2
 

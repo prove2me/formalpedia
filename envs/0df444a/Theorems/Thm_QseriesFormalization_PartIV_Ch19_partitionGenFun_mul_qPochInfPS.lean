@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_partitionGenFun_mul_qPochInfPS
 -- name    : QseriesFormalization.PartIV.Ch19.partitionGenFun_mul_qPochInfPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:57:53.297992+00:00
 -- url     : https://prove2.me/theorems/f1fb473f-2cc9-401e-9428-34e599d3bd59
 -- title:

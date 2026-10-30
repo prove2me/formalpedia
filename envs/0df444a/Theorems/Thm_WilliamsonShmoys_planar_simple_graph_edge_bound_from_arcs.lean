@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_simple_graph_edge_bound_from_arcs
 -- name    : WilliamsonShmoys.planar_simple_graph_edge_bound_from_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T13:10:24.394675+00:00
 -- url     : https://prove2.me/theorems/8efe11c9-488d-485e-9192-90e34a0f24b5

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch15_ch15LambertConverges
 -- name    : RamanujanLostNotebook_PartII_ch15_ch15LambertConverges
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T07:06:26.233257+00:00
 -- url     : https://prove2.me/theorems/ab75299b-6bd8-4418-86cd-f299c77a62e2
 -- title:

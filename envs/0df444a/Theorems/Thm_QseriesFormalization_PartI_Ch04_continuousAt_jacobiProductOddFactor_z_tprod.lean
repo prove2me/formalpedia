@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_continuousAt_jacobiProductOddFactor_z_tprod
 -- name    : QseriesFormalization.PartI.Ch04.continuousAt_jacobiProductOddFactor_z_tprod
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:27:41.48975+00:00
 -- url     : https://prove2.me/theorems/9616c8ee-3861-4800-8d2b-e4d544f91784
 -- title:

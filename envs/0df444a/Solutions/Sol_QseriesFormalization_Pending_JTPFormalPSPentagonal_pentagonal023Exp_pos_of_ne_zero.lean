@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.pentagonal023Exp_pos_of_ne_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:10:18.77848+00:00
 -- url     : https://prove2.me/submissions/f89f2637-2b47-444c-a0ab-675dd6eb2490
 

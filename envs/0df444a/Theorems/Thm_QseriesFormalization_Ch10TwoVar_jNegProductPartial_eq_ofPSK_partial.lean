@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_jNegProductPartial_eq_ofPSK_partial
 -- name    : QseriesFormalization.Ch10TwoVar.jNegProductPartial_eq_ofPSK_partial
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:00:08.376382+00:00
 -- url     : https://prove2.me/theorems/8b9a5d21-c20b-40a5-a75b-47f9d3118cea
 -- title:

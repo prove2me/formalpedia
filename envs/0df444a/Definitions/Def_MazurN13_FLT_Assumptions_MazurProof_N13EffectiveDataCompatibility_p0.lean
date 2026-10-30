@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13EffectiveDataCompatibility_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13EffectiveDataCompatibility_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T23:27:54.094331+00:00
 -- url     : https://prove2.me/theorems/963364c7-d410-44b1-b28a-730db0856b5f
 -- title:

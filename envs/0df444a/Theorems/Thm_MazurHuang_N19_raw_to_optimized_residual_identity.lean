@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_raw_to_optimized_residual_identity
 -- name    : MazurHuang.N19.raw_to_optimized_residual_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:37.541088+00:00
 -- url     : https://prove2.me/theorems/7303decb-d2cf-45f0-81fa-f078a283d378
 -- title:

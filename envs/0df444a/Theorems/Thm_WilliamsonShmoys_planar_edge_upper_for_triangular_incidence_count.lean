@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_upper_for_triangular_incidence_count
 -- name    : WilliamsonShmoys.planar_edge_upper_for_triangular_incidence_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:10:34.82601+00:00
 -- url     : https://prove2.me/theorems/447d55a9-2bd3-4bee-aeac-b9e7c1d6e8dd

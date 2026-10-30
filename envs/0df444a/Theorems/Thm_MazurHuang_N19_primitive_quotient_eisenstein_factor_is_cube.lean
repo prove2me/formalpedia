@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_primitive_quotient_eisenstein_factor_is_cube
 -- name    : MazurHuang.N19.primitive_quotient_eisenstein_factor_is_cube
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:47.818183+00:00
 -- url     : https://prove2.me/theorems/9604f849-d355-471c-95c2-8e0f49c32845
 -- title:

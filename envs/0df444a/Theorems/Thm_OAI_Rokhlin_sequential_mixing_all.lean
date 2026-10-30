@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_sequential_mixing_all
 -- name    : OAI.Rokhlin.sequential_mixing_all
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:38:13.043715+00:00
 -- url     : https://prove2.me/theorems/eed44740-1ee0-4529-b867-be41ca9e47b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LyapDiffMC_RandomHorizon_eq_3_8
 -- name    : LyapDiffMC.RandomHorizon.eq_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:38.045666+00:00
 -- url     : https://prove2.me/theorems/0ae05755-2233-4cf0-bc11-7e3572d8184b

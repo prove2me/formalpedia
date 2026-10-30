@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_qPochNeg_Qpow_eq_ofPSK_apFiniteNegPS
 -- name    : QseriesFormalization.Ch10TwoVar.qPochNeg_Qpow_eq_ofPSK_apFiniteNegPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:04:39.385114+00:00
 -- url     : https://prove2.me/theorems/3ef58c4e-c210-432b-bf10-c565e53c6f82
 -- title:

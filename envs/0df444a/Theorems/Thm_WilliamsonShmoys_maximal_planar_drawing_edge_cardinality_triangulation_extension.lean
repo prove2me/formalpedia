@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_edge_cardinality_triangulation_extension
 -- name    : WilliamsonShmoys.maximal_planar_drawing_edge_cardinality_triangulation_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:36:35.781348+00:00
 -- url     : https://prove2.me/theorems/efc9e89c-ebbd-41d7-941f-3b13c7de33da

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.theta_sum_2_eq_mod5_product
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:28:05.461159+00:00
 -- url     : https://prove2.me/submissions/70ede5fe-518e-451b-9e88-ae1fb6113293
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.hasFPowerSeriesOnBall_section83JTPProductAnalytic_productCoeff_small
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:15:23.164776+00:00
 -- url     : https://prove2.me/submissions/12f743a5-d7f0-4f3e-a923-447d896bb050
 

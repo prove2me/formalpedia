@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch11_ch11Inverse
 -- name    : RamanujanLostNotebook_PartII_ch11_ch11Inverse
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T11:23:29.583193+00:00
 -- url     : https://prove2.me/theorems/e16b27ed-9b2b-4243-b970-7268767af1e4
 -- title:

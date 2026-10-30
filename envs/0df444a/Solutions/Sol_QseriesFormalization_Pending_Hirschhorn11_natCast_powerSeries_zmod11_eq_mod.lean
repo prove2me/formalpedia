@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.natCast_powerSeries_zmod11_eq_mod
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:37:30.958683+00:00
 -- url     : https://prove2.me/submissions/832aea16-d41a-4f30-8a28-fb05eae60403
 

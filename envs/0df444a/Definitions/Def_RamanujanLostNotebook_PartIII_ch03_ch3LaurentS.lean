@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch03_ch3LaurentS
 -- name    : RamanujanLostNotebook_PartIII_ch03_ch3LaurentS
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T09:04:25.349237+00:00
 -- url     : https://prove2.me/theorems/9c099dcb-097f-42a7-b87a-825d5d99c326
 -- title:

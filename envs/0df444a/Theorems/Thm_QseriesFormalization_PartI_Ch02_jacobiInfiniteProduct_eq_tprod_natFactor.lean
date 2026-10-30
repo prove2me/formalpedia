@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch02_jacobiInfiniteProduct_eq_tprod_natFactor
 -- name    : QseriesFormalization.PartI.Ch02.jacobiInfiniteProduct_eq_tprod_natFactor
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:19:20.825609+00:00
 -- url     : https://prove2.me/theorems/b3f242a7-520e-499b-9e54-0c843a6a50c8
 -- title:

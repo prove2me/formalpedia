@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for syracuse_descent_residual_twentyseven_mod32_mod262144
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T11:58:36.303705+00:00
 -- url     : https://prove2.me/submissions/e9cf53c9-c28f-4942-b7ab-f8560a268b99
 -- note    : a sketch -- it imports a theorem that is still Open,

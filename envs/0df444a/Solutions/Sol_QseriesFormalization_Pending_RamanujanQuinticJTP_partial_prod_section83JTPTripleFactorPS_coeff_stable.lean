@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.partial_prod_section83JTPTripleFactorPS_coeff_stable
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:18:05.388234+00:00
 -- url     : https://prove2.me/submissions/6c994cf5-7a06-4e87-92c9-c52cdc4d02ca
 

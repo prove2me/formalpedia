@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.dividendValue_barrierStrategy_upExit_split
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T22:17:35.958314+00:00
 -- url     : https://prove2.me/submissions/f029fb7a-8fc8-4234-8f02-14faacd8d264
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

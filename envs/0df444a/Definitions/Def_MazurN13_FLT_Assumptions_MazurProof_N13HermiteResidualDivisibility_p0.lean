@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13HermiteResidualDivisibility_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13HermiteResidualDivisibility_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T02:52:14.925113+00:00
 -- url     : https://prove2.me/theorems/f4616dfc-a380-485b-9626-ad44d5a99a74
 -- title:

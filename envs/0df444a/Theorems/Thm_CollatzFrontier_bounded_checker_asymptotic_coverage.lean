@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_bounded_checker_asymptotic_coverage
 -- name    : CollatzFrontier.bounded_checker_asymptotic_coverage
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T18:31:40.94412+00:00
 -- url     : https://prove2.me/theorems/003f5af2-2109-4402-a79c-162cc14395a1
 -- title:

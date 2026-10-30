@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_coeff_qPochInfPS_pow_three_int_eq_cubeConvolution
 -- name    : QseriesFormalization.PartIV.Ch19.coeff_qPochInfPS_pow_three_int_eq_cubeConvolution
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:52:42.611394+00:00
 -- url     : https://prove2.me/theorems/4ffb232a-dfc0-45ff-82ff-ed0621b5a7ac
 -- title:

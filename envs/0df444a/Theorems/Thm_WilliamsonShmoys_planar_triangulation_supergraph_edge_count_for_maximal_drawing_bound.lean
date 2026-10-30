@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_supergraph_edge_count_for_maximal_drawing_bound
 -- name    : WilliamsonShmoys.planar_triangulation_supergraph_edge_count_for_maximal_drawing_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:03:03.695481+00:00
 -- url     : https://prove2.me/theorems/e0af0c25-eda4-4a07-86fb-83c9b4328991

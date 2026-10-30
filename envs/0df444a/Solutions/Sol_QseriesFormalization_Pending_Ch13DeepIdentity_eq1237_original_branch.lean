@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch13DeepIdentity.eq1237_original_branch
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:22:39.439407+00:00
 -- url     : https://prove2.me/submissions/c5ff482f-e452-4858-a4d2-14be56c25ca1
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawable_supergraph_triangulation
 -- name    : WilliamsonShmoys.planar_drawable_supergraph_triangulation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T18:00:15.357267+00:00
 -- url     : https://prove2.me/theorems/2a27a388-e06b-4db0-bfe8-7a93ec4c9c7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonRandomChoice_Assort_q0_mono_concave
 -- name    : NonRandomChoice.Assort.q0_mono_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:33.699159+00:00
 -- url     : https://prove2.me/theorems/b2a6695f-ccb1-47a4-a18c-909a2504be95

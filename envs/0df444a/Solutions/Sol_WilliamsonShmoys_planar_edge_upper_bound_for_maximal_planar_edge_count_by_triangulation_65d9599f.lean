@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_edge_upper_bound_for_maximal_planar_edge_count_by_triangulation_65d9599f
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:07:57.865747+00:00
 -- url     : https://prove2.me/submissions/2a06af56-f37f-4f30-af00-896f51eed1bd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_supergraph_triangulation_for_edge_bound
 import Theorems.Thm_WilliamsonShmoys_edge_count_mono_of_subgraph

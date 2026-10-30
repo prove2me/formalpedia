@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.theta_one_zero_shifted
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:47:32.28396+00:00
 -- url     : https://prove2.me/submissions/5991e6dd-c841-4c57-8516-55a07b14ae3a
 

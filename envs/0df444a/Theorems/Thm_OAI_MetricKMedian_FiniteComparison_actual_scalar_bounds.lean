@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_FiniteComparison_actual_scalar_bounds
 -- name    : OAI.MetricKMedian.FiniteComparison.actual_scalar_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:26:29.098249+00:00
 -- url     : https://prove2.me/theorems/6b6244cd-0b74-4793-bc31-be8c394d6d1c

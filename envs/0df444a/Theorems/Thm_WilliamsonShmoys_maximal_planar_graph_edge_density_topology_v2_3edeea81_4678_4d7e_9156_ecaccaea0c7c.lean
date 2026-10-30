@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_edge_density_topology_v2_3edeea81_4678_4d7e_9156_ecaccaea0c7c
 -- name    : WilliamsonShmoys.maximal_planar_graph_edge_density_topology_v2_3edeea81_4678_4d7e_9156_ecaccaea0c7c
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:55:31.066794+00:00
 -- url     : https://prove2.me/theorems/5f43c2c9-3cd6-456f-b8c5-ff0269deed48

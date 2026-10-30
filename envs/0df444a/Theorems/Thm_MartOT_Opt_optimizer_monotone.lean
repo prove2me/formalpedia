@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Opt_optimizer_monotone
 -- name    : MartOT.Opt.optimizer_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:50.353006+00:00
 -- url     : https://prove2.me/theorems/9d5e6a29-7744-4c8c-bdfd-3a8fab97f3c5

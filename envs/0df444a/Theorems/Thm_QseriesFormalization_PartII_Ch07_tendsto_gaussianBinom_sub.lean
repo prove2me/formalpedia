@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_tendsto_gaussianBinom_sub
 -- name    : QseriesFormalization.PartII.Ch07.tendsto_gaussianBinom_sub
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:25:15.414417+00:00
 -- url     : https://prove2.me/theorems/42eb65ff-f5bb-4265-9148-400f766ff1b6
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04Franklin.franklinInv_involutive
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:02:19.702008+00:00
 -- url     : https://prove2.me/submissions/94d71956-3988-4dcd-93f3-52e03bb87ac9
 

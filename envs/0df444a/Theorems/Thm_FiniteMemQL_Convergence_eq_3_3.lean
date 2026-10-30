@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteMemQL_Convergence_eq_3_3
 -- name    : FiniteMemQL.Convergence.eq_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:29:53.445655+00:00
 -- url     : https://prove2.me/theorems/ef4543e7-9ba2-4e22-8d71-a9e1be6af8af

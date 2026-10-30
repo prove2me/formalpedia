@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragileBandit_CauchyTail_lemma_6
 -- name    : FragileBandit.CauchyTail.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:41:08.130417+00:00
 -- url     : https://prove2.me/theorems/2da8d27c-a388-4676-a474-9988fc706582

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_planar_supergraph_exact_edge_count__p2m_48acce6a_8f33_48c6_a9d8_ff0d2e5ac6c0_a3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T23:29:59.928501+00:00
 -- url     : https://prove2.me/submissions/ceb4eadd-e2a9-4351-a8c0-6fa695bc3b80
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_exists_maximal_planar_supergraph__p2m_9b481115_396e_4251_a44a_4293d6576e9f_a1

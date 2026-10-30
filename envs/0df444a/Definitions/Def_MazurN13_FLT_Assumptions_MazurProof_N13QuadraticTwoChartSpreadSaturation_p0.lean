@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13QuadraticTwoChartSpreadSaturation_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13QuadraticTwoChartSpreadSaturation_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:00:52.145527+00:00
 -- url     : https://prove2.me/theorems/391ad4ed-e57e-465c-be16-41653069f959
 -- title:

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NSWApxHard.Reduction.apx_hardness
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-27T21:39:47.855622+00:00
 -- url     : https://prove2.me/submissions/aaed3926-e63d-4b23-ad3b-466adf44dcaa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CookPvsNP_defs
 import Definitions.Def_SetCoverThreshold_SetCover_Complexity

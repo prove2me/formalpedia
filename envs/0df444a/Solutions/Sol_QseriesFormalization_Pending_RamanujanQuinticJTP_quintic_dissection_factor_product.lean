@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.quintic_dissection_factor_product
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:42:24.93484+00:00
 -- url     : https://prove2.me/submissions/06d9b56e-432f-4146-8888-26f45d92e897
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_quintupleProduct_identity
 -- name    : QseriesFormalization.PartI.Ch04.quintupleProduct_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:32:16.821828+00:00
 -- url     : https://prove2.me/theorems/a3d3b319-1882-468f-91e2-ed4685616f96
 -- title:

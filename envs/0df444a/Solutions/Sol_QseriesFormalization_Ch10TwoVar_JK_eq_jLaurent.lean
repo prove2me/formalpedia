@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.JK_eq_jLaurent
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:28:14.194472+00:00
 -- url     : https://prove2.me/submissions/81bb0903-0167-48f1-8740-4bddf60e9194
 

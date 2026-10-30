@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_randomized_quasipolynomial_mean_payoff
 -- name    : OAI.randomized_quasipolynomial_mean_payoff
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:41.281102+00:00
 -- url     : https://prove2.me/theorems/2b67bfe8-cb0e-4468-9bf2-5fdbaaeec661

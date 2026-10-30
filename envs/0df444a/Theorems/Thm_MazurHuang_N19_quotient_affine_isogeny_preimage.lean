@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_quotient_affine_isogeny_preimage
 -- name    : MazurHuang.N19.quotient_affine_isogeny_preimage
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:10.214097+00:00
 -- url     : https://prove2.me/theorems/4a325715-fbb0-453f-b1e0-fcb0baf1100b
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_can_add_edge_below_maximum_v4
 -- name    : WilliamsonShmoys.drawable_graph_can_add_edge_below_maximum_v4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:56:31.256083+00:00
 -- url     : https://prove2.me/theorems/f5fc266f-4bfe-4140-8e10-a4c67b5f613a

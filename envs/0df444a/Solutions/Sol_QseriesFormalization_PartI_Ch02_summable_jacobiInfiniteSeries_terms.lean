@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch02.summable_jacobiInfiniteSeries_terms
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:48:23.398443+00:00
 -- url     : https://prove2.me/submissions/9d0a777e-661b-41df-a294-3832ba493b96
 

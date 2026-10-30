@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_count
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T05:06:48.441545+00:00
 -- url     : https://prove2.me/theorems/0a5c3a2e-96a0-4250-8f10-4de3ab763a01

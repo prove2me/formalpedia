@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.chat04_unbounded_two_sided_exit_stopped_scale_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T20:38:03.119039+00:00
 -- url     : https://prove2.me/submissions/6b450f69-1f95-4288-a590-8641909e65f0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- REPAIR ITERATION L of CE 15378 (5 groups, analysis d60cddaa); K bytes e5512eca
 -- already in remote history (duplicate guard), so this is a differentiated

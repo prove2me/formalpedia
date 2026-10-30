@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_triangulation_extension__p2m_b4f3c7d0_f80f_4201_8b80_29190a270a03_a1
 -- name    : WilliamsonShmoys.maximal_planar_triangulation_extension__p2m_b4f3c7d0_f80f_4201_8b80_29190a270a03_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:42:12.551545+00:00
 -- url     : https://prove2.me/theorems/d1313f94-0954-4f2e-9b9e-c37a9ebd0ec4

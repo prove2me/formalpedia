@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04Franklin.franklinInv_card
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:01:35.770544+00:00
 -- url     : https://prove2.me/submissions/8e457a96-891b-4f8a-a65c-1dd9e8a20a3e
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_natCast_powerSeries_zmod11_eq_mod
 -- name    : QseriesFormalization.Pending.Hirschhorn11.natCast_powerSeries_zmod11_eq_mod
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:33:27.315895+00:00
 -- url     : https://prove2.me/theorems/7866e9f9-2b24-4331-9330-16b523caa8de
 -- title:

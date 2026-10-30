@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_drawable_edge_count_lower_bound_71955334_b5e9_40f2_bf30_231a1d4336f4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T00:42:23.880449+00:00
 -- url     : https://prove2.me/submissions/a8d5c0d4-700d-40c2-8486-01a91ff7d105
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_graph_has_triangulated_extension_3fe8be02_4541_4d0a_bbf4_850e46d722fe

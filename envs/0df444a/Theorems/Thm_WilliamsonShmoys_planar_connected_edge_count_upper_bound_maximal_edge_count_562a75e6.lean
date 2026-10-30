@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_connected_edge_count_upper_bound_maximal_edge_count_562a75e6
 -- name    : WilliamsonShmoys.planar_connected_edge_count_upper_bound_maximal_edge_count_562a75e6
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T05:12:09.38206+00:00
 -- url     : https://prove2.me/theorems/7607aed3-a244-45f9-bed7-d65cb2c30861

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_rrMod5Factor_ne_zero
 -- name    : QseriesFormalization.PartI.Ch04.rrMod5Factor_ne_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:32:55.602801+00:00
 -- url     : https://prove2.me/theorems/434021f3-8d04-4ec8-9778-cfc1e1c89952
 -- title:

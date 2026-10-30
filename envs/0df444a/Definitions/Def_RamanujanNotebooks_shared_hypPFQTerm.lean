@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_hypPFQTerm
 -- name    : RamanujanNotebooks_shared_hypPFQTerm
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T00:49:22.035696+00:00
 -- url     : https://prove2.me/theorems/e2305fae-3f8c-4110-9f2f-0c892ca5efa6
 -- title:

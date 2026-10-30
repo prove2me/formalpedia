@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrClusterExp_IBR_theorem_4_5
 -- name    : CorrClusterExp.IBR.theorem_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:16.019288+00:00
 -- url     : https://prove2.me/theorems/84f19840-9c7d-4826-9c47-88870e48d455

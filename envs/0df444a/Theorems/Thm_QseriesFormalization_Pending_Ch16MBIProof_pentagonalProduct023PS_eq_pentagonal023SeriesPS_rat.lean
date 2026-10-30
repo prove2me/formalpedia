@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_pentagonalProduct023PS_eq_pentagonal023SeriesPS_rat
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.pentagonalProduct023PS_eq_pentagonal023SeriesPS_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:26:39.822439+00:00
 -- url     : https://prove2.me/theorems/70e40831-2d03-4af0-8429-96a1d782bf6c
 -- title:

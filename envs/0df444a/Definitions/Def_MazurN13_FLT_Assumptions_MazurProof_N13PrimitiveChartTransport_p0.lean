@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13PrimitiveChartTransport_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13PrimitiveChartTransport_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:28:34.62605+00:00
 -- url     : https://prove2.me/theorems/f73c5a2e-e48a-4103-b10e-60efcd8c0774
 -- title:

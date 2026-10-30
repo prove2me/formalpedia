@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_TorsionDefs_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_TorsionDefs_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:43:58.592395+00:00
 -- url     : https://prove2.me/theorems/f496db7b-56d8-4339-9848-678079267e0d
 -- title:

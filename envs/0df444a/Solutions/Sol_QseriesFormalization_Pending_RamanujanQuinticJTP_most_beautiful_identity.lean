@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.most_beautiful_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:32:25.351184+00:00
 -- url     : https://prove2.me/submissions/2fac37cb-402b-410d-84ba-bd3183a4cb80
 

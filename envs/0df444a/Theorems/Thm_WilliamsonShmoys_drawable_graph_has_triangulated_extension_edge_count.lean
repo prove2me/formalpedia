@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_has_triangulated_extension_edge_count
 -- name    : WilliamsonShmoys.drawable_graph_has_triangulated_extension_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T21:06:26.465114+00:00
 -- url     : https://prove2.me/theorems/5e5aee54-9e86-4f67-bd4f-06e7eb077b62

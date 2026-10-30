@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_pi_or_piBarDividesExact_of_norm_mod_five_zero
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.pi_or_piBarDividesExact_of_norm_mod_five_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:19:10.532989+00:00
 -- url     : https://prove2.me/theorems/804a706a-9d81-4bef-81c1-bd63567bf0c1
 -- title:

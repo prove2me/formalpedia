@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_planar_upper_retry3_maximal_edge_bound
 -- name    : WilliamsonShmoys.edge_count_planar_upper_retry3_maximal_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T14:07:12.855308+00:00
 -- url     : https://prove2.me/theorems/2565dbbd-2d73-4c37-a634-4dae56689365

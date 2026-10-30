@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_base_from_halfspace_model_lt_one
 -- name    : EthierKurtz.oblique_base_from_halfspace_model_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T21:47:36.08306+00:00
 -- url     : https://prove2.me/theorems/39812bf5-548a-4b64-90ee-6f04b12f2d3a

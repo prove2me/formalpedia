@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.coeff_finite_product_eq_signedStrictPartitionCount
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:06:02.520002+00:00
 -- url     : https://prove2.me/submissions/71db5521-3dae-4ef4-bbf6-d9207a038d03
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AggDiscountStopping_OneBarrier_lemma_4_6
 -- name    : AggDiscountStopping.OneBarrier.lemma_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:56:03.037988+00:00
 -- url     : https://prove2.me/theorems/381a60bd-256a-47ac-bca6-7d27a35038be

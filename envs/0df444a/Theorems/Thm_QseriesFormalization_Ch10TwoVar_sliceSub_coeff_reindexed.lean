@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_sliceSub_coeff_reindexed
 -- name    : QseriesFormalization.Ch10TwoVar.sliceSub_coeff_reindexed
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:05:52.013255+00:00
 -- url     : https://prove2.me/theorems/bb86daf0-981c-4c50-9cb6-a1c4d4566fa7
 -- title:

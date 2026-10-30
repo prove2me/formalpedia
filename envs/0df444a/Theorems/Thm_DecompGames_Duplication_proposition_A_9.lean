@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecompGames_Duplication_proposition_A_9
 -- name    : DecompGames.Duplication.proposition_A_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:38:14.083983+00:00
 -- url     : https://prove2.me/theorems/e3bbc84e-d0ca-49c5-8433-9a68c3ab1b7a

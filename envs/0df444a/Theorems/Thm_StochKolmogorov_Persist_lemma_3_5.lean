@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Persist_lemma_3_5
 -- name    : StochKolmogorov.Persist.lemma_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:18.731324+00:00
 -- url     : https://prove2.me/theorems/8bddb3e6-ab16-4848-beb9-56ac988f5ac1

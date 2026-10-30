@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch13RRCF_rrcf_r_mul_pentagonal023SeriesPS_eq
 -- name    : QseriesFormalization.Pending.Ch13RRCF.rrcf_r_mul_pentagonal023SeriesPS_eq
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:08:54.777255+00:00
 -- url     : https://prove2.me/theorems/7883c2b5-9f12-4d31-9385-c2688382bd5b
 -- title:

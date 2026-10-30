@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MirrorBP_JEA_lemma_6
 -- name    : MirrorBP.JEA.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:58:28.784625+00:00
 -- url     : https://prove2.me/theorems/aa35442f-4b14-495f-b427-d9c79b04cf01

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_pentagonal_kind_one_mod_5_eq_one_imp
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.pentagonal_kind_one_mod_5_eq_one_imp
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:27:43.152646+00:00
 -- url     : https://prove2.me/theorems/584a8f46-3e0a-4737-b0e9-0da7351668a3
 -- title:

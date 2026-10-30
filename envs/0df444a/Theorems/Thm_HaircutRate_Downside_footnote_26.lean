@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HaircutRate_Downside_footnote_26
 -- name    : HaircutRate.Downside.footnote_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:57:20.548425+00:00
 -- url     : https://prove2.me/theorems/eb69f1ab-ed06-4d1b-8cba-64a01775c69a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_extension_for_edge_upper_22808aa2
 -- name    : WilliamsonShmoys.planar_triangulation_extension_for_edge_upper_22808aa2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T09:45:17.438674+00:00
 -- url     : https://prove2.me/theorems/68e343da-c8bc-4a5b-8997-d165815a568e

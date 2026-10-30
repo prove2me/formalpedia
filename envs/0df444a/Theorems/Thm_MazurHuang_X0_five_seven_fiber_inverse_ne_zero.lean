@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_X0_five_seven_fiber_inverse_ne_zero
 -- name    : MazurHuang.X0_five_seven_fiber_inverse_ne_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:05.793856+00:00
 -- url     : https://prove2.me/theorems/b0a6750c-fca5-4ec8-aa00-d322ec6443f1
 -- title:

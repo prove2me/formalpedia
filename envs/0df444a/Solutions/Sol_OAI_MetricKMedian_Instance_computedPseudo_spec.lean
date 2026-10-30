@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MetricKMedian.Instance.computedPseudo_spec
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:54:21.615998+00:00
 -- url     : https://prove2.me/submissions/c5f92725-d818-491b-9a55-50f800608874
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MetricKMedian

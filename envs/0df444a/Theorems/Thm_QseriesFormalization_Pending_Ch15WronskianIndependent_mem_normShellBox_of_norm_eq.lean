@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_mem_normShellBox_of_norm_eq
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.mem_normShellBox_of_norm_eq
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:14:56.494311+00:00
 -- url     : https://prove2.me/theorems/3b8f7bc9-f874-4968-8e25-996169869181
 -- title:

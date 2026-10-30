@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortOpt_HMF_corollary_1
 -- name    : AssortOpt.HMF.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:58:19.643934+00:00
 -- url     : https://prove2.me/theorems/35947d6f-5e26-4cad-9022-b10a903ef098

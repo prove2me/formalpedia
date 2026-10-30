@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_abs_le_jExp_of_pos_lt
 -- name    : QseriesFormalization.Pending.Ch10HM.abs_le_jExp_of_pos_lt
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:46:36.658013+00:00
 -- url     : https://prove2.me/theorems/b8274e3a-f221-4deb-9fcc-324a823ef3ee
 -- title:

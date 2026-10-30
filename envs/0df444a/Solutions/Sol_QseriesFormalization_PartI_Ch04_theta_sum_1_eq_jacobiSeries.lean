@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.theta_sum_1_eq_jacobiSeries
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:52:40.32899+00:00
 -- url     : https://prove2.me/submissions/2f9d4732-4d9e-4a33-ab44-d0e661892639
 

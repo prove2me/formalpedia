@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_sparse_graph_extendible
 -- name    : WilliamsonShmoys.planar_sparse_graph_extendible
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:03:07.46938+00:00
 -- url     : https://prove2.me/theorems/29a0a249-4f45-414d-988d-37d4a93ff923

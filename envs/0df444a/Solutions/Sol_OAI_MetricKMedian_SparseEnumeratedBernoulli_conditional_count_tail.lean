@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MetricKMedian.SparseEnumeratedBernoulli.conditional_count_tail
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:51:25.55023+00:00
 -- url     : https://prove2.me/submissions/71809e91-63e7-41f5-b790-79762a493d8e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ035K045

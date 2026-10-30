@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch09_ch09ResidueTerm
 -- name    : RamanujanLostNotebook_PartIII_ch09_ch09ResidueTerm
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T07:58:51.30226+00:00
 -- url     : https://prove2.me/theorems/8305f8b3-2e0e-4528-96ab-3262025ac2ce
 -- title:

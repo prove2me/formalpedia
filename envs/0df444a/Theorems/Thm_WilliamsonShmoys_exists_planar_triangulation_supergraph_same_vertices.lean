@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_triangulation_supergraph_same_vertices
 -- name    : WilliamsonShmoys.exists_planar_triangulation_supergraph_same_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:57:41.94782+00:00
 -- url     : https://prove2.me/theorems/2a9755e4-bee4-43ad-b448-9ad5172e3d2d

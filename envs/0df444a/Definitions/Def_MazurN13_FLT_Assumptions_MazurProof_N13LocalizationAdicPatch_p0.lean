@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13LocalizationAdicPatch_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13LocalizationAdicPatch_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:36:10.692562+00:00
 -- url     : https://prove2.me/theorems/e709b91b-226a-4b9a-8d6f-0153f65ec884
 -- title:

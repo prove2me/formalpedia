@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_jacobiSeriesT_prime_pair_at_negQ
 -- name    : QseriesFormalization.PartI.Ch04.jacobiSeriesT_prime_pair_at_negQ
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:31:12.327957+00:00
 -- url     : https://prove2.me/theorems/06a5c34e-f054-44e2-b3be-5a7788ea5c67
 -- title:

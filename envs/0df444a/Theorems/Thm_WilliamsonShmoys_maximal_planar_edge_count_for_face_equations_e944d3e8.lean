@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_for_face_equations_e944d3e8
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_for_face_equations_e944d3e8
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T01:46:57.556277+00:00
 -- url     : https://prove2.me/theorems/4f830026-f596-45f2-a5ad-8bfda28870a2

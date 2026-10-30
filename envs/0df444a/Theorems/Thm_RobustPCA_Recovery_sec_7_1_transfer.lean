@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPCA_Recovery_sec_7_1_transfer
 -- name    : RobustPCA.Recovery.sec_7_1_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:42:58.125204+00:00
 -- url     : https://prove2.me/theorems/e4173a1a-e860-4db9-abc9-34d6d6aefeaf

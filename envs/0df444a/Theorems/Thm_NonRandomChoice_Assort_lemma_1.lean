@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonRandomChoice_Assort_lemma_1
 -- name    : NonRandomChoice.Assort.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:35.124542+00:00
 -- url     : https://prove2.me/theorems/5b21be95-226f-43c2-978d-7ae51cad3139

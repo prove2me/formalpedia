@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter15_R_ODE
 -- name    : QseriesFormalization_Pending_Chapter15_R_ODE
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:35:00.41081+00:00
 -- url     : https://prove2.me/theorems/57f2aa5f-b67b-4a85-adb1-3c1eb11af2f2
 -- title:

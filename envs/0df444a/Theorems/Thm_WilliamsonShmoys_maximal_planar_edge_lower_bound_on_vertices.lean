@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_lower_bound_on_vertices
 -- name    : WilliamsonShmoys.maximal_planar_edge_lower_bound_on_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T09:05:42.211053+00:00
 -- url     : https://prove2.me/theorems/1d378649-d46c-4ed0-be34-8f4c2a046230

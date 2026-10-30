@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_hasSum_coeff_mul_apFactorPS_complex
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.hasSum_coeff_mul_apFactorPS_complex
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:32:21.901325+00:00
 -- url     : https://prove2.me/theorems/57ba209b-ed4e-48fd-aa38-5258f284e1a6
 -- title:

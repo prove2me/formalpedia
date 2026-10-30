@@ -1,10 +1,8 @@
 -- Prove2me | solution 36 for AvramDividend.Classical.two_sided_exit_before_ruin_integral_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T11:46:49.142192+00:00
 -- url     : https://prove2.me/submissions/aacae83f-38a7-4667-b982-61cfe9d96aa6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

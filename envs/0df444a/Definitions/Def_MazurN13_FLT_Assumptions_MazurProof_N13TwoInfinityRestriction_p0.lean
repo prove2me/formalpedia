@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoInfinityRestriction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoInfinityRestriction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:34:19.837639+00:00
 -- url     : https://prove2.me/theorems/ab0bd226-2ccc-4170-b401-a037a39914ed
 -- title:

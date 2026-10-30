@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.factor_geom_series_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:52:20.75969+00:00
 -- url     : https://prove2.me/submissions/e128a1cf-3755-42b7-bab5-a613a2f47b9a
 

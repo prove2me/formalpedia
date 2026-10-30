@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch07_eisensteinQTrunc
 -- name    : RamanujanLostNotebook_PartIII_ch07_eisensteinQTrunc
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:24:31.583974+00:00
 -- url     : https://prove2.me/theorems/d73ed257-5cde-49f6-aadb-7c128dcf2565
 -- title:

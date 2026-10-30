@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.summable_pentagonal023ThetaTerm
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:09:52.959031+00:00
 -- url     : https://prove2.me/submissions/3fd7eb40-083d-44d4-8e28-f0cbbcb4be07
 

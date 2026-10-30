@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MumfordKummerIdealSquare_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MumfordKummerIdealSquare_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:14:26.413004+00:00
 -- url     : https://prove2.me/theorems/cc1927c9-1833-47f3-b5f0-8985b465eed2
 -- title:

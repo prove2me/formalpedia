@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MumfordFullKummerIdentityFiber_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MumfordFullKummerIdentityFiber_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:30:59.508763+00:00
 -- url     : https://prove2.me/theorems/6c00f359-ba21-45e6-89e6-7096ddba4992
 -- title:

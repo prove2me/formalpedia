@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_planar_upper_retry3
 -- name    : WilliamsonShmoys.edge_count_planar_upper_retry3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:28:26.381608+00:00
 -- url     : https://prove2.me/theorems/10e52420-af8b-466f-a802-c419fe3502f6

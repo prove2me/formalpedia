@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch10_ch10Envelope
 -- name    : RamanujanLostNotebook_PartIII_ch10_ch10Envelope
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T12:40:21.185603+00:00
 -- url     : https://prove2.me/theorems/1d6107b5-822b-4848-a955-3d338176ca1f
 -- title:

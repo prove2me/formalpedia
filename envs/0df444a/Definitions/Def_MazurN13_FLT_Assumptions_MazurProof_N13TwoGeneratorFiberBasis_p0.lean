@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoGeneratorFiberBasis_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoGeneratorFiberBasis_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:05:34.669831+00:00
 -- url     : https://prove2.me/theorems/a909e800-dba5-41bc-aea7-bf2120d7ab35
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_hasSum_section83A_coeff_mul_pow
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.hasSum_section83A_coeff_mul_pow
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:41:08.983959+00:00
 -- url     : https://prove2.me/theorems/fd4580e2-2f84-48d8-a57b-7f18a703991c
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulated_extension_maximal_supergraph_edge_count
 -- name    : WilliamsonShmoys.planar_triangulated_extension_maximal_supergraph_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T11:05:32.075495+00:00
 -- url     : https://prove2.me/theorems/51bf81b4-48bc-4660-b9e1-3005ea79cb82

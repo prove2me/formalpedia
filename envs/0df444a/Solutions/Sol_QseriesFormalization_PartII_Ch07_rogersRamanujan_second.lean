@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.rogersRamanujan_second
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:22:49.54877+00:00
 -- url     : https://prove2.me/submissions/c4d5df64-7ec8-44da-a997-02d6f12c1d9e
 

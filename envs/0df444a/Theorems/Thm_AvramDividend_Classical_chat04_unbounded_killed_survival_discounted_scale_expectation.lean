@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat04_unbounded_killed_survival_discounted_scale_expectation
 -- name    : AvramDividend.Classical.chat04_unbounded_killed_survival_discounted_scale_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T07:05:50.344385+00:00
 -- url     : https://prove2.me/theorems/a885f0b3-3960-424d-97e4-abbcffe268ba

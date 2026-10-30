@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.zwegersLHS_y_slice_fe
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:37:21.08562+00:00
 -- url     : https://prove2.me/submissions/04ec673b-c018-4649-8104-e54009388b7d
 

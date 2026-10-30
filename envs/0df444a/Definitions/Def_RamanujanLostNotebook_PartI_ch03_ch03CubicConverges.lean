@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch03_ch03CubicConverges
 -- name    : RamanujanLostNotebook_PartI_ch03_ch03CubicConverges
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T10:17:30.625111+00:00
 -- url     : https://prove2.me/theorems/707fbb64-5c30-48fe-ad29-d8cd098b7beb
 -- title:

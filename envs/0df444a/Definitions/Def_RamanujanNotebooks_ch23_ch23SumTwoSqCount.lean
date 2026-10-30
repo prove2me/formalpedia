@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch23_ch23SumTwoSqCount
 -- name    : RamanujanNotebooks_ch23_ch23SumTwoSqCount
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T23:02:25.85146+00:00
 -- url     : https://prove2.me/theorems/b0aec94f-135a-4f64-806a-b48f0e7f3066
 -- title:

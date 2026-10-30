@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialComparisonFactorPair_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialComparisonFactorPair_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:52:45.170989+00:00
 -- url     : https://prove2.me/theorems/31b13417-d742-47d7-a85c-ae336b38d450
 -- title:

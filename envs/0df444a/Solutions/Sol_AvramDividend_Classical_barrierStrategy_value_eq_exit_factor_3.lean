@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.barrierStrategy_value_eq_exit_factor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T16:48:58.785631+00:00
 -- url     : https://prove2.me/submissions/6fe8a672-fcb0-4d45-9bf5-a54c2519b61b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

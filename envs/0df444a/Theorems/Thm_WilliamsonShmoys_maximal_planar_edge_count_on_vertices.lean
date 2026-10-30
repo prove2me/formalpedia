@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_on_vertices
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_on_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:22:21.384995+00:00
 -- url     : https://prove2.me/theorems/659c2207-eaa5-4542-841c-1cc7cb13e36d

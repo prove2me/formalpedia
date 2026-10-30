@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10Bridge_ofPSK_chan1015PentagonalPS
 -- name    : QseriesFormalization.Pending.Ch10Bridge.ofPSK_chan1015PentagonalPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:45:57.165319+00:00
 -- url     : https://prove2.me/theorems/da4799f0-c2ab-45ae-9257-2b8c8b4d2ce2
 -- title:

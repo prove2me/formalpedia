@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_has_dense_extension
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_has_dense_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:36:24.490985+00:00
 -- url     : https://prove2.me/theorems/e008f52b-9316-440c-afc6-95e61a52cdfb

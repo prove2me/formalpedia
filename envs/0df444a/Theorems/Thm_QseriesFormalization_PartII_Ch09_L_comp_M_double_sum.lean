@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch09_L_comp_M_double_sum
 -- name    : QseriesFormalization.PartII.Ch09.L_comp_M_double_sum
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:31:04.107345+00:00
 -- url     : https://prove2.me/theorems/be7d51d6-7bfe-4bdf-a953-f29634153313
 -- title:

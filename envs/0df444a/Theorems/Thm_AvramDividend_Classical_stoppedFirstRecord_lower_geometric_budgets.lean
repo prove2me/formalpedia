@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_stoppedFirstRecord_lower_geometric_budgets
 -- name    : AvramDividend.Classical.stoppedFirstRecord_lower_geometric_budgets
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T13:40:41.599346+00:00
 -- url     : https://prove2.me/theorems/f3f6e8f7-44c0-44d7-a529-64dd8774ebbf

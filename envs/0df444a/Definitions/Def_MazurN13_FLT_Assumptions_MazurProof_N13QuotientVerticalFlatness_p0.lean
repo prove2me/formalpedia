@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13QuotientVerticalFlatness_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13QuotientVerticalFlatness_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:09:47.942989+00:00
 -- url     : https://prove2.me/theorems/17278853-8a74-41c3-93ac-3f5bf7d7e8c6
 -- title:

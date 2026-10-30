@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIV_ch11_logIntegral
 -- name    : RamanujanLostNotebook_PartIV_ch11_logIntegral
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T14:26:49.606877+00:00
 -- url     : https://prove2.me/theorems/7f1c75cb-b53e-401b-ae9e-f99d0aea494d
 -- title:

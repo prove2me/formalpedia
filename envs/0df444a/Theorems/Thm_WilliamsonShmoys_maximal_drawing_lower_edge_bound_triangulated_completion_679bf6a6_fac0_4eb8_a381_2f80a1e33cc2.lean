@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_lower_edge_bound_triangulated_completion_679bf6a6_fac0_4eb8_a381_2f80a1e33cc2
 -- name    : WilliamsonShmoys.maximal_drawing_lower_edge_bound_triangulated_completion_679bf6a6_fac0_4eb8_a381_2f80a1e33cc2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T09:00:42.213059+00:00
 -- url     : https://prove2.me/theorems/a3e3cf18-dbe0-4663-84f0-17bd5e59149d

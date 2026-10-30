@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.short_flex_factor_is_rational_cube
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:38:31.258975+00:00
 -- url     : https://prove2.me/submissions/e815b9aa-e453-4a1b-bf35-51ec1cb9521f
 

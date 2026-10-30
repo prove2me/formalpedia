@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch15_ch15Elliptic
 -- name    : RamanujanLostNotebook_PartI_ch15_ch15Elliptic
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T09:10:00.520864+00:00
 -- url     : https://prove2.me/theorems/545d9b6e-d400-486a-8d74-a453eaeab93a
 -- title:

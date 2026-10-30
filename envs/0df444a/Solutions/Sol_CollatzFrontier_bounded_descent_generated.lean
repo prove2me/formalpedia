@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.bounded_descent_generated
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T18:09:43.39054+00:00
 -- url     : https://prove2.me/submissions/1e368f71-bf42-4a43-8856-7e5992f253e9
 

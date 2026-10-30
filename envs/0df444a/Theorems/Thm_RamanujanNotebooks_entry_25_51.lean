@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanNotebooks_entry_25_51
 -- name    : RamanujanNotebooks.entry_25_51
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T23:17:56.535677+00:00
 -- url     : https://prove2.me/theorems/a69a44bc-2494-4a87-9b04-607a6b5fce59
 -- title:

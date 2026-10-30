@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.jacobiInfiniteProduct_reparam_section83
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:28:50.469779+00:00
 -- url     : https://prove2.me/submissions/1a9fce8f-2218-4fd8-8f00-3a491e92f191
 

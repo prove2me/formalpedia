@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_retry7_f81c96b6_b51d_4165_8b99_52e367cbc589
 -- name    : WilliamsonShmoys.planar_edge_count_upper_bound_retry7_f81c96b6_b51d_4165_8b99_52e367cbc589
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:14:29.684226+00:00
 -- url     : https://prove2.me/theorems/a3da1208-9df8-43b8-bead-079a944eccc6

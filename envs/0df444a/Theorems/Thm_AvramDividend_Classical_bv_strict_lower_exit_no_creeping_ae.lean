@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_strict_lower_exit_no_creeping_ae
 -- name    : AvramDividend.Classical.bv_strict_lower_exit_no_creeping_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-26T00:58:38.95081+00:00
 -- url     : https://prove2.me/theorems/43a28d8e-14f3-44d6-8b46-347138818c52

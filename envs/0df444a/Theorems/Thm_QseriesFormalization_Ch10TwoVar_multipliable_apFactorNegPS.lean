@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_multipliable_apFactorNegPS
 -- name    : QseriesFormalization.Ch10TwoVar.multipliable_apFactorNegPS
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:02:13.176362+00:00
 -- url     : https://prove2.me/theorems/f4d5cebb-b9be-40e5-9ba8-eb3ad4fc1ad5
 -- title:

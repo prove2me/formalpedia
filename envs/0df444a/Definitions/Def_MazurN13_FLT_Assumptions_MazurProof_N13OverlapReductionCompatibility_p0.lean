@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13OverlapReductionCompatibility_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13OverlapReductionCompatibility_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:49:49.887324+00:00
 -- url     : https://prove2.me/theorems/05b0ba01-4d99-49c3-bc5f-ad0980c0dfd9
 -- title:

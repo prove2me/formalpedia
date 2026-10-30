@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SmallMumfordRigidity_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SmallMumfordRigidity_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:11:53.475632+00:00
 -- url     : https://prove2.me/theorems/c952d09d-9d54-42d9-9ffa-43656c14a3c1
 -- title:

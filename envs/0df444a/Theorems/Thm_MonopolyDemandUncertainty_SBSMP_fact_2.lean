@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonopolyDemandUncertainty_SBSMP_fact_2
 -- name    : MonopolyDemandUncertainty.SBSMP.fact_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:11:35.039998+00:00
 -- url     : https://prove2.me/theorems/db36a8e3-a216-4e0e-ba52-394e83e3661b

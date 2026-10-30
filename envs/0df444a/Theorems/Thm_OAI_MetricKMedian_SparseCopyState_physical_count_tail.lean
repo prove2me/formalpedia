@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_SparseCopyState_physical_count_tail
 -- name    : OAI.MetricKMedian.SparseCopyState.physical_count_tail
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:31:19.068863+00:00
 -- url     : https://prove2.me/theorems/4f13c7a2-c4a6-40fd-bfae-cbb0982e185c

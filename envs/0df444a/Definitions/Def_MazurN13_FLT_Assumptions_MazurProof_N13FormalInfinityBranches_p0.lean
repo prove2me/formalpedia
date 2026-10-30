@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FormalInfinityBranches_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FormalInfinityBranches_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:46:05.905183+00:00
 -- url     : https://prove2.me/theorems/ca463ced-88ce-4b82-b67e-96e6f38d81e9
 -- title:

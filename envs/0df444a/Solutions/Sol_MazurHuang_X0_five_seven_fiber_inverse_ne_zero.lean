@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.X0_five_seven_fiber_inverse_ne_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:08:50.923154+00:00
 -- url     : https://prove2.me/submissions/76cd1ef5-c753-4f59-a6b0-a2f58bc44311
 

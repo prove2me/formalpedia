@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawingOn_has_triangulation
 -- name    : WilliamsonShmoys.planarDrawingOn_has_triangulation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:27:45.320605+00:00
 -- url     : https://prove2.me/theorems/a27d7dd0-24ea-47a8-bd63-fd7c1b6c5759

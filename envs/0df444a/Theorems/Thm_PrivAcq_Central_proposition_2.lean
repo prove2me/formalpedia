@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivAcq_Central_proposition_2
 -- name    : PrivAcq.Central.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:26:30.319005+00:00
 -- url     : https://prove2.me/theorems/9aae55a3-b3b9-4541-bf74-7450f231010c

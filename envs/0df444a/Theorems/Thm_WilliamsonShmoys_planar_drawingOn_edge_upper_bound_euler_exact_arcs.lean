@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawingOn_edge_upper_bound_euler_exact_arcs
 -- name    : WilliamsonShmoys.planar_drawingOn_edge_upper_bound_euler_exact_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:05:03.004004+00:00
 -- url     : https://prove2.me/theorems/6b34fde2-2245-4245-afb7-422892f246b3

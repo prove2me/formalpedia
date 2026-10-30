@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulation_extension_for_edge_bound
 -- name    : WilliamsonShmoys.exists_triangulation_extension_for_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T08:37:37.094383+00:00
 -- url     : https://prove2.me/theorems/f74d028f-14cb-480b-9e7a-969a774553c9

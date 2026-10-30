@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13ReciprocalVerticalGraphPicardRealization_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13ReciprocalVerticalGraphPicardRealization_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:20:00.856397+00:00
 -- url     : https://prove2.me/theorems/01f716ee-36c8-40db-a0e7-c76cdd6a4d02
 -- title:

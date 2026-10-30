@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.gaussianBinom_norm_le_uniform
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:15:58.008218+00:00
 -- url     : https://prove2.me/submissions/baad57ed-8244-4bff-9660-6248087c9463
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIV_ch05_cfConv
 -- name    : RamanujanLostNotebook_PartIV_ch05_cfConv
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:54:46.342991+00:00
 -- url     : https://prove2.me/theorems/11111a76-fa95-465e-b53a-44cd46e23194
 -- title:

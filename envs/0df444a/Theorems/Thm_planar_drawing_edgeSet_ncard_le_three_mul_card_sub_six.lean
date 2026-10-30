@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_drawing_edgeSet_ncard_le_three_mul_card_sub_six
 -- name    : planar_drawing_edgeSet_ncard_le_three_mul_card_sub_six
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T15:39:28.604352+00:00
 -- url     : https://prove2.me/theorems/220157de-5c6a-4675-95e0-4543900f39c4

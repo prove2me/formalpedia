@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_shared_tenthA1
 -- name    : RamanujanLostNotebook_PartV_shared_tenthA1
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T17:12:29.981172+00:00
 -- url     : https://prove2.me/theorems/914a9217-92e8-43f9-8afb-19d17639d503
 -- title:

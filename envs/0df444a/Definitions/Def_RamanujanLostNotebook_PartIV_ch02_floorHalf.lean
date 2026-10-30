@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIV_ch02_floorHalf
 -- name    : RamanujanLostNotebook_PartIV_ch02_floorHalf
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T15:15:13.465741+00:00
 -- url     : https://prove2.me/theorems/b72d85bf-5b3c-4b0e-8015-90149b6dc5f6
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactPenGNEP_NonShared_theorem_11_b
 -- name    : ExactPenGNEP.NonShared.theorem_11_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:38.743103+00:00
 -- url     : https://prove2.me/theorems/4958e835-31bf-4e1f-8cf3-c41484387769

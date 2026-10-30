@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_triangulating_supergraph_for_maximal_drawable_graph_edge_lower_bound_3n6_v4
 -- name    : WilliamsonShmoys.planar_graph_has_triangulating_supergraph_for_maximal_drawable_graph_edge_lower_bound_3n6_v4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:43:27.951429+00:00
 -- url     : https://prove2.me/theorems/6eb3677d-c5b7-4cce-9ed6-67452c3da2ca

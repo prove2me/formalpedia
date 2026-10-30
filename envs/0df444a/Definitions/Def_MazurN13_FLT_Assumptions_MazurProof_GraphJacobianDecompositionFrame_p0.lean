@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_GraphJacobianDecompositionFrame_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_GraphJacobianDecompositionFrame_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:45:37.668121+00:00
 -- url     : https://prove2.me/theorems/2bd0dc8d-6c3b-498e-87c2-6b654a40ac38
 -- title:

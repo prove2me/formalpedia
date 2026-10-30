@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_of_maximal_completion_repair
 -- name    : WilliamsonShmoys.edge_count_of_maximal_completion_repair
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T20:00:23.423019+00:00
 -- url     : https://prove2.me/theorems/b095f50e-f273-4207-95d7-a16a4d54bf9a

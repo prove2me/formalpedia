@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.bounded_checker_asymptotic_coverage
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-05T18:17:50.587848+00:00
 -- url     : https://prove2.me/submissions/da833641-f0d0-4b0d-8ba0-af21d858ce4c
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch02_summable_norm_jacobiProduct_odd_tail
 -- name    : QseriesFormalization.PartI.Ch02.summable_norm_jacobiProduct_odd_tail
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:20:42.854276+00:00
 -- url     : https://prove2.me/theorems/afed8478-bb29-4ad5-ac54-f63037561365
 -- title:

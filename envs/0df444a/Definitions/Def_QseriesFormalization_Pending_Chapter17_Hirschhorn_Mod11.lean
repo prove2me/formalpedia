@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter17_Hirschhorn_Mod11
 -- name    : QseriesFormalization_Pending_Chapter17_Hirschhorn_Mod11
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:35:59.301952+00:00
 -- url     : https://prove2.me/theorems/035945ed-1674-4059-b6d0-12e65315dfd2
 -- title:

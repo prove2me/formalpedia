@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_planar_edge_bound_retry2
 -- name    : WilliamsonShmoys.maximal_drawable_planar_edge_bound_retry2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T21:22:16.690528+00:00
 -- url     : https://prove2.me/theorems/3485deb0-23bb-49b0-a269-fdf282e0e1eb

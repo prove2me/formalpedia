@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch09_theorem91
 -- name    : QseriesFormalization.PartII.Ch09.theorem91
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:32:26.039655+00:00
 -- url     : https://prove2.me/theorems/2670d666-28bb-4483-82fa-ad84ac866942
 -- title:

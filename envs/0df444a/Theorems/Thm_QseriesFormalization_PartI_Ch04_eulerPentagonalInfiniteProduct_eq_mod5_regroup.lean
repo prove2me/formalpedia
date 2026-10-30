@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_eulerPentagonalInfiniteProduct_eq_mod5_regroup
 -- name    : QseriesFormalization.PartI.Ch04.eulerPentagonalInfiniteProduct_eq_mod5_regroup
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:28:13.673445+00:00
 -- url     : https://prove2.me/theorems/495cd603-43dc-4c3d-9834-b868a478029d
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.chan_step1_decoupling
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:50:44.445143+00:00
 -- url     : https://prove2.me/submissions/50ce8c4b-3562-4d0e-a18e-cc1ac248029e
 

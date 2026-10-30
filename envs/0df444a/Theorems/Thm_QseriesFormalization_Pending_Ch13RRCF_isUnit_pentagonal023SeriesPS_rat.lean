@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch13RRCF_isUnit_pentagonal023SeriesPS_rat
 -- name    : QseriesFormalization.Pending.Ch13RRCF.isUnit_pentagonal023SeriesPS_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:07:30.21968+00:00
 -- url     : https://prove2.me/theorems/5d4ed069-62a4-49b5-b774-4be9619d192a
 -- title:

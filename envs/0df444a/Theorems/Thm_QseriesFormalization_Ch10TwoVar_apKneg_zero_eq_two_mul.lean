@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_apKneg_zero_eq_two_mul
 -- name    : QseriesFormalization.Ch10TwoVar.apKneg_zero_eq_two_mul
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:55:24.823043+00:00
 -- url     : https://prove2.me/theorems/e3347037-6efe-4a05-98c1-4cd9dc68b6f7
 -- title:

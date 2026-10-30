@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13QuotientFiniteness_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13QuotientFiniteness_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:32:36.92698+00:00
 -- url     : https://prove2.me/theorems/6722b52c-385f-4d4f-802f-ce7e0fc74f16
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_rs_odd_of_norm_shell
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.rs_odd_of_norm_shell
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:20:14.658849+00:00
 -- url     : https://prove2.me/theorems/f0e44d0d-f833-4495-ae29-dcb2d609aa41
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.qPochInfPS_cube_decompose_mod_11
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:46:27.786993+00:00
 -- url     : https://prove2.me/submissions/cbc4976d-e52a-42bd-891a-1f44f36cdac1
 

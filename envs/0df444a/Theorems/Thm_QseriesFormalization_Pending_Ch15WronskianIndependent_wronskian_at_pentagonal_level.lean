@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_wronskian_at_pentagonal_level
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.wronskian_at_pentagonal_level
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:21:08.719988+00:00
 -- url     : https://prove2.me/theorems/c4cb78c8-7c24-4f03-88ac-2a4999f314d9
 -- title:

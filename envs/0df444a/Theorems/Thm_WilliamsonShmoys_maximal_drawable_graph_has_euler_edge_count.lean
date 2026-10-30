@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_has_euler_edge_count
 -- name    : WilliamsonShmoys.maximal_drawable_graph_has_euler_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T10:57:19.784923+00:00
 -- url     : https://prove2.me/theorems/bbe69553-00c5-4ea0-b529-04641759cefa

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.jLaurent_eq_tripleProductInf
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:07:40.393273+00:00
 -- url     : https://prove2.me/submissions/c2a7909e-8989-498e-acf5-401356b4b34d
 

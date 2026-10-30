@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_shifted_chart_numerator_factorization
 -- name    : MazurHuang.N19.shifted_chart_numerator_factorization
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:13:02.406212+00:00
 -- url     : https://prove2.me/theorems/cb521475-ca1b-46af-9e36-6fcb509c970c
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_edge_count_bound_for_face_inequality
 -- name    : WilliamsonShmoys.connected_planar_edge_count_bound_for_face_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T13:15:22.19225+00:00
 -- url     : https://prove2.me/theorems/dac5ce51-df85-4cbe-b21c-c8b2f1840495

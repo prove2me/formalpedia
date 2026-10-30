@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.wronskianCore_add_conj_of_norm_odd
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:15:04.49415+00:00
 -- url     : https://prove2.me/submissions/af4b587b-f7a1-4793-8625-74ec9dafcefd
 

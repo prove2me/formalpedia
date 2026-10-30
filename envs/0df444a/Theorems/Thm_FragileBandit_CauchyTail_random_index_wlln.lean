@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragileBandit_CauchyTail_random_index_wlln
 -- name    : FragileBandit.CauchyTail.random_index_wlln
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:47.623287+00:00
 -- url     : https://prove2.me/theorems/768eb440-44ec-4471-88f7-7444502759e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_augmentation_bound
 -- name    : WilliamsonShmoys.planar_drawing_edge_augmentation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T05:55:49.056015+00:00
 -- url     : https://prove2.me/theorems/b426a2d2-76fa-4962-9a0d-98aaf5e77c76

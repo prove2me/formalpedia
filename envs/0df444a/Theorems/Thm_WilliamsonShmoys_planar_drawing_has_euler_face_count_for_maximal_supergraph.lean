@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_euler_face_count_for_maximal_supergraph
 -- name    : WilliamsonShmoys.planar_drawing_has_euler_face_count_for_maximal_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T04:39:18.627384+00:00
 -- url     : https://prove2.me/theorems/d25638fd-76ba-4208-be1c-7efa0f5b3459

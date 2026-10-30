@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhangTangLabelCut_LP2_choose_exponents
 -- name    : ZhangTangLabelCut.LP2.choose_exponents
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:14:30.400591+00:00
 -- url     : https://prove2.me/theorems/adcead7b-4261-4f00-bbe8-b17800f97867

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoisyPrototyping_ReservationPolicy_claim_1
 -- name    : NoisyPrototyping.ReservationPolicy.claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:52.788105+00:00
 -- url     : https://prove2.me/theorems/1c09ff29-70e2-4f86-a515-b765cdd63dcc

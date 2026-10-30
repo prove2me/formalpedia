@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.coeffXY_eq_sliceSubUFamily_hsum
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:07:59.43944+00:00
 -- url     : https://prove2.me/submissions/7973d908-763a-43c7-9b11-34fe2c93aec6
 

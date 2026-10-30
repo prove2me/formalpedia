@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13IntegralInfinityPointSpread_pointIdeal_isUnit
 -- name    : MazurProof.N13IntegralInfinityPointSpread.pointIdeal_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T04:57:32.075138+00:00
 -- url     : https://prove2.me/theorems/5ed3427f-ba38-45c0-a82a-215a2341eedc

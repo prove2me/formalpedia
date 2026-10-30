@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FullNormPairGaussian_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FullNormPairGaussian_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:22:02.505997+00:00
 -- url     : https://prove2.me/theorems/0d413b62-34c3-4dad-80dd-0fb5468d1070
 -- title:

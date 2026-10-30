@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_gaussianBinom_norm_le_uniform
 -- name    : QseriesFormalization.PartII.Ch07.gaussianBinom_norm_le_uniform
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:20:53.708997+00:00
 -- url     : https://prove2.me/theorems/6ee0be07-08c9-4cdd-8f9c-395cfa35a31d
 -- title:

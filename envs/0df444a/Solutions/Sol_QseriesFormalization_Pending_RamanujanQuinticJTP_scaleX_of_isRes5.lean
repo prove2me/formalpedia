@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.scaleX_of_isRes5
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:42:17.548557+00:00
 -- url     : https://prove2.me/submissions/c5c4d9e1-a9b8-4b74-9694-8f79c5bc7f0e
 

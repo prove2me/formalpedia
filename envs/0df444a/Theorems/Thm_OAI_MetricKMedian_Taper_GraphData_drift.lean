@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_Taper_GraphData_drift
 -- name    : OAI.MetricKMedian.Taper.GraphData.drift
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:26:14.138964+00:00
 -- url     : https://prove2.me/theorems/2bf6b1e2-f0f9-469d-bb30-70c1a07f9760

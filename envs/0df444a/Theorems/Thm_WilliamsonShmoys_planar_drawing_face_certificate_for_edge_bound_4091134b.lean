@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_certificate_for_edge_bound_4091134b
 -- name    : WilliamsonShmoys.planar_drawing_face_certificate_for_edge_bound_4091134b
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:35:57.425971+00:00
 -- url     : https://prove2.me/theorems/b3a89443-f3a4-4e4f-a3b2-62b9b38f66cf

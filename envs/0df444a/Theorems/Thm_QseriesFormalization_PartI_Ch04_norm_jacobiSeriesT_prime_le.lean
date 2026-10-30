@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_norm_jacobiSeriesT_prime_le
 -- name    : QseriesFormalization.PartI.Ch04.norm_jacobiSeriesT_prime_le
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:31:44.795393+00:00
 -- url     : https://prove2.me/theorems/08904e64-0f1e-41dc-9706-5d2b11bb1722
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_isRes_natCast_mul
 -- name    : QseriesFormalization.Pending.Hirschhorn11.isRes_natCast_mul
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:33:03.671183+00:00
 -- url     : https://prove2.me/theorems/c29438b1-3e36-431c-838b-780cde905c19
 -- title:

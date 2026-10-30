@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.CTxy_embedQ_mul
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:20:34.013986+00:00
 -- url     : https://prove2.me/submissions/f8378d8e-52b7-4ac9-be9a-2be7ae3e20ba
 

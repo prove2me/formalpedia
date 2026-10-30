@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityVerticalGraphContraction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityVerticalGraphContraction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:17:39.095008+00:00
 -- url     : https://prove2.me/theorems/2fda17e9-b997-4438-8b97-7f5b1956e4dc
 -- title:

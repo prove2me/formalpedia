@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.primitive_quotient_eisenstein_factor_is_cube
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:17:03.366868+00:00
 -- url     : https://prove2.me/submissions/d32b7fa5-5d6d-42fe-be32-61eda92c2410
 

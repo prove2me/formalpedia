@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_drawable_graph_triangulated_extension_f4cab8f1_36b2_49a4_9100_a8a3956b9d6e
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T00:25:06.981342+00:00
 -- url     : https://prove2.me/submissions/e2d1150e-7178-4fc6-9ca2-220ea6205a96
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_has_edge_maximal_extension_e02108dc_5749_4b8c_85cc_e86e3f71cac7
 import Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_has_euler_edge_count_e02108dc_5749_4b8c_85cc_e86e3f71cac7

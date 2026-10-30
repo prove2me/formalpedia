@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_edge_lower_bound_981f13e1
 -- name    : WilliamsonShmoys.maximal_edge_lower_bound_981f13e1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:17:33.982712+00:00
 -- url     : https://prove2.me/theorems/d8a19633-b09c-4bba-b28e-2260bf10c995

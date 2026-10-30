@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BirkhoffGlobalSection.transverse_hopf_isotopy_spans_elliptic_disk
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @caleb
 -- created : 2026-10-07T03:07:44.96139+00:00
 -- url     : https://prove2.me/submissions/1f4f0c10-da19-49f6-92d9-6e1992c84208
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_BirkhoffGlobalSection_equivariant_transverse_isotopy_extension
 import Theorems.Thm_BirkhoffGlobalSection_standard_hopf_elliptic_rational_disk

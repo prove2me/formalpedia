@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistFreePricing_Maximin_eq_OA_4_cardano
 -- name    : DistFreePricing.Maximin.eq_OA_4_cardano
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:32.349351+00:00
 -- url     : https://prove2.me/theorems/abdafdf3-7687-4b5c-9277-9f7fe4ba9435

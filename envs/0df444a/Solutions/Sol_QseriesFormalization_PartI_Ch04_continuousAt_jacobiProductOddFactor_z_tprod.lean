@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.continuousAt_jacobiProductOddFactor_z_tprod
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:48:53.055301+00:00
 -- url     : https://prove2.me/submissions/78f14f80-314c-45d7-91c1-bdb8261b9345
 

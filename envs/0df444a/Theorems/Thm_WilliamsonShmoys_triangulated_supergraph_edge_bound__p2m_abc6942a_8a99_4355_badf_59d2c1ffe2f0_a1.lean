@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulated_supergraph_edge_bound__p2m_abc6942a_8a99_4355_badf_59d2c1ffe2f0_a1
 -- name    : WilliamsonShmoys.triangulated_supergraph_edge_bound__p2m_abc6942a_8a99_4355_badf_59d2c1ffe2f0_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:45:08.510994+00:00
 -- url     : https://prove2.me/theorems/f480263f-1ac3-4297-8888-36232c8b7a10

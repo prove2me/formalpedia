@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_face_decomposition_for_edge_count
 -- name    : WilliamsonShmoys.maximal_planar_face_decomposition_for_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T06:55:25.955555+00:00
 -- url     : https://prove2.me/theorems/69c33857-68f4-4204-a58f-d6cec837179c

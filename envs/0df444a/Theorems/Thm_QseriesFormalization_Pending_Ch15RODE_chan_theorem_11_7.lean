@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15RODE_chan_theorem_11_7
 -- name    : QseriesFormalization.Pending.Ch15RODE.chan_theorem_11_7
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:09:54.98128+00:00
 -- url     : https://prove2.me/theorems/5f3801bb-f242-4dbd-9690-61da019ae0b8
 -- title:

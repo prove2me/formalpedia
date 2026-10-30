@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.E5_zero_mul_two_eq_neg_one_sq_rat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:21:15.270828+00:00
 -- url     : https://prove2.me/submissions/121d4e65-fae6-414f-b341-e8af595becc0
 

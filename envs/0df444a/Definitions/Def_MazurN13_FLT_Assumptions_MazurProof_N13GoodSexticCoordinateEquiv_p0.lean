@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GoodSexticCoordinateEquiv_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GoodSexticCoordinateEquiv_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:57:48.099604+00:00
 -- url     : https://prove2.me/theorems/227a7d0c-35a0-4327-b424-6b4ced049031
 -- title:

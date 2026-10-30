@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_triangulation_extension
 -- name    : WilliamsonShmoys.drawable_triangulation_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:32:28.891291+00:00
 -- url     : https://prove2.me/theorems/037368dd-04cc-4345-b537-96bdbb1ae146

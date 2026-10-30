@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.good_affine_x_eq_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:34:24.125564+00:00
 -- url     : https://prove2.me/submissions/ea20b368-19dc-4a75-a853-7fda36f49622
 

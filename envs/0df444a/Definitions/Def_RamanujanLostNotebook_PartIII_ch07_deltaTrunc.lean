@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch07_deltaTrunc
 -- name    : RamanujanLostNotebook_PartIII_ch07_deltaTrunc
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:19:23.019929+00:00
 -- url     : https://prove2.me/theorems/ea115851-5e34-4434-9f97-af951a7523c7
 -- title:

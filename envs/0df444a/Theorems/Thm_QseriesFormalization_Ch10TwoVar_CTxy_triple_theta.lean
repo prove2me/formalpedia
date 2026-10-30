@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_CTxy_triple_theta
 -- name    : QseriesFormalization.Ch10TwoVar.CTxy_triple_theta
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:51:39.425362+00:00
 -- url     : https://prove2.me/theorems/6e1ca68f-c511-47e8-b9d2-02600cb8d8b1
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawing_upper_edge_bound
 -- name    : WilliamsonShmoys.drawing_upper_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:50:00.849987+00:00
 -- url     : https://prove2.me/theorems/8303c760-43af-4045-97b9-d010cc2cd13f

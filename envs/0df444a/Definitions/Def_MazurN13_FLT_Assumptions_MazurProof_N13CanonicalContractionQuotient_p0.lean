@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13CanonicalContractionQuotient_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13CanonicalContractionQuotient_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T23:13:06.398437+00:00
 -- url     : https://prove2.me/theorems/9792f4b0-d6df-492f-b728-6014742c14e8
 -- title:

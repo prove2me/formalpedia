@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.gaussK_conj_pair_t0_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:24:00.402391+00:00
 -- url     : https://prove2.me/submissions/cd6e72e5-22a6-4f60-b2ab-8fcbdc03bb58
 

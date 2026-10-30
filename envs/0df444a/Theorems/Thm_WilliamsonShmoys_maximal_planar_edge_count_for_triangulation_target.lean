@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count_for_triangulation_target
 -- name    : WilliamsonShmoys.maximal_planar_edge_count_for_triangulation_target
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-25T23:33:42.71175+00:00
 -- url     : https://prove2.me/theorems/dbdacf25-a7b5-4018-9ce6-767cceb6de44

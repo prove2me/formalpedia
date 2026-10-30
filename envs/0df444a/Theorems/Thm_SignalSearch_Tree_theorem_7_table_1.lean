@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SignalSearch_Tree_theorem_7_table_1
 -- name    : SignalSearch.Tree.theorem_7_table_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:37:54.265232+00:00
 -- url     : https://prove2.me/theorems/8cb89947-5f23-4761-b035-81c487e60d0f

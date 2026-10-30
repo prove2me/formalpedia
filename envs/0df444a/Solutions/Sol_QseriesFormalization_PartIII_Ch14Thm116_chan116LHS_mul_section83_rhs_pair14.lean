@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIII.Ch14Thm116.chan116LHS_mul_section83_rhs_pair14
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:42:52.944103+00:00
 -- url     : https://prove2.me/submissions/01458896-e2cb-46ec-a565-7afb8ac6fdb2
 

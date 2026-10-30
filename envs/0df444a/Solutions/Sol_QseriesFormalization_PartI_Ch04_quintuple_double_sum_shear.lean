@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.quintuple_double_sum_shear
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:47:41.21299+00:00
 -- url     : https://prove2.me/submissions/72aa8c37-8722-45b0-b495-d7c885b194ba
 

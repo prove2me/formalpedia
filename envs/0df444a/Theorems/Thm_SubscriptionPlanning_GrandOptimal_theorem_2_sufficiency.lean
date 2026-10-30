@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubscriptionPlanning_GrandOptimal_theorem_2_sufficiency
 -- name    : SubscriptionPlanning.GrandOptimal.theorem_2_sufficiency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:03:10.561986+00:00
 -- url     : https://prove2.me/theorems/4796871e-4044-4e16-b508-31ca5f8da832

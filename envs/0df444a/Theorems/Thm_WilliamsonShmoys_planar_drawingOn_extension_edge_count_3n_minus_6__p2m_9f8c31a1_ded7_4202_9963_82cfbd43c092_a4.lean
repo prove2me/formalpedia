@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawingOn_extension_edge_count_3n_minus_6__p2m_9f8c31a1_ded7_4202_9963_82cfbd43c092_a4
 -- name    : WilliamsonShmoys.planar_drawingOn_extension_edge_count_3n_minus_6__p2m_9f8c31a1_ded7_4202_9963_82cfbd43c092_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T22:34:26.011268+00:00
 -- url     : https://prove2.me/theorems/5a949825-f81a-4c8d-a9c0-487ac649892b

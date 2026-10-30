@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_optimized_chart_homogenization
 -- name    : MazurHuang.N19.optimized_chart_homogenization
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:22.080231+00:00
 -- url     : https://prove2.me/theorems/6c8ebb68-46cb-4cb7-aa10-2e17cf48b1b2
 -- title:

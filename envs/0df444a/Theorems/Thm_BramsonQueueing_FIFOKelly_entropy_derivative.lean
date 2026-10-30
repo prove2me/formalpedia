@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BramsonQueueing_FIFOKelly_entropy_derivative
 -- name    : BramsonQueueing.FIFOKelly.entropy_derivative
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:07:40.503239+00:00
 -- url     : https://prove2.me/theorems/3ea20f67-6aa6-41f0-bab5-9ee5f28105bc

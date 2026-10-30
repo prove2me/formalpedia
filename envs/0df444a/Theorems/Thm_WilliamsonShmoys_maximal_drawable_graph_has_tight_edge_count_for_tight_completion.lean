@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_has_tight_edge_count_for_tight_completion
 -- name    : WilliamsonShmoys.maximal_drawable_graph_has_tight_edge_count_for_tight_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:19:57.416417+00:00
 -- url     : https://prove2.me/theorems/eb0abcff-07a7-469d-985b-4f77a7414793

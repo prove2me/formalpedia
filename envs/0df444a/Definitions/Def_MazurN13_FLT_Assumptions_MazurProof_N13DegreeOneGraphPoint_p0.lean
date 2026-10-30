@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13DegreeOneGraphPoint_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13DegreeOneGraphPoint_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T20:10:28.125874+00:00
 -- url     : https://prove2.me/theorems/6a30662a-b602-4571-85b4-dd7b8dbbc59a
 -- title:

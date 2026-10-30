@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_gaussian_fourth_derivative_bound
 -- name    : EthierKurtz.gaussian_fourth_derivative_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T23:11:29.027517+00:00
 -- url     : https://prove2.me/theorems/bd750e3b-46e4-47a4-8dea-13c78a5422b4

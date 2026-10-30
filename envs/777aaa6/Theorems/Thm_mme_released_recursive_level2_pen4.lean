@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mme_released_recursive_level2_pen4
 -- name    : mme_released_recursive_level2_pen4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-09-23T03:03:43.680656+00:00
 -- url     : https://prove2.me/theorems/df7dbeb1-f865-4518-9cd0-3e085b30a229

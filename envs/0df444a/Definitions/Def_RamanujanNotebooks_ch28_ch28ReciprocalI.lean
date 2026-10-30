@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch28_ch28ReciprocalI
 -- name    : RamanujanNotebooks_ch28_ch28ReciprocalI
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T03:16:40.72746+00:00
 -- url     : https://prove2.me/theorems/c02ac0af-040d-4bee-9f41-10b798a16040
 -- title:

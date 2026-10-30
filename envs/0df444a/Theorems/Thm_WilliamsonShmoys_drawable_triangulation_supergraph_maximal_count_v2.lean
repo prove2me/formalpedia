@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_triangulation_supergraph_maximal_count_v2
 -- name    : WilliamsonShmoys.drawable_triangulation_supergraph_maximal_count_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T14:31:10.236968+00:00
 -- url     : https://prove2.me/theorems/84313d63-20c1-4b06-bed6-810239f90b6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_completion_with_edge_lower_bound
 -- name    : WilliamsonShmoys.exists_planar_completion_with_edge_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:52:15.588176+00:00
 -- url     : https://prove2.me/theorems/3655d1b6-6c4a-40a3-8c82-ff009c818c61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgRewardPMD_SPMD_lemma_2
 -- name    : AvgRewardPMD.SPMD.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:11.423989+00:00
 -- url     : https://prove2.me/theorems/7431ff2e-28c2-4357-a950-f9228c7c61e7

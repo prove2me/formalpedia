@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_QCalculus
 -- name    : QseriesFormalization_QCalculus
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:36:36.530465+00:00
 -- url     : https://prove2.me/theorems/98069bb7-dcef-4603-bf0b-eee43e55b2fd
 -- title:

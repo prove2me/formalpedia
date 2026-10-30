@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.most_beautiful_identity_of_E5_denominator_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:29:02.065913+00:00
 -- url     : https://prove2.me/submissions/06cb983c-b9bd-4eff-98af-a69a605ae318
 

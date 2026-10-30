@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.qPochhammer_mul_gaussian_center_add_eq_tail
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:28:28.177676+00:00
 -- url     : https://prove2.me/submissions/4c4e143e-e573-4edf-9219-821e72dc3ad0
 

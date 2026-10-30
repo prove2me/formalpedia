@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.good_flex_cubeclasses
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:19:28.587986+00:00
 -- url     : https://prove2.me/submissions/58e15fd3-de41-490a-9a8e-151422ae21a4
 

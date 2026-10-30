@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WangGreenTech_Regulation_lemma_O3
 -- name    : WangGreenTech.Regulation.lemma_O3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:34:35.913974+00:00
 -- url     : https://prove2.me/theorems/fd95386d-d834-45d7-9b99-c9f2ff6b77f1

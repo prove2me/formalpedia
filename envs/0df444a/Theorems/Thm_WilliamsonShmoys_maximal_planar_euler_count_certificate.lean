@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_euler_count_certificate
 -- name    : WilliamsonShmoys.maximal_planar_euler_count_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T04:02:47.907392+00:00
 -- url     : https://prove2.me/theorems/ed91fffc-a32b-46e0-9209-f57c29a4258c

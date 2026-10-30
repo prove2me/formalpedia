@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_density
 -- name    : WilliamsonShmoys.maximal_planar_graph_density
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:04:46.751132+00:00
 -- url     : https://prove2.me/theorems/04eefd50-1f7a-4747-948a-5b892b077f97

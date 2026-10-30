@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulated_supergraph_77f664a0
 -- name    : WilliamsonShmoys.planar_triangulated_supergraph_77f664a0
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T19:18:57.738478+00:00
 -- url     : https://prove2.me/theorems/03ffcefc-9f75-4be2-a57c-3e6bbb666115

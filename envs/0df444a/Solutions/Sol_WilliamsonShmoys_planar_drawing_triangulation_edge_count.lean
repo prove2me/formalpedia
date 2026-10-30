@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_triangulation_edge_count
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T04:25:48.599094+00:00
 -- url     : https://prove2.me/submissions/88ac76c3-6185-4178-a113-409ba616b4de
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_exists_maximal_supergraph
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_edge_count_from_arc_geometry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_edge_count_from_arcs
 -- name    : WilliamsonShmoys.maximal_planar_drawing_edge_count_from_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T01:12:59.951531+00:00
 -- url     : https://prove2.me/theorems/eb907501-55c6-40a9-8724-078a10e428fc

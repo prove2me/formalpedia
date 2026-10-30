@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_coeff_finite_product_one_sub_X_pow_succ
 -- name    : QseriesFormalization.PartIV.Ch19.coeff_finite_product_one_sub_X_pow_succ
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:48:25.582346+00:00
 -- url     : https://prove2.me/theorems/853ab3b2-718a-4f2b-971d-dc24568f458c
 -- title:

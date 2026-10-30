@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.eulerPentagonalInfiniteProduct_eq_tsum_prime
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:15:02.572468+00:00
 -- url     : https://prove2.me/submissions/d31da85e-5426-4b97-a025-93f552045963
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_completion_cardinality_maximal_edge_count
 -- name    : WilliamsonShmoys.maximal_drawable_graph_completion_cardinality_maximal_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:46:01.28034+00:00
 -- url     : https://prove2.me/theorems/a8cccb55-d478-4044-ba27-16f802829855

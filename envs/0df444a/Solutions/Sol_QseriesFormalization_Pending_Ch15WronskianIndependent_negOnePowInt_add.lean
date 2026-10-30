@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.negOnePowInt_add
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:43:55.905461+00:00
 -- url     : https://prove2.me/submissions/024ba43b-8ef2-4cda-8a18-588e2da340fd
 

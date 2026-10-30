@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_primitive_word_nondivisibility_of_window_capacity
 -- name    : CollatzFrontier.primitive_word_nondivisibility_of_window_capacity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:58:54.662934+00:00
 -- url     : https://prove2.me/theorems/f75812bb-4e48-47ef-92b4-c49d47deb758
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_completion_maximal_drawable_edge_bound
 -- name    : WilliamsonShmoys.completion_maximal_drawable_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:25:37.331165+00:00
 -- url     : https://prove2.me/theorems/a8f48b4b-9339-4ec5-8c1b-16fb3ee69cae

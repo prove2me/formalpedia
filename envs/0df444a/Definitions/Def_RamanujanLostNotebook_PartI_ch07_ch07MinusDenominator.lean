@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch07_ch07MinusDenominator
 -- name    : RamanujanLostNotebook_PartI_ch07_ch07MinusDenominator
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T04:57:23.942133+00:00
 -- url     : https://prove2.me/theorems/9cb7be5a-e2a5-4c37-8820-6c59b6baab96
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_prod_scaleX_qPochInfPS_fifth_collapse_complex
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.prod_scaleX_qPochInfPS_fifth_collapse_complex
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:44:55.102019+00:00
 -- url     : https://prove2.me/theorems/336d3091-ac63-4d85-915f-ca5eca572fe3
 -- title:

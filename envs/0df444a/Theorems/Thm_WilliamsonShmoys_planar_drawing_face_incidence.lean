@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_incidence
 -- name    : WilliamsonShmoys.planar_drawing_face_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T20:41:00.152275+00:00
 -- url     : https://prove2.me/theorems/6feca42e-ad03-4029-9376-ed10e55a33cb

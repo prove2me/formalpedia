@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_edge_bound_v3_triangulation_extension
 -- name    : WilliamsonShmoys.connected_planar_edge_bound_v3_triangulation_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T15:06:09.670576+00:00
 -- url     : https://prove2.me/theorems/21f6bd5a-2122-42d2-8965-a1a414a7eb7f

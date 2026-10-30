@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APrioriTSP_Sampling_lemma_15
 -- name    : APrioriTSP.Sampling.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:52.837834+00:00
 -- url     : https://prove2.me/theorems/0a8209c6-4bd6-4e40-8e46-55b27ab3fb17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_supergraph_with_euler_edge_count
 -- name    : WilliamsonShmoys.maximal_planar_supergraph_with_euler_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:58:36.52887+00:00
 -- url     : https://prove2.me/theorems/617fe75d-619a-4d40-b3ba-9dc9c387c537

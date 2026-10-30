@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawingOn_edge_bound_for_augmentation
 -- name    : WilliamsonShmoys.maximal_drawingOn_edge_bound_for_augmentation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T09:47:49.114065+00:00
 -- url     : https://prove2.me/theorems/1329fa97-02ad-42f0-be98-d4febd8ab38b

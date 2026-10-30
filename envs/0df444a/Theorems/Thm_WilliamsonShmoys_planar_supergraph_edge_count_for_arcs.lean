@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_edge_count_for_arcs
 -- name    : WilliamsonShmoys.planar_supergraph_edge_count_for_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T04:00:09.230367+00:00
 -- url     : https://prove2.me/theorems/938ced8b-ed3c-4f4d-804a-3c686007a6cc

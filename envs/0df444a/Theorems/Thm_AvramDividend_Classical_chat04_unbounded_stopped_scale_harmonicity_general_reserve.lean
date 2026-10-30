@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat04_unbounded_stopped_scale_harmonicity_general_reserve
 -- name    : AvramDividend.Classical.chat04_unbounded_stopped_scale_harmonicity_general_reserve
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-26T07:47:01.038871+00:00
 -- url     : https://prove2.me/theorems/be9dc931-e07f-4a95-8207-11114d0a82ff

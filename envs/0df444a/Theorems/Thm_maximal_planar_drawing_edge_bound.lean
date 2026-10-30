@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_maximal_planar_drawing_edge_bound
 -- name    : maximal_planar_drawing_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:15:07.118959+00:00
 -- url     : https://prove2.me/theorems/88a0414f-c61f-40ae-b394-72290e214dab

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GlobalKummerNormalization_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GlobalKummerNormalization_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:21:15.531831+00:00
 -- url     : https://prove2.me/theorems/37a3e957-2a4f-4b48-8689-0e0f48958388
 -- title:

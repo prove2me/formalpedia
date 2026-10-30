@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_hasDerivAt_jacobiInfiniteSeries
 -- name    : QseriesFormalization.PartI.Ch04.hasDerivAt_jacobiInfiniteSeries
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:28:57.990868+00:00
 -- url     : https://prove2.me/theorems/645019bc-beac-4caa-9135-e33f29ee2425
 -- title:

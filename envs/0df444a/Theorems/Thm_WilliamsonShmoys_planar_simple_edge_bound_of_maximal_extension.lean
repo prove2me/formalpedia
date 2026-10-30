@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_simple_edge_bound_of_maximal_extension
 -- name    : WilliamsonShmoys.planar_simple_edge_bound_of_maximal_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T02:32:04.607703+00:00
 -- url     : https://prove2.me/theorems/4712be9d-2fc8-4fef-ae62-13ce01d367b6

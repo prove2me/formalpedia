@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_simple_graph_edge_bound
 -- name    : WilliamsonShmoys.drawable_simple_graph_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:03:50.903253+00:00
 -- url     : https://prove2.me/theorems/5eeda581-5b51-434a-81ea-ebfbdf570c5a

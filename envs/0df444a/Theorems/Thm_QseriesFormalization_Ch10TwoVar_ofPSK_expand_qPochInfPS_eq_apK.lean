@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_ofPSK_expand_qPochInfPS_eq_apK
 -- name    : QseriesFormalization.Ch10TwoVar.ofPSK_expand_qPochInfPS_eq_apK
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:02:49.90077+00:00
 -- url     : https://prove2.me/theorems/930ad4e9-4b38-4a34-bf22-5890163e28a2
 -- title:

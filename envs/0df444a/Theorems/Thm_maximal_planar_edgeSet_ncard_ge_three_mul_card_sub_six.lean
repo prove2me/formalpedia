@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_maximal_planar_edgeSet_ncard_ge_three_mul_card_sub_six
 -- name    : maximal_planar_edgeSet_ncard_ge_three_mul_card_sub_six
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T15:46:35.610118+00:00
 -- url     : https://prove2.me/theorems/e934ca93-253c-4194-a800-c4803b62778f

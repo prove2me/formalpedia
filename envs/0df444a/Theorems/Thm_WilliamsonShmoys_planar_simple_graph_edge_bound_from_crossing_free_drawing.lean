@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_simple_graph_edge_bound_from_crossing_free_drawing
 -- name    : WilliamsonShmoys.planar_simple_graph_edge_bound_from_crossing_free_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T07:35:40.165122+00:00
 -- url     : https://prove2.me/theorems/e8dca3ed-2adf-447b-a995-6b6e85eff8db

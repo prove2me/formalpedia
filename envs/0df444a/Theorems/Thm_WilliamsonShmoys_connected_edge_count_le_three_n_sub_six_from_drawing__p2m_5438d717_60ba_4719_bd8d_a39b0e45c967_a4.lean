@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_edge_count_le_three_n_sub_six_from_drawing__p2m_5438d717_60ba_4719_bd8d_a39b0e45c967_a4
 -- name    : WilliamsonShmoys.connected_edge_count_le_three_n_sub_six_from_drawing__p2m_5438d717_60ba_4719_bd8d_a39b0e45c967_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T05:03:11.756999+00:00
 -- url     : https://prove2.me/theorems/65cf0999-c5b2-4971-827b-e0cd6da5e0b2

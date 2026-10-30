@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_map_partitionGenFun
 -- name    : QseriesFormalization.PartIV.Ch19.map_partitionGenFun
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:55:57.906421+00:00
 -- url     : https://prove2.me/theorems/891a81b3-060d-4974-81d2-fa25a0f452d6
 -- title:

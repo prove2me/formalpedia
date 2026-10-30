@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_eulerPentagonalInfiniteProduct_eq_tsum
 -- name    : QseriesFormalization.PartI.Ch04.eulerPentagonalInfiniteProduct_eq_tsum
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:28:15.780105+00:00
 -- url     : https://prove2.me/theorems/cd2ec077-f970-42a9-981e-a8adcb87d3aa
 -- title:

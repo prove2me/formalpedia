@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_bound_for_arbitrary_drawing_20261027_caef8af6
 -- name    : WilliamsonShmoys.planar_edge_count_bound_for_arbitrary_drawing_20261027_caef8af6
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T21:29:33.79945+00:00
 -- url     : https://prove2.me/theorems/217590a9-d775-4ce0-a60c-7b23e23c50a5

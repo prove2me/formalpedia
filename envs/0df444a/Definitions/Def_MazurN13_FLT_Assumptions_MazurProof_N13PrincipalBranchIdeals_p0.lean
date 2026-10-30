@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13PrincipalBranchIdeals_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13PrincipalBranchIdeals_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:43:56.559419+00:00
 -- url     : https://prove2.me/theorems/15b8c6a6-4c38-40e4-bcf2-77d3b3944b30
 -- title:

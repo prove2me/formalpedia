@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_completion_maximal_edge_count_e7f6fb70
 -- name    : WilliamsonShmoys.completion_maximal_edge_count_e7f6fb70
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T19:19:10.235354+00:00
 -- url     : https://prove2.me/theorems/58175b1d-a153-41c0-9a66-d5e759d3d2be

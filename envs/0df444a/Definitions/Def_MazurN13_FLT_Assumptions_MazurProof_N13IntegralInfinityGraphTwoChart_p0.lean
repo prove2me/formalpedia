@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityGraphTwoChart_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityGraphTwoChart_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T19:06:47.61085+00:00
 -- url     : https://prove2.me/theorems/9fe37fa0-7e1d-4a1a-b8f1-f4cf655d9ad3
 -- title:

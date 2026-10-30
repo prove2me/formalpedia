@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_SquareRootUnitLift_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_SquareRootUnitLift_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:22:22.139274+00:00
 -- url     : https://prove2.me/theorems/a0fc1a0f-723d-417f-9551-2f0403513916
 -- title:

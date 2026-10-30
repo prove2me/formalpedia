@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_planar_drawing_has_triangulation_extension
 -- name    : WilliamsonShmoys.finite_planar_drawing_has_triangulation_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:55:37.764127+00:00
 -- url     : https://prove2.me/theorems/689e997a-9a79-4277-9d35-37dc5551e5d9

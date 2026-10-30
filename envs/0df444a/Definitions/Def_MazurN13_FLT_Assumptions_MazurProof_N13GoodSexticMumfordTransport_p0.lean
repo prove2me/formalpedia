@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GoodSexticMumfordTransport_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GoodSexticMumfordTransport_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:59:49.055219+00:00
 -- url     : https://prove2.me/theorems/dcec02fc-cdbc-483d-9c6c-48d020721b3c
 -- title:

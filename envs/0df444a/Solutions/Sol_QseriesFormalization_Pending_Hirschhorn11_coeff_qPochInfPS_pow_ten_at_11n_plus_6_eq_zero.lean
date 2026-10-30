@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.coeff_qPochInfPS_pow_ten_at_11n_plus_6_eq_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:46:36.72237+00:00
 -- url     : https://prove2.me/submissions/c8b28b66-8c36-4083-92c8-9637dada7c71
 

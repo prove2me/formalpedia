@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawn_simple_graph_edge_bound
 -- name    : WilliamsonShmoys.maximal_drawn_simple_graph_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T06:49:10.92699+00:00
 -- url     : https://prove2.me/theorems/43f223d8-0144-4339-8232-053458d3fe91

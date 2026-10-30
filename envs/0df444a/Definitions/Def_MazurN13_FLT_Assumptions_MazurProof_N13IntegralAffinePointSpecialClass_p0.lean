@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralAffinePointSpecialClass_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralAffinePointSpecialClass_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T20:28:16.806401+00:00
 -- url     : https://prove2.me/theorems/0b0d31de-a7db-40aa-8da7-699d2c996293
 -- title:

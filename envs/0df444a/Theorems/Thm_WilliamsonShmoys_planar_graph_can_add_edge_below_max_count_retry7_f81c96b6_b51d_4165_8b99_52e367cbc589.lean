@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_can_add_edge_below_max_count_retry7_f81c96b6_b51d_4165_8b99_52e367cbc589
 -- name    : WilliamsonShmoys.planar_graph_can_add_edge_below_max_count_retry7_f81c96b6_b51d_4165_8b99_52e367cbc589
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:18:03.010186+00:00
 -- url     : https://prove2.me/theorems/6bf923a0-d691-453f-9036-1546bc7e7b55

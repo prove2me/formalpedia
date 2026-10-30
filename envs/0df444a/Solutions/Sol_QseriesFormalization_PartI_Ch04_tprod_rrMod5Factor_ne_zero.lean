@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.tprod_rrMod5Factor_ne_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:44:48.103981+00:00
 -- url     : https://prove2.me/submissions/87b54cfe-377c-446c-9b5b-be89625268c0
 

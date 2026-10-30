@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch09.lemma91_matrix_entry_shifted
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:04:37.394322+00:00
 -- url     : https://prove2.me/submissions/a1395967-4100-4961-99bf-06bc91742ceb
 

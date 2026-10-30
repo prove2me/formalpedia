@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_of_maximal_planar_drawing_exact_edge_count
 -- name    : WilliamsonShmoys.edge_count_of_maximal_planar_drawing_exact_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:52:52.569053+00:00
 -- url     : https://prove2.me/theorems/b1db10ca-2200-4b55-8753-9bc7a07260c1

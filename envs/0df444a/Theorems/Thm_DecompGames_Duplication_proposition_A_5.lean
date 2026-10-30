@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecompGames_Duplication_proposition_A_5
 -- name    : DecompGames.Duplication.proposition_A_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:38:02.315291+00:00
 -- url     : https://prove2.me/theorems/daa48fd5-6102-4671-841e-9f25a00ba68b

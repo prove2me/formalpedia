@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter15_WronskianIndependent
 -- name    : QseriesFormalization_Pending_Chapter15_WronskianIndependent
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:35:26.91342+00:00
 -- url     : https://prove2.me/theorems/8c850520-7843-4ab5-b2c6-3be3db175fd6
 -- title:

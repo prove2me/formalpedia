@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.pentagonal_minus_cast_eq_pentagonalMod5Minus
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:50:56.773229+00:00
 -- url     : https://prove2.me/submissions/932cd674-ea04-4a93-88e5-1fccad6acd17
 

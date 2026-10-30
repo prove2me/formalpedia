@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_single_edge_augmentation_below_euler_bound_b54e7d04
 -- name    : WilliamsonShmoys.planar_single_edge_augmentation_below_euler_bound_b54e7d04
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:38:35.903985+00:00
 -- url     : https://prove2.me/theorems/30a083df-0589-4815-ad36-02507362ad68

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_graph_has_triangulated_supergraph_for_419a1fb2_144c_4e12_b921_930e8d46d3d3_planar_upper_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T02:08:48.804174+00:00
 -- url     : https://prove2.me/submissions/3cf4f11b-51a2-46fe-8fa0-1b8a2c7283a1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

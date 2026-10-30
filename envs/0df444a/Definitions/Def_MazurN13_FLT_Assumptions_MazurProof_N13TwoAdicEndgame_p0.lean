@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicEndgame_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicEndgame_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:19:33.959527+00:00
 -- url     : https://prove2.me/theorems/c232957d-7855-4b82-9d43-cc53a07a542f
 -- title:

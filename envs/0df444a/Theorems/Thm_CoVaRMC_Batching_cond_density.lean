@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoVaRMC_Batching_cond_density
 -- name    : CoVaRMC.Batching.cond_density
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:51.642335+00:00
 -- url     : https://prove2.me/theorems/7ffd9f9c-a3a4-49d6-98ff-511647ccf32d

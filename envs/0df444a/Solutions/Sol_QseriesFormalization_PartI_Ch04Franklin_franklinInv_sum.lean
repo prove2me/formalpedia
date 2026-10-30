@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04Franklin.franklinInv_sum
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T15:59:20.902297+00:00
 -- url     : https://prove2.me/submissions/bb403f63-971a-4e63-ada5-8e256e991af6
 

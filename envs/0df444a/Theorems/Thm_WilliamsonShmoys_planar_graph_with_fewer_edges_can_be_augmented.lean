@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_with_fewer_edges_can_be_augmented
 -- name    : WilliamsonShmoys.planar_graph_with_fewer_edges_can_be_augmented
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:57:42.457019+00:00
 -- url     : https://prove2.me/theorems/75c1b2f2-facf-4eef-8da2-251652dc40f8

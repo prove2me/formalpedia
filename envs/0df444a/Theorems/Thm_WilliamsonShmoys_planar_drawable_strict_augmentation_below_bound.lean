@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawable_strict_augmentation_below_bound
 -- name    : WilliamsonShmoys.planar_drawable_strict_augmentation_below_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T05:47:48.879276+00:00
 -- url     : https://prove2.me/theorems/330723eb-06ad-4333-b931-f75a2e03f575

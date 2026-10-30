@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13ProjectiveModel_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13ProjectiveModel_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:34:47.054987+00:00
 -- url     : https://prove2.me/theorems/4bcba0e2-391f-4684-a24d-110763a1ff18
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarQueue_Genus_lemma_18
 -- name    : PlanarQueue.Genus.lemma_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:22:23.390975+00:00
 -- url     : https://prove2.me/theorems/12111f24-c8da-414d-ae36-a4edc91d1f4c

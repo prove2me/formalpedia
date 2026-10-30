@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_triangle_incidence
 -- name    : WilliamsonShmoys.maximal_planar_triangle_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T12:25:40.505952+00:00
 -- url     : https://prove2.me/theorems/d1156ce4-1ba6-423a-8979-96c05074c84b

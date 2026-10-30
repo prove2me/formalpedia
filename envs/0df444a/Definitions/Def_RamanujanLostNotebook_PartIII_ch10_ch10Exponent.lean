@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch10_ch10Exponent
 -- name    : RamanujanLostNotebook_PartIII_ch10_ch10Exponent
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T12:26:58.005528+00:00
 -- url     : https://prove2.me/theorems/1b527170-fd59-4f92-abe0-003dd7ee07b9
 -- title:

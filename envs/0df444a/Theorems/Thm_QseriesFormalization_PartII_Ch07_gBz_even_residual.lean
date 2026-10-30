@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_gBz_even_residual
 -- name    : QseriesFormalization.PartII.Ch07.gBz_even_residual
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:19:34.771633+00:00
 -- url     : https://prove2.me/theorems/be8ea193-1c64-44c5-b454-95cbc2ab16dc
 -- title:

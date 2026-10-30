@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrClusterExp_IBR_eq_13
 -- name    : CorrClusterExp.IBR.eq_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:11.212579+00:00
 -- url     : https://prove2.me/theorems/9b3f05b2-67b1-47b8-b2ef-bfee333baa45

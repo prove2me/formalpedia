@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_ch16_rrcfNum
 -- name    : RamanujanLostNotebook_PartV_ch16_rrcfNum
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T19:01:57.384648+00:00
 -- url     : https://prove2.me/theorems/06c73c24-aba6-49b3-b1a7-99d5e0456128
 -- title:

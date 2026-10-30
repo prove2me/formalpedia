@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactPenGNEP_NonShared_cq_norm_comparison
 -- name    : ExactPenGNEP.NonShared.cq_norm_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:20.371856+00:00
 -- url     : https://prove2.me/theorems/0bdfb9ad-2ca5-4516-af85-8314045337a2

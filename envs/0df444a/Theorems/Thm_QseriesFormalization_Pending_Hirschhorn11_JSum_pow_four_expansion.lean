@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_JSum_pow_four_expansion
 -- name    : QseriesFormalization.Pending.Hirschhorn11.JSum_pow_four_expansion
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:31:12.732739+00:00
 -- url     : https://prove2.me/theorems/e48b50ce-67c2-426d-be3d-31f88fd75022
 -- title:

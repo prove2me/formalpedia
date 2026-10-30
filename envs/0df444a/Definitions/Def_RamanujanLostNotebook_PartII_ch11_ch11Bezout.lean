@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch11_ch11Bezout
 -- name    : RamanujanLostNotebook_PartII_ch11_ch11Bezout
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T11:29:13.895121+00:00
 -- url     : https://prove2.me/theorems/cc4ad15f-6590-4935-b74e-91fd5de67942
 -- title:

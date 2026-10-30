@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_shared_univG3
 -- name    : RamanujanLostNotebook_PartV_shared_univG3
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T16:06:46.883978+00:00
 -- url     : https://prove2.me/theorems/8c6f2f63-8146-40c2-81a8-734ae888283b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter27_chapter27
 -- name    : ProofsInTheBook.Chapter27.chapter27
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-09-12T16:11:32.816042+00:00
 -- url     : https://prove2.me/theorems/fe0ea2f9-6139-4ffe-b4cf-0c9b82ef88dd
 -- title:

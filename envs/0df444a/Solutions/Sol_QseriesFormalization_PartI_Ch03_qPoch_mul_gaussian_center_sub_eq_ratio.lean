@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch03.qPoch_mul_gaussian_center_sub_eq_ratio
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:39:27.350211+00:00
 -- url     : https://prove2.me/submissions/ebb37102-01a7-494d-8b69-9eb5d08a17cb
 

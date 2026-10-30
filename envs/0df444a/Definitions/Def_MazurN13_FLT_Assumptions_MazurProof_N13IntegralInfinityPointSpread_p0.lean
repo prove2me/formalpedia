@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityPointSpread_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityPointSpread_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T18:34:41.026968+00:00
 -- url     : https://prove2.me/theorems/eeda663e-2927-4aca-af3b-17c39d833c9c
 -- title:

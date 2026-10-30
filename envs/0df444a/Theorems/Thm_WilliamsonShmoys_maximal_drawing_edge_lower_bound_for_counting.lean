@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_edge_lower_bound_for_counting
 -- name    : WilliamsonShmoys.maximal_drawing_edge_lower_bound_for_counting
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:14:19.591231+00:00
 -- url     : https://prove2.me/theorems/4a263b0f-4b5f-4374-821d-b3ca891e3436

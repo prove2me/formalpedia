@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_supergraph_with_edge_lower_bound_maximal_bound
 -- name    : WilliamsonShmoys.planar_graph_has_supergraph_with_edge_lower_bound_maximal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:03:20.055186+00:00
 -- url     : https://prove2.me/theorems/1be85767-9b5d-4964-823c-ae4014c87c51

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.pentagonalSign_twentyfive_mul_add_one
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:16:35.709992+00:00
 -- url     : https://prove2.me/submissions/2c3dd1f3-2034-4473-974d-01c9e97a1c55
 

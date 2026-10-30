@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FakeDescentAssembly_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FakeDescentAssembly_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:23:21.115005+00:00
 -- url     : https://prove2.me/theorems/b159c64c-a505-45fa-9d23-1a16f688b7e1
 -- title:

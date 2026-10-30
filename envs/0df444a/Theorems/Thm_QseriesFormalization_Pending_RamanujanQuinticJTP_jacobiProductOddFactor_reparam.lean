@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_jacobiProductOddFactor_reparam
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.jacobiProductOddFactor_reparam
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:42:21.797544+00:00
 -- url     : https://prove2.me/theorems/7e203f08-cdec-4f32-98e7-2b068dad2afc
 -- title:

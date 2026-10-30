@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_lower_edge_bound_for_exact_edge_count
 -- name    : WilliamsonShmoys.maximal_drawing_lower_edge_bound_for_exact_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:25:15.211717+00:00
 -- url     : https://prove2.me/theorems/158ccbf6-3ca0-48ad-8600-1558f143b58e

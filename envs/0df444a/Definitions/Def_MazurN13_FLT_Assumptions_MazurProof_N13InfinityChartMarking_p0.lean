@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13InfinityChartMarking_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13InfinityChartMarking_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:37:03.403199+00:00
 -- url     : https://prove2.me/theorems/bce89c4f-e9a4-4f54-90cd-5815444cdfdc
 -- title:

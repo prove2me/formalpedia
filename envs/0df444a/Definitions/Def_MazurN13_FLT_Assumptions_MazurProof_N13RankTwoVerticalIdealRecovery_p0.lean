@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13RankTwoVerticalIdealRecovery_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13RankTwoVerticalIdealRecovery_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:45:59.890444+00:00
 -- url     : https://prove2.me/theorems/b68c91f2-9f93-4c13-82f1-e16081597c1b
 -- title:

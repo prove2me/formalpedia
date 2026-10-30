@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.exists_tate_equation_solution_of_addOrderOf_eq_eleven
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T14:38:20.537102+00:00
 -- url     : https://prove2.me/submissions/ec8be0fa-05eb-40fb-9420-c736e3b9f46b
 

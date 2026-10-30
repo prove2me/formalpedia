@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PochetWolsey_Decomposition_tu_column_partition
 -- name    : PochetWolsey.Decomposition.tu_column_partition
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:26:47.911296+00:00
 -- url     : https://prove2.me/theorems/21ac6500-3e18-4e36-b0ab-95085feb0778

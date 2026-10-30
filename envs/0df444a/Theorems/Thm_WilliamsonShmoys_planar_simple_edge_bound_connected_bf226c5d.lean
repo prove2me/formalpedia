@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_simple_edge_bound_connected_bf226c5d
 -- name    : WilliamsonShmoys.planar_simple_edge_bound_connected_bf226c5d
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T06:33:23.309978+00:00
 -- url     : https://prove2.me/theorems/88c6cb28-d980-4ba8-aca2-3c8dda9dfd09

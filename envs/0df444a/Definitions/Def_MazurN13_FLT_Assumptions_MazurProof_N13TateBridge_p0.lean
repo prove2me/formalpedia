@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TateBridge_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TateBridge_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:46:20.791905+00:00
 -- url     : https://prove2.me/theorems/28c6e666-2502-446c-a1ed-809c5624243c
 -- title:

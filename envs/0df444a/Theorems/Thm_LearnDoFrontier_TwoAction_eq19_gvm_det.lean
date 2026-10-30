@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnDoFrontier_TwoAction_eq19_gvm_det
 -- name    : LearnDoFrontier.TwoAction.eq19_gvm_det
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:38.997277+00:00
 -- url     : https://prove2.me/theorems/8e1977f3-240a-4479-8b90-f301a524d9dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_edge_count_lower_v2_planar_augmentation
 -- name    : WilliamsonShmoys.planar_supergraph_edge_count_lower_v2_planar_augmentation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:44:40.43671+00:00
 -- url     : https://prove2.me/theorems/d76eaddf-fceb-41da-8ec8-d8b83385bf92

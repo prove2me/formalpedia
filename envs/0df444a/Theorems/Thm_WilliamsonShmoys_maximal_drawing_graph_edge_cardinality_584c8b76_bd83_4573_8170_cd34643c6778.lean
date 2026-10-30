@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_graph_edge_cardinality_584c8b76_bd83_4573_8170_cd34643c6778
 -- name    : WilliamsonShmoys.maximal_drawing_graph_edge_cardinality_584c8b76_bd83_4573_8170_cd34643c6778
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:28:53.543754+00:00
 -- url     : https://prove2.me/theorems/575f3ce6-5f9b-4066-a3a7-9d4a7e3b94cf

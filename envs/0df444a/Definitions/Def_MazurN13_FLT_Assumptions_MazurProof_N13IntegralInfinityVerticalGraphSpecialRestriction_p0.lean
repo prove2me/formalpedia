@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityVerticalGraphSpecialRestriction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityVerticalGraphSpecialRestriction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:46:44.039655+00:00
 -- url     : https://prove2.me/theorems/704947fb-546d-4821-84e8-81fa0bbe7a64
 -- title:

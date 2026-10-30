@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch13Eq1237.mod5_product_core_atFive_of_E5_denominator_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:50:50.430851+00:00
 -- url     : https://prove2.me/submissions/fc7606f1-2b6a-420d-b1d1-53b75ef5fdb8
 

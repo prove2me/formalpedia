@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Hirschhorn11.isRes_pow
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:45:44.738116+00:00
 -- url     : https://prove2.me/submissions/395db764-1c6d-4b2e-8d33-e953733a64c1
 

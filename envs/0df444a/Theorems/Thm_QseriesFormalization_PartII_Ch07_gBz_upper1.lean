@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_gBz_upper1
 -- name    : QseriesFormalization.PartII.Ch07.gBz_upper1
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:20:22.005563+00:00
 -- url     : https://prove2.me/theorems/a7c85ab3-16c0-4591-91c9-ecdab2974591
 -- title:

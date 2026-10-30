@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch07_ch07Moment
 -- name    : RamanujanLostNotebook_PartI_ch07_ch07Moment
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T04:53:38.101621+00:00
 -- url     : https://prove2.me/theorems/c3002309-93e4-486a-88f6-921046c9596b
 -- title:

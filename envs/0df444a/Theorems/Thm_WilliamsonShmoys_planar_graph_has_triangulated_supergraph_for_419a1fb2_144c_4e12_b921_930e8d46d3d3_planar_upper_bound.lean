@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_triangulated_supergraph_for_419a1fb2_144c_4e12_b921_930e8d46d3d3_planar_upper_bound
 -- name    : WilliamsonShmoys.planar_graph_has_triangulated_supergraph_for_419a1fb2_144c_4e12_b921_930e8d46d3d3_planar_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T01:25:08.012659+00:00
 -- url     : https://prove2.me/theorems/7e0405ab-21ca-48e3-b252-8778a4e47e59

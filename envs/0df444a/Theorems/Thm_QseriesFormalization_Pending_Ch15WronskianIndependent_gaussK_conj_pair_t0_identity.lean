@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_gaussK_conj_pair_t0_identity
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.gaussK_conj_pair_t0_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:12:07.939417+00:00
 -- url     : https://prove2.me/theorems/89eb0f84-0828-4288-ad0a-e06ef4c60ac0
 -- title:

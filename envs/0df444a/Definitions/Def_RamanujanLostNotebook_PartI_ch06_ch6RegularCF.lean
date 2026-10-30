@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch06_ch6RegularCF
 -- name    : RamanujanLostNotebook_PartI_ch06_ch6RegularCF
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T10:54:01.543462+00:00
 -- url     : https://prove2.me/theorems/60db078c-7e99-4f36-b33e-dd743c627a98
 -- title:

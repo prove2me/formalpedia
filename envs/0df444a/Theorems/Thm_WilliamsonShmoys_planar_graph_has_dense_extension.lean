@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_dense_extension
 -- name    : WilliamsonShmoys.planar_graph_has_dense_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:08:54.427471+00:00
 -- url     : https://prove2.me/theorems/6e62a26d-6a7c-4e08-9d6a-491a6df8336d

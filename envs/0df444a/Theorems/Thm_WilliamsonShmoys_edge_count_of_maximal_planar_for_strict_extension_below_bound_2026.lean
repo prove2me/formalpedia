@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_of_maximal_planar_for_strict_extension_below_bound_2026
 -- name    : WilliamsonShmoys.edge_count_of_maximal_planar_for_strict_extension_below_bound_2026
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T05:49:15.403504+00:00
 -- url     : https://prove2.me/theorems/9bb7d70f-683c-4443-a5cd-72660326da80

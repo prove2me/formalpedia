@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_drawing_has_euler_face_count
 -- name    : WilliamsonShmoys.connected_drawing_has_euler_face_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T21:46:28.207674+00:00
 -- url     : https://prove2.me/theorems/1bb6c4ed-811c-4fc5-b912-ec608fb01f33

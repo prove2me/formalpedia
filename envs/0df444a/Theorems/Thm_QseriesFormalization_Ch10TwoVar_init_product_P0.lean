@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_init_product_P0
 -- name    : QseriesFormalization.Ch10TwoVar.init_product_P0
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:59:35.351584+00:00
 -- url     : https://prove2.me/theorems/c733fa37-bc9d-4531-a820-ed4e057239d2
 -- title:

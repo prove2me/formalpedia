@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxSpectralRisk_Duality_Gam_distribution
 -- name    : MaxSpectralRisk.Duality.Gam_distribution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:21.891671+00:00
 -- url     : https://prove2.me/theorems/2cc0ab2a-08ca-42bb-b8f1-57a1dabd2c45

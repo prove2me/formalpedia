@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_edge_count_supergraph
 -- name    : WilliamsonShmoys.exists_planar_edge_count_supergraph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T05:13:35.174277+00:00
 -- url     : https://prove2.me/theorems/200a044f-248b-4fd0-bcd3-c7e9d499ee78

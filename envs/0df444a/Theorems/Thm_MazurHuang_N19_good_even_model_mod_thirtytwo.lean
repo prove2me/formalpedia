@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_good_even_model_mod_thirtytwo
 -- name    : MazurHuang.N19.good_even_model_mod_thirtytwo
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:08.153978+00:00
 -- url     : https://prove2.me/theorems/b25ba1cd-c4a0-4263-acc8-bfd3a92a3be1
 -- title:

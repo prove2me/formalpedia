@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteMemQL_Convergence_lemma_B_1
 -- name    : FiniteMemQL.Convergence.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:29:58.663993+00:00
 -- url     : https://prove2.me/theorems/fe526fac-f8f3-42c6-9ee3-8f2cd1f1c23e

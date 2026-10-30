@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch13RRCF.constantCoeff_pentagonal023SeriesPS_rat_ne_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:41:56.329673+00:00
 -- url     : https://prove2.me/submissions/69cfd471-ff54-4ac7-89c1-d2d2746ebac0
 

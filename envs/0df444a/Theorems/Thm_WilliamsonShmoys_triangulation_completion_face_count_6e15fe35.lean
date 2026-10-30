@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulation_completion_face_count_6e15fe35
 -- name    : WilliamsonShmoys.triangulation_completion_face_count_6e15fe35
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T01:25:56.986896+00:00
 -- url     : https://prove2.me/theorems/8dd4263a-69fd-4b40-9e27-a11745f2ccef

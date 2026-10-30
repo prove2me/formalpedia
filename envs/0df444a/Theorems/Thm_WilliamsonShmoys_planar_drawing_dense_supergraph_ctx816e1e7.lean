@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_dense_supergraph_ctx816e1e7
 -- name    : WilliamsonShmoys.planar_drawing_dense_supergraph_ctx816e1e7
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T04:48:50.804561+00:00
 -- url     : https://prove2.me/theorems/0d608879-4556-44b4-bb66-f079ed5049f3

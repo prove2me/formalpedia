@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_qPochInfPS_eq_tprod
 -- name    : QseriesFormalization.PartIV.Ch19.qPochInfPS_eq_tprod
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:58:54.968985+00:00
 -- url     : https://prove2.me/theorems/cea04f1a-d40c-4d69-849f-a34e44b9e918
 -- title:

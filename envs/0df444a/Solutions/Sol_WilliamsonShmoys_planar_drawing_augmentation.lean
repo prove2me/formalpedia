@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_augmentation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:26:13.632011+00:00
 -- url     : https://prove2.me/submissions/678ee6f2-fa98-4c9e-9553-eedf46023077
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_extension_exists
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_edge_cardinality

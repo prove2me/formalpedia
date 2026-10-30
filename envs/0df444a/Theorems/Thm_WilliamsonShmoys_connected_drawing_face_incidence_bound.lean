@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_drawing_face_incidence_bound
 -- name    : WilliamsonShmoys.connected_drawing_face_incidence_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:02:39.517119+00:00
 -- url     : https://prove2.me/theorems/6d1503a1-7a26-4fe3-8538-62de9241bbe9

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IrreducibleQuadraticChart_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IrreducibleQuadraticChart_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:04:47.069145+00:00
 -- url     : https://prove2.me/theorems/4e41131a-eb4c-4b64-8419-3ee9be4d2413
 -- title:

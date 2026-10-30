@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bounded_variation_stopped_scale_balance
 -- name    : AvramDividend.Classical.bounded_variation_stopped_scale_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T00:01:37.458956+00:00
 -- url     : https://prove2.me/theorems/2bb529c8-d611-4c49-9460-1d4af4620ae8

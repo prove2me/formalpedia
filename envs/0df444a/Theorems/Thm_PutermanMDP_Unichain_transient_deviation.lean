@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PutermanMDP_Unichain_transient_deviation
 -- name    : PutermanMDP.Unichain.transient_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:31:37.93852+00:00
 -- url     : https://prove2.me/theorems/6dbb9ad8-949c-405e-8dff-b6d5a3280164

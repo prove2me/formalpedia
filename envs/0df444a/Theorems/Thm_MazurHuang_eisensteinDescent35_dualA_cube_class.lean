@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_eisensteinDescent35_dualA_cube_class
 -- name    : MazurHuang.eisensteinDescent35_dualA_cube_class
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:06:32.4674+00:00
 -- url     : https://prove2.me/theorems/84431e2c-78a6-4df1-a1d8-abfc61b8ce5a
 -- title:

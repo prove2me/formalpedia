@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.coeff_jacobiThetaPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:38:17.99936+00:00
 -- url     : https://prove2.me/submissions/69efe2e1-197b-45d5-bf5a-8a240422c029
 

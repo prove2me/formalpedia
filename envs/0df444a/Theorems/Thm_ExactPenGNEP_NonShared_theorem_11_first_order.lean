@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactPenGNEP_NonShared_theorem_11_first_order
 -- name    : ExactPenGNEP.NonShared.theorem_11_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:31.752985+00:00
 -- url     : https://prove2.me/theorems/a89bf3fd-7f6c-4bfb-8ea1-73f28429a493

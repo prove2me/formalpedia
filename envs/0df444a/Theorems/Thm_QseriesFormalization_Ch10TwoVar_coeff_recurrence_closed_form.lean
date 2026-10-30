@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_coeff_recurrence_closed_form
 -- name    : QseriesFormalization.Ch10TwoVar.coeff_recurrence_closed_form
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:58:23.500269+00:00
 -- url     : https://prove2.me/theorems/9938f70e-9133-498c-be72-4471325eeb7f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanLostNotebook_PartII_entry_8_3_1_quartic
 -- name    : RamanujanLostNotebook.PartII.entry_8_3_1_quartic
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T10:03:15.937832+00:00
 -- url     : https://prove2.me/theorems/18d6c991-984b-4ca6-b966-44fafc8d5188
 -- title:

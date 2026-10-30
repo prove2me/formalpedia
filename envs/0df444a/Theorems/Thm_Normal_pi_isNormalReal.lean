@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Normal_pi_isNormalReal
 -- name    : Normal.pi_isNormalReal
 -- status  : Open
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T12:49:40.806709+00:00
 -- url     : https://prove2.me/theorems/d0be28c0-73e1-49c5-bafa-403c97ac303f
 -- title:

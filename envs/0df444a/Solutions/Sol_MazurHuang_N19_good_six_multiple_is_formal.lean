@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.good_six_multiple_is_formal
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:31:34.601867+00:00
 -- url     : https://prove2.me/submissions/9b7f3ebd-f39f-46ec-aeab-74f6800f326f
 

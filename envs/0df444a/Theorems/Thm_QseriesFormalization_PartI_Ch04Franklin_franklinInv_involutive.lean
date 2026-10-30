@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04Franklin_franklinInv_involutive
 -- name    : QseriesFormalization.PartI.Ch04Franklin.franklinInv_involutive
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:26:08.251069+00:00
 -- url     : https://prove2.me/theorems/ee9c43af-9aed-4f33-bc88-c16d82d72d7e
 -- title:

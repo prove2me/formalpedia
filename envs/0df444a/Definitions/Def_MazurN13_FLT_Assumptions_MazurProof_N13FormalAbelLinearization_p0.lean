@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FormalAbelLinearization_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FormalAbelLinearization_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:56:15.969221+00:00
 -- url     : https://prove2.me/theorems/dfb63125-c466-469a-9a04-119ea8cf78a6
 -- title:

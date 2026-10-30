@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.quotient_affine_isogeny_preimage
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:21:07.993977+00:00
 -- url     : https://prove2.me/submissions/f28c6407-e282-4fb4-84bf-d2b34adca6e9
 

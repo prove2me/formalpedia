@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.coeff_qPochInfPS_int_eq_pentagonalSign
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:20:25.00026+00:00
 -- url     : https://prove2.me/submissions/549a7126-27b6-4530-95f4-4104b266113f
 

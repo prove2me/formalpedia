@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch03_exists_gaussianWeightedTailSummand_pairMajorant_bound
 -- name    : QseriesFormalization.PartI.Ch03.exists_gaussianWeightedTailSummand_pairMajorant_bound
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:20:55.797609+00:00
 -- url     : https://prove2.me/theorems/1bcf78bb-dd80-4c14-b715-754d6162925a
 -- title:

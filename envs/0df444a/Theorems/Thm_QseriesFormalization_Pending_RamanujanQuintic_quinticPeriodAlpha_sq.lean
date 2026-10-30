@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuintic_quinticPeriodAlpha_sq
 -- name    : QseriesFormalization.Pending.RamanujanQuintic.quinticPeriodAlpha_sq
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:48:31.653283+00:00
 -- url     : https://prove2.me/theorems/b1dbdb94-1a80-405a-b6df-425b04cd1f47
 -- title:

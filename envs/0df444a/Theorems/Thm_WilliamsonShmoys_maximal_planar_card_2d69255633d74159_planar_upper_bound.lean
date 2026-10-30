@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_card_2d69255633d74159_planar_upper_bound
 -- name    : WilliamsonShmoys.maximal_planar_card_2d69255633d74159_planar_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:54:34.141985+00:00
 -- url     : https://prove2.me/theorems/04150578-546e-4101-95cf-54180ec28486

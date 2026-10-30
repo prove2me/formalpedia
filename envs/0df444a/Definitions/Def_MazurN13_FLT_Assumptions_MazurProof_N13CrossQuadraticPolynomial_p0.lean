@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13CrossQuadraticPolynomial_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13CrossQuadraticPolynomial_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:34:34.061916+00:00
 -- url     : https://prove2.me/theorems/037aeaa0-9aa5-4567-bc34-d95485e0eb59
 -- title:

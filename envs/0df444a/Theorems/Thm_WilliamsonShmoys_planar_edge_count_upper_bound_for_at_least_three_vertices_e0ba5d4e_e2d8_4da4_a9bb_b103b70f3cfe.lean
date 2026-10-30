@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound_for_at_least_three_vertices_e0ba5d4e_e2d8_4da4_a9bb_b103b70f3cfe
 -- name    : WilliamsonShmoys.planar_edge_count_upper_bound_for_at_least_three_vertices_e0ba5d4e_e2d8_4da4_a9bb_b103b70f3cfe
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T04:55:09.75968+00:00
 -- url     : https://prove2.me/theorems/bade1508-4926-4dcc-ab69-3902a4ebf297

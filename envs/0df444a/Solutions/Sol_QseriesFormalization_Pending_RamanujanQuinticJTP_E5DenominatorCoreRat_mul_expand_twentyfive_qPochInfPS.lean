@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.E5DenominatorCoreRat_mul_expand_twentyfive_qPochInfPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:12:02.960254+00:00
 -- url     : https://prove2.me/submissions/f88610fa-e878-4f05-b52d-c3d1e305bb3c
 

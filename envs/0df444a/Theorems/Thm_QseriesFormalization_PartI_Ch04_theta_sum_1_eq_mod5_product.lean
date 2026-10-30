@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_theta_sum_1_eq_mod5_product
 -- name    : QseriesFormalization.PartI.Ch04.theta_sum_1_eq_mod5_product
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:33:41.89727+00:00
 -- url     : https://prove2.me/theorems/18bad037-4449-494a-b147-531c9306e6b9
 -- title:

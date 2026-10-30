@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_completion_fixed_vertices_e7f6fb70
 -- name    : WilliamsonShmoys.planar_triangulation_completion_fixed_vertices_e7f6fb70
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:20:58.059516+00:00
 -- url     : https://prove2.me/theorems/f754e7f5-0138-4471-840c-fa82fd2ddf11

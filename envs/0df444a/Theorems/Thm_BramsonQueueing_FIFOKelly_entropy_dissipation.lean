@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BramsonQueueing_FIFOKelly_entropy_dissipation
 -- name    : BramsonQueueing.FIFOKelly.entropy_dissipation
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:07:38.097359+00:00
 -- url     : https://prove2.me/theorems/d929781e-2ff5-424e-b4c8-b90544e11a38

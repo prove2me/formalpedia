@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_kernel_domination
 -- name    : EthierKurtz.oblique_kernel_domination
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T23:22:10.289981+00:00
 -- url     : https://prove2.me/theorems/c704a917-4cf2-4320-9e58-b3034f421823

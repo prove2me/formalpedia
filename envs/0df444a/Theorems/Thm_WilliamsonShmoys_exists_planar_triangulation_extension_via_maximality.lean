@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_triangulation_extension_via_maximality
 -- name    : WilliamsonShmoys.exists_planar_triangulation_extension_via_maximality
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:51:13.33711+00:00
 -- url     : https://prove2.me/theorems/561cc06e-e471-4e1a-a773-8d1c521595db

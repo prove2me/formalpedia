@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.covering_cubic_mod_twentyseven
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:15:22.350987+00:00
 -- url     : https://prove2.me/submissions/d4c963b6-dec8-479d-a233-464831302711
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_variable_coeff_perturbation
 -- name    : EthierKurtz.oblique_variable_coeff_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-28T22:48:16.509245+00:00
 -- url     : https://prove2.me/theorems/1f870cb9-1498-423b-b5af-fa26274cb344

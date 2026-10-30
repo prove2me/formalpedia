@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_planar_graph_has_extremal_edge_count
 -- name    : WilliamsonShmoys.edge_maximal_planar_graph_has_extremal_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:50:30.796358+00:00
 -- url     : https://prove2.me/theorems/0fcfe75c-ca5c-4f44-b053-fab43bcb7554

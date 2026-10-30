@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.killed_firstRecord_grid_expected_scale_lower
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T15:35:13.450482+00:00
 -- url     : https://prove2.me/submissions/6ef0ca04-fc04-4d08-8cd7-4065d71d5d81
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Lebesgue.Basic
 import Mathlib.Data.ENNReal.Real

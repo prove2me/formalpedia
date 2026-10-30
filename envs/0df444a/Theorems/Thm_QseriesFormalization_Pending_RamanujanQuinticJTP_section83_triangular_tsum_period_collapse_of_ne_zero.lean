@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_section83_triangular_tsum_period_collapse_of_ne_zero
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.section83_triangular_tsum_period_collapse_of_ne_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:47:11.857651+00:00
 -- url     : https://prove2.me/theorems/a8b86c5b-3a32-4b57-a5b5-2cc0995bb8fe
 -- title:

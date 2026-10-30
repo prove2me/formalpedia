@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch03_summand_shift
 -- name    : QseriesFormalization.PartI.Ch03.summand_shift
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:22:57.827284+00:00
 -- url     : https://prove2.me/theorems/7603ff9a-dafe-4848-9e5a-9a130e801939
 -- title:

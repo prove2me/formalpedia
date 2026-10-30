@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13RankTwoInfinityVerticalGraphRecovery_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13RankTwoInfinityVerticalGraphRecovery_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T18:54:59.777524+00:00
 -- url     : https://prove2.me/theorems/636fa263-971a-42bf-9b9b-92520d11f073
 -- title:

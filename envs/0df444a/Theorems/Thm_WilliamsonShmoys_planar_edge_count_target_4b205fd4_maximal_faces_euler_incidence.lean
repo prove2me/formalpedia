@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_target_4b205fd4_maximal_faces_euler_incidence
 -- name    : WilliamsonShmoys.planar_edge_count_target_4b205fd4_maximal_faces_euler_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T17:05:16.803371+00:00
 -- url     : https://prove2.me/theorems/30b929a6-11eb-4f1a-9a47-89391e3d4175

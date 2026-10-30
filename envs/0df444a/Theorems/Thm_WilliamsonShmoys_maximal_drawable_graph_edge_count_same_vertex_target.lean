@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_count_same_vertex_target
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_count_same_vertex_target
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:47:04.014998+00:00
 -- url     : https://prove2.me/theorems/c7ea8b28-0253-489b-9e0e-3d033ae5b807

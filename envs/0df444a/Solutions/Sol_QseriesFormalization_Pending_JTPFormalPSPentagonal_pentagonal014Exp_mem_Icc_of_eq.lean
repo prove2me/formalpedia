@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.pentagonal014Exp_mem_Icc_of_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:17:12.936415+00:00
 -- url     : https://prove2.me/submissions/55c531ea-14b4-4b45-8cb0-9929a4e0d73a
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_qpoch_q4_residue_split
 -- name    : QseriesFormalization.PartI.Ch04.qpoch_q4_residue_split
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:31:45.78362+00:00
 -- url     : https://prove2.me/theorems/cc488948-77b5-4615-8d7e-baa6baef310f
 -- title:

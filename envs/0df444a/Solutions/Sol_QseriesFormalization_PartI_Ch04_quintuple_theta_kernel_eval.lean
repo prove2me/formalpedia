@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.quintuple_theta_kernel_eval
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:06:45.987729+00:00
 -- url     : https://prove2.me/submissions/45755f10-bbad-440a-8677-58b2547683c9
 

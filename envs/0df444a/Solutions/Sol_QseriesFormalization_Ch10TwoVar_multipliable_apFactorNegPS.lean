@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.multipliable_apFactorNegPS
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:21:40.768986+00:00
 -- url     : https://prove2.me/submissions/763dc380-a932-4468-af5e-31948e677e18
 

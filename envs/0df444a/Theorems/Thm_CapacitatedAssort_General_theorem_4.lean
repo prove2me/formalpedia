@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapacitatedAssort_General_theorem_4
 -- name    : CapacitatedAssort.General.theorem_4
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:23:32.686601+00:00
 -- url     : https://prove2.me/theorems/63bbb2da-902f-4eec-b57d-25143dd441aa

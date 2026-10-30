@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawing_has_triangulated_edge_count_certificate
 -- name    : WilliamsonShmoys.drawing_has_triangulated_edge_count_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T18:31:45.287996+00:00
 -- url     : https://prove2.me/theorems/92c8f67c-2acf-4978-9513-2ea87c7b1443

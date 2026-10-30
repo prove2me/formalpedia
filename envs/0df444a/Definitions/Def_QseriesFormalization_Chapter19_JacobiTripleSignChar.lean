@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter19_JacobiTripleSignChar
 -- name    : QseriesFormalization_Chapter19_JacobiTripleSignChar
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:29:34.171464+00:00
 -- url     : https://prove2.me/theorems/55e3d680-7740-4502-b56b-42473eecd6f5
 -- title:

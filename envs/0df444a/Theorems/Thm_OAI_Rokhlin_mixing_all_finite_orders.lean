@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_mixing_all_finite_orders
 -- name    : OAI.Rokhlin.mixing_all_finite_orders
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:16.683349+00:00
 -- url     : https://prove2.me/theorems/598dcbcb-a509-4bad-ab4e-67bcece5c6bd

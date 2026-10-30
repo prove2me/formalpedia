@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.exists_X0_five_seven_fiber_point_of_addOrderOf_eq_five_of_eq_seven
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:14:48.936019+00:00
 -- url     : https://prove2.me/submissions/f12f3cc3-7316-4528-a337-23b84687240c
 

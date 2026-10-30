@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_bound_for_augmentation_2fefb580
 -- name    : WilliamsonShmoys.maximal_drawable_edge_bound_for_augmentation_2fefb580
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:31:39.18685+00:00
 -- url     : https://prove2.me/theorems/d8675a0a-d97d-414e-9e50-49f3d9e1b0b2

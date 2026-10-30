@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_DiazModulus_strong_six_exponentials
+-- name    : DiazModulus.strong_six_exponentials
+-- status  : Proved
+-- author  : @carlok
+-- created : 2026-10-29T06:06:28.015983+00:00
+-- url     : https://prove2.me/theorems/bec66d28-1e35-4a81-bc07-151c0be6d3b6
+-- title:
+--   Roy's strong six exponentials theorem, from the elementary multiplicity estimate: for Q̄-free x ∈ ℂ², y ∈ ℂ³, some $x_i y_j$ lies outside ℒ̃
+-- statement:
+--   Here $\overline{\mathbb{Q}}$ is the field of algebraic numbers, $\mathcal{L}$ is the set of logarithms of algebraic numbers (the $z \in \mathbb{C}$ with $e^z$ algebraic), and $\widetilde{\mathcal{L}}$ is the $\overline{\mathbb{Q}}$-vector space spanned by $1$ and $\mathcal{L}$.
+--
+--   Points are $p = (p', p'') \in \mathbb{C}^{\iota_0} \times \mathbb{C}^{\iota_1}$ for finite index sets $\iota_0, \iota_1$. For $w = (w', w'')$ and a weight vector $t$ on $\iota_1$, $\mathrm{Op}^t_w$ is the operator $\sum_{h \in \iota_0} w'_h\,\partial/\partial X_h + \sum_{i \in \iota_1} w''_i t_i$ on polynomials in the $X_h$ ($h \in \iota_0$), and for vectors $w_k$ ($k \in \kappa_0$) and $k_1, \dots, k_r \in \kappa_0$, $\mathrm{Op}^t_{w,k} = \mathrm{Op}^t_{w_{k_1}} \cdots \mathrm{Op}^t_{w_{k_r}}$ (the factors commute). For $T_0, T_1 \geq 1$ the columns are the $\lambda = (\tau, t)$ with $\tau \in \{0, \dots, T_0\}^{\iota_0}$ and $t \in \{-T_1, \dots, T_1\}^{\iota_1}$; there are $L = (T_0 + 1)^{|\iota_0|}(2T_1 + 1)^{|\iota_1|}$ of them. Given $u_j \in \mathbb{C}^{\iota_0}$ and $a_{ji} \in \mathbb{C}$ ($j \in \kappa_1$, $i \in \iota_1$), the entry at a row datum $(r, k, s)$ ($r \in \mathbb{N}$, $k_1, \dots, k_r \in \kappa_0$, $s \in \mathbb{Z}^{\kappa_1}$) and a column $(\tau, t)$ is $E_{(r,k,s),(\tau,t)} = (\mathrm{Op}^t_{w,k} X^\tau)(\sum_j s_j u_j) \cdot \prod_i (\prod_j a_{ji}^{s_j})^{t_i}$.
+--
+--   The hypothesis `hME : MultiplicityEstimateElem` is the published definition `MultiplicityEstimateElem` (`DiazModulus.MultiplicityEstimateElem`, module `Definitions.Def_MultiplicityEstimateElem`), a proposition that is assumed here, not proved. It is an elementary form of Philippon's multiplicity estimate: the case $G^- = \{e\}$, $G^+ = G$ of DALAG Th. 8.1 (§8.1) for $G = \mathbb{G}_a^{A_0} \times \mathbb{G}_m^{A_1}$, written in coordinates. It says: let $A_0, A_1, B_0, B_1$ be finite, $d = |A_0| + |A_1|$, $w_b \in \mathbb{C}^{A_0} \times \mathbb{C}^{A_1}$ ($b \in B_0$), $u_j \in \mathbb{C}^{A_0}$ and non-zero $a_{ji} \in \mathbb{C}$ ($j \in B_1$, $i \in A_1$), $D_0, D_1 \geq 1$, $M_0, M_1 \in \mathbb{N}$, and $c \neq 0$ a vector on the box of the $(\tau, t)$ with $\tau_h \leq D_0$ and $|t_i| \leq D_1$. If $\sum_\lambda c_\lambda E_{(r,k,s),\lambda} = 0$ for every $r \leq dM_0$, every $k_1, \dots, k_r \in B_0$ and every $s$ with $|s_j| \leq dM_1$ (the entries $E$ are those defined above, with $A_0, A_1, B_0, B_1$ for $\iota_0, \iota_1, \kappa_0, \kappa_1$ and $D_0, D_1$ for $T_0, T_1$), then there are a subspace $V \subseteq \mathbb{C}^{A_0}$, integer vectors $\varphi_1, \dots, \varphi_q \in \mathbb{Z}^{A_1}$ with common complex kernel $L_1$, and $\ell$ with $\ell + \dim(W \cap (V \times L_1)) = \dim W$, $W$ the span of the $w_b$, such that $\dim V + \dim L_1 < d$ and every set $R$ of vectors $s$ with $|s_j| \leq M_1$, pairwise incongruent modulo $(V, \varphi)$, has $\binom{M_0 + \ell}{\ell}\, |R|\, D_0^{\dim V} D_1^{\dim L_1} \leq K_d\, D_0^{|A_0|} D_1^{|A_1|}$, with $K_d = 2^{d(d+1)/2}\, d!\, 2^{|A_1|}\, |A_0|^{|A_0|}$; two vectors $s, s' \in \mathbb{Z}^{B_1}$ are congruent modulo $(V, \varphi)$ when $\sum_j (s_j - s'_j) u_j \in V$ and $\prod_i (\prod_j a_{ji}^{s_j - s'_j})^{\varphi_{k,i}} = 1$ for every $k$.
+--
+--   Assume `hME`. Let $x \in \mathbb{C}^2$ and $y \in \mathbb{C}^3$ each be linearly independent over $\overline{\mathbb{Q}}$. Then $x_i y_j \notin \widetilde{\mathcal{L}}$ for some $i, j$.
+--
+--   This is Roy's strong six exponentials theorem, the case $d = 2$, $\ell = 3$ of DALAG Cor. 11.16 (§11.6.1), conditional on `hME`. `hME` is carried as an explicit hypothesis and is not proved here. It is intended as the case $G^- = \{e\}$ of DALAG Th. 8.1 (Philippon's multiplicity estimate); that derivation is not proved formally here. A separate check of the statement against Th. 8.1, including exact computation on small cases, found no counterexample.
+--
+--   **Proof.** Suppose $x_i y_j \in \widetilde{\mathcal{L}}$ for all $i, j$. `DiazModulus.exists_sse_lifts` gives $m \geq 1$, a $\mathbb{Q}$-free algebraic $\omega$ and lifts $\eta_{a,j} \in \overline{\mathbb{Q}}^2 \times \mathcal{L}^{m \times 2}$ with $\Upsilon(\eta_{a,j}) = \omega_a y_j x$, where $\Upsilon(u, v)_i = u_i + \sum_k \omega_k v_{k,i}$. Apply `DiazModulus.linear_subgroup_transcendence` (DALAG Th. 11.21) in $G = \mathbb{G}_a^2 \times \mathbb{G}_m^{2m}$ with $V = \Upsilon^{-1}(\mathbb{C}x)$, of dimension $2m + 1$ by `DiazModulus.sse_setup` (so $d - n = 1$), the algebraic spanning family $(-\omega_k e_i, e_{k,i})$ of $\ker\Upsilon$ (`DiazModulus.sse_setup`) and the lifts $\eta$. It returns $(V', \varphi, L_1, \ell)$ with $\ell < d'$ and $3m - \rho + d'_1 \leq 2m(d' - \ell)$. By `DiazModulus.sse_tangent_count`, $d' - \ell = \delta = 2 - \dim T$ for $T = \Upsilon(V' \times L_1)$, so $\delta \geq 1$. If $T \subseteq \mathbb{C}x$, `DiazModulus.sse_relRank_rational` gives $L_1 = 0$ and $\rho = 0$, so $5m \leq 2m\delta \leq 4m$. Otherwise $\dim T = 1$ and $T \cap \mathbb{C}x = 0$, and `DiazModulus.sse_relRank_generic` gives $\rho \leq 2m - \dim L_1$, so $3m \leq 2m$. Both contradict $m \geq 1$.
+--
+--   **Novelty.** Classical: Roy's strong six exponentials theorem (Roy 1992, Cor. 2; DALAG Cor. 11.16, §11.6.1). The proof follows DALAG: Roy's map $\Upsilon$ of §11.6.2 and the linear subgroup theorem, Th. 11.21; the case analysis of the obstruction (`DiazModulus.sse_relRank_generic`, `DiazModulus.sse_relRank_rational`) does not use that it is defined over $\overline{\mathbb{Q}}$ and does not use Baker's theorem; that variation of the route is routine. The multiplicity estimate (DALAG Th. 8.1, after Philippon) enters only as the hypothesis `hME`, which is not proved here.
+-- source:
+--   Roy's strong six exponentials theorem: D. Roy, Matrices whose coefficients are linear forms in logarithms, J. Number Theory 41 (1992), 22–47, Cor. 2; M. Waldschmidt, Diophantine Approximation on Linear Algebraic Groups, Grundlehren der mathematischen Wissenschaften 326, Springer, 2000, Cor. 11.16 (§11.6.1; this node is its case d = 2, ℓ = 3), through Th. 11.21 (§11.7.1). The multiplicity estimate (M. Waldschmidt, Diophantine Approximation on Linear Algebraic Groups, Grundlehren der mathematischen Wissenschaften 326, Springer, 2000, Th. 8.1, §8.1; P. Philippon, Lemmes de zéros dans les groupes algébriques commutatifs, Bull. Soc. Math. France 114 (1986), 355–383) is carried as the explicit hypothesis hME, the definition MultiplicityEstimateElem, and is not proved in this round. Uses DiazModulus.exists_sse_lifts, DiazModulus.sse_setup, DiazModulus.sse_tangent_count, DiazModulus.sse_relRank_generic, DiazModulus.sse_relRank_rational and DiazModulus.linear_subgroup_transcendence. C1.4 of the Diaz modulus mission. Formal proof: Diaz modulus mission, 29 October 2026 (C. Perassi).
+
+import Definitions.Def_DiazModulus
+import Definitions.Def_MultiplicityEstimateElem
+
+open Complex ComplexConjugate
+
+namespace DiazModulus
+
+theorem strong_six_exponentials (hME : MultiplicityEstimateElem) :
+    ∀ x : Fin 2 → ℂ, ∀ y : Fin 3 → ℂ, LinearIndependent (↥Qbar) x → LinearIndependent (↥Qbar) y →
+      ¬ ∀ i j, x i * y j ∈ LogAlgTilde := by
+  sorry
+
+end DiazModulus

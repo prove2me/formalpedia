@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.map_partitionGenFun
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:38:37.851499+00:00
 -- url     : https://prove2.me/submissions/281949b2-c872-487f-8bfd-869734f02aec
 

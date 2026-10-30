@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.stoppedFirstRecord_lower_geometric_budgets
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T15:16:06.457252+00:00
 -- url     : https://prove2.me/submissions/f7234201-3d8e-460c-a111-23f8ff89d59f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Lebesgue.Basic
 import Theorems.Thm_AvramDividend_Classical_chat08_record_grid_stopped_weights_aemeasurable

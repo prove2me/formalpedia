@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13RationalCurvePointPicardRealization_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13RationalCurvePointPicardRealization_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:29:41.543947+00:00
 -- url     : https://prove2.me/theorems/a75fa8ec-c913-4af3-a7c9-ccdd6b924947
 -- title:

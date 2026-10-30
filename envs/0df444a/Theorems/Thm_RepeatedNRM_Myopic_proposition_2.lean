@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepeatedNRM_Myopic_proposition_2
 -- name    : RepeatedNRM.Myopic.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:01.357805+00:00
 -- url     : https://prove2.me/theorems/ae656ff9-c5ed-4f57-bbeb-b662c2d7969e

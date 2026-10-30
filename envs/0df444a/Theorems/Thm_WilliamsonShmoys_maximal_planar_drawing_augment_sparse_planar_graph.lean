@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_augment_sparse_planar_graph
 -- name    : WilliamsonShmoys.maximal_planar_drawing_augment_sparse_planar_graph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T00:58:36.930105+00:00
 -- url     : https://prove2.me/theorems/e5a48da6-dba2-48dc-ace6-fcdd81cb72e6

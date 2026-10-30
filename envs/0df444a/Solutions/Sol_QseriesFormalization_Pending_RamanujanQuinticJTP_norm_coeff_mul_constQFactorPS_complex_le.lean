@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.norm_coeff_mul_constQFactorPS_complex_le
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:18:15.080989+00:00
 -- url     : https://prove2.me/submissions/90821f20-cd23-4aaa-8224-fc374d6aa794
 

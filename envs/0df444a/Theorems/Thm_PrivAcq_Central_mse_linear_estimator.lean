@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivAcq_Central_mse_linear_estimator
 -- name    : PrivAcq.Central.mse_linear_estimator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:41.778971+00:00
 -- url     : https://prove2.me/theorems/b52bf708-d2a2-47cc-89d9-61ebe6d523e5

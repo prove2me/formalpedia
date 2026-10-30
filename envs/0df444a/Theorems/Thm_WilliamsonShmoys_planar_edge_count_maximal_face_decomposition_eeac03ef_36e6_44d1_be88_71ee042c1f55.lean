@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_maximal_face_decomposition_eeac03ef_36e6_44d1_be88_71ee042c1f55
 -- name    : WilliamsonShmoys.planar_edge_count_maximal_face_decomposition_eeac03ef_36e6_44d1_be88_71ee042c1f55
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:29:24.176513+00:00
 -- url     : https://prove2.me/theorems/924dec2a-6dae-4338-b699-c87a63db146c

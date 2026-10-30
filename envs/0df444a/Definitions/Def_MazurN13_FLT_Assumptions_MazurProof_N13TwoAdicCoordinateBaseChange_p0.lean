@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicCoordinateBaseChange_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoAdicCoordinateBaseChange_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:05:15.694977+00:00
 -- url     : https://prove2.me/theorems/da636d5c-a9ca-4b9d-9aa7-524a791ded3f
 -- title:

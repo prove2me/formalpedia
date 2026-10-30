@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_completion_edge_count_for_maximal_edge_lower_bound
 -- name    : WilliamsonShmoys.planar_completion_edge_count_for_maximal_edge_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:09:08.210562+00:00
 -- url     : https://prove2.me/theorems/1fcd1e10-6464-452c-bcb2-93996beee69f

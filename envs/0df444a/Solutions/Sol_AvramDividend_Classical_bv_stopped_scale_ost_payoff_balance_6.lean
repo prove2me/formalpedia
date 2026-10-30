@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for AvramDividend.Classical.bv_stopped_scale_ost_payoff_balance
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T08:02:30.761992+00:00
 -- url     : https://prove2.me/submissions/251ead0b-718e-4c0a-8fea-703ae5be482b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

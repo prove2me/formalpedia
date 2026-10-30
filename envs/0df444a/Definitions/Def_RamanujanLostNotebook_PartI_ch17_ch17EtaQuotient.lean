@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch17_ch17EtaQuotient
 -- name    : RamanujanLostNotebook_PartI_ch17_ch17EtaQuotient
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T12:05:51.491732+00:00
 -- url     : https://prove2.me/theorems/76c5491e-2dbb-45ca-af2c-dcb7a6d81b06
 -- title:

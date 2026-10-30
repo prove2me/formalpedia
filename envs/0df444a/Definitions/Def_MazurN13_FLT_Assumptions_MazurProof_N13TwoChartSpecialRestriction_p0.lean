@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13TwoChartSpecialRestriction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13TwoChartSpecialRestriction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:01:05.126226+00:00
 -- url     : https://prove2.me/theorems/f4b54505-cf8d-4c84-a6b4-3cd462e07203
 -- title:

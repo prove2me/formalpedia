@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PutermanMDP_Unichain_gain_improvement
 -- name    : PutermanMDP.Unichain.gain_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:32:19.640564+00:00
 -- url     : https://prove2.me/theorems/aeac03a3-9c84-433a-9665-bff6fab0371a

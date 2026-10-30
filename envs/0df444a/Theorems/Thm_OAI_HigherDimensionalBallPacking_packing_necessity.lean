@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HigherDimensionalBallPacking_packing_necessity
 -- name    : OAI.HigherDimensionalBallPacking.packing_necessity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:44.798991+00:00
 -- url     : https://prove2.me/theorems/3ef88fc0-dce7-4dd3-80a8-a5594aebdeba

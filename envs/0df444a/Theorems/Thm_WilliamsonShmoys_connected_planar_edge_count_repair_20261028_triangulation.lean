@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_edge_count_repair_20261028_triangulation
 -- name    : WilliamsonShmoys.connected_planar_edge_count_repair_20261028_triangulation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T13:55:13.555615+00:00
 -- url     : https://prove2.me/theorems/dcb2afb2-ef9b-40e4-8261-e6ef6542b367

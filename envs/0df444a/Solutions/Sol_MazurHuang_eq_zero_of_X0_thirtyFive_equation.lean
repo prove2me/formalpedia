@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.eq_zero_of_X0_thirtyFive_equation
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:25:56.653099+00:00
 -- url     : https://prove2.me/submissions/bf8314f9-faf8-43ad-870d-9858e6234768
 

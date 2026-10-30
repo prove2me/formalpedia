@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.eq_one_of_curve_35a1_equation
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:23:50.193773+00:00
 -- url     : https://prove2.me/submissions/b3597fd5-1210-43ff-8d7a-9bb8e637bfa0
 

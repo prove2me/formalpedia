@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_completion_with_exact_euler_edge_count_95ea5390
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:26:05.944913+00:00
 -- url     : https://prove2.me/submissions/fc8c1117-2e4a-49a4-9cbd-9896be5f1fa3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_extension__p2m_1dc633c7_70a8_4274_883e_7335c1c0b3c4_a1

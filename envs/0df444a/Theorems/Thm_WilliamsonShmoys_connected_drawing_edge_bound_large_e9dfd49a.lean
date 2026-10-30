@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_drawing_edge_bound_large_e9dfd49a
 -- name    : WilliamsonShmoys.connected_drawing_edge_bound_large_e9dfd49a
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T04:14:12.060892+00:00
 -- url     : https://prove2.me/theorems/e1c8b881-67e0-4b9f-ab35-1c2d56e4195d

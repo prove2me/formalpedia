@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearMDPRL_Misspec_lsvi_ucb_misspecified_regret
 -- name    : LinearMDPRL.Misspec.lsvi_ucb_misspecified_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:36:54.358202+00:00
 -- url     : https://prove2.me/theorems/8986d692-dcaa-46e8-b15f-ec08646a83c7

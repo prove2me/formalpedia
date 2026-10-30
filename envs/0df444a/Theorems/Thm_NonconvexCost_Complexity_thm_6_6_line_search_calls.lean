@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexCost_Complexity_thm_6_6_line_search_calls
 -- name    : NonconvexCost.Complexity.thm_6_6_line_search_calls
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:35.089976+00:00
 -- url     : https://prove2.me/theorems/7ca49f05-121a-40dc-83cb-6b1b74b7d622

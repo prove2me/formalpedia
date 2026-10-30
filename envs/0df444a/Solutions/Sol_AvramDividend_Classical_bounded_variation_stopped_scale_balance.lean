@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.bounded_variation_stopped_scale_balance
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T18:30:51.254586+00:00
 -- url     : https://prove2.me/submissions/eacc0d0d-4893-49e8-8cb3-807594ffa441
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- REPAIR ITERATION N of CE 16458 (E01 TACTIC_FAILURE measurability, E02 TYPE_MISMATCH lintegral_mul_const).
 -- Cause-linked hypothesis vs M: `measurability` cannot discharge exit-clock measurability

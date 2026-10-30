@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter13_Watson_Algebraic
 -- name    : QseriesFormalization_Pending_Chapter13_Watson_Algebraic
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:34:17.528139+00:00
 -- url     : https://prove2.me/theorems/253493d7-756e-4789-958a-966d7eb667a1
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_edge_completion_lower_bound
 -- name    : WilliamsonShmoys.planar_graph_edge_completion_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T06:39:49.359483+00:00
 -- url     : https://prove2.me/theorems/72308e48-e747-4e51-91df-6580f74849c1

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_graph_has_triangulated_supergraph_edge_count
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T07:18:25.842896+00:00
 -- url     : https://prove2.me/submissions/66774ee8-f74c-4b80-9796-56342e3497bc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_supergraph_for_edge_count_6274f47d_124c_4fd1_84e6_71540a951a1f

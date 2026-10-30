@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.triangular_cast_eq_triangularMod5
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:50:00.019477+00:00
 -- url     : https://prove2.me/submissions/830e87eb-01bc-407c-94d2-a22fdd0a9cab
 

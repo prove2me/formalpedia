@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.gBz_upper1
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:43:56.486584+00:00
 -- url     : https://prove2.me/submissions/d9f1e05a-13b8-4157-be48-78ee6356a074
 

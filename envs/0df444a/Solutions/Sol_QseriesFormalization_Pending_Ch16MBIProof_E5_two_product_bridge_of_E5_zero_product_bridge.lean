@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.E5_two_product_bridge_of_E5_zero_product_bridge
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:41:34.092996+00:00
 -- url     : https://prove2.me/submissions/35148f78-a3c0-4dd5-8a18-1e0650f4cc3b
 

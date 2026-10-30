@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepeatedNRM_Myopic_corollary_1
 -- name    : RepeatedNRM.Myopic.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:09.378183+00:00
 -- url     : https://prove2.me/theorems/d0fe0749-da40-4874-b4e3-3d9d98c66428

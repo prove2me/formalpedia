@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FiniteAlgebraicEnvelopes_theorem_6_2
 -- name    : OAI.FiniteAlgebraicEnvelopes.theorem_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-14T09:27:20.641848+00:00
 -- url     : https://prove2.me/theorems/efb142d0-8b4b-4f2b-9996-9945acd55866

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_QuadraticNormRigidity_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_QuadraticNormRigidity_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:21:34.495913+00:00
 -- url     : https://prove2.me/theorems/a4d04d2b-6747-4464-b5e8-05cca4c9681b
 -- title:

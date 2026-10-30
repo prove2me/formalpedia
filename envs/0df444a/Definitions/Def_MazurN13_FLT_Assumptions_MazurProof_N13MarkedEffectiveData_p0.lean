@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13MarkedEffectiveData_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13MarkedEffectiveData_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:44:43.911378+00:00
 -- url     : https://prove2.me/theorems/c670b332-0bcd-4929-b9bb-3f09f86fb2a4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch10_ch10QuasiLog
 -- name    : RamanujanLostNotebook_PartII_ch10_ch10QuasiLog
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T08:45:07.009748+00:00
 -- url     : https://prove2.me/theorems/ff605ec2-c998-4ac3-8dd2-3e4dbe0a644e
 -- title:

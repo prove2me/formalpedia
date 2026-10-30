@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HigherDimensionalBallPacking_normalized_two_ball_obstruction
 -- name    : OAI.HigherDimensionalBallPacking.normalized_two_ball_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T16:17:12.950842+00:00
 -- url     : https://prove2.me/theorems/7ed5fdd5-a49d-4234-b8e3-ab86d5a580a0

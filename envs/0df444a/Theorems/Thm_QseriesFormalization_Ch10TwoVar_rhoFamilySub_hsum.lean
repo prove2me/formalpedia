@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_rhoFamilySub_hsum
 -- name    : QseriesFormalization.Ch10TwoVar.rhoFamilySub_hsum
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:04:45.974422+00:00
 -- url     : https://prove2.me/theorems/836d4a86-0eab-4015-b928-1b8042ff58b8
 -- title:

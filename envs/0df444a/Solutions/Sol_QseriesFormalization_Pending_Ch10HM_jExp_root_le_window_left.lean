@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.jExp_root_le_window_left
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:23:59.995962+00:00
 -- url     : https://prove2.me/submissions/ed0df835-4ff1-4e6b-9356-7f782c1e69f4
 

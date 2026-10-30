@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.degree_sub_lt_center_start_pos
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:36:47.336445+00:00
 -- url     : https://prove2.me/submissions/ff7b17ae-2575-4757-ba5a-ad369ca649f4
 

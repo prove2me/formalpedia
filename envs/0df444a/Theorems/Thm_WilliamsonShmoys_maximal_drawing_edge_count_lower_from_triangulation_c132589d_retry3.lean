@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_edge_count_lower_from_triangulation_c132589d_retry3
 -- name    : WilliamsonShmoys.maximal_drawing_edge_count_lower_from_triangulation_c132589d_retry3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:24:06.836954+00:00
 -- url     : https://prove2.me/theorems/13faa273-6cc7-40de-996b-75bc225f6250

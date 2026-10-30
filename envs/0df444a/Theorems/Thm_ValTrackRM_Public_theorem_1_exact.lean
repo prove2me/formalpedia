@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValTrackRM_Public_theorem_1_exact
 -- name    : ValTrackRM.Public.theorem_1_exact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:31:33.961029+00:00
 -- url     : https://prove2.me/theorems/6c996b21-c355-4f0c-a383-f68fc134ac0d

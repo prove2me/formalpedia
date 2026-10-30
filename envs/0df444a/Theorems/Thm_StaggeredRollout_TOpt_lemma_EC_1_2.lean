@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaggeredRollout_TOpt_lemma_EC_1_2
 -- name    : StaggeredRollout.TOpt.lemma_EC_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T04:00:35.016385+00:00
 -- url     : https://prove2.me/theorems/975a06d3-4c8f-48ed-b691-42e5a1601001

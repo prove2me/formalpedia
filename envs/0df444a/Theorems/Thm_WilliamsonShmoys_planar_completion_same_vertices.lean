@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_completion_same_vertices
 -- name    : WilliamsonShmoys.planar_completion_same_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T19:36:42.637357+00:00
 -- url     : https://prove2.me/theorems/6f9ab176-bb29-48fd-ba5b-d05d0a4c6c8d

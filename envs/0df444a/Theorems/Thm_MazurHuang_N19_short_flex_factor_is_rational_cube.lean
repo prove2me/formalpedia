@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_short_flex_factor_is_rational_cube
 -- name    : MazurHuang.N19.short_flex_factor_is_rational_cube
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:12:14.995827+00:00
 -- url     : https://prove2.me/theorems/ac811882-e2ec-4ad3-845d-3a9f61141e47
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10TenthOrder.one_sub_X_pow_mul_divisorGeomPSLocal
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:20:02.963723+00:00
 -- url     : https://prove2.me/submissions/f7d6264c-8f66-4780-88eb-272cc2336e04
 

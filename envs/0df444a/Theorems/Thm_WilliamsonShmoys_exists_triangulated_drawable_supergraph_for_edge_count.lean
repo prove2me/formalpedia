@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulated_drawable_supergraph_for_edge_count
 -- name    : WilliamsonShmoys.exists_triangulated_drawable_supergraph_for_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T14:31:47.217895+00:00
 -- url     : https://prove2.me/theorems/0d58a30b-b602-48eb-8495-a2236e2d87f2

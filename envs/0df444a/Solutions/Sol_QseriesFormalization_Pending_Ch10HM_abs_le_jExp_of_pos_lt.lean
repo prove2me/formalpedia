@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10HM.abs_le_jExp_of_pos_lt
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:31:02.3924+00:00
 -- url     : https://prove2.me/submissions/5ce77672-7658-46dc-ba85-06ab25ce5f70
 

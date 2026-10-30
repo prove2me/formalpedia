@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_maximal_drawable_edge_count
 -- name    : WilliamsonShmoys.finite_maximal_drawable_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:09:56.191449+00:00
 -- url     : https://prove2.me/theorems/54cf9ee5-3148-49ab-8534-0945199afa08

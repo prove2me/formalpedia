@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.normShellKSumByNorm_eq_normShellHSumByNorm_of_mod_four_one
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:31:27.72137+00:00
 -- url     : https://prove2.me/submissions/96f8457b-b854-41b5-9cc7-cc5882887d67
 

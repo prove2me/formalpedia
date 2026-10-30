@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_completion_exists
 -- name    : WilliamsonShmoys.drawable_completion_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:51:18.331977+00:00
 -- url     : https://prove2.me/theorems/0427560c-cc19-4d5f-835d-e30667b355d9

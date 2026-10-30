@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_prod_scaleX_qPochInfPS_eq_E5DenominatorCore_complex
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.prod_scaleX_qPochInfPS_eq_E5DenominatorCore_complex
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:44:23.970364+00:00
 -- url     : https://prove2.me/theorems/a92d5426-8b56-4f58-8eb0-ee9ae43704c4
 -- title:

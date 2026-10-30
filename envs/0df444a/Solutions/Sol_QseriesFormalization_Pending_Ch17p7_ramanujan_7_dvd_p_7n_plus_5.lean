@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch17p7.ramanujan_7_dvd_p_7n_plus_5
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:46:55.700042+00:00
 -- url     : https://prove2.me/submissions/45a7fb73-f37b-446f-b66e-87a217948971
 

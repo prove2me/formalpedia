@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgRewardPMD_SPMD_bellman_solution_sets
 -- name    : AvgRewardPMD.SPMD.bellman_solution_sets
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:44:21.453249+00:00
 -- url     : https://prove2.me/theorems/b87cf91a-7922-48b6-8e9b-8d770cd73935

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GoodPrimeCompletion_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GoodPrimeCompletion_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:16:19.666992+00:00
 -- url     : https://prove2.me/theorems/d8d0f08a-dcf0-4a49-b4aa-703d6d180390
 -- title:

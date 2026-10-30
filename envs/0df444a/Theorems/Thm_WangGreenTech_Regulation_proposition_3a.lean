@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WangGreenTech_Regulation_proposition_3a
 -- name    : WangGreenTech.Regulation.proposition_3a
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:34:51.578978+00:00
 -- url     : https://prove2.me/theorems/ffecfafb-f30f-4f39-b9a1-0a02f9a33a6c

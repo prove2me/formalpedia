@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_edge_bound_repair3
 -- name    : WilliamsonShmoys.maximal_planar_drawing_edge_bound_repair3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T09:13:52.018845+00:00
 -- url     : https://prove2.me/theorems/721984f6-9522-4ccc-9bc4-86f01e08240e

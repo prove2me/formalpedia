@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_edge_count_extension_f663d05c
 -- name    : WilliamsonShmoys.planar_supergraph_edge_count_extension_f663d05c
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T23:59:46.802922+00:00
 -- url     : https://prove2.me/theorems/4d8f612f-5d9b-4a14-abf6-2aa74f72eb02

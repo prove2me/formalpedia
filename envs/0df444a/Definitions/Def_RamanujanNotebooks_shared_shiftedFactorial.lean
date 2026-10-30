@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_shiftedFactorial
 -- name    : RamanujanNotebooks_shared_shiftedFactorial
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:18:11.394082+00:00
 -- url     : https://prove2.me/theorems/dbcf8b1c-0857-40ee-a3eb-dbeaf22eb13e
 -- title:

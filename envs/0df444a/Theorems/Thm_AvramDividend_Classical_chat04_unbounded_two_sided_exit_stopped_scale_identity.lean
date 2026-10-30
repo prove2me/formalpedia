@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat04_unbounded_two_sided_exit_stopped_scale_identity
 -- name    : AvramDividend.Classical.chat04_unbounded_two_sided_exit_stopped_scale_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T04:39:27.273827+00:00
 -- url     : https://prove2.me/theorems/aed50a34-200b-4736-a369-5ae8473e3258

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch13Eq1237_mod5_product_core_atFive_of_E5_denominator_identity
 -- name    : QseriesFormalization.Pending.Ch13Eq1237.mod5_product_core_atFive_of_E5_denominator_identity
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:05:29.2347+00:00
 -- url     : https://prove2.me/theorems/4cb9aa8b-8ff5-499c-bf50-a9e1b165771d
 -- title:

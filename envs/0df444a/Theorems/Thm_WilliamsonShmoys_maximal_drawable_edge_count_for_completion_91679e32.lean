@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_count_for_completion_91679e32
 -- name    : WilliamsonShmoys.maximal_drawable_edge_count_for_completion_91679e32
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T00:14:02.516159+00:00
 -- url     : https://prove2.me/theorems/0793cb93-0291-4b9c-9b25-9b0362d0ce46

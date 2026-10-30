@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_jLaurent_eq_tripleProductInf
 -- name    : QseriesFormalization.Pending.Ch10HM.jLaurent_eq_tripleProductInf
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:48:35.372726+00:00
 -- url     : https://prove2.me/theorems/ad7ce3de-5f7a-4949-b65c-2cd533636273
 -- title:

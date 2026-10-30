@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_shared_hyp2F1
 -- name    : RamanujanNotebooks_shared_hyp2F1
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:22:01.499237+00:00
 -- url     : https://prove2.me/theorems/1851a632-f6b7-4b83-a555-accd35930fc9
 -- title:

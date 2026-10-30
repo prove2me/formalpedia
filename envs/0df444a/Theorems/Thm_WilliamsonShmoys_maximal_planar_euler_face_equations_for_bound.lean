@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_euler_face_equations_for_bound
 -- name    : WilliamsonShmoys.maximal_planar_euler_face_equations_for_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T10:31:42.681987+00:00
 -- url     : https://prove2.me/theorems/a91ff678-2584-4a25-8e60-fb94ad6b5c72

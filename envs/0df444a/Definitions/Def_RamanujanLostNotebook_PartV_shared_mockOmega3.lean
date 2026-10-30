@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_shared_mockOmega3
 -- name    : RamanujanLostNotebook_PartV_shared_mockOmega3
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T16:05:48.959387+00:00
 -- url     : https://prove2.me/theorems/89e9d974-ac69-49b8-b367-408478873bd2
 -- title:

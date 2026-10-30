@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_norm_coeff_partial_pentagonalTripleFactor023PS_complex_le
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.norm_coeff_partial_pentagonalTripleFactor023PS_complex_le
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:34:39.370982+00:00
 -- url     : https://prove2.me/theorems/94f30eb1-9f25-49a3-96aa-e00f3bc9a056
 -- title:

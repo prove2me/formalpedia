@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulated_extension_for_edge_count_bound
 -- name    : WilliamsonShmoys.planar_drawing_triangulated_extension_for_edge_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T15:59:19.166563+00:00
 -- url     : https://prove2.me/theorems/bcc8c98b-d4c1-462d-9be8-fb6e4c745d1d

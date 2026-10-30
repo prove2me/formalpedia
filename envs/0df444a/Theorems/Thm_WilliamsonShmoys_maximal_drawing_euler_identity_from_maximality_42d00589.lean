@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_euler_identity_from_maximality_42d00589
 -- name    : WilliamsonShmoys.maximal_drawing_euler_identity_from_maximality_42d00589
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T04:01:19.832473+00:00
 -- url     : https://prove2.me/theorems/a9049401-fa72-494b-9f56-c782d3c75ca3

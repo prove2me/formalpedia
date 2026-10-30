@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirkhoffGlobalSection_equivariant_transverse_isotopy_extension
 -- name    : BirkhoffGlobalSection.equivariant_transverse_isotopy_extension
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-10-07T03:05:13.66876+00:00
 -- url     : https://prove2.me/theorems/36c0927f-f846-4d4a-a282-a22c1fb2f5f4

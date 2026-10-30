@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HaircutRate_Downside_proposition_2
 -- name    : HaircutRate.Downside.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:57:34.706829+00:00
 -- url     : https://prove2.me/theorems/44c5cc06-0699-49eb-864e-14c3477443dc

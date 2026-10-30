@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartII_ch04_ch04ScaledPoch
 -- name    : RamanujanLostNotebook_PartII_ch04_ch04ScaledPoch
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T07:40:21.00064+00:00
 -- url     : https://prove2.me/theorems/e1fbdb02-5eb0-4814-8381-4b3416e96617
 -- title:

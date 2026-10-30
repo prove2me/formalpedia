@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch06_ch06EMConstant
 -- name    : RamanujanNotebooks_ch06_ch06EMConstant
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T22:18:13.370464+00:00
 -- url     : https://prove2.me/theorems/3935adc9-00ef-4c07-98ec-58632fb7596b
 -- title:

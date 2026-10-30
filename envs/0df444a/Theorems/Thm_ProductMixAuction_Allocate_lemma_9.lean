@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductMixAuction_Allocate_lemma_9
 -- name    : ProductMixAuction.Allocate.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:37:37.485444+00:00
 -- url     : https://prove2.me/theorems/df28dda5-cfaa-4eb8-8861-7d86d64fb4d8

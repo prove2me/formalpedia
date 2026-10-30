@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch10Bridge.chan1015
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:29:29.322569+00:00
 -- url     : https://prove2.me/submissions/ed15f8e2-ed9a-47c9-aae3-a15e25039da9
 

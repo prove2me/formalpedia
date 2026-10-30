@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_hasFPowerSeriesOnBall_section83JTPProductAnalytic_productCoeff_small
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.hasFPowerSeriesOnBall_section83JTPProductAnalytic_productCoeff_small
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:40:01.442781+00:00
 -- url     : https://prove2.me/theorems/0f27156a-8e14-49f5-b0bb-5adce22ffb56
 -- title:

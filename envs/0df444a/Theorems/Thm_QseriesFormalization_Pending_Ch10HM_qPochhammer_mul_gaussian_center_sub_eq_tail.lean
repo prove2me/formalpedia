@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_qPochhammer_mul_gaussian_center_sub_eq_tail
 -- name    : QseriesFormalization.Pending.Ch10HM.qPochhammer_mul_gaussian_center_sub_eq_tail
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:52:17.215737+00:00
 -- url     : https://prove2.me/theorems/eae7569d-3af5-4e4a-b020-1c7cd346637e
 -- title:

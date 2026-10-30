@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10TenthOrder_thetaOp_qPochAPPS_rat
 -- name    : QseriesFormalization.Pending.Ch10TenthOrder.thetaOp_qPochAPPS_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:55:23.290128+00:00
 -- url     : https://prove2.me/theorems/502c7cb0-aa38-41a7-a72b-e6bf57a9f91d
 -- title:

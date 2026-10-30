@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_supergraph_lower_edge_count
 -- name    : WilliamsonShmoys.planar_drawing_supergraph_lower_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T06:32:29.639234+00:00
 -- url     : https://prove2.me/theorems/89f7b2e6-a389-4b68-b3bd-779ea943bf14

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.no_F19_rational_solution
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T19:07:41.905705+00:00
 -- url     : https://prove2.me/submissions/217b17ad-a7fe-495a-bfa2-5f31eefb98ba
 

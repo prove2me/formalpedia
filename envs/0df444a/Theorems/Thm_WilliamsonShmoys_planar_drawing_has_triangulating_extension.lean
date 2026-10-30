@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_triangulating_extension
 -- name    : WilliamsonShmoys.planar_drawing_has_triangulating_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:49:01.117549+00:00
 -- url     : https://prove2.me/theorems/8070196b-3326-411c-a9ac-119c796c6d1d

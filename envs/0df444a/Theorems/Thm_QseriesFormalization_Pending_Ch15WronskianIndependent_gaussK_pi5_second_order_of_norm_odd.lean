@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_gaussK_pi5_second_order_of_norm_odd
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.gaussK_pi5_second_order_of_norm_odd
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:12:42.612161+00:00
 -- url     : https://prove2.me/theorems/824be54c-dcc9-427d-926f-ab8895f2d822
 -- title:

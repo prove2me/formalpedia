@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenChaoShiSALA_Regret_lemma_1
 -- name    : ChenChaoShiSALA.Regret.lemma_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:20:07.523981+00:00
 -- url     : https://prove2.me/theorems/e3bc9d8c-ffe6-4e7d-81f5-d8fe0ed1eafd

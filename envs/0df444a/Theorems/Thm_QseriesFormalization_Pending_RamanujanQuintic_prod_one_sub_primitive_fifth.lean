@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuintic_prod_one_sub_primitive_fifth
 -- name    : QseriesFormalization.Pending.RamanujanQuintic.prod_one_sub_primitive_fifth
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:47:00.695885+00:00
 -- url     : https://prove2.me/theorems/dd49f71e-1410-496d-8500-97871a8584f3
 -- title:

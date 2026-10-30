@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.CTxy_triple_theta
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:20:42.149994+00:00
 -- url     : https://prove2.me/submissions/1c279009-7942-4e75-9464-fb9919a9ed38
 

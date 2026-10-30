@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BirkhoffGlobalSection.equivariant_transverse_isotopy_extension
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @caleb
 -- created : 2026-10-07T13:33:24.214391+00:00
 -- url     : https://prove2.me/submissions/ea478b17-3193-4ab9-beae-b6d3f824d4f7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_BirkhoffGlobalSection_transverse_isotopy_contact_generator
 import Theorems.Thm_FlowCalculus_compact_supported_flow_preserves_regular_level

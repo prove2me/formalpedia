@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_count_lower_bound_for_triangulation_target
 -- name    : WilliamsonShmoys.maximal_drawable_edge_count_lower_bound_for_triangulation_target
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T15:21:54.536653+00:00
 -- url     : https://prove2.me/theorems/8f32d902-7718-40eb-87e2-098365566fba

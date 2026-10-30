@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_section5_two_E5_sum_cube_rat
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.section5_two_E5_sum_cube_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:29:46.426152+00:00
 -- url     : https://prove2.me/theorems/3050a556-9533-466c-a749-45379182600e
 -- title:

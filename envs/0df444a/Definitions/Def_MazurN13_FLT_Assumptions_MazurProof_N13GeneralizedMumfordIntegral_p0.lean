@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13GeneralizedMumfordIntegral_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13GeneralizedMumfordIntegral_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:53:03.51399+00:00
 -- url     : https://prove2.me/theorems/89c1198b-f725-48be-9469-a6f610213dcc
 -- title:

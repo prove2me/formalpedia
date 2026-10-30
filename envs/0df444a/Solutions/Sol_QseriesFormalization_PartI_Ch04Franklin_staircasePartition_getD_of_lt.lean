@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04Franklin.staircasePartition_getD_of_lt
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:27:35.402305+00:00
 -- url     : https://prove2.me/submissions/e83af420-8ccb-4470-8863-0a26e34f2c96
 

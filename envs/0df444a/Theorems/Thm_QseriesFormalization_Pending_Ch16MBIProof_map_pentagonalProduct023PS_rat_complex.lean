@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch16MBIProof_map_pentagonalProduct023PS_rat_complex
 -- name    : QseriesFormalization.Pending.Ch16MBIProof.map_pentagonalProduct023PS_rat_complex
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:24:18.49604+00:00
 -- url     : https://prove2.me/theorems/4dfb5efa-ec24-40e3-8c42-ceafa5f96c2f
 -- title:

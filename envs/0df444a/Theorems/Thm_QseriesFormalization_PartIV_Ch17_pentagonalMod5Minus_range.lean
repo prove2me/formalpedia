@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_pentagonalMod5Minus_range
 -- name    : QseriesFormalization.PartIV.Ch17.pentagonalMod5Minus_range
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:43:15.250621+00:00
 -- url     : https://prove2.me/theorems/d2f95d4d-27c3-4cde-be1b-971e08d7b09a
 -- title:

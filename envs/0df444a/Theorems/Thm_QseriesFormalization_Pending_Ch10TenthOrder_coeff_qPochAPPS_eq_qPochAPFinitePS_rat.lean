@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10TenthOrder_coeff_qPochAPPS_eq_qPochAPFinitePS_rat
 -- name    : QseriesFormalization.Pending.Ch10TenthOrder.coeff_qPochAPPS_eq_qPochAPFinitePS_rat
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:54:50.746367+00:00
 -- url     : https://prove2.me/theorems/fa121cc7-a814-4aca-ab0b-7042495250d6
 -- title:

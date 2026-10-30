@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13CalibratedChooser_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13CalibratedChooser_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T23:37:25.255989+00:00
 -- url     : https://prove2.me/theorems/b9045db2-bd45-4513-a4ba-359d227d0237
 -- title:

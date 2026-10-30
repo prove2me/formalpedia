@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_density_bound_ws
 -- name    : WilliamsonShmoys.maximal_drawing_density_bound_ws
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T12:12:04.978331+00:00
 -- url     : https://prove2.me/theorems/48412bf5-a329-4db7-b424-9cabb8a15d56

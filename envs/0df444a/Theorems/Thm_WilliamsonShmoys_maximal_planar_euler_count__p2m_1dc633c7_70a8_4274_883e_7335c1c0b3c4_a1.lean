@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_euler_count__p2m_1dc633c7_70a8_4274_883e_7335c1c0b3c4_a1
 -- name    : WilliamsonShmoys.maximal_planar_euler_count__p2m_1dc633c7_70a8_4274_883e_7335c1c0b3c4_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:23:02.417811+00:00
 -- url     : https://prove2.me/theorems/ca3bbeaf-b99d-433d-8549-4f9fe71c79f9

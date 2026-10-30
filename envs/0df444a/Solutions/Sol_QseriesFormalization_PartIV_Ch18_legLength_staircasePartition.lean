@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch18.legLength_staircasePartition
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:32:58.582733+00:00
 -- url     : https://prove2.me/submissions/604f63c7-1bab-451f-a206-447525e558cb
 

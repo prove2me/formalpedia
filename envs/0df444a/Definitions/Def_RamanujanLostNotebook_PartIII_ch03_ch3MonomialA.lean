@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch03_ch3MonomialA
 -- name    : RamanujanLostNotebook_PartIII_ch03_ch3MonomialA
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T09:01:17.746404+00:00
 -- url     : https://prove2.me/theorems/f814571d-29cc-4a42-bd4e-cc63db61b861
 -- title:

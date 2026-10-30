@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter14_CrankGenFun
 -- name    : QseriesFormalization_Chapter14_CrankGenFun
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:27:15.201248+00:00
 -- url     : https://prove2.me/theorems/ee6faa0d-f02f-49b6-abc1-cbd9b1f06f2a
 -- title:

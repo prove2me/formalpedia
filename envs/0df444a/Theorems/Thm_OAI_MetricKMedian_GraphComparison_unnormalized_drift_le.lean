@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_GraphComparison_unnormalized_drift_le
 -- name    : OAI.MetricKMedian.GraphComparison.unnormalized_drift_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:24:19.40758+00:00
 -- url     : https://prove2.me/theorems/944c51ff-7a47-40cb-b35d-7b5c1d716614

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13FormalLineBundleCech_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13FormalLineBundleCech_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:37:47.627314+00:00
 -- url     : https://prove2.me/theorems/376f486a-891b-4996-9e97-ff94fb411bee
 -- title:

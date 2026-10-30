@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_completion_fixed_vertices_e7f6fb70_maximal_edge_count
 -- name    : WilliamsonShmoys.planar_triangulation_completion_fixed_vertices_e7f6fb70_maximal_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T17:53:01.742285+00:00
 -- url     : https://prove2.me/theorems/6fecec1c-ab42-47f9-9ba6-29ea76a39185

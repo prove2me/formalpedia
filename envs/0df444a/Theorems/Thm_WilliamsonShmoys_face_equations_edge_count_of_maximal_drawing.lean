@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_face_equations_edge_count_of_maximal_drawing
 -- name    : WilliamsonShmoys.face_equations_edge_count_of_maximal_drawing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T03:20:10.025529+00:00
 -- url     : https://prove2.me/theorems/7de36d95-de40-4e26-a7d8-76f9e84ef520

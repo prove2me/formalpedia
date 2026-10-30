@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactPenGNEP_NonShared_theorem_11_descent_bound
 -- name    : ExactPenGNEP.NonShared.theorem_11_descent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:20.488046+00:00
 -- url     : https://prove2.me/theorems/54b32e93-b512-42c9-bdeb-0dda54b3a720

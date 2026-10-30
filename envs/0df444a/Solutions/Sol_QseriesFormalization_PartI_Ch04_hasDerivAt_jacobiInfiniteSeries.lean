@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.hasDerivAt_jacobiInfiniteSeries
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:58:54.701931+00:00
 -- url     : https://prove2.me/submissions/e52a3b80-b825-46c1-827b-f501a5e9985a
 

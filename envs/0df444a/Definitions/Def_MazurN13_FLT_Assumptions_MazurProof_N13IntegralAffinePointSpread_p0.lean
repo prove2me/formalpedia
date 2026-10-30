@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralAffinePointSpread_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralAffinePointSpread_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T20:13:45.213563+00:00
 -- url     : https://prove2.me/theorems/a743c0c7-7737-423f-a237-3d25faede207
 -- title:

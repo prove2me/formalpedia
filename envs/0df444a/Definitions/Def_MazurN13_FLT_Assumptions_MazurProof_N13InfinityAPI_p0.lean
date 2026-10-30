@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13InfinityAPI_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13InfinityAPI_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:58:43.959985+00:00
 -- url     : https://prove2.me/theorems/10934bbc-b304-4975-8709-7c894a7a0803
 -- title:

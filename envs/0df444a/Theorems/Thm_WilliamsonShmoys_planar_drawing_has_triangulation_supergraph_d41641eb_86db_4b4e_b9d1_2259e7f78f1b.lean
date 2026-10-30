@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_triangulation_supergraph_d41641eb_86db_4b4e_b9d1_2259e7f78f1b
 -- name    : WilliamsonShmoys.planar_drawing_has_triangulation_supergraph_d41641eb_86db_4b4e_b9d1_2259e7f78f1b
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T22:53:32.716475+00:00
 -- url     : https://prove2.me/theorems/298b1a86-18b6-4bc5-96f4-b68905059bb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RendezvousKn_Sym_lemma_9
 -- name    : RendezvousKn.Sym.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:39:08.659343+00:00
 -- url     : https://prove2.me/theorems/a48b7763-4c6f-4001-8056-5e13823abd08

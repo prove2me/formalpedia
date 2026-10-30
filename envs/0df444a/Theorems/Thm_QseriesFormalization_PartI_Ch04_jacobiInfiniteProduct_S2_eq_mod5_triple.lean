@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04_jacobiInfiniteProduct_S2_eq_mod5_triple
 -- name    : QseriesFormalization.PartI.Ch04.jacobiInfiniteProduct_S2_eq_mod5_triple
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:29:46.830305+00:00
 -- url     : https://prove2.me/theorems/710acb7f-9fac-43cc-9497-4e03058eee69
 -- title:

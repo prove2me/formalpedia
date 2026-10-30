@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierStrategy_value_eq_killed_exit_integral_mul_boundaryValue
 -- name    : AvramDividend.Classical.barrierStrategy_value_eq_killed_exit_integral_mul_boundaryValue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T18:53:38.423686+00:00
 -- url     : https://prove2.me/theorems/2f4d50d7-b08b-4db7-a7e6-3fef6281ade5

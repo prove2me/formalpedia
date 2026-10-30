@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIII.Ch14Thm116.E_mul_rr_den_product_eq
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:52:24.564355+00:00
 -- url     : https://prove2.me/submissions/4b5a4954-ef82-448c-8bde-756ffa9b41d5
 

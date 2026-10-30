@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawing_euler_face_certificate
 -- name    : WilliamsonShmoys.drawing_euler_face_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T13:29:11.950811+00:00
 -- url     : https://prove2.me/theorems/7c5eea9e-4239-4074-b13c-15b8482d92aa

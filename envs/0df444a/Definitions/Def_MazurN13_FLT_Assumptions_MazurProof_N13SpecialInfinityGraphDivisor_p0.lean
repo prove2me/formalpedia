@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SpecialInfinityGraphDivisor_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SpecialInfinityGraphDivisor_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:21:41.753048+00:00
 -- url     : https://prove2.me/theorems/9e9e98c7-0cd9-4263-a9fa-bcc18a02345d
 -- title:

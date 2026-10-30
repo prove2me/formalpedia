@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.threeIsogeny35_dual_comp_Y_eq_tripleY
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:12:37.527851+00:00
 -- url     : https://prove2.me/submissions/a7d6e7cc-d619-4324-baab-b4a2a9464242
 

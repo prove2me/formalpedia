@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableDispatch_Markov_exit_sum_finite
 -- name    : StableDispatch.Markov.exit_sum_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:10.33272+00:00
 -- url     : https://prove2.me/theorems/e040d587-fbd4-4b9c-a919-1e8268346eb4

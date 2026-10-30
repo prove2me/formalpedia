@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_dividendValue_barrierStrategy_upExit_split
 -- name    : AvramDividend.Classical.dividendValue_barrierStrategy_upExit_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T03:37:00.736261+00:00
 -- url     : https://prove2.me/theorems/5f7f43e1-0d48-4879-b2c4-b205f9cdeb8f

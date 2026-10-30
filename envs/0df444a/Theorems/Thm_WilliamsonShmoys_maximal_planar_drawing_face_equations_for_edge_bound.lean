@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_face_equations_for_edge_bound
 -- name    : WilliamsonShmoys.maximal_planar_drawing_face_equations_for_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T04:39:28.029614+00:00
 -- url     : https://prove2.me/theorems/da16a11a-5471-486c-94e9-448aef08e550

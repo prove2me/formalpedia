@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_edge_lower_bound_e7f6fb70
 -- name    : WilliamsonShmoys.maximal_planar_graph_edge_lower_bound_e7f6fb70
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T19:20:06.591608+00:00
 -- url     : https://prove2.me/theorems/16bee10b-cb1e-4a28-acc8-1002ebd1e7a5

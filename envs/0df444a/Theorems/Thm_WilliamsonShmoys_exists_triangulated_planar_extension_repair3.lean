@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulated_planar_extension_repair3
 -- name    : WilliamsonShmoys.exists_triangulated_planar_extension_repair3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:50:30.772728+00:00
 -- url     : https://prove2.me/theorems/3109df4d-98fd-4102-824c-39bdc30faaca

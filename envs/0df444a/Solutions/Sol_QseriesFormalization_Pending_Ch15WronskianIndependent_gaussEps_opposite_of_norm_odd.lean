@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch15WronskianIndependent.gaussEps_opposite_of_norm_odd
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:53:02.874917+00:00
 -- url     : https://prove2.me/submissions/6c7f1da3-a48d-4d40-8d64-f40c37de7aa1
 

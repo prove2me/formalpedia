@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.coeff_eq_zero_of_fe_step3
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:46:48.587172+00:00
 -- url     : https://prove2.me/submissions/1f4cb7a0-3988-4d80-a039-d1b139364610
 

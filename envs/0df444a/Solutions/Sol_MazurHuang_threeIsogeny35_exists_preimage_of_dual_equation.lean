@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.threeIsogeny35_exists_preimage_of_dual_equation
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:12:39.264265+00:00
 -- url     : https://prove2.me/submissions/01cacd73-514c-41ca-9a51-31c4d5cd6b48
 

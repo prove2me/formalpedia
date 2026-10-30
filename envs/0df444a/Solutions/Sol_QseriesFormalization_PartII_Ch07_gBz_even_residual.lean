@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartII.Ch07.gBz_even_residual
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:01:24.636993+00:00
 -- url     : https://prove2.me/submissions/d467a44f-42a8-4f67-93e8-2e76206c9425
 

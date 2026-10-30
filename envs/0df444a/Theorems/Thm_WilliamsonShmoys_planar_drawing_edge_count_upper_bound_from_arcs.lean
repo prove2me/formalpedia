@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_count_upper_bound_from_arcs
 -- name    : WilliamsonShmoys.planar_drawing_edge_count_upper_bound_from_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T18:20:27.197274+00:00
 -- url     : https://prove2.me/theorems/452673b6-6a6d-4d9e-81d5-9b9cfadfe83c

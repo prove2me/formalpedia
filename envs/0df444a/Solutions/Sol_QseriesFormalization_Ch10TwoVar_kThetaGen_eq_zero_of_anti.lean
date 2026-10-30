@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.kThetaGen_eq_zero_of_anti
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:37:44.382174+00:00
 -- url     : https://prove2.me/submissions/435a4e2c-e383-42b9-a418-f46d4f29466b
 

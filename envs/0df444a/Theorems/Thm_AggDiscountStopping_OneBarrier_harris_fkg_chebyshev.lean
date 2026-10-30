@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AggDiscountStopping_OneBarrier_harris_fkg_chebyshev
 -- name    : AggDiscountStopping.OneBarrier.harris_fkg_chebyshev
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:56:02.596987+00:00
 -- url     : https://prove2.me/theorems/789cdefe-54f9-4cd4-ac48-cffb8abeae53

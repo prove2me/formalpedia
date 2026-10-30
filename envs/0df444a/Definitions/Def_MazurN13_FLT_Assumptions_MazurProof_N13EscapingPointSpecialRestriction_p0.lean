@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13EscapingPointSpecialRestriction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13EscapingPointSpecialRestriction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:47:11.829376+00:00
 -- url     : https://prove2.me/theorems/4186ab51-4f87-417b-8136-c434d2cd03a6
 -- title:

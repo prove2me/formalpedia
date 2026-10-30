@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_completion_dense
 -- name    : WilliamsonShmoys.planar_completion_dense
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T11:33:15.989288+00:00
 -- url     : https://prove2.me/theorems/3d6368d9-eaec-49d2-8b49-ded7ae1200cf

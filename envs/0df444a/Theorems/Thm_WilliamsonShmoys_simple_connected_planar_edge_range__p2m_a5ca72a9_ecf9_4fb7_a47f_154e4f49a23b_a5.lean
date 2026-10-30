@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_simple_connected_planar_edge_range__p2m_a5ca72a9_ecf9_4fb7_a47f_154e4f49a23b_a5
 -- name    : WilliamsonShmoys.simple_connected_planar_edge_range__p2m_a5ca72a9_ecf9_4fb7_a47f_154e4f49a23b_a5
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T01:58:14.781064+00:00
 -- url     : https://prove2.me/theorems/7da2409a-cbf1-4fa5-b632-5ead272fc49b

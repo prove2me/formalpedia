@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch15WronskianIndependent_normShellHSumByNorm_five_filter_decomp
 -- name    : QseriesFormalization.Pending.Ch15WronskianIndependent.normShellHSumByNorm_five_filter_decomp
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:16:10.494786+00:00
 -- url     : https://prove2.me/theorems/d48bb68c-0bdf-437f-b690-85a845e1a44d
 -- title:

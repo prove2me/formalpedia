@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CollatzFrontier.primitive_word_nondivisibility_of_window_capacity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T18:09:45.299986+00:00
 -- url     : https://prove2.me/submissions/c8a3d923-49ec-422d-a435-8c1077ba22b4
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13SexticIrreducible_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13SexticIrreducible_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:10:58.939872+00:00
 -- url     : https://prove2.me/theorems/7f1813e2-2ef4-4189-b89a-6ea31e68189f
 -- title:

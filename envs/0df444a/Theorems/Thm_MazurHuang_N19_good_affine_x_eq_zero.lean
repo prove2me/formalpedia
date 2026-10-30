@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MazurHuang_N19_good_affine_x_eq_zero
 -- name    : MazurHuang.N19.good_affine_x_eq_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T14:55:21.210029+00:00
 -- url     : https://prove2.me/theorems/ba88051c-bd6b-42a9-a99d-a04f898eef42
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_augmentation_below_edge_bound
 -- name    : WilliamsonShmoys.drawable_augmentation_below_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:44:44.01515+00:00
 -- url     : https://prove2.me/theorems/e2343c2d-0f43-4111-a032-a621f715da94

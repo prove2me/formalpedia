@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch19.multipliable_one_sub_X_pow_succ
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:09:27.616544+00:00
 -- url     : https://prove2.me/submissions/5a91efb8-0b2d-4f6a-8647-e5749bccce76
 

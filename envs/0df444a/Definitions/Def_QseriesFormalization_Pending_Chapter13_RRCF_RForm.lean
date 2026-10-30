@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Pending_Chapter13_RRCF_RForm
 -- name    : QseriesFormalization_Pending_Chapter13_RRCF_RForm
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:34:15.322749+00:00
 -- url     : https://prove2.me/theorems/2cc34418-4e95-462e-8206-0251f05d039c
 -- title:

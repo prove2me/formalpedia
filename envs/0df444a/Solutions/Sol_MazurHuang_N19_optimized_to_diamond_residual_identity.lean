@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.optimized_to_diamond_residual_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T19:03:27.59176+00:00
 -- url     : https://prove2.me/submissions/52f0e4c2-825e-4be1-8619-64655be3f4b8
 

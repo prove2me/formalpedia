@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch06_ch06PeriodicBernoulli
 -- name    : RamanujanNotebooks_ch06_ch06PeriodicBernoulli
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T22:12:40.73677+00:00
 -- url     : https://prove2.me/theorems/3e6717dd-1a51-46eb-ba67-ae52cea8dc38
 -- title:

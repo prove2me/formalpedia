@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Ch10HM_two_mul_jExp
 -- name    : QseriesFormalization.Pending.Ch10HM.two_mul_jExp
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:52:57.078255+00:00
 -- url     : https://prove2.me/theorems/7542ed38-6841-4808-b959-007086c7a9c2
 -- title:

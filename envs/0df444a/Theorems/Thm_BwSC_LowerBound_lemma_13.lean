@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BwSC_LowerBound_lemma_13
 -- name    : BwSC.LowerBound.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:35:22.477887+00:00
 -- url     : https://prove2.me/theorems/26ffd9cc-e820-4e9b-852f-5c0ef83eb900

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_partial_prod_pentagonalTripleFactor014PS_coeff_stable
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.partial_prod_pentagonalTripleFactor014PS_coeff_stable
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:35:03.174993+00:00
 -- url     : https://prove2.me/theorems/86903ba1-6f60-4716-9291-2b3cff6b76fd
 -- title:

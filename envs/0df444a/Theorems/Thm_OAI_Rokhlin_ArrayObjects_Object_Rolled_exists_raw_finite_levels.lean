@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_ArrayObjects_Object_Rolled_exists_raw_finite_levels
 -- name    : OAI.Rokhlin.ArrayObjects.Object.Rolled.exists_raw_finite_levels
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:46:41.587458+00:00
 -- url     : https://prove2.me/theorems/c4564807-f440-474b-9372-10533c8d2036

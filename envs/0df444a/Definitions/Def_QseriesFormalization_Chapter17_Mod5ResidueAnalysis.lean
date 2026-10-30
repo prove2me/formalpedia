@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter17_Mod5ResidueAnalysis
 -- name    : QseriesFormalization_Chapter17_Mod5ResidueAnalysis
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:28:34.82528+00:00
 -- url     : https://prove2.me/theorems/ba2949bf-faf4-4936-89fa-9ddf6a0fcfac
 -- title:

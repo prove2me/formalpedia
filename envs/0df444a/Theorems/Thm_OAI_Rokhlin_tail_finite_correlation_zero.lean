@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Rokhlin_tail_finite_correlation_zero
 -- name    : OAI.Rokhlin.tail_finite_correlation_zero
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-26T06:46:39.239744+00:00
 -- url     : https://prove2.me/theorems/138f6967-8399-4c65-bc36-d951d5036197

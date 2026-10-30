@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartIII_ch10_ch10Primes
 -- name    : RamanujanLostNotebook_PartIII_ch10_ch10Primes
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T12:25:45.13199+00:00
 -- url     : https://prove2.me/theorems/e3e07b53-6516-43d3-aa0c-6abaea1ea163
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecBilevel_SLDBO_eq_25_tracking
 -- name    : DecBilevel.SLDBO.eq_25_tracking
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:27.299991+00:00
 -- url     : https://prove2.me/theorems/0fa4e2a3-becc-43ca-b974-39eb7e70fbd0

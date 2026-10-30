@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat04_unbounded_two_sided_exit_expectation_scale_identity
 -- name    : AvramDividend.Classical.chat04_unbounded_two_sided_exit_expectation_scale_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-26T18:02:37.992079+00:00
 -- url     : https://prove2.me/theorems/2dcc8bcc-1425-43d3-8967-d403183852cf

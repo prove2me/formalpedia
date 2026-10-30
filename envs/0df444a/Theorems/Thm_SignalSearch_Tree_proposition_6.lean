@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SignalSearch_Tree_proposition_6
 -- name    : SignalSearch.Tree.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:37:44.170433+00:00
 -- url     : https://prove2.me/theorems/37f0567c-5eed-4178-8d88-9fbb9c02c960

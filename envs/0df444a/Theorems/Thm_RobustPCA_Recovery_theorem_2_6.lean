@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPCA_Recovery_theorem_2_6
 -- name    : RobustPCA.Recovery.theorem_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:42:53.671072+00:00
 -- url     : https://prove2.me/theorems/54b547bb-7163-433f-9f27-9a023c43c7ea

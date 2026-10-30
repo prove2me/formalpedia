@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.Ch16MBIProof.section5_four_qPochInfPS_pow_four_rat
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T20:16:08.299737+00:00
 -- url     : https://prove2.me/submissions/68d90f52-3da5-461d-bb29-07c515363261
 

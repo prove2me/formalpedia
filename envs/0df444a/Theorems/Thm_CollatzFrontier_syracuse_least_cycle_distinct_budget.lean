@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CollatzFrontier_syracuse_least_cycle_distinct_budget
 -- name    : CollatzFrontier.syracuse_least_cycle_distinct_budget
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-04T17:36:15.271727+00:00
 -- url     : https://prove2.me/theorems/2c44fd94-5536-4e7f-85aa-93c9f3758d2f
 -- title:

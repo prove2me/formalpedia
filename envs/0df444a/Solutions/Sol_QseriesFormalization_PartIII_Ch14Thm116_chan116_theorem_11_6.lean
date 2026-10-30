@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIII.Ch14Thm116.chan116_theorem_11_6
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T19:13:09.499143+00:00
 -- url     : https://prove2.me/submissions/6e56c338-5125-411e-9112-0e95ae927ab4
 

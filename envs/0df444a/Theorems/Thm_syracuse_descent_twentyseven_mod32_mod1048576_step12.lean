@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_syracuse_descent_twentyseven_mod32_mod1048576_step12
 -- name    : syracuse_descent_twentyseven_mod32_mod1048576_step12
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T11:16:27.944975+00:00
 -- url     : https://prove2.me/theorems/ed054f9e-c889-420c-812b-c6d8e2341b20
 -- title:

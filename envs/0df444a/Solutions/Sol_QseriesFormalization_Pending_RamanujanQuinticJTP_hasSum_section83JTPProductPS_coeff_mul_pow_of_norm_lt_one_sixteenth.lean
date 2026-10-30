@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.RamanujanQuinticJTP.hasSum_section83JTPProductPS_coeff_mul_pow_of_norm_lt_one_sixteenth
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:00:56.89571+00:00
 -- url     : https://prove2.me/submissions/dac92116-6d8a-44a9-aea0-5ef74d0d17dc
 

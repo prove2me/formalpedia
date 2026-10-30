@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_StringSumQ_zero
 -- name    : QseriesFormalization.Ch10TwoVar.StringSumQ_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:54:17.304209+00:00
 -- url     : https://prove2.me/theorems/9e9e7047-c081-4112-a7b6-b4998f75e4ee
 -- title:

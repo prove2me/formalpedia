@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_pentagonal023Exp_nonneg_int
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.pentagonal023Exp_nonneg_int
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:36:38.559383+00:00
 -- url     : https://prove2.me/theorems/fedaaec3-685e-4ad7-8152-858976025876
 -- title:

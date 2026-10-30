@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_KeystoneInterface
 -- name    : MazurN13_KeystoneInterface
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:44:42.252116+00:00
 -- url     : https://prove2.me/theorems/e0700f18-3914-47b8-b1b4-c5d0dcb95054
 -- title:

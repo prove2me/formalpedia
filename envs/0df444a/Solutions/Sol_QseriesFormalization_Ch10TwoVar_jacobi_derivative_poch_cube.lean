@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.jacobi_derivative_poch_cube
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:20:58.335966+00:00
 -- url     : https://prove2.me/submissions/c1d89d9d-ee7e-45c5-beea-3c1ff0f83361
 

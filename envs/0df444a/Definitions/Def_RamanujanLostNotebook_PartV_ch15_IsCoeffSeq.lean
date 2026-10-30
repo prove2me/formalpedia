@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartV_ch15_IsCoeffSeq
 -- name    : RamanujanLostNotebook_PartV_ch15_IsCoeffSeq
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T18:33:32.876221+00:00
 -- url     : https://prove2.me/theorems/5c662593-434a-4977-ad4f-d1f8a627df82
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableDispatch_Markov_irreducible
 -- name    : StableDispatch.Markov.irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:42:08.330856+00:00
 -- url     : https://prove2.me/theorems/3512a358-d4e9-455a-83f1-f3ff4db3bc73

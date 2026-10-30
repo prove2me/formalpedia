@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch19_coeff_qPochInfPS_eq_coeff_finite_product_of_lt
 -- name    : QseriesFormalization.PartIV.Ch19.coeff_qPochInfPS_eq_coeff_finite_product_of_lt
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:50:42.434297+00:00
 -- url     : https://prove2.me/theorems/bc474849-3951-4ea0-9002-4f0d06cf2ff8
 -- title:

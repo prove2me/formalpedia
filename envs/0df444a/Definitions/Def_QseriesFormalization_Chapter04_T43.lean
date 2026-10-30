@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter04_T43
 -- name    : QseriesFormalization_Chapter04_T43
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:22:36.863479+00:00
 -- url     : https://prove2.me/theorems/e3cd1f85-6e7b-479a-9aa4-f1fa16369b6a
 -- title:

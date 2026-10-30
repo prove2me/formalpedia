@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_norm_coeff_partial_section83JTPTripleFactorPS_complex_le
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.norm_coeff_partial_section83JTPTripleFactorPS_complex_le
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:43:40.586223+00:00
 -- url     : https://prove2.me/theorems/b58fcbee-2d3e-4ed7-bccb-2d39790cfc67
 -- title:

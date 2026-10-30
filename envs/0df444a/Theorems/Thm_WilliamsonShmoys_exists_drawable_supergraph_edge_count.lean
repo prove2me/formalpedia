@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_drawable_supergraph_edge_count
 -- name    : WilliamsonShmoys.exists_drawable_supergraph_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T11:26:07.912667+00:00
 -- url     : https://prove2.me/theorems/ceefaedf-5be0-45d9-8d5f-26f80fa1b1eb

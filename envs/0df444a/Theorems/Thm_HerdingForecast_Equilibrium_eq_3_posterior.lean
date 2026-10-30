@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HerdingForecast_Equilibrium_eq_3_posterior
 -- name    : HerdingForecast.Equilibrium.eq_3_posterior
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:09:00.275051+00:00
 -- url     : https://prove2.me/theorems/fa5bc931-01e3-48b5-8f0b-e1b9b42536d8

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_EvenSexticNormPair_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_EvenSexticNormPair_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:48:16.166128+00:00
 -- url     : https://prove2.me/theorems/d98f3548-d9d4-4565-bed8-d429db9eef51
 -- title:

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.connected_planar_drawing_euler_face_count
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T05:45:14.705263+00:00
 -- url     : https://prove2.me/submissions/67bc04e8-375a-4281-bf14-9edfd4808448
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_connected_planar_drawing_euler_formula_bf226c5d
 import Theorems.Thm_WilliamsonShmoys_planar_simple_edge_bound_bf226c5d

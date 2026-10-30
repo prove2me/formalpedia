@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QseriesFormalization_Chapter11
 -- name    : QseriesFormalization_Chapter11
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:23:24.190294+00:00
 -- url     : https://prove2.me/theorems/b1318234-4161-43bc-8616-a3797a7b08b6
 -- title:

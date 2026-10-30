@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_section83JTPProductPS_eq_rhs_pair14
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.section83JTPProductPS_eq_rhs_pair14
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:45:58.062874+00:00
 -- url     : https://prove2.me/theorems/e9460f35-485f-4c48-812b-b75a460af741
 -- title:

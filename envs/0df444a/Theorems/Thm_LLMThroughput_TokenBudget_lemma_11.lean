@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLMThroughput_TokenBudget_lemma_11
 -- name    : LLMThroughput.TokenBudget.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:35.00124+00:00
 -- url     : https://prove2.me/theorems/0d5ff29b-36c9-4a8a-8425-e5b46e44ac6c

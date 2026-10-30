@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityReduction_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13IntegralInfinityReduction_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:48:32.829227+00:00
 -- url     : https://prove2.me/theorems/0673a922-e1af-47bd-88a2-66fd05c3c0da
 -- title:

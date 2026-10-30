@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoVaRMC_Batching_lemma_4
 -- name    : CoVaRMC.Batching.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:54.316902+00:00
 -- url     : https://prove2.me/theorems/59932ca8-81f3-4b87-b5b1-5fe6e37154cd

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Pending.JTPFormalPSPentagonal.pentagonalProduct014PS_eq_pentagonal014SeriesPS_complex
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:59:56.986484+00:00
 -- url     : https://prove2.me/submissions/ddeae836-6129-4d15-b410-69fde0c9cf42
 

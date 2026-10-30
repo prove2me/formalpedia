@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_Hirschhorn11_coeff_qPochInfPS_pow_ten_at_11n_plus_6_eq_zero
 -- name    : QseriesFormalization.Pending.Hirschhorn11.coeff_qPochInfPS_pow_ten_at_11n_plus_6_eq_zero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T11:32:19.827987+00:00
 -- url     : https://prove2.me/theorems/4326482d-04c3-4b27-87b7-dc525ce3ca15
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_supergraph_has_three_n_minus_six_edges
 -- name    : WilliamsonShmoys.maximal_planar_supergraph_has_three_n_minus_six_edges
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-25T23:10:11.428509+00:00
 -- url     : https://prove2.me/theorems/b120a15b-ec4d-4aab-90f2-8639921f1255

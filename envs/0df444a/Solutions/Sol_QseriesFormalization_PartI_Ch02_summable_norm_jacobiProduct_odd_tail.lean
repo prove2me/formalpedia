@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch02.summable_norm_jacobiProduct_odd_tail
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:38:44.740345+00:00
 -- url     : https://prove2.me/submissions/8a0d5073-d10d-4c6b-816c-301dba442d25
 

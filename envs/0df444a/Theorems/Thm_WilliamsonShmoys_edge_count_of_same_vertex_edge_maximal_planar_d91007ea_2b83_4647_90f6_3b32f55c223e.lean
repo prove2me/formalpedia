@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_of_same_vertex_edge_maximal_planar_d91007ea_2b83_4647_90f6_3b32f55c223e
 -- name    : WilliamsonShmoys.edge_count_of_same_vertex_edge_maximal_planar_d91007ea_2b83_4647_90f6_3b32f55c223e
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T01:18:09.854012+00:00
 -- url     : https://prove2.me/theorems/3b82d126-e709-4415-8ca8-5f65de9bffaa

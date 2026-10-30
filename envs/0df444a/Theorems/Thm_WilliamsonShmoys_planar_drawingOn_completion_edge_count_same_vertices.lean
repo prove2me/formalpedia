@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawingOn_completion_edge_count_same_vertices
 -- name    : WilliamsonShmoys.planar_drawingOn_completion_edge_count_same_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T09:24:55.092202+00:00
 -- url     : https://prove2.me/theorems/febcb416-2238-45f5-9e25-7dd1dce07c3e

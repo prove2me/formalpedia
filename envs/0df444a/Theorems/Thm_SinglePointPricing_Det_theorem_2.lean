@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinglePointPricing_Det_theorem_2
 -- name    : SinglePointPricing.Det.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:26:04.467211+00:00
 -- url     : https://prove2.me/theorems/fa63cb38-68f9-4b56-ad4d-6d4214847698

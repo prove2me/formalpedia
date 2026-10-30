@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13RepeatedRootSpread_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13RepeatedRootSpread_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T21:02:24.944983+00:00
 -- url     : https://prove2.me/theorems/cd12447d-2080-4c17-93d4-3f7bba567862
 -- title:

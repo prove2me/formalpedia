@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnDoFrontier_TwoAction_thm6_inductive_step
 -- name    : LearnDoFrontier.TwoAction.thm6_inductive_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:34:40.547994+00:00
 -- url     : https://prove2.me/theorems/a1be47df-9057-4cfb-a29e-d5e2af9c3c08

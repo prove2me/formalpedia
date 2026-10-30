@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_extension_edge_lower_bound_51bf81b4_48bc_4660_b9e1_3005ea79cb82
 -- name    : WilliamsonShmoys.maximal_drawable_extension_edge_lower_bound_51bf81b4_48bc_4660_b9e1_3005ea79cb82
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T11:16:21.558559+00:00
 -- url     : https://prove2.me/theorems/97c34692-8381-40df-97e9-9134a912a845

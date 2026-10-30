@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_triangulation_supergraph_4a969e66
 -- name    : WilliamsonShmoys.exists_planar_triangulation_supergraph_4a969e66
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:12:40.554665+00:00
 -- url     : https://prove2.me/theorems/d090e857-babc-4b1f-b4be-f9067d451864

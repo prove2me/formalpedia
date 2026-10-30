@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.exists_tate_parameters_of_order_nineteen
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T15:09:51.721961+00:00
 -- url     : https://prove2.me/submissions/1cd551da-ae01-4a16-beb7-ecc5d72b11ab
 

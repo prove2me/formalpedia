@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.connected_planar_drawing_edge_count_bound_for_edge_count_bound_caf89453_fefb_49cf_ad04_ba4468da8e18
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T20:38:23.333273+00:00
 -- url     : https://prove2.me/submissions/9a499976-557f-45be-b2ba-e6d4eff7fef2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

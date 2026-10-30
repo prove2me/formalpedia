@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_edge_count_upper_20f2cea7
 -- name    : WilliamsonShmoys.maximal_drawing_edge_count_upper_20f2cea7
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T02:38:53.938602+00:00
 -- url     : https://prove2.me/theorems/3772f93c-87b6-4633-b1ce-7bbdd56fe0a4

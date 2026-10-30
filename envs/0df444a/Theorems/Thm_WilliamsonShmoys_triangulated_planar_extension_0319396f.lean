@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulated_planar_extension_0319396f
 -- name    : WilliamsonShmoys.triangulated_planar_extension_0319396f
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T01:22:35.629566+00:00
 -- url     : https://prove2.me/theorems/af43d5e6-fb62-4820-8428-39fec5a766fc

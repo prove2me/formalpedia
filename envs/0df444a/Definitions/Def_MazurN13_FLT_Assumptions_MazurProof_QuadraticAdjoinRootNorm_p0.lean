@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_QuadraticAdjoinRootNorm_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_QuadraticAdjoinRootNorm_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:21:40.383974+00:00
 -- url     : https://prove2.me/theorems/4fa9b383-1e08-4442-a6cc-79dec50796d0
 -- title:

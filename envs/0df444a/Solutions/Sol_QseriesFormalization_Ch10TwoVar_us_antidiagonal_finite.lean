@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.Ch10TwoVar.us_antidiagonal_finite
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T16:38:07.255227+00:00
 -- url     : https://prove2.me/submissions/94e1d096-9fb5-4b9b-ba5d-83775d248692
 

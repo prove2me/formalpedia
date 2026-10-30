@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohenPriceFairness_LocalWelfare_lemma_1
 -- name    : CohenPriceFairness.LocalWelfare.lemma_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:23:32.119054+00:00
 -- url     : https://prove2.me/theorems/d75f8310-43ae-4f0a-b628-e977701d907f

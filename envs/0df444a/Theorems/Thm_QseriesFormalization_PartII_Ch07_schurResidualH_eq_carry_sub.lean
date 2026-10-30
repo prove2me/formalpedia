@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_schurResidualH_eq_carry_sub
 -- name    : QseriesFormalization.PartII.Ch07.schurResidualH_eq_carry_sub
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:24:03.157584+00:00
 -- url     : https://prove2.me/theorems/e6df4e0a-38ea-44d3-99bb-45619919a84b
 -- title:

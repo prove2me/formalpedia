@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13OrdinaryCompletionCompatibility_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13OrdinaryCompletionCompatibility_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T22:48:36.901986+00:00
 -- url     : https://prove2.me/theorems/637f2909-fa83-4c26-8184-94832b4cee76
 -- title:

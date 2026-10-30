@@ -3348,26 +3348,13 @@
 {"parent": "CHMSPricing.OpmUniform.revenue_eq_virtual_surplus", "child": "CHMSPricing_OpmUniform_Mechanism", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmMatroid.blocked_loss_le_served_revenue", "child": "CHMSPricing_SpmMatroid_Spm", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmMatroid.revenue_eq_virtual_surplus", "child": "CHMSPricing_SpmMatroid_Mechanism", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmMatroid.revenue_le_sum_price_mul_servProb", "child": "CHMSPricing_SpmMatroid_Mechanism", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmMatroid.spmRevenue_eq_sum_offerProb", "child": "CHMSPricing_SpmMatroid_Spm", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmMatroid.sum_price_mul_prob_le_two_spmRevenue", "child": "CHMSPricing_SpmMatroid_Spm", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmMatroid.sum_servProb_le_rank", "child": "CHMSPricing_SpmMatroid_Mechanism", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmPartition.equalPrice_revenue_ge", "child": "CHMSPricing_SpmPartition_Spm", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.equalPrice_revenue_le", "child": "CHMSPricing_SpmPartition_Spm", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.revenue_le_sum_price_mul_servProb", "child": "CHMSPricing_SpmPartition_Mechanism", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.revenue_le_sum_price_mul_servProb", "child": "CHMSPricing_SpmPartition_SetSystem", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.revenue_le_sum_price_mul_servProb", "child": "CHMSPricing_SpmPartition_ValueDist", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmPartition.spmRevenue_one_uniform_eq", "child": "CHMSPricing_SpmPartition_SetSystem", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmPartition.spmRevenue_one_uniform_eq", "child": "CHMSPricing_SpmPartition_Spm", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmPartition.spmRevenue_one_uniform_eq", "child": "CHMSPricing_SpmPartition_ValueDist", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.spm_approx_one_uniform", "child": "CHMSPricing_SpmPartition_Mechanism", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.spm_approx_one_uniform", "child": "CHMSPricing_SpmPartition_SetSystem", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.spm_approx_one_uniform", "child": "CHMSPricing_SpmPartition_Spm", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.spm_approx_one_uniform", "child": "CHMSPricing_SpmPartition_ValueDist", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.spm_approx_uniform", "child": "CHMSPricing_SpmPartition_Mechanism", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.spm_approx_uniform", "child": "CHMSPricing_SpmPartition_SetSystem", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.spm_approx_uniform", "child": "CHMSPricing_SpmPartition_Spm", "via": ["solution", "statement"]}
-{"parent": "CHMSPricing.SpmPartition.spm_approx_uniform", "child": "CHMSPricing_SpmPartition_ValueDist", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmPartition.sum_servProb_le_rank", "child": "CHMSPricing_SpmPartition_Mechanism", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmPartition.sum_servProb_le_rank", "child": "CHMSPricing_SpmPartition_SetSystem", "via": ["solution", "statement"]}
 {"parent": "CHMSPricing.SpmPartition.sum_servProb_le_rank", "child": "CHMSPricing_SpmPartition_ValueDist", "via": ["solution", "statement"]}
@@ -49831,7 +49818,6 @@
 {"parent": "CarbonDoubleCount.Leader.rule12_incentive_compatible", "child": "CarbonDoubleCount_Leader_Setting", "via": ["statement"]}
 {"parent": "CarbonDoubleCount.Leader.rule12_participation", "child": "CarbonDoubleCount_Leader_Setting", "via": ["solution", "statement"]}
 {"parent": "CarbonDoubleCount.Planner.eq_18", "child": "CarbonDoubleCount_Planner_Setting", "via": ["statement"]}
-{"parent": "CarbonDoubleCount.Planner.lemma_7_necessary", "child": "CarbonDoubleCount_Planner_Setting", "via": ["statement"]}
 {"parent": "CarbonDoubleCount_Leader_Setting", "child": "CarbonDoubleCount_Planner_Setting", "via": ["statement"]}
 {"parent": "CarbonDoubleCount_Planner_Setting", "child": "CarbonDoubleCount_Planner_PureGame", "via": ["statement"]}
 {"parent": "CarlenKusuokaStroock.heatKernel_le_exp_davies", "child": "DurrettProbability_MarkovChain", "via": ["solution", "statement"]}
@@ -75160,8 +75146,6 @@
 {"parent": "ChoiceRM.MNL.mnl_purchaseProb_mono", "child": "ChoiceRM_MNL_FareOrder", "via": ["statement"]}
 {"parent": "ChoiceRM.MNL.mnl_purchaseProb_mono", "child": "ChoiceRM_MNL_Models", "via": ["solution", "statement"]}
 {"parent": "ChoiceRM.MNL.mnl_purchaseProb_mono", "child": "RevenueManagement_singleResource", "via": ["statement"]}
-{"parent": "ChoiceRM.MNL.theorem_2_sufficiency", "child": "ChoiceRM_MNL_FareOrder", "via": ["statement"]}
-{"parent": "ChoiceRM.MNL.theorem_2_sufficiency", "child": "RevenueManagement_singleResource", "via": ["statement"]}
 {"parent": "ChoiceRM.Policy.lemma_1", "child": "ChoiceRM_Policy_Dominance", "via": ["solution", "statement"]}
 {"parent": "ChoiceRM.Policy.lemma_1", "child": "RevenueManagement_singleResource", "via": ["solution", "statement"]}
 {"parent": "ChoiceRM.Policy.lemma_2", "child": "ChoiceRM_Policy_Dominance", "via": ["solution", "statement"]}
@@ -76036,7 +76020,6 @@
 {"parent": "CochainCx.Bounded.finrank_HTot_tensor_eq_sum_mul", "child": "DoubleComplex.subsingleton_HTot_of_colContraction", "via": ["solution"]}
 {"parent": "CochainCx.Bounded.finrank_HTot_tensor_eq_sum_mul", "child": "DoubleComplex.subsingleton_HTot_of_rowContraction", "via": ["solution"]}
 {"parent": "CochainCx.Bounded.finrank_HTot_tensor_eq_sum_mul", "child": "P2M_Util", "via": ["solution"]}
-{"parent": "CoffmanMitrani1980.Region.lemma1_priority_vector_mem", "child": "CoffmanMitrani1980_Region_Model", "via": ["solution", "statement"]}
 {"parent": "CoffmanMitrani1980.Region.lemma2_ineq_denominators", "child": "CoffmanMitrani1980_Region_Model", "via": ["solution", "statement"]}
 {"parent": "CoffmanMitrani1980.Region.lemma2_ineq_numerators", "child": "CoffmanMitrani1980_Region_Model", "via": ["solution", "statement"]}
 {"parent": "CoffmanMitrani1980.Region.lemma2_tight_sets_nested", "child": "CoffmanMitrani1980_Region_Model", "via": ["solution", "statement"]}
@@ -77662,7 +77645,6 @@
 {"parent": "CompOT.Sinkhorn.eq_4_21", "child": "CompOT_Sinkhorn_Defs", "via": ["solution", "statement"]}
 {"parent": "CompOT.Sinkhorn.remark_4_12_distance", "child": "CompOT_Sinkhorn_Defs", "via": ["solution", "statement"]}
 {"parent": "CompOT.Sinkhorn.theorem_4_1", "child": "CompOT_Sinkhorn_Defs", "via": ["statement"]}
-{"parent": "CompOT.Sinkhorn.theorem_4_2", "child": "CompOT_Sinkhorn_Defs", "via": ["solution", "statement"]}
 {"parent": "CompOT.Sinkhorn.thm_4_2_proof_eq_4_23_display", "child": "CompOT_Sinkhorn_Defs", "via": ["statement"]}
 {"parent": "CompOT.Sinkhorn.thm_4_2_proof_invariance", "child": "CompOT_Sinkhorn_Defs", "via": ["solution", "statement"]}
 {"parent": "CompOT.Sinkhorn.thm_4_2_proof_one_step", "child": "CompOT_Sinkhorn_Defs", "via": ["statement"]}
@@ -80408,7 +80390,6 @@
 {"parent": "CubicNewton.GradDom.theorem7", "child": "CubicNewton_GradDom_omegaTilde", "via": ["solution", "statement"]}
 {"parent": "CubicNewton.GradDom.theorem7", "child": "CubicNewton_Shared_IsCubicNewtonRun", "via": ["solution", "statement"]}
 {"parent": "CubicNewton.LocalQuad.cubicStep_first_order", "child": "CubicNewton_Shared_IsCubicStep", "via": ["solution", "statement"]}
-{"parent": "CubicNewton.LocalQuad.grad_norm_at_step", "child": "CubicNewton_Shared_IsCubicStep", "via": ["solution", "statement"]}
 {"parent": "CubicNewton.LocalQuad.step_norm_le", "child": "CubicNewton_Shared_IsCubicStep", "via": ["solution", "statement"]}
 {"parent": "CubicNewton.LocalQuad.step_norm_le", "child": "CubicNewton_Shared_lamMin", "via": ["solution", "statement"]}
 {"parent": "CubicNewton.LocalQuad.theorem3_delta_quadratic", "child": "CubicNewton_LocalQuad_IsRelaxedRun", "via": ["solution", "statement"]}
@@ -98923,10 +98904,10 @@
 {"parent": "EthierKurtz.martingale_problem_sde_representation", "child": "EthierKurtz_IsStandardBrownian", "via": ["statement"]}
 {"parent": "EthierKurtz.martingale_problem_sde_representation", "child": "EthierKurtz_IsWeakSDESolution", "via": ["statement"]}
 {"parent": "EthierKurtz.martingale_problem_sde_representation", "child": "EthierKurtz_SolvesSDEMartingaleProblem", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_base_from_halfspace_model", "child": "EthierKurtz_BoundaryCOnceHolder", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_base_from_halfspace_model", "child": "EthierKurtz_BoundaryCTwiceHolder", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_base_from_halfspace_model", "child": "EthierKurtz_IsOutwardUnitNormal", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_base_from_halfspace_model", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["statement"]}
+{"parent": "EthierKurtz.oblique_base_from_halfspace_model", "child": "EthierKurtz_BoundaryCOnceHolder", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_base_from_halfspace_model", "child": "EthierKurtz_BoundaryCTwiceHolder", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_base_from_halfspace_model", "child": "EthierKurtz_IsOutwardUnitNormal", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_base_from_halfspace_model", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["solution", "statement"]}
 {"parent": "EthierKurtz.oblique_closure_singlevalued", "child": "EthierKurtz_BoundaryCOnceHolder", "via": ["solution", "statement"]}
 {"parent": "EthierKurtz.oblique_closure_singlevalued", "child": "EthierKurtz_BoundaryCTwiceHolder", "via": ["solution", "statement"]}
 {"parent": "EthierKurtz.oblique_closure_singlevalued", "child": "EthierKurtz_IsOutwardUnitNormal", "via": ["solution", "statement"]}

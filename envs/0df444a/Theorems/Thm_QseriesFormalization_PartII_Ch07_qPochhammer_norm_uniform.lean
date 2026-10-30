@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartII_Ch07_qPochhammer_norm_uniform
 -- name    : QseriesFormalization.PartII.Ch07.qPochhammer_norm_uniform
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:21:57.61299+00:00
 -- url     : https://prove2.me/theorems/97f167f4-3bca-4300-84fa-519abc641246
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartIV.Ch17.ramanujan_5_dvd_p_5n_plus_4_from_b2
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T18:43:24.337064+00:00
 -- url     : https://prove2.me/submissions/8100a707-eaf1-4ea2-9376-45e17de0eba7
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanLostNotebook_PartI_ch03_ch03Convergent
 -- name    : RamanujanLostNotebook_PartI_ch03_ch03Convergent
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-11T10:11:28.609763+00:00
 -- url     : https://prove2.me/theorems/2cdb9430-729d-484a-ae4e-9974cea9c7b8
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_JTPFormalPSPentagonal_analytic_pentagonal014_eq_mod5_product
 -- name    : QseriesFormalization.Pending.JTPFormalPSPentagonal.analytic_pentagonal014_eq_mod5_product
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:31:18.247796+00:00
 -- url     : https://prove2.me/theorems/5632e35d-0ab6-4d93-9f45-0bff6521cc1a
 -- title:

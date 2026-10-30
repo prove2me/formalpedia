@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_drawing_euler_bound_retry3
 -- name    : WilliamsonShmoys.connected_drawing_euler_bound_retry3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T19:52:51.421655+00:00
 -- url     : https://prove2.me/theorems/ab85cb2b-40de-4744-89cc-cdecc53b9a48

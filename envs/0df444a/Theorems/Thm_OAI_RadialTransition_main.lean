@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RadialTransition_main
 -- name    : OAI.RadialTransition.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:14.320969+00:00
 -- url     : https://prove2.me/theorems/f16feaff-b4bb-45ed-86f2-9488fa5e8b9d

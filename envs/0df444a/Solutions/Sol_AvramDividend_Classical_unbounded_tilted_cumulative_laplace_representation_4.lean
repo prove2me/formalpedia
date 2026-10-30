@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.unbounded_tilted_cumulative_laplace_representation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T18:42:29.95541+00:00
 -- url     : https://prove2.me/submissions/141b0369-0cfb-4474-9637-d33b8e255491
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Complex.Exponential
 import Mathlib.MeasureTheory.Measure.Stieltjes

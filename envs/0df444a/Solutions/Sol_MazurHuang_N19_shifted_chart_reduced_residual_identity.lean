@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MazurHuang.N19.shifted_chart_reduced_residual_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T18:51:17.130728+00:00
 -- url     : https://prove2.me/submissions/e0ef5161-76ea-4e7b-b7d4-592ee6a1f1a0
 

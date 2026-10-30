@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_commutingMinimum
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.commutingMinimum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:24:34.142983+00:00
 -- url     : https://prove2.me/theorems/057cc59f-1c9b-4ce5-b6a1-247193ec9b86

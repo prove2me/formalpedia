@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonopolyDemandUncertainty_SBSMP_a57_sbsmp_profit
 -- name    : MonopolyDemandUncertainty.SBSMP.a57_sbsmp_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:11:35.821864+00:00
 -- url     : https://prove2.me/theorems/8f6a0e70-e2dd-4a0a-9b05-a2b88bd652fe

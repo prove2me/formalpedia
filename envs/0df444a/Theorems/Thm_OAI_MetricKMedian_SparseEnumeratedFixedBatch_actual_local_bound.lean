@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_SparseEnumeratedFixedBatch_actual_local_bound
 -- name    : OAI.MetricKMedian.SparseEnumeratedFixedBatch.actual_local_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:32:27.074763+00:00
 -- url     : https://prove2.me/theorems/3542d6aa-b55c-4077-9a63-75787d931f07

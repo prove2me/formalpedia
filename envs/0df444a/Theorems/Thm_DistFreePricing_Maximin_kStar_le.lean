@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistFreePricing_Maximin_kStar_le
 -- name    : DistFreePricing.Maximin.kStar_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:34.104688+00:00
 -- url     : https://prove2.me/theorems/902a2532-413d-411e-b902-139902b08c51

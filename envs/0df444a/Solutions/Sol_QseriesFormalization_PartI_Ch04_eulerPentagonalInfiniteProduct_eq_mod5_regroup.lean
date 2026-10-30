@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for QseriesFormalization.PartI.Ch04.eulerPentagonalInfiniteProduct_eq_mod5_regroup
 -- status  : ACCEPTED   (prove)
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T17:32:42.183059+00:00
 -- url     : https://prove2.me/submissions/6645efb8-b0e3-4d99-b9c3-55dc211f4136
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceSharing_Threshold_theorem_1_first_bullet
 -- name    : MarketplaceSharing.Threshold.theorem_1_first_bullet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:32:24.507927+00:00
 -- url     : https://prove2.me/theorems/cb7101e9-234f-4427-a9a2-d0a00bf7078e

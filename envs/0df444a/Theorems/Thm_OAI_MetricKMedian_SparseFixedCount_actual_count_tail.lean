@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedian_SparseFixedCount_actual_count_tail
 -- name    : OAI.MetricKMedian.SparseFixedCount.actual_count_tail
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-27T08:37:18.09369+00:00
 -- url     : https://prove2.me/theorems/8e5e1059-1fba-4ae3-9406-bd793a37aa43

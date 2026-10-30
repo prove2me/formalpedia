@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Ch10TwoVar_chan_eq_10_15_CTxy
 -- name    : QseriesFormalization.Ch10TwoVar.chan_eq_10_15_CTxy
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T08:56:12.090756+00:00
 -- url     : https://prove2.me/theorems/b4983a2c-3dc6-469e-beae-161d93af11cf
 -- title:

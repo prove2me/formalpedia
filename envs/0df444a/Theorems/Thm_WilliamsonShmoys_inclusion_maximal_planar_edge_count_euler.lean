@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_inclusion_maximal_planar_edge_count_euler
 -- name    : WilliamsonShmoys.inclusion_maximal_planar_edge_count_euler
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T01:35:00.320043+00:00
 -- url     : https://prove2.me/theorems/93ae3626-8014-431a-aaf8-0103db13199a

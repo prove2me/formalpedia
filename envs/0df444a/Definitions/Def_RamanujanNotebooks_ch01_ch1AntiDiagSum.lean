@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanNotebooks_ch01_ch1AntiDiagSum
 -- name    : RamanujanNotebooks_ch01_ch1AntiDiagSum
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-06T21:11:24.212555+00:00
 -- url     : https://prove2.me/theorems/f4154586-d21c-423c-9bfd-5e89dcfa08ff
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartIV_Ch17_triangular_when_jacobi_nonzero
 -- name    : QseriesFormalization.PartIV.Ch17.triangular_when_jacobi_nonzero
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T09:46:52.794037+00:00
 -- url     : https://prove2.me/theorems/068719f7-5ec9-4312-b62e-bfe3ba56db08
 -- title:

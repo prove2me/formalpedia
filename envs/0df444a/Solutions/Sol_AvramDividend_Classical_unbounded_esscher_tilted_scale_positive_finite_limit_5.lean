@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for AvramDividend.Classical.unbounded_esscher_tilted_scale_positive_finite_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T18:42:17.744208+00:00
 -- url     : https://prove2.me/submissions/b67a6f22-abe8-4d3b-bb02-205456637b1d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Complex.Exponential
 import Mathlib.Topology.Order.MonotoneConvergence

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_drawing_euler_face_count_from_arcs_v4
 -- name    : WilliamsonShmoys.connected_drawing_euler_face_count_from_arcs_v4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T09:19:41.170066+00:00
 -- url     : https://prove2.me/theorems/a0486b27-9837-4c65-93a2-b449728fd1e2

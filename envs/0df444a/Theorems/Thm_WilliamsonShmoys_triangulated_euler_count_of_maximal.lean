@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulated_euler_count_of_maximal
 -- name    : WilliamsonShmoys.triangulated_euler_count_of_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T05:09:22.217752+00:00
 -- url     : https://prove2.me/theorems/def6ae5e-bde9-4d7e-98ba-cdd8403c7813

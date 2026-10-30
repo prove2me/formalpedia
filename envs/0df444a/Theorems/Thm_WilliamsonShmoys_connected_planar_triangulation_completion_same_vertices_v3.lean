@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_triangulation_completion_same_vertices_v3
 -- name    : WilliamsonShmoys.connected_planar_triangulation_completion_same_vertices_v3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T09:14:24.706839+00:00
 -- url     : https://prove2.me/theorems/e5e61a9e-aae6-41b6-82c4-d73ea4490ad9

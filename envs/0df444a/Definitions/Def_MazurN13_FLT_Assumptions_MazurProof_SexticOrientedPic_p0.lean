@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_SexticOrientedPic_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_SexticOrientedPic_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-07T21:58:48.697621+00:00
 -- url     : https://prove2.me/theorems/9dee0e68-51eb-4511-bfa8-08107f8a6881
 -- title:

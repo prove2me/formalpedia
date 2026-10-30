@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13QuadraticPicardRealization_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13QuadraticPicardRealization_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T22:28:18.748843+00:00
 -- url     : https://prove2.me/theorems/4200b398-f9d3-4ae4-afde-536bd013886d
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_graph_edge_count_v2
 -- name    : WilliamsonShmoys.connected_planar_graph_edge_count_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T03:49:57.932263+00:00
 -- url     : https://prove2.me/theorems/257dd07d-728e-4f51-9000-a9b580e580a0

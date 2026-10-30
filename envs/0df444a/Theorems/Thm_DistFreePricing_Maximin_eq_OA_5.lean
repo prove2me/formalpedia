@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistFreePricing_Maximin_eq_OA_5
 -- name    : DistFreePricing.Maximin.eq_OA_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:55:31.063178+00:00
 -- url     : https://prove2.me/theorems/845e1c85-6676-404f-b1c8-7c2c8c0b303a

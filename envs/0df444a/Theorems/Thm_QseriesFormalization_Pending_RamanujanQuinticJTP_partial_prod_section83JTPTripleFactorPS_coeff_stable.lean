@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_Pending_RamanujanQuinticJTP_partial_prod_section83JTPTripleFactorPS_coeff_stable
 -- name    : QseriesFormalization.Pending.RamanujanQuinticJTP.partial_prod_section83JTPTripleFactorPS_coeff_stable
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T14:44:11.610434+00:00
 -- url     : https://prove2.me/theorems/87928bd8-068f-4485-b108-02da366be30e
 -- title:

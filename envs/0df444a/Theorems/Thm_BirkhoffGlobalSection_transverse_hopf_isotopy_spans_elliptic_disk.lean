@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirkhoffGlobalSection_transverse_hopf_isotopy_spans_elliptic_disk
 -- name    : BirkhoffGlobalSection.transverse_hopf_isotopy_spans_elliptic_disk
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-28T03:19:28.95396+00:00
 -- url     : https://prove2.me/theorems/6637c6a0-af2e-4d2d-a2da-53e4f4adc4e4

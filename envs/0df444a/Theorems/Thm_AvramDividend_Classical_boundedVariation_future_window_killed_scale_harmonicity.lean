@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_boundedVariation_future_window_killed_scale_harmonicity
 -- name    : AvramDividend.Classical.boundedVariation_future_window_killed_scale_harmonicity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-26T12:41:33.834355+00:00
 -- url     : https://prove2.me/theorems/c2e577be-5884-4f57-a335-7bf54c94da92

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MazurN13_FLT_Assumptions_MazurProof_N13RankTwoSemiGraphRecovery_p0
 -- name    : MazurN13_FLT_Assumptions_MazurProof_N13RankTwoSemiGraphRecovery_p0
 -- status  : Definition
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-08T00:05:27.012611+00:00
 -- url     : https://prove2.me/theorems/2e0e9d0b-c4ed-4a55-99fc-a484d4129c68
 -- title:

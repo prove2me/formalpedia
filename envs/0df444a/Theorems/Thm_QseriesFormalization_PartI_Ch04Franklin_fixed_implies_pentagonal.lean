@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QseriesFormalization_PartI_Ch04Franklin_fixed_implies_pentagonal
 -- name    : QseriesFormalization.PartI.Ch04Franklin.fixed_implies_pentagonal
 -- status  : Proved
--- author  : @Xiang Huang
+-- author  : @FormallyCorrect
 -- created : 2026-10-23T10:25:07.049511+00:00
 -- url     : https://prove2.me/theorems/9669b729-0660-426c-8625-1ada3f2a8c1c
 -- title:
