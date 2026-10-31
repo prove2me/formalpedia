@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_semiprime_gauss_height_log_saving
 -- name    : OAI.CubicFirstMoment.semiprime_gauss_height_log_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:45:28.274982+00:00
 -- url     : https://prove2.me/theorems/9b63a2c1-cf7c-42c7-93d9-123b6bc533fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P50_idealComb_rephasing
 -- name    : QAlgorithms.Papers.Independent.Extend50.P50.idealComb_rephasing
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T21:27:38.181399+00:00
 -- url     : https://prove2.me/theorems/cf699225-d93e-4222-bb16-2d9d41073448

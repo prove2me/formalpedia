@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleAuctionEff_Repeated_lemma_9
 -- name    : DoubleAuctionEff.Repeated.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:22:00.684031+00:00
 -- url     : https://prove2.me/theorems/f7419bfe-6b2e-42f9-84da-fcd6fd584d78

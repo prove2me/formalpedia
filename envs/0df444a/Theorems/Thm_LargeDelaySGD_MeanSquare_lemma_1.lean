@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeDelaySGD_MeanSquare_lemma_1
 -- name    : LargeDelaySGD.MeanSquare.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:55.104531+00:00
 -- url     : https://prove2.me/theorems/15e4f962-fb49-488f-8987-00ab99ac870c

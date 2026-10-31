@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_EigPert_weyl_eigenvalue_perturbation
 -- name    : WainwrightHDS.EigPert.weyl_eigenvalue_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:27:11.868494+00:00
 -- url     : https://prove2.me/theorems/3a96f3b0-7364-496a-bdce-dd885359ce12

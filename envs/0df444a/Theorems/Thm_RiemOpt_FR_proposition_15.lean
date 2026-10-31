@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiemOpt_FR_proposition_15
 -- name    : RiemOpt.FR.proposition_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:17.963066+00:00
 -- url     : https://prove2.me/theorems/8ca49aa5-7dc6-4583-982e-25379d60123a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_FactorAssignmentCallback_neutral_callback_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.FactorAssignmentCallback.neutral_callback_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:04:52.715338+00:00
 -- url     : https://prove2.me/theorems/9380d3e2-afa2-4887-a3bc-68c6dcf5546f

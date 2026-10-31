@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_DisjointReuse_DFSLoop_execute
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.DisjointReuse.DFSLoop.execute
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:43:33.215299+00:00
 -- url     : https://prove2.me/theorems/11563456-b0a6-41db-99ca-e7b16d993ef6

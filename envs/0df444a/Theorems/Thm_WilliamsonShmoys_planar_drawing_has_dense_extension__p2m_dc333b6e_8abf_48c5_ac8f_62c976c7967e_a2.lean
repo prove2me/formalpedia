@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_dense_extension__p2m_dc333b6e_8abf_48c5_ac8f_62c976c7967e_a2
 -- name    : WilliamsonShmoys.planar_drawing_has_dense_extension__p2m_dc333b6e_8abf_48c5_ac8f_62c976c7967e_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:26:51.364793+00:00
 -- url     : https://prove2.me/theorems/6630bfc0-6fd3-4ee5-a018-4b73345ede9f

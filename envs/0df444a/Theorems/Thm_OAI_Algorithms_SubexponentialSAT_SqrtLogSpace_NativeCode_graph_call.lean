@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeCode_graph_call
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeCode.graph_call
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:18:27.368846+00:00
 -- url     : https://prove2.me/theorems/edf39519-08be-482e-ae83-7f66273b1524

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryTupleState_finish
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryTupleState.finish
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:39:44.707893+00:00
 -- url     : https://prove2.me/theorems/0f77da83-4fae-4ac0-8703-8ef4c5b16e56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_supergraph_of_finite__p2m_24784cbb_b8f6_4e91_b5ba_b51ad6a651ca_a1
 -- name    : WilliamsonShmoys.exists_maximal_supergraph_of_finite__p2m_24784cbb_b8f6_4e91_b5ba_b51ad6a651ca_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:48:28.726546+00:00
 -- url     : https://prove2.me/theorems/5018a7ca-685e-45bb-8182-32c4edb5ec6b

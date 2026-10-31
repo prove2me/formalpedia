@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HighQueryCount_branch_kept_of_stream
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighQueryCount.branch_kept_of_stream
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:25:31.524063+00:00
 -- url     : https://prove2.me/theorems/cf06e86b-4142-4c79-b594-3886a7fc3758

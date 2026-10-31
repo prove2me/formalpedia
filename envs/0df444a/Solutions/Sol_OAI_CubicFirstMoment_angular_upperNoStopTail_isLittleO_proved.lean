@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.CubicFirstMoment.angular_upperNoStopTail_isLittleO_proved
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:20:06.169973+00:00
 -- url     : https://prove2.me/submissions/8fe3ad02-f3bc-4a55-948b-a5287d566e0c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PattersonFirstMoment

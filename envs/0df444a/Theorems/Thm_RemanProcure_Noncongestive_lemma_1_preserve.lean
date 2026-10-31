@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RemanProcure_Noncongestive_lemma_1_preserve
 -- name    : RemanProcure.Noncongestive.lemma_1_preserve
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:12.471762+00:00
 -- url     : https://prove2.me/theorems/b678592b-33c6-41a7-8cfc-f31ba7c82a87

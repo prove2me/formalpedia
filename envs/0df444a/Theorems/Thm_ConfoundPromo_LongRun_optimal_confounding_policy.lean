@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfoundPromo_LongRun_optimal_confounding_policy
 -- name    : ConfoundPromo.LongRun.optimal_confounding_policy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:28:51.046987+00:00
 -- url     : https://prove2.me/theorems/feac1409-c64d-4bb6-a868-362bdd3bde47

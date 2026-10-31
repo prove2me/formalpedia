@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.CubicFirstMoment.ProfileControl.smallB_common_sum_height_power
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:54:40.356524+00:00
 -- url     : https://prove2.me/submissions/0ab01bab-d116-4f4a-93b0-56cedea05f96
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PattersonFirstMoment

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonFisherInventory_LowerBound_eq4_echelon_cost
 -- name    : CachonFisherInventory.LowerBound.eq4_echelon_cost
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T02:48:41.726038+00:00
 -- url     : https://prove2.me/theorems/eda9601b-0467-46a1-9895-942142e51263

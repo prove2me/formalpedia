@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashQueryParameterBounds_accepted_frontend_budget
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashQueryParameterBounds.accepted_frontend_budget
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:55:59.280793+00:00
 -- url     : https://prove2.me/theorems/1561b083-45b5-4372-b03a-59dc901c15f1

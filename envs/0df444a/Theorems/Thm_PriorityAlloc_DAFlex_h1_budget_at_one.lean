@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriorityAlloc_DAFlex_h1_budget_at_one
 -- name    : PriorityAlloc.DAFlex.h1_budget_at_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:39:15.034204+00:00
 -- url     : https://prove2.me/theorems/fed5d90b-35a2-4d68-9c9e-62c173e26220

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13GaussianDifferentSupport_normalizedKummerInteger_eq_unit_mul_sq
 -- name    : MazurProof.N13GaussianDifferentSupport.normalizedKummerInteger_eq_unit_mul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T07:40:00.473982+00:00
 -- url     : https://prove2.me/theorems/ac0c5099-688d-4e95-a64a-03d1313cbfaf

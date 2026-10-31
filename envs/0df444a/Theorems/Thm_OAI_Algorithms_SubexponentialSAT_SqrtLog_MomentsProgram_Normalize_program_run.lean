@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_MomentsProgram_Normalize_program_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.MomentsProgram.Normalize.program_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:04:40.167113+00:00
 -- url     : https://prove2.me/theorems/6bdfb6ae-a722-4258-9d25-4afe3f81f56d

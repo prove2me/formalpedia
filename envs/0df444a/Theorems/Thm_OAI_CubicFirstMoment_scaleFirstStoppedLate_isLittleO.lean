@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_scaleFirstStoppedLate_isLittleO
 -- name    : OAI.CubicFirstMoment.scaleFirstStoppedLate_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:44:14.881213+00:00
 -- url     : https://prove2.me/theorems/b4790055-c2cf-45ac-b092-f68676d15560

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_hereditary_maximal_extension__p2m_b4d9d994_9c3d_480d_8aaa_85ca7382f67c_a1
 -- name    : finite_hereditary_maximal_extension__p2m_b4d9d994_9c3d_480d_8aaa_85ca7382f67c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:29:18.234506+00:00
 -- url     : https://prove2.me/theorems/7dbfab65-b7f6-4028-843f-b7ca49e7307a

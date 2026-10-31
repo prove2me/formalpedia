@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairRentFPTAS_Approx_ineq_3
 -- name    : FairRentFPTAS.Approx.ineq_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:41.347984+00:00
 -- url     : https://prove2.me/theorems/89a1351e-a49a-4c35-8b4f-81805f3aad76

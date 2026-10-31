@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_IdempotentApplyProgram_Bounds_loopCost_le
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.IdempotentApplyProgram.Bounds.loopCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:53:19.888203+00:00
 -- url     : https://prove2.me/theorems/d5f5ceac-dd3e-4cbc-9e99-069142dc4f1c

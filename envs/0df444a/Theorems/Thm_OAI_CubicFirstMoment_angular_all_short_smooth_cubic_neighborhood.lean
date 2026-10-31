@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_all_short_smooth_cubic_neighborhood
 -- name    : OAI.CubicFirstMoment.angular_all_short_smooth_cubic_neighborhood
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:13:03.558878+00:00
 -- url     : https://prove2.me/theorems/a757813d-cc1f-4296-ad8c-b19f63002dbe

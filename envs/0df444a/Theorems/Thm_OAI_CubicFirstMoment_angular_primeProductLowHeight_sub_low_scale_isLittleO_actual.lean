@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_primeProductLowHeight_sub_low_scale_isLittleO_actual
 -- name    : OAI.CubicFirstMoment.angular_primeProductLowHeight_sub_low_scale_isLittleO_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:35:55.875696+00:00
 -- url     : https://prove2.me/theorems/55aaeb65-9447-4776-b4fe-880974abf409

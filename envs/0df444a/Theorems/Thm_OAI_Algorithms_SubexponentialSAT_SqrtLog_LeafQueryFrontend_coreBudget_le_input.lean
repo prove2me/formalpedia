@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafQueryFrontend_coreBudget_le_input
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafQueryFrontend.coreBudget_le_input
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:24:15.519991+00:00
 -- url     : https://prove2.me/theorems/9a2541e1-afcd-46da-8687-2eae8f8e70d4

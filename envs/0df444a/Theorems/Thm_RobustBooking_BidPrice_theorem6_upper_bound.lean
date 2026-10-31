@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_BidPrice_theorem6_upper_bound
 -- name    : RobustBooking.BidPrice.theorem6_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:07:42.805501+00:00
 -- url     : https://prove2.me/theorems/89a3d3c8-3556-4044-8e1d-47f28766f648

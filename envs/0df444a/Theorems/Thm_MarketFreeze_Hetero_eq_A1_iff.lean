@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketFreeze_Hetero_eq_A1_iff
 -- name    : MarketFreeze.Hetero.eq_A1_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:42.999979+00:00
 -- url     : https://prove2.me/theorems/efada9c8-cf71-4aef-8a57-ab36c558bd4a

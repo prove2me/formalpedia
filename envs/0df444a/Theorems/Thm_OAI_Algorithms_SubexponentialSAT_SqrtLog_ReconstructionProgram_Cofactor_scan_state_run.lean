@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_ReconstructionProgram_Cofactor_scan_state_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.ReconstructionProgram.Cofactor.scan_state_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:38:18.889925+00:00
 -- url     : https://prove2.me/theorems/faba0393-7f29-4928-a5bd-39ed8a1242ed

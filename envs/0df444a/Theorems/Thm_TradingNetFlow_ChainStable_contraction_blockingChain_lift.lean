@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingNetFlow_ChainStable_contraction_blockingChain_lift
 -- name    : TradingNetFlow.ChainStable.contraction_blockingChain_lift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:44.211728+00:00
 -- url     : https://prove2.me/theorems/679c3716-c34a-483e-afae-fee922c7a5f8

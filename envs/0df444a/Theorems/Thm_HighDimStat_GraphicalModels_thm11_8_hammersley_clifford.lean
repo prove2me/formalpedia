@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_GraphicalModels_thm11_8_hammersley_clifford
 -- name    : HighDimStat.GraphicalModels.thm11_8_hammersley_clifford
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:21:03.998424+00:00
 -- url     : https://prove2.me/theorems/ddb60b65-6911-49fc-bffd-b69662ffc30e

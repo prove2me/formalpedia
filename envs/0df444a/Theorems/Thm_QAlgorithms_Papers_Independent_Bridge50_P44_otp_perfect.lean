@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Bridge50_P44_otp_perfect
 -- name    : QAlgorithms.Papers.Independent.Bridge50.P44.otp_perfect
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T19:07:41.023642+00:00
 -- url     : https://prove2.me/theorems/30ef1a30-4286-4177-8487-45d538fd1943

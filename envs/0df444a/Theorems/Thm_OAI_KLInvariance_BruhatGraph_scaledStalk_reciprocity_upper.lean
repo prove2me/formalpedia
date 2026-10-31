@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KLInvariance_BruhatGraph_scaledStalk_reciprocity_upper
 -- name    : OAI.KLInvariance.BruhatGraph.scaledStalk_reciprocity_upper
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:56:01.985002+00:00
 -- url     : https://prove2.me/theorems/99f2ea71-b2ec-4800-ad58-af1cc4dda25e

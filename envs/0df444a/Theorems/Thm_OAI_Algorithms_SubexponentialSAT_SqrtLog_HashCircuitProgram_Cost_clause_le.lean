@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_HashCircuitProgram_Cost_clause_le
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.HashCircuitProgram.Cost.clause_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:50:30.39904+00:00
 -- url     : https://prove2.me/theorems/bbba29e4-f454-4853-88aa-cb5bb2405692

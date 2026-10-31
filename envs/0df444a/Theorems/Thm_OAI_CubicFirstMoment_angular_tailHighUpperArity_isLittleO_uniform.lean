@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_tailHighUpperArity_isLittleO_uniform
 -- name    : OAI.CubicFirstMoment.angular_tailHighUpperArity_isLittleO_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:21:47.134899+00:00
 -- url     : https://prove2.me/theorems/5f4a82ca-9e6c-4d17-becf-23d0f66b3b3b

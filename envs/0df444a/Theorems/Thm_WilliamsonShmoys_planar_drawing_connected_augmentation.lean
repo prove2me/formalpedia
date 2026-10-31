@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_augmentation
 -- name    : WilliamsonShmoys.planar_drawing_connected_augmentation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:07:53.561391+00:00
 -- url     : https://prove2.me/theorems/65bcb047-f556-40b4-af83-be9390a0ef12

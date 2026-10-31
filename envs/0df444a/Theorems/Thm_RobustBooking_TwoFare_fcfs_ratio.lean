@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_TwoFare_fcfs_ratio
 -- name    : RobustBooking.TwoFare.fcfs_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T23:03:14.873924+00:00
 -- url     : https://prove2.me/theorems/7d177b97-aed2-4b15-a142-7279e8ec5b6e

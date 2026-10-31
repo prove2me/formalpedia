@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_end_install_cost_eq_sum
 -- name    : RoslingAssembly.end_install_cost_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:45:01.760997+00:00
 -- url     : https://prove2.me/theorems/a9d33e92-bac5-4dff-8120-39d01262a3c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawable_has_lower_bound_supergraph__p2m_669e4dc4_1d9e_4965_8c14_0e14e949cb06_a1
 -- name    : WilliamsonShmoys.planar_drawable_has_lower_bound_supergraph__p2m_669e4dc4_1d9e_4965_8c14_0e14e949cb06_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:45:39.282618+00:00
 -- url     : https://prove2.me/theorems/3ee6bacb-2bd6-4aaa-b06f-7ea404afd915

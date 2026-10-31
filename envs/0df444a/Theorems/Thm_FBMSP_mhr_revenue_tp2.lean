@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_mhr_revenue_tp2
 -- name    : FBMSP.mhr_revenue_tp2
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T04:54:53.721153+00:00
 -- url     : https://prove2.me/theorems/fe2bcf95-66da-4eb4-acdb-7b32fcb98d02

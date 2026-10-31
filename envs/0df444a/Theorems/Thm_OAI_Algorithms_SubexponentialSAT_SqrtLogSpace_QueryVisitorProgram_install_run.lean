@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryVisitorProgram_install_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryVisitorProgram.install_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:38:58.810408+00:00
 -- url     : https://prove2.me/theorems/4e7555cd-9692-4f51-b83f-5fb214c8da8c

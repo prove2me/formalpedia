@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SignatureHeadLoader_localResult_nonoutput_length
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SignatureHeadLoader.localResult_nonoutput_length
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:41:59.526139+00:00
 -- url     : https://prove2.me/theorems/18ac24fc-0da1-441e-9fcd-efd9cefe951f

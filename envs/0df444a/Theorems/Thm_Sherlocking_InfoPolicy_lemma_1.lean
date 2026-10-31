@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherlocking_InfoPolicy_lemma_1
 -- name    : Sherlocking.InfoPolicy.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:21.090832+00:00
 -- url     : https://prove2.me/theorems/adc5cb83-3157-4169-8e8a-611fa8e2e9a8

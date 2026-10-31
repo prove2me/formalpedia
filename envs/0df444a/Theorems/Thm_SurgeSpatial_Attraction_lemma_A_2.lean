@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurgeSpatial_Attraction_lemma_A_2
 -- name    : SurgeSpatial.Attraction.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:24:42.889754+00:00
 -- url     : https://prove2.me/theorems/3394cbff-eb31-4a31-a2b0-947d8af2843e

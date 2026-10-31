@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Ostmann_eventual_original_tail_commonCenter
 -- name    : OAI.Ostmann.eventual_original_tail_commonCenter
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:58:10.141143+00:00
 -- url     : https://prove2.me/theorems/ff86eead-8981-4327-99d1-2248ae45b579

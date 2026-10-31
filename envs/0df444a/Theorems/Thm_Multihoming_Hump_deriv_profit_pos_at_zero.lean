@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Hump_deriv_profit_pos_at_zero
 -- name    : Multihoming.Hump.deriv_profit_pos_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:38.249207+00:00
 -- url     : https://prove2.me/theorems/be8d2b5e-212f-4cca-bf0a-0ac2218de8ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurTransfer_order13_no_noncuspidal_genus_two_point
 -- name    : MazurTransfer.order13_no_noncuspidal_genus_two_point
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-07T14:54:16.414979+00:00
 -- url     : https://prove2.me/theorems/b7e2dfec-582e-4e3e-8ed0-4c90b239a848

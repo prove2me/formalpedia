@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesGroupHard_VertexCover_eq_18
 -- name    : BayesGroupHard.VertexCover.eq_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:35.620121+00:00
 -- url     : https://prove2.me/theorems/1be7c483-9783-4402-a021-b9231fe6ae79

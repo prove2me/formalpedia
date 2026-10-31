@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_triangulated_supergraph_exact_edge_count__p2m_db7ffdc7_d913_4822_af5b_b88ad4555746_a1
 -- name    : WilliamsonShmoys.planar_graph_has_triangulated_supergraph_exact_edge_count__p2m_db7ffdc7_d913_4822_af5b_b88ad4555746_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:57:08.277985+00:00
 -- url     : https://prove2.me/theorems/7b41eed5-030c-4b58-a88f-053b0d647635

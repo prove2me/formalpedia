@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_edge_count_lower__p2m_9c5c2913_8662_47f3_b676_c48b7de0b279_a1
 -- name    : WilliamsonShmoys.maximal_drawing_edge_count_lower__p2m_9c5c2913_8662_47f3_b676_c48b7de0b279_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:43:30.2598+00:00
 -- url     : https://prove2.me/theorems/ce0752f6-2cc0-436b-9908-f6f14786777a

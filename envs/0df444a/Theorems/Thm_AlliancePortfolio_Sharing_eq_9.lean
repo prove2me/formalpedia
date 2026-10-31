@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlliancePortfolio_Sharing_eq_9
 -- name    : AlliancePortfolio.Sharing.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:48:50.700357+00:00
 -- url     : https://prove2.me/theorems/bf85f13f-3b0b-401c-8af4-81df4eff6dea

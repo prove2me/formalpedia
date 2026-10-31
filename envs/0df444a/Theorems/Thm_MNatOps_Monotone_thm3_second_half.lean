@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNatOps_Monotone_thm3_second_half
 -- name    : MNatOps.Monotone.thm3_second_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:25.124913+00:00
 -- url     : https://prove2.me/theorems/dcde9fe7-8535-42c5-9e27-bc493bfce57e

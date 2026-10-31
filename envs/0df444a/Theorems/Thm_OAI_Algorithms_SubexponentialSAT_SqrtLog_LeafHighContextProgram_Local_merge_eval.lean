@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafHighContextProgram_Local_merge_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafHighContextProgram.Local.merge_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:02:52.841513+00:00
 -- url     : https://prove2.me/theorems/0fc11130-92c7-4000-ad36-a557b93160da

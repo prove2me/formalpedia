@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FMLPricing_BranchBound_corollary_1
 -- name    : FMLPricing.BranchBound.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:35:54.652528+00:00
 -- url     : https://prove2.me/theorems/d2b9ef12-6f3b-4a15-9068-22378a716354

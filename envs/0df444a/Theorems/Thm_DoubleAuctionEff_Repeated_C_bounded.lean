@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleAuctionEff_Repeated_C_bounded
 -- name    : DoubleAuctionEff.Repeated.C_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:22:03.260881+00:00
 -- url     : https://prove2.me/theorems/f2db7502-6a39-47c6-8b95-0bce98bf99a4

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_face_decomposition__p2m_4efb3040_0ad8_4d1f_b560_f99843ee3860_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:41:39.235725+00:00
 -- url     : https://prove2.me/submissions/18c0f59f-bde1-4d38-85f4-9f04ddbd5571
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

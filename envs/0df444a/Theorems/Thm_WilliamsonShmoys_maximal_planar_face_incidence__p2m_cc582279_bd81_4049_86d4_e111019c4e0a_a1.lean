@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_face_incidence__p2m_cc582279_bd81_4049_86d4_e111019c4e0a_a1
 -- name    : WilliamsonShmoys.maximal_planar_face_incidence__p2m_cc582279_bd81_4049_86d4_e111019c4e0a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T12:41:55.172855+00:00
 -- url     : https://prove2.me/theorems/742d4241-824b-4005-9871-4632233b6a91

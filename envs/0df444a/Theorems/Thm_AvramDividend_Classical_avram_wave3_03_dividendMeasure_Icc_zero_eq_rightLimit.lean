@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_03_dividendMeasure_Icc_zero_eq_rightLimit
 -- name    : AvramDividend.Classical.avram_wave3_03_dividendMeasure_Icc_zero_eq_rightLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T00:27:43.403414+00:00
 -- url     : https://prove2.me/theorems/d6ace15b-26cc-4400-be9b-8c4d19980128

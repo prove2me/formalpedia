@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeCongestion_Poisson_theorem_2
 -- name    : LargeCongestion.Poisson.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:27:25.036645+00:00
 -- url     : https://prove2.me/theorems/7756a6de-842d-49fd-9631-f5a4b46c44cc

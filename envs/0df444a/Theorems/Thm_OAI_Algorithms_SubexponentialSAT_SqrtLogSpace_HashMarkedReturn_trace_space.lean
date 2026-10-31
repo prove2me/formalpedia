@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashMarkedReturn_trace_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashMarkedReturn.trace_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:13:28.962973+00:00
 -- url     : https://prove2.me/theorems/e64cc57e-5871-46eb-bcf5-c6a142310f1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafParametersProgram_Exports_prepared_unary
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafParametersProgram.Exports.prepared_unary
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:49:35.944731+00:00
 -- url     : https://prove2.me/theorems/b68be080-634b-4dc1-ad8f-1f995299d8e8

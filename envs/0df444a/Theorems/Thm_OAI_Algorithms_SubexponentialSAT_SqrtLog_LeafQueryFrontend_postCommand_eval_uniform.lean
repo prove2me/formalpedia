@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafQueryFrontend_postCommand_eval_uniform
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafQueryFrontend.postCommand_eval_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:54:31.628581+00:00
 -- url     : https://prove2.me/theorems/e5d91332-8d0c-46e4-a576-79c0af276e86

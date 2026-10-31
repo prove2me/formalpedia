@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeHashQuerySetup_accepted_with_shadow
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeHashQuerySetup.accepted_with_shadow
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:09:55.335102+00:00
 -- url     : https://prove2.me/theorems/92b396ab-7fc0-407a-90a7-ae2780c72d06

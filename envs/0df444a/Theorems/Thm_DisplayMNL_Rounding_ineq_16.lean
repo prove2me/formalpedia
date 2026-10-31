@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisplayMNL_Rounding_ineq_16
 -- name    : DisplayMNL.Rounding.ineq_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:30:57.74244+00:00
 -- url     : https://prove2.me/theorems/1743dc1d-0745-4ba7-8014-048b268dbe53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_EigPert_max_eigenvector_perturbation_bound
 -- name    : WainwrightHDS.EigPert.max_eigenvector_perturbation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:29:06.295409+00:00
 -- url     : https://prove2.me/theorems/5ab64e0d-60cc-4a14-9e18-f2a0ef7338f1

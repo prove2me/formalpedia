@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSPConvex_CMM_lifted_set_convex
 -- name    : BSPConvex.CMM.lifted_set_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:43.874986+00:00
 -- url     : https://prove2.me/theorems/7bb10acf-d9f5-47cc-af6a-60c35737a700

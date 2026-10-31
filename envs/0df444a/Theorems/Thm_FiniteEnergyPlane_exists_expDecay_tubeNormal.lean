@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_expDecay_tubeNormal
 -- name    : FiniteEnergyPlane.exists_expDecay_tubeNormal
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-29T21:31:56.911704+00:00
 -- url     : https://prove2.me/theorems/56946f6b-bb39-4bd6-bf8c-bf77b8533654

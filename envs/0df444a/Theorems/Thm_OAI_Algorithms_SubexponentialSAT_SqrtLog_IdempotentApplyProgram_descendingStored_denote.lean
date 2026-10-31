@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_IdempotentApplyProgram_descendingStored_denote
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.IdempotentApplyProgram.descendingStored_denote
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:56:49.625444+00:00
 -- url     : https://prove2.me/theorems/b8cfb170-9302-4d0c-a20d-2b8654b2ae95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryVisitorHead_shifted_source_typed
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryVisitorHead.shifted_source_typed
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:59:44.343535+00:00
 -- url     : https://prove2.me/theorems/dd1711a0-e854-4282-88a1-4b5969953f16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarSimpleGraphEdgeCount_upperBound__p2m_a7addf37_64f9_4244_8efd_795054181733_a2
 -- name    : WilliamsonShmoys.planarSimpleGraphEdgeCount_upperBound__p2m_a7addf37_64f9_4244_8efd_795054181733_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:55:12.981102+00:00
 -- url     : https://prove2.me/theorems/07bf48fb-9eeb-4a56-867a-2639c9be995e

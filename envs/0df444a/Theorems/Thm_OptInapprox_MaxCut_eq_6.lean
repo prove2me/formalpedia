@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_MaxCut_eq_6
 -- name    : OptInapprox.MaxCut.eq_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:27.252014+00:00
 -- url     : https://prove2.me/theorems/355f5436-e010-4669-bc40-35e41ed07306

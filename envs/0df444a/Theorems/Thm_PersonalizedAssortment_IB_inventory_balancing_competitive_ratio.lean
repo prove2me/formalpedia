@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_inventory_balancing_competitive_ratio
 -- name    : PersonalizedAssortment.IB.inventory_balancing_competitive_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:57:54.472125+00:00
 -- url     : https://prove2.me/theorems/7e292883-7381-42ea-bfcc-ba97bf5eca0d

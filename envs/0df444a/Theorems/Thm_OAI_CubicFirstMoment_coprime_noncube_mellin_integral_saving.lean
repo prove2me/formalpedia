@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_coprime_noncube_mellin_integral_saving
 -- name    : OAI.CubicFirstMoment.coprime_noncube_mellin_integral_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:23:38.598173+00:00
 -- url     : https://prove2.me/theorems/4c242fb3-c956-42b9-8571-df2315f26142

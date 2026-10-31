@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.CubicFirstMoment.full_smooth_twisted_primitive_cubic_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:33:09.455046+00:00
 -- url     : https://prove2.me/submissions/6816d9cf-a444-4862-9b74-6cc8343886a1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PattersonFirstMoment

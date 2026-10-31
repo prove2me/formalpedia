@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadLoaderBudgets_leafWork_le
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadLoaderBudgets.leafWork_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:13:22.085264+00:00
 -- url     : https://prove2.me/theorems/0f040e54-6755-456f-9b2d-8aa87abe48ef

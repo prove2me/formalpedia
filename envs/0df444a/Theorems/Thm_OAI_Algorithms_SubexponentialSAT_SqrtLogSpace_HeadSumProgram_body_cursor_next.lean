@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadSumProgram_body_cursor_next
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadSumProgram.body_cursor_next
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:36:10.783166+00:00
 -- url     : https://prove2.me/theorems/94d58086-8ca1-45d1-863d-eb14f4480c47

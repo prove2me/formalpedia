@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafQueryFrontend_scopeCall_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafQueryFrontend.scopeCall_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:34:30.465195+00:00
 -- url     : https://prove2.me/theorems/b2f9b7c1-4346-4b50-9b52-6de3d4fbe63a

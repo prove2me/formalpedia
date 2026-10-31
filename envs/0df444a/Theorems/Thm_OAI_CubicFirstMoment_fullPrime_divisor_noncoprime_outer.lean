@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_fullPrime_divisor_noncoprime_outer
 -- name    : OAI.CubicFirstMoment.fullPrime_divisor_noncoprime_outer
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:25:38.115992+00:00
 -- url     : https://prove2.me/theorems/5c9d6ff3-52b7-48a4-8e51-6bd164af3aed

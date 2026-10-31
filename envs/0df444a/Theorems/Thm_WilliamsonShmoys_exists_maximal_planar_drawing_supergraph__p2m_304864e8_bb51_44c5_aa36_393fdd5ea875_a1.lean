@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_planar_drawing_supergraph__p2m_304864e8_bb51_44c5_aa36_393fdd5ea875_a1
 -- name    : WilliamsonShmoys.exists_maximal_planar_drawing_supergraph__p2m_304864e8_bb51_44c5_aa36_393fdd5ea875_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:49:26.245991+00:00
 -- url     : https://prove2.me/theorems/62b43b1c-617a-4c66-9ae5-73016cbc3161

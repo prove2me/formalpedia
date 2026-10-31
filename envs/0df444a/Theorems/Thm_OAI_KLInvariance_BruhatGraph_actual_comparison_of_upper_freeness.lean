@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KLInvariance_BruhatGraph_actual_comparison_of_upper_freeness
 -- name    : OAI.KLInvariance.BruhatGraph.actual_comparison_of_upper_freeness
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:53:38.733991+00:00
 -- url     : https://prove2.me/theorems/c534ef1b-ccad-4fe5-8047-8245ed31dd46

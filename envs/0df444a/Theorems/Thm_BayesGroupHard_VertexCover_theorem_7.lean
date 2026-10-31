@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesGroupHard_VertexCover_theorem_7
 -- name    : BayesGroupHard.VertexCover.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:40.302679+00:00
 -- url     : https://prove2.me/theorems/4994ab5b-5343-4745-9766-14f4cc6a2e9e

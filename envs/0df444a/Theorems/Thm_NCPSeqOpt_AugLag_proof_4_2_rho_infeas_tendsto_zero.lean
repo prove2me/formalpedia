@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCPSeqOpt_AugLag_proof_4_2_rho_infeas_tendsto_zero
 -- name    : NCPSeqOpt.AugLag.proof_4_2_rho_infeas_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:25.933974+00:00
 -- url     : https://prove2.me/theorems/4ec6638e-5d52-4e51-847f-475304da2d43

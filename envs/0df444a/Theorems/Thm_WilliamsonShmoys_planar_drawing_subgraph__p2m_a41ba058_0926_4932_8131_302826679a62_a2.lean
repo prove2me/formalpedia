@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_subgraph__p2m_a41ba058_0926_4932_8131_302826679a62_a2
 -- name    : WilliamsonShmoys.planar_drawing_subgraph__p2m_a41ba058_0926_4932_8131_302826679a62_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:57:17.973666+00:00
 -- url     : https://prove2.me/theorems/b938225d-5398-4163-8cf9-4c859a32fb13

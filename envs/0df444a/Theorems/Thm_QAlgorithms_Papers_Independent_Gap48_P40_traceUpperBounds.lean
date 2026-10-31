@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_traceUpperBounds
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.traceUpperBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:30:50.244583+00:00
 -- url     : https://prove2.me/theorems/16bce710-cf01-4ce1-93ce-f6166a3184b5

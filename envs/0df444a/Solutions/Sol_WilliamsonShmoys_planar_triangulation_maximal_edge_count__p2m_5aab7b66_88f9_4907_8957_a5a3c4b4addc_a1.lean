@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_triangulation_maximal_edge_count__p2m_5aab7b66_88f9_4907_8957_a5a3c4b4addc_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:32:54.255169+00:00
 -- url     : https://prove2.me/submissions/d94f44e3-c506-4654-9e45-b21b4afe4020
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

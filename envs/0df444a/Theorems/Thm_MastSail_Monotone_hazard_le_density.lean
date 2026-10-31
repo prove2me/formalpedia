@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MastSail_Monotone_hazard_le_density
 -- name    : MastSail.Monotone.hazard_le_density
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:34:26.134524+00:00
 -- url     : https://prove2.me/theorems/7fb636ba-8386-4074-a291-c33218eda2e3

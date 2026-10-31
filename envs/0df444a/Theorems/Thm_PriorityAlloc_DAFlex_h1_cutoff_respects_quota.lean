@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriorityAlloc_DAFlex_h1_cutoff_respects_quota
 -- name    : PriorityAlloc.DAFlex.h1_cutoff_respects_quota
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:39:09.616001+00:00
 -- url     : https://prove2.me/theorems/e0a20277-9595-4d1b-927a-9a404dc1ff17

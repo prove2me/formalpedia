@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_EffectiveBandwidth_many_sources
 -- name    : KellyStochasticNetworks.EffectiveBandwidth.many_sources
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:13.999028+00:00
 -- url     : https://prove2.me/theorems/a287101e-43cc-44ac-848c-c9fce6a392d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_bounded_poisson_dyadic
 -- name    : OAI.CubicFirstMoment.bounded_poisson_dyadic
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:23:12.422206+00:00
 -- url     : https://prove2.me/theorems/4d8d6ede-7859-4220-a1b8-c436403de555

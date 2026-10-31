@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeLeafSetup_canonicalParameterTime_polynomial
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeLeafSetup.canonicalParameterTime_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:00:18.430284+00:00
 -- url     : https://prove2.me/theorems/83fd37e6-8f8d-4e79-9590-df634027852a

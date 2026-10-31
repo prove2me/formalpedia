@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_large_tuple_triple_transition_smoothed
 -- name    : OAI.CubicFirstMoment.angular_large_tuple_triple_transition_smoothed
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:33:31.658955+00:00
 -- url     : https://prove2.me/theorems/b3affa6c-2a47-4e57-a85d-03d293edaae4

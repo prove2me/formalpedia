@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoTBandit_Main_lemma_IV_2
 -- name    : GoTBandit.Main.lemma_IV_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:40.468506+00:00
 -- url     : https://prove2.me/theorems/fcd45e80-daf6-4652-b242-0f6bf35b4216

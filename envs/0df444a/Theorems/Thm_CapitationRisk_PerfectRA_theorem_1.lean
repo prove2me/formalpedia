@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapitationRisk_PerfectRA_theorem_1
 -- name    : CapitationRisk.PerfectRA.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:22:50.909114+00:00
 -- url     : https://prove2.me/theorems/b0b2a2e6-9577-4716-9b83-53aad29d0978

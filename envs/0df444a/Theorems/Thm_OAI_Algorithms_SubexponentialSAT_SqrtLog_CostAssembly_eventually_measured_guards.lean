@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_CostAssembly_eventually_measured_guards
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.CostAssembly.eventually_measured_guards
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T23:37:58.566061+00:00
 -- url     : https://prove2.me/theorems/3e47834d-c7f1-4738-b9e4-9a166b09d93e

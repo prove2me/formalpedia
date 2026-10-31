@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLicensing_Innovation_khat2_decreasing
 -- name    : CrossLicensing.Innovation.khat2_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T13:01:31.094994+00:00
 -- url     : https://prove2.me/theorems/ac355e10-7d6a-4651-bab7-68cddaa493a3

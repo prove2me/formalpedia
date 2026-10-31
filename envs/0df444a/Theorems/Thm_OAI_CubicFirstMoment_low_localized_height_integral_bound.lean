@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_low_localized_height_integral_bound
 -- name    : OAI.CubicFirstMoment.low_localized_height_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:02:57.856565+00:00
 -- url     : https://prove2.me/theorems/8b968ea3-d8d1-472a-a463-db1fd12bd041

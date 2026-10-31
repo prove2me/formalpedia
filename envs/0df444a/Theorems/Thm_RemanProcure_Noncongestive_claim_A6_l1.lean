@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RemanProcure_Noncongestive_claim_A6_l1
 -- name    : RemanProcure.Noncongestive.claim_A6_l1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:20.549984+00:00
 -- url     : https://prove2.me/theorems/78c4c075-2017-400b-b1bc-1407461733c5

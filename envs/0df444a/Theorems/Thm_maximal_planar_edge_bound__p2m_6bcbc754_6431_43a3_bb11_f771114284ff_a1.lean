@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_maximal_planar_edge_bound__p2m_6bcbc754_6431_43a3_bb11_f771114284ff_a1
 -- name    : maximal_planar_edge_bound__p2m_6bcbc754_6431_43a3_bb11_f771114284ff_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:37:31.97017+00:00
 -- url     : https://prove2.me/theorems/9248cd60-7dc5-457e-b64c-c24bd6929c95

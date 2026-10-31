@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexLearning_Threshold_lemma_3
 -- name    : FlexLearning.Threshold.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:43.387679+00:00
 -- url     : https://prove2.me/theorems/affd06c6-2e44-408c-812f-da8b2ffc6b70

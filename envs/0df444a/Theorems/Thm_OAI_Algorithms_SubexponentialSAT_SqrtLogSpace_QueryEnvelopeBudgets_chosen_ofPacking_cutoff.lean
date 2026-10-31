@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryEnvelopeBudgets_chosen_ofPacking_cutoff
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryEnvelopeBudgets.chosen_ofPacking_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:16:52.738715+00:00
 -- url     : https://prove2.me/theorems/422004d5-c768-4b93-ac63-b15a66cc9ef6

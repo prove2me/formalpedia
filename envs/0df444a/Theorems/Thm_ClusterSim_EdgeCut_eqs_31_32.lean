@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClusterSim_EdgeCut_eqs_31_32
 -- name    : ClusterSim.EdgeCut.eqs_31_32
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:53:46.82629+00:00
 -- url     : https://prove2.me/theorems/5c25dddc-6bdd-4de7-b950-a9647e0794e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutProgram_IntegerEntry_command_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutProgram.IntegerEntry.command_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:04:51.693246+00:00
 -- url     : https://prove2.me/theorems/6f21eafd-6597-40a0-96dc-76445887474c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_FactorEvaluationSpace_result_good
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.FactorEvaluationSpace.result_good
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:33:30.529746+00:00
 -- url     : https://prove2.me/theorems/5fb90703-cbd4-4549-b7fd-23250d5fb9e3

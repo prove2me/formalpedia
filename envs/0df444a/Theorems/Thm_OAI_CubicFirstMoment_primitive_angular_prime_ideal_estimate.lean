@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_primitive_angular_prime_ideal_estimate
 -- name    : OAI.CubicFirstMoment.primitive_angular_prime_ideal_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:27:30.745266+00:00
 -- url     : https://prove2.me/theorems/abbefd9e-3fb0-40bd-984f-298b5cd884a9

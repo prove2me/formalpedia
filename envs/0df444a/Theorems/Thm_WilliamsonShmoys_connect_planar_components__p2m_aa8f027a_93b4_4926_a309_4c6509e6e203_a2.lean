@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connect_planar_components__p2m_aa8f027a_93b4_4926_a309_4c6509e6e203_a2
 -- name    : WilliamsonShmoys.connect_planar_components__p2m_aa8f027a_93b4_4926_a309_4c6509e6e203_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:01:45.457103+00:00
 -- url     : https://prove2.me/theorems/70db2af0-0d6e-4990-9f4e-a19bbb8e6b51

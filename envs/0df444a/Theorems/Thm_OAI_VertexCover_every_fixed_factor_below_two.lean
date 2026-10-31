@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_VertexCover_every_fixed_factor_below_two
 -- name    : OAI.VertexCover.every_fixed_factor_below_two
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:37.624988+00:00
 -- url     : https://prove2.me/theorems/c1b80034-eb45-4857-8181-ef507eea6c4a

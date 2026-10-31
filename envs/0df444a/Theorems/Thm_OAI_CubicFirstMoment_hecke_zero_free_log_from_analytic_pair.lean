@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_hecke_zero_free_log_from_analytic_pair
 -- name    : OAI.CubicFirstMoment.hecke_zero_free_log_from_analytic_pair
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:54:53.584889+00:00
 -- url     : https://prove2.me/theorems/2c6c30b5-e14f-4568-92de-0ce5738fa725

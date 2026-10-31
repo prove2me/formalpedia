@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VdNSim_Sparse_eqs_6_8
 -- name    : VdNSim.Sparse.eqs_6_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:32:22.81418+00:00
 -- url     : https://prove2.me/theorems/f80f2b5b-0493-4fc8-bb6b-83f043ca056b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_lower_bound__p2m_e54811a8_cc12_4b66_a567_2bf19301ebf6_a1
 -- name    : WilliamsonShmoys.planar_supergraph_lower_bound__p2m_e54811a8_cc12_4b66_a567_2bf19301ebf6_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:12:49.279874+00:00
 -- url     : https://prove2.me/theorems/219a8e3b-c7d8-43b3-9ee1-a4b3ebf8e3f2

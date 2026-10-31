@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSPConvex_CMM_trace_sqrt_T_concave
 -- name    : BSPConvex.CMM.trace_sqrt_T_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:48.143336+00:00
 -- url     : https://prove2.me/theorems/c4ebfb2c-2edd-498b-90bb-3d39e8f4da5e

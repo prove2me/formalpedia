@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_FactorAssignmentCorrect_prepared_product_eval_correct
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.FactorAssignmentCorrect.prepared_product_eval_correct
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:11:45.735644+00:00
 -- url     : https://prove2.me/theorems/fc702ec4-69fb-41cc-84d9-b5408185eefc

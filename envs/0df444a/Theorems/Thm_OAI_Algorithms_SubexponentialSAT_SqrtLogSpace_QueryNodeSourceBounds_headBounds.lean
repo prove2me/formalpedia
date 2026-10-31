@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryNodeSourceBounds_headBounds
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryNodeSourceBounds.headBounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:33:28.518991+00:00
 -- url     : https://prove2.me/theorems/33060979-4c86-43f5-96a0-28fb53304801

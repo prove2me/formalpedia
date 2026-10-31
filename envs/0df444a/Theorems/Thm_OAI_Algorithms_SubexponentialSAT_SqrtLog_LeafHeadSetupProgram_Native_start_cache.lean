@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafHeadSetupProgram_Native_start_cache
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafHeadSetupProgram.Native.start_cache
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:46:24.928628+00:00
 -- url     : https://prove2.me/theorems/51409b96-a09f-4451-8202-8ef84208861f

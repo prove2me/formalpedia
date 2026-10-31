@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.CubicFirstMoment.ProfileControl.low_common_sum_height_log_saving
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:54:06.420075+00:00
 -- url     : https://prove2.me/submissions/739a4f63-c8f6-4314-b403-fc9239636d31
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PattersonFirstMoment

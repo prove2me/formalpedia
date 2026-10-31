@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpilloverDuopoly_Switchers_eq_13_profit
 -- name    : SpilloverDuopoly.Switchers.eq_13_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:37:28.829073+00:00
 -- url     : https://prove2.me/theorems/7393f367-46b4-4cc4-85b9-ecdc4daf5f7a

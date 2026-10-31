@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LittleFinitistic_Main_exists_counterexample
 -- name    : OAI.LittleFinitistic.Main.exists_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:53.804629+00:00
 -- url     : https://prove2.me/theorems/b73d3ecf-8b52-4602-ae34-522487733d9b

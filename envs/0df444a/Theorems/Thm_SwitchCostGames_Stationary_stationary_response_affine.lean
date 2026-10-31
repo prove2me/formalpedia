@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SwitchCostGames_Stationary_stationary_response_affine
 -- name    : SwitchCostGames.Stationary.stationary_response_affine
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:14.005468+00:00
 -- url     : https://prove2.me/theorems/7c617fe3-d0d6-4cea-abfb-48e9f7e1f4cb

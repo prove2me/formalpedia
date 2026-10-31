@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_first_common_prime_exponents
 -- name    : OAI.CubicFirstMoment.first_common_prime_exponents
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:59:27.337958+00:00
 -- url     : https://prove2.me/theorems/52a5c32e-cf7a-4d63-8501-fc9b614846e0

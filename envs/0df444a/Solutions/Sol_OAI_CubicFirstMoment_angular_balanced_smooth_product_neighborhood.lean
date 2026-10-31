@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.CubicFirstMoment.angular_balanced_smooth_product_neighborhood
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:02:22.948712+00:00
 -- url     : https://prove2.me/submissions/134f6082-7406-4b01-aec9-6046a5013d8e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PattersonFirstMoment

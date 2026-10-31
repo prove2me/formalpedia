@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_edge_lower_bound_extension__p2m_7c57b747_c460_4faf_9469_5a2ac820d0a0_a1
 -- name    : WilliamsonShmoys.drawable_edge_lower_bound_extension__p2m_7c57b747_c460_4faf_9469_5a2ac820d0a0_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:16:00.73087+00:00
 -- url     : https://prove2.me/theorems/53305c1c-f1f1-46ad-95d2-bc47d8044b33

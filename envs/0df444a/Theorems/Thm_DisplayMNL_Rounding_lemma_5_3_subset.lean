@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisplayMNL_Rounding_lemma_5_3_subset
 -- name    : DisplayMNL.Rounding.lemma_5_3_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:30:59.139998+00:00
 -- url     : https://prove2.me/theorems/c7498515-c8e6-46c3-8427-11fcf85056ea

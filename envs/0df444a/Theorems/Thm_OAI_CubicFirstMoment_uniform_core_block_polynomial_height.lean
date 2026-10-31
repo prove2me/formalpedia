@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_uniform_core_block_polynomial_height
 -- name    : OAI.CubicFirstMoment.uniform_core_block_polynomial_height
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:30:01.898444+00:00
 -- url     : https://prove2.me/theorems/3c832136-ab60-44cc-8826-766600128cdd

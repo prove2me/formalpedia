@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafScopeInputBounds_query_bounds
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafScopeInputBounds.query_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:30:55.2312+00:00
 -- url     : https://prove2.me/theorems/4078e287-7bfd-4e16-b7a9-f4d9a28fb253

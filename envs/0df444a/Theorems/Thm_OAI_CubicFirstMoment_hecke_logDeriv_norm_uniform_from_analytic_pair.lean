@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_hecke_logDeriv_norm_uniform_from_analytic_pair
 -- name    : OAI.CubicFirstMoment.hecke_logDeriv_norm_uniform_from_analytic_pair
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:53:09.773734+00:00
 -- url     : https://prove2.me/theorems/9a022371-17fb-4bac-9db7-de1ef784cdb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalDRO_Lagrange_proof_thm2_lower
 -- name    : MarginalDRO.Lagrange.proof_thm2_lower
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:36.275984+00:00
 -- url     : https://prove2.me/theorems/c96748cb-76c3-427d-b39f-cedae2f3ff5f

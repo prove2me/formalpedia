@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_corollary1_segment_price_bounds
 -- name    : FBMSP.corollary1_segment_price_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T04:56:54.181434+00:00
 -- url     : https://prove2.me/theorems/b842629b-ad90-4dcf-a109-996d9447b76f

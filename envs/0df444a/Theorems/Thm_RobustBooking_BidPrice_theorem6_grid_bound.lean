@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_BidPrice_theorem6_grid_bound
 -- name    : RobustBooking.BidPrice.theorem6_grid_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:07:47.851979+00:00
 -- url     : https://prove2.me/theorems/bb7c2be6-1ffa-4ed0-995a-39d72b0749f4

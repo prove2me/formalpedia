@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_two_prime_transition_centered
 -- name    : OAI.CubicFirstMoment.angular_two_prime_transition_centered
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:22:50.546997+00:00
 -- url     : https://prove2.me/theorems/05501e7c-026c-452e-a8e7-20230e55fd16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_reebTube_coords
 -- name    : FiniteEnergyPlane.exists_reebTube_coords
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-29T21:31:57.687397+00:00
 -- url     : https://prove2.me/theorems/8f60b548-aba4-4165-a8aa-c902c057c5dc

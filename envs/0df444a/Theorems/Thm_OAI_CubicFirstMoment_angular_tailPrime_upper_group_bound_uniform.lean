@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_tailPrime_upper_group_bound_uniform
 -- name    : OAI.CubicFirstMoment.angular_tailPrime_upper_group_bound_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:38:26.046384+00:00
 -- url     : https://prove2.me/theorems/c6f8302b-fa18-4edf-82cd-25a26fd5becf

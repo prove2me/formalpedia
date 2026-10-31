@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_tailPrime_hecke_window
 -- name    : OAI.CubicFirstMoment.angular_tailPrime_hecke_window
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:36:09.048005+00:00
 -- url     : https://prove2.me/theorems/fbe521c7-f004-488a-8513-49d0e8df25ca

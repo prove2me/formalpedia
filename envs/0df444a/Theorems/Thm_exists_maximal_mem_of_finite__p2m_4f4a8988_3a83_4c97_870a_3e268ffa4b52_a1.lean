@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_maximal_mem_of_finite__p2m_4f4a8988_3a83_4c97_870a_3e268ffa4b52_a1
 -- name    : exists_maximal_mem_of_finite__p2m_4f4a8988_3a83_4c97_870a_3e268ffa4b52_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:45:46.761108+00:00
 -- url     : https://prove2.me/theorems/7c4bf9f3-59e8-4e7c-b88c-9e17cdfb6b94

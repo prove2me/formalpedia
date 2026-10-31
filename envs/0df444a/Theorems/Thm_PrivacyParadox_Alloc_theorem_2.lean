@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivacyParadox_Alloc_theorem_2
 -- name    : PrivacyParadox.Alloc.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:37:36.260976+00:00
 -- url     : https://prove2.me/theorems/51e2d324-2f05-4124-9269-6d558b241de0

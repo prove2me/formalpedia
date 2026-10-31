@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpreadBetting_Inertial_proposition_2
 -- name    : SpreadBetting.Inertial.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:32:23.182617+00:00
 -- url     : https://prove2.me/theorems/8b0bc7db-faed-415c-8f64-e8e16870e2d6

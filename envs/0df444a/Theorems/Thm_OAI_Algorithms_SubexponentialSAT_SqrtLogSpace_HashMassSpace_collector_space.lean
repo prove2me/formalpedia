@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashMassSpace_collector_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashMassSpace.collector_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:14:52.199995+00:00
 -- url     : https://prove2.me/theorems/a81cef57-a0f7-46c5-a70c-6e85b92fa32f

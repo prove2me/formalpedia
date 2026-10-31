@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_Hamming_lemma_4_3_avg
 -- name    : FuzzyExtractors.Hamming.lemma_4_3_avg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:19:52.069009+00:00
 -- url     : https://prove2.me/theorems/af1dc6df-b3d8-46e2-9760-2885421c7fe0

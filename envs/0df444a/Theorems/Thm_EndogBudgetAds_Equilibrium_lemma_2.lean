@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndogBudgetAds_Equilibrium_lemma_2
 -- name    : EndogBudgetAds.Equilibrium.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:34:35.126472+00:00
 -- url     : https://prove2.me/theorems/573963ac-9b10-4f44-a32f-870cd54973db

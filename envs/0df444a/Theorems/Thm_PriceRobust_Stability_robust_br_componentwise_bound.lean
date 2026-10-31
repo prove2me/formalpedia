@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceRobust_Stability_robust_br_componentwise_bound
 -- name    : PriceRobust.Stability.robust_br_componentwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:17:18.364674+00:00
 -- url     : https://prove2.me/theorems/f15b5057-d778-4fda-87e4-1b762ac4031a

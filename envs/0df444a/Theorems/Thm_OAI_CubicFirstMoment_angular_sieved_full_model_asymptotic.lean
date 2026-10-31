@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_sieved_full_model_asymptotic
 -- name    : OAI.CubicFirstMoment.angular_sieved_full_model_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:20:33.155141+00:00
 -- url     : https://prove2.me/theorems/7485210b-6e10-4d57-94b5-33bca8a12605

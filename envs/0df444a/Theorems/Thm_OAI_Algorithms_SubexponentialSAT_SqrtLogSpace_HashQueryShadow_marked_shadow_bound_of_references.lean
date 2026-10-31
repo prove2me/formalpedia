@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashQueryShadow_marked_shadow_bound_of_references
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashQueryShadow.marked_shadow_bound_of_references
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:16:04.360005+00:00
 -- url     : https://prove2.me/theorems/666c4b10-44c7-472e-9d27-7b321e25a70e

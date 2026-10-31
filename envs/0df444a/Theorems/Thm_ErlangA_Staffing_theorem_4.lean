@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlangA_Staffing_theorem_4
 -- name    : ErlangA.Staffing.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:10:38.528696+00:00
 -- url     : https://prove2.me/theorems/8403c755-9798-45f8-afd1-826c388c63e4

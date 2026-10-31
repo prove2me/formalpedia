@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFEUnique_Uniq_sd_of_mfe_rel
 -- name    : MFEUnique.Uniq.sd_of_mfe_rel
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:01.99416+00:00
 -- url     : https://prove2.me/theorems/d32c5969-aebe-41f7-92f5-06256e4909da

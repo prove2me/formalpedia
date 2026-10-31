@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexLearning_Threshold_piBarF_eq
 -- name    : FlexLearning.Threshold.piBarF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:58.711216+00:00
 -- url     : https://prove2.me/theorems/dc6ecbd5-6c06-4da4-b254-8e0c29ebf7f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeCongestion_Poisson_eq_46
 -- name    : LargeCongestion.Poisson.eq_46
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:41.363389+00:00
 -- url     : https://prove2.me/theorems/aa218c8b-85ae-423b-a540-cfa07367cd24

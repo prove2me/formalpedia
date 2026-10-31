@@ -2261,10 +2261,10 @@
 {"parent": "FoundationsML.Boosting.adaboost_margin_bound", "child": "FoundationsML_Boosting_AdaBoostEpsilon", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Boosting.adaboost_margin_bound", "child": "FoundationsML_Boosting_AdaBoostNormalizedEnsemble", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Boosting.adaboost_margin_bound", "child": "FoundationsML_Boosting_EmpiricalMarginLoss", "via": ["solution", "statement"]}
-{"parent": "FoundationsML.Boosting.ensemble_rademacher_margin_bound_v2", "child": "FoundationsML_Boosting_ConvHull", "via": ["statement"]}
-{"parent": "FoundationsML.Boosting.ensemble_rademacher_margin_bound_v2", "child": "FoundationsML_Boosting_EmpiricalMarginLoss", "via": ["statement"]}
-{"parent": "FoundationsML.Boosting.ensemble_rademacher_margin_bound_v2", "child": "FoundationsML_Boosting_MarginGeneralizationError", "via": ["statement"]}
-{"parent": "FoundationsML.Boosting.ensemble_rademacher_margin_bound_v2", "child": "FoundationsML_Boosting_RademacherComplexity_v2", "via": ["statement"]}
+{"parent": "FoundationsML.Boosting.ensemble_rademacher_margin_bound_v2", "child": "FoundationsML_Boosting_ConvHull", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Boosting.ensemble_rademacher_margin_bound_v2", "child": "FoundationsML_Boosting_EmpiricalMarginLoss", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Boosting.ensemble_rademacher_margin_bound_v2", "child": "FoundationsML_Boosting_MarginGeneralizationError", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Boosting.ensemble_rademacher_margin_bound_v2", "child": "FoundationsML_Boosting_RademacherComplexity_v2", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Boosting.rademacher_complexity_conv_hull", "child": "FoundationsML_Boosting_ConvHull", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Boosting.rademacher_complexity_conv_hull", "child": "FoundationsML_Boosting_EmpiricalRademacherComplexity", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.DimReduction.chi_squared_concentration", "child": "FoundationsML_DimReduction_IsChiSquaredMGF", "via": ["solution", "statement"]}
@@ -2322,19 +2322,19 @@
 {"parent": "FoundationsML.PAC.finite_hypothesis_learning_bound_inconsistent_v2", "child": "FoundationsML_PAC_GeneralizationError", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.PAC.single_hypothesis_generalization_bound_v2", "child": "FoundationsML_PAC_EmpiricalError", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.PAC.single_hypothesis_generalization_bound_v2", "child": "FoundationsML_PAC_GeneralizationError", "via": ["solution", "statement"]}
-{"parent": "FoundationsML.RademacherVC.rademacher_generalization_bound_v2", "child": "FoundationsML_RademacherVC_RademacherComplexity_v2", "via": ["statement"]}
+{"parent": "FoundationsML.RademacherVC.rademacher_generalization_bound_v2", "child": "FoundationsML_RademacherVC_RademacherComplexity_v2", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.RademacherVC.sauer_lemma", "child": "FoundationsML_RademacherVC_HasVCDim", "via": ["solution", "statement"]}
-{"parent": "FoundationsML.RademacherVC.vc_dimension_generalization_bound_v2", "child": "FoundationsML_RademacherVC_EmpiricalError", "via": ["statement"]}
-{"parent": "FoundationsML.RademacherVC.vc_dimension_generalization_bound_v2", "child": "FoundationsML_RademacherVC_GeneralizationError", "via": ["statement"]}
-{"parent": "FoundationsML.RademacherVC.vc_dimension_generalization_bound_v2", "child": "FoundationsML_RademacherVC_HasVCDim", "via": ["statement"]}
+{"parent": "FoundationsML.RademacherVC.vc_dimension_generalization_bound_v2", "child": "FoundationsML_RademacherVC_EmpiricalError", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.RademacherVC.vc_dimension_generalization_bound_v2", "child": "FoundationsML_RademacherVC_GeneralizationError", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.RademacherVC.vc_dimension_generalization_bound_v2", "child": "FoundationsML_RademacherVC_HasVCDim", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Ranking.kernel_margin_bound_ranking_v2", "child": "FoundationsML_Ranking_EmpiricalMarginLoss", "via": ["statement"]}
 {"parent": "FoundationsML.Ranking.kernel_margin_bound_ranking_v2", "child": "FoundationsML_Ranking_GeneralizationError", "via": ["statement"]}
 {"parent": "FoundationsML.Ranking.kernel_margin_bound_ranking_v2", "child": "FoundationsML_Ranking_IsPDS", "via": ["statement"]}
 {"parent": "FoundationsML.Ranking.kernel_margin_bound_ranking_v2", "child": "FoundationsML_Ranking_LinearKernelHypothesisClass", "via": ["statement"]}
-{"parent": "FoundationsML.Ranking.margin_bound_ranking_convex_hull_v2", "child": "FoundationsML_Ranking_ConvHull_v2", "via": ["statement"]}
-{"parent": "FoundationsML.Ranking.margin_bound_ranking_convex_hull_v2", "child": "FoundationsML_Ranking_EmpiricalMarginLoss", "via": ["statement"]}
-{"parent": "FoundationsML.Ranking.margin_bound_ranking_convex_hull_v2", "child": "FoundationsML_Ranking_GeneralizationError", "via": ["statement"]}
-{"parent": "FoundationsML.Ranking.margin_bound_ranking_convex_hull_v2", "child": "FoundationsML_Ranking_RademacherComplexity_v2", "via": ["statement"]}
+{"parent": "FoundationsML.Ranking.margin_bound_ranking_convex_hull_v2", "child": "FoundationsML_Ranking_ConvHull_v2", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Ranking.margin_bound_ranking_convex_hull_v2", "child": "FoundationsML_Ranking_EmpiricalMarginLoss", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Ranking.margin_bound_ranking_convex_hull_v2", "child": "FoundationsML_Ranking_GeneralizationError", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Ranking.margin_bound_ranking_convex_hull_v2", "child": "FoundationsML_Ranking_RademacherComplexity_v2", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Ranking.margin_bound_ranking_v2", "child": "FoundationsML_Ranking_EmpiricalMarginLoss", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Ranking.margin_bound_ranking_v2", "child": "FoundationsML_Ranking_GeneralizationError", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Ranking.margin_bound_ranking_v2", "child": "FoundationsML_Ranking_RademacherComplexity_v2", "via": ["solution", "statement"]}
@@ -2346,10 +2346,10 @@
 {"parent": "FoundationsML.Regression.finite_hypothesis_regression_bound_v2", "child": "FoundationsML_Regression_GeneralizationError", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Regression.lipschitz_loss_rademacher_bound_v2", "child": "FoundationsML_Regression_EmpiricalRademacherComplexity_v2", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Regression.lipschitz_loss_rademacher_bound_v2", "child": "FoundationsML_Regression_LossComposedFamily", "via": ["solution", "statement"]}
-{"parent": "FoundationsML.Regression.pseudo_dimension_regression_bound_v2", "child": "FoundationsML_Regression_EmpiricalError", "via": ["statement"]}
-{"parent": "FoundationsML.Regression.pseudo_dimension_regression_bound_v2", "child": "FoundationsML_Regression_GeneralizationError", "via": ["statement"]}
-{"parent": "FoundationsML.Regression.pseudo_dimension_regression_bound_v2", "child": "FoundationsML_Regression_LossComposedFamily", "via": ["statement"]}
-{"parent": "FoundationsML.Regression.pseudo_dimension_regression_bound_v2", "child": "FoundationsML_Regression_PseudoDim", "via": ["statement"]}
+{"parent": "FoundationsML.Regression.pseudo_dimension_regression_bound_v2", "child": "FoundationsML_Regression_EmpiricalError", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Regression.pseudo_dimension_regression_bound_v2", "child": "FoundationsML_Regression_GeneralizationError", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Regression.pseudo_dimension_regression_bound_v2", "child": "FoundationsML_Regression_LossComposedFamily", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Regression.pseudo_dimension_regression_bound_v2", "child": "FoundationsML_Regression_PseudoDim", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Regression.rademacher_regression_bound_v2", "child": "FoundationsML_Regression_EmpiricalError", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Regression.rademacher_regression_bound_v2", "child": "FoundationsML_Regression_GeneralizationError", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Regression.rademacher_regression_bound_v2", "child": "FoundationsML_Regression_RademacherComplexity_v2", "via": ["solution", "statement"]}
@@ -2383,11 +2383,11 @@
 {"parent": "FoundationsML.Stability.stability_generalization_bound_v2", "child": "FoundationsML_Stability_EmpiricalError", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Stability.stability_generalization_bound_v2", "child": "FoundationsML_Stability_GeneralizationError", "via": ["solution", "statement"]}
 {"parent": "FoundationsML.Stability.stability_generalization_bound_v2", "child": "FoundationsML_Stability_UniformlyStable", "via": ["solution", "statement"]}
-{"parent": "FoundationsML.Stability.svr_stability_bound", "child": "FoundationsML_Stability_EmpiricalError", "via": ["statement"]}
-{"parent": "FoundationsML.Stability.svr_stability_bound", "child": "FoundationsML_Stability_EpsilonInsensitiveLoss", "via": ["statement"]}
-{"parent": "FoundationsML.Stability.svr_stability_bound", "child": "FoundationsML_Stability_GeneralizationError", "via": ["statement"]}
-{"parent": "FoundationsML.Stability.svr_stability_bound", "child": "FoundationsML_Stability_IsMinimizer", "via": ["statement"]}
-{"parent": "FoundationsML.Stability.svr_stability_bound", "child": "FoundationsML_Stability_IsRKHSOf", "via": ["statement"]}
+{"parent": "FoundationsML.Stability.svr_stability_bound", "child": "FoundationsML_Stability_EmpiricalError", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Stability.svr_stability_bound", "child": "FoundationsML_Stability_EpsilonInsensitiveLoss", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Stability.svr_stability_bound", "child": "FoundationsML_Stability_GeneralizationError", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Stability.svr_stability_bound", "child": "FoundationsML_Stability_IsMinimizer", "via": ["solution", "statement"]}
+{"parent": "FoundationsML.Stability.svr_stability_bound", "child": "FoundationsML_Stability_IsRKHSOf", "via": ["solution", "statement"]}
 {"parent": "FoundationsML_Boosting_AdaBoostDist", "child": "FoundationsML_Boosting_AdaBoostAlpha", "via": ["statement"]}
 {"parent": "FoundationsML_Boosting_AdaBoostDist", "child": "FoundationsML_Boosting_AdaBoostNormalizer", "via": ["statement"]}
 {"parent": "FoundationsML_Boosting_AdaBoostDist", "child": "FoundationsML_Boosting_WeightedError", "via": ["statement"]}
@@ -17306,21 +17306,21 @@
 {"parent": "FuzzyExtractors.EditSketch.lemma_7_3_recovery", "child": "FuzzyExtractors_EditSketch_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.EditSketch.theorem_6_3", "child": "FuzzyExtractors_EditSketch_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.EditSketch.theorem_7_5", "child": "FuzzyExtractors_EditSketch_Basic", "via": ["solution", "statement"]}
-{"parent": "FuzzyExtractors.Hamming.lemma_2_1", "child": "FuzzyExtractors_Hamming_Basic", "via": ["statement"]}
-{"parent": "FuzzyExtractors.Hamming.lemma_2_2_b", "child": "FuzzyExtractors_Hamming_Basic", "via": ["statement"]}
-{"parent": "FuzzyExtractors.Hamming.lemma_2_4", "child": "FuzzyExtractors_Hamming_Basic", "via": ["statement"]}
+{"parent": "FuzzyExtractors.Hamming.lemma_2_1", "child": "FuzzyExtractors_Hamming_Basic", "via": ["solution", "statement"]}
+{"parent": "FuzzyExtractors.Hamming.lemma_2_2_b", "child": "FuzzyExtractors_Hamming_Basic", "via": ["solution", "statement"]}
+{"parent": "FuzzyExtractors.Hamming.lemma_2_4", "child": "FuzzyExtractors_Hamming_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.Hamming.lemma_3_1", "child": "FuzzyExtractors_Hamming_Basic", "via": ["solution", "statement"]}
-{"parent": "FuzzyExtractors.Hamming.lemma_4_1_avg", "child": "FuzzyExtractors_Hamming_Basic", "via": ["statement"]}
-{"parent": "FuzzyExtractors.Hamming.lemma_4_3_avg", "child": "FuzzyExtractors_Hamming_Basic", "via": ["statement"]}
-{"parent": "FuzzyExtractors.Hamming.lemma_4_5", "child": "FuzzyExtractors_Hamming_Basic", "via": ["statement"]}
+{"parent": "FuzzyExtractors.Hamming.lemma_4_1_avg", "child": "FuzzyExtractors_Hamming_Basic", "via": ["solution", "statement"]}
+{"parent": "FuzzyExtractors.Hamming.lemma_4_3_avg", "child": "FuzzyExtractors_Hamming_Basic", "via": ["solution", "statement"]}
+{"parent": "FuzzyExtractors.Hamming.lemma_4_5", "child": "FuzzyExtractors_Hamming_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.Hamming.syndrome_unique", "child": "FuzzyExtractors_Hamming_Basic", "via": ["statement"]}
-{"parent": "FuzzyExtractors.Hamming.theorem_5_1", "child": "FuzzyExtractors_Hamming_Basic", "via": ["statement"]}
+{"parent": "FuzzyExtractors.Hamming.theorem_5_1", "child": "FuzzyExtractors_Hamming_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.Hamming.theorem_5_1_linear", "child": "FuzzyExtractors_Hamming_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.Hamming.theorem_5_2", "child": "FuzzyExtractors_Hamming_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.ImprovedJS.construction_5_step_2", "child": "FuzzyExtractors_ImprovedJS_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.ImprovedJS.intersection_bound", "child": "FuzzyExtractors_ImprovedJS_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.ImprovedJS.pLow_unique", "child": "FuzzyExtractors_ImprovedJS_Basic", "via": ["statement"]}
-{"parent": "FuzzyExtractors.ImprovedJS.rec_correct", "child": "FuzzyExtractors_ImprovedJS_Basic", "via": ["statement"]}
+{"parent": "FuzzyExtractors.ImprovedJS.rec_correct", "child": "FuzzyExtractors_ImprovedJS_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.ImprovedJS.split_agree", "child": "FuzzyExtractors_ImprovedJS_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.ImprovedJS.theorem_6_1", "child": "FuzzyExtractors_ImprovedJS_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyExtractors.LowerBound.lemma_C_1", "child": "FuzzyExtractors_LowerBound_Basic", "via": ["solution", "statement"]}
@@ -30690,8 +30690,8 @@
 {"parent": "GeometryOfGraphs.Cube.isometric_subgraph_monotonicity", "child": "GeometryOfGraphs_Cube_IsometricDimension", "via": ["solution", "statement"]}
 {"parent": "GeometryOfGraphs.Cube.proposition_5_10", "child": "GeometryOfGraphs_Cube_Hypercube", "via": ["solution"]}
 {"parent": "GeometryOfGraphs.Cube.proposition_5_10", "child": "GeometryOfGraphs_Cube_IsometricDimension", "via": ["solution", "statement"]}
-{"parent": "GeometryOfGraphs.Cube.theorem_5_7", "child": "GeometryOfGraphs_Cube_Implements", "via": ["statement"]}
-{"parent": "GeometryOfGraphs.Cube.theorem_5_7", "child": "GeometryOfGraphs_Cube_IsometricDimension", "via": ["statement"]}
+{"parent": "GeometryOfGraphs.Cube.theorem_5_7", "child": "GeometryOfGraphs_Cube_Implements", "via": ["solution", "statement"]}
+{"parent": "GeometryOfGraphs.Cube.theorem_5_7", "child": "GeometryOfGraphs_Cube_IsometricDimension", "via": ["solution", "statement"]}
 {"parent": "GeometryOfGraphs.EuclidDist.corollary_3_5", "child": "GeometryOfGraphs_EuclidDist_EuclideanDistortion", "via": ["solution", "statement"]}
 {"parent": "GeometryOfGraphs.EuclidDist.duality_alternative", "child": "GeometryOfGraphs_EuclidDist_EuclideanDistortion", "via": ["solution", "statement"]}
 {"parent": "GeometryOfGraphs.EuclidDist.gram_reformulation", "child": "GeometryOfGraphs_EuclidDist_EuclideanDistortion", "via": ["solution", "statement"]}
@@ -41093,9 +41093,9 @@
 {"parent": "HighDimStat.Decomposability.prop9_13_basic_inequality", "child": "HighDimStat_Decomposability_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.Decomposability.thm9_19_general_bound", "child": "HighDimStat_Decomposability_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.Decomposability.thm9_24_dual_curvature_bound_v2", "child": "HighDimStat_Decomposability_Core", "via": ["solution", "statement"]}
-{"parent": "HighDimStat.GraphicalModels.thm11_12_graph_selection_consistency", "child": "HighDimStat_GraphicalModels_NeighborhoodLasso", "via": ["statement"]}
-{"parent": "HighDimStat.GraphicalModels.thm11_8_hammersley_clifford", "child": "HighDimStat_GraphicalModels_Core", "via": ["statement"]}
-{"parent": "HighDimStat.Localization.thm14_1_localized_uniform_law", "child": "HighDimStat_Localization_Core", "via": ["statement"]}
+{"parent": "HighDimStat.GraphicalModels.thm11_12_graph_selection_consistency", "child": "HighDimStat_GraphicalModels_NeighborhoodLasso", "via": ["solution", "statement"]}
+{"parent": "HighDimStat.GraphicalModels.thm11_8_hammersley_clifford", "child": "HighDimStat_GraphicalModels_Core", "via": ["solution", "statement"]}
+{"parent": "HighDimStat.Localization.thm14_1_localized_uniform_law", "child": "HighDimStat_Localization_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.MatrixRank.prop10_7_operator_norm_curvature_bound", "child": "HighDimStat_MatrixRank_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.MetricEntropy.one_step_discretization_bound", "child": "HighDimStat_MetricEntropy_CoveringNumber", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.MetricEntropy.one_step_discretization_bound", "child": "HighDimStat_MetricEntropy_Diameter", "via": ["solution", "statement"]}
@@ -41105,19 +41105,19 @@
 {"parent": "HighDimStat.Minimax.estimation_to_testing_v2", "child": "HighDimStat_Minimax_IsJointTestingMeasure", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.Minimax.estimation_to_testing_v2", "child": "HighDimStat_Minimax_IsSeparated", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.Minimax.estimation_to_testing_v2", "child": "HighDimStat_Minimax_MinimaxRisk", "via": ["solution", "statement"]}
-{"parent": "HighDimStat.NonparametricLS.thm13_13_oracle_inequality", "child": "HighDimStat_NonparametricLS_Core", "via": ["statement"]}
-{"parent": "HighDimStat.NonparametricLS.thm13_5_basic_case_rate", "child": "HighDimStat_NonparametricLS_Core", "via": ["statement"]}
+{"parent": "HighDimStat.NonparametricLS.thm13_13_oracle_inequality", "child": "HighDimStat_NonparametricLS_Core", "via": ["solution", "statement"]}
+{"parent": "HighDimStat.NonparametricLS.thm13_5_basic_case_rate", "child": "HighDimStat_NonparametricLS_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.NonparametricLS.thm13_6_critical_radius_exists_v2", "child": "HighDimStat_NonparametricLS_Core", "via": ["solution", "statement"]}
-{"parent": "HighDimStat.RandomMatrices.matrix_bernstein_bound_v2", "child": "HighDimStat_RandomMatrices_BernsteinConditionMatrix", "via": ["statement"]}
-{"parent": "HighDimStat.RandomMatrices.matrix_bernstein_bound_v2", "child": "HighDimStat_RandomMatrices_matrixVariance", "via": ["statement"]}
-{"parent": "HighDimStat.RandomMatrices.matrix_bernstein_bound_v2", "child": "HighDimStat_RandomMatrices_opNorm", "via": ["statement"]}
+{"parent": "HighDimStat.RandomMatrices.matrix_bernstein_bound_v2", "child": "HighDimStat_RandomMatrices_BernsteinConditionMatrix", "via": ["solution", "statement"]}
+{"parent": "HighDimStat.RandomMatrices.matrix_bernstein_bound_v2", "child": "HighDimStat_RandomMatrices_matrixVariance", "via": ["solution", "statement"]}
+{"parent": "HighDimStat.RandomMatrices.matrix_bernstein_bound_v2", "child": "HighDimStat_RandomMatrices_opNorm", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.RandomMatrices.thresholding_deterministic_bound", "child": "HighDimStat_RandomMatrices_adjacencyMatrix", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.RandomMatrices.thresholding_deterministic_bound", "child": "HighDimStat_RandomMatrices_maxNorm", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.RandomMatrices.thresholding_deterministic_bound", "child": "HighDimStat_RandomMatrices_opNorm", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.RandomMatrices.thresholding_deterministic_bound", "child": "HighDimStat_RandomMatrices_thresholdMatrix", "via": ["solution", "statement"]}
-{"parent": "HighDimStat.Rkhs.thm12_11_moore_aronszajn", "child": "HighDimStat_Rkhs_Core", "via": ["statement"]}
+{"parent": "HighDimStat.Rkhs.thm12_11_moore_aronszajn", "child": "HighDimStat_Rkhs_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.Rkhs.thm12_13_converse", "child": "HighDimStat_Rkhs_Core", "via": ["solution", "statement"]}
-{"parent": "HighDimStat.Rkhs.thm12_20_mercer_v2", "child": "HighDimStat_Rkhs_Core", "via": ["statement"]}
+{"parent": "HighDimStat.Rkhs.thm12_20_mercer_v2", "child": "HighDimStat_Rkhs_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.SparseLinear.lasso_l2_error_bound_v2", "child": "HighDimStat_SparseLinear_HasSupport", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.SparseLinear.lasso_l2_error_bound_v2", "child": "HighDimStat_SparseLinear_IsLagrangianLassoSolution", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.SparseLinear.lasso_l2_error_bound_v2", "child": "HighDimStat_SparseLinear_L1Norm", "via": ["solution", "statement"]}
@@ -41132,8 +41132,8 @@
 {"parent": "HighDimStat.TailBounds.lipschitz_gaussian_concentration", "child": "HighDimStat_TailBounds_IsSubGaussian", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.TailBounds.martingale_bernstein_bound_nonneg", "child": "HighDimStat_TailBounds_IsSubExponential", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.TailBounds.martingale_bernstein_bound_v2", "child": "HighDimStat_TailBounds_IsSubExponential", "via": ["solution", "statement"]}
-{"parent": "HighDimStat.UniformLaws.concentration_around_mean", "child": "HighDimStat_UniformLaws_IsUniformlyBounded", "via": ["statement"]}
-{"parent": "HighDimStat.UniformLaws.concentration_around_mean", "child": "HighDimStat_UniformLaws_empProcessDeviation", "via": ["statement"]}
+{"parent": "HighDimStat.UniformLaws.concentration_around_mean", "child": "HighDimStat_UniformLaws_IsUniformlyBounded", "via": ["solution", "statement"]}
+{"parent": "HighDimStat.UniformLaws.concentration_around_mean", "child": "HighDimStat_UniformLaws_empProcessDeviation", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.UniformLaws.symmetrization_sandwich_v2", "child": "HighDimStat_UniformLaws_empProcessDeviation", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.UniformLaws.symmetrization_sandwich_v2", "child": "HighDimStat_UniformLaws_symmetrizedProcess", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.UniformLaws.uniform_law_rademacher_complexity", "child": "HighDimStat_UniformLaws_IsRademacherVariable", "via": ["solution", "statement"]}
@@ -41176,8 +41176,8 @@
 {"parent": "HighOrderWalks.TwoSided.proposition_4_2", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
 {"parent": "HighOrderWalks.TwoSided.theorem_5_6", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
 {"parent": "HighOrderWalks.TwoSided.theorem_5_6", "child": "HighOrderWalks_TwoSided_Subspaces", "via": ["statement"]}
-{"parent": "HighOrderWalks.TwoSided.theorem_5_9", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
-{"parent": "HighOrderWalks.TwoSided.theorem_5_9", "child": "HighOrderWalks_TwoSided_Subspaces", "via": ["statement"]}
+{"parent": "HighOrderWalks.TwoSided.theorem_5_9", "child": "HighOrderWalks_TwoSided_Setting", "via": ["solution", "statement"]}
+{"parent": "HighOrderWalks.TwoSided.theorem_5_9", "child": "HighOrderWalks_TwoSided_Subspaces", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks_TwoSided_Setting", "child": "HighOrderWalks_OneSided_Setting", "via": ["statement"]}
 {"parent": "HighOrderWalks_TwoSided_Subspaces", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
 {"parent": "HighResODE.HeavyBallODE.B_1_deriv", "child": "HighResODE_HeavyBallODE_Setting", "via": ["solution", "statement"]}
@@ -51152,7 +51152,7 @@
 {"parent": "KoideRelation.tau_mass_prediction", "child": "KoideRelation_defs", "via": ["solution", "statement"]}
 {"parent": "Komlos.banaszczyk_bound", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "Komlos.bansal_jiang_beck_fiala", "child": "Komlos_model", "via": ["statement"]}
-{"parent": "Komlos.bansal_jiang_komlos_bound", "child": "Komlos_model", "via": ["statement"]}
+{"parent": "Komlos.bansal_jiang_komlos_bound", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "Komlos.beck_fiala", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "Komlos.beck_fiala_banaszczyk", "child": "Komlos.banaszczyk_bound", "via": ["solution"]}
 {"parent": "Komlos.beck_fiala_banaszczyk", "child": "Komlos_model", "via": ["solution", "statement"]}
@@ -86959,7 +86959,7 @@
 {"parent": "MazurProof.N13BranchNorm.evalPoly_ne_zero", "child": "MazurProof.N13LaurentPolynomialOrder.evalAtInfinity_eq_reverse_mul", "via": ["solution"]}
 {"parent": "MazurProof.N13BranchNorm.evalPoly_ne_zero", "child": "MazurProof.N13LaurentPolynomialOrder.eval_parameter_eq_ofPowerSeries", "via": ["solution"]}
 {"parent": "MazurProof.N13CanonicalContractionQuotient.genericQuotientMap_comp_algebraMap", "child": "MazurN13_L3", "via": ["solution", "statement"]}
-{"parent": "MazurProof.N13ConstructedRationalPointTheorem.affine_x_is_cuspidal", "child": "MazurN13_L0", "via": ["statement"]}
+{"parent": "MazurProof.N13ConstructedRationalPointTheorem.affine_x_is_cuspidal", "child": "MazurN13_L0", "via": ["solution", "statement"]}
 {"parent": "MazurProof.N13ContractQuotientXYBasis.exists_contractQuotient_basis_oneX_or_oneY", "child": "MazurN13_L2", "via": ["statement"]}
 {"parent": "MazurProof.N13ContractQuotientXYBasis.exists_contractQuotient_basis_oneX_or_oneY", "child": "MazurN13_L4", "via": ["solution"]}
 {"parent": "MazurProof.N13ContractQuotientXYBasis.exists_contractQuotient_basis_oneX_or_oneY", "child": "MazurProof.N13GeneralizedMumfordIntegral.curvePoly_natDegree", "via": ["solution"]}
@@ -86967,7 +86967,7 @@
 {"parent": "MazurProof.N13ContractQuotientXYBasis.exists_contractQuotient_basis_oneX_or_oneY", "child": "MazurProof.N13GoodCoordinateRingTwo.curvePoly_natDegree", "via": ["solution"]}
 {"parent": "MazurProof.N13ContractQuotientXYBasis.exists_contractQuotient_basis_oneX_or_oneY", "child": "MazurProof.N13GoodCoordinateRingTwo.recompose", "via": ["solution"]}
 {"parent": "MazurProof.N13EscapingPointPicardRealization.affinePointIdeal_scalarSaturated", "child": "MazurN13_L2", "via": ["solution", "statement"]}
-{"parent": "MazurProof.N13FiniteAffineTwoChart.finiteAffineIdeal_isUnit", "child": "MazurN13_L2", "via": ["statement"]}
+{"parent": "MazurProof.N13FiniteAffineTwoChart.finiteAffineIdeal_isUnit", "child": "MazurN13_L2", "via": ["solution", "statement"]}
 {"parent": "MazurProof.N13FiniteAffineTwoChart.integralPointIdeal_quotient_finite", "child": "MazurN13_L2", "via": ["statement"]}
 {"parent": "MazurProof.N13FiniteAffineTwoChart.integralPointIdeal_quotient_finite", "child": "MazurN13_L4", "via": ["solution"]}
 {"parent": "MazurProof.N13FormalCurveOverlap.affineCurve_relation", "child": "MazurN13_L2", "via": ["statement"]}
@@ -86996,7 +86996,7 @@
 {"parent": "MazurProof.N13GaussianCubicField.integralClosure_eq_adjoin", "child": "MazurProof.N13GaussianCubicField.minpoly_alpha", "via": ["solution"]}
 {"parent": "MazurProof.N13GaussianCubicField.integralClosure_eq_adjoin", "child": "MazurProof.N13GaussianGlobalArithmetic.pi_prime", "via": ["solution"]}
 {"parent": "MazurProof.N13GaussianCubicField.minpoly_alpha", "child": "MazurN13_L3", "via": ["solution", "statement"]}
-{"parent": "MazurProof.N13GaussianDifferentSupport.normalizedKummerInteger_eq_unit_mul_sq", "child": "MazurN13_L4", "via": ["statement"]}
+{"parent": "MazurProof.N13GaussianDifferentSupport.normalizedKummerInteger_eq_unit_mul_sq", "child": "MazurN13_L4", "via": ["solution", "statement"]}
 {"parent": "MazurProof.N13GaussianDifferentSupport.relativeGaussianTwoIdeal_isPrime", "child": "MazurN13_L0", "via": ["solution", "statement"]}
 {"parent": "MazurProof.N13GaussianDifferentSupport.relativeToORingEquiv_gaussianTwo", "child": "MazurN13_L3", "via": ["solution", "statement"]}
 {"parent": "MazurProof.N13GaussianFieldEquiv.gaussianI_sq", "child": "MazurN13_L3", "via": ["solution", "statement"]}

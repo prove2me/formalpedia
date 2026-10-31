@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_simple_edge_bound_euler_certificate__p2m_c0996fde_699c_4c51_8b79_2ecab5268659_a1
 -- name    : planar_simple_edge_bound_euler_certificate__p2m_c0996fde_699c_4c51_8b79_2ecab5268659_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:29:29.490993+00:00
 -- url     : https://prove2.me/theorems/7c79708d-854c-4714-8264-d2d977d1ffbf

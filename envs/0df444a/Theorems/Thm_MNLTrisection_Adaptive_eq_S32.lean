@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLTrisection_Adaptive_eq_S32
 -- name    : MNLTrisection.Adaptive.eq_S32
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:33:50.408226+00:00
 -- url     : https://prove2.me/theorems/2ae80104-f5aa-4354-a7b1-0b913cbab950

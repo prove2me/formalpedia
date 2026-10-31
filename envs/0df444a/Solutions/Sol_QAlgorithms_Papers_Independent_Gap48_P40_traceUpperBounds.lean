@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P40.traceUpperBounds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Alien60
 -- created : 2026-10-26T22:37:51.27799+00:00
 -- url     : https://prove2.me/submissions/1ee24282-7229-40b1-bafa-924b778b71b2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P17_referenceMinimumUpperBound
 import Definitions.Def_QAlgorithms_Papers_Independent_Gap48_P40

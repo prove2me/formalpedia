@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandRideHailing_CallNoCall_theorem_4_wait_nocall_le_call
 -- name    : OnDemandRideHailing.CallNoCall.theorem_4_wait_nocall_le_call
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:02:11.92427+00:00
 -- url     : https://prove2.me/theorems/6efe3778-c963-43c9-8645-6041a9cfc93e

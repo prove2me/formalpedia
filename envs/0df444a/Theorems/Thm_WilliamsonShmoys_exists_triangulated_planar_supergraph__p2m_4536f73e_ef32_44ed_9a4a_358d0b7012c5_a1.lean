@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulated_planar_supergraph__p2m_4536f73e_ef32_44ed_9a4a_358d0b7012c5_a1
 -- name    : WilliamsonShmoys.exists_triangulated_planar_supergraph__p2m_4536f73e_ef32_44ed_9a4a_358d0b7012c5_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:41:39.226324+00:00
 -- url     : https://prove2.me/theorems/5045813e-840e-441f-8744-eff11fe55168

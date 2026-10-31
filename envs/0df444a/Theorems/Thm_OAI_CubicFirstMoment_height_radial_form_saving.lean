@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_height_radial_form_saving
 -- name    : OAI.CubicFirstMoment.height_radial_form_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:26:37.683898+00:00
 -- url     : https://prove2.me/theorems/e4167b70-d3ac-4689-8e91-b79108511e8c

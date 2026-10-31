@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_spanning_triangulation_edge_count__p2m_8ce49ca9_f099_4adf_900b_33def51c5366_a2
 -- name    : WilliamsonShmoys.planar_spanning_triangulation_edge_count__p2m_8ce49ca9_f099_4adf_900b_33def51c5366_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:01:36.124886+00:00
 -- url     : https://prove2.me/theorems/3b4f1a59-3c0d-4d63-aeba-130ad9fe1fcf

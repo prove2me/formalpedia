@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanRiskBellman_Recursion_theorem_5_1
 -- name    : MeanRiskBellman.Recursion.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:23.92761+00:00
 -- url     : https://prove2.me/theorems/e16656d2-82cf-4dd5-82a1-8d02f78cc063

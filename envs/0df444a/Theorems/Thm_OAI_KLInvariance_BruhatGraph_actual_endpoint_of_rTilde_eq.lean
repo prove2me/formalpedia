@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KLInvariance_BruhatGraph_actual_endpoint_of_rTilde_eq
 -- name    : OAI.KLInvariance.BruhatGraph.actual_endpoint_of_rTilde_eq
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:53:23.262994+00:00
 -- url     : https://prove2.me/theorems/84618f90-4e74-4faf-8781-e5488503f489

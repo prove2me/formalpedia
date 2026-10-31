@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_patterson_angularCancellation
 -- name    : OAI.CubicFirstMoment.patterson_angularCancellation
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:31.571914+00:00
 -- url     : https://prove2.me/theorems/18f8d27a-f886-4f23-8df6-2f04534f84eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P17_relativeEntropy_sum_le
 -- name    : QAlgorithms.Papers.Independent.Support50.P17.relativeEntropy_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-29T18:22:17.180734+00:00
 -- url     : https://prove2.me/theorems/34f63154-152a-48d8-8884-65c5056b310f

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_planar_triangulation_extension__p2m_543fa1c4_4e11_411c_bac5_e006f931bb82_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:43:32.607236+00:00
 -- url     : https://prove2.me/submissions/8f0305ec-526d-403f-adc8-0b07dab9badf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

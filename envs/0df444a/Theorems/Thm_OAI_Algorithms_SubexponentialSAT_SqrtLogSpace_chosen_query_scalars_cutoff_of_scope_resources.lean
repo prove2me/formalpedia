@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_chosen_query_scalars_cutoff_of_scope_resources
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.chosen_query_scalars_cutoff_of_scope_resources
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:21:44.951733+00:00
 -- url     : https://prove2.me/theorems/f62439ad-5af0-4913-beb1-3b6920ed410e

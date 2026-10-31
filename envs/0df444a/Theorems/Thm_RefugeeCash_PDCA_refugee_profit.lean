@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefugeeCash_PDCA_refugee_profit
 -- name    : RefugeeCash.PDCA.refugee_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:44:59.308577+00:00
 -- url     : https://prove2.me/theorems/a291e87b-dcef-431b-a852-1b9a70c00a27

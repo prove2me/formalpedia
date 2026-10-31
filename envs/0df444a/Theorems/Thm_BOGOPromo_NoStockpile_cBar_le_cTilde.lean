@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BOGOPromo_NoStockpile_cBar_le_cTilde
 -- name    : BOGOPromo.NoStockpile.cBar_le_cTilde
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:23:52.439647+00:00
 -- url     : https://prove2.me/theorems/f436af7f-36a3-49f2-953e-9fb386c29122

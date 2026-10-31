@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_ReconstructionProgram_Scalar_negative_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.ReconstructionProgram.Scalar.negative_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:11:45.637286+00:00
 -- url     : https://prove2.me/theorems/6a300672-b43d-4c16-9b26-4f8e75e5f187

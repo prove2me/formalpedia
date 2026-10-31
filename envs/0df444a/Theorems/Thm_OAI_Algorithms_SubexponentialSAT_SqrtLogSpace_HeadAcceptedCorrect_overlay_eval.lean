@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadAcceptedCorrect_overlay_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadAcceptedCorrect.overlay_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:35:18.406924+00:00
 -- url     : https://prove2.me/theorems/2b7e22c2-45e4-4152-a1f1-c9fc3993b90c

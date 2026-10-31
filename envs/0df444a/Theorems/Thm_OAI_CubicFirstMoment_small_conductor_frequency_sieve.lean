@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_small_conductor_frequency_sieve
 -- name    : OAI.CubicFirstMoment.small_conductor_frequency_sieve
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:09:54.666165+00:00
 -- url     : https://prove2.me/theorems/c25c2e8d-376d-48f8-99b5-51e03c4555f2

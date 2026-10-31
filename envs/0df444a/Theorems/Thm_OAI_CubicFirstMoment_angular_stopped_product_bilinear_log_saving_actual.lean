@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_stopped_product_bilinear_log_saving_actual
 -- name    : OAI.CubicFirstMoment.angular_stopped_product_bilinear_log_saving_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:57:36.033521+00:00
 -- url     : https://prove2.me/theorems/ff9b5835-0a64-4958-8a6c-25dc0ccddf1e

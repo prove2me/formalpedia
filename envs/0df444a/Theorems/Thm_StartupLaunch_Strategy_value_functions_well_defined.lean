@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StartupLaunch_Strategy_value_functions_well_defined
 -- name    : StartupLaunch.Strategy.value_functions_well_defined
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:42.980812+00:00
 -- url     : https://prove2.me/theorems/407c0f75-188f-47e0-abf2-4c86efbe0d8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edgeMaximal_planar_graph_lower_bound_same_vertex__p2m_3ee6bacb_2bd6_4aaa_b06f_7ea404afd915_a1
 -- name    : WilliamsonShmoys.edgeMaximal_planar_graph_lower_bound_same_vertex__p2m_3ee6bacb_2bd6_4aaa_b06f_7ea404afd915_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:55:18.798658+00:00
 -- url     : https://prove2.me/theorems/ac618f5b-f1ff-4053-9ae3-bb0fc54b8c70

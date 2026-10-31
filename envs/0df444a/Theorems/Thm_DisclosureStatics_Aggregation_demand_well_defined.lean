@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisclosureStatics_Aggregation_demand_well_defined
 -- name    : DisclosureStatics.Aggregation.demand_well_defined
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:15:24.312473+00:00
 -- url     : https://prove2.me/theorems/c97e9277-546c-48d8-8edc-aa82144d7c02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutSourceExpression_literal_length_le_sourceLengthBound
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutSourceExpression.literal_length_le_sourceLengthBound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:31:09.213885+00:00
 -- url     : https://prove2.me/theorems/987d225e-b2d3-46ef-9701-33185ac7b3fa

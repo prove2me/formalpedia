@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FMLPricing_BranchBound_equation_5
 -- name    : FMLPricing.BranchBound.equation_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:35:44.74915+00:00
 -- url     : https://prove2.me/theorems/6e0d4682-aed6-4848-b055-cedc2a55879d

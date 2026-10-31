@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_full_prime_centered_product_bilinear_actual
 -- name    : OAI.CubicFirstMoment.angular_full_prime_centered_product_bilinear_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:15:31.782145+00:00
 -- url     : https://prove2.me/theorems/01600969-8b08-42f8-958a-c3b12f00a078

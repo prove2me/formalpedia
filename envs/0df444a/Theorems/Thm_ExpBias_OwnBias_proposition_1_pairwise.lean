@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpBias_OwnBias_proposition_1_pairwise
 -- name    : ExpBias.OwnBias.proposition_1_pairwise
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:40:15.243981+00:00
 -- url     : https://prove2.me/theorems/edb5f5c5-a127-4d5e-acc4-23a22eac4312

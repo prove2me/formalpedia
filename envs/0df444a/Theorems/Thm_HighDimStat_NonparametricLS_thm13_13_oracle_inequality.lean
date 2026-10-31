@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_NonparametricLS_thm13_13_oracle_inequality
 -- name    : HighDimStat.NonparametricLS.thm13_13_oracle_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:30:47.682784+00:00
 -- url     : https://prove2.me/theorems/d54dc1db-0065-49e6-9123-f5649a35b612

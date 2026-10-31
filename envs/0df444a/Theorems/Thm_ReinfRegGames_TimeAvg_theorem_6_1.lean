@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReinfRegGames_TimeAvg_theorem_6_1
 -- name    : ReinfRegGames.TimeAvg.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:08:21.616613+00:00
 -- url     : https://prove2.me/theorems/e7825d09-d8ea-43fc-aaca-233061a9d704

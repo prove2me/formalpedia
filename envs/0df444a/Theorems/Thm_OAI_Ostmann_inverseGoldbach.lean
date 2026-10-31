@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Ostmann_inverseGoldbach
 -- name    : OAI.Ostmann.inverseGoldbach
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:59.514988+00:00
 -- url     : https://prove2.me/theorems/d3fa420d-91c1-4aa4-86ff-326903a2114a

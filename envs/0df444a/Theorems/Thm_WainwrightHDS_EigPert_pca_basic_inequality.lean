@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_EigPert_pca_basic_inequality
 -- name    : WainwrightHDS.EigPert.pca_basic_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:27:48.171693+00:00
 -- url     : https://prove2.me/theorems/26b33217-b618-475f-b61a-a23f1645ec02

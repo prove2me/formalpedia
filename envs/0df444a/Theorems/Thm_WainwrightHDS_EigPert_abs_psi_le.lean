@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_EigPert_abs_psi_le
 -- name    : WainwrightHDS.EigPert.abs_psi_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:28:22.312244+00:00
 -- url     : https://prove2.me/theorems/63f3da69-5a31-433f-8370-2bc54d77ab05

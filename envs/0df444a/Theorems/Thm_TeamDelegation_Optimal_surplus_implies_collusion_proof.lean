@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDelegation_Optimal_surplus_implies_collusion_proof
 -- name    : TeamDelegation.Optimal.surplus_implies_collusion_proof
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:28.719026+00:00
 -- url     : https://prove2.me/theorems/c07d37df-d643-45d9-8685-9cdc59efbe4d

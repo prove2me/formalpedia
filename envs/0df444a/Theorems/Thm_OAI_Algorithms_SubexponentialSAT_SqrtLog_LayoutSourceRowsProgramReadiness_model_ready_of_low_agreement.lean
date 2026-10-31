@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutSourceRowsProgramReadiness_model_ready_of_low_agreement
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutSourceRowsProgramReadiness.model_ready_of_low_agreement
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:00:45.899409+00:00
 -- url     : https://prove2.me/theorems/45ae3df3-cd14-4089-9a05-69d92f4cc8b4

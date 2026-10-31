@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLearnCB_UCB1CL_hoeffding_step
 -- name    : CrossLearnCB.UCB1CL.hoeffding_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:31.899976+00:00
 -- url     : https://prove2.me/theorems/1016f673-98f9-4ae0-a0b6-12d4deb43067

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_simple_edge_bound__p2m_07c458c9_4133_43a0_8b95_3696befe2c71_a1
 -- name    : planar_simple_edge_bound__p2m_07c458c9_4133_43a0_8b95_3696befe2c71_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:24:29.397863+00:00
 -- url     : https://prove2.me/theorems/c0996fde-699c-4c51-8b79-2ecab5268659

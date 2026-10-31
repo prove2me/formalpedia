@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_BLP_lemma_7_12
 -- name    : AlgebraicPCSP.BLP.lemma_7_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:28:24.84035+00:00
 -- url     : https://prove2.me/theorems/25513b6c-7a04-4e53-984a-43c29563b28e

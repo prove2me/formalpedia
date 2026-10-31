@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_primitiveAngularHeckeInput_proved
 -- name    : OAI.CubicFirstMoment.primitiveAngularHeckeInput_proved
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:07:35.194696+00:00
 -- url     : https://prove2.me/theorems/3ce3a4af-3a73-4c63-ab55-69ebf735905e

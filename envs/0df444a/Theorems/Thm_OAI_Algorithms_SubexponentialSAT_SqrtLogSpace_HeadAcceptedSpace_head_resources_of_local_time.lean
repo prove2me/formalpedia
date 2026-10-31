@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadAcceptedSpace_head_resources_of_local_time
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadAcceptedSpace.head_resources_of_local_time
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:35:41.973509+00:00
 -- url     : https://prove2.me/theorems/1ee88fa6-70b8-4962-b0b0-019a68e5326f

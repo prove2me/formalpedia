@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_extension_with_edge_mono
 -- name    : WilliamsonShmoys.planar_drawing_connected_extension_with_edge_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T04:50:13.108294+00:00
 -- url     : https://prove2.me/theorems/26526fc0-7365-41e0-9070-d01ed12641ac

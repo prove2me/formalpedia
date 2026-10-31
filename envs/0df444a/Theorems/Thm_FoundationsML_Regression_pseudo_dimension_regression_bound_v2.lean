@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Regression_pseudo_dimension_regression_bound_v2
 -- name    : FoundationsML.Regression.pseudo_dimension_regression_bound_v2
--- status  : Open
+-- status  : Disproved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:18:48.952117+00:00
 -- url     : https://prove2.me/theorems/439dfc1a-6cf9-4da5-af8e-dad567c0f831

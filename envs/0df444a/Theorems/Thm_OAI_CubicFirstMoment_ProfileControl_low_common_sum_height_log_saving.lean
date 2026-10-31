@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_ProfileControl_low_common_sum_height_log_saving
 -- name    : OAI.CubicFirstMoment.ProfileControl.low_common_sum_height_log_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:45:08.850534+00:00
 -- url     : https://prove2.me/theorems/9183f708-2e43-4096-a35f-07513f13ede9

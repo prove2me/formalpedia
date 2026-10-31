@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_large_common_nonzero_power
 -- name    : OAI.CubicFirstMoment.large_common_nonzero_power
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:01:01.281976+00:00
 -- url     : https://prove2.me/theorems/775ecea6-bb4f-402f-8763-e61de879a5b1

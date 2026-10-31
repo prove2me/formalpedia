@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_Theory_lemma_4_11
 -- name    : AlgebraicPCSP.Theory.lemma_4_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:28.225304+00:00
 -- url     : https://prove2.me/theorems/530d0e15-e153-4ecd-8160-395735d857c5

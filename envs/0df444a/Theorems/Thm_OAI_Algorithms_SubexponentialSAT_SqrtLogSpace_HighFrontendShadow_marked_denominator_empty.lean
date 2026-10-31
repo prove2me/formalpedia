@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HighFrontendShadow_marked_denominator_empty
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighFrontendShadow.marked_denominator_empty
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:29:14.464975+00:00
 -- url     : https://prove2.me/theorems/60cc71f5-4c69-4d4b-8093-7c238048c43a

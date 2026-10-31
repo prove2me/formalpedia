@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSPConvex_CMM_theorem_2
 -- name    : BSPConvex.CMM.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:51.888594+00:00
 -- url     : https://prove2.me/theorems/1c0c5f73-8f05-4c09-a4da-79cba4c1c30f

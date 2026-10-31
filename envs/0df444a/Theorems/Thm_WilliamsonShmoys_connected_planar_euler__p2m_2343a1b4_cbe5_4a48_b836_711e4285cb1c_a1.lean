@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_euler__p2m_2343a1b4_cbe5_4a48_b836_711e4285cb1c_a1
 -- name    : WilliamsonShmoys.connected_planar_euler__p2m_2343a1b4_cbe5_4a48_b836_711e4285cb1c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:24:38.395945+00:00
 -- url     : https://prove2.me/theorems/58612374-1deb-4852-bf25-cef86ac451da

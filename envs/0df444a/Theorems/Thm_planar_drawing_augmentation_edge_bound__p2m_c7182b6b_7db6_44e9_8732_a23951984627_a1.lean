@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_drawing_augmentation_edge_bound__p2m_c7182b6b_7db6_44e9_8732_a23951984627_a1
 -- name    : planar_drawing_augmentation_edge_bound__p2m_c7182b6b_7db6_44e9_8732_a23951984627_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:23:25.889345+00:00
 -- url     : https://prove2.me/theorems/6bcbc754-6431-43a3-bb11-f771114284ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_simple_face_degree_bound__p2m_7c79708d_854c_4714_8264_d2d977d1ffbf_a1
 -- name    : planar_simple_face_degree_bound__p2m_7c79708d_854c_4714_8264_d2d977d1ffbf_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:35:03.457511+00:00
 -- url     : https://prove2.me/theorems/5ec8fcdd-ba42-4764-bfb5-c1bd9285046d

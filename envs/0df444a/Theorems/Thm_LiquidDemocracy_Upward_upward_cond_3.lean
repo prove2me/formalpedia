@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidDemocracy_Upward_upward_cond_3
 -- name    : LiquidDemocracy.Upward.upward_cond_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:24:31.32051+00:00
 -- url     : https://prove2.me/theorems/bd3ec2d3-1c0e-4a10-ba86-1f9a5c55bac7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLicensing_ExAnte_khat2_decreasing
 -- name    : CrossLicensing.ExAnte.khat2_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T14:39:39.672855+00:00
 -- url     : https://prove2.me/theorems/1d8b176d-ddb3-4ed5-94f4-f4cbf1b47a66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_FactorEvaluationSpace_indicatorBudget_le
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.FactorEvaluationSpace.indicatorBudget_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:33:26.154873+00:00
 -- url     : https://prove2.me/theorems/39a05532-35a6-4606-8298-6e2215ebb57e

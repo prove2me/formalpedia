@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_Theory_corollary_4_10
 -- name    : AlgebraicPCSP.Theory.corollary_4_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:35.397738+00:00
 -- url     : https://prove2.me/theorems/0cfda2ad-77a4-4d5b-ba28-de1ec35b519b

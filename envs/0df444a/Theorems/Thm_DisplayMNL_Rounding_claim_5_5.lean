@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisplayMNL_Rounding_claim_5_5
 -- name    : DisplayMNL.Rounding.claim_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:31:07.271704+00:00
 -- url     : https://prove2.me/theorems/4513cb7a-ca81-4a82-946d-20feb8f07286

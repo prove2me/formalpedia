@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_strict_edge_count_of_new_adj__p2m_0f9033a6_abd0_4489_9b8d_438547662195_a1
 -- name    : WilliamsonShmoys.strict_edge_count_of_new_adj__p2m_0f9033a6_abd0_4489_9b8d_438547662195_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:50:24.747433+00:00
 -- url     : https://prove2.me/theorems/a43e458f-d74e-4ee0-9f88-59ad20ef06f3

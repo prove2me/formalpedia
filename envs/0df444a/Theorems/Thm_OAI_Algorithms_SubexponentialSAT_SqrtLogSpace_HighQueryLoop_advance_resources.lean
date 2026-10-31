@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HighQueryLoop_advance_resources
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighQueryLoop.advance_resources
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:48:11.16645+00:00
 -- url     : https://prove2.me/theorems/07afc60b-660b-42dd-942d-9141123ff997

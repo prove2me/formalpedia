@@ -1,0 +1,19 @@
+-- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_lower_of_maximal_drawing__p2m_fcb8ec4c_c30d_44dd_a4d8_def1801ee290_a2
+-- name    : WilliamsonShmoys.planar_edge_count_lower_of_maximal_drawing__p2m_fcb8ec4c_c30d_44dd_a4d8_def1801ee290_a2
+-- status  : Proved
+-- author  : @Eyal1990
+-- created : 2026-10-30T09:39:56.27844+00:00
+-- url     : https://prove2.me/theorems/b7ddd4a0-5822-4de2-a826-6e2dd80a911f
+-- title:
+--   Maximal drawing edge-count lower bound
+-- statement:
+--   This isolates the consequence of maximality needed for the target: the drawable graph has at least 3|V|−6 edges. A proof route is to use the given drawing, show that if a face is not triangular then one can add a missing edge inside that face while preserving a drawing, contradicting maximality, and then derive the count from Euler’s formula for the resulting triangulation. The three-vertex boundary is included. This removes the maximality and triangulation argument from the parent; that topological argument remains the core obligation.
+-- source:
+--   David P. Williamson and David B. Shmoys, The Design of Approximation Algorithms, Cambridge University Press, 2011, author electronic manuscript, Section 10.2, proof of Theorem 10.11, pp. 270-272. https://doi.org/10.1017/CBO9780511921735. Bounded tree-width of the pieces: Robertson–Seymour (planar graphs of radius r have tree-width at most 3r+1) / Bodlaender (k-outerplanar graphs have tree-width at most 3k-1).
+
+import Mathlib
+import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
+set_option autoImplicit false
+open WilliamsonShmoys
+
+theorem WilliamsonShmoys.planar_edge_count_lower_of_maximal_drawing__p2m_fcb8ec4c_c30d_44dd_a4d8_def1801ee290_a2 {V : Type} [Fintype V] [LinearOrder V] (H : SimpleGraph V) (hCard : 3 ≤ Fintype.card V) (hH : WilliamsonShmoys.HasPlanarDrawingOn H) (hmax : ∀ K : SimpleGraph V, H ≤ K → WilliamsonShmoys.HasPlanarDrawingOn K → K = H) : 3 * Fintype.card V - 6 ≤ H.edgeSet.ncard := by sorry

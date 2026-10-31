@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformToken_SmallCost_claim_i_h_gt_g
 -- name    : PlatformToken.SmallCost.claim_i_h_gt_g
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:27:05.209508+00:00
 -- url     : https://prove2.me/theorems/d919d36f-aaf7-4902-9948-b3a95e7e0629

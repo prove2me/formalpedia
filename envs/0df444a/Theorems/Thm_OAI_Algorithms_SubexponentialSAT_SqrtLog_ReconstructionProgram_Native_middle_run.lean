@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_ReconstructionProgram_Native_middle_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.ReconstructionProgram.Native.middle_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:32:12.618102+00:00
 -- url     : https://prove2.me/theorems/544f2c62-0503-434d-bbc9-c155fd8a5dd9

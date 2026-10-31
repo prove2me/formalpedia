@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_tailHighOrdinaryArity_isLittleO
 -- name    : OAI.CubicFirstMoment.tailHighOrdinaryArity_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:46:06.600761+00:00
 -- url     : https://prove2.me/theorems/abea51a1-70eb-4249-9ff3-819bb2f85d87

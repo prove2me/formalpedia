@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.connected_planar_euler_certificate__p2m_e1f0e5cb_88a1_4c02_a6cc_5b5efd64f417_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:17:40.185444+00:00
 -- url     : https://prove2.me/submissions/e5713268-d96f-4e0f-ac35-961e3ec73c16
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

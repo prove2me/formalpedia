@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFEUnique_Uniq_stochLE_closed_weak_convergence
 -- name    : MFEUnique.Uniq.stochLE_closed_weak_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:56.31362+00:00
 -- url     : https://prove2.me/theorems/0403a775-6d73-489b-82f0-caeac38e8feb

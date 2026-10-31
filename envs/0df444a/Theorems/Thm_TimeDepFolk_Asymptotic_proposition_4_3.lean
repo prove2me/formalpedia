@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeDepFolk_Asymptotic_proposition_4_3
 -- name    : TimeDepFolk.Asymptotic.proposition_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:19:28.760533+00:00
 -- url     : https://prove2.me/theorems/602681bc-8ad3-4be5-9fe0-9bb92c5d98c0

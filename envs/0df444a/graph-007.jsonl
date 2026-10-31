@@ -17058,11 +17058,6 @@
 {"parent": "OAI_Analysis_BackwardIntertwiners_HaarBase", "child": "OAI_Analysis_BackwardIntertwiners_WeightSeparation", "via": ["statement"]}
 {"parent": "OAI_Analysis_BackwardIntertwiners_HaarBase", "child": "OAI_Analysis_BackwardIntertwiners_ConvexEnvelope", "via": ["statement"]}
 {"parent": "OAI_Analysis_BackwardIntertwiners_HaarBase", "child": "OAI_Analysis_BackwardIntertwiners_ExplicitWeights", "via": ["statement"]}
-{"parent": "BookProof.ChapterSpectralDirectSum.spectral_multiplication_model_separable", "child": "ChapterCyclicDecomposition", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSpectralDirectSum.spectral_multiplication_model_separable", "child": "ChapterSpectralDirectSum", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSpectralDirectSum.spectral_multiplication_model_separable", "child": "ChapterCyclicDirectSum", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSpectralDirectSum.spectral_multiplication_model_separable", "child": "ChapterAbelianGelfandModel", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSpectralDirectSum.spectral_multiplication_model_separable", "child": "ChapterSpectralMultiplication", "via": ["solution", "statement"]}
 {"parent": "PostQual.Incumbent.lemma_EC_1_c", "child": "PostQual_Incumbent_Model", "via": ["solution", "statement"]}
 {"parent": "OppReturns.Menu.menu_matches_targeted", "child": "OppReturns_Menu_Model", "via": ["statement"]}
 {"parent": "OAI.DirectCrouzeix.Geometry.expLevel_convex", "child": "OAI_Analysis_DirectCrouzeix_PoissonBoundary", "via": ["solution", "statement"]}
@@ -26278,7 +26273,7 @@
 {"parent": "OAI_MeasureTheory_SelfSimilar_FairPairs", "child": "OAI_MeasureTheory_SelfSimilar_Boundary", "via": ["statement"]}
 {"parent": "OAI_MeasureTheory_SelfSimilar_FairPairs", "child": "OAI_MeasureTheory_SelfSimilar_FiniteEntropy", "via": ["statement"]}
 {"parent": "OAI_MeasureTheory_SelfSimilar_FairPairs", "child": "OAI_MeasureTheory_SelfSimilar_FiniteDistribution", "via": ["statement"]}
-{"parent": "CrossLicensing.ExAnte.khat2_decreasing", "child": "CrossLicensing_ExAnte_Model", "via": ["statement"]}
+{"parent": "CrossLicensing.ExAnte.khat2_decreasing", "child": "CrossLicensing_ExAnte_Model", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group644_part04", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group197_part02", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "TypeDensity.QCongr.qmul", "child": "TypeDensity_Basic", "via": ["solution", "statement"]}
@@ -46631,7 +46626,7 @@
 {"parent": "MIPStarRE.LDT.ev_diff_triangle", "child": "MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.ev_diff_triangle", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_Distribution", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.ev_diff_triangle", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
-{"parent": "CollabProject.TimeDep.lemma_2_manufacturer", "child": "CollabProject_TimeDep_Model", "via": ["statement"]}
+{"parent": "CollabProject.TimeDep.lemma_2_manufacturer", "child": "CollabProject_TimeDep_Model", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group583", "child": "dusart_mesh_upper_group583_part08", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group583", "child": "dusart_mesh_upper_group583_part04", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group583", "child": "dusart_mesh_upper_group583_part01", "via": ["statement"]}
@@ -79156,11 +79151,6 @@
 {"parent": "MIPRE.TM.Interp.exec_popBack", "child": "MIPRE_TM_Interp_Routines", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.Interp.exec_popBack", "child": "MIPRE_Cslib_Foundations_Data_RelatesInSteps", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.Interp.exec_popBack", "child": "MIPRE_TM_Interp_Reach", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSpectralDirectSum.spectral_multiplication_model_general", "child": "ChapterCyclicDecomposition", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSpectralDirectSum.spectral_multiplication_model_general", "child": "ChapterSpectralDirectSum", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSpectralDirectSum.spectral_multiplication_model_general", "child": "ChapterCyclicDirectSum", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSpectralDirectSum.spectral_multiplication_model_general", "child": "ChapterAbelianGelfandModel", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSpectralDirectSum.spectral_multiplication_model_general", "child": "ChapterSpectralMultiplication", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group206", "child": "dusart_mesh_upper_group206_part03", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group206", "child": "dusart_mesh_upper_group206_part06", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group206", "child": "dusart_mesh_upper_group206_part02", "via": ["statement"]}

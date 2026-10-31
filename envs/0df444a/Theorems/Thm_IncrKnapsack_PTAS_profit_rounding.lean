@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncrKnapsack_PTAS_profit_rounding
 -- name    : IncrKnapsack.PTAS.profit_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:17.136184+00:00
 -- url     : https://prove2.me/theorems/1428a501-ac07-44e9-87f7-20e84fa6843c

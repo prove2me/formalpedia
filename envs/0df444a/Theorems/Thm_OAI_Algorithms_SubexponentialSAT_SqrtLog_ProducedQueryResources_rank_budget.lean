@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_ProducedQueryResources_rank_budget
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.ProducedQueryResources.rank_budget
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:11:39.888674+00:00
 -- url     : https://prove2.me/theorems/80130c55-a41d-4d85-95ed-050c19eb8c07

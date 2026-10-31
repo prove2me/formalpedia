@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDelegation_Optimal_cost_comparison
 -- name    : TeamDelegation.Optimal.cost_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:21.812521+00:00
 -- url     : https://prove2.me/theorems/a02350a6-c437-4ada-968c-ecfbaabcc3dc

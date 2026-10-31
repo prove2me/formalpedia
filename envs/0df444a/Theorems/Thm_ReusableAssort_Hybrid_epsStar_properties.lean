@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusableAssort_Hybrid_epsStar_properties
 -- name    : ReusableAssort.Hybrid.epsStar_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:27:40.316019+00:00
 -- url     : https://prove2.me/theorems/b522b2ff-bcfa-4cc2-8cd3-e7dae620e05a

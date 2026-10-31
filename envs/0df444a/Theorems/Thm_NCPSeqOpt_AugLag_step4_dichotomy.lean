@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCPSeqOpt_AugLag_step4_dichotomy
 -- name    : NCPSeqOpt.AugLag.step4_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:07.523998+00:00
 -- url     : https://prove2.me/theorems/3d7be812-e905-4038-abc5-63b1a51d84b2

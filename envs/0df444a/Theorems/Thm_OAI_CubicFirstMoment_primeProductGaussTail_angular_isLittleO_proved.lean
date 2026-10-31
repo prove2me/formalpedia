@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_primeProductGaussTail_angular_isLittleO_proved
 -- name    : OAI.CubicFirstMoment.primeProductGaussTail_angular_isLittleO_proved
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:28:46.295893+00:00
 -- url     : https://prove2.me/theorems/5786dae5-e108-4548-8e86-a4978fc6b581

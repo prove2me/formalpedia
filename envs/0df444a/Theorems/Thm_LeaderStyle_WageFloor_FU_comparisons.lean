@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeaderStyle_WageFloor_FU_comparisons
 -- name    : LeaderStyle.WageFloor.FU_comparisons
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:38:18.074051+00:00
 -- url     : https://prove2.me/theorems/0529bf59-f69a-4a0d-a878-4892bb2c60bd

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_graph_extends_to_triangulation__p2m_f90853da_a441_4590_8374_63300059b95b_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:26:50.11195+00:00
 -- url     : https://prove2.me/submissions/6f47b2c2-22c7-48e6-884f-dd48bbf316b4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_has_maximal_supergraph__p2m_f14f4602_64b2_453c_98d9_533a82cb7d04_a1

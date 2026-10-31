@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_first_weighted_tuple_neighborhood
 -- name    : OAI.CubicFirstMoment.first_weighted_tuple_neighborhood
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:00:45.947683+00:00
 -- url     : https://prove2.me/theorems/0d5bd52b-60c1-427c-946b-0c66e74d9d08

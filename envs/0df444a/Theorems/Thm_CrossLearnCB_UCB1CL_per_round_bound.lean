@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLearnCB_UCB1CL_per_round_bound
 -- name    : CrossLearnCB.UCB1CL.per_round_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:40.309949+00:00
 -- url     : https://prove2.me/theorems/ed75586b-fc4e-468d-9145-9a6ab1d1e23d

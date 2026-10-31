@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_Cube_theorem_5_7
 -- name    : GeometryOfGraphs.Cube.theorem_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:40:01.318412+00:00
 -- url     : https://prove2.me/theorems/c116f462-b432-44bc-8f8f-3027210f6f46

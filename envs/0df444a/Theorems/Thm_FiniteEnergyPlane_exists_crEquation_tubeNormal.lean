@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_crEquation_tubeNormal
 -- name    : FiniteEnergyPlane.exists_crEquation_tubeNormal
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-29T21:53:28.219428+00:00
 -- url     : https://prove2.me/theorems/f263e350-7a48-4a1f-a47c-c98a493955d3

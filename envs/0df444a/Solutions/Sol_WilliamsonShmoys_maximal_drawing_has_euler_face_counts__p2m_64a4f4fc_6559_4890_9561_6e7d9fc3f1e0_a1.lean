@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_drawing_has_euler_face_counts__p2m_64a4f4fc_6559_4890_9561_6e7d9fc3f1e0_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:23:59.869852+00:00
 -- url     : https://prove2.me/submissions/9aba6435-71f7-474a-a14e-ebb56abcbf9c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

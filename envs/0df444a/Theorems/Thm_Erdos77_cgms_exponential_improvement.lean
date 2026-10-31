@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos77_cgms_exponential_improvement
 -- name    : Erdos77.cgms_exponential_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T18:31:17.318297+00:00
 -- url     : https://prove2.me/theorems/5c4bc465-3266-4332-8fa4-7d6602f3a6bc

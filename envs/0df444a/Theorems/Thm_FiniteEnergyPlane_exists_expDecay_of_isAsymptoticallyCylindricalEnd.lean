@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_expDecay_of_isAsymptoticallyCylindricalEnd
 -- name    : FiniteEnergyPlane.exists_expDecay_of_isAsymptoticallyCylindricalEnd
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-29T20:20:21.88579+00:00
 -- url     : https://prove2.me/theorems/5dd407d1-f1ef-422d-8fdf-ed93d18aa14c

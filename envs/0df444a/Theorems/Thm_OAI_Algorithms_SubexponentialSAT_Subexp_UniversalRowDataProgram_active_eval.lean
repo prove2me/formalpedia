@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_Subexp_UniversalRowDataProgram_active_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.Subexp.UniversalRowDataProgram.active_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:41:17.392075+00:00
 -- url     : https://prove2.me/theorems/bde25e75-5311-4dda-8123-68232ed51c3b

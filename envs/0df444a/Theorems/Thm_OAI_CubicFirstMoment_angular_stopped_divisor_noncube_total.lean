@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_stopped_divisor_noncube_total
 -- name    : OAI.CubicFirstMoment.angular_stopped_divisor_noncube_total
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:21:02.177226+00:00
 -- url     : https://prove2.me/theorems/fb49d1d2-e989-4826-be69-0b1e9d42cb52

@@ -10686,7 +10686,7 @@
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared164", "child": "Sensitivity213981Formal_Endpoint22AnnotatedData", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared164", "child": "Sensitivity213981Formal_Endpoint22StrictPacked", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared164", "child": "Sensitivity213981Formal_Namespaces", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_drawable_graph_edge_lower_bound_retry_20261027", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_drawable_graph_edge_lower_bound_retry_20261027", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicTorus.planar_radial_strip_gain_first", "child": "OAIQ079A000", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff16.real_three_w003_s012_013", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff16.real_three_w003_s012_013", "child": "HlawkaSchatten_DiagonalConstruction_Basic", "via": ["solution", "statement"]}
@@ -51638,7 +51638,7 @@
 {"parent": "AvramDividend.Classical.chat04_down_exit_time_pos_ae_of_positive_barrier", "child": "AvramDividend.Classical.chat04_initial_safe_window_of_rightCont_zero", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_down_exit_time_pos_ae_of_positive_barrier", "child": "AvramDividend.Classical.chat04_down_exit_time_pos_of_initial_safe_window", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_down_exit_time_pos_ae_of_positive_barrier", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_exact_edges_4f89c2_planar_edge_count_upper_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_exact_edges_4f89c2_planar_edge_count_upper_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_cover_m0_s00", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "BitDFT_ChildDescriptor", "child": "BitDFT_DescriptorPlacement", "via": ["statement"]}
 {"parent": "BitDFT_ChildDescriptor", "child": "BitDFT_NativeChildOutput", "via": ["statement"]}
@@ -58132,7 +58132,7 @@
 {"parent": "Sensitivity213981Formal_Endpoint22ReachPlans072", "child": "Sensitivity213981Formal_Namespaces", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.zero_cap_value_upper_bound_all_unbounded_of_no_local_monotone", "child": "AvramDividend.Classical.barrierRuinTime_zero_of_no_local_monotone_path", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.zero_cap_value_upper_bound_all_unbounded_of_no_local_monotone", "child": "AvramDividend.Classical.zero_cap_value_upper_bound_all_unbounded_of_instant_ruin", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count_for_face_count_data", "child": "WilliamsonShmoys_PlanarFaceCountData", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count_for_face_count_data", "child": "WilliamsonShmoys_PlanarFaceCountData", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_FiniteTail_Definitions", "child": "D1Bound5_SquareTest_Definitions", "via": ["statement"]}
 {"parent": "D1Bound5_FiniteTail_Definitions", "child": "D1Bound5_Coordinates_Definitions", "via": ["statement"]}
 {"parent": "D1Bound5_FiniteTail_Definitions", "child": "D1Bound5_DiskEnumeration_Definitions", "via": ["statement"]}
@@ -67446,7 +67446,7 @@
 {"parent": "Sensitivity213981Formal_Endpoint22AnnotatedData045", "child": "SensitivityCampaign", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Endpoint22AnnotatedData045", "child": "Sensitivity213981Formal_Namespaces", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Endpoint22AnnotatedData045", "child": "Sensitivity213981Formal_RankAnnotatedTree", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_graph_has_strict_extension_below_triangulation_bound_213a5b3a", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_graph_has_strict_extension_below_triangulation_bound_213a5b3a", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_proper_supergraph_of_disconnected_planar", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "BitDFT.rounding_bridge", "child": "IntMul_HvdH_KronMul", "via": ["statement"]}
 {"parent": "BitDFT.rounding_bridge", "child": "BitDFT_Numerics", "via": ["solution", "statement"]}
@@ -68566,7 +68566,7 @@
 {"parent": "AvramDividend.Classical.esscher_bounded_stop_future_increment_map_law", "child": "AvramDividend.Classical.stoppedHistory_event_measurable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.esscher_bounded_stop_future_increment_map_law", "child": "AvramDividend.Classical.levy_finiteStopping_stoppedFuturePath_measurable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.esscher_bounded_stop_future_increment_map_law", "child": "AvramDividend.Classical.bounded_stop_explicit_grid_increment_limit_with_horizon", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_edge_lower_bound_ec05fb32_d087_4cea_a2cd_8a3ca91ed513", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_edge_lower_bound_ec05fb32_d087_4cea_a2cd_8a3ca91ed513", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.IsD1Tuple.frontier_large_growth", "child": "D1Bound5_IsD1Tuple", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_drawable_edge_count_from_arc_drawing", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "IntractableCoding_Weights_Reductions", "child": "IntractableCoding_Weights_Problems", "via": ["statement"]}
@@ -70257,7 +70257,7 @@
 {"parent": "OAI.SKGap.field_logdet_uniform", "child": "OAIQ072A000", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_e2_PE", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_e2_PE", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_connected_supergraph_large_a0b92b21_6aa1_495e_a7c5_b4d4c91a44bd", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_connected_supergraph_large_a0b92b21_6aa1_495e_a7c5_b4d4c91a44bd", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_positive_reserve_killed_scale_unmasked_near_zero", "child": "AvramDividend.Classical.chat04_initial_safe_window_of_rightCont_zero", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_positive_reserve_killed_scale_unmasked_near_zero", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
 {"parent": "OAI.Kadison.TracialGNS.word_multiplicity_both", "child": "OAIQ039C040", "via": ["solution", "statement"]}
@@ -82514,7 +82514,7 @@
 {"parent": "ModularCurve.test_probe_noJZS", "child": "ModularCurve_ComponentGroup", "via": ["statement"]}
 {"parent": "ModularCurve.test_probe_noJZS", "child": "ModularCurve_LaurentCoeff", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.planar_extension_edge_lower_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.drawable_graph_edge_augmentation", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.drawable_graph_edge_augmentation", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.edge_count_of_maximal_planar_drawing_exact_edge_count", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "FunctionalInequalities.Probability.exists_pos_le_measure_halfspace_of_mem_interior_convexHull_support_readable", "child": "KLSModular_FunctionalInequalities_Probability_ConvexSupport", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.EF5.christoffel_0_00", "child": "Atlas_Core_Basic", "via": ["solution", "statement"]}
@@ -85641,7 +85641,7 @@
 {"parent": "OAIQ034H003", "child": "OAIQ034H000", "via": ["statement"]}
 {"parent": "OAIQ034H003", "child": "OAIQ034H001", "via": ["statement"]}
 {"parent": "OAI.FixedClauseThreshold.Computability.satTrialEvaluation_sound_sat", "child": "OAIQ067A002", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planarDrawingOn_addEdge_when_below_triangulation_count", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planarDrawingOn_addEdge_when_below_triangulation_count", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_18_13_3", "child": "OAIQ047L000", "via": ["solution", "statement"]}
 {"parent": "FunctionalInequalities.Analysis.BakryEmery.integral_inner_fderiv_gradient_tilted_eq_integral_fderiv_mul_readable", "child": "KLSModular_FunctionalInequalities_Analysis_BakryEmery_IntegrationByParts_LipschitzHessian", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared35.right_prefix_001_part01_checked", "child": "D1Bound5_SmallPairLightData35Left_Definitions_001", "via": ["solution", "statement"]}
@@ -89427,7 +89427,7 @@
 {"parent": "D1Bound5.PairGraphPrepared1.indexed_chunk09_checked", "child": "D1Bound5_SmallPairGraphWitnessData1_Definitions_003", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared1.indexed_chunk09_checked", "child": "D1Bound5_PairClosureIndexedChunks_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared1.indexed_chunk09_checked", "child": "D1Bound5_SmallPairGraphInputs1_Definitions_001", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_face_equations_a6cc6ce2_4479_4e22_ad6e_c928f195198d", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_face_equations_a6cc6ce2_4479_4e22_ad6e_c928f195198d", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal_Label5591Joint", "child": "Sensitivity213981Formal_NamespacesComplete", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Label5591Joint", "child": "Sensitivity213981Formal_Label5591Loads", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Label5591Joint", "child": "SensitivitySeparation", "via": ["statement"]}
@@ -98962,7 +98962,7 @@
 {"parent": "FunctionalInequalities.Energy.limsup_enorm_gradient_mollify_le_readable", "child": "KLSModular_FunctionalInequalities_Energy_Euclidean_Slope_Recovery", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.edge_count_lower_from_maximal_planar_drawing_repair_025e7f85", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_supergraph_completion_exact_edge_count__p2m_c3a9b232_8896_4daf_b121_720ec89c3bee_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_maximal_completion", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_maximal_completion", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "BS2_b3ba934b_Cert_40_RawNumerical2", "child": "BS2_b3ba934b_Endpoint40NumericData", "via": ["solution", "statement"]}
 {"parent": "KLSModular_FunctionalInequalities_Probability_Posterior_LogPartition", "child": "KLSModular_FunctionalInequalities_Probability_Posterior_JointRegularity", "via": ["statement"]}
 {"parent": "KLSModular_FunctionalInequalities_Probability_Posterior_LogPartition", "child": "KLSModular_FunctionalInequalities_Analysis_BakryEmery_Cumulant_Basic", "via": ["statement"]}

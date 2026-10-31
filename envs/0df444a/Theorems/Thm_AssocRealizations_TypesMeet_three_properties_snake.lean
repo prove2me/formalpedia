@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssocRealizations_TypesMeet_three_properties_snake
 -- name    : AssocRealizations.TypesMeet.three_properties_snake
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:21.761738+00:00
 -- url     : https://prove2.me/theorems/fd4f5f24-a604-4cb8-8a5f-e371725082fb

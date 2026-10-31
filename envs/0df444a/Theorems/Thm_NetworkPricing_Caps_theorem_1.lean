@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkPricing_Caps_theorem_1
 -- name    : NetworkPricing.Caps.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:16:49.530237+00:00
 -- url     : https://prove2.me/theorems/f7bebf34-619d-4897-bb0b-c44a43292c5c

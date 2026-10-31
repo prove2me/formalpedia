@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptSubCover_Rounds_theorem_3_2
 -- name    : AdaptSubCover.Rounds.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:53.152984+00:00
 -- url     : https://prove2.me/theorems/39fb96e0-ce4d-4cd0-b5ce-cef195e4f104

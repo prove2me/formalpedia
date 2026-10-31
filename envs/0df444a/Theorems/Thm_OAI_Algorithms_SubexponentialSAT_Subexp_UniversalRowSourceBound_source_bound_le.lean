@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_Subexp_UniversalRowSourceBound_source_bound_le
 -- name    : OAI.Algorithms.SubexponentialSAT.Subexp.UniversalRowSourceBound.source_bound_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:01:40.866139+00:00
 -- url     : https://prove2.me/theorems/1bcf1f00-b80f-4ddc-9bbc-6b54ac1d225d

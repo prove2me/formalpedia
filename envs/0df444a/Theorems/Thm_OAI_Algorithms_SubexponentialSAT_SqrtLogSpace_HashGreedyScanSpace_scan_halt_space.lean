@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashGreedyScanSpace_scan_halt_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashGreedyScanSpace.scan_halt_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:46:32.623223+00:00
 -- url     : https://prove2.me/theorems/309c408f-3b0a-4b6d-87ce-3ffc6dcbddcd

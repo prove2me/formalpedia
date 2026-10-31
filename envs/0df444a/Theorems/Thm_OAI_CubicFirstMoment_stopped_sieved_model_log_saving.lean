@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_stopped_sieved_model_log_saving
 -- name    : OAI.CubicFirstMoment.stopped_sieved_model_log_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:09:13.908834+00:00
 -- url     : https://prove2.me/theorems/366e1b87-cbaa-4b6f-9679-016ec27745c7

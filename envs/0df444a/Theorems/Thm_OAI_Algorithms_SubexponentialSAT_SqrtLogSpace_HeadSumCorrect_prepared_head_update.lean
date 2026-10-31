@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadSumCorrect_prepared_head_update
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadSumCorrect.prepared_head_update
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:34:50.990926+00:00
 -- url     : https://prove2.me/theorems/00d53910-3381-4177-b624-c861aea52c74

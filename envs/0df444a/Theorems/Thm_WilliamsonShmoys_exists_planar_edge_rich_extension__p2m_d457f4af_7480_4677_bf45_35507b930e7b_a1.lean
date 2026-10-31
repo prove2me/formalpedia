@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_edge_rich_extension__p2m_d457f4af_7480_4677_bf45_35507b930e7b_a1
 -- name    : WilliamsonShmoys.exists_planar_edge_rich_extension__p2m_d457f4af_7480_4677_bf45_35507b930e7b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:51:26.912832+00:00
 -- url     : https://prove2.me/theorems/2cac5e96-6851-49ac-b8de-d75bb175e3cb

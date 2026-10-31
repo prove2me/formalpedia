@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeHashQueries_accepted_replay
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeHashQueries.accepted_replay
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:29:14.218464+00:00
 -- url     : https://prove2.me/theorems/5e2ee5ea-14f5-441d-bc2b-df10e7d58eb7

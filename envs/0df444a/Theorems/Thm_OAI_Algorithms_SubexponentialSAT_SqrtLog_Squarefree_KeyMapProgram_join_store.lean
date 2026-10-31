@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_Squarefree_KeyMapProgram_join_store
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.Squarefree.KeyMapProgram.join_store
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:40:15.192525+00:00
 -- url     : https://prove2.me/theorems/0ee4b0eb-b0f0-46e6-951b-caced7216878

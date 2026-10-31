@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BrandLicensing_Intensive_eq_A1_A2_inHouse_eq
 -- name    : BrandLicensing.Intensive.eq_A1_A2_inHouse_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:03.341366+00:00
 -- url     : https://prove2.me/theorems/f049cf3a-bd6d-45ad-bd32-b775e02e2871

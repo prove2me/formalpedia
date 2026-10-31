@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeaderStyle_WageFloor_lemma_2
 -- name    : LeaderStyle.WageFloor.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:38:15.038982+00:00
 -- url     : https://prove2.me/theorems/1d7d67d4-eb77-44c0-8d06-b8875fbaa90a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaqueQueue_Equilibrium_best_response_at_zero
 -- name    : OpaqueQueue.Equilibrium.best_response_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:57.850679+00:00
 -- url     : https://prove2.me/theorems/a4f1274e-9f3d-4f9d-9ee0-165ae54c7b07

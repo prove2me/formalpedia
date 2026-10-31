@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafProgram_NodeConcrete_fixedSourceRow_baseline_eq
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafProgram.NodeConcrete.fixedSourceRow_baseline_eq
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:08:31.514894+00:00
 -- url     : https://prove2.me/theorems/570adc52-74c4-446f-bd61-a1dbef05038e

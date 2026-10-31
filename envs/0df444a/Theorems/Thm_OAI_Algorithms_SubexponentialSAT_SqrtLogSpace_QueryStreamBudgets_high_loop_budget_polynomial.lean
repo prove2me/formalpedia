@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryStreamBudgets_high_loop_budget_polynomial
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryStreamBudgets.high_loop_budget_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:37:12.514073+00:00
 -- url     : https://prove2.me/theorems/6d12d453-1d76-459c-aa73-9fb0d8778b20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_total_lead_succ
 -- name    : RoslingAssembly.total_lead_succ
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:43:48.678234+00:00
 -- url     : https://prove2.me/theorems/57acec2b-3acf-4ac6-891a-7349a9eb264a

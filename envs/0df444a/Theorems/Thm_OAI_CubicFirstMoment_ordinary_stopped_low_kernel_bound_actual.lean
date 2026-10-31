@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_ordinary_stopped_low_kernel_bound_actual
 -- name    : OAI.CubicFirstMoment.ordinary_stopped_low_kernel_bound_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:27:36.008447+00:00
 -- url     : https://prove2.me/theorems/4a0be4c1-f624-4d01-904c-d3ef0aa85055

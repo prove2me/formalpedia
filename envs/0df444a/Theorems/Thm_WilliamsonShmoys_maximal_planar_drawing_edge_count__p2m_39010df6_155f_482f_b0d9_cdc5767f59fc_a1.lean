@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_edge_count__p2m_39010df6_155f_482f_b0d9_cdc5767f59fc_a1
 -- name    : WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_39010df6_155f_482f_b0d9_cdc5767f59fc_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:32:21.529339+00:00
 -- url     : https://prove2.me/theorems/e59a889d-669c-414e-8ddd-df780e6fdba8

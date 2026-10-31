@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawable_has_lower_bound_supergraph__p2m_669e4dc4_1d9e_4965_8c14_0e14e949cb06_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:03:40.37371+00:00
 -- url     : https://prove2.me/submissions/027ae2f5-b00d-4e93-8e35-e1acbb95b455
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_exists_edgeMaximal_planar_supergraph_same_vertex__p2m_3ee6bacb_2bd6_4aaa_b06f_7ea404afd915_a1

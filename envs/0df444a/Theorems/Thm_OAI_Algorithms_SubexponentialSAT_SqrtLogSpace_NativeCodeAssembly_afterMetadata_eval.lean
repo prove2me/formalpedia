@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeCodeAssembly_afterMetadata_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeCodeAssembly.afterMetadata_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:19:57.80861+00:00
 -- url     : https://prove2.me/theorems/95320165-1a52-4350-aaa8-6cac0724940f

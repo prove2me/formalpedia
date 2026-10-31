@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceRobust_Stability_theorem_2
 -- name    : PriceRobust.Stability.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:17:19.36832+00:00
 -- url     : https://prove2.me/theorems/52172895-e6cd-4a40-ad37-f332604bc84a

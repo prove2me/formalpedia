@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Bridge50_P24_highLoss_envelope
 -- name    : QAlgorithms.Papers.Independent.Bridge50.P24.highLoss_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T15:35:12.375884+00:00
 -- url     : https://prove2.me/theorems/3a0c1535-9711-4b9d-832d-8683f2314ee7

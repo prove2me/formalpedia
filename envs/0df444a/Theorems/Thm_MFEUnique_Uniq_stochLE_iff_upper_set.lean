@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFEUnique_Uniq_stochLE_iff_upper_set
 -- name    : MFEUnique.Uniq.stochLE_iff_upper_set
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:19:49.507354+00:00
 -- url     : https://prove2.me/theorems/3fa6dd44-5539-45ab-b768-956b49db2e13

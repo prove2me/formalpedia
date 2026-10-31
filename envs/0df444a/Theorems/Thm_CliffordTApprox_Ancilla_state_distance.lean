@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliffordTApprox_Ancilla_state_distance
 -- name    : CliffordTApprox.Ancilla.state_distance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:29:51.067542+00:00
 -- url     : https://prove2.me/theorems/bfe6c9c6-8fb3-49ed-affb-437e8df058c9

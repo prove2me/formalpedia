@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_PerturbationAssembly_loadCoordinate_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.PerturbationAssembly.loadCoordinate_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:36:35.546303+00:00
 -- url     : https://prove2.me/theorems/30b50948-216c-49a5-b38c-0f808b89d817

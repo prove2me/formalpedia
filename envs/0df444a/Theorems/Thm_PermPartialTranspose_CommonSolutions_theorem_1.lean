@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermPartialTranspose_CommonSolutions_theorem_1
 -- name    : PermPartialTranspose.CommonSolutions.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T09:29:37.870359+00:00
 -- url     : https://prove2.me/theorems/269e2773-fd1d-4c0c-b0ad-dce3bd4d5346

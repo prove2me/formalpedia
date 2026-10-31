@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FramingFulfillment_RFF_lemma_2
 -- name    : FramingFulfillment.RFF.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:38.91259+00:00
 -- url     : https://prove2.me/theorems/f207704c-a06a-4564-ae05-bd8e58eeb46b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_Stationary_lemma21
 -- name    : NegativeDP.Stationary.lemma21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:54:29.968446+00:00
 -- url     : https://prove2.me/theorems/e290cb86-6797-44ae-91c3-da3bc7de76b0

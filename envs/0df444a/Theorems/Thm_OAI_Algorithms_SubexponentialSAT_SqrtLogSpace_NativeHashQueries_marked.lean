@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeHashQueries_marked
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeHashQueries.marked
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:29:33.16812+00:00
 -- url     : https://prove2.me/theorems/70b1593f-8370-4842-8ddd-c6f0bb927b6e

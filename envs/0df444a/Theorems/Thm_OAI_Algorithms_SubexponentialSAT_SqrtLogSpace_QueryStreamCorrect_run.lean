@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryStreamCorrect_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryStreamCorrect.run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:35:19.648986+00:00
 -- url     : https://prove2.me/theorems/05aa81ec-7f39-41fc-a39a-84281caf9411

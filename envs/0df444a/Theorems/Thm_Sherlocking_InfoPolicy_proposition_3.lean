@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherlocking_InfoPolicy_proposition_3
 -- name    : Sherlocking.InfoPolicy.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:23.422548+00:00
 -- url     : https://prove2.me/theorems/0b581587-7ca6-4b0b-812c-a071c60821d8

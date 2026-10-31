@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafParametersProgram_FrontendBounds_inputEnvelope_poly
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafParametersProgram.FrontendBounds.inputEnvelope_poly
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:49:39.004021+00:00
 -- url     : https://prove2.me/theorems/840e6dc0-c800-48dc-a4e1-d18ed489cd9b

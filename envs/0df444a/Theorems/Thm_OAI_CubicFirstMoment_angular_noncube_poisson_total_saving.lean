@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_noncube_poisson_total_saving
 -- name    : OAI.CubicFirstMoment.angular_noncube_poisson_total_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:18:27.438498+00:00
 -- url     : https://prove2.me/theorems/b524ae07-2bb1-4015-a4d3-b26c6991d736

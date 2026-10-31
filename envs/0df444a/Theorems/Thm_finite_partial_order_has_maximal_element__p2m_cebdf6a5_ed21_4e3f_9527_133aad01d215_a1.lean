@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_partial_order_has_maximal_element__p2m_cebdf6a5_ed21_4e3f_9527_133aad01d215_a1
 -- name    : finite_partial_order_has_maximal_element__p2m_cebdf6a5_ed21_4e3f_9527_133aad01d215_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:44:17.569978+00:00
 -- url     : https://prove2.me/theorems/d1297ff7-bcb4-4e53-a20a-c13d7f55d923

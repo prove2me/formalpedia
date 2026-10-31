@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadSumSpace_seed_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadSumSpace.seed_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:18:00.665927+00:00
 -- url     : https://prove2.me/theorems/ef98b7a8-7ace-4927-aaee-bd52a86b1706

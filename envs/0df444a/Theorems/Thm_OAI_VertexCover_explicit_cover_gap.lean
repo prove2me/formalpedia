@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_VertexCover_explicit_cover_gap
 -- name    : OAI.VertexCover.explicit_cover_gap
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:37.777301+00:00
 -- url     : https://prove2.me/theorems/1e30fcc6-f02e-4870-8379-7efc165e9fef

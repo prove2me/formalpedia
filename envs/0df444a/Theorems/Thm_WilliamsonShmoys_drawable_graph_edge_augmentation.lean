@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_edge_augmentation
 -- name    : WilliamsonShmoys.drawable_graph_edge_augmentation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:14:20.674865+00:00
 -- url     : https://prove2.me/theorems/b1d5eb3b-0579-47bb-a5d6-42c62faa74a4

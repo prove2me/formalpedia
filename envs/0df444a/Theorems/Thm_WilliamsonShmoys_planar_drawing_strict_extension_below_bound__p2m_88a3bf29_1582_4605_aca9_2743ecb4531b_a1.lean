@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_strict_extension_below_bound__p2m_88a3bf29_1582_4605_aca9_2743ecb4531b_a1
 -- name    : WilliamsonShmoys.planar_drawing_strict_extension_below_bound__p2m_88a3bf29_1582_4605_aca9_2743ecb4531b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:20:37.650738+00:00
 -- url     : https://prove2.me/theorems/326c8e6c-2fee-4ab9-b71e-76b7c3f2eeb5

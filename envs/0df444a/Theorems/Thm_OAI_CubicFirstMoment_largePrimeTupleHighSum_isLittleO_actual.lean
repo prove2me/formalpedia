@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_largePrimeTupleHighSum_isLittleO_actual
 -- name    : OAI.CubicFirstMoment.largePrimeTupleHighSum_isLittleO_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:41:51.111607+00:00
 -- url     : https://prove2.me/theorems/8e847ded-1f82-4b5d-94e8-0861051da8f2

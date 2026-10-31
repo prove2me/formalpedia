@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_dp_correctness
 -- name    : FBMSP.dp_correctness
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T04:57:23.261548+00:00
 -- url     : https://prove2.me/theorems/e7f7ea65-42dd-46d6-91a9-80c369a5c3ff

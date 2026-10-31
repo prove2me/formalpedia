@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SignatureTupleRun_nonleaf_iteration_masterFrame
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SignatureTupleRun.nonleaf_iteration_masterFrame
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:23:04.154427+00:00
 -- url     : https://prove2.me/theorems/2f94b7c2-25ca-4fc1-83c4-8ce7695014ba

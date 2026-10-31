@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadAcceptedProgram_register_frame
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadAcceptedProgram.register_frame
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:12:46.400673+00:00
 -- url     : https://prove2.me/theorems/5f884228-99a7-4013-9bf9-ce35f7384fc0

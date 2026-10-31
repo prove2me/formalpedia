@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusableAssort_Hybrid_theorem_1
 -- name    : ReusableAssort.Hybrid.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:30:10.419615+00:00
 -- url     : https://prove2.me/theorems/e16390ee-dd43-4fff-80cf-ed5875b70d93

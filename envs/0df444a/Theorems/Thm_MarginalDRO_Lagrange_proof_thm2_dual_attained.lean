@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalDRO_Lagrange_proof_thm2_dual_attained
 -- name    : MarginalDRO.Lagrange.proof_thm2_dual_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:48.294995+00:00
 -- url     : https://prove2.me/theorems/d20125b9-934c-4481-8642-8922ce0060ef

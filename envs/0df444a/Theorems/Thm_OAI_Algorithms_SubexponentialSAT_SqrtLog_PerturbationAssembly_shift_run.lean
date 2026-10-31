@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_PerturbationAssembly_shift_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.PerturbationAssembly.shift_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:08:33.972825+00:00
 -- url     : https://prove2.me/theorems/008ec87f-bca7-4567-a281-cd25aca8bd66

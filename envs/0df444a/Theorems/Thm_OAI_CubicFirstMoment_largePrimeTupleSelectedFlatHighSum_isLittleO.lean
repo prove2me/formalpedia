@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_largePrimeTupleSelectedFlatHighSum_isLittleO
 -- name    : OAI.CubicFirstMoment.largePrimeTupleSelectedFlatHighSum_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:42:25.234973+00:00
 -- url     : https://prove2.me/theorems/0f64a245-18ae-40f2-aab0-eaa309da23f8

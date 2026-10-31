@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_stopped_divisor_noncube_total
 -- name    : OAI.CubicFirstMoment.stopped_divisor_noncube_total
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:28:59.723555+00:00
 -- url     : https://prove2.me/theorems/e11c2da7-e5bf-46a7-8ead-d414541731cc

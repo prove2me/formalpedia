@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryKeptFrame_trace_interval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryKeptFrame.trace_interval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:32:18.042845+00:00
 -- url     : https://prove2.me/theorems/14d3b056-e32c-4d10-a6ea-d17debd5bff7

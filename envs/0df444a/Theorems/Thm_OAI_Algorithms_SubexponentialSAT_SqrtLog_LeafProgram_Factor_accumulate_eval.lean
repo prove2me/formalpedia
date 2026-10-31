@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafProgram_Factor_accumulate_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafProgram.Factor.accumulate_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:03:40.99944+00:00
 -- url     : https://prove2.me/theorems/51b77a66-a2cd-4035-ad9d-11f95990b1b5

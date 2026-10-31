@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_exact_count_and_sat
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-28T10:03:32.838924+00:00
 -- url     : https://prove2.me/theorems/9aa98d97-9bcd-4e64-bc34-9d306543c2a7

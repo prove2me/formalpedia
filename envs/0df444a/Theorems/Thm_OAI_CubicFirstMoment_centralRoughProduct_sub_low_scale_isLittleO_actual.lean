@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_centralRoughProduct_sub_low_scale_isLittleO_actual
 -- name    : OAI.CubicFirstMoment.centralRoughProduct_sub_low_scale_isLittleO_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:37:30.141383+00:00
 -- url     : https://prove2.me/theorems/bdaba30c-7016-4cff-9fd5-5df6ccbdf730

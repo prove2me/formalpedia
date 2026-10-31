@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_extension_same_vertices__p2m_5db777ea_26b2_4b9c_844f_64ae8eedcb74_a1
 -- name    : WilliamsonShmoys.planar_triangulation_extension_same_vertices__p2m_5db777ea_26b2_4b9c_844f_64ae8eedcb74_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:20:17.698991+00:00
 -- url     : https://prove2.me/theorems/5aab7b66-88f9-4907-8957-a5a3c4b4addc

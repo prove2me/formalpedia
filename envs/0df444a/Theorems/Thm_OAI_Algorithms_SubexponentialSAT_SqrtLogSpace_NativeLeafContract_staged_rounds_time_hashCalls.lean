@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeLeafContract_staged_rounds_time_hashCalls
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeLeafContract.staged_rounds_time_hashCalls
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:40:47.952845+00:00
 -- url     : https://prove2.me/theorems/fd29aab9-4f10-4901-a22c-d5e12a6de174

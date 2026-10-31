@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexLearning_Threshold_vF_branch_one
 -- name    : FlexLearning.Threshold.vF_branch_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:04.54199+00:00
 -- url     : https://prove2.me/theorems/46dfb638-7abe-43d5-93fb-b4934093cf8e

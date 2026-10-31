@@ -1,0 +1,118 @@
+-- Prove2me | Theorems.Thm_MarkovProcess_LifetimePath_exists_coordinate_eq_alive_of_lt_exitTime
+-- name    : MarkovProcess.LifetimePath.exists_coordinate_eq_alive_of_lt_exitTime
+-- status  : Proved
+-- author  : @WillR
+-- created : 2026-10-30T08:32:37.712985+00:00
+-- url     : https://prove2.me/theorems/948238e6-d2c3-4af7-9226-2b12aa029e58
+-- title:
+--   MarkovProcess: exists_coordinate_eq_alive_of_lt_exitTime
+-- statement:
+--   Source-faithful Lean theorem from Scott Armstrong's MarkovProcess formalisation. The exact hypotheses and mathematical conclusion appear in the formal statement.
+-- source:
+--   https://github.com/scottnarmstrong/MarkovProcess/tree/1f8060caa137731fa08029592019eeaf9d997fe5
+
+import Definitions.Def_MarkovProcess_V3H_Lifetime_Basic_6f1c513f
+import Definitions.Def_MarkovProcess_V3H_Lifetime_ExitTime_a7b75085
+import Mathlib.MeasureTheory.Constructions.Polish.Basic
+import Mathlib.Probability.Kernel.Composition.Comp
+import Mathlib.Probability.Kernel.Composition.MapComap
+import Mathlib.Probability.Process.Filtration
+import Mathlib.Topology.CompactOpen
+import Mathlib.Topology.Constructions.SumProd
+
+/-
+Copyright (c) 2026 Scott Armstrong. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Scott Armstrong
+-/
+
+/-!
+# Exit times of lifetime paths
+
+This file defines the first time at which a lifetime path is not a live point of a prescribed
+set. Reaching the cemetery state counts as exit. The infimum of the empty set is infinity, so a
+path which never exits has infinite exit time.
+
+Only deterministic order properties are proved here. No measurability or stopping-time claim is
+made.
+-/
+
+open Set
+open scoped ENNReal
+
+namespace MarkovProcess
+
+noncomputable section
+
+namespace LifetimePath
+
+variable {alpha : Type*} [TopologicalSpace alpha]
+
+
+
+
+
+
+
+
+
+end LifetimePath
+
+namespace ContinuousPath
+
+variable {alpha : Type*} [TopologicalSpace alpha]
+
+
+
+end ContinuousPath
+
+namespace LifetimePath
+
+variable {alpha : Type*} [TopologicalSpace alpha]
+
+
+
+
+
+end LifetimePath
+
+end
+end MarkovProcess
+
+
+open MarkovProcess
+open MarkovProcess.LifetimePath
+/-
+Copyright (c) 2026 Scott Armstrong. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Scott Armstrong
+-/
+
+/-!
+# Exit times of lifetime paths
+
+This file defines the first time at which a lifetime path is not a live point of a prescribed
+set. Reaching the cemetery state counts as exit. The infimum of the empty set is infinity, so a
+path which never exits has infinite exit time.
+
+Only deterministic order properties are proved here. No measurability or stopping-time claim is
+made.
+-/
+
+open Set
+open scoped ENNReal
+
+
+
+
+variable {alpha : Type*} [TopologicalSpace alpha]
+
+
+
+
+
+open MarkovProcess.LifetimePath in
+
+theorem MarkovProcess.LifetimePath.exists_coordinate_eq_alive_of_lt_exitTime (U : Set alpha)
+    (omega : LifetimePath alpha) (t : NNReal) (ht : (t : ENNReal) < exitTime U omega) :
+    ∃ x ∈ U, coordinate t omega = Cemetery.alive x := by sorry

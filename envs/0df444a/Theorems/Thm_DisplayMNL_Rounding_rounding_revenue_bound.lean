@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisplayMNL_Rounding_rounding_revenue_bound
 -- name    : DisplayMNL.Rounding.rounding_revenue_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:31:05.066009+00:00
 -- url     : https://prove2.me/theorems/c593e5a7-979d-48e6-8ff4-065c1fba4e1c

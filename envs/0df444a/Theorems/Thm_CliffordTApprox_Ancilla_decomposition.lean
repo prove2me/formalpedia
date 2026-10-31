@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliffordTApprox_Ancilla_decomposition
 -- name    : CliffordTApprox.Ancilla.decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:29:30.757017+00:00
 -- url     : https://prove2.me/theorems/0de69b1d-f460-4ae9-806f-b966f98df4ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleAuctionEff_Repeated_assumption5_le_radius
 -- name    : DoubleAuctionEff.Repeated.assumption5_le_radius
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:22:01.225987+00:00
 -- url     : https://prove2.me/theorems/dcc4c262-1fa1-41b0-84e2-2ae0c885cbbe

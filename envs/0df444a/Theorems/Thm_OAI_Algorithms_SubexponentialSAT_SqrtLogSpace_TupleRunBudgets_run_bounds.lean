@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_TupleRunBudgets_run_bounds
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.TupleRunBudgets.run_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:24:29.364114+00:00
 -- url     : https://prove2.me/theorems/8f7ca2bc-799d-475f-979a-6910ba03d03b

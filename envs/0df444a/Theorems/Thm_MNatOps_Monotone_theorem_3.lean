@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNatOps_Monotone_theorem_3
 -- name    : MNatOps.Monotone.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:20.356874+00:00
 -- url     : https://prove2.me/theorems/529c8d30-b605-4849-befe-fbdce64a07b0

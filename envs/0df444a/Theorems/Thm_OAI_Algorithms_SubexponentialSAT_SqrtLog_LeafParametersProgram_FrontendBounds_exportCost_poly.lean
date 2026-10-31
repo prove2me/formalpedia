@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafParametersProgram_FrontendBounds_exportCost_poly
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafParametersProgram.FrontendBounds.exportCost_poly
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:48:52.28693+00:00
 -- url     : https://prove2.me/theorems/1e1a294e-4d09-4ef2-9bf8-19ecfa3530c5

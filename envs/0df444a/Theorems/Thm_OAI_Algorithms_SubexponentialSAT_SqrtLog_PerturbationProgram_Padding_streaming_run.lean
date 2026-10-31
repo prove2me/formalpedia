@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_PerturbationProgram_Padding_streaming_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.PerturbationProgram.Padding.streaming_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:08:08.746012+00:00
 -- url     : https://prove2.me/theorems/d1d10991-8a49-47e0-80f1-0a7e49fa4657

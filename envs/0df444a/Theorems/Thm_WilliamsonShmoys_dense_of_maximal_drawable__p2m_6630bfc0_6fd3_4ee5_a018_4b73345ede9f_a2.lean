@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_dense_of_maximal_drawable__p2m_6630bfc0_6fd3_4ee5_a018_4b73345ede9f_a2
 -- name    : WilliamsonShmoys.dense_of_maximal_drawable__p2m_6630bfc0_6fd3_4ee5_a018_4b73345ede9f_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:43:23.230106+00:00
 -- url     : https://prove2.me/theorems/6f64e769-ed8d-4f23-84ce-0685c66257bc

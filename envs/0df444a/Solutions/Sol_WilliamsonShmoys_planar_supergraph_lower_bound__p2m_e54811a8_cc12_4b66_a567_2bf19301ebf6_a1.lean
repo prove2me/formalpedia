@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_supergraph_lower_bound__p2m_e54811a8_cc12_4b66_a567_2bf19301ebf6_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:20:17.943025+00:00
 -- url     : https://prove2.me/submissions/8411d840-3608-4469-923b-5aaf26992040
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

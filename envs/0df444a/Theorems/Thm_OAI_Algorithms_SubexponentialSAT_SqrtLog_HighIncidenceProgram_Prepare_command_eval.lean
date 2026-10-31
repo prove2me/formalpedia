@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_HighIncidenceProgram_Prepare_command_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.HighIncidenceProgram.Prepare.command_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:29:08.374122+00:00
 -- url     : https://prove2.me/theorems/d2cf8367-7ac9-4d91-97d4-c008d3dd1299

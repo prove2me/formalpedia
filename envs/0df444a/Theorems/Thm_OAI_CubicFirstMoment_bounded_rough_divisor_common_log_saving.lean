@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_bounded_rough_divisor_common_log_saving
 -- name    : OAI.CubicFirstMoment.bounded_rough_divisor_common_log_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:23:41.640429+00:00
 -- url     : https://prove2.me/theorems/1857e75b-ed60-418f-bebf-a673247c7c4a

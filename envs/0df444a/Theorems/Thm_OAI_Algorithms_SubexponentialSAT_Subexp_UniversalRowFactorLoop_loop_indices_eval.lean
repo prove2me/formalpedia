@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_Subexp_UniversalRowFactorLoop_loop_indices_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.Subexp.UniversalRowFactorLoop.loop_indices_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:22:51.9085+00:00
 -- url     : https://prove2.me/theorems/7c2f5044-4176-46b8-b56b-720a7746faa8

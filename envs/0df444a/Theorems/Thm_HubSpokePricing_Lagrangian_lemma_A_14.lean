@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HubSpokePricing_Lagrangian_lemma_A_14
 -- name    : HubSpokePricing.Lagrangian.lemma_A_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:31:30.561512+00:00
 -- url     : https://prove2.me/theorems/a84af385-157c-44cf-b0b9-a9bc3ed32751

@@ -361,7 +361,6 @@
 {"parent": "BookProof.SmHamiltonian.smPi_symmetricOn", "child": "ChapterSmOneParticle", "via": ["solution", "statement"]}
 {"parent": "BookProof.SmHamiltonian.smPi_symmetricOn", "child": "ChapterYangMillsFriedrichs", "via": ["solution", "statement"]}
 {"parent": "BookProof.SmHamiltonian.smPi_symmetricOn", "child": "ChapterYangMillsHermite", "via": ["solution", "statement"]}
-{"parent": "BookProof.SmHamiltonian.sm_friedrichs_extension", "child": "BookProof.FriedrichsExtension.friedrichs_extension_exists", "via": ["solution"]}
 {"parent": "BookProof.SmHamiltonian.sm_friedrichs_extension", "child": "BookProof.SmHamiltonian.smHamiltonian_quadForm_nonneg", "via": ["solution"]}
 {"parent": "BookProof.SmHamiltonian.sm_friedrichs_extension", "child": "BookProof.SmHamiltonian.smHamiltonian_symmetricOn", "via": ["solution"]}
 {"parent": "BookProof.SmHamiltonian.sm_friedrichs_extension", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
@@ -80609,8 +80608,8 @@
 {"parent": "CurvatureSubmod.LocalSearch.lemma_A_1", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.local_opt_bound", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.local_opt_bound", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
-{"parent": "CurvatureSubmod.LocalSearch.theorem_6_1_local_opt", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["statement"]}
-{"parent": "CurvatureSubmod.LocalSearch.theorem_6_1_local_opt", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
+{"parent": "CurvatureSubmod.LocalSearch.theorem_6_1_local_opt", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["solution", "statement"]}
+{"parent": "CurvatureSubmod.LocalSearch.theorem_6_1_local_opt", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod_CSSP_Setting", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["statement"]}
 {"parent": "CurvatureSubmod_LocalSearch_Setting", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
 {"parent": "CurveSymmetry.affineLinePoint_range", "child": "CurveSymmetry_01_RealLoci", "via": ["solution", "statement"]}
@@ -98257,9 +98256,9 @@
 {"parent": "ErlangA.Staffing.stationary_limit", "child": "DimCallCenters_Rationalized_delayFn", "via": ["statement"]}
 {"parent": "ErlangA.Staffing.stationary_limit", "child": "ErlangA_Staffing_Model", "via": ["statement"]}
 {"parent": "ErlangA.Staffing.stationary_limit", "child": "KellyStochasticNetworks_Erlang", "via": ["statement"]}
-{"parent": "ErlangA.Staffing.theorem_4", "child": "DimCallCenters_Rationalized_delayFn", "via": ["statement"]}
-{"parent": "ErlangA.Staffing.theorem_4", "child": "ErlangA_Staffing_Model", "via": ["statement"]}
-{"parent": "ErlangA.Staffing.theorem_4", "child": "KellyStochasticNetworks_Erlang", "via": ["statement"]}
+{"parent": "ErlangA.Staffing.theorem_4", "child": "DimCallCenters_Rationalized_delayFn", "via": ["solution", "statement"]}
+{"parent": "ErlangA.Staffing.theorem_4", "child": "ErlangA_Staffing_Model", "via": ["solution", "statement"]}
+{"parent": "ErlangA.Staffing.theorem_4", "child": "KellyStochasticNetworks_Erlang", "via": ["solution", "statement"]}
 {"parent": "ErlangA_Diffusion_Queue", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
 {"parent": "ErlangA_Diffusion_Queue", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
 {"parent": "ErlangA_Staffing_Model", "child": "DimCallCenters_Rationalized_delayFn", "via": ["statement"]}
@@ -98366,9 +98365,9 @@
 {"parent": "ErrBoundCplx.Cplx.eq_27", "child": "ErrBoundCplx_Cplx_WorstCase", "via": ["statement"]}
 {"parent": "ErrBoundCplx.Cplx.eq_27", "child": "MoreauProx_Characterization_GammaZero", "via": ["statement"]}
 {"parent": "ErrBoundCplx.Cplx.eq_27", "child": "NonconvexSplitting_ADMMKL_KLProperty", "via": ["statement"]}
-{"parent": "ErrBoundCplx.Cplx.theorem_14", "child": "ErrBoundCplx_Cplx_DescentSeq", "via": ["statement"]}
-{"parent": "ErrBoundCplx.Cplx.theorem_14", "child": "MoreauProx_Characterization_GammaZero", "via": ["statement"]}
-{"parent": "ErrBoundCplx.Cplx.theorem_14", "child": "NonconvexSplitting_ADMMKL_KLProperty", "via": ["statement"]}
+{"parent": "ErrBoundCplx.Cplx.theorem_14", "child": "ErrBoundCplx_Cplx_DescentSeq", "via": ["solution", "statement"]}
+{"parent": "ErrBoundCplx.Cplx.theorem_14", "child": "MoreauProx_Characterization_GammaZero", "via": ["solution", "statement"]}
+{"parent": "ErrBoundCplx.Cplx.theorem_14", "child": "NonconvexSplitting_ADMMKL_KLProperty", "via": ["solution", "statement"]}
 {"parent": "ErrBoundCplx.Cplx.theorem_16", "child": "ErrBoundCplx_Cplx_DescentSeq", "via": ["solution", "statement"]}
 {"parent": "ErrBoundCplx.Cplx.theorem_16", "child": "ErrBoundCplx_Cplx_WorstCase", "via": ["solution", "statement"]}
 {"parent": "ErrBoundCplx.Cplx.theorem_16", "child": "MoreauProx_Characterization_GammaZero", "via": ["solution", "statement"]}

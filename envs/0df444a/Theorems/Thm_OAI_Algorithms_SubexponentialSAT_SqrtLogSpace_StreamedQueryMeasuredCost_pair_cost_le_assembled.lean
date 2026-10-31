@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_StreamedQueryMeasuredCost_pair_cost_le_assembled
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.StreamedQueryMeasuredCost.pair_cost_le_assembled
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:24:03.826887+00:00
 -- url     : https://prove2.me/theorems/192a8964-f3f1-4934-a0f6-604c433370c0

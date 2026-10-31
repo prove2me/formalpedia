@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_NucNorm_isLUB_traceInner_nucNorm_le_one
 -- name    : WainwrightHDS.NucNorm.isLUB_traceInner_nucNorm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:32:48.393894+00:00
 -- url     : https://prove2.me/theorems/8fc86c8e-3e44-474d-915f-3514c782e7e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFEUnique_Uniq_theorem_1
 -- name    : MFEUnique.Uniq.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:09.477465+00:00
 -- url     : https://prove2.me/theorems/b20806e6-ae08-4d11-b35b-d71beff3732e

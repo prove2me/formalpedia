@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PegProtect_Equilibrium_boundary
 -- name    : PegProtect.Equilibrium.boundary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:33:25.100763+00:00
 -- url     : https://prove2.me/theorems/663fac3c-4550-440a-a973-8c6f78f3dc44

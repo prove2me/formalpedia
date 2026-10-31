@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_FlowStability_stability_iff
 -- name    : KellyStochasticNetworks.FlowStability.stability_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:50:27.587709+00:00
 -- url     : https://prove2.me/theorems/6a1a5e0f-5a53-4402-bed4-edb655b81add

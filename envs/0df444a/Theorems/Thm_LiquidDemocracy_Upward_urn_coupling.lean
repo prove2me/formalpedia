@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidDemocracy_Upward_urn_coupling
 -- name    : LiquidDemocracy.Upward.urn_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:15.682628+00:00
 -- url     : https://prove2.me/theorems/de1def5c-a506-45bb-bd33-58ddd05ba448

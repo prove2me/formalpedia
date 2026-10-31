@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_edge_count_retry_646b0e38_maximal_edge_lower_bound
 -- name    : WilliamsonShmoys.maximal_planar_drawing_edge_count_retry_646b0e38_maximal_edge_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T15:52:27.608865+00:00
 -- url     : https://prove2.me/theorems/e29ddb77-af7c-493b-bb1f-b58c0e8e4803

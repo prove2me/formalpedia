@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_primeGroupTail_coprime_mellin_height_power
 -- name    : OAI.CubicFirstMoment.primeGroupTail_coprime_mellin_height_power
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:43:12.024434+00:00
 -- url     : https://prove2.me/theorems/f447b350-3c8c-4e9e-9a93-d70684748110

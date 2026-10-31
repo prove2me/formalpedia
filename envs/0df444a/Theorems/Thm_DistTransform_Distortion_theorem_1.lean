@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistTransform_Distortion_theorem_1
 -- name    : DistTransform.Distortion.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:27.832661+00:00
 -- url     : https://prove2.me/theorems/26783b41-b99f-4ec5-9503-3f696fb1361b

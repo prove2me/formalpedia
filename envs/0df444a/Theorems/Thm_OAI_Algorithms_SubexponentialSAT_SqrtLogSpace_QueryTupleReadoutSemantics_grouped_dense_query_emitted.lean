@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryTupleReadoutSemantics_grouped_dense_query_emitted
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryTupleReadoutSemantics.grouped_dense_query_emitted
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:21:35.371991+00:00
 -- url     : https://prove2.me/theorems/144fbd72-bfa1-4cef-aa55-b4345e765ca9

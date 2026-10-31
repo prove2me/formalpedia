@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_PerturbationAssembly_LowInput_run_polynomial
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.PerturbationAssembly.LowInput.run_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:54:58.83615+00:00
 -- url     : https://prove2.me/theorems/c3e6e1d9-3129-46bc-b98d-0b164cec4e69

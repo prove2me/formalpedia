@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_three_vertex_outgoing_dart_fiber_card__p2m_551112cf_8b4c_4517_8603_726684976d71_a2
 -- name    : WilliamsonShmoys.three_vertex_outgoing_dart_fiber_card__p2m_551112cf_8b4c_4517_8603_726684976d71_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T22:22:13.900567+00:00
 -- url     : https://prove2.me/theorems/fb78d323-b464-4900-9593-58dbdf77951b

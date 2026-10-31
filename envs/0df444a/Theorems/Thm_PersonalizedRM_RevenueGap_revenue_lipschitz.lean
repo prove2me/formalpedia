@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedRM_RevenueGap_revenue_lipschitz
 -- name    : PersonalizedRM.RevenueGap.revenue_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:33:01.129336+00:00
 -- url     : https://prove2.me/theorems/f33187e9-3133-4ffe-b55f-343b67501c6b

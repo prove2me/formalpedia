@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_expDecay_of_dbar_expDecay
 -- name    : FiniteEnergyPlane.expDecay_of_dbar_expDecay
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-29T21:31:59.213069+00:00
 -- url     : https://prove2.me/theorems/3f8c98e0-d1b5-493d-8801-689aca09266a

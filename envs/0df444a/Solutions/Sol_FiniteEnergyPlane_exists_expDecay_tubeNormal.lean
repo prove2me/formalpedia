@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.exists_expDecay_tubeNormal
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-29T21:58:18.750659+00:00
 -- url     : https://prove2.me/submissions/436bc020-999a-4588-a55f-5a833ab2ffb3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_Asymptotics
 import Theorems.Thm_FiniteEnergyPlane_asympOp_frame_bridge

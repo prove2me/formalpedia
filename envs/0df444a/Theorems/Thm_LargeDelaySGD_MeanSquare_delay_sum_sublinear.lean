@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeDelaySGD_MeanSquare_delay_sum_sublinear
 -- name    : LargeDelaySGD.MeanSquare.delay_sum_sublinear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:47.498438+00:00
 -- url     : https://prove2.me/theorems/edfe30de-5c8d-4a3b-9e98-1d557d4a32bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryPairEvaluation_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryPairEvaluation.run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:34:20.039907+00:00
 -- url     : https://prove2.me/theorems/fdf4d636-8da5-4a1a-9b70-aef84b750cba

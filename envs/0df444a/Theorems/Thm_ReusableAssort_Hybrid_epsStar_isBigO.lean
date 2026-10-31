@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusableAssort_Hybrid_epsStar_isBigO
 -- name    : ReusableAssort.Hybrid.epsStar_isBigO
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:27:46.863851+00:00
 -- url     : https://prove2.me/theorems/4de86d16-dda8-4ccf-b9ec-c1980890bb23

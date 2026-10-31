@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriorityAlloc_DAFlex_demand_monotone
 -- name    : PriorityAlloc.DAFlex.demand_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:39:12.902374+00:00
 -- url     : https://prove2.me/theorems/3f8ceef4-8829-497d-89b6-2d332b52788f

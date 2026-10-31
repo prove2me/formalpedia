@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_UniformLogWeights_cubicTheta_completed_signed_angular_mean
 -- name    : OAI.CubicFirstMoment.UniformLogWeights.cubicTheta_completed_signed_angular_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:52:48.651963+00:00
 -- url     : https://prove2.me/theorems/a0878dfc-562b-481b-ab16-1b58566892c0

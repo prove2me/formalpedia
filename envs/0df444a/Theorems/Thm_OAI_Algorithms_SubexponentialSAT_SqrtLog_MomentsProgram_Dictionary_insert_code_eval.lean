@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_MomentsProgram_Dictionary_insert_code_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.MomentsProgram.Dictionary.insert_code_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:35:29.90523+00:00
 -- url     : https://prove2.me/theorems/0cf0e6ed-9cae-483c-844b-1a0b9a7cdc95

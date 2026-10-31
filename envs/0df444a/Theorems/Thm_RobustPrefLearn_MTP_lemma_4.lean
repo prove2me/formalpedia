@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPrefLearn_MTP_lemma_4
 -- name    : RobustPrefLearn.MTP.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:11.856363+00:00
 -- url     : https://prove2.me/theorems/80264de6-8dd4-400d-9c64-f3c255843aa1

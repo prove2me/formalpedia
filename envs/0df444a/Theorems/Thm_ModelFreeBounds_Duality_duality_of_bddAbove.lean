@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModelFreeBounds_Duality_duality_of_bddAbove
 -- name    : ModelFreeBounds.Duality.duality_of_bddAbove
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:27.567454+00:00
 -- url     : https://prove2.me/theorems/b667c2f0-f6d6-461b-baae-2fda624f0df2

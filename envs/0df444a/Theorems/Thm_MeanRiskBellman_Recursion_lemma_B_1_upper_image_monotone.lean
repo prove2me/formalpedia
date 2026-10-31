@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanRiskBellman_Recursion_lemma_B_1_upper_image_monotone
 -- name    : MeanRiskBellman.Recursion.lemma_B_1_upper_image_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:37.691758+00:00
 -- url     : https://prove2.me/theorems/d6422d09-3467-4e05-8e76-7c51dc29018f

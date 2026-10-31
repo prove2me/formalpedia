@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeLargeEntry_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeLargeEntry.run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:30:19.098117+00:00
 -- url     : https://prove2.me/theorems/c5b9242f-eff3-4191-9bfe-16dfd7806375

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineCensoredPricing_Identifiability_proposition_3
 -- name    : OfflineCensoredPricing.Identifiability.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:32:34.900831+00:00
 -- url     : https://prove2.me/theorems/baba6d5e-854a-4e69-910a-8a5c33459ed8

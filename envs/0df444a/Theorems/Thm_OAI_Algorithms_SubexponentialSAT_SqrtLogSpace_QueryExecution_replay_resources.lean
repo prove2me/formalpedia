@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryExecution_replay_resources
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryExecution.replay_resources
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:17:30.497127+00:00
 -- url     : https://prove2.me/theorems/1998e738-e93b-4cd7-9279-3a7df1b8afe5

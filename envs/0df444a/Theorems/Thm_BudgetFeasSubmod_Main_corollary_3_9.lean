@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetFeasSubmod_Main_corollary_3_9
 -- name    : BudgetFeasSubmod.Main.corollary_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:31:04.914163+00:00
 -- url     : https://prove2.me/theorems/32da53b3-2c07-4084-aa71-250632be72f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCPSeqOpt_AugLag_theorem_4_1
 -- name    : NCPSeqOpt.AugLag.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:14.582915+00:00
 -- url     : https://prove2.me/theorems/5188e748-794a-491c-97cf-35bc8c14702b

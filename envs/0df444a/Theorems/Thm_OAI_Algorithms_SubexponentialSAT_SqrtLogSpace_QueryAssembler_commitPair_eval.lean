@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryAssembler_commitPair_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryAssembler.commitPair_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:16:00.650577+00:00
 -- url     : https://prove2.me/theorems/0629c5eb-250b-44a4-b9a8-84c82db8eaa6

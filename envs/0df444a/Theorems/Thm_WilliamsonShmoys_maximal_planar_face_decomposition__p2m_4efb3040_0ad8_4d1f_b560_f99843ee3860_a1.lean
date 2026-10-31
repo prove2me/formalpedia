@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_face_decomposition__p2m_4efb3040_0ad8_4d1f_b560_f99843ee3860_a1
 -- name    : WilliamsonShmoys.maximal_planar_face_decomposition__p2m_4efb3040_0ad8_4d1f_b560_f99843ee3860_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:59:52.998367+00:00
 -- url     : https://prove2.me/theorems/2e1bfcb4-daf5-4b6a-9257-36b9f3fd3710

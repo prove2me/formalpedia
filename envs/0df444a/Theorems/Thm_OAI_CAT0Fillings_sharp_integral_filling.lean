@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CAT0Fillings_sharp_integral_filling
 -- name    : OAI.CAT0Fillings.sharp_integral_filling
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:25.25326+00:00
 -- url     : https://prove2.me/theorems/8232b175-45d8-4800-bb15-afdd3fde4457

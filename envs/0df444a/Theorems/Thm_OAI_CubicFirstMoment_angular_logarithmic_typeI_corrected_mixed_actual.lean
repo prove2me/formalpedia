@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_logarithmic_typeI_corrected_mixed_actual
 -- name    : OAI.CubicFirstMoment.angular_logarithmic_typeI_corrected_mixed_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:18:49.620979+00:00
 -- url     : https://prove2.me/theorems/562cd104-99f2-4345-9c48-28dd954a2148

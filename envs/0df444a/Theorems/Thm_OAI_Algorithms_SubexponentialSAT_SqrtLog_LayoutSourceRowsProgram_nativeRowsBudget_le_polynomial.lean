@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutSourceRowsProgram_nativeRowsBudget_le_polynomial
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutSourceRowsProgram.nativeRowsBudget_le_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:44:46.953988+00:00
 -- url     : https://prove2.me/theorems/a03b2058-cf05-4f6b-b609-3ead762c16ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutMatrixProgram_rowScan_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutMatrixProgram.rowScan_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:57:59.695295+00:00
 -- url     : https://prove2.me/theorems/e99ccc39-f7e9-4d00-bc24-a7a7379bcd4c

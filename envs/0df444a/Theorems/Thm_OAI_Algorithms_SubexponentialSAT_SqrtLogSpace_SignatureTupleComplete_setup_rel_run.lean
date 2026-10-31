@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SignatureTupleComplete_setup_rel_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SignatureTupleComplete.setup_rel_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:21:33.208086+00:00
 -- url     : https://prove2.me/theorems/647c61f7-3ef2-47a5-a00f-3ee9d6d53f7e

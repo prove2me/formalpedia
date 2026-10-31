@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErrBoundCplx_Cplx_theorem_14
 -- name    : ErrBoundCplx.Cplx.theorem_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:22.031067+00:00
 -- url     : https://prove2.me/theorems/f1d7fa9e-ab02-43a2-8a6e-96a4c0cbd870

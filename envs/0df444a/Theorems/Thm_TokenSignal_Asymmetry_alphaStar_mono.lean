@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenSignal_Asymmetry_alphaStar_mono
 -- name    : TokenSignal.Asymmetry.alphaStar_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:59.014181+00:00
 -- url     : https://prove2.me/theorems/e9ba93f6-2c2a-4149-a097-d6a077d6f982

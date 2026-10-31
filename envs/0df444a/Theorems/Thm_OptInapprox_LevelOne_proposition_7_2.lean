@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_LevelOne_proposition_7_2
 -- name    : OptInapprox.LevelOne.proposition_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:21.167441+00:00
 -- url     : https://prove2.me/theorems/61f55297-7163-474f-b35b-4dea4d49e845

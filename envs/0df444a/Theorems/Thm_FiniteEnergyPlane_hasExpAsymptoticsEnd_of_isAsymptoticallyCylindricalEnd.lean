@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_hasExpAsymptoticsEnd_of_isAsymptoticallyCylindricalEnd
 -- name    : FiniteEnergyPlane.hasExpAsymptoticsEnd_of_isAsymptoticallyCylindricalEnd
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-21T12:43:16.0682+00:00
 -- url     : https://prove2.me/theorems/df52d1da-c6a8-4ddb-a717-92281bbcbde0

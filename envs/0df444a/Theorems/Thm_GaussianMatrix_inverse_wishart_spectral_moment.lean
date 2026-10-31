@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianMatrix_inverse_wishart_spectral_moment
 -- name    : GaussianMatrix.inverse_wishart_spectral_moment
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-09T02:43:48.364759+00:00
 -- url     : https://prove2.me/theorems/b8bbfa46-4e40-44b1-acd8-87ddb9ac6bb3

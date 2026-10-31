@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Rkhs_moore_aronszajn_assembly
 -- name    : HighDimStat.Rkhs.moore_aronszajn_assembly
--- status  : Open
+-- status  : Disproved
 -- author  : @junyihjy
 -- created : 2026-09-30T15:07:48.591522+00:00
 -- url     : https://prove2.me/theorems/f063c309-6884-43aa-afee-05ba4b40e4e4

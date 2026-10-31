@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLTrisection_Adaptive_corollary_1
 -- name    : MNLTrisection.Adaptive.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:33:11.51254+00:00
 -- url     : https://prove2.me/theorems/a74e4da5-65e7-4b18-854d-7c3fb7319ce4

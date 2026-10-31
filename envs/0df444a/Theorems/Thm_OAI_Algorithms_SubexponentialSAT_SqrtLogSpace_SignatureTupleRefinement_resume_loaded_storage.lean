@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SignatureTupleRefinement_resume_loaded_storage
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SignatureTupleRefinement.resume_loaded_storage
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:22:46.713987+00:00
 -- url     : https://prove2.me/theorems/5aa7817e-9ae0-4fa3-a599-c079b0b744f5

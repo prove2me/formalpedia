@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeLeafSetup_start_trace_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeLeafSetup.start_trace_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:20:08.302834+00:00
 -- url     : https://prove2.me/theorems/08466dd0-8aa4-4c6d-a3f3-15312ca0b224

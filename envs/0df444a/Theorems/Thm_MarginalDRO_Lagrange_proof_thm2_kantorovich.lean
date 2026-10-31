@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalDRO_Lagrange_proof_thm2_kantorovich
 -- name    : MarginalDRO.Lagrange.proof_thm2_kantorovich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:43.057041+00:00
 -- url     : https://prove2.me/theorems/83854d69-c42f-4d7a-8058-c9dca890bff6

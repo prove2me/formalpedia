@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_inclusion_maximal_planar_supergraph__p2m_70a8b6e0_c40a_44e8_9147_f9396a2e926b_a2
 -- name    : WilliamsonShmoys.exists_inclusion_maximal_planar_supergraph__p2m_70a8b6e0_c40a_44e8_9147_f9396a2e926b_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T01:03:54.877135+00:00
 -- url     : https://prove2.me/theorems/44372213-62c2-4236-90e5-79abbff6c6bc

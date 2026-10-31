@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeDepFolk_Asymptotic_claim_7_1
 -- name    : TimeDepFolk.Asymptotic.claim_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:19:16.225813+00:00
 -- url     : https://prove2.me/theorems/40b3feaf-3cc3-4253-a0e3-17a3c3279f61

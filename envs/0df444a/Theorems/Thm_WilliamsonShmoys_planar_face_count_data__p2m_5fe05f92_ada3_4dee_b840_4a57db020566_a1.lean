@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_face_count_data__p2m_5fe05f92_ada3_4dee_b840_4a57db020566_a1
 -- name    : WilliamsonShmoys.planar_face_count_data__p2m_5fe05f92_ada3_4dee_b840_4a57db020566_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:35:32.253104+00:00
 -- url     : https://prove2.me/theorems/8494d434-ba1f-46ca-922b-9ced4cfa5b5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_primeProductLowHeight_radial_isLittleO_actual
 -- name    : OAI.CubicFirstMoment.primeProductLowHeight_radial_isLittleO_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:43:35.747552+00:00
 -- url     : https://prove2.me/theorems/204ff4aa-4cec-4726-bc44-84ef80f5ec80

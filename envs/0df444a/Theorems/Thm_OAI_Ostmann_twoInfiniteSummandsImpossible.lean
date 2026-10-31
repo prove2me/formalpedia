@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Ostmann_twoInfiniteSummandsImpossible
 -- name    : OAI.Ostmann.twoInfiniteSummandsImpossible
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:59.711985+00:00
 -- url     : https://prove2.me/theorems/e8fcf6ee-05c5-4670-8b7a-c0aa5d4cc804

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_FactorTableProgram_literalPayload_rel
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.FactorTableProgram.literalPayload_rel
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:06:49.534614+00:00
 -- url     : https://prove2.me/theorems/d927fb52-1b79-4742-a34b-2fa9f741e135

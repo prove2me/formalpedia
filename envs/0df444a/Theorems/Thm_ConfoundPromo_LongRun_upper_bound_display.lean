@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfoundPromo_LongRun_upper_bound_display
 -- name    : ConfoundPromo.LongRun.upper_bound_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:28:35.307816+00:00
 -- url     : https://prove2.me/theorems/32b35197-e8e8-43f4-85a5-1ea23f0411c9

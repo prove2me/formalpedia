@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingNetFlow_ChainStable_theorem_4_3
 -- name    : TradingNetFlow.ChainStable.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:31.604199+00:00
 -- url     : https://prove2.me/theorems/58f0aa23-96b5-4d78-9e1f-f45c92335475

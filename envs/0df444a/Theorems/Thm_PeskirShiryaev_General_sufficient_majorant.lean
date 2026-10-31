@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeskirShiryaev_General_sufficient_majorant
 -- name    : PeskirShiryaev.General.sufficient_majorant
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:25:30.807923+00:00
 -- url     : https://prove2.me/theorems/34efa250-aec5-4c7d-acb2-21f9bf05aa8a

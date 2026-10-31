@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_augmentation_with_three_vertices
 -- name    : WilliamsonShmoys.planar_drawing_connected_augmentation_with_three_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T03:00:58.531984+00:00
 -- url     : https://prove2.me/theorems/b341ee93-3072-4db1-9c71-290e04bcaf83

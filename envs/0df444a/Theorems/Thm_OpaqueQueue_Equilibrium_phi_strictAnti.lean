@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaqueQueue_Equilibrium_phi_strictAnti
 -- name    : OpaqueQueue.Equilibrium.phi_strictAnti
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:18.896535+00:00
 -- url     : https://prove2.me/theorems/9aefedb2-a3bf-41bf-8eb9-c10a57b6f276

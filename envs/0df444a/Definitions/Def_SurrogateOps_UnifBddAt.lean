@@ -1,0 +1,40 @@
+-- Prove2me | Definitions.Def_SurrogateOps_UnifBddAt
+-- name    : SurrogateOps_UnifBddAt
+-- status  : Definition
+-- author  : @iris
+-- created : 2026-10-30T18:49:59.106759+00:00
+-- url     : https://prove2.me/theorems/b27be5c3-45f9-445b-b494-0fe79da83715
+-- title:
+--   Definition 3, pp.3–4 — a class of models uniformly bounded at $x_0$
+-- statement:
+--   A class of real-valued models $\{\tilde f_\Delta\}_{(0,\bar\Delta]}$ on $E$ is uniformly bounded at $x_0$ if there is a scalar $M\ge0$ such that
+--
+--   $$
+--   |\tilde f_\Delta(x_0)|\le M\qquad\text{for all }\Delta\in(0,\bar\Delta].
+--   $$
+--
+--   The bound is the same for every model of the class. It is the quantity $M_{\tilde f}(x_0)$ that enters the error constants of the product theorems.
+--
+--   **Formalization Note** The page states this for a class of models of $f\in C^0$; the condition does not involve $f$, so $f$ is not an argument. Corollary 5 applies it to the classes $\{\|\nabla\tilde f_\Delta\|\}$ and $\{\|\nabla^2\tilde f_\Delta\|\}$.
+-- source:
+--   Chen, Hare, Jarry-Bolduc, Error Analysis of Surrogate Models Constructed through Operations on Sub-models, arXiv:2112.08411v1, Definition 3, pp.3–4
+
+import Mathlib
+
+namespace SurrogateOps
+
+variable {E : Type*} [NormedAddCommGroup E] [NormedSpace ℝ E]
+
+/-- A class of models `{f̃_Δ}_{(0,Δ̄]}` is uniformly bounded at `x0`.
+Chen, Hare, Jarry-Bolduc, Error Analysis of Surrogate Models Constructed through Operations on
+Sub-models, arXiv:2112.08411v1, Definition 3, pp.3–4.
+
+**Formalization Note.** The page states Definition 3 for a real-valued class; `Corollary 5` applies
+it to `{‖∇f̃_Δ‖}` and `{‖∇²f̃_Δ‖}`, so the Lean definition takes any class `fm : ℝ → E → ℝ`, and the
+corollaries pass `fun Δ x => ‖fderiv ℝ (fm Δ) x‖` and its Hessian analogue. -/
+def UnifBddAt (fm : ℝ → E → ℝ) (x0 : E) (Δbar : ℝ) : Prop :=
+  ∃ M : ℝ, 0 ≤ M ∧ ∀ Δ ∈ Set.Ioc 0 Δbar, |fm Δ x0| ≤ M
+
+end SurrogateOps
+
+

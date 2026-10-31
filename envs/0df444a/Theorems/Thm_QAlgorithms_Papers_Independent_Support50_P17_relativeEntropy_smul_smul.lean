@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P17_relativeEntropy_smul_smul
 -- name    : QAlgorithms.Papers.Independent.Support50.P17.relativeEntropy_smul_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-29T18:22:09.458747+00:00
 -- url     : https://prove2.me/theorems/16117123-d942-4ef2-9278-1517d1b96dfc

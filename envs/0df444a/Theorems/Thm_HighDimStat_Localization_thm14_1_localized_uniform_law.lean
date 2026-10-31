@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Localization_thm14_1_localized_uniform_law
 -- name    : HighDimStat.Localization.thm14_1_localized_uniform_law
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:31:53.644984+00:00
 -- url     : https://prove2.me/theorems/d7c0c37b-69c2-476f-b1ff-88d1c189dd84

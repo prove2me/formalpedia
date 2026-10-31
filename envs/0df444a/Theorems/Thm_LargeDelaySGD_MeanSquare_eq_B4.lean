@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeDelaySGD_MeanSquare_eq_B4
 -- name    : LargeDelaySGD.MeanSquare.eq_B4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:24:01.363988+00:00
 -- url     : https://prove2.me/theorems/724eac58-48cf-4f9c-a14a-974579181de1

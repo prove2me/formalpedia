@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicTheta_completed_tail_mean
 -- name    : OAI.CubicFirstMoment.cubicTheta_completed_tail_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:41:28.318037+00:00
 -- url     : https://prove2.me/theorems/91e7086f-9dc8-4a16-b007-7c23129f19af

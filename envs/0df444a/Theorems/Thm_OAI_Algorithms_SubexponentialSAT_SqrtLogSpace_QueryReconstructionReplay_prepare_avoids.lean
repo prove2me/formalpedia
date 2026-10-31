@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryReconstructionReplay_prepare_avoids
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryReconstructionReplay.prepare_avoids
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:49:07.157973+00:00
 -- url     : https://prove2.me/theorems/9914c58f-0304-4c63-a3b5-e4a534e8709d

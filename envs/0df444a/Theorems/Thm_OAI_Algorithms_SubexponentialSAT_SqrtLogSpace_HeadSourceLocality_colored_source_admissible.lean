@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadSourceLocality_colored_source_admissible
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadSourceLocality.colored_source_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:56:23.733578+00:00
 -- url     : https://prove2.me/theorems/f9d28bee-9d50-4127-a610-cf10ccd64b7c

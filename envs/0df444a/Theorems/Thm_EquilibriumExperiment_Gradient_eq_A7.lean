@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquilibriumExperiment_Gradient_eq_A7
 -- name    : EquilibriumExperiment.Gradient.eq_A7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:39:36.770377+00:00
 -- url     : https://prove2.me/theorems/7d20f33c-bc55-4e3a-846c-09532195243a

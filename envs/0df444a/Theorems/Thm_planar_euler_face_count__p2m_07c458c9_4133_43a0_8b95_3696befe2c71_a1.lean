@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_euler_face_count__p2m_07c458c9_4133_43a0_8b95_3696befe2c71_a1
 -- name    : planar_euler_face_count__p2m_07c458c9_4133_43a0_8b95_3696befe2c71_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:24:26.812617+00:00
 -- url     : https://prove2.me/theorems/60f5bd7b-5404-406f-a7fd-ea63b03fcd8c

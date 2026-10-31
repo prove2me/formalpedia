@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafHeadFactorsProgram_test_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafHeadFactorsProgram.test_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:01:17.787993+00:00
 -- url     : https://prove2.me/theorems/9fad8f76-795a-456d-8145-ca767ef5c20c

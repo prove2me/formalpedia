@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkPricing_Caps_nash_unique_of_le_marginal
 -- name    : NetworkPricing.Caps.nash_unique_of_le_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:16:40.626116+00:00
 -- url     : https://prove2.me/theorems/27c954bd-7698-45d6-b064-4ee676ab887a

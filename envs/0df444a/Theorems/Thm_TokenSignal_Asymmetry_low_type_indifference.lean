@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenSignal_Asymmetry_low_type_indifference
 -- name    : TokenSignal.Asymmetry.low_type_indifference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:58.173767+00:00
 -- url     : https://prove2.me/theorems/a183dbc7-cd1a-48be-a450-178d0e6ed936

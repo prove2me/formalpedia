@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafProgram_NodeConcrete_completedRows_origin
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafProgram.NodeConcrete.completedRows_origin
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:24:04.441968+00:00
 -- url     : https://prove2.me/theorems/85848d40-8967-495b-b167-fb1e99fe436f

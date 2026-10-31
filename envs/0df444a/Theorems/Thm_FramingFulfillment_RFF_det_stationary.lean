@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FramingFulfillment_RFF_det_stationary
 -- name    : FramingFulfillment.RFF.det_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:51.474406+00:00
 -- url     : https://prove2.me/theorems/a8a0b4d6-46f6-41b3-8fc8-7bce84841e2b

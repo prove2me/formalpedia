@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnyPriceShare_Bidding_proposition_3_7_proportional
 -- name    : AnyPriceShare.Bidding.proposition_3_7_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:15.706204+00:00
 -- url     : https://prove2.me/theorems/c2170ab0-ff1b-433a-bc91-a69d38aabb6a

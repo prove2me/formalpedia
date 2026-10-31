@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashMassSpace_mass_halt_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashMassSpace.mass_halt_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:15:34.08714+00:00
 -- url     : https://prove2.me/theorems/2a80f38d-cb93-4d14-a741-2a7503e7cd01

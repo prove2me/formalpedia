@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_eventually_scan_bounds_of_scope_resources
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.eventually_scan_bounds_of_scope_resources
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:22:15.593591+00:00
 -- url     : https://prove2.me/theorems/b90edb73-73ca-4e09-8c62-7acebf63c4e7

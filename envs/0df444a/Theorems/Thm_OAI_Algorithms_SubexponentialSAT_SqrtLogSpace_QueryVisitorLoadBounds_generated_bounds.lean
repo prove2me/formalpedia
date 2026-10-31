@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryVisitorLoadBounds_generated_bounds
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryVisitorLoadBounds.generated_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:21:00.57601+00:00
 -- url     : https://prove2.me/theorems/e273030a-047c-45f5-b29b-e4a34a0b648b

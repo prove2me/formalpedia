@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NuclearUltrapower_main_no_embedding
 -- name    : OAI.NuclearUltrapower.main_no_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:58.081347+00:00
 -- url     : https://prove2.me/theorems/6078f168-02cc-4caa-ab45-afb85fc2a2be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LaughlinGap_thm_main
 -- name    : OAI.LaughlinGap.thm_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:52.163322+00:00
 -- url     : https://prove2.me/theorems/d064bd3a-4d04-4654-9f8f-f491f96be128

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_balanced_common_squarefree_exponents
 -- name    : OAI.CubicFirstMoment.angular_balanced_common_squarefree_exponents
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:30:41.407284+00:00
 -- url     : https://prove2.me/theorems/f0349ae6-b78e-4630-846f-d78f22219af3

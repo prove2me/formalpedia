@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeCongestion_Poisson_corollary_5_a
 -- name    : LargeCongestion.Poisson.corollary_5_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:31.312794+00:00
 -- url     : https://prove2.me/theorems/93573d43-458c-42c7-9259-947bcbe5de2b

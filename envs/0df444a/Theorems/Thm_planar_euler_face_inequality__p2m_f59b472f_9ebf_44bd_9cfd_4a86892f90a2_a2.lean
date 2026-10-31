@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_euler_face_inequality__p2m_f59b472f_9ebf_44bd_9cfd_4a86892f90a2_a2
 -- name    : planar_euler_face_inequality__p2m_f59b472f_9ebf_44bd_9cfd_4a86892f90a2_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:19:03.585747+00:00
 -- url     : https://prove2.me/theorems/07c458c9-4133-43a0-8b95-3696befe2c71

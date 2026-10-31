@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_FactorTableNative_native_literal
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.FactorTableNative.native_literal
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:06:27.918642+00:00
 -- url     : https://prove2.me/theorems/d2d00512-6061-4da1-aa3b-52ba46557178

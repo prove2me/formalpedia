@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryKeptFrame_kept_frame
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryKeptFrame.kept_frame
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:32:17.870234+00:00
 -- url     : https://prove2.me/theorems/8b44c8b6-e347-427e-a35f-60bc57ed7848

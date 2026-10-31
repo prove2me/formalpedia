@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformLeakage_Perfect_g2_strictMono
 -- name    : PlatformLeakage.Perfect.g2_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:23.947377+00:00
 -- url     : https://prove2.me/theorems/3ea61645-61ad-42e8-9a8f-58bd4f66e869

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncrKnapsack_PTAS_recursion_F
 -- name    : IncrKnapsack.PTAS.recursion_F
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:16.500641+00:00
 -- url     : https://prove2.me/theorems/ef52b3d6-1f01-4557-a75b-4743a4c5dcb2

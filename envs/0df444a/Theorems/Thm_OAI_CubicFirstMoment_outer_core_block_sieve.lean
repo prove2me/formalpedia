@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_outer_core_block_sieve
 -- name    : OAI.CubicFirstMoment.outer_core_block_sieve
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:02:08.479018+00:00
 -- url     : https://prove2.me/theorems/4569b63e-3026-4ff7-bfeb-16a8aeb25a8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLearnCB_UCB1CL_lemma_3
 -- name    : CrossLearnCB.UCB1CL.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:23.427897+00:00
 -- url     : https://prove2.me/theorems/6b092803-d725-48c4-9c38-2e0fc60d5871

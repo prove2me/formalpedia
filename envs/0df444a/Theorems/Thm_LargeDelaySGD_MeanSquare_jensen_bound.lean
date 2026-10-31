@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeDelaySGD_MeanSquare_jensen_bound
 -- name    : LargeDelaySGD.MeanSquare.jensen_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:42.769868+00:00
 -- url     : https://prove2.me/theorems/a3c044a3-40ed-4ae1-8c1f-5b7334c82d91

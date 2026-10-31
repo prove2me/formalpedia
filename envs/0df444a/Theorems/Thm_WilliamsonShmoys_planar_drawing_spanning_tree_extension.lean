@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_spanning_tree_extension
 -- name    : WilliamsonShmoys.planar_drawing_spanning_tree_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:14:58.977554+00:00
 -- url     : https://prove2.me/theorems/cce0a931-e014-4049-a371-91a36295465a

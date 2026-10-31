@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingNetFlow_ChainStable_contraction_mNaturalConcave
 -- name    : TradingNetFlow.ChainStable.contraction_mNaturalConcave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:33.343491+00:00
 -- url     : https://prove2.me/theorems/a9eb5536-7492-44e9-a65d-110b9ae4616b

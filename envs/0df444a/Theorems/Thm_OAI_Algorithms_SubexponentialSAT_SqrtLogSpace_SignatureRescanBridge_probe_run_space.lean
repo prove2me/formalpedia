@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SignatureRescanBridge_probe_run_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SignatureRescanBridge.probe_run_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:21:37.573189+00:00
 -- url     : https://prove2.me/theorems/94295f04-6b28-4cc1-a002-bf90e4d41086

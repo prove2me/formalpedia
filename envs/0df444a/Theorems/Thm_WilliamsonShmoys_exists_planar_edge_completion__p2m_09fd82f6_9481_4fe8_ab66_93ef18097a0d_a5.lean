@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_edge_completion__p2m_09fd82f6_9481_4fe8_ab66_93ef18097a0d_a5
 -- name    : WilliamsonShmoys.exists_planar_edge_completion__p2m_09fd82f6_9481_4fe8_ab66_93ef18097a0d_a5
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T08:15:26.859112+00:00
 -- url     : https://prove2.me/theorems/90024f77-f5f3-4570-a30a-949bbf204bc3

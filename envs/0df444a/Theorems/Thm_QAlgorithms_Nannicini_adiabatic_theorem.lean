@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_adiabatic_theorem
 -- name    : QAlgorithms.Nannicini.adiabatic_theorem
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:31.301632+00:00
 -- url     : https://prove2.me/theorems/b2603ee1-e9dc-436e-95f6-92417fa19666

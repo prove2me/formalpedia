@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashQueryEntry_prepared_accepted_entry
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashQueryEntry.prepared_accepted_entry
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:55:14.47564+00:00
 -- url     : https://prove2.me/theorems/cb7ac5d5-adbd-4ec1-865a-e3db00e1fd24

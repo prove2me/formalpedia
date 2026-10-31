@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_MaxCut_proposition_7_1
 -- name    : OptInapprox.MaxCut.proposition_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:26:07.440305+00:00
 -- url     : https://prove2.me/theorems/1e5ae896-2e06-40e2-95d1-af728a0a8341

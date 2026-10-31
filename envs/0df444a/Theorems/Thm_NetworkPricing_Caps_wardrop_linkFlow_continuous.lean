@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkPricing_Caps_wardrop_linkFlow_continuous
 -- name    : NetworkPricing.Caps.wardrop_linkFlow_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:16:31.121888+00:00
 -- url     : https://prove2.me/theorems/a5d8dc5b-ce47-4c0d-a7c9-0b8a1e86438d

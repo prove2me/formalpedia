@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryJetSemantics_colored_residual_target_dense_shift
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryJetSemantics.colored_residual_target_dense_shift
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:32:59.136541+00:00
 -- url     : https://prove2.me/theorems/ecdbb0be-4336-4e64-94b1-f57282e62c99

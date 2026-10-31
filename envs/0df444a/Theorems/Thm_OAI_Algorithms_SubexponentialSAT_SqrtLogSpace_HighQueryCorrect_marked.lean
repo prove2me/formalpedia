@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HighQueryCorrect_marked
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighQueryCorrect.marked
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:24:43.224825+00:00
 -- url     : https://prove2.me/theorems/1c1a1a6d-e568-4427-afec-0f1ce77d2250

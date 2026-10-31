@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_bounded_cubic_moment
 -- name    : OAI.CubicFirstMoment.bounded_cubic_moment
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:30:32.351107+00:00
 -- url     : https://prove2.me/theorems/e2e15784-c4ec-4d72-8dfd-6bfbe49b786d

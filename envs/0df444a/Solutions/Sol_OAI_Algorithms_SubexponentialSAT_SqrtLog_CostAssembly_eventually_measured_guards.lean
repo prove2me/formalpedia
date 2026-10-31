@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Algorithms.SubexponentialSAT.SqrtLog.CostAssembly.eventually_measured_guards
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:50:23.125047+00:00
 -- url     : https://prove2.me/submissions/1df9d29a-3e8c-42a8-b5d0-a1c8a3cfc2e1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ081S075

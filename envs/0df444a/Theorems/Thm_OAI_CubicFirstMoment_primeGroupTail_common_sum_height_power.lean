@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_primeGroupTail_common_sum_height_power
 -- name    : OAI.CubicFirstMoment.primeGroupTail_common_sum_height_power
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:02:53.384371+00:00
 -- url     : https://prove2.me/theorems/55f1ba5a-d400-4b38-ad40-44acb837f6ec

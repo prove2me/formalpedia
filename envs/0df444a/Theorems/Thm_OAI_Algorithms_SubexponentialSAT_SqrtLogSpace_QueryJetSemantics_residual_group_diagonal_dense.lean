@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryJetSemantics_residual_group_diagonal_dense
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryJetSemantics.residual_group_diagonal_dense
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:33:47.45596+00:00
 -- url     : https://prove2.me/theorems/7cae799a-7b03-4ba9-911d-211a82ef4ed8

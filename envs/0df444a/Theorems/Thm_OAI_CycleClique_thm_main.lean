@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CycleClique_thm_main
 -- name    : OAI.CycleClique.thm_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:33.605999+00:00
 -- url     : https://prove2.me/theorems/ee1803b8-eb8f-4413-9f02-5157a2ff4acc

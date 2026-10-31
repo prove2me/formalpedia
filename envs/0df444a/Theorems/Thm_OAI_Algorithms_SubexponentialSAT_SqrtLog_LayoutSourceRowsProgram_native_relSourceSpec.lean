@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutSourceRowsProgram_native_relSourceSpec
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutSourceRowsProgram.native_relSourceSpec
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:47:43.431852+00:00
 -- url     : https://prove2.me/theorems/4cca75ac-50af-4428-bb6b-572a44b93d74

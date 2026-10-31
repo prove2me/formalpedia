@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssocRealizations_TypesMeet_proposition_4_7
 -- name    : AssocRealizations.TypesMeet.proposition_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:06.572443+00:00
 -- url     : https://prove2.me/theorems/0282f5b9-48c1-46a8-a9e1-ff4c0202a9c4

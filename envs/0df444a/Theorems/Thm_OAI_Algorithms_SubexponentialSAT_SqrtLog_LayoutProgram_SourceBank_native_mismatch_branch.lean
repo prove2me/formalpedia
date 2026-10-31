@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutProgram_SourceBank_native_mismatch_branch
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutProgram.SourceBank.native_mismatch_branch
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:44:16.942358+00:00
 -- url     : https://prove2.me/theorems/620b88b8-ba6e-47ea-8bf8-3418fb5b6d16

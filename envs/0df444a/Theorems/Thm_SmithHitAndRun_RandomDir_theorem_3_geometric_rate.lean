@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithHitAndRun_RandomDir_theorem_3_geometric_rate
 -- name    : SmithHitAndRun.RandomDir.theorem_3_geometric_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:38:14.089246+00:00
 -- url     : https://prove2.me/theorems/7ec1d637-7eff-4fdb-9a42-c8c43c175818

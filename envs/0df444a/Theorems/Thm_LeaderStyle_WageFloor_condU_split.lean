@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeaderStyle_WageFloor_condU_split
 -- name    : LeaderStyle.WageFloor.condU_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:38:25.897736+00:00
 -- url     : https://prove2.me/theorems/8b815fbe-aa4c-4192-8e5b-aed3a2f42d6a

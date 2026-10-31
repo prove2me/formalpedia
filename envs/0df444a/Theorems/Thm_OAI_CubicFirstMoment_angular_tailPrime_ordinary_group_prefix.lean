@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_tailPrime_ordinary_group_prefix
 -- name    : OAI.CubicFirstMoment.angular_tailPrime_ordinary_group_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:35:23.014441+00:00
 -- url     : https://prove2.me/theorems/528871ef-92d5-4b99-8907-02e36e0cb234

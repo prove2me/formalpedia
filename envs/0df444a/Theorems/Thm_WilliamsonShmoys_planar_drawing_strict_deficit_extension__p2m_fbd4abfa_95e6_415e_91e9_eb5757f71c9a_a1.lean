@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_strict_deficit_extension__p2m_fbd4abfa_95e6_415e_91e9_eb5757f71c9a_a1
 -- name    : WilliamsonShmoys.planar_drawing_strict_deficit_extension__p2m_fbd4abfa_95e6_415e_91e9_eb5757f71c9a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:11:22.897389+00:00
 -- url     : https://prove2.me/theorems/8099c0e3-4f95-4442-9548-845ddaba434e

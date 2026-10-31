@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_LeafPreparationBudgets_prepared_common_bound_polynomial
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.LeafPreparationBudgets.prepared_common_bound_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:58:20.001349+00:00
 -- url     : https://prove2.me/theorems/0c28adbe-184c-433e-aaac-b124d6e93052

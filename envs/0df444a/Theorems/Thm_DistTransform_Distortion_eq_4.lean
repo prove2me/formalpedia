@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistTransform_Distortion_eq_4
 -- name    : DistTransform.Distortion.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:32.321172+00:00
 -- url     : https://prove2.me/theorems/e07c400c-bff1-41f8-ae45-133cf7d70a6d

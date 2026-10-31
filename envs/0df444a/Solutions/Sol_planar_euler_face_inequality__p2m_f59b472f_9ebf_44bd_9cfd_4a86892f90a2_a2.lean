@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for planar_euler_face_inequality__p2m_f59b472f_9ebf_44bd_9cfd_4a86892f90a2_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:25:30.580508+00:00
 -- url     : https://prove2.me/submissions/b7b44d25-bd54-4cb2-b5e7-6affe8dfeac2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_hecke_zero_free_log_from_square_disk
 -- name    : OAI.CubicFirstMoment.hecke_zero_free_log_from_square_disk
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:55:10.551055+00:00
 -- url     : https://prove2.me/theorems/3afc87a6-2c48-4f0d-9979-aa8026fda6ad

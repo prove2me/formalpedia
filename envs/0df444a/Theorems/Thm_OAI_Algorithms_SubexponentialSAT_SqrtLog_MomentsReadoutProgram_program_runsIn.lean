@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_MomentsReadoutProgram_program_runsIn
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.MomentsReadoutProgram.program_runsIn
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:53:19.302633+00:00
 -- url     : https://prove2.me/theorems/9b867a27-0a12-4059-bcce-3403c58172a5

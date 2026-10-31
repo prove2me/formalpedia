@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_stopped_centered_bilinear_log_saving_actual
 -- name    : OAI.CubicFirstMoment.stopped_centered_bilinear_log_saving_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:08:26.707801+00:00
 -- url     : https://prove2.me/theorems/1376c77b-1858-4a97-a813-18b353ffe222

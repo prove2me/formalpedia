@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SphereSOS_Rate_theorem_2
 -- name    : SphereSOS.Rate.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:19:55.298279+00:00
 -- url     : https://prove2.me/theorems/06df5fc4-3fdc-418f-ab8c-5e92dd59d9c4

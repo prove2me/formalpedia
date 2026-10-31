@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_extremality_implies_maximal__p2m_fe860f1c_6599_42e8_850c_50d6abf755f9_a12
 -- name    : WilliamsonShmoys.planar_drawing_extremality_implies_maximal__p2m_fe860f1c_6599_42e8_850c_50d6abf755f9_a12
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T21:32:54.967158+00:00
 -- url     : https://prove2.me/theorems/85dfe40e-bf21-4653-aec5-d5293b86ee0f

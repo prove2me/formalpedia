@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutProgram_SourceCache_native_inverse
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutProgram.SourceCache.native_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:26:02.431824+00:00
 -- url     : https://prove2.me/theorems/b8e0d54a-c6c3-499c-a161-d7ff71ec7850

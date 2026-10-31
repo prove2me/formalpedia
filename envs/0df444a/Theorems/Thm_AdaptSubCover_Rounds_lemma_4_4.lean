@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptSubCover_Rounds_lemma_4_4
 -- name    : AdaptSubCover.Rounds.lemma_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:19:55.506095+00:00
 -- url     : https://prove2.me/theorems/778de25e-c50a-4591-829e-a9c1379fea0f

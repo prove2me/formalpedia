@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicTheta_radial_remainder_negative_tail_mean
 -- name    : OAI.CubicFirstMoment.cubicTheta_radial_remainder_negative_tail_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:48:30.356957+00:00
 -- url     : https://prove2.me/theorems/01a0c465-04c1-419a-886d-78b387698c3b

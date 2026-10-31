@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_divisor_noncube_total_saving
 -- name    : OAI.CubicFirstMoment.divisor_noncube_total_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:24:36.641685+00:00
 -- url     : https://prove2.me/theorems/a691e1ea-9cec-4b3b-9e4c-87744631dcf3

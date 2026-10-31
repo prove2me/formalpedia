@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncrKnapsack_PTAS_filtering
 -- name    : IncrKnapsack.PTAS.filtering
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:11.684838+00:00
 -- url     : https://prove2.me/theorems/c5774461-2cbf-4bb3-aa3b-e1c52c164a04

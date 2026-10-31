@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_semiprimeGaussTail_angular_hecke_window
 -- name    : OAI.CubicFirstMoment.semiprimeGaussTail_angular_hecke_window
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:44:46.420272+00:00
 -- url     : https://prove2.me/theorems/6a02ddf5-5945-49bf-b996-eefe70652511

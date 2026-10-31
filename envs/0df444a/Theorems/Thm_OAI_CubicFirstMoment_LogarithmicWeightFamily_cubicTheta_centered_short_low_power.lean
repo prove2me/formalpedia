@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_LogarithmicWeightFamily_cubicTheta_centered_short_low_power
 -- name    : OAI.CubicFirstMoment.LogarithmicWeightFamily.cubicTheta_centered_short_low_power
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:09:10.477725+00:00
 -- url     : https://prove2.me/theorems/5bbe68b7-ac2c-48ba-9505-0a3c0656504b

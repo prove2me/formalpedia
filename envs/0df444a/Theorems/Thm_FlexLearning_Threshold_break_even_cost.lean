@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexLearning_Threshold_break_even_cost
 -- name    : FlexLearning.Threshold.break_even_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:56.388907+00:00
 -- url     : https://prove2.me/theorems/dfdb35cc-fd55-42c3-9b21-c7be2f02cb18

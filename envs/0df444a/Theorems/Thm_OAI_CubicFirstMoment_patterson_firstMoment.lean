@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_patterson_firstMoment
 -- name    : OAI.CubicFirstMoment.patterson_firstMoment
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:31.857053+00:00
 -- url     : https://prove2.me/theorems/bf2acce9-e4c5-4df9-a66d-e364d23cfeb9

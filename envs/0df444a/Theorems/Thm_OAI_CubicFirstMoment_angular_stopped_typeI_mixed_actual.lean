@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_stopped_typeI_mixed_actual
 -- name    : OAI.CubicFirstMoment.angular_stopped_typeI_mixed_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:21:28.20936+00:00
 -- url     : https://prove2.me/theorems/dced2b61-33f6-42b0-b115-6c30436656f6

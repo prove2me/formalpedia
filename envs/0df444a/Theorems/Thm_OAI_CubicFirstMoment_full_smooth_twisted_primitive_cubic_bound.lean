@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_full_smooth_twisted_primitive_cubic_bound
 -- name    : OAI.CubicFirstMoment.full_smooth_twisted_primitive_cubic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:00:21.067591+00:00
 -- url     : https://prove2.me/theorems/abf8e210-a694-45e3-82e6-881def4a8e38

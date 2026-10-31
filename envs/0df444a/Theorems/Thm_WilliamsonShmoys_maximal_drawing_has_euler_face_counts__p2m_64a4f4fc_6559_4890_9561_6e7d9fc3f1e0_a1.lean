@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_has_euler_face_counts__p2m_64a4f4fc_6559_4890_9561_6e7d9fc3f1e0_a1
 -- name    : WilliamsonShmoys.maximal_drawing_has_euler_face_counts__p2m_64a4f4fc_6559_4890_9561_6e7d9fc3f1e0_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:58:33.576969+00:00
 -- url     : https://prove2.me/theorems/a7a27be2-fbb8-44ae-9ce4-aea6abd1f255

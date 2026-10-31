@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_MaxCut_cand_card_le
 -- name    : OptInapprox.MaxCut.cand_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:57.923539+00:00
 -- url     : https://prove2.me/theorems/6170290b-07c3-4ca1-901e-538db982408f

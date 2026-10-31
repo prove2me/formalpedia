@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeDepFolk_Asymptotic_proposition_4_3_uniform
 -- name    : TimeDepFolk.Asymptotic.proposition_4_3_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:19:15.552554+00:00
 -- url     : https://prove2.me/theorems/b0cd9393-0146-4faf-87f9-9f37f77b4daf

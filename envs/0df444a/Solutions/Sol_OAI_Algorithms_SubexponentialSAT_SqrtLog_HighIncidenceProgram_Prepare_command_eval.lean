@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Algorithms.SubexponentialSAT.SqrtLog.HighIncidenceProgram.Prepare.command_eval
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:46:53.289799+00:00
 -- url     : https://prove2.me/submissions/c64ca460-8d2d-4d19-87b6-c23ab0b467be
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SubexponentialSAT

@@ -4960,7 +4960,7 @@
 {"parent": "D1Bound5.PairLightAdaptivePrepared6.right_prefix_004_part05_checked", "child": "D1Bound5_SmallPairLightData6RightRows_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared6.right_prefix_004_part05_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff6.positive_w007_box", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat", "child": "SubexponentialSAT", "via": ["statement"]}
+{"parent": "OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat", "child": "SubexponentialSAT", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid_Analysis_RankWeightSupportExchange", "child": "CountingMatroid_Analysis_CubicTensorContraction", "via": ["statement"]}
 {"parent": "CountingMatroid_Analysis_RankWeightSupportExchange", "child": "CountingMatroid_Analysis_QuadraticNonpositiveHyperplane", "via": ["statement"]}
 {"parent": "CountingMatroid_Analysis_RankWeightSupportExchange", "child": "CountingMatroid_Analysis_LorentzianDirectionalSignature", "via": ["statement"]}
@@ -23263,7 +23263,7 @@
 {"parent": "OAI.LaughlinFock.fourHighestNumber_23_11", "child": "OAIQ084L022", "via": ["solution", "statement"]}
 {"parent": "OAI.LaughlinFock.fourHighestNumber_23_11", "child": "OAIQ084L024", "via": ["solution", "statement"]}
 {"parent": "OAI.LaughlinFock.fourHighestNumber_23_11", "child": "LaughlinFock", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_connected_extension_c7059b55_ff77_4f00_a57a_8983712db7a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_connected_extension_c7059b55_ff77_4f00_a57a_8983712db7a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Lech.ordinaryPower_stableImage_isoMod", "child": "OAIQ032L014", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.exists_maximal_drawable_supergraph_for_edge_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_standing_history_killed_scale_lintegral_lt_top", "child": "AvramDividend.Classical.chat04_shifted_lower_survival_measurable_no_schedule", "via": ["solution", "statement"]}
@@ -31984,7 +31984,7 @@
 {"parent": "OAIQ087A032", "child": "OAIQ087A026", "via": ["statement"]}
 {"parent": "OAIQ087A032", "child": "OAIQ087A021", "via": ["statement"]}
 {"parent": "OAIQ087A032", "child": "OAIQ087A023", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count_retry_646b0e38_maximal_edge_lower_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count_retry_646b0e38_maximal_edge_lower_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.TuringRigidity.ArithmeticTree.native_nonidentity_absolute", "child": "OAIQ064A003", "via": ["statement"]}
 {"parent": "OAI.TuringRigidity.ArithmeticTree.native_nonidentity_absolute", "child": "DegreeRigidity", "via": ["solution", "statement"]}
 {"parent": "OAI.TuringRigidity.ArithmeticTree.native_nonidentity_absolute", "child": "OAIQ064A004", "via": ["statement"]}
@@ -32449,7 +32449,7 @@
 {"parent": "D1Bound5.halfBinomialCoeff_cauchy_rearrange", "child": "D1Bound5_HalfBinomialCoefficients_Definitions", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.stopped_discounted_dividend_payout_integrable_of_cumulative_integrable", "child": "AvramDividend.Classical.discounted_dividend_window_le_cumulative", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.stopped_discounted_dividend_payout_integrable_of_cumulative_integrable", "child": "AvramDividend.Classical.stopped_discounted_dividend_payout_measurable_of_strategy", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_euler_face_count_e8dca3ed", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_euler_face_count_e8dca3ed", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.runningSup_paymentTimes_iInf_weighted_lintegral_of_finite", "child": "AvramDividend.Classical.paymentTimes_measurable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.runningSup_paymentTimes_iInf_weighted_lintegral_of_finite", "child": "AvramDividend.Classical.paymentTimes_min_mono_horizon", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.runningSup_paymentTimes_iInf_weighted_lintegral_of_finite", "child": "AvramDividend.Classical.runningSup_paymentTimes_iInter_restrict_eq", "via": ["solution", "statement"]}
@@ -35840,7 +35840,7 @@
 {"parent": "HHRControl.PV.restrictedHS_polyReducible_plurality_tp", "child": "CookPvsNP_defs", "via": ["statement"]}
 {"parent": "HHRControl.PV.restrictedHS_polyReducible_plurality_tp", "child": "HHRControl_PV_Elections", "via": ["statement"]}
 {"parent": "HHRControl.PV.restrictedHS_polyReducible_plurality_tp", "child": "HHRControl_PV_Languages", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planarDrawing_maximal_edge_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planarDrawing_maximal_edge_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.ElasticityAugmented.restricted_transports_of_chart_equal", "child": "OAIQ6El006", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.NQ14.bind_g_2_2", "child": "Atlas_Core_Basic", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.NQ14.bind_g_2_2", "child": "Atlas_EinsteinMaxwell_Basic", "via": ["solution", "statement"]}
@@ -56534,7 +56534,7 @@
 {"parent": "D1Bound5.PairLightPrepared43.left_coverage_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared43.left_coverage_checked", "child": "D1Bound5_SmallPairLightData43Left_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared43.left_coverage_checked", "child": "D1Bound5_SmallPairLightData43Left_Definitions_002", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.disconnected_drawing_proper_extension_connectedification_retry3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.disconnected_drawing_proper_extension_connectedification_retry3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1082", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1082", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "KLSModular_LevyStochCalc_Brownian_ItoPullOut", "child": "KLSModular_LevyStochCalc_Brownian_ItoIncrement", "via": ["statement"]}

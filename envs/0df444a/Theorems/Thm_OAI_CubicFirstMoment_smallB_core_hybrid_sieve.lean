@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_smallB_core_hybrid_sieve
 -- name    : OAI.CubicFirstMoment.smallB_core_hybrid_sieve
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:03:36.240691+00:00
 -- url     : https://prove2.me/theorems/a482a8a1-b990-41bd-95ea-09e3bb22cff2

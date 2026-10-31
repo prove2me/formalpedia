@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafProgram_NativeSemantics_clause_denote_scoped
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafProgram.NativeSemantics.clause_denote_scoped
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:04:03.637345+00:00
 -- url     : https://prove2.me/theorems/c349ae59-d323-4c6b-ba0e-86ed630021ca

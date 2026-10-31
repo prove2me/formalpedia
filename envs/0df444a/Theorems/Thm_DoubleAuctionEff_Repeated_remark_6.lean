@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleAuctionEff_Repeated_remark_6
 -- name    : DoubleAuctionEff.Repeated.remark_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:22:01.003566+00:00
 -- url     : https://prove2.me/theorems/8522b6c3-e573-41b8-81de-2d7d3ad3b94f

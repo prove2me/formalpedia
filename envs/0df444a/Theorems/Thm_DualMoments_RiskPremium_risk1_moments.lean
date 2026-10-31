@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualMoments_RiskPremium_risk1_moments
 -- name    : DualMoments.RiskPremium.risk1_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:39:32.134312+00:00
 -- url     : https://prove2.me/theorems/d908b2f6-0ea0-40f4-bcbd-2c4a48580e8d

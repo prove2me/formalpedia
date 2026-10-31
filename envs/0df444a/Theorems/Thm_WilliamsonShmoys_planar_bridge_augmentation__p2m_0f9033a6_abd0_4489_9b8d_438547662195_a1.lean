@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_bridge_augmentation__p2m_0f9033a6_abd0_4489_9b8d_438547662195_a1
 -- name    : WilliamsonShmoys.planar_bridge_augmentation__p2m_0f9033a6_abd0_4489_9b8d_438547662195_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:50:30.340647+00:00
 -- url     : https://prove2.me/theorems/9ff15d30-8739-4d4c-ada8-35f6650f3988

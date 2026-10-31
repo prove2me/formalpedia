@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Komlos_bansal_jiang_komlos_bound
 -- name    : Komlos.bansal_jiang_komlos_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-03T20:54:53.269827+00:00
 -- url     : https://prove2.me/theorems/6111c72b-15e3-401a-b4f9-801cb79df5a0

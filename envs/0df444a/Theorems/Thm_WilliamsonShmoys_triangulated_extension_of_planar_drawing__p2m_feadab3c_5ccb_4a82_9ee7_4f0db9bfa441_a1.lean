@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulated_extension_of_planar_drawing__p2m_feadab3c_5ccb_4a82_9ee7_4f0db9bfa441_a1
 -- name    : WilliamsonShmoys.triangulated_extension_of_planar_drawing__p2m_feadab3c_5ccb_4a82_9ee7_4f0db9bfa441_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:19:36.823424+00:00
 -- url     : https://prove2.me/theorems/303ddd52-95e9-4125-a752-478be76ea7a5

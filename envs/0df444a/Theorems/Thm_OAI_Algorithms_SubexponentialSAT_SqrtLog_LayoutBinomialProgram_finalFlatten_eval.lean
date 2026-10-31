@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutBinomialProgram_finalFlatten_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutBinomialProgram.finalFlatten_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:57:38.244841+00:00
 -- url     : https://prove2.me/theorems/fb9e9cc5-f479-4a9e-a20d-c14ad2ea05b0

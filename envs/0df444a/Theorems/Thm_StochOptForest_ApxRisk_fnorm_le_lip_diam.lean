@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochOptForest_ApxRisk_fnorm_le_lip_diam
 -- name    : StochOptForest.ApxRisk.fnorm_le_lip_diam
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:28:59.578216+00:00
 -- url     : https://prove2.me/theorems/16c74703-4228-482a-8812-1b7861fe4921

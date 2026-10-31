@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicThetaArithmeticRankinMass_unfold
 -- name    : OAI.CubicFirstMoment.cubicThetaArithmeticRankinMass_unfold
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:53:00.326979+00:00
 -- url     : https://prove2.me/theorems/0d6a421a-4827-4bcf-a71b-03705cdf02e4

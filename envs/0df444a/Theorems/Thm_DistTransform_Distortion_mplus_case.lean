@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistTransform_Distortion_mplus_case
 -- name    : DistTransform.Distortion.mplus_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:35.316046+00:00
 -- url     : https://prove2.me/theorems/28210ff6-206c-49ad-b2d9-19ed12335ff7

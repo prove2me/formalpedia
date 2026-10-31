@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_NucNorm_nucNorm_le_sqrt_two_r_frob_of_mem_Mbar
 -- name    : WainwrightHDS.NucNorm.nucNorm_le_sqrt_two_r_frob_of_mem_Mbar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:33:27.130015+00:00
 -- url     : https://prove2.me/theorems/d44ebe86-f01d-4d29-b84a-9a7ce8e353fe

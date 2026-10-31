@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P50_faraday_feedback_cancellation
 -- name    : QAlgorithms.Papers.Independent.Extend50.P50.faraday_feedback_cancellation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T21:28:09.858381+00:00
 -- url     : https://prove2.me/theorems/d27e6726-ae18-47d1-b687-a7371d10550e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurgeSpatial_Attraction_proposition_B_1
 -- name    : SurgeSpatial.Attraction.proposition_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:24:57.144352+00:00
 -- url     : https://prove2.me/theorems/4ab32e84-1f2f-4cb0-b974-558a5a8e44bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_PerturbationAssembly_native_scan_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.PerturbationAssembly.native_scan_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:06:30.656102+00:00
 -- url     : https://prove2.me/theorems/1a39bb3a-707f-4b01-9553-a529ce156f43

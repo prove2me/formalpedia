@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_NucNorm_cone_constraint_nuclear
 -- name    : WainwrightHDS.NucNorm.cone_constraint_nuclear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:34:04.633149+00:00
 -- url     : https://prove2.me/theorems/c6c0530d-5261-4177-a8d5-e4c59ed367f7

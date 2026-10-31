@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashGreedyRound_scan_minimum
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashGreedyRound.scan_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:45:51.43259+00:00
 -- url     : https://prove2.me/theorems/b41c68ae-6078-423b-a6d7-bac823a0d335

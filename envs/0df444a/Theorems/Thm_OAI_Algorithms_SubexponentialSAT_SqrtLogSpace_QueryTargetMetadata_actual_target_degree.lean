@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryTargetMetadata_actual_target_degree
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryTargetMetadata.actual_target_degree
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:00:14.982781+00:00
 -- url     : https://prove2.me/theorems/509afc0b-d096-4b7b-bb03-5794e24d19be

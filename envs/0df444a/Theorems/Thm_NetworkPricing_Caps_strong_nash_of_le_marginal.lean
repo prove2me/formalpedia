@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkPricing_Caps_strong_nash_of_le_marginal
 -- name    : NetworkPricing.Caps.strong_nash_of_le_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:16:41.000485+00:00
 -- url     : https://prove2.me/theorems/73d9f3e8-259d-49f2-a42a-5c8e69569521

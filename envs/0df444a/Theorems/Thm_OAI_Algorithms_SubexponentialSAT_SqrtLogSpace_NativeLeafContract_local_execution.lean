@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeLeafContract_local_execution
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeLeafContract.local_execution
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:30:52.043079+00:00
 -- url     : https://prove2.me/theorems/fa299cd3-4d67-41a6-9e45-0dd8c14f1a16

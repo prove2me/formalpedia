@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockCBM_ControlLimit_proposition_1
 -- name    : ShockCBM.ControlLimit.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:17:39.907184+00:00
 -- url     : https://prove2.me/theorems/c6c8bbfc-c905-49ba-93af-37beed39c5e4

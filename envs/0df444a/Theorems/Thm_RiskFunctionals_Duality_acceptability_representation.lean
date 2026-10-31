@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Duality_acceptability_representation
 -- name    : RiskFunctionals.Duality.acceptability_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:06.786753+00:00
 -- url     : https://prove2.me/theorems/7d876dbd-9c42-4b21-bbc2-f2a85642e0e7

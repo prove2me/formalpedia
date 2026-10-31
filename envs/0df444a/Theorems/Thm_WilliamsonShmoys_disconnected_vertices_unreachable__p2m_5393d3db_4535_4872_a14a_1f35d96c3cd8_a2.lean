@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_disconnected_vertices_unreachable__p2m_5393d3db_4535_4872_a14a_1f35d96c3cd8_a2
 -- name    : WilliamsonShmoys.disconnected_vertices_unreachable__p2m_5393d3db_4535_4872_a14a_1f35d96c3cd8_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:31:02.575593+00:00
 -- url     : https://prove2.me/theorems/85c828ba-fea3-4a9f-a103-019dd890a1ec

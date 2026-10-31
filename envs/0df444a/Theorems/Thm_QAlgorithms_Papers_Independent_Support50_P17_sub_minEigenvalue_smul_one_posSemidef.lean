@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P17_sub_minEigenvalue_smul_one_posSemidef
 -- name    : QAlgorithms.Papers.Independent.Support50.P17.sub_minEigenvalue_smul_one_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-29T18:22:11.79067+00:00
 -- url     : https://prove2.me/theorems/831a4ab2-2146-4c00-a64e-67ede7f73832

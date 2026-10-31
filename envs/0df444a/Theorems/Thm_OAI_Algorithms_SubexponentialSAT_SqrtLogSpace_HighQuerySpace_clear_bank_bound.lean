@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HighQuerySpace_clear_bank_bound
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighQuerySpace.clear_bank_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T23:43:26.755136+00:00
 -- url     : https://prove2.me/theorems/a430a099-7d53-469e-88b3-e520a91f9937

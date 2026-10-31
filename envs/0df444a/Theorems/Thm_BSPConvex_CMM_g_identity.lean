@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSPConvex_CMM_g_identity
 -- name    : BSPConvex.CMM.g_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:51.2062+00:00
 -- url     : https://prove2.me/theorems/77725dab-f6d7-4a91-94ce-77274b26f8db

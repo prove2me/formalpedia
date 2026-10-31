@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulated_extension__p2m_57ba8428_9b4f_42ca_9cfe_16138e676737_a2
 -- name    : WilliamsonShmoys.exists_triangulated_extension__p2m_57ba8428_9b4f_42ca_9cfe_16138e676737_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T08:20:20.224482+00:00
 -- url     : https://prove2.me/theorems/fd2f6266-9b0d-43ab-8372-1dbf529a8a08

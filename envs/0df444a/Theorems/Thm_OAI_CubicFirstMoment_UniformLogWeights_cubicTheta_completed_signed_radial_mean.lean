@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_UniformLogWeights_cubicTheta_completed_signed_radial_mean
 -- name    : OAI.CubicFirstMoment.UniformLogWeights.cubicTheta_completed_signed_radial_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:53:56.983421+00:00
 -- url     : https://prove2.me/theorems/9fa1150c-84fa-4a7f-a3b3-50a00a4faa6f

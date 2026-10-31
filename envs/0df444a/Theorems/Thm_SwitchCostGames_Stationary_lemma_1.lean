@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SwitchCostGames_Stationary_lemma_1
 -- name    : SwitchCostGames.Stationary.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:12.320705+00:00
 -- url     : https://prove2.me/theorems/55c96ba8-6c54-4253-96ba-f81efe89a676

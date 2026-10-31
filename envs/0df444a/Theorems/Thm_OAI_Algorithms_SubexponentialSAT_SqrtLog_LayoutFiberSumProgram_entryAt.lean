@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutFiberSumProgram_entryAt
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutFiberSumProgram.entryAt
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:02:54.794747+00:00
 -- url     : https://prove2.me/theorems/2d598c06-ef2c-48cb-908d-a002e87ae44e

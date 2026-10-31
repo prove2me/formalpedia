@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_FlowCut_variational_zero_one
 -- name    : GeometryOfGraphs.FlowCut.variational_zero_one
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:08:20.027507+00:00
 -- url     : https://prove2.me/theorems/816a2a3d-95ed-491c-ac8f-2bd4c5d74dc2

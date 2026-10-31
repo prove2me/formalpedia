@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryReconstruction_run_space_with_full_frame
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryReconstruction.run_space_with_full_frame
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:18:58.816823+00:00
 -- url     : https://prove2.me/theorems/cffc2130-9606-4267-b5aa-791a3bf9bed3

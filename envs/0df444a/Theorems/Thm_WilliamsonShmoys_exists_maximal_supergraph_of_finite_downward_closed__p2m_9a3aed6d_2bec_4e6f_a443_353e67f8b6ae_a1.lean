@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_supergraph_of_finite_downward_closed__p2m_9a3aed6d_2bec_4e6f_a443_353e67f8b6ae_a1
 -- name    : WilliamsonShmoys.exists_maximal_supergraph_of_finite_downward_closed__p2m_9a3aed6d_2bec_4e6f_a443_353e67f8b6ae_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:57:41.585957+00:00
 -- url     : https://prove2.me/theorems/2212fb5a-3b8b-4ff4-b66b-e1a858c8b349

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_RademacherVC_rademacher_generalization_bound_v2
 -- name    : FoundationsML.RademacherVC.rademacher_generalization_bound_v2
--- status  : Open
+-- status  : Disproved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:18:45.007881+00:00
 -- url     : https://prove2.me/theorems/94e711f6-6c86-47f0-aeae-0367809d6d11

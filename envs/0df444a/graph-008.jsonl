@@ -28936,7 +28936,7 @@
 {"parent": "OAI_Algebra_FormulaHitting_Formula", "child": "FormulaHitting", "via": ["statement"]}
 {"parent": "OAI_Algebra_FormulaHitting_Formula", "child": "OAI_Algebra_FormulaHitting_OrderBasis", "via": ["statement"]}
 {"parent": "OAI_Algebra_FormulaHitting_Formula", "child": "OAI_Algebra_FormulaHitting_Wronskian", "via": ["statement"]}
-{"parent": "CollabProject.TimeDep.lemma_2_supplier", "child": "CollabProject_TimeDep_Model", "via": ["statement"]}
+{"parent": "CollabProject.TimeDep.lemma_2_supplier", "child": "CollabProject_TimeDep_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LogarithmicJetIdeals.corrected_coordinate_weight", "child": "OAI_PiExponent_AdmissibleFormalInterpolation", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LogarithmicJetIdeals.corrected_coordinate_weight", "child": "OAI_PiExponent_LogarithmicJetIdeals_LocalCoordinatePolynomial", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedFixedPath_sliced_joint_residue_comparison_s2", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
@@ -42169,8 +42169,8 @@
 {"parent": "MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_ScalarTerms", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomialEmbedding", "via": ["statement"]}
 {"parent": "MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_ScalarTerms", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Terms", "via": ["statement"]}
 {"parent": "MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_ScalarTerms", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}
-{"parent": "PlatformToken.SmallCost.eq_B29_right", "child": "PlatformToken_SmallCost_Corollary1", "via": ["statement"]}
-{"parent": "PlatformToken.SmallCost.eq_B29_right", "child": "PlatformToken_SmallCost_Setting", "via": ["statement"]}
+{"parent": "PlatformToken.SmallCost.eq_B29_right", "child": "PlatformToken_SmallCost_Corollary1", "via": ["solution", "statement"]}
+{"parent": "PlatformToken.SmallCost.eq_B29_right", "child": "PlatformToken_SmallCost_Setting", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group252", "child": "dusart_mesh_upper_group252_part08", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group252", "child": "dusart_mesh_upper_group252_part04", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group252", "child": "dusart_mesh_upper_group252_part05", "via": ["statement"]}
@@ -43169,12 +43169,6 @@
 {"parent": "dusart_mesh_upper_group484_part00", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group670_part08", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group163_part07", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "BookProof.ChapterAbelianCyclicCommutant.commutant_repSet_isCommutative", "child": "ChapterAbelianCyclicModel", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianCyclicCommutant.commutant_repSet_isCommutative", "child": "ChapterAbelianGelfandModel", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianCyclicCommutant.commutant_repSet_isCommutative", "child": "ChapterLinftyMultiplication", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianCyclicCommutant.commutant_repSet_isCommutative", "child": "ChapterAbelianCyclicCommutant", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianCyclicCommutant.commutant_repSet_isCommutative", "child": "ChapterLinftyMaximalAbelian", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianCyclicCommutant.commutant_repSet_isCommutative", "child": "ChapterSpectralCommutant", "via": ["solution", "statement"]}
 {"parent": "OAI.FiniteCircle.deficit_le_sum_blocks", "child": "OAI_Combinatorics_FiniteCircle_ExcludedSeparation", "via": ["solution", "statement"]}
 {"parent": "OAI.FiniteCircle.deficit_le_sum_blocks", "child": "OAI_Combinatorics_FiniteCircle_OffsetRecovery", "via": ["solution", "statement"]}
 {"parent": "OAI.FiniteCircle.deficit_le_sum_blocks", "child": "OAI_Combinatorics_FiniteCircle_Edit", "via": ["solution", "statement"]}
@@ -48231,7 +48225,7 @@
 {"parent": "actuarial_e_ageMixtureEventEPV", "child": "actuarial_d_valid", "via": ["statement"]}
 {"parent": "actuarial_e_ageMixtureEventEPV", "child": "actuarial_e_qualifiedContractEPV", "via": ["statement"]}
 {"parent": "dusart_theta_mesh_generic_group145", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "CrossLicensing.Innovation.khat2_decreasing", "child": "CrossLicensing_Innovation_ClosedForms", "via": ["statement"]}
+{"parent": "CrossLicensing.Innovation.khat2_decreasing", "child": "CrossLicensing_Innovation_ClosedForms", "via": ["solution", "statement"]}
 {"parent": "OAI.CriticalZ3.LatticeGraph.fixed_large_entrants_failure", "child": "OAI_Probability_CriticalZ3_ShellProbability", "via": ["solution", "statement"]}
 {"parent": "OAI.CriticalZ3.LatticeGraph.fixed_large_entrants_failure", "child": "OAI_Probability_CriticalZ3_Resampling", "via": ["solution", "statement"]}
 {"parent": "OAI.CriticalZ3.LatticeGraph.fixed_large_entrants_failure", "child": "OAI_Probability_CriticalZ3_Symmetry", "via": ["solution", "statement"]}
@@ -50676,8 +50670,6 @@
 {"parent": "OAI.TriangularHilbert.MatrixEnergy.sqrt_smoothWithin_posDef", "child": "OAI_Analysis_TriangularHilbert_SignedWindowScalar", "via": ["solution", "statement"]}
 {"parent": "OAI.TriangularHilbert.MatrixEnergy.sqrt_smoothWithin_posDef", "child": "TriangularHilbert", "via": ["solution", "statement"]}
 {"parent": "OAI.TriangularHilbert.MatrixEnergy.sqrt_smoothWithin_posDef", "child": "OAI_Analysis_TriangularHilbert_MeshMass", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianCyclicModel.cyclic_representation_multiplication_model", "child": "ChapterAbelianCyclicModel", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianCyclicModel.cyclic_representation_multiplication_model", "child": "ChapterAbelianGelfandModel", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group162_part09", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "FBAComp.AmazonGain.lemma_A_1", "child": "FBAComp_AmazonGain_ClosedForms", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group223_part08", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
@@ -99194,8 +99186,6 @@
 {"parent": "OAI.ThresholdParallelRepetition.QuantumSampling.exists_shift_spectralEnvelope_le", "child": "OAI_Probability_EntangledGames_Resolvent", "via": ["solution", "statement"]}
 {"parent": "ArtinGLWeight", "child": "ArtinHeckeTheta", "via": ["statement"]}
 {"parent": "BBCode.new336_class1_support_left_companion335", "child": "BBCode_Setting", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianGelfandModel.exists_probabilityMeasure_of_state", "child": "ChapterAbelianGelfandModel", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianGelfandModel.exists_probabilityMeasure_of_state", "child": "ChapterLinftyMultiplication", "via": ["solution", "statement"]}
 {"parent": "MIPRE_Background_QLD_Swap", "child": "MIPRE_LCS_NonlocalGame", "via": ["statement"]}
 {"parent": "MIPRE_Background_QLD_Swap", "child": "MIPRE_Foundations_WeylEPR", "via": ["statement"]}
 {"parent": "MIPRE_Background_QLD_Swap", "child": "MIPRE_Background_QLD_Consistency", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_ReconstructionProgram_LocalValue_corrected_denote
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.ReconstructionProgram.LocalValue.corrected_denote
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:38:55.16473+00:00
 -- url     : https://prove2.me/theorems/4d0231a1-b9b5-405a-be8f-f1734e79bc65

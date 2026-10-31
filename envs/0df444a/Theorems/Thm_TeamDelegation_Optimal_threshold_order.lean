@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDelegation_Optimal_threshold_order
 -- name    : TeamDelegation.Optimal.threshold_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:29.013838+00:00
 -- url     : https://prove2.me/theorems/602ecda1-f1b5-49b5-b992-bb5abfea43d0

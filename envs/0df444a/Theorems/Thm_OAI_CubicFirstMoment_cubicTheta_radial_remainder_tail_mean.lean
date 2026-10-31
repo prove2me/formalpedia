@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicTheta_radial_remainder_tail_mean
 -- name    : OAI.CubicFirstMoment.cubicTheta_radial_remainder_tail_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:50:56.441548+00:00
 -- url     : https://prove2.me/theorems/175994be-809e-4dad-ab4a-58acc9632454

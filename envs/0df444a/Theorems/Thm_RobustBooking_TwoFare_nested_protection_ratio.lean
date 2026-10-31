@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_TwoFare_nested_protection_ratio
 -- name    : RobustBooking.TwoFare.nested_protection_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T23:02:43.241725+00:00
 -- url     : https://prove2.me/theorems/c2f7d11f-e216-4b19-9f75-4288657b9bb5

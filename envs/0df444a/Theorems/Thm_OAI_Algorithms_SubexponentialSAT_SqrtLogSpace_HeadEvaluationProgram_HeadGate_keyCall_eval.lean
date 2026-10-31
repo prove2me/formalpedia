@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadEvaluationProgram_HeadGate_keyCall_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadEvaluationProgram.HeadGate.keyCall_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:46:59.197068+00:00
 -- url     : https://prove2.me/theorems/476637ce-1cd6-478a-9dac-42c16faff75d

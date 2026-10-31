@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_BidPrice_theorem7_bid_price_competitive
 -- name    : RobustBooking.BidPrice.theorem7_bid_price_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:07:56.478759+00:00
 -- url     : https://prove2.me/theorems/a4434158-8b8a-4d1d-8f15-5c397f394a96

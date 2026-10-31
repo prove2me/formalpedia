@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Generator_single_generation_of_II1_separable_predual
 -- name    : OAI.Generator.single_generation_of_II1_separable_predual
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:42.649311+00:00
 -- url     : https://prove2.me/theorems/05beabb5-1c0c-48f1-ace0-07e90b07dd0a

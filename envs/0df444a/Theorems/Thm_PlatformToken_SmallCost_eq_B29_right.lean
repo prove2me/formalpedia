@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformToken_SmallCost_eq_B29_right
 -- name    : PlatformToken.SmallCost.eq_B29_right
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:55.347952+00:00
 -- url     : https://prove2.me/theorems/7d0ac932-ffb0-4527-8854-816c93dd497f

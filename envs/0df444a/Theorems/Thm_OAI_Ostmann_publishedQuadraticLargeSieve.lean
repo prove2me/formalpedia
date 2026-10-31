@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Ostmann_publishedQuadraticLargeSieve
 -- name    : OAI.Ostmann.publishedQuadraticLargeSieve
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:58:08.755611+00:00
 -- url     : https://prove2.me/theorems/44cf2066-c5c0-4bbd-ba38-46d4b4778191

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P17_referenceMinimumUpperBound
 -- name    : QAlgorithms.Papers.Independent.Support50.P17.referenceMinimumUpperBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-23T20:03:35.016405+00:00
 -- url     : https://prove2.me/theorems/50e9d194-cf54-46d8-95ec-7c79012479aa

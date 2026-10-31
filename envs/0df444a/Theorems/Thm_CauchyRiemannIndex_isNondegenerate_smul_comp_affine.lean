@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_isNondegenerate_smul_comp_affine
 -- name    : CauchyRiemannIndex.isNondegenerate_smul_comp_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-29T21:53:30.897391+00:00
 -- url     : https://prove2.me/theorems/ff704ef3-389d-45f6-bb2a-876815698dde

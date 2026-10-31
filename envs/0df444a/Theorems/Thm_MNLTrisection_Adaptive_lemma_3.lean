@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLTrisection_Adaptive_lemma_3
 -- name    : MNLTrisection.Adaptive.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:33:23.416312+00:00
 -- url     : https://prove2.me/theorems/62619358-ebb3-4493-9cfd-9a456fb6db0d

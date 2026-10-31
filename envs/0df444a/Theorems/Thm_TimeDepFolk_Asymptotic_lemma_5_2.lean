@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeDepFolk_Asymptotic_lemma_5_2
 -- name    : TimeDepFolk.Asymptotic.lemma_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:19:16.088605+00:00
 -- url     : https://prove2.me/theorems/19edd820-60fd-46d1-93b9-3aed2a96b1b2

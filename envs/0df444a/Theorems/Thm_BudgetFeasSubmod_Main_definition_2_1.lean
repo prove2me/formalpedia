@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetFeasSubmod_Main_definition_2_1
 -- name    : BudgetFeasSubmod.Main.definition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:31:01.401405+00:00
 -- url     : https://prove2.me/theorems/9e12f806-3421-4d3b-b978-0363bd8d6d55

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.triangulated_extension_of_planar_drawing__p2m_feadab3c_5ccb_4a82_9ee7_4f0db9bfa441_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:33:24.694733+00:00
 -- url     : https://prove2.me/submissions/659c9152-425b-4328-aa23-8be5c4e959d7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_exists_maximal_drawable_supergraph__p2m_303ddd52_95e9_4125_a752_478be76ea7a5_a1

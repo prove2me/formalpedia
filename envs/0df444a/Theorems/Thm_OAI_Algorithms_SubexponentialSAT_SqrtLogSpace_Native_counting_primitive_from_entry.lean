@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_Native_counting_primitive_from_entry
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.Native.counting_primitive_from_entry
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:17:58.054988+00:00
 -- url     : https://prove2.me/theorems/90ad8554-896f-463a-8a17-bc2c5ee3ee9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetFeasSubmod_Main_lemma_3_8
 -- name    : BudgetFeasSubmod.Main.lemma_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:31:16.965983+00:00
 -- url     : https://prove2.me/theorems/610c0520-55b0-49bd-974d-293bb8c7bd36

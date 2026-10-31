@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModelFreeBounds_Duality_theorem_2_4_ii
 -- name    : ModelFreeBounds.Duality.theorem_2_4_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:31.830201+00:00
 -- url     : https://prove2.me/theorems/2568bb06-452d-4df8-b402-bf46703f338b

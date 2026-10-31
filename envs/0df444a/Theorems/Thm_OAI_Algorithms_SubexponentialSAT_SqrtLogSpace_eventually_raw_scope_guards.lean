@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_eventually_raw_scope_guards
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.eventually_raw_scope_guards
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T23:44:43.553784+00:00
 -- url     : https://prove2.me/theorems/66f44f12-d9ad-4fa0-ab6f-e0c2562578f1

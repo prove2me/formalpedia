@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ICOTheory_Signaling_token_share_lt_equity_share
 -- name    : ICOTheory.Signaling.token_share_lt_equity_share
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:07:28.36257+00:00
 -- url     : https://prove2.me/theorems/6ad5d378-d713-42a7-9b92-04598914d917

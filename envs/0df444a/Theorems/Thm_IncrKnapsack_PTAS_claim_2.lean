@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncrKnapsack_PTAS_claim_2
 -- name    : IncrKnapsack.PTAS.claim_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:33.020983+00:00
 -- url     : https://prove2.me/theorems/de1077f2-06d5-4008-9c95-87633b2de2de

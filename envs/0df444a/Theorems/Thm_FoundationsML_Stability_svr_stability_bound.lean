@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Stability_svr_stability_bound
 -- name    : FoundationsML.Stability.svr_stability_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-20T04:25:52.334251+00:00
 -- url     : https://prove2.me/theorems/65f4f5cc-14f2-4c53-ae6b-4cd1f9b799f1

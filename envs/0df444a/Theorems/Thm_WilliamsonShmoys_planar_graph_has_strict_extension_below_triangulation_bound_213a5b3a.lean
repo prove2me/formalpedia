@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_strict_extension_below_triangulation_bound_213a5b3a
 -- name    : WilliamsonShmoys.planar_graph_has_strict_extension_below_triangulation_bound_213a5b3a
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T13:50:36.532429+00:00
 -- url     : https://prove2.me/theorems/614dfe52-4c05-4f8e-bdd4-6de164253ca0

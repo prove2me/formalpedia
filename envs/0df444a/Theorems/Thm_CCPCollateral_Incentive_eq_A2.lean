@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCPCollateral_Incentive_eq_A2
 -- name    : CCPCollateral.Incentive.eq_A2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:18.479976+00:00
 -- url     : https://prove2.me/theorems/2102463d-1cb7-4a38-a8c9-747b12aae643

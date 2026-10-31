@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoTBandit_Main_lemma_IV_3_eq21
 -- name    : GoTBandit.Main.lemma_IV_3_eq21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:16:33.22099+00:00
 -- url     : https://prove2.me/theorems/aac267a8-1e9e-426f-ac4d-634278a2c124

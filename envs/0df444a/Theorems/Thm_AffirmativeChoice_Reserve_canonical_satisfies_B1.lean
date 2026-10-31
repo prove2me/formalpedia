@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffirmativeChoice_Reserve_canonical_satisfies_B1
 -- name    : AffirmativeChoice.Reserve.canonical_satisfies_B1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:34:49.080981+00:00
 -- url     : https://prove2.me/theorems/65d626f8-6762-4ca9-be61-d41222c00e8c

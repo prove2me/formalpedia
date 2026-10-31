@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCPSeqOpt_AugLag_eq_20_augLag_grad
 -- name    : NCPSeqOpt.AugLag.eq_20_augLag_grad
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:11.782072+00:00
 -- url     : https://prove2.me/theorems/61063c59-7dc5-44c4-8d8f-deda29599bd5

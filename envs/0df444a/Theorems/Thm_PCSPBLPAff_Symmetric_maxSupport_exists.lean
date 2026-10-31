@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Symmetric_maxSupport_exists
 -- name    : PCSPBLPAff.Symmetric.maxSupport_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:08.53146+00:00
 -- url     : https://prove2.me/theorems/66d7c776-097d-442e-a94f-f87406cec7e1

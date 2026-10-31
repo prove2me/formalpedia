@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Algorithms.SubexponentialSAT.SqrtLog.MomentsProgram.Dictionary.insert_hit_eval
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:58:20.345889+00:00
 -- url     : https://prove2.me/submissions/90cf9a35-831a-49b8-8d9f-4b09ecad7a09
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SubexponentialSAT

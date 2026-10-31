@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadSumCorrect_gate_source_iff
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadSumCorrect.gate_source_iff
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:56:37.406614+00:00
 -- url     : https://prove2.me/theorems/cfab5e66-db94-4fd7-840a-9266aec8b1b3

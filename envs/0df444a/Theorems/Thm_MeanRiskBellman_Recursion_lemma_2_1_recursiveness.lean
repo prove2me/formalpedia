@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanRiskBellman_Recursion_lemma_2_1_recursiveness
 -- name    : MeanRiskBellman.Recursion.lemma_2_1_recursiveness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:19:35.816473+00:00
 -- url     : https://prove2.me/theorems/dd96ec93-3ab5-41ec-a299-e1fdce401571

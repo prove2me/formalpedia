@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_TruncatedRingProgram_product_dense
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.TruncatedRingProgram.product_dense
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:24:07.40529+00:00
 -- url     : https://prove2.me/theorems/86d3a856-c923-44bf-b05a-e2b9fac65988

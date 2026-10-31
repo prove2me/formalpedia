@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_EigPert_courant_fischer
 -- name    : WainwrightHDS.EigPert.courant_fischer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:26:43.002416+00:00
 -- url     : https://prove2.me/theorems/99313cb1-d489-4106-a143-26c2951a304e

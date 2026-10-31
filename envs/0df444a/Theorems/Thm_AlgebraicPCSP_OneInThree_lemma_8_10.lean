@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_OneInThree_lemma_8_10
 -- name    : AlgebraicPCSP.OneInThree.lemma_8_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:20.303691+00:00
 -- url     : https://prove2.me/theorems/b8179049-c491-487f-afe6-b07b80a2b821

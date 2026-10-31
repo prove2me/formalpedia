@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryTopFrame_eval_top
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryTopFrame.eval_top
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:35:36.133086+00:00
 -- url     : https://prove2.me/theorems/adf3997f-3de3-4712-905a-d100457a8eb6

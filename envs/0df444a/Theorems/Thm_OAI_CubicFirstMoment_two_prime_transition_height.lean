@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_two_prime_transition_height
 -- name    : OAI.CubicFirstMoment.two_prime_transition_height
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:47:51.472883+00:00
 -- url     : https://prove2.me/theorems/c4892fe3-4fff-4171-a96f-38a55286d853

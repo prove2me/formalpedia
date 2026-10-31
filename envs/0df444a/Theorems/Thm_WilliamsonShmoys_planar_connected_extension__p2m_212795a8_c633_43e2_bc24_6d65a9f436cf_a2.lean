@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_connected_extension__p2m_212795a8_c633_43e2_bc24_6d65a9f436cf_a2
 -- name    : WilliamsonShmoys.planar_connected_extension__p2m_212795a8_c633_43e2_bc24_6d65a9f436cf_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T19:12:56.103771+00:00
 -- url     : https://prove2.me/theorems/6ace8332-1aee-435e-952c-c9d3858532a8

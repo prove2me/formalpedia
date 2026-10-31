@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P17_relativeEntropy_le_of_dominated
 -- name    : QAlgorithms.Papers.Independent.Support50.P17.relativeEntropy_le_of_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-29T18:22:06.628339+00:00
 -- url     : https://prove2.me/theorems/f2a7d687-2c50-4135-9f33-a470502ecf93

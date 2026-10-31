@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StartupLaunch_Strategy_proposition_2_i_ii
 -- name    : StartupLaunch.Strategy.proposition_2_i_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:15:02.727393+00:00
 -- url     : https://prove2.me/theorems/5aa3534c-8d57-4887-96a8-0a975d3cd9a7

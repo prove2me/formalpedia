@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_semiprimeGaussTail_piece_log_saving
 -- name    : OAI.CubicFirstMoment.semiprimeGaussTail_piece_log_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:45:30.677186+00:00
 -- url     : https://prove2.me/theorems/09947118-e539-4eab-b078-1681088debec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_bounded_large_common_nonzero
 -- name    : OAI.CubicFirstMoment.bounded_large_common_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:58:27.392821+00:00
 -- url     : https://prove2.me/theorems/323eb98e-3ccc-4235-b063-072fac8f89c1

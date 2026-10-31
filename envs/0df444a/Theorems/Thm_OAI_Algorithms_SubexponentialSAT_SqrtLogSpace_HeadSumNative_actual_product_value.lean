@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadSumNative_actual_product_value
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadSumNative.actual_product_value
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:57:27.659182+00:00
 -- url     : https://prove2.me/theorems/6984425d-38cf-4a3f-a75e-cd2755b18fe4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogRegretOCO_ONS_ons_beta_inv_bound
 -- name    : LogRegretOCO.ONS.ons_beta_inv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:04:58.124025+00:00
 -- url     : https://prove2.me/theorems/6f6ad525-1757-4d56-916c-3330d5280244

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_UniformLaws_concentration_around_mean
 -- name    : HighDimStat.UniformLaws.concentration_around_mean
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:30:59.459984+00:00
 -- url     : https://prove2.me/theorems/b6a7a3ac-7e3e-4ce7-a434-a91afe26e603

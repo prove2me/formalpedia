@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryEmittedSourceTarget_signed_target
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryEmittedSourceTarget.signed_target
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:10:11.202485+00:00
 -- url     : https://prove2.me/theorems/bf022b21-b654-478a-9100-5b2f06b098f7

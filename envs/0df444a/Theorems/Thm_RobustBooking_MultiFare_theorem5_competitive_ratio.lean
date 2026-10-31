@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_MultiFare_theorem5_competitive_ratio
 -- name    : RobustBooking.MultiFare.theorem5_competitive_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T00:02:20.058972+00:00
 -- url     : https://prove2.me/theorems/a08446e5-c592-4470-a1fb-5ca869a9e912

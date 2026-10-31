@@ -1,0 +1,520 @@
+-- Prove2me | solution 1 for OAI.Generator.Tracial.traceFreeRelativeGeneration_iff
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-10-30T16:00:25.29592+00:00
+-- url     : https://prove2.me/submissions/cb8f29a4-f482-4796-9624-6f4dcab5defd
+
+import Mathlib
+import Definitions.Def_FactorGeneration
+import Definitions.Def_OAIQ129Rg000
+
+section
+-- module Solutions.OAIQ129_RG.FactorGeneration_TraceTopology
+attribute [-instance] _root_.OAI.Generator.CoefficientOrder.coefficientPartialOrder _root_.OAI.Generator.Tracial.TraceUnitary.instMetricSpace _root_.OAI.Generator.Tracial.algebraDualNormed _root_.OAI.Generator.Tracial.cyclicPredual_complete _root_.OAI.Generator.Tracial.cyclicPredual_normed _root_.OAI.Generator.Tracial.cyclicPredual_normedSpace _root_.OAI.Generator.Tracial.functionalSubspaceNormed _root_.OAI.Generator.Tracial.functionalSubspaceNormedSpace _root_.OAI.Generator.Tracial.functionalSubspaceWeakLocallyConvex _root_.OAI.Generator.Tracial.predualWeakLocallyConvex _root_.OAI.Generator.Tracial.predualWeakScalarTower _root_.OAI.Generator.Tracial.quotientInnerProductSpace _root_.OAI.Generator.Tracial.quotientNormedAddCommGroup _root_.OAI.Generator.Tracial.relativeTraceSpace_complete _root_.OAI.Generator.predualAlgebraDualNormed
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [-instance] OAI.closedSubmoduleNormedAddCommGroup OAI.closedSubmoduleNormedSpace OAI.closedSubmoduleInner OAI.vonNeumannToStarSubalgebraIsClosed 
+
+namespace OAI
+
+noncomputable section
+
+namespace Generator.Tracial
+
+/-! Operator-norm bounded trace-norm limits remain in the same ball of the algebra, without requiring a cyclic trace vector. -/
+
+/-! The least-norm point of the actual orbit hull is represented in M and
+fixed by every conjugating unitary; its trace and distance bounds are retained. -/
+open scoped Topology
+open UltrapowerBridge
+variable {H : Type*} [NormedAddCommGroup H] [InnerProductSpace ℂ H] [CompleteSpace H]
+variable {M : VonNeumannAlgebra H} (τ : TracialRepresentation M)
+
+theorem baseVector_injective : Function.Injective (baseVector τ) := by
+  intro a b h
+  apply sub_eq_zero.mp
+  apply τ.separating
+  change baseVector τ (a-b) = 0
+  rw [map_sub, h, sub_self]
+
+end Generator.Tracial
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ129_RG.FactorGeneration_Target
+attribute [-instance] _root_.OAI.Generator.CoefficientOrder.coefficientPartialOrder _root_.OAI.Generator.Tracial.algebraDualNormed _root_.OAI.Generator.Tracial.baseCompleteSpace _root_.OAI.Generator.Tracial.baseNormedAlgebraRat _root_.OAI.Generator.Tracial.functionalSubspaceNormed _root_.OAI.Generator.Tracial.functionalSubspaceNormedSpace _root_.OAI.Generator.Tracial.functionalSubspaceWeakLocallyConvex _root_.OAI.Generator.predualAlgebraDualNormed
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [-instance] OAI.closedSubmoduleNormedAddCommGroup OAI.closedSubmoduleNormedSpace OAI.closedSubmoduleInner OAI.vonNeumannToStarSubalgebraIsClosed 
+
+namespace OAI
+
+namespace Generator
+
+/-! Weak operator generation of concrete finite diffuse factors with separable Banach preduals. -/
+noncomputable section
+universe u
+variable {H : Type u} [NormedAddCommGroup H] [InnerProductSpace ℂ H] [CompleteSpace H]
+
+theorem wstar_le {s : Set (H →L[ℂ] H)} {S : StarSubalgebra ℂ (H →L[ℂ] H)}
+    (hS : WOTClosed S) (hs : s ⊆ S) : wstar s ≤ S :=
+  sInf_le ⟨hS, hs⟩
+
+end
+
+end Generator
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ129_RG.FactorGeneration_MatrixSequence
+attribute [-instance] _root_.OAI.Generator.CoefficientOrder.coefficientPartialOrder _root_.OAI.Generator.Tracial.algebraDualNormed _root_.OAI.Generator.Tracial.functionalSubspaceNormed _root_.OAI.Generator.Tracial.functionalSubspaceNormedSpace _root_.OAI.Generator.Tracial.functionalSubspaceWeakLocallyConvex _root_.OAI.Generator.predualAlgebraDualNormed
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [-instance] OAI.closedSubmoduleNormedAddCommGroup OAI.closedSubmoduleNormedSpace OAI.closedSubmoduleInner OAI.vonNeumannToStarSubalgebraIsClosed 
+
+namespace OAI
+
+noncomputable section
+
+namespace Generator
+
+/-! Finite matrix stages and a quantified refinement operation, including
+zero expectation. Reindexing changes no represented algebra. -/
+
+/-! Iterated compatible full matrix refinements attain every positive
+finite-family commutant expectation budget. The reduction factor is proved. -/
+
+/-! L2 separability supplies a countable centered dense family. The constructed
+matrix sequence has scalar common relative commutant in the ambient algebra. -/
+
+/-! The actual weakly closed star algebra generated by the increasing finite
+matrix stages. Its ambient relative commutant is scalar. This does not yet
+package a diffuse II1 subfactor or derive the representation hypotheses. -/
+
+/-! The constructed matrix-generated weak closure is an actual II1 factor.
+Its bundled von Neumann algebra and faithful trace use the same operators. -/
+
+/-! Finite matrix stages strongly approximate the actual weakly generated
+algebra. The approximants here have no operator norm bound. -/
+variable {H : Type*} [NormedAddCommGroup H] [InnerProductSpace ℂ H] [CompleteSpace H]
+
+theorem bicommutantVonNeumann_coe (S : StarSubalgebra ℂ (H →L[ℂ] H)) :
+    (bicommutantVonNeumann S : Set (H →L[ℂ] H))=
+      Set.centralizer (Set.centralizer (S : Set (H →L[ℂ] H))) := by
+  exact bicommutantStar_coe S
+
+theorem wstar_starAlgebra_eq_bicommutant (S : StarSubalgebra ℂ (H →L[ℂ] H)) :
+    wstar (S : Set (H →L[ℂ] H))=(bicommutantVonNeumann S).toStarSubalgebra := by
+  apply le_antisymm
+  · apply wstar_le (Tracial.vonNeumann_wotClosed _)
+    intro a ha
+    change a ∈ (bicommutantVonNeumann S : Set (H →L[ℂ] H))
+    rw [bicommutantVonNeumann_coe]
+    exact fun b hb => (hb a ha).symm
+  · intro a ha
+    have hb : a ∈ Set.centralizer (Set.centralizer (S : Set (H →L[ℂ] H))) := by
+      rwa [← bicommutantVonNeumann_coe]
+    rw [← SetLike.mem_coe,← wotClosed_bicommutant _ (wstar_closed _)]
+    exact fun b hb' => hb b (fun c hc => hb' c (subset_wstar _ hc))
+
+end Generator
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ129_RG.FactorGeneration_RelativeGeneration
+attribute [-instance] _root_.OAI.Generator.CoefficientOrder.coefficientPartialOrder _root_.OAI.Generator.Tracial.algebraDualNormed _root_.OAI.Generator.Tracial.cornerSpace_complete _root_.OAI.Generator.Tracial.cyclicPredual_complete _root_.OAI.Generator.Tracial.cyclicPredual_normed _root_.OAI.Generator.Tracial.cyclicPredual_normedSpace _root_.OAI.Generator.Tracial.functionalSubspaceNormed _root_.OAI.Generator.Tracial.functionalSubspaceNormedSpace _root_.OAI.Generator.Tracial.functionalSubspaceWeakLocallyConvex _root_.OAI.Generator.Tracial.predualWeakLocallyConvex _root_.OAI.Generator.Tracial.predualWeakScalarTower _root_.OAI.Generator.Tracial.projectionOrbitClosure_complete _root_.OAI.Generator.Tracial.quotientInnerProductSpace _root_.OAI.Generator.Tracial.quotientNormedAddCommGroup _root_.OAI.Generator.predualAlgebraDualNormed
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [-instance] OAI.closedSubmoduleNormedAddCommGroup OAI.closedSubmoduleNormedSpace OAI.closedSubmoduleInner OAI.vonNeumannToStarSubalgebraIsClosed 
+
+namespace OAI
+
+noncomputable section
+
+namespace Generator
+
+/-! Actual finite star polynomials in one unitary variable and coefficients in
+an included von Neumann algebra. Both uniform operator bounds and continuity
+of trace-vector evaluation are proved by recursion on the expression. -/
+open Filter
+open scoped Topology
+
+/-! The literal algebra W*(N,u), its trace Hilbert subspace, and density of
+actual N-coefficient star-polynomial values in that subspace. -/
+open Filter
+open scoped Topology
+
+/-! The literal interleaved word belongs to W*(N,u), is unitary, and has
+trace norm one. The printed perturbation-size bound tends to zero. -/
+open Filter
+open scoped Topology
+
+/-! Projection continuity for generated algebras, using the complete trace-unitary metric, dense polynomial sections, and trace-vector separability. -/
+open Filter
+open scoped Topology
+namespace Tracial
+open UltrapowerBridge
+variable {H : Type*} [NormedAddCommGroup H] [InnerProductSpace ℂ H] [CompleteSpace H]
+variable {N M : VonNeumannAlgebra H} (τ : TracialRepresentation M) (hNM : N ≤ M)
+
+/-! The bounded conditional expectation agrees with the actual Hilbert
+projection. Proper subalgebras have a unitary outside them, yielding the
+nonzero represented residual used by thm:relative-generation. -/
+
+theorem conditionalExpectation_vector_projection (x : M.toStarSubalgebra) :
+    (vectorOrbitClosure N.toStarSubalgebra τ.vector).starProjection (baseVector τ x) =
+      baseVector τ (conditionalExpectation τ hNM x) := by
+  apply Submodule.eq_starProjection_of_mem_of_inner_eq_zero
+  · exact Submodule.le_topologicalClosure _
+      ⟨⟨(conditionalExpectation τ hNM x).val,conditionalExpectation_mem τ hNM x⟩,rfl⟩
+  · intro w hw
+    rw [← map_sub]
+    apply inner_eq_zero_symm.mp
+    have hc : IsClosed {y : H | inner ℂ y (baseVector τ (x-conditionalExpectation τ hNM x))=0} :=
+      isClosed_eq (continuous_id.inner continuous_const) continuous_const
+    apply closure_minimal (t := {y : H | inner ℂ y (baseVector τ (x-conditionalExpectation τ hNM x))=0})
+      ?_ hc hw
+    rintro _ ⟨a,rfl⟩
+    change inner ℂ (baseVector τ (coordinateInclusion hNM a))
+      (baseVector τ (x-conditionalExpectation τ hNM x))=0
+    rw [baseVector_inner_trace]
+    exact conditionalExpectation_orthogonal τ hNM x
+      ⟨star (coordinateInclusion hNM a),N.toStarSubalgebra.star_mem' a.property⟩
+
+end Tracial
+
+end Generator
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ129_RG.FactorGeneration_TraceTransport
+attribute [-instance] _root_.OAI.Generator.CoefficientOrder.coefficientPartialOrder _root_.OAI.Generator.predualAlgebraDualNormed
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [-instance] OAI.closedSubmoduleNormedAddCommGroup OAI.closedSubmoduleNormedSpace OAI.closedSubmoduleInner OAI.vonNeumannToStarSubalgebraIsClosed 
+
+namespace OAI
+
+noncomputable section
+
+namespace Generator
+
+/-! Literal weak-operator generation under a concrete star-algebra isomorphism.
+Continuity is explicitly for the restricted WOT, not the operator norm topology.
+This transport does not construct a trace representation of a finite factor. -/
+section
+variable {H K : Type*}
+  [NormedAddCommGroup H] [InnerProductSpace ℂ H] [CompleteSpace H]
+  [NormedAddCommGroup K] [InnerProductSpace ℂ K] [CompleteSpace K]
+variable {S : StarSubalgebra ℂ (H →L[ℂ] H)}
+  {T : StarSubalgebra ℂ (K →L[ℂ] K)}
+
+theorem concretePreimage_le (φ : S →⋆ₐ[ℂ] T)
+    (Q : StarSubalgebra ℂ (K →L[ℂ] K)) : concretePreimage φ Q ≤ S := by
+  rintro a ⟨b, _, rfl⟩
+  exact b.property
+
+theorem mem_concretePreimage (φ : S →⋆ₐ[ℂ] T)
+    (Q : StarSubalgebra ℂ (K →L[ℂ] K)) (a : S) :
+    a.val ∈ concretePreimage φ Q ↔ (φ a).val ∈ Q := by
+  constructor
+  · rintro ⟨b, hb, hab⟩
+    have h : b = a := Subtype.ext hab
+    subst b
+    exact hb
+  · intro ha
+    exact ⟨a, ha, rfl⟩
+
+/-! Transport of the unchanged finite diffuse factor predicate.
+The algebraic fields use the actual star isomorphism; target WOT closedness
+is explicit. No trace or separability conclusion is inferred. -/
+
+end
+
+/-! Compact original image balls and spectral clipping identify the actual
+bicommutant with the original algebra's represented image. -/
+open Filter
+open scoped ComplexConjugate ComplexStarModule CStarAlgebra Pointwise Topology
+
+/-! First step of generation transport: compact balls and closed vector balls
+for the represented intersection with any original WOT-closed subalgebra. -/
+open Filter
+open scoped Topology CStarAlgebra
+
+/-! Closed images of original WOT-closed subalgebras in the constructed representation. -/
+open Filter
+open scoped Topology CStarAlgebra ComplexStarModule
+
+end Generator
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ129_RG.RelativeGeneration_ConditionalMembership
+attribute [-instance] _root_.OAI.Generator.CoefficientOrder.coefficientPartialOrder _root_.OAI.Generator.Tracial.algebraDualNormed _root_.OAI.Generator.Tracial.cornerSpace_complete _root_.OAI.Generator.Tracial.cyclicPredual_complete _root_.OAI.Generator.Tracial.cyclicPredual_normed _root_.OAI.Generator.Tracial.cyclicPredual_normedSpace _root_.OAI.Generator.Tracial.functionalSubspaceNormed _root_.OAI.Generator.Tracial.functionalSubspaceNormedSpace _root_.OAI.Generator.Tracial.functionalSubspaceWeakLocallyConvex _root_.OAI.Generator.Tracial.predualWeakLocallyConvex _root_.OAI.Generator.Tracial.predualWeakScalarTower _root_.OAI.Generator.Tracial.projectionOrbitClosure_complete _root_.OAI.Generator.Tracial.quotientInnerProductSpace _root_.OAI.Generator.Tracial.quotientNormedAddCommGroup _root_.OAI.Generator.predualAlgebraDualNormed
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [-instance] OAI.closedSubmoduleNormedAddCommGroup OAI.closedSubmoduleNormedSpace OAI.closedSubmoduleInner OAI.vonNeumannToStarSubalgebraIsClosed 
+
+namespace OAI
+
+noncomputable section
+
+namespace Generator.Tracial
+open UltrapowerBridge
+variable {H : Type*} [NormedAddCommGroup H] [InnerProductSpace ℂ H] [CompleteSpace H]
+variable {M : VonNeumannAlgebra H} (τ : TracialRepresentation M)
+
+/-- This is the actual bounded conditional-expectation step, including faithfulness. -/
+theorem mem_subalgebra_of_baseVector_mem {Q : VonNeumannAlgebra H}
+    (hQM : Q ≤ M) (x : M.toStarSubalgebra)
+    (hx : baseVector τ x ∈ vectorOrbitClosure Q.toStarSubalgebra τ.vector) :
+    x.val ∈ Q := by
+  have hv := (vectorOrbitClosure Q.toStarSubalgebra τ.vector).starProjection_eq_self_iff.mpr hx
+  rw [conditionalExpectation_vector_projection τ hQM x] at hv
+  have he : conditionalExpectation τ hQM x = x := baseVector_injective τ hv
+  exact he ▸ conditionalExpectation_mem τ hQM x
+
+end Generator.Tracial
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ129_RG.RelativeGeneration_OriginalTransport
+attribute [-instance] _root_.OAI.Generator.CoefficientOrder.coefficientPartialOrder _root_.OAI.Generator.Tracial.quotientInnerProductSpace _root_.OAI.Generator.Tracial.quotientNormedAddCommGroup _root_.OAI.Generator.predualAlgebraDualNormed
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [-instance] OAI.closedSubmoduleNormedAddCommGroup OAI.closedSubmoduleNormedSpace OAI.closedSubmoduleInner OAI.vonNeumannToStarSubalgebraIsClosed 
+
+namespace OAI
+
+noncomputable section
+
+/- Original-factor relative transport. The forward direction is
+   proved from concrete strong approximation and the constructed trace, not
+   from a postulated representation/normality interface. -/
+open Filter
+open scoped Topology
+namespace Generator.Tracial
+open UltrapowerBridge
+variable {H : Type*} [NormedAddCommGroup H] [InnerProductSpace ℂ H] [CompleteSpace H]
+variable {M : VonNeumannAlgebra H}
+variable (hfactor : ∀ c : M.toStarSubalgebra,
+  (∀ a : M.toStarSubalgebra, a*c=c*a) → ∃ z : ℂ, c=z • (1 : M.toStarSubalgebra))
+variable (hdiff : ∀ p : M.toStarSubalgebra, IsStarProjection p → p ≠ 0 →
+  ∃ q : M.toStarSubalgebra, IsStarProjection q ∧ q ≠ 0 ∧ q ≠ p ∧ p*q=q ∧ q*p=q)
+variable (hfinite : ∀ a : M.toStarSubalgebra, star a*a=1 → a*star a=1)
+variable (hunit : (1 : M.toStarSubalgebra) ≠ 0)
+local notation "K" => TraceFreeHilbert hfactor hdiff hfinite hunit
+local notation "π" => traceFreeHilbertAction hfactor hdiff hfinite hunit
+local notation "Ω" => traceFreeHilbertVector hfactor hdiff hfinite hunit
+local notation "R" => traceFreeHilbertClosure hfactor hdiff hfinite hunit
+local notation "σ" => traceFreeHilbertClosureTrace hfactor hdiff hfinite hunit
+local notation "e" => traceFreeHilbertEquiv hfactor hdiff hfinite hunit
+
+/-- Strong convergence in the original representation implies trace-vector
+convergence in the constructed representation. No norm bound or ambient
+Hilbert-space separability is assumed. The finite-vector formula is already
+proved for the faithful normalized trace of an original II₁ factor. -/
+theorem traceFreeHilbertVector_tendsto_of_strong
+    {I : Type*} (l : Filter I) (a : I → M.toStarSubalgebra) (x : M.toStarSubalgebra)
+    (ha : ∀ v : H, Tendsto (fun i => (a i).val v) l (𝓝 (x.val v))) :
+    Tendsto (fun i => π (a i) Ω) l (𝓝 (π x Ω)) := by
+  obtain ⟨n,ξ,η,htrace⟩ := traceFreeTrace_finite_vector_representation hfactor hdiff hfinite hunit
+  have hnorm (b : M.toStarSubalgebra) :
+      ‖π b Ω‖^2 = ∑ j, (inner ℂ (b.val (η j)) (b.val (ξ j))).re := by
+    rw [traceFreeHilbertAction_vector, LinearIsometry.norm_map,
+      traceFreeCopy_norm_sq, htrace, Complex.re_sum]
+    apply Finset.sum_congr rfl
+    intro j _
+    change (inner ℂ (η j) (star b.val (b.val (ξ j)))).re = _
+    rw [ContinuousLinearMap.star_eq_adjoint, ContinuousLinearMap.adjoint_inner_right]
+  have hdiffv (v : H) : Tendsto (fun i => ((a i)-x).val v) l (𝓝 0) := by
+    change Tendsto (fun i => (a i).val v-x.val v) l (𝓝 0)
+    simpa only [sub_self] using (ha v).sub
+      (tendsto_const_nhds : Tendsto (fun _ : I => x.val v) l (𝓝 (x.val v)))
+  have hs : Tendsto (fun i => ‖π (a i-x) Ω‖^2) l (𝓝 0) := by
+    simp_rw [hnorm]
+    have hh := tendsto_finsetSum (Finset.univ : Finset (Fin n))
+      (fun j _ => (Complex.continuous_re.tendsto _).comp ((hdiffv (η j)).inner (hdiffv (ξ j))))
+    simpa only [Function.comp_apply,inner_zero_left, Complex.zero_re, Finset.sum_const_zero] using hh
+  have hn : Tendsto (fun i => ‖π (a i-x) Ω‖) l (𝓝 0) := by
+    simpa only [Real.sqrt_sq (norm_nonneg _),Real.sqrt_zero] using hs.sqrt
+  apply (tendsto_iff_dist_tendsto_zero).mpr
+  simpa only [dist_eq_norm, map_sub, sub_apply] using hn
+
+/-- Forward closure transport, with the actual conditional expectation used
+   to pass from trace-vector closure back to bounded-algebra membership. -/
+theorem traceFreeHilbert_mem_of_wstar
+    (A : StarSubalgebra ℂ (H →L[ℂ] H)) (hAM : A ≤ M.toStarSubalgebra)
+    (Q : VonNeumannAlgebra K) (hQR : Q ≤ R)
+    (hAQ : ∀ a : M.toStarSubalgebra, a.val ∈ A → π a ∈ Q)
+    (x : M.toStarSubalgebra) (hx : x.val ∈ wstar (A : Set (H →L[ℂ] H))) :
+    π x ∈ Q := by
+  classical
+  have hxb : x.val ∈ Set.centralizer (Set.centralizer (A : Set (H →L[ℂ] H))) := by
+    rw [← bicommutantVonNeumann_coe]
+    rwa [wstar_starAlgebra_eq_bicommutant] at hx
+  obtain ⟨a,ha⟩ := bicommutant_exists_strong_net A x.val hxb
+  let b : Finset H × ℕ → M.toStarSubalgebra := fun i => ⟨(a i).val,hAM (a i).property⟩
+  have hb := traceFreeHilbertVector_tendsto_of_strong hfactor hdiff hfinite hunit atTop b x ha
+  apply mem_subalgebra_of_baseVector_mem σ hQR (e x)
+  apply (Submodule.isClosed_topologicalClosure (vectorOrbitMap Q.toStarSubalgebra Ω).range).mem_of_tendsto hb
+  exact Eventually.of_forall fun i =>
+    Submodule.le_topologicalClosure _ ⟨⟨π (b i),hAQ (b i) (a i).property⟩,rfl⟩
+
+/-- The preimage of a represented von Neumann subalgebra is genuinely WOT
+closed, proved from the actual constructed representation. -/
+theorem traceFreeHilbert_preimage_wotClosed
+    (Q : VonNeumannAlgebra K) (hQR : Q ≤ R) :
+    WOTClosed (concretePreimage (e).toStarAlgHom Q.toStarSubalgebra) := by
+  let A := concretePreimage (e).toStarAlgHom Q.toStarSubalgebra
+  have hAM : A ≤ M.toStarSubalgebra := concretePreimage_le _ _
+  have heq : wstar (A : Set (H →L[ℂ] H)) = A := by
+    refine le_antisymm ?_ (show A ≤ wstar (A : Set (H →L[ℂ] H)) from subset_wstar _)
+    intro x hx
+    have hxM : x ∈ M.toStarSubalgebra := wstar_le (vonNeumann_wotClosed M) hAM hx
+    apply (mem_concretePreimage (e).toStarAlgHom Q.toStarSubalgebra ⟨x,hxM⟩).mpr
+    exact traceFreeHilbert_mem_of_wstar hfactor hdiff hfinite hunit A hAM Q hQR
+      (fun a ha => (mem_concretePreimage (e).toStarAlgHom Q.toStarSubalgebra a).mp ha)
+      ⟨x,hxM⟩ hx
+  change WOTClosed A
+  rw [← heq]
+  exact wstar_closed _
+
+end Generator.Tracial
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ129_RG.RelativeGeneration_InclusionTransport
+attribute [-instance] _root_.OAI.Generator.CoefficientOrder.coefficientPartialOrder _root_.OAI.Generator.Tracial.quotientInnerProductSpace _root_.OAI.Generator.Tracial.quotientNormedAddCommGroup _root_.OAI.Generator.predualAlgebraDualNormed
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [-instance] OAI.closedSubmoduleNormedAddCommGroup OAI.closedSubmoduleNormedSpace OAI.closedSubmoduleInner OAI.vonNeumannToStarSubalgebraIsClosed 
+
+namespace OAI
+
+noncomputable section
+
+/- Actual image inclusion, algebra equivalence, hypotheses, and relative generation. -/
+namespace Generator.Tracial
+open UltrapowerBridge
+variable {H : Type*} [NormedAddCommGroup H] [InnerProductSpace ℂ H] [CompleteSpace H]
+variable {M : VonNeumannAlgebra H}
+variable (hfactor : ∀ c : M.toStarSubalgebra,
+  (∀ a : M.toStarSubalgebra, a*c=c*a) → ∃ z : ℂ, c=z • (1 : M.toStarSubalgebra))
+variable (hdiff : ∀ p : M.toStarSubalgebra, IsStarProjection p → p ≠ 0 →
+  ∃ q : M.toStarSubalgebra, IsStarProjection q ∧ q ≠ 0 ∧ q ≠ p ∧ p*q=q ∧ q*p=q)
+variable (hfinite : ∀ a : M.toStarSubalgebra, star a*a=1 → a*star a=1)
+variable (hunit : (1 : M.toStarSubalgebra) ≠ 0)
+local notation "K" => TraceFreeHilbert hfactor hdiff hfinite hunit
+local notation "π" => traceFreeHilbertAction hfactor hdiff hfinite hunit
+local notation "R" => traceFreeHilbertClosure hfactor hdiff hfinite hunit
+local notation "e" => traceFreeHilbertEquiv hfactor hdiff hfinite hunit
+
+variable (P : StarSubalgebra ℂ (H →L[ℂ] H)) (hP : WOTClosed P)
+local notation "N" => traceFreeRelativeImage hfactor hdiff hfinite hunit P hP
+
+variable (hPM : P ≤ M.toStarSubalgebra)
+
+include hPM in
+/-- Generation is transported both ways, using closed preimages and closed images. -/
+theorem traceFreeRelativeGeneration_iff_oai (u : M.toStarSubalgebra) :
+    wstar ((P : Set (H →L[ℂ] H)) ∪ {u.val}) = M.toStarSubalgebra ↔
+      wstar ((N : Set (K →L[ℂ] K)) ∪ {π u}) = (R).toStarSubalgebra := by
+  constructor
+  · intro hgen
+    let Q := vonNeumannOfWOTClosed
+      (wstar ((N : Set (K →L[ℂ] K)) ∪ {π u})) (wstar_closed _)
+    have hQR : Q ≤ R := wstar_le (vonNeumann_wotClosed R) (by
+      rintro a (ha|ha)
+      · exact traceFreeRelativeImage_le hfactor hdiff hfinite hunit P hP ha
+      · obtain rfl := Set.mem_singleton_iff.mp ha
+        exact traceFreeHilbertAction_mem_closure hfactor hdiff hfinite hunit u)
+    have hpre : M.toStarSubalgebra ≤ concretePreimage (e).toStarAlgHom Q.toStarSubalgebra := by
+      apply le_trans (le_of_eq hgen.symm)
+      apply wstar_le (traceFreeHilbert_preimage_wotClosed hfactor hdiff hfinite hunit Q hQR)
+      rintro a (ha|ha)
+      · apply (mem_concretePreimage (e).toStarAlgHom Q.toStarSubalgebra ⟨a,hPM ha⟩).mpr
+        exact subset_wstar _ (Or.inl ⟨⟨a,hPM ha⟩,ha,rfl⟩)
+      · obtain rfl := Set.mem_singleton_iff.mp ha
+        exact (mem_concretePreimage (e).toStarAlgHom Q.toStarSubalgebra u).mpr
+          (subset_wstar _ (Or.inr (Set.mem_singleton _)))
+    apply le_antisymm (show Q.toStarSubalgebra ≤ (R).toStarSubalgebra from hQR)
+    intro b hb
+    let a := (e).symm ⟨b,hb⟩
+    have ha := (mem_concretePreimage (e).toStarAlgHom Q.toStarSubalgebra a).mp (hpre a.property)
+    change ((e) ((e).symm ⟨b,hb⟩)).val ∈ Q.toStarSubalgebra at ha
+    simpa only [StarAlgEquiv.apply_symm_apply] using ha
+  · intro hgen
+    let A := wstar ((P : Set (H →L[ℂ] H)) ∪ {u.val})
+    have hAM : A ≤ M.toStarSubalgebra := wstar_le (vonNeumann_wotClosed M) (by
+      rintro a (ha|ha)
+      · exact hPM ha
+      · obtain rfl := Set.mem_singleton_iff.mp ha
+        exact u.property)
+    let B := (A.comap M.toStarSubalgebra.subtype).map π
+    have hRB : (R).toStarSubalgebra ≤ B := by
+      apply le_trans (le_of_eq hgen.symm)
+      apply wstar_le (traceFreeSubalgebraImage_wotClosed hfactor hdiff hfinite hunit A
+        (wstar_closed _))
+      rintro a (ha|ha)
+      · obtain ⟨b,hb,rfl⟩ := ha
+        exact ⟨b,subset_wstar _ (Or.inl hb),rfl⟩
+      · obtain rfl := Set.mem_singleton_iff.mp ha
+        exact ⟨u,subset_wstar _ (Or.inr (Set.mem_singleton _)),rfl⟩
+    apply le_antisymm hAM
+    intro a ha
+    obtain ⟨b,hb,he⟩ := hRB (traceFreeHilbertAction_mem_closure hfactor hdiff hfinite hunit ⟨a,ha⟩)
+    have he' := traceFreeHilbertAction_injective hfactor hdiff hfinite hunit he
+    change b.val ∈ A at hb
+    rwa [he'] at hb
+
+end Generator.Tracial
+
+end
+
+end OAI
+end
+
+theorem solution.{u_1} : type_of% @OAI.Generator.Tracial.traceFreeRelativeGeneration_iff_oai.{u_1} := @OAI.Generator.Tracial.traceFreeRelativeGeneration_iff_oai.{u_1}

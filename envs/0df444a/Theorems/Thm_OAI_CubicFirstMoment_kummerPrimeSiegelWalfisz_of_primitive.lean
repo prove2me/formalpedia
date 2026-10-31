@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_kummerPrimeSiegelWalfisz_of_primitive
 -- name    : OAI.CubicFirstMoment.kummerPrimeSiegelWalfisz_of_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:00:57.236657+00:00
 -- url     : https://prove2.me/theorems/5f4e3e19-b460-460a-a778-0f51beea5ab7

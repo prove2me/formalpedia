@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchmidliRuin_Exist_theorem_2
 -- name    : SchmidliRuin.Exist.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:16:54.336119+00:00
 -- url     : https://prove2.me/theorems/76721bcf-7913-4943-bf89-3ec4cce9bf64

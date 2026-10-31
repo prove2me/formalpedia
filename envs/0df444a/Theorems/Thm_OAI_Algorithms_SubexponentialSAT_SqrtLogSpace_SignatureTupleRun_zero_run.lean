@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SignatureTupleRun_zero_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SignatureTupleRun.zero_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:37:45.557992+00:00
 -- url     : https://prove2.me/theorems/d9bbf8a4-a981-4455-8be4-4c72817fe7c9

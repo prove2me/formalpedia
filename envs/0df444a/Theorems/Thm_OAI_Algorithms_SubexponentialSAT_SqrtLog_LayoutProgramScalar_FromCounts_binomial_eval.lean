@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutProgramScalar_FromCounts_binomial_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutProgramScalar.FromCounts.binomial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:06:45.133016+00:00
 -- url     : https://prove2.me/theorems/af1dc138-4c8f-49f7-8213-172c7c730f25

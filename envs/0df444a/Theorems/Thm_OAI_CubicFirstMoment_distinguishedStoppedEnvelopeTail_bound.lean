@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_distinguishedStoppedEnvelopeTail_bound
 -- name    : OAI.CubicFirstMoment.distinguishedStoppedEnvelopeTail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:40:45.716749+00:00
 -- url     : https://prove2.me/theorems/95d8f120-795b-4fd7-889b-6302306979ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_extension_for_certificate_38ffb807
 -- name    : WilliamsonShmoys.planar_drawing_connected_extension_for_certificate_38ffb807
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T12:55:07.268469+00:00
 -- url     : https://prove2.me/theorems/e23f071b-28cb-4595-a1ae-f688eec15cd4

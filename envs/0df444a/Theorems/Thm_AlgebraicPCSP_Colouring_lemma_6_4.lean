@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_Colouring_lemma_6_4
 -- name    : AlgebraicPCSP.Colouring.lemma_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:13:29.857168+00:00
 -- url     : https://prove2.me/theorems/06777ba0-2c96-41dd-b15a-3315a00fa862

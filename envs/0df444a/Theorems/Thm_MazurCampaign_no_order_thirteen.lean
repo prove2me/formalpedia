@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurCampaign_no_order_thirteen
 -- name    : MazurCampaign.no_order_thirteen
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-06T08:33:20.506754+00:00
 -- url     : https://prove2.me/theorems/0cef6cc2-37da-4490-9b55-284e4f5b67b5

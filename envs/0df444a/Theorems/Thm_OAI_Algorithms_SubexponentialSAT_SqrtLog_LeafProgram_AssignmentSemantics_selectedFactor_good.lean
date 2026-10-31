@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafProgram_AssignmentSemantics_selectedFactor_good
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafProgram.AssignmentSemantics.selectedFactor_good
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:27:15.171759+00:00
 -- url     : https://prove2.me/theorems/70d57132-b87e-4d74-9d80-e9f781881b8a

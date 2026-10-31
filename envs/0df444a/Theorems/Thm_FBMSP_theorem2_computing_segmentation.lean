@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_theorem2_computing_segmentation
 -- name    : FBMSP.theorem2_computing_segmentation
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T04:58:41.100526+00:00
 -- url     : https://prove2.me/theorems/b4166c70-7353-4176-8a6e-4dfdde85a22b

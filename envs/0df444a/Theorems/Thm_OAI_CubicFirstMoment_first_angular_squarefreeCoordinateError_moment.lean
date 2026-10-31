@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_first_angular_squarefreeCoordinateError_moment
 -- name    : OAI.CubicFirstMoment.first_angular_squarefreeCoordinateError_moment
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:25:06.610775+00:00
 -- url     : https://prove2.me/theorems/31c24a34-ff6c-4da0-a619-8d7a2ae117d3

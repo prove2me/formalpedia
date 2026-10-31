@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_extension__p2m_8be6e20d_20e4_4a9a_97eb_8181cc85f42c_a2
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_extension__p2m_8be6e20d_20e4_4a9a_97eb_8181cc85f42c_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T13:05:13.387473+00:00
 -- url     : https://prove2.me/theorems/f27cd6ba-9373-4381-85e4-1e0b2c9cd75e

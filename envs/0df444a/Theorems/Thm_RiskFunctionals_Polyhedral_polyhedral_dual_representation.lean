@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Polyhedral_polyhedral_dual_representation
 -- name    : RiskFunctionals.Polyhedral.polyhedral_dual_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:55:06.751385+00:00
 -- url     : https://prove2.me/theorems/a92c8812-e616-48a6-9c89-374acf279cc0

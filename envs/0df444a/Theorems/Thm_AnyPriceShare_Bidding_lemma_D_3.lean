@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnyPriceShare_Bidding_lemma_D_3
 -- name    : AnyPriceShare.Bidding.lemma_D_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:15:05.615991+00:00
 -- url     : https://prove2.me/theorems/80a3b866-a8a8-4411-b38f-7d97250172c9

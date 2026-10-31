@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadSumProgram_finalize_prefix
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadSumProgram.finalize_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:16:59.94906+00:00
 -- url     : https://prove2.me/theorems/45b3fc58-845b-4675-9f36-3f648b498433

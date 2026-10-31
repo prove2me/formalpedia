@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxADMMLC_Conv_cor_3_7
 -- name    : ProxADMMLC.Conv.cor_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:47:45.323046+00:00
 -- url     : https://prove2.me/theorems/3ab9c162-5ab1-49ae-bdb6-3d1fd0214ddd

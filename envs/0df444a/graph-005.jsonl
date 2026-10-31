@@ -5456,11 +5456,6 @@
 {"parent": "Apery.table2_block_8_15", "child": "Zeta5_SourceMeasure", "via": ["statement"]}
 {"parent": "Apery.table2_block_8_15", "child": "Zeta5_SourceEnergy", "via": ["statement"]}
 {"parent": "Apery.table2_block_8_15", "child": "Zeta5_SourceAnalytic", "via": ["statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_v_spherePt", "child": "ChapterRadialLaplacian", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_v_spherePt", "child": "ChapterLaplacianProduct", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_v_spherePt", "child": "ChapterSolidHarmonicTools", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_v_spherePt", "child": "ChapterSolidHarmonic", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_v_spherePt", "child": "ChapterLegendrePolynomial", "via": ["solution", "statement"]}
 {"parent": "BookProof.StrichartzWave.opL2_potentialOp_apply_eq_mulL2", "child": "ChapterStrichartzWave", "via": ["solution", "statement"]}
 {"parent": "BookProof.StrichartzWave.opL2_potentialOp_apply_eq_mulL2", "child": "ChapterWaveBoundedPotential", "via": ["solution", "statement"]}
 {"parent": "BookProof.StrichartzWave.opL2_potentialOp_apply_eq_mulL2", "child": "ChapterWaveUnboundedPotential", "via": ["solution", "statement"]}
@@ -5935,7 +5930,7 @@
 {"parent": "CorruptRobustRL.Supervised.proposition4_2_visitation_ratio_bound", "child": "CorruptRobustRL_Supervised_MDP", "via": ["statement"]}
 {"parent": "PigeonholeDesign.Upper.lemma_3", "child": "PigeonholeDesign_Upper_Setting", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Nannicini.qaoa_approximates_adiabatic", "child": "QAlgorithms_Defs_Adiabatic", "via": ["statement"]}
-{"parent": "QAlgorithms.Nannicini.adiabatic_theorem_linInterp", "child": "QAlgorithms_Defs_Adiabatic", "via": ["statement"]}
+{"parent": "QAlgorithms.Nannicini.adiabatic_theorem_linInterp", "child": "QAlgorithms_Defs_Adiabatic", "via": ["solution", "statement"]}
 {"parent": "TPG_Estimators", "child": "TPG_Model", "via": ["statement"]}
 {"parent": "actuarial_d_arrearsJoint", "child": "actuarial_d_arrearsValue", "via": ["statement"]}
 {"parent": "actuarial_d_arrearsJoint", "child": "actuarial_d_both", "via": ["statement"]}
@@ -6680,11 +6675,6 @@
 {"parent": "PNT_ZeroFree_433_0181_parallel1", "child": "PNT_ZeroFree_433_0162", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0181_parallel1", "child": "PNT_ZeroFree_433_0009", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0181_parallel1", "child": "PNT_ZeroFree_433_0265_parallel1", "via": ["statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_e_spherePt", "child": "ChapterRadialLaplacian", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_e_spherePt", "child": "ChapterLaplacianProduct", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_e_spherePt", "child": "ChapterSolidHarmonicTools", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_e_spherePt", "child": "ChapterSolidHarmonic", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_e_spherePt", "child": "ChapterLegendrePolynomial", "via": ["solution", "statement"]}
 {"parent": "LindelofHypothesis.ingham_density_estimate", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["statement"]}
 {"parent": "LindelofHypothesis.ingham_density_estimate", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0103", "child": "PNT_ZeroFree_433_0101", "via": ["statement"]}
@@ -8588,11 +8578,6 @@
 {"parent": "PNT_ZeroFree_433_0240_parallel2", "child": "PNT_ZeroFree_433_0236_parallel1", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0240_parallel2", "child": "PNT_ZeroFree_433_0196_parallel1", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0240_parallel2", "child": "PNT_ZeroFree_433_0227_parallel2", "via": ["statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_u_spherePt", "child": "ChapterRadialLaplacian", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_u_spherePt", "child": "ChapterLaplacianProduct", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_u_spherePt", "child": "ChapterSolidHarmonicTools", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_u_spherePt", "child": "ChapterSolidHarmonic", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.inner_u_spherePt", "child": "ChapterLegendrePolynomial", "via": ["solution", "statement"]}
 {"parent": "SuperconductingQC.toffoli_mem_closure_singleQubit_CNOT", "child": "SuperconductingQC_Gates", "via": ["solution", "statement"]}
 {"parent": "PNT_ZeroFree_433_0244_parallel2", "child": "PNT_ZeroFree_433_0106", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0244_parallel2", "child": "PNT_ZeroFree_433_0211_parallel1", "via": ["statement"]}
@@ -10581,7 +10566,7 @@
 {"parent": "TPG.lemma_2_alpha_mixing", "child": "TPG_Model", "via": ["solution", "statement"]}
 {"parent": "P8Lift.complexIface_cost", "child": "IntMul_Kappa_K_Defs9", "via": ["solution", "statement"]}
 {"parent": "IntMul_HvdH_M_Defs3", "child": "IntMul_HvdH_M_Defs2", "via": ["statement"]}
-{"parent": "QAlgorithms.Nannicini.adiabatic_theorem", "child": "QAlgorithms_Defs_Adiabatic", "via": ["statement"]}
+{"parent": "QAlgorithms.Nannicini.adiabatic_theorem", "child": "QAlgorithms_Defs_Adiabatic", "via": ["solution", "statement"]}
 {"parent": "NLogN.NK.numOK_of", "child": "IntMul_HvdH_M_Defs8", "via": ["solution", "statement"]}
 {"parent": "Apery.table2_block_32_38", "child": "Zeta5_SourceConstants", "via": ["statement"]}
 {"parent": "Apery.table2_block_32_38", "child": "Zeta5_SourceMeasure", "via": ["statement"]}
@@ -12511,11 +12496,6 @@
 {"parent": "UnphysicalHilbert.prop9_superposition_iff_nonunique_decomposition", "child": "UnphysicalHilbert_StateSpace", "via": ["solution", "statement"]}
 {"parent": "OAI.FiniteAlgebraicEnvelopes.lemma_2_1_construction_v2", "child": "lemma_2_1_data", "via": ["solution", "statement"]}
 {"parent": "OAI_QuantumFactoring_Part03", "child": "OAI_QuantumFactoring_Part02", "via": ["statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.solidHarmonic_spherical", "child": "ChapterRadialLaplacian", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.solidHarmonic_spherical", "child": "ChapterLaplacianProduct", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.solidHarmonic_spherical", "child": "ChapterSolidHarmonicTools", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.solidHarmonic_spherical", "child": "ChapterSolidHarmonic", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.solidHarmonic_spherical", "child": "ChapterLegendrePolynomial", "via": ["solution", "statement"]}
 {"parent": "IntMul_HvdH_M_Defs8", "child": "IntMul_HvdH_M_Defs7", "via": ["statement"]}
 {"parent": "SearchNeutrality.ShortTerm.s_case_B2", "child": "SearchNeutrality_ShortTerm_ClosedForms", "via": ["statement"]}
 {"parent": "SearchNeutrality.ShortTerm.s_case_B2", "child": "SearchNeutrality_ShortTerm_Model", "via": ["statement"]}
@@ -15560,11 +15540,6 @@
 {"parent": "OAI.PiExponent.FormalInterpolation.packet_matrix_surjectivity_gives_right_inverse", "child": "OAI_PiExponent_LogarithmicCenterIdeals", "via": ["solution", "statement"]}
 {"parent": "ChanceStateCtrl.General.theorem_2_2_lipschitz", "child": "ChanceStateCtrl_General_Radial", "via": ["solution", "statement"]}
 {"parent": "ChanceStateCtrl.General.theorem_2_2_lipschitz", "child": "ChanceStateCtrl_General_Setting", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.norm_spherePt", "child": "ChapterRadialLaplacian", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.norm_spherePt", "child": "ChapterLaplacianProduct", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.norm_spherePt", "child": "ChapterSolidHarmonicTools", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.norm_spherePt", "child": "ChapterSolidHarmonic", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSolidHarmonic.norm_spherePt", "child": "ChapterLegendrePolynomial", "via": ["solution", "statement"]}
 {"parent": "ContinuumHypothesis.gch_iff_two_pow_aleph_eq_aleph_succ", "child": "CH_CardinalArithmetic", "via": ["solution", "statement"]}
 {"parent": "GIGnBounds.Tail.lemma_1", "child": "GIGnBounds_Tail_Setting", "via": ["solution", "statement"]}
 {"parent": "PM.star4_12", "child": "PM_core_statement_formulas", "via": ["solution", "statement"]}
@@ -32153,7 +32128,7 @@
 {"parent": "ThreeSum.LightLocalCoverSchedule.indices_lt", "child": "ThreeSum1962Source_Bundle07", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightLocalCoverSchedule.indices_lt", "child": "APSPSource_ThreeSumApsp_Lang_Logic", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightLocalCoverSchedule.indices_lt", "child": "APSPSource_ThreeSumApsp_Lang_Regions", "via": ["solution", "statement"]}
-{"parent": "OfflineStochMatch.InfinitePatience.eq_4", "child": "OfflineStochMatch_InfinitePatience_Setting", "via": ["statement"]}
+{"parent": "OfflineStochMatch.InfinitePatience.eq_4", "child": "OfflineStochMatch_InfinitePatience_Setting", "via": ["solution", "statement"]}
 {"parent": "Multihoming.Hump.profit_zero_gt_profit_t", "child": "Multihoming_Hump_Model", "via": ["solution", "statement"]}
 {"parent": "FirstPriceLearning.GraphFeedback.lemma_1_contextual", "child": "FirstPriceLearning_GraphFeedback_BanditModel", "via": ["statement"]}
 {"parent": "FirstPriceLearning.GraphFeedback.lemma_1_contextual", "child": "FirstPriceLearning_GraphFeedback_FeedbackGraph", "via": ["statement"]}
@@ -32494,7 +32469,7 @@
 {"parent": "OfflineStochMatch_UnitPatience_Setting", "child": "OfflineStochMatch_Attenuation_Setting", "via": ["statement"]}
 {"parent": "BudgetClock.Monotone.lemma_11", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
 {"parent": "BudgetClock.Monotone.lemma_11", "child": "BudgetClock_Monotone_Mechanism", "via": ["solution", "statement"]}
-{"parent": "Multihoming.Hump.deriv_profit_neg_at_t", "child": "Multihoming_Hump_Model", "via": ["statement"]}
+{"parent": "Multihoming.Hump.deriv_profit_neg_at_t", "child": "Multihoming_Hump_Model", "via": ["solution", "statement"]}
 {"parent": "NLogN.KFW.leafPush", "child": "IntMul_Kappa_K_Defs20", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.KaratsubaInterface.capacity_lt_twice", "child": "ThreeSum1962Source_Bundle02", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.KaratsubaInterface.capacity_lt_twice", "child": "APSPSource_RemainingDefinitions", "via": ["solution", "statement"]}
@@ -33398,7 +33373,7 @@
 {"parent": "FirstPriceLearning_ContextLowerBound_Construction", "child": "FirstPriceLearning_ContextLowerBound_Model", "via": ["statement"]}
 {"parent": "NLogN.KFN.roleOpF_iface", "child": "IntMul_Kappa_K_Defs20", "via": ["solution", "statement"]}
 {"parent": "LeveragedPayouts.ShockSize.step1", "child": "LeveragedPayouts_Unregulated_Setting", "via": ["statement"]}
-{"parent": "Multihoming.Hump.deriv_profit_pos_at_zero", "child": "Multihoming_Hump_Model", "via": ["statement"]}
+{"parent": "Multihoming.Hump.deriv_profit_pos_at_zero", "child": "Multihoming_Hump_Model", "via": ["solution", "statement"]}
 {"parent": "CtxInvOpt_Greedy_Policy", "child": "CtxInvOpt_Greedy_Online", "via": ["statement"]}
 {"parent": "CtxInvOpt_Greedy_Policy", "child": "CtxInvOpt_Offline_Geometry", "via": ["statement"]}
 {"parent": "MultivarScores.L2Rule.smooth_ae_eq_of_L2div_eq_zero", "child": "MultivarScores_L2Rule_Setting", "via": ["solution", "statement"]}
@@ -59164,8 +59139,8 @@
 {"parent": "FarhiQAOA_Cubic_Types", "child": "QAlgorithms_Defs_Adiabatic", "via": ["statement"]}
 {"parent": "AccelScal.FCMonopoly.uc_first_order", "child": "AccelScal_FCMonopoly_Setting", "via": ["solution", "statement"]}
 {"parent": "RefMNLPricing.PromoInsensitive.observation_p24", "child": "RefMNLPricing_PromoInsensitive_Model", "via": ["solution", "statement"]}
-{"parent": "GDPRDataMarkets.Rights.assumption1_case_i", "child": "GDPRDataMarkets_Rights_Model", "via": ["statement"]}
-{"parent": "GDPRDataMarkets.Rights.assumption1_case_i", "child": "GDPRDataMarkets_Rights_ClosedForms", "via": ["statement"]}
+{"parent": "GDPRDataMarkets.Rights.assumption1_case_i", "child": "GDPRDataMarkets_Rights_Model", "via": ["solution", "statement"]}
+{"parent": "GDPRDataMarkets.Rights.assumption1_case_i", "child": "GDPRDataMarkets_Rights_ClosedForms", "via": ["solution", "statement"]}
 {"parent": "OAI.LeanBlast.GotsmanLinial.binomial_block_coupling_bound", "child": "OAI_Combinatorics_GotsmanLinial_Statement", "via": ["solution", "statement"]}
 {"parent": "OAI.LeanBlast.GotsmanLinial.binomial_block_coupling_bound", "child": "OAI_Combinatorics_GotsmanLinial_ScalarIncrements", "via": ["solution", "statement"]}
 {"parent": "OAI.LeanBlast.GotsmanLinial.binomial_block_coupling_bound", "child": "OAI_Combinatorics_GotsmanLinial_BlockCoupling", "via": ["solution", "statement"]}
@@ -64739,7 +64714,7 @@
 {"parent": "OAI.FixedClauseThreshold.deficiency_union_bound", "child": "OAI_Probability_RandomSAT_ClauseProcess", "via": ["solution", "statement"]}
 {"parent": "OAI.FixedClauseThreshold.deficiency_union_bound", "child": "FixedClauseThreshold", "via": ["solution", "statement"]}
 {"parent": "OAI.FixedClauseThreshold.deficiency_union_bound", "child": "OAI_Probability_RandomSAT_Clauses", "via": ["solution", "statement"]}
-{"parent": "GraphAlignment.Impossible.theorem_2_1", "child": "GraphAlignment_Impossible_Setting", "via": ["statement"]}
+{"parent": "GraphAlignment.Impossible.theorem_2_1", "child": "GraphAlignment_Impossible_Setting", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_contour_fft_upper_neg64_k02", "child": "TaoFivePrimes_RHHighContourInputRUpperNeg64K02", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_contour_fft_upper_neg64_k02", "child": "TaoFivePrimes_RHHighFFTArithmeticBase", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_contour_fft_upper_neg64_k02", "child": "TaoFivePrimes_RHHighFFTChirpI", "via": ["solution", "statement"]}

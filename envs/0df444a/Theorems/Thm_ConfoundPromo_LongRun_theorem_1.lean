@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfoundPromo_LongRun_theorem_1
 -- name    : ConfoundPromo.LongRun.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:28:32.017837+00:00
 -- url     : https://prove2.me/theorems/f741b35f-c7b3-44a2-84e1-62cb919156a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicTheta_primeProductLowHeight_isLittleO
 -- name    : OAI.CubicFirstMoment.cubicTheta_primeProductLowHeight_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:39:07.074861+00:00
 -- url     : https://prove2.me/theorems/3abbae18-d805-4894-bdcb-a7ba1d8289c1

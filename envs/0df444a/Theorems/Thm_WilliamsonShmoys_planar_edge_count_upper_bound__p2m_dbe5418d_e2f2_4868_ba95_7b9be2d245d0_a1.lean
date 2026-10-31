@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound__p2m_dbe5418d_e2f2_4868_ba95_7b9be2d245d0_a1
 -- name    : WilliamsonShmoys_planar_edge_count_upper_bound__p2m_dbe5418d_e2f2_4868_ba95_7b9be2d245d0_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T22:08:55.230596+00:00
 -- url     : https://prove2.me/theorems/808b4142-3aa4-463f-be5d-a7d43b832047

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistTransform_Distortion_mminus_case
 -- name    : DistTransform.Distortion.mminus_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:27.370118+00:00
 -- url     : https://prove2.me/theorems/6fc8a879-8b90-4971-92b4-3295e205c2aa

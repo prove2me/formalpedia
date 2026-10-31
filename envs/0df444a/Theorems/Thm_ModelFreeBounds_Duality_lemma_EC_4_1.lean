@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModelFreeBounds_Duality_lemma_EC_4_1
 -- name    : ModelFreeBounds.Duality.lemma_EC_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:40.808635+00:00
 -- url     : https://prove2.me/theorems/2ed8b0da-0c6b-4c35-9410-5de966da384b

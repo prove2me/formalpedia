@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.eventually_raw_scope_guards
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:58:23.663816+00:00
 -- url     : https://prove2.me/submissions/bf92af8b-2afb-42e7-83b1-75214daaca12
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SubexponentialSAT

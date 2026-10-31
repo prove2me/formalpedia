@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnyPriceShare_Bidding_proposition_4_2
 -- name    : AnyPriceShare.Bidding.proposition_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:20.608594+00:00
 -- url     : https://prove2.me/theorems/92813f2e-c476-4088-9e1a-47325131d912

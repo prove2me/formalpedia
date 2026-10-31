@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_upper_bound__p2m_1cedfa43_e759_4304_8f59_175ee0ad0ade_a1
 -- name    : WilliamsonShmoys.planar_edge_upper_bound__p2m_1cedfa43_e759_4304_8f59_175ee0ad0ade_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:51:02.986552+00:00
 -- url     : https://prove2.me/theorems/aa8f027a-93b4-4926-a309-4c6509e6e203

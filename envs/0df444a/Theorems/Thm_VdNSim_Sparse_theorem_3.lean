@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VdNSim_Sparse_theorem_3
 -- name    : VdNSim.Sparse.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:32:02.961995+00:00
 -- url     : https://prove2.me/theorems/52e524ad-de02-40ca-8435-f2ee7b87b254

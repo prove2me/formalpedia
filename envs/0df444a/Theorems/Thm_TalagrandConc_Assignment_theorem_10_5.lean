@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandConc_Assignment_theorem_10_5
 -- name    : TalagrandConc.Assignment.theorem_10_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:47:11.084993+00:00
 -- url     : https://prove2.me/theorems/0256726f-4480-461c-91e6-dce81086adf6

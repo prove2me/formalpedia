@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanRiskBellman_Recursion_lemma_B_2
 -- name    : MeanRiskBellman.Recursion.lemma_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:22.252933+00:00
 -- url     : https://prove2.me/theorems/62ecabe8-9a9e-49f8-88ba-46d86956e9d7

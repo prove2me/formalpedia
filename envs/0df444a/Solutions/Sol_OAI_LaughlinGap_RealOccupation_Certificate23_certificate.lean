@@ -1,0 +1,365 @@
+-- Prove2me | solution 1 for OAI.LaughlinGap.RealOccupation.Certificate23.certificate
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-10-31T04:11:04.397007+00:00
+-- url     : https://prove2.me/submissions/9351fc39-d421-4df3-b3ec-f67106250ffb
+
+import Mathlib
+import Definitions.Def_OAIQ030L033
+import Definitions.Def_OAIQ030L035
+import Theorems.Thm_OAI_LaughlinGap_RealOccupation_Certificate23_columns_checked
+import Theorems.Thm_OAI_LaughlinGap_RealOccupation_Certificate23_fibers_checked
+import Theorems.Thm_OAI_LaughlinGap_RealOccupation_Certificate23_gram_checked
+import Theorems.Thm_OAI_LaughlinGap_RealOccupation_Certificate23_keys_checked
+import Theorems.Thm_OAI_LaughlinGap_RealOccupation_Certificate23_ldl_checked
+import Theorems.Thm_OAI_LaughlinGap_RealOccupation_Certificate23_product_checked
+import Theorems.Thm_OAI_LaughlinGap_RealOccupation_Certificate23_rows_checked
+import Theorems.Thm_OAI_LaughlinGap_RealOccupation_fourCertificate_of_tables
+
+section
+-- module Solutions.OAIQ030_LG.LaughlinGap_FastCoupling
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Fast Coupling. -/
+
+noncomputable section
+
+
+namespace LaughlinGap.Spin
+open scoped BigOperators
+
+lemma chooseFast_eq (n k : ℕ) : chooseFast n k = n.choose k :=
+  (Nat.choose_eq_descFactorial_div_factorial n k).symm
+
+lemma uCoefficient_eq_fast (c z T p : ℕ) : uCoefficient c z T p = uFast c z T p := by
+  simp only [uCoefficient,uFast,chooseFast_eq]
+
+end LaughlinGap.Spin
+
+namespace LaughlinGap.RealOccupation
+open scoped BigOperators
+open Spin
+
+lemma vCoefficient_eq_fast (D T r p j k : ℕ) : vCoefficient D T r p j k = vFast D T r p j k := by
+  simp only [vCoefficient,vFast,uCoefficient_eq_fast]
+
+lemma fourTermCoefficient_eq_eval (D r : ℕ) (a : FourTerm D) :
+    fourTermCoefficient D r a = fourTermEval D r a := by
+  simp only [fourTermCoefficient,fourTermEval,vCoefficient_eq_fast]
+
+lemma fourColumn_eq_fiber {D : ℕ} (hD : D ≤ 23) (r : ℕ) (A : Finset (Fin 25))
+    (s : Finset (FourTerm D)) (hs : ∀ a, (fourTermLabels hD a).toFinset=A ↔ a ∈ s) :
+    fourColumn hD r A = ∑ a ∈ s, fourTermEval D r a * Occupation.wordSign (fourTermLabels hD a) := by
+  simp only [fourColumn,hs,fourTermCoefficient_eq_eval,Finset.sum_ite_mem,Finset.univ_inter]
+
+end LaughlinGap.RealOccupation
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ030_LG.LaughlinGap_IntegerFourRows
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Integer Four Rows. -/
+
+noncomputable section
+
+
+namespace LaughlinGap.Spin
+open scoped BigOperators
+
+lemma uFast_eq_int (c z T p : ℕ) : uFast c z T p = (uInt c z T p:ℚ) := by
+  simp [uFast,uInt]
+
+end LaughlinGap.Spin
+namespace LaughlinGap.RealOccupation
+open scoped BigOperators
+open Spin
+
+lemma vFast_eq_int (D T r p j k : ℕ) : vFast D T r p j k = (vInt D T r p j k:ℚ) := by
+  simp [vFast,vInt,uFast_eq_int]
+
+lemma fourSumEval_eq_integer (a : Fin 8) (D s : ℕ) (i k : Fin 9) :
+    (exactRows a).fourSumEval D s i k = (fourSumInteger a D s i k:ℚ)/10000000 := by
+  simp only [RationalRow.fourSumEval,fourSumInteger,exactRows,vFast_eq_int,Int.cast_sum]
+  rw [Finset.sum_div]
+  apply Finset.sum_congr rfl
+  intro p hp
+  split_ifs
+  · push_cast; ring
+  · simp
+
+lemma fourRowWeight_eq {D : ℕ} (hD : D ≤ 23) (a : Fin 8) (i k : Fin 9) :
+    fourRowFactor a.val D i.val k.val / (100000000000000:ℚ) =
+      (fourRowWeight D a i k:ℚ) / fourMatrixDenominator D := by
+  by_cases h : D ≤ a.val+i.val+k.val
+  · simp only [fourRowFactor,fourRowWeight,ite_eq_left h,fourMatrixDenominator]
+    have hT : a.val+i.val+k.val ≤ 23 := by have := a.isLt; have := i.isLt; have := k.isLt; omega
+    have he : 2*(a.val+i.val+k.val)+a.val ≤ 53 := by
+      have := a.isLt; have := i.isLt; have := k.isLt; omega
+    have hf : (a.val+i.val+k.val-D).factorial *
+        (23-D).descFactorial (23-(a.val+i.val+k.val)) = (23-D).factorial := by
+      convert Nat.factorial_mul_descFactorial (show 23-(a.val+i.val+k.val) ≤ 23-D by omega) using 1
+      all_goals try with_reducible_and_instances rfl
+      congr 2
+      omega
+    have hp : (2:ℚ)^(2*(a.val+i.val+k.val)+a.val) *
+        2^(53-(2*(a.val+i.val+k.val)+a.val)) = (2:ℚ)^53 := by
+      rw [← pow_add,Nat.add_sub_of_le he]
+    have hfc : ((a.val+i.val+k.val-D).factorial:ℚ) *
+        ((23-D).descFactorial (23-(a.val+i.val+k.val)):ℚ) = ((23-D).factorial:ℚ) := by
+      exact_mod_cast hf
+    push_cast
+    field_simp
+    nlinarith [hp,hfc]
+  · simp [fourRowFactor,fourRowWeight,h]
+
+lemma exactFourEval_eq {D : ℕ} (hD : D ≤ 23) (u v : ℕ) :
+    (∑ a : Fin 8, (exactRows a).fourMatrixEval D u v) = exactFourEval D u v := by
+  simp only [RationalRow.fourMatrixEval,fourSumEval_eq_integer,exactFourEval,exactFourInteger,
+    Int.cast_neg,Int.cast_sum,Int.cast_mul,Finset.sum_neg_distrib,neg_div,Finset.sum_div]
+  congr 1
+  apply Finset.sum_congr rfl
+  intro a ha
+  apply Finset.sum_congr rfl
+  intro i hi
+  apply Finset.sum_congr rfl
+  intro k hk
+  have hh := fourRowWeight_eq hD a i k
+  calc
+    _ = (fourRowFactor a.val D i.val k.val/100000000000000) *
+        (fourSumInteger a D u i k:ℚ) * (fourSumInteger a D v k i:ℚ) := by dsimp [exactRows]; ring
+    _ = _ := by rw [hh]; ring
+
+end LaughlinGap.RealOccupation
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ030_LG.LaughlinGap_RationalFourCertificate
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Rational Four Certificate. -/
+
+noncomputable section
+
+
+namespace LaughlinGap.RealOccupation
+open scoped BigOperators ComplexOrder
+open Spin
+
+variable {ι : Type*} [Fintype ι]
+
+lemma rational_ldl_positive {κ : Type*} [Fintype κ] [DecidableEq κ]
+    (M L : Matrix κ κ ℚ) (d : κ → ℚ) (hd : ∀ i, 0 ≤ d i)
+    (he : M = L * Matrix.diagonal d * L.transpose) :
+    (M.map (algebraMap ℚ ℂ)).PosSemidef := by
+  have hp : (Matrix.diagonal (fun i => (d i:ℂ))).PosSemidef := by
+    apply Matrix.posSemidef_diagonal_iff.mpr
+    intro i
+    simpa only [← Complex.ofReal_ratCast,Complex.nonneg_iff,Complex.ofReal_re,Complex.ofReal_im,
+      and_true] using (Rat.cast_nonneg (K := ℝ)).mpr (hd i)
+  have hh := hp.mul_mul_conjTranspose_same (L.map (algebraMap ℚ ℂ))
+  convert hh using 1
+  all_goals try with_reducible_and_instances rfl
+  rw [he,Matrix.map_mul,Matrix.map_mul]
+  congr 1
+  · congr 1
+    ext i j
+    by_cases h : i=j <;> simp [h]
+  · ext i j
+    simp [Matrix.conjTranspose_apply]
+
+end LaughlinGap.RealOccupation
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ030_LG.LaughlinGap_FourTables
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Four Tables. -/
+
+noncomputable section
+
+
+namespace LaughlinGap.RealOccupation
+open scoped BigOperators ComplexOrder
+open Spin
+
+variable {ι : Type*} [Fintype ι]
+
+lemma rationalCreatedGram_of_columns {D : ℕ} (hD : D ≤ 23) {K : ℕ}
+    (keys : Fin K → Finset (Fin 25)) (cols : Matrix (Fin ((D+1)/2)) (Fin K) ℚ)
+    (hk : fourKeys hD=Finset.univ.image keys) (hi : Function.Injective keys)
+    (hc : ∀ u a, fourColumn hD (2*u.val+1) (keys a)=cols u a)
+    (u v : Fin ((D+1)/2)) :
+    rationalCreatedGram hD ((fourCopyEquiv D).symm u) ((fourCopyEquiv D).symm v) =
+      ∑ a : Fin K, cols u a * cols v a / setFactorial (keys a) := by
+  unfold rationalCreatedGram
+  rw [hk,Finset.sum_image (fun _ _ _ _ h => hi h)]
+  simp only [fourCopyEquiv_symm_val,hc]
+
+end LaughlinGap.RealOccupation
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ030_LG.LaughlinGap_CheckedTables
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Checked Tables. -/
+
+noncomputable section
+
+
+namespace LaughlinGap.Arithmetic
+
+lemma checkVector_sound {n : ℕ} {α : Type*} [DecidableEq α]
+    (A B : Fin n → α) (h : checkVector A B = true) : ∀ i, A i = B i := by
+  intro i
+  exact of_decide_eq_true (List.all_eq_true.mp h i (List.mem_finRange i))
+
+end LaughlinGap.Arithmetic
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ030_LG.LaughlinGap_Certificate23
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Certificate23. -/
+
+noncomputable section
+
+
+namespace LaughlinGap.RealOccupation
+open scoped BigOperators ComplexOrder
+open Spin
+namespace Certificate23
+
+lemma keys_injective : Function.Injective keys := by decide +kernel
+lemma compression_checked_0 : ∀ v : Fin 12, (W * Z) (0 : Fin 12) v = M 0 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_1 : ∀ v : Fin 12, (W * Z) (1 : Fin 12) v = M 1 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_2 : ∀ v : Fin 12, (W * Z) (2 : Fin 12) v = M 2 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_3 : ∀ v : Fin 12, (W * Z) (3 : Fin 12) v = M 3 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_4 : ∀ v : Fin 12, (W * Z) (4 : Fin 12) v = M 4 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_5 : ∀ v : Fin 12, (W * Z) (5 : Fin 12) v = M 5 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_6 : ∀ v : Fin 12, (W * Z) (6 : Fin 12) v = M 6 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_7 : ∀ v : Fin 12, (W * Z) (7 : Fin 12) v = M 7 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_8 : ∀ v : Fin 12, (W * Z) (8 : Fin 12) v = M 8 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_9 : ∀ v : Fin 12, (W * Z) (9 : Fin 12) v = M 9 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_10 : ∀ v : Fin 12, (W * Z) (10 : Fin 12) v = M 10 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked_11 : ∀ v : Fin 12, (W * Z) (11 : Fin 12) v = M 11 v := by
+  apply Arithmetic.checkVector_sound
+  decide +kernel
+lemma compression_checked : ∀ u : Fin 12, ∀ v : Fin 12, (W * Z) u v = M u v := by
+  intro u
+  fin_cases u
+  · exact compression_checked_0
+  · exact compression_checked_1
+  · exact compression_checked_2
+  · exact compression_checked_3
+  · exact compression_checked_4
+  · exact compression_checked_5
+  · exact compression_checked_6
+  · exact compression_checked_7
+  · exact compression_checked_8
+  · exact compression_checked_9
+  · exact compression_checked_10
+  · exact compression_checked_11
+lemma diag_checked : ∀ u : Fin 12, 0 ≤ diag u := by decide +kernel
+lemma certificate_oai : FourCertificate (fun a : Fin 8 => (exactRows a).toReal) (1/200000) 23 (by omega) := by
+  have hh := fourCertificate_of_tables exactRows (1/200000) (by omega : 23 ≤ 23) Y Z
+  suffices FourCertificate (fun a : Fin 8 => (exactRows a).toReal) ((1/200000:ℚ):ℝ) 23 (by omega) by simpa using this
+  apply hh
+  · intro u v
+    rw [exactFourEval_eq (by omega)]
+    exact rows_checked u v
+  · intro u v
+    rw [rationalCreatedGram_of_columns (by omega : 23 ≤ 23) keys columns keys_checked keys_injective]
+    · exact gram_checked u v
+    · intro i a
+      rw [fourColumn_eq_fiber (by omega : 23 ≤ 23) (2*i.val+1) (keys a) (fibers a) (fibers_checked a)]
+      exact columns_checked i a
+  · rw [Matrix.ext product_checked, Matrix.ext compression_checked]
+    apply rational_ldl_positive M L diag diag_checked
+    ext u v
+    rw [Matrix.mul_apply]
+    simpa only [Matrix.mul_diagonal,Matrix.transpose_apply] using (ldl_checked u v).symm
+end Certificate23
+end LaughlinGap.RealOccupation
+
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.LaughlinGap.RealOccupation.Certificate23.certificate_oai := @OAI.LaughlinGap.RealOccupation.Certificate23.certificate_oai

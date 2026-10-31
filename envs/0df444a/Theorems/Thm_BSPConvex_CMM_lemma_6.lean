@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSPConvex_CMM_lemma_6
 -- name    : BSPConvex.CMM.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:42.970611+00:00
 -- url     : https://prove2.me/theorems/cf671971-017e-4ffa-90f9-0b4434f01e10

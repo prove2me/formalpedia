@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_PerturbationAssembly_nativeStored_fixed_rows
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.PerturbationAssembly.nativeStored_fixed_rows
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:06:10.238417+00:00
 -- url     : https://prove2.me/theorems/f62d06e1-bddb-42c2-91e1-88a90587f230

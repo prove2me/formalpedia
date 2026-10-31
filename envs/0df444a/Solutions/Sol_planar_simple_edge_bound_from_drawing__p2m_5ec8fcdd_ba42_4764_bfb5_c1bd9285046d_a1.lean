@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for planar_simple_edge_bound_from_drawing__p2m_5ec8fcdd_ba42_4764_bfb5_c1bd9285046d_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:03:33.634976+00:00
 -- url     : https://prove2.me/submissions/abcafe4c-4c90-4083-9b2d-2a39cc5b89df
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

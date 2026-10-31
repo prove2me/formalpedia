@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_short_outer_low_bound_actual
 -- name    : OAI.CubicFirstMoment.short_outer_low_bound_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:28:01.987051+00:00
 -- url     : https://prove2.me/theorems/f366b4f3-d6c4-44d4-893b-ee131a1f0fc7

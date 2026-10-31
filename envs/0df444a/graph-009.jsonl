@@ -11549,8 +11549,8 @@
 {"parent": "MazurTransfer_Order13DyadicOriginalIntegralNormGroupLawAndCompositionData20261019", "child": "MazurTransfer.Order13ActualPicardSchemeNineteenNorm.schemePi_comp_schemePiConjugate", "via": ["statement"]}
 {"parent": "MazurTransfer_Order13DyadicOriginalIntegralNormGroupLawAndCompositionData20261019", "child": "GoodReductionJacobian.RelativeGroupLaw.comp_mul_eq_mul_comp_of_genericFibre", "via": ["statement"]}
 {"parent": "MazurTransfer_Order13DyadicOriginalIntegralNormGroupLawAndCompositionData20261019", "child": "MazurTransfer.Order13ActualPicardSchemeNineteenNorm.schemePiConjugate_comp_schemePi", "via": ["statement"]}
-{"parent": "PlatformToken.SmallCost.claim_i_h_gt_g", "child": "PlatformToken_SmallCost_Corollary1", "via": ["statement"]}
-{"parent": "PlatformToken.SmallCost.claim_i_h_gt_g", "child": "PlatformToken_SmallCost_Setting", "via": ["statement"]}
+{"parent": "PlatformToken.SmallCost.claim_i_h_gt_g", "child": "PlatformToken_SmallCost_Corollary1", "via": ["solution", "statement"]}
+{"parent": "PlatformToken.SmallCost.claim_i_h_gt_g", "child": "PlatformToken_SmallCost_Setting", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer_Order13MixedOriginalPositiveInfinityEvaluationAndActualSectionComplementCachedPartV320261019", "child": "MazurTransfer_Order13MixedOriginalSingleSectionAndInverseFiniteSchemeAtlasesData20261019", "via": ["statement"]}
 {"parent": "MazurTransfer_Order13MixedOriginalPositiveInfinityEvaluationAndActualSectionComplementCachedPartV320261019", "child": "MazurTransfer_Order13MixedQuadraticOriginalWholeCurveBaseChangeData20261019", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group623_part07", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
@@ -67967,7 +67967,7 @@
 {"parent": "PermanentRollout.homogeneousMap_allRank_actualSourcePrefixHilbert_eq_bounded", "child": "Permanent", "via": ["solution", "statement"]}
 {"parent": "MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.tendsto_inverseQuadratic_atTop", "child": "SpherePacking", "via": ["solution", "statement"]}
 {"parent": "MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.tendsto_inverseQuadratic_atTop", "child": "MetricCodes", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Information100.P44.certifiedIncompatibility", "child": "QAlgorithms_Papers_Independent_Information100_P44", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Information100.P44.certifiedIncompatibility", "child": "QAlgorithms_Papers_Independent_Information100_P44", "via": ["solution", "statement"]}
 {"parent": "Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.finiteEnergySourceNormalized_actualGradient_phase_max", "child": "EhrhartVolumeInequality", "via": ["solution", "statement"]}
 {"parent": "CohnElkies.minusSaddleQuadraticCoefficient_norm_le", "child": "SpherePacking", "via": ["solution", "statement"]}
 {"parent": "MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_edgeWeight", "child": "SpherePacking", "via": ["solution", "statement"]}
@@ -69058,7 +69058,7 @@
 {"parent": "MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression.gtStabilizerShiftedRelativeCasimir_terminal_youngClebschRaise", "child": "MetricCodes", "via": ["solution", "statement"]}
 {"parent": "Ehrhart.JointHolomorphicLaurentFourierCompatibility.angularBoxMeasure_eq_restrict", "child": "EhrhartVolumeInequality", "via": ["solution", "statement"]}
 {"parent": "PermanentFormulaLowerBound.matchingPermutationOutsideFactor_right_external_eval", "child": "Permanent", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Information100.P44.conditionalTOUpgrade", "child": "QAlgorithms_Papers_Independent_Information100_P44", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Information100.P44.conditionalTOUpgrade", "child": "QAlgorithms_Papers_Independent_Information100_P44", "via": ["solution", "statement"]}
 {"parent": "MetricCodes.Spherical.HigherHierarchy.Entropy.packingExponent_deficit_eq_relativeEntropy_of_logMoment", "child": "SpherePacking", "via": ["solution", "statement"]}
 {"parent": "MetricCodes.Spherical.HigherHierarchy.Entropy.packingExponent_deficit_eq_relativeEntropy_of_logMoment", "child": "MetricCodes", "via": ["solution", "statement"]}
 {"parent": "TwoDegenerateGraphs.pairParentCoordinateSupport_false_card", "child": "CompactnessAndDegeneracy", "via": ["solution", "statement"]}
@@ -88459,7 +88459,7 @@
 {"parent": "Hintz2026.invNeg_yNeg", "child": "Hintz2026_Chiral", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P11.repeatable_outputs_can_correlate", "child": "QAlgorithms_Papers_Independent_Dependency50_P11", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.dividendStrategy_rightLimit_has_leftLimits", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "TokenSignal.Asymmetry.alphaStar_range", "child": "TokenSignal_Asymmetry_Model", "via": ["statement"]}
+{"parent": "TokenSignal.Asymmetry.alphaStar_range", "child": "TokenSignal_Asymmetry_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.Cotype.exists_L2_moment_lift", "child": "OAI_Analysis_Cotype_CubeNoise", "via": ["solution", "statement"]}
 {"parent": "OAI.Cotype.exists_L2_moment_lift", "child": "OAI_Analysis_Cotype_WalshNorm", "via": ["solution", "statement"]}
 {"parent": "OAI.Cotype.exists_L2_moment_lift", "child": "OAI_Analysis_Cotype_Damping", "via": ["solution", "statement"]}
@@ -99253,7 +99253,7 @@
 {"parent": "OAI_Combinatorics_BinaryEdit_ParameterImage", "child": "OAI_Combinatorics_BinaryEdit_Model", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_BinaryEdit_ParameterImage", "child": "OAI_Combinatorics_BinaryEdit_FiniteVectors", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_BinaryEdit_ParameterImage", "child": "OAI_Combinatorics_BinaryEdit_LCS", "via": ["statement"]}
-{"parent": "TokenSignal.Asymmetry.low_type_indifference", "child": "TokenSignal_Asymmetry_Model", "via": ["statement"]}
+{"parent": "TokenSignal.Asymmetry.low_type_indifference", "child": "TokenSignal_Asymmetry_Model", "via": ["solution", "statement"]}
 {"parent": "OAI_Analysis_LipschitzEquivalence_HilbertBijection", "child": "OAI_Analysis_LipschitzEquivalence_SlotBudget", "via": ["statement"]}
 {"parent": "OAI_Analysis_LipschitzEquivalence_HilbertBijection", "child": "OAI_Analysis_LipschitzEquivalence_FreeSpace", "via": ["statement"]}
 {"parent": "OAI_Analysis_LipschitzEquivalence_HilbertBijection", "child": "LipschitzEquivalence", "via": ["statement"]}

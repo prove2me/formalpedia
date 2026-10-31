@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusableAssort_Hybrid_eq_EC_2
 -- name    : ReusableAssort.Hybrid.eq_EC_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:29:26.845985+00:00
 -- url     : https://prove2.me/theorems/a38d5924-f2ee-42e5-8e38-7f988085455d

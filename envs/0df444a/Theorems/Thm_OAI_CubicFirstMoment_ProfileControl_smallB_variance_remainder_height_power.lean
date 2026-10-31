@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_ProfileControl_smallB_variance_remainder_height_power
 -- name    : OAI.CubicFirstMoment.ProfileControl.smallB_variance_remainder_height_power
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:13:53.950967+00:00
 -- url     : https://prove2.me/theorems/de4ee423-82c8-4f01-8e9d-38cca872397e

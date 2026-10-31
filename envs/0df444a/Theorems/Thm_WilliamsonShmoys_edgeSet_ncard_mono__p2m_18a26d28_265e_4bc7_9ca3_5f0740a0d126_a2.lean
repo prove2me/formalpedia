@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edgeSet_ncard_mono__p2m_18a26d28_265e_4bc7_9ca3_5f0740a0d126_a2
 -- name    : WilliamsonShmoys.edgeSet_ncard_mono__p2m_18a26d28_265e_4bc7_9ca3_5f0740a0d126_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:47:12.641823+00:00
 -- url     : https://prove2.me/theorems/c8cb92f0-7b8e-4243-b121-8e27ed12e88c

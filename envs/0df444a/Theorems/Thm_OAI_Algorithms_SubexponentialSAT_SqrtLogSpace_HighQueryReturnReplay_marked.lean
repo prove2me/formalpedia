@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HighQueryReturnReplay_marked
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighQueryReturnReplay.marked
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:28:05.789121+00:00
 -- url     : https://prove2.me/theorems/81be7d70-1804-4d1c-895b-8897409c7c1e

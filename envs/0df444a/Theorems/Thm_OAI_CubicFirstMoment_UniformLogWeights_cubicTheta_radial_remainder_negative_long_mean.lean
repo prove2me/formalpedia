@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_UniformLogWeights_cubicTheta_radial_remainder_negative_long_mean
 -- name    : OAI.CubicFirstMoment.UniformLogWeights.cubicTheta_radial_remainder_negative_long_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:47:49.947137+00:00
 -- url     : https://prove2.me/theorems/3e4a0ffe-103f-4cef-bc43-2b2360cd4dd4

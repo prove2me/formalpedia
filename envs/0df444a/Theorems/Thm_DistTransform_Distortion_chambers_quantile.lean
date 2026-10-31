@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistTransform_Distortion_chambers_quantile
 -- name    : DistTransform.Distortion.chambers_quantile
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:20:23.610751+00:00
 -- url     : https://prove2.me/theorems/40501f4d-113b-4422-938e-b666056fac20

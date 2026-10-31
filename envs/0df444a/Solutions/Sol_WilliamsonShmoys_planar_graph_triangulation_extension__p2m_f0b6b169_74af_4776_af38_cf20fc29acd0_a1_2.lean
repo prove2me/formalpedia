@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for WilliamsonShmoys.planar_graph_triangulation_extension__p2m_f0b6b169_74af_4776_af38_cf20fc29acd0_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:19:28.005669+00:00
 -- url     : https://prove2.me/submissions/b9e58fc0-91a5-4804-9bdc-a31cd6eadf0c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

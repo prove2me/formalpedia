@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_NonparametricLS_thm13_5_basic_case_rate
 -- name    : HighDimStat.NonparametricLS.thm13_5_basic_case_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:30:06.189354+00:00
 -- url     : https://prove2.me/theorems/89361e2c-8930-445b-ac9f-568026242f86

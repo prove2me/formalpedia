@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquilibriumExperiment_Gradient_lemma_2
 -- name    : EquilibriumExperiment.Gradient.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:39:38.016767+00:00
 -- url     : https://prove2.me/theorems/9468ea90-2c41-40d4-aebf-c90b4c9622b8

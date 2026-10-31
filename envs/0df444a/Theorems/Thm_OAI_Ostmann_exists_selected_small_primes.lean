@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Ostmann_exists_selected_small_primes
 -- name    : OAI.Ostmann.exists_selected_small_primes
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:58:18.655958+00:00
 -- url     : https://prove2.me/theorems/8e3c00c6-fb35-45af-8ac0-ecce16b7a1a7

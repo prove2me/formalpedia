@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryStreamFrames_nodes_avoids
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryStreamFrames.nodes_avoids
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:14:56.182863+00:00
 -- url     : https://prove2.me/theorems/946a868f-ddbe-489a-b94e-24a4cf6a9887

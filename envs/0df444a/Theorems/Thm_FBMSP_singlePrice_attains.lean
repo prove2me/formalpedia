@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_singlePrice_attains
 -- name    : FBMSP.singlePrice_attains
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T04:53:56.885774+00:00
 -- url     : https://prove2.me/theorems/8c67e76f-bc7d-4750-a4df-c21781df811b

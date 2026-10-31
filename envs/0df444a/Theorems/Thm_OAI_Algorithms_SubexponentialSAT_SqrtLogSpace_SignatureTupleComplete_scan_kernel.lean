@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SignatureTupleComplete_scan_kernel
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SignatureTupleComplete.scan_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:21:46.073194+00:00
 -- url     : https://prove2.me/theorems/a7189fc4-92e8-43f9-8ea1-a8a43e37f143

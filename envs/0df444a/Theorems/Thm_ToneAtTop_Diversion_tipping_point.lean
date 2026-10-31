@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToneAtTop_Diversion_tipping_point
 -- name    : ToneAtTop.Diversion.tipping_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:59.963886+00:00
 -- url     : https://prove2.me/theorems/a1bcdd50-2967-42dd-91fe-42a8c86b5d9b

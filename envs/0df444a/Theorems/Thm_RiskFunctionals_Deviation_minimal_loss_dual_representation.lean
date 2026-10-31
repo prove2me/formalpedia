@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Deviation_minimal_loss_dual_representation
 -- name    : RiskFunctionals.Deviation.minimal_loss_dual_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:49.263367+00:00
 -- url     : https://prove2.me/theorems/e2abf455-0606-4d52-b78d-e0a661d77ccd

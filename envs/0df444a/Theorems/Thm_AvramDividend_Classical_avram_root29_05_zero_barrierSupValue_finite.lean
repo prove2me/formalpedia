@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_root29_05_zero_barrierSupValue_finite
 -- name    : AvramDividend.Classical.avram_root29_05_zero_barrierSupValue_finite
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-29T17:43:24.806236+00:00
 -- url     : https://prove2.me/theorems/24b6bad6-2f4e-4842-bb4b-d5fe626e03cf

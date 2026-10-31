@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeaderStyle_WageFloor_UU_dominated
 -- name    : LeaderStyle.WageFloor.UU_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:38:19.075164+00:00
 -- url     : https://prove2.me/theorems/a9f387d7-c62b-4d72-8a19-bf35263b330d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplodingOffer_Mrl_theorem_3_order_steps
 -- name    : ExplodingOffer.Mrl.theorem_3_order_steps
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:46.370141+00:00
 -- url     : https://prove2.me/theorems/78fb4daa-936e-458c-a9c7-d452fe886cea

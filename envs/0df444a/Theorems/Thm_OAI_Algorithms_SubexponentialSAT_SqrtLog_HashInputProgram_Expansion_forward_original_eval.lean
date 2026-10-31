@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_HashInputProgram_Expansion_forward_original_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.HashInputProgram.Expansion.forward_original_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:53:32.319552+00:00
 -- url     : https://prove2.me/theorems/d6a2f11e-e8da-4579-8df9-05997c14a74a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeaderStyle_WageFloor_cost_none
 -- name    : LeaderStyle.WageFloor.cost_none
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:38:09.837689+00:00
 -- url     : https://prove2.me/theorems/72da2e85-e87c-431c-9eb1-11e70a6e386b

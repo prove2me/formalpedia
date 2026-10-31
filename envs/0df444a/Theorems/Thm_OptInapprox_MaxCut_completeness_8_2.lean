@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_MaxCut_completeness_8_2
 -- name    : OptInapprox.MaxCut.completeness_8_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:37.073639+00:00
 -- url     : https://prove2.me/theorems/8e09fe08-d62a-44e0-8222-71e685bd9ad2

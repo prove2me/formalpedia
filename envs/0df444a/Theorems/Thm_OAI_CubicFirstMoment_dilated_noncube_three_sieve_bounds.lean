@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_dilated_noncube_three_sieve_bounds
 -- name    : OAI.CubicFirstMoment.dilated_noncube_three_sieve_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:58:46.301984+00:00
 -- url     : https://prove2.me/theorems/548a8480-ff59-47b8-a4c4-4390886ce764

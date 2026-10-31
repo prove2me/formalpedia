@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_oracle_operation_bound
 -- name    : FBMSP.oracle_operation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T04:58:14.839261+00:00
 -- url     : https://prove2.me/theorems/eb8778a5-9873-450f-8424-8606dd192f44

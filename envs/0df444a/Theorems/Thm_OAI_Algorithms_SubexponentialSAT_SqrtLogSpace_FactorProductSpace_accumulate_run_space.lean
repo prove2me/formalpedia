@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_FactorProductSpace_accumulate_run_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.FactorProductSpace.accumulate_run_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:12:21.57989+00:00
 -- url     : https://prove2.me/theorems/729d86b5-f692-41b4-8bf8-5991501ce062

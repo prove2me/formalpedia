@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PegProtect_Equilibrium_equation_3_9
 -- name    : PegProtect.Equilibrium.equation_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:33:28.953103+00:00
 -- url     : https://prove2.me/theorems/3eb3fe96-b2cd-4acd-9b68-c3cbfe686437

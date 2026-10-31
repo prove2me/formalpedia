@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_upperNoStopTail_isLittleO_proved
 -- name    : OAI.CubicFirstMoment.angular_upperNoStopTail_isLittleO_proved
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:22:55.215918+00:00
 -- url     : https://prove2.me/theorems/0c74637f-f677-46ee-93c0-0bd293b1c0b4

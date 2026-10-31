@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafProgram_NativeSemantics_row_fold_denote_scoped
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafProgram.NativeSemantics.row_fold_denote_scoped
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:29:32.860365+00:00
 -- url     : https://prove2.me/theorems/065f0bcc-657e-4025-a4e7-71f1e4df240a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryVisitorFrames_tupleMultiply_not_mem_writes
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryVisitorFrames.tupleMultiply_not_mem_writes
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:20:32.923224+00:00
 -- url     : https://prove2.me/theorems/9b798e92-a0d8-4b52-a432-a4f190402ff9

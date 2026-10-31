@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherlocking_InfoPolicy_oc0_iff_ineq4
 -- name    : Sherlocking.InfoPolicy.oc0_iff_ineq4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:17.314357+00:00
 -- url     : https://prove2.me/theorems/67c5b8ef-e318-4e20-9826-6d18e261679f

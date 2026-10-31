@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexLearning_Threshold_VN_eq
 -- name    : FlexLearning.Threshold.VN_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:58.886087+00:00
 -- url     : https://prove2.me/theorems/2925315b-9b8f-41a0-98d9-eea9f1779663

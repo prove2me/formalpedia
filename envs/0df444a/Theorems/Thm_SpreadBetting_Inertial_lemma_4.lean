@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpreadBetting_Inertial_lemma_4
 -- name    : SpreadBetting.Inertial.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:31:40.381924+00:00
 -- url     : https://prove2.me/theorems/e26882e7-18fd-40f4-b7cd-f2f5c8cc5585

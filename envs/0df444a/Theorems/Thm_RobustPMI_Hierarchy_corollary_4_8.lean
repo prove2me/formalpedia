@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPMI_Hierarchy_corollary_4_8
 -- name    : RobustPMI.Hierarchy.corollary_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:17.356684+00:00
 -- url     : https://prove2.me/theorems/499c1e95-cc49-40da-b9b2-1c4507fbe507

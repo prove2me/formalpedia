@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_HashCircuitProgram_WeightedCore_command_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.HashCircuitProgram.WeightedCore.command_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:52:56.560378+00:00
 -- url     : https://prove2.me/theorems/4c5a80a0-3956-41e0-abe6-412f7124e994

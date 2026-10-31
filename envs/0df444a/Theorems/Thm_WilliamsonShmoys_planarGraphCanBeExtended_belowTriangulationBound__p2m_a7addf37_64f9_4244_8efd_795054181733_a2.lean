@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarGraphCanBeExtended_belowTriangulationBound__p2m_a7addf37_64f9_4244_8efd_795054181733_a2
 -- name    : WilliamsonShmoys.planarGraphCanBeExtended_belowTriangulationBound__p2m_a7addf37_64f9_4244_8efd_795054181733_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:55:13.069686+00:00
 -- url     : https://prove2.me/theorems/8bebbcb3-63fa-47e0-bd08-43c40080b6a9

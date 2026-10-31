@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_lemma2b_general_menu_intervals
 -- name    : FBMSP.lemma2b_general_menu_intervals
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T04:55:54.417201+00:00
 -- url     : https://prove2.me/theorems/505ae92f-135c-434b-86cf-4b280fe76925

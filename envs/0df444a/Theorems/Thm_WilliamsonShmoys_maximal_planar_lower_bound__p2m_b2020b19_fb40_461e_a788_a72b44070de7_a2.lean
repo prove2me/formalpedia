@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_lower_bound__p2m_b2020b19_fb40_461e_a788_a72b44070de7_a2
 -- name    : WilliamsonShmoys.maximal_planar_lower_bound__p2m_b2020b19_fb40_461e_a788_a72b44070de7_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T18:30:00.609728+00:00
 -- url     : https://prove2.me/theorems/715939c0-b6e9-4c03-a6f3-4355f1ffabc5

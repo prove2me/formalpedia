@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriorityAlloc_DAFlex_proposition_H_1
 -- name    : PriorityAlloc.DAFlex.proposition_H_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:39:18.516123+00:00
 -- url     : https://prove2.me/theorems/e896dda1-843f-4043-ac27-1f02c60ed31e

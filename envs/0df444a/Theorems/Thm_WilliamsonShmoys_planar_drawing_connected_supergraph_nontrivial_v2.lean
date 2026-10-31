@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_supergraph_nontrivial_v2
 -- name    : WilliamsonShmoys.planar_drawing_connected_supergraph_nontrivial_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:51:28.979751+00:00
 -- url     : https://prove2.me/theorems/1d3a19c4-ab3d-4bf8-8c18-55db824eec12

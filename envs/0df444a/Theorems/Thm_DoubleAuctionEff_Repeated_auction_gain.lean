@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleAuctionEff_Repeated_auction_gain
 -- name    : DoubleAuctionEff.Repeated.auction_gain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:59.115642+00:00
 -- url     : https://prove2.me/theorems/31502733-2865-4db8-a359-596ff699246f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeDelaySGD_MeanSquare_delay_sum_polynomial
 -- name    : LargeDelaySGD.MeanSquare.delay_sum_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:24:09.903494+00:00
 -- url     : https://prove2.me/theorems/2c2c2b63-62cf-4d5d-b2d1-d5e5ce8a3d39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_GraphicalModels_thm11_12_graph_selection_consistency
 -- name    : HighDimStat.GraphicalModels.thm11_12_graph_selection_consistency
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:22:23.951686+00:00
 -- url     : https://prove2.me/theorems/b1b23aa0-9275-4b07-af35-91b0eadc95fb

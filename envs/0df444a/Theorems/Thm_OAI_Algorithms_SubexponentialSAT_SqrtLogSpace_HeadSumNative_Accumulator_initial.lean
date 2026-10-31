@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadSumNative_Accumulator_initial
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadSumNative.Accumulator.initial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:13:17.271158+00:00
 -- url     : https://prove2.me/theorems/e8944edb-3831-4d8c-b820-0a371ad57163

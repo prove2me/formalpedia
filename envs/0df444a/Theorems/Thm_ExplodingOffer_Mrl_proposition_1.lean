@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplodingOffer_Mrl_proposition_1
 -- name    : ExplodingOffer.Mrl.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:36.951003+00:00
 -- url     : https://prove2.me/theorems/26608173-de21-493d-bc10-a2a18e40f3c1

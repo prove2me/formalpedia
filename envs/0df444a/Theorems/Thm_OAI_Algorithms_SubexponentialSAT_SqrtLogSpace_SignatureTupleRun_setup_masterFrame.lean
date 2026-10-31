@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SignatureTupleRun_setup_masterFrame
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SignatureTupleRun.setup_masterFrame
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:22:57.176784+00:00
 -- url     : https://prove2.me/theorems/07176213-d1d8-4638-affa-0ac8d1b0a7a7

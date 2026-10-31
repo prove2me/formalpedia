@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashGreedyStagedSpace_attempt_halt_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashGreedyStagedSpace.attempt_halt_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:12:42.253664+00:00
 -- url     : https://prove2.me/theorems/f65bb2ad-501f-4fa2-a45e-7835833492f4

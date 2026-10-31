@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_stopped_noncube_mass
 -- name    : OAI.CubicFirstMoment.angular_stopped_noncube_mass
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:57:48.348597+00:00
 -- url     : https://prove2.me/theorems/22b37e78-095a-43bf-8b69-1c15982a0f72

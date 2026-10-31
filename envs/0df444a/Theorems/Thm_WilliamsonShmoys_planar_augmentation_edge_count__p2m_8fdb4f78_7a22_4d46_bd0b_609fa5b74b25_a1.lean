@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_augmentation_edge_count__p2m_8fdb4f78_7a22_4d46_bd0b_609fa5b74b25_a1
 -- name    : WilliamsonShmoys.planar_augmentation_edge_count__p2m_8fdb4f78_7a22_4d46_bd0b_609fa5b74b25_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T21:52:28.113808+00:00
 -- url     : https://prove2.me/theorems/04736d40-a8e2-4a01-9968-14670118dd12

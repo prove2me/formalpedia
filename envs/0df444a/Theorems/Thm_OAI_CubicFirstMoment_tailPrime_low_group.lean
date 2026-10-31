@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_tailPrime_low_group
 -- name    : OAI.CubicFirstMoment.tailPrime_low_group
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:46:35.246261+00:00
 -- url     : https://prove2.me/theorems/4e1e4149-aa14-4671-a9cd-15dc879f0d34

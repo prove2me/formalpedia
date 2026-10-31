@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_isAsymptoticallyCylindricalEnd_of_isNondegenerate
 -- name    : FiniteEnergyPlane.isAsymptoticallyCylindricalEnd_of_isNondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-21T12:43:01.045124+00:00
 -- url     : https://prove2.me/theorems/ade309a2-a377-4996-81bc-eddaa754574b

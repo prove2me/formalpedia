@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryHeadSourceCoverage_hash_literals
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryHeadSourceCoverage.hash_literals
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:58:48.326994+00:00
 -- url     : https://prove2.me/theorems/8444d0b0-8797-428d-a35c-79167dbe5e7c

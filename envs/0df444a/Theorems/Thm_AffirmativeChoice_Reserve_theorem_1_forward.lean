@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffirmativeChoice_Reserve_theorem_1_forward
 -- name    : AffirmativeChoice.Reserve.theorem_1_forward
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:34:49.298985+00:00
 -- url     : https://prove2.me/theorems/45b18ebb-cd47-4218-8fca-0a44f024b284

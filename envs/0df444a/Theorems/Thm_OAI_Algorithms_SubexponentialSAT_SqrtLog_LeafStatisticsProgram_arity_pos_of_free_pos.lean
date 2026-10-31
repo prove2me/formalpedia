@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafStatisticsProgram_arity_pos_of_free_pos
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafStatisticsProgram.arity_pos_of_free_pos
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T23:33:20.754746+00:00
 -- url     : https://prove2.me/theorems/d2ba9358-95cc-4829-b35e-1a8f3698bc06

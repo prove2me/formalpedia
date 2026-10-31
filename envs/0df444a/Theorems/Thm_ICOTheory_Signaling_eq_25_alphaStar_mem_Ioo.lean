@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ICOTheory_Signaling_eq_25_alphaStar_mem_Ioo
 -- name    : ICOTheory.Signaling.eq_25_alphaStar_mem_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:05:15.699556+00:00
 -- url     : https://prove2.me/theorems/f4909708-5476-4a10-bbe2-80017e535e2d

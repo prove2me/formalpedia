@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPMI_Hierarchy_corollary_2_14
 -- name    : RobustPMI.Hierarchy.corollary_2_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:05.678756+00:00
 -- url     : https://prove2.me/theorems/38f848a6-ac4e-443b-85b5-4dbc727219c5

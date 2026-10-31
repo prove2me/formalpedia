@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_triangulating_supergraph__p2m_d1b6a74a_dd8a_4218_af86_64a379555708_a1
 -- name    : WilliamsonShmoys.exists_triangulating_supergraph__p2m_d1b6a74a_dd8a_4218_af86_64a379555708_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:19:19.472678+00:00
 -- url     : https://prove2.me/theorems/85672f39-6e69-4720-b6cd-cf9428a67fda

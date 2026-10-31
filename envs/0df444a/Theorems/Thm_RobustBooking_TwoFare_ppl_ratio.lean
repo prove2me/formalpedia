@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_TwoFare_ppl_ratio
 -- name    : RobustBooking.TwoFare.ppl_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T23:03:27.069033+00:00
 -- url     : https://prove2.me/theorems/6f2ecbad-a591-484f-baab-d84e15db2b43

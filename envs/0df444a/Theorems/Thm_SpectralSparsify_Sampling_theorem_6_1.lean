@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralSparsify_Sampling_theorem_6_1
 -- name    : SpectralSparsify.Sampling.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:33:11.462985+00:00
 -- url     : https://prove2.me/theorems/6f1f89b8-b753-437f-9199-61bb7c569f4a

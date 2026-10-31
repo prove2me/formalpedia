@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohriFoML_OnlineToBatch_hoeffding_lemma
 -- name    : MohriFoML.OnlineToBatch.hoeffding_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:08:54.630709+00:00
 -- url     : https://prove2.me/theorems/7175a1de-7c6b-4680-b5cf-a8939c681ef8

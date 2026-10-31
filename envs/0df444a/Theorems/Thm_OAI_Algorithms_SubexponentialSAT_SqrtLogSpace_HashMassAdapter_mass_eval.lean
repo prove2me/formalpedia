@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashMassAdapter_mass_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashMassAdapter.mass_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:13:56.024906+00:00
 -- url     : https://prove2.me/theorems/fcfa08b4-fbf7-4a78-9339-78a9dd88093f

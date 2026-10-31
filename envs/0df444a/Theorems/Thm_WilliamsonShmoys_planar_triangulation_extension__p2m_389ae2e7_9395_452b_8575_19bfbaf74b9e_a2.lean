@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_extension__p2m_389ae2e7_9395_452b_8575_19bfbaf74b9e_a2
 -- name    : WilliamsonShmoys.planar_triangulation_extension__p2m_389ae2e7_9395_452b_8575_19bfbaf74b9e_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:32:37.328977+00:00
 -- url     : https://prove2.me/theorems/2a02a607-0135-4f55-809a-3285938451f0

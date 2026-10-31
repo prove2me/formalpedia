@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplodingOffer_Mrl_tval_bijection
 -- name    : ExplodingOffer.Mrl.tval_bijection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:34.855774+00:00
 -- url     : https://prove2.me/theorems/676c3843-7dfa-4a0b-9672-361594f72787

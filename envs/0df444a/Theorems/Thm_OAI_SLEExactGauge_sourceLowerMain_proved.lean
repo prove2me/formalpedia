@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SLEExactGauge_sourceLowerMain_proved
 -- name    : OAI.SLEExactGauge.sourceLowerMain_proved
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:18.753835+00:00
 -- url     : https://prove2.me/theorems/dd0a28d1-76e0-411b-898d-1236bbaa0458

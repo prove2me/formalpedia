@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Conditional_representation
 -- name    : RiskFunctionals.Conditional.representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:46.666002+00:00
 -- url     : https://prove2.me/theorems/6af6c229-0f17-4d48-b2b3-55dff5fec3a4

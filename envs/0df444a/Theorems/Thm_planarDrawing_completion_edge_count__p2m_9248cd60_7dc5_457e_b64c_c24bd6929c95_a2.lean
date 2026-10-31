@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planarDrawing_completion_edge_count__p2m_9248cd60_7dc5_457e_b64c_c24bd6929c95_a2
 -- name    : planarDrawing_completion_edge_count__p2m_9248cd60_7dc5_457e_b64c_c24bd6929c95_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:43:15.50226+00:00
 -- url     : https://prove2.me/theorems/669c86c2-d502-40df-b2a7-d12de81131b5

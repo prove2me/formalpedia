@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadAcceptedSpace_accumulate_return_bound
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadAcceptedSpace.accumulate_return_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:16:38.550288+00:00
 -- url     : https://prove2.me/theorems/f6f5edbc-e057-47c0-80b4-b6e2ebc9afed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeCongestion_Poisson_lemma_1_smooth
 -- name    : LargeCongestion.Poisson.lemma_1_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:27:16.158673+00:00
 -- url     : https://prove2.me/theorems/aff3b70d-f38c-4612-acde-49307b49b60a

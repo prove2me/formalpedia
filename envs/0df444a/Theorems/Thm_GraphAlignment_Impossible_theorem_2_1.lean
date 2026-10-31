@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphAlignment_Impossible_theorem_2_1
 -- name    : GraphAlignment.Impossible.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:31:51.819076+00:00
 -- url     : https://prove2.me/theorems/9d7c9ec9-d35b-4f2c-80e5-01d3d6764535

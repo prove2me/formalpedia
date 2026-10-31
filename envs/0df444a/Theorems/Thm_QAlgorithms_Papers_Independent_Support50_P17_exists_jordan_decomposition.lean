@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P17_exists_jordan_decomposition
 -- name    : QAlgorithms.Papers.Independent.Support50.P17.exists_jordan_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-29T18:22:02.435564+00:00
 -- url     : https://prove2.me/theorems/ad573038-9636-46e4-93de-327dcd788889

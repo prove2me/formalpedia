@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_PolynomialExecutorProgram_program_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.PolynomialExecutorProgram.program_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:10:10.847057+00:00
 -- url     : https://prove2.me/theorems/c67b4d82-5129-4ec3-bbea-60829212aa27

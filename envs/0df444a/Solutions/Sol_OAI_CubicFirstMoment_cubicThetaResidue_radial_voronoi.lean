@@ -1,0 +1,6674 @@
+-- Prove2me | solution 1 for OAI.CubicFirstMoment.cubicThetaResidue_radial_voronoi
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-10-30T07:16:09.836797+00:00
+-- url     : https://prove2.me/submissions/d54dfd1e-92fb-4024-9406-9d262bac8bdc
+
+import Mathlib
+import Definitions.Def_PattersonFirstMoment
+import Definitions.Def_OAIQ096A026
+import Theorems.Thm_OAI_CubicFirstMoment_cubicThetaProjectedCusp_identity
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_CubicBesselIntegral
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The fixed order-one-third Bessel kernel in the cubic theta expansion.
+The Schläfli heat integral is used as the definition; its Mellin mass is
+proved by absolute Fubini and the two ordinary Gamma integrals.
+Normalization: NIST DLMF 10.32.10, specialized to nu=1/3 and positive
+argument; the cubic theta expansion is DR v3 section 5.1, Eq.(5.6). -/
+noncomputable section
+open MeasureTheory Set
+namespace CubicFirstMoment
+
+lemma cubicBesselHeat_inner_integral {σ t : ℝ} (hσ : 1/6 < σ) (ht : 0 < t) :
+    (∫ x in Ioi (0:ℝ), x^(σ+1/6-1)*cubicBesselHeat x t) =
+      Real.Gamma (σ+1/6)*t^(σ-1/6-1)*Real.exp (-t) := by
+  have ha : 0 < σ+1/6 := by linarith
+  calc
+    _ = (t^(-4/3:ℝ)*Real.exp (-t))*
+        (∫ x in Ioi (0:ℝ), x^(σ+1/6-1)*Real.exp (-(1/t)*x)) := by
+      rw [←integral_const_mul]
+      apply setIntegral_congr_fun measurableSet_Ioi
+      intro x _
+      dsimp only
+      unfold cubicBesselHeat
+      rw [show -(1/t)*x = -x/t by ring]
+      ring
+    _ = (t^(-4/3:ℝ)*Real.exp (-t))*(Real.Gamma (σ+1/6)*(1/t)^(-(σ+1/6))) := by
+      rw [laplace_rpow ha (one_div_pos.mpr ht)]
+    _ = _ := by
+      have he : (1/t)^(-(σ+1/6)) = t^(σ+1/6) := by
+        rw [one_div,←Real.rpow_neg_eq_inv_rpow,neg_neg]
+      rw [he]
+      calc
+        _ = Real.Gamma (σ+1/6)*(t^(-4/3:ℝ)*t^(σ+1/6))*Real.exp (-t) := by ring
+        _ = _ := by rw [←Real.rpow_add ht]; congr 2; ring_nf
+
+lemma cubicBesselHeat_mellin_integrable {σ : ℝ} (hσ : 1/6 < σ) :
+    Integrable (fun p : ℝ × ℝ => p.2^(σ+1/6-1)*cubicBesselHeat p.2 p.1)
+      ((volume.restrict (Ioi 0)).prod (volume.restrict (Ioi 0))) := by
+  have hm : AEStronglyMeasurable
+      (fun p : ℝ × ℝ => p.2^(σ+1/6-1)*cubicBesselHeat p.2 p.1)
+      ((volume.restrict (Ioi 0)).prod (volume.restrict (Ioi 0))) := by
+    apply Measurable.aestronglyMeasurable
+    unfold cubicBesselHeat
+    fun_prop
+  apply (integrable_prod_iff hm).mpr
+  constructor
+  · filter_upwards [ae_restrict_mem measurableSet_Ioi] with t ht
+    have hi := (integrable_laplace_rpow (by linarith : 0 < σ+1/6)
+      (one_div_pos.mpr ht)).const_mul (t^(-4/3:ℝ)*Real.exp (-t))
+    apply hi.congr
+    filter_upwards with x
+    unfold cubicBesselHeat
+    rw [show -(1/t)*x = -x/t by ring]
+    ring
+  · have hi := (integrable_laplace_rpow (by linarith : 0 < σ-1/6)
+      (by norm_num : (0:ℝ) < 1)).const_mul (Real.Gamma (σ+1/6))
+    apply hi.congr
+    filter_upwards [ae_restrict_mem measurableSet_Ioi] with t ht
+    rw [show (∫ x in Ioi (0:ℝ), ‖x^(σ+1/6-1)*cubicBesselHeat x t‖) =
+        ∫ x in Ioi (0:ℝ), x^(σ+1/6-1)*cubicBesselHeat x t from ?_,
+      cubicBesselHeat_inner_integral hσ ht]
+    · simp only [neg_mul,one_mul,mul_assoc]
+    · apply setIntegral_congr_fun measurableSet_Ioi
+      intro x hx
+      dsimp only
+      rw [Real.norm_eq_abs,abs_of_nonneg (mul_nonneg (Real.rpow_nonneg hx.le _)
+        (cubicBesselHeat_nonneg ht))]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_CubicBesselMellin
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The exact complex Mellin transform of the fixed cubic theta kernel.
+Only the order one third needed in the Voronoi construction is used. -/
+noncomputable section
+open MeasureTheory Set
+namespace CubicFirstMoment
+
+lemma cubicBesselHeat_complex_inner {s : ℂ} (hs : 1/6 < s.re)
+    {t : ℝ} (ht : 0 < t) :
+    (∫ x in Ioi (0:ℝ), (x:ℂ)^(s+1/6-1)*(cubicBesselHeat x t:ℂ)) =
+      Complex.Gamma (s+1/6)*(Real.exp (-t):ℂ)*(t:ℂ)^(s-1/6-1) := by
+  have ha : 0 < (s+1/6).re := by norm_num; linarith
+  calc
+    _ = ((t^(-4/3:ℝ)*Real.exp (-t):ℝ):ℂ)*
+        (∫ x in Ioi (0:ℝ), (x:ℂ)^(s+1/6-1)*Complex.exp (-(((1/t:ℝ):ℂ)*(x:ℂ)))) := by
+      rw [←integral_const_mul]
+      apply setIntegral_congr_fun measurableSet_Ioi
+      intro x _
+      simp only [cubicBesselHeat,Complex.ofReal_mul,Complex.ofReal_exp,Complex.ofReal_neg,
+        Complex.ofReal_div,Complex.ofReal_one]
+      rw [show -(x:ℂ)/(t:ℂ) = -(1/(t:ℂ)*(x:ℂ)) by ring]
+      ring
+    _ = ((t^(-4/3:ℝ)*Real.exp (-t):ℝ):ℂ)*
+        (((1/(1/t:ℝ):ℝ):ℂ)^(s+1/6)*Complex.Gamma (s+1/6)) := by
+      rw [Complex.integral_cpow_mul_exp_neg_mul_Ioi ha (one_div_pos.mpr ht)]
+      simp only [Complex.ofReal_div,Complex.ofReal_one]
+    _ = _ := by
+      simp only [one_div_one_div,Complex.ofReal_mul]
+      rw [Complex.ofReal_cpow ht.le]
+      calc
+        _ = Complex.Gamma (s+1/6)*(Real.exp (-t):ℂ)*
+            ((t:ℂ)^((-4/3:ℝ):ℂ)*(t:ℂ)^(s+1/6)) := by ring
+        _ = _ := by
+          rw [←Complex.cpow_add _ _ (Complex.ofReal_ne_zero.mpr ht.ne')]
+          congr 1
+          push_cast
+          ring_nf
+
+lemma cubicBesselHeat_complex_integrable {s : ℂ} (hs : 1/6 < s.re) :
+    Integrable (fun p : ℝ × ℝ => (p.2:ℂ)^(s+1/6-1)*(cubicBesselHeat p.2 p.1:ℂ))
+      ((volume.restrict (Ioi 0)).prod (volume.restrict (Ioi 0))) := by
+  have hi := cubicBesselHeat_mellin_integrable hs
+  have hm : AEStronglyMeasurable
+      (fun p : ℝ × ℝ => (p.2:ℂ)^(s+1/6-1)*(cubicBesselHeat p.2 p.1:ℂ))
+      ((volume.restrict (Ioi 0)).prod (volume.restrict (Ioi 0))) := by
+    apply Measurable.aestronglyMeasurable
+    unfold cubicBesselHeat
+    fun_prop
+  apply hi.mono' hm
+  have ha : ∀ᵐ p : ℝ × ℝ ∂((volume.restrict (Ioi 0)).prod (volume.restrict (Ioi 0))),
+      p.1 ∈ Ioi 0 ∧ p.2 ∈ Ioi 0 := by
+    apply (Measure.ae_prod_iff_ae_ae (measurableSet_Ioi.prod measurableSet_Ioi)).mpr
+    filter_upwards [ae_restrict_mem measurableSet_Ioi] with t ht
+    filter_upwards [ae_restrict_mem measurableSet_Ioi] with x hx
+    exact ⟨ht,hx⟩
+  filter_upwards [ha] with p hp
+  rw [norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos hp.2,
+    Complex.norm_real,Real.norm_eq_abs,abs_of_nonneg (cubicBesselHeat_nonneg hp.1)]
+  simp only [Complex.sub_re,Complex.add_re,Complex.one_re]
+  norm_num
+
+/-- The Gamma product is proved for the literal heat kernel, with its
+absolute convergence supplied by the preceding positive-integral estimate. -/
+theorem cubicBesselKernel_mellin {s : ℂ} (hs : 1/6 < s.re) :
+    mellin (fun x => (cubicBesselKernel x:ℂ)) s =
+      Complex.Gamma (s+1/6)*Complex.Gamma (s-1/6) := by
+  have hi := cubicBesselHeat_complex_integrable hs
+  have hm : 0 < (s-1/6).re := by
+    norm_num
+    exact hs
+  calc
+    _ = ∫ x in Ioi (0:ℝ), ∫ t in Ioi (0:ℝ),
+        (x:ℂ)^(s+1/6-1)*(cubicBesselHeat x t:ℂ) := by
+      unfold mellin
+      apply setIntegral_congr_fun measurableSet_Ioi
+      intro x hx
+      simp only [smul_eq_mul,cubicBesselKernel,Complex.ofReal_mul]
+      rw [Complex.ofReal_cpow hx.le,←mul_assoc,
+        ←Complex.cpow_add _ _ (Complex.ofReal_ne_zero.mpr (ne_of_gt hx)),
+        show s-1+(1/6:ℝ)=s+1/6-1 by push_cast; ring,
+        integral_const_mul,←integral_complex_ofReal]
+    _ = ∫ t in Ioi (0:ℝ), ∫ x in Ioi (0:ℝ),
+        (x:ℂ)^(s+1/6-1)*(cubicBesselHeat x t:ℂ) := (integral_integral_swap hi).symm
+    _ = ∫ t in Ioi (0:ℝ),
+        Complex.Gamma (s+1/6)*(Real.exp (-t):ℂ)*(t:ℂ)^(s-1/6-1) := by
+      apply setIntegral_congr_fun measurableSet_Ioi
+      intro t ht
+      exact cubicBesselHeat_complex_inner hs ht
+    _ = Complex.Gamma (s+1/6)*(∫ t in Ioi (0:ℝ),
+        (Real.exp (-t):ℂ)*(t:ℂ)^((s-1/6)-1)) := by
+      rw [←integral_const_mul]
+      congr 1
+      funext t
+      ring
+    _ = _ := by rw [Complex.Gamma_eq_integral hm]; rfl
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_CubicWhittakerMellin
+attribute [-instance] _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The exact archimedean factor of the cubic theta Fourier expansion,
+using the fixed Schläfli kernel and the normalization `4*pi*v`. -/
+noncomputable section
+open MeasureTheory Set
+namespace CubicFirstMoment
+
+lemma cubicThetaWhittaker_mellin {s : ℂ} (hs : 1/6 < s.re) :
+    mellin cubicThetaWhittaker (2*s-1) =
+      (1/4:ℂ)*((2*Real.pi:ℝ):ℂ)^(-2*s)*
+        Complex.Gamma (s+1/6)*Complex.Gamma (s-1/6) := by
+  let f : ℝ → ℂ := fun x => (cubicBesselKernel x:ℂ)
+  let c : ℝ := (2*Real.pi)^2
+  have hc : 0 < c := by dsimp [c]; positivity
+  have hform : cubicThetaWhittaker = fun v : ℝ =>
+      (1/2:ℂ) • ((v:ℂ)^((1:ℝ):ℂ) • (fun x => f (c*x)) (v^(2:ℝ))) := by
+    funext v
+    simp only [cubicThetaWhittaker,Complex.ofReal_one,Complex.cpow_one,
+      Real.rpow_two,f,c,smul_eq_mul]
+    rw [show (2*Real.pi*v)^2 = (2*Real.pi)^2*v^2 by ring]
+    ring
+  rw [hform,mellin_const_smul,mellin_cpow_smul]
+  simp only [smul_eq_mul]
+  rw [show (2*s-1)+(1:ℝ)=2*s by push_cast; ring,
+    mellin_comp_rpow (fun x => f (c*x)) (2*s) 2]
+  norm_num only [Complex.ofReal_ofNat,abs_of_pos (by norm_num : (0:ℝ) < 2)]
+  simp only [Complex.real_smul]
+  rw [show (2*s)/(2:ℂ)=s by ring,mellin_comp_mul_left f s hc,
+    cubicBesselKernel_mellin hs]
+  have hpow : (c:ℂ)^(-s) = ((2*Real.pi:ℝ):ℂ)^(-2*s) := by
+    have he := Complex.cpow_mul_ofReal_nonneg
+      (show (0:ℝ) ≤ 2*Real.pi by positivity) 2 (-s)
+    simp only [Real.rpow_two,Complex.ofReal_ofNat] at he
+    calc
+      _ = ((2*Real.pi:ℝ):ℂ)^((2:ℂ)*(-s)) := he.symm
+      _ = _ := by congr 1; ring
+  rw [hpow]
+  dsimp [f]
+  push_cast
+  ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_CubicWhittakerConvergence
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Absolute Mellin convergence of the fixed cubic Whittaker kernel. -/
+noncomputable section
+open MeasureTheory Set
+namespace CubicFirstMoment
+
+lemma cubicThetaWhittaker_mellinConvergent {s : ℂ} (hs : 1/6 < s.re) :
+    MellinConvergent cubicThetaWhittaker (2*s-1) := by
+  have hbase : ((2*Real.pi:ℝ):ℂ)^(-2*s) ≠ 0 :=
+    Complex.cpow_ne_zero_iff.mpr (Or.inl (Complex.ofReal_ne_zero.mpr (by positivity)))
+  have h1 : Complex.Gamma (s+1/6) ≠ 0 :=
+    Complex.Gamma_ne_zero_of_re_pos (by simpa using (show 0 < s.re+1/6 by linarith))
+  have h2 : Complex.Gamma (s-1/6) ≠ 0 :=
+    Complex.Gamma_ne_zero_of_re_pos (by simpa using (show 0 < s.re-1/6 by linarith))
+  have hm : mellin cubicThetaWhittaker (2*s-1) ≠ 0 := by
+    rw [cubicThetaWhittaker_mellin hs]
+    exact mul_ne_zero (mul_ne_zero (mul_ne_zero (by norm_num) hbase) h1) h2
+  by_contra h
+  exact hm (integral_undef h)
+
+lemma cubicThetaWhittaker_scaled_mellinConvergent {s : ℂ} (hs : 1/6 < s.re)
+    {r : ℝ} (hr : 0 < r) (c : ℂ) :
+    MellinConvergent (fun v : ℝ => c*cubicThetaWhittaker (r*v)) (2*s-1) := by
+  exact ((MellinConvergent.comp_mul_left hr).mpr
+    (cubicThetaWhittaker_mellinConvergent hs)).const_smul c
+
+/-- The norm mass changes by the exact Mellin scaling power. -/
+lemma cubicWhittaker_norm_mass_scale (σ : ℝ) {r : ℝ} (hr : 0 < r) :
+    (∫ v in Ioi (0:ℝ), v^(σ-1)*‖cubicThetaWhittaker (r*v)‖) =
+      r^(-σ)*(∫ v in Ioi (0:ℝ), v^(σ-1)*‖cubicThetaWhittaker v‖) := by
+  have hcancel : r^(1-σ)*r^(σ-1) = 1 := by
+    rw [←Real.rpow_add hr]
+    simp
+  have he : (∫ v in Ioi (0:ℝ), v^(σ-1)*‖cubicThetaWhittaker (r*v)‖) =
+      r^(1-σ)*(∫ v in Ioi (0:ℝ), (r*v)^(σ-1)*‖cubicThetaWhittaker (r*v)‖) := by
+    rw [←integral_const_mul]
+    apply setIntegral_congr_fun measurableSet_Ioi
+    intro v hv
+    dsimp only
+    rw [Real.mul_rpow hr.le hv.le]
+    simp only [←mul_assoc,hcancel,one_mul]
+  rw [he,integral_comp_mul_left_Ioi (fun v : ℝ => v^(σ-1)*‖cubicThetaWhittaker v‖) 0 hr,mul_zero]
+  simp only [smul_eq_mul]
+  have hp : r^(1-σ)*r⁻¹ = r^(-σ) := by
+    rw [←Real.rpow_neg_one,←Real.rpow_add hr]
+    congr 1
+    ring
+  rw [←mul_assoc,hp]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_MellinContour
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Contour shifting for the Mellin integrals in the smooth Hecke sum.
+The horizontal edges are kept explicit until a uniform decay bound is
+available; no functional equation or dual-sum estimate is assumed here. -/
+
+noncomputable section
+open MeasureTheory Filter Set
+open scoped Topology
+
+namespace CubicFirstMoment
+
+lemma mellin_rectangle_identity {a b : ℝ} (hab : a ≤ b)
+    (f : ℂ → ℂ) (hf : DifferentiableOn ℂ f (closedVerticalStrip a b))
+    (T : ℝ) :
+    (∫ x in a..b, f (x - (T : ℂ) * Complex.I)) -
+      (∫ x in a..b, f (x + (T : ℂ) * Complex.I)) +
+      Complex.I * (∫ y in -T..T, f (b + (y : ℂ) * Complex.I)) -
+      Complex.I * (∫ y in -T..T, f (a + (y : ℂ) * Complex.I)) = 0 := by
+  have hd := hf.mono (show
+      (Set.uIcc a b ×ℂ Set.uIcc (-T) T) ⊆ closedVerticalStrip a b from by
+    intro z hz
+    simpa only [Set.uIcc_of_le hab, Set.mem_preimage, Set.mem_Icc,
+      closedVerticalStrip, Set.mem_ofPred_eq] using hz.1)
+  have h := Complex.integral_boundary_rect_eq_zero_of_differentiableOn f
+    ((a : ℂ) - (T : ℂ) * Complex.I) ((b : ℂ) + (T : ℂ) * Complex.I)
+  simp only [Complex.sub_re, Complex.add_re, Complex.ofReal_re,
+    Complex.mul_re, Complex.mul_im, Complex.ofReal_im, Complex.I_re,
+    Complex.I_im, Complex.sub_im, Complex.add_im, mul_zero,
+    sub_zero, add_zero, zero_sub, mul_one, zero_add] at h
+  simpa only [Complex.sub_re, Complex.add_re, Complex.ofReal_re,
+    Complex.mul_re, Complex.mul_im, Complex.ofReal_im, Complex.I_re,
+    Complex.I_im, Complex.sub_im, Complex.add_im, mul_zero, zero_mul,
+    sub_zero, add_zero, zero_sub, mul_one, zero_add, Complex.ofReal_neg,
+    neg_mul, add_neg_cancel, sub_self, smul_eq_mul, sub_eq_add_neg] using h hd
+
+/-- Vertical Mellin integrals agree after shifting through a holomorphic
+strip, once both horizontal edges vanish. -/
+theorem mellin_contour_shift {a b : ℝ} (hab : a ≤ b)
+    (f : ℂ → ℂ) (hf : DifferentiableOn ℂ f (closedVerticalStrip a b))
+    (ha : Integrable (fun y : ℝ => f (a + (y : ℂ) * Complex.I)))
+    (hb : Integrable (fun y : ℝ => f (b + (y : ℂ) * Complex.I)))
+    (hTop : Tendsto (fun T : ℝ => ∫ x in a..b, f (x + (T : ℂ) * Complex.I))
+      atTop (𝓝 0))
+    (hBot : Tendsto (fun T : ℝ => ∫ x in a..b, f (x - (T : ℂ) * Complex.I))
+      atTop (𝓝 0)) :
+    (∫ y : ℝ, f (a + (y : ℂ) * Complex.I)) =
+      ∫ y : ℝ, f (b + (y : ℂ) * Complex.I) := by
+  have hia := intervalIntegral_tendsto_integral ha
+    tendsto_neg_atTop_atBot tendsto_id
+  have hib := intervalIntegral_tendsto_integral hb
+    tendsto_neg_atTop_atBot tendsto_id
+  have hlim := ((hBot.sub hTop).add (hib.const_mul Complex.I)).sub
+    (hia.const_mul Complex.I)
+  have hz : (0 : ℂ) + Complex.I * (∫ y : ℝ, f (b + (y : ℂ) * Complex.I)) -
+      Complex.I * (∫ y : ℝ, f (a + (y : ℂ) * Complex.I)) = 0 := by
+    have hz' : 0 - 0 + Complex.I * (∫ y : ℝ, f (b + (y : ℂ) * Complex.I)) -
+        Complex.I * (∫ y : ℝ, f (a + (y : ℂ) * Complex.I)) = 0 := by
+      apply tendsto_nhds_unique hlim
+      apply tendsto_const_nhds.congr'
+      exact Filter.Eventually.of_forall (fun T => (mellin_rectangle_identity hab f hf T).symm)
+    simpa only [sub_self] using hz'
+  have he : Complex.I * (∫ y : ℝ, f (a + (y : ℂ) * Complex.I)) =
+      Complex.I * (∫ y : ℝ, f (b + (y : ℂ) * Complex.I)) := by
+    linear_combination -hz
+  exact mul_left_cancel₀ Complex.I_ne_zero he
+
+/-- A common decaying majorant supplies both horizontal limits. This is
+the form used for a rapidly decreasing Mellin transform times an
+L-function of polynomial growth. -/
+theorem mellin_contour_shift_of_majorant {a b : ℝ} (hab : a ≤ b)
+    (f : ℂ → ℂ) (hf : DifferentiableOn ℂ f (closedVerticalStrip a b))
+    (H : ℝ → ℝ) (hH : Integrable H)
+    (hHtop : Tendsto H atTop (𝓝 0)) (hHbot : Tendsto H atBot (𝓝 0))
+    (hbound : ∀ x ∈ Icc a b, ∀ t : ℝ, ‖f (x + (t : ℂ) * Complex.I)‖ ≤ H t) :
+    (∫ y : ℝ, f (a + (y : ℂ) * Complex.I)) =
+      ∫ y : ℝ, f (b + (y : ℂ) * Complex.I) := by
+  have hline (x : ℝ) (hx : x ∈ Icc a b) :
+      Integrable (fun y : ℝ => f (x + (y : ℂ) * Complex.I)) := by
+    have hc : Continuous (fun y : ℝ => f (x + (y : ℂ) * Complex.I)) :=
+      hf.continuousOn.comp_continuous
+        (continuous_const.add (Complex.continuous_ofReal.mul continuous_const))
+        (by intro y; simpa [closedVerticalStrip] using hx)
+    exact hH.mono' hc.aestronglyMeasurable (Filter.Eventually.of_forall (hbound x hx))
+  have hedge (t : ℝ) :
+      ‖∫ x in a..b, f (x + (t : ℂ) * Complex.I)‖ ≤ H t * |b-a| := by
+    apply intervalIntegral.norm_integral_le_of_norm_le_const
+    intro x hx
+    apply hbound x
+    rw [Set.uIoc_of_le hab] at hx
+    exact ⟨hx.1.le,hx.2⟩
+  apply mellin_contour_shift hab f hf
+    (hline a ⟨le_rfl,hab⟩) (hline b ⟨hab,le_rfl⟩)
+  · exact squeeze_zero_norm hedge (by simpa using hHtop.mul_const |b-a|)
+  · have he : Tendsto (fun T : ℝ => ∫ x in a..b, f (x + ((-T : ℝ) : ℂ) * Complex.I))
+        atTop (𝓝 0) :=
+      squeeze_zero_norm (fun T => hedge (-T))
+        (by simpa using (hHbot.comp tendsto_neg_atTop_atBot).mul_const |b-a|)
+    simpa only [Complex.ofReal_neg, neg_mul, sub_eq_add_neg] using he
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_MellinSmooth
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Analytic properties of the actual compactly supported smooth norm
+weights. Passing to logarithmic coordinates realizes every vertical
+Mellin line as a Schwartz Fourier transform. -/
+
+noncomputable section
+open MeasureTheory Set Filter Asymptotics
+open scoped Topology SchwartzMap ContDiff FourierTransform
+
+namespace CubicFirstMoment
+
+lemma mellinVerticalSchwartz_apply (W : ℝ → ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W ⊆ Ioi 0) (hsm : ContDiff ℝ ∞ W) (σ t : ℝ) :
+    mellinVerticalSchwartz W hW hpos hsm σ t = mellin W (σ + (t : ℂ)*Complex.I) := by
+  rw [mellin_eq_fourier]
+  simp only [Complex.add_re, Complex.ofReal_re, Complex.mul_re, Complex.ofReal_im,
+    Complex.I_re, Complex.I_im, mul_zero, sub_zero, add_zero,
+    Complex.add_im, Complex.mul_im, mul_one, zero_add]
+  rfl
+
+theorem smooth_mellin_vertical_integrable (W : ℝ → ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W ⊆ Ioi 0) (hsm : ContDiff ℝ ∞ W) (σ : ℝ) :
+    Complex.VerticalIntegrable (mellin W) σ := by
+  change Integrable (fun t : ℝ => mellin W (σ + (t : ℂ)*Complex.I))
+  have hi : Integrable (mellinVerticalSchwartz W hW hpos hsm σ) :=
+    (mellinVerticalSchwartz W hW hpos hsm σ).integrable
+  convert hi using 1
+  all_goals try with_reducible_and_instances rfl
+  ext t
+  exact (mellinVerticalSchwartz_apply W hW hpos hsm σ t).symm
+
+theorem smooth_mellin_vertical_decay (W : ℝ → ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W ⊆ Ioi 0) (hsm : ContDiff ℝ ∞ W) (σ : ℝ) (A : ℕ) :
+    ∃ C : ℝ, 0 < C ∧ ∀ t : ℝ,
+      (1+|t|)^A * ‖mellin W (σ + (t : ℂ)*Complex.I)‖ ≤ C := by
+  let F := mellinVerticalSchwartz W hW hpos hsm σ
+  let C := 2^A * (Finset.Iic (A,0)).sup
+    (fun m : ℕ × ℕ => SchwartzMap.seminorm ℝ m.1 m.2) F
+  refine ⟨C+1,by dsimp [C]; positivity,?_⟩
+  intro t
+  have hb := SchwartzMap.one_add_le_sup_seminorm_apply (𝕜 := ℝ)
+    (m := (A,0)) (k := A) (n := 0) le_rfl le_rfl F t
+  simp only [norm_iteratedFDeriv_zero, Real.norm_eq_abs] at hb
+  rw [← mellinVerticalSchwartz_apply W hW hpos hsm σ t]
+  exact hb.trans (by dsimp [C]; linarith)
+
+/-- The Mellin inversion used for a single norm weight, with convergence
+and the vertical integral discharged from its actual smooth support. -/
+theorem smooth_mellin_inversion (W : ℝ → ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W ⊆ Ioi 0) (hsm : ContDiff ℝ ∞ W) (σ : ℝ)
+    {x : ℝ} (hx : 0 < x) : mellinInv σ (mellin W) x = W x :=
+  mellinInv_mellin_eq σ W hx (smooth_mellin_convergent W hW hpos hsm.continuous σ)
+    (smooth_mellin_vertical_integrable W hW hpos hsm σ) hsm.continuous.continuousAt
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_MellinSeries
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Absolute sum-integral interchange for the full norm Dirichlet series
+in Mellin inversion. No smooth-duality formula is an input. -/
+
+noncomputable section
+open MeasureTheory
+open scoped ContDiff
+namespace CubicFirstMoment
+
+/-- The complete smoothed series has the exact Mellin representation on
+any line of absolute convergence of its norm Dirichlet series. -/
+theorem smooth_mellin_series {ι : Type*} [Countable ι]
+    (a : ι → ℂ) (N : ι → ℝ) (hN : ∀ i, 0 < N i)
+    (W : ℝ → ℂ) (hW : HasCompactSupport W) (hpos : tsupport W ⊆ Set.Ioi 0)
+    (hsm : ContDiff ℝ ∞ W) (σ : ℝ)
+    (habs : Summable (fun i => ‖a i‖*(N i)^(-σ)))
+    {Z : ℝ} (hZ : 0 < Z) :
+    (∑' i, a i*W (N i/Z)) = ((1/(2*Real.pi):ℝ):ℂ)*
+      ∫ τ : ℝ, mellin W (σ+(τ:ℂ)*Complex.I) * (Z:ℂ)^(σ+(τ:ℂ)*Complex.I) *
+        normDirichletSeries a N (σ+(τ:ℂ)*Complex.I) := by
+  let s (τ : ℝ) : ℂ := σ+(τ:ℂ)*Complex.I
+  let F (i : ι) (τ : ℝ) : ℂ :=
+    (a i*(N i:ℂ)^(-s τ))*((Z:ℂ)^(s τ)*mellin W (s τ))
+  have hsre (τ : ℝ) : (s τ).re = σ := by simp [s]
+  have hsnre (τ : ℝ) : (-s τ).re = -σ := by simp [hsre]
+  have hnorm (i : ι) (τ : ℝ) : ‖F i τ‖ =
+      (‖a i‖*(N i)^(-σ))*Z^σ*‖mellin W (s τ)‖ := by
+    simp only [F,norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos (hN i),
+      Complex.norm_cpow_eq_rpow_re_of_pos hZ,hsre,hsnre]
+    ring
+  have hm : Integrable (fun τ => mellin W (s τ)) :=
+    smooth_mellin_vertical_integrable W hW hpos hsm σ
+  have hFi (i : ι) : Integrable (F i) := by
+    have hn0 : (N i:ℂ) ≠ 0 := Complex.ofReal_ne_zero.mpr (hN i).ne'
+    have hz0 : (Z:ℂ) ≠ 0 := Complex.ofReal_ne_zero.mpr hZ.ne'
+    have : NeZero (N i:ℂ) := ⟨hn0⟩
+    have : NeZero (Z:ℂ) := ⟨hz0⟩
+    have hs : Continuous s := by dsimp [s]; fun_prop
+    have hc : Continuous (F i) :=
+      (continuous_const.mul ((differentiable_const_cpow_of_neZero _).continuous.comp hs.neg)).mul
+        (((differentiable_const_cpow_of_neZero _).continuous.comp hs).mul
+          ((smooth_mellin_entire W hW hpos hsm.continuous).continuous.comp hs))
+    exact (hm.norm.const_mul ((‖a i‖*(N i)^(-σ))*Z^σ)).mono'
+      hc.aestronglyMeasurable (Filter.Eventually.of_forall (fun τ => (hnorm i τ).le))
+  have hsum : Summable (fun i => ∫ τ : ℝ, ‖F i τ‖) := by
+    have he (i : ι) : (∫ τ : ℝ, ‖F i τ‖) =
+        (‖a i‖*(N i)^(-σ))*(Z^σ*(∫ τ : ℝ, ‖mellin W (s τ)‖)) := by
+      simp_rw [hnorm]
+      rw [integral_const_mul]
+      ring
+    simpa only [he] using habs.mul_right (Z^σ*(∫ τ : ℝ, ‖mellin W (s τ)‖))
+  have hi := integral_tsum_of_summable_integral_norm hFi hsum
+  have hsingle (i : ι) : a i*W (N i/Z) =
+      ((1/(2*Real.pi):ℝ):ℂ)*(∫ τ : ℝ, F i τ) := by
+    rw [← smooth_mellin_inversion W hW hpos hsm σ (div_pos (hN i) hZ),mellinInv]
+    simp only [RCLike.real_smul_eq_coe_mul]
+    rw [← mul_assoc,mul_comm (a i),mul_assoc,← integral_const_mul]
+    congr 1
+    apply integral_congr_ae
+    filter_upwards with τ
+    rw [mellin_scale_cpow (hN i) hZ]
+    dsimp [F,s]
+    ring
+  calc
+    _ = ∑' i, ((1/(2*Real.pi):ℝ):ℂ)*(∫ τ : ℝ, F i τ) := tsum_congr hsingle
+    _ = ((1/(2*Real.pi):ℝ):ℂ)*(∑' i, ∫ τ : ℝ, F i τ) := tsum_mul_left
+    _ = ((1/(2*Real.pi):ℝ):ℂ)*(∫ τ : ℝ, ∑' i, F i τ) := by rw [hi]
+    _ = _ := by
+      congr 1
+      apply integral_congr_ae
+      filter_upwards with τ
+      simp only [F,normDirichletSeries]
+      rw [tsum_mul_right]
+      ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_MellinStrip
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Uniform rapid Mellin decay on a fixed closed real strip. The bound
+comes from the actual compact logarithmic support, not an additional
+analytic input. -/
+
+noncomputable section
+open MeasureTheory Set Filter
+open scoped Topology SchwartzMap ContDiff FourierTransform
+
+namespace CubicFirstMoment
+
+private lemma exp_linear_deriv_bound {M R σ u : ℝ} (hM : 0 ≤ M)
+    (hσ : |σ| ≤ M) (hu : |u| ≤ R) (n : ℕ) :
+    ‖iteratedFDeriv ℝ n (fun v : ℝ => Real.exp (-σ*v)) u‖ ≤
+      M^n * Real.exp (M*R) := by
+  rw [norm_iteratedFDeriv_eq_norm_iteratedDeriv, iteratedDeriv_exp_const_mul]
+  simp only [norm_mul, Real.norm_eq_abs, abs_pow, abs_neg,
+    abs_of_pos (Real.exp_pos _)]
+  apply mul_le_mul (pow_le_pow_left₀ (abs_nonneg _) hσ n) _ (by positivity) (by positivity)
+  apply Real.exp_le_exp.mpr
+  calc
+    -σ*u ≤ |-σ*u| := le_abs_self _
+    _ = |σ| * |u| := by rw [abs_mul,abs_neg]
+    _ ≤ M*R := mul_le_mul hσ hu (abs_nonneg _) hM
+
+private lemma mellinLogSchwartz_eq_smul (W : ℝ → ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W ⊆ Ioi 0) (hsm : ContDiff ℝ ∞ W) (σ : ℝ) :
+    (mellinLogSchwartz W hW hpos hsm σ : ℝ → ℂ) =
+      fun u => Real.exp (-σ*u) • mellinLogSchwartz W hW hpos hsm 0 u := by
+  ext u
+  simp [mellinLogSchwartz_apply]
+
+theorem mellinLogSchwartz_seminorm_uniform (W : ℝ → ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W ⊆ Ioi 0) (hsm : ContDiff ℝ ∞ W) (M : ℝ)
+    (k n : ℕ) : ∃ C : ℝ, 0 ≤ C ∧ ∀ σ : ℝ, |σ| ≤ M →
+      SchwartzMap.seminorm ℝ k n (mellinLogSchwartz W hW hpos hsm σ) ≤ C := by
+  let G := mellinLogSchwartz W hW hpos hsm 0
+  obtain ⟨R₀,hR₀⟩ := (logPullback_compact W hW hpos).isCompact.isBounded.exists_norm_le
+  let R := max R₀ 1
+  let M' := max M 0
+  let B := ∑ i ∈ Finset.range (n+1), (n.choose i : ℝ) *
+    (M'^i * Real.exp (M'*R)) * SchwartzMap.seminorm ℝ 0 (n-i) G
+  have hR : 0 ≤ R := le_trans zero_le_one (le_max_right _ _)
+  have hM : 0 ≤ M' := le_max_right _ _
+  have hB : 0 ≤ B := Finset.sum_nonneg (fun i hi => by positivity)
+  refine ⟨R^k*B, by positivity, ?_⟩
+  intro σ hσ
+  apply SchwartzMap.seminorm_le_bound ℝ k n _ (by positivity)
+  intro u
+  by_cases hu : |u| ≤ R
+  · have he : ContDiff ℝ ∞ (fun v : ℝ => Real.exp (-σ*v)) := by fun_prop
+    have hd := norm_iteratedFDeriv_smul_le (𝕜 := ℝ) he (G.smooth ⊤) u
+      (n := n) (mod_cast le_top)
+    have hg (i : ℕ) : ‖iteratedFDeriv ℝ i G u‖ ≤ SchwartzMap.seminorm ℝ 0 i G := by
+      simpa only [pow_zero,one_mul] using SchwartzMap.le_seminorm ℝ 0 i G u
+    have hb : ‖iteratedFDeriv ℝ n (mellinLogSchwartz W hW hpos hsm σ) u‖ ≤ B := by
+      rw [mellinLogSchwartz_eq_smul W hW hpos hsm σ]
+      apply hd.trans
+      apply Finset.sum_le_sum
+      intro i hi
+      apply mul_le_mul
+      · exact mul_le_mul_of_nonneg_left
+          (exp_linear_deriv_bound hM (hσ.trans (le_max_left _ _)) hu i) (by positivity)
+      · exact hg (n-i)
+      · positivity
+      · positivity
+    simpa only [Real.norm_eq_abs] using
+      mul_le_mul (pow_le_pow_left₀ (by positivity : 0 ≤ |u|) hu k) hb
+        (by positivity) (by positivity)
+  · have hz : iteratedFDeriv ℝ n (mellinLogSchwartz W hW hpos hsm σ) u = 0 := by
+      by_contra hn
+      have hs := support_iteratedFDeriv_subset (𝕜 := ℝ)
+        (f := mellinLogSchwartz W hW hpos hsm σ) n hn
+      have hs' : u ∈ tsupport (fun v : ℝ => W (Real.exp (-v))) :=
+        tsupport_smul_subset_right (fun v : ℝ => Real.exp (-σ*v))
+          (fun v : ℝ => W (Real.exp (-v))) hs
+      have hb : |u| ≤ R₀ := by simpa only [Real.norm_eq_abs] using hR₀ u hs'
+      exact hu (hb.trans (le_max_left _ _))
+    rw [hz,norm_zero,mul_zero]
+    positivity
+
+theorem mellinVertical_family_bounded (W : ℝ → ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W ⊆ Ioi 0) (hsm : ContDiff ℝ ∞ W) (M : ℝ) :
+    Bornology.IsVonNBounded ℝ
+      ((fun σ => mellinVerticalSchwartz W hW hpos hsm σ) '' {σ | |σ| ≤ M}) := by
+  let f : ℝ → 𝓢(ℝ,ℂ) := fun σ => mellinLogSchwartz W hW hpos hsm σ
+  have hb : Bornology.IsVonNBounded ℝ (f '' {σ | |σ| ≤ M}) := by
+    apply (schwartz_withSeminorms ℝ ℝ ℂ).image_isVonNBounded_iff_seminorm_bounded f |>.2
+    intro i
+    obtain ⟨C,hC,h⟩ := mellinLogSchwartz_seminorm_uniform W hW hpos hsm M i.1 i.2
+    exact ⟨C+1,by linarith,fun σ hσ => (h σ hσ).trans_lt (by linarith)⟩
+  let L : 𝓢(ℝ,ℂ) →L[ℝ] 𝓢(ℝ,ℂ) :=
+    (SchwartzMap.compCLM ℝ (by
+      simp only [div_eq_mul_inv]
+      fun_prop : (fun t : ℝ => t/(2*Real.pi)).HasTemperateGrowth)
+      mellin_frequency_growth).comp (SchwartzMap.fourierTransformCLM ℝ)
+  convert hb.image L using 1
+  all_goals try with_reducible_and_instances rfl
+  rw [← Set.image_comp]
+  rfl
+
+theorem smooth_mellin_strip_decay (W : ℝ → ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W ⊆ Ioi 0) (hsm : ContDiff ℝ ∞ W) (M : ℝ) (A : ℕ) :
+    ∃ C : ℝ, 0 < C ∧ ∀ σ : ℝ, |σ| ≤ M → ∀ t : ℝ,
+      (1+|t|)^A * ‖mellin W (σ + (t : ℂ)*Complex.I)‖ ≤ C := by
+  have hb := mellinVertical_family_bounded W hW hpos hsm M
+  obtain ⟨C,hC,h⟩ :=
+    (schwartz_withSeminorms ℝ ℝ ℂ).image_isVonNBounded_iff_finset_seminorm_bounded
+      (fun σ => mellinVerticalSchwartz W hW hpos hsm σ) |>.mp hb (Finset.Iic (A,0))
+  refine ⟨2^A*C,by positivity,?_⟩
+  intro σ hσ t
+  have hp := SchwartzMap.one_add_le_sup_seminorm_apply (𝕜 := ℝ)
+    (m := (A,0)) (k := A) (n := 0) le_rfl le_rfl
+      (mellinVerticalSchwartz W hW hpos hsm σ) t
+  simp only [norm_iteratedFDeriv_zero,Real.norm_eq_abs,mellinVerticalSchwartz_apply] at hp
+  exact hp.trans (mul_le_mul_of_nonneg_left (h σ hσ).le (by positivity))
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_MellinHeckeContour
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The contour step for the full smooth character sum. Polynomial
+vertical growth is an analytic property of the L-function; the decay,
+integrability and vanishing edges are derived for the actual weight. -/
+
+noncomputable section
+open MeasureTheory Set Filter
+open scoped Topology ContDiff
+namespace CubicFirstMoment
+
+lemma mellinEdgeMajorant_integrable (C : ℝ) : Integrable (mellinEdgeMajorant C) := by
+  have hi : Integrable (fun t : ℝ => (1+‖t‖)^(-(2:ℝ))) :=
+    integrable_one_add_norm (by norm_num)
+  convert hi.const_mul C using 1
+  all_goals try with_reducible_and_instances rfl
+  ext t
+  rw [mellinEdgeMajorant, Real.rpow_neg (by positivity), Real.rpow_ofNat,
+    Real.norm_eq_abs, div_eq_mul_inv]
+
+lemma mellinEdgeMajorant_tendsto (C : ℝ) :
+    Tendsto (mellinEdgeMajorant C) atTop (𝓝 0) ∧
+      Tendsto (mellinEdgeMajorant C) atBot (𝓝 0) := by
+  have h (l : Filter ℝ) (hl : Tendsto (fun t : ℝ => |t|) l atTop) :
+      Tendsto (mellinEdgeMajorant C) l (𝓝 0) := by
+    change Tendsto (fun t : ℝ => C/(1+|t|)^2) l (𝓝 0)
+    have hp : Tendsto (fun t : ℝ => (1+|t|)⁻¹) l (𝓝 0) :=
+      tendsto_inv_atTop_zero.comp (tendsto_atTop_mono (fun t => by linarith) hl)
+    simpa only [div_eq_mul_inv, inv_pow, zero_pow (by decide : 2 ≠ 0),
+      mul_zero] using (hp.pow 2).const_mul C
+  exact ⟨h atTop tendsto_abs_atTop_atTop,h atBot tendsto_abs_atBot_atTop⟩
+
+lemma norm_mellinHecke_integrand_le (W : ℝ → ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W ⊆ Ioi 0) (hsm : ContDiff ℝ ∞ W)
+    {a b Z : ℝ} (hZ : 1 ≤ Z) (t : ℝ)
+    (L : ℂ → ℂ) {C : ℝ} (hC : 0 ≤ C) (N : ℕ)
+    (hL : ∀ σ ∈ Icc a b, ∀ τ : ℝ,
+      ‖L (σ + ((τ-t : ℝ) : ℂ)*Complex.I)‖ ≤ C*(1+|τ-t|)^N) :
+    ∃ K : ℝ, 0 ≤ K ∧ ∀ σ ∈ Icc a b, ∀ τ : ℝ,
+      ‖mellin W (σ+(τ:ℂ)*Complex.I) * (Z:ℂ)^(σ+(τ:ℂ)*Complex.I) *
+          L (σ+((τ-t : ℝ):ℂ)*Complex.I)‖ ≤ mellinEdgeMajorant K τ := by
+  obtain ⟨Cw,hCw,hdecay⟩ := smooth_mellin_strip_decay W hW hpos hsm (|a|+|b|) (N+2)
+  let B := Z^b*C*(1+|t|)^N
+  have hB : 0 ≤ B := by positivity
+  refine ⟨B*Cw,by positivity,?_⟩
+  intro σ hσ τ
+  have hσabs : |σ| ≤ |a|+|b| := by
+    apply abs_le.mpr
+    constructor
+    · linarith [neg_abs_le a,abs_nonneg b,hσ.1]
+    · linarith [le_abs_self b,abs_nonneg a,hσ.2]
+  have hscale : ‖(Z:ℂ)^(σ+(τ:ℂ)*Complex.I)‖ ≤ Z^b := by
+    rw [Complex.norm_cpow_eq_rpow_re_of_pos (by linarith : 0 < Z)]
+    simp only [Complex.add_re, Complex.ofReal_re, Complex.mul_re, Complex.ofReal_im,
+      Complex.I_re, Complex.I_im,mul_zero,zero_mul,sub_zero,add_zero]
+    exact Real.rpow_le_rpow_of_exponent_le hZ hσ.2
+  have hshift : (1+|τ-t|)^N ≤ (1+|t|)^N*(1+|τ|)^N := by
+    rw [← mul_pow]
+    apply pow_le_pow_left₀ (by positivity)
+    have hd := abs_sub_le τ 0 t
+    simp only [sub_zero,zero_sub,abs_neg] at hd
+    nlinarith [mul_nonneg (abs_nonneg τ) (abs_nonneg t)]
+  have hL' : ‖L (σ+((τ-t : ℝ):ℂ)*Complex.I)‖ ≤
+      C*((1+|t|)^N*(1+|τ|)^N) :=
+    (hL σ hσ τ).trans (mul_le_mul_of_nonneg_left hshift hC)
+  unfold mellinEdgeMajorant
+  apply (le_div_iff₀ (by positivity : 0 < (1+|τ|)^2)).mpr
+  calc
+    _ ≤ (‖mellin W (σ+(τ:ℂ)*Complex.I)‖ * Z^b *
+        (C*((1+|t|)^N*(1+|τ|)^N)))*(1+|τ|)^2 := by
+      rw [norm_mul,norm_mul]
+      gcongr
+    _ = B*((1+|τ|)^(N+2)*‖mellin W (σ+(τ:ℂ)*Complex.I)‖) := by
+      rw [pow_add]
+      dsimp [B]
+      ring
+    _ ≤ B*Cw := mul_le_mul_of_nonneg_left (hdecay σ hσabs τ) hB
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_PolynomialStrip
+attribute [-instance] _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Polynomial strip growth from finite order and polynomial boundary
+bounds. The finite-order hypothesis is much weaker than the conclusion;
+the proof uses the Phragmén–Lindelöf theorem in mathlib. -/
+
+noncomputable section
+open Set Filter Asymptotics
+namespace CubicFirstMoment
+
+lemma finiteVerticalOrder_double_exp {f : ℂ → ℂ} {a b c : ℝ}
+    (hf : FiniteVerticalOrder f a b) (hc : 0 < c) :
+    f =O[comap (abs ∘ Complex.im) atTop ⊓ 𝓟 (Complex.re ⁻¹' Ioo a b)]
+      (fun z : ℂ => Real.exp (Real.exp (c*|z.im|))) := by
+  obtain ⟨C,k,hC,hf⟩ := hf
+  have he := ((isLittleO_pow_exp_pos_mul_atTop k hc).const_mul_left (C*2^k)).bound
+    (by norm_num : (0:ℝ) < 1)
+  have hlarge : ∀ᶠ u : ℝ in atTop,
+      C*(1+u)^k ≤ Real.exp (c*u) := by
+    filter_upwards [he,eventually_ge_atTop (1:ℝ)] with u hu hu1
+    have hu0 : 0 ≤ u := le_trans zero_le_one hu1
+    have hpow : (1+u)^k ≤ (2*u)^k := pow_le_pow_left₀ (by positivity) (by linarith) _
+    calc
+      C*(1+u)^k ≤ C*(2*u)^k := mul_le_mul_of_nonneg_left hpow hC
+      _ = (C*2^k)*u^k := by rw [mul_pow]; ring
+      _ ≤ Real.exp (c*u) := by
+        exact (le_abs_self _).trans (by
+          simpa only [Real.norm_eq_abs,abs_of_pos (Real.exp_pos _),one_mul] using hu)
+  apply IsBigO.of_bound' 
+  have hlarge' := ((tendsto_comap : Tendsto (abs ∘ Complex.im) (comap (abs ∘ Complex.im) atTop) atTop).eventually hlarge).filter_mono (inf_le_left :
+    comap (abs ∘ Complex.im) atTop ⊓ 𝓟 (Complex.re ⁻¹' Ioo a b) ≤
+      comap (abs ∘ Complex.im) atTop)
+  have hs : ∀ᶠ z : ℂ in comap (abs ∘ Complex.im) atTop ⊓
+      𝓟 (Complex.re ⁻¹' Ioo a b), z.re ∈ Ioo a b :=
+    Filter.Eventually.filter_mono inf_le_right (by simp)
+  filter_upwards [hlarge',hs] with z hz hzstrip
+  exact (hf z ⟨hzstrip.1.le,hzstrip.2.le⟩).trans <| by
+    simpa using Real.exp_le_exp.mpr hz
+
+private lemma strip_shift_norm_lower {a : ℝ} {z : ℂ} (hz : a ≤ z.re) :
+    1 ≤ ‖z+((1-a:ℝ):ℂ)‖ := by
+  have hr := Complex.re_le_norm (z+((1-a:ℝ):ℂ))
+  simp only [Complex.add_re,Complex.ofReal_re] at hr
+  linarith
+
+private lemma strip_shift_norm_upper {a b : ℝ} {z : ℂ}
+    (hz : z.re ∈ Icc a b) :
+    ‖z+((1-a:ℝ):ℂ)‖ ≤ (b-a+1)*(1+|z.im|) := by
+  have hn := Complex.norm_le_abs_re_add_abs_im (z+((1-a:ℝ):ℂ))
+  simp only [Complex.add_re,Complex.ofReal_re,Complex.add_im,Complex.ofReal_im,add_zero] at hn
+  rw [abs_of_nonneg (by linarith [hz.1] : 0 ≤ z.re+(1-a))] at hn
+  nlinarith [abs_nonneg z.im,hz.1,hz.2]
+
+/-- A finite-order holomorphic function with polynomial bounds on both
+vertical edges has polynomial growth throughout the strip. -/
+theorem polynomial_strip_of_finite_order {f : ℂ → ℂ} {a b C : ℝ}
+    (hab : a < b) (hfd : Differentiable ℂ f) (hf : FiniteVerticalOrder f a b)
+    (hC : 0 ≤ C) (n : ℕ)
+    (ha : ∀ z : ℂ, z.re = a → ‖f z‖ ≤ C*(1+|z.im|)^n)
+    (hb : ∀ z : ℂ, z.re = b → ‖f z‖ ≤ C*(1+|z.im|)^n) :
+    ∀ z : ℂ, z.re ∈ Icc a b →
+      ‖f z‖ ≤ (C*2^n*(b-a+1)^n)*(1+|z.im|)^n := by
+  let g (z : ℂ) := f z/(z+((1-a:ℝ):ℂ))^n
+  have hcl : closure (Complex.re ⁻¹' Ioo a b) ⊆ Complex.re ⁻¹' Icc a b := by
+    apply closure_minimal
+    · intro z hz
+      exact ⟨hz.1.le,hz.2.le⟩
+    · exact isClosed_Icc.preimage Complex.continuous_re
+  have hne {z : ℂ} (hz : a ≤ z.re) : z+((1-a:ℝ):ℂ) ≠ 0 := by
+    have hn := strip_shift_norm_lower hz
+    intro he
+    rw [he,norm_zero] at hn
+    norm_num at hn
+  have hgd : DiffContOnCl ℂ g (Complex.re ⁻¹' Ioo a b) := by
+    apply DifferentiableOn.diffContOnCl
+    intro z hz
+    exact (hfd z).differentiableWithinAt.div
+      (((differentiable_id.add_const ((1-a:ℝ):ℂ)).pow n) z).differentiableWithinAt
+      (pow_ne_zero _ (hne (hcl hz).1))
+  have hgnorm {z : ℂ} (hz : a ≤ z.re) : ‖g z‖ ≤ ‖f z‖ := by
+    dsimp [g]
+    rw [norm_div,norm_pow]
+    exact div_le_self (_root_.norm_nonneg _) (one_le_pow₀ (strip_shift_norm_lower hz))
+  have hgf : FiniteVerticalOrder g a b := by
+    obtain ⟨D,k,hD,hf⟩ := hf
+    exact ⟨D,k,hD,fun z hz => (hgnorm hz.1).trans (hf z hz)⟩
+  have hboundary {z : ℂ} (hz : z.re ∈ Icc a b)
+      (hfz : ‖f z‖ ≤ C*(1+|z.im|)^n) : ‖g z‖ ≤ C*2^n := by
+    have hn := strip_shift_norm_lower hz.1
+    have hi : |z.im| ≤ ‖z+((1-a:ℝ):ℂ)‖ := by
+      simpa using Complex.abs_im_le_norm (z+((1-a:ℝ):ℂ))
+    have hpow : (1+|z.im|)^n ≤ (2*‖z+((1-a:ℝ):ℂ)‖)^n :=
+      pow_le_pow_left₀ (by positivity) (by linarith) _
+    dsimp [g]
+    rw [norm_div,norm_pow]
+    apply (div_le_iff₀ (pow_pos (lt_of_lt_of_le zero_lt_one hn) _)).mpr
+    calc
+      ‖f z‖ ≤ C*(1+|z.im|)^n := hfz
+      _ ≤ C*(2*‖z+((1-a:ℝ):ℂ)‖)^n := mul_le_mul_of_nonneg_left hpow hC
+      _ = _ := by rw [mul_pow]; ring
+  have hc : 0 < Real.pi/(2*(b-a)) := div_pos Real.pi_pos (by linarith)
+  have hcb : Real.pi/(2*(b-a)) < Real.pi/(b-a) := by
+    apply div_lt_div_of_pos_left Real.pi_pos (by linarith) (by linarith)
+  intro z hz
+  have hg : ‖g z‖ ≤ C*2^n := PhragmenLindelof.vertical_strip hgd
+    ⟨Real.pi/(2*(b-a)),hcb,1,by
+      simpa only [one_mul] using finiteVerticalOrder_double_exp hgf hc⟩
+    (fun w hw => hboundary ⟨hw.ge,hw ▸ hab.le⟩ (ha w hw))
+    (fun w hw => hboundary ⟨hw ▸ hab.le,hw.le⟩ (hb w hw)) hz.1 hz.2
+  have hfeq : ‖f z‖ = ‖g z‖*‖z+((1-a:ℝ):ℂ)‖^n := by
+    dsimp [g]
+    rw [norm_div,norm_pow,div_mul_cancel₀ _ (pow_ne_zero _ (norm_ne_zero_iff.mpr (hne hz.1)))]
+  rw [hfeq]
+  calc
+    _ ≤ (C*2^n)*((b-a+1)*(1+|z.im|))^n :=
+      mul_le_mul hg (pow_le_pow_left₀ (_root_.norm_nonneg _) (strip_shift_norm_upper hz) n)
+        (by positivity) (by positivity)
+    _ = _ := by rw [mul_pow]; ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_GammaElementaryGrowth
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Elementary bounds used to discharge reciprocal Gamma growth. -/
+noncomputable section
+open MeasureTheory Set
+namespace CubicFirstMoment
+
+lemma gamma_norm_le_real {s : ℂ} (hs : 0 < s.re) :
+    ‖Complex.Gamma s‖ ≤ Real.Gamma s.re := by
+  rw [Complex.Gamma_eq_integral hs, Complex.GammaIntegral, Real.Gamma_eq_integral hs]
+  apply (norm_integral_le_integral_norm _).trans_eq
+  apply setIntegral_congr_fun measurableSet_Ioi
+  intro x hx
+  dsimp only
+  rw [norm_mul, Complex.norm_of_nonneg (Real.exp_pos (-x)).le,
+    Complex.norm_cpow_eq_rpow_re_of_pos hx]
+  simp
+
+lemma gamma_norm_le_add_nat {s : ℂ} (hs : 1 ≤ |s.im|) (n : ℕ) :
+    ‖Complex.Gamma s‖ ≤ ‖Complex.Gamma (s+n)‖ := by
+  induction n with
+  | zero => simp
+  | succ n ih =>
+    have him : (s+(n:ℂ)).im = s.im := by simp
+    have hn : 1 ≤ ‖s+(n:ℂ)‖ := hs.trans (by simpa using Complex.abs_im_le_norm (s+(n:ℂ)))
+    have hne : s+(n:ℂ) ≠ 0 := norm_pos_iff.mp (lt_of_lt_of_le zero_lt_one hn)
+    calc
+      _ ≤ ‖Complex.Gamma (s+n)‖ := ih
+      _ ≤ ‖s+(n:ℂ)‖*‖Complex.Gamma (s+n)‖ :=
+        le_mul_of_one_le_left (_root_.norm_nonneg _) hn
+      _ = ‖Complex.Gamma (s+(n+1:ℕ))‖ := by
+        rw [Nat.cast_add, Nat.cast_one, ← add_assoc, Complex.Gamma_add_one _ hne, norm_mul]
+
+lemma complex_sin_norm_le_exp_im (s : ℂ) :
+    ‖Complex.sin s‖ ≤ Real.exp |s.im| := by
+  rw [Complex.sin, norm_div, norm_mul, Complex.norm_I, mul_one]
+  have hp : ‖Complex.exp (-s*Complex.I)‖ ≤ Real.exp |s.im| := by
+    rw [Complex.norm_exp]
+    apply Real.exp_le_exp.mpr
+    simpa [Complex.mul_re] using le_abs_self s.im
+  have hm : ‖Complex.exp (s*Complex.I)‖ ≤ Real.exp |s.im| := by
+    rw [Complex.norm_exp]
+    apply Real.exp_le_exp.mpr
+    simpa [Complex.mul_re] using neg_le_abs s.im
+  have hd := (norm_sub_le (Complex.exp (-s*Complex.I)) (Complex.exp (s*Complex.I))).trans
+    (add_le_add hp hm)
+  norm_num
+  simp only [neg_mul] at hd
+  linarith
+
+lemma gamma_real_interval_bound {a b : ℝ} (ha : 0 < a) :
+    ∃ M : ℝ, 0 < M ∧ ∀ x ∈ Icc a b, Real.Gamma x ≤ M := by
+  have hc : ContinuousOn (fun x : ℝ => Complex.Gamma (x:ℂ)) (Icc a b) := by
+    intro x hx
+    apply ContinuousAt.continuousWithinAt
+    apply (Complex.continuousAt_Gamma (x:ℂ) ?_).comp Complex.continuous_ofReal.continuousAt
+    intro n hn
+    have hr := congrArg Complex.re hn
+    simp only [Complex.ofReal_re,Complex.neg_re,Complex.natCast_re] at hr
+    have : (0:ℝ) ≤ n := by positivity
+    linarith [hx.1]
+  obtain ⟨M,hM⟩ := isCompact_Icc.exists_bound_of_continuousOn hc
+  refine ⟨max M 1,lt_of_lt_of_le zero_lt_one (le_max_right _ _),?_⟩
+  intro x hx
+  exact (Complex.re_le_norm (Complex.Gamma (x:ℂ))).trans ((hM x hx).trans (le_max_left _ _))
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_GammaBetaComparison
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Beta-integral comparison for the Gamma quotient. -/
+noncomputable section
+open MeasureTheory Set
+namespace CubicFirstMoment
+
+private lemma beta_real_integral_eq (x y : ℝ) (hx : 0 < x) (hy : 0 < y) :
+    (∫ t : ℝ in (0:ℝ)..1, t^(x-1)*(1-t)^(y-1)) =
+      Real.Gamma x*Real.Gamma y/Real.Gamma (x+y) := by
+  apply Complex.ofReal_injective
+  rw [← intervalIntegral.integral_ofReal]
+  have he : (∫ t : ℝ in (0:ℝ)..1, ((t^(x-1)*(1-t)^(y-1):ℝ):ℂ)) =
+      Complex.betaIntegral (x:ℂ) (y:ℂ) := by
+    unfold Complex.betaIntegral
+    apply intervalIntegral.integral_congr
+    intro t ht
+    rw [uIcc_of_le (by norm_num : (0:ℝ) ≤ 1)] at ht
+    simp only [Complex.ofReal_mul,Complex.ofReal_cpow ht.1,
+      Complex.ofReal_cpow (sub_nonneg.mpr ht.2),Complex.ofReal_sub,Complex.ofReal_one]
+  rw [he,Complex.betaIntegral_eq_Gamma_mul_div _ _ (by simpa using hx) (by simpa using hy)]
+  simp only [Complex.ofReal_div,Complex.ofReal_mul,← Complex.ofReal_add,Complex.Gamma_ofReal]
+
+lemma beta_norm_le_real (s : ℂ) {d : ℝ} (hs : 0 < s.re) (hd : 0 < d) :
+    ‖Complex.betaIntegral s (d:ℂ)‖ ≤
+      Real.Gamma s.re*Real.Gamma d/Real.Gamma (s.re+d) := by
+  rw [← beta_real_integral_eq s.re d hs hd]
+  unfold Complex.betaIntegral
+  apply (intervalIntegral.norm_integral_le_integral_norm (by norm_num : (0:ℝ) ≤ 1)).trans_eq
+  rw [intervalIntegral.integral_of_le (by norm_num : (0:ℝ) ≤ 1),
+    intervalIntegral.integral_of_le (by norm_num : (0:ℝ) ≤ 1),
+    integral_Ioc_eq_integral_Ioo,integral_Ioc_eq_integral_Ioo]
+  apply setIntegral_congr_fun measurableSet_Ioo
+  intro t ht
+  dsimp only
+  rw [norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos ht.1]
+  have hp : 0 < 1-t := sub_pos.mpr ht.2
+  rw [show (1:ℂ)-(t:ℂ) = ((1-t:ℝ):ℂ) by push_cast; rfl,
+    Complex.norm_cpow_eq_rpow_re_of_pos hp]
+  simp
+
+lemma gamma_real_shift_ratio_bound (s : ℂ) {d : ℝ} (hs : 0 < s.re) (hd : 0 < d) :
+    ‖Complex.Gamma s‖/‖Complex.Gamma (s+(d:ℂ))‖ ≤
+      Real.Gamma s.re/Real.Gamma (s.re+d) := by
+  have h := beta_norm_le_real s hs hd
+  have hg : 0 < Real.Gamma d := Real.Gamma_pos_of_pos hd
+  rw [Complex.betaIntegral_eq_Gamma_mul_div _ _ hs (by simpa using hd),
+    norm_div,norm_mul,Complex.Gamma_ofReal,Complex.norm_real,Real.norm_eq_abs,
+    abs_of_pos hg] at h
+  apply (mul_le_mul_iff_right₀ hg).mp
+  first | (convert h using 1 <;> ring) | exact (le_of_eq (by ring)).trans (h.trans (le_of_eq (by ring)))
+
+lemma gamma_shift_ratio_bound (x y t : ℝ) (n : ℕ) (hx : 0 < x)
+    (hgap : 0 < y+(n:ℝ)-x) :
+    ‖Complex.Gamma ((x:ℂ)+(t:ℂ)*Complex.I) /
+      Complex.Gamma ((y:ℂ)+(t:ℂ)*Complex.I)‖ ≤
+      (Real.Gamma x/Real.Gamma (y+n))*
+        ‖(ascPochhammer ℂ n).eval ((y:ℂ)+(t:ℂ)*Complex.I)‖ := by
+  let z : ℂ := (y:ℂ)+(t:ℂ)*Complex.I
+  let w : ℂ := (x:ℂ)+(t:ℂ)*Complex.I
+  have hyn : 0 < y+(n:ℝ) := by linarith
+  have hGn : Complex.Gamma (z+n) ≠ 0 :=
+    Complex.Gamma_ne_zero_of_re_pos (by simpa [z] using hyn)
+  by_cases hG : Complex.Gamma z = 0
+  · change ‖Complex.Gamma w/Complex.Gamma z‖ ≤ _
+    rw [hG,div_zero,norm_zero]
+    exact mul_nonneg (div_nonneg (Real.Gamma_pos_of_pos hx).le
+      (Real.Gamma_pos_of_pos hyn).le) (_root_.norm_nonneg _)
+  have hreg : ∀ k : ℕ, z ≠ -(k:ℂ) := by
+    intro k hk
+    exact hG (by rw [hk,Complex.Gamma_neg_nat_eq_zero])
+  have hp := congrArg (fun u : ℂ => ‖u‖) (Complex.Gamma_add_nat_div_Gamma_eq (n := n) z hreg)
+  rw [norm_div] at hp
+  have hshift : w+((y+(n:ℝ)-x:ℝ):ℂ) = z+n := by dsimp [w,z]; push_cast; ring
+  have hb := gamma_real_shift_ratio_bound w (by simpa [w] using hx) hgap
+  rw [hshift,show w.re=x by simp [w],show x+(y+(n:ℝ)-x)=y+n by ring] at hb
+  change ‖Complex.Gamma w/Complex.Gamma z‖ ≤ _
+  rw [norm_div]
+  calc
+    _ = (‖Complex.Gamma w‖/‖Complex.Gamma (z+n)‖)*
+        ‖(ascPochhammer ℂ n).eval z‖ := by
+      rw [← hp]
+      field_simp [norm_ne_zero_iff.mpr hG,norm_ne_zero_iff.mpr hGn]
+    _ ≤ _ := mul_le_mul_of_nonneg_right hb (_root_.norm_nonneg _)
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_GammaInverseGrowth
+attribute [-instance] _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Reciprocal Gamma has the coarse strip growth needed for the completed
+Hecke functions. This uses Euler's integral, reflection and recurrence. -/
+noncomputable section
+open Set
+namespace CubicFirstMoment
+
+private lemma gamma_inverse_reflection {s : ℂ} (hs : 1 ≤ |s.im|) :
+    (Complex.Gamma s)⁻¹ = Complex.Gamma (1-s)*Complex.sin (Real.pi*s)/Real.pi := by
+  have hi : s.im ≠ 0 := by intro h; simp only [h,abs_zero] at hs; linarith
+  have hreg : ∀ n : ℕ, s ≠ -(n:ℂ) := by
+    intro n hn
+    apply hi
+    simpa using congrArg Complex.im hn
+  have hreg' : ∀ n : ℕ, 1-s ≠ -(n:ℂ) := by
+    intro n hn
+    apply hi
+    have hh := congrArg Complex.im hn
+    simpa using hh
+  have hG := Complex.Gamma_ne_zero hreg
+  have hG' := Complex.Gamma_ne_zero hreg'
+  have hr := Complex.Gamma_mul_Gamma_one_sub s
+  have hsin : Complex.sin (Real.pi*s) ≠ 0 := by
+    intro hz
+    rw [hz,div_zero] at hr
+    exact mul_ne_zero hG hG' hr
+  have hp : (Real.pi:ℂ) ≠ 0 := Complex.ofReal_ne_zero.mpr Real.pi_ne_zero
+  have hr' := (eq_div_iff hsin).mp hr
+  apply (eq_div_iff hp).mpr
+  calc
+    _ = (Complex.Gamma s)⁻¹*(Complex.Gamma s*Complex.Gamma (1-s)*
+        Complex.sin (Real.pi*s)) := congrArg (fun z : ℂ => (Complex.Gamma s)⁻¹*z) hr'.symm
+    _ = _ := by field_simp [hG]
+
+private lemma gamma_inverse_large_height_bound (a b : ℝ) :
+    ∃ D : ℝ, 0 < D ∧ ∀ s : ℂ, s.re ∈ Icc a b → 1 ≤ |s.im| →
+      ‖(Complex.Gamma s)⁻¹‖ ≤ D*Real.exp (Real.pi*|s.im|) := by
+  obtain ⟨n,hn⟩ := exists_nat_gt b
+  have hlo : 0 < 1-b+(n:ℝ) := by linarith
+  obtain ⟨M,hM,hbound⟩ := gamma_real_interval_bound (b := 1-a+(n:ℝ)) hlo
+  refine ⟨M/Real.pi,div_pos hM Real.pi_pos,?_⟩
+  intro s hs ht
+  have hz : 0 < (1-s+(n:ℂ)).re := by
+    simp only [Complex.add_re,Complex.sub_re,Complex.one_re,Complex.natCast_re]
+    linarith [hs.2]
+  have hΓ : ‖Complex.Gamma (1-s)‖ ≤ M := by
+    calc
+      _ ≤ ‖Complex.Gamma (1-s+(n:ℂ))‖ := gamma_norm_le_add_nat (by simpa using ht) n
+      _ ≤ Real.Gamma (1-s+(n:ℂ)).re := gamma_norm_le_real hz
+      _ ≤ M := hbound _ (by
+        simp only [mem_Icc,Complex.add_re,Complex.sub_re,Complex.one_re,Complex.natCast_re]
+        constructor <;> linarith [hs.1,hs.2])
+  have hsin : ‖Complex.sin (Real.pi*s)‖ ≤ Real.exp (Real.pi*|s.im|) := by
+    simpa only [Complex.mul_im,Complex.ofReal_re,Complex.ofReal_im,zero_mul,add_zero,
+      abs_mul,abs_of_pos Real.pi_pos] using complex_sin_norm_le_exp_im (Real.pi*s)
+  rw [gamma_inverse_reflection ht,norm_div,norm_mul,Complex.norm_real,
+    Real.norm_eq_abs,abs_of_pos Real.pi_pos]
+  exact (div_le_div_of_nonneg_right (mul_le_mul hΓ hsin (_root_.norm_nonneg _) hM.le)
+    Real.pi_pos.le).trans_eq (by ring)
+
+/-- The exact reciprocal-Gamma strip input is an elementary theorem. -/
+theorem gammaInverseFiniteOrder (a b : ℝ) : GammaInverseFiniteOrder a b := by
+  obtain ⟨D,hD,hlarge⟩ := gamma_inverse_large_height_bound a b
+  let F : ℝ × ℝ → ℂ := fun p => (Complex.Gamma ((p.1:ℂ)+(p.2:ℂ)*Complex.I))⁻¹
+  have hF : Continuous F := by
+    simpa only [F,one_div,Function.comp_def] using Complex.differentiable_one_div_Gamma.continuous.comp
+      (show Continuous (fun p : ℝ × ℝ => (p.1:ℂ)+(p.2:ℂ)*Complex.I) by fun_prop)
+  obtain ⟨C,hC⟩ := (isCompact_Icc.prod isCompact_Icc).exists_bound_of_continuousOn
+    (s := (Icc a b) ×ˢ (Icc (-1:ℝ) 1)) hF.continuousOn
+  let E := max (max C 1) D
+  have hE1 : 1 ≤ E := (le_max_right C 1).trans (le_max_left _ _)
+  have hE : 0 < E := zero_lt_one.trans_le hE1
+  have hlog : 0 ≤ Real.log E := Real.log_nonneg hE1
+  refine ⟨Real.log E+Real.pi,add_nonneg hlog Real.pi_pos.le,?_⟩
+  intro s hs
+  have hb : ‖(Complex.Gamma s)⁻¹‖ ≤ E*Real.exp (Real.pi*|s.im|) := by
+    by_cases ht : |s.im| ≤ 1
+    · have hc := hC (s.re,s.im) ⟨hs,abs_le.mp ht⟩
+      have hc' : ‖(Complex.Gamma s)⁻¹‖ ≤ C := by
+        simpa only [F,Complex.re_add_im] using hc
+      exact (hc'.trans ((le_max_left C 1).trans (le_max_left _ _))).trans
+        (le_mul_of_one_le_right hE.le (Real.one_le_exp (mul_nonneg Real.pi_pos.le (abs_nonneg _))))
+    · exact (hlarge s hs (le_of_not_ge ht)).trans
+        (mul_le_mul_of_nonneg_right (le_max_right _ _) (Real.exp_pos _).le)
+  have hquad1 : 1 ≤ (1+|s.im|)^2 := by nlinarith [abs_nonneg s.im,sq_nonneg |s.im|]
+  have hquad2 : |s.im| ≤ (1+|s.im|)^2 := by nlinarith [abs_nonneg s.im,sq_nonneg |s.im|]
+  calc
+    _ ≤ E*Real.exp (Real.pi*|s.im|) := hb
+    _ = Real.exp (Real.log E+Real.pi*|s.im|) := by rw [Real.exp_add,Real.exp_log hE]
+    _ ≤ Real.exp ((Real.log E+Real.pi)*(1+|s.im|)^2) := by
+      apply Real.exp_le_exp.mpr
+      calc
+        _ ≤ Real.log E*(1+|s.im|)^2+Real.pi*(1+|s.im|)^2 :=
+          add_le_add (by simpa using mul_le_mul_of_nonneg_left hquad1 hlog)
+            (mul_le_mul_of_nonneg_left hquad2 Real.pi_pos.le)
+        _ = _ := by ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_GammaQuotientGrowth
+attribute [-instance] _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The bounded-strip Gamma quotient follows from the Beta integral and
+integer recurrence, with the fixed angular shift retained. -/
+noncomputable section
+open Set
+namespace CubicFirstMoment
+
+private lemma pochhammer_norm_bound (n : ℕ) (z : ℂ) :
+    ‖(ascPochhammer ℂ n).eval z‖ ≤ (‖z‖+(n:ℝ))^n := by
+  induction n with
+  | zero => simp
+  | succ n ih =>
+    rw [ascPochhammer_succ_eval,norm_mul]
+    have hn : ‖z+(n:ℂ)‖ ≤ ‖z‖+(n:ℝ) := by simpa using norm_add_le z (n:ℂ)
+    calc
+      _ ≤ (‖z‖+(n:ℝ))^n*(‖z‖+(n:ℝ)) :=
+        mul_le_mul ih hn (_root_.norm_nonneg _) (by positivity)
+      _ = (‖z‖+(n:ℝ))^(n+1) := (pow_succ _ _).symm
+      _ ≤ (‖z‖+((n+1:ℕ):ℝ))^(n+1) := by
+        apply pow_le_pow_left₀ (by positivity)
+        push_cast
+        linarith
+
+private lemma gamma_positive_ratio_compact {a k : ℝ} (hk : -(1/2:ℝ) < k)
+    (n : ℕ) (hn : 1-2*a < (n:ℝ)) :
+    ∃ M : ℝ, 0 < M ∧ ∀ σ ∈ Icc a (1/2:ℝ),
+      Real.Gamma (1-σ+k)/Real.Gamma (σ+k+n) ≤ M := by
+  let F : ℝ → ℂ := fun σ => Complex.Gamma ((1-σ+k:ℝ):ℂ)/
+    Complex.Gamma ((σ+k+n:ℝ):ℂ)
+  have hx {σ : ℝ} (hσ : σ ∈ Icc a (1/2:ℝ)) : 0 < 1-σ+k := by linarith [hσ.2]
+  have hy {σ : ℝ} (hσ : σ ∈ Icc a (1/2:ℝ)) : 0 < σ+k+n := by linarith [hσ.1,hσ.2]
+  have hc : ContinuousOn F (Icc a (1/2:ℝ)) := by
+    intro σ hσ
+    have hreg {x : ℝ} (hp : 0 < x) : ∀ m : ℕ, (x:ℂ) ≠ -(m:ℂ) := by
+      intro m hm
+      have hr := congrArg Complex.re hm
+      simp only [Complex.ofReal_re,Complex.neg_re,Complex.natCast_re] at hr
+      have : (0:ℝ) ≤ m := by positivity
+      linarith
+    apply ContinuousAt.continuousWithinAt
+    have ht : ContinuousAt (fun τ : ℝ => Complex.Gamma ((1-τ+k:ℝ):ℂ)) σ :=
+      (Complex.continuousAt_Gamma _ (hreg (hx hσ))).comp
+        (f := fun τ : ℝ => ((1-τ+k:ℝ):ℂ)) (by fun_prop)
+    have hb : ContinuousAt (fun τ : ℝ => Complex.Gamma ((τ+k+n:ℝ):ℂ)) σ :=
+      (Complex.continuousAt_Gamma _ (hreg (hy hσ))).comp
+        (f := fun τ : ℝ => ((τ+k+n:ℝ):ℂ)) (by fun_prop)
+    exact ht.div hb
+      (Complex.Gamma_ne_zero_of_re_pos (s := ((σ+k+n:ℝ):ℂ)) (by simpa using hy hσ))
+  obtain ⟨M,hM⟩ := isCompact_Icc.exists_bound_of_continuousOn hc
+  refine ⟨max M 1,lt_of_lt_of_le zero_lt_one (le_max_right _ _),?_⟩
+  intro σ hσ
+  have he : ‖F σ‖ = Real.Gamma (1-σ+k)/Real.Gamma (σ+k+n) := by
+    dsimp [F]
+    rw [norm_div,Complex.Gamma_ofReal,Complex.Gamma_ofReal,Complex.norm_real,
+      Complex.norm_real,Real.norm_eq_abs,Real.norm_eq_abs,
+      abs_of_pos (Real.Gamma_pos_of_pos (hx hσ)),abs_of_pos (Real.Gamma_pos_of_pos (hy hσ))]
+  rw [← he]
+  exact (hM σ hσ).trans (le_max_left _ _)
+
+/-- The exact fixed-angular quotient input used by the conditional proof. -/
+theorem angularGammaQuotientStripBound_proved (k a : ℝ) (hk : -(1/2:ℝ) < k) :
+    AngularGammaQuotientStripBound k a := by
+  obtain ⟨n,hn⟩ := exists_nat_gt (1-2*a)
+  obtain ⟨M,hM,hbound⟩ := gamma_positive_ratio_compact hk n hn
+  let D := |a+k|+|(1/2:ℝ)+k|+(n:ℝ)+1
+  have hD : 0 < D := by dsimp [D]; positivity
+  refine ⟨M*D^n,n,mul_nonneg hM.le (pow_nonneg hD.le _),?_⟩
+  intro σ hσ t
+  have hx : 0 < 1-σ+k := by linarith [hσ.2]
+  have hgap : 0 < (σ+k)+(n:ℝ)-(1-σ+k) := by linarith [hσ.1]
+  have hb := gamma_shift_ratio_bound (1-σ+k) (σ+k) t n hx hgap
+  have hnum : 1-((σ:ℂ)+(t:ℂ)*Complex.I)+(k:ℂ) =
+      starRingEnd ℂ (((1-σ+k:ℝ):ℂ)+(t:ℂ)*Complex.I) := by
+    apply Complex.ext <;> simp
+  have hden : (σ:ℂ)+(t:ℂ)*Complex.I+(k:ℂ) =
+      ((σ+k:ℝ):ℂ)+(t:ℂ)*Complex.I := by push_cast; ring
+  have ha : |σ+k| ≤ |a+k|+|(1/2:ℝ)+k| := by
+    apply abs_le.mpr
+    constructor
+    · linarith [neg_abs_le (a+k),abs_nonneg ((1/2:ℝ)+k),hσ.1]
+    · linarith [le_abs_self ((1/2:ℝ)+k),abs_nonneg (a+k),hσ.2]
+  have hz : ‖((σ+k:ℝ):ℂ)+(t:ℂ)*Complex.I‖ ≤ |σ+k|+|t| := by
+    simpa only [Complex.norm_real,Real.norm_eq_abs,norm_mul,Complex.norm_I,mul_one]
+      using norm_add_le (((σ+k:ℝ):ℂ)) ((t:ℂ)*Complex.I)
+  have hpoly : ‖(ascPochhammer ℂ n).eval (((σ+k:ℝ):ℂ)+(t:ℂ)*Complex.I)‖ ≤
+      D^n*(1+|t|)^n := by
+    apply (pochhammer_norm_bound _ _).trans
+    rw [← mul_pow]
+    apply pow_le_pow_left₀ (by positivity)
+    have hD1 : 1 ≤ D := by
+      dsimp [D]
+      linarith [abs_nonneg (a+k),abs_nonneg ((1/2:ℝ)+k),show (0:ℝ) ≤ n by positivity]
+    dsimp [D] at *
+    nlinarith [abs_nonneg t,abs_nonneg (a+k),abs_nonneg ((1/2:ℝ)+k),
+      show (0:ℝ) ≤ n by positivity]
+  unfold angularGammaFEQuotient
+  rw [hnum,hden,Complex.Gamma_conj,norm_div,Complex.norm_conj]
+  rw [norm_div] at hb
+  apply hb.trans
+  calc
+    _ ≤ M*(D^n*(1+|t|)^n) :=
+      mul_le_mul (hbound σ hσ) hpoly (_root_.norm_nonneg _) hM.le
+    _ = _ := by ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_ThetaMellinCubicPoles
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The cubic theta Mellin split with its two possible constant terms. -/
+noncomputable section
+open Set MeasureTheory
+namespace CubicFirstMoment
+
+lemma theta_mellin_split_cubic_poles {f g : ℝ → ℂ} {a b : ℂ}
+    (hFE : ∀ t : ℝ, 0<t → f t=g t⁻¹+a*(t:ℂ)^(-(2/3:ℂ))+b*(t:ℂ)^(2/3:ℂ))
+    {s : ℂ} (hs : 2/3 < s.re)
+    (hf : MellinConvergent (thetaUpper f) s)
+    (hg : MellinConvergent (thetaUpper g) (-s)) :
+    MellinConvergent f s ∧ mellin f s=
+      mellin (thetaUpper f) s+mellin (thetaUpper g) (-s)+a/(s-2/3)+b/(s+2/3) := by
+  have hI : MellinConvergent (fun t => thetaUpper g t⁻¹) s := by
+    have he : s/(-1:ℝ)= -s := by push_cast; ring
+    rw [←he] at hg
+    simpa only [Real.rpow_neg_one] using
+      (MellinConvergent.comp_rpow (by norm_num : (-1:ℝ)≠0)).mpr hg
+  have hm := hasMellin_cpow_Ioc (-(2/3:ℂ)) (s:=s) (by norm_num; linarith)
+  have hp := hasMellin_cpow_Ioc (2/3:ℂ) (s:=s) (by norm_num; linarith)
+  have hA := hasMellin_const_smul hm.1 a
+  have hB := hasMellin_const_smul hp.1 b
+  have hS := hasMellin_add (hasMellin_add (hasMellin_add hf hI).1 hA.1).1 hB.1
+  simp only [smul_eq_mul] at hA hB hS
+  have hid : f =ᵐ[volume.restrict (Ioi 0)] fun t =>
+      thetaUpper f t+thetaUpper g t⁻¹+
+        a*(Ioc (0:ℝ) 1).indicator (fun t : ℝ => (t:ℂ)^(-(2/3:ℂ))) t+
+        b*(Ioc (0:ℝ) 1).indicator (fun t : ℝ => (t:ℂ)^(2/3:ℂ)) t := by
+    filter_upwards [ae_restrict_mem measurableSet_Ioi,
+      (volume.restrict (Ioi 0)).ae_ne 1] with t ht ht1
+    change 0<t at ht
+    rcases lt_or_gt_of_ne ht1 with hlt | hgt
+    · have hinv : 1<t⁻¹ := (one_lt_inv₀ ht).mpr hlt
+      simp only [thetaUpper,indicator_of_notMem (show t∉Ioi (1:ℝ) from not_lt.mpr hlt.le),
+        indicator_of_mem (show t⁻¹∈Ioi (1:ℝ) from hinv),zero_add,
+        indicator_of_mem (show t∈Ioc (0:ℝ) 1 from ⟨ht,hlt.le⟩)]
+      exact hFE t ht
+    · have hinv : t⁻¹<1 := (inv_lt_one₀ ht).mpr hgt
+      simp only [thetaUpper,indicator_of_mem (show t∈Ioi (1:ℝ) from hgt),
+        indicator_of_notMem (show t⁻¹∉Ioi (1:ℝ) from not_lt.mpr hinv.le),
+        indicator_of_notMem (show t∉Ioc (0:ℝ) 1 from fun h => not_le_of_gt hgt h.2),
+        mul_zero,add_zero]
+  constructor
+  · apply hS.1.congr
+    filter_upwards [hid] with t ht
+    rw [ht]
+  · calc
+      mellin f s = mellin (fun t => thetaUpper f t+thetaUpper g t⁻¹+
+        a*(Ioc (0:ℝ) 1).indicator (fun t : ℝ => (t:ℂ)^(-(2/3:ℂ))) t+
+        b*(Ioc (0:ℝ) 1).indicator (fun t : ℝ => (t:ℂ)^(2/3:ℂ)) t) s := by
+          apply integral_congr_ae
+          filter_upwards [hid] with t ht
+          rw [ht]
+      _ = _ := by
+        rw [hS.2,(hasMellin_add (hasMellin_add hf hI).1 hA.1).2,
+          (hasMellin_add hf hI).2,hA.2,hB.2,hm.2,hp.2,mellin_comp_inv]
+        simp only [div_eq_mul_inv,sub_eq_add_neg,one_mul]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Estimates_ThetaUpperVerticalBound
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Uniform vertical bounds for upper Mellin integrals from one real moment. -/
+noncomputable section
+open Set MeasureTheory
+namespace CubicFirstMoment
+
+lemma thetaUpperNormMass_nonneg (f : ℝ→ℂ) (b : ℝ) : 0≤thetaUpperNormMass f b :=
+  integral_nonneg (fun _ => _root_.norm_nonneg _)
+
+theorem thetaUpper_vertical_bound {f : ℝ→ℂ} {b : ℝ}
+    (hf : MellinConvergent (thetaUpper f) (b:ℂ)) {s : ℂ} (hs : s.re≤b) :
+    ‖mellin (thetaUpper f) s‖≤thetaUpperNormMass f b := by
+  unfold mellin thetaUpperNormMass
+  apply norm_integral_le_of_norm_le hf.norm
+  filter_upwards [ae_restrict_mem measurableSet_Ioi] with t ht
+  change 0<t at ht
+  by_cases ht1 : 1<t
+  · rw [norm_smul,norm_smul,Complex.norm_cpow_eq_rpow_re_of_pos ht,
+      Complex.norm_cpow_eq_rpow_re_of_pos ht]
+    simp only [Complex.sub_re,Complex.one_re,Complex.ofReal_re]
+    exact mul_le_mul_of_nonneg_right
+      (Real.rpow_le_rpow_of_exponent_le ht1.le (sub_le_sub_right hs 1)) (_root_.norm_nonneg _)
+  · simp only [thetaUpper,indicator_of_notMem (show t∉Ioi (1:ℝ) from ht1),smul_zero,norm_zero,le_refl]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaEven
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The evenness of the cubic theta coefficients, derived directly from
+all cases of the arithmetic formula, and the resulting horizontal symmetry. -/
+noncomputable section
+attribute [local instance] Classical.propDecidable
+namespace CubicFirstMoment
+
+lemma cubicThetaArithmetic_term_reflection (z : ℂ) (v : ℝ) (n : Eisenstein) :
+    cubicThetaSeriesTerm cubicThetaArithmeticCoefficient z v (-n) =
+      cubicThetaSeriesTerm cubicThetaArithmeticCoefficient (-z) v n := by
+  by_cases hn : n = 0
+  · simp [cubicThetaSeriesTerm,hn]
+  · have hneg : -n ≠ 0 := neg_ne_zero.mpr hn
+    simp only [cubicThetaSeriesTerm,hn,hneg,ite_false, if_false,cubicThetaArithmeticCoefficient_even]
+    have hf : cubicThetaFrequency (-n) = -cubicThetaFrequency n := by
+      simp only [cubicThetaFrequency,Subalgebra.coe_neg,neg_div]
+    have hpair : tracePair (-cubicThetaFrequency n) z = tracePair (cubicThetaFrequency n) (-z) := by
+      unfold tracePair
+      rw [neg_mul,mul_neg]
+    rw [hf,norm_neg,hpair]
+
+/-- The series, as well as its arithmetic coefficients, is even. -/
+theorem cubicThetaArithmetic_even (z : ℂ) (v : ℝ) :
+    cubicThetaNonconstant cubicThetaArithmeticCoefficient (-z,v) =
+      cubicThetaNonconstant cubicThetaArithmeticCoefficient (z,v) := by
+  unfold cubicThetaNonconstant
+  rw [←(Equiv.neg Eisenstein).tsum_eq (fun n =>
+    cubicThetaSeriesTerm cubicThetaArithmeticCoefficient z v n)]
+  apply tsum_congr
+  intro n
+  exact (cubicThetaArithmetic_term_reflection z v n).symm
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaPrimaryCoefficients
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The exact primary cube coefficients isolated in DR v3 (5.17).
+This connects the constructed theta expansion to the completed Gauss sum. -/
+noncomputable section
+namespace CubicFirstMoment
+
+/-- Conjugating the primary coefficient gives the original Gauss sum,
+with the exact real normalization retained. -/
+lemma cubicThetaArithmeticCoefficient_primary_conj {c d : Eisenstein}
+    (hc : primary c) (hd : primary d) (hs : Squarefree c) :
+    star (cubicThetaArithmeticCoefficient (lambdaE*c*d^3)) =
+      ((81/(Real.sqrt (norm c)*norm d):ℝ):ℂ)*gauss c := by
+  rw [cubicThetaArithmeticCoefficient_primary hc hd hs,star_mul,star_star]
+  simp only [Complex.star_def,Complex.conj_ofReal]
+  ring
+
+lemma cubicThetaFrequency_primary_norm (c d : Eisenstein) :
+    ‖cubicThetaFrequency (lambdaE*c*d^3)‖ =
+      Real.sqrt 3*Real.sqrt (norm c)*(Real.sqrt (norm d))^3/9 := by
+  have hcN := norm_nonneg c
+  have hdN := norm_nonneg d
+  apply (sq_eq_sq₀ (_root_.norm_nonneg _) (by positivity)).mp
+  rw [cubicThetaFrequency_sq]
+  have he : norm (lambdaE*c*d^3) = 3*norm c*norm d^3 := by
+    change Complex.normSq (((lambdaE*c*d^3:Eisenstein):ℂ)) = _
+    simp only [Subalgebra.coe_mul,Subalgebra.coe_pow,Complex.normSq_mul,
+      map_pow,lambdaE_coe,traceLambda_normSq]
+    rfl
+  rw [he]
+  calc
+    _ = (Real.sqrt 3)^2*(Real.sqrt (norm c))^2*
+        ((Real.sqrt (norm d))^2)^3/81 := by
+      rw [Real.sq_sqrt (by norm_num : (0:ℝ) ≤ 3),Real.sq_sqrt hcN,Real.sq_sqrt hdN]
+    _ = _ := by ring
+
+/-- DR v3 (5.17), with the unnormalized theta coefficient restored. -/
+theorem cubicThetaTau_primary_conj {c d : Eisenstein}
+    (hc : primary c) (hd : primary d) (hs : Squarefree c) :
+    star (cubicThetaTau (lambdaE*c*d^3)) =
+      ((3^(5/2:ℝ)*Real.sqrt (norm d):ℝ):ℂ)*gauss c := by
+  have hcN : 0 < Real.sqrt (norm c) := Real.sqrt_pos.mpr (norm_pos_of_ne_zero (primary_ne_zero hc))
+  have hdN : 0 < norm d := norm_pos_of_ne_zero (primary_ne_zero hd)
+  have hp : (3:ℝ)^(5/2:ℝ) = 9*Real.sqrt 3 := by
+    rw [show (5/2:ℝ) = 2+1/2 by norm_num,Real.rpow_add (by norm_num : (0:ℝ) < 3),
+      Real.rpow_two,←Real.sqrt_eq_rpow]
+    norm_num
+  have ha : ‖cubicThetaFrequency (lambdaE*c*d^3)‖*
+      (81/(Real.sqrt (norm c)*norm d)) = 3^(5/2:ℝ)*Real.sqrt (norm d) := by
+    rw [cubicThetaFrequency_primary_norm c d,hp]
+    field_simp
+    have hdS := Real.sq_sqrt hdN.le
+    nlinarith [sq_nonneg (Real.sqrt (norm d))]
+  rw [cubicThetaTau,star_mul,cubicThetaArithmeticCoefficient_primary_conj hc hd hs]
+  simp only [Complex.star_def,Complex.conj_ofReal]
+  calc
+    _ = ((‖cubicThetaFrequency (lambdaE*c*d^3)‖*
+        (81/(Real.sqrt (norm c)*norm d)):ℝ):ℂ)*gauss c := by push_cast; ring
+    _ = _ := by rw [ha]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaSievePhase
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The additive character that detects the primary cubic theta support.
+It is computed from the actual lambda^-4 frequency lattice. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaSievePhase_add (m n : Eisenstein) :
+    cubicThetaSievePhase (m+n) = cubicThetaSievePhase m*cubicThetaSievePhase n := by
+  have he : tracePair (cubicThetaFrequency (m+n)) omega =
+      tracePair (cubicThetaFrequency m) omega+tracePair (cubicThetaFrequency n) omega := by
+    simp only [tracePair,cubicThetaFrequency,Subalgebra.coe_add,add_div,add_mul,Complex.add_re]
+    ring
+  simp only [cubicThetaSievePhase,he,AddChar.map_add_eq_mul,Circle.coe_mul]
+
+lemma cubicThetaSievePhase_neg (n : Eisenstein) :
+    cubicThetaSievePhase (-n) = star (cubicThetaSievePhase n) := by
+  have he : tracePair (cubicThetaFrequency (-n)) omega =
+      -tracePair (cubicThetaFrequency n) omega := by
+    simp only [tracePair,cubicThetaFrequency,Subalgebra.coe_neg,neg_div,neg_mul,Complex.neg_re]
+    ring
+  simp only [cubicThetaSievePhase,he,AddChar.map_neg_eq_inv,Circle.coe_inv_eq_conj,Complex.star_def]
+
+lemma cubicThetaSievePhase_ramified (n : Eisenstein) :
+    cubicThetaSievePhase (lambdaE^3*n) = 1 := by
+  have he : tracePair (cubicThetaFrequency (lambdaE^3*n)) omega =
+      tracePair ((n*omegaE:Eisenstein):ℂ) (1/traceLambda) := by
+    unfold tracePair cubicThetaFrequency
+    congr 2
+    push_cast
+    rw [lambdaE_coe]
+    field_simp
+    rfl
+  unfold cubicThetaSievePhase
+  rw [he,tracePhase_div_lambda_one]
+
+lemma cubicThetaSievePhase_lambda : cubicThetaSievePhase lambdaE = omega^2 := by
+  have h4 : traceLambda^4 = 9 := by
+    have h2 : traceLambda^2 = -3 := by
+      have h := congrArg (fun x : Eisenstein => (x:ℂ)) lambdaE_sq
+      push_cast at h
+      exact h
+    calc
+      _ = (traceLambda^2)^2 := by ring
+      _ = 9 := by rw [h2]; norm_num
+  have ht : tracePair (cubicThetaFrequency lambdaE) omega = -(1/3:ℝ) := by
+    unfold tracePair cubicThetaFrequency
+    rw [lambdaE_coe,h4,traceLambda_eq]
+    norm_num [Complex.mul_re,Complex.mul_im,Complex.div_ofNat_re,Complex.div_ofNat_im,
+      omega_re,omega_im]
+    nlinarith [Real.sq_sqrt (by norm_num : (0:ℝ) ≤ 3)]
+  have hw : (Real.fourierChar (1/3:ℝ):ℂ) = omega := by
+    rw [Real.fourierChar_apply]
+    unfold omega
+    congr 1
+    push_cast
+    ring
+  simp only [cubicThetaSievePhase,ht,AddChar.map_neg_eq_inv,Circle.coe_inv_eq_conj,hw]
+  exact star_omega
+
+lemma cubicThetaSievePhase_primary {a : Eisenstein} (ha : primary a) :
+    cubicThetaSievePhase (lambdaE*a) = omega^2 := by
+  obtain ⟨k,hk⟩ := ha
+  have hn : lambdaE*a = lambdaE+lambdaE^3*(-k) := by
+    linear_combination lambdaE*hk + k*lambdaE*lambdaE_sq
+  rw [hn,cubicThetaSievePhase_add,cubicThetaSievePhase_ramified,mul_one,
+    cubicThetaSievePhase_lambda]
+
+lemma cubicThetaSievePhase_negative_primary {a : Eisenstein} (ha : primary a) :
+    cubicThetaSievePhase (-(lambdaE*a)) = omega := by
+  rw [cubicThetaSievePhase_neg,cubicThetaSievePhase_primary ha,star_pow,star_omega]
+  calc
+    _ = omega^3*omega := by ring
+    _ = omega := by rw [omega_cube,one_mul]
+
+/-- Every supported coefficient of ramified order at least three has the
+trivial detector phase. -/
+lemma cubicThetaSievePhase_high {n : Eisenstein} (R : CubicThetaCoordinates n)
+    (hk : 3 ≤ R.order) : cubicThetaSievePhase n = 1 := by
+  have hn : n = lambdaE^3*((R.unit:Eisenstein)*lambdaE^(R.order-3)*
+      (R.squarefreePart*R.cubePart^3)) := by
+    calc
+      n = (R.unit:Eisenstein)*lambdaE^R.order*(R.squarefreePart*R.cubePart^3) := R.numerator_eq
+      _ = _ := by
+        have he : R.order = 3+(R.order-3) := by omega
+        conv_lhs => rw [he,pow_add]
+        ring
+  rw [hn,cubicThetaSievePhase_ramified]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaSieveSupport
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The exact primary coefficient selector of DR v3 (5.17)--(5.18). -/
+noncomputable section
+attribute [local instance] Classical.propDecidable
+namespace CubicFirstMoment
+
+lemma cubicThetaPrimarySupport_coordinates {n : Eisenstein} (R : CubicThetaCoordinates n) :
+    cubicThetaPrimarySupport n ↔ R.order = 1 ∧ (R.unit:Eisenstein) = 1 := by
+  constructor
+  · rintro ⟨S,hS⟩
+    cases S.unique R
+    exact hS
+  · exact fun h => ⟨R,h⟩
+
+lemma cubicThetaRootProjector_one : cubicThetaRootProjector 1 = 0 := by
+  unfold cubicThetaRootProjector
+  linear_combination (1/3:ℂ)*omega_quadratic
+
+lemma cubicThetaRootProjector_omega : cubicThetaRootProjector omega = 0 := by
+  unfold cubicThetaRootProjector
+  have h4 : omega^4 = omega := by
+    calc
+      _ = omega^3*omega := by ring
+      _ = _ := by rw [omega_cube,one_mul]
+  have he : omega^2*omega^2 = omega^4 := by ring
+  rw [he,h4]
+  linear_combination (1/3:ℂ)*omega_quadratic
+
+lemma cubicThetaRootProjector_omega_sq : cubicThetaRootProjector (omega^2) = 1 := by
+  unfold cubicThetaRootProjector
+  have h3 : omega*(omega^2) = 1 := by rw [←pow_succ',omega_cube]
+  have h6 : omega^2*(omega^2)^2 = 1 := by
+    calc
+      _ = (omega^3)^2 := by ring
+      _ = _ := by rw [omega_cube]; norm_num
+  rw [h3,h6]
+  norm_num
+
+lemma CubicThetaCoordinates.primary_product {n : Eisenstein} (R : CubicThetaCoordinates n) :
+    primary (R.squarefreePart*R.cubePart^3) := by
+  have hp : primary (R.cubePart^3) := by
+    simpa only [pow_succ,pow_zero,one_mul,mul_assoc] using
+      primary_mul R.cube_primary (primary_mul R.cube_primary R.cube_primary)
+  exact primary_mul R.squarefree_primary hp
+
+lemma cubicThetaRootProjector_coefficient {n : Eisenstein} (R : CubicThetaCoordinates n) :
+    cubicThetaRootProjector (cubicThetaSievePhase n)*star R.coefficient =
+      if cubicThetaPrimarySupport n then star R.coefficient else 0 := by
+  rw [cubicThetaPrimarySupport_coordinates R]
+  by_cases hA : R.order % 3 = 0 ∧ 3 ≤ R.order
+  · have hn : ¬(R.order = 1 ∧ (R.unit:Eisenstein) = 1) := by omega
+    rw [ite_eq_right hn,cubicThetaSievePhase_high R hA.2,cubicThetaRootProjector_one,zero_mul]
+  · by_cases hB : R.order % 3 = 1 ∧ ((R.unit:Eisenstein) = 1 ∨ (R.unit:Eisenstein) = -1)
+    · by_cases hk : R.order = 1
+      · rcases hB.2 with hu | hu
+        · have hn : n = lambdaE*(R.squarefreePart*R.cubePart^3) := by
+            calc
+              n = (R.unit:Eisenstein)*lambdaE^R.order*(R.squarefreePart*R.cubePart^3) := R.numerator_eq
+              _ = _ := by rw [hk,hu,pow_one,one_mul]
+          have hp : cubicThetaSievePhase n = omega^2 := by
+            rw [hn]
+            exact cubicThetaSievePhase_primary R.primary_product
+          rw [ite_eq_left ⟨hk,hu⟩,hp,cubicThetaRootProjector_omega_sq,one_mul]
+        · have hu' : (R.unit:Eisenstein) ≠ 1 := by
+            intro he
+            have hc : (1:Eisenstein) ≠ -1 := by norm_num
+            exact hc (he.symm.trans hu)
+          have hn : n = -(lambdaE*(R.squarefreePart*R.cubePart^3)) := by
+            calc
+              n = (R.unit:Eisenstein)*lambdaE^R.order*(R.squarefreePart*R.cubePart^3) := R.numerator_eq
+              _ = _ := by rw [hk,hu,pow_one]; ring
+          have hp : cubicThetaSievePhase n = omega := by
+            rw [hn]
+            exact cubicThetaSievePhase_negative_primary R.primary_product
+          rw [ite_eq_right (by simp [hu']),hp,cubicThetaRootProjector_omega,zero_mul]
+      · have hh : 3 ≤ R.order := by omega
+        rw [ite_eq_right (by simp [hk]),cubicThetaSievePhase_high R hh,
+          cubicThetaRootProjector_one,zero_mul]
+    · have he : R.coefficient = 0 := by
+        simp only [CubicThetaCoordinates.coefficient,ite_eq_right hA,ite_eq_right hB]
+      rw [he,star_zero,mul_zero]
+      split_ifs <;> rfl
+
+/-- Multiplying the actual conjugate theta coefficient by the finite
+third-root projector cuts it down to precisely the source set S. -/
+theorem cubicThetaRootProjector_arithmetic (n : Eisenstein) :
+    cubicThetaRootProjector (cubicThetaSievePhase n)*star (cubicThetaArithmeticCoefficient n) =
+      if cubicThetaPrimarySupport n then star (cubicThetaArithmeticCoefficient n) else 0 := by
+  by_cases h : Nonempty (CubicThetaCoordinates n)
+  · let R := Classical.choice h
+    rw [cubicThetaArithmeticCoefficient_formula R]
+    exact cubicThetaRootProjector_coefficient R
+  · have he : cubicThetaArithmeticCoefficient n = 0 := by
+      simp only [cubicThetaArithmeticCoefficient,dite_eq_right h]
+    rw [he,star_zero,mul_zero]
+    split_ifs <;> rfl
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaSieveProjection
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The primary cubic Gauss coefficients are the exact finite additive
+projection of the conjugate cubic theta expansion. No transformation under
+inversion is used in this arithmetic sieving step. -/
+noncomputable section
+attribute [local instance] Classical.propDecidable
+namespace CubicFirstMoment
+
+lemma cubicThetaConjugateCoefficient_norm (n : Eisenstein) :
+    ‖cubicThetaConjugateCoefficient n‖ ≤ 81 := by
+  simpa only [cubicThetaConjugateCoefficient,norm_star] using cubicThetaArithmeticCoefficient_norm_le n
+
+lemma cubicThetaSelectedCoefficient_norm (n : Eisenstein) :
+    ‖cubicThetaSelectedCoefficient n‖ ≤ 81 := by
+  unfold cubicThetaSelectedCoefficient
+  split_ifs
+  · exact cubicThetaConjugateCoefficient_norm n
+  · norm_num
+
+lemma cubicThetaSeriesTerm_translate (a : Eisenstein → ℂ) (n : Eisenstein) (z : ℂ) (v : ℝ) :
+    cubicThetaSeriesTerm a (z+omega) v n =
+      cubicThetaSievePhase n*cubicThetaSeriesTerm a z v n := by
+  by_cases hn : n = 0
+  · simp [cubicThetaSeriesTerm,hn]
+  · have he : tracePair (cubicThetaFrequency n) (z+omega) =
+        tracePair (cubicThetaFrequency n) z+tracePair (cubicThetaFrequency n) omega := by
+      simp only [tracePair,mul_add,Complex.add_re]
+    simp only [cubicThetaSeriesTerm,hn,ite_false, if_false,he,
+      AddChar.map_add_eq_mul,Circle.coe_mul,cubicThetaSievePhase]
+    ring
+
+lemma cubicThetaSeriesTerm_translate_twice (a : Eisenstein → ℂ) (n : Eisenstein) (z : ℂ) (v : ℝ) :
+    cubicThetaSeriesTerm a (z+2*omega) v n =
+      cubicThetaSievePhase n^2*cubicThetaSeriesTerm a z v n := by
+  rw [show z+2*omega = (z+omega)+omega by ring,
+    cubicThetaSeriesTerm_translate,cubicThetaSeriesTerm_translate]
+  ring
+
+lemma cubicThetaSelected_term (n : Eisenstein) (z : ℂ) (v : ℝ) :
+    cubicThetaSeriesTerm cubicThetaSelectedCoefficient z v n =
+      (cubicThetaSeriesTerm cubicThetaConjugateCoefficient z v n+
+        omega*cubicThetaSeriesTerm cubicThetaConjugateCoefficient (z+omega) v n+
+        omega^2*cubicThetaSeriesTerm cubicThetaConjugateCoefficient (z+2*omega) v n)/3 := by
+  rw [cubicThetaSeriesTerm_translate,cubicThetaSeriesTerm_translate_twice]
+  by_cases hn : n = 0
+  · simp [cubicThetaSeriesTerm,hn]
+  · have he : cubicThetaSelectedCoefficient n =
+        cubicThetaRootProjector (cubicThetaSievePhase n)*cubicThetaConjugateCoefficient n :=
+      (cubicThetaRootProjector_arithmetic n).symm
+    simp only [cubicThetaSeriesTerm,hn,ite_false, if_false,he,cubicThetaRootProjector]
+    ring
+
+/-- The exact finite translate formula for the series supported on S. -/
+theorem cubicThetaSelected_projection (z : ℂ) {v : ℝ} (hv : 0 < v) :
+    cubicThetaNonconstant cubicThetaSelectedCoefficient (z,v) =
+      (cubicThetaNonconstant cubicThetaConjugateCoefficient (z,v)+
+        omega*cubicThetaNonconstant cubicThetaConjugateCoefficient (z+omega,v)+
+        omega^2*cubicThetaNonconstant cubicThetaConjugateCoefficient (z+2*omega,v))/3 := by
+  have hs (w : ℂ) : Summable (cubicThetaSeriesTerm cubicThetaConjugateCoefficient w v) :=
+    cubicThetaSeries_summable (by norm_num : (0:ℝ) ≤ 81)
+      (fun n hn => (cubicThetaConjugateCoefficient_norm n).trans
+        (le_mul_of_one_le_right (by norm_num) (one_le_norm hn))) hv w
+  unfold cubicThetaNonconstant
+  calc
+    _ = ∑' n : Eisenstein,
+        (cubicThetaSeriesTerm cubicThetaConjugateCoefficient z v n+
+          omega*cubicThetaSeriesTerm cubicThetaConjugateCoefficient (z+omega) v n+
+          omega^2*cubicThetaSeriesTerm cubicThetaConjugateCoefficient (z+2*omega) v n)/3 :=
+      tsum_congr (fun n => cubicThetaSelected_term n z v)
+    _ = _ := by
+      rw [tsum_div_const,((hs z).add ((hs (z+omega)).mul_left omega)).tsum_add
+        ((hs (z+2*omega)).mul_left (omega^2)),
+        (hs z).tsum_add ((hs (z+omega)).mul_left omega),tsum_mul_left,tsum_mul_left]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaConjugateProjection
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The finite projection expressed in the original conjugate theta
+function, including cancellation of its constant term. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaWhittaker_star (v : ℝ) : star (cubicThetaWhittaker v) = cubicThetaWhittaker v := by
+  have he : cubicThetaWhittaker v = ((v/2*cubicBesselKernel ((2*Real.pi*v)^2):ℝ):ℂ) := by
+    simp only [cubicThetaWhittaker,Complex.ofReal_mul,Complex.ofReal_div,Complex.ofReal_ofNat]
+  rw [he]
+  exact Complex.conj_ofReal _
+
+lemma cubicThetaSeriesTerm_star_reflect (a : Eisenstein → ℂ) (n : Eisenstein) (z : ℂ) (v : ℝ) :
+    star (cubicThetaSeriesTerm a (-z) v n) =
+      cubicThetaSeriesTerm (fun n => star (a n)) z v n := by
+  by_cases hn : n = 0
+  · simp [cubicThetaSeriesTerm,hn]
+  · have he : tracePair (cubicThetaFrequency n) (-z) =
+        -tracePair (cubicThetaFrequency n) z := by
+      simp only [tracePair,mul_neg,Complex.neg_re,mul_neg]
+    simp only [cubicThetaSeriesTerm,hn,ite_false, if_false,star_mul,cubicThetaWhittaker_star,he,
+      AddChar.map_neg_eq_inv,Circle.coe_inv_eq_conj]
+    change _ = _
+    simp only [←Complex.star_def,star_star]
+    ring
+
+lemma cubicThetaNonconstant_star_reflect (a : Eisenstein → ℂ) (z : ℂ) (v : ℝ) :
+    star (cubicThetaNonconstant a (-z,v)) =
+      cubicThetaNonconstant (fun n => star (a n)) (z,v) := by
+  unfold cubicThetaNonconstant
+  rw [tsum_star]
+  exact tsum_congr (fun n => cubicThetaSeriesTerm_star_reflect a n z v)
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaInversionGeometry
+attribute [-instance] _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The geometric inversion in the cubic theta transformation, restricted
+only by positive height and nonzero level. No automorphy law is assumed. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaInversion_center (q : ℂ) {v : ℝ} (hv : 0 < v) :
+    cubicThetaInversion q (0,v) = (0,(Complex.normSq q*v)⁻¹) := by
+  apply Prod.ext
+  · simp [cubicThetaInversion]
+  · dsimp [cubicThetaInversion,cubicThetaRadius]
+    simp only [map_zero,zero_add]
+    by_cases hq : q = 0
+    · simp [hq]
+    · have hN : Complex.normSq q ≠ 0 := ne_of_gt (Complex.normSq_pos.mpr hq)
+      field_simp
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaBaseScalarNonzero
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The actual common nonconstant coefficient is nonzero. Otherwise
+global automorphy would force a pure height power to be invariant. -/
+noncomputable section
+open scoped MatrixGroups Matrix
+namespace CubicFirstMoment
+
+theorem cubicThetaArithmeticBaseScalar_ne_zero : cubicThetaArithmeticBaseScalar≠0 := by
+  intro hB
+  let p : CubicThetaPoint := ⟨(0,1),by norm_num⟩
+  let g₀ : SL(2,Eisenstein) := ⟨!![1,0;3,1],by simp [Matrix.det_fin_two]⟩
+  have hg : g₀∈cubicThetaPrincipalGroup :=
+    (cubicThetaPrincipalGroup_mem_iff g₀).mpr
+      ⟨primary_one,dvd_zero _,dvd_refl _,primary_one⟩
+  let g : cubicThetaPrincipalGroup := ⟨g₀,hg⟩
+  have hp : (g • p).val.2=(1/10:ℝ) := by
+    change (cubicThetaMobius (cubicThetaPrincipalComplex g) (0,1)).2=(1/10:ℝ)
+    norm_num [cubicThetaMobius,cubicThetaMobiusDenominator,
+      cubicThetaPrincipalComplex_apply,g,g₀]
+    change (1+Complex.normSq (3:ℂ))⁻¹=(1/10:ℝ)
+    norm_num [Complex.normSq_apply]
+  have hC : 0 < cubicThetaConstant := by unfold cubicThetaConstant; positivity
+  have hnorm (q : CubicThetaPoint) :
+      ‖cubicThetaArithmeticModel cubicThetaArithmeticBaseScalar q.val‖=
+        cubicThetaConstant*q.val.2^(2/3:ℝ) := by
+    rw [cubicThetaArithmeticModel,hB,zero_mul,add_zero,Complex.norm_real,
+      Real.norm_eq_abs,abs_of_pos (mul_pos hC (Real.rpow_pos_of_pos q.property _))]
+  have he := congrArg (fun z : ℂ => ‖z‖) (cubicThetaArithmeticModel_automorphy g p)
+  rw [norm_mul,cubicThetaKubotaValue_norm,one_mul,hnorm,hnorm,hp] at he
+  change cubicThetaConstant*(1/10:ℝ)^(2/3:ℝ)=cubicThetaConstant*1^(2/3:ℝ) at he
+  have hlt : (1/10:ℝ)^(2/3:ℝ)<1 := by
+    simpa using Real.rpow_lt_rpow (by norm_num : (0:ℝ)≤1/10)
+      (by norm_num : (1/10:ℝ)<1) (by norm_num : (0:ℝ)<2/3)
+  rw [Real.one_rpow] at he
+  have he' := (mul_left_cancel₀ hC.ne' he)
+  exact (ne_of_lt hlt) he'
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaNormalizedSeries
+attribute [-instance] _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Normalize the actual automorphic function by its nonzero Fourier
+coefficient. Its constant coefficient is retained explicitly. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaNormalizedSeriesSection_apply (p : CubicThetaPoint) :
+    cubicThetaNormalizedSeriesSection.val p=
+      cubicThetaSeriesConstant*((p.val.2^(2/3:ℝ):ℝ):ℂ)+
+        cubicThetaNonconstant cubicThetaArithmeticCoefficient p.val := by
+  change cubicThetaArithmeticBaseScalar⁻¹*
+    cubicThetaArithmeticModel cubicThetaArithmeticBaseScalar p.val=_
+  unfold cubicThetaArithmeticModel cubicThetaSeriesConstant
+  push_cast
+  field_simp [cubicThetaArithmeticBaseScalar_ne_zero]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaMellinWeights
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Absolute lattice and kernel masses for exchanging the theta sum with
+its Mellin integral on the initial right half-plane. -/
+noncomputable section
+open MeasureTheory Set
+namespace CubicFirstMoment
+
+lemma cubicWhittaker_norm_integral_scale (u c : ℂ) {r : ℝ} (hr : 0 < r) :
+    (∫ v in Ioi (0:ℝ), ‖(v:ℂ)^(u-1)*(c*cubicThetaWhittaker (r*v))‖) =
+      ‖c‖*r^(-u.re)*cubicWhittakerNormMass u.re := by
+  calc
+    _ = ‖c‖*(∫ v in Ioi (0:ℝ), v^(u.re-1)*‖cubicThetaWhittaker (r*v)‖) := by
+      rw [←integral_const_mul]
+      apply setIntegral_congr_fun measurableSet_Ioi
+      intro v hv
+      dsimp only
+      rw [norm_mul,norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos hv]
+      simp only [Complex.sub_re,Complex.one_re]
+      ring
+    _ = _ := by rw [cubicWhittaker_norm_mass_scale u.re hr]; unfold cubicWhittakerNormMass; ring
+
+/-- Bounded normalized coefficients give an absolutely convergent initial
+Dirichlet series for Re u > 2. -/
+lemma cubicTheta_mellin_weight_summable {a : Eisenstein → ℂ} {C σ : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, ‖a n‖ ≤ C) (hσ : 2 < σ) :
+    Summable (fun n : Eisenstein => if n = 0 then (0:ℝ) else
+      ‖a n‖*‖cubicThetaFrequency n‖^(-σ)) := by
+  have hs : Summable (fun n : Eisenstein =>
+      (C*81^(σ/2))*norm n^(-(σ/2))) :=
+    (summable_eisenstein_norm_rpow (by linarith : 1 < σ/2)).mul_left _
+  apply hs.of_nonneg_of_le
+  · intro n
+    split_ifs
+    · exact le_rfl
+    · exact mul_nonneg (_root_.norm_nonneg _) (Real.rpow_nonneg (_root_.norm_nonneg _) _)
+  · intro n
+    by_cases hn : n = 0
+    · rw [ite_eq_left hn]
+      exact mul_nonneg (mul_nonneg hC (by positivity)) (Real.rpow_nonneg (norm_nonneg _) _)
+    · rw [ite_eq_right hn,cubicThetaFrequency_rpow hn]
+      have he1 : -(-σ)/2 = σ/2 := by ring
+      have he2 : -σ/2 = -(σ/2) := by ring
+      rw [he1,he2]
+      calc
+        _ ≤ C*(81^(σ/2)*norm n^(-(σ/2))) :=
+          mul_le_mul_of_nonneg_right (ha n) (by positivity [norm_nonneg n])
+        _ = _ := by ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaAngularPowers
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Exact frequency powers in the fixed-angular theta Mellin transform. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaAngularCoefficient_norm {a : Eisenstein → ℂ} (ℓ : ℤ)
+    {n : Eisenstein} (hn : n ≠ 0) :
+    ‖cubicThetaAngularCoefficient a ℓ n‖ = ‖cubicThetaFrequency n‖^ℓ.natAbs*‖a n‖ := by
+  simp only [cubicThetaAngularCoefficient,norm_mul,norm_pow,Complex.norm_real,
+    Real.norm_eq_abs,abs_of_nonneg (_root_.norm_nonneg _),norm_theta hn,mul_one]
+
+lemma cubicThetaAngular_real_power {r : ℝ} (hr : 0 < r) (k : ℕ) (s : ℂ) :
+    r^k*r^(-(2*s+(k:ℂ)-1).re) = r^(-(2*s-1).re) := by
+  rw [←Real.rpow_natCast,←Real.rpow_add hr]
+  congr 1
+  simp only [Complex.add_re,Complex.sub_re,Complex.natCast_re]
+  ring
+
+lemma cubicThetaAngular_complex_power {r : ℝ} (hr : 0 < r) (k : ℕ) (s : ℂ) :
+    (r:ℂ)^k*(r:ℂ)^(-(2*s+(k:ℂ)-1)) = (r:ℂ)^(-(2*s-1)) := by
+  have hrC : (r:ℂ) ≠ 0 := by exact_mod_cast ne_of_gt hr
+  rw [←Complex.cpow_natCast,←Complex.cpow_add _ _ hrC]
+  congr 1
+  ring
+
+/-- The growing derivative factor exactly cancels the shifted Mellin
+exponent; the remaining coefficient mass is the original bounded one. -/
+lemma cubicThetaAngular_weight {a : Eisenstein → ℂ} (ℓ : ℤ)
+    {n : Eisenstein} (hn : n ≠ 0) (s : ℂ) :
+    ‖cubicThetaAngularCoefficient a ℓ n‖*
+      ‖cubicThetaFrequency n‖^(-(2*s+(ℓ.natAbs:ℂ)-1).re) =
+        ‖a n‖*‖cubicThetaFrequency n‖^(-(2*s-1).re) := by
+  rw [cubicThetaAngularCoefficient_norm ℓ hn]
+  calc
+    _ = ‖a n‖*(‖cubicThetaFrequency n‖^ℓ.natAbs*
+        ‖cubicThetaFrequency n‖^(-(2*s+(ℓ.natAbs:ℂ)-1).re)) := by ring
+    _ = _ := by rw [cubicThetaAngular_real_power (cubicThetaFrequency_pos hn)]
+
+lemma cubicThetaAngular_dirichlet_term {a : Eisenstein → ℂ} (ℓ : ℤ)
+    {n : Eisenstein} (hn : n ≠ 0) (s : ℂ) :
+    cubicThetaAngularCoefficient a ℓ n*
+      (‖cubicThetaFrequency n‖:ℂ)^(-(2*s+(ℓ.natAbs:ℂ)-1)) =
+        theta ℓ n*a n*(‖cubicThetaFrequency n‖:ℂ)^(-(2*s-1)) := by
+  unfold cubicThetaAngularCoefficient
+  calc
+    _ = (theta ℓ n*a n)*((‖cubicThetaFrequency n‖:ℂ)^ℓ.natAbs*
+        (‖cubicThetaFrequency n‖:ℂ)^(-(2*s+(ℓ.natAbs:ℂ)-1))) := by ring
+    _ = _ := by rw [cubicThetaAngular_complex_power (cubicThetaFrequency_pos hn)]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaShiftedLattice
+attribute [-instance] _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Put the translated-cusp coefficients on the common lambda^-4 lattice.
+The congruence restriction forces the apparent larger lattice to collapse. -/
+noncomputable section
+namespace CubicFirstMoment
+attribute [local instance] Classical.propDecidable
+
+lemma cubicThetaShiftedLatticeCoefficient_bound (n : ℤ) (k : Eisenstein) :
+    ‖cubicThetaShiftedLatticeCoefficient n k‖≤243 := by
+  unfold cubicThetaShiftedLatticeCoefficient
+  split_ifs
+  · rw [norm_mul,Complex.norm_ofNat]
+    calc
+      _ ≤ 3*81 := mul_le_mul_of_nonneg_left (cubicThetaArithmeticCoefficient_norm_le _) (by norm_num)
+      _ = _ := by norm_num
+  · norm_num
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaKubotaConjugation
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Invariance of the cubic multiplier under the two integral modular
+generators, as needed to extend it to the group of DR v3 Section 5.1. -/
+noncomputable section
+open scoped MatrixGroups Matrix
+namespace CubicFirstMoment
+
+lemma cubicThetaKubotaConjugate_S_entries (g : cubicThetaPrincipalGroup) :
+    (cubicThetaKubotaConjugate cubicThetaModularS g).val 0 0 = g.val 1 1 ∧
+      (cubicThetaKubotaConjugate cubicThetaModularS g).val 1 0 = -g.val 0 1 := by
+  change ((!![0,-1;1,0] * (g.val:Matrix (Fin 2) (Fin 2) Eisenstein)) *
+      Matrix.adjugate !![0,-1;1,0] : Matrix (Fin 2) (Fin 2) Eisenstein) 0 0 = g.val 1 1 ∧
+    ((!![0,-1;1,0] * (g.val:Matrix (Fin 2) (Fin 2) Eisenstein)) *
+      Matrix.adjugate !![0,-1;1,0] : Matrix (Fin 2) (Fin 2) Eisenstein) 1 0 = -g.val 0 1
+  constructor <;> simp [Matrix.adjugate_fin_two,Matrix.mul_apply,Matrix.vecMul,dotProduct,Fin.sum_univ_two]
+
+theorem cubicThetaKubotaValue_conjugate_S (g : cubicThetaPrincipalGroup) :
+    cubicThetaKubotaValue (cubicThetaKubotaConjugate cubicThetaModularS g) =
+      cubicThetaKubotaValue g := by
+  obtain ⟨ha,hc⟩ := cubicThetaKubotaConjugate_S_entries g
+  rw [cubicThetaKubotaValue_eq_symbol,ha,hc,
+    cubicSymbol_neg (cubicThetaPrincipalGroup_diagonal_primary g).2,
+    ←cubicThetaKubota_column_switch,cubicThetaKubotaValue_eq_symbol]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaCuspTypes
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The three translated inversion types needed for primary bottom rows.
+The actual constant is retained at the trivial type. -/
+noncomputable section
+open scoped MatrixGroups Matrix
+namespace CubicFirstMoment
+attribute [local instance] Classical.propDecidable
+
+lemma cubicThetaFullTranslation_add (a b : Eisenstein) :
+    cubicThetaFullTranslation (a+b)=cubicThetaFullTranslation a*cubicThetaFullTranslation b := by
+  apply Subtype.ext
+  change (!![1,a+b;0,1] : Matrix (Fin 2) (Fin 2) Eisenstein)=!![1,a;0,1]*!![1,b;0,1]
+  apply Matrix.ext
+  intro i j
+  fin_cases i <;> fin_cases j <;> simp [Matrix.mul_apply,Fin.sum_univ_two,add_comm]
+
+lemma cubicThetaShiftedInversion_factor (b : Eisenstein) :
+    cubicThetaShiftedInversion b=cubicThetaFullTranslation b*cubicThetaFullInversion := by
+  apply Subtype.ext
+  change (!![b,-1;1,0] : Matrix (Fin 2) (Fin 2) Eisenstein)=!![1,b;0,1]*!![0,-1;1,0]
+  apply Matrix.ext
+  intro i j
+  fin_cases i <;> fin_cases j <;> simp [Matrix.mul_apply,Fin.sum_univ_two,add_comm]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaActualCuspCoefficients
+attribute [-instance] _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Literal constant and nonconstant coefficients of the three actual
+cusp types, and their conjugates on the common frequency lattice. -/
+noncomputable section
+namespace CubicFirstMoment
+attribute [local instance] Classical.propDecidable
+
+lemma cubicThetaCuspExpansion_coefficients (n : ℤ) (p : ℂ×ℝ) :
+    cubicThetaCuspExpansion n p=cubicThetaActualCuspConstant n*((p.2^(2/3:ℝ):ℝ):ℂ)+
+      cubicThetaNonconstant (cubicThetaActualCuspCoefficient n) p := by
+  by_cases hn : (3:ℤ) ∣ n <;>
+    simp [cubicThetaCuspExpansion,cubicThetaActualCuspConstant,cubicThetaActualCuspCoefficient,hn]
+
+lemma cubicThetaActualCuspCoefficient_bound (n : ℤ) (k : Eisenstein) :
+    ‖cubicThetaActualCuspCoefficient n k‖≤243 := by
+  unfold cubicThetaActualCuspCoefficient
+  split_ifs
+  · exact (cubicThetaArithmeticCoefficient_norm_le k).trans (by norm_num)
+  · exact cubicThetaShiftedLatticeCoefficient_bound n k
+
+lemma cubicThetaSeriesTerm_reflect (a : Eisenstein→ℂ) (n : Eisenstein) (z : ℂ) (v : ℝ) :
+    cubicThetaSeriesTerm a (-z) v (-n)=
+      cubicThetaSeriesTerm (fun k => a (-k)) z v n := by
+  by_cases hn : n=0
+  · simp [cubicThetaSeriesTerm,hn]
+  · have hf : cubicThetaFrequency (-n)= -cubicThetaFrequency n := by
+      simp only [cubicThetaFrequency,Subalgebra.coe_neg,neg_div]
+    have ht : tracePair (-cubicThetaFrequency n) (-z)=tracePair (cubicThetaFrequency n) z := by
+      simp only [tracePair,neg_mul_neg]
+    simp only [cubicThetaSeriesTerm,ite_eq_right hn,ite_eq_right (neg_ne_zero.mpr hn),hf,
+      norm_neg,ht]
+
+lemma cubicThetaNonconstant_reflect (a : Eisenstein→ℂ) (z : ℂ) (v : ℝ) :
+    cubicThetaNonconstant a (-z,v)=cubicThetaNonconstant (fun k => a (-k)) (z,v) := by
+  unfold cubicThetaNonconstant
+  rw [←(Equiv.neg Eisenstein).tsum_eq (fun k => cubicThetaSeriesTerm a (-z) v k)]
+  exact tsum_congr (fun k => cubicThetaSeriesTerm_reflect a k z v)
+
+lemma cubicThetaNonconstant_star (a : Eisenstein→ℂ) (z : ℂ) (v : ℝ) :
+    star (cubicThetaNonconstant a (z,v))=
+      cubicThetaNonconstant (fun k => star (a (-k))) (z,v) := by
+  have he := cubicThetaNonconstant_star_reflect a (-z) v
+  rw [neg_neg] at he
+  exact he.trans (cubicThetaNonconstant_reflect (fun k => star (a k)) z v)
+
+lemma cubicThetaNormalizedSeries_conjugate (p : CubicThetaPoint) :
+    star (cubicThetaNormalizedSeriesSection.val p)=
+      star cubicThetaSeriesConstant*((p.val.2^(2/3:ℝ):ℝ):ℂ)+
+        cubicThetaNonconstant cubicThetaConjugateCoefficient p.val := by
+  rw [cubicThetaNormalizedSeriesSection_apply,star_add,star_mul]
+  have he := cubicThetaNonconstant_star_reflect cubicThetaArithmeticCoefficient p.val.1 p.val.2
+  rw [cubicThetaArithmetic_even] at he
+  rw [he]
+  simp only [Complex.star_def,Complex.conj_ofReal,mul_comm]
+  rfl
+
+lemma cubicThetaCuspExpansion_conjugate (n : ℤ) (p : ℂ×ℝ) :
+    star (cubicThetaCuspExpansion n p)=
+      star (cubicThetaActualCuspConstant n)*((p.2^(2/3:ℝ):ℝ):ℂ)+
+        cubicThetaNonconstant (fun k => star (cubicThetaActualCuspCoefficient n (-k))) p := by
+  rcases p with ⟨z,v⟩
+  rw [cubicThetaCuspExpansion_coefficients,star_add,star_mul,cubicThetaNonconstant_star]
+  simp only [Complex.star_def,Complex.conj_ofReal,mul_comm]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaActualProjection
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The actual primary projector and its finite transformed cusp family. -/
+noncomputable section
+open scoped MatrixGroups Matrix
+namespace CubicFirstMoment
+attribute [local instance] Classical.propDecidable
+
+lemma cubicThetaNormalizedSeries_translation_conjugate (b : Eisenstein) (p : CubicThetaPoint) :
+    star (cubicThetaNormalizedSeriesSection.val (cubicThetaFullTranslation b • p))=
+      star cubicThetaSeriesConstant*((p.val.2^(2/3:ℝ):ℝ):ℂ)+
+        cubicThetaNonconstant cubicThetaConjugateCoefficient (p.val.1+(b:ℂ),p.val.2) := by
+  rw [cubicThetaNormalizedSeries_conjugate]
+  have he : (cubicThetaFullTranslation b • p).val=(p.val.1+(b:ℂ),p.val.2) := by
+    rw [cubicThetaFullPointAction_apply,cubicThetaFullTranslation_complex,cubicThetaMobius_translation]
+  rw [he]
+
+lemma cubicThetaNormalizedPrimaryProjection_series (p : CubicThetaPoint) :
+    cubicThetaNormalizedPrimaryProjection p=
+      cubicThetaNonconstant cubicThetaSelectedCoefficient p.val := by
+  unfold cubicThetaNormalizedPrimaryProjection
+  rw [cubicThetaNormalizedSeries_conjugate,
+    cubicThetaNormalizedSeries_translation_conjugate,
+    cubicThetaNormalizedSeries_translation_conjugate]
+  have he := cubicThetaSelected_projection p.val.1 p.property
+  change _=cubicThetaNonconstant cubicThetaSelectedCoefficient (p.val.1,p.val.2)
+  rw [he]
+  have htwo : ((2*omegaE:Eisenstein):ℂ)=2*omega := by push_cast; rfl
+  rw [htwo,show (omegaE:ℂ)=omega from rfl]
+  change _=((cubicThetaNonconstant cubicThetaConjugateCoefficient (p.val.1,p.val.2)+
+    omega*cubicThetaNonconstant cubicThetaConjugateCoefficient (p.val.1+omega,p.val.2)+
+    omega^2*cubicThetaNonconstant cubicThetaConjugateCoefficient (p.val.1+2*omega,p.val.2))/3)
+  linear_combination star cubicThetaSeriesConstant*((p.val.2^(2/3:ℝ):ℝ):ℂ)/3*omega_quadratic
+
+theorem cubicThetaNormalizedPrimaryProjection_cusps (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (p : CubicThetaPoint) :
+    cubicThetaNonconstant cubicThetaSelectedCoefficient (g • p).val=
+      (∑ j : Fin 3, omega^j.val*star (cubicThetaProjectedCuspMultiplier g hc j*
+        cubicThetaCuspExpansion (cubicThetaProjectedCuspType g j)
+          (cubicThetaFullTranslation (g 1 1) • p).val))/3 := by
+  rw [←cubicThetaNormalizedPrimaryProjection_series]
+  have hs : (∑ j : Fin 3, omega^j.val*star (cubicThetaNormalizedSeriesSection.val
+      (cubicThetaFullTranslation ((j.val:Eisenstein)*omegaE) • (g • p))))/3=
+      cubicThetaNormalizedPrimaryProjection (g • p) := by
+    rw [Fin.sum_univ_three]
+    have hz : cubicThetaFullTranslation 0=1 := by
+      apply Subtype.ext
+      apply Matrix.ext
+      intro i j
+      fin_cases i <;> fin_cases j <;> rfl
+    simp only [Fin.val_zero,Fin.val_one,Fin.val_two,Nat.cast_zero,Nat.cast_one,Nat.cast_ofNat,
+      zero_mul,one_mul,pow_zero,pow_one,hz,one_smul,cubicThetaNormalizedPrimaryProjection]
+  rw [←hs]
+  simp_rw [cubicThetaProjectedCusp_identity g hc]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaProjectedCoefficient
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The finite primary projector gives an explicit dual coefficient
+family, with absolute convergence and its actual constant term. -/
+noncomputable section
+open scoped BigOperators MatrixGroups
+namespace CubicFirstMoment
+attribute [local instance] Classical.propDecidable
+
+lemma cubicThetaProjectedCuspMultiplier_norm (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (j : Fin 3) :
+    ‖cubicThetaProjectedCuspMultiplier g hc j‖=1 := cubicThetaKubotaValue_norm _
+
+lemma cubicThetaProjectedCoefficient_bound (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (k : Eisenstein) :
+    ‖cubicThetaProjectedCoefficient g hc k‖≤243 := by
+  have hω : ‖omega‖=1 := by
+    have he := cubicTheta_unit_norm
+      (Units.mkOfMulEqOne omegaE (omegaE^2) (by rw [mul_comm,←pow_succ,omegaE_cube]))
+    exact he
+  have hterm (j : Fin 3) :
+      ‖omega^j.val*star (cubicThetaProjectedCuspMultiplier g hc j)*
+        star (cubicThetaActualCuspCoefficient (cubicThetaProjectedCuspType g j) (-k))‖≤243 := by
+    simp only [norm_mul,norm_pow,norm_star,hω,one_pow,
+      cubicThetaProjectedCuspMultiplier_norm,one_mul]
+    exact cubicThetaActualCuspCoefficient_bound _ _
+  rw [cubicThetaProjectedCoefficient,norm_div,Complex.norm_ofNat]
+  apply (div_le_iff₀ (by norm_num : (0:ℝ)<3)).mpr
+  calc
+    _ ≤ ∑ j : Fin 3, ‖omega^j.val*star (cubicThetaProjectedCuspMultiplier g hc j)*
+        star (cubicThetaActualCuspCoefficient (cubicThetaProjectedCuspType g j) (-k))‖ :=
+      norm_sum_le _ _
+    _ ≤ ∑ _j : Fin 3, (243:ℝ) := Finset.sum_le_sum (fun j _ => hterm j)
+    _ = _ := by norm_num
+
+lemma cubicThetaNonconstant_three (a : Fin 3→Eisenstein→ℂ) (w : Fin 3→ℂ)
+    (z : ℂ) (v : ℝ) (hs : ∀ j, Summable (cubicThetaSeriesTerm (a j) z v)) :
+    cubicThetaNonconstant (fun k => (∑ j : Fin 3,w j*a j k)/3) (z,v)=
+      (∑ j : Fin 3,w j*cubicThetaNonconstant (a j) (z,v))/3 := by
+  have ht (k : Eisenstein) :
+      cubicThetaSeriesTerm (fun k => (∑ j : Fin 3,w j*a j k)/3) z v k=
+        (∑ j : Fin 3,w j*cubicThetaSeriesTerm (a j) z v k)/3 := by
+    by_cases hk : k=0
+    · simp [cubicThetaSeriesTerm,hk]
+    · simp only [cubicThetaSeriesTerm,ite_eq_right hk]
+      rw [div_mul_eq_mul_div,div_mul_eq_mul_div]
+      simp_rw [Finset.sum_mul]
+      congr 1
+      apply Finset.sum_congr rfl
+      intro j _
+      ring
+  unfold cubicThetaNonconstant
+  simp_rw [ht]
+  rw [tsum_div_const,Summable.tsum_finsetSum (fun j _ => (hs j).mul_left (w j))]
+  simp_rw [tsum_mul_left]
+
+lemma cubicThetaProjectedCoefficient_series (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (z : ℂ) {v : ℝ} (hv : 0<v) :
+    cubicThetaNonconstant (cubicThetaProjectedCoefficient g hc) (z,v)=
+      (∑ j : Fin 3,omega^j.val*star (cubicThetaProjectedCuspMultiplier g hc j)*
+        cubicThetaNonconstant
+          (fun k => star (cubicThetaActualCuspCoefficient (cubicThetaProjectedCuspType g j) (-k)))
+          (z,v))/3 := by
+  apply cubicThetaNonconstant_three
+  intro j
+  apply cubicThetaSeries_summable (by norm_num : (0:ℝ)≤243) _ hv z
+  intro k hk
+  rw [norm_star]
+  exact (cubicThetaActualCuspCoefficient_bound _ _).trans
+    (le_mul_of_one_le_right (by norm_num) (one_le_norm hk))
+
+theorem cubicThetaNormalizedPrimaryProjection_expansion (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (p : CubicThetaPoint) :
+    cubicThetaNonconstant cubicThetaSelectedCoefficient (g • p).val=
+      cubicThetaProjectedConstant g hc*((p.val.2^(2/3:ℝ):ℝ):ℂ)+
+        cubicThetaNonconstant (cubicThetaProjectedCoefficient g hc)
+          (p.val.1+(g 1 1:ℂ),p.val.2) := by
+  have hp : (cubicThetaFullTranslation (g 1 1) • p).val=
+      (p.val.1+(g 1 1:ℂ),p.val.2) := by
+    rw [cubicThetaFullPointAction_apply,cubicThetaFullTranslation_complex,cubicThetaMobius_translation]
+  rw [cubicThetaNormalizedPrimaryProjection_cusps g hc p,hp,
+    cubicThetaProjectedCoefficient_series g hc _ p.property]
+  have ht (j : Fin 3) : omega^j.val*star (cubicThetaProjectedCuspMultiplier g hc j*
+      cubicThetaCuspExpansion (cubicThetaProjectedCuspType g j)
+        (p.val.1+(g 1 1:ℂ),p.val.2))=
+      omega^j.val*star (cubicThetaProjectedCuspMultiplier g hc j)*
+        star (cubicThetaActualCuspConstant (cubicThetaProjectedCuspType g j))*
+          ((p.val.2^(2/3:ℝ):ℝ):ℂ)+
+      omega^j.val*star (cubicThetaProjectedCuspMultiplier g hc j)*
+        cubicThetaNonconstant
+          (fun k => star (cubicThetaActualCuspCoefficient (cubicThetaProjectedCuspType g j) (-k)))
+          (p.val.1+(g 1 1:ℂ),p.val.2) := by
+    rw [star_mul,cubicThetaCuspExpansion_conjugate]
+    dsimp only [Prod.snd]
+    ring
+  simp_rw [ht]
+  rw [Finset.sum_add_distrib,add_div]
+  congr 1
+  rw [←Finset.sum_mul]
+  unfold cubicThetaProjectedConstant
+  ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaProjectedMultiplier
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The actual three cusp multipliers agree when the lower-right entry is
+zero modulo three. This is the elementary supplementary-law step needed
+before finite Ramanujan summation. -/
+noncomputable section
+open scoped MatrixGroups Matrix
+namespace CubicFirstMoment
+
+lemma cubicThetaPrimaryBottom_multiplier_symbol (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) :
+    cubicThetaKubotaValue (cubicThetaPrimaryBottomPrincipal g hc)=
+      cubicSymbol (1+g 0 1*(g 1 0-1)) (g 1 1*(g 1 0-1)) := by
+  rw [cubicThetaKubotaValue_eq_symbol]
+  change cubicSymbol ((cubicThetaPrimaryBottomDefect g).val 0 0)
+    ((cubicThetaPrimaryBottomDefect g).val 1 0)=_
+  rw [cubicThetaPrimaryBottomDefect_matrix]
+  rfl
+
+lemma cubicThetaProjectedCuspMatrix_entries (g : SL(2,Eisenstein)) (j : Fin 3) :
+    cubicThetaProjectedCuspMatrix g j 0 1=g 0 1+(j.val:Eisenstein)*omegaE*g 1 1 ∧
+    cubicThetaProjectedCuspMatrix g j 1 0=g 1 0 ∧
+    cubicThetaProjectedCuspMatrix g j 1 1=g 1 1 := by
+  change ((!![1,(j.val:Eisenstein)*omegaE;0,1] : Matrix (Fin 2) (Fin 2) Eisenstein)*g.val) 0 1=_ ∧
+    ((!![1,(j.val:Eisenstein)*omegaE;0,1] : Matrix (Fin 2) (Fin 2) Eisenstein)*g.val) 1 0=_ ∧
+    ((!![1,(j.val:Eisenstein)*omegaE;0,1] : Matrix (Fin 2) (Fin 2) Eisenstein)*g.val) 1 1=_
+  simp [Matrix.mul_apply,Fin.sum_univ_two]
+
+theorem cubicThetaProjectedCuspMultiplier_constant (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (hd : (3:Eisenstein)∣g 1 1) (j : Fin 3) :
+    cubicThetaProjectedCuspMultiplier g hc j=
+      cubicThetaKubotaValue (cubicThetaPrimaryBottomPrincipal g hc) := by
+  have hj := cubicThetaProjectedCuspMatrix_entries g j
+  have hpj := (cubicThetaPrincipalGroup_diagonal_primary
+    (cubicThetaPrimaryBottomPrincipal (cubicThetaProjectedCuspMatrix g j)
+      (cubicThetaProjectedCuspMatrix_primary g hc j))).1
+  have hp := (cubicThetaPrincipalGroup_diagonal_primary (cubicThetaPrimaryBottomPrincipal g hc)).1
+  change primary ((cubicThetaPrimaryBottomDefect (cubicThetaProjectedCuspMatrix g j)).val 0 0) at hpj
+  change primary ((cubicThetaPrimaryBottomDefect g).val 0 0) at hp
+  rw [cubicThetaPrimaryBottomDefect_matrix] at hpj hp
+  change primary (1+cubicThetaProjectedCuspMatrix g j 0 1*
+    (cubicThetaProjectedCuspMatrix g j 1 0-1)) at hpj
+  change primary (1+g 0 1*(g 1 0-1)) at hp
+  rw [hj.1,hj.2.1] at hpj
+  unfold cubicThetaProjectedCuspMultiplier
+  rw [cubicThetaPrimaryBottom_multiplier_symbol,cubicThetaPrimaryBottom_multiplier_symbol,
+    hj.1,hj.2.1,hj.2.2]
+  apply cubicSymbol_periodic_of_nine_and_numerator hpj hp
+  · obtain ⟨d,hd⟩ := hd
+    obtain ⟨c,hc⟩ := hc
+    refine ⟨(j.val:Eisenstein)*omegaE*d*c,?_⟩
+    rw [hd,hc]
+    ring
+  · refine ⟨(j.val:Eisenstein)*omegaE,?_⟩
+    ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaAdaptedMultiplier
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! A principal-level decomposition evaluates the common multiplier for
+cusp lifts with both diagonal entries zero modulo three. -/
+noncomputable section
+open scoped MatrixGroups Matrix
+namespace CubicFirstMoment
+
+lemma cubicThetaFullTranslation_neg (a : Eisenstein) :
+    cubicThetaFullTranslation (-a)=(cubicThetaFullTranslation a)⁻¹ := by
+  apply eq_inv_iff_mul_eq_one.mpr
+  rw [←cubicThetaFullTranslation_add,neg_add_cancel]
+  apply Subtype.ext
+  apply Matrix.ext
+  intro i j
+  fin_cases i <;> fin_cases j <;> rfl
+
+lemma cubicThetaRightInversion_value (g : SL(2,Eisenstein)) (hc : primary (g 1 0))
+    (ha : (3:Eisenstein)∣g 0 0) (hd : (3:Eisenstein)∣g 1 1) :
+    cubicThetaKubotaValue (cubicThetaRightInversionPrincipal g hc ha hd)=
+      cubicSymbol (g 1 0) (g 0 0) := by
+  rw [cubicThetaKubotaValue_eq_symbol,cubicThetaKubota_column_switch]
+  change cubicSymbol ((g*cubicThetaFullInversion⁻¹).val 1 1)
+    ((g*cubicThetaFullInversion⁻¹).val 0 1)=_
+  rw [cubicThetaRightInversion_matrix]
+  rfl
+
+theorem cubicThetaPrimaryBottom_multiplier_adapted (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (ha : (3:Eisenstein)∣g 0 0) (hd : (3:Eisenstein)∣g 1 1) :
+    cubicThetaKubotaValue (cubicThetaPrimaryBottomPrincipal g hc)=
+      cubicSymbol (g 1 0) (g 0 0) := by
+  obtain ⟨a,ha'⟩ := ha
+  obtain ⟨d,hd'⟩ := hd
+  let h := cubicThetaRightInversionPrincipal g hc ⟨a,ha'⟩ ⟨d,hd'⟩
+  let k := cubicThetaKubotaConjugate cubicThetaModularS (cubicThetaPrincipalTranslation (-d))
+  let l := cubicThetaPrincipalTranslation (-a)
+  have he : cubicThetaPrimaryBottomPrincipal g hc=h*k*l := by
+    apply Subtype.ext
+    change g*(cubicThetaPrimaryBottomSeed g)⁻¹=
+      (g*cubicThetaFullInversion⁻¹)*
+        (cubicThetaModularS*(cubicThetaPrincipalTranslation (-d)).val*cubicThetaModularS⁻¹)*
+          (cubicThetaPrincipalTranslation (-a)).val
+    have hS : cubicThetaModularS=cubicThetaFullInversion := rfl
+    have htd : (cubicThetaPrincipalTranslation (-d)).val=
+        (cubicThetaFullTranslation (3*d))⁻¹ := by
+      change cubicThetaFullTranslation (3*(-d))=_
+      rw [mul_neg,cubicThetaFullTranslation_neg]
+    have hta : (cubicThetaPrincipalTranslation (-a)).val=
+        (cubicThetaFullTranslation (3*a))⁻¹ := by
+      change cubicThetaFullTranslation (3*(-a))=_
+      rw [mul_neg,cubicThetaFullTranslation_neg]
+    rw [cubicThetaPrimaryBottomSeed,cubicThetaShiftedInversion_factor,ha',hd',hS,htd,hta]
+    group
+  rw [he,cubicThetaKubotaValue_mul,cubicThetaKubotaValue_mul]
+  have hk : cubicThetaKubotaValue k=1 := by
+    rw [show k=cubicThetaKubotaConjugate cubicThetaModularS (cubicThetaPrincipalTranslation (-d)) from rfl,
+      cubicThetaKubotaValue_conjugate_S,cubicThetaPrincipalTranslation_value]
+  rw [hk,show cubicThetaKubotaValue l=1 from cubicThetaPrincipalTranslation_value _,mul_one,mul_one]
+  exact cubicThetaRightInversion_value g hc _ _
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaAngularConvergence
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Absolute convergence of the fixed-angular frequency derivatives.
+An explicit summable lattice majorant absorbs every fixed derivative order. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaFrequency_inverse_pow {n : Eisenstein} (hn : n ≠ 0) (k : ℕ) :
+    ‖cubicThetaFrequency n‖^(-(k:ℝ)) ≤ (9:ℝ)^k := by
+  calc
+    _ ≤ (1/9:ℝ)^(-(k:ℝ)) := Real.rpow_le_rpow_of_nonpos (by norm_num)
+      (cubicThetaFrequency_lower hn) (neg_nonpos.mpr (Nat.cast_nonneg k))
+    _ = (9:ℝ)^k := by
+      rw [Real.rpow_neg_eq_inv_rpow]
+      norm_num only [one_div,inv_inv]
+      rw [Real.rpow_natCast]
+
+lemma cubicThetaAngular_kernel_bound (k : ℕ) {n : Eisenstein} (hn : n ≠ 0)
+    {v : ℝ} (hv : 0 < v) :
+    ‖cubicThetaFrequency n‖^k*‖cubicThetaWhittaker (‖cubicThetaFrequency n‖*v)‖ ≤
+      (cubicWhittakerPowerConstant (k+3)*(9:ℝ)^k*81^(7/3:ℝ))*
+        v^(4/3-2*((k:ℝ)+3))*norm n^(-7/3:ℝ) := by
+  have hr := cubicThetaFrequency_pos hn
+  have hK := (cubicWhittakerPowerConstant_pos (by omega : 1 ≤ k+3)).le
+  have hw := cubicThetaWhittaker_power_bound (k+3) (by omega) (mul_pos hr hv)
+  simp only [Nat.cast_add,Nat.cast_ofNat] at hw
+  rw [Real.mul_rpow hr.le hv.le] at hw
+  have hp : ‖cubicThetaFrequency n‖^k*‖cubicThetaFrequency n‖^(4/3-2*((k:ℝ)+3)) =
+      ‖cubicThetaFrequency n‖^(-(k:ℝ))*‖cubicThetaFrequency n‖^(-14/3:ℝ) := by
+    rw [←Real.rpow_natCast,←Real.rpow_add hr,←Real.rpow_add hr]
+    congr 1
+    ring
+  calc
+    _ ≤ ‖cubicThetaFrequency n‖^k*(cubicWhittakerPowerConstant (k+3)*
+        (‖cubicThetaFrequency n‖^(4/3-2*((k:ℝ)+3))*v^(4/3-2*((k:ℝ)+3)))) :=
+      mul_le_mul_of_nonneg_left hw (by positivity)
+    _ = cubicWhittakerPowerConstant (k+3)*v^(4/3-2*((k:ℝ)+3))*
+        (‖cubicThetaFrequency n‖^(-(k:ℝ))*‖cubicThetaFrequency n‖^(-14/3:ℝ)) := by
+      calc
+        _ = cubicWhittakerPowerConstant (k+3)*v^(4/3-2*((k:ℝ)+3))*
+            (‖cubicThetaFrequency n‖^k*‖cubicThetaFrequency n‖^(4/3-2*((k:ℝ)+3))) := by ring
+        _ = _ := by rw [hp]
+    _ ≤ cubicWhittakerPowerConstant (k+3)*v^(4/3-2*((k:ℝ)+3))*
+        ((9:ℝ)^k*‖cubicThetaFrequency n‖^(-14/3:ℝ)) := by
+      gcongr
+      exact cubicThetaFrequency_inverse_pow hn k
+    _ = _ := by rw [cubicThetaFrequency_power hn]; ring
+
+lemma cubicThetaAngular_term_bound {a : Eisenstein → ℂ} {C v : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, n ≠ 0 → ‖a n‖ ≤ C*norm n)
+    (ℓ : ℤ) (hv : 0 < v) (z : ℂ) (n : Eisenstein) :
+    ‖cubicThetaSeriesTerm (cubicThetaAngularCoefficient a ℓ) z v n‖ ≤
+      (C*cubicWhittakerPowerConstant (ℓ.natAbs+3)*(9:ℝ)^ℓ.natAbs*81^(7/3:ℝ)*
+        v^(4/3-2*((ℓ.natAbs:ℝ)+3)))*norm n^(-4/3:ℝ) := by
+  have hK := (cubicWhittakerPowerConstant_pos (by omega : 1 ≤ ℓ.natAbs+3)).le
+  by_cases hn : n = 0
+  · simp only [cubicThetaSeriesTerm,hn,ite_true, if_true,norm_zero]
+    norm_num [norm]
+  · have hN := norm_pos_of_ne_zero hn
+    simp only [cubicThetaSeriesTerm,hn,ite_false, if_false,norm_mul,Circle.norm_coe,mul_one,
+      cubicThetaAngularCoefficient_norm ℓ hn]
+    have hp : norm n*norm n^(-7/3:ℝ) = norm n^(-4/3:ℝ) := by
+      calc
+        _ = norm n^(1:ℝ)*norm n^(-7/3:ℝ) := by rw [Real.rpow_one]
+        _ = norm n^(1+(-7/3:ℝ)) := (Real.rpow_add hN _ _).symm
+        _ = _ := by congr 1; ring
+    calc
+      _ = ‖a n‖*(‖cubicThetaFrequency n‖^ℓ.natAbs*
+          ‖cubicThetaWhittaker (‖cubicThetaFrequency n‖*v)‖) := by ring
+      _ ≤ (C*norm n)*((cubicWhittakerPowerConstant (ℓ.natAbs+3)*(9:ℝ)^ℓ.natAbs*81^(7/3:ℝ))*
+          v^(4/3-2*((ℓ.natAbs:ℝ)+3))*norm n^(-7/3:ℝ)) :=
+        mul_le_mul (ha n hn) (cubicThetaAngular_kernel_bound ℓ.natAbs hn hv)
+          (mul_nonneg (by positivity) (_root_.norm_nonneg _)) (mul_nonneg hC hN.le)
+      _ = _ := by
+        calc
+          _ = (C*cubicWhittakerPowerConstant (ℓ.natAbs+3)*(9:ℝ)^ℓ.natAbs*81^(7/3:ℝ)*
+              v^(4/3-2*((ℓ.natAbs:ℝ)+3)))*(norm n*norm n^(-7/3:ℝ)) := by ring
+          _ = _ := by rw [hp]
+
+/-- Every fixed signed angular derivative is an absolutely convergent
+Fourier series at each positive height. -/
+theorem cubicThetaAngular_summable {a : Eisenstein → ℂ} {C v : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, n ≠ 0 → ‖a n‖ ≤ C*norm n)
+    (ℓ : ℤ) (hv : 0 < v) (z : ℂ) :
+    Summable (cubicThetaSeriesTerm (cubicThetaAngularCoefficient a ℓ) z v) := by
+  apply ((summable_eisenstein_norm_rpow (by norm_num : (1:ℝ) < 4/3)).mul_left
+    (C*cubicWhittakerPowerConstant (ℓ.natAbs+3)*(9:ℝ)^ℓ.natAbs*81^(7/3:ℝ)*
+      v^(4/3-2*((ℓ.natAbs:ℝ)+3)))).of_norm_bounded
+  intro n
+  simpa only [neg_div] using cubicThetaAngular_term_bound hC ha ℓ hv z n
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaAngularContinuity
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Locally uniform convergence for the fixed-angular theta expansion. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaAngular_continuousOn_strip {a : Eisenstein → ℂ} {C b : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, n ≠ 0 → ‖a n‖ ≤ C*norm n)
+    (ℓ : ℤ) (hb : 0 < b) :
+    ContinuousOn (cubicThetaNonconstant (cubicThetaAngularCoefficient a ℓ))
+      {p : ℂ × ℝ | b < p.2} := by
+  let K := C*cubicWhittakerPowerConstant (ℓ.natAbs+3)*(9:ℝ)^ℓ.natAbs*81^(7/3:ℝ)
+  have hK : 0 ≤ K := by
+    dsimp [K]
+    exact mul_nonneg (mul_nonneg (mul_nonneg hC
+      (cubicWhittakerPowerConstant_pos (by omega : 1 ≤ ℓ.natAbs+3)).le) (by positivity))
+      (by positivity)
+  have hp : (4/3:ℝ)-2*((ℓ.natAbs:ℝ)+3) ≤ 0 := by
+    have hk : (0:ℝ) ≤ ℓ.natAbs := Nat.cast_nonneg _
+    linarith
+  have hs := (summable_eisenstein_norm_rpow (by norm_num : (1:ℝ) < 4/3)).mul_left
+    (K*b^(4/3-2*((ℓ.natAbs:ℝ)+3)))
+  apply continuousOn_tsum
+    (fun n p h => (cubicThetaSeriesTerm_continuousAt _ n (hb.trans h)).continuousWithinAt) hs
+  intro n p h
+  change b < p.2 at h
+  have hpower : p.2^(4/3-2*((ℓ.natAbs:ℝ)+3)) ≤ b^(4/3-2*((ℓ.natAbs:ℝ)+3)) :=
+    Real.rpow_le_rpow_of_nonpos hb h.le hp
+  calc
+    _ ≤ (K*p.2^(4/3-2*((ℓ.natAbs:ℝ)+3)))*norm n^(-4/3:ℝ) :=
+      cubicThetaAngular_term_bound hC ha ℓ (hb.trans h) p.1 n
+    _ ≤ _ := by
+      simpa only [neg_div] using
+        mul_le_mul_of_nonneg_right (mul_le_mul_of_nonneg_left hpower hK)
+          (Real.rpow_nonneg (norm_nonneg n) (-4/3:ℝ))
+
+/-- The fixed signed angular Fourier expansion is a continuous function
+at every point of the upper half-space. -/
+theorem cubicThetaAngular_continuousAt {a : Eisenstein → ℂ} {C : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, n ≠ 0 → ‖a n‖ ≤ C*norm n)
+    (ℓ : ℤ) {p : ℂ × ℝ} (hp : 0 < p.2) :
+    ContinuousAt (cubicThetaNonconstant (cubicThetaAngularCoefficient a ℓ)) p := by
+  have hs := cubicThetaAngular_continuousOn_strip hC ha ℓ
+    (show 0 < p.2/2 by positivity)
+  have ho : IsOpen {q : ℂ × ℝ | p.2/2 < q.2} := isOpen_lt continuous_const continuous_snd
+  exact hs.continuousAt (ho.mem_nhds (by change p.2/2 < p.2; linarith))
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaAngularExponential
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Exponential cusp decay survives every fixed angular frequency power. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaAngularAbsorption_pos (k : ℕ) : 0 < cubicThetaAngularAbsorption k := by
+  unfold cubicThetaAngularAbsorption
+  positivity
+
+lemma cubicTheta_frequency_power_exp (k : ℕ) {r v : ℝ} (hr : 1/9 ≤ r) (hv : 1 ≤ v) :
+    r^k*Real.exp (-Real.pi*r*v) ≤
+      cubicThetaAngularAbsorption k*Real.exp (-(Real.pi/18)*v) := by
+  have hr0 : 0 < r := lt_of_lt_of_le (by norm_num) hr
+  have hv0 : 0 < v := zero_lt_one.trans_le hv
+  have hf := pow_mul_exp_neg_le_factorial k (show 0 ≤ (Real.pi/2)*r by positivity)
+  have hfac : r^k*Real.exp (-(Real.pi/2)*r) ≤ cubicThetaAngularAbsorption k := by
+    apply (le_div_iff₀ (show 0 < (Real.pi/2)^k by positivity)).mpr
+    calc
+      _ = ((Real.pi/2)*r)^k*Real.exp (-((Real.pi/2)*r)) := by
+        rw [show -(Real.pi/2)*r = -((Real.pi/2)*r) by ring,mul_pow]
+        ring
+      _ ≤ _ := hf
+  have he1 : Real.exp (-(Real.pi/2)*r*v) ≤ Real.exp (-(Real.pi/2)*r) := by
+    apply Real.exp_le_exp.mpr
+    have h := mul_le_mul_of_nonpos_left hv (mul_nonpos_of_nonpos_of_nonneg
+      (neg_nonpos.mpr (le_of_lt (half_pos Real.pi_pos))) hr0.le)
+    simpa only [mul_one] using h
+  have he2 : Real.exp (-(Real.pi/2)*r*v) ≤ Real.exp (-(Real.pi/18)*v) := by
+    apply Real.exp_le_exp.mpr
+    have h := mul_le_mul_of_nonneg_right hr (show 0 ≤ Real.pi/2*v by positivity)
+    first | (convert neg_le_neg h using 1 <;> ring) | exact (le_of_eq (by ring)).trans ((neg_le_neg h).trans (le_of_eq (by ring)))
+  calc
+    _ = (r^k*Real.exp (-(Real.pi/2)*r*v))*Real.exp (-(Real.pi/2)*r*v) := by
+      conv_rhs => rw [mul_assoc,←Real.exp_add]
+      congr 2
+      ring
+    _ ≤ (r^k*Real.exp (-(Real.pi/2)*r))*Real.exp (-(Real.pi/2)*r*v) := by
+      gcongr
+    _ ≤ cubicThetaAngularAbsorption k*Real.exp (-(Real.pi/18)*v) :=
+      mul_le_mul hfac he2 (Real.exp_pos _).le (cubicThetaAngularAbsorption_pos k).le
+
+lemma cubicThetaAngular_kernel_exp_bound (k : ℕ) {n : Eisenstein} (hn : n ≠ 0)
+    {v : ℝ} (hv : 1 ≤ v) :
+    ‖cubicThetaFrequency n‖^k*‖cubicThetaWhittaker (‖cubicThetaFrequency n‖*v)‖ ≤
+      (cubicWhittakerMixedConstant*cubicThetaAngularAbsorption k*81^(8/3:ℝ))*
+        norm n^(-8/3:ℝ)*Real.exp (-(Real.pi/18)*v) := by
+  have hr := cubicThetaFrequency_pos hn
+  have hv0 : 0 < v := zero_lt_one.trans_le hv
+  have hD := cubicWhittakerMixedConstant_pos.le
+  have hw := cubicThetaWhittaker_mixed_bound (mul_pos hr hv0)
+  rw [Real.mul_rpow hr.le hv0.le] at hw
+  have hb := cubicTheta_frequency_power_exp k (cubicThetaFrequency_lower hn) hv
+  have hvp : v^(-16/3:ℝ) ≤ 1 := Real.rpow_le_one_of_one_le_of_nonpos hv (by norm_num)
+  calc
+    _ ≤ ‖cubicThetaFrequency n‖^k*(cubicWhittakerMixedConstant*
+        (‖cubicThetaFrequency n‖^(-16/3:ℝ)*v^(-16/3:ℝ))*
+          Real.exp (-Real.pi*(‖cubicThetaFrequency n‖*v))) :=
+      mul_le_mul_of_nonneg_left hw (by positivity)
+    _ = (cubicWhittakerMixedConstant*‖cubicThetaFrequency n‖^(-16/3:ℝ))*v^(-16/3:ℝ)*
+        (‖cubicThetaFrequency n‖^k*Real.exp (-Real.pi*‖cubicThetaFrequency n‖*v)) := by
+      rw [show -Real.pi*(‖cubicThetaFrequency n‖*v) =
+        -Real.pi*‖cubicThetaFrequency n‖*v by ring]
+      ring
+    _ ≤ (cubicWhittakerMixedConstant*‖cubicThetaFrequency n‖^(-16/3:ℝ))*1*
+        (cubicThetaAngularAbsorption k*Real.exp (-(Real.pi/18)*v)) := by
+      gcongr
+    _ = _ := by
+      rw [cubicThetaFrequency_rpow hn]
+      norm_num only
+      ring
+
+lemma cubicThetaAngular_term_exp_bound {a : Eisenstein → ℂ} {C v : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, n ≠ 0 → ‖a n‖ ≤ C*norm n)
+    (ℓ : ℤ) (hv : 1 ≤ v) (z : ℂ) (n : Eisenstein) :
+    ‖cubicThetaSeriesTerm (cubicThetaAngularCoefficient a ℓ) z v n‖ ≤
+      (C*cubicWhittakerMixedConstant*cubicThetaAngularAbsorption ℓ.natAbs*81^(8/3:ℝ)*
+        Real.exp (-(Real.pi/18)*v))*norm n^(-5/3:ℝ) := by
+  by_cases hn : n = 0
+  · simp [cubicThetaSeriesTerm,hn,norm]
+  · have hN := norm_pos_of_ne_zero hn
+    simp only [cubicThetaSeriesTerm,hn,ite_false, if_false,norm_mul,Circle.norm_coe,mul_one,
+      cubicThetaAngularCoefficient_norm ℓ hn]
+    have hp : norm n*norm n^(-8/3:ℝ) = norm n^(-5/3:ℝ) := by
+      calc
+        _ = norm n^(1:ℝ)*norm n^(-8/3:ℝ) := by rw [Real.rpow_one]
+        _ = norm n^(1+(-8/3:ℝ)) := (Real.rpow_add hN _ _).symm
+        _ = _ := by congr 1; ring
+    calc
+      _ = ‖a n‖*(‖cubicThetaFrequency n‖^ℓ.natAbs*
+          ‖cubicThetaWhittaker (‖cubicThetaFrequency n‖*v)‖) := by ring
+      _ ≤ (C*norm n)*((cubicWhittakerMixedConstant*cubicThetaAngularAbsorption ℓ.natAbs*81^(8/3:ℝ))*
+          norm n^(-8/3:ℝ)*Real.exp (-(Real.pi/18)*v)) :=
+        mul_le_mul (ha n hn) (cubicThetaAngular_kernel_exp_bound ℓ.natAbs hn hv)
+          (mul_nonneg (by positivity) (_root_.norm_nonneg _)) (mul_nonneg hC hN.le)
+      _ = _ := by
+        calc
+          _ = (C*cubicWhittakerMixedConstant*cubicThetaAngularAbsorption ℓ.natAbs*81^(8/3:ℝ)*
+              Real.exp (-(Real.pi/18)*v))*(norm n*norm n^(-8/3:ℝ)) := by ring
+          _ = _ := by rw [hp]
+
+/-- Uniform exponential decrease of each fixed angular theta series. -/
+theorem cubicThetaAngular_exponential_bound {a : Eisenstein → ℂ} {C v : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, n ≠ 0 → ‖a n‖ ≤ C*norm n)
+    (ℓ : ℤ) (hv : 1 ≤ v) (z : ℂ) :
+    ‖cubicThetaNonconstant (cubicThetaAngularCoefficient a ℓ) (z,v)‖ ≤
+      cubicThetaAngularExpConstant C ℓ*Real.exp (-(Real.pi/18)*v) := by
+  have hs := cubicThetaAngular_summable hC ha ℓ (zero_lt_one.trans_le hv) z
+  have hm := (summable_eisenstein_norm_rpow (by norm_num : (1:ℝ) < 5/3)).mul_left
+    (C*cubicWhittakerMixedConstant*cubicThetaAngularAbsorption ℓ.natAbs*81^(8/3:ℝ)*
+      Real.exp (-(Real.pi/18)*v))
+  calc
+    _ ≤ ∑' n : Eisenstein, ‖cubicThetaSeriesTerm (cubicThetaAngularCoefficient a ℓ) z v n‖ :=
+      norm_tsum_le_tsum_norm hs.norm
+    _ ≤ ∑' n : Eisenstein, (C*cubicWhittakerMixedConstant*cubicThetaAngularAbsorption ℓ.natAbs*81^(8/3:ℝ)*
+        Real.exp (-(Real.pi/18)*v))*norm n^(-5/3:ℝ) :=
+      Summable.tsum_le_tsum (cubicThetaAngular_term_exp_bound hC ha ℓ hv z) hs.norm (by
+        simpa only [neg_div] using hm)
+    _ = _ := by rw [tsum_mul_left]; unfold cubicThetaAngularExpConstant; ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaLevelReciprocity
+attribute [-instance] _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Put the genuine primary-level theta transformation on a symmetric
+height scale, before Mellin integration. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaLevelScale_pos {q : Eisenstein} (hq : primary q) :
+    0 < cubicThetaLevelScale q :=
+  inv_pos.mpr (Real.sqrt_pos.mpr (norm_pos_of_ne_zero (primary_ne_zero hq)))
+
+lemma cubicThetaLevelScale_reciprocal {q : Eisenstein} (hq : primary q)
+    {t : ℝ} (ht : 0<t) :
+    (norm q*(cubicThetaLevelScale q*t))⁻¹=cubicThetaLevelScale q*t⁻¹ := by
+  have hN := norm_pos_of_ne_zero (primary_ne_zero hq)
+  have hs := Real.sqrt_pos.mpr hN
+  have hs2 := Real.sq_sqrt hN.le
+  unfold cubicThetaLevelScale
+  field_simp
+  nlinarith
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaAngularMellin
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.idealExponentCountable _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The exact shifted Mellin identity for every fixed angular mode.
+Absolute integration is proved using the original bounded coefficient mass. -/
+noncomputable section
+open MeasureTheory Set
+attribute [local instance] Classical.propDecidable
+namespace CubicFirstMoment
+
+/-- The frequency derivative and the shifted Mellin exponent cancel before
+summation. This is the analytic origin of the shifted Gamma factors. -/
+theorem cubicThetaAngular_mellin {a : Eisenstein → ℂ} {C : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, ‖a n‖ ≤ C)
+    (ℓ : ℤ) {s : ℂ} (hs : 3/2 < s.re) :
+    mellin (fun v : ℝ => cubicThetaNonconstant (cubicThetaAngularCoefficient a ℓ) (0,v))
+      (2*s+(ℓ.natAbs:ℂ)-1) =
+      mellin cubicThetaWhittaker (2*s+(ℓ.natAbs:ℂ)-1)*
+        cubicThetaDirichlet (fun n => theta ℓ n*a n) (2*s-1) := by
+  let : Countable Eisenstein := coordinatesEquiv.symm.injective.countable
+  let u : ℂ := 2*s+(ℓ.natAbs:ℂ)-1
+  let F (n : Eisenstein) (v : ℝ) : ℂ :=
+    (v:ℂ)^(u-1)*cubicThetaSeriesTerm (cubicThetaAngularCoefficient a ℓ) 0 v n
+  have hhalf : (1/6:ℝ) < (s+(ℓ.natAbs:ℂ)/2).re := by
+    simp only [Complex.add_re,Complex.div_ofNat_re,Complex.natCast_re]
+    have hk : (0:ℝ) ≤ ℓ.natAbs := Nat.cast_nonneg _
+    linarith
+  have heu : 2*(s+(ℓ.natAbs:ℂ)/2)-1 = u := by dsimp [u]; ring
+  have hu0 : 2 < (2*s-1).re := by norm_num [Complex.mul_re,Complex.sub_re]; linarith
+  have hFi (n : Eisenstein) : IntegrableOn (F n) (Ioi 0) := by
+    by_cases hn : n = 0
+    · simp [F,cubicThetaSeriesTerm,hn]
+    · have h := cubicThetaWhittaker_scaled_mellinConvergent hhalf
+        (cubicThetaFrequency_pos hn) (cubicThetaAngularCoefficient a ℓ n)
+      rw [heu] at h
+      simpa [F,MellinConvergent,cubicThetaSeriesTerm,hn,tracePair] using h
+  have hmass (n : Eisenstein) : (∫ v in Ioi (0:ℝ), ‖F n v‖) =
+      (if n = 0 then (0:ℝ) else ‖a n‖*‖cubicThetaFrequency n‖^(-(2*s-1).re))*
+        cubicWhittakerNormMass u.re := by
+    by_cases hn : n = 0
+    · simp [F,cubicThetaSeriesTerm,hn]
+    · have h := cubicWhittaker_norm_integral_scale u (cubicThetaAngularCoefficient a ℓ n)
+        (cubicThetaFrequency_pos hn)
+      have h' : (∫ v in Ioi (0:ℝ), ‖F n v‖) =
+          ‖cubicThetaAngularCoefficient a ℓ n‖*‖cubicThetaFrequency n‖^(-u.re)*
+            cubicWhittakerNormMass u.re := by
+        simpa [F,cubicThetaSeriesTerm,hn,tracePair,mul_assoc] using h
+      rw [h',ite_eq_right hn]
+      dsimp only [u]
+      rw [cubicThetaAngular_weight ℓ hn]
+  have hsum : Summable (fun n : Eisenstein => ∫ v in Ioi (0:ℝ), ‖F n v‖) := by
+    simp_rw [hmass]
+    exact (cubicTheta_mellin_weight_summable hC ha hu0).mul_right _
+  have hinter := integral_tsum_of_summable_integral_norm hFi hsum
+  have hsingle (n : Eisenstein) : (∫ v in Ioi (0:ℝ), F n v) =
+      mellin cubicThetaWhittaker u*(if n = 0 then 0 else
+        theta ℓ n*a n*(‖cubicThetaFrequency n‖:ℂ)^(-(2*s-1))) := by
+    by_cases hn : n = 0
+    · simp [F,cubicThetaSeriesTerm,hn]
+    · have he : (∫ v in Ioi (0:ℝ), F n v) =
+          mellin (fun v : ℝ => cubicThetaAngularCoefficient a ℓ n •
+            cubicThetaWhittaker (‖cubicThetaFrequency n‖*v)) u := by
+        unfold mellin
+        apply setIntegral_congr_fun measurableSet_Ioi
+        intro v _
+        simp [F,cubicThetaSeriesTerm,hn,tracePair]
+      rw [he,mellin_const_smul,mellin_comp_mul_left _ _ (cubicThetaFrequency_pos hn)]
+      simp only [hn,ite_false, if_false,smul_eq_mul]
+      calc
+        _ = mellin cubicThetaWhittaker u*(cubicThetaAngularCoefficient a ℓ n*
+            (‖cubicThetaFrequency n‖:ℂ)^(-u)) := by ring
+        _ = _ := by dsimp only [u]; rw [cubicThetaAngular_dirichlet_term ℓ hn]
+  calc
+    _ = ∫ v in Ioi (0:ℝ), ∑' n : Eisenstein, F n v := by
+      unfold mellin
+      apply setIntegral_congr_fun measurableSet_Ioi
+      intro v _
+      dsimp [F,cubicThetaNonconstant]
+      rw [tsum_mul_left]
+    _ = ∑' n : Eisenstein, ∫ v in Ioi (0:ℝ), F n v := hinter.symm
+    _ = _ := by simp_rw [hsingle]; rw [tsum_mul_left]; rfl
+
+/-- The literal shifted Gamma product for fixed signed angular frequency. -/
+theorem cubicThetaAngular_completed {a : Eisenstein → ℂ} {C : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, ‖a n‖ ≤ C)
+    (ℓ : ℤ) {s : ℂ} (hs : 3/2 < s.re) :
+    mellin (fun v : ℝ => cubicThetaNonconstant (cubicThetaAngularCoefficient a ℓ) (0,v))
+      (2*s+(ℓ.natAbs:ℂ)-1) =
+      (1/4:ℂ)*((2*Real.pi:ℝ):ℂ)^(-2*(s+(ℓ.natAbs:ℂ)/2))*
+        Complex.Gamma (s+(ℓ.natAbs:ℂ)/2+1/6)*Complex.Gamma (s+(ℓ.natAbs:ℂ)/2-1/6)*
+        cubicThetaDirichlet (fun n => theta ℓ n*a n) (2*s-1) := by
+  rw [cubicThetaAngular_mellin hC ha ℓ hs]
+  have hhalf : (1/6:ℝ) < (s+(ℓ.natAbs:ℂ)/2).re := by
+    simp only [Complex.add_re,Complex.div_ofNat_re,Complex.natCast_re]
+    have hk : (0:ℝ) ≤ ℓ.natAbs := Nat.cast_nonneg _
+    linarith
+  have he : 2*s+(ℓ.natAbs:ℂ)-1 = 2*(s+(ℓ.natAbs:ℂ)/2)-1 := by ring
+  rw [he,cubicThetaWhittaker_mellin hhalf]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaHorizontalTower
+attribute [-instance] _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Every signed angular series is an actual iterated horizontal derivative.
+The constant Fourier mode disappears after the first derivative. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaAngularCoefficient_zero (a : Eisenstein → ℂ) :
+    cubicThetaAngularCoefficient a 0=a := by
+  funext n
+  simp [cubicThetaAngularCoefficient]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaAngularFunctionalEquation
+attribute [-instance] _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The functional equation for the actual continued additive angular Dirichlet series.
+Gamma cancellation is required only on the dual side. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaAngular_completion_cancel {q : Eisenstein} (hq : primary q)
+    (k : ℕ) (s : ℂ)
+    (hG₁ : Complex.Gamma (s+(k:ℂ)/2+1/6)≠0)
+    (hG₂ : Complex.Gamma (s+(k:ℂ)/2-1/6)≠0) :
+    cubicThetaAngularCompletion q k s*cubicThetaAngularUncompletion q k s=1 := by
+  have hρ : (cubicThetaLevelScale q:ℂ)≠0 :=
+    Complex.ofReal_ne_zero.mpr (cubicThetaLevelScale_pos hq).ne'
+  have hπ : ((2*Real.pi:ℝ):ℂ)≠0 := Complex.ofReal_ne_zero.mpr (by positivity)
+  have hρp : (cubicThetaLevelScale q:ℂ)^(2*s+(k:ℂ)-1)≠0 :=
+    Complex.cpow_ne_zero_iff.mpr (Or.inl hρ)
+  have hπp : ((2*Real.pi:ℝ):ℂ)^(2*s+(k:ℂ))≠0 :=
+    Complex.cpow_ne_zero_iff.mpr (Or.inl hπ)
+  unfold cubicThetaAngularCompletion cubicThetaAngularUncompletion
+  rw [Complex.cpow_neg,Complex.cpow_neg]
+  calc
+    _ = (((cubicThetaLevelScale q:ℂ)^(2*s+(k:ℂ)-1))⁻¹*
+          (cubicThetaLevelScale q:ℂ)^(2*s+(k:ℂ)-1))*
+        ((((2*Real.pi:ℝ):ℂ)^(2*s+(k:ℂ)))⁻¹*((2*Real.pi:ℝ):ℂ)^(2*s+(k:ℂ)))*
+        (Complex.Gamma (s+(k:ℂ)/2+1/6)*(Complex.Gamma (s+(k:ℂ)/2+1/6))⁻¹)*
+        (Complex.Gamma (s+(k:ℂ)/2-1/6)*(Complex.Gamma (s+(k:ℂ)/2-1/6))⁻¹) := by ring
+    _ = 1 := by rw [inv_mul_cancel₀ hρp,inv_mul_cancel₀ hπp,mul_inv_cancel₀ hG₁,mul_inv_cancel₀ hG₂]; norm_num
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaAngularGammaEquation
+attribute [-instance] _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The actual angular functional equation has the Gamma quotient occurring
+in the published Voronoi transform. No Voronoi identity is used here. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaAngular_archimedean_ratio {q : Eisenstein} (hq : primary q)
+    (rev : Bool) (k : ℕ) (s : ℂ) :
+    cubicThetaAngularUncompletion q k s*cubicThetaAngularCompletion q k (1-s)=
+      (cubicThetaLevelScale q:ℂ)^(4*s-2)*((2*Real.pi:ℝ):ℂ)^(4*s-2)*
+        metaplecticGammaQuotient (cubicThetaCircleOrder rev k) s := by
+  have hρ : (cubicThetaLevelScale q:ℂ)≠0 :=
+    Complex.ofReal_ne_zero.mpr (cubicThetaLevelScale_pos hq).ne'
+  have hπ : ((2*Real.pi:ℝ):ℂ)≠0 := Complex.ofReal_ne_zero.mpr (by positivity)
+  have hkabs : ((|cubicThetaCircleOrder rev k|:ℤ):ℂ)=(k:ℂ) := by
+    cases rev <;> simp [cubicThetaCircleOrder]
+  have hρp : (cubicThetaLevelScale q:ℂ)^(2*s+(k:ℂ)-1)*
+      (cubicThetaLevelScale q:ℂ)^(-(2*(1-s)+(k:ℂ)-1))=
+        (cubicThetaLevelScale q:ℂ)^(4*s-2) := by
+    rw [←Complex.cpow_add _ _ hρ]
+    congr 1
+    ring
+  have hπp : ((2*Real.pi:ℝ):ℂ)^(2*s+(k:ℂ))*
+      ((2*Real.pi:ℝ):ℂ)^(-(2*(1-s)+(k:ℂ)))=((2*Real.pi:ℝ):ℂ)^(4*s-2) := by
+    rw [←Complex.cpow_add _ _ hπ]
+    congr 1
+    ring
+  have hplus : 1-s+(k:ℂ)/2+1/6=7/6+(k:ℂ)/2-s := by ring
+  have hminus : 1-s+(k:ℂ)/2-1/6=5/6+(k:ℂ)/2-s := by ring
+  unfold cubicThetaAngularUncompletion cubicThetaAngularCompletion
+  rw [hplus,hminus]
+  calc
+    _ = ((cubicThetaLevelScale q:ℂ)^(2*s+(k:ℂ)-1)*
+          (cubicThetaLevelScale q:ℂ)^(-(2*(1-s)+(k:ℂ)-1)))*
+        (((2*Real.pi:ℝ):ℂ)^(2*s+(k:ℂ))*((2*Real.pi:ℝ):ℂ)^(-(2*(1-s)+(k:ℂ))))*
+          metaplecticGammaQuotient (cubicThetaCircleOrder rev k) s := by
+      simp only [metaplecticGammaQuotient,hkabs,div_eq_mul_inv,mul_inv_rev]
+      ring
+    _ = _ := by rw [hρp,hπp]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaBoundedScaledMellin
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Entire upper Mellin tails at a positive scale, for the two bounded coefficient families in the actual projected transformation. -/
+noncomputable section
+open Set MeasureTheory Filter Asymptotics
+open scoped Topology
+namespace CubicFirstMoment
+
+lemma cubicThetaBoundedScaledUpper_locallyIntegrable {a : Eisenstein→ℂ} {C : ℝ}
+    (hC : 0≤C) (ha : ∀ n : Eisenstein,n≠0 → ‖a n‖≤C*norm n)
+    (ℓ : ℤ) (z : ℂ) {r : ℝ} (hr : 0 < r) :
+    LocallyIntegrable (thetaUpper (cubicThetaBoundedScaledAxis a ℓ z r)) := by
+  let g : ℝ→ℂ := fun t => cubicThetaNonconstant
+    (cubicThetaAngularCoefficient a ℓ) (z,r*max (1/2) t)
+  have hg : Continuous g := by
+    apply continuous_iff_continuousAt.mpr
+    intro t
+    apply (cubicThetaAngular_continuousAt hC
+      ha ℓ (by positivity : 0 < r*max (1/2) t)).comp
+    fun_prop
+  have he : thetaUpper (cubicThetaBoundedScaledAxis a ℓ z r)=(Ioi 1).indicator g := by
+    funext t
+    by_cases ht : 1<t
+    · simp only [thetaUpper,indicator_of_mem (show t∈Ioi (1:ℝ) from ht),cubicThetaBoundedScaledAxis,g,
+        max_eq_right (by linarith : (1/2:ℝ)≤t)]
+    · simp only [thetaUpper,indicator_of_notMem (show t∉Ioi (1:ℝ) from ht)]
+  rw [he]
+  exact hg.locallyIntegrable.indicator measurableSet_Ioi
+
+lemma cubicThetaBoundedScaledUpper_isBigO {a : Eisenstein→ℂ} {C : ℝ}
+    (hC : 0≤C) (ha : ∀ n : Eisenstein,n≠0 → ‖a n‖≤C*norm n)
+    (ℓ : ℤ) (z : ℂ) {r : ℝ} (hr : 0 < r) :
+    thetaUpper (cubicThetaBoundedScaledAxis a ℓ z r) =O[atTop]
+      (fun t : ℝ => Real.exp (-(Real.pi/18*r)*t)) := by
+  apply IsBigO.of_bound (cubicThetaAngularExpConstant C ℓ)
+  filter_upwards [eventually_ge_atTop (max 2 r⁻¹)] with t ht
+  have ht1 : 1<t := by linarith [le_trans (le_max_left (2:ℝ) r⁻¹) ht]
+  have hrt : 1 ≤ r*t := by
+    have hi : r⁻¹≤t := le_trans (le_max_right (2:ℝ) r⁻¹) ht
+    have h := mul_le_mul_of_nonneg_left hi hr.le
+    simpa only [mul_inv_cancel₀ hr.ne'] using h
+  rw [thetaUpper,indicator_of_mem (show t∈Ioi (1:ℝ) from ht1),cubicThetaBoundedScaledAxis,
+    Real.norm_eq_abs,abs_of_pos (Real.exp_pos _)]
+  simpa only [mul_assoc,neg_mul] using
+    cubicThetaAngular_exponential_bound hC
+      ha ℓ hrt z
+
+lemma cubicThetaBoundedScaledUpper_small (a : Eisenstein→ℂ) (ℓ : ℤ) (z : ℂ) (r : ℝ) (s : ℂ) :
+    thetaUpper (cubicThetaBoundedScaledAxis a ℓ z r) =O[𝓝[>] 0]
+      (fun t : ℝ => t^(-(s.re-1))) := by
+  apply IsBigO.of_bound 0
+  filter_upwards [(eventually_lt_nhds (show (0:ℝ)<1 by norm_num)).filter_mono
+    nhdsWithin_le_nhds] with t ht
+  rw [thetaUpper,indicator_of_notMem (show t∉Ioi (1:ℝ) from not_lt.mpr ht.le),norm_zero]
+  simp
+
+theorem cubicThetaBoundedScaledUpper_mellinConvergent {a : Eisenstein→ℂ} {C : ℝ}
+    (hC : 0≤C) (ha : ∀ n : Eisenstein,n≠0 → ‖a n‖≤C*norm n)
+    (ℓ : ℤ) (z : ℂ) {r : ℝ}
+    (hr : 0 < r) (s : ℂ) : MellinConvergent (thetaUpper (cubicThetaBoundedScaledAxis a ℓ z r)) s := by
+  exact mellinConvergent_of_isBigO_rpow_exp (by positivity : 0<Real.pi/18*r)
+    ((cubicThetaBoundedScaledUpper_locallyIntegrable hC ha ℓ z hr).locallyIntegrableOn _)
+    (cubicThetaBoundedScaledUpper_isBigO hC ha ℓ z hr) (cubicThetaBoundedScaledUpper_small a ℓ z r s)
+    (by linarith)
+
+theorem cubicThetaBoundedScaledUpper_entire {a : Eisenstein→ℂ} {C : ℝ}
+    (hC : 0≤C) (ha : ∀ n : Eisenstein,n≠0 → ‖a n‖≤C*norm n)
+    (ℓ : ℤ) (z : ℂ) {r : ℝ} (hr : 0 < r) :
+    Differentiable ℂ (mellin (thetaUpper (cubicThetaBoundedScaledAxis a ℓ z r))) := by
+  intro s
+  exact mellin_differentiableAt_of_isBigO_rpow_exp (by positivity : 0<Real.pi/18*r)
+    ((cubicThetaBoundedScaledUpper_locallyIntegrable hC ha ℓ z hr).locallyIntegrableOn _)
+    (cubicThetaBoundedScaledUpper_isBigO hC ha ℓ z hr) (cubicThetaBoundedScaledUpper_small a ℓ z r s)
+    (by linarith)
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaPrimaryIndex
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Unique indexing of the primary theta frequencies by the original
+squarefree and cube variables. There is no multiplicity factor. -/
+noncomputable section
+attribute [local instance] Classical.propDecidable
+namespace CubicFirstMoment
+
+/-- Reindex a theta sum over S with exactly one term for each primary
+squarefree-times-cube pair. -/
+theorem cubicThetaPrimary_tsum (f : Eisenstein → ℂ) :
+    (∑' n : Eisenstein, if cubicThetaPrimarySupport n then f n else 0) =
+      ∑' cd : CubicThetaPrimaryPair, f (cubicThetaPrimaryNumerator cd) := by
+  calc
+    _ = ∑' n : {n // cubicThetaPrimarySupport n}, f n := by
+      exact (tsum_subtype {n | cubicThetaPrimarySupport n} f).symm
+    _ = _ := (cubicThetaPrimaryIndexEquiv.tsum_eq (fun n => f n)).symm
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaGaussMellin
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Mellin transform of the literal primary Gauss expansion. All terms
+are identified before applying the already proved absolute interchange. -/
+noncomputable section
+attribute [local instance] Classical.propDecidable
+namespace CubicFirstMoment
+
+lemma cubicThetaPrimaryFrequency_sq (cd : CubicThetaPrimaryPair) :
+    ‖cubicThetaFrequency (cubicThetaPrimaryNumerator cd)‖^2 =
+      norm cd.val.1*norm cd.val.2^3/27 := by
+  rw [cubicThetaFrequency_sq]
+  unfold cubicThetaPrimaryNumerator norm
+  simp only [Subalgebra.coe_mul,Subalgebra.coe_pow,Complex.normSq_mul,map_pow,
+    lambdaE_coe,traceLambda_normSq]
+  ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaDirichletBounds
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Absolute convergence gives uniform bounds on each initial vertical line. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaDirichletNormMass_nonneg (σ : ℝ) : 0 ≤ cubicThetaDirichletNormMass σ := by
+  apply tsum_nonneg
+  intro n
+  split_ifs
+  · exact le_rfl
+  · exact Real.rpow_nonneg (_root_.norm_nonneg _) _
+
+lemma cubicThetaDirichletNormMass_summable {σ : ℝ} (hσ : 2<σ) :
+    Summable (fun n : Eisenstein => if n=0 then 0 else ‖cubicThetaFrequency n‖^(-σ)) := by
+  simpa only [norm_one,one_mul] using cubicTheta_mellin_weight_summable
+    (a := fun _ : Eisenstein => (1:ℂ)) (by norm_num : (0:ℝ)≤1)
+      (fun _ => by norm_num) hσ
+
+theorem cubicThetaDirichlet_norm_le {a : Eisenstein→ℂ} {C σ : ℝ}
+    (ha : ∀ n : Eisenstein,n≠0 → ‖a n‖≤C) (hσ : 2<σ)
+    (s : ℂ) (hs : s.re=σ) :
+    ‖cubicThetaDirichlet a s‖≤C*cubicThetaDirichletNormMass σ := by
+  let w := fun n : Eisenstein => if n=0 then 0 else ‖cubicThetaFrequency n‖^(-σ)
+  have hw := cubicThetaDirichletNormMass_summable hσ
+  have hb (n : Eisenstein) : ‖if n=0 then (0:ℂ) else a n*(‖cubicThetaFrequency n‖:ℂ)^(-s)‖≤C*w n := by
+    by_cases hn : n=0
+    · simp [hn,w]
+    · simp only [hn,ite_false, if_false,w,norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos
+        (cubicThetaFrequency_pos hn),Complex.neg_re,hs]
+      exact mul_le_mul_of_nonneg_right (ha n hn) (Real.rpow_nonneg (_root_.norm_nonneg _) _)
+  have hsum : Summable (fun n : Eisenstein => if n=0 then (0:ℂ) else
+      a n*(‖cubicThetaFrequency n‖:ℂ)^(-s)) := (hw.mul_left C).of_norm_bounded hb
+  calc
+    _ ≤ ∑' n, ‖if n=0 then (0:ℂ) else a n*(‖cubicThetaFrequency n‖:ℂ)^(-s)‖ :=
+      norm_tsum_le_tsum_norm hsum.norm
+    _ ≤ ∑' n, C*w n := Summable.tsum_le_tsum hb hsum.norm (hw.mul_left C)
+    _ = _ := tsum_mul_left
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Transform_MetaplecticTransformBounds
+attribute [-instance] _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Bounds for the literal angular Voronoi transform. Its Gamma quotient
+is a product of two ordinary shifted Hecke quotients, so the only
+special-function input is the same precise DLMF bounded-strip estimate. -/
+noncomputable section
+open MeasureTheory Set
+open scoped ContDiff
+namespace CubicFirstMoment
+
+lemma metaplecticAngularShift_nonneg (ℓ : ℤ) : 0 ≤ metaplecticAngularShift ℓ := by
+  unfold metaplecticAngularShift
+  positivity
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Transform_MetaplecticGammaRecurrence
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Exact far-left metaplectic Gamma growth from the finite recurrence.
+Choosing Re s = 1/2-m gives the sharp height exponent 4m = 2+4A,
+A=m-1/2. No additional Stirling or completed-height input is needed. -/
+noncomputable section
+namespace CubicFirstMoment
+
+private lemma metaplectic_ascPochhammer_norm (n : ℕ) (z : ℂ) :
+    ‖(ascPochhammer ℂ n).eval z‖ ≤ (‖z‖+(n:ℝ))^n := by
+  induction n with
+  | zero => simp
+  | succ n ih =>
+    rw [ascPochhammer_succ_eval,norm_mul]
+    have hn : ‖z+(n:ℂ)‖ ≤ ‖z‖+(n:ℝ) := by simpa using norm_add_le z (n:ℂ)
+    calc
+      _ ≤ (‖z‖+(n:ℝ))^n*(‖z‖+(n:ℝ)) :=
+        mul_le_mul ih hn (_root_.norm_nonneg _) (by positivity)
+      _ = (‖z‖+(n:ℝ))^(n+1) := (pow_succ _ _).symm
+      _ ≤ (‖z‖+((n+1:ℕ):ℝ))^(n+1) := by
+        apply pow_le_pow_left₀ (by positivity)
+        push_cast
+        linarith
+
+/-- A symmetric Gamma ratio for any fixed real shift, retaining the
+zero values at the totalized Gamma poles. -/
+lemma metaplectic_symmetric_gamma_ratio (k : ℝ) (m : ℕ) (t : ℝ) :
+    ‖Complex.Gamma ((1/2:ℂ)+(m:ℂ)+(k:ℂ)-(t:ℂ)*Complex.I) /
+      Complex.Gamma ((1/2:ℂ)-(m:ℂ)+(k:ℂ)+(t:ℂ)*Complex.I)‖ ≤
+      (|k|+3*(m:ℝ)+1)^(2*m)*(1+|t|)^(2*m) := by
+  let z : ℂ := (1/2:ℂ)-(m:ℂ)+(k:ℂ)+(t:ℂ)*Complex.I
+  by_cases hG : Complex.Gamma z = 0
+  · change ‖_ / Complex.Gamma z‖ ≤ _
+    rw [hG,div_zero,norm_zero]
+    positivity
+  have hreg : ∀ n : ℕ, z ≠ -(n:ℂ) := by
+    intro n hn
+    apply hG
+    rw [hn,Complex.Gamma_neg_nat_eq_zero]
+  have he : ((1/2:ℂ)+(m:ℂ)+(k:ℂ)-(t:ℂ)*Complex.I) =
+      starRingEnd ℂ (z+(2*m:ℕ)) := by
+    dsimp [z]
+    simp only [map_add,map_sub,map_mul,Complex.conj_ofReal,Complex.conj_I,
+      map_natCast,map_div₀,map_one,map_ofNat]
+    push_cast
+    ring
+  have hq := Complex.Gamma_add_nat_div_Gamma_eq (n := 2*m) z hreg
+  have hn : ‖z‖ ≤ |k|+(m:ℝ)+1+|t| := by
+    calc
+      _ ≤ ‖(1/2:ℂ)-(m:ℂ)+(k:ℂ)‖+‖(t:ℂ)*Complex.I‖ := norm_add_le _ _
+      _ ≤ ‖(1/2:ℂ)-(m:ℂ)‖+‖(k:ℂ)‖+‖(t:ℂ)*Complex.I‖ := by
+        gcongr
+        exact norm_add_le _ _
+      _ ≤ ‖(1/2:ℂ)‖+‖(m:ℂ)‖+‖(k:ℂ)‖+‖(t:ℂ)*Complex.I‖ := by
+        gcongr
+        exact norm_sub_le _ _
+      _ ≤ _ := by simp; linarith
+  calc
+    _ = ‖Complex.Gamma (z+(2*m:ℕ))/Complex.Gamma z‖ := by
+      rw [he,Complex.Gamma_conj,norm_div,norm_div,Complex.norm_conj]
+    _ = ‖(ascPochhammer ℂ (2*m)).eval z‖ := congrArg (fun w : ℂ => ‖w‖) hq
+    _ ≤ (‖z‖+((2*m:ℕ):ℝ))^(2*m) := metaplectic_ascPochhammer_norm _ _
+    _ ≤ ((|k|+3*(m:ℝ)+1)*(1+|t|))^(2*m) := by
+      apply pow_le_pow_left₀ (by positivity)
+      push_cast
+      nlinarith [abs_nonneg k,abs_nonneg t,show (0:ℝ) ≤ m by positivity]
+    _ = _ := mul_pow _ _ _
+
+lemma metaplecticGamma_symmetric_factor (ℓ : ℤ) (m : ℕ) (t : ℝ) :
+    metaplecticGammaQuotient ℓ ((1/2:ℂ)-(m:ℂ)+(t:ℂ)*Complex.I) =
+      (Complex.Gamma ((1/2:ℂ)+(m:ℂ)+((metaplecticAngularShift ℓ-1/6:ℝ):ℂ)-(t:ℂ)*Complex.I) /
+       Complex.Gamma ((1/2:ℂ)-(m:ℂ)+((metaplecticAngularShift ℓ-1/6:ℝ):ℂ)+(t:ℂ)*Complex.I)) *
+      (Complex.Gamma ((1/2:ℂ)+(m:ℂ)+((metaplecticAngularShift ℓ+1/6:ℝ):ℂ)-(t:ℂ)*Complex.I) /
+       Complex.Gamma ((1/2:ℂ)-(m:ℂ)+((metaplecticAngularShift ℓ+1/6:ℝ):ℂ)+(t:ℂ)*Complex.I)) := by
+  have hk : (metaplecticAngularShift ℓ:ℂ) = (|ℓ|:ℤ)/2 := by
+    simp only [metaplecticAngularShift,Complex.ofReal_div,Complex.ofReal_intCast,Complex.ofReal_ofNat]
+  unfold metaplecticGammaQuotient
+  have h1 : 5/6+(|ℓ|:ℤ)/2-((1/2:ℂ)-(m:ℂ)+(t:ℂ)*Complex.I) =
+      (1/2:ℂ)+(m:ℂ)+((metaplecticAngularShift ℓ-1/6:ℝ):ℂ)-(t:ℂ)*Complex.I := by
+    push_cast
+    rw [hk]
+    ring
+  have h2 : 7/6+(|ℓ|:ℤ)/2-((1/2:ℂ)-(m:ℂ)+(t:ℂ)*Complex.I) =
+      (1/2:ℂ)+(m:ℂ)+((metaplecticAngularShift ℓ+1/6:ℝ):ℂ)-(t:ℂ)*Complex.I := by
+    push_cast
+    rw [hk]
+    ring
+  have h3 : (1/2:ℂ)-(m:ℂ)+(t:ℂ)*Complex.I+(|ℓ|:ℤ)/2-1/6 =
+      (1/2:ℂ)-(m:ℂ)+((metaplecticAngularShift ℓ-1/6:ℝ):ℂ)+(t:ℂ)*Complex.I := by
+    push_cast
+    rw [hk]
+    ring
+  have h4 : (1/2:ℂ)-(m:ℂ)+(t:ℂ)*Complex.I+(|ℓ|:ℤ)/2+1/6 =
+      (1/2:ℂ)-(m:ℂ)+((metaplecticAngularShift ℓ+1/6:ℝ):ℂ)+(t:ℂ)*Complex.I := by
+    push_cast
+    rw [hk]
+    ring
+  rw [h1,h2,h3,h4]
+  ring
+
+/-- Sharp exponent on the far-left half-integral lines, sufficient for
+arbitrary-power angular dual truncation. Constants depend only on ℓ,m. -/
+theorem metaplecticGamma_half_integer_bound (ℓ : ℤ) (m : ℕ) :
+    ∃ C : ℝ, 0 < C ∧ ∀ t : ℝ,
+      ‖metaplecticGammaQuotient ℓ ((1/2:ℂ)-(m:ℂ)+(t:ℂ)*Complex.I)‖ ≤
+        C*(1+|t|)^(4*m) := by
+  let k := metaplecticAngularShift ℓ
+  let A := (|k-1/6|+3*(m:ℝ)+1)^(2*m)
+  let B := (|k+1/6|+3*(m:ℝ)+1)^(2*m)
+  have hA : 0 < A := pow_pos (by positivity) _
+  have hB : 0 < B := pow_pos (by positivity) _
+  refine ⟨A*B,mul_pos hA hB,?_⟩
+  intro t
+  rw [metaplecticGamma_symmetric_factor,norm_mul]
+  have hminus := metaplectic_symmetric_gamma_ratio (k-1/6) m t
+  have hplus := metaplectic_symmetric_gamma_ratio (k+1/6) m t
+  calc
+    _ ≤ (A*(1+|t|)^(2*m))*(B*(1+|t|)^(2*m)) :=
+      mul_le_mul hminus hplus (_root_.norm_nonneg _) (by positivity)
+    _ = _ := by
+      rw [show 4*m = 2*m+2*m by omega,pow_add]
+      ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaSmoothMellin
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Mellin inversion for the literal arithmetic frequency coefficients.
+The coefficient carries one frequency norm, so its Dirichlet variable is
+`2*s-1`, exactly as in the theta Gamma completion. -/
+noncomputable section
+open MeasureTheory Set
+open scoped ContDiff
+attribute [local instance] Classical.propDecidable
+namespace CubicFirstMoment
+
+lemma cubicThetaDirichlet_nonzero (a : Eisenstein→ℂ) (s : ℂ) :
+    cubicThetaDirichlet a s = ∑' n : MetaplecticDualArgument,
+      a n.val*(‖cubicThetaFrequency n.val‖:ℂ)^(-s) := by
+  unfold cubicThetaDirichlet
+  have hs : Function.support (fun n : Eisenstein =>
+      if n=0 then (0:ℂ) else a n*(‖cubicThetaFrequency n‖:ℂ)^(-s)) ⊆ {n | n≠0} := by
+    intro n hn hz
+    exact hn (by simp [hz])
+  rw [←tsum_subtype_eq_of_support_subset hs]
+  apply tsum_congr
+  intro n
+  exact ite_eq_right n.property
+
+lemma cubicTheta_norm_square_power {r : ℝ} (hr : 0 < r) (s : ℂ) :
+    (r:ℂ)*((r^2:ℝ):ℂ)^(-s) = (r:ℂ)^(-(2*s-1)) := by
+  rw [Complex.ofReal_pow,←Complex.cpow_nat_mul'
+    (by simpa [Complex.arg_ofReal_of_nonneg hr.le] using neg_neg_of_pos Real.pi_pos)
+    (by simpa [Complex.arg_ofReal_of_nonneg hr.le] using Real.pi_pos.le)]
+  calc
+    _ = (r:ℂ)^((1:ℂ)+(2:ℂ)*(-s)) := by
+      rw [Complex.cpow_add _ _ (Complex.ofReal_ne_zero.mpr hr.ne'),Complex.cpow_one]
+      norm_num
+    _ = _ := by congr 1; ring
+
+lemma cubicTheta_norm_square_weight {r : ℝ} (hr : 0 < r) (σ : ℝ) :
+    r*(r^2)^(-σ) = r^(-(2*σ-1)) := by
+  rw [←Real.rpow_natCast r 2,←Real.rpow_mul hr.le]
+  calc
+    _ = r^(1+(2:ℝ)*(-σ)) := by rw [Real.rpow_add hr,Real.rpow_one]; norm_num
+    _ = _ := by congr 1; ring
+
+lemma cubicTheta_normDirichlet (a : Eisenstein→ℂ) (s : ℂ) :
+    normDirichletSeries
+      (fun n : MetaplecticDualArgument => a n.val*(‖cubicThetaFrequency n.val‖:ℂ))
+      (fun n : MetaplecticDualArgument => ‖cubicThetaFrequency n.val‖^2) s =
+        cubicThetaDirichlet a (2*s-1) := by
+  rw [cubicThetaDirichlet_nonzero]
+  unfold normDirichletSeries
+  apply tsum_congr
+  intro n
+  rw [mul_assoc,cubicTheta_norm_square_power (cubicThetaFrequency_pos n.property)]
+
+theorem cubicTheta_smooth_mellin {a : Eisenstein→ℂ} {C : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, ‖a n‖ ≤ C)
+    (W : ℝ→ℂ) (hW : HasCompactSupport W) (hpos : tsupport W ⊆ Ioi 0)
+    (hsm : ContDiff ℝ ∞ W) {σ Z : ℝ} (hσ : 3/2<σ) (hZ : 0<Z) :
+    (∑' n : MetaplecticDualArgument,
+      a n.val*(‖cubicThetaFrequency n.val‖:ℂ)*W (‖cubicThetaFrequency n.val‖^2/Z)) =
+    ((1/(2*Real.pi):ℝ):ℂ)*∫ t : ℝ,
+      mellin W (σ+(t:ℂ)*Complex.I)*(Z:ℂ)^(σ+(t:ℂ)*Complex.I)*
+        cubicThetaDirichlet a (2*(σ+(t:ℂ)*Complex.I)-1) := by
+  let : Countable Eisenstein := coordinatesEquiv.symm.injective.countable
+  have habs := (cubicTheta_mellin_weight_summable hC ha
+    (by linarith : 2<2*σ-1)).subtype (fun n : Eisenstein => n≠0)
+  have hnorm : Summable (fun n : MetaplecticDualArgument =>
+      ‖a n.val*(‖cubicThetaFrequency n.val‖:ℂ)‖*(‖cubicThetaFrequency n.val‖^2)^(-σ)) := by
+    convert habs using 1
+    all_goals try with_reducible_and_instances rfl
+    funext n
+    simp only [Function.comp_apply,n.property,ite_false, if_false,norm_mul,Complex.norm_real,Real.norm_eq_abs,
+      abs_of_nonneg (_root_.norm_nonneg _)]
+    rw [mul_assoc,cubicTheta_norm_square_weight (cubicThetaFrequency_pos n.property)]
+  have H := smooth_mellin_series
+    (fun n : MetaplecticDualArgument => a n.val*(‖cubicThetaFrequency n.val‖:ℂ))
+    (fun n : MetaplecticDualArgument => ‖cubicThetaFrequency n.val‖^2)
+    (fun n => sq_pos_of_pos (cubicThetaFrequency_pos n.property)) W hW hpos hsm σ hnorm hZ
+  simpa only [cubicTheta_normDirichlet] using H
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaDirichletIntegral
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Absolute interchange for the actual frequency Dirichlet series along
+a vertical line. This will be applied to the dual series on a far-left
+Mellin contour, where its argument has real part greater than two. -/
+noncomputable section
+open MeasureTheory
+namespace CubicFirstMoment
+
+theorem cubicThetaDirichlet_integral_summable {a : Eisenstein→ℂ} {C σ : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, ‖a n‖ ≤ C) (hσ : 2<σ)
+    (u : ℝ→ℂ) (hre : ∀ t, (u t).re=σ)
+    (H : ℝ→ℂ) (hH : Integrable H) :
+    Summable (fun n : MetaplecticDualArgument =>
+      a n.val*∫ t : ℝ, H t*(‖cubicThetaFrequency n.val‖:ℂ)^(-u t)) := by
+  have hw := (cubicTheta_mellin_weight_summable hC ha hσ).subtype
+    (fun n : Eisenstein => n≠0)
+  have hw' : Summable (fun n : MetaplecticDualArgument =>
+      ‖a n.val‖*‖cubicThetaFrequency n.val‖^(-σ)) := hw.congr (fun n => by
+    dsimp only [Function.comp_apply]
+    exact ite_eq_right n.property)
+  apply (hw'.mul_right (∫ t : ℝ, ‖H t‖)).of_norm_bounded
+  intro n
+  rw [norm_mul]
+  have hbound : ‖∫ t : ℝ, H t*(‖cubicThetaFrequency n.val‖:ℂ)^(-u t)‖ ≤
+      ‖cubicThetaFrequency n.val‖^(-σ)*(∫ t : ℝ, ‖H t‖) := by
+    rw [←integral_const_mul]
+    apply norm_integral_le_of_norm_le (hH.norm.const_mul _)
+    filter_upwards with t
+    rw [norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos
+      (cubicThetaFrequency_pos n.property),Complex.neg_re,hre]
+    exact le_of_eq (mul_comm _ _)
+  exact (mul_le_mul_of_nonneg_left hbound (_root_.norm_nonneg _)).trans_eq (mul_assoc _ _ _).symm
+
+theorem cubicThetaDirichlet_integral {a : Eisenstein→ℂ} {C σ : ℝ}
+    (hC : 0 ≤ C) (ha : ∀ n : Eisenstein, ‖a n‖ ≤ C) (hσ : 2<σ)
+    (u : ℝ→ℂ) (hu : Continuous u) (hre : ∀ t, (u t).re=σ)
+    (H : ℝ→ℂ) (hH : Integrable H) :
+    (∫ t : ℝ, H t*cubicThetaDirichlet a (u t)) =
+      ∑' n : MetaplecticDualArgument,
+        a n.val*∫ t : ℝ, H t*(‖cubicThetaFrequency n.val‖:ℂ)^(-u t) := by
+  let : Countable Eisenstein := coordinatesEquiv.symm.injective.countable
+  let F (n : MetaplecticDualArgument) (t : ℝ) : ℂ :=
+    H t*(a n.val*(‖cubicThetaFrequency n.val‖:ℂ)^(-u t))
+  have hn (n : MetaplecticDualArgument) (t : ℝ) :
+      ‖F n t‖=(‖a n.val‖*‖cubicThetaFrequency n.val‖^(-σ))*‖H t‖ := by
+    dsimp only [F]
+    rw [norm_mul,norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos
+      (cubicThetaFrequency_pos n.property),Complex.neg_re,hre]
+    ring
+  have hFi (n : MetaplecticDualArgument) : Integrable (F n) := by
+    have : NeZero (‖cubicThetaFrequency n.val‖:ℂ) :=
+      ⟨Complex.ofReal_ne_zero.mpr (cubicThetaFrequency_pos n.property).ne'⟩
+    have hc : Continuous (fun t => a n.val*(‖cubicThetaFrequency n.val‖:ℂ)^(-u t)) :=
+      continuous_const.mul ((differentiable_const_cpow_of_neZero _).continuous.comp hu.neg)
+    exact (hH.norm.const_mul _).mono' (hH.aestronglyMeasurable.mul hc.aestronglyMeasurable)
+      (Filter.Eventually.of_forall (fun t => (hn n t).le))
+  have hw := (cubicTheta_mellin_weight_summable hC ha hσ).subtype
+    (fun n : Eisenstein => n≠0)
+  have hmass (n : MetaplecticDualArgument) : (∫ t : ℝ, ‖F n t‖) =
+      (‖a n.val‖*‖cubicThetaFrequency n.val‖^(-σ))*(∫ t : ℝ, ‖H t‖) := by
+    simp_rw [hn]
+    rw [integral_const_mul]
+  have hsum : Summable (fun n : MetaplecticDualArgument => ∫ t : ℝ, ‖F n t‖) := by
+    have hw' : Summable (fun n : MetaplecticDualArgument =>
+        ‖a n.val‖*‖cubicThetaFrequency n.val‖^(-σ)) := hw.congr (fun n => by
+      dsimp only [Function.comp_apply]
+      exact ite_eq_right n.property)
+    simpa only [hmass] using hw'.mul_right (∫ t : ℝ, ‖H t‖)
+  have hinter := integral_tsum_of_summable_integral_norm hFi hsum
+  calc
+    _ = ∫ t : ℝ, ∑' n : MetaplecticDualArgument, F n t := by
+      apply integral_congr_ae
+      filter_upwards with t
+      rw [cubicThetaDirichlet_nonzero,tsum_mul_left]
+    _ = ∑' n : MetaplecticDualArgument, ∫ t : ℝ, F n t := hinter.symm
+    _ = _ := by
+      apply tsum_congr
+      intro n
+      rw [←integral_const_mul]
+      congr 1
+      funext t
+      dsimp [F]
+      ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaMellinPowers
+attribute [-instance] _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Exact positive-real power bookkeeping for the additive theta transform. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicTheta_cpow_affine {r : ℝ} (hr : 0 < r) (j : ℝ) (c s : ℂ) :
+    (r:ℂ)^((j:ℂ)*s+c) = (r:ℂ)^c*((r^j:ℝ):ℂ)^s := by
+  rw [Complex.cpow_add _ _ (Complex.ofReal_ne_zero.mpr hr.ne'),
+    Complex.cpow_mul_ofReal_nonneg hr.le]
+  ring
+
+lemma cubicThetaDualPrefactor_ne_zero {q : Eisenstein} (hq : primary q) :
+    cubicThetaDualPrefactor q≠0 := by
+  apply mul_ne_zero
+  · exact Complex.cpow_ne_zero_iff.mpr (Or.inl
+      (Complex.ofReal_ne_zero.mpr (cubicThetaLevelScale_pos hq).ne'))
+  · exact Complex.cpow_ne_zero_iff.mpr (Or.inl (Complex.ofReal_ne_zero.mpr (by positivity)))
+
+lemma cubicThetaDualScale_pos {q : Eisenstein} (hq : primary q) {Z : ℝ} (hZ : 0<Z) :
+    0 < cubicThetaDualScale q Z := by
+  unfold cubicThetaDualScale
+  positivity [cubicThetaLevelScale_pos hq]
+
+lemma cubicTheta_dual_power {q : Eisenstein} (hq : primary q) {Z r : ℝ}
+    (hZ : 0<Z) (hr : 0 < r) (s : ℂ) :
+    (Z:ℂ)^s*(cubicThetaLevelScale q:ℂ)^(4*s-2)*
+      ((2*Real.pi:ℝ):ℂ)^(4*s-2)*(r:ℂ)^(-(2*(1-s)-1)) =
+    (cubicThetaLevelScale q:ℂ)^(-2:ℂ)*((2*Real.pi:ℝ):ℂ)^(-2:ℂ)*(r:ℂ)^(-1:ℂ)*
+      ((cubicThetaDualScale q Z*r^2:ℝ):ℂ)^s := by
+  have hρ := cubicThetaLevelScale_pos hq
+  have hπ : 0<2*Real.pi := by positivity
+  have hp (v : ℝ) (hv : 0<v) :
+      (v:ℂ)^(4*s-2) = (v:ℂ)^(-2:ℂ)*((v^4:ℝ):ℂ)^s := by
+    simpa only [Complex.ofReal_ofNat,Complex.ofReal_neg,sub_eq_add_neg,
+      Real.rpow_ofNat] using cubicTheta_cpow_affine hv 4 (-2) s
+  have hrp : (r:ℂ)^(-(2*(1-s)-1)) = (r:ℂ)^(-1:ℂ)*((r^2:ℝ):ℂ)^s := by
+    have H := cubicTheta_cpow_affine hr 2 (-1) s
+    norm_num only [Complex.ofReal_ofNat,Real.rpow_ofNat] at H
+    rw [show -(2*(1-s)-1)=(2:ℂ)*s+ -1 by ring]
+    exact H
+  rw [hp _ hρ,hp _ hπ,hrp]
+  have hm (u v : ℝ) (hu : 0 ≤ u) (hv : 0 ≤ v) :
+      ((u*v:ℝ):ℂ)^s=(u:ℂ)^s*(v:ℂ)^s := by
+    rw [Complex.ofReal_mul,Complex.mul_cpow_ofReal_nonneg hu hv]
+  simp only [cubicThetaDualScale]
+  rw [hm _ _ (by positivity) (sq_nonneg r),
+    hm _ _ (by positivity) hZ.le,hm _ _ (by positivity) (by positivity)]
+  ring
+
+lemma cubicTheta_archimedean_power {q : Eisenstein} (hq : primary q) {Z : ℝ}
+    (hZ : 0<Z) (s : ℂ) :
+    (Z:ℂ)^s*(cubicThetaLevelScale q:ℂ)^(4*s-2)*
+      ((2*Real.pi:ℝ):ℂ)^(4*s-2) =
+        cubicThetaDualPrefactor q*(cubicThetaDualScale q Z:ℂ)^s := by
+  simpa only [Complex.ofReal_one,Complex.one_cpow,mul_one,one_pow,
+    cubicThetaDualPrefactor] using cubicTheta_dual_power hq hZ (r:=1) zero_lt_one s
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Transform_MetaplecticTransformContour
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Contour motion for the actual angular metaplectic transform. The two
+fixed shifted Hecke Gamma strip estimates are the same published Stirling
+input already used for the individual Hecke transforms. -/
+noncomputable section
+open MeasureTheory Set
+open scoped ContDiff
+namespace CubicFirstMoment
+
+lemma metaplecticGamma_shift_factor (ℓ : ℤ) (s : ℂ) :
+    metaplecticGammaQuotient ℓ s =
+      angularGammaFEQuotient (metaplecticAngularShift ℓ-1/6) s *
+      angularGammaFEQuotient (metaplecticAngularShift ℓ+1/6) s := by
+  have hk : (metaplecticAngularShift ℓ:ℂ) = (|ℓ|:ℤ)/2 := by
+    simp only [metaplecticAngularShift,Complex.ofReal_div,Complex.ofReal_intCast,
+      Complex.ofReal_ofNat]
+  unfold metaplecticGammaQuotient angularGammaFEQuotient
+  push_cast
+  rw [hk]
+  have h1 : 1-s+((|ℓ|:ℤ)/2-1/6) = 5/6+(|ℓ|:ℤ)/2-s := by ring
+  have h2 : 1-s+((|ℓ|:ℤ)/2+1/6) = 7/6+(|ℓ|:ℤ)/2-s := by ring
+  have h3 : s+((|ℓ|:ℤ)/2-1/6) = s+(|ℓ|:ℤ)/2-1/6 := by ring
+  have h4 : s+((|ℓ|:ℤ)/2+1/6) = s+(|ℓ|:ℤ)/2+1/6 := by ring
+  rw [h1,h2,h3,h4]
+  ring
+
+lemma metaplecticGamma_strip_bound (ℓ : ℤ) (a : ℝ)
+    (hm : AngularGammaQuotientStripBound (metaplecticAngularShift ℓ-1/6) a)
+    (hp : AngularGammaQuotientStripBound (metaplecticAngularShift ℓ+1/6) a) :
+    ∃ (C : ℝ) (N : ℕ), 0 ≤ C ∧ ∀ σ ∈ Icc a (1/2:ℝ), ∀ t : ℝ,
+      ‖metaplecticGammaQuotient ℓ (σ+(t:ℂ)*Complex.I)‖ ≤ C*(1+|t|)^N := by
+  obtain ⟨Cm,Nm,hCm,hgm⟩ := hm
+  obtain ⟨Cp,Np,hCp,hgp⟩ := hp
+  refine ⟨Cm*Cp,Nm+Np,mul_nonneg hCm hCp,?_⟩
+  intro σ hσ t
+  rw [metaplecticGamma_shift_factor,norm_mul]
+  calc
+    _ ≤ (Cm*(1+|t|)^Nm)*(Cp*(1+|t|)^Np) :=
+      mul_le_mul (hgm σ hσ t) (hgp σ hσ t) (_root_.norm_nonneg _) (by positivity)
+    _ = _ := by rw [pow_add]; ring
+
+lemma differentiableOn_metaplecticGammaQuotient (ℓ : ℤ) :
+    DifferentiableOn ℂ (metaplecticGammaQuotient ℓ) {s : ℂ | s.re < 5/6} := by
+  intro s hs
+  have hk : 0 ≤ ((|ℓ|:ℤ):ℝ)/2 := by positivity
+  have hreg (c : ℝ) (hc : 5/6 ≤ c) :
+      ∀ n : ℕ, (c:ℂ)+(|ℓ|:ℤ)/2-s ≠ -(n:ℂ) := by
+    intro n hn
+    have he := congrArg Complex.re hn
+    simp only [Complex.sub_re,Complex.add_re,Complex.div_ofNat_re,Complex.ofReal_re,
+      Complex.intCast_re,Complex.neg_re,Complex.natCast_re] at he
+    change s.re < 5/6 at hs
+    have hn0 : (0:ℝ) ≤ n := by positivity
+    linarith
+  have h1 := (Complex.differentiableAt_Gamma ((5/6:ℂ)+(|ℓ|:ℤ)/2-s)
+    (by simpa using hreg (5/6) le_rfl)).comp s
+    (show DifferentiableAt ℂ (fun z : ℂ => (5/6:ℂ)+(|ℓ|:ℤ)/2-z) s by fun_prop)
+  have h2 := (Complex.differentiableAt_Gamma ((7/6:ℂ)+(|ℓ|:ℤ)/2-s)
+    (by simpa using hreg (7/6) (by norm_num))).comp s
+    (show DifferentiableAt ℂ (fun z : ℂ => (7/6:ℂ)+(|ℓ|:ℤ)/2-z) s by fun_prop)
+  have h3 := (Complex.differentiable_one_div_Gamma (s+(|ℓ|:ℤ)/2-1/6)).comp s
+    (show DifferentiableAt ℂ (fun z : ℂ => z+(|ℓ|:ℤ)/2-1/6) s by fun_prop)
+  have h4 := (Complex.differentiable_one_div_Gamma (s+(|ℓ|:ℤ)/2+1/6)).comp s
+    (show DifferentiableAt ℂ (fun z : ℂ => z+(|ℓ|:ℤ)/2+1/6) s by fun_prop)
+  convert ((h1.mul h2).mul (h3.mul h4)).differentiableWithinAt using 1
+  all_goals try with_reducible_and_instances rfl
+  ext z
+  dsimp [metaplecticGammaQuotient]
+  ring
+
+private lemma metaplectic_scale_strip {a b v : ℝ} (hv : 0 < v)
+    {σ : ℝ} (hσ : σ ∈ Icc a b) :
+    v^σ ≤ max (v^a) (v^b) := by
+  by_cases h : 1 ≤ v
+  · exact (Real.rpow_le_rpow_of_exponent_le h hσ.2).trans (le_max_right _ _)
+  · exact (Real.rpow_le_rpow_of_exponent_ge hv (le_of_not_ge h) hσ.1).trans (le_max_left _ _)
+
+/-- Exact vertical contour move for the transform integrand. The scale
+may lie on either side of one. -/
+theorem metaplectic_transform_contour (ℓ : ℤ) (W : ℝ → ℂ)
+    (hW : HasCompactSupport W) (hpos : tsupport W ⊆ Ioi 0)
+    (hsm : ContDiff ℝ ∞ W) {a b v : ℝ} (hab : a ≤ b) (hb : b ≤ 1/2)
+    (hv : 0 < v)
+    (hm : AngularGammaQuotientStripBound (metaplecticAngularShift ℓ-1/6) a)
+    (hp : AngularGammaQuotientStripBound (metaplecticAngularShift ℓ+1/6) a) :
+    (∫ t : ℝ, (v:ℂ)^((a:ℂ)+(t:ℂ)*Complex.I)*
+      metaplecticGammaQuotient ℓ ((a:ℂ)+(t:ℂ)*Complex.I)*
+      mellin W ((a:ℂ)+(t:ℂ)*Complex.I)) =
+    ∫ t : ℝ, (v:ℂ)^((b:ℂ)+(t:ℂ)*Complex.I)*
+      metaplecticGammaQuotient ℓ ((b:ℂ)+(t:ℂ)*Complex.I)*
+      mellin W ((b:ℂ)+(t:ℂ)*Complex.I) := by
+  obtain ⟨C,N,hC,hQ⟩ := metaplecticGamma_strip_bound ℓ a hm hp
+  let L : ℂ → ℂ := fun s => (v:ℂ)^s*metaplecticGammaQuotient ℓ s
+  let D : ℝ := max (v^a) (v^b)*C
+  have hD : 0 ≤ D := by dsimp [D]; positivity
+  have hg (σ : ℝ) (hσ : σ ∈ Icc a b) (t : ℝ) :
+      ‖L (σ+((t-0:ℝ):ℂ)*Complex.I)‖ ≤ D*(1+|t-0|)^N := by
+    simp only [sub_zero]
+    dsimp [L]
+    rw [norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos hv]
+    simp only [Complex.add_re,Complex.ofReal_re,Complex.mul_re,Complex.ofReal_im,
+      Complex.I_re,Complex.I_im,mul_zero,zero_mul,sub_zero,add_zero]
+    calc
+      _ ≤ max (v^a) (v^b)*(C*(1+|t|)^N) :=
+        mul_le_mul (metaplectic_scale_strip hv hσ) (hQ σ ⟨hσ.1,hσ.2.trans hb⟩ t)
+          (_root_.norm_nonneg _) (by positivity)
+      _ = _ := by dsimp [D]; ring
+  have : NeZero (v:ℂ) := ⟨Complex.ofReal_ne_zero.mpr hv.ne'⟩
+  have hd : DifferentiableOn ℂ L (closedVerticalStrip a b) := by
+    apply (differentiable_const_cpow_of_neZero _).differentiableOn.mul
+    exact (differentiableOn_metaplecticGammaQuotient ℓ).mono (by
+      intro s hs
+      exact lt_of_le_of_lt (hs.2.trans hb) (by norm_num))
+  let f : ℂ → ℂ := fun s => mellin W s*L s
+  have hf : DifferentiableOn ℂ f (closedVerticalStrip a b) :=
+    (smooth_mellin_entire W hW hpos hsm.continuous).differentiableOn.mul hd
+  obtain ⟨K,_hK,hbound⟩ := norm_mellinHecke_integrand_le W hW hpos hsm
+    (Z := 1) (by norm_num) 0 L hD N hg
+  have hmajor (σ : ℝ) (hσ : σ ∈ Icc a b) (t : ℝ) :
+      ‖f (σ+(t:ℂ)*Complex.I)‖ ≤ mellinEdgeMajorant K t := by
+    simpa only [f,sub_zero,Complex.ofReal_one,Complex.one_cpow,mul_one] using hbound σ hσ t
+  have hs := mellin_contour_shift_of_majorant hab f hf (mellinEdgeMajorant K)
+    (mellinEdgeMajorant_integrable K) (mellinEdgeMajorant_tendsto K).1
+    (mellinEdgeMajorant_tendsto K).2 hmajor
+  convert hs using 1 <;> first | (with_reducible_and_instances rfl) | (congr 1 <;> funext t <;> dsimp [f,L] <;> ring)
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Transform_MetaplecticKernelIntegrability
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Absolute convergence of the literal metaplectic Mellin kernel, derived
+from the proved Gamma strip bound and the smooth weight's rapid decay. -/
+noncomputable section
+open MeasureTheory Set
+open scoped ContDiff
+namespace CubicFirstMoment
+
+theorem metaplecticKernel_integrable (ℓ : ℤ) (W : ℝ→ℂ)
+    (hW : HasCompactSupport W) (hpos : tsupport W ⊆ Ioi 0)
+    (hsm : ContDiff ℝ ∞ W) {a v : ℝ} (ha : a ≤ 1/2) (hv : 0<v) :
+    Integrable (fun t : ℝ => (v:ℂ)^(a+(t:ℂ)*Complex.I)*
+      metaplecticGammaQuotient ℓ (a+(t:ℂ)*Complex.I)*
+        mellin W (a+(t:ℂ)*Complex.I)) := by
+  have hstrip := min_le_left a (1/2:ℝ)
+  obtain ⟨C,N,hC,hQ⟩ := metaplecticGamma_strip_bound ℓ (min a (1/2))
+    (angularGammaQuotientStripBound_proved _ _ (by linarith [metaplecticAngularShift_nonneg ℓ]))
+    (angularGammaQuotientStripBound_proved _ _ (by linarith [metaplecticAngularShift_nonneg ℓ]))
+  obtain ⟨Cw,hCw,hw⟩ := smooth_mellin_vertical_decay W hW hpos hsm a (N+2)
+  have hg : Continuous (fun t : ℝ => metaplecticGammaQuotient ℓ (a+(t:ℂ)*Complex.I)) :=
+    (differentiableOn_metaplecticGammaQuotient ℓ).continuousOn.comp_continuous
+      (by fun_prop) (by intro t; change (a+(t:ℂ)*Complex.I).re<5/6; simp only [Complex.add_re,Complex.ofReal_re,Complex.mul_re,Complex.ofReal_im,Complex.I_re,Complex.I_im,mul_zero,zero_mul,sub_zero,add_zero]; linarith)
+  have : NeZero (v:ℂ) := ⟨Complex.ofReal_ne_zero.mpr hv.ne'⟩
+  have hc : Continuous (fun t : ℝ => (v:ℂ)^(a+(t:ℂ)*Complex.I)*
+      metaplecticGammaQuotient ℓ (a+(t:ℂ)*Complex.I)*mellin W (a+(t:ℂ)*Complex.I)) :=
+    (((differentiable_const_cpow_of_neZero _).continuous.comp (by fun_prop)).mul hg).mul
+      ((smooth_mellin_entire W hW hpos hsm.continuous).continuous.comp (by fun_prop))
+  apply (mellinEdgeMajorant_integrable (v^a*C*Cw)).mono' hc.aestronglyMeasurable
+  filter_upwards with t
+  rw [norm_mul,norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos hv]
+  have hr : (a+(t:ℂ)*Complex.I).re=a := by simp
+  rw [hr]
+  apply (le_div_iff₀ (by positivity : 0<(1+|t|)^2)).mpr
+  calc
+    _ ≤ (v^a*(C*(1+|t|)^N)*‖mellin W (a+(t:ℂ)*Complex.I)‖)*(1+|t|)^2 := by
+      gcongr
+      exact hQ a ⟨hstrip,ha⟩ t
+    _ = (v^a*C)*((1+|t|)^(N+2)*‖mellin W (a+(t:ℂ)*Complex.I)‖) := by
+      rw [pow_add]
+      ring
+    _ ≤ (v^a*C)*Cw := mul_le_mul_of_nonneg_left (hw t) (by positivity)
+    _ = _ := by ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaDualMellinIntegral
+attribute [-instance] _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Convert the actual far-left dual Dirichlet integral into the literal
+metaplectic transform, using absolute sum/integral interchange. -/
+noncomputable section
+open MeasureTheory Set
+open scoped ContDiff
+namespace CubicFirstMoment
+
+lemma cubicThetaDualMellinKernel_eq {q : Eisenstein} (hq : primary q)
+    (ℓ : ℤ) (W : ℝ→ℂ) {Z : ℝ} (hZ : 0<Z) (s : ℂ) :
+    cubicThetaDualMellinKernel q ℓ W Z s =
+      mellin W s*(Z:ℂ)^s*(cubicThetaLevelScale q:ℂ)^(4*s-2)*
+        ((2*Real.pi:ℝ):ℂ)^(4*s-2)*metaplecticGammaQuotient ℓ s := by
+  calc
+    _ = mellin W s*(cubicThetaDualPrefactor q*(cubicThetaDualScale q Z:ℂ)^s)*
+        metaplecticGammaQuotient ℓ s := by unfold cubicThetaDualMellinKernel; ring
+    _ = _ := by rw [←cubicTheta_archimedean_power hq hZ]; ring
+
+lemma cubicThetaDualMellinKernel_integrable {q : Eisenstein} (hq : primary q)
+    (ℓ : ℤ) (W : ℝ→ℂ) (hW : HasCompactSupport W) (hpos : tsupport W ⊆ Ioi 0)
+    (hsm : ContDiff ℝ ∞ W) {A Z : ℝ} (hA : 1/2<A) (hZ : 0<Z) :
+    Integrable (fun t : ℝ => cubicThetaDualMellinKernel q ℓ W Z ((-A:ℂ)+(t:ℂ)*Complex.I)) := by
+  have H := metaplecticKernel_integrable ℓ W hW hpos hsm (a := -A)
+    (v := cubicThetaDualScale q Z) (by linarith) (cubicThetaDualScale_pos hq hZ)
+  simpa only [cubicThetaDualMellinKernel,Complex.ofReal_neg] using
+    H.const_mul (cubicThetaDualPrefactor q)
+
+lemma cubicThetaDualMellinKernel_frequency {q : Eisenstein} (hq : primary q)
+    (ℓ : ℤ) (W : ℝ→ℂ) {Z r : ℝ} (hZ : 0<Z) (hr : 0 < r) (s : ℂ) :
+    cubicThetaDualMellinKernel q ℓ W Z s*(r:ℂ)^(-(2*(1-s)-1)) =
+      (cubicThetaDualPrefactor q*(r:ℂ)^(-1:ℂ))*
+        (((cubicThetaDualScale q Z*r^2:ℝ):ℂ)^s*metaplecticGammaQuotient ℓ s*mellin W s) := by
+  have hp := cubicTheta_dual_power hq hZ hr s
+  rw [cubicTheta_archimedean_power hq hZ] at hp
+  change cubicThetaDualPrefactor q*(cubicThetaDualScale q Z:ℂ)^s*
+    (r:ℂ)^(-(2*(1-s)-1)) =
+      cubicThetaDualPrefactor q*(r:ℂ)^(-1:ℂ)*
+        ((cubicThetaDualScale q Z*r^2:ℝ):ℂ)^s at hp
+  calc
+    _ = (cubicThetaDualPrefactor q*(cubicThetaDualScale q Z:ℂ)^s*
+        (r:ℂ)^(-(2*(1-s)-1)))*(metaplecticGammaQuotient ℓ s*mellin W s) := by
+      unfold cubicThetaDualMellinKernel
+      ring
+    _ = _ := by rw [hp]; ring
+
+lemma cubicThetaDualMellinKernel_frequency_integral {q : Eisenstein} (hq : primary q)
+    (ℓ : ℤ) (W : ℝ→ℂ) {A Z r : ℝ} (hZ : 0<Z) (hr : 0 < r) :
+    (∫ t : ℝ, cubicThetaDualMellinKernel q ℓ W Z ((-A:ℂ)+(t:ℂ)*Complex.I)*
+      (r:ℂ)^(-(2*(1-((-A:ℂ)+(t:ℂ)*Complex.I))-1))) =
+      (cubicThetaDualPrefactor q*(r:ℂ)^(-1:ℂ))*
+        ∫ t : ℝ, ((cubicThetaDualScale q Z*r^2:ℝ):ℂ)^((-A:ℂ)+(t:ℂ)*Complex.I)*
+          metaplecticGammaQuotient ℓ ((-A:ℂ)+(t:ℂ)*Complex.I)*
+            mellin W ((-A:ℂ)+(t:ℂ)*Complex.I) := by
+  simp_rw [cubicThetaDualMellinKernel_frequency hq ℓ W hZ hr]
+  rw [integral_const_mul]
+
+theorem cubicTheta_dual_mellin_integral {q : Eisenstein} (hq : primary q)
+    {a : Eisenstein→ℂ} {C : ℝ} (hC : 0 ≤ C) (ha : ∀ n, ‖a n‖ ≤ C)
+    (ℓ : ℤ) (W : ℝ→ℂ) (hW : HasCompactSupport W) (hpos : tsupport W ⊆ Ioi 0)
+    (hsm : ContDiff ℝ ∞ W) {A Z : ℝ} (hA : 1/2<A) (hZ : 0<Z) :
+    ((1/(2*Real.pi):ℝ):ℂ)*(∫ t : ℝ,
+      mellin W ((-A:ℂ)+(t:ℂ)*Complex.I)*(Z:ℂ)^((-A:ℂ)+(t:ℂ)*Complex.I)*
+        (cubicThetaLevelScale q:ℂ)^(4*((-A:ℂ)+(t:ℂ)*Complex.I)-2)*
+        ((2*Real.pi:ℝ):ℂ)^(4*((-A:ℂ)+(t:ℂ)*Complex.I)-2)*
+        metaplecticGammaQuotient ℓ ((-A:ℂ)+(t:ℂ)*Complex.I)*
+        cubicThetaDirichlet a (2*(1-((-A:ℂ)+(t:ℂ)*Complex.I))-1)) =
+      cubicThetaDualPrefactor q*∑' n : MetaplecticDualArgument,
+        a n.val/(‖cubicThetaFrequency n.val‖:ℂ)*
+          metaplecticTransform ℓ W A
+            (cubicThetaDualScale q Z*‖cubicThetaFrequency n.val‖^2) := by
+  let H (t : ℝ) : ℂ := cubicThetaDualMellinKernel q ℓ W Z ((-A:ℂ)+(t:ℂ)*Complex.I)
+  have hInt := cubicThetaDirichlet_integral hC ha (by linarith : 2<1+2*A)
+    (fun t => 2*(1-((-A:ℂ)+(t:ℂ)*Complex.I))-1) (by fun_prop)
+    (by intro t; simp; ring) H
+    (cubicThetaDualMellinKernel_integrable hq ℓ W hW hpos hsm hA hZ)
+  calc
+    _ = ((1/(2*Real.pi):ℝ):ℂ)*(∫ t : ℝ,
+        H t*cubicThetaDirichlet a (2*(1-((-A:ℂ)+(t:ℂ)*Complex.I))-1)) := by
+      congr 1
+      apply integral_congr_ae
+      filter_upwards with t
+      dsimp only [H]
+      rw [cubicThetaDualMellinKernel_eq hq ℓ W hZ]
+    _ = ((1/(2*Real.pi):ℝ):ℂ)*∑' n : MetaplecticDualArgument,
+        a n.val*∫ t : ℝ, H t*(‖cubicThetaFrequency n.val‖:ℂ)^
+          (-(2*(1-((-A:ℂ)+(t:ℂ)*Complex.I))-1)) := by rw [hInt]
+    _ = _ := by
+      rw [←tsum_mul_left,←tsum_mul_left]
+      apply tsum_congr
+      intro n
+      dsimp only [H]
+      rw [cubicThetaDualMellinKernel_frequency_integral hq ℓ W hZ
+        (cubicThetaFrequency_pos n.property),metaplecticTransform,Complex.cpow_neg_one]
+      simp only [Complex.ofReal_neg]
+      ring
+
+theorem cubicTheta_dual_mellin_summable {q : Eisenstein} (hq : primary q)
+    {a : Eisenstein→ℂ} {C : ℝ} (hC : 0 ≤ C) (ha : ∀ n, ‖a n‖ ≤ C)
+    (ℓ : ℤ) (W : ℝ→ℂ) (hW : HasCompactSupport W) (hpos : tsupport W ⊆ Ioi 0)
+    (hsm : ContDiff ℝ ∞ W) {A Z : ℝ} (hA : 1/2<A) (hZ : 0<Z) :
+    Summable (fun n : MetaplecticDualArgument => a n.val/(‖cubicThetaFrequency n.val‖:ℂ)*
+      metaplecticTransform ℓ W A (cubicThetaDualScale q Z*‖cubicThetaFrequency n.val‖^2)) := by
+  have H := cubicThetaDirichlet_integral_summable hC ha (by linarith : 2<1+2*A)
+    (fun t => 2*(1-((-A:ℂ)+(t:ℂ)*Complex.I))-1) (by intro t; simp; ring)
+    (fun t => cubicThetaDualMellinKernel q ℓ W Z ((-A:ℂ)+(t:ℂ)*Complex.I))
+    (cubicThetaDualMellinKernel_integrable hq ℓ W hW hpos hsm hA hZ)
+  have H' : Summable (fun n : MetaplecticDualArgument => cubicThetaDualPrefactor q*
+      (a n.val/(‖cubicThetaFrequency n.val‖:ℂ)*
+        metaplecticTransform ℓ W A (cubicThetaDualScale q Z*‖cubicThetaFrequency n.val‖^2))) :=
+    (H.mul_left ((1/(2*Real.pi):ℝ):ℂ)).congr (fun n => by
+    rw [cubicThetaDualMellinKernel_frequency_integral hq ℓ W hZ
+      (cubicThetaFrequency_pos n.property),Complex.cpow_neg_one]
+    rw [metaplecticTransform]
+    simp only [Complex.ofReal_neg]
+    ring)
+  exact (summable_mul_left_iff (cubicThetaDualPrefactor_ne_zero hq)).mp H'
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaCoefficientMellin
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Initial Mellin identity for the actual selected and projected
+coefficient families, with their horizontal phases retained. -/
+noncomputable section
+namespace CubicFirstMoment
+
+lemma cubicThetaCoefficientTwist_norm (a : Eisenstein→ℂ) (z : ℂ) (n : Eisenstein) :
+    ‖cubicThetaCoefficientTwist a z n‖=‖a n‖ := by
+  simp only [cubicThetaCoefficientTwist,norm_mul,Circle.norm_coe,mul_one]
+
+lemma cubicThetaCoefficientTwist_angular_series (a : Eisenstein→ℂ) (z : ℂ) (v : ℝ) (ℓ : ℤ) :
+    cubicThetaNonconstant (cubicThetaAngularCoefficient (cubicThetaCoefficientTwist a z) ℓ) (0,v)=
+      cubicThetaNonconstant (cubicThetaAngularCoefficient a ℓ) (z,v) := by
+  classical
+  apply tsum_congr
+  intro n
+  by_cases hn : n=0
+  · simp only [cubicThetaSeriesTerm,hn,ite_true, if_true]
+  · simp only [cubicThetaSeriesTerm,hn,ite_false, if_false,cubicThetaCoefficientTwist,
+      cubicThetaAngularCoefficient,tracePair,mul_zero,Complex.zero_re,
+      AddChar.map_zero_eq_one,Circle.coe_one,mul_one]
+    ring
+
+theorem cubicThetaCoefficient_mellin {a : Eisenstein→ℂ} {C : ℝ}
+    (hC : 0≤C) (ha : ∀ n,‖a n‖≤C) (z : ℂ) (ℓ : ℤ) {s : ℂ} (hs : 3/2 < s.re) :
+    mellin (fun v : ℝ => cubicThetaNonconstant (cubicThetaAngularCoefficient a ℓ) (z,v))
+      (2*s+(ℓ.natAbs:ℂ)-1)=
+      (1/4:ℂ)*((2*Real.pi:ℝ):ℂ)^(-2*(s+(ℓ.natAbs:ℂ)/2))*
+        Complex.Gamma (s+(ℓ.natAbs:ℂ)/2+1/6)*Complex.Gamma (s+(ℓ.natAbs:ℂ)/2-1/6)*
+          cubicThetaDirichlet (fun n => theta ℓ n*cubicThetaCoefficientTwist a z n) (2*s-1) := by
+  simp_rw [←cubicThetaCoefficientTwist_angular_series a z]
+  exact cubicThetaAngular_completed hC
+    (fun n => (cubicThetaCoefficientTwist_norm a z n).trans_le (ha n)) ℓ hs
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaPrimaryBruhat
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Rational-cusp geometry for the actual primary projector. -/
+noncomputable section
+open scoped MatrixGroups Matrix
+namespace CubicFirstMoment
+
+lemma cubicThetaPrimaryBruhat_identity (g : SL(2,Eisenstein)) (hc : primary (g 1 0)) :
+    cubicThetaFullComplex g=
+      cubicThetaTranslationMatrix ((g 0 0:ℂ)/(g 1 0:ℂ))*
+        cubicThetaInversionMatrix (g 1 0:ℂ)
+          (fun he => primary_ne_zero hc (Subtype.ext he))*
+        cubicThetaTranslationMatrix ((g 1 1:ℂ)/(g 1 0:ℂ)) := by
+  have hq : (g 1 0:ℂ)≠0 := fun he => primary_ne_zero hc (Subtype.ext he)
+  have hg : (g 0 0:ℂ)*(g 1 1:ℂ)-(g 0 1:ℂ)*(g 1 0:ℂ)=1 := by
+    have he : g 0 0*g 1 1-g 0 1*g 1 0=1 := by
+      simpa only [Matrix.det_fin_two] using g.property
+    exact_mod_cast he
+  apply Subtype.ext
+  apply Matrix.ext
+  intro i j
+  change (g i j:ℂ)=
+    (((!![1,(g 0 0:ℂ)/(g 1 0:ℂ);0,1] : Matrix (Fin 2) (Fin 2) ℂ)*
+      !![0,-(g 1 0:ℂ)⁻¹;(g 1 0:ℂ),0])*!![1,(g 1 1:ℂ)/(g 1 0:ℂ);0,1]) i j
+  fin_cases i <;> fin_cases j <;> simp [Matrix.mul_apply,Fin.sum_univ_two]
+  all_goals field_simp [hq]
+  all_goals first | (solve | ring) | linear_combination -hg
+
+lemma cubicThetaPrimaryBruhat_point (g : SL(2,Eisenstein)) (hc : primary (g 1 0))
+    (p : CubicThetaPoint) :
+    (g • p).val=
+      ((cubicThetaInversion (g 1 0:ℂ) (p.val.1+(g 1 1:ℂ)/(g 1 0:ℂ),p.val.2)).1+
+          (g 0 0:ℂ)/(g 1 0:ℂ),
+        (cubicThetaInversion (g 1 0:ℂ) (p.val.1+(g 1 1:ℂ)/(g 1 0:ℂ),p.val.2)).2) := by
+  have hq : (g 1 0:ℂ)≠0 := fun he => primary_ne_zero hc (Subtype.ext he)
+  rw [cubicThetaFullPointAction_apply,cubicThetaPrimaryBruhat_identity g hc,
+    ←cubicThetaMobius_comp _ _ p.property]
+  rw [←cubicThetaMobius_comp _ _ (cubicThetaMobius_height_pos _ p.property),
+    cubicThetaMobius_translation]
+  rw [cubicThetaMobius_translation ((g 1 1:ℂ)/(g 1 0:ℂ)) p.val,
+    cubicThetaMobius_inversion (p := (p.val.1+(g 1 1:ℂ)/(g 1 0:ℂ),p.val.2)) hq p.property]
+
+theorem cubicThetaSelected_primary_cusp (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (z : ℂ) {v : ℝ} (hv : 0<v) :
+    cubicThetaNonconstant cubicThetaSelectedCoefficient
+      ((cubicThetaInversion (g 1 0:ℂ) (z,v)).1+(g 0 0:ℂ)/(g 1 0:ℂ),
+        (cubicThetaInversion (g 1 0:ℂ) (z,v)).2)=
+      cubicThetaProjectedConstant g hc*((v^(2/3:ℝ):ℝ):ℂ)+
+        cubicThetaNonconstant (cubicThetaProjectedCoefficient g hc)
+          (z-(g 1 1:ℂ)/(g 1 0:ℂ)+(g 1 1:ℂ),v) := by
+  let p : CubicThetaPoint := ⟨(z-(g 1 1:ℂ)/(g 1 0:ℂ),v),hv⟩
+  have hp := cubicThetaPrimaryBruhat_point g hc p
+  dsimp only [p,Prod.fst,Prod.snd] at hp
+  rw [sub_add_cancel] at hp
+  have he := cubicThetaNormalizedPrimaryProjection_expansion g hc p
+  rw [hp] at he
+  exact he
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaProjectedPlane
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The actual projected cusp expansion supports the same angular
+extraction as the original theta series, with its own literal coefficients. -/
+noncomputable section
+open MeasureTheory Filter
+open scoped Topology MatrixGroups
+namespace CubicFirstMoment
+
+lemma cubicThetaProjectedCoefficient_arithmetic_bound (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (n : Eisenstein) (hn : n≠0) :
+    ‖cubicThetaProjectedCoefficient g hc n‖≤243*norm n :=
+  (cubicThetaProjectedCoefficient_bound g hc n).trans
+    (le_mul_of_one_le_right (by norm_num) (one_le_norm hn))
+
+lemma cubicThetaSelected_projected_plane (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (z : ℂ) {v : ℝ} (hv : 0<v) :
+    cubicThetaNonconstant cubicThetaSelectedCoefficient
+      ((cubicThetaInversion (g 1 0:ℂ) (z,v)).1+cubicThetaPrimaryCuspCenter g,
+        (cubicThetaInversion (g 1 0:ℂ) (z,v)).2)=
+      cubicThetaProjectedPlane g hc (z+cubicThetaPrimaryDualCenter g,v) := by
+  have he := cubicThetaSelected_primary_cusp g hc z hv
+  have hz : z-(g 1 1:ℂ)/(g 1 0:ℂ)+(g 1 1:ℂ)=z+cubicThetaPrimaryDualCenter g := by
+    unfold cubicThetaPrimaryDualCenter
+    ring
+  rw [hz] at he
+  exact he
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaProjectedAngularMellin
+attribute [-instance] _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Entire Mellin continuation for the two actual coefficient families
+in the primary-projected rational-cusp transformation. -/
+noncomputable section
+open Set MeasureTheory
+open scoped MatrixGroups
+namespace CubicFirstMoment
+
+lemma cubicThetaSelectedCoefficient_arithmetic_bound (n : Eisenstein) (hn : n≠0) :
+    ‖cubicThetaSelectedCoefficient n‖≤81*norm n :=
+  (cubicThetaSelectedCoefficient_norm n).trans
+    (le_mul_of_one_le_right (by norm_num) (one_le_norm hn))
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaProjectedDirichlet
+attribute [-instance] _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Entire continued Dirichlet series for the actual primary-projected
+cusp pair, with the initial series fixed by the literal coefficients. -/
+noncomputable section
+open scoped MatrixGroups
+namespace CubicFirstMoment
+
+lemma cubicThetaBoundedScaledAxis_mellin {a : Eisenstein→ℂ} {C r : ℝ}
+    (hC : 0≤C) (ha : ∀ n,‖a n‖≤C) (hr : 0 < r) (z : ℂ) (ℓ : ℤ)
+    {s : ℂ} (hs : 3/2 < s.re) :
+    mellin (cubicThetaBoundedScaledAxis a ℓ z r) (2*s+(ℓ.natAbs:ℂ)-1)=
+      (r:ℂ)^(-(2*s+(ℓ.natAbs:ℂ)-1))*
+        ((1/4:ℂ)*((2*Real.pi:ℝ):ℂ)^(-2*(s+(ℓ.natAbs:ℂ)/2))*
+          Complex.Gamma (s+(ℓ.natAbs:ℂ)/2+1/6)*Complex.Gamma (s+(ℓ.natAbs:ℂ)/2-1/6)*
+          cubicThetaDirichlet (fun n => theta ℓ n*cubicThetaCoefficientTwist a z n) (2*s-1)) := by
+  unfold cubicThetaBoundedScaledAxis
+  rw [mellin_comp_mul_left (fun v : ℝ => cubicThetaNonconstant
+    (cubicThetaAngularCoefficient a ℓ) (z,v)) _ hr,cubicThetaCoefficient_mellin hC ha z ℓ hs]
+  rfl
+
+lemma cubicThetaAngularUncompletion_entire {q : Eisenstein} (hq : primary q) (k : ℕ) :
+    Differentiable ℂ (cubicThetaAngularUncompletion q k) := by
+  have hρ : (cubicThetaLevelScale q:ℂ)≠0 :=
+    Complex.ofReal_ne_zero.mpr (cubicThetaLevelScale_pos hq).ne'
+  have hπ : ((2*Real.pi:ℝ):ℂ)≠0 := Complex.ofReal_ne_zero.mpr (by positivity)
+  have hA : Differentiable ℂ (fun s : ℂ => 2*s+(k:ℂ)-1) := by fun_prop
+  have hB : Differentiable ℂ (fun s : ℂ => 2*s+(k:ℂ)) := by fun_prop
+  have hC : Differentiable ℂ (fun s : ℂ => s+(k:ℂ)/2+1/6) := by fun_prop
+  have hD : Differentiable ℂ (fun s : ℂ => s+(k:ℂ)/2-1/6) := by fun_prop
+  exact ((((hA.const_cpow (Or.inl hρ)).const_mul 4).mul (hB.const_cpow (Or.inl hπ))).mul
+    (Complex.differentiable_one_div_Gamma.comp hC)).mul
+      (Complex.differentiable_one_div_Gamma.comp hD)
+
+lemma cubicThetaAngular_initial_gamma {s : ℂ} (hs : 3/2 < s.re) (k : ℕ) :
+    Complex.Gamma (s+(k:ℂ)/2+1/6)≠0 ∧ Complex.Gamma (s+(k:ℂ)/2-1/6)≠0 := by
+  have hk : (0:ℝ)≤k := Nat.cast_nonneg k
+  constructor <;> apply Complex.Gamma_ne_zero_of_re_pos <;>
+    simp only [Complex.add_re,Complex.sub_re,Complex.div_ofNat_re,Complex.natCast_re,Complex.one_re] <;>
+    linarith
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaProjectedUpperBound
+attribute [-instance] _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Uniform vertical bounds for the two actual completed Mellin functions. -/
+noncomputable section
+open Set
+open scoped MatrixGroups
+namespace CubicFirstMoment
+
+lemma cubicThetaPairedUpper_bounded_strip (f g : ℝ→ℂ) (ε : ℂ) (k : ℕ)
+    (hf : ∀ s, MellinConvergent (thetaUpper f) s)
+    (hg : ∀ s, MellinConvergent (thetaUpper g) s) (a b : ℝ) :
+    ∃ C : ℝ, 0≤C ∧ ∀ s : ℂ, s.re∈Icc a b →
+      ‖mellin (thetaUpper f) s+ε*mellin (thetaUpper g) (((2*k:ℕ):ℂ)-s)‖≤C := by
+  let B := ((2*k:ℕ):ℝ)-a
+  refine ⟨thetaUpperNormMass f b+‖ε‖*thetaUpperNormMass g B,
+    add_nonneg (thetaUpperNormMass_nonneg f b)
+      (mul_nonneg (_root_.norm_nonneg ε) (thetaUpperNormMass_nonneg g B)),?_⟩
+  intro s hs
+  have hfb : ‖mellin (thetaUpper f) s‖≤thetaUpperNormMass f b :=
+    thetaUpper_vertical_bound (hf b) hs.2
+  have hgb : ‖mellin (thetaUpper g) (((2*k:ℕ):ℂ)-s)‖≤thetaUpperNormMass g B := by
+    apply thetaUpper_vertical_bound (hg B)
+    simp only [Complex.sub_re,Complex.natCast_re]
+    exact sub_le_sub_left hs.1 _
+  exact (norm_add_le _ _).trans (add_le_add hfb (by
+    rw [norm_mul]
+    exact mul_le_mul_of_nonneg_left hgb (_root_.norm_nonneg ε)))
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaProjectedFiniteOrder
+attribute [-instance] _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Finite vertical order follows from bounded completed Mellin tails and
+the already proved reciprocal-Gamma estimate. -/
+noncomputable section
+open Set
+namespace CubicFirstMoment
+
+lemma cubicThetaUncompleted_finiteOrder {q : Eisenstein} (hq : primary q)
+    (k : ℕ) (F : ℂ→ℂ)
+    (hbounded : ∀ a b : ℝ, ∃ C : ℝ, 0≤C ∧ ∀ s : ℂ,s.re∈Icc a b → ‖F s‖≤C)
+    (a b : ℝ) :
+    FiniteVerticalOrder (fun s => cubicThetaAngularUncompletion q k s*F (2*s+(k:ℂ)-1)) a b := by
+  let ρ := cubicThetaLevelScale q
+  let p : ℝ := 2*Real.pi
+  have hρ : 0<ρ := cubicThetaLevelScale_pos hq
+  have hp : 0<p := by dsimp [p]; positivity
+  let P : ℝ→ℝ := fun σ => 4*ρ^(2*σ+(k:ℝ)-1)*p^(2*σ+(k:ℝ))
+  have hP : Continuous P := by
+    have hA : Continuous (fun σ : ℝ => 2*σ+(k:ℝ)-1) := by fun_prop
+    have hB : Continuous (fun σ : ℝ => 2*σ+(k:ℝ)) := by fun_prop
+    exact (continuous_const.mul ((Real.continuous_const_rpow hρ.ne').comp
+      hA)).mul ((Real.continuous_const_rpow hp.ne').comp hB)
+  obtain ⟨M,hM⟩ := isCompact_Icc.exists_bound_of_continuousOn (s := Icc a b) hP.continuousOn
+  let D := max M 0
+  have hD : 0≤D := le_max_right _ _
+  have hPb (σ : ℝ) (hσ : σ∈Icc a b) : P σ≤D :=
+    (le_abs_self _).trans ((hM σ hσ).trans (le_max_left _ _))
+  obtain ⟨B₁,hB₁,hΓ₁⟩ := gammaInverseFiniteOrder (a+(k:ℝ)/2+1/6) (b+(k:ℝ)/2+1/6)
+  obtain ⟨B₂,hB₂,hΓ₂⟩ := gammaInverseFiniteOrder (a+(k:ℝ)/2-1/6) (b+(k:ℝ)/2-1/6)
+  obtain ⟨C,hC,hF⟩ := hbounded
+    (2*a+(k:ℝ)-1) (2*b+(k:ℝ)-1)
+  let K := D*C
+  have hK : 0≤K := mul_nonneg hD hC
+  refine ⟨K+B₁+B₂,2,by positivity,?_⟩
+  intro s hs
+  change ‖cubicThetaAngularUncompletion q k s*F (2*s+(k:ℂ)-1)‖≤_
+  have hG₁ : ‖(Complex.Gamma (s+(k:ℂ)/2+1/6))⁻¹‖≤Real.exp (B₁*(1+|s.im|)^2) := by
+    have H := hΓ₁ (s+(k:ℂ)/2+1/6) (by
+      simp only [mem_Icc,Complex.add_re,Complex.div_ofNat_re,Complex.natCast_re,Complex.one_re]
+      constructor <;> linarith [hs.1,hs.2])
+    simpa only [Complex.add_im,Complex.div_ofNat_im,Complex.natCast_im,Complex.one_im,
+      zero_div,add_zero] using H
+  have hG₂ : ‖(Complex.Gamma (s+(k:ℂ)/2-1/6))⁻¹‖≤Real.exp (B₂*(1+|s.im|)^2) := by
+    have H := hΓ₂ (s+(k:ℂ)/2-1/6) (by
+      simp only [mem_Icc,Complex.add_re,Complex.sub_re,Complex.div_ofNat_re,Complex.natCast_re,Complex.one_re]
+      constructor <;> linarith [hs.1,hs.2])
+    simpa only [Complex.add_im,Complex.sub_im,Complex.div_ofNat_im,Complex.natCast_im,
+      Complex.one_im,zero_div,add_zero,sub_zero] using H
+  have hF' : ‖F (2*s+(k:ℂ)-1)‖≤C := by
+    apply hF
+    simp only [mem_Icc,Complex.add_re,Complex.sub_re,Complex.mul_re,Complex.re_ofNat,
+      Complex.im_ofNat,Complex.natCast_re,Complex.one_re,zero_mul,sub_zero]
+    constructor <;> linarith [hs.1,hs.2]
+  have hpref : ‖4*(ρ:ℂ)^(2*s+(k:ℂ)-1)*(p:ℂ)^(2*s+(k:ℂ))‖≤D := by
+    rw [norm_mul,norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos hρ,
+      Complex.norm_cpow_eq_rpow_re_of_pos hp]
+    simp only [Complex.norm_ofNat,Complex.add_re,Complex.sub_re,Complex.mul_re,
+      Complex.re_ofNat,Complex.im_ofNat,Complex.natCast_re,Complex.one_re,zero_mul,sub_zero]
+    exact hPb s.re hs
+  have he : cubicThetaAngularUncompletion q k s*F (2*s+(k:ℂ)-1)=
+      (4*(ρ:ℂ)^(2*s+(k:ℂ)-1)*(p:ℂ)^(2*s+(k:ℂ)))*
+        (Complex.Gamma (s+(k:ℂ)/2+1/6))⁻¹*(Complex.Gamma (s+(k:ℂ)/2-1/6))⁻¹*
+          F (2*s+(k:ℂ)-1) := rfl
+  have hQ : 1≤(1+|s.im|)^2 := by nlinarith [abs_nonneg s.im,sq_nonneg |s.im|]
+  calc
+    _ ≤ (D*Real.exp (B₁*(1+|s.im|)^2))*Real.exp (B₂*(1+|s.im|)^2)*C := by
+      rw [he,norm_mul,norm_mul,norm_mul]
+      exact mul_le_mul (mul_le_mul (mul_le_mul hpref hG₁ (_root_.norm_nonneg _) hD)
+        hG₂ (_root_.norm_nonneg _) (by positivity)) hF' (_root_.norm_nonneg _) (by positivity)
+    _ = K*Real.exp ((B₁+B₂)*(1+|s.im|)^2) := by
+      rw [add_mul,Real.exp_add]
+      dsimp [K]
+      ring
+    _ ≤ Real.exp K*Real.exp ((B₁+B₂)*(1+|s.im|)^2) :=
+      mul_le_mul_of_nonneg_right (le_trans (by linarith : K≤K+1) (Real.add_one_le_exp K)) (Real.exp_pos _).le
+    _ = Real.exp (K+(B₁+B₂)*(1+|s.im|)^2) := (Real.exp_add _ _).symm
+    _ ≤ _ := by
+      apply Real.exp_le_exp.mpr
+      nlinarith [mul_le_mul_of_nonneg_left hQ hK]
+
+open scoped MatrixGroups
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Transform_MetaplecticPoleContour
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The pole crossed by the Type-I Mellin contour. These are calculus
+lemmas: no analytic continuation or arithmetic estimate is assumed. -/
+noncomputable section
+open MeasureTheory Filter Set
+open scoped Topology
+namespace CubicFirstMoment
+
+lemma simplePole_line_continuous {c : ℝ} (hc : c ≠ 0) :
+    Continuous (fun t : ℝ => ((c:ℂ)+(t:ℂ)*Complex.I)⁻¹) := by
+  apply Continuous.inv₀ (by fun_prop)
+  intro t h
+  apply hc
+  have hre := congrArg Complex.re h
+  simpa using hre
+
+/-- The symmetric integral of a simple-pole kernel is an arctangent.
+Keeping its imaginary part exact avoids any conditionally convergent
+integral in the eventual contour shift. -/
+lemma integral_id_div_sq_add_sq_symm (c T : ℝ) :
+    (∫ t in -T..T, t / (c ^ 2 + t ^ 2)) = 0 := by
+  have h := intervalIntegral.integral_comp_neg (a := -T) (b := T) (fun t : ℝ => t / (c ^ 2 + t ^ 2))
+  simp only [neg_neg, neg_div, neg_sq, intervalIntegral.integral_neg] at h
+  linarith
+
+lemma simplePole_line_integral {c : ℝ} (hc : c ≠ 0) (T : ℝ) :
+    (∫ t in -T..T, ((c:ℂ)+(t:ℂ)*Complex.I)⁻¹) = (2*Real.arctan (T/c):ℝ) := by
+  have hi : IntervalIntegrable (fun t : ℝ => ((c:ℂ)+(t:ℂ)*Complex.I)⁻¹)
+      volume (-T) T := (simplePole_line_continuous hc).intervalIntegrable (-T) T
+  have hre (t : ℝ) : (((c:ℂ)+(t:ℂ)*Complex.I)⁻¹).re = c/(c^2+t^2) := by
+    simp [Complex.inv_re,Complex.normSq_apply,pow_two]
+  have him (t : ℝ) : (((c:ℂ)+(t:ℂ)*Complex.I)⁻¹).im = -(t/(c^2+t^2)) := by
+    simp [Complex.inv_im,Complex.normSq_apply,pow_two]
+    ring
+  apply Complex.ext
+  · change RCLike.re (∫ t in -T..T, ((c:ℂ)+(t:ℂ)*Complex.I)⁻¹) = _
+    rw [← intervalIntegral.intervalIntegral_re hi]
+    change (∫ t in -T..T, (((c:ℂ)+(t:ℂ)*Complex.I)⁻¹).re) = 2*Real.arctan (T/c)
+    simp_rw [hre]
+    rw [integral_div_sq_add_sq]
+    simp [neg_div,Real.arctan_neg,two_mul]
+  · change RCLike.im (∫ t in -T..T, ((c:ℂ)+(t:ℂ)*Complex.I)⁻¹) = _
+    rw [← intervalIntegral.intervalIntegral_im hi]
+    change (∫ t in -T..T, (((c:ℂ)+(t:ℂ)*Complex.I)⁻¹).im) = 0
+    simp_rw [him]
+    rw [intervalIntegral.integral_neg,integral_id_div_sq_add_sq_symm]
+    simp
+
+lemma simplePole_line_tendsto_pos {c : ℝ} (hc : 0 < c) :
+    Tendsto (fun T : ℝ => ∫ t in -T..T, ((c:ℂ)+(t:ℂ)*Complex.I)⁻¹)
+      atTop (𝓝 (Real.pi:ℂ)) := by
+  simp_rw [simplePole_line_integral hc.ne']
+  have h := ((tendsto_nhds_of_tendsto_nhdsWithin Real.tendsto_arctan_atTop).comp
+    (tendsto_id.atTop_div_const hc)).const_mul 2
+  rw [show 2*(Real.pi/2) = Real.pi by ring] at h
+  simpa only [Function.comp_def,id_eq,Complex.ofReal_mul,Complex.ofReal_ofNat] using
+    Complex.continuous_ofReal.continuousAt.tendsto.comp h
+
+lemma simplePole_line_tendsto_neg {c : ℝ} (hc : c < 0) :
+    Tendsto (fun T : ℝ => ∫ t in -T..T, ((c:ℂ)+(t:ℂ)*Complex.I)⁻¹)
+      atTop (𝓝 (-(Real.pi:ℂ))) := by
+  simp_rw [simplePole_line_integral hc.ne]
+  have h := ((tendsto_nhds_of_tendsto_nhdsWithin Real.tendsto_arctan_atBot).comp
+    (tendsto_id.atTop_div_const_of_neg hc)).const_mul 2
+  rw [show 2*(-(Real.pi/2)) = -Real.pi by ring] at h
+  simpa only [Function.comp_def,id_eq,Complex.ofReal_mul,Complex.ofReal_ofNat,Complex.ofReal_neg] using
+    Complex.continuous_ofReal.continuousAt.tendsto.comp h
+
+lemma poleRegularPart_differentiableOn (M g : ℂ → ℂ) (ρ c : ℂ)
+    (hM : Differentiable ℂ M) {a b : ℝ}
+    (hg : DifferentiableOn ℂ g (closedVerticalStrip a b)) :
+    DifferentiableOn ℂ (poleRegularPart M g ρ c) (closedVerticalStrip a b) := by
+  have hd : Differentiable ℂ (dslope M c) := by
+    rw [← differentiableOn_univ]
+    exact (Complex.differentiableOn_dslope Filter.univ_mem).mpr
+      hM.differentiableOn
+  exact (hM.differentiableOn.mul hg).add (hd.differentiableOn.const_mul ρ)
+
+lemma poleRegularPart_eq (M g : ℂ → ℂ) (ρ c s : ℂ) (hs : s ≠ c) :
+    poleRegularPart M g ρ c s =
+      M s*(g s+ρ/(s-c))-(ρ*M c)*(s-c)⁻¹ := by
+  rw [poleRegularPart,dslope_of_ne M hs,slope_def_field]
+  ring
+
+private lemma poleRegularPart_vertical_limit (M g : ℂ → ℂ) (ρ : ℂ) (c σ : ℝ)
+    (hσ : σ ≠ c)
+    (hf : Integrable (fun t : ℝ => M ((σ:ℂ)+(t:ℂ)*Complex.I)*
+      (g ((σ:ℂ)+(t:ℂ)*Complex.I)+ρ/((σ:ℂ)+(t:ℂ)*Complex.I-(c:ℂ)))))
+    {L : ℂ} (hL : Tendsto (fun T : ℝ => ∫ t in -T..T,
+      (((σ-c:ℝ):ℂ)+(t:ℂ)*Complex.I)⁻¹) atTop (𝓝 L)) :
+    Tendsto (fun T : ℝ => ∫ t in -T..T,
+      poleRegularPart M g ρ c ((σ:ℂ)+(t:ℂ)*Complex.I)) atTop
+      (𝓝 ((∫ t : ℝ, M ((σ:ℂ)+(t:ℂ)*Complex.I)*
+        (g ((σ:ℂ)+(t:ℂ)*Complex.I)+ρ/((σ:ℂ)+(t:ℂ)*Complex.I-(c:ℂ))))-
+          (ρ*M c)*L)) := by
+  have hne (t : ℝ) : (σ:ℂ)+(t:ℂ)*Complex.I ≠ (c:ℂ) := by
+    intro h
+    exact hσ (by simpa using congrArg Complex.re h)
+  have he (T : ℝ) : (∫ t in -T..T,
+      poleRegularPart M g ρ c ((σ:ℂ)+(t:ℂ)*Complex.I)) =
+      (∫ t in -T..T, M ((σ:ℂ)+(t:ℂ)*Complex.I)*
+        (g ((σ:ℂ)+(t:ℂ)*Complex.I)+ρ/((σ:ℂ)+(t:ℂ)*Complex.I-(c:ℂ))))-
+          (ρ*M c)*(∫ t in -T..T, (((σ-c:ℝ):ℂ)+(t:ℂ)*Complex.I)⁻¹) := by
+    simp_rw [poleRegularPart_eq M g ρ c _ (hne _)]
+    have hc : Continuous (fun t : ℝ => (((σ-c:ℝ):ℂ)+(t:ℂ)*Complex.I)⁻¹) :=
+      simplePole_line_continuous (sub_ne_zero.mpr hσ)
+    have heq (t : ℝ) : ((σ:ℂ)+(t:ℂ)*Complex.I-(c:ℂ))⁻¹ =
+        (((σ-c:ℝ):ℂ)+(t:ℂ)*Complex.I)⁻¹ := by
+      congr 1
+      push_cast
+      ring
+    simp_rw [heq]
+    rw [intervalIntegral.integral_sub hf.intervalIntegrable
+      ((hc.const_mul _).intervalIntegrable _ _),intervalIntegral.integral_const_mul]
+  simp_rw [he]
+  exact (intervalIntegral_tendsto_integral hf tendsto_neg_atTop_atBot tendsto_id).sub
+    (hL.const_mul (ρ*M c))
+
+/-- A one-pole contour shift with both horizontal limits kept explicit.
+The removable part is constructed from a divided difference, and the
+residue contribution comes from the proved arctangent kernel limits. -/
+theorem mellin_single_pole_shift (M g : ℂ → ℂ) (ρ : ℂ) {a b c : ℝ}
+    (hac : a < c) (hcb : c < b) (hM : Differentiable ℂ M)
+    (hg : DifferentiableOn ℂ g (closedVerticalStrip a b))
+    (ha : Integrable (fun t : ℝ => M ((a:ℂ)+(t:ℂ)*Complex.I)*
+      (g ((a:ℂ)+(t:ℂ)*Complex.I)+ρ/((a:ℂ)+(t:ℂ)*Complex.I-(c:ℂ)))))
+    (hb : Integrable (fun t : ℝ => M ((b:ℂ)+(t:ℂ)*Complex.I)*
+      (g ((b:ℂ)+(t:ℂ)*Complex.I)+ρ/((b:ℂ)+(t:ℂ)*Complex.I-(c:ℂ)))))
+    (hTop : Tendsto (fun T : ℝ => ∫ x in a..b,
+      poleRegularPart M g ρ c ((x:ℂ)+(T:ℂ)*Complex.I)) atTop (𝓝 0))
+    (hBot : Tendsto (fun T : ℝ => ∫ x in a..b,
+      poleRegularPart M g ρ c ((x:ℂ)-(T:ℂ)*Complex.I)) atTop (𝓝 0)) :
+    (∫ t : ℝ, M ((b:ℂ)+(t:ℂ)*Complex.I)*
+      (g ((b:ℂ)+(t:ℂ)*Complex.I)+ρ/((b:ℂ)+(t:ℂ)*Complex.I-(c:ℂ)))) =
+    (∫ t : ℝ, M ((a:ℂ)+(t:ℂ)*Complex.I)*
+      (g ((a:ℂ)+(t:ℂ)*Complex.I)+ρ/((a:ℂ)+(t:ℂ)*Complex.I-(c:ℂ))))+
+        (2*Real.pi:ℝ)*(ρ*M c) := by
+  let Ia := ∫ t : ℝ, M ((a:ℂ)+(t:ℂ)*Complex.I)*
+    (g ((a:ℂ)+(t:ℂ)*Complex.I)+ρ/((a:ℂ)+(t:ℂ)*Complex.I-(c:ℂ)))
+  let Ib := ∫ t : ℝ, M ((b:ℂ)+(t:ℂ)*Complex.I)*
+    (g ((b:ℂ)+(t:ℂ)*Complex.I)+ρ/((b:ℂ)+(t:ℂ)*Complex.I-(c:ℂ)))
+  have hla := poleRegularPart_vertical_limit M g ρ c a hac.ne ha
+    (simplePole_line_tendsto_neg (sub_neg.mpr hac))
+  have hlb := poleRegularPart_vertical_limit M g ρ c b hcb.ne' hb
+    (simplePole_line_tendsto_pos (sub_pos.mpr hcb))
+  have hlim := ((hBot.sub hTop).add (hlb.const_mul Complex.I)).sub
+    (hla.const_mul Complex.I)
+  have hz : (0:ℂ)-0+Complex.I*(Ib-(ρ*M c)*Real.pi)-
+      Complex.I*(Ia-(ρ*M c)*(-Real.pi)) = 0 := by
+    apply tendsto_nhds_unique hlim
+    apply tendsto_const_nhds.congr'
+    exact Filter.Eventually.of_forall (fun T =>
+      (mellin_rectangle_identity (hac.trans hcb).le (poleRegularPart M g ρ c)
+        (poleRegularPart_differentiableOn M g ρ c hM hg) T).symm)
+  have he : Ib-(ρ*M c)*Real.pi = Ia-(ρ*M c)*(-Real.pi) := by
+    apply mul_left_cancel₀ Complex.I_ne_zero
+    linear_combination hz
+  change Ib = Ia+((2*Real.pi:ℝ):ℂ)*(ρ*M c)
+  push_cast
+  linear_combination he
+
+lemma poleRegularPart_edge_bound (M g : ℂ → ℂ) (ρ : ℂ) {a b c T : ℝ}
+    (hab : a ≤ b) (hT : 1 ≤ |T|) (H : ℝ → ℝ)
+    (hH : ∀ x ∈ Icc a b,
+      ‖M ((x:ℂ)+(T:ℂ)*Complex.I)*
+        (g ((x:ℂ)+(T:ℂ)*Complex.I)+ρ/((x:ℂ)+(T:ℂ)*Complex.I-(c:ℂ)))‖ ≤ H T) :
+    ‖∫ x in a..b, poleRegularPart M g ρ c ((x:ℂ)+(T:ℂ)*Complex.I)‖ ≤
+      (H T+‖ρ*M c‖/|T|)*|b-a| := by
+  apply intervalIntegral.norm_integral_le_of_norm_le_const
+  intro x hx
+  have hx' : x ∈ Icc a b := by
+    rw [uIoc_of_le hab] at hx
+    exact ⟨hx.1.le,hx.2⟩
+  have hTp : 0 < |T| := zero_lt_one.trans_le hT
+  have hne : (x:ℂ)+(T:ℂ)*Complex.I ≠ (c:ℂ) := by
+    intro he
+    have him := congrArg Complex.im he
+    have : T = 0 := by simpa using him
+    simp [this] at hTp
+  have hn : |T| ≤ ‖(x:ℂ)+(T:ℂ)*Complex.I-(c:ℂ)‖ := by
+    simpa using Complex.abs_im_le_norm ((x:ℂ)+(T:ℂ)*Complex.I-(c:ℂ))
+  rw [poleRegularPart_eq M g ρ c _ hne]
+  calc
+    _ ≤ ‖M ((x:ℂ)+(T:ℂ)*Complex.I)*
+        (g ((x:ℂ)+(T:ℂ)*Complex.I)+ρ/((x:ℂ)+(T:ℂ)*Complex.I-(c:ℂ)))‖+
+        ‖(ρ*M c)*((x:ℂ)+(T:ℂ)*Complex.I-(c:ℂ))⁻¹‖ := norm_sub_le _ _
+    _ ≤ H T+‖ρ*M c‖/|T| := by
+      apply add_le_add (hH x hx')
+      rw [norm_mul,norm_inv,div_eq_mul_inv]
+      exact mul_le_mul_of_nonneg_left (inv_anti₀ hTp hn) (_root_.norm_nonneg _)
+
+/-- A vanishing majorant for the original meromorphic integrand supplies
+the regularized horizontal limits required by the residue calculation. -/
+theorem mellin_single_pole_shift_of_majorant (M g : ℂ → ℂ) (ρ : ℂ) {a b c : ℝ}
+    (hac : a < c) (hcb : c < b) (hM : Differentiable ℂ M)
+    (hg : DifferentiableOn ℂ g (closedVerticalStrip a b))
+    (ha : Integrable (fun t : ℝ => M ((a:ℂ)+(t:ℂ)*Complex.I)*
+      (g ((a:ℂ)+(t:ℂ)*Complex.I)+ρ/((a:ℂ)+(t:ℂ)*Complex.I-(c:ℂ)))))
+    (hb : Integrable (fun t : ℝ => M ((b:ℂ)+(t:ℂ)*Complex.I)*
+      (g ((b:ℂ)+(t:ℂ)*Complex.I)+ρ/((b:ℂ)+(t:ℂ)*Complex.I-(c:ℂ)))))
+    (H : ℝ → ℝ) (hHt : Tendsto H atTop (𝓝 0)) (hHb : Tendsto H atBot (𝓝 0))
+    (hH : ∀ x ∈ Icc a b, ∀ t : ℝ, 1 ≤ |t| →
+      ‖M ((x:ℂ)+(t:ℂ)*Complex.I)*
+        (g ((x:ℂ)+(t:ℂ)*Complex.I)+ρ/((x:ℂ)+(t:ℂ)*Complex.I-(c:ℂ)))‖ ≤ H t) :
+    (∫ t : ℝ, M ((b:ℂ)+(t:ℂ)*Complex.I)*
+      (g ((b:ℂ)+(t:ℂ)*Complex.I)+ρ/((b:ℂ)+(t:ℂ)*Complex.I-(c:ℂ)))) =
+    (∫ t : ℝ, M ((a:ℂ)+(t:ℂ)*Complex.I)*
+      (g ((a:ℂ)+(t:ℂ)*Complex.I)+ρ/((a:ℂ)+(t:ℂ)*Complex.I-(c:ℂ))))+
+        (2*Real.pi:ℝ)*(ρ*M c) := by
+  apply mellin_single_pole_shift M g ρ hac hcb hM hg ha hb
+  · apply squeeze_zero_norm'
+      (a := fun T : ℝ => (H T+‖ρ*M c‖*T⁻¹)*|b-a|)
+    · filter_upwards [eventually_ge_atTop (1:ℝ)] with T hT
+      simpa only [abs_of_nonneg (show 0 ≤ T by linarith),div_eq_mul_inv] using
+        poleRegularPart_edge_bound M g ρ (hac.trans hcb).le
+          (show 1 ≤ |T| by simpa [abs_of_nonneg (show 0 ≤ T by linarith)] using hT) H
+          (fun x hx => hH x hx T (by simpa [abs_of_nonneg (show 0 ≤ T by linarith)] using hT))
+    · simpa using (hHt.add (tendsto_inv_atTop_zero.const_mul ‖ρ*M c‖)).mul_const |b-a|
+  · apply squeeze_zero_norm'
+      (a := fun T : ℝ => (H (-T)+‖ρ*M c‖*T⁻¹)*|b-a|)
+    · filter_upwards [eventually_ge_atTop (1:ℝ)] with T hT
+      have ht : 1 ≤ |-T| := by simpa [abs_neg,abs_of_nonneg (show 0 ≤ T by linarith)] using hT
+      simpa only [Complex.ofReal_neg,neg_mul,sub_eq_add_neg,abs_neg,
+        abs_of_nonneg (show 0 ≤ T by linarith),div_eq_mul_inv] using
+          poleRegularPart_edge_bound M g ρ (hac.trans hcb).le ht H (fun x hx => hH x hx (-T) ht)
+    · simpa using ((hHb.comp tendsto_neg_atTop_atBot).add
+        (tendsto_inv_atTop_zero.const_mul ‖ρ*M c‖)).mul_const |b-a|
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Transform_MetaplecticMellinShift
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.W21.instNorm _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Applying the one-pole contour calculation to the Gauss series.
+Polynomial strip growth follows from Heath-Brown (19), the finite-divisor
+identity and partial summation. -/
+noncomputable section
+open MeasureTheory Filter Set
+open scoped Topology ContDiff
+namespace CubicFirstMoment
+
+lemma continuous_integrable_of_large_height_bound (f : ℝ → ℂ) (hf : Continuous f)
+    (H : ℝ → ℝ) (hH : Integrable H) (hH0 : ∀ t, 0 ≤ H t)
+    (hb : ∀ t : ℝ, 1 ≤ |t| → ‖f t‖ ≤ H t) : Integrable f := by
+  have hin : Integrable ((Icc (-1:ℝ) 1).indicator f) :=
+    (integrable_indicator_iff measurableSet_Icc).mpr hf.integrableOn_Icc
+  have hout : Integrable (((Icc (-1:ℝ) 1)ᶜ).indicator f) := by
+    apply hH.mono' (hf.aestronglyMeasurable.indicator measurableSet_Icc.compl)
+    filter_upwards with t
+    by_cases ht : t ∈ (Icc (-1:ℝ) 1)ᶜ
+    · rw [indicator_of_mem ht]
+      apply hb
+      have hnot : t ∉ Icc (-1:ℝ) 1 := ht
+      by_contra hn
+      have ha := abs_lt.mp (lt_of_not_ge hn)
+      exact hnot ⟨ha.1.le,ha.2.le⟩
+    · rw [indicator_of_notMem ht,norm_zero]
+      exact hH0 t
+  convert hin.add hout using 1
+  all_goals try with_reducible_and_instances rfl
+  ext t
+  by_cases ht : t ∈ Icc (-1:ℝ) 1 <;> simp [ht]
+
+lemma metaplectic_mellin_large_majorant (F : ℂ → ℂ) {a b : ℝ}
+    (hF : MetaplecticStripPolynomial F a b)
+    (W : ℝ → ℂ) (hW : HasCompactSupport W) (hpos : tsupport W ⊆ Ioi 0)
+    (hsm : ContDiff ℝ ∞ W) {U : ℝ} (hU : 1 ≤ U) (t : ℝ) :
+    ∃ K : ℝ, 0 ≤ K ∧ ∀ σ ∈ Icc a b, ∀ v : ℝ, 1 ≤ |v| →
+      ‖mellin W ((σ:ℂ)+((v+t):ℂ)*Complex.I)*
+        (U:ℂ)^((σ:ℂ)+((v+t):ℂ)*Complex.I)*F ((σ:ℂ)+(v:ℂ)*Complex.I)‖ ≤
+        mellinEdgeMajorant K (v+t) := by
+  obtain ⟨C,hC,N,hbound⟩ := hF
+  let L : ℂ → ℂ := fun s => if 1 ≤ |s.im| then F s else 0
+  have hL : ∀ σ ∈ Icc a b, ∀ τ : ℝ,
+      ‖L ((σ:ℂ)+((τ-t):ℂ)*Complex.I)‖ ≤ C*(1+|τ-t|)^N := by
+    intro σ hσ τ
+    have hi : (((σ:ℂ)+((τ-t):ℂ)*Complex.I):ℂ).im = τ-t := by simp
+    dsimp only [L]
+    rw [hi]
+    split_ifs with hτ
+    · simpa only [Complex.ofReal_sub] using hbound σ hσ (τ-t) hτ
+    · simp only [norm_zero]
+      positivity
+  obtain ⟨K,hK,hKbound⟩ := norm_mellinHecke_integrand_le W hW hpos hsm hU t L hC N
+    (by simpa only [Complex.ofReal_sub] using hL)
+  refine ⟨K,hK,?_⟩
+  intro σ hσ v hv
+  have h := hKbound σ hσ (v+t)
+  simpa [L,Complex.ofReal_add,Complex.ofReal_sub,hv] using h
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Transform_MetaplecticShiftedVoronoi
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_measurableSpace _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The published small-line formula equals the actual far-left series.
+Every contour change is proved for the literal transform before summing. -/
+noncomputable section
+open MeasureTheory Set
+open scoped ContDiff
+namespace CubicFirstMoment
+
+theorem metaplecticTransform_line_eq (ℓ : ℤ) (W : ℝ → ℂ)
+    (hW : HasCompactSupport W) (hpos : tsupport W ⊆ Ioi 0)
+    (hsm : ContDiff ℝ ∞ W) {σ A v : ℝ} (hσ : 0 < σ) (hA : σ ≤ A)
+    (hv : 0 < v)
+    (hm : AngularGammaQuotientStripBound (metaplecticAngularShift ℓ-1/6) (-A))
+    (hp : AngularGammaQuotientStripBound (metaplecticAngularShift ℓ+1/6) (-A)) :
+    metaplecticTransform ℓ W σ v = metaplecticTransform ℓ W A v := by
+  have he := metaplectic_transform_contour ℓ W hW hpos hsm
+    (a := -A) (b := -σ) (by linarith) (by linarith) hv hm hp
+  exact (congrArg (fun z : ℂ => ((1/(2*Real.pi):ℝ):ℂ)*z) he).symm
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaSelectedGaussSum
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Exact primary-pair reindexing of the smoothed additive sum. The common
+numerator is lambda*c*d^3, so the squared frequency is N(c)N(d)^3/27. -/
+noncomputable section
+open Set
+open scoped BigOperators MatrixGroups
+namespace CubicFirstMoment
+attribute [local instance] Classical.propDecidable
+
+lemma cubicThetaSelectedAdditiveSum_eq (g : SL(2,Eisenstein)) (rev : Bool)
+    (k : ℕ) (W : ℝ→ℂ) (Z : ℝ) :
+    cubicThetaSelectedAdditiveSum g rev k W Z=
+      cubicThetaSelectedSmoothSum (cubicThetaCircleOrder (!rev) k)
+        (cubicThetaPrimaryCuspCenter g) W Z := rfl
+
+lemma cubicThetaPrimary_smooth_term (cd : CubicThetaPrimaryPair) (ℓ : ℤ)
+    (z : ℂ) (W : ℝ→ℂ) (Z : ℝ) :
+    theta ℓ (cubicThetaPrimaryNumerator cd)*
+      cubicThetaCoefficientTwist cubicThetaConjugateCoefficient z (cubicThetaPrimaryNumerator cd)*
+      (‖cubicThetaFrequency (cubicThetaPrimaryNumerator cd)‖:ℂ)*
+      W (‖cubicThetaFrequency (cubicThetaPrimaryNumerator cd)‖^2/Z)=
+    ((3^(5/2:ℝ):ℝ):ℂ)*theta ℓ lambdaE*
+      ((Real.sqrt (norm cd.val.2):ℂ)*gauss cd.val.1*theta ℓ (cd.val.1*cd.val.2^3)*
+        (Real.fourierChar (tracePair (cubicThetaFrequency (cubicThetaPrimaryNumerator cd)) z):ℂ)*
+        W (norm cd.val.1*norm cd.val.2^3/(27*Z))) := by
+  have he := cubicThetaTau_primary_conj cd.property.1 cd.property.2.1 cd.property.2.2
+  change star ((‖cubicThetaFrequency (cubicThetaPrimaryNumerator cd)‖:ℂ)*
+    cubicThetaArithmeticCoefficient (cubicThetaPrimaryNumerator cd))=_ at he
+  simp only [star_mul,Complex.star_def,Complex.conj_ofReal] at he
+  have he' : cubicThetaConjugateCoefficient (cubicThetaPrimaryNumerator cd)*
+      (‖cubicThetaFrequency (cubicThetaPrimaryNumerator cd)‖:ℂ)=
+      ((3^(5/2:ℝ):ℝ):ℂ)*(Real.sqrt (norm cd.val.2):ℂ)*gauss cd.val.1 := by
+    simpa only [cubicThetaConjugateCoefficient,←Complex.star_def,Complex.ofReal_mul] using he
+  rw [cubicThetaPrimaryFrequency_sq,div_div]
+  have ht : theta ℓ (cubicThetaPrimaryNumerator cd)=
+      theta ℓ lambdaE*theta ℓ (cd.val.1*cd.val.2^3) := by
+    simp only [cubicThetaPrimaryNumerator,theta_mul,mul_assoc]
+  rw [ht,cubicThetaCoefficientTwist]
+  calc
+    _ = (cubicThetaConjugateCoefficient (cubicThetaPrimaryNumerator cd)*
+        (‖cubicThetaFrequency (cubicThetaPrimaryNumerator cd)‖:ℂ))*
+      (theta ℓ lambdaE*theta ℓ (cd.val.1*cd.val.2^3)*
+        (Real.fourierChar (tracePair (cubicThetaFrequency (cubicThetaPrimaryNumerator cd)) z):ℂ)*
+        W (norm cd.val.1*norm cd.val.2^3/(27*Z))) := by ring
+    _ = _ := by rw [he']; ring
+
+/-- This reindexing is an identity of the actual sum, with no convergence
+hypothesis hidden in a change of variables. -/
+theorem cubicThetaSelectedSmoothSum_pairs (ℓ : ℤ) (z : ℂ) (W : ℝ→ℂ) (Z : ℝ) :
+    cubicThetaSelectedSmoothSum ℓ z W Z=
+    ((3^(5/2:ℝ):ℝ):ℂ)*theta ℓ lambdaE*
+      ∑' cd : CubicThetaPrimaryPair,
+        (Real.sqrt (norm cd.val.2):ℂ)*gauss cd.val.1*theta ℓ (cd.val.1*cd.val.2^3)*
+          (Real.fourierChar (tracePair (cubicThetaFrequency (cubicThetaPrimaryNumerator cd)) z):ℂ)*
+          W (norm cd.val.1*norm cd.val.2^3/(27*Z)) := by
+  let f (n : Eisenstein) : ℂ := theta ℓ n*
+    cubicThetaCoefficientTwist cubicThetaSelectedCoefficient z n*
+      (‖cubicThetaFrequency n‖:ℂ)*W (‖cubicThetaFrequency n‖^2/Z)
+  have hs : Function.support f ⊆ {n | n≠0} := by
+    intro n hn hz
+    subst n
+    exact hn (by simp [f,cubicThetaFrequency])
+  change (∑' n : MetaplecticDualArgument,f n.val)=_
+  calc
+    _ = ∑' n : Eisenstein,f n := tsum_subtype_eq_of_support_subset hs
+    _ = ∑' n : Eisenstein,if cubicThetaPrimarySupport n then
+        theta ℓ n*cubicThetaCoefficientTwist cubicThetaConjugateCoefficient z n*
+          (‖cubicThetaFrequency n‖:ℂ)*W (‖cubicThetaFrequency n‖^2/Z) else 0 := by
+      apply tsum_congr
+      intro n
+      by_cases hn : cubicThetaPrimarySupport n <;>
+        simp [f,cubicThetaCoefficientTwist,cubicThetaSelectedCoefficient,hn]
+    _ = ∑' cd : CubicThetaPrimaryPair,
+        theta ℓ (cubicThetaPrimaryNumerator cd)*
+          cubicThetaCoefficientTwist cubicThetaConjugateCoefficient z (cubicThetaPrimaryNumerator cd)*
+          (‖cubicThetaFrequency (cubicThetaPrimaryNumerator cd)‖:ℂ)*
+          W (‖cubicThetaFrequency (cubicThetaPrimaryNumerator cd)‖^2/Z) := cubicThetaPrimary_tsum _
+    _ = _ := by simp_rw [cubicThetaPrimary_smooth_term]; rw [tsum_mul_left]
+
+/-- Scaling the additive cusp by lambda cubed removes the inverse different
+from every selected frequency. -/
+lemma cubicThetaPrimary_additive_phase (cd : CubicThetaPrimaryPair) (r u : Eisenstein) :
+    (Real.fourierChar (tracePair (cubicThetaFrequency (cubicThetaPrimaryNumerator cd))
+      ((traceLambda^3*(u:ℂ))/(r:ℂ))):ℂ)=
+      additivePhase r (cd.val.1*cd.val.2^3*u) := by
+  rw [additivePhase_fourierChar]
+  congr 1
+  unfold tracePair cubicThetaFrequency cubicThetaPrimaryNumerator
+  push_cast
+  rw [lambdaE_coe]
+  congr 2
+  field_simp [traceLambda_ne_zero]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaSmoothPairSupport
+attribute [-instance] _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaFullPointAction_properlyDiscontinuous _root_.OAI.CubicFirstMoment.cubicThetaPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeIwahori_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubePointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootHeckeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeCubeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootAutomorphicL2_complete _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverGroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCoverPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootCover_measurableSpace _root_.OAI.CubicFirstMoment.cubicThetaPrimeRootTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaPrincipalGroup_countable _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_continuous _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointAction_free _root_.OAI.CubicFirstMoment.cubicThetaPrincipalPointMeasure_invariant _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_finiteOnCompacts _root_.OAI.CubicFirstMoment.cubicThetaQuotientMeasure_locallyFinite _root_.OAI.CubicFirstMoment.cubicThetaQuotient_borelSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_chartedSpace _root_.OAI.CubicFirstMoment.cubicThetaQuotient_isManifold _root_.OAI.CubicFirstMoment.cubicThetaQuotient_locallyCompact _root_.OAI.CubicFirstMoment.cubicThetaQuotient_secondCountable _root_.OAI.CubicFirstMoment.cubicThetaQuotient_t2 _root_.OAI.CubicFirstMoment.cubicThetaRelativeSubgroup_finiteIndex _root_.OAI.CubicFirstMoment.cubicThetaRelativeTransversal_finite _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_action _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_continuous _root_.OAI.CubicFirstMoment.cubicThetaScaledPeriodGroup_measure _root_.OAI.CubicFirstMoment.instCommGroupCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instContinuousConstSMulSubtypeSpecialLinearGroupFinOfNatNatComplexMemSubalgebraIntEisensteinSubgroupCubicThetaPrincipalGroupGroupCubicThetaPoint _root_.OAI.CubicFirstMoment.instCountableCubicThetaScaledPeriodGroup _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.OAI.CubicFirstMoment.instFiniteUnitsSubtypeComplexMemSubalgebraIntEisenstein_p3 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Compact radial support gives genuine finite sums over the unique
+primary squarefree/cube pairs. -/
+noncomputable section
+open Set
+namespace CubicFirstMoment
+
+lemma cubicThetaPrimary_smooth_support (W : ℝ→ℂ) (hW : HasCompactSupport W)
+    {X : ℝ} (hX : 0<X) :
+    Set.Finite {cd : CubicThetaPrimaryPair | W (norm cd.val.1*norm cd.val.2^3/X)≠0} := by
+  obtain ⟨B,hB⟩ := hW.isCompact.isBounded.exists_norm_le
+  have hpre : Set.Finite {cd : CubicThetaPrimaryPair |
+      norm (cubicThetaPrimaryNumerator cd)≤3*(B*X)} :=
+    Set.Finite.preimage cubicThetaPrimaryNumerator_injective.injOn (finite_norm_le _)
+  apply hpre.subset
+  intro cd hcd
+  have hb := hB _ (subset_tsupport W hcd)
+  have hprod : norm cd.val.1*norm cd.val.2^3≤B*X := by
+    apply (div_le_iff₀ hX).mp
+    exact (le_abs_self _).trans (by simpa only [Real.norm_eq_abs] using hb)
+  have hf := cubicThetaFrequency_sq (cubicThetaPrimaryNumerator cd)
+  rw [cubicThetaPrimaryFrequency_sq] at hf
+  change norm (cubicThetaPrimaryNumerator cd)≤3*(B*X)
+  linarith
+
+lemma cubicThetaPrimary_smooth_summable (a : CubicThetaPrimaryPair→ℂ)
+    (W : ℝ→ℂ) (hW : HasCompactSupport W) {X : ℝ} (hX : 0<X) :
+    Summable (fun cd : CubicThetaPrimaryPair =>
+      a cd*W (norm cd.val.1*norm cd.val.2^3/X)) := by
+  apply summable_of_hasFiniteSupport
+  apply (cubicThetaPrimary_smooth_support W hW hX).subset
+  intro cd hcd
+  exact (mul_ne_zero_iff.mp hcd).2
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaCharacterAverage
+attribute [-instance] _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The finite cubic-character average of the actual selected Gauss sum.
+The zero extension removes every cube factor sharing a prime with the level. -/
+noncomputable section
+open scoped BigOperators
+namespace CubicFirstMoment
+attribute [local instance] Classical.propDecidable
+
+lemma cubicThetaPrimary_character_sum {r : Eisenstein} (hr : primary r) (hs : Squarefree r)
+    [Fintype (Residues r)] (c d : Eisenstein) :
+    (∑ u : Residues r,cubicSymbol r (residueRepresentative r u)*
+      additivePhase r (c*d^3*residueRepresentative r u))=
+    (Real.sqrt (norm r):ℂ)*gauss r*
+      (if IsCoprime r d then star (cubicSymbol r c) else 0) := by
+  have hN : (Real.sqrt (norm r):ℂ)≠0 :=
+    Complex.ofReal_ne_zero.mpr (Real.sqrt_pos.mpr (norm_pos_of_ne_zero (primary_ne_zero hr))).ne'
+  calc
+    _ = (Real.sqrt (norm r):ℂ)*frequencyGauss r (c*d^3) := by
+      rw [frequencyGauss,tsum_fintype,←mul_assoc,mul_inv_cancel₀ hN,one_mul]
+    _ = _ := by
+      rw [frequencyGauss_squarefree hr hs,cubicSymbol_mul_upper hr,cubicSymbol_pow_upper hr]
+      by_cases hd : IsCoprime r d
+      · rw [ite_eq_left hd,cubicSymbol_cube_of_isCoprime hr d hd,mul_one]
+        ring
+      · rw [ite_eq_right hd,cubicSymbol_eq_zero_of_not_isCoprime hr hd]
+        simp
+
+lemma cubicThetaSelectedSmoothSum_rational (r u : Eisenstein) (ℓ : ℤ)
+    (W : ℝ→ℂ) (X : ℝ) :
+    cubicThetaSelectedSmoothSum ℓ ((traceLambda^3*(u:ℂ))/(r:ℂ)) W (X/27)=
+      ((3^(5/2:ℝ):ℝ):ℂ)*theta ℓ lambdaE*cubicThetaPrimaryGaussSum r u ℓ W X := by
+  rw [cubicThetaSelectedSmoothSum_pairs]
+  have he : 27*(X/27)=X := by ring
+  simp_rw [he,cubicThetaPrimary_additive_phase]
+  rfl
+
+theorem cubicThetaPrimaryGaussSum_average {r : Eisenstein} (hr : primary r) (hs : Squarefree r)
+    [Fintype (Residues r)] (ℓ : ℤ) (W : ℝ→ℂ) (hW : HasCompactSupport W)
+    {X : ℝ} (hX : 0<X) :
+    (∑ u : Residues r,cubicSymbol r (residueRepresentative r u)*
+      cubicThetaPrimaryGaussSum r (residueRepresentative r u) ℓ W X)=
+    (Real.sqrt (norm r):ℂ)*gauss r*
+      ∑' cd : CubicThetaPrimaryPair,
+        if IsCoprime r cd.val.2 then
+          (Real.sqrt (norm cd.val.2):ℂ)*gauss cd.val.1*theta ℓ (cd.val.1*cd.val.2^3)*
+            star (cubicSymbol r cd.val.1)*W (norm cd.val.1*norm cd.val.2^3/X)
+        else 0 := by
+  let F (u : Residues r) (cd : CubicThetaPrimaryPair) : ℂ :=
+    cubicSymbol r (residueRepresentative r u)*
+      ((Real.sqrt (norm cd.val.2):ℂ)*gauss cd.val.1*theta ℓ (cd.val.1*cd.val.2^3)*
+        additivePhase r (cd.val.1*cd.val.2^3*residueRepresentative r u))*
+          W (norm cd.val.1*norm cd.val.2^3/X)
+  have hF (u : Residues r) : Summable (F u) := cubicThetaPrimary_smooth_summable _ W hW hX
+  have hterm (cd : CubicThetaPrimaryPair) :
+      (∑ u : Residues r,F u cd)=
+      (Real.sqrt (norm r):ℂ)*gauss r*
+        (if IsCoprime r cd.val.2 then
+          (Real.sqrt (norm cd.val.2):ℂ)*gauss cd.val.1*theta ℓ (cd.val.1*cd.val.2^3)*
+            star (cubicSymbol r cd.val.1)*W (norm cd.val.1*norm cd.val.2^3/X)
+        else 0) := by
+    let A := (Real.sqrt (norm cd.val.2):ℂ)*gauss cd.val.1*theta ℓ (cd.val.1*cd.val.2^3)*
+      W (norm cd.val.1*norm cd.val.2^3/X)
+    have ht : (∑ u : Residues r,F u cd)=A*
+        ∑ u : Residues r,cubicSymbol r (residueRepresentative r u)*
+          additivePhase r (cd.val.1*cd.val.2^3*residueRepresentative r u) := by
+      rw [Finset.mul_sum]
+      apply Finset.sum_congr rfl
+      intro u _
+      dsimp only [F,A]
+      ring
+    rw [ht,cubicThetaPrimary_character_sum hr hs]
+    by_cases hd : IsCoprime r cd.val.2 <;> simp only [hd,ite_true, if_true,ite_false, if_false]
+    · dsimp only [A]
+      ring
+    · ring
+  calc
+    _ = ∑ u : Residues r,∑' cd : CubicThetaPrimaryPair,F u cd := by
+      apply Finset.sum_congr rfl
+      intro u _
+      rw [cubicThetaPrimaryGaussSum,←tsum_mul_left]
+      apply tsum_congr
+      intro cd
+      dsimp only [F]
+      ring
+    _ = ∑' cd : CubicThetaPrimaryPair,∑ u : Residues r,F u cd :=
+      (Summable.tsum_finsetSum (fun u _ => hF u)).symm
+    _ = _ := by simp_rw [hterm]; rw [tsum_mul_left]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaCuspPeriodicity
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The three actual cusp coefficient families depend only on the integer
+cusp index modulo three. This is inherited from their literal support. -/
+noncomputable section
+open scoped MatrixGroups
+namespace CubicFirstMoment
+
+lemma cubicThetaCuspIndex_congr {x y : Eisenstein} (h : (3:Eisenstein)∣x-y) :
+    (3:ℤ)∣cubicThetaCuspIndex x-cubicThetaCuspIndex y := by
+  obtain ⟨t,ht⟩ := h
+  refine ⟨cubicThetaCuspIndex t,?_⟩
+  have he : x-y=(3:ℤ) • t := by simpa only [zsmul_eq_mul,Int.cast_ofNat] using ht
+  have hh := congrArg (fun z : Eisenstein => coordinatesEquiv.symm z 1) he
+  simpa only [cubicThetaCuspIndex,map_sub,map_smul,Pi.sub_apply,Pi.smul_apply,
+    smul_eq_mul] using hh
+
+lemma cubicThetaCuspIndex_omega (j : ℤ) :
+    cubicThetaCuspIndex ((j:Eisenstein)*omegaE)=j := by
+  have he : coordinatesEquiv ![(0:ℤ),j]=(j:Eisenstein)*omegaE := by
+    change ofCoords 0 j=_
+    simp [ofCoords]
+  unfold cubicThetaCuspIndex
+  rw [←he,LinearEquiv.symm_apply_apply]
+  rfl
+
+lemma cubicThetaProjectedCuspType_congr (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (ha : (3:Eisenstein)∣g 0 0) (j : Fin 3) :
+    (3:ℤ)∣cubicThetaProjectedCuspType g j-(j.val:ℤ) := by
+  have hj : cubicThetaProjectedCuspMatrix g j 0 0=
+      g 0 0+(j.val:Eisenstein)*omegaE*g 1 0 := by
+    change ((!![1,(j.val:Eisenstein)*omegaE;0,1] : Matrix (Fin 2) (Fin 2) Eisenstein)*g.val) 0 0=_
+    simp [Matrix.mul_apply,Fin.sum_univ_two]
+  have h : (3:Eisenstein)∣cubicThetaProjectedCuspMatrix g j 0 0-(j.val:Eisenstein)*omegaE := by
+    rw [hj]
+    convert dvd_add ha (dvd_mul_of_dvd_right hc ((j.val:Eisenstein)*omegaE)) using 1
+    all_goals try with_reducible_and_instances rfl
+    ring
+  have hh := cubicThetaCuspIndex_congr h
+  have hjindex : cubicThetaCuspIndex ((j.val:Eisenstein)*omegaE)=(j.val:ℤ) := by
+    simpa only [Int.cast_natCast] using cubicThetaCuspIndex_omega (j.val:ℤ)
+  rw [hjindex] at hh
+  exact hh
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaNineCusp
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! A prescribed first column with lower-right entry divisible by nine.
+This makes the common-lattice additive phase a literal residue character. -/
+noncomputable section
+open scoped MatrixGroups Matrix
+namespace CubicFirstMoment
+
+theorem cubicThetaNineGaussMatrix_multiplier (r : Eisenstein) (hr : primary r)
+    (u : Eisenstein) (hu : IsCoprime r u) (j : Fin 3) :
+    cubicThetaProjectedCuspMultiplier (cubicThetaNineGaussMatrix r hr u hu)
+      (cubicThetaNineGaussMatrix_primary r hr u hu) j=cubicSymbol r u := by
+  let g := cubicThetaNineGaussMatrix r hr u hu
+  have hc := cubicThetaNineGaussMatrix_primary r hr u hu
+  have hd : (3:Eisenstein)∣g 1 1 :=
+    dvd_trans (show (3:Eisenstein)∣9 from ⟨3,by norm_num⟩) (cubicThetaNineGaussMatrix_nine r hr u hu)
+  have ha : (3:Eisenstein)∣g 0 0 := by
+    rw [(cubicThetaNineGaussMatrix_entries r hr u hu).1]
+    refine ⟨-lambdaE*u,?_⟩
+    rw [pow_succ,lambdaE_sq]
+    ring
+  rw [cubicThetaProjectedCuspMultiplier_constant g hc hd j,
+    cubicThetaPrimaryBottom_multiplier_adapted g hc ha hd,
+    (cubicThetaNineGaussMatrix_entries r hr u hu).2.1,
+    (cubicThetaNineGaussMatrix_entries r hr u hu).1,
+    cubicSymbol_mul_upper hr,cubicSymbol_pow_upper hr,
+    cubicSymbol_cube_of_isCoprime hr lambdaE (primary_coprime_lambda hr),one_mul]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRawPairs
+attribute [-instance] _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The finite Gauss average equals the manuscript's actual raw completed
+sum. Nonsquarefree terms vanish by the proved finite Gauss-sum identity. -/
+noncomputable section
+open scoped BigOperators
+namespace CubicFirstMoment
+attribute [local instance] Classical.propDecidable
+
+lemma metaplecticRawCompleted_primary_pairs (r : Eisenstein) (ℓ : ℤ)
+    (W : ℝ→ℂ) (X : ℝ) :
+    metaplecticRawCompleted r ℓ W X=
+      ∑' cd : CubicThetaPrimaryPair,
+        if IsCoprime r cd.val.2 then
+          (Real.sqrt (norm cd.val.2):ℂ)*gauss cd.val.1*theta ℓ (cd.val.1*cd.val.2^3)*
+            star (cubicSymbol r cd.val.1)*W (norm cd.val.1*norm cd.val.2^3/X)
+        else 0 := by
+  let f (du : PrimaryArgument × PrimaryArgument) : ℂ :=
+    if IsCoprime (du.1:Eisenstein) r then
+      (Real.sqrt (norm du.1):ℂ)*gauss du.2*theta ℓ (du.2*du.1^3)*
+        star (cubicSymbol r du.2)*W (norm (du.2*du.1^3)/X)
+    else 0
+  have hs : Function.support f ⊆ {du | Squarefree (du.2:Eisenstein)} := by
+    intro du hdu
+    by_contra hns
+    apply hdu
+    dsimp only [f]
+    rw [gauss_eq_zero_of_not_squarefree du.2.property hns]
+    split_ifs <;> ring
+  change (∑' du,f du)=_
+  calc
+    _ = ∑' du : {du : PrimaryArgument × PrimaryArgument // Squarefree (du.2:Eisenstein)},
+        f du.val := (tsum_subtype_eq_of_support_subset hs).symm
+    _ = ∑' cd : CubicThetaPrimaryPair,f (cubicThetaPrimaryPairEquiv cd).val :=
+      (cubicThetaPrimaryPairEquiv.tsum_eq _).symm
+    _ = _ := by
+      apply tsum_congr
+      intro cd
+      dsimp only [f,cubicThetaPrimaryPairEquiv,Equiv.coe_fn_mk]
+      rw [isCoprime_comm,norm_mul_eq,eisenstein_norm_pow]
+
+theorem cubicThetaPrimaryGaussSum_average_raw {r : Eisenstein}
+    (hr : primary r) (hs : Squarefree r) [Fintype (Residues r)]
+    (ℓ : ℤ) (W : ℝ→ℂ) (hW : HasCompactSupport W) {X : ℝ} (hX : 0<X) :
+    (∑ u : Residues r,cubicSymbol r (residueRepresentative r u)*
+      cubicThetaPrimaryGaussSum r (residueRepresentative r u) ℓ W X)=
+    (Real.sqrt (norm r):ℂ)*gauss r*metaplecticRawCompleted r ℓ W X := by
+  rw [cubicThetaPrimaryGaussSum_average hr hs ℓ W hW hX,metaplecticRawCompleted_primary_pairs]
+
+/-- Exact finite additive detection of the raw completed cubic Gauss sum,
+with the angular lambda factor and the scale 27 both retained. -/
+theorem cubicThetaSelectedSmoothSum_average_raw {r : Eisenstein}
+    (hr : primary r) (hs : Squarefree r) [Fintype (Residues r)]
+    (ℓ : ℤ) (W : ℝ→ℂ) (hW : HasCompactSupport W) {X : ℝ} (hX : 0<X) :
+    (∑ u : Residues r,cubicSymbol r (residueRepresentative r u)*
+      cubicThetaSelectedSmoothSum ℓ
+        ((traceLambda^3*(residueRepresentative r u:ℂ))/(r:ℂ)) W (X/27))=
+    (((3^(5/2:ℝ):ℝ):ℂ)*theta ℓ lambdaE)*
+      ((Real.sqrt (norm r):ℂ)*gauss r)*metaplecticRawCompleted r ℓ W X := by
+  simp_rw [cubicThetaSelectedSmoothSum_rational]
+  calc
+    _ = (((3^(5/2:ℝ):ℝ):ℂ)*theta ℓ lambdaE)*
+        ∑ u : Residues r,cubicSymbol r (residueRepresentative r u)*
+          cubicThetaPrimaryGaussSum r (residueRepresentative r u) ℓ W X := by
+      rw [Finset.mul_sum]
+      apply Finset.sum_congr rfl
+      intro u _
+      ring
+    _ = _ := by rw [cubicThetaPrimaryGaussSum_average_raw hr hs ℓ W hW hX]; ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaResidueCusps
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! A concrete rational-cusp lift on every residue. Nonunit residues get
+an arbitrary determinant-one lift, and their cubic character weight is zero. -/
+noncomputable section
+open scoped MatrixGroups
+namespace CubicFirstMoment
+attribute [local instance] Classical.propDecidable
+
+lemma cubicThetaResidueCuspMatrix_of_coprime (r : Eisenstein) (hr : primary r)
+    (u : Eisenstein) (hu : IsCoprime r u) :
+    cubicThetaResidueCuspMatrix r hr u = cubicThetaNineGaussMatrix r hr u hu := by
+  exact dite_eq_left hu
+
+lemma cubicThetaResidueCuspMatrix_cusp (r : Eisenstein) (hr : primary r)
+    (u : Eisenstein) (hu : IsCoprime r u) :
+    cubicThetaPrimaryCuspCenter (cubicThetaResidueCuspMatrix r hr u)=
+      (traceLambda^3*(u:ℂ))/(r:ℂ) := by
+  rw [cubicThetaResidueCuspMatrix,dite_eq_left hu]
+  unfold cubicThetaPrimaryCuspCenter
+  rw [(cubicThetaNineGaussMatrix_entries r hr u hu).1,
+    (cubicThetaNineGaussMatrix_entries r hr u hu).2.1,
+    Subalgebra.coe_mul,Subalgebra.coe_pow,lambdaE_coe]
+
+lemma cubicThetaResidueCuspMatrix_weighted (r : Eisenstein) (hr : primary r)
+    (u : Eisenstein) (rev : Bool) (k : ℕ) (W : ℝ→ℂ) (Z : ℝ) :
+    cubicSymbol r u*cubicThetaSelectedAdditiveSum (cubicThetaResidueCuspMatrix r hr u) rev k W Z=
+      cubicSymbol r u*cubicThetaSelectedSmoothSum (cubicThetaCircleOrder (!rev) k)
+        ((traceLambda^3*(u:ℂ))/(r:ℂ)) W Z := by
+  by_cases hu : IsCoprime r u
+  · rw [cubicThetaSelectedAdditiveSum_eq,cubicThetaResidueCuspMatrix_cusp r hr u hu]
+  · rw [cubicSymbol_eq_zero_of_not_isCoprime hr hu,zero_mul,zero_mul]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRamanujanProduct
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p0 _root_.OAI.CubicFirstMoment.instFintypeUnitsSubtypeComplexMemSubalgebraIntEisenstein_p2 _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The actual finite Ramanujan average is precisely the squarefree local
+Euler coefficient in the published Voronoi formula. -/
+noncomputable section
+open scoped BigOperators
+namespace CubicFirstMoment
+attribute [local instance] Classical.propDecidable
+
+lemma cubicTheta_sum_eq_units {R : Type*} [CommRing R] [Fintype R]
+    (f : R→ℂ) (hf : ∀ x,¬IsUnit x→f x=0) :
+    (∑ x : R,f x)=∑ u : Rˣ,f u := by
+  have hs : Function.support f ⊆ {x | IsUnit x} := by
+    intro x hx
+    by_contra hu
+    exact hx (hf x hu)
+  let e := (Submonoid.unitsTypeEquivIsUnitSubmonoid (M:=R)).toEquiv
+  calc
+    _ = ∑' x : R,f x := (tsum_fintype _).symm
+    _ = ∑' x : {x : R // IsUnit x},f x := (tsum_subtype_eq_of_support_subset hs).symm
+    _ = ∑' u : Rˣ,f u := (e.tsum_eq (fun x => f x.val)).symm
+    _ = _ := tsum_fintype _
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaProjectedConstant
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The actual radial constant in the adapted primary cusp. The arithmetic
+base scalar is retained, including after finite character averaging. -/
+noncomputable section
+open scoped BigOperators MatrixGroups
+namespace CubicFirstMoment
+
+lemma cubicThetaActualCuspConstant_adapted (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (ha : (3:Eisenstein)∣g 0 0) (j : Fin 3) :
+    cubicThetaActualCuspConstant (cubicThetaProjectedCuspType g j)=
+      if j=0 then cubicThetaSeriesConstant else 0 := by
+  have hcong := cubicThetaProjectedCuspType_congr g hc ha j
+  have hj : (3:ℤ)∣cubicThetaProjectedCuspType g j ↔ j=0 := by
+    constructor
+    · intro hd
+      have h := dvd_sub hd hcong
+      have hdj : (3:ℤ)∣(j.val:ℤ) := by simpa only [sub_sub_cancel] using h
+      apply Fin.ext
+      have hjb := j.isLt
+      obtain ⟨k,hk⟩ := hdj
+      dsimp only [Fin.val_zero]
+      omega
+    · intro hj
+      subst j
+      simpa only [Fin.val_zero,Nat.cast_zero,sub_zero] using hcong
+  simp only [cubicThetaActualCuspConstant,hj]
+
+lemma cubicThetaNineGaussMatrix_constant (r : Eisenstein) (hr : primary r)
+    (u : Eisenstein) (hu : IsCoprime r u) :
+    cubicThetaProjectedConstant (cubicThetaNineGaussMatrix r hr u hu)
+      (cubicThetaNineGaussMatrix_primary r hr u hu)=
+      star (cubicSymbol r u)*star cubicThetaSeriesConstant/3 := by
+  have ha : (3:Eisenstein)∣cubicThetaNineGaussMatrix r hr u hu 0 0 := by
+    rw [(cubicThetaNineGaussMatrix_entries r hr u hu).1]
+    refine ⟨-lambdaE*u,?_⟩
+    rw [pow_succ,lambdaE_sq]
+    ring
+  unfold cubicThetaProjectedConstant
+  simp_rw [cubicThetaNineGaussMatrix_multiplier,
+    cubicThetaActualCuspConstant_adapted _ (cubicThetaNineGaussMatrix_primary r hr u hu) ha]
+  simp [Fin.sum_univ_three]
+
+lemma cubicThetaResidueCuspMatrix_weighted_constant (r : Eisenstein) (hr : primary r)
+    (u : Eisenstein) (hu : IsCoprime r u) :
+    cubicSymbol r u*cubicThetaProjectedConstant (cubicThetaResidueCuspMatrix r hr u)
+      (cubicThetaResidueCuspPrimary r hr u)=star cubicThetaSeriesConstant/3 := by
+  have h := cubicThetaNineGaussMatrix_constant r hr u hu
+  have hg := cubicThetaResidueCuspMatrix_of_coprime r hr u hu
+  have hc : cubicThetaProjectedConstant (cubicThetaResidueCuspMatrix r hr u)
+      (cubicThetaResidueCuspPrimary r hr u)=
+      star (cubicSymbol r u)*star cubicThetaSeriesConstant/3 := by
+    simpa only [hg] using h
+  rw [hc]
+  have hχ : cubicSymbol r u*star (cubicSymbol r u)=1 := by
+    rw [Complex.star_def,Complex.mul_conj',norm_cubicSymbol_of_isCoprime hr hu]
+    norm_num
+  calc
+    _ = (cubicSymbol r u*star (cubicSymbol r u))*star cubicThetaSeriesConstant/3 := by ring
+    _ = _ := by rw [hχ,one_mul]
+
+lemma cubicThetaResidueConstant_units (r : Eisenstein) (hr : primary r)
+    [Fintype (Residues r)] :
+    cubicThetaResidueConstant r hr=
+      (Nat.card (Residues r)ˣ:ℂ)*(star cubicThetaSeriesConstant/3) := by
+  classical
+  let F : Residues r→ℂ := fun u => cubicSymbol r (residueRepresentative r u)*
+    cubicThetaProjectedConstant (cubicThetaResidueCuspMatrix r hr (residueRepresentative r u))
+      (cubicThetaResidueCuspPrimary r hr (residueRepresentative r u))
+  have hz (u : Residues r) (hu : ¬IsUnit u) : F u=0 := by
+    have hn : ¬IsCoprime r (residueRepresentative r u) := by
+      intro h
+      exact hu (by simpa only [residueRepresentative_spec] using residue_isUnit_of_isCoprime h)
+    dsimp only [F]
+    rw [cubicSymbol_eq_zero_of_not_isCoprime hr hn,zero_mul]
+  change (∑ u : Residues r,F u)=_
+  rw [cubicTheta_sum_eq_units F hz]
+  have he (u : (Residues r)ˣ) : F u=star cubicThetaSeriesConstant/3 :=
+    cubicThetaResidueCuspMatrix_weighted_constant r hr _ (cubicThetaUnitRepresentative_coprime r u)
+  simp_rw [he]
+  simp only [Finset.sum_const,Finset.card_univ,nsmul_eq_mul,←Nat.card_eq_fintype_card]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaProjectedRadial
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The zero angular mode of the actual primary projection, with its
+constant-to-Fourier ratio retained in the pole coefficient. -/
+noncomputable section
+open Set MeasureTheory
+open scoped MatrixGroups
+namespace CubicFirstMoment
+
+lemma cubicThetaBoundedScaledAxis_zero (a : Eisenstein→ℂ) (z : ℂ) (r t : ℝ) :
+    cubicThetaBoundedScaledAxis a 0 z r t=cubicThetaNonconstant a (z,r*t) := by
+  rw [cubicThetaBoundedScaledAxis,cubicThetaAngularCoefficient_zero]
+
+lemma cubicThetaSelectedRadialAxis_reciprocal (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {t : ℝ} (ht : 0<t) :
+    cubicThetaSelectedRadialAxis g t⁻¹=cubicThetaProjectedRadialAxis g hc t+
+      cubicThetaProjectedRadialConstant g hc*(t:ℂ)^(2/3:ℂ) := by
+  have hr := cubicThetaLevelScale_pos hc
+  have hv := mul_pos hr ht
+  have h := cubicThetaSelected_projected_plane g hc 0 hv
+  have hinv : cubicThetaInversion (g 1 0:ℂ) (0,cubicThetaLevelScale (g 1 0)*t)=
+      (0,cubicThetaLevelScale (g 1 0)*t⁻¹) := by
+    rw [cubicThetaInversion_center _ hv]
+    change (0,(norm (g 1 0)*(cubicThetaLevelScale (g 1 0)*t))⁻¹)=_
+    rw [cubicThetaLevelScale_reciprocal hc ht]
+  rw [hinv] at h
+  simp only [zero_add,cubicThetaProjectedPlane] at h
+  rw [Real.mul_rpow hr.le ht.le,Complex.ofReal_mul] at h
+  have hp : ((t^(2/3:ℝ):ℝ):ℂ)=(t:ℂ)^(2/3:ℂ) := by
+    simpa only [Complex.ofReal_div,Complex.ofReal_ofNat] using Complex.ofReal_cpow ht.le (2/3:ℝ)
+  rw [hp] at h
+  unfold cubicThetaSelectedRadialAxis cubicThetaProjectedRadialAxis cubicThetaProjectedRadialConstant
+  simp only [cubicThetaBoundedScaledAxis_zero]
+  rw [h]
+  ring
+
+lemma cubicThetaSelectedRadialAxis_small (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {t : ℝ} (ht : 0<t) :
+    cubicThetaSelectedRadialAxis g t=cubicThetaProjectedRadialAxis g hc t⁻¹+
+      cubicThetaProjectedRadialConstant g hc*(t:ℂ)^(-(2/3:ℂ)) := by
+  have h := cubicThetaSelectedRadialAxis_reciprocal g hc (inv_pos.mpr ht)
+  rw [inv_inv,Complex.ofReal_inv,Complex.inv_cpow_ofReal_nonneg ht.le,←Complex.cpow_neg] at h
+  exact h
+
+lemma cubicThetaProjectedRadialAxis_small (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {t : ℝ} (ht : 0<t) :
+    cubicThetaProjectedRadialAxis g hc t=cubicThetaSelectedRadialAxis g t⁻¹-
+      cubicThetaProjectedRadialConstant g hc*(t:ℂ)^(2/3:ℂ) := by
+  have h := cubicThetaSelectedRadialAxis_reciprocal g hc ht
+  linear_combination -h
+
+lemma cubicThetaSelectedRadial_mellin (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {s : ℂ} (hs : 2/3 < s.re) :
+    MellinConvergent (cubicThetaSelectedRadialAxis g) s ∧
+      mellin (cubicThetaSelectedRadialAxis g) s=cubicThetaSelectedRadialCompleted g hc s := by
+  have H := theta_mellin_split_cubic_poles (f:=cubicThetaSelectedRadialAxis g) (g:=cubicThetaProjectedRadialAxis g hc)
+    (a:=cubicThetaProjectedRadialConstant g hc) (b:=0)
+    (fun t ht => by simpa only [zero_mul,add_zero] using cubicThetaSelectedRadialAxis_small g hc ht)
+    hs
+    (cubicThetaBoundedScaledUpper_mellinConvergent (by norm_num : (0:ℝ)≤81)
+      cubicThetaSelectedCoefficient_arithmetic_bound 0 _ (cubicThetaLevelScale_pos hc) s)
+    (cubicThetaBoundedScaledUpper_mellinConvergent (by norm_num : (0:ℝ)≤243)
+      (cubicThetaProjectedCoefficient_arithmetic_bound g hc) 0 _ (cubicThetaLevelScale_pos hc) (-s))
+  simpa only [zero_div,add_zero,cubicThetaSelectedRadialCompleted] using H
+
+lemma cubicThetaProjectedRadial_mellin (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {s : ℂ} (hs : 2/3 < s.re) :
+    MellinConvergent (cubicThetaProjectedRadialAxis g hc) s ∧
+      mellin (cubicThetaProjectedRadialAxis g hc) s=cubicThetaProjectedRadialCompleted g hc s := by
+  have H := theta_mellin_split_cubic_poles (f:=cubicThetaProjectedRadialAxis g hc) (g:=cubicThetaSelectedRadialAxis g)
+    (a:=0) (b:= -cubicThetaProjectedRadialConstant g hc)
+    (fun t ht => by simpa only [zero_mul,add_zero,neg_mul,sub_eq_add_neg] using
+      cubicThetaProjectedRadialAxis_small g hc ht) hs
+    (cubicThetaBoundedScaledUpper_mellinConvergent (by norm_num : (0:ℝ)≤243)
+      (cubicThetaProjectedCoefficient_arithmetic_bound g hc) 0 _ (cubicThetaLevelScale_pos hc) s)
+    (cubicThetaBoundedScaledUpper_mellinConvergent (by norm_num : (0:ℝ)≤81)
+      cubicThetaSelectedCoefficient_arithmetic_bound 0 _ (cubicThetaLevelScale_pos hc) (-s))
+  simpa only [zero_div,add_zero,neg_div,sub_eq_add_neg,cubicThetaProjectedRadialCompleted] using H
+
+lemma cubicThetaSelectedRadialCompleted_functional (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (s : ℂ) :
+    cubicThetaSelectedRadialCompleted g hc s=cubicThetaProjectedRadialCompleted g hc (-s) := by
+  unfold cubicThetaSelectedRadialCompleted cubicThetaProjectedRadialCompleted
+  rw [neg_neg,show -s+2/3= -(s-2/3) by ring,div_neg]
+  ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaProjectedRadialPoles
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The actual primary-projected radial continuation has one pole in
+each half-plane. Its residue retains the genuine arithmetic scalar. -/
+noncomputable section
+open Filter
+open scoped Topology MatrixGroups
+namespace CubicFirstMoment
+
+lemma cubicThetaSelectedRadialTail_entire (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) :
+    Differentiable ℂ (mellin (thetaUpper (cubicThetaSelectedRadialAxis g))) :=
+  cubicThetaBoundedScaledUpper_entire (by norm_num : (0:ℝ)≤81)
+    cubicThetaSelectedCoefficient_arithmetic_bound 0 _ (cubicThetaLevelScale_pos hc)
+
+lemma cubicThetaProjectedRadialTail_entire (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) :
+    Differentiable ℂ (mellin (thetaUpper (cubicThetaProjectedRadialAxis g hc))) :=
+  cubicThetaBoundedScaledUpper_entire (by norm_num : (0:ℝ)≤243)
+    (cubicThetaProjectedCoefficient_arithmetic_bound g hc) 0 _ (cubicThetaLevelScale_pos hc)
+
+lemma cubicThetaSelectedRadialCompleted_initial (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {s : ℂ} (hs : 3/2 < s.re) :
+    cubicThetaSelectedRadialCompleted g hc (2*s-1)=
+      cubicThetaAngularCompletion (g 1 0) 0 s*
+        cubicThetaDirichlet (cubicThetaCoefficientTwist cubicThetaSelectedCoefficient
+          (cubicThetaPrimaryCuspCenter g)) (2*s-1) := by
+  have ht : 2/3<(2*s-1).re := by simp only [Complex.sub_re,Complex.mul_re]; norm_num; linarith
+  rw [←(cubicThetaSelectedRadial_mellin g hc ht).2]
+  have he := cubicThetaBoundedScaledAxis_mellin (by norm_num : (0:ℝ)≤81)
+    cubicThetaSelectedCoefficient_norm (cubicThetaLevelScale_pos hc)
+    (cubicThetaPrimaryCuspCenter g) 0 hs
+  simp only [cubicThetaSelectedRadialAxis,cubicThetaAngularCompletion,Int.natAbs_zero,
+    Nat.cast_zero,zero_div,add_zero,theta_zero,one_mul] at he ⊢
+  rw [show -2*s= -(2*s) by ring] at he
+  rw [he]
+  ring
+
+lemma cubicThetaProjectedRadialCompleted_initial (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {s : ℂ} (hs : 3/2 < s.re) :
+    cubicThetaProjectedRadialCompleted g hc (2*s-1)=
+      cubicThetaAngularCompletion (g 1 0) 0 s*
+        cubicThetaDirichlet (cubicThetaCoefficientTwist (cubicThetaProjectedCoefficient g hc)
+          (cubicThetaPrimaryDualCenter g)) (2*s-1) := by
+  have ht : 2/3<(2*s-1).re := by simp only [Complex.sub_re,Complex.mul_re]; norm_num; linarith
+  rw [←(cubicThetaProjectedRadial_mellin g hc ht).2]
+  have he := cubicThetaBoundedScaledAxis_mellin (by norm_num : (0:ℝ)≤243)
+    (cubicThetaProjectedCoefficient_bound g hc) (cubicThetaLevelScale_pos hc)
+    (cubicThetaPrimaryDualCenter g) 0 hs
+  simp only [cubicThetaProjectedRadialAxis,cubicThetaAngularCompletion,Int.natAbs_zero,
+    Nat.cast_zero,zero_div,add_zero,theta_zero,one_mul] at he ⊢
+  rw [show -2*s= -(2*s) by ring] at he
+  rw [he]
+  ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRadialDirichlet
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Actual radial Dirichlet continuation and its functional equation.
+The selected pole coefficient is computed from the actual cusp constant. -/
+noncomputable section
+open Filter
+open scoped MatrixGroups Topology
+namespace CubicFirstMoment
+
+lemma cubicThetaSelectedRadialDirichlet_initial (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {s : ℂ} (hs : 3/2 < s.re) :
+    cubicThetaSelectedRadialDirichlet g hc s=
+      cubicThetaDirichlet (cubicThetaCoefficientTwist cubicThetaSelectedCoefficient
+        (cubicThetaPrimaryCuspCenter g)) (2*s-1) := by
+  obtain ⟨h₁,h₂⟩ := cubicThetaAngular_initial_gamma hs 0
+  rw [cubicThetaSelectedRadialDirichlet,cubicThetaSelectedRadialCompleted_initial g hc hs,
+    ←mul_assoc,mul_comm (cubicThetaAngularUncompletion (g 1 0) 0 s),
+    cubicThetaAngular_completion_cancel hc 0 s h₁ h₂,one_mul]
+
+lemma cubicThetaProjectedRadialDirichlet_initial (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {s : ℂ} (hs : 3/2 < s.re) :
+    cubicThetaProjectedRadialDirichlet g hc s=
+      cubicThetaDirichlet (cubicThetaCoefficientTwist (cubicThetaProjectedCoefficient g hc)
+        (cubicThetaPrimaryDualCenter g)) (2*s-1) := by
+  obtain ⟨h₁,h₂⟩ := cubicThetaAngular_initial_gamma hs 0
+  rw [cubicThetaProjectedRadialDirichlet,cubicThetaProjectedRadialCompleted_initial g hc hs,
+    ←mul_assoc,mul_comm (cubicThetaAngularUncompletion (g 1 0) 0 s),
+    cubicThetaAngular_completion_cancel hc 0 s h₁ h₂,one_mul]
+
+lemma cubicThetaProjectedRadialDirichlet_complete (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {s : ℂ}
+    (h₁ : Complex.Gamma (s+(0:ℕ)/2+1/6)≠0)
+    (h₂ : Complex.Gamma (s+(0:ℕ)/2-1/6)≠0) :
+    cubicThetaProjectedRadialCompleted g hc (2*s-1)=
+      cubicThetaAngularCompletion (g 1 0) 0 s*cubicThetaProjectedRadialDirichlet g hc s := by
+  rw [cubicThetaProjectedRadialDirichlet,←mul_assoc,
+    cubicThetaAngular_completion_cancel hc 0 s h₁ h₂,one_mul]
+
+lemma cubicThetaSelectedRadialDirichlet_functional (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {s : ℂ} (hs : s.re<5/6) :
+    cubicThetaSelectedRadialDirichlet g hc s=
+      (cubicThetaLevelScale (g 1 0):ℂ)^(4*s-2)*((2*Real.pi:ℝ):ℂ)^(4*s-2)*
+        metaplecticGammaQuotient 0 s*cubicThetaProjectedRadialDirichlet g hc (1-s) := by
+  have h₁ : Complex.Gamma (1-s+(0:ℕ)/2+1/6)≠0 := by
+    apply Complex.Gamma_ne_zero_of_re_pos
+    simp only [Nat.cast_zero,zero_div,add_zero,Complex.add_re,Complex.sub_re,
+      Complex.one_re,Complex.div_ofNat_re]
+    norm_num
+    linarith
+  have h₂ : Complex.Gamma (1-s+(0:ℕ)/2-1/6)≠0 := by
+    apply Complex.Gamma_ne_zero_of_re_pos
+    simp only [Nat.cast_zero,zero_div,add_zero,Complex.sub_re,Complex.one_re,Complex.div_ofNat_re]
+    norm_num
+    linarith
+  rw [cubicThetaSelectedRadialDirichlet,cubicThetaSelectedRadialCompleted_functional,
+    show -(2*s-1)=2*(1-s)-1 by ring,
+    cubicThetaProjectedRadialDirichlet_complete g hc h₁ h₂,←mul_assoc]
+  have hr := cubicThetaAngular_archimedean_ratio hc false 0 s
+  simpa only [cubicThetaCircleOrder,Bool.false_eq_true,ite_false, if_false,Nat.cast_zero] using
+    congrArg (fun z : ℂ => z*cubicThetaProjectedRadialDirichlet g hc (1-s)) hr
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRadialResidue
+attribute [-instance] _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The radial residue after the actual finite cubic-character average.
+The remaining arithmetic normalization is explicit. -/
+noncomputable section
+open scoped BigOperators MatrixGroups
+namespace CubicFirstMoment
+
+lemma cubicThetaResidueRadialConstant (r : Eisenstein) (hr : primary r)
+    [Fintype (Residues r)] :
+    (∑ u : Residues r,cubicSymbol r (residueRepresentative r u)*
+      cubicThetaProjectedRadialConstant (cubicThetaResidueCuspMatrix r hr (residueRepresentative r u))
+        (cubicThetaResidueCuspPrimary r hr (residueRepresentative r u)))=
+      cubicThetaResidueConstant r hr*((cubicThetaLevelScale r^(2/3:ℝ):ℝ):ℂ) := by
+  unfold cubicThetaProjectedRadialConstant
+  simp_rw [cubicThetaResidueCuspMatrix_bottom]
+  unfold cubicThetaResidueConstant
+  rw [Finset.sum_mul]
+  apply Finset.sum_congr rfl
+  intro u _
+  ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRadialRegularization
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Explicit removal of the actual radial pole. The residue is retained
+as the computed cusp constant; no normalization of that constant is assumed. -/
+noncomputable section
+open scoped MatrixGroups
+namespace CubicFirstMoment
+
+lemma cubicThetaSelectedRadialTail_differentiable (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) : Differentiable ℂ (cubicThetaSelectedRadialTail g hc) := by
+  have ha : Differentiable ℂ (fun s : ℂ => 2*s-1) := by fun_prop
+  exact ((cubicThetaSelectedRadialTail_entire g hc).comp ha).add
+    ((cubicThetaProjectedRadialTail_entire g hc).comp ha.neg)
+
+lemma cubicThetaSelectedRadialRegularized_differentiable (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) : Differentiable ℂ (cubicThetaSelectedRadialRegularized g hc) := by
+  apply (cubicThetaAngularUncompletion_entire hc 0).mul
+  exact ((differentiable_id.sub_const _).mul
+    (cubicThetaSelectedRadialTail_differentiable g hc)).add_const _
+
+lemma cubicThetaSelectedRadialRegularized_eq (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {s : ℂ} (hs : s≠5/6) :
+    cubicThetaSelectedRadialRegularized g hc s=
+      (s-5/6)*cubicThetaSelectedRadialDirichlet g hc s := by
+  have hp : s-5/6≠0 := sub_ne_zero.mpr hs
+  have hq : 2*s-1-2/3=2*(s-5/6) := by ring
+  unfold cubicThetaSelectedRadialRegularized cubicThetaSelectedRadialDirichlet
+    cubicThetaSelectedRadialCompleted cubicThetaSelectedRadialTail
+  rw [hq]
+  generalize hd : s-(5/6:ℂ)=d at hp ⊢
+  field_simp [hp]
+
+lemma cubicThetaSelectedRadialHolomorphicPart_differentiable (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) : Differentiable ℂ (cubicThetaSelectedRadialHolomorphicPart g hc) := by
+  have hu := cubicThetaAngularUncompletion_entire hc 0
+  have hd : Differentiable ℂ (dslope (cubicThetaAngularUncompletion (g 1 0) 0) (5/6)) := by
+    rw [←differentiableOn_univ]
+    exact (Complex.differentiableOn_dslope Filter.univ_mem).mpr hu.differentiableOn
+  exact (hu.mul (cubicThetaSelectedRadialTail_differentiable g hc)).add (hd.const_mul _)
+
+lemma cubicThetaSelectedRadialDirichlet_pole_decomposition (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {s : ℂ} (hs : s≠5/6) :
+    cubicThetaSelectedRadialDirichlet g hc s=
+      cubicThetaSelectedRadialHolomorphicPart g hc s+
+        cubicThetaSelectedRadialResidue g hc/(s-5/6) := by
+  have hp : s-5/6≠0 := sub_ne_zero.mpr hs
+  have hq : 2*s-1-2/3=2*(s-5/6) := by ring
+  unfold cubicThetaSelectedRadialDirichlet cubicThetaSelectedRadialCompleted
+    cubicThetaSelectedRadialHolomorphicPart cubicThetaSelectedRadialResidue
+    cubicThetaSelectedRadialTail
+  rw [dslope_of_ne _ hs,slope_def_field,hq]
+  field_simp [hp]
+  ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRadialGrowth
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The actual radial pole-removed series has finite vertical order and
+polynomial boundary bounds. These estimates use the literal theta tails. -/
+noncomputable section
+open Set
+open scoped MatrixGroups
+namespace CubicFirstMoment
+
+private lemma finite_order_mul_polynomial {f h : ℂ→ℂ} {a b D : ℝ}
+    (hf : FiniteVerticalOrder f a b) (hD : 0≤D) (m : ℕ)
+    (hh : ∀ s : ℂ,s.re∈Icc a b → ‖h s‖≤D*(1+|s.im|)^m) :
+    FiniteVerticalOrder (fun s => f s*h s) a b := by
+  obtain ⟨C,k,hC,hf⟩ := hf
+  refine ⟨C+D,max k m,add_nonneg hC hD,?_⟩
+  intro s hs
+  have hq : 1≤1+|s.im| := by linarith [abs_nonneg s.im]
+  have hk : (1+|s.im|)^k≤(1+|s.im|)^(max k m) :=
+    pow_le_pow_right₀ hq (le_max_left _ _)
+  have hm : (1+|s.im|)^m≤(1+|s.im|)^(max k m) :=
+    pow_le_pow_right₀ hq (le_max_right _ _)
+  have hexp : D*(1+|s.im|)^m≤Real.exp (D*(1+|s.im|)^m) :=
+    (le_add_of_nonneg_right zero_le_one).trans (Real.add_one_le_exp _)
+  calc
+    ‖f s*h s‖ = ‖f s‖*‖h s‖ := norm_mul _ _
+    _ ≤ Real.exp (C*(1+|s.im|)^k)*Real.exp (D*(1+|s.im|)^m) :=
+      mul_le_mul (hf s hs) ((hh s hs).trans hexp) (_root_.norm_nonneg _) (Real.exp_pos _).le
+    _ = Real.exp (C*(1+|s.im|)^k+D*(1+|s.im|)^m) := (Real.exp_add _ _).symm
+    _ ≤ _ := by
+      apply Real.exp_le_exp.mpr
+      calc
+        _ ≤ C*(1+|s.im|)^(max k m)+D*(1+|s.im|)^(max k m) :=
+          add_le_add (mul_le_mul_of_nonneg_left hk hC) (mul_le_mul_of_nonneg_left hm hD)
+        _ = _ := by ring
+
+lemma cubicTheta_radial_affine_bound (a b : ℝ) (s : ℂ) (hs : s.re∈Icc a b) :
+    ‖s-(5/6:ℂ)‖≤(2+|a|+|b|)*(1+|s.im|) := by
+  have hr : |s.re|≤|a|+|b| := by
+    apply abs_le.mpr
+    constructor
+    · linarith [neg_abs_le a,abs_nonneg b,hs.1]
+    · linarith [le_abs_self b,abs_nonneg a,hs.2]
+  have he := Complex.norm_le_abs_re_add_abs_im (s-(5/6:ℂ))
+  have ht := abs_sub_le s.re 0 (5/6:ℝ)
+  simp only [sub_zero,zero_sub,abs_neg] at ht
+  norm_num at ht
+  norm_num [Complex.sub_re,Complex.sub_im] at he
+  nlinarith [abs_nonneg a,abs_nonneg b,abs_nonneg s.im,
+    mul_nonneg (abs_nonneg a) (abs_nonneg s.im),
+    mul_nonneg (abs_nonneg b) (abs_nonneg s.im)]
+
+lemma cubicThetaSelectedRadialTail_bounded (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (a b : ℝ) :
+    ∃ C : ℝ,0≤C ∧ ∀ s : ℂ,s.re∈Icc a b → ‖cubicThetaSelectedRadialTail g hc s‖≤C := by
+  obtain ⟨C,hC,hb⟩ := cubicThetaPairedUpper_bounded_strip
+    (cubicThetaSelectedRadialAxis g) (cubicThetaProjectedRadialAxis g hc) 1 0
+    (fun s => cubicThetaBoundedScaledUpper_mellinConvergent (by norm_num : (0:ℝ)≤81)
+      cubicThetaSelectedCoefficient_arithmetic_bound 0 _ (cubicThetaLevelScale_pos hc) s)
+    (fun s => cubicThetaBoundedScaledUpper_mellinConvergent (by norm_num : (0:ℝ)≤243)
+      (cubicThetaProjectedCoefficient_arithmetic_bound g hc) 0 _ (cubicThetaLevelScale_pos hc) s)
+    (2*a-1) (2*b-1)
+  refine ⟨C,hC,?_⟩
+  intro s hs
+  have hh := hb (2*s-1) (by
+    simp only [mem_Icc,Complex.sub_re,Complex.mul_re,Complex.re_ofNat,Complex.im_ofNat,
+      Complex.one_re,zero_mul,sub_zero]
+    constructor <;> linarith [hs.1,hs.2])
+  simpa only [cubicThetaSelectedRadialTail,Nat.mul_zero,Nat.cast_zero,zero_sub,one_mul] using hh
+
+lemma cubicThetaSelectedRadialRegularized_finiteOrder (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (a b : ℝ) :
+    FiniteVerticalOrder (cubicThetaSelectedRadialRegularized g hc) a b := by
+  have hu : FiniteVerticalOrder (cubicThetaAngularUncompletion (g 1 0) 0) a b := by
+    simpa only [mul_one] using cubicThetaUncompleted_finiteOrder hc 0 (fun _ => 1)
+      (fun _ _ => ⟨1,zero_le_one,fun _ _ => by norm_num⟩) a b
+  obtain ⟨C,hC,hT⟩ := cubicThetaSelectedRadialTail_bounded g hc a b
+  let D := (2+|a|+|b|)*C+‖cubicThetaProjectedRadialConstant g hc/2‖
+  apply finite_order_mul_polynomial hu (show 0≤D by dsimp [D]; positivity) 1
+  intro s hs
+  rw [pow_one]
+  calc
+    _ ≤ ‖s-(5/6:ℂ)‖*‖cubicThetaSelectedRadialTail g hc s‖+
+        ‖cubicThetaProjectedRadialConstant g hc/2‖ := by
+          exact (norm_add_le _ _).trans_eq (by rw [norm_mul])
+    _ ≤ ((2+|a|+|b|)*(1+|s.im|))*C+‖cubicThetaProjectedRadialConstant g hc/2‖ := by
+      gcongr
+      · exact cubicTheta_radial_affine_bound a b s hs
+      · exact hT s hs
+    _ ≤ D*(1+|s.im|) := by
+      dsimp [D]
+      nlinarith [abs_nonneg s.im,mul_nonneg (_root_.norm_nonneg
+        (cubicThetaProjectedRadialConstant g hc/2)) (abs_nonneg s.im)]
+
+lemma cubicThetaSelectedRadialDirichlet_right_bound (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {σ : ℝ} (hσ : 3/2<σ) (s : ℂ) (hs : s.re=σ) :
+    ‖cubicThetaSelectedRadialDirichlet g hc s‖≤81*cubicThetaDirichletNormMass (2*σ-1) := by
+  rw [cubicThetaSelectedRadialDirichlet_initial g hc (by linarith)]
+  apply cubicThetaDirichlet_norm_le (fun n _hn => ?_) (by linarith : 2<2*σ-1) _ (by
+    simp only [Complex.sub_re,Complex.mul_re,Complex.re_ofNat,Complex.im_ofNat,
+      Complex.one_re,zero_mul,sub_zero,hs])
+  rw [cubicThetaCoefficientTwist_norm]
+  exact cubicThetaSelectedCoefficient_norm n
+
+lemma cubicThetaProjectedRadialDirichlet_right_bound (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {σ : ℝ} (hσ : 3/2<σ) (s : ℂ) (hs : s.re=σ) :
+    ‖cubicThetaProjectedRadialDirichlet g hc s‖≤243*cubicThetaDirichletNormMass (2*σ-1) := by
+  rw [cubicThetaProjectedRadialDirichlet_initial g hc (by linarith)]
+  apply cubicThetaDirichlet_norm_le (fun n _hn => ?_) (by linarith : 2<2*σ-1) _ (by
+    simp only [Complex.sub_re,Complex.mul_re,Complex.re_ofNat,Complex.im_ofNat,
+      Complex.one_re,zero_mul,sub_zero,hs])
+  rw [cubicThetaCoefficientTwist_norm]
+  exact cubicThetaProjectedCoefficient_bound g hc n
+
+lemma cubicThetaSelectedRadialDirichlet_left_bound (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {m : ℕ} (hm : 2 ≤ m) :
+    ∃ C : ℝ,0≤C ∧ ∀ s : ℂ,s.re=1/2-(m:ℝ) →
+      ‖cubicThetaSelectedRadialDirichlet g hc s‖≤C*(1+|s.im|)^(4*m) := by
+  obtain ⟨G,hG,hΓ⟩ := metaplecticGamma_half_integer_bound 0 m
+  let A := cubicThetaLevelScale (g 1 0)^(-4*(m:ℝ))*(2*Real.pi)^(-4*(m:ℝ))
+  let B := 243*cubicThetaDirichletNormMass (2*(m:ℝ))
+  have hA : 0≤A := mul_nonneg (Real.rpow_nonneg (cubicThetaLevelScale_pos hc).le _)
+    (Real.rpow_nonneg (by positivity) _)
+  have hB : 0≤B := mul_nonneg (by norm_num) (cubicThetaDirichletNormMass_nonneg _)
+  refine ⟨A*G*B,by positivity,?_⟩
+  intro s hs
+  have hmR : (2:ℝ) ≤ m := by exact_mod_cast hm
+  have he : s=(1/2:ℂ)-(m:ℂ)+(s.im:ℂ)*Complex.I := by
+    apply Complex.ext <;> simp [hs]
+  have hgamma : ‖metaplecticGammaQuotient 0 s‖≤G*(1+|s.im|)^(4*m) := by
+    rw [he]
+    simpa using hΓ s.im
+  have hdual := cubicThetaProjectedRadialDirichlet_right_bound g hc
+    (σ:=1/2+(m:ℝ)) (by linarith) (1-s) (by simp [hs]; ring)
+  have hb : ‖cubicThetaProjectedRadialDirichlet g hc (1-s)‖≤B := by
+    simpa only [show 2*(1/2+(m:ℝ))-1=2*(m:ℝ) by ring] using hdual
+  have hpow : (4*s-2).re= -4*(m:ℝ) := by
+    simp only [Complex.sub_re,Complex.mul_re,Complex.re_ofNat,Complex.im_ofNat,zero_mul,sub_zero,hs]
+    ring
+  rw [cubicThetaSelectedRadialDirichlet_functional g hc (by linarith),norm_mul,norm_mul,norm_mul,
+    Complex.norm_cpow_eq_rpow_re_of_pos (cubicThetaLevelScale_pos hc),
+    Complex.norm_cpow_eq_rpow_re_of_pos (by positivity : 0<2*Real.pi),hpow]
+  calc
+    _ ≤ A*(G*(1+|s.im|)^(4*m))*B := by
+      change A*‖metaplecticGammaQuotient 0 s‖*‖cubicThetaProjectedRadialDirichlet g hc (1-s)‖≤_
+      gcongr
+    _ = _ := by ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRadialPolynomialStrip
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Polynomial bounds on every vertical strip after removing the single
+radial pole. Bounds for the meromorphic function follow away from it. -/
+noncomputable section
+open Set
+open scoped MatrixGroups
+namespace CubicFirstMoment
+
+theorem cubicThetaSelectedRadialRegularized_polynomial_strip (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (a b : ℝ) :
+    ∃ (C : ℝ) (N : ℕ),0 ≤ C ∧ ∀ s : ℂ,s.re∈Icc a b →
+      ‖cubicThetaSelectedRadialRegularized g hc s‖ ≤ C*(1+|s.im|)^N := by
+  obtain ⟨n,hn⟩ := exists_nat_gt (1/2-a)
+  let m := n+2
+  let L : ℝ := 1/2-(m:ℝ)
+  let R : ℝ := max (max a b) 2
+  have hm : 2  ≤  m := by dsimp [m]; omega
+  have hmR : (2:ℝ)  ≤  m := by exact_mod_cast hm
+  have hLa : L<a := by dsimp [L,m]; push_cast; linarith
+  have haR : a ≤ R := (le_max_left a b).trans (le_max_left _ _)
+  have hbR : b ≤ R := (le_max_right a b).trans (le_max_left _ _)
+  have hR2 : 2 ≤ R := le_max_right _ _
+  have hLR : L<R := by dsimp [L]; linarith
+  obtain ⟨C₀,hC₀,hleft⟩ := cubicThetaSelectedRadialDirichlet_left_bound g hc hm
+  let C₁ := 81*cubicThetaDirichletNormMass (2*R-1)
+  have hC₁ : 0 ≤ C₁ := mul_nonneg (by norm_num) (cubicThetaDirichletNormMass_nonneg _)
+  let C := C₀+C₁
+  have hC : 0 ≤ C := add_nonneg hC₀ hC₁
+  let D := 2+|L|+|R|
+  have hD : 0 ≤ D := by dsimp [D]; positivity
+  have hboundary (σ : ℝ) (hσ : σ=L ∨ σ=R) :
+      ∀ s : ℂ,s.re=σ →
+      ‖cubicThetaSelectedRadialRegularized g hc s‖ ≤ (D*C)*(1+|s.im|)^(4*m+1) := by
+    intro s hs
+    have hstrip : s.re∈Icc L R := by rcases hσ with h | h <;> simp [hs,h,hLR.le]
+    have hsp : s≠(5/6:ℂ) := by
+      intro he
+      have hre := congrArg Complex.re he
+      norm_num at hre
+      rcases hσ with h | h
+      · have : s.re=L := hs.trans h
+        dsimp [L] at this
+        linarith
+      · have : s.re=R := hs.trans h
+        linarith
+    have hline : ‖cubicThetaSelectedRadialDirichlet g hc s‖ ≤ C*(1+|s.im|)^(4*m) := by
+      rcases hσ with h | h
+      · exact (hleft s (hs.trans h)).trans (mul_le_mul_of_nonneg_right
+          (le_add_of_nonneg_right hC₁) (by positivity))
+      · have H := cubicThetaSelectedRadialDirichlet_right_bound g hc
+          (σ:=R) (by linarith) s (hs.trans h)
+        calc
+          _  ≤  C₁ := H
+          _  ≤  C := le_add_of_nonneg_left hC₀
+          _  ≤  _ := le_mul_of_one_le_right hC (one_le_pow₀ (by linarith [abs_nonneg s.im]))
+    rw [cubicThetaSelectedRadialRegularized_eq g hc hsp,norm_mul]
+    calc
+      _  ≤  (D*(1+|s.im|))*(C*(1+|s.im|)^(4*m)) :=
+        mul_le_mul (cubicTheta_radial_affine_bound L R s hstrip) hline
+          (_root_.norm_nonneg _) (by positivity)
+      _ = _ := by rw [pow_add,pow_one]; ring
+  have H := polynomial_strip_of_finite_order hLR
+    (cubicThetaSelectedRadialRegularized_differentiable g hc)
+    (cubicThetaSelectedRadialRegularized_finiteOrder g hc L R)
+    (mul_nonneg hD hC) (4*m+1) (hboundary L (Or.inl rfl)) (hboundary R (Or.inr rfl))
+  refine ⟨(D*C)*2^(4*m+1)*(R-L+1)^(4*m+1),4*m+1,by positivity,?_⟩
+  intro s hs
+  exact H s ⟨hLa.le.trans hs.1,hs.2.trans hbR⟩
+
+theorem cubicThetaSelectedRadialDirichlet_large_height (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (a b : ℝ) :
+    ∃ (C : ℝ) (N : ℕ),0 ≤ C ∧ ∀ s : ℂ,s.re∈Icc a b → 1 ≤ |s.im| →
+      ‖cubicThetaSelectedRadialDirichlet g hc s‖ ≤ C*(1+|s.im|)^N := by
+  obtain ⟨C,N,hC,hbound⟩ := cubicThetaSelectedRadialRegularized_polynomial_strip g hc a b
+  refine ⟨C,N,hC,?_⟩
+  intro s hs ht
+  have hlow : 1 ≤ ‖s-(5/6:ℂ)‖ := by
+    exact ht.trans (by simpa using Complex.abs_im_le_norm (s-(5/6:ℂ)))
+  have hsp : s≠(5/6:ℂ) := by
+    intro h
+    norm_num [h] at hlow
+  have H := hbound s hs
+  rw [cubicThetaSelectedRadialRegularized_eq g hc hsp,norm_mul] at H
+  exact (le_mul_of_one_le_left (_root_.norm_nonneg _) hlow).trans H
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRadialContour
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The radial Mellin contour crosses exactly the actual theta pole.
+The weight supplies absolute convergence and vanishing horizontal edges. -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped MatrixGroups ContDiff Topology
+namespace CubicFirstMoment
+
+lemma cubicThetaSelectedRadialDirichlet_continuous_line (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) {σ : ℝ} (hσ : σ≠5/6) :
+    Continuous (fun t : ℝ => cubicThetaSelectedRadialDirichlet g hc
+      ((σ:ℂ)+(t:ℂ)*Complex.I)) := by
+  have hne (t : ℝ) : (σ:ℂ)+(t:ℂ)*Complex.I≠(5/6:ℂ) := by
+    intro h
+    apply hσ
+    have hr := congrArg Complex.re h
+    simpa using hr
+  have hE := (cubicThetaSelectedRadialHolomorphicPart_differentiable g hc).continuous.comp
+    (show Continuous (fun t : ℝ => (σ:ℂ)+(t:ℂ)*Complex.I) by fun_prop)
+  have hP : Continuous (fun t : ℝ => cubicThetaSelectedRadialResidue g hc/
+      ((σ:ℂ)+(t:ℂ)*Complex.I-5/6)) :=
+    continuous_const.div (by fun_prop) (fun t => sub_ne_zero.mpr (hne t))
+  exact (hE.add hP).congr (fun t =>
+    (cubicThetaSelectedRadialDirichlet_pole_decomposition g hc (hne t)).symm)
+
+theorem cubicThetaSelectedRadialDirichlet_contour (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (W : ℝ→ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W⊆Ioi 0) (hsm : ContDiff ℝ ∞ W)
+    {a b Z : ℝ} (ha : a<5/6) (hb : 5/6<b) (hZ : 0<Z) :
+    (∫ t : ℝ,mellin W ((b:ℂ)+(t:ℂ)*Complex.I)*(Z:ℂ)^((b:ℂ)+(t:ℂ)*Complex.I)*
+      cubicThetaSelectedRadialDirichlet g hc ((b:ℂ)+(t:ℂ)*Complex.I))=
+    (∫ t : ℝ,mellin W ((a:ℂ)+(t:ℂ)*Complex.I)*(Z:ℂ)^((a:ℂ)+(t:ℂ)*Complex.I)*
+      cubicThetaSelectedRadialDirichlet g hc ((a:ℂ)+(t:ℂ)*Complex.I))+
+      (2*Real.pi:ℝ)*(cubicThetaSelectedRadialResidue g hc*mellin W (5/6)*(Z:ℂ)^(5/6:ℂ)) := by
+  let F : ℂ→ℂ := fun s => (Z:ℂ)^s*cubicThetaSelectedRadialDirichlet g hc s
+  obtain ⟨C,N,hC,hD⟩ := cubicThetaSelectedRadialDirichlet_large_height g hc a b
+  have hF : MetaplecticStripPolynomial F a b := by
+    refine ⟨max (Z^a) (Z^b)*C,by positivity,N,?_⟩
+    intro σ hσ t ht
+    have hz : Z^σ ≤ max (Z^a) (Z^b) := by
+      by_cases h : 1 ≤ Z
+      · exact (Real.rpow_le_rpow_of_exponent_le h hσ.2).trans (le_max_right _ _)
+      · exact (Real.rpow_le_rpow_of_exponent_ge hZ (le_of_not_ge h) hσ.1).trans
+          (le_max_left _ _)
+    have hd : ‖cubicThetaSelectedRadialDirichlet g hc ((σ:ℂ)+(t:ℂ)*Complex.I)‖ ≤ C*(1+|t|)^N := by
+      simpa using hD ((σ:ℂ)+(t:ℂ)*Complex.I) (by simpa using hσ) (by simpa using ht)
+    dsimp only [F]
+    rw [norm_mul,Complex.norm_cpow_eq_rpow_re_of_pos hZ]
+    simp only [Complex.add_re,Complex.ofReal_re,Complex.mul_re,Complex.ofReal_im,
+      Complex.I_re,Complex.I_im,mul_zero,zero_mul,sub_zero,add_zero]
+    calc
+      _  ≤  max (Z^a) (Z^b)*(C*(1+|t|)^N) :=
+        mul_le_mul hz hd (_root_.norm_nonneg _) (by positivity)
+      _ = _ := by ring
+  obtain ⟨K,hK,hbound⟩ := metaplectic_mellin_large_majorant F hF W hW hpos hsm
+    (U:=1) (by norm_num) 0
+  let M : ℂ→ℂ := fun s => mellin W s*(Z:ℂ)^s
+  have : NeZero (Z:ℂ) := ⟨Complex.ofReal_ne_zero.mpr hZ.ne'⟩
+  have hM : Differentiable ℂ M := (smooth_mellin_entire W hW hpos hsm.continuous).mul
+    (differentiable_const_cpow_of_neZero _)
+  have hlarge (σ : ℝ) (hσ : σ∈Icc a b) (t : ℝ) (ht : 1 ≤ |t|) :
+      ‖M ((σ:ℂ)+(t:ℂ)*Complex.I)*cubicThetaSelectedRadialDirichlet g hc
+        ((σ:ℂ)+(t:ℂ)*Complex.I)‖ ≤ mellinEdgeMajorant K t := by
+    simpa only [F,M,Complex.ofReal_zero,add_zero,Complex.ofReal_one,Complex.one_cpow,mul_one,mul_assoc]
+      using hbound σ hσ t ht
+  have hInt (σ : ℝ) (hσ : σ∈Icc a b) (hσp : σ≠5/6) :
+      Integrable (fun t : ℝ => M ((σ:ℂ)+(t:ℂ)*Complex.I)*
+        cubicThetaSelectedRadialDirichlet g hc ((σ:ℂ)+(t:ℂ)*Complex.I)) := by
+    apply continuous_integrable_of_large_height_bound _
+      ((hM.continuous.comp (by fun_prop)).mul
+        (cubicThetaSelectedRadialDirichlet_continuous_line g hc hσp))
+      (mellinEdgeMajorant K) (mellinEdgeMajorant_integrable K)
+    · intro t
+      dsimp [mellinEdgeMajorant]
+      positivity
+    · exact hlarge σ hσ
+  have hLine (σ : ℝ) (hσ : σ≠5/6) (t : ℝ) :
+      cubicThetaSelectedRadialDirichlet g hc ((σ:ℂ)+(t:ℂ)*Complex.I)=
+        cubicThetaSelectedRadialHolomorphicPart g hc ((σ:ℂ)+(t:ℂ)*Complex.I)+
+          cubicThetaSelectedRadialResidue g hc/((σ:ℂ)+(t:ℂ)*Complex.I-(5/6:ℂ)) := by
+    apply cubicThetaSelectedRadialDirichlet_pole_decomposition
+    intro he
+    exact hσ (by simpa using congrArg Complex.re he)
+  have hab : a ≤ b := (ha.trans hb).le
+  have hshift := mellin_single_pole_shift_of_majorant M
+    (cubicThetaSelectedRadialHolomorphicPart g hc) (cubicThetaSelectedRadialResidue g hc)
+    ha hb hM (cubicThetaSelectedRadialHolomorphicPart_differentiable g hc).differentiableOn
+    (by simpa only [Complex.ofReal_div,Complex.ofReal_ofNat,hLine a ha.ne] using
+      hInt a ⟨le_rfl,hab⟩ ha.ne)
+    (by simpa only [Complex.ofReal_div,Complex.ofReal_ofNat,hLine b hb.ne'] using
+      hInt b ⟨hab,le_rfl⟩ hb.ne')
+    (mellinEdgeMajorant K) (mellinEdgeMajorant_tendsto K).1 (mellinEdgeMajorant_tendsto K).2
+    (by
+      intro σ hσ t ht
+      have hn : (σ:ℂ)+(t:ℂ)*Complex.I≠(5/6:ℂ) := by
+        intro he
+        have hz : t=0 := by simpa using congrArg Complex.im he
+        simp only [hz,abs_zero] at ht
+        linarith
+      simp only [Complex.ofReal_div,Complex.ofReal_ofNat]
+      rw [←cubicThetaSelectedRadialDirichlet_pole_decomposition g hc hn]
+      exact hlarge σ hσ t ht)
+  simp only [Complex.ofReal_div,Complex.ofReal_ofNat,←hLine a ha.ne,←hLine b hb.ne'] at hshift
+  simpa only [M,mul_assoc] using hshift
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRadialSmoothMellin
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Mellin inversion for the zero angular primary projection, with its
+actual radial Dirichlet continuation. -/
+noncomputable section
+open MeasureTheory Set
+open scoped MatrixGroups ContDiff
+namespace CubicFirstMoment
+
+lemma cubicThetaSelected_smooth_radial (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (W : ℝ→ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W⊆Ioi 0) (hsm : ContDiff ℝ ∞ W)
+    {σ Z : ℝ} (hσ : 3/2<σ) (hZ : 0<Z) :
+    cubicThetaSelectedAdditiveSum g false 0 W Z=
+      ((1/(2*Real.pi):ℝ):ℂ)*∫ t : ℝ,
+        mellin W ((σ:ℂ)+(t:ℂ)*Complex.I)*(Z:ℂ)^((σ:ℂ)+(t:ℂ)*Complex.I)*
+          cubicThetaSelectedRadialDirichlet g hc ((σ:ℂ)+(t:ℂ)*Complex.I) := by
+  have ha (n : Eisenstein) :
+      ‖cubicThetaCoefficientTwist cubicThetaSelectedCoefficient (cubicThetaPrimaryCuspCenter g) n‖ ≤ 81 := by
+    rw [cubicThetaCoefficientTwist_norm]
+    exact cubicThetaSelectedCoefficient_norm n
+  simp only [cubicThetaSelectedAdditiveSum,cubicThetaCircleOrder,Bool.not_false,
+    ite_true, if_true,Nat.cast_zero,neg_zero,theta_zero,one_mul]
+  rw [cubicTheta_smooth_mellin (by norm_num) ha W hW hpos hsm hσ hZ]
+  congr 1
+  apply integral_congr_ae
+  filter_upwards with t
+  rw [cubicThetaSelectedRadialDirichlet_initial g hc (by simpa using hσ)]
+
+lemma cubicThetaSelected_smooth_radial_shift (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (W : ℝ→ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W⊆Ioi 0) (hsm : ContDiff ℝ ∞ W)
+    {a Z : ℝ} (ha : a<5/6) (hZ : 0<Z) :
+    cubicThetaSelectedAdditiveSum g false 0 W Z=
+      ((1/(2*Real.pi):ℝ):ℂ)*(∫ t : ℝ,
+        mellin W ((a:ℂ)+(t:ℂ)*Complex.I)*(Z:ℂ)^((a:ℂ)+(t:ℂ)*Complex.I)*
+          cubicThetaSelectedRadialDirichlet g hc ((a:ℂ)+(t:ℂ)*Complex.I))+
+      cubicThetaSelectedRadialResidue g hc*mellin W (5/6)*(Z:ℂ)^(5/6:ℂ) := by
+  rw [cubicThetaSelected_smooth_radial g hc W hW hpos hsm (σ:=2) (by norm_num) hZ,
+    cubicThetaSelectedRadialDirichlet_contour g hc W hW hpos hsm ha
+      (by norm_num : (5/6:ℝ)<2) hZ,mul_add]
+  have he : ((1/(2*Real.pi):ℝ):ℂ)*((2*Real.pi:ℝ):ℂ)=1 := by
+    push_cast
+    field_simp
+  rw [←mul_assoc _ ((2*Real.pi:ℝ):ℂ),he,one_mul]
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRadialVoronoi
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.OAI.CubicFirstMoment.shortBranchIndex_fintype _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The actual radial primary-selected Voronoi formula. Its pole term
+contains the residue computed from the actual arithmetic theta section. -/
+noncomputable section
+open MeasureTheory Set
+open scoped MatrixGroups ContDiff
+namespace CubicFirstMoment
+
+theorem cubicThetaSelected_radial_voronoi_far (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (W : ℝ→ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W⊆Ioi 0) (hsm : ContDiff ℝ ∞ W)
+    {A Z : ℝ} (hA : 1/2<A) (hZ : 0<Z) :
+    cubicThetaSelectedAdditiveSum g false 0 W Z=
+      cubicThetaDualPrefactor (g 1 0)*∑' n : MetaplecticDualArgument,
+        cubicThetaCoefficientTwist (cubicThetaProjectedCoefficient g hc)
+          (cubicThetaPrimaryDualCenter g) n.val/(‖cubicThetaFrequency n.val‖:ℂ)*
+          metaplecticTransform 0 W A (cubicThetaDualScale (g 1 0) Z*‖cubicThetaFrequency n.val‖^2)+
+      cubicThetaSelectedRadialResidue g hc*mellin W (5/6)*(Z:ℂ)^(5/6:ℂ) := by
+  rw [cubicThetaSelected_smooth_radial_shift g hc W hW hpos hsm
+    (a:= -A) (by linarith) hZ]
+  congr 1
+  let a := cubicThetaCoefficientTwist (cubicThetaProjectedCoefficient g hc)
+    (cubicThetaPrimaryDualCenter g)
+  have hd := cubicTheta_dual_mellin_integral (a:=a) hc (by norm_num : (0:ℝ) ≤ 243)
+    (fun n => by rw [cubicThetaCoefficientTwist_norm]; exact cubicThetaProjectedCoefficient_bound g hc n)
+    0 W hW hpos hsm hA hZ
+  convert hd using 2
+  all_goals try with_reducible_and_instances rfl
+  apply integral_congr_ae
+  filter_upwards with t
+  rw [cubicThetaSelectedRadialDirichlet_functional g hc (by simp; linarith),
+    cubicThetaProjectedRadialDirichlet_initial g hc (by simp; linarith)]
+  simp only [Complex.ofReal_neg]
+  dsimp only [a]
+  ring
+
+theorem cubicThetaSelected_radial_voronoi (g : SL(2,Eisenstein))
+    (hc : primary (g 1 0)) (W : ℝ→ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W⊆Ioi 0) (hsm : ContDiff ℝ ∞ W)
+    {σ Z : ℝ} (hσ : 0<σ) (hZ : 0<Z) :
+    Summable (fun n : MetaplecticDualArgument =>
+      cubicThetaCoefficientTwist (cubicThetaProjectedCoefficient g hc)
+        (cubicThetaPrimaryDualCenter g) n.val/(‖cubicThetaFrequency n.val‖:ℂ)*
+        metaplecticTransform 0 W σ (cubicThetaDualScale (g 1 0) Z*‖cubicThetaFrequency n.val‖^2)) ∧
+    cubicThetaSelectedAdditiveSum g false 0 W Z=
+      cubicThetaDualPrefactor (g 1 0)*∑' n : MetaplecticDualArgument,
+        cubicThetaCoefficientTwist (cubicThetaProjectedCoefficient g hc)
+          (cubicThetaPrimaryDualCenter g) n.val/(‖cubicThetaFrequency n.val‖:ℂ)*
+          metaplecticTransform 0 W σ (cubicThetaDualScale (g 1 0) Z*‖cubicThetaFrequency n.val‖^2)+
+      cubicThetaSelectedRadialResidue g hc*mellin W (5/6)*(Z:ℂ)^(5/6:ℂ) := by
+  let A := σ+1
+  let T (s : ℝ) (n : MetaplecticDualArgument) : ℂ :=
+    cubicThetaCoefficientTwist (cubicThetaProjectedCoefficient g hc)
+      (cubicThetaPrimaryDualCenter g) n.val/(‖cubicThetaFrequency n.val‖:ℂ)*
+        metaplecticTransform 0 W s (cubicThetaDualScale (g 1 0) Z*‖cubicThetaFrequency n.val‖^2)
+  have hA : 1/2<A := by dsimp [A]; linarith
+  have hT : T σ=T A := by
+    funext n
+    dsimp only [T]
+    rw [metaplecticTransform_line_eq 0 W hW hpos hsm hσ (by dsimp [A]; linarith : σ ≤ A)
+      (mul_pos (cubicThetaDualScale_pos hc hZ) (sq_pos_of_pos (cubicThetaFrequency_pos n.property)))
+      (angularGammaQuotientStripBound_proved _ _ (by norm_num [metaplecticAngularShift]))
+      (angularGammaQuotientStripBound_proved _ _ (by norm_num [metaplecticAngularShift]))]
+  have hs : Summable (T A) := cubicTheta_dual_mellin_summable hc (by norm_num : (0:ℝ) ≤ 243)
+    (fun n => by rw [cubicThetaCoefficientTwist_norm]; exact cubicThetaProjectedCoefficient_bound g hc n)
+    0 W hW hpos hsm hA hZ
+  refine ⟨?_,?_⟩
+  · change Summable (T σ)
+    rwa [hT]
+  · change cubicThetaSelectedAdditiveSum g false 0 W Z=
+      cubicThetaDualPrefactor (g 1 0)*∑' n,T σ n+_
+    rw [hT]
+    exact cubicThetaSelected_radial_voronoi_far g hc W hW hpos hsm hA hZ
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ096_CM.CubicMoment_Theta_CubicThetaRadialAverage
+attribute [-instance] _root_.OAI.CubicFirstMoment.shortBranchIndex_decidableEq _root_.W21.instNorm _root_.OAI.CubicFirstMoment.instNontrivialResiduesOfNatSubtypeComplexMemSubalgebraIntEisenstein _root_.instMeasurableSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Finite cubic-character averaging of the actual radial formula. The
+pole coefficient is calculated without assuming the arithmetic scalar. -/
+noncomputable section
+open scoped BigOperators MatrixGroups ContDiff
+namespace CubicFirstMoment
+
+lemma cubicThetaResidueRadialPole_sum (r : Eisenstein) (hr : primary r)
+    [Fintype (Residues r)] :
+    (∑ u : Residues r,cubicSymbol r (residueRepresentative r u)*
+      cubicThetaSelectedRadialResidue (cubicThetaResidueCuspMatrix r hr (residueRepresentative r u))
+        (cubicThetaResidueCuspPrimary r hr (residueRepresentative r u)))=
+      cubicThetaResidueRadialPole r := by
+  simp only [cubicThetaSelectedRadialResidue,cubicThetaResidueCuspMatrix_bottom]
+  calc
+    _ = cubicThetaAngularUncompletion r 0 (5/6)/2*
+        (∑ u : Residues r,cubicSymbol r (residueRepresentative r u)*
+          cubicThetaProjectedRadialConstant
+            (cubicThetaResidueCuspMatrix r hr (residueRepresentative r u))
+            (cubicThetaResidueCuspPrimary r hr (residueRepresentative r u))) := by
+      rw [Finset.mul_sum]
+      apply Finset.sum_congr rfl
+      intro u _
+      ring
+    _ = _ := by
+      rw [cubicThetaResidueRadialConstant,cubicThetaResidueConstant_units]
+      dsimp [cubicThetaResidueRadialPole]
+      ring
+
+theorem cubicThetaResidue_radial_voronoi_oai {r : Eisenstein} (hr : primary r) (hs : Squarefree r)
+    [Fintype (Residues r)] (W : ℝ→ℂ) (hW : HasCompactSupport W)
+    (hpos : tsupport W⊆Set.Ioi 0) (hsm : ContDiff ℝ ∞ W)
+    {σ X : ℝ} (hσ : 0<σ) (hX : 0<X) :
+    Summable (cubicThetaResidueDualTerm r hr false 0 W σ X) ∧
+    (((3^(5/2:ℝ):ℝ):ℂ)*((Real.sqrt (norm r):ℂ)*gauss r))*
+      metaplecticRawCompleted r 0 W X=
+      cubicThetaDualPrefactor r*∑' n,cubicThetaResidueDualTerm r hr false 0 W σ X n+
+        cubicThetaResidueRadialPole r*mellin W (5/6)*((X/27:ℝ):ℂ)^(5/6:ℂ) := by
+  let g (u : Residues r) := cubicThetaResidueCuspMatrix r hr (residueRepresentative r u)
+  let hp (u : Residues r) := cubicThetaResidueCuspPrimary r hr (residueRepresentative r u)
+  let w (u : Residues r) := cubicSymbol r (residueRepresentative r u)
+  let D (u : Residues r) (n : MetaplecticDualArgument) : ℂ :=
+    cubicThetaCoefficientTwist (cubicThetaProjectedCoefficient (g u) (hp u))
+      (cubicThetaPrimaryDualCenter (g u)) n.val/(‖cubicThetaFrequency n.val‖:ℂ)*
+      metaplecticTransform 0 W σ
+        (cubicThetaDualScale r (X/27)*‖cubicThetaFrequency n.val‖^2)
+  let M := mellin W (5/6)*((X/27:ℝ):ℂ)^(5/6:ℂ)
+  have hE (u : Residues r) : Summable (D u) ∧
+      cubicThetaSelectedAdditiveSum (g u) false 0 W (X/27)=
+        cubicThetaDualPrefactor r*∑' n,D u n+cubicThetaSelectedRadialResidue (g u) (hp u)*M := by
+    have H := cubicThetaSelected_radial_voronoi (g u) (hp u) W hW hpos hsm hσ
+      (div_pos hX (by norm_num) : 0<X/27)
+    simpa only [g,cubicThetaResidueCuspMatrix_bottom,D,M,mul_assoc] using H
+  have ht (n : MetaplecticDualArgument) :
+      (∑ u : Residues r,w u*D u n)=cubicThetaResidueDualTerm r hr false 0 W σ X n := by
+    unfold cubicThetaResidueDualTerm cubicThetaResidueDualCoefficient
+    simp only [cubicThetaCircleOrder,Bool.false_eq_true,ite_false, if_false,Bool.not_false,ite_true, if_true,
+      Nat.cast_zero,neg_zero,theta_zero,one_mul,Finset.sum_div,Finset.sum_mul]
+    apply Finset.sum_congr rfl
+    intro u _
+    dsimp only [w,D,g,hp]
+    ring
+  have hsum : Summable (fun n : MetaplecticDualArgument => ∑ u : Residues r,w u*D u n) :=
+    summable_sum (fun u _ => (hE u).1.mul_left (w u))
+  refine ⟨hsum.congr ht,?_⟩
+  have hl := cubicThetaSelectedSmoothSum_average_raw hr hs 0 W hW hX
+  have hl' : (∑ u : Residues r,w u*cubicThetaSelectedAdditiveSum (g u) false 0 W (X/27))=
+      (((3^(5/2:ℝ):ℝ):ℂ)*((Real.sqrt (norm r):ℂ)*gauss r))*
+        metaplecticRawCompleted r 0 W X := by
+    simpa only [g,w,cubicThetaResidueCuspMatrix_weighted,theta_zero,mul_one,
+      cubicThetaCircleOrder,Bool.not_false,ite_true, if_true,Nat.cast_zero,neg_zero] using hl
+  rw [←hl']
+  calc
+    _ = cubicThetaDualPrefactor r*(∑ u : Residues r,∑' n,w u*D u n)+
+        (∑ u : Residues r,w u*cubicThetaSelectedRadialResidue (g u) (hp u))*M := by
+      simp_rw [(hE _).2,mul_add,Finset.sum_add_distrib,Finset.mul_sum,Finset.sum_mul]
+      congr 1
+      · apply Finset.sum_congr rfl
+        intro u _
+        rw [tsum_mul_left]
+        ring
+      · apply Finset.sum_congr rfl
+        intro u _
+        ring
+    _ = cubicThetaDualPrefactor r*(∑' n,∑ u : Residues r,w u*D u n)+
+        cubicThetaResidueRadialPole r*M := by
+      rw [Summable.tsum_finsetSum (fun u _ => (hE u).1.mul_left (w u))]
+      rw [show (∑ u : Residues r,w u*cubicThetaSelectedRadialResidue (g u) (hp u))=
+        cubicThetaResidueRadialPole r from cubicThetaResidueRadialPole_sum r hr]
+    _ = _ := by simp_rw [ht]; dsimp [M]; ring
+
+end CubicFirstMoment
+
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.CubicFirstMoment.cubicThetaResidue_radial_voronoi_oai := @OAI.CubicFirstMoment.cubicThetaResidue_radial_voronoi_oai

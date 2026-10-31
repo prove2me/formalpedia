@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryAnomaly_EW_step4_excess_cost
 -- name    : InventoryAnomaly.EW.step4_excess_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:27:57.626619+00:00
 -- url     : https://prove2.me/theorems/25bdbacd-3db6-4ab4-ac49-39d8e3fa72b2

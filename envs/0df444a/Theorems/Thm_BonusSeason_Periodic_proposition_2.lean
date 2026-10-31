@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BonusSeason_Periodic_proposition_2
 -- name    : BonusSeason.Periodic.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:51:18.627805+00:00
 -- url     : https://prove2.me/theorems/812e311d-2ba2-4399-8182-9fdc8b6df604

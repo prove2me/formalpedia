@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_stopped_noncube_radial_form
 -- name    : OAI.CubicFirstMoment.stopped_noncube_radial_form
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:08:22.066275+00:00
 -- url     : https://prove2.me/theorems/03be9a68-ee08-474c-a454-bf41450461bb

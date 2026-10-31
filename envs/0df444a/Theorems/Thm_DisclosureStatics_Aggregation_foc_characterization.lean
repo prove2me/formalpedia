@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisclosureStatics_Aggregation_foc_characterization
 -- name    : DisclosureStatics.Aggregation.foc_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:15:32.990619+00:00
 -- url     : https://prove2.me/theorems/e36ae4e0-3df7-419f-9345-d3879ff6387a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafProgram_Factor_marked_tail_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafProgram.Factor.marked_tail_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:28:04.439774+00:00
 -- url     : https://prove2.me/theorems/111b07a6-b07f-411b-b751-37bda0174a9f

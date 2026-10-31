@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_ReconstructionProgram_Native_command_value
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.ReconstructionProgram.Native.command_value
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:32:02.321391+00:00
 -- url     : https://prove2.me/theorems/f0edfd1d-1f38-4b9b-a14b-247f72b701f4

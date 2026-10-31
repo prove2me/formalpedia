@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos52_rudnev_stevens_exponent
 -- name    : Erdos52.rudnev_stevens_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T16:41:08.057997+00:00
 -- url     : https://prove2.me/theorems/2322db94-fcf2-4194-9b4e-5275afd8e76c

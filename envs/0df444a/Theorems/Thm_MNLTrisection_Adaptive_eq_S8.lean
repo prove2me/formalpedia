@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLTrisection_Adaptive_eq_S8
 -- name    : MNLTrisection.Adaptive.eq_S8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:33:10.544044+00:00
 -- url     : https://prove2.me/theorems/7cf91955-059d-4877-8639-44dca880d854

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLQSolv_Finite_theorem_5_3
 -- name    : SLQSolv.Finite.theorem_5_3
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:20:50.097045+00:00
 -- url     : https://prove2.me/theorems/9ca7b1f0-c28a-4556-bf9a-20292c9db357

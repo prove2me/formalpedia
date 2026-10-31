@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeQuerySpaceBounds_envelope_bound
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeQuerySpaceBounds.envelope_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:57:47.534666+00:00
 -- url     : https://prove2.me/theorems/589d9eeb-6f74-4784-9a78-9abae373d108

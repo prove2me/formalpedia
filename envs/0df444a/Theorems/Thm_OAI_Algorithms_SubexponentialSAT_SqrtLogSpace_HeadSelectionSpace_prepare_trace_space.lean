@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadSelectionSpace_prepare_trace_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadSelectionSpace.prepare_trace_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:35:41.071885+00:00
 -- url     : https://prove2.me/theorems/f8a8850a-0529-4dcc-9e6a-ee4bbb71a14c

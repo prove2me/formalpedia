@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_ReconstructionProgram_Horner_command_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.ReconstructionProgram.Horner.command_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:10:41.421393+00:00
 -- url     : https://prove2.me/theorems/9451601f-8d25-4662-ac15-1e87c6a6d4e5

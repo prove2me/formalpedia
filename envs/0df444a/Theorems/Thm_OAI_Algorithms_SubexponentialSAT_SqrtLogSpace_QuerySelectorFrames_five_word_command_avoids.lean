@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QuerySelectorFrames_five_word_command_avoids
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QuerySelectorFrames.five_word_command_avoids
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:35:04.258189+00:00
 -- url     : https://prove2.me/theorems/9fc3c7bb-3402-4224-9b05-641dade75bff

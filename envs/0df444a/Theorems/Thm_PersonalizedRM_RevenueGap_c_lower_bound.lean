@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedRM_RevenueGap_c_lower_bound
 -- name    : PersonalizedRM.RevenueGap.c_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:32:54.61959+00:00
 -- url     : https://prove2.me/theorems/70bba559-39ab-44f4-ae3a-712aaee7b590

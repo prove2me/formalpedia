@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_FactorAssignmentBoundary_entry_of_query
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.FactorAssignmentBoundary.entry_of_query
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:27:28.821722+00:00
 -- url     : https://prove2.me/theorems/fa1e7a0e-91ed-429b-abac-83be683936ff

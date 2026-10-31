@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafPackingFiberBounds_query_factor_fiber_le
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafPackingFiberBounds.query_factor_fiber_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:47:32.521653+00:00
 -- url     : https://prove2.me/theorems/23cecf1c-bd02-4cd1-87f3-da5f40d6c1ee

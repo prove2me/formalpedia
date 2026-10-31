@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalDRO_Lagrange_lemma_1
 -- name    : MarginalDRO.Lagrange.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:40.522391+00:00
 -- url     : https://prove2.me/theorems/5919f510-f7b3-4845-9960-fe466bc36c3a

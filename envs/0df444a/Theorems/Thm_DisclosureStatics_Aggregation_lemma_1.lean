@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisclosureStatics_Aggregation_lemma_1
 -- name    : DisclosureStatics.Aggregation.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:15:41.84931+00:00
 -- url     : https://prove2.me/theorems/0b5f6640-a31b-4d4e-965a-c47a8c58a54a

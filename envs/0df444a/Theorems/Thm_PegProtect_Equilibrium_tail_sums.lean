@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PegProtect_Equilibrium_tail_sums
 -- name    : PegProtect.Equilibrium.tail_sums
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:33:21.625493+00:00
 -- url     : https://prove2.me/theorems/f3f08f1c-5b45-4c01-8ec0-67f922a918ba

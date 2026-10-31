@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidDemocracy_Upward_bin_domination
 -- name    : LiquidDemocracy.Upward.bin_domination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:24:46.992808+00:00
 -- url     : https://prove2.me/theorems/7db2faf0-ba32-4e73-ba1d-aa93f441cf9d

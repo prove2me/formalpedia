@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohriFoML_OnlineToBatch_avg_genError_le_avg_loss
 -- name    : MohriFoML.OnlineToBatch.avg_genError_le_avg_loss
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:08:38.081985+00:00
 -- url     : https://prove2.me/theorems/1f643041-5883-41d2-9d9d-61b04c372455

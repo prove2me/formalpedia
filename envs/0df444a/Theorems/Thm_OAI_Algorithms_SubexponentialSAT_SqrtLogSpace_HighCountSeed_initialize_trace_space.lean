@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HighCountSeed_initialize_trace_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighCountSeed.initialize_trace_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:38:03.063528+00:00
 -- url     : https://prove2.me/theorems/ab2290d1-2ed9-4f0d-9010-27a867bf9d6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidDemocracy_Upward_early_bins
 -- name    : LiquidDemocracy.Upward.early_bins
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:24:43.639084+00:00
 -- url     : https://prove2.me/theorems/005c7a12-9954-4feb-aee6-40d7f5eaaa3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_simple_edge_bound_from_drawing__p2m_5ec8fcdd_ba42_4764_bfb5_c1bd9285046d_a1
 -- name    : planar_simple_edge_bound_from_drawing__p2m_5ec8fcdd_ba42_4764_bfb5_c1bd9285046d_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:39:46.989541+00:00
 -- url     : https://prove2.me/theorems/e3b94d84-a772-4bbe-8d1c-d23630bc7e79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicThetaResidue_radial_voronoi
 -- name    : OAI.CubicFirstMoment.cubicThetaResidue_radial_voronoi
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:37:47.26927+00:00
 -- url     : https://prove2.me/theorems/37ae5852-0b0c-4905-ae3b-9dd0e235ef06

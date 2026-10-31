@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Polyhedral_fenchel_moreau_step
 -- name    : RiskFunctionals.Polyhedral.fenchel_moreau_step
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:57.977988+00:00
 -- url     : https://prove2.me/theorems/553442f8-e24b-49a9-9a4b-1ecbf34ae41c

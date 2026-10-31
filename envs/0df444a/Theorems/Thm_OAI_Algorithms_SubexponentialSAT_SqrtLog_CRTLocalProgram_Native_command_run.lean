@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_CRTLocalProgram_Native_command_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.CRTLocalProgram.Native.command_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:22:54.285975+00:00
 -- url     : https://prove2.me/theorems/61a020cc-ea2f-4e4b-8d8f-96b1344e5e4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutProducedHeads_query_max_bound_rat
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutProducedHeads.query_max_bound_rat
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:43:21.721451+00:00
 -- url     : https://prove2.me/theorems/cc456c3a-d27e-4ff3-82f0-68d32c1bfbcd

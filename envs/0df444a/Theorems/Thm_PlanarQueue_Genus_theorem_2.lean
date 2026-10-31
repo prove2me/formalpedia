@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarQueue_Genus_theorem_2
 -- name    : PlanarQueue.Genus.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:25:14.812196+00:00
 -- url     : https://prove2.me/theorems/2de08a18-23a4-4c3f-a0e8-0d8742716826

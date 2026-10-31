@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FramingFulfillment_RFF_framing_decomposition_exists
 -- name    : FramingFulfillment.RFF.framing_decomposition_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:47.224997+00:00
 -- url     : https://prove2.me/theorems/2e27b1b2-a643-4dcd-b71c-f0dd16ce238e

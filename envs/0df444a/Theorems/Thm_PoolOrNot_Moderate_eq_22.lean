@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoolOrNot_Moderate_eq_22
 -- name    : PoolOrNot.Moderate.eq_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:41.982628+00:00
 -- url     : https://prove2.me/theorems/b0f5a67a-15a3-4129-8ae5-2d3276d70a7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModelFreeBounds_Duality_weak_duality
 -- name    : ModelFreeBounds.Duality.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:30.387796+00:00
 -- url     : https://prove2.me/theorems/642c4846-5951-4e6a-bf9f-46a7dd0029f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssocRealizations_TypesMeet_iso_induces_bijection
 -- name    : AssocRealizations.TypesMeet.iso_induces_bijection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:55.961878+00:00
 -- url     : https://prove2.me/theorems/78e7c82b-2c3e-44fb-88b5-19696ad2eb8f

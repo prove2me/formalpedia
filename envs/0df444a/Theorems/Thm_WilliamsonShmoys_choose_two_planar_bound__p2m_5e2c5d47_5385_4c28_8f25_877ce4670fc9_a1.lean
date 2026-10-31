@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_choose_two_planar_bound__p2m_5e2c5d47_5385_4c28_8f25_877ce4670fc9_a1
 -- name    : WilliamsonShmoys.choose_two_planar_bound__p2m_5e2c5d47_5385_4c28_8f25_877ce4670fc9_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:25:38.331023+00:00
 -- url     : https://prove2.me/theorems/939f694d-52b7-49ed-b51c-bcc87b92a7b0

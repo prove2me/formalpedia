@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisclosureStatics_Aggregation_proposition_2
 -- name    : DisclosureStatics.Aggregation.proposition_2
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:15:35.054252+00:00
 -- url     : https://prove2.me/theorems/16fb2dac-7744-4533-8ced-c889b89a1607

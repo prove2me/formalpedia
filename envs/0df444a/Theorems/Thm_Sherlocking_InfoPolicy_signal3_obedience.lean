@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherlocking_InfoPolicy_signal3_obedience
 -- name    : Sherlocking.InfoPolicy.signal3_obedience
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:23.962162+00:00
 -- url     : https://prove2.me/theorems/ebbd0d89-7dc7-4cc6-85f1-e984f7f308ed

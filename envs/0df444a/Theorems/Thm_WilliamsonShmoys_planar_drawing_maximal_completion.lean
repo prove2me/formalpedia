@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_maximal_completion
 -- name    : WilliamsonShmoys.planar_drawing_maximal_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T05:42:28.988833+00:00
 -- url     : https://prove2.me/theorems/b7145e12-09ad-4628-8ddf-1065b8a2bcd7

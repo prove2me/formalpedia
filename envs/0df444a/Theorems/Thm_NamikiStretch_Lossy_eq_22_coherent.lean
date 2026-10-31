@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NamikiStretch_Lossy_eq_22_coherent
 -- name    : NamikiStretch.Lossy.eq_22_coherent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:48:43.429326+00:00
 -- url     : https://prove2.me/theorems/69b82c34-ae98-4ade-b96b-e49665375564

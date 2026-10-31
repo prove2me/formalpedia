@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_Squarefree_Program_dictionaryReplace_trace
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.Squarefree.Program.dictionaryReplace_trace
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:40:46.341116+00:00
 -- url     : https://prove2.me/theorems/49d3fbb7-5477-478d-9ef1-4f6e5359a167

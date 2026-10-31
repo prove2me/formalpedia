@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_primal_le_expected_dual
 -- name    : PersonalizedAssortment.IB.primal_le_expected_dual
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:57:18.909633+00:00
 -- url     : https://prove2.me/theorems/212fabd2-d057-4f6e-8641-d06d1e30b823

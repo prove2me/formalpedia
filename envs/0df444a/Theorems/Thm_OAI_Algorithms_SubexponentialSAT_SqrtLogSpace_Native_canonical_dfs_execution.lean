@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_Native_canonical_dfs_execution
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.Native.canonical_dfs_execution
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:48:14.378019+00:00
 -- url     : https://prove2.me/theorems/c8ee5c0d-68d1-4512-89ad-2c2d34964f81

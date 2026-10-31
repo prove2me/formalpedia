@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FMLPricing_BranchBound_proposition_1
 -- name    : FMLPricing.BranchBound.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:35:40.558374+00:00
 -- url     : https://prove2.me/theorems/fb4239ad-5197-436a-aebc-52efb8b165dc

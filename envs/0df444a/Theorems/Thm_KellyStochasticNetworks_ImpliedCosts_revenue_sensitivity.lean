@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_ImpliedCosts_revenue_sensitivity
 -- name    : KellyStochasticNetworks.ImpliedCosts.revenue_sensitivity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:28.326813+00:00
 -- url     : https://prove2.me/theorems/93964d33-e62e-4486-9bd3-b61b98c19e85

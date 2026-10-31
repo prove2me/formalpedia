@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ICOTheory_Signaling_proof_prop6_deriv_muL_pos
 -- name    : ICOTheory.Signaling.proof_prop6_deriv_muL_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:06:21.808569+00:00
 -- url     : https://prove2.me/theorems/0f93e487-df7a-4ad0-bce3-d78f54ad1693

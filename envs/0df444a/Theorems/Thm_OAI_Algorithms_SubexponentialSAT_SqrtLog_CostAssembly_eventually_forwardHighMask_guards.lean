@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_CostAssembly_eventually_forwardHighMask_guards
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.CostAssembly.eventually_forwardHighMask_guards
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T23:37:09.836924+00:00
 -- url     : https://prove2.me/theorems/3ce62191-60eb-4506-8774-a89a5c71326d

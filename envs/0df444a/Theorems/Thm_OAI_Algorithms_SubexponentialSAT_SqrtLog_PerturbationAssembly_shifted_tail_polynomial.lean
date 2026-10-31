@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_PerturbationAssembly_shifted_tail_polynomial
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.PerturbationAssembly.shifted_tail_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:36:42.964884+00:00
 -- url     : https://prove2.me/theorems/1bb79c44-bd26-4aa1-b671-810502149ea1

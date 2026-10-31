@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidDemocracy_Upward_theorem_1
 -- name    : LiquidDemocracy.Upward.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:24:28.5293+00:00
 -- url     : https://prove2.me/theorems/65926005-34fc-432d-91a9-6f2b95b25510

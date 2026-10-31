@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleAuctionEff_Repeated_theorem_11
 -- name    : DoubleAuctionEff.Repeated.theorem_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:22:06.445118+00:00
 -- url     : https://prove2.me/theorems/68afb6e7-29d8-4607-936f-9631fa4b6f87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MastSail_Monotone_proposition_5
 -- name    : MastSail.Monotone.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:34:26.773142+00:00
 -- url     : https://prove2.me/theorems/46ccaa3e-2385-42c1-a9da-7a7b843a1a66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafProgram_Query_front_state
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafProgram.Query.front_state
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:50:20.53533+00:00
 -- url     : https://prove2.me/theorems/9d514a87-738d-4a4a-8348-7efaadcba81e

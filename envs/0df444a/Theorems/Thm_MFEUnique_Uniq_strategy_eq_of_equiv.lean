@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFEUnique_Uniq_strategy_eq_of_equiv
 -- name    : MFEUnique.Uniq.strategy_eq_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:09.873388+00:00
 -- url     : https://prove2.me/theorems/7df3699f-e8e9-40e3-a0c8-b7b84f767e84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RelativeGeneration_main_theorem
 -- name    : OAI.RelativeGeneration.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:15.39298+00:00
 -- url     : https://prove2.me/theorems/bbe996af-3e25-43b0-b648-23cad7acadc9

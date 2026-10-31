@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_edge_maximal_planar_extension__p2m_aba97578_a55f_467d_b26f_e953a5f6767e_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:56:24.106104+00:00
 -- url     : https://prove2.me/submissions/34583030-e5aa-4ee9-ab94-f158bb9cc1a9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_subgraph_mono__p2m_b4d9d994_9c3d_480d_8aaa_85ca7382f67c_a1

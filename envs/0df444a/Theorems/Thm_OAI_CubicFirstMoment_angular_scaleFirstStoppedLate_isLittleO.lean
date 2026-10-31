@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_scaleFirstStoppedLate_isLittleO
 -- name    : OAI.CubicFirstMoment.angular_scaleFirstStoppedLate_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:21:05.2668+00:00
 -- url     : https://prove2.me/theorems/6b54e2cb-abb1-41f2-95a7-6f0b6e391db7

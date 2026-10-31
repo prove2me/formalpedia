@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_ProfileControl_smallB_poisson_annulus_height_power
 -- name    : OAI.CubicFirstMoment.ProfileControl.smallB_poisson_annulus_height_power
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:12:21.611639+00:00
 -- url     : https://prove2.me/theorems/600aeebf-e007-438a-a134-94518d085c8d

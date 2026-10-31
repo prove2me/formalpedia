@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeQueryTimeBounds_runtime_bound
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeQueryTimeBounds.runtime_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:32:03.978979+00:00
 -- url     : https://prove2.me/theorems/fb8861f0-1240-4a26-94e2-c7443a56de39

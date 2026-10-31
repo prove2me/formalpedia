@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSPConvex_CMM_gradient_f
 -- name    : BSPConvex.CMM.gradient_f
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:58.774204+00:00
 -- url     : https://prove2.me/theorems/d2375c41-f45a-426b-9396-da76b761033a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNatOps_Monotone_exchange_step
 -- name    : MNatOps.Monotone.exchange_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:12.627786+00:00
 -- url     : https://prove2.me/theorems/d41a88de-c898-429a-8dce-c17554298529

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenSignal_Asymmetry_threshold_order
 -- name    : TokenSignal.Asymmetry.threshold_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:56.467905+00:00
 -- url     : https://prove2.me/theorems/6f03500a-eeed-41cc-aa09-3a50b17e0351

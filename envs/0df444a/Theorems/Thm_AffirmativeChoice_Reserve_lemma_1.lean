@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffirmativeChoice_Reserve_lemma_1
 -- name    : AffirmativeChoice.Reserve.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:34:47.9985+00:00
 -- url     : https://prove2.me/theorems/3b693dcd-ae46-477e-a2e5-088407ac3924

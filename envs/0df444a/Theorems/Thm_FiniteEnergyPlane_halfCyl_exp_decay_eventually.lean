@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_halfCyl_exp_decay_eventually
 -- name    : FiniteEnergyPlane.halfCyl_exp_decay_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-29T21:53:31.597735+00:00
 -- url     : https://prove2.me/theorems/8ec20b66-7c12-4566-8cdb-5a73cb4c2e6c

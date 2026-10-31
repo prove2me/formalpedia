@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLayerControl_ECCA_lemma_4_3
 -- name    : CrossLayerControl.ECCA.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:37:56.642651+00:00
 -- url     : https://prove2.me/theorems/5c2ee117-5a51-4f2c-960d-024c2cdedee1

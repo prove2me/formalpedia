@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13ConstructedRationalPointTheorem_affine_x_is_cuspidal
 -- name    : MazurProof.N13ConstructedRationalPointTheorem.affine_x_is_cuspidal
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T03:28:26.133363+00:00
 -- url     : https://prove2.me/theorems/4c023580-12fb-46a6-bb99-a4f696ae857f

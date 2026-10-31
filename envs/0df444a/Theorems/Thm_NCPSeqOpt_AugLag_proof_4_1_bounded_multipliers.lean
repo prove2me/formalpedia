@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCPSeqOpt_AugLag_proof_4_1_bounded_multipliers
 -- name    : NCPSeqOpt.AugLag.proof_4_1_bounded_multipliers
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:05.152853+00:00
 -- url     : https://prove2.me/theorems/4c47cf3a-2a4d-4011-a3d7-7e6cbc2dea6b

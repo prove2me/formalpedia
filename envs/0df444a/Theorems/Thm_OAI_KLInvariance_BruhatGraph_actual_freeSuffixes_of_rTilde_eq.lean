@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KLInvariance_BruhatGraph_actual_freeSuffixes_of_rTilde_eq
 -- name    : OAI.KLInvariance.BruhatGraph.actual_freeSuffixes_of_rTilde_eq
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:51:52.626008+00:00
 -- url     : https://prove2.me/theorems/338dedf9-9a0c-4a0a-a90e-b72b2cf1002c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurProof_N13FiniteAffineTwoChart_finiteAffineIdeal_isUnit
 -- name    : MazurProof.N13FiniteAffineTwoChart.finiteAffineIdeal_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-09T04:19:51.086297+00:00
 -- url     : https://prove2.me/theorems/c691e154-4235-469f-9333-2891c6eb4655

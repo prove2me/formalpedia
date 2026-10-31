@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutProgram_EntryBank_prepared_integer_export_cleanup
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutProgram.EntryBank.prepared_integer_export_cleanup
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:05:19.376343+00:00
 -- url     : https://prove2.me/theorems/a1244842-4f97-4049-b08b-b533fbed5175

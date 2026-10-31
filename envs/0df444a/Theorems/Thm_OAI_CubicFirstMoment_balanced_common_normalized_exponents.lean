@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_balanced_common_normalized_exponents
 -- name    : OAI.CubicFirstMoment.balanced_common_normalized_exponents
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:22:25.293774+00:00
 -- url     : https://prove2.me/theorems/f2acb509-a110-45dd-a3e0-1e5273d846be

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planarGraphCanBeExtended_belowTriangulationBound__p2m_a7addf37_64f9_4244_8efd_795054181733_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:59:43.737847+00:00
 -- url     : https://prove2.me/submissions/5dbfc48f-1f0a-472a-a2e1-8617a46e402b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

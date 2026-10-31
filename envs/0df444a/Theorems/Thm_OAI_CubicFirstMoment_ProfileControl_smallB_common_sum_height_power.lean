@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_ProfileControl_smallB_common_sum_height_power
 -- name    : OAI.CubicFirstMoment.ProfileControl.smallB_common_sum_height_power
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:52:06.205394+00:00
 -- url     : https://prove2.me/theorems/e7e76a2b-5e8d-46ca-a290-e19e175d035e

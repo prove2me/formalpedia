@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Hump_deriv_profit_neg_at_t
 -- name    : Multihoming.Hump.deriv_profit_neg_at_t
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:35.483787+00:00
 -- url     : https://prove2.me/theorems/3db77905-1f8f-49dc-96ce-29899f4778e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicThetaProjectedCusp_identity
 -- name    : OAI.CubicFirstMoment.cubicThetaProjectedCusp_identity
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:50:52.509697+00:00
 -- url     : https://prove2.me/theorems/7f24a579-d9c0-4d72-9b12-03fe8774882e

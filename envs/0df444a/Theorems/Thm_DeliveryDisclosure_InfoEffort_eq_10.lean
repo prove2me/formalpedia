@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeliveryDisclosure_InfoEffort_eq_10
 -- name    : DeliveryDisclosure.InfoEffort.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:46:21.263582+00:00
 -- url     : https://prove2.me/theorems/00daf869-bba2-4c52-9ea1-7358c523aaff

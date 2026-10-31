@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_CodeChecks_graph_matrix_candidate_valid
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.CodeChecks.graph_matrix_candidate_valid
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:42:46.224532+00:00
 -- url     : https://prove2.me/theorems/3dafcc0e-cae7-4a22-a05a-cc02201bf354

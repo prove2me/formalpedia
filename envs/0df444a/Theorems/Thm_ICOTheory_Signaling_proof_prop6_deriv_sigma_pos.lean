@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ICOTheory_Signaling_proof_prop6_deriv_sigma_pos
 -- name    : ICOTheory.Signaling.proof_prop6_deriv_sigma_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:06:53.027987+00:00
 -- url     : https://prove2.me/theorems/af144f09-1405-4a8d-b364-7c02ffc36bac

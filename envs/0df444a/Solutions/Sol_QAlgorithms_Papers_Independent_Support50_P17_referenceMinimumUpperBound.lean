@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Support50.P17.referenceMinimumUpperBound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Alien60
 -- created : 2026-10-29T18:25:08.915743+00:00
 -- url     : https://prove2.me/submissions/ee118ada-7bb3-48c0-ba29-2cb2ad5b919d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QAlgorithms_Papers_Independent_Support50_P17
 import Theorems.Thm_QAlgorithms_Papers_Independent_Support50_P17_relativeEntropy_sum_le

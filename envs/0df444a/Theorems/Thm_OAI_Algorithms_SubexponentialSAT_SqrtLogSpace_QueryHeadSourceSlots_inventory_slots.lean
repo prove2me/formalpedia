@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryHeadSourceSlots_inventory_slots
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryHeadSourceSlots.inventory_slots
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:59:22.426696+00:00
 -- url     : https://prove2.me/theorems/b95a068f-e9e1-4818-9b40-781caba49219

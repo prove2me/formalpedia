@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriorityAlloc_DAFlex_daop_monotone_cutoff_exists
 -- name    : PriorityAlloc.DAFlex.daop_monotone_cutoff_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:39:08.026265+00:00
 -- url     : https://prove2.me/theorems/ebaf4c67-172c-4de2-bac8-67c63081f985

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GeneralMahler_general_mahler
 -- name    : OAI.GeneralMahler.general_mahler
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:42.382711+00:00
 -- url     : https://prove2.me/theorems/ceafa7cb-36bb-46f2-9373-a620a64b4c29

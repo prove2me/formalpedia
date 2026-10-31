@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssocRealizations_TypesMeet_bullet_alternates
 -- name    : AssocRealizations.TypesMeet.bullet_alternates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:27:58.93135+00:00
 -- url     : https://prove2.me/theorems/b45f8eda-f140-4c84-bdba-6144b1e311f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochOptForest_ApxRisk_region_avg_derivatives
 -- name    : StochOptForest.ApxRisk.region_avg_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:28:58.30106+00:00
 -- url     : https://prove2.me/theorems/05f2435f-12dd-4be2-9a00-a3b6cfc4e9fa

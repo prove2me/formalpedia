@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_LeafOuterNative_stageTrial_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.LeafOuterNative.stageTrial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:48:10.266236+00:00
 -- url     : https://prove2.me/theorems/73aa1973-24e9-419b-aaf3-1f6b72dcc3c3

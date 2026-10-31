@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_FactorEvaluationSpace_hashWork_polynomial
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.FactorEvaluationSpace.hashWork_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:32:55.981008+00:00
 -- url     : https://prove2.me/theorems/bd567c15-6db5-4123-be4b-5272cfd10415

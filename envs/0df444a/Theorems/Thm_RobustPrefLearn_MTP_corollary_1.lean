@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPrefLearn_MTP_corollary_1
 -- name    : RobustPrefLearn.MTP.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:07.822581+00:00
 -- url     : https://prove2.me/theorems/01757e8a-e3ea-422f-9c4c-dbef45db257d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryVisitorSemantics_representativeWord_selected
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryVisitorSemantics.representativeWord_selected
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:40:35.672658+00:00
 -- url     : https://prove2.me/theorems/3b02e237-d543-4b3a-b053-94d4236c91f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherlocking_InfoPolicy_optimal_commitment
 -- name    : Sherlocking.InfoPolicy.optimal_commitment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:17.438027+00:00
 -- url     : https://prove2.me/theorems/903fa856-b436-4230-915d-7683d5ce5659

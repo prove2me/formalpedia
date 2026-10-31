@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for planar_simple_face_degree_bound__p2m_7c79708d_854c_4714_8264_d2d977d1ffbf_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:44:25.27599+00:00
 -- url     : https://prove2.me/submissions/482314ac-0f3f-49c1-9b36-45ea89c9388f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

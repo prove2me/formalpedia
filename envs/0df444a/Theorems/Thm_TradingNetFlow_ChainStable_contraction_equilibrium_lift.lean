@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingNetFlow_ChainStable_contraction_equilibrium_lift
 -- name    : TradingNetFlow.ChainStable.contraction_equilibrium_lift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:32.292999+00:00
 -- url     : https://prove2.me/theorems/68430d74-ddbe-4056-b5cd-239b5848071e

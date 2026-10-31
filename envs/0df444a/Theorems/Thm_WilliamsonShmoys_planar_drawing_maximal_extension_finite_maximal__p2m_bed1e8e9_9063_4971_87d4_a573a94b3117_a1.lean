@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_maximal_extension_finite_maximal__p2m_bed1e8e9_9063_4971_87d4_a573a94b3117_a1
 -- name    : WilliamsonShmoys.planar_drawing_maximal_extension_finite_maximal__p2m_bed1e8e9_9063_4971_87d4_a573a94b3117_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:52:18.285657+00:00
 -- url     : https://prove2.me/theorems/644d8d94-7b95-4a48-997e-d6c303d2401e

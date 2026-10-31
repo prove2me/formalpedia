@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryTargetMetadata_native_count
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryTargetMetadata.native_count
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:37:13.978262+00:00
 -- url     : https://prove2.me/theorems/a5f7ca09-4760-40a4-a890-c1e93e6d2ea2

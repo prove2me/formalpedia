@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPrefLearn_MTP_proposition_2
 -- name    : RobustPrefLearn.MTP.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:13.038951+00:00
 -- url     : https://prove2.me/theorems/24701062-4f7b-4605-af8e-87d216c2f7be

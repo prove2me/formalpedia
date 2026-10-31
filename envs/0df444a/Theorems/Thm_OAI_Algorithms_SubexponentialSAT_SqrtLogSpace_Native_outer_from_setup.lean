@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_Native_outer_from_setup
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.Native.outer_from_setup
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:18:55.288127+00:00
 -- url     : https://prove2.me/theorems/ef3a8095-4812-42e7-8425-9e5a7550a4ba

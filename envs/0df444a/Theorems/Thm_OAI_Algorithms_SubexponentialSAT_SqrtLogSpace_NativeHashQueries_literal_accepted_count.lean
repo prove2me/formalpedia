@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeHashQueries_literal_accepted_count
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeHashQueries.literal_accepted_count
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:31:36.614356+00:00
 -- url     : https://prove2.me/theorems/9834179e-02c5-4221-9f8c-e9f01986c5df

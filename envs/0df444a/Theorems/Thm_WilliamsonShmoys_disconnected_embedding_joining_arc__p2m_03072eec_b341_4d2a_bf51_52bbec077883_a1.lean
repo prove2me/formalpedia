@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_disconnected_embedding_joining_arc__p2m_03072eec_b341_4d2a_bf51_52bbec077883_a1
 -- name    : WilliamsonShmoys.disconnected_embedding_joining_arc__p2m_03072eec_b341_4d2a_bf51_52bbec077883_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:58:43.526843+00:00
 -- url     : https://prove2.me/theorems/f5d9ac23-37a8-4813-be64-33098d8dbd1e

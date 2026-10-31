@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_ReconstructionProgram_Scalar_accumulate_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.ReconstructionProgram.Scalar.accumulate_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:11:07.281453+00:00
 -- url     : https://prove2.me/theorems/5c2e4bc5-47cd-49ed-a42c-29eaadbba323

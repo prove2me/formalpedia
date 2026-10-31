@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquilibriumExperiment_Gradient_theorem_6
 -- name    : EquilibriumExperiment.Gradient.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:39:43.915551+00:00
 -- url     : https://prove2.me/theorems/2c69e45a-e5b9-4a21-aaec-b037fcd80226

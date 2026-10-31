@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeDepFolk_Asymptotic_one_shot_deviation
 -- name    : TimeDepFolk.Asymptotic.one_shot_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:19:19.899493+00:00
 -- url     : https://prove2.me/theorems/a866d9d8-dce2-4d1b-8972-d4afd5deb39e

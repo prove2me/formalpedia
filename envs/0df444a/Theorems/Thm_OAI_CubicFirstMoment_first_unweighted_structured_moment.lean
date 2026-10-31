@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_first_unweighted_structured_moment
 -- name    : OAI.CubicFirstMoment.first_unweighted_structured_moment
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:49:51.970913+00:00
 -- url     : https://prove2.me/theorems/a52cc8cc-b5fe-4b69-b32b-2d6fa912a941

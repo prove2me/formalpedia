@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SignatureKeyNative_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SignatureKeyNative.run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:49:36.423629+00:00
 -- url     : https://prove2.me/theorems/3add3b34-cc3b-4f0b-8cf4-ea4d4697cd30

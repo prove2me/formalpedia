@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryNodeReadout_run_common
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryNodeReadout.run_common
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:37:05.30976+00:00
 -- url     : https://prove2.me/theorems/604e949a-3d66-407c-8f23-1cdb947da5db

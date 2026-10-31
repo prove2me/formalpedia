@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_graph_has_triangulated_supergraph_exact_edge_count__p2m_cc47608f_2603_41cf_ab7f_de8b10963069_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:59:58.631812+00:00
 -- url     : https://prove2.me/submissions/790081b9-7bec-4f9b-afa9-b4554f7f9671
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

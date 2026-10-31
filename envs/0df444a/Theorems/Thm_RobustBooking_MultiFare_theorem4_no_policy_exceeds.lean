@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_MultiFare_theorem4_no_policy_exceeds
 -- name    : RobustBooking.MultiFare.theorem4_no_policy_exceeds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T23:43:54.768463+00:00
 -- url     : https://prove2.me/theorems/63ac0b0a-6fc3-4bdd-a27c-14705beb834a

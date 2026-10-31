@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeDepFolk_Asymptotic_interior_mem_eqPayoffs
 -- name    : TimeDepFolk.Asymptotic.interior_mem_eqPayoffs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:19:21.771331+00:00
 -- url     : https://prove2.me/theorems/a17d802b-518d-4f88-9387-c242c16b26c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_Hamming_lemma_2_4
 -- name    : FuzzyExtractors.Hamming.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:16:45.079851+00:00
 -- url     : https://prove2.me/theorems/3ad5fbf8-c4d7-4a77-9f35-0bf1653f5832

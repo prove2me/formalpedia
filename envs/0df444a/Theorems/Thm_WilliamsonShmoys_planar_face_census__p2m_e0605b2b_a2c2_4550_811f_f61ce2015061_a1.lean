@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_face_census__p2m_e0605b2b_a2c2_4550_811f_f61ce2015061_a1
 -- name    : WilliamsonShmoys.planar_face_census__p2m_e0605b2b_a2c2_4550_811f_f61ce2015061_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:58:47.596671+00:00
 -- url     : https://prove2.me/theorems/2343a1b4-cbe5-4a48-b836-711e4285cb1c

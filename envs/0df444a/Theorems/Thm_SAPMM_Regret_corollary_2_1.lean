@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAPMM_Regret_corollary_2_1
 -- name    : SAPMM.Regret.corollary_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:35.245322+00:00
 -- url     : https://prove2.me/theorems/9e4de02e-70fd-4428-a08c-d5514fc18a25

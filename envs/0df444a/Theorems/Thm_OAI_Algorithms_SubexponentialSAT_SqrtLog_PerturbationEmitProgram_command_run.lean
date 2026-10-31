@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_PerturbationEmitProgram_command_run
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.PerturbationEmitProgram.command_run
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:36:58.984639+00:00
 -- url     : https://prove2.me/theorems/5b85796d-40aa-480b-967d-a62b2a6fcca1

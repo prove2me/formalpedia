@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HighQueryLoop_add_rank
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighQueryLoop.add_rank
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:47:49.897174+00:00
 -- url     : https://prove2.me/theorems/983870c5-13cb-4365-b044-aea2beb3d625

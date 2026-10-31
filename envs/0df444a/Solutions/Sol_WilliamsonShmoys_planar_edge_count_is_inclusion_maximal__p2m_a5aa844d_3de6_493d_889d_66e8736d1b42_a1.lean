@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_edge_count_is_inclusion_maximal__p2m_a5aa844d_3de6_493d_889d_66e8736d1b42_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-29T11:38:13.004056+00:00
 -- url     : https://prove2.me/submissions/d2c7e96a-cbdd-4a7d-88e9-145429c546d9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_TriangularMap
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

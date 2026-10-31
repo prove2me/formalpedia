@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RemanProcure_Noncongestive_eq_1
 -- name    : RemanProcure.Noncongestive.eq_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:21:16.953932+00:00
 -- url     : https://prove2.me/theorems/ab70f7e4-254b-4a69-8ee3-f93dbbc3e645

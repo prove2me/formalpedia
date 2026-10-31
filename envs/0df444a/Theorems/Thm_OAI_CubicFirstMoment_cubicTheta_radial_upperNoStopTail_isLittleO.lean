@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicTheta_radial_upperNoStopTail_isLittleO
 -- name    : OAI.CubicFirstMoment.cubicTheta_radial_upperNoStopTail_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:40:28.972991+00:00
 -- url     : https://prove2.me/theorems/62ab30a3-d086-4e50-bf41-eba2819cc947

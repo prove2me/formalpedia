@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfoundPromo_LongRun_optimal_signal
 -- name    : ConfoundPromo.LongRun.optimal_signal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:28:42.108255+00:00
 -- url     : https://prove2.me/theorems/0db77198-4f1c-4d9a-9e30-e06a03cae5ec

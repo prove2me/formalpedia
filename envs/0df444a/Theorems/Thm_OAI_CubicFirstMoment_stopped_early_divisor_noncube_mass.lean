@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_stopped_early_divisor_noncube_mass
 -- name    : OAI.CubicFirstMoment.stopped_early_divisor_noncube_mass
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:29:34.476276+00:00
 -- url     : https://prove2.me/theorems/ee6bf82d-c3ba-4b65-b0b6-edbbc5158496

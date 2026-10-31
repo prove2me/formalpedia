@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_large_core_mellin_integral_saving
 -- name    : OAI.CubicFirstMoment.angular_large_core_mellin_integral_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:17:43.651648+00:00
 -- url     : https://prove2.me/theorems/67c2149f-9db3-4cf0-89ac-4133ac3ce96b

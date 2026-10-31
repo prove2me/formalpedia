@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_Stoch_theorem_3
 -- name    : NonconvexAG.Stoch.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:23:16.527783+00:00
 -- url     : https://prove2.me/theorems/8be4428f-2fc8-44bf-9127-d3232b3f3e44

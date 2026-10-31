@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_dp_operation_bound
 -- name    : FBMSP.dp_operation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T04:57:46.08825+00:00
 -- url     : https://prove2.me/theorems/e9cd4d8d-cc13-40e9-a82a-7563aa65014f

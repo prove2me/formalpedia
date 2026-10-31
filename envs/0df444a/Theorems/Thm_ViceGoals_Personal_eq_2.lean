@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ViceGoals_Personal_eq_2
 -- name    : ViceGoals.Personal.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:20.063879+00:00
 -- url     : https://prove2.me/theorems/d1d31a3e-f040-4016-9f6b-3cb00a86756a

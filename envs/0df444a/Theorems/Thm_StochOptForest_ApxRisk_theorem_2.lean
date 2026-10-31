@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochOptForest_ApxRisk_theorem_2
 -- name    : StochOptForest.ApxRisk.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:29:12.417006+00:00
 -- url     : https://prove2.me/theorems/e281def6-e3dd-4f53-b7ee-657e00d3fa47

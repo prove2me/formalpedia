@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_full_prime_product_height_bilinear
 -- name    : OAI.CubicFirstMoment.full_prime_product_height_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:26:05.192251+00:00
 -- url     : https://prove2.me/theorems/8c9e1f50-891c-4c4d-989d-5ee1f0a8a243

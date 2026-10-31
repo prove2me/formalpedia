@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairRentFPTAS_Approx_lemma_2
 -- name    : FairRentFPTAS.Approx.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:35.920559+00:00
 -- url     : https://prove2.me/theorems/eaf7579e-5355-4fb9-8d35-ea27d5936d3d

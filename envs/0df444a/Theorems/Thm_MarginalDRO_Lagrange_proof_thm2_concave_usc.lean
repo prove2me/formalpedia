@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalDRO_Lagrange_proof_thm2_concave_usc
 -- name    : MarginalDRO.Lagrange.proof_thm2_concave_usc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:32.528109+00:00
 -- url     : https://prove2.me/theorems/76dc1a9a-8b1d-4e1c-963f-92d9290673a9

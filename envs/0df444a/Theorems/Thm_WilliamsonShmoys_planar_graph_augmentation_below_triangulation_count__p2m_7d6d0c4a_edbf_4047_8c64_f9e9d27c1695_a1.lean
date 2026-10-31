@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_augmentation_below_triangulation_count__p2m_7d6d0c4a_edbf_4047_8c64_f9e9d27c1695_a1
 -- name    : WilliamsonShmoys.planar_graph_augmentation_below_triangulation_count__p2m_7d6d0c4a_edbf_4047_8c64_f9e9d27c1695_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:57:37.579929+00:00
 -- url     : https://prove2.me/theorems/dedf5137-e1df-470f-a755-e725cf271f52

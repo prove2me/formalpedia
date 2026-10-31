@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_NativeLeafPreparation_afterCanonical_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.NativeLeafPreparation.afterCanonical_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:14:41.034126+00:00
 -- url     : https://prove2.me/theorems/62444e78-b3af-4016-b613-3763403de7d8

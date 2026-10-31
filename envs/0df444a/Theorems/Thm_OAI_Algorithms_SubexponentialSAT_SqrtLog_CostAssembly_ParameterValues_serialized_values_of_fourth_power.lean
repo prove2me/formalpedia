@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_CostAssembly_ParameterValues_serialized_values_of_fourth_power
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.CostAssembly.ParameterValues.serialized_values_of_fourth_power
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:24:29.292512+00:00
 -- url     : https://prove2.me/theorems/4645c7d7-ac62-41e4-a65e-1249ea2dbfda

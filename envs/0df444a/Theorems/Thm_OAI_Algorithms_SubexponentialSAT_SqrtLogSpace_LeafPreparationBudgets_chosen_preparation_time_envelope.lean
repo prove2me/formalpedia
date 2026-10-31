@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_LeafPreparationBudgets_chosen_preparation_time_envelope
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.LeafPreparationBudgets.chosen_preparation_time_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:56:35.657676+00:00
 -- url     : https://prove2.me/theorems/a7a44573-ccdb-4899-b19d-28638086d543

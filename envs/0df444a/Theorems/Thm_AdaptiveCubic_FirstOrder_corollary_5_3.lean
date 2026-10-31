@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveCubic_FirstOrder_corollary_5_3
 -- name    : AdaptiveCubic.FirstOrder.corollary_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:40:51.900024+00:00
 -- url     : https://prove2.me/theorems/6f064a88-4bdf-4c88-8319-6f607f9e5740

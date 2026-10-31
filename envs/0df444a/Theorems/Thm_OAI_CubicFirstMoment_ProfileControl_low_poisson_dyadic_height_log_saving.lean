@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_ProfileControl_low_poisson_dyadic_height_log_saving
 -- name    : OAI.CubicFirstMoment.ProfileControl.low_poisson_dyadic_height_log_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:11:23.416302+00:00
 -- url     : https://prove2.me/theorems/e7bcbad8-de6e-48a9-ab74-5dcd56b9dda3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssocRealizations_TypesMeet_lemma_2_2
 -- name    : AssocRealizations.TypesMeet.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:27:57.2799+00:00
 -- url     : https://prove2.me/theorems/e82be7ae-b4eb-4c54-b5f0-f1e8d081e382

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.hasExpAsymptoticsEnd_of_isAsymptoticallyCylindricalEnd
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-29T20:22:18.64284+00:00
 -- url     : https://prove2.me/submissions/936e790c-1053-4210-a0f0-da29e6cc9c5f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_Asymptotics
 import Theorems.Thm_FiniteEnergyPlane_exists_expDecay_of_isAsymptoticallyCylindricalEnd

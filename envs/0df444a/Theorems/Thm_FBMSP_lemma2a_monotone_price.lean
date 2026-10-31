@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_lemma2a_monotone_price
 -- name    : FBMSP.lemma2a_monotone_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T04:55:29.083477+00:00
 -- url     : https://prove2.me/theorems/5ca081ae-25a2-4fbc-ba03-e2264a0e8a90

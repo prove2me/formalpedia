@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HighQueryAdapter_NativeOverlay_command_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighQueryAdapter.NativeOverlay.command_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:39:36.213798+00:00
 -- url     : https://prove2.me/theorems/898095e4-bb23-4a48-910e-919478bd8754

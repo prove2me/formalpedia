@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_dbar_bound_tubeTangent
 -- name    : FiniteEnergyPlane.exists_dbar_bound_tubeTangent
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-29T21:32:00.86299+00:00
 -- url     : https://prove2.me/theorems/da7a1d40-9d17-4717-942f-b43acd2652c2

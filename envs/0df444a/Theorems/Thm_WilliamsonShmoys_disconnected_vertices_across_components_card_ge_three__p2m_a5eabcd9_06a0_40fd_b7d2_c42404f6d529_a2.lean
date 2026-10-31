@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_disconnected_vertices_across_components_card_ge_three__p2m_a5eabcd9_06a0_40fd_b7d2_c42404f6d529_a2
 -- name    : WilliamsonShmoys.disconnected_vertices_across_components_card_ge_three__p2m_a5eabcd9_06a0_40fd_b7d2_c42404f6d529_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:22:55.066123+00:00
 -- url     : https://prove2.me/theorems/0c7a2e4f-7592-47b4-9a07-c3f5e09bb4ed

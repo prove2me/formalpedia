@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContingentSourcing_Competition_lemma_A_1
 -- name    : ContingentSourcing.Competition.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:31:01.115079+00:00
 -- url     : https://prove2.me/theorems/895a27ea-fae8-4df5-969c-8316a0ea830c

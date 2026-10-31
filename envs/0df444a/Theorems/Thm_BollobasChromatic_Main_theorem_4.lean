@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BollobasChromatic_Main_theorem_4
 -- name    : BollobasChromatic.Main.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:08:09.877235+00:00
 -- url     : https://prove2.me/theorems/ccde649a-659b-47bc-8e08-d41a9396e399

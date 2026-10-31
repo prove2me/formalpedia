@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryNodeSourceBounds_retainedCap
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryNodeSourceBounds.retainedCap
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:35:37.436002+00:00
 -- url     : https://prove2.me/theorems/ca58a81e-97a1-4a54-b173-a04b75c2fe7e

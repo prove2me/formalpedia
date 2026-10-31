@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for MazurTransfer.order13_no_noncuspidal_genus_two_point
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @FormallyCorrect
 -- created : 2026-10-30T05:28:25.400187+00:00
 -- url     : https://prove2.me/submissions/6d7b28d3-c539-4f43-93fa-6d9f2430b8c6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_MazurProof_N13ConstructedRationalPointTheorem_affine_x_is_cuspidal

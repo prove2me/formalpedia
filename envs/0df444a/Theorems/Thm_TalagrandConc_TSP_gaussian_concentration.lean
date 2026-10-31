@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandConc_TSP_gaussian_concentration
 -- name    : TalagrandConc.TSP.gaussian_concentration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:45:28.671348+00:00
 -- url     : https://prove2.me/theorems/a4838d0d-f651-4c8c-a41c-c66fa869e94a

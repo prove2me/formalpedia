@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryProgram_signedScale_run_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryProgram.signedScale_run_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:18:48.384813+00:00
 -- url     : https://prove2.me/theorems/c550f074-d70d-4945-b856-d504df9377ad

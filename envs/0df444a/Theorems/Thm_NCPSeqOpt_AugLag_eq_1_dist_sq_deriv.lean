@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCPSeqOpt_AugLag_eq_1_dist_sq_deriv
 -- name    : NCPSeqOpt.AugLag.eq_1_dist_sq_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:25.216422+00:00
 -- url     : https://prove2.me/theorems/82a8d9d4-9b15-4521-8684-ec39f6a897c8

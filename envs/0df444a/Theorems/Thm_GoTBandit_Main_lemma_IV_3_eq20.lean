@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoTBandit_Main_lemma_IV_3_eq20
 -- name    : GoTBandit.Main.lemma_IV_3_eq20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:16:24.574275+00:00
 -- url     : https://prove2.me/theorems/3791fdc6-03c8-4c6f-b17e-54e5c9d13841

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochOptForest_ApxRisk_theorem_9_uniform
 -- name    : StochOptForest.ApxRisk.theorem_9_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:29:02.59544+00:00
 -- url     : https://prove2.me/theorems/9f9e8d58-56f0-4fb8-826b-e5d1319e406b

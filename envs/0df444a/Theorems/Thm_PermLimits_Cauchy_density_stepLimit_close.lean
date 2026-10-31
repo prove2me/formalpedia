@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermLimits_Cauchy_density_stepLimit_close
 -- name    : PermLimits.Cauchy.density_stepLimit_close
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:22:29.591783+00:00
 -- url     : https://prove2.me/theorems/d98580c3-cbfc-4fc1-897c-2b8aa3419dc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawingOn_addEdge_when_below_triangulation_count
 -- name    : WilliamsonShmoys.planarDrawingOn_addEdge_when_below_triangulation_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T13:14:51.826515+00:00
 -- url     : https://prove2.me/theorems/66209719-12f5-4dcd-8462-ea061cbcc224

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeDelaySGD_MeanSquare_delay_sum_linear
 -- name    : LargeDelaySGD.MeanSquare.delay_sum_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:52.372819+00:00
 -- url     : https://prove2.me/theorems/f5577914-c22e-4b74-ab0b-1e54d893a284

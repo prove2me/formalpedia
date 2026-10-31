@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AffineBernstein_affine_bernstein
 -- name    : OAI.AffineBernstein.affine_bernstein
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:20.445056+00:00
 -- url     : https://prove2.me/theorems/0f6368a8-3522-455d-b28e-6e5195399f56

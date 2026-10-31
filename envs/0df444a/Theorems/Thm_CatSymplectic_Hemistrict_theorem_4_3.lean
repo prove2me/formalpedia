@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CatSymplectic_Hemistrict_theorem_4_3
 -- name    : CatSymplectic.Hemistrict.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:40:19.780555+00:00
 -- url     : https://prove2.me/theorems/a0c02080-6964-4dd9-bcd1-58848c5d6812

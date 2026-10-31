@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_low_far_logCell_integrated_bound
 -- name    : OAI.CubicFirstMoment.low_far_logCell_integrated_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:26:41.836842+00:00
 -- url     : https://prove2.me/theorems/106d7473-0a93-427a-ba87-4da3606e88ae

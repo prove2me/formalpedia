@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutProgram_EntryBank_uncovered_cleanup_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutProgram.EntryBank.uncovered_cleanup_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:25:25.71304+00:00
 -- url     : https://prove2.me/theorems/46f5b393-3ce4-4fc9-9f68-2517e8e99fcd

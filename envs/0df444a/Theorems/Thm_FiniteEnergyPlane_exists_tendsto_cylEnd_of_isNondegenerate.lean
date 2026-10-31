@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_tendsto_cylEnd_of_isNondegenerate
 -- name    : FiniteEnergyPlane.exists_tendsto_cylEnd_of_isNondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-29T20:36:49.726022+00:00
 -- url     : https://prove2.me/theorems/36c9d4a1-1f7c-40ad-b148-739c69801316

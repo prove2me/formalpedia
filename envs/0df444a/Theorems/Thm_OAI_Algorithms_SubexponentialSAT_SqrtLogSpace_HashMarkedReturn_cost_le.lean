@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashMarkedReturn_cost_le
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashMarkedReturn.cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:13:06.470159+00:00
 -- url     : https://prove2.me/theorems/1fe5b57f-9f18-4196-9a52-06d15995a918

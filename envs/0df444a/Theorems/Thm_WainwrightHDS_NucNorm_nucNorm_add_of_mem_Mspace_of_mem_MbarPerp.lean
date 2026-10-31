@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_NucNorm_nucNorm_add_of_mem_Mspace_of_mem_MbarPerp
 -- name    : WainwrightHDS.NucNorm.nucNorm_add_of_mem_Mspace_of_mem_MbarPerp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:32:02.679293+00:00
 -- url     : https://prove2.me/theorems/f001df3a-f0eb-4563-a1c8-e4488467630a

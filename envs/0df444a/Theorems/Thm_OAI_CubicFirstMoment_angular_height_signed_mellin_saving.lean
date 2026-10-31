@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_height_signed_mellin_saving
 -- name    : OAI.CubicFirstMoment.angular_height_signed_mellin_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:17:09.418524+00:00
 -- url     : https://prove2.me/theorems/8c611a35-e7f7-47bb-83f6-2bf579e3f2a0

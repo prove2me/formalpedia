@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollabProject_TimeDep_lemma_2_supplier
 -- name    : CollabProject.TimeDep.lemma_2_supplier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:45.435429+00:00
 -- url     : https://prove2.me/theorems/a9e6bdb1-cc58-4702-b6fa-8210cc48b8da

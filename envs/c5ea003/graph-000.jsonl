@@ -61339,3 +61339,33 @@
 {"parent": "Shamir1979.threshold_scheme", "child": "Shamir1979.perfect_privacy", "via": ["solution"]}
 {"parent": "Shamir1979.hierarchical_threshold", "child": "Shamir1979.reconstruction", "via": ["solution"]}
 {"parent": "Shamir1979.hierarchical_threshold", "child": "Shamir1979.perfect_privacy", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_kernel_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_race_kernel_construction", "child": "KServer_chunk_cond", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_graded_sampler_construction", "child": "KServer_nonneg_chunk_system", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_graded_sampler_construction", "child": "KServer_binary_read_trace", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_graded_sampler_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_nonneg_race_construction", "child": "KServer_nonneg_chunk_system", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_nonneg_race_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_race_moment_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_race_moment_construction", "child": "KServer_chunk_cond", "via": ["statement"]}
+{"parent": "KServer.nonneg_chunk_positive_support", "child": "KServer_nonneg_chunk_system", "via": ["solution", "statement"]}
+{"parent": "KServer.chunk_potential_iff", "child": "KServer_chunk_potentials", "via": ["solution", "statement"]}
+{"parent": "KServer.binary_read_trace_nonanticipation", "child": "KServer_binary_read_trace", "via": ["solution", "statement"]}
+{"parent": "KServer_nonneg_chunk_system", "child": "KServer_chunk_cond", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_product_race_construction", "child": "KServer_nonneg_chunk_system", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_product_race_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_race_atom_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_race_atom_construction", "child": "KServer_chunk_cond", "via": ["statement"]}
+{"parent": "KServer_chunk_potentials", "child": "KServer_chunk_bellman", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_relative_efficiency", "child": "KServer.race_abs_moment_lower", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_relative_efficiency", "child": "KServer.bcr_claim13_race_moment_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_kernel_construction", "child": "KServer.bcr_claim13_race_atom_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_kernel_construction", "child": "KServer.binary_kernel_of_atom_balance", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_nonneg_race_construction", "child": "KServer.bcr_claim13_product_race_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_nonneg_race_construction", "child": "KServer.bernoulli_fresh_coordinate", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_moment_construction", "child": "KServer.bcr_claim13_race_kernel_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_moment_construction", "child": "KServer.race_kernel_moments", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_product_race_construction", "child": "KServer.binary_read_trace_nonanticipation", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_product_race_construction", "child": "KServer.bcr_claim13_graded_sampler_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_atom_construction", "child": "KServer.bcr_claim13_nonneg_race_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_atom_construction", "child": "KServer.nonneg_chunk_positive_support", "via": ["solution"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNatOps_Monotone_thm3_induction
 -- name    : MNatOps.Monotone.thm3_induction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:11.200404+00:00
 -- url     : https://prove2.me/theorems/7358f626-ce12-4bfc-9b12-8e206db117d6

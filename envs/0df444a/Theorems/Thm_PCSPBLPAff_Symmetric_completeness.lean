@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Symmetric_completeness
 -- name    : PCSPBLPAff.Symmetric.completeness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:10.386671+00:00
 -- url     : https://prove2.me/theorems/b6bb254f-211e-4a46-9b2d-1eb73ef1fc7f

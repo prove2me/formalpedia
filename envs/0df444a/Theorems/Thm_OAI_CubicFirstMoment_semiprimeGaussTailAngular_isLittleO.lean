@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_semiprimeGaussTailAngular_isLittleO
 -- name    : OAI.CubicFirstMoment.semiprimeGaussTailAngular_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:44:14.15004+00:00
 -- url     : https://prove2.me/theorems/5bdc0d4f-b6bc-4cd4-af9c-12fc60b98bec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_chosen_scalar_input_cap_of_scope_resources
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.chosen_scalar_input_cap_of_scope_resources
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:02:31.517052+00:00
 -- url     : https://prove2.me/theorems/f0bb622e-f642-497e-81bd-7441b12a089f

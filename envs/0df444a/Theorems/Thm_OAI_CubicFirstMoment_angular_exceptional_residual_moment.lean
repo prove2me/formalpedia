@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_exceptional_residual_moment
 -- name    : OAI.CubicFirstMoment.angular_exceptional_residual_moment
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:14:42.560843+00:00
 -- url     : https://prove2.me/theorems/de26405a-97e7-4d12-b656-a44c15b3d313

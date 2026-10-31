@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.drawable_edge_lower_bound_extension__p2m_7c57b747_c460_4faf_9469_5a2ac820d0a0_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:40:25.476503+00:00
 -- url     : https://prove2.me/submissions/8e0c7b8a-0a06-40b4-9ae4-74082b8256fe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

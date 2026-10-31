@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.CubicFirstMoment.patterson_firstMoment
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T05:43:32.056095+00:00
 -- url     : https://prove2.me/submissions/b2cc1495-f53b-4b32-b4b7-38d99a621fd7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Batteries.Tactic.Lemma

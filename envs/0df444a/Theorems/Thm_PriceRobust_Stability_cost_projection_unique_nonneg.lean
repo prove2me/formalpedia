@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceRobust_Stability_cost_projection_unique_nonneg
 -- name    : PriceRobust.Stability.cost_projection_unique_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:17:10.315771+00:00
 -- url     : https://prove2.me/theorems/acae598e-67c4-4d7a-b8ff-8c2136367609

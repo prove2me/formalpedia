@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssocRealizations_TypesMeet_proposition_5_5
 -- name    : AssocRealizations.TypesMeet.proposition_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:02.918635+00:00
 -- url     : https://prove2.me/theorems/b73d1266-fc3a-4949-9cc1-fffac3bf6b00

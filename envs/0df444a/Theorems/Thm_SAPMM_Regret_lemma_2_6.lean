@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAPMM_Regret_lemma_2_6
 -- name    : SAPMM.Regret.lemma_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:31.519266+00:00
 -- url     : https://prove2.me/theorems/67f2e52b-4dd1-415a-a4b8-8a0d2f329d52

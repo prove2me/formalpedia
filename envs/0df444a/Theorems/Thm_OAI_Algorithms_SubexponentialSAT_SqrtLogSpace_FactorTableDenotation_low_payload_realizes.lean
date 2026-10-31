@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_FactorTableDenotation_low_payload_realizes
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.FactorTableDenotation.low_payload_realizes
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:28:20.265697+00:00
 -- url     : https://prove2.me/theorems/2b283b86-6ef8-4866-9773-7d8e46db3367

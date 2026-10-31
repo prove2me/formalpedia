@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplodingOffer_Mrl_sHat_wellDefined
 -- name    : ExplodingOffer.Mrl.sHat_wellDefined
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:40.781987+00:00
 -- url     : https://prove2.me/theorems/880228ec-86b6-4dfd-9b11-c2f9f662f422

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicThetaActualCompletedRadialMain_eq
 -- name    : OAI.CubicFirstMoment.cubicThetaActualCompletedRadialMain_eq
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:36:53.873022+00:00
 -- url     : https://prove2.me/theorems/d0bc4146-dcb5-4669-9417-3682010fb039

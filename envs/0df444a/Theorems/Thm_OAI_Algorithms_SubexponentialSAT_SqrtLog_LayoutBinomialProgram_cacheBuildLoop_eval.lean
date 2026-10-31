@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LayoutBinomialProgram_cacheBuildLoop_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LayoutBinomialProgram.cacheBuildLoop_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:42:05.085006+00:00
 -- url     : https://prove2.me/theorems/1fa4d3d0-7d5d-4b0a-af4c-3b39b72faa8c

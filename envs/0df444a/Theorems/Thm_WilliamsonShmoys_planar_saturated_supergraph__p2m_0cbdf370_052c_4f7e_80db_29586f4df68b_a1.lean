@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_saturated_supergraph__p2m_0cbdf370_052c_4f7e_80db_29586f4df68b_a1
 -- name    : WilliamsonShmoys.planar_saturated_supergraph__p2m_0cbdf370_052c_4f7e_80db_29586f4df68b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:27:31.540015+00:00
 -- url     : https://prove2.me/theorems/a8601a7b-3dd5-4a47-bc32-8f856380985e

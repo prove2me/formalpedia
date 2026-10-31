@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_TwoFare_deterministic_upper_bound
 -- name    : RobustBooking.TwoFare.deterministic_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T23:03:11.847181+00:00
 -- url     : https://prove2.me/theorems/7ecb5e63-8dc8-454c-b8ab-b3c5310135c0

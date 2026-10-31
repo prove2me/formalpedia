@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SwitchCostGames_Stationary_filar_raghavan
 -- name    : SwitchCostGames.Stationary.filar_raghavan
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:09.760986+00:00
 -- url     : https://prove2.me/theorems/7dd66b49-adc6-4a36-8b1e-c5dc0a970511

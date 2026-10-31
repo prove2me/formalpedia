@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SwitchCostGames_Stationary_value_le_pure_minimax
 -- name    : SwitchCostGames.Stationary.value_le_pure_minimax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:13.811778+00:00
 -- url     : https://prove2.me/theorems/013fa716-d856-44e3-b86f-5bd98ad8a6af

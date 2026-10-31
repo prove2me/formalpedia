@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_lemma1_pricing_geometry
 -- name    : FBMSP.lemma1_pricing_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T04:54:21.909304+00:00
 -- url     : https://prove2.me/theorems/214efd13-fc8f-454b-b462-0b737d7688f5

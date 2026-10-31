@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_dominant_balanced_full_factor_neighborhood
 -- name    : OAI.CubicFirstMoment.dominant_balanced_full_factor_neighborhood
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:59:04.94647+00:00
 -- url     : https://prove2.me/theorems/043395be-1d4a-40f2-9ffc-4a5f6253f6e1

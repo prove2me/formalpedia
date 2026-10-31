@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BrandLicensing_Intensive_eq_12_licensee_effort
 -- name    : BrandLicensing.Intensive.eq_12_licensee_effort
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:02.869633+00:00
 -- url     : https://prove2.me/theorems/538afed0-9d93-4b05-beb5-4ea2620cd581

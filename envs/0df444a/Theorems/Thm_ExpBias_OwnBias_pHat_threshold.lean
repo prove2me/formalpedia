@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpBias_OwnBias_pHat_threshold
 -- name    : ExpBias.OwnBias.pHat_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:40:10.190508+00:00
 -- url     : https://prove2.me/theorems/1ea68704-d589-4001-b000-26767212af69

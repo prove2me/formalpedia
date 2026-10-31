@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_disconnected_drawing_proper_extension_connectedification_retry3
 -- name    : WilliamsonShmoys.disconnected_drawing_proper_extension_connectedification_retry3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T23:18:34.283608+00:00
 -- url     : https://prove2.me/theorems/ec1fa3a1-e9a2-4972-a5ba-131974b9d109

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_sieveExponent_four_thirds
 -- name    : OAI.CubicFirstMoment.sieveExponent_four_thirds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:38:21.982472+00:00
 -- url     : https://prove2.me/theorems/c683f6e6-16b4-4c27-b403-0e191bcdc0a4

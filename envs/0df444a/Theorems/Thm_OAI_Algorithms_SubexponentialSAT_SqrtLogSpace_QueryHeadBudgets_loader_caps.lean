@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryHeadBudgets_loader_caps
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryHeadBudgets.loader_caps
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:17:53.551676+00:00
 -- url     : https://prove2.me/theorems/ed17a976-e14f-47eb-9e43-af285e14cefe

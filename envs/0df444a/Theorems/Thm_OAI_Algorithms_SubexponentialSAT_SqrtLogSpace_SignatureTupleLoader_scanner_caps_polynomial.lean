@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SignatureTupleLoader_scanner_caps_polynomial
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SignatureTupleLoader.scanner_caps_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:01:06.579324+00:00
 -- url     : https://prove2.me/theorems/3ae9a0bd-2888-4b55-92c1-75ad6dd3aab4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_localized_integral_power_saving
 -- name    : OAI.CubicFirstMoment.localized_integral_power_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:01:21.564205+00:00
 -- url     : https://prove2.me/theorems/154d4702-169d-48fc-9d4f-490201f079e5

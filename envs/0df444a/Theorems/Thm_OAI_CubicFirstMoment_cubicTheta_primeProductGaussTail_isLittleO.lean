@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicTheta_primeProductGaussTail_isLittleO
 -- name    : OAI.CubicFirstMoment.cubicTheta_primeProductGaussTail_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:24:05.790974+00:00
 -- url     : https://prove2.me/theorems/4a6a90f9-553d-4491-a03b-361bd95f9384

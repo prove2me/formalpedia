@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryProducerSpace_low_run_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryProducerSpace.low_run_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:00:47.116074+00:00
 -- url     : https://prove2.me/theorems/9e8856af-8b9d-46c7-bd54-fb7091d69070

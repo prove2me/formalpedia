@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SKRatio_ratio_cutoff
 -- name    : OAI.SKRatio.ratio_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:18.134336+00:00
 -- url     : https://prove2.me/theorems/d964735c-c00d-4f54-b120-998bf20bf6b4

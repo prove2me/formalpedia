@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenSignal_Asymmetry_alphaStar_range
 -- name    : TokenSignal.Asymmetry.alphaStar_range
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:54.883433+00:00
 -- url     : https://prove2.me/theorems/11bab711-ff2c-4767-a1a2-43a962a7f844

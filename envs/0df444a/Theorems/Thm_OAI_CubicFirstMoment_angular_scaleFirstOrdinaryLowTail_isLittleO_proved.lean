@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_scaleFirstOrdinaryLowTail_isLittleO_proved
 -- name    : OAI.CubicFirstMoment.angular_scaleFirstOrdinaryLowTail_isLittleO_proved
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:19:12.789718+00:00
 -- url     : https://prove2.me/theorems/cfe75053-cf6a-4f10-8ede-bf393f42947e

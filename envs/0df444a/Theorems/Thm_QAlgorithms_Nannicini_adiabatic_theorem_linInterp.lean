@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_adiabatic_theorem_linInterp
 -- name    : QAlgorithms.Nannicini.adiabatic_theorem_linInterp
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:53:45.966693+00:00
 -- url     : https://prove2.me/theorems/52c41e17-38ac-4a3b-9387-3eb804659394

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbMetricStab_TwoStage_theorem_3_3
 -- name    : ProbMetricStab.TwoStage.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:06:11.478019+00:00
 -- url     : https://prove2.me/theorems/44fb78a0-cf2d-4708-8549-cd813bcc7e66

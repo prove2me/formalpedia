@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryAnomaly_EW_lemma_8
 -- name    : InventoryAnomaly.EW.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:27:10.674008+00:00
 -- url     : https://prove2.me/theorems/e905bfc9-c944-4efe-a58d-714c8bfc8537

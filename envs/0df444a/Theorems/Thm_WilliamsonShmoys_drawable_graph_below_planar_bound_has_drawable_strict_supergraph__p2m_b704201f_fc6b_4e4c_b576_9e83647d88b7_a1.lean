@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_below_planar_bound_has_drawable_strict_supergraph__p2m_b704201f_fc6b_4e4c_b576_9e83647d88b7_a1
 -- name    : WilliamsonShmoys.drawable_graph_below_planar_bound_has_drawable_strict_supergraph__p2m_b704201f_fc6b_4e4c_b576_9e83647d88b7_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:56:18.070763+00:00
 -- url     : https://prove2.me/theorems/957d5f50-de1a-483c-adf7-e58da3f91888

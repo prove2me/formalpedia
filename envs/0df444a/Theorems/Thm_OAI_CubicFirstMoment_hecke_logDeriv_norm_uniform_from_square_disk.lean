@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_hecke_logDeriv_norm_uniform_from_square_disk
 -- name    : OAI.CubicFirstMoment.hecke_logDeriv_norm_uniform_from_square_disk
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:55:03.19018+00:00
 -- url     : https://prove2.me/theorems/ee2b8289-1d31-421c-bf43-b999f3bfe83a

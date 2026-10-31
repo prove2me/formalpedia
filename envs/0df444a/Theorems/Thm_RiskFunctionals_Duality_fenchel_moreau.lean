@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Duality_fenchel_moreau
 -- name    : RiskFunctionals.Duality.fenchel_moreau
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:50:59.971163+00:00
 -- url     : https://prove2.me/theorems/6457c9be-7c3e-4fff-b376-57bb2fb2e8c9

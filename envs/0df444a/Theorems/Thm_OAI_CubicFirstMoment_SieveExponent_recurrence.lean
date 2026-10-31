@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_SieveExponent_recurrence
 -- name    : OAI.CubicFirstMoment.SieveExponent.recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:38:39.911865+00:00
 -- url     : https://prove2.me/theorems/b0c30d97-0a35-4e20-9823-09ee5b63e355

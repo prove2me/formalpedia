@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLearnCB_UCB1CL_eq_4
 -- name    : CrossLearnCB.UCB1CL.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:23:15.337273+00:00
 -- url     : https://prove2.me/theorems/0e001622-6a5d-4732-9ae1-6d2222512cb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Conditional_fenchel_step
 -- name    : RiskFunctionals.Conditional.fenchel_step
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:41.429724+00:00
 -- url     : https://prove2.me/theorems/0faa264c-aa74-40e5-90cc-9cf2865655c9

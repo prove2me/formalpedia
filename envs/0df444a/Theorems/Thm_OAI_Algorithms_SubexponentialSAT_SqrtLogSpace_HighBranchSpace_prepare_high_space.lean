@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HighBranchSpace_prepare_high_space
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighBranchSpace.prepare_high_space
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:37:56.275715+00:00
 -- url     : https://prove2.me/theorems/41c3101d-fdd1-4730-9569-b2d2ffe6b3f1

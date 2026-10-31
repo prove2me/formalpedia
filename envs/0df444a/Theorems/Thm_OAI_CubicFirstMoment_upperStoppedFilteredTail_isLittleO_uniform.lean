@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_upperStoppedFilteredTail_isLittleO_uniform
 -- name    : OAI.CubicFirstMoment.upperStoppedFilteredTail_isLittleO_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:47:58.420407+00:00
 -- url     : https://prove2.me/theorems/000e6645-8a53-4e02-9063-4af18035d1e8

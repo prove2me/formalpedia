@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalDRO_Lagrange_proof_thm2_minimax
 -- name    : MarginalDRO.Lagrange.proof_thm2_minimax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:32.923372+00:00
 -- url     : https://prove2.me/theorems/baa4088e-9476-4cd0-aba8-d76017b162ee

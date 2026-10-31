@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_cubicThetaScalarRankinKernel_integral_limit
 -- name    : OAI.CubicFirstMoment.cubicThetaScalarRankinKernel_integral_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:39:21.549525+00:00
 -- url     : https://prove2.me/theorems/504cb861-934c-4549-b61d-e52ff03d1fa5

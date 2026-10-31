@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_QueryNodeFinish_command_eval
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryNodeFinish.command_eval
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:18:21.762692+00:00
 -- url     : https://prove2.me/theorems/08b590a6-e19f-49d3-932b-67fbd7ffdca7

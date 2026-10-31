@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_semiprime_block_log_saving_actual
 -- name    : OAI.CubicFirstMoment.semiprime_block_log_saving_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:45:27.381123+00:00
 -- url     : https://prove2.me/theorems/0c599667-e82a-4fbe-b854-0de521ae8d24

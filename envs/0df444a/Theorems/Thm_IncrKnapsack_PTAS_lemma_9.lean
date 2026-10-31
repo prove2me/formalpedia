@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncrKnapsack_PTAS_lemma_9
 -- name    : IncrKnapsack.PTAS.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:26.208948+00:00
 -- url     : https://prove2.me/theorems/073628ee-0809-44e9-ab22-8e762d506ffa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_SparseCodeSearch_graph_search_runs
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.SparseCodeSearch.graph_search_runs
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:23:10.317304+00:00
 -- url     : https://prove2.me/theorems/90238346-082a-43cf-8427-7a283f569425

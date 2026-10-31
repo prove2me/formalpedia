@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatch_InfinitePatience_eq_4
 -- name    : OfflineStochMatch.InfinitePatience.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:56.693442+00:00
 -- url     : https://prove2.me/theorems/07e6d9e5-9313-4a11-8c34-8def3fc73d14

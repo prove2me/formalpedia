@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_noncube_poisson_total_saving
 -- name    : OAI.CubicFirstMoment.noncube_poisson_total_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:27:12.304901+00:00
 -- url     : https://prove2.me/theorems/0e2ecde2-795e-448b-ae7f-f61ee1d63a41

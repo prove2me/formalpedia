@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_data__p2m_a9372b74_2333_4a1d_b694_ab95253c7875_a2
 -- name    : WilliamsonShmoys.planar_drawing_face_data__p2m_a9372b74_2333_4a1d_b694_ab95253c7875_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T19:52:20.596006+00:00
 -- url     : https://prove2.me/theorems/997243ae-8756-4ede-bc08-017e56f3a3d3

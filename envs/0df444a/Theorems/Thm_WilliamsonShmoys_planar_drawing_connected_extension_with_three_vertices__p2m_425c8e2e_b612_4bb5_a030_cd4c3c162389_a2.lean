@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_extension_with_three_vertices__p2m_425c8e2e_b612_4bb5_a030_cd4c3c162389_a2
 -- name    : WilliamsonShmoys.planar_drawing_connected_extension_with_three_vertices__p2m_425c8e2e_b612_4bb5_a030_cd4c3c162389_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:54:22.717025+00:00
 -- url     : https://prove2.me/theorems/50dbeb3a-1765-4569-965c-952b7ed019cf

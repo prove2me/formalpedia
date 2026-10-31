@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DriftLinBandit_BOB_lemma_1
 -- name    : DriftLinBandit.BOB.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:33:46.00664+00:00
 -- url     : https://prove2.me/theorems/6e1f088c-7aae-4825-971e-2f713718dd5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HashGreedyRun_staged_boundary_attempt
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HashGreedyRun.staged_boundary_attempt
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:12:14.764744+00:00
 -- url     : https://prove2.me/theorems/4e5e9ff8-05b2-45a4-b293-4a690bdecade

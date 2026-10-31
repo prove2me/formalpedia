@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_strict_supergraph_of_not_connected__p2m_bc735298_99fb_476e_aa8d_1e3af7f2e774_a1
 -- name    : WilliamsonShmoys.exists_planar_strict_supergraph_of_not_connected__p2m_bc735298_99fb_476e_aa8d_1e3af7f2e774_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:35:26.827915+00:00
 -- url     : https://prove2.me/theorems/0f9033a6-abd0-4489-9b8d-438547662195

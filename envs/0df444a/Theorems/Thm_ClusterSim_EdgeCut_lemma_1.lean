@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClusterSim_EdgeCut_lemma_1
 -- name    : ClusterSim.EdgeCut.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:53:45.998867+00:00
 -- url     : https://prove2.me/theorems/dbff6601-9f24-4f01-9686-01673be0f673

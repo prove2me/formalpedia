@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SwitchCostGames_Stationary_value_exists
 -- name    : SwitchCostGames.Stationary.value_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:23:22.279899+00:00
 -- url     : https://prove2.me/theorems/81209e83-fe05-486e-9473-e4ebef69fddd

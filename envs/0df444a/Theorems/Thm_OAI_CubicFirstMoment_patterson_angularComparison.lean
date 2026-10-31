@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_patterson_angularComparison
 -- name    : OAI.CubicFirstMoment.patterson_angularComparison
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:31.701088+00:00
 -- url     : https://prove2.me/theorems/ec8cc6e2-14c4-4aad-b3e7-1381a27d6424

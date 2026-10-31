@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_angular_stopped_corrected_dispersion_log_saving_actual
 -- name    : OAI.CubicFirstMoment.angular_stopped_corrected_dispersion_log_saving_actual
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T03:55:23.680648+00:00
 -- url     : https://prove2.me/theorems/f80f2b9e-170d-41d8-96cb-244c8efb8b82

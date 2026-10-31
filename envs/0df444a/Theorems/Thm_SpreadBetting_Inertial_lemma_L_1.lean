@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpreadBetting_Inertial_lemma_L_1
 -- name    : SpreadBetting.Inertial.lemma_L_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:31:38.323986+00:00
 -- url     : https://prove2.me/theorems/5e2fa1f7-67d0-45df-a501-cabe0beb9724

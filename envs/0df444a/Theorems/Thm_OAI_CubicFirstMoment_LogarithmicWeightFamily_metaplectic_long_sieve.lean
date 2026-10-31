@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_LogarithmicWeightFamily_metaplectic_long_sieve
 -- name    : OAI.CubicFirstMoment.LogarithmicWeightFamily.metaplectic_long_sieve
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:11:33.923275+00:00
 -- url     : https://prove2.me/theorems/cd7014ef-097a-42ca-b0af-7ad3a52787f8

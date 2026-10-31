@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLogSpace_HeadEvaluationProgram_StagedGate_bodyBudget_uniform
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HeadEvaluationProgram.StagedGate.bodyBudget_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T00:47:03.796348+00:00
 -- url     : https://prove2.me/theorems/f423ae98-4a59-4dd9-95e4-39676b736ff6

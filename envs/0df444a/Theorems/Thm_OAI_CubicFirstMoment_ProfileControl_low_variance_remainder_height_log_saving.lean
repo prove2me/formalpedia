@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicFirstMoment_ProfileControl_low_variance_remainder_height_log_saving
 -- name    : OAI.CubicFirstMoment.ProfileControl.low_variance_remainder_height_log_saving
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T04:11:53.067596+00:00
 -- url     : https://prove2.me/theorems/ecbfb706-95e2-4265-92fa-098389e2e3c2

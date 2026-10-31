@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohriFoML_OnlineToBatch_online_to_batch_averaged_hypothesis
 -- name    : MohriFoML.OnlineToBatch.online_to_batch_averaged_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:10:00.750994+00:00
 -- url     : https://prove2.me/theorems/dc511707-f2b4-463b-8795-12fc3d2ee865

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StartupLaunch_Strategy_unconstrained_eq_established
 -- name    : StartupLaunch.Strategy.unconstrained_eq_established
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:15:02.059764+00:00
 -- url     : https://prove2.me/theorems/6af72e0a-83cc-41b6-9f20-390337d35999

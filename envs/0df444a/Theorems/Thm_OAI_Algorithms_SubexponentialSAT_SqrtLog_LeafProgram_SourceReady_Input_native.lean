@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafProgram_SourceReady_Input_native
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafProgram.SourceReady.Input.native
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T02:23:16.168037+00:00
 -- url     : https://prove2.me/theorems/bed83f02-8b2e-4520-9843-6d2454c850fc

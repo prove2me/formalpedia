@@ -58325,7 +58325,7 @@
 {"parent": "MIPStarRE.QPBT.DistanceCalculus.joint_marginal_product", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c319057_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Basic_AxisParallelLine", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}
-{"parent": "PeskirShiryaev.General.sufficient_majorant", "child": "PeskirShiryaev_General_StoppingProblem", "via": ["statement"]}
+{"parent": "PeskirShiryaev.General.sufficient_majorant", "child": "PeskirShiryaev_General_StoppingProblem", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1472_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Commutativity.fullSlice_selfConsistency_fst_bound", "child": "LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Commutativity.fullSlice_selfConsistency_fst_bound", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
@@ -66952,7 +66952,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.MakingMeasurementsProjective.sqrt_orthonormalizationError_eq", "child": "LIDT_MIPStarRE_LDT_Basic_Distribution", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p002_b036", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c315087_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_extension__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a4__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_extension__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a4__p2m_ef21e4d0_72a9_49ba_9f8c_1146d558edeb_a5", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.esscher_ae_bounded_stop_stoppedHistory_density_eq", "child": "AvramDividend.Classical.esscher_bounded_stop_stoppedHistory_density_eq", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p013_b028", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p024_b000", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}

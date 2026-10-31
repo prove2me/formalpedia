@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Algorithms_SubexponentialSAT_SqrtLog_LeafQueryFrontend_numericStage_eval_bounded
 -- name    : OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafQueryFrontend.numericStage_eval_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T01:52:00.507341+00:00
 -- url     : https://prove2.me/theorems/f72e5d62-8393-47ef-964c-bafaaa52ae6c

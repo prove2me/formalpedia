@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncrKnapsack_PTAS_corollary_1
 -- name    : IncrKnapsack.PTAS.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:13.36366+00:00
 -- url     : https://prove2.me/theorems/ee11a5b1-ddb5-42f0-b965-9f1126813bda
