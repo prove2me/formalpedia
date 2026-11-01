@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandConc_Chromatic_theorem_9_1
 -- name    : TalagrandConc.Chromatic.theorem_9_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:43:50.079985+00:00
 -- url     : https://prove2.me/theorems/0b0fc6ea-a22c-4656-b88c-b7c134c5b876

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeferredInspection_SingleAgent_eq_15_unique_root
 -- name    : DeferredInspection.SingleAgent.eq_15_unique_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:22.337596+00:00
 -- url     : https://prove2.me/theorems/c9448f3d-9e78-4078-8524-7f5a26cba452

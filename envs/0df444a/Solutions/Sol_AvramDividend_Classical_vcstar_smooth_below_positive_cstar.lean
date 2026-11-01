@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.vcstar_smooth_below_positive_cstar
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-07T20:58:22.885205+00:00
 -- url     : https://prove2.me/submissions/e8c093dc-ded5-4803-9c2e-55d0e3229cf7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

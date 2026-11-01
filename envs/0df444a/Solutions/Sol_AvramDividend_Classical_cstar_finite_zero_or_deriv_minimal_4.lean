@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.cstar_finite_zero_or_deriv_minimal
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T13:48:59.515592+00:00
 -- url     : https://prove2.me/submissions/e86a95d0-a621-468b-b6c4-46a3de039acd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Deriv
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

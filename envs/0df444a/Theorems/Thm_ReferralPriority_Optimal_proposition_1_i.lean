@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferralPriority_Optimal_proposition_1_i
 -- name    : ReferralPriority.Optimal.proposition_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:03.817832+00:00
 -- url     : https://prove2.me/theorems/621f1f6f-50ad-4d3d-b731-278bf901c230

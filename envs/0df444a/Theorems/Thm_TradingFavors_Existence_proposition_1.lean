@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingFavors_Existence_proposition_1
 -- name    : TradingFavors.Existence.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:15.244635+00:00
 -- url     : https://prove2.me/theorems/d0cc4c9d-0b78-4c93-990e-8920777f8774

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedEntropyGames_ConvRate_theorem_6
 -- name    : BoundedEntropyGames.ConvRate.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:38.93352+00:00
 -- url     : https://prove2.me/theorems/e76a5675-0bb5-4410-8c52-ea74484b2230

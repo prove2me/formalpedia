@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxEntTSP_Main_node_split
 -- name    : MaxEntTSP.Main.node_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:29:06.824285+00:00
 -- url     : https://prove2.me/theorems/c45bf99f-ec89-43b5-b466-1a2f33a2ff27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsConservative_measurable_feynmanKac_joint
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsConservative.measurable_feynmanKac_joint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:31:08.792819+00:00
 -- url     : https://prove2.me/theorems/5143bab1-05de-4bd2-ae5d-c7202fa0acc1

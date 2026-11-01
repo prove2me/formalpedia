@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncompleteProc_English_offer_optimal
 -- name    : IncompleteProc.English.offer_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:07:34.327226+00:00
 -- url     : https://prove2.me/theorems/6c042830-a2d0-4847-b7a7-c57d36c14c53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvestCommonGood_MixedTSSPE_theorem_3_part_i
 -- name    : InvestCommonGood.MixedTSSPE.theorem_3_part_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:53.409631+00:00
 -- url     : https://prove2.me/theorems/da620c9b-c903-4c25-9999-ea802baa1e0d

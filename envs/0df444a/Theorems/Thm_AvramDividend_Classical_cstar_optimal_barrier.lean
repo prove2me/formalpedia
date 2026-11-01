@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_cstar_optimal_barrier
 -- name    : AvramDividend.Classical.cstar_optimal_barrier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:58:02.419039+00:00
 -- url     : https://prove2.me/theorems/00fcfc56-8ba9-4464-b9ee-c1b9e3af1ecd

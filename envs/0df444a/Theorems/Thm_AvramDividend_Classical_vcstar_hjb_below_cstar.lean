@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_hjb_below_cstar
 -- name    : AvramDividend.Classical.vcstar_hjb_below_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T18:03:19.137811+00:00
 -- url     : https://prove2.me/theorems/40aa4963-36df-4c37-9d31-1a99d28551ac

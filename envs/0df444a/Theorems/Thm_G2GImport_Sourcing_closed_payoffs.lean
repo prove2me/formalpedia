@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_G2GImport_Sourcing_closed_payoffs
 -- name    : G2GImport.Sourcing.closed_payoffs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:13:33.646891+00:00
 -- url     : https://prove2.me/theorems/4f3437e7-5851-427b-9690-2a9d8a24d4d3

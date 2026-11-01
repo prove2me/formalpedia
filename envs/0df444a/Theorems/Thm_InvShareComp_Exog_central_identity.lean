@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvShareComp_Exog_central_identity
 -- name    : InvShareComp.Exog.central_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:07:12.1577+00:00
 -- url     : https://prove2.me/theorems/f9c971d5-b066-41c8-aa6a-e353ceb66004

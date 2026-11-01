@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaled_scaleFunction_q_harmonic_below_cstar
 -- name    : AvramDividend.Classical.scaled_scaleFunction_q_harmonic_below_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T23:09:49.983992+00:00
 -- url     : https://prove2.me/theorems/c8630e24-eb5a-4abc-884d-004cd0e50994

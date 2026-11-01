@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesTrust_Sharing_static_benchmark
 -- name    : SalesTrust.Sharing.static_benchmark
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:12.166225+00:00
 -- url     : https://prove2.me/theorems/8290f8ac-a661-4f8e-9176-c5088ca53245

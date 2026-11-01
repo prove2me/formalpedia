@@ -42457,7 +42457,7 @@
 {"parent": "AssocRealizations.TypesMeet.bullet_separates", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
 {"parent": "AssocRealizations.TypesMeet.iso_induces_bijection", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
 {"parent": "AssocRealizations.TypesMeet.lemma_2_2", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
-{"parent": "AssocRealizations.TypesMeet.proposition_4_4", "child": "AssocRealizations_TypesMeet_Setting", "via": ["statement"]}
+{"parent": "AssocRealizations.TypesMeet.proposition_4_4", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
 {"parent": "AssocRealizations.TypesMeet.proposition_4_7", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
 {"parent": "AssocRealizations.TypesMeet.proposition_5_5", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
 {"parent": "AssocRealizations.TypesMeet.theorem_6_1", "child": "AssocRealizations_TypesMeet_Setting", "via": ["statement"]}
@@ -74864,7 +74864,7 @@
 {"parent": "AvramDividend.Classical.vcstar_generator_eq_zero_at_positive_cstar", "child": "AvramDividend.Classical.generator_eq_at_barrier_of_weighted_jet", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.vcstar_generator_eq_zero_at_positive_cstar", "child": "AvramDividend.Classical.scaledW_generator_harmonic_at_positive_cstar", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.vcstar_generator_eq_zero_at_positive_cstar", "child": "AvramDividend.Classical.vcstar_scaledW_matched_weighted_jet_at_cstar", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.vcstar_generator_eq_zero_at_positive_cstar", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.vcstar_generator_eq_zero_at_positive_cstar", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_generator_eq_zero_at_positive_cstar", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_generator_eq_zero_at_positive_cstar", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_global_C1_bv_positive_barrier", "child": "AvramDividend.Classical.contDiffOn_one_of_differentiable_continuous_deriv_Ioi", "via": ["solution"]}
@@ -77111,12 +77111,12 @@
 {"parent": "BellmanDP.Inventory.renewal_equation_exists_unique", "child": "BellmanDP_Inventory_Model", "via": ["statement"]}
 {"parent": "BellmanDP.Inventory.stock_level_root_unique", "child": "BellmanDP_Inventory_Model", "via": ["solution", "statement"]}
 {"parent": "BellmanDP.Markovian.continuous_exists_unique", "child": "BellmanDP_Markovian_Continuous", "via": ["solution", "statement"]}
-{"parent": "BellmanDP.Markovian.discrete_growth_asymptotics", "child": "BellmanDP_Markovian_Discrete", "via": ["statement"]}
+{"parent": "BellmanDP.Markovian.discrete_growth_asymptotics", "child": "BellmanDP_Markovian_Discrete", "via": ["solution", "statement"]}
 {"parent": "BellmanDP.Markovian.minmax_exists_unique", "child": "BellmanDP_Markovian_Continuous", "via": ["solution", "statement"]}
 {"parent": "BellmanDP.Markovian.perron_eigen_exists_unique", "child": "BellmanDP_Markovian_Discrete", "via": ["solution", "statement"]}
 {"parent": "BellmanDP.Markovian.scalar_game_limit", "child": "BellmanDP_Markovian_ScalarGame", "via": ["solution", "statement"]}
 {"parent": "BellmanDP.Variational.cont_value_le_liminf", "child": "BellmanDP_Variational_Approximation", "via": ["statement"]}
-{"parent": "BellmanDP.Variational.discrete_approximation_converges", "child": "BellmanDP_Variational_Approximation", "via": ["statement"]}
+{"parent": "BellmanDP.Variational.discrete_approximation_converges", "child": "BellmanDP_Variational_Approximation", "via": ["solution", "statement"]}
 {"parent": "BellmanDP.Variational.discrete_example_structure", "child": "BellmanDP_Variational_DiscreteExample", "via": ["statement"]}
 {"parent": "BellmanDP.Variational.discrete_value_upper_bound", "child": "BellmanDP_Variational_Approximation", "via": ["statement"]}
 {"parent": "BellmanDP.Variational.euler_error_lemma", "child": "BellmanDP_Variational_Approximation", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PayAsBid_SoftReserve_lemma_3
 -- name    : PayAsBid.SoftReserve.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:01:56.000016+00:00
 -- url     : https://prove2.me/theorems/ca83e0b7-15eb-45bc-a422-22ae27d478b8

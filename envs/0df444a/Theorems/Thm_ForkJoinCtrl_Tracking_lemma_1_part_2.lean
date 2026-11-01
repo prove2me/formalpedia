@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForkJoinCtrl_Tracking_lemma_1_part_2
 -- name    : ForkJoinCtrl.Tracking.lemma_1_part_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:14:29.675702+00:00
 -- url     : https://prove2.me/theorems/29e89e35-1005-48a9-b24a-21d76536f689

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.scaleDeriv_inf_attained
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-09-29T21:32:56.405984+00:00
 -- url     : https://prove2.me/submissions/7726f44a-4c0a-43c7-a331-600769b46b64
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

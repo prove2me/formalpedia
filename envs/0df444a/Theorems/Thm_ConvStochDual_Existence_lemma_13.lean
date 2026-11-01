@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvStochDual_Existence_lemma_13
 -- name    : ConvStochDual.Existence.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:30:56.206367+00:00
 -- url     : https://prove2.me/theorems/97713a29-f259-4852-8d94-3f7c378a73f4

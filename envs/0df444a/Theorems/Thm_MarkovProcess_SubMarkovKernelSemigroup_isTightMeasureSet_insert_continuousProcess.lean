@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_isTightMeasureSet_insert_continuousProcess
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.isTightMeasureSet_insert_continuousProcess
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:32:54.923794+00:00
 -- url     : https://prove2.me/theorems/74f00aa3-d45b-41e9-9b6a-d1e267d2e4cf

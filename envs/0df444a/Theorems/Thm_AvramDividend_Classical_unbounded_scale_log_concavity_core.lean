@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_scale_log_concavity_core
 -- name    : AvramDividend.Classical.unbounded_scale_log_concavity_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T07:05:30.108008+00:00
 -- url     : https://prove2.me/theorems/bb6ee1d8-2f9f-4fad-b81f-f24bdb3081fd

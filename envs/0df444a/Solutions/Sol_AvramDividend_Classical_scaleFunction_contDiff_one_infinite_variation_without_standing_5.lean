@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for AvramDividend.Classical.scaleFunction_contDiff_one_infinite_variation_without_standing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T11:28:42.199171+00:00
 -- url     : https://prove2.me/submissions/693731da-757b-48e3-b2b1-391c6f131861
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Defs
 import Mathlib.MeasureTheory.Measure.Lebesgue.Basic

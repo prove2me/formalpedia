@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OverflowBinPacking_IID_theorem_4_4
 -- name    : OverflowBinPacking.IID.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:52.994808+00:00
 -- url     : https://prove2.me/theorems/823ed63e-01d1-4ff7-a7ea-827cbeb2ca90

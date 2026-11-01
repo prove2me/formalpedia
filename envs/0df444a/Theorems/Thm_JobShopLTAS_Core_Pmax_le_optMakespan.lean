@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JobShopLTAS_Core_Pmax_le_optMakespan
 -- name    : JobShopLTAS.Core.Pmax_le_optMakespan
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:29:35.081981+00:00
 -- url     : https://prove2.me/theorems/aafd22f7-33ad-415a-a299-b99d8a775629

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_Isoperimetry_lipschitz_concentration_sphere
 -- name    : HighDimProb.Isoperimetry.lipschitz_concentration_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-18T05:40:04.892272+00:00
 -- url     : https://prove2.me/theorems/bd8a2913-29c6-468b-a903-c4ccb39d8faa

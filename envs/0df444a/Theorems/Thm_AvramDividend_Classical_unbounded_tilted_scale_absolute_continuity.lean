@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_tilted_scale_absolute_continuity
 -- name    : AvramDividend.Classical.unbounded_tilted_scale_absolute_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T22:38:45.842882+00:00
 -- url     : https://prove2.me/theorems/0883e459-3837-4637-80a5-754b764aebb6

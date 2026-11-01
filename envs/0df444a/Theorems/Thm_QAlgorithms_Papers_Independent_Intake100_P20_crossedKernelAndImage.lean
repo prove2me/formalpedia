@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_crossedKernelAndImage
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.crossedKernelAndImage
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:33:53.069285+00:00
 -- url     : https://prove2.me/theorems/ff198670-4981-49cb-9b0e-6ae71e9ed70d

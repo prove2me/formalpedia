@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxEntTSP_Main_max_entropy_exists
 -- name    : MaxEntTSP.Main.max_entropy_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:29:19.491931+00:00
 -- url     : https://prove2.me/theorems/56f6424a-ab83-43c9-a1fc-54bb3158868c

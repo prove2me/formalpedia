@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.vcstar_scaledW_boundary_smooth_fit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-18T18:07:30.531487+00:00
 -- url     : https://prove2.me/submissions/e8ccabfa-22d0-435b-b75e-8379aca0eacf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

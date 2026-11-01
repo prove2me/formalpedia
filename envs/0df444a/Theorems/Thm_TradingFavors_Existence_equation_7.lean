@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingFavors_Existence_equation_7
 -- name    : TradingFavors.Existence.equation_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:10.854541+00:00
 -- url     : https://prove2.me/theorems/325e0285-ad30-4d63-9d44-28494d5dec69

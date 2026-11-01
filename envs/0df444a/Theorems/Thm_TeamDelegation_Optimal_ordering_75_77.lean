@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDelegation_Optimal_ordering_75_77
 -- name    : TeamDelegation.Optimal.ordering_75_77
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:20.530856+00:00
 -- url     : https://prove2.me/theorems/e546ef03-dd24-4e1d-b317-e234cda80fa2

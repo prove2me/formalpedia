@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_cue_even_moment
 -- name    : KeatingSnaith.cue_even_moment
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-15T12:52:32.790142+00:00
 -- url     : https://prove2.me/theorems/7ff6e8d5-afb2-4bb7-acd8-de15300b8ab2

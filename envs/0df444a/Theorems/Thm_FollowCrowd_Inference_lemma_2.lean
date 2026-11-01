@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FollowCrowd_Inference_lemma_2
 -- name    : FollowCrowd.Inference.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:12.811511+00:00
 -- url     : https://prove2.me/theorems/a9c4f3dc-5da0-43da-a875-1148f6319a55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_G2GImport_Sourcing_ad_hoc_production
 -- name    : G2GImport.Sourcing.ad_hoc_production
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:48.209389+00:00
 -- url     : https://prove2.me/theorems/5b4d2ea3-b336-47f5-9b2f-3c6050df1e7d

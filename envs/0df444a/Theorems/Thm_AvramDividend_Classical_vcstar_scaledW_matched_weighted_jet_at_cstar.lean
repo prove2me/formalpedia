@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_scaledW_matched_weighted_jet_at_cstar
 -- name    : AvramDividend.Classical.vcstar_scaledW_matched_weighted_jet_at_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T23:28:52.244177+00:00
 -- url     : https://prove2.me/theorems/22df0d92-75b1-47d8-928b-f82b6557a58d

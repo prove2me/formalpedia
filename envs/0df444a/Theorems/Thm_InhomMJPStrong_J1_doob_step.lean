@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InhomMJPStrong_J1_doob_step
 -- name    : InhomMJPStrong.J1.doob_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:47.748988+00:00
 -- url     : https://prove2.me/theorems/dd2b1906-ac37-40ef-a91b-eee14cd1d160

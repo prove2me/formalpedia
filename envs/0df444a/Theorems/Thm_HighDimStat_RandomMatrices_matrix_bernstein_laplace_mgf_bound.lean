@@ -8,6 +8,8 @@
 --   Matrix Bernstein Laplace transform MGF tail bound
 -- statement:
 --   For independent zero-mean symmetric random matrices $Q_1, \dots, Q_n$ satisfying the matrix Bernstein moment condition with parameter $b > 0$, applying the matrix Laplace transform method and Lieb's theorem for every $t \in (0, 1/b)$ bounds the spectral-norm tail probability by $2 \operatorname{rank}(\sum_{i=1}^n \operatorname{var}(Q_i)) \exp(-n t \delta + \frac{t^2}{2(1 - tb)} \|\sum_{i=1}^n \operatorname{var}(Q_i)\|_2)$.
+--
+--   **Warning (statement appears false).** The Bernstein condition here is one-sided (upper Loewner bounds on odd moments) while the conclusion bounds the two-sided operator norm; a skewed scalar two-point distribution (p = 1/40, M = 3.46, b = 1) satisfies the condition but violates the bound for n ≳ 5·10^5 (fixed-t version: n ≳ 5·10^4). See the Mission V discussion for numbers and the suggested two-sided repair.
 -- source:
 --   Wainwright, High-Dimensional Statistics (2019), Proof of Theorem 6.17, pp. 176-177
 

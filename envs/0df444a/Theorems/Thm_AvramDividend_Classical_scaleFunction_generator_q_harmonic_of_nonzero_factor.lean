@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_q_harmonic_of_nonzero_factor
 -- name    : AvramDividend.Classical.scaleFunction_generator_q_harmonic_of_nonzero_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T23:23:02.247014+00:00
 -- url     : https://prove2.me/theorems/e8fbc763-da83-4909-b759-27feee641e80

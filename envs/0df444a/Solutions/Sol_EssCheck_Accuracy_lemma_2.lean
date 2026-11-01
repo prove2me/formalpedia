@@ -1,0 +1,179 @@
+-- Prove2me | solution 1 for EssCheck.Accuracy.lemma_2
+-- status  : ACCEPTED   (prove)
+-- author  : @tianyipeng
+-- created : 2026-11-01T02:54:59.308629+00:00
+-- url     : https://prove2.me/submissions/135dfacd-1f0d-469b-af43-1d8ef43122f9
+
+import Mathlib
+import Definitions.Def_EssCheck_Accuracy_Model
+import Theorems.Thm_EssCheck_Accuracy_regime_condition
+import Theorems.Thm_EssCheck_Accuracy_revenues_foc
+
+open EssCheck.Accuracy Filter Topology
+
+namespace EssCheckL2Aux
+
+theorem split_sum {n : ℕ} (S : Finset (Fin n)) (f g : Fin n → ℝ) :
+    (∑ i ∈ S, f i) + (∑ i ∈ Finset.univ \ S, g i) =
+      ∑ i, if i ∈ S then f i else g i := by
+  rw [Finset.sum_ite, Finset.filter_mem_eq_inter, Finset.univ_inter]
+  congr 1
+  apply Finset.sum_congr _ (fun _ _ => rfl)
+  ext i; simp
+
+/-- Two index sets that agree on all states where `f` or `g` can be nonzero give the same
+split sum. -/
+theorem split_sum_congr {n : ℕ} (P : Fin n → Prop) (S T : Finset (Fin n))
+    (hST : ∀ i, P i → (i ∈ S ↔ i ∈ T)) (f g : Fin n → ℝ)
+    (hf : ∀ i, ¬ P i → f i = 0) (hg : ∀ i, ¬ P i → g i = 0) :
+    (∑ i ∈ S, f i) + (∑ i ∈ Finset.univ \ S, g i) =
+      (∑ i ∈ T, f i) + (∑ i ∈ Finset.univ \ T, g i) := by
+  rw [split_sum, split_sum]
+  apply Finset.sum_congr rfl
+  intro i _
+  by_cases hP : P i
+  · have := hST i hP
+    by_cases hS : i ∈ S
+    · have hT : i ∈ T := this.1 hS
+      simp [hS, hT]
+    · have hT : i ∉ T := fun h => hS (this.2 h)
+      simp [hS, hT]
+  · rw [hf i hP, hg i hP]; simp
+
+/-- Local constancy of the hybrid set on states of positive probability. -/
+theorem hybrid_eventually {n : ℕ} (M : Model n) (hS : M.Standing)
+    (β0 : ℝ) (hβ0 : 0 ≤ β0) (hβ1 : β0 < 1) (xs : ℝ → ℝ)
+    (heq : ∀ᶠ β in nhdsWithin β0 (Set.Ici β0), IsEqEffort M β (xs β))
+    (heq0 : IsEqEffort M β0 (xs β0))
+    (hcont : ContinuousWithinAt xs (Set.Ici β0) β0)
+    (hstrict : ∀ i, (0 < M.pH i ∨ 0 < M.p0 i) → ¬ Eq4 M β0 (xs β0) i) :
+    ∀ᶠ β in nhdsWithin β0 (Set.Ici β0), ∀ i, (0 < M.pH i ∨ 0 < M.p0 i) →
+      (i ∈ hybridSet M β (xs β) ↔ i ∈ hybridSet M β0 (xs β0)) := by
+  have hlt : ∀ᶠ β in nhdsWithin β0 (Set.Ici β0), β < 1 :=
+    eventually_nhdsWithin_of_eventually_nhds (Iio_mem_nhds hβ1)
+  have hge : ∀ᶠ β in nhdsWithin β0 (Set.Ici β0), β0 ≤ β := self_mem_nhdsWithin
+  rw [Filter.eventually_all]
+  intro i
+  by_cases hP : 0 < M.pH i ∨ 0 < M.p0 i
+  swap
+  · exact Filter.Eventually.of_forall (fun β h => absurd h hP)
+  let F : ℝ → ℝ := fun β => (1 - β) * (1 - xs β) * M.p0 i * (M.αbar * M.v i - M.l i) -
+    xs β * M.pH i * M.l i
+  have hFc : ContinuousWithinAt F (Set.Ici β0) β0 := by
+    have h1 : ContinuousWithinAt (fun β : ℝ => β) (Set.Ici β0) β0 := continuousWithinAt_id
+    exact ((((continuousWithinAt_const.sub h1).mul (continuousWithinAt_const.sub hcont)).mul
+      continuousWithinAt_const).mul continuousWithinAt_const).sub
+      ((hcont.mul continuousWithinAt_const).mul continuousWithinAt_const)
+  have hF0 : F β0 ≠ 0 := by
+    intro h; apply hstrict i hP; unfold Eq4; simp only [F] at h; linarith
+  have key : ∀ β, 0 ≤ β → β ≤ 1 → IsEqEffort M β (xs β) →
+      (i ∈ hybridSet M β (xs β) ↔ 0 ≤ F β) := by
+    intro β h0 h1 he
+    have := (regime_condition M hS β (xs β) h0 h1 he.1 he.2.1 i).1
+    simp only [hybridSet, Finset.mem_filter, Finset.mem_univ, true_and, F]
+    rw [this]; constructor <;> intro h <;> linarith
+  have hb0 := key β0 hβ0 hβ1.le heq0
+  rcases lt_or_gt_of_ne hF0 with hneg | hpos
+  · have hev : ∀ᶠ β in nhdsWithin β0 (Set.Ici β0), F β < 0 :=
+      hFc.eventually (gt_mem_nhds hneg)
+    filter_upwards [hev, heq, hlt, hge] with β hF he hl hg _
+    rw [key β (le_trans hβ0 hg) hl.le he, hb0]
+    constructor <;> intro h <;> linarith
+  · have hev : ∀ᶠ β in nhdsWithin β0 (Set.Ici β0), 0 < F β :=
+      hFc.eventually (lt_mem_nhds hpos)
+    filter_upwards [hev, heq, hlt, hge] with β hF he hl hg _
+    rw [key β (le_trans hβ0 hg) hl.le he, hb0]
+    constructor <;> intro h <;> linarith
+
+end EssCheckL2Aux
+
+open EssCheckL2Aux in
+theorem solution {n : ℕ} (M : Model n) (hS : M.Standing)
+    (β0 : ℝ) (hβ0 : 0 ≤ β0) (hβ1 : β0 < 1) (xs : ℝ → ℝ)
+    (heq : ∀ᶠ β in nhdsWithin β0 (Set.Ici β0), IsEqEffort M β (xs β))
+    (heq0 : IsEqEffort M β0 (xs β0))
+    (hcont : ContinuousWithinAt xs (Set.Ici β0) β0)
+    (hstrict : ∀ i, (0 < M.pH i ∨ 0 < M.p0 i) → ¬ Eq4 M β0 (xs β0) i)
+    (hc2 : 0 < iteratedDeriv 2 M.c (xs β0)) :
+    let H := hybridSet M β0 (xs β0)
+    let D := ((∑ i ∈ H, M.p0 i * M.l i) +
+      (∑ i ∈ Finset.univ \ H, M.p0 i * (M.αbar * M.v i))) /
+        iteratedDeriv 2 M.c (xs β0)
+    HasDerivWithinAt xs D (Set.Ici β0) β0 ∧ 0 < D := by
+  intro H D
+  have hS' := hS
+  obtain ⟨hpH, -, hp0, hα0, -, hl, hlv, -, -, hcd, -⟩ := hS'
+  set x0 := xs β0 with hx0
+  set K := (∑ i ∈ H, M.p0 i * M.l i) +
+      (∑ i ∈ Finset.univ \ H, M.p0 i * (M.αbar * M.v i)) with hKdef
+  set P0 := (∑ i ∈ H, M.pH i * (M.αbar * M.v i - zt M i * M.l i)) +
+      (∑ i ∈ Finset.univ \ H, M.pH i * (M.αbar * M.v i)) with hP0
+  -- positivity of K
+  have hK : 0 < K := by
+    rw [hKdef, split_sum]
+    obtain ⟨j, hj⟩ : ∃ j, 0 < M.p0 j := by
+      by_contra hcon
+      push Not at hcon
+      have : ∑ i, M.p0 i = 0 :=
+        Finset.sum_eq_zero (fun i _ => le_antisymm (hcon i) (hp0.1 i))
+      rw [hp0.2] at this; exact one_ne_zero this
+    apply Finset.sum_pos'
+    · intro i _
+      have := hp0.1 i
+      have := hl i
+      have := hlv i
+      have : 0 < M.αbar * M.v i := by linarith
+      split_ifs <;> positivity
+    · refine ⟨j, Finset.mem_univ _, ?_⟩
+      have := hl j
+      have := hlv j
+      split_ifs
+      · positivity
+      · have : 0 < M.αbar * M.v j := by linarith
+        positivity
+  -- eventual first-order condition
+  have hloc := hybrid_eventually M hS β0 hβ0 hβ1 xs heq heq0 hcont hstrict
+  have hlt : ∀ᶠ β in nhdsWithin β0 (Set.Ici β0), β < 1 :=
+    eventually_nhdsWithin_of_eventually_nhds (Iio_mem_nhds hβ1)
+  have hge : ∀ᶠ β in nhdsWithin β0 (Set.Ici β0), β0 ≤ β := self_mem_nhdsWithin
+  have hfoc : ∀ᶠ β in nhdsWithin β0 (Set.Ici β0),
+      deriv M.c (xs β) = P0 - (1 - β) * K := by
+    filter_upwards [hloc, heq, hlt, hge] with β hL he hb hg
+    rw [← he.2.2, (revenues_foc M hS β (xs β) (le_trans hβ0 hg) hb.le he.1 he.2.1).2.2]
+    unfold privateWedge
+    have hnull : ∀ i, ¬ (0 < M.pH i ∨ 0 < M.p0 i) → M.pH i = 0 ∧ M.p0 i = 0 := by
+      intro i h; push Not at h
+      exact ⟨le_antisymm h.1 (hpH.1 i), le_antisymm h.2 (hp0.1 i)⟩
+    rw [split_sum_congr _ _ H hL (fun i => M.pH i * (M.αbar * M.v i - zt M i * M.l i))
+        (fun i => M.pH i * (M.αbar * M.v i)) (fun i h => by simp [(hnull i h).1])
+        (fun i h => by simp [(hnull i h).1]),
+      split_sum_congr _ _ H hL (fun i => M.p0 i * M.l i)
+        (fun i => M.p0 i * (M.αbar * M.v i)) (fun i h => by simp [(hnull i h).2])
+        (fun i h => by simp [(hnull i h).2])]
+  -- the inverse map
+  let f : ℝ → ℝ := fun x => (deriv M.c x - P0 + K) / K
+  have hfg : ∀ᶠ β in nhdsWithin β0 (Set.Ici β0), f (xs β) = β := by
+    filter_upwards [hfoc] with β hβ
+    simp only [f]; rw [hβ]; field_simp; ring
+  -- derivative of deriv c at x0
+  have hx01 : x0 < 1 := heq0.2.1
+  have hdc : HasDerivAt (deriv M.c) (iteratedDeriv 2 M.c x0) x0 := by
+    have hopen : IsOpen (Set.Iio (1 : ℝ)) := isOpen_Iio
+    have h1 := (contDiffOn_succ_iff_deriv_of_isOpen (n := 1) hopen).1 hcd
+    have hdiff : DifferentiableAt ℝ (deriv M.c) x0 :=
+      (h1.2.2.differentiableOn (by norm_num)).differentiableAt (hopen.mem_nhds hx01)
+    have : iteratedDeriv 2 M.c x0 = deriv (deriv M.c) x0 := by
+      rw [iteratedDeriv_succ, iteratedDeriv_one]
+    rw [this]; exact hdiff.hasDerivAt
+  have hf : HasDerivAt f (iteratedDeriv 2 M.c x0 / K) x0 := by
+    have := ((hdc.sub_const P0).add_const K).div_const K
+    simpa [f] using this
+  have hne : iteratedDeriv 2 M.c x0 / K ≠ 0 := (div_pos hc2 hK).ne'
+  have hD : D = (iteratedDeriv 2 M.c x0 / K)⁻¹ := by
+    simp only [D]; rw [inv_div]
+  refine ⟨?_, div_pos hK hc2⟩
+  rw [hD]
+  have hg : Tendsto xs (𝓝[Set.Ici β0] β0) (𝓝[Set.univ] (xs β0)) := by
+    rw [nhdsWithin_univ]; exact hcont
+  exact ((hf.hasFDerivAt_equiv hne).hasFDerivWithinAt (s := Set.univ)).of_local_left_inverse
+    hg (Set.mem_Ici.2 le_rfl) hfg

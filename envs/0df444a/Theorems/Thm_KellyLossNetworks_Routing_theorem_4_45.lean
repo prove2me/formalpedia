@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_Routing_theorem_4_45
 -- name    : KellyLossNetworks.Routing.theorem_4_45
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:11:51.59028+00:00
 -- url     : https://prove2.me/theorems/fd0a4050-f644-4328-b496-f4395a4c9488

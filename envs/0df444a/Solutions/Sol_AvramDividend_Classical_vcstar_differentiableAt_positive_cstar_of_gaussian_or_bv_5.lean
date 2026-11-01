@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for AvramDividend.Classical.vcstar_differentiableAt_positive_cstar_of_gaussian_or_bv
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T10:28:28.170673+00:00
 -- url     : https://prove2.me/submissions/99354ff2-415b-4de9-86ec-934f45728b50
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.Deriv.Basic
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

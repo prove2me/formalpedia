@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KellyStochasticNetworks.LossLimits.gaussian_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-31T05:11:54.009733+00:00
 -- url     : https://prove2.me/submissions/488bcab0-3b4d-4783-99b6-0e97c5299b59
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KellyStochasticNetworks_LossLimits_Laws

@@ -1,10 +1,8 @@
 -- Prove2me | solution 10 for AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T23:01:43.517624+00:00
 -- url     : https://prove2.me/submissions/73d07e96-5d1a-415e-8244-c08957da6a28
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.SpecialFunctions.ExpDeriv
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

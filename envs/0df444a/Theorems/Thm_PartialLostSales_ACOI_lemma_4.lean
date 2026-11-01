@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PartialLostSales_ACOI_lemma_4
 -- name    : PartialLostSales.ACOI.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:39:55.039518+00:00
 -- url     : https://prove2.me/theorems/2b283efa-ed78-4f17-aaa6-1bf23651a6d9

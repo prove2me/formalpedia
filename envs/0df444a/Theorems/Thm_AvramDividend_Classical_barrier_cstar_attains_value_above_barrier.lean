@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrier_cstar_attains_value_above_barrier
 -- name    : AvramDividend.Classical.barrier_cstar_attains_value_above_barrier
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T11:31:55.031029+00:00
 -- url     : https://prove2.me/theorems/a14f4b34-5c06-49bd-8571-4928130c258d

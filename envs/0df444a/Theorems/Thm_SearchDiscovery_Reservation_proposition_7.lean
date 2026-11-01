@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SearchDiscovery_Reservation_proposition_7
 -- name    : SearchDiscovery.Reservation.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:27:47.272123+00:00
 -- url     : https://prove2.me/theorems/6537a864-9db2-48f8-bed0-019cfc45b0a8

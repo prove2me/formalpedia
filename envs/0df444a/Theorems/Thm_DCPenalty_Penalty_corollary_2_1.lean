@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DCPenalty_Penalty_corollary_2_1
 -- name    : DCPenalty.Penalty.corollary_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:13:10.998025+00:00
 -- url     : https://prove2.me/theorems/16dcdb23-4528-46c2-95d6-b2aa6d24b621

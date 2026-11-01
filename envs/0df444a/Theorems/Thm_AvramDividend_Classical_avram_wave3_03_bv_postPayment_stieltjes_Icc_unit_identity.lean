@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_03_bv_postPayment_stieltjes_Icc_unit_identity
 -- name    : AvramDividend.Classical.avram_wave3_03_bv_postPayment_stieltjes_Icc_unit_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:06:22.884392+00:00
 -- url     : https://prove2.me/theorems/6694d8c4-bae3-47f2-b241-9e7230106210

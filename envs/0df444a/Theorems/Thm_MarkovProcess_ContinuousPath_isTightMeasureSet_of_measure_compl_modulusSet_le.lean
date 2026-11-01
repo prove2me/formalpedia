@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_ContinuousPath_isTightMeasureSet_of_measure_compl_modulusSet_le
 -- name    : MarkovProcess.ContinuousPath.isTightMeasureSet_of_measure_compl_modulusSet_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:31:01.51298+00:00
 -- url     : https://prove2.me/theorems/8d2f5cf3-bfcc-4ae5-b113-e7c4e4006415

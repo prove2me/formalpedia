@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetCournot_Equilibrium_eq_B16_alpha_eq_H
 -- name    : BudgetCournot.Equilibrium.eq_B16_alpha_eq_H
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:01:02.255061+00:00
 -- url     : https://prove2.me/theorems/bebf2cc1-3f8d-4585-b50a-f33d02af4f9d

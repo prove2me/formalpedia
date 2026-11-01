@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one_of_unbounded_variation_nonpositive_q
 -- name    : AvramDividend.Classical.scaleFunction_contDiff_one_of_unbounded_variation_nonpositive_q
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T11:03:21.202965+00:00
 -- url     : https://prove2.me/theorems/8b23cd38-7b0a-4469-bfb1-90feef46733d

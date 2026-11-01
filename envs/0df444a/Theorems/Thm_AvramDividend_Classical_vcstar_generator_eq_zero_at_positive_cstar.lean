@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_generator_eq_zero_at_positive_cstar
 -- name    : AvramDividend.Classical.vcstar_generator_eq_zero_at_positive_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:43:02.842919+00:00
 -- url     : https://prove2.me/theorems/91803827-9c02-4911-969e-c81c0bfc4afc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretPricing_Structure_proposition_4
 -- name    : RegretPricing.Structure.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:44.940973+00:00
 -- url     : https://prove2.me/theorems/d6d976d7-69a0-4d94-9c88-e33ecebfcac7

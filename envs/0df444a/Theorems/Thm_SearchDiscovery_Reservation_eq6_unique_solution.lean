@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SearchDiscovery_Reservation_eq6_unique_solution
 -- name    : SearchDiscovery.Reservation.eq6_unique_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:27:37.250876+00:00
 -- url     : https://prove2.me/theorems/34fa8660-6bc6-4a47-b6d1-3722a99e9985

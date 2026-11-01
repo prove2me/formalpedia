@@ -74987,7 +74987,7 @@
 {"parent": "PermanentRollout.treeLinearFormVectors_quotient_prod", "child": "Permanent", "via": ["solution", "statement"]}
 {"parent": "MetricCodes.sphericalCodeNumber_lt_top", "child": "SpherePacking", "via": ["solution", "statement"]}
 {"parent": "MetricCodes.sphericalCodeNumber_lt_top", "child": "MetricCodes", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Information100.P44.certifiedSDPBounds", "child": "QAlgorithms_Papers_Independent_Information100_P44", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Information100.P44.certifiedSDPBounds", "child": "QAlgorithms_Papers_Independent_Information100_P44", "via": ["solution", "statement"]}
 {"parent": "SoficGroups.KunThomFiberCoarea.hasAlmostCentralizerImprovement_of_expanding_diagonal_cuts", "child": "NonSoficGroup", "via": ["solution", "statement"]}
 {"parent": "CohnElkies.stripPoissonPrimitive_centered_antitoneOn", "child": "SpherePacking", "via": ["solution", "statement"]}
 {"parent": "MetricCodes.Spherical.HigherHierarchy.eventually_Phi_compensated_append_lt", "child": "SpherePacking", "via": ["solution", "statement"]}

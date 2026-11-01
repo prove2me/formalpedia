@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.barrier_strategy_value
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-18T18:51:31.628841+00:00
 -- url     : https://prove2.me/submissions/d4017301-2827-475d-8f03-ad9b0b09f85c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.Deriv.MeanValue
 import Mathlib.Data.ENNReal.Real

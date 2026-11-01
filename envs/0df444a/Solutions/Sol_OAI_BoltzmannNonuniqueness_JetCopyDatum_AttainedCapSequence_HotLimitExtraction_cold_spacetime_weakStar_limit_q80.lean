@@ -1,0 +1,3944 @@
+-- Prove2me | solution 1 for OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.cold_spacetime_weakStar_limit_q80
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-10-31T19:54:45.577834+00:00
+-- url     : https://prove2.me/submissions/e5280551-4452-4280-98eb-27a422fe2364
+
+import Mathlib
+import Definitions.Def_BoltzmannNonuniqueness
+import Definitions.Def_OAIQ080A002
+import Theorems.Thm_OAI_BoltzmannNonuniqueness_JetCopyDatum_AttainedCapSequence_HotLimitExtraction_cold_away_axis_weak_limit_q80
+import Theorems.Thm_OAI_BoltzmannNonuniqueness_JetCopyDatum_AttainedCapSequence_HotLimitExtraction_eventually_coldAverage_bound_q80
+
+section
+-- module Solutions.OAIQ080_BZ.Compat
+namespace OAI
+
+/-! Compatibility with the newer Lean core OpenAI's code was written against: lemmas it uses by
+names this environment (Lean 4.33.1, Mathlib 0df444a) does not have yet. Each is the
+corresponding `if_pos` / `if_neg` / `dif_pos` / `dif_neg`. The `dite` forms are stated as
+`dite p a b`, not with the `if hp : p then …` notation: its eta-expanded lambdas form is a higher-order pattern
+that `rw` cannot find (DepthThree, PeriodicTiling 2026-10-25). -/
+section OAICompat434
+/-- Mathlib's newer name for `measurable_pi_lambda` (with `f` implicit). -/
+theorem Measurable.of_eval {δ ι : Type*} {π : ι → Type*} [MeasurableSpace δ]
+    [∀ i, MeasurableSpace (π i)] {f : δ → ∀ i, π i}
+    (h : ∀ i, Measurable fun a => f a i) : Measurable f := measurable_pi_lambda f h
+end OAICompat434
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_VelocityWeight
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.TransverseAverage.circleArea_isFiniteMeasure _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptySupportedTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [local instance] OAI.circleMeasurableSpace OAI.circleBorelSpace
+
+namespace OAI
+
+section
+
+/-!
+# The transverse singularity in the velocity majorant
+
+Section 3 uses `H(v) = exp(-‖v‖²) * ⟨v⟩^(-100) * (1 + ‖v̄‖^(-q))`.
+Thus its polynomial factor is `(1 + ‖v‖²)^(-50)`. The values assigned on
+the velocity axis use Mathlib's real-power convention and do not affect
+Lebesgue integrability.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+
+namespace BoltzmannNonuniqueness.VelocityWeight
+
+theorem singularity_nonneg (q : ℝ) (u : Transverse) : 0 ≤ singularity q u :=
+  Real.rpow_nonneg (norm_nonneg _) _
+
+/-- Gaussian decay retains transverse powers whenever their exponent exceeds `-2`. -/
+theorem integrable_transverse_gaussian_rpow {β s : ℝ} (hβ : 0 < β) (hs : -2 < s) :
+    Integrable (fun u : Transverse => ‖u‖ ^ s * Real.exp (-β * ‖u‖ ^ 2)) := by
+  apply (integrable_fun_norm_addHaar (volume : Measure Transverse)
+    (f := fun r : ℝ => r ^ s * Real.exp (-β * r ^ 2))).mpr
+  have hi : IntegrableOn (fun r : ℝ => r ^ (s + 1) * Real.exp (-β * r ^ 2)) (Ioi 0) :=
+    integrableOn_rpow_mul_exp_neg_mul_sq hβ (by linarith)
+  apply hi.congr_fun _ measurableSet_Ioi
+  intro r hr
+  have hr' : 0 < r := hr
+  simp only [finrank_euclideanSpace, Fintype.card_fin, Nat.reduceSub, pow_one, smul_eq_mul]
+  rw [Real.rpow_add hr' s 1, Real.rpow_one]
+  ring
+
+theorem integrable_gaussianMajorant {β q : ℝ} (hβ : 0 < β) (hq : q < 2) :
+    Integrable (gaussianMajorant β q) := by
+  have hb₀ : Integrable (fun u : Transverse => Real.exp (-β * ‖u‖ ^ 2)) := by
+    simpa only [Real.rpow_zero, one_mul] using
+      integrable_transverse_gaussian_rpow (s := 0) hβ (by norm_num)
+  have hb₁ := integrable_transverse_gaussian_rpow (s := -q) hβ (by linarith)
+  have hb : Integrable (fun u : Transverse =>
+      (1 + singularity q u) * Real.exp (-β * ‖u‖ ^ 2)) := by
+    convert hb₀.add hb₁ using 1
+    all_goals try with_reducible_and_instances rfl
+    funext u
+    simp only [singularity, Pi.add_apply]
+    ring
+  have ha := integrable_exp_neg_mul_sq hβ
+  have hp := ha.mul_prod hb
+  have hc := split_measurePreserving.integrable_comp_of_integrable hp
+  convert hc using 1
+  all_goals try with_reducible_and_instances rfl
+  funext v
+  simp only [gaussianMajorant, Function.comp_apply, split_apply]
+  have he : Real.exp (-β * ‖v‖ ^ 2) =
+      Real.exp (-β * ‖transverse v‖ ^ 2) * Real.exp (-β * (axial v) ^ 2) := by
+    rw [norm_sq_split, mul_add, Real.exp_add]
+  rw [he]
+  ring
+
+theorem H_nonneg (q : ℝ) (v : Velocity) : 0 ≤ H q v := by
+  unfold H singularity
+  positivity
+
+theorem H_le_gaussianMajorant (q : ℝ) (v : Velocity) :
+    H q v ≤ gaussianMajorant 1 q v := by
+  have hp : (1 + ‖v‖ ^ 2) ^ (-50 : ℝ) ≤ 1 :=
+    Real.rpow_le_one_of_one_le_of_nonpos (le_add_of_nonneg_right (sq_nonneg _)) (by norm_num)
+  unfold H gaussianMajorant
+  simp only [neg_mul, one_mul]
+  have hw : 0 ≤ 1 + singularity q (transverse v) :=
+    add_nonneg zero_le_one (singularity_nonneg q (transverse v))
+  simpa only [mul_one] using mul_le_mul_of_nonneg_right
+    (mul_le_mul_of_nonneg_left hp (Real.exp_nonneg _)) hw
+
+theorem integrable_H {q : ℝ} (hq : q < 2) : Integrable (H q) := by
+  apply (integrable_gaussianMajorant zero_lt_one hq).mono'
+  · unfold H singularity transverse
+    fun_prop
+  · filter_upwards [] with v
+    rw [Real.norm_eq_abs, abs_of_nonneg (H_nonneg q v)]
+    exact H_le_gaussianMajorant q v
+
+theorem H_pos (q : ℝ) (v : Velocity) : 0 < H q v := by
+  unfold H
+  apply mul_pos
+  · exact mul_pos (Real.exp_pos _) (Real.rpow_pos_of_pos (by positivity) _)
+  · linarith [singularity_nonneg q (transverse v)]
+
+end BoltzmannNonuniqueness.VelocityWeight
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_DatumBounds
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Summable cold-jet datum bounds
+
+Section 4 of the supplied manuscript bounds the mass and energy of each annulus by a constant
+times `s_j²`, and its absolute entropy by a constant times `s_j² (1 + |log s_j|)`.
+Those scalar bounds are summable for the stated geometric scales, and their tails converge
+to zero. Indices start at zero; the manuscript's indices starting at one
+are obtained by removing the first term.
+-/
+
+noncomputable section
+
+open Filter Finset
+open scoped Topology BigOperators
+
+namespace BoltzmannNonuniqueness.DatumBounds
+
+theorem scale_pos {s₀ η : ℝ} (hs₀ : 0 < s₀) (j : ℕ) : 0 < scale s₀ η j :=
+  mul_pos hs₀ (Real.exp_pos _)
+
+end BoltzmannNonuniqueness.DatumBounds
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetProfiles
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.instCountableLabel _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The cold-jet annuli and opposite stripe enlargements
+
+These are the actual spatial masks of Section 4. The geometric scale is
+indexed from zero here, representing the manuscript's first positive index.
+-/
+
+noncomputable section
+
+open Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.DatumBounds
+
+namespace BoltzmannNonuniqueness.JetGeometry
+
+theorem gapCoefficient_pos {η : ℝ} (hη : 0 < η) : 0 < gapCoefficient η := by
+  have h := Real.one_lt_exp_iff.mpr hη
+  unfold gapCoefficient
+  linarith
+
+theorem gapCoefficient_le {η : ℝ} (hη : η ≤ Real.log 2) : gapCoefficient η ≤ 1 / 16 := by
+  have h := Real.exp_le_exp.mpr hη
+  rw [Real.exp_log (by norm_num : (0 : ℝ) < 2)] at h
+  unfold gapCoefficient
+  linarith
+
+theorem enlargementWidth_pos {η s : ℝ} (hη : 0 < η) (hs : 0 < s) :
+    0 < enlargementWidth η s := by
+  have := gapCoefficient_pos hη
+  unfold enlargementWidth
+  positivity
+
+theorem enlargement_witness {η s : ℝ} (hη : 0 < η) (hs : 0 < s)
+    {positive : Bool} {y : Transverse} (hy : y ∈ enlargement η s positive) :
+    ∃ x ∈ mask η s positive, dist y x ≤ 2 * enlargementWidth η s := by
+  have hδ := enlargementWidth_pos hη hs
+  obtain ⟨x, hx, hd⟩ := mem_iUnion₂.mp (cthickening_subset_iUnion_closedBall_of_lt (mask η s positive)
+    (by positivity : 0 < 2 * enlargementWidth η s) (by linarith) hy)
+  exact ⟨x, hx, mem_closedBall.mp hd⟩
+
+theorem enlargement_subset_annulus {η s : ℝ} (hη : 0 < η) (hs : 0 < s)
+    (positive : Bool) :
+    enlargement η s positive ⊆ {y : Transverse | s < ‖y‖ ∧ ‖y‖ < Real.exp η * s} := by
+  intro y hy
+  obtain ⟨x, hx, hdist⟩ := enlargement_witness hη hs hy
+  have h₁ := norm_sub_norm_le y x
+  have h₂ := norm_sub_norm_le x y
+  rw [← dist_eq_norm] at h₁ h₂
+  rw [dist_comm x y] at h₂
+  have hgap : 0 < gapCoefficient η * s ^ 2 := mul_pos (gapCoefficient_pos hη) (sq_pos_of_pos hs)
+  have hcore := hx.1
+  change s + gapCoefficient η * s ^ 2 < ‖x‖ ∧
+    ‖x‖ < Real.exp η * s - gapCoefficient η * s ^ 2 at hcore
+  dsimp only [enlargementWidth] at hdist
+  constructor <;> linarith [hcore.1, hcore.2]
+
+theorem scale_antitone {s₀ η : ℝ} (hs₀ : 0 ≤ s₀) (hη : 0 ≤ η) :
+    Antitone (scale s₀ η) := by
+  intro i j hij
+  unfold scale
+  apply mul_le_mul_of_nonneg_left _ hs₀
+  apply Real.exp_le_exp.mpr
+  have hcast : (i : ℝ) ≤ j := by exact_mod_cast hij
+  nlinarith
+
+theorem outerRadius_eq (s₀ η : ℝ) (j : ℕ) :
+    Real.exp η * jetScale s₀ η j = scale s₀ η j := by
+  unfold jetScale scale
+  rw [mul_left_comm, ← Real.exp_add]
+  congr 2
+  push_cast
+  ring
+
+theorem ordered_annuli {s₀ η : ℝ} (hs₀ : 0 ≤ s₀) (hη : 0 ≤ η)
+    {i j : ℕ} (hij : i < j) :
+    Real.exp η * jetScale s₀ η j ≤ jetScale s₀ η i := by
+  rw [outerRadius_eq]
+  exact scale_antitone hs₀ hη (Nat.succ_le_iff.mpr hij)
+
+theorem distinct_scale_disjoint {s₀ η : ℝ} (hs₀ : 0 < s₀) (hη : 0 < η)
+    {i j : ℕ} (hij : i ≠ j) (a b : Bool) :
+    Disjoint (enlargement η (jetScale s₀ η i) a) (enlargement η (jetScale s₀ η j) b) := by
+  apply disjoint_left.mpr
+  intro y hyi hyj
+  have hi := enlargement_subset_annulus hη (scale_pos hs₀ _) a hyi
+  have hj := enlargement_subset_annulus hη (scale_pos hs₀ _) b hyj
+  rcases lt_or_gt_of_ne hij with hij | hji
+  · have h := ordered_annuli hs₀.le hη.le hij
+    dsimp only [jetScale] at h
+    exact not_lt_of_ge h (hi.1.trans hj.2)
+  · have h := ordered_annuli hs₀.le hη.le hji
+    dsimp only [jetScale] at h
+    exact not_lt_of_ge h (hj.1.trans hi.2)
+
+theorem stripe_distance {s : ℝ} (hs : 0 < s) {x y : Transverse}
+    (hx : x ∈ stripe s true) (hy : y ∈ stripe s false) : s ^ 2 / 4 < dist x y := by
+  obtain ⟨k, hk₁, hk₂⟩ := hx
+  obtain ⟨l, hl₁, hl₂⟩ := hy
+  simp only [Bool.false_eq_true, ↓reduceIte, add_zero] at hk₁ hk₂ hl₁ hl₂
+  have hcoord : |x 0 - y 0| ≤ dist x y := by
+    simpa only [PiLp.sub_apply, Real.norm_eq_abs, dist_eq_norm] using PiLp.norm_apply_le (x - y) 0
+  have hp : 0 < s ^ 2 := sq_pos_of_pos hs
+  rcases le_or_gt k l with hkl | hlk
+  · have hcast : (k : ℝ) ≤ l := by exact_mod_cast hkl
+    have hh := mul_le_mul_of_nonneg_right hcast hp.le
+    have : s ^ 2 / 4 < y 0 - x 0 := by nlinarith
+    exact this.trans_le ((le_abs_self _).trans (by simpa only [abs_sub_comm] using hcoord))
+  · have hcast : (l : ℝ) + 1 ≤ k := by exact_mod_cast (Int.add_one_le_iff.mpr hlk)
+    have hh := mul_le_mul_of_nonneg_right hcast hp.le
+    have : s ^ 2 / 4 < x 0 - y 0 := by nlinarith
+    exact this.trans_le ((le_abs_self _).trans hcoord)
+
+theorem opposite_enlargements_disjoint {η s : ℝ} (hη : 0 < η)
+    (hηmax : η ≤ Real.log 2) (hs : 0 < s) :
+    Disjoint (enlargement η s true) (enlargement η s false) := by
+  apply disjoint_left.mpr
+  intro y hy₁ hy₂
+  obtain ⟨x, hx, hxy⟩ := enlargement_witness hη hs hy₁
+  obtain ⟨z, hz, hzy⟩ := enlargement_witness hη hs hy₂
+  have hsep := stripe_distance hs hx.2 hz.2
+  have hdist := dist_triangle x y z
+  rw [dist_comm x y] at hdist
+  have hc := mul_le_mul_of_nonneg_right (gapCoefficient_le hηmax) (sq_nonneg s)
+  unfold enlargementWidth at hxy hzy
+  nlinarith
+
+theorem enlargement_inside_baseBall {s₀ η : ℝ} (hs₀ : 0 < s₀) (hη : 0 < η)
+    (j : ℕ) (a : Bool) : enlargement η (jetScale s₀ η j) a ⊆ ball 0 s₀ := by
+  intro y hy
+  have h := (enlargement_subset_annulus hη (scale_pos hs₀ _) a hy).2
+  change ‖y‖ < Real.exp η * jetScale s₀ η j at h
+  rw [outerRadius_eq] at h
+  have hj := scale_antitone hs₀.le hη.le (Nat.zero_le j)
+  have hzero : scale s₀ η 0 = s₀ := by simp [scale]
+  rw [hzero] at hj
+  simpa only [mem_ball, dist_zero_right] using h.trans_le hj
+
+end BoltzmannNonuniqueness.JetGeometry
+
+end
+
+end
+
+section
+
+/-! # Pairwise disjoint periodic cold-jet spatial enlargements -/
+
+noncomputable section
+
+open Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetGeometry
+
+namespace BoltzmannNonuniqueness.JetLattice
+
+theorem integer_distance {m n : ℤ} (h : m ≠ n) : (1 : ℝ) ≤ |(m : ℝ) - n| := by
+  have h' := Int.one_le_abs (sub_ne_zero.mpr h)
+  exact_mod_cast h'
+
+theorem distinct_transverse_shifts {m n : Lattice}
+    (h : ∃ k : Fin 2, m k.castSucc ≠ n k.castSucc) :
+    1 ≤ ‖transverseShift m - transverseShift n‖ := by
+  obtain ⟨k, hk⟩ := h
+  have hn := PiLp.norm_apply_le (transverseShift m - transverseShift n) k
+  change ‖(m k.castSucc : ℝ) - n k.castSucc‖ ≤ _ at hn
+  rw [Real.norm_eq_abs] at hn
+  exact (integer_distance hk).trans hn
+
+theorem common_point_transverse_lattice {s₀ η : ℝ} (hs₀ : 0 < s₀)
+    (hsmax : s₀ ≤ 1 / 8) (hη : 0 < η) {t : ℝ} {i j : Label} {x : Velocity}
+    (hi : x ∈ spatialEnlargement s₀ η t i) (hj : x ∈ spatialEnlargement s₀ η t j) :
+    ∀ k : Fin 2, i.lattice k.castSucc = j.lattice k.castSucc := by
+  by_contra! h
+  have hsep := distinct_transverse_shifts h
+  have hi' := enlargement_inside_baseBall hs₀ hη i.annulus i.positive hi.1
+  have hj' := enlargement_inside_baseBall hs₀ hη j.annulus j.positive hj.1
+  rw [mem_ball, dist_zero_right] at hi' hj'
+  have htri := norm_sub_le (transverse x - transverseShift j.lattice)
+    (transverse x - transverseShift i.lattice)
+  have he : transverse x - transverseShift j.lattice - (transverse x - transverseShift i.lattice) =
+      transverseShift i.lattice - transverseShift j.lattice := by abel
+  rw [he] at htri
+  linarith
+
+theorem common_point_axial_lattice {t : ℝ} (ht : t ≤ 1 / 32)
+    {s₀ η : ℝ} {i j : Label} {x : Velocity}
+    (hi : x ∈ spatialEnlargement s₀ η t i) (hj : x ∈ spatialEnlargement s₀ η t j) :
+    i.lattice (Fin.last 2) = j.lattice (Fin.last 2) := by
+  by_contra h
+  have hsep := integer_distance h
+  have htri := abs_sub_le (axialShift i.lattice) (axial x) (axialShift j.lattice)
+  rw [abs_sub_comm (axialShift i.lattice) (axial x)] at htri
+  have hi' := hi.2
+  have hj' := hj.2
+  change |axial x - axialShift i.lattice| ≤ 1 / 8 + 2 * t + 1 / 16 at hi'
+  change |axial x - axialShift j.lattice| ≤ 1 / 8 + 2 * t + 1 / 16 at hj'
+  change 1 ≤ |axialShift i.lattice - axialShift j.lattice| at hsep
+  linarith
+
+theorem common_point_lattice {s₀ η t : ℝ} (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1 / 8)
+    (hη : 0 < η) (ht : t ≤ 1 / 32) {i j : Label} {x : Velocity}
+    (hi : x ∈ spatialEnlargement s₀ η t i) (hj : x ∈ spatialEnlargement s₀ η t j) :
+    i.lattice = j.lattice := by
+  have htrans := common_point_transverse_lattice hs₀ hsmax hη hi hj
+  have haxial := common_point_axial_lattice ht hi hj
+  funext k
+  refine Fin.lastCases haxial htrans k
+
+theorem common_point_label {s₀ η t : ℝ} (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1 / 8)
+    (hη : 0 < η) (hηmax : η ≤ Real.log 2) (ht : t ≤ 1 / 32) {i j : Label} {x : Velocity}
+    (hi : x ∈ spatialEnlargement s₀ η t i) (hj : x ∈ spatialEnlargement s₀ η t j) : i = j := by
+  have hn := common_point_lattice hs₀ hsmax hη ht hi hj
+  have hi' := hi.1
+  have hj' := hj.1
+  rw [← hn] at hj'
+  have ha : i.annulus = j.annulus := by
+    by_contra h
+    exact (disjoint_left.mp (distinct_scale_disjoint hs₀ hη h i.positive j.positive)) hi' hj'
+  have hs : i.positive = j.positive := by
+    rw [← ha] at hj'
+    by_contra h
+    have hd := opposite_enlargements_disjoint hη hηmax
+      (DatumBounds.scale_pos (η := η) hs₀ (i.annulus + 1))
+    cases hiBool : i.positive <;> cases hjBool : j.positive
+    · exact h (hiBool.trans hjBool.symm)
+    · rw [hiBool] at hi'
+      rw [hjBool] at hj'
+      exact (disjoint_left.mp hd) hj' hi'
+    · rw [hiBool] at hi'
+      rw [hjBool] at hj'
+      exact (disjoint_left.mp hd) hi' hj'
+    · exact h (hiBool.trans hjBool.symm)
+  cases i
+  cases j
+  simp_all
+
+end BoltzmannNonuniqueness.JetLattice
+
+end
+
+end
+
+section
+
+/-! # Area bounds for the original striped cold-jet masks -/
+
+noncomputable section
+
+open MeasureTheory Set Metric
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetGeometry
+
+namespace BoltzmannNonuniqueness.JetMaskMeasure
+
+theorem measurableSet_stripe (s : ℝ) (a : Bool) : MeasurableSet (stripe s a) := by
+  unfold stripe
+  simp only [ofPred_exists]
+  apply MeasurableSet.iUnion
+  intro k
+  exact (measurableSet_lt measurable_const (by fun_prop : Measurable (fun y : Transverse => y 0))).inter
+    (measurableSet_lt (by fun_prop : Measurable (fun y : Transverse => y 0)) measurable_const)
+
+theorem measurableSet_annularCore (η s : ℝ) : MeasurableSet (annularCore η s) :=
+  (measurableSet_lt measurable_const measurable_norm).inter
+    (measurableSet_lt measurable_norm measurable_const)
+
+theorem measurableSet_mask (η s : ℝ) (a : Bool) : MeasurableSet (mask η s a) :=
+  (measurableSet_annularCore η s).inter (measurableSet_stripe s a)
+
+end BoltzmannNonuniqueness.JetMaskMeasure
+
+end
+
+end
+
+section
+
+/-! # A fixed smooth compactly supported thermal probability kernel -/
+
+noncomputable section
+
+open MeasureTheory Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.JetThermalKernel
+
+theorem J_nonneg (v : Velocity) : 0 ≤ J v := bump.nonneg_normed v
+
+theorem J_smooth : ContDiff ℝ (⊤ : ℕ∞) J := bump.contDiff_normed
+
+theorem J_support : Function.support J = ball 0 1 := bump.support_normed_eq
+
+theorem J_zero {v : Velocity} (hv : 1 ≤ ‖v‖) : J v = 0 := by
+  by_contra h
+  have hs : v ∈ Function.support J := h
+  rw [J_support, mem_ball, dist_zero_right] at hs
+  exact not_lt_of_ge hv hs
+
+theorem bound_pos : 0 < bound := inv_pos.mpr bump.integral_pos
+
+theorem J_le (v : Velocity) : J v ≤ bound := by
+  unfold J ContDiffBump.normed bound
+  exact (div_le_div_of_nonneg_right bump.le_one bump.integral_pos.le).trans_eq (one_div _)
+
+end BoltzmannNonuniqueness.JetThermalKernel
+
+end
+
+end
+
+section
+
+/-! # Mass, support and integrability of translated thermal profiles -/
+
+noncomputable section
+
+open MeasureTheory Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetThermalKernel
+
+namespace BoltzmannNonuniqueness.JetThermalLaw
+
+theorem density_nonneg {d : ℝ} (hd : 0 ≤ d) (a v : Velocity) : 0 ≤ density d a v :=
+  mul_nonneg (inv_nonneg.mpr (pow_nonneg hd _)) (J_nonneg _)
+
+end BoltzmannNonuniqueness.JetThermalLaw
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_WeightAlgebra
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Weight transfer on a collision plane
+
+The exact Gaussian identity and polynomial transfer turn the normalized
+gain weight into the tilted cold measure used in `ker:tilted-kernel`.
+-/
+
+noncomputable section
+
+open scoped RealInnerProductSpace
+
+namespace BoltzmannNonuniqueness.VelocityWeight
+
+theorem tiltConstant_pos : 0 < tiltConstant := by unfold tiltConstant; positivity
+
+theorem polynomial_le_gaussian (p : Velocity) :
+    (1 + ‖p‖ ^ 2) ^ (50 : ℕ) ≤ tiltConstant * Real.exp (‖p‖ ^ 2) := by
+  have hf : 0 < (Nat.factorial 50 : ℝ) := by positivity
+  have h := (div_le_iff₀ hf).mp
+    (Real.pow_div_factorial_le_exp (1 + ‖p‖ ^ 2) (by positivity) 50)
+  calc
+    _ ≤ Real.exp (1 + ‖p‖ ^ 2) * (Nat.factorial 50 : ℝ) := h
+    _ = _ := by unfold tiltConstant; rw [Real.exp_add]; ring
+
+end BoltzmannNonuniqueness.VelocityWeight
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_GainNonnegative
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.AnnularEnvelope.instIsFiniteMeasureProdRealPositionTimePositionVolume _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Positivity and domination for the original gain integral -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.GainOrder
+
+theorem integrand_nonneg {f : Velocity → ℝ} (hf : ∀ w, 0 ≤ f w)
+    (v : Velocity) (p : Velocity × Sphere) : 0 ≤ integrand f v p :=
+  mul_nonneg (mul_nonneg (collisionKernel_nonneg _ _ _) (hf _)) (hf _)
+
+theorem integrand_mono {f g : Velocity → ℝ} (hf : ∀ w, 0 ≤ f w) (hfg : ∀ w, f w ≤ g w)
+    (v : Velocity) (p : Velocity × Sphere) : integrand f v p ≤ integrand g v p := by
+  unfold integrand
+  exact mul_le_mul (mul_le_mul_of_nonneg_left (hfg _) (collisionKernel_nonneg _ _ _))
+    (hfg _) (hf _) (mul_nonneg (collisionKernel_nonneg _ _ _) ((hf _).trans (hfg _)))
+
+theorem integrand_measurable {f : Velocity → ℝ} (hf : Measurable f) (v : Velocity) :
+    Measurable (integrand f v) := by
+  have hleft : Measurable (fun p : Velocity × Sphere => scatterLeft v p.1 p.2) := by
+    unfold scatterLeft normalComponent
+    fun_prop
+  have hright : Measurable (fun p : Velocity × Sphere => scatterRight v p.1 p.2) := by
+    unfold scatterRight normalComponent
+    fun_prop
+  have hk : Measurable (fun p : Velocity × Sphere => collisionKernel v p.1 p.2) := by
+    unfold collisionKernel normalComponent
+    fun_prop
+  exact (hk.mul (hf.comp hleft)).mul (hf.comp hright)
+
+theorem integrable_of_le {f g : Velocity → ℝ} (hm : Measurable f)
+    (hf : ∀ w, 0 ≤ f w) (hfg : ∀ w, f w ≤ g w) (v : Velocity)
+    (hg : Integrable (integrand g v) ((volume : Measure Velocity).prod sphereArea)) :
+    Integrable (integrand f v) ((volume : Measure Velocity).prod sphereArea) := by
+  apply hg.mono' (integrand_measurable hm v).aestronglyMeasurable
+  filter_upwards [] with p
+  rw [Real.norm_eq_abs, abs_of_nonneg (integrand_nonneg hf v p)]
+  exact integrand_mono hf hfg v p
+
+theorem gain_mono {f g : Velocity → ℝ} (hm : Measurable f)
+    (hf : ∀ w, 0 ≤ f w) (hfg : ∀ w, f w ≤ g w) (v : Velocity) (x : Position)
+    (hg : Integrable (integrand g v) ((volume : Measure Velocity).prod sphereArea)) :
+    gain (fun p => f p.2) x v ≤ gain (fun p => g p.2) x v :=
+  integral_mono (integrable_of_le hm hf hfg v hg) hg (integrand_mono hf hfg v)
+
+theorem gain_const_mul (c : ℝ) (f : Velocity → ℝ) (v : Velocity) (x : Position) :
+    gain (fun p => c * f p.2) x v = c ^ 2 * gain (fun p => f p.2) x v := by
+  unfold gain
+  rw [← integral_const_mul]
+  apply integral_congr_ae
+  filter_upwards [] with p
+  ring
+
+theorem integrable_const_mul (c : ℝ) {f : Velocity → ℝ} (v : Velocity)
+    (hf : Integrable (integrand f v) ((volume : Measure Velocity).prod sphereArea)) :
+    Integrable (integrand (fun w => c * f w) v) ((volume : Measure Velocity).prod sphereArea) := by
+  convert hf.const_mul (c ^ 2) using 1
+  all_goals try with_reducible_and_instances rfl
+  funext p
+  unfold integrand
+  ring
+
+end BoltzmannNonuniqueness.GainOrder
+
+end
+
+end
+
+section
+
+/-! # Conversion from the nonnegative Carleman gain to the real collision operator -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.GainNonnegative
+
+theorem self_eq_lintegral {f : Velocity → ℝ} (hf : ∀ w, 0 ≤ f w) (v : Velocity) :
+    nonnegativeGain (fun w => ENNReal.ofReal (f w)) (fun w => ENNReal.ofReal (f w)) v =
+      ∫⁻ p, ENNReal.ofReal (GainOrder.integrand f v p)
+        ∂((volume : Measure Velocity).prod sphereArea) := by
+  unfold nonnegativeGain gainPairMeasure
+  apply lintegral_congr
+  intro p
+  have hp := mul_nonneg (hf (scatterLeft v p.1 p.2)) (hf (scatterRight v p.1 p.2))
+  have he : ENNReal.ofReal (collisionKernel v p.1 p.2) / 2 =
+      ENNReal.ofReal (collisionKernel v p.1 p.2 / 2) := by
+    rw [ENNReal.ofReal_div_of_pos (by norm_num : (0 : ℝ) < 2)]
+    norm_num
+  rw [← ENNReal.ofReal_mul (hf (scatterLeft v p.1 p.2)),
+    ← ENNReal.ofReal_add hp hp, he,
+    ← ENNReal.ofReal_mul (div_nonneg (collisionKernel_nonneg _ _ _) (by norm_num))]
+  congr 1
+  unfold GainOrder.integrand
+  ring
+
+theorem integrable_of_bound {f : Velocity → ℝ} (hm : Measurable f) (hf : ∀ w, 0 ≤ f w)
+    {B : ℝ} (v : Velocity)
+    (hb : nonnegativeGain (fun w => ENNReal.ofReal (f w)) (fun w => ENNReal.ofReal (f w)) v ≤
+      ENNReal.ofReal B) :
+    Integrable (GainOrder.integrand f v) ((volume : Measure Velocity).prod sphereArea) := by
+  refine ⟨(GainOrder.integrand_measurable hm v).aestronglyMeasurable, ?_⟩
+  rw [hasFiniteIntegral_iff_ofReal (ae_of_all _ (GainOrder.integrand_nonneg hf v)),
+    ← self_eq_lintegral hf v]
+  exact hb.trans_lt ENNReal.ofReal_lt_top
+
+theorem gain_le_of_bound {f : Velocity → ℝ} (hm : Measurable f) (hf : ∀ w, 0 ≤ f w)
+    {B : ℝ} (hB : 0 ≤ B) (v : Velocity) (x : Position)
+    (hb : nonnegativeGain (fun w => ENNReal.ofReal (f w)) (fun w => ENNReal.ofReal (f w)) v ≤
+      ENNReal.ofReal B) : gain (fun p => f p.2) x v ≤ B := by
+  have hi := integrable_of_bound hm hf v hb
+  have he : gain (fun p => f p.2) x v =
+      (nonnegativeGain (fun w => ENNReal.ofReal (f w)) (fun w => ENNReal.ofReal (f w)) v).toReal := by
+    rw [self_eq_lintegral hf]
+    exact integral_eq_lintegral_of_nonneg_ae (ae_of_all _ (GainOrder.integrand_nonneg hf v)) hi.aestronglyMeasurable
+  rw [he]
+  simpa only [ENNReal.toReal_ofReal hB] using ENNReal.toReal_mono ENNReal.ofReal_ne_top hb
+
+end BoltzmannNonuniqueness.GainNonnegative
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_CollisionMeasure
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.AnnularEnvelope.instIsFiniteMeasureProdRealPositionTimePositionVolume _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# Measure preservation for a hard-sphere collision
+
+For each fixed unit normal, the pre/post-collisional map is an orthogonal
+involution on the six-dimensional velocity-pair space. Its Euclidean norm is
+implemented with `WithLp 2`; the final measure statement uses the ordinary
+product of the two three-dimensional Lebesgue measures.
+-/
+
+noncomputable section
+
+open MeasureTheory
+open scoped RealInnerProductSpace
+
+namespace BoltzmannNonuniqueness
+
+/-- Fixed-normal pre/post collision change of variables preserves product Lebesgue measure. -/
+theorem scatterPair_measurePreserving (ω : Velocity) (hω : ‖ω‖ = 1) :
+    MeasurePreserving (scatterPair ω)
+      ((volume : Measure Velocity).prod volume)
+      ((volume : Measure Velocity).prod volume) := by
+  have h := (WithLp.volume_preserving_ofLp Velocity Velocity).comp
+    ((scatterLinearIsometryEquiv ω hω).measurePreserving.comp
+      (WithLp.volume_preserving_toLp Velocity Velocity))
+  exact h
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+section
+
+/-! # The relative-speed cutoff used in the finite approximations -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.CollisionCutoff
+
+theorem rate_nonneg (b : ℝ) (v w : Velocity) : 0 ≤ rate b v w := by
+  unfold rate
+  split_ifs <;> positivity
+
+theorem rate_le {b : ℝ} (hb : 0 ≤ b) (v w : Velocity) : rate b v w ≤ b := by
+  unfold rate
+  split_ifs with h
+  · exact h.le
+  · exact hb
+
+theorem measurable_rate (b : ℝ) (v : Velocity) : Measurable (rate b v) := by
+  unfold rate
+  exact Measurable.ite (measurableSet_lt (by fun_prop) measurable_const) (by fun_prop) measurable_const
+
+theorem integrable_frequency {b : ℝ} (hb : 0 ≤ b) {f : Velocity → ℝ} (hf : Integrable f)
+    (v : Velocity) : Integrable (fun w => rate b v w * f w) := by
+  apply (hf.norm.const_mul b).mono' ((measurable_rate b v).aestronglyMeasurable.mul hf.aestronglyMeasurable)
+  filter_upwards [] with w
+  dsimp only [Pi.mul_apply]
+  rw [norm_mul, Real.norm_eq_abs, abs_of_nonneg (rate_nonneg b v w)]
+  exact mul_le_mul_of_nonneg_right (rate_le hb v w) (norm_nonneg _)
+
+theorem abs_frequency_le {b : ℝ} (hb : 0 ≤ b) {f : Velocity → ℝ} (hf : Integrable f)
+    (v : Velocity) : |frequency b f v| ≤ 2 * Real.pi * b * ∫ w, |f w| := by
+  have hi := integrable_frequency hb hf v
+  have hm : Integrable (fun w => b * |f w|) := by simpa only [Real.norm_eq_abs] using hf.norm.const_mul b
+  have hpoint (w : Velocity) : |rate b v w * f w| ≤ b * |f w| := by
+    rw [abs_mul, abs_of_nonneg (rate_nonneg b v w)]
+    exact mul_le_mul_of_nonneg_right (rate_le hb v w) (abs_nonneg _)
+  calc
+    _ = 2 * Real.pi * |∫ w, rate b v w * f w| := by
+      rw [frequency, abs_mul, abs_of_pos (by positivity : 0 < 2 * Real.pi)]
+    _ ≤ 2 * Real.pi * ∫ w, |rate b v w * f w| :=
+      mul_le_mul_of_nonneg_left abs_integral_le_integral_abs (by positivity)
+    _ ≤ 2 * Real.pi * ∫ w, b * |f w| := by
+      apply mul_le_mul_of_nonneg_left _ (by positivity)
+      exact integral_mono (by simpa only [Real.norm_eq_abs] using hi.norm) hm hpoint
+    _ = _ := by rw [integral_const_mul]; ring
+
+theorem kernel_nonneg (b : ℝ) (v w : Velocity) (ω : Sphere) : 0 ≤ kernel b v w ω := by
+  unfold kernel
+  split_ifs
+  · exact collisionKernel_nonneg _ _ _
+  · exact le_rfl
+
+theorem kernel_le (b : ℝ) (v w : Velocity) (ω : Sphere) : kernel b v w ω ≤ collisionKernel v w ω := by
+  unfold kernel
+  split_ifs
+  · exact le_rfl
+  · exact collisionKernel_nonneg _ _ _
+
+theorem integrand_le (b : ℝ) {f : Velocity → ℝ} (hf : ∀ w, 0 ≤ f w)
+    (v : Velocity) (p : Velocity × Sphere) : integrand b f v p ≤ GainOrder.integrand f v p := by
+  unfold integrand GainOrder.integrand
+  exact mul_le_mul_of_nonneg_right
+    (mul_le_mul_of_nonneg_right (kernel_le b v p.1 p.2) (hf _)) (hf _)
+
+theorem integrable_gain (b : ℝ) {f : Velocity → ℝ} (hm : Measurable f) (hf : ∀ w, 0 ≤ f w)
+    (v : Velocity) (hi : Integrable (GainOrder.integrand f v) ((volume : Measure Velocity).prod sphereArea)) :
+    Integrable (integrand b f v) ((volume : Measure Velocity).prod sphereArea) := by
+  have he (p : Velocity × Sphere) : integrand b f v p =
+      if ‖v - p.1‖ < b then GainOrder.integrand f v p else 0 := by
+    unfold integrand kernel GainOrder.integrand
+    split_ifs <;> simp only [zero_mul]
+  change Integrable (fun p => integrand b f v p) _
+  simp_rw [he]
+  apply hi.mono'
+  · exact ((GainOrder.integrand_measurable hm v).ite
+      (measurableSet_lt (by fun_prop) measurable_const) measurable_const).aestronglyMeasurable
+  · filter_upwards [] with p
+    split_ifs
+    · rw [Real.norm_eq_abs, abs_of_nonneg (GainOrder.integrand_nonneg hf v p)]
+    · simpa only [norm_zero] using GainOrder.integrand_nonneg hf v p
+
+theorem gain_le (b : ℝ) {f : Velocity → ℝ} (hm : Measurable f) (hf : ∀ w, 0 ≤ f w)
+    (v : Velocity) (x : Position)
+    (hi : Integrable (GainOrder.integrand f v) ((volume : Measure Velocity).prod sphereArea)) :
+    gain b f v ≤ BoltzmannNonuniqueness.gain (fun p => f p.2) x v :=
+  integral_mono (integrable_gain b hm hf v hi) hi (integrand_le b hf v)
+
+end BoltzmannNonuniqueness.CollisionCutoff
+
+end
+
+end
+
+section
+
+/-! # Collision operators respect almost-everywhere representatives -/
+
+noncomputable section
+
+open MeasureTheory MeasureTheory.Measure
+
+namespace BoltzmannNonuniqueness.CollisionNullSets
+
+theorem left_pair (ω : Sphere) : QuasiMeasurePreserving
+    (fun p : Velocity × Velocity => scatterLeft p.1 p.2 ω)
+    ((volume : Measure Velocity).prod volume) volume :=
+  MeasureTheory.QuasiMeasurePreserving.fst
+    (scatterPair_measurePreserving ω (mem_sphere_zero_iff_norm.mp ω.property)).quasiMeasurePreserving
+
+theorem right_pair (ω : Sphere) : QuasiMeasurePreserving
+    (fun p : Velocity × Velocity => scatterRight p.1 p.2 ω)
+    ((volume : Measure Velocity).prod volume) volume :=
+  MeasureTheory.QuasiMeasurePreserving.snd
+    (scatterPair_measurePreserving ω (mem_sphere_zero_iff_norm.mp ω.property)).quasiMeasurePreserving
+
+theorem left_quasiMeasurePreserving : QuasiMeasurePreserving left
+    ((volume : Measure Velocity).prod ((volume : Measure Velocity).prod sphereArea)) volume := by
+  let : SFinite ((volume : Measure Velocity).prod (volume : Measure Velocity)) := Measure.prod.instSFinite
+  have h : QuasiMeasurePreserving
+      (fun p : (Velocity × Velocity) × Sphere => scatterLeft p.1.1 p.1.2 p.2)
+      (((volume : Measure Velocity).prod volume).prod sphereArea) volume := by
+    apply MeasureTheory.QuasiMeasurePreserving.prod_of_left
+    · unfold scatterLeft normalComponent
+      fun_prop
+    · exact ae_of_all _ left_pair
+  exact h.comp ((measurePreserving_prodAssoc (volume : Measure Velocity) volume sphereArea).symm
+    MeasurableEquiv.prodAssoc).quasiMeasurePreserving
+
+theorem right_quasiMeasurePreserving : QuasiMeasurePreserving right
+    ((volume : Measure Velocity).prod ((volume : Measure Velocity).prod sphereArea)) volume := by
+  let : SFinite ((volume : Measure Velocity).prod (volume : Measure Velocity)) := Measure.prod.instSFinite
+  have h : QuasiMeasurePreserving
+      (fun p : (Velocity × Velocity) × Sphere => scatterRight p.1.1 p.1.2 p.2)
+      (((volume : Measure Velocity).prod volume).prod sphereArea) volume := by
+    apply MeasureTheory.QuasiMeasurePreserving.prod_of_left
+    · unfold scatterRight normalComponent
+      fun_prop
+    · exact ae_of_all _ right_pair
+  exact h.comp ((measurePreserving_prodAssoc (volume : Measure Velocity) volume sphereArea).symm
+    MeasurableEquiv.prodAssoc).quasiMeasurePreserving
+
+end BoltzmannNonuniqueness.CollisionNullSets
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_KineticDensityMeasurable
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Collision representative invariance with space and time parameters -/
+
+noncomputable section
+
+open MeasureTheory MeasureTheory.Measure
+
+namespace BoltzmannNonuniqueness.KineticCollisionNullSets
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem left_quasiMeasurePreserving (μ : Measure X) [SFinite μ] :
+    QuasiMeasurePreserving (left (X := X))
+      ((μ.prod (volume : Measure Velocity)).prod ((volume : Measure Velocity).prod sphereArea))
+      (μ.prod (volume : Measure Velocity)) := by
+  let : SFinite ((volume : Measure Velocity).prod sphereArea) := Measure.prod.instSFinite
+  let : SFinite ((volume : Measure Velocity).prod ((volume : Measure Velocity).prod sphereArea)) :=
+    Measure.prod.instSFinite
+  have h := MeasureTheory.QuasiMeasurePreserving.prodMap
+    (MeasurePreserving.id μ).quasiMeasurePreserving CollisionNullSets.left_quasiMeasurePreserving
+  exact h.comp (measurePreserving_prodAssoc μ (volume : Measure Velocity)
+    ((volume : Measure Velocity).prod sphereArea)).quasiMeasurePreserving
+
+theorem right_quasiMeasurePreserving (μ : Measure X) [SFinite μ] :
+    QuasiMeasurePreserving (right (X := X))
+      ((μ.prod (volume : Measure Velocity)).prod ((volume : Measure Velocity).prod sphereArea))
+      (μ.prod (volume : Measure Velocity)) := by
+  let : SFinite ((volume : Measure Velocity).prod sphereArea) := Measure.prod.instSFinite
+  let : SFinite ((volume : Measure Velocity).prod ((volume : Measure Velocity).prod sphereArea)) :=
+    Measure.prod.instSFinite
+  have h := MeasureTheory.QuasiMeasurePreserving.prodMap
+    (MeasurePreserving.id μ).quasiMeasurePreserving CollisionNullSets.right_quasiMeasurePreserving
+  exact h.comp (measurePreserving_prodAssoc μ (volume : Measure Velocity)
+    ((volume : Measure Velocity).prod sphereArea)).quasiMeasurePreserving
+
+theorem gain_congr (μ : Measure X) [SFinite μ] {f g : X × Velocity → ℝ}
+    (hfg : f =ᵐ[μ.prod volume] g) (b : ℝ) : gain b f =ᵐ[μ.prod volume] gain b g := by
+  let : SFinite ((volume : Measure Velocity).prod sphereArea) := Measure.prod.instSFinite
+  have hl := ae_ae_of_ae_prod ((left_quasiMeasurePreserving μ).ae hfg)
+  have hr := ae_ae_of_ae_prod ((right_quasiMeasurePreserving μ).ae hfg)
+  filter_upwards [hl, hr] with p hlp hrp
+  apply integral_congr_ae
+  filter_upwards [hlp, hrp] with q hlq hrq
+  change f (p.1, scatterLeft p.2 q.1 q.2) = g (p.1, scatterLeft p.2 q.1 q.2) at hlq
+  change f (p.1, scatterRight p.2 q.1 q.2) = g (p.1, scatterRight p.2 q.1 q.2) at hrq
+  unfold CollisionCutoff.integrand
+  dsimp only
+  rw [hlq, hrq]
+
+theorem measurable_gain {f : X × Velocity → ℝ} (hf : Measurable f) (b : ℝ) :
+    Measurable (gain b f) := by
+  let : SFinite ((volume : Measure Velocity).prod sphereArea) := Measure.prod.instSFinite
+  have hL : Measurable (fun p : (X × Velocity) × (Velocity × Sphere) => f (left p)) := by
+    apply hf.comp
+    unfold left scatterLeft normalComponent
+    fun_prop
+  have hR : Measurable (fun p : (X × Velocity) × (Velocity × Sphere) => f (right p)) := by
+    apply hf.comp
+    unfold right scatterRight normalComponent
+    fun_prop
+  have hk : Measurable (fun p : (X × Velocity) × (Velocity × Sphere) =>
+      CollisionCutoff.kernel b p.1.2 p.2.1 p.2.2) := by
+    unfold CollisionCutoff.kernel
+    apply Measurable.ite (measurableSet_lt (by fun_prop) measurable_const)
+    · unfold collisionKernel normalComponent
+      fun_prop
+    · exact measurable_const
+  exact ((hk.mul hL).mul hR).stronglyMeasurable.integral_prod_right.measurable
+
+theorem measurable_frequency {f : X × Velocity → ℝ} (hf : Measurable f) (b : ℝ) :
+    Measurable (frequency b f) := by
+  have hk : Measurable (fun p : (X × Velocity) × Velocity =>
+      CollisionCutoff.rate b p.1.2 p.2) := by
+    unfold CollisionCutoff.rate
+    exact Measurable.ite (measurableSet_lt (by fun_prop) measurable_const)
+      (by fun_prop) measurable_const
+  have hm : Measurable (fun p : (X × Velocity) × Velocity => f (p.1.1, p.2)) := by
+    exact hf.comp (measurable_fst.fst.prodMk measurable_snd)
+  exact measurable_const.mul (hk.mul hm).stronglyMeasurable.integral_prod_right.measurable
+
+end BoltzmannNonuniqueness.KineticCollisionNullSets
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_ChartPointLift
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# The normalized gain as a measure on chart coordinates
+
+This measure retains the incoming velocity and both plane coordinates. Its
+restriction equals the chart gain, so countable shell
+estimates concern the full normalized kernel of the manuscript.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.PlaneChart
+
+namespace BoltzmannNonuniqueness.ChartKernel
+
+theorem measurable_H (q : ℝ) : Measurable (H q) := by
+  unfold H singularity
+  fun_prop
+
+end BoltzmannNonuniqueness.ChartKernel
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_HotGainReduction
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# Algebraic reduction of the quadratic hot gain
+
+Symmetry allows the output polynomial weight to be assigned to either
+incoming velocity. The resulting mixed gain has only one polynomial factor,
+while its two Gaussian factors cancel by collision energy conservation.
+-/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.HotWeight
+
+theorem polynomial_pos (v : Velocity) : 0 < polynomial v := by
+  unfold polynomial
+  positivity
+
+theorem H_mul_polynomial (q : ℝ) (v : Velocity) : H q v * polynomial v = G q v := by
+  unfold H polynomial G
+  change Real.exp (-‖v‖ ^ 2) * (1 + ‖v‖ ^ 2) ^ (-50 : ℝ) * W q v *
+    (1 + ‖v‖ ^ 2) ^ (50 : ℕ) = _
+  rw [show (-50 : ℝ) = -(50 : ℕ) by norm_num,
+    Real.rpow_neg (by positivity), Real.rpow_natCast]
+  have hp : (1 + ‖v‖ ^ 2) ^ (50 : ℕ) ≠ 0 := by positivity
+  field_simp
+
+end BoltzmannNonuniqueness.HotWeight
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_HotQuadraticGain
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# The quadratic hot-gain bound
+
+The geometric shell estimates and their summation transfer through the
+Carleman identity to the original hard-sphere collision variables.
+-/
+
+noncomputable section
+
+open MeasureTheory
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.HotWeight
+open BoltzmannNonuniqueness.ChartKernel
+open BoltzmannNonuniqueness.HotMixedGain
+
+namespace BoltzmannNonuniqueness.HotApplication
+
+theorem realBound_pos (q : ℝ) : 0 < realBound q := by
+  unfold realBound
+  positivity
+
+end BoltzmannNonuniqueness.HotApplication
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetBarriers
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The actual unshifted cold-jet density and its mass bound -/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetGeometry
+open BoltzmannNonuniqueness.JetMaskMeasure
+open BoltzmannNonuniqueness.JetAxialWeight
+
+namespace BoltzmannNonuniqueness.JetPrototype
+
+theorem axialAmplitude_nonneg {K s : ℝ} (hK : 0 ≤ K) (hs : 0 ≤ s) (γ z : ℝ) :
+    0 ≤ axialAmplitude K γ s z := by
+  apply indicator_nonneg
+  intro z _
+  exact mul_nonneg (div_nonneg hK hs) (S_pos _).le
+
+theorem spatial_nonneg {K s : ℝ} (hK : 0 ≤ K) (hs : 0 ≤ s) (η γ : ℝ) (a : Bool) (x : Space) :
+    0 ≤ spatial η K γ s a x :=
+  mul_nonneg (indicator_nonneg (fun _ _ => zero_le_one) _)
+    (axialAmplitude_nonneg hK hs γ _)
+
+theorem density_nonneg {K s d : ℝ} (hK : 0 ≤ K) (hs : 0 ≤ s) (hd : 0 ≤ d)
+    (η α γ : ℝ) (a : Bool) (p : Phase) : 0 ≤ density η K α γ s d a p :=
+  mul_nonneg (spatial_nonneg hK hs η γ a _)
+    (JetThermalLaw.density_nonneg hd _ _)
+
+theorem measurable_spatial (η K γ s : ℝ) (a : Bool) : Measurable (spatial η K γ s a) := by
+  unfold spatial axialAmplitude
+  exact (((measurable_const.indicator (measurableSet_mask η s a)).comp measurable_fst).mul
+    (((continuous_const.mul (continuous_S.comp
+      ((continuous_const.mul continuous_id).div_const s))).measurable.indicator measurableSet_Ioo).comp
+      measurable_snd))
+
+theorem measurable_center (α γ s : ℝ) (a : Bool) : Measurable (center α γ s a) := by
+  change Measurable (fun z => SheetMeasures.join (0, AxialFlow.profile (sign a) α γ s z))
+  exact SheetMeasures.join.measurable.comp
+    (measurable_const.prodMk (AxialFlow.continuous_profile _ _ _ _).measurable)
+
+theorem measurable_density (η K α γ s d : ℝ) (a : Bool) :
+    Measurable (density η K α γ s d a) := by
+  unfold density JetThermalLaw.density JetThermalLaw.scaled
+  have hc : Measurable (fun p : Phase => center α γ s a p.1.2) :=
+    (measurable_center α γ s a).comp (measurable_snd.comp measurable_fst)
+  have hv : Measurable (fun p : Phase => d⁻¹ • (p.2 - center α γ s a p.1.2)) :=
+    (measurable_const : Measurable (fun _ : Phase => d⁻¹)).smul (measurable_snd.sub hc)
+  exact ((measurable_spatial η K γ s a).comp measurable_fst).mul
+    (measurable_const.mul (JetThermalKernel.J_smooth.continuous.measurable.comp
+      hv))
+
+end BoltzmannNonuniqueness.JetPrototype
+
+end
+
+end
+
+section
+
+/-! # Velocity support and spatial confinement of the free cold cores -/
+
+noncomputable section
+
+open Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetGeometry
+open BoltzmannNonuniqueness.JetPrototype
+
+namespace BoltzmannNonuniqueness.JetSupport
+
+theorem initial_spatial_support (η K α γ s d : ℝ) (a : Bool) {p : JetPrototype.Phase}
+    (hp : JetPrototype.density η K α γ s d a p ≠ 0) :
+    p.1.1 ∈ mask η s a ∧ |p.1.2| < 1 / 8 := by
+  have hsp : spatial η K γ s a p.1 ≠ 0 := left_ne_zero_of_mul hp
+  have hm : (mask η s a).indicator (fun _ => (1 : ℝ)) p.1.1 ≠ 0 := left_ne_zero_of_mul hsp
+  have hz : axialAmplitude K γ s p.1.2 ≠ 0 := right_ne_zero_of_mul hsp
+  have hy : p.1.1 ∈ mask η s a := by
+    by_contra h
+    exact hm (indicator_of_notMem h _)
+  have hz' : p.1.2 ∈ Ioo (-(1 / 8 : ℝ)) (1 / 8) := by
+    by_contra h
+    exact hz (indicator_of_notMem h _)
+  exact ⟨hy, abs_lt.mpr hz'⟩
+
+end BoltzmannNonuniqueness.JetSupport
+
+end
+
+end
+
+section
+
+/-! # Gaussian decay of a cold barrier away from its spatial core -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetPrototype
+open BoltzmannNonuniqueness.JetBarrier
+
+namespace BoltzmannNonuniqueness.JetGaussianEscape
+
+theorem gaussian_le_hot (q : ℝ) (v : Velocity) :
+    Real.exp (-2 * ‖v‖ ^ 2) ≤ tiltConstant * H q v := by
+  have hp := polynomial_le_gaussian v
+  have hw : 1 ≤ W q v := by unfold W; linarith [singularity_nonneg q (transverse v)]
+  have hm := mul_le_mul_of_nonneg_left hp (Real.exp_nonneg (-2 * ‖v‖ ^ 2))
+  have hexp : Real.exp (-2 * ‖v‖ ^ 2) * Real.exp (‖v‖ ^ 2) = Real.exp (-‖v‖ ^ 2) := by
+    rw [← Real.exp_add]
+    congr 1
+    ring
+  have hprod : Real.exp (-2 * ‖v‖ ^ 2) * HotWeight.polynomial v ≤
+      tiltConstant * HotWeight.G q v := by
+    calc
+      _ ≤ tiltConstant * Real.exp (-‖v‖ ^ 2) := by
+        change Real.exp (-2 * ‖v‖ ^ 2) * (1 + ‖v‖ ^ 2) ^ (50 : ℕ) ≤ _
+        calc
+          _ ≤ Real.exp (-2 * ‖v‖ ^ 2) * (tiltConstant * Real.exp (‖v‖ ^ 2)) := hm
+          _ = _ := by rw [mul_left_comm, hexp]
+      _ ≤ _ := by
+        unfold HotWeight.G
+        simpa only [mul_one, mul_assoc] using mul_le_mul_of_nonneg_left hw
+          (mul_nonneg tiltConstant_pos.le (Real.exp_nonneg (-‖v‖ ^ 2)))
+  rw [← HotWeight.H_mul_polynomial] at hprod
+  exact (mul_le_mul_iff_of_pos_right (HotWeight.polynomial_pos v)).mp (by
+    simpa only [mul_assoc] using hprod)
+
+end BoltzmannNonuniqueness.JetGaussianEscape
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetPeriodicDatum
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Integration of the nonnegative, disjoint cold-jet series -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.JetThermalEntropy
+
+namespace BoltzmannNonuniqueness.JetSeries
+
+theorem summable_single_support {ι : Type*} {f : ι → ℝ}
+    (hf : ∀ i j, i ≠ j → f i ≠ 0 → f j = 0) : Summable f := by
+  classical
+  by_cases h : ∃ i, f i ≠ 0
+  · obtain ⟨i, hi⟩ := h
+    exact summable_of_ne_finset_zero (s := {i}) (fun j hj => hf i j (by simpa [eq_comm] using hj) hi)
+  · have he : f = 0 := by ext i; simpa using not_exists.mp h i
+    rw [he]
+    exact summable_zero
+
+end BoltzmannNonuniqueness.JetSeries
+
+end
+
+end
+
+section
+
+/-! # The full unperiodized cold datum -/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetPrototype
+open BoltzmannNonuniqueness.JetGeometry
+open BoltzmannNonuniqueness.JetThermalEntropy
+
+namespace BoltzmannNonuniqueness.JetDatum
+
+theorem term_nonneg {s₀ K d₀ : ℝ} (hs₀ : 0 < s₀) (hK : 0 ≤ K) (hd₀ : 0 ≤ d₀)
+    (η α γ : ℝ) (i : Index) (p : JetPrototype.Phase) : 0 ≤ term s₀ η K α γ d₀ i p :=
+  density_nonneg hK (DatumBounds.scale_pos hs₀ _).le
+    (mul_nonneg hd₀ (pow_nonneg (DatumBounds.scale_pos hs₀ _).le _)) η α γ i.2 p
+
+theorem term_measurable (s₀ η K α γ d₀ : ℝ) (i : Index) :
+    Measurable (term s₀ η K α γ d₀ i) := measurable_density _ _ _ _ _ _ _
+
+end BoltzmannNonuniqueness.JetDatum
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Approximation_CutoffLipschitz
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # Local weighted Lipschitz bounds for the finite-cutoff equation -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.CutoffLipschitz
+
+theorem frequencyConstant_nonneg {b : ℝ} (hb : 0 ≤ b) (q : ℝ) : 0 ≤ frequencyConstant q b := by
+  unfold frequencyConstant
+  have hi : 0 ≤ ∫ w, H q w := integral_nonneg (H_nonneg q)
+  positivity
+
+theorem integrable_dominated {q A : ℝ} (hq : q < 2) {f : Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ w, 0 ≤ f w) (hfB : ∀ w, f w ≤ A * H q w) : Integrable f := by
+  apply ((integrable_H hq).const_mul A).mono' hfm.aestronglyMeasurable
+  filter_upwards [] with w
+  simpa only [Real.norm_eq_abs, abs_of_nonneg (hf w)] using hfB w
+
+theorem frequency_nonneg {f : Velocity → ℝ} (hf : ∀ w, 0 ≤ f w) (b : ℝ) (v : Velocity) :
+    0 ≤ CollisionCutoff.frequency b f v := by
+  apply mul_nonneg (by positivity)
+  exact integral_nonneg (fun w => mul_nonneg (CollisionCutoff.rate_nonneg b v w) (hf w))
+
+theorem frequency_bound {q A b : ℝ} (hq : q < 2) (hb : 0 ≤ b)
+    {f : Velocity → ℝ} (hfm : Measurable f) (hf : ∀ w, 0 ≤ f w)
+    (hfB : ∀ w, f w ≤ A * H q w) (v : Velocity) :
+    CollisionCutoff.frequency b f v ≤ A * frequencyConstant q b := by
+  have hi := integrable_dominated hq hfm hf hfB
+  calc
+    _ ≤ 2 * Real.pi * b * ∫ w, |f w| :=
+      (le_abs_self _).trans (CollisionCutoff.abs_frequency_le hb hi v)
+    _ ≤ 2 * Real.pi * b * ∫ w, A * H q w := by
+      apply mul_le_mul_of_nonneg_left _ (by positivity)
+      exact integral_mono hi.abs ((integrable_H hq).const_mul A)
+        (fun w => by simpa only [abs_of_nonneg (hf w)] using hfB w)
+    _ = _ := by rw [integral_const_mul]; unfold frequencyConstant; ring
+
+end BoltzmannNonuniqueness.CutoffLipschitz
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_WeakL1ToWeakStar
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded weak-star limits extend across an almost-everywhere exhaustion -/
+
+noncomputable section
+
+open MeasureTheory Set Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.Compactness
+
+private theorem pairing_restrict_error {X : Type*} [MeasurableSpace X]
+    {μ : Measure X} {f a : X → ℝ} (hf : Integrable f μ) (ha : Measurable a)
+    {C : ℝ} (hC : ∀ᵐ x ∂μ, |a x| ≤ C) {s : Set X} (hs : MeasurableSet s) :
+    |(∫ x, f x*a x ∂μ)-(∫ x in s, f x*a x ∂μ)| ≤ C*(∫ x in sᶜ, |f x| ∂μ) := by
+  have hi : Integrable (fun x => f x*a x) μ :=
+    (hf.bdd_mul ha.aestronglyMeasurable hC).congr (ae_of_all _ (fun x => mul_comm _ _))
+  rw [← setIntegral_compl hs hi]
+  have hb := norm_integral_le_of_norm_le (μ := μ.restrict sᶜ) (f := fun x => f x*a x)
+    (hf.restrict.abs.const_mul C) ?_
+  · simpa only [Real.norm_eq_abs,integral_const_mul] using hb
+  · filter_upwards [ae_restrict_of_ae hC] with x hx
+    rw [Real.norm_eq_abs,abs_mul]
+    exact (mul_le_mul_of_nonneg_left hx (abs_nonneg _)).trans_eq (mul_comm _ _)
+
+theorem weakStar_of_exhaustion {X : Type*} [MeasurableSpace X] {μ : Measure X}
+    {a : ℕ → X → ℝ} {b : X → ℝ} (ham : ∀ n, Measurable (a n)) (hbm : Measurable b)
+    {C : ℝ}
+    (hab : ∀ᶠ n in atTop, ∀ᵐ x ∂μ, |a n x| ≤ C) (hbb : ∀ᵐ x ∂μ, |b x| ≤ C)
+    (s : ℕ → Set X) (hs : ∀ m, MeasurableSet (s m))
+    (hcover : ∀ᵐ x ∂μ, ∀ᶠ m in atTop, x ∈ s m)
+    (hlocal : ∀ m, WeakStarLInfConverges (μ.restrict (s m)) a b) :
+    WeakStarLInfConverges μ a b := by
+  refine ⟨hbm,fun f hf => ?_⟩
+  have htail : Tendsto (fun m => ∫ x in (s m)ᶜ, |f x| ∂μ) atTop (𝓝 0) := by
+    have ht := tendsto_integral_of_dominated_convergence (f := fun _ : X => (0:ℝ))
+      (fun x => |f x|) (fun m => hf.abs.aestronglyMeasurable.indicator (hs m).compl) hf.abs
+      (fun m => ae_of_all _ (fun x => by
+        by_cases hx : x ∈ (s m)ᶜ <;> simp [hx])) ?_
+    · simpa only [integral_indicator (hs _).compl,integral_zero] using ht
+    · filter_upwards [hcover] with x hx
+      apply tendsto_const_nhds.congr'
+      filter_upwards [hx] with m hm
+      simp only [mem_compl_iff,hm,not_true_eq_false,not_false_eq_true,indicator_of_notMem]
+  apply Metric.tendsto_nhds.mpr
+  intro ε hε
+  have hsmall : Tendsto (fun m => (2*C)*(∫ x in (s m)ᶜ, |f x| ∂μ)) atTop (𝓝 0) := by
+    simpa only [mul_zero] using htail.const_mul (2*C)
+  obtain ⟨m,hm⟩ := (hsmall.eventually (gt_mem_nhds (show 0 < ε/2 by positivity))).exists
+  have hmid := Metric.tendsto_nhds.mp ((hlocal m).2 f hf.restrict) (ε/2) (by positivity)
+  filter_upwards [hab,hmid] with n han hmn
+  rw [Real.dist_eq] at hmn ⊢
+  have hleft := pairing_restrict_error hf (ham n) han (hs m)
+  have hright := pairing_restrict_error hf hbm hbb (hs m)
+  have htri₁ := abs_sub_le (∫ x, f x*a n x ∂μ) (∫ x in s m, f x*a n x ∂μ) (∫ x, f x*b x ∂μ)
+  have htri₂ := abs_sub_le (∫ x in s m, f x*a n x ∂μ) (∫ x in s m, f x*b x ∂μ) (∫ x, f x*b x ∂μ)
+  rw [abs_sub_comm (∫ x in s m, f x*b x ∂μ)] at htri₂
+  linarith
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Extending bounded cold-average convergence to all L1 tests -/
+
+noncomputable section
+
+open MeasureTheory Filter Set
+open scoped Topology ENNReal
+
+namespace BoltzmannNonuniqueness.Compactness
+
+private theorem bounded_pairing_error {X : Type*} [MeasurableSpace X] {μ : Measure X}
+    {f g a : X → ℝ} (hf : Integrable f μ) (hg : Integrable g μ)
+    (ha : Measurable a) {C δ : ℝ} (hC : 0 ≤ C) (hδ : 0 ≤ δ)
+    (hab : ∀ᵐ x ∂μ, |a x| ≤ C)
+    (hdiff : eLpNorm (f-g) 1 μ ≤ ENNReal.ofReal δ) :
+    |(∫ x, f x*a x ∂μ)-(∫ x, g x*a x ∂μ)| ≤ C*δ := by
+  have hfg := hf.sub hg
+  have hfa : Integrable (fun x => f x*a x) μ :=
+    (hf.bdd_mul ha.aestronglyMeasurable hab).congr (ae_of_all _ (fun x => mul_comm _ _))
+  have hga : Integrable (fun x => g x*a x) μ :=
+    (hg.bdd_mul ha.aestronglyMeasurable hab).congr (ae_of_all _ (fun x => mul_comm _ _))
+  have hi : (∫ x, ‖f x-g x‖ ∂μ) ≤ δ := by
+    apply (ENNReal.ofReal_le_ofReal_iff hδ).mp
+    change ENNReal.ofReal (∫ x, ‖(f-g) x‖ ∂μ) ≤ ENNReal.ofReal δ
+    rw [ofReal_integral_norm_eq_lintegral_enorm hfg]
+    rwa [eLpNorm_one_eq_lintegral_enorm] at hdiff
+  rw [← integral_sub hfa hga,← Real.norm_eq_abs]
+  have he : (fun x => f x*a x-g x*a x) = (fun x => (f x-g x)*a x) := by
+    funext x
+    ring
+  rw [he]
+  apply (norm_integral_le_of_norm_le (hfg.norm.const_mul C) ?_).trans
+  · rw [integral_const_mul]
+    exact mul_le_mul_of_nonneg_left hi hC
+  · filter_upwards [hab] with x hx
+    change ‖(f x-g x)*a x‖ ≤ C*‖f x-g x‖
+    rw [norm_mul,Real.norm_eq_abs (a x)]
+    exact (mul_le_mul_of_nonneg_left hx (norm_nonneg _)).trans_eq (mul_comm _ _)
+
+theorem weakStar_of_continuous_compact_tests
+    {X : Type*} [MetricSpace X] [SecondCountableTopology X] [LocallyCompactSpace X]
+    [MeasurableSpace X] [BorelSpace X] {μ : Measure X} [μ.Regular]
+    {a : ℕ → X → ℝ} {b : X → ℝ}
+    (ham : ∀ n, Measurable (a n)) (hbm : Measurable b)
+    {C : ℝ} (hC : 0 ≤ C)
+    (hab : ∀ᶠ n in atTop, ∀ᵐ x ∂μ, |a n x| ≤ C)
+    (hbb : ∀ᵐ x ∂μ, |b x| ≤ C)
+    (htest : ∀ g : X → ℝ, Continuous g → HasCompactSupport g →
+      Tendsto (fun n => ∫ x, g x*a n x ∂μ) atTop (𝓝 (∫ x, g x*b x ∂μ))) :
+    WeakStarLInfConverges μ a b := by
+  refine ⟨hbm,fun f hf => Metric.tendsto_nhds.mpr ?_⟩
+  intro ε hε
+  let δ := ε/(3*(2*C+1))
+  have hden : 0 < 3*(2*C+1) := by positivity
+  have hδ : 0 < δ := div_pos hε hden
+  have hδε : δ*(3*(2*C+1)) = ε := div_mul_cancel₀ ε hden.ne'
+  obtain ⟨g,hgc,hfg,hg,hgm⟩ :=
+    (memLp_one_iff_integrable.mpr hf).exists_hasCompactSupport_eLpNorm_sub_le
+      (by norm_num : (1:ℝ≥0∞) ≠ ⊤) (ne_of_gt (ENNReal.ofReal_pos.mpr hδ))
+  have hgi : Integrable g μ := memLp_one_iff_integrable.mp hgm
+  have hmid := Metric.tendsto_nhds.mp (htest g hg hgc) (ε/3) (by positivity)
+  filter_upwards [hab,hmid] with n han hgn
+  rw [Real.dist_eq] at hgn ⊢
+  have hleft := bounded_pairing_error hf hgi (ham n) hC hδ.le han hfg
+  have hright := bounded_pairing_error hf hgi hbm hC hδ.le hbb hfg
+  have htri₁ := abs_sub_le (∫ x, f x*a n x ∂μ) (∫ x, g x*a n x ∂μ) (∫ x, f x*b x ∂μ)
+  have htri₂ := abs_sub_le (∫ x, g x*a n x ∂μ) (∫ x, g x*b x ∂μ) (∫ x, f x*b x ∂μ)
+  rw [abs_sub_comm (∫ x, g x*b x ∂μ)] at htri₂
+  nlinarith
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # A uniformly bounded weak L1 limit is a weak-star limit -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.Published
+
+theorem WeakL1Converges.weakStar
+    {X : Type*} [MetricSpace X] [SecondCountableTopology X] [LocallyCompactSpace X]
+    [MeasurableSpace X] [BorelSpace X] {μ : Measure X} [μ.Regular]
+    {a : ℕ → X → ℝ} {b : X → ℝ} (h : WeakL1Converges μ a b)
+    (ham : ∀ n, Measurable (a n)) {C : ℝ} (hC : 0 ≤ C)
+    (hab : ∀ᶠ n in atTop, ∀ᵐ x ∂μ, |a n x| ≤ C) (hbb : ∀ᵐ x ∂μ, |b x| ≤ C) :
+    Compactness.WeakStarLInfConverges μ a b := by
+  apply Compactness.weakStar_of_continuous_compact_tests ham h.1 hC hab hbb
+  intro φ hφ hφc
+  obtain ⟨B,hB⟩ := hφc.exists_bound_of_continuous hφ
+  exact h.2.2 φ hφ.measurable ⟨B,fun x => by simpa only [Real.norm_eq_abs] using hB x⟩
+
+end BoltzmannNonuniqueness.Published
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Approximation_PositiveIntegralFixedPoint
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Order and dominated convergence for positive characteristic integrals -/
+
+noncomputable section
+
+open MeasureTheory Set Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.PositiveIntegral
+
+variable {P : Type*} [MeasurableSpace P]
+
+theorem value_mono {T L S : ℝ} (hT : 0 ≤ T) (hL : 0 ≤ L)
+    {flow : ℝ → P → P} (hflow : Measurable (fun z : ℝ × P => flow z.1 z.2))
+    {f₀ k₀ : P → ℝ} (hfk : ∀ p, f₀ p ≤ k₀ p)
+    {g h : Domain P → ℝ} (hgm : Measurable g) (hhm : Measurable h)
+    (hg : ∀ z, |g z| ≤ S) (hh : ∀ z, |h z| ≤ S) (hgh : ∀ z, g z ≤ h z)
+    (z : Domain P) : value T L flow f₀ g z ≤ value T L flow k₀ h z := by
+  apply add_le_add
+  · exact mul_le_mul_of_nonneg_left (hfk _) (Real.exp_pos _).le
+  · apply intervalIntegral.integral_mono_on (time_bounds hT z.1).1
+      (damped_integrable hT hL hflow hgm hg z) (damped_integrable hT hL hflow hhm hh z)
+    intro r _
+    exact mul_le_mul_of_nonneg_left (hgh _) (Real.exp_pos _).le
+
+theorem value_tendsto {T L S : ℝ} (hT : 0 ≤ T) (hL : 0 ≤ L)
+    {flow : ℝ → P → P} (hflow : Measurable (fun z : ℝ × P => flow z.1 z.2))
+    (f₀ : P → ℝ) {g : ℕ → Domain P → ℝ} {h : Domain P → ℝ}
+    (hgm : ∀ n, Measurable (g n)) (hg : ∀ n z, |g n z| ≤ S)
+    (hlim : ∀ z, Tendsto (fun n => g n z) atTop (𝓝 (h z)))
+    (z : Domain P) : Tendsto (fun n => value T L flow f₀ (g n) z) atTop
+      (𝓝 (value T L flow f₀ h z)) := by
+  apply tendsto_const_nhds.add
+  apply intervalIntegral.tendsto_integral_filter_of_dominated_convergence (fun _ => S)
+  · exact .of_forall (fun n => (damped_integrable hT hL hflow (hgm n) (hg n) z).def'.aestronglyMeasurable)
+  · apply Eventually.of_forall
+    intro n
+    apply ae_of_all
+    intro r hr
+    rw [uIoc_of_le (time_bounds hT z.1).1] at hr
+    rw [Real.norm_eq_abs, abs_mul, abs_of_pos (Real.exp_pos _)]
+    have he : Real.exp (-L * (time T z.1 - r)) ≤ 1 := Real.exp_le_one_iff.mpr (by nlinarith [hr.2])
+    exact (mul_le_mul_of_nonneg_right he (abs_nonneg _)).trans (by simpa using hg n _)
+  · exact intervalIntegrable_const
+  · exact ae_of_all _ (fun r _ => tendsto_const_nhds.mul (hlim _))
+
+end BoltzmannNonuniqueness.PositiveIntegral
+
+end
+
+end
+
+section
+
+/-! # Finite sums of positive characteristic integrals -/
+
+noncomputable section
+
+open MeasureTheory
+open scoped BigOperators
+
+namespace BoltzmannNonuniqueness.PositiveIntegral
+
+variable {P I : Type*} [MeasurableSpace P]
+
+theorem value_finsetSum {T L S : ℝ} (hT : 0 ≤ T) (hL : 0 ≤ L)
+    {flow : ℝ → P → P} (hflow : Measurable (fun z : ℝ × P => flow z.1 z.2))
+    (s : Finset I) (f₀ : I → P → ℝ) (g : I → Domain P → ℝ)
+    (hgm : ∀ i ∈ s, Measurable (g i)) (hg : ∀ i ∈ s, ∀ z, |g i z| ≤ S)
+    (z : Domain P) :
+    ∑ i ∈ s, value T L flow (f₀ i) (g i) z =
+      value T L flow (fun p => ∑ i ∈ s, f₀ i p) (fun q => ∑ i ∈ s, g i q) z := by
+  unfold value
+  rw [Finset.sum_add_distrib, Finset.mul_sum]
+  congr 1
+  rw [← intervalIntegral.integral_finsetSum
+    (fun i hi => damped_integrable hT hL hflow (hgm i hi) (hg i hi) z)]
+  apply intervalIntegral.integral_congr
+  intro r _
+  exact (Finset.mul_sum s _ _).symm
+
+end BoltzmannNonuniqueness.PositiveIntegral
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_GaussianLocalExistence
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Positive local cutoff iteration along the actual free transport -/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.JetPrototype
+
+namespace BoltzmannNonuniqueness.GaussianLocal
+
+theorem measurable_state {f : ℝ × JetPrototype.Phase → ℝ} (hf : Measurable f) :
+    Measurable (state f) := hf.comp (by fun_prop)
+
+theorem measurable_flight : Measurable (fun z : ℝ × JetPrototype.Phase => JetBarrier.flight z.1 z.2) := by
+  unfold JetBarrier.flight VelocityWeight.transverse VelocityWeight.axial
+  fun_prop
+
+end BoltzmannNonuniqueness.GaussianLocal
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_FlightMeasure
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # Free-flight measure preservation and representative invariance -/
+
+noncomputable section
+
+open MeasureTheory MeasureTheory.Measure
+
+namespace BoltzmannNonuniqueness.FlightMeasure
+
+theorem spacetime_measurePreserving (s : ℝ) :
+    MeasurePreserving (fun z : ℝ × JetPrototype.Phase => (z.1,JetBarrier.flight (z.1-s) z.2))
+      ((volume : Measure ℝ).prod phaseVolume) ((volume : Measure ℝ).prod phaseVolume) := by
+  exact (MeasurePreserving.id (volume : Measure ℝ)).skew_product
+    (μc := phaseVolume) (μd := phaseVolume)
+    (g := fun r p => JetBarrier.flight (r-s) p)
+    (GaussianLocal.measurable_flight.comp
+      ((measurable_fst.sub measurable_const).prodMk measurable_snd))
+    (ae_of_all _ (fun r => (flight_measurePreserving (r-s)).map_eq))
+
+theorem value_congr_at_time {f₀ k₀ : JetPrototype.Phase → ℝ}
+    {g h : ℝ × JetPrototype.Phase → ℝ}
+    (hinit : f₀ =ᵐ[phaseVolume] k₀) (hsource : g =ᵐ[(volume : Measure ℝ).prod phaseVolume] h)
+    (T L t : ℝ) :
+    (fun p => PositiveIntegral.value T L JetBarrier.flight f₀ g (t,p)) =ᵐ[phaseVolume]
+      (fun p => PositiveIntegral.value T L JetBarrier.flight k₀ h (t,p)) := by
+  let τ := PositiveIntegral.time T t
+  have hi := (flight_measurePreserving (-τ)).quasiMeasurePreserving.ae hinit
+  have hs := (spacetime_measurePreserving τ).quasiMeasurePreserving.ae hsource
+  have hsp := (Measure.measurePreserving_swap (μ := phaseVolume) (ν := volume)).quasiMeasurePreserving.ae hs
+  have hr := ae_ae_of_ae_prod hsp
+  filter_upwards [hi,hr] with p hip hrp
+  unfold PositiveIntegral.value
+  change Real.exp (-L*τ)*f₀ (JetBarrier.flight (-τ) p) + _ =
+    Real.exp (-L*τ)*k₀ (JetBarrier.flight (-τ) p) + _
+  rw [hip]
+  congr 1
+  apply intervalIntegral.integral_congr_ae
+  filter_upwards [hrp] with r hr _
+  change g (r,JetBarrier.flight (r-PositiveIntegral.time T t) p) =
+    h (r,JetBarrier.flight (r-PositiveIntegral.time T t) p) at hr
+  rw [hr]
+
+end BoltzmannNonuniqueness.FlightMeasure
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_PhaseDecompositionNorm
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded representatives that realize the essential upper bound -/
+
+noncomputable section
+
+open MeasureTheory
+open scoped ENNReal
+
+namespace BoltzmannNonuniqueness.PhaseEssSup
+
+theorem ae_abs_le_size {f : JetPrototype.Phase → ℝ} (hfm : Measurable f)
+    {R : ℝ} (hf : ∀ p, |f p| ≤ R) : ∀ᵐ p ∂FlightMeasure.phaseVolume, |f p| ≤ size f := by
+  have hm : MemLp f ∞ FlightMeasure.phaseVolume :=
+    memLp_top_of_bound hfm.aestronglyMeasurable R (ae_of_all _ (fun p => by
+      simpa only [Real.norm_eq_abs] using hf p))
+  simpa only [Real.norm_eq_abs,← toReal_eLpNorm hm.1,size] using ae_le_lpNorm_exponent_top hm
+
+end BoltzmannNonuniqueness.PhaseEssSup
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Approximation_PositiveIntegralPasting
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The positive integral only uses source values on its time interval -/
+
+noncomputable section
+
+open Set
+
+namespace BoltzmannNonuniqueness.PositiveIntegral
+
+theorem value_time_clamp {T : ℝ} (hT : 0 ≤ T) (L : ℝ)
+    (f₀ : JetPrototype.Phase → ℝ) (g : ℝ × JetPrototype.Phase → ℝ) (u : ℝ × JetPrototype.Phase) :
+    value T L JetBarrier.flight f₀ g (time T u.1,u.2) = value T L JetBarrier.flight f₀ g u := by
+  simp only [value,PhaseEssSup.time_idempotent hT]
+
+end BoltzmannNonuniqueness.PositiveIntegral
+
+end
+
+end
+
+section
+
+/-! # Order of the characteristic integral for almost-everywhere data -/
+
+noncomputable section
+
+open MeasureTheory MeasureTheory.Measure
+
+namespace BoltzmannNonuniqueness.FlightMeasure
+
+theorem value_mono_ae {T L S : ℝ} (hT : 0 ≤ T) (hL : 0 ≤ L)
+    {f₀ k₀ : JetPrototype.Phase → ℝ} {g h : ℝ × JetPrototype.Phase → ℝ}
+    (hinit : f₀ ≤ᵐ[phaseVolume] k₀) (hsource : g ≤ᵐ[(volume : Measure ℝ).prod phaseVolume] h)
+    (hgm : Measurable g) (hhm : Measurable h)
+    (hg : ∀ u, |g u| ≤ S) (hh : ∀ u, |h u| ≤ S) (t : ℝ) :
+    (fun p => PositiveIntegral.value T L JetBarrier.flight f₀ g (t,p)) ≤ᵐ[phaseVolume]
+      (fun p => PositiveIntegral.value T L JetBarrier.flight k₀ h (t,p)) := by
+  let τ := PositiveIntegral.time T t
+  have hi := (flight_measurePreserving (-τ)).quasiMeasurePreserving.ae hinit
+  have hs := (spacetime_measurePreserving τ).quasiMeasurePreserving.ae hsource
+  have hr := ae_ae_of_ae_prod
+    ((Measure.measurePreserving_swap (μ := phaseVolume) (ν := volume)).quasiMeasurePreserving.ae hs)
+  filter_upwards [hi,hr] with p hip hrp
+  apply add_le_add (mul_le_mul_of_nonneg_left hip (Real.exp_pos _).le)
+  apply intervalIntegral.integral_mono_ae (PositiveIntegral.time_bounds hT t).1
+    (PositiveIntegral.damped_integrable hT hL GaussianLocal.measurable_flight hgm hg (t,p))
+    (PositiveIntegral.damped_integrable hT hL GaussianLocal.measurable_flight hhm hh (t,p))
+  filter_upwards [hrp] with r hrr
+  exact mul_le_mul_of_nonneg_left hrr (Real.exp_pos _).le
+
+end BoltzmannNonuniqueness.FlightMeasure
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_HotPhysicalSource
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A fixed negligible velocity set for the weighted local construction
+
+The exceptional set depends only on H and its proved quadratic gain bound,
+not on a solution or an iterate. Setting the gain to zero there preserves
+its almost-everywhere collision meaning and gives pointwise bounded sources.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.ChartKernel
+
+namespace BoltzmannNonuniqueness.HotRepresentative
+
+theorem measurable_nonnegativeGain {f g : Velocity → ℝ≥0∞}
+    (hf : Measurable f) (hg : Measurable g) : Measurable (nonnegativeGain f g) := by
+  let : SFinite (gainPairMeasure) := Measure.prod.instSFinite
+  have hl : Measurable (fun p : Velocity × (Velocity × Sphere) =>
+      scatterLeft p.1 p.2.1 p.2.2) := by
+    unfold scatterLeft normalComponent
+    fun_prop
+  have hr : Measurable (fun p : Velocity × (Velocity × Sphere) =>
+      scatterRight p.1 p.2.1 p.2.2) := by
+    unfold scatterRight normalComponent
+    fun_prop
+  have hk : Measurable (fun p : Velocity × (Velocity × Sphere) =>
+      ENNReal.ofReal (collisionKernel p.1 p.2.1 p.2.2) / 2) := by
+    unfold collisionKernel normalComponent
+    fun_prop
+  exact (hk.mul (((hf.comp hl).mul (hg.comp hr)).add
+    ((hg.comp hl).mul (hf.comp hr)))).lintegral_prod_right'
+
+theorem measurableSet_good (q : ℝ) : MeasurableSet (good q) :=
+  measurableSet_le (measurable_nonnegativeGain (measurable_H q).ennreal_ofReal
+    (measurable_H q).ennreal_ofReal)
+    ((measurable_H q).const_mul (HotApplication.realBound q)).ennreal_ofReal
+
+theorem integrable_H_gain {q : ℝ} {v : Velocity} (hv : v ∈ good q) :
+    Integrable (GainOrder.integrand (H q) v) ((volume : Measure Velocity).prod sphereArea) :=
+  GainNonnegative.integrable_of_bound (measurable_H q) (H_nonneg q) v hv
+
+theorem H_gain_bound {q : ℝ} {v : Velocity} (hv : v ∈ good q) :
+    BoltzmannNonuniqueness.gain (fun p => H q p.2) 0 v ≤ HotApplication.realBound q * H q v :=
+  GainNonnegative.gain_le_of_bound (measurable_H q) (H_nonneg q)
+    (mul_nonneg (HotApplication.realBound_pos q).le (H_nonneg q v)) v 0 hv
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem measurable_density {f : X × Velocity → ℝ} (hf : Measurable f) (q : ℝ) :
+    Measurable (density q f) := ((measurable_H q).comp measurable_snd).mul hf
+
+theorem measurable_gain {f : X × Velocity → ℝ} (hf : Measurable f) (q b : ℝ) :
+    Measurable (gain q b f) :=
+  Measurable.ite ((measurableSet_good q).preimage measurable_snd)
+    ((KineticCollisionNullSets.measurable_gain (measurable_density hf q) b).div
+      ((measurable_H q).comp measurable_snd)) measurable_const
+
+theorem measurable_frequency {f : X × Velocity → ℝ} (hf : Measurable f) (q b : ℝ) :
+    Measurable (frequency q b f) :=
+  KineticCollisionNullSets.measurable_frequency (measurable_density hf q) b
+
+end BoltzmannNonuniqueness.HotRepresentative
+
+end
+
+end
+
+section
+
+/-! # Pointwise weighted gain bounds off the fixed exceptional set -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.HotRepresentative
+
+theorem actual_gain_bound {q A : ℝ} {v : Velocity} (hv : v ∈ good q)
+    {f : Velocity → ℝ} (hfm : Measurable f) (hf : ∀ w, 0 ≤ f w)
+    (hfB : ∀ w, f w ≤ A * H q w) (b : ℝ) :
+    CollisionCutoff.gain b f v ≤ A^2 * HotApplication.realBound q * H q v := by
+  have hi := GainOrder.integrable_const_mul A v (integrable_H_gain hv)
+  calc
+    _ ≤ BoltzmannNonuniqueness.gain (fun p => f p.2) 0 v :=
+      CollisionCutoff.gain_le b hfm hf v 0 (GainOrder.integrable_of_le hfm hf hfB v hi)
+    _ ≤ BoltzmannNonuniqueness.gain (fun p => A * H q p.2) 0 v :=
+      GainOrder.gain_mono hfm hf hfB v 0 hi
+    _ = A^2 * BoltzmannNonuniqueness.gain (fun p => H q p.2) 0 v :=
+      GainOrder.gain_const_mul A (H q) v 0
+    _ ≤ A^2 * (HotApplication.realBound q * H q v) :=
+      mul_le_mul_of_nonneg_left (H_gain_bound hv) (sq_nonneg A)
+    _ = _ := by ring
+
+variable {X : Type*} [MeasurableSpace X]
+
+omit [MeasurableSpace X] in
+theorem gain_nonneg {f : X × Velocity → ℝ} (hf : ∀ p, 0 ≤ f p) (q b : ℝ) (p : X × Velocity) :
+    0 ≤ gain q b f p := by
+  unfold gain
+  split_ifs
+  · apply div_nonneg _ (H_nonneg _ _)
+    apply integral_nonneg
+    intro w
+    exact mul_nonneg (mul_nonneg (CollisionCutoff.kernel_nonneg _ _ _ _)
+      (mul_nonneg (H_nonneg _ _) (hf _))) (mul_nonneg (H_nonneg _ _) (hf _))
+  · exact le_rfl
+
+theorem gain_bound {q A : ℝ} (_hA : 0 ≤ A) {f : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p ∧ f p ≤ A) (b : ℝ) (p : X × Velocity) :
+    gain q b f p ≤ A^2 * HotApplication.realBound q := by
+  unfold gain
+  split_ifs with hv
+  · apply (div_le_iff₀ (H_pos q p.2)).mpr
+    apply actual_gain_bound hv
+      ((measurable_density hfm q).comp (measurable_const.prodMk measurable_id))
+      (fun w => mul_nonneg (H_nonneg _ _) (hf _).1)
+    intro w
+    exact (mul_le_mul_of_nonneg_left (hf _).2 (H_nonneg _ _)).trans_eq (mul_comm _ _)
+  · exact mul_nonneg (sq_nonneg A) (HotApplication.realBound_pos q).le
+
+end BoltzmannNonuniqueness.HotRepresentative
+
+end
+
+end
+
+section
+
+/-! # Loss estimates and the collision meaning of weighted representatives -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.HotRepresentative
+
+variable {X : Type*} [MeasurableSpace X]
+
+omit [MeasurableSpace X] in
+theorem density_bounds {q A : ℝ} {f : X × Velocity → ℝ}
+    (hf : ∀ p, 0 ≤ f p ∧ f p ≤ A) (p : X × Velocity) :
+    0 ≤ density q f p ∧ density q f p ≤ A * H q p.2 :=
+  ⟨mul_nonneg (H_nonneg _ _) (hf p).1,
+    (mul_le_mul_of_nonneg_left (hf p).2 (H_nonneg _ _)).trans_eq (mul_comm _ _)⟩
+
+omit [MeasurableSpace X] in
+theorem frequency_nonneg {f : X × Velocity → ℝ} (hf : ∀ p, 0 ≤ f p)
+    (q b : ℝ) (p : X × Velocity) : 0 ≤ frequency q b f p :=
+  CutoffLipschitz.frequency_nonneg (fun _ => mul_nonneg (H_nonneg _ _) (hf _)) b p.2
+
+theorem frequency_bound {q A b : ℝ} (hq : q < 2) (hb : 0 ≤ b)
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p ∧ f p ≤ A)
+    (p : X × Velocity) : frequency q b f p ≤ A * CutoffLipschitz.frequencyConstant q b :=
+  CutoffLipschitz.frequency_bound hq hb
+    ((measurable_density hfm q).comp (measurable_const.prodMk measurable_id))
+    (fun w => (density_bounds hf (p.1,w)).1) (fun w => (density_bounds hf (p.1,w)).2) p.2
+
+end BoltzmannNonuniqueness.HotRepresentative
+
+end
+
+end
+
+section
+
+/-! # Bounded positive source for the H-weighted local equation -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.HotRepresentative
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem measurable_source {f : X × Velocity → ℝ} (hf : Measurable f) (q b L : ℝ) :
+    Measurable (source q b L f) :=
+  (measurable_gain hf q b).add ((measurable_const.sub (measurable_frequency hf q b)).mul hf)
+
+theorem source_bounds {q b L R : ℝ} (hq : q < 2) (hb : 0 ≤ b) (hR : 0 ≤ R)
+    (hL : R * CutoffLipschitz.frequencyConstant q b ≤ L)
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p ∧ f p ≤ R)
+    (p : X × Velocity) :
+    0 ≤ source q b L f p ∧ source q b L f p ≤ HotApplication.realBound q * R^2 + L*R := by
+  have hν := frequency_nonneg (fun p => (hf p).1) q b p
+  have hνB := frequency_bound hq hb hfm hf p
+  have hLp : 0 ≤ L := (mul_nonneg hR (CutoffLipschitz.frequencyConstant_nonneg hb q)).trans hL
+  constructor
+  · exact add_nonneg (gain_nonneg (fun p => (hf p).1) q b p)
+      (mul_nonneg (sub_nonneg.mpr (hνB.trans hL)) (hf p).1)
+  · have hg := gain_bound (q := q) hR hfm hf b p
+    have hl : (L - frequency q b f p) * f p ≤ L*R :=
+      (mul_le_mul_of_nonneg_right (sub_le_self _ hν) (hf p).1).trans
+        (mul_le_mul_of_nonneg_left (hf p).2 hLp)
+    unfold source
+    nlinarith only [hg,hl]
+
+end BoltzmannNonuniqueness.HotRepresentative
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_WeightedJetSolutions
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Monotone and dominated limits for the weighted representative gain -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped Topology
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.HotRepresentative
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem integrable_cutoff {q R : ℝ} {f : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p ∧ f p ≤ R)
+    (b : ℝ) (p : X × Velocity) (hp : p.2 ∈ good q) :
+    Integrable (CollisionCutoff.integrand b (fun v => density q f (p.1,v)) p.2)
+      ((volume : Measure Velocity).prod sphereArea) := by
+  have hm : Measurable (fun v => density q f (p.1,v)) := (measurable_density hfm q).comp (measurable_const.prodMk measurable_id)
+  have hn : ∀ v, 0 ≤ density q f (p.1,v) := fun v => (density_bounds (q := q) hf (p.1,v)).1
+  exact CollisionCutoff.integrable_gain b hm hn p.2
+    (GainOrder.integrable_of_le hm hn (fun v => (density_bounds (q := q) hf (p.1,v)).2) p.2
+      (GainOrder.integrable_const_mul R p.2 (integrable_H_gain hp)))
+
+theorem gain_mono {q R : ℝ} {f g : X × Velocity → ℝ}
+    (hfm : Measurable f) (hgm : Measurable g)
+    (hf : ∀ p, 0 ≤ f p) (hfg : ∀ p, f p ≤ g p) (hg : ∀ p, g p ≤ R)
+    (b : ℝ) (p : X × Velocity) : gain q b f p ≤ gain q b g p := by
+  have hfn p : 0 ≤ f p ∧ f p ≤ R := ⟨hf p,(hfg p).trans (hg p)⟩
+  have hgn p : 0 ≤ g p ∧ g p ≤ R := ⟨(hf p).trans (hfg p),hg p⟩
+  unfold gain
+  split_ifs with hp
+  · apply div_le_div_of_nonneg_right _ (H_nonneg q p.2)
+    apply integral_mono (integrable_cutoff hfm hfn b p hp) (integrable_cutoff hgm hgn b p hp)
+    intro w
+    unfold CollisionCutoff.integrand density
+    have hL := mul_le_mul_of_nonneg_left (hfg (p.1,scatterLeft p.2 w.1 w.2)) (H_nonneg q (scatterLeft p.2 w.1 w.2))
+    have hR := mul_le_mul_of_nonneg_left (hfg (p.1,scatterRight p.2 w.1 w.2)) (H_nonneg q (scatterRight p.2 w.1 w.2))
+    exact mul_le_mul (mul_le_mul_of_nonneg_left hL (CollisionCutoff.kernel_nonneg _ _ _ _)) hR
+      (mul_nonneg (H_nonneg _ _) (hf _))
+      (mul_nonneg (CollisionCutoff.kernel_nonneg _ _ _ _) (mul_nonneg (H_nonneg _ _) (hgn _).1))
+  · exact le_rfl
+
+theorem gain_tendsto {q R : ℝ} (_hR : 0 ≤ R) {f : ℕ → X × Velocity → ℝ} {g : X × Velocity → ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n p, 0 ≤ f n p ∧ f n p ≤ R)
+    (hlim : ∀ p, Tendsto (fun n => f n p) atTop (𝓝 (g p))) (b : ℝ) (p : X × Velocity) :
+    Tendsto (fun n => gain q b (f n) p) atTop (𝓝 (gain q b g p)) := by
+  unfold gain
+  split_ifs with hp
+  · apply Tendsto.div_const
+    apply tendsto_integral_of_dominated_convergence
+      (fun w => R^2 * GainOrder.integrand (H q) p.2 w)
+    · intro n
+      exact (integrable_cutoff (hfm n) (hf n) b p hp).aestronglyMeasurable
+    · exact (integrable_H_gain hp).const_mul _
+    · intro n
+      apply ae_of_all
+      intro w
+      rw [Real.norm_eq_abs, abs_of_nonneg]
+      · apply (CollisionCutoff.integrand_le b (fun v => (density_bounds (q := q) (hf n) (p.1,v)).1) p.2 w).trans
+        have h := GainOrder.integrand_mono (fun v => (density_bounds (q := q) (hf n) (p.1,v)).1)
+          (fun v => (density_bounds (q := q) (hf n) (p.1,v)).2) p.2 w
+        unfold GainOrder.integrand density at h ⊢
+        nlinarith only [h]
+      · exact mul_nonneg (mul_nonneg (CollisionCutoff.kernel_nonneg _ _ _ _)
+          (density_bounds (q := q) (hf n) _).1) (density_bounds (q := q) (hf n) _).1
+    · apply ae_of_all
+      intro w
+      exact ((tendsto_const_nhds.mul (tendsto_const_nhds.mul (hlim _))).mul
+        (tendsto_const_nhds.mul (hlim _)))
+  · exact tendsto_const_nhds
+
+end BoltzmannNonuniqueness.HotRepresentative
+
+end
+
+end
+
+section
+
+/-! # Positive local iteration in the manuscript's singular weighted norm -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem measurable_forcing {f : ℝ × JetPrototype.Phase → ℝ} (hf : Measurable f) (q b L : ℝ) :
+    Measurable (forcing q b L f) :=
+  (HotRepresentative.measurable_source (GaussianLocal.measurable_state hf) q b L).comp (by fun_prop)
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+section
+
+/-! # Finite-color domination for the H-weighted collision gain -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.HotRepresentative
+
+variable {X I : Type*} [MeasurableSpace X]
+
+theorem finite_sum_gain_le {q R : ℝ} (s : Finset I)
+    {c : I → X × Velocity → ℝ} {F : X × Velocity → ℝ}
+    (hcm : ∀ i ∈ s, Measurable (c i)) (hFm : Measurable F)
+    (hc : ∀ i ∈ s, ∀ p, 0 ≤ c i p ∧ c i p ≤ R)
+    (hF : ∀ p, 0 ≤ F p ∧ F p ≤ R)
+    (hSum : ∀ p, ∑ i ∈ s, c i p ≤ F p) (b : ℝ) (p : X × Velocity) :
+    ∑ i ∈ s, gain q b (c i) p ≤ gain q b F p := by
+  classical
+  by_cases hp : p.2 ∈ good q
+  · have hci (i) (hi : i ∈ s) := integrable_cutoff (hcm i hi) (hc i hi) b p hp
+    have hFi := integrable_cutoff hFm hF b p hp
+    have hsumD (v : Velocity) : ∑ i ∈ s, density q (c i) (p.1,v) ≤ density q F (p.1,v) := by
+      unfold density
+      rw [← Finset.mul_sum]
+      exact mul_le_mul_of_nonneg_left (hSum _) (VelocityWeight.H_nonneg _ _)
+    have hcn (i) (hi : i ∈ s) (v : Velocity) : 0 ≤ density q (c i) (p.1,v) :=
+      (density_bounds (q := q) (hc i hi) (p.1,v)).1
+    have hFn (v : Velocity) : 0 ≤ density q F (p.1,v) := (density_bounds (q := q) hF (p.1,v)).1
+    simp only [gain,ite_eq_left hp]
+    rw [← Finset.sum_div]
+    apply div_le_div_of_nonneg_right _ (VelocityWeight.H_nonneg q p.2)
+    change (∑ i ∈ s, ∫ w, CollisionCutoff.integrand b
+      (fun v => density q (c i) (p.1,v)) p.2 w ∂((volume : Measure Velocity).prod sphereArea)) ≤ _
+    rw [← integral_finsetSum _ hci]
+    apply integral_mono (integrable_finsetSum s hci) hFi
+    intro w
+    have hdiag : (∑ i ∈ s, density q (c i) (p.1,scatterLeft p.2 w.1 w.2) *
+        density q (c i) (p.1,scatterRight p.2 w.1 w.2)) ≤
+        density q F (p.1,scatterLeft p.2 w.1 w.2) * density q F (p.1,scatterRight p.2 w.1 w.2) := by
+      calc
+        _ ≤ ∑ i ∈ s, density q (c i) (p.1,scatterLeft p.2 w.1 w.2) *
+            (∑ j ∈ s, density q (c j) (p.1,scatterRight p.2 w.1 w.2)) := by
+          apply Finset.sum_le_sum
+          intro i hi
+          exact mul_le_mul_of_nonneg_left (Finset.single_le_sum (fun j hj => hcn j hj _) hi) (hcn i hi _)
+        _ = (∑ i ∈ s, density q (c i) (p.1,scatterLeft p.2 w.1 w.2)) *
+            (∑ j ∈ s, density q (c j) (p.1,scatterRight p.2 w.1 w.2)) := by rw [Finset.sum_mul]
+        _ ≤ _ := mul_le_mul (hsumD _) (hsumD _) (Finset.sum_nonneg (fun i hi => hcn i hi _)) (hFn _)
+    unfold CollisionCutoff.integrand
+    simp_rw [mul_assoc]
+    rw [← Finset.mul_sum]
+    exact mul_le_mul_of_nonneg_left hdiag (CollisionCutoff.kernel_nonneg _ _ _ _)
+  · simp only [gain,ite_eq_right hp,Finset.sum_const_zero,le_refl]
+
+end BoltzmannNonuniqueness.HotRepresentative
+
+end
+
+end
+
+section
+
+/-! # Common-loss cold source in the singular weighted space -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.HotRepresentative
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem measurable_coldSource {F c : X × Velocity → ℝ} (hFm : Measurable F) (hcm : Measurable c)
+    (q b L : ℝ) : Measurable (coldSource q b L F c) :=
+  (measurable_gain hcm q b).add ((measurable_const.sub (measurable_frequency hFm q b)).mul hcm)
+
+theorem coldSource_bounds {q b L R : ℝ} (hq : q < 2) (hb : 0 ≤ b) (hR : 0 ≤ R)
+    (hL : R*CutoffLipschitz.frequencyConstant q b ≤ L)
+    {F c : X × Velocity → ℝ} (hFm : Measurable F) (hcm : Measurable c)
+    (hF : ∀ p, 0 ≤ F p ∧ F p ≤ R) (hc : ∀ p, 0 ≤ c p ∧ c p ≤ R) (p : X × Velocity) :
+    0 ≤ coldSource q b L F c p ∧ coldSource q b L F c p ≤ HotApplication.realBound q*R^2+L*R := by
+  have hν := frequency_nonneg (fun p => (hF p).1) q b p
+  have hνB := frequency_bound hq hb hFm hF p
+  have hLp : 0 ≤ L := (mul_nonneg hR (CutoffLipschitz.frequencyConstant_nonneg hb q)).trans hL
+  constructor
+  · exact add_nonneg (gain_nonneg (fun p => (hc p).1) q b p)
+      (mul_nonneg (sub_nonneg.mpr (hνB.trans hL)) (hc p).1)
+  · have hg := gain_bound (q := q) hR hcm hc b p
+    have hl : (L-frequency q b F p)*c p ≤ L*R :=
+      (mul_le_mul_of_nonneg_right (sub_le_self _ hν) (hc p).1).trans
+        (mul_le_mul_of_nonneg_left (hc p).2 hLp)
+    unfold coldSource
+    nlinarith only [hg,hl]
+
+theorem coldSource_mono {q b L R : ℝ} (hq : q < 2) (hb : 0 ≤ b)
+    (hL : R*CutoffLipschitz.frequencyConstant q b ≤ L)
+    {F c d : X × Velocity → ℝ} (hFm : Measurable F) (hcm : Measurable c) (hdm : Measurable d)
+    (hF : ∀ p, 0 ≤ F p ∧ F p ≤ R) (hcn : ∀ p, 0 ≤ c p)
+    (hcd : ∀ p, c p ≤ d p) (hdR : ∀ p, d p ≤ R) (p : X × Velocity) :
+    coldSource q b L F c p ≤ coldSource q b L F d p := by
+  have hν : frequency q b F p ≤ L := (frequency_bound hq hb hFm hF p).trans hL
+  exact add_le_add (gain_mono hcm hdm hcn hcd hdR b p)
+    (mul_le_mul_of_nonneg_left (hcd p) (sub_nonneg.mpr hν))
+
+theorem coldSource_tendsto {q R : ℝ} (hR : 0 ≤ R) (b L : ℝ) (F : X × Velocity → ℝ)
+    {c : ℕ → X × Velocity → ℝ} {d : X × Velocity → ℝ}
+    (hcm : ∀ n, Measurable (c n)) (hc : ∀ n p, 0 ≤ c n p ∧ c n p ≤ R)
+    (hlim : ∀ p, Tendsto (fun n => c n p) atTop (𝓝 (d p))) (p : X × Velocity) :
+    Tendsto (fun n => coldSource q b L F (c n) p) atTop (𝓝 (coldSource q b L F d p)) :=
+  (gain_tendsto hR hcm hc hlim b p).add (tendsto_const_nhds.mul (hlim p))
+
+end BoltzmannNonuniqueness.HotRepresentative
+
+end
+
+end
+
+section
+
+/-! # Positive cold iteration beneath the H-weighted total solution -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem measurable_coldForcing {F c : ℝ × JetPrototype.Phase → ℝ}
+    (hFm : Measurable F) (hcm : Measurable c) (q b L : ℝ) : Measurable (coldForcing q b L F c) :=
+  (HotRepresentative.measurable_coldSource (GaussianLocal.measurable_state hFm)
+    (GaussianLocal.measurable_state hcm) q b L).comp (by fun_prop)
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+section
+
+/-! # Weighted collision representatives respect equality almost everywhere -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.HotRepresentative
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem density_congr (μ : Measure X) {f g : X × Velocity → ℝ}
+    (hfg : f =ᵐ[μ.prod volume] g) (q : ℝ) : density q f =ᵐ[μ.prod volume] density q g := by
+  filter_upwards [hfg] with p hp
+  unfold density
+  rw [hp]
+
+theorem gain_congr (μ : Measure X) [SFinite μ] {f g : X × Velocity → ℝ}
+    (hfg : f =ᵐ[μ.prod volume] g) (q b : ℝ) : gain q b f =ᵐ[μ.prod volume] gain q b g := by
+  have hh := KineticCollisionNullSets.gain_congr μ (density_congr μ hfg q) b
+  filter_upwards [hh] with p hp
+  unfold gain
+  split_ifs <;> simp only [hp]
+
+end BoltzmannNonuniqueness.HotRepresentative
+
+end
+
+end
+
+section
+
+/-! # Spatial covariance of the constructed weighted cold solutions -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.JetPrototype
+
+namespace BoltzmannNonuniqueness.WeightedTranslation
+
+theorem measurable_shift (y : Space) : Measurable (shift y) := by
+  unfold shift
+  fun_prop
+
+end BoltzmannNonuniqueness.WeightedTranslation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_WeightedHotRegularity
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Domination of finite sums of cold sources by the total source -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.HotRepresentative
+
+variable {X I : Type*} [MeasurableSpace X]
+
+theorem finite_sum_coldSource_le {q b L R : ℝ} (hq : q < 2) (hb : 0 ≤ b)
+    (hL : R*CutoffLipschitz.frequencyConstant q b ≤ L) (s : Finset I)
+    {c : I → X × Velocity → ℝ} {F : X × Velocity → ℝ}
+    (hcm : ∀ i ∈ s, Measurable (c i)) (hFm : Measurable F)
+    (hc : ∀ i ∈ s, ∀ p, 0 ≤ c i p ∧ c i p ≤ R) (hF : ∀ p, 0 ≤ F p ∧ F p ≤ R)
+    (hSum : ∀ p, ∑ i ∈ s, c i p ≤ F p) (p : X × Velocity) :
+    ∑ i ∈ s, coldSource q b L F (c i) p ≤ source q b L F p := by
+  have hν : frequency q b F p ≤ L := (frequency_bound hq hb hFm hF p).trans hL
+  unfold coldSource source
+  rw [Finset.sum_add_distrib,← Finset.mul_sum]
+  exact add_le_add (finite_sum_gain_le s hcm hFm hc hF hSum b p)
+    (mul_le_mul_of_nonneg_left (hSum p) (sub_nonneg.mpr hν))
+
+end BoltzmannNonuniqueness.HotRepresentative
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_HotCollisionDecomposition
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Replacing only the hot remainder by an essential-norm representative -/
+
+noncomputable section
+
+open MeasureTheory MeasureTheory.Measure
+
+namespace BoltzmannNonuniqueness.HotCanonical
+
+theorem state_congr {F G : ℝ × JetPrototype.Phase → ℝ}
+    (hFG : F =ᵐ[(volume : Measure ℝ).prod FlightMeasure.phaseVolume] G) :
+    GaussianLocal.state F =ᵐ[((volume : Measure ℝ).prod JetPrototype.spaceVolume).prod volume]
+      GaussianLocal.state G :=
+  (measurePreserving_prodAssoc (volume : Measure ℝ) JetPrototype.spaceVolume
+    (volume : Measure Velocity)).quasiMeasurePreserving.ae_eq_comp hFG
+
+end BoltzmannNonuniqueness.HotCanonical
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_WeightedNetLoss
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Mild equations stable under changing spatial representatives -/
+
+noncomputable section
+
+open MeasureTheory MeasureTheory.Measure Set
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem slice_congr_spacetime {F G : ℝ × JetPrototype.Phase → ℝ}
+    (hFm : Measurable F) (hGm : Measurable G)
+    (hFG : ∀ t, (fun p => F (t,p)) =ᵐ[FlightMeasure.phaseVolume] (fun p => G (t,p))) :
+    F =ᵐ[spacetimeVolume] G :=
+  (ae_prod_iff_ae_ae (measurableSet_eq_fun hFm hGm)).mpr (ae_of_all _ hFG)
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+section
+
+/-! # Cold-source equality and finite-family domination almost everywhere -/
+
+noncomputable section
+
+open MeasureTheory MeasureTheory.Measure
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem coldForcing_congr_cold {c d : ℝ × JetPrototype.Phase → ℝ}
+    (hcd : c =ᵐ[spacetimeVolume] d) (q b L : ℝ) (F : ℝ × JetPrototype.Phase → ℝ) :
+    coldForcing q b L F c =ᵐ[spacetimeVolume] coldForcing q b L F d := by
+  have hs := HotCanonical.state_congr hcd
+  have hg := HotRepresentative.gain_congr ((volume : Measure ℝ).prod JetPrototype.spaceVolume) hs q b
+  have he : HotRepresentative.coldSource q b L (GaussianLocal.state F) (GaussianLocal.state c) =ᵐ[
+      ((volume : Measure ℝ).prod JetPrototype.spaceVolume).prod volume]
+      HotRepresentative.coldSource q b L (GaussianLocal.state F) (GaussianLocal.state d) := by
+    filter_upwards [hs,hg] with u hu hgu
+    unfold HotRepresentative.coldSource
+    rw [hu,hgu]
+  exact (MeasurePreserving.symm MeasurableEquiv.prodAssoc
+    (measurePreserving_prodAssoc (volume : Measure ℝ) JetPrototype.spaceVolume
+      (volume : Measure Velocity))).quasiMeasurePreserving.ae_eq_comp he
+
+theorem finite_coldForcing_le_ae {I : Type*} [Countable I] {q b L R : ℝ}
+    (hq : q < 2) (hb : 0 ≤ b) (hR : 0 ≤ R)
+    (hloss : R*CutoffLipschitz.frequencyConstant q b ≤ L) (s : Finset I)
+    {F : ℝ × JetPrototype.Phase → ℝ} {c : I → ℝ × JetPrototype.Phase → ℝ}
+    (hFm : Measurable F) (hcm : ∀ i ∈ s, Measurable (c i))
+    (hF : ∀ u, 0 ≤ F u ∧ F u ≤ R) (hc : ∀ i ∈ s, ∀ u, 0 ≤ c i u ∧ c i u ≤ R)
+    (hSum : ∀ᵐ u ∂spacetimeVolume, ∑ i ∈ s, c i u ≤ F u) :
+    ∀ᵐ u ∂spacetimeVolume, ∑ i ∈ s, coldForcing q b L F (c i) u ≤ forcing q b L F u := by
+  classical
+  let d (i : I) (u : ℝ × JetPrototype.Phase) := if (∑ j ∈ s, c j u) ≤ F u then c i u else 0
+  have hm : MeasurableSet {u : ℝ × JetPrototype.Phase | (∑ j ∈ s, c j u) ≤ F u} :=
+    measurableSet_le (Finset.measurable_sum s hcm) hFm
+  have hdm (i) (hi : i ∈ s) : Measurable (d i) := (hcm i hi).ite hm measurable_const
+  have hdb (i) (hi : i ∈ s) (u) : 0 ≤ d i u ∧ d i u ≤ R := by
+    dsimp [d]
+    split_ifs
+    · exact hc i hi u
+    · exact ⟨le_rfl,hR⟩
+  have hds (u) : (∑ i ∈ s, d i u) ≤ F u := by
+    by_cases hu : (∑ i ∈ s, c i u) ≤ F u
+    · simpa only [d,ite_eq_left hu] using hu
+    · simpa only [d,ite_eq_right hu,Finset.sum_const_zero] using (hF u).1
+  have hbound (u) : (∑ i ∈ s, coldForcing q b L F (d i) u) ≤ forcing q b L F u :=
+    HotRepresentative.finite_sum_coldSource_le hq hb hloss s
+      (fun i hi => GaussianLocal.measurable_state (hdm i hi)) (GaussianLocal.measurable_state hFm)
+      (fun i hi p => hdb i hi (p.1.1,(p.1.2,p.2)))
+      (fun p => hF (p.1.1,(p.1.2,p.2))) (fun p => hds (p.1.1,(p.1.2,p.2))) _
+  have he (i : I) : d i =ᵐ[spacetimeVolume] c i := hSum.mono (fun u hu => ite_eq_left hu)
+  have hce : ∀ᵐ u ∂spacetimeVolume, ∀ i, coldForcing q b L F (d i) u = coldForcing q b L F (c i) u :=
+    ae_all_iff.mpr (fun i => coldForcing_congr_cold (he i) q b L F)
+  filter_upwards [hce] with u hu
+  have h := hbound u
+  simpa only [hu] using h
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_ClippedColdFiniteLimit
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded positive cold iteration without a pointwise total fixed point -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem clippedCold_properties {q b L T R : ℝ} (hq : q < 2) (hb : 0 ≤ b)
+    (hL : 0 ≤ L) (hT : 0 ≤ T) (hR : 0 ≤ R)
+    (hloss : R*CutoffLipschitz.frequencyConstant q b ≤ L)
+    {F : ℝ × JetPrototype.Phase → ℝ} {c₀ : JetPrototype.Phase → ℝ}
+    (hFm : Measurable F) (hc₀m : Measurable c₀)
+    (hF : ∀ u, 0 ≤ F u ∧ F u ≤ R) (hc₀ : ∀ p, 0 ≤ c₀ p ∧ c₀ p ≤ R)
+    (n : ℕ) : Measurable (clippedColdPicard q b L T F c₀ n) ∧
+      ∀ u, 0 ≤ clippedColdPicard q b L T F c₀ n u ∧ clippedColdPicard q b L T F c₀ n u ≤ F u := by
+  let S := HotApplication.realBound q*R^2+L*R
+  have hS : 0 ≤ S := by
+    have h := (HotApplication.realBound_pos q).le
+    dsimp [S]
+    positivity
+  induction n with
+  | zero => exact ⟨measurable_const,fun u => ⟨le_rfl,(hF u).1⟩⟩
+  | succ n ih =>
+    have hcb (u) : 0 ≤ clippedColdPicard q b L T F c₀ n u ∧
+        clippedColdPicard q b L T F c₀ n u ≤ R := ⟨(ih.2 u).1,(ih.2 u).2.trans (hF u).2⟩
+    have hgm := measurable_coldForcing hFm ih.1 q b L
+    have hgb (u) : 0 ≤ coldForcing q b L F (clippedColdPicard q b L T F c₀ n) u ∧
+        coldForcing q b L F (clippedColdPicard q b L T F c₀ n) u ≤ S :=
+      HotRepresentative.coldSource_bounds hq hb hR hloss (GaussianLocal.measurable_state hFm)
+        (GaussianLocal.measurable_state ih.1)
+        (fun p => hF (p.1.1,(p.1.2,p.2))) (fun p => hcb (p.1.1,(p.1.2,p.2))) _
+    refine ⟨hFm.min (PositiveIntegral.measurable_value hT GaussianLocal.measurable_flight hc₀m hgm),?_⟩
+    intro u
+    exact ⟨le_min (hF u).1
+      (PositiveIntegral.value_bounds hT hL hR hS JetBarrier.flight hc₀ hgb u).1,min_le_left _ _⟩
+
+theorem clippedCold_monotone {q b L T R : ℝ} (hq : q < 2) (hb : 0 ≤ b)
+    (hL : 0 ≤ L) (hT : 0 ≤ T) (hR : 0 ≤ R)
+    (hloss : R*CutoffLipschitz.frequencyConstant q b ≤ L)
+    {F : ℝ × JetPrototype.Phase → ℝ} {c₀ : JetPrototype.Phase → ℝ}
+    (hFm : Measurable F) (hc₀m : Measurable c₀)
+    (hF : ∀ u, 0 ≤ F u ∧ F u ≤ R) (hc₀ : ∀ p, 0 ≤ c₀ p ∧ c₀ p ≤ R)
+    (u : ℝ × JetPrototype.Phase) : Monotone (fun n => clippedColdPicard q b L T F c₀ n u) := by
+  have hp := clippedCold_properties hq hb hL hT hR hloss hFm hc₀m hF hc₀
+  have hcb (n) (u) : 0 ≤ clippedColdPicard q b L T F c₀ n u ∧
+      clippedColdPicard q b L T F c₀ n u ≤ R :=
+    ⟨((hp n).2 u).1,((hp n).2 u).2.trans (hF u).2⟩
+  have hgb (n) (u) : 0 ≤ coldForcing q b L F (clippedColdPicard q b L T F c₀ n) u ∧
+      coldForcing q b L F (clippedColdPicard q b L T F c₀ n) u ≤ HotApplication.realBound q*R^2+L*R :=
+    HotRepresentative.coldSource_bounds hq hb hR hloss (GaussianLocal.measurable_state hFm)
+      (GaussianLocal.measurable_state (hp n).1)
+      (fun p => hF (p.1.1,(p.1.2,p.2))) (fun p => hcb n (p.1.1,(p.1.2,p.2))) _
+  have hstep : ∀ n u, clippedColdPicard q b L T F c₀ n u ≤ clippedColdPicard q b L T F c₀ (n+1) u := by
+    intro n
+    induction n with
+    | zero => intro u; exact ((hp 1).2 u).1
+    | succ n ih =>
+      intro u
+      apply min_le_min_left
+      apply PositiveIntegral.value_mono hT hL GaussianLocal.measurable_flight (fun _ => le_rfl)
+        (measurable_coldForcing hFm (hp n).1 q b L)
+        (measurable_coldForcing hFm (hp (n+1)).1 q b L)
+        (fun z => by rw [abs_of_nonneg (hgb n z).1]; exact (hgb n z).2)
+        (fun z => by rw [abs_of_nonneg (hgb (n+1) z).1]; exact (hgb (n+1) z).2)
+      intro p
+      exact HotRepresentative.coldSource_mono hq hb hloss (GaussianLocal.measurable_state hFm)
+        (GaussianLocal.measurable_state (hp n).1) (GaussianLocal.measurable_state (hp (n+1)).1)
+        (fun p => hF (p.1.1,(p.1.2,p.2))) (fun p => (hcb n (p.1.1,(p.1.2,p.2))).1)
+        (fun p => ih (p.1.1,(p.1.2,p.2))) (fun p => (hcb (n+1) (p.1.1,(p.1.2,p.2))).2) _
+  exact monotone_nat_of_le_succ (fun n => hstep n u)
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+section
+
+/-! # The bounded monotone cold limit for a measurable total state -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem clippedCold_solution {q b L T R : ℝ} (hq : q < 2) (hb : 0 ≤ b)
+    (hL : 0 ≤ L) (hT : 0 ≤ T) (hR : 0 ≤ R)
+    (hloss : R*CutoffLipschitz.frequencyConstant q b ≤ L)
+    {F : ℝ × JetPrototype.Phase → ℝ} {c₀ : JetPrototype.Phase → ℝ}
+    (hFm : Measurable F) (hc₀m : Measurable c₀)
+    (hF : ∀ u, 0 ≤ F u ∧ F u ≤ R) (hc₀ : ∀ p, 0 ≤ c₀ p ∧ c₀ p ≤ R) :
+    Measurable (clippedColdLimit q b L T F c₀) ∧
+      (∀ u, 0 ≤ clippedColdLimit q b L T F c₀ u ∧ clippedColdLimit q b L T F c₀ u ≤ F u) ∧
+      (∀ u, clippedColdLimit q b L T F c₀ u = min (F u)
+        (PositiveIntegral.value T L JetBarrier.flight c₀
+          (coldForcing q b L F (clippedColdLimit q b L T F c₀)) u)) ∧
+      ∀ u, Tendsto (fun n => clippedColdPicard q b L T F c₀ n u) atTop
+        (𝓝 (clippedColdLimit q b L T F c₀ u)) := by
+  let c := clippedColdLimit q b L T F c₀
+  let u := clippedColdPicard q b L T F c₀
+  have hp := clippedCold_properties hq hb hL hT hR hloss hFm hc₀m hF hc₀
+  have hcb (n) (z) : 0 ≤ u n z ∧ u n z ≤ R :=
+    ⟨((hp n).2 z).1,((hp n).2 z).2.trans (hF z).2⟩
+  have hgb (n) (z) : 0 ≤ coldForcing q b L F (u n) z ∧
+      coldForcing q b L F (u n) z ≤ HotApplication.realBound q*R^2+L*R :=
+    HotRepresentative.coldSource_bounds hq hb hR hloss (GaussianLocal.measurable_state hFm)
+      (GaussianLocal.measurable_state (hp n).1)
+      (fun p => hF (p.1.1,(p.1.2,p.2))) (fun p => hcb n (p.1.1,(p.1.2,p.2))) _
+  have hmono (z) : Monotone (fun n => u n z) :=
+    clippedCold_monotone hq hb hL hT hR hloss hFm hc₀m hF hc₀ z
+  have hbdd (z) : BddAbove (Set.range (fun n => u n z)) :=
+    ⟨F z,by rintro _ ⟨n,rfl⟩; exact ((hp n).2 z).2⟩
+  have hlim (z) : Tendsto (fun n => u n z) atTop (𝓝 (c z)) :=
+    tendsto_atTop_ciSup (hmono z) (hbdd z)
+  have hcm : Measurable c := measurable_of_tendsto_metrizable (fun n => (hp n).1)
+    (tendsto_pi_nhds.mpr hlim)
+  have hbound (z) : 0 ≤ c z ∧ c z ≤ F z :=
+    ⟨(le_ciSup (hbdd z) 0 : u 0 z ≤ c z),ciSup_le (fun n => ((hp n).2 z).2)⟩
+  refine ⟨hcm,hbound,?_,hlim⟩
+  intro z
+  have hsource (p) : Tendsto (fun n => coldForcing q b L F (u n) p) atTop
+      (𝓝 (coldForcing q b L F c p)) :=
+    HotRepresentative.coldSource_tendsto hR b L (GaussianLocal.state F)
+      (fun n => GaussianLocal.measurable_state (hp n).1)
+      (fun n p => hcb n (p.1.1,(p.1.2,p.2)))
+      (fun p => hlim (p.1.1,(p.1.2,p.2))) _
+  have hv := PositiveIntegral.value_tendsto hT hL GaussianLocal.measurable_flight c₀
+    (fun n => measurable_coldForcing hFm (hp n).1 q b L)
+    (fun n p => by rw [abs_of_nonneg (hgb n p).1]; exact (hgb n p).2) hsource z
+  have hnext : Tendsto (fun n => u (n+1) z) atTop (𝓝 (c z)) :=
+    (hlim z).comp (tendsto_add_atTop_nat 1)
+  exact tendsto_nhds_unique hnext (tendsto_const_nhds.min hv)
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+section
+
+/-! # Finite sums of clipped cold iterates stay below a mild total solution -/
+
+noncomputable section
+
+open MeasureTheory MeasureTheory.Measure
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem clippedCold_finite_picard {I : Type*} [Countable I] {q b L T R : ℝ}
+    (hq : q < 2) (hb : 0 ≤ b) (hL : 0 ≤ L) (hT : 0 ≤ T) (hR : 0 ≤ R)
+    (hloss : R*CutoffLipschitz.frequencyConstant q b ≤ L) (s : Finset I)
+    {F : ℝ × JetPrototype.Phase → ℝ} {F₀ : JetPrototype.Phase → ℝ}
+    {c₀ : I → JetPrototype.Phase → ℝ}
+    (hFm : Measurable F) (hc₀m : ∀ i, Measurable (c₀ i))
+    (hF : ∀ u, 0 ≤ F u ∧ F u ≤ R) (hc₀ : ∀ i p, 0 ≤ c₀ i p ∧ c₀ i p ≤ R)
+    (hSum₀ : ∀ p, ∑ i ∈ s, c₀ i p ≤ F₀ p)
+    (hFeq : ∀ t, (fun p => F (t,p)) =ᵐ[FlightMeasure.phaseVolume]
+      (fun p => PositiveIntegral.value T L JetBarrier.flight F₀ (forcing q b L F) (t,p))) :
+    ∀ n t, ∀ᵐ p ∂FlightMeasure.phaseVolume, ∑ i ∈ s, clippedColdPicard q b L T F (c₀ i) n (t,p) ≤ F (t,p) := by
+  let S := HotApplication.realBound q*R^2+L*R
+  have hS : 0 ≤ S := by
+    have hg := (HotApplication.realBound_pos q).le
+    dsimp [S]
+    positivity
+  have hp (i) := clippedCold_properties hq hb hL hT hR hloss hFm (hc₀m i) hF (hc₀ i)
+  have hcb (i n u) : 0 ≤ clippedColdPicard q b L T F (c₀ i) n u ∧
+      clippedColdPicard q b L T F (c₀ i) n u ≤ R :=
+    ⟨((hp i n).2 u).1,((hp i n).2 u).2.trans (hF u).2⟩
+  have hgb (i n u) : 0 ≤ coldForcing q b L F (clippedColdPicard q b L T F (c₀ i) n) u ∧
+      coldForcing q b L F (clippedColdPicard q b L T F (c₀ i) n) u ≤ S :=
+    HotRepresentative.coldSource_bounds hq hb hR hloss (GaussianLocal.measurable_state hFm)
+      (GaussianLocal.measurable_state (hp i n).1)
+      (fun p => hF (p.1.1,(p.1.2,p.2))) (fun p => hcb i n (p.1.1,(p.1.2,p.2))) _
+  have hfb (u) : 0 ≤ forcing q b L F u ∧ forcing q b L F u ≤ S :=
+    HotRepresentative.source_bounds hq hb hR hloss (GaussianLocal.measurable_state hFm)
+      (fun p => hF (p.1.1,(p.1.2,p.2))) _
+  intro n
+  induction n with
+  | zero =>
+    intro t
+    exact ae_of_all _ (fun p => by simpa only [clippedColdPicard,Finset.sum_const_zero] using (hF (t,p)).1)
+  | succ n ih =>
+    let g (i : I) := coldForcing q b L F (clippedColdPicard q b L T F (c₀ i) n)
+    have hgm (i) : Measurable (g i) := measurable_coldForcing hFm (hp i n).1 q b L
+    have hsum : ∀ᵐ u ∂spacetimeVolume, ∑ i ∈ s, clippedColdPicard q b L T F (c₀ i) n u ≤ F u :=
+      (ae_prod_iff_ae_ae (measurableSet_le (Finset.measurable_sum s (fun i _ => (hp i n).1)) hFm)).mpr
+        (ae_of_all _ ih)
+    have hsource := finite_coldForcing_le_ae hq hb hR hloss s hFm (fun i _ => (hp i n).1)
+      hF (fun i _ => hcb i n) hsum
+    have hsumabs (u) : |∑ i ∈ s, g i u| ≤ (s.card+1 : ℕ)*S := by
+      rw [abs_of_nonneg (Finset.sum_nonneg (fun i _ => (hgb i n u).1))]
+      calc
+        _ ≤ ∑ _i ∈ s, S := Finset.sum_le_sum (fun i _ => (hgb i n u).2)
+        _ = (s.card : ℝ)*S := by simp
+        _ ≤ (s.card+1 : ℕ)*S := mul_le_mul_of_nonneg_right (by norm_num) hS
+    have hfabs (u) : |forcing q b L F u| ≤ (s.card+1 : ℕ)*S := by
+      rw [abs_of_nonneg (hfb u).1]
+      have hcard : (1:ℝ) ≤ (s.card+1 : ℕ) := by norm_num
+      have hmul := mul_le_mul_of_nonneg_right hcard hS
+      exact (hfb u).2.trans (by simpa only [one_mul] using hmul)
+    intro t
+    have hv := FlightMeasure.value_mono_ae hT hL (ae_of_all _ hSum₀) hsource
+      (Finset.measurable_sum s (fun i _ => hgm i)) (measurable_forcing hFm q b L) hsumabs hfabs t
+    filter_upwards [hv,hFeq t] with p hvp hfp
+    have hsumvalue := PositiveIntegral.value_finsetSum hT hL GaussianLocal.measurable_flight s c₀ g
+      (fun i _ => hgm i) (fun i _ u => by rw [abs_of_nonneg (hgb i n u).1]; exact (hgb i n u).2) (t,p)
+    calc
+      _ ≤ ∑ i ∈ s, PositiveIntegral.value T L JetBarrier.flight (c₀ i) (g i) (t,p) :=
+        Finset.sum_le_sum (fun i _ => min_le_right _ _)
+      _ = _ := hsumvalue
+      _ ≤ _ := hvp
+      _ = F (t,p) := hfp.symm
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+section
+
+/-! # The clipping is inactive almost everywhere for a mild total solution -/
+
+noncomputable section
+
+open MeasureTheory Set
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem clippedCold_mildAE {q b L T R : ℝ} (hq : q < 2) (hb : 0 ≤ b)
+    (hL : 0 ≤ L) (hT : 0 ≤ T) (hR : 0 ≤ R)
+    (hloss : R*CutoffLipschitz.frequencyConstant q b ≤ L)
+    {F : ℝ × JetPrototype.Phase → ℝ} {F₀ c₀ : JetPrototype.Phase → ℝ}
+    (hFm : Measurable F) (hc₀m : Measurable c₀)
+    (hF : ∀ u, 0 ≤ F u ∧ F u ≤ R) (hc₀ : ∀ p, 0 ≤ c₀ p ∧ c₀ p ≤ R)
+    (hcF₀ : ∀ p, c₀ p ≤ F₀ p) (hFeq : MildAE q b L T F₀ F) :
+    ColdMildAE q b L T F c₀ (clippedColdLimit q b L T F c₀) := by
+  let c := clippedColdLimit q b L T F c₀
+  have hc := clippedCold_solution hq hb hL hT hR hloss hFm hc₀m hF hc₀
+  have hcb (u) : 0 ≤ c u ∧ c u ≤ R := ⟨(hc.2.1 u).1,(hc.2.1 u).2.trans (hF u).2⟩
+  have hgb (u : ℝ × JetPrototype.Phase) : 0 ≤ coldForcing q b L F c u ∧
+      coldForcing q b L F c u ≤ HotApplication.realBound q*R^2+L*R :=
+    HotRepresentative.coldSource_bounds hq hb hR hloss
+    (GaussianLocal.measurable_state hFm) (GaussianLocal.measurable_state hc.1)
+    (fun p => hF (p.1.1,(p.1.2,p.2))) (fun p => hcb (p.1.1,(p.1.2,p.2))) ((u.1,u.2.1),u.2.2)
+  have hfb (u : ℝ × JetPrototype.Phase) : 0 ≤ forcing q b L F u ∧
+      forcing q b L F u ≤ HotApplication.realBound q*R^2+L*R :=
+    HotRepresentative.source_bounds hq hb hR hloss (GaussianLocal.measurable_state hFm)
+    (fun p => hF (p.1.1,(p.1.2,p.2))) ((u.1,u.2.1),u.2.2)
+  have horder (u) : coldForcing q b L F c u ≤ forcing q b L F u :=
+    HotRepresentative.coldSource_mono hq hb hloss
+      (GaussianLocal.measurable_state hFm) (GaussianLocal.measurable_state hc.1)
+      (GaussianLocal.measurable_state hFm) (fun p => hF (p.1.1,(p.1.2,p.2)))
+      (fun p => (hcb (p.1.1,(p.1.2,p.2))).1)
+      (fun p => (hc.2.1 (p.1.1,(p.1.2,p.2))).2)
+      (fun p => (hF (p.1.1,(p.1.2,p.2))).2) _
+  have hvalue (u) := PositiveIntegral.value_mono hT hL GaussianLocal.measurable_flight hcF₀
+    (measurable_coldForcing hFm hc.1 q b L) (measurable_forcing hFm q b L)
+    (fun u => by rw [abs_of_nonneg (hgb u).1]; exact (hgb u).2)
+    (fun u => by rw [abs_of_nonneg (hfb u).1]; exact (hfb u).2) horder u
+  intro t ht
+  filter_upwards [hFeq t ht] with p hp
+  have hv := hvalue (t,p)
+  change PositiveIntegral.value T L JetBarrier.flight c₀ (coldForcing q b L F c) (t,p) ≤ _ at hv
+  rw [← hp] at hv
+  rw [hc.2.2.1 (t,p),min_eq_right hv]
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+section
+
+/-! # Finite-family domination passes to the cold limits -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem clippedCold_finite_limit {I : Type*} [Countable I] {q b L T R : ℝ}
+    (hq : q < 2) (hb : 0 ≤ b) (hL : 0 ≤ L) (hT : 0 ≤ T) (hR : 0 ≤ R)
+    (hloss : R*CutoffLipschitz.frequencyConstant q b ≤ L) (s : Finset I)
+    {F : ℝ × JetPrototype.Phase → ℝ} {F₀ : JetPrototype.Phase → ℝ}
+    {c₀ : I → JetPrototype.Phase → ℝ}
+    (hFm : Measurable F) (hc₀m : ∀ i, Measurable (c₀ i))
+    (hF : ∀ u, 0 ≤ F u ∧ F u ≤ R) (hc₀ : ∀ i p, 0 ≤ c₀ i p ∧ c₀ i p ≤ R)
+    (hSum₀ : ∀ p, ∑ i ∈ s, c₀ i p ≤ F₀ p)
+    (hFeq : ∀ t, (fun p => F (t,p)) =ᵐ[FlightMeasure.phaseVolume]
+      (fun p => PositiveIntegral.value T L JetBarrier.flight F₀ (forcing q b L F) (t,p))) :
+    ∀ t, ∀ᵐ p ∂FlightMeasure.phaseVolume,
+      ∑ i ∈ s, clippedColdLimit q b L T F (c₀ i) (t,p) ≤ F (t,p) := by
+  have hn := clippedCold_finite_picard hq hb hL hT hR hloss s hFm hc₀m hF hc₀ hSum₀ hFeq
+  intro t
+  have hall : ∀ᵐ p ∂FlightMeasure.phaseVolume, ∀ n,
+      ∑ i ∈ s, clippedColdPicard q b L T F (c₀ i) n (t,p) ≤ F (t,p) :=
+    ae_all_iff.mpr (fun n => hn n t)
+  filter_upwards [hall] with p hp
+  have hlim (i) := (clippedCold_solution hq hb hL hT hR hloss hFm (hc₀m i) hF (hc₀ i)).2.2.2 (t,p)
+  exact le_of_tendsto (tendsto_finsetSum s (fun i _ => hlim i)) (Filter.Eventually.of_forall hp)
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_ColdMildRepresentative
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Pointwise dominated representatives of an almost-everywhere cold family -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+variable {I : Type*} [Countable I]
+
+theorem measurable_normalizedFamily {F : ℝ × JetPrototype.Phase → ℝ}
+    {c : I → ℝ × JetPrototype.Phase → ℝ} (hFm : Measurable F) (hcm : ∀ i, Measurable (c i)) (i : I) :
+    Measurable (normalizedFamily F c i) := by
+  classical
+  have he : {u : ℝ × JetPrototype.Phase | ∀ s : Finset I, (∑ j ∈ s, c j u) ≤ F u} =
+      ⋂ s : Finset I, {u | (∑ j ∈ s, c j u) ≤ F u} := by ext u; simp
+  have hm : MeasurableSet {u : ℝ × JetPrototype.Phase | ∀ s : Finset I, (∑ j ∈ s, c j u) ≤ F u} := by
+    rw [he]
+    exact MeasurableSet.iInter (fun s => measurableSet_le
+      (Finset.measurable_sum s (fun j _ => hcm j)) hFm)
+  exact (hcm i).ite hm measurable_const
+
+omit [Countable I] in
+theorem normalizedFamily_bounds {F : ℝ × JetPrototype.Phase → ℝ}
+    {c : I → ℝ × JetPrototype.Phase → ℝ} (hcn : ∀ i u, 0 ≤ c i u) (i : I) (u) :
+    0 ≤ normalizedFamily F c i u ∧ normalizedFamily F c i u ≤ c i u := by
+  classical
+  unfold normalizedFamily
+  split_ifs
+  · exact ⟨hcn i u,le_rfl⟩
+  · exact ⟨le_rfl,hcn i u⟩
+
+omit [Countable I] in
+theorem normalizedFamily_sum_le {F : ℝ × JetPrototype.Phase → ℝ}
+    (hF : ∀ u, 0 ≤ F u) (c : I → ℝ × JetPrototype.Phase → ℝ) (s : Finset I) (u) :
+    (∑ i ∈ s, normalizedFamily F c i u) ≤ F u := by
+  classical
+  by_cases hu : ∀ r : Finset I, (∑ j ∈ r, c j u) ≤ F u
+  · simpa only [normalizedFamily,ite_eq_left hu] using hu s
+  · simpa only [normalizedFamily,ite_eq_right hu,Finset.sum_const_zero] using hF u
+
+theorem normalizedFamily_ae_at_time {F : ℝ × JetPrototype.Phase → ℝ}
+    {c : I → ℝ × JetPrototype.Phase → ℝ}
+    (hfinite : ∀ s : Finset I, ∀ t, ∀ᵐ p ∂FlightMeasure.phaseVolume, (∑ i ∈ s, c i (t,p)) ≤ F (t,p))
+    (i : I) (t : ℝ) : (fun p => normalizedFamily F c i (t,p)) =ᵐ[FlightMeasure.phaseVolume]
+      (fun p => c i (t,p)) := by
+  classical
+  have hg : ∀ᵐ p ∂FlightMeasure.phaseVolume, ∀ s : Finset I, (∑ j ∈ s, c j (t,p)) ≤ F (t,p) :=
+    ae_all_iff.mpr (fun s => hfinite s t)
+  filter_upwards [hg] with p hp
+  exact ite_eq_left hp
+
+omit [Countable I] in
+theorem normalizedFamily_summable {F : ℝ × JetPrototype.Phase → ℝ}
+    {c : I → ℝ × JetPrototype.Phase → ℝ} (hF : ∀ u, 0 ≤ F u) (hcn : ∀ i u, 0 ≤ c i u) (u) :
+    Summable (fun i => normalizedFamily F c i u) ∧ (∑' i, normalizedFamily F c i u) ≤ F u := by
+  have hn (i) : 0 ≤ normalizedFamily F c i u := (normalizedFamily_bounds hcn i u).1
+  have hs (s : Finset I) := normalizedFamily_sum_le hF c s u
+  exact ⟨summable_of_sum_le hn hs,Real.tsum_le_of_sum_le hn hs⟩
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+section
+
+/-! # Cold mild equations are independent of spatial representatives -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem ColdMildAE.representative {q b L T : ℝ} {c₀ : JetPrototype.Phase → ℝ}
+    {F c d : ℝ × JetPrototype.Phase → ℝ} (hc : ColdMildAE q b L T F c₀ c)
+    (hcm : Measurable c) (hdm : Measurable d)
+    (hcd : ∀ t, (fun p => c (t,p)) =ᵐ[FlightMeasure.phaseVolume] (fun p => d (t,p))) :
+    ColdMildAE q b L T F c₀ d := by
+  have hsource := coldForcing_congr_cold (slice_congr_spacetime hcm hdm hcd) q b L F
+  intro t ht
+  exact (hcd t).symm.trans ((hc t ht).trans
+    (FlightMeasure.value_congr_at_time (ae_of_all _ (fun _ => rfl)) hsource T L t))
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_RebuiltHotInitial
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A pointwise summable cold family over an almost-everywhere mild total state -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+variable {I : Type*} [Countable I]
+
+theorem rebuiltColdFamily_properties {q b L T R : ℝ}
+    (hq : q < 2) (hb : 0 ≤ b) (hL : 0 ≤ L) (hT : 0 ≤ T) (hR : 0 ≤ R)
+    (hloss : R*CutoffLipschitz.frequencyConstant q b ≤ L)
+    {F : ℝ × JetPrototype.Phase → ℝ} {F₀ : JetPrototype.Phase → ℝ}
+    {c₀ : I → JetPrototype.Phase → ℝ}
+    (hFm : Measurable F) (hc₀m : ∀ i, Measurable (c₀ i))
+    (hF : ∀ u, 0 ≤ F u ∧ F u ≤ R) (hc₀ : ∀ i p, 0 ≤ c₀ i p ∧ c₀ i p ≤ R)
+    (hSum₀ : ∀ s : Finset I, ∀ p, ∑ i ∈ s, c₀ i p ≤ F₀ p)
+    (hFeq : ∀ t, (fun p => F (t,p)) =ᵐ[FlightMeasure.phaseVolume]
+      (fun p => PositiveIntegral.value T L JetBarrier.flight F₀ (forcing q b L F) (t,p))) :
+    (∀ i, Measurable (rebuiltColdFamily q b L T F c₀ i)) ∧
+      (∀ i u, 0 ≤ rebuiltColdFamily q b L T F c₀ i u ∧
+        rebuiltColdFamily q b L T F c₀ i u ≤ clippedColdLimit q b L T F (c₀ i) u) ∧
+      (∀ s : Finset I, ∀ u, ∑ i ∈ s, rebuiltColdFamily q b L T F c₀ i u ≤ F u) ∧
+      (∀ u, Summable (fun i => rebuiltColdFamily q b L T F c₀ i u) ∧
+        (∑' i, rebuiltColdFamily q b L T F c₀ i u) ≤ F u) ∧
+      ∀ i, ColdMildAE q b L T F (c₀ i) (rebuiltColdFamily q b L T F c₀ i) := by
+  classical
+  let c (i : I) := clippedColdLimit q b L T F (c₀ i)
+  have hc (i) := clippedCold_solution hq hb hL hT hR hloss hFm (hc₀m i) hF (hc₀ i)
+  have hcm (i) : Measurable (c i) := (hc i).1
+  have hcn (i) (u) : 0 ≤ c i u := ((hc i).2.1 u).1
+  have hfin (s : Finset I) := clippedCold_finite_limit hq hb hL hT hR hloss s hFm hc₀m hF hc₀ (hSum₀ s) hFeq
+  have hd (i) : Measurable (rebuiltColdFamily q b L T F c₀ i) := measurable_normalizedFamily hFm hcm i
+  refine ⟨hd,normalizedFamily_bounds hcn,normalizedFamily_sum_le (fun u => (hF u).1) c,
+    normalizedFamily_summable (fun u => (hF u).1) hcn,?_⟩
+  intro i
+  have hi : ∀ p, c₀ i p ≤ F₀ p := by
+    intro p
+    simpa only [Finset.sum_singleton] using hSum₀ {i} p
+  have hm := clippedCold_mildAE hq hb hL hT hR hloss hFm (hc₀m i) hF (hc₀ i) hi
+    (fun t _ => hFeq t)
+  exact hm.representative (hcm i) (hd i)
+    (fun t => (normalizedFamily_ae_at_time hfin i t).symm)
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_ClippedColdTime
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Time clamping of the reconstructed cold family -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.WeightedLocal
+
+theorem mild_all_of_time_clamp {T : ℝ} (hT : 0 ≤ T) (L : ℝ)
+    {f : ℝ × JetPrototype.Phase → ℝ} {f₀ : JetPrototype.Phase → ℝ}
+    {g : ℝ × JetPrototype.Phase → ℝ}
+    (hf : ∀ u, f (PositiveIntegral.time T u.1,u.2) = f u)
+    (he : ∀ t ∈ Set.Icc 0 T, (fun p => f (t,p)) =ᵐ[FlightMeasure.phaseVolume]
+      (fun p => PositiveIntegral.value T L JetBarrier.flight f₀ g (t,p))) :
+    ∀ t, (fun p => f (t,p)) =ᵐ[FlightMeasure.phaseVolume]
+      (fun p => PositiveIntegral.value T L JetBarrier.flight f₀ g (t,p)) := by
+  intro t
+  filter_upwards [he (PositiveIntegral.time T t) (PositiveIntegral.time_bounds hT t)] with p hp
+  rw [hf (t,p)] at hp
+  exact hp.trans (PositiveIntegral.value_time_clamp hT L f₀ g (t,p))
+
+end BoltzmannNonuniqueness.WeightedLocal
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_WeightedJetStability
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A common positive local time for bounded weighted data -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.WeightedLocalControl
+
+theorem bounds {q b A : ℝ} (hb : 0 ≤ b) (hA : 0 < A) :
+    0 ≤ damping q b A ∧ 0 ≤ sourceBound q b A ∧ 0 ≤ lipschitz q b A := by
+  have hC := CutoffLipschitz.frequencyConstant_nonneg hb q
+  have hG := (HotApplication.realBound_pos q).le
+  have hL : 0 ≤ damping q b A := by unfold damping; positivity
+  exact ⟨hL, by unfold sourceBound; positivity, by unfold lipschitz; positivity⟩
+
+end BoltzmannNonuniqueness.WeightedLocalControl
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_PeriodicJetFamilies
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Countably labeled periodic copies of the finite cold datum -/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.JetPrototype
+open BoltzmannNonuniqueness.JetGeometry BoltzmannNonuniqueness.WeightedTranslation
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem measurable_color (s₀ η K α γ d₀ q : ℝ) (N : ℕ) (i : JetLattice.Label) :
+    Measurable (color s₀ η K α γ d₀ q N i) := by
+  unfold color
+  split_ifs
+  · exact ((JetDatum.term_measurable s₀ η K α γ d₀ _).comp (measurable_shift _)).div
+      ((ChartKernel.measurable_H q).comp measurable_snd)
+  · exact measurable_const
+
+theorem color_nonneg {s₀ K d₀ : ℝ} (hs₀ : 0 < s₀) (hK : 0 ≤ K) (hd₀ : 0 ≤ d₀)
+    (η α γ q : ℝ) (N : ℕ) (i : JetLattice.Label) (p : JetPrototype.Phase) :
+    0 ≤ color s₀ η K α γ d₀ q N i p := by
+  unfold color
+  split_ifs
+  · exact div_nonneg (JetDatum.term_nonneg hs₀ hK hd₀ η α γ _ _) (H_nonneg _ _)
+  · exact le_rfl
+
+private theorem in_enlargement {s₀ η K α γ d₀ q : ℝ} {N : ℕ}
+    (hs₀ : 0 < s₀) (hη : 0 < η) {i : JetLattice.Label} {p : JetPrototype.Phase}
+    (hp : color s₀ η K α γ d₀ q N i p ≠ 0) :
+    PlaneChart.join p.1.1 p.1.2 ∈ JetLattice.spatialEnlargement s₀ η 0 i := by
+  have hi : i.annulus < N := by
+    by_contra h
+    exact hp (by simp only [color,ite_eq_right h])
+  have hn : JetDatum.term s₀ η K α γ d₀ (i.annulus,i.positive)
+      (shift (displacement i.lattice) p) ≠ 0 := by
+    intro h
+    exact hp (by simp only [color,ite_eq_left hi,h,zero_div])
+  have hsp := JetSupport.initial_spatial_support η K α γ
+    (jetScale s₀ η i.annulus) (d₀*jetScale s₀ η i.annulus^10) i.positive hn
+  constructor
+  · rw [PlaneChart.transverse_join]
+    apply Metric.mem_cthickening_of_dist_le _ _ _ _ hsp.1
+    simpa [shift,displacement,jetScale] using (enlargementWidth_pos hη
+      (DatumBounds.scale_pos (η := η) hs₀ (i.annulus+1))).le
+  · have hax : |p.1.2-JetLattice.axialShift i.lattice| < 1/8 := hsp.2
+    change |axial (PlaneChart.join p.1.1 p.1.2)-JetLattice.axialShift i.lattice| ≤ _
+    rw [PlaneChart.axial_join]
+    linarith
+
+theorem color_disjoint {s₀ η : ℝ} (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8)
+    (hη : 0 < η) (hηmax : η ≤ Real.log 2) (K α γ d₀ q : ℝ) (N : ℕ)
+    (p : JetPrototype.Phase) (i j : JetLattice.Label) (hij : i ≠ j)
+    (hi : color s₀ η K α γ d₀ q N i p ≠ 0) : color s₀ η K α γ d₀ q N j p = 0 := by
+  by_contra hj
+  exact hij (JetLattice.common_point_label hs₀ hsmax hη hηmax (by norm_num : (0:ℝ) ≤ 1/32)
+    (in_enlargement hs₀ hη hi) (in_enlargement hs₀ hη hj))
+
+theorem color_summable {s₀ η : ℝ} (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8)
+    (hη : 0 < η) (hηmax : η ≤ Real.log 2) (K α γ d₀ q : ℝ) (N : ℕ) (p : JetPrototype.Phase) :
+    Summable (fun i => color s₀ η K α γ d₀ q N i p) :=
+  JetSeries.summable_single_support (color_disjoint hs₀ hsmax hη hηmax K α γ d₀ q N p)
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+section
+
+/-! # Finite weighted bounds for the countably labeled periodic seed -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.JetPrototype
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem finite_sum_le_seed {s₀ η K d₀ : ℝ} (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8)
+    (hη : 0 < η) (hηmax : η ≤ Real.log 2) (hK : 0 ≤ K) (hd₀ : 0 ≤ d₀)
+    (α γ q : ℝ) (N : ℕ) (u : Finset JetLattice.Label) (p : JetPrototype.Phase) :
+    ∑ i ∈ u, color s₀ η K α γ d₀ q N i p ≤ seed s₀ η K α γ d₀ q N p :=
+  (color_summable hs₀ hsmax hη hηmax K α γ d₀ q N p).sum_le_tsum u
+    (fun i _ => color_nonneg hs₀ hK hd₀ η α γ q N i p)
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+section
+
+/-! # The actual labeled periodic approximation on a common local interval -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.JetPrototype BoltzmannNonuniqueness.WeightedTranslation
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem initial_color_bounds {s₀ η K d₀ : ℝ} (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8)
+    (hη : 0 < η) (hηmax : η ≤ Real.log 2) (hK : 0 ≤ K) (hd₀ : 0 ≤ d₀)
+    (α γ q : ℝ) (N : ℕ) {h₀ : JetPrototype.Phase → ℝ} (hh₀ : ∀ p, 0 ≤ h₀ p) :
+    (∀ i p, 0 ≤ color s₀ η K α γ d₀ q N i p ∧
+      color s₀ η K α γ d₀ q N i p ≤ initial s₀ η K α γ d₀ q N h₀ p) ∧
+    (∀ u : Finset JetLattice.Label, ∀ p,
+      ∑ i ∈ u, color s₀ η K α γ d₀ q N i p ≤ initial s₀ η K α γ d₀ q N h₀ p) := by
+  have hf (u : Finset JetLattice.Label) (p) : ∑ i ∈ u, color s₀ η K α γ d₀ q N i p ≤
+      initial s₀ η K α γ d₀ q N h₀ p :=
+    (finite_sum_le_seed hs₀ hsmax hη hηmax hK hd₀ α γ q N u p).trans (le_add_of_nonneg_right (hh₀ p))
+  refine ⟨?_,hf⟩
+  intro i p
+  classical
+  exact ⟨color_nonneg hs₀ hK hd₀ η α γ q N i p,by simpa using hf {i} p⟩
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_HotSeedCoreLower
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A localized periodic thermal seed, normalized in the singular weighted norm -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.JetPrototype
+
+namespace BoltzmannNonuniqueness.HotSeedProfile
+
+theorem bound_pos : 0 < bound := by
+  unfold bound
+  exact mul_pos (mul_pos (sq_pos_of_pos JetThermalKernel.bound_pos) (Real.exp_pos _)) tiltConstant_pos
+
+theorem measurable_centered : Measurable centered :=
+  ((measurable_id.add_const (1/2)).fract).sub_const (1/2)
+
+theorem measurable_centeredSpace : Measurable centeredSpace := by
+  apply Measurable.prodMk
+  · apply (MeasurableEquiv.toLp 2 (Fin 2 → ℝ)).measurable.comp
+    exact Measurable.of_eval (fun i => measurable_centered.comp
+      (show Measurable (fun x : Space => x.1 i) from by fun_prop))
+  · exact measurable_centered.comp measurable_snd
+
+theorem measurable_raw (q δ : ℝ) : Measurable (raw q δ) := by
+  have hjoin : Measurable (fun x : Space => PlaneChart.join x.1 x.2) :=
+    split.symm.measurable.comp (measurable_snd.prodMk measurable_fst)
+  exact (JetThermalKernel.J_smooth.continuous.measurable.comp
+    ((hjoin.comp (measurable_centeredSpace.comp measurable_fst)).const_smul δ⁻¹)).mul
+    ((JetThermalKernel.J_smooth.continuous.measurable.comp measurable_snd).div
+      ((ChartKernel.measurable_H q).comp measurable_snd))
+
+theorem raw_nonneg (q δ : ℝ) (p : JetPrototype.Phase) : 0 ≤ raw q δ p :=
+  mul_nonneg (JetThermalKernel.J_nonneg _) (div_nonneg (JetThermalKernel.J_nonneg _) (H_nonneg _ _))
+
+theorem velocity_bound (q : ℝ) (v : Velocity) :
+    JetThermalKernel.J v/H q v ≤ JetThermalKernel.bound*Real.exp 2*tiltConstant := by
+  by_cases hv : 1 ≤ ‖v‖
+  · rw [JetThermalKernel.J_zero hv,zero_div]
+    exact mul_nonneg (mul_nonneg JetThermalKernel.bound_pos.le (Real.exp_pos _).le) tiltConstant_pos.le
+  · have hv2 : ‖v‖^2 ≤ 1 := by nlinarith [norm_nonneg v,lt_of_not_ge hv]
+    have he : 1 ≤ Real.exp 2*Real.exp (-2*‖v‖^2) := by
+      rw [← Real.exp_add,← Real.exp_zero]
+      exact Real.exp_le_exp.mpr (by linarith)
+    apply (div_le_iff₀ (H_pos q v)).mpr
+    calc
+      _ ≤ JetThermalKernel.bound := JetThermalKernel.J_le v
+      _ ≤ JetThermalKernel.bound*(Real.exp 2*Real.exp (-2*‖v‖^2)) :=
+        by simpa only [mul_one] using mul_le_mul_of_nonneg_left he JetThermalKernel.bound_pos.le
+      _ ≤ JetThermalKernel.bound*(Real.exp 2*(tiltConstant*H q v)) :=
+        mul_le_mul_of_nonneg_left
+          (mul_le_mul_of_nonneg_left (JetGaussianEscape.gaussian_le_hot q v) (Real.exp_pos _).le)
+          JetThermalKernel.bound_pos.le
+      _ = _ := by ring
+
+theorem raw_le (q δ : ℝ) (p : JetPrototype.Phase) : raw q δ p ≤ bound := by
+  unfold raw bound
+  have h := mul_le_mul
+    (JetThermalKernel.J_le (δ⁻¹ • PlaneChart.join (centeredSpace p.1).1 (centeredSpace p.1).2))
+    (velocity_bound q p.2)
+    (div_nonneg (JetThermalKernel.J_nonneg _) (H_nonneg _ _)) JetThermalKernel.bound_pos.le
+  exact h.trans_eq (by ring)
+
+end BoltzmannNonuniqueness.HotSeedProfile
+
+end
+
+end
+
+section
+
+/-! # The localized thermal seed has positive essential weighted norm -/
+
+noncomputable section
+
+open MeasureTheory MeasureTheory.Measure Set Metric
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.JetPrototype
+
+namespace BoltzmannNonuniqueness.PhaseEssSup
+
+theorem size_pos_of_positive_set {f : JetPrototype.Phase → ℝ} {R : ℝ}
+    (hfm : Measurable f) (hb : ∀ p, |f p| ≤ R) {s : Set JetPrototype.Phase}
+    (hs : FlightMeasure.phaseVolume s ≠ 0) (hf : ∀ p ∈ s, 0 < f p) : 0 < size f := by
+  obtain ⟨p,hp,hbound⟩ := exists_mem_of_measure_ne_zero_of_ae hs
+    (ae_restrict_of_ae (ae_abs_le_size hfm hb))
+  exact (hf p hp).trans_le ((le_abs_self _).trans hbound)
+
+end BoltzmannNonuniqueness.PhaseEssSup
+
+namespace BoltzmannNonuniqueness.HotSeedProfile
+
+theorem centered_eq {x : ℝ} (hx : |x| < 1/2) : centered x = x := by
+  have h := abs_lt.mp hx
+  unfold centered
+  rw [Int.fract_eq_self.mpr ⟨by linarith [h.1],by linarith [h.2]⟩]
+  ring
+
+theorem centeredSpace_eq {x : Space} (hx : ‖x‖ < 1/2) : centeredSpace x = x := by
+  apply Prod.ext
+  · ext i
+    apply centered_eq
+    exact (show |x.1 i| ≤ ‖x.1‖ from by simpa only [Real.norm_eq_abs] using PiLp.norm_apply_le x.1 i).trans_lt
+      ((norm_fst_le x).trans_lt hx)
+  · apply centered_eq
+    exact (show |x.2| ≤ ‖x‖ from by simpa only [Real.norm_eq_abs] using norm_snd_le x).trans_lt hx
+
+theorem J_pos {v : Velocity} (hv : ‖v‖ < 1) : 0 < JetThermalKernel.J v := by
+  have hn : JetThermalKernel.J v ≠ 0 := by
+    change v ∈ Function.support JetThermalKernel.J
+    rw [JetThermalKernel.J_support]
+    simpa only [mem_ball,dist_zero_right] using hv
+  exact lt_of_le_of_ne (JetThermalKernel.J_nonneg v) hn.symm
+
+theorem raw_pos {δ : ℝ} (hδ : 0 < δ) (hδmax : δ ≤ 1) (q : ℝ)
+    {p : JetPrototype.Phase} (hx : ‖p.1‖ < δ/4) (hv : ‖p.2‖ < 1/2) : 0 < raw q δ p := by
+  have hc : centeredSpace p.1 = p.1 := centeredSpace_eq (by linarith)
+  have hu : ‖p.1.1‖ < δ/4 := (norm_fst_le p.1).trans_lt hx
+  have hz : |p.1.2| < δ/4 := by simpa only [Real.norm_eq_abs] using (norm_snd_le p.1).trans_lt hx
+  have hj : ‖PlaneChart.join p.1.1 p.1.2‖ < δ := by
+    have he := PlaneChart.norm_join_sq p.1.1 p.1.2
+    have hsq := sq_abs p.1.2
+    nlinarith [norm_nonneg p.1.1,norm_nonneg (PlaneChart.join p.1.1 p.1.2),abs_nonneg p.1.2]
+  have harg : ‖δ⁻¹ • PlaneChart.join p.1.1 p.1.2‖ < 1 := by
+    rw [norm_smul,Real.norm_eq_abs,abs_of_pos (inv_pos.mpr hδ)]
+    exact (inv_mul_lt_one₀ hδ).mpr hj
+  unfold raw
+  rw [hc]
+  exact mul_pos (J_pos harg) (div_pos (J_pos (by linarith)) (H_pos q p.2))
+
+theorem raw_size_pos {δ : ℝ} (hδ : 0 < δ) (hδmax : δ ≤ 1) (q : ℝ) :
+    0 < PhaseEssSup.size (raw q δ) := by
+  let s : Set JetPrototype.Phase := ball (0 : Space) (δ/4) ×ˢ ball (0 : Velocity) (1/2)
+  have hs : FlightMeasure.phaseVolume s ≠ 0 := by
+    change ((volume : Measure Space).prod (volume : Measure Velocity))
+      (ball (0 : Space) (δ/4) ×ˢ ball (0 : Velocity) (1/2)) ≠ 0
+    rw [Measure.prod_prod]
+    exact mul_ne_zero (measure_ball_pos volume (0 : Space) (by linarith)).ne'
+      (measure_ball_pos volume (0 : Velocity) (by norm_num : (0:ℝ) < 1/2)).ne'
+  apply PhaseEssSup.size_pos_of_positive_set (measurable_raw q δ)
+    (fun p => by rw [abs_of_nonneg (raw_nonneg q δ p)]; exact raw_le q δ p) hs
+  intro p hp
+  exact raw_pos hδ hδmax q (by simpa only [mem_ball,dist_zero_right] using hp.1)
+    (by simpa only [mem_ball,dist_zero_right] using hp.2)
+
+end BoltzmannNonuniqueness.HotSeedProfile
+
+end
+
+end
+
+section
+
+/-! # The normalized periodic hot seed has the data required by cap selection -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.JetPrototype
+
+namespace BoltzmannNonuniqueness.HotSeedProfile
+
+theorem normalized_bounds {δ : ℝ} (hδ : 0 < δ) (hδmax : δ ≤ 1) (q : ℝ) :
+    ∃ M : ℝ, 0 < M ∧ ∀ p, 0 ≤ normalized q δ p ∧ normalized q δ p ≤ M := by
+  have hs := raw_size_pos hδ hδmax q
+  let c := δ/PhaseEssSup.size (raw q δ)
+  have hc : 0 < c := div_pos hδ hs
+  refine ⟨c*bound,mul_pos hc bound_pos,?_⟩
+  intro p
+  exact ⟨mul_nonneg hc.le (raw_nonneg q δ p),mul_le_mul_of_nonneg_left (raw_le q δ p) hc.le⟩
+
+end BoltzmannNonuniqueness.HotSeedProfile
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PeriodicMildApproximation
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded positive periodic mild states and finite-step continuation -/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.WeightedLocal BoltzmannNonuniqueness.WeightedTranslation
+
+namespace BoltzmannNonuniqueness.WeightedLocalControl
+
+namespace PeriodicMildState
+
+theorem all_mild {q b L T R : ℝ} {f₀ : JetPrototype.Phase → ℝ}
+    (F : PeriodicMildState q b L T R f₀) (hT : 0 ≤ T) :
+    ∀ t, (fun p => F.value (t,p)) =ᵐ[FlightMeasure.phaseVolume]
+      (fun p => PositiveIntegral.value T L JetBarrier.flight f₀ (forcing q b L F.value) (t,p)) :=
+  mild_all_of_time_clamp hT L F.clamped F.mild
+
+end PeriodicMildState
+
+end BoltzmannNonuniqueness.WeightedLocalControl
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Approximation_CapDilationCompactness
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Actual cap shots on horizons tending to zero -/
+
+noncomputable section
+
+open MeasureTheory Set Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem shrinkingHorizon_pos {τ : ℝ} (hτ : 0 < τ) (n : ℕ) : 0 < shrinkingHorizon τ n :=
+  div_pos hτ (by positivity)
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Approximation_CapLabelFreeLimit
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The rebuilt cold family of an actual cap shot -/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.WeightedLocal BoltzmannNonuniqueness.WeightedLocalControl
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem CapApproximation.cold_properties {s₀ η K α γ d₀ q T : ℝ} {N : ℕ}
+    (F : CapApproximation s₀ η K α γ d₀ q T N)
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η) (hηmax : η ≤ Real.log 2)
+    (hK : 0 ≤ K) (hd₀ : 0 ≤ d₀) (hq : q < 2) (hT : 0 ≤ T) :
+    (∀ i, Measurable (F.cold i)) ∧ (∀ i u, 0 ≤ F.cold i u) ∧
+      (∀ s : Finset JetLattice.Label, ∀ u, ∑ i ∈ s, F.cold i u ≤ F.solution.value u) ∧
+      (∀ i, ColdMildAE q (N+1) (damping q (N+1) F.amplitude) T F.solution.value
+        (color s₀ η K α γ d₀ q N i) (F.cold i)) := by
+  have hδ := DatumBounds.scale_pos (η := η) hs₀ (N+1)
+  have hδone : DatumBounds.scale s₀ η (N+1) ≤ 1 := by
+    have h := JetGeometry.scale_antitone hs₀.le hη.le (Nat.zero_le (N+1))
+    rw [show DatumBounds.scale s₀ η 0 = s₀ by simp [DatumBounds.scale]] at h
+    linarith
+  have hh₀ (p) : 0 ≤ F.coefficient*HotSeedProfile.normalized q (DatumBounds.scale s₀ η (N+1)) p :=
+    mul_nonneg F.coefficient_mem.1 ((HotSeedProfile.normalized_bounds hδ hδone q).choose_spec.2 p).1
+  have hi := initial_color_bounds hs₀ hsmax hη hηmax hK hd₀ α γ q N hh₀
+  have hc₀ (i) (p) : 0 ≤ color s₀ η K α γ d₀ q N i p ∧
+      color s₀ η K α γ d₀ q N i p ≤ 2*F.amplitude :=
+    ⟨(hi.1 i p).1,(hi.1 i p).2.trans (F.initial_bound p)⟩
+  have hL : 0 ≤ damping q (N+1) F.amplitude :=
+    (bounds (q := q) (by positivity : 0 ≤ (N+1:ℝ)) F.amplitude_pos).1
+  have hR : 0 ≤ 2*F.amplitude := mul_nonneg (by norm_num) F.amplitude_pos.le
+  have hp := rebuiltColdFamily_properties hq (by positivity : 0 ≤ (N+1:ℝ)) hL hT hR le_rfl
+    F.solution.measurable_value (measurable_color s₀ η K α γ d₀ q N)
+    F.solution.value_bounds hc₀ hi.2 (F.solution.all_mild hT)
+  exact ⟨hp.1,fun i u => (hp.2.1 i u).1,hp.2.2.1,hp.2.2.2.2⟩
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Approximation_CapHotUndamped
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The actual rescaled cold density, before taking its atomic limit -/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem CapApproximation.coldTotal_properties {s₀ η K α γ d₀ q T : ℝ} {N : ℕ}
+    (F : CapApproximation s₀ η K α γ d₀ q T N)
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η) (hηmax : η ≤ Real.log 2)
+    (hK : 0 ≤ K) (hd₀ : 0 ≤ d₀) (hq : q < 2) (hT : 0 ≤ T) :
+    Measurable F.coldTotal ∧ ∀ u, Summable (fun i => F.cold i u) ∧
+      0 ≤ F.coldTotal u ∧ F.coldTotal u ≤ F.solution.value u := by
+  have hc := F.cold_properties hs₀ hsmax hη hηmax hK hd₀ hq hT
+  refine ⟨Measurable.tsum hc.1,fun u => ?_⟩
+  exact ⟨summable_of_sum_le (fun i => hc.2.1 i u) (fun s => hc.2.2.1 s u),
+    tsum_nonneg (fun i => hc.2.1 i u),
+    Real.tsum_le_of_sum_le (fun i => hc.2.1 i u) (fun s => hc.2.2.1 s u)⟩
+
+namespace AttainedCapSequence
+
+variable {s₀ η K α γ d₀ q : ℝ} {F : ShrinkingCapFamily s₀ η K α γ d₀ q}
+
+theorem rescaledColdDensity_measurable (S : AttainedCapSequence F)
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η) (hηmax : η ≤ Real.log 2)
+    (hK : 0 ≤ K) (hd₀ : 0 ≤ d₀) (hq : q < 2) (n : ℕ) :
+    Measurable (S.rescaledColdDensity n) := by
+  have hc := ((F.approximation n).coldTotal_properties hs₀ hsmax hη hηmax hK hd₀ hq
+    (shrinkingHorizon_pos F.horizonScale_pos n).le).1
+  have hm : Measurable (fun z : HotKineticPhase =>
+      (S.radius n*z.1.1,(S.radius n • z.1.2,z.2))) := by fun_prop
+  exact (((ChartKernel.measurable_H q).comp measurable_snd).const_mul _).mul (hc.comp hm)
+
+end AttainedCapSequence
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_BackgroundBeamCloseness
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded background velocity averages on positive-time slabs -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence
+
+variable {s₀ η K α γ d₀ q : ℝ} {F : ShrinkingCapFamily s₀ η K α γ d₀ q}
+  {S : AttainedCapSequence F}
+
+theorem HotLimitExtraction.background_average_slab_bound (E : HotLimitExtraction S)
+    (hK : 0 ≤ K) (hα : 0 < α) (hγ : 0 < γ) {a t B : ℝ} (ha : 0 < a) (ht : a ≤ t)
+    {ψ : Velocity → ℝ} (hψB : ∀ v, |ψ v| ≤ B) (x : JetPrototype.Space) :
+    |∫ v, ψ v ∂E.background t x| ≤ 2*((1/4)*((K*max 1 (α*γ)⁻¹)/a))*B := by
+  classical
+  have hB : 0 ≤ B := (abs_nonneg (ψ 0)).trans (hψB 0)
+  have hp : 0 < E.phase := zero_lt_one.trans_le E.phase_mem.1
+  have hc : 0 ≤ K*max 1 (α*γ)⁻¹ := mul_nonneg hK (le_max_of_le_left zero_le_one)
+  by_cases hx : GeometricBackground.active E.phase η E.fraction x.1
+  · rw [background,GeometricBackground.background,ite_eq_left hx]
+    apply (AxialBackground.integral_cell_abs_le hK hα hγ
+      (GeometricBackground.scale_pos hp η x.1) (ha.trans_le ht).le x.2 ψ
+      (fun v _ => hψB v)).trans
+    apply mul_le_mul_of_nonneg_right _ hB
+    apply mul_le_mul_of_nonneg_left _ (by norm_num)
+    apply mul_le_mul_of_nonneg_left _ (by norm_num)
+    exact div_le_div_of_nonneg_left hc ha
+      (ht.trans (le_add_of_nonneg_left (GeometricBackground.scale_pos hp η x.1).le))
+  · rw [background,GeometricBackground.background,ite_eq_right hx,integral_zero_measure,abs_zero]
+    positivity
+
+end BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Approximation_CapColdBounds
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Joint regularity and uniform bounds for the full cold velocity averages -/
+
+noncomputable section
+
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.VelocityMoment
+
+namespace BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence
+
+variable {s₀ η K α γ d₀ q : ℝ} {F : ShrinkingCapFamily s₀ η K α γ d₀ q}
+
+theorem coldAverage_measurable (S : AttainedCapSequence F)
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η) (hηmax : η ≤ Real.log 2)
+    (hK : 0 ≤ K) (hd₀ : 0 ≤ d₀) (hq : q < 2) (n : ℕ)
+    {ψ : Velocity → ℝ} (hψ : Measurable ψ) : Measurable (S.coldAverage n ψ) := by
+  have hm := (hψ.comp measurable_snd).mul
+    (S.rescaledColdDensity_measurable hs₀ hsmax hη hηmax hK hd₀ hq n)
+  exact hm.stronglyMeasurable.integral_prod_right'.measurable
+
+end BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_ColdCentralVanishing
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Compact cold cylinders and their exhaustion away from the axis -/
+
+noncomputable section
+
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+
+namespace BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence
+
+theorem coldTransverseAnnulus_compact (R : ℝ) (m : ℕ) :
+    IsCompact (coldTransverseAnnulus R m) :=
+  (isCompact_closedBall (0 : VelocityWeight.Transverse) R).inter_right
+    (isClosed_le continuous_const continuous_norm)
+
+theorem coldAxisCutoff_measurable (m : ℕ) : MeasurableSet (coldAxisCutoff m) :=
+  measurableSet_le measurable_const (measurable_snd.fst.norm)
+
+theorem coldCylinderVolume_restrict_axis (a A R : ℝ) (m : ℕ) :
+    (coldCylinderVolume a A R).restrict (coldAxisCutoff m) =
+      (volume.restrict (Icc a A)).prod (JetPrototype.spaceVolume.restrict
+        (coldTransverseAnnulus R m ×ˢ Icc (-R) R)) := by
+  have hs : MeasurableSet {x : JetPrototype.Space | 1/((m:ℝ)+1) ≤ ‖x.1‖} :=
+    measurableSet_le measurable_const measurable_fst.norm
+  have he : coldAxisCutoff m = (univ : Set ℝ) ×ˢ {x : JetPrototype.Space | 1/((m:ℝ)+1) ≤ ‖x.1‖} := by
+    ext z
+    simp [coldAxisCutoff]
+  rw [coldCylinderVolume,he,← Measure.prod_restrict,Measure.restrict_univ,Measure.restrict_restrict hs]
+  congr 2
+  ext x
+  simp only [coldTransverseAnnulus,mem_inter_iff,mem_ofPred_eq,mem_prod]
+  tauto
+
+theorem coldAxisCutoff_exhausts (a A R : ℝ) :
+    ∀ᵐ z ∂coldCylinderVolume a A R, ∀ᶠ m in atTop, z ∈ coldAxisCutoff m := by
+  have hx : ∀ᵐ x ∂JetPrototype.spaceVolume, x.1 ≠ 0 :=
+    Measure.quasiMeasurePreserving_fst.ae (volume.ae_ne (0 : VelocityWeight.Transverse))
+  filter_upwards [Measure.quasiMeasurePreserving_snd.ae (ae_restrict_of_ae hx)] with z hz
+  have hp : 0 < ‖z.2.1‖ := norm_pos_iff.mpr hz
+  exact (tendsto_one_div_add_atTop_nhds_zero_nat.eventually (gt_mem_nhds hp)).mono
+    (fun _ hm => hm.le)
+
+end BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Approximation_CapMixedCollisionLimits
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Full cold velocity averages converge weak-star to the atomic background -/
+
+noncomputable section
+
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+open BoltzmannNonuniqueness.VelocityMoment
+
+namespace BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence
+
+variable {s₀ η K α γ d₀ q : ℝ} {F : ShrinkingCapFamily s₀ η K α γ d₀ q}
+  {S : AttainedCapSequence F}
+
+theorem HotLimitExtraction.cold_spacetime_weakStar_limit_q80_oai (E : HotLimitExtraction S)
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η) (hηmax : η ≤ Real.log 2)
+    (hK : 0 ≤ K) (hα : 0 < α) (hαmax : α ≤ 1/4) (hγ : 0 < γ)
+    (hd₀ : 0 < d₀) (hd₀max : d₀ ≤ 1)
+    (hsmall : JetComparisonCoefficient.coefficient K*d₀*s₀^9 ≤ 1)
+    (hq : q < 2) {a A R : ℝ} (ha : 0 < a) (hA : ENNReal.ofReal A < E.horizon) (hR : 0 ≤ R)
+    {B : ℝ} {ψ : Velocity → ℝ} (hψ : Continuous ψ) (hψB : ∀ v, |ψ v| ≤ B) :
+    Compactness.WeakStarLInfConverges (coldCylinderVolume a A R)
+      (fun n => S.coldAverage (E.indices n) ψ)
+      (fun z => ∫ v, ψ v ∂E.background (max 0 z.1) z.2) := by
+  let ρ := coldCylinderVolume a A R
+  let M := escapedConstant s₀ η K α d₀*hotConstant q+JetEnvelopeGain.momentConstant K α γ/a
+  let N := 2*((1/4)*((K*max 1 (α*γ)⁻¹)/a))
+  let C := |B*M|+|N*B|
+  have hC : 0 ≤ C := add_nonneg (abs_nonneg _) (abs_nonneg _)
+  have hB : 0 ≤ B := (abs_nonneg (ψ 0)).trans (hψB 0)
+  have ham (n) : Measurable (S.coldAverage (E.indices n) ψ) :=
+    S.coldAverage_measurable hs₀ hsmax hη hηmax hK hd₀.le hq _ hψ.measurable
+  have hbm : Measurable (fun z : ℝ × JetPrototype.Space => ∫ v, ψ v ∂E.background (max 0 z.1) z.2) :=
+    GeometricBackground.clamped_background_test_measurable (zero_lt_one.trans_le E.phase_mem.1)
+      hK hα.le hγ.le η E.fraction hψ.measurable
+  have htime : ∀ᵐ z ∂ρ, z.1 ∈ Icc a A :=
+    Measure.quasiMeasurePreserving_fst.ae (ae_restrict_mem measurableSet_Icc)
+  have hab : ∀ᶠ n in atTop, ∀ᵐ z ∂ρ, |S.coldAverage (E.indices n) ψ z| ≤ C := by
+    filter_upwards [E.eventually_coldAverage_bound_q80 hs₀ hsmax hη hηmax hK hα
+      (hαmax.trans (by norm_num)) hγ hd₀ hd₀max hsmall hq ha hA hB hψB] with n hn
+    filter_upwards [htime] with z hz
+    exact (hn z.1 hz z.2).trans ((le_abs_self (B*M)).trans (le_add_of_nonneg_right (abs_nonneg _)))
+  have hbb : ∀ᵐ z ∂ρ, |∫ v, ψ v ∂E.background (max 0 z.1) z.2| ≤ C := by
+    filter_upwards [htime] with z hz
+    have ht : a ≤ max 0 z.1 := hz.1.trans (le_max_right _ _)
+    exact (E.background_average_slab_bound hK hα hγ ha ht hψB z.2).trans
+      ((le_abs_self (N*B)).trans (le_add_of_nonneg_left (abs_nonneg _)))
+  apply Compactness.weakStar_of_exhaustion ham hbm hab hbb coldAxisCutoff coldAxisCutoff_measurable
+    (coldAxisCutoff_exhausts a A R)
+  intro m
+  have hw : Published.WeakL1Converges (ρ.restrict (coldAxisCutoff m))
+      (fun n => S.coldAverage (E.indices n) ψ)
+      (fun z => ∫ v, ψ v ∂E.background (max 0 z.1) z.2) := by
+    change Published.WeakL1Converges ((coldCylinderVolume a A R).restrict (coldAxisCutoff m)) _ _
+    rw [coldCylinderVolume_restrict_axis]
+    apply E.cold_away_axis_weak_limit_q80 hs₀ hsmax hη hηmax hK hα hαmax hγ hd₀ hd₀max
+      hsmall hq ha hA (by positivity) hR (coldTransverseAnnulus R m) (coldTransverseAnnulus_compact R m)
+      (fun _ hx => hx.2) (fun y hy => ?_) (Icc (-R) R) isCompact_Icc
+      (fun z hz => abs_le.mpr ⟨hz.1,hz.2⟩) hψ hψB
+    simpa only [Metric.mem_closedBall,dist_zero_right] using hy.1
+  exact hw.weakStar ham hC (hab.mono (fun _ hn => ae_restrict_of_ae hn)) (ae_restrict_of_ae hbb)
+
+end BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence
+
+end
+
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.cold_spacetime_weakStar_limit_q80_oai := @OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.cold_spacetime_weakStar_limit_q80_oai

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PayAsBid_SoftReserve_demand_antitone_assortment
 -- name    : PayAsBid.SoftReserve.demand_antitone_assortment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:02:04.61131+00:00
 -- url     : https://prove2.me/theorems/bc269d27-b141-4163-9ebc-1aada656defc

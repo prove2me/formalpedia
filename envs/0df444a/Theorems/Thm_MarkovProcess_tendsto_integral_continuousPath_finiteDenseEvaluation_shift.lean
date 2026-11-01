@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_tendsto_integral_continuousPath_finiteDenseEvaluation_shift
 -- name    : MarkovProcess.tendsto_integral_continuousPath_finiteDenseEvaluation_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:26:15.419561+00:00
 -- url     : https://prove2.me/theorems/13e175da-9294-4564-8b05-b88f14cdd0de

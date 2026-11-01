@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncQueues_WaitingTime_eq_6_4
 -- name    : SyncQueues.WaitingTime.eq_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:13:32.484112+00:00
 -- url     : https://prove2.me/theorems/af990364-19f7-45c5-8d36-4534ed2590cf

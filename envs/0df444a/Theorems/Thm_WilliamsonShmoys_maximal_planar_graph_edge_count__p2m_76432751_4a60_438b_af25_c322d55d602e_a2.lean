@@ -1,0 +1,30 @@
+-- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_edge_count__p2m_76432751_4a60_438b_af25_c322d55d602e_a2
+-- name    : WilliamsonShmoys.maximal_planar_graph_edge_count__p2m_76432751_4a60_438b_af25_c322d55d602e_a2
+-- status  : Open
+-- author  : @Eyal1990
+-- created : 2026-11-01T03:09:43.549646+00:00
+-- url     : https://prove2.me/theorems/3bd27e40-28f0-4f6f-8869-04bf87b1e140
+-- title:
+--   Edge count of a maximal planar graph
+-- statement:
+--   A finite simple planar graph with at least three vertices that is inclusion-maximal among planar graphs on its vertex set has exactly $3|V|-6$ edges. A proof uses triangular faces, edge-face incidence counting, and Euler’s formula; the stated vertex bound includes the three-vertex boundary case.
+-- source:
+--   David P. Williamson and David B. Shmoys, The Design of Approximation Algorithms, Cambridge University Press, 2011, author electronic manuscript, Section 10.2, proof of Theorem 10.11, pp. 270-272. https://doi.org/10.1017/CBO9780511921735. Bounded tree-width of the pieces: Robertson–Seymour (planar graphs of radius r have tree-width at most 3r+1) / Bodlaender (k-outerplanar graphs have tree-width at most 3k-1).
+
+import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
+import Mathlib
+
+set_option autoImplicit false
+
+open WilliamsonShmoys
+
+theorem WilliamsonShmoys.maximal_planar_graph_edge_count__p2m_76432751_4a60_438b_af25_c322d55d602e_a2
+    {V : Type} [Fintype V] [LinearOrder V]
+    (H : SimpleGraph V) [DecidableRel H.Adj]
+    (hH : WilliamsonShmoys.HasPlanarDrawingOn H)
+    (hV : 3 ≤ Fintype.card V)
+    (hmax : ∀ (K : SimpleGraph V) (dK : DecidableRel K.Adj),
+      (letI : DecidableRel K.Adj := dK
+       WilliamsonShmoys.HasPlanarDrawingOn K →
+       H.edgeFinset ⊆ K.edgeFinset → K.edgeFinset ⊆ H.edgeFinset)) :
+    H.edgeFinset.card = 3 * Fintype.card V - 6 := by sorry

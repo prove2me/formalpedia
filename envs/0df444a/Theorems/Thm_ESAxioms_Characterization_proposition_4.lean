@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ESAxioms_Characterization_proposition_4
 -- name    : ESAxioms.Characterization.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:34:59.001552+00:00
 -- url     : https://prove2.me/theorems/df025276-3f32-4bce-983a-16ec29c97e52

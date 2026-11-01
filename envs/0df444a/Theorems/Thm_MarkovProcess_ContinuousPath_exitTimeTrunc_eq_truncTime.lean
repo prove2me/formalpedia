@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_ContinuousPath_exitTimeTrunc_eq_truncTime
 -- name    : MarkovProcess.ContinuousPath.exitTimeTrunc_eq_truncTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T08:32:45.979521+00:00
 -- url     : https://prove2.me/theorems/81975ddc-251c-4793-aca4-e61a8f79e451

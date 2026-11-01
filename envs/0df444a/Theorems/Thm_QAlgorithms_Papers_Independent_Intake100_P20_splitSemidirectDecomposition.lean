@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_splitSemidirectDecomposition
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.splitSemidirectDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:33:02.052182+00:00
 -- url     : https://prove2.me/theorems/72feacf5-0e3b-43fe-aea5-e8c79ced9b2a

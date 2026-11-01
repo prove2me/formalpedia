@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InconsistentDR_Shadow_proposition_6_5
 -- name    : InconsistentDR.Shadow.proposition_6_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:48.382696+00:00
 -- url     : https://prove2.me/theorems/c83b4f7d-cd79-4cd1-88c6-e9e2dd272087

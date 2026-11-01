@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for AvramDividend.Classical.scaleDeriv_tendsto_atTop
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T11:22:17.158741+00:00
 -- url     : https://prove2.me/submissions/6afbb709-6a4a-4c77-b24d-da9da785a12d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Defs
 import Mathlib.Analysis.Calculus.FDeriv.Basic

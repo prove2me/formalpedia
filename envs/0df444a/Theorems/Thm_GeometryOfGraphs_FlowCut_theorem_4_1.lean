@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_FlowCut_theorem_4_1
 -- name    : GeometryOfGraphs.FlowCut.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:58:04.381584+00:00
 -- url     : https://prove2.me/theorems/5c94f44b-72cb-4bee-b359-0348e6cf7d11

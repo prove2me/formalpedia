@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynDoubleAuction_TwoSided_welfare_loss
 -- name    : DynDoubleAuction.TwoSided.welfare_loss
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:44.242774+00:00
 -- url     : https://prove2.me/theorems/618f5685-830c-428c-8fd5-eae8e53dc29b

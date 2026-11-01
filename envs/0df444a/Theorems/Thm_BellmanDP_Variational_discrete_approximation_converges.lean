@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellmanDP_Variational_discrete_approximation_converges
 -- name    : BellmanDP.Variational.discrete_approximation_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T19:38:13.29631+00:00
 -- url     : https://prove2.me/theorems/fad4829d-0aa6-4e97-b593-45e384286460

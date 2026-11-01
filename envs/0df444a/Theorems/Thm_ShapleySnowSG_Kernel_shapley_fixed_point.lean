@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleySnowSG_Kernel_shapley_fixed_point
 -- name    : ShapleySnowSG.Kernel.shapley_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:35.82247+00:00
 -- url     : https://prove2.me/theorems/6384c849-a4dc-4a04-b922-36eeb800f7fd

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.scaleFunction_contDiff_one_of_absolutely_continuous_levy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-07T11:35:51.319091+00:00
 -- url     : https://prove2.me/submissions/05d310e6-d020-4386-bbd5-ad06c7db30fa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

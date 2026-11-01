@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PayAsBid_SoftReserve_allocation_anonymous_monotone
 -- name    : PayAsBid.SoftReserve.allocation_anonymous_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:01:48.587993+00:00
 -- url     : https://prove2.me/theorems/08293b78-5385-425e-ab43-970f62a52eb6

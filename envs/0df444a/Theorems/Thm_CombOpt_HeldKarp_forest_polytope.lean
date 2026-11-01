@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_HeldKarp_forest_polytope
 -- name    : CombOpt.HeldKarp.forest_polytope
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:10:40.130627+00:00
 -- url     : https://prove2.me/theorems/c776d601-fc92-4130-87e8-35d93f11f250

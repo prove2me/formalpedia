@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDelegation_Optimal_proposition_3_corrected
 -- name    : TeamDelegation.Optimal.proposition_3_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:17.048342+00:00
 -- url     : https://prove2.me/theorems/6611f369-c9db-498d-9074-c6d216341c6f

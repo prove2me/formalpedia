@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelMM_BTMap_F1
 -- name    : AccelMM.BTMap.F1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:34:05.707836+00:00
 -- url     : https://prove2.me/theorems/f6916c7e-36dc-4ad3-a402-eed5027566b0

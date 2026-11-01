@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeferredInspection_SingleAgent_lemma_1_part_1
 -- name    : DeferredInspection.SingleAgent.lemma_1_part_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:12.427826+00:00
 -- url     : https://prove2.me/theorems/a047dd79-c01d-4a7d-93d4-2a8dad2e7201

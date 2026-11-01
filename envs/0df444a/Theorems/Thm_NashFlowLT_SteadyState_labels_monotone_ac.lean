@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashFlowLT_SteadyState_labels_monotone_ac
 -- name    : NashFlowLT.SteadyState.labels_monotone_ac
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:28.508349+00:00
 -- url     : https://prove2.me/theorems/b8444042-ec84-48d1-bf96-526b948cc71c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_certifiedSDPBounds
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.certifiedSDPBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:39:31.47249+00:00
 -- url     : https://prove2.me/theorems/d2a50139-34aa-45b9-8acb-19355ea1488c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_martingale_discountedDynkinProcess
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.martingale_discountedDynkinProcess
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:40.435708+00:00
 -- url     : https://prove2.me/theorems/4c0f2a9e-632b-41c2-b96e-204a6a783e57

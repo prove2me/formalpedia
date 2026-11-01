@@ -1,10 +1,8 @@
 -- Prove2me | solution 14 for AvramDividend.Classical.cstar_lt_top
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T11:32:48.037426+00:00
 -- url     : https://prove2.me/submissions/79b3e36b-85b4-42bd-a7c0-5d68e66e0790
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Deriv
 import Mathlib.Analysis.Calculus.Deriv.Basic

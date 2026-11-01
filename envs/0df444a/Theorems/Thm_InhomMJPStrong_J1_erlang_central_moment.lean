@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InhomMJPStrong_J1_erlang_central_moment
 -- name    : InhomMJPStrong.J1.erlang_central_moment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:52.209084+00:00
 -- url     : https://prove2.me/theorems/4b23d7ec-1a21-43df-bff8-3b1ea4884757

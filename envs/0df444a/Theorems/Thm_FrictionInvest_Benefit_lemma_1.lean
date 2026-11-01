@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrictionInvest_Benefit_lemma_1
 -- name    : FrictionInvest.Benefit.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:33:57.766565+00:00
 -- url     : https://prove2.me/theorems/37f35562-ac48-4466-aded-c24bc2ed2239

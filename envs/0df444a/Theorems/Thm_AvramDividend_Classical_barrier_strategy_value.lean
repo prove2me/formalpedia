@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrier_strategy_value
 -- name    : AvramDividend.Classical.barrier_strategy_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:56:59.029129+00:00
 -- url     : https://prove2.me/theorems/5eb63c8f-c2ca-45bb-8a39-04e9d0d6b849

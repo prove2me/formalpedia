@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RapidRatePoisson_WeakConv_thinned_simple
 -- name    : RapidRatePoisson.WeakConv.thinned_simple
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:18:10.063806+00:00
 -- url     : https://prove2.me/theorems/a4a49ae1-2170-41ea-aeb5-46147960f646

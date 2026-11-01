@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_continuousProcess_condExp_shift_stoppingTime_lt_top
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.continuousProcess_condExp_shift_stoppingTime_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:37.500491+00:00
 -- url     : https://prove2.me/theorems/caaa2881-a8e0-4b2e-a753-2c13739da9f5

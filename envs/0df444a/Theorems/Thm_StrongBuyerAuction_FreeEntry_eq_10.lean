@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongBuyerAuction_FreeEntry_eq_10
 -- name    : StrongBuyerAuction.FreeEntry.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:56.381809+00:00
 -- url     : https://prove2.me/theorems/ac070909-797c-4ff3-9f61-6f4e8554bc8d

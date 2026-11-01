@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_localResolvent_le_succ
 -- name    : MarkovProcess.localResolvent_le_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:09.117623+00:00
 -- url     : https://prove2.me/theorems/0202ec00-471a-4782-978a-4476ef50e365

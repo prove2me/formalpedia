@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GittinsUCB_Patient_posterior_mean_law
 -- name    : GittinsUCB.Patient.posterior_mean_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:33:21.396179+00:00
 -- url     : https://prove2.me/theorems/31764c3e-b0af-4ff9-8080-d8d8150184fe

@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for AvramDividend.Classical.unbounded_tilted_scale_absolute_continuity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T02:44:14.99759+00:00
 -- url     : https://prove2.me/submissions/42f5e046-0d77-437a-88fe-4675441680f0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

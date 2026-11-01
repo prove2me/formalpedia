@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPostpone_Threshold_proposition_4_i
 -- name    : RiskPostpone.Threshold.proposition_4_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:47:39.854184+00:00
 -- url     : https://prove2.me/theorems/85b0448b-cf0f-487f-a901-c64098aced98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketFreeze_Hetero_eq_A7_thetaH
 -- name    : MarketFreeze.Hetero.eq_A7_thetaH
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:43.748309+00:00
 -- url     : https://prove2.me/theorems/da026661-cc57-4fe4-a8ed-43284e5aaf46

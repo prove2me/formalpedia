@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynDoubleAuction_TwoSided_lemma_5_2_range
 -- name    : DynDoubleAuction.TwoSided.lemma_5_2_range
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:42.318551+00:00
 -- url     : https://prove2.me/theorems/3afaac6f-324e-4d9c-b054-1a8427355e9d

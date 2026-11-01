@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FollowCrowd_Inference_congestion_effect
 -- name    : FollowCrowd.Inference.congestion_effect
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:10.487988+00:00
 -- url     : https://prove2.me/theorems/407d5002-e7e5-40cd-8c18-13556592a3ab

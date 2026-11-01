@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DurrettProbability_donsker_occupation
 -- name    : DurrettProbability.donsker_occupation
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-19T02:16:55.093727+00:00
 -- url     : https://prove2.me/theorems/44a7e533-def6-4c9c-99bc-881730407b25

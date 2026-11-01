@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_integral_exp_eval_exitTimeTrunc_sub_eq_integral_integral
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.integral_exp_eval_exitTimeTrunc_sub_eq_integral_integral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:53.212123+00:00
 -- url     : https://prove2.me/theorems/bdb5e182-8df7-4d12-97f6-d34bf35f1380

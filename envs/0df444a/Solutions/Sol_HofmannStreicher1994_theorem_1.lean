@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HofmannStreicher1994.theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-29T23:25:13.411895+00:00
 -- url     : https://prove2.me/submissions/c399cbad-ca01-4af9-8e7c-b8e97717b473
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HofmannStreicher1994_uip_underivable
 

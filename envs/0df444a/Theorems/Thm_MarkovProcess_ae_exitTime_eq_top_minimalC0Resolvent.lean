@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_ae_exitTime_eq_top_minimalC0Resolvent
 -- name    : MarkovProcess.ae_exitTime_eq_top_minimalC0Resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:11.228269+00:00
 -- url     : https://prove2.me/theorems/602844b0-7618-4de2-815b-cc0480debfe2

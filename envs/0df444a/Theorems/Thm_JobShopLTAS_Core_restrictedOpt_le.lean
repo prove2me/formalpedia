@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JobShopLTAS_Core_restrictedOpt_le
 -- name    : JobShopLTAS.Core.restrictedOpt_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:24:49.043783+00:00
 -- url     : https://prove2.me/theorems/3bc572c3-2dde-4b47-bf75-c1e6fe1cc7b3

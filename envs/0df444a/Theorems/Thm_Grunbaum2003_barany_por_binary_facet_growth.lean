@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_barany_por_binary_facet_growth
 -- name    : Grunbaum2003.barany_por_binary_facet_growth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T05:37:16.277236+00:00
 -- url     : https://prove2.me/theorems/65809ec1-5bb9-4c49-b19b-40c68ebe3ab9

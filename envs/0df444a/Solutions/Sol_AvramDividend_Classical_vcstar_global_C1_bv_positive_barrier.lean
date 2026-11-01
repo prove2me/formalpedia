@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.vcstar_global_C1_bv_positive_barrier
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-07T23:24:43.933925+00:00
 -- url     : https://prove2.me/submissions/9511d403-c8c5-4a64-b9cb-efb69e846706
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

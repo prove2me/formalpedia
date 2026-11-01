@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.barrier_cstar_attains_value_below_barrier
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-07T17:48:12.034502+00:00
 -- url     : https://prove2.me/submissions/9c04b04f-bd92-4c3c-b346-143bd133d792
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

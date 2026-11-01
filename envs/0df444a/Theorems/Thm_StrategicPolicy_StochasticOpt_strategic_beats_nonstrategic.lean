@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicPolicy_StochasticOpt_strategic_beats_nonstrategic
 -- name    : StrategicPolicy.StochasticOpt.strategic_beats_nonstrategic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T13:00:33.196502+00:00
 -- url     : https://prove2.me/theorems/9b66e503-79e4-44b7-ae47-b90e483e8bdc

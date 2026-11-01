@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelMM_BTMap_lamMax_le_two_degM
 -- name    : AccelMM.BTMap.lamMax_le_two_degM
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:34:18.231857+00:00
 -- url     : https://prove2.me/theorems/259d8463-d869-46ef-a63b-90882a2cb7eb

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.cstar_optimal_barrier
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T13:06:40.397018+00:00
 -- url     : https://prove2.me/submissions/f0b5aeca-8034-483e-8e37-57ec0a8c00f1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DouyinDQ_Bias_eq_5
 -- name    : DouyinDQ.Bias.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:05:38.880063+00:00
 -- url     : https://prove2.me/theorems/29b7a4c1-b078-4f61-bc6c-04977271f3f2

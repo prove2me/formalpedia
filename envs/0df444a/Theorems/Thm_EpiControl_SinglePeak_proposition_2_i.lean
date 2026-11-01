@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EpiControl_SinglePeak_proposition_2_i
 -- name    : EpiControl.SinglePeak.proposition_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:38.488674+00:00
 -- url     : https://prove2.me/theorems/92504a59-fe8b-4f80-9eb5-1261663aacbb

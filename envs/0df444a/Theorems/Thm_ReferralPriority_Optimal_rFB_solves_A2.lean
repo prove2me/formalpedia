@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferralPriority_Optimal_rFB_solves_A2
 -- name    : ReferralPriority.Optimal.rFB_solves_A2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:09.276986+00:00
 -- url     : https://prove2.me/theorems/63815e6d-5385-4b15-b9f2-72326b14a034

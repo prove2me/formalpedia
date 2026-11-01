@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SRPTManyServer_Collapse_capacity_constraint_5
 -- name    : SRPTManyServer.Collapse.capacity_constraint_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:04:11.659122+00:00
 -- url     : https://prove2.me/theorems/e7ccb5cf-03ff-41c3-92f2-e7d5e2d5557a

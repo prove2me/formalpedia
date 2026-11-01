@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BoltzmannNonuniqueness_nonuniqueness
 -- name    : OAI.BoltzmannNonuniqueness.nonuniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:23.680846+00:00
 -- url     : https://prove2.me/theorems/4e4ffef4-7190-46d1-8222-e3c830f91b41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMStrongSim_RecordBreak_last_record_finite_ae
 -- name    : FBMStrongSim.RecordBreak.last_record_finite_ae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:01:37.750394+00:00
 -- url     : https://prove2.me/theorems/dad965d3-fe95-45cd-8509-1941979be6a5

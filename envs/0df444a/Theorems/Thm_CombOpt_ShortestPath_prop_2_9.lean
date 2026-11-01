@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_ShortestPath_prop_2_9
 -- name    : CombOpt.ShortestPath.prop_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:03:35.021353+00:00
 -- url     : https://prove2.me/theorems/993c974b-0aba-423a-8063-09a90d84bba5

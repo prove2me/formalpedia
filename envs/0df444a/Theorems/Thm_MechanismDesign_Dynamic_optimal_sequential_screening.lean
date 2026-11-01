@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MechanismDesign_Dynamic_optimal_sequential_screening
 -- name    : MechanismDesign.Dynamic.optimal_sequential_screening
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T06:11:20.65598+00:00
 -- url     : https://prove2.me/theorems/1d94358a-70b7-4500-889e-7d59e6611c91

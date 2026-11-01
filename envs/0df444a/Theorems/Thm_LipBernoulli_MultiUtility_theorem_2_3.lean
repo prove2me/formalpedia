@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LipBernoulli_MultiUtility_theorem_2_3
 -- name    : LipBernoulli.MultiUtility.theorem_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:14:10.860012+00:00
 -- url     : https://prove2.me/theorems/244038b3-b774-43be-9d07-7c6bdf7b7103

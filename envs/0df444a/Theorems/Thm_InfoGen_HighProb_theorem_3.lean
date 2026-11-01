@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoGen_HighProb_theorem_3
 -- name    : InfoGen.HighProb.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:28:09.853913+00:00
 -- url     : https://prove2.me/theorems/59fea93d-8cd6-4b40-b566-107c3f5c179f

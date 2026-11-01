@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynDoubleAuction_TwoSided_expected_exit
 -- name    : DynDoubleAuction.TwoSided.expected_exit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:41.607309+00:00
 -- url     : https://prove2.me/theorems/fa64d928-a4f9-4942-9d91-24fac85e21dc

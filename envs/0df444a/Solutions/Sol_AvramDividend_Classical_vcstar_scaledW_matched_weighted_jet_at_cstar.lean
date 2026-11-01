@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.vcstar_scaledW_matched_weighted_jet_at_cstar
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-08T16:56:31.47548+00:00
 -- url     : https://prove2.me/submissions/c31de6af-bbbc-4283-9ec7-b525522bf755
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

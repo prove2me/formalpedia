@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterimTesting_NotProficient_eq_A214
 -- name    : InterimTesting.NotProficient.eq_A214
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:58.422526+00:00
 -- url     : https://prove2.me/theorems/40cf0ea1-4c88-4ff5-a14e-e295a4623ed4

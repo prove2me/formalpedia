@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.scaleFunction_excursion_tail_derivative_representation_of_gaussian
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-21T21:29:30.450723+00:00
 -- url     : https://prove2.me/submissions/7db69c9f-0f1f-44e0-a878-2ab4a6f3db97
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.Deriv.Basic
 import Mathlib.MeasureTheory.MeasurableSpace.Defs

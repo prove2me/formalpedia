@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PositiveEinsteinFour_orientedClassification
 -- name    : OAI.PositiveEinsteinFour.orientedClassification
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:06.039991+00:00
 -- url     : https://prove2.me/theorems/77d3b941-ffed-4344-a369-4165b53a5a91

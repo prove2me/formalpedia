@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_deriv_ge_one
 -- name    : AvramDividend.Classical.vcstar_deriv_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:58:42.686185+00:00
 -- url     : https://prove2.me/theorems/d42fc3e4-7a32-428c-80a3-1827a721cf4f

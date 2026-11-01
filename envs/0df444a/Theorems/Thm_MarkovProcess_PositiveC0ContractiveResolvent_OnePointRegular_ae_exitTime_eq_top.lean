@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_PositiveC0ContractiveResolvent_OnePointRegular_ae_exitTime_eq_top
 -- name    : MarkovProcess.PositiveC0ContractiveResolvent.OnePointRegular.ae_exitTime_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:41.474277+00:00
 -- url     : https://prove2.me/theorems/ad5b453f-3ff9-48b3-b2d9-df6274fa2a24

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.unbounded_tilted_scale_absolute_continuity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-21T22:27:47.026496+00:00
 -- url     : https://prove2.me/submissions/2cb90e0b-9f8e-4e26-b4e0-56756817a7dc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Defs
 import Mathlib.Analysis.Complex.Exponential

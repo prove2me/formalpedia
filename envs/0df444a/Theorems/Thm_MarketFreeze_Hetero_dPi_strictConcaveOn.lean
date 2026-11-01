@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketFreeze_Hetero_dPi_strictConcaveOn
 -- name    : MarketFreeze.Hetero.dPi_strictConcaveOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:49.89451+00:00
 -- url     : https://prove2.me/theorems/4bf5e884-1a94-4f1f-b0ff-a7e65db94306

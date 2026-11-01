@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_edge_maximal_completion__p2m_7cf6806e_5be6_4790_8cad_719b856f9dab_a1
 -- name    : WilliamsonShmoys.planar_drawing_has_edge_maximal_completion__p2m_7cf6806e_5be6_4790_8cad_719b856f9dab_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:21:52.893639+00:00
 -- url     : https://prove2.me/theorems/0cefbc89-9ee6-49b2-9b84-ef741e6aba70

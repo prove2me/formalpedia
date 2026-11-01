@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretPricing_Structure_unbiased_price_unique
 -- name    : RegretPricing.Structure.unbiased_price_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:34.359846+00:00
 -- url     : https://prove2.me/theorems/ccc6e106-7511-4070-8048-17599c30ad2f

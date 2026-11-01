@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuyXFree_Threshold_corollary_2
 -- name    : BuyXFree.Threshold.corollary_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:34.612867+00:00
 -- url     : https://prove2.me/theorems/4ab0853f-1ce2-4c03-9d7a-a6296773ea30

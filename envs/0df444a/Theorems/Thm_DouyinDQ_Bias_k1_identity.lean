@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DouyinDQ_Bias_k1_identity
 -- name    : DouyinDQ.Bias.k1_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:05:47.228985+00:00
 -- url     : https://prove2.me/theorems/a626176d-cc95-4e82-9b91-528dc3f1c3a5

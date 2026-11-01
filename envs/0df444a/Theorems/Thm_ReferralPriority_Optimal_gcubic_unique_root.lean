@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferralPriority_Optimal_gcubic_unique_root
 -- name    : ReferralPriority.Optimal.gcubic_unique_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:19.610568+00:00
 -- url     : https://prove2.me/theorems/66dbf035-8a4b-4b4b-8558-a8d1a5bf68fb

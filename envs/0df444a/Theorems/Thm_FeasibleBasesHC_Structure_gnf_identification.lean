@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeasibleBasesHC_Structure_gnf_identification
 -- name    : FeasibleBasesHC.Structure.gnf_identification
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:57.166846+00:00
 -- url     : https://prove2.me/theorems/f0c9fa90-30e7-4912-aeeb-f1cc48ed68e5

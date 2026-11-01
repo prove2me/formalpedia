@@ -1,10 +1,8 @@
 -- Prove2me | solution 19 for AvramDividend.Classical.barrier_strategy_value
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T15:57:26.874181+00:00
 -- url     : https://prove2.me/submissions/b161ca46-c82c-439f-a32d-74c84a2331c8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Continuation for AvramDividend.Classical.barrier_strategy_value [5eb63c8f]
 -- Mission 1300fbe7, revision 0df444a360eaa60ab8c11dca51a86af692955474.

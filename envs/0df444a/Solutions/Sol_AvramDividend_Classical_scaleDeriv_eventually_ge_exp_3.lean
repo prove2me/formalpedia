@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.scaleDeriv_eventually_ge_exp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-05T19:40:19.126701+00:00
 -- url     : https://prove2.me/submissions/88268d4d-9092-40fe-8e67-3780d10a2063
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

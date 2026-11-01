@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedPCTSP_Rooted_dual_feasible
 -- name    : BudgetedPCTSP.Rooted.dual_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:57:32.516682+00:00
 -- url     : https://prove2.me/theorems/01322adf-f088-4cd4-940b-15b76b393641

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_excursion_tail_derivative_representation_of_infinite_small_jump
 -- name    : AvramDividend.Classical.scaleFunction_excursion_tail_derivative_representation_of_infinite_small_jump
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:03:06.32287+00:00
 -- url     : https://prove2.me/theorems/55c2640d-d105-413d-88bc-254061aa5139

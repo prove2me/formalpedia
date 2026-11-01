@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.vcstar_deriv_continuous_on_positive_bv
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-19T21:12:45.812538+00:00
 -- url     : https://prove2.me/submissions/8cb19bc3-fcd7-4eac-86cb-4ccda0bdacab
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Topology.Piecewise
 import Mathlib.Topology.Order.OrderClosed

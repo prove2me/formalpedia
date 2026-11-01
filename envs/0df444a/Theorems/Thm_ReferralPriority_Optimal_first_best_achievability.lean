@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferralPriority_Optimal_first_best_achievability
 -- name    : ReferralPriority.Optimal.first_best_achievability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:10.877101+00:00
 -- url     : https://prove2.me/theorems/651b12eb-47eb-4525-b36b-cf0700d93654

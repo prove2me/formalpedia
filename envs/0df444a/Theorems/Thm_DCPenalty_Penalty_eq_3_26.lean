@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DCPenalty_Penalty_eq_3_26
 -- name    : DCPenalty.Penalty.eq_3_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:24.102893+00:00
 -- url     : https://prove2.me/theorems/b200c41e-d534-4873-ae51-fa9501236d48

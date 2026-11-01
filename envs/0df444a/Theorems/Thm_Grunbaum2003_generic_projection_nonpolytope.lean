@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_generic_projection_nonpolytope
 -- name    : Grunbaum2003.generic_projection_nonpolytope
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-12T04:13:24.658281+00:00
 -- url     : https://prove2.me/theorems/adfc78ab-3e2b-447e-99ee-e37bed529008

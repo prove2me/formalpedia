@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlySeeding_EdgeQuery_stochastic_greedy
 -- name    : CostlySeeding.EdgeQuery.stochastic_greedy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:21.594551+00:00
 -- url     : https://prove2.me/theorems/803a6e10-5397-4c07-a28e-cf122bd462e2

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.unbounded_tilted_scale_log_concavity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T07:16:56.133331+00:00
 -- url     : https://prove2.me/submissions/e2389111-01a2-4a3a-becf-9e6141ed9463
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_unbounded_scale_log_concavity_core
 import Theorems.Thm_AvramDividend_Classical_esscher_tilted_log_concave_of_scale_log_concave

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongBuyerAuction_FreeEntry_lemma_1_dominance
 -- name    : StrongBuyerAuction.FreeEntry.lemma_1_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:45.774241+00:00
 -- url     : https://prove2.me/theorems/ce5c5edd-f680-454c-8ffe-dd3e0190c382

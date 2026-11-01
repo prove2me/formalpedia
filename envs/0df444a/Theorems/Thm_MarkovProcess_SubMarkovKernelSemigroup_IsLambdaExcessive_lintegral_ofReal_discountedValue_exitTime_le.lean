@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsLambdaExcessive_lintegral_ofReal_discountedValue_exitTime_le
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsLambdaExcessive.lintegral_ofReal_discountedValue_exitTime_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:01.067469+00:00
 -- url     : https://prove2.me/theorems/4bc40ebb-1449-41f2-8e2e-cd28ff2b9468

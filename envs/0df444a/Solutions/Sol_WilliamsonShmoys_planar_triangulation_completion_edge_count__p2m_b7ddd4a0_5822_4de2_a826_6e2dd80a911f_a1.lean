@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_triangulation_completion_edge_count__p2m_b7ddd4a0_5822_4de2_a826_6e2dd80a911f_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:23:35.68431+00:00
 -- url     : https://prove2.me/submissions/86f8446a-7500-4ccc-bd4c-3481f1acf5f2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

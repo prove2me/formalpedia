@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_LossLimits_fluctuation_exp_moment_bound
 -- name    : KellyStochasticNetworks.LossLimits.fluctuation_exp_moment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-31T05:11:13.563361+00:00
 -- url     : https://prove2.me/theorems/9af8c28e-12b9-4df1-bc6d-17f4aa2a6134

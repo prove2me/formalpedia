@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleySnowSG_Kernel_prop_3_2_1
 -- name    : ShapleySnowSG.Kernel.prop_3_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:51.239976+00:00
 -- url     : https://prove2.me/theorems/cc1e28de-b5dc-4185-b9e3-58cc8e45d601

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashPoly_Generic_ne_mem_feas
 -- name    : NashPoly.Generic.ne_mem_feas
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:30:55.418634+00:00
 -- url     : https://prove2.me/theorems/5d04793f-8b26-4414-9900-74db71739f2a

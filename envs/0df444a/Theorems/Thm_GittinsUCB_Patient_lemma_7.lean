@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GittinsUCB_Patient_lemma_7
 -- name    : GittinsUCB.Patient.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:33:36.580926+00:00
 -- url     : https://prove2.me/theorems/500f7ebf-4bb3-4fbc-88d6-a75d539c2894

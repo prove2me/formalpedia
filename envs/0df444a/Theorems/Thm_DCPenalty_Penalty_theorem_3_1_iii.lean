@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DCPenalty_Penalty_theorem_3_1_iii
 -- name    : DCPenalty.Penalty.theorem_3_1_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:13:10.925675+00:00
 -- url     : https://prove2.me/theorems/c1faf3cb-f887-45f3-b4a1-d3e3a0de21a2

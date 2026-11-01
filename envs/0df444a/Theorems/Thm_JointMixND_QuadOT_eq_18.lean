@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JointMixND_QuadOT_eq_18
 -- name    : JointMixND.QuadOT.eq_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:58.856837+00:00
 -- url     : https://prove2.me/theorems/d145b376-bb82-4b7b-a08e-5b1a1e005a8b

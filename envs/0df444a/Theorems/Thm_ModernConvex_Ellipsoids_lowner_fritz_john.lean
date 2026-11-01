@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Ellipsoids_lowner_fritz_john
 -- name    : ModernConvex.Ellipsoids.lowner_fritz_john
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:53.23605+00:00
 -- url     : https://prove2.me/theorems/6a232b38-e29f-47b6-b590-dc4d093f1f29

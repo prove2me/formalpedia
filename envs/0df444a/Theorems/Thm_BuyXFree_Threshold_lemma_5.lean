@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuyXFree_Threshold_lemma_5
 -- name    : BuyXFree.Threshold.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:26.49029+00:00
 -- url     : https://prove2.me/theorems/481b7429-2929-45ff-b3ef-975708b88a55

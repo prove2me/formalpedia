@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_ae_shift_exitTime_eq_const_of_compl_eq_singleton
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.ae_shift_exitTime_eq_const_of_compl_eq_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:57.982661+00:00
 -- url     : https://prove2.me/theorems/f84574dc-a308-448b-aaf0-eca45dc37446

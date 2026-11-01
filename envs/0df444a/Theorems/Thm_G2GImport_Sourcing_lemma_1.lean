@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_G2GImport_Sourcing_lemma_1
 -- name    : G2GImport.Sourcing.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:49.810829+00:00
 -- url     : https://prove2.me/theorems/927c5820-a706-4f60-bec4-46c094f8a842

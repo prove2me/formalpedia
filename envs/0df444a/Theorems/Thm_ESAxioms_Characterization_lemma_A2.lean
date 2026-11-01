@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ESAxioms_Characterization_lemma_A2
 -- name    : ESAxioms.Characterization.lemma_A2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:35:09.467781+00:00
 -- url     : https://prove2.me/theorems/b49d91ff-d514-44a7-abff-e32450363b7e

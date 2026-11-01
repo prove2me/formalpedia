@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetAgg_NashChar_theorem_3_uniqueness
 -- name    : BudgetAgg.NashChar.theorem_3_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:56.782932+00:00
 -- url     : https://prove2.me/theorems/b5c36a95-a40b-4500-b731-904d219f70ac

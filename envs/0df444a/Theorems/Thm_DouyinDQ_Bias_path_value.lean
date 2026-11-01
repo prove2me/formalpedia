@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DouyinDQ_Bias_path_value
 -- name    : DouyinDQ.Bias.path_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:05:49.94125+00:00
 -- url     : https://prove2.me/theorems/1c11341e-c768-4ba6-a69d-6ff69d0f72c9

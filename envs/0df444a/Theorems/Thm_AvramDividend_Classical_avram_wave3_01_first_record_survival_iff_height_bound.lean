@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_01_first_record_survival_iff_height_bound
 -- name    : AvramDividend.Classical.avram_wave3_01_first_record_survival_iff_height_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:35:51.152989+00:00
 -- url     : https://prove2.me/theorems/0b08ab70-9773-4d31-af46-34e4b37efd0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetAgg_NashChar_lemma_9
 -- name    : BudgetAgg.NashChar.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:47.23633+00:00
 -- url     : https://prove2.me/theorems/5fb47a2c-78a2-4e71-b3f7-c4b64f852154

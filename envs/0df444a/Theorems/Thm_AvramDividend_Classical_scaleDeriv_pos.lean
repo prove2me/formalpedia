@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleDeriv_pos
 -- name    : AvramDividend.Classical.scaleDeriv_pos
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T23:38:46.515747+00:00
 -- url     : https://prove2.me/theorems/4052a131-7dd0-410a-beea-24c391226b00

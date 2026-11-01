@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferralPriority_Optimal_eq_A6_strict
 -- name    : ReferralPriority.Optimal.eq_A6_strict
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:14.614138+00:00
 -- url     : https://prove2.me/theorems/64745d2b-7c0c-4ea9-b216-4d69c7381379

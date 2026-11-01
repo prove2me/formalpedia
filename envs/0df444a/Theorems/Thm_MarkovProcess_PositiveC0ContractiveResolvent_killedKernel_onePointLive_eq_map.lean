@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_PositiveC0ContractiveResolvent_killedKernel_onePointLive_eq_map
 -- name    : MarkovProcess.PositiveC0ContractiveResolvent.killedKernel_onePointLive_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:28.576881+00:00
 -- url     : https://prove2.me/theorems/3c5f3fcd-45b7-4529-be7a-cb055e0ccd62

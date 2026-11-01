@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_cstar_finite_zero_or_deriv_minimal
 -- name    : AvramDividend.Classical.cstar_finite_zero_or_deriv_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T23:31:55.015089+00:00
 -- url     : https://prove2.me/theorems/ee428038-3735-472d-a30b-5fd6a61440fa

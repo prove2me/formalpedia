@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RapidRatePoisson_WeakConv_scaledComp_tendsto
 -- name    : RapidRatePoisson.WeakConv.scaledComp_tendsto
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:18:11.983699+00:00
 -- url     : https://prove2.me/theorems/a27a8f09-6061-49f9-9ac5-e82edabaec40

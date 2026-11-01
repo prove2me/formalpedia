@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetAgg_NashChar_theorem_3
 -- name    : BudgetAgg.NashChar.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:43.546019+00:00
 -- url     : https://prove2.me/theorems/0ac74e99-1b83-43c5-8bd0-1f78e049f0fc

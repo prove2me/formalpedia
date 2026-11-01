@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BerryEsseenFeller_berry_esseen
 -- name    : BerryEsseenFeller.berry_esseen
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-05T01:37:57.845982+00:00
 -- url     : https://prove2.me/theorems/456131bd-0fa5-4289-95d3-09a5f825da8e

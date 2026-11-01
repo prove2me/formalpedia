@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HofmannStreicher1994_theorem_1
 -- name    : HofmannStreicher1994.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-29T06:18:15.314983+00:00
 -- url     : https://prove2.me/theorems/1350ae48-4c23-422a-afda-87048668fece

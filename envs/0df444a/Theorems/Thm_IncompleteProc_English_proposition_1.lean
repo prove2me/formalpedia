@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncompleteProc_English_proposition_1
 -- name    : IncompleteProc.English.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:06:41.014799+00:00
 -- url     : https://prove2.me/theorems/e1a6c251-4a3a-487c-ba3b-4ff0b1859574

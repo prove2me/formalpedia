@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_05_tent_gaussian_interior_remainder_integrable
 -- name    : AvramDividend.Classical.avram_wave3_05_tent_gaussian_interior_remainder_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:40:33.210135+00:00
 -- url     : https://prove2.me/theorems/e11ef020-55db-439d-9453-829faf4820f4

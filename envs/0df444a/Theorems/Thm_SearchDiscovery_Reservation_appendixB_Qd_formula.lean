@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SearchDiscovery_Reservation_appendixB_Qd_formula
 -- name    : SearchDiscovery.Reservation.appendixB_Qd_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:27:42.771189+00:00
 -- url     : https://prove2.me/theorems/2b7032ed-54b7-4cab-aae5-3b6169457873

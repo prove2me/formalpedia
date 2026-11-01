@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedEntropyGames_ConvRate_eq_24_25
 -- name    : BoundedEntropyGames.ConvRate.eq_24_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:49.418629+00:00
 -- url     : https://prove2.me/theorems/7ec71d97-7651-43a1-95be-c905ae9ddb4d

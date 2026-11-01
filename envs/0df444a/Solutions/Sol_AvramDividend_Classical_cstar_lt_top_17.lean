@@ -1,10 +1,8 @@
 -- Prove2me | solution 17 for AvramDividend.Classical.cstar_lt_top
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T19:03:10.369706+00:00
 -- url     : https://prove2.me/submissions/e71714af-9222-48fc-9107-ff801bdef0af
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Deriv
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_tilted_positive_monotone

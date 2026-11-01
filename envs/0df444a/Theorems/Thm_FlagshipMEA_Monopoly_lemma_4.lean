@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlagshipMEA_Monopoly_lemma_4
 -- name    : FlagshipMEA.Monopoly.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:08:50.000546+00:00
 -- url     : https://prove2.me/theorems/c65fa81c-78d1-42b9-8b6f-1d3e4762284e

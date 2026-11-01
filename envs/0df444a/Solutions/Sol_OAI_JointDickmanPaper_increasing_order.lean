@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.JointDickmanPaper.increasing_order
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @shivm
 -- created : 2026-10-17T18:53:47.825606+00:00
 -- url     : https://prove2.me/submissions/79046b74-0027-4025-a5bd-72f7520023a0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_JointDickman

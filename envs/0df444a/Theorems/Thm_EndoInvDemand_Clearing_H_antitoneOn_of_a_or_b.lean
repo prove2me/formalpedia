@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoInvDemand_Clearing_H_antitoneOn_of_a_or_b
 -- name    : EndoInvDemand.Clearing.H_antitoneOn_of_a_or_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:48.552015+00:00
 -- url     : https://prove2.me/theorems/47f7b983-a2b8-4748-8eee-8b67387547e2

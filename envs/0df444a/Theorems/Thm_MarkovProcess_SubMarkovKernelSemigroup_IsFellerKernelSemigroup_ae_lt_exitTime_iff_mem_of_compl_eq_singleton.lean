@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_ae_lt_exitTime_iff_mem_of_compl_eq_singleton
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.ae_lt_exitTime_iff_mem_of_compl_eq_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:34.736981+00:00
 -- url     : https://prove2.me/theorems/d752dee5-d2d4-4e85-a325-9d4e3ac9b718

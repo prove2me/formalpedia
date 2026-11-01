@@ -1,10 +1,8 @@
 -- Prove2me | solution 11 for AvramDividend.Classical.scaleFunction_contDiff_one_of_unbounded_variation_nonpositive_q
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-29T08:40:41.635208+00:00
 -- url     : https://prove2.me/submissions/5d7dfb2a-24ca-4e0e-8717-7d2774de976a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

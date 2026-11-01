@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_incidence_bound__p2m_f9c8d92b_3a05_45f0_b41b_64ba71ce8cc1_a5
 -- name    : WilliamsonShmoys.planar_drawing_face_incidence_bound__p2m_f9c8d92b_3a05_45f0_b41b_64ba71ce8cc1_a5
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:59:24.07693+00:00
 -- url     : https://prove2.me/theorems/3948e52b-b0d7-479f-b947-2a84e2ebda9e

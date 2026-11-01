@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_card_max_drawable_supergraph__p2m_e7afab76_b36c_483c_9361_7e3fa4f8788a_a1
 -- name    : WilliamsonShmoys.exists_card_max_drawable_supergraph__p2m_e7afab76_b36c_483c_9361_7e3fa4f8788a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:47:37.898835+00:00
 -- url     : https://prove2.me/theorems/340f9e76-64f2-48e1-9fcc-1c693aa1e5eb

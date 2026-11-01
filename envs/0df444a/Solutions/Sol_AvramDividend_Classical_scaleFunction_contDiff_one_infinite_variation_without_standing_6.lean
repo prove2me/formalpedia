@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for AvramDividend.Classical.scaleFunction_contDiff_one_infinite_variation_without_standing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T04:56:04.757919+00:00
 -- url     : https://prove2.me/submissions/3962bb30-3396-4268-9c71-9c1b441f52cd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

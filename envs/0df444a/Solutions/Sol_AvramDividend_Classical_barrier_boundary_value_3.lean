@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.barrier_boundary_value
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T21:51:17.958571+00:00
 -- url     : https://prove2.me/submissions/6fba0c92-1bb2-477e-a4f2-23ac4fed06b0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

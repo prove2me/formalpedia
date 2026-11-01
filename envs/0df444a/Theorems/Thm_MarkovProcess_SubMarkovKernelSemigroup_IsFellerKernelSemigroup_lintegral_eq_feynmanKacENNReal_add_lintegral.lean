@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_lintegral_eq_feynmanKacENNReal_add_lintegral
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.lintegral_eq_feynmanKacENNReal_add_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:45.332236+00:00
 -- url     : https://prove2.me/theorems/bc23ae66-2f73-4748-9497-1d6500db65d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoInvDemand_Clearing_Theta_neg_of_gt_root_of_c_or_d
 -- name    : EndoInvDemand.Clearing.Theta_neg_of_gt_root_of_c_or_d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:51.770727+00:00
 -- url     : https://prove2.me/theorems/f0057042-a614-4d2f-9746-2b342c3f69d8

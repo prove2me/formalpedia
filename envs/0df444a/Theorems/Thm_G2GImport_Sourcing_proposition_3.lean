@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_G2GImport_Sourcing_proposition_3
 -- name    : G2GImport.Sourcing.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:52.20663+00:00
 -- url     : https://prove2.me/theorems/3f276bc7-c6c7-49e1-b50c-5c1f89767563

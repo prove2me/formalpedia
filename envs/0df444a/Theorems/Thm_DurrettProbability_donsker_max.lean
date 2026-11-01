@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DurrettProbability_donsker_max
 -- name    : DurrettProbability.donsker_max
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-19T02:16:22.611582+00:00
 -- url     : https://prove2.me/theorems/44534506-ff52-4218-a77f-6664bcc308f5

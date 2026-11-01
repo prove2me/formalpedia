@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.scaleDeriv_continuous
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-09-30T06:32:35.183965+00:00
 -- url     : https://prove2.me/submissions/cf6be96e-1896-46bf-ad51-84df166f7fa3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

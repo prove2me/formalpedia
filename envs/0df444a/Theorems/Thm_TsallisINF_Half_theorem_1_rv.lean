@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsallisINF_Half_theorem_1_rv
 -- name    : TsallisINF.Half.theorem_1_rv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:27:12.260998+00:00
 -- url     : https://prove2.me/theorems/64936a5c-cf5c-4899-9f7e-bc1e7c230bf4

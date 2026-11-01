@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PandemicInfo_Inequality_theorem_2
 -- name    : PandemicInfo.Inequality.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:34:08.136515+00:00
 -- url     : https://prove2.me/theorems/2bcd08e9-a1ad-4559-93c9-43029b2113d2

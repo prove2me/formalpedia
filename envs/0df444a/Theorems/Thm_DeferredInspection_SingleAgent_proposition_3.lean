@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeferredInspection_SingleAgent_proposition_3
 -- name    : DeferredInspection.SingleAgent.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:15.866062+00:00
 -- url     : https://prove2.me/theorems/13b88bb9-a594-42af-a841-c180067f2e6d

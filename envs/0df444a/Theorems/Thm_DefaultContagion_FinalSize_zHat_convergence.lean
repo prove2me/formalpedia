@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DefaultContagion_FinalSize_zHat_convergence
 -- name    : DefaultContagion.FinalSize.zHat_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:12.08963+00:00
 -- url     : https://prove2.me/theorems/57f2e6ec-46eb-42e2-9ed0-12074bb2dbb1

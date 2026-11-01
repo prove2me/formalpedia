@@ -15929,8 +15929,8 @@
 {"parent": "OAI.LaughlinFock.integer_certificate_23", "child": "OAIQ084L043", "via": ["solution", "statement"]}
 {"parent": "OAI.ElasticityGeneralSlicing.smooth_cylinder_representative", "child": "OAIQ6El003", "via": ["statement"]}
 {"parent": "OAI.ElasticityGeneralSlicing.smooth_cylinder_representative", "child": "OAIQ6El002", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.unbounded_scale_log_concavity_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.unbounded_scale_log_concavity_core", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.unbounded_scale_log_concavity_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.unbounded_scale_log_concavity_core", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff6.positive_w032_s0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "K24.Global.actual_holder_vector_operators", "child": "K24GlobalStatement", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteN3BsCutoffWeights_8_valid", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
@@ -54678,7 +54678,7 @@
 {"parent": "WilliamsonShmoys.maximal_planar_edge_count_54a0e51c_08bc_41d0_9e00_f8ba78b35c82", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_w1007_s7", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.bv_actual_grid_active_count_binomial_ws01b", "child": "AvramDividend.Classical.bv_actual_levy_residual_ae_monotone_all_times", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.bv_actual_grid_active_count_binomial_ws01b", "child": "AvramDividend.Classical.bv_binary_grid_count_partition_ws01b", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.bv_actual_grid_active_count_binomial_ws01b", "child": "AvramDividend.Classical.bv_binary_grid_count_partition_ws01b", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.levy_generator_two_exponentials_linear", "child": "AvramDividend.Classical.levy_generator_add_of_jet_additive", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.levy_generator_two_exponentials_linear", "child": "AvramDividend.Classical.levyWeight_integrable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.levy_generator_two_exponentials_linear", "child": "AvramDividend.Classical.levy_exponential_generatorIntegrable_of_moment", "via": ["solution", "statement"]}

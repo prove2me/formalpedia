@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PESContracts_Linear_theorem_1
 -- name    : PESContracts.Linear.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:41.203317+00:00
 -- url     : https://prove2.me/theorems/be70bf33-dcdd-4e12-9a0c-3e6b6327fc25

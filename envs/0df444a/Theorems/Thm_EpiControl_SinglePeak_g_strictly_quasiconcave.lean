@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EpiControl_SinglePeak_g_strictly_quasiconcave
 -- name    : EpiControl.SinglePeak.g_strictly_quasiconcave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:52.972896+00:00
 -- url     : https://prove2.me/theorems/2f0a27cd-79ae-41c2-b08e-823d09beb578

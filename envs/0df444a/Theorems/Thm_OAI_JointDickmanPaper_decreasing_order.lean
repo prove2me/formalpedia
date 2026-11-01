@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_JointDickmanPaper_decreasing_order
 -- name    : OAI.JointDickmanPaper.decreasing_order
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:49.00222+00:00
 -- url     : https://prove2.me/theorems/e319416a-7a43-4335-be47-b067bb2f9b49

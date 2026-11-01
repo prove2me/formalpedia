@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.cstar_scale_derivative_shape
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T14:26:11.091316+00:00
 -- url     : https://prove2.me/submissions/e0c0db29-8945-4baa-abd4-eb688f27c4f4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Deriv
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

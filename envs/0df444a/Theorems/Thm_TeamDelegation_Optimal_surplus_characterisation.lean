@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDelegation_Optimal_surplus_characterisation
 -- name    : TeamDelegation.Optimal.surplus_characterisation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:23.141173+00:00
 -- url     : https://prove2.me/theorems/5971f536-8b15-4f62-a05a-738fe9c0c07e

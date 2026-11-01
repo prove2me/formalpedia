@@ -1,0 +1,6587 @@
+-- Prove2me | solution 1 for OAI.BoltzmannNonuniqueness.JetCopyDatum.retained_second_small_off_bands_q80
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-10-31T19:57:47.147992+00:00
+-- url     : https://prove2.me/submissions/6947cdcf-e7f3-4333-98d1-080f416b8e3b
+
+import Mathlib
+import Definitions.Def_BoltzmannNonuniqueness
+import Definitions.Def_OAIQ080A002
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_AxialFlow
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# The monotone implicit axial flow
+
+The cold jet profile in Section 4 of the supplied manuscript is
+`σ + α * tanh (γ * z / s)`. Its characteristic map is expanding,
+giving a unique implicit velocity at every nonnegative time. The proof uses
+continuity, the intermediate value theorem, and monotonicity. No differentiability or
+unproved kinetic estimate is assumed.
+-/
+
+noncomputable section
+
+open Set Function
+
+namespace BoltzmannNonuniqueness.AxialFlow
+
+/-- The inverse residual is 1-Lipschitz; this estimate does not require differentiation. -/
+theorem residual_inverse_lipschitz {σ α γ s t z u v : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (ht : 0 ≤ t) :
+    |u - v| ≤ |residual σ α γ s t z u - residual σ α γ s t z v| := by
+  rcases le_total u v with huv | hvu
+  · have hd := residual_sub_ge (σ := σ) (z := z) hα hγ hs ht huv
+    have hf := (residual_strictMono (σ := σ) (z := z) hα hγ hs ht).monotone huv
+    rw [abs_of_nonpos (sub_nonpos.mpr huv), abs_of_nonpos (sub_nonpos.mpr hf)]
+    linarith
+  · have hd := residual_sub_ge (σ := σ) (z := z) hα hγ hs ht hvu
+    have hf := (residual_strictMono (σ := σ) (z := z) hα hγ hs ht).monotone hvu
+    rw [abs_of_nonneg (sub_nonneg.mpr hvu), abs_of_nonneg (sub_nonneg.mpr hf)]
+    exact hd
+
+/-- A thermal perturbation of the implicit equation perturbs the velocity by at most its
+amplitude. This is the compressed axial velocity estimate used for cold cores. -/
+theorem thermal_velocity_error {σ α γ s t z p δ : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (ht : 0 ≤ t)
+    (hp : p = profile σ α γ s (z - t * p) + δ) :
+    |p - velocity σ α γ s t z| ≤ |δ| := by
+  have h := residual_inverse_lipschitz (σ := σ) (z := z)
+    (u := p) (v := velocity σ α γ s t z)
+    hα hγ hs ht
+  have hp' : residual σ α γ s t z p = δ := by
+    dsimp only [residual]
+    linarith
+  have hu' : residual σ α γ s t z (velocity σ α γ s t z) = 0 :=
+    sub_eq_zero.mpr (velocity_spec hα)
+  simpa only [hp', hu', sub_zero] using h
+
+theorem foot_monotone {σ α γ s t : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (ht : 0 ≤ t) :
+    Monotone (foot σ α γ s t) := by
+  intro z w hzw
+  apply (characteristic_strictMono (σ := σ) hα hγ hs ht).le_iff_le.mp
+  simpa only [characteristic_foot hα] using hzw
+
+theorem velocity_monotone {σ α γ s t : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (ht : 0 ≤ t) :
+    Monotone (velocity σ α γ s t) := by
+  intro z w hzw
+  calc
+    velocity σ α γ s t z = profile σ α γ s (foot σ α γ s t z) := velocity_spec hα
+    _ ≤ profile σ α γ s (foot σ α γ s t w) :=
+      profile_monotone hα hγ hs (foot_monotone hα hγ hs ht hzw)
+    _ = velocity σ α γ s t w := (velocity_spec hα).symm
+
+/-- The implicit velocity is constant on its own characteristic, including when it is traced
+backwards to an earlier nonnegative time. -/
+theorem velocity_on_characteristic {σ α γ s t₁ t₂ z : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (ht₂ : 0 ≤ t₂) :
+    velocity σ α γ s t₂
+      (z - (t₁ - t₂) * velocity σ α γ s t₁ z) = velocity σ α γ s t₁ z := by
+  symm
+  apply velocity_unique hα hγ hs ht₂
+  have hfoot : z - (t₁ - t₂) * velocity σ α γ s t₁ z -
+      t₂ * velocity σ α γ s t₁ z = z - t₁ * velocity σ α γ s t₁ z := by ring
+  rw [hfoot]
+  exact velocity_spec hα
+
+/-- Characteristic matching, the inequality in Section 8: tracing with an arbitrary speed
+cannot reduce its discrepancy from the earlier cold-flow velocity. -/
+theorem characteristic_matching {σ α γ s t₁ t₂ z w : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (ht₂ : 0 ≤ t₂) (ht : t₂ ≤ t₁) :
+    |w - velocity σ α γ s t₁ z| ≤
+      |w - velocity σ α γ s t₂ (z - (t₁ - t₂) * w)| := by
+  let u := velocity σ α γ s t₁ z
+  have hchar : velocity σ α γ s t₂ (z - (t₁ - t₂) * u) = u :=
+    velocity_on_characteristic hα hγ hs ht₂
+  rcases le_total w u with hwu | huw
+  · have hpos : z - (t₁ - t₂) * u ≤ z - (t₁ - t₂) * w := by nlinarith
+    have hm := velocity_monotone (σ := σ) hα hγ hs ht₂ hpos
+    rw [hchar] at hm
+    have hwu' : w ≤ velocity σ α γ s t₂ (z - (t₁ - t₂) * w) := hwu.trans hm
+    change |w - u| ≤ _
+    rw [abs_of_nonpos (sub_nonpos.mpr hwu), abs_of_nonpos (sub_nonpos.mpr hwu')]
+    linarith
+  · have hpos : z - (t₁ - t₂) * w ≤ z - (t₁ - t₂) * u := by nlinarith
+    have hm := velocity_monotone (σ := σ) hα hγ hs ht₂ hpos
+    rw [hchar] at hm
+    have huw' : velocity σ α γ s t₂ (z - (t₁ - t₂) * w) ≤ w := hm.trans huw
+    change |w - u| ≤ _
+    rw [abs_of_nonneg (sub_nonneg.mpr huw), abs_of_nonneg (sub_nonneg.mpr huw')]
+    linarith
+
+end BoltzmannNonuniqueness.AxialFlow
+
+end
+
+end
+
+section
+
+/-!
+# Singular line integrals in the Carleman slice bound
+
+For `q > 1`, the one-dimensional slice of the transverse power singularity
+is integrable away from the line through the axis and has exactly the
+power `|A|^(1-q)` appearing in Section 3, equation `ker:line-integral`.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+
+namespace BoltzmannNonuniqueness.AxialSlices
+
+theorem lineProfile_pos (q s : ℝ) : 0 < lineProfile q s := by
+  unfold lineProfile
+  exact Real.rpow_pos_of_pos (by positivity) _
+
+theorem integrable_lineProfile {q : ℝ} (hq : 1 < q) : Integrable (lineProfile q) := by
+  change Integrable (fun s : ℝ => (1 + s ^ 2) ^ (-q / 2))
+  have h := integrable_rpow_neg_one_add_norm_sq (E := ℝ) (μ := volume)
+    (r := q) (by simpa using hq)
+  simpa only [Real.norm_eq_abs, sq_abs] using h
+
+theorem lineConstant_pos {q : ℝ} (hq : 1 < q) : 0 < lineConstant q := by
+  have hs : Function.support (lineProfile q) = univ := by
+    ext s
+    simp only [Function.mem_support, mem_univ, iff_true]
+    exact (lineProfile_pos q s).ne'
+  apply (integral_pos_iff_support_of_nonneg (fun s => (lineProfile_pos q s).le)
+    (integrable_lineProfile hq)).mpr
+  rw [hs]
+  simp
+
+theorem lineProfile_scale (q A s : ℝ) (hA : A ≠ 0) :
+    (A ^ 2 + s ^ 2) ^ (-q / 2) = |A| ^ (-q) * lineProfile q (s / |A|) := by
+  have ha : 0 < |A| := abs_pos.mpr hA
+  have hsq : A ^ 2 + s ^ 2 = |A| ^ 2 * (1 + (s / |A|) ^ 2) := by
+    field_simp
+    nlinarith [sq_abs A]
+  rw [hsq, Real.mul_rpow (sq_nonneg _) (by positivity)]
+  have hp : (|A| ^ 2) ^ (-q / 2) = |A| ^ (-q) := by
+    rw [← Real.rpow_natCast_mul ha.le 2]
+    congr 1
+    ring
+  rw [hp]
+  rfl
+
+theorem integrable_singular_line {q A : ℝ} (hq : 1 < q) (hA : A ≠ 0) :
+    Integrable (fun s : ℝ => (A ^ 2 + s ^ 2) ^ (-q / 2)) := by
+  have h := ((integrable_lineProfile hq).comp_div (abs_ne_zero.mpr hA)).const_mul
+    (|A| ^ (-q))
+  apply h.congr
+  filter_upwards [] with s
+  exact (lineProfile_scale q A s hA).symm
+
+/-- Exact singular line integral, including finiteness in a separate theorem above. -/
+theorem singular_line_formula {q A : ℝ} (hq : 1 < q) (hA : A ≠ 0) :
+    Integrable (fun s : ℝ => (A ^ 2 + s ^ 2) ^ (-q / 2)) ∧
+      (∫ s : ℝ, (A ^ 2 + s ^ 2) ^ (-q / 2)) = lineConstant q * |A| ^ (1 - q) := by
+  refine ⟨integrable_singular_line hq hA, ?_⟩
+  have ha : 0 < |A| := abs_pos.mpr hA
+  simp_rw [lineProfile_scale q A _ hA]
+  rw [integral_const_mul, Measure.integral_comp_div]
+  simp only [abs_abs, smul_eq_mul]
+  have hp : |A| ^ (-q) * |A| = |A| ^ (1 - q) := by
+    calc
+      |A| ^ (-q) * |A| = |A| ^ (-q) * |A| ^ (1 : ℝ) := by rw [Real.rpow_one]
+      _ = |A| ^ (-q + 1) := (Real.rpow_add ha _ _).symm
+      _ = |A| ^ (1 - q) := by congr 1; ring
+  change |A| ^ (-q) * (|A| * lineConstant q) = _
+  rw [← mul_assoc, hp, mul_comm]
+
+end BoltzmannNonuniqueness.AxialSlices
+
+end
+
+end
+
+section
+
+/-! # Uniform collapse of the implicit axial profile at small scales
+
+This is the small-scale part of the characteristic-matching lemma in §8.
+An interior profile value must approach z/t; the remaining values are close
+to one of the two endpoint speeds. The bound is uniform in z and the center.
+-/
+
+noncomputable section
+
+open Set
+
+namespace BoltzmannNonuniqueness.AxialFlow
+
+theorem interiorArgumentBound_nonneg (c : ℝ) : 0 ≤ interiorArgumentBound c :=
+  (abs_nonneg _).trans (le_max_left _ _)
+
+theorem abs_argument_le_of_tanh {x c : ℝ} (hc₁ : c < 1)
+    (hx : |Real.tanh x| ≤ c) : |x| ≤ interiorArgumentBound c := by
+  have hl := Real.artanh_le_artanh (x := -c) (y := Real.tanh x)
+    (by linarith) (Real.tanh_lt_one x) (abs_le.mp hx).1
+  have hu := Real.artanh_le_artanh (x := Real.tanh x) (y := c)
+    (Real.neg_one_lt_tanh x) hc₁ (abs_le.mp hx).2
+  rw [Real.artanh_tanh] at hl hu
+  apply abs_le.mpr
+  constructor
+  · exact (neg_le_neg (le_max_left |Real.artanh (-c)| |Real.artanh c|)).trans
+      ((neg_abs_le _).trans hl)
+  · exact hu.trans ((le_abs_self _).trans (le_max_right _ _))
+
+theorem velocity_interior_small_scale {α γ a δ : ℝ}
+    (hα : 0 < α) (hγ : 0 < γ) (ha : 0 < a) (hδ : 0 < δ)
+    {σ s t z : ℝ} (hs : 0 < s) (ht : a ≤ t)
+    (hl : δ ≤ velocity σ α γ s t z-(σ-α))
+    (hu : δ ≤ (σ+α)-velocity σ α γ s t z) :
+    |velocity σ α γ s t z-z/t| ≤
+      (interiorArgumentBound (1-δ/α)/(γ*a))*s := by
+  let u := velocity σ α γ s t z
+  let w := γ*(z-t*u)/s
+  have he : u = σ+α*Real.tanh w := velocity_spec hα.le
+  have hc₁ : 1-δ/α < 1 := by have := div_pos hδ hα; linarith
+  have htan : |Real.tanh w| ≤ 1-δ/α := by
+    apply abs_le.mpr
+    constructor
+    · apply (mul_le_mul_iff_right₀ hα).mp
+      have hr : α*(-(1-δ/α)) = δ-α := by field_simp <;> ring
+      rw [hr]
+      linarith
+    · apply (mul_le_mul_iff_right₀ hα).mp
+      have hr : α*(1-δ/α) = α-δ := by field_simp
+      rw [hr]
+      linarith
+  have hb := abs_argument_le_of_tanh hc₁ htan
+  have hB := interiorArgumentBound_nonneg (1-δ/α)
+  have hta : 0 < t := ha.trans_le ht
+  have hz : |z-t*u| ≤ s*interiorArgumentBound (1-δ/α)/γ := by
+    have hh : |w| = γ*|z-t*u|/s := by
+      dsimp only [w]
+      rw [abs_div,abs_mul,abs_of_pos hγ,abs_of_pos hs]
+    rw [hh] at hb
+    apply (le_div_iff₀ hγ).mpr
+    have h := (div_le_iff₀ hs).mp hb
+    nlinarith
+  have hnorm : |u-z/t| = |z-t*u|/t := by
+    have heq : u-z/t = -(z-t*u)/t := by field_simp <;> ring
+    rw [heq,abs_div,abs_neg,abs_of_pos hta]
+  rw [hnorm]
+  calc
+    _ ≤ (s*interiorArgumentBound (1-δ/α)/γ)/t := div_le_div_of_nonneg_right hz hta.le
+    _ ≤ (s*interiorArgumentBound (1-δ/α)/γ)/a :=
+      div_le_div_of_nonneg_left (by positivity) ha ht
+    _ = _ := by ring
+
+end BoltzmannNonuniqueness.AxialFlow
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_VelocityWeight
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.TransverseAverage.circleArea_isFiniteMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [local instance] OAI.circleMeasurableSpace OAI.circleBorelSpace
+
+namespace OAI
+
+section
+
+/-!
+# The transverse singularity in the velocity majorant
+
+Section 3 uses `H(v) = exp(-‖v‖²) * ⟨v⟩^(-100) * (1 + ‖v̄‖^(-q))`.
+Thus its polynomial factor is `(1 + ‖v‖²)^(-50)`. The values assigned on
+the velocity axis use Mathlib's real-power convention and do not affect
+Lebesgue integrability.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+
+namespace BoltzmannNonuniqueness.VelocityWeight
+
+theorem singularity_nonneg (q : ℝ) (u : Transverse) : 0 ≤ singularity q u :=
+  Real.rpow_nonneg (norm_nonneg _) _
+
+end BoltzmannNonuniqueness.VelocityWeight
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_TransverseAverage
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptySupportedTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# Uniform transverse disk bounds
+
+This proves the translated disk estimate `ker:disk-singularity` from Section 3.
+The singular contribution is split at distance `R` from the origin. Inside,
+polar integration is explicit; outside, the singularity is at most `R⁻ᑫ`.
+-/
+
+noncomputable section
+
+open MeasureTheory Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.TransverseDisk
+
+theorem disk_volume_real (a : Transverse) {R : ℝ} (hR : 0 ≤ R) :
+    volume.real (ball a R) = Real.pi * R ^ 2 := by
+  rw [measureReal_def, EuclideanSpace.volume_ball_fin_two, ENNReal.toReal_mul,
+    ENNReal.toReal_pow, ENNReal.toReal_ofReal hR, ENNReal.toReal_ofReal Real.pi_pos.le]
+  ring
+
+private theorem singularity_split_bound {q R : ℝ} (hq : 0 ≤ q) (hR : 0 < R)
+    (u : Transverse) :
+    singularity q u ≤ (ball (0 : Transverse) R).indicator (singularity q) u + R ^ (-q) := by
+  by_cases hu : u ∈ ball (0 : Transverse) R
+  · rw [indicator_of_mem hu]
+    have hn : 0 ≤ R ^ (-q) := Real.rpow_nonneg hR.le _
+    linarith
+  · rw [indicator_of_notMem hu, zero_add]
+    have hnorm : R ≤ ‖u‖ := le_of_not_gt (by simpa only [mem_ball_zero_iff] using hu)
+    exact Real.rpow_le_rpow_of_nonpos hR hnorm (neg_nonpos.mpr hq)
+
+end BoltzmannNonuniqueness.TransverseDisk
+
+end
+
+end
+
+section
+
+/-!
+# Transverse collision-line coordinates
+
+An orthonormal line chart gives the regular and singular terms in the
+geometric slice estimate of Section 3. The singular distance is assumed
+nonzero here; the product-measure argument must remove its null exceptional set.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped RealInnerProductSpace
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.AxialSlices
+
+namespace BoltzmannNonuniqueness.TransverseLine
+
+theorem inner_quarterTurn (e : Transverse) : inner ℝ e (quarterTurn e) = 0 := by
+  simp [PiLp.inner_apply, quarterTurn, Fin.sum_univ_two]
+  ring
+
+theorem norm_quarterTurn (e : Transverse) : ‖quarterTurn e‖ = ‖e‖ := by
+  have h : ‖quarterTurn e‖ ^ 2 = ‖e‖ ^ 2 := by
+    simp [EuclideanSpace.real_norm_sq_eq, quarterTurn, Fin.sum_univ_two]
+    ring
+  nlinarith [norm_nonneg e, norm_nonneg (quarterTurn e)]
+
+theorem norm_line_sq (e : Transverse) (D s : ℝ) (he : ‖e‖ = 1) :
+    ‖line e D s‖ ^ 2 = D ^ 2 + s ^ 2 := by
+  have hnorm : e 0 ^ 2 + e 1 ^ 2 = 1 := by
+    have hsq : ‖e‖ ^ (2 : ℕ) = 1 := by rw [he]; norm_num
+    rw [EuclideanSpace.real_norm_sq_eq, Fin.sum_univ_two] at hsq
+    exact hsq
+  calc
+    _ = (D ^ 2 + s ^ 2) * (e 0 ^ 2 + e 1 ^ 2) := by
+      simp [line, EuclideanSpace.real_norm_sq_eq, Fin.sum_univ_two, quarterTurn]
+      ring
+    _ = _ := by rw [hnorm, mul_one]
+
+theorem inner_line (e : Transverse) (D s : ℝ) (he : ‖e‖ = 1) :
+    inner ℝ e (line e D s) = D := by
+  simp only [line, inner_add_right, inner_smul_right, inner_quarterTurn,
+    real_inner_self_eq_norm_sq, he]
+  ring
+
+theorem line_singularity (q : ℝ) (e : Transverse) (D s : ℝ) (he : ‖e‖ = 1) :
+    ‖line e D s‖ ^ (-q) = (D ^ 2 + s ^ 2) ^ (-q / 2) := by
+  rw [← norm_line_sq e D s he, ← Real.rpow_natCast_mul (norm_nonneg _) 2]
+  congr 1
+  ring
+
+theorem lineWeight_nonneg (q : ℝ) (e : Transverse) (D s : ℝ) :
+    0 ≤ lineWeight q e D s := by
+  unfold lineWeight
+  positivity
+
+theorem integrable_line_singularity {q D : ℝ} (hq : 1 < q) (hD : D ≠ 0)
+    (e : Transverse) (he : ‖e‖ = 1) :
+    Integrable (fun s : ℝ => ‖line e D s‖ ^ (-q)) := by
+  simpa only [line_singularity q e D _ he] using integrable_singular_line hq hD
+
+theorem integrableOn_lineWeight {q D : ℝ} (hq : 1 < q) (hD : D ≠ 0)
+    (e : Transverse) (he : ‖e‖ = 1) (m R : ℝ) :
+    IntegrableOn (lineWeight q e D) (Icc (m - R) (m + R)) := by
+  exact (integrableOn_const (measure_Icc_lt_top.ne)).add
+    (integrable_line_singularity hq hD e he).integrableOn
+
+/-- The line bound is uniform in the center of the retained segment. -/
+theorem integral_lineWeight_le {q D R : ℝ} (hq : 1 < q) (hD : D ≠ 0)
+    (hR : 0 ≤ R) (e : Transverse) (he : ‖e‖ = 1) (m : ℝ) :
+    (∫ s in Icc (m - R) (m + R), lineWeight q e D s) ≤
+      2 * R + lineConstant q * |D| ^ (1 - q) := by
+  have hc : IntegrableOn (fun _ : ℝ => (1 : ℝ)) (Icc (m - R) (m + R)) :=
+    integrableOn_const measure_Icc_lt_top.ne
+  have hs := integrable_line_singularity hq hD e he
+  have hb := setIntegral_le_integral (s := Icc (m - R) (m + R)) hs
+    (Filter.Eventually.of_forall (fun s => Real.rpow_nonneg (norm_nonneg (line e D s)) (-q)))
+  unfold lineWeight
+  rw [integral_add hc hs.integrableOn, setIntegral_const, smul_eq_mul, mul_one]
+  have hvol : volume.real (Icc (m - R) (m + R)) = 2 * R := by
+    rw [Real.volume_real_Icc]
+    rw [max_eq_left (by linarith : 0 ≤ m + R - (m - R))]
+    ring
+  rw [hvol]
+  have hfull : (∫ s : ℝ, ‖line e D s‖ ^ (-q)) = lineConstant q * |D| ^ (1 - q) := by
+    simp_rw [line_singularity q e D _ he]
+    exact (singular_line_formula hq hD).2
+  linarith
+
+theorem lintegral_lineWeight_le {q D R : ℝ} (hq : 1 < q) (hD : D ≠ 0)
+    (hR : 0 ≤ R) (e : Transverse) (he : ‖e‖ = 1) (m : ℝ) :
+    (∫⁻ s in Icc (m - R) (m + R), ENNReal.ofReal (lineWeight q e D s)) ≤
+      ENNReal.ofReal (2 * R + lineConstant q * |D| ^ (1 - q)) := by
+  rw [← ofReal_integral_eq_lintegral_ofReal (integrableOn_lineWeight hq hD e he m R)
+    (Filter.Eventually.of_forall (fun s => lineWeight_nonneg q e D s))]
+  exact ENNReal.ofReal_le_ofReal (integral_lineWeight_le hq hD hR e he m)
+
+end BoltzmannNonuniqueness.TransverseLine
+
+end
+
+end
+
+section
+
+/-!
+# Transverse angular averages
+
+The angular singularity in `ker:transverse-expectation` is integrable when
+`q < 2`. Gaussian Cartesian integration and polar coordinates prove this
+without choosing a trigonometric chart on the unit circle.
+-/
+
+noncomputable section
+
+open MeasureTheory Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+open scoped RealInnerProductSpace
+
+namespace BoltzmannNonuniqueness.TransverseAverage
+
+theorem norm_unitAxis : ‖unitAxis‖ = 1 := by
+  simp [unitAxis, EuclideanSpace.single, PiLp.norm_single]
+
+private theorem radialMeasure_ne_zero : Measure.volumeIoiPow 1 ≠ 0 := by
+  intro hz
+  have h := Measure.volumeIoiPow_apply_Iio 1 (⟨1, by norm_num⟩ : Ioi (0 : ℝ))
+  rw [hz] at h
+  norm_num at h
+
+private instance radialMeasure_neZero : NeZero (Measure.volumeIoiPow 1) :=
+  ⟨radialMeasure_ne_zero⟩
+
+theorem circleArea_real_univ : circleArea.real univ = 2 * Real.pi := by
+  rw [circleArea, Measure.toSphere_real_apply_univ]
+  simp only [finrank_euclideanSpace, Fintype.card_fin]
+  rw [measureReal_def, EuclideanSpace.volume_ball_fin_two]
+  norm_num [ENNReal.toReal_ofReal, Real.pi_pos.le]
+
+private theorem integrable_abs_rpow_gaussian {q : ℝ} (hq : q < 2) :
+    Integrable (fun x : ℝ => |x| ^ (1 - q) * Real.exp (-x ^ 2)) := by
+  have hr := integrableOn_rpow_mul_exp_neg_mul_sq (b := 1) zero_lt_one
+    (show -1 < 1 - q by linarith)
+  have h := (integrable_fun_norm_addHaar (volume : Measure ℝ)
+    (f := fun r : ℝ => r ^ (1 - q) * Real.exp (-r ^ 2))).mpr
+      (by simpa using hr)
+  simpa only [Real.norm_eq_abs, sq_abs] using h
+
+private theorem cartesianSplit_measurePreserving : MeasurePreserving cartesianSplit :=
+  (EuclideanSpace.volume_preserving_symm_measurableEquiv_toLp (Fin 2)).trans
+    (volume_preserving_finTwoArrow ℝ)
+
+private theorem gaussianPower_unitAxis (q : ℝ) (x : Transverse) :
+    gaussianPower q unitAxis x = |x 0| ^ (1 - q) * Real.exp (-‖x‖ ^ 2) := by
+  simp [gaussianPower, unitAxis, EuclideanSpace.inner_single_left]
+
+theorem integrable_gaussianPower_unitAxis {q : ℝ} (hq : q < 2) :
+    Integrable (gaussianPower q unitAxis) := by
+  have hi := (integrable_abs_rpow_gaussian hq).mul_prod (integrable_exp_neg_mul_sq zero_lt_one)
+  have hc := cartesianSplit_measurePreserving.integrable_comp_of_integrable hi
+  convert hc using 1
+  all_goals try with_reducible_and_instances rfl
+  funext x
+  rw [gaussianPower_unitAxis]
+  change |x 0| ^ (1 - q) * Real.exp (-‖x‖ ^ 2) =
+    |x 0| ^ (1 - q) * Real.exp (-(x 0) ^ 2) * Real.exp (-1 * (x 1) ^ 2)
+  simp only [EuclideanSpace.real_norm_sq_eq, Fin.sum_univ_two, neg_add_rev,
+    Real.exp_add, neg_mul, one_mul]
+  ring
+
+private theorem gaussianPower_rotate (e : Transverse) (he : ‖e‖ = 1) :
+    ∃ R : Transverse ≃ₗᵢ[ℝ] Transverse,
+      ∀ q x, gaussianPower q e (R x) = gaussianPower q unitAxis x := by
+  let R : Transverse ≃ₗᵢ[ℝ] Transverse := (ℝ ∙ (e - unitAxis))ᗮ.reflection
+  have hnorm : ‖e‖ = ‖unitAxis‖ := he.trans norm_unitAxis.symm
+  have hRe : R e = unitAxis := Submodule.reflection_sub hnorm
+  refine ⟨R, ?_⟩
+  intro q x
+  have hi : inner ℝ e (R x) = inner ℝ unitAxis x := by
+    have h := R.inner_map_eq_flip e x
+    rw [hRe] at h
+    exact h.symm
+  simp only [gaussianPower, hi, R.norm_map]
+
+theorem integrable_gaussianPower {q : ℝ} (hq : q < 2)
+    (e : Transverse) (he : ‖e‖ = 1) : Integrable (gaussianPower q e) := by
+  obtain ⟨R, hR⟩ := gaussianPower_rotate e he
+  apply (R.measurePreserving.integrable_comp_emb R.toHomeomorph.measurableEmbedding).mp
+  change Integrable (fun x => gaussianPower q e (R x))
+  simpa only [hR] using integrable_gaussianPower_unitAxis hq
+
+theorem integral_gaussianPower (q : ℝ) (e : Transverse) (he : ‖e‖ = 1) :
+    (∫ x, gaussianPower q e x) = ∫ x, gaussianPower q unitAxis x := by
+  obtain ⟨R, hR⟩ := gaussianPower_rotate e he
+  rw [← R.measurePreserving.integral_comp R.toHomeomorph.measurableEmbedding]
+  simp only [hR]
+
+private theorem gaussianPower_polar (q : ℝ) (e : Transverse)
+    (ω : Circle) (r : Ioi (0 : ℝ)) :
+    gaussianPower q e ((r : ℝ) • (ω : Transverse)) = angular q e ω * radialGaussian q r := by
+  have hω : ‖(ω : Transverse)‖ = 1 := mem_sphere_zero_iff_norm.mp ω.property
+  have hr : 0 < (r : ℝ) := r.property
+  simp only [gaussianPower, angular, radialGaussian, inner_smul_right, abs_mul,
+    abs_of_pos hr, norm_smul, Real.norm_eq_abs, hω, mul_one]
+  rw [Real.mul_rpow hr.le (abs_nonneg _)]
+  ring
+
+private theorem integrable_polar_gaussianPower {q : ℝ} (hq : q < 2)
+    (e : Transverse) (he : ‖e‖ = 1) :
+    Integrable (fun p : Circle × Ioi (0 : ℝ) => angular q e p.1 * radialGaussian q p.2)
+      (circleArea.prod (Measure.volumeIoiPow 1)) := by
+  let H := homeomorphUnitSphereProd Transverse
+  have hs : Integrable (fun x : ({0}ᶜ : Set Transverse) => gaussianPower q e x)
+      ((volume : Measure Transverse).comap (↑)) :=
+    (integrableOn_iff_comap_subtypeVal (measurableSet_singleton _).compl).mp
+      (integrable_gaussianPower hq e he).integrableOn
+  have hp := (volume : Measure Transverse).measurePreserving_homeomorphUnitSphereProd
+  have hi := (hp.integrable_comp_emb H.measurableEmbedding).mp
+    (show Integrable ((fun p => gaussianPower q e ((H.symm p : ({0}ᶜ : Set Transverse)) : Transverse))
+      ∘ H) ((volume : Measure Transverse).comap (↑)) by
+      simpa only [Function.comp_def, Homeomorph.symm_apply_apply] using hs)
+  convert hi using 1
+  · funext p
+    simp only [H, homeomorphUnitSphereProd_symm_apply_coe, gaussianPower_polar]
+  · simp only [circleArea, finrank_euclideanSpace, Fintype.card_fin, Nat.reduceSub]
+
+theorem integrable_angular {q : ℝ} (hq : q < 2)
+    (e : Transverse) (he : ‖e‖ = 1) : Integrable (angular q e) circleArea := by
+  obtain ⟨r, hr⟩ := (integrable_polar_gaussianPower hq e he).prod_left_ae.exists
+  have hc : radialGaussian q r ≠ 0 := by
+    unfold radialGaussian
+    exact ne_of_gt (mul_pos (Real.rpow_pos_of_pos r.property _) (Real.exp_pos _))
+  exact (integrable_mul_const_iff (isUnit_iff_ne_zero.mpr hc) _).mp hr
+
+theorem integrable_radialGaussian {q : ℝ} (hq : q < 2) :
+    Integrable (radialGaussian q) (Measure.volumeIoiPow 1) := by
+  rw [Measure.volumeIoiPow, integrable_withDensity_iff_integrable_smul' (by fun_prop)
+    (ae_of_all _ (fun _ => ENNReal.ofReal_lt_top))]
+  have hi : IntegrableOn (fun r : ℝ => r ^ (2 - q) * Real.exp (-r ^ 2)) (Ioi 0) :=
+    by simpa only [neg_mul, one_mul] using
+      integrableOn_rpow_mul_exp_neg_mul_sq (b := 1) zero_lt_one (by linarith : -1 < 2 - q)
+  have hs := (integrableOn_iff_comap_subtypeVal measurableSet_Ioi).mp hi
+  convert hs using 1
+  all_goals try with_reducible_and_instances rfl
+  funext r
+  simp only [Function.comp_def, radialGaussian, pow_one,
+    ENNReal.toReal_ofReal r.property.le, smul_eq_mul]
+  rw [show 2 - q = 1 + (1 - q) by ring, Real.rpow_add r.property, Real.rpow_one]
+  ring
+
+theorem integral_radialGaussian_pos {q : ℝ} (hq : q < 2) :
+    0 < ∫ r, radialGaussian q r ∂Measure.volumeIoiPow 1 := by
+  have hp : ∀ r, 0 < radialGaussian q r := by
+    intro r
+    exact mul_pos (Real.rpow_pos_of_pos r.property _) (Real.exp_pos _)
+  apply (integral_pos_iff_support_of_nonneg (fun r => (hp r).le)
+    (integrable_radialGaussian hq)).mpr
+  have hs : Function.support (radialGaussian q) = univ := by
+    apply Set.eq_univ_of_forall
+    intro r
+    exact ne_of_gt (hp r)
+  rw [hs]
+  exact Measure.measure_univ_pos.mpr radialMeasure_ne_zero
+
+private theorem gaussian_polar_identity (q : ℝ) (e : Transverse) :
+    (∫ x, gaussianPower q e x) = (∫ ω, angular q e ω ∂circleArea) *
+      ∫ r, radialGaussian q r ∂Measure.volumeIoiPow 1 := by
+  let H := homeomorphUnitSphereProd Transverse
+  have hp := (volume : Measure Transverse).measurePreserving_homeomorphUnitSphereProd.integral_comp
+    H.measurableEmbedding (fun p => gaussianPower q e (H.symm p))
+  calc
+    _ = ∫ x : ({0}ᶜ : Set Transverse), gaussianPower q e x
+        ∂((volume : Measure Transverse).comap (↑)) := by
+      rw [integral_subtype_comap (measurableSet_singleton _).compl, restrict_compl_singleton]
+    _ = ∫ p : Circle × Ioi (0 : ℝ), angular q e p.1 * radialGaussian q p.2
+        ∂circleArea.prod (Measure.volumeIoiPow 1) := by
+      simpa only [circleArea, H, Homeomorph.symm_apply_apply,
+        homeomorphUnitSphereProd_symm_apply_coe, gaussianPower_polar,
+        finrank_euclideanSpace, Fintype.card_fin, Nat.reduceSub] using hp
+    _ = _ := integral_prod_mul _ _
+
+theorem integral_angular_eq {q : ℝ} (hq : q < 2) (e : Transverse) (he : ‖e‖ = 1) :
+    (∫ ω, angular q e ω ∂circleArea) = ∫ ω, angular q unitAxis ω ∂circleArea := by
+  apply mul_right_cancel₀ (ne_of_gt (integral_radialGaussian_pos hq))
+  rw [← gaussian_polar_identity, ← gaussian_polar_identity, integral_gaussianPower q e he]
+
+theorem angularMass_pos (q : ℝ) : 0 < angularMass q := by
+  have h : 0 ≤ ∫ ω, angular q unitAxis ω ∂circleArea :=
+    integral_nonneg (fun ω => Real.rpow_nonneg (abs_nonneg _) _)
+  unfold angularMass
+  linarith [Real.pi_pos]
+
+theorem integral_one_add_angular {q : ℝ} (hq : q < 2)
+    (e : Transverse) (he : ‖e‖ = 1) :
+    (∫ ω, 1 + angular q e ω ∂circleArea) = angularMass q := by
+  rw [integral_add (integrable_const 1) (integrable_angular hq e he), integral_const,
+    smul_eq_mul, mul_one, circleArea_real_univ, integral_angular_eq hq e he]
+  rfl
+
+theorem kernel_nonneg (q : ℝ) (e n : Transverse) : 0 ≤ kernel q e n := by
+  unfold kernel
+  positivity
+
+private theorem kernel_on_ray (q : ℝ) (e : Transverse) (ω : Circle) (r : Ioi (0 : ℝ)) :
+    kernel q e ((r : ℝ) • (ω : Transverse)) = (1 + angular q e ω) * (r : ℝ)⁻¹ := by
+  have hω : ‖(ω : Transverse)‖ = 1 := mem_sphere_zero_iff_norm.mp ω.property
+  have hr : 0 < (r : ℝ) := r.property
+  simp [kernel, angular, norm_smul, Real.norm_eq_abs, abs_of_pos hr, hω,
+    smul_smul, inv_mul_cancel₀ hr.ne', div_eq_mul_inv]
+
+private theorem radialCutoff_weight (D : ℝ) (r : Ioi (0 : ℝ)) :
+    (r : ℝ) * radialCutoff D r = (Iio D).indicator (fun _ : ℝ => (1 : ℝ)) r := by
+  have hr₀ : (r : ℝ) ≠ 0 := (show (0 : ℝ) < r from r.property).ne'
+  by_cases hr : (r : ℝ) < D <;> simp [radialCutoff, hr, indicator, hr₀]
+
+private theorem integrable_radialCutoff {D : ℝ} (_hD : 0 < D) :
+    Integrable (radialCutoff D) (Measure.volumeIoiPow 1) := by
+  rw [Measure.volumeIoiPow, integrable_withDensity_iff_integrable_smul' (by fun_prop)
+    (ae_of_all _ (fun _ => ENNReal.ofReal_lt_top))]
+  have hi : IntegrableOn ((Iio D).indicator (fun _ : ℝ => (1 : ℝ))) (Ioi 0) := by
+    rw [integrableOn_indicator_iff measurableSet_Iio]
+    have hc : IntegrableOn (fun _ : ℝ => (1 : ℝ)) (Ioo 0 D) :=
+      integrableOn_const (by simp)
+    rw [inter_comm, Ioi_inter_Iio]
+    exact hc
+  have hs := (integrableOn_iff_comap_subtypeVal measurableSet_Ioi).mp hi
+  convert hs using 1
+  all_goals try with_reducible_and_instances rfl
+  funext r
+  simp only [pow_one, ENNReal.toReal_ofReal r.property.le, smul_eq_mul,
+    radialCutoff_weight, Function.comp_def]
+
+private theorem integral_radialCutoff {D : ℝ} (hD : 0 < D) :
+    (∫ r, radialCutoff D r ∂Measure.volumeIoiPow 1) = D := by
+  rw [Measure.volumeIoiPow,
+    integral_withDensity_eq_integral_toReal_smul (by fun_prop)
+      (ae_of_all _ (fun _ => ENNReal.ofReal_lt_top))]
+  simp only [pow_one, smul_eq_mul]
+  have heq : (fun r : Ioi (0 : ℝ) => (ENNReal.ofReal (r : ℝ)).toReal * radialCutoff D r) =
+      fun r : Ioi (0 : ℝ) => (Iio D).indicator (fun _ : ℝ => (1 : ℝ)) r := by
+    funext r
+    rw [ENNReal.toReal_ofReal (show (0 : ℝ) ≤ r from le_of_lt r.property), radialCutoff_weight]
+  rw [heq]
+  rw [integral_subtype_comap measurableSet_Ioi,
+    integral_indicator measurableSet_Iio, Measure.restrict_restrict measurableSet_Iio,
+    inter_comm, Ioi_inter_Iio, setIntegral_const, smul_eq_mul, mul_one]
+  simp [measureReal_def, Real.volume_Ioo, hD.le]
+
+private theorem cutoff_kernel_polar (q D : ℝ) (e : Transverse)
+    (ω : Circle) (r : Ioi (0 : ℝ)) :
+    (ball (0 : Transverse) D).indicator (kernel q e) ((r : ℝ) • (ω : Transverse)) =
+      (1 + angular q e ω) * radialCutoff D r := by
+  have hω : ‖(ω : Transverse)‖ = 1 := mem_sphere_zero_iff_norm.mp ω.property
+  have hr : 0 < (r : ℝ) := r.property
+  by_cases hrD : (r : ℝ) < D
+  · rw [indicator_of_mem]
+    · simp only [kernel_on_ray, radialCutoff, ite_eq_left hrD]
+    · simpa only [mem_ball_zero_iff, norm_smul, Real.norm_eq_abs, abs_of_pos hr, hω,
+        mul_one] using hrD
+  · rw [indicator_of_notMem]
+    · simp only [radialCutoff, ite_eq_right hrD, mul_zero]
+    · simpa only [mem_ball_zero_iff, norm_smul, Real.norm_eq_abs, abs_of_pos hr, hω,
+        mul_one] using hrD
+
+theorem integrableOn_kernel_centeredDisk {q D : ℝ} (hq : q < 2) (hD : 0 < D)
+    (e : Transverse) (he : ‖e‖ = 1) : IntegrableOn (kernel q e) (ball 0 D) := by
+  let H := homeomorphUnitSphereProd Transverse
+  have hi := ((integrable_const 1).add (integrable_angular hq e he)).mul_prod
+    (integrable_radialCutoff hD)
+  have hp : MeasurePreserving H ((volume : Measure Transverse).comap (↑))
+      (circleArea.prod (Measure.volumeIoiPow 1)) := by
+    simpa only [circleArea, finrank_euclideanSpace, Fintype.card_fin, Nat.reduceSub] using
+      (volume : Measure Transverse).measurePreserving_homeomorphUnitSphereProd
+  have hs := hp.integrable_comp_of_integrable hi
+  have hsub : Integrable (fun x : ({0}ᶜ : Set Transverse) =>
+      (ball (0 : Transverse) D).indicator (kernel q e) x)
+      ((volume : Measure Transverse).comap (↑)) := by
+    convert hs using 1
+    all_goals try with_reducible_and_instances rfl
+    funext x
+    have h := cutoff_kernel_polar q D e (H x).1 (H x).2
+    simpa only [H, ← homeomorphUnitSphereProd_symm_apply_coe,
+      Homeomorph.symm_apply_apply, Function.comp_def, Pi.add_apply] using h
+  have hfull : Integrable ((ball (0 : Transverse) D).indicator (kernel q e)) := by
+    have h : IntegrableOn ((ball (0 : Transverse) D).indicator (kernel q e)) {0}ᶜ := by
+      apply (integrableOn_iff_comap_subtypeVal (measurableSet_singleton _).compl).mpr
+      exact hsub
+    simpa only [IntegrableOn, restrict_compl_singleton] using h
+  exact (integrable_indicator_iff measurableSet_ball).mp hfull
+
+/-- The radial Jacobian exactly cancels the inverse-distance factor. -/
+theorem integral_kernel_centeredDisk {q D : ℝ} (hq : q < 2) (hD : 0 < D)
+    (e : Transverse) (he : ‖e‖ = 1) :
+    (∫ n in ball (0 : Transverse) D, kernel q e n) = D * angularMass q := by
+  let H := homeomorphUnitSphereProd Transverse
+  let f := (ball (0 : Transverse) D).indicator (kernel q e)
+  have hp := (volume : Measure Transverse).measurePreserving_homeomorphUnitSphereProd.integral_comp
+    H.measurableEmbedding (fun p => f (H.symm p))
+  calc
+    _ = ∫ n, f n := (integral_indicator measurableSet_ball).symm
+    _ = ∫ x : ({0}ᶜ : Set Transverse), f x ∂((volume : Measure Transverse).comap (↑)) := by
+      rw [integral_subtype_comap (measurableSet_singleton _).compl, restrict_compl_singleton]
+    _ = ∫ p : Circle × Ioi (0 : ℝ), (1 + angular q e p.1) * radialCutoff D p.2
+        ∂circleArea.prod (Measure.volumeIoiPow 1) := by
+      simpa only [f, circleArea, H, Homeomorph.symm_apply_apply,
+        homeomorphUnitSphereProd_symm_apply_coe, cutoff_kernel_polar,
+        finrank_euclideanSpace, Fintype.card_fin, Nat.reduceSub] using hp
+    _ = (∫ ω, 1 + angular q e ω ∂circleArea) *
+        ∫ r, radialCutoff D r ∂Measure.volumeIoiPow 1 :=
+      integral_prod_mul (fun ω : Circle => 1 + angular q e ω) (radialCutoff D)
+    _ = _ := by rw [integral_one_add_angular hq e he, integral_radialCutoff hD]; ring
+
+private theorem translated_cutoff_eq {d : ℝ} (_hd : 0 < d) (q : ℝ)
+    (e v p : Transverse) (hp : p ∈ ball (0 : Transverse) d) :
+    (ball (0 : Transverse) (‖v‖ + d)).indicator (kernel q e) (v - p) = kernel q e (v - p) := by
+  apply indicator_of_mem
+  rw [mem_ball_zero_iff]
+  have hp' : ‖p‖ < d := mem_ball_zero_iff.mp hp
+  exact (norm_sub_le v p).trans_lt (by linarith)
+
+theorem integrableOn_kernel_translatedDisk {q d : ℝ} (hq : q < 2) (hd : 0 < d)
+    (e : Transverse) (he : ‖e‖ = 1) (v : Transverse) :
+    IntegrableOn (fun p => kernel q e (v - p)) (ball (0 : Transverse) d) := by
+  have hD : 0 < ‖v‖ + d := by positivity
+  have hi := (integrableOn_kernel_centeredDisk hq hD e he).integrable_indicator measurableSet_ball
+  have hs := ((volume : Measure Transverse).measurePreserving_sub_left v).integrable_comp_of_integrable hi
+  exact hs.integrableOn.congr_fun (fun p hp => translated_cutoff_eq hd q e v p hp) measurableSet_ball
+
+theorem integral_kernel_translatedDisk_le {q d : ℝ} (hq : q < 2) (hd : 0 < d)
+    (e : Transverse) (he : ‖e‖ = 1) (v : Transverse) :
+    (∫ p in ball (0 : Transverse) d, kernel q e (v - p)) ≤ (‖v‖ + d) * angularMass q := by
+  have hD : 0 < ‖v‖ + d := by positivity
+  let f := (ball (0 : Transverse) (‖v‖ + d)).indicator (kernel q e)
+  have hi : Integrable f :=
+    (integrableOn_kernel_centeredDisk hq hD e he).integrable_indicator measurableSet_ball
+  have hs := ((volume : Measure Transverse).measurePreserving_sub_left v).integrable_comp_of_integrable hi
+  calc
+    _ = ∫ p in ball (0 : Transverse) d, f (v - p) := by
+      apply setIntegral_congr_fun measurableSet_ball
+      intro p hp
+      exact (translated_cutoff_eq hd q e v p hp).symm
+    _ ≤ ∫ p, f (v - p) :=
+      setIntegral_le_integral hs (ae_of_all _ (fun p =>
+        indicator_nonneg (fun n _ => kernel_nonneg q e n) (v - p)))
+    _ = ∫ n, f n :=
+      ((volume : Measure Transverse).measurePreserving_sub_left v).integral_comp
+        (Homeomorph.subLeft v).measurableEmbedding f
+    _ = _ := by
+      rw [integral_indicator measurableSet_ball, integral_kernel_centeredDisk hq hD e he]
+
+theorem norm_direction {v : Transverse} (hv : v ≠ 0) : ‖direction v‖ = 1 :=
+  norm_smul_inv_norm hv
+
+private theorem direction_inner_self {v : Transverse} (hv : v ≠ 0) :
+    inner ℝ (direction v) v = ‖v‖ := by
+  have hn : ‖v‖ ≠ 0 := norm_ne_zero_iff.mpr hv
+  rw [direction, real_inner_smul_left, real_inner_self_eq_norm_sq]
+  field_simp
+
+private theorem kernel_small_shift_le {q : ℝ} (hq : 1 < q)
+    {v p : Transverse} (hv : v ≠ 0) (hp : ‖p‖ ≤ ‖v‖ / 2) :
+    kernel q (direction v) (v - p) ≤ 2 * (1 + (1 / 3 : ℝ) ^ (1 - q)) / ‖v‖ := by
+  have hv₀ : 0 < ‖v‖ := norm_pos_iff.mpr hv
+  have he : ‖direction v‖ = 1 := norm_direction hv
+  have hip : inner ℝ (direction v) p ≤ ‖p‖ := by
+    have h := abs_real_inner_le_norm (direction v) p
+    rw [he, one_mul] at h
+    exact (le_abs_self _).trans h
+  have hilow : ‖v‖ / 2 ≤ inner ℝ (direction v) (v - p) := by
+    rw [inner_sub_right, direction_inner_self hv]
+    linarith
+  have hnn : ‖v‖ / 2 ≤ ‖v - p‖ := by
+    have h := abs_real_inner_le_norm (direction v) (v - p)
+    rw [he, one_mul] at h
+    exact hilow.trans ((le_abs_self _).trans h)
+  have hn₀ : 0 < ‖v - p‖ := lt_of_lt_of_le (by positivity) hnn
+  have hnupper : ‖v - p‖ ≤ ‖v‖ + ‖p‖ := norm_sub_le v p
+  have hcos : (1 / 3 : ℝ) ≤ |inner ℝ (direction v) (direction (v - p))| := by
+    have hinner : inner ℝ (direction v) (direction (v - p)) =
+        inner ℝ (direction v) (v - p) / ‖v - p‖ := by
+      simp only [direction, inner_smul_right, div_eq_mul_inv]
+      ring
+    rw [hinner]
+    apply le_trans _ (le_abs_self _)
+    apply (le_div_iff₀ hn₀).mpr
+    nlinarith
+  have hpow : |inner ℝ (direction v) (direction (v - p))| ^ (1 - q) ≤
+      (1 / 3 : ℝ) ^ (1 - q) :=
+    Real.rpow_le_rpow_of_nonpos (by norm_num) hcos (by linarith)
+  calc
+    _ ≤ (1 + (1 / 3 : ℝ) ^ (1 - q)) / ‖v - p‖ := by
+      apply div_le_div_of_nonneg_right _ hn₀.le
+      change 1 + |inner ℝ (direction v) (direction (v - p))| ^ (1 - q) ≤ _
+      linarith
+    _ ≤ (1 + (1 / 3 : ℝ) ^ (1 - q)) / (‖v‖ / 2) :=
+      div_le_div_of_nonneg_left (by positivity) (by positivity) hnn
+    _ = _ := by field_simp
+
+theorem expectationConstant_pos (q : ℝ) : 0 < expectationConstant q := by
+  unfold expectationConstant
+  have hM := angularMass_pos q
+  positivity
+
+/-- The uniform disk case of `ker:transverse-expectation`, with explicit integrability above. -/
+theorem uniformDisk_expectation_le {q d : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2) (hd : 0 < d)
+    {v : Transverse} (hv : v ≠ 0) :
+    (∫ p in ball (0 : Transverse) d, kernel q (direction v) (v - p)) / (Real.pi * d ^ 2) ≤
+      expectationConstant q / ‖v‖ := by
+  have hv₀ : 0 < ‖v‖ := norm_pos_iff.mpr hv
+  have he : ‖direction v‖ = 1 := norm_direction hv
+  have hden : 0 < Real.pi * d ^ 2 := by positivity
+  have hM : 0 < angularMass q := angularMass_pos q
+  have hsmall : 0 ≤ 2 * (1 + (1 / 3 : ℝ) ^ (1 - q)) := by positivity
+  by_cases hdsmall : d ≤ ‖v‖ / 2
+  · have hi := integrableOn_kernel_translatedDisk hq₂ hd (direction v) he v
+    have hc : IntegrableOn
+        (fun _ : Transverse => 2 * (1 + (1 / 3 : ℝ) ^ (1 - q)) / ‖v‖)
+        (ball (0 : Transverse) d) := integrableOn_const measure_ball_lt_top.ne
+    have hb : (∫ p in ball (0 : Transverse) d, kernel q (direction v) (v - p)) ≤
+        Real.pi * d ^ 2 * (2 * (1 + (1 / 3 : ℝ) ^ (1 - q)) / ‖v‖) := by
+      calc
+        _ ≤ ∫ _p in ball (0 : Transverse) d,
+            2 * (1 + (1 / 3 : ℝ) ^ (1 - q)) / ‖v‖ :=
+          setIntegral_mono_on hi hc measurableSet_ball (fun p hp =>
+            kernel_small_shift_le hq₁ hv ((mem_ball_zero_iff.mp hp).le.trans hdsmall))
+        _ = _ := by
+          rw [setIntegral_const, smul_eq_mul, TransverseDisk.disk_volume_real 0 hd.le]
+    have hn : (∫ p in ball (0 : Transverse) d, kernel q (direction v) (v - p)) /
+        (Real.pi * d ^ 2) ≤ 2 * (1 + (1 / 3 : ℝ) ^ (1 - q)) / ‖v‖ := by
+      apply (div_le_iff₀ hden).mpr
+      nlinarith [hb]
+    apply hn.trans
+    apply div_le_div_of_nonneg_right _ hv₀.le
+    unfold expectationConstant
+    have h : 0 ≤ 6 * angularMass q / Real.pi := by positivity
+    linarith
+  · have hrd : ‖v‖ ≤ 2 * d := by linarith
+    have hb := integral_kernel_translatedDisk_le hq₂ hd (direction v) he v
+    have hb' : (∫ p in ball (0 : Transverse) d, kernel q (direction v) (v - p)) ≤
+        3 * d * angularMass q := by
+      have h := mul_le_mul_of_nonneg_right (show ‖v‖ + d ≤ 3 * d by linarith) hM.le
+      exact hb.trans h
+    have hratio : (3 * d * angularMass q) / (Real.pi * d ^ 2) ≤
+        (6 * angularMass q / Real.pi) / ‖v‖ := by
+      apply (div_le_div_iff₀ hden hv₀).mpr
+      rw [← mul_assoc (6 * angularMass q / Real.pi) Real.pi,
+        div_mul_cancel₀ _ Real.pi_ne_zero]
+      have h := mul_le_mul_of_nonneg_left hrd
+        (show 0 ≤ 3 * d * angularMass q by positivity)
+      nlinarith
+    apply (div_le_div_of_nonneg_right hb' hden.le).trans (hratio.trans _)
+    apply div_le_div_of_nonneg_right _ hv₀.le
+    unfold expectationConstant
+    linarith
+
+theorem kernel_at_zero_input (q : ℝ) {v : Transverse} (hv : v ≠ 0) :
+    kernel q (direction v) v = 2 / ‖v‖ := by
+  have hn := norm_direction hv
+  change (1 + |inner ℝ (direction v) (direction v)| ^ (1 - q)) / ‖v‖ = 2 / ‖v‖
+  simp only [real_inner_self_eq_norm_sq, hn, one_pow,
+    abs_one, Real.one_rpow, one_add_one_eq_two]
+
+theorem atomZero_expectation_le (q : ℝ) {v : Transverse} (hv : v ≠ 0) :
+    (∫ p, kernel q (direction v) (v - p) ∂Measure.dirac (0 : Transverse)) ≤
+      expectationConstant q / ‖v‖ := by
+  rw [integral_dirac, sub_zero, kernel_at_zero_input q hv]
+  apply div_le_div_of_nonneg_right _ (norm_nonneg _)
+  unfold expectationConstant
+  have hM := angularMass_pos q
+  have hr : 0 ≤ (1 / 3 : ℝ) ^ (1 - q) := by positivity
+  have h : 0 ≤ 6 * angularMass q / Real.pi := by positivity
+  linarith
+
+end BoltzmannNonuniqueness.TransverseAverage
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_PlaneChart
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# The graph chart for a collision plane
+
+The chart records actual three-dimensional velocities. Its displacement
+satisfies the collision-plane equation, and the three-dimensional ball
+restriction is precisely the transverse-plus-axial restriction used in
+the geometric slice estimate. Identifying its measure with the Carleman
+plane measure remains a separate change-of-variables theorem.
+-/
+
+noncomputable section
+
+open scoped RealInnerProductSpace
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.TransverseLine
+open BoltzmannNonuniqueness.TransverseAverage
+
+namespace BoltzmannNonuniqueness.PlaneChart
+
+theorem inner_split (v w : Velocity) :
+    inner ℝ v w = inner ℝ (transverse v) (transverse w) + axial v * axial w := by
+  simp only [PiLp.inner_apply, RCLike.inner_apply, conj_trivial,
+    transverse, axial]
+  rw [Fin.sum_univ_castSucc]
+  congr 1
+  ring
+
+theorem transverse_chart (v p : Velocity) (z s : ℝ) :
+    transverse (chart v p z s) =
+      line (direction (normal v p)) (offset v p - slope v p * z) s :=
+  transverse_join _ _
+
+theorem axial_chart (v p : Velocity) (z s : ℝ) : axial (chart v p z s) = axial v + z :=
+  axial_join _ _
+
+/-- The graph chart lies on the collision plane whenever the transverse normal is nonzero. -/
+theorem chart_on_plane (v p : Velocity) (z s : ℝ) (hn : normal v p ≠ 0) :
+    inner ℝ (v - p) (chart v p z s - v) = 0 := by
+  have hnn : ‖normal v p‖ ≠ 0 := norm_ne_zero_iff.mpr hn
+  have hscale : ‖normal v p‖ • direction (normal v p) = normal v p := by
+    rw [direction, smul_smul, mul_inv_cancel₀ hnn, one_smul]
+  simp only [inner_split, transverse_sub, axial_sub, transverse_chart, axial_chart]
+  change inner ℝ (normal v p)
+    (line (direction (normal v p)) (offset v p - slope v p * z) s - transverse v) +
+      axial (v - p) * (axial v + z - axial v) = 0
+  conv_lhs => lhs; lhs; rw [← hscale]
+  rw [real_inner_smul_left, inner_sub_right,
+    inner_line _ _ _ (norm_direction hn)]
+  change ‖normal v p‖ * ((offset v p - slope v p * z) - offset v p) +
+    axial (v - p) * (axial v + z - axial v) = 0
+  unfold slope
+  field_simp
+  ring
+
+/-- Exact norm of the displacement, used for the genuine ball restriction. -/
+theorem chart_displacement_norm_sq (v p : Velocity) (z s : ℝ) :
+    ‖chart v p z s - v‖ ^ 2 =
+      ‖line (direction (normal v p)) (offset v p - slope v p * z) s - transverse v‖ ^ 2 + z ^ 2 := by
+  rw [norm_sq_split, transverse_sub, axial_sub, transverse_chart, axial_chart]
+  congr 2
+  ring
+
+end BoltzmannNonuniqueness.PlaneChart
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_DatumBounds
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.TransverseAverage.radialMeasure_neZero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Summable cold-jet datum bounds
+
+Section 4 of the supplied manuscript bounds the mass and energy of each annulus by a constant
+times `s_j²`, and its absolute entropy by a constant times `s_j² (1 + |log s_j|)`.
+Those scalar bounds are summable for the stated geometric scales, and their tails converge
+to zero. Indices start at zero; the manuscript's indices starting at one
+are obtained by removing the first term.
+-/
+
+noncomputable section
+
+open Filter Finset
+open scoped Topology BigOperators
+
+namespace BoltzmannNonuniqueness.DatumBounds
+
+theorem scale_pos {s₀ η : ℝ} (hs₀ : 0 < s₀) (j : ℕ) : 0 < scale s₀ η j :=
+  mul_pos hs₀ (Real.exp_pos _)
+
+end BoltzmannNonuniqueness.DatumBounds
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetProfiles
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.instCountableLabel _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The cold-jet annuli and opposite stripe enlargements
+
+These are the actual spatial masks of Section 4. The geometric scale is
+indexed from zero here, representing the manuscript's first positive index.
+-/
+
+noncomputable section
+
+open Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.DatumBounds
+
+namespace BoltzmannNonuniqueness.JetGeometry
+
+theorem gapCoefficient_pos {η : ℝ} (hη : 0 < η) : 0 < gapCoefficient η := by
+  have h := Real.one_lt_exp_iff.mpr hη
+  unfold gapCoefficient
+  linarith
+
+theorem gapCoefficient_le {η : ℝ} (hη : η ≤ Real.log 2) : gapCoefficient η ≤ 1 / 16 := by
+  have h := Real.exp_le_exp.mpr hη
+  rw [Real.exp_log (by norm_num : (0 : ℝ) < 2)] at h
+  unfold gapCoefficient
+  linarith
+
+theorem enlargementWidth_pos {η s : ℝ} (hη : 0 < η) (hs : 0 < s) :
+    0 < enlargementWidth η s := by
+  have := gapCoefficient_pos hη
+  unfold enlargementWidth
+  positivity
+
+theorem enlargement_witness {η s : ℝ} (hη : 0 < η) (hs : 0 < s)
+    {positive : Bool} {y : Transverse} (hy : y ∈ enlargement η s positive) :
+    ∃ x ∈ mask η s positive, dist y x ≤ 2 * enlargementWidth η s := by
+  have hδ := enlargementWidth_pos hη hs
+  obtain ⟨x, hx, hd⟩ := mem_iUnion₂.mp (cthickening_subset_iUnion_closedBall_of_lt (mask η s positive)
+    (by positivity : 0 < 2 * enlargementWidth η s) (by linarith) hy)
+  exact ⟨x, hx, mem_closedBall.mp hd⟩
+
+theorem enlargement_subset_annulus {η s : ℝ} (hη : 0 < η) (hs : 0 < s)
+    (positive : Bool) :
+    enlargement η s positive ⊆ {y : Transverse | s < ‖y‖ ∧ ‖y‖ < Real.exp η * s} := by
+  intro y hy
+  obtain ⟨x, hx, hdist⟩ := enlargement_witness hη hs hy
+  have h₁ := norm_sub_norm_le y x
+  have h₂ := norm_sub_norm_le x y
+  rw [← dist_eq_norm] at h₁ h₂
+  rw [dist_comm x y] at h₂
+  have hgap : 0 < gapCoefficient η * s ^ 2 := mul_pos (gapCoefficient_pos hη) (sq_pos_of_pos hs)
+  have hcore := hx.1
+  change s + gapCoefficient η * s ^ 2 < ‖x‖ ∧
+    ‖x‖ < Real.exp η * s - gapCoefficient η * s ^ 2 at hcore
+  dsimp only [enlargementWidth] at hdist
+  constructor <;> linarith [hcore.1, hcore.2]
+
+theorem scale_antitone {s₀ η : ℝ} (hs₀ : 0 ≤ s₀) (hη : 0 ≤ η) :
+    Antitone (scale s₀ η) := by
+  intro i j hij
+  unfold scale
+  apply mul_le_mul_of_nonneg_left _ hs₀
+  apply Real.exp_le_exp.mpr
+  have hcast : (i : ℝ) ≤ j := by exact_mod_cast hij
+  nlinarith
+
+theorem outerRadius_eq (s₀ η : ℝ) (j : ℕ) :
+    Real.exp η * jetScale s₀ η j = scale s₀ η j := by
+  unfold jetScale scale
+  rw [mul_left_comm, ← Real.exp_add]
+  congr 2
+  push_cast
+  ring
+
+theorem ordered_annuli {s₀ η : ℝ} (hs₀ : 0 ≤ s₀) (hη : 0 ≤ η)
+    {i j : ℕ} (hij : i < j) :
+    Real.exp η * jetScale s₀ η j ≤ jetScale s₀ η i := by
+  rw [outerRadius_eq]
+  exact scale_antitone hs₀ hη (Nat.succ_le_iff.mpr hij)
+
+theorem distinct_scale_disjoint {s₀ η : ℝ} (hs₀ : 0 < s₀) (hη : 0 < η)
+    {i j : ℕ} (hij : i ≠ j) (a b : Bool) :
+    Disjoint (enlargement η (jetScale s₀ η i) a) (enlargement η (jetScale s₀ η j) b) := by
+  apply disjoint_left.mpr
+  intro y hyi hyj
+  have hi := enlargement_subset_annulus hη (scale_pos hs₀ _) a hyi
+  have hj := enlargement_subset_annulus hη (scale_pos hs₀ _) b hyj
+  rcases lt_or_gt_of_ne hij with hij | hji
+  · have h := ordered_annuli hs₀.le hη.le hij
+    dsimp only [jetScale] at h
+    exact not_lt_of_ge h (hi.1.trans hj.2)
+  · have h := ordered_annuli hs₀.le hη.le hji
+    dsimp only [jetScale] at h
+    exact not_lt_of_ge h (hj.1.trans hi.2)
+
+theorem stripe_distance {s : ℝ} (hs : 0 < s) {x y : Transverse}
+    (hx : x ∈ stripe s true) (hy : y ∈ stripe s false) : s ^ 2 / 4 < dist x y := by
+  obtain ⟨k, hk₁, hk₂⟩ := hx
+  obtain ⟨l, hl₁, hl₂⟩ := hy
+  simp only [Bool.false_eq_true, ↓reduceIte, add_zero] at hk₁ hk₂ hl₁ hl₂
+  have hcoord : |x 0 - y 0| ≤ dist x y := by
+    simpa only [PiLp.sub_apply, Real.norm_eq_abs, dist_eq_norm] using PiLp.norm_apply_le (x - y) 0
+  have hp : 0 < s ^ 2 := sq_pos_of_pos hs
+  rcases le_or_gt k l with hkl | hlk
+  · have hcast : (k : ℝ) ≤ l := by exact_mod_cast hkl
+    have hh := mul_le_mul_of_nonneg_right hcast hp.le
+    have : s ^ 2 / 4 < y 0 - x 0 := by nlinarith
+    exact this.trans_le ((le_abs_self _).trans (by simpa only [abs_sub_comm] using hcoord))
+  · have hcast : (l : ℝ) + 1 ≤ k := by exact_mod_cast (Int.add_one_le_iff.mpr hlk)
+    have hh := mul_le_mul_of_nonneg_right hcast hp.le
+    have : s ^ 2 / 4 < x 0 - y 0 := by nlinarith
+    exact this.trans_le ((le_abs_self _).trans hcoord)
+
+theorem opposite_enlargements_disjoint {η s : ℝ} (hη : 0 < η)
+    (hηmax : η ≤ Real.log 2) (hs : 0 < s) :
+    Disjoint (enlargement η s true) (enlargement η s false) := by
+  apply disjoint_left.mpr
+  intro y hy₁ hy₂
+  obtain ⟨x, hx, hxy⟩ := enlargement_witness hη hs hy₁
+  obtain ⟨z, hz, hzy⟩ := enlargement_witness hη hs hy₂
+  have hsep := stripe_distance hs hx.2 hz.2
+  have hdist := dist_triangle x y z
+  rw [dist_comm x y] at hdist
+  have hc := mul_le_mul_of_nonneg_right (gapCoefficient_le hηmax) (sq_nonneg s)
+  unfold enlargementWidth at hxy hzy
+  nlinarith
+
+theorem enlargement_inside_baseBall {s₀ η : ℝ} (hs₀ : 0 < s₀) (hη : 0 < η)
+    (j : ℕ) (a : Bool) : enlargement η (jetScale s₀ η j) a ⊆ ball 0 s₀ := by
+  intro y hy
+  have h := (enlargement_subset_annulus hη (scale_pos hs₀ _) a hy).2
+  change ‖y‖ < Real.exp η * jetScale s₀ η j at h
+  rw [outerRadius_eq] at h
+  have hj := scale_antitone hs₀.le hη.le (Nat.zero_le j)
+  have hzero : scale s₀ η 0 = s₀ := by simp [scale]
+  rw [hzero] at hj
+  simpa only [mem_ball, dist_zero_right] using h.trans_le hj
+
+end BoltzmannNonuniqueness.JetGeometry
+
+end
+
+end
+
+section
+
+/-! # Pairwise disjoint periodic cold-jet spatial enlargements -/
+
+noncomputable section
+
+open Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetGeometry
+
+namespace BoltzmannNonuniqueness.JetLattice
+
+theorem integer_distance {m n : ℤ} (h : m ≠ n) : (1 : ℝ) ≤ |(m : ℝ) - n| := by
+  have h' := Int.one_le_abs (sub_ne_zero.mpr h)
+  exact_mod_cast h'
+
+theorem distinct_transverse_shifts {m n : Lattice}
+    (h : ∃ k : Fin 2, m k.castSucc ≠ n k.castSucc) :
+    1 ≤ ‖transverseShift m - transverseShift n‖ := by
+  obtain ⟨k, hk⟩ := h
+  have hn := PiLp.norm_apply_le (transverseShift m - transverseShift n) k
+  change ‖(m k.castSucc : ℝ) - n k.castSucc‖ ≤ _ at hn
+  rw [Real.norm_eq_abs] at hn
+  exact (integer_distance hk).trans hn
+
+theorem common_point_transverse_lattice {s₀ η : ℝ} (hs₀ : 0 < s₀)
+    (hsmax : s₀ ≤ 1 / 8) (hη : 0 < η) {t : ℝ} {i j : Label} {x : Velocity}
+    (hi : x ∈ spatialEnlargement s₀ η t i) (hj : x ∈ spatialEnlargement s₀ η t j) :
+    ∀ k : Fin 2, i.lattice k.castSucc = j.lattice k.castSucc := by
+  by_contra! h
+  have hsep := distinct_transverse_shifts h
+  have hi' := enlargement_inside_baseBall hs₀ hη i.annulus i.positive hi.1
+  have hj' := enlargement_inside_baseBall hs₀ hη j.annulus j.positive hj.1
+  rw [mem_ball, dist_zero_right] at hi' hj'
+  have htri := norm_sub_le (transverse x - transverseShift j.lattice)
+    (transverse x - transverseShift i.lattice)
+  have he : transverse x - transverseShift j.lattice - (transverse x - transverseShift i.lattice) =
+      transverseShift i.lattice - transverseShift j.lattice := by abel
+  rw [he] at htri
+  linarith
+
+theorem common_point_axial_lattice {t : ℝ} (ht : t ≤ 1 / 32)
+    {s₀ η : ℝ} {i j : Label} {x : Velocity}
+    (hi : x ∈ spatialEnlargement s₀ η t i) (hj : x ∈ spatialEnlargement s₀ η t j) :
+    i.lattice (Fin.last 2) = j.lattice (Fin.last 2) := by
+  by_contra h
+  have hsep := integer_distance h
+  have htri := abs_sub_le (axialShift i.lattice) (axial x) (axialShift j.lattice)
+  rw [abs_sub_comm (axialShift i.lattice) (axial x)] at htri
+  have hi' := hi.2
+  have hj' := hj.2
+  change |axial x - axialShift i.lattice| ≤ 1 / 8 + 2 * t + 1 / 16 at hi'
+  change |axial x - axialShift j.lattice| ≤ 1 / 8 + 2 * t + 1 / 16 at hj'
+  change 1 ≤ |axialShift i.lattice - axialShift j.lattice| at hsep
+  linarith
+
+theorem common_point_lattice {s₀ η t : ℝ} (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1 / 8)
+    (hη : 0 < η) (ht : t ≤ 1 / 32) {i j : Label} {x : Velocity}
+    (hi : x ∈ spatialEnlargement s₀ η t i) (hj : x ∈ spatialEnlargement s₀ η t j) :
+    i.lattice = j.lattice := by
+  have htrans := common_point_transverse_lattice hs₀ hsmax hη hi hj
+  have haxial := common_point_axial_lattice ht hi hj
+  funext k
+  refine Fin.lastCases haxial htrans k
+
+theorem common_point_label {s₀ η t : ℝ} (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1 / 8)
+    (hη : 0 < η) (hηmax : η ≤ Real.log 2) (ht : t ≤ 1 / 32) {i j : Label} {x : Velocity}
+    (hi : x ∈ spatialEnlargement s₀ η t i) (hj : x ∈ spatialEnlargement s₀ η t j) : i = j := by
+  have hn := common_point_lattice hs₀ hsmax hη ht hi hj
+  have hi' := hi.1
+  have hj' := hj.1
+  rw [← hn] at hj'
+  have ha : i.annulus = j.annulus := by
+    by_contra h
+    exact (disjoint_left.mp (distinct_scale_disjoint hs₀ hη h i.positive j.positive)) hi' hj'
+  have hs : i.positive = j.positive := by
+    rw [← ha] at hj'
+    by_contra h
+    have hd := opposite_enlargements_disjoint hη hηmax
+      (DatumBounds.scale_pos (η := η) hs₀ (i.annulus + 1))
+    cases hiBool : i.positive <;> cases hjBool : j.positive
+    · exact h (hiBool.trans hjBool.symm)
+    · rw [hiBool] at hi'
+      rw [hjBool] at hj'
+      exact (disjoint_left.mp hd) hj' hi'
+    · rw [hiBool] at hi'
+      rw [hjBool] at hj'
+      exact (disjoint_left.mp hd) hi' hj'
+    · exact h (hiBool.trans hjBool.symm)
+  cases i
+  cases j
+  simp_all
+
+end BoltzmannNonuniqueness.JetLattice
+
+end
+
+end
+
+section
+
+/-! # Area bounds for the original striped cold-jet masks -/
+
+noncomputable section
+
+open MeasureTheory Set Metric
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetGeometry
+
+namespace BoltzmannNonuniqueness.JetMaskMeasure
+
+theorem measurableSet_stripe (s : ℝ) (a : Bool) : MeasurableSet (stripe s a) := by
+  unfold stripe
+  simp only [ofPred_exists]
+  apply MeasurableSet.iUnion
+  intro k
+  exact (measurableSet_lt measurable_const (by fun_prop : Measurable (fun y : Transverse => y 0))).inter
+    (measurableSet_lt (by fun_prop : Measurable (fun y : Transverse => y 0)) measurable_const)
+
+theorem measurableSet_annularCore (η s : ℝ) : MeasurableSet (annularCore η s) :=
+  (measurableSet_lt measurable_const measurable_norm).inter
+    (measurableSet_lt measurable_norm measurable_const)
+
+theorem measurableSet_mask (η s : ℝ) (a : Bool) : MeasurableSet (mask η s a) :=
+  (measurableSet_annularCore η s).inter (measurableSet_stripe s a)
+
+end BoltzmannNonuniqueness.JetMaskMeasure
+
+end
+
+end
+
+section
+
+/-! # A fixed smooth compactly supported thermal probability kernel -/
+
+noncomputable section
+
+open MeasureTheory Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.JetThermalKernel
+
+theorem J_nonneg (v : Velocity) : 0 ≤ J v := bump.nonneg_normed v
+
+theorem J_smooth : ContDiff ℝ (⊤ : ℕ∞) J := bump.contDiff_normed
+
+theorem J_support : Function.support J = ball 0 1 := bump.support_normed_eq
+
+theorem J_zero {v : Velocity} (hv : 1 ≤ ‖v‖) : J v = 0 := by
+  by_contra h
+  have hs : v ∈ Function.support J := h
+  rw [J_support, mem_ball, dist_zero_right] at hs
+  exact not_lt_of_ge hv hs
+
+theorem bound_pos : 0 < bound := inv_pos.mpr bump.integral_pos
+
+theorem J_le (v : Velocity) : J v ≤ bound := by
+  unfold J ContDiffBump.normed bound
+  exact (div_le_div_of_nonneg_right bump.le_one bump.integral_pos.le).trans_eq (one_div _)
+
+end BoltzmannNonuniqueness.JetThermalKernel
+
+end
+
+end
+
+section
+
+/-! # Mass, support and integrability of translated thermal profiles -/
+
+noncomputable section
+
+open MeasureTheory Set Metric
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetThermalKernel
+
+namespace BoltzmannNonuniqueness.JetThermalLaw
+
+theorem density_zero {d : ℝ} (hd : 0 < d) (a v : Velocity) (hv : d ≤ ‖v - a‖) :
+    density d a v = 0 := by
+  have h : 1 ≤ ‖d⁻¹ • (v - a)‖ := by
+    rw [norm_smul, Real.norm_eq_abs, abs_of_pos (inv_pos.mpr hd)]
+    exact (one_le_inv_mul₀ hd).mpr hv
+  simp only [density, scaled, J_zero h, mul_zero]
+
+end BoltzmannNonuniqueness.JetThermalLaw
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetBarrierKinetic
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The exact one-dimensional core Jacobian and compression bound -/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.AxialDerivative
+open BoltzmannNonuniqueness.JetCoreMap
+
+namespace BoltzmannNonuniqueness.JetCoreJacobian
+
+theorem jacobian_pos {α γ s d t : ℝ} (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s)
+    (hd : 0 < d) (ht : 0 ≤ t) (σ z w : ℝ) : 0 < jacobian σ α γ s d t z w := by
+  unfold jacobian
+  have := A_nonneg hα hγ hs.le (sourceFoot σ α γ s d t z w)
+  positivity
+
+end BoltzmannNonuniqueness.JetCoreJacobian
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_CarlemanNormalCoordinates
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# Energy algebra on a Carleman collision plane
+
+These are the exact geometric and Gaussian identities used in Section 3.
+The coarea/disintegration formula expressing the gain as a plane integral
+is a separate theorem and is not assumed or asserted here.
+-/
+
+noncomputable section
+
+open scoped RealInnerProductSpace
+
+namespace BoltzmannNonuniqueness
+
+/-- The plane equation in the Carleman representation is exactly the energy equation. -/
+theorem carleman_energy (p ξ v : Velocity)
+    (h : inner ℝ (v - p) (ξ - v) = 0) :
+    ‖p‖ ^ 2 + ‖ξ‖ ^ 2 = ‖v‖ ^ 2 + ‖companionVelocity p ξ v‖ ^ 2 := by
+  unfold companionVelocity
+  rw [norm_sub_sq_real, norm_add_sq_real, inner_add_left]
+  simp only [inner_sub_left, inner_sub_right, real_inner_self_eq_norm_sq] at h
+  rw [← real_inner_comm ξ v]
+  nlinarith only [h]
+
+/-- The observed speed is bounded by the total incoming energy. -/
+theorem carleman_observed_energy_le (p ξ v : Velocity)
+    (h : inner ℝ (v - p) (ξ - v) = 0) :
+    ‖v‖ ^ 2 ≤ ‖p‖ ^ 2 + ‖ξ‖ ^ 2 := by
+  have he := carleman_energy p ξ v h
+  nlinarith only [he, sq_nonneg ‖companionVelocity p ξ v‖]
+
+/-- Squared Japanese-bracket inequality used to transfer the polynomial weight. -/
+theorem carleman_bracket_sq_le (p ξ v : Velocity)
+    (h : inner ℝ (v - p) (ξ - v) = 0) :
+    1 + ‖v‖ ^ 2 ≤ (1 + ‖p‖ ^ 2) * (1 + ‖ξ‖ ^ 2) := by
+  have he := carleman_observed_energy_le p ξ v h
+  nlinarith only [he, mul_nonneg (sq_nonneg ‖p‖) (sq_nonneg ‖ξ‖)]
+
+/-- The Gaussian ratio identity in equation `ker:energy-factor`. -/
+theorem carleman_gaussian_ratio (p ξ v : Velocity)
+    (h : inner ℝ (v - p) (ξ - v) = 0) :
+    Real.exp (-‖ξ‖ ^ 2) / Real.exp (-‖v‖ ^ 2) =
+      Real.exp (‖p‖ ^ 2 - ‖companionVelocity p ξ v‖ ^ 2) := by
+  rw [← Real.exp_sub]
+  congr 1
+  have he := carleman_energy p ξ v h
+  linarith only [he]
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_WeightAlgebra
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Weight transfer on a collision plane
+
+The exact Gaussian identity and polynomial transfer turn the normalized
+gain weight into the tilted cold measure used in `ker:tilted-kernel`.
+-/
+
+noncomputable section
+
+open scoped RealInnerProductSpace
+
+namespace BoltzmannNonuniqueness.VelocityWeight
+
+theorem W_pos (q : ℝ) (v : Velocity) : 0 < W q v := by
+  unfold W
+  linarith [singularity_nonneg q (transverse v)]
+
+private theorem rpow_neg_fifty {x : ℝ} (hx : 0 ≤ x) :
+    x ^ (-50 : ℝ) = (x ^ (50 : ℕ))⁻¹ := by
+  rw [show (-50 : ℝ) = -(50 : ℕ) by norm_num, Real.rpow_neg hx, Real.rpow_natCast]
+
+theorem H_ratio (q : ℝ) (ξ v : Velocity) :
+    H q ξ / H q v = (Real.exp (-‖ξ‖ ^ 2) / Real.exp (-‖v‖ ^ 2)) *
+      ((1 + ‖v‖ ^ 2) ^ (50 : ℕ) / (1 + ‖ξ‖ ^ 2) ^ (50 : ℕ)) * (W q ξ / W q v) := by
+  unfold H
+  change (Real.exp (-‖ξ‖ ^ 2) * (1 + ‖ξ‖ ^ 2) ^ (-50 : ℝ) * W q ξ) /
+    (Real.exp (-‖v‖ ^ 2) * (1 + ‖v‖ ^ 2) ^ (-50 : ℝ) * W q v) = _
+  rw [rpow_neg_fifty (by positivity), rpow_neg_fifty (by positivity)]
+  simp only [div_eq_mul_inv, mul_inv_rev, inv_inv]
+  ring
+
+theorem polynomial_ratio_le (p ξ v : Velocity)
+    (h : inner ℝ (v - p) (ξ - v) = 0) :
+    (1 + ‖v‖ ^ 2) ^ (50 : ℕ) / (1 + ‖ξ‖ ^ 2) ^ (50 : ℕ) ≤
+      (1 + ‖p‖ ^ 2) ^ (50 : ℕ) := by
+  apply (div_le_iff₀ (by positivity : 0 < (1 + ‖ξ‖ ^ 2) ^ (50 : ℕ))).mpr
+  rw [← mul_pow]
+  exact pow_le_pow_left₀ (by positivity) (carleman_bracket_sq_le p ξ v h) 50
+
+theorem tiltConstant_pos : 0 < tiltConstant := by unfold tiltConstant; positivity
+
+theorem polynomial_le_gaussian (p : Velocity) :
+    (1 + ‖p‖ ^ 2) ^ (50 : ℕ) ≤ tiltConstant * Real.exp (‖p‖ ^ 2) := by
+  have hf : 0 < (Nat.factorial 50 : ℝ) := by positivity
+  have h := (div_le_iff₀ hf).mp
+    (Real.pow_div_factorial_le_exp (1 + ‖p‖ ^ 2) (by positivity) 50)
+  calc
+    _ ≤ Real.exp (1 + ‖p‖ ^ 2) * (Nat.factorial 50 : ℝ) := h
+    _ = _ := by unfold tiltConstant; rw [Real.exp_add]; ring
+
+/-- The complete weight ratio estimate preceding the tilted-kernel bound. -/
+theorem collision_weight_ratio_le (q : ℝ) (p ξ v : Velocity)
+    (h : inner ℝ (v - p) (ξ - v) = 0) :
+    H q ξ / H q v ≤ tiltConstant *
+      Real.exp (2 * ‖p‖ ^ 2 - ‖companionVelocity p ξ v‖ ^ 2) * (W q ξ / W q v) := by
+  rw [H_ratio, carleman_gaussian_ratio p ξ v h]
+  have hw : 0 ≤ W q ξ / W q v := div_nonneg (W_pos q ξ).le (W_pos q v).le
+  calc
+    _ ≤ Real.exp (‖p‖ ^ 2 - ‖companionVelocity p ξ v‖ ^ 2) *
+        (1 + ‖p‖ ^ 2) ^ (50 : ℕ) * (W q ξ / W q v) := by
+      apply mul_le_mul_of_nonneg_right _ hw
+      exact mul_le_mul_of_nonneg_left (polynomial_ratio_le p ξ v h) (Real.exp_nonneg _)
+    _ ≤ Real.exp (‖p‖ ^ 2 - ‖companionVelocity p ξ v‖ ^ 2) *
+        (tiltConstant * Real.exp (‖p‖ ^ 2)) * (W q ξ / W q v) := by
+      apply mul_le_mul_of_nonneg_right _ hw
+      exact mul_le_mul_of_nonneg_left (polynomial_le_gaussian p) (Real.exp_nonneg _)
+    _ = _ := by
+      rw [show Real.exp (‖p‖ ^ 2 - ‖companionVelocity p ξ v‖ ^ 2) *
+          (tiltConstant * Real.exp (‖p‖ ^ 2)) =
+          tiltConstant * (Real.exp (‖p‖ ^ 2 - ‖companionVelocity p ξ v‖ ^ 2) *
+            Real.exp (‖p‖ ^ 2)) by ring, ← Real.exp_add]
+      congr 3
+      ring
+
+/-- The singular part of the transverse normalization is uniformly bounded. -/
+theorem singular_fraction_le_one {r : ℝ} (hr : 0 < r) (q : ℝ) :
+    r ^ (-q) / (1 + r ^ (-q)) ≤ 1 := by
+  apply (div_le_one (by positivity : 0 < 1 + r ^ (-q))).mpr
+  linarith
+
+/-- Near the axis, the regular part gains the positive power `q-1`. -/
+theorem regular_fraction_le_power {r : ℝ} (hr : 0 < r) (q : ℝ) :
+    r⁻¹ / (1 + r ^ (-q)) ≤ r ^ (q - 1) := by
+  apply (div_le_iff₀ (by positivity : 0 < 1 + r ^ (-q))).mpr
+  have he : r ^ (q - 1) * r ^ (-q) = r⁻¹ := by
+    rw [← Real.rpow_add hr, show (q - 1) + -q = -1 by ring, Real.rpow_neg_one]
+  rw [mul_add, mul_one, he]
+  linarith [Real.rpow_nonneg hr.le (q - 1)]
+
+theorem regular_fraction_le_one {r q : ℝ} (hr : 0 < r) (hq : 1 ≤ q) :
+    r⁻¹ / (1 + r ^ (-q)) ≤ 1 := by
+  by_cases hr₁ : r ≤ 1
+  · exact (regular_fraction_le_power hr q).trans
+      (Real.rpow_le_one hr.le hr₁ (by linarith))
+  · have hi : r⁻¹ ≤ 1 := inv_le_one_of_one_le₀ (le_of_not_ge hr₁)
+    apply (div_le_one (by positivity : 0 < 1 + r ^ (-q))).mpr
+    linarith [Real.rpow_nonneg hr.le (-q)]
+
+theorem inverse_weight_le_power {r : ℝ} (hr : 0 < r) (q : ℝ) :
+    (1 + r ^ (-q))⁻¹ ≤ r ^ q := by
+  rw [← one_div]
+  apply (div_le_iff₀ (by positivity : 0 < 1 + r ^ (-q))).mpr
+  have he : r ^ q * r ^ (-q) = 1 := by
+    rw [← Real.rpow_add hr, add_neg_cancel, Real.rpow_zero]
+  rw [mul_add, mul_one, he]
+  linarith [Real.rpow_nonneg hr.le q]
+
+/-- The shell alternative used to extract either a cold or a Gaussian tail. -/
+theorem shell_alternative (p k : Velocity) {R : ℝ}
+    (h : R < ‖p‖ + ‖k‖) : R / 4 < ‖p‖ ∨ R / 2 < ‖p + k‖ := by
+  have he : k = (p + k) - p := by abel
+  have hn : ‖k‖ ≤ ‖p + k‖ + ‖p‖ := by
+    calc ‖k‖ = ‖(p + k) - p‖ := congrArg norm he
+         _ ≤ ‖p + k‖ + ‖p‖ := norm_sub_le _ _
+  by_cases hp : R / 4 < ‖p‖
+  · exact Or.inl hp
+  · exact Or.inr (by linarith)
+
+theorem gaussian_shell_decay {w : Velocity} {R : ℝ} (hR : 0 ≤ R)
+    (hw : R / 2 ≤ ‖w‖) : Real.exp (-‖w‖ ^ 2) ≤ Real.exp (-R ^ 2 / 4) := by
+  apply Real.exp_le_exp.mpr
+  nlinarith [norm_nonneg w]
+
+end BoltzmannNonuniqueness.VelocityWeight
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_CarlemanOperator
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Nonnegative Carleman gain
+
+Gamba, Panferov and Villani, *Upper Maxwellian bounds for the spatially
+homogeneous Boltzmann equation*, Arch. Ration. Mech. Anal. 194 (2009),
+253–282, Appendix C, Lemma 16 and the hard-sphere remark. The author's
+preprint https://www.csun.edu/~panferov/research/umb_5.pdf gives the formula
+on pp. 23–24. Their hard-sphere rate is `|g|/(4π)` in outgoing-direction
+coordinates. Multiplication by `2π` gives the present absolute-normal
+kernel and the coefficient `2` below.
+
+The nonnegative measurable form of that identity is expressed in an explicit
+plane chart. Its density formulation includes the plane-chart measure
+identification and allows arbitrary nonnegative measurable densities.
+-/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.PlaneChart
+open scoped ENNReal
+
+namespace BoltzmannNonuniqueness
+
+/-- The algebraic estimate applies to every nondegenerate point of the actual chart. -/
+theorem chart_weight_ratio_le (q : ℝ) (v p : Velocity) (z s : ℝ)
+    (hn : normal v p ≠ 0) :
+    VelocityWeight.H q (chart v p z s) / VelocityWeight.H q v ≤
+      VelocityWeight.tiltConstant *
+        Real.exp (2 * ‖p‖ ^ 2 - ‖companionVelocity p (chart v p z s) v‖ ^ 2) *
+        (VelocityWeight.W q (chart v p z s) / VelocityWeight.W q v) :=
+  VelocityWeight.collision_weight_ratio_le q p (chart v p z s) v (chart_on_plane v p z s hn)
+
+end BoltzmannNonuniqueness
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_GaussianEstimates
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# Centered Gaussians as mixtures of uniform disks
+
+The mixing density in Section 3 is `2 a³ / d⁴ * exp (-a²/d²)` on positive
+radii. The formulas below retain the ordinary, unnormalized Lebesgue density
+of each disk so that the normalization factors remain explicit.
+-/
+
+noncomputable section
+
+open MeasureTheory Set Metric Filter
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.TransverseAverage
+open scoped Topology ENNReal
+
+namespace BoltzmannNonuniqueness.GaussianDiskMixture
+
+theorem gaussianDensity_nonneg (d : ℝ) (p : Transverse) : 0 ≤ gaussianDensity d p := by
+  unfold gaussianDensity
+  positivity
+
+theorem diskDensity_nonneg (a : ℝ) (p : Transverse) : 0 ≤ diskDensity a p := by
+  unfold diskDensity
+  apply indicator_nonneg _ p
+  intro x hx
+  positivity
+
+theorem mixingDensity_nonneg (d : ℝ) {a : ℝ} (ha : 0 ≤ a) : 0 ≤ mixingDensity d a := by
+  unfold mixingDensity
+  positivity
+
+theorem measurable_gaussianDensity (d : ℝ) : Measurable (gaussianDensity d) := by
+  unfold gaussianDensity
+  fun_prop
+
+theorem measurable_mixingDensity (d : ℝ) : Measurable (mixingDensity d) := by
+  unfold mixingDensity
+  fun_prop
+
+theorem diskDensity_eq_ite (a : ℝ) (p : Transverse) :
+    diskDensity a p = if ‖p‖ < a then (Real.pi * a ^ 2)⁻¹ else 0 := by
+  simp [diskDensity, indicator]
+
+theorem measurable_diskDensity : Measurable (fun ap : ℝ × Transverse => diskDensity ap.1 ap.2) := by
+  simp only [diskDensity_eq_ite]
+  apply Measurable.ite (measurableSet_lt measurable_snd.norm measurable_fst) <;> fun_prop
+
+theorem integrableOn_mixingDensity {d : ℝ} (hd : 0 < d) :
+    IntegrableOn (mixingDensity d) (Ioi 0) := by
+  have hi := (integrableOn_rpow_mul_exp_neg_mul_sq (b := 1 / d ^ 2)
+    (by positivity) (show (-1 : ℝ) < 3 by norm_num)).const_mul (2 / d ^ 4)
+  change Integrable _ _
+  convert hi using 1
+  all_goals try with_reducible_and_instances rfl
+  funext a
+  simp only [mixingDensity, Real.rpow_ofNat]
+  rw [show -(1 / d ^ 2) * a ^ 2 = -a ^ 2 / d ^ 2 by ring]
+  ring
+
+private theorem integral_gaussian_tail {b : ℝ} (hb : 0 < b) (r : ℝ) :
+    (∫ a in Ioi r, a * Real.exp (-b * a ^ 2)) =
+      (2 * b)⁻¹ * Real.exp (-b * r ^ 2) := by
+  have hb₀ : b ≠ 0 := hb.ne'
+  have hderiv : ∀ a : ℝ, HasDerivAt
+      (fun a => -(2 * b)⁻¹ * Real.exp (-b * a ^ 2))
+      (a * Real.exp (-b * a ^ 2)) a := by
+    intro a
+    convert (((hasDerivAt_pow 2 a).const_mul (-b)).exp.const_mul (-(2 * b)⁻¹)) using 1
+    all_goals try with_reducible_and_instances rfl
+    field_simp
+    ring
+  have hi : Integrable (fun a : ℝ => a * Real.exp (-b * a ^ 2)) := by
+    simpa only [Real.rpow_one] using
+      integrable_rpow_mul_exp_neg_mul_sq hb (show (-1 : ℝ) < 1 by norm_num)
+  have ht : Tendsto (fun a : ℝ => -(2 * b)⁻¹ * Real.exp (-b * a ^ 2)) atTop (𝓝 0) := by
+    have h := Real.tendsto_exp_atBot.comp
+      ((tendsto_pow_atTop (by norm_num : (2 : ℕ) ≠ 0)).const_mul_atTop_of_neg (neg_lt_zero.mpr hb))
+    simpa only [mul_zero, Function.comp_def] using h.const_mul (-(2 * b)⁻¹)
+  have h := integral_Ioi_of_hasDerivAt_of_tendsto' (a := r) (fun a _ => hderiv a) hi.integrableOn ht
+  simpa only [zero_sub, neg_mul, neg_neg] using h
+
+theorem integral_radius_tail {d : ℝ} (hd : 0 < d) (r : ℝ) :
+    (∫ a in Ioi r, a * Real.exp (-a ^ 2 / d ^ 2)) =
+      d ^ 2 / 2 * Real.exp (-r ^ 2 / d ^ 2) := by
+  have h := integral_gaussian_tail (b := 1 / d ^ 2) (by positivity) r
+  convert h using 1
+  · congr 1
+    funext a
+    congr 2
+    ring
+  · congr 1 <;> field_simp
+
+private theorem integral_radius_cubic {d : ℝ} (hd : 0 < d) :
+    (∫ a in Ioi (0 : ℝ), a ^ 3 * Real.exp (-a ^ 2 / d ^ 2)) = d ^ 4 / 2 := by
+  have h := integral_fun_norm_addHaar (volume : Measure (EuclideanSpace ℝ (Fin 4)))
+    (fun a : ℝ => Real.exp (-(1 / d ^ 2) * a ^ 2))
+  have hg := GaussianFourier.integral_rexp_neg_mul_sq_norm
+    (V := EuclideanSpace ℝ (Fin 4)) (b := 1 / d ^ 2) (by positivity)
+  rw [hg] at h
+  rw [measureReal_def, InnerProductSpace.volume_ball_of_dim_even (k := 2) (by simp)] at h
+  simp only [ENNReal.ofReal_one, one_pow, one_mul] at h
+  rw [ENNReal.toReal_ofReal (by positivity)] at h
+  norm_num [finrank_euclideanSpace, Real.rpow_natCast] at h
+  have hd₀ : d ≠ 0 := hd.ne'
+  have hrewrite : (fun a : ℝ => a ^ 3 * Real.exp (-((d ^ 2)⁻¹ * a ^ 2))) =
+      fun a => a ^ 3 * Real.exp (-a ^ 2 / d ^ 2) := by funext a; congr 2; ring
+  rw [hrewrite] at h
+  field_simp at h
+  simp only [neg_div] at ⊢
+  linarith
+
+theorem integral_mixingDensity {d : ℝ} (hd : 0 < d) :
+    (∫ a in Ioi (0 : ℝ), mixingDensity d a) = 1 := by
+  have heq : mixingDensity d = fun a => (2 / d ^ 4) *
+      (a ^ 3 * Real.exp (-a ^ 2 / d ^ 2)) := by
+    funext a
+    unfold mixingDensity
+    ring
+  rw [heq, integral_const_mul, integral_radius_cubic hd]
+  field_simp
+
+private theorem layerCake_integrand {d : ℝ} (hd : 0 < d) (p : Transverse)
+    {a : ℝ} (ha : 0 < a) :
+    mixingDensity d a * diskDensity a p =
+      (Ioi ‖p‖).indicator (fun a => (2 / (Real.pi * d ^ 4)) *
+        (a * Real.exp (-a ^ 2 / d ^ 2))) a := by
+  have hd₀ : d ≠ 0 := hd.ne'
+  have ha₀ : a ≠ 0 := ha.ne'
+  by_cases hp : ‖p‖ < a
+  · simp only [mixingDensity, diskDensity, indicator_of_mem
+      (show p ∈ ball (0 : Transverse) a from mem_ball_zero_iff.mpr hp),
+      indicator_of_mem (show a ∈ Ioi ‖p‖ from hp)]
+    field_simp
+  · simp only [diskDensity, indicator_of_notMem
+      (show p ∉ ball (0 : Transverse) a from fun h => hp (mem_ball_zero_iff.mp h)),
+      mul_zero, indicator_of_notMem (show a ∉ Ioi ‖p‖ from hp)]
+
+theorem integrableOn_layerCake {d : ℝ} (hd : 0 < d) (p : Transverse) :
+    IntegrableOn (fun a => mixingDensity d a * diskDensity a p) (Ioi 0) := by
+  have hi : Integrable (fun a : ℝ => a * Real.exp (-a ^ 2 / d ^ 2)) := by
+    have h := integrable_rpow_mul_exp_neg_mul_sq (b := 1 / d ^ 2)
+      (by positivity) (show (-1 : ℝ) < 1 by norm_num)
+    convert h using 1
+    all_goals try with_reducible_and_instances rfl
+    funext a
+    rw [Real.rpow_one]
+    congr 2
+    ring
+  have hc := (hi.const_mul (2 / (Real.pi * d ^ 4))).indicator
+    (measurableSet_Ioi (a := ‖p‖))
+  exact hc.integrableOn.congr_fun (fun a ha => (layerCake_integrand hd p ha).symm)
+    measurableSet_Ioi
+
+/-- Pointwise layer-cake identity, with the positive-radius mixing law normalized below. -/
+theorem density_layerCake {d : ℝ} (hd : 0 < d) (p : Transverse) :
+    (∫ a in Ioi (0 : ℝ), mixingDensity d a * diskDensity a p) = gaussianDensity d p := by
+  have hd₀ : d ≠ 0 := hd.ne'
+  rw [setIntegral_congr_fun measurableSet_Ioi (fun a ha => layerCake_integrand hd p ha),
+    integral_indicator measurableSet_Ioi, Measure.restrict_restrict measurableSet_Ioi,
+    Ioi_inter_Ioi, max_eq_left (norm_nonneg p), integral_const_mul, integral_radius_tail hd]
+  unfold gaussianDensity
+  field_simp
+
+theorem lintegral_density_layerCake {d : ℝ} (hd : 0 < d) (p : Transverse) :
+    (∫⁻ a in Ioi (0 : ℝ), ENNReal.ofReal (mixingDensity d a * diskDensity a p)) =
+      ENNReal.ofReal (gaussianDensity d p) := by
+  rw [← ofReal_integral_eq_lintegral_ofReal (integrableOn_layerCake hd p), density_layerCake hd]
+  filter_upwards [ae_restrict_mem measurableSet_Ioi] with a ha
+  exact mul_nonneg (mixingDensity_nonneg d (le_of_lt ha)) (diskDensity_nonneg a p)
+
+theorem lintegral_mixingDensity {d : ℝ} (hd : 0 < d) :
+    (∫⁻ a in Ioi (0 : ℝ), ENNReal.ofReal (mixingDensity d a)) = 1 := by
+  rw [← ofReal_integral_eq_lintegral_ofReal (integrableOn_mixingDensity hd),
+    integral_mixingDensity hd, ENNReal.ofReal_one]
+  filter_upwards [ae_restrict_mem measurableSet_Ioi] with a ha
+  exact mixingDensity_nonneg d (le_of_lt ha)
+
+private theorem lintegral_diskDensity_mul (φ : Transverse → ℝ≥0∞) (a : ℝ) (ha : 0 < a) :
+    (∫⁻ p, ENNReal.ofReal (diskDensity a p) * φ p) =
+      (ENNReal.ofReal (Real.pi * a ^ 2))⁻¹ * ∫⁻ p in ball (0 : Transverse) a, φ p := by
+  have heq : (fun p => ENNReal.ofReal (diskDensity a p) * φ p) =
+      (ball (0 : Transverse) a).indicator
+        (fun p => ENNReal.ofReal ((Real.pi * a ^ 2)⁻¹) * φ p) := by
+    funext p
+    by_cases hp : p ∈ ball (0 : Transverse) a <;> simp [diskDensity, indicator, hp]
+  rw [heq, lintegral_indicator measurableSet_ball,
+    lintegral_const_mul' _ _ ENNReal.ofReal_ne_top, ENNReal.ofReal_inv_of_pos (by positivity)]
+
+private theorem measurable_layerCake (d : ℝ) (φ : Transverse → ℝ≥0∞)
+    (hφ : Measurable φ) : Measurable (fun pa : Transverse × ℝ =>
+      ENNReal.ofReal (mixingDensity d pa.2 * diskDensity pa.2 pa.1) * φ pa.1) := by
+  have hs : Measurable (Prod.swap : Transverse × ℝ → ℝ × Transverse) := measurable_swap
+  have hdp := measurable_diskDensity.comp hs
+  have hm := (measurable_mixingDensity d).comp
+    (measurable_snd : Measurable (Prod.snd : Transverse × ℝ → ℝ))
+  have hprod := hm.mul hdp
+  have hr := hprod.ennreal_ofReal
+  have hp := hφ.comp (measurable_fst : Measurable (Prod.fst : Transverse × ℝ → Transverse))
+  have h := hr.mul hp
+  simpa only [Function.comp_def, Pi.mul_def, Prod.fst_swap, Prod.snd_swap] using h
+
+private theorem lintegral_layerCake_mul {d : ℝ} (hd : 0 < d)
+    (φ : Transverse → ℝ≥0∞) (p : Transverse) :
+    (∫⁻ a in Ioi (0 : ℝ),
+      ENNReal.ofReal (mixingDensity d a * diskDensity a p) * φ p) =
+      ENNReal.ofReal (gaussianDensity d p) * φ p := by
+  have hm : Measurable (fun a => ENNReal.ofReal (mixingDensity d a * diskDensity a p)) :=
+    ((measurable_mixingDensity d).mul
+      (measurable_diskDensity.comp (measurable_id.prodMk measurable_const))).ennreal_ofReal
+  rw [lintegral_mul_const _ hm, lintegral_density_layerCake hd]
+
+private theorem lintegral_layerCake_disk {d a : ℝ} (φ : Transverse → ℝ≥0∞)
+    (ha : 0 < a) :
+    (∫⁻ p, ENNReal.ofReal (mixingDensity d a * diskDensity a p) * φ p) =
+      ENNReal.ofReal (mixingDensity d a) *
+        ((ENNReal.ofReal (Real.pi * a ^ 2))⁻¹ * ∫⁻ p in ball (0 : Transverse) a, φ p) := by
+  simp_rw [ENNReal.ofReal_mul (mixingDensity_nonneg d ha.le), mul_assoc]
+  rw [lintegral_const_mul' _ _ ENNReal.ofReal_ne_top, lintegral_diskDensity_mul φ a ha]
+
+/-- Tonelli's theorem expresses every nonnegative measurable Gaussian expectation
+as a probability mixture of normalized disk expectations. -/
+theorem lintegral_gaussian_mixture {d : ℝ} (hd : 0 < d)
+    (φ : Transverse → ℝ≥0∞) (hφ : Measurable φ) :
+    (∫⁻ p, ENNReal.ofReal (gaussianDensity d p) * φ p) =
+      ∫⁻ a in Ioi (0 : ℝ), ENNReal.ofReal (mixingDensity d a) *
+        ((ENNReal.ofReal (Real.pi * a ^ 2))⁻¹ * ∫⁻ p in ball (0 : Transverse) a, φ p) := by
+  calc
+    _ = ∫⁻ p, ∫⁻ a in Ioi (0 : ℝ),
+        ENNReal.ofReal (mixingDensity d a * diskDensity a p) * φ p :=
+      lintegral_congr (fun p => (lintegral_layerCake_mul hd φ p).symm)
+    _ = ∫⁻ a in Ioi (0 : ℝ), ∫⁻ p,
+        ENNReal.ofReal (mixingDensity d a * diskDensity a p) * φ p :=
+      lintegral_lintegral_swap (measurable_layerCake d φ hφ).aemeasurable
+    _ = _ := by
+      apply lintegral_congr_ae
+      filter_upwards [ae_restrict_mem measurableSet_Ioi] with a ha
+      exact lintegral_layerCake_disk φ ha
+
+theorem integrable_diskDensity {a : ℝ} (_ha : 0 < a) : Integrable (diskDensity a) := by
+  apply (integrableOn_const measure_ball_lt_top.ne).integrable_indicator measurableSet_ball
+
+theorem integral_diskDensity {a : ℝ} (ha : 0 < a) : (∫ p, diskDensity a p) = 1 := by
+  unfold diskDensity
+  rw [integral_indicator measurableSet_ball, setIntegral_const, smul_eq_mul,
+    TransverseDisk.disk_volume_real 0 ha.le]
+  field_simp
+
+theorem lintegral_diskDensity {a : ℝ} (ha : 0 < a) :
+    (∫⁻ p, ENNReal.ofReal (diskDensity a p)) = 1 := by
+  rw [← ofReal_integral_eq_lintegral_ofReal (integrable_diskDensity ha)
+    (ae_of_all _ (diskDensity_nonneg a)), integral_diskDensity ha, ENNReal.ofReal_one]
+
+theorem lintegral_gaussianDensity {d : ℝ} (hd : 0 < d) :
+    (∫⁻ p, ENNReal.ofReal (gaussianDensity d p)) = 1 := by
+  have h := lintegral_gaussian_mixture hd (fun _ => 1) measurable_const
+  simp only [mul_one] at h
+  rw [h]
+  calc
+    _ = ∫⁻ a in Ioi (0 : ℝ), ENNReal.ofReal (mixingDensity d a) := by
+      apply lintegral_congr_ae
+      filter_upwards [ae_restrict_mem measurableSet_Ioi] with a ha
+      have hn := lintegral_diskDensity_mul (fun _ => 1) a ha
+      simp only [mul_one] at hn
+      rw [← hn, lintegral_diskDensity ha, mul_one]
+    _ = 1 := lintegral_mixingDensity hd
+
+theorem gaussianLaw_isProbabilityMeasure {d : ℝ} (hd : 0 < d) :
+    IsProbabilityMeasure (gaussianLaw d) := by
+  constructor
+  rw [gaussianLaw, withDensity_apply _ MeasurableSet.univ, setLIntegral_univ,
+    lintegral_gaussianDensity hd]
+
+theorem gaussian_kernel_lintegral_le {q d : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2) (hd : 0 < d)
+    {v : Transverse} (hv : v ≠ 0) :
+    (∫⁻ p, ENNReal.ofReal (gaussianDensity d p) *
+      ENNReal.ofReal (kernel q (direction v) (v - p))) ≤
+      ENNReal.ofReal (expectationConstant q / ‖v‖) := by
+  have hm : Measurable (fun p => kernel q (direction v) (v - p)) := by
+    unfold kernel
+    fun_prop
+  rw [lintegral_gaussian_mixture hd _ hm.ennreal_ofReal]
+  calc
+    _ ≤ ∫⁻ a in Ioi (0 : ℝ), ENNReal.ofReal (mixingDensity d a) *
+        ENNReal.ofReal (expectationConstant q / ‖v‖) := by
+      apply lintegral_mono_ae
+      filter_upwards [ae_restrict_mem measurableSet_Ioi] with a ha
+      have ha₀ : 0 < a := ha
+      apply mul_le_mul_right
+      have hi := integrableOn_kernel_translatedDisk hq₂ ha₀ (direction v) (norm_direction hv) v
+      have heq : (∫⁻ p in ball (0 : Transverse) a,
+          ENNReal.ofReal (kernel q (direction v) (v - p))) =
+          ENNReal.ofReal (∫ p in ball (0 : Transverse) a, kernel q (direction v) (v - p)) := by
+        symm
+        exact ofReal_integral_eq_lintegral_ofReal hi
+          (ae_of_all _ (fun p => kernel_nonneg q (direction v) (v - p)))
+      rw [heq]
+      have hnorm : (ENNReal.ofReal (Real.pi * a ^ 2))⁻¹ *
+          ENNReal.ofReal (∫ p in ball (0 : Transverse) a, kernel q (direction v) (v - p)) =
+          ENNReal.ofReal ((∫ p in ball (0 : Transverse) a, kernel q (direction v) (v - p)) /
+            (Real.pi * a ^ 2)) := by
+        rw [ENNReal.ofReal_div_of_pos (by positivity), div_eq_mul_inv, mul_comm]
+      rw [hnorm]
+      exact ENNReal.ofReal_le_ofReal (uniformDisk_expectation_le hq₁ hq₂ ha₀ hv)
+    _ = _ := by
+      rw [lintegral_mul_const' _ _ ENNReal.ofReal_ne_top, lintegral_mixingDensity hd, one_mul]
+
+theorem gaussianLaw_kernel_lintegral_le {q d : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hd : 0 < d) {v : Transverse} (hv : v ≠ 0) :
+    (∫⁻ p, ENNReal.ofReal (kernel q (direction v) (v - p)) ∂gaussianLaw d) ≤
+      ENNReal.ofReal (expectationConstant q / ‖v‖) := by
+  have hm : Measurable (fun p => ENNReal.ofReal (kernel q (direction v) (v - p))) := by
+    unfold kernel
+    fun_prop
+  rw [gaussianLaw, lintegral_withDensity_eq_lintegral_mul volume
+    (measurable_gaussianDensity d).ennreal_ofReal hm]
+  exact gaussian_kernel_lintegral_le hq₁ hq₂ hd hv
+
+end BoltzmannNonuniqueness.GaussianDiskMixture
+
+end
+
+end
+
+section
+
+/-!
+# Gaussian parameter laws for compressed sheets
+
+The probability and exponential-moment assertions in `ker:parameter-sheets`
+use only measurable axial maps. Both the original axial Gaussian (variance
+`1 / 2`) and the widened Gaussian (variance `1`) satisfy the bounds below.
+The collision gain estimate is not assumed or asserted here.
+-/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open scoped NNReal
+
+namespace BoltzmannNonuniqueness.GaussianSheets
+
+theorem original_gaussian_density (a : ℝ) :
+    gaussianPDFReal 0 (1 / 2) a = (Real.sqrt Real.pi)⁻¹ * Real.exp (-a ^ 2) := by
+  unfold gaussianPDFReal
+  norm_num
+  have h₂ : Real.sqrt (2 : ℝ) ≠ 0 := by positivity
+  field_simp
+
+private theorem integrable_gaussianReal_iff {v : ℝ≥0} (hv : v ≠ 0) (f : ℝ → ℝ) :
+    Integrable f (gaussianReal 0 v) ↔
+      Integrable (fun a => gaussianPDFReal 0 v a * f a) := by
+  rw [gaussianReal_of_var_ne_zero 0 hv,
+    integrable_withDensity_iff_integrable_smul' (measurable_gaussianPDF 0 v)
+      (ae_of_all _ (fun _ => gaussianPDF_lt_top))]
+  simp only [gaussianPDF_def, ENNReal.toReal_ofReal (gaussianPDFReal_nonneg 0 v _),
+    smul_eq_mul]
+
+/-- A quadratic exponential changes the centered Gaussian variance by a factor of two. -/
+theorem gaussianPDF_mul_exp_quarter {v : ℝ≥0} (hv : v ≠ 0) (a : ℝ) :
+    gaussianPDFReal 0 v a * Real.exp (a ^ 2 / (4 * (v : ℝ))) =
+      Real.sqrt 2 * gaussianPDFReal 0 (2 * v) a := by
+  have hv₀ : (v : ℝ) ≠ 0 := by exact_mod_cast hv
+  have hvpos : 0 < (v : ℝ) := by exact_mod_cast pos_iff_ne_zero.mpr hv
+  have hs : Real.sqrt (2 * Real.pi * (2 * (v : ℝ))) =
+      Real.sqrt 2 * Real.sqrt (2 * Real.pi * (v : ℝ)) := by
+    rw [show 2 * Real.pi * (2 * (v : ℝ)) = 2 * (2 * Real.pi * (v : ℝ)) by ring,
+      Real.sqrt_mul (by norm_num)]
+  have he : -a ^ 2 / (2 * (v : ℝ)) + a ^ 2 / (4 * (v : ℝ)) =
+      -a ^ 2 / (2 * (2 * (v : ℝ))) := by field_simp <;> ring
+  unfold gaussianPDFReal
+  simp only [sub_zero, NNReal.coe_mul, NNReal.coe_ofNat]
+  rw [mul_assoc, ← Real.exp_add, he, hs]
+  have hs₀ : Real.sqrt (2 * Real.pi * (v : ℝ)) ≠ 0 := by positivity
+  have h₂ : Real.sqrt (2 : ℝ) ≠ 0 := by positivity
+  field_simp
+
+theorem integrable_exp_quarter_gaussian {v : ℝ≥0} (hv : v ≠ 0) :
+    Integrable (fun a : ℝ => Real.exp (a ^ 2 / (4 * (v : ℝ)))) (gaussianReal 0 v) := by
+  apply (integrable_gaussianReal_iff hv _).mpr
+  have hi := (integrable_gaussianPDFReal 0 (2 * v)).const_mul (Real.sqrt 2)
+  exact hi.congr (ae_of_all _ (fun a => (gaussianPDF_mul_exp_quarter hv a).symm))
+
+theorem integral_exp_quarter_gaussian {v : ℝ≥0} (hv : v ≠ 0) :
+    (∫ a : ℝ, Real.exp (a ^ 2 / (4 * (v : ℝ))) ∂gaussianReal 0 v) = Real.sqrt 2 := by
+  have h₂v : (2 : ℝ≥0) * v ≠ 0 := mul_ne_zero (by norm_num) hv
+  rw [integral_gaussianReal_eq_integral_smul hv]
+  simp only [smul_eq_mul, gaussianPDF_mul_exp_quarter hv, integral_const_mul,
+    integral_gaussianPDFReal_eq_one 0 h₂v, mul_one]
+
+private theorem exp_image_le {v : ℝ≥0} (hv : v ≠ 0) (hv₁ : v ≤ 1)
+    {A δ : ℝ} (hA : 0 ≤ A) (hδ : 0 ≤ δ) (hδ₁ : δ ≤ 1 / 16)
+    {Φ : ℝ → ℝ} (hΦ : ∀ a, |Φ a| ≤ A + δ * |a|) (a : ℝ) :
+    Real.exp (8 * (Φ a) ^ 2) ≤
+      Real.exp (16 * A ^ 2) * Real.exp (a ^ 2 / (4 * (v : ℝ))) := by
+  have hvpos : 0 < (v : ℝ) := by exact_mod_cast pos_iff_ne_zero.mpr hv
+  have hvle : (v : ℝ) ≤ 1 := by exact_mod_cast hv₁
+  have hsq : (Φ a) ^ 2 ≤ (A + δ * |a|) ^ 2 := by
+    simpa only [sq_abs] using (sq_le_sq₀ (abs_nonneg (Φ a)) (by positivity)).mpr (hΦ a)
+  have hδsq : 16 * δ ^ 2 ≤ 1 / 4 := by
+    nlinarith [mul_nonneg hδ (sub_nonneg.mpr hδ₁)]
+  have hsplit : 8 * (Φ a) ^ 2 ≤ 16 * A ^ 2 + a ^ 2 / 4 := by
+    have hmul := mul_le_mul_of_nonneg_right hδsq (sq_nonneg a)
+    nlinarith [sq_nonneg (A - δ * |a|), sq_abs a]
+  have hdiv : a ^ 2 / 4 ≤ a ^ 2 / (4 * (v : ℝ)) := by
+    apply div_le_div_of_nonneg_left (sq_nonneg a) (by positivity)
+    linarith
+  rw [← Real.exp_add]
+  apply Real.exp_le_exp.mpr
+  linarith
+
+/-- The Gaussian parameter integrand is genuinely integrable, before taking its image law. -/
+theorem integrable_exp_image {v : ℝ≥0} (hv : v ≠ 0) (hv₁ : v ≤ 1)
+    {A δ : ℝ} (hA : 0 ≤ A) (hδ : 0 ≤ δ) (hδ₁ : δ ≤ 1 / 16)
+    {Φ : ℝ → ℝ} (hΦm : Measurable Φ) (hΦ : ∀ a, |Φ a| ≤ A + δ * |a|) :
+    Integrable (fun a => Real.exp (8 * (Φ a) ^ 2)) (gaussianReal 0 v) := by
+  apply ((integrable_exp_quarter_gaussian hv).const_mul (Real.exp (16 * A ^ 2))).mono'
+  · exact (by fun_prop : Measurable (fun a => Real.exp (8 * (Φ a) ^ 2))).aestronglyMeasurable
+  · filter_upwards [] with a
+    rw [Real.norm_eq_abs, abs_of_pos (Real.exp_pos _)]
+    exact exp_image_le hv hv₁ hA hδ hδ₁ hΦ a
+
+/-- The constant `2 * exp (16 * A²)` works for the original and wider parameter laws. -/
+theorem integral_exp_image_le {v : ℝ≥0} (hv : v ≠ 0) (hv₁ : v ≤ 1)
+    {A δ : ℝ} (hA : 0 ≤ A) (hδ : 0 ≤ δ) (hδ₁ : δ ≤ 1 / 16)
+    {Φ : ℝ → ℝ} (hΦm : Measurable Φ) (hΦ : ∀ a, |Φ a| ≤ A + δ * |a|) :
+    (∫ a, Real.exp (8 * (Φ a) ^ 2) ∂gaussianReal 0 v) ≤ 2 * Real.exp (16 * A ^ 2) := by
+  calc
+    _ ≤ ∫ a, Real.exp (16 * A ^ 2) * Real.exp (a ^ 2 / (4 * (v : ℝ)))
+        ∂gaussianReal 0 v :=
+      integral_mono (integrable_exp_image hv hv₁ hA hδ hδ₁ hΦm hΦ)
+        ((integrable_exp_quarter_gaussian hv).const_mul _) (exp_image_le hv hv₁ hA hδ hδ₁ hΦ)
+    _ = Real.exp (16 * A ^ 2) * Real.sqrt 2 := by
+      rw [integral_const_mul, integral_exp_quarter_gaussian hv]
+    _ ≤ _ := by
+      have hs : Real.sqrt (2 : ℝ) ≤ 2 := by
+        apply Real.sqrt_le_iff.mpr
+        norm_num
+      nlinarith [Real.exp_pos (16 * A ^ 2)]
+
+theorem integrable_axialLaw_exp {v : ℝ≥0} (hv : v ≠ 0) (hv₁ : v ≤ 1)
+    {A δ : ℝ} (hA : 0 ≤ A) (hδ : 0 ≤ δ) (hδ₁ : δ ≤ 1 / 16)
+    {Φ : ℝ → ℝ} (hΦm : Measurable Φ) (hΦ : ∀ a, |Φ a| ≤ A + δ * |a|) :
+    Integrable (fun a : ℝ => Real.exp (8 * a ^ 2)) (axialLaw v Φ) := by
+  rw [axialLaw, if_pos hΦm.aemeasurable]
+  apply (integrable_map_measure (by fun_prop) hΦm.aemeasurable).mpr
+  exact integrable_exp_image hv hv₁ hA hδ hδ₁ hΦm hΦ
+
+theorem integral_axialLaw_exp_le {v : ℝ≥0} (hv : v ≠ 0) (hv₁ : v ≤ 1)
+    {A δ : ℝ} (hA : 0 ≤ A) (hδ : 0 ≤ δ) (hδ₁ : δ ≤ 1 / 16)
+    {Φ : ℝ → ℝ} (hΦm : Measurable Φ) (hΦ : ∀ a, |Φ a| ≤ A + δ * |a|) :
+    (∫ a : ℝ, Real.exp (8 * a ^ 2) ∂axialLaw v Φ) ≤ 2 * Real.exp (16 * A ^ 2) := by
+  rw [axialLaw, if_pos hΦm.aemeasurable, integral_map hΦm.aemeasurable (by fun_prop)]
+  exact integral_exp_image_le hv hv₁ hA hδ hδ₁ hΦm hΦ
+
+end BoltzmannNonuniqueness.GaussianSheets
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_ScalarEntropyConvex
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# The scalar power singularity in an axial slice
+
+The exponent `r = 1-q` lies between `-1` and `0`. The interval estimate
+below is uniform in the location of its singularity. Values at the
+single singular point use the real-power convention and are immaterial.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+
+namespace BoltzmannNonuniqueness.AxialSlices
+
+theorem intervalIntegrable_abs_rpow {r : ℝ} (hr : -1 < r) (a b : ℝ) :
+    IntervalIntegrable (fun x : ℝ => |x| ^ r) volume a b := by
+  have hl : LocallyIntegrable (fun x : ℝ => |x| ^ r) := by
+    apply locallyIntegrable_of_norm_le_rpow (C := 1) (α := -r)
+      (by simp) (by norm_num only [Module.finrank_self, Nat.cast_one] <;> linarith)
+    · filter_upwards [] with x
+      rw [Real.norm_eq_abs, abs_of_nonneg (Real.rpow_nonneg (abs_nonneg _) _)]
+      simp only [one_mul, neg_neg, Real.norm_eq_abs, le_refl]
+    · exact (measurable_abs.pow measurable_const).aestronglyMeasurable
+  exact (intervalIntegrable_iff').mpr (hl.integrableOn_isCompact isCompact_uIcc)
+
+theorem intervalIntegrable_abs_sub_rpow {r : ℝ} (hr : -1 < r) (t a b : ℝ) :
+    IntervalIntegrable (fun x : ℝ => |x - t| ^ r) volume a b := by
+  simpa using (intervalIntegrable_abs_rpow hr (a - t) (b - t)).comp_sub_right t
+
+theorem integral_abs_rpow_zero {r L : ℝ} (hr : -1 < r) (hL : 0 ≤ L) :
+    (∫ x : ℝ in 0..L, |x| ^ r) = L ^ (r + 1) / (r + 1) := by
+  rw [intervalIntegral.integral_congr_Ioo_of_le hL (fun x hx => by
+    rw [abs_of_pos hx.1])]
+  rw [integral_rpow (Or.inl hr), Real.zero_rpow (by linarith : r + 1 ≠ 0), sub_zero]
+
+theorem integral_abs_rpow_symmetric {r L : ℝ} (hr : -1 < r) (hL : 0 ≤ L) :
+    (∫ x : ℝ in -L..L, |x| ^ r) = 2 * L ^ (r + 1) / (r + 1) := by
+  rw [← intervalIntegral.integral_add_adjacent_intervals
+    (intervalIntegrable_abs_rpow hr (-L) 0) (intervalIntegrable_abs_rpow hr 0 L)]
+  have hn : (∫ x : ℝ in -L..0, |x| ^ r) = ∫ x : ℝ in 0..L, |x| ^ r := by
+    have h := intervalIntegral.integral_comp_neg (fun x : ℝ => |x| ^ r) (a := 0) (b := L)
+    simp only [abs_neg, neg_zero] at h
+    exact h.symm
+  rw [hn, integral_abs_rpow_zero hr hL]
+  ring
+
+/-- A power singularity has at most twice the endpoint mass on an interval of length `b-a`.
+This is the root-independent estimate in the large-slope case of `ker:scalar-interval`. -/
+theorem integral_abs_sub_rpow_le {r a b t : ℝ} (hr : -1 < r) (hr₀ : r ≤ 0)
+    (hab : a ≤ b) :
+    (∫ x : ℝ in a..b, |x - t| ^ r) ≤ 2 * (b - a) ^ (r + 1) / (r + 1) := by
+  have hr₁ : 0 < r + 1 := by linarith
+  have hp : 0 ≤ (b - a) ^ (r + 1) / (r + 1) := by positivity
+  rw [show 2 * (b - a) ^ (r + 1) / (r + 1) =
+    2 * ((b - a) ^ (r + 1) / (r + 1)) by ring]
+  by_cases hta : t ≤ a
+  · have hmono := intervalIntegral.integral_mono_on_of_le_Ioo hab
+      (intervalIntegrable_abs_sub_rpow hr t a b)
+      (intervalIntegrable_abs_sub_rpow hr a a b)
+      (fun x hx => by
+        apply Real.rpow_le_rpow_of_nonpos
+        · rw [abs_of_pos (sub_pos.mpr hx.1)]; exact sub_pos.mpr hx.1
+        · rw [abs_of_pos (sub_pos.mpr hx.1), abs_of_nonneg (by linarith [hx.1])]
+          linarith
+        · exact hr₀)
+    have he : (∫ x : ℝ in a..b, |x - a| ^ r) =
+        (b - a) ^ (r + 1) / (r + 1) := by
+      rw [intervalIntegral.integral_comp_sub_right (fun x : ℝ => |x| ^ r)]
+      simpa using integral_abs_rpow_zero hr (sub_nonneg.mpr hab)
+    rw [he] at hmono
+    linarith
+  by_cases hbt : b ≤ t
+  · have hmono := intervalIntegral.integral_mono_on_of_le_Ioo hab
+      (intervalIntegrable_abs_sub_rpow hr t a b)
+      (intervalIntegrable_abs_sub_rpow hr b a b)
+      (fun x hx => by
+        apply Real.rpow_le_rpow_of_nonpos
+        · rw [abs_of_neg (sub_neg.mpr hx.2)]; linarith [hx.2]
+        · rw [abs_of_neg (sub_neg.mpr hx.2), abs_of_nonpos (by linarith [hx.2])]
+          linarith
+        · exact hr₀)
+    have he : (∫ x : ℝ in a..b, |x - b| ^ r) =
+        (b - a) ^ (r + 1) / (r + 1) := by
+      calc
+        _ = ∫ x : ℝ in a..b, |b - x| ^ r := by
+          apply intervalIntegral.integral_congr
+          intro x _
+          exact congrArg (fun y : ℝ => y ^ r) (abs_sub_comm x b)
+        _ = _ := by
+          rw [intervalIntegral.integral_comp_sub_left (fun x : ℝ => |x| ^ r), sub_self]
+          exact integral_abs_rpow_zero hr (sub_nonneg.mpr hab)
+    rw [he] at hmono
+    linarith
+  · have hta' : a ≤ t := le_of_not_ge hta
+    have htb' : t ≤ b := le_of_not_ge hbt
+    have hmono := intervalIntegral.integral_mono_interval
+      (show t - (b - a) ≤ a by linarith) hab
+      (show b ≤ t + (b - a) by linarith)
+      (Filter.Eventually.of_forall (fun x => Real.rpow_nonneg (abs_nonneg (x - t)) r))
+      (intervalIntegrable_abs_sub_rpow hr t (t - (b - a)) (t + (b - a)))
+    calc
+      _ ≤ ∫ x : ℝ in t - (b - a)..t + (b - a), |x - t| ^ r := hmono
+      _ = 2 * ((b - a) ^ (r + 1) / (r + 1)) := by
+        rw [intervalIntegral.integral_comp_sub_right (fun x : ℝ => |x| ^ r)]
+        rw [show t - (b - a) - t = -(b - a) by ring,
+          show t + (b - a) - t = b - a by ring,
+          integral_abs_rpow_symmetric hr (sub_nonneg.mpr hab)]
+        ring
+
+theorem abs_affine_rpow (r A B x : ℝ) (hB : B ≠ 0) :
+    |A - B * x| ^ r = |B| ^ r * |x - A / B| ^ r := by
+  have he : A - B * x = -B * (x - A / B) := by field_simp <;> ring
+  rw [he, abs_mul, abs_neg, Real.mul_rpow (abs_nonneg _) (abs_nonneg _)]
+
+theorem intervalIntegrable_abs_affine_rpow {r : ℝ} (hr : -1 < r) (A B a b : ℝ) :
+    IntervalIntegrable (fun x : ℝ => |A - B * x| ^ r) volume a b := by
+  by_cases hB : B = 0
+  · simp only [hB, zero_mul, sub_zero]
+    exact intervalIntegrable_const
+  · have hi := (intervalIntegrable_abs_sub_rpow hr (A / B) a b).const_mul (|B| ^ r)
+    convert hi using 1
+    all_goals try with_reducible_and_instances rfl
+    funext x
+    exact abs_affine_rpow r A B x hB
+
+/-- Large-slope estimate obtained by rescaling the root-independent interval bound. -/
+theorem integral_abs_affine_rpow_le {r a b A B : ℝ} (hr : -1 < r) (hr₀ : r ≤ 0)
+    (hab : a ≤ b) (hB : B ≠ 0) :
+    (∫ x : ℝ in a..b, |A - B * x| ^ r) ≤
+      |B| ^ r * (2 * (b - a) ^ (r + 1) / (r + 1)) := by
+  simp_rw [abs_affine_rpow r A B _ hB]
+  rw [intervalIntegral.integral_const_mul]
+  exact mul_le_mul_of_nonneg_left (integral_abs_sub_rpow_le hr hr₀ hab)
+    (Real.rpow_nonneg (abs_nonneg B) r)
+
+/-- If the slope is small, the affine function stays a fixed distance from zero. -/
+theorem small_slope_distance {A B R x : ℝ} (_hR : 0 ≤ R)
+    (hAB : 2 * R * |B| ≤ |A|) (hx : |x| ≤ R) :
+    |A| / 2 ≤ |A - B * x| := by
+  have hmul : |B * x| ≤ |B| * R := by
+    rw [abs_mul]
+    exact mul_le_mul_of_nonneg_left hx (abs_nonneg B)
+  have htri := abs_add_le (A - B * x) (B * x)
+  rw [sub_add_cancel] at htri
+  nlinarith
+
+/-- The small-slope half of the scalar estimate, before combining the powers of the length. -/
+theorem integral_abs_affine_rpow_le_small_slope {r a b A B R : ℝ}
+    (hr : -1 < r) (hr₀ : r ≤ 0) (hab : a ≤ b)
+    (hR : 0 ≤ R) (ha : -R ≤ a) (hb : b ≤ R) (hA : A ≠ 0)
+    (hAB : 2 * R * |B| ≤ |A|) :
+    (∫ x : ℝ in a..b, |A - B * x| ^ r) ≤ (b - a) * (|A| / 2) ^ r := by
+  have h := intervalIntegral.integral_mono_on hab
+    (intervalIntegrable_abs_affine_rpow hr A B a b)
+    (intervalIntegrable_const (c := (|A| / 2) ^ r))
+    (fun x hx => Real.rpow_le_rpow_of_nonpos (by positivity : 0 < |A| / 2)
+      (small_slope_distance hR hAB (abs_le.mpr ⟨by linarith [hx.1], by linarith [hx.2]⟩)) hr₀)
+  simpa using h
+
+theorem scalarConstant_pos {r : ℝ} (hr : -1 < r) : 0 < scalarConstant r := by
+  have hr₁ : 0 < r + 1 := by linarith
+  unfold scalarConstant
+  positivity
+
+private theorem length_le_scaled_power {r l R : ℝ} (hr : r ≤ 0)
+    (hl : 0 < l) (hlR : l ≤ 2 * R) :
+    l ≤ (2 * R) ^ (-r) * l ^ (r + 1) := by
+  have hp := Real.rpow_le_rpow hl.le hlR (neg_nonneg.mpr hr)
+  calc
+    l = l ^ (r + 1) * l ^ (-r) := by
+      rw [← Real.rpow_add hl, show (r + 1) + -r = 1 by ring, Real.rpow_one]
+    _ ≤ l ^ (r + 1) * (2 * R) ^ (-r) :=
+      mul_le_mul_of_nonneg_left hp (Real.rpow_nonneg hl.le _)
+    _ = _ := mul_comm _ _
+
+/-- The scalar interval estimate `ker:scalar-interval`, with an explicit constant.
+The singular case `A=0` is understood in the extended sense in the manuscript;
+the finite estimate needed off the exceptional line is stated here. -/
+theorem integral_abs_affine_rpow_scalar_bound {r a b A B R : ℝ}
+    (hr : -1 < r) (hr₀ : r ≤ 0) (hab : a < b) (hR : 0 < R)
+    (ha : -R ≤ a) (hb : b ≤ R) (hA : A ≠ 0) :
+    (∫ x : ℝ in a..b, |A - B * x| ^ r) ≤
+      scalarConstant r * (R ^ (-r) * (b - a) ^ (r + 1) * |A| ^ r) := by
+  have hr₁ : 0 < r + 1 := by linarith
+  have hA₀ : 0 < |A| := abs_pos.mpr hA
+  have hl : 0 < b - a := sub_pos.mpr hab
+  have hlR : b - a ≤ 2 * R := by linarith
+  have hn : 0 ≤ R ^ (-r) * (b - a) ^ (r + 1) * |A| ^ r := by positivity
+  have htwo : 0 ≤ (2 : ℝ) ^ (-r) := Real.rpow_nonneg (by norm_num) _
+  have hc₁ : (2 : ℝ) ^ (-r) * (2 : ℝ) ^ (-r) ≤ scalarConstant r := by
+    unfold scalarConstant
+    have hdiv : 0 ≤ 2 / (r + 1) := by positivity
+    nlinarith
+  have hc₂ : (2 : ℝ) ^ (-r) * (2 / (r + 1)) ≤ scalarConstant r := by
+    unfold scalarConstant
+    nlinarith
+  by_cases hsmall : 2 * R * |B| ≤ |A|
+  · calc
+      _ ≤ (b - a) * (|A| / 2) ^ r :=
+        integral_abs_affine_rpow_le_small_slope hr hr₀ hab.le hR.le ha hb hA hsmall
+      _ ≤ ((2 * R) ^ (-r) * (b - a) ^ (r + 1)) * (|A| / 2) ^ r :=
+        mul_le_mul_of_nonneg_right (length_le_scaled_power hr₀ hl hlR)
+          (Real.rpow_nonneg (by positivity) _)
+      _ = ((2 : ℝ) ^ (-r) * (2 : ℝ) ^ (-r)) *
+          (R ^ (-r) * (b - a) ^ (r + 1) * |A| ^ r) := by
+        rw [Real.mul_rpow (by norm_num : (0 : ℝ) ≤ 2) hR.le,
+          Real.div_rpow hA₀.le (by norm_num : (0 : ℝ) ≤ 2),
+          div_eq_mul_inv, ← Real.rpow_neg (by norm_num : (0 : ℝ) ≤ 2)]
+        ring
+      _ ≤ _ := mul_le_mul_of_nonneg_right hc₁ hn
+  · have hlarge : |A| < 2 * R * |B| := lt_of_not_ge hsmall
+    have hB : B ≠ 0 := by
+      intro hzero
+      simp only [hzero, abs_zero, mul_zero] at hlarge
+      linarith
+    have hdiv : |A| / (2 * R) ≤ |B| :=
+      ((div_lt_iff₀ (by positivity : 0 < 2 * R)).mpr (by nlinarith)).le
+    have hp := Real.rpow_le_rpow_of_nonpos
+      (by positivity : 0 < |A| / (2 * R)) hdiv hr₀
+    calc
+      _ ≤ |B| ^ r * (2 * (b - a) ^ (r + 1) / (r + 1)) :=
+        integral_abs_affine_rpow_le hr hr₀ hab.le hB
+      _ ≤ (|A| / (2 * R)) ^ r * (2 * (b - a) ^ (r + 1) / (r + 1)) :=
+        mul_le_mul_of_nonneg_right hp (by positivity)
+      _ = ((2 : ℝ) ^ (-r) * (2 / (r + 1))) *
+          (R ^ (-r) * (b - a) ^ (r + 1) * |A| ^ r) := by
+        rw [Real.div_rpow hA₀.le (by positivity : 0 ≤ 2 * R),
+          Real.mul_rpow (by norm_num : (0 : ℝ) ≤ 2) hR.le]
+        rw [div_eq_mul_inv, mul_inv_rev,
+          ← Real.rpow_neg hR.le, ← Real.rpow_neg (by norm_num : (0 : ℝ) ≤ 2)]
+        ring
+      _ ≤ _ := mul_le_mul_of_nonneg_right hc₂ hn
+
+/-- The manuscript's scalar slice estimate in its `q` notation. -/
+theorem scalar_interval_bound {q a b A B R : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hab : a < b) (hR : 0 < R)
+    (ha : -R ≤ a) (hb : b ≤ R) (hA : A ≠ 0) :
+    (∫ x : ℝ in a..b, |A - B * x| ^ (1 - q)) ≤
+      scalarConstant (1 - q) * (R ^ (q - 1) * (b - a) ^ (2 - q) * |A| ^ (1 - q)) := by
+  have h := integral_abs_affine_rpow_scalar_bound (r := 1 - q) (B := B)
+    (by linarith) (by linarith) hab hR ha hb hA
+  simpa only [show -(1 - q) = q - 1 by ring, show (1 - q) + 1 = 2 - q by ring] using h
+
+end BoltzmannNonuniqueness.AxialSlices
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_GeometricSlice
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Degenerate slices and nonnegative singular integrals
+
+The line integral through the velocity axis is infinite. Its exceptional transverse
+parameters form an affine line of two-dimensional measure zero. These results keep
+that extended value explicit and justify the almost-everywhere scalar estimates,
+including products with arbitrary axial probability measures.
+-/
+
+noncomputable section
+
+open MeasureTheory Set Metric
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.TransverseAverage
+open BoltzmannNonuniqueness.GaussianDiskMixture
+open scoped ENNReal RealInnerProductSpace
+
+namespace BoltzmannNonuniqueness.GeometricSlice
+
+theorem sliceOffset_eq_zero_iff (v p : Transverse) :
+    sliceOffset v p = 0 ↔ inner ℝ v p = ‖v‖ ^ 2 := by
+  by_cases hn : v - p = 0
+  · have hp : p = v := (sub_eq_zero.mp hn).symm
+    subst p
+    simp [sliceOffset, direction]
+  · have hnorm : ‖v - p‖ ≠ 0 := norm_ne_zero_iff.mpr hn
+    rw [sliceOffset, direction, real_inner_smul_left, mul_eq_zero]
+    simp only [inv_eq_zero, hnorm, false_or]
+    rw [inner_sub_left, real_inner_self_eq_norm_sq, real_inner_comm p v]
+    constructor <;> intro h <;> linarith
+
+theorem regularTransverse_iff (v p : Transverse) :
+    RegularTransverse v p ↔ inner ℝ v p ≠ ‖v‖ ^ 2 := by
+  constructor
+  · intro h
+    exact mt (sliceOffset_eq_zero_iff v p).mpr h.2
+  · intro h
+    have hs : sliceOffset v p ≠ 0 := mt (sliceOffset_eq_zero_iff v p).mp h
+    refine ⟨?_, hs⟩
+    intro hn
+    apply hs
+    simp [sliceOffset, direction, hn]
+
+theorem measurableSet_regularTransverse (v : Transverse) :
+    MeasurableSet {p | RegularTransverse v p} := by
+  simp_rw [regularTransverse_iff]
+  exact (measurableSet_eq_fun (by fun_prop) measurable_const).compl
+
+/-- The bad transverse parameters lie in a proper affine hyperplane. -/
+theorem volume_sliceOffset_zero {v : Transverse} (hv : v ≠ 0) :
+    volume {p | sliceOffset v p = 0} = 0 := by
+  let K : Submodule ℝ Transverse := (innerSL ℝ v).ker
+  let S : AffineSubspace ℝ Transverse := AffineSubspace.mk' v K
+  have hset : {p | sliceOffset v p = 0} = (S : Set Transverse) := by
+    ext p
+    rw [mem_ofPred_eq, sliceOffset_eq_zero_iff]
+    change inner ℝ v p = ‖v‖ ^ 2 ↔ inner ℝ v (p - v) = 0
+    rw [inner_sub_right, real_inner_self_eq_norm_sq, sub_eq_zero]
+  have hproper : S ≠ ⊤ := by
+    intro hs
+    have hm : (0 : Transverse) ∈ S := by rw [hs]; trivial
+    change inner ℝ v (0 - v) = 0 at hm
+    simp only [zero_sub, inner_neg_right, neg_eq_zero, real_inner_self_eq_norm_sq,
+      sq_eq_zero_iff, norm_eq_zero] at hm
+    exact hv hm
+  rw [hset]
+  exact Measure.addHaar_affineSubspace volume S hproper
+
+theorem ae_regularTransverse_volume {v : Transverse} (hv : v ≠ 0) :
+    ∀ᵐ p ∂volume, RegularTransverse v p := by
+  have hs : ∀ᵐ p ∂volume, sliceOffset v p ≠ 0 := by
+    rw [ae_iff]
+    simpa only [not_not] using volume_sliceOffset_zero hv
+  filter_upwards [hs] with p hp
+  refine ⟨?_, hp⟩
+  intro hn
+  apply hp
+  simp [sliceOffset, direction, hn]
+
+theorem regularTransverse_zero {v : Transverse} (hv : v ≠ 0) :
+    RegularTransverse v 0 := by
+  rw [regularTransverse_iff, inner_zero_right]
+  exact Ne.symm (ne_of_gt (pow_pos (norm_pos_iff.mpr hv) 2))
+
+theorem ae_regularTransverse_atom {v : Transverse} (hv : v ≠ 0) :
+    ∀ᵐ p ∂Measure.dirac (0 : Transverse), RegularTransverse v p := by
+  rw [ae_dirac_eq]
+  exact regularTransverse_zero hv
+
+theorem ae_regularTransverse_gaussian {v : Transverse} (hv : v ≠ 0) (d : ℝ) :
+    ∀ᵐ p ∂gaussianLaw d, RegularTransverse v p :=
+  (withDensity_absolutelyContinuous volume _).ae_le (ae_regularTransverse_volume hv)
+
+/-- No regularity of the axial law is needed to preserve the exceptional null set. -/
+theorem ae_regularTransverse_prod {v : Transverse} {μ : Measure Transverse}
+    {ρ : Measure ℝ} [SFinite ρ] (hμ : ∀ᵐ p ∂μ, RegularTransverse v p) :
+    ∀ᵐ p ∂μ.prod ρ, RegularTransverse v p.1 := by
+  apply (Measure.ae_prod_iff_ae_ae ((measurableSet_regularTransverse v).preimage measurable_fst)).mpr
+  filter_upwards [hμ] with p hp
+  exact ae_of_all _ (fun _ => hp)
+
+theorem extendedPower_ae_eq {A : ℝ} (hA : A ≠ 0) (B q : ℝ) :
+    (fun x : ℝ => extendedPower q (A - B * x)) =ᵐ[volume]
+      (fun x => ENNReal.ofReal (|A - B * x| ^ (1 - q))) := by
+  by_cases hB : B = 0
+  · exact ae_of_all _ (fun x => by simp [extendedPower, hB, hA])
+  · have hz : ∀ᵐ x ∂volume, x ≠ A / B := volume.ae_ne (A / B)
+    filter_upwards [hz] with x hx
+    have hAx : A - B * x ≠ 0 := by
+      intro heq
+      apply hx
+      apply (eq_div_iff hB).mpr
+      nlinarith [sub_eq_zero.mp heq]
+    simp only [extendedPower, hAx, ↓reduceIte]
+
+/-- The extended-valued scalar integral has the same finite bound as the ordinary
+integral whenever the nonzero intercept excludes an identically singular slice. -/
+theorem lintegral_extendedPower_interval_le {q a b A B R : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hab : a < b) (hR : 0 < R)
+    (ha : -R ≤ a) (hb : b ≤ R) (hA : A ≠ 0) :
+    (∫⁻ x in Ioc a b, extendedPower q (A - B * x)) ≤
+      ENNReal.ofReal (AxialSlices.scalarConstant (1 - q) *
+        (R ^ (q - 1) * (b - a) ^ (2 - q) * |A| ^ (1 - q))) := by
+  have hi := AxialSlices.intervalIntegrable_abs_affine_rpow
+    (show -1 < 1 - q by linarith) A B a b
+  rw [lintegral_congr_ae (ae_restrict_of_ae (extendedPower_ae_eq hA B q))]
+  rw [← ofReal_integral_eq_lintegral_ofReal hi.1
+    (ae_of_all _ (fun x => Real.rpow_nonneg (abs_nonneg _) _))]
+  rw [← intervalIntegral.integral_of_le hab.le]
+  exact ENNReal.ofReal_le_ofReal (AxialSlices.scalar_interval_bound hq₁ hq₂ hab hR ha hb hA)
+
+theorem measurable_extendedKernel (q : ℝ) (v : Transverse) :
+    Measurable (extendedKernel q v) := by
+  classical
+  unfold extendedKernel
+  apply Measurable.ite (measurableSet_regularTransverse v) _ measurable_const
+  unfold kernel
+  fun_prop
+
+theorem extendedKernel_ae_eq {v : Transverse} {μ : Measure Transverse}
+    (hμ : ∀ᵐ p ∂μ, RegularTransverse v p) (q : ℝ) :
+    extendedKernel q v =ᵐ[μ] fun p => ENNReal.ofReal (kernel q (direction v) (v - p)) := by
+  filter_upwards [hμ] with p hp
+  simp only [extendedKernel, hp, ↓reduceIte]
+
+theorem atom_extendedKernel_lintegral_le (q : ℝ) {v : Transverse} (hv : v ≠ 0) :
+    (∫⁻ p, extendedKernel q v p ∂Measure.dirac (0 : Transverse)) ≤
+      ENNReal.ofReal (expectationConstant q / ‖v‖) := by
+  rw [lintegral_congr_ae (extendedKernel_ae_eq (ae_regularTransverse_atom hv) q),
+    lintegral_dirac]
+  simpa only [integral_dirac, sub_zero] using ENNReal.ofReal_le_ofReal (atomZero_expectation_le q hv)
+
+theorem gaussian_extendedKernel_lintegral_le {q d : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hd : 0 < d) {v : Transverse} (hv : v ≠ 0) :
+    (∫⁻ p, extendedKernel q v p ∂gaussianLaw d) ≤
+      ENNReal.ofReal (expectationConstant q / ‖v‖) := by
+  rw [lintegral_congr_ae (extendedKernel_ae_eq (ae_regularTransverse_gaussian hv d) q)]
+  exact gaussianLaw_kernel_lintegral_le hq₁ hq₂ hd hv
+
+/-- The line estimate with its correct extended value at zero distance. -/
+theorem lintegral_lineWeight_le_extended {q R : ℝ} (hq : 1 < q) (hR : 0 ≤ R)
+    (e : Transverse) (he : ‖e‖ = 1) (D m : ℝ) :
+    (∫⁻ s in Icc (m - R) (m + R),
+      ENNReal.ofReal (TransverseLine.lineWeight q e D s)) ≤
+      ENNReal.ofReal (2 * R) + ENNReal.ofReal (AxialSlices.lineConstant q) * extendedPower q D := by
+  have hc := AxialSlices.lineConstant_pos hq
+  by_cases hD : D = 0
+  · rw [extendedPower, ite_eq_left hD, ENNReal.mul_top (ne_of_gt (ENNReal.ofReal_pos.mpr hc)),
+      add_top]
+    exact le_top
+  · rw [extendedPower, ite_eq_right hD, ← ENNReal.ofReal_mul hc.le,
+      ← ENNReal.ofReal_add (by positivity) (by positivity)]
+    exact TransverseLine.lintegral_lineWeight_le hq hD hR e he m
+
+theorem rectangleLineMass_le {q a b A B R : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hab : a < b) (hR : 0 < R)
+    (ha : -R ≤ a) (hb : b ≤ R) (hA : A ≠ 0)
+    (e : Transverse) (he : ‖e‖ = 1) (m : ℝ) :
+    rectangleLineMass q e A B m R a b ≤
+      ENNReal.ofReal (2 * R * (b - a) + AxialSlices.lineConstant q *
+        (AxialSlices.scalarConstant (1 - q) *
+          (R ^ (q - 1) * (b - a) ^ (2 - q) * |A| ^ (1 - q)))) := by
+  have hc := (AxialSlices.lineConstant_pos hq₁).le
+  have hs := lintegral_extendedPower_interval_le hq₁ hq₂ hab hR ha hb hA (B := B)
+  unfold rectangleLineMass
+  calc
+    _ ≤ ∫⁻ z in Ioc a b, ENNReal.ofReal (2 * R) +
+        ENNReal.ofReal (AxialSlices.lineConstant q) * extendedPower q (A - B * z) :=
+      lintegral_mono (fun z => lintegral_lineWeight_le_extended hq₁ hR.le e he _ m)
+    _ = ENNReal.ofReal (2 * R) * ENNReal.ofReal (b - a) +
+        ENNReal.ofReal (AxialSlices.lineConstant q) *
+          ∫⁻ z in Ioc a b, extendedPower q (A - B * z) := by
+      rw [lintegral_add_left measurable_const, lintegral_const_mul' _ _ ENNReal.ofReal_ne_top,
+        lintegral_const, Measure.restrict_apply_univ, Real.volume_Ioc]
+    _ ≤ ENNReal.ofReal (2 * R) * ENNReal.ofReal (b - a) +
+        ENNReal.ofReal (AxialSlices.lineConstant q) *
+          ENNReal.ofReal (AxialSlices.scalarConstant (1 - q) *
+            (R ^ (q - 1) * (b - a) ^ (2 - q) * |A| ^ (1 - q))) := by
+      gcongr
+    _ = _ := by
+      rw [← ENNReal.ofReal_mul (by positivity : 0 ≤ 2 * R),
+        ← ENNReal.ofReal_mul hc, ← ENNReal.ofReal_add (by positivity) (by
+          apply mul_nonneg hc
+          apply mul_nonneg (AxialSlices.scalarConstant_pos (by linarith)).le
+          positivity)]
+
+theorem inner_quarterTurn_line_sub (e v : Transverse) (he : ‖e‖ = 1) (D s : ℝ) :
+    inner ℝ (TransverseLine.quarterTurn e) (TransverseLine.line e D s - v) =
+      s - inner ℝ (TransverseLine.quarterTurn e) v := by
+  have ho : inner ℝ (TransverseLine.quarterTurn e) e = 0 := by
+    rw [real_inner_comm, TransverseLine.inner_quarterTurn]
+  rw [inner_sub_right]
+  simp only [TransverseLine.line, inner_add_right, inner_smul_right, ho,
+    real_inner_self_eq_norm_sq, TransverseLine.norm_quarterTurn, he]
+  ring
+
+theorem ballLineRegion_subset_rectangle {R : ℝ} (hR : 0 ≤ R)
+    (e v : Transverse) (he : ‖e‖ = 1) (D z : ℝ) :
+    ballLineRegion e v D z R ⊆
+      Icc (inner ℝ (TransverseLine.quarterTurn e) v - R)
+        (inner ℝ (TransverseLine.quarterTurn e) v + R) := by
+  intro s hs
+  have hnorm : ‖TransverseLine.line e D s - v‖ ≤ R := by
+    change ‖TransverseLine.line e D s - v‖ ^ 2 + z ^ 2 ≤ R ^ 2 at hs
+    nlinarith [sq_nonneg z, norm_nonneg (TransverseLine.line e D s - v)]
+  have hi := abs_real_inner_le_norm (TransverseLine.quarterTurn e)
+    (TransverseLine.line e D s - v)
+  rw [inner_quarterTurn_line_sub e v he, TransverseLine.norm_quarterTurn, he, one_mul] at hi
+  have ha := abs_le.mp (hi.trans hnorm)
+  constructor <;> linarith [ha.1, ha.2]
+
+theorem ballLineMass_le_rectangle {R : ℝ} (hR : 0 ≤ R)
+    (q : ℝ) (e v : Transverse) (he : ‖e‖ = 1) (A B a b : ℝ) :
+    ballLineMass q e v A B R a b ≤
+      rectangleLineMass q e A B (inner ℝ (TransverseLine.quarterTurn e) v) R a b := by
+  apply lintegral_mono
+  intro z
+  exact lintegral_mono_set (ballLineRegion_subset_rectangle hR e v he (A - B * z) z)
+
+theorem ballLineMass_le {q a b A B R : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hab : a < b) (hR : 0 < R)
+    (ha : -R ≤ a) (hb : b ≤ R) (hA : A ≠ 0)
+    (e v : Transverse) (he : ‖e‖ = 1) :
+    ballLineMass q e v A B R a b ≤
+      ENNReal.ofReal (2 * R * (b - a) + AxialSlices.lineConstant q *
+        (AxialSlices.scalarConstant (1 - q) *
+          (R ^ (q - 1) * (b - a) ^ (2 - q) * |A| ^ (1 - q)))) :=
+  (ballLineMass_le_rectangle hR.le q e v he A B a b).trans
+    (rectangleLineMass_le hq₁ hq₂ hab hR ha hb hA e he _)
+
+theorem transverseWeight_pos (q : ℝ) (v : Transverse) : 0 < transverseWeight q v := by
+  unfold transverseWeight
+  positivity
+
+theorem intervalCoefficient_pos {q R ell : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hR : 0 < R) (hell : 0 < ell) : 0 < intervalCoefficient q R ell := by
+  unfold intervalCoefficient
+  exact mul_pos (AxialSlices.lineConstant_pos hq₁)
+    (mul_pos (AxialSlices.scalarConstant_pos (by linarith))
+      (mul_pos (Real.rpow_pos_of_pos hR _) (Real.rpow_pos_of_pos hell _)))
+
+theorem averagingCoefficient_pos {q R ell r : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hR : 0 < R) (hell : 0 < ell) (hr : 0 ≤ r) : 0 < averagingCoefficient q R ell r := by
+  have hc := intervalCoefficient_pos hq₁ hq₂ hR hell
+  unfold averagingCoefficient
+  positivity
+
+theorem sliceOffset_eq_norm_mul_angle {v : Transverse} (hv : v ≠ 0) (p : Transverse) :
+    sliceOffset v p = ‖v‖ * inner ℝ (direction v) (direction (v - p)) := by
+  have he : inner ℝ (direction v) (direction (v - p)) = ‖v‖⁻¹ * sliceOffset v p := by
+    change inner ℝ (‖v‖⁻¹ • v) (direction (v - p)) = _
+    rw [real_inner_smul_left]
+    unfold sliceOffset
+    congr 1
+    exact real_inner_comm _ _
+  rw [he, ← mul_assoc, mul_inv_cancel₀ (norm_ne_zero_iff.mpr hv), one_mul]
+
+theorem sliceOffset_rpow {v : Transverse} (hv : v ≠ 0) (p : Transverse) (q : ℝ) :
+    |sliceOffset v p| ^ (1 - q) = ‖v‖ ^ (1 - q) *
+      |inner ℝ (direction v) (direction (v - p))| ^ (1 - q) := by
+  rw [sliceOffset_eq_norm_mul_angle hv, abs_mul, abs_of_nonneg (norm_nonneg v),
+    Real.mul_rpow (norm_nonneg v) (abs_nonneg _)]
+
+private theorem normalized_sum_bound {u w t beta c n : ℝ}
+    (hu : 0 ≤ u) (hw : 0 ≤ w) (ht : 0 ≤ t) (hb : 0 ≤ beta)
+    (hc : 0 < c) (hn : 0 < n) :
+    (u + w * t * beta) / (c * n) ≤ (u + w * t) / c * ((1 + beta) / n) := by
+  have hnum : u + w * t * beta ≤ (u + w * t) * (1 + beta) := by
+    nlinarith [mul_nonneg hu hb, mul_nonneg hw ht]
+  calc
+    _ ≤ ((u + w * t) * (1 + beta)) / (c * n) :=
+      div_le_div_of_nonneg_right hnum (mul_nonneg hc.le hn.le)
+    _ = _ := by field_simp
+
+private theorem slice_numerator_bound {q a b R : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hab : a < b) (hR : 0 < R)
+    {v : Transverse} (hv : v ≠ 0) {p : Transverse} (hp : RegularTransverse v p) :
+    (2 * R * (b - a) + AxialSlices.lineConstant q *
+      (AxialSlices.scalarConstant (1 - q) *
+        (R ^ (q - 1) * (b - a) ^ (2 - q) * |sliceOffset v p| ^ (1 - q)))) /
+        (transverseWeight q v * ‖v - p‖) ≤
+      averagingCoefficient q R (b - a) ‖v‖ * kernel q (direction v) (v - p) := by
+  have hc := (intervalCoefficient_pos hq₁ hq₂ hR (sub_pos.mpr hab)).le
+  have h := normalized_sum_bound (by positivity : 0 ≤ 2 * R * (b - a)) hc
+    (Real.rpow_nonneg (norm_nonneg v) (1 - q))
+    (Real.rpow_nonneg (abs_nonneg (inner ℝ (direction v) (direction (v - p)))) (1 - q))
+    (transverseWeight_pos q v) (norm_pos_iff.mpr hp.1)
+  rw [sliceOffset_rpow hv]
+  simpa only [averagingCoefficient, intervalCoefficient, transverseWeight, kernel, direction, mul_assoc] using h
+
+/-- A pointwise bound with all singular transverse cases handled in the extended reals. -/
+theorem normalizedBallSlice_le {q a b R : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hab : a < b) (hR : 0 < R)
+    (ha : -R ≤ a) (hb : b ≤ R) {v : Transverse} (hv : v ≠ 0)
+    (t alpha : ℝ) (p : Transverse) :
+    normalizedBallSlice q v t p alpha R a b ≤
+      ENNReal.ofReal (averagingCoefficient q R (b - a) ‖v‖) * extendedKernel q v p := by
+  classical
+  have hc := averagingCoefficient_pos hq₁ hq₂ hR (sub_pos.mpr hab) (norm_nonneg v)
+  by_cases hp : RegularTransverse v p
+  · rw [normalizedBallSlice, ite_eq_left hp, extendedKernel, ite_eq_left hp]
+    have hm := ballLineMass_le hq₁ hq₂ hab hR ha hb hp.2
+      (direction (v - p)) v (norm_direction hp.1) (B := (t - alpha) / ‖v - p‖)
+    have hw := transverseWeight_pos q v
+    have hn := norm_pos_iff.mpr hp.1
+    calc
+      _ ≤ ENNReal.ofReal (1 / (transverseWeight q v * ‖v - p‖)) *
+          ENNReal.ofReal (2 * R * (b - a) + AxialSlices.lineConstant q *
+            (AxialSlices.scalarConstant (1 - q) *
+              (R ^ (q - 1) * (b - a) ^ (2 - q) * |sliceOffset v p| ^ (1 - q)))) :=
+        mul_le_mul_right hm _
+      _ = ENNReal.ofReal ((2 * R * (b - a) + AxialSlices.lineConstant q *
+            (AxialSlices.scalarConstant (1 - q) *
+              (R ^ (q - 1) * (b - a) ^ (2 - q) * |sliceOffset v p| ^ (1 - q)))) /
+              (transverseWeight q v * ‖v - p‖)) := by
+        rw [← ENNReal.ofReal_mul (by positivity)]
+        congr 1
+        ring
+      _ ≤ ENNReal.ofReal (averagingCoefficient q R (b - a) ‖v‖ *
+          kernel q (direction v) (v - p)) :=
+        ENNReal.ofReal_le_ofReal (slice_numerator_bound hq₁ hq₂ hab hR hv hp)
+      _ = _ := ENNReal.ofReal_mul hc.le
+  · rw [normalizedBallSlice, ite_eq_right hp, extendedKernel, ite_eq_right hp,
+      ENNReal.mul_top (ne_of_gt (ENNReal.ofReal_pos.mpr hc))]
+
+theorem averagingCoefficient_bound {q R ell r : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hR : 0 < R) (hell : 0 < ell) (hr : 0 < r) :
+    averagingCoefficient q R ell r * (expectationConstant q / r) ≤
+      expectationConstant q * (2 * R * ell + intervalCoefficient q R ell) := by
+  have hreg := regular_fraction_le_one hr hq₁.le
+  have hsing := singular_fraction_le_one hr q
+  have hc := (intervalCoefficient_pos hq₁ hq₂ hR hell).le
+  have hpow : r ^ (1 - q) * r⁻¹ = r ^ (-q) := by
+    rw [← Real.rpow_neg_one, ← Real.rpow_add hr]
+    congr 1
+    ring
+  calc
+    _ = expectationConstant q * (2 * R * ell * (r⁻¹ / (1 + r ^ (-q))) +
+        intervalCoefficient q R ell * ((r ^ (1 - q) * r⁻¹) / (1 + r ^ (-q)))) := by
+      unfold averagingCoefficient
+      ring
+    _ = expectationConstant q * (2 * R * ell * (r⁻¹ / (1 + r ^ (-q))) +
+        intervalCoefficient q R ell * (r ^ (-q) / (1 + r ^ (-q)))) := by rw [hpow]
+    _ ≤ _ := by
+      apply mul_le_mul_of_nonneg_left _ (expectationConstant_pos q).le
+      have h₁ := mul_le_mul_of_nonneg_left hreg (by positivity : 0 ≤ 2 * R * ell)
+      have h₂ := mul_le_mul_of_nonneg_left hsing hc
+      nlinarith
+
+/-- Averaging over an arbitrary axial probability leaves the uniform transverse
+bound unchanged. The transverse expectation premise is discharged below for each law. -/
+theorem normalizedBallSlice_product_bound {q a b R : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hab : a < b) (hR : 0 < R)
+    (ha : -R ≤ a) (hb : b ≤ R) {v : Transverse} (hv : v ≠ 0)
+    (t : ℝ) (μ : Measure Transverse) (ρ : Measure ℝ) [IsProbabilityMeasure ρ]
+    (hμ : (∫⁻ p, extendedKernel q v p ∂μ) ≤ ENNReal.ofReal (expectationConstant q / ‖v‖)) :
+    (∫⁻ p, normalizedBallSlice q v t p.1 p.2 R a b ∂μ.prod ρ) ≤
+      ENNReal.ofReal (expectationConstant q *
+        (2 * R * (b - a) + intervalCoefficient q R (b - a))) := by
+  have hc := (averagingCoefficient_pos hq₁ hq₂ hR (sub_pos.mpr hab) (norm_nonneg v)).le
+  have hm : Measurable (fun p : Transverse × ℝ => extendedKernel q v p.1) :=
+    (measurable_extendedKernel q v).comp measurable_fst
+  calc
+    _ ≤ ∫⁻ p : Transverse × ℝ,
+        ENNReal.ofReal (averagingCoefficient q R (b - a) ‖v‖) * extendedKernel q v p.1 ∂μ.prod ρ :=
+      lintegral_mono (fun p => normalizedBallSlice_le hq₁ hq₂ hab hR ha hb hv t p.2 p.1)
+    _ = ENNReal.ofReal (averagingCoefficient q R (b - a) ‖v‖) *
+        ∫⁻ p, extendedKernel q v p ∂μ := by
+      rw [lintegral_const_mul' _ _ ENNReal.ofReal_ne_top, lintegral_prod _ hm.aemeasurable]
+      simp only [lintegral_const, measure_univ, mul_one]
+    _ ≤ ENNReal.ofReal (averagingCoefficient q R (b - a) ‖v‖) *
+        ENNReal.ofReal (expectationConstant q / ‖v‖) := mul_le_mul_right hμ _
+    _ = ENNReal.ofReal (averagingCoefficient q R (b - a) ‖v‖ *
+        (expectationConstant q / ‖v‖)) := (ENNReal.ofReal_mul hc).symm
+    _ ≤ _ := ENNReal.ofReal_le_ofReal
+      (averagingCoefficient_bound hq₁ hq₂ hR (sub_pos.mpr hab) (norm_pos_iff.mpr hv))
+
+theorem geometricConstant_pos {q : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2) :
+    0 < geometricConstant q := by
+  have he := expectationConstant_pos q
+  have hl := AxialSlices.lineConstant_pos hq₁
+  have hs := AxialSlices.scalarConstant_pos (show -1 < 1 - q by linarith)
+  unfold geometricConstant
+  positivity
+
+private theorem geometricConstant_bound {q R ell : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hR : 0 < R) (hell : 0 < ell) :
+    expectationConstant q * (2 * R * ell + intervalCoefficient q R ell) ≤
+      geometricConstant q * (R * ell + R ^ (q - 1) * ell ^ (2 - q)) := by
+  have hu : 0 ≤ R * ell := by positivity
+  have hs : 0 ≤ R ^ (q - 1) * ell ^ (2 - q) := by positivity
+  have hk : 0 ≤ AxialSlices.lineConstant q * AxialSlices.scalarConstant (1 - q) :=
+    mul_nonneg (AxialSlices.lineConstant_pos hq₁).le
+      (AxialSlices.scalarConstant_pos (by linarith)).le
+  unfold geometricConstant intervalCoefficient
+  rw [mul_assoc (expectationConstant q)]
+  apply mul_le_mul_of_nonneg_left _ (expectationConstant_pos q).le
+  nlinarith [mul_nonneg hk hu]
+
+theorem ballLineRegion_eq_empty_of_outside {R z : ℝ} (hR : 0 ≤ R)
+    (hz : z < -R ∨ R < z) (e v : Transverse) (D : ℝ) :
+    ballLineRegion e v D z R = ∅ := by
+  ext s
+  simp only [ballLineRegion, mem_ofPred_eq, mem_empty_iff_false, iff_false]
+  intro hs
+  rcases hz with hz | hz <;> nlinarith [sq_nonneg ‖TransverseLine.line e D s - v‖]
+
+/-- The genuine ball already clips the axial displacement to `[-R,R]`.
+The single lower endpoint is removed only on a Lebesgue-null set. -/
+theorem ballLineMass_clip {R : ℝ} (hR : 0 ≤ R)
+    (q : ℝ) (e v : Transverse) (A B a b : ℝ) :
+    ballLineMass q e v A B R a b =
+      ballLineMass q e v A B R (max (-R) a) (min R b) := by
+  let F : ℝ → ℝ≥0∞ := fun z => ∫⁻ s in ballLineRegion e v (A - B * z) z R,
+    ENNReal.ofReal (TransverseLine.lineWeight q e (A - B * z) s)
+  have hz : ∀ᵐ z ∂(volume.restrict (Ioc a b)), z ≠ -R :=
+    ae_restrict_of_ae (volume.ae_ne (-R))
+  have hF : ∀ z, z ∉ Ioc (-R) R → z ≠ -R → F z = 0 := by
+    intro z hout hne
+    have ho : z < -R ∨ R < z := by
+      by_cases hleft : -R < z
+      · right
+        have hn : ¬ z ≤ R := fun h => hout ⟨hleft, h⟩
+        exact lt_of_not_ge hn
+      · left
+        exact lt_of_le_of_ne (le_of_not_gt hleft) hne
+    simp only [F, ballLineRegion_eq_empty_of_outside hR ho, Measure.restrict_empty, lintegral_zero_measure]
+  have hi : Ioc (-R) R ∩ Ioc a b = Ioc (max (-R) a) (min R b) := by
+    ext z
+    simp only [mem_inter_iff, mem_Ioc, max_lt_iff, le_min_iff]
+    tauto
+  change (∫⁻ z in Ioc a b, F z) = ∫⁻ z in Ioc (max (-R) a) (min R b), F z
+  calc
+    _ = ∫⁻ z in Ioc a b, (Ioc (-R) R).indicator F z := by
+      apply lintegral_congr_ae
+      filter_upwards [hz] with z hne
+      by_cases hmem : z ∈ Ioc (-R) R
+      · rw [indicator_of_mem hmem]
+      · rw [indicator_of_notMem hmem, hF z hmem hne]
+    _ = _ := by
+      rw [lintegral_indicator measurableSet_Ioc, Measure.restrict_restrict measurableSet_Ioc, hi]
+
+theorem normalizedBallSlice_clip {R : ℝ} (hR : 0 ≤ R)
+    (q : ℝ) (v : Transverse) (t : ℝ) (p : Transverse) (alpha a b : ℝ) :
+    normalizedBallSlice q v t p alpha R a b =
+      normalizedBallSlice q v t p alpha R (max (-R) a) (min R b) := by
+  classical
+  by_cases hp : RegularTransverse v p
+  · simp only [normalizedBallSlice, hp, ↓reduceIte]
+    rw [ballLineMass_clip hR]
+  · simp only [normalizedBallSlice, hp, ↓reduceIte]
+
+/-- The interval estimate for arbitrary axial endpoints, using the actual ball
+restriction to clip the interval before applying the scalar estimate. -/
+theorem geometric_interval_of_kernel_bound {q a b R : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (_hab : a < b) (hR : 0 < R)
+    {v : Transverse} (hv : v ≠ 0) (t : ℝ)
+    (μ : Measure Transverse) (ρ : Measure ℝ) [IsProbabilityMeasure ρ]
+    (hreg : ∀ᵐ p ∂μ, RegularTransverse v p)
+    (hμ : (∫⁻ p, extendedKernel q v p ∂μ) ≤ ENNReal.ofReal (expectationConstant q / ‖v‖)) :
+    (∫⁻ p, normalizedBallSlice q v t p.1 p.2 R a b ∂μ.prod ρ) ≤
+      ENNReal.ofReal (geometricConstant q *
+        (R * (b - a) + R ^ (q - 1) * (b - a) ^ (2 - q))) := by
+  have heq : (fun p : Transverse × ℝ => normalizedBallSlice q v t p.1 p.2 R a b) =
+      fun p => normalizedBallSlice q v t p.1 p.2 R (max (-R) a) (min R b) := by
+    funext p
+    exact normalizedBallSlice_clip hR.le q v t p.1 p.2 a b
+  rw [heq]
+  by_cases hc : max (-R) a < min R b
+  · have hbound := normalizedBallSlice_product_bound hq₁ hq₂ hc hR
+      (le_max_left _ _) (min_le_left _ _) hv t μ ρ hμ
+    have hgeom := ENNReal.ofReal_le_ofReal
+      (geometricConstant_bound hq₁ hq₂ hR (sub_pos.mpr hc))
+    apply (hbound.trans hgeom).trans
+    apply ENNReal.ofReal_le_ofReal
+    apply mul_le_mul_of_nonneg_left _ (geometricConstant_pos hq₁ hq₂).le
+    have hlen : min R b - max (-R) a ≤ b - a := by
+      linarith [min_le_right R b, le_max_right (-R) a]
+    have hp := Real.rpow_le_rpow (sub_pos.mpr hc).le hlen (show 0 ≤ 2 - q by linarith)
+    exact add_le_add (mul_le_mul_of_nonneg_left hlen hR.le)
+      (mul_le_mul_of_nonneg_left hp (Real.rpow_nonneg hR.le _))
+  · have hempty : Ioc (max (-R) a) (min R b) = ∅ := Ioc_eq_empty hc
+    have hi : (∫⁻ p, normalizedBallSlice q v t p.1 p.2 R
+        (max (-R) a) (min R b) ∂μ.prod ρ) = 0 := by
+      apply lintegral_eq_zero_of_ae_eq_zero
+      filter_upwards [ae_regularTransverse_prod hreg] with p hp
+      simp only [normalizedBallSlice, hp, ↓reduceIte, ballLineMass, hempty,
+        Measure.restrict_empty, lintegral_zero_measure, mul_zero, Pi.zero_apply]
+    rw [hi]
+    exact bot_le
+
+/-- Taking the full axial range gives the uniform `C_q R²` ball estimate. -/
+theorem geometric_total_of_kernel_bound {q R : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hR : 1 ≤ R) {v : Transverse} (hv : v ≠ 0) (t : ℝ)
+    (μ : Measure Transverse) (ρ : Measure ℝ) [IsProbabilityMeasure ρ]
+    (hreg : ∀ᵐ p ∂μ, RegularTransverse v p)
+    (hμ : (∫⁻ p, extendedKernel q v p ∂μ) ≤ ENNReal.ofReal (expectationConstant q / ‖v‖)) :
+    (∫⁻ p, normalizedBallSlice q v t p.1 p.2 R (-R) R ∂μ.prod ρ) ≤
+      ENNReal.ofReal (geometricTotalConstant q * R ^ 2) := by
+  have hR₀ : 0 < R := by linarith
+  have h := geometric_interval_of_kernel_bound hq₁ hq₂ (by linarith : -R < R) hR₀ hv t μ ρ hreg hμ
+  have hpow : R ^ (q - 1) * (2 * R) ^ (2 - q) = (2 : ℝ) ^ (2 - q) * R := by
+    rw [Real.mul_rpow (by norm_num : (0 : ℝ) ≤ 2) hR₀.le]
+    calc
+      _ = (2 : ℝ) ^ (2 - q) * (R ^ (q - 1) * R ^ (2 - q)) := by ring
+      _ = _ := by rw [← Real.rpow_add hR₀, show q - 1 + (2 - q) = 1 by ring, Real.rpow_one]
+  rw [show R - -R = 2 * R by ring, hpow] at h
+  apply h.trans
+  apply ENNReal.ofReal_le_ofReal
+  have hR₂ : R ≤ R ^ 2 := by nlinarith
+  have hp := mul_le_mul_of_nonneg_left hR₂ (Real.rpow_nonneg (by norm_num : (0 : ℝ) ≤ 2) (2 - q))
+  unfold geometricTotalConstant
+  nlinarith [mul_nonneg (geometricConstant_pos hq₁ hq₂).le
+    (sub_nonneg.mpr hp)]
+
+end BoltzmannNonuniqueness.GeometricSlice
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_SheetGain
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptySupportedTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# Exponential tilting of cold sheets
+
+These are the transverse density domination and axial moment-tail estimates
+used in the proof of the uniform sheet gain bound, Section 3.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.GaussianDiskMixture
+
+namespace BoltzmannNonuniqueness.SheetTails
+
+theorem gaussian_tilt_identity {d : ℝ} (hd : 0 < d) (u : Transverse) :
+    Real.exp (2 * ‖u‖ ^ 2) * gaussianDensity d u =
+      4 * Real.exp (-(3 / (4 * d ^ 2) - 2) * ‖u‖ ^ 2) * gaussianDensity (2 * d) u := by
+  have hc : (Real.pi * d ^ 2)⁻¹ = 4 * (Real.pi * (2 * d) ^ 2)⁻¹ := by
+    field_simp
+    ring
+  unfold gaussianDensity
+  rw [hc]
+  have he : 2 * ‖u‖ ^ 2 + -‖u‖ ^ 2 / d ^ 2 =
+      -(3 / (4 * d ^ 2) - 2) * ‖u‖ ^ 2 + -‖u‖ ^ 2 / (2 * d) ^ 2 := by
+    field_simp
+    ring
+  calc
+    _ = (4 * (Real.pi * (2 * d) ^ 2)⁻¹) *
+        (Real.exp (2 * ‖u‖ ^ 2) * Real.exp (-‖u‖ ^ 2 / d ^ 2)) := by ring
+    _ = (4 * (Real.pi * (2 * d) ^ 2)⁻¹) *
+        (Real.exp (-(3 / (4 * d ^ 2) - 2) * ‖u‖ ^ 2) *
+          Real.exp (-‖u‖ ^ 2 / (2 * d) ^ 2)) := by rw [← Real.exp_add, he, Real.exp_add]
+    _ = _ := by ring
+
+/-- The widened transverse Gaussian retains a fixed Gaussian decay factor. -/
+theorem gaussian_tilt_le {d : ℝ} (hd : 0 < d) (hdmax : d ≤ 1 / 8) (u : Transverse) :
+    Real.exp (2 * ‖u‖ ^ 2) * gaussianDensity d u ≤
+      4 * Real.exp (-46 * ‖u‖ ^ 2) * gaussianDensity (2 * d) u := by
+  have hd₂ : d ^ 2 ≤ 1 / 64 := by
+    nlinarith [mul_nonneg (sub_nonneg.mpr hdmax) (by linarith : 0 ≤ 1 / 8 + d)]
+  have hk : 46 ≤ 3 / (4 * d ^ 2) - 2 := by
+    have h : 48 ≤ 3 / (4 * d ^ 2) :=
+      (le_div_iff₀ (by positivity : 0 < 4 * d ^ 2)).mpr (by nlinarith)
+    linarith
+  rw [gaussian_tilt_identity hd u]
+  apply mul_le_mul_of_nonneg_right _ (gaussianDensity_nonneg _ _)
+  apply mul_le_mul_of_nonneg_left _ (by norm_num : (0 : ℝ) ≤ 4)
+  apply Real.exp_le_exp.mpr
+  nlinarith [sq_nonneg ‖u‖]
+
+theorem gaussian_tilt_tail_le {d U : ℝ} (hd : 0 < d) (hdmax : d ≤ 1 / 8)
+    (hU : 0 ≤ U) (u : Transverse) (hu : U ≤ ‖u‖) :
+    Real.exp (2 * ‖u‖ ^ 2) * gaussianDensity d u ≤
+      (4 * Real.exp (-46 * U ^ 2)) * gaussianDensity (2 * d) u := by
+  apply (gaussian_tilt_le hd hdmax u).trans
+  apply mul_le_mul_of_nonneg_right _ (gaussianDensity_nonneg _ _)
+  apply mul_le_mul_of_nonneg_left _ (by norm_num : (0 : ℝ) ≤ 4)
+  apply Real.exp_le_exp.mpr
+  nlinarith [norm_nonneg u]
+
+end BoltzmannNonuniqueness.SheetTails
+
+end
+
+end
+
+section
+
+/-!
+# Probability sheets and their exponential tilts
+
+An elementary sheet is the coordinate pushforward of a centered transverse
+Gaussian (or the atom at zero) and an arbitrary axial probability law. The axial
+exponential-moment hypothesis is recorded explicitly. All domination statements
+below are inequalities of measures, so they also apply to nonnegative kernels.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal NNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.GaussianDiskMixture
+open BoltzmannNonuniqueness.SheetTails
+
+namespace BoltzmannNonuniqueness.SheetMeasures
+
+theorem norm_join_sq (p : Transverse × ℝ) :
+    ‖join p‖ ^ 2 = ‖p.1‖ ^ 2 + p.2 ^ 2 := by
+  have h := split.apply_symm_apply (p.2, p.1)
+  have hj : join p = split.symm (p.2, p.1) := rfl
+  have ht : transverse (join p) = p.1 := by
+    rw [hj]
+    simpa only [split_apply] using congrArg Prod.snd h
+  have ha : axial (join p) = p.2 := by
+    rw [hj]
+    simpa only [split_apply] using congrArg Prod.fst h
+  rw [norm_sq_split, ht, ha]
+
+theorem transverseLaw_isProbabilityMeasure {d : ℝ} (hd : 0 ≤ d) :
+    IsProbabilityMeasure (transverseLaw d) := by
+  unfold transverseLaw
+  split_ifs with hz
+  · infer_instance
+  · exact gaussianLaw_isProbabilityMeasure (lt_of_le_of_ne hd (Ne.symm hz))
+
+theorem sheetLaw_isProbabilityMeasure {d : ℝ} (hd : 0 ≤ d)
+    (ρ : Measure ℝ) [IsProbabilityMeasure ρ] : IsProbabilityMeasure (sheetLaw d ρ) := by
+  have := transverseLaw_isProbabilityMeasure hd
+  unfold sheetLaw
+  first | (set_option synthInstance.maxHeartbeats 20000 in infer_instance) | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+
+theorem AxialMoment.nonneg {ρ : Measure ℝ} {L : ℝ} (h : AxialMoment ρ L) : 0 ≤ L :=
+  (integral_nonneg (fun _ => (Real.exp_pos _).le)).trans h.bound
+
+theorem mass_smul_normalizeFinite (μ : Measure ℝ) (hμ : μ univ < ∞) :
+    μ univ • (normalizeFinite μ hμ : Measure ℝ) = μ := by
+  let ν : FiniteMeasure ℝ := ⟨μ, ⟨hμ⟩⟩
+  ext s hs
+  have he := MeasureTheory.FiniteMeasure.self_eq_mass_mul_normalize ν s
+  have he' := congrArg (fun r : ℝ≥0 => (r : ℝ≥0∞)) he.symm
+  have hm : (ν.mass : ℝ≥0∞) = μ univ := FiniteMeasure.ennreal_mass
+  have hs' : (ν s : ℝ≥0∞) = μ s := FiniteMeasure.ennreal_coeFn_eq_coeFn_toMeasure ν s
+  have hn : (ν.normalize s : ℝ≥0∞) = (normalizeFinite μ hμ : Measure ℝ) s :=
+    ProbabilityMeasure.ennreal_coeFn_eq_coeFn_toMeasure ν.normalize s
+  rw [ENNReal.coe_mul, hm, hs', hn] at he'
+  simpa only [Measure.smul_apply, smul_eq_mul] using he'
+
+theorem axialTilt_eq_mass_smul {ρ : Measure ℝ} {L : ℝ} (h : AxialMoment ρ L) :
+    axialTilt ρ = axialTilt ρ univ • (axialProbability ρ h : Measure ℝ) :=
+  (mass_smul_normalizeFinite _ _).symm
+
+private theorem smul_measure_mono {α : Type*} [MeasurableSpace α]
+    {c d : ℝ≥0∞} (hcd : c ≤ d) (μ : Measure α) : c • μ ≤ d • μ := by
+  apply Measure.le_iff.mpr
+  intro s _
+  simpa only [Measure.smul_apply, smul_eq_mul] using mul_le_mul_left hcd (μ s)
+
+theorem axialTilt_le_probability {ρ : Measure ℝ} {L : ℝ} (h : AxialMoment ρ L) :
+    axialTilt ρ ≤ ENNReal.ofReal L • (axialProbability ρ h : Measure ℝ) := by
+  rw [axialTilt_eq_mass_smul h]
+  exact smul_measure_mono (axialTilt_mass_le h) _
+
+private theorem withDensity_map_join (μ : Measure (Transverse × ℝ))
+    (w : Velocity → ℝ≥0∞) (hw : Measurable w) :
+    (μ.map join).withDensity w = (μ.withDensity (fun p => w (join p))).map join := by
+  apply Measure.ext_of_lintegral
+  intro f hf
+  rw [lintegral_withDensity_eq_lintegral_mul _ hw hf,
+    lintegral_map (hw.mul hf) join.measurable,
+    lintegral_map hf join.measurable]
+  change (∫⁻ p, w (join p) * f (join p) ∂μ) = _
+  exact (lintegral_withDensity_eq_lintegral_mul μ
+    (show Measurable (fun p => w (join p)) from hw.comp join.measurable)
+    (show Measurable (fun p => f (join p)) from hf.comp join.measurable)).symm
+
+theorem tiltedSheet_eq (d : ℝ) (ρ : Measure ℝ) [SFinite ρ] :
+    tiltedSheet d ρ = ((transverseTilt d).prod (axialTilt ρ)).map join := by
+  unfold tiltedSheet sheetLaw
+  rw [withDensity_map_join _ _ (by fun_prop)]
+  congr 1
+  rw [transverseTilt, axialTilt, prod_withDensity (by fun_prop) (by fun_prop)]
+  congr 1
+  funext p
+  rw [norm_join_sq, mul_add, Real.exp_add, ENNReal.ofReal_mul (Real.exp_nonneg _)]
+
+theorem transverseTilt_zero : transverseTilt 0 = Measure.dirac 0 := by
+  simp [transverseTilt, transverseLaw, dirac_withDensity]
+
+theorem transverseTilt_gaussian {d : ℝ} (hd : 0 < d) :
+    transverseTilt d = volume.withDensity (fun p =>
+      ENNReal.ofReal (Real.exp (2 * ‖p‖ ^ 2) * gaussianDensity d p)) := by
+  simp only [transverseTilt, transverseLaw, ite_eq_right (c := d = 0) hd.ne', gaussianLaw]
+  rw [← withDensity_mul _ (measurable_gaussianDensity d |>.ennreal_ofReal) (by fun_prop)]
+  congr 1
+  funext p
+  simp only [Pi.mul_apply]
+  rw [ENNReal.ofReal_mul (Real.exp_nonneg _), mul_comm]
+
+theorem transverseTilt_le {d : ℝ} (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8) :
+    transverseTilt d ≤ (4 : ℝ≥0∞) • transverseLaw (2 * d) := by
+  obtain rfl | hdpos := hd.eq_or_lt
+  · rw [transverseTilt_zero]
+    simp only [mul_zero, transverseLaw, ite_true, if_true]
+    calc
+      Measure.dirac (0 : Transverse) = (1 : ℝ≥0∞) • Measure.dirac 0 := (one_smul _ _).symm
+      _ ≤ (4 : ℝ≥0∞) • Measure.dirac 0 := smul_measure_mono (by norm_num) _
+  · rw [transverseTilt_gaussian hdpos]
+    have h2d : 2 * d ≠ 0 := by positivity
+    simp only [transverseLaw, ite_eq_right (c := 2 * d = 0) h2d, gaussianLaw]
+    rw [← withDensity_smul _ (measurable_gaussianDensity (2 * d) |>.ennreal_ofReal)]
+    apply withDensity_mono
+    filter_upwards [] with p
+    change ENNReal.ofReal _ ≤ 4 * ENNReal.ofReal _
+    rw [show (4 : ℝ≥0∞) = ENNReal.ofReal (4 : ℝ) by norm_num,
+      ← ENNReal.ofReal_mul (by norm_num : (0 : ℝ) ≤ 4)]
+    apply ENNReal.ofReal_le_ofReal
+    apply (gaussian_tilt_le hdpos hdmax p).trans
+    apply mul_le_mul_of_nonneg_right _ (gaussianDensity_nonneg _ _)
+    have he : Real.exp (-46 * ‖p‖ ^ 2) ≤ 1 :=
+      Real.exp_le_one_iff.mpr (mul_nonpos_of_nonpos_of_nonneg (by norm_num) (sq_nonneg _))
+    linarith
+
+theorem tiltedSheet_le {d : ℝ} (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8)
+    (ρ : Measure ℝ) [SFinite ρ] :
+    tiltedSheet d ρ ≤ (4 : ℝ≥0∞) •
+      ((transverseLaw (2 * d)).prod (axialTilt ρ)).map join := by
+  have : SFinite (axialTilt ρ) := by unfold axialTilt; infer_instance
+  rw [tiltedSheet_eq]
+  have hp := Measure.prod_mono (transverseTilt_le hd hdmax)
+    (le_refl (axialTilt ρ))
+  have hm := Measure.map_mono hp join.measurable
+  simpa only [Measure.prod_smul_left,
+    Measure.map_smul] using hm
+
+theorem tiltedSheet_le_probability {d L : ℝ} (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8)
+    {ρ : Measure ℝ} [IsProbabilityMeasure ρ] (h : AxialMoment ρ L) :
+    tiltedSheet d ρ ≤ ENNReal.ofReal (4 * L) •
+      sheetLaw (2 * d) (axialProbability ρ h) := by
+  apply (tiltedSheet_le hd hdmax ρ).trans
+  rw [axialTilt_eq_mass_smul h, Measure.prod_smul_right,
+    Measure.map_smul, smul_smul]
+  apply smul_measure_mono
+  rw [ENNReal.ofReal_mul (by norm_num : (0 : ℝ) ≤ 4)]
+  simpa using mul_le_mul_right (axialTilt_mass_le h) (4 : ℝ≥0∞)
+
+theorem axialTail_eq_mass_smul {ρ : Measure ℝ} {L U : ℝ} (h : AxialMoment ρ L)
+    (hU : 0 ≤ U) :
+    axialTail ρ U = axialTail ρ U univ • (axialTailProbability ρ h hU : Measure ℝ) :=
+  (mass_smul_normalizeFinite _ _).symm
+
+theorem axialTail_le_probability {ρ : Measure ℝ} {L U : ℝ} (h : AxialMoment ρ L)
+    (hU : 0 ≤ U) :
+    axialTail ρ U ≤ ENNReal.ofReal (Real.exp (-6 * U ^ 2) * L) •
+      (axialTailProbability ρ h hU : Measure ℝ) := by
+  rw [axialTail_eq_mass_smul h hU]
+  exact smul_measure_mono (axialTail_mass_le h hU) _
+
+theorem transverseTilt_finite {d : ℝ} (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8) :
+    IsFiniteMeasure (transverseTilt d) := by
+  have := transverseLaw_isProbabilityMeasure (by positivity : 0 ≤ 2 * d)
+  have := Measure.smul_finite (transverseLaw (2 * d)) (by norm_num : (4 : ℝ≥0∞) ≠ ∞)
+  exact isFiniteMeasure_of_le ((4 : ℝ≥0∞) • transverseLaw (2 * d))
+    (transverseTilt_le hd hdmax)
+
+theorem transverseTilt_tail_le {d U : ℝ} (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8)
+    (hU : 0 ≤ U) :
+    (transverseTilt d).restrict {p : Transverse | U < ‖p‖} ≤
+      ENNReal.ofReal (4 * Real.exp (-46 * U ^ 2)) • transverseLaw (2 * d) := by
+  obtain rfl | hdpos := hd.eq_or_lt
+  · rw [transverseTilt_zero]
+    have hz : (Measure.dirac (0 : Transverse)).restrict {p : Transverse | U < ‖p‖} = 0 := by
+      apply Measure.restrict_eq_zero.mpr
+      simp only [Measure.dirac_apply, indicator_of_notMem (show (0 : Transverse) ∉ {p : Transverse | U < ‖p‖} by simpa using not_lt.mpr hU)]
+    rw [hz]
+    exact bot_le
+  · rw [transverseTilt_gaussian hdpos]
+    have hs : MeasurableSet {p : Transverse | U < ‖p‖} :=
+      measurableSet_lt measurable_const measurable_norm
+    rw [restrict_withDensity hs, ← withDensity_indicator hs]
+    have h2d : 2 * d ≠ 0 := by positivity
+    simp only [transverseLaw, ite_eq_right (c := 2 * d = 0) h2d, gaussianLaw]
+    rw [← withDensity_smul _ (measurable_gaussianDensity (2 * d) |>.ennreal_ofReal)]
+    apply withDensity_mono
+    filter_upwards [] with p
+    by_cases hp : U < ‖p‖
+    · simp only [indicator_of_mem (show p ∈ {p : Transverse | U < ‖p‖} from hp),
+        Pi.smul_apply, smul_eq_mul]
+      rw [← ENNReal.ofReal_mul (by positivity : 0 ≤ 4 * Real.exp (-46 * U ^ 2))]
+      exact ENNReal.ofReal_le_ofReal (gaussian_tilt_tail_le hdpos hdmax hU p hp.le)
+    · simp only [indicator_of_notMem (show p ∉ {p : Transverse | U < ‖p‖} from hp)]
+      exact bot_le
+
+private theorem product_tail_le (μ : Measure Transverse) (ν : Measure ℝ)
+    [SFinite μ] [SFinite ν] {u : ℝ} (hu : 0 ≤ u) :
+    (μ.prod ν).restrict {p : Transverse × ℝ | u < ‖join p‖} ≤
+      (μ.restrict {p : Transverse | u / 2 < ‖p‖}).prod ν +
+        μ.prod (ν.restrict {a : ℝ | u / 2 < |a|}) := by
+  have hs : {p : Transverse × ℝ | u < ‖join p‖} ⊆
+      ({p : Transverse | u / 2 < ‖p‖} ×ˢ univ) ∪
+        (univ ×ˢ {a : ℝ | u / 2 < |a|}) := by
+    intro p hp
+    by_contra hn
+    have hn₁ : ‖p.1‖ ≤ u / 2 := by simpa using (not_or.mp hn).1
+    have hn₂ : |p.2| ≤ u / 2 := by simpa using (not_or.mp hn).2
+    have hn₃ := norm_join_sq p
+    have hn₄ := sq_abs p.2
+    have hs₁ : ‖p.1‖ ^ 2 ≤ (u / 2) ^ 2 := sq_le_sq₀ (norm_nonneg _) (by positivity) |>.mpr hn₁
+    have hs₂ : |p.2| ^ 2 ≤ (u / 2) ^ 2 := sq_le_sq₀ (abs_nonneg _) (by positivity) |>.mpr hn₂
+    have hs₃ : u ^ 2 < ‖join p‖ ^ 2 := sq_lt_sq₀ hu (norm_nonneg _) |>.mpr hp
+    nlinarith
+  apply (Measure.restrict_mono_set _ hs).trans
+  apply (Measure.restrict_union_le _ _).trans
+  rw [← Measure.restrict_prod_eq_prod_univ]
+  have he : (μ.prod ν).restrict (univ ×ˢ {a : ℝ | u / 2 < |a|}) =
+      μ.prod (ν.restrict {a : ℝ | u / 2 < |a|}) := by
+    rw [← Measure.prod_restrict, Measure.restrict_univ]
+  rw [he]
+
+private theorem transverse_tail_coefficient_le {L u : ℝ} (hL : 0 ≤ L) :
+    ENNReal.ofReal (4 * Real.exp (-46 * (u / 2) ^ 2)) * ENNReal.ofReal L ≤
+      tailCoefficient L u := by
+  rw [← ENNReal.ofReal_mul (by positivity : 0 ≤ 4 * Real.exp (-46 * (u / 2) ^ 2))]
+  apply ENNReal.ofReal_le_ofReal
+  apply mul_le_mul_of_nonneg_right _ hL
+  apply mul_le_mul_of_nonneg_left _ (by norm_num : (0 : ℝ) ≤ 4)
+  apply Real.exp_le_exp.mpr
+  nlinarith [sq_nonneg u]
+
+private theorem axial_tail_coefficient (L u : ℝ) :
+    (4 : ℝ≥0∞) * ENNReal.ofReal (Real.exp (-6 * (u / 2) ^ 2) * L) =
+      tailCoefficient L u := by
+  rw [show (4 : ℝ≥0∞) = ENNReal.ofReal (4 : ℝ) by norm_num,
+    ← ENNReal.ofReal_mul (by norm_num : (0 : ℝ) ≤ 4)]
+  unfold tailCoefficient
+  apply congrArg ENNReal.ofReal
+  rw [show -6 * (u / 2) ^ 2 = -(3 / 2) * u ^ 2 by ring]
+  ring
+
+/-- The exponentially tilted norm tail is dominated by two probability sheets.
+The second axial law is the normalized tilted axial tail and may be an atom
+when the tail vanishes. -/
+theorem tiltedSheet_tail_le {d L u : ℝ} (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8)
+    {ρ : Measure ℝ} [IsProbabilityMeasure ρ] (h : AxialMoment ρ L) (hu : 0 ≤ u) :
+    (tiltedSheet d ρ).restrict {p : Velocity | u < ‖p‖} ≤
+      tailCoefficient L u •
+        (sheetLaw (2 * d) (axialProbability ρ h) +
+          sheetLaw (2 * d) (axialTailProbability ρ h (by positivity : 0 ≤ u / 2))) := by
+  have := transverseTilt_finite hd hdmax
+  have := axialTilt_finite h
+  have := transverseLaw_isProbabilityMeasure (by positivity : 0 ≤ 2 * d)
+  have := axialTail_finite h (show 0 ≤ u / 2 by positivity)
+  have ht : ((transverseTilt d).restrict {p : Transverse | u / 2 < ‖p‖}).prod (axialTilt ρ) ≤
+      tailCoefficient L u • (transverseLaw (2 * d)).prod (axialProbability ρ h) := by
+    apply (Measure.prod_mono (transverseTilt_tail_le hd hdmax (by positivity))
+      (axialTilt_le_probability h)).trans
+    rw [Measure.prod_smul_left, Measure.prod_smul_right, smul_smul]
+    exact smul_measure_mono (transverse_tail_coefficient_le h.nonneg) _
+  have ha : (transverseTilt d).prod (axialTail ρ (u / 2)) ≤
+      tailCoefficient L u •
+        (transverseLaw (2 * d)).prod (axialTailProbability ρ h (by positivity : 0 ≤ u / 2)) := by
+    apply (Measure.prod_mono (transverseTilt_le hd hdmax)
+      (axialTail_le_probability h (by positivity))).trans
+    rw [Measure.prod_smul_left, Measure.prod_smul_right, smul_smul, axial_tail_coefficient]
+  rw [tiltedSheet_eq, Measure.restrict_map join.measurable (measurableSet_lt measurable_const measurable_norm)]
+  have hb := (product_tail_le (transverseTilt d) (axialTilt ρ) hu).trans (add_le_add ht ha)
+  have hm := Measure.map_mono hb join.measurable
+  simpa only [Measure.map_add _ _ join.measurable,
+    Measure.map_smul, ← smul_add, sheetLaw,
+    axialTail, preimage_ofPred_eq] using hm
+
+end BoltzmannNonuniqueness.SheetMeasures
+
+end
+
+end
+
+section
+
+/-!
+# Geometric and Gaussian bounds for the gain of an elementary sheet
+
+The ball integrals below use the actual three-dimensional collision chart.
+The sheet laws may have an atomic transverse component and arbitrary axial
+probability laws. No gain bound is included among the hypotheses.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.TransverseAverage
+open BoltzmannNonuniqueness.GeometricSlice
+open BoltzmannNonuniqueness.SheetMeasures
+
+namespace BoltzmannNonuniqueness.SheetGain
+
+theorem normal_join (v : Velocity) (p : Transverse × ℝ) :
+    PlaneChart.normal v (SheetMeasures.join p) = transverse v - p.1 := by
+  change transverse (v - PlaneChart.join p.1 p.2) = _
+  rw [PlaneChart.transverse_sub, PlaneChart.transverse_join]
+
+theorem slope_join (v : Velocity) (p : Transverse × ℝ) :
+    PlaneChart.slope v (SheetMeasures.join p) =
+      (axial v - p.2) / ‖transverse v - p.1‖ := by
+  unfold PlaneChart.slope
+  rw [normal_join]
+  change axial (v - PlaneChart.join p.1 p.2) / _ = _
+  rw [PlaneChart.axial_sub, PlaneChart.axial_join]
+
+theorem offset_join (v : Velocity) (p : Transverse × ℝ) :
+    PlaneChart.offset v (SheetMeasures.join p) = sliceOffset (transverse v) p.1 := by
+  unfold PlaneChart.offset sliceOffset
+  rw [normal_join]
+
+theorem W_eq_transverseWeight (q : ℝ) (v : Velocity) :
+    W q v = transverseWeight q (transverse v) := rfl
+
+theorem chart_weight_join (q : ℝ) (v : Velocity) (p : Transverse × ℝ) (z s : ℝ) :
+    W q (PlaneChart.chart v (SheetMeasures.join p) z s) =
+      TransverseLine.lineWeight q (direction (transverse v - p.1))
+        (sliceOffset (transverse v) p.1 - (axial v - p.2) / ‖transverse v - p.1‖ * z) s := by
+  unfold W singularity
+  rw [PlaneChart.transverse_chart, normal_join, offset_join, slope_join]
+  rfl
+
+theorem chart_ball_join {R : ℝ} (hR : 0 ≤ R) (v : Velocity) (p : Transverse × ℝ)
+    (z s : ℝ) :
+    ‖PlaneChart.chart v (SheetMeasures.join p) z s - v‖ ≤ R ↔
+      s ∈ ballLineRegion (direction (transverse v - p.1)) (transverse v)
+        (sliceOffset (transverse v) p.1 - (axial v - p.2) / ‖transverse v - p.1‖ * z) z R := by
+  rw [← sq_le_sq₀ (norm_nonneg _) hR, PlaneChart.chart_displacement_norm_sq,
+    normal_join, offset_join, slope_join]
+  rfl
+
+/-- Clipping the axial chart coordinate loses only the null endpoint `-R`. -/
+theorem full_ballLineMass_eq {R : ℝ} (hR : 0 ≤ R) (q : ℝ) (e v : Transverse)
+    (A B : ℝ) :
+    (∫⁻ z : ℝ, ∫⁻ s in ballLineRegion e v (A - B * z) z R,
+      ENNReal.ofReal (TransverseLine.lineWeight q e (A - B * z) s)) =
+        ballLineMass q e v A B R (-R) R := by
+  unfold ballLineMass
+  rw [← lintegral_indicator measurableSet_Ioc]
+  apply lintegral_congr_ae
+  filter_upwards [volume.ae_ne (-R)] with z hz
+  by_cases hm : z ∈ Ioc (-R) R
+  · simp only [indicator_of_mem hm]
+  · rw [indicator_of_notMem hm]
+    have hout : z < -R ∨ R < z := by
+      simp only [mem_Ioc, not_and_or, not_lt, not_le] at hm
+      rcases hm with hm | hm
+      · exact Or.inl (lt_of_le_of_ne hm hz)
+      · exact Or.inr hm
+    rw [ballLineRegion_eq_empty_of_outside hR hout, Measure.restrict_empty, lintegral_zero_measure]
+
+theorem ballChartFiber_le_slice {R : ℝ} (hR : 0 ≤ R) (q : ℝ)
+    (v : Velocity) (p : Transverse × ℝ) :
+    ballChartFiber q v (SheetMeasures.join p) R ≤
+      normalizedBallSlice q (transverse v) (axial v) p.1 p.2 R (-R) R := by
+  classical
+  by_cases hp : RegularTransverse (transverse v) p.1
+  · have hweight : 0 < transverseWeight q (transverse v) := transverseWeight_pos q _
+    have hcoef : ENNReal.ofReal (‖transverse v - p.1‖⁻¹) *
+        ENNReal.ofReal ((transverseWeight q (transverse v))⁻¹) =
+      ENNReal.ofReal (1 / (transverseWeight q (transverse v) * ‖transverse v - p.1‖)) := by
+      rw [← ENNReal.ofReal_mul (by positivity)]
+      congr 1
+      simp only [one_div, mul_inv_rev]
+    have hpoint : ∀ z s : ℝ,
+        (if ‖PlaneChart.chart v (SheetMeasures.join p) z s - v‖ ≤ R then
+          weightRatio q v (PlaneChart.chart v (SheetMeasures.join p) z s) else 0) =
+        ENNReal.ofReal ((transverseWeight q (transverse v))⁻¹) *
+          (ballLineRegion (direction (transverse v - p.1)) (transverse v)
+            (sliceOffset (transverse v) p.1 - (axial v - p.2) / ‖transverse v - p.1‖ * z) z R).indicator
+          (fun s => ENNReal.ofReal (TransverseLine.lineWeight q (direction (transverse v - p.1))
+            (sliceOffset (transverse v) p.1 - (axial v - p.2) / ‖transverse v - p.1‖ * z) s)) s := by
+      intro z s
+      by_cases hm : s ∈ ballLineRegion (direction (transverse v - p.1)) (transverse v)
+          (sliceOffset (transverse v) p.1 - (axial v - p.2) / ‖transverse v - p.1‖ * z) z R
+      · have hc := (chart_ball_join hR v p z s).mpr hm
+        rw [ite_eq_left hc, indicator_of_mem hm]
+        unfold weightRatio
+        rw [chart_weight_join, W_eq_transverseWeight, div_eq_mul_inv, mul_comm,
+          ENNReal.ofReal_mul (inv_nonneg.mpr hweight.le)]
+      · have hc := mt (chart_ball_join hR v p z s).mp hm
+        simp only [ite_eq_right hc, indicator_of_notMem hm, mul_zero]
+    have hm : ∀ z : ℝ, MeasurableSet (ballLineRegion (direction (transverse v - p.1))
+        (transverse v) (sliceOffset (transverse v) p.1 -
+          (axial v - p.2) / ‖transverse v - p.1‖ * z) z R) := by
+      intro z
+      unfold ballLineRegion TransverseLine.line
+      apply measurableSet_le <;> fun_prop
+    unfold ballChartFiber
+    simp_rw [normal_join, hpoint, lintegral_const_mul' _ _ ENNReal.ofReal_ne_top,
+      lintegral_indicator (hm _)]
+    rw [← mul_assoc, hcoef, full_ballLineMass_eq hR]
+    rw [normalizedBallSlice, ite_eq_left hp]
+  · rw [normalizedBallSlice, ite_eq_right hp]
+    exact le_top
+
+theorem weight_ball_sheet_bound {q d R : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) (hR : 1 ≤ R) {v : Velocity} (hv : transverse v ≠ 0)
+    (ρ : Measure ℝ) [IsProbabilityMeasure ρ] :
+    chartRegionGain (sheetLaw d ρ) (weightRatio q v) v (ballRegion v R) ≤
+      2 * ENNReal.ofReal (geometricTotalConstant q * R ^ 2) := by
+  have hs : (∫⁻ p, normalizedBallSlice q (transverse v) (axial v) p.1 p.2 R (-R) R
+      ∂(transverseLaw d).prod ρ) ≤ ENNReal.ofReal (geometricTotalConstant q * R ^ 2) := by
+    apply geometric_total_of_kernel_bound hq₁ hq₂ hR hv
+    · obtain rfl | hdpos := hd.eq_or_lt
+      · simpa only [transverseLaw, ite_true, if_true] using ae_regularTransverse_atom hv
+      · simpa only [transverseLaw, ite_eq_right hdpos.ne'] using ae_regularTransverse_gaussian hv d
+    · obtain rfl | hdpos := hd.eq_or_lt
+      · simpa only [transverseLaw, ite_true, if_true] using atom_extendedKernel_lintegral_le q hv
+      · simpa only [transverseLaw, ite_eq_right hdpos.ne'] using
+          gaussian_extendedKernel_lintegral_le hq₁ hq₂ hdpos hv
+  unfold chartRegionGain
+  change 2 * (∫⁻ p, ballChartFiber q v p R ∂sheetLaw d ρ) ≤ _
+  unfold sheetLaw
+  rw [lintegral_map_equiv]
+  exact mul_le_mul_right ((lintegral_mono (ballChartFiber_le_slice (by linarith) q v)).trans hs) 2
+
+end BoltzmannNonuniqueness.SheetGain
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_ChartPointLift
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# The normalized gain as a measure on chart coordinates
+
+This measure retains the incoming velocity and both plane coordinates. Its
+restriction equals the chart gain, so countable shell
+estimates concern the full normalized kernel of the manuscript.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.PlaneChart
+
+namespace BoltzmannNonuniqueness.ChartKernel
+
+theorem measurable_H (q : ℝ) : Measurable (H q) := by
+  unfold H singularity
+  fun_prop
+
+theorem measurable_W (q : ℝ) : Measurable (W q) := by
+  unfold W singularity
+  fun_prop
+
+theorem measurable_density {h : Velocity → ℝ≥0∞} (hh : Measurable h) (v : Velocity) :
+    Measurable (density h v) := by
+  have hn : Measurable (fun y : Coordinates => normal v y.1) :=
+    measurable_transverse.comp (measurable_const.sub measurable_fst)
+  exact (measurable_const.mul hn.norm.inv.ennreal_ofReal).mul
+    (hh.comp (measurable_point v))
+
+theorem region_eq_measure (c : Measure Velocity) {h : Velocity → ℝ≥0∞}
+    (hh : Measurable h) (v : Velocity) {S : Set Coordinates} (hS : MeasurableSet S) :
+    chartRegionGain c h v S = measure c h v S := by
+  classical
+  rw [measure, withDensity_apply _ hS, ← lintegral_indicator hS]
+  rw [lintegral_prod _ ((measurable_density hh v).indicator hS).aemeasurable]
+  have hi (p : Velocity) :
+      (∫⁻ zs : ℝ × ℝ, S.indicator (density h v) (p, zs) ∂(volume.prod volume)) =
+        ∫⁻ z : ℝ, ∫⁻ s : ℝ, S.indicator (density h v) (p, (z, s)) :=
+    lintegral_prod _ (((measurable_density hh v).indicator hS).comp
+      measurable_prodMk_left).aemeasurable
+  simp_rw [hi]
+  have he : ∀ p z s, S.indicator (density h v) (p, (z, s)) =
+      2 * (ENNReal.ofReal (‖normal v p‖⁻¹) *
+        S.indicator (fun y => h (chart v y.1 y.2.1 y.2.2)) (p, (z, s))) := by
+    intro p z s
+    by_cases hm : (p, (z, s)) ∈ S
+    · simp only [indicator_of_mem hm, density, mul_assoc]
+    · simp only [indicator_of_notMem hm, mul_zero]
+  simp_rw [he, lintegral_const_mul' _ _ (by norm_num : (2 : ℝ≥0∞) ≠ ∞),
+    lintegral_const_mul' _ _ ENNReal.ofReal_ne_top]
+  rfl
+
+theorem total_eq (c : Measure Velocity) {h : Velocity → ℝ≥0∞}
+    (hh : Measurable h) (v : Velocity) :
+    chartGain c h v = measure c h v univ := by
+  simpa only [chartRegionGain, indicator_univ, chartGain] using
+    region_eq_measure c hh v MeasurableSet.univ
+
+theorem normalized_total_eq (c : Measure Velocity) (q : ℝ) (v : Velocity) :
+    normalizedChartGain c q v = normalizedMeasure c q v univ :=
+  total_eq c ((measurable_H q).div_const _ |>.ennreal_ofReal) v
+
+theorem measure_mono_incoming {c d : Measure Velocity} (hcd : c ≤ d)
+    (h : Velocity → ℝ≥0∞) (v : Velocity) : measure c h v ≤ measure d h v := by
+  apply Measure.le_iff.mpr
+  intro S hS
+  simp only [measure, withDensity_apply _ hS]
+  exact lintegral_mono' (Measure.restrict_mono_measure
+    (Measure.prod_mono hcd le_rfl) S) (fun _ => le_rfl)
+
+theorem measure_smul (a : ℝ≥0∞) (c : Measure Velocity)
+    (h : Velocity → ℝ≥0∞) (v : Velocity) :
+    measure (a • c) h v = a • measure c h v := by
+  rw [measure, Measure.prod_smul_left, withDensity_smul_measure]
+  rfl
+
+theorem measure_add (c d : Measure Velocity) [SFinite c] [SFinite d]
+    (h : Velocity → ℝ≥0∞) (v : Velocity) :
+    measure (c + d) h v = measure c h v + measure d h v := by
+  rw [measure, Measure.add_prod, withDensity_add_measure]
+  rfl
+
+theorem measure_withDensity (c : Measure Velocity) {w h : Velocity → ℝ≥0∞}
+    (hw : Measurable w) (hh : Measurable h) (v : Velocity) :
+    measure (c.withDensity w) h v =
+      (c.prod (volume.prod volume)).withDensity (fun y => w y.1 * density h v y) := by
+  rw [measure, prod_withDensity_left hw]
+  exact (withDensity_mul _ (hw.comp measurable_fst) (measurable_density hh v)).symm
+
+/-- A pointwise comparison, integrated without losing the coordinate restriction. -/
+theorem restriction_comparison (c : Measure Velocity) {w h k : Velocity → ℝ≥0∞}
+    (hw : Measurable w) (hk : Measurable k) (v : Velocity) (a : ℝ≥0∞)
+    {S T : Set Coordinates} (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hp : ∀ y, S.indicator (density h v) y ≤
+      a * (w y.1 * T.indicator (density k v) y)) :
+    measure c h v S ≤ a * measure (c.withDensity w) k v T := by
+  rw [measure_withDensity c hw hk v]
+  rw [measure, withDensity_apply _ hS, withDensity_apply _ hT,
+    ← lintegral_indicator hS, ← lintegral_indicator hT]
+  simp only [indicator_mul_right]
+  have hm : Measurable (fun y : Coordinates => w y.1 * T.indicator (density k v) y) :=
+    (hw.comp measurable_fst).mul ((measurable_density hk v).indicator hT)
+  rw [← lintegral_const_mul a hm]
+  apply lintegral_mono
+  intro y
+  exact hp y
+
+theorem measure_restrict_incoming (c : Measure Velocity) [SFinite c]
+    (h : Velocity → ℝ≥0∞) (v : Velocity) {A : Set Velocity} (hA : MeasurableSet A) :
+    measure (c.restrict A) h v = (measure c h v).restrict (A ×ˢ univ) := by
+  rw [measure, Measure.restrict_prod_eq_prod_univ, ← restrict_withDensity (hA.prod .univ)]
+  rfl
+
+theorem normalized_restrict_incoming (c : Measure Velocity) [SFinite c]
+    (q : ℝ) (v : Velocity) {A : Set Velocity} (hA : MeasurableSet A) :
+    normalizedMeasure (c.restrict A) q v = (normalizedMeasure c q v).restrict (A ×ˢ univ) :=
+  measure_restrict_incoming c _ v hA
+
+end BoltzmannNonuniqueness.ChartKernel
+
+end
+
+end
+
+section
+
+/-! # Joint measurability of the collision-plane chart and normalized density -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.PlaneChart
+
+namespace BoltzmannNonuniqueness.ChartKernel
+
+theorem measurable_joint_normalized_density (q : ℝ) :
+    Measurable (fun p : Velocity × Coordinates =>
+      density (fun ξ => ENNReal.ofReal (H q ξ/H q p.1)) p.1 p.2) := by
+  have hn : Measurable (fun p : Velocity × Coordinates => normal p.1 p.2.1) :=
+    measurable_transverse.comp (measurable_fst.sub measurable_snd.fst)
+  exact (measurable_const.mul hn.norm.inv.ennreal_ofReal).mul
+    (((measurable_H q).comp measurable_joint_point).div
+      ((measurable_H q).comp measurable_fst)).ennreal_ofReal
+
+end BoltzmannNonuniqueness.ChartKernel
+
+end
+
+end
+
+section
+
+/-! # Pulling the joint chart through a kinetic base projection -/
+
+noncomputable section
+open MeasureTheory
+open BoltzmannNonuniqueness.VelocityWeight
+namespace BoltzmannNonuniqueness.ChartKernel
+variable {X : Type*} [MeasurableSpace X]
+
+theorem measurable_lifted_density (q : ℝ) :
+    Measurable (fun p : (X × Velocity) × Coordinates =>
+      density (fun ξ => ENNReal.ofReal (H q ξ/H q p.1.2)) p.1.2 p.2) := by
+  let f : (X × Velocity) × Coordinates → Velocity × Coordinates := fun p => (p.1.2,p.2)
+  have hf : Measurable f := measurable_fst.snd.prodMk measurable_snd
+  simpa only [Function.comp_def,f] using (measurable_joint_normalized_density q).comp hf
+
+end BoltzmannNonuniqueness.ChartKernel
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_UniformGain
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Uniform elementary-sheet gain estimates
+
+The incoming exponential tilt and the Gaussian in the companion velocity
+are kept separate. All regions below refer to the complete normalized
+kernel, including its singular velocity weight.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.PlaneChart
+open BoltzmannNonuniqueness.SheetMeasures
+open BoltzmannNonuniqueness.SheetGain
+open BoltzmannNonuniqueness.ChartKernel
+
+namespace BoltzmannNonuniqueness.UniformGain
+
+theorem measurable_exponentialTilt : Measurable exponentialTilt := by
+  unfold exponentialTilt
+  fun_prop
+
+theorem measurable_weightRatio (q : ℝ) (v : Velocity) : Measurable (weightRatio q v) :=
+  ((measurable_W q).div_const _).ennreal_ofReal
+
+theorem ratio_bound {B : ℝ} (q : ℝ) (v p : Velocity) (z s : ℝ)
+    (hn : normal v p ≠ 0)
+    (hb : Real.exp (-‖companionVelocity p (chart v p z s) v‖ ^ 2) ≤ B) :
+    H q (chart v p z s) / H q v ≤
+      (tiltConstant * B) * Real.exp (2 * ‖p‖ ^ 2) *
+        (W q (chart v p z s) / W q v) := by
+  apply (chart_weight_ratio_le q v p z s hn).trans
+  rw [sub_eq_add_neg, Real.exp_add]
+  have hw : 0 ≤ W q (chart v p z s) / W q v :=
+    div_nonneg (W_pos _ _).le (W_pos _ _).le
+  calc
+    _ ≤ tiltConstant * (Real.exp (2 * ‖p‖ ^ 2) * B) *
+        (W q (chart v p z s) / W q v) := by
+      exact mul_le_mul_of_nonneg_right
+        (mul_le_mul_of_nonneg_left
+          (mul_le_mul_of_nonneg_left hb (Real.exp_nonneg _)) tiltConstant_pos.le) hw
+    _ = _ := by ring
+
+/-- The weight transfer can be applied on any measurable portion of the chart. -/
+theorem normalized_restriction_le (c : Measure Velocity) (q : ℝ) (v : Velocity)
+    {S T : Set Coordinates} (hS : MeasurableSet S) (hT : MeasurableSet T)
+    (hST : S ⊆ T) {B : ℝ} (hB : 0 ≤ B)
+    (hb : ∀ y ∈ S,
+      Real.exp (-‖companionVelocity y.1 (chart v y.1 y.2.1 y.2.2) v‖ ^ 2) ≤ B) :
+    normalizedMeasure c q v S ≤ ENNReal.ofReal (tiltConstant * B) *
+      ChartKernel.measure (c.withDensity exponentialTilt) (weightRatio q v) v T := by
+  apply restriction_comparison c measurable_exponentialTilt (measurable_weightRatio q v)
+    v _ hS hT
+  intro y
+  by_cases hy : y ∈ S
+  · rw [indicator_of_mem hy, indicator_of_mem (hST hy)]
+    by_cases hn : normal v y.1 = 0
+    · simp [density, hn]
+    · have hr := ENNReal.ofReal_le_ofReal
+        (ratio_bound q v y.1 y.2.1 y.2.2 hn (hb y hy))
+      have hc : 0 ≤ tiltConstant * B := mul_nonneg tiltConstant_pos.le hB
+      rw [ENNReal.ofReal_mul (mul_nonneg hc (Real.exp_nonneg _)),
+        ENNReal.ofReal_mul hc] at hr
+      change 2 * ENNReal.ofReal _ * ENNReal.ofReal _ ≤
+        ENNReal.ofReal (tiltConstant * B) *
+          (exponentialTilt y.1 * (2 * ENNReal.ofReal _ * weightRatio q v _))
+      have he := mul_le_mul_left hr (2 * ENNReal.ofReal (‖normal v y.1‖⁻¹))
+      simpa only [exponentialTilt, weightRatio, mul_assoc, mul_left_comm, mul_comm] using he
+  · rw [indicator_of_notMem hy]
+    exact bot_le
+
+theorem measurableSet_ballRegion (v : Velocity) (R : ℝ) : MeasurableSet (ballRegion v R) :=
+  measurableSet_le ((measurable_point v).sub_const v).norm measurable_const
+
+theorem weight_ball_measure_bound {q d R : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) (hR : 1 ≤ R) {v : Velocity} (hv : transverse v ≠ 0)
+    (ρ : Measure ℝ) [IsProbabilityMeasure ρ] :
+    ChartKernel.measure (sheetLaw d ρ) (weightRatio q v) v (ballRegion v R) ≤
+      2 * ENNReal.ofReal (GeometricSlice.geometricTotalConstant q * R ^ 2) := by
+  rw [← region_eq_measure _ (measurable_weightRatio q v) v (measurableSet_ballRegion v R)]
+  exact weight_ball_sheet_bound hq₁ hq₂ hd hR hv ρ
+
+theorem tilted_ball_bound {q d R L : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8) (hR : 1 ≤ R)
+    {v : Velocity} (hv : transverse v ≠ 0) {ρ : Measure ℝ} [IsProbabilityMeasure ρ]
+    (hρ : AxialMoment ρ L) :
+    ChartKernel.measure (tiltedSheet d ρ) (weightRatio q v) v (ballRegion v R) ≤
+      ENNReal.ofReal (4 * L) * ballBound q R := by
+  have h := (measure_mono_incoming (tiltedSheet_le_probability hd hdmax hρ)
+    (weightRatio q v) v) (ballRegion v R)
+  rw [measure_smul, Measure.smul_apply, smul_eq_mul] at h
+  exact h.trans (mul_le_mul' le_rfl
+    (weight_ball_measure_bound hq₁ hq₂ (by positivity) hR hv (axialProbability ρ hρ)))
+
+theorem tilted_tail_ball_bound {q d R L u : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8) (hR : 1 ≤ R) (hu : 0 ≤ u)
+    {v : Velocity} (hv : transverse v ≠ 0) {ρ : Measure ℝ} [IsProbabilityMeasure ρ]
+    (hρ : AxialMoment ρ L) :
+    ChartKernel.measure ((tiltedSheet d ρ).restrict {p : Velocity | u < ‖p‖})
+      (weightRatio q v) v (ballRegion v R) ≤
+        tailCoefficient L u * (ballBound q R + ballBound q R) := by
+  have := sheetLaw_isProbabilityMeasure (by positivity : 0 ≤ 2 * d)
+    (axialProbability ρ hρ : Measure ℝ)
+  have := sheetLaw_isProbabilityMeasure (by positivity : 0 ≤ 2 * d)
+    (axialTailProbability ρ hρ (by positivity : 0 ≤ u / 2) : Measure ℝ)
+  have h := (measure_mono_incoming (tiltedSheet_tail_le hd hdmax hρ hu)
+    (weightRatio q v) v) (ballRegion v R)
+  rw [measure_smul, measure_add, Measure.smul_apply, Measure.add_apply, smul_eq_mul] at h
+  exact h.trans (mul_le_mul' le_rfl (add_le_add
+    (weight_ball_measure_bound hq₁ hq₂ (by positivity) hR hv (axialProbability ρ hρ))
+    (weight_ball_measure_bound hq₁ hq₂ (by positivity) hR hv
+      (axialTailProbability ρ hρ (by positivity : 0 ≤ u / 2)))))
+
+theorem measurable_radius (v : Velocity) : Measurable (radius v) :=
+  measurable_fst.norm.add (((measurable_point v).sub_const v).norm)
+
+theorem measurableSet_shell (v : Velocity) (R : ℝ) : MeasurableSet (shell v R) :=
+  (measurableSet_lt measurable_const (measurable_radius v)).inter
+    (measurableSet_le (measurable_radius v) measurable_const)
+
+theorem measurableSet_incomingTail (u : ℝ) : MeasurableSet (incomingTail u) :=
+  measurableSet_lt measurable_const measurable_norm
+
+theorem measurableSet_companionTail (v : Velocity) (u : ℝ) :
+    MeasurableSet (companionTail v u) := by
+  unfold companionTail companionVelocity
+  exact measurableSet_lt measurable_const
+    ((measurable_fst.add (measurable_point v)).sub_const v).norm
+
+theorem shell_subset_ball (v : Velocity) (R : ℝ) : shell v R ⊆ ballRegion v (2 * R) := by
+  intro y hy
+  have hp := norm_nonneg y.1
+  exact le_trans (le_add_of_nonneg_left hp) hy.2
+
+theorem shell_subset_union (v : Velocity) (R : ℝ) :
+    shell v R ⊆ (shell v R ∩ (incomingTail (R / 4) ×ˢ univ)) ∪
+      (shell v R ∩ companionTail v (R / 2)) := by
+  intro y hy
+  rcases shell_alternative y.1 (chart v y.1 y.2.1 y.2.2 - v) hy.1 with hp | hw
+  · exact Or.inl ⟨hy, hp, mem_univ _⟩
+  · exact Or.inr ⟨hy, by simpa only [companionTail, mem_ofPred_eq,
+      companionVelocity, add_sub_assoc] using hw⟩
+
+theorem normalized_cold_shell_bound {q d R L : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8) (hR : 1 ≤ R)
+    {v : Velocity} (hv : transverse v ≠ 0) {ρ : Measure ℝ} [IsProbabilityMeasure ρ]
+    (hρ : AxialMoment ρ L) :
+    normalizedMeasure (sheetLaw d ρ) q v
+      (shell v R ∩ (incomingTail (R / 4) ×ˢ univ)) ≤
+      ENNReal.ofReal tiltConstant * tailCoefficient L (R / 4) *
+        (ballBound q (2 * R) + ballBound q (2 * R)) := by
+  have := sheetLaw_isProbabilityMeasure hd ρ
+  rw [← Measure.restrict_apply (measurableSet_shell v R),
+    ← normalized_restrict_incoming _ q v (measurableSet_incomingTail (R / 4))]
+  have h := normalized_restriction_le ((sheetLaw d ρ).restrict (incomingTail (R / 4))) q v
+    (measurableSet_shell v R) (measurableSet_ballRegion v (2 * R))
+    (shell_subset_ball v R) (B := 1) (by norm_num)
+    (fun _ _ => Real.exp_le_one_iff.mpr (neg_nonpos.mpr (sq_nonneg _)))
+  simp only [mul_one] at h
+  rw [← restrict_withDensity (measurableSet_incomingTail (R / 4))] at h
+  exact h.trans ((mul_le_mul' le_rfl
+    (tilted_tail_ball_bound hq₁ hq₂ hd hdmax (by linarith) (by positivity) hv hρ)).trans_eq
+      (mul_assoc _ _ _).symm)
+
+theorem normalized_hot_shell_bound {q d R L : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8) (hR : 1 ≤ R)
+    {v : Velocity} (hv : transverse v ≠ 0) {ρ : Measure ℝ} [IsProbabilityMeasure ρ]
+    (hρ : AxialMoment ρ L) :
+    normalizedMeasure (sheetLaw d ρ) q v (shell v R ∩ companionTail v (R / 2)) ≤
+      ENNReal.ofReal (tiltConstant * Real.exp (-R ^ 2 / 4)) *
+        ENNReal.ofReal (4 * L) * ballBound q (2 * R) := by
+  have h := normalized_restriction_le (sheetLaw d ρ) q v
+    ((measurableSet_shell v R).inter (measurableSet_companionTail v (R / 2)))
+    (measurableSet_ballRegion v (2 * R))
+    (fun y hy => shell_subset_ball v R hy.1) (Real.exp_nonneg (-R ^ 2 / 4))
+    (fun y hy => gaussian_shell_decay (by linarith : 0 ≤ R) hy.2.le)
+  exact h.trans ((mul_le_mul' le_rfl
+    (tilted_ball_bound hq₁ hq₂ hd hdmax (by linarith) hv hρ)).trans_eq
+      (mul_assoc _ _ _).symm)
+
+theorem normalized_shell_bound_raw {q d R L : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8) (hR : 1 ≤ R)
+    {v : Velocity} (hv : transverse v ≠ 0) {ρ : Measure ℝ} [IsProbabilityMeasure ρ]
+    (hρ : AxialMoment ρ L) :
+    normalizedMeasure (sheetLaw d ρ) q v (shell v R) ≤
+      ENNReal.ofReal tiltConstant * tailCoefficient L (R / 4) *
+        (ballBound q (2 * R) + ballBound q (2 * R)) +
+      ENNReal.ofReal (tiltConstant * Real.exp (-R ^ 2 / 4)) *
+        ENNReal.ofReal (4 * L) * ballBound q (2 * R) := by
+  calc
+    _ ≤ normalizedMeasure (sheetLaw d ρ) q v
+        ((shell v R ∩ (incomingTail (R / 4) ×ˢ univ)) ∪
+          (shell v R ∩ companionTail v (R / 2))) := measure_mono (shell_subset_union v R)
+    _ ≤ _ := (measure_union_le _ _).trans (add_le_add
+      (normalized_cold_shell_bound hq₁ hq₂ hd hdmax hR hv hρ)
+      (normalized_hot_shell_bound hq₁ hq₂ hd hdmax hR hv hρ))
+
+theorem geometricTotalConstant_nonneg {q : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2) :
+    0 ≤ GeometricSlice.geometricTotalConstant q := by
+  unfold GeometricSlice.geometricTotalConstant
+  exact mul_nonneg (by positivity) (GeometricSlice.geometricConstant_pos hq₁ hq₂).le
+
+theorem shell_coefficient_bound {q L R : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2) (hL : 0 ≤ L) :
+    ENNReal.ofReal tiltConstant * tailCoefficient L (R / 4) *
+        (ballBound q (2 * R) + ballBound q (2 * R)) +
+      ENNReal.ofReal (tiltConstant * Real.exp (-R ^ 2 / 4)) *
+        ENNReal.ofReal (4 * L) * ballBound q (2 * R) ≤
+      ENNReal.ofReal (shellConstant q L * R ^ 2 * Real.exp (-(3 / 32) * R ^ 2)) := by
+  have hC := geometricTotalConstant_nonneg hq₁ hq₂
+  have ht := tiltConstant_pos.le
+  have htwo : ENNReal.ofReal (2 : ℝ) = 2 := by norm_num
+  unfold ballBound tailCoefficient
+  rw [← htwo]
+  repeat first
+    | rw [← ENNReal.ofReal_mul (by positivity)]
+    | rw [← ENNReal.ofReal_add (by positivity) (by positivity)]
+  apply ENNReal.ofReal_le_ofReal
+  have he : Real.exp (-R ^ 2 / 4) ≤ Real.exp (-(3 / 32) * R ^ 2) := by
+    apply Real.exp_le_exp.mpr
+    nlinarith [sq_nonneg R]
+  rw [show -(3 / 2) * (R / 4) ^ 2 = -(3 / 32) * R ^ 2 by ring]
+  calc
+    _ = (64 * tiltConstant * GeometricSlice.geometricTotalConstant q * L * R ^ 2) *
+          Real.exp (-(3 / 32) * R ^ 2) +
+        (32 * tiltConstant * GeometricSlice.geometricTotalConstant q * L * R ^ 2) *
+          Real.exp (-R ^ 2 / 4) := by ring
+    _ ≤ (64 * tiltConstant * GeometricSlice.geometricTotalConstant q * L * R ^ 2) *
+          Real.exp (-(3 / 32) * R ^ 2) +
+        (32 * tiltConstant * GeometricSlice.geometricTotalConstant q * L * R ^ 2) *
+          Real.exp (-(3 / 32) * R ^ 2) := by
+      exact add_le_add le_rfl (mul_le_mul_of_nonneg_left he
+        (by positivity : 0 ≤ 32 * tiltConstant *
+          GeometricSlice.geometricTotalConstant q * L * R ^ 2))
+    _ = _ := by unfold shellConstant; ring
+
+/-- The full normalized kernel has a uniform Gaussian bound on every shell. -/
+theorem normalized_shell_bound {q d R L : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8) (hR : 1 ≤ R)
+    {v : Velocity} (hv : transverse v ≠ 0) {ρ : Measure ℝ} [IsProbabilityMeasure ρ]
+    (hρ : AxialMoment ρ L) :
+    normalizedMeasure (sheetLaw d ρ) q v (shell v R) ≤
+      ENNReal.ofReal (shellConstant q L * R ^ 2 * Real.exp (-(3 / 32) * R ^ 2)) :=
+  (normalized_shell_bound_raw hq₁ hq₂ hd hdmax hR hv hρ).trans
+    (shell_coefficient_bound hq₁ hq₂ hρ.nonneg)
+
+end BoltzmannNonuniqueness.UniformGain
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_SheetIntervals
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# Summing the normalized sheet kernel
+
+The Gaussian shell estimate yields a finite constant independent of the
+transverse width, the axial law, and the output velocity off the axis.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.PlaneChart
+open BoltzmannNonuniqueness.SheetMeasures
+open BoltzmannNonuniqueness.SheetGain
+open BoltzmannNonuniqueness.ChartKernel
+open BoltzmannNonuniqueness.UniformGain
+
+namespace BoltzmannNonuniqueness.SheetTotal
+
+theorem summable_shellTerm : Summable shellTerm := by
+  have hbase : Summable (fun n : ℕ =>
+      (n : ℝ) ^ 2 * Real.exp (-(3 / 32) * (n : ℝ) ^ 2)) := by
+    apply (Real.summable_pow_mul_exp_neg_nat_mul 2 (by norm_num : (0 : ℝ) < 3 / 32)).of_nonneg_of_le
+    · intro n
+      positivity
+    · intro n
+      apply mul_le_mul_of_nonneg_left _ (sq_nonneg _)
+      apply Real.exp_le_exp.mpr
+      have hn : (n : ℝ) ≤ (n : ℝ) ^ 2 := by
+        exact_mod_cast (show n ≤ n ^ 2 by simpa only [pow_two] using Nat.le_mul_self n)
+      nlinarith
+  convert! hbase.comp_injective Nat.succ_injective using 1
+  all_goals try with_reducible_and_instances rfl
+  funext n
+  simp only [Function.comp_def, Nat.cast_succ]
+  rfl
+
+end BoltzmannNonuniqueness.SheetTotal
+
+end
+
+end
+
+section
+
+/-!
+# Uniform removal of the kernel's velocity tails
+
+The bound and its limit do not depend on the elementary sheet or the
+outgoing velocity. They give the first tightness assertion in Section 3.
+-/
+
+noncomputable section
+
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.SheetMeasures
+open BoltzmannNonuniqueness.ChartKernel
+open BoltzmannNonuniqueness.UniformGain
+open BoltzmannNonuniqueness.SheetTotal
+
+namespace BoltzmannNonuniqueness.SheetTightness
+
+theorem tendsto_tailBound (q L : ℝ) : Tendsto (tailBound q L) atTop (𝓝 0) :=
+  ENNReal.tendsto_sum_nat_add _
+    (summable_shellTerm.mul_left (shellConstant q L)).tsum_ofReal_ne_top
+
+theorem cover_tail (v : Velocity) (N : ℕ) :
+    tailRegion v N ⊆ ⋃ k : ℕ, shell v (((k + N : ℕ) : ℝ) + 1) := by
+  intro y hy
+  have hr : 2 < radius v y := by
+    have hn : 0 ≤ (N : ℝ) := Nat.cast_nonneg _
+    change 2 * ((N : ℝ) + 1) < radius v y at hy
+    linarith
+  let n := Nat.floor (radius v y / 2)
+  have hn₀ : N ≤ n := (Nat.le_floor_iff (by linarith : 0 ≤ radius v y / 2)).mpr (by
+    change 2 * ((N : ℝ) + 1) < radius v y at hy
+    linarith)
+  have hn : (n : ℝ) ≤ radius v y / 2 := Nat.floor_le (by linarith)
+  have hn' : radius v y / 2 < (n : ℝ) + 1 := Nat.lt_floor_add_one _
+  apply mem_iUnion.mpr
+  refine ⟨n - N, ?_⟩
+  rw [Nat.sub_add_cancel hn₀]
+  constructor <;> linarith
+
+theorem normalized_tail_bound {q d L : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8) {v : Velocity} (hv : transverse v ≠ 0)
+    {ρ : Measure ℝ} [IsProbabilityMeasure ρ] (hρ : AxialMoment ρ L) (N : ℕ) :
+    normalizedMeasure (sheetLaw d ρ) q v (tailRegion v N) ≤ tailBound q L N := by
+  apply (measure_mono (cover_tail v N)).trans
+  apply (measure_iUnion_le _).trans
+  apply ENNReal.tsum_le_tsum
+  intro k
+  simpa only [shellTerm, mul_assoc] using normalized_shell_bound hq₁ hq₂ hd hdmax
+    (show (1 : ℝ) ≤ ((k + N : ℕ) : ℝ) + 1 by linarith [Nat.cast_nonneg (α := ℝ) (k + N)])
+    hv hρ
+
+end BoltzmannNonuniqueness.SheetTightness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_HotQuadraticGain
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The truncated hot rectangle in physical velocity coordinates -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.SheetMeasures
+open BoltzmannNonuniqueness.HotDiskEstimate
+open BoltzmannNonuniqueness.HotChartBalls
+
+namespace BoltzmannNonuniqueness.HotRectangleDensity
+
+theorem join_measurePreserving :
+    MeasurePreserving join ((volume : Measure Transverse).prod volume) volume := by
+  have hs : MeasurePreserving split.symm
+      ((volume : Measure ℝ).prod (volume : Measure Transverse)) volume := by
+    simpa only [Measure.volume_eq_prod] using
+      (MeasurePreserving.symm split split_measurePreserving)
+  exact (Measure.measurePreserving_swap (μ := volume (α := Transverse))
+    (ν := volume (α := ℝ))).trans hs
+
+end BoltzmannNonuniqueness.HotRectangleDensity
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_RegularChart
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # Regular chart volume and transverse inverse-distance averaging -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal RealInnerProductSpace
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.PlaneChart
+open BoltzmannNonuniqueness.TransverseAverage
+open BoltzmannNonuniqueness.GeometricSlice
+open BoltzmannNonuniqueness.SheetMeasures
+open BoltzmannNonuniqueness.SheetGain
+
+namespace BoltzmannNonuniqueness.RegularChart
+
+theorem inverse_norm_le_extendedKernel (q : ℝ) (v p : Transverse) :
+    ENNReal.ofReal (‖v - p‖⁻¹) ≤ extendedKernel q v p := by
+  classical
+  by_cases h : RegularTransverse v p
+  · rw [extendedKernel, ite_eq_left h]
+    apply ENNReal.ofReal_le_ofReal
+    unfold kernel
+    have hp : 0 ≤ |inner ℝ (direction v) (‖v - p‖⁻¹ • (v - p))| ^ (1 - q) :=
+      Real.rpow_nonneg (abs_nonneg _) _
+    rw [inv_eq_one_div]
+    rw [inv_eq_one_div] at hp
+    exact div_le_div_of_nonneg_right (by linarith) (norm_nonneg _)
+  · rw [extendedKernel, ite_eq_right h]
+    exact le_top
+
+theorem transverseLaw_inverse_norm_bound {q d : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) {v : Transverse} (hv : v ≠ 0) :
+    (∫⁻ p, ENNReal.ofReal (‖v - p‖⁻¹) ∂transverseLaw d) ≤
+      ENNReal.ofReal (expectationConstant q / ‖v‖) := by
+  apply (lintegral_mono (inverse_norm_le_extendedKernel q v)).trans
+  obtain rfl | hdpos := hd.eq_or_lt
+  · simpa only [transverseLaw, ite_true, if_true] using atom_extendedKernel_lintegral_le q hv
+  · simpa only [transverseLaw, ite_eq_right hdpos.ne'] using
+      gaussian_extendedKernel_lintegral_le hq₁ hq₂ hdpos hv
+
+end BoltzmannNonuniqueness.RegularChart
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_MismatchSlices
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # Slice bounds with a nonzero axial mismatch -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.GeometricSlice
+open BoltzmannNonuniqueness.TransverseAverage
+
+namespace BoltzmannNonuniqueness.MismatchSlices
+
+theorem lintegral_extendedPower_slope {q a b A B : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hab : a ≤ b) (hA : A ≠ 0) (hB : B ≠ 0) :
+    (∫⁻ x in Ioc a b, extendedPower q (A - B * x)) ≤
+      ENNReal.ofReal (|B| ^ (1 - q) * (2 * (b - a) ^ (2 - q) / (2 - q))) := by
+  have hi := AxialSlices.intervalIntegrable_abs_affine_rpow
+    (show -1 < 1 - q by linarith) A B a b
+  rw [lintegral_congr_ae (ae_restrict_of_ae (extendedPower_ae_eq hA B q)),
+    ← ofReal_integral_eq_lintegral_ofReal hi.1
+      (ae_of_all _ (fun x => Real.rpow_nonneg (abs_nonneg _) _)),
+    ← intervalIntegral.integral_of_le hab]
+  apply ENNReal.ofReal_le_ofReal
+  simpa only [show 1 - q + 1 = 2 - q by ring] using
+    AxialSlices.integral_abs_affine_rpow_le (show -1 < 1 - q by linarith)
+      (show 1 - q ≤ 0 by linarith) hab hB
+
+theorem rectangleLineMass_slope_bound {q a b A B R : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hab : a ≤ b) (hR : 0 ≤ R)
+    (hA : A ≠ 0) (hB : B ≠ 0)
+    (e : Transverse) (he : ‖e‖ = 1) (m : ℝ) :
+    rectangleLineMass q e A B m R a b ≤
+      ENNReal.ofReal (2 * R * (b - a) + AxialSlices.lineConstant q *
+        (|B| ^ (1 - q) * (2 * (b - a) ^ (2 - q) / (2 - q)))) := by
+  have hc := (AxialSlices.lineConstant_pos hq₁).le
+  have hs := lintegral_extendedPower_slope hq₁ hq₂ hab hA hB
+  unfold rectangleLineMass
+  calc
+    _ ≤ ∫⁻ z in Ioc a b, ENNReal.ofReal (2 * R) +
+        ENNReal.ofReal (AxialSlices.lineConstant q) * extendedPower q (A - B * z) :=
+      lintegral_mono (fun z => lintegral_lineWeight_le_extended hq₁ hR e he _ m)
+    _ = ENNReal.ofReal (2 * R) * ENNReal.ofReal (b - a) +
+        ENNReal.ofReal (AxialSlices.lineConstant q) *
+          ∫⁻ z in Ioc a b, extendedPower q (A - B * z) := by
+      rw [lintegral_add_left measurable_const, lintegral_const_mul' _ _ ENNReal.ofReal_ne_top,
+        lintegral_const, Measure.restrict_apply_univ, Real.volume_Ioc]
+    _ ≤ ENNReal.ofReal (2 * R) * ENNReal.ofReal (b - a) +
+        ENNReal.ofReal (AxialSlices.lineConstant q) *
+          ENNReal.ofReal (|B| ^ (1 - q) * (2 * (b - a) ^ (2 - q) / (2 - q))) :=
+      add_le_add le_rfl (mul_le_mul' le_rfl hs)
+    _ = _ := by
+      rw [← ENNReal.ofReal_mul (by positivity : 0 ≤ 2 * R),
+        ← ENNReal.ofReal_mul hc, ← ENNReal.ofReal_add (by positivity) (by positivity)]
+
+theorem inverse_power_le {q b : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2) (hb : 0 < b) :
+    b ^ (q - 2) ≤ 1 + b⁻¹ := by
+  by_cases hb₁ : b ≤ 1
+  · have hp : b ^ (q - 1) ≤ 1 := Real.rpow_le_one hb.le hb₁ (by linarith)
+    have he : b ^ (q - 2) = b ^ (q - 1) * b⁻¹ := by
+      rw [← Real.rpow_neg_one, ← Real.rpow_add hb]
+      congr 1
+      ring
+    rw [he]
+    have h := mul_le_mul_of_nonneg_right hp (inv_nonneg.mpr hb.le)
+    linarith
+  · exact (Real.rpow_le_one_of_one_le_of_nonpos (le_of_not_ge hb₁) (by linarith)).trans
+      (le_add_of_nonneg_right (inv_nonneg.mpr hb.le))
+
+theorem inverse_slope_bound {q a b δ : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hb : 0 < b) (hδ : 0 < δ) (ha : δ ≤ |a|) :
+    b⁻¹ * |a / b| ^ (1 - q) ≤ δ ^ (1 - q) * (1 + b⁻¹) := by
+  have hapos : 0 < |a| := hδ.trans_le ha
+  have hpow : |a| ^ (1 - q) ≤ δ ^ (1 - q) :=
+    Real.rpow_le_rpow_of_nonpos hδ ha (by linarith)
+  have he : b⁻¹ * |a / b| ^ (1 - q) = |a| ^ (1 - q) * b ^ (q - 2) := by
+    rw [abs_div, abs_of_pos hb, Real.div_rpow hapos.le hb.le, div_eq_mul_inv,
+      ← Real.rpow_neg hb.le, ← Real.rpow_neg_one]
+    calc
+      _ = |a| ^ (1 - q) * (b ^ (-1 : ℝ) * b ^ (-(1 - q))) := by ring
+      _ = _ := by rw [← Real.rpow_add hb, show (-1 : ℝ) + -(1 - q) = q - 2 by ring]
+  rw [he]
+  exact mul_le_mul hpow (inverse_power_le hq₁ hq₂ hb)
+    (Real.rpow_nonneg hb.le _) (Real.rpow_nonneg hδ.le _)
+
+theorem slopeCoefficient_nonneg {q R : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2) (hR : 0 ≤ R) :
+    0 ≤ slopeCoefficient q R := by
+  have := AxialSlices.lineConstant_pos hq₁
+  unfold slopeCoefficient
+  positivity
+
+theorem mismatchCoefficient_nonneg {q R δ : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hR : 0 ≤ R) (hδ : 0 ≤ δ) :
+    0 ≤ mismatchCoefficient q R δ := by
+  have := slopeCoefficient_nonneg hq₁ hq₂ hR
+  unfold mismatchCoefficient
+  positivity
+
+theorem normalizedBallSlice_mismatch {q R δ : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hR : 0 < R) (hδ : 0 < δ)
+    (v p : Transverse) (t α : ℝ) (hreg : RegularTransverse v p)
+    (hm : δ ≤ |t - α|) :
+    normalizedBallSlice q v t p α R (-R) R ≤
+      ENNReal.ofReal ((mismatchCoefficient q R δ / transverseWeight q v) *
+        (1 + ‖v - p‖⁻¹)) := by
+  have hn : 0 < ‖v - p‖ := norm_pos_iff.mpr hreg.1
+  have hB : (t - α) / ‖v - p‖ ≠ 0 := div_ne_zero (by
+    intro he
+    rw [he, abs_zero] at hm
+    linarith) hn.ne'
+  have hs := rectangleLineMass_slope_bound hq₁ hq₂ (by linarith : -R ≤ R)
+    hR.le hreg.2 hB (direction (v - p)) (norm_direction hreg.1)
+    (inner ℝ (TransverseLine.quarterTurn (direction (v - p))) v)
+  have hmass := (ballLineMass_le_rectangle hR.le q (direction (v - p)) v
+    (norm_direction hreg.1) (sliceOffset v p) ((t - α) / ‖v - p‖) (-R) R).trans hs
+  have hW := transverseWeight_pos q v
+  rw [normalizedBallSlice, ite_eq_left hreg]
+  apply (mul_le_mul' le_rfl hmass).trans
+  rw [← ENNReal.ofReal_mul (by positivity : 0 ≤ 1 / (transverseWeight q v * ‖v - p‖))]
+  apply ENNReal.ofReal_le_ofReal
+  have hc := slopeCoefficient_nonneg hq₁ hq₂ hR.le
+  have hi := inverse_slope_bound hq₁ hq₂ hn hδ hm
+  have he : 2 * R * (R - -R) + AxialSlices.lineConstant q *
+      (|(t - α) / ‖v - p‖| ^ (1 - q) * (2 * (R - -R) ^ (2 - q) / (2 - q))) =
+      4 * R ^ 2 + slopeCoefficient q R * |(t - α) / ‖v - p‖| ^ (1 - q) := by
+    rw [show R - -R = 2 * R by ring]
+    unfold slopeCoefficient
+    ring
+  rw [he]
+  have hi' := mul_le_mul_of_nonneg_left hi hc
+  have hr : 4 * R ^ 2 * ‖v - p‖⁻¹ ≤ 4 * R ^ 2 * (1 + ‖v - p‖⁻¹) := by
+    nlinarith [sq_nonneg R]
+  have hsum : (4 * R ^ 2 + slopeCoefficient q R * |(t - α) / ‖v - p‖| ^ (1 - q)) *
+      ‖v - p‖⁻¹ ≤ mismatchCoefficient q R δ * (1 + ‖v - p‖⁻¹) := by
+    unfold mismatchCoefficient
+    nlinarith [hi', hr]
+  have hdiv := div_le_div_of_nonneg_right hsum hW.le
+  first | (convert hdiv using 1 <;> first | (with_reducible_and_instances rfl) | ring) | exact (le_of_eq (by ring)).trans (hdiv.trans (le_of_eq (by ring)))
+
+end BoltzmannNonuniqueness.MismatchSlices
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_AxisMismatch
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptySupportedTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # Uniform suppression of nonzero axial mismatch near the output axis -/
+
+noncomputable section
+
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.PlaneChart
+open BoltzmannNonuniqueness.TransverseAverage
+open BoltzmannNonuniqueness.GeometricSlice
+open BoltzmannNonuniqueness.SheetMeasures
+open BoltzmannNonuniqueness.SheetGain
+open BoltzmannNonuniqueness.ChartKernel
+open BoltzmannNonuniqueness.UniformGain
+open BoltzmannNonuniqueness.MismatchSlices
+
+namespace BoltzmannNonuniqueness.AxisMismatch
+
+theorem measurableSet_incoming (v : Velocity) (δ : ℝ) : MeasurableSet (incoming v δ) :=
+  measurableSet_le measurable_const ((measurable_axial.comp (measurable_const.sub measurable_id)).abs)
+
+theorem measurableSet_region (v : Velocity) (R δ : ℝ) : MeasurableSet (region v R δ) :=
+  (measurableSet_ballRegion v R).inter ((measurableSet_incoming v δ).prod .univ)
+
+theorem region_eq_restricted (c : Measure Velocity) [SFinite c] (q : ℝ)
+    (v : Velocity) (R δ : ℝ) :
+    ChartKernel.measure c (weightRatio q v) v (region v R δ) =
+      ChartKernel.measure (c.restrict (incoming v δ)) (weightRatio q v) v (ballRegion v R) := by
+  rw [measure_restrict_incoming c _ _ (measurableSet_incoming v δ),
+    Measure.restrict_apply (measurableSet_ballRegion v R)]
+  rfl
+
+theorem weight_region_bound {q d R δ : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hd : 0 ≤ d) (hR : 0 < R) (hδ : 0 < δ) {v : Velocity} (hv : transverse v ≠ 0)
+    (ρ : Measure ℝ) [IsProbabilityMeasure ρ] :
+    ChartKernel.measure (sheetLaw d ρ) (weightRatio q v) v (region v R δ) ≤
+      (2 * ENNReal.ofReal (mismatchCoefficient q R δ / W q v)) *
+        (1 + ENNReal.ofReal (expectationConstant q / ‖transverse v‖)) := by
+  have := transverseLaw_isProbabilityMeasure hd
+  have := sheetLaw_isProbabilityMeasure hd ρ
+  have hreg : ∀ᵐ p ∂transverseLaw d, RegularTransverse (transverse v) p := by
+    obtain rfl | hdpos := hd.eq_or_lt
+    · simpa only [transverseLaw, ite_true, if_true] using ae_regularTransverse_atom hv
+    · simpa only [transverseLaw, ite_eq_right hdpos.ne'] using ae_regularTransverse_gaussian hv d
+  have hK := mismatchCoefficient_nonneg hq₁ hq₂ hR.le hδ.le
+  have hW := W_pos q v
+  have hμ : IsProbabilityMeasure ((transverseLaw d).prod ρ) := by first | (set_option synthInstance.maxHeartbeats 20000 in infer_instance) | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+  rw [region_eq_restricted _ q v R δ,
+    ← region_eq_measure _ (measurable_weightRatio q v) v (measurableSet_ballRegion v R)]
+  change 2 * (∫⁻ p, ballChartFiber q v p R ∂(sheetLaw d ρ).restrict (incoming v δ)) ≤ _
+  rw [← lintegral_indicator (measurableSet_incoming v δ), sheetLaw, lintegral_map_equiv]
+  have hpoint : ∀ᵐ p : Transverse × ℝ ∂(transverseLaw d).prod ρ,
+      (incoming v δ).indicator (fun p => ballChartFiber q v p R) (SheetMeasures.join p) ≤
+        ENNReal.ofReal (mismatchCoefficient q R δ / W q v) *
+          (1 + ENNReal.ofReal (‖transverse v - p.1‖⁻¹)) := by
+    filter_upwards [ae_regularTransverse_prod hreg (ρ := ρ)] with p hp
+    by_cases hm : SheetMeasures.join p ∈ incoming v δ
+    · rw [indicator_of_mem hm]
+      have hm' : δ ≤ |axial v - p.2| := by
+        change δ ≤ |axial (v - SheetMeasures.join p)| at hm
+        rw [axial_sub] at hm
+        change δ ≤ |axial v - axial (PlaneChart.join p.1 p.2)| at hm
+        simpa only [axial_join] using hm
+      have hb := (ballChartFiber_le_slice hR.le q v p).trans
+        (normalizedBallSlice_mismatch hq₁ hq₂ hR hδ (transverse v) p.1 (axial v) p.2 hp hm')
+      apply hb.trans_eq
+      have hcoef : 0 ≤ mismatchCoefficient q R δ / transverseWeight q (transverse v) :=
+        div_nonneg hK (transverseWeight_pos q _).le
+      rw [W_eq_transverseWeight, ENNReal.ofReal_mul hcoef,
+        ENNReal.ofReal_add (by norm_num) (by positivity), ENNReal.ofReal_one]
+    · rw [indicator_of_notMem hm]
+      exact bot_le
+  have hi := lintegral_mono_ae hpoint
+  have hmeas : Measurable (fun p : Transverse × ℝ => ENNReal.ofReal (‖transverse v - p.1‖⁻¹)) := by
+    fun_prop
+  rw [lintegral_const_mul' _ _ ENNReal.ofReal_ne_top, lintegral_add_left measurable_const,
+    lintegral_one, measure_univ, lintegral_prod _ hmeas.aemeasurable] at hi
+  simp only [lintegral_const, measure_univ, mul_one] at hi
+  calc
+    _ ≤ 2 * (ENNReal.ofReal (mismatchCoefficient q R δ / W q v) *
+        (1 + ∫⁻ p, ENNReal.ofReal (‖transverse v - p‖⁻¹) ∂transverseLaw d)) :=
+      mul_le_mul' le_rfl hi
+    _ ≤ _ := by
+      rw [mul_assoc]
+      exact mul_le_mul' le_rfl (mul_le_mul' le_rfl (add_le_add le_rfl
+        (RegularChart.transverseLaw_inverse_norm_bound hq₁ hq₂ hd hv)))
+
+theorem normalized_region_bound {q d R L δ : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8)
+    (hR : 0 < R) (hδ : 0 < δ) {v : Velocity} (hv : transverse v ≠ 0)
+    {ρ : Measure ℝ} [IsProbabilityMeasure ρ] (hρ : AxialMoment ρ L) :
+    normalizedMeasure (sheetLaw d ρ) q v (region v R δ) ≤
+      ENNReal.ofReal tiltConstant * (ENNReal.ofReal (4 * L) *
+        ((2 * ENNReal.ofReal (mismatchCoefficient q R δ / W q v)) *
+          (1 + ENNReal.ofReal (expectationConstant q / ‖transverse v‖)))) := by
+  have hnorm := normalized_restriction_le (sheetLaw d ρ) q v
+    (measurableSet_region v R δ) (measurableSet_region v R δ) (Subset.refl _)
+    (B := 1) (by norm_num)
+    (fun _ _ => Real.exp_le_one_iff.mpr (neg_nonpos.mpr (sq_nonneg _)))
+  simp only [mul_one] at hnorm
+  have hdom := measure_mono_incoming (tiltedSheet_le_probability hd hdmax hρ) (weightRatio q v) v
+    (region v R δ)
+  rw [measure_smul, Measure.smul_apply, smul_eq_mul] at hdom
+  exact hnorm.trans (mul_le_mul' le_rfl (hdom.trans (mul_le_mul' le_rfl
+    (weight_region_bound hq₁ hq₂ (by positivity : 0 ≤ 2 * d) hR hδ hv (axialProbability ρ hρ)))))
+
+theorem normalized_region_power_bound {q d R L δ : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hd : 0 ≤ d) (hdmax : d ≤ 1 / 8)
+    (hR : 0 < R) (hδ : 0 < δ) {v : Velocity} (hv : transverse v ≠ 0)
+    {ρ : Measure ℝ} [IsProbabilityMeasure ρ] (hρ : AxialMoment ρ L) :
+    normalizedMeasure (sheetLaw d ρ) q v (region v R δ) ≤
+      ENNReal.ofReal (powerValue q L R δ ‖transverse v‖) := by
+  apply (normalized_region_bound hq₁ hq₂ hd hdmax hR hδ hv hρ).trans
+  apply (ENNReal.toReal_le_toReal (by finiteness) ENNReal.ofReal_ne_top).mp
+  have hr : 0 < ‖transverse v‖ := norm_pos_iff.mpr hv
+  have hL := hρ.nonneg
+  have hK := mismatchCoefficient_nonneg hq₁ hq₂ hR.le hδ.le
+  have he := expectationConstant_pos q
+  have ht := tiltConstant_pos
+  have hW := W_pos q v
+  have hbase : 0 ≤ tiltConstant * (4 * L) * (2 * mismatchCoefficient q R δ) := by positivity
+  have hvalue : 0 ≤ powerValue q L R δ ‖transverse v‖ := by unfold powerValue; positivity
+  simp only [ENNReal.toReal_mul, ENNReal.toReal_ofNat,
+    ENNReal.toReal_add (by norm_num : (1 : ℝ≥0∞) ≠ ∞) ENNReal.ofReal_ne_top,
+    ENNReal.toReal_one, ENNReal.toReal_ofReal ht.le,
+    ENNReal.toReal_ofReal (show 0 ≤ 4 * L by positivity),
+    ENNReal.toReal_ofReal (show 0 ≤ mismatchCoefficient q R δ / W q v by positivity),
+    ENNReal.toReal_ofReal (show 0 ≤ expectationConstant q / ‖transverse v‖ by positivity),
+    ENNReal.toReal_ofReal hvalue]
+  have hf := add_le_add (inverse_weight_le_power hr q)
+    (mul_le_mul_of_nonneg_left (regular_fraction_le_power hr q) he.le)
+  have hh := mul_le_mul_of_nonneg_left hf hbase
+  convert hh using 1
+  all_goals try with_reducible_and_instances rfl
+  unfold W singularity
+  simp only [div_eq_mul_inv]
+  ring
+  rfl
+
+theorem power_tendsto_zero {q : ℝ} (hq : 1 < q) (L R δ : ℝ) :
+    Tendsto (fun r => ENNReal.ofReal (powerValue q L R δ r)) (nhds 0) (nhds 0) := by
+  have hqpos := Real.continuous_rpow_const (show 0 ≤ q by linarith)
+  have hqm := Real.continuous_rpow_const (show 0 ≤ q - 1 by linarith)
+  have hc : Continuous (powerValue q L R δ) := by unfold powerValue; fun_prop
+  have hz : powerValue q L R δ 0 = 0 := by
+    unfold powerValue
+    rw [Real.zero_rpow (by linarith : q ≠ 0), Real.zero_rpow (by linarith : q - 1 ≠ 0)]
+    ring
+  have h := (ENNReal.continuous_ofReal.comp hc).tendsto 0
+  simpa only [Function.comp_def, hz, ENNReal.ofReal_zero] using h
+
+/-- The full axial-mismatch limit, uniform in the output axial velocity. -/
+theorem uniform_axis_mismatch {q L δ ε : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hδ : 0 < δ) (hε : 0 < ε) :
+    ∃ η : ℝ, 0 < η ∧ ∀ (d : ℝ) (ρ : Measure ℝ) (_ : IsProbabilityMeasure ρ)
+      (_ : 0 ≤ d) (_ : d ≤ 1 / 8) (_ : AxialMoment ρ L)
+      (v : Velocity) (_ : transverse v ≠ 0) (_ : ‖transverse v‖ ≤ η),
+      normalizedMeasure (sheetLaw d ρ) q v (incoming v δ ×ˢ univ) ≤ ENNReal.ofReal ε := by
+  have he : (0 : ℝ≥0∞) < ENNReal.ofReal (ε / 2) := ENNReal.ofReal_pos.mpr (by linarith)
+  obtain ⟨N, hN⟩ := eventually_atTop.mp
+    ((SheetTightness.tendsto_tailBound q L).eventually (gt_mem_nhds he))
+  have hi := (power_tendsto_zero hq₁ L (2 * ((N : ℝ) + 1)) δ).eventually (gt_mem_nhds he)
+  obtain ⟨r, hr, hsmall⟩ := Metric.eventually_nhds_iff.mp hi
+  refine ⟨r / 2, by linarith, ?_⟩
+  intro d ρ hprob hd hdmax hρ v hv hvsmall
+  have hdist : dist ‖transverse v‖ 0 < r := by
+    rw [Real.dist_eq, sub_zero, abs_of_nonneg (norm_nonneg _)]
+    linarith
+  have hsub : incoming v δ ×ˢ (univ : Set (ℝ × ℝ)) ⊆ SheetTightness.tailRegion v N ∪
+      region v (2 * ((N : ℝ) + 1)) δ := by
+    intro y hy
+    by_cases hh : 2 * ((N : ℝ) + 1) < radius v y
+    · exact Or.inl hh
+    · exact Or.inr ⟨(le_add_of_nonneg_left (norm_nonneg y.1)).trans (le_of_not_gt hh), hy⟩
+  apply (measure_mono hsub).trans
+  apply (measure_union_le _ _).trans
+  calc
+    _ ≤ SheetTightness.tailBound q L N +
+        ENNReal.ofReal (powerValue q L (2 * ((N : ℝ) + 1)) δ ‖transverse v‖) :=
+      add_le_add (SheetTightness.normalized_tail_bound hq₁ hq₂ hd hdmax hv hρ N)
+        (normalized_region_power_bound hq₁ hq₂ hd hdmax (by positivity) hδ hv hρ)
+    _ ≤ ENNReal.ofReal (ε / 2) + ENNReal.ofReal (ε / 2) :=
+      add_le_add (hN N le_rfl).le (hsmall hdist).le
+    _ = ENNReal.ofReal ε := by
+      rw [← ENNReal.ofReal_add (by linarith) (by linarith)]
+      congr 1
+      ring
+
+end BoltzmannNonuniqueness.AxisMismatch
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetBarriers
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The actual unshifted cold-jet density and its mass bound -/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetGeometry
+open BoltzmannNonuniqueness.JetMaskMeasure
+open BoltzmannNonuniqueness.JetAxialWeight
+
+namespace BoltzmannNonuniqueness.JetPrototype
+
+theorem measurable_spatial (η K γ s : ℝ) (a : Bool) : Measurable (spatial η K γ s a) := by
+  unfold spatial axialAmplitude
+  exact (((measurable_const.indicator (measurableSet_mask η s a)).comp measurable_fst).mul
+    (((continuous_const.mul (continuous_S.comp
+      ((continuous_const.mul continuous_id).div_const s))).measurable.indicator measurableSet_Ioo).comp
+      measurable_snd))
+
+theorem measurable_center (α γ s : ℝ) (a : Bool) : Measurable (center α γ s a) := by
+  change Measurable (fun z => SheetMeasures.join (0, AxialFlow.profile (sign a) α γ s z))
+  exact SheetMeasures.join.measurable.comp
+    (measurable_const.prodMk (AxialFlow.continuous_profile _ _ _ _).measurable)
+
+theorem measurable_density (η K α γ s d : ℝ) (a : Bool) :
+    Measurable (density η K α γ s d a) := by
+  unfold density JetThermalLaw.density JetThermalLaw.scaled
+  have hc : Measurable (fun p : Phase => center α γ s a p.1.2) :=
+    (measurable_center α γ s a).comp (measurable_snd.comp measurable_fst)
+  have hv : Measurable (fun p : Phase => d⁻¹ • (p.2 - center α γ s a p.1.2)) :=
+    (measurable_const : Measurable (fun _ : Phase => d⁻¹)).smul (measurable_snd.sub hc)
+  exact ((measurable_spatial η K γ s a).comp measurable_fst).mul
+    (measurable_const.mul (JetThermalKernel.J_smooth.continuous.measurable.comp
+      hv))
+
+end BoltzmannNonuniqueness.JetPrototype
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetPeriodicDatum
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The free cold core in Eulerian coordinates -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.JetPrototype
+open BoltzmannNonuniqueness.JetBarrier
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.JetFreeTransport
+
+theorem measurable_free (η K α γ s d t : ℝ) (a : Bool) :
+    Measurable (free η K α γ s d t a) := by
+  apply (measurable_density η K α γ s d a).comp
+  unfold flight transverse axial
+  fun_prop
+
+end BoltzmannNonuniqueness.JetFreeTransport
+
+end
+
+end
+
+section
+
+/-! # Joint measurability of the transported cold core -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.JetFreeTransport
+
+theorem measurable_joint_free (η K α γ s d : ℝ) (a : Bool) :
+    Measurable (fun p : ℝ × JetPrototype.Phase => free η K α γ s d p.1 a p.2) := by
+  apply (JetPrototype.measurable_density η K α γ s d a).comp
+  unfold JetBarrier.flight VelocityWeight.transverse VelocityWeight.axial
+  fun_prop
+
+theorem measurable_uncurried_free (η K α γ s d : ℝ) (a : Bool) :
+    Measurable (fun p : (ℝ × JetPrototype.Space) × Velocity =>
+      free η K α γ s d p.1.1 a (p.1.2,p.2)) := by
+  let f : ((ℝ × JetPrototype.Space) × Velocity) → ℝ × JetPrototype.Phase :=
+    fun p => (p.1.1,(p.1.2,p.2))
+  have hf : Measurable f :=
+    measurable_fst.fst.prodMk (measurable_fst.snd.prodMk measurable_snd)
+  simpa only [Function.comp_def,f] using (measurable_joint_free η K α γ s d a).comp hf
+
+end BoltzmannNonuniqueness.JetFreeTransport
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetSupersolutions
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The full velocity measure under the thermal-coordinate map -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.AxialFlow
+open BoltzmannNonuniqueness.AxialDerivative
+open BoltzmannNonuniqueness.JetCoreMap
+open BoltzmannNonuniqueness.JetCoreJacobian
+
+namespace BoltzmannNonuniqueness.JetCoreMeasure
+
+theorem jacobian_measurable {α γ s t : ℝ} (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s)
+    (ht : 0 ≤ t) (σ d z : ℝ) : Measurable (jacobian σ α γ s d t z) := by
+  have hf : Measurable (foot σ α γ s t) := (foot_lipschitzWith hα hγ hs ht).continuous.measurable
+  have hS := JetAxialWeight.continuous_S.measurable
+  unfold jacobian A sourceFoot
+  fun_prop
+
+theorem axial_measurePreserving {α γ s d t : ℝ} (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s)
+    (hd : 0 < d) (ht : 0 ≤ t) (σ z : ℝ) :
+    MeasurePreserving (axialMap σ α γ s d t z)
+      (volume.withDensity (fun w => ENNReal.ofReal (jacobian σ α γ s d t z w))) volume := by
+  let hhome := axialHomeomorph hα hγ hs ht hd.ne' σ z
+  have hm := map_withDensity_abs_det_fderiv_eq_addHaar (volume : Measure ℝ)
+    (s := univ) MeasurableSet.univ.nullMeasurableSet
+    (fun w _ => (axialMap_derivative hα hγ hs ht σ d z w).hasDerivWithinAt.hasFDerivWithinAt)
+    hhome.injective.injOn
+  have hr : axialMap σ α γ s d t z '' univ = univ := Set.image_univ ▸ hhome.surjective.range_eq
+  rw [hr, Measure.restrict_univ] at hm
+  simp only [ContinuousLinearMap.det_toSpanSingleton] at hm
+  change Measure.map (axialMap σ α γ s d t z)
+    (volume.withDensity (fun w => ENNReal.ofReal (|jacobian σ α γ s d t z w|))) = volume at hm
+  simp only [abs_of_pos (jacobian_pos hα hγ hs hd ht σ z _)] at hm
+  exact ⟨hhome.continuous.measurable, hm⟩
+
+theorem transverse_measurePreserving {d : ℝ} (hd : 0 < d) :
+    MeasurePreserving (fun w : Transverse => d • w)
+      (ENNReal.ofReal (d ^ 2) • (volume : Measure Transverse)) volume := by
+  refine ⟨by fun_prop, ?_⟩
+  rw [Measure.map_smul, Measure.map_addHaar_smul volume hd.ne', smul_smul]
+  simp only [finrank_euclideanSpace, Fintype.card_fin]
+  rw [← ENNReal.ofReal_mul (sq_nonneg d), abs_of_pos (inv_pos.mpr (sq_pos_of_pos hd)),
+    mul_inv_cancel₀ (ne_of_gt (sq_pos_of_pos hd)), ENNReal.ofReal_one, one_smul]
+
+theorem velocity_measurePreserving {α γ s d t : ℝ} (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s)
+    (hd : 0 < d) (ht : 0 ≤ t) (σ z : ℝ) :
+    MeasurePreserving (velocityMap σ α γ s d t z) (parameterMeasure σ α γ s d t z) volume := by
+  change MeasurePreserving (SheetMeasures.join ∘
+    Prod.map (fun w : Transverse => d • w) (axialMap σ α γ s d t z)) _ _
+  exact HotRectangleDensity.join_measurePreserving.comp
+    ((transverse_measurePreserving hd).prod (axial_measurePreserving hα hγ hs hd ht σ z))
+
+theorem parameterMeasure_eq {α γ s t : ℝ} (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s)
+    (ht : 0 ≤ t) (σ d z : ℝ) :
+    parameterMeasure σ α γ s d t z =
+      ((volume : Measure Transverse).prod volume).withDensity
+        (fun w => ENNReal.ofReal (d ^ 2 * jacobian σ α γ s d t z w.2)) := by
+  unfold parameterMeasure
+  rw [← withDensity_const, prod_withDensity measurable_const (jacobian_measurable hα hγ hs ht σ d z).ennreal_ofReal]
+  congr 1
+  funext w
+  rw [ENNReal.ofReal_mul (sq_nonneg d)]
+
+
+theorem map_withDensity {α γ s d t : ℝ} (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s)
+    (hd : 0 < d) (ht : 0 ≤ t) (σ z : ℝ) {f : Velocity → ℝ≥0∞} (hf : Measurable f) :
+    ((parameterMeasure σ α γ s d t z).withDensity
+      (fun w => f (velocityMap σ α γ s d t z w))).map (velocityMap σ α γ s d t z) =
+      volume.withDensity f := by
+  have h := velocity_measurePreserving hα hγ hs hd ht σ z
+  ext B hB
+  rw [Measure.map_apply h.measurable hB,
+    withDensity_apply _ (hB.preimage h.measurable), withDensity_apply _ hB,
+    ← lintegral_indicator (hB.preimage h.measurable), ← lintegral_indicator hB]
+  convert h.lintegral_comp (hf.indicator hB) using 1
+  all_goals try with_reducible_and_instances rfl
+  apply lintegral_congr
+  intro w
+  rfl
+
+end BoltzmannNonuniqueness.JetCoreMeasure
+
+end
+
+end
+
+section
+
+/-! # The exact compressed density of a transported cold core -/
+
+noncomputable section
+
+open MeasureTheory Set
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetPrototype
+open BoltzmannNonuniqueness.JetCoreMap
+open BoltzmannNonuniqueness.JetCoreJacobian
+open BoltzmannNonuniqueness.JetCoreMeasure
+open BoltzmannNonuniqueness.JetAxialWeight
+
+namespace BoltzmannNonuniqueness.JetCoreDensity
+
+theorem thermal_argument {α d : ℝ} (hα : 0 ≤ α) (hd : d ≠ 0)
+    (γ s t : ℝ) (a : Bool) (x : Space) (w : Transverse × ℝ) :
+    d⁻¹ • (velocityMap (sign a) α γ s d t x.2 w -
+      center α γ s a (x.2 - t * axialMap (sign a) α γ s d t x.2 w.2)) =
+      SheetMeasures.join w := by
+  have ha := axialMap_spec hα (sign a) γ s d t x.2 w.2
+  apply split.injective
+  rw [split_apply, split_apply]
+  apply Prod.ext
+  · change d⁻¹ * (axial (velocityMap (sign a) α γ s d t x.2 w) -
+        axial (center α γ s a (x.2 - t * axialMap (sign a) α γ s d t x.2 w.2))) =
+        axial (SheetMeasures.join w)
+    simp only [velocityMap, JetPrototype.center, PlaneChart.axial_join]
+    change d⁻¹ * (axialMap (sign a) α γ s d t x.2 w.2 -
+        AxialFlow.profile (sign a) α γ s (x.2 - t * axialMap (sign a) α γ s d t x.2 w.2)) = w.2
+    have hz : axialMap (sign a) α γ s d t x.2 w.2 -
+        AxialFlow.profile (sign a) α γ s (x.2 - t * axialMap (sign a) α γ s d t x.2 w.2) =
+        d * w.2 := by linarith
+    rw [hz]
+    field_simp
+  · have ht : ∀ (c : ℝ) (v : Velocity), transverse (c • v) = c • transverse v := by
+      intro c v
+      apply (WithLp.ext_iff 2).mpr
+      rfl
+    rw [ht, PlaneChart.transverse_sub]
+    simp only [velocityMap, JetPrototype.center, PlaneChart.transverse_join, sub_zero, smul_smul,
+      inv_mul_cancel₀ hd, one_smul]
+    exact (PlaneChart.transverse_join w.1 w.2).symm
+
+theorem density_identity {α γ s d t : ℝ} (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s)
+    (hd : 0 < d) (ht : 0 ≤ t) (η K : ℝ) (a : Bool) (x : Space) (w : Transverse × ℝ) :
+    (d ^ 2 * jacobian (sign a) α γ s d t x.2 w.2) *
+      JetFreeTransport.free η K α γ s d t a (x, velocityMap (sign a) α γ s d t x.2 w) =
+      weight η K α γ s d t a x w := by
+  have hthermal := thermal_argument hα hd.ne' γ s t a x w
+  have hfoot := sourceFoot_eq (sign a) α γ s d t x.2 w.2
+  have hf : JetFreeTransport.free η K α γ s d t a
+        (x, velocityMap (sign a) α γ s d t x.2 w) =
+      spatial η K γ s a (x.1 - t • (d • w.1),
+        x.2 - t * axialMap (sign a) α γ s d t x.2 w.2) *
+        ((d ^ 3)⁻¹ * JetThermalKernel.J (SheetMeasures.join w)) := by
+    unfold JetFreeTransport.free density JetThermalLaw.density JetThermalLaw.scaled
+    simp only [JetBarrier.flight, velocityMap, PlaneChart.transverse_join, PlaneChart.axial_join,
+      neg_smul, neg_mul, ← sub_eq_add_neg]
+    unfold velocityMap at hthermal
+    rw [hthermal]
+  rw [hf]
+  unfold spatial axialAmplitude weight
+  rw [hfoot]
+  by_cases hy : x.1 - t • (d • w.1) ∈ JetGeometry.mask η s a
+  · by_cases hz : x.2 - t * axialMap (sign a) α γ s d t x.2 w.2 ∈ Ioo (-(1 / 8 : ℝ)) (1 / 8)
+    · simp only [indicator_of_mem hy, indicator_of_mem hz, one_mul]
+      have hc : d ^ 2 * jacobian (sign a) α γ s d t x.2 w.2 *
+          ((K / s) * S (γ * (x.2 - t * axialMap (sign a) α γ s d t x.2 w.2) / s) * (d ^ 3)⁻¹) =
+          compressed K α γ s t (x.2 - t * axialMap (sign a) α γ s d t x.2 w.2) := by
+        have ha := AxialDerivative.A_nonneg hα hγ hs.le
+          (sourceFoot (sign a) α γ s d t x.2 w.2)
+        have hden : 1 + t * AxialDerivative.A α γ s
+            (sourceFoot (sign a) α γ s d t x.2 w.2) ≠ 0 := by positivity
+        have hden' : s + t * α * γ * S
+            (γ * (x.2 - t * axialMap (sign a) α γ s d t x.2 w.2) / s) ≠ 0 := by
+          have := S_pos (γ * (x.2 - t * axialMap (sign a) α γ s d t x.2 w.2) / s)
+          positivity
+        unfold jacobian AxialDerivative.A at hden ⊢
+        rw [hfoot] at hden ⊢
+        unfold compressed
+        field_simp
+      calc
+        _ = (d ^ 2 * jacobian (sign a) α γ s d t x.2 w.2 *
+          ((K / s) * S (γ * (x.2 - t * axialMap (sign a) α γ s d t x.2 w.2) / s) * (d ^ 3)⁻¹)) *
+          JetThermalKernel.J (SheetMeasures.join w) := by ring
+        _ = _ := by rw [hc]
+    · simp only [indicator_of_notMem hz, mul_zero, zero_mul]
+  · simp only [indicator_of_notMem hy, mul_zero, zero_mul]
+
+
+theorem weight_bound {K α γ s t : ℝ} (hK : 0 ≤ K) (hα : 0 < α)
+    (hγ : 0 < γ) (hs : 0 < s) (ht : 0 ≤ t)
+    (η d : ℝ) (a : Bool) (x : Space) (w : Transverse × ℝ) :
+    weight η K α γ s d t a x w ≤
+      ((K * max 1 (α * γ)⁻¹) / (s + t)) * JetThermalKernel.J (SheetMeasures.join w) := by
+  have hc := compressed_bound hK hα hγ hs ht
+    (sourceFoot (sign a) α γ s d t x.2 w.2)
+  have hj := JetThermalKernel.J_nonneg (SheetMeasures.join w)
+  unfold weight
+  by_cases hy : x.1 - t • (d • w.1) ∈ JetGeometry.mask η s a
+  · by_cases hz : sourceFoot (sign a) α γ s d t x.2 w.2 ∈ Ioo (-(1 / 8 : ℝ)) (1 / 8)
+    · simp only [indicator_of_mem hy, indicator_of_mem hz, one_mul]
+      exact mul_le_mul_of_nonneg_right hc hj
+    · simp only [indicator_of_notMem hz, mul_zero, zero_mul]
+      positivity
+  · simp only [indicator_of_notMem hy, zero_mul]
+    positivity
+
+theorem measure_identity {α γ s d t : ℝ} (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s)
+    (hd : 0 < d) (ht : 0 ≤ t) (η K : ℝ) (a : Bool) (x : Space) :
+    (((volume : Measure Transverse).prod volume).withDensity
+      (fun w => ENNReal.ofReal (weight η K α γ s d t a x w))).map
+        (velocityMap (sign a) α γ s d t x.2) =
+      volume.withDensity (fun v => ENNReal.ofReal (JetFreeTransport.free η K α γ s d t a (x, v))) := by
+  have hf : Measurable (fun v => ENNReal.ofReal (JetFreeTransport.free η K α γ s d t a (x, v))) :=
+    ((JetFreeTransport.measurable_free η K α γ s d t a).comp
+      (measurable_const.prodMk measurable_id)).ennreal_ofReal
+  have hmap := JetCoreMeasure.map_withDensity hα hγ hs hd ht (sign a) x.2 hf
+  have hmeas := (velocity_measurePreserving hα hγ hs hd ht (sign a) x.2).measurable
+  have heq : (parameterMeasure (sign a) α γ s d t x.2).withDensity
+      (fun w => ENNReal.ofReal (JetFreeTransport.free η K α γ s d t a
+        (x, velocityMap (sign a) α γ s d t x.2 w))) =
+      ((volume : Measure Transverse).prod volume).withDensity
+        (fun w => ENNReal.ofReal (weight η K α γ s d t a x w)) := by
+    rw [parameterMeasure_eq hα hγ hs ht]
+    have hjm : Measurable (fun w : Transverse × ℝ =>
+        ENNReal.ofReal (d ^ 2 * jacobian (sign a) α γ s d t x.2 w.2)) :=
+      (measurable_const.mul ((jacobian_measurable hα hγ hs ht (sign a) d x.2).comp
+        measurable_snd)).ennreal_ofReal
+    have hfg : Measurable (fun w => ENNReal.ofReal (JetFreeTransport.free η K α γ s d t a
+        (x, velocityMap (sign a) α γ s d t x.2 w))) := hf.comp hmeas
+    rw [← withDensity_mul _ hjm hfg]
+    congr 1
+    funext w
+    change ENNReal.ofReal (d ^ 2 * jacobian (sign a) α γ s d t x.2 w.2) * _ = _
+    rw [← ENNReal.ofReal_mul (mul_nonneg (sq_nonneg d)
+      (jacobian_pos hα hγ hs hd ht (sign a) x.2 w.2).le),
+      density_identity hα hγ hs hd ht]
+  rw [heq] at hmap
+  exact hmap
+
+end BoltzmannNonuniqueness.JetCoreDensity
+
+end
+
+end
+
+section
+
+/-! # Gaussian parameter laws for the actual axial core map -/
+
+noncomputable section
+
+open MeasureTheory
+open scoped NNReal
+open BoltzmannNonuniqueness.AxialFlow
+open BoltzmannNonuniqueness.JetCoreMap
+
+namespace BoltzmannNonuniqueness.JetAxialLaw
+
+theorem axialMap_abs_le {α d : ℝ} (hα : 0 ≤ α) (hd : 0 ≤ d)
+    (σ γ s t z w : ℝ) : |axialMap σ α γ s d t z w| ≤ (|σ| + α) + d * |w| := by
+  have hv := AxialTransport.velocity_abs_le (σ := σ) (γ := γ) (s := s)
+    (t := t) (z := z - t * d * w) hα
+  have h := abs_add_le (d * w) (velocity σ α γ s t (z - t * d * w))
+  rw [abs_mul, abs_of_nonneg hd] at h
+  unfold axialMap
+  linarith
+
+theorem probability (σ α γ s d t z : ℝ) : IsProbabilityMeasure (law σ α γ s d t z) := by
+  unfold law
+  first | (set_option synthInstance.maxHeartbeats 20000 in infer_instance) | exact Measure.isProbabilityMeasure_map (by first | fun_prop | assumption | (apply Measurable.aemeasurable; solve_by_elim) | (apply Continuous.aemeasurable; solve_by_elim) | (apply MeasureTheory.MeasurePreserving.aemeasurable; solve_by_elim) | (apply MeasureTheory.Measure.QuasiMeasurePreserving.aemeasurable; solve_by_elim) | exact (continuous_eval_const _).aemeasurable | (apply Measurable.aemeasurable; measurability) | measurability)
+
+theorem moment {α γ s d t : ℝ} (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s)
+    (hd : 0 < d) (hdmax : d ≤ 1 / 16) (ht : 0 ≤ t) (σ z : ℝ) :
+    SheetMeasures.AxialMoment (law σ α γ s d t z)
+      (2 * Real.exp (16 * (|σ| + α) ^ 2)) := by
+  have hm : Measurable (axialMap σ α γ s d t z) :=
+    (axialHomeomorph hα hγ hs ht hd.ne' σ z).continuous.measurable
+  have hb := axialMap_abs_le hα hd.le σ γ s t z
+  exact ⟨GaussianSheets.integrable_axialLaw_exp (by norm_num : (1 / 2 : ℝ≥0) ≠ 0)
+      (by norm_num) (by positivity) hd.le hdmax hm hb,
+    GaussianSheets.integral_axialLaw_exp_le (by norm_num : (1 / 2 : ℝ≥0) ≠ 0)
+      (by norm_num) (by positivity) hd.le hdmax hm hb⟩
+
+end BoltzmannNonuniqueness.JetAxialLaw
+
+end
+
+end
+
+section
+
+/-! # Gaussian product domination in the actual core coordinates -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal NNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.GaussianDiskMixture
+open BoltzmannNonuniqueness.JetCoreMap
+open BoltzmannNonuniqueness.JetCoreMeasure
+
+namespace BoltzmannNonuniqueness.JetGaussianProduct
+
+theorem density_eq (w : Transverse × ℝ) :
+    density w = (Real.pi * Real.sqrt Real.pi)⁻¹ * Real.exp (-‖SheetMeasures.join w‖ ^ 2) := by
+  unfold density
+  rw [GaussianSheets.original_gaussian_density]
+  simp only [gaussianDensity, one_pow, mul_one, div_one]
+  rw [SheetMeasures.norm_join_sq]
+  rw [show -(‖w.1‖ ^ 2 + w.2 ^ 2) = -‖w.1‖ ^ 2 + -w.2 ^ 2 by ring, Real.exp_add]
+  field_simp
+
+theorem density_nonneg (w : Transverse × ℝ) : 0 ≤ density w := by
+  rw [density_eq]
+  positivity
+
+theorem kernel_bound (w : Transverse × ℝ) :
+    JetThermalKernel.J (SheetMeasures.join w) ≤ coefficient * density w := by
+  have hC : 0 ≤ coefficient := by
+    unfold coefficient
+    have := JetThermalKernel.bound_pos
+    positivity
+  by_cases hw : 1 ≤ ‖SheetMeasures.join w‖
+  · rw [JetThermalKernel.J_zero hw]
+    exact mul_nonneg hC (density_nonneg w)
+  · have hnorm : ‖SheetMeasures.join w‖ ^ 2 ≤ 1 := by
+      nlinarith [norm_nonneg (SheetMeasures.join w)]
+    have he : 1 ≤ Real.exp (1 - ‖SheetMeasures.join w‖ ^ 2) :=
+      Real.one_le_exp_iff.mpr (by linarith)
+    calc
+      _ ≤ JetThermalKernel.bound := JetThermalKernel.J_le _
+      _ ≤ JetThermalKernel.bound * Real.exp (1 - ‖SheetMeasures.join w‖ ^ 2) := by
+        simpa only [mul_one] using mul_le_mul_of_nonneg_left he JetThermalKernel.bound_pos.le
+      _ = coefficient * density w := by
+        rw [density_eq, sub_eq_add_neg, Real.exp_add]
+        unfold coefficient
+        field_simp
+
+theorem gaussian_scaling {d : ℝ} (hd : 0 < d) (w : Transverse) :
+    d ^ 2 * gaussianDensity d (d • w) = gaussianDensity 1 w := by
+  unfold gaussianDensity
+  rw [norm_smul, Real.norm_eq_abs, abs_of_pos hd]
+  have he : -(d * ‖w‖) ^ 2 / d ^ 2 = -‖w‖ ^ 2 := by field_simp
+  rw [he]
+  simp only [one_pow, mul_one, div_one]
+  field_simp
+
+theorem gaussianLaw_map_smul {d : ℝ} (hd : 0 < d) :
+    (gaussianLaw 1).map (fun w => d • w) = gaussianLaw d := by
+  have hm := transverse_measurePreserving hd
+  have hf : Measurable (fun w => ENNReal.ofReal (gaussianDensity d w)) := by
+    unfold gaussianDensity
+    fun_prop
+  have hfg : Measurable (fun w => ENNReal.ofReal (gaussianDensity d (d • w))) :=
+    hf.comp hm.measurable
+  have heq : gaussianLaw 1 =
+      (ENNReal.ofReal (d ^ 2) • (volume : Measure Transverse)).withDensity
+        (fun w => ENNReal.ofReal (gaussianDensity d (d • w))) := by
+    rw [withDensity_smul_measure, ← withDensity_smul _ hfg]
+    unfold gaussianLaw
+    congr 1
+    funext w
+    change ENNReal.ofReal (gaussianDensity 1 w) = ENNReal.ofReal (d ^ 2) * _
+    rw [← ENNReal.ofReal_mul (sq_nonneg d), gaussian_scaling hd]
+  rw [heq]
+  ext B hB
+  rw [Measure.map_apply hm.measurable hB,
+    withDensity_apply _ (hB.preimage hm.measurable), gaussianLaw, withDensity_apply _ hB,
+    ← lintegral_indicator (hB.preimage hm.measurable), ← lintegral_indicator hB]
+  convert hm.lintegral_comp (hf.indicator hB) using 1
+  all_goals try with_reducible_and_instances rfl
+  apply lintegral_congr
+  intro w
+  rfl
+
+theorem parameterLaw_density : parameterLaw =
+    ((volume : Measure Transverse).prod volume).withDensity (fun w => ENNReal.ofReal (density w)) := by
+  unfold parameterLaw gaussianLaw
+  rw [gaussianReal_of_var_ne_zero 0 (by norm_num : (1 / 2 : ℝ≥0) ≠ 0)]
+  rw [prod_withDensity (by unfold gaussianDensity; fun_prop) (measurable_gaussianPDF 0 (1 / 2))]
+  congr 1
+  funext w
+  rw [density, ENNReal.ofReal_mul (gaussianDensity_nonneg _ _)]
+  rfl
+
+theorem parameterLaw_map {α γ s d t : ℝ} (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s)
+    (hd : 0 < d) (ht : 0 ≤ t) (σ z : ℝ) :
+    parameterLaw.map (velocityMap σ α γ s d t z) =
+      SheetMeasures.sheetLaw d (JetAxialLaw.law σ α γ s d t z) := by
+  have hm : Measurable (axialMap σ α γ s d t z) := (axialHomeomorph hα hγ hs ht hd.ne' σ z).continuous.measurable
+  let : IsProbabilityMeasure (gaussianLaw 1) := gaussianLaw_isProbabilityMeasure (by norm_num)
+  unfold parameterLaw SheetMeasures.sheetLaw SheetMeasures.transverseLaw JetAxialLaw.law
+    GaussianSheets.axialLaw
+  rw [if_pos hm.aemeasurable]
+  rw [ite_eq_right hd.ne', ← gaussianLaw_map_smul hd, Measure.map_prod_map _ _ (by fun_prop) hm,
+    Measure.map_map SheetMeasures.join.measurable (by fun_prop)]
+  rfl
+
+end BoltzmannNonuniqueness.JetGaussianProduct
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_NormalizedKernelAction
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The normalized Carleman gain as a measurable velocity kernel -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal ProbabilityTheory
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.ChartKernel
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem coordinateKernel_apply (c : Kernel X Velocity) [IsSFiniteKernel c]
+    (q : ℝ) (z : X × Velocity) :
+    coordinateKernel c q z = normalizedMeasure (c z.1) q z.2 := by
+  rw [coordinateKernel,Kernel.withDensity_apply _ (measurable_lifted_density q),Kernel.prod_apply]
+  rfl
+
+theorem inputKernel_mass (c : Kernel X Velocity) [IsSFiniteKernel c] (q : ℝ) (z : X × Velocity) :
+    inputKernel c q z univ = normalizedChartGain (c z.1) q z.2 := by
+  change ((coordinateKernel c q z).map (fun y => PlaneChart.chart z.2 y.1 y.2.1 y.2.2)) univ = _
+  rw [Measure.map_apply (measurable_point z.2) MeasurableSet.univ]
+  simp only [preimage_univ,coordinateKernel_apply,normalized_total_eq]
+
+end BoltzmannNonuniqueness.ChartKernel
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetEnvelopeTimeIntegral
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The transported core is dominated by an admissible Gaussian sheet -/
+
+noncomputable section
+
+open MeasureTheory
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetPrototype
+open BoltzmannNonuniqueness.JetCoreMeasure
+open BoltzmannNonuniqueness.ChartKernel
+
+namespace BoltzmannNonuniqueness.JetCoreSheet
+
+theorem amplitude_nonneg {K s t : ℝ} (hK : 0 ≤ K) (hs : 0 < s) (ht : 0 ≤ t) (α γ : ℝ) :
+    0 ≤ amplitude K α γ s t := by
+  have := JetThermalKernel.bound_pos
+  unfold amplitude JetGaussianProduct.coefficient
+  positivity
+
+theorem parameter_bound {K α γ s t : ℝ} (hK : 0 ≤ K) (hα : 0 < α)
+    (hγ : 0 < γ) (hs : 0 < s) (ht : 0 ≤ t)
+    (η d : ℝ) (a : Bool) (x : Space) (w : Transverse × ℝ) :
+    JetCoreDensity.weight η K α γ s d t a x w ≤
+      amplitude K α γ s t * JetGaussianProduct.density w := by
+  apply (JetCoreDensity.weight_bound hK hα hγ hs ht η d a x w).trans
+  calc
+    _ ≤ ((K * max 1 (α * γ)⁻¹) / (s + t)) *
+        (JetGaussianProduct.coefficient * JetGaussianProduct.density w) :=
+      mul_le_mul_of_nonneg_left (JetGaussianProduct.kernel_bound w) (by positivity)
+    _ = _ := by unfold amplitude; ring
+
+theorem measure_domination {K α γ s d t : ℝ} (hK : 0 ≤ K) (hα : 0 < α)
+    (hγ : 0 < γ) (hs : 0 < s) (hd : 0 < d) (ht : 0 ≤ t)
+    (η : ℝ) (a : Bool) (x : Space) :
+    volume.withDensity (fun v => ENNReal.ofReal (JetFreeTransport.free η K α γ s d t a (x, v))) ≤
+      ENNReal.ofReal (amplitude K α γ s t) •
+        SheetMeasures.sheetLaw d (JetAxialLaw.law (sign a) α γ s d t x.2) := by
+  rw [← JetCoreDensity.measure_identity hα.le hγ.le hs hd ht,
+    ← JetGaussianProduct.parameterLaw_map hα.le hγ.le hs hd ht]
+  have hm := (velocity_measurePreserving hα.le hγ.le hs hd ht (sign a) x.2).measurable
+  rw [← Measure.map_smul]
+  apply Measure.map_mono _ hm
+  rw [JetGaussianProduct.parameterLaw_density]
+  have hg : Measurable (fun w => ENNReal.ofReal (JetGaussianProduct.density w)) := by
+    unfold JetGaussianProduct.density GaussianDiskMixture.gaussianDensity
+    fun_prop
+  rw [← withDensity_smul _ hg]
+  apply withDensity_mono
+  filter_upwards [] with w
+  change ENNReal.ofReal (JetCoreDensity.weight η K α γ s d t a x w) ≤
+    ENNReal.ofReal (amplitude K α γ s t) * ENNReal.ofReal (JetGaussianProduct.density w)
+  rw [← ENNReal.ofReal_mul (amplitude_nonneg hK hs ht α γ)]
+  exact ENNReal.ofReal_le_ofReal (parameter_bound hK hα hγ hs ht η d a x w)
+
+end BoltzmannNonuniqueness.JetCoreSheet
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_FreeCoreGainKernel
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.coldCylinderVolume_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # The actual free cold core supplies a normalized positive gain kernel -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.JetCoreSheet
+
+theorem coreKernel_apply (η K α γ s d : ℝ) (a : Bool) (p : ℝ × JetPrototype.Space) :
+    coreKernel η K α γ s d a p = volume.withDensity
+      (fun v => ENNReal.ofReal (JetFreeTransport.free η K α γ s d p.1 a (p.2,v))) :=
+  Kernel.withDensity_apply _
+    (JetFreeTransport.measurable_uncurried_free η K α γ s d a).ennreal_ofReal p
+
+end BoltzmannNonuniqueness.JetCoreSheet
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_AxialSecondMismatch
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Dilation identities for the implicit axial flow and compressed core -/
+
+noncomputable section
+
+open Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.AxialFlow
+
+theorem profile_dilation {r : ℝ} (hr : r ≠ 0) (σ α γ s z : ℝ) :
+    profile σ α γ (r*s) (r*z) = profile σ α γ s z := by
+  unfold profile
+  congr 2
+  field_simp
+
+theorem velocity_dilation {r α γ s t : ℝ} (hr : 0 < r)
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (ht : 0 ≤ t) (σ z : ℝ) :
+    velocity σ α γ (r*s) (r*t) (r*z) = velocity σ α γ s t z := by
+  symm
+  apply velocity_unique hα hγ (mul_pos hr hs) (mul_nonneg hr.le ht)
+  rw [show r*z-r*t*velocity σ α γ s t z = r*(z-t*velocity σ α γ s t z) by ring,
+    profile_dilation hr.ne']
+  exact velocity_spec hα
+
+end BoltzmannNonuniqueness.AxialFlow
+
+end
+
+end
+
+section
+
+/-! # The three collapsed axial speeds, uniformly for positive times -/
+
+noncomputable section
+
+namespace BoltzmannNonuniqueness.AxialFlow
+
+theorem velocity_collapsed_uniform {α γ a ε : ℝ}
+    (hα : 0 < α) (hγ : 0 < γ) (ha : 0 < a) (hε : 0 < ε) :
+    ∃ μ₀ : ℝ, 0 < μ₀ ∧ ∀ (σ s t z : ℝ), 0 < s → s < μ₀ → a ≤ t →
+      |velocity σ α γ s t z-(σ-α)| < ε ∨
+      |velocity σ α γ s t z-(σ+α)| < ε ∨
+      |velocity σ α γ s t z-z/t| < ε := by
+  let C := interiorArgumentBound (1-(ε/2)/α)/(γ*a)
+  have hC : 0 ≤ C := div_nonneg (interiorArgumentBound_nonneg _) (mul_pos hγ ha).le
+  refine ⟨ε/(C+1),div_pos hε (by positivity),?_⟩
+  intro σ s t z hs hs₀ ht
+  by_cases hl : |velocity σ α γ s t z-(σ-α)| < ε
+  · exact Or.inl hl
+  by_cases hu : |velocity σ α γ s t z-(σ+α)| < ε
+  · exact Or.inr (Or.inl hu)
+  right; right
+  have hb := abs_le.mp (velocity_sub_center_le (σ := σ) (γ := γ) (s := s)
+    (t := t) (z := z) hα.le)
+  have hlow : ε/2 ≤ velocity σ α γ s t z-(σ-α) := by
+    rw [abs_of_nonneg (by linarith : 0 ≤ velocity σ α γ s t z-(σ-α))] at hl
+    linarith
+  have hupp : ε/2 ≤ (σ+α)-velocity σ α γ s t z := by
+    rw [abs_of_nonpos (by linarith : velocity σ α γ s t z-(σ+α) ≤ 0)] at hu
+    linarith
+  have h := velocity_interior_small_scale hα hγ ha (half_pos hε) hs ht hlow hupp
+  have hsC := (lt_div_iff₀ (show 0 < C+1 by positivity)).mp hs₀
+  exact h.trans_lt (by change C*s < ε; nlinarith)
+
+theorem thermal_velocity_collapsed_uniform {α γ a ε : ℝ}
+    (hα : 0 < α) (hγ : 0 < γ) (ha : 0 < a) (hε : 0 < ε) :
+    ∃ μ₀ : ℝ, 0 < μ₀ ∧ ∀ (σ s d t z w : ℝ), 0 < s → s < μ₀ → a ≤ t →
+      |d*w| < ε/2 →
+      |JetCoreMap.axialMap σ α γ s d t z w-(σ-α)| < ε ∨
+      |JetCoreMap.axialMap σ α γ s d t z w-(σ+α)| < ε ∨
+      |JetCoreMap.axialMap σ α γ s d t z w-z/t| < ε := by
+  obtain ⟨μ₀,hμ₀,hμ⟩ := velocity_collapsed_uniform hα hγ ha (half_pos hε)
+  refine ⟨μ₀,hμ₀,?_⟩
+  intro σ s d t z w hs hs₀ ht hd
+  have he := thermal_velocity_error hα.le hγ.le hs (ha.le.trans ht)
+    (JetCoreMap.axialMap_spec hα.le σ γ s d t z w)
+  have hadd (c : ℝ) (hc : |velocity σ α γ s t z-c| < ε/2) :
+      |JetCoreMap.axialMap σ α γ s d t z w-c| < ε := by
+    have hh := abs_sub_le (JetCoreMap.axialMap σ α γ s d t z w)
+      (velocity σ α γ s t z) c
+    linarith
+  rcases hμ σ s t z hs hs₀ ht with h | h | h
+  · exact Or.inl (hadd _ h)
+  · exact Or.inr (Or.inl (hadd _ h))
+  · exact Or.inr (Or.inr (hadd _ h))
+
+end BoltzmannNonuniqueness.AxialFlow
+
+end
+
+end
+
+section
+
+/-! # Uniform second-collision mismatch away from the exceptional axial speeds -/
+
+noncomputable section
+
+namespace BoltzmannNonuniqueness.AxialFlow
+
+theorem ballistic_axial_gap_identity {t₁ t₂ : ℝ} (ht₁ : t₁ ≠ 0) (ht₂ : t₂ ≠ 0)
+    (z w : ℝ) :
+    w-(z-(t₁-t₂)*w)/t₂ = (t₁/t₂)*(w-z/t₁) := by
+  field_simp
+  ring
+
+theorem ballistic_axial_gap {t₁ t₂ : ℝ} (ht₂ : 0 < t₂) (htt : t₂ ≤ t₁)
+    (z w : ℝ) :
+    |w-z/t₁| ≤ |w-(z-(t₁-t₂)*w)/t₂| := by
+  have ht₁ : 0 < t₁ := lt_of_lt_of_le ht₂ htt
+  rw [ballistic_axial_gap_identity ht₁.ne' ht₂.ne',abs_mul,
+    abs_of_pos (div_pos ht₁ ht₂)]
+  have hr : 1 ≤ t₁/t₂ := (le_div_iff₀ ht₂).mpr (by simpa using htt)
+  nlinarith [abs_nonneg (w-z/t₁)]
+
+/-- A gap at the first collision persists at the next collision up to the thermal error. -/
+theorem thermal_second_gap {σ α γ s t₁ t₂ z w d ω b : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (ht₂ : 0 ≤ t₂) (htt : t₂ ≤ t₁)
+    (hgap : b ≤ |w-velocity σ α γ s t₁ z|) (herr : |d*ω| ≤ b/2) :
+    b/2 ≤ |w-JetCoreMap.axialMap σ α γ s d t₂ (z-(t₁-t₂)*w) ω| := by
+  have hm := characteristic_matching (σ := σ) (z := z) (w := w) hα hγ hs ht₂ htt
+  have he := thermal_velocity_error hα hγ hs ht₂
+    (JetCoreMap.axialMap_spec hα σ γ s d t₂ (z-(t₁-t₂)*w) ω)
+  have htri := abs_sub_le w
+    (JetCoreMap.axialMap σ α γ s d t₂ (z-(t₁-t₂)*w) ω)
+    (velocity σ α γ s t₂ (z-(t₁-t₂)*w))
+  linarith
+
+/-- Small scales need only exclude the two endpoint speeds and the ballistic speed
+at the first collision. The scale threshold is independent of both collision positions. -/
+theorem small_scale_second_gap {α γ a δ : ℝ}
+    (hα : 0 < α) (hγ : 0 < γ) (ha : 0 < a) (hδ : 0 < δ) :
+    ∃ μ₀ : ℝ, 0 < μ₀ ∧ ∀ (σ s d t₁ t₂ z w ω : ℝ),
+      0 < s → s < μ₀ → a ≤ t₂ → t₂ ≤ t₁ → |d*ω| < δ/4 →
+      δ ≤ |w-(σ-α)| → δ ≤ |w-(σ+α)| → δ ≤ |w-z/t₁| →
+      δ/2 ≤ |w-JetCoreMap.axialMap σ α γ s d t₂ (z-(t₁-t₂)*w) ω| := by
+  obtain ⟨μ₀,hμ₀,hμ⟩ := thermal_velocity_collapsed_uniform hα hγ ha (half_pos hδ)
+  refine ⟨μ₀,hμ₀,?_⟩
+  intro σ s d t₁ t₂ z w ω hs hs₀ ht₂ htt herr hlo hhi hball
+  have herr' : |d*ω| < (δ/2)/2 := by linarith
+  have hb := ballistic_axial_gap (ha.trans_le ht₂) htt z w
+  have hc := hμ σ s d t₂ (z-(t₁-t₂)*w) ω hs hs₀ ht₂ herr'
+  rcases hc with hc | hc | hc
+  · have h := abs_sub_le w
+      (JetCoreMap.axialMap σ α γ s d t₂ (z-(t₁-t₂)*w) ω) (σ-α)
+    linarith
+  · have h := abs_sub_le w
+      (JetCoreMap.axialMap σ α γ s d t₂ (z-(t₁-t₂)*w) ω) (σ+α)
+    linarith
+  · have h := abs_sub_le w
+      (JetCoreMap.axialMap σ α γ s d t₂ (z-(t₁-t₂)*w) ω) ((z-(t₁-t₂)*w)/t₂)
+    linarith
+
+end BoltzmannNonuniqueness.AxialFlow
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetCoreConvergence
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Mixed gain of the complete cold supersolution -/
+
+noncomputable section
+
+open MeasureTheory
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetPrototype
+open BoltzmannNonuniqueness.ChartKernel
+
+namespace BoltzmannNonuniqueness.JetEnvelopeGain
+
+theorem thermal_width_le {d₀ s : ℝ} (hd₀max : d₀ ≤ 1) (hs : 0 ≤ s) (hsmax : s ≤ 1 / 8) :
+    d₀ * s ^ 10 ≤ 1 / 16 := by
+  calc
+    _ ≤ 1 * (1 / 8 : ℝ) ^ 10 := mul_le_mul hd₀max (pow_le_pow_left₀ hs hsmax 10)
+      (pow_nonneg hs _) (by norm_num)
+    _ ≤ _ := by norm_num
+
+end BoltzmannNonuniqueness.JetEnvelopeGain
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_JetCoreMomentBound
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Arbitrary-power bounds for the complete escaped-barrier sum -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+open BoltzmannNonuniqueness.JetGeometry
+open BoltzmannNonuniqueness.JetPrototype
+open BoltzmannNonuniqueness.JetBarrier
+open BoltzmannNonuniqueness.JetLattice
+open BoltzmannNonuniqueness.JetSpatialBox
+open BoltzmannNonuniqueness.JetLatticeTail
+
+namespace BoltzmannNonuniqueness.JetEscapedTotal
+
+theorem scale_bound {s₀ η : ℝ} (hs₀ : 0 < s₀) (hη : 0 < η) (j : ℕ) :
+    jetScale s₀ η j ≤ s₀ := by
+  have h := scale_antitone hs₀.le hη.le (show 0 ≤ j + 1 by omega)
+  simpa only [jetScale, DatumBounds.scale, Nat.cast_zero, neg_zero, zero_mul, Real.exp_zero, mul_one] using h
+
+end BoltzmannNonuniqueness.JetEscapedTotal
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_OffAxisBoxExhaustion
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Choosing a bounded representative of a collision kernel on the null axis -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.ChartKernel
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem offAxis_apply (K : Kernel (X × Velocity) Velocity) (z : X × Velocity)
+    (hz : transverse z.2 ≠ 0) : offAxis K z = K z := by
+  classical
+  simp [offAxis,Kernel.piecewise_apply,hz]
+
+theorem offAxis_axis (K : Kernel (X × Velocity) Velocity) (z : X × Velocity)
+    (hz : transverse z.2 = 0) : offAxis K z = 0 := by
+  classical
+  simp [offAxis,Kernel.piecewise_apply,hz]
+
+end BoltzmannNonuniqueness.ChartKernel
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_FreeCoreMismatch
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Transferring normalized sheet regions to the actual free core -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.JetCoreSheet
+
+theorem core_region_bound {K α γ s d t q : ℝ} (hK : 0 ≤ K) (hα : 0 < α)
+    (hγ : 0 < γ) (hs : 0 < s) (hd : 0 < d) (ht : 0 ≤ t)
+    (η : ℝ) (a : Bool) (x : JetPrototype.Space) (v : Velocity)
+    (E : Set ChartKernel.Coordinates) {B : ℝ≥0∞}
+    (hB : ChartKernel.normalizedMeasure
+      (SheetMeasures.sheetLaw d (JetAxialLaw.law (JetPrototype.sign a) α γ s d t x.2)) q v E ≤ B) :
+    ChartKernel.normalizedMeasure (coreKernel η K α γ s d a (t,x)) q v E ≤
+      ENNReal.ofReal (amplitude K α γ s t)*B := by
+  rw [coreKernel_apply]
+  have h := ChartKernel.measure_mono_incoming
+    (measure_domination hK hα hγ hs hd ht η a x)
+    (fun ξ => ENNReal.ofReal (H q ξ/H q v)) v E
+  rw [ChartKernel.measure_smul,Measure.smul_apply,smul_eq_mul] at h
+  exact h.trans (mul_le_mul' le_rfl hB)
+
+end BoltzmannNonuniqueness.JetCoreSheet
+
+end
+
+end
+
+section
+
+/-! # Large-output and near-axis truncations for the actual free core -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.JetCoreSheet
+
+theorem core_axis_mismatch {α q δ ε : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hδ : 0 < δ) (hε : 0 < ε) :
+    ∃ r : ℝ, 0 < r ∧ ∀ {K γ s d t : ℝ}, 0 ≤ K → 0 < α → 0 < γ →
+      0 < s → 0 < d → d ≤ 1/16 → 0 ≤ t → ∀ (η : ℝ) (a : Bool)
+      (x : JetPrototype.Space) (v : Velocity), transverse v ≠ 0 → ‖transverse v‖ ≤ r →
+      ChartKernel.normalizedMeasure (coreKernel η K α γ s d a (t,x)) q v
+        (AxisMismatch.incoming v δ ×ˢ univ) ≤
+          ENNReal.ofReal (amplitude K α γ s t)*ENNReal.ofReal ε := by
+  obtain ⟨r,hr,hb⟩ := AxisMismatch.uniform_axis_mismatch
+    (L := 2*Real.exp (16*(1+α)^2)) hq₁ hq₂ hδ hε
+  refine ⟨r,hr,?_⟩
+  intro K γ s d t hK hα hγ hs hd hdmax ht η a x v hv hvr
+  apply core_region_bound hK hα hγ hs hd ht η a x v
+  let hp := JetAxialLaw.probability (JetPrototype.sign a) α γ s d t x.2
+  have hm := JetAxialLaw.moment hα.le hγ.le hs hd hdmax ht (JetPrototype.sign a) x.2
+  have hsign : |JetPrototype.sign a| = 1 := by cases a <;> norm_num [JetPrototype.sign]
+  rw [hsign] at hm
+  exact hb d _ hp hd.le (by linarith) hm v hv hvr
+
+end BoltzmannNonuniqueness.JetCoreSheet
+
+end
+
+end
+
+section
+
+/-! # Actual compact thermal support gives a uniform axial speed error -/
+
+noncomputable section
+
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.AxialFlow
+
+namespace BoltzmannNonuniqueness.JetFreeTransport
+
+theorem free_axial_speed_error {α γ s d t : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (hd : 0 < d) (ht : 0 ≤ t)
+    (η K : ℝ) (a : Bool) (x : JetPrototype.Space) (p : Velocity)
+    (hf : free η K α γ s d t a (x,p) ≠ 0) :
+    |axial p-velocity (JetPrototype.sign a) α γ s t x.2| < d := by
+  let z := x.2+(-t)*axial p
+  have hthermal : JetThermalLaw.density d (JetPrototype.center α γ s a z) p ≠ 0 := by
+    intro hz
+    apply hf
+    change JetPrototype.spatial η K γ s a
+      (x.1+(-t) • transverse p,z) * JetThermalLaw.density d (JetPrototype.center α γ s a z) p = 0
+    rw [hz,mul_zero]
+  have hn : ‖p-JetPrototype.center α γ s a z‖ < d := by
+    exact lt_of_not_ge (fun h => hthermal (JetThermalLaw.density_zero hd _ _ h))
+  have hc : |axial p-profile (JetPrototype.sign a) α γ s z| ≤
+      ‖p-JetPrototype.center α γ s a z‖ := by
+    have hc := PiLp.norm_apply_le (p-JetPrototype.center α γ s a z) (Fin.last 2)
+    change |axial (p-JetPrototype.center α γ s a z)| ≤ _ at hc
+    rw [PlaneChart.axial_sub,JetPrototype.center,PlaneChart.axial_join] at hc
+    exact hc
+  have he := thermal_velocity_error (σ := JetPrototype.sign a) (z := x.2)
+    (p := axial p) (δ := axial p-profile (JetPrototype.sign a) α γ s z)
+    hα hγ hs ht (by dsimp only [z]; rw [neg_mul,← sub_eq_add_neg]; ring)
+  exact he.trans_lt (hc.trans_lt hn)
+
+end BoltzmannNonuniqueness.JetFreeTransport
+
+end
+
+end
+
+section
+
+/-! # The actual core has small total gain when its cold speed is axially separated -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.AxialFlow
+
+namespace BoltzmannNonuniqueness.JetCoreSheet
+
+theorem core_restrict_mismatch {α γ s d t δ : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (hd : 0 < d) (ht : 0 ≤ t)
+    (η K : ℝ) (a : Bool) (x : JetPrototype.Space) (v : Velocity)
+    (hgap : δ+d ≤ |axial v-velocity (JetPrototype.sign a) α γ s t x.2|) :
+    (coreKernel η K α γ s d a (t,x)).restrict (AxisMismatch.incoming v δ) =
+      coreKernel η K α γ s d a (t,x) := by
+  rw [coreKernel_apply]
+  apply Measure.restrict_eq_self_of_ae_mem
+  apply (ae_withDensity_iff (show Measurable (fun p =>
+    ENNReal.ofReal (JetFreeTransport.free η K α γ s d t a (x,p))) from
+      ((JetFreeTransport.measurable_free η K α γ s d t a).comp
+        (measurable_const.prodMk measurable_id)).ennreal_ofReal)).mpr
+  apply ae_of_all
+  intro p hp
+  have hfp : JetFreeTransport.free η K α γ s d t a (x,p) ≠ 0 := by
+    intro hf
+    exact hp (by rw [hf,ENNReal.ofReal_zero])
+  have he := JetFreeTransport.free_axial_speed_error hα hγ hs hd ht η K a x p hfp
+  have htri := abs_sub_le (axial v) (axial p)
+    (velocity (JetPrototype.sign a) α γ s t x.2)
+  change δ ≤ |axial (v-p)|
+  rw [PlaneChart.axial_sub]
+  linarith
+
+theorem core_total_eq_mismatch {α γ s d t δ : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (hd : 0 < d) (ht : 0 ≤ t)
+    (η K q : ℝ) (a : Bool) (x : JetPrototype.Space) (v : Velocity)
+    (hgap : δ+d ≤ |axial v-velocity (JetPrototype.sign a) α γ s t x.2|) :
+    normalizedCoreKernel η K α γ s d q a ((t,x),v) univ =
+      ChartKernel.normalizedMeasure (coreKernel η K α γ s d a (t,x)) q v
+        (AxisMismatch.incoming v δ ×ˢ univ) := by
+  rw [normalizedCoreKernel,ChartKernel.inputKernel_mass,ChartKernel.normalized_total_eq]
+  have h := ChartKernel.normalized_restrict_incoming (coreKernel η K α γ s d a (t,x))
+    q v (AxisMismatch.measurableSet_incoming v δ)
+  rw [core_restrict_mismatch hα hγ hs hd ht η K a x v hgap] at h
+  have he := congrArg (fun μ : Measure ChartKernel.Coordinates => μ univ) h
+  simpa only [Measure.restrict_apply MeasurableSet.univ,univ_inter] using he
+
+/-- The near-axis estimate controls the whole core kernel,
+provided its implicit cold speed stays farther away than the thermal width. -/
+theorem core_mass_small_of_speed_gap {α q δ ε : ℝ}
+    (hq₁ : 1 < q) (hq₂ : q < 2) (hδ : 0 < δ) (hε : 0 < ε) :
+    ∃ r : ℝ, 0 < r ∧ ∀ {K γ s d t : ℝ}, 0 ≤ K → 0 < α → 0 < γ →
+      0 < s → 0 < d → d ≤ 1/16 → 0 ≤ t → ∀ (η : ℝ) (a : Bool)
+      (x : JetPrototype.Space) (v : Velocity), transverse v ≠ 0 → ‖transverse v‖ ≤ r →
+      δ+d ≤ |axial v-velocity (JetPrototype.sign a) α γ s t x.2| →
+      normalizedCoreKernel η K α γ s d q a ((t,x),v) univ ≤
+        ENNReal.ofReal (amplitude K α γ s t)*ENNReal.ofReal ε := by
+  obtain ⟨r,hr,hb⟩ := core_axis_mismatch (α := α) hq₁ hq₂ hδ hε
+  refine ⟨r,hr,?_⟩
+  intro K γ s d t hK hα hγ hs hd hdmax ht η a x v hv hvr hgap
+  rw [core_total_eq_mismatch hα.le hγ.le hs hd ht η K q a x v hgap]
+  exact hb hK hα hγ hs hd hdmax ht η a x v hv hvr
+
+end BoltzmannNonuniqueness.JetCoreSheet
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_DilatedCoreDensity
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Positive gain kernels under the actual cap dilation -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open BoltzmannNonuniqueness.Published
+open scoped ENNReal
+
+namespace BoltzmannNonuniqueness.JetCoreSheet
+
+theorem dilatedColdKernel_apply (r η K α γ s d : ℝ) (sign : Bool) (z : SpaceTime) :
+    dilatedColdKernel r η K α γ s d sign z =
+      ENNReal.ofReal r • kineticColdKernel η K α γ s d sign (r*z.1,r • z.2) := by
+  rw [dilatedColdKernel,Kernel.withDensity_apply _ measurable_const,withDensity_const]
+  rfl
+
+end BoltzmannNonuniqueness.JetCoreSheet
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_TranslatedCoreKernel
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # Dilated free kernels for the actual periodic labels -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory
+open BoltzmannNonuniqueness.Published BoltzmannNonuniqueness.JetLattice
+open scoped ENNReal
+
+namespace BoltzmannNonuniqueness.ChartKernel
+
+theorem inputKernel_congr_base {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+    (c : Kernel X Velocity) (d : Kernel Y Velocity) [IsSFiniteKernel c] [IsSFiniteKernel d]
+    {x : X} {y : Y} (h : c x = d y) (q : ℝ) (v : Velocity) :
+    inputKernel c q (x,v) = inputKernel d q (y,v) := by
+  change (coordinateKernel c q (x,v)).map _ = (coordinateKernel d q (y,v)).map _
+  rw [coordinateKernel_apply,coordinateKernel_apply,h]
+
+end BoltzmannNonuniqueness.ChartKernel
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem copyFreeKernel_eq (r s₀ η K α γ d₀ q : ℝ) (i : Label) (z : KineticPhase) :
+    copyFreeKernel r s₀ η K α γ d₀ q i z =
+      JetCoreSheet.dilatedFreeKernel r η K α γ (JetGeometry.jetScale s₀ η i.annulus)
+        (d₀*JetGeometry.jetScale s₀ η i.annulus^10) q i.positive
+        ((z.1.1,z.1.2-r⁻¹ • latticeVector i.lattice),z.2) := by
+  by_cases hv : VelocityWeight.transverse z.2 = 0
+  · rw [copyFreeKernel,JetCoreSheet.dilatedFreeKernel,ChartKernel.offAxis_axis _ z hv,
+      ChartKernel.offAxis_axis _ ((z.1.1,z.1.2-r⁻¹ • latticeVector i.lattice),z.2) hv]
+  · rw [copyFreeKernel,JetCoreSheet.dilatedFreeKernel,ChartKernel.offAxis_apply _ z hv,
+      ChartKernel.offAxis_apply _ ((z.1.1,z.1.2-r⁻¹ • latticeVector i.lattice),z.2) hv]
+    exact ChartKernel.inputKernel_congr_base (copyColdKernel r s₀ η K α γ d₀ i)
+      (JetCoreSheet.dilatedColdKernel r η K α γ (JetGeometry.jetScale s₀ η i.annulus)
+        (d₀*JetGeometry.jetScale s₀ η i.annulus^10) i.positive)
+      (x := z.1) (y := (z.1.1,z.1.2-r⁻¹ • latticeVector i.lattice)) rfl q z.2
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_AxialBandMeasure
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Finite exceptional axial intervals for the two-gain argument -/
+
+noncomputable section
+
+open Set MeasureTheory
+
+namespace BoltzmannNonuniqueness.AxialFlow
+
+theorem outside_bands {S : Finset ℝ} {b w : ℝ} (hw : w ∉ bands S b)
+    {c : ℝ} (hc : c ∈ S) : b ≤ |w-c| := by
+  by_contra h
+  exact hw (mem_iUnion.mpr ⟨c,mem_iUnion.mpr ⟨hc,lt_of_not_ge h⟩⟩)
+
+/-- A single finite list excludes every large retained scale at the second time. -/
+theorem outside_profileBands_second_gap {α γ b t₁ t₂ z w s d ω : ℝ}
+    (hα : 0 ≤ α) (hγ : 0 ≤ γ) (hs : 0 < s) (ht₂ : 0 ≤ t₂) (htt : t₂ ≤ t₁)
+    (S : Finset ℝ) (hsS : s ∈ S) (hw : w ∉ bands (profileCenters α γ t₁ z S) b)
+    (herr : |d*ω| ≤ b/2) (σ : ℝ) (hσ : σ = 1 ∨ σ = -1) :
+    b/2 ≤ |w-JetCoreMap.axialMap σ α γ s d t₂ (z-(t₁-t₂)*w) ω| := by
+  have hc : velocity σ α γ s t₁ z ∈ profileCenters α γ t₁ z S := by
+    apply Finset.mem_biUnion.mpr
+    refine ⟨s,hsS,?_⟩
+    rcases hσ with rfl | rfl <;> simp
+  exact thermal_second_gap hα hγ hs ht₂ htt (outside_bands hw hc) herr
+
+/-- Five collapsed speeds exclude every sufficiently small positive scale. -/
+theorem outside_collapsedBands_second_gap {α γ a δ : ℝ}
+    (hα : 0 < α) (hγ : 0 < γ) (ha : 0 < a) (hδ : 0 < δ) :
+    ∃ μ₀ : ℝ, 0 < μ₀ ∧ ∀ (σ s d t₁ t₂ z w ω : ℝ),
+      (σ = 1 ∨ σ = -1) → 0 < s → s < μ₀ → a ≤ t₂ → t₂ ≤ t₁ → |d*ω| < δ/4 →
+      w ∉ bands (collapsedCenters α t₁ z) δ →
+      δ/2 ≤ |w-JetCoreMap.axialMap σ α γ s d t₂ (z-(t₁-t₂)*w) ω| := by
+  classical
+  obtain ⟨μ₀,hμ₀,hμ⟩ := small_scale_second_gap hα hγ ha hδ
+  refine ⟨μ₀,hμ₀,?_⟩
+  intro σ s d t₁ t₂ z w ω hσ hs hs₀ ht₂ htt herr hw
+  apply hμ σ s d t₁ t₂ z w ω hs hs₀ ht₂ htt herr
+  · apply outside_bands hw
+    rcases hσ with rfl | rfl <;> simp [collapsedCenters]
+  · apply outside_bands hw
+    rcases hσ with rfl | rfl <;> simp [collapsedCenters]
+  · exact outside_bands hw (by simp [collapsedCenters])
+
+end BoltzmannNonuniqueness.AxialFlow
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_MainCoreScaleWindow
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Measurable regions selecting the unique main periodic core -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open BoltzmannNonuniqueness.Published
+open BoltzmannNonuniqueness.JetLattice
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem mainCoreRegion_unique {s₀ η r : ℝ} {N : ℕ}
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η) (hηmax : η ≤ Real.log 2)
+    {i j : Label} {z : SpaceTime}
+    (hi : z ∈ mainCoreRegion s₀ η r N i) (hj : z ∈ mainCoreRegion s₀ η r N j) : i = j :=
+  common_point_label hs₀ hsmax hη hηmax hi.2.1 hi.2.2 hj.2.2
+
+theorem mainCoreKernel_eq {s₀ η r : ℝ} {N : ℕ}
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η) (hηmax : η ≤ Real.log 2)
+    (K : Label → Kernel SpaceTime Velocity) {z : SpaceTime} {i : Label}
+    (hi : z ∈ mainCoreRegion s₀ η r N i) : mainCoreKernel s₀ η r N K z = K i z := by
+  classical
+  apply Measure.ext
+  intro E hE
+  rw [mainCoreKernel,Kernel.sum_apply' _ _ hE,tsum_eq_single i]
+  · simp [Kernel.piecewise_apply',hi]
+  · intro j hji
+    have hj : z ∉ mainCoreRegion s₀ η r N j :=
+      fun hj => hji (mainCoreRegion_unique hs₀ hsmax hη hηmax hj hi)
+    simp [Kernel.piecewise_apply',hj]
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_SelectedCoreSelection
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Pointwise identification of the selected free kernel -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.JetLattice
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem selectedFreeKernel_eq_copy {s₀ η r K α γ d₀ q : ℝ} {N : ℕ}
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η) (hηmax : η ≤ Real.log 2)
+    {i : Label} {z : Published.KineticPhase} (hi : z.1 ∈ mainCoreRegion s₀ η r N i) :
+    selectedFreeKernel r s₀ η K α γ d₀ q N z = copyFreeKernel r s₀ η K α γ d₀ q i z := by
+  by_cases hv : transverse z.2 = 0
+  · rw [selectedFreeKernel,copyFreeKernel,ChartKernel.offAxis_axis _ _ hv,
+      ChartKernel.offAxis_axis _ _ hv]
+  · rw [selectedFreeKernel,copyFreeKernel,ChartKernel.offAxis_apply _ _ hv,
+      ChartKernel.offAxis_apply _ _ hv]
+    exact ChartKernel.inputKernel_congr_base _ _
+      (mainCoreKernel_eq hs₀ hsmax hη hηmax _ hi) q z.2
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_CoreDensityTranslation
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A fixed-cardinality exceptional list has uniformly small first-core mass -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.AxialFlow
+
+namespace BoltzmannNonuniqueness.JetCoreSheet
+
+theorem slabAmplitude_nonneg {K a : ℝ} (hK : 0 ≤ K) (ha : 0 < a) (α γ : ℝ) :
+    0 ≤ slabAmplitude K α γ a := by
+  have := JetThermalKernel.bound_pos
+  unfold slabAmplitude JetGaussianProduct.coefficient
+  positivity
+
+theorem amplitude_le_slab {K a s t : ℝ} (hK : 0 ≤ K) (ha : 0 < a)
+    (hs : 0 < s) (ht : a ≤ t) (α γ : ℝ) :
+    amplitude K α γ s t ≤ slabAmplitude K α γ a := by
+  have hc : 0 ≤ (K*max 1 (α*γ)⁻¹)*JetGaussianProduct.coefficient := by
+    have := JetThermalKernel.bound_pos
+    unfold JetGaussianProduct.coefficient
+    positivity
+  calc
+    _ = ((K*max 1 (α*γ)⁻¹)*JetGaussianProduct.coefficient)/(s+t) := by
+      unfold amplitude
+      ring
+    _ ≤ _ := div_le_div_of_nonneg_left hc ha (by linarith)
+
+end BoltzmannNonuniqueness.JetCoreSheet
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_DilatedTwoCoreLimit
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Exact measure representation of the dilated cold core
+
+The masks stay at their original physical scale. Dilation is carried by the
+measure factor and the time/position arguments, without identifying masks.
+-/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness.ChartKernel
+
+theorem inputKernel_smul_base {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+    (c : Kernel X Velocity) (d : Kernel Y Velocity) [IsSFiniteKernel c] [IsSFiniteKernel d]
+    {x : X} {y : Y} {a : ℝ≥0∞} (h : c x = a • d y) (q : ℝ) (v : Velocity) :
+    inputKernel c q (x,v) = a • inputKernel d q (y,v) := by
+  change (coordinateKernel c q (x,v)).map _ = a • (coordinateKernel d q (y,v)).map _
+  rw [coordinateKernel_apply,coordinateKernel_apply]
+  unfold normalizedMeasure
+  rw [h,measure_smul,Measure.map_smul]
+
+end BoltzmannNonuniqueness.ChartKernel
+
+namespace BoltzmannNonuniqueness.JetCoreSheet
+
+theorem amplitude_dilation {r : ℝ} (hr : r ≠ 0) (K α γ μ t : ℝ) :
+    r*amplitude K α γ (r*μ) (r*t) = amplitude K α γ μ t := by
+  unfold amplitude
+  rw [show r*μ+r*t = r*(μ+t) by ring]
+  by_cases h : μ+t = 0
+  · simp [h]
+  · field_simp
+
+theorem rescaledCoreMeasure_axis (r η K α γ μ d q : ℝ) (sign : Bool)
+    (t : ℝ) (x : JetPrototype.Space) {v : Velocity} (hv : transverse v = 0) :
+    rescaledCoreMeasure r η K α γ μ d q sign t x v = 0 := by
+  unfold rescaledCoreMeasure
+  rw [ChartKernel.offAxis_axis _ _ hv,smul_zero]
+
+theorem dilatedFreeKernel_eq_rescaled {r : ℝ} (hr : 0 < r)
+    (η K α γ s d q : ℝ) (sign : Bool) (z : Published.KineticPhase) :
+    dilatedFreeKernel r η K α γ s d q sign z =
+      rescaledCoreMeasure r η K α γ (s/r) d q sign z.1.1
+        (JetPeriodicDatum.spatialMap z.1.2) z.2 := by
+  have hs : r*(s/r) = s := by field_simp
+  have hx : JetPeriodicDatum.spatialMap (r • z.1.2) =
+      r • JetPeriodicDatum.spatialMap z.1.2 := by
+    ext i <;> rfl
+  by_cases hv : transverse z.2 = 0
+  · rw [dilatedFreeKernel,ChartKernel.offAxis_axis _ _ hv,
+      rescaledCoreMeasure_axis _ _ _ _ _ _ _ _ _ _ _ hv]
+  · rw [dilatedFreeKernel,ChartKernel.offAxis_apply _ z hv,rescaledCoreMeasure,
+      ChartKernel.offAxis_apply _ ((r*z.1.1,r • JetPeriodicDatum.spatialMap z.1.2),z.2) hv,hs]
+    have h := ChartKernel.inputKernel_smul_base
+      (dilatedColdKernel r η K α γ s d sign) (coreKernel η K α γ s d sign)
+      (x := z.1) (y := (r*z.1.1,r • JetPeriodicDatum.spatialMap z.1.2))
+      (a := ENNReal.ofReal r) ?_ q z.2
+    · exact h
+    · rw [dilatedColdKernel_apply]
+      change ENNReal.ofReal r • coreKernel η K α γ s d sign
+        (r*z.1.1,JetPeriodicDatum.spatialMap (r • z.1.2)) = _
+      rw [hx]
+
+theorem rescaled_region_le {r K α γ μ d t q : ℝ} (hr : 0 < r) (η : ℝ) (sign : Bool)
+    (x : JetPrototype.Space) {v : Velocity} (hv : transverse v ≠ 0)
+    (E : Set Velocity) {B : ℝ≥0∞}
+    (hbound : normalizedCoreKernel η K α γ (r*μ) d q sign ((r*t,r • x),v) E ≤
+      ENNReal.ofReal (amplitude K α γ (r*μ) (r*t))*B) :
+    rescaledCoreMeasure r η K α γ μ d q sign t x v E ≤
+      ENNReal.ofReal (amplitude K α γ μ t)*B := by
+  rw [rescaledCoreMeasure,ChartKernel.offAxis_apply _ _ hv,Measure.smul_apply,smul_eq_mul]
+  calc
+    _ ≤ ENNReal.ofReal r*(ENNReal.ofReal (amplitude K α γ (r*μ) (r*t))*B) :=
+      mul_le_mul' le_rfl hbound
+    _ = _ := by
+      rw [← mul_assoc,← ENNReal.ofReal_mul hr.le,amplitude_dilation hr.ne']
+
+end BoltzmannNonuniqueness.JetCoreSheet
+
+end
+
+end
+
+section
+
+/-! # Dilation-uniform mass, interval, transverse and mismatch estimates -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.AxialFlow
+
+namespace BoltzmannNonuniqueness.JetCoreSheet
+
+theorem rescaled_speed_gap {α q δ ε : ℝ} (hq₁ : 1 < q) (hq₂ : q < 2)
+    (hδ : 0 < δ) (hε : 0 < ε) :
+    ∃ r₀ : ℝ, 0 < r₀ ∧ ∀ {r K γ μ d t : ℝ}, 0 < r → 0 ≤ K → 0 < α → 0 < γ →
+      0 < μ → 0 < d → d ≤ 1/16 → 0 ≤ t → ∀ (η : ℝ) (sign : Bool)
+      (x : JetPrototype.Space) (v : Velocity), ‖transverse v‖ ≤ r₀ →
+      δ+d ≤ |axial v-velocity (JetPrototype.sign sign) α γ μ t x.2| →
+      rescaledCoreMeasure r η K α γ μ d q sign t x v univ ≤
+        ENNReal.ofReal (amplitude K α γ μ t)*ENNReal.ofReal ε := by
+  obtain ⟨r₀,hr₀,hb⟩ := core_mass_small_of_speed_gap (α := α) hq₁ hq₂ hδ hε
+  refine ⟨r₀,hr₀,?_⟩
+  intro r K γ μ d t hr hK hα hγ hμ hd hdmax ht η sign x v hvr hgap
+  by_cases hv : transverse v = 0
+  · rw [rescaledCoreMeasure_axis _ _ _ _ _ _ _ _ _ _ _ hv]
+    simp
+  apply rescaled_region_le hr η sign x hv
+  apply hb hK hα hγ (mul_pos hr hμ) hd hdmax (mul_nonneg hr.le ht) η sign (r • x) v hv hvr
+  change δ+d ≤ |axial v-velocity (JetPrototype.sign sign) α γ (r*μ) (r*t) (r*x.2)|
+  rwa [velocity_dilation hr hα.le hγ.le hμ ht]
+
+end BoltzmannNonuniqueness.JetCoreSheet
+
+end
+
+end
+
+section
+
+/-! # The second actual core is small outside the finite exceptional speed list -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.AxialFlow
+
+namespace BoltzmannNonuniqueness.JetCoreSheet
+
+theorem rescaled_second_core_small_off_bands {α γ q a δ : ℝ}
+    (hα : 0 < α) (hγ : 0 < γ) (hq₁ : 1 < q) (hq₂ : q < 2)
+    (ha : 0 < a) (hδ : 0 < δ) :
+    ∃ μ₀ : ℝ, 0 < μ₀ ∧ ∀ b : ℝ, 0 < b → ∀ ε : ℝ, 0 < ε →
+      ∃ r₀ : ℝ, 0 < r₀ ∧ ∀ {r K s d t₁ t₂ z : ℝ},
+      0 < r → 0 ≤ K → 0 < s → 0 < d → d ≤ 1/16 → d ≤ min δ b/4 → a ≤ t₂ → t₂ ≤ t₁ →
+      ∀ (η : ℝ) (sign : Bool) (y : Transverse) (v : Velocity) (S : Finset ℝ),
+      (μ₀ ≤ s → s ∈ S) → ‖transverse v‖ ≤ r₀ →
+      axial v ∉ bands (collapsedCenters α t₁ z) δ →
+      axial v ∉ bands (profileCenters α γ t₁ z S) b →
+      rescaledCoreMeasure r η K α γ s d q sign t₂ (y,z-(t₁-t₂)*axial v) v univ ≤
+        ENNReal.ofReal (amplitude K α γ s t₂)*ENNReal.ofReal ε := by
+  obtain ⟨μ₀,hμ₀,hsmall⟩ := outside_collapsedBands_second_gap hα hγ ha hδ
+  refine ⟨μ₀,hμ₀,?_⟩
+  intro b hb ε hε
+  have hc : 0 < min δ b/4 := div_pos (lt_min hδ hb) (by norm_num)
+  obtain ⟨r₀,hr₀,hcore⟩ := rescaled_speed_gap (α := α) hq₁ hq₂ hc hε
+  refine ⟨r₀,hr₀,?_⟩
+  intro r K s d t₁ t₂ z hr hK hs hd hdmax hdc ht₂ htt η sign y v S hS hvr hcollapsed hprofile
+  apply hcore hr hK hα hγ hs hd hdmax (ha.le.trans ht₂) η sign
+    (y,z-(t₁-t₂)*axial v) v hvr
+  have hsign : JetPrototype.sign sign = 1 ∨ JetPrototype.sign sign = -1 := by
+    cases sign <;> simp [JetPrototype.sign]
+  have hbound : min δ b/4+d ≤ min δ b/2 := by linarith
+  by_cases hss : s < μ₀
+  · have hg := hsmall (JetPrototype.sign sign) s 0 t₁ t₂ z (axial v) 0
+      hsign hs hss ht₂ htt (by simpa using div_pos hδ (by norm_num : (0:ℝ)<4)) hcollapsed
+    simp only [JetCoreMap.axialMap,mul_zero,zero_add,sub_zero] at hg
+    exact hbound.trans ((by linarith [min_le_left δ b] : min δ b/2 ≤ δ/2).trans hg)
+  · have hg := outside_profileBands_second_gap (b := b) (w := axial v)
+      hα.le hγ.le hs (ha.le.trans ht₂) htt
+      S (hS (le_of_not_gt hss)) hprofile (d := 0) (ω := 0)
+      (show |(0 : ℝ)*0| ≤ b/2 by simpa using (half_pos hb).le)
+      (JetPrototype.sign sign) hsign
+    simp only [JetCoreMap.axialMap,mul_zero,zero_add,sub_zero] at hg
+    exact hbound.trans ((by linarith [min_le_right δ b] : min δ b/2 ≤ b/2).trans hg)
+
+end BoltzmannNonuniqueness.JetCoreSheet
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_NearbyMainCopies
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # Nearby retained collision points use the same periodic origin -/
+
+noncomputable section
+
+open Set
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.JetGeometry
+
+namespace BoltzmannNonuniqueness.JetLattice
+
+theorem nearby_enlargements_same_lattice {s₀ η t₁ t₂ : ℝ}
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η)
+    (ht₁ : t₁ ≤ 1/32) (ht₂ : t₂ ≤ 1/32)
+    {i j : Label} {x y : Velocity}
+    (hx : x ∈ spatialEnlargement s₀ η t₁ i)
+    (hy : y ∈ spatialEnlargement s₀ η t₂ j) (hxy : ‖x-y‖ < 1/4) :
+    i.lattice = j.lattice := by
+  have hix := enlargement_inside_baseBall hs₀ hη i.annulus i.positive hx.1
+  have hjy := enlargement_inside_baseBall hs₀ hη j.annulus j.positive hy.1
+  rw [Metric.mem_ball,dist_zero_right] at hix hjy
+  have htrans (k : Fin 2) : i.lattice k.castSucc = j.lattice k.castSucc := by
+    by_contra hne
+    have hi := PiLp.norm_apply_le (transverse x-transverseShift i.lattice) k
+    have hj := PiLp.norm_apply_le (transverse y-transverseShift j.lattice) k
+    have hdist := PiLp.norm_apply_le (x-y) k.castSucc
+    change |x k.castSucc-(i.lattice k.castSucc : ℝ)| ≤ _ at hi
+    change |y k.castSucc-(j.lattice k.castSucc : ℝ)| ≤ _ at hj
+    change |x k.castSucc-y k.castSucc| ≤ ‖x-y‖ at hdist
+    have h₁ := abs_sub_le (i.lattice k.castSucc : ℝ) (x k.castSucc) (y k.castSucc)
+    have h₂ := abs_sub_le (i.lattice k.castSucc : ℝ) (y k.castSucc) (j.lattice k.castSucc)
+    rw [abs_sub_comm (i.lattice k.castSucc : ℝ) (x k.castSucc)] at h₁
+    have hsep := integer_distance hne
+    linarith
+  have hax : i.lattice (Fin.last 2) = j.lattice (Fin.last 2) := by
+    by_contra hne
+    have hi := hx.2
+    have hj := hy.2
+    have hdist := PiLp.norm_apply_le (x-y) (Fin.last 2)
+    change |axial x-axial y| ≤ ‖x-y‖ at hdist
+    have h₁ := abs_sub_le (axialShift i.lattice) (axial x) (axial y)
+    have h₂ := abs_sub_le (axialShift i.lattice) (axial y) (axialShift j.lattice)
+    rw [abs_sub_comm (axialShift i.lattice) (axial x)] at h₁
+    have hsep : 1 ≤ |axialShift i.lattice-axialShift j.lattice| := integer_distance hne
+    linarith
+  funext k
+  exact Fin.lastCases hax htrans k
+
+end BoltzmannNonuniqueness.JetLattice
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem nearby_main_regions_same_lattice {s₀ η r : ℝ} {N : ℕ}
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η)
+    {i j : JetLattice.Label} {z w : Published.SpaceTime}
+    (hz : z ∈ mainCoreRegion s₀ η r N i) (hw : w ∈ mainCoreRegion s₀ η r N j)
+    (hnear : ‖r • z.2-r • w.2‖ < 1/4) : i.lattice = j.lattice :=
+  JetLattice.nearby_enlargements_same_lattice hs₀ hsmax hη hz.2.1 hw.2.1 hz.2.2 hw.2.2 hnear
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_MainPositiveRemainderBound
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded collision flights cannot change the retained periodic origin -/
+
+noncomputable section
+
+open BoltzmannNonuniqueness.JetLattice
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem scaled_flight_distance_le {r t₁ t₂ T R : ℝ} (hr : 0 ≤ r)
+    (ht₂ : 0 ≤ t₂) (htt : t₂ ≤ t₁) (ht₁ : t₁ ≤ T)
+    (x w : Velocity) (hw : ‖w‖ ≤ R) :
+    ‖r • x-r • (x-(t₁-t₂) • w)‖ ≤ r*T*R := by
+  have he : r • x-r • (x-(t₁-t₂) • w) = (r*(t₁-t₂)) • w := by module
+  rw [he,norm_smul,Real.norm_eq_abs,abs_of_nonneg (mul_nonneg hr (sub_nonneg.mpr htt))]
+  have hdt : t₁-t₂ ≤ T := by linarith
+  exact mul_le_mul (mul_le_mul_of_nonneg_left hdt hr) hw (norm_nonneg w)
+    (mul_nonneg hr (ht₂.trans (htt.trans ht₁)))
+
+theorem main_collision_same_origin {s₀ η r t₁ t₂ T R : ℝ} {N : ℕ}
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η) (hr : 0 ≤ r)
+    (ht₂ : 0 ≤ t₂) (htt : t₂ ≤ t₁) (ht₁ : t₁ ≤ T) (hsmall : r*T*R < 1/4)
+    {x w : Velocity} (hw : ‖w‖ ≤ R) {i j : Label}
+    (hi : (t₁,x) ∈ mainCoreRegion s₀ η r N i)
+    (hj : (t₂,x-(t₁-t₂) • w) ∈ mainCoreRegion s₀ η r N j) :
+    i.lattice = j.lattice :=
+  nearby_main_regions_same_lattice hs₀ hsmax hη hi hj
+    ((scaled_flight_distance_le hr ht₂ htt ht₁ x w hw).trans_lt hsmall)
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_GeometricTwoCoreUniform
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The actual geometric mesh supplies the two-core scale and width bounds -/
+
+noncomputable section
+
+open Set Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.GeometricMesh
+
+theorem retained_thermal_width_le {s₀ η r d₀ R : ℝ} (hr : 0 < r)
+    (hd₀ : 0 ≤ d₀) {j : ℕ} (hs₀ : 0 < s₀)
+    (hscale : JetGeometry.jetScale s₀ η j/r ≤ R) :
+    d₀*JetGeometry.jetScale s₀ η j^10 ≤ d₀*(r*R)^10 := by
+  have hs := DatumBounds.scale_pos hs₀ (η := η) (j+1)
+  have hb : JetGeometry.jetScale s₀ η j ≤ r*R := by
+    simpa only [mul_comm] using (div_le_iff₀ hr).mp hscale
+  exact mul_le_mul_of_nonneg_left (pow_le_pow_left₀ hs.le hb 10) hd₀
+
+end BoltzmannNonuniqueness.GeometricMesh
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_TranslatedTwoCoreLimit
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # Two-core convergence in the physical periodic-copy coordinates -/
+
+noncomputable section
+
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.JetLattice
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem copyFreeKernel_eq_rescaled {r : ℝ} (hr : 0 < r)
+    (s₀ η K α γ d₀ q : ℝ) (i : Label) (z : Published.KineticPhase) :
+    copyFreeKernel r s₀ η K α γ d₀ q i z =
+      JetCoreSheet.rescaledCoreMeasure r η K α γ (JetGeometry.jetScale s₀ η i.annulus/r)
+        (d₀*JetGeometry.jetScale s₀ η i.annulus^10) q i.positive z.1.1
+        (JetPeriodicDatum.spatialMap (z.1.2-r⁻¹ • latticeVector i.lattice)) z.2 := by
+  rw [copyFreeKernel_eq,JetCoreSheet.dilatedFreeKernel_eq_rescaled hr]
+
+theorem axial_flight_translation (x c w : Velocity) (t : ℝ) :
+    axial (x-t • w-c) = axial (x-c)-t*axial w := by
+  simp only [axial,PiLp.sub_apply,PiLp.smul_apply,smul_eq_mul]
+  ring
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_RetainedAxialDecay
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Pointwise labels and mass bounds for the retained actual kernel -/
+
+noncomputable section
+
+open MeasureTheory ProbabilityTheory Set
+open BoltzmannNonuniqueness.JetLattice
+open scoped ENNReal
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem retainedFreeKernel_zero_or_copy {s₀ η r K α γ d₀ q M : ℝ} {N : ℕ}
+    (hs₀ : 0 < s₀) (hsmax : s₀ ≤ 1/8) (hη : 0 < η) (hηmax : η ≤ Real.log 2)
+    (z : Published.KineticPhase) :
+    retainedFreeKernel r s₀ η K α γ d₀ q M N z = 0 ∨
+      ∃ i : Label, z.1 ∈ mainCoreRegion s₀ η r N i ∧
+        JetGeometry.jetScale s₀ η i.annulus/r ≤ M ∧
+        retainedFreeKernel r s₀ η K α γ d₀ q M N z = copyFreeKernel r s₀ η K α γ d₀ q i z := by
+  classical
+  by_cases hz : z.1 ∈ retainedScaleRegion s₀ η r M N
+  · obtain ⟨i,hi⟩ := mem_iUnion.mp hz
+    obtain ⟨hscale,hi⟩ := mem_iUnion.mp hi
+    refine Or.inr ⟨i,hi,hscale,?_⟩
+    simp only [retainedFreeKernel,Kernel.piecewise_apply,mem_preimage,hz,ite_true, if_true]
+    exact selectedFreeKernel_eq_copy hs₀ hsmax hη hηmax hi
+  · exact Or.inl (by simp [retainedFreeKernel,Kernel.piecewise_apply,hz])
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+section
+
+/-! # Small second retained gain outside the actual exceptional-speed list -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+open BoltzmannNonuniqueness.VelocityWeight BoltzmannNonuniqueness.AxialFlow
+open BoltzmannNonuniqueness.JetLattice
+
+namespace BoltzmannNonuniqueness.JetCopyDatum
+
+theorem retained_second_small_off_bands_q80_oai {K α γ q a δ : ℝ} (hK : 0 ≤ K)
+    (hα : 0 < α) (hγ : 0 < γ) (hq₁ : 1 < q) (hq₂ : q < 2)
+    (ha : 0 < a) (hδ : 0 < δ) :
+    ∃ μ₀ : ℝ, 0 < μ₀ ∧ ∀ b : ℝ, 0 < b → ∀ ε : ℝ, 0 < ε →
+      ∃ ρ : ℝ, 0 < ρ ∧ ∀ {r s₀ η d₀ M L T t₁ t₂ : ℝ} {N : ℕ},
+      0 < r → 0 < s₀ → s₀ ≤ 1/8 → 0 < η → η ≤ Real.log 2 →
+      0 < d₀ → d₀ ≤ 1 → d₀*(r*M)^10 ≤ min δ b/4 → r*T*L < 1/4 →
+      a ≤ t₂ → t₂ ≤ t₁ → t₁ ≤ T →
+      ∀ (i : Label) (x w : Velocity) (S : Finset ℝ),
+      (t₁,x) ∈ mainCoreRegion s₀ η r N i → ‖w‖ ≤ L → ‖transverse w‖ ≤ ρ →
+      (∀ j < N, μ₀ ≤ JetGeometry.jetScale s₀ η j/r →
+        JetGeometry.jetScale s₀ η j/r ≤ M → JetGeometry.jetScale s₀ η j/r ∈ S) →
+      axial w ∉ bands (collapsedCenters α t₁ (axial (x-r⁻¹ • latticeVector i.lattice))) δ →
+      axial w ∉ bands (profileCenters α γ t₁ (axial (x-r⁻¹ • latticeVector i.lattice)) S) b →
+      retainedFreeKernel r s₀ η K α γ d₀ q M N ((t₂,x-(t₁-t₂) • w),w) univ ≤
+        ENNReal.ofReal ε := by
+  obtain ⟨μ₀,hμ₀,hsecond⟩ := JetCoreSheet.rescaled_second_core_small_off_bands
+    hα hγ hq₁ hq₂ ha hδ
+  refine ⟨μ₀,hμ₀,?_⟩
+  intro b hb ε hε
+  let A := JetCoreSheet.slabAmplitude K α γ a
+  have hA : 0 ≤ A := JetCoreSheet.slabAmplitude_nonneg hK ha α γ
+  have he : 0 < ε/(A+1) := div_pos hε (by positivity)
+  obtain ⟨ρ,hρ,hgood⟩ := hsecond b hb (ε/(A+1)) he
+  refine ⟨ρ,hρ,?_⟩
+  intro r s₀ η d₀ M L T t₁ t₂ N hr hs₀ hsmax hη hηmax hd₀ hdmax hwidth hnear
+    ht₂ htt ht₁ i x w S hi hw htrans hmesh hcollapsed hprofile
+  rcases retainedFreeKernel_zero_or_copy hs₀ hsmax hη hηmax ((t₂,x-(t₁-t₂) • w),w)
+    with hz | ⟨j,hj,hjM,hjK⟩
+  · rw [hz]
+    simp
+  rw [hjK,copyFreeKernel_eq_rescaled hr]
+  have hlat : j.lattice = i.lattice :=
+    (main_collision_same_origin hs₀ hsmax hη hr.le (ha.le.trans ht₂) htt ht₁ hnear hw hi hj).symm
+  rw [hlat]
+  have hs : 0 < JetGeometry.jetScale s₀ η j.annulus/r :=
+    div_pos (DatumBounds.scale_pos hs₀ _) hr
+  have hd : 0 < d₀*JetGeometry.jetScale s₀ η j.annulus^10 := by
+    have := DatumBounds.scale_pos (η := η) hs₀ (j.annulus+1)
+    positivity
+  have hsmall : d₀*JetGeometry.jetScale s₀ η j.annulus^10 ≤ min δ b/4 :=
+    (GeometricMesh.retained_thermal_width_le hr hd₀.le hs₀ hjM).trans hwidth
+  have hmax : d₀*JetGeometry.jetScale s₀ η j.annulus^10 ≤ 1/16 :=
+    JetEnvelopeGain.thermal_width_le hdmax (DatumBounds.scale_pos hs₀ _).le
+      ((JetEscapedTotal.scale_bound hs₀ hη _).trans hsmax)
+  have hpos : JetPeriodicDatum.spatialMap (x-(t₁-t₂) • w-r⁻¹ • latticeVector i.lattice) =
+      (transverse (x-(t₁-t₂) • w-r⁻¹ • latticeVector i.lattice),
+        axial (x-r⁻¹ • latticeVector i.lattice)-(t₁-t₂)*axial w) := by
+    apply Prod.ext
+    · rfl
+    · exact axial_flight_translation _ _ _ _
+  rw [hpos]
+  apply (hgood hr hK hs hd hmax hsmall ht₂ htt η j.positive
+    (transverse (x-(t₁-t₂) • w-r⁻¹ • latticeVector i.lattice)) w S
+    (fun hμ => hmesh _ hj.1 hμ hjM) htrans hcollapsed hprofile).trans
+  rw [← ENNReal.ofReal_mul
+    (JetCoreSheet.amplitude_nonneg hK hs (ha.le.trans ht₂) α γ)]
+  apply ENNReal.ofReal_le_ofReal
+  calc
+    _ ≤ (A+1)*(ε/(A+1)) := mul_le_mul_of_nonneg_right
+      ((JetCoreSheet.amplitude_le_slab hK ha hs ht₂ α γ).trans
+        (by change A ≤ A+1; linarith)) he.le
+    _ = ε := by field_simp
+
+end BoltzmannNonuniqueness.JetCopyDatum
+
+end
+
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.BoltzmannNonuniqueness.JetCopyDatum.retained_second_small_off_bands_q80_oai := @OAI.BoltzmannNonuniqueness.JetCopyDatum.retained_second_small_off_bands_q80_oai

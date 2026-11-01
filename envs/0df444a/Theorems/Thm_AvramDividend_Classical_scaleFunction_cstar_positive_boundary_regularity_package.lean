@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_cstar_positive_boundary_regularity_package
 -- name    : AvramDividend.Classical.scaleFunction_cstar_positive_boundary_regularity_package
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T17:18:42.59+00:00
 -- url     : https://prove2.me/theorems/760663cc-d430-46ea-9b1d-84f245a65d50

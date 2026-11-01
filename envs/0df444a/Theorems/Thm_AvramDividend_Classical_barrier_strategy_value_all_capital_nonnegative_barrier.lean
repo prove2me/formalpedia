@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrier_strategy_value_all_capital_nonnegative_barrier
 -- name    : AvramDividend.Classical.barrier_strategy_value_all_capital_nonnegative_barrier
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:11:33.079987+00:00
 -- url     : https://prove2.me/theorems/a29f337e-f183-4d4a-a914-b85ec9e592dc

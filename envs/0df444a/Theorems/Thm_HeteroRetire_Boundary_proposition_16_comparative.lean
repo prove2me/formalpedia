@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeteroRetire_Boundary_proposition_16_comparative
 -- name    : HeteroRetire.Boundary.proposition_16_comparative
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:08.617394+00:00
 -- url     : https://prove2.me/theorems/9bfe5abd-9e7a-4402-b2e8-4442d373be7d

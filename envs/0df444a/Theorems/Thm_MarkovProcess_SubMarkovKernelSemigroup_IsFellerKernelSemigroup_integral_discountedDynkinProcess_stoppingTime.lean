@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_integral_discountedDynkinProcess_stoppingTime
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.integral_discountedDynkinProcess_stoppingTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:43.393761+00:00
 -- url     : https://prove2.me/theorems/0ccf581a-9581-4056-8ba1-2ba68d625735

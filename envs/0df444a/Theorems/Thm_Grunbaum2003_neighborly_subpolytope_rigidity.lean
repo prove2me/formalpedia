@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_neighborly_subpolytope_rigidity
 -- name    : Grunbaum2003.neighborly_subpolytope_rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T05:40:23.31993+00:00
 -- url     : https://prove2.me/theorems/14803a33-3769-487e-b825-779377b57f23

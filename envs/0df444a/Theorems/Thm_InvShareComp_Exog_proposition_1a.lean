@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvShareComp_Exog_proposition_1a
 -- name    : InvShareComp.Exog.proposition_1a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:07:00.546088+00:00
 -- url     : https://prove2.me/theorems/3951105d-f75e-480b-9e49-5b4df291094f

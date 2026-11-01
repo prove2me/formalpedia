@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeasibleBasesHC_Structure_proposition_2
 -- name    : FeasibleBasesHC.Structure.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:54.813954+00:00
 -- url     : https://prove2.me/theorems/61476fdb-04a4-417c-b608-fc5a1fccc12d

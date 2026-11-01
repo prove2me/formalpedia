@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_brownianMotion_map_incrementsMap
 -- name    : MarkovProcess.brownianMotion_map_incrementsMap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:08.721662+00:00
 -- url     : https://prove2.me/theorems/33877be9-2c19-46e2-847c-18774b3d3b6a

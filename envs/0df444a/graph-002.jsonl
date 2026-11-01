@@ -325,7 +325,7 @@
 {"parent": "FCP.Jacobian.jacobian_two_variables", "child": "FCP_Jacobian", "via": ["statement"]}
 {"parent": "FCP.Kakeya.kakeya_finite_field", "child": "FCP_Kakeya", "via": ["solution", "statement"]}
 {"parent": "FCP.Kakeya.kakeya_set_conjecture", "child": "FCP_Kakeya", "via": ["statement"]}
-{"parent": "FCP.Kakeya.kakeya_two_dim", "child": "FCP_Kakeya", "via": ["statement"]}
+{"parent": "FCP.Kakeya.kakeya_two_dim", "child": "FCP_Kakeya", "via": ["solution", "statement"]}
 {"parent": "FCP.Mersenne.catalan_mersenne_conjecture", "child": "FCP_Mersenne", "via": ["statement"]}
 {"parent": "FCP.Mersenne.new_mersenne_conjecture", "child": "FCP_Mersenne", "via": ["statement"]}
 {"parent": "FCP.Mills.mills_constant_irrational", "child": "FCP_Mills", "via": ["statement"]}
@@ -2683,10 +2683,10 @@
 {"parent": "FracPSG.Abstract.lemma_5_1_iii", "child": "NonconvexSplitting_ADMMKL_KLProperty", "via": ["statement"]}
 {"parent": "FracPSG.Abstract.lemma_5_1_iii", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
 {"parent": "FracPSG.Abstract.lemma_5_1_iii", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["statement"]}
-{"parent": "FracPSG.Abstract.theorem_5_2", "child": "FracPSG_Abstract_Basic", "via": ["statement"]}
-{"parent": "FracPSG.Abstract.theorem_5_2", "child": "NonconvexSplitting_ADMMKL_KLProperty", "via": ["statement"]}
-{"parent": "FracPSG.Abstract.theorem_5_2", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "FracPSG.Abstract.theorem_5_2", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["statement"]}
+{"parent": "FracPSG.Abstract.theorem_5_2", "child": "FracPSG_Abstract_Basic", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Abstract.theorem_5_2", "child": "NonconvexSplitting_ADMMKL_KLProperty", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Abstract.theorem_5_2", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Abstract.theorem_5_2", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["solution", "statement"]}
 {"parent": "FracPSG.Abstract.theorem_5_2_i", "child": "FracPSG_Abstract_Basic", "via": ["statement"]}
 {"parent": "FracPSG.Abstract.theorem_5_2_i", "child": "NonconvexSplitting_ADMMKL_KLProperty", "via": ["statement"]}
 {"parent": "FracPSG.Abstract.theorem_5_2_i", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
@@ -37686,79 +37686,79 @@
 {"parent": "GroupFiniteness.fg_of_extension", "child": "MilnorWolf_Growth", "via": ["solution"]}
 {"parent": "GroupFiniteness.isFinitelyPresented_of_extension", "child": "GroupFiniteness.fg_of_extension", "via": ["solution"]}
 {"parent": "GroupFiniteness.isFinitelyPresented_of_extension", "child": "MilnorWolf_Growth", "via": ["solution"]}
-{"parent": "Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable", "child": "auto_GRU_M05_EFFECTIVE_TYPES_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable", "child": "auto_GRU_M05_EFFECTIVE_TYPES_PolytopeFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable", "child": "auto_GRU_M05_EFFECTIVE_TYPES_SchemeRealizes", "via": ["statement"]}
-{"parent": "Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable", "child": "auto_GRU_M05_EFFECTIVE_TYPES_faceCount", "via": ["statement"]}
-{"parent": "Grunbaum2003.auto_GRU_M05_GALE_EQ_gale_combinatorial_equivalence", "child": "auto_GRU_M05_GALE_EQ_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.auto_GRU_M05_GALE_EQ_gale_combinatorial_equivalence", "child": "auto_GRU_M05_GALE_EQ_IsGaleTransform", "via": ["statement"]}
-{"parent": "Grunbaum2003.auto_GRU_M05_GALE_EQ_gale_combinatorial_equivalence", "child": "auto_GRU_M05_GALE_EQ_PolytopeFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.auto_GRU_M05_PRESCRIBED_perles_prescribed_section", "child": "auto_GRU_M05_PRESCRIBED_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.auto_GRU_M05_PRESCRIBED_perles_prescribed_section", "child": "auto_GRU_M05_PRESCRIBED_faceCount", "via": ["statement"]}
-{"parent": "Grunbaum2003.barany_por_binary_facet_growth", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.barany_por_binary_facet_growth", "child": "Grunbaum2003_IsZeroOnePolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.barany_por_binary_facet_growth", "child": "Grunbaum2003_faceCount", "via": ["statement"]}
-{"parent": "Grunbaum2003.blind_mani_graph_reconstruction", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.blind_mani_graph_reconstruction", "child": "Grunbaum2003_PolytopeFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.blind_mani_graph_reconstruction", "child": "Grunbaum2003_PolytopeVertex", "via": ["statement"]}
-{"parent": "Grunbaum2003.blind_mani_graph_reconstruction", "child": "Grunbaum2003_SkeletonFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.blind_mani_graph_reconstruction", "child": "Grunbaum2003_polytopeGraph", "via": ["statement"]}
-{"parent": "Grunbaum2003.boundary_refines_simplex", "child": "Grunbaum2003_BoundaryRefines", "via": ["statement"]}
-{"parent": "Grunbaum2003.boundary_refines_simplex", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
+{"parent": "Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable", "child": "auto_GRU_M05_EFFECTIVE_TYPES_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable", "child": "auto_GRU_M05_EFFECTIVE_TYPES_PolytopeFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable", "child": "auto_GRU_M05_EFFECTIVE_TYPES_SchemeRealizes", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable", "child": "auto_GRU_M05_EFFECTIVE_TYPES_faceCount", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.auto_GRU_M05_GALE_EQ_gale_combinatorial_equivalence", "child": "auto_GRU_M05_GALE_EQ_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.auto_GRU_M05_GALE_EQ_gale_combinatorial_equivalence", "child": "auto_GRU_M05_GALE_EQ_IsGaleTransform", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.auto_GRU_M05_GALE_EQ_gale_combinatorial_equivalence", "child": "auto_GRU_M05_GALE_EQ_PolytopeFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.auto_GRU_M05_PRESCRIBED_perles_prescribed_section", "child": "auto_GRU_M05_PRESCRIBED_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.auto_GRU_M05_PRESCRIBED_perles_prescribed_section", "child": "auto_GRU_M05_PRESCRIBED_faceCount", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.barany_por_binary_facet_growth", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.barany_por_binary_facet_growth", "child": "Grunbaum2003_IsZeroOnePolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.barany_por_binary_facet_growth", "child": "Grunbaum2003_faceCount", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.blind_mani_graph_reconstruction", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.blind_mani_graph_reconstruction", "child": "Grunbaum2003_PolytopeFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.blind_mani_graph_reconstruction", "child": "Grunbaum2003_PolytopeVertex", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.blind_mani_graph_reconstruction", "child": "Grunbaum2003_SkeletonFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.blind_mani_graph_reconstruction", "child": "Grunbaum2003_polytopeGraph", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.boundary_refines_simplex", "child": "Grunbaum2003_BoundaryRefines", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.boundary_refines_simplex", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.bounded_closed_convex_extreme_representation", "child": "auto_GRUM02ER_1c2100_Grunbaum2003_RecessionDefinitions", "via": ["statement"]}
 {"parent": "Grunbaum2003.caratheodory_fin_dim", "child": "auto_GRUM02ER_1c2100_Grunbaum2003_RecessionDefinitions", "via": ["solution", "statement"]}
-{"parent": "Grunbaum2003.centrally_symmetric_neighborly_families", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
+{"parent": "Grunbaum2003.centrally_symmetric_neighborly_families", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.characteristicCone_cone_basics", "child": "auto_GRUM02ER_1c2100_Grunbaum2003_RecessionDefinitions", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.characteristicCone_of_bounded_eq_singleton", "child": "auto_GRUM02ER_1c2100_Grunbaum2003_RecessionDefinitions", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.closed_convex_extreme_recession_representation", "child": "auto_GRUM02ER_1c2100_Grunbaum2003_RecessionDefinitions", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.closed_convex_line_free_extremePoint_exists", "child": "auto_GRUM02ER_1c2100_Grunbaum2003_RecessionDefinitions", "via": ["solution", "statement"]}
-{"parent": "Grunbaum2003.combinatorial_types_effectively_enumerable", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.combinatorial_types_effectively_enumerable", "child": "Grunbaum2003_PolytopeFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.combinatorial_types_effectively_enumerable", "child": "Grunbaum2003_SchemeRealizes", "via": ["statement"]}
-{"parent": "Grunbaum2003.combinatorial_types_effectively_enumerable", "child": "Grunbaum2003_faceCount", "via": ["statement"]}
+{"parent": "Grunbaum2003.combinatorial_types_effectively_enumerable", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.combinatorial_types_effectively_enumerable", "child": "Grunbaum2003_PolytopeFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.combinatorial_types_effectively_enumerable", "child": "Grunbaum2003_SchemeRealizes", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.combinatorial_types_effectively_enumerable", "child": "Grunbaum2003_faceCount", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.isCompact_convexHull_of_compact", "child": "auto_GRUM02ER_1c2100_Grunbaum2003_RecessionDefinitions", "via": ["solution", "statement"]}
-{"parent": "Grunbaum2003.neighborly_cubical_realization", "child": "Grunbaum2003_IsCubicalDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.neighborly_cubical_realization", "child": "Grunbaum2003_SkeletonFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.neighborly_cubical_realization", "child": "Grunbaum2003_standardCube", "via": ["statement"]}
-{"parent": "Grunbaum2003.neighborly_subpolytope_rigidity", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.neighborly_subpolytope_rigidity", "child": "Grunbaum2003_IsKNeighborly", "via": ["statement"]}
-{"parent": "Grunbaum2003.neighborly_subpolytope_rigidity", "child": "Grunbaum2003_PolytopeFace", "via": ["statement"]}
+{"parent": "Grunbaum2003.neighborly_cubical_realization", "child": "Grunbaum2003_IsCubicalDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.neighborly_cubical_realization", "child": "Grunbaum2003_SkeletonFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.neighborly_cubical_realization", "child": "Grunbaum2003_standardCube", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.neighborly_subpolytope_rigidity", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.neighborly_subpolytope_rigidity", "child": "Grunbaum2003_IsKNeighborly", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.neighborly_subpolytope_rigidity", "child": "Grunbaum2003_PolytopeFace", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.perles_prescribed_section", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.perles_prescribed_section", "child": "Grunbaum2003_faceCount", "via": ["solution", "statement"]}
-{"parent": "Grunbaum2003.polynomial_skeleton_reconstruction", "child": "Grunbaum2003_ContainmentPolyTime", "via": ["statement"]}
-{"parent": "Grunbaum2003.polynomial_skeleton_reconstruction", "child": "Grunbaum2003_HasReconstructionFaceRows", "via": ["statement"]}
-{"parent": "Grunbaum2003.polynomial_skeleton_reconstruction", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.polynomial_skeleton_reconstruction", "child": "Grunbaum2003_containmentBitBlock", "via": ["statement"]}
-{"parent": "Grunbaum2003.polynomial_skeleton_reconstruction", "child": "Grunbaum2003_reconstructionIncidenceCode", "via": ["statement"]}
-{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_IsPolytopeRayOracle", "via": ["statement"]}
-{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_IsRayFaceLatticeOutput", "via": ["statement"]}
-{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_PolytopeFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_RayConfiguration", "via": ["statement"]}
-{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_RayInstruction", "via": ["statement"]}
-{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_faceCount", "via": ["statement"]}
-{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_rayMachineRun", "via": ["statement"]}
-{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_rayMachineStep", "via": ["statement"]}
-{"parent": "Grunbaum2003.simplicial_g_theorem", "child": "Grunbaum2003_IsMSequence", "via": ["statement"]}
-{"parent": "Grunbaum2003.simplicial_g_theorem", "child": "Grunbaum2003_IsSimplicialDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.simplicial_g_theorem", "child": "Grunbaum2003_faceCount", "via": ["statement"]}
-{"parent": "Grunbaum2003.simplicial_g_theorem", "child": "Grunbaum2003_gTheoremMatrix", "via": ["statement"]}
-{"parent": "Grunbaum2003.simplicial_skeleton_reconstruction", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.simplicial_skeleton_reconstruction", "child": "Grunbaum2003_IsSimplicialDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.simplicial_skeleton_reconstruction", "child": "Grunbaum2003_PolytopeFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.simplicial_skeleton_reconstruction", "child": "Grunbaum2003_SkeletonFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.skeleton_embedding_dimension", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.skeleton_embedding_dimension", "child": "Grunbaum2003_IsPolytopalComplex", "via": ["statement"]}
-{"parent": "Grunbaum2003.skeleton_embedding_dimension", "child": "Grunbaum2003_SkeletonFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.skeleton_embedding_dimension", "child": "Grunbaum2003_skeletonCarrier", "via": ["statement"]}
-{"parent": "Grunbaum2003.skeleton_embedding_dimension", "child": "Grunbaum2003_skeletonEmbeddingDimension", "via": ["statement"]}
-{"parent": "Grunbaum2003.skeleton_equivalence_extends", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.skeleton_equivalence_extends", "child": "Grunbaum2003_PolytopeFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.skeleton_equivalence_extends", "child": "Grunbaum2003_SkeletonFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.zonotope_graph_reconstruction", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "Grunbaum2003.zonotope_graph_reconstruction", "child": "Grunbaum2003_IsZonotope", "via": ["statement"]}
-{"parent": "Grunbaum2003.zonotope_graph_reconstruction", "child": "Grunbaum2003_PolytopeFace", "via": ["statement"]}
-{"parent": "Grunbaum2003.zonotope_graph_reconstruction", "child": "Grunbaum2003_SkeletonFace", "via": ["statement"]}
+{"parent": "Grunbaum2003.polynomial_skeleton_reconstruction", "child": "Grunbaum2003_ContainmentPolyTime", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.polynomial_skeleton_reconstruction", "child": "Grunbaum2003_HasReconstructionFaceRows", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.polynomial_skeleton_reconstruction", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.polynomial_skeleton_reconstruction", "child": "Grunbaum2003_containmentBitBlock", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.polynomial_skeleton_reconstruction", "child": "Grunbaum2003_reconstructionIncidenceCode", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_IsPolytopeRayOracle", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_IsRayFaceLatticeOutput", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_PolytopeFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_RayConfiguration", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_RayInstruction", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_faceCount", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_rayMachineRun", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.ray_oracle_face_lattice_reconstruction", "child": "Grunbaum2003_rayMachineStep", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.simplicial_g_theorem", "child": "Grunbaum2003_IsMSequence", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.simplicial_g_theorem", "child": "Grunbaum2003_IsSimplicialDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.simplicial_g_theorem", "child": "Grunbaum2003_faceCount", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.simplicial_g_theorem", "child": "Grunbaum2003_gTheoremMatrix", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.simplicial_skeleton_reconstruction", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.simplicial_skeleton_reconstruction", "child": "Grunbaum2003_IsSimplicialDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.simplicial_skeleton_reconstruction", "child": "Grunbaum2003_PolytopeFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.simplicial_skeleton_reconstruction", "child": "Grunbaum2003_SkeletonFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.skeleton_embedding_dimension", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.skeleton_embedding_dimension", "child": "Grunbaum2003_IsPolytopalComplex", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.skeleton_embedding_dimension", "child": "Grunbaum2003_SkeletonFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.skeleton_embedding_dimension", "child": "Grunbaum2003_skeletonCarrier", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.skeleton_embedding_dimension", "child": "Grunbaum2003_skeletonEmbeddingDimension", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.skeleton_equivalence_extends", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.skeleton_equivalence_extends", "child": "Grunbaum2003_PolytopeFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.skeleton_equivalence_extends", "child": "Grunbaum2003_SkeletonFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.zonotope_graph_reconstruction", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.zonotope_graph_reconstruction", "child": "Grunbaum2003_IsZonotope", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.zonotope_graph_reconstruction", "child": "Grunbaum2003_PolytopeFace", "via": ["solution", "statement"]}
+{"parent": "Grunbaum2003.zonotope_graph_reconstruction", "child": "Grunbaum2003_SkeletonFace", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003_BoundaryRefines", "child": "Grunbaum2003_boundaryFaces", "via": ["statement"]}
 {"parent": "Grunbaum2003_IsCubicalDPolytope", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
 {"parent": "Grunbaum2003_IsCubicalDPolytope", "child": "Grunbaum2003_PolytopeFace", "via": ["statement"]}
@@ -37958,7 +37958,7 @@
 {"parent": "HadwigerConj.hc_five", "child": "HadwigerConj_Defs", "via": ["statement"]}
 {"parent": "HadwigerConj.hc_four", "child": "HadwigerConj_Defs", "via": ["statement"]}
 {"parent": "HadwigerConj.hc_of_le_three", "child": "HadwigerConj_Defs", "via": ["solution", "statement"]}
-{"parent": "HadwigerConj.kostochka_thomason_colorable", "child": "HadwigerConj_Defs", "via": ["statement"]}
+{"parent": "HadwigerConj.kostochka_thomason_colorable", "child": "HadwigerConj_Defs", "via": ["solution", "statement"]}
 {"parent": "HadwigerConj.mader_edge_bound_le_seven", "child": "HadwigerConj_Defs", "via": ["statement"]}
 {"parent": "HadwigerConj.mader_linear_edges", "child": "HadwigerConj_Defs", "via": ["solution", "statement"]}
 {"parent": "HadwigerConj.wagner_colorable_two_pow", "child": "HadwigerConj_Defs", "via": ["solution", "statement"]}
@@ -41028,8 +41028,8 @@
 {"parent": "HighDimProb.DvoretzkyMilman.dvoretzky_milman", "child": "HighDimProb_DvoretzkyMilman_StableDimension", "via": ["statement"]}
 {"parent": "HighDimProb.Isoperimetry.johnson_lindenstrauss", "child": "HighDimProb.Isoperimetry.random_projection_concentration", "via": ["solution"]}
 {"parent": "HighDimProb.Isoperimetry.johnson_lindenstrauss", "child": "HighDimProb_Isoperimetry_UniformProjection", "via": ["solution", "statement"]}
-{"parent": "HighDimProb.Isoperimetry.lipschitz_concentration_sphere", "child": "HighDimProb_Isoperimetry_SubgaussianNorm", "via": ["statement"]}
-{"parent": "HighDimProb.Isoperimetry.lipschitz_concentration_sphere", "child": "HighDimProb_Isoperimetry_UniformOnSphere", "via": ["statement"]}
+{"parent": "HighDimProb.Isoperimetry.lipschitz_concentration_sphere", "child": "HighDimProb_Isoperimetry_SubgaussianNorm", "via": ["solution", "statement"]}
+{"parent": "HighDimProb.Isoperimetry.lipschitz_concentration_sphere", "child": "HighDimProb_Isoperimetry_UniformOnSphere", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.Isoperimetry.random_projection_concentration", "child": "HighDimProb_Isoperimetry_UniformProjection", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.Isoperimetry.random_projection_expectation", "child": "HighDimProb_Isoperimetry_UniformProjection", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.QuadraticForms.bilinear_mgf_reduction", "child": "HighDimProb_Concentration_SubgaussianNorm", "via": ["solution", "statement"]}
@@ -41115,7 +41115,7 @@
 {"parent": "HighDimStat.RandomMatrices.thresholding_deterministic_bound", "child": "HighDimStat_RandomMatrices_maxNorm", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.RandomMatrices.thresholding_deterministic_bound", "child": "HighDimStat_RandomMatrices_opNorm", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.RandomMatrices.thresholding_deterministic_bound", "child": "HighDimStat_RandomMatrices_thresholdMatrix", "via": ["solution", "statement"]}
-{"parent": "HighDimStat.Rkhs.thm12_11_moore_aronszajn", "child": "HighDimStat_Rkhs_Core", "via": ["solution", "statement"]}
+{"parent": "HighDimStat.Rkhs.thm12_11_moore_aronszajn", "child": "HighDimStat_Rkhs_Core", "via": ["statement"]}
 {"parent": "HighDimStat.Rkhs.thm12_13_converse", "child": "HighDimStat_Rkhs_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.Rkhs.thm12_20_mercer_v2", "child": "HighDimStat_Rkhs_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.SparseLinear.lasso_l2_error_bound_v2", "child": "HighDimStat_SparseLinear_HasSupport", "via": ["solution", "statement"]}
@@ -45530,7 +45530,7 @@
 {"parent": "InfoGen.HighProb.lemma_B_1", "child": "InfoGen_HighProb_Setting", "via": ["statement"]}
 {"parent": "InfoGen.HighProb.lemma_B_2", "child": "InfoGen_HighProb_Setting", "via": ["statement"]}
 {"parent": "InfoGen.HighProb.monitor_info_bound", "child": "InfoGen_HighProb_Setting", "via": ["statement"]}
-{"parent": "InfoGen.HighProb.theorem_3", "child": "InfoGen_HighProb_Setting", "via": ["statement"]}
+{"parent": "InfoGen.HighProb.theorem_3", "child": "InfoGen_HighProb_Setting", "via": ["solution", "statement"]}
 {"parent": "InfoGen.HighProb.theorem_4", "child": "InfoGen_HighProb_Setting", "via": ["statement"]}
 {"parent": "InfoGen_Expected_Setting", "child": "LearnStability_Characterization_Setting", "via": ["statement"]}
 {"parent": "InfoGen_Gibbs_Setting", "child": "InfoGen_Expected_Setting", "via": ["statement"]}
@@ -50306,7 +50306,7 @@
 {"parent": "KarpPapadimitriou.Generator.theorem_2", "child": "KarpPapadimitriou_Generator_Oracle", "via": ["statement"]}
 {"parent": "KarpPapadimitriou.SmallFacial.cramer_bound", "child": "KarpPapadimitriou_SmallFacial_COP", "via": ["solution", "statement"]}
 {"parent": "KarpPapadimitriou.SmallFacial.ip_vertex_bound", "child": "KarpPapadimitriou_SmallFacial_COP", "via": ["statement"]}
-{"parent": "KarpPapadimitriou.SmallFacial.lemma_1", "child": "KarpPapadimitriou_SmallFacial_COP", "via": ["statement"]}
+{"parent": "KarpPapadimitriou.SmallFacial.lemma_1", "child": "KarpPapadimitriou_SmallFacial_COP", "via": ["solution", "statement"]}
 {"parent": "KarpPapadimitriou.SmallFacial.zero_one_vertices", "child": "KarpPapadimitriou_SmallFacial_COP", "via": ["solution", "statement"]}
 {"parent": "KarpPapadimitriou_Facial_COP", "child": "CookPvsNP_defs", "via": ["statement"]}
 {"parent": "KarpPapadimitriou_Facial_COP", "child": "ProjSchedTW_Complexity_Encoding", "via": ["statement"]}
@@ -50446,8 +50446,8 @@
 {"parent": "Kawahira.xi_variant", "child": "Kawahira_zeta", "via": ["solution", "statement"]}
 {"parent": "Kawahira_zeta", "child": "Kawahira_dynamics", "via": ["statement"]}
 {"parent": "KeatingSnaith.cue_abs_moment", "child": "keating_snaith_cue", "via": ["statement"]}
-{"parent": "KeatingSnaith.cue_even_moment", "child": "keating_snaith_cue", "via": ["statement"]}
-{"parent": "KeatingSnaith.cue_even_moment_asymptotics", "child": "keating_snaith_cue", "via": ["statement"]}
+{"parent": "KeatingSnaith.cue_even_moment", "child": "keating_snaith_cue", "via": ["solution", "statement"]}
+{"parent": "KeatingSnaith.cue_even_moment_asymptotics", "child": "keating_snaith_cue", "via": ["solution", "statement"]}
 {"parent": "KeatingSnaith.cue_imLogZ_clt", "child": "keating_snaith_cue", "via": ["solution", "statement"]}
 {"parent": "KeatingSnaith.cue_imlog_generating", "child": "keating_snaith_cue", "via": ["statement"]}
 {"parent": "KeatingSnaith.cue_joint_generating", "child": "keating_snaith_cue", "via": ["statement"]}
@@ -50514,7 +50514,7 @@
 {"parent": "KellyLossNetworks.Routing.mean_Y_gt_one", "child": "KellyLossNetworks_Routing_Model", "via": ["solution", "statement"]}
 {"parent": "KellyLossNetworks.Routing.mean_Z_lt_one", "child": "KellyLossNetworks_Routing_Model", "via": ["solution", "statement"]}
 {"parent": "KellyLossNetworks.Routing.reserve_at_most_once", "child": "KellyLossNetworks_Routing_Model", "via": ["solution", "statement"]}
-{"parent": "KellyLossNetworks.Routing.theorem_4_45", "child": "KellyLossNetworks_Routing_Model", "via": ["statement"]}
+{"parent": "KellyLossNetworks.Routing.theorem_4_45", "child": "KellyLossNetworks_Routing_Model", "via": ["solution", "statement"]}
 {"parent": "KellyLossNetworks.Routing.union_bound", "child": "KellyLossNetworks_Routing_Model", "via": ["statement"]}
 {"parent": "KellyLossNetworks.Routing.upper_tail_4_49", "child": "KellyLossNetworks_Routing_Model", "via": ["statement"]}
 {"parent": "KellyLossNetworks_Primal_Problem", "child": "KellyStochasticNetworks_LossNetwork", "via": ["statement"]}
@@ -73769,7 +73769,7 @@
 {"parent": "LinearPathTuran.Exact.lemma_4_2", "child": "LinearPathTuran_Exact_DeltaSystem", "via": ["statement"]}
 {"parent": "LinearPathTuran.Exact.lemma_4_3", "child": "LinearPathTuran_Exact_DeltaSystem", "via": ["statement"]}
 {"parent": "LinearPathTuran.Exact.proposition_3_4", "child": "LinearPathTuran_Exact_DeltaSystem", "via": ["solution", "statement"]}
-{"parent": "LinearPathTuran.Exact.theorem_1_1", "child": "LinearPathTuran_Exact_Setting", "via": ["statement"]}
+{"parent": "LinearPathTuran.Exact.theorem_1_1", "child": "LinearPathTuran_Exact_Setting", "via": ["solution", "statement"]}
 {"parent": "LinearPathTuran.Exact.theorem_2_4", "child": "LinearPathTuran_Exact_Setting", "via": ["statement"]}
 {"parent": "LinearPathTuran.Exact.theorem_3_8", "child": "LinearPathTuran_Exact_DeltaSystem", "via": ["statement"]}
 {"parent": "LinearPathTuran.Exact.theorem_3_9", "child": "LinearPathTuran_Exact_DeltaSystem", "via": ["statement"]}
@@ -80669,7 +80669,7 @@
 {"parent": "LogSobolevMC.LowerBound.eq_3_7", "child": "mm_basic", "via": ["statement"]}
 {"parent": "LogSobolevMC.LowerBound.eq_3_7", "child": "mm_lower", "via": ["statement"]}
 {"parent": "LogSobolevMC.LowerBound.lsi_from_hyper", "child": "LogSobolevMC_LowerBound_Setting", "via": ["statement"]}
-{"parent": "LogSobolevMC.LowerBound.theorem_3_9", "child": "LogSobolevMC_LowerBound_Setting", "via": ["statement"]}
+{"parent": "LogSobolevMC.LowerBound.theorem_3_9", "child": "LogSobolevMC_LowerBound_Setting", "via": ["solution", "statement"]}
 {"parent": "LogSobolevMC.Metropolis.corollary_3_8", "child": "LogSobolevMC_Metropolis_Setting", "via": ["statement"]}
 {"parent": "LogSobolevMC.Metropolis.corollary_3_8", "child": "mm_basic", "via": ["statement"]}
 {"parent": "LogSobolevMC.Metropolis.example_1_1", "child": "LogSobolevMC_Metropolis_Chains", "via": ["solution", "statement"]}
@@ -82523,7 +82523,7 @@
 {"parent": "MDPComplexity.Discounted.theorem4_optimal_sigma", "child": "MDPComplexity_Discounted_Model", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.PartiallyObserved.cost_splits_over_clause", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
 {"parent": "MDPComplexity.PartiallyObserved.holds_imp_zero_cost", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
-{"parent": "MDPComplexity.PartiallyObserved.theorem6_reduction", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
+{"parent": "MDPComplexity.PartiallyObserved.theorem6_reduction", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.PartiallyObserved.unsatisfied_clause_cost", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
 {"parent": "MDPComplexity.PartiallyObserved.zero_cost_imp_holds", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
 {"parent": "MDPComplexity.StationaryHorizon.cycle_decomposition", "child": "MDPComplexity_StationaryHorizon_Model", "via": ["solution", "statement"]}
@@ -98593,8 +98593,8 @@
 {"parent": "MechanismDesign.Dynamic.optimal_multi_buyer", "child": "MechanismDesign_Dynamic_Model", "via": ["statement"]}
 {"parent": "MechanismDesign.Dynamic.optimal_multi_buyer", "child": "MechanismDesign_Dynamic_MultiBuyer", "via": ["statement"]}
 {"parent": "MechanismDesign.Dynamic.optimal_multi_buyer", "child": "MechanismDesign_Dynamic_OptimalScreening", "via": ["statement"]}
-{"parent": "MechanismDesign.Dynamic.optimal_sequential_screening", "child": "MechanismDesign_Dynamic_Model", "via": ["statement"]}
-{"parent": "MechanismDesign.Dynamic.optimal_sequential_screening", "child": "MechanismDesign_Dynamic_OptimalScreening", "via": ["statement"]}
+{"parent": "MechanismDesign.Dynamic.optimal_sequential_screening", "child": "MechanismDesign_Dynamic_Model", "via": ["solution", "statement"]}
+{"parent": "MechanismDesign.Dynamic.optimal_sequential_screening", "child": "MechanismDesign_Dynamic_OptimalScreening", "via": ["solution", "statement"]}
 {"parent": "MechanismDesign.Dynamic.private_optimal_public_optimal", "child": "MechanismDesign_Dynamic_Model", "via": ["statement"]}
 {"parent": "MechanismDesign.Dynamic.private_optimal_public_optimal", "child": "MechanismDesign_Dynamic_ObservableGamma", "via": ["statement"]}
 {"parent": "MechanismDesign.Dynamic.private_optimal_public_optimal", "child": "MechanismDesign_Dynamic_OptimalScreening", "via": ["statement"]}

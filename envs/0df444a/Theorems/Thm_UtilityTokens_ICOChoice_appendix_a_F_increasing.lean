@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UtilityTokens_ICOChoice_appendix_a_F_increasing
 -- name    : UtilityTokens.ICOChoice.appendix_a_F_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:15.928567+00:00
 -- url     : https://prove2.me/theorems/85129c8c-2a46-48a6-ae96-2af14ad61359

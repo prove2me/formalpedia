@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_PositiveC0ContractiveResolvent_ae_absorbed_after_onePoint_exitTime
 -- name    : MarkovProcess.PositiveC0ContractiveResolvent.ae_absorbed_after_onePoint_exitTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:37.392344+00:00
 -- url     : https://prove2.me/theorems/4800ffbb-120f-4f12-b7ed-7260b1a7c140

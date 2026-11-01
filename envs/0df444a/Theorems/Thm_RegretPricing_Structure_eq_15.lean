@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretPricing_Structure_eq_15
 -- name    : RegretPricing.Structure.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:36.645052+00:00
 -- url     : https://prove2.me/theorems/90f6d3c7-64db-45d3-ba4b-d603561dcec7

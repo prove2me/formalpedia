@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Information100.P44.conditionalTOUpgrade
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T02:39:25.469144+00:00
 -- url     : https://prove2.me/submissions/7a544869-d70f-4b2b-9ff3-353acb13eb4a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QAlgorithms_Papers_Independent_Information100_P44
 import Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_certifiedSDPBounds

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsConservative_feynmanKacResolventReal_add
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsConservative.feynmanKacResolventReal_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:02.196427+00:00
 -- url     : https://prove2.me/theorems/177ff9c2-8359-455b-a1bb-c8df8709928c

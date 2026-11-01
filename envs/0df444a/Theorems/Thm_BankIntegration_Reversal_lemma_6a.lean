@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BankIntegration_Reversal_lemma_6a
 -- name    : BankIntegration.Reversal.lemma_6a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:07.577138+00:00
 -- url     : https://prove2.me/theorems/7aaeb918-4cb3-41ff-86b5-61177390d3f1

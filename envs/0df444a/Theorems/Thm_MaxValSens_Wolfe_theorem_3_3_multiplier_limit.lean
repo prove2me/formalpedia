@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxValSens_Wolfe_theorem_3_3_multiplier_limit
 -- name    : MaxValSens.Wolfe.theorem_3_3_multiplier_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:07:36.484875+00:00
 -- url     : https://prove2.me/theorems/400cf95d-445f-48c5-8647-088efdd5914a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EpiControl_SinglePeak_lemma_13
 -- name    : EpiControl.SinglePeak.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:32.19483+00:00
 -- url     : https://prove2.me/theorems/cc143788-a3b7-4a7f-8845-c6a6b72701b2

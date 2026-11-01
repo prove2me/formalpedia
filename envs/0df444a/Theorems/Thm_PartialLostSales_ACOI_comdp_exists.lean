@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PartialLostSales_ACOI_comdp_exists
 -- name    : PartialLostSales.ACOI.comdp_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:39:34.491035+00:00
 -- url     : https://prove2.me/theorems/ba4f7907-ae35-417e-811a-7952837e4189

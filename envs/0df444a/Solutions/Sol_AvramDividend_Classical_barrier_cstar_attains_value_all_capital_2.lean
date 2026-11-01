@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.barrier_cstar_attains_value_all_capital
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-07T11:36:54.552446+00:00
 -- url     : https://prove2.me/submissions/e8312f12-4974-4b48-ba4c-47c8cf1403f4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

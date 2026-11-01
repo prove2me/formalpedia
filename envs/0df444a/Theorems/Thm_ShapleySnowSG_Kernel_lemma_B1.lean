@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleySnowSG_Kernel_lemma_B1
 -- name    : ShapleySnowSG.Kernel.lemma_B1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:44.853663+00:00
 -- url     : https://prove2.me/theorems/f383a40b-24c4-4ef4-995c-4f29990bfbaa

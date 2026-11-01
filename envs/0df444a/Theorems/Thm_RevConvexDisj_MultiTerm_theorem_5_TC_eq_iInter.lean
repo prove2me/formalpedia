@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevConvexDisj_MultiTerm_theorem_5_TC_eq_iInter
 -- name    : RevConvexDisj.MultiTerm.theorem_5_TC_eq_iInter
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:56.626675+00:00
 -- url     : https://prove2.me/theorems/8b88fbcf-2b02-4772-b750-3b4815988a03

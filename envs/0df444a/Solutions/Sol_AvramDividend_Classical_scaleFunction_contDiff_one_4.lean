@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.scaleFunction_contDiff_one
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T19:08:23.32335+00:00
 -- url     : https://prove2.me/submissions/82be3667-c348-4b66-b864-150fc8a08cfa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_ScaleFunction
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one_of_standing

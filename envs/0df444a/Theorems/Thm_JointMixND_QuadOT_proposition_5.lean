@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JointMixND_QuadOT_proposition_5
 -- name    : JointMixND.QuadOT.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:54.364336+00:00
 -- url     : https://prove2.me/theorems/15d62516-8138-4436-a4a1-c978ed94eab4

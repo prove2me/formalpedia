@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UtilityTokens_ICOChoice_ico_revenues_larger
 -- name    : UtilityTokens.ICOChoice.ico_revenues_larger
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:24.757997+00:00
 -- url     : https://prove2.me/theorems/3c3225d1-bb68-4cc3-b1a3-b136ca87d91b

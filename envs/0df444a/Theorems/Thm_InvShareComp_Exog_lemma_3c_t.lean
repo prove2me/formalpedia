@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvShareComp_Exog_lemma_3c_t
 -- name    : InvShareComp.Exog.lemma_3c_t
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:07:16.82932+00:00
 -- url     : https://prove2.me/theorems/fc804bd3-3bb9-4c93-af7c-2bdb40c928d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuyXFree_Threshold_case_a_d_bounds
 -- name    : BuyXFree.Threshold.case_a_d_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:53.676157+00:00
 -- url     : https://prove2.me/theorems/0f044c32-bdd5-4b57-8222-84c559c35d7a

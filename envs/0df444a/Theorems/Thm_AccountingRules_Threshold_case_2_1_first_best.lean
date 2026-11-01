@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccountingRules_Threshold_case_2_1_first_best
 -- name    : AccountingRules.Threshold.case_2_1_first_best
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:47.396225+00:00
 -- url     : https://prove2.me/theorems/182e7d65-c879-4078-814c-eeea631fa01d

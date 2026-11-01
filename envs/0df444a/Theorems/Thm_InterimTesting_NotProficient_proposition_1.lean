@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterimTesting_NotProficient_proposition_1
 -- name    : InterimTesting.NotProficient.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:15.860764+00:00
 -- url     : https://prove2.me/theorems/515034be-f989-4017-a5fc-8b013752b65b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMCProduct_HalfApprox_deltaL_edge
 -- name    : QMCProduct.HalfApprox.deltaL_edge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:50:21.933502+00:00
 -- url     : https://prove2.me/theorems/3fe6aa68-f17c-413e-add2-394d9f9605f7

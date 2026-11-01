@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsLambdaExcessive_supermartingale_discountedValueProcess
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsLambdaExcessive.supermartingale_discountedValueProcess
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:32:48.721333+00:00
 -- url     : https://prove2.me/theorems/255f1328-a7f3-4a49-b907-6e776577fc3b

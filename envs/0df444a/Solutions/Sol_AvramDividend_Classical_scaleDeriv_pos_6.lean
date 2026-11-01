@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for AvramDividend.Classical.scaleDeriv_pos
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T19:32:41.857494+00:00
 -- url     : https://prove2.me/submissions/3c3e4a21-6694-4d9d-9b54-59dfdf2a4efe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Deriv
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_strict_pos_of_standing

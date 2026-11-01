@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccountingRules_Threshold_proposition_2
 -- name    : AccountingRules.Threshold.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:55.697007+00:00
 -- url     : https://prove2.me/theorems/a673b088-2701-4f47-ae4a-2f68b13a5650

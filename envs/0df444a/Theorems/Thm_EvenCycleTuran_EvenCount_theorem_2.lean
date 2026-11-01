@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EvenCycleTuran_EvenCount_theorem_2
 -- name    : EvenCycleTuran.EvenCount.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:25:49.915105+00:00
 -- url     : https://prove2.me/theorems/06ec184d-0296-44f9-98ed-e8d60e27df81

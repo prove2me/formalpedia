@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_01_log_derivative_to_scale_C1
 -- name    : AvramDividend.Classical.avram_wave3_01_log_derivative_to_scale_C1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T22:31:24.63022+00:00
 -- url     : https://prove2.me/theorems/503f29b1-44f0-4387-81cd-260ccc256d1d

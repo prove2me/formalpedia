@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_isBrownianReal_brownianMotion
 -- name    : MarkovProcess.isBrownianReal_brownianMotion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:09.047655+00:00
 -- url     : https://prove2.me/theorems/518f76c9-baba-4686-999e-d7e1400b1f57

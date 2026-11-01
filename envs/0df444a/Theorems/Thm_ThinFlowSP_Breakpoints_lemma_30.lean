@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThinFlowSP_Breakpoints_lemma_30
 -- name    : ThinFlowSP.Breakpoints.lemma_30
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:29:38.387405+00:00
 -- url     : https://prove2.me/theorems/4bce3391-7f5a-4d1a-8b92-2baf08384471

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ContinuumCoulomb_unit_coulomb_qmaHard
 -- name    : OAI.ContinuumCoulomb.unit_coulomb_qmaHard
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:28.885695+00:00
 -- url     : https://prove2.me/theorems/6079b0d2-224d-404a-b979-4fc8933c6fc9

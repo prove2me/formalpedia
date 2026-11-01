@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Persist_kolmogorov_sde_exists
 -- name    : StochKolmogorov.Persist.kolmogorov_sde_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-31T03:51:16.978089+00:00
 -- url     : https://prove2.me/theorems/e99604a6-f5a1-40aa-a41c-b42cd4370800

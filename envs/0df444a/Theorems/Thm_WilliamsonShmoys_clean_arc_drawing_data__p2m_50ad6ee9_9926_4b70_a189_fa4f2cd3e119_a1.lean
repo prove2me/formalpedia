@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_clean_arc_drawing_data__p2m_50ad6ee9_9926_4b70_a189_fa4f2cd3e119_a1
 -- name    : WilliamsonShmoys.clean_arc_drawing_data__p2m_50ad6ee9_9926_4b70_a189_fa4f2cd3e119_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T09:20:04.023955+00:00
 -- url     : https://prove2.me/theorems/a073dd38-4e30-4f95-9bdc-3dc54f59a882

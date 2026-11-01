@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InconsistentDR_Shadow_corollary_5_7
 -- name    : InconsistentDR.Shadow.corollary_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:36.831056+00:00
 -- url     : https://prove2.me/theorems/024d4ca8-2f71-455d-b38d-215b56793669

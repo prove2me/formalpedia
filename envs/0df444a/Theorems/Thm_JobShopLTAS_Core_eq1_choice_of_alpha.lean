@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JobShopLTAS_Core_eq1_choice_of_alpha
 -- name    : JobShopLTAS.Core.eq1_choice_of_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:57:57.123947+00:00
 -- url     : https://prove2.me/theorems/57b66672-60cb-4035-b992-4a63e9d463b6

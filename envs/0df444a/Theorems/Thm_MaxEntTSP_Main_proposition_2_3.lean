@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxEntTSP_Main_proposition_2_3
 -- name    : MaxEntTSP.Main.proposition_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:31:09.583647+00:00
 -- url     : https://prove2.me/theorems/2361dcd7-6612-4e9b-8654-30f02ac2ea2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_conditionalTOUpgrade
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.conditionalTOUpgrade
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:40:06.150977+00:00
 -- url     : https://prove2.me/theorems/3688bd33-cdc3-4e8a-9d84-e38930a06c5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JointMixND_QuadOT_eq_21_variance_eq
 -- name    : JointMixND.QuadOT.eq_21_variance_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:08.492875+00:00
 -- url     : https://prove2.me/theorems/29e88bc4-7668-4283-8754-34ec930ddfac

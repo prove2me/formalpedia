@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_add_clean_edge__p2m_03072eec_b341_4d2a_bf51_52bbec077883_a1
 -- name    : WilliamsonShmoys.planar_drawing_add_clean_edge__p2m_03072eec_b341_4d2a_bf51_52bbec077883_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:58:44.146978+00:00
 -- url     : https://prove2.me/theorems/a28e5ee4-bf60-4e7a-aa04-8ab47cd06895

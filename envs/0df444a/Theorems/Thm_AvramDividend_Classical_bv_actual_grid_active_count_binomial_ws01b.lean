@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_actual_grid_active_count_binomial_ws01b
 -- name    : AvramDividend.Classical.bv_actual_grid_active_count_binomial_ws01b
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T09:56:10.998084+00:00
 -- url     : https://prove2.me/theorems/ebded8db-bbd8-4a6c-9fc4-220f56f7b51e

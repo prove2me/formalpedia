@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrictionInvest_Benefit_proposition_3_decomposition
 -- name    : FrictionInvest.Benefit.proposition_3_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:34:01.180265+00:00
 -- url     : https://prove2.me/theorems/f550185e-e8ef-40b4-b440-6e43a491d589

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OverflowBinPacking_IID_heavy_case
 -- name    : OverflowBinPacking.IID.heavy_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:37.060752+00:00
 -- url     : https://prove2.me/theorems/a8a7dead-d765-4171-88d8-f02ee333e5f9

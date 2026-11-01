@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetAgg_NashChar_nash_efficient_gsp
 -- name    : BudgetAgg.NashChar.nash_efficient_gsp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:40.176131+00:00
 -- url     : https://prove2.me/theorems/eabe7307-5aa4-4374-a3de-f3cf0c98911f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JointMixND_QuadOT_proof_theorem_4_rho_range
 -- name    : JointMixND.QuadOT.proof_theorem_4_rho_range
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:44.142511+00:00
 -- url     : https://prove2.me/theorems/d9d241de-e25d-4f30-92f6-86bfd651cceb

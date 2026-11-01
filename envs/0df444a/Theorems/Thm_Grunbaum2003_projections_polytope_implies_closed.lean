@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_projections_polytope_implies_closed
 -- name    : Grunbaum2003.projections_polytope_implies_closed
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-09T20:13:41.69099+00:00
 -- url     : https://prove2.me/theorems/2af5a585-2fd5-44ab-a523-d30b4fa91b31

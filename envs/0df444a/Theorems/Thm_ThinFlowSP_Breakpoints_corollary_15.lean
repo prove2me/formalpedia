@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThinFlowSP_Breakpoints_corollary_15
 -- name    : ThinFlowSP.Breakpoints.corollary_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:29:37.670658+00:00
 -- url     : https://prove2.me/theorems/622b8748-cbed-4310-9c93-290e4e7310c0

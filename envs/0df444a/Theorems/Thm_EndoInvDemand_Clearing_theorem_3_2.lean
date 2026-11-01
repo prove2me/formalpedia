@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoInvDemand_Clearing_theorem_3_2
 -- name    : EndoInvDemand.Clearing.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:58.782114+00:00
 -- url     : https://prove2.me/theorems/7056c08f-20d4-46f9-ab00-f0a0c199444a

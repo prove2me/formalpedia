@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PartialLostSales_ACOI_wstar_holds
 -- name    : PartialLostSales.ACOI.wstar_holds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:39:52.86198+00:00
 -- url     : https://prove2.me/theorems/02f3d5be-3eee-4fd1-bdf1-c9c5f884a4ac

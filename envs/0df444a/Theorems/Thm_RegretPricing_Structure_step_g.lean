@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretPricing_Structure_step_g
 -- name    : RegretPricing.Structure.step_g
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:41.731978+00:00
 -- url     : https://prove2.me/theorems/640a2811-7744-48ef-ad15-c938ba292f41

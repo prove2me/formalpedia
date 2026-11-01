@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StoneRegression_Quantile_theorem_3
 -- name    : StoneRegression.Quantile.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:45.994627+00:00
 -- url     : https://prove2.me/theorems/92bd978b-4a58-40c1-b5f1-7c45e0120d08

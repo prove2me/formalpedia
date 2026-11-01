@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDelegation_Optimal_centralisation_optimum
 -- name    : TeamDelegation.Optimal.centralisation_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:20.497005+00:00
 -- url     : https://prove2.me/theorems/cf68f029-2906-49b6-9007-c16c004169bd

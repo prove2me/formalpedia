@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_05_tent_weighted_integrated_positive_tail_bound
 -- name    : AvramDividend.Classical.avram_wave3_05_tent_weighted_integrated_positive_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:52:10.623376+00:00
 -- url     : https://prove2.me/theorems/95a39837-be2b-4092-80a0-553620e77544

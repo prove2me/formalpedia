@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicPolicy_StochasticOpt_induced_transport
 -- name    : StrategicPolicy.StochasticOpt.induced_transport
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T13:00:28.573826+00:00
 -- url     : https://prove2.me/theorems/956fcb36-504e-4f39-afec-7606ffedf638

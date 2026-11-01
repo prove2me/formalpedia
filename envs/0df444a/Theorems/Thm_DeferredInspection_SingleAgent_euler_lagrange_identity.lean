@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeferredInspection_SingleAgent_euler_lagrange_identity
 -- name    : DeferredInspection.SingleAgent.euler_lagrange_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:14.544992+00:00
 -- url     : https://prove2.me/theorems/576742c0-0912-4523-a7ef-54f8ce6fb6a9

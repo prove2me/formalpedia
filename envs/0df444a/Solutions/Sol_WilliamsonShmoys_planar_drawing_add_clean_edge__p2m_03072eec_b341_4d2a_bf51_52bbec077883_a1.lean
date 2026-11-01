@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_add_clean_edge__p2m_03072eec_b341_4d2a_bf51_52bbec077883_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T06:24:42.42002+00:00
 -- url     : https://prove2.me/submissions/264d166d-70b3-4bb9-bf17-23f846de3cf4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_clean_arc_augmented_drawing__p2m_a28e5ee4_bf60_4e7a_aa04_8ab47cd06895_a1

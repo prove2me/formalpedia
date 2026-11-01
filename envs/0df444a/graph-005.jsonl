@@ -4787,8 +4787,8 @@
 {"parent": "syracuse_primitive_word_affine_nondivisibility_with_baseline_budget", "child": "syracuseStep", "via": ["solution"]}
 {"parent": "syracuse_primitive_word_affine_nondivisibility_with_baseline_budget", "child": "syracuse_no_cycle_below_2310000", "via": ["solution"]}
 {"parent": "syracuse_primitive_word_affine_nondivisibility_with_baseline_budget", "child": "syracuse_primitive_word_affine_nondivisibility_with_rotated_baseline", "via": ["solution"]}
-{"parent": "syracuse_primitive_word_affine_nondivisibility_with_rotated_baseline", "child": "syracuseOffsetMod", "via": ["statement"]}
-{"parent": "syracuse_primitive_word_affine_nondivisibility_with_rotated_baseline_sparse_period", "child": "syracuseOffsetMod", "via": ["statement"]}
+{"parent": "syracuse_primitive_word_affine_nondivisibility_with_rotated_baseline", "child": "syracuseOffsetMod", "via": ["solution", "statement"]}
+{"parent": "syracuse_primitive_word_affine_nondivisibility_with_rotated_baseline_sparse_period", "child": "syracuseOffsetMod", "via": ["solution", "statement"]}
 {"parent": "syracuse_reaches_one_below_109781", "child": "syracuseStep", "via": ["solution", "statement"]}
 {"parent": "syracuse_reaches_one_below_109781", "child": "syracuse_reaches_one_below_99781", "via": ["solution"]}
 {"parent": "syracuse_reaches_one_below_1193", "child": "syracuseStep", "via": ["solution", "statement"]}

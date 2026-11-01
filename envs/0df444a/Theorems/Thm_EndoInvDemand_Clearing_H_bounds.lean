@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoInvDemand_Clearing_H_bounds
 -- name    : EndoInvDemand.Clearing.H_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:44.707962+00:00
 -- url     : https://prove2.me/theorems/26d55ff2-fcea-4be1-ac8a-e0340add6462

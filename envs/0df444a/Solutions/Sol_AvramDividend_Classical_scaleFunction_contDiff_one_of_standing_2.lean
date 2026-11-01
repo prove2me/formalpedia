@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.scaleFunction_contDiff_one_of_standing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T15:16:29.823367+00:00
 -- url     : https://prove2.me/submissions/bb82e854-3427-48f7-8702-ff4cd7bbeb77
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Deriv
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

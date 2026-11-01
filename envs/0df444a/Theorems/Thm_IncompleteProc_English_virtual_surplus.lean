@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncompleteProc_English_virtual_surplus
 -- name    : IncompleteProc.English.virtual_surplus
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:06:46.366987+00:00
 -- url     : https://prove2.me/theorems/ae15d211-02dc-4cf8-83f0-a457e0e2c99d

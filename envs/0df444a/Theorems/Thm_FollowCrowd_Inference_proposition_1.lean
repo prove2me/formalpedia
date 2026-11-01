@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FollowCrowd_Inference_proposition_1
 -- name    : FollowCrowd.Inference.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:03.897516+00:00
 -- url     : https://prove2.me/theorems/d5b5a41d-fd92-445d-a357-6c8d22741df5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_WellPosed_theorem_1
 -- name    : NesterovODE.WellPosed.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:41:21.209527+00:00
 -- url     : https://prove2.me/theorems/bfd1448b-084a-4cd4-bde0-e634c9c185e3

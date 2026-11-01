@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_scaledW_boundary_smooth_fit
 -- name    : AvramDividend.Classical.vcstar_scaledW_boundary_smooth_fit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T16:53:53.527073+00:00
 -- url     : https://prove2.me/theorems/640d249d-4982-45bb-9846-eaf47f432333

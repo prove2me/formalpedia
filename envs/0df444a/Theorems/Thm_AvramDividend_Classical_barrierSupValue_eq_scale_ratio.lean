@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierSupValue_eq_scale_ratio
 -- name    : AvramDividend.Classical.barrierSupValue_eq_scale_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T18:24:28.87968+00:00
 -- url     : https://prove2.me/theorems/a8d4c941-496f-496a-987a-2a9b89bbf470

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GradDOvS_Submod_theorem_2
 -- name    : GradDOvS.Submod.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:18:09.087378+00:00
 -- url     : https://prove2.me/theorems/ec847c84-04d1-42b4-8fd5-99cecc7c28f2

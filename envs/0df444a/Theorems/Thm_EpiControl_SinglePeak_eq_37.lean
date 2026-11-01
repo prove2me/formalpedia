@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EpiControl_SinglePeak_eq_37
 -- name    : EpiControl.SinglePeak.eq_37
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:36.686557+00:00
 -- url     : https://prove2.me/theorems/a18660bc-4afd-4afc-b13d-0ffb3966cf7d

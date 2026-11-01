@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_LossLimits_fluctuation_charFun_limit
 -- name    : KellyStochasticNetworks.LossLimits.fluctuation_charFun_limit
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-31T05:11:07.261502+00:00
 -- url     : https://prove2.me/theorems/afd9c57c-89ff-474d-9576-877feea5c437

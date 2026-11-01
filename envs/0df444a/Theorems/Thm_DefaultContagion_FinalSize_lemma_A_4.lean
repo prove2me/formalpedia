@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DefaultContagion_FinalSize_lemma_A_4
 -- name    : DefaultContagion.FinalSize.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:22.417665+00:00
 -- url     : https://prove2.me/theorems/fe16be81-2828-4ce1-8133-cddda3c9bcf7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Sinkhorn_theorem_4_1
 -- name    : CompOT.Sinkhorn.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:08.868755+00:00
 -- url     : https://prove2.me/theorems/87151a2e-a383-4be4-bd97-39df76409e2f

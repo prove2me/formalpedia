@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for AvramDividend.Classical.generator_vcstar_eq_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T06:15:17.047856+00:00
 -- url     : https://prove2.me/submissions/d5742ee1-4852-4366-b00e-1c14474887ce
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
 import Definitions.Def_AvramDividend_Classical_ScaleFunction

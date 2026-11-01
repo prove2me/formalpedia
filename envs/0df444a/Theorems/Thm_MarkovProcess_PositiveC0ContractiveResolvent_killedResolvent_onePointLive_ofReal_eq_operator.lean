@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_PositiveC0ContractiveResolvent_killedResolvent_onePointLive_ofReal_eq_operator
 -- name    : MarkovProcess.PositiveC0ContractiveResolvent.killedResolvent_onePointLive_ofReal_eq_operator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:46.326255+00:00
 -- url     : https://prove2.me/theorems/9bb0c826-c8c3-4672-b456-8be1182ce69d

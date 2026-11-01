@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_esscher_excursion_integrated_scale_representation
 -- name    : AvramDividend.Classical.unbounded_esscher_excursion_integrated_scale_representation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T19:23:37.89699+00:00
 -- url     : https://prove2.me/theorems/49acdc06-9a71-482c-b742-ff432e034677

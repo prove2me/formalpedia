@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_certifiedIncompatibility
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.certifiedIncompatibility
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:27:36.96262+00:00
 -- url     : https://prove2.me/theorems/02073bb5-f4a8-44fa-a915-1bb2163003cb

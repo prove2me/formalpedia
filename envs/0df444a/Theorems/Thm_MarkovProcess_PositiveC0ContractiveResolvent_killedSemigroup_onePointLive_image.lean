@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_PositiveC0ContractiveResolvent_killedSemigroup_onePointLive_image
 -- name    : MarkovProcess.PositiveC0ContractiveResolvent.killedSemigroup_onePointLive_image
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:03.456082+00:00
 -- url     : https://prove2.me/theorems/2e354d70-24fa-4094-9b76-b23908c3dac9

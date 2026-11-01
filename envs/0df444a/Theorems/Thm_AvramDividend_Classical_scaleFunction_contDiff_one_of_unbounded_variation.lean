@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one_of_unbounded_variation
 -- name    : AvramDividend.Classical.scaleFunction_contDiff_one_of_unbounded_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T07:13:40.20605+00:00
 -- url     : https://prove2.me/theorems/fa33a1e6-0c21-4ccf-a1ca-97118c5fb0be

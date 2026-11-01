@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_auto_GRU_M05_PRESCRIBED_perles_prescribed_section
 -- name    : Grunbaum2003.auto_GRU_M05_PRESCRIBED_perles_prescribed_section
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T19:05:24.870985+00:00
 -- url     : https://prove2.me/theorems/c8b6f3ca-d17d-42eb-a3a6-b625cb865402

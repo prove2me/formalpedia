@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashFlowLT_SteadyState_dual_feasible_phi_le
 -- name    : NashFlowLT.SteadyState.dual_feasible_phi_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:29.885014+00:00
 -- url     : https://prove2.me/theorems/88c3f89c-ad4c-4d11-a159-716bb86788ca

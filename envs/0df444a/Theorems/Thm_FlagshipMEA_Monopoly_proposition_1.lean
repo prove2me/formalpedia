@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlagshipMEA_Monopoly_proposition_1
 -- name    : FlagshipMEA.Monopoly.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:08:58.992217+00:00
 -- url     : https://prove2.me/theorems/3c79490a-e983-4f05-90d3-5c1e5fedfff4

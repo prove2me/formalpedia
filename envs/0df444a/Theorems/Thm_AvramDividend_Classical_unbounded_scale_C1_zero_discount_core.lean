@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_scale_C1_zero_discount_core
 -- name    : AvramDividend.Classical.unbounded_scale_C1_zero_discount_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T07:19:34.23933+00:00
 -- url     : https://prove2.me/theorems/8aaa16d2-d9ec-4e8f-8e42-cc551cca9d8d

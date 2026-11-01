@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMCProduct_HalfApprox_lemma_6
 -- name    : QMCProduct.HalfApprox.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:49:55.076989+00:00
 -- url     : https://prove2.me/theorems/02994bef-910b-4673-8817-2387116bf3af

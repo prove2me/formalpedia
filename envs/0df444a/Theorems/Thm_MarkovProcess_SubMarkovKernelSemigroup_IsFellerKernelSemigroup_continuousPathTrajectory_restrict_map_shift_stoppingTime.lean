@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_continuousPathTrajectory_restrict_map_shift_stoppingTime
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.continuousPathTrajectory_restrict_map_shift_stoppingTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:32:03.238584+00:00
 -- url     : https://prove2.me/theorems/ffaf90b6-ae89-4f81-8c39-00f4164362e9

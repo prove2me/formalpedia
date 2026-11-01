@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TargetGranularity_SdVsMd_claim_3
 -- name    : TargetGranularity.SdVsMd.claim_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:50.707738+00:00
 -- url     : https://prove2.me/theorems/22558409-c3d3-47e0-aa34-9313801958e7

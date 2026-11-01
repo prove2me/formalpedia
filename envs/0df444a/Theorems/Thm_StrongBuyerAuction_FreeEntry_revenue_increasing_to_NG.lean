@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongBuyerAuction_FreeEntry_revenue_increasing_to_NG
 -- name    : StrongBuyerAuction.FreeEntry.revenue_increasing_to_NG
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:01.701483+00:00
 -- url     : https://prove2.me/theorems/da0ca294-4546-4b16-81c2-d12e56cdd2b0

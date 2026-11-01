@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccountingRules_Threshold_prior_mean_le_implies_cond_mean_le
 -- name    : AccountingRules.Threshold.prior_mean_le_implies_cond_mean_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:49.455852+00:00
 -- url     : https://prove2.me/theorems/7ef86990-933e-4233-8c80-d1918f47720b

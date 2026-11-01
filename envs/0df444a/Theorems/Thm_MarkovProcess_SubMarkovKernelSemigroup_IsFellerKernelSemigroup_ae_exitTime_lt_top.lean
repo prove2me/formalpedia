@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_ae_exitTime_lt_top
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.ae_exitTime_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:56.602744+00:00
 -- url     : https://prove2.me/theorems/d254afac-6388-43b0-8fdf-6b5499b853b1

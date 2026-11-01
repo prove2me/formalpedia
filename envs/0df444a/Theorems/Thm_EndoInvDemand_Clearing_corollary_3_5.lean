@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoInvDemand_Clearing_corollary_3_5
 -- name    : EndoInvDemand.Clearing.corollary_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:58.607502+00:00
 -- url     : https://prove2.me/theorems/2e108370-23ad-402f-8b8d-558c0f4e72fa

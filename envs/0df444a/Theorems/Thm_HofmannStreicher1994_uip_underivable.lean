@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HofmannStreicher1994_uip_underivable
 -- name    : HofmannStreicher1994.uip_underivable
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-29T06:18:04.447251+00:00
 -- url     : https://prove2.me/theorems/ff210ab2-6cf6-4fb0-bbf1-b53cc5bb281d

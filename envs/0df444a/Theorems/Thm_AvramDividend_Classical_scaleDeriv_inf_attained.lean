@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleDeriv_inf_attained
 -- name    : AvramDividend.Classical.scaleDeriv_inf_attained
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T01:18:05.844988+00:00
 -- url     : https://prove2.me/theorems/e489a83e-02e5-4094-a532-137d368a6d02

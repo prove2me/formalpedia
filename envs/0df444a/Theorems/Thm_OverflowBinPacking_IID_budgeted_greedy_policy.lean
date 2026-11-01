@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OverflowBinPacking_IID_budgeted_greedy_policy
 -- name    : OverflowBinPacking.IID.budgeted_greedy_policy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:28.211989+00:00
 -- url     : https://prove2.me/theorems/d0cd15a5-d939-43c8-a22a-9cc74090b0f0

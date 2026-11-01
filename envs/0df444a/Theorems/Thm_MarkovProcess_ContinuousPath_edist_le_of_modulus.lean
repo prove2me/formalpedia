@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_ContinuousPath_edist_le_of_modulus
 -- name    : MarkovProcess.ContinuousPath.edist_le_of_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T08:31:00.570886+00:00
 -- url     : https://prove2.me/theorems/f64ad691-fa2b-4c0b-a4fa-40affff6d0c5

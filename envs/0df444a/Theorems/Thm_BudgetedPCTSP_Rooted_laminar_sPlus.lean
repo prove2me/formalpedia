@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedPCTSP_Rooted_laminar_sPlus
 -- name    : BudgetedPCTSP.Rooted.laminar_sPlus
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:43:06.700984+00:00
 -- url     : https://prove2.me/theorems/6bcde58c-b456-4bb4-8d03-5439c66363fe

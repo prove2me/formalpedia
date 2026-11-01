@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleDeriv_continuous_of_unbounded_variation
 -- name    : AvramDividend.Classical.scaleDeriv_continuous_of_unbounded_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T22:24:19.466336+00:00
 -- url     : https://prove2.me/theorems/4b791ca2-c2e1-4982-8f32-2a0b2912836e

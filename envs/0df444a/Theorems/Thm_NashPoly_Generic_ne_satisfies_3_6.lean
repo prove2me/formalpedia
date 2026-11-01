@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashPoly_Generic_ne_satisfies_3_6
 -- name    : NashPoly.Generic.ne_satisfies_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:30:59.60299+00:00
 -- url     : https://prove2.me/theorems/2301f07e-82fe-49b5-8b6a-cb73b0ddc42a

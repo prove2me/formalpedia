@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JointMixND_QuadOT_proof_theorem_4_symmetrize
 -- name    : JointMixND.QuadOT.proof_theorem_4_symmetrize
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:49.404002+00:00
 -- url     : https://prove2.me/theorems/923bc1e5-0c97-4cd5-a76c-23ddf1356e08

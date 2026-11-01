@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GittinsUCB_Patient_explore_then_commit
 -- name    : GittinsUCB.Patient.explore_then_commit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:33:22.94545+00:00
 -- url     : https://prove2.me/theorems/00513582-d490-493d-906f-f1a18c2491d8

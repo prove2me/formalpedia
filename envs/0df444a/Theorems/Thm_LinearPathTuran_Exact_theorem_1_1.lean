@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearPathTuran_Exact_theorem_1_1
 -- name    : LinearPathTuran.Exact.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:22:39.360036+00:00
 -- url     : https://prove2.me/theorems/7d15897a-8fa6-42df-a26b-55394a76fb00

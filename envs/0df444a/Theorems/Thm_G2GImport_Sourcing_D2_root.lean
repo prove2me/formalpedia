@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_G2GImport_Sourcing_D2_root
 -- name    : G2GImport.Sourcing.D2_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:13:35.380989+00:00
 -- url     : https://prove2.me/theorems/97cafdd2-54b9-4e5b-8f1c-89ea09077c9b

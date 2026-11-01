@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_hasIndepIncrements_brownianMotion
 -- name    : MarkovProcess.hasIndepIncrements_brownianMotion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:16.210924+00:00
 -- url     : https://prove2.me/theorems/c12f0cbb-949c-45ab-ba4e-19bb18a8b0d3

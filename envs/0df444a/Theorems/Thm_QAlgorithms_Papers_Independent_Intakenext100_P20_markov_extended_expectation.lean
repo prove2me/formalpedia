@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P20_markov_extended_expectation
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P20.markov_extended_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T04:43:05.124381+00:00
 -- url     : https://prove2.me/theorems/d16f2824-154b-4e41-a6cd-dd494c439179

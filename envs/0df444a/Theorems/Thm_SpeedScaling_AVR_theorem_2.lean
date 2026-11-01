@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpeedScaling_AVR_theorem_2
 -- name    : SpeedScaling.AVR.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:55:56.044276+00:00
 -- url     : https://prove2.me/theorems/ef67a40d-898e-4212-9e72-4f1ef12e23c0

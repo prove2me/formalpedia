@@ -3186,8 +3186,8 @@
 {"parent": "BurkholderDFI.Brownian.eq_8_1", "child": "BurkholderDFI_Brownian_Process", "via": ["statement"]}
 {"parent": "BurkholderDFI.Brownian.eq_8_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
 {"parent": "BurkholderDFI.Brownian.lemma_7_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
-{"parent": "BurkholderDFI.Brownian.theorem_6_1", "child": "BurkholderDFI_Brownian_Process", "via": ["statement"]}
-{"parent": "BurkholderDFI.Brownian.theorem_6_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
+{"parent": "BurkholderDFI.Brownian.theorem_6_1", "child": "BurkholderDFI_Brownian_Process", "via": ["solution", "statement"]}
+{"parent": "BurkholderDFI.Brownian.theorem_6_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI.Brownian.theorem_6_2_a", "child": "BurkholderDFI_Brownian_Process", "via": ["statement"]}
 {"parent": "BurkholderDFI.Brownian.theorem_6_2_a", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
 {"parent": "BurkholderDFI.Brownian.theorem_6_2_b", "child": "BurkholderDFI_Brownian_Process", "via": ["statement"]}
@@ -77643,7 +77643,7 @@
 {"parent": "CompOT.NotHilbertian.remark_2_13_discrete", "child": "WassersteinDRO_Duality_wassersteinDistance", "via": ["statement"]}
 {"parent": "CompOT.Sinkhorn.eq_4_21", "child": "CompOT_Sinkhorn_Defs", "via": ["solution", "statement"]}
 {"parent": "CompOT.Sinkhorn.remark_4_12_distance", "child": "CompOT_Sinkhorn_Defs", "via": ["solution", "statement"]}
-{"parent": "CompOT.Sinkhorn.theorem_4_1", "child": "CompOT_Sinkhorn_Defs", "via": ["statement"]}
+{"parent": "CompOT.Sinkhorn.theorem_4_1", "child": "CompOT_Sinkhorn_Defs", "via": ["solution", "statement"]}
 {"parent": "CompOT.Sinkhorn.thm_4_2_proof_eq_4_23_display", "child": "CompOT_Sinkhorn_Defs", "via": ["statement"]}
 {"parent": "CompOT.Sinkhorn.thm_4_2_proof_invariance", "child": "CompOT_Sinkhorn_Defs", "via": ["solution", "statement"]}
 {"parent": "CompOT.Sinkhorn.thm_4_2_proof_one_step", "child": "CompOT_Sinkhorn_Defs", "via": ["statement"]}
@@ -80298,7 +80298,7 @@
 {"parent": "CouplingHMC.Exact.term_III_tail", "child": "CouplingHMC_Exact_Setting", "via": ["statement"]}
 {"parent": "CouplingHMC.Exact.term_I_contraction", "child": "CouplingHMC_Exact_Setting", "via": ["statement"]}
 {"parent": "CouplingHMC.Exact.theorem_2_1", "child": "CouplingHMC_Exact_Setting", "via": ["statement"]}
-{"parent": "CouplingHMC.Exact.theorem_2_3", "child": "CouplingHMC_Exact_Setting", "via": ["statement"]}
+{"parent": "CouplingHMC.Exact.theorem_2_3", "child": "CouplingHMC_Exact_Setting", "via": ["solution", "statement"]}
 {"parent": "CouplingHMC.Lyap.eq_134", "child": "CouplingHMC_Lyap_Setting", "via": ["statement"]}
 {"parent": "CouplingHMC.Lyap.eq_134", "child": "MongeKantorovichYao_Defs", "via": ["statement"]}
 {"parent": "CouplingHMC.Lyap.eq_135", "child": "CouplingHMC_Lyap_Setting", "via": ["statement"]}
@@ -95991,14 +95991,14 @@
 {"parent": "DurrettProbability.brownian_nowhere_lipschitz", "child": "DurrettProbability_Brownian", "via": ["statement"]}
 {"parent": "DurrettProbability.brownian_positive_immediately", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
 {"parent": "DurrettProbability.brownian_zeros_accumulate", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
-{"parent": "DurrettProbability.donsker", "child": "DurrettProbability_Brownian", "via": ["statement"]}
-{"parent": "DurrettProbability.donsker", "child": "DurrettProbability_Donsker", "via": ["statement"]}
+{"parent": "DurrettProbability.donsker", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
+{"parent": "DurrettProbability.donsker", "child": "DurrettProbability_Donsker", "via": ["solution", "statement"]}
 {"parent": "DurrettProbability.donsker_continuous_mapping", "child": "DurrettProbability_Brownian", "via": ["statement"]}
 {"parent": "DurrettProbability.donsker_continuous_mapping", "child": "DurrettProbability_Donsker", "via": ["statement"]}
-{"parent": "DurrettProbability.donsker_max", "child": "DurrettProbability_Brownian", "via": ["statement"]}
-{"parent": "DurrettProbability.donsker_max", "child": "DurrettProbability_Donsker", "via": ["statement"]}
-{"parent": "DurrettProbability.donsker_occupation", "child": "DurrettProbability_Brownian", "via": ["statement"]}
-{"parent": "DurrettProbability.donsker_occupation", "child": "DurrettProbability_Donsker", "via": ["statement"]}
+{"parent": "DurrettProbability.donsker_max", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
+{"parent": "DurrettProbability.donsker_max", "child": "DurrettProbability_Donsker", "via": ["solution", "statement"]}
+{"parent": "DurrettProbability.donsker_occupation", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
+{"parent": "DurrettProbability.donsker_occupation", "child": "DurrettProbability_Donsker", "via": ["solution", "statement"]}
 {"parent": "DurrettProbability.hewitt_savage_zero_one", "child": "DurrettProbability_Series", "via": ["solution", "statement"]}
 {"parent": "DurrettProbability.kolmogorov_maximal_inequality", "child": "DurrettProbability_Series", "via": ["solution", "statement"]}
 {"parent": "DurrettProbability.kolmogorov_three_series", "child": "DurrettProbability_Series", "via": ["solution", "statement"]}
@@ -99377,7 +99377,7 @@
 {"parent": "EvenCycleTuran.EvenCount.lower_bound_bipartite", "child": "EvenCycleTuran_EvenCount_Setting", "via": ["statement"]}
 {"parent": "EvenCycleTuran.EvenCount.lower_bound_blowup", "child": "EvenCycleTuran_EvenCount_Setting", "via": ["statement"]}
 {"parent": "EvenCycleTuran.EvenCount.theorem_10", "child": "EvenCycleTuran_EvenCount_Setting", "via": ["statement"]}
-{"parent": "EvenCycleTuran.EvenCount.theorem_2", "child": "EvenCycleTuran_EvenCount_Setting", "via": ["statement"]}
+{"parent": "EvenCycleTuran.EvenCount.theorem_2", "child": "EvenCycleTuran_EvenCount_Setting", "via": ["solution", "statement"]}
 {"parent": "EvenCycleTuran.EvenGirth.claim_12", "child": "EvenCycleTuran_EvenGirth_Setting", "via": ["statement"]}
 {"parent": "EvenCycleTuran.EvenGirth.claim_13", "child": "EvenCycleTuran_EvenGirth_Setting", "via": ["statement"]}
 {"parent": "EvenCycleTuran.EvenGirth.claim_14", "child": "EvenCycleTuran_EvenGirth_Setting", "via": ["statement"]}

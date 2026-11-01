@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_G2GImport_Sourcing_forward_quantity
 -- name    : G2GImport.Sourcing.forward_quantity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:12:49.261428+00:00
 -- url     : https://prove2.me/theorems/ae9162bb-39a4-40ce-9aef-b7d50aa570eb

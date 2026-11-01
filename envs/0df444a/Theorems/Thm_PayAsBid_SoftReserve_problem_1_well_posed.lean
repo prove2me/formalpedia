@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PayAsBid_SoftReserve_problem_1_well_posed
 -- name    : PayAsBid.SoftReserve.problem_1_well_posed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:01:43.617923+00:00
 -- url     : https://prove2.me/theorems/777b9d8d-10ba-42c1-a76a-ad0f218368d8

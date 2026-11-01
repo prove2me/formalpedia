@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetCournot_Equilibrium_remark_definition_3_2
 -- name    : BudgetCournot.Equilibrium.remark_definition_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:50.968985+00:00
 -- url     : https://prove2.me/theorems/ea70450e-6f50-4dc3-87ba-73d3c7f04613

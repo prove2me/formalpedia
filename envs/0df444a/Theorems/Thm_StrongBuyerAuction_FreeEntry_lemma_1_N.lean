@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongBuyerAuction_FreeEntry_lemma_1_N
 -- name    : StrongBuyerAuction.FreeEntry.lemma_1_N
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:52.046464+00:00
 -- url     : https://prove2.me/theorems/07dfb13f-19fb-4648-a45b-734f8f1db845

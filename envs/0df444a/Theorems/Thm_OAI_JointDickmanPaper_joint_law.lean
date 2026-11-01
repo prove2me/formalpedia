@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_JointDickmanPaper_joint_law
 -- name    : OAI.JointDickmanPaper.joint_law
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:49.27689+00:00
 -- url     : https://prove2.me/theorems/bd109978-c0be-4089-87dc-884370205a25

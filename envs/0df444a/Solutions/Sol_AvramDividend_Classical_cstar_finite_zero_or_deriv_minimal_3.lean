@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.cstar_finite_zero_or_deriv_minimal
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-18T18:38:32.558449+00:00
 -- url     : https://prove2.me/submissions/99144bf2-3ae2-4277-b601-c23b081a352b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Topology.Order.Monotone
 import Mathlib.Order.LiminfLimsup

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Irregularity_theorem_21
 -- name    : TaitTobin.Irregularity.theorem_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:09:41.152981+00:00
 -- url     : https://prove2.me/theorems/527598c3-3226-402b-98dc-df6e29ada4b4

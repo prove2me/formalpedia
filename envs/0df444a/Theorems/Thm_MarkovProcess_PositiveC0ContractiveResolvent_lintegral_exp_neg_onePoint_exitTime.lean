@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_PositiveC0ContractiveResolvent_lintegral_exp_neg_onePoint_exitTime
 -- name    : MarkovProcess.PositiveC0ContractiveResolvent.lintegral_exp_neg_onePoint_exitTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:24.76244+00:00
 -- url     : https://prove2.me/theorems/b4fb5def-cb49-48c8-a381-f2b7b0a33d03

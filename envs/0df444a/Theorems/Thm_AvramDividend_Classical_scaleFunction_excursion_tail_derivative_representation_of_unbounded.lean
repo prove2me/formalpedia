@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_excursion_tail_derivative_representation_of_unbounded
 -- name    : AvramDividend.Classical.scaleFunction_excursion_tail_derivative_representation_of_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T15:06:15.762552+00:00
 -- url     : https://prove2.me/theorems/f5af64fd-b5e8-4286-b033-29b2b8b5eda6

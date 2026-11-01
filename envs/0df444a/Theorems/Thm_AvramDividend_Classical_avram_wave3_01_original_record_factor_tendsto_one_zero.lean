@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_01_original_record_factor_tendsto_one_zero
 -- name    : AvramDividend.Classical.avram_wave3_01_original_record_factor_tendsto_one_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T22:07:40.07199+00:00
 -- url     : https://prove2.me/theorems/acc124cd-0ace-4124-8d89-7cc8fbe951a6

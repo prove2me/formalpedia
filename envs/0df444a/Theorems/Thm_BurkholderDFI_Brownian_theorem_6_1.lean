@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurkholderDFI_Brownian_theorem_6_1
 -- name    : BurkholderDFI.Brownian.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:13:15.812785+00:00
 -- url     : https://prove2.me/theorems/7360c0ba-0d04-4be1-b2f7-327c01132640

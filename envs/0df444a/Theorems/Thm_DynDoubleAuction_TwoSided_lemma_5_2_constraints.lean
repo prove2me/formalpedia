@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynDoubleAuction_TwoSided_lemma_5_2_constraints
 -- name    : DynDoubleAuction.TwoSided.lemma_5_2_constraints
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:55.243226+00:00
 -- url     : https://prove2.me/theorems/4d53c305-f693-4105-bb0e-d5bdc687f518

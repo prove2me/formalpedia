@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleDeriv_eventually_ge_exp
 -- name    : AvramDividend.Classical.scaleDeriv_eventually_ge_exp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T22:42:26.491685+00:00
 -- url     : https://prove2.me/theorems/f3ed9cea-2dad-4107-ba8f-e3c9825b0629

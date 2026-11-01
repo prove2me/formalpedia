@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxBundle_GPB_proposition_4_3
 -- name    : ProxBundle.GPB.proposition_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:27.932585+00:00
 -- url     : https://prove2.me/theorems/ff1fceda-5a0f-4c0b-b77e-39905605470f

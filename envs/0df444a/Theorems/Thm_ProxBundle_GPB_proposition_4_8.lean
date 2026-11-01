@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxBundle_GPB_proposition_4_8
 -- name    : ProxBundle.GPB.proposition_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:26.553885+00:00
 -- url     : https://prove2.me/theorems/4c6cabcd-af65-4e9b-8e01-8e41f41f1b47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretPricing_Structure_regret_price_mono
 -- name    : RegretPricing.Structure.regret_price_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:47.250724+00:00
 -- url     : https://prove2.me/theorems/4eb3625a-1735-419d-a990-b48f2c9eb386

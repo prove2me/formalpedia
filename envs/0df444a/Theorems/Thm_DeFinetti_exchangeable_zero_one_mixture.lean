@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeFinetti_exchangeable_zero_one_mixture
 -- name    : DeFinetti.exchangeable_zero_one_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-05T01:52:17.131668+00:00
 -- url     : https://prove2.me/theorems/13ce1e41-cde5-4930-800c-92a2003c2717

@@ -34451,8 +34451,8 @@
 {"parent": "MIPStarRE.LDT.Commutativity.GCommStability.Scalar.averagedSlicePointEvaluationOperator_hermitian", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.Commutativity.GCommStability.Scalar.averagedSlicePointEvaluationOperator_hermitian", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_PMFAverages", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.Commutativity.GCommStability.Scalar.averagedSlicePointEvaluationOperator_hermitian", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
-{"parent": "StrategicPolicy.StochasticOpt.strategic_beats_nonstrategic", "child": "StrategicPolicy_StochasticOpt_Setting", "via": ["statement"]}
-{"parent": "StrategicPolicy.StochasticOpt.strategic_beats_nonstrategic", "child": "StrategicPolicy_StochasticOpt_Example", "via": ["statement"]}
+{"parent": "StrategicPolicy.StochasticOpt.strategic_beats_nonstrategic", "child": "StrategicPolicy_StochasticOpt_Setting", "via": ["solution", "statement"]}
+{"parent": "StrategicPolicy.StochasticOpt.strategic_beats_nonstrategic", "child": "StrategicPolicy_StochasticOpt_Example", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group129", "child": "dusart_mesh_upper_group129_part04", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group129", "child": "dusart_mesh_upper_group129_part01", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group129", "child": "dusart_mesh_upper_group129_part02", "via": ["statement"]}

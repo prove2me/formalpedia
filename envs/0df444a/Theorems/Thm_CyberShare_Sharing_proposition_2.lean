@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CyberShare_Sharing_proposition_2
 -- name    : CyberShare.Sharing.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:51.6432+00:00
 -- url     : https://prove2.me/theorems/924cfd93-7f78-4a4a-80dd-1783ac6a3ee4

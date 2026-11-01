@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.barrierSupValue_eq_scale_ratio
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-25T06:51:37.237536+00:00
 -- url     : https://prove2.me/submissions/e4e9bc1c-87b8-448d-8a87-a396b4a36513
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one
 import Theorems.Thm_AvramDividend_Classical_scaleDeriv_pos

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynDoubleAuction_TwoSided_exit_tails
 -- name    : DynDoubleAuction.TwoSided.exit_tails
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:41.55208+00:00
 -- url     : https://prove2.me/theorems/77722bc0-0357-4936-9faa-bfa7cb818da7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_esscher_tilted_scale_C1_of_infinite_small_jump_without_standing
 -- name    : AvramDividend.Classical.esscher_tilted_scale_C1_of_infinite_small_jump_without_standing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T22:25:25.598987+00:00
 -- url     : https://prove2.me/theorems/6344b1a4-8ee1-4f04-a20c-fdd8b5b96f0d

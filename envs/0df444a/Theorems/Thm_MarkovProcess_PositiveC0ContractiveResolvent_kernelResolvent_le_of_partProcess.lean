@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_PositiveC0ContractiveResolvent_kernelResolvent_le_of_partProcess
 -- name    : MarkovProcess.PositiveC0ContractiveResolvent.kernelResolvent_le_of_partProcess
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:13.267992+00:00
 -- url     : https://prove2.me/theorems/345ab11b-b5b1-4be8-bb24-e17022a69da2

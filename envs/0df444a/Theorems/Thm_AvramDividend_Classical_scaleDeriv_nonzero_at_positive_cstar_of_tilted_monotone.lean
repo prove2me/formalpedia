@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleDeriv_nonzero_at_positive_cstar_of_tilted_monotone
 -- name    : AvramDividend.Classical.scaleDeriv_nonzero_at_positive_cstar_of_tilted_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T04:52:42.846694+00:00
 -- url     : https://prove2.me/theorems/61be1dcb-f6d7-4f50-8f74-d174ff326217

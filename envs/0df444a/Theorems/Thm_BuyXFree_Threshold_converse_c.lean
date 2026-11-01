@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuyXFree_Threshold_converse_c
 -- name    : BuyXFree.Threshold.converse_c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:26.941694+00:00
 -- url     : https://prove2.me/theorems/7886d7c7-51a7-4f2e-94c3-281cb6e5ac86

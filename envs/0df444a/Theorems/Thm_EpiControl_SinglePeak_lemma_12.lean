@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EpiControl_SinglePeak_lemma_12
 -- name    : EpiControl.SinglePeak.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:09:35.026319+00:00
 -- url     : https://prove2.me/theorems/2c32e4c1-176f-488c-a39a-0200c2f2c342

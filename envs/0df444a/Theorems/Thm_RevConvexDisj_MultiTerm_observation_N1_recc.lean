@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevConvexDisj_MultiTerm_observation_N1_recc
 -- name    : RevConvexDisj.MultiTerm.observation_N1_recc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:07.280298+00:00
 -- url     : https://prove2.me/theorems/5a1b8843-9c8b-4744-b2c2-8f73b3f99173

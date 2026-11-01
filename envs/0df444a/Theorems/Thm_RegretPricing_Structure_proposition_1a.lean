@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretPricing_Structure_proposition_1a
 -- name    : RegretPricing.Structure.proposition_1a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:35.073999+00:00
 -- url     : https://prove2.me/theorems/903fdb3a-2fd2-4045-8ecd-0e27dcb988ff

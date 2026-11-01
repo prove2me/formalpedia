@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleDeriv_continuous_of_standing
 -- name    : AvramDividend.Classical.scaleDeriv_continuous_of_standing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:49:52.126707+00:00
 -- url     : https://prove2.me/theorems/db2a4988-7996-46e4-b3ac-d6c716ae3f08

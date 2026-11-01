@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarpPapadimitriou_SmallFacial_lemma_1
 -- name    : KarpPapadimitriou.SmallFacial.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:40:33.427855+00:00
 -- url     : https://prove2.me/theorems/abfd9625-8daf-4e23-86f8-41a8c8df3451

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.barrier_strategy_value_all_capital_nonnegative_barrier
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-07T10:20:33.850231+00:00
 -- url     : https://prove2.me/submissions/06b6c90d-0259-4aac-b2fe-f713458288d0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_05_tent_weighted_continuous_interior_bound
 -- name    : AvramDividend.Classical.avram_wave3_05_tent_weighted_continuous_interior_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:53:10.24086+00:00
 -- url     : https://prove2.me/theorems/7b6aa67e-ef9c-4ceb-843a-75b597ca84fd

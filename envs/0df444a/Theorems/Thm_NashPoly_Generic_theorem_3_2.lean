@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashPoly_Generic_theorem_3_2
 -- name    : NashPoly.Generic.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:51.4408+00:00
 -- url     : https://prove2.me/theorems/517aefa5-05e1-4224-af08-3e494ee9a97a

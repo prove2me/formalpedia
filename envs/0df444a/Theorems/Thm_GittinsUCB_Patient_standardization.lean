@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GittinsUCB_Patient_standardization
 -- name    : GittinsUCB.Patient.standardization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:33:26.37858+00:00
 -- url     : https://prove2.me/theorems/a644b961-cea1-4223-83cd-494261289678

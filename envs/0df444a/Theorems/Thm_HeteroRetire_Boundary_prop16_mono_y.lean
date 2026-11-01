@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeteroRetire_Boundary_prop16_mono_y
 -- name    : HeteroRetire.Boundary.prop16_mono_y
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:11.513256+00:00
 -- url     : https://prove2.me/theorems/38991ba3-4012-443c-8ca7-5029e3fd4063

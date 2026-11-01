@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_cstar_lt_top
 -- name    : AvramDividend.Classical.cstar_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:57:31.963591+00:00
 -- url     : https://prove2.me/theorems/7bb43015-9fa7-4b7a-a64d-2ef5c3f26c73

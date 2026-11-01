@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for AvramDividend.Classical.scaleDeriv_nonzero_at_positive_cstar_of_tilted_monotone
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T17:24:58.286254+00:00
 -- url     : https://prove2.me/submissions/c9f05906-2320-423d-8aa8-0b170a3a0916
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.ENNReal.Real
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

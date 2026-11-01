@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevConvexDisj_MultiTerm_theorem_5_TC_subset
 -- name    : RevConvexDisj.MultiTerm.theorem_5_TC_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:55.979776+00:00
 -- url     : https://prove2.me/theorems/8ffa45f5-b75d-481d-846c-4fd51ad372a2

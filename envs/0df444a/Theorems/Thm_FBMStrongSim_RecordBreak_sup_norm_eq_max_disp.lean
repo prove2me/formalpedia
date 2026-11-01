@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMStrongSim_RecordBreak_sup_norm_eq_max_disp
 -- name    : FBMStrongSim.RecordBreak.sup_norm_eq_max_disp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:01:33.777536+00:00
 -- url     : https://prove2.me/theorems/8ae94ebc-5039-4126-b9ef-9b9e36aaec88

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketFreeze_Hetero_eq_A4_thetaL
 -- name    : MarketFreeze.Hetero.eq_A4_thetaL
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:51.79899+00:00
 -- url     : https://prove2.me/theorems/a8773324-639c-4026-a2fb-5402d6ed87f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_lintegral_pathResolvent_eq_killedResolvent_add
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.lintegral_pathResolvent_eq_killedResolvent_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:29.756475+00:00
 -- url     : https://prove2.me/theorems/55256c3b-4557-42c9-9455-78c32f1f805d

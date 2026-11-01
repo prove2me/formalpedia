@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one
 -- name    : AvramDividend.Classical.scaleFunction_contDiff_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T23:26:11.223455+00:00
 -- url     : https://prove2.me/theorems/6b0b9766-0846-4796-8804-04d9518d2567

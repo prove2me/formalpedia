@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EssCheck_Accuracy_proposition_1
 -- name    : EssCheck.Accuracy.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:11.654195+00:00
 -- url     : https://prove2.me/theorems/4403aeba-01ce-4d9c-b850-1c1a8814a3bc

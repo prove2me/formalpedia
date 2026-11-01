@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.barrier_strategy_value_above_positive_barrier
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-07T13:51:04.75326+00:00
 -- url     : https://prove2.me/submissions/e6f7e869-407a-4d8e-a8f9-7f6fb956aab7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

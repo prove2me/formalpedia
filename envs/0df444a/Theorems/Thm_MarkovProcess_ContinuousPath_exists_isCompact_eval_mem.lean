@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_ContinuousPath_exists_isCompact_eval_mem
 -- name    : MarkovProcess.ContinuousPath.exists_isCompact_eval_mem
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:26:18.614349+00:00
 -- url     : https://prove2.me/theorems/7e3a2373-a713-484e-8022-3f2a7040e192

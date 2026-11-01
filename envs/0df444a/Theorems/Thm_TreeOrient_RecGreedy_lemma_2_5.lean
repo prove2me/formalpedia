@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreeOrient_RecGreedy_lemma_2_5
 -- name    : TreeOrient.RecGreedy.lemma_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:34.595304+00:00
 -- url     : https://prove2.me/theorems/8dd39ca5-3c20-4263-8ccd-e01148bb38db

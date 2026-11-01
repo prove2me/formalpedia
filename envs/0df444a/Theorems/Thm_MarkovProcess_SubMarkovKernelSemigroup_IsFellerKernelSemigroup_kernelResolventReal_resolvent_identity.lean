@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_kernelResolventReal_resolvent_identity
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.kernelResolventReal_resolvent_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:05.59174+00:00
 -- url     : https://prove2.me/theorems/1da788c1-4396-4f01-85dd-9f736790ca31

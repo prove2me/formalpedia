@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_klee_recognition_criterion
 -- name    : Grunbaum2003.klee_recognition_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-10T04:03:45.741188+00:00
 -- url     : https://prove2.me/theorems/4f434a84-9236-42b8-ae0d-cbf466e77fed

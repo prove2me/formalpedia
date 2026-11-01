@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OverflowBinPacking_IID_lemma_4_3
 -- name    : OverflowBinPacking.IID.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:38.402725+00:00
 -- url     : https://prove2.me/theorems/970d5c4a-aeaf-472e-87ac-3c8964bdb50d

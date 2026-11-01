@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.scaleFunction_generator_integrable_of_nonzero_factor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-07T18:04:10.428913+00:00
 -- url     : https://prove2.me/submissions/490aa0a2-9fb7-476a-8529-64ca8cc08c80
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

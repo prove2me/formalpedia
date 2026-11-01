@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for AvramDividend.Classical.barrierSupValue_eq_scale_ratio
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T15:50:09.420992+00:00
 -- url     : https://prove2.me/submissions/18ac0a51-f981-4b04-9d83-8a3cc648e33e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

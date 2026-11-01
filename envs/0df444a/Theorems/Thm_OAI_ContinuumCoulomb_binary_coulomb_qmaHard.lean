@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ContinuumCoulomb_binary_coulomb_qmaHard
 -- name    : OAI.ContinuumCoulomb.binary_coulomb_qmaHard
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:28.759176+00:00
 -- url     : https://prove2.me/theorems/65228da5-6520-4cad-81ae-e0f0e42fde0b

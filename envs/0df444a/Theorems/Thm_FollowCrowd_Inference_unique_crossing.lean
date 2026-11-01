@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FollowCrowd_Inference_unique_crossing
 -- name    : FollowCrowd.Inference.unique_crossing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:17.687357+00:00
 -- url     : https://prove2.me/theorems/a2059665-8b53-4e9f-881f-e0f0602e071e

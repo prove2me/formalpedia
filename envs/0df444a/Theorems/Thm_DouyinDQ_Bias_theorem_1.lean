@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DouyinDQ_Bias_theorem_1
 -- name    : DouyinDQ.Bias.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:05:36.809767+00:00
 -- url     : https://prove2.me/theorems/134cfc6f-97be-4ebf-be1f-0ca4a98d7ab5

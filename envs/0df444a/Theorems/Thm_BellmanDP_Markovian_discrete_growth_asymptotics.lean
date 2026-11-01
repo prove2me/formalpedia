@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellmanDP_Markovian_discrete_growth_asymptotics
 -- name    : BellmanDP.Markovian.discrete_growth_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T21:57:30.192459+00:00
 -- url     : https://prove2.me/theorems/c9e275cb-5e71-41c4-9761-5c61329e2103

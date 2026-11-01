@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoInvDemand_Clearing_Theta_pos_of_H_gt
 -- name    : EndoInvDemand.Clearing.Theta_pos_of_H_gt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:09.64112+00:00
 -- url     : https://prove2.me/theorems/d2fdffd8-6d37-4a8a-b5b2-fc76303f0442

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_NucNorm_exists_top_r_singular_subspaces
 -- name    : WainwrightHDS.NucNorm.exists_top_r_singular_subspaces
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T04:05:59.652253+00:00
 -- url     : https://prove2.me/theorems/2c8c1fae-4daa-4722-ab76-a07db3bdace9

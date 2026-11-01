@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InhomMJPStrong_J1_eq_16
 -- name    : InhomMJPStrong.J1.eq_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:53.695658+00:00
 -- url     : https://prove2.me/theorems/cae64cc4-a45f-4894-bb6e-c760bd33143d

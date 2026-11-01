@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterimTesting_NotProficient_lemma_A11
 -- name    : InterimTesting.NotProficient.lemma_A11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:41.521121+00:00
 -- url     : https://prove2.me/theorems/4ce5377c-adf3-4b7a-8da7-01d34070411f

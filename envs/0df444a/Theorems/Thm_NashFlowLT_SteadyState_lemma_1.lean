@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashFlowLT_SteadyState_lemma_1
 -- name    : NashFlowLT.SteadyState.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:22.477382+00:00
 -- url     : https://prove2.me/theorems/5d4f160b-621a-4f3e-8058-b182250be76f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FollowCrowd_Inference_stat_continuous_v
 -- name    : FollowCrowd.Inference.stat_continuous_v
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:10.481001+00:00
 -- url     : https://prove2.me/theorems/532a5dfc-1f25-4f50-8799-4cda9f8e5f4f

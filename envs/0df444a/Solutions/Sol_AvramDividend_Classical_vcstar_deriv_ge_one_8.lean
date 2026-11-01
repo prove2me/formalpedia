@@ -1,10 +1,8 @@
 -- Prove2me | solution 8 for AvramDividend.Classical.vcstar_deriv_ge_one
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T19:14:38.233068+00:00
 -- url     : https://prove2.me/submissions/251ef790-5565-43f3-b2d1-7766539cc8ee
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_tilted_positive_monotone
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one_of_standing

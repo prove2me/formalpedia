@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.vcstar_deriv_ge_one
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-05T11:34:39.979378+00:00
 -- url     : https://prove2.me/submissions/232aee55-8f91-4659-aec5-45528c2f69f9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

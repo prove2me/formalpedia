@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleySnowSG_Kernel_ssk_exists
 -- name    : ShapleySnowSG.Kernel.ssk_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:58:37.635764+00:00
 -- url     : https://prove2.me/theorems/ba6314c3-9c31-4e65-bf38-c9d888f4425f

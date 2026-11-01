@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxBundle_GPB_eq_7
 -- name    : ProxBundle.GPB.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:35.863653+00:00
 -- url     : https://prove2.me/theorems/9e2ffb89-9e3e-4abb-9ac2-d3faf836bbe3

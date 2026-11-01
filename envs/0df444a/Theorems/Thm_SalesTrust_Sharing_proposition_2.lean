@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesTrust_Sharing_proposition_2
 -- name    : SalesTrust.Sharing.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:04.308067+00:00
 -- url     : https://prove2.me/theorems/ac6d1fcd-f07a-4d37-84ba-51289d26d77e

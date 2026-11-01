@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one_of_infinite_variation
 -- name    : AvramDividend.Classical.scaleFunction_contDiff_one_of_infinite_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T22:22:23.186044+00:00
 -- url     : https://prove2.me/theorems/00b5c835-6b84-43ff-99b9-115f53493356

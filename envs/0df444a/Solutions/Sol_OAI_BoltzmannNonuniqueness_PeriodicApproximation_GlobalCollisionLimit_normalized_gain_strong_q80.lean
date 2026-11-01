@@ -1,0 +1,8050 @@
+-- Prove2me | solution 1 for OAI.BoltzmannNonuniqueness.PeriodicApproximation.GlobalCollisionLimit.normalized_gain_strong_q80
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-10-31T21:16:45.148189+00:00
+-- url     : https://prove2.me/submissions/3f7b2aac-c812-41fe-b28b-b242a7186298
+
+import Mathlib
+import Definitions.Def_BoltzmannNonuniqueness
+import Definitions.Def_OAIQ080A002
+import Theorems.Thm_OAI_BoltzmannNonuniqueness_CollisionCompactness_DoubleGain_localizedGain_strong_of_smoothing_q80
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Admissibility
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.sphereProbability_isProbability _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.sphereArea_isFiniteMeasure _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# The entropy-class solution and nonuniqueness statement
+
+The solution class follows Definition 2.1 with explicit integrability conditions.
+The renormalized equation uses derivatives of smooth periodic lifts, while
+integrals use volume on the unit torus and Euclidean velocity space.
+-/
+
+noncomputable section
+
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+
+namespace BoltzmannNonuniqueness
+
+theorem maxwellian_pos (v : Velocity) : 0 < maxwellian v := by
+  unfold maxwellian
+  positivity
+
+end BoltzmannNonuniqueness
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.UnifIntegrableCompat
+attribute [-instance] _root_.OAI.closedSubmoduleNormedAddCommGroup _root_.OAI.isProbabilityMeasure_map_fst _root_.OAI.isProbabilityMeasure_map_measurableEquiv _root_.OAI.isProbabilityMeasure_map_snd _root_.OAI.isProbabilityMeasure_map_subtype_val _root_.OAI.vonNeumannToStarSubalgebraIsClosed
+/-!
+# Uniform integrability compatibility layer for ports of openai/math
+
+This file is not OpenAI's code. OpenAI's openai/math is built on Mathlib `d13f23b`; prove2.me's
+environment is Mathlib `0df444a`. The two disagree on uniform integrability:
+
+* `d13f23b`'s `UnifIntegrable f p μ` is `Tendsto (fun ε ↦ ⨆ i s (_ : μ s ≤ ε), eLpNorm (f i) p
+  (μ.restrict s)) (𝓝 0) (𝓝 0)` (extended-real `ε`, `δ`, any set `s`); `0df444a`'s is the real
+  `ε`-`δ` form over measurable sets with `eLpNorm (s.indicator (f i)) p μ`.
+* `d13f23b`'s `UniformIntegrable f p μ` has two components, `UnifIntegrable f p μ` and a uniform
+  bound; `0df444a`'s has three, measurability first. In `d13f23b` the bound alone gives
+  measurability, since there `eLpNorm` is `∞` on a function that is not a.e. strongly measurable.
+* `d13f23b`'s `UnifTight` takes `ε : ℝ≥0∞`; `0df444a`'s takes `ε : ℝ≥0`.
+
+So that ported proofs keep `d13f23b`'s shapes (`obtain ⟨hu, C, hC⟩ := hf`, `intro ε hε` with
+`ε : ℝ≥0∞`, `hu.ae_mono`, `hu.comp`), this file declares `OAI.UnifIntegrable`,
+`OAI.UniformIntegrable` and `OAI.UnifTight`, which shadow Mathlib's inside `namespace OAI`, with
+`d13f23b`'s API under `d13f23b`'s names, proved from `0df444a`'s. `OAI.UnifIntegrable` carries the
+measurability of every member (Mathlib's `UnifIntegrable` together with it), so that
+`OAI.UniformIntegrable` keeps `d13f23b`'s two components and is equivalent to Mathlib's
+`UniformIntegrable` (`OAI.uniformIntegrable_iff_mathlib`).
+
+`d13f23b`'s `unifIntegrable_iff` and `unifIntegrable_iff'` cannot be stated as equivalences here
+(the right sides do not give measurability): the port rewrites their `mp` direction to
+`OAI.UnifIntegrable.enn_spec` / `enn_spec'` and their `mpr` direction to
+`OAI.UnifIntegrable.of_enn` / `of_enn'`, which take the measurability as a second argument.
+-/
+
+noncomputable section UnifIntegrableCompat
+
+open MeasureTheory Filter Set
+open scoped ENNReal NNReal Topology
+
+namespace OAI
+
+variable {α β ι : Type*} {m : MeasurableSpace α} {μ : Measure α} [NormedAddCommGroup β]
+  {p : ℝ≥0∞} {f g : ι → α → β}
+
+theorem uniformIntegrable_iff_mathlib :
+    UniformIntegrable f p μ ↔ MeasureTheory.UniformIntegrable f p μ :=
+  ⟨fun ⟨⟨u, hm⟩, b⟩ => ⟨hm, u, b⟩, fun ⟨hm, u, b⟩ => ⟨⟨u, hm⟩, b⟩⟩
+
+/-! ### `UnifIntegrable` -/
+
+namespace UnifIntegrable
+
+/-- The `mp` direction of `d13f23b`'s `unifIntegrable_iff`. -/
+theorem enn_spec (hf : UnifIntegrable f p μ) :
+    ∀ ε > 0, ∃ δ > 0, ∀ i s, μ s ≤ δ → eLpNorm (f i) p (μ.restrict s) ≤ ε := by
+  intro ε hε
+  rcases eq_top_or_lt_top ε with rfl | hεt
+  · exact ⟨1, one_pos, fun _ _ _ => le_top⟩
+  obtain ⟨δ, hδ, h⟩ := hf.1 (ENNReal.toReal_pos hε.ne' hεt.ne)
+  refine ⟨ENNReal.ofReal δ, ENNReal.ofReal_pos.2 hδ, fun i s hs => ?_⟩
+  have ht := measurableSet_toMeasurable μ s
+  calc eLpNorm (f i) p (μ.restrict s)
+      ≤ eLpNorm (f i) p (μ.restrict (toMeasurable μ s)) :=
+        eLpNorm_mono_measure _ (Measure.restrict_mono (subset_toMeasurable μ s) le_rfl)
+    _ = eLpNorm ((toMeasurable μ s).indicator (f i)) p μ :=
+        (eLpNorm_indicator_eq_eLpNorm_restrict ht).symm
+    _ ≤ ENNReal.ofReal ε.toReal := h i _ ht (by rwa [measure_toMeasurable])
+    _ = ε := ENNReal.ofReal_toReal hεt.ne
+
+/-- The `mp` direction of `d13f23b`'s `unifIntegrable_iff'`. -/
+theorem enn_spec' (hf : UnifIntegrable f p μ) :
+    ∀ ε > 0, ∃ δ > 0, ∀ i s, MeasurableSet s → μ s ≤ δ → eLpNorm (f i) p (μ.restrict s) ≤ ε :=
+  fun ε hε => (hf.enn_spec ε hε).imp fun _ ⟨hδ, h⟩ => ⟨hδ, fun i s _ => h i s⟩
+
+/-- The `mpr` direction of `d13f23b`'s `unifIntegrable_iff'`, with the measurability. -/
+theorem of_enn' (h : ∀ ε > 0, ∃ δ > 0, ∀ i s, MeasurableSet s → μ s ≤ δ →
+      eLpNorm (f i) p (μ.restrict s) ≤ ε) (hm : ∀ i, AEStronglyMeasurable (f i) μ) :
+    UnifIntegrable f p μ := by
+  refine ⟨fun ε hε => ?_, hm⟩
+  obtain ⟨δ, hδ, hb⟩ := h (ENNReal.ofReal ε) (ENNReal.ofReal_pos.2 hε)
+  have hne : min δ 1 ≠ ⊤ := ne_top_of_le_ne_top ENNReal.one_ne_top (min_le_right _ _)
+  refine ⟨(min δ 1).toReal, ENNReal.toReal_pos (lt_min hδ one_pos).ne' hne, fun i s hsm hs => ?_⟩
+  rw [eLpNorm_indicator_eq_eLpNorm_restrict hsm]
+  refine hb i s hsm (hs.trans ?_)
+  rw [ENNReal.ofReal_toReal hne]
+  exact min_le_left _ _
+
+/-- The `mpr` direction of `d13f23b`'s `unifIntegrable_iff`, with the measurability. -/
+theorem of_enn (h : ∀ ε > 0, ∃ δ > 0, ∀ i s, μ s ≤ δ → eLpNorm (f i) p (μ.restrict s) ≤ ε)
+    (hm : ∀ i, AEStronglyMeasurable (f i) μ) : UnifIntegrable f p μ :=
+  of_enn' (fun ε hε => (h ε hε).imp fun _ ⟨hδ, hb⟩ => ⟨hδ, fun i s _ => hb i s⟩) hm
+
+protected theorem ae_mono (hg : UnifIntegrable g p μ)
+    (hf_meas : ∀ i, AEStronglyMeasurable (f i) μ)
+    (hfg : ∀ i, (‖f i ·‖ₑ) ≤ᵐ[μ] (‖g i ·‖ₑ)) :
+    UnifIntegrable f p μ :=
+  of_enn (fun ε hε => (hg.enn_spec ε hε).imp fun _ ⟨hδ, h⟩ => ⟨hδ, fun i s hs =>
+    (eLpNorm_mono_enorm_ae ((hfg i).filter_mono ae_restrict_le)).trans (h i s hs)⟩) hf_meas
+
+/-- Uniform integrability is preserved by restriction of the measure to a set. -/
+protected theorem restrict (hf : UnifIntegrable f p μ) (s : Set α) :
+    UnifIntegrable f p (μ.restrict s) :=
+  ⟨hf.1.restrict s, fun i => (hf.2 i).restrict⟩
+
+protected theorem comp {ι' : Type*} (g : ι' → ι) (hf : UnifIntegrable f p μ) :
+    UnifIntegrable (f ∘ g) p μ :=
+  ⟨fun _ hε => (hf.1 hε).imp fun _ ⟨hδ, h⟩ => ⟨hδ, fun i s => h (g i) s⟩, fun i => hf.2 (g i)⟩
+
+end UnifIntegrable
+
+theorem tendsto_Lp_finite_of_tendstoInMeasure [IsFiniteMeasure μ] (hp : 1 ≤ p) (hp' : p ≠ ∞)
+    {f : ℕ → α → β} {g : α → β} (hf : ∀ n, AEStronglyMeasurable (f n) μ) (hg : MemLp g p μ)
+    (hui : UnifIntegrable f p μ) (hfg : TendstoInMeasure μ f atTop g) :
+    Tendsto (fun n ↦ eLpNorm (f n - g) p μ) atTop (𝓝 0) :=
+  MeasureTheory.tendsto_Lp_finite_of_tendstoInMeasure hp hp' hf hg hui.1 hfg
+
+/-! ### `UniformIntegrable` -/
+
+namespace UniformIntegrable
+
+protected theorem memLp (hf : UniformIntegrable f p μ) (i : ι) : MemLp (f i) p μ :=
+  (uniformIntegrable_iff_mathlib.1 hf).memLp i
+
+theorem toMathlib (hf : UniformIntegrable f p μ) : MeasureTheory.UniformIntegrable f p μ :=
+  uniformIntegrable_iff_mathlib.1 hf
+
+lemma memLp_of_tendstoInMeasure {κ : Type*} {u : Filter κ} [NeBot u]
+    [IsCountablyGenerated u] {f : κ → α → β} {g : α → β}
+    (hUI : UniformIntegrable f p μ) (htends : TendstoInMeasure μ f u g) : MemLp g p μ :=
+  hUI.toMathlib.memLp_of_tendstoInMeasure htends
+
+end UniformIntegrable
+
+theorem uniformIntegrable_const {g : α → β} (hp : 1 ≤ p) (hp_ne_top : p ≠ ∞) (hg : MemLp g p μ) :
+    UniformIntegrable (fun _ : ι => g) p μ :=
+  uniformIntegrable_iff_mathlib.2 (MeasureTheory.uniformIntegrable_const hp hp_ne_top hg)
+
+
+/-! ### `UnifTight` -/
+
+end OAI
+
+end UnifIntegrableCompat
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_MarginalUniformIntegrability
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # Finite-fibre integration preserves uniform integrability -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped ENNReal
+
+namespace BoltzmannNonuniqueness.Compactness
+
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+
+theorem uniformIntegrable_restrict {μ : Measure X} {f : ℕ → X → ℝ}
+    (hf : UniformIntegrable f 1 μ) (s : Set X) :
+    UniformIntegrable f 1 (μ.restrict s) := by
+  obtain ⟨C,hC⟩ := hf.2
+  exact ⟨hf.1.restrict s,C,fun n =>
+    (eLpNorm_mono_measure (f n) Measure.restrict_le_self).trans (hC n)⟩
+
+theorem uniformIntegrable_comp {μ : Measure X} {f : ℕ → X → ℝ}
+    (hf : UniformIntegrable f 1 μ) (a : ℕ → ℕ) :
+    UniformIntegrable (fun n => f (a n)) 1 μ := by
+  obtain ⟨C,hC⟩ := hf.2
+  exact ⟨hf.1.comp a,C,fun n => hC (a n)⟩
+
+theorem eLpNorm_integral_le {μ : Measure X} {ν : Measure Y} [SFinite μ] [SFinite ν]
+    {f : X × Y → ℝ} (hf : Measurable f) :
+    eLpNorm (fun x => ∫ y, f (x,y) ∂ν) 1 μ ≤ eLpNorm f 1 (μ.prod ν) := by
+  rw [eLpNorm_one_eq_lintegral_enorm,
+    eLpNorm_one_eq_lintegral_enorm,lintegral_prod _ hf.enorm.aemeasurable]
+  exact lintegral_mono (fun x => enorm_integral_le_lintegral_enorm _)
+
+theorem uniformIntegrable_integral {μ : Measure X} {ν : Measure Y}
+    [SFinite μ] [IsFiniteMeasure ν] {f : ℕ → X × Y → ℝ}
+    (hf : ∀ n, Measurable (f n)) (hui : UniformIntegrable f 1 (μ.prod ν)) :
+    UniformIntegrable (fun n x => ∫ y, f n (x,y) ∂ν) 1 μ := by
+  constructor
+  · apply OAI.UnifIntegrable.of_enn'
+    intro ε hε
+    obtain ⟨δ,hδ,hsmall⟩ := OAI.UnifIntegrable.enn_spec' hui.1 ε hε
+    let B : ℝ≥0∞ := ν univ+1
+    have hB : B ≠ 0 := by simp [B]
+    have hBtop : B ≠ ∞ := by simp [B,measure_ne_top]
+    refine ⟨δ/B,ENNReal.div_pos hδ.ne' hBtop,?_⟩
+    intro n s hs hμs
+    have hvol : (μ.prod ν) (s ×ˢ univ) ≤ δ := by
+      rw [Measure.prod_prod]
+      calc
+        μ s*ν univ ≤ (δ/B)*B := mul_le_mul' hμs (le_self_add)
+        _ = δ := ENNReal.div_mul_cancel hB hBtop
+    calc
+      _ ≤ eLpNorm (f n) 1 ((μ.restrict s).prod ν) := eLpNorm_integral_le (hf n)
+      _ = eLpNorm (f n) 1 ((μ.prod ν).restrict (s ×ˢ univ)) := by
+        rw [← Measure.prod_restrict,Measure.restrict_univ]
+      _ ≤ ε := hsmall n (s ×ˢ univ) (hs.prod MeasurableSet.univ) hvol
+    exact fun n => (hui.aestronglyMeasurable n).integral_prod_right'
+  · obtain ⟨C,hC⟩ := hui.2
+    exact ⟨C,fun n => (eLpNorm_integral_le (hf n)).trans (hC n)⟩
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_CompactParameterConvergence
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Finite separated approximations of compact velocity tests
+
+The approximating algebra consists of finite linear combinations of products
+of one-variable continuous tests. This is the compact velocity approximation
+used in the cold--hot product passage.
+-/
+
+noncomputable section
+
+open Set
+
+namespace BoltzmannNonuniqueness.Compactness
+
+variable {X Y : Type*} [MetricSpace X] [MetricSpace Y]
+
+theorem tensorAlgebra_separates : (tensorAlgebra X Y).SeparatesPoints := by
+  intro p q hpq
+  by_cases hx : p.1 = q.1
+  · have hy : p.2 ≠ q.2 := fun h => hpq (Prod.ext hx h)
+    let g : C(Y, ℝ) := ⟨fun y => dist y p.2,continuous_id.dist continuous_const⟩
+    refine ⟨tensorTest 1 g,⟨tensorTest 1 g,IsTensorSum.tensor _ _,rfl⟩,?_⟩
+    simpa [tensorTest,g] using (dist_pos.mpr (Ne.symm hy)).ne.symm
+  · let f : C(X, ℝ) := ⟨fun x => dist x p.1,continuous_id.dist continuous_const⟩
+    refine ⟨tensorTest f 1,⟨tensorTest f 1,IsTensorSum.tensor _ _,rfl⟩,?_⟩
+    simpa [tensorTest,f] using (dist_pos.mpr (Ne.symm hx)).ne.symm
+
+theorem exists_tensorSum_near_compact (f : C(X × Y, ℝ)) {K : Set (X × Y)}
+    (hK : IsCompact K) {ε : ℝ} (hε : 0 < ε) :
+    ∃ g : C(X × Y, ℝ), IsTensorSum g ∧ ∀ p ∈ K, |g p-f p| < ε := by
+  obtain ⟨g,hg,happrox⟩ :=
+    ContinuousMap.exists_mem_subalgebra_near_continuous_of_isCompact_of_separatesPoints
+      (tensorAlgebra_separates (X := X) (Y := Y)) f hK hε
+  exact ⟨g,hg,by simpa only [Real.norm_eq_abs] using happrox⟩
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_SupportedTensorConvergence
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Uniform approximation by products of compactly supported velocity tests -/
+
+noncomputable section
+
+open Set
+
+namespace BoltzmannNonuniqueness.Compactness
+
+variable {X Y : Type*} [MetricSpace X] [MetricSpace Y]
+
+theorem tensorTest_tsupport_subset (f : C(X, ℝ)) (g : C(Y, ℝ)) :
+    tsupport (tensorTest f g) ⊆ tsupport f ×ˢ tsupport g := by
+  apply closure_minimal _ ((isClosed_tsupport f).prod (isClosed_tsupport g))
+  intro p hp
+  have hn : f p.1*g p.2 ≠ 0 := hp
+  exact ⟨subset_closure (left_ne_zero_of_mul hn),subset_closure (right_ne_zero_of_mul hn)⟩
+
+theorem tensorTest_hasCompactSupport {f : C(X, ℝ)} {g : C(Y, ℝ)}
+    (hf : HasCompactSupport f) (hg : HasCompactSupport g) :
+    HasCompactSupport (tensorTest f g) :=
+  (hf.prod hg).of_isClosed_subset (isClosed_tsupport _) (tensorTest_tsupport_subset f g)
+
+theorem IsSupportedTensorSum.hasCompactSupport {f : C(X × Y, ℝ)} (hf : IsSupportedTensorSum f) :
+    HasCompactSupport f := by
+  induction hf with
+  | zero => simp [HasCompactSupport]
+  | tensor f g hf hg => exact tensorTest_hasCompactSupport hf hg
+  | add _ _ ih₁ ih₂ => exact ih₁.add ih₂
+  | smul r _ ih => exact ih.smul_left
+
+theorem IsTensorSum.cutoff {f : C(X × Y, ℝ)} (hf : IsTensorSum f)
+    {β : C(X, ℝ)} {γ : C(Y, ℝ)} (hβ : HasCompactSupport β) (hγ : HasCompactSupport γ) :
+    IsSupportedTensorSum (tensorTest β γ*f) := by
+  induction hf with
+  | zero => simpa only [mul_zero] using
+      (IsSupportedTensorSum.zero : IsSupportedTensorSum (0 : C(X × Y, ℝ)))
+  | tensor a b =>
+    have he : tensorTest β γ*tensorTest a b = tensorTest (β*a) (γ*b) := by
+      ext p
+      change (β p.1*γ p.2)*(a p.1*b p.2) = (β p.1*a p.1)*(γ p.2*b p.2)
+      ring
+    rw [he]
+    exact IsSupportedTensorSum.tensor _ _ hβ.mul_right hγ.mul_right
+  | add _ _ ih₁ ih₂ => simpa only [mul_add] using IsSupportedTensorSum.add ih₁ ih₂
+  | smul r _ ih => simpa only [mul_smul_comm] using IsSupportedTensorSum.smul r ih
+
+theorem exists_supported_tensorSum_uniform [LocallyCompactSpace X] [LocallyCompactSpace Y]
+    (f : C(X × Y, ℝ)) (hf : HasCompactSupport f) {ε : ℝ} (hε : 0 < ε) :
+    ∃ g : C(X × Y, ℝ), IsSupportedTensorSum g ∧ ∀ p, |g p-f p| < ε := by
+  obtain ⟨β,hβone,hβc,_hβs,hβ⟩ :=
+    exists_continuousMap_one_of_isCompact_subset_isOpen
+      (hf.image continuous_fst) isOpen_univ (subset_univ _)
+  obtain ⟨γ,hγone,hγc,_hγs,hγ⟩ :=
+    exists_continuousMap_one_of_isCompact_subset_isOpen
+      (hf.image continuous_snd) isOpen_univ (subset_univ _)
+  have hcut (p : X × Y) : tensorTest β γ p*f p = f p := by
+    by_cases hp : f p = 0
+    · simp only [hp,mul_zero]
+    · have hpt : p ∈ tsupport f := subset_closure hp
+      have hb : β p.1 = 1 := hβone (mem_image_of_mem Prod.fst hpt)
+      have hg : γ p.2 = 1 := hγone (mem_image_of_mem Prod.snd hpt)
+      simp only [tensorTest,ContinuousMap.coe_mk,hb,hg,one_mul]
+  obtain ⟨g,hg,happrox⟩ := exists_tensorSum_near_compact f (hβc.prod hγc) hε
+  refine ⟨tensorTest β γ*g,hg.cutoff hβc hγc,fun p => ?_⟩
+  change |tensorTest β γ p*g p-f p| < ε
+  rw [← hcut p,← mul_sub,abs_mul]
+  by_cases hp : p ∈ tsupport β ×ˢ tsupport γ
+  · have hb : |tensorTest β γ p| ≤ 1 := by
+      change |β p.1*γ p.2| ≤ 1
+      rw [abs_of_nonneg (mul_nonneg (hβ _).1 (hγ _).1)]
+      simpa only [one_mul] using mul_le_mul (hβ p.1).2 (hγ p.2).2 (hγ _).1 zero_le_one
+    exact (mul_le_of_le_one_left (abs_nonneg _) hb).trans_lt (happrox p hp)
+  · have hz : tensorTest β γ p = 0 :=
+      image_eq_zero_of_notMem_tsupport (fun h => hp (tensorTest_tsupport_subset β γ h))
+    simpa only [hz,abs_zero,zero_mul] using hε
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_AngularPairTests
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.sphereProbability_isProbability _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Continuous compact pair kernels for the physical outgoing angular law -/
+noncomputable section
+open MeasureTheory Set
+open scoped RealInnerProductSpace
+namespace BoltzmannNonuniqueness.Compactness
+
+theorem angularPostCutoffTest_hasCompactSupport (η φ : C(Velocity,ℝ))
+    (hη : HasCompactSupport η) : HasCompactSupport (angularPostCutoffTest η φ) := by
+  exact (tensorTest_hasCompactSupport hη hη).mul_right
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_Moments
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.AnnularEnvelope.instIsFiniteMeasureProdRealPositionTimePositionVolume _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.sphereProbability_isProbability _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.sphereArea_isFiniteMeasure _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Integrable moments of finite-entropy data
+
+The weighted entropy assumption from the manuscript controls mass, kinetic
+energy, absolute entropy, and vector momentum. These conclusions use the actual
+integrability assumption rather than any default value of a Bochner integral.
+-/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness
+
+theorem density_le_entropyMoment {f : Density} {z : Phase} (hf : 0 ≤ f z) :
+    f z ≤ entropyMoment f z := by
+  unfold entropyMoment
+  nlinarith [mul_nonneg hf (sq_nonneg ‖z.2‖),
+    mul_nonneg hf (abs_nonneg (Real.log (f z)))]
+
+theorem energyDensity_le_entropyMoment {f : Density} {z : Phase} (hf : 0 ≤ f z) :
+    ‖z.2‖ ^ 2 * f z ≤ entropyMoment f z := by
+  unfold entropyMoment
+  nlinarith [mul_nonneg hf (abs_nonneg (Real.log (f z)))]
+
+theorem absEntropyDensity_le_entropyMoment {f : Density} {z : Phase} (hf : 0 ≤ f z) :
+    f z * |Real.log (f z)| ≤ entropyMoment f z := by
+  unfold entropyMoment
+  nlinarith [mul_nonneg hf (sq_nonneg ‖z.2‖)]
+
+namespace FiniteEntropyDatum
+
+variable {f : Density} (hf : FiniteEntropyDatum f)
+
+include hf
+
+/-- Finite weighted entropy gives finite mass. -/
+theorem integrable : Integrable f := by
+  apply hf.2.2.mono' hf.2.1
+  filter_upwards [hf.1] with z hz
+  simpa only [Real.norm_eq_abs, abs_of_nonneg hz] using density_le_entropyMoment hz
+
+/-- The energy functional integrates an integrable density. -/
+theorem integrable_energy : Integrable (fun z => ‖z.2‖ ^ 2 * f z) := by
+  have hm : AEStronglyMeasurable (fun z : Phase => ‖z.2‖ ^ 2) := by fun_prop
+  apply hf.2.2.mono' (hm.mul hf.2.1)
+  filter_upwards [hf.1] with z hz
+  rw [Pi.mul_apply, Real.norm_eq_abs, abs_of_nonneg (mul_nonneg (sq_nonneg _) hz)]
+  exact energyDensity_le_entropyMoment hz
+
+/-- This is absolute entropy, including the convention at zero from the model. -/
+theorem integrable_absEntropy : Integrable (fun z => f z * |Real.log (f z)|) := by
+  have hlog : AEStronglyMeasurable (fun z => Real.log (f z)) :=
+    hf.2.1.aemeasurable.log.aestronglyMeasurable
+  have hm : AEStronglyMeasurable (fun z => f z * |Real.log (f z)|) := by
+    simpa only [Pi.mul_def, Real.norm_eq_abs] using hf.2.1.mul hlog.norm
+  apply hf.2.2.mono' hm
+  filter_upwards [hf.1] with z hz
+  rw [Real.norm_eq_abs, abs_of_nonneg (mul_nonneg hz (abs_nonneg _))]
+  exact absEntropyDensity_le_entropyMoment hz
+
+theorem integrable_entropy : Integrable (fun z => f z * Real.log (f z)) := by
+  have hlog : AEStronglyMeasurable (fun z => Real.log (f z)) :=
+    hf.2.1.aemeasurable.log.aestronglyMeasurable
+  apply hf.integrable_absEntropy.mono' (hf.2.1.mul hlog)
+  filter_upwards [hf.1] with z hz
+  simp only [Pi.mul_apply, Real.norm_eq_abs, abs_mul, abs_of_nonneg hz, le_refl]
+
+end FiniteEntropyDatum
+
+end BoltzmannNonuniqueness
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_CollisionMeasure
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-!
+# Measure preservation for a hard-sphere collision
+
+For each fixed unit normal, the pre/post-collisional map is an orthogonal
+involution on the six-dimensional velocity-pair space. Its Euclidean norm is
+implemented with `WithLp 2`; the final measure statement uses the ordinary
+product of the two three-dimensional Lebesgue measures.
+-/
+
+noncomputable section
+
+open MeasureTheory
+open scoped RealInnerProductSpace
+
+namespace BoltzmannNonuniqueness
+
+/-- Fixed-normal pre/post collision change of variables preserves product Lebesgue measure. -/
+theorem scatterPair_measurePreserving (ω : Velocity) (hω : ‖ω‖ = 1) :
+    MeasurePreserving (scatterPair ω)
+      ((volume : Measure Velocity).prod volume)
+      ((volume : Measure Velocity).prod volume) := by
+  have h := (WithLp.volume_preserving_ofLp Velocity Velocity).comp
+    ((scatterLinearIsometryEquiv ω hω).measurePreserving.comp
+      (WithLp.volume_preserving_toLp Velocity Velocity))
+  exact h
+
+theorem scatterPair_measurableEmbedding (ω : Velocity) (hω : ‖ω‖ = 1) :
+    MeasurableEmbedding (scatterPair ω) :=
+  (scatterLinearEquiv ω hω).toContinuousLinearEquiv.toHomeomorph.measurableEmbedding
+
+/-- The unweighted pre/post-collisional change-of-variables identity. -/
+theorem integral_scatterPair (ω : Velocity) (hω : ‖ω‖ = 1)
+    (F : Velocity × Velocity → ℝ) :
+    (∫ p, F (scatterPair ω p) ∂((volume : Measure Velocity).prod volume)) =
+      ∫ p, F p ∂((volume : Measure Velocity).prod volume) :=
+  (scatterPair_measurePreserving ω hω).integral_comp
+    (scatterPair_measurableEmbedding ω hω) F
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+section
+
+/-! # Weighted marginal and angular Fubini formulas on the velocity collision fiber -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.CollisionCompactness
+
+local instance collisionFiberSFinite : SFinite ((volume : Measure Velocity).prod sphereArea) :=
+  Measure.prod.instSFinite
+
+theorem collision_fiber_test_fubini
+    {r : (Velocity × Velocity) × Sphere → ℝ}
+    (hi : Integrable r ((volume : Measure (Velocity × Velocity)).prod sphereArea))
+    {ψ : Velocity → ℝ} (hψ : Measurable ψ) (C : ℝ) (hC : ∀ v, |ψ v| ≤ C) :
+    (∫ v : Velocity, ψ v*(∫ q : Velocity × Sphere, r ((v,q.1),q.2)
+      ∂(volume : Measure Velocity).prod sphereArea)) =
+    ∫ ω : Sphere, (∫ y : Velocity × Velocity, ψ y.1*r (y,ω)) ∂sphereArea := by
+  let H : (Velocity × Velocity) × Sphere → ℝ := fun z => ψ z.1.1*r z
+  have hI : Integrable H ((volume : Measure (Velocity × Velocity)).prod sphereArea) :=
+    hi.bdd_mul (hψ.comp measurable_fst.fst).aestronglyMeasurable (ae_of_all _ (fun z => hC z.1.1))
+  have hmp := measurePreserving_prodAssoc (volume : Measure Velocity) (volume : Measure Velocity) sphereArea
+  have hgroup : Integrable (fun z : Velocity × (Velocity × Sphere) => ψ z.1*r ((z.1,z.2.1),z.2.2))
+      ((volume : Measure Velocity).prod ((volume : Measure Velocity).prod sphereArea)) := by
+    have hh : Integrable H (((volume : Measure Velocity).prod volume).prod sphereArea) := by
+      simpa only [Measure.volume_eq_prod] using hI
+    exact hmp.symm.integrable_comp_of_integrable hh
+  calc
+    _ = ∫ v : Velocity, ∫ q : Velocity × Sphere, ψ v*r ((v,q.1),q.2)
+        ∂(volume : Measure Velocity).prod sphereArea := by
+      apply integral_congr_ae
+      exact ae_of_all _ (fun v => (integral_const_mul _ _).symm)
+    _ = ∫ z : Velocity × (Velocity × Sphere), ψ z.1*r ((z.1,z.2.1),z.2.2)
+        ∂(volume : Measure Velocity).prod ((volume : Measure Velocity).prod sphereArea) :=
+      (integral_prod _ hgroup).symm
+    _ = ∫ z : (Velocity × Velocity) × Sphere, H z
+        ∂(volume : Measure (Velocity × Velocity)).prod sphereArea := by
+      have he := hmp.integral_comp MeasurableEquiv.prodAssoc.measurableEmbedding
+        (fun z : Velocity × (Velocity × Sphere) => ψ z.1*r ((z.1,z.2.1),z.2.2))
+      change (∫ z : (Velocity × Velocity) × Sphere, H z
+        ∂((volume : Measure Velocity).prod volume).prod sphereArea) =
+        ∫ z : Velocity × (Velocity × Sphere), ψ z.1*r ((z.1,z.2.1),z.2.2)
+          ∂(volume : Measure Velocity).prod ((volume : Measure Velocity).prod sphereArea) at he
+      simpa only [Measure.volume_eq_prod] using he.symm
+    _ = _ := integral_prod_symm _ hI
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_KineticDensityMeasurable
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.AnnularEnvelope.instIsFiniteMeasureProdRealPositionTimePositionVolume _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Measure-preserving grouping of physical time and phase coordinates -/
+
+noncomputable section
+
+open MeasureTheory Set
+
+namespace BoltzmannNonuniqueness
+
+theorem kineticGrouping_measurePreserving (μ : Measure ℝ) [SFinite μ] :
+    MeasurePreserving (MeasurableEquiv.prodAssoc :
+      ((ℝ × Position) × Velocity) ≃ᵐ ℝ × Phase)
+      ((μ.prod volume).prod volume) (μ.prod volume) := by
+  simpa only [Measure.volume_eq_prod] using measurePreserving_prodAssoc μ
+    (volume : Measure Position) (volume : Measure Velocity)
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_GaussianEstimates
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.AnnularEnvelope.instIsFiniteMeasureProdRealPositionTimePositionVolume _root_.OAI.BoltzmannNonuniqueness.ChartKernel.coordinateKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.coreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.MassTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.TorusFlight.flight_neg _root_.OAI.BoltzmannNonuniqueness.TorusFlight.flight_zero _root_.OAI.BoltzmannNonuniqueness.TorusFlight.neg_flight _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The Maxwellian reference entropy
+
+Finite weighted absolute entropy makes the relative-entropy integral genuine.
+Its nonnegativity is proved, including the zero-density convention.
+-/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness
+
+theorem log_maxwellian (v : Velocity) :
+    Real.log (maxwellian v) = -(3 / 2 : ℝ) * Real.log (2 * Real.pi) - ‖v‖ ^ 2 / 2 := by
+  have hp : 0 < (2 : ℝ) * Real.pi := by positivity
+  rw [maxwellian, Real.log_mul (Real.rpow_pos_of_pos hp _).ne' (Real.exp_ne_zero _),
+    Real.log_rpow hp, Real.log_exp]
+  ring
+
+theorem integrable_maxwellian : Integrable maxwellian := by
+  have h := (GaussianFourier.integrable_cexp_neg_mul_sq_norm_add
+    (by norm_num : 0 < ((1 / 2 : ℂ)).re) 0 (0 : Velocity)).norm
+  have hg : Integrable (fun v : Velocity => Real.exp (-‖v‖ ^ 2 / 2)) := by
+    convert! h using 1
+    all_goals try with_reducible_and_instances rfl
+    funext v
+    simp only [zero_mul, add_zero, Complex.norm_exp]
+    congr 1
+    norm_num
+    norm_cast
+    ring
+  exact hg.const_mul _
+
+theorem integrable_maxwellian_phase : Integrable (fun z : Phase => maxwellian z.2) :=
+  integrable_maxwellian.comp_snd volume
+
+theorem relativeEntropyDensity_eq {f : Density} {z : Phase} (hz : 0 ≤ f z) :
+    f z * Real.log (f z / maxwellian z.2) - f z + maxwellian z.2 =
+      f z * Real.log (f z) + ((3 / 2 : ℝ) * Real.log (2 * Real.pi) - 1) * f z +
+        (1 / 2 : ℝ) * (‖z.2‖ ^ 2 * f z) + maxwellian z.2 := by
+  rcases hz.eq_or_lt with hz | hz
+  · simp [← hz]
+  · rw [Real.log_div hz.ne' (maxwellian_pos _).ne', log_maxwellian]
+    ring
+
+theorem FiniteEntropyDatum.integrable_relativeEntropy {f : Density} (hf : FiniteEntropyDatum f) :
+    Integrable (fun z => f z * Real.log (f z / maxwellian z.2) - f z + maxwellian z.2) := by
+  have h := ((hf.integrable_entropy.add
+    (hf.integrable.const_mul ((3 / 2 : ℝ) * Real.log (2 * Real.pi) - 1))).add
+    (hf.integrable_energy.const_mul (1 / 2 : ℝ))).add integrable_maxwellian_phase
+  apply h.congr
+  filter_upwards [hf.1] with z hz
+  exact (relativeEntropyDensity_eq hz).symm
+
+/-- The scalar relative entropy is nonnegative at every nonnegative density value. -/
+theorem relativeEntropyDensity_nonneg {a m : ℝ} (ha : 0 ≤ a) (hm : 0 < m) :
+    0 ≤ a * Real.log (a / m) - a + m := by
+  rcases ha.eq_or_lt with ha | ha
+  · simp [← ha, hm.le]
+  · have h := Real.log_le_sub_one_of_pos (div_pos hm ha)
+    have hlog : Real.log (m / a) = -Real.log (a / m) := by
+      rw [Real.log_div hm.ne' ha.ne', Real.log_div ha.ne' hm.ne']
+      ring
+    rw [hlog] at h
+    have hh := mul_le_mul_of_nonneg_left h ha.le
+    have he : a * (m / a - 1) = m - a := by field_simp
+    rw [he] at hh
+    nlinarith only [hh]
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_EntropyIntegralBalance
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The regularized entropy primitive used at zeros of finite approximations -/
+
+noncomputable section
+
+open Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness
+
+theorem scalarRelativeEntropy_eq {m : ℝ} (hm : 0 < m) (f : ℝ) :
+    scalarRelativeEntropy m f = f*Real.log (f/m)-f+m := by
+  by_cases hf : f = 0
+  · simp [scalarRelativeEntropy,hf]
+  · rw [Real.log_div hf hm.ne']
+    unfold scalarRelativeEntropy
+    ring
+
+theorem scalarRelativeEntropy_continuous (m : ℝ) : Continuous (scalarRelativeEntropy m) :=
+  (Real.continuous_mul_log.sub (continuous_id.mul_const (1+Real.log m))).add_const m
+
+theorem scalarRelativeEntropy_hasDerivAt {m f : ℝ} (hm : 0 < m) (hf : 0 < f) :
+    HasDerivAt (scalarRelativeEntropy m) (Real.log (f/m)) f := by
+  have h := ((Real.hasDerivAt_mul_log hf.ne').sub
+    ((hasDerivAt_id f).mul_const (1+Real.log m))).add_const m
+  rw [Real.log_div hf.ne' hm.ne']
+  refine h.congr_deriv (Eq.symm ?_)
+  · ring
+
+theorem regularizedEntropy_continuous_delta (m e f : ℝ) :
+    Continuous (fun δ => regularizedEntropy m e δ f) :=
+  (((scalarRelativeEntropy_continuous m).comp
+    (continuous_const.add (continuous_id.mul_const e))).sub
+    ((scalarRelativeEntropy_continuous m).comp (continuous_id.mul_const e))).add_const m
+
+theorem regularizedEntropy_tendsto (m e f : ℝ) :
+    Tendsto (fun δ => regularizedEntropy m e δ f) (𝓝 0) (𝓝 (scalarRelativeEntropy m f)) := by
+  have h := (regularizedEntropy_continuous_delta m e f).tendsto 0
+  have he : regularizedEntropy m e 0 f = scalarRelativeEntropy m f := by
+    simp [regularizedEntropy,scalarRelativeEntropy]
+  rw [he] at h
+  exact h
+
+theorem regularizedEntropy_hasDerivAt {m e δ f : ℝ}
+    (hm : 0 < m) (he : 0 < e) (hδ : 0 < δ) (hf : 0 ≤ f) :
+    HasDerivAt (regularizedEntropy m e δ) (Real.log ((f+δ*e)/m)) f := by
+  have hp : 0 < f+δ*e := add_pos_of_nonneg_of_pos hf (mul_pos hδ he)
+  have h := (((scalarRelativeEntropy_hasDerivAt hm hp).comp f
+    ((hasDerivAt_id f).add_const (δ*e))).sub_const (scalarRelativeEntropy m (δ*e))).add_const m
+  refine h.congr_deriv (Eq.symm ?_)
+  · ring
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+section
+
+/-! # A regularization-independent integrable bound for relative entropy -/
+
+noncomputable section
+
+open MeasureTheory
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness
+
+theorem scalarRelativeEntropy_nonneg {m u : ℝ} (hm : 0 < m) (hu : 0 ≤ u) :
+    0 ≤ scalarRelativeEntropy m u := by
+  rw [scalarRelativeEntropy_eq hm]
+  exact relativeEntropyDensity_nonneg hu hm
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+section
+
+/-! # The regularized entropy chain rule on an absolutely continuous free path -/
+
+noncomputable section
+
+open MeasureTheory Set
+open scoped NNReal
+
+namespace BoltzmannNonuniqueness
+
+theorem regularizedEntropy_lipschitz {m e δ R : ℝ}
+    (hm : 0 < m) (he : 0 < e) (hδ : 0 < δ) (_hR : 0 ≤ R) :
+    ∃ C : ℝ≥0, LipschitzOnWith C (regularizedEntropy m e δ) (Icc 0 R) := by
+  let L := Real.log (δ*e/m)
+  let U := Real.log ((R+δ*e)/m)
+  let C : ℝ≥0 := ⟨|L|+|U|,add_nonneg (abs_nonneg _) (abs_nonneg _)⟩
+  refine ⟨C,(convex_Icc (0:ℝ) R).lipschitzOnWith_of_nnnorm_hasDerivWithin_le
+    (fun x hx => (regularizedEntropy_hasDerivAt hm he hδ hx.1).hasDerivWithinAt) ?_⟩
+  intro x hx
+  have hl : L ≤ Real.log ((x+δ*e)/m) := Real.log_le_log (div_pos (mul_pos hδ he) hm)
+    (div_le_div_of_nonneg_right (by linarith [hx.1]) hm.le)
+  have hu : Real.log ((x+δ*e)/m) ≤ U := Real.log_le_log
+    (div_pos (add_pos_of_nonneg_of_pos hx.1 (mul_pos hδ he)) hm)
+    (div_le_div_of_nonneg_right (by linarith [hx.2]) hm.le)
+  have hb : |Real.log ((x+δ*e)/m)| ≤ |L|+|U| := abs_le.mpr ⟨by
+    linarith [neg_abs_le L,abs_nonneg U],by linarith [le_abs_self U,abs_nonneg L]⟩
+  exact_mod_cast hb
+
+theorem lipschitzOnWith_comp_absolutelyContinuousOnInterval {g f : ℝ → ℝ} {s : Set ℝ} {K : ℝ≥0}
+    {a b : ℝ} (hg : LipschitzOnWith K g s) (hmaps : ∀ t ∈ Set.uIcc a b, f t ∈ s)
+    (hf : AbsolutelyContinuousOnInterval f a b) :
+    AbsolutelyContinuousOnInterval (fun t => g (f t)) a b := by
+  have h0 := hf
+  unfold AbsolutelyContinuousOnInterval at h0 ⊢
+  have h1 := h0.const_mul (K : ℝ)
+  rw [mul_zero] at h1
+  refine squeeze_zero' ?_ ?_ h1
+  · exact Filter.Eventually.of_forall (fun E => Finset.sum_nonneg (fun i _ => dist_nonneg))
+  · refine Filter.eventually_inf_principal.2 (Filter.Eventually.of_forall (fun E hE => ?_))
+    rw [Finset.mul_sum]
+    refine Finset.sum_le_sum (fun i hi => ?_)
+    have hi' := hE.left i hi
+    have := hg (hmaps _ hi'.left) (hmaps _ hi'.right)
+    have h2 := ENNReal.toReal_mono (ENNReal.mul_ne_top ENNReal.coe_ne_top (edist_ne_top _ _)) this
+    rwa [ENNReal.toReal_mul, ← dist_edist, ← dist_edist, ENNReal.coe_toReal] at h2
+
+theorem regularizedEntropy_chain_rule {a b m e δ R : ℝ} {F r : ℝ → ℝ}
+    (hm : 0 < m) (he : 0 < e) (hδ : 0 < δ) (hR : 0 ≤ R)
+    (hF : AbsolutelyContinuousOnInterval F a b)
+    (hFn : ∀ t ∈ uIcc a b, 0 ≤ F t) (hFb : ∀ t ∈ uIcc a b, F t ≤ R)
+    (hr : ∀ᵐ t, t ∈ uIcc a b → HasDerivAt F (r t) t) :
+    (∫ t in a..b, Real.log ((F t+δ*e)/m)*r t) =
+      regularizedEntropy m e δ (F b)-regularizedEntropy m e δ (F a) := by
+  obtain ⟨C,hC⟩ := regularizedEntropy_lipschitz hm he hδ hR
+  have hc : AbsolutelyContinuousOnInterval (fun t => regularizedEntropy m e δ (F t)) a b :=
+    lipschitzOnWith_comp_absolutelyContinuousOnInterval hC (fun t ht => ⟨hFn t ht,hFb t ht⟩) hF
+  rw [← hc.integral_deriv_eq_sub]
+  apply intervalIntegral.integral_congr_ae
+  filter_upwards [hr] with t ht hmem
+  have hmemb : t ∈ uIcc a b := uIoc_subset_uIcc hmem
+  exact ((regularizedEntropy_hasDerivAt hm he hδ (hFn t hmemb)).comp t (ht hmemb)).deriv.symm
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+section
+
+/-! # The entropy balance for an integral characteristic path -/
+
+noncomputable section
+
+open MeasureTheory Set
+
+namespace BoltzmannNonuniqueness
+
+theorem regularizedEntropy_integral_path {a b m e δ R A : ℝ} {r : ℝ → ℝ}
+    (hm : 0 < m) (he : 0 < e) (hδ : 0 < δ) (hR : 0 ≤ R)
+    (hr : IntervalIntegrable r volume a b)
+    (hn : ∀ t ∈ uIcc a b, 0 ≤ A+∫ s in a..t, r s)
+    (hb : ∀ t ∈ uIcc a b, A+(∫ s in a..t, r s) ≤ R) :
+    (∫ t in a..b, Real.log (((A+∫ s in a..t, r s)+δ*e)/m)*r t) =
+      regularizedEntropy m e δ (A+∫ s in a..b, r s)-regularizedEntropy m e δ A := by
+  have hprimitive := hr.absolutelyContinuousOnInterval_intervalIntegral
+    (left_mem_uIcc : a ∈ uIcc a b)
+  have hconstant : AbsolutelyContinuousOnInterval (fun _ : ℝ => A) a b := by
+    simpa only [AbsolutelyContinuousOnInterval,dist_self,Finset.sum_const_zero] using
+      (tendsto_const_nhds : Filter.Tendsto (fun _ : ℕ × (ℕ → ℝ × ℝ) => (0:ℝ)) _ _)
+  have hp : AbsolutelyContinuousOnInterval (fun t => A+∫ s in a..t, r s) a b :=
+    hconstant.add hprimitive
+  have hd : ∀ᵐ t, t ∈ uIcc a b →
+      HasDerivAt (fun t => A+∫ s in a..t, r s) (r t) t := by
+    filter_upwards [hr.ae_hasDerivAt_integral] with t ht hmem
+    exact (ht hmem a left_mem_uIcc).const_add A
+  simpa only [intervalIntegral.integral_same,add_zero] using
+    regularizedEntropy_chain_rule hm he hδ hR hp hn hb hd
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_ScalarEntropyConvex
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded dual tests for relative entropy -/
+
+noncomputable section
+
+open Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness
+
+theorem entropyDual_le {m u : ℝ} (hm : 0 < m) (hu : 0 ≤ u) (s : ℝ) :
+    entropyDual m u s ≤ scalarRelativeEntropy m u := by
+  by_cases hz : u = 0
+  · subst u
+    dsimp [entropyDual,scalarRelativeEntropy]
+    nlinarith [Real.exp_pos s]
+  · have hup : 0 < u := lt_of_le_of_ne hu (Ne.symm hz)
+    have hr : 0 < u/m := div_pos hup hm
+    have h := mul_le_mul_of_nonneg_left (Real.add_one_le_exp (s-Real.log (u/m))) hu
+    rw [Real.exp_sub,Real.exp_log hr] at h
+    have he : u*(Real.exp s/(u/m)) = m*Real.exp s := by field_simp
+    rw [he] at h
+    rw [scalarRelativeEntropy_eq hm]
+    dsimp [entropyDual]
+    nlinarith only [h]
+
+theorem entropyDual_log_ratio {m u : ℝ} (hm : 0 < m) (hu : 0 < u) :
+    entropyDual m u (Real.log (u/m)) = scalarRelativeEntropy m u := by
+  rw [scalarRelativeEntropy_eq hm]
+  unfold entropyDual
+  rw [Real.exp_log (div_pos hu hm)]
+  field_simp
+  ring
+
+theorem entropyDual_zero_tendsto (m : ℝ) :
+    Tendsto (fun r : ℝ => entropyDual m 0 (-r)) atTop (𝓝 m) := by
+  have h : Tendsto (fun r : ℝ => Real.exp (-r)) atTop (𝓝 0) :=
+    Real.tendsto_exp_atBot.comp tendsto_neg_atTop_atBot
+  have ht : Tendsto (fun r : ℝ => m-m*Real.exp (-r)) atTop (𝓝 m) := by
+    simpa only [mul_zero,sub_zero] using
+      (tendsto_const_nhds : Tendsto (fun _ : ℝ => m) atTop (𝓝 m)).sub (h.const_mul m)
+  convert ht using 1
+  all_goals try with_reducible_and_instances rfl
+  funext r
+  dsimp [entropyDual]
+  ring
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_WeakL1Operations
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Weak limits are unchanged by a vanishing L1 error -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.Published
+
+theorem WeakL1Converges.of_integral_abs_sub
+    {X : Type*} [MeasurableSpace X] {μ : Measure X} {f h : ℕ → X → ℝ} {g : X → ℝ}
+    (hg : WeakL1Converges μ f g) (hf : ∀ n, Integrable (f n) μ)
+    (hh : ∀ n, Integrable (h n) μ)
+    (herr : Tendsto (fun n => ∫ x, |h n x-f n x| ∂μ) atTop (𝓝 0)) :
+    WeakL1Converges μ h g := by
+  refine ⟨hg.1,hg.2.1,?_⟩
+  intro ψ hψ hB
+  obtain ⟨C,hC⟩ := hB
+  have hC' (x) : |ψ x| ≤ |C| := (hC x).trans (le_abs_self C)
+  have hi (n) : Integrable (fun x => ψ x*(h n x-f n x)) μ :=
+    ((hh n).sub (hf n)).bdd_mul hψ.aestronglyMeasurable (ae_of_all _ hC')
+  have he : Tendsto (fun n => ∫ x, ψ x*(h n x-f n x) ∂μ) atTop (𝓝 0) := by
+    apply tendsto_zero_iff_norm_tendsto_zero.mpr
+    apply squeeze_zero (fun _ => norm_nonneg _)
+      (fun n => norm_integral_le_of_norm_le (((hh n).sub (hf n)).abs.const_mul |C|)
+        (ae_of_all _ (fun x => by
+          rw [Real.norm_eq_abs,abs_mul]
+          exact mul_le_mul_of_nonneg_right (hC' x) (abs_nonneg _))))
+    simpa only [integral_const_mul,mul_zero,Pi.sub_apply] using herr.const_mul |C|
+  have ht := he.add (hg.2.2 ψ hψ ⟨C,hC⟩)
+  simp only [zero_add] at ht
+  apply ht.congr'
+  filter_upwards [] with n
+  rw [← integral_add (hi n) ((hf n).bdd_mul hψ.aestronglyMeasurable (ae_of_all _ hC'))]
+  apply integral_congr_ae
+  filter_upwards [] with x
+  ring
+
+end BoltzmannNonuniqueness.Published
+
+end
+
+end
+
+section
+
+/-! # A vanishing L1 norm error preserves the same weak limit -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Published
+
+theorem WeakL1Converges.of_eLpNorm_sub
+    {X : Type*} [MeasurableSpace X] {μ : Measure X} {f h : ℕ → X → ℝ} {g : X → ℝ}
+    (hg : WeakL1Converges μ f g) (hf : ∀ n, Integrable (f n) μ)
+    (hh : ∀ n, Integrable (h n) μ)
+    (herr : Tendsto (fun n => eLpNorm (fun x => h n x-f n x) 1 μ) atTop (𝓝 0)) :
+    WeakL1Converges μ h g := by
+  apply hg.of_integral_abs_sub hf hh
+  have he n : (∫ x, |h n x-f n x| ∂μ) =
+      (eLpNorm (fun x => h n x-f n x) 1 μ).toReal := by
+    change (∫ x, ‖(h n-f n) x‖ ∂μ) = (eLpNorm (h n-f n) 1 μ).toReal
+    rw [eLpNorm_one_eq_lintegral_enorm,
+      integral_norm_eq_lintegral_enorm ((hh n).sub (hf n)).aestronglyMeasurable]
+  simp only [he]
+  exact (ENNReal.tendsto_toReal ENNReal.zero_ne_top).comp herr
+
+end BoltzmannNonuniqueness.Published
+
+end
+
+end
+
+section
+
+/-! # Weak velocity-average limits and their identification with strong limits -/
+
+noncomputable section
+
+open MeasureTheory Filter Set
+open scoped ENNReal Topology
+
+namespace BoltzmannNonuniqueness.Published
+
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+
+private theorem integral_test_marginal {μ : Measure X} {ν : Measure Y}
+    [SFinite μ] [SFinite ν] {u k : X × Y → ℝ} (hu : Integrable u (μ.prod ν))
+    (hk : Measurable k) (C : ℝ) (hC : ∀ z, |k z| ≤ C)
+    {ψ : X → ℝ} (hψ : Measurable ψ) (D : ℝ) (hD : ∀ x, |ψ x| ≤ D) :
+    (∫ x, ψ x*(∫ y, k (x,y)*u (x,y) ∂ν) ∂μ) =
+      ∫ z, (ψ z.1*k z)*u z ∂μ.prod ν := by
+  have hku := hu.bdd_mul hk.aestronglyMeasurable (ae_of_all _ hC)
+  have hi := hku.bdd_mul (hψ.comp measurable_fst).aestronglyMeasurable
+    (ae_of_all _ (fun z => hD z.1))
+  change Integrable (fun z : X × Y => ψ z.1*(k z*u z)) (μ.prod ν) at hi
+  calc
+    _ = ∫ z, ψ z.1*(k z*u z) ∂μ.prod ν := by
+      rw [integral_prod _ hi]
+      simp_rw [integral_const_mul]
+    _ = _ := by congr 1; ext z; ring
+
+theorem WeakL1Converges.marginal {μ : Measure X} {ν : Measure Y}
+    [SFinite μ] [SFinite ν] {f : ℕ → X × Y → ℝ} {g : X × Y → ℝ}
+    (h : WeakL1Converges (μ.prod ν) f g) (hf : ∀ n, Integrable (f n) (μ.prod ν))
+    {k : X × Y → ℝ} (hk : Measurable k) (C : ℝ) (hC : ∀ z, |k z| ≤ C) :
+    WeakL1Converges μ (fun n x => ∫ y, k (x,y)*f n (x,y) ∂ν)
+      (fun x => ∫ y, k (x,y)*g (x,y) ∂ν) := by
+  have hkg := h.2.1.bdd_mul hk.aestronglyMeasurable (ae_of_all _ hC)
+  refine ⟨(hk.mul h.1).stronglyMeasurable.integral_prod_right'.measurable,
+    hkg.integral_prod_left,?_⟩
+  intro ψ hψ hB
+  obtain ⟨D,hD⟩ := hB
+  have htest : Measurable (fun z : X × Y => ψ z.1*k z) :=
+    (hψ.comp measurable_fst).mul hk
+  have htestB : ∃ B : ℝ, ∀ z : X × Y, |ψ z.1*k z| ≤ B := by
+    refine ⟨|D| * |C|,fun z => ?_⟩
+    rw [abs_mul]
+    exact mul_le_mul ((hD z.1).trans (le_abs_self D)) ((hC z).trans (le_abs_self C))
+      (abs_nonneg _) (abs_nonneg _)
+  have ht := h.2.2 _ htest htestB
+  simpa only [← integral_test_marginal (hf _) hk C hC hψ D hD,
+    ← integral_test_marginal h.2.1 hk C hC hψ D hD] using ht
+
+end BoltzmannNonuniqueness.Published
+
+end
+
+end
+
+section
+
+/-! # Bounded changes of measure for weak L1 limits -/
+noncomputable section
+open MeasureTheory Filter
+open scoped Topology
+namespace BoltzmannNonuniqueness.Published
+variable {X : Type*} [MeasurableSpace X]
+
+theorem WeakL1Converges.withDensity_bounded {μ : Measure X}
+    {f : ℕ → X → ℝ} {g w : X → ℝ} (h : WeakL1Converges μ f g)
+    (hw : Measurable w) (hw0 : ∀ x, 0 ≤ w x)
+    (hwB : ∃ B : ℝ, ∀ x, |w x| ≤ B) :
+    WeakL1Converges (μ.withDensity (fun x => ENNReal.ofReal (w x))) f g := by
+  obtain ⟨B,hB⟩ := hwB
+  have hi : Integrable (fun x => w x*g x) μ :=
+    h.2.1.bdd_mul hw.aestronglyMeasurable (ae_of_all _ hB)
+  refine ⟨h.1,?_,?_⟩
+  · apply (integrable_withDensity_iff_integrable_smul' hw.ennreal_ofReal
+      (ae_of_all _ (fun _ => ENNReal.ofReal_lt_top))).mpr
+    simpa only [ENNReal.toReal_ofReal (hw0 _),smul_eq_mul] using hi
+  · intro ψ hψ hψB
+    obtain ⟨C,hC⟩ := hψB
+    have hb : ∃ D : ℝ, ∀ x, |w x*ψ x| ≤ D := by
+      refine ⟨max B 0 * max C 0,fun x => ?_⟩
+      rw [abs_mul]
+      exact mul_le_mul ((hB x).trans (le_max_left _ _))
+        ((hC x).trans (le_max_left _ _)) (abs_nonneg _) (le_max_right _ _)
+    have ht := h.2.2 (fun x => w x*ψ x) (hw.mul hψ) hb
+    have he (u : X → ℝ) :
+        (∫ x, ψ x*u x ∂μ.withDensity (fun x => ENNReal.ofReal (w x))) =
+          ∫ x, (w x*ψ x)*u x ∂μ := by
+      rw [integral_withDensity_eq_integral_toReal_smul hw.ennreal_ofReal
+        (ae_of_all _ (fun _ => ENNReal.ofReal_lt_top))]
+      simp only [ENNReal.toReal_ofReal (hw0 _),smul_eq_mul,mul_assoc]
+    simpa only [he] using ht
+
+end BoltzmannNonuniqueness.Published
+
+end
+
+end
+
+section
+
+/-! # Transfer of weak L¹ convergence through a measure-preserving chart -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness.Published
+
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+
+theorem integral_comp_measurePreserving {μ : Measure X} {ν : Measure Y}
+    {φ : X → Y} (hφ : MeasurePreserving φ μ ν) {f : Y → ℝ} (hf : Measurable f) :
+    (∫ x, f (φ x) ∂μ) = ∫ y, f y ∂ν := by
+  have h := integral_map (μ := μ) hφ.measurable.aemeasurable hf.aestronglyMeasurable
+  rw [hφ.map_eq] at h
+  exact h.symm
+
+theorem WeakL1Converges.of_comp_measurePreserving {μ : Measure X} {ν : Measure Y}
+    {φ : X → Y} (hφ : MeasurePreserving φ μ ν) {f : ℕ → Y → ℝ} {g : Y → ℝ}
+    (hf : ∀ n, Measurable (f n)) (hg : Measurable g)
+    (h : WeakL1Converges μ (fun n => f n ∘ φ) (g ∘ φ)) :
+    WeakL1Converges ν f g := by
+  refine ⟨hg,(hφ.integrable_comp hg.aestronglyMeasurable).mp h.2.1,?_⟩
+  intro ψ hψ hB
+  have ht := h.2.2 (ψ ∘ φ) (hψ.comp hφ.measurable)
+    (by obtain ⟨C,hC⟩ := hB; exact ⟨C,fun x => hC (φ x)⟩)
+  have he (u : Y → ℝ) (hu : Measurable u) :
+      (∫ x, (ψ ∘ φ) x*(u ∘ φ) x ∂μ) = ∫ y, ψ y*u y ∂ν :=
+    integral_comp_measurePreserving hφ (hψ.mul hu)
+  simp_rw [he _ (hf _)] at ht
+  rw [he _ hg] at ht
+  exact ht
+
+end BoltzmannNonuniqueness.Published
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_AverageMajorant
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The product step for strongly convergent scalar velocity averages -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped ENNReal Topology
+
+namespace BoltzmannNonuniqueness.Compactness
+
+theorem tendstoInMeasure_mul {X : Type*} [MeasurableSpace X] {μ : Measure X}
+    [IsFiniteMeasure μ] {f g : ℕ → X → ℝ} {a b : X → ℝ}
+    (hfm : ∀ n, AEStronglyMeasurable (f n) μ) (hgm : ∀ n, AEStronglyMeasurable (g n) μ)
+    (hf : TendstoInMeasure μ f atTop a) (hg : TendstoInMeasure μ g atTop b) :
+    TendstoInMeasure μ (fun n x => f n x*g n x) atTop (fun x => a x*b x) := by
+  apply (exists_seq_tendstoInMeasure_atTop_iff (fun n => (hfm n).mul (hgm n))).mpr
+  intro ns hns
+  obtain ⟨i,hi,hfi⟩ := (hf.comp hns.tendsto_atTop).exists_seq_tendsto_ae
+  obtain ⟨j,hj,hgj⟩ := (hg.comp (hns.comp hi).tendsto_atTop).exists_seq_tendsto_ae
+  refine ⟨i ∘ j,hi.comp hj,?_⟩
+  filter_upwards [hfi,hgj] with x hfx hgx
+  exact (hfx.comp hj.tendsto_atTop).mul hgx
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_VaryingBoundedMultiplier
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Multiplication by a varying uniformly bounded function preserves L1 smallness -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped ENNReal Topology
+
+namespace BoltzmannNonuniqueness.Compactness
+
+theorem tendsto_L1_bounded_mul_zero
+    {X : Type*} [MeasurableSpace X] {μ : Measure X}
+    {f a : ℕ → X → ℝ} (hfm : ∀ n, AEStronglyMeasurable (f n) μ)
+    (ham : ∀ n, AEStronglyMeasurable (a n) μ)
+    (hf : Tendsto (fun n => eLpNorm (f n) 1 μ) atTop (𝓝 0))
+    {C : ℝ} (hC : 0 ≤ C) (ha : ∀ᶠ n in atTop, ∀ᵐ x ∂μ, |a n x| ≤ C) :
+    Tendsto (fun n => eLpNorm (fun x => a n x*f n x) 1 μ) atTop (𝓝 0) := by
+  have hscale : Tendsto (fun n => eLpNorm (fun x => C*f n x) 1 μ) atTop (𝓝 0) := by
+    have h := ENNReal.Tendsto.const_mul (a := ‖C‖ₑ) hf
+      (Or.inr (by simp : ‖C‖ₑ ≠ ⊤))
+    simpa only [← eLpNorm_const_smul,Pi.smul_def,smul_eq_mul,mul_zero] using h
+  refine tendsto_of_tendsto_of_tendsto_of_le_of_le' tendsto_const_nhds hscale
+    (Filter.Eventually.of_forall (fun _ => bot_le)) ?_
+  filter_upwards [ha] with n hn
+  apply eLpNorm_mono_ae
+  filter_upwards [hn] with x hx
+  change |a n x*f n x| ≤ |C*f n x|
+  rw [abs_mul,abs_mul,abs_of_nonneg hC]
+  exact mul_le_mul_of_nonneg_right hx (abs_nonneg _)
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_UniformIntegrability
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded measurable multipliers preserve uniform integrability -/
+
+noncomputable section
+
+open MeasureTheory
+open scoped NNReal ENNReal
+
+namespace BoltzmannNonuniqueness.Compactness
+
+theorem uniformIntegrable_of_bounded_multiplier
+    {X : Type*} [MeasurableSpace X] {μ : Measure X} {f : ℕ → X → ℝ}
+    (hf : UniformIntegrable f 1 μ) {a : X → ℝ} (ha : Measurable a)
+    (C : ℝ≥0) (hC : ∀ x, |a x| ≤ C) :
+    UniformIntegrable (fun n x => a x*f n x) 1 μ := by
+  let D : ℝ≥0 := C+1
+  have hD : (0 : ℝ≥0∞) < D := by simp [D]
+  have hb (n : ℕ) (ν : Measure X) (hν : ν ≤ μ) :
+      eLpNorm (fun x => a x*f n x) 1 ν ≤ (D : ℝ≥0∞)*eLpNorm (f n) 1 ν := by
+    apply eLpNorm_le_nnreal_smul_eLpNorm_of_ae_le_mul
+    filter_upwards [] with x
+    apply NNReal.coe_le_coe.mp
+    change ‖a x*f n x‖ ≤ (D:ℝ)*‖f n x‖
+    rw [Real.norm_eq_abs,Real.norm_eq_abs,abs_mul]
+    exact mul_le_mul_of_nonneg_right ((hC x).trans (by dsimp [D] <;> norm_num)) (abs_nonneg _)
+  constructor
+  · apply OAI.UnifIntegrable.of_enn
+    intro ε hε
+    obtain ⟨δ,hδ,hδsmall⟩ := OAI.UnifIntegrable.enn_spec hf.1 (ε/(D:ℝ≥0∞))
+      (ENNReal.div_pos hε.ne' ENNReal.coe_ne_top)
+    refine ⟨δ,hδ,fun n s hs => ?_⟩
+    calc
+      _ ≤ (D:ℝ≥0∞)*eLpNorm (f n) 1 (μ.restrict s) := hb n _ Measure.restrict_le_self
+      _ ≤ (D:ℝ≥0∞)*(ε/(D:ℝ≥0∞)) := mul_le_mul' le_rfl (hδsmall n s hs)
+      _ = ε := ENNReal.mul_div_cancel hD.ne' ENNReal.coe_ne_top
+    exact fun n => ha.aestronglyMeasurable.mul (hf.aestronglyMeasurable n)
+  · obtain ⟨B,hB⟩ := hf.2
+    refine ⟨D*B,fun n => ?_⟩
+    exact (hb n μ le_rfl).trans (by simpa only [ENNReal.coe_mul] using mul_le_mul' le_rfl (hB n))
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Uniform integrability under bounded varying coefficients -/
+noncomputable section
+open MeasureTheory
+open scoped NNReal ENNReal
+namespace BoltzmannNonuniqueness.Compactness
+
+theorem uniformIntegrable_of_varying_multiplier
+    {X : Type*} [MeasurableSpace X] {μ : Measure X} {f a : ℕ → X → ℝ}
+    (hf : UniformIntegrable f 1 μ) (ha : ∀ n, Measurable (a n))
+    (C : ℝ≥0) (hC : ∀ n x, |a n x| ≤ C) :
+    UniformIntegrable (fun n x => a n x*f n x) 1 μ := by
+  have hconst := uniformIntegrable_of_bounded_multiplier hf
+    (a := fun _ => (C:ℝ)) measurable_const C (fun _ => by simp)
+  have hm (n : ℕ) : AEStronglyMeasurable (fun x => a n x*f n x) μ :=
+    (ha n).aestronglyMeasurable.mul (hf.aestronglyMeasurable n)
+  have hb (n : ℕ) : ∀ᵐ x ∂μ, ‖a n x*f n x‖ₑ ≤ ‖(C:ℝ)*f n x‖ₑ := by
+    filter_upwards [] with x
+    apply ENNReal.coe_le_coe.mpr
+    apply NNReal.coe_le_coe.mp
+    change ‖a n x*f n x‖ ≤ ‖(C:ℝ)*f n x‖
+    simp only [norm_mul, Real.norm_eq_abs, abs_of_nonneg C.coe_nonneg]
+    exact mul_le_mul_of_nonneg_right (hC n x) (abs_nonneg _)
+  obtain ⟨hu,B,hB⟩ := hconst
+  exact ⟨hu.ae_mono hm hb,B,fun n => (eLpNorm_mono_enorm_ae (hb n)).trans (hB n)⟩
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Uniform L¹ approximation preserves uniform integrability
+
+This is the analytic bridge from the fixed outer-annulus majorants and the
+vanishing small-annulus collision integrals to full uniform integrability.
+-/
+
+noncomputable section
+
+open MeasureTheory
+open scoped ENNReal
+
+namespace BoltzmannNonuniqueness.Compactness
+
+theorem uniformIntegrable_of_approximation {X : Type*} [MeasurableSpace X]
+    {μ : Measure X} {f : ℕ → X → ℝ} {g : ℕ → ℕ → X → ℝ}
+    (hg : ∀ j, UniformIntegrable (g j) 1 μ)
+    (happrox : ∀ ε : ℝ≥0∞, 0 < ε → ∃ j : ℕ, ∀ n,
+      eLpNorm (fun x => f n x-g j n x) 1 μ ≤ ε)
+    (hfm : ∀ n, AEStronglyMeasurable (f n) μ) :
+    UniformIntegrable f 1 μ := by
+  have htri (j n : ℕ) (ν : Measure X) (hν : ν ≤ μ) : eLpNorm (f n) 1 ν ≤
+      eLpNorm (fun x => f n x-g j n x) 1 ν+eLpNorm (g j n) 1 ν := by
+    have he : f n = (fun x => f n x-g j n x)+(g j n) := by funext x; simp
+    calc
+      _ = eLpNorm ((fun x => f n x-g j n x)+(g j n)) 1 ν :=
+        congrArg (fun h : X → ℝ => eLpNorm h 1 ν) he
+      _ ≤ _ := eLpNorm_add_le (hf := ((hfm n).sub ((hg j).aestronglyMeasurable n)).mono_measure hν)
+          (hg := ((hg j).aestronglyMeasurable n).mono_measure hν) (by norm_num)
+  constructor
+  · apply OAI.UnifIntegrable.of_enn
+    intro ε hε
+    obtain ⟨j,hj⟩ := happrox (ε/2) (ε.half_pos hε.ne')
+    obtain ⟨δ,hδ,hgδ⟩ := OAI.UnifIntegrable.enn_spec (hg j).1 (ε/2) (ε.half_pos hε.ne')
+    refine ⟨δ,hδ,?_⟩
+    intro n s hs
+    calc
+      _ ≤ eLpNorm (fun x => f n x-g j n x) 1 (μ.restrict s)+
+          eLpNorm (g j n) 1 (μ.restrict s) := htri j n _ Measure.restrict_le_self
+      _ ≤ ε/2+ε/2 := add_le_add
+        ((eLpNorm_mono_measure _ Measure.restrict_le_self).trans (hj n)) (hgδ n s hs)
+      _ = ε := ε.add_halves
+    exact hfm
+  · obtain ⟨j,hj⟩ := happrox 1 (by norm_num)
+    obtain ⟨C,hC⟩ := (hg j).2
+    refine ⟨1+C,?_⟩
+    intro n
+    calc
+      _ ≤ eLpNorm (fun x => f n x-g j n x) 1 μ+eLpNorm (g j n) 1 μ := htri j n _ le_rfl
+      _ ≤ 1+C := add_le_add (hj n) (hC n)
+      _ = _ := by simp
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_NormalizedKernelAction
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Conditional tensor products controlled by a single mass marginal -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.Compactness
+
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+variable {μ : Measure X} {ν : Measure Y} [SFinite μ] [SFinite ν]
+
+theorem normalizedTensor_measurable {d : X → ℝ} {f g : X × Y → ℝ}
+    (hd : Measurable d) (hf : Measurable f) (hg : Measurable g) :
+    Measurable (normalizedTensor d f g) := by
+  unfold normalizedTensor
+  fun_prop
+
+omit [MeasurableSpace X] in
+theorem normalizedTensor_fiber_integral {d : X → ℝ} {f g : X × Y → ℝ} (x : X) :
+    (∫ y, normalizedTensor d f g (x,y) ∂ν.prod ν) =
+      (∫ v, f (x,v) ∂ν)*(∫ w, g (x,w) ∂ν)/(1+d x) := by
+  simp only [normalizedTensor,integral_div]
+  rw [integral_prod_mul (fun v => f (x,v)) (fun w => g (x,w))]
+
+theorem normalizedTensor_integrable {d : X → ℝ} {f g : X × Y → ℝ}
+    (hd : Measurable d) (hd0 : ∀ x, 0 ≤ d x)
+    (hfm : Measurable f) (hgm : Measurable g)
+    (hf : ∀ z, 0 ≤ f z) (hg : ∀ z, 0 ≤ g z)
+    (hfi : Integrable f (μ.prod ν)) (hgi : Integrable g (μ.prod ν))
+    (hfd : ∀ᵐ x ∂μ, (∫ v, f (x,v) ∂ν) ≤ d x) :
+    Integrable (normalizedTensor d f g) (μ.prod (ν.prod ν)) := by
+  have hnon (z : X × (Y × Y)) : 0 ≤ normalizedTensor d f g z :=
+    div_nonneg (mul_nonneg (hf _) (hg _)) (by linarith [hd0 z.1])
+  have hnorm x : (∫ y, ‖normalizedTensor d f g (x,y)‖ ∂ν.prod ν) =
+      (∫ v, f (x,v) ∂ν)*(∫ w, g (x,w) ∂ν)/(1+d x) := by
+    simp only [Real.norm_of_nonneg (hnon _)]
+    exact normalizedTensor_fiber_integral x
+  apply (integrable_prod_iff (normalizedTensor_measurable hd hfm hgm).aestronglyMeasurable).mpr
+  constructor
+  · filter_upwards [hfi.prod_right_ae,hgi.prod_right_ae] with x hfx hgx
+    exact (hfx.mul_prod hgx).div_const (1+d x)
+  · apply hgi.integral_prod_left.mono'
+      ((normalizedTensor_measurable hd hfm hgm).norm.stronglyMeasurable.integral_prod_right').aestronglyMeasurable
+    filter_upwards [hfd] with x hx
+    rw [hnorm,Real.norm_of_nonneg (div_nonneg
+      (mul_nonneg (integral_nonneg (μ := ν) (f := fun v => f (x,v)) (fun v => hf (x,v))) (integral_nonneg (μ := ν) (f := fun v => g (x,v)) (fun v => hg (x,v))))
+      (by linarith [hd0 x]))]
+    apply (div_le_iff₀ (by linarith [hd0 x] : 0 < 1+d x)).mpr
+    nlinarith [integral_nonneg (μ := ν) (f := fun v => g (x,v)) (fun v => hg (x,v)),
+      mul_le_mul_of_nonneg_right hx (integral_nonneg (μ := ν) (f := fun v => g (x,v)) (fun v => hg (x,v)))]
+
+theorem normalizedTensor_L1_le {d : X → ℝ} {f g : X × Y → ℝ}
+    (hd : Measurable d) (hd0 : ∀ x, 0 ≤ d x)
+    (hfm : Measurable f) (hgm : Measurable g)
+    (hf : ∀ z, 0 ≤ f z) (hg : ∀ z, 0 ≤ g z)
+    (hfi : Integrable f (μ.prod ν)) (hgi : Integrable g (μ.prod ν))
+    (hfd : ∀ᵐ x ∂μ, (∫ v, f (x,v) ∂ν) ≤ d x) :
+    eLpNorm (normalizedTensor d f g) 1 (μ.prod (ν.prod ν)) ≤ eLpNorm g 1 (μ.prod ν) := by
+  have ht := normalizedTensor_integrable hd hd0 hfm hgm hf hg hfi hgi hfd
+  rw [eLpNorm_one_eq_lintegral_enorm,
+    ← ofReal_integral_norm_eq_lintegral_enorm ht,
+    eLpNorm_one_eq_lintegral_enorm,
+    ← ofReal_integral_norm_eq_lintegral_enorm hgi]
+  apply ENNReal.ofReal_le_ofReal
+  rw [integral_prod _ ht.norm,integral_prod _ hgi.norm]
+  apply integral_mono_ae ht.integral_norm_prod_left hgi.integral_norm_prod_left
+  filter_upwards [hfd] with x hx
+  have hgn := integral_nonneg (μ := ν) (f := fun v => g (x,v)) (fun v => hg (x,v))
+  have hfn := integral_nonneg (μ := ν) (f := fun v => f (x,v)) (fun v => hf (x,v))
+  have hn y : 0 ≤ normalizedTensor d f g (x,y) :=
+    div_nonneg (mul_nonneg (hf _) (hg _)) (by linarith [hd0 x])
+  simp only [Real.norm_of_nonneg (hn _),Real.norm_of_nonneg (hg _)]
+  rw [normalizedTensor_fiber_integral]
+  apply (div_le_iff₀ (by linarith [hd0 x] : 0 < 1+d x)).mpr
+  nlinarith [mul_le_mul_of_nonneg_right hx hgn]
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Products of velocity averages normalized by their mass density -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal NNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [IsFiniteMeasure μ]
+
+theorem tendstoInMeasure_continuous_comp {f : ℕ → X → ℝ} {g : X → ℝ}
+    (hfm : ∀ n, AEStronglyMeasurable (f n) μ)
+    (h : TendstoInMeasure μ f atTop g) {P : ℝ → ℝ} (hP : Continuous P) :
+    TendstoInMeasure μ (fun n x => P (f n x)) atTop (fun x => P (g x)) := by
+  apply (exists_seq_tendstoInMeasure_atTop_iff
+    (fun n => hP.comp_aestronglyMeasurable (hfm n))).mpr
+  intro ns hns
+  obtain ⟨i,hi,hfi⟩ := (h.comp hns.tendsto_atTop).exists_seq_tendsto_ae
+  refine ⟨i,hi,?_⟩
+  filter_upwards [hfi] with x hx
+  exact hP.continuousAt.tendsto.comp hx
+
+theorem normalized_product_bound {a b r C D : ℝ} (hr : 0 ≤ r)
+    (hC : 0 ≤ C) (hD : 0 ≤ D) (ha : |a| ≤ C*r) (hb : |b| ≤ D*r) :
+    |a*b/(1+|r|)| ≤ C*D*r := by
+  rw [abs_div,abs_mul,abs_of_pos (by positivity : 0 < 1+|r|),abs_of_nonneg hr]
+  apply (div_le_iff₀ (by positivity : 0 < 1+r)).mpr
+  calc
+    |a| * |b| ≤ (C*r)*(D*r) := mul_le_mul ha hb (abs_nonneg _) (mul_nonneg hC hr)
+    _ ≤ C*D*r*(1+r) := by nlinarith [mul_nonneg (mul_nonneg hC hD) hr]
+
+theorem tendsto_L1_normalized_product
+    {a b r : ℕ → X → ℝ} {A B R : X → ℝ} {C D : ℝ}
+    (ham : ∀ n, AEStronglyMeasurable (a n) μ)
+    (hbm : ∀ n, AEStronglyMeasurable (b n) μ)
+    (hrm : ∀ n, Measurable (r n))
+    (hAm : AEStronglyMeasurable A μ) (hBm : AEStronglyMeasurable B μ) (hRm : AEStronglyMeasurable R μ)
+    (ha : Tendsto (fun n => eLpNorm (fun x => a n x-A x) 1 μ) atTop (𝓝 0))
+    (hb : Tendsto (fun n => eLpNorm (fun x => b n x-B x) 1 μ) atTop (𝓝 0))
+    (hr : Tendsto (fun n => eLpNorm (fun x => r n x-R x) 1 μ) atTop (𝓝 0))
+    (hri : UniformIntegrable r 1 μ)
+    (hr0 : ∀ n, ∀ᵐ x ∂μ, 0 ≤ r n x) (hC : 0 ≤ C) (hD : 0 ≤ D)
+    (hab : ∀ n, ∀ᵐ x ∂μ, |a n x| ≤ C*r n x)
+    (hbb : ∀ n, ∀ᵐ x ∂μ, |b n x| ≤ D*r n x) :
+    Tendsto (fun n => eLpNorm (fun x =>
+      a n x*b n x/(1+|r n x|)-A x*B x/(1+|R x|)) 1 μ) atTop (𝓝 0) := by
+  have hma := tendstoInMeasure_of_tendsto_eLpNorm (by norm_num : (1:ℝ≥0∞) ≠ 0) ham hAm ha
+  have hmb := tendstoInMeasure_of_tendsto_eLpNorm (by norm_num : (1:ℝ≥0∞) ≠ 0) hbm hBm hb
+  have hmr := tendstoInMeasure_of_tendsto_eLpNorm (by norm_num : (1:ℝ≥0∞) ≠ 0)
+    (fun n => (hrm n).aestronglyMeasurable) hRm hr
+  have hc : Continuous (fun y : ℝ => (1+|y|)⁻¹) := by
+    apply Continuous.inv₀ (continuous_const.add continuous_abs)
+    intro y
+    exact ne_of_gt (add_pos_of_pos_of_nonneg zero_lt_one (abs_nonneg y))
+  have hmr' := tendstoInMeasure_continuous_comp (fun n => (hrm n).aestronglyMeasurable) hmr hc
+  have hmp := tendstoInMeasure_mul ham hbm hma hmb
+  have hmp' := tendstoInMeasure_mul (fun n => (ham n).mul (hbm n))
+    (fun n => hc.comp_aestronglyMeasurable (hrm n).aestronglyMeasurable) hmp hmr'
+  have hui : UniformIntegrable (fun n x => (C*D)*r n x) 1 μ :=
+    uniformIntegrable_of_varying_multiplier (a := fun (_ : ℕ) (_ : X) => C*D) hri
+      (fun _ => measurable_const) (⟨C*D,mul_nonneg hC hD⟩ : ℝ≥0)
+      (fun _ _ => le_of_eq (abs_of_nonneg (mul_nonneg hC hD)))
+  have hnm n : AEStronglyMeasurable (fun x => a n x*b n x/(1+|r n x|)) μ := by
+    have hm := ((ham n).mul (hbm n)).mul
+      (hc.comp_aestronglyMeasurable (hrm n).aestronglyMeasurable)
+    change AEStronglyMeasurable (fun x => a n x*b n x*(1+|r n x|)⁻¹) μ at hm
+    simpa only [div_eq_mul_inv] using hm
+  have hnorm n : ∀ᵐ x ∂μ, ‖a n x*b n x/(1+|r n x|)‖ₑ ≤ ‖(C*D)*r n x‖ₑ := by
+    filter_upwards [hr0 n,hab n,hbb n] with x hx hax hbx
+    apply enorm_le_iff_norm_le.mpr
+    rw [Real.norm_eq_abs,Real.norm_of_nonneg (mul_nonneg (mul_nonneg hC hD) hx)]
+    exact normalized_product_bound hx hC hD hax hbx
+  obtain ⟨hui',K,hK⟩ := hui
+  have hni : UniformIntegrable (fun n x => a n x*b n x/(1+|r n x|)) 1 μ :=
+    ⟨hui'.ae_mono hnm hnorm,K,fun n => (eLpNorm_mono_enorm_ae (hnorm n)).trans (hK n)⟩
+  have hm : TendstoInMeasure μ (fun n x => a n x*b n x/(1+|r n x|)) atTop
+      (fun x => A x*B x/(1+|R x|)) := by
+    change TendstoInMeasure μ (fun n x => a n x*b n x*(1+|r n x|)⁻¹) atTop
+      (fun x => A x*B x*(1+|R x|)⁻¹) at hmp'
+    simpa only [div_eq_mul_inv] using hmp'
+  exact tendsto_Lp_finite_of_tendstoInMeasure (by norm_num) (by norm_num) hnm
+    (hni.memLp_of_tendstoInMeasure hm) hni.1 hm
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Truncating a mass-normalized velocity pair costs only its L1 tail -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.Compactness
+
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+variable {μ : Measure X} {ν : Measure Y} [SFinite μ] [SFinite ν]
+
+theorem fiberMass_measurable {f : X × Y → ℝ} (hf : Measurable f) :
+    Measurable (fiberMass ν f) := hf.stronglyMeasurable.integral_prod_right'.measurable
+
+theorem normalizedTensor_norm_swap {d : X → ℝ} {f g : X × Y → ℝ}
+    (hd : Measurable d) (hf : Measurable f) (hg : Measurable g) :
+    eLpNorm (normalizedTensor d f g) 1 (μ.prod (ν.prod ν)) =
+      eLpNorm (normalizedTensor d g f) 1 (μ.prod (ν.prod ν)) := by
+  have hp := (MeasurePreserving.id μ).prod (Measure.measurePreserving_swap (μ := ν) (ν := ν))
+  calc
+    _ = eLpNorm ((normalizedTensor d g f) ∘ (fun z : X × (Y × Y) => (z.1,z.2.2,z.2.1)))
+        1 (μ.prod (ν.prod ν)) := by
+      congr 1
+      funext z
+      dsimp only [normalizedTensor,Function.comp_apply]
+      rw [mul_comm]
+    _ = _ := eLpNorm_comp_measurePreserving
+      (normalizedTensor_measurable hd hg hf).aestronglyMeasurable hp
+
+theorem normalizedPair_integrable {f : X × Y → ℝ}
+    (hfm : Measurable f) (hf : ∀ z, 0 ≤ f z) (hfi : Integrable f (μ.prod ν)) :
+    Integrable (normalizedPair ν f) (μ.prod (ν.prod ν)) :=
+  normalizedTensor_integrable (fiberMass_measurable hfm)
+    (fun x => integral_nonneg (fun v => hf (x,v))) hfm hfm hf hf hfi hfi
+    (ae_of_all _ (fun _ => le_rfl))
+
+theorem normalizedPair_truncation_error {f u : X × Y → ℝ}
+    (hfm : Measurable f) (hum : Measurable u)
+    (hf : ∀ z, 0 ≤ f z) (hu : ∀ z, 0 ≤ u z) (huf : ∀ z, u z ≤ f z)
+    (hfi : Integrable f (μ.prod ν)) (hui : Integrable u (μ.prod ν)) :
+    eLpNorm (fun z => normalizedPair ν f z-
+      normalizedTensor (fiberMass ν f) u u z) 1 (μ.prod (ν.prod ν)) ≤
+      2*eLpNorm (fun z => f z-u z) 1 (μ.prod ν) := by
+  have hm := fiberMass_measurable (ν := ν) hfm
+  have hn x : 0 ≤ fiberMass ν f x := integral_nonneg (fun v => hf (x,v))
+  have hd : ∀ᵐ x ∂μ, (∫ v, f (x,v) ∂ν) ≤ fiberMass ν f x := ae_of_all _ (fun _ => le_rfl)
+  have hud : ∀ᵐ x ∂μ, (∫ v, u (x,v) ∂ν) ≤ fiberMass ν f x := by
+    filter_upwards [hfi.prod_right_ae,hui.prod_right_ae] with x hfx hux
+    exact integral_mono hux hfx (fun v => huf (x,v))
+  have hsub z : 0 ≤ f z-u z := sub_nonneg.mpr (huf z)
+  have hA := normalizedTensor_L1_le hm hn hfm (hfm.sub hum) hf hsub hfi (hfi.sub hui) hd
+  have hB := normalizedTensor_L1_le hm hn hum (hfm.sub hum) hu hsub hui (hfi.sub hui) hud
+  have he : (fun z => normalizedPair ν f z-normalizedTensor (fiberMass ν f) u u z) =
+      normalizedTensor (fiberMass ν f) f (f-u)+normalizedTensor (fiberMass ν f) (f-u) u := by
+    funext z
+    dsimp only [normalizedPair,normalizedTensor,Pi.add_apply,Pi.sub_apply]
+    ring
+  rw [he]
+  calc
+    _ ≤ eLpNorm (normalizedTensor (fiberMass ν f) f (f-u)) 1 (μ.prod (ν.prod ν))+
+        eLpNorm (normalizedTensor (fiberMass ν f) (f-u) u) 1 (μ.prod (ν.prod ν)) :=
+      eLpNorm_add_le (hf := (normalizedTensor_measurable hm hfm (hfm.sub hum)).aestronglyMeasurable)
+        (hg := (normalizedTensor_measurable hm (hfm.sub hum) hum).aestronglyMeasurable) (by norm_num)
+    _ = eLpNorm (normalizedTensor (fiberMass ν f) f (f-u)) 1 (μ.prod (ν.prod ν))+
+        eLpNorm (normalizedTensor (fiberMass ν f) u (f-u)) 1 (μ.prod (ν.prod ν)) := by
+      rw [normalizedTensor_norm_swap hm (hfm.sub hum) hum]
+    _ ≤ _ := by
+      rw [two_mul]
+      exact add_le_add hA hB
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_CollisionWeakMarginals
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Measure preservation and integrability for the full hard-sphere collision rate -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.CollisionCompactness
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem scatterTriple_measurePreserving (μ : Measure X) [SFinite μ] :
+    MeasurePreserving (scatterTriple (X := X))
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  let ν := μ.prod (volume : Measure (Velocity × Velocity))
+  have hf (ω : Sphere) : MeasurePreserving
+      (fun p : X × (Velocity × Velocity) => (p.1,scatterPair ω p.2)) ν ν := by
+    have hω : ‖(ω : Velocity)‖ = 1 := mem_sphere_zero_iff_norm.mp ω.property
+    have hh := (MeasurePreserving.id μ).prod (scatterPair_measurePreserving (ω : Velocity) hω)
+    have he : (Prod.map id (scatterPair (ω : Velocity))) =
+        (fun p : X × (Velocity × Velocity) => (p.1,scatterPair ω p.2)) := by
+      funext p
+      rfl
+    rw [he] at hh
+    simpa only [ν,Measure.volume_eq_prod] using hh
+  have hm : Measurable (fun z : Sphere × (X × (Velocity × Velocity)) =>
+      (z.2.1,scatterPair z.1 z.2.2)) := by
+    unfold scatterPair scatterLeft scatterRight normalComponent
+    fun_prop
+  have hh := (MeasurePreserving.id sphereArea).skew_product (μc := ν) (μd := ν)
+    (g := fun (ω : Sphere) (p : X × (Velocity × Velocity)) => (p.1,scatterPair ω p.2)) hm
+    (ae_of_all _ (fun ω => (hf ω).map_eq))
+  have h₁ : MeasurePreserving Prod.swap (ν.prod sphereArea) (sphereArea.prod ν) :=
+    Measure.measurePreserving_swap
+  have h₂ : MeasurePreserving Prod.swap (sphereArea.prod ν) (ν.prod sphereArea) :=
+    Measure.measurePreserving_swap
+  exact h₂.comp (hh.comp h₁)
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+section
+
+/-! # Integrable physical gain and loss and their equal total mass -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.CollisionCompactness
+
+variable {X : Type*} [MeasurableSpace X]
+
+local instance instSFiniteProdVelocityElemSphereProdVolumeSphereArea_r4d2687_1 : SFinite ((volume : Measure Velocity).prod sphereArea) := Measure.prod.instSFinite
+theorem collisionGrouping_measurePreserving (μ : Measure X) [SFinite μ] :
+    MeasurePreserving (collisionGrouping (X := X))
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea)
+      ((μ.prod (volume : Measure Velocity)).prod ((volume : Measure Velocity).prod sphereArea)) := by
+  have ha := (measurePreserving_prodAssoc μ (volume : Measure Velocity) (volume : Measure Velocity)).symm.prod
+    (MeasurePreserving.id sphereArea)
+  have hb := measurePreserving_prodAssoc (μ.prod (volume : Measure Velocity))
+    (volume : Measure Velocity) sphereArea
+  have he : (⇑(collisionGrouping (X := X))) =
+      MeasurableEquiv.prodAssoc ∘ Prod.map (MeasurableEquiv.prodAssoc.symm)
+        (id : Sphere → Sphere) := by
+    funext z
+    rfl
+  rw [he]
+  simpa only [Measure.volume_eq_prod] using hb.comp ha
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+section
+
+/-! # Weak convergence of the actual full collision rates -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.CollisionCompactness
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem normalizedKernel_measurable : Measurable (normalizedKernel (X := X)) := by
+  unfold normalizedKernel collisionKernel normalComponent
+  fun_prop
+
+omit [MeasurableSpace X] in
+theorem normalizedKernel_bound (z : (X × (Velocity × Velocity)) × Sphere) :
+    |normalizedKernel z| ≤ 1 := by
+  unfold normalizedKernel
+  have hw : 0 < 1+‖z.1.2.1‖+‖z.1.2.2‖ := by positivity
+  rw [abs_of_nonneg (div_nonneg (collisionKernel_nonneg _ _ _) hw.le),div_le_one₀ hw]
+  exact (collisionKernel_le_norm _ _ _).trans ((norm_sub_le _ _).trans (by linarith))
+
+omit [MeasurableSpace X] in
+theorem preRate_eq_normalized (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    preRate f z = normalizedKernel z*pairDensity f z.1 := by
+  have hw : 1+‖z.1.2.1‖+‖z.1.2.2‖ ≠ 0 := ne_of_gt (by positivity)
+  unfold preRate normalizedKernel pairDensity
+  field_simp
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_CollisionDissipation
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.normalParameters_sFinite _root_.OAI.BoltzmannNonuniqueness.normalPhaseGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologyPositivePhaseTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Particle interchange and elastic substitution for the cutoff collision rate -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.CollisionCompactness
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem particleSwap_measurePreserving (μ : Measure X) [SFinite μ] :
+    MeasurePreserving (particleSwap (X := X))
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  have h := ((MeasurePreserving.id μ).prod (Measure.measurePreserving_swap
+      (μ := (volume : Measure Velocity)) (ν := (volume : Measure Velocity)))).prod
+      (MeasurePreserving.id sphereArea)
+  have he : (⇑(particleSwap (X := X))) = Prod.map (Prod.map id Prod.swap) id := by
+    funext z
+    rfl
+  rw [he]
+  simpa only [Measure.volume_eq_prod] using h
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+section
+
+/-! # The gain rate and particle interchange -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness
+
+theorem scatterLeft_swap (v w ω : Velocity) : scatterLeft w v ω = scatterRight v w ω := by
+  have hn : normalComponent w v ω = -normalComponent v w ω := by
+    unfold normalComponent
+    rw [show w-v = -(v-w) by abel,inner_neg_left]
+  simp only [scatterLeft,scatterRight,hn,neg_smul,sub_neg_eq_add]
+
+theorem scatterRight_swap (v w ω : Velocity) : scatterRight w v ω = scatterLeft v w ω := by
+  exact (scatterLeft_swap w v ω).symm
+
+namespace CollisionCompactness
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem scatterTriple_particleSwap (z : (X × (Velocity × Velocity)) × Sphere) :
+    scatterTriple (particleSwap z) = particleSwap (scatterTriple z) := by
+  change ((z.1.1,(scatterLeft z.1.2.2 z.1.2.1 z.2,scatterRight z.1.2.2 z.1.2.1 z.2)),z.2) =
+    ((z.1.1,(scatterRight z.1.2.1 z.1.2.2 z.2,scatterLeft z.1.2.1 z.1.2.2 z.2)),z.2)
+  exact congrArg (fun p : Velocity × Velocity => ((z.1.1,p),z.2))
+    (Prod.ext (scatterLeft_swap z.1.2.1 z.1.2.2 z.2)
+      (scatterRight_swap z.1.2.1 z.1.2.2 z.2))
+
+end CollisionCompactness
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+section
+
+/-! # Passing collision tests between rates and the physical gain/loss marginals -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.CollisionCompactness
+
+local instance instSFiniteProdVelocityElemSphereProdVolumeSphereArea_8 : SFinite ((volume : Measure Velocity).prod sphereArea) := Measure.prod.instSFinite
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem collision_test_marginal {μ : Measure X} [SFinite μ]
+    (r : (X × (Velocity × Velocity)) × Sphere → ℝ) (ψ : X × Velocity → ℝ)
+    (hi : Integrable (fun z => ψ (z.1.1,z.1.2.1)*r z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea)) :
+    Integrable (fun p => ψ p*(∫ q : Velocity × Sphere, r (collisionGrouping.symm (p,q))
+      ∂(volume : Measure Velocity).prod sphereArea)) (μ.prod volume) ∧
+    (∫ p, ψ p*(∫ q : Velocity × Sphere, r (collisionGrouping.symm (p,q))
+      ∂(volume : Measure Velocity).prod sphereArea) ∂μ.prod volume) =
+      ∫ z, ψ (z.1.1,z.1.2.1)*r z
+        ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea := by
+  have hg := (collisionGrouping_measurePreserving μ).symm.integrable_comp_of_integrable hi
+  have he : (fun p : X × Velocity => ∫ q : Velocity × Sphere,
+      ψ p*r (collisionGrouping.symm (p,q)) ∂(volume : Measure Velocity).prod sphereArea) =
+      (fun p => ψ p*(∫ q : Velocity × Sphere, r (collisionGrouping.symm (p,q))
+        ∂(volume : Measure Velocity).prod sphereArea)) := by
+    funext p
+    exact integral_const_mul _ _
+  have hgroup : Integrable (fun y : (X × Velocity) × (Velocity × Sphere) =>
+      ψ y.1*r (collisionGrouping.symm y))
+      ((μ.prod (volume : Measure Velocity)).prod ((volume : Measure Velocity).prod sphereArea)) := hg
+  constructor
+  · have h := hgroup.integral_prod_left
+    rw [he] at h
+    exact h
+  · calc
+      _ = ∫ p, ∫ q : Velocity × Sphere, ψ p*r (collisionGrouping.symm (p,q))
+          ∂(volume : Measure Velocity).prod sphereArea ∂μ.prod volume := by rw [he]
+      _ = ∫ y : (X × Velocity) × (Velocity × Sphere), ψ y.1*r (collisionGrouping.symm y)
+          ∂(μ.prod (volume : Measure Velocity)).prod ((volume : Measure Velocity).prod sphereArea) :=
+        (integral_prod _ hgroup).symm
+      _ = _ := (collisionGrouping_measurePreserving μ).symm.integral_comp
+        collisionGrouping.symm.measurableEmbedding (fun z => ψ (z.1.1,z.1.2.1)*r z)
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+section
+
+/-! # Maxwellian and density logarithms under collision symmetry -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness
+
+namespace CollisionCompactness
+
+variable {X : Type*} [MeasurableSpace X]
+
+omit [MeasurableSpace X] in
+theorem collisionJump_log_maxwellian (z : (X × (Velocity × Velocity)) × Sphere) :
+    collisionJump (fun p : X × Velocity => Real.log (maxwellian p.2)) z = 0 := by
+  have hw : ‖(z.2 : Velocity)‖ = 1 := mem_sphere_zero_iff_norm.mp z.2.property
+  have he := scatter_energy z.1.2.1 z.1.2.2 z.2 hw
+  unfold collisionJump
+  simp only [log_maxwellian]
+  linarith
+
+omit [MeasurableSpace X] in
+theorem collisionJump_log_density (f : X × Velocity → ℝ) (hf : ∀ p, 0 < f p)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    collisionJump (fun p => Real.log (f p)) z =
+      Real.log ((f (z.1.1,scatterLeft z.1.2.1 z.1.2.2 z.2)*
+        f (z.1.1,scatterRight z.1.2.1 z.1.2.2 z.2))/(f (z.1.1,z.1.2.1)*f (z.1.1,z.1.2.2))) := by
+  rw [Real.log_div (mul_ne_zero (hf _).ne' (hf _).ne') (mul_ne_zero (hf _).ne' (hf _).ne'),
+    Real.log_mul (hf _).ne' (hf _).ne',Real.log_mul (hf _).ne' (hf _).ne']
+  unfold collisionJump
+  ring
+
+omit [MeasurableSpace X] in
+theorem collisionJump_scatter (ψ : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    collisionJump ψ (scatterTriple z) = -collisionJump ψ z := by
+  have hi := scatterTriple_involutive (X := X) z
+  have hl := congrArg (fun p => p.1.2.1) hi
+  have hr := congrArg (fun p => p.1.2.2) hi
+  change scatterLeft (scatterLeft z.1.2.1 z.1.2.2 z.2)
+    (scatterRight z.1.2.1 z.1.2.2 z.2) z.2 = z.1.2.1 at hl
+  change scatterRight (scatterLeft z.1.2.1 z.1.2.2 z.2)
+    (scatterRight z.1.2.1 z.1.2.2 z.2) z.2 = z.1.2.2 at hr
+  change ψ (z.1.1,scatterLeft (scatterLeft z.1.2.1 z.1.2.2 z.2)
+      (scatterRight z.1.2.1 z.1.2.2 z.2) z.2)+
+    ψ (z.1.1,scatterRight (scatterLeft z.1.2.1 z.1.2.2 z.2)
+      (scatterRight z.1.2.1 z.1.2.2 z.2) z.2)-
+    ψ (z.1.1,scatterLeft z.1.2.1 z.1.2.2 z.2)-
+    ψ (z.1.1,scatterRight z.1.2.1 z.1.2.2 z.2) = _
+  rw [hl,hr]
+  unfold collisionJump
+  ring
+
+end CollisionCompactness
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_BoundedVelocityIntegral
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Absolute entropy for bounded densities with bounded velocity support -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness
+variable {X : Type*} [MeasurableSpace X]
+
+theorem bounded_velocity_integrable {μ : Measure X} [IsFiniteMeasure μ] {N A : ℝ}
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hfb : ∀ p, |f p| ≤ A)
+    (hfs : ∀ p, N < ‖p.2‖ → f p = 0) : Integrable f (μ.prod (volume : Measure Velocity)) := by
+  have hi : Integrable ((Metric.closedBall (0 : Velocity) N).indicator (fun _ : Velocity => A)) :=
+    (integrableOn_const (isCompact_closedBall (0 : Velocity) N).measure_lt_top.ne).integrable_indicator
+      Metric.isClosed_closedBall.measurableSet
+  apply (hi.comp_snd μ).mono' hfm.aestronglyMeasurable
+  filter_upwards [] with p
+  change ‖f p‖ ≤ (Metric.closedBall (0 : Velocity) N).indicator (fun _ => A) p.2
+  by_cases hp : p.2 ∈ Metric.closedBall 0 N
+  · rw [indicator_of_mem hp,Real.norm_eq_abs]
+    exact hfb p
+  · have hv : N < ‖p.2‖ := by simpa only [Metric.mem_closedBall,dist_zero_right,not_le] using hp
+    rw [hfs p hv,norm_zero,indicator_of_notMem hp]
+
+theorem bounded_velocity_finiteEntropy {N A : ℝ} (hN : 0 ≤ N) {f : Density}
+    (hfm : Measurable f) (hfn : ∀ p, 0 ≤ f p) (hfb : ∀ p, f p ≤ A)
+    (hfs : ∀ p, N < ‖p.2‖ → f p = 0) : FiniteEntropyDatum f := by
+  have hi : Integrable f (volume : Measure Phase) := by
+    rw [Measure.volume_eq_prod]
+    exact bounded_velocity_integrable hfm (fun p => (abs_of_nonneg (hfn p)).trans_le (hfb p)) hfs
+  have hEm : Measurable (fun p : Phase => ‖p.2‖^2*f p) :=
+    (measurable_snd.norm.pow_const 2).mul hfm
+  have hEi : Integrable (fun p : Phase => ‖p.2‖^2*f p) := by
+    rw [Measure.volume_eq_prod]
+    apply bounded_velocity_integrable (A := N^2*A) hEm
+    · intro p
+      by_cases hp : N < ‖p.2‖
+      · rw [hfs p hp,mul_zero,abs_zero]
+        have hA : 0 ≤ A := (hfn p).trans (hfb p)
+        positivity
+      · rw [abs_of_nonneg (mul_nonneg (sq_nonneg _) (hfn p))]
+        have hs : ‖p.2‖^2 ≤ N^2 := (sq_le_sq₀ (norm_nonneg _) hN).mpr (le_of_not_gt hp)
+        exact mul_le_mul hs (hfb p) (hfn p) (sq_nonneg N)
+    · intro p hp
+      rw [hfs p hp,mul_zero]
+  obtain ⟨B,hB⟩ := (isCompact_Icc : IsCompact (Icc (0:ℝ) A)).exists_bound_of_continuousOn
+    Real.continuous_mul_log.continuousOn
+  have hlog : Integrable (fun p : Phase => f p*Real.log (f p)) := by
+    rw [Measure.volume_eq_prod]
+    exact bounded_velocity_integrable (Real.continuous_mul_log.measurable.comp hfm)
+      (fun p => by simpa only [Real.norm_eq_abs] using hB (f p) ⟨hfn p,hfb p⟩)
+      (fun p hp => by rw [hfs p hp,zero_mul])
+  refine ⟨Filter.Eventually.of_forall hfn,hfm.aestronglyMeasurable,?_⟩
+  apply ((hi.add hEi).add hlog.norm).congr
+  filter_upwards [] with p
+  simp only [Pi.add_apply,Real.norm_eq_abs,abs_mul,abs_of_nonneg (hfn p),entropyMoment]
+  ring
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+section
+
+/-! # An explicit integral bound for compact velocity support -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness
+variable {X : Type*} [MeasurableSpace X]
+
+theorem bounded_velocity_integral_bound {μ : Measure X} [IsFiniteMeasure μ] {N A : ℝ}
+    {f : X × Velocity → ℝ} (hfb : ∀ p, |f p| ≤ A)
+    (hfs : ∀ p, N < ‖p.2‖ → f p = 0) :
+    |∫ p, f p ∂μ.prod volume| ≤
+      μ.real univ*(volume : Measure Velocity).real (Metric.closedBall 0 N)*A := by
+  have hi : Integrable ((Metric.closedBall (0 : Velocity) N).indicator (fun _ : Velocity => A)) :=
+    (integrableOn_const (isCompact_closedBall (0 : Velocity) N).measure_lt_top.ne).integrable_indicator
+      Metric.isClosed_closedBall.measurableSet
+  have h := norm_integral_le_of_norm_le (hi.comp_snd μ) (show ∀ᵐ p ∂μ.prod volume,
+      ‖f p‖ ≤ (Metric.closedBall (0 : Velocity) N).indicator (fun _ => A) p.2 from by
+    filter_upwards [] with p
+    by_cases hp : p.2 ∈ Metric.closedBall 0 N
+    · rw [indicator_of_mem hp,Real.norm_eq_abs]; exact hfb p
+    · have hv : N < ‖p.2‖ := by simpa only [Metric.mem_closedBall,dist_zero_right,not_le] using hp
+      rw [hfs p hv,norm_zero,indicator_of_notMem hp])
+  rw [Real.norm_eq_abs,integral_fun_snd,integral_indicator Metric.isClosed_closedBall.measurableSet,
+    setIntegral_const,smul_eq_mul,smul_eq_mul] at h
+  exact h.trans_eq (by ring)
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_EntropyUniformIntegrability
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instNonemptySupportedTest _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Joint value and velocity truncation controlled by absolute entropy -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X]
+
+theorem entropyTruncation_measurable (R : ℝ) {f : X × Velocity → ℝ} (hf : Measurable f) :
+    Measurable (entropyTruncation R f) :=
+  Measurable.ite ((measurableSet_le measurable_snd.norm measurable_const).inter
+    (measurableSet_le hf measurable_const)) hf measurable_const
+
+omit [MeasurableSpace X] in
+theorem entropyGauge_nonneg {f : X × Velocity → ℝ} (hf : ∀ p, 0 ≤ f p) (p : X × Velocity) :
+    0 ≤ entropyGauge f p := mul_nonneg (hf p) (by positivity)
+
+omit [MeasurableSpace X] in
+theorem entropyGauge_ge_density {f : X × Velocity → ℝ} (hf : ∀ p, 0 ≤ f p) (p : X × Velocity) :
+    f p ≤ entropyGauge f p := by
+  have hs := mul_nonneg (hf p) (sq_nonneg ‖p.2‖)
+  have hl := mul_nonneg (hf p) (abs_nonneg (Real.log (f p)))
+  unfold entropyGauge
+  nlinarith
+
+omit [MeasurableSpace X] in
+theorem entropyTruncation_bounds (R : ℝ) {f : X × Velocity → ℝ} (hf : ∀ p, 0 ≤ f p) (p : X × Velocity) :
+    0 ≤ entropyTruncation R f p ∧ entropyTruncation R f p ≤ Real.exp R := by
+  unfold entropyTruncation
+  split_ifs with hp
+  · exact ⟨hf p,hp.2⟩
+  · exact ⟨le_rfl,(Real.exp_pos R).le⟩
+
+omit [MeasurableSpace X] in
+theorem entropyTruncation_support (R : ℝ) (f : X × Velocity → ℝ) (p : X × Velocity)
+    (hp : R < ‖p.2‖) : entropyTruncation R f p = 0 := by
+  simp only [entropyTruncation,not_le.mpr hp,false_and,ite_false, if_false]
+
+omit [MeasurableSpace X] in
+theorem entropyTruncation_error {R : ℝ} (hR : 1 ≤ R) {f : X × Velocity → ℝ}
+    (hf : ∀ p, 0 ≤ f p) (p : X × Velocity) :
+    |f p-entropyTruncation R f p| ≤ entropyGauge f p/R := by
+  have hR0 : 0 < R := lt_of_lt_of_le zero_lt_one hR
+  unfold entropyTruncation
+  split_ifs with hp
+  · rw [sub_self,abs_zero]
+    exact div_nonneg (entropyGauge_nonneg hf p) hR0.le
+  · rw [sub_zero,abs_of_nonneg (hf p)]
+    apply (le_div_iff₀ hR0).mpr
+    have hn := hf p
+    have he : 0 ≤ ‖p.2‖^2 := sq_nonneg _
+    have hl : 0 ≤ |Real.log (f p)| := abs_nonneg _
+    by_cases hv : ‖p.2‖ ≤ R
+    · have hbig : Real.exp R < f p := lt_of_not_ge (fun ha => hp ⟨hv,ha⟩)
+      have hlog : R ≤ Real.log (f p) := by
+        simpa only [Real.log_exp] using Real.log_le_log (Real.exp_pos R) hbig.le
+      have hh := mul_le_mul_of_nonneg_left (hlog.trans (le_abs_self _)) hn
+      unfold entropyGauge
+      nlinarith [mul_nonneg hn he]
+    · have hvR : R < ‖p.2‖ := lt_of_not_ge hv
+      have hs : R ≤ ‖p.2‖^2 := by nlinarith [norm_nonneg p.2]
+      have hh := mul_le_mul_of_nonneg_left hs hn
+      unfold entropyGauge
+      nlinarith [mul_nonneg hn hl]
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Uniform L1 approximation by bounded velocity truncations -/
+noncomputable section
+open MeasureTheory Set
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X]
+
+theorem integrable_of_entropyGauge {μ : Measure (X × Velocity)} {f : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyGauge f) μ) : Integrable f μ := by
+  apply hi.mono' hfm.aestronglyMeasurable
+  exact Filter.Eventually.of_forall (fun p => by
+    rw [Real.norm_of_nonneg (hf p)]
+    exact entropyGauge_ge_density hf p)
+
+theorem entropyTruncation_integrable {μ : Measure X} [IsFiniteMeasure μ]
+    (R : ℝ) {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) :
+    Integrable (entropyTruncation R f) (μ.prod volume) :=
+  bounded_velocity_integrable (entropyTruncation_measurable R hfm)
+    (fun p => (abs_of_nonneg (entropyTruncation_bounds R hf p).1).trans_le
+      (entropyTruncation_bounds R hf p).2) (entropyTruncation_support R f)
+
+theorem entropyTruncation_L1_bound {μ : Measure X} [IsFiniteMeasure μ]
+    {R C : ℝ} (hR : 1 ≤ R) {f : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyGauge f) (μ.prod volume))
+    (hb : (∫ p, entropyGauge f p ∂μ.prod volume) ≤ C) :
+    eLpNorm (fun p => f p-entropyTruncation R f p) 1 (μ.prod volume) ≤ ENNReal.ofReal (C/R) := by
+  have hei := (integrable_of_entropyGauge hfm hf hi).sub (entropyTruncation_integrable R hfm hf)
+  change Integrable (fun p => f p-entropyTruncation R f p) (μ.prod volume) at hei
+  rw [eLpNorm_one_eq_lintegral_enorm,
+    ← ofReal_integral_norm_eq_lintegral_enorm hei]
+  apply ENNReal.ofReal_le_ofReal
+  calc
+    _ ≤ ∫ p, entropyGauge f p/R ∂μ.prod volume :=
+      integral_mono hei.norm (hi.div_const R) (fun p => by
+        simpa only [Real.norm_eq_abs] using entropyTruncation_error hR hf p)
+    _ = (∫ p, entropyGauge f p ∂μ.prod volume)/R := integral_div R _
+    _ ≤ C/R := div_le_div_of_nonneg_right hb (zero_le_one.trans hR)
+
+theorem entropyTruncation_uniformIntegrable {μ : Measure X} [IsFiniteMeasure μ]
+    (R : ℝ) {f : ℕ → X × Velocity → ℝ} (hfm : ∀ n, Measurable (f n)) (hf : ∀ n p, 0 ≤ f n p) :
+    UniformIntegrable (fun n => entropyTruncation R (f n)) 1 (μ.prod volume) := by
+  let g : X × Velocity → ℝ := fun p =>
+    (Metric.closedBall (0:Velocity) R).indicator (fun _ => Real.exp R) p.2
+  have hi : Integrable g (μ.prod volume) :=
+    ((integrableOn_const (isCompact_closedBall (0:Velocity) R).measure_lt_top.ne).integrable_indicator
+      Metric.isClosed_closedBall.measurableSet).comp_snd μ
+  have hg := uniformIntegrable_const (ι := ℕ) (by norm_num : (1:ℝ≥0∞) ≤ 1) (by norm_num) (memLp_one_iff_integrable.mpr hi)
+  have hdom (n : ℕ) (p : X × Velocity) : ‖entropyTruncation R (f n) p‖ ≤ g p := by
+    rw [Real.norm_of_nonneg (entropyTruncation_bounds R (hf n) p).1]
+    by_cases hp : p.2 ∈ Metric.closedBall 0 R
+    · rw [show g p = Real.exp R from indicator_of_mem hp _]
+      exact (entropyTruncation_bounds R (hf n) p).2
+    · have hv : R < ‖p.2‖ := by simpa only [Metric.mem_closedBall,dist_zero_right,not_le] using hp
+      rw [entropyTruncation_support R (f n) p hv,show g p = 0 from indicator_of_notMem hp _]
+  have hmono (n : ℕ) (s : Set (X × Velocity)) :
+      eLpNorm (entropyTruncation R (f n)) 1 ((μ.prod volume).restrict s) ≤
+        eLpNorm g 1 ((μ.prod volume).restrict s) :=
+    eLpNorm_mono_real (hdom n)
+  refine ⟨OAI.UnifIntegrable.of_enn ?_ (fun n => (entropyTruncation_measurable R (hfm n)).aestronglyMeasurable),?_⟩
+  · intro ε hε
+    obtain ⟨δ,hδ,hgδ⟩ := OAI.UnifIntegrable.enn_spec hg.1 ε hε
+    exact ⟨δ,hδ,fun n s hs => (hmono n s).trans (hgδ n s hs)⟩
+  · obtain ⟨C,hC⟩ := hg.2
+    refine ⟨C,fun n => ?_⟩
+    have h := (hmono n univ).trans (by simpa only [Measure.restrict_univ] using hC n)
+    simpa only [Measure.restrict_univ] using h
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Uniform entropy and velocity moments imply L1 compactness hypotheses -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped Topology ENNReal
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+ theorem exists_entropyTruncation_radius (C : ℝ) {ε : ℝ≥0∞} (hε : 0 < ε) :
+    ∃ j : ℕ, ENNReal.ofReal (C/((j:ℝ)+1)) ≤ ε := by
+  have h : Tendsto (fun j : ℕ => C/((j:ℝ)+1)) atTop (𝓝 0) :=
+    tendsto_const_nhds.div_atTop (tendsto_natCast_atTop_atTop.atTop_add tendsto_const_nhds)
+  have ht : Tendsto (fun j : ℕ => ENNReal.ofReal (C/((j:ℝ)+1))) atTop (𝓝 0) := by
+    simpa only [ENNReal.ofReal_zero] using ENNReal.tendsto_ofReal h
+  obtain ⟨j,hj⟩ := (ht.eventually (gt_mem_nhds hε)).exists
+  exact ⟨j,hj.le⟩
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem uniformIntegrable_of_entropyGauge {μ : Measure X} [IsFiniteMeasure μ]
+    {f : ℕ → X × Velocity → ℝ} {C : ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n p, 0 ≤ f n p)
+    (hi : ∀ n, Integrable (entropyGauge (f n)) (μ.prod volume))
+    (hb : ∀ n, (∫ p, entropyGauge (f n) p ∂μ.prod volume) ≤ C) :
+    UniformIntegrable f 1 (μ.prod volume) := by
+  apply Compactness.uniformIntegrable_of_approximation
+    (g := fun j n => entropyTruncation ((j:ℝ)+1) (f n))
+    (fun j => entropyTruncation_uniformIntegrable ((j:ℝ)+1) hfm hf)
+  intro ε hε
+  obtain ⟨j,hj⟩ := exists_entropyTruncation_radius C hε
+  refine ⟨j,fun n => ?_⟩
+  exact (entropyTruncation_L1_bound (by have := Nat.cast_nonneg (α := ℝ) j; linarith)
+    (hfm n) (hf n) (hi n) (hb n)).trans hj
+  exact fun n => (hfm n).aestronglyMeasurable
+
+theorem unifTight_of_entropyGauge {μ : Measure X} [IsFiniteMeasure μ]
+    {f : ℕ → X × Velocity → ℝ} {C : ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n p, 0 ≤ f n p)
+    (hi : ∀ n, Integrable (entropyGauge (f n)) (μ.prod volume))
+    (hb : ∀ n, (∫ p, entropyGauge (f n) p ∂μ.prod volume) ≤ C) :
+    UnifTight f 1 (μ.prod volume) := by
+  intro ε hε
+  obtain ⟨j,hj⟩ := exists_entropyTruncation_radius C hε
+  let R : ℝ := (j:ℝ)+1
+  let s : Set (X × Velocity) := univ ×ˢ Metric.closedBall 0 R
+  have hs : MeasurableSet s := MeasurableSet.univ.prod Metric.isClosed_closedBall.measurableSet
+  refine ⟨s,?_,fun n => ?_⟩
+  · rw [Measure.prod_prod]
+    exact ENNReal.mul_ne_top (measure_ne_top _ _) (isCompact_closedBall (0:Velocity) R).measure_lt_top.ne
+  · have hdom (p : X × Velocity) : ‖sᶜ.indicator (f n) p‖ ≤ ‖f n p-entropyTruncation R (f n) p‖ := by
+      by_cases hp : p ∈ s
+      · rw [indicator_of_notMem (notMem_compl_iff.mpr hp),norm_zero]
+        exact norm_nonneg _
+      · have hv : R < ‖p.2‖ := by
+          have hnv : p.2 ∉ Metric.closedBall 0 R := fun hv => hp ⟨mem_univ _,hv⟩
+          simpa only [Metric.mem_closedBall,dist_zero_right,not_le] using hnv
+        rw [indicator_of_mem (mem_compl hp),entropyTruncation_support R (f n) p hv,sub_zero]
+    exact (eLpNorm_mono hdom).trans
+      ((entropyTruncation_L1_bound (by dsimp [R]; have := Nat.cast_nonneg (α := ℝ) j; linarith)
+        (hfm n) (hf n) (hi n) (hb n)).trans hj)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Jets_TorusTransport
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Free transport and its measure-preserving characteristic coordinates on the torus -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.TorusFlight
+
+theorem flight_measurePreserving (t : ℝ) :
+    MeasurePreserving (flight t) (volume : Measure Phase) volume := by
+  have hm : Measurable (Function.uncurry (fun (v : Velocity) (x : Position) =>
+      x+torusProjection (t • v))) := by
+    unfold Function.uncurry torusProjection
+    fun_prop
+  have hskew := (MeasurePreserving.id (volume : Measure Velocity)).skew_product hm
+    (ae_of_all _ (fun v => (measurePreserving_add_right (volume : Measure Position)
+      (torusProjection (t • v))).map_eq))
+  have he : flight t = Prod.swap ∘ (fun z : Velocity × Position =>
+      (z.1,z.2+torusProjection (t • z.1))) ∘ Prod.swap := rfl
+  rw [he,Measure.volume_eq_prod]
+  exact (Measure.measurePreserving_swap (μ := (volume : Measure Velocity)) (ν := volume)).comp
+    (hskew.comp Measure.measurePreserving_swap)
+
+theorem along_measurePreserving (μ : Measure ℝ) [SFinite μ] :
+    MeasurePreserving (fun z : ℝ × Phase => (z.1,flight z.1 z.2))
+      (μ.prod volume) (μ.prod volume) :=
+  (MeasurePreserving.id μ).skew_product (g := fun t p => flight t p) measurable_flight
+    (ae_of_all _ (fun t => (flight_measurePreserving t).map_eq))
+
+end BoltzmannNonuniqueness.TorusFlight
+
+end
+
+end
+
+section
+
+/-! # Integrals in characteristic coordinates -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.TorusFlight
+
+theorem integral_flight (f : Phase → ℝ) (t : ℝ) :
+    (∫ p, f (flight t p)) = ∫ p, f p :=
+  (flight_measurePreserving t).integral_comp (flightEquiv t).measurableEmbedding f
+
+end BoltzmannNonuniqueness.TorusFlight
+
+end
+
+end
+
+section
+
+/-! # Integrating the periodic free-characteristic change of variables -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness
+
+namespace TorusFlight
+
+theorem integral_along {μ : Measure ℝ} [SFinite μ] {f : ℝ × Phase → ℝ}
+    (hi : Integrable f (μ.prod volume)) :
+    (∫ z, along f z ∂μ.prod volume) = ∫ z, f z ∂μ.prod volume := by
+  have hai : Integrable (along f) (μ.prod volume) :=
+    (along_measurePreserving μ).integrable_comp_of_integrable hi
+  rw [integral_prod _ hai,integral_prod _ hi]
+  apply integral_congr_ae
+  exact Filter.Eventually.of_forall (fun t => integral_flight (fun p => f (t,p)) t)
+
+end TorusFlight
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_VelocityCutoffEntropyError
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.KineticTest.timeShift_toFun _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Uniform integrability of the linear velocity moment from entropy and energy -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal NNReal
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X]
+
+theorem linearMoment_measurable {f : X × Velocity → ℝ} (hf : Measurable f) :
+    Measurable (linearMoment f) := (measurable_const.add measurable_snd.norm).mul hf
+
+theorem velocityLinearCut_measurable (R : ℝ) {f : X × Velocity → ℝ} (hf : Measurable f) :
+    Measurable (velocityLinearCut R f) := (linearMoment_measurable hf).ite
+      (measurableSet_le measurable_snd.norm measurable_const) measurable_const
+
+theorem linearMoment_integrable {μ : Measure (X × Velocity)} {f : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyGauge f) μ) :
+    Integrable (linearMoment f) μ := by
+  apply (hi.const_mul 2).mono' (linearMoment_measurable hfm).aestronglyMeasurable
+  filter_upwards [] with p
+  change ‖(1+‖p.2‖)*f p‖ ≤ _
+  rw [Real.norm_of_nonneg (mul_nonneg (by positivity) (hf p))]
+  have h : 1+‖p.2‖ ≤ 2*(1+‖p.2‖^2+|Real.log (f p)|) := by
+    nlinarith [sq_nonneg (‖p.2‖-1),abs_nonneg (Real.log (f p))]
+  simpa only [linearMoment,entropyGauge,mul_assoc,mul_left_comm,mul_comm] using
+    mul_le_mul_of_nonneg_right h (hf p)
+
+omit [MeasurableSpace X] in
+theorem velocityLinearCut_error {R : ℝ} (hR : 0 < R) {f : X × Velocity → ℝ}
+    (hf : ∀ p, 0 ≤ f p) (p : X × Velocity) :
+    |linearMoment f p-velocityLinearCut R f p| ≤ 2*entropyGauge f p/R := by
+  by_cases hp : ‖p.2‖ ≤ R
+  · simp only [velocityLinearCut,ite_eq_left hp,sub_self,abs_zero]
+    exact div_nonneg (mul_nonneg (by norm_num) (entropyGauge_nonneg hf p)) hR.le
+  · have hr : R ≤ ‖p.2‖ := (lt_of_not_ge hp).le
+    simp only [velocityLinearCut,ite_eq_right hp,sub_zero,linearMoment]
+    rw [abs_of_nonneg (mul_nonneg (by positivity) (hf p))]
+    apply (le_div_iff₀ hR).mpr
+    have hcoeff : (1+‖p.2‖)*R ≤ 2*(1+‖p.2‖^2+|Real.log (f p)|) := by
+      have hh := mul_le_mul_of_nonneg_left hr (show 0 ≤ 1+‖p.2‖ by positivity)
+      nlinarith [sq_nonneg (‖p.2‖-1),abs_nonneg (Real.log (f p))]
+    simpa only [entropyGauge,mul_assoc,mul_left_comm,mul_comm] using
+      mul_le_mul_of_nonneg_right hcoeff (hf p)
+
+theorem velocityLinearCut_integrable {μ : Measure (X × Velocity)} (R : ℝ)
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p)
+    (hi : Integrable (entropyGauge f) μ) : Integrable (velocityLinearCut R f) μ := by
+  apply (linearMoment_integrable hfm hf hi).mono'
+    (velocityLinearCut_measurable R hfm).aestronglyMeasurable
+  filter_upwards [] with p
+  have hn : 0 ≤ linearMoment f p := mul_nonneg (by positivity) (hf p)
+  by_cases hp : ‖p.2‖ ≤ R
+  · rw [velocityLinearCut,ite_eq_left hp,Real.norm_of_nonneg hn]
+  · rw [velocityLinearCut,ite_eq_right hp,norm_zero]
+    exact hn
+
+theorem velocityLinearCut_L1_error {μ : Measure (X × Velocity)} {R C : ℝ} (hR : 0 < R)
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p)
+    (hi : Integrable (entropyGauge f) μ) (hb : (∫ p, entropyGauge f p ∂μ) ≤ C) :
+    eLpNorm (fun p => linearMoment f p-velocityLinearCut R f p) 1 μ ≤ ENNReal.ofReal (2*C/R) := by
+  have he := (linearMoment_integrable hfm hf hi).sub (velocityLinearCut_integrable R hfm hf hi)
+  change Integrable (fun p => linearMoment f p-velocityLinearCut R f p) μ at he
+  rw [eLpNorm_one_eq_lintegral_enorm,
+    ← ofReal_integral_norm_eq_lintegral_enorm he]
+  apply ENNReal.ofReal_le_ofReal
+  calc
+    _ ≤ ∫ p, 2*entropyGauge f p/R ∂μ :=
+      integral_mono he.norm ((hi.const_mul 2).div_const R) (fun p => by
+        simpa only [Real.norm_eq_abs] using velocityLinearCut_error hR hf p)
+    _ = 2*(∫ p, entropyGauge f p ∂μ)/R := by rw [integral_div,integral_const_mul]
+    _ ≤ 2*C/R := div_le_div_of_nonneg_right (by linarith) hR.le
+
+theorem linearMoment_uniformIntegrable {μ : Measure X} [IsFiniteMeasure μ]
+    {f : ℕ → X × Velocity → ℝ} {C : ℝ} (hfm : ∀ n, Measurable (f n))
+    (hf : ∀ n p, 0 ≤ f n p) (hi : ∀ n, Integrable (entropyGauge (f n)) (μ.prod volume))
+    (hb : ∀ n, (∫ p, entropyGauge (f n) p ∂μ.prod volume) ≤ C) :
+    UniformIntegrable (fun n => linearMoment (f n)) 1 (μ.prod volume) := by
+  have hui := uniformIntegrable_of_entropyGauge hfm hf hi hb
+  apply Compactness.uniformIntegrable_of_approximation (g := fun j n => velocityLinearCut ((j:ℝ)+1) (f n))
+  · intro j
+    let a : X × Velocity → ℝ := fun p => if ‖p.2‖ ≤ (j:ℝ)+1 then 1+‖p.2‖ else 0
+    have ha : Measurable a := (measurable_const.add measurable_snd.norm).ite
+      (measurableSet_le measurable_snd.norm measurable_const) measurable_const
+    let D : ℝ≥0 := ⟨(j:ℝ)+2,by positivity⟩
+    have hD (p : X × Velocity) : |a p| ≤ D := by
+      change |if ‖p.2‖ ≤ (j:ℝ)+1 then 1+‖p.2‖ else 0| ≤ (j:ℝ)+2
+      split_ifs with hp
+      · rw [abs_of_nonneg (by positivity)]
+        linarith
+      · simp only [abs_zero]
+        positivity
+    change UniformIntegrable (fun n p => if ‖p.2‖ ≤ (j:ℝ)+1 then
+      (1+‖p.2‖)*f n p else 0) 1 (μ.prod volume)
+    simpa only [a,ite_mul,zero_mul] using
+      Compactness.uniformIntegrable_of_bounded_multiplier hui ha D hD
+  · intro ε hε
+    obtain ⟨j,hj⟩ := exists_entropyTruncation_radius (2*C) hε
+    exact ⟨j,fun n => (velocityLinearCut_L1_error (by positivity) (hfm n) (hf n) (hi n) (hb n)).trans hj⟩
+  · exact fun n => (linearMoment_measurable (hfm n)).aestronglyMeasurable
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Uniform integrability of the spatial mass and first-moment marginal -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X]
+
+theorem linearMoment_marginal_uniformIntegrable {μ : Measure X} [IsFiniteMeasure μ]
+    {f : ℕ → X × Velocity → ℝ} {C : ℝ} (hfm : ∀ n, Measurable (f n))
+    (hf : ∀ n p, 0 ≤ f n p) (hi : ∀ n, Integrable (entropyGauge (f n)) (μ.prod volume))
+    (hb : ∀ n, (∫ p, entropyGauge (f n) p ∂μ.prod volume) ≤ C) :
+    UniformIntegrable (fun n x => ∫ v, linearMoment (f n) (x,v)) 1 μ := by
+  have hui := linearMoment_uniformIntegrable hfm hf hi hb
+  have he (R : ℝ) (n : ℕ) (x : X) :
+      (∫ v, velocityLinearCut R (f n) (x,v)) =
+        ∫ v in Metric.closedBall (0:Velocity) R, linearMoment (f n) (x,v) := by
+    rw [← integral_indicator Metric.isClosed_closedBall.measurableSet]
+    congr 1
+    ext v
+    simp only [velocityLinearCut,indicator,Metric.mem_closedBall,dist_zero_right]
+  apply Compactness.uniformIntegrable_of_approximation
+    (g := fun j n x => ∫ v, velocityLinearCut ((j:ℝ)+1) (f n) (x,v))
+  · intro j
+    let s : Set Velocity := Metric.closedBall 0 ((j:ℝ)+1)
+    let : IsFiniteMeasure ((volume : Measure Velocity).restrict s) :=
+      isFiniteMeasure_restrict.mpr (isCompact_closedBall (0:Velocity) ((j:ℝ)+1)).measure_lt_top.ne
+    have hu := Compactness.uniformIntegrable_restrict hui (univ ×ˢ s)
+    rw [← Measure.prod_restrict,Measure.restrict_univ] at hu
+    have hm := Compactness.uniformIntegrable_integral (fun n => linearMoment_measurable (hfm n)) hu
+    simpa only [he] using hm
+  · intro ε hε
+    obtain ⟨j,hj⟩ := exists_entropyTruncation_radius (2*C) hε
+    refine ⟨j,fun n => ?_⟩
+    have hfi := linearMoment_integrable (hfm n) (hf n) (hi n)
+    have hgi := velocityLinearCut_integrable ((j:ℝ)+1) (hfm n) (hf n) (hi n)
+    have hae : (fun x => (∫ v, linearMoment (f n) (x,v))-
+        ∫ v, velocityLinearCut ((j:ℝ)+1) (f n) (x,v)) =ᵐ[μ]
+      (fun x => ∫ v, linearMoment (f n) (x,v)-velocityLinearCut ((j:ℝ)+1) (f n) (x,v)) := by
+      filter_upwards [hfi.prod_right_ae,hgi.prod_right_ae] with x hfx hgx
+      exact (integral_sub hfx hgx).symm
+    rw [eLpNorm_congr_ae hae]
+    exact (Compactness.eLpNorm_integral_le
+      ((linearMoment_measurable (hfm n)).sub (velocityLinearCut_measurable ((j:ℝ)+1) (hfm n)))).trans
+      ((velocityLinearCut_L1_error (by positivity) (hfm n) (hf n) (hi n) (hb n)).trans hj)
+  · exact fun n => (linearMoment_measurable (hfm n)).stronglyMeasurable.integral_prod_right'.aestronglyMeasurable
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_NormalizedCollisionRates
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The first-velocity-moment weight of the normalized pair is integrable -/
+noncomputable section
+open MeasureTheory
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.Compactness
+open PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+theorem normalizedTensor_integrable_swap {d : X → ℝ} {f g : X × Velocity → ℝ}
+    (hd : Measurable d) (hf : Measurable f) (hg : Measurable g)
+    (hi : Integrable (normalizedTensor d g f) (μ.prod (volume.prod volume))) :
+    Integrable (normalizedTensor d f g) (μ.prod (volume.prod volume)) := by
+  apply memLp_one_iff_integrable.mp
+  refine ⟨(normalizedTensor_measurable hd hf hg).aestronglyMeasurable, ?_⟩
+  rw [normalizedTensor_norm_swap hd hf hg]
+  exact (memLp_one_iff_integrable.mpr hi).2
+
+theorem weightedNormalizedPair_integrable {f : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p)
+    (hi : Integrable (entropyGauge f) (μ.prod volume)) :
+    Integrable (weightedNormalizedPair f) (μ.prod (volume.prod volume)) := by
+  have hfi := integrable_of_entropyGauge hfm hf hi
+  have hli := linearMoment_integrable hfm hf hi
+  have hdm := fiberMass_measurable (ν := volume) hfm
+  have hdn (x : X) : 0 ≤ fiberMass volume f x := integral_nonneg (fun v => hf (x,v))
+  have hlm := linearMoment_measurable hfm
+  have hln (p : X × Velocity) : 0 ≤ linearMoment f p := mul_nonneg (by positivity) (hf p)
+  have hr := normalizedTensor_integrable hdm hdn hfm hlm hf hln hfi hli
+    (ae_of_all _ (fun _ => le_rfl))
+  have hl := normalizedTensor_integrable_swap hdm hlm hfm hr
+  have hp := normalizedPair_integrable hfm hf hfi
+  apply ((hl.add hr).sub hp).congr
+  filter_upwards [] with z
+  dsimp only [Pi.sub_apply,Pi.add_apply,weightedNormalizedPair,pairVelocityWeight,normalizedPair,normalizedTensor,linearMoment]
+  ring
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Entropy controls the complete mass-normalized velocity pair -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.Compactness
+open PeriodicApproximation
+
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [IsFiniteMeasure μ]
+
+private theorem bounded_nonnegative_product_div {a b A B r : ℝ}
+    (ha : 0 ≤ a) (hb : 0 ≤ b) (hA : a ≤ A) (hB : b ≤ B)
+    (hA0 : 0 ≤ A) (hB0 : 0 ≤ B) (hr : 0 ≤ r) :
+    |a*b/(1+r)| ≤ A*B := by
+  rw [abs_of_nonneg (div_nonneg (mul_nonneg ha hb) (by linarith))]
+  apply (div_le_iff₀ (by linarith : 0 < 1+r)).mpr
+  exact (mul_le_mul hA hB hb hA0).trans (by nlinarith [mul_nonneg (mul_nonneg hA0 hB0) hr])
+
+theorem normalized_entropyTruncation_uniformIntegrable (R : ℝ)
+    {f : ℕ → X × Velocity → ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n z, 0 ≤ f n z) :
+    UniformIntegrable (fun n => normalizedTensor (fiberMass volume (f n))
+      (entropyTruncation R (f n)) (entropyTruncation R (f n))) 1
+      (μ.prod (volume.prod volume)) := by
+  let a : Velocity → ℝ := (Metric.closedBall (0:Velocity) R).indicator (fun _ => Real.exp R)
+  have hai : Integrable a := (integrableOn_const
+    (isCompact_closedBall (0:Velocity) R).measure_lt_top.ne).integrable_indicator
+    Metric.isClosed_closedBall.measurableSet
+  have ha0 v : 0 ≤ a v := indicator_nonneg (fun _ _ => (Real.exp_pos R).le) v
+  have hub (n : ℕ) (p : X × Velocity) : entropyTruncation R (f n) p ≤ a p.2 := by
+    by_cases hp : p.2 ∈ Metric.closedBall 0 R
+    · rw [show a p.2 = Real.exp R from indicator_of_mem hp _]
+      exact (entropyTruncation_bounds R (hf n) p).2
+    · have hv : R < ‖p.2‖ := by simpa only [Metric.mem_closedBall,dist_zero_right,not_le] using hp
+      rw [entropyTruncation_support R (f n) p hv,show a p.2 = 0 from indicator_of_notMem hp _]
+  let b : X × (Velocity × Velocity) → ℝ := fun z => a z.2.1*a z.2.2
+  have hbi : Integrable b (μ.prod (volume.prod volume)) := (hai.mul_prod hai).comp_snd μ
+  have hbui := uniformIntegrable_const (ι := ℕ) (by norm_num : (1:ℝ≥0∞) ≤ 1)
+    (by norm_num) (memLp_one_iff_integrable.mpr hbi)
+  have hm n : Measurable (normalizedTensor (fiberMass volume (f n))
+      (entropyTruncation R (f n)) (entropyTruncation R (f n))) :=
+    normalizedTensor_measurable (fiberMass_measurable (hfm n))
+      (entropyTruncation_measurable R (hfm n)) (entropyTruncation_measurable R (hfm n))
+  have hdom (n : ℕ) (z : X × (Velocity × Velocity)) :
+      ‖normalizedTensor (fiberMass volume (f n))
+        (entropyTruncation R (f n)) (entropyTruncation R (f n)) z‖ ≤ b z := by
+    change |entropyTruncation R (f n) (z.1,z.2.1)*entropyTruncation R (f n) (z.1,z.2.2)/
+      (1+fiberMass volume (f n) z.1)| ≤ a z.2.1*a z.2.2
+    exact bounded_nonnegative_product_div (entropyTruncation_bounds R (hf n) _).1
+      (entropyTruncation_bounds R (hf n) _).1 (hub n _) (hub n _) (ha0 _) (ha0 _)
+      (integral_nonneg (fun v => hf n (z.1,v)))
+  have hmono (n : ℕ) (s : Set (X × (Velocity × Velocity))) :
+      eLpNorm (normalizedTensor (fiberMass volume (f n))
+        (entropyTruncation R (f n)) (entropyTruncation R (f n))) 1
+        ((μ.prod (volume.prod volume)).restrict s) ≤ eLpNorm b 1 ((μ.prod (volume.prod volume)).restrict s) :=
+    eLpNorm_mono_real (hdom n)
+  refine ⟨OAI.UnifIntegrable.of_enn ?_ (fun n => (normalizedTensor_measurable
+    (fiberMass_measurable (hfm n)) (entropyTruncation_measurable R (hfm n))
+    (entropyTruncation_measurable R (hfm n))).aestronglyMeasurable),?_⟩
+  · intro ε hε
+    obtain ⟨δ,hδ,hδb⟩ := OAI.UnifIntegrable.enn_spec hbui.1 ε hε
+    exact ⟨δ,hδ,fun n s hs => (hmono n s).trans (hδb n s hs)⟩
+  · obtain ⟨K,hK⟩ := hbui.2
+    refine ⟨K,fun n => ?_⟩
+    simpa only [Measure.restrict_univ] using (hmono n univ).trans
+      (by simpa only [Measure.restrict_univ] using hK n)
+
+theorem normalizedPair_uniformIntegrable {f : ℕ → X × Velocity → ℝ} {C : ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n z, 0 ≤ f n z)
+    (hi : ∀ n, Integrable (entropyGauge (f n)) (μ.prod volume))
+    (hb : ∀ n, (∫ z, entropyGauge (f n) z ∂μ.prod volume) ≤ C) :
+    UniformIntegrable (fun n => normalizedPair volume (f n)) 1 (μ.prod (volume.prod volume)) := by
+  let u := fun (j n : ℕ) => entropyTruncation ((j:ℝ)+1) (f n)
+  apply uniformIntegrable_of_approximation
+    (g := fun j n => normalizedTensor (fiberMass volume (f n)) (u j n) (u j n))
+  · exact fun j => normalized_entropyTruncation_uniformIntegrable ((j:ℝ)+1) hfm hf
+  · intro ε hε
+    obtain ⟨j,hj⟩ := exists_entropyTruncation_radius (2*C) hε
+    refine ⟨j,fun n => ?_⟩
+    have hR : 1 ≤ (j:ℝ)+1 := by have := Nat.cast_nonneg (α := ℝ) j; linarith
+    have he := normalizedPair_truncation_error (hfm n)
+      (entropyTruncation_measurable ((j:ℝ)+1) (hfm n)) (hf n)
+      (fun p => (entropyTruncation_bounds ((j:ℝ)+1) (hf n) p).1)
+      (fun p => by
+        unfold entropyTruncation
+        split_ifs
+        · exact le_rfl
+        · exact hf n p)
+      (integrable_of_entropyGauge (hfm n) (hf n) (hi n))
+      (entropyTruncation_integrable ((j:ℝ)+1) (hfm n) (hf n))
+    calc
+      _ ≤ 2*eLpNorm (fun z => f n z-u j n z) 1 (μ.prod volume) := he
+      _ ≤ 2*ENNReal.ofReal (C/((j:ℝ)+1)) := mul_le_mul' le_rfl
+        (entropyTruncation_L1_bound hR (hfm n) (hf n) (hi n) (hb n))
+      _ = ENNReal.ofReal ((2*C)/((j:ℝ)+1)) := by
+        rw [show (2:ℝ≥0∞) = ENNReal.ofReal (2:ℝ) by norm_num,← ENNReal.ofReal_mul (by norm_num)]
+        congr 1
+        ring
+      _ ≤ ε := hj
+  · exact fun n => (normalizedTensor_measurable (fiberMass_measurable (hfm n)) (hfm n) (hfm n)).aestronglyMeasurable
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Uniform velocity-tail control of the moment-weighted normalized pair -/
+noncomputable section
+open MeasureTheory Set
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.Compactness
+open PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+private theorem tail_coeff_bound {R a b : ℝ} (hR : 0 ≤ R) (_ha : 0 ≤ a) (_hb : 0 ≤ b) :
+    (if a ≤ R ∧ b ≤ R then 0 else 1+a+b) ≤
+      2*((if a ≤ R then 0 else 1+a)+(if b ≤ R then 0 else 1+b)) := by
+  by_cases har : a ≤ R <;> by_cases hbr : b ≤ R <;>
+    simp only [har,hbr,and_self,ite_true, if_true,ite_false, if_false,false_and,and_false,
+      zero_add,add_zero] <;> (try linarith)
+
+omit [MeasurableSpace X] in
+private theorem tail_density_nonneg (R : ℝ) {f : X × Velocity → ℝ}
+    (hf : ∀ p, 0 ≤ f p) (p : X × Velocity) :
+    0 ≤ linearMoment f p-velocityLinearCut R f p := by
+  dsimp only [velocityLinearCut]
+  split_ifs
+  · simp only [sub_self,le_refl]
+  · simp only [sub_zero,linearMoment]
+    exact mul_nonneg (by positivity) (hf p)
+
+omit [MeasurableSpace X] in
+theorem pairVelocityCut_pointwise_error {R : ℝ} (hR : 0 ≤ R) {f : X × Velocity → ℝ}
+    (hf : ∀ p, 0 ≤ f p) (z : X × (Velocity × Velocity)) :
+    |weightedNormalizedPair f z-pairVelocityCut R f z| ≤
+      2*(normalizedTensor (fiberMass volume f)
+          (fun p => linearMoment f p-velocityLinearCut R f p) f z+
+        normalizedTensor (fiberMass volume f) f
+          (fun p => linearMoment f p-velocityLinearCut R f p) z) := by
+  have hd : 0 < 1+fiberMass volume f z.1 := by
+    have hm : 0 ≤ fiberMass volume f z.1 := integral_nonneg (fun v => hf (z.1,v))
+    linarith
+  have hprod : 0 ≤ f (z.1,z.2.1)*f (z.1,z.2.2) := mul_nonneg (hf _) (hf _)
+  have hc := mul_le_mul_of_nonneg_right (tail_coeff_bound hR (norm_nonneg z.2.1) (norm_nonneg z.2.2)) hprod
+  have hdiv := div_le_div_of_nonneg_right hc hd.le
+  by_cases hv : ‖z.2.1‖ ≤ R <;> by_cases hw : ‖z.2.2‖ ≤ R
+  all_goals
+    simp only [weightedNormalizedPair,pairVelocityCut,pairVelocityWeight,normalizedPair,
+      normalizedTensor,linearMoment,velocityLinearCut,hv,hw,and_self,
+      ite_true, if_true,ite_false, if_false,false_and,and_false,sub_self,sub_zero,zero_mul,mul_zero,zero_div,
+      zero_add,add_zero,abs_zero] at hdiv ⊢
+  · exact le_refl _
+  all_goals
+    rw [abs_of_nonneg (mul_nonneg (by positivity) (div_nonneg hprod hd.le))]
+    first | (convert hdiv using 1 <;> first | (with_reducible_and_instances rfl) | ring) | exact (le_of_eq (by ring)).trans (hdiv.trans (le_of_eq (by ring)))
+
+theorem pairVelocityCut_L1_error {R C : ℝ} (hR : 0 < R) {f : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p)
+    (hi : Integrable (entropyGauge f) (μ.prod volume))
+    (hb : (∫ p, entropyGauge f p ∂μ.prod volume) ≤ C) :
+    eLpNorm (fun z => weightedNormalizedPair f z-pairVelocityCut R f z) 1
+      (μ.prod (volume.prod volume)) ≤ ENNReal.ofReal (8*C/R) := by
+  let d : X × Velocity → ℝ := fun p => linearMoment f p-velocityLinearCut R f p
+  have hdm : Measurable d := (linearMoment_measurable hfm).sub (velocityLinearCut_measurable R hfm)
+  have hdi : Integrable d (μ.prod volume) :=
+    (linearMoment_integrable hfm hf hi).sub (velocityLinearCut_integrable R hfm hf hi)
+  have hfi := integrable_of_entropyGauge hfm hf hi
+  have hm := fiberMass_measurable (ν := volume) hfm
+  have hmn (x : X) : 0 ≤ fiberMass volume f x := integral_nonneg (fun v => hf (x,v))
+  have hd0 : ∀ p, 0 ≤ d p := tail_density_nonneg R hf
+  have hright := normalizedTensor_L1_le hm hmn hfm hdm hf hd0 hfi hdi (ae_of_all _ (fun _ => le_rfl))
+  have hleft : eLpNorm (normalizedTensor (fiberMass volume f) d f) 1 (μ.prod (volume.prod volume)) ≤
+      eLpNorm d 1 (μ.prod volume) := by
+    rw [normalizedTensor_norm_swap hm hdm hfm]
+    exact hright
+  have hs_nonneg (z : X × (Velocity × Velocity)) :
+      0 ≤ normalizedTensor (fiberMass volume f) d f z+normalizedTensor (fiberMass volume f) f d z := by
+    have hden : 0 ≤ 1+fiberMass volume f z.1 := by linarith [hmn z.1]
+    exact add_nonneg (div_nonneg (mul_nonneg (hd0 _) (hf _)) hden)
+      (div_nonneg (mul_nonneg (hf _) (hd0 _)) hden)
+  have hnorm := eLpNorm_le_mul_eLpNorm_of_ae_le_mul (μ := μ.prod (volume.prod volume))
+    (f := weightedNormalizedPair f-pairVelocityCut R f)
+    (g := fun z => normalizedTensor (fiberMass volume f) d f z+normalizedTensor (fiberMass volume f) f d z)
+    (c := 2) (ae_of_all _ (fun z => by
+      rw [Real.norm_eq_abs,Real.norm_of_nonneg (hs_nonneg z)]
+      exact pairVelocityCut_pointwise_error hR.le hf z)) 1
+  calc
+    _ ≤ 2*(eLpNorm (normalizedTensor (fiberMass volume f) d f) 1 (μ.prod (volume.prod volume))+
+        eLpNorm (normalizedTensor (fiberMass volume f) f d) 1 (μ.prod (volume.prod volume))) := by
+      exact hnorm.trans (by norm_num; exact mul_le_mul' le_rfl (eLpNorm_add_le (hf := (normalizedTensor_measurable hm hdm hfm).aestronglyMeasurable)
+        (hg := (normalizedTensor_measurable hm hfm hdm).aestronglyMeasurable) (by norm_num)))
+    _ ≤ 2*(eLpNorm d 1 (μ.prod volume)+eLpNorm d 1 (μ.prod volume)) :=
+      mul_le_mul' le_rfl (add_le_add hleft hright)
+    _ ≤ 2*(ENNReal.ofReal (2*C/R)+ENNReal.ofReal (2*C/R)) :=
+      mul_le_mul' le_rfl (add_le_add (velocityLinearCut_L1_error hR hfm hf hi hb)
+        (velocityLinearCut_L1_error hR hfm hf hi hb))
+    _ = ENNReal.ofReal (8*C/R) := by
+      have hC : 0 ≤ C := (integral_nonneg (entropyGauge_nonneg hf)).trans hb
+      rw [← ENNReal.ofReal_add (by positivity) (by positivity),
+        show (2:ℝ≥0∞) = ENNReal.ofReal (2:ℝ) by norm_num,
+        ← ENNReal.ofReal_mul (by norm_num : (0:ℝ) ≤ 2)]
+      congr 1
+      ring
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Velocity tightness of the actual mass-normalized pairs -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.Compactness
+open PeriodicApproximation
+
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [IsFiniteMeasure μ]
+
+theorem normalizedPair_entropy_error {f : X × Velocity → ℝ} {R C : ℝ}
+    (hR : 1 ≤ R) (hfm : Measurable f) (hf : ∀ z, 0 ≤ f z)
+    (hi : Integrable (entropyGauge f) (μ.prod volume))
+    (hb : (∫ z, entropyGauge f z ∂μ.prod volume) ≤ C) :
+    eLpNorm (fun z => normalizedPair volume f z-
+      normalizedTensor (fiberMass volume f) (entropyTruncation R f) (entropyTruncation R f) z)
+      1 (μ.prod (volume.prod volume)) ≤ ENNReal.ofReal (2*C/R) := by
+  have huf p : entropyTruncation R f p ≤ f p := by
+    unfold entropyTruncation
+    split_ifs
+    · exact le_rfl
+    · exact hf p
+  have he := normalizedPair_truncation_error hfm (entropyTruncation_measurable R hfm) hf
+    (fun p => (entropyTruncation_bounds R hf p).1) huf (integrable_of_entropyGauge hfm hf hi)
+    (entropyTruncation_integrable R hfm hf)
+  refine he.trans ((mul_le_mul' le_rfl (entropyTruncation_L1_bound hR hfm hf hi hb)).trans_eq ?_)
+  rw [show (2:ℝ≥0∞) = ENNReal.ofReal (2:ℝ) by norm_num,← ENNReal.ofReal_mul (by norm_num)]
+  congr 1
+  ring
+
+omit [MeasurableSpace X] in
+private theorem truncated_pair_support (R : ℝ) (f : X × Velocity → ℝ)
+    (z : X × (Velocity × Velocity))
+    (hz : z ∉ Set.univ ×ˢ (Metric.closedBall (0:Velocity) R ×ˢ Metric.closedBall (0:Velocity) R)) :
+    normalizedTensor (fiberMass volume f) (entropyTruncation R f) (entropyTruncation R f) z = 0 := by
+  change entropyTruncation R f (z.1,z.2.1)*entropyTruncation R f (z.1,z.2.2)/
+    (1+fiberMass volume f z.1) = 0
+  by_cases hv : ‖z.2.1‖ ≤ R
+  · have hw : R < ‖z.2.2‖ := by
+      by_contra! hn
+      exact hz ⟨mem_univ _,by simpa only [Metric.mem_closedBall,dist_zero_right] using hv,
+        by simpa only [Metric.mem_closedBall,dist_zero_right] using hn⟩
+    rw [entropyTruncation_support R f (z.1,z.2.2) hw,mul_zero,zero_div]
+  · rw [entropyTruncation_support R f (z.1,z.2.1) (lt_of_not_ge hv),zero_mul,zero_div]
+
+theorem normalizedPair_unifTight {f : ℕ → X × Velocity → ℝ} {C : ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n z, 0 ≤ f n z)
+    (hi : ∀ n, Integrable (entropyGauge (f n)) (μ.prod volume))
+    (hb : ∀ n, (∫ z, entropyGauge (f n) z ∂μ.prod volume) ≤ C) :
+    UnifTight (fun n => normalizedPair volume (f n)) 1 (μ.prod (volume.prod volume)) := by
+  intro ε hε
+  obtain ⟨j,hj⟩ := exists_entropyTruncation_radius (2*C) hε
+  let R : ℝ := (j:ℝ)+1
+  let b : Set Velocity := Metric.closedBall 0 R
+  let s : Set (X × (Velocity × Velocity)) := univ ×ˢ (b ×ˢ b)
+  have hR : 1 ≤ R := by dsimp [R]; have := Nat.cast_nonneg (α := ℝ) j; linarith
+  have hs : MeasurableSet s := MeasurableSet.univ.prod
+    (Metric.isClosed_closedBall.measurableSet.prod Metric.isClosed_closedBall.measurableSet)
+  refine ⟨s,?_,fun n => ?_⟩
+  · dsimp only [s]
+    rw [Measure.prod_prod,Measure.prod_prod]
+    have hbfin : volume b ≠ ⊤ := (isCompact_closedBall (0:Velocity) R).measure_lt_top.ne
+    exact ENNReal.mul_ne_top (measure_ne_top μ univ) (ENNReal.mul_ne_top hbfin hbfin)
+  · let u := entropyTruncation R (f n)
+    have hzero z (hz : z ∉ s) : normalizedTensor (fiberMass volume (f n)) u u z = 0 :=
+      truncated_pair_support R (f n) z hz
+    have hdom z : ‖sᶜ.indicator (normalizedPair volume (f n)) z‖ ≤
+        ‖normalizedPair volume (f n) z-normalizedTensor (fiberMass volume (f n)) u u z‖ := by
+      by_cases hz : z ∈ s
+      · rw [indicator_of_notMem (notMem_compl_iff.mpr hz),norm_zero]
+        exact norm_nonneg _
+      · rw [indicator_of_mem (mem_compl hz),hzero z hz,sub_zero]
+    have hm := normalizedTensor_measurable (fiberMass_measurable (ν := volume) (hfm n)) (hfm n) (hfm n)
+    exact (eLpNorm_mono hdom).trans
+      ((normalizedPair_entropy_error hR (hfm n) (hf n) (hi n) (hb n)).trans hj)
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Actual pre- and post-collision rates normalized by the spatial mass -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.CollisionCompactness
+open Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+omit [MeasurableSpace X] in
+theorem massNormalizedPreRate_eq (f : X × Velocity → ℝ) (z : (X × (Velocity × Velocity)) × Sphere) :
+    massNormalizedPreRate f z = normalizedKernel z*weightedNormalizedPair f z.1 := by
+  rw [massNormalizedPreRate,preRate_eq_normalized]
+  dsimp only [pairDensity,weightedNormalizedPair,pairVelocityWeight,normalizedPair,normalizedTensor]
+  ring
+
+omit [MeasurableSpace X] in
+theorem massNormalizedPreRate_eq_fun (f : X × Velocity → ℝ) :
+    massNormalizedPreRate f = fun z => normalizedKernel z*weightedNormalizedPair f z.1 :=
+  funext (massNormalizedPreRate_eq f)
+
+omit [SFinite μ] in
+theorem massNormalizedPreRate_integrable {f : X × Velocity → ℝ} (_hfm : Measurable f)
+    (hi : Integrable (weightedNormalizedPair f) (μ.prod (volume : Measure (Velocity × Velocity)))) :
+    Integrable (massNormalizedPreRate f) ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  have h := (hi.comp_fst sphereArea).bdd_mul normalizedKernel_measurable.aestronglyMeasurable
+    (ae_of_all _ normalizedKernel_bound)
+  simpa only [massNormalizedPreRate_eq_fun] using h
+
+theorem massNormalizedPostRate_integrable {f : X × Velocity → ℝ} (hfm : Measurable f)
+    (hi : Integrable (weightedNormalizedPair f) (μ.prod (volume : Measure (Velocity × Velocity)))) :
+    Integrable (massNormalizedPostRate f) ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) :=
+  (scatterTriple_measurePreserving μ).integrable_comp_of_integrable (massNormalizedPreRate_integrable hfm hi)
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_WeightedPairUniformIntegrability
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded weighted averaging is Lipschitz in L1 -/
+noncomputable section
+open MeasureTheory
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.Compactness
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+    {μ : Measure X} {ν : Measure Y} [SFinite μ] [SFinite ν]
+
+theorem weighted_average_difference_le {f g w : X × Y → ℝ} {C : ℝ}
+    (hfm : Measurable f) (hgm : Measurable g) (hwm : Measurable w)
+    (hfi : Integrable f (μ.prod ν)) (hgi : Integrable g (μ.prod ν))
+    (hb : ∀ p, |w p| ≤ C) :
+    eLpNorm (fun x => (∫ y, w (x,y)*f (x,y) ∂ν)-(∫ y, w (x,y)*g (x,y) ∂ν)) 1 μ ≤
+      ENNReal.ofReal C*eLpNorm (f-g) 1 (μ.prod ν) := by
+  have hw : ∀ᵐ p ∂μ.prod ν, ‖w p‖ ≤ C :=
+    Filter.Eventually.of_forall (fun p => by simpa only [Real.norm_eq_abs] using hb p)
+  have hi₁ := hfi.bdd_mul hwm.aestronglyMeasurable hw
+  have hi₂ := hgi.bdd_mul hwm.aestronglyMeasurable hw
+  have he : (fun x => (∫ y, w (x,y)*f (x,y) ∂ν)-(∫ y, w (x,y)*g (x,y) ∂ν)) =ᵐ[μ]
+      (fun x => ∫ y, w (x,y)*(f (x,y)-g (x,y)) ∂ν) := by
+    filter_upwards [hi₁.prod_right_ae,hi₂.prod_right_ae] with x hx hy
+    rw [← integral_sub hx hy]
+    apply integral_congr_ae
+    exact Filter.Eventually.of_forall (fun y => (mul_sub _ _ _).symm)
+  rw [eLpNorm_congr_ae he]
+  apply (eLpNorm_integral_le (hwm.mul (hfm.sub hgm))).trans
+  apply eLpNorm_le_mul_eLpNorm_of_ae_le_mul
+  filter_upwards [] with p
+  change ‖w p*(f p-g p)‖ ≤ C*‖f p-g p‖
+  rw [norm_mul]
+  exact mul_le_mul_of_nonneg_right (by simpa only [Real.norm_eq_abs] using hb p) (norm_nonneg _)
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PairPatchIdentity
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded tests of a velocity-pair density -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+theorem pairTestAverage_add {P : X × (Velocity × Velocity) → ℝ}
+    (hP : Integrable P (μ.prod volume)) {k l : C(Velocity × Velocity,ℝ)}
+    (hk : HasCompactSupport k) (hl : HasCompactSupport l) :
+    pairTestAverage (k+l : C(Velocity × Velocity,ℝ)) P =ᵐ[μ] fun x => pairTestAverage k P x+pairTestAverage l P x := by
+  obtain ⟨C,hC⟩ := k.continuous.bounded_above_of_compact_support hk
+  obtain ⟨D,hD⟩ := l.continuous.bounded_above_of_compact_support hl
+  filter_upwards [hP.prod_right_ae] with x hx
+  change (∫ y : Velocity × Velocity, (k y+l y)*P (x,y)) = _
+  simp_rw [add_mul]
+  exact integral_add (hx.bdd_mul k.continuous.measurable.aestronglyMeasurable (ae_of_all _ hC))
+    (hx.bdd_mul l.continuous.measurable.aestronglyMeasurable (ae_of_all _ hD))
+
+omit [MeasurableSpace X] in
+theorem pairTestAverage_smul (c : ℝ) (k : C(Velocity × Velocity,ℝ))
+    (P : X × (Velocity × Velocity) → ℝ) (x : X) :
+    pairTestAverage (c • k : C(Velocity × Velocity,ℝ)) P x = c*pairTestAverage k P x := by
+  change (∫ y : Velocity × Velocity, (c*k y)*P (x,y)) = c*∫ y : Velocity × Velocity, k y*P (x,y)
+  simp only [mul_assoc,integral_const_mul]
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Uniform velocity-pair test errors are bounded by the pair L1 mass -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+theorem pairTestAverage_uniform_error {P : X × (Velocity × Velocity) → ℝ}
+    (hPm : Measurable P) (hPi : Integrable P (μ.prod volume))
+    {k l : C(Velocity × Velocity,ℝ)} (hk : HasCompactSupport k) (hl : HasCompactSupport l)
+    {ε : ℝ} (hε : ∀ y, |k y-l y| ≤ ε) :
+    eLpNorm (fun x => pairTestAverage k P x-pairTestAverage l P x) 1 μ ≤
+      ENNReal.ofReal ε*eLpNorm P 1 (μ.prod volume) := by
+  obtain ⟨C,hC⟩ := k.continuous.bounded_above_of_compact_support hk
+  obtain ⟨D,hD⟩ := l.continuous.bounded_above_of_compact_support hl
+  have he : (fun x => pairTestAverage k P x-pairTestAverage l P x) =ᵐ[μ]
+      fun x => ∫ y : Velocity × Velocity, (k y-l y)*P (x,y) := by
+    filter_upwards [hPi.prod_right_ae] with x hx
+    have hi₁ := hx.bdd_mul k.continuous.measurable.aestronglyMeasurable (ae_of_all _ hC)
+    have hi₂ := hx.bdd_mul l.continuous.measurable.aestronglyMeasurable (ae_of_all _ hD)
+    rw [pairTestAverage,pairTestAverage,← integral_sub hi₁ hi₂]
+    apply integral_congr_ae
+    exact ae_of_all _ (fun y => (sub_mul _ _ _).symm)
+  rw [eLpNorm_congr_ae he]
+  have hm : Measurable (fun p : X × (Velocity × Velocity) => (k p.2-l p.2)*P p) :=
+    ((k.continuous.measurable.sub l.continuous.measurable).comp measurable_snd).mul hPm
+  apply (eLpNorm_integral_le hm).trans
+  apply eLpNorm_le_mul_eLpNorm_of_ae_le_mul
+  filter_upwards [] with p
+  rw [norm_mul,Real.norm_eq_abs]
+  exact mul_le_mul_of_nonneg_right (hε p.2) (norm_nonneg _)
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_StrongPairMoment
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded families of strong L1 fibers converge on the product -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+variable {μ : Measure X} {ν : Measure Y} [SFinite μ] [IsFiniteMeasure ν]
+
+theorem strongL1_of_strong_fibers {u : ℕ → X × Y → ℝ}
+    (hm : ∀ n, Measurable (u n)) {B : ℝ≥0∞} (hB : B ≠ ∞)
+    (hb : ∀ n, ∀ᵐ y ∂ν, eLpNorm (fun x => u n (x,y)) 1 μ ≤ B)
+    (ht : ∀ᵐ y ∂ν, Tendsto (fun n => eLpNorm (fun x => u n (x,y)) 1 μ) atTop (𝓝 0)) :
+    Tendsto (fun n => eLpNorm (u n) 1 (μ.prod ν)) atTop (𝓝 0) := by
+  have he n y : eLpNorm (fun x => u n (x,y)) 1 μ = ∫⁻ x, ‖u n (x,y)‖ₑ ∂μ :=
+    eLpNorm_one_eq_lintegral_enorm
+  have hme n : Measurable (fun y => eLpNorm (fun x => u n (x,y)) 1 μ) := by
+    simp_rw [he]
+    exact (hm n).enorm.lintegral_prod_left'
+  have hi : (∫⁻ _ : Y, B ∂ν) ≠ ∞ := by
+    rw [lintegral_const]
+    exact ENNReal.mul_ne_top hB (measure_ne_top _ _)
+  have h := tendsto_lintegral_of_dominated_convergence (fun _ : Y => B) hme hb hi ht
+  simp only [lintegral_zero] at h
+  have hp n : eLpNorm (u n) 1 (μ.prod ν) =
+      ∫⁻ y, eLpNorm (fun x => u n (x,y)) 1 μ ∂ν := by
+    rw [eLpNorm_one_eq_lintegral_enorm,
+      lintegral_prod_symm _ (hm n).enorm.aemeasurable]
+    simp_rw [he]
+  simpa only [hp] using h
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Strong velocity averages extend to bounded measurable kernel families -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X Y Z : Type*} [MeasurableSpace X] [MeasurableSpace Y] [MeasurableSpace Z]
+variable {μ : Measure X} {ν : Measure Y} {τ : Measure Z}
+variable [SFinite μ] [SFinite ν] [IsFiniteMeasure τ]
+
+theorem strong_bounded_kernel_averages
+    {f : ℕ → X × Y → ℝ} {g : X × Y → ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hgm : Measurable g)
+    (hfi : ∀ n, Integrable (f n) (μ.prod ν)) (hgi : Integrable g (μ.prod ν))
+    {B : ℝ≥0∞} (hB : B ≠ ∞) (hb : ∀ n, eLpNorm (f n) 1 (μ.prod ν) ≤ B)
+    {k : Z × Y → ℝ} (hk : Measurable k) {C : ℝ} (hC : ∀ p, |k p| ≤ C)
+    (ha : ∀ z, Tendsto (fun n => eLpNorm (fun x =>
+      (∫ y, k (z,y)*f n (x,y) ∂ν)-(∫ y, k (z,y)*g (x,y) ∂ν)) 1 μ) atTop (𝓝 0)) :
+    Tendsto (fun n => eLpNorm (fun p : X × Z =>
+      (∫ y, k (p.2,y)*f n (p.1,y) ∂ν)-(∫ y, k (p.2,y)*g (p.1,y) ∂ν))
+      1 (μ.prod τ)) atTop (𝓝 0) := by
+  have hm (u : X × Y → ℝ) (hu : Measurable u) :
+      Measurable (fun p : X × Z => ∫ y, k (p.2,y)*u (p.1,y) ∂ν) := by
+    have hh : Measurable (fun p : (X × Z) × Y => k (p.1.2,p.2)*u (p.1.1,p.2)) := by
+      fun_prop
+    exact hh.stronglyMeasurable.integral_prod_right'.measurable
+  apply strongL1_of_strong_fibers (fun n => (hm _ (hfm n)).sub (hm _ hgm))
+    (B := ENNReal.ofReal C*(B+eLpNorm g 1 (μ.prod ν)))
+  · exact ENNReal.mul_ne_top ENNReal.ofReal_ne_top
+      (ENNReal.add_ne_top.mpr ⟨hB,(memLp_one_iff_integrable.mpr hgi).eLpNorm_ne_top⟩)
+  · intro n
+    apply ae_of_all
+    intro z
+    apply (weighted_average_difference_le (hfm n) hgm
+      (hk.comp (measurable_const.prodMk measurable_snd)) (hfi n) hgi (fun p => hC (z,p.2))).trans
+    apply mul_le_mul' le_rfl
+    exact (eLpNorm_sub_le (hf := by first | fun_prop | assumption | solve_by_elim | exact Lp.aestronglyMeasurable _ | (apply Measurable.aestronglyMeasurable; solve_by_elim) | (apply Continuous.aestronglyMeasurable; solve_by_elim) | (apply Measurable.aestronglyMeasurable; measurability) | measurability) (hg := by first | fun_prop | assumption | solve_by_elim | exact Lp.aestronglyMeasurable _ | (apply Measurable.aestronglyMeasurable; solve_by_elim) | (apply Continuous.aestronglyMeasurable; solve_by_elim) | (apply Measurable.aestronglyMeasurable; measurability) | measurability) (by norm_num)).trans (add_le_add (hb n) le_rfl)
+  · exact ae_of_all _ ha
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PairBoundedTruncation
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The physical linear gain operator on incoming pair densities -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+variable {X : Type*} [MeasurableSpace X]
+
+local instance pairGainSphereSFinite : SFinite ((volume : Measure Velocity).prod sphereArea) :=
+  Measure.prod.instSFinite
+
+theorem pairPreRate_measurable {g : X × (Velocity × Velocity) → ℝ} (hg : Measurable g) :
+    Measurable (pairPreRate g) := by
+  apply Measurable.mul
+  · unfold collisionKernel normalComponent
+    fun_prop
+  · exact hg.comp measurable_fst
+
+theorem pairGain_measurable {g : X × (Velocity × Velocity) → ℝ} (hg : Measurable g) :
+    Measurable (pairGain g) := by
+  exact (((pairPreRate_measurable hg).comp scatterTriple_measurable).comp
+    collisionGrouping.symm.measurable).stronglyMeasurable.integral_prod_right'.measurable
+
+end BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+
+end
+
+end
+
+section
+
+/-! # L1 contraction from physical collision rates to gain densities -/
+noncomputable section
+open MeasureTheory
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+local instance pairGainL1Sphere : SFinite ((volume : Measure Velocity).prod sphereArea) :=
+  Measure.prod.instSFinite
+
+theorem pairGain_eLpNorm_le {g : X × (Velocity × Velocity) → ℝ} (hg : Measurable g) :
+    eLpNorm (pairGain g) 1 (μ.prod volume) ≤
+      eLpNorm (pairPreRate g) 1 ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  have hm := ((pairPreRate_measurable hg).comp scatterTriple_measurable).comp
+    collisionGrouping.symm.measurable
+  have h := Compactness.eLpNorm_integral_le (μ := μ.prod volume)
+    (ν := (volume : Measure Velocity).prod sphereArea) hm
+  change eLpNorm (pairGain g) 1 (μ.prod volume) ≤ _ at h
+  apply h.trans_eq
+  rw [eLpNorm_comp_measurePreserving
+    ((pairPreRate_measurable hg).comp scatterTriple_measurable).aestronglyMeasurable
+    (collisionGrouping_measurePreserving μ).symm]
+  exact eLpNorm_comp_measurePreserving (pairPreRate_measurable hg).aestronglyMeasurable
+    (scatterTriple_measurePreserving μ)
+
+theorem pairGain_sub_ae {g h : X × (Velocity × Velocity) → ℝ}
+    (hi : Integrable (pairPreRate g) ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea))
+    (hj : Integrable (pairPreRate h) ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea)) :
+    pairGain (fun z => g z-h z) =ᵐ[μ.prod volume] fun p => pairGain g p-pairGain h p := by
+  have hgi := (collisionGrouping_measurePreserving μ).symm.integrable_comp_of_integrable
+    ((scatterTriple_measurePreserving μ).integrable_comp_of_integrable hi)
+  have hhi := (collisionGrouping_measurePreserving μ).symm.integrable_comp_of_integrable
+    ((scatterTriple_measurePreserving μ).integrable_comp_of_integrable hj)
+  filter_upwards [hgi.prod_right_ae,hhi.prod_right_ae] with p hp hq
+  change (∫ q : Velocity × Sphere, pairPostRate (fun z => g z-h z) (collisionGrouping.symm (p,q))
+    ∂(volume : Measure Velocity).prod sphereArea) = _
+  have he q : pairPostRate (fun z => g z-h z) (collisionGrouping.symm (p,q)) =
+      pairPostRate g (collisionGrouping.symm (p,q))-pairPostRate h (collisionGrouping.symm (p,q)) := by
+    simp only [pairPostRate,pairPreRate,mul_sub]
+  simp_rw [he]
+  exact integral_sub hp hq
+
+theorem pairGain_difference_eLpNorm_le {g h : X × (Velocity × Velocity) → ℝ}
+    (hg : Measurable g) (hh : Measurable h)
+    (hi : Integrable (pairPreRate g) ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea))
+    (hj : Integrable (pairPreRate h) ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea)) :
+    eLpNorm (fun p => pairGain g p-pairGain h p) 1 (μ.prod volume) ≤
+      eLpNorm (fun z => pairPreRate g z-pairPreRate h z) 1
+        ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  rw [← eLpNorm_congr_ae (pairGain_sub_ae hi hj)]
+  have ht := pairGain_eLpNorm_le (μ := μ) (hg.sub hh)
+  have he : pairPreRate (g-h) = (fun z => pairPreRate g z-pairPreRate h z) := by
+    funext z
+    change collisionKernel _ _ _*(g z.1-h z.1) = _
+    exact mul_sub _ _ _
+  rw [he] at ht
+  exact ht
+
+end BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+
+end
+
+end
+
+section
+
+/-! # The linear velocity moment controls the physical pair-to-gain operator -/
+noncomputable section
+open MeasureTheory Set
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+theorem momentPair_measurable {g : X × (Velocity × Velocity) → ℝ} (hg : Measurable g) :
+    Measurable (momentPair g) := by
+  unfold momentPair
+  fun_prop
+
+omit [SFinite μ] in
+theorem pair_lift_eLpNorm_one {g : X × (Velocity × Velocity) → ℝ} (hg : Measurable g) :
+    eLpNorm (fun z : (X × (Velocity × Velocity)) × Sphere => g z.1) 1
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) =
+      sphereArea univ*eLpNorm g 1 (μ.prod (volume : Measure (Velocity × Velocity))) := by
+  have hm : Measurable (fun z : (X × (Velocity × Velocity)) × Sphere => g z.1) :=
+    hg.comp measurable_fst
+  rw [eLpNorm_one_eq_lintegral_enorm,
+    eLpNorm_one_eq_lintegral_enorm,
+    lintegral_prod _ hm.enorm.aemeasurable]
+  simp only [lintegral_const]
+  rw [lintegral_mul_const _ hg.enorm,mul_comm]
+
+omit [SFinite μ] in
+theorem pairPreRate_moment_norm_le {g : X × (Velocity × Velocity) → ℝ} (hg : Measurable g) :
+    eLpNorm (pairPreRate g) 1 ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) ≤
+      sphereArea univ*eLpNorm (momentPair g) 1 (μ.prod (volume : Measure (Velocity × Velocity))) := by
+  rw [← pair_lift_eLpNorm_one (momentPair_measurable hg)]
+  apply eLpNorm_mono_ae
+  filter_upwards [] with z
+  change ‖collisionKernel z.1.2.1 z.1.2.2 z.2*g z.1‖ ≤
+    ‖(1+‖z.1.2.1‖+‖z.1.2.2‖)*g z.1‖
+  rw [norm_mul,norm_mul,Real.norm_of_nonneg (collisionKernel_nonneg _ _ _),
+    Real.norm_of_nonneg (by positivity : 0 ≤ 1+‖z.1.2.1‖+‖z.1.2.2‖)]
+  exact mul_le_mul_of_nonneg_right
+    ((collisionKernel_le_norm _ _ _).trans ((norm_sub_le _ _).trans (by linarith)))
+    (norm_nonneg _)
+
+omit [SFinite μ] in
+theorem pairPreRate_integrable_of_moment {g : X × (Velocity × Velocity) → ℝ}
+    (hg : Measurable g) (hi : Integrable (momentPair g) (μ.prod (volume : Measure (Velocity × Velocity)))) :
+    Integrable (pairPreRate g) ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  apply memLp_one_iff_integrable.mp
+  exact ⟨(pairPreRate_measurable hg).aestronglyMeasurable,
+    (pairPreRate_moment_norm_le hg).trans_lt (ENNReal.mul_lt_top (measure_lt_top _ _)
+    (memLp_one_iff_integrable.mpr hi).2)⟩
+
+theorem pairGain_moment_difference_le {g h : X × (Velocity × Velocity) → ℝ}
+    (hg : Measurable g) (hh : Measurable h)
+    (hi : Integrable (momentPair g) (μ.prod (volume : Measure (Velocity × Velocity))))
+    (hj : Integrable (momentPair h) (μ.prod (volume : Measure (Velocity × Velocity)))) :
+    eLpNorm (fun p => pairGain g p-pairGain h p) 1 (μ.prod volume) ≤
+      sphereArea univ*eLpNorm (momentPair (fun z => g z-h z)) 1
+        (μ.prod (volume : Measure (Velocity × Velocity))) := by
+  apply (pairGain_difference_eLpNorm_le hg hh (pairPreRate_integrable_of_moment hg hi)
+    (pairPreRate_integrable_of_moment hh hj)).trans
+  have he : (fun z => pairPreRate g z-pairPreRate h z) = pairPreRate (fun z => g z-h z) := by
+    funext z
+    exact (mul_sub _ _ _).symm
+  rw [he]
+  exact pairPreRate_moment_norm_le (hg.sub hh)
+
+end BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_RelativeCutoffConvergence
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The cutoff relative-entropy production about the Maxwellian -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.CollisionCompactness
+
+variable {X : Type*} [MeasurableSpace X]
+
+omit [MeasurableSpace X] in
+theorem collisionJump_log_relative (f : X × Velocity → ℝ) (hf : ∀ p, 0 < f p)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    collisionJump (fun p => Real.log (f p/maxwellian p.2)) z =
+      collisionJump (fun p => Real.log (f p)) z := by
+  have hl (p : X × Velocity) : Real.log (f p/maxwellian p.2) =
+      Real.log (f p)-Real.log (maxwellian p.2) :=
+    Real.log_div (hf p).ne' (maxwellian_pos p.2).ne'
+  have he : collisionJump (fun p => Real.log (f p/maxwellian p.2)) z =
+      collisionJump (fun p => Real.log (f p)) z-
+        collisionJump (fun p : X × Velocity => Real.log (maxwellian p.2)) z := by
+    simp only [collisionJump,hl]
+    ring
+  rw [he,collisionJump_log_maxwellian,sub_zero]
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_SmoothedPrePostIdentity
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.incomingBallFinite _root_.OAI.BoltzmannNonuniqueness.CollisionCompactness.DoubleGain.parameterMeasureFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.Compactness.instSecondCountableTopologySupportedTest
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A compact incoming cutoff and a translated outgoing velocity smoothing kernel -/
+noncomputable section
+open MeasureTheory Set
+open scoped RealInnerProductSpace
+namespace BoltzmannNonuniqueness.Compactness
+
+theorem smoothedAngularKernel_continuous (η χ : C(Velocity,ℝ)) :
+    Continuous (smoothedAngularKernel η χ) := by
+  have hc : Continuous (fun z : (Velocity × (Velocity × Velocity)) × Sphere =>
+      collisionKernel z.1.2.1 z.1.2.2 z.2*χ (z.1.1-scatterLeft z.1.2.1 z.1.2.2 z.2)) := by
+    unfold collisionKernel scatterLeft normalComponent
+    fun_prop
+  have h := continuous_parametric_integral_of_continuous (μ := sphereArea)
+    (f := fun p : Velocity × (Velocity × Velocity) => fun ω : Sphere =>
+      collisionKernel p.2.1 p.2.2 ω*χ (p.1-scatterLeft p.2.1 p.2.2 ω)) hc isCompact_univ
+  have hi : Continuous (fun p : Velocity × (Velocity × Velocity) =>
+      ∫ ω : Sphere, collisionKernel p.2.1 p.2.2 ω*χ (p.1-scatterLeft p.2.1 p.2.2 ω) ∂sphereArea) := by
+    simpa only [Measure.restrict_univ] using h
+  exact ((η.continuous.comp continuous_snd.fst).mul (η.continuous.comp continuous_snd.snd)).mul hi
+
+theorem smoothedAngularKernel_slice (η χ : C(Velocity,ℝ)) (z : Velocity) :
+    (fun y => smoothedAngularKernel η χ (z,y)) =
+      angularPostCutoffTest η (translatedVelocityTest χ z) := rfl
+
+theorem smoothedAngularKernel_support (η χ : C(Velocity,ℝ))
+    (hη : HasCompactSupport η) (z : Velocity) :
+    HasCompactSupport (fun y => smoothedAngularKernel η χ (z,y)) := by
+  rw [smoothedAngularKernel_slice]
+  exact angularPostCutoffTest_hasCompactSupport η (translatedVelocityTest χ z) hη
+
+theorem smoothedAngularKernel_bounded (η χ : C(Velocity,ℝ))
+    (hη : HasCompactSupport η) (hχ : HasCompactSupport χ) :
+    ∃ C : ℝ, ∀ p, |smoothedAngularKernel η χ p| ≤ C := by
+  let w : C(Velocity × Velocity,ℝ) :=
+    ⟨fun y => (η y.1*η y.2)*(‖y.1‖+‖y.2‖),by fun_prop⟩
+  have hw : HasCompactSupport w := (tensorTest_hasCompactSupport hη hη).mul_right
+  obtain ⟨B,hB⟩ := w.continuous.bounded_above_of_compact_support hw
+  obtain ⟨D,hD⟩ := χ.continuous.bounded_above_of_compact_support hχ
+  have hD0 : 0 ≤ D := (abs_nonneg (χ 0)).trans (hD 0)
+  refine ⟨sphereArea.real univ*(B*D),fun p => ?_⟩
+  have hc : ∀ ω : Sphere, ‖(η p.2.1*η p.2.2)*
+      (collisionKernel p.2.1 p.2.2 ω*χ (p.1-scatterLeft p.2.1 p.2.2 ω))‖ ≤ B*D := by
+    intro ω
+    have hk := (collisionKernel_le_norm p.2.1 p.2.2 ω).trans (norm_sub_le _ _)
+    have hk0 := collisionKernel_nonneg p.2.1 p.2.2 ω
+    calc
+      _ = |η p.2.1*η p.2.2| * (collisionKernel p.2.1 p.2.2 ω *
+          |χ (p.1-scatterLeft p.2.1 p.2.2 ω)|) := by
+        rw [norm_mul (η p.2.1*η p.2.2) _,norm_mul (collisionKernel p.2.1 p.2.2 ω) _,
+          Real.norm_of_nonneg hk0]
+        rfl
+      _ ≤ |η p.2.1*η p.2.2| * ((‖p.2.1‖+‖p.2.2‖)*D) :=
+        mul_le_mul_of_nonneg_left (mul_le_mul hk (hD _) (abs_nonneg _) (by positivity)) (abs_nonneg _)
+      _ = |w p.2| * D := by
+        dsimp only [w,ContinuousMap.coe_mk]
+        simp only [abs_mul,abs_of_nonneg (by positivity : 0 ≤ ‖p.2.1‖+‖p.2.2‖)]
+        ring
+      _ ≤ B*D := mul_le_mul_of_nonneg_right (hB _) hD0
+  have h := norm_integral_le_of_norm_le (integrable_const (μ := sphereArea) (B*D)) (ae_of_all _ hc)
+  rw [integral_const] at h
+  simpa only [smoothedAngularKernel,integral_const_mul,Real.norm_eq_abs,smul_eq_mul] using h
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # The outgoing smoothing kernel is the actual incoming physical collision rate -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.CollisionCompactness
+open Compactness
+variable {X : Type*}
+
+theorem massNormalizedPreRate_eq_pair (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    massNormalizedPreRate f z = collisionKernel z.1.2.1 z.1.2.2 z.2*
+      normalizedPair volume f z.1 := by
+  unfold massNormalizedPreRate preRate normalizedPair normalizedTensor
+  ring
+
+theorem smoothed_preRate_angular_identity (η χ : C(Velocity,ℝ))
+    (f : X × Velocity → ℝ) (x : X) (v : Velocity) (y : Velocity × Velocity) :
+    (∫ ω : Sphere, (η y.1*η y.2)*χ (v-scatterLeft y.1 y.2 ω)*
+      massNormalizedPreRate f ((x,y),ω) ∂sphereArea) =
+    smoothedAngularKernel η χ (v,y)*normalizedPair volume f (x,y) := by
+  calc
+    _ = ∫ ω : Sphere, (η y.1*η y.2)*
+        (collisionKernel y.1 y.2 ω*χ (v-scatterLeft y.1 y.2 ω))*
+        normalizedPair volume f (x,y) ∂sphereArea := by
+      apply integral_congr_ae
+      filter_upwards [] with ω
+      rw [massNormalizedPreRate_eq_pair]
+      ring
+    _ = _ := by rw [integral_mul_const,integral_const_mul]; rfl
+
+theorem smoothed_preRate_pair_identity (η χ : C(Velocity,ℝ))
+    (f : X × Velocity → ℝ) (x : X) (v : Velocity) :
+    (∫ y : Velocity × Velocity, ∫ ω : Sphere,
+      (η y.1*η y.2)*χ (v-scatterLeft y.1 y.2 ω)*
+        massNormalizedPreRate f ((x,y),ω) ∂sphereArea) =
+    ∫ y : Velocity × Velocity, smoothedAngularKernel η χ (v,y)*normalizedPair volume f (x,y) := by
+  simp_rw [smoothed_preRate_angular_identity]
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+section
+
+/-! # The exact physical pre/post change of variables for the smoothed gain -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.CollisionCompactness
+open Compactness
+variable {X : Type*}
+
+theorem smoothed_pre_post_fixed_normal (η χ : C(Velocity,ℝ))
+    (f : X × Velocity → ℝ) (x : X) (v : Velocity) (ω : Sphere) :
+    (∫ y : Velocity × Velocity, (η y.1*η y.2)*χ (v-scatterLeft y.1 y.2 ω)*
+      massNormalizedPreRate f ((x,y),ω)) =
+    ∫ y : Velocity × Velocity,
+      (η (scatterLeft y.1 y.2 ω)*η (scatterRight y.1 y.2 ω))*χ (v-y.1)*
+        massNormalizedPostRate f ((x,y),ω) := by
+  have hω : ‖(ω : Velocity)‖ = 1 := mem_sphere_zero_iff_norm.mp ω.property
+  let a : Velocity × Velocity → ℝ := fun y =>
+    (η (scatterLeft y.1 y.2 ω)*η (scatterRight y.1 y.2 ω))*χ (v-y.1)*
+      massNormalizedPostRate f ((x,y),ω)
+  have hr y : massNormalizedPostRate f ((x,scatterPair ω y),ω) =
+      massNormalizedPreRate f ((x,y),ω) := by
+    change massNormalizedPreRate f ((x,scatterPair ω (scatterPair ω y)),ω) = _
+    rw [scatterPair_involutive ω hω y]
+  have he y : a (scatterPair ω y) = (η y.1*η y.2)*χ (v-scatterLeft y.1 y.2 ω)*
+      massNormalizedPreRate f ((x,y),ω) := by
+    change (η (scatterPair ω (scatterPair ω y)).1*η (scatterPair ω (scatterPair ω y)).2)*
+      χ (v-(scatterPair ω y).1)*massNormalizedPostRate f ((x,scatterPair ω y),ω) = _
+    rw [scatterPair_involutive ω hω y,hr]
+    rfl
+  have h := integral_scatterPair ω hω a
+  simp_rw [he] at h
+  exact h
+
+theorem smoothed_pre_post_normals (η χ : C(Velocity,ℝ))
+    (f : X × Velocity → ℝ) (x : X) (v : Velocity) :
+    (∫ ω : Sphere, (∫ y : Velocity × Velocity,
+      (η y.1*η y.2)*χ (v-scatterLeft y.1 y.2 ω)*massNormalizedPreRate f ((x,y),ω)) ∂sphereArea) =
+    ∫ ω : Sphere, (∫ y : Velocity × Velocity,
+      (η (scatterLeft y.1 y.2 ω)*η (scatterRight y.1 y.2 ω))*χ (v-y.1)*
+        massNormalizedPostRate f ((x,y),ω)) ∂sphereArea := by
+  simp_rw [smoothed_pre_post_fixed_normal]
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_NormalizedPairCompactness
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Factorization of mass-normalized pair moments -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+variable {μ : Measure X} {ν : Measure Y} [IsFiniteMeasure μ] [SFinite ν]
+
+omit [MeasurableSpace X] in
+theorem normalizedPair_moment_identity {f : X × Y → ℝ} {k l : X × Y → ℝ} (x : X) :
+    (∫ y : Y × Y, (k (x,y.1)*l (x,y.2))*normalizedPair ν f (x,y) ∂ν.prod ν) =
+      (∫ v, k (x,v)*f (x,v) ∂ν)*(∫ w, l (x,w)*f (x,w) ∂ν)/(1+fiberMass ν f x) := by
+  have he : (fun y : Y × Y => (k (x,y.1)*l (x,y.2))*normalizedPair ν f (x,y)) =
+      (fun y : Y × Y => ((k (x,y.1)*f (x,y.1))*(l (x,y.2)*f (x,y.2)))/(1+fiberMass ν f x)) := by
+    funext y
+    dsimp only [normalizedPair,normalizedTensor]
+    ring
+  rw [he,integral_div,integral_prod_mul (fun v => k (x,v)*f (x,v)) (fun w => l (x,w)*f (x,w))]
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Strong convergence of the actual normalized pair against product tests -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+variable {μ : Measure X} {ν : Measure Y} [IsFiniteMeasure μ] [SFinite ν]
+
+theorem normalizedPair_product_strong {f : ℕ → X × Y → ℝ} {g : X × Y → ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n z, 0 ≤ f n z) (hg : ∀ z, 0 ≤ g z)
+    (hfi : ∀ n, Integrable (f n) (μ.prod ν)) (hgm : Measurable g)
+    (hrui : UniformIntegrable (fun n => fiberMass ν (f n)) 1 μ)
+    (hr : Tendsto (fun n => eLpNorm (fun x => fiberMass ν (f n) x-fiberMass ν g x) 1 μ) atTop (𝓝 0))
+    {k l : X × Y → ℝ} (hk : Measurable k) (hl : Measurable l)
+    {C D : ℝ} (hC0 : 0 ≤ C) (hD0 : 0 ≤ D)
+    (hC : ∀ z, |k z| ≤ C) (hD : ∀ z, |l z| ≤ D)
+    (hA : Tendsto (fun n => eLpNorm (fun x => (∫ v, k (x,v)*f n (x,v) ∂ν)-
+      (∫ v, k (x,v)*g (x,v) ∂ν)) 1 μ) atTop (𝓝 0))
+    (hB : Tendsto (fun n => eLpNorm (fun x => (∫ v, l (x,v)*f n (x,v) ∂ν)-
+      (∫ v, l (x,v)*g (x,v) ∂ν)) 1 μ) atTop (𝓝 0)) :
+    Tendsto (fun n => eLpNorm (fun x =>
+      (∫ y : Y × Y, (k (x,y.1)*l (x,y.2))*normalizedPair ν (f n) (x,y) ∂ν.prod ν)-
+      (∫ y : Y × Y, (k (x,y.1)*l (x,y.2))*normalizedPair ν g (x,y) ∂ν.prod ν))
+      1 μ) atTop (𝓝 0) := by
+  have hki n := ((hfi n).bdd_mul hk.aestronglyMeasurable (ae_of_all _ hC)).integral_prod_left
+  have hli n := ((hfi n).bdd_mul hl.aestronglyMeasurable (ae_of_all _ hD)).integral_prod_left
+  have hbound (a : X × Y → ℝ) {E : ℝ}
+      (hE : ∀ z, |a z| ≤ E) (n : ℕ) :
+      ∀ᵐ x ∂μ, |∫ v, a (x,v)*f n (x,v) ∂ν| ≤ E*fiberMass ν (f n) x := by
+    filter_upwards [(hfi n).prod_right_ae] with x hx
+    have hbnd v : ‖a (x,v)*f n (x,v)‖ ≤ E*f n (x,v) := by
+      rw [norm_mul,Real.norm_eq_abs,Real.norm_of_nonneg (hf n _)]
+      exact mul_le_mul_of_nonneg_right (hE _) (hf n _)
+    have h := norm_integral_le_of_norm_le (hx.const_mul E) (ae_of_all _ hbnd)
+    simpa only [Real.norm_eq_abs,integral_const_mul,fiberMass] using h
+  have hprod := tendsto_L1_normalized_product
+    (fun n => (hki n).aestronglyMeasurable) (fun n => (hli n).aestronglyMeasurable)
+    (fun n => fiberMass_measurable (hfm n))
+    (by exact (hk.mul hgm).stronglyMeasurable.integral_prod_right'.aestronglyMeasurable)
+    (by exact (hl.mul hgm).stronglyMeasurable.integral_prod_right'.aestronglyMeasurable)
+    (by exact (fiberMass_measurable hgm).aestronglyMeasurable) hA hB hr hrui
+    (fun n => ae_of_all _ (fun x => integral_nonneg (fun v => hf n (x,v)))) hC0 hD0
+    (hbound k hC) (hbound l hD)
+  have he (u : X × Y → ℝ) (hu : ∀ z, 0 ≤ u z) (x : X) :
+      (∫ y : Y × Y, (k (x,y.1)*l (x,y.2))*normalizedPair ν u (x,y) ∂ν.prod ν) =
+      (∫ v, k (x,v)*u (x,v) ∂ν)*(∫ w, l (x,w)*u (x,w) ∂ν)/(1+|fiberMass ν u x|) := by
+    have hm : 0 ≤ fiberMass ν u x :=
+      integral_nonneg (μ := ν) (f := fun v => u (x,v)) (fun v => hu (x,v))
+    rw [abs_of_nonneg hm]
+    exact normalizedPair_moment_identity x
+  simpa only [he _ (hf _),he _ hg] using hprod
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Normalized collision pairs determine the weighted squares of velocity averages -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+variable {μ : Measure X} {ν : Measure Y} [IsFiniteMeasure μ] [SFinite ν]
+
+omit [MeasurableSpace X] in
+private theorem square_identity (ψ : Y → ℝ) (f : X × Y → ℝ) (x : X) :
+    (∫ y : Y × Y, (ψ y.1*ψ y.2)*normalizedPair ν f (x,y) ∂ν.prod ν) =
+      (∫ v, ψ v*f (x,v) ∂ν)^2/(1+fiberMass ν f x) := by
+  simpa only [pow_two] using
+    normalizedPair_moment_identity (ν := ν) (f := f)
+      (k := fun p => ψ p.2) (l := fun p => ψ p.2) x
+
+theorem normalized_average_square_integrable {f : X × Y → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hfi : Integrable f (μ.prod ν))
+    {ψ : Y → ℝ} (hψ : Measurable ψ) {C : ℝ} (hC : ∀ y, |ψ y| ≤ C) :
+    Integrable (fun x => (∫ v, ψ v*f (x,v) ∂ν)^2/(1+fiberMass ν f x)) μ := by
+  have hkm : Measurable (fun z : X × (Y × Y) => ψ z.2.1*ψ z.2.2) :=
+    (hψ.comp measurable_snd.fst).mul (hψ.comp measurable_snd.snd)
+  have hkb (z : X × (Y × Y)) : |ψ z.2.1*ψ z.2.2| ≤ |C| * |C| := by
+    rw [abs_mul]
+    exact mul_le_mul ((hC _).trans (le_abs_self C)) ((hC _).trans (le_abs_self C))
+      (abs_nonneg _) (abs_nonneg _)
+  have hi := ((normalizedPair_integrable hfm hf hfi).bdd_mul
+    hkm.aestronglyMeasurable (ae_of_all _ hkb)).integral_prod_left
+  simpa only [square_identity ψ] using hi
+
+theorem weak_normalized_average_squares
+    {f : ℕ → X × Y → ℝ} {g : X × Y → ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n p, 0 ≤ f n p)
+    (hfi : ∀ n, Integrable (f n) (μ.prod ν))
+    (hp : Published.WeakL1Converges (μ.prod (ν.prod ν))
+      (fun n => normalizedPair ν (f n)) (normalizedPair ν g))
+    {ψ : Y → ℝ} (hψ : Measurable ψ) {C : ℝ} (hC : ∀ y, |ψ y| ≤ C) :
+    Published.WeakL1Converges μ
+      (fun n x => (∫ v, ψ v*f n (x,v) ∂ν)^2/(1+fiberMass ν (f n) x))
+      (fun x => (∫ v, ψ v*g (x,v) ∂ν)^2/(1+fiberMass ν g x)) := by
+  have hkm : Measurable (fun z : X × (Y × Y) => ψ z.2.1*ψ z.2.2) :=
+    (hψ.comp measurable_snd.fst).mul (hψ.comp measurable_snd.snd)
+  have hkb (z : X × (Y × Y)) : |ψ z.2.1*ψ z.2.2| ≤ |C| * |C| := by
+    rw [abs_mul]
+    exact mul_le_mul ((hC _).trans (le_abs_self C)) ((hC _).trans (le_abs_self C))
+      (abs_nonneg _) (abs_nonneg _)
+  have h := hp.marginal (fun n => normalizedPair_integrable (hfm n) (hf n) (hfi n))
+    hkm (|C| * |C|) hkb
+  simpa only [square_identity ψ] using h
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_LocalizedGainSmoothingAE
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Incoming-velocity localization of the actual physical gain -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.CollisionCompactness
+open Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+theorem localizedPostRate_integrable (η : C(Velocity,ℝ)) (hη : HasCompactSupport η)
+    {f : X × Velocity → ℝ} (hfm : Measurable f)
+    (hi : Integrable (weightedNormalizedPair f) (μ.prod (volume : Measure (Velocity × Velocity)))) :
+    Integrable (localizedPostRate η f) ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  obtain ⟨B,hB⟩ := η.continuous.bounded_above_of_compact_support hη
+  have hB0 : 0 ≤ B := (abs_nonneg (η 0)).trans (hB 0)
+  have hm : Measurable (fun z : (X × (Velocity × Velocity)) × Sphere =>
+      η (scatterLeft z.1.2.1 z.1.2.2 z.2)*η (scatterRight z.1.2.1 z.1.2.2 z.2)) := by
+    unfold scatterLeft scatterRight normalComponent
+    fun_prop
+  apply (massNormalizedPostRate_integrable hfm hi).bdd_mul hm.aestronglyMeasurable
+  filter_upwards [] with z
+  rw [Real.norm_eq_abs,abs_mul]
+  exact mul_le_mul (hB _) (hB _) (abs_nonneg _) hB0
+
+theorem localizedPhysicalGain_integrable (η : C(Velocity,ℝ)) (hη : HasCompactSupport η)
+    {f : X × Velocity → ℝ} (hfm : Measurable f)
+    (hi : Integrable (weightedNormalizedPair f) (μ.prod (volume : Measure (Velocity × Velocity)))) :
+    Integrable (localizedPhysicalGain η f) (μ.prod volume) := by
+  have h := collision_test_marginal (localizedPostRate η f) (fun _ => (1:ℝ))
+    (by simpa only [one_mul] using localizedPostRate_integrable η hη hfm hi)
+  change Integrable (fun p => ∫ q : Velocity × Sphere,
+    localizedPostRate η f (collisionGrouping.symm (p,q)) ∂(volume : Measure Velocity).prod sphereArea)
+      (μ.prod volume)
+  simpa only [one_mul] using h.1
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+section
+
+/-! # Identifying the localized physical gain with the linear pair operator -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+open Compactness
+variable {X : Type*}
+
+theorem localizedPair_preRate (η : C(Velocity,ℝ)) (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    pairPreRate (localizedPair η f) z =
+      (η z.1.2.1*η z.1.2.2)*massNormalizedPreRate f z := by
+  rw [massNormalizedPreRate_eq_pair]
+  unfold pairPreRate localizedPair
+  ring
+
+theorem localizedPair_postRate (η : C(Velocity,ℝ)) (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    pairPostRate (localizedPair η f) z = localizedPostRate η f z := by
+  rw [pairPostRate,localizedPair_preRate]
+  rfl
+
+theorem localizedPhysicalGain_eq_pairGain [MeasurableSpace X] (η : C(Velocity,ℝ)) (f : X × Velocity → ℝ) :
+    localizedPhysicalGain η f = pairGain (localizedPair η f) := by
+  funext p
+  unfold localizedPhysicalGain pairGain
+  apply integral_congr_ae
+  exact ae_of_all _ (fun q => (localizedPair_postRate η f _).symm)
+
+end BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+
+end
+
+end
+
+section
+
+/-! # The entropy velocity tail removes incoming localization of the gain -/
+noncomputable section
+open MeasureTheory Set
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+open Compactness PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+theorem exists_velocity_unit_cutoff {R : ℝ} (hR : 0 < R) :
+    ∃ η : C(Velocity,ℝ), HasCompactSupport η ∧
+      (∀ v, 0 ≤ η v) ∧ (∀ v, η v ≤ 1) ∧ (∀ v, ‖v‖ ≤ R → η v = 1) := by
+  let b : ContDiffBump (0 : Velocity) := ⟨R,R+1,hR,by linarith⟩
+  let η : C(Velocity,ℝ) := ⟨b,b.continuous⟩
+  refine ⟨η,b.hasCompactSupport,fun v => b.nonneg,fun v => b.le_one,?_⟩
+  intro v hv
+  apply b.one_of_mem_closedBall
+  simpa only [Metric.mem_closedBall,dist_zero_right] using hv
+
+omit [MeasurableSpace X] in
+theorem localizedPair_weight (η : C(Velocity,ℝ)) (f : X × Velocity → ℝ) :
+    momentPair (localizedPair η f) =
+      fun z => (η z.2.1*η z.2.2)*weightedNormalizedPair f z := by
+  funext z
+  unfold momentPair localizedPair weightedNormalizedPair pairVelocityWeight
+  ring
+
+theorem localizedGain_tail_le {R C : ℝ} (hR : 0 < R)
+    (η : C(Velocity,ℝ)) (hη0 : ∀ v, 0 ≤ η v) (hη1 : ∀ v, η v ≤ 1)
+    (hone : ∀ v, ‖v‖ ≤ R → η v = 1)
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p)
+    (hi : Integrable (entropyGauge f) (μ.prod volume))
+    (hb : (∫ p, entropyGauge f p ∂μ.prod volume) ≤ C) :
+    eLpNorm (fun p => pairGain (normalizedPair volume f) p-localizedPhysicalGain η f p)
+      1 (μ.prod volume) ≤ sphereArea univ*ENNReal.ofReal (8*C/R) := by
+  let w : X × (Velocity × Velocity) → ℝ := fun z => η z.2.1*η z.2.2
+  have hwm : Measurable w :=
+    (η.continuous.measurable.comp measurable_snd.fst).mul
+      (η.continuous.measurable.comp measurable_snd.snd)
+  have hw0 z : 0 ≤ w z := mul_nonneg (hη0 _) (hη0 _)
+  have hw1 z : w z ≤ 1 := by
+    dsimp only [w]
+    nlinarith [hη0 z.2.1,hη0 z.2.2,hη1 z.2.1,hη1 z.2.2]
+  have hpm : Measurable (normalizedPair volume f) :=
+    normalizedTensor_measurable (fiberMass_measurable hfm) hfm hfm
+  have hqm : Measurable (localizedPair η f) := hwm.mul hpm
+  have hwi : Integrable (weightedNormalizedPair f)
+      (μ.prod (volume : Measure (Velocity × Velocity))) := by
+    simpa only [Measure.volume_eq_prod] using weightedNormalizedPair_integrable hfm hf hi
+  have hqi : Integrable (momentPair (localizedPair η f))
+      (μ.prod (volume : Measure (Velocity × Velocity))) := by
+    rw [localizedPair_weight]
+    apply hwi.bdd_mul hwm.aestronglyMeasurable (c := 1)
+    exact ae_of_all _ (fun z => by rw [Real.norm_of_nonneg (hw0 z)]; exact hw1 z)
+  have hpn z : 0 ≤ weightedNormalizedPair f z := by
+    have hd : 0 ≤ 1+fiberMass volume f z.1 := by
+      have hm : 0 ≤ fiberMass volume f z.1 := integral_nonneg (fun v => hf (z.1,v))
+      linarith
+    exact mul_nonneg (by dsimp [pairVelocityWeight] <;> positivity)
+      (div_nonneg (mul_nonneg (hf _) (hf _)) hd)
+  have he : eLpNorm (momentPair (fun z => normalizedPair volume f z-localizedPair η f z))
+      1 (μ.prod (volume : Measure (Velocity × Velocity))) ≤
+      eLpNorm (fun z => weightedNormalizedPair f z-pairVelocityCut R f z)
+        1 (μ.prod (volume : Measure (Velocity × Velocity))) := by
+    apply eLpNorm_mono_ae
+    filter_upwards [] with z
+    change ‖momentPair (fun y => normalizedPair volume f y-localizedPair η f y) z‖ ≤ _
+    have heq : momentPair (fun y => normalizedPair volume f y-localizedPair η f y) z =
+        (1-w z)*weightedNormalizedPair f z := by
+      dsimp only [momentPair,localizedPair,weightedNormalizedPair,pairVelocityWeight,w]
+      ring
+    rw [heq]
+    by_cases hv : ‖z.2.1‖ ≤ R ∧ ‖z.2.2‖ ≤ R
+    · have hw : w z = 1 := by simp only [w,hone _ hv.1,hone _ hv.2,one_mul]
+      simp only [hw,sub_self,zero_mul,norm_zero]
+      exact norm_nonneg _
+    · rw [pairVelocityCut,ite_eq_right hv,sub_zero,
+        Real.norm_of_nonneg (mul_nonneg (sub_nonneg.mpr (hw1 z)) (hpn z)),
+        Real.norm_of_nonneg (hpn z)]
+      nlinarith [mul_nonneg (hw0 z) (hpn z)]
+  rw [localizedPhysicalGain_eq_pairGain]
+  exact (pairGain_moment_difference_le hpm hqm hwi hqi).trans
+    (mul_le_mul' le_rfl (he.trans (pairVelocityCut_L1_error hR hfm hf hi hb)))
+
+end BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+
+end
+
+end
+
+section
+
+/-! # Velocity smoothing of the genuine localized gain equals its incoming pair formula -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.CollisionCompactness
+open Compactness
+variable {X : Type*} [MeasurableSpace X]
+
+theorem localizedPhysicalGain_smoothing (η χ : C(Velocity,ℝ))
+    (hη : HasCompactSupport η) (hχ : HasCompactSupport χ)
+    (f : X × Velocity → ℝ) (x : X) (v : Velocity)
+    (hpre : Integrable (fun z : (Velocity × Velocity) × Sphere =>
+      massNormalizedPreRate f ((x,z.1),z.2)) ((volume : Measure (Velocity × Velocity)).prod sphereArea))
+    (hpost : Integrable (fun z : (Velocity × Velocity) × Sphere =>
+      localizedPostRate η f ((x,z.1),z.2)) ((volume : Measure (Velocity × Velocity)).prod sphereArea)) :
+    (∫ u : Velocity, χ (v-u)*localizedPhysicalGain η f (x,u)) =
+    ∫ y : Velocity × Velocity, smoothedAngularKernel η χ (v,y)*normalizedPair volume f (x,y) := by
+  obtain ⟨B,hB⟩ := η.continuous.bounded_above_of_compact_support hη
+  obtain ⟨D,hD⟩ := χ.continuous.bounded_above_of_compact_support hχ
+  have hB0 : 0 ≤ B := (abs_nonneg (η 0)).trans (hB 0)
+  have hD0 : 0 ≤ D := (abs_nonneg (χ 0)).trans (hD 0)
+  have hm : Measurable (fun z : (Velocity × Velocity) × Sphere =>
+      (η z.1.1*η z.1.2)*χ (v-scatterLeft z.1.1 z.1.2 z.2)) := by
+    unfold scatterLeft normalComponent
+    fun_prop
+  have hi : Integrable (fun z : (Velocity × Velocity) × Sphere =>
+      (η z.1.1*η z.1.2)*χ (v-scatterLeft z.1.1 z.1.2 z.2)*
+        massNormalizedPreRate f ((x,z.1),z.2))
+      ((volume : Measure (Velocity × Velocity)).prod sphereArea) := by
+    apply hpre.bdd_mul hm.aestronglyMeasurable (c := B*B*D)
+    filter_upwards [] with z
+    simp only [Real.norm_eq_abs,abs_mul]
+    exact mul_le_mul (mul_le_mul (hB _) (hB _) (abs_nonneg _) hB0) (hD _)
+      (abs_nonneg _) (mul_nonneg hB0 hB0)
+  have hposteq := collision_fiber_test_fubini hpost
+    (χ.continuous.measurable.comp (measurable_const.sub measurable_id)) D (fun u => hD (v-u))
+  calc
+    _ = ∫ ω : Sphere, (∫ y : Velocity × Velocity,
+        (η (scatterLeft y.1 y.2 ω)*η (scatterRight y.1 y.2 ω))*χ (v-y.1)*
+          massNormalizedPostRate f ((x,y),ω)) ∂sphereArea := by
+      change (∫ u : Velocity, χ (v-u)*localizedPhysicalGain η f (x,u)) = _ at hposteq
+      rw [hposteq]
+      apply integral_congr_ae
+      filter_upwards [] with ω
+      apply integral_congr_ae
+      filter_upwards [] with y
+      dsimp only [localizedPostRate,Function.comp_apply,Pi.sub_apply,Function.const_apply,id_eq]
+      ring
+    _ = ∫ ω : Sphere, (∫ y : Velocity × Velocity,
+        (η y.1*η y.2)*χ (v-scatterLeft y.1 y.2 ω)*massNormalizedPreRate f ((x,y),ω)) ∂sphereArea :=
+      (smoothed_pre_post_normals η χ f x v).symm
+    _ = ∫ y : Velocity × Velocity, ∫ ω : Sphere,
+        (η y.1*η y.2)*χ (v-scatterLeft y.1 y.2 ω)*massNormalizedPreRate f ((x,y),ω) ∂sphereArea :=
+      (integral_prod_symm _ hi).symm.trans (integral_prod _ hi)
+    _ = _ := smoothed_preRate_pair_identity η χ f x v
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+section
+
+/-! # The physical gain convolution identity on a common full-measure base set -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.CollisionCompactness
+open Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+local instance collisionRateFiberSFinite : SFinite ((volume : Measure (Velocity × Velocity)).prod sphereArea) :=
+  Measure.prod.instSFinite
+
+theorem collision_rate_fibers {r : (X × (Velocity × Velocity)) × Sphere → ℝ}
+    (hi : Integrable r ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea)) :
+    ∀ᵐ x ∂μ, Integrable (fun z : (Velocity × Velocity) × Sphere => r ((x,z.1),z.2))
+      ((volume : Measure (Velocity × Velocity)).prod sphereArea) := by
+  have hmp := measurePreserving_prodAssoc μ (volume : Measure (Velocity × Velocity)) sphereArea
+  have hh := hmp.symm.integrable_comp_of_integrable hi
+  exact hh.prod_right_ae
+
+theorem localizedPhysicalGain_smoothing_ae (η χ : C(Velocity,ℝ))
+    (hη : HasCompactSupport η) (hχ : HasCompactSupport χ)
+    {f : X × Velocity → ℝ} (hfm : Measurable f)
+    (hi : Integrable (weightedNormalizedPair f) (μ.prod (volume : Measure (Velocity × Velocity)))) :
+    ∀ᵐ x ∂μ, ∀ v : Velocity,
+      (∫ u : Velocity, χ (v-u)*localizedPhysicalGain η f (x,u)) =
+      ∫ y : Velocity × Velocity, smoothedAngularKernel η χ (v,y)*normalizedPair volume f (x,y) := by
+  filter_upwards [collision_rate_fibers (massNormalizedPreRate_integrable hfm hi),
+    collision_rate_fibers (localizedPostRate_integrable η hη hfm hi)] with x hx hy
+  intro v
+  exact localizedPhysicalGain_smoothing η χ hη hχ f x v hx hy
+
+end BoltzmannNonuniqueness.CollisionCompactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_GainSmoothingError
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A common L1 smoothing error for the actual localized gain sequence -/
+noncomputable section
+open MeasureTheory Filter
+open scoped Topology
+namespace BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+open Compactness PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [IsFiniteMeasure μ]
+
+omit [MeasurableSpace X] in
+theorem velocitySmooth_eq_outgoing_convolution (χ : Velocity → ℝ)
+    (F : X × Velocity → ℝ) (p : X × Velocity) :
+    velocitySmooth χ F p = ∫ u : Velocity, χ (p.2-u)*F (p.1,u) := by
+  have h := integral_sub_left_eq_self (fun u : Velocity => χ u*F (p.1,p.2-u)) volume p.2
+  change (∫ u : Velocity, χ u*F (p.1,p.2-u)) = _
+  simpa only [sub_sub_cancel] using h.symm
+
+end BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_EntropyDissipationAverage
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PeriodicApproximation.fiberMeasure_finite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.eventParameterMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.markedEventMeasure_isFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Finite Gaussian relative entropy controls the required datum class -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness
+
+theorem entropyGaussian_integrable : Integrable entropyGaussian := by
+  have h := (GaussianFourier.integrable_cexp_neg_mul_sq_norm_add
+    (by norm_num : 0 < ((1/4:ℂ)).re) 0 (0:Velocity)).norm
+  have hg : Integrable (fun v : Velocity => Real.exp (-‖v‖^2/4)) := by
+    convert! h using 1
+    all_goals try with_reducible_and_instances rfl
+    funext v
+    simp only [zero_mul,add_zero,Complex.norm_exp]
+    congr 1
+    norm_num
+    norm_cast
+    ring
+  convert hg.const_mul ((2*Real.pi)^(-(3/2:ℝ))*Real.exp (1/4)) using 1
+  all_goals try with_reducible_and_instances rfl
+  funext v
+  dsimp [entropyGaussian,maxwellian]
+  simp only [mul_assoc,← Real.exp_add]
+  congr 2
+  ring
+
+theorem entropy_controls_mass_energy {u : ℝ} (hu : 0 ≤ u) (v : Velocity) :
+    (1+‖v‖^2)*u ≤ 4*(scalarRelativeEntropy (maxwellian v) u+entropyGaussian v) := by
+  have h := entropyDual_le (maxwellian_pos v) hu ((1+‖v‖^2)/4)
+  dsimp [entropyDual,entropyGaussian] at *
+  nlinarith [maxwellian_pos v]
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+section
+
+/-! # The regularization error vanishes as the Gaussian is removed -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped Topology
+open BoltzmannNonuniqueness.VelocityWeight
+
+namespace BoltzmannNonuniqueness
+
+theorem tendsto_mul_abs_log_zero :
+    Tendsto (fun δ : ℝ => δ*|Real.log δ|) (𝓝 0) (𝓝 0) := by
+  rw [tendsto_zero_iff_norm_tendsto_zero]
+  have h : Tendsto (fun δ : ℝ => |δ*Real.log δ|) (𝓝 0) (𝓝 0) := by
+    simpa using Real.continuous_mul_log.abs.tendsto 0
+  simpa only [norm_mul,Real.norm_eq_abs,abs_abs,abs_mul] using h
+
+theorem tendsto_mul_affine_abs_log_zero (a b : ℝ) :
+    Tendsto (fun δ : ℝ => δ*(a+b*|Real.log δ|)) (𝓝 0) (𝓝 0) := by
+  have h := ((tendsto_id : Tendsto (fun δ : ℝ => δ) (𝓝 0) (𝓝 0)).mul_const a).add
+    (tendsto_mul_abs_log_zero.mul_const b)
+  convert h using 1
+  · funext δ
+    simp only [id_eq]
+    ring
+  · ring_nf
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+section
+
+/-! # Uniform integrability of the actual mass marginal from entropy -/
+noncomputable section
+open MeasureTheory
+open scoped ENNReal
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [IsFiniteMeasure μ]
+
+theorem mass_marginal_uniformIntegrable {f : ℕ → X × Velocity → ℝ} {C : ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n p, 0 ≤ f n p)
+    (hi : ∀ n, Integrable (entropyGauge (f n)) (μ.prod volume))
+    (hb : ∀ n, (∫ p, entropyGauge (f n) p ∂μ.prod volume) ≤ C) :
+    UniformIntegrable (fun n => Compactness.fiberMass volume (f n)) 1 μ := by
+  have hui := linearMoment_marginal_uniformIntegrable hfm hf hi hb
+  have hbound n : ∀ᵐ x ∂μ, ‖Compactness.fiberMass volume (f n) x‖ₑ ≤
+      ‖∫ v, linearMoment (f n) (x,v)‖ₑ := by
+    filter_upwards [(linearMoment_integrable (hfm n) (hf n) (hi n)).prod_right_ae] with x hx
+    apply enorm_le_iff_norm_le.mpr
+    dsimp only [Compactness.fiberMass]
+    have hln (v : Velocity) : 0 ≤ linearMoment (f n) (x,v) :=
+      mul_nonneg (by dsimp only [Prod.snd] <;> positivity) (hf n (x,v))
+    have hL0 : 0 ≤ ∫ v, linearMoment (f n) (x,v) := integral_nonneg hln
+    rw [Real.norm_of_nonneg (integral_nonneg (fun v => hf n (x,v))),Real.norm_of_nonneg hL0]
+    apply integral_mono_of_nonneg (ae_of_all _ (fun v => hf n (x,v))) hx
+    filter_upwards [] with v
+    change f n (x,v) ≤ (1+‖v‖)*f n (x,v)
+    nlinarith [norm_nonneg v,hf n (x,v)]
+  obtain ⟨hu,D,hD⟩ := hui
+  have hm n := (Compactness.fiberMass_measurable (ν := volume) (hfm n)).aestronglyMeasurable (μ := μ)
+  exact ⟨hu.ae_mono hm hbound,D,fun n => (eLpNorm_mono_enorm_ae (hbound n)).trans (hD n)⟩
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # A uniform absolute-entropy moment from the relative-entropy bound -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness
+
+theorem entropyMomentCoefficient_nonneg : 0 ≤ entropyMomentCoefficient := by
+  unfold entropyMomentCoefficient
+  positivity
+
+theorem entropyMoment_control {f : Density} {z : Phase} (hu : 0 ≤ f z) :
+    entropyMoment f z ≤
+      (1+4*entropyMomentCoefficient)*scalarRelativeEntropy (maxwellian z.2) (f z)+
+        4*entropyMomentCoefficient*entropyGaussian z.2+maxwellian z.2 := by
+  let u := f z
+  let c := 1-(3/2:ℝ)*Real.log (2*Real.pi)
+  have hu' : 0 ≤ u := hu
+  have hE : 0 ≤ ‖z.2‖^2*u := mul_nonneg (sq_nonneg _) hu'
+  have hm := (maxwellian_pos z.2).le
+  have hc : c*u ≤ |c| *u := mul_le_mul_of_nonneg_right (le_abs_self c) hu'
+  have hc' : -(|c| *u) ≤ c*u := by
+    simpa only [neg_mul] using mul_le_mul_of_nonneg_right (neg_abs_le c) hu'
+  have hcu : 0 ≤ |c| *u := mul_nonneg (abs_nonneg c) hu'
+  have hH := scalarRelativeEntropy_nonneg (maxwellian_pos z.2) hu'
+  have he : scalarRelativeEntropy (maxwellian z.2) u =
+      u*Real.log u-c*u+(1/2:ℝ)*(‖z.2‖^2*u)+maxwellian z.2 := by
+    dsimp [scalarRelativeEntropy,c]
+    rw [log_maxwellian]
+    ring
+  have ha : |u*Real.log u| ≤ u*Real.log u+2*(|c| *u+(1/2:ℝ)*(‖z.2‖^2*u)+maxwellian z.2) := by
+    apply abs_le.mpr
+    constructor <;> nlinarith
+  have hpre : entropyMoment f z ≤ scalarRelativeEntropy (maxwellian z.2) u+
+      entropyMomentCoefficient*((1+‖z.2‖^2)*u)+maxwellian z.2 := by
+    have habs : u*|Real.log u| = |u*Real.log u| := by rw [abs_mul,abs_of_nonneg hu']
+    change u*(1+‖z.2‖^2+|Real.log u|) ≤ _
+    rw [mul_add,habs]
+    change _ ≤ scalarRelativeEntropy (maxwellian z.2) u+(2+3*|c|)*((1+‖z.2‖^2)*u)+maxwellian z.2
+    have hEc : 0 ≤ |c| *(‖z.2‖^2*u) := mul_nonneg (abs_nonneg c) hE
+    nlinarith
+  have hb := mul_le_mul_of_nonneg_left (entropy_controls_mass_energy hu' z.2)
+    entropyMomentCoefficient_nonneg
+  exact hpre.trans (by nlinarith)
+
+theorem entropyMoment_integral_control {f : Density} (hf : FiniteEntropyDatum f) :
+    (∫ z, entropyMoment f z) ≤
+      (1+4*entropyMomentCoefficient)*relativeEntropy f+
+        4*entropyMomentCoefficient*(∫ z : Phase, entropyGaussian z.2)+
+          (∫ z : Phase, maxwellian z.2) := by
+  have hH := hf.integrable_relativeEntropy.congr (Filter.Eventually.of_forall (fun z =>
+    (scalarRelativeEntropy_eq (maxwellian_pos z.2) _).symm))
+  have hG : Integrable (fun z : Phase => entropyGaussian z.2) :=
+    entropyGaussian_integrable.comp_snd volume
+  have hi := ((hH.const_mul (1+4*entropyMomentCoefficient)).add
+    (hG.const_mul (4*entropyMomentCoefficient))).add integrable_maxwellian_phase
+  have hb := integral_mono_ae hf.2.2 hi (hf.1.mono (fun _ hu => entropyMoment_control hu))
+  simp only [Pi.add_apply] at hb
+  have hsum := integral_add ((hH.const_mul (1+4*entropyMomentCoefficient)).add
+    (hG.const_mul (4*entropyMomentCoefficient))) integrable_maxwellian_phase
+  have hsum' := integral_add (hH.const_mul (1+4*entropyMomentCoefficient))
+    (hG.const_mul (4*entropyMomentCoefficient))
+  simp only [Pi.add_apply] at hsum hsum'
+  rw [hsum,hsum',integral_const_mul,integral_const_mul] at hb
+  have he : (∫ z, scalarRelativeEntropy (maxwellian z.2) (f z)) = relativeEntropy f :=
+    integral_congr_ae (Filter.Eventually.of_forall (fun z => scalarRelativeEntropy_eq (maxwellian_pos z.2) _))
+  rwa [he] at hb
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_BoundedEntropyProduction
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Bounded logarithmic tests recovering nonnegative relative entropy -/
+
+noncomputable section
+
+open Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness
+
+theorem boundedEntropyTest_bound (n : ℕ) (m u : ℝ) :
+    |boundedEntropyTest n m u| ≤ n := by
+  unfold boundedEntropyTest
+  split_ifs with h hlog
+  · simp
+  · exact hlog
+  · simp
+
+theorem entropyDual_boundedEntropyTest_nonneg (n : ℕ) {m u : ℝ}
+    (hm : 0 < m) (hu : 0 ≤ u) :
+    0 ≤ entropyDual m u (boundedEntropyTest n m u) := by
+  unfold boundedEntropyTest
+  split_ifs with hz hlog
+  · subst u
+    dsimp [entropyDual]
+    have he : Real.exp (-(n:ℝ)) ≤ 1 := Real.exp_le_one_iff.mpr (neg_nonpos.mpr (Nat.cast_nonneg n))
+    nlinarith
+  · rw [entropyDual_log_ratio hm (lt_of_le_of_ne hu (Ne.symm hz))]
+    exact scalarRelativeEntropy_nonneg hm hu
+  · simp [entropyDual]
+
+theorem entropyDual_boundedEntropyTest_tendsto {m u : ℝ}
+    (hm : 0 < m) (hu : 0 ≤ u) :
+    Tendsto (fun n : ℕ => entropyDual m u (boundedEntropyTest n m u)) atTop
+      (𝓝 (scalarRelativeEntropy m u)) := by
+  by_cases hz : u = 0
+  · subst u
+    simpa [boundedEntropyTest,scalarRelativeEntropy,Function.comp_def] using
+      (entropyDual_zero_tendsto m).comp tendsto_natCast_atTop_atTop
+  · have he : (fun n : ℕ => entropyDual m u (boundedEntropyTest n m u)) =ᶠ[atTop]
+        (fun _ => scalarRelativeEntropy m u) := by
+      filter_upwards [eventually_ge_atTop (Nat.ceil |Real.log (u/m)|)] with n hn
+      have hlog : |Real.log (u/m)| ≤ (n:ℝ) :=
+        (Nat.le_ceil _).trans (by exact_mod_cast hn)
+      simpa [boundedEntropyTest,hz,hlog] using
+        entropyDual_log_ratio hm (lt_of_le_of_ne hu (Ne.symm hz))
+    exact tendsto_const_nhds.congr' he.symm
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_EntropyRegularizationLimit
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Integrable bounded entropy tests on the phase and spacetime measures -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped Topology
+
+namespace BoltzmannNonuniqueness
+
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X}
+
+theorem measurable_boundedEntropyTest (n : ℕ) {m u : X → ℝ}
+    (hm : Measurable m) (hu : Measurable u) :
+    Measurable (fun x => boundedEntropyTest n (m x) (u x)) := by
+  have hlog := (hu.div hm).log
+  exact Measurable.ite (measurableSet_eq_fun hu measurable_const) measurable_const
+    (Measurable.ite (measurableSet_le hlog.abs measurable_const) hlog measurable_const)
+
+theorem measurable_entropyDual {m u s : X → ℝ}
+    (hm : Measurable m) (hu : Measurable u) (hs : Measurable s) :
+    Measurable (fun x => entropyDual (m x) (u x) (s x)) :=
+  (hu.mul hs).sub (hm.mul (hs.exp.sub measurable_const))
+
+theorem integrable_entropyDual {m u s : X → ℝ}
+    (hm : Integrable m μ) (hu : Integrable u μ) (hs : Measurable s)
+    {C : ℝ} (hC : ∀ x, |s x| ≤ C) :
+    Integrable (fun x => entropyDual (m x) (u x) (s x)) μ := by
+  have hfirst := hu.bdd_mul hs.aestronglyMeasurable (ae_of_all μ hC)
+  have hbound : ∀ x, |Real.exp (s x)-1| ≤ Real.exp C+1 := by
+    intro x
+    calc
+      |Real.exp (s x)-1| ≤ |Real.exp (s x)|+|1| := abs_sub _ _
+      _ = Real.exp (s x)+1 := by rw [abs_of_pos (Real.exp_pos _),abs_one]
+      _ ≤ Real.exp C+1 := add_le_add (Real.exp_le_exp.mpr ((le_abs_self _).trans (hC x))) le_rfl
+  have hsecond := hm.bdd_mul (hs.exp.sub measurable_const).aestronglyMeasurable
+    (ae_of_all μ hbound)
+  simpa only [entropyDual,mul_comm,Pi.sub_def,Pi.mul_def] using hfirst.sub hsecond
+
+end BoltzmannNonuniqueness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_VolterraFubini
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! # Triangular Fubini identity for measurable characteristic sources
+
+This elementary identity allows integration by parts against an integral
+primitive without assuming the collision source is continuous in time.
+-/
+
+noncomputable section
+
+open MeasureTheory Set
+
+namespace BoltzmannNonuniqueness.TransportPrimitive
+
+theorem integral_mul_primitive {a b : ℝ} (hab : a ≤ b) {h g : ℝ → ℝ}
+    (hh : IntervalIntegrable h volume a b) (hg : IntervalIntegrable g volume a b) :
+    (∫ s in a..b, h s * (∫ t in a..s, g t)) =
+      ∫ t in a..b, (∫ s in t..b, h s) * g t := by
+  let ν : Measure ℝ := volume.restrict (Ioc a b)
+  have hh' : Integrable h ν := (intervalIntegrable_iff_integrableOn_Ioc_of_le hab).mp hh
+  have hg' : Integrable g ν := (intervalIntegrable_iff_integrableOn_Ioc_of_le hab).mp hg
+  let k : ℝ → ℝ → ℝ := fun s t => if t ≤ s then h s * g t else 0
+  have hk : Integrable (Function.uncurry k) (ν.prod ν) := by
+    have he : Function.uncurry k = {z : ℝ × ℝ | z.2 ≤ z.1}.indicator
+        (fun z => h z.1 * g z.2) := rfl
+    rw [he]
+    exact (hh'.mul_prod hg').indicator (measurableSet_le measurable_snd measurable_fst)
+  have hleft (s : ℝ) (hs : s ∈ Ioc a b) :
+      (∫ t, k s t ∂ν) = h s * (∫ t in a..s, g t) := by
+    have he : (fun t => k s t) = (Iic s).indicator (fun t => h s * g t) := rfl
+    rw [he, integral_indicator measurableSet_Iic, Measure.restrict_restrict measurableSet_Iic]
+    have hset : Iic s ∩ Ioc a b = Ioc a s := by
+      ext t
+      simp only [mem_inter_iff, mem_Iic, mem_Ioc]
+      constructor
+      · rintro ⟨ht,ha,_⟩; exact ⟨ha,ht⟩
+      · rintro ⟨ha,ht⟩; exact ⟨ht,ha,ht.trans hs.2⟩
+    rw [hset, integral_const_mul, intervalIntegral.integral_of_le hs.1.le]
+  have hright (t : ℝ) (ht : t ∈ Ioc a b) :
+      (∫ s, k s t ∂ν) = (∫ s in t..b, h s) * g t := by
+    have he : (fun s => k s t) = (Ici t).indicator (fun s => h s * g t) := rfl
+    rw [he, integral_indicator measurableSet_Ici, Measure.restrict_restrict measurableSet_Ici]
+    have hset : Ici t ∩ Ioc a b = Icc t b := by
+      ext s
+      simp only [mem_inter_iff, mem_Ici, mem_Ioc, mem_Icc]
+      constructor
+      · rintro ⟨ht,_,hb⟩; exact ⟨ht,hb⟩
+      · rintro ⟨hs,hb⟩; exact ⟨hs,ht.1.trans_le hs,hb⟩
+    rw [hset, integral_mul_const, integral_Icc_eq_integral_Ioc,
+      intervalIntegral.integral_of_le ht.2]
+  rw [intervalIntegral.integral_of_le hab, intervalIntegral.integral_of_le hab]
+  calc
+    _ = ∫ s, ∫ t, k s t ∂ν ∂ν := by
+      apply integral_congr_ae
+      filter_upwards [ae_restrict_mem measurableSet_Ioc] with s hs
+      exact (hleft s hs).symm
+    _ = ∫ t, ∫ s, k s t ∂ν ∂ν := integral_integral_swap hk
+    _ = _ := by
+      apply integral_congr_ae
+      filter_upwards [ae_restrict_mem measurableSet_Ioc] with t ht
+      exact hright t ht
+
+/-- Integration by parts with an integrable, possibly discontinuous source. -/
+theorem integral_deriv_mul_primitive {a b : ℝ} (hab : a ≤ b) {h h' g : ℝ → ℝ}
+    (hd : ∀ t ∈ Icc a b, HasDerivAt h (h' t) t)
+    (hh' : IntervalIntegrable h' volume a b) (hg : IntervalIntegrable g volume a b)
+    (hhg : IntervalIntegrable (fun t => h t*g t) volume a b) :
+    (∫ s in a..b, h' s * (∫ t in a..s, g t)) =
+      h b * (∫ t in a..b, g t) - ∫ t in a..b, h t*g t := by
+  rw [integral_mul_primitive hab hh' hg]
+  have he (t : ℝ) (ht : t ∈ Icc a b) : (∫ s in t..b, h' s) = h b-h t := by
+    apply intervalIntegral.integral_eq_sub_of_hasDerivAt
+    · intro s hs
+      rw [uIcc_of_le ht.2] at hs
+      exact hd s ⟨ht.1.trans hs.1,hs.2⟩
+    · exact hh'.mono_set (by
+        rw [uIcc_of_le ht.2, uIcc_of_le hab]
+        exact Icc_subset_Icc ht.1 le_rfl)
+  calc
+    _ = ∫ t in a..b, (h b-h t)*g t := by
+      apply intervalIntegral.integral_congr
+      intro t ht
+      rw [uIcc_of_le hab] at ht
+      change (∫ s in t..b, h' s) * g t = (h b-h t)*g t
+      rw [he t ht]
+    _ = _ := by
+      simp_rw [sub_mul]
+      rw [intervalIntegral.integral_sub (hg.const_mul _) hhg, intervalIntegral.integral_const_mul]
+
+end BoltzmannNonuniqueness.TransportPrimitive
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_DampedBranchingBlocks
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+attribute [local instance] OAI.circleMeasurableSpace OAI.circleBorelSpace
+
+namespace OAI
+
+section
+
+/-! # Weak calculus for the actual damped characteristic formula -/
+
+noncomputable section
+
+open MeasureTheory Set
+
+namespace BoltzmannNonuniqueness.TransportPrimitive
+
+theorem damped_eq (L c : ℝ) (g : ℝ → ℝ) (t : ℝ) :
+    damped L c g t = Real.exp (-L*t)*c +
+      ∫ r in 0..t, Real.exp (-L*(t-r))*g r := by
+  unfold damped
+  rw [mul_add, ← intervalIntegral.integral_const_mul]
+  congr 1
+  apply intervalIntegral.integral_congr
+  intro r _
+  dsimp
+  rw [← mul_assoc, ← Real.exp_add]
+  congr 2
+  ring
+
+theorem primitive_integration_by_parts {a b c : ℝ} (hab : a ≤ b) {h h' g : ℝ → ℝ}
+    (hd : ∀ t ∈ Icc a b, HasDerivAt h (h' t) t)
+    (hh' : IntervalIntegrable h' volume a b) (hg : IntervalIntegrable g volume a b)
+    (hh : ContinuousOn h (Icc a b)) :
+    (∫ t in a..b, h' t * (c + ∫ r in a..t, g r)) + (∫ t in a..b, h t*g t) =
+      h b*(c + ∫ r in a..b, g r) - h a*c := by
+  have hp := intervalIntegral.continuousOn_primitive_interval' hg (left_mem_uIcc : a ∈ uIcc a b)
+  have hhg := hg.continuousOn_mul (by simpa only [uIcc_of_le hab] using hh)
+  have hb := integral_deriv_mul_primitive hab hd hh' hg hhg
+  have hi := intervalIntegral.integral_eq_sub_of_hasDerivAt
+    (fun t ht => hd t (by simpa only [uIcc_of_le hab] using ht)) hh'
+  simp_rw [mul_add]
+  rw [intervalIntegral.integral_add (hh'.mul_const c) (hh'.mul_continuousOn hp),
+    intervalIntegral.integral_mul_const, hi, hb]
+  ring
+
+/-- Weak integration by parts for measurable characteristic forcing. -/
+theorem damped_integration_by_parts {T L c : ℝ} (hT : 0 ≤ T) {g ψ ψ' : ℝ → ℝ}
+    (hg : IntervalIntegrable g volume 0 T)
+    (hψ : ContinuousOn ψ (Icc 0 T)) (hψ' : ContinuousOn ψ' (Icc 0 T))
+    (hdψ : ∀ t ∈ Icc 0 T, HasDerivAt ψ (ψ' t) t) :
+    (∫ t in 0..T, ψ' t*damped L c g t + ψ t*(g t-L*damped L c g t)) =
+      ψ T*damped L c g T - ψ 0*c := by
+  let h : ℝ → ℝ := fun t => ψ t*Real.exp (-L*t)
+  let h' : ℝ → ℝ := fun t => (ψ' t-L*ψ t)*Real.exp (-L*t)
+  let G : ℝ → ℝ := fun t => Real.exp (L*t)*g t
+  have hd : ∀ t ∈ Icc 0 T, HasDerivAt h (h' t) t := by
+    intro t ht
+    have he : HasDerivAt (fun r : ℝ => Real.exp (-L*r))
+        (-L*Real.exp (-L*t)) t := by
+      simpa only [id_eq, neg_mul, mul_comm, mul_one] using ((hasDerivAt_id t).const_mul (-L)).exp
+    convert (hdψ t ht).mul he using 1
+    all_goals try with_reducible_and_instances rfl
+    dsimp [h,h']
+    ring
+  have hc : ContinuousOn h (Icc 0 T) := hψ.mul (by fun_prop)
+  have hc' : ContinuousOn h' (Icc 0 T) := (hψ'.sub (hψ.const_mul L)).mul (by fun_prop)
+  have hGi : IntervalIntegrable G volume 0 T :=
+    hg.continuousOn_mul (by fun_prop)
+  have hh'i : IntervalIntegrable h' volume 0 T :=
+    (hc'.mono (by rw [uIcc_of_le hT])).intervalIntegrable
+  have H := primitive_integration_by_parts (c := c) hT hd hh'i hGi hc
+  have he (t : ℝ) : Real.exp (-L*t)*Real.exp (L*t) = 1 := by
+    rw [← Real.exp_add]
+    simp only [neg_mul, neg_add_cancel, Real.exp_zero]
+  have hfirst (t : ℝ) : h' t*(c+∫ r in 0..t, G r) =
+      ψ' t*damped L c g t - L*ψ t*damped L c g t := by
+    dsimp [h',damped,G]
+    ring
+  have hsecond (t : ℝ) : h t*G t = ψ t*g t := by
+    dsimp [h,G]
+    calc
+      _ = ψ t*(Real.exp (-L*t)*Real.exp (L*t))*g t := by ring
+      _ = _ := by rw [he]; ring
+  have h3i : IntervalIntegrable (fun t => h' t*(c+∫ r in 0..t,G r)) volume 0 T := by
+    apply hh'i.mul_continuousOn
+    exact continuousOn_const.add (intervalIntegral.continuousOn_primitive_interval' hGi left_mem_uIcc)
+  have h4i : IntervalIntegrable (fun t => h t*G t) volume 0 T :=
+    hGi.continuousOn_mul (by simpa only [uIcc_of_le hT] using hc)
+  rw [← intervalIntegral.integral_add h3i h4i] at H
+  have heq : (∫ t in 0..T, ψ' t*damped L c g t + ψ t*(g t-L*damped L c g t)) =
+      ∫ t in 0..T, h' t*(c+∫ r in 0..t,G r) + h t*G t := by
+    apply intervalIntegral.integral_congr
+    intro t _
+    dsimp only
+    rw [hfirst,hsecond]
+    ring
+  rw [heq,H]
+  dsimp [h,damped,G]
+  simp only [mul_zero, neg_mul, Real.exp_zero, mul_one]
+  ring
+
+end BoltzmannNonuniqueness.TransportPrimitive
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Collision_GaussianLocalExistence
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A finite time measure equivalent to Lebesgue measure on every time window -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem timeWeight_measurable : Measurable timeWeight := by unfold timeWeight; fun_prop
+
+theorem windowInverseWeight_measurable (T : ℝ) : Measurable (windowInverseWeight T) :=
+  (by fun_prop : Measurable (fun t : ℝ => Real.exp (t^2))).indicator measurableSet_Icc
+
+theorem windowInverseWeight_nonneg (T t : ℝ) : 0 ≤ windowInverseWeight T t := by
+  exact indicator_nonneg (fun t _ => (Real.exp_pos (t^2)).le) t
+
+theorem windowInverseWeight_bound {T : ℝ} (hT : 0 ≤ T) (t : ℝ) :
+    |windowInverseWeight T t| ≤ Real.exp (T^2) := by
+  rw [abs_of_nonneg (windowInverseWeight_nonneg T t)]
+  by_cases ht : t ∈ Icc 0 T
+  · simp only [windowInverseWeight,indicator_of_mem ht]
+    apply Real.exp_le_exp.mpr
+    nlinarith [ht.1,ht.2]
+  · simp only [windowInverseWeight,indicator_of_notMem ht]
+    exact (Real.exp_pos _).le
+
+theorem finiteTimeMeasure_reweight (T : ℝ) :
+    finiteTimeMeasure.withDensity (fun t => ENNReal.ofReal (windowInverseWeight T t)) =
+      volume.restrict (Icc 0 T) := by
+  rw [finiteTimeMeasure,← withDensity_mul _ timeWeight_measurable.ennreal_ofReal
+    (windowInverseWeight_measurable T).ennreal_ofReal]
+  have he : (fun t => ENNReal.ofReal (timeWeight t) *
+      ENNReal.ofReal (windowInverseWeight T t)) = (Icc 0 T).indicator (fun _ => 1) := by
+    funext t
+    by_cases ht : t ∈ Icc 0 T
+    · simp only [windowInverseWeight,indicator_of_mem ht,timeWeight]
+      rw [← ENNReal.ofReal_mul (Real.exp_pos _).le,← Real.exp_add]
+      simp
+    · simp [windowInverseWeight,ht]
+  change volume.withDensity (fun t => ENNReal.ofReal (timeWeight t) *
+    ENNReal.ofReal (windowInverseWeight T t)) = _
+  rw [he]
+  exact withDensity_indicator_one measurableSet_Icc
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_WeightedHotRegularity
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Vanishing weighted variance gives strong L1 convergence -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+
+lemma abs_le_mass_add_variance {u r δ : ℝ} (hr : 0 < r) (hδ : 0 < δ) :
+    |u| ≤ δ*r+(u^2/r)/δ := by
+  have hpos : 0 < δ*r := mul_pos hδ hr
+  have hnum : |u| *(δ*r) ≤ (δ*r)^2+u^2 := by
+    nlinarith [sq_nonneg (|u|-δ*r),sq_abs u,sq_nonneg u]
+  calc
+    |u| ≤ ((δ*r)^2+u^2)/(δ*r) := (le_div_iff₀ hpos).mpr hnum
+    _ = δ*r+(u^2/r)/δ := by field_simp
+
+theorem strongL1_of_weighted_variance
+    {X : Type*} [MeasurableSpace X] {μ : Measure X}
+    {u r : ℕ → X → ℝ} {B : ℝ} (hB : 0 < B)
+    (hui : ∀ n, Integrable (u n) μ) (hri : ∀ n, Integrable (r n) μ)
+    (hr : ∀ n x, 0 < r n x) (hbound : ∀ n, (∫ x, r n x ∂μ) ≤ B)
+    (hvi : ∀ n, Integrable (fun x => (u n x)^2/r n x) μ)
+    (hv : Tendsto (fun n => ∫ x, (u n x)^2/r n x ∂μ) atTop (𝓝 0)) :
+    Tendsto (fun n => eLpNorm (u n) 1 μ) atTop (𝓝 0) := by
+  have habs : Tendsto (fun n => ∫ x, |u n x| ∂μ) atTop (𝓝 0) := by
+    apply tendsto_order.mpr
+    constructor
+    · intro a ha
+      exact Eventually.of_forall (fun n => ha.trans_le (integral_nonneg (fun x => abs_nonneg (u n x))))
+    · intro ε hε
+      let δ := ε/(2*B)
+      have hδ : 0 < δ := div_pos hε (mul_pos (by norm_num) hB)
+      have ht : Tendsto (fun n => (∫ x, (u n x)^2/r n x ∂μ)/δ) atTop (𝓝 0) := by
+        simpa only [zero_div] using hv.div_const δ
+      filter_upwards [ht.eventually (gt_mem_nhds (show (0:ℝ) < ε/2 by positivity))] with n hn
+      have he : (∫ x, |u n x| ∂μ) ≤ δ*(∫ x, r n x ∂μ)+
+          (∫ x, (u n x)^2/r n x ∂μ)/δ := by
+        have hh := integral_mono (hui n).abs ((hri n).const_mul δ |>.add ((hvi n).div_const δ))
+          (fun x => abs_le_mass_add_variance (hr n x) hδ)
+        simp only [Pi.add_apply] at hh
+        rw [integral_add ((hri n).const_mul δ) ((hvi n).div_const δ),
+          integral_const_mul,integral_div] at hh
+        exact hh
+      have hδB : δ*B = ε/2 := by dsimp only [δ]; field_simp
+      have hb := mul_le_mul_of_nonneg_left (hbound n) hδ.le
+      linarith
+  have he n : eLpNorm (u n) 1 μ = ENNReal.ofReal (∫ x, |u n x| ∂μ) := by
+    rw [eLpNorm_one_eq_lintegral_enorm,
+      ← ofReal_integral_norm_eq_lintegral_enorm (hui n)]
+    simp only [Real.norm_eq_abs]
+  simpa only [he,ENNReal.ofReal_zero] using ENNReal.tendsto_ofReal habs
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Weak first and second moments identify a vanishing weighted variance -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal NNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X}
+
+lemma weighted_variance_identity {a r b : ℝ} (hr : r ≠ 0) :
+    (a-r*b)^2/r = a^2/r-2*(b*a)+(b*b)*r := by
+  field_simp
+  ring
+
+theorem weighted_variance_moments
+    {a r : ℕ → X → ℝ} {A R b : X → ℝ}
+    (ha : Published.WeakL1Converges μ a A) (hr : Published.WeakL1Converges μ r R)
+    (hai : ∀ n, Integrable (a n) μ) (hri : ∀ n, Integrable (r n) μ)
+    (hrp : ∀ n x, 0 < r n x)
+    (hsi : ∀ n, Integrable (fun x => (a n x)^2/r n x) μ)
+    (hbm : Measurable b) (C : ℝ≥0) (hb : ∀ x, |b x| ≤ C)
+    (hA : A =ᵐ[μ] fun x => R x*b x)
+    (hsecond : Tendsto (fun n => ∫ x, (a n x)^2/r n x ∂μ)
+      atTop (𝓝 (∫ x, (b x*b x)*R x ∂μ))) :
+    (∀ n, Integrable (fun x => (a n x-r n x*b x)^2/r n x) μ) ∧
+    Tendsto (fun n => ∫ x, (a n x-r n x*b x)^2/r n x ∂μ) atTop (𝓝 0) := by
+  have hbb x : |b x*b x| ≤ (C:ℝ)*C := by
+    rw [abs_mul]
+    exact mul_le_mul (hb x) (hb x) (abs_nonneg _) C.coe_nonneg
+  have hcross n : Integrable (fun x => b x*a n x) μ :=
+    (hai n).bdd_mul hbm.aestronglyMeasurable (ae_of_all _ hb)
+  have hlast n : Integrable (fun x => (b x*b x)*r n x) μ :=
+    (hri n).bdd_mul (hbm.mul hbm).aestronglyMeasurable (ae_of_all _ hbb)
+  have he n : (fun x => (a n x-r n x*b x)^2/r n x) =
+      (fun x => (a n x)^2/r n x)- (fun x => 2*(b x*a n x))+
+        (fun x => (b x*b x)*r n x) := by
+    funext x
+    exact weighted_variance_identity (hrp n x).ne'
+  have hv n : Integrable (fun x => (a n x-r n x*b x)^2/r n x) μ := by
+    rw [he]
+    exact ((hsi n).sub ((hcross n).const_mul 2)).add (hlast n)
+  have hei n : (∫ x, (a n x-r n x*b x)^2/r n x ∂μ) =
+      (∫ x, (a n x)^2/r n x ∂μ)-2*(∫ x, b x*a n x ∂μ)+
+        (∫ x, (b x*b x)*r n x ∂μ) := by
+    rw [he]
+    have heq := integral_add ((hsi n).sub ((hcross n).const_mul 2)) (hlast n)
+    simp only [Pi.sub_apply] at heq
+    rw [integral_sub (hsi n) ((hcross n).const_mul 2),integral_const_mul] at heq
+    exact heq
+  have hlim := (hsecond.sub ((ha.2.2 b hbm ⟨C,hb⟩).const_mul 2)).add
+    (hr.2.2 (fun x => b x*b x) (hbm.mul hbm) ⟨(C:ℝ)*C,hbb⟩)
+  have hz : (∫ x, b x*A x ∂μ) = ∫ x, (b x*b x)*R x ∂μ := by
+    apply integral_congr_ae
+    filter_upwards [hA] with x hx
+    rw [hx]
+    ring
+  rw [hz,show (∫ x, (b x*b x)*R x ∂μ)-2*(∫ x, (b x*b x)*R x ∂μ)+
+    (∫ x, (b x*b x)*R x ∂μ) = 0 by ring] at hlim
+  exact ⟨hv,by simpa only [hei] using hlim⟩
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Strong first moments from matched weighted second moments -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal NNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X}
+
+theorem weighted_moments_strong
+    {a r : ℕ → X → ℝ} {A R b : X → ℝ}
+    (ha : Published.WeakL1Converges μ a A) (hr : Published.WeakL1Converges μ r R)
+    (hai : ∀ n, Integrable (a n) μ) (hri : ∀ n, Integrable (r n) μ)
+    (hrp : ∀ n x, 0 < r n x) {B : ℝ} (hB : 0 < B)
+    (hbound : ∀ n, (∫ x, r n x ∂μ) ≤ B)
+    (hsi : ∀ n, Integrable (fun x => (a n x)^2/r n x) μ)
+    (hbm : Measurable b) (C : ℝ≥0) (hb : ∀ x, |b x| ≤ C)
+    (hA : A =ᵐ[μ] fun x => R x*b x)
+    (hsecond : Tendsto (fun n => ∫ x, (a n x)^2/r n x ∂μ)
+      atTop (𝓝 (∫ x, (b x*b x)*R x ∂μ)))
+    (hstrong : Tendsto (fun n => eLpNorm (fun x => r n x-R x) 1 μ) atTop (𝓝 0)) :
+    Tendsto (fun n => eLpNorm (fun x => a n x-A x) 1 μ) atTop (𝓝 0) := by
+  obtain ⟨hvi,hv⟩ := weighted_variance_moments ha hr hai hri hrp hsi hbm C hb hA hsecond
+  have hmul n : Integrable (fun x => r n x*b x) μ := by
+    simpa only [mul_comm] using (hri n).bdd_mul hbm.aestronglyMeasurable (ae_of_all _ hb)
+  have hui n : Integrable (fun x => a n x-r n x*b x) μ := (hai n).sub (hmul n)
+  have hu := strongL1_of_weighted_variance hB hui hri hrp hbound hvi hv
+  have he := tendsto_L1_bounded_mul_zero
+    (fun n => ((hri n).sub hr.2.1).aestronglyMeasurable)
+    (fun _ => hbm.aestronglyMeasurable) hstrong C.coe_nonneg
+    (Eventually.of_forall (fun _ => ae_of_all μ hb))
+  have ht := hu.add he
+  simp only [add_zero] at ht
+  apply tendsto_of_tendsto_of_tendsto_of_le_of_le tendsto_const_nhds ht (fun _ => zero_le)
+  intro n
+  have hid : (fun x => a n x-A x) =ᵐ[μ]
+      (fun x => (a n x-r n x*b x)+b x*(r n x-R x)) := by
+    filter_upwards [hA] with x hx
+    rw [hx]
+    ring
+  change eLpNorm (fun x => a n x-A x) 1 μ ≤
+    eLpNorm (fun x => a n x-r n x*b x) 1 μ+eLpNorm (fun x => b x*(r n x-R x)) 1 μ
+  rw [eLpNorm_congr_ae hid]
+  exact eLpNorm_add_le (hf := (hai n).1.sub ((hri n).1.mul hbm.aestronglyMeasurable))
+    (hg := hbm.aestronglyMeasurable.mul ((hri n).1.sub hr.1.aestronglyMeasurable)) (by norm_num)
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PeriodicMildApproximation
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A bounded collision window preserving the elastic symmetries -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open CollisionCompactness
+variable {X : Type*} [MeasurableSpace X]
+
+theorem windowKernel_particleSwap (N : ℝ) (z : (X × (Velocity × Velocity)) × Sphere) :
+    windowKernel N (particleSwap z) = windowKernel N z := by
+  have hw : particleSwap z ∈ collisionWindow N ↔ z ∈ collisionWindow N := by
+    change (‖z.1.2.2‖^2+‖z.1.2.1‖^2 ≤ N^2) ↔ _
+    rw [add_comm]
+    rfl
+  have hk : collisionKernel z.1.2.2 z.1.2.1 z.2 = collisionKernel z.1.2.1 z.1.2.2 z.2 := by
+    unfold collisionKernel normalComponent
+    rw [show z.1.2.2-z.1.2.1 = -(z.1.2.1-z.1.2.2) by abel,inner_neg_left,abs_neg]
+  by_cases hz : z ∈ collisionWindow N
+  · rw [windowKernel,indicator_of_mem (hw.mpr hz),windowKernel,indicator_of_mem hz]
+    exact hk
+  · rw [windowKernel,indicator_of_notMem (fun h => hz (hw.mp h)),
+      windowKernel,indicator_of_notMem hz]
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # A symmetric bounded-rate approximation for global periodic construction -/
+noncomputable section
+open Filter
+open scoped Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem pairRate_eq (N a b c d : ℝ) :
+    pairRate N a b c d = N^2*a*b/(N+rateSum a b c d)^2 := by unfold pairRate; simp only [div_eq_mul_inv, ← inv_pow] <;> ring
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Actual symmetric regularized hard-sphere collision rates -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open CollisionCompactness
+variable {X : Type*} [MeasurableSpace X]
+
+omit [MeasurableSpace X] in
+theorem regularizedPostRate_scatter (N : ℝ) (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    regularizedPostRate N f (scatterTriple z) = regularizedPreRate N f z := by
+  unfold regularizedPostRate
+  rw [scatterTriple_involutive]
+
+theorem regularizedPreRate_particleSwap (N : ℝ) (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    regularizedPreRate N f (particleSwap z) = regularizedPreRate N f z := by
+  unfold regularizedPreRate
+  rw [windowKernel_particleSwap]
+  change windowKernel N z * pairRate N (f (z.1.1,z.1.2.2)) (f (z.1.1,z.1.2.1))
+    (f (z.1.1,scatterLeft z.1.2.2 z.1.2.1 z.2))
+    (f (z.1.1,scatterRight z.1.2.2 z.1.2.1 z.2)) = _
+  rw [scatterLeft_swap z.1.2.2 z.1.2.1 z.2,scatterRight_swap z.1.2.2 z.1.2.1 z.2]
+  congr 1
+  unfold pairRate rateSum
+  ring
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Uniform compact-velocity logarithmic bounds for positive regularization -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem maxwellian_le_center (v : Velocity) : maxwellian v ≤ maxwellian 0 := by
+  have h0 : maxwellian 0 = (2*Real.pi)^(-(3/2:ℝ)) := by norm_num [maxwellian]
+  rw [h0]
+  have he : Real.exp (-‖v‖^2/2) ≤ 1 := Real.exp_le_one_iff.mpr (by nlinarith [sq_nonneg ‖v‖])
+  exact (mul_le_mul_of_nonneg_left he (by positivity)).trans_eq (mul_one _)
+
+theorem maxwellian_lower_on_ball {N : ℝ} (hN : 0 ≤ N) (v : Velocity) (hv : ‖v‖ ≤ N) :
+    maxwellian 0*Real.exp (-N^2/2) ≤ maxwellian v := by
+  have h0 : maxwellian 0 = (2*Real.pi)^(-(3/2:ℝ)) := by norm_num [maxwellian]
+  rw [h0]
+  unfold maxwellian
+  apply mul_le_mul_of_nonneg_left _ (by positivity)
+  apply Real.exp_le_exp.mpr
+  have hs := (sq_le_sq₀ (norm_nonneg _) hN).mpr hv
+  linarith
+
+theorem log_regularization_bound {N B δ a : ℝ} (hN : 0 ≤ N) (hB : 0 ≤ B)
+    (hδ : 0 < δ) (hδ1 : δ ≤ 1) (ha : 0 ≤ a) (haB : a ≤ B)
+    (v : Velocity) (hv : ‖v‖ ≤ N) :
+    |Real.log ((a+δ*maxwellian v)/maxwellian v)| ≤
+      |Real.log δ|+logRegularizationConstant N B := by
+  have hm := maxwellian_pos v
+  have hm0 : 0 < maxwellian 0*Real.exp (-N^2/2) :=
+    mul_pos (maxwellian_pos 0) (Real.exp_pos _)
+  have hl := maxwellian_lower_on_ball hN v hv
+  have hu : 0 < B/(maxwellian 0*Real.exp (-N^2/2))+1 := by positivity
+  have hlo : δ ≤ (a+δ*maxwellian v)/maxwellian v := by
+    rw [le_div_iff₀ hm]
+    linarith
+  have hhi : (a+δ*maxwellian v)/maxwellian v ≤
+      B/(maxwellian 0*Real.exp (-N^2/2))+1 := by
+    calc
+      _ = a/maxwellian v+δ := by field_simp
+      _ ≤ B/(maxwellian 0*Real.exp (-N^2/2))+1 :=
+        add_le_add (div_le_div₀ hB haB hm0 hl) hδ1
+  have hloglo := Real.log_le_log hδ hlo
+  have hloghi := Real.log_le_log (hδ.trans_le hlo) hhi
+  unfold logRegularizationConstant
+  apply abs_le.mpr
+  constructor
+  · linarith [neg_abs_le (Real.log δ),abs_nonneg (Real.log (B/(maxwellian 0*Real.exp (-N^2/2))+1))]
+  · linarith [le_abs_self (Real.log (B/(maxwellian 0*Real.exp (-N^2/2))+1)),abs_nonneg (Real.log δ)]
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Integral symmetries of the actual regularized collision rates -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open CollisionCompactness
+variable {X : Type*} [MeasurableSpace X]
+
+theorem regularizedPostRate_particleSwap (N : ℝ) (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    regularizedPostRate N f (particleSwap z) = regularizedPostRate N f z := by
+  unfold regularizedPostRate
+  rw [scatterTriple_particleSwap,regularizedPreRate_particleSwap]
+
+theorem integral_regularizedPreRate_swap (μ : Measure X) [SFinite μ] (N : ℝ)
+    (f ψ : X × Velocity → ℝ) :
+    (∫ z, ψ (z.1.1,z.1.2.1)*regularizedPreRate N f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) =
+    ∫ z, ψ (z.1.1,z.1.2.2)*regularizedPreRate N f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea := by
+  have h := (particleSwap_measurePreserving μ).integral_comp particleSwap.measurableEmbedding
+    (fun z => ψ (z.1.1,z.1.2.1)*regularizedPreRate N f z)
+  simp only [regularizedPreRate_particleSwap] at h
+  exact h.symm
+
+theorem integral_regularizedPostRate_swap (μ : Measure X) [SFinite μ] (N : ℝ)
+    (f ψ : X × Velocity → ℝ) :
+    (∫ z, ψ (z.1.1,z.1.2.1)*regularizedPostRate N f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) =
+    ∫ z, ψ (z.1.1,z.1.2.2)*regularizedPostRate N f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea := by
+  have h := (particleSwap_measurePreserving μ).integral_comp particleSwap.measurableEmbedding
+    (fun z => ψ (z.1.1,z.1.2.1)*regularizedPostRate N f z)
+  simp only [regularizedPostRate_particleSwap] at h
+  exact h.symm
+
+theorem integral_regularizedPostRate_scatter (μ : Measure X) [SFinite μ] (N : ℝ)
+    (f ψ : X × Velocity → ℝ) :
+    (∫ z, ψ (z.1.1,z.1.2.1)*regularizedPostRate N f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) =
+    ∫ z, ψ (z.1.1,scatterLeft z.1.2.1 z.1.2.2 z.2)*regularizedPreRate N f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea := by
+  have h := (scatterTriple_measurePreserving μ).integral_comp scatterTripleEquiv.measurableEmbedding
+    (fun z => ψ (z.1.1,z.1.2.1)*regularizedPostRate N f z)
+  simp only [regularizedPostRate_scatter] at h
+  exact h.symm
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PeriodicFiniteMild
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The common pre/post multiplier in the conservative approximation -/
+noncomputable section
+open Filter
+open scoped Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem attenuation_nonneg (N S : ℝ) : 0 ≤ attenuation N S :=
+  div_nonneg (sq_nonneg _) (sq_nonneg _)
+
+variable {X : Type*}
+
+theorem regularizedPreRate_factor (N : ℝ) (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    regularizedPreRate N f z = windowKernel N z*rateMultiplier N f z*
+      f (z.1.1,z.1.2.1)*f (z.1.1,z.1.2.2) := by
+  unfold regularizedPreRate
+  rw [pairRate_eq]
+  unfold rateMultiplier attenuation
+  ring
+
+theorem regularizedPostRate_factor (N : ℝ) (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    regularizedPostRate N f z = windowKernel N z*rateMultiplier N f z*
+      f (z.1.1,scatterLeft z.1.2.1 z.1.2.2 z.2)*
+      f (z.1.1,scatterRight z.1.2.1 z.1.2.2 z.2) := by
+  rw [regularizedPostRate_formula,pairRate_eq]
+  unfold rateMultiplier attenuation rateSum
+  ring
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Integrability of the bounded collision rates without a quadratic moment assumption -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open CollisionCompactness
+variable {X : Type*} [MeasurableSpace X]
+
+theorem pairBall_compact (N : ℝ) : IsCompact (pairBall N) :=
+  (isCompact_closedBall (0 : Velocity) N).prod (isCompact_closedBall (0 : Velocity) N)
+
+omit [MeasurableSpace X] in
+theorem regularizedPreRate_zero_of_outside {N : ℝ} (hN : 0 ≤ N)
+    (f : X × Velocity → ℝ) {z : (X × (Velocity × Velocity)) × Sphere}
+    (hz : z.1.2 ∉ pairBall N) : regularizedPreRate N f z = 0 := by
+  have hw : z ∉ collisionWindow N := by
+    intro h
+    have hb := collisionWindow_bounds hN h
+    apply hz
+    simpa only [pairBall,Set.mem_prod,Metric.mem_closedBall,dist_zero_right] using hb
+  simp only [regularizedPreRate,windowKernel,indicator_of_notMem hw,zero_mul]
+
+theorem regularizedPreRate_integrable {N : ℝ} (hN : 0 < N) {μ : Measure X} [IsFiniteMeasure μ]
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) :
+    Integrable (regularizedPreRate N f) ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  have hi : Integrable ((pairBall N).indicator (fun _ : Velocity × Velocity => 2*N^3))
+      (volume : Measure (Velocity × Velocity)) :=
+    (integrableOn_const (pairBall_compact N).measure_lt_top.ne).integrable_indicator
+      (pairBall_compact N).measurableSet
+  have hh := (hi.comp_snd μ).comp_fst sphereArea
+  apply hh.mono' (regularizedPreRate_measurable N hfm).aestronglyMeasurable
+  filter_upwards [] with z
+  change ‖regularizedPreRate N f z‖ ≤ (pairBall N).indicator (fun _ => 2*N^3) z.1.2
+  by_cases hz : z.1.2 ∈ pairBall N
+  · rw [indicator_of_mem hz,Real.norm_of_nonneg (regularizedPreRate_bounds hN hf z).1]
+    exact (regularizedPreRate_bounds hN hf z).2
+  · rw [regularizedPreRate_zero_of_outside hN.le f hz,indicator_of_notMem hz,norm_zero]
+
+theorem regularizedPostRate_integrable {N : ℝ} (hN : 0 < N) {μ : Measure X} [IsFiniteMeasure μ]
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) :
+    Integrable (regularizedPostRate N f) ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) :=
+  (scatterTriple_measurePreserving μ).integrable_comp_of_integrable
+    (regularizedPreRate_integrable hN hfm hf)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Compact velocity tests of the approximate collision rates are integrable -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X]
+
+theorem regularizedPreRate_test_integrable {N C : ℝ} (hN : 0 < N)
+    {μ : Measure X} [IsFiniteMeasure μ] {f ψ : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hψm : Measurable ψ)
+    (hψ : ∀ p, ‖p.2‖ ≤ N → |ψ p| ≤ C) :
+    Integrable (fun z => ψ (z.1.1,z.1.2.1)*regularizedPreRate N f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  have hi := (regularizedPreRate_integrable (μ := μ) hN hfm hf).norm.const_mul C
+  apply hi.mono'
+    ((hψm.comp (measurable_fst.fst.prodMk measurable_fst.snd.fst)).mul
+      (regularizedPreRate_measurable N hfm)).aestronglyMeasurable
+  filter_upwards [] with z
+  change ‖ψ (z.1.1,z.1.2.1)*regularizedPreRate N f z‖ ≤ C*‖regularizedPreRate N f z‖
+  by_cases hz : N < ‖z.1.2.1‖
+  · rw [regularizedPreRate_zero_of_velocity hN.le f z hz,mul_zero,norm_zero,mul_zero]
+  · rw [norm_mul,Real.norm_eq_abs (ψ _)]
+    exact mul_le_mul_of_nonneg_right (hψ _ (le_of_not_gt hz)) (norm_nonneg _)
+
+theorem regularizedPostRate_test_integrable {N C : ℝ} (hN : 0 < N)
+    {μ : Measure X} [IsFiniteMeasure μ] {f ψ : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hψm : Measurable ψ)
+    (hψ : ∀ p, ‖p.2‖ ≤ N → |ψ p| ≤ C) :
+    Integrable (fun z => ψ (z.1.1,z.1.2.1)*regularizedPostRate N f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  have hi := (regularizedPostRate_integrable (μ := μ) hN hfm hf).norm.const_mul C
+  apply hi.mono'
+    ((hψm.comp (measurable_fst.fst.prodMk measurable_fst.snd.fst)).mul
+      (regularizedPostRate_measurable N hfm)).aestronglyMeasurable
+  filter_upwards [] with z
+  change ‖ψ (z.1.1,z.1.2.1)*regularizedPostRate N f z‖ ≤ C*‖regularizedPostRate N f z‖
+  by_cases hz : N < ‖z.1.2.1‖
+  · rw [regularizedPostRate_zero_of_velocity hN.le f z hz,mul_zero,norm_zero,mul_zero]
+  · rw [norm_mul,Real.norm_eq_abs (ψ _)]
+    exact mul_le_mul_of_nonneg_right (hψ _ (le_of_not_gt hz)) (norm_nonneg _)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # The finite partner integral equals the full physical collision integral -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open CollisionCompactness
+variable {X : Type*} [MeasurableSpace X]
+
+theorem regularizedPreRate_zero_of_partner {N : ℝ} (hN : 0 ≤ N) (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) (hz : N < ‖z.1.2.2‖) :
+    regularizedPreRate N f z = 0 := by
+  rw [← regularizedPreRate_particleSwap N f z]
+  exact regularizedPreRate_zero_of_velocity hN f _ hz
+
+theorem regularizedPostRate_zero_of_partner {N : ℝ} (hN : 0 ≤ N) (f : X × Velocity → ℝ)
+    (z : (X × (Velocity × Velocity)) × Sphere) (hz : N < ‖z.1.2.2‖) :
+    regularizedPostRate N f z = 0 := by
+  rw [← regularizedPostRate_particleSwap N f z]
+  exact regularizedPostRate_zero_of_velocity hN f _ hz
+
+theorem fiberMeasure_eq_restrict (N : ℝ) : fiberMeasure N =
+    ((volume : Measure Velocity).prod sphereArea).restrict (Metric.closedBall 0 N ×ˢ Set.univ) := by
+  simpa only [fiberMeasure,Measure.restrict_univ] using
+    (Measure.prod_restrict (μ := (volume : Measure Velocity)) (ν := sphereArea)
+      (Metric.closedBall 0 N) Set.univ)
+
+theorem loss_eq_full_integral {N : ℝ} (hN : 0 ≤ N) (f : X × Velocity → ℝ) (p : X × Velocity) :
+    loss N f p = ∫ q, regularizedPreRate N f (collisionGrouping.symm (p,q))
+      ∂((volume : Measure Velocity).prod sphereArea) := by
+  rw [loss,fiberMeasure_eq_restrict,← integral_indicator (measurableSet_closedBall.prod MeasurableSet.univ)]
+  apply integral_congr_ae
+  filter_upwards [] with q
+  by_cases hq : q ∈ Metric.closedBall 0 N ×ˢ (Set.univ : Set Sphere)
+  · exact indicator_of_mem hq _
+  · rw [indicator_of_notMem hq]
+    symm
+    apply regularizedPreRate_zero_of_partner hN
+    change N < ‖q.1‖
+    simpa only [Set.mem_prod,Set.mem_univ,and_true,Metric.mem_closedBall,dist_zero_right,not_le] using hq
+
+theorem gain_eq_full_integral {N : ℝ} (hN : 0 ≤ N) (f : X × Velocity → ℝ) (p : X × Velocity) :
+    gain N f p = ∫ q, regularizedPostRate N f (collisionGrouping.symm (p,q))
+      ∂((volume : Measure Velocity).prod sphereArea) := by
+  rw [gain,fiberMeasure_eq_restrict,← integral_indicator (measurableSet_closedBall.prod MeasurableSet.univ)]
+  apply integral_congr_ae
+  filter_upwards [] with q
+  by_cases hq : q ∈ Metric.closedBall 0 N ×ˢ (Set.univ : Set Sphere)
+  · exact indicator_of_mem hq _
+  · rw [indicator_of_notMem hq]
+    symm
+    apply regularizedPostRate_zero_of_partner hN
+    change N < ‖q.1‖
+    simpa only [Set.mem_prod,Set.mem_univ,and_true,Metric.mem_closedBall,dist_zero_right,not_le] using hq
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # The conservative weak identity for the bounded-rate approximation -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open CollisionCompactness
+variable {X : Type*} [MeasurableSpace X]
+
+theorem integral_regularizedPostRate_scatter_right (μ : Measure X) [SFinite μ] (N : ℝ)
+    (f ψ : X × Velocity → ℝ) :
+    (∫ z, ψ (z.1.1,z.1.2.2)*regularizedPostRate N f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) =
+    ∫ z, ψ (z.1.1,scatterRight z.1.2.1 z.1.2.2 z.2)*regularizedPreRate N f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea := by
+  have h := (scatterTriple_measurePreserving μ).integral_comp scatterTripleEquiv.measurableEmbedding
+    (fun z => ψ (z.1.1,z.1.2.2)*regularizedPostRate N f z)
+  simp only [regularizedPostRate_scatter] at h
+  exact h.symm
+
+theorem regularized_weak_identity {μ : Measure X} [SFinite μ] (b : ℝ) (f ψ : X × Velocity → ℝ)
+    (hpre : Integrable (fun z => ψ (z.1.1,z.1.2.1)*regularizedPreRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea))
+    (hpost : Integrable (fun z => ψ (z.1.1,z.1.2.1)*regularizedPostRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea)) :
+    (∫ z, ψ (z.1.1,z.1.2.1)*regularizedPostRate b f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) -
+    (∫ z, ψ (z.1.1,z.1.2.1)*regularizedPreRate b f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) =
+    (1/2:ℝ) * ∫ z, collisionJump ψ z*regularizedPreRate b f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea := by
+  let ν := (μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea
+  have hr : Integrable (fun z => ψ (z.1.1,z.1.2.2)*regularizedPreRate b f z) ν := by
+    have h := (particleSwap_measurePreserving μ).integrable_comp_of_integrable hpre
+    simp only [Function.comp_def,regularizedPreRate_particleSwap] at h
+    exact h
+  have hrpost : Integrable (fun z => ψ (z.1.1,z.1.2.2)*regularizedPostRate b f z) ν := by
+    have h := (particleSwap_measurePreserving μ).integrable_comp_of_integrable hpost
+    simp only [Function.comp_def,regularizedPostRate_particleSwap] at h
+    exact h
+  have hl' : Integrable (fun z =>
+      ψ (z.1.1,scatterLeft z.1.2.1 z.1.2.2 z.2)*regularizedPreRate b f z) ν := by
+    have h := (scatterTriple_measurePreserving μ).integrable_comp_of_integrable hpost
+    simp only [Function.comp_def,regularizedPostRate_scatter] at h
+    exact h
+  have hr' : Integrable (fun z =>
+      ψ (z.1.1,scatterRight z.1.2.1 z.1.2.2 z.2)*regularizedPreRate b f z) ν := by
+    have h := (scatterTriple_measurePreserving μ).integrable_comp_of_integrable hrpost
+    simp only [Function.comp_def,regularizedPostRate_scatter] at h
+    exact h
+  have he : (fun z => collisionJump ψ z*regularizedPreRate b f z) =
+      (fun z => ψ (z.1.1,scatterLeft z.1.2.1 z.1.2.2 z.2)*regularizedPreRate b f z)+
+      (fun z => ψ (z.1.1,scatterRight z.1.2.1 z.1.2.2 z.2)*regularizedPreRate b f z)-
+      (fun z => ψ (z.1.1,z.1.2.1)*regularizedPreRate b f z)-
+      (fun z => ψ (z.1.1,z.1.2.2)*regularizedPreRate b f z) := by
+    funext z
+    dsimp [collisionJump]
+    ring
+  rw [he,integral_sub' ((hl'.add hr').sub hpre) hr,
+    integral_sub' (hl'.add hr') hpre,integral_add' hl' hr']
+  rw [← integral_regularizedPostRate_scatter,← integral_regularizedPostRate_scatter_right,
+    ← integral_regularizedPostRate_swap,← integral_regularizedPreRate_swap]
+  ring
+
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Mass, momentum, and energy for the actual bounded-rate collision operator -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open CollisionCompactness
+variable {X : Type*} [MeasurableSpace X]
+
+theorem regularized_test_marginals {N C : ℝ} (hN : 0 < N)
+    {μ : Measure X} [IsFiniteMeasure μ] {f ψ : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hψm : Measurable ψ)
+    (hψ : ∀ p, ‖p.2‖ ≤ N → |ψ p| ≤ C) :
+    Integrable (fun p => ψ p*gain N f p) (μ.prod volume) ∧
+    Integrable (fun p => ψ p*loss N f p) (μ.prod volume) ∧
+    (∫ p, ψ p*gain N f p ∂μ.prod volume) =
+      ∫ z, ψ (z.1.1,z.1.2.1)*regularizedPostRate N f z
+        ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea ∧
+    (∫ p, ψ p*loss N f p ∂μ.prod volume) =
+      ∫ z, ψ (z.1.1,z.1.2.1)*regularizedPreRate N f z
+        ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea := by
+  have hp := collision_test_marginal (regularizedPostRate N f) ψ
+    (regularizedPostRate_test_integrable (μ := μ) hN hfm hf hψm hψ)
+  have hl := collision_test_marginal (regularizedPreRate N f) ψ
+    (regularizedPreRate_test_integrable (μ := μ) hN hfm hf hψm hψ)
+  simp only [← gain_eq_full_integral hN.le f] at hp
+  simp only [← loss_eq_full_integral hN.le f] at hl
+  exact ⟨hp.1,hl.1,hp.2,hl.2⟩
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Symmetric collision production and its entropy sign -/
+
+noncomputable section
+
+open MeasureTheory
+
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open CollisionCompactness
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem integral_jump_post (μ : Measure X) [SFinite μ] (b : ℝ)
+    (f ψ : X × Velocity → ℝ) :
+    (∫ z, collisionJump ψ z*regularizedPostRate b f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) =
+    -(∫ z, collisionJump ψ z*regularizedPreRate b f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  have h := (scatterTriple_measurePreserving μ).integral_comp scatterTripleEquiv.measurableEmbedding
+    (fun z => collisionJump ψ z*regularizedPostRate b f z)
+  simp only [collisionJump_scatter,regularizedPostRate_scatter,neg_mul,integral_neg] at h
+  exact h.symm
+
+theorem collisionJump_integrable {μ : Measure X} [SFinite μ] (b : ℝ)
+    (f ψ : X × Velocity → ℝ)
+    (hpre : Integrable (fun z => ψ (z.1.1,z.1.2.1)*regularizedPreRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea))
+    (hpost : Integrable (fun z => ψ (z.1.1,z.1.2.1)*regularizedPostRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea)) :
+    Integrable (fun z => collisionJump ψ z*regularizedPreRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) ∧
+    Integrable (fun z => collisionJump ψ z*regularizedPostRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+  have hr : Integrable (fun z => ψ (z.1.1,z.1.2.2)*regularizedPreRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+    have h := (particleSwap_measurePreserving μ).integrable_comp_of_integrable hpre
+    simp only [Function.comp_def,regularizedPreRate_particleSwap] at h
+    exact h
+  have hrpost : Integrable (fun z => ψ (z.1.1,z.1.2.2)*regularizedPostRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+    have h := (particleSwap_measurePreserving μ).integrable_comp_of_integrable hpost
+    simp only [Function.comp_def,regularizedPostRate_particleSwap] at h
+    exact h
+  have hl' : Integrable (fun z =>
+      ψ (z.1.1,scatterLeft z.1.2.1 z.1.2.2 z.2)*regularizedPreRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+    have h := (scatterTriple_measurePreserving μ).integrable_comp_of_integrable hpost
+    simp only [Function.comp_def,regularizedPostRate_scatter] at h
+    exact h
+  have hr' : Integrable (fun z =>
+      ψ (z.1.1,scatterRight z.1.2.1 z.1.2.2 z.2)*regularizedPreRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+    have h := (scatterTriple_measurePreserving μ).integrable_comp_of_integrable hrpost
+    simp only [Function.comp_def,regularizedPostRate_scatter] at h
+    exact h
+  have hp : Integrable (fun z => collisionJump ψ z*regularizedPreRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) := by
+    have h := ((hl'.add hr').sub hpre).sub hr
+    convert h using 1
+    all_goals try with_reducible_and_instances rfl
+    funext z
+    dsimp [collisionJump]
+    ring
+  refine ⟨hp,?_⟩
+  have ht := (scatterTriple_measurePreserving μ).integrable_comp_of_integrable hp
+  simp only [Function.comp_def,collisionJump_scatter,neg_mul] at ht
+  convert ht.neg using 1
+  all_goals try with_reducible_and_instances rfl
+  funext z
+  simp only [Pi.neg_apply,neg_neg]
+  rfl
+
+theorem regularized_production_identity {μ : Measure X} [SFinite μ] (b : ℝ)
+    (f ψ : X × Velocity → ℝ)
+    (hpre : Integrable (fun z => ψ (z.1.1,z.1.2.1)*regularizedPreRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea))
+    (hpost : Integrable (fun z => ψ (z.1.1,z.1.2.1)*regularizedPostRate b f z)
+      ((μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea))
+    :
+    (∫ z, ψ (z.1.1,z.1.2.1)*regularizedPostRate b f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) -
+    (∫ z, ψ (z.1.1,z.1.2.1)*regularizedPreRate b f z
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea) =
+    -(1/4:ℝ) * ∫ z, collisionJump ψ z*(regularizedPostRate b f z-regularizedPreRate b f z)
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea := by
+  obtain ⟨hjpre,hjpost⟩ := collisionJump_integrable b f ψ hpre hpost
+  simp_rw [mul_sub]
+  rw [integral_sub hjpost hjpre,integral_jump_post]
+  have h := regularized_weak_identity b f ψ hpre hpost
+  linarith
+
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Entropy sign for the symmetric bounded-rate collision operator -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open CollisionCompactness
+variable {X : Type*} [MeasurableSpace X]
+
+omit [MeasurableSpace X] in
+theorem regularized_entropy_production_nonneg (b : ℝ) (f : X × Velocity → ℝ) (hf : ∀ p, 0 < f p)
+    (z : (X × (Velocity × Velocity)) × Sphere) :
+    0 ≤ collisionJump (fun p => Real.log (f p)) z*
+      (regularizedPostRate b f z-regularizedPreRate b f z) := by
+  let A := f (z.1.1,scatterLeft z.1.2.1 z.1.2.2 z.2)*f (z.1.1,scatterRight z.1.2.1 z.1.2.2 z.2)
+  let B := f (z.1.1,z.1.2.1)*f (z.1.1,z.1.2.2)
+  have hA : 0 < A := mul_pos (hf _) (hf _)
+  have hB : 0 < B := mul_pos (hf _) (hf _)
+  have hsign : 0 ≤ (Real.log A-Real.log B)*(A-B) := by
+    by_cases hBA : B ≤ A
+    · exact mul_nonneg (sub_nonneg.mpr (Real.log_le_log hB hBA)) (sub_nonneg.mpr hBA)
+    · have hAB : A ≤ B := le_of_lt (lt_of_not_ge hBA)
+      exact mul_nonneg_of_nonpos_of_nonpos
+        (sub_nonpos.mpr (Real.log_le_log hA hAB)) (sub_nonpos.mpr hAB)
+  rw [collisionJump_log_density f hf,Real.log_div hA.ne' hB.ne']
+  rw [regularizedPostRate_factor,regularizedPreRate_factor]
+  have he : windowKernel b z*rateMultiplier b f z*
+      f (z.1.1,scatterLeft z.1.2.1 z.1.2.2 z.2)*
+      f (z.1.1,scatterRight z.1.2.1 z.1.2.2 z.2)-
+      windowKernel b z*rateMultiplier b f z*f (z.1.1,z.1.2.1)*f (z.1.1,z.1.2.2) =
+      (windowKernel b z*rateMultiplier b f z)*(A-B) := by dsimp [A,B] <;> ring
+  rw [he]
+  have hw : 0 ≤ windowKernel b z := by
+    by_cases hz : z ∈ collisionWindow b
+    · rw [windowKernel,Set.indicator_of_mem hz]
+      exact collisionKernel_nonneg _ _ _
+    · rw [windowKernel,Set.indicator_of_notMem hz]
+  have hk := mul_nonneg hw (attenuation_nonneg b
+    (rateSum (f (z.1.1,z.1.2.1)) (f (z.1.1,z.1.2.2))
+      (f (z.1.1,scatterLeft z.1.2.1 z.1.2.2 z.2))
+      (f (z.1.1,scatterRight z.1.2.1 z.1.2.2 z.2))))
+  change 0 ≤ windowKernel b z*rateMultiplier b f z at hk
+  convert mul_nonneg hk hsign using 1
+  all_goals try with_reducible_and_instances rfl
+  ring
+
+omit [MeasurableSpace X] in
+theorem regularized_relative_production_nonneg (N : ℝ) (f : X × Velocity → ℝ)
+    (hf : ∀ p, 0 < f p) (z : (X × (Velocity × Velocity)) × Sphere) :
+    0 ≤ collisionJump (fun p => Real.log (f p/maxwellian p.2)) z*
+      (regularizedPostRate N f z-regularizedPreRate N f z) := by
+  rw [collisionJump_log_relative f hf]
+  exact regularized_entropy_production_nonneg N f hf z
+
+theorem regularized_relative_entropy_nonpositive {μ : Measure X} [IsFiniteMeasure μ]
+    {N C : ℝ} (hN : 0 < N) {f : X × Velocity → ℝ} (hfm : Measurable f)
+    (hf : ∀ p, 0 < f p)
+    (hlog : ∀ p, ‖p.2‖ ≤ N → |Real.log (f p/maxwellian p.2)| ≤ C) :
+    (∫ p, Real.log (f p/maxwellian p.2)*gain N f p ∂μ.prod volume)-
+      (∫ p, Real.log (f p/maxwellian p.2)*loss N f p ∂μ.prod volume) ≤ 0 := by
+  have hψ : Measurable (fun p => Real.log (f p/maxwellian p.2)) := by
+    have hm : Measurable (fun p : X × Velocity => maxwellian p.2) := by
+      unfold maxwellian; fun_prop
+    exact (hfm.div hm).log
+  have hpre := regularizedPreRate_test_integrable (μ := μ) hN hfm
+    (fun p => (hf p).le) hψ hlog
+  have hpost := regularizedPostRate_test_integrable (μ := μ) hN hfm
+    (fun p => (hf p).le) hψ hlog
+  obtain ⟨_,_,hp,hl⟩ := regularized_test_marginals (μ := μ) hN hfm (fun p => (hf p).le) hψ hlog
+  rw [hp,hl,regularized_production_identity N f (fun p => Real.log (f p/maxwellian p.2)) hpre hpost]
+  have hn : 0 ≤ ∫ z, collisionJump (fun p => Real.log (f p/maxwellian p.2)) z*
+      (regularizedPostRate N f z-regularizedPreRate N f z)
+      ∂(μ.prod (volume : Measure (Velocity × Velocity))).prod sphereArea :=
+    MeasureTheory.integral_nonneg (regularized_relative_production_nonneg N f hf)
+  linarith
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # The bounded collision operator is stable under positive Gaussian shifts -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X]
+
+theorem gaussianShift_measurable (δ : ℝ) {f : X × Velocity → ℝ} (hf : Measurable f) :
+    Measurable (gaussianShift δ f) := by
+  have hm : Measurable (fun p : X × Velocity => maxwellian p.2) := by unfold maxwellian; fun_prop
+  exact hf.add (hm.const_mul δ)
+
+omit [MeasurableSpace X] in
+theorem gaussianShift_pos {δ : ℝ} (hδ : 0 < δ) {f : X × Velocity → ℝ}
+    (hf : ∀ p, 0 ≤ f p) (p : X × Velocity) : 0 < gaussianShift δ f p :=
+  add_pos_of_nonneg_of_pos (hf p) (mul_pos hδ (maxwellian_pos p.2))
+
+omit [MeasurableSpace X] in
+theorem gaussianShift_difference {δ : ℝ} (hδ : 0 ≤ δ) (f : X × Velocity → ℝ)
+    (p : X × Velocity) : |f p-gaussianShift δ f p| ≤ δ*maxwellian 0 := by
+  rw [gaussianShift,show f p-(f p+δ*maxwellian p.2) = -(δ*maxwellian p.2) by ring,
+    abs_neg,abs_of_nonneg (mul_nonneg hδ (maxwellian_pos _).le)]
+  exact mul_le_mul_of_nonneg_left (maxwellian_le_center p.2) hδ
+
+theorem collisionOperator_support {N : ℝ} (hN : 0 ≤ N) (f : X × Velocity → ℝ)
+    (p : X × Velocity) (hp : N < ‖p.2‖) : collisionOperator N f p = 0 := by
+  rw [collisionOperator,gain_zero_of_velocity hN f p hp,loss_zero_of_velocity hN f p hp,sub_self]
+
+theorem collisionOperator_gaussian_difference {N δ : ℝ} (hN : 0 < N) (hδ : 0 < δ)
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p)
+    (p : X × Velocity) :
+    |collisionOperator N f p-collisionOperator N (gaussianShift δ f) p| ≤
+      2*rateLipschitz N*δ*maxwellian 0 := by
+  have hg := gaussianShift_measurable δ hfm
+  have hgn := fun p => (gaussianShift_pos hδ hf p).le
+  have ha := gain_difference hN hfm hg hf hgn (gaussianShift_difference hδ.le f) p
+  have hb := loss_difference hN hfm hg hf hgn (gaussianShift_difference hδ.le f) p
+  calc
+    _ = |(gain N f p-gain N (gaussianShift δ f) p)-
+          (loss N f p-loss N (gaussianShift δ f) p)| := by unfold collisionOperator; congr 1; ring
+    _ ≤ |gain N f p-gain N (gaussianShift δ f) p|+
+          |loss N f p-loss N (gaussianShift δ f) p| := abs_sub _ _
+    _ ≤ _ := by linarith
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Integrable endpoint entropy and removal of positive regularization -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem regularizedEntropy_parameter_continuous :
+    Continuous (fun p : (ℝ × ℝ) × Velocity =>
+      regularizedEntropy (maxwellian p.2) (maxwellian p.2) p.1.1 p.1.2) := by
+  have hm : Continuous maxwellian := by unfold maxwellian; fun_prop
+  have hl : Continuous (fun p : (ℝ × ℝ) × Velocity => Real.log (maxwellian p.2)) :=
+    (hm.comp continuous_snd).log (fun p => (maxwellian_pos p.2).ne')
+  unfold regularizedEntropy scalarRelativeEntropy
+  fun_prop
+
+theorem regularizedEntropy_uniform_bound (N B : ℝ) :
+    ∃ C : ℝ, 0 ≤ C ∧ ∀ δ ∈ Icc (0:ℝ) 1, ∀ a ∈ Icc (0:ℝ) B, ∀ v : Velocity,
+      ‖v‖ ≤ N → |regularizedEntropy (maxwellian v) (maxwellian v) δ a| ≤ C := by
+  obtain ⟨C,hC⟩ := ((isCompact_Icc.prod isCompact_Icc).prod (isCompact_closedBall (0:Velocity) N)).exists_bound_of_continuousOn
+    regularizedEntropy_parameter_continuous.continuousOn
+  refine ⟨|C|,abs_nonneg _,?_⟩
+  intro δ hδ a ha v hv
+  have h := hC ((δ,a),v) ⟨⟨hδ,ha⟩,by simpa only [Metric.mem_closedBall,dist_zero_right] using hv⟩
+  have hb : |regularizedEntropy (maxwellian v) (maxwellian v) δ a| ≤ C := by
+    simpa only [Real.norm_eq_abs] using h
+  exact hb.trans (le_abs_self C)
+
+variable {X : Type*} [MeasurableSpace X]
+
+theorem scalarRelativeEntropy_measurable {m a : X → ℝ} (hm : Measurable m) (ha : Measurable a) :
+    Measurable (fun p => scalarRelativeEntropy (m p) (a p)) :=
+  ((Real.continuous_mul_log.measurable.comp ha).sub
+    (ha.mul (measurable_const.add hm.log))).add hm
+
+theorem regularizedEntropy_measurable (δ : ℝ) {f : X × Velocity → ℝ} (hfm : Measurable f) :
+    Measurable (fun p => regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f p)) := by
+  have hm : Measurable (fun p : X × Velocity => maxwellian p.2) := by unfold maxwellian; fun_prop
+  exact ((scalarRelativeEntropy_measurable hm (hfm.add (hm.const_mul δ))).sub
+    (scalarRelativeEntropy_measurable hm (hm.const_mul δ))).add hm
+
+theorem regularizedEntropy_integrable {μ : Measure X} [IsFiniteMeasure μ]
+    {N B δ : ℝ} (hδ : δ ∈ Icc (0:ℝ) 1) {f : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hfb : ∀ p, f p ≤ B)
+    (hfs : ∀ p, N < ‖p.2‖ → f p = 0) :
+    Integrable (fun p => regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f p))
+      (μ.prod volume) := by
+  obtain ⟨C,hC,hCb⟩ := regularizedEntropy_uniform_bound N B
+  have hm : Measurable (fun p : X × Velocity => maxwellian p.2) := by unfold maxwellian; fun_prop
+  have he : Integrable (fun p => regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f p)-maxwellian p.2)
+      (μ.prod volume) := by
+    apply bounded_velocity_integrable (N := N) ((regularizedEntropy_measurable δ hfm).sub hm)
+      (A := C+maxwellian 0)
+    · intro p
+      change |regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f p)-maxwellian p.2| ≤ C+maxwellian 0
+      by_cases hp : N < ‖p.2‖
+      · simp only [hfs p hp,regularizedEntropy,zero_add,sub_self,abs_zero]
+        exact add_nonneg hC (maxwellian_pos 0).le
+      · exact (abs_sub _ _).trans (add_le_add (hCb δ hδ (f p) ⟨hf p,hfb p⟩ p.2 (le_of_not_gt hp))
+          ((abs_of_pos (maxwellian_pos _)).trans_le (maxwellian_le_center _)))
+    · intro p hp
+      simp [hfs p hp,regularizedEntropy]
+  convert he.add (integrable_maxwellian.comp_snd μ) using 1
+  all_goals try with_reducible_and_instances rfl
+  funext p
+  simp only [Pi.add_apply,sub_add_cancel]
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Vanishing Gaussian error in the actual approximate entropy production -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X]
+
+theorem entropy_error_bound {N B δ : ℝ} (hN : 0 < N) (hB : 0 ≤ B)
+    (hδ : 0 < δ) (hδ1 : δ ≤ 1) {f : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hfb : ∀ p, f p ≤ B) (p : X × Velocity) :
+    |Real.log (gaussianShift δ f p/maxwellian p.2)*
+      (collisionOperator N f p-collisionOperator N (gaussianShift δ f) p)| ≤
+      (|Real.log δ|+logRegularizationConstant N B)*(2*rateLipschitz N*δ*maxwellian 0) := by
+  have hL : 0 ≤ rateLipschitz N := by unfold rateLipschitz; positivity
+  have hC : 0 ≤ logRegularizationConstant N B := abs_nonneg _
+  by_cases hp : N < ‖p.2‖
+  · rw [collisionOperator_support hN.le f p hp,
+      collisionOperator_support hN.le (gaussianShift δ f) p hp,sub_self,mul_zero,abs_zero]
+    exact mul_nonneg (add_nonneg (abs_nonneg _) hC)
+      (mul_nonneg (mul_nonneg (mul_nonneg (by norm_num) hL) hδ.le) (maxwellian_pos 0).le)
+  · rw [abs_mul]
+    exact mul_le_mul (log_regularization_bound hN.le hB hδ hδ1 (hf p) (hfb p) p.2
+      (le_of_not_gt hp)) (collisionOperator_gaussian_difference hN hδ hfm hf p)
+      (abs_nonneg _) (add_nonneg (abs_nonneg _) hC)
+
+theorem entropy_error_integral {μ : Measure X} [IsFiniteMeasure μ]
+    {N B δ : ℝ} (hN : 0 < N) (hB : 0 ≤ B) (hδ : 0 < δ) (hδ1 : δ ≤ 1)
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hfb : ∀ p, f p ≤ B) :
+    |∫ p, Real.log (gaussianShift δ f p/maxwellian p.2)*
+      (collisionOperator N f p-collisionOperator N (gaussianShift δ f) p) ∂μ.prod volume| ≤
+      entropyErrorCoefficient μ N*δ*(|Real.log δ|+logRegularizationConstant N B) := by
+  have he := bounded_velocity_integral_bound (μ := μ) (N := N)
+    (entropy_error_bound hN hB hδ hδ1 hfm hf hfb)
+    (fun p hp => by rw [collisionOperator_support hN.le f p hp,
+      collisionOperator_support hN.le (gaussianShift δ f) p hp,sub_self,mul_zero])
+  exact he.trans_eq (by unfold entropyErrorCoefficient; ring)
+
+theorem entropy_error_tendsto (μ : Measure X) (N B : ℝ) :
+    Tendsto (fun δ : ℝ => entropyErrorCoefficient μ N*δ*
+      (|Real.log δ|+logRegularizationConstant N B)) (𝓝 0) (𝓝 0) := by
+  have h := (tendsto_mul_affine_abs_log_zero (logRegularizationConstant N B) 1).const_mul
+    (entropyErrorCoefficient μ N)
+  convert h using 1
+  · funext δ; ring
+  · ring_nf
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Removing entropy regularization from supported bounded densities -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X]
+
+theorem entropyCompactMajorant_integrable (N C : ℝ) : Integrable (entropyCompactMajorant N C) := by
+  exact ((integrableOn_const (isCompact_closedBall (0:Velocity) N).measure_lt_top.ne).integrable_indicator
+    Metric.isClosed_closedBall.measurableSet).add integrable_maxwellian
+
+omit [MeasurableSpace X] in
+theorem regularizedEntropy_majorant {N B C : ℝ}
+    (hCb : ∀ δ ∈ Icc (0:ℝ) 1, ∀ a ∈ Icc (0:ℝ) B, ∀ v : Velocity,
+      ‖v‖ ≤ N → |regularizedEntropy (maxwellian v) (maxwellian v) δ a| ≤ C)
+    {f : X × Velocity → ℝ} (hf : ∀ p, 0 ≤ f p) (hfb : ∀ p, f p ≤ B)
+    (hfs : ∀ p, N < ‖p.2‖ → f p = 0) {δ : ℝ} (hδ : δ ∈ Icc (0:ℝ) 1) (p : X × Velocity) :
+    ‖regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f p)‖ ≤
+      entropyCompactMajorant N C p.2 := by
+  rw [Real.norm_eq_abs]
+  by_cases hp : p.2 ∈ Metric.closedBall 0 N
+  · have hv : ‖p.2‖ ≤ N := by simpa only [Metric.mem_closedBall,dist_zero_right] using hp
+    exact (hCb δ hδ (f p) ⟨hf p,hfb p⟩ p.2 hv).trans (by
+      unfold entropyCompactMajorant
+      rw [indicator_of_mem hp]
+      linarith [maxwellian_pos p.2])
+  · have hv : N < ‖p.2‖ := by simpa only [Metric.mem_closedBall,dist_zero_right,not_le] using hp
+    simp only [hfs p hv,regularizedEntropy,zero_add,sub_self,abs_of_pos (maxwellian_pos p.2),
+      entropyCompactMajorant,indicator_of_notMem hp]
+    exact le_rfl
+
+theorem regularizedEntropy_integral_tendsto {μ : Measure X} [IsFiniteMeasure μ]
+    {N B : ℝ} {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p)
+    (hfb : ∀ p, f p ≤ B) (hfs : ∀ p, N < ‖p.2‖ → f p = 0) :
+    Tendsto (fun δ : ℝ => ∫ p, regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f p) ∂μ.prod volume)
+      (𝓝[>] 0) (𝓝 (∫ p, scalarRelativeEntropy (maxwellian p.2) (f p) ∂μ.prod volume)) := by
+  obtain ⟨C,_,hCb⟩ := regularizedEntropy_uniform_bound N B
+  apply tendsto_integral_filter_of_dominated_convergence (fun p => entropyCompactMajorant N C p.2)
+  · exact Eventually.of_forall (fun δ => (regularizedEntropy_measurable δ hfm).aestronglyMeasurable)
+  · filter_upwards [Ioo_mem_nhdsGT (show (0:ℝ) < 1 by norm_num)] with δ hδ
+    exact Eventually.of_forall (regularizedEntropy_majorant hCb hf hfb hfs ⟨hδ.1.le,hδ.2.le⟩)
+  · exact (entropyCompactMajorant_integrable N C).comp_snd μ
+  · exact Eventually.of_forall (fun p =>
+      (regularizedEntropy_tendsto (maxwellian p.2) (maxwellian p.2) (f p)).mono_left nhdsWithin_le_nhds)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PeriodicInitialEntropyLimit
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.hotKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.mixedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+attribute [-simp] _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.phaseEquiv_snd _root_.OAI.BoltzmannNonuniqueness.timeTranslation_apply
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Supported positive mild approximants and their finite entropy class -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem BoundedCutoffSolution.finiteEntropy {N T : ℝ} {f₀ : Density}
+    (S : BoundedCutoffSolution N T f₀) (hN : 0 ≤ N) (t : ℝ) :
+    FiniteEntropyDatum (fun p => S.density (t,p)) := by
+  obtain ⟨B,hB⟩ := S.bounded
+  exact bounded_velocity_finiteEntropy hN
+    (S.measurable.comp (measurable_const.prodMk measurable_id))
+    (fun p => S.nonnegative (t,p)) (fun p => hB (t,p)) (fun p => S.support (t,p))
+
+theorem BoundedCutoffSolution.initial {N T : ℝ} {f₀ : Density}
+    (S : BoundedCutoffSolution N T f₀) (hT : 0 ≤ T) (p : Phase) : S.density (0,p) = f₀ p := by
+  rw [S.mild]
+  simp only [PositiveIntegral.value,PositiveIntegral.time,min_eq_right hT,max_self,
+    mul_zero,Real.exp_zero,neg_zero,TorusFlight.flight_zero,one_mul,
+    intervalIntegral.integral_same,add_zero]
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Initial entropy bounds independent of the collision regularization -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem initialApproximation_entropy_le {N : ℝ} (hN : 1 ≤ N) {f : Density}
+    (hf : ∀ p, 0 ≤ f p) (p : Phase) :
+    entropyMoment (initialApproximation N f) p ≤ entropyMoment f p := by
+  have hN0 : 0 < N := lt_of_lt_of_le zero_lt_one hN
+  by_cases hv : ‖p.2‖ ≤ N
+  · by_cases hfN : f p ≤ N
+    · simp only [entropyMoment,initialApproximation,hv,ite_true, if_true,max_eq_right (hf p),min_eq_right hfN]
+      exact le_rfl
+    · have hNf : N ≤ f p := (lt_of_not_ge hfN).le
+      have hfone : 1 ≤ f p := hN.trans hNf
+      have hlogN : 0 ≤ Real.log N := Real.log_nonneg hN
+      have hlogf : 0 ≤ Real.log (f p) := Real.log_nonneg hfone
+      have hlogs : Real.log N ≤ Real.log (f p) := Real.log_le_log hN0 hNf
+      simp only [entropyMoment,initialApproximation,hv,ite_true, if_true,max_eq_right (hf p),min_eq_left hNf,
+        abs_of_nonneg hlogN,abs_of_nonneg hlogf]
+      exact mul_le_mul hNf (by linarith) (by positivity) (hf p)
+  · simp only [entropyMoment,initialApproximation,hv,ite_false, if_false,zero_mul]
+    exact mul_nonneg (hf p) (by positivity)
+
+theorem initialApproximation_finiteEntropy {N : ℝ} (hN : 0 ≤ N) {f : Density}
+    (hf : Measurable f) : FiniteEntropyDatum (initialApproximation N f) :=
+  bounded_velocity_finiteEntropy hN (initialApproximation_measurable N hf)
+    (fun p => (initialApproximation_bounds hN f p).1)
+    (fun p => (initialApproximation_bounds hN f p).2) (initialApproximation_support N f)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Uniform relative entropy of the actual initial truncations -/
+noncomputable section
+open MeasureTheory Filter
+open scoped Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem initialEntropyCoefficient_nonneg : 0 ≤ initialEntropyCoefficient := by
+  unfold initialEntropyCoefficient
+  positivity
+
+theorem relativeEntropy_density_bound {f : Density} (hf : ∀ p, 0 ≤ f p) (p : Phase) :
+    scalarRelativeEntropy (maxwellian p.2) (f p) ≤
+      initialEntropyCoefficient*entropyMoment f p+maxwellian p.2 := by
+  let c := |1-(3/2:ℝ)*Real.log (2*Real.pi)|
+  have hc : 0 ≤ c := abs_nonneg _
+  have hn := hf p
+  have hE : 0 ≤ ‖p.2‖^2*f p := mul_nonneg (sq_nonneg _) (hf p)
+  have hA : 0 ≤ f p*|Real.log (f p)| := mul_nonneg (hf p) (abs_nonneg _)
+  have hlog := mul_le_mul_of_nonneg_left (le_abs_self (Real.log (f p))) (hf p)
+  have hcoeff : ((3/2:ℝ)*Real.log (2*Real.pi)-1)*f p ≤ c*f p := by
+    apply mul_le_mul_of_nonneg_right _ (hf p)
+    dsimp [c]
+    linarith [neg_abs_le (1-(3/2:ℝ)*Real.log (2*Real.pi))]
+  have h1 := mul_nonneg hc hE
+  have h2 := mul_nonneg hc hA
+  unfold scalarRelativeEntropy initialEntropyCoefficient entropyMoment
+  rw [log_maxwellian]
+  dsimp only [c] at hcoeff h1 h2
+  nlinarith
+
+theorem initialApproximation_relativeEntropy_le {N : ℝ} (hN : 1 ≤ N) {f : Density}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f)) :
+    relativeEntropy (initialApproximation N f) ≤
+      initialEntropyCoefficient*(∫ p, entropyMoment f p)+(∫ p : Phase, maxwellian p.2) := by
+  have hg := initialApproximation_finiteEntropy (zero_le_one.trans hN) hfm
+  have hgn := fun p => (initialApproximation_bounds (zero_le_one.trans hN) f p).1
+  have hH := hg.integrable_relativeEntropy
+  have hmajor := (hi.const_mul initialEntropyCoefficient).add integrable_maxwellian_phase
+  have hineq (p : Phase) : scalarRelativeEntropy (maxwellian p.2) (initialApproximation N f p) ≤
+      initialEntropyCoefficient*entropyMoment f p+maxwellian p.2 :=
+    (relativeEntropy_density_bound hgn p).trans
+      (add_le_add (mul_le_mul_of_nonneg_left (initialApproximation_entropy_le hN hf p)
+        initialEntropyCoefficient_nonneg) le_rfl)
+  have h := integral_mono hH hmajor (fun p => by
+    rw [← scalarRelativeEntropy_eq (maxwellian_pos p.2)]
+    exact hineq p)
+  rw [integral_add' (hi.const_mul initialEntropyCoefficient) integrable_maxwellian_phase,
+    integral_const_mul] at h
+  exact h
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Measurable spacetime form of the bounded positive collision source -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem kineticSource_eq (N : ℝ) (F : ℝ × Phase → ℝ) (z : ℝ × Phase) :
+    kineticSource N F z = positiveSource N (fun p => F (z.1,p)) z.2 := rfl
+
+theorem kineticSource_measurable (N : ℝ) {F : ℝ × Phase → ℝ} (hF : Measurable F) :
+    Measurable (kineticSource N F) := by
+  have hm : Measurable (fun p : (ℝ × Position) × Velocity => F (p.1.1,(p.1.2,p.2))) :=
+    hF.comp (measurable_fst.fst.prodMk (measurable_fst.snd.prodMk measurable_snd))
+  exact (positiveSource_measurable N hm).comp
+    ((measurable_fst.prodMk measurable_snd.fst).prodMk measurable_snd.snd)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # The exact characteristic equation of the supported periodic approximants -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {N T : ℝ} {f₀ : Density}
+
+theorem BoundedCutoffSolution.source_measurable (S : BoundedCutoffSolution N T f₀) :
+    Measurable S.source := by
+  have he : S.source = kineticSource N S.density := by
+    funext z
+    exact (kineticSource_eq N S.density z).symm
+  rw [he]
+  exact kineticSource_measurable N S.measurable
+
+theorem BoundedCutoffSolution.source_bounded (S : BoundedCutoffSolution N T f₀) (hN : 0 < N) :
+    ∃ C : ℝ, 0 ≤ C ∧ ∀ z, |S.source z| ≤ C := by
+  obtain ⟨B,hB⟩ := S.bounded
+  have hB0 : 0 ≤ B := (S.nonnegative (0,0)).trans (hB (0,0))
+  have hC : 0 ≤ gainBound N := by unfold gainBound; positivity
+  have hL : 0 ≤ lossBound N := by unfold lossBound; positivity
+  refine ⟨gainBound N+lossBound N*B,by positivity,?_⟩
+  intro z
+  have h := positiveSource_bounds hN
+    (S.measurable.comp (measurable_const.prodMk measurable_id))
+    (fun p => S.nonnegative (z.1,p)) (fun p => hB (z.1,p)) z.2
+  exact (abs_of_nonneg h.1).trans_le h.2
+
+theorem BoundedCutoffSolution.source_path_integrable (S : BoundedCutoffSolution N T f₀)
+    (hN : 0 < N) (p : Phase) (t : ℝ) :
+    IntervalIntegrable (fun r => S.source (r,TorusFlight.flight r p)) volume 0 t := by
+  obtain ⟨C,_,hC⟩ := S.source_bounded hN
+  apply (intervalIntegrable_const (c := C)).mono_fun'
+  · exact (S.source_measurable.comp (measurable_id.prodMk
+      (TorusFlight.measurable_flight.comp (measurable_id.prodMk measurable_const)))).aestronglyMeasurable
+  · exact Filter.Eventually.of_forall (fun r => by simpa only [Real.norm_eq_abs] using hC (r,TorusFlight.flight r p))
+
+theorem BoundedCutoffSolution.along_eq_damped (S : BoundedCutoffSolution N T f₀)
+    {t : ℝ} (ht : t ∈ Icc 0 T) (p : Phase) :
+    S.density (t,TorusFlight.flight t p) = TransportPrimitive.damped (lossBound N) (f₀ p)
+      (fun r => S.source (r,TorusFlight.flight r p)) t := by
+  rw [S.mild,TransportPrimitive.damped_eq]
+  change PositiveIntegral.value T (lossBound N) TorusFlight.flight f₀ S.source
+    (t,TorusFlight.flight t p) = _
+  unfold PositiveIntegral.value
+  have htt : PositiveIntegral.time T t = t := by
+    unfold PositiveIntegral.time
+    rw [min_eq_right ht.2,max_eq_right ht.1]
+  rw [htt,TorusFlight.flight_neg]
+  congr 1
+  apply intervalIntegral.integral_congr
+  intro r _
+  dsimp only
+  rw [TorusFlight.flight_add,sub_add_cancel]
+
+theorem BoundedCutoffSolution.tested_path (S : BoundedCutoffSolution N T f₀) (hN : 0 < N)
+    {t : ℝ} (ht : t ∈ Icc 0 T) (p : Phase) (χ χ' : ℝ → ℝ)
+    (hc : ContinuousOn χ (Icc 0 t)) (hc' : ContinuousOn χ' (Icc 0 t))
+    (hd : ∀ r ∈ Icc 0 t, HasDerivAt χ (χ' r) r) :
+    (∫ r in 0..t, χ' r*S.density (r,TorusFlight.flight r p)+
+      χ r*(S.source (r,TorusFlight.flight r p)-lossBound N*S.density (r,TorusFlight.flight r p))) =
+      χ t*S.density (t,TorusFlight.flight t p)-χ 0*f₀ p := by
+  have h := TransportPrimitive.damped_integration_by_parts (L := lossBound N) (c := f₀ p) ht.1
+    (S.source_path_integrable hN p t) hc hc' hd
+  rw [← S.along_eq_damped ht p] at h
+  rw [← h]
+  apply intervalIntegral.integral_congr
+  intro r hr
+  have hrT : r ∈ Icc 0 T := by
+    rw [uIcc_of_le ht.1] at hr
+    exact ⟨hr.1,hr.2.trans ht.2⟩
+  dsimp only
+  rw [S.along_eq_damped hrT p]
+
+theorem BoundedCutoffSolution.characteristic_integral (S : BoundedCutoffSolution N T f₀)
+    (hN : 0 < N) {t : ℝ} (ht : t ∈ Icc 0 T) (p : Phase) :
+    S.density (t,TorusFlight.flight t p) = f₀ p+
+      ∫ r in 0..t, S.source (r,TorusFlight.flight r p)-lossBound N*S.density (r,TorusFlight.flight r p) := by
+  have h := S.tested_path hN ht p (fun _ => 1) (fun _ => 0) continuousOn_const continuousOn_const
+    (fun r _ => hasDerivAt_const r (1:ℝ))
+  simp only [zero_mul,zero_add,one_mul] at h
+  linarith
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # An entropy-production bound for nonnegative approximate densities -/
+noncomputable section
+open MeasureTheory
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X]
+
+theorem collisionOperator_test_integrable {μ : Measure X} [IsFiniteMeasure μ]
+    {N C : ℝ} (hN : 0 < N) {f ψ : X × Velocity → ℝ}
+    (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hψm : Measurable ψ)
+    (hψ : ∀ p, ‖p.2‖ ≤ N → |ψ p| ≤ C) :
+    Integrable (fun p => ψ p*collisionOperator N f p) (μ.prod volume) := by
+  obtain ⟨hg,hl,_,_⟩ := regularized_test_marginals (μ := μ) hN hfm hf hψm hψ
+  convert hg.sub hl using 1
+  all_goals try with_reducible_and_instances rfl
+  funext p
+  simp only [collisionOperator,mul_sub,Pi.sub_apply]
+
+theorem nonnegative_entropy_production_bound {μ : Measure X} [IsFiniteMeasure μ]
+    {N B δ : ℝ} (hN : 0 < N) (hB : 0 ≤ B) (hδ : 0 < δ) (hδ1 : δ ≤ 1)
+    {f : X × Velocity → ℝ} (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hfb : ∀ p, f p ≤ B) :
+    (∫ p, Real.log (gaussianShift δ f p/maxwellian p.2)*collisionOperator N f p ∂μ.prod volume) ≤
+      entropyErrorCoefficient μ N*δ*(|Real.log δ|+logRegularizationConstant N B) := by
+  let g := gaussianShift δ f
+  let ψ := fun p : X × Velocity => Real.log (g p/maxwellian p.2)
+  have hgm : Measurable g := gaussianShift_measurable δ hfm
+  have hgp : ∀ p, 0 < g p := gaussianShift_pos hδ hf
+  have hm : Measurable (fun p : X × Velocity => maxwellian p.2) := by unfold maxwellian; fun_prop
+  have hψm : Measurable ψ := (hgm.div hm).log
+  have hψ : ∀ p, ‖p.2‖ ≤ N → |ψ p| ≤ |Real.log δ|+logRegularizationConstant N B :=
+    fun p hp => log_regularization_bound hN.le hB hδ hδ1 (hf p) (hfb p) p.2 hp
+  have hif := collisionOperator_test_integrable (μ := μ) hN hfm hf hψm hψ
+  have hig := collisionOperator_test_integrable (μ := μ) hN hgm (fun p => (hgp p).le) hψm hψ
+  obtain ⟨hg,hl,_,_⟩ := regularized_test_marginals (μ := μ) hN hgm (fun p => (hgp p).le) hψm hψ
+  have hn := regularized_relative_entropy_nonpositive (μ := μ) hN hgm hgp hψ
+  rw [← integral_sub hg hl] at hn
+  simp only [← mul_sub] at hn
+  have he := entropy_error_integral (μ := μ) hN hB hδ hδ1 hfm hf hfb
+  have heq : (fun p => ψ p*(collisionOperator N f p-collisionOperator N g p)) =
+      (fun p => ψ p*collisionOperator N f p)-(fun p => ψ p*collisionOperator N g p) := by
+    funext p
+    simp only [Pi.sub_apply,mul_sub]
+  change |∫ p, ψ p*(collisionOperator N f p-collisionOperator N g p) ∂μ.prod volume| ≤ _ at he
+  rw [heq,integral_sub' hif hig] at he
+  change (∫ p, ψ p*collisionOperator N g p ∂μ.prod volume) ≤ 0 at hn
+  have ha := (le_abs_self ((∫ p, ψ p*collisionOperator N f p ∂μ.prod volume)-
+    (∫ p, ψ p*collisionOperator N g p ∂μ.prod volume))).trans he
+  change (∫ p, ψ p*collisionOperator N f p ∂μ.prod volume) ≤ _
+  linarith
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # The entropy chain rule for the actual supported cutoff solution -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {N T : ℝ} {f₀ : Density}
+
+theorem BoundedCutoffSolution.collision_path_integrable (S : BoundedCutoffSolution N T f₀)
+    (hN : 0 < N) (p : Phase) (t : ℝ) :
+    IntervalIntegrable (fun r => S.source (r,TorusFlight.flight r p)-
+      lossBound N*S.density (r,TorusFlight.flight r p)) volume 0 t := by
+  obtain ⟨B,hB⟩ := S.bounded
+  have hi : IntervalIntegrable (fun r => S.density (r,TorusFlight.flight r p)) volume 0 t := by
+    apply (intervalIntegrable_const (c := B)).mono_fun'
+    · exact (S.measurable.comp (measurable_id.prodMk
+        (TorusFlight.measurable_flight.comp (measurable_id.prodMk measurable_const)))).aestronglyMeasurable
+    · filter_upwards [] with r
+      rw [Real.norm_of_nonneg (S.nonnegative _)]
+      exact hB _
+  exact (S.source_path_integrable hN p t).sub (hi.const_mul (lossBound N))
+
+theorem BoundedCutoffSolution.entropy_path_balance (S : BoundedCutoffSolution N T f₀)
+    (hN : 0 < N) {t δ : ℝ} (ht : t ∈ Icc 0 T) (hδ : 0 < δ) (p : Phase) :
+    (∫ r in 0..t, Real.log ((S.density (r,TorusFlight.flight r p)+δ*maxwellian p.2)/maxwellian p.2)*
+      (S.source (r,TorusFlight.flight r p)-lossBound N*S.density (r,TorusFlight.flight r p))) =
+      regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (S.density (t,TorusFlight.flight t p))-
+      regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f₀ p) := by
+  obtain ⟨B,hB⟩ := S.bounded
+  have hB0 : 0 ≤ B := (S.nonnegative (0,0)).trans (hB (0,0))
+  have he (r : ℝ) (hr : r ∈ uIcc 0 t) :
+      f₀ p+(∫ s in 0..r, S.source (s,TorusFlight.flight s p)-
+        lossBound N*S.density (s,TorusFlight.flight s p)) = S.density (r,TorusFlight.flight r p) := by
+    rw [uIcc_of_le ht.1] at hr
+    exact (S.characteristic_integral hN ⟨hr.1,hr.2.trans ht.2⟩ p).symm
+  have h := regularizedEntropy_integral_path (maxwellian_pos p.2) (maxwellian_pos p.2) hδ hB0
+    (S.collision_path_integrable hN p t)
+    (fun r hr => (he r hr).symm ▸ S.nonnegative (r,TorusFlight.flight r p))
+    (fun r hr => (he r hr).symm ▸ hB (r,TorusFlight.flight r p))
+  rw [he t right_mem_uIcc] at h
+  rw [← h]
+  apply intervalIntegral.integral_congr
+  intro r hr
+  dsimp only
+  rw [he r hr]
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_WeakTimeLocalization
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # One weighted weak limit gives a compatible limit on all finite time windows -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X] {ν : Measure X} [SFinite ν]
+
+theorem weak_localize_time {f : ℕ → ℝ × X → ℝ} {g : ℝ × X → ℝ}
+    (h : Published.WeakL1Converges (finiteTimeMeasure.prod ν) f g)
+    {T : ℝ} (hT : 0 ≤ T) :
+    Published.WeakL1Converges ((volume.restrict (Icc 0 T)).prod ν) f g := by
+  have hw : Measurable (fun p : ℝ × X => windowInverseWeight T p.1) :=
+    (windowInverseWeight_measurable T).comp measurable_fst
+  have ht := h.withDensity_bounded hw
+    (fun p => windowInverseWeight_nonneg T p.1)
+    ⟨Real.exp (T^2),fun p => windowInverseWeight_bound hT p.1⟩
+  rw [← prod_withDensity_left (windowInverseWeight_measurable T).ennreal_ofReal,
+    finiteTimeMeasure_reweight] at ht
+  exact ht
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_BoundedAverageProducts
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A bounded representative of a density divided by its positive mass -/
+noncomputable section
+open MeasureTheory
+open scoped NNReal
+namespace BoltzmannNonuniqueness.Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X}
+
+theorem boundedQuotient_measurable (C : ℝ≥0) {A R : X → ℝ}
+    (hA : Measurable A) (hR : Measurable R) : Measurable (boundedQuotient C A R) :=
+  measurable_const.max (measurable_const.min (hA.div hR))
+
+omit [MeasurableSpace X] in
+theorem boundedQuotient_bound (C : ℝ≥0) (A R : X → ℝ) (x : X) :
+    |boundedQuotient C A R x| ≤ C := by
+  apply abs_le.mpr
+  exact ⟨le_max_left _ _,max_le (by linarith [C.coe_nonneg]) (min_le_left _ _)⟩
+
+theorem boundedQuotient_eq_ae (C : ℝ≥0) {A R : X → ℝ}
+    (hR : ∀ x, 0 < R x) (hA : ∀ᵐ x ∂μ, |A x| ≤ C*R x) :
+    A =ᵐ[μ] fun x => R x*boundedQuotient C A R x := by
+  filter_upwards [hA] with x hx
+  have hq : |A x/R x| ≤ C := by
+    rw [abs_div,abs_of_pos (hR x)]
+    exact (div_le_iff₀ (hR x)).mpr hx
+  have hq' := abs_le.mp hq
+  simp only [boundedQuotient,min_eq_right hq'.2,max_eq_right hq'.1]
+  field_simp [(hR x).ne']
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PeriodicMomentEntropy
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Integrable undamped sources of the actual periodic cutoff solutions -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {N T : ℝ} {f₀ : Density}
+
+theorem BoundedCutoffSolution.collision_eq (S : BoundedCutoffSolution N T f₀) (z : ℝ × Phase) :
+    S.collision z = gain N (fun p => S.density (z.1,p)) z.2-
+      loss N (fun p => S.density (z.1,p)) z.2 := by
+  unfold collision source positiveSource
+  ring
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # The approximate entropy-production estimate in physical coordinates -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {N T : ℝ} {f₀ : Density}
+
+theorem BoundedCutoffSolution.kinetic_collision (S : BoundedCutoffSolution N T f₀)
+    (p : (ℝ × Position) × Velocity) :
+    collisionOperator N (fun p : (ℝ × Position) × Velocity => S.density (p.1.1,(p.1.2,p.2))) p =
+      S.collision (p.1.1,(p.1.2,p.2)) := by
+  rw [S.collision_eq]
+  rfl
+
+theorem BoundedCutoffSolution.log_collision_integrable (S : BoundedCutoffSolution N T f₀)
+    (hN : 0 < N) {B δ : ℝ} (hB : 0 ≤ B) (hSb : ∀ z, S.density z ≤ B)
+    (hδ : 0 < δ) (hδ1 : δ ≤ 1) (t : ℝ) :
+    Integrable (fun z : ℝ × Phase => Real.log ((S.density z+δ*maxwellian z.2.2)/maxwellian z.2.2)*S.collision z)
+      ((volume.restrict (Icc 0 t)).prod volume) := by
+  let μ : Measure (ℝ × Position) := (volume.restrict (Icc 0 t)).prod volume
+  let f : (ℝ × Position) × Velocity → ℝ := fun p => S.density (p.1.1,(p.1.2,p.2))
+  have hfm : Measurable f := S.measurable.comp
+    (measurable_fst.fst.prodMk (measurable_fst.snd.prodMk measurable_snd))
+  have hm : Measurable (fun p : (ℝ × Position) × Velocity => maxwellian p.2) := by unfold maxwellian; fun_prop
+  have hψ := ((gaussianShift_measurable δ hfm).div hm).log
+  have hi := collisionOperator_test_integrable (μ := μ) hN hfm
+    (fun p => S.nonnegative (p.1.1,(p.1.2,p.2))) hψ
+    (fun p hp => log_regularization_bound hN.le hB hδ hδ1 (S.nonnegative _)
+      (hSb _) p.2 hp)
+  dsimp only [f] at hi
+  simp only [S.kinetic_collision] at hi
+  have hr := (kineticGrouping_measurePreserving (volume.restrict (Icc 0 t))).symm.integrable_comp_of_integrable hi
+  change Integrable (fun z : ℝ × Phase => Real.log ((S.density z+δ*maxwellian z.2.2)/maxwellian z.2.2)*S.collision z)
+    ((volume.restrict (Icc 0 t)).prod volume) at hr
+  exact hr
+
+theorem BoundedCutoffSolution.entropy_production_bound (S : BoundedCutoffSolution N T f₀)
+    (hN : 0 < N) {B δ : ℝ} (hB : 0 ≤ B) (hSb : ∀ z, S.density z ≤ B)
+    (hδ : 0 < δ) (hδ1 : δ ≤ 1) (t : ℝ) :
+    (∫ z : ℝ × Phase, Real.log ((S.density z+δ*maxwellian z.2.2)/maxwellian z.2.2)*S.collision z
+      ∂(volume.restrict (Icc 0 t)).prod volume) ≤
+      entropyErrorCoefficient ((volume.restrict (Icc 0 t)).prod (volume : Measure Position)) N*
+        δ*(|Real.log δ|+logRegularizationConstant N B) := by
+  let f : (ℝ × Position) × Velocity → ℝ := fun p => S.density (p.1.1,(p.1.2,p.2))
+  have hfm : Measurable f := S.measurable.comp
+    (measurable_fst.fst.prodMk (measurable_fst.snd.prodMk measurable_snd))
+  have h := nonnegative_entropy_production_bound
+    (μ := (volume.restrict (Icc 0 t)).prod (volume : Measure Position)) hN hB hδ hδ1 hfm
+    (fun p => S.nonnegative (p.1.1,(p.1.2,p.2))) (fun p => hSb _)
+  have he := (kineticGrouping_measurePreserving (volume.restrict (Icc 0 t))).integral_comp
+    MeasurableEquiv.prodAssoc.measurableEmbedding
+    (fun z : ℝ × Phase => Real.log ((S.density z+δ*maxwellian z.2.2)/maxwellian z.2.2)*S.collision z)
+  rw [← he]
+  dsimp only [f] at h
+  simp only [S.kinetic_collision,gaussianShift] at h
+  convert h using 1
+  all_goals try with_reducible_and_instances rfl
+  congr 1
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Integrating the entropy balance of the constructed cutoff trajectories -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {N T : ℝ} {f₀ : Density}
+
+theorem BoundedCutoffSolution.endpoint_entropy_integrable (S : BoundedCutoffSolution N T f₀)
+    {δ : ℝ} (hδ : δ ∈ Icc (0:ℝ) 1) (t : ℝ) :
+    Integrable (fun p => regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (S.density (t,p))) := by
+  obtain ⟨B,hB⟩ := S.bounded
+  rw [Measure.volume_eq_prod]
+  exact regularizedEntropy_integrable hδ
+    (S.measurable.comp (measurable_const.prodMk measurable_id))
+    (fun p => S.nonnegative (t,p)) (fun p => hB (t,p)) (fun p => S.support (t,p))
+
+theorem BoundedCutoffSolution.integrated_entropy_balance (S : BoundedCutoffSolution N T f₀)
+    (hN : 0 < N) (hT : 0 ≤ T) {t δ : ℝ} (ht : t ∈ Icc 0 T)
+    (hδ : 0 < δ) (hδ1 : δ ≤ 1) :
+    (∫ p, regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (S.density (t,p)))-
+      (∫ p, regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f₀ p)) =
+    ∫ z : ℝ × Phase, Real.log ((S.density z+δ*maxwellian z.2.2)/maxwellian z.2.2)*S.collision z
+      ∂(volume.restrict (Icc 0 t)).prod volume := by
+  obtain ⟨B,hSb⟩ := S.bounded
+  have hB : 0 ≤ B := (S.nonnegative (0,0)).trans (hSb (0,0))
+  have hi := S.log_collision_integrable hN hB hSb hδ hδ1 t
+  have halong := (TorusFlight.along_measurePreserving (volume.restrict (Icc 0 t))).integrable_comp_of_integrable hi
+  have htE := S.endpoint_entropy_integrable ⟨hδ.le,hδ1⟩ t
+  have htEa := (TorusFlight.flight_measurePreserving t).integrable_comp_of_integrable htE
+  have h0E : Integrable (fun p => regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f₀ p)) := by
+    simpa only [S.initial hT] using S.endpoint_entropy_integrable ⟨hδ.le,hδ1⟩ 0
+  have hpath (p : Phase) :
+      regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (S.density (t,TorusFlight.flight t p))-
+        regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f₀ p) =
+      ∫ r, Real.log ((S.density (r,TorusFlight.flight r p)+δ*maxwellian p.2)/maxwellian p.2)*
+        S.collision (r,TorusFlight.flight r p) ∂volume.restrict (Icc 0 t) := by
+    have h := (S.entropy_path_balance hN ht hδ p).symm
+    rw [intervalIntegral.integral_of_le ht.1,← integral_Icc_eq_integral_Ioc] at h
+    exact h
+  calc
+    _ = (∫ p, regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ
+          (S.density (t,TorusFlight.flight t p)))-
+        (∫ p, regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f₀ p)) := by
+      rw [← TorusFlight.integral_flight
+        (fun p => regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (S.density (t,p))) t]
+      rfl
+    _ = ∫ p, regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ
+          (S.density (t,TorusFlight.flight t p))-
+        regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f₀ p) :=
+      (integral_sub htEa h0E).symm
+    _ = ∫ p, ∫ r, Real.log ((S.density (r,TorusFlight.flight r p)+δ*maxwellian p.2)/maxwellian p.2)*
+        S.collision (r,TorusFlight.flight r p) ∂volume.restrict (Icc 0 t) :=
+      integral_congr_ae (Filter.Eventually.of_forall hpath)
+    _ = ∫ z : ℝ × Phase, Real.log ((S.density (z.1,TorusFlight.flight z.1 z.2)+δ*maxwellian z.2.2)/maxwellian z.2.2)*
+        S.collision (z.1,TorusFlight.flight z.1 z.2) ∂(volume.restrict (Icc 0 t)).prod volume :=
+      (integral_prod_symm _ halong).symm
+    _ = _ := TorusFlight.integral_along hi
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # The actual finite cutoff solutions satisfy a cutoff-independent entropy bound -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {N T : ℝ} {f₀ : Density}
+
+theorem BoundedCutoffSolution.endpoint_entropy_tendsto (S : BoundedCutoffSolution N T f₀) (t : ℝ) :
+    Tendsto (fun δ : ℝ => ∫ p, regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (S.density (t,p)))
+      (𝓝[>] 0) (𝓝 (∫ p, scalarRelativeEntropy (maxwellian p.2) (S.density (t,p)))) := by
+  obtain ⟨B,hB⟩ := S.bounded
+  simp only [Measure.volume_eq_prod]
+  exact regularizedEntropy_integral_tendsto
+    (S.measurable.comp (measurable_const.prodMk measurable_id))
+    (fun p => S.nonnegative (t,p)) (fun p => hB (t,p)) (fun p => S.support (t,p))
+
+theorem BoundedCutoffSolution.entropy_inequality (S : BoundedCutoffSolution N T f₀)
+    (hN : 0 < N) (hT : 0 ≤ T) {t : ℝ} (ht : t ∈ Icc 0 T) :
+    (∫ p, scalarRelativeEntropy (maxwellian p.2) (S.density (t,p))) ≤
+      ∫ p, scalarRelativeEntropy (maxwellian p.2) (f₀ p) := by
+  obtain ⟨B,hSb⟩ := S.bounded
+  have hB : 0 ≤ B := (S.nonnegative (0,0)).trans (hSb (0,0))
+  have h0 := S.endpoint_entropy_tendsto 0
+  simp only [S.initial hT] at h0
+  have hL := (S.endpoint_entropy_tendsto t).sub h0
+  have hR := (entropy_error_tendsto
+    ((volume.restrict (Icc 0 t)).prod (volume : Measure Position)) N B).mono_left (nhdsWithin_le_nhds : 𝓝[>] (0:ℝ) ≤ 𝓝 0)
+  have hle : ∀ᶠ δ : ℝ in 𝓝[>] 0,
+      (∫ p, regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (S.density (t,p)))-
+        (∫ p, regularizedEntropy (maxwellian p.2) (maxwellian p.2) δ (f₀ p)) ≤
+      entropyErrorCoefficient ((volume.restrict (Icc 0 t)).prod (volume : Measure Position)) N*
+        δ*(|Real.log δ|+logRegularizationConstant N B) := by
+    filter_upwards [Ioo_mem_nhdsGT (show (0:ℝ) < 1 by norm_num)] with δ hδ
+    rw [S.integrated_entropy_balance hN hT ht hδ.1 hδ.2.le]
+    exact S.entropy_production_bound hN hB hSb hδ.1 hδ.2.le t
+  have h := le_of_tendsto_of_tendsto hL hR hle
+  linarith
+
+theorem BoundedCutoffSolution.relativeEntropy_le (S : BoundedCutoffSolution N T f₀)
+    (hN : 0 < N) (hT : 0 ≤ T) {t : ℝ} (ht : t ∈ Icc 0 T) :
+    relativeEntropy (fun p => S.density (t,p)) ≤ relativeEntropy f₀ := by
+  have h := S.entropy_inequality hN hT ht
+  simpa only [relativeEntropy,scalarRelativeEntropy_eq (maxwellian_pos _)] using h
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Retained dissipation of the actual finite periodic solutions -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped Topology ENNReal
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {N T : ℝ} {f₀ : Density}
+
+theorem BoundedCutoffSolution.kineticProfile_measurable (S : BoundedCutoffSolution N T f₀) :
+    Measurable S.kineticProfile :=
+  S.measurable.comp (measurable_fst.fst.prodMk (measurable_fst.snd.prodMk measurable_snd))
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # One entropy and moment budget for all finite regularized approximants -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem BoundedCutoffSolution.uniform_entropyMoment {N T : ℝ} {f : Density}
+    (S : BoundedCutoffSolution N T (initialApproximation N f))
+    (hN : 1 ≤ N) (hT : 0 ≤ T) (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p)
+    (hi : Integrable (entropyMoment f)) {t : ℝ} (ht : t ∈ Icc 0 T) :
+    (∫ p, entropyMoment (fun p => S.density (t,p)) p) ≤ approximationEntropyBudget f := by
+  have hN0 : 0 < N := lt_of_lt_of_le zero_lt_one hN
+  have hE := entropyMoment_integral_control (S.finiteEntropy hN0.le t)
+  have hR := (S.relativeEntropy_le hN0 hT ht).trans
+    (initialApproximation_relativeEntropy_le hN hfm hf hi)
+  have hC : 0 ≤ 1+4*entropyMomentCoefficient := by
+    have := entropyMomentCoefficient_nonneg
+    positivity
+  exact hE.trans (by
+    change (1+4*entropyMomentCoefficient)*relativeEntropy (fun p => S.density (t,p))+_+_ ≤
+      (1+4*entropyMomentCoefficient)*initialEntropyBudget f+_+_
+    gcongr
+    exact hR)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # One actual cutoff solution sequence with growing horizons and uniform entropy -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem clippedTime_fixed {T : ℝ} (hT : 0 ≤ T) (t : ℝ) :
+    PositiveIntegral.time T (PositiveIntegral.time T t) = PositiveIntegral.time T t := by
+  have ht := PositiveIntegral.time_bounds hT t
+  change max 0 (min T (PositiveIntegral.time T t)) = PositiveIntegral.time T t
+  rw [min_eq_right ht.2,max_eq_right ht.1]
+
+theorem BoundedCutoffSolution.density_clipped {N T : ℝ} {f₀ : Density}
+    (S : BoundedCutoffSolution N T f₀) (hT : 0 ≤ T) (t : ℝ) (p : Phase) :
+    S.density (t,p) = S.density (PositiveIntegral.time T t,p) := by
+  rw [S.mild (t,p),S.mild (PositiveIntegral.time T t,p)]
+  simp only [PositiveIntegral.value,clippedTime_fixed hT]
+
+theorem BoundedCutoffSolution.uniform_entropyMoment_all_times {N T : ℝ} {f : Density}
+    (S : BoundedCutoffSolution N T (initialApproximation N f))
+    (hN : 1 ≤ N) (hT : 0 ≤ T) (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p)
+    (hi : Integrable (entropyMoment f)) (t : ℝ) :
+    (∫ p, entropyMoment (fun p => S.density (t,p)) p) ≤ approximationEntropyBudget f := by
+  have he : (fun p => S.density (t,p)) = (fun p => S.density (PositiveIntegral.time T t,p)) :=
+    funext (S.density_clipped hT t)
+  rw [he]
+  exact S.uniform_entropyMoment hN hT hfm hf hi (PositiveIntegral.time_bounds hT t)
+
+theorem approximatingSolution_entropy (f : Density) (hfm : Measurable f)
+    (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f)) (n : ℕ) (t : ℝ) :
+    (∫ p, entropyMoment (fun p => (approximatingSolution f hfm n).density (t,p)) p) ≤
+      approximationEntropyBudget f := by
+  exact (approximatingSolution f hfm n).uniform_entropyMoment_all_times
+    (by have := Nat.cast_nonneg (α := ℝ) n; linarith) (by positivity) hfm hf hi t
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Branching_SpacetimeRelativeEntropy
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Integrating a uniform entropy budget over a bounded time window -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem spacetimeEntropy_measurable {F : ℝ × Phase → ℝ} (hF : Measurable F) :
+    Measurable (spacetimeEntropy F) :=
+  hF.mul ((measurable_const.add (measurable_snd.snd.norm.pow_const 2)).add hF.log.abs)
+
+theorem spacetimeEntropy_integrable {μ : Measure ℝ} [IsFiniteMeasure μ]
+    {F : ℝ × Phase → ℝ} {C : ℝ} (hFm : Measurable F) (hF : ∀ z, 0 ≤ F z)
+    (hi : ∀ t, Integrable (entropyMoment (fun p => F (t,p))))
+    (hb : ∀ t, (∫ p, entropyMoment (fun p => F (t,p)) p) ≤ C) :
+    Integrable (spacetimeEntropy F) (μ.prod volume) := by
+  have hm := spacetimeEntropy_measurable hFm
+  have hn (z : ℝ × Phase) : 0 ≤ spacetimeEntropy F z := mul_nonneg (hF z) (by positivity)
+  apply (integrable_prod_iff hm.aestronglyMeasurable).mpr
+  constructor
+  · exact Filter.Eventually.of_forall hi
+  · have hnorm : (fun t => ∫ p, ‖spacetimeEntropy F (t,p)‖) =
+        (fun t => ∫ p, spacetimeEntropy F (t,p)) := by
+      funext t
+      apply integral_congr_ae
+      exact Filter.Eventually.of_forall (fun p => Real.norm_of_nonneg (hn (t,p)))
+    rw [hnorm]
+    apply (integrable_const C).mono' hm.stronglyMeasurable.integral_prod_right'.aestronglyMeasurable
+    filter_upwards [] with t
+    rw [Real.norm_of_nonneg (integral_nonneg (fun p => hn (t,p)))]
+    exact hb t
+
+theorem spacetimeEntropy_integral_le {μ : Measure ℝ} [IsFiniteMeasure μ]
+    {F : ℝ × Phase → ℝ} {C : ℝ} (hFm : Measurable F) (hF : ∀ z, 0 ≤ F z)
+    (hi : ∀ t, Integrable (entropyMoment (fun p => F (t,p))))
+    (hb : ∀ t, (∫ p, entropyMoment (fun p => F (t,p)) p) ≤ C) :
+    (∫ z, spacetimeEntropy F z ∂μ.prod volume) ≤ μ.real univ*C := by
+  have hi' := spacetimeEntropy_integrable (μ := μ) hFm hF hi hb
+  rw [integral_prod _ hi']
+  exact (integral_mono hi'.integral_prod_left (integrable_const C) hb).trans_eq (integral_const C)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Relative entropy and the absolute entropy moment in spacetime -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem spacetimeRelativeEntropy_measurable {F : ℝ × Phase → ℝ} (hF : Measurable F) :
+    Measurable (spacetimeRelativeEntropy F) :=
+  scalarRelativeEntropy_measurable (by unfold maxwellian; fun_prop) hF
+
+variable {μ : Measure ℝ} [IsFiniteMeasure μ] {F : ℝ × Phase → ℝ}
+
+omit [IsFiniteMeasure μ] in
+theorem density_integrable_of_spacetimeEntropy (hFm : Measurable F) (hF : ∀ z, 0 ≤ F z)
+    (hi : Integrable (spacetimeEntropy F) (μ.prod volume)) :
+    Integrable F (μ.prod volume) := by
+  apply hi.mono' hFm.aestronglyMeasurable
+  exact ae_of_all _ (fun z => by
+    rw [Real.norm_of_nonneg (hF z)]
+    have h : 1 ≤ 1+‖z.2.2‖^2+|Real.log (F z)| := by
+      nlinarith [sq_nonneg ‖z.2.2‖,abs_nonneg (Real.log (F z))]
+    simpa only [spacetimeEntropy,mul_one] using mul_le_mul_of_nonneg_left h (hF z))
+
+theorem relativeEntropy_integrable_of_spacetimeEntropy
+    (hFm : Measurable F) (hF : ∀ z, 0 ≤ F z)
+    (hi : Integrable (spacetimeEntropy F) (μ.prod volume)) :
+    Integrable (spacetimeRelativeEntropy F) (μ.prod volume) := by
+  have hM := integrable_maxwellian_phase.comp_snd μ
+  apply ((hi.const_mul initialEntropyCoefficient).add hM).mono'
+    (spacetimeRelativeEntropy_measurable hFm).aestronglyMeasurable
+  exact ae_of_all _ (fun z => by
+    dsimp only [spacetimeRelativeEntropy,Pi.add_apply]
+    rw [Real.norm_of_nonneg (scalarRelativeEntropy_nonneg (maxwellian_pos _) (hF z))]
+    exact relativeEntropy_density_bound (fun p => hF (z.1,p)) z.2)
+
+theorem spacetimeEntropy_integrable_of_relativeEntropy
+    (hFm : Measurable F) (hF : ∀ z, 0 ≤ F z)
+    (hi : Integrable (spacetimeRelativeEntropy F) (μ.prod volume)) :
+    Integrable (spacetimeEntropy F) (μ.prod volume) := by
+  have hG := (entropyGaussian_integrable.comp_snd (volume : Measure Position)).comp_snd μ
+  have hM := integrable_maxwellian_phase.comp_snd μ
+  have hmajor := ((hi.const_mul (1+4*entropyMomentCoefficient)).add
+    (hG.const_mul (4*entropyMomentCoefficient))).add hM
+  apply hmajor.mono' (spacetimeEntropy_measurable hFm).aestronglyMeasurable
+  exact ae_of_all _ (fun z => by
+    rw [Real.norm_of_nonneg (show 0 ≤ spacetimeEntropy F z from
+      mul_nonneg (hF z) (by positivity))]
+    exact entropyMoment_control (f := fun p => F (z.1,p)) (z := z.2) (hF z))
+
+theorem spacetimeRelativeEntropy_integral_le
+    (hi : Integrable (spacetimeRelativeEntropy F) (μ.prod volume)) {C : ℝ}
+    (hb : ∀ t, relativeEntropy (fun p => F (t,p)) ≤ C) :
+    (∫ z, spacetimeRelativeEntropy F z ∂μ.prod volume) ≤ μ.real univ*C := by
+  rw [integral_prod _ hi]
+  have he (t : ℝ) : (∫ p, spacetimeRelativeEntropy F (t,p)) =
+      relativeEntropy (fun p => F (t,p)) := by
+    apply integral_congr_ae
+    exact ae_of_all _ (fun p => scalarRelativeEntropy_eq (maxwellian_pos p.2) _)
+  exact (integral_mono hi.integral_prod_left (integrable_const C)
+    (fun t => (he t).trans_le (hb t))).trans_eq (integral_const C)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PeriodicRenormalizedCompactness
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseIncrement_finite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Weak L1 extraction for the actual global approximation sequence -/
+noncomputable section
+open MeasureTheory Filter
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+variable {N T : ℝ} {f₀ : Density}
+
+theorem BoundedCutoffSolution.kinetic_entropy_integrable
+    (S : BoundedCutoffSolution N T f₀) (hN : 0 ≤ N)
+    {μ : Measure ℝ} [IsFiniteMeasure μ] {C : ℝ}
+    (hb : ∀ t, (∫ p, entropyMoment (fun p => S.density (t,p)) p) ≤ C) :
+    Integrable (entropyGauge S.kineticProfile) ((μ.prod (volume : Measure Position)).prod volume) := by
+  have hi := spacetimeEntropy_integrable (μ := μ) S.measurable S.nonnegative
+    (fun t => (S.finiteEntropy hN t).2.2) hb
+  have hr := (kineticGrouping_measurePreserving μ).integrable_comp_of_integrable hi
+  exact hr
+
+theorem BoundedCutoffSolution.kinetic_entropy_integral_le
+    (S : BoundedCutoffSolution N T f₀) (hN : 0 ≤ N)
+    {μ : Measure ℝ} [IsFiniteMeasure μ] {C : ℝ}
+    (hb : ∀ t, (∫ p, entropyMoment (fun p => S.density (t,p)) p) ≤ C) :
+    (∫ p, entropyGauge S.kineticProfile p ∂(μ.prod (volume : Measure Position)).prod volume) ≤ μ.real Set.univ*C := by
+  have h := spacetimeEntropy_integral_le (μ := μ) S.measurable S.nonnegative
+    (fun t => (S.finiteEntropy hN t).2.2) hb
+  have he := (kineticGrouping_measurePreserving μ).integral_comp
+    MeasurableEquiv.prodAssoc.measurableEmbedding (spacetimeEntropy S.density)
+  rw [← he] at h
+  exact h
+
+theorem approximatingSolution_compactness_hypotheses (f : Density) (hfm : Measurable f)
+    (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f)) (μ : Measure ℝ) [IsFiniteMeasure μ] :
+    UniformIntegrable (fun n => (approximatingSolution f hfm n).kineticProfile) 1
+      ((μ.prod (volume : Measure Position)).prod volume) ∧
+    UnifTight (fun n => (approximatingSolution f hfm n).kineticProfile) 1
+      ((μ.prod (volume : Measure Position)).prod volume) := by
+  have hm := fun n => (approximatingSolution f hfm n).kineticProfile_measurable
+  have hn : ∀ (n : ℕ) (p : (ℝ × Position) × Velocity),
+      0 ≤ (approximatingSolution f hfm n).kineticProfile p :=
+    fun n p => (approximatingSolution f hfm n).nonnegative (p.1.1,(p.1.2,p.2))
+  have hg := fun n => (approximatingSolution f hfm n).kinetic_entropy_integrable
+    (μ := μ) (by positivity) (approximatingSolution_entropy f hfm hf hi n)
+  have hb := fun n => (approximatingSolution f hfm n).kinetic_entropy_integral_le
+    (μ := μ) (by positivity) (approximatingSolution_entropy f hfm hf hi n)
+  exact ⟨uniformIntegrable_of_entropyGauge hm hn hg hb,unifTight_of_entropyGauge hm hn hg hb⟩
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Uniform relative entropy of the concrete global approximation sequence -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem BoundedCutoffSolution.relativeEntropy_all_times {N T : ℝ} {f₀ : Density}
+    (S : BoundedCutoffSolution N T f₀) (hN : 0 < N) (hT : 0 ≤ T) (t : ℝ) :
+    relativeEntropy (fun p => S.density (t,p)) ≤ relativeEntropy f₀ := by
+  have he : (fun p => S.density (t,p)) = (fun p => S.density (PositiveIntegral.time T t,p)) :=
+    funext (S.density_clipped hT t)
+  rw [he]
+  exact S.relativeEntropy_le hN hT (PositiveIntegral.time_bounds hT t)
+
+theorem approximatingSolution_relativeEntropy (f : Density) (hfm : Measurable f)
+    (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f)) (n : ℕ) (t : ℝ) :
+    relativeEntropy (fun p => (approximatingSolution f hfm n).density (t,p)) ≤
+      initialEntropyBudget f := by
+  exact ((approximatingSolution f hfm n).relativeEntropy_all_times (by positivity) (by positivity) t).trans
+    (initialApproximation_relativeEntropy_le (by have := Nat.cast_nonneg (α := ℝ) n; linarith) hfm hf hi)
+
+theorem approximatingSolution_spacetimeEntropy_integrable (f : Density) (hfm : Measurable f)
+    (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f)) (n : ℕ)
+    (μ : Measure ℝ) [IsFiniteMeasure μ] :
+    Integrable (spacetimeEntropy (approximatingSolution f hfm n).density) (μ.prod volume) :=
+  spacetimeEntropy_integrable (approximatingSolution f hfm n).measurable
+    (approximatingSolution f hfm n).nonnegative
+    (fun t => ((approximatingSolution f hfm n).finiteEntropy (by positivity) t).2.2)
+    (approximatingSolution_entropy f hfm hf hi n)
+
+theorem approximatingSolution_spacetimeRelativeEntropy (f : Density) (hfm : Measurable f)
+    (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f)) (n : ℕ)
+    (μ : Measure ℝ) [IsFiniteMeasure μ] :
+    Integrable (spacetimeRelativeEntropy (approximatingSolution f hfm n).density) (μ.prod volume) ∧
+      (∫ z, spacetimeRelativeEntropy (approximatingSolution f hfm n).density z ∂μ.prod volume) ≤
+        μ.real univ*initialEntropyBudget f := by
+  have hE := relativeEntropy_integrable_of_spacetimeEntropy
+    (approximatingSolution f hfm n).measurable (approximatingSolution f hfm n).nonnegative
+    (approximatingSolution_spacetimeEntropy_integrable f hfm hf hi n μ)
+  exact ⟨hE,spacetimeRelativeEntropy_integral_le hE (approximatingSolution_relativeEntropy f hfm hf hi n)⟩
+
+theorem initialEntropyBudget_nonneg (f : Density) (hf : ∀ p, 0 ≤ f p) :
+    0 ≤ initialEntropyBudget f := by
+  apply add_nonneg
+  · exact mul_nonneg initialEntropyCoefficient_nonneg
+      (integral_nonneg (fun p => mul_nonneg (hf p) (by positivity)))
+  · exact integral_nonneg (fun p => (maxwellian_pos p.2).le)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_WeakEntropyMarginal
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Relative entropy bounds pass to weak L¹ limits -/
+
+noncomputable section
+
+open MeasureTheory Filter
+open scoped ENNReal Topology
+
+namespace BoltzmannNonuniqueness.Published
+
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X}
+
+theorem WeakL1Converges.entropy_bound {f : ℕ → X → ℝ} {g m : X → ℝ}
+    (h : WeakL1Converges μ f g) (hfi : ∀ n, Integrable (f n) μ)
+    (hfn : ∀ n, 0 ≤ᵐ[μ] f n) (hgn : 0 ≤ᵐ[μ] g)
+    (hmm : Measurable m) (hmi : Integrable m μ) (hmp : ∀ᵐ x ∂μ, 0 < m x)
+    (hHi : ∀ n, Integrable (fun x => scalarRelativeEntropy (m x) (f n x)) μ)
+    {C : ℝ} (hC : 0 ≤ C)
+    (hH : ∀ᶠ n in atTop, (∫ x, scalarRelativeEntropy (m x) (f n x) ∂μ) ≤ C) :
+    Integrable (fun x => scalarRelativeEntropy (m x) (g x)) μ ∧
+      (∫ x, scalarRelativeEntropy (m x) (g x) ∂μ) ≤ C := by
+  let ψ : ℕ → X → ℝ := fun n x => boundedEntropyTest n (m x) (g x)
+  let d : ℕ → X → ℝ := fun n x => entropyDual (m x) (g x) (ψ n x)
+  have hψm n : Measurable (ψ n) := measurable_boundedEntropyTest n hmm h.1
+  have hψb n x : |ψ n x| ≤ (n:ℝ) := boundedEntropyTest_bound n (m x) (g x)
+  have hdi n : Integrable (d n) μ := integrable_entropyDual hmi h.2.1 (hψm n) (hψb n)
+  have hdm n : Measurable (d n) := measurable_entropyDual hmm h.1 (hψm n)
+  have hdn n : 0 ≤ᵐ[μ] d n := by
+    filter_upwards [hmp,hgn] with x hmx hgx
+    exact entropyDual_boundedEntropyTest_nonneg n hmx hgx
+  have hdB n : (∫ x, d n x ∂μ) ≤ C := by
+    have hcorr := hmi.bdd_mul ((hψm n).exp.sub measurable_const).aestronglyMeasurable
+      (ae_of_all μ (fun x => show |Real.exp (ψ n x)-1| ≤ Real.exp (n:ℝ)+1 from by
+        calc
+          _ ≤ |Real.exp (ψ n x)|+|1| := abs_sub _ _
+          _ = Real.exp (ψ n x)+1 := by rw [abs_of_pos (Real.exp_pos _),abs_one]
+          _ ≤ _ := add_le_add (Real.exp_le_exp.mpr ((le_abs_self _).trans (hψb n x))) le_rfl))
+    have hdki k := integrable_entropyDual hmi (hfi k) (hψm n) (hψb n)
+    have he (u : X → ℝ) (hui : Integrable u μ) :
+        (∫ x, entropyDual (m x) (u x) (ψ n x) ∂μ) =
+          (∫ x, ψ n x*u x ∂μ)-(∫ x, (Real.exp (ψ n x)-1)*m x ∂μ) := by
+      simpa only [entropyDual,mul_comm,Pi.sub_def,Pi.mul_def] using integral_sub
+        (hui.bdd_mul (hψm n).aestronglyMeasurable (ae_of_all μ (hψb n))) hcorr
+    have ht : Tendsto (fun k => ∫ x, entropyDual (m x) (f k x) (ψ n x) ∂μ)
+        atTop (𝓝 (∫ x, d n x ∂μ)) := by
+      simp only [he _ (hfi _),show (∫ x, d n x ∂μ) = _ from he g h.2.1]
+      exact (h.2.2 (ψ n) (hψm n) ⟨n,hψb n⟩).sub_const _
+    apply le_of_tendsto ht
+    filter_upwards [hH] with k hk
+    refine (integral_mono_ae (hdki k) (hHi k) ?_).trans hk
+    filter_upwards [hmp,hfn k] with x hmx hfx
+    exact entropyDual_le hmx hfx _
+  have hHm : Measurable (fun x => scalarRelativeEntropy (m x) (g x)) :=
+    ((h.1.mul h.1.log).sub (h.1.mul (measurable_const.add hmm.log))).add hmm
+  have hHn : 0 ≤ᵐ[μ] (fun x => scalarRelativeEntropy (m x) (g x)) := by
+    filter_upwards [hmp,hgn] with x hmx hgx
+    exact scalarRelativeEntropy_nonneg hmx hgx
+  have hfatou : (∫⁻ x, ENNReal.ofReal (scalarRelativeEntropy (m x) (g x)) ∂μ) ≤
+      liminf (fun n => ∫⁻ x, ENNReal.ofReal (d n x) ∂μ) atTop := by
+    calc
+      _ = ∫⁻ x, liminf (fun n => ENNReal.ofReal (d n x)) atTop ∂μ := by
+        apply lintegral_congr_ae
+        filter_upwards [hmp,hgn] with x hmx hgx
+        exact (ENNReal.tendsto_ofReal (entropyDual_boundedEntropyTest_tendsto hmx hgx)).liminf_eq.symm
+      _ ≤ _ := lintegral_liminf_le (fun n => (hdm n).ennreal_ofReal)
+  have hbound : (∫⁻ x, ENNReal.ofReal (scalarRelativeEntropy (m x) (g x)) ∂μ) ≤
+      ENNReal.ofReal C := by
+    refine hfatou.trans (liminf_le_of_frequently_le ?_)
+    exact (Eventually.of_forall (fun n => by
+      rw [← ofReal_integral_eq_lintegral_ofReal (hdi n) (hdn n)]
+      exact ENNReal.ofReal_le_ofReal (hdB n))).frequently
+  have hgi : Integrable (fun x => scalarRelativeEntropy (m x) (g x)) μ :=
+    ⟨hHm.aestronglyMeasurable,(hasFiniteIntegral_iff_ofReal hHn).mpr
+      (hbound.trans_lt ENNReal.ofReal_lt_top)⟩
+  refine ⟨hgi,?_⟩
+  rw [← ofReal_integral_eq_lintegral_ofReal hgi hHn] at hbound
+  exact (ENNReal.ofReal_le_ofReal_iff hC).mp hbound
+
+end BoltzmannNonuniqueness.Published
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_StrongCompactPairTests
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Strong L1 convergence with uniformly small errors on both sides -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X}
+
+theorem strongL1_of_two_sided_approximations
+    {f : ℕ → X → ℝ} {g : X → ℝ} {u : ℕ → ℕ → X → ℝ} {v : ℕ → X → ℝ}
+    {δ : ℕ → ℝ≥0∞} (hδ : Tendsto δ atTop (𝓝 0))
+    (hf : ∀ j n, eLpNorm (f n-u j n) 1 μ ≤ δ j)
+    (hg : ∀ j, eLpNorm (v j-g) 1 μ ≤ δ j)
+    (hu : ∀ j, Tendsto (fun n => eLpNorm (u j n-v j) 1 μ) atTop (𝓝 0))
+    (hfm : ∀ n, AEStronglyMeasurable (f n) μ) (hum : ∀ j n, AEStronglyMeasurable (u j n) μ)
+    (hvm : ∀ j, AEStronglyMeasurable (v j) μ) (hgm : AEStronglyMeasurable g μ) :
+    Tendsto (fun n => eLpNorm (f n-g) 1 μ) atTop (𝓝 0) := by
+  apply ENNReal.tendsto_nhds_zero.mpr
+  intro ε hε
+  have hε4 : 0 < ε/4 := ENNReal.div_pos hε.ne' (by norm_num)
+  obtain ⟨j,hj⟩ := (ENNReal.tendsto_nhds_zero.mp hδ (ε/4) hε4).exists
+  filter_upwards [ENNReal.tendsto_nhds_zero.mp (hu j) (ε/4) hε4] with n hn
+  have htri (a b c : X → ℝ) (ha : AEStronglyMeasurable a μ) (hb : AEStronglyMeasurable b μ)
+      (hc : AEStronglyMeasurable c μ) : eLpNorm (a-c) 1 μ ≤ eLpNorm (a-b) 1 μ+eLpNorm (b-c) 1 μ := by
+    have he : a-c = (a-b)+(b-c) := by ext x; simp
+    rw [he]
+    exact eLpNorm_add_le (hf := ha.sub hb) (hg := hb.sub hc) (by norm_num)
+  calc
+    _ ≤ eLpNorm (f n-u j n) 1 μ+eLpNorm (u j n-g) 1 μ := htri _ _ _ (hfm n) (hum j n) hgm
+    _ ≤ δ j+(eLpNorm (u j n-v j) 1 μ+δ j) :=
+      add_le_add (hf j n) ((htri _ _ _ (hum j n) (hvm j) hgm).trans (add_le_add le_rfl (hg j)))
+    _ ≤ ε/4+(ε/4+ε/4) := add_le_add hj (add_le_add hn hj)
+    _ ≤ ε := by
+      calc
+        ε/4+(ε/4+ε/4) ≤ ε/4+(ε/4+(ε/4+ε/4)) := by gcongr; exact le_self_add
+        _ = 4*(ε/4) := by ring
+        _ = ε := ENNReal.mul_div_cancel (by norm_num) (by norm_num)
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Matched mass-normalized second moments give strong scalar averages -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal NNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X}
+
+theorem strong_of_normalized_second_moments
+    {a r : ℕ → X → ℝ} {A R : X → ℝ}
+    (ha : Published.WeakL1Converges μ a A) (hr : Published.WeakL1Converges μ r R)
+    (hai : ∀ n, Integrable (a n) μ) (hri : ∀ n, Integrable (r n) μ)
+    (hrp : ∀ n x, 0 < r n x) (hRp : ∀ x, 0 < R x)
+    {B : ℝ} (hB : 0 < B) (hbound : ∀ n, (∫ x, r n x ∂μ) ≤ B)
+    (hsi : ∀ n, Integrable (fun x => (a n x)^2/r n x) μ)
+    (C : ℝ≥0) (hA : ∀ᵐ x ∂μ, |A x| ≤ C*R x)
+    (hsecond : Tendsto (fun n => ∫ x, (a n x)^2/r n x ∂μ)
+      atTop (𝓝 (∫ x, (A x)^2/R x ∂μ)))
+    (hstrong : Tendsto (fun n => eLpNorm (fun x => r n x-R x) 1 μ) atTop (𝓝 0)) :
+    Tendsto (fun n => eLpNorm (fun x => a n x-A x) 1 μ) atTop (𝓝 0) := by
+  let b := boundedQuotient C A R
+  have hbm : Measurable b := boundedQuotient_measurable C ha.1 hr.1
+  have hb x : |b x| ≤ C := boundedQuotient_bound C A R x
+  have hAe : A =ᵐ[μ] fun x => R x*b x := boundedQuotient_eq_ae C hRp hA
+  have he : (∫ x, (A x)^2/R x ∂μ) = ∫ x, (b x*b x)*R x ∂μ := by
+    apply integral_congr_ae
+    filter_upwards [hAe] with x hx
+    rw [hx]
+    field_simp [(hRp x).ne']
+  rw [he] at hsecond
+  exact weighted_moments_strong ha hr hai hri hrp hB hbound hsi hbm C hb hAe hsecond hstrong
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Finite linear operations preserve strong L1 convergence -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X}
+
+theorem strongL1_add {f g : ℕ → X → ℝ} {F G : X → ℝ}
+    (hf : Tendsto (fun n => eLpNorm (fun x => f n x-F x) 1 μ) atTop (𝓝 0))
+    (hg : Tendsto (fun n => eLpNorm (fun x => g n x-G x) 1 μ) atTop (𝓝 0))
+    (hfm : ∀ n, AEStronglyMeasurable (f n) μ) (hFm : AEStronglyMeasurable F μ)
+    (hgm : ∀ n, AEStronglyMeasurable (g n) μ) (hGm : AEStronglyMeasurable G μ) :
+    Tendsto (fun n => eLpNorm (fun x => (f n x+g n x)-(F x+G x)) 1 μ) atTop (𝓝 0) := by
+  have ht := hf.add hg
+  simp only [zero_add] at ht
+  apply tendsto_of_tendsto_of_tendsto_of_le_of_le tendsto_const_nhds ht (fun _ => zero_le)
+  intro n
+  have he : (fun x => (f n x+g n x)-(F x+G x)) =
+      (fun x => f n x-F x)+(fun x => g n x-G x) := by ext x; simp <;> ring
+  change eLpNorm (fun x => (f n x+g n x)-(F x+G x)) 1 μ ≤ _
+  rw [he]
+  exact eLpNorm_add_le (hf := (hfm n).sub hFm) (hg := (hgm n).sub hGm) (by norm_num)
+
+theorem strongL1_const_mul {f : ℕ → X → ℝ} {F : X → ℝ}
+    (hf : Tendsto (fun n => eLpNorm (fun x => f n x-F x) 1 μ) atTop (𝓝 0)) (c : ℝ) :
+    Tendsto (fun n => eLpNorm (fun x => c*f n x-c*F x) 1 μ) atTop (𝓝 0) := by
+  have he n : (fun x => c*f n x-c*F x) = c • (fun x => f n x-F x) := by
+    ext x
+    simp only [Pi.smul_apply,smul_eq_mul,mul_sub]
+  simp_rw [he,eLpNorm_const_smul]
+  convert ENNReal.Tendsto.const_mul (a := ‖c‖ₑ) hf (Or.inr (by simp)) using 1
+  all_goals try with_reducible_and_instances rfl
+  simp
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Product-test convergence extends to every finite supported tensor sum -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+theorem strong_supported_tensor_pair_tests
+    {P : ℕ → X × (Velocity × Velocity) → ℝ} {Q : X × (Velocity × Velocity) → ℝ}
+    (hPi : ∀ n, Integrable (P n) (μ.prod volume)) (hQi : Integrable Q (μ.prod volume))
+    (hprod : ∀ (a b : C(Velocity,ℝ)), HasCompactSupport a → HasCompactSupport b →
+      Tendsto (fun n => eLpNorm (fun x =>
+        pairTestAverage (tensorTest a b) (P n) x-pairTestAverage (tensorTest a b) Q x) 1 μ)
+        atTop (𝓝 0))
+    {k : C(Velocity × Velocity,ℝ)} (hk : IsSupportedTensorSum k) :
+    Tendsto (fun n => eLpNorm (fun x => pairTestAverage k (P n) x-pairTestAverage k Q x) 1 μ)
+      atTop (𝓝 0) := by
+  induction hk with
+  | zero => simp [pairTestAverage]
+  | tensor a b ha hb => exact hprod a b ha hb
+  | @add k l hk hl ihk ihl =>
+    have h := strongL1_add ihk ihl (fun n => (((k.continuous.measurable.comp measurable_snd).aestronglyMeasurable.mul (hPi n).1).integral_prod_right')) (((k.continuous.measurable.comp measurable_snd).aestronglyMeasurable.mul hQi.1).integral_prod_right')
+      (fun n => (((l.continuous.measurable.comp measurable_snd).aestronglyMeasurable.mul (hPi n).1).integral_prod_right')) (((l.continuous.measurable.comp measurable_snd).aestronglyMeasurable.mul hQi.1).integral_prod_right')
+    apply h.congr'
+    apply Filter.Eventually.of_forall
+    intro n
+    apply eLpNorm_congr_ae
+    filter_upwards [pairTestAverage_add (hPi n) hk.hasCompactSupport hl.hasCompactSupport,
+      pairTestAverage_add hQi hk.hasCompactSupport hl.hasCompactSupport] with x hx hy
+    rw [hx,hy]
+  | @smul c k hk ih =>
+    simpa only [pairTestAverage_smul] using strongL1_const_mul ih c
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Identified normalized pairs force strong convergence of bounded velocity averages -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal NNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X Y : Type*} [MeasurableSpace X] [MeasurableSpace Y]
+variable {μ : Measure X} {ν : Measure Y} [IsFiniteMeasure μ] [SFinite ν]
+
+theorem strong_average_of_normalized_pairs
+    {f : ℕ → X × Y → ℝ} {g : X × Y → ℝ}
+    (hw : Published.WeakL1Converges (μ.prod ν) f g)
+    (hp : Published.WeakL1Converges (μ.prod (ν.prod ν))
+      (fun n => normalizedPair ν (f n)) (normalizedPair ν g))
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n p, 0 ≤ f n p) (hg : ∀ p, 0 ≤ g p)
+    (hfi : ∀ n, Integrable (f n) (μ.prod ν))
+    (hm : Tendsto (fun n => eLpNorm (fun x => fiberMass ν (f n) x-fiberMass ν g x) 1 μ)
+      atTop (𝓝 0))
+    {B : ℝ} (hB : 0 < B) (hbound : ∀ n, (∫ x, 1+fiberMass ν (f n) x ∂μ) ≤ B)
+    {ψ : Y → ℝ} (hψ : Measurable ψ) (C : ℝ≥0) (hC : ∀ y, |ψ y| ≤ C) :
+    Tendsto (fun n => eLpNorm (fun x =>
+      (∫ v, ψ v*f n (x,v) ∂ν)-(∫ v, ψ v*g (x,v) ∂ν)) 1 μ) atTop (𝓝 0) := by
+  let a n x := ∫ v, ψ v*f n (x,v) ∂ν
+  let A x := ∫ v, ψ v*g (x,v) ∂ν
+  let r n x := 1+fiberMass ν (f n) x
+  let R x := 1+fiberMass ν g x
+  have hrp n x : 0 < r n x := by
+    have h : 0 ≤ fiberMass ν (f n) x := integral_nonneg (fun v => hf n (x,v))
+    dsimp only [r]
+    linarith
+  have hRp x : 0 < R x := by
+    have h : 0 ≤ fiberMass ν g x := integral_nonneg (fun v => hg (x,v))
+    dsimp only [R]
+    linarith
+  have ha : Published.WeakL1Converges μ a A :=
+    hw.marginal hfi (hψ.comp measurable_snd) C (fun z => hC z.2)
+  have hai n : Integrable (a n) μ :=
+    ((hfi n).bdd_mul (hψ.comp measurable_snd).aestronglyMeasurable
+      (ae_of_all _ (fun z => hC z.2))).integral_prod_left
+  have hri n : Integrable (r n) μ := (integrable_const 1).add (hfi n).integral_prod_left
+  have hRi : Integrable R μ := (integrable_const 1).add hw.2.1.integral_prod_left
+  have hRm : Measurable R := measurable_const.add (fiberMass_measurable hw.1)
+  have hrc : Published.WeakL1Converges μ (fun _ : ℕ => R) R :=
+    ⟨hRm,hRi,fun _ _ _ => tendsto_const_nhds⟩
+  have hstrong : Tendsto (fun n => eLpNorm (fun x => r n x-R x) 1 μ) atTop (𝓝 0) := by
+    simpa only [r,R,add_sub_add_left_eq_sub] using hm
+  have hr := hrc.of_eLpNorm_sub (fun _ => hRi) hri hstrong
+  have hsi n : Integrable (fun x => (a n x)^2/r n x) μ :=
+    normalized_average_square_integrable (hfm n) (hf n) (hfi n) hψ hC
+  have hs := (weak_normalized_average_squares hfm hf hfi hp hψ hC).2.2
+    (fun _ => 1) measurable_const ⟨1,fun _ => by norm_num⟩
+  simp only [one_mul] at hs
+  have hAb : ∀ᵐ x ∂μ, |A x| ≤ C*R x := by
+    filter_upwards [hw.2.1.prod_right_ae] with x hx
+    have he := norm_integral_le_of_norm_le (hx.const_mul (C:ℝ))
+      (ae_of_all ν (fun v => show ‖ψ v*g (x,v)‖ ≤ C*g (x,v) from by
+        rw [norm_mul,Real.norm_eq_abs,Real.norm_of_nonneg (hg (x,v))]
+        exact mul_le_mul_of_nonneg_right (hC v) (hg (x,v))))
+    have hb : |A x| ≤ C*fiberMass ν g x := by
+      simpa only [A,Real.norm_eq_abs,integral_const_mul,fiberMass] using he
+    exact hb.trans (by dsimp only [R] <;> nlinarith [C.coe_nonneg])
+  exact strong_of_normalized_second_moments ha hr hai hri hrp hRp hB hbound hsi C hAb hs hstrong
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+section
+
+/-! # Strong convergence against every continuous compact velocity-pair test -/
+noncomputable section
+open MeasureTheory Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.Compactness
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [SFinite μ]
+
+theorem strong_compact_pair_tests
+    {P : ℕ → X × (Velocity × Velocity) → ℝ} {Q : X × (Velocity × Velocity) → ℝ}
+    (hPm : ∀ n, Measurable (P n)) (hQm : Measurable Q)
+    (hPi : ∀ n, Integrable (P n) (μ.prod volume)) (hQi : Integrable Q (μ.prod volume))
+    {B : ℝ≥0∞} (hB : B ≠ ∞) (hPb : ∀ n, eLpNorm (P n) 1 (μ.prod volume) ≤ B)
+    (hQb : eLpNorm Q 1 (μ.prod volume) ≤ B)
+    (hprod : ∀ (a b : C(Velocity,ℝ)), HasCompactSupport a → HasCompactSupport b →
+      Tendsto (fun n => eLpNorm (fun x =>
+        pairTestAverage (tensorTest a b) (P n) x-pairTestAverage (tensorTest a b) Q x) 1 μ)
+        atTop (𝓝 0))
+    (k : C(Velocity × Velocity,ℝ)) (hk : HasCompactSupport k) :
+    Tendsto (fun n => eLpNorm (fun x => pairTestAverage k (P n) x-pairTestAverage k Q x) 1 μ)
+      atTop (𝓝 0) := by
+  let ε : ℕ → ℝ := fun j => 1/((j:ℝ)+1)
+  have hε j : 0 < ε j := by dsimp [ε] <;> positivity
+  choose a ha he using (fun j => exists_supported_tensorSum_uniform k hk (hε j))
+  have hac j := (ha j).hasCompactSupport
+  have hδ : Tendsto (fun j => ENNReal.ofReal (ε j)*B) atTop (𝓝 0) := by
+    have hr : Tendsto ε atTop (𝓝 0) := tendsto_one_div_add_atTop_nhds_zero_nat
+    have ht := ENNReal.Tendsto.mul_const (ENNReal.tendsto_ofReal hr) (Or.inr hB)
+    simpa only [ENNReal.ofReal_zero,zero_mul] using ht
+  apply strongL1_of_two_sided_approximations hδ
+    (u := fun j n => pairTestAverage (a j) (P n)) (v := fun j => pairTestAverage (a j) Q)
+  · intro j n
+    change eLpNorm (fun x => pairTestAverage k (P n) x-pairTestAverage (a j) (P n) x) 1 μ ≤ _
+    exact (pairTestAverage_uniform_error (hPm n) (hPi n) hk (hac j)
+      (fun y => by rw [abs_sub_comm]; exact (he j y).le)).trans (mul_le_mul' le_rfl (hPb n))
+  · intro j
+    change eLpNorm (fun x => pairTestAverage (a j) Q x-pairTestAverage k Q x) 1 μ ≤ _
+    exact (pairTestAverage_uniform_error hQm hQi (hac j) hk
+      (fun y => (he j y).le)).trans (mul_le_mul' le_rfl hQb)
+  · intro j
+    exact strong_supported_tensor_pair_tests hPi hQi hprod (ha j)
+  · exact fun n => ((k.continuous.measurable.comp measurable_snd).mul
+      (hPm n)).stronglyMeasurable.integral_prod_right'.aestronglyMeasurable
+  · exact fun j n => (((a j).continuous.measurable.comp measurable_snd).mul
+      (hPm n)).stronglyMeasurable.integral_prod_right'.aestronglyMeasurable
+  · exact fun j => (((a j).continuous.measurable.comp measurable_snd).mul
+      hQm).stronglyMeasurable.integral_prod_right'.aestronglyMeasurable
+  · exact ((k.continuous.measurable.comp measurable_snd).mul
+      hQm).stronglyMeasurable.integral_prod_right'.aestronglyMeasurable
+
+end BoltzmannNonuniqueness.Compactness
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_NormalizedGainCompactness
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.ChartKernel.offAxis_sFinite _root_.OAI.BoltzmannNonuniqueness.EuclideanFlight.sourcePullback_finite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.copyColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.mainCoreKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.selectedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.dilatedColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCoreSheet.kineticColdKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Strong convergence of full normalized gains from their localized limits -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+open Compactness PeriodicApproximation
+variable {X : Type*} [MeasurableSpace X] {μ : Measure X} [IsFiniteMeasure μ]
+
+theorem normalizedGain_strong_of_localized
+    {f : ℕ → X × Velocity → ℝ} {g : X × Velocity → ℝ} {C : ℝ}
+    (hfm : ∀ n, Measurable (f n)) (hf : ∀ n p, 0 ≤ f n p)
+    (hi : ∀ n, Integrable (entropyGauge (f n)) (μ.prod volume))
+    (hb : ∀ n, (∫ p, entropyGauge (f n) p ∂μ.prod volume) ≤ C)
+    (hgm : Measurable g) (hg : ∀ p, 0 ≤ g p)
+    (hgi : Integrable (entropyGauge g) (μ.prod volume))
+    (hgb : (∫ p, entropyGauge g p ∂μ.prod volume) ≤ C)
+    {ν : Measure (X × Velocity)} (hν : ν ≤ μ.prod volume)
+    (hc : ∀ η : C(Velocity,ℝ), HasCompactSupport η →
+      Tendsto (fun n => eLpNorm
+        (localizedPhysicalGain η (f n)-localizedPhysicalGain η g) 1 ν) atTop (𝓝 0)) :
+    Tendsto (fun n => eLpNorm
+      (pairGain (normalizedPair volume (f n))-pairGain (normalizedPair volume g)) 1 ν)
+      atTop (𝓝 0) := by
+  choose η hηc hη0 hη1 hηeq using
+    (fun j : ℕ => exists_velocity_unit_cutoff (show 0 < (j:ℝ)+1 by positivity))
+  have hδ : Tendsto (fun j : ℕ => sphereArea univ*ENNReal.ofReal (8*C/((j:ℝ)+1)))
+      atTop (𝓝 0) := by
+    have he : Tendsto (fun j : ℕ => 8*C/((j:ℝ)+1)) atTop (𝓝 0) := by
+      exact tendsto_const_nhds.div_atTop
+        (tendsto_natCast_atTop_atTop.atTop_add tendsto_const_nhds)
+    have ht := ENNReal.Tendsto.const_mul (a := sphereArea univ) (ENNReal.tendsto_ofReal he)
+      (Or.inr (measure_ne_top sphereArea univ))
+    simpa only [ENNReal.ofReal_zero,mul_zero] using ht
+  apply strongL1_of_two_sided_approximations hδ
+    (u := fun j n => localizedPhysicalGain (η j) (f n))
+    (v := fun j => localizedPhysicalGain (η j) g)
+  · intro j n
+    exact (eLpNorm_mono_measure _ hν).trans
+      (localizedGain_tail_le (by positivity) (η j) (hη0 j) (hη1 j) (hηeq j)
+        (hfm n) (hf n) (hi n) (hb n))
+  · intro j
+    rw [eLpNorm_sub_comm]
+    exact (eLpNorm_mono_measure _ hν).trans
+      (localizedGain_tail_le (by positivity) (η j) (hη0 j) (hη1 j) (hηeq j) hgm hg hgi hgb)
+  · exact fun j => hc (η j) (hηc j)
+  · exact fun n => (pairGain_measurable
+      (normalizedTensor_measurable (fiberMass_measurable (hfm n)) (hfm n) (hfm n))).aestronglyMeasurable
+  · exact fun j n => (localizedPhysicalGain_integrable (η j) (hηc j) (hfm n) (by
+      simpa only [Measure.volume_eq_prod] using weightedNormalizedPair_integrable (hfm n) (hf n) (hi n))).1.mono_measure hν
+  · exact fun j => (localizedPhysicalGain_integrable (η j) (hηc j) hgm (by
+      simpa only [Measure.volume_eq_prod] using weightedNormalizedPair_integrable hgm hg hgi)).1.mono_measure hν
+  · exact (pairGain_measurable
+      (normalizedTensor_measurable (fiberMass_measurable hgm) hgm hgm)).aestronglyMeasurable
+
+end BoltzmannNonuniqueness.CollisionCompactness.DoubleGain
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PeriodicWeakCompactness
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # A single nonnegative global weak limit of the actual periodic approximants -/
+noncomputable section
+open MeasureTheory Filter Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem GlobalWeakLimit.weak_on_window {f : Density} {hfm : Measurable f}
+    (G : GlobalWeakLimit f hfm) {T : ℝ} (hT : 0 ≤ T) :
+    Published.WeakL1Converges ((volume.restrict (Icc 0 T)).prod volume)
+      (fun n => (approximatingSolution f hfm (G.indices n)).density) G.density :=
+  weak_localize_time G.weighted_weak hT
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Weak velocity averages of the same global periodic limit -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem GlobalWeakLimit.kineticProfile_measurable {f : Density} {hfm : Measurable f}
+    (G : GlobalWeakLimit f hfm) : Measurable G.kineticProfile :=
+  G.measurable.comp (measurable_fst.fst.prodMk (measurable_fst.snd.prodMk measurable_snd))
+
+theorem GlobalWeakLimit.kinetic_weak_on_window {f : Density} {hfm : Measurable f}
+    (G : GlobalWeakLimit f hfm) {T : ℝ} (hT : 0 ≤ T) :
+    Published.WeakL1Converges (((volume.restrict (Icc 0 T)).prod (volume : Measure Position)).prod volume)
+      (fun n => (approximatingSolution f hfm (G.indices n)).kineticProfile) G.kineticProfile := by
+  apply Published.WeakL1Converges.of_comp_measurePreserving
+    (kineticGrouping_measurePreserving (volume.restrict (Icc 0 T))).symm
+    (fun n => (approximatingSolution f hfm (G.indices n)).kineticProfile_measurable)
+    G.kineticProfile_measurable
+  exact G.weak_on_window hT
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Mass-normalized pair compactness for the actual global approximation sequence -/
+noncomputable section
+open MeasureTheory Filter
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem approximatingSolution_normalizedPair_compactness
+    (f : Density) (hfm : Measurable f) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    (μ : Measure ℝ) [IsFiniteMeasure μ] :
+    UniformIntegrable (fun n => Compactness.normalizedPair volume
+      (approximatingSolution f hfm n).kineticProfile) 1
+      ((μ.prod (volume : Measure Position)).prod (volume.prod volume)) ∧
+    UnifTight (fun n => Compactness.normalizedPair volume
+      (approximatingSolution f hfm n).kineticProfile) 1
+      ((μ.prod (volume : Measure Position)).prod (volume.prod volume)) := by
+  have hm := fun n => (approximatingSolution f hfm n).kineticProfile_measurable
+  have hn : ∀ (n : ℕ) (p : (ℝ × Position) × Velocity),
+      0 ≤ (approximatingSolution f hfm n).kineticProfile p :=
+    fun n p => (approximatingSolution f hfm n).nonnegative _
+  have hg := fun n => (approximatingSolution f hfm n).kinetic_entropy_integrable
+    (μ := μ) (by positivity) (approximatingSolution_entropy f hfm hf hi n)
+  have hb := fun n => (approximatingSolution f hfm n).kinetic_entropy_integral_le
+    (μ := μ) (by positivity) (approximatingSolution_entropy f hfm hf hi n)
+  exact ⟨Compactness.normalizedPair_uniformIntegrable hm hn hg hb,
+    Compactness.normalizedPair_unifTight hm hn hg hb⟩
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Entropy and velocity moments of the actual global weak limit -/
+noncomputable section
+open MeasureTheory Filter Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+variable {f : Density} {hfm : Measurable f}
+
+theorem relativeEntropy_of_weak_approximation
+    (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {μ : Measure ℝ} [IsFiniteMeasure μ] {φ : ℕ → ℕ} {g : ℝ × Phase → ℝ}
+    (hg : Published.WeakL1Converges (μ.prod volume)
+      (fun n => (approximatingSolution f hfm (φ n)).density) g)
+    (hgn : ∀ z, 0 ≤ g z) :
+    Integrable (spacetimeRelativeEntropy g) (μ.prod volume) ∧
+      (∫ z, spacetimeRelativeEntropy g z ∂μ.prod volume) ≤ μ.real univ*initialEntropyBudget f := by
+  have hE n := approximatingSolution_spacetimeEntropy_integrable f hfm hf hi (φ n) μ
+  have hH n := approximatingSolution_spacetimeRelativeEntropy f hfm hf hi (φ n) μ
+  exact hg.entropy_bound
+    (fun n => density_integrable_of_spacetimeEntropy
+      (approximatingSolution f hfm (φ n)).measurable (approximatingSolution f hfm (φ n)).nonnegative (hE n))
+    (fun n => ae_of_all _ (approximatingSolution f hfm (φ n)).nonnegative)
+    (ae_of_all _ hgn) (by unfold maxwellian; fun_prop)
+    (integrable_maxwellian_phase.comp_snd μ) (ae_of_all _ (fun z => maxwellian_pos z.2.2))
+    (fun n => (hH n).1) (mul_nonneg (by positivity) (initialEntropyBudget_nonneg f hf))
+    (Eventually.of_forall (fun n => (hH n).2))
+
+theorem GlobalWeakLimit.entropy_on_window (G : GlobalWeakLimit f hfm)
+    (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) :
+    Integrable (spacetimeRelativeEntropy G.density) ((volume.restrict (Icc 0 T)).prod volume) ∧
+      (∫ z, spacetimeRelativeEntropy G.density z ∂(volume.restrict (Icc 0 T)).prod volume) ≤
+        (volume.restrict (Icc 0 T)).real univ*initialEntropyBudget f :=
+  relativeEntropy_of_weak_approximation hf hi (G.weak_on_window hT) G.nonnegative
+
+theorem GlobalWeakLimit.entropyMoment_on_window (G : GlobalWeakLimit f hfm)
+    (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) :
+    Integrable (spacetimeEntropy G.density) ((volume.restrict (Icc 0 T)).prod volume) :=
+  spacetimeEntropy_integrable_of_relativeEntropy G.measurable G.nonnegative
+    (G.entropy_on_window hf hi hT).1
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PeriodicJointBudgetLimit
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # The actual periodic normalized pairs converge with the collision velocity weight -/
+noncomputable section
+open MeasureTheory Set
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+
+theorem GlobalWeakLimit.kinetic_entropy_on_window {f : Density} {hfm : Measurable f}
+    (G : GlobalWeakLimit f hfm) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) :
+    Integrable (entropyGauge G.kineticProfile)
+      (((volume.restrict (Icc 0 T)).prod (volume : Measure Position)).prod volume) :=
+  (kineticGrouping_measurePreserving (volume.restrict (Icc 0 T))).integrable_comp_of_integrable
+    (G.entropyMoment_on_window hf hi hT)
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PeriodicStrongAverages
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Strong bounded velocity averages for the actual global collision limit -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal NNReal Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open Compactness CollisionCompactness
+
+theorem GlobalCollisionLimit.velocity_average_strong {f : Density} {hfm : Measurable f}
+    (G : GlobalCollisionLimit f hfm) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) {ψ : Velocity → ℝ} (hψ : Measurable ψ)
+    (C : ℝ≥0) (hC : ∀ v, |ψ v| ≤ C) :
+    Tendsto (fun n => eLpNorm (fun z =>
+      (∫ v, ψ v*(approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (z,v))-
+      (∫ v, ψ v*G.weakLimit.kineticProfile (z,v)))
+      1 ((volume.restrict (Icc 0 T)).prod (volume : Measure Position))) atTop (𝓝 0) := by
+  let μ : Measure (ℝ × Position) := (volume.restrict (Icc 0 T)).prod volume
+  let F n := (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile
+  let K := (volume.restrict (Icc 0 T)).real univ*approximationEntropyBudget f
+  have hFm n : Measurable (F n) :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile_measurable
+  have hFn n p : 0 ≤ F n p :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).nonnegative _
+  have hEi n : Integrable (entropyGauge (F n)) (μ.prod volume) :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kinetic_entropy_integrable
+      (μ := volume.restrict (Icc 0 T)) (by positivity) (approximatingSolution_entropy f hfm hf hi _)
+  have hEb n : (∫ p, entropyGauge (F n) p ∂μ.prod volume) ≤ K :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kinetic_entropy_integral_le
+      (μ := volume.restrict (Icc 0 T)) (by positivity) (approximatingSolution_entropy f hfm hf hi _)
+  have hFi n : Integrable (F n) (μ.prod volume) :=
+    integrable_of_entropyGauge (hFm n) (hFn n) (hEi n)
+  have hFb n : (∫ p, F n p ∂μ.prod volume) ≤ K :=
+    (integral_mono (hFi n) (hEi n) (entropyGauge_ge_density (hFn n))).trans (hEb n)
+  have hB : 0 < μ.real univ+|K|+1 := by positivity
+  have hbound n : (∫ z, 1+fiberMass volume (F n) z ∂μ) ≤ μ.real univ+|K|+1 := by
+    unfold fiberMass
+    rw [integral_add (integrable_const 1) (hFi n).integral_prod_left, integral_const]
+    simp only [smul_eq_mul,mul_one]
+    rw [← integral_prod _ (hFi n)]
+    linarith [hFb n,le_abs_self K]
+  exact strong_average_of_normalized_pairs (G.weakLimit.kinetic_weak_on_window hT)
+    (G.normalized_pairs T hT) hFm hFn (fun p => G.weakLimit.nonnegative _)
+    hFi (G.mass_strong T hT) hB hbound hψ C hC
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Product-tested physical pairs converge strongly on the same global subsequence -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal NNReal Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open Compactness
+
+theorem GlobalCollisionLimit.pair_product_average_strong {f : Density} {hfm : Measurable f}
+    (G : GlobalCollisionLimit f hfm) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) {a b : Velocity → ℝ} (ha : Measurable a) (hb : Measurable b)
+    (C D : ℝ≥0) (hC : ∀ v, |a v| ≤ C) (hD : ∀ v, |b v| ≤ D) :
+    Tendsto (fun n => eLpNorm (fun x : ℝ × Position =>
+      (∫ y : Velocity × Velocity, (a y.1*b y.2)*normalizedPair volume
+        (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (x,y))-
+      (∫ y : Velocity × Velocity, (a y.1*b y.2)*normalizedPair volume G.weakLimit.kineticProfile (x,y)))
+      1 ((volume.restrict (Icc 0 T)).prod (volume : Measure Position))) atTop (𝓝 0) := by
+  let μ : Measure (ℝ × Position) := (volume.restrict (Icc 0 T)).prod volume
+  let F n := (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile
+  have hFm n : Measurable (F n) :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile_measurable
+  have hFn n p : 0 ≤ F n p :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).nonnegative _
+  have hEi n : Integrable (entropyGauge (F n)) (μ.prod volume) :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kinetic_entropy_integrable
+      (μ := volume.restrict (Icc 0 T)) (by positivity) (approximatingSolution_entropy f hfm hf hi _)
+  have hEb n : (∫ p, entropyGauge (F n) p ∂μ.prod volume) ≤
+      (volume.restrict (Icc 0 T)).real univ*approximationEntropyBudget f :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kinetic_entropy_integral_le
+      (μ := volume.restrict (Icc 0 T)) (by positivity) (approximatingSolution_entropy f hfm hf hi _)
+  have hFi : ∀ n, Integrable (F n) (μ.prod (volume : Measure Velocity)) :=
+    fun n => integrable_of_entropyGauge (hFm n) (hFn n) (hEi n)
+  have hmass : UniformIntegrable (fun n => fiberMass volume (F n)) 1 μ :=
+    mass_marginal_uniformIntegrable hFm hFn hEi hEb
+  have hmassconv := G.mass_strong T hT
+  have hAc := G.velocity_average_strong hf hi hT ha C hC
+  have hBc := G.velocity_average_strong hf hi hT hb D hD
+  apply normalizedPair_product_strong (μ := μ) (ν := (volume : Measure Velocity))
+    (f := F) (g := G.weakLimit.kineticProfile) (k := fun p => a p.2) (l := fun p => b p.2)
+    hFm hFn (fun p => G.weakLimit.nonnegative _) hFi G.weakLimit.kineticProfile_measurable hmass hmassconv
+    (ha.comp measurable_snd) (hb.comp measurable_snd) C.coe_nonneg D.coe_nonneg
+    (fun p => hC p.2) (fun p => hD p.2) hAc hBc
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Every continuous compact velocity-pair average converges strongly -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal NNReal Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open Compactness
+
+theorem GlobalCollisionLimit.pair_compact_average_strong {f : Density} {hfm : Measurable f}
+    (G : GlobalCollisionLimit f hfm) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) (k : C(Velocity × Velocity,ℝ)) (hk : HasCompactSupport k) :
+    Tendsto (fun n => eLpNorm (fun x : ℝ × Position =>
+      pairTestAverage k (normalizedPair volume
+        (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile) x-
+      pairTestAverage k (normalizedPair volume G.weakLimit.kineticProfile) x)
+      1 ((volume.restrict (Icc 0 T)).prod (volume : Measure Position))) atTop (𝓝 0) := by
+  let μ : Measure (ℝ × Position) := (volume.restrict (Icc 0 T)).prod volume
+  let F n := (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile
+  let q := G.weakLimit.kineticProfile
+  have hFm n : Measurable (F n) :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile_measurable
+  have hFn n z : 0 ≤ F n z := (approximatingSolution f hfm (G.weakLimit.indices n)).nonnegative _
+  have hUI : UniformIntegrable F 1 (μ.prod volume) :=
+    uniformIntegrable_comp (approximatingSolution_compactness_hypotheses f hfm hf hi
+      (volume.restrict (Icc 0 T))).1 G.weakLimit.indices
+  have hFi n : Integrable (F n) (μ.prod volume) := memLp_one_iff_integrable.mp (hUI.memLp n)
+  have hqi : Integrable q (μ.prod volume) := (G.weakLimit.kinetic_weak_on_window hT).2.1
+  have hqn z : 0 ≤ q z := G.weakLimit.nonnegative _
+  have hqm : Measurable q := G.weakLimit.kineticProfile_measurable
+  have hPm n : Measurable (normalizedPair volume (F n)) :=
+    normalizedTensor_measurable (fiberMass_measurable (hFm n)) (hFm n) (hFm n)
+  have hQm : Measurable (normalizedPair volume q) :=
+    normalizedTensor_measurable (fiberMass_measurable hqm) hqm hqm
+  have hPi n : Integrable (normalizedPair volume (F n)) (μ.prod (volume : Measure (Velocity × Velocity))) := by
+    simpa only [Measure.volume_eq_prod] using normalizedPair_integrable (hFm n) (hFn n) (hFi n)
+  have hQi : Integrable (normalizedPair volume q) (μ.prod (volume : Measure (Velocity × Velocity))) := by
+    simpa only [Measure.volume_eq_prod] using normalizedPair_integrable hqm hqn hqi
+  obtain ⟨D,hD⟩ := hUI.2
+  let B : ℝ≥0∞ := max D (eLpNorm (normalizedPair volume q) 1 (μ.prod volume))
+  have hB : B ≠ ∞ := ne_of_lt (max_lt (ENNReal.coe_lt_top)
+    (memLp_one_iff_integrable.mpr hQi).eLpNorm_lt_top)
+  apply strong_compact_pair_tests hPm hQm hPi hQi hB
+  · intro n
+    have hh := normalizedTensor_L1_le (fiberMass_measurable (hFm n))
+      (fun x => integral_nonneg (fun v => hFn n (x,v))) (hFm n) (hFm n)
+      (hFn n) (hFn n) (hFi n) (hFi n) (ae_of_all _ (fun _ => le_rfl))
+    change eLpNorm (normalizedPair volume (F n)) 1 (μ.prod (volume.prod volume)) ≤
+      eLpNorm (F n) 1 (μ.prod volume) at hh
+    have hhb : eLpNorm (normalizedPair volume (F n)) 1 (μ.prod volume) ≤ D := by
+      simpa only [Measure.volume_eq_prod] using hh.trans (hD n)
+    exact hhb.trans (le_max_left _ _)
+  · exact le_max_right _ _
+  · intro a b ha hb
+    obtain ⟨C,hC⟩ := a.continuous.bounded_above_of_compact_support ha
+    obtain ⟨D,hD⟩ := b.continuous.bounded_above_of_compact_support hb
+    have hC0 : 0 ≤ C := (abs_nonneg (a 0)).trans (hC 0)
+    have hD0 : 0 ≤ D := (abs_nonneg (b 0)).trans (hD 0)
+    exact G.pair_product_average_strong hf hi hT a.continuous.measurable b.continuous.measurable
+      ⟨C,hC0⟩ ⟨D,hD0⟩ hC hD
+  · exact hk
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Parameterized compact pair kernels converge strongly with finite parameter measure -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open Compactness
+
+theorem GlobalCollisionLimit.pair_compact_kernel_strong {f : Density} {hfm : Measurable f}
+    (G : GlobalCollisionLimit f hfm) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) {Z : Type*} [MeasurableSpace Z]
+    (τ : Measure Z) [IsFiniteMeasure τ] {k : Z × (Velocity × Velocity) → ℝ}
+    (hk : Measurable k) (C : ℝ) (hC : ∀ p, |k p| ≤ C)
+    (hs : ∀ z, Continuous (fun y => k (z,y)) ∧ HasCompactSupport (fun y => k (z,y))) :
+    Tendsto (fun n => eLpNorm (fun p : (ℝ × Position) × Z =>
+      (∫ y : Velocity × Velocity, k (p.2,y)*normalizedPair volume
+        (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (p.1,y))-
+      (∫ y : Velocity × Velocity, k (p.2,y)*normalizedPair volume G.weakLimit.kineticProfile (p.1,y)))
+      1 (((volume.restrict (Icc 0 T)).prod (volume : Measure Position)).prod τ)) atTop (𝓝 0) := by
+  let μ : Measure (ℝ × Position) := (volume.restrict (Icc 0 T)).prod volume
+  let P n := normalizedPair volume (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile
+  let Q := normalizedPair volume G.weakLimit.kineticProfile
+  have hPm n : Measurable (P n) := normalizedTensor_measurable
+    (fiberMass_measurable (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile_measurable)
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile_measurable
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile_measurable
+  have hUI : UniformIntegrable P 1 (μ.prod (volume : Measure (Velocity × Velocity))) := by
+    simpa only [Measure.volume_eq_prod] using uniformIntegrable_comp
+      (approximatingSolution_normalizedPair_compactness f hfm hf hi (volume.restrict (Icc 0 T))).1
+      G.weakLimit.indices
+  have hw := G.normalized_pairs T hT
+  obtain ⟨B,hB⟩ := hUI.2
+  apply strong_bounded_kernel_averages hPm hw.1
+    (fun n => memLp_one_iff_integrable.mp (hUI.memLp n)) hw.2.1
+    ENNReal.coe_ne_top hB hk hC
+  intro z
+  exact G.pair_compact_average_strong hf hi hT ⟨_,(hs z).1⟩ (hs z).2
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Strong local L1 convergence of the actual smoothed outgoing collision averages -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open Compactness
+
+theorem GlobalCollisionLimit.smoothed_angular_average_strong {f : Density} {hfm : Measurable f}
+    (G : GlobalCollisionLimit f hfm) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) (R : ℝ) (η χ : C(Velocity,ℝ))
+    (hη : HasCompactSupport η) (hχ : HasCompactSupport χ) :
+    Tendsto (fun n => eLpNorm (fun p : (ℝ × Position) × Velocity =>
+      (∫ y : Velocity × Velocity, smoothedAngularKernel η χ (p.2,y)*normalizedPair volume
+        (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (p.1,y))-
+      (∫ y : Velocity × Velocity, smoothedAngularKernel η χ (p.2,y)*
+        normalizedPair volume G.weakLimit.kineticProfile (p.1,y)))
+      1 (((volume.restrict (Icc 0 T)).prod (volume : Measure Position)).prod
+        ((volume : Measure Velocity).restrict (Metric.closedBall 0 R)))) atTop (𝓝 0) := by
+  let : IsFiniteMeasure ((volume : Measure Velocity).restrict (Metric.closedBall 0 R)) :=
+    isFiniteMeasure_restrict.mpr (isCompact_closedBall (0:Velocity) R).measure_lt_top.ne
+  obtain ⟨C,hC⟩ := smoothedAngularKernel_bounded η χ hη hχ
+  apply G.pair_compact_kernel_strong hf hi hT
+    ((volume : Measure Velocity).restrict (Metric.closedBall 0 R))
+    (smoothedAngularKernel_continuous η χ).measurable C hC
+  intro z
+  exact ⟨(smoothedAngularKernel_continuous η χ).comp (continuous_const.prodMk continuous_id),
+    smoothedAngularKernel_support η χ hη z⟩
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ080_BZ.Boltzmann_Compactness_PeriodicFiniteGainStrong
+attribute [-instance] _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.characteristicGainKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.JetCopyDatum.AttainedCapSequence.HotLimitExtraction.retainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.awayOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.PositiveIteration.nearOriginKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.beamNormalRetainedKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.dampedCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.densityScaledCharacteristicKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalBeamKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalCollision_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalPhysicalEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.localizedNormalWindowEvent_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.physicalEventMeasure_sFinite _root_.OAI.BoltzmannNonuniqueness.ReferenceGeometry.scaledBeamNormalKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseEndpointKernel_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.phaseSeed_sFinite _root_.OAI.BoltzmannNonuniqueness.WeakTime.residenceKernel_sFinite
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+/-! # Strong local convergence of convolutions of the actual localized physical gains -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open Compactness CollisionCompactness
+
+theorem GlobalCollisionLimit.localized_gain_smoothing_strong {f : Density} {hfm : Measurable f}
+    (G : GlobalCollisionLimit f hfm) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) (R : ℝ) (η χ : C(Velocity,ℝ))
+    (hη : HasCompactSupport η) (hχ : HasCompactSupport χ) :
+    Tendsto (fun n => eLpNorm (fun p : (ℝ × Position) × Velocity =>
+      (∫ u : Velocity, χ (p.2-u)*localizedPhysicalGain η
+        (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (p.1,u))-
+      (∫ u : Velocity, χ (p.2-u)*localizedPhysicalGain η G.weakLimit.kineticProfile (p.1,u)))
+      1 (((volume.restrict (Icc 0 T)).prod (volume : Measure Position)).prod
+        ((volume : Measure Velocity).restrict (Metric.closedBall 0 R)))) atTop (𝓝 0) := by
+  let μ : Measure (ℝ × Position) := (volume.restrict (Icc 0 T)).prod volume
+  let ν : Measure Velocity := volume.restrict (Metric.closedBall 0 R)
+  let : IsFiniteMeasure ν :=
+    isFiniteMeasure_restrict.mpr (isCompact_closedBall (0:Velocity) R).measure_lt_top.ne
+  have hwi : Integrable (weightedNormalizedPair G.weakLimit.kineticProfile)
+      (μ.prod (volume : Measure (Velocity × Velocity))) := by
+    simpa only [Measure.volume_eq_prod] using weightedNormalizedPair_integrable
+      G.weakLimit.kineticProfile_measurable (fun _ => G.weakLimit.nonnegative _)
+      (G.weakLimit.kinetic_entropy_on_window hf hi hT)
+  have he := localizedPhysicalGain_smoothing_ae η χ hη hχ
+    G.weakLimit.kineticProfile_measurable hwi
+  have hen n : ∀ᵐ x ∂μ, ∀ v : Velocity,
+      (∫ u : Velocity, χ (v-u)*localizedPhysicalGain η
+        (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (x,u)) =
+      ∫ y : Velocity × Velocity, smoothedAngularKernel η χ (v,y)*normalizedPair volume
+        (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (x,y) := by
+    apply localizedPhysicalGain_smoothing_ae η χ hη hχ
+      (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile_measurable
+    simpa only [Measure.volume_eq_prod] using weightedNormalizedPair_integrable
+      (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile_measurable
+      (fun _ => (approximatingSolution f hfm (G.weakLimit.indices n)).nonnegative _)
+      ((approximatingSolution f hfm (G.weakLimit.indices n)).kinetic_entropy_integrable
+        (μ := volume.restrict (Icc 0 T)) (by positivity) (approximatingSolution_entropy f hfm hf hi _))
+  have hnorm n : eLpNorm (fun p : (ℝ × Position) × Velocity =>
+      (∫ u : Velocity, χ (p.2-u)*localizedPhysicalGain η
+        (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (p.1,u))-
+      (∫ u : Velocity, χ (p.2-u)*localizedPhysicalGain η G.weakLimit.kineticProfile (p.1,u)))
+        1 (μ.prod ν) =
+      eLpNorm (fun p : (ℝ × Position) × Velocity =>
+        (∫ y : Velocity × Velocity, smoothedAngularKernel η χ (p.2,y)*normalizedPair volume
+          (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (p.1,y))-
+        (∫ y : Velocity × Velocity, smoothedAngularKernel η χ (p.2,y)*
+          normalizedPair volume G.weakLimit.kineticProfile (p.1,y))) 1 (μ.prod ν) := by
+    apply eLpNorm_congr_ae
+    have hh : ∀ᵐ x ∂μ, ∀ v : Velocity,
+        (∫ u : Velocity, χ (v-u)*localizedPhysicalGain η
+          (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (x,u))-
+        (∫ u : Velocity, χ (v-u)*localizedPhysicalGain η G.weakLimit.kineticProfile (x,u)) =
+        (∫ y : Velocity × Velocity, smoothedAngularKernel η χ (v,y)*normalizedPair volume
+          (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile (x,y))-
+        (∫ y : Velocity × Velocity, smoothedAngularKernel η χ (v,y)*
+          normalizedPair volume G.weakLimit.kineticProfile (x,y)) := by
+      filter_upwards [hen n,he] with x hx hy
+      exact fun v => congrArg₂ (fun a b : ℝ => a-b) (hx v) (hy v)
+    exact (Measure.quasiMeasurePreserving_fst.ae hh).mono (fun p hp => hp p.2)
+  have hc := G.smoothed_angular_average_strong hf hi hT R η χ hη hχ
+  exact hc.congr' (Filter.Eventually.of_forall (fun n => (hnorm n).symm))
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Strong convergence of the actual unsmoothed localized collision gains -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open Compactness CollisionCompactness CollisionCompactness.DoubleGain
+
+theorem GlobalCollisionLimit.localized_gain_strong {f : Density} {hfm : Measurable f}
+    (G : GlobalCollisionLimit f hfm) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) (R : ℝ) (η : C(Velocity,ℝ)) (hη : HasCompactSupport η) :
+    Tendsto (fun n => eLpNorm (fun p : (ℝ × Position) × Velocity =>
+      localizedPhysicalGain η
+        (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile p-
+      localizedPhysicalGain η G.weakLimit.kineticProfile p)
+      1 (((volume.restrict (Icc 0 T)).prod (volume : Measure Position)).prod
+        ((volume : Measure Velocity).restrict (Metric.closedBall 0 R)))) atTop (𝓝 0) := by
+  let μ : Measure (ℝ × Position) := (volume.restrict (Icc 0 T)).prod volume
+  let F n := (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile
+  let g := G.weakLimit.kineticProfile
+  have hFm n : Measurable (F n) :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile_measurable
+  have hFn n p : 0 ≤ F n p :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).nonnegative _
+  have hEi n : Integrable (entropyGauge (F n)) (μ.prod volume) :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kinetic_entropy_integrable
+      (μ := volume.restrict (Icc 0 T)) (by positivity) (approximatingSolution_entropy f hfm hf hi _)
+  have hEb n : (∫ p, entropyGauge (F n) p ∂μ.prod volume) ≤
+      (volume.restrict (Icc 0 T)).real univ*approximationEntropyBudget f :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kinetic_entropy_integral_le
+      (μ := volume.restrict (Icc 0 T)) (by positivity) (approximatingSolution_entropy f hfm hf hi _)
+  apply localizedGain_strong_of_smoothing_q80 hFm hFn hEi hEb
+    G.weakLimit.kineticProfile_measurable (fun _ => G.weakLimit.nonnegative _)
+    (G.weakLimit.kinetic_entropy_on_window hf hi hT) η hη
+    (Measure.prod_mono le_rfl Measure.restrict_le_self)
+  intro χ hχ
+  have hc := G.localized_gain_smoothing_strong hf hi hT R η χ hη hχ
+  change Tendsto (fun n => eLpNorm (fun p =>
+    velocitySmooth χ (localizedPhysicalGain η (F n)) p-
+      velocitySmooth χ (localizedPhysicalGain η g) p) 1 _) atTop (𝓝 0)
+  simpa only [velocitySmooth_eq_outgoing_convolution,F,g,μ] using hc
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+section
+
+/-! # Strong convergence of the full physical mass-normalized collision gains -/
+noncomputable section
+open MeasureTheory Set Filter
+open scoped ENNReal Topology
+namespace BoltzmannNonuniqueness.PeriodicApproximation
+open Compactness CollisionCompactness CollisionCompactness.DoubleGain
+
+theorem GlobalCollisionLimit.normalized_gain_strong_q80_oai {f : Density} {hfm : Measurable f}
+    (G : GlobalCollisionLimit f hfm) (hf : ∀ p, 0 ≤ f p) (hi : Integrable (entropyMoment f))
+    {T : ℝ} (hT : 0 ≤ T) (R : ℝ) :
+    Tendsto (fun n => eLpNorm (fun p : (ℝ × Position) × Velocity =>
+      pairGain (normalizedPair volume
+        (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile) p-
+      pairGain (normalizedPair volume G.weakLimit.kineticProfile) p)
+      1 (((volume.restrict (Icc 0 T)).prod (volume : Measure Position)).prod
+        ((volume : Measure Velocity).restrict (Metric.closedBall 0 R)))) atTop (𝓝 0) := by
+  let μ : Measure (ℝ × Position) := (volume.restrict (Icc 0 T)).prod volume
+  let F n := (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile
+  let g := G.weakLimit.kineticProfile
+  have hFm n : Measurable (F n) :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kineticProfile_measurable
+  have hFn n p : 0 ≤ F n p :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).nonnegative _
+  have hEi n : Integrable (entropyGauge (F n)) (μ.prod volume) :=
+    (approximatingSolution f hfm (G.weakLimit.indices n)).kinetic_entropy_integrable
+      (μ := volume.restrict (Icc 0 T)) (by positivity) (approximatingSolution_entropy f hfm hf hi _)
+  let C := max ((volume.restrict (Icc 0 T)).real univ*approximationEntropyBudget f)
+    (∫ p, entropyGauge g p ∂μ.prod volume)
+  have hEb n : (∫ p, entropyGauge (F n) p ∂μ.prod volume) ≤
+      C := by
+    apply le_trans _ (le_max_left _ _)
+    exact (approximatingSolution f hfm (G.weakLimit.indices n)).kinetic_entropy_integral_le
+      (μ := volume.restrict (Icc 0 T)) (by positivity) (approximatingSolution_entropy f hfm hf hi _)
+  apply normalizedGain_strong_of_localized hFm hFn hEi hEb
+    G.weakLimit.kineticProfile_measurable (fun _ => G.weakLimit.nonnegative _)
+    (G.weakLimit.kinetic_entropy_on_window hf hi hT) (le_max_right _ _)
+    (Measure.prod_mono le_rfl Measure.restrict_le_self)
+  intro η hη
+  exact G.localized_gain_strong hf hi hT R η hη
+
+end BoltzmannNonuniqueness.PeriodicApproximation
+
+end
+
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.BoltzmannNonuniqueness.PeriodicApproximation.GlobalCollisionLimit.normalized_gain_strong_q80_oai := @OAI.BoltzmannNonuniqueness.PeriodicApproximation.GlobalCollisionLimit.normalized_gain_strong_q80_oai

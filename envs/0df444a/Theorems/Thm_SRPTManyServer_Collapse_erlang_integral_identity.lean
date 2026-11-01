@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SRPTManyServer_Collapse_erlang_integral_identity
 -- name    : SRPTManyServer.Collapse.erlang_integral_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:27.697+00:00
 -- url     : https://prove2.me/theorems/51145619-f9fc-4877-8e4d-88628bbf4e4b

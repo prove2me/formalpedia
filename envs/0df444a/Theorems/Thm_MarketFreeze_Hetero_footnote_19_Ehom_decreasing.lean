@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketFreeze_Hetero_footnote_19_Ehom_decreasing
 -- name    : MarketFreeze.Hetero.footnote_19_Ehom_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:32:39.324761+00:00
 -- url     : https://prove2.me/theorems/c0f0c3a5-fc1e-44a2-824b-ade9c0261001

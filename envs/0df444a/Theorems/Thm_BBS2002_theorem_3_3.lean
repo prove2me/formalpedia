@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBS2002_theorem_3_3
 -- name    : BBS2002.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-30T17:54:15.951121+00:00
 -- url     : https://prove2.me/theorems/4242300c-122a-4c1d-bfda-db448aac894c

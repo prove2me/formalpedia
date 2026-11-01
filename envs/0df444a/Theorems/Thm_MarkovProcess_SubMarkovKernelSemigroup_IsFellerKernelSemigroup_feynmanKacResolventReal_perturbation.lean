@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_feynmanKacResolventReal_perturbation
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.feynmanKacResolventReal_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:00.065926+00:00
 -- url     : https://prove2.me/theorems/d6031546-de0c-4663-9dae-08c3722354a7

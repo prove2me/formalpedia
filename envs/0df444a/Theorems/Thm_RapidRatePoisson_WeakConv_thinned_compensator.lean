@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RapidRatePoisson_WeakConv_thinned_compensator
 -- name    : RapidRatePoisson.WeakConv.thinned_compensator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:18:10.137006+00:00
 -- url     : https://prove2.me/theorems/44a39353-86b1-48e6-bb22-12fa5400ecfb

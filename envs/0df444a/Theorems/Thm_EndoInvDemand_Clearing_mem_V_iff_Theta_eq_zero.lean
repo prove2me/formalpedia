@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoInvDemand_Clearing_mem_V_iff_Theta_eq_zero
 -- name    : EndoInvDemand.Clearing.mem_V_iff_Theta_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:46.350022+00:00
 -- url     : https://prove2.me/theorems/3f211244-8c33-4407-ab3f-ef9a883f007c

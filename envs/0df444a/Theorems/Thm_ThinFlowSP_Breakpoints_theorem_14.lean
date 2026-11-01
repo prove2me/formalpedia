@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThinFlowSP_Breakpoints_theorem_14
 -- name    : ThinFlowSP.Breakpoints.theorem_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:29:39.085064+00:00
 -- url     : https://prove2.me/theorems/b16ca11e-b884-47ce-a1d7-d99e3f5a0b28

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.unbounded_esscher_excursion_integrated_scale_representation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-30T21:53:04.544058+00:00
 -- url     : https://prove2.me/submissions/2d58442d-ecc0-4012-8041-e9c0abd4ce09
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

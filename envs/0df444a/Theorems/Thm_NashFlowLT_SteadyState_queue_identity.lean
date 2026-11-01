@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashFlowLT_SteadyState_queue_identity
 -- name    : NashFlowLT.SteadyState.queue_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:35.2536+00:00
 -- url     : https://prove2.me/theorems/16486cde-e475-4f69-9d50-122e1a8c2b38

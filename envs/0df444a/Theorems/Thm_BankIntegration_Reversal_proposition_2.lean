@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BankIntegration_Reversal_proposition_2
 -- name    : BankIntegration.Reversal.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:13.707632+00:00
 -- url     : https://prove2.me/theorems/9578d83c-0e71-4b26-99b8-c05dfd29e22d

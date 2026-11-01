@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SRPTManyServer_Collapse_erlang_integral_limit
 -- name    : SRPTManyServer.Collapse.erlang_integral_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:45.449859+00:00
 -- url     : https://prove2.me/theorems/01fd822e-d548-4a21-9db3-a12aa647ab18

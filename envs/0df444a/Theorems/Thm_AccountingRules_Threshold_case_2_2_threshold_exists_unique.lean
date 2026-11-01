@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccountingRules_Threshold_case_2_2_threshold_exists_unique
 -- name    : AccountingRules.Threshold.case_2_2_threshold_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:50.596625+00:00
 -- url     : https://prove2.me/theorems/87adf0eb-8723-495b-96a6-53682a7a09e3

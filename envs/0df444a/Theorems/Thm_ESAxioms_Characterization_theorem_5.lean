@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ESAxioms_Characterization_theorem_5
 -- name    : ESAxioms.Characterization.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:34:40.076137+00:00
 -- url     : https://prove2.me/theorems/d38d5bca-2242-4752-9c9a-49e93a85aa5a

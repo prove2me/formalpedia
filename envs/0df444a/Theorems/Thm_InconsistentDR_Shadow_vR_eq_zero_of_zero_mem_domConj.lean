@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InconsistentDR_Shadow_vR_eq_zero_of_zero_mem_domConj
 -- name    : InconsistentDR.Shadow.vR_eq_zero_of_zero_mem_domConj
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T04:59:29.476925+00:00
 -- url     : https://prove2.me/theorems/8ef5b400-8d04-4d33-bad7-2f66a1dd0b7e

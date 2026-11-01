@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferralPriority_Optimal_relaxation_bound
 -- name    : ReferralPriority.Optimal.relaxation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:11.972422+00:00
 -- url     : https://prove2.me/theorems/c304a7d2-31e4-40c4-83ef-3261ab1734bd

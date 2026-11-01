@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh134p4to135_imaginary_certificate
 -- name    : TaoFivePrimes.rh134p4to135_imaginary_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Johan Mercedes
 -- created : 2026-10-27T23:53:08.328967+00:00
 -- url     : https://prove2.me/theorems/b7648957-1ca0-4609-a637-47f6f67cd125

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_ae_exitTime_eq_top_heatResolvent
 -- name    : MarkovProcess.ae_exitTime_eq_top_heatResolvent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:35:20.106363+00:00
 -- url     : https://prove2.me/theorems/b6d1f931-99ce-4caa-b21d-c60817111d54

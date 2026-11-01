@@ -1,10 +1,8 @@
 -- Prove2me | solution 9 for AvramDividend.Classical.vcstar_deriv_ge_one
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-24T23:17:19.466995+00:00
 -- url     : https://prove2.me/submissions/936a1cbe-95e1-43b5-bba0-4be70ba35291
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Deriv
 import Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one

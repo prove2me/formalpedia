@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleDeriv_tendsto_atTop
 -- name    : AvramDividend.Classical.scaleDeriv_tendsto_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T00:49:38.298912+00:00
 -- url     : https://prove2.me/theorems/4f3d0581-72ec-4eaa-a037-bef712a9eb89

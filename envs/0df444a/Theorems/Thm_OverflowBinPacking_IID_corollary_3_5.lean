@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OverflowBinPacking_IID_corollary_3_5
 -- name    : OverflowBinPacking.IID.corollary_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:32.039983+00:00
 -- url     : https://prove2.me/theorems/d7f6ce03-4bfb-4382-9e62-e26fd948f40d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_auto_GRU_M05_PROJECTION_RECOGNITION_polytope_iff_polytope_projections
 -- name    : Grunbaum2003.auto_GRU_M05_PROJECTION_RECOGNITION_polytope_iff_polytope_projections
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T19:05:37.772602+00:00
 -- url     : https://prove2.me/theorems/39044f07-20f4-472e-8561-411a5da96552

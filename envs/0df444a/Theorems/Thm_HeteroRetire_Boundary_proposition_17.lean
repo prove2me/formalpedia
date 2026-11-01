@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeteroRetire_Boundary_proposition_17
 -- name    : HeteroRetire.Boundary.proposition_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:14.66298+00:00
 -- url     : https://prove2.me/theorems/d72316b3-9d2a-49e1-9204-940c9a18f447

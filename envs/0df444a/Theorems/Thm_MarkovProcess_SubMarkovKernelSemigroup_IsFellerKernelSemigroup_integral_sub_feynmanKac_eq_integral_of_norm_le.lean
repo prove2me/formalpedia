@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_integral_sub_feynmanKac_eq_integral_of_norm_le
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.integral_sub_feynmanKac_eq_integral_of_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:48.921115+00:00
 -- url     : https://prove2.me/theorems/b2fc21eb-c8e4-4ce1-b98a-ae986a6ba072

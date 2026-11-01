@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CouplingHMC_Exact_theorem_2_3
 -- name    : CouplingHMC.Exact.theorem_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T05:28:51.41147+00:00
 -- url     : https://prove2.me/theorems/d590e58e-ddda-49ba-9b79-53c94081b47c

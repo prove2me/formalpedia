@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_supergraph_for_predicate__p2m_ef9f633b_8271_42d9_b073_b93d60169594_a1
 -- name    : WilliamsonShmoys.exists_maximal_supergraph_for_predicate__p2m_ef9f633b_8271_42d9_b073_b93d60169594_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T09:48:56.416006+00:00
 -- url     : https://prove2.me/theorems/5ba0acd6-35ab-4946-adf8-e1900a9aaa74

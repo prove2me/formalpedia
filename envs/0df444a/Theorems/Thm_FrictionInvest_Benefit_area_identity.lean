@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrictionInvest_Benefit_area_identity
 -- name    : FrictionInvest.Benefit.area_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:34:01.227686+00:00
 -- url     : https://prove2.me/theorems/5e42ecb0-d255-42fa-8f9d-228e1472be6f

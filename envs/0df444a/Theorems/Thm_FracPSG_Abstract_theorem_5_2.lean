@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracPSG_Abstract_theorem_5_2
 -- name    : FracPSG.Abstract.theorem_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:08:51.853132+00:00
 -- url     : https://prove2.me/theorems/960ea52a-4c76-435a-b3aa-ebf1dcb803f1

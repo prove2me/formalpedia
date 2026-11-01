@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_centrally_symmetric_neighborly_families
 -- name    : Grunbaum2003.centrally_symmetric_neighborly_families
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T05:40:43.104849+00:00
 -- url     : https://prove2.me/theorems/c1a7d1e2-5aba-4b31-b2a8-c3e6b0ea1654

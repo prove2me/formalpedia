@@ -10,6 +10,8 @@
 --   For independent zero-mean symmetric random matrices $Q_1, \dots, Q_n$ satisfying the matrix Bernstein condition with parameter $b > 0$, for every $\delta > 0$, the spectral-norm tail probability satisfies $\mathbb{P}[\frac{1}{n}\|\sum_{i=1}^n Q_i\|_2 \ge \delta] \le 2 \operatorname{rank}(\sum_{i=1}^n \operatorname{var}(Q_i)) \exp(-\frac{n\delta^2}{2(\sigma^2 + b\delta)})$, where $\sigma^2 := \frac{1}{n}\|\sum_{i=1}^n \operatorname{var}(Q_i)\|_2$.
 --
 --   **Formalization Note** Moves `instMeasurableSpaceMatrix` from `formal_statement` into `preamble` using `inferInstanceAs` so that `formal_statement` contains a single `:= by sorry` block compatible with the platform verifier.
+--
+--   **Warning (statement appears false).** The Bernstein condition here is one-sided (upper Loewner bounds on odd moments) while the conclusion bounds the two-sided operator norm; a skewed scalar two-point distribution (p = 1/40, M = 3.46, b = 1) satisfies the condition but violates the bound for n ≳ 5·10^5 (fixed-t version: n ≳ 5·10^4). See the Mission V discussion for numbers and the suggested two-sided repair.
 -- source:
 --   Wainwright, High-Dimensional Statistics (2019), Theorem 6.17, p. 176, Eq. (6.42)
 

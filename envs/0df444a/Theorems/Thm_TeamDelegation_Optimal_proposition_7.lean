@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDelegation_Optimal_proposition_7
 -- name    : TeamDelegation.Optimal.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:16:24.371394+00:00
 -- url     : https://prove2.me/theorems/c30580e0-3357-4446-afb4-382288e4daed

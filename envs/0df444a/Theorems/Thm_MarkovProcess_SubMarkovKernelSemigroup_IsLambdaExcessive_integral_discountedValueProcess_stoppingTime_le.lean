@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsLambdaExcessive_integral_discountedValueProcess_stoppingTime_le
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsLambdaExcessive.integral_discountedValueProcess_stoppingTime_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:03.915467+00:00
 -- url     : https://prove2.me/theorems/e9a26dfa-717a-405f-ab7b-af8a2cb60084

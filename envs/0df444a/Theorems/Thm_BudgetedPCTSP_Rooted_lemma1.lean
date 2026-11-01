@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedPCTSP_Rooted_lemma1
 -- name    : BudgetedPCTSP.Rooted.lemma1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T14:15:40.84032+00:00
 -- url     : https://prove2.me/theorems/99bde6e5-0b4c-4ba9-a456-2d3c1dcbbd5a

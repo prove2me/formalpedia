@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SearchDiscovery_Reservation_discovery_value_gittins_index
 -- name    : SearchDiscovery.Reservation.discovery_value_gittins_index
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:27:44.637981+00:00
 -- url     : https://prove2.me/theorems/18ac5027-d0cd-4213-b97f-7ddd7ad0a268

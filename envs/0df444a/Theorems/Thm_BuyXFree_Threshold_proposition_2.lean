@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuyXFree_Threshold_proposition_2
 -- name    : BuyXFree.Threshold.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:11:28.784988+00:00
 -- url     : https://prove2.me/theorems/c8c315e3-1c09-43bb-b59c-efff411bf67d

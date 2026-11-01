@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh_verified_slice_133p2_133p8
 -- name    : TaoFivePrimes.rh_verified_slice_133p2_133p8
--- status  : Open
+-- status  : Proved
 -- author  : @Johan Mercedes
 -- created : 2026-10-28T01:02:52.996167+00:00
 -- url     : https://prove2.me/theorems/f129523d-fd86-4033-967a-d54af19323ad

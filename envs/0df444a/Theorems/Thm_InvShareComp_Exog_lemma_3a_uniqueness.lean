@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvShareComp_Exog_lemma_3a_uniqueness
 -- name    : InvShareComp.Exog.lemma_3a_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:06:58.335729+00:00
 -- url     : https://prove2.me/theorems/627c9e26-d27b-46fb-b442-5043dc750d8b

@@ -84050,8 +84050,8 @@
 {"parent": "OAI.ReflexiveFixedPoints.dyadic_weighted_tail_le", "child": "ReflexiveFixedPoints", "via": ["solution", "statement"]}
 {"parent": "OAI.ReflexiveFixedPoints.dyadic_weighted_tail_le", "child": "OAI_Analysis_Nonexpansive_AdaptiveConvexPrefix", "via": ["solution", "statement"]}
 {"parent": "OAI.ReflexiveFixedPoints.dyadic_weighted_tail_le", "child": "OAI_Analysis_Nonexpansive_Resolvents", "via": ["solution", "statement"]}
-{"parent": "StrategicPolicy.StochasticOpt.induced_transport", "child": "StrategicPolicy_StochasticOpt_Setting", "via": ["statement"]}
-{"parent": "StrategicPolicy.StochasticOpt.induced_transport", "child": "StrategicPolicy_StochasticOpt_Example", "via": ["statement"]}
+{"parent": "StrategicPolicy.StochasticOpt.induced_transport", "child": "StrategicPolicy_StochasticOpt_Setting", "via": ["solution", "statement"]}
+{"parent": "StrategicPolicy.StochasticOpt.induced_transport", "child": "StrategicPolicy_StochasticOpt_Example", "via": ["solution", "statement"]}
 {"parent": "MIPRE_Background_QLD_Lines", "child": "MIPRE.aOp_sum", "via": ["statement"]}
 {"parent": "MIPRE_Background_QLD_Lines", "child": "MIPRE_LCS_NonlocalGame", "via": ["statement"]}
 {"parent": "MIPRE_Background_QLD_Lines", "child": "MIPRE_Foundations_WeylEPR", "via": ["statement"]}

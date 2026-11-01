@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_cstar_scale_derivative_shape
 -- name    : AvramDividend.Classical.cstar_scale_derivative_shape
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T21:54:18.214729+00:00
 -- url     : https://prove2.me/theorems/b883f1c9-6b75-48a3-b3d3-983b596474b6

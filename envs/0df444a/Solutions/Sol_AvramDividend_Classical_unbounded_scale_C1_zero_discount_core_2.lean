@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.unbounded_scale_C1_zero_discount_core
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T11:34:40.813979+00:00
 -- url     : https://prove2.me/submissions/44186278-97e9-425f-94c9-a9677aaf3319
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Defs
 import Mathlib.Tactic.NormNum

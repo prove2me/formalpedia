@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Birkhoff1931_tendsto_birkhoffAverage_condExp
 -- name    : Birkhoff1931.tendsto_birkhoffAverage_condExp
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-05T01:37:48.496064+00:00
 -- url     : https://prove2.me/theorems/9af0260a-d09d-49f8-acd2-527b7042a0cc

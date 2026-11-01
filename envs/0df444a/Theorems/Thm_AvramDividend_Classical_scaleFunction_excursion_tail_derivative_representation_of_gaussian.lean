@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_excursion_tail_derivative_representation_of_gaussian
 -- name    : AvramDividend.Classical.scaleFunction_excursion_tail_derivative_representation_of_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:02:35.181238+00:00
 -- url     : https://prove2.me/theorems/28594252-e53f-4e75-aed4-02ee12d04ec5

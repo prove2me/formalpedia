@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxBundle_GPB_lemma_4_7
 -- name    : ProxBundle.GPB.lemma_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:23.895667+00:00
 -- url     : https://prove2.me/theorems/15820c93-3c25-4167-9bc0-95e645618763

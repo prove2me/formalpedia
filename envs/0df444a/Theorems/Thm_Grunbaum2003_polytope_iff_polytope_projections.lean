@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_polytope_iff_polytope_projections
 -- name    : Grunbaum2003.polytope_iff_polytope_projections
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T05:39:11.786269+00:00
 -- url     : https://prove2.me/theorems/b7ad61d0-1e06-459e-90c5-3f6a4b455bf0

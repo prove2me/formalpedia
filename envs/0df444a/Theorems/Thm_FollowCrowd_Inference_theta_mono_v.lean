@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FollowCrowd_Inference_theta_mono_v
 -- name    : FollowCrowd.Inference.theta_mono_v
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:14.329523+00:00
 -- url     : https://prove2.me/theorems/2220694a-396a-4e30-b122-950f07e8c76a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UtilityTokens_ICOChoice_section_6_ico_optimality
 -- name    : UtilityTokens.ICOChoice.section_6_ico_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:32.785713+00:00
 -- url     : https://prove2.me/theorems/f5980e4d-a332-47b7-9f80-7eae0951479a

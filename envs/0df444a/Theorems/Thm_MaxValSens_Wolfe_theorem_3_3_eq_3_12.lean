@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxValSens_Wolfe_theorem_3_3_eq_3_12
 -- name    : MaxValSens.Wolfe.theorem_3_3_eq_3_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:07:15.645748+00:00
 -- url     : https://prove2.me/theorems/7cfaa753-6c3d-4a22-b3f0-e31c3a0440db

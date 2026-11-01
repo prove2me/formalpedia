@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_integral_eval_exitTimeTrunc_add_eq_of_generator_eq_neg
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.integral_eval_exitTimeTrunc_add_eq_of_generator_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:52.635365+00:00
 -- url     : https://prove2.me/theorems/5b803a03-377e-4215-8565-d4f44e62d982

@@ -1,0 +1,56 @@
+-- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_relativeHighestNorm_tendsto_s50
+-- name    : OAI.Laughlin.Spin.relativeHighestNorm_tendsto_s50
+-- status  : Open
+-- author  : @dbenbenn
+-- created : 2026-10-31T20:47:26.098199+00:00
+-- url     : https://prove2.me/theorems/ad599897-3b89-423f-a74b-0ac8d4ad2fe6
+-- title:
+--   OAI.Laughlin.Spin.relativeHighestNorm_tendsto_s50: intermediate lemma from OpenAI, A Fock-space inequality and the Laughlin spectral gap
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.Laughlin.planar_gap`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *A Fock-space inequality and the Laughlin spectral gap*, OpenAI Math Release, September 24, 2026, result family 269, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.Laughlin.Spin.relativeHighestNorm_tendsto` of [lean/OAI/Analysis/Laughlin/Asymptotics/HighestCouplingLimit.lean](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Analysis/Laughlin/Asymptotics/HighestCouplingLimit.lean) at commit adc7f12, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.Laughlin.Spin`, with `open scoped BigOperators Topology`, `open Filter`):
+--
+--   ```lean
+--   theorem relativeHighestNorm_tendsto_s50 (A B : ℕ → ℕ) (b : ℝ)
+--       (hA : Tendsto A atTop atTop) (hB : Tendsto B atTop atTop)
+--       (hb0 : 0 < b) (hb1 : b < 1)
+--       (hfrac : Tendsto (fun n => (B n : ℝ)/((A n : ℝ)+B n)) atTop (𝓝 b)) (z : ℕ) :
+--       Tendsto (fun n => relativeHighestNorm (A n) (B n) z) atTop
+--         (𝓝 (oscillatorRelativeNorm (Real.sqrt (b/(1-b))) z))
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.Laughlin.Spin.oscillatorRelativeNorm` (definitions bundle `OAIQ050L008` of this split); `OAI.Laughlin.Spin.relativeHighestNorm` (definitions bundle `OAIQ050L015` of this split).
+--
+--   **Used by.** The proof of `OAI.Laughlin.Spin.source_highest_coupling_tendsto_s50` of this split imports it.
+-- source:
+--   OpenAI, A Fock-space inequality and the Laughlin spectral gap, OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 269; paper: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Analysis/Laughlin/Asymptotics/HighestCouplingLimit.lean (declaration OAI.Laughlin.Spin.relativeHighestNorm_tendsto)
+
+import Mathlib
+import Definitions.Def_OAIQ050L015
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace Laughlin.Spin
+open scoped BigOperators Topology
+open Filter
+
+theorem relativeHighestNorm_tendsto_s50 (A B : ℕ → ℕ) (b : ℝ)
+    (hA : Tendsto A atTop atTop) (hB : Tendsto B atTop atTop)
+    (hb0 : 0 < b) (hb1 : b < 1)
+    (hfrac : Tendsto (fun n => (B n : ℝ)/((A n : ℝ)+B n)) atTop (𝓝 b)) (z : ℕ) :
+    Tendsto (fun n => relativeHighestNorm (A n) (B n) z) atTop
+      (𝓝 (oscillatorRelativeNorm (Real.sqrt (b/(1-b))) z)) := by
+  sorry
+
+end Laughlin.Spin
+
+end OAI
+end

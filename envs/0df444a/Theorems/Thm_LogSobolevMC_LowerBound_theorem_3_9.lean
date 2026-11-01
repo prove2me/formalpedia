@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogSobolevMC_LowerBound_theorem_3_9
 -- name    : LogSobolevMC.LowerBound.theorem_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:06:55.785153+00:00
 -- url     : https://prove2.me/theorems/24a8eac3-6f20-4dcf-b98f-00e5a5335b88

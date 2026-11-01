@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_integral_eval_stoppingTime_sub_eq_integral_integral_generator
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.integral_eval_stoppingTime_sub_eq_integral_integral_generator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:40.525495+00:00
 -- url     : https://prove2.me/theorems/f826ce45-b5f4-4e87-a586-e931217c8632

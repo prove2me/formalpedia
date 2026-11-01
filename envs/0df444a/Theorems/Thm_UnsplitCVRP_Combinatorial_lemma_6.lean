@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnsplitCVRP_Combinatorial_lemma_6
 -- name    : UnsplitCVRP.Combinatorial.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:26:56.96158+00:00
 -- url     : https://prove2.me/theorems/146417fb-f397-42ba-a7d8-00fdc65211ef

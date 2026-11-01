@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferralPriority_Optimal_cutoff
 -- name    : ReferralPriority.Optimal.cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:12.396222+00:00
 -- url     : https://prove2.me/theorems/1d1c1f6c-4ee6-4f53-ac5b-759753ffa820

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_minimalResolvent_resolventEquation
 -- name    : MarkovProcess.minimalResolvent_resolventEquation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:34:18.924495+00:00
 -- url     : https://prove2.me/theorems/8118d6ae-66a4-4fa9-9a28-56c53ac24824

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccountingRules_Threshold_binary_reduction
 -- name    : AccountingRules.Threshold.binary_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:28:42.231121+00:00
 -- url     : https://prove2.me/theorems/d9e37a33-8e60-48d8-85f9-3aef584a038b

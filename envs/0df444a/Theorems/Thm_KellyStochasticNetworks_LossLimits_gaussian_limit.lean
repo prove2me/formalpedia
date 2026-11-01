@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_LossLimits_gaussian_limit
 -- name    : KellyStochasticNetworks.LossLimits.gaussian_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:47:44.84224+00:00
 -- url     : https://prove2.me/theorems/5df7e5c9-213e-4bd0-aa17-965978be164b

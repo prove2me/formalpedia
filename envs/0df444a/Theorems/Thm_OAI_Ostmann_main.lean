@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Ostmann_main
 -- name    : OAI.Ostmann.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:59.646505+00:00
 -- url     : https://prove2.me/theorems/125230cc-48fb-4610-8e3b-494fa85fd9ea

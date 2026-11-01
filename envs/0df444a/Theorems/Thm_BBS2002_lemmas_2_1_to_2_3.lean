@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBS2002_lemmas_2_1_to_2_3
 -- name    : BBS2002.lemmas_2_1_to_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-30T04:07:03.491299+00:00
 -- url     : https://prove2.me/theorems/8618d598-a26e-46e0-87ff-44053f41b66c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.scaleDeriv_continuous_tendsto_atTop
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-23T11:27:43.99877+00:00
 -- url     : https://prove2.me/submissions/99f19fdd-bde0-4db4-a345-7d588386a20e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.Deriv.Basic
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_strict_added_edge_finset__p2m_a28e5ee4_bf60_4e7a_aa04_8ab47cd06895_a1
 -- name    : WilliamsonShmoys.strict_added_edge_finset__p2m_a28e5ee4_bf60_4e7a_aa04_8ab47cd06895_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T06:15:31.962718+00:00
 -- url     : https://prove2.me/theorems/4be3bdb9-1c14-44bd-883e-1f23fe5aa48f

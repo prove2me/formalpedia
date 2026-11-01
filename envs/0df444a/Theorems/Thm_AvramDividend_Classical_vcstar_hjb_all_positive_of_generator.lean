@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_hjb_all_positive_of_generator
 -- name    : AvramDividend.Classical.vcstar_hjb_all_positive_of_generator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:35:41.605457+00:00
 -- url     : https://prove2.me/theorems/edf09308-1b7f-449e-ac5d-ae6f22d385c3

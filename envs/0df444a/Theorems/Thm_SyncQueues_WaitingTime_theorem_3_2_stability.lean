@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncQueues_WaitingTime_theorem_3_2_stability
 -- name    : SyncQueues.WaitingTime.theorem_3_2_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:14:00.489094+00:00
 -- url     : https://prove2.me/theorems/800b049c-56d9-408a-ac8f-f43791b48b50
