@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_connected_closure_of_monotone_step__p2m_5d1dfa1d_991a_49fd_b455_4945d33b9ed1_a1
 -- name    : WilliamsonShmoys.finite_connected_closure_of_monotone_step__p2m_5d1dfa1d_991a_49fd_b455_4945d33b9ed1_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:28:31.533261+00:00
 -- url     : https://prove2.me/theorems/d09a4cfd-adba-43aa-a539-0dbb6da2696f

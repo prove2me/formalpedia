@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffGridStorage_TechChoice_theorem_3_concave
 -- name    : OffGridStorage.TechChoice.theorem_3_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:56.747986+00:00
 -- url     : https://prove2.me/theorems/50f33d84-939d-4d84-88ee-c708e3b40b7e

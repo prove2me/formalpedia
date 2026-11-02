@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TiltingFTT_Optimal_proposition_2
 -- name    : TiltingFTT.Optimal.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:35.190977+00:00
 -- url     : https://prove2.me/theorems/73bbb22f-5718-430f-8c1d-f9b5cdeccc6a

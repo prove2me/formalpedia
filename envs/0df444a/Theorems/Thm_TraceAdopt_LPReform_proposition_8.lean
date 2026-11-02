@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceAdopt_LPReform_proposition_8
 -- name    : TraceAdopt.LPReform.proposition_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:38:12.905217+00:00
 -- url     : https://prove2.me/theorems/f9072637-2c08-4e03-85f8-1ef262d3c58c

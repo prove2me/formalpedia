@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuctionDuration_ClearingError_eq_8
 -- name    : AuctionDuration.ClearingError.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:00.275689+00:00
 -- url     : https://prove2.me/theorems/b8a83efa-ccbf-42d4-9889-655316517af0

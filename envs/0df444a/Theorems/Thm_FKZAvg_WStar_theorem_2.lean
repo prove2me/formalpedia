@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FKZAvg_WStar_theorem_2
 -- name    : FKZAvg.WStar.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:35:26.6529+00:00
 -- url     : https://prove2.me/theorems/caa901b6-eb48-4c25-a956-a32cfea4e24d

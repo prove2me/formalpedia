@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_lovasz_extension_is_zero_l
 -- name    : DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:08:44.062483+00:00
 -- url     : https://prove2.me/theorems/6cb980f2-54cc-4414-a4ae-24af3b56fa94

@@ -72269,7 +72269,7 @@
 {"parent": "OAI.ThresholdParallelRepetition.analytic_threshold_bound", "child": "OAI_Probability_EntangledGames_Resolvent", "via": ["solution", "statement"]}
 {"parent": "OAI.ThresholdParallelRepetition.analytic_threshold_bound", "child": "OAI_Probability_EntangledGames_SamplingStrategy", "via": ["solution", "statement"]}
 {"parent": "ContagionGrowth.FluidLimit.eq_24_25", "child": "ContagionGrowth_FluidLimit_Limit", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.GottesmanIntro.quantumGV_exists", "child": "QAlgorithms_Defs_FTCircuit", "via": ["statement"]}
+{"parent": "QAlgorithms.GottesmanIntro.quantumGV_exists", "child": "QAlgorithms_Defs_FTCircuit", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer.Order13ActualPicardRationalNormComparison.rationalClass_schemeDiamond", "child": "MazurTransfer_Order13ActualPicardRationalNormComparisonOriginalData20261018", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterFreeFieldBornSignRepresentation.det_flipRepresentation", "child": "ChapterFreeFieldBornSignMatrix", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterFreeFieldBornSignRepresentation.det_flipRepresentation", "child": "ChapterFreeFieldBornSignRepresentation", "via": ["solution", "statement"]}
@@ -83786,7 +83786,7 @@
 {"parent": "dusart_mesh_upper_group352", "child": "dusart_mesh_upper_group352_part09", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group352", "child": "dusart_mesh_upper_group352_part00", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group352", "child": "dusart_mesh_upper_group352_part06", "via": ["statement"]}
-{"parent": "QAlgorithms.GottesmanIntro.codeBounds_asymptotic_of_hamming", "child": "QAlgorithms_Defs_FTCircuit", "via": ["statement"]}
+{"parent": "QAlgorithms.GottesmanIntro.codeBounds_asymptotic_of_hamming", "child": "QAlgorithms_Defs_FTCircuit", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Introspection.advancePrefix_outputPrefix_fixed", "child": "MIPRE_Foundations_Introspection_AdaptiveZFactor", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Introspection.advancePrefix_outputPrefix_fixed", "child": "MIPRE_Foundations_Introspection_BlockTwirl", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Introspection.advancePrefix_outputPrefix_fixed", "child": "MIPRE_Foundations_WeylEPR", "via": ["solution", "statement"]}

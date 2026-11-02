@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuctionDuration_ClearingError_theorem_2_1
 -- name    : AuctionDuration.ClearingError.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:59.057391+00:00
 -- url     : https://prove2.me/theorems/6dc628e6-f8c2-4fa3-a714-7a02747500a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_add_nonreachable_edge_graph__p2m_28fcd582_d200_46af_bf00_d4c58429d202_a1
 -- name    : WilliamsonShmoys.add_nonreachable_edge_graph__p2m_28fcd582_d200_46af_bf00_d4c58429d202_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:10:48.738741+00:00
 -- url     : https://prove2.me/theorems/adf325df-f128-4dd6-9a8e-98ee7f020a92

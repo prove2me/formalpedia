@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FinMarkup_Wedge_proposition_3_1
 -- name    : FinMarkup.Wedge.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T20:38:37.808889+00:00
 -- url     : https://prove2.me/theorems/75f9c9ab-aa8f-47ab-84e9-711f925d1aa3

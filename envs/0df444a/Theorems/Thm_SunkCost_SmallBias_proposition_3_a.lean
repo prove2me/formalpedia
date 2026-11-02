@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SunkCost_SmallBias_proposition_3_a
 -- name    : SunkCost.SmallBias.proposition_3_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:45.421903+00:00
 -- url     : https://prove2.me/theorems/fdeb9561-ecc5-4afc-a0c0-6db96638ade6

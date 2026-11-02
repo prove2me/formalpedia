@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_partition_size_sum_bound__p2m_6c5365e9_a8ca_483d_a274_7738f7675557_a1
 -- name    : WilliamsonShmoys.partition_size_sum_bound__p2m_6c5365e9_a8ca_483d_a274_7738f7675557_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:57:27.8212+00:00
 -- url     : https://prove2.me/theorems/fd88c45a-7ea7-48a7-9749-c5d6b2241812

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.component_arithmetic__p2m_24514a04_46c3_4995_8d84_ff88ef385ed2_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:14:06.20017+00:00
 -- url     : https://prove2.me/submissions/cdf067a4-5e13-46a5-b10b-fe2bfc32d38e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_component_arithmetic_large__p2m_f8118d4e_7433_432b_871f_3e593ed76035_a1

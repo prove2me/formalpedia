@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_drawable_maximal_extension__p2m_5d7adedc_405a_4aa7_a840_9d1b809cbdd4_a1
 -- name    : WilliamsonShmoys.finite_drawable_maximal_extension__p2m_5d7adedc_405a_4aa7_a840_9d1b809cbdd4_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:17:33.073375+00:00
 -- url     : https://prove2.me/theorems/0117d7a7-55cc-4763-b339-05a114946f12

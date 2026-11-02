@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_maximal_supergraph_extension__p2m_fcfb21bb_7adb_48c4_98c9_78175b7ac091_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:45:33.584473+00:00
 -- url     : https://prove2.me/submissions/5485c073-d3f0-489d-8c16-401697113627
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_exists_maximal_hereditary_supergraph__p2m_4af6ea92_4c22_435e_a0b4_a6c72b25ac6d_a1

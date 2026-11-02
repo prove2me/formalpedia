@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonAgencyVCG_Algorithmic_proposition_4
 -- name    : CommonAgencyVCG.Algorithmic.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:36.216007+00:00
 -- url     : https://prove2.me/theorems/547f08ae-85f7-4f35-8f22-f32a2bad3527

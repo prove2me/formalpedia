@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOpacity_Disclosure_L_unique_root
 -- name    : CompOpacity.Disclosure.L_unique_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:51:39.241552+00:00
 -- url     : https://prove2.me/theorems/78d0eeab-6bc2-4342-8430-a1e9e90df3d1

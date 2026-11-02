@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpikedWishart_FixedDim_proposition_1_1
 -- name    : SpikedWishart.FixedDim.proposition_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:20.509077+00:00
 -- url     : https://prove2.me/theorems/0aeeb324-66f7-4c8b-813d-8c75c8351f58

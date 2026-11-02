@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_PartiallyObserved_cost_splits_over_clause
 -- name    : MDPComplexity.PartiallyObserved.cost_splits_over_clause
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:02:29.272428+00:00
 -- url     : https://prove2.me/theorems/bfb0d796-51ec-49a3-b705-decaee66e037

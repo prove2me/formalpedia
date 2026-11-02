@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechFinConstr_Selection_rent_linear_of_iotaBar_one
 -- name    : TechFinConstr.Selection.rent_linear_of_iotaBar_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:27.012644+00:00
 -- url     : https://prove2.me/theorems/a4962327-f178-420e-8818-3c540ec5e0d9

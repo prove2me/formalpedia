@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_source_fourBody_factorial_coefficient_s50
 -- name    : OAI.Laughlin.Spin.source_fourBody_factorial_coefficient_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:45:26.412266+00:00
 -- url     : https://prove2.me/theorems/4b1f460e-a4ee-4d94-8211-b3a46946dabc

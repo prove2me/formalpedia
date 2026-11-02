@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_GottesmanIntro_steaneEC_claim1
 -- name    : QAlgorithms.GottesmanIntro.steaneEC_claim1
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:59:39.975819+00:00
 -- url     : https://prove2.me/theorems/380ecdea-610a-41ff-80f4-6b7edaea3e28

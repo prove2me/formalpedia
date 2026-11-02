@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Eigen_lemma_2_7
 -- name    : TensorNP.Eigen.lemma_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:09.524326+00:00
 -- url     : https://prove2.me/theorems/7165a98c-dfe6-4224-af56-f707ccc2d39c

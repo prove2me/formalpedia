@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_three_injective_fixed_point_free_iterate_transitive__p2m_d0b65569_8792_429c_bbc9_f16b6065a44f_a9
 -- name    : finite_three_injective_fixed_point_free_iterate_transitive__p2m_d0b65569_8792_429c_bbc9_f16b6065a44f_a9
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:28:05.388057+00:00
 -- url     : https://prove2.me/theorems/11260284-6e2e-423c-b6a9-dbba656071b8

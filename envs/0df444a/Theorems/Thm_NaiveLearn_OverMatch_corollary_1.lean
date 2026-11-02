@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NaiveLearn_OverMatch_corollary_1
 -- name    : NaiveLearn.OverMatch.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:17:25.335716+00:00
 -- url     : https://prove2.me/theorems/a82f6cbf-bb71-4ace-9397-87b2ac585655

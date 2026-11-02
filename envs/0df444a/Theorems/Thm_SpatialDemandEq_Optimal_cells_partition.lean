@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpatialDemandEq_Optimal_cells_partition
 -- name    : SpatialDemandEq.Optimal.cells_partition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:10.753608+00:00
 -- url     : https://prove2.me/theorems/e5aad960-0f6d-4534-a64f-9960187432cb

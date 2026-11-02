@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersQBC_fidelity_le_one_and_eq_one_iff
 -- name    : MayersQBC.fidelity_le_one_and_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:27:45.856845+00:00
 -- url     : https://prove2.me/theorems/06f16a49-1cbd-4440-806a-603e9ce1b0af

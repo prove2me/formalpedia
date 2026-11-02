@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoSignalPA_abs_mu_le
 -- name    : NoSignalPA.abs_mu_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:04:51.763758+00:00
 -- url     : https://prove2.me/theorems/b472fff9-4898-4663-bbc6-ff972ad097b7

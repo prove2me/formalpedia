@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_pair_annihilate_high_degree_s50
 -- name    : OAI.Laughlin.Fock.pair_annihilate_high_degree_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:44:34.875771+00:00
 -- url     : https://prove2.me/theorems/50d3bc03-b312-4397-8f4b-498710bf54b9

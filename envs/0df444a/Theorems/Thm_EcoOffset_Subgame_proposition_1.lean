@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EcoOffset_Subgame_proposition_1
 -- name    : EcoOffset.Subgame.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:05.375936+00:00
 -- url     : https://prove2.me/theorems/bf7967c6-445a-4a6b-ae22-d9f77ceb2a43

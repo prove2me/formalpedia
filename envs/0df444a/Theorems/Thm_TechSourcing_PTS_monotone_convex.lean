@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechSourcing_PTS_monotone_convex
 -- name    : TechSourcing.PTS.monotone_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:38.121831+00:00
 -- url     : https://prove2.me/theorems/6786b5bd-43a2-47be-bc94-1117671bf835

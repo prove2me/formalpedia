@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MemoryScreen_Menu_proposition_1
 -- name    : MemoryScreen.Menu.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:04.906403+00:00
 -- url     : https://prove2.me/theorems/b55a34ae-2a09-4db0-94cf-748e0883a0da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpikedWishart_FixedDim_eq_302
 -- name    : SpikedWishart.FixedDim.eq_302
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:51:26.081017+00:00
 -- url     : https://prove2.me/theorems/d80e94b4-76cb-483e-a377-5ea100134b0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HorodeckiBoundKey_separable_no_key
 -- name    : HorodeckiBoundKey.separable_no_key
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:15:49.224932+00:00
 -- url     : https://prove2.me/theorems/1978326a-bd91-4521-bc5e-b7cdd8e830e3

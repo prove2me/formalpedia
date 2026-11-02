@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetMarginals_Chains_theorem_1
 -- name    : PosetMarginals.Chains.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:37:37.416728+00:00
 -- url     : https://prove2.me/theorems/56e6f843-f8b4-4886-a829-56840285ffb6

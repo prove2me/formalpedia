@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbEffIS_GE_theorem_2
 -- name    : ProbEffIS.GE.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:49.438848+00:00
 -- url     : https://prove2.me/theorems/2681c53e-b86d-4f6e-b4ef-c1d214b3c3fa

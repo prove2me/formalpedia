@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSVTPhaseEst_BitSearch_theorem_8
 -- name    : QSVTPhaseEst.BitSearch.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:00:41.145731+00:00
 -- url     : https://prove2.me/theorems/e47b23f4-e50a-42d8-972f-adac0b5fe0bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_finiteJordanModelUniformization
 -- name    : OAI.CircleDomainRigidity.finiteJordanModelUniformization
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:14:59.78456+00:00
 -- url     : https://prove2.me/theorems/23156ad2-f361-4084-98ba-e525a782c0f3

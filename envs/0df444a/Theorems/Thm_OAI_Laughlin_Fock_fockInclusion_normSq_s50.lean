@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_fockInclusion_normSq_s50
 -- name    : OAI.Laughlin.Fock.fockInclusion_normSq_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:43:46.677513+00:00
 -- url     : https://prove2.me/theorems/7dd99e0c-0421-45dd-a701-d35ec22f6227

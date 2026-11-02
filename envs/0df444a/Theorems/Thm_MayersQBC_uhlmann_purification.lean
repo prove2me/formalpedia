@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersQBC_uhlmann_purification
 -- name    : MayersQBC.uhlmann_purification
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:26:20.21691+00:00
 -- url     : https://prove2.me/theorems/61ac1747-b3f0-493c-a17c-dde8a96ad6d3

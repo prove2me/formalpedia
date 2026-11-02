@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_ampEncoding_gateComplexity
 -- name    : QAlgorithms.Nannicini.ampEncoding_gateComplexity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:31.097368+00:00
 -- url     : https://prove2.me/theorems/fbabaf63-c2a0-47ce-b66b-26a4f3805cdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_EconomicEquilibriumB_swgs_iff_mnatural_concave
 -- name    : DiscreteConvex.EconomicEquilibriumB.swgs_iff_mnatural_concave
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T06:14:30.703816+00:00
 -- url     : https://prove2.me/theorems/b3bdd3b8-3907-4c52-a9b0-dc2957e1d731

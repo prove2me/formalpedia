@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GelfandVNA_Duality_proposition_2_73
 -- name    : GelfandVNA.Duality.proposition_2_73
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:49:09.714175+00:00
 -- url     : https://prove2.me/theorems/9ab822c1-d760-4723-b288-b34c529a2882

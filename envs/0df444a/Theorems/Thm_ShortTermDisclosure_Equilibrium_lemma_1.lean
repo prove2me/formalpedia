@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermDisclosure_Equilibrium_lemma_1
 -- name    : ShortTermDisclosure.Equilibrium.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:00.33282+00:00
 -- url     : https://prove2.me/theorems/af1da851-47ff-48b3-8ca3-5b495d14f716

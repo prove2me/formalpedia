@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Certificate_source_gram_16_11_1_s50
 -- name    : OAI.Laughlin.Certificate.source_gram_16_11_1_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T17:08:17.887757+00:00
 -- url     : https://prove2.me/theorems/7f067b4d-2c85-492c-93af-073c9b04eaaf

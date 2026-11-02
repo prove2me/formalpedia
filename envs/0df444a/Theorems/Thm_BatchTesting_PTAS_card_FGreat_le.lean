@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BatchTesting_PTAS_card_FGreat_le
 -- name    : BatchTesting.PTAS.card_FGreat_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:48.67298+00:00
 -- url     : https://prove2.me/theorems/2d806444-e09c-4260-8149-60656d7c60fb

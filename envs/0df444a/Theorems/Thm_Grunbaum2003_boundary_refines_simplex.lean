@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_boundary_refines_simplex
 -- name    : Grunbaum2003.boundary_refines_simplex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T06:40:00.158066+00:00
 -- url     : https://prove2.me/theorems/dcd75ce3-e5c0-43f4-a5f7-60250f82c7bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_augmentation_of_step__p2m_a61b4d52_11af_49e1_8b44_bf89679ad338_a2
 -- name    : WilliamsonShmoys.planar_drawing_connected_augmentation_of_step__p2m_a61b4d52_11af_49e1_8b44_bf89679ad338_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:03:39.880301+00:00
 -- url     : https://prove2.me/theorems/4a43e10e-e159-4055-9c95-47bb90addfd4

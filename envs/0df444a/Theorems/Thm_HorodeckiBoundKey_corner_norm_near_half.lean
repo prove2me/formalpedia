@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HorodeckiBoundKey_corner_norm_near_half
 -- name    : HorodeckiBoundKey.corner_norm_near_half
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:15:31.936699+00:00
 -- url     : https://prove2.me/theorems/67fa1d3b-f8a7-4f80-8f78-8c4017f970e5

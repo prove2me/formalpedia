@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_exactLearning_NM_lowerBound
 -- name    : QAlgorithms.Arunachalam.exactLearning_NM_lowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:53:50.537634+00:00
 -- url     : https://prove2.me/theorems/f78253d5-0c0b-4dd3-a6b6-46a885e7fd38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SunkCost_SmallBias_eq_4_demand
 -- name    : SunkCost.SmallBias.eq_4_demand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:45.910269+00:00
 -- url     : https://prove2.me/theorems/607c3748-a89d-46e3-885d-1f769b865942

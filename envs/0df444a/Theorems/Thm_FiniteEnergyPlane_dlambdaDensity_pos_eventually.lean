@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_dlambdaDensity_pos_eventually
 -- name    : FiniteEnergyPlane.dlambdaDensity_pos_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-21T12:43:41.892291+00:00
 -- url     : https://prove2.me/theorems/832b01cb-0797-4acb-8715-2e227f10b870

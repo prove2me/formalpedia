@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_sharp_scalar_budget_s50
 -- name    : OAI.Laughlin.sharp_scalar_budget_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:46:00.92859+00:00
 -- url     : https://prove2.me/theorems/45efd934-267a-467f-863a-861a46e7a1de

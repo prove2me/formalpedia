@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityC_l2_proximity_theorem
 -- name    : DiscreteConvex.ConjugacyDualityC.l2_proximity_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:45:31.386126+00:00
 -- url     : https://prove2.me/theorems/01cfd409-8271-49a7-bd85-3777a3bd6a68

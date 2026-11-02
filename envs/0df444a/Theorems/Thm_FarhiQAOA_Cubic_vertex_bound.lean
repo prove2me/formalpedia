@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarhiQAOA_Cubic_vertex_bound
 -- name    : FarhiQAOA.Cubic.vertex_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:31:00.919949+00:00
 -- url     : https://prove2.me/theorems/7aa523ba-3002-4b11-b642-e30511df1a2f

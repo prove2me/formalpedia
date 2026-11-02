@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedPointAA_Main_sequence_as_A_product
 -- name    : FixedPointAA.Main.sequence_as_A_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:06.580921+00:00
 -- url     : https://prove2.me/theorems/bf54fb97-c8b0-4cd3-86e5-3ee26f35348a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_simplicial_skeleton_reconstruction
 -- name    : Grunbaum2003.simplicial_skeleton_reconstruction
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-21T07:05:47.905985+00:00
 -- url     : https://prove2.me/theorems/4d01dd96-0264-47e7-baaa-cce13c2c6dcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarhiQAOA_Cubic_edge_term_subgraph_type
 -- name    : FarhiQAOA.Cubic.edge_term_subgraph_type
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:31:04.460137+00:00
 -- url     : https://prove2.me/theorems/8d9954e0-1e0f-4882-9571-a87ec92a6ec8

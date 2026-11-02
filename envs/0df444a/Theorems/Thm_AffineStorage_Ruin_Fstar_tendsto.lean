@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffineStorage_Ruin_Fstar_tendsto
 -- name    : AffineStorage.Ruin.Fstar_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:36:26.931112+00:00
 -- url     : https://prove2.me/theorems/5f7cc1cf-23cc-4af3-b3b3-a96ba47426f9

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.boundary_refines_simplex
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:28:38.125825+00:00
 -- url     : https://prove2.me/submissions/0c1cf558-5489-4f88-8af6-dd568f19c3ad
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsDPolytope
 import Definitions.Def_Grunbaum2003_BoundaryRefines

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOpacity_Disclosure_mNC_antitone
 -- name    : CompOpacity.Disclosure.mNC_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:51:35.986682+00:00
 -- url     : https://prove2.me/theorems/64b230f7-b952-42f1-b88a-cbd940502b9e

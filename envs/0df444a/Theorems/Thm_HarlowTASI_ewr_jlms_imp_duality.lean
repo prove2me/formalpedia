@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarlowTASI_ewr_jlms_imp_duality
 -- name    : HarlowTASI.ewr_jlms_imp_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-20T21:05:57.415234+00:00
 -- url     : https://prove2.me/theorems/b3e7a641-acf4-467a-aee6-77e50e7662e7

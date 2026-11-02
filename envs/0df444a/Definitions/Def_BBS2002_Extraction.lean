@@ -8,6 +8,8 @@
 --   Sections 3-5: Definite and Goal Formulas, Program Extraction, and Modified Realizability
 -- statement:
 --   Formalizes Sections 3-5 of Berger, Buchholz, and Schwichtenberg (2002): relevant and irrelevant formulas, the mutual inductive classes of goal formulas `G` (`IsGoalFormula`) and definite formulas `D` (`IsDefiniteFormula`), type assignment `τ(A)`, structural program extraction `⟦M⟧`, modified realizability `r mr_A B`, and Section 5 `*`-aware combinators.
+--
+--   November 2026 correction: the V2 extraction targets use `BBS2002_V2_Realizability`, which replaces this module's `mrFormula` and `AdmissibleForExtraction` with capture-avoiding realizability and comprehension-independent naming conventions. This original module remains active for its formula classes, type assignment, structural extraction, and other shared definitions used by the proved early milestones. Its original realizability-based Theorems 4.1, 5.1, 5.2 and Corollary 5.3 are deprecated.
 -- source:
 --   Ulrich Berger, Wilfried Buchholz, and Helmut Schwichtenberg, 'Refined program extraction from classical proofs', Annals of Pure and Applied Logic 114(1-3), 2002, pp. 3-25 (doi:10.1016/S0168-0072(01)00073-2). Sections 3-5, pp. 8-16 (preprint pp. 6-14).
 

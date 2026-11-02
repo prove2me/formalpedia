@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOpacity_Disclosure_proposition_3
 -- name    : CompOpacity.Disclosure.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:51:33.472846+00:00
 -- url     : https://prove2.me/theorems/4ef1a309-97f6-49c8-9ada-8c1c572862f5

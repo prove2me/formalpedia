@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BatchTesting_PTAS_rounding_sandwich
 -- name    : BatchTesting.PTAS.rounding_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:39.205529+00:00
 -- url     : https://prove2.me/theorems/6688380c-e2de-4561-afdf-2765ed2cddcc

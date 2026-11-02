@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_eq_q_of_generatorIntegrable
 -- name    : AvramDividend.Classical.scaleFunction_generator_eq_q_of_generatorIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T20:57:56.061305+00:00
 -- url     : https://prove2.me/theorems/47e1697b-cdff-48d1-8d28-8bec4ecb7ba1

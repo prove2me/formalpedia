@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WiretapFeedback_iInf_condDiv_eq_condMutualInfo
 -- name    : WiretapFeedback.iInf_condDiv_eq_condMutualInfo
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:59:49.166302+00:00
 -- url     : https://prove2.me/theorems/1094734c-5aa0-43b9-9fa7-3167c8959456

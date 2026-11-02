@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMatroidXC_Main_trivial_bound
 -- name    : RegMatroidXC.Main.trivial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:17:28.871592+00:00
 -- url     : https://prove2.me/theorems/a473d12d-4f4e-419d-83f3-10d6fb4c1f87

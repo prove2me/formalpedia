@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityB_theorem_3_6_fenchel_duality
 -- name    : DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:06:01.125926+00:00
 -- url     : https://prove2.me/theorems/2d183cfd-83fb-4302-af66-53d14d039e6a

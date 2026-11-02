@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMatroidXC_Main_lemma_7
 -- name    : RegMatroidXC.Main.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:16:39.2406+00:00
 -- url     : https://prove2.me/theorems/cae5a630-82f0-432c-b3c7-f907128114c2

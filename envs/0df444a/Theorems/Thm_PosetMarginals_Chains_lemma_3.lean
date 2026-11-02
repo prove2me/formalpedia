@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetMarginals_Chains_lemma_3
 -- name    : PosetMarginals.Chains.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:38:39.255357+00:00
 -- url     : https://prove2.me/theorems/87c60176-bf63-43cc-8e4b-e53f3990d436

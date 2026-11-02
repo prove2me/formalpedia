@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesEnsemble_GenProbit_prior_predictive
 -- name    : BayesEnsemble.GenProbit.prior_predictive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:30.737918+00:00
 -- url     : https://prove2.me/theorems/7f68bb53-ea86-464e-8c49-6c2277e6a788

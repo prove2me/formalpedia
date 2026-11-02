@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SystemicDiv_SellOff_proposition_4_3_2
 -- name    : SystemicDiv.SellOff.proposition_4_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:24:34.927514+00:00
 -- url     : https://prove2.me/theorems/e7010662-0efd-4c2e-8a96-81348504227c

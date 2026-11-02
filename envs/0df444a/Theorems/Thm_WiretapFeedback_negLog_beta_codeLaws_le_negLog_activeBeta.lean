@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WiretapFeedback_negLog_beta_codeLaws_le_negLog_activeBeta
 -- name    : WiretapFeedback.negLog_beta_codeLaws_le_negLog_activeBeta
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:02:38.745598+00:00
 -- url     : https://prove2.me/theorems/7bd61316-bac1-4faf-b052-05e6487058d8

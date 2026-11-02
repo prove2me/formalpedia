@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechFinConstr_Selection_proposition_6
 -- name    : TechFinConstr.Selection.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:28.073384+00:00
 -- url     : https://prove2.me/theorems/a7a79ae5-376d-4caa-be58-f357941c9ed2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersQBC_effectProb_ge_normSq_inner
 -- name    : MayersQBC.effectProb_ge_normSq_inner
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:26:12.211643+00:00
 -- url     : https://prove2.me/theorems/c8fd7646-9294-4538-8620-ed8144aa87f7

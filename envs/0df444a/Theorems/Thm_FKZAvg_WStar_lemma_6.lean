@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FKZAvg_WStar_lemma_6
 -- name    : FKZAvg.WStar.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:35:26.996676+00:00
 -- url     : https://prove2.me/theorems/bbfd4eef-28ea-49c0-b158-c3b7b0ac2d90

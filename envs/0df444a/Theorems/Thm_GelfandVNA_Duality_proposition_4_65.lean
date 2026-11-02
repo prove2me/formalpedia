@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GelfandVNA_Duality_proposition_4_65
 -- name    : GelfandVNA.Duality.proposition_4_65
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:49:47.34759+00:00
 -- url     : https://prove2.me/theorems/b3ef130d-5ad9-4b7b-8123-c4d626bbbcc5

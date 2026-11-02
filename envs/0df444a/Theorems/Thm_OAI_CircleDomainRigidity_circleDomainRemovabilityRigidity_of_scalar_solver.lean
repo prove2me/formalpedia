@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_circleDomainRemovabilityRigidity_of_scalar_solver
 -- name    : OAI.CircleDomainRigidity.circleDomainRemovabilityRigidity_of_scalar_solver
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:39:07.990038+00:00
 -- url     : https://prove2.me/theorems/65fe268d-7b02-4919-9846-840f4158dc28

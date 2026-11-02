@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Bilinear_AG_feasible_iff_colorable
 -- name    : TensorNP.Bilinear.AG_feasible_iff_colorable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:51.873366+00:00
 -- url     : https://prove2.me/theorems/2e9f211e-c054-4287-ae95-455dc86c2296

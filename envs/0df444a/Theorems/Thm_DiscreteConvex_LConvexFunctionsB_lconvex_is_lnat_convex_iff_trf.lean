@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsB_lconvex_is_lnat_convex_iff_trf
 -- name    : DiscreteConvex.LConvexFunctionsB.lconvex_is_lnat_convex_iff_trf
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:24:12.787735+00:00
 -- url     : https://prove2.me/theorems/3916b59d-0607-4725-bf18-f11553fc50b8

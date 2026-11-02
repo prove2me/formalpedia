@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_sde_markov_property_lipschitz_weighted
 -- name    : EthierKurtz.sde_markov_property_lipschitz_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-01T00:47:33.896342+00:00
 -- url     : https://prove2.me/theorems/70fef014-c635-47fc-8863-c09240ca519f

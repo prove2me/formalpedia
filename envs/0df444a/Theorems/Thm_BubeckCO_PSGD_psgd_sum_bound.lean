@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BubeckCO_PSGD_psgd_sum_bound
 -- name    : BubeckCO.PSGD.psgd_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:27:25.892144+00:00
 -- url     : https://prove2.me/theorems/7ea44f3e-ccf7-48ac-8073-eecc9fcf31ab

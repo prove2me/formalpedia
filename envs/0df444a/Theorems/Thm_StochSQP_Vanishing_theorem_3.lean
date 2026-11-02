@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSQP_Vanishing_theorem_3
 -- name    : StochSQP.Vanishing.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:52.436784+00:00
 -- url     : https://prove2.me/theorems/d32391a6-363b-44d7-afc4-854e0a937ee0

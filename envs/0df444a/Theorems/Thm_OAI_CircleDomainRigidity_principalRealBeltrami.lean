@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_principalRealBeltrami
 -- name    : OAI.CircleDomainRigidity.principalRealBeltrami
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:17:53.789646+00:00
 -- url     : https://prove2.me/theorems/9573d623-6ce6-4b07-95da-cd16498edeec

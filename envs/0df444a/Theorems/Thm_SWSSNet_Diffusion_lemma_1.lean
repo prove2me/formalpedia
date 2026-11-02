@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SWSSNet_Diffusion_lemma_1
 -- name    : SWSSNet.Diffusion.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:11.971462+00:00
 -- url     : https://prove2.me/theorems/d7f7ceef-ceb5-49a3-945b-a8b76eff12f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiqProvision_Oligopoly_lemma_C_3
 -- name    : LiqProvision.Oligopoly.lemma_C_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:40:50.629836+00:00
 -- url     : https://prove2.me/theorems/d6383c4d-2e88-4fbe-bd97-817986cbe71f

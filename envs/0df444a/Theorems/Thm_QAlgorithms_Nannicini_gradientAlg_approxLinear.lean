@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_gradientAlg_approxLinear
 -- name    : QAlgorithms.Nannicini.gradientAlg_approxLinear
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:45:56.243654+00:00
 -- url     : https://prove2.me/theorems/6cf9024a-a528-4c98-bfcb-7c9e3aa2d9db

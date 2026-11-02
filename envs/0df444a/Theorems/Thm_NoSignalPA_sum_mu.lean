@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoSignalPA_sum_mu
 -- name    : NoSignalPA.sum_mu
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:04:51.66686+00:00
 -- url     : https://prove2.me/theorems/089a0c27-335f-4ba8-baa7-bca80f65ef20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProbAudit_Grothendieck_tensor_power_inner
 -- name    : HighDimProbAudit.Grothendieck.tensor_power_inner
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:35:53.237818+00:00
 -- url     : https://prove2.me/theorems/379b06dd-176f-4dcd-9746-fe94ce2e156f

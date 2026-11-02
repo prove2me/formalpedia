@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedPointAA_Main_amplitude_chebyshev
 -- name    : FixedPointAA.Main.amplitude_chebyshev
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:11.115984+00:00
 -- url     : https://prove2.me/theorems/578b7fb4-c264-41db-8195-733efca5ef83

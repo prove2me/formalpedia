@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_simplicial_half_skeleton_dim_and_downSet_image
 -- name    : Grunbaum2003.simplicial_half_skeleton_dim_and_downSet_image
--- status  : Open
+-- status  : Disproved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:21:39.465046+00:00
 -- url     : https://prove2.me/theorems/a4f04d32-9fd9-4d8d-a7e7-140c71e85217

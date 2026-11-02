@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochArbitrage_Pricing_kkt_segment
 -- name    : StochArbitrage.Pricing.kkt_segment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:00.327989+00:00
 -- url     : https://prove2.me/theorems/4113d816-9c89-4e04-a3bb-24ce2aa2a94e

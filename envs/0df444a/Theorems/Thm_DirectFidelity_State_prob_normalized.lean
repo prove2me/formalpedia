@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectFidelity_State_prob_normalized
 -- name    : DirectFidelity.State.prob_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:29:43.654428+00:00
 -- url     : https://prove2.me/theorems/733c3d87-9193-40a1-b09d-dcbf3c45c7ea

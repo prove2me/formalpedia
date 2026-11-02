@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BatchTesting_PTAS_property_A
 -- name    : BatchTesting.PTAS.property_A
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:52.288242+00:00
 -- url     : https://prove2.me/theorems/149161a8-eaab-4d5d-95f9-ea4ea20b8d28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_findAllMarked_knownCount
 -- name    : QAlgorithms.Nannicini.findAllMarked_knownCount
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:45:41.784215+00:00
 -- url     : https://prove2.me/theorems/2935d96c-3f4e-4f46-812a-e4c593a8b720

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_small_card_complete_graph_planar_from_embedding_vertices_exhausted__p2m_8ad4d3a8_78f8_40f6_aebf_b2ce53dffd6a_a4
 -- name    : WilliamsonShmoys.small_card_complete_graph_planar_from_embedding_vertices_exhausted__p2m_8ad4d3a8_78f8_40f6_aebf_b2ce53dffd6a_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:10:42.462444+00:00
 -- url     : https://prove2.me/theorems/5a25319e-2f30-4e9d-9bd4-58d1379a4466

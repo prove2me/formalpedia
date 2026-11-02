@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawing_connect_components_of_three_vertices__p2m_af29040b_5f5f_41c7_ae26_98a3e427e1bc_a2
 -- name    : WilliamsonShmoys.planarDrawing_connect_components_of_three_vertices__p2m_af29040b_5f5f_41c7_ae26_98a3e427e1bc_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:57:37.113259+00:00
 -- url     : https://prove2.me/theorems/166f36ec-46e1-45a5-b168-5ae07e468a01

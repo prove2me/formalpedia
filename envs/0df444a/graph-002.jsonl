@@ -44832,7 +44832,7 @@
 {"parent": "IRLSM.RIP.frobeniusNorm_le_of_traceInner_eq_zero", "child": "IRLSM_Convergence_Basic", "via": ["solution", "statement"]}
 {"parent": "IRLSM.RIP.lemma_6_10", "child": "IRLSM_Convergence_Basic", "via": ["solution", "statement"]}
 {"parent": "IRLSM.RIP.lemma_6_9", "child": "IRLSM_Convergence_Basic", "via": ["statement"]}
-{"parent": "IRLSM.RIP.nuclearNorm_le_sqrt_rank_mul_frobeniusNorm", "child": "IRLSM_Convergence_Basic", "via": ["statement"]}
+{"parent": "IRLSM.RIP.nuclearNorm_le_sqrt_rank_mul_frobeniusNorm", "child": "IRLSM_Convergence_Basic", "via": ["solution", "statement"]}
 {"parent": "IRLSM.RIP.proposition_6_8", "child": "IRLSM_Convergence_Basic", "via": ["solution", "statement"]}
 {"parent": "IRLSM.RIP.ripConst_mono", "child": "IRLSM_Convergence_Basic", "via": ["solution", "statement"]}
 {"parent": "IRLSM.RIP.shelling_bound", "child": "IRLSM_Convergence_Basic", "via": ["statement"]}
@@ -51167,14 +51167,14 @@
 {"parent": "Komlos.spencer_six_deviations_small", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "KontsevichHMS.ainf_cohomology_associative", "child": "KontsevichHMS_AInfCategory", "via": ["solution", "statement"]}
 {"parent": "KontsevichHMS.ainf_dg_of_vanishing_higher", "child": "KontsevichHMS_AInfCategory", "via": ["solution", "statement"]}
-{"parent": "KontsevichHMS.homological_mirror_symmetry_torus", "child": "KontsevichHMS_DbCoh", "via": ["statement"]}
-{"parent": "KontsevichHMS.homological_mirror_symmetry_torus", "child": "KontsevichHMS_TorusBrane", "via": ["statement"]}
+{"parent": "KontsevichHMS.homological_mirror_symmetry_torus", "child": "KontsevichHMS_DbCoh", "via": ["solution", "statement"]}
+{"parent": "KontsevichHMS.homological_mirror_symmetry_torus", "child": "KontsevichHMS_TorusBrane", "via": ["solution", "statement"]}
 {"parent": "KontsevichHMS.isect_finite_card", "child": "KontsevichHMS_TorusBrane", "via": ["solution", "statement"]}
 {"parent": "KontsevichHMS.mTwoCoeff_associative", "child": "KontsevichHMS_TorusBrane", "via": ["solution", "statement"]}
 {"parent": "KontsevichHMS.mTwoCoeff_theta", "child": "KontsevichHMS_TorusBrane", "via": ["solution", "statement"]}
 {"parent": "KontsevichHMS.maslov_add_symm", "child": "KontsevichHMS_TorusBrane", "via": ["solution", "statement"]}
-{"parent": "KontsevichHMS.torus_fukaya_category_exists", "child": "KontsevichHMS_AInfCategory", "via": ["statement"]}
-{"parent": "KontsevichHMS.torus_fukaya_category_exists", "child": "KontsevichHMS_TorusBrane", "via": ["statement"]}
+{"parent": "KontsevichHMS.torus_fukaya_category_exists", "child": "KontsevichHMS_AInfCategory", "via": ["solution", "statement"]}
+{"parent": "KontsevichHMS.torus_fukaya_category_exists", "child": "KontsevichHMS_TorusBrane", "via": ["solution", "statement"]}
 {"parent": "KonyaginUnitVectors.Alon.S_spectrum", "child": "KonyaginUnitVectors.Alon.gold_charsum_sq_le", "via": ["solution"]}
 {"parent": "KonyaginUnitVectors.Alon.S_spectrum", "child": "KonyaginUnitVectors_AlonConstruction", "via": ["solution", "statement"]}
 {"parent": "KonyaginUnitVectors.Alon.S_structure", "child": "KonyaginUnitVectors.Alon.bch6_independent", "via": ["solution"]}
@@ -71530,21 +71530,21 @@
 {"parent": "LassoDantzig.REConditions.lemma_4_1_ii", "child": "LassoDantzig_REConditions_RE", "via": ["solution", "statement"]}
 {"parent": "LassoDantzig.REConditions.lemma_4_1_ii", "child": "LassoDantzig_REConditions_RestrictedEigenvalues", "via": ["solution", "statement"]}
 {"parent": "LassoDantzig_REConditions_RestrictedEigenvalues", "child": "LassoDantzig_REConditions_RE", "via": ["statement"]}
-{"parent": "LatticeHamSim.CommLR.eq_24", "child": "LatticeHamSim_CommLR_Setting", "via": ["statement"]}
-{"parent": "LatticeHamSim.CommLR.eq_27", "child": "LatticeHamSim_CommLR_Setting", "via": ["statement"]}
+{"parent": "LatticeHamSim.CommLR.eq_24", "child": "LatticeHamSim_CommLR_Setting", "via": ["solution", "statement"]}
+{"parent": "LatticeHamSim.CommLR.eq_27", "child": "LatticeHamSim_CommLR_Setting", "via": ["solution", "statement"]}
 {"parent": "LatticeHamSim.CommLR.eq_28", "child": "LatticeHamSim_CommLR_Setting", "via": ["solution", "statement"]}
-{"parent": "LatticeHamSim.CommLR.eq_32", "child": "LatticeHamSim_CommLR_Setting", "via": ["statement"]}
-{"parent": "LatticeHamSim.CommLR.eq_37", "child": "LatticeHamSim_CommLR_Setting", "via": ["statement"]}
-{"parent": "LatticeHamSim.CommLR.lemma_12", "child": "LatticeHamSim_CommLR_Setting", "via": ["statement"]}
-{"parent": "LatticeHamSim.CommLR.proposition_13_a", "child": "LatticeHamSim_CommLR_Setting", "via": ["statement"]}
-{"parent": "LatticeHamSim.CommLR.proposition_13_b", "child": "LatticeHamSim_CommLR_Setting", "via": ["statement"]}
-{"parent": "LatticeHamSim.StrictLR.eq_24", "child": "LatticeHamSim_StrictLR_Setting", "via": ["statement"]}
+{"parent": "LatticeHamSim.CommLR.eq_32", "child": "LatticeHamSim_CommLR_Setting", "via": ["solution", "statement"]}
+{"parent": "LatticeHamSim.CommLR.eq_37", "child": "LatticeHamSim_CommLR_Setting", "via": ["solution", "statement"]}
+{"parent": "LatticeHamSim.CommLR.lemma_12", "child": "LatticeHamSim_CommLR_Setting", "via": ["solution", "statement"]}
+{"parent": "LatticeHamSim.CommLR.proposition_13_a", "child": "LatticeHamSim_CommLR_Setting", "via": ["solution", "statement"]}
+{"parent": "LatticeHamSim.CommLR.proposition_13_b", "child": "LatticeHamSim_CommLR_Setting", "via": ["solution", "statement"]}
+{"parent": "LatticeHamSim.StrictLR.eq_24", "child": "LatticeHamSim_StrictLR_Setting", "via": ["solution", "statement"]}
 {"parent": "LatticeHamSim.StrictLR.eq_28", "child": "LatticeHamSim_StrictLR_Setting", "via": ["solution", "statement"]}
-{"parent": "LatticeHamSim.StrictLR.eq_42", "child": "LatticeHamSim_StrictLR_Setting", "via": ["statement"]}
-{"parent": "LatticeHamSim.StrictLR.eq_44", "child": "LatticeHamSim_StrictLR_Setting", "via": ["statement"]}
+{"parent": "LatticeHamSim.StrictLR.eq_42", "child": "LatticeHamSim_StrictLR_Setting", "via": ["solution", "statement"]}
+{"parent": "LatticeHamSim.StrictLR.eq_44", "child": "LatticeHamSim_StrictLR_Setting", "via": ["solution", "statement"]}
 {"parent": "LatticeHamSim.StrictLR.eq_45", "child": "LatticeHamSim_StrictLR_Setting", "via": ["solution", "statement"]}
 {"parent": "LatticeHamSim.StrictLR.eq_46", "child": "LatticeHamSim_StrictLR_Setting", "via": ["solution", "statement"]}
-{"parent": "LatticeHamSim.StrictLR.eq_48", "child": "LatticeHamSim_StrictLR_Setting", "via": ["statement"]}
+{"parent": "LatticeHamSim.StrictLR.eq_48", "child": "LatticeHamSim_StrictLR_Setting", "via": ["solution", "statement"]}
 {"parent": "LatticeHamSim.StrictLR.lemma_5", "child": "LatticeHamSim_StrictLR_Setting", "via": ["statement"]}
 {"parent": "LatticeHamSim_StrictLR_Setting", "child": "LatticeHamSim_CommLR_Setting", "via": ["statement"]}
 {"parent": "LatticeTreeBaseChange", "child": "LatticeTreeOrbital", "via": ["statement"]}
@@ -82521,10 +82521,10 @@
 {"parent": "MDPComplexity.Discounted.sigma_cost_closed_form", "child": "MDPComplexity_Discounted_Model", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.Discounted.stationary_path_sigma", "child": "MDPComplexity_Discounted_Model", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.Discounted.theorem4_optimal_sigma", "child": "MDPComplexity_Discounted_Model", "via": ["solution", "statement"]}
-{"parent": "MDPComplexity.PartiallyObserved.cost_splits_over_clause", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
+{"parent": "MDPComplexity.PartiallyObserved.cost_splits_over_clause", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.PartiallyObserved.holds_imp_zero_cost", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
 {"parent": "MDPComplexity.PartiallyObserved.theorem6_reduction", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["solution", "statement"]}
-{"parent": "MDPComplexity.PartiallyObserved.unsatisfied_clause_cost", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
+{"parent": "MDPComplexity.PartiallyObserved.unsatisfied_clause_cost", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.PartiallyObserved.zero_cost_imp_holds", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
 {"parent": "MDPComplexity.StationaryHorizon.cycle_decomposition", "child": "MDPComplexity_StationaryHorizon_Model", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.StationaryHorizon.horizon_walk", "child": "MDPComplexity_StationaryHorizon_Model", "via": ["solution", "statement"]}
@@ -82580,7 +82580,7 @@
 {"parent": "MDPFinance.Bellman.verification_theorem", "child": "MDPFinance_Bellman_Operators", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.Bellman.verification_theorem", "child": "MDPFinance_Bellman_Policy", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.Bellman.verification_theorem", "child": "MDPFinance_Bellman_ValueFunction", "via": ["solution", "statement"]}
-{"parent": "MDPFinance.ConsumptionInvestment.consumption_investment_structure_theorem", "child": "MDPFinance_ConsumptionInvestment_Market", "via": ["statement"]}
+{"parent": "MDPFinance.ConsumptionInvestment.consumption_investment_structure_theorem", "child": "MDPFinance_ConsumptionInvestment_Market", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.ConsumptionInvestment.log_utility_ci_solution", "child": "MDPFinance_ConsumptionInvestment_LogAuxiliary", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.ConsumptionInvestment.log_utility_ci_solution", "child": "MDPFinance_ConsumptionInvestment_Market", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.ConsumptionInvestment.zero_mean_invest_in_bond_ci", "child": "MDPFinance_ConsumptionInvestment_Market", "via": ["solution", "statement"]}
@@ -82647,7 +82647,7 @@
 {"parent": "MDPFinance.JumpMarkets.proposition_9_4_1", "child": "MDPFinance_JumpMarkets_TradeExecution", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.JumpMarkets.theorem_9_3_1", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["statement"]}
 {"parent": "MDPFinance.JumpMarkets.theorem_9_3_4", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["solution", "statement"]}
-{"parent": "MDPFinance.JumpMarkets.theorem_9_3_6", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["statement"]}
+{"parent": "MDPFinance.JumpMarkets.theorem_9_3_6", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.JumpMarkets.theorem_9_3_7", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.JumpMarkets.theorem_9_4_2", "child": "MDPFinance_JumpMarkets_TradeExecution", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.LPDuality.corollary_7_5_3", "child": "MDPFinance_LPDuality_Bounding", "via": ["statement"]}
@@ -99336,7 +99336,7 @@
 {"parent": "MinRankRecovery.RandomRIP.nearly_isometric_rip", "child": "HighDimStat_MatrixRank_Core", "via": ["statement"]}
 {"parent": "MinRankRecovery.RandomRIP.nearly_isometric_rip", "child": "MinRankRecovery_RandomRIP_NearlyIsometric", "via": ["statement"]}
 {"parent": "MinRankRecovery.RandomRIP.nearly_isometric_rip", "child": "MinRankRecovery_Recovery_ripConst", "via": ["statement"]}
-{"parent": "MinRankRecovery.Recovery.eq_2_1", "child": "HighDimStat_MatrixRank_Core", "via": ["statement"]}
+{"parent": "MinRankRecovery.Recovery.eq_2_1", "child": "HighDimStat_MatrixRank_Core", "via": ["solution", "statement"]}
 {"parent": "MinRankRecovery.Recovery.eq_3_4", "child": "HighDimStat_MatrixRank_Core", "via": ["statement"]}
 {"parent": "MinRankRecovery.Recovery.eq_3_6", "child": "HighDimStat_MatrixRank_Core", "via": ["statement"]}
 {"parent": "MinRankRecovery.Recovery.eq_3_7", "child": "HighDimStat_MatrixRank_Core", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsC_lovasz_extension_is_polyhedral_lconvex
 -- name    : DiscreteConvex.LConvexFunctionsC.lovasz_extension_is_polyhedral_lconvex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:49:14.561277+00:00
 -- url     : https://prove2.me/theorems/39b0028f-d02a-460e-aaec-29f4ec03b788

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpatialDemandEq_Optimal_theorem_4
 -- name    : SpatialDemandEq.Optimal.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:10.343267+00:00
 -- url     : https://prove2.me/theorems/96326196-5f07-48ad-8e8d-34733b7f3be1

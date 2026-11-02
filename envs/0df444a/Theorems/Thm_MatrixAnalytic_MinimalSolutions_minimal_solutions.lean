@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MinimalSolutions_minimal_solutions
 -- name    : MatrixAnalytic.MinimalSolutions.minimal_solutions
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:43.470669+00:00
 -- url     : https://prove2.me/theorems/dfc9dab6-aedd-4f4b-902b-0a1d52c91f85

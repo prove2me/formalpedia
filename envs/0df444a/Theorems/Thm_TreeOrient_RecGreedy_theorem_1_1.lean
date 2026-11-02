@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreeOrient_RecGreedy_theorem_1_1
 -- name    : TreeOrient.RecGreedy.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:38.434541+00:00
 -- url     : https://prove2.me/theorems/8b922e6c-713f-44cb-9d7c-0cd53e3f7b14

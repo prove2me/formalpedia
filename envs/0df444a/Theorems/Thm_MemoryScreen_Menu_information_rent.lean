@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MemoryScreen_Menu_information_rent
 -- name    : MemoryScreen.Menu.information_rent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:59.269678+00:00
 -- url     : https://prove2.me/theorems/a358ab85-7826-4994-a2f1-f52dcbff3ae3

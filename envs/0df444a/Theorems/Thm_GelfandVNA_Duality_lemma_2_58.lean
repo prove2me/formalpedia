@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GelfandVNA_Duality_lemma_2_58
 -- name    : GelfandVNA.Duality.lemma_2_58
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:48:23.045993+00:00
 -- url     : https://prove2.me/theorems/15696341-512f-433f-809e-f6a6db38e7d0

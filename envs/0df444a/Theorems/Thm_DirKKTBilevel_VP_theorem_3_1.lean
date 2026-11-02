@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKKTBilevel_VP_theorem_3_1
 -- name    : DirKKTBilevel.VP.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:25.316717+00:00
 -- url     : https://prove2.me/theorems/38d31c7c-02fe-49f9-9856-c256453f4242

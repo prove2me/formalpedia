@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LieTwoAlg_Equiv_theorem_36_S
 -- name    : LieTwoAlg.Equiv.theorem_36_S
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:51.883984+00:00
 -- url     : https://prove2.me/theorems/2f2fb7af-6328-4073-a77b-24535ed234d2

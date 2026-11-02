@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IllinoisBrick_Cartel_proposition_2a
 -- name    : IllinoisBrick.Cartel.proposition_2a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:59.215439+00:00
 -- url     : https://prove2.me/theorems/083c8379-a8c3-40cb-ad3f-1f1ccb966ca9

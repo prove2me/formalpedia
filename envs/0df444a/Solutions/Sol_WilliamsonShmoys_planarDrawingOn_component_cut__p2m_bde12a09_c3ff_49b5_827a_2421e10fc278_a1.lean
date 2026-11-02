@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planarDrawingOn_component_cut__p2m_bde12a09_c3ff_49b5_827a_2421e10fc278_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:08:46.61463+00:00
 -- url     : https://prove2.me/submissions/ebcf2f95-5266-4bc2-a30e-1b0b44e0ae5e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_component_cut_edges__p2m_19cd2d46_2b88_4ae0_bdf6_b262bd78d159_a1

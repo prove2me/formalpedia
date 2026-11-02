@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProbAudit_Grothendieck_grothendieck_inequality
 -- name    : HighDimProbAudit.Grothendieck.grothendieck_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:37:29.218147+00:00
 -- url     : https://prove2.me/theorems/6d05fa8b-ac1c-4a7f-9d43-d53600391172

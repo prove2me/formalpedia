@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GelfandVNA_Duality_theorem_3_20
 -- name    : GelfandVNA.Duality.theorem_3_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:49:27.561044+00:00
 -- url     : https://prove2.me/theorems/72063463-7edd-4a19-b293-30d0adb31929

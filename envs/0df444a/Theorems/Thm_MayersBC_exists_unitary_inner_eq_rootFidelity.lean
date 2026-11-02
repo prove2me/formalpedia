@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersBC_exists_unitary_inner_eq_rootFidelity
 -- name    : MayersBC.exists_unitary_inner_eq_rootFidelity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:58:35.040532+00:00
 -- url     : https://prove2.me/theorems/385767fa-a692-4974-8459-0a14ad6ab73b

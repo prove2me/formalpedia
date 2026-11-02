@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_ncard_maximal_implies_maximal__p2m_f0ae2a89_338a_4b39_88cf_341f6f611f31_a2
 -- name    : WilliamsonShmoys.ncard_maximal_implies_maximal__p2m_f0ae2a89_338a_4b39_88cf_341f6f611f31_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:13:36.877201+00:00
 -- url     : https://prove2.me/theorems/0d9f2874-65ad-4366-af70-67b5be8c7adf

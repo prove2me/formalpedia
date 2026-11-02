@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for UnsplitCVRP.Combinatorial.theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-01T05:54:06.554191+00:00
 -- url     : https://prove2.me/submissions/6e33393c-45ff-4d08-90d4-653be3409365
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SupplyChainTheory_vrp

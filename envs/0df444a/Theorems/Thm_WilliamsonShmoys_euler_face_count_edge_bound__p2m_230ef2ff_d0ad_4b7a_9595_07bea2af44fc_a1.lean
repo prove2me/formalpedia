@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_euler_face_count_edge_bound__p2m_230ef2ff_d0ad_4b7a_9595_07bea2af44fc_a1
 -- name    : WilliamsonShmoys.euler_face_count_edge_bound__p2m_230ef2ff_d0ad_4b7a_9595_07bea2af44fc_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:01:55.237033+00:00
 -- url     : https://prove2.me/theorems/d1cc4e0f-9621-422b-9794-31b056b3db1a

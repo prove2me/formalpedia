@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HorodeckiBoundKey_ppt_undistillable
 -- name    : HorodeckiBoundKey.ppt_undistillable
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:15:30.752929+00:00
 -- url     : https://prove2.me/theorems/b2bfdec4-fdd2-4adc-bbe4-ae25fb1cb234

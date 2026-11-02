@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem047_removability_implies_rigidity
 -- name    : OAI.Problem047.removability_implies_rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:06.566146+00:00
 -- url     : https://prove2.me/theorems/47fe55a1-659d-4a3e-888d-5ccfa4a40f97

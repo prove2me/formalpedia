@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_LearningSurvey_servedioGortler_quantum_lower
 -- name    : QAlgorithms.LearningSurvey.servedioGortler_quantum_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:13.382217+00:00
 -- url     : https://prove2.me/theorems/a2b8becb-1a01-4e3b-8f2c-1c4289cc1b1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_face_arithmetic__p2m_be551f10_f0c9_4808_ad70_62595a008c11_a2
 -- name    : WilliamsonShmoys.planar_face_arithmetic__p2m_be551f10_f0c9_4808_ad70_62595a008c11_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:07:38.05208+00:00
 -- url     : https://prove2.me/theorems/adcfe74c-2d52-459f-b9a5-6683ade41858

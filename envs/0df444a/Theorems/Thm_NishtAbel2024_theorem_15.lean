@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NishtAbel2024_theorem_15
 -- name    : NishtAbel2024.theorem_15
--- status  : Open
+-- status  : Disproved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T19:07:47.330286+00:00
 -- url     : https://prove2.me/theorems/5e7c8563-e0a1-46a1-9a0a-b2c0a8e1efc2

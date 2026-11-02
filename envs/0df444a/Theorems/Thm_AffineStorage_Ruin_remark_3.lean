@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffineStorage_Ruin_remark_3
 -- name    : AffineStorage.Ruin.remark_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:36:37.822149+00:00
 -- url     : https://prove2.me/theorems/386f209a-9716-439e-a874-f67bd1a5e149

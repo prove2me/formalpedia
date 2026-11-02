@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BatchTesting_PTAS_lemma_3
 -- name    : BatchTesting.PTAS.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:09.695996+00:00
 -- url     : https://prove2.me/theorems/c1b912ef-8da7-456a-b6f8-c266a11dcc48

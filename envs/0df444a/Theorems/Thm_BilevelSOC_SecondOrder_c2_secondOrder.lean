@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilevelSOC_SecondOrder_c2_secondOrder
 -- name    : BilevelSOC.SecondOrder.c2_secondOrder
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:04.78848+00:00
 -- url     : https://prove2.me/theorems/6d774dfd-75ea-4e74-bc8f-ac7c7a7c0c28

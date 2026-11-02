@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BubeckCO_PSGD_psgd_lipschitz_rate
 -- name    : BubeckCO.PSGD.psgd_lipschitz_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:28:02.419527+00:00
 -- url     : https://prove2.me/theorems/4c6afc30-8d60-4059-8088-04920c959671

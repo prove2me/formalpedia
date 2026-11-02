@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_neighborly_cubical_realization
 -- name    : Grunbaum2003.neighborly_cubical_realization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T05:38:34.32499+00:00
 -- url     : https://prove2.me/theorems/f3781e89-918c-4812-af02-627fc12b7392

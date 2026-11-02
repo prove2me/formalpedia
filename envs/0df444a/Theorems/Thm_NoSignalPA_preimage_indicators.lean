@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoSignalPA_preimage_indicators
 -- name    : NoSignalPA.preimage_indicators
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:02:43.071969+00:00
 -- url     : https://prove2.me/theorems/e6b22867-7a65-4c66-a317-8c2d2f27af77

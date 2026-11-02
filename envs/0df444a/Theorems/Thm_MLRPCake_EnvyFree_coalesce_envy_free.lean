@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MLRPCake_EnvyFree_coalesce_envy_free
 -- name    : MLRPCake.EnvyFree.coalesce_envy_free
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:23.981065+00:00
 -- url     : https://prove2.me/theorems/63c08e84-3a71-4b4d-b721-965d3e562604

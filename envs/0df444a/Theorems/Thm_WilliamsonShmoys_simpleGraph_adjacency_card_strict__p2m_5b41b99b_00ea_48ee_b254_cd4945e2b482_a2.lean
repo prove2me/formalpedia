@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_simpleGraph_adjacency_card_strict__p2m_5b41b99b_00ea_48ee_b254_cd4945e2b482_a2
 -- name    : WilliamsonShmoys.simpleGraph_adjacency_card_strict__p2m_5b41b99b_00ea_48ee_b254_cd4945e2b482_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:18:54.235207+00:00
 -- url     : https://prove2.me/theorems/9e772b9a-d288-483c-a537-2cf4f59d7709

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MemoryScreen_Menu_reduced_derivatives
 -- name    : MemoryScreen.Menu.reduced_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:03.596252+00:00
 -- url     : https://prove2.me/theorems/2968f1e2-e6c9-4c1a-aadd-256bd3cc3cac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ws01h_finite_ennreal_record_product_limit
 -- name    : AvramDividend.Classical.avram_ws01h_finite_ennreal_record_product_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-29T20:34:23.325783+00:00
 -- url     : https://prove2.me/theorems/6af3b323-3392-4506-9b69-903a7f8f4f22

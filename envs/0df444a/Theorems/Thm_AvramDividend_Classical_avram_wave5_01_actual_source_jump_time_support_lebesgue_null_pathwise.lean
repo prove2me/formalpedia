@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave5_01_actual_source_jump_time_support_lebesgue_null_pathwise
 -- name    : AvramDividend.Classical.avram_wave5_01_actual_source_jump_time_support_lebesgue_null_pathwise
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-01T01:39:21.868521+00:00
 -- url     : https://prove2.me/theorems/0ab6cc27-e0c3-4dcd-9d12-117219d20a88

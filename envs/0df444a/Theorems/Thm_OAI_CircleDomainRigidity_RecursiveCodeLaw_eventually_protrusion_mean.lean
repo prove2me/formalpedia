@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_RecursiveCodeLaw_eventually_protrusion_mean
 -- name    : OAI.CircleDomainRigidity.RecursiveCodeLaw.eventually_protrusion_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:32:43.045723+00:00
 -- url     : https://prove2.me/theorems/f2275bbb-4913-427c-b568-6f0cc47790ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MemoryScreen_Menu_binding_reduction
 -- name    : MemoryScreen.Menu.binding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:00.316698+00:00
 -- url     : https://prove2.me/theorems/e8722835-7edc-4847-944d-bd1930c6c514

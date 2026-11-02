@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceAdopt_LPReform_proposition_1
 -- name    : TraceAdopt.LPReform.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:37:05.386838+00:00
 -- url     : https://prove2.me/theorems/86d47b42-1dc0-41b8-9228-371642dc8f18

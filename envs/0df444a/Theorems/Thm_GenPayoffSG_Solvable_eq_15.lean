@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenPayoffSG_Solvable_eq_15
 -- name    : GenPayoffSG.Solvable.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:22:23.306002+00:00
 -- url     : https://prove2.me/theorems/5c11b3c3-3a2b-4700-90e3-b586dcb7e4e3

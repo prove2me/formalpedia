@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MinimalSolutions_ur_path_factorization
 -- name    : MatrixAnalytic.MinimalSolutions.ur_path_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T14:48:46.839898+00:00
 -- url     : https://prove2.me/theorems/9059659f-c742-4ebf-9884-19e609ff47a6

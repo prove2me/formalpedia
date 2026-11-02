@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SWSSNet_Diffusion_atar_prop_A_2
 -- name    : SWSSNet.Diffusion.atar_prop_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:55.905186+00:00
 -- url     : https://prove2.me/theorems/e24825fb-f646-4a52-b331-21ad2d57d497

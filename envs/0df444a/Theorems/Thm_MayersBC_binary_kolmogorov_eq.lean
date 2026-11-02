@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersBC_binary_kolmogorov_eq
 -- name    : MayersBC.binary_kolmogorov_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:57:14.751442+00:00
 -- url     : https://prove2.me/theorems/6e00f4fb-e626-43fc-8412-927f0c4ad5ae

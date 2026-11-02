@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P02_compact_modulus_spectral_expansion
 -- name    : QAlgorithms.Papers.Independent.Next46.P02.compact_modulus_spectral_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:29:38.847358+00:00
 -- url     : https://prove2.me/theorems/5e6249f7-acf6-4ea7-bbe9-3f50e696f620

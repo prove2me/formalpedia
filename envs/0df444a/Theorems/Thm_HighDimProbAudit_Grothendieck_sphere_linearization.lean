@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProbAudit_Grothendieck_sphere_linearization
 -- name    : HighDimProbAudit.Grothendieck.sphere_linearization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:37:12.948924+00:00
 -- url     : https://prove2.me/theorems/f43a6cb3-5940-4c92-9456-c4e9f9963e70

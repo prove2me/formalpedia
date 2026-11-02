@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSQP_Vanishing_lemma_15
 -- name    : StochSQP.Vanishing.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:47.033288+00:00
 -- url     : https://prove2.me/theorems/571fa371-8214-4fd0-b5c6-4a11d0c8c80b

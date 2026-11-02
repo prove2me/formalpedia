@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LieTwoAlg_Equiv_proposition_25
 -- name    : LieTwoAlg.Equiv.proposition_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:47.095859+00:00
 -- url     : https://prove2.me/theorems/2c08c8e4-3725-43a4-9b2b-cd9d73715842

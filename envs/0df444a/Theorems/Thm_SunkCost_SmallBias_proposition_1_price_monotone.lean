@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SunkCost_SmallBias_proposition_1_price_monotone
 -- name    : SunkCost.SmallBias.proposition_1_price_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:01.448846+00:00
 -- url     : https://prove2.me/theorems/3ac3a101-4c4d-489e-8711-2520dc5e7658

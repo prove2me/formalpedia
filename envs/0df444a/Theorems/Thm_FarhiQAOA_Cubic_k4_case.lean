@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarhiQAOA_Cubic_k4_case
 -- name    : FarhiQAOA.Cubic.k4_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:43.764761+00:00
 -- url     : https://prove2.me/theorems/6aec59e5-5237-437a-a680-1196487fcd63

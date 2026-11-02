@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilevelSOC_SecondOrder_lemma_2_4
 -- name    : BilevelSOC.SecondOrder.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:47:52.769278+00:00
 -- url     : https://prove2.me/theorems/53c83010-fa4e-4c50-8d78-8b08ba24988a

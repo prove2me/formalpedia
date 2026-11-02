@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersBC_kolmogorov_le_of_binary
 -- name    : MayersBC.kolmogorov_le_of_binary
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:57:25.485798+00:00
 -- url     : https://prove2.me/theorems/0e59cba3-de0a-48b0-9056-169ad1331a22

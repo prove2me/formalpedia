@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MemoryScreen_Menu_integration_by_parts
 -- name    : MemoryScreen.Menu.integration_by_parts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:49.951811+00:00
 -- url     : https://prove2.me/theorems/7503451a-8587-41f5-a231-2dfb1615058e

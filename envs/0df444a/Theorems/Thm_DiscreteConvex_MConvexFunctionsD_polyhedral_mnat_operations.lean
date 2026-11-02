@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsD_polyhedral_mnat_operations
 -- name    : DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:55:47.033354+00:00
 -- url     : https://prove2.me/theorems/7815a92a-60f9-4f99-b634-bd71d118738a

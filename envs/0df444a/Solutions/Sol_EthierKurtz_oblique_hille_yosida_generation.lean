@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for EthierKurtz.oblique_hille_yosida_generation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @caleb
 -- created : 2026-09-27T12:56:29.632309+00:00
 -- url     : https://prove2.me/submissions/0df2b363-4e4f-49ba-a6f7-edd77e8f14c8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_EthierKurtz_oblique_hy_semigroup
 import Theorems.Thm_EthierKurtz_oblique_semigroup_positive_conservative

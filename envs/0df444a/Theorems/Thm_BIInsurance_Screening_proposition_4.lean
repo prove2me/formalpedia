@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BIInsurance_Screening_proposition_4
 -- name    : BIInsurance.Screening.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:05.722913+00:00
 -- url     : https://prove2.me/theorems/961a75ce-f9f9-4061-9ecd-13116d54cef5

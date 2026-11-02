@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_02_uniform_additive_epsilon_barrier_window
 -- name    : AvramDividend.Classical.avram_wave3_02_uniform_additive_epsilon_barrier_window
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T22:20:54.660082+00:00
 -- url     : https://prove2.me/theorems/7a2cf678-93ab-4acb-8676-29d30d64ee27

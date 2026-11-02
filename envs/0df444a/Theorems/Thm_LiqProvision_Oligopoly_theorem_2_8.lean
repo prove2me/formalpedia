@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiqProvision_Oligopoly_theorem_2_8
 -- name    : LiqProvision.Oligopoly.theorem_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:41.893832+00:00
 -- url     : https://prove2.me/theorems/7e3d4bf1-c28c-481d-b039-2145684784f9

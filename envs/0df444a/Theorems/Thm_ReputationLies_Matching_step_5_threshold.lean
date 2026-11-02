@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReputationLies_Matching_step_5_threshold
 -- name    : ReputationLies.Matching.step_5_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:19:57.22536+00:00
 -- url     : https://prove2.me/theorems/82662c29-186a-49de-bf85-546306273b90

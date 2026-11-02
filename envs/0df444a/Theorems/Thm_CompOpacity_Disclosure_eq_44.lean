@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOpacity_Disclosure_eq_44
 -- name    : CompOpacity.Disclosure.eq_44
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:51:34.124832+00:00
 -- url     : https://prove2.me/theorems/5bb0119e-3d85-40f6-a0ee-8b7b11d489f4

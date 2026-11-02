@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexOptAlg_LowerBounds_thm_3_14_span
 -- name    : ConvexOptAlg.LowerBounds.thm_3_14_span
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T17:44:21.396644+00:00
 -- url     : https://prove2.me/theorems/a2ce3036-fee6-49b4-8234-0eee3d00742c

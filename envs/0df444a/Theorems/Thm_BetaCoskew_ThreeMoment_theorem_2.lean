@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BetaCoskew_ThreeMoment_theorem_2
 -- name    : BetaCoskew.ThreeMoment.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:49.581438+00:00
 -- url     : https://prove2.me/theorems/4d713ce1-b433-4429-bd0e-737691ceeba2

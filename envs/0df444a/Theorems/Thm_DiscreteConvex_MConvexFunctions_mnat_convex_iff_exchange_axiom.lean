@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctions_mnat_convex_iff_exchange_axiom
 -- name    : DiscreteConvex.MConvexFunctions.mnat_convex_iff_exchange_axiom
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:59:24.648155+00:00
 -- url     : https://prove2.me/theorems/df80d981-f7f1-44a7-abba-072b14412a81

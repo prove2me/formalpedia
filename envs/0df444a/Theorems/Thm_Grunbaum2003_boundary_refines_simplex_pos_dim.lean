@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_boundary_refines_simplex_pos_dim
 -- name    : Grunbaum2003.boundary_refines_simplex_pos_dim
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:21:39.612675+00:00
 -- url     : https://prove2.me/theorems/f8ce796b-bb7b-4487-85bc-ecf8fe200d92

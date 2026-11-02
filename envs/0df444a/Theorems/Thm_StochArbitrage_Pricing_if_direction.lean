@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochArbitrage_Pricing_if_direction
 -- name    : StochArbitrage.Pricing.if_direction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:04.090383+00:00
 -- url     : https://prove2.me/theorems/c7cca64a-0c8b-4de8-b479-f3f7015924f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsE_quasi_m_minimizer_cut_scaling
 -- name    : DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:11:40.40665+00:00
 -- url     : https://prove2.me/theorems/88cea1e6-ac5a-4626-9464-cc6fc071376b

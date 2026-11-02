@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_completion_edge_bound__p2m_c26a86c1_c11b_4f85_a158_b9e12bec4015_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:50:10.257483+00:00
 -- url     : https://prove2.me/submissions/30b37b00-268b-48a8-8fca-01031baf2c4a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_extension_edge_maximal__p2m_b62a415b_0d40_4987_91cd_cfcca09e56a9_a1

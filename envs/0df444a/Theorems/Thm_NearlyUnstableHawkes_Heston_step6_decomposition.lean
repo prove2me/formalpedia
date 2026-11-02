@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyUnstableHawkes_Heston_step6_decomposition
 -- name    : NearlyUnstableHawkes.Heston.step6_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:36:44.471606+00:00
 -- url     : https://prove2.me/theorems/f5b53fdc-6699-4e8c-8081-fe58fbc8bc57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarlowTASI_entanglement_wedge_reconstruction
 -- name    : HarlowTASI.entanglement_wedge_reconstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:15:12.327991+00:00
 -- url     : https://prove2.me/theorems/18456c4f-5ca9-4b05-bafd-ab344ac14800

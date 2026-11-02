@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_CombinatorialC_theorem_2_16_conjugacy_general_quadratic
 -- name    : DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:44:47.864009+00:00
 -- url     : https://prove2.me/theorems/ac772b6c-4600-4615-a730-86926b03d6b5

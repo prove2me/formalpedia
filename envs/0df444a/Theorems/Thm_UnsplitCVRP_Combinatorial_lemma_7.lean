@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnsplitCVRP_Combinatorial_lemma_7
 -- name    : UnsplitCVRP.Combinatorial.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:00.464098+00:00
 -- url     : https://prove2.me/theorems/90bab6e4-4adf-4883-a05b-4dc391de391a

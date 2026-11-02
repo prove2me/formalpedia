@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataMerger_Quality_data_comparison
 -- name    : DataMerger.Quality.data_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:04.647611+00:00
 -- url     : https://prove2.me/theorems/41b9a7ca-25b2-43b2-9e8b-18907e3329a9

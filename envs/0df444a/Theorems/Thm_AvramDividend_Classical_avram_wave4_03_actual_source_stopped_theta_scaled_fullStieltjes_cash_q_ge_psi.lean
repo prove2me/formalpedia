@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave4_03_actual_source_stopped_theta_scaled_fullStieltjes_cash_q_ge_psi
 -- name    : AvramDividend.Classical.avram_wave4_03_actual_source_stopped_theta_scaled_fullStieltjes_cash_q_ge_psi
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-01T00:37:03.119724+00:00
 -- url     : https://prove2.me/theorems/3b76ccd4-0013-41e6-ac01-5ba47c110fde

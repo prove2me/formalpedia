@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NamikiStretch_Lossy_eq_18
 -- name    : NamikiStretch.Lossy.eq_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:48:32.288981+00:00
 -- url     : https://prove2.me/theorems/cb71b454-96c2-4b24-adcb-a2a6b2ab2cec

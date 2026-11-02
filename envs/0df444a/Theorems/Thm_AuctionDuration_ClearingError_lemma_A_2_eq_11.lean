@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuctionDuration_ClearingError_lemma_A_2_eq_11
 -- name    : AuctionDuration.ClearingError.lemma_A_2_eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:55.638368+00:00
 -- url     : https://prove2.me/theorems/71e63552-f206-407f-a54e-bf634e898e18

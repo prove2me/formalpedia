@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarhiQAOA_Cubic_eq_32
 -- name    : FarhiQAOA.Cubic.eq_32
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:50.1869+00:00
 -- url     : https://prove2.me/theorems/22764822-3a95-49f0-b24c-d2c209f52c74

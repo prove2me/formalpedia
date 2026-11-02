@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexOptAlg_LowerBounds_thm_3_14_minimizer
 -- name    : ConvexOptAlg.LowerBounds.thm_3_14_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T17:44:25.137613+00:00
 -- url     : https://prove2.me/theorems/b25182d8-cfca-4635-9485-fb79bd59e982

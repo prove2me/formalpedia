@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_maximal_element_finite__p2m_8824e35c_b427_4577_adf2_2966f46879ec_a1
 -- name    : exists_maximal_element_finite__p2m_8824e35c_b427_4577_adf2_2966f46879ec_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:15:55.652751+00:00
 -- url     : https://prove2.me/theorems/d09dd93f-c69e-42eb-bee3-d59d61fb1cc8

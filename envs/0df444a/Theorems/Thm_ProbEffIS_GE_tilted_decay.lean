@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbEffIS_GE_tilted_decay
 -- name    : ProbEffIS.GE.tilted_decay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:50.127031+00:00
 -- url     : https://prove2.me/theorems/af870d79-dc06-4b2c-ab6f-6e4c33a19039

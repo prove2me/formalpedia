@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawingOn_component_cut__p2m_bde12a09_c3ff_49b5_827a_2421e10fc278_a1
 -- name    : WilliamsonShmoys.planarDrawingOn_component_cut__p2m_bde12a09_c3ff_49b5_827a_2421e10fc278_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:44:24.036203+00:00
 -- url     : https://prove2.me/theorems/19cd2d46-2b88-4ae0-bdf6-b262bd78d159

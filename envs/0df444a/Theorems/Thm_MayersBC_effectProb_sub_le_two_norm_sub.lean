@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersBC_effectProb_sub_le_two_norm_sub
 -- name    : MayersBC.effectProb_sub_le_two_norm_sub
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:56:08.420364+00:00
 -- url     : https://prove2.me/theorems/d82fb49b-1d97-49c1-8e58-196196eb20dd

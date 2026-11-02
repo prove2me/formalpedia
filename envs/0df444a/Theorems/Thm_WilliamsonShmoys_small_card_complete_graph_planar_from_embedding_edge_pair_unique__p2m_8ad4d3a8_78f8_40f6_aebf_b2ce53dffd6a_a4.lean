@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_small_card_complete_graph_planar_from_embedding_edge_pair_unique__p2m_8ad4d3a8_78f8_40f6_aebf_b2ce53dffd6a_a4
 -- name    : WilliamsonShmoys.small_card_complete_graph_planar_from_embedding_edge_pair_unique__p2m_8ad4d3a8_78f8_40f6_aebf_b2ce53dffd6a_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:10:51.691795+00:00
 -- url     : https://prove2.me/theorems/82b09990-ed85-405d-9d4a-e61dc0e488ae

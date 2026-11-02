@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsC_lnat_convex_is_integrally_convex_and_extensible
 -- name    : DiscreteConvex.LConvexFunctionsC.lnat_convex_is_integrally_convex_and_extensible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:51:46.61674+00:00
 -- url     : https://prove2.me/theorems/8e8a3e9e-2948-45bf-a423-d67c0a46aabe

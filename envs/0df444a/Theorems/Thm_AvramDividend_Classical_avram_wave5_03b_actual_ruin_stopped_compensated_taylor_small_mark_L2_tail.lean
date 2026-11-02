@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave5_03b_actual_ruin_stopped_compensated_taylor_small_mark_L2_tail
 -- name    : AvramDividend.Classical.avram_wave5_03b_actual_ruin_stopped_compensated_taylor_small_mark_L2_tail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-01T01:19:43.586794+00:00
 -- url     : https://prove2.me/theorems/cc000c72-532c-4058-9964-28b4fe4889e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_hille_yosida_generation
 -- name    : EthierKurtz.oblique_hille_yosida_generation
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-27T04:33:02.718771+00:00
 -- url     : https://prove2.me/theorems/97e61e02-006a-470f-9744-94c734f50388

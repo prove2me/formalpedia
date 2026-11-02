@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WiretapFeedback_sk_log_le_negLog_beta
 -- name    : WiretapFeedback.sk_log_le_negLog_beta
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:24:49.138535+00:00
 -- url     : https://prove2.me/theorems/f5d13968-7fea-40fb-8884-20f4f49641e4

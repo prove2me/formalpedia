@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomScoring_Characterization_proposition_4_winners
 -- name    : GeomScoring.Characterization.proposition_4_winners
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:44:40.865362+00:00
 -- url     : https://prove2.me/theorems/9850eb24-bce4-448d-81d1-45d3a639cba0

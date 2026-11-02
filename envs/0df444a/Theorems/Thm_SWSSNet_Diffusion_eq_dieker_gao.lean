@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SWSSNet_Diffusion_eq_dieker_gao
 -- name    : SWSSNet.Diffusion.eq_dieker_gao
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:15.210038+00:00
 -- url     : https://prove2.me/theorems/04283492-6ead-42f6-b411-4c8bd8ab9581

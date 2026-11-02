@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PipelineInterv_Welfare_theorem_1_invariant
 -- name    : PipelineInterv.Welfare.theorem_1_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:08.714448+00:00
 -- url     : https://prove2.me/theorems/fc04268b-3b6e-49cb-95f7-35c283ef0a53

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OfflineCensoredPricing.Identifiability.lemma_A_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-30T18:21:30.823005+00:00
 -- url     : https://prove2.me/submissions/51ee51b7-aa4c-48a6-bcd5-c087264e2d5a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_OfflineCensoredPricing_Identifiability_lemma_A_2

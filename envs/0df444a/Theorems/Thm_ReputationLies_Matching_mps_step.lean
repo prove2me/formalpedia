@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReputationLies_Matching_mps_step
 -- name    : ReputationLies.Matching.mps_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:12.698651+00:00
 -- url     : https://prove2.me/theorems/21398e5b-cd47-4414-8d06-896445835aa2

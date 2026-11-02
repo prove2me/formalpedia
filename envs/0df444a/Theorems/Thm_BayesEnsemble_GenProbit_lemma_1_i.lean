@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesEnsemble_GenProbit_lemma_1_i
 -- name    : BayesEnsemble.GenProbit.lemma_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:10.040146+00:00
 -- url     : https://prove2.me/theorems/71f4016d-9842-4f4b-aa54-68806c0abf7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_resolvent_positive
 -- name    : EthierKurtz.oblique_resolvent_positive
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-27T13:49:39.159908+00:00
 -- url     : https://prove2.me/theorems/2a6a2cc1-d4ac-427e-8a4a-e3830352893a

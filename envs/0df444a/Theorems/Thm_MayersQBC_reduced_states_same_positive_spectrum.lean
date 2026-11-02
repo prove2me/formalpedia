@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersQBC_reduced_states_same_positive_spectrum
 -- name    : MayersQBC.reduced_states_same_positive_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:26:10.445125+00:00
 -- url     : https://prove2.me/theorems/a196be58-06ea-4ae9-aafd-f260ba60528b

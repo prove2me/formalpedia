@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_ConsumptionInvestment_consumption_investment_structure_theorem
 -- name    : MDPFinance.ConsumptionInvestment.consumption_investment_structure_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:00:47.838658+00:00
 -- url     : https://prove2.me/theorems/1d94ffec-d415-4564-8191-44d3cbdf6510

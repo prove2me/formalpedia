@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesEnsemble_GenProbit_report_formula
 -- name    : BayesEnsemble.GenProbit.report_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:17.234581+00:00
 -- url     : https://prove2.me/theorems/65ae0788-b62e-4a3d-a5d2-e48c2d246783

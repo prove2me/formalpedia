@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JumpAmbiguity_Decomp_diffusion_A9
 -- name    : JumpAmbiguity.Decomp.diffusion_A9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:29.50682+00:00
 -- url     : https://prove2.me/theorems/cc8e8ba7-95bd-4078-bccc-33bc5f4b84bf

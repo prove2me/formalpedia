@@ -74612,9 +74612,9 @@
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_integrable_nonzero_factor", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_local_regularity", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_local_regularity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected", "child": "AvramDividend_Classical_TwoSidedExitCorrected", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected", "child": "AvramDividend_Classical_TwoSidedExitCorrected", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected", "child": "AvramDividend_Classical_TwoSidedExitCorrected", "via": ["solution", "statement"]}
@@ -74762,8 +74762,8 @@
 {"parent": "AvramDividend.Classical.scale_deriv_zero_pos_of_normalized_monotone_and_W0", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scale_secant_of_derivative_lower_bound", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scale_secant_of_derivative_lower_bound", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.scaledW_generator_harmonic_at_positive_cstar", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaledW_generator_harmonic_at_positive_cstar", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.scaledW_generator_harmonic_at_positive_cstar", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.scaledW_generator_harmonic_at_positive_cstar", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaled_scaleFunction_q_harmonic_below_cstar", "child": "AvramDividend.Classical.generator_const_mul_of_integrable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaled_scaleFunction_q_harmonic_below_cstar", "child": "AvramDividend.Classical.scaleFunction_generator_q_harmonic_of_nonzero_factor", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaled_scaleFunction_q_harmonic_below_cstar", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}

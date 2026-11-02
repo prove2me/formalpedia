@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_bounds_sum__p2m_f78b2624_2de8_40ad_9230_053c73815f63_a3
 -- name    : WilliamsonShmoys.component_bounds_sum__p2m_f78b2624_2de8_40ad_9230_053c73815f63_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:57:10.523695+00:00
 -- url     : https://prove2.me/theorems/1720d2b2-bbea-4d47-affc-65940ff7c983

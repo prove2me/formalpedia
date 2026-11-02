@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_quantumMinimumFinding
 -- name    : QAlgorithms.Nannicini.quantumMinimumFinding
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:01.329754+00:00
 -- url     : https://prove2.me/theorems/dd67bf1e-9170-4f8d-999b-25d7a8113079

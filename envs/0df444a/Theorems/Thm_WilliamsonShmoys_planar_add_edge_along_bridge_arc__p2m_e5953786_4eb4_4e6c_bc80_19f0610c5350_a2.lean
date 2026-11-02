@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_add_edge_along_bridge_arc__p2m_e5953786_4eb4_4e6c_bc80_19f0610c5350_a2
 -- name    : WilliamsonShmoys.planar_add_edge_along_bridge_arc__p2m_e5953786_4eb4_4e6c_bc80_19f0610c5350_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:00:50.012149+00:00
 -- url     : https://prove2.me/theorems/28fcd582-d200-46af-bf00-d4c58429d202

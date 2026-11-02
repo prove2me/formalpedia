@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnsplitCVRP_Combinatorial_claim_9
 -- name    : UnsplitCVRP.Combinatorial.claim_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:07.507329+00:00
 -- url     : https://prove2.me/theorems/6a008519-f220-42ba-a177-128a4353da1e

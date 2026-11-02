@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaledW_generator_harmonic_at_positive_cstar
 -- name    : AvramDividend.Classical.scaledW_generator_harmonic_at_positive_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T23:29:09.292775+00:00
 -- url     : https://prove2.me/theorems/e15c1757-2765-413a-b469-c2b6d3ff42ed

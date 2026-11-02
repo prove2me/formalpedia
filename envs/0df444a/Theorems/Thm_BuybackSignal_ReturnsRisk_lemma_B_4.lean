@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuybackSignal_ReturnsRisk_lemma_B_4
 -- name    : BuybackSignal.ReturnsRisk.lemma_B_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:49.242559+00:00
 -- url     : https://prove2.me/theorems/c49543f2-29a7-454e-b23f-22148f5941b2

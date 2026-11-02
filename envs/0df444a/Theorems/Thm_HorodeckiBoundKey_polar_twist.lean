@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HorodeckiBoundKey_polar_twist
 -- name    : HorodeckiBoundKey.polar_twist
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:15:54.180733+00:00
 -- url     : https://prove2.me/theorems/a8a70608-3625-4085-a5ab-c27598fba485

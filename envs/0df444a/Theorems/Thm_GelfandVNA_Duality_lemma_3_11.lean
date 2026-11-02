@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GelfandVNA_Duality_lemma_3_11
 -- name    : GelfandVNA.Duality.lemma_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:48:55.044515+00:00
 -- url     : https://prove2.me/theorems/7e945312-cd86-4aa0-91f6-42e1239912a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechFinConstr_Selection_lemma_3
 -- name    : TechFinConstr.Selection.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:09.994164+00:00
 -- url     : https://prove2.me/theorems/6aed384a-985e-4f63-bc3f-79d96024c077

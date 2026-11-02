@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Bilinear_lemma_3_6
 -- name    : TensorNP.Bilinear.lemma_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:21.090091+00:00
 -- url     : https://prove2.me/theorems/1a431d93-bcec-457b-828f-ead308111756

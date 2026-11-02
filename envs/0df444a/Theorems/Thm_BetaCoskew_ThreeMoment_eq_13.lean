@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BetaCoskew_ThreeMoment_eq_13
 -- name    : BetaCoskew.ThreeMoment.eq_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:40.572978+00:00
 -- url     : https://prove2.me/theorems/e4d7b075-2018-4e43-b824-7d36554d025c

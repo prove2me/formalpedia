@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NamikiStretch_Lossy_stretching_theorem
 -- name    : NamikiStretch.Lossy.stretching_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:48:38.568782+00:00
 -- url     : https://prove2.me/theorems/03569680-8504-4d0c-ad27-01c8eb779382

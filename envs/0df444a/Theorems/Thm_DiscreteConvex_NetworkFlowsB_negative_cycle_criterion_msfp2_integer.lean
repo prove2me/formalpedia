@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_NetworkFlowsB_negative_cycle_criterion_msfp2_integer
 -- name    : DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T02:37:14.498893+00:00
 -- url     : https://prove2.me/theorems/25a32c21-9c87-4188-b9f5-3467f4d78537

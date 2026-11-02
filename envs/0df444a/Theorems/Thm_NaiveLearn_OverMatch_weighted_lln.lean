@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NaiveLearn_OverMatch_weighted_lln
 -- name    : NaiveLearn.OverMatch.weighted_lln
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:17:30.157981+00:00
 -- url     : https://prove2.me/theorems/c31616ad-26f1-45a4-ba3b-6b760eb9f306

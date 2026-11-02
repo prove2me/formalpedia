@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersBC_fuchs_caves
 -- name    : MayersBC.fuchs_caves
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:57:22.389698+00:00
 -- url     : https://prove2.me/theorems/631be8ae-81d2-4d3e-a5e9-24456e46db69

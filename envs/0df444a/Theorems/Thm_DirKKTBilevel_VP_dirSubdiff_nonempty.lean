@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKKTBilevel_VP_dirSubdiff_nonempty
 -- name    : DirKKTBilevel.VP.dirSubdiff_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:48.585962+00:00
 -- url     : https://prove2.me/theorems/b4455bb7-1065-4f32-9ad4-45e08eb20903

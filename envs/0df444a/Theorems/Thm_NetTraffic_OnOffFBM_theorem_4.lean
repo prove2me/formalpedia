@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetTraffic_OnOffFBM_theorem_4
 -- name    : NetTraffic.OnOffFBM.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:03:46.448783+00:00
 -- url     : https://prove2.me/theorems/f05ae606-132b-422d-aa16-7554eea5afef

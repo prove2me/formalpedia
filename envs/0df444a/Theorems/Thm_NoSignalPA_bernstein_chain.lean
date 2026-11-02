@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoSignalPA_bernstein_chain
 -- name    : NoSignalPA.bernstein_chain
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:02:43.443727+00:00
 -- url     : https://prove2.me/theorems/d7eb4570-db24-4680-831d-1243768e9788

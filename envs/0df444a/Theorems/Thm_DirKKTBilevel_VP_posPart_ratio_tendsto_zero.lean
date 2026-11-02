@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKKTBilevel_VP_posPart_ratio_tendsto_zero
 -- name    : DirKKTBilevel.VP.posPart_ratio_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:28.055621+00:00
 -- url     : https://prove2.me/theorems/06230f5e-5efa-4c39-8b03-acf279895040

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave4_p3_generatorJump_continuousOn_compact_of_uniform_BV_envelope
 -- name    : AvramDividend.Classical.avram_wave4_p3_generatorJump_continuousOn_compact_of_uniform_BV_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-31T17:09:19.830758+00:00
 -- url     : https://prove2.me/theorems/d858dc97-1bc3-4a04-accd-ccfb71ad8430

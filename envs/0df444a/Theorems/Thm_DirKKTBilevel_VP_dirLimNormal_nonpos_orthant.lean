@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKKTBilevel_VP_dirLimNormal_nonpos_orthant
 -- name    : DirKKTBilevel.VP.dirLimNormal_nonpos_orthant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:32.662394+00:00
 -- url     : https://prove2.me/theorems/d4382705-e87e-40a7-8b28-3f8a30d81edd

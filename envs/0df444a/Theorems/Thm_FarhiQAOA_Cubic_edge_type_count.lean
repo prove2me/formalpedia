@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarhiQAOA_Cubic_edge_type_count
 -- name    : FarhiQAOA.Cubic.edge_type_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:50.034663+00:00
 -- url     : https://prove2.me/theorems/51515f62-809c-47a6-a99d-e151b0ffd753

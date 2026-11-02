@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KontsevichHMS_torus_fukaya_category_exists
 -- name    : KontsevichHMS.torus_fukaya_category_exists
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-09-15T03:04:35.430977+00:00
 -- url     : https://prove2.me/theorems/b6040c9a-8fb5-4cd8-85da-1105edf7ee22

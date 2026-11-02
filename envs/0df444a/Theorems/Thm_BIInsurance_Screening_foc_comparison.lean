@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BIInsurance_Screening_foc_comparison
 -- name    : BIInsurance.Screening.foc_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:09.375179+00:00
 -- url     : https://prove2.me/theorems/02e60290-cd50-4a89-a202-a9a3b2a77685

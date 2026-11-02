@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesEnsemble_GenProbit_eq_14
 -- name    : BayesEnsemble.GenProbit.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:08.523541+00:00
 -- url     : https://prove2.me/theorems/940cdf1a-0119-4d58-a545-5bc27f1bb330

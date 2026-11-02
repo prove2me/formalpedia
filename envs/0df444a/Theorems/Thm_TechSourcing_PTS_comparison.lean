@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechSourcing_PTS_comparison
 -- name    : TechSourcing.PTS.comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:28.745992+00:00
 -- url     : https://prove2.me/theorems/bbe0f20a-51c5-45a1-b298-3d3fb04e5f04

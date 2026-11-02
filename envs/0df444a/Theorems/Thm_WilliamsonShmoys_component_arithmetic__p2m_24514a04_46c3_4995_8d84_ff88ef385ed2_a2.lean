@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_arithmetic__p2m_24514a04_46c3_4995_8d84_ff88ef385ed2_a2
 -- name    : WilliamsonShmoys.component_arithmetic__p2m_24514a04_46c3_4995_8d84_ff88ef385ed2_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:40:43.273144+00:00
 -- url     : https://prove2.me/theorems/f8118d4e-7433-432b-871f-3e593ed76035

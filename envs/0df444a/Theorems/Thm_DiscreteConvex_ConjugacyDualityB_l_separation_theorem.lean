@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityB_l_separation_theorem
 -- name    : DiscreteConvex.ConjugacyDualityB.l_separation_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:33:37.447981+00:00
 -- url     : https://prove2.me/theorems/79cf03ea-ecbd-420a-bab2-52076bfba841

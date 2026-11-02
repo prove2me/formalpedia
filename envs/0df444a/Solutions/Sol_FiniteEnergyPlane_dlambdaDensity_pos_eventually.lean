@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.dlambdaDensity_pos_eventually
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-30T16:51:21.715361+00:00
 -- url     : https://prove2.me/submissions/99aeff07-61f3-44a0-a991-ef318f280b70
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_Asymptotics
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected
 -- name    : AvramDividend.Classical.scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T21:17:09.118721+00:00
 -- url     : https://prove2.me/theorems/92be16b9-8414-42bb-a205-0ad705107025

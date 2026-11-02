@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MinimalSolutions_ur_minimal_solutions
 -- name    : MatrixAnalytic.MinimalSolutions.ur_minimal_solutions
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-28T12:37:29.270589+00:00
 -- url     : https://prove2.me/theorems/ab5eb871-ca0c-4674-b313-38bfeba6cf3b

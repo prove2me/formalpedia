@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_MatchedConformalEnds_MatchedRealMask_global_sobolev_of_published_inputs
 -- name    : OAI.CircleDomainRigidity.MatchedConformalEnds.MatchedRealMask.global_sobolev_of_published_inputs
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:33:50.658434+00:00
 -- url     : https://prove2.me/theorems/c94d5d47-f014-44e4-ae7e-e46ca40521e5

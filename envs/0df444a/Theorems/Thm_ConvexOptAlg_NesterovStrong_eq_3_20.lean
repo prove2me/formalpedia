@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexOptAlg_NesterovStrong_eq_3_20
 -- name    : ConvexOptAlg.NesterovStrong.eq_3_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T18:01:03.333614+00:00
 -- url     : https://prove2.me/theorems/c3ae2e72-06b2-427a-98f2-a9533cbcacdf

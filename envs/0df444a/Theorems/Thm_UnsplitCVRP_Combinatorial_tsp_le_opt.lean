@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnsplitCVRP_Combinatorial_tsp_le_opt
 -- name    : UnsplitCVRP.Combinatorial.tsp_le_opt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:10.56313+00:00
 -- url     : https://prove2.me/theorems/22124078-6877-42fa-947e-034a1caa0e56

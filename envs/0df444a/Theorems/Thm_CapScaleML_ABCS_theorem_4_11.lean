@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapScaleML_ABCS_theorem_4_11
 -- name    : CapScaleML.ABCS.theorem_4_11
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:34.874176+00:00
 -- url     : https://prove2.me/theorems/29617f40-1f40-4a54-b316-fcd9570de8fa

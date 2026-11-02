@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsodiamVar_Simplex_center_in_hull
 -- name    : IsodiamVar.Simplex.center_in_hull
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:47:12.993052+00:00
 -- url     : https://prove2.me/theorems/3793e457-a0ae-4353-95f8-8a5b882f750b

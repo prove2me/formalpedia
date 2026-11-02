@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_LearningSurvey_servedioGortler_classical_le_cube
 -- name    : QAlgorithms.LearningSurvey.servedioGortler_classical_le_cube
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:12.520013+00:00
 -- url     : https://prove2.me/theorems/20151c90-ce4b-4362-a25a-5c87a6ee4f99

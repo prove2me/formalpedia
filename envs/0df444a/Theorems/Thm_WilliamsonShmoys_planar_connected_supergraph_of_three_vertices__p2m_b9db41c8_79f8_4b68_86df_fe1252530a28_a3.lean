@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_connected_supergraph_of_three_vertices__p2m_b9db41c8_79f8_4b68_86df_fe1252530a28_a3
 -- name    : WilliamsonShmoys.planar_connected_supergraph_of_three_vertices__p2m_b9db41c8_79f8_4b68_86df_fe1252530a28_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:57:23.280584+00:00
 -- url     : https://prove2.me/theorems/b288f1f9-9e57-4851-a40a-3efdbb7536d5

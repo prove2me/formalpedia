@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityB_theorem_3_5_separation_convex_functions
 -- name    : DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:05:24.80486+00:00
 -- url     : https://prove2.me/theorems/53977a18-99e6-43d4-b903-56f7602b8388

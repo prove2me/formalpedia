@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_countable_uncovered_test_endpoints
 -- name    : OAI.CircleDomainRigidity.countable_uncovered_test_endpoints
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:37:32.75469+00:00
 -- url     : https://prove2.me/theorems/77e47640-18eb-4824-aaca-aee778320ec0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReputationLies_Matching_proposition_3
 -- name    : ReputationLies.Matching.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:19:58.773774+00:00
 -- url     : https://prove2.me/theorems/7112ffd5-022d-474f-afac-5d656c1cce94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConcreteSheaves_Quasitopos_theorem_52
 -- name    : ConcreteSheaves.Quasitopos.theorem_52
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:40:17.711984+00:00
 -- url     : https://prove2.me/theorems/0658fc17-6bd9-4108-918c-347fa2a05481

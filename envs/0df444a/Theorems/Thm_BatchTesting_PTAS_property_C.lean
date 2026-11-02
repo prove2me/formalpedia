@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BatchTesting_PTAS_property_C
 -- name    : BatchTesting.PTAS.property_C
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:44.559813+00:00
 -- url     : https://prove2.me/theorems/ae0da369-185e-4558-97f3-90aeda6ce04d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSVTPhaseEst_BitSearch_lemma_13
 -- name    : QSVTPhaseEst.BitSearch.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:00:38.631749+00:00
 -- url     : https://prove2.me/theorems/6432906c-e124-42c2-a38e-e3a4db20fb9d

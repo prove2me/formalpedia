@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyUnstableHawkes_Heston_eq_11
 -- name    : NearlyUnstableHawkes.Heston.eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:39:07.206324+00:00
 -- url     : https://prove2.me/theorems/63100f20-cbf7-4cd5-b429-95e10a85efa4

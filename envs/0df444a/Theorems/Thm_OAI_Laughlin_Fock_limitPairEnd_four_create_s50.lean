@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_limitPairEnd_four_create_s50
 -- name    : OAI.Laughlin.Fock.limitPairEnd_four_create_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:43:49.52447+00:00
 -- url     : https://prove2.me/theorems/ca10f672-32b0-4a25-9dcd-b54cf62deb48

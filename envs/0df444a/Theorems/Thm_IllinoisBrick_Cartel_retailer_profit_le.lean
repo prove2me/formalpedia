@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IllinoisBrick_Cartel_retailer_profit_le
 -- name    : IllinoisBrick.Cartel.retailer_profit_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:55.164478+00:00
 -- url     : https://prove2.me/theorems/4fb06991-b960-491b-9112-ccc5573d3ca2

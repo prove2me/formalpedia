@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_MatchedConformalEnds_normalized_identity_of_trace
 -- name    : OAI.CircleDomainRigidity.MatchedConformalEnds.normalized_identity_of_trace
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:34:12.625862+00:00
 -- url     : https://prove2.me/theorems/994df092-542d-4db8-ae52-2da2a1fcb140

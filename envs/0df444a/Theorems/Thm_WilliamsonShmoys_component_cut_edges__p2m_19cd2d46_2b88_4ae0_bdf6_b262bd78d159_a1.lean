@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_cut_edges__p2m_19cd2d46_2b88_4ae0_bdf6_b262bd78d159_a1
 -- name    : WilliamsonShmoys.component_cut_edges__p2m_19cd2d46_2b88_4ae0_bdf6_b262bd78d159_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:56:05.684837+00:00
 -- url     : https://prove2.me/theorems/dce49140-44b6-4a2b-8434-7024437468bf

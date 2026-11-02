@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_adiabatic_unitary_replacement
 -- name    : QAlgorithms.Nannicini.adiabatic_unitary_replacement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:18.371144+00:00
 -- url     : https://prove2.me/theorems/73c66b45-80f4-434d-bbf1-d7831a0a0e0c

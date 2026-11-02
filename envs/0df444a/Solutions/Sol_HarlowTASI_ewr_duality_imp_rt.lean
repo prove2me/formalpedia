@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HarlowTASI.ewr_duality_imp_rt
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Alien60
 -- created : 2026-10-26T20:29:59.695304+00:00
 -- url     : https://prove2.me/submissions/fc2dd1eb-99e7-4f9a-8f77-b36409640dfa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HarlowTASI_OperatorAlgebras

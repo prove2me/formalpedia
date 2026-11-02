@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BubeckCO_PSGD_first_order_optimality_iff
 -- name    : BubeckCO.PSGD.first_order_optimality_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:25:49.76922+00:00
 -- url     : https://prove2.me/theorems/f0c41a7e-8105-4777-8d8f-9eafa8e68ed6

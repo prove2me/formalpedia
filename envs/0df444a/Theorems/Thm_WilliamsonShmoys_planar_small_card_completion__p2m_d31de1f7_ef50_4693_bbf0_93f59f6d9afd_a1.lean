@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_small_card_completion__p2m_d31de1f7_ef50_4693_bbf0_93f59f6d9afd_a1
 -- name    : WilliamsonShmoys_planar_small_card_completion__p2m_d31de1f7_ef50_4693_bbf0_93f59f6d9afd_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:11:26.769535+00:00
 -- url     : https://prove2.me/theorems/6ce4ca43-3f24-470a-9f5f-602e4f1a05ae

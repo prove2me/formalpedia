@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersBC_hjw_steering
 -- name    : MayersBC.hjw_steering
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:56:52.586967+00:00
 -- url     : https://prove2.me/theorems/be7b2928-17cb-4ecb-9c42-7fe103c6676a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersBC_toussaint
 -- name    : MayersBC.toussaint
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:56:46.840028+00:00
 -- url     : https://prove2.me/theorems/7f1c0f1e-8086-46c5-b3f3-ce78ada699c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechFinConstr_Selection_rent_initial_slope
 -- name    : TechFinConstr.Selection.rent_initial_slope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:39.364426+00:00
 -- url     : https://prove2.me/theorems/9ac0e94f-c2a2-49d7-b261-67371b2d3414

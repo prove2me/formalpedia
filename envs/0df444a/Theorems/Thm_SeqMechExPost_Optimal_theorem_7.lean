@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqMechExPost_Optimal_theorem_7
 -- name    : SeqMechExPost.Optimal.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:19.998831+00:00
 -- url     : https://prove2.me/theorems/34434f9f-1a95-4384-854d-d311a7909ed5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationContagion_Rotation_lemma_1
 -- name    : RotationContagion.Rotation.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:22:01.51843+00:00
 -- url     : https://prove2.me/theorems/06e846c4-fc26-4a0a-9500-6969066735b2

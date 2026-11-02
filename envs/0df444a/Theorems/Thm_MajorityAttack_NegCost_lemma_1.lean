@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MajorityAttack_NegCost_lemma_1
 -- name    : MajorityAttack.NegCost.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:11.464113+00:00
 -- url     : https://prove2.me/theorems/44435a67-c8cb-4077-95b0-7f3771b35214

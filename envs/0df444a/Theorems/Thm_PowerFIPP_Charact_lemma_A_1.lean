@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerFIPP_Charact_lemma_A_1
 -- name    : PowerFIPP.Charact.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:29.179578+00:00
 -- url     : https://prove2.me/theorems/d5798c49-dd7c-47c7-8578-1b4b201db827

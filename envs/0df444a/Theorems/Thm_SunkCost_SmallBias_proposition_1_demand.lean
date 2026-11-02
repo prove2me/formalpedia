@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SunkCost_SmallBias_proposition_1_demand
 -- name    : SunkCost.SmallBias.proposition_1_demand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:48.793261+00:00
 -- url     : https://prove2.me/theorems/7bb6e486-1abc-424b-a27f-b4a7b553a602

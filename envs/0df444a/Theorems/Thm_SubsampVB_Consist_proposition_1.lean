@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsampVB_Consist_proposition_1
 -- name    : SubsampVB.Consist.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:46:17.478456+00:00
 -- url     : https://prove2.me/theorems/385a8c3f-1d77-4c7f-aeac-0cf33569bca6

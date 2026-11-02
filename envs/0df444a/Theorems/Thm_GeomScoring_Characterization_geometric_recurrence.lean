@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomScoring_Characterization_geometric_recurrence
 -- name    : GeomScoring.Characterization.geometric_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:44:48.628006+00:00
 -- url     : https://prove2.me/theorems/219fed21-e771-4c67-ae9f-8316190e419c

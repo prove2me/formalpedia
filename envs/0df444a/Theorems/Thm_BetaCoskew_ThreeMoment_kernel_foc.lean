@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BetaCoskew_ThreeMoment_kernel_foc
 -- name    : BetaCoskew.ThreeMoment.kernel_foc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:58.438649+00:00
 -- url     : https://prove2.me/theorems/9d87455b-345e-4118-8dc3-75fb4449be91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IRLSM_RIP_nuclearNorm_le_sqrt_rank_mul_frobeniusNorm
 -- name    : IRLSM.RIP.nuclearNorm_le_sqrt_rank_mul_frobeniusNorm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:43:32.230976+00:00
 -- url     : https://prove2.me/theorems/4f1c8aad-392d-43be-995f-dae6cc0b4dd3

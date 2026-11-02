@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolDisclosure_Evidence_proposition_A_1
 -- name    : VolDisclosure.Evidence.proposition_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:40:03.376534+00:00
 -- url     : https://prove2.me/theorems/693c73ea-cb01-4d10-a9ea-b841ecaeb218

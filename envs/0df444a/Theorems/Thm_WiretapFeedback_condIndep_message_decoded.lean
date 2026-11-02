@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WiretapFeedback_condIndep_message_decoded
 -- name    : WiretapFeedback.condIndep_message_decoded
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:01:41.529936+00:00
 -- url     : https://prove2.me/theorems/fc3d0210-6025-43f2-b438-6dde3a18652c

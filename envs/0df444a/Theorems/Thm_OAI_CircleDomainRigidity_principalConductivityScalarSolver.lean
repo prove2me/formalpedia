@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_principalConductivityScalarSolver
 -- name    : OAI.CircleDomainRigidity.principalConductivityScalarSolver
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:26:35.991781+00:00
 -- url     : https://prove2.me/theorems/3cdd12d5-1294-4956-a7b8-857740d2be85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsB_lconvex_closure_basic_properties
 -- name    : DiscreteConvex.LConvexFunctionsB.lconvex_closure_basic_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:28:19.756182+00:00
 -- url     : https://prove2.me/theorems/3f7952c5-7d16-4d82-b179-780938807159

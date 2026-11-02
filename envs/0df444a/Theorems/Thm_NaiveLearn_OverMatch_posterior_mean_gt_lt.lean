@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NaiveLearn_OverMatch_posterior_mean_gt_lt
 -- name    : NaiveLearn.OverMatch.posterior_mean_gt_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:17:16.516515+00:00
 -- url     : https://prove2.me/theorems/846cf420-ae24-4143-ab21-516b6957887f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiqProvision_Oligopoly_lemma_2_5_a
 -- name    : LiqProvision.Oligopoly.lemma_2_5_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:33.011848+00:00
 -- url     : https://prove2.me/theorems/4627dd0d-4ff3-4db8-afc2-fbafa8237c7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsC_mconvex_extension_is_polyhedral_mconvex
 -- name    : DiscreteConvex.MConvexFunctionsC.mconvex_extension_is_polyhedral_mconvex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:39:59.303314+00:00
 -- url     : https://prove2.me/theorems/6fd72f83-91e0-4190-82ec-a6b3c156383c

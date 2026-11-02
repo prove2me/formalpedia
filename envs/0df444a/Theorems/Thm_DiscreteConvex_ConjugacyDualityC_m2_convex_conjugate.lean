@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityC_m2_convex_conjugate
 -- name    : DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:45:56.751133+00:00
 -- url     : https://prove2.me/theorems/1052be40-8604-4163-9bd8-1a5667eade9d

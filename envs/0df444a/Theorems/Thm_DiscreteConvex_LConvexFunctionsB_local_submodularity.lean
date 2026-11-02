@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsB_local_submodularity
 -- name    : DiscreteConvex.LConvexFunctionsB.local_submodularity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:24:18.972538+00:00
 -- url     : https://prove2.me/theorems/c21da859-4d1e-40c9-8229-fa9663cbb035

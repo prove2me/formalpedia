@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TestDistancing_Equilibrium_proposition_1
 -- name    : TestDistancing.Equilibrium.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:05.851632+00:00
 -- url     : https://prove2.me/theorems/50a79e54-dc15-4183-88b7-c9be910c6859

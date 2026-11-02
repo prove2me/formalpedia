@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonAgencyVCG_Algorithmic_lemma_1
 -- name    : CommonAgencyVCG.Algorithmic.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:32.661279+00:00
 -- url     : https://prove2.me/theorems/ac8be80a-f78f-4b47-bef2-defa84e46777

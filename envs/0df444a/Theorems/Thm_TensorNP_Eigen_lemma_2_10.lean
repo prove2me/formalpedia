@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Eigen_lemma_2_10
 -- name    : TensorNP.Eigen.lemma_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:22.365392+00:00
 -- url     : https://prove2.me/theorems/2ce1b54f-5b64-4cd5-bb99-9f8f1b9089a6

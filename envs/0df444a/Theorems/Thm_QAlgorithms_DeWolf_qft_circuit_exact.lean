@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_qft_circuit_exact
 -- name    : QAlgorithms.DeWolf.qft_circuit_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:34:29.597572+00:00
 -- url     : https://prove2.me/theorems/550be475-3355-4489-84c2-87d21518f788

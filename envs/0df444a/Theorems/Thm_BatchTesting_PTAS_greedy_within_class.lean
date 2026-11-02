@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BatchTesting_PTAS_greedy_within_class
 -- name    : BatchTesting.PTAS.greedy_within_class
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:39.048565+00:00
 -- url     : https://prove2.me/theorems/69da7431-68b3-4ef9-af16-0141fa19996d

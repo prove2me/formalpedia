@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReputationLies_Matching_step_4_bayes_belief
 -- name    : ReputationLies.Matching.step_4_bayes_belief
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:19:54.188303+00:00
 -- url     : https://prove2.me/theorems/181f818c-ceb6-4829-89e5-de334d45c6e3

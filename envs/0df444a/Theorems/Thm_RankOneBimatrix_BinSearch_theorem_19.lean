@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankOneBimatrix_BinSearch_theorem_19
 -- name    : RankOneBimatrix.BinSearch.theorem_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:35:08.655502+00:00
 -- url     : https://prove2.me/theorems/41d643e3-8d9c-405b-a7ca-9dde5a7c5384

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynRiskEq_Welfare_theorem_3_iv_maximizer
 -- name    : DynRiskEq.Welfare.theorem_3_iv_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:26:41.224992+00:00
 -- url     : https://prove2.me/theorems/d24f31d7-5640-4d46-bb7d-cc933444a89c

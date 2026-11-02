@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TensorNP.Bilinear.lemma_2_10
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T13:38:35.996701+00:00
 -- url     : https://prove2.me/submissions/77defeaa-82de-4e53-8ac4-24f312632470
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_TensorNP_Bilinear_ColorEncoding

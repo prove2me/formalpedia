@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpikedWishart_Separated_theorem_1_1_b
 -- name    : SpikedWishart.Separated.theorem_1_1_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:37:37.571511+00:00
 -- url     : https://prove2.me/theorems/53ec8574-6b14-492c-8285-e6ef59de4d19

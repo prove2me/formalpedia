@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawable_maximal_supergraph__p2m_e31b05a7_4e78_4789_8a19_ecdeedbcdfa7_a1
 -- name    : WilliamsonShmoys.planar_drawable_maximal_supergraph__p2m_e31b05a7_4e78_4789_8a19_ecdeedbcdfa7_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:38:33.620117+00:00
 -- url     : https://prove2.me/theorems/350700c7-dd24-47f5-9bef-0db864652b8b

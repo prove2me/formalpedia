@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyClinch_TwoSided_lemma_3_7
 -- name    : PolyClinch.TwoSided.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:11.907713+00:00
 -- url     : https://prove2.me/theorems/9157db1f-7e0f-42ff-abe7-5183c66193f6

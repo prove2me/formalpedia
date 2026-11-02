@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BOGOPromo_NoStockpile_corollary_3
 -- name    : BOGOPromo.NoStockpile.corollary_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:23:34.80099+00:00
 -- url     : https://prove2.me/theorems/36e96854-60aa-4be2-85eb-fe1c10f62c24

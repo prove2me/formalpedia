@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EcoOffset_Subgame_caseP_reduction
 -- name    : EcoOffset.Subgame.caseP_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:02.513022+00:00
 -- url     : https://prove2.me/theorems/15789b3e-810a-4909-8428-6398d092cab2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RainbowEFX_Sublinear_observation_13
 -- name    : RainbowEFX.Sublinear.observation_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:08.787315+00:00
 -- url     : https://prove2.me/theorems/75200def-ed87-4162-8b44-ed803d54f9f1

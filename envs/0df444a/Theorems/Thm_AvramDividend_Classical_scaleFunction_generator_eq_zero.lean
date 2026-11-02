@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_eq_zero
 -- name    : AvramDividend.Classical.scaleFunction_generator_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T18:16:27.305506+00:00
 -- url     : https://prove2.me/theorems/d321a25e-e5a5-4415-937a-b173fd7712a5

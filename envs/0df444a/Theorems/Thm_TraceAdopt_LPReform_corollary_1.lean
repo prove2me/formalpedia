@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceAdopt_LPReform_corollary_1
 -- name    : TraceAdopt.LPReform.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:37:24.021075+00:00
 -- url     : https://prove2.me/theorems/03dbfa0f-1f82-4d4d-a0bc-849dbacbf6cb

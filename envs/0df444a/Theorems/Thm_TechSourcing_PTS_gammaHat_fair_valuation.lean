@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechSourcing_PTS_gammaHat_fair_valuation
 -- name    : TechSourcing.PTS.gammaHat_fair_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:32.079198+00:00
 -- url     : https://prove2.me/theorems/624ac376-e245-4407-970c-4d00f206f36b

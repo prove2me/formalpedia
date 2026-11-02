@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntertempDUI_Finite_lemma_A5
 -- name    : IntertempDUI.Finite.lemma_A5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:06.136167+00:00
 -- url     : https://prove2.me/theorems/28000b7b-2924-487a-ae7f-b1b9cdc48f3c

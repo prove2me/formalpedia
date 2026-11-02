@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpatialDemandEq_Optimal_rate_gap_identity
 -- name    : SpatialDemandEq.Optimal.rate_gap_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:04.245369+00:00
 -- url     : https://prove2.me/theorems/9c8fcc59-6177-4a9f-84b6-0e82b96fb292

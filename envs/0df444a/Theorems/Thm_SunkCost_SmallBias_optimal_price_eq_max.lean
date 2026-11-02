@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SunkCost_SmallBias_optimal_price_eq_max
 -- name    : SunkCost.SmallBias.optimal_price_eq_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:45.295237+00:00
 -- url     : https://prove2.me/theorems/d38dd729-c295-4d9e-84c3-a47285e64800

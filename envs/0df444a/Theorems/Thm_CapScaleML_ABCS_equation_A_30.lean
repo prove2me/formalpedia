@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapScaleML_ABCS_equation_A_30
 -- name    : CapScaleML.ABCS.equation_A_30
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:27.297659+00:00
 -- url     : https://prove2.me/theorems/3d4fd7bd-74fd-45ea-857a-4fd153a13757

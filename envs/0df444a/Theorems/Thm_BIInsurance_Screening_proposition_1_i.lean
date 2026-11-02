@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BIInsurance_Screening_proposition_1_i
 -- name    : BIInsurance.Screening.proposition_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:44:40.762015+00:00
 -- url     : https://prove2.me/theorems/571f8bfd-6eb1-4994-81cc-a13973630c11

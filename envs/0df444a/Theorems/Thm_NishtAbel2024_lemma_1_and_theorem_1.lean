@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NishtAbel2024_lemma_1_and_theorem_1
 -- name    : NishtAbel2024.lemma_1_and_theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T19:03:59.946634+00:00
 -- url     : https://prove2.me/theorems/656435ad-65dc-4245-a9b6-bcaad4693b51

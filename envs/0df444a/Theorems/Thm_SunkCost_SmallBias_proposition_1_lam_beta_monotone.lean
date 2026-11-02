@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SunkCost_SmallBias_proposition_1_lam_beta_monotone
 -- name    : SunkCost.SmallBias.proposition_1_lam_beta_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:50.991074+00:00
 -- url     : https://prove2.me/theorems/58311189-1317-47f9-8646-11b98df6607b

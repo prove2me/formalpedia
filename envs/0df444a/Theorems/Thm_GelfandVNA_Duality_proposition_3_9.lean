@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GelfandVNA_Duality_proposition_3_9
 -- name    : GelfandVNA.Duality.proposition_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:48:57.78614+00:00
 -- url     : https://prove2.me/theorems/c8210dbe-b911-4f90-ba95-aa55f024015f

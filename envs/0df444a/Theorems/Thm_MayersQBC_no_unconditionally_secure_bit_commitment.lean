@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersQBC_no_unconditionally_secure_bit_commitment
 -- name    : MayersQBC.no_unconditionally_secure_bit_commitment
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:27:17.544323+00:00
 -- url     : https://prove2.me/theorems/12c781d2-7a71-41d5-a788-4116acd2eaf8

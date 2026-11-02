@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoSignalPA_secure_of_long_key
 -- name    : NoSignalPA.secure_of_long_key
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:05:59.49+00:00
 -- url     : https://prove2.me/theorems/ca35dfc3-abe3-4455-8fd7-76441c715b03

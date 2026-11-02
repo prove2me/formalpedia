@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkVolatility_Robust_theorem_1
 -- name    : NetworkVolatility.Robust.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:27.45024+00:00
 -- url     : https://prove2.me/theorems/6c731295-10b1-48e4-a7ae-17450e21b4be

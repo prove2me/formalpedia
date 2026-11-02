@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenPayoffSG_Solvable_step2_martingale
 -- name    : GenPayoffSG.Solvable.step2_martingale
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:43.703983+00:00
 -- url     : https://prove2.me/theorems/f17c6b6d-5961-463a-be05-0e467aa13c44

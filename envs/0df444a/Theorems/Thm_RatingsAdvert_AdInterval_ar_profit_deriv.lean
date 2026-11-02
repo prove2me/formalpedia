@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RatingsAdvert_AdInterval_ar_profit_deriv
 -- name    : RatingsAdvert.AdInterval.ar_profit_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T20:38:51.659299+00:00
 -- url     : https://prove2.me/theorems/9800561f-6545-46d2-8302-e1cd7b87da3c

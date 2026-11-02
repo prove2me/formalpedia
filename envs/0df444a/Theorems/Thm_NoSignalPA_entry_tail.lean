@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoSignalPA_entry_tail
 -- name    : NoSignalPA.entry_tail
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:04:54.384449+00:00
 -- url     : https://prove2.me/theorems/03b19c43-2c00-4b3a-ac5a-3f32bc69c103

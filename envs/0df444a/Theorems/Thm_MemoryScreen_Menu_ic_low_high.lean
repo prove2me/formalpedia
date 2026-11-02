@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MemoryScreen_Menu_ic_low_high
 -- name    : MemoryScreen.Menu.ic_low_high
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:01.879923+00:00
 -- url     : https://prove2.me/theorems/5108cb53-7ed9-4765-86f7-1e8631a03da9

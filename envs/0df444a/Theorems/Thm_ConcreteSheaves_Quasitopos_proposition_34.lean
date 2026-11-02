@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConcreteSheaves_Quasitopos_proposition_34
 -- name    : ConcreteSheaves.Quasitopos.proposition_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:39:41.546896+00:00
 -- url     : https://prove2.me/theorems/97fa117c-a15d-4a11-beda-0ec8578d1ce4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NishtAbel2024_theorems_13_and_14
 -- name    : NishtAbel2024.theorems_13_and_14
--- status  : Open
+-- status  : Disproved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T19:06:54.411874+00:00
 -- url     : https://prove2.me/theorems/c6d32b44-f24c-47eb-b53c-08f3b9d07821

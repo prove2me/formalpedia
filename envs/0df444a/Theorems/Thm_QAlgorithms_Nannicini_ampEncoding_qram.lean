@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_ampEncoding_qram
 -- name    : QAlgorithms.Nannicini.ampEncoding_qram
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:48:08.466533+00:00
 -- url     : https://prove2.me/theorems/1e44ecf7-7509-43cd-9314-004a43afbe7d

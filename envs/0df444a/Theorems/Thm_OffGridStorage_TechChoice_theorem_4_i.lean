@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffGridStorage_TechChoice_theorem_4_i
 -- name    : OffGridStorage.TechChoice.theorem_4_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:53.671983+00:00
 -- url     : https://prove2.me/theorems/caefad78-cfa7-4dc5-b262-c27b20148f9d

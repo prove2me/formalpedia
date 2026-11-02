@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoRefLA_PartialPPE_problem_10_iff_16
 -- name    : EndoRefLA.PartialPPE.problem_10_iff_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:22:58.135908+00:00
 -- url     : https://prove2.me/theorems/a89f8d4b-5fc6-4270-9fe3-40ced69ece63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSQP_Vanishing_eq_14
 -- name    : StochSQP.Vanishing.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:04.857379+00:00
 -- url     : https://prove2.me/theorems/37754390-a957-4f65-abac-2fb91245c491

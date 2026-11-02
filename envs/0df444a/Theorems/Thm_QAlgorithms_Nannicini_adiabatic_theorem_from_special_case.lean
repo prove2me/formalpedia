@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_adiabatic_theorem_from_special_case
 -- name    : QAlgorithms.Nannicini.adiabatic_theorem_from_special_case
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:03.567719+00:00
 -- url     : https://prove2.me/theorems/56021457-ac06-4088-aa06-775e7bb13582

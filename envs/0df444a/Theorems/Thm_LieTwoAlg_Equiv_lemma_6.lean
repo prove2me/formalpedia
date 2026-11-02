@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LieTwoAlg_Equiv_lemma_6
 -- name    : LieTwoAlg.Equiv.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:37.129137+00:00
 -- url     : https://prove2.me/theorems/d0cb8273-a81e-46e7-940e-932ede0adeff

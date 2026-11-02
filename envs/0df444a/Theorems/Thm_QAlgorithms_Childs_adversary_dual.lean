@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_adversary_dual
 -- name    : QAlgorithms.Childs.adversary_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:33:58.878872+00:00
 -- url     : https://prove2.me/theorems/ff8bea57-2967-4e01-a1be-3b4e1d6be1fd

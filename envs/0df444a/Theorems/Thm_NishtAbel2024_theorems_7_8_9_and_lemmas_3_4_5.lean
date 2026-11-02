@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NishtAbel2024_theorems_7_8_9_and_lemmas_3_4_5
 -- name    : NishtAbel2024.theorems_7_8_9_and_lemmas_3_4_5
--- status  : Open
+-- status  : Disproved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T19:05:24.499706+00:00
 -- url     : https://prove2.me/theorems/60c982ad-4712-4445-8689-70bbff93fcd9

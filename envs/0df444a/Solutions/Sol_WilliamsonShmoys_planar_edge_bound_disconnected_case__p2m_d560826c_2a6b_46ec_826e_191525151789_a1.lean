@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_edge_bound_disconnected_case__p2m_d560826c_2a6b_46ec_826e_191525151789_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:16:08.819707+00:00
 -- url     : https://prove2.me/submissions/0589346a-39af-40d7-b390-e59fdc0ba9ea
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_component_partition_and_edges__p2m_f78b2624_2de8_40ad_9230_053c73815f63_a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbEffIS_GE_p2_decay
 -- name    : ProbEffIS.GE.p2_decay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:52.436817+00:00
 -- url     : https://prove2.me/theorems/cb1c6d8a-a637-4a59-bce1-3912b32179fe

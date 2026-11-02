@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_adiabatic_running_time_gap
 -- name    : QAlgorithms.Childs.adiabatic_running_time_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:36:14.102983+00:00
 -- url     : https://prove2.me/theorems/975e3c73-6261-4250-a167-f38e520200d2

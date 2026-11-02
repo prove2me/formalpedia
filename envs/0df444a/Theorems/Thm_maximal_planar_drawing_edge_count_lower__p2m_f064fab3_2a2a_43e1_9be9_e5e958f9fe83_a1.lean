@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_maximal_planar_drawing_edge_count_lower__p2m_f064fab3_2a2a_43e1_9be9_e5e958f9fe83_a1
 -- name    : maximal_planar_drawing_edge_count_lower__p2m_f064fab3_2a2a_43e1_9be9_e5e958f9fe83_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:16:35.214981+00:00
 -- url     : https://prove2.me/theorems/b3e85d1d-c054-4e02-815f-118f1fda4ccd

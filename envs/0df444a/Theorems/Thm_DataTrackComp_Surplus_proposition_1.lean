@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataTrackComp_Surplus_proposition_1
 -- name    : DataTrackComp.Surplus.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:43.997479+00:00
 -- url     : https://prove2.me/theorems/894a0de9-47c9-4c05-acf0-d2a04a6c1c85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntertempDUI_Finite_lemma_A4
 -- name    : IntertempDUI.Finite.lemma_A4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:19.865173+00:00
 -- url     : https://prove2.me/theorems/608c1d2f-a5d1-40fa-b120-f09c2de116ab

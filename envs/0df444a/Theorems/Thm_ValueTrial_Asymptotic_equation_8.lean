@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueTrial_Asymptotic_equation_8
 -- name    : ValueTrial.Asymptotic.equation_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:17:22.647587+00:00
 -- url     : https://prove2.me/theorems/a0dea8d1-125c-437a-b585-180507b565d4

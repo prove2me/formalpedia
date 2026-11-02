@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoSignalPA_lemma_1
 -- name    : NoSignalPA.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:04:53.697493+00:00
 -- url     : https://prove2.me/theorems/bef9cc61-ad11-488d-93a6-6e2ba735b352

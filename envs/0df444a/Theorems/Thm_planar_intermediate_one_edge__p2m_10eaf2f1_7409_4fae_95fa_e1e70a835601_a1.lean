@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_intermediate_one_edge__p2m_10eaf2f1_7409_4fae_95fa_e1e70a835601_a1
 -- name    : planar_intermediate_one_edge__p2m_10eaf2f1_7409_4fae_95fa_e1e70a835601_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:53:28.051431+00:00
 -- url     : https://prove2.me/theorems/644ac4c7-7d58-4f76-9e3c-fcf08ce912bf

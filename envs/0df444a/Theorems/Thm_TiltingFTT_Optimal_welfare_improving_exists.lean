@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TiltingFTT_Optimal_welfare_improving_exists
 -- name    : TiltingFTT.Optimal.welfare_improving_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:26:05.474989+00:00
 -- url     : https://prove2.me/theorems/6aee572b-4083-483f-b8a1-6b8056c94ab5

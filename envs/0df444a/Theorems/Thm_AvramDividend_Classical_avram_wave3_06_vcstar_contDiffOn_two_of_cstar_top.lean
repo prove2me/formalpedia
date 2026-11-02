@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_06_vcstar_contDiffOn_two_of_cstar_top
 -- name    : AvramDividend.Classical.avram_wave3_06_vcstar_contDiffOn_two_of_cstar_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:29:11.382845+00:00
 -- url     : https://prove2.me/theorems/717ab230-508f-4c50-8cbe-0306117ac7b9

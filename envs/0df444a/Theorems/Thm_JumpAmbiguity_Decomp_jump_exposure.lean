@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JumpAmbiguity_Decomp_jump_exposure
 -- name    : JumpAmbiguity.Decomp.jump_exposure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:20.512165+00:00
 -- url     : https://prove2.me/theorems/ab6bbe97-952e-4bf3-8bef-9129fd5c3d01

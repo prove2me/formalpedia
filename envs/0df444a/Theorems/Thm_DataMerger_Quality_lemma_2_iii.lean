@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataMerger_Quality_lemma_2_iii
 -- name    : DataMerger.Quality.lemma_2_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:24:54.883304+00:00
 -- url     : https://prove2.me/theorems/2f482d2f-89a8-46cc-bfd8-11bf33652448

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnsplitCVRP_Combinatorial_eq_5
 -- name    : UnsplitCVRP.Combinatorial.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:07.65303+00:00
 -- url     : https://prove2.me/theorems/8fa81dec-c23d-475b-b334-fb1d5142e5a1

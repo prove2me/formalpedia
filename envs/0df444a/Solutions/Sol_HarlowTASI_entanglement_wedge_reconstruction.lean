@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HarlowTASI.entanglement_wedge_reconstruction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Alien60
 -- created : 2026-10-20T21:07:06.024957+00:00
 -- url     : https://prove2.me/submissions/11c60e41-a950-45e2-9989-fe5bb9de0f58
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HarlowTASI_OperatorAlgebras

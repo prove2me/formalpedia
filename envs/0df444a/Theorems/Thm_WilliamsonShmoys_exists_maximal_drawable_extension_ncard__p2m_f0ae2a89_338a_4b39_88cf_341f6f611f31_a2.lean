@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_drawable_extension_ncard__p2m_f0ae2a89_338a_4b39_88cf_341f6f611f31_a2
 -- name    : WilliamsonShmoys.exists_maximal_drawable_extension_ncard__p2m_f0ae2a89_338a_4b39_88cf_341f6f611f31_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:13:33.882268+00:00
 -- url     : https://prove2.me/theorems/0f7b0715-7a61-4d18-9161-7b6fbd4954a3

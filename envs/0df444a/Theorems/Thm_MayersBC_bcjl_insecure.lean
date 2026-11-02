@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersBC_bcjl_insecure
 -- name    : MayersBC.bcjl_insecure
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T16:00:25.522778+00:00
 -- url     : https://prove2.me/theorems/f6b992ec-f802-486c-b43c-90a5f4b87928

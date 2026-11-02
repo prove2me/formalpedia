@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffGridStorage_TechChoice_eq_20_closed_form
 -- name    : OffGridStorage.TechChoice.eq_20_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:49.202695+00:00
 -- url     : https://prove2.me/theorems/e3cb6a59-cc68-45e6-94b6-a794a858071d

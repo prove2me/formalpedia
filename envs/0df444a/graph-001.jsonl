@@ -79519,9 +79519,9 @@
 {"parent": "ConvexOptAlg.GoemansWilliamson.sdp_relaxation_inequality", "child": "ConvexOptAlg_GoemansWilliamson_Defs", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.GoemansWilliamson.theorem_6_11", "child": "ConvexOptAlg_GoemansWilliamson_Defs", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.LowerBounds.thm_3_14_final_bound", "child": "ConvexOptAlg_LowerBounds_Defs", "via": ["solution", "statement"]}
-{"parent": "ConvexOptAlg.LowerBounds.thm_3_14_minimizer", "child": "ConvexOptAlg_LowerBounds_Defs", "via": ["statement"]}
+{"parent": "ConvexOptAlg.LowerBounds.thm_3_14_minimizer", "child": "ConvexOptAlg_LowerBounds_Defs", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.LowerBounds.thm_3_14_norm_bound", "child": "ConvexOptAlg_LowerBounds_Defs", "via": ["solution", "statement"]}
-{"parent": "ConvexOptAlg.LowerBounds.thm_3_14_span", "child": "ConvexOptAlg_LowerBounds_Defs", "via": ["statement"]}
+{"parent": "ConvexOptAlg.LowerBounds.thm_3_14_span", "child": "ConvexOptAlg_LowerBounds_Defs", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.LowerBounds.thm_3_14_tridiag_psd", "child": "ConvexOptAlg_LowerBounds_Defs", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.MirrorDescent.lemma_4_1", "child": "ConvexOptAlg_MirrorDescent_Defs", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.MirrorDescent.thm_4_2_stability", "child": "ConvexOptAlg_MirrorDescent_Defs", "via": ["solution", "statement"]}
@@ -79543,10 +79543,10 @@
 {"parent": "ConvexOptAlg.NesterovSmooth.thm_3_19_telescoped", "child": "ConvexOptAlg_NesterovSmooth_Defs", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.NesterovStrong.eq_3_18", "child": "ConvexOptAlg_NesterovStrong_Defs", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.NesterovStrong.eq_3_18", "child": "OnlineConvexOpt_ConvexBasics_StronglyConvexOn", "via": ["solution", "statement"]}
-{"parent": "ConvexOptAlg.NesterovStrong.eq_3_19", "child": "ConvexOptAlg_NesterovStrong_Defs", "via": ["statement"]}
-{"parent": "ConvexOptAlg.NesterovStrong.eq_3_19", "child": "OnlineConvexOpt_ConvexBasics_StronglyConvexOn", "via": ["statement"]}
-{"parent": "ConvexOptAlg.NesterovStrong.eq_3_20", "child": "ConvexOptAlg_NesterovStrong_Defs", "via": ["statement"]}
-{"parent": "ConvexOptAlg.NesterovStrong.eq_3_20", "child": "OnlineConvexOpt_ConvexBasics_StronglyConvexOn", "via": ["statement"]}
+{"parent": "ConvexOptAlg.NesterovStrong.eq_3_19", "child": "ConvexOptAlg_NesterovStrong_Defs", "via": ["solution", "statement"]}
+{"parent": "ConvexOptAlg.NesterovStrong.eq_3_19", "child": "OnlineConvexOpt_ConvexBasics_StronglyConvexOn", "via": ["solution", "statement"]}
+{"parent": "ConvexOptAlg.NesterovStrong.eq_3_20", "child": "ConvexOptAlg_NesterovStrong_Defs", "via": ["solution", "statement"]}
+{"parent": "ConvexOptAlg.NesterovStrong.eq_3_20", "child": "OnlineConvexOpt_ConvexBasics_StronglyConvexOn", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.NesterovStrong.eq_3_21_form", "child": "ConvexOptAlg_NesterovStrong_Defs", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.NesterovStrong.eq_3_21_form", "child": "OnlineConvexOpt_ConvexBasics_StronglyConvexOn", "via": ["solution", "statement"]}
 {"parent": "ConvexOptAlg.NesterovStrong.eq_3_22", "child": "ConvexOptAlg_NesterovStrong_Defs", "via": ["solution", "statement"]}
@@ -93179,13 +93179,13 @@
 {"parent": "DiscreteConvex.CombinatorialC.prop_2_25_series_circuit_merge", "child": "DiscreteConvex_CombinatorialC_IsSeriesArcSet", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.CombinatorialC.prop_2_25_series_circuit_merge", "child": "DiscreteConvex_CombinatorialC_SuppNegR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.CombinatorialC.prop_2_25_series_circuit_merge", "child": "DiscreteConvex_CombinatorialC_SuppPosR", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_ConjugateWT", "via": ["statement"]}
-{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_GenQF", "via": ["statement"]}
-{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_KerMat", "via": ["statement"]}
-{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_MNatExchangeWT", "via": ["statement"]}
-{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_OrthComp", "via": ["statement"]}
-{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_ToEReal2", "via": ["statement"]}
-{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_TranslationSubmodularWT", "via": ["statement"]}
+{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_ConjugateWT", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_GenQF", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_KerMat", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_MNatExchangeWT", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_OrthComp", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_ToEReal2", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.CombinatorialC.theorem_2_16_conjugacy_general_quadratic", "child": "DiscreteConvex_CombinatorialC_TranslationSubmodularWT", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.CombinatorialC.theorem_2_22_submodular_supermodular_in_parallel_series", "child": "DiscreteConvex_CombinatorialC_ExtendOn", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.CombinatorialC.theorem_2_22_submodular_supermodular_in_parallel_series", "child": "DiscreteConvex_CombinatorialC_FVal", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.CombinatorialC.theorem_2_22_submodular_supermodular_in_parallel_series", "child": "DiscreteConvex_CombinatorialC_IsParallelArcSet", "via": ["solution", "statement"]}
@@ -93220,29 +93220,29 @@
 {"parent": "DiscreteConvex.ConjugacyDuality.submodular_conjugate_supermodular", "child": "DiscreteConvex_ConjugacyDuality_ConvexConjugateR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDuality.submodular_conjugate_supermodular", "child": "DiscreteConvex_ConjugacyDuality_SubmodularR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDuality.submodular_conjugate_supermodular", "child": "DiscreteConvex_ConjugacyDuality_SupermodularEReal", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateRW", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_IsPolyhedralConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_LNaturalConvexR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_MExchangeAxiomR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_MNaturalConvexR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_SBFR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_TRFR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConcaveConjugateZR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateZR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomEReal", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomERealConcave", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomZ", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateRW", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_IsPolyhedralConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_LNaturalConvexR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_MExchangeAxiomR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_MNaturalConvexR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_SBFR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_TRFR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConcaveConjugateZR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateZR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomEReal", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomERealConcave", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_InfDiff", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_LNaturalConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_MNaturalConvex", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_LNaturalConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_MNaturalConvex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.fenchel_duality_theorem", "child": "DiscreteConvex_ConjugacyDualityB_SupDualGap", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConcaveConjugateZR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateZR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomEReal", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomERealConcave", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_IsIntegerValuedFn", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_LNaturalConvex", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConcaveConjugateZR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateZR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomEReal", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomERealConcave", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_DomZ", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_IsIntegerValuedFn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.l_separation_theorem", "child": "DiscreteConvex_ConjugacyDualityB_LNaturalConvex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.m2_convex_domain_is_m2_convex_set", "child": "DiscreteConvex_ConjugacyDualityB_DomZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.m2_convex_domain_is_m2_convex_set", "child": "DiscreteConvex_ConjugacyDualityB_M2Convex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.m2_convex_domain_is_m2_convex_set", "child": "DiscreteConvex_ConjugacyDualityB_M2ConvexSet", "via": ["solution", "statement"]}
@@ -93277,22 +93277,22 @@
 {"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_TRFR", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.supermodular_pair_conjugate_submodular", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateRW", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.supermodular_pair_conjugate_submodular", "child": "DiscreteConvex_ConjugacyDualityB_SupermodularPair", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_ArgMin", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_L2Convex", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_L2ConvexSet", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_LNat2Convex", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_LNat2ConvexSet", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_biconjugate", "child": "DiscreteConvex_ConjugacyDualityC_ConvexConjugate", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_biconjugate", "child": "DiscreteConvex_ConjugacyDualityC_InfConv", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_biconjugate", "child": "DiscreteConvex_ConjugacyDualityC_IsIntegerValuedFn", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_biconjugate", "child": "DiscreteConvex_ConjugacyDualityC_LNaturalConvex", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_ArgMin", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_L2Convex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_L2ConvexSet", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_LNat2Convex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_LNat2ConvexSet", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_biconjugate", "child": "DiscreteConvex_ConjugacyDualityC_ConvexConjugate", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_biconjugate", "child": "DiscreteConvex_ConjugacyDualityC_InfConv", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_biconjugate", "child": "DiscreteConvex_ConjugacyDualityC_IsIntegerValuedFn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_biconjugate", "child": "DiscreteConvex_ConjugacyDualityC_LNaturalConvex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.l2_optimality_criterion", "child": "DiscreteConvex_ConjugacyDualityC_DomZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.l2_optimality_criterion", "child": "DiscreteConvex_ConjugacyDualityC_IndicatorVec", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.l2_optimality_criterion", "child": "DiscreteConvex_ConjugacyDualityC_L2Convex", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_proximity_theorem", "child": "DiscreteConvex_ConjugacyDualityC_ArgMin", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_proximity_theorem", "child": "DiscreteConvex_ConjugacyDualityC_DomZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_proximity_theorem", "child": "DiscreteConvex_ConjugacyDualityC_IndicatorVec", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.l2_proximity_theorem", "child": "DiscreteConvex_ConjugacyDualityC_L2Convex", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_proximity_theorem", "child": "DiscreteConvex_ConjugacyDualityC_ArgMin", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_proximity_theorem", "child": "DiscreteConvex_ConjugacyDualityC_DomZ", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_proximity_theorem", "child": "DiscreteConvex_ConjugacyDualityC_IndicatorVec", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.l2_proximity_theorem", "child": "DiscreteConvex_ConjugacyDualityC_L2Convex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.l_subdifferential_additivity", "child": "DiscreteConvex_ConjugacyDualityC_DomZ", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.l_subdifferential_additivity", "child": "DiscreteConvex_ConjugacyDualityC_InfConv", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.l_subdifferential_additivity", "child": "DiscreteConvex_ConjugacyDualityC_InfConvE", "via": ["statement"]}
@@ -93308,11 +93308,11 @@
 {"parent": "DiscreteConvex.ConjugacyDualityC.lnat2_convex_is_integrally_convex", "child": "DiscreteConvex_ConjugacyDualityC_IsIntegrallyConvexFunction", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.lnat2_convex_is_integrally_convex", "child": "DiscreteConvex_ConjugacyDualityC_LNat2Convex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.lnat2_convex_is_integrally_convex", "child": "DiscreteConvex_ConjugacyDualityC_LNat2ConvexSet", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate", "child": "DiscreteConvex_ConjugacyDualityC_ConvexConjugate", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate", "child": "DiscreteConvex_ConjugacyDualityC_DomZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate", "child": "DiscreteConvex_ConjugacyDualityC_InfConv", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate", "child": "DiscreteConvex_ConjugacyDualityC_IsIntegerValuedFn", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate", "child": "DiscreteConvex_ConjugacyDualityC_MNaturalConvex", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate", "child": "DiscreteConvex_ConjugacyDualityC_ConvexConjugate", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate", "child": "DiscreteConvex_ConjugacyDualityC_DomZ", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate", "child": "DiscreteConvex_ConjugacyDualityC_InfConv", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate", "child": "DiscreteConvex_ConjugacyDualityC_IsIntegerValuedFn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityC.m2_convex_conjugate", "child": "DiscreteConvex_ConjugacyDualityC_MNaturalConvex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.m_subdifferential_additivity", "child": "DiscreteConvex_ConjugacyDualityC_DomZ", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.m_subdifferential_additivity", "child": "DiscreteConvex_ConjugacyDualityC_IsIntegerValuedFn", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.m_subdifferential_additivity", "child": "DiscreteConvex_ConjugacyDualityC_L2ConvexSet", "via": ["statement"]}
@@ -93322,22 +93322,22 @@
 {"parent": "DiscreteConvex.ConjugacyDualityC.m_subdifferential_additivity", "child": "DiscreteConvex_ConjugacyDualityC_MNaturalConvex", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.m_subdifferential_additivity", "child": "DiscreteConvex_ConjugacyDualityC_SubDifferentialR", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.m_subdifferential_additivity", "child": "DiscreteConvex_ConjugacyDualityC_SubDifferentialZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_ConcaveConjE", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_ExchangeAxiomB", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_Fr", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_GammaR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_IsIntegerValuedFn", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_IsNegOf", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_L2Convex", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_MExchangeAxiom", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_ToEReal", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_ExchangeAxiomB", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_GRBig", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_GRSmall", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_IsIntegerValuedFn", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_IsNegOf", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_L2Convex", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_MExchangeAxiom", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_ConcaveConjE", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_ExchangeAxiomB", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_Fr", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_GammaR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_IsIntegerValuedFn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_IsNegOf", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_L2Convex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_MExchangeAxiom", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_optimal_value_properties", "child": "DiscreteConvex_ConjugacyDualityD_ToEReal", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_ExchangeAxiomB", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_GRBig", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_GRSmall", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_IsIntegerValuedFn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_IsNegOf", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_L2Convex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.dual_perturbation_properties", "child": "DiscreteConvex_ConjugacyDualityD_MExchangeAxiom", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityD.general_duality_relations", "child": "DiscreteConvex_ConjugacyDualityD_ConvexConjE", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityD.general_duality_relations", "child": "DiscreteConvex_ConjugacyDualityD_GGen", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityD.general_duality_relations", "child": "DiscreteConvex_ConjugacyDualityD_PhiGen", "via": ["solution", "statement"]}
@@ -93365,14 +93365,14 @@
 {"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_kernel_formula", "child": "DiscreteConvex_ConjugacyDualityD_IndicatorWT", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_kernel_formula", "child": "DiscreteConvex_ConjugacyDualityD_KR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_kernel_formula", "child": "DiscreteConvex_ConjugacyDualityD_ToEReal", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_ExchangeAxiomB", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_FTildeR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_Fr", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_IsIntegerValuedFn", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_KR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_KTildeR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_MExchangeAxiom", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_ToEReal", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_ExchangeAxiomB", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_FTildeR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_Fr", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_IsIntegerValuedFn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_KR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_KTildeR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_MExchangeAxiom", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.lagrangian_tilde_recovers_original", "child": "DiscreteConvex_ConjugacyDualityD_ToEReal", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityD.m2_l2_conjugacy_correspondence", "child": "DiscreteConvex_ConjugacyDualityD_ConvexConjugate", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityD.m2_l2_conjugacy_correspondence", "child": "DiscreteConvex_ConjugacyDualityD_IsIntegerValuedFn", "via": ["statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityD.m2_l2_conjugacy_correspondence", "child": "DiscreteConvex_ConjugacyDualityD_L2Convex", "via": ["statement"]}
@@ -93388,15 +93388,15 @@
 {"parent": "DiscreteConvex.ConjugacyDualityD.m_convex_strong_duality", "child": "DiscreteConvex_ConjugacyDualityD_PhiGen", "via": ["solution"]}
 {"parent": "DiscreteConvex.ConjugacyDualityD.m_convex_strong_duality", "child": "DiscreteConvex_ConjugacyDualityD_PhiR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityD.m_convex_strong_duality", "child": "DiscreteConvex_ConjugacyDualityD_SubDifferentialZEReal", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_ConcaveConjE", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_ExchangeAxiomB", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_GRSmall", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_GammaR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_IsIntegerValuedFn", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_MExchangeAxiom", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_OptP", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_PhiR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_SubDifferentialZEReal", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_ConcaveConjE", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_ExchangeAxiomB", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_GRSmall", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_GammaR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_IsIntegerValuedFn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_MExchangeAxiom", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_OptP", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_PhiR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityD.strong_duality_via_gamma", "child": "DiscreteConvex_ConjugacyDualityD_SubDifferentialZEReal", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.EconomicEquilibrium.aggregate_cost_m_natural_convex", "child": "DiscreteConvex_EconomicEquilibrium_AggregateCost", "via": ["statement"]}
 {"parent": "DiscreteConvex.EconomicEquilibrium.aggregate_cost_m_natural_convex", "child": "DiscreteConvex_EconomicEquilibrium_BoundedSet", "via": ["statement"]}
 {"parent": "DiscreteConvex.EconomicEquilibrium.aggregate_cost_m_natural_convex", "child": "DiscreteConvex_EconomicEquilibrium_MNaturalConcave", "via": ["statement"]}
@@ -93416,9 +93416,9 @@
 {"parent": "DiscreteConvex.EconomicEquilibrium.m_natural_concave_iff_demand_m_natural_convex", "child": "DiscreteConvex_EconomicEquilibrium_IsMNaturalConvexSet", "via": ["statement"]}
 {"parent": "DiscreteConvex.EconomicEquilibrium.m_natural_concave_iff_demand_m_natural_convex", "child": "DiscreteConvex_EconomicEquilibrium_MNaturalConcave", "via": ["statement"]}
 {"parent": "DiscreteConvex.EconomicEquilibrium.m_natural_concave_iff_demand_m_natural_convex", "child": "DiscreteConvex_EconomicEquilibrium_UDom", "via": ["statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibrium.m_natural_concave_iff_neg_si", "child": "DiscreteConvex_EconomicEquilibrium_MNaturalConcave", "via": ["statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibrium.m_natural_concave_iff_neg_si", "child": "DiscreteConvex_EconomicEquilibrium_NegSI", "via": ["statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibrium.m_natural_concave_iff_neg_si", "child": "DiscreteConvex_EconomicEquilibrium_UDom", "via": ["statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibrium.m_natural_concave_iff_neg_si", "child": "DiscreteConvex_EconomicEquilibrium_MNaturalConcave", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibrium.m_natural_concave_iff_neg_si", "child": "DiscreteConvex_EconomicEquilibrium_NegSI", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibrium.m_natural_concave_iff_neg_si", "child": "DiscreteConvex_EconomicEquilibrium_UDom", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.EconomicEquilibriumB.equilibrium_price_exists_iff_feasible", "child": "DiscreteConvex_EconomicEquilibriumB_EquilibriumPricePolyhedronE", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.EconomicEquilibriumB.equilibrium_price_exists_iff_feasible", "child": "DiscreteConvex_EconomicEquilibriumB_EquilibriumPriceSet", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.EconomicEquilibriumB.equilibrium_price_exists_iff_feasible", "child": "DiscreteConvex_EconomicEquilibriumB_IsLNaturalConvexPolyhedron", "via": ["solution"]}
@@ -93431,14 +93431,14 @@
 {"parent": "DiscreteConvex.EconomicEquilibriumB.equilibrium_price_set_is_lnat_polyhedron", "child": "DiscreteConvex_EconomicEquilibriumB_IsOptimalAllocation", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.EconomicEquilibriumB.equilibrium_price_set_is_lnat_polyhedron", "child": "DiscreteConvex_EconomicEquilibriumB_MNaturalConcave", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.EconomicEquilibriumB.equilibrium_price_set_is_lnat_polyhedron", "child": "DiscreteConvex_EconomicEquilibriumB_MNaturalConvexC", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibriumB.gs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_IsConcaveExtensible", "via": ["statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibriumB.gs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_MNaturalConcave", "via": ["statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibriumB.gs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_NegGS", "via": ["statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibriumB.gs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_UDom", "via": ["statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibriumB.swgs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_IsConcaveExtensible", "via": ["statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibriumB.swgs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_MNaturalConcave", "via": ["statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibriumB.swgs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_NegSWGS", "via": ["statement"]}
-{"parent": "DiscreteConvex.EconomicEquilibriumB.swgs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_UDom", "via": ["statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibriumB.gs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_IsConcaveExtensible", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibriumB.gs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_MNaturalConcave", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibriumB.gs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_NegGS", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibriumB.gs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_UDom", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibriumB.swgs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_IsConcaveExtensible", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibriumB.swgs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_MNaturalConcave", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibriumB.swgs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_NegSWGS", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.EconomicEquilibriumB.swgs_iff_mnatural_concave", "child": "DiscreteConvex_EconomicEquilibriumB_UDom", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.IntegralConvexity.convex_extensible_iff_argmin_hole_free", "child": "DiscreteConvex_IntegralConvexity_ArgMinPerturbed", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.IntegralConvexity.convex_extensible_iff_argmin_hole_free", "child": "DiscreteConvex_IntegralConvexity_ConvexExtensible", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.IntegralConvexity.convex_extensible_iff_argmin_hole_free", "child": "DiscreteConvex_IntegralConvexity_HoleFree", "via": ["solution", "statement"]}
@@ -93457,22 +93457,22 @@
 {"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_13_tu_integral_optimal", "child": "DiscreteConvex_IntegralConvexityB_DualFeas", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_13_tu_integral_optimal", "child": "DiscreteConvex_IntegralConvexityB_IsTotallyUnimodular", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_13_tu_integral_optimal", "child": "DiscreteConvex_IntegralConvexityB_PrimalFeas", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_DomE", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_IsPolyhedralConcave", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_IsPolyhedralConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_IsProperConcave", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_IsProperConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_RelInt", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_ConcConjF", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_ConjF", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_DomE", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsClosedConcaveF", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsClosedConvexF", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsPolyhedralConcave", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsPolyhedralConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsProperConcave", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsProperConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_RelInt", "via": ["statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_DomE", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_IsPolyhedralConcave", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_IsPolyhedralConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_IsProperConcave", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_IsProperConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_5_separation_convex_functions", "child": "DiscreteConvex_IntegralConvexityB_RelInt", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_ConcConjF", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_ConjF", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_DomE", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsClosedConcaveF", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsClosedConvexF", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsPolyhedralConcave", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsPolyhedralConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsProperConcave", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_IsProperConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.IntegralConvexityB.theorem_3_6_fenchel_duality", "child": "DiscreteConvex_IntegralConvexityB_RelInt", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.IntegralConvexityC.prop_3_17_holefree_intersection_minkowski_relations", "child": "DiscreteConvex_IntegralConvexityC_ConvexClosureSet", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.IntegralConvexityC.prop_3_17_holefree_intersection_minkowski_relations", "child": "DiscreteConvex_IntegralConvexityC_EmbedZR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.IntegralConvexityC.prop_3_17_holefree_intersection_minkowski_relations", "child": "DiscreteConvex_IntegralConvexityC_HoleFree", "via": ["solution", "statement"]}
@@ -93538,9 +93538,9 @@
 {"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_basic_operations", "child": "DiscreteConvex_LConvexFunctionsB_SBF", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_basic_operations", "child": "DiscreteConvex_LConvexFunctionsB_SeparablePerturbZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_basic_operations", "child": "DiscreteConvex_LConvexFunctionsB_TRF", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_closure_basic_properties", "child": "DiscreteConvex_LConvexFunctionsB_ConvexClosureVal", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_closure_basic_properties", "child": "DiscreteConvex_LConvexFunctionsB_SBF", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_closure_basic_properties", "child": "DiscreteConvex_LConvexFunctionsB_TRF", "via": ["statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_closure_basic_properties", "child": "DiscreteConvex_LConvexFunctionsB_ConvexClosureVal", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_closure_basic_properties", "child": "DiscreteConvex_LConvexFunctionsB_SBF", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_closure_basic_properties", "child": "DiscreteConvex_LConvexFunctionsB_TRF", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_domain_is_lconvex_set", "child": "DiscreteConvex_LConvexFunctionsB_DomZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_domain_is_lconvex_set", "child": "DiscreteConvex_LConvexFunctionsB_LConvexSet", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_domain_is_lconvex_set", "child": "DiscreteConvex_LConvexFunctionsB_LNatConvexSet", "via": ["solution", "statement"]}
@@ -93560,9 +93560,9 @@
 {"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_iff_argmin_polyhedra_lconvex", "child": "DiscreteConvex_LConvexFunctions_LiftedFunctionL", "via": ["solution"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_iff_argmin_polyhedra_lconvex", "child": "DiscreteConvex_LConvexFunctions_SBF", "via": ["solution"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_iff_argmin_polyhedra_lconvex", "child": "DiscreteConvex_LConvexFunctions_SBFNat", "via": ["solution"]}
-{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_is_lnat_convex_iff_trf", "child": "DiscreteConvex_LConvexFunctionsB_LNaturalConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_is_lnat_convex_iff_trf", "child": "DiscreteConvex_LConvexFunctionsB_SBF", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_is_lnat_convex_iff_trf", "child": "DiscreteConvex_LConvexFunctionsB_TRF", "via": ["statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_is_lnat_convex_iff_trf", "child": "DiscreteConvex_LConvexFunctionsB_LNaturalConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_is_lnat_convex_iff_trf", "child": "DiscreteConvex_LConvexFunctionsB_SBF", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsB.lconvex_is_lnat_convex_iff_trf", "child": "DiscreteConvex_LConvexFunctionsB_TRF", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lnat_convex_operations_and_restrictions", "child": "DiscreteConvex_LConvexFunctionsB_DomZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lnat_convex_operations_and_restrictions", "child": "DiscreteConvex_LConvexFunctionsB_IntervalRestrict", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lnat_convex_operations_and_restrictions", "child": "DiscreteConvex_LConvexFunctionsB_LNaturalConvex", "via": ["solution", "statement"]}
@@ -93571,29 +93571,29 @@
 {"parent": "DiscreteConvex.LConvexFunctionsB.lnat_convex_operations_and_restrictions", "child": "DiscreteConvex_LConvexFunctionsB_ProjectionZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lnat_convex_operations_and_restrictions", "child": "DiscreteConvex_LConvexFunctionsB_Restriction", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.lnat_convex_operations_and_restrictions", "child": "DiscreteConvex_LConvexFunctionsB_SeparablePerturbZ", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsB.local_submodularity", "child": "DiscreteConvex_LConvexFunctionsB_DomZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsB.local_submodularity", "child": "DiscreteConvex_LConvexFunctionsB_LNatConvexSet", "via": ["statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsB.local_submodularity", "child": "DiscreteConvex_LConvexFunctionsB_DomZ", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsB.local_submodularity", "child": "DiscreteConvex_LConvexFunctionsB_LNatConvexSet", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.submodular_iff_assoc_fn_lnat_convex", "child": "DiscreteConvex_LConvexFunctionsB_AssocFn", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.submodular_iff_assoc_fn_lnat_convex", "child": "DiscreteConvex_LConvexFunctionsB_LNaturalConvex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.submodular_iff_assoc_fn_lnat_convex", "child": "DiscreteConvex_LConvexFunctionsB_Submodular", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsB.submodular_minimizer_criterion", "child": "DiscreteConvex_LConvexFunctionsB_Submodular", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_ConvexClosureVal", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_IsPolyhedralConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_SBF", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_SBFR", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_TRF", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_TRFR", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_iff_submodular_integrally_convex", "child": "DiscreteConvex_LConvexFunctionsC_DomZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_iff_submodular_integrally_convex", "child": "DiscreteConvex_LConvexFunctionsC_IsIntegrallyConvexFunction", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_iff_submodular_integrally_convex", "child": "DiscreteConvex_LConvexFunctionsC_LNaturalConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_iff_submodular_integrally_convex", "child": "DiscreteConvex_LConvexFunctionsC_SBF", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_is_integrally_convex_and_extensible", "child": "DiscreteConvex_LConvexFunctionsC_ConvexExtensible", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_is_integrally_convex_and_extensible", "child": "DiscreteConvex_LConvexFunctionsC_IsIntegrallyConvexFunction", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_is_integrally_convex_and_extensible", "child": "DiscreteConvex_LConvexFunctionsC_LNaturalConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lovasz_extension_is_polyhedral_lconvex", "child": "DiscreteConvex_LConvexFunctionsC_LovaszExtension", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lovasz_extension_is_polyhedral_lconvex", "child": "DiscreteConvex_LConvexFunctionsC_SBFR", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lovasz_extension_is_polyhedral_lconvex", "child": "DiscreteConvex_LConvexFunctionsC_SubmodularSetFunction", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsC.lovasz_extension_is_polyhedral_lconvex", "child": "DiscreteConvex_LConvexFunctionsC_TRFR", "via": ["statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_ConvexClosureVal", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_IsPolyhedralConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_SBF", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_SBFR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_TRF", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral", "child": "DiscreteConvex_LConvexFunctionsC_TRFR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_iff_submodular_integrally_convex", "child": "DiscreteConvex_LConvexFunctionsC_DomZ", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_iff_submodular_integrally_convex", "child": "DiscreteConvex_LConvexFunctionsC_IsIntegrallyConvexFunction", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_iff_submodular_integrally_convex", "child": "DiscreteConvex_LConvexFunctionsC_LNaturalConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_iff_submodular_integrally_convex", "child": "DiscreteConvex_LConvexFunctionsC_SBF", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_is_integrally_convex_and_extensible", "child": "DiscreteConvex_LConvexFunctionsC_ConvexExtensible", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_is_integrally_convex_and_extensible", "child": "DiscreteConvex_LConvexFunctionsC_IsIntegrallyConvexFunction", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lnat_convex_is_integrally_convex_and_extensible", "child": "DiscreteConvex_LConvexFunctionsC_LNaturalConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lovasz_extension_is_polyhedral_lconvex", "child": "DiscreteConvex_LConvexFunctionsC_LovaszExtension", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lovasz_extension_is_polyhedral_lconvex", "child": "DiscreteConvex_LConvexFunctionsC_SBFR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lovasz_extension_is_polyhedral_lconvex", "child": "DiscreteConvex_LConvexFunctionsC_SubmodularSetFunction", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsC.lovasz_extension_is_polyhedral_lconvex", "child": "DiscreteConvex_LConvexFunctionsC_TRFR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsC.polyhedral_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsC_DirDeriv", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsC.polyhedral_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsC_DomR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsC.polyhedral_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsC_IsPolyhedralConvex", "via": ["solution", "statement"]}
@@ -93658,11 +93658,11 @@
 {"parent": "DiscreteConvex.LConvexFunctionsD.l_convex_dir_deriv_subdifferential_correspondence", "child": "DiscreteConvex_LConvexFunctionsD_SubDifferentialRZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsD.l_convex_dir_deriv_subdifferential_correspondence", "child": "DiscreteConvex_LConvexFunctionsD_SubmodularSetFunction", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsD.l_convex_dir_deriv_subdifferential_correspondence", "child": "DiscreteConvex_LConvexFunctionsD_TRFR", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l", "child": "DiscreteConvex_LConvexFunctionsD_IsIntegerValued", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l", "child": "DiscreteConvex_LConvexFunctionsD_LovaszExtension", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l", "child": "DiscreteConvex_LConvexFunctionsD_SubmodularSetFunction", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l", "child": "DiscreteConvex_LConvexFunctionsD_ZeroLR", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l", "child": "DiscreteConvex_LConvexFunctionsD_ZeroLZZ", "via": ["statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l", "child": "DiscreteConvex_LConvexFunctionsD_IsIntegerValued", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l", "child": "DiscreteConvex_LConvexFunctionsD_LovaszExtension", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l", "child": "DiscreteConvex_LConvexFunctionsD_SubmodularSetFunction", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l", "child": "DiscreteConvex_LConvexFunctionsD_ZeroLR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsD.lovasz_extension_is_zero_l", "child": "DiscreteConvex_LConvexFunctionsD_ZeroLZZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsD.pos_homog_iff_argmin_l0", "child": "DiscreteConvex_LConvexFunctionsD_ArgMinR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsD.pos_homog_iff_argmin_l0", "child": "DiscreteConvex_LConvexFunctionsD_DomR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsD.pos_homog_iff_argmin_l0", "child": "DiscreteConvex_LConvexFunctionsD_LConvexPolyhedron", "via": ["solution", "statement"]}
@@ -93672,11 +93672,11 @@
 {"parent": "DiscreteConvex.LConvexFunctionsD.qsbw_iff_level_sets_qdl", "child": "DiscreteConvex_LConvexFunctionsD_LevelSet", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsD.qsbw_iff_level_sets_qdl", "child": "DiscreteConvex_LConvexFunctionsD_QDL", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsD.qsbw_iff_level_sets_qdl", "child": "DiscreteConvex_LConvexFunctionsD_QSBw", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsD_DomZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsD_IndicatorVec", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsD_IsMultipleOfOne", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsD_QSBw", "via": ["statement"]}
-{"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsD_SSQSBw", "via": ["statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsD_DomZ", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsD_IndicatorVec", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsD_IsMultipleOfOne", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsD_QSBw", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion", "child": "DiscreteConvex_LConvexFunctionsD_SSQSBw", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_proximity_theorem", "child": "DiscreteConvex_LConvexFunctionsD_ArgMin", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_proximity_theorem", "child": "DiscreteConvex_LConvexFunctionsD_DomZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.LConvexFunctionsD.quasi_l_proximity_theorem", "child": "DiscreteConvex_LConvexFunctionsD_IndicatorVec", "via": ["solution", "statement"]}
@@ -93764,9 +93764,9 @@
 {"parent": "DiscreteConvex.MConvexFunctions.m_proximity_theorem", "child": "DiscreteConvex_MConvexFunctions_DomZ", "via": ["statement"]}
 {"parent": "DiscreteConvex.MConvexFunctions.m_proximity_theorem", "child": "DiscreteConvex_MConvexFunctions_MExchangeAxiom", "via": ["statement"]}
 {"parent": "DiscreteConvex.MConvexFunctions.m_proximity_theorem", "child": "DiscreteConvex_MConvexFunctions_MNaturalConvex", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.MConvexFunctions.mnat_convex_iff_exchange_axiom", "child": "DiscreteConvex_MConvexFunctions_DomZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctions.mnat_convex_iff_exchange_axiom", "child": "DiscreteConvex_MConvexFunctions_MNatExchangeAxiom", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctions.mnat_convex_iff_exchange_axiom", "child": "DiscreteConvex_MConvexFunctions_MNaturalConvex", "via": ["statement"]}
+{"parent": "DiscreteConvex.MConvexFunctions.mnat_convex_iff_exchange_axiom", "child": "DiscreteConvex_MConvexFunctions_DomZ", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctions.mnat_convex_iff_exchange_axiom", "child": "DiscreteConvex_MConvexFunctions_MNatExchangeAxiom", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctions.mnat_convex_iff_exchange_axiom", "child": "DiscreteConvex_MConvexFunctions_MNaturalConvex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsB.exchange_axiom_iff_sequential_improvement", "child": "DiscreteConvex_MConvexFunctionsB_DomZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsB.exchange_axiom_iff_sequential_improvement", "child": "DiscreteConvex_MConvexFunctionsB_MExchangeAxiom", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsB.exchange_axiom_iff_sequential_improvement", "child": "DiscreteConvex_MConvexFunctionsB_MNatSI", "via": ["solution", "statement"]}
@@ -93803,10 +93803,10 @@
 {"parent": "DiscreteConvex.MConvexFunctionsB.quadratic_form_mconvex_iff", "child": "DiscreteConvex_MConvexFunctionsB_MNaturalConvex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsB.quadratic_form_mconvex_iff", "child": "DiscreteConvex_MConvexFunctionsB_QuadraticFormRestricted", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsB.quadratic_form_mconvex_iff", "child": "DiscreteConvex_MConvexFunctionsB_QuadraticFormTotal", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_extension_is_polyhedral_mconvex", "child": "DiscreteConvex_MConvexFunctionsC_ConvexClosureVal", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_extension_is_polyhedral_mconvex", "child": "DiscreteConvex_MConvexFunctionsC_IsPolyhedralConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_extension_is_polyhedral_mconvex", "child": "DiscreteConvex_MConvexFunctionsC_MExchangeAxiom", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_extension_is_polyhedral_mconvex", "child": "DiscreteConvex_MConvexFunctionsC_MExchangeAxiomR", "via": ["statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_extension_is_polyhedral_mconvex", "child": "DiscreteConvex_MConvexFunctionsC_ConvexClosureVal", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_extension_is_polyhedral_mconvex", "child": "DiscreteConvex_MConvexFunctionsC_IsPolyhedralConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_extension_is_polyhedral_mconvex", "child": "DiscreteConvex_MConvexFunctionsC_MExchangeAxiom", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_extension_is_polyhedral_mconvex", "child": "DiscreteConvex_MConvexFunctionsC_MExchangeAxiomR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_iff_convex_extensible_and_argmin_polyhedra", "child": "DiscreteConvex_MConvexFunctionsC_ArgMinOn", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_iff_convex_extensible_and_argmin_polyhedra", "child": "DiscreteConvex_MConvexFunctionsC_CCWeight", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsC.mconvex_iff_convex_extensible_and_argmin_polyhedra", "child": "DiscreteConvex_MConvexFunctionsC_ConvexExtensible", "via": ["solution", "statement"]}
@@ -93836,11 +93836,11 @@
 {"parent": "DiscreteConvex.MConvexFunctionsD.distance_induces_pos_homog", "child": "DiscreteConvex_MConvexFunctionsD_TriangleInequality", "via": ["statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.distance_induces_pos_homog", "child": "DiscreteConvex_MConvexFunctionsD_ZeroMR", "via": ["statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.distance_induces_pos_homog", "child": "DiscreteConvex_MConvexFunctionsD_ZeroMZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron", "child": "DiscreteConvex_MConvexFunctionsD_ArgMinOn", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron", "child": "DiscreteConvex_MConvexFunctionsD_IsPolyhedralConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron", "child": "DiscreteConvex_MConvexFunctionsD_LinearWeightR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron", "child": "DiscreteConvex_MConvexFunctionsD_MConvexPolyhedronR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron", "child": "DiscreteConvex_MConvexFunctionsD_MExchangeAxiomR", "via": ["statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron", "child": "DiscreteConvex_MConvexFunctionsD_ArgMinOn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron", "child": "DiscreteConvex_MConvexFunctionsD_IsPolyhedralConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron", "child": "DiscreteConvex_MConvexFunctionsD_LinearWeightR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron", "child": "DiscreteConvex_MConvexFunctionsD_MConvexPolyhedronR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron", "child": "DiscreteConvex_MConvexFunctionsD_MExchangeAxiomR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_operations", "child": "DiscreteConvex_MConvexFunctionsD_DomR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_operations", "child": "DiscreteConvex_MConvexFunctionsD_IsConvexUniv", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_operations", "child": "DiscreteConvex_MConvexFunctionsD_LinearWeightR", "via": ["solution", "statement"]}
@@ -93848,13 +93848,13 @@
 {"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_operations", "child": "DiscreteConvex_MConvexFunctionsD_PosScalarMul", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_operations", "child": "DiscreteConvex_MConvexFunctionsD_SeparablePerturbR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_convex_supermodular", "child": "DiscreteConvex_MConvexFunctionsD_MNaturalConvexR", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_DomR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_IsConvexUniv", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_LinearWeightR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_MNaturalConvexR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_PosScalarMul", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_ProjectionR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_SeparablePerturbR", "via": ["statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_DomR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_IsConvexUniv", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_LinearWeightR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_MNaturalConvexR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_PosScalarMul", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_ProjectionR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_mnat_operations", "child": "DiscreteConvex_MConvexFunctionsD_SeparablePerturbR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_optimality_criterion", "child": "DiscreteConvex_MConvexFunctionsD_CharVec", "via": ["statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_optimality_criterion", "child": "DiscreteConvex_MConvexFunctionsD_DirDeriv", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.polyhedral_optimality_criterion", "child": "DiscreteConvex_MConvexFunctionsD_DomR", "via": ["solution", "statement"]}
@@ -93880,12 +93880,12 @@
 {"parent": "DiscreteConvex.MConvexFunctionsE.dir_deriv_eq_finite_diff_on_integral_mconvex", "child": "DiscreteConvex_MConvexFunctionsE_DirDeriv", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.dir_deriv_eq_finite_diff_on_integral_mconvex", "child": "DiscreteConvex_MConvexFunctionsE_DomR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.dir_deriv_eq_finite_diff_on_integral_mconvex", "child": "DiscreteConvex_MConvexFunctionsE_MConvexIntegralR", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_ArgMinOn", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_DomR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_IsMZeroZR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_IsPolyhedralConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_LinearWeightR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_MConvexIntegralR", "via": ["statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_ArgMinOn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_DomR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_IsMZeroZR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_IsPolyhedralConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_LinearWeightR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.integral_mconvex_iff_integral_argmin", "child": "DiscreteConvex_MConvexFunctionsE_MConvexIntegralR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.mconvex_four_characterizations", "child": "DiscreteConvex_MConvexFunctionsE_ArgMinOn", "via": ["statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.mconvex_four_characterizations", "child": "DiscreteConvex_MConvexFunctionsE_DirDeriv", "via": ["statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.mconvex_four_characterizations", "child": "DiscreteConvex_MConvexFunctionsE_DomR", "via": ["statement"]}
@@ -93896,10 +93896,10 @@
 {"parent": "DiscreteConvex.MConvexFunctionsE.mconvex_four_characterizations", "child": "DiscreteConvex_MConvexFunctionsE_MExchangeAxiomR", "via": ["statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.mconvex_four_characterizations", "child": "DiscreteConvex_MConvexFunctionsE_SubDifferentialR", "via": ["statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.mconvex_four_characterizations", "child": "DiscreteConvex_MConvexFunctionsE_ZeroMR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.mexchange_iff_perturbed_level_sets_qexcw", "child": "DiscreteConvex_MConvexFunctionsE_LevelSet", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.mexchange_iff_perturbed_level_sets_qexcw", "child": "DiscreteConvex_MConvexFunctionsE_LinearWeight", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.mexchange_iff_perturbed_level_sets_qexcw", "child": "DiscreteConvex_MConvexFunctionsE_MExchangeAxiom", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.mexchange_iff_perturbed_level_sets_qexcw", "child": "DiscreteConvex_MConvexFunctionsE_QEXCw", "via": ["statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.mexchange_iff_perturbed_level_sets_qexcw", "child": "DiscreteConvex_MConvexFunctionsE_LevelSet", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.mexchange_iff_perturbed_level_sets_qexcw", "child": "DiscreteConvex_MConvexFunctionsE_LinearWeight", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.mexchange_iff_perturbed_level_sets_qexcw", "child": "DiscreteConvex_MConvexFunctionsE_MExchangeAxiom", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.mexchange_iff_perturbed_level_sets_qexcw", "child": "DiscreteConvex_MConvexFunctionsE_QEXCw", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.qexcw_constant_sum", "child": "DiscreteConvex_MConvexFunctionsE_QEXCw", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.qexcw_iff_one_sided", "child": "DiscreteConvex_MConvexFunctionsE_CharVec", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.qexcw_iff_one_sided", "child": "DiscreteConvex_MConvexFunctionsE_QEXCw", "via": ["solution", "statement"]}
@@ -93918,14 +93918,14 @@
 {"parent": "DiscreteConvex.MConvexFunctionsE.qmw_level_characterizations", "child": "DiscreteConvex_MConvexFunctionsE_MinDown", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.qmw_level_characterizations", "child": "DiscreteConvex_MConvexFunctionsE_MinDownSym", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.qmw_level_characterizations", "child": "DiscreteConvex_MConvexFunctionsE_QMw", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut", "child": "DiscreteConvex_MConvexFunctionsE_ArgMinOn", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut", "child": "DiscreteConvex_MConvexFunctionsE_CharVec", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut", "child": "DiscreteConvex_MConvexFunctionsE_DomZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut", "child": "DiscreteConvex_MConvexFunctionsE_SSQMNe", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut_scaling", "child": "DiscreteConvex_MConvexFunctionsE_ArgMinOn", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut_scaling", "child": "DiscreteConvex_MConvexFunctionsE_CharVec", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut_scaling", "child": "DiscreteConvex_MConvexFunctionsE_DomZ", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut_scaling", "child": "DiscreteConvex_MConvexFunctionsE_SSQMNe", "via": ["statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut", "child": "DiscreteConvex_MConvexFunctionsE_ArgMinOn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut", "child": "DiscreteConvex_MConvexFunctionsE_CharVec", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut", "child": "DiscreteConvex_MConvexFunctionsE_DomZ", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut", "child": "DiscreteConvex_MConvexFunctionsE_SSQMNe", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut_scaling", "child": "DiscreteConvex_MConvexFunctionsE_ArgMinOn", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut_scaling", "child": "DiscreteConvex_MConvexFunctionsE_CharVec", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut_scaling", "child": "DiscreteConvex_MConvexFunctionsE_DomZ", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_minimizer_cut_scaling", "child": "DiscreteConvex_MConvexFunctionsE_SSQMNe", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_optimality_criterion", "child": "DiscreteConvex_MConvexFunctionsE_DeltaF", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_optimality_criterion", "child": "DiscreteConvex_MConvexFunctionsE_DomZ", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsE.quasi_m_optimality_criterion", "child": "DiscreteConvex_MConvexFunctionsE_MinDown", "via": ["solution"]}
@@ -94045,19 +94045,19 @@
 {"parent": "DiscreteConvex.NetworkFlowsB.mcfp0_integrality", "child": "DiscreteConvex_NetworkFlowsB_LConvexPolyhedronR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.NetworkFlowsB.mcfp0_integrality", "child": "DiscreteConvex_NetworkFlowsB_OptimalFlowMCFP0", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.NetworkFlowsB.mcfp0_integrality", "child": "DiscreteConvex_NetworkFlowsB_OptimalPotentialSetMCFP0", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_BoundaryOptSetMSFP3", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsDomainIntegerArc", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsDomainIntegerR", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsDualIntegralArc", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsDualIntegralR", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsIntegralPolyhedron", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsPolyhedralConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsPolyhedralConvexArc", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_LConvexPolyhedronR", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_M2ConvexPolyhedronR", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_MExchangeAxiomR", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_OptimalFlowMCFP3", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_OptimalPotentialSetMSFP3", "via": ["statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_BoundaryOptSetMSFP3", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsDomainIntegerArc", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsDomainIntegerR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsDualIntegralArc", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsDualIntegralR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsIntegralPolyhedron", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsPolyhedralConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_IsPolyhedralConvexArc", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_LConvexPolyhedronR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_M2ConvexPolyhedronR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_MExchangeAxiomR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_OptimalFlowMCFP3", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure", "child": "DiscreteConvex_NetworkFlowsB_OptimalPotentialSetMSFP3", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_mcfp0", "child": "DiscreteConvex_NetworkFlowsB_AuxActiveMCFP0", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_mcfp0", "child": "DiscreteConvex_NetworkFlowsB_AuxHeadMCFP0", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_mcfp0", "child": "DiscreteConvex_NetworkFlowsB_AuxLengthMCFP0", "via": ["solution", "statement"]}
@@ -94065,14 +94065,14 @@
 {"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_mcfp0", "child": "DiscreteConvex_NetworkFlowsB_FeasibleFlowMCFP0", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_mcfp0", "child": "DiscreteConvex_NetworkFlowsB_HasNegativeCycle", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_mcfp0", "child": "DiscreteConvex_NetworkFlowsB_OptimalFlowMCFP0", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_AuxActiveMSFP2Z", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_AuxHeadMSFP2", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_AuxLengthMSFP2Z", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_AuxTailMSFP2", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_FeasibleFlowMSFP2Z", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_HasNegativeCycle", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_MExchangeAxiom", "via": ["statement"]}
-{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_OptimalFlowMSFP2Z", "via": ["statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_AuxActiveMSFP2Z", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_AuxHeadMSFP2", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_AuxLengthMSFP2Z", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_AuxTailMSFP2", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_FeasibleFlowMSFP2Z", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_HasNegativeCycle", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_MExchangeAxiom", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.NetworkFlowsB.negative_cycle_criterion_msfp2_integer", "child": "DiscreteConvex_NetworkFlowsB_OptimalFlowMSFP2Z", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.NetworkFlowsB.potential_criterion_mcfp3", "child": "DiscreteConvex_NetworkFlowsB_FeasibleFlowMCFP3", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.NetworkFlowsB.potential_criterion_mcfp3", "child": "DiscreteConvex_NetworkFlowsB_IsOptimalPotential", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.NetworkFlowsB.potential_criterion_mcfp3", "child": "DiscreteConvex_NetworkFlowsB_IsPolyhedralConvex", "via": ["solution", "statement"]}

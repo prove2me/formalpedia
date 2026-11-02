@@ -27896,8 +27896,8 @@
 {"parent": "OAIQ082C029", "child": "OAIQ082C028", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff6.positive_w026_s2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c158", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "DirectFidelity.State.dfe_guarantee", "child": "DirectFidelity_State_Setting", "via": ["statement"]}
-{"parent": "DirectFidelity.State.dfe_guarantee", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "DirectFidelity.State.dfe_guarantee", "child": "DirectFidelity_State_Setting", "via": ["solution", "statement"]}
+{"parent": "DirectFidelity.State.dfe_guarantee", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1265_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteN3AbCutoffWeights_31_valid", "child": "D1Bound5_OneSmallN3AbFixedArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteN3AbCutoffWeights_31_valid", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
@@ -68599,9 +68599,9 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.EF5.eqOn_G4_43_zero", "child": "Atlas_Core_Certificate", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.EF5.eqOn_G4_43_zero", "child": "Atlas_EinsteinMaxwell_D_Basic", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.EF5.eqOn_G4_43_zero", "child": "Atlas_EinsteinMaxwell_EF5_Defs", "via": ["solution", "statement"]}
-{"parent": "MatrixAnalytic.MinimalSolutions.ur_path_factorization", "child": "MatrixAnalytic_MinimalSolutions_Chain", "via": ["statement"]}
-{"parent": "MatrixAnalytic.MinimalSolutions.ur_path_factorization", "child": "MatrixAnalytic_MinimalSolutions_QBD", "via": ["statement"]}
-{"parent": "MatrixAnalytic.MinimalSolutions.ur_path_factorization", "child": "MatrixAnalytic_MinimalSolutions_Passage", "via": ["statement"]}
+{"parent": "MatrixAnalytic.MinimalSolutions.ur_path_factorization", "child": "MatrixAnalytic_MinimalSolutions_Chain", "via": ["solution", "statement"]}
+{"parent": "MatrixAnalytic.MinimalSolutions.ur_path_factorization", "child": "MatrixAnalytic_MinimalSolutions_QBD", "via": ["solution", "statement"]}
+{"parent": "MatrixAnalytic.MinimalSolutions.ur_path_factorization", "child": "MatrixAnalytic_MinimalSolutions_Passage", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_drawingOn_connected", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "ArbEcon.Off.stepO_sound", "child": "ArdaRH65K_Probes_ArbEconomics_Sound", "via": ["solution", "statement"]}
 {"parent": "ArbEcon.Off.stepO_sound", "child": "ArdaRH65K_Turing121_EMZetaOfflineEval", "via": ["solution", "statement"]}
@@ -76961,7 +76961,7 @@
 {"parent": "D1Bound5.oneSmallThirds_0_complete", "child": "D1Bound5_OneSmallThirdData_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.oneSmallThirds_0_complete", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.oneSmallThirds_0_complete", "child": "D1Bound5_PairExtensionCore_Definitions", "via": ["solution", "statement"]}
-{"parent": "DirectFidelity.State.prob_normalized", "child": "DirectFidelity_State_Setting", "via": ["statement"]}
+{"parent": "DirectFidelity.State.prob_normalized", "child": "DirectFidelity_State_Setting", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.RankWeightQuadraticSignature.tutte_descendant_coeff_nonneg", "child": "CountingMatroid_Model_Prelude", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.RankWeightQuadraticSignature.tutte_descendant_coeff_nonneg", "child": "CountingMatroid_Analysis_RankWeightQuadraticSignature", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.RankWeightQuadraticSignature.tutte_descendant_coeff_nonneg", "child": "CountingMatroid_Analysis_CubicTensorContraction", "via": ["solution", "statement"]}
@@ -83786,7 +83786,7 @@
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_block_52_28", "child": "SensitivityCampaign", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_block_52_28", "child": "Sensitivity213981Formal_Endpoint22StrictPacked", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_block_52_28", "child": "Sensitivity213981Formal_Namespaces", "via": ["solution", "statement"]}
-{"parent": "HarlowTASI.ewr_duality_imp_factorization", "child": "HarlowTASI_OperatorAlgebras", "via": ["statement"]}
+{"parent": "HarlowTASI.ewr_duality_imp_factorization", "child": "HarlowTASI_OperatorAlgebras", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.Kernel.map_finiteEvaluation_eq_of_integral_tendsto", "child": "MarkovProcess_Trajectory_AllTimeFiniteMarginals", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.Kernel.map_finiteEvaluation_eq_of_integral_tendsto", "child": "MarkovProcess_DenseTime_ConditionalKernel", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.Kernel.map_finiteEvaluation_eq_of_integral_tendsto", "child": "MarkovProcess_FiniteTime_ProjectiveFamily", "via": ["solution", "statement"]}
@@ -93748,8 +93748,8 @@
 {"parent": "WilliamsonShmoys.planarDrawing_saturated_edge_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal_Contract_Endpoint22ReachChecks129", "child": "Sensitivity213981Formal_Endpoint22ReachChecks129", "via": ["statement"]}
 {"parent": "FunctionalInequalities.KLS.LogConcave.variance_le_sum_of_partial_dual_bounds_readable", "child": "KLSModular_FunctionalInequalities_KLS_LogConcave_HminusOne", "via": ["solution", "statement"]}
-{"parent": "DirectFidelity.State.eq_16", "child": "DirectFidelity_State_Setting", "via": ["statement"]}
-{"parent": "DirectFidelity.State.eq_16", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "DirectFidelity.State.eq_16", "child": "DirectFidelity_State_Setting", "via": ["solution", "statement"]}
+{"parent": "DirectFidelity.State.eq_16", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.IntersectionAugmentation.separator_card_le", "child": "CountingMatroidSupport_Computation_Cost_Extension1", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.IntersectionAugmentation.separator_card_le", "child": "CountingMatroidSupport_Computation_Cost", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.IntersectionAugmentation.separator_card_le", "child": "CountingMatroid_Model_Prelude", "via": ["solution", "statement"]}
@@ -99364,8 +99364,8 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.ST03.chr_on_0_3_3", "child": "Atlas_EinsteinMaxwell_D_Basic", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.ST03.chr_on_0_3_3", "child": "Atlas_EinsteinMaxwell_ES5_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c10054_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "DirectFidelity.State.eq_1", "child": "DirectFidelity_State_Setting", "via": ["statement"]}
-{"parent": "DirectFidelity.State.eq_1", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "DirectFidelity.State.eq_1", "child": "DirectFidelity_State_Setting", "via": ["solution", "statement"]}
+{"parent": "DirectFidelity.State.eq_1", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.nextRecord_crossing_after_firstRecord", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.oneSmallThirdRows_3_complete", "child": "D1Bound5_OneSmallThirdData_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.oneSmallThirdRows_3_complete", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsD_polyhedral_mconvex_argmin_polyhedron
 -- name    : DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_argmin_polyhedron
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:56:08.416733+00:00
 -- url     : https://prove2.me/theorems/96a781f3-bfcc-45b0-8d09-cde8f19ab837

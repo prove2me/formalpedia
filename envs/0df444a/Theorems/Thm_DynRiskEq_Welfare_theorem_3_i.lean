@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynRiskEq_Welfare_theorem_3_i
 -- name    : DynRiskEq.Welfare.theorem_3_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:26:39.669269+00:00
 -- url     : https://prove2.me/theorems/c674e798-e5aa-4d51-9025-a6cc19319816

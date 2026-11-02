@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsE_mexchange_iff_perturbed_level_sets_qexcw
 -- name    : DiscreteConvex.MConvexFunctionsE.mexchange_iff_perturbed_level_sets_qexcw
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:08:53.591973+00:00
 -- url     : https://prove2.me/theorems/8cc8e953-11f8-4502-9d47-51b48b444061

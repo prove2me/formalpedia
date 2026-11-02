@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectFidelity_State_expectation_X
 -- name    : DirectFidelity.State.expectation_X
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:29:47.976342+00:00
 -- url     : https://prove2.me/theorems/7c90cd80-4d8c-4ac5-bc68-044fdccdd28e

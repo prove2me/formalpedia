@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_add_edge_along_bridge_arc__p2m_e5953786_4eb4_4e6c_bc80_19f0610c5350_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:15:51.034526+00:00
 -- url     : https://prove2.me/submissions/6e7ad9d8-ec3e-4ebb-af84-a03e813ee25e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

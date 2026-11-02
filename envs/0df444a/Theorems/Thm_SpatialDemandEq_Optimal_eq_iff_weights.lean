@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpatialDemandEq_Optimal_eq_iff_weights
 -- name    : SpatialDemandEq.Optimal.eq_iff_weights
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:15.729053+00:00
 -- url     : https://prove2.me/theorems/27595a6b-6846-4341-a67d-b1f6995a81a4

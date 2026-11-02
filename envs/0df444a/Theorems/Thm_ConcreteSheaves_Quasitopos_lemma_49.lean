@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConcreteSheaves_Quasitopos_lemma_49
 -- name    : ConcreteSheaves.Quasitopos.lemma_49
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:40:21.18166+00:00
 -- url     : https://prove2.me/theorems/4eaebb18-47f7-44b6-83d1-775877599ac2

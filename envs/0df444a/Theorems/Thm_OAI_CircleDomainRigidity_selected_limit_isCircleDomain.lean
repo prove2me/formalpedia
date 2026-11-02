@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_selected_limit_isCircleDomain
 -- name    : OAI.CircleDomainRigidity.selected_limit_isCircleDomain
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:38:10.850008+00:00
 -- url     : https://prove2.me/theorems/bda57ed2-63ec-47a4-88c3-2c4a118f124a

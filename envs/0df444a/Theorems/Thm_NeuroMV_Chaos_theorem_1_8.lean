@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuroMV_Chaos_theorem_1_8
 -- name    : NeuroMV.Chaos.theorem_1_8
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:43:22.817471+00:00
 -- url     : https://prove2.me/theorems/f046f7ad-7ca1-463e-af0e-a8d1e51388a0

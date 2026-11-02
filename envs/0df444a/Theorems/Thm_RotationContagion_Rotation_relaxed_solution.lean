@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationContagion_Rotation_relaxed_solution
 -- name    : RotationContagion.Rotation.relaxed_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:32.300275+00:00
 -- url     : https://prove2.me/theorems/c67e4575-3242-490e-a212-87721f89c434

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochArbitrage_Pricing_concavity_bound
 -- name    : StochArbitrage.Pricing.concavity_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:21.020983+00:00
 -- url     : https://prove2.me/theorems/aa02792c-4662-45aa-869b-515a27cb0876

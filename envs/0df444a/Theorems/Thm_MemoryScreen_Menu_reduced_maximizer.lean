@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MemoryScreen_Menu_reduced_maximizer
 -- name    : MemoryScreen.Menu.reduced_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:07.691705+00:00
 -- url     : https://prove2.me/theorems/5ea00c54-e8b2-46dc-a138-d96bfc36d3cb

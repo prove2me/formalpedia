@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_eq_q_of_local_regularity
 -- name    : AvramDividend.Classical.scaleFunction_generator_eq_q_of_local_regularity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T10:10:26.13198+00:00
 -- url     : https://prove2.me/theorems/7e22f7ff-32dc-4d06-a01d-ec09d15973ec

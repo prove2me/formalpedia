@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoSignalPA_chsh_tensor_entry
 -- name    : NoSignalPA.chsh_tensor_entry
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:04:29.129276+00:00
 -- url     : https://prove2.me/theorems/484f958f-d2ec-4610-bf82-72ba0a5c67e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Persist_eq_4_11
 -- name    : StochKolmogorov.Persist.eq_4_11
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-01T00:47:07.736777+00:00
 -- url     : https://prove2.me/theorems/79e552d6-b94f-4c78-aac7-d11260f88bec

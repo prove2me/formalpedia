@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomScoring_Characterization_theorem_6
 -- name    : GeomScoring.Characterization.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:07.519275+00:00
 -- url     : https://prove2.me/theorems/7a46c617-1cfd-4903-8bc9-d6ef2c47101c

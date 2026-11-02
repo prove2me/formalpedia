@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for EthierKurtz.oblique_semigroup_positive_conservative
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @caleb
 -- created : 2026-09-27T13:18:34.034276+00:00
 -- url     : https://prove2.me/submissions/4835447b-8176-462f-bbf3-71aa52b973e4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_EthierKurtz_oblique_semigroup_positive
 import Theorems.Thm_EthierKurtz_oblique_semigroup_conservative

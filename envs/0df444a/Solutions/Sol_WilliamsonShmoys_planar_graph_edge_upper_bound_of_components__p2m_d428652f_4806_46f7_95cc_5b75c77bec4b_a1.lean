@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_graph_edge_upper_bound_of_components__p2m_d428652f_4806_46f7_95cc_5b75c77bec4b_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:00:09.485202+00:00
 -- url     : https://prove2.me/submissions/d4cc65ab-ea96-4f2d-861a-5055eb3d96e5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

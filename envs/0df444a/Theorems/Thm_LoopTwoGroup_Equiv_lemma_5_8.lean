@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LoopTwoGroup_Equiv_lemma_5_8
 -- name    : LoopTwoGroup.Equiv.lemma_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:23:50.520986+00:00
 -- url     : https://prove2.me/theorems/57ab70ed-090f-43ba-83f7-2b8d288412bb

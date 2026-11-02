@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechSourcing_PTS_lemma_A1_equity
 -- name    : TechSourcing.PTS.lemma_A1_equity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:41.033913+00:00
 -- url     : https://prove2.me/theorems/afd976e9-7c4d-4b76-9924-4fdde4b95a78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HorodeckiBoundKey_corner_trace_norm
 -- name    : HorodeckiBoundKey.corner_trace_norm
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:17:17.429197+00:00
 -- url     : https://prove2.me/theorems/367be0f9-db83-4ce8-af74-c20b17c76a5c

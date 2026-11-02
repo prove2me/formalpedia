@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HorodeckiBoundKey_recurrence_output
 -- name    : HorodeckiBoundKey.recurrence_output
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:16:50.653098+00:00
 -- url     : https://prove2.me/theorems/1addb47c-4acf-4f5b-b45b-38e98ab8fd81

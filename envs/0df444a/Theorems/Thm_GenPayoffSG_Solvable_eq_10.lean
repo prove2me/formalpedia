@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenPayoffSG_Solvable_eq_10
 -- name    : GenPayoffSG.Solvable.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:22:35.403984+00:00
 -- url     : https://prove2.me/theorems/3821f558-cceb-40f9-9fbf-5c0b0f321507

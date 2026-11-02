@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesEnsemble_GenProbit_proposition_4
 -- name    : BayesEnsemble.GenProbit.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:17.284592+00:00
 -- url     : https://prove2.me/theorems/bdab74fd-08b6-4a05-a56b-34af3468e6eb

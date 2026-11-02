@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_edge_upper_bound_of_components__p2m_d428652f_4806_46f7_95cc_5b75c77bec4b_a1
 -- name    : WilliamsonShmoys.planar_graph_edge_upper_bound_of_components__p2m_d428652f_4806_46f7_95cc_5b75c77bec4b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:15:42.230063+00:00
 -- url     : https://prove2.me/theorems/24514a04-46c3-4995-8d84-ff88ef385ed2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected
 -- name    : AvramDividend.Classical.scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T21:18:34.409798+00:00
 -- url     : https://prove2.me/theorems/ea4166b9-f841-4bb4-b788-90c50364a793

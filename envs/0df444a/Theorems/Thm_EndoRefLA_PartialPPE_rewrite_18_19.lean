@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoRefLA_PartialPPE_rewrite_18_19
 -- name    : EndoRefLA.PartialPPE.rewrite_18_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:22:50.159033+00:00
 -- url     : https://prove2.me/theorems/ce288982-c51a-478e-8c11-da2605331997

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OblivEllipsoid_Infeas_theorem_6_1
 -- name    : OblivEllipsoid.Infeas.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:23:38.194072+00:00
 -- url     : https://prove2.me/theorems/94c74ac7-e174-41d9-a1b5-c956a3b6a4b6

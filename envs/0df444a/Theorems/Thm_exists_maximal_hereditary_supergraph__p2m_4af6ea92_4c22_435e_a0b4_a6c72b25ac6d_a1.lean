@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_maximal_hereditary_supergraph__p2m_4af6ea92_4c22_435e_a0b4_a6c72b25ac6d_a1
 -- name    : exists_maximal_hereditary_supergraph__p2m_4af6ea92_4c22_435e_a0b4_a6c72b25ac6d_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:34:43.717202+00:00
 -- url     : https://prove2.me/theorems/1d40241c-e17f-46de-aad3-cc1e6a1c7a6f

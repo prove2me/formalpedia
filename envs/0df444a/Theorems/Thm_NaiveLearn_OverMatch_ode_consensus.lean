@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NaiveLearn_OverMatch_ode_consensus
 -- name    : NaiveLearn.OverMatch.ode_consensus
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:17:17.306314+00:00
 -- url     : https://prove2.me/theorems/1669ebdd-3491-4873-915a-a4a51a56affe

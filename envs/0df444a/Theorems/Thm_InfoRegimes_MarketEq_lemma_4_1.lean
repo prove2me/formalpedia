@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRegimes_MarketEq_lemma_4_1
 -- name    : InfoRegimes.MarketEq.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:22:27.253272+00:00
 -- url     : https://prove2.me/theorems/f28cb3c0-5b72-405a-9cff-b4feec10c695

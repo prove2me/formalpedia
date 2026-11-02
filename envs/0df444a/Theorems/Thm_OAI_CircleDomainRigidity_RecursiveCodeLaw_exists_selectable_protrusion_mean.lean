@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_RecursiveCodeLaw_exists_selectable_protrusion_mean
 -- name    : OAI.CircleDomainRigidity.RecursiveCodeLaw.exists_selectable_protrusion_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:33:55.708669+00:00
 -- url     : https://prove2.me/theorems/6185567c-da30-44c1-a51b-bbe4d6f5526c

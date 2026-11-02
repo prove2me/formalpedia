@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_cut_implies_not_reachable__p2m_05c1a0b4_69ca_4d36_9f49_0774601d7f45_a3
 -- name    : WilliamsonShmoys.cut_implies_not_reachable__p2m_05c1a0b4_69ca_4d36_9f49_0774601d7f45_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:17:37.350992+00:00
 -- url     : https://prove2.me/theorems/522fcb48-849e-434e-80b2-a38f08520ee6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochArbitrage_Pricing_convexification
 -- name    : StochArbitrage.Pricing.convexification
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:07.102995+00:00
 -- url     : https://prove2.me/theorems/fb0f9e06-2ae6-4de2-bb99-90b9094810e4

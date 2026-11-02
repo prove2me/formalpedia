@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NaiveLearn_OverMatch_lemma_5
 -- name    : NaiveLearn.OverMatch.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:17:26.178292+00:00
 -- url     : https://prove2.me/theorems/e2e334ff-f351-4f58-828f-f046a2d4431f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_adiabatic_theorem
 -- name    : QAlgorithms.Childs.adiabatic_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:35:23.137372+00:00
 -- url     : https://prove2.me/theorems/54b10ad9-502e-44da-9e52-ed605efc634f

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MatrixAnalytic.MinimalSolutions.minimal_solutions
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T12:59:29.222154+00:00
 -- url     : https://prove2.me/submissions/051e00a1-1b4a-425d-8723-95b348f59556
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MatrixAnalytic_MinimalSolutions_Chain

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PipelineInterv_Welfare_claim_1
 -- name    : PipelineInterv.Welfare.claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:04.176554+00:00
 -- url     : https://prove2.me/theorems/1b4b779a-e84d-4a13-90c2-4cb927e245a5

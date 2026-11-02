@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RainbowEFX_Sublinear_lemma_9
 -- name    : RainbowEFX.Sublinear.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:36.53401+00:00
 -- url     : https://prove2.me/theorems/2af99a5c-c7c3-413c-b992-3b2bb41e5280

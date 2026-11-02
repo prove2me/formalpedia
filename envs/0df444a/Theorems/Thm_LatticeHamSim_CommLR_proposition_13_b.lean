@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LatticeHamSim_CommLR_proposition_13_b
 -- name    : LatticeHamSim.CommLR.proposition_13_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:04:04.015803+00:00
 -- url     : https://prove2.me/theorems/00f258f7-d97b-4d1d-b1a1-caf4b38817f8

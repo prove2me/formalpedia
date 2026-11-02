@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqMechExPost_Optimal_lemma_6
 -- name    : SeqMechExPost.Optimal.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:15.209027+00:00
 -- url     : https://prove2.me/theorems/9b2bc0ed-5ba9-4549-a9f7-1dbd10d8a4de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LieTwoAlg_Equiv_theorem_12
 -- name    : LieTwoAlg.Equiv.theorem_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:45.240347+00:00
 -- url     : https://prove2.me/theorems/7de493a6-0744-4ec9-bdf3-a1bd6d979b96

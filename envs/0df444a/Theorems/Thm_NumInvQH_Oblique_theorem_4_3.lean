@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumInvQH_Oblique_theorem_4_3
 -- name    : NumInvQH.Oblique.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:24:36.77973+00:00
 -- url     : https://prove2.me/theorems/f9a5f433-ce54-481c-a33d-704cbd008400

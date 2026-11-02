@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffineStorage_Ruin_eq_2
 -- name    : AffineStorage.Ruin.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:36:29.958721+00:00
 -- url     : https://prove2.me/theorems/3360ed7e-bc3f-47dc-a1b2-f9f41a89e093

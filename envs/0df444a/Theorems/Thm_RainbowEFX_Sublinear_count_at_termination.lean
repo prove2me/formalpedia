@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RainbowEFX_Sublinear_count_at_termination
 -- name    : RainbowEFX.Sublinear.count_at_termination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:21.902731+00:00
 -- url     : https://prove2.me/theorems/d04db5c9-ef1f-45a6-809d-662829ec679d

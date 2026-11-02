@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntertempDUI_Finite_proposition_A6
 -- name    : IntertempDUI.Finite.proposition_A6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:50:25.197587+00:00
 -- url     : https://prove2.me/theorems/9e0315d5-97d4-4a8c-8f0b-ad49850f5642

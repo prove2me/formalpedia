@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_asymptotic_eigenvector
 -- name    : FiniteEnergyPlane.asymptotic_eigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-21T12:44:31.876135+00:00
 -- url     : https://prove2.me/theorems/8210ad9e-29ca-4579-a9cb-4abc3488f95e

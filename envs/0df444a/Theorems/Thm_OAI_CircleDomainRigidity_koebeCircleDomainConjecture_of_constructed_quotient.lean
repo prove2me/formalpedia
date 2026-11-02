@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_koebeCircleDomainConjecture_of_constructed_quotient
 -- name    : OAI.CircleDomainRigidity.koebeCircleDomainConjecture_of_constructed_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:38:13.997979+00:00
 -- url     : https://prove2.me/theorems/1f2bd33c-e106-447c-a79a-dce455aa1d86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LatticeHamSim_CommLR_lemma_12
 -- name    : LatticeHamSim.CommLR.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:06:00.955788+00:00
 -- url     : https://prove2.me/theorems/bff13cab-a443-4740-9f8e-b9f1e819893b

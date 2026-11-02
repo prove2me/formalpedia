@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BOGOPromo_NoStockpile_proposition_1
 -- name    : BOGOPromo.NoStockpile.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:23:32.297132+00:00
 -- url     : https://prove2.me/theorems/0a487455-c237-4f30-a12f-b93712de3732

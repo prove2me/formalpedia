@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPurchase_Hardness_maxCut_polyReducible
 -- name    : MultiPurchase.Hardness.maxCut_polyReducible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:21:58.359567+00:00
 -- url     : https://prove2.me/theorems/312a31f1-731b-47f1-bfb4-8223a3bc368d

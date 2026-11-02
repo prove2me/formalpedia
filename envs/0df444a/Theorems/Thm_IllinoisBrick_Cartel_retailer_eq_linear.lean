@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IllinoisBrick_Cartel_retailer_eq_linear
 -- name    : IllinoisBrick.Cartel.retailer_eq_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:53.228985+00:00
 -- url     : https://prove2.me/theorems/ae3552d2-6e9d-4b99-b0cf-40567e56f5c3

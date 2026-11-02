@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRegimes_MarketEq_selfConsistent_marketEquilibrium
 -- name    : InfoRegimes.MarketEq.selfConsistent_marketEquilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:22:35.658973+00:00
 -- url     : https://prove2.me/theorems/da4ef670-0dd2-438d-bc1a-de719a585c4b

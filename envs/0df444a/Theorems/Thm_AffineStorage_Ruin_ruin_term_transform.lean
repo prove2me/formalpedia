@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffineStorage_Ruin_ruin_term_transform
 -- name    : AffineStorage.Ruin.ruin_term_transform
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:36:23.562038+00:00
 -- url     : https://prove2.me/theorems/dccffbac-4a16-4840-a3d1-61bf4bd64fe9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_exists_round_invariant_principal_approximation_with_coefficient
 -- name    : OAI.CircleDomainRigidity.exists_round_invariant_principal_approximation_with_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:05:12.434352+00:00
 -- url     : https://prove2.me/theorems/deea7468-acc4-467e-9312-108cf32ca82c

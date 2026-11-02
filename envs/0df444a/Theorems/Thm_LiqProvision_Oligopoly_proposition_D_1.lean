@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiqProvision_Oligopoly_proposition_D_1
 -- name    : LiqProvision.Oligopoly.proposition_D_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:40:50.095828+00:00
 -- url     : https://prove2.me/theorems/b29dd468-f9e3-454b-9682-64fd26eeff95

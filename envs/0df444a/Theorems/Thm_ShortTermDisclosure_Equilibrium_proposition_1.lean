@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermDisclosure_Equilibrium_proposition_1
 -- name    : ShortTermDisclosure.Equilibrium.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:33.695766+00:00
 -- url     : https://prove2.me/theorems/30d31199-0502-406e-8a53-49331b175ea4

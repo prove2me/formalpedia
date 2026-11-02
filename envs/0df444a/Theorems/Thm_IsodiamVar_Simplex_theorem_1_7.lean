@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsodiamVar_Simplex_theorem_1_7
 -- name    : IsodiamVar.Simplex.theorem_1_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:47:12.031828+00:00
 -- url     : https://prove2.me/theorems/6fa8356f-5b57-495e-8960-304e94ba2a2f

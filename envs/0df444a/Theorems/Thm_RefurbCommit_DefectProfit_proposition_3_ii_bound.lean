@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefurbCommit_DefectProfit_proposition_3_ii_bound
 -- name    : RefurbCommit.DefectProfit.proposition_3_ii_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:50.776625+00:00
 -- url     : https://prove2.me/theorems/42c99db3-c319-4097-8f44-92e4074d27ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectFidelity_State_eq_8
 -- name    : DirectFidelity.State.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:29:47.993977+00:00
 -- url     : https://prove2.me/theorems/8f55f499-7c5c-4ffd-99f8-607b42a9384b

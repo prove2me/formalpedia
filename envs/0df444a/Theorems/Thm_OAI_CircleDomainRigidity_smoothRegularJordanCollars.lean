@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_smoothRegularJordanCollars
 -- name    : OAI.CircleDomainRigidity.smoothRegularJordanCollars
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:39:05.352694+00:00
 -- url     : https://prove2.me/theorems/5eb23baa-b996-454a-910d-ecd4bd1b69f0

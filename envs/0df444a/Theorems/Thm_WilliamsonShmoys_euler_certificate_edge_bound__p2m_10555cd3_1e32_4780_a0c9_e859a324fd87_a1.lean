@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_euler_certificate_edge_bound__p2m_10555cd3_1e32_4780_a0c9_e859a324fd87_a1
 -- name    : WilliamsonShmoys.euler_certificate_edge_bound__p2m_10555cd3_1e32_4780_a0c9_e859a324fd87_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:06:36.113337+00:00
 -- url     : https://prove2.me/theorems/95aabdf4-ee5d-4887-ac69-11be9f3010bb

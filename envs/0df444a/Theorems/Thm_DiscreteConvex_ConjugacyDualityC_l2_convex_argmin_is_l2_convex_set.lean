@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityC_l2_convex_argmin_is_l2_convex_set
 -- name    : DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:45:15.669596+00:00
 -- url     : https://prove2.me/theorems/8662c318-857c-476b-8923-2cdbdc91416d

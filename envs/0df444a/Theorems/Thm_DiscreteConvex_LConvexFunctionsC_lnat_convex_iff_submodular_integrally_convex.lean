@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsC_lnat_convex_iff_submodular_integrally_convex
 -- name    : DiscreteConvex.LConvexFunctionsC.lnat_convex_iff_submodular_integrally_convex
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:52:29.77737+00:00
 -- url     : https://prove2.me/theorems/d156341e-3124-49cb-a780-bb3a719a917b

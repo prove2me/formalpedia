@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem047_koebe_circle_domain
 -- name    : OAI.Problem047.koebe_circle_domain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:06.407419+00:00
 -- url     : https://prove2.me/theorems/877b63ab-8c54-406e-beb7-0ae55b071c0b

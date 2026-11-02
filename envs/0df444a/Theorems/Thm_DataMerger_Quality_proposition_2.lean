@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataMerger_Quality_proposition_2
 -- name    : DataMerger.Quality.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:25.783962+00:00
 -- url     : https://prove2.me/theorems/1ea872ca-b816-4b8a-8362-75d6fde969bb

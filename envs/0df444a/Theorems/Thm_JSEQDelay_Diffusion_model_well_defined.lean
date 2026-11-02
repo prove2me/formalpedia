@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JSEQDelay_Diffusion_model_well_defined
 -- name    : JSEQDelay.Diffusion.model_well_defined
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:17:53.249313+00:00
 -- url     : https://prove2.me/theorems/dee3a6e1-58f3-49e1-8245-c951d8416b58

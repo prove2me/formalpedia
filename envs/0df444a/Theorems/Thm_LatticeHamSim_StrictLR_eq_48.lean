@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LatticeHamSim_StrictLR_eq_48
 -- name    : LatticeHamSim.StrictLR.eq_48
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:55:56.632189+00:00
 -- url     : https://prove2.me/theorems/7ee34156-5885-4ab1-a6d9-ba990d0e6c7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarlowTASI_ewr_duality_imp_factorization
 -- name    : HarlowTASI.ewr_duality_imp_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-26T20:29:38.453783+00:00
 -- url     : https://prove2.me/theorems/74869d26-09ea-4e7d-a1b0-baede5b7f679

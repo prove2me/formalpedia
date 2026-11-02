@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_adversary_compose_le
 -- name    : QAlgorithms.Childs.adversary_compose_le
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:33:16.537466+00:00
 -- url     : https://prove2.me/theorems/036e84ed-01b5-4c62-898a-ed381d3d6cf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LieTwoAlg_Equiv_proposition_8
 -- name    : LieTwoAlg.Equiv.proposition_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:39.285162+00:00
 -- url     : https://prove2.me/theorems/bd5bed66-05b4-483d-b4f4-d63f5d283554

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConcreteSheaves_Quasitopos_proposition_50
 -- name    : ConcreteSheaves.Quasitopos.proposition_50
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:40:02.455766+00:00
 -- url     : https://prove2.me/theorems/192440ea-f661-4cc0-937e-748d057eaf42

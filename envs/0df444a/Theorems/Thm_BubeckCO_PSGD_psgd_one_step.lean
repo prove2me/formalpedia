@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BubeckCO_PSGD_psgd_one_step
 -- name    : BubeckCO.PSGD.psgd_one_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:26:42.841929+00:00
 -- url     : https://prove2.me/theorems/772695db-b46a-4bf6-ab65-808c92d09edc

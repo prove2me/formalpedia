@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochArbitrage_Pricing_theorem_2_3_1
 -- name    : StochArbitrage.Pricing.theorem_2_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:02.819788+00:00
 -- url     : https://prove2.me/theorems/a024a6bd-3b6b-4773-84de-58c6e6477370

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MLRPCake_EnvyFree_lemma_2
 -- name    : MLRPCake.EnvyFree.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:14.476598+00:00
 -- url     : https://prove2.me/theorems/5bb7e8c0-e297-4f36-8b4b-d3e512f78abb

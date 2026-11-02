@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JSEQDelay_Diffusion_lemma_3_10
 -- name    : JSEQDelay.Diffusion.lemma_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:19:00.488054+00:00
 -- url     : https://prove2.me/theorems/1964d3bd-c39f-49e9-9499-07811b83567e

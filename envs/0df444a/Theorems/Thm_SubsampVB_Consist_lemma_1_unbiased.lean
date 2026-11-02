@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsampVB_Consist_lemma_1_unbiased
 -- name    : SubsampVB.Consist.lemma_1_unbiased
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:46:24.241154+00:00
 -- url     : https://prove2.me/theorems/9f6caa11-5cea-43f6-96b5-6d28c5bb2b3b

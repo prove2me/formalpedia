@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReputationLies_Matching_eq_14_fair_gamble
 -- name    : ReputationLies.Matching.eq_14_fair_gamble
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:06.136242+00:00
 -- url     : https://prove2.me/theorems/394e377e-0081-4db6-880c-864e10ccc95e

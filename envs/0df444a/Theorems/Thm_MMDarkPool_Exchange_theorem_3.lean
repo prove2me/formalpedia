@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MMDarkPool_Exchange_theorem_3
 -- name    : MMDarkPool.Exchange.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:50.736625+00:00
 -- url     : https://prove2.me/theorems/84d6e298-81bf-4d68-b44a-a94bc8823919

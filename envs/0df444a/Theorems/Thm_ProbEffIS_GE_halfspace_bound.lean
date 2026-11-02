@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbEffIS_GE_halfspace_bound
 -- name    : ProbEffIS.GE.halfspace_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:48.264231+00:00
 -- url     : https://prove2.me/theorems/00c17ea2-7656-45a1-82da-55b0af127cee

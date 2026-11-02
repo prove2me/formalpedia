@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersQBC_cheat_ge_fidelity
 -- name    : MayersQBC.cheat_ge_fidelity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:26:22.118182+00:00
 -- url     : https://prove2.me/theorems/043aaf2c-fc3c-4e2e-94d9-065a6785fb04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProbAudit_Grothendieck_signed_feature_maps
 -- name    : HighDimProbAudit.Grothendieck.signed_feature_maps
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:36:56.998833+00:00
 -- url     : https://prove2.me/theorems/231a0835-4158-43b9-bf76-a4a9deff8c1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonFBSDE_MultiPeriod_theorem_2_3
 -- name    : CarbonFBSDE.MultiPeriod.theorem_2_3
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:43.113974+00:00
 -- url     : https://prove2.me/theorems/dc521cd9-89ba-4897-9435-7b9dbff318db

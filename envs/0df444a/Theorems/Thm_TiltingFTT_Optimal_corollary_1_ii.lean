@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TiltingFTT_Optimal_corollary_1_ii
 -- name    : TiltingFTT.Optimal.corollary_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:42.450114+00:00
 -- url     : https://prove2.me/theorems/23c0a457-6cc3-4dba-8c5e-96624f6eb0b6

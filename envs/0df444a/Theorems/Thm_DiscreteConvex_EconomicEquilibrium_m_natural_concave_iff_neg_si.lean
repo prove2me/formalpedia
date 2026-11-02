@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_EconomicEquilibrium_m_natural_concave_iff_neg_si
 -- name    : DiscreteConvex.EconomicEquilibrium.m_natural_concave_iff_neg_si
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T05:08:35.665094+00:00
 -- url     : https://prove2.me/theorems/deff9a30-3999-464d-b864-9b388e9477f9

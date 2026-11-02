@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersQBC_cheatProb_ge_expectedFidelity
 -- name    : MayersQBC.cheatProb_ge_expectedFidelity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:27:10.715391+00:00
 -- url     : https://prove2.me/theorems/385b48a2-c281-4472-be15-087e07d8fa8b

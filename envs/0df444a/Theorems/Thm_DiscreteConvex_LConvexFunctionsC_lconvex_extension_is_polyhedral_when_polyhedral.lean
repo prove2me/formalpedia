@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsC_lconvex_extension_is_polyhedral_when_polyhedral
 -- name    : DiscreteConvex.LConvexFunctionsC.lconvex_extension_is_polyhedral_when_polyhedral
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:49:42.505701+00:00
 -- url     : https://prove2.me/theorems/f2b4de83-a34a-4c5c-8419-33135059d03e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapScaleML_ABCS_theorem_4_7
 -- name    : CapScaleML.ABCS.theorem_4_7
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:26.605714+00:00
 -- url     : https://prove2.me/theorems/fb4900b9-2a72-4db2-8927-1fda05ba5198

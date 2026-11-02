@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Persist_theorem_1_1
 -- name    : StochKolmogorov.Persist.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:33:51.198391+00:00
 -- url     : https://prove2.me/theorems/1733f857-bfc7-410b-9bec-ac373357d849

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RainbowEFX_Sublinear_theorem_3
 -- name    : RainbowEFX.Sublinear.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:24:57.075415+00:00
 -- url     : https://prove2.me/theorems/b040ac05-a273-4874-9ea0-bb58c377fdb3

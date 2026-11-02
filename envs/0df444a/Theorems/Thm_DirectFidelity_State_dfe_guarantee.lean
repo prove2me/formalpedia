@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectFidelity_State_dfe_guarantee
 -- name    : DirectFidelity.State.dfe_guarantee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:29:47.683883+00:00
 -- url     : https://prove2.me/theorems/33ad367b-110d-49a6-b440-75a256a4c95b

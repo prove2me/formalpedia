@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TiltingFTT_Optimal_tauStar_step
 -- name    : TiltingFTT.Optimal.tauStar_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:25:56.865502+00:00
 -- url     : https://prove2.me/theorems/b9cf1da7-c0c9-40ea-a727-76d5d9de5fc7

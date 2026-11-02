@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersBC_attack_of_concealing
 -- name    : MayersBC.attack_of_concealing
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:58:13.856082+00:00
 -- url     : https://prove2.me/theorems/9327a780-8c83-4406-ad1f-776da82583a9

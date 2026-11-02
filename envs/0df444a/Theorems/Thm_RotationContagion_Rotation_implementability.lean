@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationContagion_Rotation_implementability
 -- name    : RotationContagion.Rotation.implementability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:36.766626+00:00
 -- url     : https://prove2.me/theorems/fefd8054-a5b0-4a88-9562-20cf6e91f8ee

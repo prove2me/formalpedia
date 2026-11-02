@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomScoring_Characterization_proposition_4_losers
 -- name    : GeomScoring.Characterization.proposition_4_losers
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:44:30.547425+00:00
 -- url     : https://prove2.me/theorems/9fcfbed3-3c85-41b9-bc60-9cbfe5dbf666

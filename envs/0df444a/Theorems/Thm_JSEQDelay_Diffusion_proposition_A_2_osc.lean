@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JSEQDelay_Diffusion_proposition_A_2_osc
 -- name    : JSEQDelay.Diffusion.proposition_A_2_osc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:24.805674+00:00
 -- url     : https://prove2.me/theorems/16332a78-9156-438d-be4d-052625dec375

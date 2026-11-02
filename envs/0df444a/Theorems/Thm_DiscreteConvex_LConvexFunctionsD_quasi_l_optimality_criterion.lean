@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_quasi_l_optimality_criterion
 -- name    : DiscreteConvex.LConvexFunctionsD.quasi_l_optimality_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:04:16.81357+00:00
 -- url     : https://prove2.me/theorems/a56b2ffd-cc90-42a9-b48c-effb3a034459

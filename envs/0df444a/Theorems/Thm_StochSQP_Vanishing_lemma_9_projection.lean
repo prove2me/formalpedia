@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSQP_Vanishing_lemma_9_projection
 -- name    : StochSQP.Vanishing.lemma_9_projection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:45.703984+00:00
 -- url     : https://prove2.me/theorems/32d58ac9-f5a8-4b08-931e-04e15f9c096f

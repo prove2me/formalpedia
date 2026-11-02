@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoSignalPA_secure_of_entrywise
 -- name    : NoSignalPA.secure_of_entrywise
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:06:39.350739+00:00
 -- url     : https://prove2.me/theorems/7a3b5202-e97b-4f36-836b-3135cedf3517

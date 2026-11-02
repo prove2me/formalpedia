@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_GottesmanThesis_stabEncoder_encodes
 -- name    : QAlgorithms.GottesmanThesis.stabEncoder_encodes
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:59:10.414012+00:00
 -- url     : https://prove2.me/theorems/1b8991be-8837-4124-b2f1-4a0a8aa3a361

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BubeckCO_PSGD_proj_inner_nonpos_and_pythag
 -- name    : BubeckCO.PSGD.proj_inner_nonpos_and_pythag
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:26:16.077989+00:00
 -- url     : https://prove2.me/theorems/48c30da9-da73-404d-a15d-b1f20c97eb65

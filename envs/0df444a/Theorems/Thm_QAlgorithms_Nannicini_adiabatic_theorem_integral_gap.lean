@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_adiabatic_theorem_integral_gap
 -- name    : QAlgorithms.Nannicini.adiabatic_theorem_integral_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:26.024212+00:00
 -- url     : https://prove2.me/theorems/ffed5e5a-a4de-4d39-9643-8328f870ab63

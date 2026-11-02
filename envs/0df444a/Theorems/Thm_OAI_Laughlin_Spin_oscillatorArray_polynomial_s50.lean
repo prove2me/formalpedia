@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_oscillatorArray_polynomial_s50
 -- name    : OAI.Laughlin.Spin.oscillatorArray_polynomial_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:44:56.05245+00:00
 -- url     : https://prove2.me/theorems/8a15baf9-a5c8-4eca-a7cc-1e2c40287b7e

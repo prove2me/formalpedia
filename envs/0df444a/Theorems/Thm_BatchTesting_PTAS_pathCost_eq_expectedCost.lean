@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BatchTesting_PTAS_pathCost_eq_expectedCost
 -- name    : BatchTesting.PTAS.pathCost_eq_expectedCost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:44.570006+00:00
 -- url     : https://prove2.me/theorems/526cb35d-4648-4062-96f4-7b327263b853

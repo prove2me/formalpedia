@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsodiamVar_Simplex_proposition_3_1_a
 -- name    : IsodiamVar.Simplex.proposition_3_1_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:47:08.94211+00:00
 -- url     : https://prove2.me/theorems/c2f610a2-fb65-4998-9392-8b646d47d32e

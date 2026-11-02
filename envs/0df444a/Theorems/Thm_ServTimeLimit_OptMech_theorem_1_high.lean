@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServTimeLimit_OptMech_theorem_1_high
 -- name    : ServTimeLimit.OptMech.theorem_1_high
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:56.411496+00:00
 -- url     : https://prove2.me/theorems/7a914d19-2c70-4c28-95a3-29e960d57fb5

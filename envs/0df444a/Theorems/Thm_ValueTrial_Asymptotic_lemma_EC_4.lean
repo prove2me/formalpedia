@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueTrial_Asymptotic_lemma_EC_4
 -- name    : ValueTrial.Asymptotic.lemma_EC_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:17:23.338567+00:00
 -- url     : https://prove2.me/theorems/ddd9ab9f-875f-41f3-baed-00cfb26e459d

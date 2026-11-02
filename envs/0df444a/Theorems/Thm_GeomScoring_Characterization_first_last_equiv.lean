@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomScoring_Characterization_first_last_equiv
 -- name    : GeomScoring.Characterization.first_last_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:44:54.956236+00:00
 -- url     : https://prove2.me/theorems/485adf97-99e0-436e-87b0-c18649b8dbfe

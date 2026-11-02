@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SWSSNet_Diffusion_remark_1
 -- name    : SWSSNet.Diffusion.remark_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:08.943756+00:00
 -- url     : https://prove2.me/theorems/4508435a-fc26-4d69-bc84-9913a7790380

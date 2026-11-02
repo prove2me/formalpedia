@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKKTBilevel_VP_dir_sum_rule
 -- name    : DirKKTBilevel.VP.dir_sum_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:59.029115+00:00
 -- url     : https://prove2.me/theorems/22b9414a-b2cf-46d7-9614-76c1791fc6c4

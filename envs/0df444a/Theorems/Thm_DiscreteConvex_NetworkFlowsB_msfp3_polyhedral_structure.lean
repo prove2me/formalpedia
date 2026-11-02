@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_NetworkFlowsB_msfp3_polyhedral_structure
 -- name    : DiscreteConvex.NetworkFlowsB.msfp3_polyhedral_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T02:36:54.745828+00:00
 -- url     : https://prove2.me/theorems/1d555638-366f-4328-805e-e4c6e28f725d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MayersBC_rootFidelity_bounds_of_concealing
 -- name    : MayersBC.rootFidelity_bounds_of_concealing
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:58:25.800203+00:00
 -- url     : https://prove2.me/theorems/6600ec1c-ba8f-4266-815e-b485bec0bf15

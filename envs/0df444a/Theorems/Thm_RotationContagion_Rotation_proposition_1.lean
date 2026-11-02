@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationContagion_Rotation_proposition_1
 -- name    : RotationContagion.Rotation.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:41.163146+00:00
 -- url     : https://prove2.me/theorems/752357b0-e378-45bd-b25f-73ff5a03cdeb

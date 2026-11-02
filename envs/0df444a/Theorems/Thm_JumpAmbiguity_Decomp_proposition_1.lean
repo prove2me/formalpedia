@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JumpAmbiguity_Decomp_proposition_1
 -- name    : JumpAmbiguity.Decomp.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:08.745288+00:00
 -- url     : https://prove2.me/theorems/909f64fd-c247-4e6f-982a-6bc06b72ec2d

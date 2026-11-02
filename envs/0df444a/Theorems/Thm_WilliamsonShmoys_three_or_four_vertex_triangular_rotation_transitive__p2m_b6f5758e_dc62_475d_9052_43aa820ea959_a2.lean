@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_three_or_four_vertex_triangular_rotation_transitive__p2m_b6f5758e_dc62_475d_9052_43aa820ea959_a2
 -- name    : WilliamsonShmoys.three_or_four_vertex_triangular_rotation_transitive__p2m_b6f5758e_dc62_475d_9052_43aa820ea959_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:20:47.329232+00:00
 -- url     : https://prove2.me/theorems/a3a0a250-04a2-4577-b872-e6afd6b9d768

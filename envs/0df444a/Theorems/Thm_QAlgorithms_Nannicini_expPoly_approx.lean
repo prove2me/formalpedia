@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_expPoly_approx
 -- name    : QAlgorithms.Nannicini.expPoly_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:33.78356+00:00
 -- url     : https://prove2.me/theorems/3ab4ec56-4310-460e-a1b0-8eaf67f34dec

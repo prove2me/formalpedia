@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKKTBilevel_VP_eq_7
 -- name    : DirKKTBilevel.VP.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:27.544659+00:00
 -- url     : https://prove2.me/theorems/5f32b676-3a85-4f16-bb73-0e87b6db5383

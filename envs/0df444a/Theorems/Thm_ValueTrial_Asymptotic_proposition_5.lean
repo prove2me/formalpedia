@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueTrial_Asymptotic_proposition_5
 -- name    : ValueTrial.Asymptotic.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:17:35.081105+00:00
 -- url     : https://prove2.me/theorems/c7ceb561-375b-4ee6-bbb4-692da3740750

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_adiabatic_theorem_zero
 -- name    : QAlgorithms.Nannicini.adiabatic_theorem_zero
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:29.848076+00:00
 -- url     : https://prove2.me/theorems/c55ba26f-7bbe-426b-89be-1ebba5c73cb9

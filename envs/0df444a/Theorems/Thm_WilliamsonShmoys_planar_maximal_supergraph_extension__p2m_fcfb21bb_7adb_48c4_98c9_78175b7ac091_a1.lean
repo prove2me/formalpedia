@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_maximal_supergraph_extension__p2m_fcfb21bb_7adb_48c4_98c9_78175b7ac091_a1
 -- name    : WilliamsonShmoys.planar_maximal_supergraph_extension__p2m_fcfb21bb_7adb_48c4_98c9_78175b7ac091_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:24:08.70777+00:00
 -- url     : https://prove2.me/theorems/4af6ea92-4c22-435e-a0b4-a6c72b25ac6d

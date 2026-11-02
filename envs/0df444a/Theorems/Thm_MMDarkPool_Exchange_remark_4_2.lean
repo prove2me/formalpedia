@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MMDarkPool_Exchange_remark_4_2
 -- name    : MMDarkPool.Exchange.remark_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:36.930058+00:00
 -- url     : https://prove2.me/theorems/148378a8-24e7-4c1b-ba30-606c7e48e22e

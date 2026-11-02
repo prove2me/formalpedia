@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TestDistancing_Equilibrium_gammaL_mono
 -- name    : TestDistancing.Equilibrium.gammaL_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:16.406057+00:00
 -- url     : https://prove2.me/theorems/d30d75d9-9d06-4a4b-8cee-b59447b79d45

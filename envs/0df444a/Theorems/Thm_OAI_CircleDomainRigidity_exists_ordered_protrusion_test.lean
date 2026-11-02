@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_exists_ordered_protrusion_test
 -- name    : OAI.CircleDomainRigidity.exists_ordered_protrusion_test
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:37:22.756559+00:00
 -- url     : https://prove2.me/theorems/016dd060-40a1-4a03-9f4f-09753e842343

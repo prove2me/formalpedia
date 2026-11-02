@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CircleDomainRigidity_exists_signed_compact_scalar_circle_model
 -- name    : OAI.CircleDomainRigidity.exists_signed_compact_scalar_circle_model
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T05:38:25.87491+00:00
 -- url     : https://prove2.me/theorems/268beed4-d8e9-4966-877e-1f58b601d528

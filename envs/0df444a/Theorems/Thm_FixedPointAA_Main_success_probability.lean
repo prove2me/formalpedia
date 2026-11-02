@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedPointAA_Main_success_probability
 -- name    : FixedPointAA.Main.success_probability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:09.099407+00:00
 -- url     : https://prove2.me/theorems/66c57d6b-60e2-4ccd-b4cf-df49b2218c05

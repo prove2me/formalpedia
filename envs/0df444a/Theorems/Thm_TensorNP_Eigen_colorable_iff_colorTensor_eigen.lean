@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Eigen_colorable_iff_colorTensor_eigen
 -- name    : TensorNP.Eigen.colorable_iff_colorTensor_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:11.354488+00:00
 -- url     : https://prove2.me/theorems/bade250f-e016-46df-b106-66cfddc2148b

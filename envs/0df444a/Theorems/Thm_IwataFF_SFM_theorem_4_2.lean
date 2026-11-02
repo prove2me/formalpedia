@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IwataFF_SFM_theorem_4_2
 -- name    : IwataFF.SFM.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:22.287974+00:00
 -- url     : https://prove2.me/theorems/88eba2a3-8338-46ca-abb5-131f3a8d8b5d

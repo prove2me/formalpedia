@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_PartiallyObserved_unsatisfied_clause_cost
 -- name    : MDPComplexity.PartiallyObserved.unsatisfied_clause_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:02:40.284264+00:00
 -- url     : https://prove2.me/theorems/dd180dce-753d-444b-b6d3-e286ae6887cb

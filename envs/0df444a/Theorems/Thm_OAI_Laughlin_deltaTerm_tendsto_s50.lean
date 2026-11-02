@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_deltaTerm_tendsto_s50
 -- name    : OAI.Laughlin.deltaTerm_tendsto_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:45:28.252604+00:00
 -- url     : https://prove2.me/theorems/b4cf1f9e-f4a6-40e5-b520-7bc67cb00732

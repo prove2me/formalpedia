@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RatingsAdvert_AdInterval_lemma_1
 -- name    : RatingsAdvert.AdInterval.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T20:38:40.641364+00:00
 -- url     : https://prove2.me/theorems/37b537e7-f53b-469b-ac4f-4f71cbf66306

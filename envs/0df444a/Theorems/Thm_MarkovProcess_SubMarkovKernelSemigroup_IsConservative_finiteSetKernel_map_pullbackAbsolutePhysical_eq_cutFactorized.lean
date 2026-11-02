@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsConservative_finiteSetKernel_map_pullbackAbsolutePhysical_eq_cutFactorized
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsConservative.finiteSetKernel_map_pullbackAbsolutePhysical_eq_cutFactorized
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:32:30.686052+00:00
 -- url     : https://prove2.me/theorems/13ab7d38-1a46-49bd-911b-da72251634eb

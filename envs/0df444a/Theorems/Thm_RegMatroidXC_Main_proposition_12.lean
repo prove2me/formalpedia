@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMatroidXC_Main_proposition_12
 -- name    : RegMatroidXC.Main.proposition_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:16:48.796978+00:00
 -- url     : https://prove2.me/theorems/4b9e928c-46a3-48fb-8c56-8f5dd3a4820b

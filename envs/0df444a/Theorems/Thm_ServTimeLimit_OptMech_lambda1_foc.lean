@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServTimeLimit_OptMech_lambda1_foc
 -- name    : ServTimeLimit.OptMech.lambda1_foc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:42.158296+00:00
 -- url     : https://prove2.me/theorems/d4df7ade-2126-4893-9cd0-d69128039755

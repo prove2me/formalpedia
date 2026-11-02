@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_semigroup_positive_conservative
 -- name    : EthierKurtz.oblique_semigroup_positive_conservative
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-27T12:55:54.640174+00:00
 -- url     : https://prove2.me/theorems/efc9ffc9-7806-4f67-a59a-97cac50e7777

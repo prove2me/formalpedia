@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonAgencyVCG_Algorithmic_claim_3
 -- name    : CommonAgencyVCG.Algorithmic.claim_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:45.298359+00:00
 -- url     : https://prove2.me/theorems/cf646de8-a25d-4a76-8ad3-c960c73e4895

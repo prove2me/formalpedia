@@ -1,0 +1,79 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_wave5_02a_actual_source_intrinsic_sfinite_kernel
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-01T14:01:12.198606+00:00
+-- url     : https://prove2.me/submissions/c20bf14d-bc61-4037-8719-f608f58f326e
+
+import Mathlib
+import Theorems.Thm_AvramDividend_Classical_avram_wave5_02a_rational_grid_actual_jump_coverage
+import Theorems.Thm_AvramDividend_Classical_avram_wave5_02a_first_candidate_filter_covers_original_jumps
+import Theorems.Thm_AvramDividend_Classical_avram_wave5_02a_actual_jump_measure_eq_distinct_enumerated_diracs
+import Theorems.Thm_AvramDividend_Classical_avram_wave5_02a_original_jump_kernel_of_measurable_enumeration
+import Theorems.Thm_AvramDividend_Classical_avram_wave5_02a_original_predictable_kernel_measurable_of_source_sfinite_kernel
+import Theorems.Thm_AvramDividend_Classical_avram_wave5_02a_joint_original_predictable_mark_lift_measurable
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory ProbabilityTheory Set Filter Topology AvramDividend.Classical
+open scoped NNReal ENNReal
+
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕)
+    :
+    ∃ κ : Kernel Ω (ℝ≥0 × ℝ), IsSFiniteKernel κ ∧
+      ∀ ω, κ ω =
+        ((Measure.count.restrict {u : ℝ≥0 |
+          0 < u ∧ X.X u ω -
+            Function.leftLim (fun v : ℝ≥0 => X.X v ω) u ≠ 0}).map
+          (fun u : ℝ≥0 => (u, X.X u ω -
+            Function.leftLim (fun v : ℝ≥0 => X.X v ω) u))) := by
+  classical
+  obtain ⟨D, hcount, hdense⟩ := TopologicalSpace.exists_countable_dense ℝ≥0
+  have hnonempty : D.Nonempty := hdense.nonempty
+  obtain ⟨grid, hgrid⟩ := hcount.exists_eq_range hnonempty
+  have hdenseGrid : DenseRange grid := by
+    change Dense (Set.range grid)
+    rw [← hgrid]
+    exact hdense
+  obtain ⟨pairs, hpairs⟩ := exists_surjective_nat (ℕ × ℚ)
+  let T : ℕ → Ω → ℝ≥0 := fun k ω =>
+    (⨅ n : ℕ, {ω : Ω | grid (pairs k).1 < grid n ∧
+        X.X (grid n) ω < ((pairs k).2 : ℝ)}.piecewise
+      (fun _ => (grid n : ℝ≥0∞)) (fun _ => ⊤) ω).toNNReal
+  have hTC := avram_wave5_02a_rational_grid_actual_jump_coverage
+    X grid hdenseGrid pairs hpairs
+  have hT : ∀ n, Measurable (T n) := hTC.1
+  have hCover := hTC.2
+  let A : ℕ → Set Ω := fun n => {ω |
+    0 < T n ω ∧
+    X.X (T n ω) ω -
+      Function.leftLim (fun u : ℝ≥0 => X.X u ω) (T n ω) ≠ 0 ∧
+    ∀ m < n, T m ω ≠ T n ω}
+  have hFilter := avram_wave5_02a_actual_jump_candidates_measurable_dedup X T hT
+  have hA : ∀ n, MeasurableSet (A n) := hFilter.1
+  have hActive : ∀ ω n, ω ∈ A n → 0 < T n ω ∧
+      X.X (T n ω) ω -
+        Function.leftLim (fun v : ℝ≥0 => X.X v ω) (T n ω) ≠ 0 := by
+    intro ω n hn
+    exact ⟨hn.1, hn.2.1⟩
+  have hInject : ∀ ω n m, ω ∈ A n → ω ∈ A m → T n ω = T m ω → n = m := by
+    intro ω n m hn hm heq
+    by_contra hne
+    exact hFilter.2 ω n m hn hm hne heq
+  have hCoverActive := (avram_wave5_02a_first_candidate_filter_covers_original_jumps
+    X T hT hCover).2
+  let f : ℕ → Ω → ℝ≥0 × ℝ := fun n ω =>
+    (T n ω, X.X (T n ω) ω -
+      Function.leftLim (fun v : ℝ≥0 => X.X v ω) (T n ω))
+  have hf : ∀ n, Measurable (f n) := by
+    intro n
+    exact (hT n).prodMk
+      ((avram_wave4_04a_actual_levy_jumpmark_joint_measurable X).comp
+        ((hT n).prodMk measurable_id))
+  have hEnum := avram_wave5_02a_actual_jump_measure_eq_distinct_enumerated_diracs
+    X T A hActive hInject hCoverActive
+  exact avram_wave5_02a_original_jump_kernel_of_measurable_enumeration X A hA f hf hEnum

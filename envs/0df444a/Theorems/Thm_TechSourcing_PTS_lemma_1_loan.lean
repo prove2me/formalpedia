@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechSourcing_PTS_lemma_1_loan
 -- name    : TechSourcing.PTS.lemma_1_loan
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:42.8266+00:00
 -- url     : https://prove2.me/theorems/98af8e10-d4bd-4e7a-9d03-6ce3ed1c19a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapScaleML_ABCS_proposition_6_1
 -- name    : CapScaleML.ABCS.proposition_6_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:49:28.753352+00:00
 -- url     : https://prove2.me/theorems/37483b4b-214e-4e20-a369-59d2bbfd32b6

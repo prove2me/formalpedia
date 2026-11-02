@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NamikiStretch_Lossy_eq_24
 -- name    : NamikiStretch.Lossy.eq_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:48:38.178001+00:00
 -- url     : https://prove2.me/theorems/6da94312-e6a9-4eec-b588-6d4521ff2d8b

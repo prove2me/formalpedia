@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarlowTASI_ewr_rt_imp_jlms
 -- name    : HarlowTASI.ewr_rt_imp_jlms
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-20T21:06:23.720621+00:00
 -- url     : https://prove2.me/theorems/f45d2656-0437-4a29-ac00-348a38f721a7

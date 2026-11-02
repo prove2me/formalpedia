@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsConservative_continuousPathTrajectory_map_densePastRestriction_prod_shift
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsConservative.continuousPathTrajectory_map_densePastRestriction_prod_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:20.20506+00:00
 -- url     : https://prove2.me/theorems/d46d2104-0fb0-4990-ad6c-f6c0bcd5c9d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsConservative_rationalPastFutureRestartKernel_map_finitePastDenseFuture_restrict
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsConservative.rationalPastFutureRestartKernel_map_finitePastDenseFuture_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:57:36.610259+00:00
 -- url     : https://prove2.me/theorems/c070c725-1acf-4893-87b4-3ca591c7cde4

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Nannicini.adiabatic_theorem_linInterp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fizzyinc3
 -- created : 2026-10-18T01:09:42.251274+00:00
 -- url     : https://prove2.me/submissions/d8aa0956-ddd1-46c8-9b2a-a1b621d36ff0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QAlgorithms_Nannicini_adiabatic_theorem_integral_gap
 import Mathlib.Analysis.Calculus.Deriv.Mul

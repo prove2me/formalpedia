@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for EthierKurtz.oblique_semigroup_positive
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @caleb
 -- created : 2026-09-27T13:50:22.970831+00:00
 -- url     : https://prove2.me/submissions/3643b289-bd25-486a-a9cc-a4ca9f05f223
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_EthierKurtz_oblique_resolvent_positive
 import Theorems.Thm_EthierKurtz_oblique_semigroup_positive_of_resolvent

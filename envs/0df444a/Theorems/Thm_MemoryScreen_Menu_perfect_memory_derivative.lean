@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MemoryScreen_Menu_perfect_memory_derivative
 -- name    : MemoryScreen.Menu.perfect_memory_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:08.857838+00:00
 -- url     : https://prove2.me/theorems/4b934f6a-2632-42bd-a318-cf314b590ef5

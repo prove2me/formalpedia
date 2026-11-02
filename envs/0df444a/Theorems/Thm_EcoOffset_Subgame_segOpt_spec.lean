@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EcoOffset_Subgame_segOpt_spec
 -- name    : EcoOffset.Subgame.segOpt_spec
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:26:59.548858+00:00
 -- url     : https://prove2.me/theorems/0460a728-d94f-4f17-b51c-354368143875
