@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ofIsCompl_adjoint_comp
 -- name    : ofIsCompl_adjoint_comp
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:09:23.448201+00:00
 -- url     : https://prove2.me/theorems/41253d92-fd64-49ed-a64d-d41437ee7414

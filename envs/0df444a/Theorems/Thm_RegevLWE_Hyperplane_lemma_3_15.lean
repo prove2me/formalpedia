@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_Hyperplane_lemma_3_15
 -- name    : RegevLWE.Hyperplane.lemma_3_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:12:43.006982+00:00
 -- url     : https://prove2.me/theorems/17d61472-82d7-4981-9996-95fc304b1806

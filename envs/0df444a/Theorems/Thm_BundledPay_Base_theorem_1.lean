@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundledPay_Base_theorem_1
 -- name    : BundledPay.Base.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:54:40.74718+00:00
 -- url     : https://prove2.me/theorems/faca838a-e5d6-45be-a98b-9df600226137

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_source_fourBody_limitpositive_s50
 -- name    : OAI.Laughlin.Fock.source_fourBody_limitpositive_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:54:40.933251+00:00
 -- url     : https://prove2.me/theorems/4a2d5085-cac0-4afe-8d51-7c4b3608108e

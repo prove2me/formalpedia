@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompoundSMM_Conv_decomposition_e123
 -- name    : CompoundSMM.Conv.decomposition_e123
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:28.479402+00:00
 -- url     : https://prove2.me/theorems/cd5c04f6-d759-4342-aee1-14e6d6765171

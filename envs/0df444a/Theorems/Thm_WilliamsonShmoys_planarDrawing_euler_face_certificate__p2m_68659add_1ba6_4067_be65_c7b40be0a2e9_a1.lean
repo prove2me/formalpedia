@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawing_euler_face_certificate__p2m_68659add_1ba6_4067_be65_c7b40be0a2e9_a1
 -- name    : WilliamsonShmoys.planarDrawing_euler_face_certificate__p2m_68659add_1ba6_4067_be65_c7b40be0a2e9_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:46:06.297296+00:00
 -- url     : https://prove2.me/theorems/fc75ed8d-2c02-4ee5-b600-f137d709d1e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeteroBass_HetP_theorem_3
 -- name    : HeteroBass.HetP.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:18:04.450978+00:00
 -- url     : https://prove2.me/theorems/8683f4ad-fe93-497a-b988-4dee1f89f442

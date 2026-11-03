@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_Concentration_lemma1_alg_lower_tail
 -- name    : RandomListsMatching.Concentration.lemma1_alg_lower_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:07:43.52615+00:00
 -- url     : https://prove2.me/theorems/c2156cdd-6a64-4d11-82e4-340e06b310ac

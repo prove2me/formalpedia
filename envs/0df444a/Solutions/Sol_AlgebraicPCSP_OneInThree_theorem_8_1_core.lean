@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicPCSP.OneInThree.theorem_8_1_core
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T01:59:14.574999+00:00
 -- url     : https://prove2.me/submissions/54a67478-7ce0-4d54-87e7-a56548bc402a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PCSPBLPAff_Symmetric_Setting

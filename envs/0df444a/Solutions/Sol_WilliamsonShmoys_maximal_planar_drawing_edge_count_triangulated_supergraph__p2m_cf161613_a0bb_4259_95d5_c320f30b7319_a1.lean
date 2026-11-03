@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_drawing_edge_count_triangulated_supergraph__p2m_cf161613_a0bb_4259_95d5_c320f30b7319_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:24:42.103207+00:00
 -- url     : https://prove2.me/submissions/b281ae55-add6-4151-8034-a078db40c3ce
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_exists_maximum_drawable_supergraph__p2m_14ab409d_ba46_4520_b2b1_fae32ccc2155_a1

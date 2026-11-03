@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_threeBody_haar_offdiagonal_block_s50
 -- name    : OAI.Laughlin.Spin.threeBody_haar_offdiagonal_block_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:01:37.373211+00:00
 -- url     : https://prove2.me/theorems/ac8bdb58-74a2-4892-9ea5-05de78006799

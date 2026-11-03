@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.neighborly_cubical_realization
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:28:38.986742+00:00
 -- url     : https://prove2.me/submissions/3bf73c72-16e0-4bec-a8d3-2d50b3212acc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsCubicalDPolytope
 import Definitions.Def_Grunbaum2003_SkeletonFace

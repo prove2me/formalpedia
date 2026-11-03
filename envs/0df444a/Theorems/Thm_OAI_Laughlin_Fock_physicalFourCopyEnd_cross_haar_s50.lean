@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physicalFourCopyEnd_cross_haar_s50
 -- name    : OAI.Laughlin.Fock.physicalFourCopyEnd_cross_haar_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:51:55.268308+00:00
 -- url     : https://prove2.me/theorems/f6bce186-fa80-45c6-add7-d067e92b9d93

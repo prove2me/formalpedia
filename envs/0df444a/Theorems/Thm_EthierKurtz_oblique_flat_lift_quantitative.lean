@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_flat_lift_quantitative
 -- name    : EthierKurtz.oblique_flat_lift_quantitative
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-02T04:29:10.581611+00:00
 -- url     : https://prove2.me/theorems/25f26add-d8b0-4ddb-aa17-4ea37fe3f39a

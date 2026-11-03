@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_Galois_transitivity
 -- name    : SymBoolPCSP.Galois.transitivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:18.371236+00:00
 -- url     : https://prove2.me/theorems/af033018-46ea-45a3-9a75-ce1c48488738

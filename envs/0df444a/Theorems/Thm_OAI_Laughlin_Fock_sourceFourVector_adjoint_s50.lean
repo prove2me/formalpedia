@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_sourceFourVector_adjoint_s50
 -- name    : OAI.Laughlin.Fock.sourceFourVector_adjoint_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:45:01.071871+00:00
 -- url     : https://prove2.me/theorems/e334c120-b82d-4c31-ba04-471c236d544a

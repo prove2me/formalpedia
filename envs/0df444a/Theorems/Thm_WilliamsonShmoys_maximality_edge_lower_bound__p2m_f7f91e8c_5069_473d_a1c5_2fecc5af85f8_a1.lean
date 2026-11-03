@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximality_edge_lower_bound__p2m_f7f91e8c_5069_473d_a1c5_2fecc5af85f8_a1
 -- name    : WilliamsonShmoys.maximality_edge_lower_bound__p2m_f7f91e8c_5069_473d_a1c5_2fecc5af85f8_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:25:14.847559+00:00
 -- url     : https://prove2.me/theorems/caf31ad8-7627-4591-a986-7fd32a9eba8e

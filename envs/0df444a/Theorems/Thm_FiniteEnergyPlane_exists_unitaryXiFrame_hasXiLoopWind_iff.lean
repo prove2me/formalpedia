@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_unitaryXiFrame_hasXiLoopWind_iff
 -- name    : FiniteEnergyPlane.exists_unitaryXiFrame_hasXiLoopWind_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:37:33.65458+00:00
 -- url     : https://prove2.me/theorems/ccbe5d28-69bb-40b9-afe0-38bdace12be1

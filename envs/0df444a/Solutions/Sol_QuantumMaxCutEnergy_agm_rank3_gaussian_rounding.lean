@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumMaxCutEnergy.agm_rank3_gaussian_rounding
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-01T19:20:02.925309+00:00
 -- url     : https://prove2.me/submissions/ffe00ee5-af9d-4528-ab7d-3784ab65e44b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_QuantumMaxCutEnergyEstimationModel

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeteroBass_HetP_lemma_4
 -- name    : HeteroBass.HetP.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:18:16.16198+00:00
 -- url     : https://prove2.me/theorems/1b90450c-1162-43d1-bba0-6ad2ddf0b7e8

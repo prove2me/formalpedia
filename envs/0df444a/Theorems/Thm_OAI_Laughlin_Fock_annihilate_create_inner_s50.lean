@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_annihilate_create_inner_s50
 -- name    : OAI.Laughlin.Fock.annihilate_create_inner_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:43:22.315756+00:00
 -- url     : https://prove2.me/theorems/ca826e54-7fad-4d0b-a762-0b4a4ad27f4e

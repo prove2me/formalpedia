@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_CartanWordModel_exists_compact_template_profile_paths
 -- name    : OAI.PolycyclicRecognition.CartanWordModel.exists_compact_template_profile_paths
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:35:01.447287+00:00
 -- url     : https://prove2.me/theorems/d190f819-422b-4e9d-bfdd-41583bcdfeed

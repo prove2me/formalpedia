@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_threeBodyGram_highest_first_coordinate_s50
 -- name    : OAI.Laughlin.Fock.threeBodyGram_highest_first_coordinate_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:45:54.341126+00:00
 -- url     : https://prove2.me/theorems/74325d8c-37f9-4772-a7ec-d6d2edd8ca9c

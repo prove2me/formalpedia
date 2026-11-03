@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_card_of_inclusion_maximal_planar__p2m_bf9cfcbc_5b59_49b9_abb2_d36aa9cb22f2_a1
 -- name    : WilliamsonShmoys.edge_card_of_inclusion_maximal_planar__p2m_bf9cfcbc_5b59_49b9_abb2_d36aa9cb22f2_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:20:24.795645+00:00
 -- url     : https://prove2.me/theorems/6fea05f3-38bb-4c39-a43f-259b933c0070

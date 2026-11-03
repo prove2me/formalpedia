@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_sourceFockHamiltonian_fockInclusion_s50
 -- name    : OAI.Laughlin.Fock.sourceFockHamiltonian_fockInclusion_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:44:37.174201+00:00
 -- url     : https://prove2.me/theorems/0881b658-4612-4bfd-b82c-b190c723fc65

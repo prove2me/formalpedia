@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawingOn_edge_count_upper__p2m_10767c1e_3761_455c_b81d_2c159386481f_a1
 -- name    : WilliamsonShmoys.planarDrawingOn_edge_count_upper__p2m_10767c1e_3761_455c_b81d_2c159386481f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:00:26.720088+00:00
 -- url     : https://prove2.me/theorems/f2f8478a-ac3d-4094-98b9-a21bbb0fec9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_face_count__p2m_69e73f60_1756_4e30_afbd_efe3ac2bd3ed_a1
 -- name    : WilliamsonShmoys.connected_planar_face_count__p2m_69e73f60_1756_4e30_afbd_efe3ac2bd3ed_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:18:50.353653+00:00
 -- url     : https://prove2.me/theorems/7e43e1d3-8cc5-4078-adc3-512d6b4c19e6

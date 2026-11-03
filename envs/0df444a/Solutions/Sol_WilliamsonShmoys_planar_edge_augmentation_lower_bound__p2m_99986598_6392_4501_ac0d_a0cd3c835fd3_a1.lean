@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_edge_augmentation_lower_bound__p2m_99986598_6392_4501_ac0d_a0cd3c835fd3_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:30:18.0982+00:00
 -- url     : https://prove2.me/submissions/d0e450cb-17a7-49e8-b9de-32f860d71052
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_exists_maximal_planar_supergraph__p2m_5e34af62_bc93_4e27_8f77_f0a9265acaf1_a1

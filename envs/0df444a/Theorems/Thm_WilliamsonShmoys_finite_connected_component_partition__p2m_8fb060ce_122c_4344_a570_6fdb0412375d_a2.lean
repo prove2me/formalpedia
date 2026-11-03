@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_connected_component_partition__p2m_8fb060ce_122c_4344_a570_6fdb0412375d_a2
 -- name    : WilliamsonShmoys.finite_connected_component_partition__p2m_8fb060ce_122c_4344_a570_6fdb0412375d_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:51:23.423246+00:00
 -- url     : https://prove2.me/theorems/43810500-1f43-4f26-9fb2-357a895d104d

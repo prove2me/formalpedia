@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.connected_planar_triangulation_extension__p2m_f4393a1a_6488_409a_9977_8b12369644ba_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:54:37.574179+00:00
 -- url     : https://prove2.me/submissions/fafdc15b-7bdb-42b8-a63c-095a0c8d01c4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_extension_maximal_supergraph__p2m_06bdf4fe_cd1d_4093_b45f_6118505c9d7e_a1
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count__p2m_06bdf4fe_cd1d_4093_b45f_6118505c9d7e_a1

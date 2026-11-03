@@ -2128,7 +2128,7 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Generic.dF_1_1_2", "child": "Atlas_EinsteinMaxwell_ES5_Defs", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_PellLightPrefixData53_Definitions_002", "child": "D1Bound5_PellLightCF_Definitions", "via": ["statement"]}
 {"parent": "D1Bound5_PellLightPrefixData53_Definitions_002", "child": "D1Bound5_PellLightPrefixData53_Definitions_001", "via": ["statement"]}
-{"parent": "NQueensComp.NPC.lemma_35", "child": "NQueensComp_NPC_Reductions", "via": ["statement"]}
+{"parent": "NQueensComp.NPC.lemma_35", "child": "NQueensComp_NPC_Reductions", "via": ["solution", "statement"]}
 {"parent": "FunctionalInequalities.Probability.Diffusion.diffusionGenerator_transport_readable", "child": "KLSModular_FunctionalInequalities_Probability_Diffusion_Generator", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared0", "child": "Sensitivity213981Formal_NamespacesComplete", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared0", "child": "Sensitivity213981Formal_Endpoint22FastTree", "via": ["solution", "statement"]}
@@ -2444,7 +2444,7 @@
 {"parent": "D1Bound5.oneSmallThirds_34_checked", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.oneSmallThirds_34_checked", "child": "D1Bound5_OneSmallFiniteCheck_Definitions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1064_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "NQueensComp.NPC.lemma_12", "child": "NQueensComp_NPC_Reductions", "via": ["statement"]}
+{"parent": "NQueensComp.NPC.lemma_12", "child": "NQueensComp_NPC_Reductions", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.disconnected_vertices_not_reachable_card_ge_three", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAIQ036S006", "child": "OAIQ036S004", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_triangulation_extension_96423339_d6c7_499e_a706_076681b42078", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
@@ -12702,7 +12702,7 @@
 {"parent": "OAI.CannonEmbeddedArc.Arc.face_incidence_card_le", "child": "OAIQ046C000", "via": ["solution", "statement"]}
 {"parent": "DeFinettiSDP.Hierarchy.lemma_2_1", "child": "WildeQIT_traceNorm", "via": ["statement"]}
 {"parent": "DeFinettiSDP.Hierarchy.lemma_2_1", "child": "DeFinettiSDP_Hierarchy_Conditional", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_connected_extension_same_vertices", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_connected_extension_same_vertices", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff6.positive_w035_s4", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "OAI.PlanarFalconer.original_distance_graph_integral_bound", "child": "PlanarFalconer", "via": ["solution", "statement"]}
 {"parent": "OAI.PlanarFalconer.original_distance_graph_integral_bound", "child": "OAIQ038F002", "via": ["solution", "statement"]}
@@ -14578,7 +14578,7 @@
 {"parent": "OAI.PiExponent.FormalInterpolation.weighted_generic_slice", "child": "OAI_PiExponent_LogarithmicNormalBases", "via": ["solution", "statement"]}
 {"parent": "ArdaRH65K_Data060", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.box_nonnegative_w1178", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_edge_bound_for_three_or_more_vertices_connect_components", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_edge_bound_for_three_or_more_vertices_connect_components", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_SmallPairGraphData20_Definitions_001", "child": "D1Bound5_Coordinates_Definitions", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.bv_finite_activity_zero_reflected_first_jump_payout", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.bv_finite_activity_zero_reflected_first_jump_payout", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
@@ -38648,7 +38648,7 @@
 {"parent": "OAIQ082C006", "child": "OAIQ082C000", "via": ["statement"]}
 {"parent": "OAIQ082C006", "child": "OAIQ082C002", "via": ["statement"]}
 {"parent": "OAIQ082C006", "child": "OAIQ082C001", "via": ["statement"]}
-{"parent": "NQueensComp.NPC.lemma_34", "child": "NQueensComp_NPC_Reductions", "via": ["statement"]}
+{"parent": "NQueensComp.NPC.lemma_34", "child": "NQueensComp_NPC_Reductions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1215_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "OAIQ5T2000", "child": "Brenier", "via": ["statement"]}
 {"parent": "OAIQ035K070", "child": "MetricKMedian", "via": ["statement"]}
@@ -41502,7 +41502,7 @@
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_block_49_87", "child": "SensitivityCampaign", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_block_49_87", "child": "Sensitivity213981Formal_Endpoint22StrictPacked", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_block_49_87", "child": "Sensitivity213981Formal_Namespaces", "via": ["solution", "statement"]}
-{"parent": "NQueensComp.NPC.lemma_11", "child": "NQueensComp_NPC_Reductions", "via": ["statement"]}
+{"parent": "NQueensComp.NPC.lemma_11", "child": "NQueensComp_NPC_Reductions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c301080_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c304075_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "BregmanDistance.nonneg", "child": "BregmanPPA_Convergence_Model", "via": ["solution", "statement"]}
@@ -62925,8 +62925,8 @@
 {"parent": "CountingMatroid.Analysis.RestartDrawProbeScanReplay.probedBody_scan_replay", "child": "CountingMatroidSupport_Computation_Queue", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.RestartDrawProbeScanReplay.probedBody_scan_replay", "child": "CountingMatroid_Analysis_BoundedRunPhase", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.cross_sample_path_law_eq_of_finite_cylinder_masses", "child": "AvramDividend.Classical.piPathMeasure_eq_of_finite_cylinder_masses", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core_positive_cap", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core_positive_cap", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core_positive_cap", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core_positive_cap", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteN2CutoffWeights_23_valid", "child": "D1Bound5_OneSmallCutoffArithmetic_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteN2CutoffWeights_23_valid", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteN2CutoffWeights_23_valid", "child": "D1Bound5_OneSmallN2FixedArithmetic_Definitions", "via": ["solution", "statement"]}

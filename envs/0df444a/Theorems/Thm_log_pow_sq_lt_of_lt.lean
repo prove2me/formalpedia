@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_log_pow_sq_lt_of_lt
 -- name    : log_pow_sq_lt_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:08:34.230796+00:00
 -- url     : https://prove2.me/theorems/f46b8839-9575-4122-be03-fb0c638890d5

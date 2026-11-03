@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_CartanWordModel_exists_good_conjugated_word_paths
 -- name    : OAI.PolycyclicRecognition.CartanWordModel.exists_good_conjugated_word_paths
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:36:00.178956+00:00
 -- url     : https://prove2.me/theorems/02ce0911-c7e7-4187-b888-60c230024e3c

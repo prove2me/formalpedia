@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximalPlanarExtensionCardinality__p2m_0ab193fe_0f8a_4383_a58d_9f4c1a7627f8_a3
 -- name    : WilliamsonShmoys.maximalPlanarExtensionCardinality__p2m_0ab193fe_0f8a_4383_a58d_9f4c1a7627f8_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:53:11.388816+00:00
 -- url     : https://prove2.me/theorems/fdcf6722-88f2-45ca-bb18-4e42aed9226b

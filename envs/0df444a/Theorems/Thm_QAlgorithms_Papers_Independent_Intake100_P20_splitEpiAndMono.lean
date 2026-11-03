@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_splitEpiAndMono
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.splitEpiAndMono
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:32:26.477121+00:00
 -- url     : https://prove2.me/theorems/d016e849-2e4e-4e41-b785-f1fad0193d87

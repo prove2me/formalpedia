@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P32_cgCover_hasOpenRefinement
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P32.cgCover_hasOpenRefinement
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T06:45:32.85947+00:00
 -- url     : https://prove2.me/theorems/417b588d-783e-44ff-a119-4580bbc4869f

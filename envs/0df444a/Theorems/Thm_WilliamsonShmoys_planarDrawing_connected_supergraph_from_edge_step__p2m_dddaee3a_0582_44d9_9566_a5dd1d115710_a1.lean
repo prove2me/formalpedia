@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawing_connected_supergraph_from_edge_step__p2m_dddaee3a_0582_44d9_9566_a5dd1d115710_a1
 -- name    : WilliamsonShmoys.planarDrawing_connected_supergraph_from_edge_step__p2m_dddaee3a_0582_44d9_9566_a5dd1d115710_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:29:25.176704+00:00
 -- url     : https://prove2.me/theorems/aa9f8502-788d-4376-8cf6-48061960ef49

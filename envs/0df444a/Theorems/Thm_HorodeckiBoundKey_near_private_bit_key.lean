@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HorodeckiBoundKey_near_private_bit_key
 -- name    : HorodeckiBoundKey.near_private_bit_key
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:15:43.732709+00:00
 -- url     : https://prove2.me/theorems/f60c8594-8b65-4129-9152-042a3eb6393f

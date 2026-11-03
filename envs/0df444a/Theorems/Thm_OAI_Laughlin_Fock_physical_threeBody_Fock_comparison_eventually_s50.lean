@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_threeBody_Fock_comparison_eventually_s50
 -- name    : OAI.Laughlin.Fock.physical_threeBody_Fock_comparison_eventually_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:58:40.906382+00:00
 -- url     : https://prove2.me/theorems/94979569-9fd4-4fe5-8d23-4a13b5658aa2

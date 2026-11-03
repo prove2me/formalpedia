@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_cartan_cocycle_approximation
 -- name    : OAI.PolycyclicRecognition.cartan_cocycle_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:42:15.267954+00:00
 -- url     : https://prove2.me/theorems/8e0f624e-e96a-4d98-b331-500103917937

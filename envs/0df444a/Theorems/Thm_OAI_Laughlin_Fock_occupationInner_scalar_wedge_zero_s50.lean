@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_occupationInner_scalar_wedge_zero_s50
 -- name    : OAI.Laughlin.Fock.occupationInner_scalar_wedge_zero_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:44:08.90376+00:00
 -- url     : https://prove2.me/theorems/2af966f9-a2e8-46b3-95b9-35f9bac9b520

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_relativeHighestNorm_tendsto_s50
 -- name    : OAI.Laughlin.Spin.relativeHighestNorm_tendsto_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:47:26.098199+00:00
 -- url     : https://prove2.me/theorems/ad599897-3b89-423f-a74b-0ac8d4ad2fe6

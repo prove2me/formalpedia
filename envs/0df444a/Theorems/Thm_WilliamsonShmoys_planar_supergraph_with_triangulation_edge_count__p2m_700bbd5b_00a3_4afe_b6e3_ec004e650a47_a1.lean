@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_with_triangulation_edge_count__p2m_700bbd5b_00a3_4afe_b6e3_ec004e650a47_a1
 -- name    : WilliamsonShmoys.planar_supergraph_with_triangulation_edge_count__p2m_700bbd5b_00a3_4afe_b6e3_ec004e650a47_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:59:59.978202+00:00
 -- url     : https://prove2.me/theorems/5adcef95-78da-42fb-a9d7-cfb89d379e66

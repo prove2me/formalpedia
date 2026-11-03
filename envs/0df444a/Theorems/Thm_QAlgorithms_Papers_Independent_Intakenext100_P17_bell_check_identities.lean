@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P17_bell_check_identities
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P17.bell_check_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T04:17:57.01103+00:00
 -- url     : https://prove2.me/theorems/2d19af35-e0ec-43a1-a053-21e53fc76753

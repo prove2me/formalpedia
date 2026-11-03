@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_exists_intrinsic_smooth_coordinates
 -- name    : OAI.PolycyclicRecognition.exists_intrinsic_smooth_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:01:04.282473+00:00
 -- url     : https://prove2.me/theorems/129b9cf4-d236-4651-9c50-bbf2b8283c88

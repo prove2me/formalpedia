@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlottoLP_Flow_best_response_dp
 -- name    : BlottoLP.Flow.best_response_dp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:56.297414+00:00
 -- url     : https://prove2.me/theorems/5e750149-3260-48eb-954b-c8630f5182de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_disconnected_supergraph_bridge__p2m_b2249a9b_0ed4_4e0a_b974_67058e424e5f_a1
 -- name    : WilliamsonShmoys.planar_disconnected_supergraph_bridge__p2m_b2249a9b_0ed4_4e0a_b974_67058e424e5f_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:45:01.297748+00:00
 -- url     : https://prove2.me/theorems/70a1b3ee-3cfa-4fc7-a9eb-9c28f3782b43

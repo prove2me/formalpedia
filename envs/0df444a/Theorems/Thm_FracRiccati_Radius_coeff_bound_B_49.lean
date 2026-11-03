@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracRiccati_Radius_coeff_bound_B_49
 -- name    : FracRiccati.Radius.coeff_bound_B_49
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:04.031776+00:00
 -- url     : https://prove2.me/theorems/85eddb23-ae41-4f60-aa07-57440e86dfa0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracRiccati_Radius_lemma_A_1
 -- name    : FracRiccati.Radius.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:22.957172+00:00
 -- url     : https://prove2.me/theorems/6378db5c-af28-4e22-b3fe-2e3b4b2d0771

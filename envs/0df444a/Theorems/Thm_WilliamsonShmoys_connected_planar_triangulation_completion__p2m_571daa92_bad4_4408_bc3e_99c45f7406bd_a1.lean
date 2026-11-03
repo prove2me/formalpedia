@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_triangulation_completion__p2m_571daa92_bad4_4408_bc3e_99c45f7406bd_a1
 -- name    : WilliamsonShmoys.connected_planar_triangulation_completion__p2m_571daa92_bad4_4408_bc3e_99c45f7406bd_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:53:44.904475+00:00
 -- url     : https://prove2.me/theorems/8b510604-ecbe-41a0-8ffc-c43a355d8485

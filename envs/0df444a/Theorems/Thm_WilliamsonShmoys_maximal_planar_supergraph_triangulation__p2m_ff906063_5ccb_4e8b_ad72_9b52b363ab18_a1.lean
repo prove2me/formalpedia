@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_supergraph_triangulation__p2m_ff906063_5ccb_4e8b_ad72_9b52b363ab18_a1
 -- name    : WilliamsonShmoys.maximal_planar_supergraph_triangulation__p2m_ff906063_5ccb_4e8b_ad72_9b52b363ab18_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:37:42.675194+00:00
 -- url     : https://prove2.me/theorems/3c9d29e6-223d-45fd-8079-57d4a2d204ad

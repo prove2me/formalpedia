@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_joswig_ziegler_cubical_realization_and_vertex_equiv
 -- name    : Grunbaum2003.joswig_ziegler_cubical_realization_and_vertex_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:21:44.499722+00:00
 -- url     : https://prove2.me/theorems/5c718720-dac8-4a93-a5c6-fd9c74bd0660

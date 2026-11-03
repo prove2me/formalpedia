@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_GaussConv_smoothing_remark
 -- name    : RegevLWE.GaussConv.smoothing_remark
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:08:12.198124+00:00
 -- url     : https://prove2.me/theorems/12b69967-acc5-4d0e-89bd-504dbade94c1

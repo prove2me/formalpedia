@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Characterization_lemma_9_finite_subset_hom
 -- name    : PCSPBLPAff.Characterization.lemma_9_finite_subset_hom
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:08:16.24402+00:00
 -- url     : https://prove2.me/theorems/a9c42a00-d20d-4f13-841c-6d8607ea2c1c

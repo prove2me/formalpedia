@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NishtAbel2024_theorems_10_11_and_12
 -- name    : NishtAbel2024.theorems_10_11_and_12
--- status  : Open
+-- status  : Disproved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T19:06:18.485248+00:00
 -- url     : https://prove2.me/theorems/b43339d8-647a-4962-ba44-0b270f6a5742
@@ -8,6 +8,20 @@
 --   Constraint Orientation in CompareTypes (Theorem 10) and Bipartiteness of Call-Site Constraint Graphs (Theorems 11 & 12)
 -- statement:
 --   Theorems 10, 11, and 12 (Section 6.3, pp. 52–56): (1) every constraint mentioning a polarized size variable `i` in `CompareTypes Φ Δ ι π A C Cs` is oriented according to `a ≤^{π π' π''} i`; (2) `InferTerm` and `CheckTerm` preserve fixpoint polarity invariants and emit no constraint from a flexible variable to a tracked variable `i ∈ X`; and (3) across any encoded copattern clause body, no constraint has a flexible variable on the LHS and a rigid variable on the RHS.
+--
+--   **Superseded.** This is the first formalization of Theorems 10–12 (pp. 52–56) of
+--   the thesis. It is refuted through its Theorem 11 conjunct by the disproof
+--   `66d9f635-be98-4efa-83f1-846d677c4882`. A positive rigid size variable $i$ occurs twice in the
+--   type $\nu^i\{d_0 : \mu^i\{\}\}$ of a variable $x$, inside a least fixpoint and
+--   also at the outer greatest fixpoint. The statement's hypotheses check only one
+--   occurrence and accept this. Inferring the projection $x.d_0$ then emits a
+--   constraint $j < i$ with a fresh flexible variable $j$, which Theorem 11 forbids.
+--   The thesis requires that, for positive polarity, all occurrences of a rigid
+--   variable lie in least fixpoints (§6.3.4), so this is a missing hypothesis, not a
+--   counterexample to the thesis. Corrected statement:
+--   `NishtAbel2024V2.theorems_10_11_and_12`. It concerns the instrumented judgments
+--   `GuardedCompareTypes`, `SafeInferTerm` and `SafeCheckTerm`, which track size
+--   occurrences explicitly.
 -- source:
 --   Kanstantsin Nisht, 'Type-Based Termination Checking in Agda', Master's Thesis in Computer Science and Engineering, Chalmers University of Technology and University of Gothenburg (supervised by Andreas Abel), 2024; extended abstract by Kanstantsin Nisht and Andreas Abel, 30th International Conference on Types for Proofs and Programs (TYPES 2024). Section 6.3, Theorem 10 (p. 52), Theorem 11 (pp. 54–55), and Theorem 12 (p. 56).
 

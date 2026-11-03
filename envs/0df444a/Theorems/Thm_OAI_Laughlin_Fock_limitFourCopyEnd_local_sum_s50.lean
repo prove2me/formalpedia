@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_limitFourCopyEnd_local_sum_s50
 -- name    : OAI.Laughlin.Fock.limitFourCopyEnd_local_sum_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:43:48.536058+00:00
 -- url     : https://prove2.me/theorems/b9bdbe0f-d9d4-4e6d-aca5-d79e1fa4be41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_facial_lengths__p2m_89410822_d74b_4a7e_a2
 -- name    : WilliamsonShmoys.planar_drawing_facial_lengths__p2m_89410822_d74b_4a7e_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:12:46.807126+00:00
 -- url     : https://prove2.me/theorems/bc9cd380-c5b9-4141-b573-8fb0410f4911

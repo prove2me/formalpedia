@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_limitFourCopyEnd_matrix_expansion_s50
 -- name    : OAI.Laughlin.Fock.limitFourCopyEnd_matrix_expansion_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:43:49.003892+00:00
 -- url     : https://prove2.me/theorems/d8ec74c1-51ce-431e-b42a-24582ca8f6e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_planarDrawingOn_lower_bound__p2m_4f160dcf_31cc_41b6_9e73_2a2d16cdab21_a1
 -- name    : WilliamsonShmoys.edge_maximal_planarDrawingOn_lower_bound__p2m_4f160dcf_31cc_41b6_9e73_2a2d16cdab21_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T06:51:31.022947+00:00
 -- url     : https://prove2.me/theorems/bfa78551-440c-46c3-a993-a460d980df6b

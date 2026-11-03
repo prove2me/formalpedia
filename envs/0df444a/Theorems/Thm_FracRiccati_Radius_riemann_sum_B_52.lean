@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracRiccati_Radius_riemann_sum_B_52
 -- name    : FracRiccati.Radius.riemann_sum_B_52
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:16.095037+00:00
 -- url     : https://prove2.me/theorems/f00b22c1-be70-4306-88f4-3ae25cf4282e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_exists_triangulable_model_of_representations
 -- name    : OAI.PolycyclicRecognition.exists_triangulable_model_of_representations
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:26:33.677763+00:00
 -- url     : https://prove2.me/theorems/a02c3d49-9326-4507-96b7-0b6ddbef4c42

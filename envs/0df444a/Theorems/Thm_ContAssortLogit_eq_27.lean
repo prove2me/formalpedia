@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContAssortLogit_eq_27
 -- name    : ContAssortLogit.eq_27
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:35:28.417676+00:00
 -- url     : https://prove2.me/theorems/fe7d4768-76d8-4fcb-ab87-7428a96c4ebf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_GaussConv_pointwise_bound
 -- name    : RegevLWE.GaussConv.pointwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:08:17.014981+00:00
 -- url     : https://prove2.me/theorems/16bde345-62b5-488e-be84-6dae5649eaef

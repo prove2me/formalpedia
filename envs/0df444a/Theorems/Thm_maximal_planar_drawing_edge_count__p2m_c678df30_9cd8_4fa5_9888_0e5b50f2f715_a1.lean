@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_maximal_planar_drawing_edge_count__p2m_c678df30_9cd8_4fa5_9888_0e5b50f2f715_a1
 -- name    : maximal_planar_drawing_edge_count__p2m_c678df30_9cd8_4fa5_9888_0e5b50f2f715_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:31:30.110841+00:00
 -- url     : https://prove2.me/theorems/3aaeb753-8214-46cb-ae23-34cf4eb39be4

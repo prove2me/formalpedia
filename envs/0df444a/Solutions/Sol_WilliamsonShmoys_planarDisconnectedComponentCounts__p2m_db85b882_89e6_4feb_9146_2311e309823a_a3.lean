@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planarDisconnectedComponentCounts__p2m_db85b882_89e6_4feb_9146_2311e309823a_a3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:55:59.649485+00:00
 -- url     : https://prove2.me/submissions/850e3203-72ff-45ce-a57f-c95c6f5a17c8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planarDisconnectedComponentPartitionCounts__p2m_d29cc926_0e2e_4704_bc36_256caa004206_a1

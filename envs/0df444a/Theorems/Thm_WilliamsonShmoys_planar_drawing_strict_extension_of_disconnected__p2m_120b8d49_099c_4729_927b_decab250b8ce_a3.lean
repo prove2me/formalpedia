@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_strict_extension_of_disconnected__p2m_120b8d49_099c_4729_927b_decab250b8ce_a3
 -- name    : WilliamsonShmoys.planar_drawing_strict_extension_of_disconnected__p2m_120b8d49_099c_4729_927b_decab250b8ce_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:19:59.912391+00:00
 -- url     : https://prove2.me/theorems/10f04ae6-54c9-4ed6-b5cd-b1cd1816504e

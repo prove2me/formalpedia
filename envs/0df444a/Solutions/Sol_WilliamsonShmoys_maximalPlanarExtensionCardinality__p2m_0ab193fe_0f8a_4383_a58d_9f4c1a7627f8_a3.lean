@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximalPlanarExtensionCardinality__p2m_0ab193fe_0f8a_4383_a58d_9f4c1a7627f8_a3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T08:19:09.580139+00:00
 -- url     : https://prove2.me/submissions/b6ebabb7-244d-47ef-bb1b-3dd3f014e8ab
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

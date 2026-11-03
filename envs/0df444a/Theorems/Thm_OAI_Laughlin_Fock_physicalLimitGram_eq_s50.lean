@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physicalLimitGram_eq_s50
 -- name    : OAI.Laughlin.Fock.physicalLimitGram_eq_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:44:14.479193+00:00
 -- url     : https://prove2.me/theorems/0403a8b4-3aae-4040-9302-5c3ad1c6284a

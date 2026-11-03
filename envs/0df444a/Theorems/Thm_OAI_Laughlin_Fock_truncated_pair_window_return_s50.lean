@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_truncated_pair_window_return_s50
 -- name    : OAI.Laughlin.Fock.truncated_pair_window_return_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:55:55.205022+00:00
 -- url     : https://prove2.me/theorems/03da500d-5fb4-4972-9863-7536c5665026

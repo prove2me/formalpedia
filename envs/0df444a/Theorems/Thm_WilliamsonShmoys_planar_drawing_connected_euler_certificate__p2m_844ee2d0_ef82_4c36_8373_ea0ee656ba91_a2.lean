@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_euler_certificate__p2m_844ee2d0_ef82_4c36_8373_ea0ee656ba91_a2
 -- name    : WilliamsonShmoys.planar_drawing_connected_euler_certificate__p2m_844ee2d0_ef82_4c36_8373_ea0ee656ba91_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T13:02:59.482265+00:00
 -- url     : https://prove2.me/theorems/e37f737c-f285-4a30-83a0-16b070403a61

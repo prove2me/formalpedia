@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_polynomialBoundedChainPacking_intrinsic
 -- name    : OAI.PolycyclicRecognition.polynomialBoundedChainPacking_intrinsic
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:48:30.930438+00:00
 -- url     : https://prove2.me/theorems/1e155423-6922-42ec-8cdc-1b7264db059b

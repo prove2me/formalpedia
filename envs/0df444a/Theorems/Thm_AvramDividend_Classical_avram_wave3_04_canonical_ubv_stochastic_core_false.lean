@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave3_04_canonical_ubv_stochastic_core_false
 -- name    : AvramDividend.Classical.avram_wave3_04_canonical_ubv_stochastic_core_false
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T07:45:45.27113+00:00
 -- url     : https://prove2.me/theorems/009719e7-d981-40be-87cf-e33f2c92617d

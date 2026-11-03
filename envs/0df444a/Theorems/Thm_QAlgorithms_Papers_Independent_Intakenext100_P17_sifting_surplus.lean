@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P17_sifting_surplus
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P17.sifting_surplus
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T04:20:32.973257+00:00
 -- url     : https://prove2.me/theorems/020d7723-189f-476f-9d92-4570b35aeab5

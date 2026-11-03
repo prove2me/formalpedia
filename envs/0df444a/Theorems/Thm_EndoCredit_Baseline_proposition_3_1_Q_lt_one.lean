@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoCredit_Baseline_proposition_3_1_Q_lt_one
 -- name    : EndoCredit.Baseline.proposition_3_1_Q_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:53.455278+00:00
 -- url     : https://prove2.me/theorems/c5fe424d-f5ba-4651-8d4d-2a81f2a18eb6

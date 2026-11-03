@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mul_aut_iterate
 -- name    : mul_aut_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:08:56.246539+00:00
 -- url     : https://prove2.me/theorems/209c5fe8-78fc-42bb-87ce-e6734e603527

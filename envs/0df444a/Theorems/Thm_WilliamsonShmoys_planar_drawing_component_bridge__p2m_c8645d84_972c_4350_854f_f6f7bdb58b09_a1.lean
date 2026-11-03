@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_component_bridge__p2m_c8645d84_972c_4350_854f_f6f7bdb58b09_a1
 -- name    : WilliamsonShmoys.planar_drawing_component_bridge__p2m_c8645d84_972c_4350_854f_f6f7bdb58b09_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:36:18.619405+00:00
 -- url     : https://prove2.me/theorems/b2249a9b-0ed4-4e0a-b974-67058e424e5f

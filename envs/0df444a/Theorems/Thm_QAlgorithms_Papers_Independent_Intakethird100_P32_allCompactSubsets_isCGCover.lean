@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P32_allCompactSubsets_isCGCover
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P32.allCompactSubsets_isCGCover
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T06:44:54.211718+00:00
 -- url     : https://prove2.me/theorems/483cfef4-fa73-45fd-bf87-cf2eeee344b8

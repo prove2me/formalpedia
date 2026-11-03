@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_PartiallyObserved_zero_cost_imp_holds
 -- name    : MDPComplexity.PartiallyObserved.zero_cost_imp_holds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:02:51.87424+00:00
 -- url     : https://prove2.me/theorems/06fe21a4-2b0b-4f89-bb9e-18f8b285ae2e

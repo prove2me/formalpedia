@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for QuantumMaxCutEnergy.rank_three_rounding_pointwise
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-01T19:08:20.562212+00:00
 -- url     : https://prove2.me/submissions/e4bb7ab5-594a-43e3-9555-d08fef123bbc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_QuantumMaxCutEnergyEstimationModel

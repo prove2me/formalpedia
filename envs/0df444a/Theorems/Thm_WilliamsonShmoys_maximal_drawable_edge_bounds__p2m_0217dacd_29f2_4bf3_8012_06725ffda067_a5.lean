@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_bounds__p2m_0217dacd_29f2_4bf3_8012_06725ffda067_a5
 -- name    : WilliamsonShmoys.maximal_drawable_edge_bounds__p2m_0217dacd_29f2_4bf3_8012_06725ffda067_a5
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:27:07.802014+00:00
 -- url     : https://prove2.me/theorems/078d72d1-c4b8-4d42-8ead-9d2688891836

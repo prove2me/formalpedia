@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_augmentation__p2m_1dbaee3e_ce5f_437b_b54c_6804519e37e5_a1
 -- name    : WilliamsonShmoys.maximal_planar_augmentation__p2m_1dbaee3e_ce5f_437b_b54c_6804519e37e5_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T08:18:30.682209+00:00
 -- url     : https://prove2.me/theorems/04185586-21f4-4990-a47b-2aac997e5516

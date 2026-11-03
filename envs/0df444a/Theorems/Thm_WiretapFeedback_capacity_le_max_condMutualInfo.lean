@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WiretapFeedback_capacity_le_max_condMutualInfo
 -- name    : WiretapFeedback.capacity_le_max_condMutualInfo
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:05:22.790984+00:00
 -- url     : https://prove2.me/theorems/2242f6db-cc21-441b-8f1e-80d024549567

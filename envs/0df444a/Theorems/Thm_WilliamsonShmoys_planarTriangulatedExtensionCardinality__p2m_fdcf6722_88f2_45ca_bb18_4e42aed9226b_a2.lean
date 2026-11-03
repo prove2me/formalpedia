@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarTriangulatedExtensionCardinality__p2m_fdcf6722_88f2_45ca_bb18_4e42aed9226b_a2
 -- name    : WilliamsonShmoys.planarTriangulatedExtensionCardinality__p2m_fdcf6722_88f2_45ca_bb18_4e42aed9226b_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T08:09:35.675725+00:00
 -- url     : https://prove2.me/theorems/26871514-c4d6-4964-8af5-28b3596c0479

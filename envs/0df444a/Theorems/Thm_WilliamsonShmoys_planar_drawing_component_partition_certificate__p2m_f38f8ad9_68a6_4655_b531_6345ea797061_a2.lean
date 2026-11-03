@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_component_partition_certificate__p2m_f38f8ad9_68a6_4655_b531_6345ea797061_a2
 -- name    : WilliamsonShmoys.planar_drawing_component_partition_certificate__p2m_f38f8ad9_68a6_4655_b531_6345ea797061_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:49:38.871862+00:00
 -- url     : https://prove2.me/theorems/8fb060ce-122c-4344-a570-6fdb0412375d

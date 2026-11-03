@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_int_matrix_poly_growth_eigenvalue
 -- name    : int_matrix_poly_growth_eigenvalue
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:08:15.502555+00:00
 -- url     : https://prove2.me/theorems/49dc9828-cdf6-4538-ae82-55c13e590778

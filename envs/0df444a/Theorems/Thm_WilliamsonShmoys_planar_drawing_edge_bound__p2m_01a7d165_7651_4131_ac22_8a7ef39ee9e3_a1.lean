@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound__p2m_01a7d165_7651_4131_ac22_8a7ef39ee9e3_a1
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound__p2m_01a7d165_7651_4131_ac22_8a7ef39ee9e3_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:57:36.601924+00:00
 -- url     : https://prove2.me/theorems/cb41be71-821a-4ee1-8bbc-87748aa8233d

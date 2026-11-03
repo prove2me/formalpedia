@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_edge_sum__p2m_43810500_1f43_4f26_9fb2_357a895d104d_a1
 -- name    : WilliamsonShmoys.component_edge_sum__p2m_43810500_1f43_4f26_9fb2_357a895d104d_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:33:46.882533+00:00
 -- url     : https://prove2.me/theorems/e2ed5c76-88ec-4a1d-b10e-951419bd4b2c

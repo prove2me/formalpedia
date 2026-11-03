@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Ranking_monotonicity_claim
 -- name    : MultiPriceOnline.Ranking.monotonicity_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:26.685259+00:00
 -- url     : https://prove2.me/theorems/18a4cb87-239d-4e71-ad85-d9295722ee74

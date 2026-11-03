@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physicalWedgeColumns_gram_s50
 -- name    : OAI.Laughlin.Fock.physicalWedgeColumns_gram_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:44:58.39017+00:00
 -- url     : https://prove2.me/theorems/c7ebceb5-4bb7-404d-9f51-1b56dbac88e4

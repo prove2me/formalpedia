@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_Hyperplane_rhoLattice_poisson
 -- name    : RegevLWE.Hyperplane.rhoLattice_poisson
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:13:12.968885+00:00
 -- url     : https://prove2.me/theorems/1f6a4515-3add-42f2-b37e-10ecf28a258f

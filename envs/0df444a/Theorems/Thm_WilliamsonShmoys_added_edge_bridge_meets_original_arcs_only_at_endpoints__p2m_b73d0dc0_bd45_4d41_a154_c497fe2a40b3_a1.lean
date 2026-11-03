@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_added_edge_bridge_meets_original_arcs_only_at_endpoints__p2m_b73d0dc0_bd45_4d41_a154_c497fe2a40b3_a1
 -- name    : WilliamsonShmoys.added_edge_bridge_meets_original_arcs_only_at_endpoints__p2m_b73d0dc0_bd45_4d41_a154_c497fe2a40b3_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:02:17.901296+00:00
 -- url     : https://prove2.me/theorems/71b67d8a-24d4-4328-8243-ee4c563954c5

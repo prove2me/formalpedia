@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_threeCoupledInclusion_adjoint_SU2_s50
 -- name    : OAI.Laughlin.Spin.threeCoupledInclusion_adjoint_SU2_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:01:58.9369+00:00
 -- url     : https://prove2.me/theorems/68e10c71-460b-436e-8adc-1621e3b10069

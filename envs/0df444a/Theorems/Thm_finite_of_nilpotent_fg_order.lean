@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_of_nilpotent_fg_order
 -- name    : finite_of_nilpotent_fg_order
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:07:48.382593+00:00
 -- url     : https://prove2.me/theorems/5e6505a3-c04c-4651-ba26-c4ca8e281cda

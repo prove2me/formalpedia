@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoCredit_Baseline_proposition_3_4
 -- name    : EndoCredit.Baseline.proposition_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:54.239717+00:00
 -- url     : https://prove2.me/theorems/543c89bc-fa0d-4271-996f-048f2781b6b7

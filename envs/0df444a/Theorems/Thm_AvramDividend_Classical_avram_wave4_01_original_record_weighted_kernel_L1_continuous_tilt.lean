@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave4_01_original_record_weighted_kernel_L1_continuous_tilt
 -- name    : AvramDividend.Classical.avram_wave4_01_original_record_weighted_kernel_L1_continuous_tilt
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-31T22:09:09.742924+00:00
 -- url     : https://prove2.me/theorems/1f80482e-d440-40ed-90d0-0c08d95bfc86

@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for QuantumMaxCutEnergy.rank_three_rounding_pointwise
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-01T19:07:40.513431+00:00
 -- url     : https://prove2.me/submissions/f52ae035-524f-450f-a27b-a0a98fe8e306
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QuantumMaxCutEnergy_agm_rank3_gaussian_rounding
 import Theorems.Thm_QuantumMaxCutEnergy_unit_bloch_assignment_energy_lower_bound

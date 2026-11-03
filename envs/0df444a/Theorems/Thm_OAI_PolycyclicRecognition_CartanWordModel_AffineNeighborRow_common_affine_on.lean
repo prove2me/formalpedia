@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_CartanWordModel_AffineNeighborRow_common_affine_on
 -- name    : OAI.PolycyclicRecognition.CartanWordModel.AffineNeighborRow.common_affine_on
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:29:58.090377+00:00
 -- url     : https://prove2.me/theorems/e8a24a07-68ab-4820-966f-8f52575af71a

@@ -1438,17 +1438,17 @@
 {"parent": "FlowJobHardness.ColoringReduction.remark_3_6", "child": "FlowJobHardness_ColoringReduction_Construction", "via": ["statement"]}
 {"parent": "FlowJobHardness.ColoringReduction.remark_3_6", "child": "FlowJobHardness_ColoringReduction_Schedule", "via": ["statement"]}
 {"parent": "FlowJobHardness.ColoringReduction.remark_3_6", "child": "JobShopLTAS_Core_Instance", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lb_display", "child": "FlowJobHardness_FlowShopGap_Construction", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lb_display", "child": "JobShopLTAS_Core_Instance", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lemma_2_2", "child": "FlowJobHardness_FlowShopGap_Construction", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lemma_2_2", "child": "FlowJobHardness_FlowShopGap_GoodOps", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lemma_2_2", "child": "JobShopLTAS_Core_Instance", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lemma_2_3", "child": "FlowJobHardness_FlowShopGap_Construction", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lemma_2_3", "child": "FlowJobHardness_FlowShopGap_GoodOps", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lemma_2_3", "child": "JobShopLTAS_Core_Instance", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lemma_2_4", "child": "FlowJobHardness_FlowShopGap_Construction", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lemma_2_4", "child": "FlowJobHardness_FlowShopGap_GoodOps", "via": ["statement"]}
-{"parent": "FlowJobHardness.FlowShopGap.lemma_2_4", "child": "JobShopLTAS_Core_Instance", "via": ["statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lb_display", "child": "FlowJobHardness_FlowShopGap_Construction", "via": ["solution", "statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lb_display", "child": "JobShopLTAS_Core_Instance", "via": ["solution", "statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lemma_2_2", "child": "FlowJobHardness_FlowShopGap_Construction", "via": ["solution", "statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lemma_2_2", "child": "FlowJobHardness_FlowShopGap_GoodOps", "via": ["solution", "statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lemma_2_2", "child": "JobShopLTAS_Core_Instance", "via": ["solution", "statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lemma_2_3", "child": "FlowJobHardness_FlowShopGap_Construction", "via": ["solution", "statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lemma_2_3", "child": "FlowJobHardness_FlowShopGap_GoodOps", "via": ["solution", "statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lemma_2_3", "child": "JobShopLTAS_Core_Instance", "via": ["solution", "statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lemma_2_4", "child": "FlowJobHardness_FlowShopGap_Construction", "via": ["solution", "statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lemma_2_4", "child": "FlowJobHardness_FlowShopGap_GoodOps", "via": ["solution", "statement"]}
+{"parent": "FlowJobHardness.FlowShopGap.lemma_2_4", "child": "JobShopLTAS_Core_Instance", "via": ["solution", "statement"]}
 {"parent": "FlowJobHardness.FlowShopGap.theorem_1_1", "child": "FlowJobHardness_FlowShopGap_Construction", "via": ["statement"]}
 {"parent": "FlowJobHardness.FlowShopGap.theorem_1_1", "child": "JobShopLTAS_Core_Instance", "via": ["statement"]}
 {"parent": "FlowJobHardness_ColoringReduction_Construction", "child": "FlowJobHardness_FlowShopGap_Construction", "via": ["statement"]}
@@ -17392,9 +17392,9 @@
 {"parent": "GFactorPhysics.nuclearMagneticMoment_eq", "child": "GFactorPhysics_Defs", "via": ["solution", "statement"]}
 {"parent": "GFactorPhysics.orbital_moment_z_component", "child": "GFactorPhysics_Defs", "via": ["solution", "statement"]}
 {"parent": "GGHRSW.ColoredMatrix.bookend_identity", "child": "GGHRSW_ColoredMatrix_Model", "via": ["solution", "statement"]}
-{"parent": "GGHRSW.ColoredMatrix.observation_4_2a", "child": "GGHRSW_ColoredMatrix_Model", "via": ["statement"]}
-{"parent": "GGHRSW.ColoredMatrix.partial_eval_bound", "child": "GGHRSW_ColoredMatrix_Model", "via": ["statement"]}
-{"parent": "GGHRSW.ColoredMatrix.theorem_6", "child": "GGHRSW_ColoredMatrix_Model", "via": ["statement"]}
+{"parent": "GGHRSW.ColoredMatrix.observation_4_2a", "child": "GGHRSW_ColoredMatrix_Model", "via": ["solution", "statement"]}
+{"parent": "GGHRSW.ColoredMatrix.partial_eval_bound", "child": "GGHRSW_ColoredMatrix_Model", "via": ["solution", "statement"]}
+{"parent": "GGHRSW.ColoredMatrix.theorem_6", "child": "GGHRSW_ColoredMatrix_Model", "via": ["solution", "statement"]}
 {"parent": "GJNSteadyState.Interchange.corollary_1", "child": "GJNSteadyState_Interchange_Dynamics", "via": ["statement"]}
 {"parent": "GJNSteadyState.Interchange.corollary_1", "child": "GJNSteadyState_Interchange_HeavyTraffic", "via": ["statement"]}
 {"parent": "GJNSteadyState.Interchange.corollary_1", "child": "GJNSteadyState_Interchange_Network", "via": ["statement"]}
@@ -17438,7 +17438,7 @@
 {"parent": "GKP1998.mass_radius_relation", "child": "GKP1998_Defs", "via": ["solution", "statement"]}
 {"parent": "GKP1998.massive_radial_solution", "child": "GKP1998_Defs", "via": ["solution", "statement"]}
 {"parent": "GKP1998.massive_string_state_dimension", "child": "GKP1998_Defs", "via": ["solution", "statement"]}
-{"parent": "GKP1998.partial_wave_flux_factor", "child": "GKP1998_Defs", "via": ["statement"]}
+{"parent": "GKP1998.partial_wave_flux_factor", "child": "GKP1998_Defs", "via": ["solution", "statement"]}
 {"parent": "GKP1998.partial_wave_radial_solution", "child": "GKP1998_Defs", "via": ["solution", "statement"]}
 {"parent": "GKP1998.scaling_dimension_asymptotic", "child": "GKP1998_Defs", "via": ["solution", "statement"]}
 {"parent": "GKP1998.swave_radial_solution", "child": "GKP1998_Defs", "via": ["solution", "statement"]}
@@ -37479,26 +37479,26 @@
 {"parent": "GrayStability_HopfFamily", "child": "GrayStability_Basic", "via": ["statement"]}
 {"parent": "GreedWorks.OnlineList.corollary_1", "child": "GreedWorks_OnlineList_LP", "via": ["statement"]}
 {"parent": "GreedWorks.OnlineList.corollary_1", "child": "GreedWorks_OnlineList_Model", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineList.lemma_2", "child": "GreedWorks_OnlineList_LP", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineList.lemma_2", "child": "GreedWorks_OnlineList_Model", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineList.lemma_3", "child": "GreedWorks_OnlineList_Greedy", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineList.lemma_3", "child": "GreedWorks_OnlineList_LP", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineList.lemma_3", "child": "GreedWorks_OnlineList_Model", "via": ["statement"]}
+{"parent": "GreedWorks.OnlineList.lemma_2", "child": "GreedWorks_OnlineList_LP", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineList.lemma_2", "child": "GreedWorks_OnlineList_Model", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineList.lemma_3", "child": "GreedWorks_OnlineList_Greedy", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineList.lemma_3", "child": "GreedWorks_OnlineList_LP", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineList.lemma_3", "child": "GreedWorks_OnlineList_Model", "via": ["solution", "statement"]}
 {"parent": "GreedWorks.OnlineList.lemma_4", "child": "GreedWorks_OnlineList_Greedy", "via": ["solution", "statement"]}
 {"parent": "GreedWorks.OnlineList.lemma_4", "child": "GreedWorks_OnlineList_Model", "via": ["solution", "statement"]}
-{"parent": "GreedWorks.OnlineList.lemma_5", "child": "GreedWorks_OnlineList_Greedy", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineList.lemma_5", "child": "GreedWorks_OnlineList_LP", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineList.lemma_5", "child": "GreedWorks_OnlineList_Model", "via": ["statement"]}
+{"parent": "GreedWorks.OnlineList.lemma_5", "child": "GreedWorks_OnlineList_Greedy", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineList.lemma_5", "child": "GreedWorks_OnlineList_LP", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineList.lemma_5", "child": "GreedWorks_OnlineList_Model", "via": ["solution", "statement"]}
 {"parent": "GreedWorks.OnlineList.theorem_1", "child": "GreedWorks_OnlineList_Greedy", "via": ["statement"]}
 {"parent": "GreedWorks.OnlineList.theorem_1", "child": "GreedWorks_OnlineList_Model", "via": ["statement"]}
 {"parent": "GreedWorks.OnlineTime.eq_13", "child": "GreedWorks_OnlineTime_Model", "via": ["statement"]}
 {"parent": "GreedWorks.OnlineTime.eq_13", "child": "GreedWorks_OnlineTime_TimeIndexedLP", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineTime.lemma_6", "child": "GreedWorks_OnlineTime_Greedy", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineTime.lemma_7", "child": "GreedWorks_OnlineTime_Greedy", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineTime.lemma_7", "child": "GreedWorks_OnlineTime_TimeIndexedLP", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineTime.lemma_8", "child": "GreedWorks_OnlineTime_Greedy", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineTime.lemma_8", "child": "GreedWorks_OnlineTime_Model", "via": ["statement"]}
-{"parent": "GreedWorks.OnlineTime.lemma_8", "child": "GreedWorks_OnlineTime_StochasticGreedy", "via": ["statement"]}
+{"parent": "GreedWorks.OnlineTime.lemma_6", "child": "GreedWorks_OnlineTime_Greedy", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineTime.lemma_7", "child": "GreedWorks_OnlineTime_Greedy", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineTime.lemma_7", "child": "GreedWorks_OnlineTime_TimeIndexedLP", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineTime.lemma_8", "child": "GreedWorks_OnlineTime_Greedy", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineTime.lemma_8", "child": "GreedWorks_OnlineTime_Model", "via": ["solution", "statement"]}
+{"parent": "GreedWorks.OnlineTime.lemma_8", "child": "GreedWorks_OnlineTime_StochasticGreedy", "via": ["solution", "statement"]}
 {"parent": "GreedWorks.OnlineTime.theorem_4", "child": "GreedWorks_OnlineTime_Greedy", "via": ["statement"]}
 {"parent": "GreedWorks.OnlineTime.theorem_4", "child": "GreedWorks_OnlineTime_Model", "via": ["statement"]}
 {"parent": "GreedWorks.OnlineTime.theorem_4", "child": "GreedWorks_OnlineTime_StochasticGreedy", "via": ["statement"]}
@@ -37779,8 +37779,8 @@
 {"parent": "Grunbaum2003_skeletonCarrier", "child": "Grunbaum2003_SkeletonFace", "via": ["statement"]}
 {"parent": "HILL.PRG.lemma_4_8", "child": "HILL_PRG_Constructions", "via": ["solution", "statement"]}
 {"parent": "HILL.PRG.lemma_4_8", "child": "HILL_PRG_Model", "via": ["statement"]}
-{"parent": "HILL.PRG.lemma_6_4", "child": "HILL_PRG_Constructions", "via": ["statement"]}
-{"parent": "HILL.PRG.lemma_6_4", "child": "HILL_PRG_Model", "via": ["statement"]}
+{"parent": "HILL.PRG.lemma_6_4", "child": "HILL_PRG_Constructions", "via": ["solution", "statement"]}
+{"parent": "HILL.PRG.lemma_6_4", "child": "HILL_PRG_Model", "via": ["solution", "statement"]}
 {"parent": "HILL.PRG.prg_implies_owf", "child": "HILL_PRG_Model", "via": ["statement"]}
 {"parent": "HILL.PRG.theorem_4_14", "child": "HILL_PRG_Constructions", "via": ["statement"]}
 {"parent": "HILL.PRG.theorem_4_14", "child": "HILL_PRG_Model", "via": ["statement"]}
@@ -82522,10 +82522,10 @@
 {"parent": "MDPComplexity.Discounted.stationary_path_sigma", "child": "MDPComplexity_Discounted_Model", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.Discounted.theorem4_optimal_sigma", "child": "MDPComplexity_Discounted_Model", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.PartiallyObserved.cost_splits_over_clause", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["solution", "statement"]}
-{"parent": "MDPComplexity.PartiallyObserved.holds_imp_zero_cost", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
+{"parent": "MDPComplexity.PartiallyObserved.holds_imp_zero_cost", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.PartiallyObserved.theorem6_reduction", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.PartiallyObserved.unsatisfied_clause_cost", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["solution", "statement"]}
-{"parent": "MDPComplexity.PartiallyObserved.zero_cost_imp_holds", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["statement"]}
+{"parent": "MDPComplexity.PartiallyObserved.zero_cost_imp_holds", "child": "MDPComplexity_PartiallyObserved_Construction", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.StationaryHorizon.cycle_decomposition", "child": "MDPComplexity_StationaryHorizon_Model", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.StationaryHorizon.horizon_walk", "child": "MDPComplexity_StationaryHorizon_Model", "via": ["solution", "statement"]}
 {"parent": "MDPComplexity.StationaryHorizon.one_frequent_cycle", "child": "MDPComplexity_StationaryHorizon_Model", "via": ["solution", "statement"]}
@@ -82645,7 +82645,7 @@
 {"parent": "MDPFinance.JumpMarkets.proposition_9_3_2", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.JumpMarkets.proposition_9_3_3", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["statement"]}
 {"parent": "MDPFinance.JumpMarkets.proposition_9_4_1", "child": "MDPFinance_JumpMarkets_TradeExecution", "via": ["solution", "statement"]}
-{"parent": "MDPFinance.JumpMarkets.theorem_9_3_1", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["statement"]}
+{"parent": "MDPFinance.JumpMarkets.theorem_9_3_1", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.JumpMarkets.theorem_9_3_4", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.JumpMarkets.theorem_9_3_6", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["solution", "statement"]}
 {"parent": "MDPFinance.JumpMarkets.theorem_9_3_7", "child": "MDPFinance_JumpMarkets_JumpMarket", "via": ["solution", "statement"]}

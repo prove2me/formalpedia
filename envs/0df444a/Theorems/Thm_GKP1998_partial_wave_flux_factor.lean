@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GKP1998_partial_wave_flux_factor
 -- name    : GKP1998.partial_wave_flux_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:47:03.198934+00:00
 -- url     : https://prove2.me/theorems/685b0e15-4f4d-4300-ac21-e3b379e62d70

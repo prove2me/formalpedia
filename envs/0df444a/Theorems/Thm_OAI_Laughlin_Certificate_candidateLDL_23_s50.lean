@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Certificate_candidateLDL_23_s50
 -- name    : OAI.Laughlin.Certificate.candidateLDL_23_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T14:42:50.33464+00:00
 -- url     : https://prove2.me/theorems/065e5e82-e650-4da6-b658-4efd1ab65f5e

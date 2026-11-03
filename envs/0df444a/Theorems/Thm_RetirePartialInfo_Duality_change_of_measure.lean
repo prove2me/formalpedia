@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetirePartialInfo_Duality_change_of_measure
 -- name    : RetirePartialInfo.Duality.change_of_measure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:50:03.735588+00:00
 -- url     : https://prove2.me/theorems/315ca7f5-4d10-438e-89c4-8ce2a26538b1

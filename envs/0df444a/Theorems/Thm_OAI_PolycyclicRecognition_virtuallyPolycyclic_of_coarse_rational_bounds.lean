@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_virtuallyPolycyclic_of_coarse_rational_bounds
 -- name    : OAI.PolycyclicRecognition.virtuallyPolycyclic_of_coarse_rational_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:27:22.787293+00:00
 -- url     : https://prove2.me/theorems/4d523853-0860-4824-adde-e30985e01a62

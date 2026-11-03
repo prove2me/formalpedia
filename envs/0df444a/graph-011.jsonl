@@ -41267,7 +41267,7 @@
 {"parent": "D1Bound5.oneSmallFourth_3_growth", "child": "D1Bound5_OneSmallThirdData_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.oneSmallFourth_3_growth", "child": "D1Bound5_OneSmallFourthData1_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.oneSmallFourth_3_growth", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
-{"parent": "NQueensComp.NPC.lemma_33", "child": "NQueensComp_NPC_Reductions", "via": ["statement"]}
+{"parent": "NQueensComp.NPC.lemma_33", "child": "NQueensComp_NPC_Reductions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallTriple_classified_0_8", "child": "D1Bound5_IsD1Tuple", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallTriple_classified_0_8", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallTriple_classified_0_8", "child": "D1Bound5_SmallTripleCheck_Definitions", "via": ["solution", "statement"]}
@@ -44073,9 +44073,9 @@
 {"parent": "WilliamsonShmoys.triangulation_edge_count_of_maximal_drawable", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1279", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1279", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.poisson_band_zero_count_laws_of_infinite_activity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.poisson_band_zero_count_laws_of_infinite_activity", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.poisson_band_zero_count_laws_of_infinite_activity", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.poisson_band_zero_count_laws_of_infinite_activity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.poisson_band_zero_count_laws_of_infinite_activity", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.poisson_band_zero_count_laws_of_infinite_activity", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteN3BsCutoffWeights_36_valid", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteN3BsCutoffWeights_36_valid", "child": "D1Bound5_OneSmallN3BsFixedArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteN3BsCutoffWeights_36_valid", "child": "D1Bound5_OneSmallRows_Definitions", "via": ["solution", "statement"]}
@@ -45390,7 +45390,7 @@
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared121", "child": "Sensitivity213981Formal_Namespaces", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared121", "child": "Sensitivity213981Formal_RankCoefficientDominance", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_w1018_s1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_graph_can_be_augmented_of_edge_card_lt", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_graph_can_be_augmented_of_edge_card_lt", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_adds_edge_between_unreachable_vertices", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.gaussian_scale_ordinary_deriv_ne_positive_right_slope", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.gaussian_scale_ordinary_deriv_ne_positive_right_slope", "child": "AvramDividend.Classical.scaleFunction_zero_origin_gaussian_without_standing", "via": ["solution", "statement"]}
@@ -59376,7 +59376,7 @@
 {"parent": "LPCA_Solutions_LPCA_NativeLegAssembly_SixOne20261024_Defs", "child": "LPCA_Solutions_LPCA_DirectSumGeneratorEquations_SixOne20261024_Defs", "via": ["statement"]}
 {"parent": "LPCA_Solutions_LPCA_NativeLegAssembly_SixOne20261024_Defs", "child": "LPCA_Solutions_LPCA_DirectSumRestriction_SixOne20261024_Defs", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff6.sign_e004_c04_s0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.extend_planar_drawing_connected", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.extend_planar_drawing_connected", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_direct_132_gamma_panel_15_chunk_1", "child": "TaoFivePrimes_RHDirect132Integer", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_direct_132_gamma_panel_15_chunk_1", "child": "TaoFivePrimes_RHDirect132GammaData3", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_drawable_euler_face_equations_for_euler_count", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
@@ -67178,7 +67178,7 @@
 {"parent": "D1Bound5.PairLightPrepared40.left_coverage_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c304060_s4", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c301086_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.triangulation_2a27a388_e06b_4db0_bfe8_7a93ec4c9c7f_planar_edge_count_upper_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.triangulation_2a27a388_e06b_4db0_bfe8_7a93ec4c9c7f_planar_edge_count_upper_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.MP01.dF_2_0_2", "child": "Atlas_Core_Basic", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.MP01.dF_2_0_2", "child": "Atlas_EinsteinMaxwell_Basic", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.MP01.dF_2_0_2", "child": "Atlas_Core_Certificate", "via": ["solution", "statement"]}
@@ -71510,7 +71510,7 @@
 {"parent": "OAIQ031A048", "child": "OAIQ031A030", "via": ["statement"]}
 {"parent": "OAIQ031A048", "child": "OAIQ031A031", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p005_b037", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "NQueensComp.NPC.lemma_22", "child": "NQueensComp_NPC_Reductions", "via": ["statement"]}
+{"parent": "NQueensComp.NPC.lemma_22", "child": "NQueensComp_NPC_Reductions", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_supergraph_triangulation_for_edge_bound_5164bdb5_maximal_planar_edge_count", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_SmallPairLightData33_Definitions_005", "child": "D1Bound5_Prove2MeTransfer_cachedSlice_2c4a00b18598259c6e72", "via": ["statement"]}
 {"parent": "D1Bound5_SmallPairLightData33_Definitions_005", "child": "D1Bound5_Prove2MeTransfer_cachedSlice_0e7e0999673349fd57fb", "via": ["statement"]}
@@ -94174,7 +94174,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_w1026_s9", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "BS2_b3ba934b_LabelLoads", "child": "BS2_b3ba934b_LabelMarked", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c301060_s6", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.bv_levy_transition_right_generator_of_global_C1_lipschitz", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.bv_levy_transition_right_generator_of_global_C1_lipschitz", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "BitcoinSer.readLE_leBytes", "child": "BitcoinSer", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1025", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1025", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
@@ -98945,7 +98945,7 @@
 {"parent": "D1Bound5.PairLightAdaptivePrepared36.right_parallel_003_part06_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairMask_1_2_18_valid", "child": "D1Bound5_FastSquareTest_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairMask_1_2_18_valid", "child": "D1Bound5_SmallPairSieve_1_2_Definitions", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_edge_upper_bound_41b75d1a", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_edge_upper_bound_41b75d1a", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared5.right_prefix_000_part04_checked", "child": "D1Bound5_PairLightArithmeticChunks_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared5.right_prefix_000_part04_checked", "child": "D1Bound5_SmallPairLightData5Sieve_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared5.right_prefix_000_part04_checked", "child": "D1Bound5_SmallPairLightData5RightCached_Definitions", "via": ["solution", "statement"]}

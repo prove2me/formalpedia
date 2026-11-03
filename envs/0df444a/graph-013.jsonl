@@ -72308,9 +72308,9 @@
 {"parent": "MIPStarRE.QPBT.pauli_soundness_deltaQld_ofExtractionWitness", "child": "QPBT_QPBT_Extraction_Unitary", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.pauli_soundness_deltaQld_ofExtractionWitness", "child": "QPBT_QPBT_Test_Soundness_StateTransfer", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p004_b091", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "ZhangTangLabelCut.LP2.edge_integrality_gap", "child": "ZhangTangLabelCut_LP2_LabelCut", "via": ["statement"]}
-{"parent": "ZhangTangLabelCut.LP2.edge_integrality_gap", "child": "ZhangTangLabelCut_LP2_CoveringLP", "via": ["statement"]}
-{"parent": "ZhangTangLabelCut.LP2.edge_integrality_gap", "child": "ZhangTangLabelCut_LP2_FiniteGraph", "via": ["statement"]}
+{"parent": "ZhangTangLabelCut.LP2.edge_integrality_gap", "child": "ZhangTangLabelCut_LP2_LabelCut", "via": ["solution", "statement"]}
+{"parent": "ZhangTangLabelCut.LP2.edge_integrality_gap", "child": "ZhangTangLabelCut_LP2_CoveringLP", "via": ["solution", "statement"]}
+{"parent": "ZhangTangLabelCut.LP2.edge_integrality_gap", "child": "ZhangTangLabelCut_LP2_FiniteGraph", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308062_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p023_b044", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.exists_globalPairWitness", "child": "QPBT_QPBT_Games_ErrorFunctions", "via": ["solution", "statement"]}
@@ -74421,9 +74421,9 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p027_b019", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c306054_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c313059_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "ZhangTangLabelCut.LP2.vertex_integrality_gap", "child": "ZhangTangLabelCut_LP2_LabelCut", "via": ["statement"]}
-{"parent": "ZhangTangLabelCut.LP2.vertex_integrality_gap", "child": "ZhangTangLabelCut_LP2_CoveringLP", "via": ["statement"]}
-{"parent": "ZhangTangLabelCut.LP2.vertex_integrality_gap", "child": "ZhangTangLabelCut_LP2_FiniteGraph", "via": ["statement"]}
+{"parent": "ZhangTangLabelCut.LP2.vertex_integrality_gap", "child": "ZhangTangLabelCut_LP2_LabelCut", "via": ["solution", "statement"]}
+{"parent": "ZhangTangLabelCut.LP2.vertex_integrality_gap", "child": "ZhangTangLabelCut_LP2_CoveringLP", "via": ["solution", "statement"]}
+{"parent": "ZhangTangLabelCut.LP2.vertex_integrality_gap", "child": "ZhangTangLabelCut_LP2_FiniteGraph", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p018_b027", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308047_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p025_b042", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
@@ -76536,11 +76536,11 @@
 {"parent": "PutermanMDP.FiniteHorizon.backward_induction", "child": "PutermanMDP_FiniteHorizon_BellmanSolution", "via": ["solution", "statement"]}
 {"parent": "PutermanMDP.FiniteHorizon.backward_induction", "child": "PutermanMDP_FiniteHorizon_continuationValue", "via": ["statement"]}
 {"parent": "PutermanMDP.FiniteHorizon.backward_induction", "child": "PutermanMDP_FiniteHorizon_Model", "via": ["statement"]}
-{"parent": "ZhangTangLabelCut.LP2.configuration_probability", "child": "ZhangTangLabelCut_LP2_Configurations", "via": ["statement"]}
-{"parent": "ZhangTangLabelCut.LP2.configuration_probability", "child": "ZhangTangLabelCut_LP2_CoveringLP", "via": ["statement"]}
-{"parent": "ZhangTangLabelCut.LP2.configuration_probability", "child": "ZhangTangLabelCut_LP2_FiniteGraph", "via": ["statement"]}
-{"parent": "ZhangTangLabelCut.LP2.configuration_probability", "child": "ZhangTangLabelCut_LP2_Shutter", "via": ["statement"]}
-{"parent": "ZhangTangLabelCut.LP2.configuration_probability", "child": "ZhangTangLabelCut_LP2_LabelCut", "via": ["statement"]}
+{"parent": "ZhangTangLabelCut.LP2.configuration_probability", "child": "ZhangTangLabelCut_LP2_Configurations", "via": ["solution", "statement"]}
+{"parent": "ZhangTangLabelCut.LP2.configuration_probability", "child": "ZhangTangLabelCut_LP2_CoveringLP", "via": ["solution", "statement"]}
+{"parent": "ZhangTangLabelCut.LP2.configuration_probability", "child": "ZhangTangLabelCut_LP2_FiniteGraph", "via": ["solution", "statement"]}
+{"parent": "ZhangTangLabelCut.LP2.configuration_probability", "child": "ZhangTangLabelCut_LP2_Shutter", "via": ["solution", "statement"]}
+{"parent": "ZhangTangLabelCut.LP2.configuration_probability", "child": "ZhangTangLabelCut_LP2_LabelCut", "via": ["solution", "statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Order", "via": ["statement"]}
 {"parent": "LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["statement"]}

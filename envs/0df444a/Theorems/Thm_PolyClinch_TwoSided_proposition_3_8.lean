@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyClinch_TwoSided_proposition_3_8
 -- name    : PolyClinch.TwoSided.proposition_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:51.031028+00:00
 -- url     : https://prove2.me/theorems/598ffc15-fc34-41db-b388-e471d21cbb97

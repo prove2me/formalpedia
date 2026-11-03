@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneratesNS_word_norm_list_prod_le
 -- name    : GeneratesNS.word_norm_list_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:19:07.102901+00:00
 -- url     : https://prove2.me/theorems/d2863b7f-cc32-4abc-92c8-80bc192503fc

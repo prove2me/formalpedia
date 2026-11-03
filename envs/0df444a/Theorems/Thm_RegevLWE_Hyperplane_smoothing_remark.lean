@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_Hyperplane_smoothing_remark
 -- name    : RegevLWE.Hyperplane.smoothing_remark
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:12:44.724596+00:00
 -- url     : https://prove2.me/theorems/c915c1ea-c97b-4b6c-aa60-2dac0a6cdb85

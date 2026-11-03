@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_source_highest_coupling_tendsto_s50
 -- name    : OAI.Laughlin.Spin.source_highest_coupling_tendsto_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:45:27.044846+00:00
 -- url     : https://prove2.me/theorems/62c76608-cc8e-4dd3-b867-d0ef3ff18c3c

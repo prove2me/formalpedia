@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsC_polyhedral_mnat_convex_iff_exchange_R
 -- name    : DiscreteConvex.MConvexFunctionsC.polyhedral_mnat_convex_iff_exchange_R
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:40:29.154361+00:00
 -- url     : https://prove2.me/theorems/5484097c-7ead-4605-8455-6058810639d2

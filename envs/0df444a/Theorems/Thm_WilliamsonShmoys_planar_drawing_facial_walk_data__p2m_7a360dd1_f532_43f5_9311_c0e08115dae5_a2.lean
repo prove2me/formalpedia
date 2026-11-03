@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_facial_walk_data__p2m_7a360dd1_f532_43f5_9311_c0e08115dae5_a2
 -- name    : WilliamsonShmoys.planar_drawing_facial_walk_data__p2m_7a360dd1_f532_43f5_9311_c0e08115dae5_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:42:10.217098+00:00
 -- url     : https://prove2.me/theorems/aa3f645f-99ef-419b-ae11-eb7cfec70f83

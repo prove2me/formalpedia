@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlotkinShmoysTardos_weak_duality_12
 -- name    : PlotkinShmoysTardos.weak_duality_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:52:41.162498+00:00
 -- url     : https://prove2.me/theorems/463a6259-a705-40f9-a63a-12b649c7d454

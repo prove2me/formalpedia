@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_int_matrix_unipotent
 -- name    : int_matrix_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:29:45.789625+00:00
 -- url     : https://prove2.me/theorems/e575da99-f48d-4d63-9dea-451ffb7b6de5

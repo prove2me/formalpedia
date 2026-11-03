@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_sourceThreeHighestEnd_haar_s50
 -- name    : OAI.Laughlin.Fock.sourceThreeHighestEnd_haar_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:54:25.224498+00:00
 -- url     : https://prove2.me/theorems/716a7ca9-f488-42dd-bec0-5c031de94d33

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planarTriangulatedExtensionCardinality__p2m_fdcf6722_88f2_45ca_bb18_4e42aed9226b_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T08:29:57.664741+00:00
 -- url     : https://prove2.me/submissions/38b336e2-2566-4ba5-8e47-2046f9e9318e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_maximalPlanarExtension__p2m_26871514_c4d6_4964_8af5_28b3596c0479_a1

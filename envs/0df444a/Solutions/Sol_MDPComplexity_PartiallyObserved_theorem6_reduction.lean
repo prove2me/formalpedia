@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MDPComplexity.PartiallyObserved.theorem6_reduction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T12:15:15.535961+00:00
 -- url     : https://prove2.me/submissions/2eed09d6-81e3-4b6e-9f61-c21f799cc20d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MDPComplexity_PartiallyObserved_Model

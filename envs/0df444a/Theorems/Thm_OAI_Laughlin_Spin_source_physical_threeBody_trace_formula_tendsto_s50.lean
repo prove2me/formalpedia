@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_source_physical_threeBody_trace_formula_tendsto_s50
 -- name    : OAI.Laughlin.Spin.source_physical_threeBody_trace_formula_tendsto_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:57:49.00466+00:00
 -- url     : https://prove2.me/theorems/41d64bae-f21c-4f00-b4d0-a691378d5ce8

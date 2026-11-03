@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eigenspace_orthogonal
 -- name    : eigenspace_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:06:54.511228+00:00
 -- url     : https://prove2.me/theorems/3dbe8290-9a14-4aff-84f9-79b9f723765f

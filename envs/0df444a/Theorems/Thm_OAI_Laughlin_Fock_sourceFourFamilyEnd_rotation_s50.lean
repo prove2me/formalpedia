@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_sourceFourFamilyEnd_rotation_s50
 -- name    : OAI.Laughlin.Fock.sourceFourFamilyEnd_rotation_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:02:40.548066+00:00
 -- url     : https://prove2.me/theorems/83aa9d35-0589-4ce5-b982-cfd32aa977fd

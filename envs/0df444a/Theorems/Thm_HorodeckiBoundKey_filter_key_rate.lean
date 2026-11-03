@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HorodeckiBoundKey_filter_key_rate
 -- name    : HorodeckiBoundKey.filter_key_rate
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:16:04.019889+00:00
 -- url     : https://prove2.me/theorems/efec8f73-0f31-45f7-926e-50cba7c73753

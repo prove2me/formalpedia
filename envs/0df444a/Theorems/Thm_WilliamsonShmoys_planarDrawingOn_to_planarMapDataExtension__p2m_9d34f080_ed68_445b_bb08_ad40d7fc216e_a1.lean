@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawingOn_to_planarMapDataExtension__p2m_9d34f080_ed68_445b_bb08_ad40d7fc216e_a1
 -- name    : WilliamsonShmoys.planarDrawingOn_to_planarMapDataExtension__p2m_9d34f080_ed68_445b_bb08_ad40d7fc216e_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:44:13.544865+00:00
 -- url     : https://prove2.me/theorems/b3eca2bb-f78b-4222-b8fc-fe99bf34c163

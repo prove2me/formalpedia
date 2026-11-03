@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_CartanWordModel_AffineNeighborRow_exists_fixed_basis_radius
 -- name    : OAI.PolycyclicRecognition.CartanWordModel.AffineNeighborRow.exists_fixed_basis_radius
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:31:37.540807+00:00
 -- url     : https://prove2.me/theorems/0281f426-53b6-4923-a5d0-63f55af9d854

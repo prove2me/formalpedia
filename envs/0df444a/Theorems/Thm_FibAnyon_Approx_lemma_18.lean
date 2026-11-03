@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FibAnyon_Approx_lemma_18
 -- name    : FibAnyon.Approx.lemma_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:46:31.186631+00:00
 -- url     : https://prove2.me/theorems/11336e8a-d441-43c9-b58a-5844995eb7aa

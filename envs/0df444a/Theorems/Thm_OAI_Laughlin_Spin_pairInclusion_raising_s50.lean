@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_pairInclusion_raising_s50
 -- name    : OAI.Laughlin.Spin.pairInclusion_raising_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:46:53.593234+00:00
 -- url     : https://prove2.me/theorems/daee9527-6e9f-47fa-90c3-c4a417b0cbf8

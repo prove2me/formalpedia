@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KatyushaNs_lemma_2_3_proximal_gradient_descent
 -- name    : KatyushaNs.lemma_2_3_proximal_gradient_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:49:15.269993+00:00
 -- url     : https://prove2.me/theorems/5443080b-67be-42ad-a1fc-5b51a3268d19

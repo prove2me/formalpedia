@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Ranking_lemma_2
 -- name    : MultiPriceOnline.Ranking.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:43:42.566646+00:00
 -- url     : https://prove2.me/theorems/218b1e8a-35f8-4273-a7e1-b5ff2a5d3e6f

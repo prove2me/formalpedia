@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenPairedDomination_Interval_lemma_7
 -- name    : ChenPairedDomination.Interval.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-31T01:27:04.879665+00:00
 -- url     : https://prove2.me/theorems/492b93cd-24c6-4cad-b46b-df6b7ef381c1

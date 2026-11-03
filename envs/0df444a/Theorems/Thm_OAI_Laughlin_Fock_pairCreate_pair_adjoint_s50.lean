@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_pairCreate_pair_adjoint_s50
 -- name    : OAI.Laughlin.Fock.pairCreate_pair_adjoint_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:44:15.7562+00:00
 -- url     : https://prove2.me/theorems/06c3e1a1-e707-49e6-90c9-68ccd2da04cc

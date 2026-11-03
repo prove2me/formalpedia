@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_face_boundary_bound__p2m_dbfda827_a827_4911_8354_de916f36b6c0_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:11:48.09628+00:00
 -- url     : https://prove2.me/submissions/72d39a35-81d3-4c60-89ee-9b2f64b42b91
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

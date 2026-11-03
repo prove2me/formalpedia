@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_has_triangulated_supergraph__p2m_3aaeb753_8214_46cb_ae23_34cf4eb39be4_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:49:25.731663+00:00
 -- url     : https://prove2.me/submissions/adca3244-bf71-4d54-8635-96431641041d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

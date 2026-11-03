@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_sourcePairEnd_rotation_s50
 -- name    : OAI.Laughlin.Fock.sourcePairEnd_rotation_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:53:56.559434+00:00
 -- url     : https://prove2.me/theorems/cdc7c2ee-6b0e-48ac-8ddd-cb8d3f329f2d

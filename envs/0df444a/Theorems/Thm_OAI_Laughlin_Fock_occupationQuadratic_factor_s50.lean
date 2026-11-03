@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_occupationQuadratic_factor_s50
 -- name    : OAI.Laughlin.Fock.occupationQuadratic_factor_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:44:05.004288+00:00
 -- url     : https://prove2.me/theorems/42ad2bb3-6c02-4596-9414-837dd4e33612

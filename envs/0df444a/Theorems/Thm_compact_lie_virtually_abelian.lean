@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_compact_lie_virtually_abelian
 -- name    : compact_lie_virtually_abelian
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:28:00.451202+00:00
 -- url     : https://prove2.me/theorems/6ee238f1-a520-4c01-a813-ba66d1b002c9

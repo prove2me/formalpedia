@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_exists_bounded_box_profile_anchors
 -- name    : OAI.PolycyclicRecognition.exists_bounded_box_profile_anchors
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:44:48.698474+00:00
 -- url     : https://prove2.me/theorems/087b208f-2a55-4bb8-acaa-09ee830585d1

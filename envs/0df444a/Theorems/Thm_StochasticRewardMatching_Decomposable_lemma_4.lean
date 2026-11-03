@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticRewardMatching_Decomposable_lemma_4
 -- name    : StochasticRewardMatching.Decomposable.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T21:18:10.797677+00:00
 -- url     : https://prove2.me/theorems/63396705-f785-4933-8e9d-ad93ca86ceeb

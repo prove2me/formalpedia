@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HILL_PRG_lemma_6_4
 -- name    : HILL.PRG.lemma_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:13:24.124154+00:00
 -- url     : https://prove2.me/theorems/fa0c5469-1c50-4e10-9358-c47a11155a04

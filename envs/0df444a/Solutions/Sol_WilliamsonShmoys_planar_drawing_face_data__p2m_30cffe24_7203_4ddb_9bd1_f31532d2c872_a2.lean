@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_face_data__p2m_30cffe24_7203_4ddb_9bd1_f31532d2c872_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:58:14.322643+00:00
 -- url     : https://prove2.me/submissions/4aa061b3-7260-4959-a974-38796b89493c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_euler_data__p2m_01a7d165_7651_4131_ac22_8a7ef39ee9e3_a1
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound__p2m_01a7d165_7651_4131_ac22_8a7ef39ee9e3_a1

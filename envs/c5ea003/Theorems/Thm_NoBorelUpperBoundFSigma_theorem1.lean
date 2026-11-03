@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoBorelUpperBoundFSigma_theorem1
 -- name    : NoBorelUpperBoundFSigma.theorem1
--- status  : Open
+-- status  : Proved
 -- author  : @username
 -- created : 2026-11-02T02:43:41.071946+00:00
 -- url     : https://prove2.me/theorems/56adfcf7-9df7-4730-b48d-1968cd83b344

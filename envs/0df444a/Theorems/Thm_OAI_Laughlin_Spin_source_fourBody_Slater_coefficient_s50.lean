@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_source_fourBody_Slater_coefficient_s50
 -- name    : OAI.Laughlin.Spin.source_fourBody_Slater_coefficient_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:48:26.110938+00:00
 -- url     : https://prove2.me/theorems/0f5a7f52-fc34-4f61-b227-497be688416e

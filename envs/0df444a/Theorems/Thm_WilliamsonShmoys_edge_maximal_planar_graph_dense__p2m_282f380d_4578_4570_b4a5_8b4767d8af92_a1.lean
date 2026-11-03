@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_planar_graph_dense__p2m_282f380d_4578_4570_b4a5_8b4767d8af92_a1
 -- name    : WilliamsonShmoys.edge_maximal_planar_graph_dense__p2m_282f380d_4578_4570_b4a5_8b4767d8af92_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:12:37.432734+00:00
 -- url     : https://prove2.me/theorems/9948da09-8892-4f55-9a10-a3a5f578a96b

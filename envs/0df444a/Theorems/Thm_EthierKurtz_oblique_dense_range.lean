@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_dense_range
 -- name    : EthierKurtz.oblique_dense_range
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-27T04:32:50.8326+00:00
 -- url     : https://prove2.me/theorems/50abf88b-70c7-4165-8bf7-c67b788877b1

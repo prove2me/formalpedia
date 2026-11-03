@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_has_triangulated_supergraph__p2m_3aaeb753_8214_46cb_ae23_34cf4eb39be4_a1
 -- name    : WilliamsonShmoys.planar_drawing_has_triangulated_supergraph__p2m_3aaeb753_8214_46cb_ae23_34cf4eb39be4_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:52:53.969383+00:00
 -- url     : https://prove2.me/theorems/07094302-93b5-40e3-90fd-090a7e1ed5c9

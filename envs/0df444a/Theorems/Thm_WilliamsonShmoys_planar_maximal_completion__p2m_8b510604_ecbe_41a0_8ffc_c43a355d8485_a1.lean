@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_maximal_completion__p2m_8b510604_ecbe_41a0_8ffc_c43a355d8485_a1
 -- name    : WilliamsonShmoys.planar_maximal_completion__p2m_8b510604_ecbe_41a0_8ffc_c43a355d8485_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:58:06.324456+00:00
 -- url     : https://prove2.me/theorems/81eecf30-e96c-499d-b4eb-13964c396f7c

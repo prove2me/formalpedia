@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_sourceFockEnergy_fockInclusion_s50
 -- name    : OAI.Laughlin.Fock.sourceFockEnergy_fockInclusion_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:44:39.795248+00:00
 -- url     : https://prove2.me/theorems/8b2958e6-0740-41d3-8202-d0b965f670ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_Hyperplane_expectation_lt_nine_tenths
 -- name    : RegevLWE.Hyperplane.expectation_lt_nine_tenths
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:12:52.680983+00:00
 -- url     : https://prove2.me/theorems/0fa4ed19-0009-448f-8bd5-c4275629a4ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grothendieck_er_root_unique
 -- name    : Grothendieck.er_root_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-02T04:16:11.273279+00:00
 -- url     : https://prove2.me/theorems/a099c76d-64f8-4b66-bf5d-0aaec1fa2ea0

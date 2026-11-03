@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermLimits_Existence_convergences_equivalent
 -- name    : PermLimits.Existence.convergences_equivalent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:02:13.854558+00:00
 -- url     : https://prove2.me/theorems/385c8977-0885-4a76-ba82-68232fdf39d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_dekimpeLatticeRealizationInput
 -- name    : OAI.PolycyclicRecognition.dekimpeLatticeRealizationInput
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:24:40.751015+00:00
 -- url     : https://prove2.me/theorems/c5ddab5b-bc49-49a5-8324-bc8b6c396e24

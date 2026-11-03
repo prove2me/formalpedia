@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_finiteLocalFourMatrix_tendsto_s50
 -- name    : OAI.Laughlin.Fock.finiteLocalFourMatrix_tendsto_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:51:15.259141+00:00
 -- url     : https://prove2.me/theorems/abd21d2c-f71d-4500-911b-19179fbc6b3f

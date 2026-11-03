@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_retainedFourReal_outer_trace_s50
 -- name    : OAI.Laughlin.Spin.retainedFourReal_outer_trace_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:01:26.800545+00:00
 -- url     : https://prove2.me/theorems/93ee8431-5b15-418e-aaed-fdee7fd131a7

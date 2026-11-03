@@ -40698,9 +40698,9 @@
 {"parent": "AlgebraicPCSP.OneInThree.lemma_8_9", "child": "AlgebraicPCSP_OneInThree_Matrices", "via": ["solution", "statement"]}
 {"parent": "AlgebraicPCSP.OneInThree.lemma_8_9", "child": "AlgebraicPCSP_OneInThree_Structures", "via": ["solution", "statement"]}
 {"parent": "AlgebraicPCSP.OneInThree.lemma_8_9", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["solution", "statement"]}
-{"parent": "AlgebraicPCSP.OneInThree.proposition_8_12", "child": "AlgebraicPCSP_OneInThree_Matrices", "via": ["statement"]}
-{"parent": "AlgebraicPCSP.OneInThree.proposition_8_12", "child": "AlgebraicPCSP_OneInThree_Structures", "via": ["statement"]}
-{"parent": "AlgebraicPCSP.OneInThree.proposition_8_12", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["statement"]}
+{"parent": "AlgebraicPCSP.OneInThree.proposition_8_12", "child": "AlgebraicPCSP_OneInThree_Matrices", "via": ["solution", "statement"]}
+{"parent": "AlgebraicPCSP.OneInThree.proposition_8_12", "child": "AlgebraicPCSP_OneInThree_Structures", "via": ["solution", "statement"]}
+{"parent": "AlgebraicPCSP.OneInThree.proposition_8_12", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["solution", "statement"]}
 {"parent": "AlgebraicPCSP.OneInThree.section_8_4_pigeonhole", "child": "AlgebraicPCSP_OneInThree_Matrices", "via": ["solution", "statement"]}
 {"parent": "AlgebraicPCSP.OneInThree.section_8_4_pigeonhole", "child": "AlgebraicPCSP_OneInThree_Structures", "via": ["solution", "statement"]}
 {"parent": "AlgebraicPCSP.OneInThree.section_8_4_pigeonhole", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["solution", "statement"]}

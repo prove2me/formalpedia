@@ -1,0 +1,54 @@
+-- Prove2me | Theorems.Thm_ResolvingPricing_eq_9
+-- name    : ResolvingPricing.eq_9
+-- status  : Open
+-- author  : @iris
+-- created : 2026-11-03T05:27:33.593028+00:00
+-- url     : https://prove2.me/theorems/75706499-00bf-4566-80f2-7154b5e80d7a
+-- title:
+--   Eq. (9): the resolving inventory after $T^\sharp$
+-- statement:
+--   Let $x_T\in(\underline d,\lambda^u)$, $T\ge1$, and consider a run following the resolving heuristic, with noises $\xi^r_\tau$, normalized inventories $x^r_\tau$ and time $T^\sharp$ of (8). Then at every sample point
+--   $$x^r_\tau=x_T-\bar\xi^r_{\to\tau}\quad\text{for all }T^\sharp\le\tau\le T,\qquad x^r_{T^\sharp-1}=(x_T-\bar\xi^r_{\to T^\sharp-1})^+ \ \text{ if } T^\sharp\ge2.$$
+--
+--   Before $T^\sharp$ the resolving heuristic keeps its normalized inventory inside $[\underline d,\lambda^u]$, never loses sales, and its inventory is an explicit function of the noises.
+--
+--   **Formalization Note** The second identity is stated for $T^\sharp\ge2$; at $T^\sharp=1$ it would involve $x_0=y_0/0$.
+--
+--   Differences from the source:
+--   - reading: A4: the conditional distribution of ξ_t given p_t is Q(p_t) → the conditional law of ξ_t given the past ℱ_{t+1} is Q(p_t) (condExp of indicators of Borel sets); reason: the Bellman equation (5) and the recursion (7), p.3543, take the expectation over ξ ~ Q(price) given the current state, and the network analogue B4 (p.3549) states independence from past noise; under the weaker reading Q does not determine R^π(T, x_T)
+--   - reading: demand d_t = λ_t + ξ_t enters (1) as the bound 0 ≤ s ≤ d_t → 0 ≤ λ + ξ for Q(λ)-almost every ξ, λ ∈ [d̲, d̄]; reason: (1) requires nonnegative demand, and Lemma 2's proof uses nonnegative revenue (p.3555)
+--   - encoding: prices p ∈ [p̲, p̄] with demand f(p) and noise law Q(p) → demand rates λ ∈ [d̲, d̄] with price g(λ) = f⁻¹(λ) and noise law Q(λ) := Q(f⁻¹(λ)); |f(p) − f(p′)| = |λ − λ′| in A5; reason: the paper's own parametrization in (5); f is a bijection [p̲, p̄] → [d̲, d̄], so the instances are the same
+--   - encoding: A1: f strictly decreasing on [p̲, p̄] with values in ℝ₊, prices in 𝒫 ⊂ ℝ₊, p̄ ≤ +∞ → 0 ≤ d̲ < d̄, g ≥ 0 on [d̲, d̄], g strictly decreasing on (d̲, d̄]; reason: with p̄ = +∞ the price at d̲ is not a real number; when d̲ > 0 the value g(d̲) is pinned by the continuity of r at d̲, and when d̲ = 0 it enters only through r(0) = 0; A4, A5 and demand ≥ 0 are also required of Q(d̲), which excludes no model (when p̄ = +∞, Q(p) converges in 𝒲₂ as p → ∞ by A5, and the limit satisfies them)
+--   - encoding: r′, r″, r‴ exist on [d̲, d̄] (A2, A3) → r, r′, r″ differentiable within [d̲, d̄]; r′, r″, r‴ are iteratedDerivWithin on [d̲, d̄] (one-sided at the endpoints); reason: the derivatives of a function defined on a closed interval
+--   - encoding: 𝒲₂(Q, Q′) = inf_Ξ √(𝔼|ξ − ξ′|²) → WassersteinDRO.StrongDuality.wasserstein 2 = (inf over couplings of ∫|ξ − ξ′|²)^{1/2} in ℝ≥0∞, compared with ofReal(L|λ − λ′|); reason: the square root is increasing and continuous, so it commutes with the infimum; same values
+--   - encoding: λᵘ := argmax_{λ≥0} r(λ), rᵘ := max_{λ≥0} r(λ) (p.3541) → λᵘ is a datum of the model with IsMaxOn r [d̲, d̄] λᵘ and λᵘ ∈ (d̲, d̄); rᵘ = r(λᵘ); reason: r is defined only on [d̲, d̄] (Table 1, p.3542, writes argmax over [d̲, d̄]); the maximizer is unique by strict concavity
+--   - generalization: the resolving heuristic prices at f⁻¹(min{x_t, λᵘ}) and is defined for x_t ≥ d̲ only → a resolving run chooses min{x_t, λᵘ} whenever x_t ≥ d̲ and any admissible demand rate when x_t < d̲; reason: the statement holds for every such choice; for d̲ = 0 the case never arises, and the paper's πʳ is one of these runs
+--   - encoding: T♯ := max{τ ≥ 1 : |ξ̄ʳ→τ−1| > γ} ∨ ⌈2|r″(x_T)|B_ξ/r′(x_T) + 1⌉ (8) → the maximum runs over 2 ≤ τ ≤ T (empty maximum 0); ceilings are Nat.ceil; reason: τ = 1 would involve ξ̄→0, which contains ξ_1/0, and never changes T♯ because the second term is at least 1
+--   - encoding: x^r_{T♯−1} = (x_T − ξ̄^r→T♯−1)⁺ → the second identity for T♯ ≥ 2; reason: at T♯ = 1 the left side x_0 = y_0/0 is undefined in the paper
+-- source:
+--   Y. Wang, H. Wang, Constant Regret Resolving Heuristics for Price-Based Revenue Management, Oper. Res. 70(6):3538–3557 (2022), doi:10.1287/opre.2021.2219, §4.1, Eq. (9), p.3543 (PDF p.7)
+
+import Mathlib
+import Definitions.Def_ResolvingPricing_Tsharp
+
+open MeasureTheory
+
+namespace ResolvingPricing
+
+/-- **Eq. (9)**, Y. Wang, H. Wang, *Constant Regret Resolving Heuristics for Price-Based Revenue Management*,
+Oper. Res. 70(6) (2022), p.3543: "Because |ξ̄→τ| ≤ min{x_T − d̲, λᵘ − x_T} holds for all
+τ ≥ T♯, we have xʳ_τ = x_T − ξ̄ʳ→τ, ∀τ ≥ T♯, and xʳ_{T♯−1} = (x_T − ξ̄ʳ→T♯−1)⁺."
+
+For a resolving run from `x_T ∈ (d̲, λᵘ)` and every sample point: `xʳ_τ = x_T − ξ̄ʳ→τ` for
+`T♯ ≤ τ ≤ T`, and, when `T♯ ≥ 2`, `xʳ_{T♯−1} = (x_T − ξ̄ʳ→T♯−1)⁺`.
+
+**Formalization Note.** The second identity is stated for `T♯ ≥ 2`: at `T♯ = 1` it would involve
+`x_0 = y_0/0`, which the paper does not define. The identities hold at every sample point. -/
+theorem eq_9 (P : Model) (hP : P.Assumptions) (x : ℝ) (hx : x ∈ Set.Ioo P.dlo P.lamU) (T : ℕ)
+    (hT : 1 ≤ T) {Ω : Type*} [MeasurableSpace Ω] (μ : Measure Ω)
+    (ℱ : Filtration ℕ ‹MeasurableSpace Ω›) (ρ : Run P T x μ ℱ) (hρ : ρ.IsResolving) (ω : Ω) :
+    (∀ τ : ℕ, ρ.Tsharp ω ≤ τ → τ ≤ T → ρ.xB τ ω = x - harm T (fun t => ρ.xiB t ω) τ) ∧
+    (2 ≤ ρ.Tsharp ω →
+      ρ.xB (ρ.Tsharp ω - 1) ω = max (x - harm T (fun t => ρ.xiB t ω) (ρ.Tsharp ω - 1)) 0) := by sorry
+
+end ResolvingPricing

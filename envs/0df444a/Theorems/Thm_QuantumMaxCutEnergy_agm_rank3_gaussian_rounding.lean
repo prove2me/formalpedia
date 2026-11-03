@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_agm_rank3_gaussian_rounding
 -- name    : QuantumMaxCutEnergy.agm_rank3_gaussian_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T17:00:26.50218+00:00
 -- url     : https://prove2.me/theorems/9ed74a37-1721-48f0-95d6-3777ba1d8ba1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_Hyperplane_expectation_chain
 -- name    : RegevLWE.Hyperplane.expectation_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:12:52.582978+00:00
 -- url     : https://prove2.me/theorems/c970f003-bb77-4d12-9e95-5a371f268b4d

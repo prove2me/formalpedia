@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_semigroup_generation
 -- name    : EthierKurtz.oblique_semigroup_generation
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-27T02:16:40.143312+00:00
 -- url     : https://prove2.me/theorems/3829e389-d98b-4919-bda1-2708534d4191

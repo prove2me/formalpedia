@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Extinct_inequalities_5_1_5_2
 -- name    : StochKolmogorov.Extinct.inequalities_5_1_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:33:54.540747+00:00
 -- url     : https://prove2.me/theorems/732713b3-38f5-4a8f-a907-f0999c199e21

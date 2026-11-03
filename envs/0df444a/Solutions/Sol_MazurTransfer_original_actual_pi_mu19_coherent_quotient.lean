@@ -1,0 +1,123 @@
+-- Prove2me | solution 1 for MazurTransfer.original_actual_pi_mu19_coherent_quotient
+-- status  : ACCEPTED   (prove)
+-- author  : @Vas
+-- created : 2026-11-02T16:51:43.06131+00:00
+-- url     : https://prove2.me/submissions/33d4aeab-bc27-4f35-85d3-70260fa98195
+
+/-
+Copyright (c) 2026 Vas and contributors. Released under Apache-2.0.
+Design boundary: retain the same selected pi quotient, its same finite-flat Hopf model, inclusion and arithmetic label under normalized literal mu19 scalar change.
+Named downstream consumer: pushforward of the actual integral pi norm-preimage torsor and its literal mu19 Kummer unit condition.
+-/
+import Definitions.Def_MazurTransfer_OriginalActualPiMu19CoherentQuotientData20261020
+import Theorems.Thm_MazurTransfer_original_actual_integral_character_quotients
+import Theorems.Thm_MazurTransfer_original_selected_pi_mu19_quotient
+noncomputable section
+open MazurTransfer
+
+open CategoryTheory AlgebraicGeometry AlgebraicGeometry.RelPicard
+open GoodReductionJacobian NeronModelInfra
+open MazurTorsion.XOneThirteenProjectiveCurve
+open Order13SameIntegralPicardRationalSchemeComparison Order13LocalIntegralCoefficientMaps
+open Order13ActualPicardDiamondSchemeEndomorphism Order13ActualPicardSchemeNineteenNorm
+open Order13ActualPicardSchemeNormGroupHom Order13ActualPicardNormKernelGaloisAction
+open Order13ActualNormKernelF19Representation Order13ActualNormKernelFiniteModule
+open Order13IntegralRepresentationQuotient Order13ActualOrderedCharacterContinuousH1
+open Order13RationalSubringBaseChange NineteenRootsGaloisRepresentation
+open Order13RationalSubringMu19Classification CyclicNineteenGroupAlgebraPoints BialgebraCyclicMu19Points
+open BialgebraBaseChangePointRestriction
+open Order13SelectedPiMu19Quotient Order13ActualIntegralCharacterQuotients
+open Order13GoodPrimeLocalPicardModels Order13GoodPrimeIntegralNormExtensions
+open RelativeGroupLawFiniteFlatKernelHopf Order13IntegralArithmeticNormKernelComparison
+open Order13ActualArithmeticKernelAdditiveAction
+open scoped CategoryTheory.MonObj TensorProduct
+local notation "F" => AlgebraicClosure ℚ
+local notation "R" => LocalRing 19
+local notation "S" => GaloisRep.ratLocalizedAt 19
+open MazurTransfer.Order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instFactPrimeOfNatNat_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instIsMonHomOverSchemeSpecOfRatSchemePi_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instIsFiniteLeftSchemeSchemePi_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instGrpObjOverSchemeSpecOfRatMkToBaseActualPicard_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instDistribMulActionAlgEquivRatAlgebraicClosureAdditiveSubtypePointsMemSubgroupKernelSchemePi_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instIsGaloisRatAlgebraicClosure_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instAlgebraLocalRingOfNatNatAlgebraicClosureRat_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instIsScalarTowerLocalRingOfNatNatRatAlgebraicClosure_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instIsScalarTowerLocalRingOfNatNatSubtypeRatMemSubringRatLocalizedAtAlgebraicClosure_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instModuleZModOfNatNatAdditiveSubtypeUnitsAlgebraicClosureRatMemSubgroupRoots_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instFactForallEqSubtypePointsAlgebraicClosureRatMemSubgroupKernelSchemePiHPowOfNat_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instModuleZModOfNatNatAdditiveSubtypePointsAlgebraicClosureRatMemSubgroupKernelSchemePi_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instIsCommMonObjOverSchemeSpecOfRatMkToBaseActualPicard_order13ActualPiMu19CoherentQuotient
+attribute [local instance] MazurTransfer.Order13ActualPiMu19CoherentQuotient.instMulDistribMulActionAlgEquivRatAlgebraicClosureSubtypePointsMemSubgroupKernelSchemePi_order13ActualPiMu19CoherentQuotient
+namespace MazurTransfer.OriginalActualPiMu19CoherentQuotientBoundary20261020
+end MazurTransfer.OriginalActualPiMu19CoherentQuotientBoundary20261020
+/-
+Copyright (c) 2026 Vas and contributors. Released under Apache-2.0.
+Design boundary: retain the SAME selected piQuotient model in NORMALIZED literal mu19 coordinates, bialgebra
+inclusion, arithmetic label and restriction identity when classifying
+its canonical scalar base change at nineteen. No replacement quotient.
+Named downstream consumer: pushforward of the actual integral pi torsor
+and its literal-mu19 Kummer unit condition.
+-/
+
+noncomputable section
+namespace MazurTransfer.OriginalActualPiMu19CoherentQuotientProof20261020
+open CategoryTheory AlgebraicGeometry AlgebraicGeometry.RelPicard
+open GoodReductionJacobian NeronModelInfra
+open MazurTorsion.XOneThirteenProjectiveCurve
+open Order13SameIntegralPicardRationalSchemeComparison Order13LocalIntegralCoefficientMaps
+open Order13ActualPicardDiamondSchemeEndomorphism Order13ActualPicardSchemeNineteenNorm
+open Order13ActualPicardSchemeNormGroupHom Order13ActualPicardNormKernelGaloisAction
+open Order13ActualNormKernelF19Representation Order13ActualNormKernelFiniteModule
+open Order13IntegralRepresentationQuotient Order13ActualOrderedCharacterContinuousH1
+open Order13RationalSubringBaseChange NineteenRootsGaloisRepresentation
+open Order13RationalSubringMu19Classification CyclicNineteenGroupAlgebraPoints BialgebraCyclicMu19Points
+open BialgebraBaseChangePointRestriction
+open Order13SelectedPiMu19Quotient Order13ActualIntegralCharacterQuotients
+open Order13GoodPrimeLocalPicardModels Order13GoodPrimeIntegralNormExtensions
+open RelativeGroupLawFiniteFlatKernelHopf Order13IntegralArithmeticNormKernelComparison
+open Order13ActualArithmeticKernelAdditiveAction
+open scoped CategoryTheory.MonObj TensorProduct
+
+
+
+
+
+
+
+
+
+
+
+
+
+variable (z : F) (hz : IsPrimitiveRoot z 13) (𝒱 : (curveScheme ℚ).TwoAffineOpenCover)
+
+
+
+
+
+
+
+
+theorem actual_pi_nineteen_coherent_normalized_mu19_model :
+    HasCoherentActualPiMu19Model z hz 𝒱 := by
+  have originalBoth := MazurTransfer.original_actual_integral_character_quotients.2.2
+  have h := (@originalBoth F _ _ _ _
+    MazurTransfer.Order13ActualPiMu19CoherentQuotient.instAlgebraLocalRingOfNatNatAlgebraicClosureRat_order13ActualPiMu19CoherentQuotient
+    MazurTransfer.Order13ActualPiMu19CoherentQuotient.instIsScalarTowerLocalRingOfNatNatRatAlgebraicClosure_order13ActualPiMu19CoherentQuotient z hz 𝒱).1
+  obtain ⟨G, iCR, iHA, hFin, hFree, hComm, eAll, hMul, hNat, e, he_add, he_act, hCompat, hQ⟩ := h
+  letI := iCR
+  letI := iHA
+  letI := hFin
+  letI := hFree
+  letI := hComm
+  exact ⟨G, iCR, iHA, hFin, hFree, hComm, eAll, hMul, hNat, e, he_add, he_act, hCompat,
+    MazurTransfer.original_selected_pi_mu19_quotient.2 z hz 𝒱 G e hQ⟩
+
+end MazurTransfer.OriginalActualPiMu19CoherentQuotientProof20261020
+
+theorem solution : (∀ (z : F) (hz : IsPrimitiveRoot z 13) (𝒱 : (curveScheme ℚ).TwoAffineOpenCover),
+HasCoherentActualPiMu19Model z hz 𝒱) := by
+  exact MazurTransfer.OriginalActualPiMu19CoherentQuotientProof20261020.actual_pi_nineteen_coherent_normalized_mu19_model
+#print axioms solution

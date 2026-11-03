@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_create_create_inner_s50
 -- name    : OAI.Laughlin.Fock.create_create_inner_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:43:46.322473+00:00
 -- url     : https://prove2.me/theorems/90c0e6aa-1455-41a0-866e-5af57c5da086

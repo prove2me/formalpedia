@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WiretapFeedback_minimax_condDiv_eq_max_condMutualInfo
 -- name    : WiretapFeedback.minimax_condDiv_eq_max_condMutualInfo
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:59:51.894015+00:00
 -- url     : https://prove2.me/theorems/1f9826bc-5130-486a-bc26-678e379c22f8

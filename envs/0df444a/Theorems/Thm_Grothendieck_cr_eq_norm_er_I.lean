@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grothendieck_cr_eq_norm_er_I
 -- name    : Grothendieck.cr_eq_norm_er_I
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-02T04:17:01.810022+00:00
 -- url     : https://prove2.me/theorems/63b548bf-7606-4883-8afa-3ecaa022f268

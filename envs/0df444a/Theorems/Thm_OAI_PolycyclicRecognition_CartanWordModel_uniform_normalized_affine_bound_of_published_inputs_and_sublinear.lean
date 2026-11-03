@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_CartanWordModel_uniform_normalized_affine_bound_of_published_inputs_and_sublinear
 -- name    : OAI.PolycyclicRecognition.CartanWordModel.uniform_normalized_affine_bound_of_published_inputs_and_sublinear
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:54:30.650689+00:00
 -- url     : https://prove2.me/theorems/023a985a-beab-4b79-9367-9e57700e83be

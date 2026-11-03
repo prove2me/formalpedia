@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_OddFactors_g81_cyclicallyEdgeConnected_four
 -- name    : SnarkGen.OddFactors.g81_cyclicallyEdgeConnected_four
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:52.198321+00:00
 -- url     : https://prove2.me/theorems/7fa67adb-f5a3-4a2e-8a3e-90c6f7927a2d

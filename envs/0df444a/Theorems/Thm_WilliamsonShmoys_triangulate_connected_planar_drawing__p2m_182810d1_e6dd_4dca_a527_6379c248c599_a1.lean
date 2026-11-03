@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulate_connected_planar_drawing__p2m_182810d1_e6dd_4dca_a527_6379c248c599_a1
 -- name    : WilliamsonShmoys.triangulate_connected_planar_drawing__p2m_182810d1_e6dd_4dca_a527_6379c248c599_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:55:45.055861+00:00
 -- url     : https://prove2.me/theorems/f3a63840-9387-418b-904c-fbe2e8408361

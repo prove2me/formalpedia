@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_connected_edge_bound__p2m_fab89fb1_e873_4b82_98f3_cd1985d7426b_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:41:43.839256+00:00
 -- url     : https://prove2.me/submissions/470a2060-88f6-44d2-9b30-73099d94f635
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_face_count_certificate__p2m_84071c7f_05d0_4d93_a512_f7a4506c6617_a1

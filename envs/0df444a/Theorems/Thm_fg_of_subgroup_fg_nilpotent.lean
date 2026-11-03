@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_fg_of_subgroup_fg_nilpotent
 -- name    : fg_of_subgroup_fg_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:07:28.603838+00:00
 -- url     : https://prove2.me/theorems/3a19a1c0-56d4-4a0b-b2bf-1bcc6112f6dc

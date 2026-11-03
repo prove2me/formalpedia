@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_OneInThree_proposition_8_12
 -- name    : AlgebraicPCSP.OneInThree.proposition_8_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:13:15.955534+00:00
 -- url     : https://prove2.me/theorems/32f5e699-2470-45d6-ad20-68e158939f5d

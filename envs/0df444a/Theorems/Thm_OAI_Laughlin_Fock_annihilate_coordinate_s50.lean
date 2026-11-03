@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_annihilate_coordinate_s50
 -- name    : OAI.Laughlin.Fock.annihilate_coordinate_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:42:20.217271+00:00
 -- url     : https://prove2.me/theorems/adb973e0-2ebb-431a-acd0-cdb8d275c3fb

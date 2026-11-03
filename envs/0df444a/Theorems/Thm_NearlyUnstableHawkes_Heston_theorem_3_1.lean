@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyUnstableHawkes_Heston_theorem_3_1
 -- name    : NearlyUnstableHawkes.Heston.theorem_3_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:36:21.206849+00:00
 -- url     : https://prove2.me/theorems/7ade6a3f-09bc-4ecb-a407-665b98aef280

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Laughlin.Certificate.four_body_23_positive_s50
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-01T13:04:29.530842+00:00
 -- url     : https://prove2.me/submissions/1e534dcc-4697-4b39-9335-e12ed1628c9d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ050L010

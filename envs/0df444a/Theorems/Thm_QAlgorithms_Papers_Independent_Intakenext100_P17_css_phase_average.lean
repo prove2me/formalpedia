@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P17_css_phase_average
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P17.css_phase_average
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T04:18:56.689985+00:00
 -- url     : https://prove2.me/theorems/15e77b6e-3edd-4619-a3cc-791d2ad31960

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_source_seven_squares_normal_form_s50
 -- name    : OAI.Laughlin.Fock.source_seven_squares_normal_form_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:00:22.148811+00:00
 -- url     : https://prove2.me/theorems/b1a63d0b-1bf6-4763-bdb8-964eb74e11fb

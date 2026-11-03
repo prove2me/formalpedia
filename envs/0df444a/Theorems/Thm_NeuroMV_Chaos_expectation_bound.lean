@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuroMV_Chaos_expectation_bound
 -- name    : NeuroMV.Chaos.expectation_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:43:01.573431+00:00
 -- url     : https://prove2.me/theorems/0b76e30c-0520-4477-9779-83e499f0402f

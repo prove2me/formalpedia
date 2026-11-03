@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_triangulation__p2m_91b0396d_b61c_4659_90f8_b13543ceeb7a_a1
 -- name    : WilliamsonShmoys.planar_supergraph_triangulation__p2m_91b0396d_b61c_4659_90f8_b13543ceeb7a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:56:03.661373+00:00
 -- url     : https://prove2.me/theorems/8d0b95f1-3d22-423b-9850-63148fea79a7

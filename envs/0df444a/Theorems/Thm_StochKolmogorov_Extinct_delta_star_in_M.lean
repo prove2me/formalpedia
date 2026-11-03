@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Extinct_delta_star_in_M
 -- name    : StochKolmogorov.Extinct.delta_star_in_M
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:32:55.144882+00:00
 -- url     : https://prove2.me/theorems/8c335bd5-9fdf-4421-a347-72271b50e7d8

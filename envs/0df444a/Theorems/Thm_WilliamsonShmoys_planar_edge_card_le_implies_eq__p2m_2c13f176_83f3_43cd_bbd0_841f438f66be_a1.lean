@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_card_le_implies_eq__p2m_2c13f176_83f3_43cd_bbd0_841f438f66be_a1
 -- name    : WilliamsonShmoys.planar_edge_card_le_implies_eq__p2m_2c13f176_83f3_43cd_bbd0_841f438f66be_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:28:11.835053+00:00
 -- url     : https://prove2.me/theorems/b8f11d0e-0743-447b-bd9e-0d09cae7fea7

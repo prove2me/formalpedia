@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_statistics__p2m_24514a04_46c3_4995_8d84_ff88ef385ed2_a1
 -- name    : WilliamsonShmoys.component_statistics__p2m_24514a04_46c3_4995_8d84_ff88ef385ed2_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:25:23.693605+00:00
 -- url     : https://prove2.me/theorems/cc6e681f-1c9c-4292-b225-453a51c0e59c

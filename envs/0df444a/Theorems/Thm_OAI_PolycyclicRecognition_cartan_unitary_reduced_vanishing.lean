@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_cartan_unitary_reduced_vanishing
 -- name    : OAI.PolycyclicRecognition.cartan_unitary_reduced_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:26:34.860288+00:00
 -- url     : https://prove2.me/theorems/4c9ce84e-54a2-43eb-ac09-34bb648d335b

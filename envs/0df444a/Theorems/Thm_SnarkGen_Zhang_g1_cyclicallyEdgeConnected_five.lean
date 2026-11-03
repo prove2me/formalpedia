@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_Zhang_g1_cyclicallyEdgeConnected_five
 -- name    : SnarkGen.Zhang.g1_cyclicallyEdgeConnected_five
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:29.848993+00:00
 -- url     : https://prove2.me/theorems/e2e1e572-7b83-44da-bfea-e27671592018

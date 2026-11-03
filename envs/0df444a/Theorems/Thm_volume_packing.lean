@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_volume_packing
 -- name    : volume_packing
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:29:28.960024+00:00
 -- url     : https://prove2.me/theorems/c31def96-253d-48ff-8a1b-5f3aa1308c18

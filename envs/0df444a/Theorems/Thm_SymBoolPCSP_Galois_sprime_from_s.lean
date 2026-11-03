@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_Galois_sprime_from_s
 -- name    : SymBoolPCSP.Galois.sprime_from_s
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:51.955911+00:00
 -- url     : https://prove2.me/theorems/f0d9fa39-9894-495f-902b-e743a58b166a

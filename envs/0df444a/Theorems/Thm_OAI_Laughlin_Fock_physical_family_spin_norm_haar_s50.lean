@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_family_spin_norm_haar_s50
 -- name    : OAI.Laughlin.Fock.physical_family_spin_norm_haar_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:52:23.664358+00:00
 -- url     : https://prove2.me/theorems/f7db6dfe-234a-4fbf-b453-12099dd5b720

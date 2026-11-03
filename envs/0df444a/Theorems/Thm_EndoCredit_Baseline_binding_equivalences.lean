@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoCredit_Baseline_binding_equivalences
 -- name    : EndoCredit.Baseline.binding_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:17:02.00858+00:00
 -- url     : https://prove2.me/theorems/d0e7609f-9972-4743-9a4e-a8dbcfd5a7c1

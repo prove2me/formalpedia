@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connectedPlanarInducedEdgeBound__p2m_d29cc926_0e2e_4704_bc36_256caa004206_a1
 -- name    : WilliamsonShmoys.connectedPlanarInducedEdgeBound__p2m_d29cc926_0e2e_4704_bc36_256caa004206_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:43:48.371961+00:00
 -- url     : https://prove2.me/theorems/c24b8acc-e048-42e5-be54-b766a7976a06

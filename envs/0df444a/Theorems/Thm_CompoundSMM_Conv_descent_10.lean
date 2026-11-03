@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompoundSMM_Conv_descent_10
 -- name    : CompoundSMM.Conv.descent_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:23.036112+00:00
 -- url     : https://prove2.me/theorems/727e8b0f-c956-465d-8542-18e3018e1344

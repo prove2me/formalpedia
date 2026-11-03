@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DiscreteConvex.ConjugacyDualityB.conjugacy_theorem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-02T03:50:00.847045+00:00
 -- url     : https://prove2.me/submissions/c76c29c0-d64b-4dcb-8277-3c099ecc7b8e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_DiscreteConvex_ConjugacyDualityB_MExchangeAxiomR

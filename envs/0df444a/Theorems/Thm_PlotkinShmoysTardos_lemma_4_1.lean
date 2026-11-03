@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlotkinShmoysTardos_lemma_4_1
 -- name    : PlotkinShmoysTardos.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:53:30.753019+00:00
 -- url     : https://prove2.me/theorems/5640ab3f-ece4-4433-b9d0-eb3aee33e572

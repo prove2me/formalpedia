@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_toIntLinearMap_comp_mul
 -- name    : toIntLinearMap_comp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:10:48.792333+00:00
 -- url     : https://prove2.me/theorems/2ded6979-29ea-49ab-9046-9fe700501807

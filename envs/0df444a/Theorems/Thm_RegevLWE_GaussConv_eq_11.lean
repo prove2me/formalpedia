@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_GaussConv_eq_11
 -- name    : RegevLWE.GaussConv.eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:08:28.489374+00:00
 -- url     : https://prove2.me/theorems/a2a5400d-5136-4774-89d7-ee08ebedf279

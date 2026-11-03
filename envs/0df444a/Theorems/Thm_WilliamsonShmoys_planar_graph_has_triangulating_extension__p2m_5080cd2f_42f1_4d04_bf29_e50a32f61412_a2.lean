@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_has_triangulating_extension__p2m_5080cd2f_42f1_4d04_bf29_e50a32f61412_a2
 -- name    : WilliamsonShmoys.planar_graph_has_triangulating_extension__p2m_5080cd2f_42f1_4d04_bf29_e50a32f61412_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:47:16.806726+00:00
 -- url     : https://prove2.me/theorems/cfcb8007-1ff9-4f3a-9061-c47c5589ef6f

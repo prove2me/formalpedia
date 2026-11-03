@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneratesNS_growth_exponent_pos
 -- name    : GeneratesNS.growth_exponent_pos
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:16:56.306358+00:00
 -- url     : https://prove2.me/theorems/c7446b2d-80a4-4611-be89-ee31ad09df12

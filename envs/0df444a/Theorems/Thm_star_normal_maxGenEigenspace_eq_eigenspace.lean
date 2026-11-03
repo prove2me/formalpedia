@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_star_normal_maxGenEigenspace_eq_eigenspace
 -- name    : star_normal_maxGenEigenspace_eq_eigenspace
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:10:15.835008+00:00
 -- url     : https://prove2.me/theorems/c49909b8-aa81-4943-a468-7d3b331cb63e

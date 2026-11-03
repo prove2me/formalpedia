@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_min_degree_two_edge_bound__p2m_5d9b8ff2_1349_4ea9_a2d4_f406c9d22c5b_a1
 -- name    : WilliamsonShmoys.planar_min_degree_two_edge_bound__p2m_5d9b8ff2_1349_4ea9_a2d4_f406c9d22c5b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:06:34.963645+00:00
 -- url     : https://prove2.me/theorems/91c2a078-2934-42b0-a2de-624c6c24d6cd

@@ -3212,7 +3212,7 @@
 {"parent": "BurkholderDFI.ConvexPhi.eq_1_5", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
 {"parent": "BurkholderDFI.ConvexPhi.eq_7_9", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI.ConvexPhi.lemma_16_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
-{"parent": "BurkholderDFI.ConvexPhi.lemma_7_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
+{"parent": "BurkholderDFI.ConvexPhi.lemma_7_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI.ConvexPhi.neveu_comparison", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
 {"parent": "BurkholderDFI.ConvexPhi.neveu_pair_ineq", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI.ConvexPhi.theorem_15_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
@@ -75659,9 +75659,9 @@
 {"parent": "ClarkeGradients.FlowInvariance.flowInvariant_iff_subset_tangentCone", "child": "ClarkeGradients_FlowInvariance_IsLipschitzMultifunction", "via": ["solution", "statement"]}
 {"parent": "ClarkeGradients.FlowInvariance.flowInvariant_iff_subset_tangentCone", "child": "ClarkeGradients_FlowInvariance_IsTrajectory", "via": ["solution"]}
 {"parent": "ClarkeGradients.FlowInvariance.flowInvariant_iff_subset_tangentCone", "child": "ClarkeGradients_FlowInvariance_tangentCone", "via": ["solution", "statement"]}
-{"parent": "ClarkeGradients.FlowInvariance.genDirDeriv_isGreatest", "child": "ClarkeGradients_Shared_LipschitzOnBounded", "via": ["statement"]}
-{"parent": "ClarkeGradients.FlowInvariance.genDirDeriv_isGreatest", "child": "ClarkeGradients_Shared_genDirDeriv", "via": ["statement"]}
-{"parent": "ClarkeGradients.FlowInvariance.genDirDeriv_isGreatest", "child": "ClarkeGradients_Shared_generalizedGradient", "via": ["statement"]}
+{"parent": "ClarkeGradients.FlowInvariance.genDirDeriv_isGreatest", "child": "ClarkeGradients_Shared_LipschitzOnBounded", "via": ["solution", "statement"]}
+{"parent": "ClarkeGradients.FlowInvariance.genDirDeriv_isGreatest", "child": "ClarkeGradients_Shared_genDirDeriv", "via": ["solution", "statement"]}
+{"parent": "ClarkeGradients.FlowInvariance.genDirDeriv_isGreatest", "child": "ClarkeGradients_Shared_generalizedGradient", "via": ["solution", "statement"]}
 {"parent": "ClarkeGradients.FlowInvariance.generalizedGradient_infDist_eq", "child": "ClarkeGradients_Shared_generalizedGradient", "via": ["statement"]}
 {"parent": "ClarkeGradients.FlowInvariance.hasDerivAt_infDist_trajectory_le", "child": "ClarkeGradients_FlowInvariance_IsTrajectory", "via": ["solution", "statement"]}
 {"parent": "ClarkeGradients.FlowInvariance.hasDerivAt_infDist_trajectory_le", "child": "ClarkeGradients_FlowInvariance_tangentCone", "via": ["solution", "statement"]}
@@ -93270,11 +93270,11 @@
 {"parent": "DiscreteConvex.ConjugacyDualityB.mnat_lnat_ineq_extends_to_reals", "child": "DiscreteConvex_ConjugacyDualityB_ConvexClosureVal", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.mnat_lnat_ineq_extends_to_reals", "child": "DiscreteConvex_ConjugacyDualityB_LNaturalConvex", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.mnat_lnat_ineq_extends_to_reals", "child": "DiscreteConvex_ConjugacyDualityB_MNaturalConvex", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateRW", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_IsClosedProperConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_MExchangeAxiomR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_SBFR", "via": ["statement"]}
-{"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_TRFR", "via": ["statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateRW", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_IsClosedProperConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_MExchangeAxiomR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_SBFR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem", "child": "DiscreteConvex_ConjugacyDualityB_TRFR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.supermodular_pair_conjugate_submodular", "child": "DiscreteConvex_ConjugacyDualityB_ConvexConjugateRW", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityB.supermodular_pair_conjugate_submodular", "child": "DiscreteConvex_ConjugacyDualityB_SupermodularPair", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.ConjugacyDualityC.l2_convex_argmin_is_l2_convex_set", "child": "DiscreteConvex_ConjugacyDualityC_ArgMin", "via": ["solution", "statement"]}
@@ -93822,10 +93822,10 @@
 {"parent": "DiscreteConvex.MConvexFunctionsC.mnat_convex_integrally_convex", "child": "DiscreteConvex_MConvexFunctionsC_ConvexExtensible", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsC.mnat_convex_integrally_convex", "child": "DiscreteConvex_MConvexFunctionsC_IsIntegrallyConvexFunction", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsC.mnat_convex_integrally_convex", "child": "DiscreteConvex_MConvexFunctionsC_MNaturalConvex", "via": ["solution", "statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsC.polyhedral_mnat_convex_iff_exchange_R", "child": "DiscreteConvex_MConvexFunctionsC_DomR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsC.polyhedral_mnat_convex_iff_exchange_R", "child": "DiscreteConvex_MConvexFunctionsC_IsPolyhedralConvex", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsC.polyhedral_mnat_convex_iff_exchange_R", "child": "DiscreteConvex_MConvexFunctionsC_MNatExchangeAxiomR", "via": ["statement"]}
-{"parent": "DiscreteConvex.MConvexFunctionsC.polyhedral_mnat_convex_iff_exchange_R", "child": "DiscreteConvex_MConvexFunctionsC_MNaturalConvexR", "via": ["statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsC.polyhedral_mnat_convex_iff_exchange_R", "child": "DiscreteConvex_MConvexFunctionsC_DomR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsC.polyhedral_mnat_convex_iff_exchange_R", "child": "DiscreteConvex_MConvexFunctionsC_IsPolyhedralConvex", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsC.polyhedral_mnat_convex_iff_exchange_R", "child": "DiscreteConvex_MConvexFunctionsC_MNatExchangeAxiomR", "via": ["solution", "statement"]}
+{"parent": "DiscreteConvex.MConvexFunctionsC.polyhedral_mnat_convex_iff_exchange_R", "child": "DiscreteConvex_MConvexFunctionsC_MNaturalConvexR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.dir_deriv_is_pos_homog_mconvex", "child": "DiscreteConvex_MConvexFunctionsD_DirDeriv", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.dir_deriv_is_pos_homog_mconvex", "child": "DiscreteConvex_MConvexFunctionsD_DomR", "via": ["solution", "statement"]}
 {"parent": "DiscreteConvex.MConvexFunctionsD.dir_deriv_is_pos_homog_mconvex", "child": "DiscreteConvex_MConvexFunctionsD_MExchangeAxiomR", "via": ["solution", "statement"]}
@@ -98914,11 +98914,11 @@
 {"parent": "EthierKurtz.oblique_closure_singlevalued", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["solution", "statement"]}
 {"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz.lipschitz_dense_closure", "via": ["solution"]}
 {"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz.oblique_lipschitz_resolvent", "via": ["solution"]}
-{"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz_BoundaryCOnceHolder", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz_BoundaryCTwiceHolder", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz_IsOutwardUnitNormal", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz_IsStronglyContinuousContractionSemigroup", "via": ["statement"]}
-{"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["statement"]}
+{"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz_BoundaryCOnceHolder", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz_BoundaryCTwiceHolder", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz_IsOutwardUnitNormal", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz_IsStronglyContinuousContractionSemigroup", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.oblique_dense_range", "child": "EthierKurtz_obliqueDiffusionGraph", "via": ["solution", "statement"]}
 {"parent": "EthierKurtz.oblique_dissipative_estimate", "child": "EthierKurtz_BoundaryCOnceHolder", "via": ["solution", "statement"]}
 {"parent": "EthierKurtz.oblique_dissipative_estimate", "child": "EthierKurtz_BoundaryCTwiceHolder", "via": ["solution", "statement"]}
 {"parent": "EthierKurtz.oblique_dissipative_estimate", "child": "EthierKurtz_IsOutwardUnitNormal", "via": ["solution", "statement"]}

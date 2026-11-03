@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WiretapFeedback_activeStein
 -- name    : WiretapFeedback.activeStein
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:02:50.313539+00:00
 -- url     : https://prove2.me/theorems/406b89d2-f232-4653-aa52-b6342ab0f28f

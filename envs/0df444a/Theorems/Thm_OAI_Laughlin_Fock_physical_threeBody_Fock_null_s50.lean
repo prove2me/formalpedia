@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_threeBody_Fock_null_s50
 -- name    : OAI.Laughlin.Fock.physical_threeBody_Fock_null_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:52:51.459197+00:00
 -- url     : https://prove2.me/theorems/fb2db239-1891-46f8-9906-b0aaf1646fc4

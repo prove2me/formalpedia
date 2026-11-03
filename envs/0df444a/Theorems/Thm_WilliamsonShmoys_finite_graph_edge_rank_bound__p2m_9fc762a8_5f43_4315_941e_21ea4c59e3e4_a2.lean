@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_graph_edge_rank_bound__p2m_9fc762a8_5f43_4315_941e_21ea4c59e3e4_a2
 -- name    : WilliamsonShmoys.finite_graph_edge_rank_bound__p2m_9fc762a8_5f43_4315_941e_21ea4c59e3e4_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:28:48.86606+00:00
 -- url     : https://prove2.me/theorems/aa78a1e2-d033-4093-bc4f-e6e8bfea001a

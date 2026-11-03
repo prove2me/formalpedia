@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KroneckerPow_pos
 -- name    : KroneckerPow_pos
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:21:13.619184+00:00
 -- url     : https://prove2.me/theorems/7aa837f2-b7fd-4960-b856-15cfca48069d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDisconnectedComponentCounts__p2m_db85b882_89e6_4feb_9146_2311e309823a_a3
 -- name    : WilliamsonShmoys.planarDisconnectedComponentCounts__p2m_db85b882_89e6_4feb_9146_2311e309823a_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:26:20.493799+00:00
 -- url     : https://prove2.me/theorems/d29cc926-0e2e-4704-bc36-256caa004206

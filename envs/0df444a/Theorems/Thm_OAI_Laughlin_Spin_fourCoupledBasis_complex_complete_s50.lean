@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_fourCoupledBasis_complex_complete_s50
 -- name    : OAI.Laughlin.Spin.fourCoupledBasis_complex_complete_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:00:57.000808+00:00
 -- url     : https://prove2.me/theorems/4c0aa451-8f99-4780-86c2-25baf766a10a

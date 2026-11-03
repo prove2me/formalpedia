@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_fourWeightSlice_sum_s50
 -- name    : OAI.Laughlin.Spin.fourWeightSlice_sum_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:46:29.0472+00:00
 -- url     : https://prove2.me/theorems/52019b26-8729-4c21-9d28-49a6720d5d02

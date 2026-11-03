@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NQueensComp_NPC_lemma_34
 -- name    : NQueensComp.NPC.lemma_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:32:30.36+00:00
 -- url     : https://prove2.me/theorems/e591eab8-42c6-4894-bd76-5a44ace1d71d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_embedding_counts__p2m_306301a2_72f6_4d8f_a2c9_6046e69fec66_a1
 -- name    : WilliamsonShmoys.maximal_planar_embedding_counts__p2m_306301a2_72f6_4d8f_a2c9_6046e69fec66_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T13:00:00.049812+00:00
 -- url     : https://prove2.me/theorems/324069a7-d0a2-45e0-94ba-3f9b77cc47fd

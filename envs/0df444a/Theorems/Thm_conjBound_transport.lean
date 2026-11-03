@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_conjBound_transport
 -- name    : conjBound_transport
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:06:32.976657+00:00
 -- url     : https://prove2.me/theorems/32be91eb-4c36-4dd0-b9af-10e3015ad73d

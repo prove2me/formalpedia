@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_bridge_partition__p2m_c25e31c2_3944_4e71_be02_9fbfc136a4b1_a1
 -- name    : WilliamsonShmoys.planar_bridge_partition__p2m_c25e31c2_3944_4e71_be02_9fbfc136a4b1_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:05:50.600041+00:00
 -- url     : https://prove2.me/theorems/0c3f32ed-165d-4d2a-9c18-4c03449c5c6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerTwoChoices_Limit_corollary_1
 -- name    : PowerTwoChoices.Limit.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:04:03.037142+00:00
 -- url     : https://prove2.me/theorems/a4b8fe21-722d-4a3c-a536-70657516029c

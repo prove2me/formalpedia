@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochLoadBal_Makespan_observation_2
 -- name    : StochLoadBal.Makespan.observation_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:07.487682+00:00
 -- url     : https://prove2.me/theorems/932f386a-22cc-4451-a1f7-f4d4bee0d07c

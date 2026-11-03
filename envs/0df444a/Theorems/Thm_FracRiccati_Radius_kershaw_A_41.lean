@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracRiccati_Radius_kershaw_A_41
 -- name    : FracRiccati.Radius.kershaw_A_41
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:21.553915+00:00
 -- url     : https://prove2.me/theorems/6fe79e06-06cb-4a0c-9512-bda7fc2a683f

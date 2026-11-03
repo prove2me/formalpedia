@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_corollary2_superseded_copy
 -- name    : FBMSP.corollary2_superseded_copy
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T11:49:08.309079+00:00
 -- url     : https://prove2.me/theorems/67adb57b-732b-4794-9f7b-1f9b45ffd071

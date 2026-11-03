@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_pairCoefficient_tensor_raising_s50
 -- name    : OAI.Laughlin.Spin.pairCoefficient_tensor_raising_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:47:16.200305+00:00
 -- url     : https://prove2.me/theorems/e8bb558b-74c6-4886-96ee-4f7f04fa9a9c

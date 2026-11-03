@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_simpleGraph_universe__p2m_15a542b2_5d3b_464a_bec6_5f7385b1f62b_a1
 -- name    : WilliamsonShmoys.finite_simpleGraph_universe__p2m_15a542b2_5d3b_464a_bec6_5f7385b1f62b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:31:34.709101+00:00
 -- url     : https://prove2.me/theorems/9d52c9f1-d5c0-46dd-a1b0-3d56704c6841

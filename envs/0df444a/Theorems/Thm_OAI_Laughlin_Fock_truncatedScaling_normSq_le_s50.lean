@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_truncatedScaling_normSq_le_s50
 -- name    : OAI.Laughlin.Fock.truncatedScaling_normSq_le_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:55:29.596984+00:00
 -- url     : https://prove2.me/theorems/b688d951-9d2f-4aba-9aa7-54d1b6f38546

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_disconnected_planar_connected_extension_triangulation__p2m_905a9a19_7f8b_412f_9275_cfdcc0758530_a1
 -- name    : WilliamsonShmoys.disconnected_planar_connected_extension_triangulation__p2m_905a9a19_7f8b_412f_9275_cfdcc0758530_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:22:19.606204+00:00
 -- url     : https://prove2.me/theorems/f4393a1a-6488-409a-9977-8b12369644ba

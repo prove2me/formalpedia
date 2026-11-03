@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneratesNS_word_norm_pow
 -- name    : GeneratesNS.word_norm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:22:04.832196+00:00
 -- url     : https://prove2.me/theorems/094e2199-d0be-4d9a-ae93-a712ba44d30e

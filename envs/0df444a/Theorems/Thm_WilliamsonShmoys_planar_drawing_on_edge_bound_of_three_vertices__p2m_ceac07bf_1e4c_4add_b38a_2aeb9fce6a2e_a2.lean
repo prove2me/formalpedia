@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_on_edge_bound_of_three_vertices__p2m_ceac07bf_1e4c_4add_b38a_2aeb9fce6a2e_a2
 -- name    : WilliamsonShmoys.planar_drawing_on_edge_bound_of_three_vertices__p2m_ceac07bf_1e4c_4add_b38a_2aeb9fce6a2e_a2
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:25:18.180706+00:00
 -- url     : https://prove2.me/theorems/29a01074-b0a5-4efe-b57e-2de7ca960ca8

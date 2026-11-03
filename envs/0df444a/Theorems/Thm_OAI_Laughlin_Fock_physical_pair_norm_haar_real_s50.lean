@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_pair_norm_haar_real_s50
 -- name    : OAI.Laughlin.Fock.physical_pair_norm_haar_real_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:52:52.473545+00:00
 -- url     : https://prove2.me/theorems/d702c840-e4d3-45ab-a57a-36727eb8e411

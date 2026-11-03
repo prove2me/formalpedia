@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_physical_threeBody_haar_normalization_s50
 -- name    : OAI.Laughlin.Spin.physical_threeBody_haar_normalization_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:00:56.640211+00:00
 -- url     : https://prove2.me/theorems/403f8d23-7934-4f8f-a210-e3a939135430

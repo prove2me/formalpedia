@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_TypeFPInfinity_heightKernel_virtualSolvable
 -- name    : OAI.PolycyclicRecognition.TypeFPInfinity.heightKernel_virtualSolvable
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:22:33.971833+00:00
 -- url     : https://prove2.me/theorems/0f648cbb-f7d5-439d-bb15-dc6c574783aa

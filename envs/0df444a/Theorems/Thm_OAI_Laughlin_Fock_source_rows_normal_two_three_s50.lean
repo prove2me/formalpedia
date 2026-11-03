@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_source_rows_normal_two_three_s50
 -- name    : OAI.Laughlin.Fock.source_rows_normal_two_three_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:00:21.549419+00:00
 -- url     : https://prove2.me/theorems/893cff18-5b45-406b-be00-0691b8077527

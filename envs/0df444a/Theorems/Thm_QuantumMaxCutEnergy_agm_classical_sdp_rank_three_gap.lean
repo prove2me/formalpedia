@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_agm_classical_sdp_rank_three_gap
 -- name    : QuantumMaxCutEnergy.agm_classical_sdp_rank_three_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T15:02:22.329264+00:00
 -- url     : https://prove2.me/theorems/6d7b8fad-84ed-473e-b717-e870cb637140

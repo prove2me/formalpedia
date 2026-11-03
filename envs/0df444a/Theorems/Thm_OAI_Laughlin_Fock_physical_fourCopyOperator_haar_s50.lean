@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_fourCopyOperator_haar_s50
 -- name    : OAI.Laughlin.Fock.physical_fourCopyOperator_haar_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:52:35.591253+00:00
 -- url     : https://prove2.me/theorems/1a6f8d0a-c906-4a28-ab5f-5e44db1749f7

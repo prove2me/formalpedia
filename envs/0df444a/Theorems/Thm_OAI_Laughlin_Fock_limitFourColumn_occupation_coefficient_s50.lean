@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_limitFourColumn_occupation_coefficient_s50
 -- name    : OAI.Laughlin.Fock.limitFourColumn_occupation_coefficient_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:43:12.267712+00:00
 -- url     : https://prove2.me/theorems/d2dc23e6-462f-44fe-b699-2b0e82845c56

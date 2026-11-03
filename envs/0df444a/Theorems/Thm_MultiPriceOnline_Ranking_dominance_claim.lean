@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Ranking_dominance_claim
 -- name    : MultiPriceOnline.Ranking.dominance_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:03.451674+00:00
 -- url     : https://prove2.me/theorems/e7587c86-eb26-4023-895f-aebebf71c06d

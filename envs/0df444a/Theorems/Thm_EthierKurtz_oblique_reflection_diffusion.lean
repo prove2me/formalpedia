@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_reflection_diffusion
 -- name    : EthierKurtz.oblique_reflection_diffusion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T06:15:21.677989+00:00
 -- url     : https://prove2.me/theorems/a649d8ba-5fbc-45fe-8713-95afd751b951

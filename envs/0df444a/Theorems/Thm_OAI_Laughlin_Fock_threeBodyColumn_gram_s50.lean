@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_threeBodyColumn_gram_s50
 -- name    : OAI.Laughlin.Fock.threeBodyColumn_gram_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:45:27.288682+00:00
 -- url     : https://prove2.me/theorems/bfb2e98e-5d1c-432a-8a8c-5bdd84636f63

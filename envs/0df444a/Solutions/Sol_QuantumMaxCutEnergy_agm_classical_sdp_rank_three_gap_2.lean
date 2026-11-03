@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for QuantumMaxCutEnergy.agm_classical_sdp_rank_three_gap
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-01T17:01:11.560357+00:00
 -- url     : https://prove2.me/submissions/f74ed07b-8f23-47c4-9fb4-073ffac156c8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QuantumMaxCutEnergyEstimationModel
 import Definitions.Def_ModernConvex_Relaxations_SignRelaxations

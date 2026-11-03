@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_truncatedQuadratic_error_s50
 -- name    : OAI.Laughlin.Fock.truncatedQuadratic_error_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:55:11.02598+00:00
 -- url     : https://prove2.me/theorems/8d3349af-699b-4dd1-b5fa-416e2a79886a

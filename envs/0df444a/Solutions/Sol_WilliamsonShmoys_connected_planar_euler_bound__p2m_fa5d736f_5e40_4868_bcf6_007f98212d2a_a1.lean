@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.connected_planar_euler_bound__p2m_fa5d736f_5e40_4868_bcf6_007f98212d2a_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:43:03.448742+00:00
 -- url     : https://prove2.me/submissions/f595471a-a1c1-4a2a-9875-f9fa6016de8e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_exists_maximal_planar_supergraph__p2m_8c5f7fcd_4410_4b31_b397_bfdf744b7888_a2

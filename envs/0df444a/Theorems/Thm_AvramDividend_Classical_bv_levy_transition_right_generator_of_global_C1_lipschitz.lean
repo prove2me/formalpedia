@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_levy_transition_right_generator_of_global_C1_lipschitz
 -- name    : AvramDividend.Classical.bv_levy_transition_right_generator_of_global_C1_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T22:34:53.121769+00:00
 -- url     : https://prove2.me/theorems/b56e7174-ebfe-49ac-899d-0f14fc900201

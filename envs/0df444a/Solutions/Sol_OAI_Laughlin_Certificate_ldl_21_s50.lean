@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Laughlin.Certificate.ldl_21_s50
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-01T13:32:10.751982+00:00
 -- url     : https://prove2.me/submissions/5e256ad4-6424-4829-8f2c-b8058319e1d3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ050L003

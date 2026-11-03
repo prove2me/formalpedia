@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GGHRSW_ColoredMatrix_observation_4_2a
 -- name    : GGHRSW.ColoredMatrix.observation_4_2a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:23.192781+00:00
 -- url     : https://prove2.me/theorems/a782ee9b-3bd6-4c27-844b-be9be736d614

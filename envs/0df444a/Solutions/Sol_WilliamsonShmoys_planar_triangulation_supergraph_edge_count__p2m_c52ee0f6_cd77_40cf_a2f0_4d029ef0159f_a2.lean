@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_triangulation_supergraph_edge_count__p2m_c52ee0f6_cd77_40cf_a2f0_4d029ef0159f_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:50:17.725129+00:00
 -- url     : https://prove2.me/submissions/51a5cfcc-0885-405b-a484-93d546af0517
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_maximal_supergraph_exists__p2m_cc6eda38_1b75_4537_8542_c84b46a8d9a9_a1
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_graph_edge_count__p2m_cc6eda38_1b75_4537_8542_c84b46a8d9a9_a1

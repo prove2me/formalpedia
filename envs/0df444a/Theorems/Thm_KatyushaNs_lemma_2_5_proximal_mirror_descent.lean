@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KatyushaNs_lemma_2_5_proximal_mirror_descent
 -- name    : KatyushaNs.lemma_2_5_proximal_mirror_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:50:24.580406+00:00
 -- url     : https://prove2.me/theorems/10f617ae-cf24-425a-925c-2313d00ea076

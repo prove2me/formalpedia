@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_isPolycyclic_finitelyGenerated_discrete_of_linear_nilpotent_kernel
 -- name    : OAI.PolycyclicRecognition.isPolycyclic_finitelyGenerated_discrete_of_linear_nilpotent_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:05:42.19422+00:00
 -- url     : https://prove2.me/theorems/ad1e7454-69ac-4ca4-a1c6-47816c5143fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_lower_half_plane_bridge_for_planar_drawing__p2m_3e6d8a60_d3d3_4ec8_8c95_56c4b76ce917_a3
 -- name    : WilliamsonShmoys.lower_half_plane_bridge_for_planar_drawing__p2m_3e6d8a60_d3d3_4ec8_8c95_56c4b76ce917_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T06:55:02.461203+00:00
 -- url     : https://prove2.me/theorems/f3397597-c2e4-4d35-9ca2-ff91dc1c62d8

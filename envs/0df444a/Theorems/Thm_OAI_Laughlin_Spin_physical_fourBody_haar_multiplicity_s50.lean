@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_physical_fourBody_haar_multiplicity_s50
 -- name    : OAI.Laughlin.Spin.physical_fourBody_haar_multiplicity_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:04:26.957628+00:00
 -- url     : https://prove2.me/theorems/fd122563-7460-4d2f-8476-4eac7f73f58e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneratesNS_growth_const_pos
 -- name    : GeneratesNS.growth_const_pos
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:14:58.958712+00:00
 -- url     : https://prove2.me/theorems/cb5ba3a4-e63c-420f-9230-87cff3c81129

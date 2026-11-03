@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawing_to_euler_face_certificate__p2m_e2583d82_96a1_4ed4_8709_65222159201c_a5
 -- name    : WilliamsonShmoys.drawing_to_euler_face_certificate__p2m_e2583d82_96a1_4ed4_8709_65222159201c_a5
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:03:36.088956+00:00
 -- url     : https://prove2.me/theorems/6e5a9dbe-f5b6-4fde-9426-557ef9f6a091

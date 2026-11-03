@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_centralizer_iso
 -- name    : centralizer_iso
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:29:53.524189+00:00
 -- url     : https://prove2.me/theorems/a890784d-9e60-4307-b307-e2da4fff405b

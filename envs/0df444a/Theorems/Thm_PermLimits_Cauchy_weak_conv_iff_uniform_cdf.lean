@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermLimits_Cauchy_weak_conv_iff_uniform_cdf
 -- name    : PermLimits.Cauchy.weak_conv_iff_uniform_cdf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:24:05.533983+00:00
 -- url     : https://prove2.me/theorems/fb8bd1d8-beb6-4396-b357-78dfb808aaf9

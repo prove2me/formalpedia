@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_physicalFourBodyHaar_high_column_s50
 -- name    : OAI.Laughlin.Spin.physicalFourBodyHaar_high_column_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:03:39.267742+00:00
 -- url     : https://prove2.me/theorems/ab130126-c00b-4bd1-b3f0-1f4bbed9d475

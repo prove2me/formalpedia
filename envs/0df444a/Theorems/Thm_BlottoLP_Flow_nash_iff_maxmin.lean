@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlottoLP_Flow_nash_iff_maxmin
 -- name    : BlottoLP.Flow.nash_iff_maxmin
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:12.175204+00:00
 -- url     : https://prove2.me/theorems/42329c1a-3212-4d9b-a5d0-c9c82a1f578c

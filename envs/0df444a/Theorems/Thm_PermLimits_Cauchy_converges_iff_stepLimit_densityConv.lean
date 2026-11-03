@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermLimits_Cauchy_converges_iff_stepLimit_densityConv
 -- name    : PermLimits.Cauchy.converges_iff_stepLimit_densityConv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:23:01.273652+00:00
 -- url     : https://prove2.me/theorems/fb9eec4e-0195-42c7-b13a-63bef3f19c1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_intrinsic_exponential_contMDiff
 -- name    : OAI.PolycyclicRecognition.intrinsic_exponential_contMDiff
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:04:32.728821+00:00
 -- url     : https://prove2.me/theorems/e676a3c4-3468-4c65-b0d5-05e819125219

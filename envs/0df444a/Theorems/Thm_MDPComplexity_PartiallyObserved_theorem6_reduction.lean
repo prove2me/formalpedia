@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_PartiallyObserved_theorem6_reduction
 -- name    : MDPComplexity.PartiallyObserved.theorem6_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:02:42.858813+00:00
 -- url     : https://prove2.me/theorems/bcc5371a-7647-452b-a643-2af5412a7695

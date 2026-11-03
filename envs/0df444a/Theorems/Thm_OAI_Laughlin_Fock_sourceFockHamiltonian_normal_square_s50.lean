@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_sourceFockHamiltonian_normal_square_s50
 -- name    : OAI.Laughlin.Fock.sourceFockHamiltonian_normal_square_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:53:55.227075+00:00
 -- url     : https://prove2.me/theorems/98e849ae-f4ce-49ed-a568-1d704dc8e7f5

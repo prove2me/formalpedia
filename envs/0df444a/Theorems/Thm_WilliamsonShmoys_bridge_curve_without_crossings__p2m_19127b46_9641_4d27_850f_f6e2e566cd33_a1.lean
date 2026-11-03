@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_bridge_curve_without_crossings__p2m_19127b46_9641_4d27_850f_f6e2e566cd33_a1
 -- name    : WilliamsonShmoys.bridge_curve_without_crossings__p2m_19127b46_9641_4d27_850f_f6e2e566cd33_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:34:00.962887+00:00
 -- url     : https://prove2.me/theorems/2452be11-e3aa-4029-8e20-07e4b33157c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_drawable_edge_upper_bound__p2m_d2caba73_4b7e_439a_8f09_ce231377a6dc_a2
 -- name    : planar_drawable_edge_upper_bound__p2m_d2caba73_4b7e_439a_8f09_ce231377a6dc_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T13:01:11.995472+00:00
 -- url     : https://prove2.me/theorems/89c022f5-9981-432e-a40e-914f486e5a7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracRiccati_Radius_theorem_3_3
 -- name    : FracRiccati.Radius.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:27.290992+00:00
 -- url     : https://prove2.me/theorems/b706d1b6-e171-4ae2-9538-b9d047434738

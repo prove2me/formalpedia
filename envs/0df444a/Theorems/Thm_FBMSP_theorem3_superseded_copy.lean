@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMSP_theorem3_superseded_copy
 -- name    : FBMSP.theorem3_superseded_copy
--- status  : Open
+-- status  : Proved
 -- author  : @mikeh
 -- created : 2026-10-30T11:48:43.586986+00:00
 -- url     : https://prove2.me/theorems/b1aa617e-90ce-47eb-80c3-5ebc8a4e8cdb

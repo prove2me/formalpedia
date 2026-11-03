@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_energy_eq_sum_overlap
 -- name    : QuantumMaxCutEnergy.energy_eq_sum_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-02T04:16:53.854333+00:00
 -- url     : https://prove2.me/theorems/9fd16027-bf97-4d55-97b5-a66a585d7a6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_maximal_planar_edge_count__p2m_10eaf2f1_7409_4fae_95fa_e1e70a835601_a1
 -- name    : maximal_planar_edge_count__p2m_10eaf2f1_7409_4fae_95fa_e1e70a835601_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:53:26.60436+00:00
 -- url     : https://prove2.me/theorems/bdb0b1a3-a370-4c2c-bcc2-22fef43b3c68

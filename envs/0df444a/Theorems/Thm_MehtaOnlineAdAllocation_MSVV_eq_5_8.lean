@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MehtaOnlineAdAllocation_MSVV_eq_5_8
 -- name    : MehtaOnlineAdAllocation.MSVV.eq_5_8
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T15:39:20.779426+00:00
 -- url     : https://prove2.me/theorems/dbe9b276-fc3d-423c-aa8e-2ef79e59b997

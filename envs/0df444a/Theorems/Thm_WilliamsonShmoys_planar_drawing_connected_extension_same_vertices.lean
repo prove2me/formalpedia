@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_extension_same_vertices
 -- name    : WilliamsonShmoys.planar_drawing_connected_extension_same_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T21:47:44.575574+00:00
 -- url     : https://prove2.me/theorems/aa88f872-0354-4fa0-ae0c-fd5a0ff2cf62

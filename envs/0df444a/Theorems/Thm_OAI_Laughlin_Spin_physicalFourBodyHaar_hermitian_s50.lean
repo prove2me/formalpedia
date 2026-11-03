@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_physicalFourBodyHaar_hermitian_s50
 -- name    : OAI.Laughlin.Spin.physicalFourBodyHaar_hermitian_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:03:30.229129+00:00
 -- url     : https://prove2.me/theorems/5db95628-ea1e-433e-ae5a-6be600ded1dd

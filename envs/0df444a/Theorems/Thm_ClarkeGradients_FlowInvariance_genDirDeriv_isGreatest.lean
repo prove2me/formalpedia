@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClarkeGradients_FlowInvariance_genDirDeriv_isGreatest
 -- name    : ClarkeGradients.FlowInvariance.genDirDeriv_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:42:42.945107+00:00
 -- url     : https://prove2.me/theorems/e5b0f22e-32ed-4899-bae9-d90621fb03da

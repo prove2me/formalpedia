@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuroMV_Chaos_gronwall_bound
 -- name    : NeuroMV.Chaos.gronwall_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:42:58.105262+00:00
 -- url     : https://prove2.me/theorems/7afeeba5-77c8-44b9-a905-7f67c9d1edfb

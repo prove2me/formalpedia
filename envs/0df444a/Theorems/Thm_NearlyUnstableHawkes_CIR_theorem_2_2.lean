@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyUnstableHawkes_CIR_theorem_2_2
 -- name    : NearlyUnstableHawkes.CIR.theorem_2_2
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:37:01.198979+00:00
 -- url     : https://prove2.me/theorems/fc2cfd13-0bfd-4fc2-b7f0-7618b9a7dd85

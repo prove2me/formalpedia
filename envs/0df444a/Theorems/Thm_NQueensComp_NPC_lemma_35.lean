@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NQueensComp_NPC_lemma_35
 -- name    : NQueensComp.NPC.lemma_35
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:32:24.674219+00:00
 -- url     : https://prove2.me/theorems/9a1a6fef-8ca4-4820-9f0e-f9a500c1db2e

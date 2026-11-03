@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_drawable_supergraph_edge_count__p2m_14ab409d_ba46_4520_b2b1_fae32ccc2155_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:39:11.369107+00:00
 -- url     : https://prove2.me/submissions/a6f72896-1fc6-441f-8315-18d9c144d5e3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper_bound__p2m_3a2fa668_af0b_4223_89b0_dcabec19097b_a1

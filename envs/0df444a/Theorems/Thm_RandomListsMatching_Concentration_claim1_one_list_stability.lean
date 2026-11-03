@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_Concentration_claim1_one_list_stability
 -- name    : RandomListsMatching.Concentration.claim1_one_list_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:47.736852+00:00
 -- url     : https://prove2.me/theorems/b638ea66-62e4-401c-b14e-2c7cc3371166

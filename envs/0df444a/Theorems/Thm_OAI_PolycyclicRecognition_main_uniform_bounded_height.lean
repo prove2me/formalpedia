@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_main_uniform_bounded_height
 -- name    : OAI.PolycyclicRecognition.main_uniform_bounded_height
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:05.417577+00:00
 -- url     : https://prove2.me/theorems/7d90e8c8-19fe-47a3-86d0-5c6f4c91438d

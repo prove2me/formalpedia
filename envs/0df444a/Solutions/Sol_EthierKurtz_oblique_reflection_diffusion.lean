@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for EthierKurtz.oblique_reflection_diffusion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @caleb
 -- created : 2026-09-27T02:18:21.799074+00:00
 -- url     : https://prove2.me/submissions/597416f8-f848-46bc-b9db-052a4a04d482
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_EthierKurtz_oblique_closure_singlevalued
 import Theorems.Thm_EthierKurtz_oblique_semigroup_generation

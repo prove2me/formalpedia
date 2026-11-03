@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_lattice_recognition
 -- name    : OAI.PolycyclicRecognition.lattice_recognition
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:05.289286+00:00
 -- url     : https://prove2.me/theorems/c8f52373-1c44-4eec-9ff9-701b9b04f46f

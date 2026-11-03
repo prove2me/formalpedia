@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_limitFourColumn_adjoint_s50
 -- name    : OAI.Laughlin.Fock.limitFourColumn_adjoint_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:42:51.233206+00:00
 -- url     : https://prove2.me/theorems/2a754869-86c4-40fe-8ae4-672004aa9b26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundledPay_Base_physician_gain
 -- name    : BundledPay.Base.physician_gain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:54:30.395917+00:00
 -- url     : https://prove2.me/theorems/e179df57-e700-4f72-ac5f-6aec0503e026

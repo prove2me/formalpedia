@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneratesNS_theorem_3_1
 -- name    : GeneratesNS.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:17:16.446671+00:00
 -- url     : https://prove2.me/theorems/e7b55b99-38b1-42d9-bd85-3c489acad846

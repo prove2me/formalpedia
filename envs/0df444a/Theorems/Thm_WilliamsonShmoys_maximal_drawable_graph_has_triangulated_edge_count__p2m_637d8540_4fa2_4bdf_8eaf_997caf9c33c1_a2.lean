@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_has_triangulated_edge_count__p2m_637d8540_4fa2_4bdf_8eaf_997caf9c33c1_a2
 -- name    : WilliamsonShmoys.maximal_drawable_graph_has_triangulated_edge_count__p2m_637d8540_4fa2_4bdf_8eaf_997caf9c33c1_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T11:52:49.280503+00:00
 -- url     : https://prove2.me/theorems/4b104b32-56a0-4b02-b537-5e9d1339dc2d

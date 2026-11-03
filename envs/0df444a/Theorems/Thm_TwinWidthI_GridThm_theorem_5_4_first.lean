@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_GridThm_theorem_5_4_first
 -- name    : TwinWidthI.GridThm.theorem_5_4_first
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:44:02.610832+00:00
 -- url     : https://prove2.me/theorems/4866d0b4-3ca5-4a01-b9c9-113c914b568a

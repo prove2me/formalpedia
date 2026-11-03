@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlotkinShmoysTardos_exact_solution_cost_nonpos
 -- name    : PlotkinShmoysTardos.exact_solution_cost_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:53:11.189236+00:00
 -- url     : https://prove2.me/theorems/54e7aed5-446f-4c59-8c4d-5e14e8001f1f

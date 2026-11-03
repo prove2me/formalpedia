@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_CartanWordModel_exists_compact_measurable_box_profiles
 -- name    : OAI.PolycyclicRecognition.CartanWordModel.exists_compact_measurable_box_profiles
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:36:55.658783+00:00
 -- url     : https://prove2.me/theorems/28be9c1e-0233-44d1-a6aa-1dbe54d89eac

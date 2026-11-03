@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_source_fourBody_local_orthonormal_s50
 -- name    : OAI.Laughlin.Spin.source_fourBody_local_orthonormal_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:49:07.131473+00:00
 -- url     : https://prove2.me/theorems/daac5516-c9f3-44d9-866d-6cd2b08d43d1

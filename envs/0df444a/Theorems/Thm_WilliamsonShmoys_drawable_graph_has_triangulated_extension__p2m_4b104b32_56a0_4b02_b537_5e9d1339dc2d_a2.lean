@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_has_triangulated_extension__p2m_4b104b32_56a0_4b02_b537_5e9d1339dc2d_a2
 -- name    : WilliamsonShmoys.drawable_graph_has_triangulated_extension__p2m_4b104b32_56a0_4b02_b537_5e9d1339dc2d_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:25:22.720444+00:00
 -- url     : https://prove2.me/theorems/3c50d639-b449-4a2f-a283-3dfd9e523102

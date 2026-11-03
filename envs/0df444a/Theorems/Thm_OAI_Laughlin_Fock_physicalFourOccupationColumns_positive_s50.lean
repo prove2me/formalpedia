@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physicalFourOccupationColumns_positive_s50
 -- name    : OAI.Laughlin.Fock.physicalFourOccupationColumns_positive_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:51:45.258195+00:00
 -- url     : https://prove2.me/theorems/ae648ea5-9251-47ff-95cb-a82522d50df8

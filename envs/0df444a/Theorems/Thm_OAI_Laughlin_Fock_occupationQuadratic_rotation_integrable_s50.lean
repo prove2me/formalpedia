@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_occupationQuadratic_rotation_integrable_s50
 -- name    : OAI.Laughlin.Fock.occupationQuadratic_rotation_integrable_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:51:14.532395+00:00
 -- url     : https://prove2.me/theorems/acdd7dc6-688b-4b0e-8326-1cfcdec279a8

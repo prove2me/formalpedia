@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_bridge_augmented_graph_adj_iff__p2m_e1c10048_df1f_49a0_8080_5a203a611921_a3
 -- name    : WilliamsonShmoys.bridge_augmented_graph_adj_iff__p2m_e1c10048_df1f_49a0_8080_5a203a611921_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T22:06:42.670426+00:00
 -- url     : https://prove2.me/theorems/e51184aa-4fa5-4aa7-8264-990e26699f1a

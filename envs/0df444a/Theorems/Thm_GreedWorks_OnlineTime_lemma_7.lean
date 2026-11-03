@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedWorks_OnlineTime_lemma_7
 -- name    : GreedWorks.OnlineTime.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:03:45.555295+00:00
 -- url     : https://prove2.me/theorems/fbc1b2c1-6547-40b2-83ed-21c5cbd9266f

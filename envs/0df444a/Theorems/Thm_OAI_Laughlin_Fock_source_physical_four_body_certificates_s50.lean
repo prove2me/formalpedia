@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_source_physical_four_body_certificates_s50
 -- name    : OAI.Laughlin.Fock.source_physical_four_body_certificates_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:45:25.527709+00:00
 -- url     : https://prove2.me/theorems/8c2a4e9a-5593-48ed-8739-2062c71d7e05

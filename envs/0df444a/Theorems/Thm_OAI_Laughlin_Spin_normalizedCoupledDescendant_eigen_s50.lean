@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_normalizedCoupledDescendant_eigen_s50
 -- name    : OAI.Laughlin.Spin.normalizedCoupledDescendant_eigen_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:56:56.627923+00:00
 -- url     : https://prove2.me/theorems/5477ac02-4d77-4ffb-9454-70c1a844addb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_group_recognition_of_gromov
 -- name    : OAI.PolycyclicRecognition.group_recognition_of_gromov
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:27:53.886463+00:00
 -- url     : https://prove2.me/theorems/d6b16032-53ec-4b96-9df9-39e6fd5f8126

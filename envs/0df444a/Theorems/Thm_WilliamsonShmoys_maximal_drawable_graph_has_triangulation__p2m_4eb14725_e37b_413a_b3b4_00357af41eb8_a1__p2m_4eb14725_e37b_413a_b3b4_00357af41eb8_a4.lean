@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_has_triangulation__p2m_4eb14725_e37b_413a_b3b4_00357af41eb8_a1__p2m_4eb14725_e37b_413a_b3b4_00357af41eb8_a4
 -- name    : WilliamsonShmoys.maximal_drawable_graph_has_triangulation__p2m_4eb14725_e37b_413a_b3b4_00357af41eb8_a1__p2m_4eb14725_e37b_413a_b3b4_00357af41eb8_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T11:40:04.788995+00:00
 -- url     : https://prove2.me/theorems/637d8540-4fa2-4bdf-8eaf-997caf9c33c1

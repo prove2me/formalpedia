@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_augmentation_lower_bound__p2m_99986598_6392_4501_ac0d_a0cd3c835fd3_a1
 -- name    : WilliamsonShmoys.planar_edge_augmentation_lower_bound__p2m_99986598_6392_4501_ac0d_a0cd3c835fd3_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:11:37.475654+00:00
 -- url     : https://prove2.me/theorems/5e34af62-bc93-4e27-8f77-f0a9265acaf1

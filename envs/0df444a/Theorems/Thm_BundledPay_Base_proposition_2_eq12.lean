@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundledPay_Base_proposition_2_eq12
 -- name    : BundledPay.Base.proposition_2_eq12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:54:28.688808+00:00
 -- url     : https://prove2.me/theorems/186d0428-ef6c-4f17-a9bb-3fff9623cd06

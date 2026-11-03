@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Certificate_four_body_certificates_s50
 -- name    : OAI.Laughlin.Certificate.four_body_certificates_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:51:27.526001+00:00
 -- url     : https://prove2.me/theorems/cc54525c-67f7-4f23-8b6a-f31984d977b5

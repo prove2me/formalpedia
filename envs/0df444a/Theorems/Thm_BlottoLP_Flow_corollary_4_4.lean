@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlottoLP_Flow_corollary_4_4
 -- name    : BlottoLP.Flow.corollary_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:48.994979+00:00
 -- url     : https://prove2.me/theorems/3c674fc5-fe2f-4e23-a725-af865e8de9a7

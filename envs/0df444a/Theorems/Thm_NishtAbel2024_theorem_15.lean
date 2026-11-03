@@ -8,6 +8,19 @@
 --   Main Soundness Theorem: Type Safety and Strong Normalization of Algorithm 2 (Theorem 15)
 -- statement:
 --   Theorem 15 (Section 6.5, p. 59): For any semantically valid global signature `sig` (`SemSigValid sig`) and any unannotated System `F_ω^c` mutual block `Ξ` accepted by Algorithm 2 (`Algorithm2Accepts sig Ξ Ξannot`), the resulting size-annotated mutual block `Ξannot` is well-typed in System `F_ω^{cop, SCT}` (`MutualBlockTyping sig Ξannot`) and semantically valid / strongly normalizing (`SemMutualBlockValid sig Ξannot`).
+--
+--   **Superseded.** This is the first formalization of Theorem 15 (p. 59) of the
+--   thesis. It is refuted by the accepted disproof
+--   `9195b5f7-de63-4b2b-bba7-b74cad323453`: an existing global function returns a
+--   function that is only added later, in the new block, and the new function returns
+--   the existing one. Algorithm 2 accepts the new block, since it contains no
+--   recursive call within the block, yet the two functions reduce to each other
+--   forever. The formal statement lets the existing signature refer to functions
+--   defined after it, which the thesis's scope discipline excludes, so the
+--   counterexample does not refute Theorem 15 as stated in the thesis. Corrected
+--   statement: `NishtAbel2024V2.theorem_15`. It assumes a well-scoped block extension
+--   (`scopeBlockExtension`) and Algorithm 2 extended with a final type check of each
+--   size-annotated clause (`PostcheckedAlgorithm2Accepts`).
 -- source:
 --   Kanstantsin Nisht, 'Type-Based Termination Checking in Agda', Master's Thesis in Computer Science and Engineering, Chalmers University of Technology and University of Gothenburg (supervised by Andreas Abel), 2024; extended abstract by Kanstantsin Nisht and Andreas Abel, 30th International Conference on Types for Proofs and Programs (TYPES 2024). Section 6.5, Theorem 15 (p. 59).
 

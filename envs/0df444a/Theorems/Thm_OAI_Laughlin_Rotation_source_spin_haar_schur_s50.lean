@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Rotation_source_spin_haar_schur_s50
 -- name    : OAI.Laughlin.Rotation.source_spin_haar_schur_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:56:32.47046+00:00
 -- url     : https://prove2.me/theorems/d8af1b81-7d39-4eb9-8e47-eafc068225bc

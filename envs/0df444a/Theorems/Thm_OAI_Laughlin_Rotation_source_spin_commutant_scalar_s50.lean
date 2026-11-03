@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Rotation_source_spin_commutant_scalar_s50
 -- name    : OAI.Laughlin.Rotation.source_spin_commutant_scalar_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:56:32.261006+00:00
 -- url     : https://prove2.me/theorems/7d635f1e-2a03-4e6a-aee5-1a4a2df9af3e

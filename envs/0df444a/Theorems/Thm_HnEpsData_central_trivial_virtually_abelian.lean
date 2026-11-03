@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HnEpsData_central_trivial_virtually_abelian
 -- name    : HnEpsData.central_trivial_virtually_abelian
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:20:24.813021+00:00
 -- url     : https://prove2.me/theorems/c402f7a0-9697-428b-b562-636ee2952c27

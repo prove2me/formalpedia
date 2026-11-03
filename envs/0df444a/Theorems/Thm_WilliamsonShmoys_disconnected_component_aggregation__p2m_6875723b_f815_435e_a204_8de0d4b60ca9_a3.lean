@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_disconnected_component_aggregation__p2m_6875723b_f815_435e_a204_8de0d4b60ca9_a3
 -- name    : WilliamsonShmoys.disconnected_component_aggregation__p2m_6875723b_f815_435e_a204_8de0d4b60ca9_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T11:55:28.19387+00:00
 -- url     : https://prove2.me/theorems/666f06c4-d624-4127-b254-b308e951621e

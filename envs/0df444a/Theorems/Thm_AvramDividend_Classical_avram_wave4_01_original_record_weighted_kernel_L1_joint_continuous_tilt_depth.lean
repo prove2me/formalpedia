@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave4_01_original_record_weighted_kernel_L1_joint_continuous_tilt_depth
 -- name    : AvramDividend.Classical.avram_wave4_01_original_record_weighted_kernel_L1_joint_continuous_tilt_depth
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-31T22:12:36.385592+00:00
 -- url     : https://prove2.me/theorems/e3e4a659-6b1d-41cc-88bd-71fbb75f00db

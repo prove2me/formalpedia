@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_recognition_and_lattice_of_uniform_normalized_height_proved
 -- name    : OAI.PolycyclicRecognition.recognition_and_lattice_of_uniform_normalized_height_proved
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:45:32.444207+00:00
 -- url     : https://prove2.me/theorems/87c36370-c218-4e81-8bc4-694ef098d50d

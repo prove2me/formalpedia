@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_graph_exponent_closure
 -- name    : EthierKurtz.oblique_graph_exponent_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-01T20:56:56.126392+00:00
 -- url     : https://prove2.me/theorems/12a85f00-447e-4e2a-9456-14560eab3b46

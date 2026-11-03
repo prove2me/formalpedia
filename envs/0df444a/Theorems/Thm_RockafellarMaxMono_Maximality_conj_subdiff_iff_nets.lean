@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellarMaxMono_Maximality_conj_subdiff_iff_nets
 -- name    : RockafellarMaxMono.Maximality.conj_subdiff_iff_nets
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:03:43.029989+00:00
 -- url     : https://prove2.me/theorems/e7ba6b84-a9a8-45e2-ad83-c61985e75fb7

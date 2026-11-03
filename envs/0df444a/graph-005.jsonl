@@ -16481,7 +16481,7 @@
 {"parent": "BudgetedAffine.Disjoint.lemma_4_2", "child": "BudgetedAffine_Disjoint_Model", "via": ["statement"]}
 {"parent": "actuarial_c_path_scale", "child": "actuarial_c_death", "via": ["solution", "statement"]}
 {"parent": "actuarial_c_path_scale", "child": "actuarial_c_path", "via": ["solution", "statement"]}
-{"parent": "OAI.BinPackingGap.packingGapNPHard", "child": "BinPackingGap", "via": ["statement"]}
+{"parent": "OAI.BinPackingGap.packingGapNPHard", "child": "BinPackingGap", "via": ["solution", "statement"]}
 {"parent": "CK_CKLaneC2R_ReflectionBridge", "child": "CK_CKLaneC2R_ReflectionBridge_q00", "via": ["statement"]}
 {"parent": "PerishablePricing.Backlog.lemma_3", "child": "PerishablePricing_Backlog_LNatConvex", "via": ["solution", "statement"]}
 {"parent": "NLogN.AX.CtxB_stab", "child": "IntMul_HvdH_M_Defs8", "via": ["solution", "statement"]}
@@ -32611,7 +32611,7 @@
 {"parent": "BenchmarkTracking_Verification_PDE", "child": "BenchmarkTracking_Verification_Model", "via": ["statement"]}
 {"parent": "BenchmarkTracking_Verification_PDE", "child": "BenchmarkTracking_Verification_Analysis", "via": ["statement"]}
 {"parent": "MLLangevin.ConvexA1.lemma_5_1_ii", "child": "MLLangevin_ConvexA1_Setting", "via": ["statement"]}
-{"parent": "OfflineStochMatch.Attenuation.lemma_4", "child": "OfflineStochMatch_Attenuation_Setting", "via": ["statement"]}
+{"parent": "OfflineStochMatch.Attenuation.lemma_4", "child": "OfflineStochMatch_Attenuation_Setting", "via": ["solution", "statement"]}
 {"parent": "RetailPrivacy.SupplyChain.lemma_1", "child": "RetailPrivacy_SupplyChain_Model", "via": ["statement"]}
 {"parent": "OAI.PiExponent.LogarithmicJetIdeals.formalJet_first_coordinate_power_coeff_vanish", "child": "OAI_PiExponent_LogarithmicJetIdeals", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LogarithmicJetIdeals.formalJet_first_coordinate_power_coeff_vanish", "child": "OAI_PiExponent_AdmissibleFormalInterpolation", "via": ["solution", "statement"]}

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.edge_maximal_planar_graph_dense__p2m_282f380d_4578_4570_b4a5_8b4767d8af92_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:48:54.582892+00:00
 -- url     : https://prove2.me/submissions/9d3ff7c4-405a-4e56-8c20-7ace7b20d2ac
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_triangulation_extension__p2m_9948da09_8892_4f55_9a10_a3a5f578a96b_a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlottoLP_Flow_marginal_sufficiency
 -- name    : BlottoLP.Flow.marginal_sufficiency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:53.060977+00:00
 -- url     : https://prove2.me/theorems/7154e271-229c-44c6-aa0a-9930a603a54e

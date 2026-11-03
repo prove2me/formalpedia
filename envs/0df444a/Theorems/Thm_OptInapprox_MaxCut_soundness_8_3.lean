@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_MaxCut_soundness_8_3
 -- name    : OptInapprox.MaxCut.soundness_8_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:28:22.097784+00:00
 -- url     : https://prove2.me/theorems/dfb3f69a-9c63-4e93-bb7f-9a745ab9e0ec

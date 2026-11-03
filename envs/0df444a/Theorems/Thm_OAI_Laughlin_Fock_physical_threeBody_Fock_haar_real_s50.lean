@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_threeBody_Fock_haar_real_s50
 -- name    : OAI.Laughlin.Fock.physical_threeBody_Fock_haar_real_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:58:46.005718+00:00
 -- url     : https://prove2.me/theorems/b6144253-d8b4-49f6-9bda-27bba49edc9a

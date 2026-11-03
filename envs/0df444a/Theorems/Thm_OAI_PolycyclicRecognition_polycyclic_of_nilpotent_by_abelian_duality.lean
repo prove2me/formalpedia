@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_polycyclic_of_nilpotent_by_abelian_duality
 -- name    : OAI.PolycyclicRecognition.polycyclic_of_nilpotent_by_abelian_duality
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:27:28.725127+00:00
 -- url     : https://prove2.me/theorems/9f8ecd87-7cda-4514-996f-2dfd555e965c

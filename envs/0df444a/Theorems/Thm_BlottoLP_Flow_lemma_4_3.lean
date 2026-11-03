@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlottoLP_Flow_lemma_4_3
 -- name    : BlottoLP.Flow.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:49.594219+00:00
 -- url     : https://prove2.me/theorems/67ac2dec-3014-4f26-97ac-19064f2f35e7

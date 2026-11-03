@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndoCredit_Baseline_proposition_3_3_lambda_star
 -- name    : EndoCredit.Baseline.proposition_3_3_lambda_star
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:51.432156+00:00
 -- url     : https://prove2.me/theorems/ed73e9bb-4b7b-4ff7-9fa9-61c81d1ac057

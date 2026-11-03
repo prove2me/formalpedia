@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_drawing_euler_face_count__p2m_688f1835_390c_48d2_a756_3ce127433083_a1
 -- name    : WilliamsonShmoys.connected_planar_drawing_euler_face_count__p2m_688f1835_390c_48d2_a756_3ce127433083_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:21:30.805692+00:00
 -- url     : https://prove2.me/theorems/2ca2cc35-45b9-454e-9480-d6c447ab0740

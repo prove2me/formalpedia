@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_sourceRowFourEntry_physical_s50
 -- name    : OAI.Laughlin.Fock.sourceRowFourEntry_physical_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:59:55.295639+00:00
 -- url     : https://prove2.me/theorems/6189dd08-581b-49fe-bea2-f2df65f30688

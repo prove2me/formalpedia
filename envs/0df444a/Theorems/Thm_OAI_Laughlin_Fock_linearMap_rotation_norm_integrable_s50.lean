@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_linearMap_rotation_norm_integrable_s50
 -- name    : OAI.Laughlin.Fock.linearMap_rotation_norm_integrable_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:51:36.946656+00:00
 -- url     : https://prove2.me/theorems/cc7a1bcb-caff-4ba8-81f2-f6e6152bc47b

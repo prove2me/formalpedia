@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoBorelUpperBoundFSigma_lemma2_category_transfer
 -- name    : NoBorelUpperBoundFSigma.lemma2_category_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @username
 -- created : 2026-11-02T02:42:52.681908+00:00
 -- url     : https://prove2.me/theorems/40920824-81c1-4fcc-8ce2-9028e5727fd5

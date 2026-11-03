@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Classify_delta_star_mem
 -- name    : StochKolmogorov.Classify.delta_star_mem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:32:36.56788+00:00
 -- url     : https://prove2.me/theorems/03736621-7486-4244-bced-1a023ff9579a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_retainedFourInclusion_adjoint_SU2_s50
 -- name    : OAI.Laughlin.Spin.retainedFourInclusion_adjoint_SU2_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:04:17.615243+00:00
 -- url     : https://prove2.me/theorems/3f46c7fe-962b-434d-b722-54550c2a1a0e

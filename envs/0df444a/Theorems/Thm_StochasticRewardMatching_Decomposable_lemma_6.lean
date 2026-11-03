@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticRewardMatching_Decomposable_lemma_6
 -- name    : StochasticRewardMatching.Decomposable.lemma_6
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T21:18:47.13853+00:00
 -- url     : https://prove2.me/theorems/edacf8b2-765d-4f65-9a3c-736c48dea356

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_exists_cartan_n_log_metric_bound
 -- name    : OAI.PolycyclicRecognition.exists_cartan_n_log_metric_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:46:52.724596+00:00
 -- url     : https://prove2.me/theorems/b39009c6-c848-4449-be8d-e1f00d0e3477

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_planar_gap
 -- name    : OAI.Laughlin.planar_gap
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:52.458727+00:00
 -- url     : https://prove2.me/theorems/8eb49617-926e-4568-8351-ad90298e2e67

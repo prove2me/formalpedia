@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_drawing_triangulates_to_maximal_planar__p2m_89c022f5_9981_432e_a40e_914f486e5a7e_a1
 -- name    : planar_drawing_triangulates_to_maximal_planar__p2m_89c022f5_9981_432e_a40e_914f486e5a7e_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:25:28.041128+00:00
 -- url     : https://prove2.me/theorems/c678df30-9cd8-4fa5-9888-0e5b50f2f715

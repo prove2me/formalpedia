@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KyleProduction_Monopoly_trading_stage
 -- name    : KyleProduction.Monopoly.trading_stage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:37.935553+00:00
 -- url     : https://prove2.me/theorems/540ce748-2f41-40a8-a5bf-1f2700d2ed1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_truncated_sourceFour_conjugation_s50
 -- name    : OAI.Laughlin.Fock.truncated_sourceFour_conjugation_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:56:01.161791+00:00
 -- url     : https://prove2.me/theorems/568cc4c4-b272-42c8-a25b-5e7dc4f790d7

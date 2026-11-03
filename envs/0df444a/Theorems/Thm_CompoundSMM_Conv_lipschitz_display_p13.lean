@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompoundSMM_Conv_lipschitz_display_p13
 -- name    : CompoundSMM.Conv.lipschitz_display_p13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:31.058824+00:00
 -- url     : https://prove2.me/theorems/49099f4b-16bb-4f00-bfeb-7f87370dd097

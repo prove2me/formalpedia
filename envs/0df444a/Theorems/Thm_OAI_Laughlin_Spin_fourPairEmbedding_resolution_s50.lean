@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_fourPairEmbedding_resolution_s50
 -- name    : OAI.Laughlin.Spin.fourPairEmbedding_resolution_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:00:43.887664+00:00
 -- url     : https://prove2.me/theorems/3ff20032-46d7-4e04-9a12-5ef7b2b1d856

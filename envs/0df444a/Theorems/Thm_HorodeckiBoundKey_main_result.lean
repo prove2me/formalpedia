@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HorodeckiBoundKey_main_result
 -- name    : HorodeckiBoundKey.main_result
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:16:38.461347+00:00
 -- url     : https://prove2.me/theorems/fcf96741-83a4-41fd-b2ca-2c32f09718a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_fock_sharp_budget_eventually_s50
 -- name    : OAI.Laughlin.Fock.physical_fock_sharp_budget_eventually_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:58:57.106573+00:00
 -- url     : https://prove2.me/theorems/66aaadc6-8dd3-4934-98f8-4048b3d881ec

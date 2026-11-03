@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_simple_edge_upper_bound__p2m_6582e0a3_76e8_4a07_8065_8715ca29a41a_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T11:56:30.036954+00:00
 -- url     : https://prove2.me/submissions/b449a31a-1d0b-4f72-a109-571af9919f6f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_exists_planar_triangulation_supergraph__p2m_2120accc_e77c_4707_8c72_d7b3ece39068_a1
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

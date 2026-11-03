@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_source_threeBody_trace_strict_eventually_s50
 -- name    : OAI.Laughlin.Spin.source_threeBody_trace_strict_eventually_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:57:48.562425+00:00
 -- url     : https://prove2.me/theorems/67c5bf23-2ea6-48b8-9067-d20c1056daa6

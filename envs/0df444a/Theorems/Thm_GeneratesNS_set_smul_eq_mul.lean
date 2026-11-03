@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneratesNS_set_smul_eq_mul
 -- name    : GeneratesNS.set_smul_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:00:33.771502+00:00
 -- url     : https://prove2.me/theorems/d254ac30-8f25-4f83-92da-103333bc6e17

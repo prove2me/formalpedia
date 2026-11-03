@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_trace_ad_eq_zero_of_intrinsic_kernel_haar
 -- name    : OAI.PolycyclicRecognition.trace_ad_eq_zero_of_intrinsic_kernel_haar
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:06:15.013352+00:00
 -- url     : https://prove2.me/theorems/9c9cd593-816e-48d4-869e-6136d0a6da41

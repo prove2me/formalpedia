@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_euler_upper_bound_maximal_case__p2m_c58ab109_98ab_4847_a67d_ff33bea8d7ac_a1
 -- name    : WilliamsonShmoys_maximal_planar_euler_upper_bound_maximal_case__p2m_c58ab109_98ab_4847_a67d_ff33bea8d7ac_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:03:59.994204+00:00
 -- url     : https://prove2.me/theorems/e4fb4528-3000-447a-a91c-bbceedbe6374

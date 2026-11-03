@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_disconnected_extension__p2m_46bd3770_49b2_4c1a_90e5_69dd719cc31d_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:13:16.421428+00:00
 -- url     : https://prove2.me/submissions/4d7873db-7b53-44aa-81b1-b68cb4ad5c88
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_edge_lower_bound__p2m_3ea6bb1c_a422_4d1c_b17f_ef9a0e48b692_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:04:34.725203+00:00
 -- url     : https://prove2.me/submissions/2ac76393-3266-417c-aa62-892e29ff0d84
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_exists_planar_supergraph_with_triangulated_edge_count__p2m_b6ab3cff_6690_4a88_8301_64964a0bb841_a1

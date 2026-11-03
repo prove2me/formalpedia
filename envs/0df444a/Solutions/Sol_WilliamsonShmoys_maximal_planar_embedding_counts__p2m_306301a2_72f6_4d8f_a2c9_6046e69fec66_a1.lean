@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_embedding_counts__p2m_306301a2_72f6_4d8f_a2c9_6046e69fec66_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:52:25.261093+00:00
 -- url     : https://prove2.me/submissions/9aa90d5f-cb57-41f1-9158-935ed9630069
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_edge_count_upper__p2m_324069a7_d0a2_45e0_94ba_3f9b77cc47fd_a2

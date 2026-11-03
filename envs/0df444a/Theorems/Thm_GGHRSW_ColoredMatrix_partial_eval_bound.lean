@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GGHRSW_ColoredMatrix_partial_eval_bound
 -- name    : GGHRSW.ColoredMatrix.partial_eval_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:33.893996+00:00
 -- url     : https://prove2.me/theorems/9702ddb0-324f-4211-be54-80960b5f5e90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneratesNS_rho_g_case_finite
 -- name    : GeneratesNS.rho_g_case_finite
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:51:57.400979+00:00
 -- url     : https://prove2.me/theorems/9217c1fe-3101-4a1c-b88a-392db0486bcf

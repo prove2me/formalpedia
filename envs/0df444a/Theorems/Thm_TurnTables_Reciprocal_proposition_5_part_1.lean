@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TurnTables_Reciprocal_proposition_5_part_1
 -- name    : TurnTables.Reciprocal.proposition_5_part_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:54:20.285462+00:00
 -- url     : https://prove2.me/theorems/9566e200-5a04-4b76-88ab-02042f4bce0b

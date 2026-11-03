@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProblemSpec_Equilibrium_theorem_1
 -- name    : ProblemSpec.Equilibrium.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:31.367136+00:00
 -- url     : https://prove2.me/theorems/681e344b-7d7f-40ad-85a2-94d065ddc29c

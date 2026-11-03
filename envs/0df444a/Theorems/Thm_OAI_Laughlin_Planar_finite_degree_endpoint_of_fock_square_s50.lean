@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Planar_finite_degree_endpoint_of_fock_square_s50
 -- name    : OAI.Laughlin.Planar.finite_degree_endpoint_of_fock_square_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:46:06.658386+00:00
 -- url     : https://prove2.me/theorems/4a9ee47d-de87-424e-8e43-9a843d154df8

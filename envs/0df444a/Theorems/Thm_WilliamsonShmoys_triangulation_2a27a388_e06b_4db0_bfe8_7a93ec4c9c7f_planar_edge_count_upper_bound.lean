@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulation_2a27a388_e06b_4db0_bfe8_7a93ec4c9c7f_planar_edge_count_upper_bound
 -- name    : WilliamsonShmoys.triangulation_2a27a388_e06b_4db0_bfe8_7a93ec4c9c7f_planar_edge_count_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T19:20:55.577747+00:00
 -- url     : https://prove2.me/theorems/610126f0-5c66-41f3-b764-5caf7bf992b8

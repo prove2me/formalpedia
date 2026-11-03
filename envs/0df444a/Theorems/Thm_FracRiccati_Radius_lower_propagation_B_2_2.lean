@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracRiccati_Radius_lower_propagation_B_2_2
 -- name    : FracRiccati.Radius.lower_propagation_B_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:38.004599+00:00
 -- url     : https://prove2.me/theorems/4e9a118f-fc1c-4e4f-adfc-8daafbdaeffe

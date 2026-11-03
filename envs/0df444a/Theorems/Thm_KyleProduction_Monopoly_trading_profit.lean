@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KyleProduction_Monopoly_trading_profit
 -- name    : KyleProduction.Monopoly.trading_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:51.925791+00:00
 -- url     : https://prove2.me/theorems/8b9b6228-f888-4d87-8041-8b62bd530cf2

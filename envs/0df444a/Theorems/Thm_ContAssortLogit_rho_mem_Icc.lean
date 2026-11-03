@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContAssortLogit_rho_mem_Icc
 -- name    : ContAssortLogit.rho_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:35:48.694299+00:00
 -- url     : https://prove2.me/theorems/bb782ae4-d76f-450e-b5f8-da31b9dd1239

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_rank_three_rounding_pointwise
 -- name    : QuantumMaxCutEnergy.rank_three_rounding_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T16:59:07.777882+00:00
 -- url     : https://prove2.me/theorems/f0c9b488-657c-4149-aaab-da164a74ba2f

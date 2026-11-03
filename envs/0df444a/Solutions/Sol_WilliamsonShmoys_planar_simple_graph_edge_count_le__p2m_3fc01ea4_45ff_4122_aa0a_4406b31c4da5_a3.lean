@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_simple_graph_edge_count_le__p2m_3fc01ea4_45ff_4122_aa0a_4406b31c4da5_a3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T08:25:41.59734+00:00
 -- url     : https://prove2.me/submissions/73efd906-afb3-481e-9a75-fdffed35fab9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for EthierKurtz.oblique_semigroup_generation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @caleb
 -- created : 2026-09-27T04:33:34.265428+00:00
 -- url     : https://prove2.me/submissions/5a9bd8cd-3959-4bd4-9bef-432f8dd09f62
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_EthierKurtz_oblique_dissipative_estimate
 import Theorems.Thm_EthierKurtz_oblique_dense_range

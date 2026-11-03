@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edgeSet_ncard_le_three_mul_card_sub_six__p2m_b8afd70d_5e18_4708_a739_37d2bdc4e576_a1
 -- name    : WilliamsonShmoys.planar_edgeSet_ncard_le_three_mul_card_sub_six__p2m_b8afd70d_5e18_4708_a739_37d2bdc4e576_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T11:39:16.402675+00:00
 -- url     : https://prove2.me/theorems/565cc4a2-872e-44c4-99ed-ae89e545f6b5

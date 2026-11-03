@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KyleProduction_Monopoly_proposition_1
 -- name    : KyleProduction.Monopoly.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:38.917531+00:00
 -- url     : https://prove2.me/theorems/69af19f0-8f5c-4e1c-976a-9fcd7982c6d6

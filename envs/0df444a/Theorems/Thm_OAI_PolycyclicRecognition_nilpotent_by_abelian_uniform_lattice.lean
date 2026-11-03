@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_nilpotent_by_abelian_uniform_lattice
 -- name    : OAI.PolycyclicRecognition.nilpotent_by_abelian_uniform_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:26:51.635132+00:00
 -- url     : https://prove2.me/theorems/059bcb36-fef2-4436-ba40-c13e621ecf6e

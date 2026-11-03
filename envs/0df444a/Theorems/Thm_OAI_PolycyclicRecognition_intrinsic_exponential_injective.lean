@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_intrinsic_exponential_injective
 -- name    : OAI.PolycyclicRecognition.intrinsic_exponential_injective
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:05:16.555797+00:00
 -- url     : https://prove2.me/theorems/f40d59f1-94a5-4657-9d82-ce4ab238c9c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneratesNS_three_two_ker_fg
 -- name    : GeneratesNS.three_two_ker_fg
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:18:00.338393+00:00
 -- url     : https://prove2.me/theorems/26dbf8bb-2e17-42b8-b4cc-a40e27eed23f

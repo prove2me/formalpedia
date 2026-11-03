@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_threeBodyGramSlice_first_row_pos_s50
 -- name    : OAI.Laughlin.Fock.threeBodyGramSlice_first_row_pos_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:46:06.739284+00:00
 -- url     : https://prove2.me/theorems/a17f75c3-7df9-4a43-97be-db34e07d109a

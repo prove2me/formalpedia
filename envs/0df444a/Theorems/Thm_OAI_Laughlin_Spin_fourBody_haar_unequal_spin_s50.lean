@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_fourBody_haar_unequal_spin_s50
 -- name    : OAI.Laughlin.Spin.fourBody_haar_unequal_spin_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:03:26.6135+00:00
 -- url     : https://prove2.me/theorems/8edc6785-73cf-4e83-8c0b-a3bf4cd1775a

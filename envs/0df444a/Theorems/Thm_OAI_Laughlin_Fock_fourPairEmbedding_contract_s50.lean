@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_fourPairEmbedding_contract_s50
 -- name    : OAI.Laughlin.Fock.fourPairEmbedding_contract_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:58:15.114223+00:00
 -- url     : https://prove2.me/theorems/b37bfc00-4633-4a66-8f5a-85374953aa2b

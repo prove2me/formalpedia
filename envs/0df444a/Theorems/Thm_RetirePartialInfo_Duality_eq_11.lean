@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetirePartialInfo_Duality_eq_11
 -- name    : RetirePartialInfo.Duality.eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:50:50.479309+00:00
 -- url     : https://prove2.me/theorems/7b0175ee-79a7-4a04-a175-e0cbadaa4cf2

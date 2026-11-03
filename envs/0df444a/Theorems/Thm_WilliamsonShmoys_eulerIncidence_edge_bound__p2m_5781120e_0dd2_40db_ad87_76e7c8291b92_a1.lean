@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_eulerIncidence_edge_bound__p2m_5781120e_0dd2_40db_ad87_76e7c8291b92_a1
 -- name    : WilliamsonShmoys.eulerIncidence_edge_bound__p2m_5781120e_0dd2_40db_ad87_76e7c8291b92_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-11-01T08:21:13.054192+00:00
 -- url     : https://prove2.me/theorems/0794fa2f-6f08-4980-8d67-aa360ef1265f

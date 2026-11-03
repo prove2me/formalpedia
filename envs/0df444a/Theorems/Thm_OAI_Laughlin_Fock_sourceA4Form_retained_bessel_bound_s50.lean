@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_sourceA4Form_retained_bessel_bound_s50
 -- name    : OAI.Laughlin.Fock.sourceA4Form_retained_bessel_bound_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:59:41.749011+00:00
 -- url     : https://prove2.me/theorems/ff98e028-839f-4002-9074-d1b19c2f5804

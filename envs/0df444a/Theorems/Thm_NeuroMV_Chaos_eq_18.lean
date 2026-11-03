@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuroMV_Chaos_eq_18
 -- name    : NeuroMV.Chaos.eq_18
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:42:53.65218+00:00
 -- url     : https://prove2.me/theorems/640f4558-7b27-47a6-b017-18044d9e7824

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_poly_growth_equiv
 -- name    : poly_growth_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:09:42.75259+00:00
 -- url     : https://prove2.me/theorems/14019573-34c3-46f9-9ea7-1f798e7ea11c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_LocalSim_laplace_average
 -- name    : PrivLearn.LocalSim.laplace_average
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:12.000309+00:00
 -- url     : https://prove2.me/theorems/e6e081f7-b08f-42ca-861c-84dfedc103ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_cartan_cocycle_polynomial_boxes
 -- name    : OAI.PolycyclicRecognition.cartan_cocycle_polynomial_boxes
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:43:21.123683+00:00
 -- url     : https://prove2.me/theorems/dd2e2c27-d836-4eb9-bec4-e00ad2302733

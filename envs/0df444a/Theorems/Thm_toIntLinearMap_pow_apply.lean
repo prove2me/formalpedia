@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_toIntLinearMap_pow_apply
 -- name    : toIntLinearMap_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:11:12.432205+00:00
 -- url     : https://prove2.me/theorems/d3e0ffd8-05c6-4442-86fa-4dade3c6c286

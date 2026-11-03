@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_fourBody_haar_compressed_s50
 -- name    : OAI.Laughlin.Spin.fourBody_haar_compressed_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:02:55.776446+00:00
 -- url     : https://prove2.me/theorems/5fb408e2-8c06-4724-9b87-0a1da10695ee

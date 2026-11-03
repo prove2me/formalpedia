@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_face_count_boundary_lower_bound__p2m_ce2523b8_2817_4847_92d2_52162bbbf3f4_a1
 -- name    : WilliamsonShmoys.planar_face_count_boundary_lower_bound__p2m_ce2523b8_2817_4847_92d2_52162bbbf3f4_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:08:58.512505+00:00
 -- url     : https://prove2.me/theorems/3a4c1f5e-1776-4c15-8093-87a5faec746f

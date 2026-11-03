@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_drawing_face_structure_core__p2m_49320d7c_d315_47bf_bd18_a40df71c3333_a2
 -- name    : WilliamsonShmoys.connected_drawing_face_structure_core__p2m_49320d7c_d315_47bf_bd18_a40df71c3333_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:37:56.33268+00:00
 -- url     : https://prove2.me/theorems/371329db-5f3f-48e1-a25d-9534580722f0

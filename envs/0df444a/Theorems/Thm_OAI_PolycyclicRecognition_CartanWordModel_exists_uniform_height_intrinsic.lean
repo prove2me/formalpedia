@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_CartanWordModel_exists_uniform_height_intrinsic
 -- name    : OAI.PolycyclicRecognition.CartanWordModel.exists_uniform_height_intrinsic
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:40:44.319203+00:00
 -- url     : https://prove2.me/theorems/ae1da66f-1e99-42ee-b667-363308f0863b

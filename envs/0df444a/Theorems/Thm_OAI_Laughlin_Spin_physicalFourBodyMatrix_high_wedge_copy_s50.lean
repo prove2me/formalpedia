@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_physicalFourBodyMatrix_high_wedge_copy_s50
 -- name    : OAI.Laughlin.Spin.physicalFourBodyMatrix_high_wedge_copy_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:57:09.754311+00:00
 -- url     : https://prove2.me/theorems/549da007-8e97-4cd2-8518-dc2f00e30f4a

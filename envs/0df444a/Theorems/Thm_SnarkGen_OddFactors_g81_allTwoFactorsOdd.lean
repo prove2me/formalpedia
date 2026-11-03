@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_OddFactors_g81_allTwoFactorsOdd
 -- name    : SnarkGen.OddFactors.g81_allTwoFactorsOdd
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:47.936239+00:00
 -- url     : https://prove2.me/theorems/d92c90a3-cec0-42be-bce1-52607ca527eb

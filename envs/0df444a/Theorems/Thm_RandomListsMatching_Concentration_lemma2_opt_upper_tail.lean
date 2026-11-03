@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_Concentration_lemma2_opt_upper_tail
 -- name    : RandomListsMatching.Concentration.lemma2_opt_upper_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:07:43.298354+00:00
 -- url     : https://prove2.me/theorems/252dcb1a-f3d1-428e-9298-2e27c2bebc06

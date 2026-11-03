@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_NilpotentLieModel_group_nilpotent
 -- name    : OAI.PolycyclicRecognition.NilpotentLieModel.group_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:23:21.885829+00:00
 -- url     : https://prove2.me/theorems/281c1997-26e3-4f6f-aa8d-113761fc12af

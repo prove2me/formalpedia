@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenPairedDomination_Interval_observation_6
 -- name    : ChenPairedDomination.Interval.observation_6
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-31T01:27:13.657775+00:00
 -- url     : https://prove2.me/theorems/0ead8d17-5280-4a98-946f-d5234895264a

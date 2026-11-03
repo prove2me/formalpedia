@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_can_be_augmented_of_edge_card_lt
 -- name    : WilliamsonShmoys.planar_graph_can_be_augmented_of_edge_card_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T14:02:15.798993+00:00
 -- url     : https://prove2.me/theorems/1a301c0e-00f6-408b-902b-43a2d6d3ebd1

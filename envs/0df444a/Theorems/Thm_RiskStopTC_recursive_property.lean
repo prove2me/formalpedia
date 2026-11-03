@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskStopTC_recursive_property
 -- name    : RiskStopTC.recursive_property
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:35:12.45399+00:00
 -- url     : https://prove2.me/theorems/d03b3987-9100-4d48-9b31-d904345e53a3

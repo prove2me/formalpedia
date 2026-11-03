@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_GridThm_row_types_le
 -- name    : TwinWidthI.GridThm.row_types_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:44:04.457288+00:00
 -- url     : https://prove2.me/theorems/bd4cff0d-ba7f-44c5-80a1-5a95bbcb2850

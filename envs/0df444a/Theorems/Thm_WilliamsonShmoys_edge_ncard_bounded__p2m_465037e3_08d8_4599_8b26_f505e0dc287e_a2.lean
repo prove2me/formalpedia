@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_ncard_bounded__p2m_465037e3_08d8_4599_8b26_f505e0dc287e_a2
 -- name    : WilliamsonShmoys.edge_ncard_bounded__p2m_465037e3_08d8_4599_8b26_f505e0dc287e_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:41:34.03877+00:00
 -- url     : https://prove2.me/theorems/6995617f-d764-476e-bea6-5a0947b48311

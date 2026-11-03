@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_extension_exact_edge_count__p2m_d140b1f8_6ceb_482c_820e_597e29c34ec2_a1
 -- name    : WilliamsonShmoys.planar_triangulation_extension_exact_edge_count__p2m_d140b1f8_6ceb_482c_820e_597e29c34ec2_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:06:56.574448+00:00
 -- url     : https://prove2.me/theorems/f99c5cac-36e0-4790-ada9-7e137313e2a6

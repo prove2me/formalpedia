@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyUnstableHawkes_Deterministic_theorem_2_1
 -- name    : NearlyUnstableHawkes.Deterministic.theorem_2_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:43:30.976987+00:00
 -- url     : https://prove2.me/theorems/4e31ec6a-f1d3-484e-a46c-35124264a295

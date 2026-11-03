@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_count_from_connected__p2m_8a1edb89_91b7_4c19_a333_1779b45ebb8a_a1
 -- name    : WilliamsonShmoys.planar_edge_count_from_connected__p2m_8a1edb89_91b7_4c19_a333_1779b45ebb8a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:18:48.815788+00:00
 -- url     : https://prove2.me/theorems/7851b0dc-47ad-49a3-a8e3-cfe708bc6902

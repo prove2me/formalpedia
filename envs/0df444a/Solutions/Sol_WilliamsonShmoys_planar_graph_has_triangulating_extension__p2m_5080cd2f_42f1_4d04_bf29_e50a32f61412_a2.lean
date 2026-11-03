@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_graph_has_triangulating_extension__p2m_5080cd2f_42f1_4d04_bf29_e50a32f61412_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:27:01.046433+00:00
 -- url     : https://prove2.me/submissions/150da865-0f0e-4f57-8469-e873511f6d41
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

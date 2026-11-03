@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Characterization_example_10
 -- name    : PCSPBLPAff.Characterization.example_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:08:01.664364+00:00
 -- url     : https://prove2.me/theorems/d064b9f6-ce8e-4fc9-815b-4f3996beb36c

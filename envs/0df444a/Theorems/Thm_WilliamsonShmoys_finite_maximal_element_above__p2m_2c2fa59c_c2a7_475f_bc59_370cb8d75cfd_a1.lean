@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_maximal_element_above__p2m_2c2fa59c_c2a7_475f_bc59_370cb8d75cfd_a1
 -- name    : WilliamsonShmoys.finite_maximal_element_above__p2m_2c2fa59c_c2a7_475f_bc59_370cb8d75cfd_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:36:49.149561+00:00
 -- url     : https://prove2.me/theorems/b77daa85-8b0a-4a3f-80e0-3fe68f68815c

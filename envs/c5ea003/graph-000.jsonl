@@ -61369,8 +61369,30 @@
 {"parent": "KServer.bcr_claim13_product_race_construction", "child": "KServer.bcr_claim13_graded_sampler_construction", "via": ["solution"]}
 {"parent": "KServer.bcr_claim13_race_atom_construction", "child": "KServer.bcr_claim13_nonneg_race_construction", "via": ["solution"]}
 {"parent": "KServer.bcr_claim13_race_atom_construction", "child": "KServer.nonneg_chunk_positive_support", "via": ["solution"]}
-{"parent": "NoBorelUpperBoundFSigma.lemma2_category_transfer", "child": "NoBorelUpperBoundTransfer20261101", "via": ["statement"]}
-{"parent": "NoBorelUpperBoundFSigma.theorem1", "child": "NoBorelUpperBound20261101", "via": ["statement"]}
+{"parent": "NoBorelUpperBoundFSigma.lemma2_category_transfer", "child": "NoBorelUpperBoundTransfer20261101", "via": ["solution", "statement"]}
+{"parent": "NoBorelUpperBoundFSigma.theorem1", "child": "NoBorelUpperBound20261101", "via": ["solution", "statement"]}
 {"parent": "NoBorelUpperBoundFSigma.corollary4_linear_cosets", "child": "NoBorelUpperBound20261101", "via": ["statement"]}
 {"parent": "NoBorelUpperBound20261101", "child": "NoUniversalFSigma261031052", "via": ["statement"]}
 {"parent": "NoBorelUpperBoundTransfer20261101", "child": "NoBorelUpperBound20261101", "via": ["statement"]}
+{"parent": "FSCofinalityTrees20261102", "child": "FSCofinalityStructures20261102", "via": ["statement"]}
+{"parent": "FSCofinality.coset_cofinality", "child": "FSCofinalityCosets20261102", "via": ["solution", "statement"]}
+{"parent": "FSCofinality.coset_cofinality", "child": "FSCofinalityHierarchy20261102", "via": ["solution", "statement"]}
+{"parent": "FSCofinality.original_tree_comparison", "child": "FSCofinalityTrees20261102", "via": ["solution", "statement"]}
+{"parent": "FSCofinality.original_tree_comparison", "child": "FSCofinalityHierarchy20261102", "via": ["solution", "statement"]}
+{"parent": "FSCofinality.invariant_real_parameters", "child": "FSCofinalityStructures20261102", "via": ["solution", "statement"]}
+{"parent": "FSCofinality.theorem1_2", "child": "FSCofinalityTrees20261102", "via": ["solution", "statement"]}
+{"parent": "FSCofinality.theorem1_2", "child": "FSCofinalityHierarchy20261102", "via": ["solution", "statement"]}
+{"parent": "FSCofinality.bounded_tree_isomorphism_borel", "child": "FSCofinalityTrees20261102", "via": ["solution", "statement"]}
+{"parent": "FSCofinality.bounded_tree_isomorphism_borel", "child": "FSCofinalityHierarchy20261102", "via": ["solution", "statement"]}
+{"parent": "FSCofinalityCosets20261102", "child": "FSCofinalityStructures20261102", "via": ["statement"]}
+{"parent": "FSCofinalityHierarchy20261102", "child": "FSCofinalityStructures20261102", "via": ["statement"]}
+{"parent": "NoBorelUpperBoundFSigma.lemma2_category_transfer", "child": "NoUniversalFSigma261031052", "via": ["solution"]}
+{"parent": "NoBorelUpperBoundFSigma.theorem1", "child": "NoBorelUpperBoundTransfer20261101", "via": ["solution"]}
+{"parent": "NoBorelUpperBoundFSigma.theorem1", "child": "NoUniversalFSigma261031052", "via": ["solution"]}
+{"parent": "FSCofinality.coset_cofinality", "child": "FSCofinalityStructures20261102", "via": ["solution"]}
+{"parent": "FSCofinality.coset_cofinality", "child": "FSCofinalityTrees20261102", "via": ["solution"]}
+{"parent": "FSCofinality.original_tree_comparison", "child": "FSCofinalityStructures20261102", "via": ["solution"]}
+{"parent": "FSCofinality.invariant_real_parameters", "child": "FSCofinalityTrees20261102", "via": ["solution"]}
+{"parent": "FSCofinality.theorem1_2", "child": "FSCofinalityStructures20261102", "via": ["solution"]}
+{"parent": "FSCofinality.theorem1_2", "child": "FSCofinalityCosets20261102", "via": ["solution"]}
+{"parent": "FSCofinality.bounded_tree_isomorphism_borel", "child": "FSCofinalityStructures20261102", "via": ["solution"]}

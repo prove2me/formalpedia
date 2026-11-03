@@ -8,6 +8,22 @@
 --   Typing Soundness of Coherent Flexible Substitutions (Theorem 13) and Coherence of Algorithm 1 (Theorem 14 & Corollary)
 -- statement:
 --   Theorems 13, 14, and Corollary (Section 6.4, pp. 56–58): (1) any coherent flexible substitution `CoherentSubst (Ψ₁ ++ Ψ₂) Cs φ` whose call sites satisfy `LocalCallsConform` turns the elaborated term `t'.applyFlex φ` into a well-typed System `F_ω^{cop, SCT}` expression (`ExprCheck`); (2) the substitution `φ* := solveConstraintGraph (Ψ₁ ++ Ψ₂) Cs T` computed by Algorithm 1 is coherent; and (3) consequently `t'.applyFlex φ*` is well-typed in System `F_ω^{cop, SCT}`.
+--
+--   **Superseded.** This is the first formalization of Theorems 13–14 and the
+--   Corollary (pp. 56–58) of the thesis. It is refuted through its Theorem 13
+--   conjunct by the accepted disproof `2d3a98aa-2e6e-4f98-9bc3-07dadd583b31`. A global
+--   function has a size parameter bounded by itself, $\Psi_g = [i < i]$. Call
+--   inference instantiates that parameter with a fresh flexible size, Algorithm 1
+--   assigns $\infty$, and the resulting substitution is coherent, but the annotated
+--   call cannot be typed, because $\infty < i$ is not derivable. The thesis assumes
+--   well-formed global signatures, while the formal statement does not. The
+--   Theorem 14 conjunct is not refuted. Corrected statement:
+--   `NishtAbel2024V2.theorems_13_and_14`. It is weaker than the thesis's Theorem 13:
+--   it takes the type-checking of each size-instantiated clause body as a hypothesis
+--   (a final check added to Algorithm 2), and its Theorem 14 concerns a solver that
+--   returns only substitutions passing a finite coherence check. Proving that
+--   inference always yields well-typed output from a well-formed signature remains
+--   open.
 -- source:
 --   Kanstantsin Nisht, 'Type-Based Termination Checking in Agda', Master's Thesis in Computer Science and Engineering, Chalmers University of Technology and University of Gothenburg (supervised by Andreas Abel), 2024; extended abstract by Kanstantsin Nisht and Andreas Abel, 30th International Conference on Types for Proofs and Programs (TYPES 2024). Section 6.4, Theorem 13 (p. 56), Theorem 14 (p. 58), and Corollary (p. 58).
 

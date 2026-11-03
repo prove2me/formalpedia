@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_count__p2m_e3eb1401_8114_44d9_870e_95a93988f448_a1
 -- name    : WilliamsonShmoys.maximal_planar_edge_count__p2m_e3eb1401_8114_44d9_870e_95a93988f448_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:26:02.672345+00:00
 -- url     : https://prove2.me/theorems/5080cd2f-42f1-4d04-bf29-e50a32f61412

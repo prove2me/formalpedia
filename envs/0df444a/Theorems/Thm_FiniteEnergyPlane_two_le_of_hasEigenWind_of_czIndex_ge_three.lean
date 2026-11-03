@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_two_le_of_hasEigenWind_of_czIndex_ge_three
 -- name    : FiniteEnergyPlane.two_le_of_hasEigenWind_of_czIndex_ge_three
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:38:20.792569+00:00
 -- url     : https://prove2.me/theorems/3223ef29-28a6-4383-9f2e-e6acef852b59

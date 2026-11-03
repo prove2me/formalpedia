@@ -1,0 +1,83 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_wave7_05_turn3_original_controlled_stopped_gaussian_exact_variance
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-02T15:25:22.385849+00:00
+-- url     : https://prove2.me/submissions/e6a718b2-4731-499a-941d-ba72c2538e84
+
+import Mathlib.Analysis.Complex.Exponential
+import Mathlib.MeasureTheory.MeasurableSpace.Defs
+import Mathlib.Topology.Order.LeftRightLim
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Definitions.Def_AvramDividend_Classical_DividendStrategy
+import Theorems.Thm_AvramDividend_Classical_avram_wave3_04_source_stopped_discounted_deriv_predictable
+import Theorems.Thm_AvramDividend_Classical_isStoppingTime_withTop_of_le_events
+import Theorems.Thm_AvramDividend_Classical_avram_wave7_05_original_controlled_stopped_discounted_gradient_gaussian_L2_mean_zero
+import Theorems.Thm_AvramDividend_Classical_avram_wave5_03a_actual_rightCont_stopped_gaussian_history_weighted_L2_isometry_eq
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory ProbabilityTheory Filter Topology AvramDividend.Classical
+open scoped NNReal ENNReal Topology
+noncomputable section
+
+theorem solution    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕) (hν : X.ν = 0)
+    (x : ℝ) (D : ℝ≥0 → Ω → ℝ) (hD : IsDividendStrategy 𝓕 D)
+    (w : ℝ → ℝ) (q : ℝ) (T : ℝ≥0)
+    (τ : Ω → ℝ≥0)
+    (hτ : ∀ s : ℝ≥0, MeasurableSet[𝓕.rightCont s] {ω : Ω | τ ω ≤ s})
+    (B : ℝ≥0) (hbounded : ∀ ω, τ ω ≤ B)
+    (h : ℝ≥0) (K : ℝ) (hK : 0 ≤ K)
+    (hHbound : ∀ ω : Ω, |(stoppedValue (fun t ω =>
+        if t ≤ T then
+          (Real.exp (-(q * (t : ℝ))) *
+            deriv w (Function.leftLim
+              (fun s : ℝ≥0 => x + X.X s ω - rightLimit D s ω) t)) *
+          (if (t : ℝ≥0∞) ≤ ruinTime X x D ω then (1 : ℝ) else 0)
+        else 0) (fun ω => (τ ω : WithTop ℝ≥0))) ω| ≤ K) :
+    let H : Ω → ℝ := stoppedValue (fun t ω =>
+        if t ≤ T then
+          (Real.exp (-(q * (t : ℝ))) *
+            deriv w (Function.leftLim
+              (fun s : ℝ≥0 => x + X.X s ω - rightLimit D s ω) t)) *
+          (if (t : ℝ≥0∞) ≤ ruinTime X x D ω then (1 : ℝ) else 0)
+        else 0) (fun ω => (τ ω : WithTop ℝ≥0))
+    let Y : Ω → ℝ := fun ω =>
+      X.X (τ ω + h) ω - X.X (τ ω) ω - (h : ℝ) * X.c
+    MemLp (fun ω => H ω * Y ω) 2 P ∧
+      Integrable (fun ω => (H ω * Y ω) ^ 2) P ∧
+      (∫ ω, (H ω * Y ω) ^ 2 ∂P) =
+        (∫ ω, (H ω) ^ 2 ∂P) * ((h : ℝ) * X.σ ^ 2) := by
+  let H : Ω → ℝ := stoppedValue (fun t ω =>
+        if t ≤ T then
+          (Real.exp (-(q * (t : ℝ))) *
+            deriv w (Function.leftLim
+              (fun s : ℝ≥0 => x + X.X s ω - rightLimit D s ω) t)) *
+          (if (t : ℝ≥0∞) ≤ ruinTime X x D ω then (1 : ℝ) else 0)
+        else 0) (fun ω => (τ ω : WithTop ℝ≥0))
+  let Y : Ω → ℝ := fun ω =>
+    X.X (τ ω + h) ω - X.X (τ ω) ω - (h : ℝ) * X.c
+  have hstop : IsStoppingTime 𝓕.rightCont
+      (fun ω => (τ ω : WithTop ℝ≥0)) :=
+    isStoppingTime_withTop_of_le_events τ hτ
+  have hHstop : Measurable[hstop.measurableSpace] H :=
+    measurable_stoppedValue
+      ((avram_wave3_04_source_stopped_discounted_deriv_predictable
+        X x D hD w q T).isStronglyProgressive) hstop
+  have hHg : Measurable H :=
+    hHstop.mono hstop.measurableSpace_le le_rfl
+  have hOne :=
+    avram_wave7_05_original_controlled_stopped_discounted_gradient_gaussian_L2_mean_zero
+      X hν x D hD w q T τ hτ B hbounded h K hK hHbound
+  dsimp only at hOne
+  have hIsometry :=
+    avram_wave5_03a_actual_rightCont_stopped_gaussian_history_weighted_L2_isometry_eq
+      X hν τ hτ B hbounded h H hHstop hHg
+  change MemLp (fun ω => H ω * Y ω) 2 P ∧
+    Integrable (fun ω => (H ω * Y ω) ^ 2) P ∧
+    (∫ ω, (H ω * Y ω) ^ 2 ∂P) =
+      (∫ ω, (H ω) ^ 2 ∂P) * ((h : ℝ) * X.σ ^ 2)
+  exact ⟨hOne.1, hOne.1.integrable_sq, hIsometry⟩

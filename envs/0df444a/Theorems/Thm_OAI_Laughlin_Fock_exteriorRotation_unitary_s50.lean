@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_exteriorRotation_unitary_s50
 -- name    : OAI.Laughlin.Fock.exteriorRotation_unitary_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:50:49.030934+00:00
 -- url     : https://prove2.me/theorems/b98a2b56-e178-438f-84ed-e21904451224

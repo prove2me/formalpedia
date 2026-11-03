@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_pairTensorLower_weight_s50
 -- name    : OAI.Laughlin.Spin.pairTensorLower_weight_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:47:32.268121+00:00
 -- url     : https://prove2.me/theorems/eda4af77-ec4c-4f2b-b225-53883c87f3ac

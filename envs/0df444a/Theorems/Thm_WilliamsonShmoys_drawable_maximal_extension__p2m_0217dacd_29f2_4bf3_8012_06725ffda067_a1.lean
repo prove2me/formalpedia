@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_maximal_extension__p2m_0217dacd_29f2_4bf3_8012_06725ffda067_a1
 -- name    : WilliamsonShmoys.drawable_maximal_extension__p2m_0217dacd_29f2_4bf3_8012_06725ffda067_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:23:17.068196+00:00
 -- url     : https://prove2.me/theorems/3b2acd1e-2b32-465b-803a-e7344ffe262c

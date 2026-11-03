@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_physical_threeBody_certificate_haar_s50
 -- name    : OAI.Laughlin.Spin.physical_threeBody_certificate_haar_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:01:14.437408+00:00
 -- url     : https://prove2.me/theorems/3cab79ec-3200-4f4c-8d56-c5b8d7965cf5

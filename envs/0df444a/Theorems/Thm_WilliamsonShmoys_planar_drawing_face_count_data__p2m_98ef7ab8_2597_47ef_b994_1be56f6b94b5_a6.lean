@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_count_data__p2m_98ef7ab8_2597_47ef_b994_1be56f6b94b5_a6
 -- name    : WilliamsonShmoys.planar_drawing_face_count_data__p2m_98ef7ab8_2597_47ef_b994_1be56f6b94b5_a6
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:59:45.700431+00:00
 -- url     : https://prove2.me/theorems/ce11034e-9d40-4f95-bd08-a8f0a5d53ed0

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Laughlin.Fock.occupationInner_scalar_wedge_zero_s50
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-01T12:37:52.743441+00:00
 -- url     : https://prove2.me/submissions/e26a9edb-2982-4e6d-80ad-d8dc787f2162
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LaughlinPlanar

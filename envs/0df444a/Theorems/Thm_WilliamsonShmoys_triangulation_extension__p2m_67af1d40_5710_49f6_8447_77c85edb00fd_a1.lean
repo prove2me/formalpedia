@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulation_extension__p2m_67af1d40_5710_49f6_8447_77c85edb00fd_a1
 -- name    : WilliamsonShmoys.triangulation_extension__p2m_67af1d40_5710_49f6_8447_77c85edb00fd_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:59:12.065858+00:00
 -- url     : https://prove2.me/theorems/5d7adedc-405a-4aa7-a840-9d1b809cbdd4

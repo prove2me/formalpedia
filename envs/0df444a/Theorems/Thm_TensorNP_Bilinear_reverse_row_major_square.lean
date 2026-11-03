@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Bilinear_reverse_row_major_square
 -- name    : TensorNP.Bilinear.reverse_row_major_square
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-01T20:43:44.039071+00:00
 -- url     : https://prove2.me/theorems/82bce578-8284-4cc2-a957-51cd31c5e281

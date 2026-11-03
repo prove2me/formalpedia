@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedWorks_OnlineList_lemma_2
 -- name    : GreedWorks.OnlineList.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:14:34.200747+00:00
 -- url     : https://prove2.me/theorems/79ae46de-e296-4b6c-b6fe-f03049172491

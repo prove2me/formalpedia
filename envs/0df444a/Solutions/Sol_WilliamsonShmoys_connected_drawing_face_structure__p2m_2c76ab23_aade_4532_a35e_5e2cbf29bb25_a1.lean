@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.connected_drawing_face_structure__p2m_2c76ab23_aade_4532_a35e_5e2cbf29bb25_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:51:01.964861+00:00
 -- url     : https://prove2.me/submissions/096e5770-041f-428c-95fb-3bbf50d95283
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

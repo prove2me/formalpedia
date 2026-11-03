@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ws01h_actual_capped_killed_Qp_closed_CDF_regeneration
 -- name    : AvramDividend.Classical.avram_ws01h_actual_capped_killed_Qp_closed_CDF_regeneration
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-29T16:32:39.939001+00:00
 -- url     : https://prove2.me/theorems/996fe894-4f83-4668-9c9c-3a1805702a5e

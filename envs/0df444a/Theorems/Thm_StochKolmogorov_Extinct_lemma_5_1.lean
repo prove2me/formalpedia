@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Extinct_lemma_5_1
 -- name    : StochKolmogorov.Extinct.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:33:44.448355+00:00
 -- url     : https://prove2.me/theorems/0da2a8f0-805c-4fe1-a6a8-8f4f853c5391

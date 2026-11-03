@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KyleProduction_Monopoly_market_maker_update
 -- name    : KyleProduction.Monopoly.market_maker_update
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:37.245786+00:00
 -- url     : https://prove2.me/theorems/8af5fb99-6d4c-4826-99b2-1d2b0a01bfe4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_insertion__p2m_d31de1f7_ef50_4693_bbf0_93f59f6d9afd_a1
 -- name    : WilliamsonShmoys_planar_edge_insertion__p2m_d31de1f7_ef50_4693_bbf0_93f59f6d9afd_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:11:29.342768+00:00
 -- url     : https://prove2.me/theorems/10eaf2f1-7409-4fae-95fa-e1e70a835601

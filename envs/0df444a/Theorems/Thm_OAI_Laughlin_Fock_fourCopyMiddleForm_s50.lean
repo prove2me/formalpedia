@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_fourCopyMiddleForm_s50
 -- name    : OAI.Laughlin.Fock.fourCopyMiddleForm_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:50:33.651681+00:00
 -- url     : https://prove2.me/theorems/6c0258fe-c2eb-4c9c-a448-5d47e1ab2fb9

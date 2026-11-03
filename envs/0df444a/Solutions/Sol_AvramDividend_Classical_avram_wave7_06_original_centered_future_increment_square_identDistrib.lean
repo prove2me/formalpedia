@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_wave7_06_original_centered_future_increment_square_identDistrib
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-02T17:39:44.310443+00:00
+-- url     : https://prove2.me/submissions/e0b9be8b-6c80-4f7d-b4cf-1f1853966a7a
+
+import Mathlib.Algebra.Order.Sub.Defs
+import Mathlib.MeasureTheory.MeasurableSpace.Defs
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory Filter Set Topology ProbabilityTheory AvramDividend.Classical
+open scoped NNReal ENNReal
+
+/-- Source centred future squared increments have exactly the law of the centred source square. -/
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕) (s t : ℝ≥0)
+    (hFirst : Integrable (X.X t) P) :
+    IdentDistrib
+      (fun ω => (X.X (s + t) ω - X.X s ω -
+        (∫ η, X.X t η ∂P))^2)
+      (fun ω => (X.X t ω -
+        (∫ η, X.X t η ∂P))^2)
+      P P := by
+  have hs : s ≤ s + t := by simp
+  have hLaw :
+      IdentDistrib
+        (fun ω => X.X (s + t) ω - X.X s ω)
+        (X.X t) P P := by
+    simpa only [add_tsub_cancel_left] using
+      (X.stationaryIncrements s (s + t) hs)
+  have hCenteredSquare : Measurable
+      (fun y : ℝ => (y - (∫ η, X.X t η ∂P))^2) := by
+    fun_prop
+  simpa only [Function.comp_def] using
+    (hLaw.comp hCenteredSquare)

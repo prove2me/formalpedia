@@ -8,6 +8,21 @@
 --   Strong Normalization of Mutual Blocks & Programs (Theorems 4 & 5), and Embedding of System F_ω^{cop} (Theorem 6)
 -- statement:
 --   Theorems 4, 5, and 6 (Sections 5.4.4–5.5, pp. 37–40): (1) every well-typed mutual block `MutualBlockTyping sig Ξ` over a semantically valid signature `sig` is semantically valid and strongly normalizing (`SemMutualBlockValid sig Ξ`); (2) every well-typed signature sequence `SigBlocksTyping` is semantically valid; (3) every well-typed program `ProgramTyping P` is strongly normalizing (`SemProgramValid P`); and (4) every System `F_ω^{cop}` mutual block with a lexicographic size measure embeds into System `F_ω^{cop, SCT}` (`MutualBlockTyping`).
+--
+--   **Superseded.** This is the first formalization of Theorem 4, Lemma 2,
+--   Theorem 5 and Theorem 6 (pp. 37–39) of the thesis. It is refuted through its
+--   Theorem 4 conjunct by the accepted disproof
+--   `469b61a8-c1ac-4d55-bb1e-a402e10e2934`: an existing global function calls a
+--   function that is only declared later; a new block declares that function with a
+--   call back to the existing one. The new block is well-typed with an empty
+--   invocation-graph family that satisfies the size-change criterion, but in the
+--   combined signature the two functions reduce to each other forever. As with
+--   Theorem 15, the formal statement omits the thesis's scope discipline, which rules
+--   out such forward references. The Lemma 2, Theorem 5 and Theorem 6 conjuncts are
+--   not refuted individually. Corrected statement:
+--   `NishtAbel2024V2.theorems_4_5_and_6`. It adds the scope hypotheses
+--   (`scopeBlockExtension`, `scopeOrderedBlocks`, `ScopedProgramTyping`) and requires
+--   a non-empty lexicographic measure in Theorem 6.
 -- source:
 --   Kanstantsin Nisht, 'Type-Based Termination Checking in Agda', Master's Thesis in Computer Science and Engineering, Chalmers University of Technology and University of Gothenburg (supervised by Andreas Abel), 2024; extended abstract by Kanstantsin Nisht and Andreas Abel, 30th International Conference on Types for Proofs and Programs (TYPES 2024). Sections 5.4.4–5.5, Theorem 4 (p. 37), Theorem 5 (p. 38), and Theorem 6 (p. 39).
 

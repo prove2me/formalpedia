@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_fourBody_total_bessel_haar_allowance_s50
 -- name    : OAI.Laughlin.Fock.physical_fourBody_total_bessel_haar_allowance_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:52:27.910761+00:00
 -- url     : https://prove2.me/theorems/56df1add-bda7-49b2-8ba9-df8a52666159

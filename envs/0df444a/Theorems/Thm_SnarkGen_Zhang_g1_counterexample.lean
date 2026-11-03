@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_Zhang_g1_counterexample
 -- name    : SnarkGen.Zhang.g1_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:53.582456+00:00
 -- url     : https://prove2.me/theorems/119e2954-bbd5-4c77-b997-98b178a7da54

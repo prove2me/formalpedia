@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerTwoChoices_Limit_theorem_3
 -- name    : PowerTwoChoices.Limit.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:04:18.123595+00:00
 -- url     : https://prove2.me/theorems/39c99d4e-38a0-45ff-93c6-b7a0d54afab2

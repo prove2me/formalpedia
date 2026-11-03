@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave4_01_original_record_survival_height_contDiff_infty
 -- name    : AvramDividend.Classical.avram_wave4_01_original_record_survival_height_contDiff_infty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-31T19:20:58.017983+00:00
 -- url     : https://prove2.me/theorems/b6247e7a-8652-4e41-b7a1-d3be62070834

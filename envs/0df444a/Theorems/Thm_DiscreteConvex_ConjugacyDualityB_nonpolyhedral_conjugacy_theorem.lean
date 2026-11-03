@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityB_nonpolyhedral_conjugacy_theorem
 -- name    : DiscreteConvex.ConjugacyDualityB.nonpolyhedral_conjugacy_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:35:15.85199+00:00
 -- url     : https://prove2.me/theorems/4b4204f1-30ca-487a-abaa-4a6af8bbbca3

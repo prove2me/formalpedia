@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompoundSMM_Conv_lemma_3
 -- name    : CompoundSMM.Conv.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:22.52596+00:00
 -- url     : https://prove2.me/theorems/889b4a50-d11f-4b70-b14f-993ccd6206bc

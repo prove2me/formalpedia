@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_augmentation_from_single_edge_step__p2m_54a1693d_5f6f_41b0_b799_793fe1e71489_a2
 -- name    : WilliamsonShmoys.planar_drawing_connected_augmentation_from_single_edge_step__p2m_54a1693d_5f6f_41b0_b799_793fe1e71489_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:20:08.082254+00:00
 -- url     : https://prove2.me/theorems/f115a162-ba9a-42c8-aff3-d83e53de475c

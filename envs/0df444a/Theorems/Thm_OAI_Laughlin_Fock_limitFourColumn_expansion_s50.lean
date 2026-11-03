@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_limitFourColumn_expansion_s50
 -- name    : OAI.Laughlin.Fock.limitFourColumn_expansion_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:43:03.6383+00:00
 -- url     : https://prove2.me/theorems/c2eade05-75e0-47eb-bac4-6a42eea15242

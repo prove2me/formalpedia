@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundledPay_Base_stage2_bp
 -- name    : BundledPay.Base.stage2_bp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:54:29.301804+00:00
 -- url     : https://prove2.me/theorems/9fd35fb8-6231-476e-8b82-c0f70c89caf9

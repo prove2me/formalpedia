@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Rotation_physicalPairInclusion_SU2_s50
 -- name    : OAI.Laughlin.Rotation.physicalPairInclusion_SU2_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:56:11.264875+00:00
 -- url     : https://prove2.me/theorems/2470b900-dd7a-4318-a544-63370e4843d4

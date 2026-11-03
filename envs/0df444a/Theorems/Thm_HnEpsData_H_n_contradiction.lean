@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HnEpsData_H_n_contradiction
 -- name    : HnEpsData.H_n_contradiction
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:19:42.144701+00:00
 -- url     : https://prove2.me/theorems/e33c9316-be4c-4abc-bcf1-3c57b9221a96

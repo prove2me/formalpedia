@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_fourErrorEntry_tendsto_s50
 -- name    : OAI.Laughlin.Spin.fourErrorEntry_tendsto_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:46:09.0932+00:00
 -- url     : https://prove2.me/theorems/16512653-087a-49c6-9981-afdbe9a7c17f

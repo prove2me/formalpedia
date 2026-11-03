@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_source_coupling_polynomial_tendsto_s50
 -- name    : OAI.Laughlin.Spin.source_coupling_polynomial_tendsto_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:48:10.885216+00:00
 -- url     : https://prove2.me/theorems/772ac50d-e022-4b3a-86ef-cd108dd87bf1

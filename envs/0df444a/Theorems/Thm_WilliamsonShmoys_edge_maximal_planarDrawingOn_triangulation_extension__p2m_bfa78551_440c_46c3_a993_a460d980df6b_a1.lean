@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_planarDrawingOn_triangulation_extension__p2m_bfa78551_440c_46c3_a993_a460d980df6b_a1
 -- name    : WilliamsonShmoys.edge_maximal_planarDrawingOn_triangulation_extension__p2m_bfa78551_440c_46c3_a993_a460d980df6b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T06:57:23.193489+00:00
 -- url     : https://prove2.me/theorems/e8d3fd6d-990f-43df-873b-df1b4f477345

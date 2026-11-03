@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planarDrawing_face_count_certificate__p2m_8700ddcb_5e54_440d_86e0_a8d22ebd60f0_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:42:29.180482+00:00
 -- url     : https://prove2.me/submissions/90c05733-dbf3-4c8b-bb53-258a87d61765
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

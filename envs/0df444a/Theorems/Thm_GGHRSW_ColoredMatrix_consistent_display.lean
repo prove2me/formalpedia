@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GGHRSW_ColoredMatrix_consistent_display
 -- name    : GGHRSW.ColoredMatrix.consistent_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:07:02.746184+00:00
 -- url     : https://prove2.me/theorems/d2873237-1c63-459b-9421-adddc30d6cef

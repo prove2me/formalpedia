@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_threeBody_projector_bound_s50
 -- name    : OAI.Laughlin.Fock.physical_threeBody_projector_bound_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:53:50.592379+00:00
 -- url     : https://prove2.me/theorems/1cef8564-dfae-40ec-8678-2ee1d2def29f

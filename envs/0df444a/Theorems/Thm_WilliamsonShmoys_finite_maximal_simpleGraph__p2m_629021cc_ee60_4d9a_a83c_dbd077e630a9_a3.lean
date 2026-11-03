@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_maximal_simpleGraph__p2m_629021cc_ee60_4d9a_a83c_dbd077e630a9_a3
 -- name    : WilliamsonShmoys.finite_maximal_simpleGraph__p2m_629021cc_ee60_4d9a_a83c_dbd077e630a9_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:13:06.731403+00:00
 -- url     : https://prove2.me/theorems/516786c9-e4e3-4bfd-8cda-bb065bed6fa1

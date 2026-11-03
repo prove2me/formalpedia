@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlottoLP_Flow_linear_program_1
 -- name    : BlottoLP.Flow.linear_program_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:58.861248+00:00
 -- url     : https://prove2.me/theorems/00fbd261-a8be-4e60-bda4-736d3fa7bf8c

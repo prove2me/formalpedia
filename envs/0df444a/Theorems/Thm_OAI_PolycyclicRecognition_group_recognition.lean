@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_group_recognition
 -- name    : OAI.PolycyclicRecognition.group_recognition
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:05.146274+00:00
 -- url     : https://prove2.me/theorems/bbb1156e-2c0f-4b49-8072-a741df92aebd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurkholderDFI_ConvexPhi_lemma_7_1
 -- name    : BurkholderDFI.ConvexPhi.lemma_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:12:06.182698+00:00
 -- url     : https://prove2.me/theorems/ae690236-bba3-48af-bfe7-289ce9347610

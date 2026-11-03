@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_threeWedge_zero_of_gram_zero_s50
 -- name    : OAI.Laughlin.Fock.threeWedge_zero_of_gram_zero_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:54:47.241688+00:00
 -- url     : https://prove2.me/theorems/f625e0eb-5fdd-40b5-89f1-3573081a56ae

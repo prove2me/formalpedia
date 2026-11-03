@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_exponentialLinearRealizationInput_intrinsic
 -- name    : OAI.PolycyclicRecognition.exponentialLinearRealizationInput_intrinsic
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:48:14.164997+00:00
 -- url     : https://prove2.me/theorems/f378f66a-bc93-4083-95c9-8f36457e6dc8

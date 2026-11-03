@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_limitSliceCoefficient_antisymmetric_s50
 -- name    : OAI.Laughlin.Spin.limitSliceCoefficient_antisymmetric_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:46:34.757757+00:00
 -- url     : https://prove2.me/theorems/698e8930-30cf-4a43-9904-bc733fac3dac

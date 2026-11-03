@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_fourBody_cross_orbit_s50
 -- name    : OAI.Laughlin.Spin.fourBody_cross_orbit_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:02:45.060602+00:00
 -- url     : https://prove2.me/theorems/17ada544-f1f5-4f3d-bd8a-59e22db5b9ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_truncatedScalingInv_coordinate_s50
 -- name    : OAI.Laughlin.Fock.truncatedScalingInv_coordinate_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:55:40.299818+00:00
 -- url     : https://prove2.me/theorems/66158815-52f3-4ab6-8f52-80ec897d095f

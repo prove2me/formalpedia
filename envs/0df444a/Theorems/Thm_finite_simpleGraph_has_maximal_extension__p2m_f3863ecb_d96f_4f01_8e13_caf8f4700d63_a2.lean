@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_simpleGraph_has_maximal_extension__p2m_f3863ecb_d96f_4f01_8e13_caf8f4700d63_a2
 -- name    : finite_simpleGraph_has_maximal_extension__p2m_f3863ecb_d96f_4f01_8e13_caf8f4700d63_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:53:49.676381+00:00
 -- url     : https://prove2.me/theorems/40238eb7-e613-4918-9b44-98364a27640b

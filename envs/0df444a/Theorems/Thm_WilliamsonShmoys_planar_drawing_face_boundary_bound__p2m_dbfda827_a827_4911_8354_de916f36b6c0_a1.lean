@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_face_boundary_bound__p2m_dbfda827_a827_4911_8354_de916f36b6c0_a1
 -- name    : WilliamsonShmoys.planar_drawing_face_boundary_bound__p2m_dbfda827_a827_4911_8354_de916f36b6c0_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:07:35.608246+00:00
 -- url     : https://prove2.me/theorems/e44127b7-e307-4dd9-bc34-b67b377ea4eb

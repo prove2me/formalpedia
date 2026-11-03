@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochCoordProx_lemma_3_optimality_condition
 -- name    : StochCoordProx.lemma_3_optimality_condition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:33:47.15267+00:00
 -- url     : https://prove2.me/theorems/a462ad8a-3ae6-41c9-9b32-9fd4f9756e3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_SmoothingLB_proof_display
 -- name    : RegevLWE.SmoothingLB.proof_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:13:03.371973+00:00
 -- url     : https://prove2.me/theorems/efdd3e0f-1473-4dd4-a5ff-e52dd04314b0

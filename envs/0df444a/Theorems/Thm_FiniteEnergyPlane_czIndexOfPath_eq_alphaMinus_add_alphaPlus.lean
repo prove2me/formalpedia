@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_czIndexOfPath_eq_alphaMinus_add_alphaPlus
 -- name    : FiniteEnergyPlane.czIndexOfPath_eq_alphaMinus_add_alphaPlus
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:38:06.997271+00:00
 -- url     : https://prove2.me/theorems/000a8fce-802e-46ee-9573-0471aa7e9681

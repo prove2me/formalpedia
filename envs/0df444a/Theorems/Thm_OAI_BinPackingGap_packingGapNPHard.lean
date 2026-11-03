@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BinPackingGap_packingGapNPHard
 -- name    : OAI.BinPackingGap.packingGapNPHard
--- status  : Open
+-- status  : Proved
 -- author  : @SamenHossain
 -- created : 2026-10-12T18:07:29.876348+00:00
 -- url     : https://prove2.me/theorems/fad9f5e4-1ac6-4b6e-b658-301561d0288a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_CartanWordModel_exists_segmentWordPath_bound
 -- name    : OAI.PolycyclicRecognition.CartanWordModel.exists_segmentWordPath_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:35:42.244403+00:00
 -- url     : https://prove2.me/theorems/1f497722-ab53-4bf3-b5fd-f525e829790b

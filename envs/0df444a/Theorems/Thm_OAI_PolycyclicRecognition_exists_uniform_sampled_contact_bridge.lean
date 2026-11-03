@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_exists_uniform_sampled_contact_bridge
 -- name    : OAI.PolycyclicRecognition.exists_uniform_sampled_contact_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:52:48.318206+00:00
 -- url     : https://prove2.me/theorems/7ad10fdf-9375-46b8-88e3-b49dce7b7191

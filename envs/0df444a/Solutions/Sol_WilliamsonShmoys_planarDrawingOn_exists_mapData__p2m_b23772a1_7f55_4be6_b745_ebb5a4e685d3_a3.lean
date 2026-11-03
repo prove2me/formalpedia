@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planarDrawingOn_exists_mapData__p2m_b23772a1_7f55_4be6_b745_ebb5a4e685d3_a3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:38:47.057965+00:00
 -- url     : https://prove2.me/submissions/86fffbd6-5f80-45f8-b8ec-d9986150d285
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_PlanarMapData__p2m_b23772a1_7f55_4be6_b745_ebb5a4e685d3_a3
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_row_normal_square_s50
 -- name    : OAI.Laughlin.Fock.row_normal_square_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T18:44:38.413653+00:00
 -- url     : https://prove2.me/theorems/f1ce147e-b76f-4d7e-b0e9-b1b8dcc39fbd

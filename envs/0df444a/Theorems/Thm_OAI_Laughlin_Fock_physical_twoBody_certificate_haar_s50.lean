@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Fock_physical_twoBody_certificate_haar_s50
 -- name    : OAI.Laughlin.Fock.physical_twoBody_certificate_haar_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T20:53:32.499196+00:00
 -- url     : https://prove2.me/theorems/eccacfb0-0131-4a42-8776-3c8a9ca518d6

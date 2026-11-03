@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolycyclicRecognition_cornulierTesseraModelInput
 -- name    : OAI.PolycyclicRecognition.cornulierTesseraModelInput
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T16:44:39.008171+00:00
 -- url     : https://prove2.me/theorems/7d6dc06c-5813-43af-93a4-f02715d7cd93

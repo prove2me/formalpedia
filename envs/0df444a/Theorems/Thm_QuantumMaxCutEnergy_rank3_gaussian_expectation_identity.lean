@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_rank3_gaussian_expectation_identity
 -- name    : QuantumMaxCutEnergy.rank3_gaussian_expectation_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T19:19:46.084137+00:00
 -- url     : https://prove2.me/theorems/87740010-c216-4fef-a33f-6015dbdb47a3

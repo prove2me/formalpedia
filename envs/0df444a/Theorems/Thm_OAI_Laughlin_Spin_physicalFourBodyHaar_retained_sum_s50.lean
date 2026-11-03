@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Laughlin_Spin_physicalFourBodyHaar_retained_sum_s50
 -- name    : OAI.Laughlin.Spin.physicalFourBodyHaar_retained_sum_s50
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T21:04:01.329232+00:00
 -- url     : https://prove2.me/theorems/cc0af49d-9b5c-40d1-9d54-ce16fdfc0072

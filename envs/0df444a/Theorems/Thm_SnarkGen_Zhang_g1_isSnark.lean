@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_Zhang_g1_isSnark
 -- name    : SnarkGen.Zhang.g1_isSnark
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:35.892612+00:00
 -- url     : https://prove2.me/theorems/9fa86fe3-2109-4fa9-8483-bd6e15fb7408
