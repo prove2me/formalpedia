@@ -1,0 +1,69 @@
+-- Prove2me | solution 1 for ThreeSum.LightSwitchCosts.depth_time_le_budget
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T13:15:09.60622+00:00
+-- url     : https://prove2.me/submissions/09cba403-67d2-4da9-a220-c9d35cdf2011
+
+import Definitions.Def_Submission_ThreeSum_LightSwitchDepth
+import Definitions.Def_Submission_ThreeSum_SharedReportingCostBounds
+import Definitions.Def_Submission_ThreeSum_LightSwitchCosts
+import Theorems.Thm_ThreeSum_LightBalancedOffset_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_395153661a990775
+import Theorems.Thm_ThreeSum_LightBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightCanonicalBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetAddress_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetSize_time_bound
+import Theorems.Thm_ThreeSum_LightExplicitSum_time_bound
+import Theorems.Thm_ThreeSum_LightKaratsuba_time_bound
+import Theorems.Thm_ThreeSum_LightLeafSum_time_bound
+import Theorems.Thm_ThreeSum_LightMaskMinimum_time_bound
+import Theorems.Thm_ThreeSum_LightMaskUnion_time_bound
+import Theorems.Thm_ThreeSum_LightQueryBox_time_bound
+import Theorems.Thm_ThreeSum_LightQueryEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightQueryWeights_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_a98211a6e8223f5f
+import Theorems.Thm_ThreeSum_LightRadixRows_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPairRows_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPrefixArrays_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSortedCatalog_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixBatch_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_aee3f2a8e7e7d37a
+import Theorems.Thm_ThreeSum_LightReportingSuffixCatalog_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixCell_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixSetup_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_306830be6786141e
+import Theorems.Thm_ThreeSum_LightResidueHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightScales_blockCount_le
+import Theorems.Thm_ThreeSum_LightScales_time_bound
+import Theorems.Thm_ThreeSum_LightSignedBoxSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafBatch_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafCell_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafGeneral_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafTable_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeaf_time_bound
+import Theorems.Thm_ThreeSum_LightSmallDivide_time_bound
+import Theorems.Thm_ThreeSum_LightSparseQuery_time_bound
+import Theorems.Thm_ThreeSum_LightStageLookup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumerationSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSwitchDepth_time_bound
+import Theorems.Thm_ThreeSum_LightZetaBatch_time_bound
+import Theorems.Thm_ThreeSum_LightZetaCell_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_223d9caf4e7f660b
+import Definitions.Def_WeightedCache3SUM_Alias_c2a1891cab57c5b2
+import Definitions.Def_WeightedCache3SUM_Alias_f1c95625e9077016
+
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.LightSwitchCosts
+open Scales StageBounds ArithmeticStageBounds Filter
+open scoped Topology
+namespace ThreeSum.LightSwitchCosts
+theorem _root_.solution (n : ℕ) :
+    LightSwitchDepth.time (blockCount (inputBits n)) ≤ depthBudget n := by
+  have hh := LightSwitchDepth.time_bound (blockCount (inputBits n))
+  have hJ := LightScales.blockCount_le (inputBits n)
+  unfold depthBudget
+  omega
+end ThreeSum.LightSwitchCosts

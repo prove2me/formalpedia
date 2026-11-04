@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JuschenkoMonod_tfae_almostInvariant_lampInvariantMean_invariantMean_half_invariantMean_one
 -- name    : JuschenkoMonod.tfae_almostInvariant_lampInvariantMean_invariantMean_half_invariantMean_one
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T17:25:32.726813+00:00
 -- url     : https://prove2.me/theorems/f3c1ba43-9a19-49ca-b47f-862e4e31fec0

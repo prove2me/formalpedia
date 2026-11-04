@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_im_conj_xiCoordC_mul
 -- name    : FiniteEnergyPlane.im_conj_xiCoordC_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-02T21:17:00.096139+00:00
 -- url     : https://prove2.me/theorems/2583ae07-336f-4dac-a7d5-423691fa0286

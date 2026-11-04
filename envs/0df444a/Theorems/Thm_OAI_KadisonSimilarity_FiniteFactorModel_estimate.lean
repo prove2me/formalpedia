@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_FiniteFactorModel_estimate
 -- name    : OAI.KadisonSimilarity.FiniteFactorModel.estimate
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T08:55:46.325089+00:00
 -- url     : https://prove2.me/theorems/ea7ce749-ec55-4155-ac30-e1fec797ea6f

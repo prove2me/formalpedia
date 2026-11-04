@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_lemma4_4_value_decomposition
 -- name    : CorruptRobustRL.Supervised.lemma4_4_value_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:10.02798+00:00
 -- url     : https://prove2.me/theorems/928e9a29-5b1d-4378-aabc-7bff5869ff9e

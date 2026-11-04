@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_ValueInfo_eq_B5
 -- name    : SCInfoDesign.ValueInfo.eq_B5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:34.016694+00:00
 -- url     : https://prove2.me/theorems/0ee1ef1c-bf38-409e-9905-1d3aed5d0c55

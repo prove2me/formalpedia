@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinbergFalse_Counterexample_G_isPlanar
 -- name    : SteinbergFalse.Counterexample.G_isPlanar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:12:50.808378+00:00
 -- url     : https://prove2.me/theorems/adc191f6-00c5-447c-8aaa-0877275a3ea8

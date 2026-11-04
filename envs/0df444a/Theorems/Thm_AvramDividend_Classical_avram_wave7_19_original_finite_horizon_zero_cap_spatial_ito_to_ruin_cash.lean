@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_19_original_finite_horizon_zero_cap_spatial_ito_to_ruin_cash
 -- name    : AvramDividend.Classical.avram_wave7_19_original_finite_horizon_zero_cap_spatial_ito_to_ruin_cash
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T21:35:32.325663+00:00
 -- url     : https://prove2.me/theorems/97c8d8af-e97d-43d1-b3a9-17d7072630c5

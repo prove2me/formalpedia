@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_maximal_drawable_graph_has_edge_extension_triangulation__p2m_869ffda5_b864_4783_a885_44fd746ff24a_a1
 -- name    : maximal_drawable_graph_has_edge_extension_triangulation__p2m_869ffda5_b864_4783_a885_44fd746ff24a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:32:17.891693+00:00
 -- url     : https://prove2.me/theorems/d8aa4474-1bb0-4a8a-92a2-795d49f289c9

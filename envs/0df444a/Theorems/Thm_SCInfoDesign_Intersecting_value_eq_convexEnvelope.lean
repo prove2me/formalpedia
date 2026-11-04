@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Intersecting_value_eq_convexEnvelope
 -- name    : SCInfoDesign.Intersecting.value_eq_convexEnvelope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:47.24282+00:00
 -- url     : https://prove2.me/theorems/a5b44dba-ef78-4e3b-91f9-87e9ac72c507

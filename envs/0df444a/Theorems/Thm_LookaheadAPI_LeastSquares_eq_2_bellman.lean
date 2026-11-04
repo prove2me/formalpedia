@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LookaheadAPI_LeastSquares_eq_2_bellman
 -- name    : LookaheadAPI.LeastSquares.eq_2_bellman
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:12.934887+00:00
 -- url     : https://prove2.me/theorems/2912d728-3ba5-4cd3-8b28-bdfc6900843c

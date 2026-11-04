@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_simple_graph_face_incidence_bound__p2m_26b20229_4922_4282_8d13_2bf152659d7b_a1
 -- name    : WilliamsonShmoys.connected_planar_simple_graph_face_incidence_bound__p2m_26b20229_4922_4282_8d13_2bf152659d7b_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:08:05.555298+00:00
 -- url     : https://prove2.me/theorems/e6b74747-b2b4-4c13-95ec-8e43a6ee5607

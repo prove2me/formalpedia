@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CasinoCPT_Embedding_cond8_iff_evol_eq_potential
 -- name    : CasinoCPT.Embedding.cond8_iff_evol_eq_potential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:51:34.059132+00:00
 -- url     : https://prove2.me/theorems/7391a571-5aec-4d50-8f34-b7ab0bfd6b28

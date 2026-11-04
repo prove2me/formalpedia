@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TaoBR.kakeyaMaximalConjecture_iff_nikodymMaximalConjecture
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-29T22:00:25.49829+00:00
 -- url     : https://prove2.me/submissions/16a327eb-b97a-4196-9a3f-078f3e20fb29
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_TaoBR

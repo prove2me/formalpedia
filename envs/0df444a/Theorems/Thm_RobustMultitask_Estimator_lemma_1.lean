@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMultitask_Estimator_lemma_1
 -- name    : RobustMultitask.Estimator.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:33:41.944764+00:00
 -- url     : https://prove2.me/theorems/ded41b4e-d5ca-4db6-af1d-2e6391b7046f

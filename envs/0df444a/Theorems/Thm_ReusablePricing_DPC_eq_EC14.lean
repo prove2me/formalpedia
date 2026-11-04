@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusablePricing_DPC_eq_EC14
 -- name    : ReusablePricing.DPC.eq_EC14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:11:34.891398+00:00
 -- url     : https://prove2.me/theorems/b56c4070-231e-4433-800c-6c12eb23123b

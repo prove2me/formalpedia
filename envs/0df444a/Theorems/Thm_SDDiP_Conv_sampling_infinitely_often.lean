@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDDiP_Conv_sampling_infinitely_often
 -- name    : SDDiP.Conv.sampling_infinitely_often
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:48:49.146895+00:00
 -- url     : https://prove2.me/theorems/373cb5be-9e0c-4173-8d91-2899fa10d0ff

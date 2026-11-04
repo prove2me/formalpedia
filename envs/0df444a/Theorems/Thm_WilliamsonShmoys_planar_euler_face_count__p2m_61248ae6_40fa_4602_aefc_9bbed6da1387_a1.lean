@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_euler_face_count__p2m_61248ae6_40fa_4602_aefc_9bbed6da1387_a1
 -- name    : WilliamsonShmoys.planar_euler_face_count__p2m_61248ae6_40fa_4602_aefc_9bbed6da1387_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:45:25.60729+00:00
 -- url     : https://prove2.me/theorems/13cac36b-d337-49ef-981f-d43d139f211c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfisterCEP_graph_heisenberg_equations
 -- name    : PfisterCEP.graph_heisenberg_equations
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:27:18.864223+00:00
 -- url     : https://prove2.me/theorems/aba7e1db-66b8-4f4a-8ae2-fcad13a3f24b

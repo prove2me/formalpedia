@@ -1,0 +1,93 @@
+-- Prove2me | solution 1 for ThreeSum.TernaryColorPreludeResources.time_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T13:22:17.550858+00:00
+-- url     : https://prove2.me/submissions/f4961cfd-2c9c-49a2-b7b2-6e35dd73c0f4
+
+import Definitions.Def_Submission_ThreeSum_LightTernaryColorPrelude
+import Definitions.Def_Submission_ThreeSum_PolynomialResources
+import Definitions.Def_Submission_ThreeSum_ArithmeticStageBounds
+import Definitions.Def_Submission_ThreeSum_TernaryColorPreludeResources_w3sum_ac885d1
+import Theorems.Thm_ThreeSum_TernaryColorPreludeResources_one_band_bounds
+import Theorems.Thm_ThreeSum_TernaryColorPreludeResources_clog_le_width
+import Theorems.Thm_ThreeSum_LightBalancedOffset_time_bound
+import Theorems.Thm_ThreeSum_LightBandEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightBandPartition_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_2186ec26acc49293
+import Definitions.Def_WeightedCache3SUM_Alias_395153661a990775
+import Theorems.Thm_ThreeSum_LightBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightCanonicalBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightColorArray_time_bound
+import Theorems.Thm_ThreeSum_LightColorBands_time_bound
+import Theorems.Thm_ThreeSum_LightColorClasses_time_bound
+import Theorems.Thm_ThreeSum_LightColorIndex_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetAddress_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetSize_time_bound
+import Theorems.Thm_ThreeSum_LightExplicitSum_time_bound
+import Theorems.Thm_ThreeSum_LightGlobalSizes_time_bound
+import Theorems.Thm_ThreeSum_LightKaratsuba_time_bound
+import Theorems.Thm_ThreeSum_LightLeafSum_time_bound
+import Theorems.Thm_ThreeSum_LightLocalCounts_time_bound
+import Theorems.Thm_ThreeSum_LightMaskMinimum_time_bound
+import Theorems.Thm_ThreeSum_LightMaskUnion_time_bound
+import Theorems.Thm_ThreeSum_LightNormalize_time_bound
+import Theorems.Thm_ThreeSum_LightQueryBox_time_bound
+import Theorems.Thm_ThreeSum_LightQueryEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightQueryWeights_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_a98211a6e8223f5f
+import Theorems.Thm_ThreeSum_LightRadixRows_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPairRows_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPrefixArrays_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSortedCatalog_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixBatch_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_aee3f2a8e7e7d37a
+import Theorems.Thm_ThreeSum_LightReportingSuffixCatalog_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixCell_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixSetup_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_306830be6786141e
+import Theorems.Thm_ThreeSum_LightResidueHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightScales_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_ea9db4f154655ba6
+import Theorems.Thm_ThreeSum_LightSignedBoxSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafBatch_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafCell_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafGeneral_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafTable_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeaf_time_bound
+import Theorems.Thm_ThreeSum_LightSmallDivide_time_bound
+import Theorems.Thm_ThreeSum_LightSortedBands_time_bound
+import Theorems.Thm_ThreeSum_LightSparseQuery_time_bound
+import Theorems.Thm_ThreeSum_LightStageLookup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumerationSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetSetup_time_bound
+import Theorems.Thm_ThreeSum_LightZetaBatch_time_bound
+import Theorems.Thm_ThreeSum_LightZetaCell_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_223d9caf4e7f660b
+import Definitions.Def_WeightedCache3SUM_Alias_c2a1891cab57c5b2
+import Definitions.Def_WeightedCache3SUM_Alias_f1c95625e9077016
+
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.TernaryColorPreludeResources
+open Light LightTernaryColorPrelude LightColorParametersCosts StageBounds
+open Filter
+open scoped Topology
+set_option maxHeartbeats 6000000
+set_option maxRecDepth 20000
+namespace ThreeSum.TernaryColorPreludeResources
+theorem _root_.solution (n : ℕ) : time n≤ 20000*(width n+1)*(n+1) := by
+  have ht:= LightColorBands.time_bound (width n) n n
+  obtain ⟨_,hc,hw⟩:= one_band_bounds n
+  have hlog:= clog_le_width n
+  have hband : ColorBandBounds.time n n≤
+      2100*(n+1)*(width n+1)+3000*(n+4)+400 := by
+    unfold ColorBandBounds.time
+    have h0:= Nat.mul_le_mul_left (2100*(n+1)) (Nat.add_le_add_right hlog 1)
+    have h1:= Nat.mul_le_mul (Nat.mul_le_mul_left 1000 (by omega : ColorBandBounds.count n n+n+1≤ n+4))
+      (Nat.add_le_add_right hw 1)
+    omega
+  have hW : 1≤ width n := by unfold width; omega
+  unfold time
+  nlinarith only [ht,hband,hW,Nat.zero_le (n*width n)]
+end ThreeSum.TernaryColorPreludeResources

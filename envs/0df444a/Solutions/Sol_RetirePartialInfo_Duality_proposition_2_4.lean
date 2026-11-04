@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RetirePartialInfo.Duality.proposition_2_4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-03T05:41:01.30644+00:00
 -- url     : https://prove2.me/submissions/ca5b24c9-7a1b-447b-aefb-11ac3fc732ed
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RetirePartialInfo_Duality_Market

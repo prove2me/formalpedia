@@ -66612,8 +66612,8 @@
 {"parent": "dusart_mesh_upper_group142", "child": "dusart_mesh_upper_group142_part00", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group142", "child": "dusart_mesh_upper_group142_part01", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group142", "child": "dusart_mesh_upper_group142_part04", "via": ["statement"]}
-{"parent": "ContagionGrowth.FluidLimit.theorem_5", "child": "ContagionGrowth_FluidLimit_Network", "via": ["statement"]}
-{"parent": "ContagionGrowth.FluidLimit.theorem_5", "child": "ContagionGrowth_FluidLimit_Limit", "via": ["statement"]}
+{"parent": "ContagionGrowth.FluidLimit.theorem_5", "child": "ContagionGrowth_FluidLimit_Network", "via": ["solution", "statement"]}
+{"parent": "ContagionGrowth.FluidLimit.theorem_5", "child": "ContagionGrowth_FluidLimit_Limit", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group688_part02", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group239_part02", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group625_part03", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}

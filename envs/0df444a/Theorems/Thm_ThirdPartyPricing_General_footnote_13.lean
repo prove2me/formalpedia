@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThirdPartyPricing_General_footnote_13
 -- name    : ThirdPartyPricing.General.footnote_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:11.070672+00:00
 -- url     : https://prove2.me/theorems/153eb7f9-a4f5-4060-8216-bb1648c49a8d

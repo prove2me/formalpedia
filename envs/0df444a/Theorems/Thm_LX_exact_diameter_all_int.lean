@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_exact_diameter_all_int
 -- name    : LX.exact_diameter_all_int
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:29:05.723047+00:00
 -- url     : https://prove2.me/theorems/38917534-9f95-4302-8997-232c2602177d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusablePricing_DPC_theorem_1
 -- name    : ReusablePricing.DPC.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:11:35.516484+00:00
 -- url     : https://prove2.me/theorems/6b01ecff-6172-4dee-a2be-1dc25d3a748a

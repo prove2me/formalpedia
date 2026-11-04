@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMembership_PerfectInfo_eq15_equilibrium_iff
 -- name    : CryptoMembership.PerfectInfo.eq15_equilibrium_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:49.3605+00:00
 -- url     : https://prove2.me/theorems/74d5709d-1285-458d-b0cb-871449e4bfc4

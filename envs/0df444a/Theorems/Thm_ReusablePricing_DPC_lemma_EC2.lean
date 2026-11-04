@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusablePricing_DPC_lemma_EC2
 -- name    : ReusablePricing.DPC.lemma_EC2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:11:29.887096+00:00
 -- url     : https://prove2.me/theorems/644634b0-60fe-4d1c-abc5-e3af01bb3355

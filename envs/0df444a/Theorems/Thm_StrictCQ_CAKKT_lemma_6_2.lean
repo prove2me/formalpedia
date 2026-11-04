@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_CAKKT_lemma_6_2
 -- name    : StrictCQ.CAKKT.lemma_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:33:26.897049+00:00
 -- url     : https://prove2.me/theorems/d2196c11-4fdb-4329-8006-2e7d2fcf79fe

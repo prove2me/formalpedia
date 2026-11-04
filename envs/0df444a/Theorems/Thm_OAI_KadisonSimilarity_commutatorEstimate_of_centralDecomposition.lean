@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_commutatorEstimate_of_centralDecomposition
 -- name    : OAI.KadisonSimilarity.commutatorEstimate_of_centralDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T09:59:35.940982+00:00
 -- url     : https://prove2.me/theorems/1fe2e0ab-4b23-4e7a-ba20-90f25812ab98

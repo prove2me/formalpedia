@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_PDE_lemma_2_10
 -- name    : ChanceStateCtrl.PDE.lemma_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:21:41.805594+00:00
 -- url     : https://prove2.me/theorems/cbb947b4-411e-45b8-bf12-50a4b652efb7

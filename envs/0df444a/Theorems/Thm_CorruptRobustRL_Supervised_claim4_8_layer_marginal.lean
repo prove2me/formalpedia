@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_claim4_8_layer_marginal
 -- name    : CorruptRobustRL.Supervised.claim4_8_layer_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:00.508087+00:00
 -- url     : https://prove2.me/theorems/26ea90e0-5b53-4890-b9ec-201cf376775d

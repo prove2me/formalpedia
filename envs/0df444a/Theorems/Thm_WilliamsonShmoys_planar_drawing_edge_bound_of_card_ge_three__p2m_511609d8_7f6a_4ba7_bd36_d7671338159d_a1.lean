@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_edge_bound_of_card_ge_three__p2m_511609d8_7f6a_4ba7_bd36_d7671338159d_a1
 -- name    : WilliamsonShmoys.planar_drawing_edge_bound_of_card_ge_three__p2m_511609d8_7f6a_4ba7_bd36_d7671338159d_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:11:05.611409+00:00
 -- url     : https://prove2.me/theorems/6e9be569-c749-440b-898c-782fd4e92ed9

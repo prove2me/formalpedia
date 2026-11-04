@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SONATA_Push_lemma_I_3
 -- name    : SONATA.Push.lemma_I_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:14:04.311686+00:00
 -- url     : https://prove2.me/theorems/5f0c2bd6-8e0b-48f2-91c8-93f4c01b150b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani_ineq_818_product
 -- name    : CoffmanMitrani.ineq_818_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:27:30.250311+00:00
 -- url     : https://prove2.me/theorems/fc6b9ade-bc2c-42ec-9023-46702e5726f4

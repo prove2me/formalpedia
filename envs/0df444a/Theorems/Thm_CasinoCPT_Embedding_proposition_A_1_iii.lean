@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CasinoCPT_Embedding_proposition_A_1_iii
 -- name    : CasinoCPT.Embedding.proposition_A_1_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:51:34.127294+00:00
 -- url     : https://prove2.me/theorems/cc0359c5-9860-493b-9880-989983fb1256

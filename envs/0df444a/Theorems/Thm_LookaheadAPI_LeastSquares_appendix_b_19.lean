@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LookaheadAPI_LeastSquares_appendix_b_19
 -- name    : LookaheadAPI.LeastSquares.appendix_b_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:54:04.140834+00:00
 -- url     : https://prove2.me/theorems/70b97970-a176-4a98-a22b-f0bf56118eb8

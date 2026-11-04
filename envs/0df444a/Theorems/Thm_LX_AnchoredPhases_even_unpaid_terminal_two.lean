@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_AnchoredPhases_even_unpaid_terminal_two
 -- name    : LX.AnchoredPhases.even_unpaid_terminal_two
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:27:19.569545+00:00
 -- url     : https://prove2.me/theorems/c6e583cd-61e3-4ebf-93b4-0b8a5621b2f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_Concentration_ratio_concentration
 -- name    : RandomListsMatching.Concentration.ratio_concentration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:07:59.877791+00:00
 -- url     : https://prove2.me/theorems/98f788c9-9ee7-4dc1-a272-ec405ed5dcf4

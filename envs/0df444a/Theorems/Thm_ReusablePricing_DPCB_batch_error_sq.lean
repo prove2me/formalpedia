@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusablePricing_DPCB_batch_error_sq
 -- name    : ReusablePricing.DPCB.batch_error_sq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:10:06.951998+00:00
 -- url     : https://prove2.me/theorems/7ff3f8d8-6e6f-4657-86cd-f7edfbe76137

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeckTeboulleMD_EMDA_emda_efficiency_estimate
 -- name    : BeckTeboulleMD.EMDA.emda_efficiency_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:02:13.674996+00:00
 -- url     : https://prove2.me/theorems/2095014a-a329-4cc1-8779-b331a50216e4

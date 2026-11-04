@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusablePricing_DPCB_grad_correction_mean_zero
 -- name    : ReusablePricing.DPCB.grad_correction_mean_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:13:18.645287+00:00
 -- url     : https://prove2.me/theorems/0329d33e-8ccc-45cc-8e30-29ae30c2d8c9

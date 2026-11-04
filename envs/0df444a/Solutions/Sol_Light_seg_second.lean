@@ -1,0 +1,25 @@
+-- Prove2me | solution 1 for Light.seg_second
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T11:59:18.885986+00:00
+-- url     : https://prove2.me/submissions/d120f4e4-7ad8-4797-a999-540161e7dd89
+
+import Definitions.Def_Submission_PaperStatements
+import Definitions.Def_Submission_ThreeSumApsp_Lang_Lib_Seg
+import Definitions.Def_Submission_ThreeSumApsp_Lang_RowMajor
+import Theorems.Thm_Light_seg_memOf
+import Theorems.Thm_Light_toNat_natCast_add_natCast
+attribute [local simp] Light.toNat_natCast_add_natCast
+
+
+
+set_option autoImplicit false
+section
+open Light
+open ThreeSumApsp ThreeSumApsp.WordRam
+namespace Light
+theorem _root_.solution (n : ℤ) (l₁ l₂ : List ℤ) :
+    Seg (memOf (n :: (l₁ ++ l₂))) (1 + l₁.length) l₂ := by
+  have := seg_memOf (n :: l₁) l₂ []
+  simpa [Nat.add_comm] using this
+end Light

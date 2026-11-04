@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_ComonoConv_lemma2b_comonotonic_allocation_of_tail
 -- name    : TailRiskSharing.ComonoConv.lemma2b_comonotonic_allocation_of_tail
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:46.227983+00:00
 -- url     : https://prove2.me/theorems/e4299ec4-9a0a-4880-9811-dea0c7fccfd7

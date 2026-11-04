@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SearchNeutrality_ShortTerm_proposition_3_1
 -- name    : SearchNeutrality.ShortTerm.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:38:40.41831+00:00
 -- url     : https://prove2.me/theorems/233fe6c7-2170-439e-8a4b-bdddb6c7ab91

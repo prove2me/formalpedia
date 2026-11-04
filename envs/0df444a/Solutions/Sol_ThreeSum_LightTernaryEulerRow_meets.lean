@@ -1,0 +1,123 @@
+-- Prove2me | solution 1 for ThreeSum.LightTernaryEulerRow.meets
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T11:30:59.92752+00:00
+-- url     : https://prove2.me/submissions/7073bb4f-38a4-46c4-ad3b-751bf283ea8b
+
+import Definitions.Def_Submission_ThreeSum_LightTernaryWeightedSum
+import Definitions.Def_Submission_ThreeSum_LightTernaryDivide
+import Definitions.Def_Submission_ThreeSum_LightTernaryEulerRow
+import Theorems.Thm_Light_Meets_of_body
+import Definitions.Def_WeightedCache3SUM_Alias_3252ff1ef14149f2
+import Definitions.Def_WeightedCache3SUM_Alias_9a4576158068ee52
+import Theorems.Thm_ThreeSum_LightTernaryDivide_meets
+import Theorems.Thm_ThreeSum_LightTernaryWeightedSum_meets_on_keys
+import Theorems.Thm_ThreeSum_LightTernaryWeightedSum_sum_abs_le
+set_option autoImplicit false
+open ThreeSum ThreeSum.LightTernaryEulerRow
+open Light
+variable {lim : Limits} {P : Program} {d : ℕ}
+namespace ThreeSum.LightTernaryEulerRow
+theorem _root_.solution {pMain pSum pDivide pNaturalDivide ws ks table N pcount Mo V fr U : ℕ} {q : ℤ}
+    (hmain : P[pMain]? = some (body pSum pDivide)) (hsum : P[pSum]? = some LightTernaryWeightedSum.body)
+    (hdivide : P[pDivide]? = some (LightTernaryDivide.body pNaturalDivide))
+    (hnatural : P[pNaturalDivide]? = some LightOutputDecodeDivide.body) (μ : ℕ → ℤ) (weights keys : ℕ → ℕ) (f : ℕ → ℤ)
+    (F : Light.Emod.Pre lim Mo V fr) (hws : ws + N ≤ lim.space) (hks : ks + N ≤ lim.space)
+    (htable : table + pcount ≤ lim.space) (hweights : ∀ i < N, μ (ws + i) = (weights i : ℤ))
+    (hkeys : ∀ i < N, μ (ks + i) = (keys i : ℤ)) (hrange : ∀ i < N, keys i < pcount)
+    (hread : ∀ i < N, μ (table + keys i) = f (keys i)) (hweight : ∀ i < N, weights i ≤ 2)
+    (hvalue : ∀ i < N, |f (keys i)| ≤ U) (hV : 2 * (N + 1) * U ≤ V)
+    (hEuler : LightTernaryWeightedSum.sum weights keys f N = (Mo : ℤ) * q) (hd : d + 2 ≤ lim.depth) :
+    Meets lim P pMain d [ws, ks, table, N, pcount, Mo, fr] μ (time N V) (fun r μ' => r = q ∧ Kept μ μ' fr) :=
+  by
+  (obtain ⟨⟩ := _root_.id F)
+  have hvalueWord : 2 * (N + 1) * (U : ℤ) + 3 ≤ lim.word :=
+    by
+    have hVcast : 2 * (N + 1) * (U : ℤ) ≤ (V : ℤ) := by exact_mod_cast hV
+    omega
+  have hsumCall :=
+    LightTernaryWeightedSum.meets_on_keys (d := d + 1) hsum μ weights keys f F.space hws hks htable hweights hkeys
+      hrange hread hweight hvalue hvalueWord
+  have hnum : (LightTernaryWeightedSum.sum weights keys f N).natAbs ≤ V :=
+    by
+    have hh := LightTernaryWeightedSum.sum_abs_le weights keys f hweight hvalue (j := N) le_rfl
+    have hbound : 2 * N * (U : ℤ) ≤ (V : ℤ) :=
+      by
+      have hc : 2 * N * U ≤ V := (Nat.mul_le_mul_right U (by omega : 2 * N ≤ 2 * (N + 1))).trans hV
+      exact_mod_cast hc
+    rw [← Int.natCast_natAbs] at hh
+    exact_mod_cast hh.trans hbound
+  have hdivideCall := LightTernaryDivide.meets (d := d + 1) hdivide hnatural μ F hnum hEuler (by omega)
+  apply Meets.of_body hmain
+  unfold body time
+  focus
+    ((first
+        | refine _root_.Light.Ends.seqSelf ?_
+        | refine _root_.Light.Ends.skipLast ?_);
+      repeat
+        with_unfolding_none
+          first
+          | refine _root_.Light.Ends.seqAssoc ?_
+          | refine _root_.Light.Ends.skipThen ?_)
+    first
+    | refine _root_.Light.Ends.callToThen (hsumCall _ (by omega)) ?_ ?_ ?_ ?_
+    | refine _root_.Light.Ends.callToThen hsumCall ?_ ?_ ?_ ?_
+    on_goal -1 =>
+      first
+      | ( simp only [_root_.Light.Stmt.blockCost, _root_.Light.Cond.cost, _root_.Light.Expr.cost, _root_.List.map_cons,
+            _root_.List.map_nil, _root_.List.sum_cons, _root_.List.sum_nil, LightTernaryWeightedSum.time,
+            LightTernaryDivide.time]
+          first
+          | omega
+          | (ring_nf; omega))
+      | omega
+      |
+        (simp [LightTernaryWeightedSum.time, LightTernaryDivide.time] <;>
+            first
+            | omega
+            | (ring_nf; omega))
+    on_goal -1 => omega
+    on_goal -1 =>
+      ( (try have := _root_.Light.Std.space_le (by assumption))
+        (try have := _root_.Light.Std.const_le (by assumption))
+        simp [_root_.Light.Limits.Addr, _root_.abs_le, -_root_.abs_mul, LightTernaryWeightedSum.time,
+            LightTernaryDivide.time] <;>
+          omega)
+    on_goal -1 => (rintro numerator ν ⟨hresult, hmem⟩; try with_unfolding_none refine _root_.Light.Ends.skip ?_)
+  subst ν
+  focus
+    ((first
+        | refine _root_.Light.Ends.seqSelf ?_
+        | refine _root_.Light.Ends.skipLast ?_);
+      repeat
+        with_unfolding_none
+          first
+          | refine _root_.Light.Ends.seqAssoc ?_
+          | refine _root_.Light.Ends.skipThen ?_)
+    first
+    | refine _root_.Light.Ends.callToThen (hdivideCall _ (by omega)) ?_ ?_ ?_ ?_
+    | refine _root_.Light.Ends.callToThen hdivideCall ?_ ?_ ?_ ?_
+    on_goal -1 =>
+      first
+      | ( simp only [_root_.Light.Stmt.blockCost, _root_.Light.Cond.cost, _root_.Light.Expr.cost, _root_.List.map_cons,
+            _root_.List.map_nil, _root_.List.sum_cons, _root_.List.sum_nil, hresult, LightTernaryWeightedSum.time,
+            LightTernaryDivide.time]
+          first
+          | omega
+          | (ring_nf; omega))
+      | omega
+      |
+        (simp [hresult, LightTernaryWeightedSum.time, LightTernaryDivide.time] <;>
+            first
+            | omega
+            | (ring_nf; omega))
+    on_goal -1 => omega
+    on_goal -1 =>
+      ( (try have := _root_.Light.Std.space_le (by assumption))
+        (try have := _root_.Light.Std.const_le (by assumption))
+        simp [_root_.Light.Limits.Addr, _root_.abs_le, -_root_.abs_mul, hresult, LightTernaryWeightedSum.time,
+            LightTernaryDivide.time] <;>
+          omega)
+    on_goal -1 => (rintro result μ' ⟨hresult, hkeep⟩; try with_unfolding_none refine _root_.Light.Ends.skip ?_)
+  exact ⟨hresult, hkeep⟩
+end ThreeSum.LightTernaryEulerRow

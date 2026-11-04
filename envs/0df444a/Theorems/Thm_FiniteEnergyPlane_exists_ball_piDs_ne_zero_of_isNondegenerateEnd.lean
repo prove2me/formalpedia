@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_ball_piDs_ne_zero_of_isNondegenerateEnd
 -- name    : FiniteEnergyPlane.exists_ball_piDs_ne_zero_of_isNondegenerateEnd
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-02T20:29:23.869617+00:00
 -- url     : https://prove2.me/theorems/8a022eb7-a39e-441f-a718-c3bdac12e5d7

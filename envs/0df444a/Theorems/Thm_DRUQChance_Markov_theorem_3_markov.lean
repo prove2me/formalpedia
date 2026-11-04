@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRUQChance_Markov_theorem_3_markov
 -- name    : DRUQChance.Markov.theorem_3_markov
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T18:48:43.281609+00:00
 -- url     : https://prove2.me/theorems/d987619c-4db4-4239-8ce0-e3dd11510a9b

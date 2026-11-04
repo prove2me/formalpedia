@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdvSellUpgrade_Online_theorem_1
 -- name    : AdvSellUpgrade.Online.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:51:40.031117+00:00
 -- url     : https://prove2.me/theorems/8c2742e1-285f-4675-af25-fd0055db781b

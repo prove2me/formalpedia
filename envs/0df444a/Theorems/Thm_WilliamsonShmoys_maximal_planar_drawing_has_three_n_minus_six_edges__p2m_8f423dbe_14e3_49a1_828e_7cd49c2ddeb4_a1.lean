@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_has_three_n_minus_six_edges__p2m_8f423dbe_14e3_49a1_828e_7cd49c2ddeb4_a1
 -- name    : WilliamsonShmoys.maximal_planar_drawing_has_three_n_minus_six_edges__p2m_8f423dbe_14e3_49a1_828e_7cd49c2ddeb4_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:49:21.59291+00:00
 -- url     : https://prove2.me/theorems/2e383da1-b0fd-42ac-bf20-409641577930

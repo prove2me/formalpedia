@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GavrilSubtree_Chordal_isChordal_of_isSubtreeGraph
 -- name    : GavrilSubtree.Chordal.isChordal_of_isSubtreeGraph
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:53:40.503155+00:00
 -- url     : https://prove2.me/theorems/ecf15fb0-715c-4320-9e4c-bcb43128358e

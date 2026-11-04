@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonSimilarity.universalHyperreflexivity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-31T15:12:43.954278+00:00
 -- url     : https://prove2.me/submissions/c248d6fe-2c4b-4dab-80d4-cb6456c89114
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KadisonSimilarity

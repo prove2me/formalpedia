@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMultitask_Estimator_proposition_5
 -- name    : RobustMultitask.Estimator.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:34:07.458013+00:00
 -- url     : https://prove2.me/theorems/0153cd05-92ea-49f3-a2da-da1280d04d91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Nested_proposition_1
 -- name    : SCInfoDesign.Nested.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:00.732503+00:00
 -- url     : https://prove2.me/theorems/67581c75-2196-460c-b88d-a1f6424ca248

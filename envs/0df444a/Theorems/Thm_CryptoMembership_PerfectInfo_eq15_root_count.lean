@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMembership_PerfectInfo_eq15_root_count
 -- name    : CryptoMembership.PerfectInfo.eq15_root_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:55.261166+00:00
 -- url     : https://prove2.me/theorems/d9cea5a6-07b4-4a9d-948d-286074eb4056

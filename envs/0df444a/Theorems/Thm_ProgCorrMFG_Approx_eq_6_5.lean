@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProgCorrMFG_Approx_eq_6_5
 -- name    : ProgCorrMFG.Approx.eq_6_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:17.647186+00:00
 -- url     : https://prove2.me/theorems/e5365023-4c18-46ff-9b1d-2707c78523b0

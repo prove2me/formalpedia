@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynkinAsymInfo_Linear_construction_6_3
 -- name    : DynkinAsymInfo.Linear.construction_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:30.63425+00:00
 -- url     : https://prove2.me/theorems/dfe3d4dd-072b-49a4-bfa4-78d7f648519a

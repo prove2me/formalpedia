@@ -1,0 +1,26 @@
+-- Prove2me | Theorems.Thm_ThreeSum_CyclicFold_vector_length
+-- name    : ThreeSum.CyclicFold.vector_length
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T07:17:11.219708+00:00
+-- url     : https://prove2.me/theorems/6cf2ef13-c430-481c-a1a9-b33e2613ee87
+-- title:
+--   Cyclic Fold: vector length
+-- statement:
+--   The Cyclic Fold construction uses the vector length property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/CyclicFold.lean#L69-L70
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/CyclicFold.lean#L69-L70
+
+import Definitions.Def_Submission_ThreeSum_KaratsubaBounds
+import Definitions.Def_Submission_ThreeSum_Histograms
+import Mathlib.Data.ZMod.Basic
+import Mathlib.Data.Fintype.EquivFin
+import Definitions.Def_Submission_ThreeSum_CyclicFold
+set_option autoImplicit false
+open ThreeSum ThreeSum.CyclicFold
+open Finset Polynomial Karatsuba
+open scoped BigOperators
+
+theorem ThreeSum.CyclicFold.vector_length (p : ℕ) (f : ZMod p → ℕ) : (vector p f).length = p := by sorry

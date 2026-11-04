@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_01_original_intrinsic_marked_rectangle_count_stationary_mean
 -- name    : AvramDividend.Classical.avram_wave7_01_original_intrinsic_marked_rectangle_count_stationary_mean
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T20:17:07.699193+00:00
 -- url     : https://prove2.me/theorems/add050a6-3ff4-4747-9805-600b11b7b3d1

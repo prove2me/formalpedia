@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_PriceRise_lemmaA3_equilibrium_pairs
 -- name    : GDPRPrivacy.PriceRise.lemmaA3_equilibrium_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:18.710821+00:00
 -- url     : https://prove2.me/theorems/6f624b45-3b01-4df4-b779-00ea1e8a8a21

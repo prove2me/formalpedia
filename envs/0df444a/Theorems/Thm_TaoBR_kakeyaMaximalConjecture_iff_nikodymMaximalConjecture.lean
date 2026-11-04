@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoBR_kakeyaMaximalConjecture_iff_nikodymMaximalConjecture
 -- name    : TaoBR.kakeyaMaximalConjecture_iff_nikodymMaximalConjecture
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T17:17:27.985139+00:00
 -- url     : https://prove2.me/theorems/1046ca61-753c-400b-ac29-237eedc28465

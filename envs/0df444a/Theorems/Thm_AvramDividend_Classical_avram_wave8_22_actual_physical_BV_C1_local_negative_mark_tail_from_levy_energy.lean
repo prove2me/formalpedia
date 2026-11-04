@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_22_actual_physical_BV_C1_local_negative_mark_tail_from_levy_energy
 -- name    : AvramDividend.Classical.avram_wave8_22_actual_physical_BV_C1_local_negative_mark_tail_from_levy_energy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T21:52:19.090184+00:00
 -- url     : https://prove2.me/theorems/17ab2832-0320-4725-a84f-76422636f6b1

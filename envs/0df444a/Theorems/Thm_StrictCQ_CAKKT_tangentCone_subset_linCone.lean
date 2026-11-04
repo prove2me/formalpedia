@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_CAKKT_tangentCone_subset_linCone
 -- name    : StrictCQ.CAKKT.tangentCone_subset_linCone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:11.371371+00:00
 -- url     : https://prove2.me/theorems/f448cd8f-1417-4f60-902b-c2326d53c32e

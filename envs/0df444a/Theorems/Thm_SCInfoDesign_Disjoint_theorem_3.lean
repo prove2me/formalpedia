@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Disjoint_theorem_3
 -- name    : SCInfoDesign.Disjoint.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:50.418881+00:00
 -- url     : https://prove2.me/theorems/1e64b961-1acf-4746-9eeb-788d1eaa5b36

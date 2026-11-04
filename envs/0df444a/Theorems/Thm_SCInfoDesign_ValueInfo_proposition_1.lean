@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_ValueInfo_proposition_1
 -- name    : SCInfoDesign.ValueInfo.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:34.793844+00:00
 -- url     : https://prove2.me/theorems/82c75c42-65d3-444c-acd7-d3841802c964

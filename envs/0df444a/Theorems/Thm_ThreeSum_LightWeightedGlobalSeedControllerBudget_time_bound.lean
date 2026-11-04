@@ -1,0 +1,76 @@
+-- Prove2me | Theorems.Thm_ThreeSum_LightWeightedGlobalSeedControllerBudget_time_bound
+-- name    : ThreeSum.LightWeightedGlobalSeedControllerBudget.time_bound
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T14:34:27.672201+00:00
+-- url     : https://prove2.me/theorems/652e4fb9-c17c-4ee6-b551-18d7eaca8cb2
+-- title:
+--   Light Weighted Global Seed Controller Budget: time bound
+-- statement:
+--   The actual menu scan pays for all n seed evaluations and at most one
+--   additional selected-seed reconstruction and span extension.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/Weighted/Global/LightTernarySeedControllerBudget.lean#L14-L18
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/Weighted/Global/LightTernarySeedControllerBudget.lean#L14-L18
+
+import Definitions.Def_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_Weighted_Global_LightTernarySeedController
+import Definitions.Def_Submission_Weighted_Global_LightTernarySeedControllerBudget
+import Theorems.Thm_ThreeSum_LightBalancedOffset_time_bound
+import Theorems.Thm_ThreeSum_LightBlockCoefficients_time_bound
+import Theorems.Thm_ThreeSum_LightCacheEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightKaratsuba_time_bound
+import Theorems.Thm_ThreeSum_LightLocalKeyRow_time_bound
+import Theorems.Thm_ThreeSum_LightLocalKeys_time_bound
+import Theorems.Thm_ThreeSum_LightMaskBits_time_bound
+import Theorems.Thm_ThreeSum_LightMaskHashes_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_957e2f25efb6cbcf
+import Definitions.Def_WeightedCache3SUM_Alias_a98211a6e8223f5f
+import Theorems.Thm_ThreeSum_LightRadixRows_time_bound
+import Theorems.Thm_ThreeSum_LightResidueHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSmallDivide_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBucketBuild_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBucketFromHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBucketSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSourceResidues_time_bound
+import Theorems.Thm_ThreeSum_LightSpanCatalogStep_time_bound
+import Theorems.Thm_ThreeSum_LightSpanCatalogTest_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryDivide_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryEulerMemo_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryEulerRow_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryGroupedSourceKeys_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryGroupedSources_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryInversePass_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryLookup_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryMetadata_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryPass_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryQueryLookup_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryRankTable_time_bound
+import Theorems.Thm_ThreeSum_LightTernarySourceHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightTernarySourceKeys_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryWantedCanonical_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryWeightedHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightWantedJoin_time_bound
+import Theorems.Thm_ThreeSum_LightWantedSetup_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedBankAssembly_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedBankCoordinate_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedBankSweep_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedCountFrontend_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedEulerMetadata_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedGroupBankStep_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedGroupedBanks_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedNearEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedNearSetup_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedNearSource_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedPredecessorTable_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedPredecessor_time_bound
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.LightWeightedGlobalSeedControllerBudget
+
+theorem ThreeSum.LightWeightedGlobalSeedControllerBudget.time_bound (n seedTime spanTime : ℕ) :
+    LightWeightedGlobalSeedController.time n seedTime spanTime≤
+      (n+1)*(seedTime+spanTime+2000) := by sorry

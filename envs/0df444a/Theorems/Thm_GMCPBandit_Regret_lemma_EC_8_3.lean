@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GMCPBandit_Regret_lemma_EC_8_3
 -- name    : GMCPBandit.Regret.lemma_EC_8_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:33:43.393309+00:00
 -- url     : https://prove2.me/theorems/015bf1fa-a3b0-4690-a856-543d769fe896

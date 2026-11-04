@@ -76879,16 +76879,16 @@
 {"parent": "BastaniBayati_LassoBandit_Algorithm", "child": "BastaniBayati_LassoBandit_Basic", "via": ["statement"]}
 {"parent": "BastaniBayati_LassoBandit_Constants", "child": "BastaniBayati_LassoBandit_Basic", "via": ["statement"]}
 {"parent": "BastaniBayati_LassoBandit_Model", "child": "BastaniBayati_LassoBandit_Basic", "via": ["statement"]}
-{"parent": "BayesProphet.MultiSec.compensated_coupling_expectation", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["statement"]}
-{"parent": "BayesProphet.MultiSec.compensated_coupling_identity", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["statement"]}
-{"parent": "BayesProphet.MultiSec.cond_disagreement_bound", "child": "BayesProphet_MultiSec_MultiSecretary", "via": ["statement"]}
-{"parent": "BayesProphet.MultiSec.cond_disagreement_bound", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["statement"]}
-{"parent": "BayesProphet.MultiSec.fluid_bayes_selector_regret", "child": "BayesProphet_MultiSec_MultiSecretary", "via": ["statement"]}
-{"parent": "BayesProphet.MultiSec.fluid_bayes_selector_regret", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["statement"]}
-{"parent": "BayesProphet.MultiSec.offline_satisfaction", "child": "BayesProphet_MultiSec_MultiSecretary", "via": ["statement"]}
-{"parent": "BayesProphet.MultiSec.offline_satisfaction", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["statement"]}
-{"parent": "BayesProphet.MultiSec.total_disagreement_bound", "child": "BayesProphet_MultiSec_MultiSecretary", "via": ["statement"]}
-{"parent": "BayesProphet.MultiSec.total_disagreement_bound", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["statement"]}
+{"parent": "BayesProphet.MultiSec.compensated_coupling_expectation", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["solution", "statement"]}
+{"parent": "BayesProphet.MultiSec.compensated_coupling_identity", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["solution", "statement"]}
+{"parent": "BayesProphet.MultiSec.cond_disagreement_bound", "child": "BayesProphet_MultiSec_MultiSecretary", "via": ["solution", "statement"]}
+{"parent": "BayesProphet.MultiSec.cond_disagreement_bound", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["solution", "statement"]}
+{"parent": "BayesProphet.MultiSec.fluid_bayes_selector_regret", "child": "BayesProphet_MultiSec_MultiSecretary", "via": ["solution", "statement"]}
+{"parent": "BayesProphet.MultiSec.fluid_bayes_selector_regret", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["solution", "statement"]}
+{"parent": "BayesProphet.MultiSec.offline_satisfaction", "child": "BayesProphet_MultiSec_MultiSecretary", "via": ["solution", "statement"]}
+{"parent": "BayesProphet.MultiSec.offline_satisfaction", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["solution", "statement"]}
+{"parent": "BayesProphet.MultiSec.total_disagreement_bound", "child": "BayesProphet_MultiSec_MultiSecretary", "via": ["solution", "statement"]}
+{"parent": "BayesProphet.MultiSec.total_disagreement_bound", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["solution", "statement"]}
 {"parent": "BayesProphet_MultiSec_MultiSecretary", "child": "BayesProphet_MultiSec_OnlineProblem", "via": ["statement"]}
 {"parent": "BayesRouting.Adoption.adoption_rates_eq", "child": "BayesRouting_Adoption_Flows", "via": ["statement"]}
 {"parent": "BayesRouting.Adoption.adoption_rates_eq", "child": "BayesRouting_Adoption_Game", "via": ["statement"]}
@@ -77870,17 +77870,17 @@
 {"parent": "BlackwellDiscreteDP_NearOne_GainBias", "child": "BlackwellDiscreteDP_NearOne_Model", "via": ["statement"]}
 {"parent": "BlackwellDiscreteDP_Stationary_Model", "child": "FoundationsML_ReinforcementLearning_IsTransitionKernel", "via": ["statement"]}
 {"parent": "BlindProphetSec.Blind.blind_eq_lim_det", "child": "BlindProphetSec_Blind_Setting", "via": ["statement"]}
-{"parent": "BlindProphetSec.Blind.corollary_4_4", "child": "BlindProphetSec_Blind_Setting", "via": ["statement"]}
-{"parent": "BlindProphetSec.Blind.lemma_3_1", "child": "BlindProphetSec_Blind_Setting", "via": ["statement"]}
-{"parent": "BlindProphetSec.Blind.lemma_3_3", "child": "BlindProphetSec_Blind_Setting", "via": ["statement"]}
-{"parent": "BlindProphetSec.Blind.lemma_4_1", "child": "BlindProphetSec_Blind_Setting", "via": ["statement"]}
-{"parent": "BlindProphetSec.Blind.lemma_4_2", "child": "BlindProphetSec_Blind_Setting", "via": ["statement"]}
+{"parent": "BlindProphetSec.Blind.corollary_4_4", "child": "BlindProphetSec_Blind_Setting", "via": ["solution", "statement"]}
+{"parent": "BlindProphetSec.Blind.lemma_3_1", "child": "BlindProphetSec_Blind_Setting", "via": ["solution", "statement"]}
+{"parent": "BlindProphetSec.Blind.lemma_3_3", "child": "BlindProphetSec_Blind_Setting", "via": ["solution", "statement"]}
+{"parent": "BlindProphetSec.Blind.lemma_4_1", "child": "BlindProphetSec_Blind_Setting", "via": ["solution", "statement"]}
+{"parent": "BlindProphetSec.Blind.lemma_4_2", "child": "BlindProphetSec_Blind_Setting", "via": ["solution", "statement"]}
 {"parent": "BlindProphetSec.Blind.lemma_4_3", "child": "BlindProphetSec_Blind_Setting", "via": ["statement"]}
-{"parent": "BlindProphetSec.Blind.theorem_1_1", "child": "BlindProphetSec_Blind_Setting", "via": ["statement"]}
-{"parent": "BlindProphetSec.Upper.expected_max_hard", "child": "BlindProphetSec_Upper_Setting", "via": ["statement"]}
-{"parent": "BlindProphetSec.Upper.jRule_conditional_values", "child": "BlindProphetSec_Upper_Setting", "via": ["statement"]}
-{"parent": "BlindProphetSec.Upper.theorem_1_3", "child": "BlindProphetSec_Upper_Setting", "via": ["statement"]}
-{"parent": "BlindProphetSec.Upper.value_le_hard", "child": "BlindProphetSec_Upper_Setting", "via": ["statement"]}
+{"parent": "BlindProphetSec.Blind.theorem_1_1", "child": "BlindProphetSec_Blind_Setting", "via": ["solution", "statement"]}
+{"parent": "BlindProphetSec.Upper.expected_max_hard", "child": "BlindProphetSec_Upper_Setting", "via": ["solution", "statement"]}
+{"parent": "BlindProphetSec.Upper.jRule_conditional_values", "child": "BlindProphetSec_Upper_Setting", "via": ["solution", "statement"]}
+{"parent": "BlindProphetSec.Upper.theorem_1_3", "child": "BlindProphetSec_Upper_Setting", "via": ["solution", "statement"]}
+{"parent": "BlindProphetSec.Upper.value_le_hard", "child": "BlindProphetSec_Upper_Setting", "via": ["solution", "statement"]}
 {"parent": "BlindProphetSec_Upper_Setting", "child": "BlindProphetSec_Blind_Setting", "via": ["statement"]}
 {"parent": "BlockCycleRotation.Eterm_le", "child": "BlockCycleRotation.sqrt_le_cutoff", "via": ["solution"]}
 {"parent": "BlockCycleRotation.Eterm_le", "child": "BlockCycleRotation_Constant", "via": ["solution", "statement"]}

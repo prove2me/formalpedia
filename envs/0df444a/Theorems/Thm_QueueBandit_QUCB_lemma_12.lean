@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueBandit_QUCB_lemma_12
 -- name    : QueueBandit.QUCB.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:40:06.299346+00:00
 -- url     : https://prove2.me/theorems/0a982ac2-e91f-4dc2-85c1-ee66441c1a17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_maximal_drawable_graph_has_edge_extension__p2m_70fb6007_5dc1_4484_a53d_f6e6d3401839_a1
 -- name    : maximal_drawable_graph_has_edge_extension__p2m_70fb6007_5dc1_4484_a53d_f6e6d3401839_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:24:35.229761+00:00
 -- url     : https://prove2.me/theorems/869ffda5-b864-4783-a885-44fd746ff24a

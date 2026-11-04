@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_PriceRise_propA1_price_higher_after_gdpr
 -- name    : GDPRPrivacy.PriceRise.propA1_price_higher_after_gdpr
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:19.858786+00:00
 -- url     : https://prove2.me/theorems/bc9739ff-7952-4421-9681-9edb8f06d03c

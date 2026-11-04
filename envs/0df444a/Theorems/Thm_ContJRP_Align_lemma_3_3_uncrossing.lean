@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_lemma_3_3_uncrossing
 -- name    : ContJRP.Align.lemma_3_3_uncrossing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:46.956985+00:00
 -- url     : https://prove2.me/theorems/61f465ba-8765-4f14-9de3-5cb9145f2aea

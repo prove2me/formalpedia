@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_ProfitGain_profit_difference_J
 -- name    : GDPRPrivacy.ProfitGain.profit_difference_J
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:19:28.778202+00:00
 -- url     : https://prove2.me/theorems/cdc0021d-aa26-4f0c-86f7-773227c47e61

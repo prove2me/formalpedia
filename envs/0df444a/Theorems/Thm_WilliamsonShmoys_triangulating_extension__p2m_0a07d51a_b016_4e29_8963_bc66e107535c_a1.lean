@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulating_extension__p2m_0a07d51a_b016_4e29_8963_bc66e107535c_a1
 -- name    : WilliamsonShmoys.triangulating_extension__p2m_0a07d51a_b016_4e29_8963_bc66e107535c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:36:51.730307+00:00
 -- url     : https://prove2.me/theorems/c20796cc-c576-4992-b291-9784ec70fc6e

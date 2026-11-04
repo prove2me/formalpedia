@@ -1,0 +1,62 @@
+-- Prove2me | solution 1 for ThreeSum.ReportingHostCatalogIndexCosts.index_setup_time_le
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T13:15:13.430111+00:00
+-- url     : https://prove2.me/submissions/991f015e-6bf0-4270-816c-496c745cd3b4
+
+import Definitions.Def_Submission_ThreeSum_LightReportingSortedCatalog
+import Definitions.Def_Submission_ThreeSum_LightReportingCatalogLookup
+import Definitions.Def_Submission_ThreeSum_ReportingHostCatalogIndexCosts
+import Theorems.Thm_ThreeSum_ReportingHostCatalogIndexCosts_sort_clog_le
+import Definitions.Def_WeightedCache3SUM_Alias_395153661a990775
+import Theorems.Thm_ThreeSum_LightBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightCanonicalBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetAddress_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetSize_time_bound
+import Theorems.Thm_ThreeSum_LightExplicitSum_time_bound
+import Theorems.Thm_ThreeSum_LightLeafSum_time_bound
+import Theorems.Thm_ThreeSum_LightMaskMinimum_time_bound
+import Theorems.Thm_ThreeSum_LightMaskUnion_time_bound
+import Theorems.Thm_ThreeSum_LightQueryBox_time_bound
+import Theorems.Thm_ThreeSum_LightQueryEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightQueryWeights_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_a98211a6e8223f5f
+import Theorems.Thm_ThreeSum_LightRadixRows_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPairRows_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPrefixArrays_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSortedCatalog_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixBatch_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_aee3f2a8e7e7d37a
+import Theorems.Thm_ThreeSum_LightReportingSuffixCatalog_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixCell_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixSetup_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_306830be6786141e
+import Theorems.Thm_ThreeSum_LightSignedBoxSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafBatch_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafCell_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafGeneral_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafTable_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeaf_time_bound
+import Theorems.Thm_ThreeSum_LightSparseQuery_time_bound
+import Theorems.Thm_ThreeSum_LightStageLookup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumerationSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetSetup_time_bound
+import Theorems.Thm_ThreeSum_LightZetaBatch_time_bound
+import Theorems.Thm_ThreeSum_LightZetaCell_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_223d9caf4e7f660b
+import Definitions.Def_WeightedCache3SUM_Alias_c2a1891cab57c5b2
+
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.ReportingHostCatalogIndexCosts
+open Light ThreeSum.LightPascal
+set_option maxHeartbeats 300000
+namespace ThreeSum.ReportingHostCatalogIndexCosts
+theorem _root_.solution {W n : ℕ} (hn : n ≤ 2^(2*W)) :
+    LightReportingSortedCatalog.time W n ≤ 1000*(W+1)*(n+1) := by
+  have ht := LightReportingSortedCatalog.time_bound W n
+  have hc := sort_clog_le hn
+  have hm := Nat.mul_le_mul_left (200*(n+1)) (Nat.add_le_add_right hc 1)
+  nlinarith
+end ThreeSum.ReportingHostCatalogIndexCosts

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_TracialCornerGeometry_free_corner_estimate_of_published_words
 -- name    : OAI.KadisonSimilarity.TracialCornerGeometry.free_corner_estimate_of_published_words
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T08:58:20.467814+00:00
 -- url     : https://prove2.me/theorems/89da6847-9783-40de-8d8f-98a66ddd3bf8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_one_le_windInf_of_plane
 -- name    : FiniteEnergyPlane.one_le_windInf_of_plane
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:39:40.953218+00:00
 -- url     : https://prove2.me/theorems/0f216c24-aaff-4a8d-898a-2a08de90b942

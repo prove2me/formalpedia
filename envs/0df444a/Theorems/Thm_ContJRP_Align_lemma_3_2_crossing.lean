@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_lemma_3_2_crossing
 -- name    : ContJRP.Align.lemma_3_2_crossing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:34.447371+00:00
 -- url     : https://prove2.me/theorems/3f50ba31-1cc7-44c1-b124-c45921a1dc19

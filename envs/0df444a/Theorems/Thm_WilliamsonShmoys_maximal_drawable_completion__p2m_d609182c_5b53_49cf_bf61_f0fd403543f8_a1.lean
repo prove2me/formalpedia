@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_completion__p2m_d609182c_5b53_49cf_bf61_f0fd403543f8_a1
 -- name    : WilliamsonShmoys.maximal_drawable_completion__p2m_d609182c_5b53_49cf_bf61_f0fd403543f8_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T08:21:59.08121+00:00
 -- url     : https://prove2.me/theorems/d07e54eb-c4bc-460d-b7df-6d44fa14b7ac

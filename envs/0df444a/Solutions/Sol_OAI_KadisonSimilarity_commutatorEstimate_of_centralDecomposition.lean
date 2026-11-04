@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonSimilarity.commutatorEstimate_of_centralDecomposition
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-31T15:02:36.633982+00:00
 -- url     : https://prove2.me/submissions/9a026f11-c7d7-4219-9f1b-55ddc6d8df0d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KadisonSimilarity

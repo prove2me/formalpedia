@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoBR_nikodymMaximalEstimate_of_kakeyaMaximalEstimate_and_kakeyaMaximalEstimate_two_mul_of_nikodymMaximalEstimate
 -- name    : TaoBR.nikodymMaximalEstimate_of_kakeyaMaximalEstimate_and_kakeyaMaximalEstimate_two_mul_of_nikodymMaximalEstimate
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T17:16:59.031005+00:00
 -- url     : https://prove2.me/theorems/1e5d03c3-f041-4b73-8279-f54b0c7a70a9

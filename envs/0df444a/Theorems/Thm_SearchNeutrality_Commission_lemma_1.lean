@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SearchNeutrality_Commission_lemma_1
 -- name    : SearchNeutrality.Commission.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:38:30.476215+00:00
 -- url     : https://prove2.me/theorems/eca5b776-995b-4602-9e70-f86872d9ea0f

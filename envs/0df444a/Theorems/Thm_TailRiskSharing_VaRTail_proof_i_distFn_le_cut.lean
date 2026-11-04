@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_VaRTail_proof_i_distFn_le_cut
 -- name    : TailRiskSharing.VaRTail.proof_i_distFn_le_cut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:15:58.146721+00:00
 -- url     : https://prove2.me/theorems/ee101b0b-2bf7-4855-b05d-0ec8b38c72cc

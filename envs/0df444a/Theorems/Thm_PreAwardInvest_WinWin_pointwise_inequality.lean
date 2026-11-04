@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PreAwardInvest_WinWin_pointwise_inequality
 -- name    : PreAwardInvest.WinWin.pointwise_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:14.746042+00:00
 -- url     : https://prove2.me/theorems/1e7fda5a-eadb-4f7e-9271-8c212e764c88

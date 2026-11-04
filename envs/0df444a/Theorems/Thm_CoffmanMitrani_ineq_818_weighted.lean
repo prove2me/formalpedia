@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani_ineq_818_weighted
 -- name    : CoffmanMitrani.ineq_818_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:28:09.027968+00:00
 -- url     : https://prove2.me/theorems/550ecf09-94ea-431a-bf43-b0904887dd48

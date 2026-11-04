@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_ThreeSum_LightGlobalSizes_Procs_meets_w3sum_ac885d1
+-- name    : ThreeSum.LightGlobalSizes.Procs.meets_w3sum_ac885d1
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T10:28:57.576063+00:00
+-- url     : https://prove2.me/theorems/2102eadc-2f0e-4bc0-b3bf-313d2fab9a8e
+-- title:
+--   Procs: meets
+-- statement:
+--   The Procs construction uses the meets property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/LightGlobalSizes.lean#L63-L151
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/LightGlobalSizes.lean#L63-L151
+
+import Definitions.Def_Submission_ThreeSum_LightNatPower
+import Definitions.Def_Submission_ThreeSum_LightSmallDivide
+import Definitions.Def_Submission_ThreeSum_BandScales
+import Definitions.Def_Submission_ThreeSumApsp_Lang_Lib_Sqrt
+import Definitions.Def_Submission_ThreeSumApsp_Lang_Lib_Seg
+import Definitions.Def_Submission_ThreeSum_LightGlobalSizes
+import Definitions.Def_WeightedCache3SUM_Alias_d92129e9a4741fac
+import Definitions.Def_WeightedCache3SUM_Alias_73246870e6a638ab
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.LightGlobalSizes
+set_option maxHeartbeats 1000000
+open Light LocalCoverBounds
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+theorem ThreeSum.LightGlobalSizes.Procs.meets_w3sum_ac885d1 {pMain : ℕ} (S : Procs P pMain)
+    {μ : ℕ → ℤ} {C p J mu dst : ℕ}
+    (hw : (lim.space : ℤ) ≤ lim.word) (hd : d < lim.depth)
+    (hC : 1 ≤ C) (hp : 1 ≤ p) (hspace : dst+5 ≤ lim.space)
+    (hword : (word C p J mu : ℤ) ≤ lim.word) :
+    Meets lim P pMain d [C,p,J,mu,dst] μ (time C J mu)
+      (fun r μ' => r = ((p^J : ℕ) : ℤ) ∧ Seg μ' dst (values C p J mu) ∧
+        SameOutside μ μ' dst 5) := by sorry

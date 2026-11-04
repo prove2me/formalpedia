@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_proposition4_2_visitation_ratio_bound
 -- name    : CorruptRobustRL.Supervised.proposition4_2_visitation_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:04.426901+00:00
 -- url     : https://prove2.me/theorems/43f42f79-3d00-4b23-8cb8-d859d803e07f

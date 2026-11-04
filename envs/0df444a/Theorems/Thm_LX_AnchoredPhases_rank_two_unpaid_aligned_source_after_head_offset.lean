@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_AnchoredPhases_rank_two_unpaid_aligned_source_after_head_offset
 -- name    : LX.AnchoredPhases.rank_two_unpaid_aligned_source_after_head_offset
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:28:27.797716+00:00
 -- url     : https://prove2.me/theorems/78b72d34-04f0-485c-96d2-52ffa75fc40b

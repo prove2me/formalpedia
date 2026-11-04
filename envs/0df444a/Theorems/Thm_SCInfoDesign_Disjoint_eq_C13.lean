@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Disjoint_eq_C13
 -- name    : SCInfoDesign.Disjoint.eq_C13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:57.834729+00:00
 -- url     : https://prove2.me/theorems/8d6e7bf5-c199-43de-88d7-8bd550c201de

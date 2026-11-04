@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for ThreeSum.WeightedGlobalArenaFixedParameters.exists_parameters
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T23:39:44.92291+00:00
+-- url     : https://prove2.me/submissions/c40d6ede-8197-42b3-9a69-d413df173726
+
+import Definitions.Def_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_Weighted_Global_TernaryArenaSignedSelection
+import Definitions.Def_Submission_Weighted_Global_TernaryPairedCarryBudget
+import Definitions.Def_Submission_Weighted_Global_TernaryPairedCollisionRate
+import Definitions.Def_Submission_Weighted_Global_TernaryPairedNativeDrift
+import Definitions.Def_Submission_Weighted_Global_LightTernaryDimensions
+import Definitions.Def_Submission_Weighted_Global_TernaryArenaFixedParameters
+import Theorems.Thm_ThreeSum_WeightedGlobalArenaFixedParameters_native_drift
+import Theorems.Thm_ThreeSum_WeightedGlobalPairedCollisionRate_simultaneous_parameters
+import Theorems.Thm_ThreeSum_WeightedGlobalPairedFamilyMargin_simultaneous_parameters
+import Theorems.Thm_ThreeSum_WeightedGlobalSignedParameters_simultaneous_parameters
+
+
+set_option autoImplicit false
+noncomputable section
+open ThreeSum ThreeSum.WeightedGlobalArenaFixedParameters
+open Filter WeightedGlobalCoverScale WeightedGlobalOversizePrime WeightedGlobalOversizeRates
+open WeightedGlobalOversizeOverhead WeightedGlobalSignedPadding WeightedGlobalArenaBudgetExistence
+open WeightedGlobalPairedCollisionRate WeightedGlobalLocalParameters
+open scoped Topology
+set_option maxHeartbeats 3000000
+namespace ThreeSum.WeightedGlobalArenaFixedParameters
+theorem _root_.solution {K : ℕ} (hK : 100000000000000000000≤K) {κ : ℝ} (hκ : 0≤κ) (c d N : ℕ) :
+    ∃t m : ℕ, 0<t ∧ N≤m ∧ GoodBlock K m ∧
+      overheadCharge (selectedMoment K) c d m<microAllowance K ∧
+      carryExponent m (2^t) κ<microAllowance K ∧
+      (2*K).factorial*(2^t)^(2*K)<nativePrime K m ∧
+      2*(2^t)<nativePrime K m ∧
+      (9*pairFactor m (familyLength K m) K)^4*(outputSize m)^(4*K+3)≤((nativePrime K m)^(2*K))^4 ∧
+      9<nativePrime K m ∧ charge K m<(7483/10000 : ℝ) := by
+  obtain ⟨t,m,ht,hN,hg,ho,hc,hd,hp,hF,hp9,hcharge⟩ :=
+    WeightedGlobalPairedCollisionRate.simultaneous_parameters hK hκ c d N
+  exact ⟨t,m,ht,hN,hg,ho,hc,hd,hp,native_drift (by omega : 0<K) hF,hp9,hcharge⟩
+end ThreeSum.WeightedGlobalArenaFixedParameters

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Extinct_theorem_1_2
 -- name    : StochKolmogorov.Extinct.theorem_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:33:02.838176+00:00
 -- url     : https://prove2.me/theorems/43e412d4-4d71-4ffd-a615-9ed5cd31aaaa

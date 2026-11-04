@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetirePartialInfo_Duality_proof_2_4_value_eq_retired
 -- name    : RetirePartialInfo.Duality.proof_2_4_value_eq_retired
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-03T05:40:45.762998+00:00
 -- url     : https://prove2.me/theorems/fda75039-dd44-4e61-970d-01d3737a47d7

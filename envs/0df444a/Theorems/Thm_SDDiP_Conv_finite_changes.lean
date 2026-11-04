@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDDiP_Conv_finite_changes
 -- name    : SDDiP.Conv.finite_changes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:47:22.301269+00:00
 -- url     : https://prove2.me/theorems/21163fe9-c70c-4d93-a887-6d33c3717ca8

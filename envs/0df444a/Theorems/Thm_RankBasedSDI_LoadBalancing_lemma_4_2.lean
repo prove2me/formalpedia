@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankBasedSDI_LoadBalancing_lemma_4_2
 -- name    : RankBasedSDI.LoadBalancing.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:19.470715+00:00
 -- url     : https://prove2.me/theorems/a1891bc6-af95-46aa-bb0d-96fa30b33115

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_connected_edgeFinset_card_le_three_mul_card_sub_six__p2m_270023aa_f627_4b53_97e3_8e37f4bb2eb9_a1
 -- name    : WilliamsonShmoys.drawable_connected_edgeFinset_card_le_three_mul_card_sub_six__p2m_270023aa_f627_4b53_97e3_8e37f4bb2eb9_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T06:17:47.166324+00:00
 -- url     : https://prove2.me/theorems/849752b4-78ce-4d07-98c6-f3ea971ec2cd

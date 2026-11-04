@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleyAttribution_UniqueUniform_step_1_paths
 -- name    : ShapleyAttribution.UniqueUniform.step_1_paths
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:25:29.31602+00:00
 -- url     : https://prove2.me/theorems/a7763a26-a5a1-45c5-87bb-3cedaaf80385

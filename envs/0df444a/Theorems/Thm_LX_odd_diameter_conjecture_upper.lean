@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_odd_diameter_conjecture_upper
 -- name    : LX.odd_diameter_conjecture_upper
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:28:55.015962+00:00
 -- url     : https://prove2.me/theorems/2658b644-ae54-4266-8855-06c06854a647

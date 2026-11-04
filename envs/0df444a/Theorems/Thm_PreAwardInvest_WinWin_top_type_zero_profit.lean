@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PreAwardInvest_WinWin_top_type_zero_profit
 -- name    : PreAwardInvest.WinWin.top_type_zero_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:58.406986+00:00
 -- url     : https://prove2.me/theorems/0b4f4943-6da8-405e-9893-301aa06c740a

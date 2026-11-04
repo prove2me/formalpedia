@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishablePricing_Backlog_theorem_1_concavity
 -- name    : PerishablePricing.Backlog.theorem_1_concavity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:19.30108+00:00
 -- url     : https://prove2.me/theorems/88b4e1e0-b23e-4361-92b6-96a773e45fda

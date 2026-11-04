@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleyAttribution_UniqueUniform_theorem_2
 -- name    : ShapleyAttribution.UniqueUniform.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:25:25.922976+00:00
 -- url     : https://prove2.me/theorems/5d9b6e6e-9843-45d8-9638-97ece5f44610

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlindProphetSec_Upper_jRule_conditional_values
 -- name    : BlindProphetSec.Upper.jRule_conditional_values
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:10.137165+00:00
 -- url     : https://prove2.me/theorems/0fb1d8fc-7cef-4f26-a2bb-0df1bf488578

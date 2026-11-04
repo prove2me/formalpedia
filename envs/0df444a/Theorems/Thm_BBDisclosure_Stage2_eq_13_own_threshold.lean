@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBDisclosure_Stage2_eq_13_own_threshold
 -- name    : BBDisclosure.Stage2.eq_13_own_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:32:44.850235+00:00
 -- url     : https://prove2.me/theorems/0dd0f116-ce4e-43af-85f0-a0259dd879c4

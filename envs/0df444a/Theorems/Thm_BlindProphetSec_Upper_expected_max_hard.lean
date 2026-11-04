@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlindProphetSec_Upper_expected_max_hard
 -- name    : BlindProphetSec.Upper.expected_max_hard
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:08.865003+00:00
 -- url     : https://prove2.me/theorems/4d61cc6a-2c08-4016-988e-a33ed64ebaed

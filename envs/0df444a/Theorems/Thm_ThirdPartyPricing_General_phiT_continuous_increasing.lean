@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThirdPartyPricing_General_phiT_continuous_increasing
 -- name    : ThirdPartyPricing.General.phiT_continuous_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:01.871511+00:00
 -- url     : https://prove2.me/theorems/2d78e308-4935-4857-a88e-a39993c1b5ac

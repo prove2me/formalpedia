@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_posDefMatrixPosSemidef
 -- name    : levy_foundations_posDefMatrixPosSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:07:52.789774+00:00
 -- url     : https://prove2.me/theorems/1b70aa7d-9c51-41aa-8883-39811fd6644c

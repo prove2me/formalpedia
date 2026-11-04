@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_subgraph_of_maximal_planar_drawing_obeys_edge_bound__p2m_40c1c52c_c498_4287_a557_1efecd0d6ca7_a3
 -- name    : WilliamsonShmoys.subgraph_of_maximal_planar_drawing_obeys_edge_bound__p2m_40c1c52c_c498_4287_a557_1efecd0d6ca7_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:20:21.239938+00:00
 -- url     : https://prove2.me/theorems/0c1d2833-de32-49c5-aebf-88ae0a9260a2

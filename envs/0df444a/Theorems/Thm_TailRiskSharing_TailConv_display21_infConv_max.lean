@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_TailConv_display21_infConv_max
 -- name    : TailRiskSharing.TailConv.display21_infConv_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:47.562764+00:00
 -- url     : https://prove2.me/theorems/5d2bac49-b2d8-4b32-9c88-79f9009d7b1f

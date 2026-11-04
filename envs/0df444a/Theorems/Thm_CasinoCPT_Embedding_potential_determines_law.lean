@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CasinoCPT_Embedding_potential_determines_law
 -- name    : CasinoCPT.Embedding.potential_determines_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:51:37.755376+00:00
 -- url     : https://prove2.me/theorems/545fdb08-aa96-496e-afaa-245a6c07a510

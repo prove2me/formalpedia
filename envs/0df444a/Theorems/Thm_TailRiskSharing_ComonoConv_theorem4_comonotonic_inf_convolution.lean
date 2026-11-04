@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_ComonoConv_theorem4_comonotonic_inf_convolution
 -- name    : TailRiskSharing.ComonoConv.theorem4_comonotonic_inf_convolution
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:35.661188+00:00
 -- url     : https://prove2.me/theorems/d426633b-bda4-4d2f-9ab1-954337374c4b

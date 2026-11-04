@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Intersecting_lemma_2
 -- name    : SCInfoDesign.Intersecting.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:19:07.281987+00:00
 -- url     : https://prove2.me/theorems/3068d1a1-bbca-4a50-bf0c-823f795205b1

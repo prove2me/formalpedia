@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_corollary_2_6_scaling
 -- name    : ContJRP.Align.corollary_2_6_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:38.716145+00:00
 -- url     : https://prove2.me/theorems/34693db6-361a-4fd8-8f8c-214dbd6ec9ad

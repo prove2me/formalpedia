@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlindProphetSec_Blind_lemma_4_1
 -- name    : BlindProphetSec.Blind.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:38:21.87124+00:00
 -- url     : https://prove2.me/theorems/d271e00c-9177-49e0-b502-0efe4bdd25ae

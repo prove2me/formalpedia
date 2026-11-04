@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClearingUnique_Cycles_step_1_theorem_4_5
 -- name    : ClearingUnique.Cycles.step_1_theorem_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:50:55.611678+00:00
 -- url     : https://prove2.me/theorems/661e859a-a6da-4152-98fe-d6d5ddfc23ea

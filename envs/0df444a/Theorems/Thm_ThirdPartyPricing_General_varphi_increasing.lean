@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThirdPartyPricing_General_varphi_increasing
 -- name    : ThirdPartyPricing.General.varphi_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:12.416375+00:00
 -- url     : https://prove2.me/theorems/4d4b8ae9-bbe2-4a3f-b62e-a0e175598c6f

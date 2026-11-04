@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_19_original_explicit_zero_cap_spatial_ito_budgets_imply_ruin_cash
 -- name    : AvramDividend.Classical.avram_wave7_19_original_explicit_zero_cap_spatial_ito_budgets_imply_ruin_cash
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T21:31:29.330773+00:00
 -- url     : https://prove2.me/theorems/ae82ceb5-ece8-4794-80a9-ce4f26c01ef3

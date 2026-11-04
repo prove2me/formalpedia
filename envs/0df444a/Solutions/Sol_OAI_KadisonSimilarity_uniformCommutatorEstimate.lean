@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonSimilarity.uniformCommutatorEstimate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-31T15:14:32.409374+00:00
 -- url     : https://prove2.me/submissions/a16f3774-74c0-41e1-a952-e6948a251ab2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KadisonSimilarity

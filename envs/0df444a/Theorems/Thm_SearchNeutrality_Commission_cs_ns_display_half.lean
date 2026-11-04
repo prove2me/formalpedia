@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SearchNeutrality_Commission_cs_ns_display_half
 -- name    : SearchNeutrality.Commission.cs_ns_display_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:39:33.073007+00:00
 -- url     : https://prove2.me/theorems/06624e3d-578e-43f9-bb69-6f647d619075

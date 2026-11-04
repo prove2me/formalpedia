@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_CAKKT_polar_limNormal_subset_tangentCone
 -- name    : StrictCQ.CAKKT.polar_limNormal_subset_tangentCone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:14.137987+00:00
 -- url     : https://prove2.me/theorems/319e2477-c30e-46cc-bb58-e5d35901ceee

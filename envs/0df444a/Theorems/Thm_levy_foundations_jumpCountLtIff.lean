@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_jumpCountLtIff
 -- name    : levy_foundations_jumpCountLtIff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:37:30.362657+00:00
 -- url     : https://prove2.me/theorems/64a78fc4-e895-4dc6-8a16-7be00891d854

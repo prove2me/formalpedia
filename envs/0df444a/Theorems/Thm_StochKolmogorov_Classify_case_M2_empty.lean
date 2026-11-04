@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Classify_case_M2_empty
 -- name    : StochKolmogorov.Classify.case_M2_empty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:32:42.976409+00:00
 -- url     : https://prove2.me/theorems/fc17103a-f09c-4885-9410-752a413e1800

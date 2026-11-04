@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_CAKKT_isCAKKT_iff_isCAKKTAt
 -- name    : StrictCQ.CAKKT.isCAKKT_iff_isCAKKTAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:34:23.827996+00:00
 -- url     : https://prove2.me/theorems/8cc5bced-d603-4d65-91d4-6e015a94d541

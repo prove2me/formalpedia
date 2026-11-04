@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProgCorrMFG_Approx_remark_6_3
 -- name    : ProgCorrMFG.Approx.remark_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:24.973919+00:00
 -- url     : https://prove2.me/theorems/dff7a128-a5ff-4d71-a2d3-a25920cb0282

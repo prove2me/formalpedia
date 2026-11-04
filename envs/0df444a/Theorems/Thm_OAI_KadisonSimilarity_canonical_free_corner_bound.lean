@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_canonical_free_corner_bound
 -- name    : OAI.KadisonSimilarity.canonical_free_corner_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T09:12:47.885383+00:00
 -- url     : https://prove2.me/theorems/c8d116dc-4a34-4abb-a9ba-b7ab42d6b449

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PreAwardInvest_WinWin_ex_ante_identity
 -- name    : PreAwardInvest.WinWin.ex_ante_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:56.559517+00:00
 -- url     : https://prove2.me/theorems/2a2866cf-fcdc-4662-a7b9-0ba611a2caae

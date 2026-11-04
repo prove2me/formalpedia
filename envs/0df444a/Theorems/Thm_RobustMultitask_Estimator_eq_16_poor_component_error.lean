@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMultitask_Estimator_eq_16_poor_component_error
 -- name    : RobustMultitask.Estimator.eq_16_poor_component_error
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:33:47.309557+00:00
 -- url     : https://prove2.me/theorems/5c88a8c0-55b8-4730-b3e6-629b7f801150

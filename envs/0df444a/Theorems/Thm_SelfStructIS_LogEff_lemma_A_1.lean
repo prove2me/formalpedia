@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfStructIS_LogEff_lemma_A_1
 -- name    : SelfStructIS.LogEff.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:30:18.875219+00:00
 -- url     : https://prove2.me/theorems/fe81f4d9-e3e5-4e83-b737-d7086fff004f

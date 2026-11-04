@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FactorRMDP_Blackwell_optimal_pair_extreme
 -- name    : FactorRMDP.Blackwell.optimal_pair_extreme
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:19.553368+00:00
 -- url     : https://prove2.me/theorems/122180b9-dbf9-477a-9c57-6629afedad38

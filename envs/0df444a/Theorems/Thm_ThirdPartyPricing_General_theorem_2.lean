@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThirdPartyPricing_General_theorem_2
 -- name    : ThirdPartyPricing.General.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:07.969707+00:00
 -- url     : https://prove2.me/theorems/5a45463f-5321-4b84-ab72-98b875aa9562

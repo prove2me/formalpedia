@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CasinoCPT_Embedding_identities_5
 -- name    : CasinoCPT.Embedding.identities_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:51:37.130069+00:00
 -- url     : https://prove2.me/theorems/197f2fe8-5c5c-45e2-ac9e-8e0826ba3991

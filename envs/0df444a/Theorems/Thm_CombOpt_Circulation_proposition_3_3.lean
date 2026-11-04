@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_Circulation_proposition_3_3
 -- name    : CombOpt.Circulation.proposition_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:03:07.4823+00:00
 -- url     : https://prove2.me/theorems/ad06e597-3a48-4bcf-9cae-f49083105865

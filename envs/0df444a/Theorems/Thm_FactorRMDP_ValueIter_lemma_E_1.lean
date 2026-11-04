@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FactorRMDP_ValueIter_lemma_E_1
 -- name    : FactorRMDP.ValueIter.lemma_E_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T19:33:43.341908+00:00
 -- url     : https://prove2.me/theorems/a3d2968d-82ab-46ef-973e-847b29a2837d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoBR_restr_zero_of_restr
 -- name    : TaoBR.restr_zero_of_restr
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T17:07:58.94809+00:00
 -- url     : https://prove2.me/theorems/a5f1f621-d29b-4696-85fe-9666b5c88461

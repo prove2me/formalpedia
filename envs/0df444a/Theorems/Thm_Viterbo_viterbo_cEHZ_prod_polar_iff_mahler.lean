@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_viterbo_cEHZ_prod_polar_iff_mahler
 -- name    : Viterbo.viterbo_cEHZ_prod_polar_iff_mahler
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T08:19:03.417217+00:00
 -- url     : https://prove2.me/theorems/53f406e7-f1a7-400c-8c2f-af3bbfd70ca4

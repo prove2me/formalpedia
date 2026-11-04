@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_planarDrawingOn_has_3n_sub_6_edges__p2m_a025b1a8_d903_4a44_81b6_ec9f7e2f3e4a_a1
 -- name    : WilliamsonShmoys.edge_maximal_planarDrawingOn_has_3n_sub_6_edges__p2m_a025b1a8_d903_4a44_81b6_ec9f7e2f3e4a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T06:47:58.483233+00:00
 -- url     : https://prove2.me/theorems/4f160dcf-31cc-41b6-9e73-2a2d16cdab21

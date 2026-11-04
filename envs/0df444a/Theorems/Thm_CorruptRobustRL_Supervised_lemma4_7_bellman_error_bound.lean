@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_lemma4_7_bellman_error_bound
 -- name    : CorruptRobustRL.Supervised.lemma4_7_bellman_error_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:22.34739+00:00
 -- url     : https://prove2.me/theorems/32c42843-6446-4113-9618-73439adcdfc3

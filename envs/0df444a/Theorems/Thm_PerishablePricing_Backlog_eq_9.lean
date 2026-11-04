@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishablePricing_Backlog_eq_9
 -- name    : PerishablePricing.Backlog.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:07.497679+00:00
 -- url     : https://prove2.me/theorems/c0ea6bae-61ad-4b1c-a432-3c566e550fd5

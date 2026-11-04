@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_has_euler_extension__p2m_8d2492c2_a620_4e30_8a73_7621e3b1e96d_a2
 -- name    : WilliamsonShmoys.drawable_graph_has_euler_extension__p2m_8d2492c2_a620_4e30_8a73_7621e3b1e96d_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:44:48.968759+00:00
 -- url     : https://prove2.me/theorems/76f2ce3c-d450-4358-bc4a-f7783646ef08

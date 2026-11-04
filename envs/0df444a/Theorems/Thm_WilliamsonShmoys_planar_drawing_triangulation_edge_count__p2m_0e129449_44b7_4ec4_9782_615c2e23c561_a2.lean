@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulation_edge_count__p2m_0e129449_44b7_4ec4_9782_615c2e23c561_a2
 -- name    : WilliamsonShmoys.planar_drawing_triangulation_edge_count__p2m_0e129449_44b7_4ec4_9782_615c2e23c561_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:45:12.940359+00:00
 -- url     : https://prove2.me/theorems/625bb0fc-e249-4e4e-ba10-71dd29d5fb91

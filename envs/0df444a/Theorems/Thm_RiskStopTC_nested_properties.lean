@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskStopTC_nested_properties
 -- name    : RiskStopTC.nested_properties
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:35:39.622391+00:00
 -- url     : https://prove2.me/theorems/a0518049-18ff-4844-b62f-11cb956e13cb

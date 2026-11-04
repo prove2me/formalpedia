@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Classify_lemma_5_6
 -- name    : StochKolmogorov.Classify.lemma_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:32:42.244997+00:00
 -- url     : https://prove2.me/theorems/2bab9b28-7ed9-45f2-926b-7dbe89f0d6ad

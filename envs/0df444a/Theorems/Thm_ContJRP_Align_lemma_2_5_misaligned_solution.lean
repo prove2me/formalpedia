@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_lemma_2_5_misaligned_solution
 -- name    : ContJRP.Align.lemma_2_5_misaligned_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:26.235235+00:00
 -- url     : https://prove2.me/theorems/08d0d38b-bc31-4c05-b8ae-91d8307f4c49

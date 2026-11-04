@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_planar_drawing_edge_count_upper__p2m_f064fab3_2a2a_43e1_9be9_e5e958f9fe83_a1
 -- name    : planar_drawing_edge_count_upper__p2m_f064fab3_2a2a_43e1_9be9_e5e958f9fe83_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:16:28.715196+00:00
 -- url     : https://prove2.me/theorems/45e747d5-3369-49e7-b0b7-b09895dc1bdd

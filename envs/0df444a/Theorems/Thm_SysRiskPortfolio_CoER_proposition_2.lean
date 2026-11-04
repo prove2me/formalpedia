@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SysRiskPortfolio_CoER_proposition_2
 -- name    : SysRiskPortfolio.CoER.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:51:27.329602+00:00
 -- url     : https://prove2.me/theorems/77876b99-96e4-4a10-9fb6-93dc1ba5a5b6

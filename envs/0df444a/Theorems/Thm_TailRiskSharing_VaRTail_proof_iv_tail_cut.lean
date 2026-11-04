@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_VaRTail_proof_iv_tail_cut
 -- name    : TailRiskSharing.VaRTail.proof_iv_tail_cut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:15:57.496521+00:00
 -- url     : https://prove2.me/theorems/8ec95880-b616-476b-9686-2ede1083eaf3

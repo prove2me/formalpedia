@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClosedLoopBass_Immediate_lemma_2
 -- name    : ClosedLoopBass.Immediate.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:17.650204+00:00
 -- url     : https://prove2.me/theorems/59c5b7fb-74fd-4a3b-9366-f3ed3c696e42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Nested_eq_B5
 -- name    : SCInfoDesign.Nested.eq_B5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:28:59.159687+00:00
 -- url     : https://prove2.me/theorems/83cb2a84-176d-4e28-9f96-0038ca040a2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_poissonProbabilityGeneratingFunction
 -- name    : levy_foundations_poissonProbabilityGeneratingFunction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:55:15.459704+00:00
 -- url     : https://prove2.me/theorems/0dec784c-de77-4956-999d-c410055b2ba9

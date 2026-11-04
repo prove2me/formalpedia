@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HomotopyProxVM_eq_65
 -- name    : HomotopyProxVM.eq_65
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:37:31.932496+00:00
 -- url     : https://prove2.me/theorems/d02708b0-612a-4c8f-83aa-dbec8ed32ce2

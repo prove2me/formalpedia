@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FactorRMDP_Blackwell_value_rational
 -- name    : FactorRMDP.Blackwell.value_rational
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:08.169385+00:00
 -- url     : https://prove2.me/theorems/93814eee-24ee-4f12-b259-006bd076e371

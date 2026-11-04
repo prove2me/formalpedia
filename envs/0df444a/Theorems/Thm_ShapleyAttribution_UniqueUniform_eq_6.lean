@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleyAttribution_UniqueUniform_eq_6
 -- name    : ShapleyAttribution.UniqueUniform.eq_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:25:33.748204+00:00
 -- url     : https://prove2.me/theorems/e3c9873f-1c8c-492a-9a21-2b94853d1530

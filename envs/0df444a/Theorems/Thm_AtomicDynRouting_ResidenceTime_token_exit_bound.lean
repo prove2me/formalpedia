@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynRouting_ResidenceTime_token_exit_bound
 -- name    : AtomicDynRouting.ResidenceTime.token_exit_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:07.900023+00:00
 -- url     : https://prove2.me/theorems/1b0d9ca0-137f-4354-99e8-53e577a4cff1

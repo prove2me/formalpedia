@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_Circulation_corollary_3_4
 -- name    : CombOpt.Circulation.corollary_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:04:15.895223+00:00
 -- url     : https://prove2.me/theorems/a17c0e1d-30fc-4a61-ae7e-58d02415ff1f

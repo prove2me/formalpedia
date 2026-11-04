@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_posDefPointwiseMul
 -- name    : levy_foundations_posDefPointwiseMul
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:08:03.295021+00:00
 -- url     : https://prove2.me/theorems/4e3ea3db-2950-4336-9e83-92725518c857

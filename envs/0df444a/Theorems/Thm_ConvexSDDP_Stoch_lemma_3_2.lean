@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexSDDP_Stoch_lemma_3_2
 -- name    : ConvexSDDP.Stoch.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:59:13.280979+00:00
 -- url     : https://prove2.me/theorems/9eb0432b-526f-4543-9846-c5962cf4b571

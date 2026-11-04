@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMembership_PerfectInfo_proposition_1_ex_ante_utility
 -- name    : CryptoMembership.PerfectInfo.proposition_1_ex_ante_utility
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:51.0149+00:00
 -- url     : https://prove2.me/theorems/57f2add0-a7ad-4095-b327-b987143f8837

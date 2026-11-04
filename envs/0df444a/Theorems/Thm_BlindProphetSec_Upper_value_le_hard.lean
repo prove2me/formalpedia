@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlindProphetSec_Upper_value_le_hard
 -- name    : BlindProphetSec.Upper.value_le_hard
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:26.887987+00:00
 -- url     : https://prove2.me/theorems/ae109a1d-e6bc-4e82-9a2e-58d5afc789da

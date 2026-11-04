@@ -1,0 +1,59 @@
+-- Prove2me | Theorems.Thm_ThreeSum_LightEncodedColorNormalize_program_length
+-- name    : ThreeSum.LightEncodedColorNormalize.program_length
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T13:47:11.784262+00:00
+-- url     : https://prove2.me/theorems/c7211076-1e10-4295-b96e-a789c0e71610
+-- title:
+--   Light Encoded Color Normalize: program length
+-- statement:
+--   The Light Encoded Color Normalize construction uses the program length property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/LightEncodedColorNormalize.lean#L45-L45
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/LightEncodedColorNormalize.lean#L45-L45
+
+import Definitions.Def_Submission_ThreeSum_EncodedColorNormalizedData
+import Definitions.Def_Submission_ThreeSum_LightEncodedColorLayout
+import Definitions.Def_Submission_ThreeSum_LightColorParametersCosts
+import Definitions.Def_Submission_ThreeSum_LightEncodedColorNormalize
+import Theorems.Thm_ThreeSum_LightBalancedWanted_program_length
+import Theorems.Thm_ThreeSum_LightBandPreprocessing_program_length
+import Theorems.Thm_ThreeSum_LightBandPrimeChain_program_length
+import Theorems.Thm_ThreeSum_LightBandPrimeConstruction_program_length
+import Theorems.Thm_ThreeSum_LightBandPrimeMinimum_program_length
+import Theorems.Thm_ThreeSum_LightBandPrimeSetup_program_length
+import Theorems.Thm_ThreeSum_LightBandRawAColor_program_length
+import Theorems.Thm_ThreeSum_LightBandWeightedScoreCell_program_length
+import Theorems.Thm_ThreeSum_LightBandWeightedScore_program_length
+import Theorems.Thm_ThreeSum_LightBlockSourceBatchProgram_program_length
+import Theorems.Thm_ThreeSum_LightBlockSourceCatalogProgram_program_length
+import Theorems.Thm_ThreeSum_LightBlockSourceRetainedProgram_program_length
+import Theorems.Thm_ThreeSum_LightColorBands_program_length
+import Theorems.Thm_ThreeSum_LightCoverKeys_program_length
+import Theorems.Thm_ThreeSum_LightEncodedColorLayout_program_length
+import Theorems.Thm_ThreeSum_LightEncodedColorPrimeCore_program_length
+import Theorems.Thm_ThreeSum_LightEncodedColorPrime_program_length
+import Theorems.Thm_ThreeSum_LightGlobalKeys_program_length
+import Theorems.Thm_ThreeSum_LightGuardedWanted_program_length
+import Theorems.Thm_ThreeSum_LightOriginalOffset_program_length
+import Theorems.Thm_ThreeSum_LightSourceBandBanksProgram_program_length
+import Theorems.Thm_ThreeSum_LightSourceBandHostProgram_program_length
+import Theorems.Thm_ThreeSum_LightSourceBandPair_program_length
+import Theorems.Thm_ThreeSum_LightSourceBandProgram_program_length
+import Theorems.Thm_ThreeSum_LightSourceBucketBuild_program_length
+import Theorems.Thm_ThreeSum_LightSourceBucketOriginal_program_length
+import Theorems.Thm_ThreeSum_LightSourceBucketSetup_program_length
+import Theorems.Thm_ThreeSum_LightSourceControlsHostProgram_program_length
+import Theorems.Thm_ThreeSum_LightSourceControlsProgram_program_length
+import Theorems.Thm_ThreeSum_LightSourceOccurrenceArray_program_length
+import Theorems.Thm_ThreeSum_LightSourceRetainedStages_program_length
+import Theorems.Thm_ThreeSum_LightWantedSetup_program_length
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.LightEncodedColorNormalize
+open Light Scales BandScales ColorClassLists EncodedColorLayout EncodedColorNormalizedData
+set_option maxHeartbeats 2600000
+set_option maxRecDepth 14000
+
+theorem ThreeSum.LightEncodedColorNormalize.program_length : program.length=46 := by sorry

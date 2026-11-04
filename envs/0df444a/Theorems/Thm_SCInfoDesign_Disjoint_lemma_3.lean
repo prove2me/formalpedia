@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Disjoint_lemma_3
 -- name    : SCInfoDesign.Disjoint.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:54.237046+00:00
 -- url     : https://prove2.me/theorems/0954a7ff-ddc3-44c7-beb2-bb06e80507c1

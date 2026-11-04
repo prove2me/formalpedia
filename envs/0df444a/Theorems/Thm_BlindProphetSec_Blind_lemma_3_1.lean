@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlindProphetSec_Blind_lemma_3_1
 -- name    : BlindProphetSec.Blind.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:37:44.318894+00:00
 -- url     : https://prove2.me/theorems/66770507-7b92-471c-8139-b7ffd5fb49bf

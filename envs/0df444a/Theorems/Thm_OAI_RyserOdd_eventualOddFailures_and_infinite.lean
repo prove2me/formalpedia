@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RyserOdd_eventualOddFailures_and_infinite
 -- name    : OAI.RyserOdd.eventualOddFailures_and_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:17.670878+00:00
 -- url     : https://prove2.me/theorems/57adf8fb-fcd9-45e0-85e6-d0cbdfa3bdaf

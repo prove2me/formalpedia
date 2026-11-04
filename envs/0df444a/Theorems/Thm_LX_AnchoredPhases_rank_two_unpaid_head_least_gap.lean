@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_AnchoredPhases_rank_two_unpaid_head_least_gap
 -- name    : LX.AnchoredPhases.rank_two_unpaid_head_least_gap
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:28:33.479727+00:00
 -- url     : https://prove2.me/theorems/8b322b3c-f458-44cb-9cef-44fa2496428a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynkinAsymInfo_Linear_corollary_6_8
 -- name    : DynkinAsymInfo.Linear.corollary_6_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:16:33.964028+00:00
 -- url     : https://prove2.me/theorems/9a0b3e88-5884-45f0-becf-6589ea15d1fd

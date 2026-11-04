@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_ball_piDs_eq_zero_or_isolated
 -- name    : FiniteEnergyPlane.exists_ball_piDs_eq_zero_or_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-02T20:29:22.930556+00:00
 -- url     : https://prove2.me/theorems/6eae9220-bbba-432c-891d-324379097a71

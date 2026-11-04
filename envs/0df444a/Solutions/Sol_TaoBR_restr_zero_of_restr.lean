@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TaoBR.restr_zero_of_restr
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-29T23:11:55.607019+00:00
 -- url     : https://prove2.me/submissions/93df9d5c-58f7-46ea-a7f0-eac30ce81134
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_TaoBR
 import Theorems.Thm_TaoBR_restr_sparse_of_restr_uniform

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_withDensityConvolutionFormula
 -- name    : levy_foundations_withDensityConvolutionFormula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:54:05.650862+00:00
 -- url     : https://prove2.me/theorems/2bd77a28-948e-42e9-b541-4a1d6c48a115

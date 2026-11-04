@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_hasWindInfAt_of_hasAsymptoticEigenvector
 -- name    : FiniteEnergyPlane.exists_hasWindInfAt_of_hasAsymptoticEigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:38:49.366667+00:00
 -- url     : https://prove2.me/theorems/afb7a8c8-d1a7-420b-9c7f-21473d717960

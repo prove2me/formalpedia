@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_hasWindPi_of_nondegenerate
 -- name    : FiniteEnergyPlane.exists_hasWindPi_of_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:38:37.173917+00:00
 -- url     : https://prove2.me/theorems/c23a695b-17c8-498e-b4a3-98154025a234

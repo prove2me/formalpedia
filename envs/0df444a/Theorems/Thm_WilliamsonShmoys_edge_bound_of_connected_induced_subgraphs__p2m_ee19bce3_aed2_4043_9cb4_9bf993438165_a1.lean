@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_bound_of_connected_induced_subgraphs__p2m_ee19bce3_aed2_4043_9cb4_9bf993438165_a1
 -- name    : WilliamsonShmoys.edge_bound_of_connected_induced_subgraphs__p2m_ee19bce3_aed2_4043_9cb4_9bf993438165_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:07:45.847205+00:00
 -- url     : https://prove2.me/theorems/91fdce47-b3a5-46de-8589-e108dd79c43e

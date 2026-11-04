@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_ProfitGain_lemmaA3_case1a_case2a
 -- name    : GDPRPrivacy.ProfitGain.lemmaA3_case1a_case2a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:19:25.287005+00:00
 -- url     : https://prove2.me/theorems/8cd3862a-9e90-4416-b59e-ded3bffd605f

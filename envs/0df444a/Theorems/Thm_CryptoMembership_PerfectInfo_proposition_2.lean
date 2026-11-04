@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMembership_PerfectInfo_proposition_2
 -- name    : CryptoMembership.PerfectInfo.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:57.151022+00:00
 -- url     : https://prove2.me/theorems/281182bd-8591-4d18-87ce-282af712d231

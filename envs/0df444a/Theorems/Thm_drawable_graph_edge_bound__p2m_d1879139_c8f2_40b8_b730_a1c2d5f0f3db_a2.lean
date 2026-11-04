@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_drawable_graph_edge_bound__p2m_d1879139_c8f2_40b8_b730_a1c2d5f0f3db_a2
 -- name    : drawable_graph_edge_bound__p2m_d1879139_c8f2_40b8_b730_a1c2d5f0f3db_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:03:54.905206+00:00
 -- url     : https://prove2.me/theorems/165ee858-132c-470d-9b30-10e365098e80

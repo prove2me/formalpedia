@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMembership_PerfectInfo_eq15_root_statics
 -- name    : CryptoMembership.PerfectInfo.eq15_root_statics
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:25:10.693163+00:00
 -- url     : https://prove2.me/theorems/8e72c9b6-bd8e-48af-a25d-1ed1432cada3

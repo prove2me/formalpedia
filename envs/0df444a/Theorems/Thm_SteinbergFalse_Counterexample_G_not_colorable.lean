@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinbergFalse_Counterexample_G_not_colorable
 -- name    : SteinbergFalse.Counterexample.G_not_colorable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:12:40.339765+00:00
 -- url     : https://prove2.me/theorems/cfc49aa6-1a4d-4422-9b8d-3fea57738033

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GavrilSubtree_Chordal_exists_isSimplicial
 -- name    : GavrilSubtree.Chordal.exists_isSimplicial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:53:58.215393+00:00
 -- url     : https://prove2.me/theorems/44e257a1-d549-4962-aae5-0fd9909b7dd3

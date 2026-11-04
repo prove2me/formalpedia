@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinbergFalse_Counterexample_G_noFourFiveCycle
 -- name    : SteinbergFalse.Counterexample.G_noFourFiveCycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:12:28.211987+00:00
 -- url     : https://prove2.me/theorems/930b1024-e568-4786-8e86-9884c0b21d99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_PriceRise_oaA1_max_before
 -- name    : GDPRPrivacy.PriceRise.oaA1_max_before
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:30.087007+00:00
 -- url     : https://prove2.me/theorems/e0d14c5b-b46a-453f-8e08-32422de27c89

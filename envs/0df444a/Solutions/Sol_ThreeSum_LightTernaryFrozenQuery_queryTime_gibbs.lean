@@ -1,0 +1,78 @@
+-- Prove2me | solution 1 for ThreeSum.LightTernaryFrozenQuery.queryTime_gibbs
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T11:30:13.197264+00:00
+-- url     : https://prove2.me/submissions/33a66052-9da3-4133-b6c5-cba6c8f12648
+
+import Definitions.Def_Submission_ThreeSum_LightTernaryFrozenQueryPrepare
+import Definitions.Def_Submission_ThreeSum_TernaryFrozenQueryCost
+import Definitions.Def_Submission_ThreeSum_LightTernaryFrozenQueryTime
+import Theorems.Thm_ThreeSum_LightTernaryFrozenQuery_queryTime_zero
+import Theorems.Thm_ThreeSum_LightTernaryFrozenQuery_full_capWord_digitCount
+import Theorems.Thm_Light_getElem_powList
+import Theorems.Thm_Light_length_powList
+import Theorems.Thm_Light_sameFrame_cons_cons
+import Theorems.Thm_Light_sameFrame_cons_nil
+import Theorems.Thm_Light_sameFrame_nil
+import Theorems.Thm_Light_sameFrame_nil_cons
+import Theorems.Thm_Light_toNat_natCast_add_natCast
+import Theorems.Thm_ThreeSum_SubsetAddress_isMask_zero
+import Theorems.Thm_ThreeSum_SubsetAddress_layerOffset_zero
+import Theorems.Thm_ThreeSum_SubsetAddress_natPositions_card
+import Theorems.Thm_ThreeSum_SubsetAddress_weight_zero
+import Theorems.Thm_ThreeSum_TernaryAddresses_codes_length
+import Theorems.Thm_ThreeSum_TernaryBankEnumeration_wordList_length
+import Theorems.Thm_ThreeSum_TernaryBankEnumeration_wordList_sum
+import Theorems.Thm_ThreeSum_TernaryBank_mem_bank
+import Theorems.Thm_ThreeSum_TernaryBank_mem_lowerWords
+import Theorems.Thm_ThreeSum_TernaryBank_mem_nearWords
+import Theorems.Thm_ThreeSum_TernaryEnumeration_mem_digits
+import Theorems.Thm_ThreeSum_TernaryFrozenQueryCost_work_gibbs_counts
+import Theorems.Thm_ThreeSum_TernaryFrozenQueryStages_coords_length
+import Theorems.Thm_ThreeSum_TernaryFrozenQueryStages_coords_nodup
+import Theorems.Thm_ThreeSum_TernaryFrozenQueryStages_coords_zero
+import Theorems.Thm_ThreeSum_TernaryFrozenQueryStages_stageValue_zero
+import Theorems.Thm_ThreeSum_TernaryNearEnumeration_codes_length
+import Theorems.Thm_ThreeSum_TernaryNearEnumeration_mem_digits
+attribute [local simp] Light.getElem_powList
+attribute [local simp] Light.length_powList
+attribute [local simp] Light.sameFrame_cons_cons
+attribute [local simp] Light.sameFrame_cons_nil
+attribute [local simp] Light.sameFrame_nil
+attribute [local simp] Light.sameFrame_nil_cons
+attribute [local simp] Light.toNat_natCast_add_natCast
+attribute [local simp] ThreeSum.SubsetAddress.isMask_zero
+attribute [local simp] ThreeSum.SubsetAddress.layerOffset_zero
+attribute [local simp] ThreeSum.SubsetAddress.natPositions_card
+attribute [local simp] ThreeSum.SubsetAddress.weight_zero
+attribute [local simp] ThreeSum.TernaryAddresses.codes_length
+attribute [local simp] ThreeSum.TernaryBank.mem_bank
+attribute [local simp] ThreeSum.TernaryBank.mem_lowerWords
+attribute [local simp] ThreeSum.TernaryBank.mem_nearWords
+attribute [local simp] ThreeSum.TernaryBankEnumeration.wordList_length
+attribute [local simp] ThreeSum.TernaryBankEnumeration.wordList_sum
+attribute [local simp] ThreeSum.TernaryEnumeration.mem_digits
+attribute [local simp] ThreeSum.TernaryFrozenQueryStages.coords_zero
+attribute [local simp] ThreeSum.TernaryFrozenQueryStages.stageValue_zero
+attribute [local simp] ThreeSum.TernaryNearEnumeration.codes_length
+attribute [local simp] ThreeSum.TernaryNearEnumeration.mem_digits
+
+
+attribute [local simp] ThreeSum.LightTernaryFrozenQuery.queryTime_zero
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.LightTernaryFrozenQuery
+open ThreeSum.TernaryJointType ThreeSum.TernaryBank ThreeSum.TernaryFrozenQueryStages
+open ThreeSum.TernaryFrozenQueryCost
+set_option maxHeartbeats 3000000
+namespace ThreeSum.LightTernaryFrozenQuery
+theorem _root_.solution {N : ℕ} (L T : ℕ) (R : TritWord N)
+    (z : ℝ) (hz : 0≤z) (hz1 : z≤1) :
+    (queryTime L T N R : ℝ)*z^(rank R+1-T)≤
+      10000*(N+L+1)*(N+1)*(1+z)^digitCount R 1*(1+z+z^2)^digitCount R 2 := by
+  have hg := work_gibbs_counts T (coords N N) (coords_nodup N N) R z hz hz1
+  have hm := mul_le_mul_of_nonneg_left hg
+    (by positivity : (0 : ℝ)≤10000*(N+L+1))
+  simpa [queryTime,Nat.cast_mul,Nat.cast_add,coords_length (le_refl N),
+    full_capWord_digitCount,mul_assoc] using hm
+end ThreeSum.LightTernaryFrozenQuery

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_table2_block_633_638
 -- name    : Apery.table2_block_633_638
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-13T00:18:19.742976+00:00
 -- url     : https://prove2.me/theorems/7b327f31-3746-4625-8f30-e326b6b54926

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_19_original_ruin_cash_cap_support_disjoint_partition
 -- name    : AvramDividend.Classical.avram_wave7_19_original_ruin_cash_cap_support_disjoint_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T20:08:42.356976+00:00
 -- url     : https://prove2.me/theorems/5c7cad26-9203-45c8-a430-d8884c537cd4

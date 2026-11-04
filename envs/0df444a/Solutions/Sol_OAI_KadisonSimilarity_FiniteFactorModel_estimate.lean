@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonSimilarity.FiniteFactorModel.estimate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-31T15:18:35.018991+00:00
 -- url     : https://prove2.me/submissions/f35e79a8-8a1d-49b8-a57d-029153106c78
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KadisonSimilarity

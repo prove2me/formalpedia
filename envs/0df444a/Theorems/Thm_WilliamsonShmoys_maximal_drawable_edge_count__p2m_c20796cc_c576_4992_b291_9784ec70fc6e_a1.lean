@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_edge_count__p2m_c20796cc_c576_4992_b291_9784ec70fc6e_a1
 -- name    : WilliamsonShmoys.maximal_drawable_edge_count__p2m_c20796cc_c576_4992_b291_9784ec70fc6e_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:56:25.331304+00:00
 -- url     : https://prove2.me/theorems/d7b584f5-f48a-4e68-a764-d92a7993a6d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_MinorFree_indep_mul_clique_ge
 -- name    : TwinWidthI.MinorFree.indep_mul_clique_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:39:42.227992+00:00
 -- url     : https://prove2.me/theorems/48717d30-5b44-44ec-bdd5-15f3fe17955f

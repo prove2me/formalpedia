@@ -1,0 +1,29 @@
+-- Prove2me | Theorems.Thm_Light_Ends_skipLast
+-- name    : Light.Ends.skipLast
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T07:27:17.358079+00:00
+-- url     : https://prove2.me/theorems/91802076-560c-46c9-a1b4-0eba33be8cf2
+-- title:
+--   Ends: skip Last
+-- statement:
+--   A `skip` may be put behind a statement.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSumApsp/Lang/Rules.lean#L186-L192
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSumApsp/Lang/Rules.lean#L186-L192
+
+module
+public import Definitions.Def_Submission_ThreeSumApsp_Lang_Logic
+public import Mathlib.Algebra.Order.Group.Abs
+public import Mathlib.Algebra.Order.Ring.Abs
+public import Definitions.Def_Submission_ThreeSumApsp_Lang_Rules
+public import Theorems.Thm_Light_Ends_skip
+
+set_option autoImplicit false
+public section
+open Light
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+theorem Light.Ends.skipLast {σ : State} {T : ℕ} {s : Stmt} {Q : State → Prop}
+    (h : Ends lim P d (s ;; .skip) σ T Q) : Ends lim P d s σ T Q := by sorry

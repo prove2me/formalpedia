@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_ValueInfo_deriv_VI_ND_xi
 -- name    : SCInfoDesign.ValueInfo.deriv_VI_ND_xi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:30:25.780499+00:00
 -- url     : https://prove2.me/theorems/a48319ad-ac1e-4ba0-bf32-252a6daab849

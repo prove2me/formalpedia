@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynRouting_ResidenceTime_p1_tokens_le_agents
 -- name    : AtomicDynRouting.ResidenceTime.p1_tokens_le_agents
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:06.919987+00:00
 -- url     : https://prove2.me/theorems/d0a27b2c-e873-4c95-a581-27fa87b0c6a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleyAttribution_UniqueUniform_step_1_neumann
 -- name    : ShapleyAttribution.UniqueUniform.step_1_neumann
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:25:37.177748+00:00
 -- url     : https://prove2.me/theorems/b4285d0d-c761-4558-815d-a70f72e42e4e

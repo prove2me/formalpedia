@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SONATA_Undir_theorem_3_9
 -- name    : SONATA.Undir.theorem_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:17:42.378809+00:00
 -- url     : https://prove2.me/theorems/10ee7c70-4314-4a0c-b071-5e36fd1340bf

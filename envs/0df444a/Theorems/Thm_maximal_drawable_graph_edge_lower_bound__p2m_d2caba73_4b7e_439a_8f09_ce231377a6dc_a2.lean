@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_maximal_drawable_graph_edge_lower_bound__p2m_d2caba73_4b7e_439a_8f09_ce231377a6dc_a2
 -- name    : maximal_drawable_graph_edge_lower_bound__p2m_d2caba73_4b7e_439a_8f09_ce231377a6dc_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T13:01:18.035189+00:00
 -- url     : https://prove2.me/theorems/70fb6007-5dc1-4484-a53d-f6e6d3401839

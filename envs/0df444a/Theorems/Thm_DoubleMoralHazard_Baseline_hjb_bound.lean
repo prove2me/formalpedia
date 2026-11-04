@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleMoralHazard_Baseline_hjb_bound
 -- name    : DoubleMoralHazard.Baseline.hjb_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:42.546724+00:00
 -- url     : https://prove2.me/theorems/3f1b22c5-f746-4c88-9803-e286723030c5

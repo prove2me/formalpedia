@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FactorRMDP_ValueIter_phi_contraction
 -- name    : FactorRMDP.ValueIter.phi_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T19:33:28.698096+00:00
 -- url     : https://prove2.me/theorems/2283c3e1-4ea1-4cd9-930b-b82add38545b

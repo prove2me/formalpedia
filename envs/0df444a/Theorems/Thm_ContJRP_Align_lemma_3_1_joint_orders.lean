@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_lemma_3_1_joint_orders
 -- name    : ContJRP.Align.lemma_3_1_joint_orders
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:46.892286+00:00
 -- url     : https://prove2.me/theorems/5aef9de4-2682-4565-ba95-83e0f6e8e2bb

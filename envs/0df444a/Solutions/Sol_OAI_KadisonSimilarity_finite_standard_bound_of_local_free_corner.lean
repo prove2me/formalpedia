@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonSimilarity.finite_standard_bound_of_local_free_corner
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-31T15:03:20.594549+00:00
 -- url     : https://prove2.me/submissions/f2775121-4016-46ef-89aa-8f114829b1dd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KadisonSimilarity

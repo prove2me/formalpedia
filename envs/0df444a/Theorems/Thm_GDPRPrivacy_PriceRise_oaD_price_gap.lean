@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_PriceRise_oaD_price_gap
 -- name    : GDPRPrivacy.PriceRise.oaD_price_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:30.804983+00:00
 -- url     : https://prove2.me/theorems/cd717109-ec8c-4906-896c-ab417d413ef4

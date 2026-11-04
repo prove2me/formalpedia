@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_Zhang_observation_4_2
 -- name    : SnarkGen.Zhang.observation_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:11.279695+00:00
 -- url     : https://prove2.me/theorems/207c63d3-0c2e-4a49-88c2-d413f75feeb9

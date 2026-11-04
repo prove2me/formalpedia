@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdvSellUpgrade_Online_proposition_5_gap
 -- name    : AdvSellUpgrade.Online.proposition_5_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:51:32.782973+00:00
 -- url     : https://prove2.me/theorems/a40ec662-515e-40fc-a834-59b6342b55bb

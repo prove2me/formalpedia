@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_lemma_1_2_density
 -- name    : ContJRP.Align.lemma_1_2_density
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:51:03.132782+00:00
 -- url     : https://prove2.me/theorems/342d212c-3270-49a3-8e5d-0b20529557a4

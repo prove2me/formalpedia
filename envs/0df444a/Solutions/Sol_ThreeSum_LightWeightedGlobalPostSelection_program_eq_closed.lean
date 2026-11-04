@@ -1,0 +1,78 @@
+-- Prove2me | solution 1 for ThreeSum.LightWeightedGlobalPostSelection.program_eq_closed
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T16:31:38.252092+00:00
+-- url     : https://prove2.me/submissions/0e592a3e-1b04-45dc-b117-266d56901b3b
+
+import Definitions.Def_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_Weighted_Global_LightTernaryPostSelection
+import Definitions.Def_Submission_Weighted_Global_LightTernaryPostSelectionClosed
+import Theorems.Thm_ThreeSum_LightWeightedGlobalCompactReporter_program_eq_closed
+import Theorems.Thm_ThreeSum_LightOriginalCollisionCleanup_program_length
+import Theorems.Thm_ThreeSum_LightOriginalOffset_program_length
+import Theorems.Thm_ThreeSum_LightSourceBucketBuild_program_length
+import Theorems.Thm_ThreeSum_LightSourceBucketSetup_program_length
+import Theorems.Thm_ThreeSum_LightTernaryBankAssembly_program_length
+import Theorems.Thm_ThreeSum_LightTernaryBankStages_program_length
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_program_length
+import Theorems.Thm_ThreeSum_LightTernaryGroupBankStep_program_length
+import Theorems.Thm_ThreeSum_LightTernaryGroupedBanks_program_length
+import Theorems.Thm_ThreeSum_LightTernaryNearPair_program_length
+import Theorems.Thm_ThreeSum_LightTernaryNearSetup_program_length
+import Theorems.Thm_ThreeSum_LightTernaryPreparedWanted_program_length
+import Theorems.Thm_ThreeSum_LightTernarySourceCountHost_program_length
+import Theorems.Thm_ThreeSum_LightTernaryWantedQuery_program_length
+import Theorems.Thm_ThreeSum_LightTernaryWantedRows_program_length
+import Theorems.Thm_ThreeSum_LightWantedSetup_program_length
+import Theorems.Thm_ThreeSum_LightWeightedBankAssembly_program_length
+import Theorems.Thm_ThreeSum_LightWeightedBankStages_program_length
+import Theorems.Thm_ThreeSum_LightWeightedCountFrontend_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalCertifiedMomentDriver_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalMomentReporter_program_eq_closed
+import Theorems.Thm_ThreeSum_LightWeightedGlobalMomentReporter_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGroupBankStep_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGroupedBanks_program_length
+import Theorems.Thm_ThreeSum_LightWeightedNearPair_program_length
+import Theorems.Thm_ThreeSum_LightWeightedNearSetup_program_length
+import Theorems.Thm_ThreeSum_LightWeightedPreparedWanted_program_length
+import Theorems.Thm_ThreeSum_LightWeightedSourceCountHost_program_length
+import Theorems.Thm_ThreeSum_LightWeightedWantedQuery_program_length
+import Theorems.Thm_ThreeSum_LightWeightedWantedRows_program_length
+attribute [local simp] ThreeSum.LightOriginalCollisionCleanup.program_length
+attribute [local simp] ThreeSum.LightTernaryBankAssembly.program_length
+attribute [local simp] ThreeSum.LightTernaryBankStages.program_length
+attribute [local simp] ThreeSum.LightTernaryCountFrontend.program_length
+attribute [local simp] ThreeSum.LightTernaryGroupedBanks.program_length
+attribute [local simp] ThreeSum.LightTernaryNearPair.program_length
+attribute [local simp] ThreeSum.LightTernaryNearSetup.program_length
+attribute [local simp] ThreeSum.LightTernaryPreparedWanted.program_length
+attribute [local simp] ThreeSum.LightTernarySourceCountHost.program_length
+attribute [local simp] ThreeSum.LightTernaryWantedQuery.program_length
+attribute [local simp] ThreeSum.LightTernaryWantedRows.program_length
+attribute [local simp] ThreeSum.LightWeightedBankAssembly.program_length
+attribute [local simp] ThreeSum.LightWeightedBankStages.program_length
+attribute [local simp] ThreeSum.LightWeightedCountFrontend.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalCertifiedMomentDriver.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalMomentReporter.program_length
+attribute [local simp] ThreeSum.LightWeightedGroupedBanks.program_length
+attribute [local simp] ThreeSum.LightWeightedNearPair.program_length
+attribute [local simp] ThreeSum.LightWeightedNearSetup.program_length
+attribute [local simp] ThreeSum.LightWeightedPreparedWanted.program_length
+attribute [local simp] ThreeSum.LightWeightedSourceCountHost.program_length
+attribute [local simp] ThreeSum.LightWeightedWantedQuery.program_length
+attribute [local simp] ThreeSum.LightWeightedWantedRows.program_length
+
+
+
+set_option autoImplicit false
+noncomputable section
+set_option maxRecDepth 24000
+set_option maxHeartbeats 1000000
+open ThreeSum ThreeSum.LightWeightedGlobalPostSelection
+open Light TernaryMomentSchedule
+namespace ThreeSum.LightWeightedGlobalPostSelection
+theorem _root_.solution {N : ℕ} (S : WeightedSourceCountExecutionFactory.Setup N) (H : ℕ) :
+    program S H = closedProgram S.left.xs S.left.ys S.left.zs S.right.xs S.right.ys S.right.zs H := by
+  unfold program libraries closedProgram
+  rw [LightWeightedGlobalCompactReporter.program_eq_closed,LightWeightedGlobalMomentReporter.program_length]
+end ThreeSum.LightWeightedGlobalPostSelection

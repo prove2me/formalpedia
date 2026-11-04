@@ -2078,8 +2078,8 @@
 {"parent": "OAI_Analysis_HyperbolicCones_SplitFrame", "child": "OAI_Analysis_HyperbolicCones_MatrixLinear", "via": ["statement"]}
 {"parent": "OAI_Analysis_HyperbolicCones_SplitFrame", "child": "OAI_Analysis_HyperbolicCones_PencilBlocks", "via": ["statement"]}
 {"parent": "OAI_Analysis_HyperbolicCones_SplitFrame", "child": "OAI_Analysis_HyperbolicCones_Model", "via": ["statement"]}
-{"parent": "SpatialPricing.ABC.lemma_4_paths", "child": "SpatialPricing_ABC_Control", "via": ["statement"]}
-{"parent": "SpatialPricing.ABC.lemma_4_paths", "child": "SpatialPricing_ABC_Setting", "via": ["statement"]}
+{"parent": "SpatialPricing.ABC.lemma_4_paths", "child": "SpatialPricing_ABC_Control", "via": ["solution", "statement"]}
+{"parent": "SpatialPricing.ABC.lemma_4_paths", "child": "SpatialPricing_ABC_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI_MeasureTheory_DyadicAvoidance_CenterRouteExposure", "child": "OAI_MeasureTheory_DyadicAvoidance_OrderedRouting", "via": ["statement"]}
 {"parent": "OAI_MeasureTheory_DyadicAvoidance_CenterRouteExposure", "child": "OAI_MeasureTheory_DyadicAvoidance_PeriodicBasic", "via": ["statement"]}
 {"parent": "OAI_MeasureTheory_DyadicAvoidance_CenterRouteExposure", "child": "OAI_MeasureTheory_DyadicAvoidance_RoutingPath", "via": ["statement"]}

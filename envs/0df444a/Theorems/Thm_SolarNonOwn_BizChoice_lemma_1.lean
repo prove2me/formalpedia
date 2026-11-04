@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolarNonOwn_BizChoice_lemma_1
 -- name    : SolarNonOwn.BizChoice.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:10.750913+00:00
 -- url     : https://prove2.me/theorems/992b3b5f-8ffe-42b5-b1f9-cb344e09d8b5

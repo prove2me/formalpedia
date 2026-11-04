@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClosedLoopBass_Immediate_if_plan_bass
 -- name    : ClosedLoopBass.Immediate.if_plan_bass
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:16.046185+00:00
 -- url     : https://prove2.me/theorems/442e7c63-7c66-4b13-8d49-bfe512981f70

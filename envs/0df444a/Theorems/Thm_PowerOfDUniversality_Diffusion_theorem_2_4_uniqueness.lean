@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerOfDUniversality_Diffusion_theorem_2_4_uniqueness
 -- name    : PowerOfDUniversality.Diffusion.theorem_2_4_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:33:47.256011+00:00
 -- url     : https://prove2.me/theorems/5566d571-c35a-465a-916a-9003945ae703

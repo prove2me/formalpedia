@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMembership_PerfectInfo_lhs15_log_concave_bell
 -- name    : CryptoMembership.PerfectInfo.lhs15_log_concave_bell
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:49.164897+00:00
 -- url     : https://prove2.me/theorems/40b40bd3-8124-4404-8286-3840a5980b15

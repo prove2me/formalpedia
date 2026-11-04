@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesProphet_MultiSec_fluid_bayes_selector_regret
 -- name    : BayesProphet.MultiSec.fluid_bayes_selector_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:46:30.95724+00:00
 -- url     : https://prove2.me/theorems/9ea85720-f71c-4714-a919-3f849ad27d40

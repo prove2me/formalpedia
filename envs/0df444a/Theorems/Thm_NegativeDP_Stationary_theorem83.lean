@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_Stationary_theorem83
 -- name    : NegativeDP.Stationary.theorem83
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:54:44.630272+00:00
 -- url     : https://prove2.me/theorems/6dde30e6-545b-414c-afc0-096299128bff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_AnchoredPhases_rank_two_unpaid_head_drop_upper
 -- name    : LX.AnchoredPhases.rank_two_unpaid_head_drop_upper
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:29:48.9622+00:00
 -- url     : https://prove2.me/theorems/0104f9ec-cc27-4c0e-8206-025913c4a542

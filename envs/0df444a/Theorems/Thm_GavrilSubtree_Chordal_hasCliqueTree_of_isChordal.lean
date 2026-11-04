@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GavrilSubtree_Chordal_hasCliqueTree_of_isChordal
 -- name    : GavrilSubtree.Chordal.hasCliqueTree_of_isChordal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:54:19.318879+00:00
 -- url     : https://prove2.me/theorems/9bee74b7-82aa-436e-ada1-596fc73f9c28

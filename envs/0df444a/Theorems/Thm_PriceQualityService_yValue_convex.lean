@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_yValue_convex
 -- name    : PriceQualityService.yValue_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:42:00.825995+00:00
 -- url     : https://prove2.me/theorems/94c766b4-c373-434a-b4e1-2d481eb8f33d

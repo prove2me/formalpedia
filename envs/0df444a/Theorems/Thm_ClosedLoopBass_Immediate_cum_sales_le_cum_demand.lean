@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClosedLoopBass_Immediate_cum_sales_le_cum_demand
 -- name    : ClosedLoopBass.Immediate.cum_sales_le_cum_demand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:24.016859+00:00
 -- url     : https://prove2.me/theorems/a72503be-058b-408c-9147-969507059218

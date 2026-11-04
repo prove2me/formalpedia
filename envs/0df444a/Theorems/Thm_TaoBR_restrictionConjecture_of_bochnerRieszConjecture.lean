@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoBR_restrictionConjecture_of_bochnerRieszConjecture
 -- name    : TaoBR.restrictionConjecture_of_bochnerRieszConjecture
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T17:18:17.093983+00:00
 -- url     : https://prove2.me/theorems/15b081cc-4b63-4f97-a828-3f3efec1a99f

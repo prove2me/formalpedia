@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovEntanglementExact_marginal_identity
 -- name    : MarkovEntanglementExact.marginal_identity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:21:12.040975+00:00
 -- url     : https://prove2.me/theorems/c4a65899-52f5-4728-be43-1f7a44ffcee8

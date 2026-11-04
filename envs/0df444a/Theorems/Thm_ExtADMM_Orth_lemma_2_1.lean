@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtADMM_Orth_lemma_2_1
 -- name    : ExtADMM.Orth.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:37.6388+00:00
 -- url     : https://prove2.me/theorems/f257b3fd-56ac-4590-b03d-b60863bb135f

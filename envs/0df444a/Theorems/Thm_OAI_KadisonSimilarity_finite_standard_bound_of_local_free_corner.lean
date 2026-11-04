@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_finite_standard_bound_of_local_free_corner
 -- name    : OAI.KadisonSimilarity.finite_standard_bound_of_local_free_corner
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T08:52:53.588434+00:00
 -- url     : https://prove2.me/theorems/d752d74d-64f3-4538-b49f-f772e68e0e51

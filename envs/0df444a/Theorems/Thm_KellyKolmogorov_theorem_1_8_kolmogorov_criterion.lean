@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyKolmogorov_theorem_1_8_kolmogorov_criterion
 -- name    : KellyKolmogorov.theorem_1_8_kolmogorov_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:45:52.721675+00:00
 -- url     : https://prove2.me/theorems/423ec266-a2ca-496b-b48e-aaaaa80d505a

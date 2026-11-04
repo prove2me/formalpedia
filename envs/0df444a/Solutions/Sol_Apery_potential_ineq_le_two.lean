@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Apery.potential_ineq_le_two
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-13T00:35:27.246956+00:00
 -- url     : https://prove2.me/submissions/da2a396d-c96f-421d-98bb-afdba6bf89a5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 # The potential inequality for `t ≤ 2`: assembly of the 107 Table-2 blocks

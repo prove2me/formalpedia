@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_AnchoredPhases_rank_two_unpaid_aligned_head_fiber
 -- name    : LX.AnchoredPhases.rank_two_unpaid_aligned_head_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:28:35.969016+00:00
 -- url     : https://prove2.me/theorems/f77862f9-a409-49aa-aa79-ba3052b82ee7

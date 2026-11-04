@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesProphet_MultiSec_compensated_coupling_identity
 -- name    : BayesProphet.MultiSec.compensated_coupling_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:45:45.368762+00:00
 -- url     : https://prove2.me/theorems/d1d82014-7f0f-4e12-b2fb-a90e9f0ad290

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynRouting_ResidenceTime_p3_new_token_only_waiting
 -- name    : AtomicDynRouting.ResidenceTime.p3_new_token_only_waiting
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:07.808831+00:00
 -- url     : https://prove2.me/theorems/39c1cdee-a565-4796-bbdd-e28c41df9fd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FullyCoupledSDE_DiffApprox_lemma_4_1_mollifier
 -- name    : FullyCoupledSDE.DiffApprox.lemma_4_1_mollifier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:19:37.889697+00:00
 -- url     : https://prove2.me/theorems/3bed2d7d-4466-40d2-9a68-4ede2708e65b

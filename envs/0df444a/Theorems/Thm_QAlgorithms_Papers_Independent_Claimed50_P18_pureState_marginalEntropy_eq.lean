@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P18_pureState_marginalEntropy_eq
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P18.pureState_marginalEntropy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-02T20:15:58.789969+00:00
 -- url     : https://prove2.me/theorems/a92dcc06-8b51-461e-bf7b-e7ca98c18114

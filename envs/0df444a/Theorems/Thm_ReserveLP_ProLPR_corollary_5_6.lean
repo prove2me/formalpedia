@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReserveLP_ProLPR_corollary_5_6
 -- name    : ReserveLP.ProLPR.corollary_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:20.379432+00:00
 -- url     : https://prove2.me/theorems/b525acb0-bcf8-46b0-9060-c7ef5036dc56

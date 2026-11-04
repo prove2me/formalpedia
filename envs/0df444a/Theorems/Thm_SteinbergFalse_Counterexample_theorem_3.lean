@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinbergFalse_Counterexample_theorem_3
 -- name    : SteinbergFalse.Counterexample.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:10:13.857982+00:00
 -- url     : https://prove2.me/theorems/dc640f67-9767-4499-90d1-a71b1522837a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketInterference_FluidBias_theorem_4
 -- name    : MarketInterference.FluidBias.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:11.589991+00:00
 -- url     : https://prove2.me/theorems/4132a063-6961-4a3d-baf0-8de98508924c

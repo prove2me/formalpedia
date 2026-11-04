@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for maximal_planar_drawing_edge_lower_bound__p2m_88fa0264_c029_416b_ac57_f33f6676e9cf_a3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:48:19.909931+00:00
 -- url     : https://prove2.me/submissions/988a9a75-b39e-4ba4-a052-0a9084f1a9b8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_planar_drawing_completion_edge_count__p2m_f1fd84d6_ec35_411e_9342_50b2daa0def2_a1

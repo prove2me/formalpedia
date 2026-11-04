@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Gap_eq_259_261
 -- name    : InfoRelaxTS.Gap.eq_259_261
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:31:16.939535+00:00
 -- url     : https://prove2.me/theorems/eef99245-2a92-41ee-ace7-955cf16d807f

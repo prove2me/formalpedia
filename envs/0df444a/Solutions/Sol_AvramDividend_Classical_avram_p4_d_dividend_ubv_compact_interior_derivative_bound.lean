@@ -1,0 +1,46 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_p4_d_dividend_ubv_compact_interior_derivative_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-04T00:24:24.180986+00:00
+-- url     : https://prove2.me/submissions/2974ecc3-d6be-4c59-9789-38cea35ecfd7
+
+import Mathlib
+import Definitions.Def_AvramDividend_Classical_DividendStrategy
+import Theorems.Thm_AvramDividend_Classical_avram_wave6_chat09_ENNReal_positive_cap_interior_isOpen
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory Set AvramDividend.Classical
+open scoped NNReal ENNReal
+noncomputable section
+/-- A genuine UBV C2 candidate has bounded derivative on each interior compact band. -/
+theorem solution
+    (C : ℝ≥0∞) (w : ℝ → ℝ)
+    (hwC2 : ContDiffOn ℝ 2 w
+      {y : ℝ | 0 < y ∧ ENNReal.ofReal y < C})
+    (a b : ℝ) (hab : a ≤ b)
+    (hBand : Icc a b ⊆
+      {y : ℝ | 0 < y ∧ ENNReal.ofReal y < C}) :
+    ∃ K : ℝ, 0 ≤ K ∧
+      ∀ y ∈ Icc a b, |deriv w y| ≤ K := by
+  have hOpen : IsOpen
+      {y : ℝ | 0 < y ∧ ENNReal.ofReal y < C} :=
+    avram_wave6_chat09_ENNReal_positive_cap_interior_isOpen C
+  have hC1 : ContDiffOn ℝ 1 w
+      {y : ℝ | 0 < y ∧ ENNReal.ofReal y < C} :=
+    hwC2.of_le (by norm_num)
+  have hCont :
+      ContinuousOn (deriv w)
+        {y : ℝ | 0 < y ∧ ENNReal.ofReal y < C} :=
+    hC1.continuousOn_deriv_of_isOpen hOpen (by norm_num)
+  have hContBand : ContinuousOn (deriv w) (Icc a b) :=
+    hCont.mono hBand
+  obtain ⟨K, hK⟩ :=
+    isCompact_Icc.exists_bound_of_continuousOn hContBand
+  refine ⟨|K|, abs_nonneg K, ?_⟩
+  intro y hy
+  have hb : ‖deriv w y‖ ≤ K := hK y hy
+  have hb' : |deriv w y| ≤ K := by
+    simpa only [Real.norm_eq_abs] using hb
+  exact hb'.trans (le_abs_self K)

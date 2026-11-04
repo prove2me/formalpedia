@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpikedWishart_LastPassage_proposition_6_1
 -- name    : SpikedWishart.LastPassage.proposition_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:37:05.655537+00:00
 -- url     : https://prove2.me/theorems/b8c3944b-b6a9-4eb5-9667-0296e690c9bc

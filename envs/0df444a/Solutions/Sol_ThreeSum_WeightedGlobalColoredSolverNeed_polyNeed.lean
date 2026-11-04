@@ -1,0 +1,604 @@
+-- Prove2me | solution 1 for ThreeSum.WeightedGlobalColoredSolverNeed.polyNeed
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T22:27:55.292229+00:00
+-- url     : https://prove2.me/submissions/4031feba-8fe1-4460-9a72-7ce95d8c85e4
+
+import Definitions.Def_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_Weighted_Global_TernaryArenaAllocationResources
+import Definitions.Def_Submission_Weighted_Global_LightTernaryColorPreparationProof
+import Definitions.Def_Submission_ThreeSum_TernaryColorPreludeResources_w3sum_ac885d1
+import Definitions.Def_Submission_Weighted_Global_TernaryColoredSolverNeed
+import Theorems.Thm_Light_Ends_mono
+import Theorems.Thm_Light_Meets_mono
+import Theorems.Thm_Light_Need_Ok_mono
+import Theorems.Thm_Light_SameOn_mono
+import Theorems.Thm_Light_SameOutside_mono
+import Theorems.Thm_Light_SolvedIn_mono
+import Theorems.Thm_Light_getElem_powList
+import Theorems.Thm_Light_length_powList
+import Theorems.Thm_Light_sameFrame_cons_cons
+import Theorems.Thm_Light_sameFrame_cons_nil
+import Theorems.Thm_Light_sameFrame_nil
+import Theorems.Thm_Light_sameFrame_nil_cons
+import Theorems.Thm_Light_toNat_natCast_add_natCast
+import Theorems.Thm_P2M_ThreeSum_TernaryCoverRegularity_mapEdge_symm__4d2d267acd4d
+import Theorems.Thm_P2M_ThreeSum_TernaryCoverRegularity_reindex_symm__dc387cbb7851
+import Theorems.Thm_ThreeSum_Arithmetic_missWeight_zero
+import Theorems.Thm_ThreeSum_BlockCoefficientRows_mapRow_fin
+import Theorems.Thm_ThreeSum_BlockCoefficientRows_occurrenceIndices_fin
+import Theorems.Thm_ThreeSum_BlockEncoding_leftSubset_fromSubsets
+import Theorems.Thm_ThreeSum_BlockEncoding_rightSubset_fromSubsets
+import Theorems.Thm_ThreeSum_BlockEncoding_row_leftSubset
+import Theorems.Thm_ThreeSum_BlockEncoding_row_outputSubset
+import Theorems.Thm_ThreeSum_BlockEncoding_row_rightSubset
+import Theorems.Thm_ThreeSum_BlockIndex_coordEquiv_val
+import Theorems.Thm_ThreeSum_BlockIndex_indexSet_card
+import Theorems.Thm_ThreeSum_BlockIndex_indexSet_subset
+import Theorems.Thm_ThreeSum_BlockIndex_indexSet_union
+import Theorems.Thm_ThreeSum_BlockIndex_index_unindex
+import Theorems.Thm_ThreeSum_BlockIndex_mem_indexSet
+import Theorems.Thm_ThreeSum_BlockIndex_unindex_index
+import Theorems.Thm_ThreeSum_BlockIndexedQuery_prefixIndices_card
+import Theorems.Thm_ThreeSum_BlockMaskLayout_packedMasks_length
+import Theorems.Thm_ThreeSum_BlockMaskLayout_prefixMask_all
+import Theorems.Thm_ThreeSum_BlockMaskLayout_prefixMask_zero
+import Theorems.Thm_ThreeSum_BlockMaskLayout_rawMasks_length
+import Theorems.Thm_ThreeSum_BlockRows_flat_row
+import Theorems.Thm_ThreeSum_BlockRows_mem_flat
+import Theorems.Thm_ThreeSum_BlockRows_mem_join
+import Theorems.Thm_ThreeSum_BlockRows_mem_prefixIndices
+import Theorems.Thm_ThreeSum_BlockRows_mem_row
+import Theorems.Thm_ThreeSum_BlockRows_row_flat
+import Theorems.Thm_ThreeSum_BlockRows_row_inter
+import Theorems.Thm_ThreeSum_BlockRows_row_join
+import Theorems.Thm_ThreeSum_BlockRows_row_sdiff
+import Theorems.Thm_ThreeSum_BlockRows_row_union
+import Theorems.Thm_ThreeSum_BoxStages_mem_prefix
+import Theorems.Thm_ThreeSum_BoxStages_prefix_all
+import Theorems.Thm_ThreeSum_BoxStages_prefix_zero
+import Theorems.Thm_ThreeSum_BoxStages_stageValue_all
+import Theorems.Thm_ThreeSum_BoxStages_stageValue_zero
+import Theorems.Thm_ThreeSum_ColorBandBounds_width_le
+import Theorems.Thm_ThreeSum_ColorClassLists_value_fin
+import Theorems.Thm_ThreeSum_CyclicFold_asPolynomial_replicate_zero
+import Theorems.Thm_ThreeSum_ExplicitLayers_leaves_length
+import Theorems.Thm_ThreeSum_ExplicitLayers_missing_length
+import Theorems.Thm_ThreeSum_ExplicitLayers_valueSum_zero
+import Theorems.Thm_ThreeSum_HashFamily_hashMap_apply
+import Theorems.Thm_ThreeSum_Karatsuba_asPolynomial_coeff
+import Theorems.Thm_ThreeSum_Karatsuba_asPolynomial_minus
+import Theorems.Thm_ThreeSum_Karatsuba_asPolynomial_negate
+import Theorems.Thm_ThreeSum_Karatsuba_asPolynomial_plus
+import Theorems.Thm_ThreeSum_Karatsuba_asPolynomial_shift
+import Theorems.Thm_ThreeSum_Karatsuba_length_minus
+import Theorems.Thm_ThreeSum_Karatsuba_length_negate
+import Theorems.Thm_ThreeSum_Karatsuba_length_plus
+import Theorems.Thm_ThreeSum_Karatsuba_length_shift
+import Theorems.Thm_ThreeSum_Karatsuba_minus_getD
+import Theorems.Thm_ThreeSum_Karatsuba_plus_getD
+import Theorems.Thm_ThreeSum_LayerCounts_mem_edgeSet
+import Theorems.Thm_ThreeSum_LayerCounts_mem_vertices
+import Theorems.Thm_ThreeSum_LightBoxSum_partialSum_length
+import Theorems.Thm_ThreeSum_LightCacheEnumeration_output_length
+import Theorems.Thm_ThreeSum_LightCacheEnumeration_output_zero
+import Theorems.Thm_ThreeSum_LightClassFilter_items_zero
+import Theorems.Thm_ThreeSum_LightColoredTwoSum_flag_zero
+import Theorems.Thm_ThreeSum_LightDeletedTwoSum_flag_zero
+import Theorems.Thm_ThreeSum_LightHistogram_count_zero
+import Theorems.Thm_ThreeSum_LightIrreducibleFinder_program_length
+import Theorems.Thm_ThreeSum_LightKaratsuba_window_sub
+import Theorems.Thm_ThreeSum_LightLeafSum_partialSum_length
+import Theorems.Thm_ThreeSum_LightMomentDeterminant_eval_prodCircuits
+import Theorems.Thm_ThreeSum_LightMomentDeterminant_eval_sumCircuits
+import Theorems.Thm_ThreeSum_LightOriginalBucketFilter_bad_zero
+import Theorems.Thm_ThreeSum_LightOriginalBucketFilter_good_zero
+import Theorems.Thm_ThreeSum_LightOriginalCollisionCleanup_program_length
+import Theorems.Thm_ThreeSum_LightPolynomialCoefficient_raw_zero
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_output_length
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_output_zero
+import Theorems.Thm_ThreeSum_LightTernaryBankAssembly_program_length
+import Theorems.Thm_ThreeSum_LightTernaryBankStages_program_length
+import Theorems.Thm_ThreeSum_LightTernaryColorPrelude_program_length
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_main
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_prepared
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_program_length
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_row
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_rows
+import Theorems.Thm_ThreeSum_LightTernaryEnumeration_output_length
+import Theorems.Thm_ThreeSum_LightTernaryEnumeration_output_zero
+import Theorems.Thm_ThreeSum_LightTernaryFrozenQuery_queryTime_zero
+import Theorems.Thm_ThreeSum_LightTernaryGroupedBanks_program_length
+import Theorems.Thm_ThreeSum_LightTernaryMomentChannelStep_callArgs_cost
+import Theorems.Thm_ThreeSum_LightTernaryNearEnumeration_branchOutput_length
+import Theorems.Thm_ThreeSum_LightTernaryNearEnumeration_output_length
+import Theorems.Thm_ThreeSum_LightTernaryNearPair_program_length
+import Theorems.Thm_ThreeSum_LightTernaryNearSetup_program_length
+import Theorems.Thm_ThreeSum_LightTernaryPairedPotential_program_digit
+import Theorems.Thm_ThreeSum_LightTernaryPairedPotential_program_divide
+import Theorems.Thm_ThreeSum_LightTernaryPairedPotential_program_main
+import Theorems.Thm_ThreeSum_LightTernaryPairedPotential_program_polynomial
+import Theorems.Thm_ThreeSum_LightTernaryPairedPotential_program_powers
+import Theorems.Thm_ThreeSum_LightTernaryPairedPotential_program_row
+import Theorems.Thm_ThreeSum_LightTernaryPreparedWanted_program_length
+import Theorems.Thm_ThreeSum_LightTernaryRequesterMatrix_program_length
+import Theorems.Thm_ThreeSum_LightTernarySourceCountHost_args_length
+import Theorems.Thm_ThreeSum_LightTernarySourceCountHost_callArgs_cost
+import Theorems.Thm_ThreeSum_LightTernarySourceCountHost_libraries_length
+import Theorems.Thm_ThreeSum_LightTernarySourceCountHost_program_length
+import Theorems.Thm_ThreeSum_LightTernarySourceCountHost_sourceArgs_length
+import Theorems.Thm_ThreeSum_LightTernarySourceCountHost_source_length
+import Theorems.Thm_ThreeSum_LightTernarySourceCountHost_sources_length
+import Theorems.Thm_ThreeSum_LightTernaryWantedQuery_program_length
+import Theorems.Thm_ThreeSum_LightTernaryWantedRows_program_length
+import Theorems.Thm_ThreeSum_LightTernaryWeightedHistogram_total_zero
+import Theorems.Thm_ThreeSum_LightTernaryWeightedSum_sum_zero
+import Theorems.Thm_ThreeSum_LightWeightedBankAssembly_program_length
+import Theorems.Thm_ThreeSum_LightWeightedBankStages_program_length
+import Theorems.Thm_ThreeSum_LightWeightedCountFrontend_main
+import Theorems.Thm_ThreeSum_LightWeightedCountFrontend_prepared
+import Theorems.Thm_ThreeSum_LightWeightedCountFrontend_program_length
+import Theorems.Thm_ThreeSum_LightWeightedCountFrontend_row
+import Theorems.Thm_ThreeSum_LightWeightedCountFrontend_rows
+import Theorems.Thm_ThreeSum_LightWeightedEnumeration_output_length
+import Theorems.Thm_ThreeSum_LightWeightedEnumeration_output_zero
+import Theorems.Thm_ThreeSum_LightWeightedEnumeration_total_succ
+import Theorems.Thm_ThreeSum_LightWeightedEnumeration_total_zero
+import Theorems.Thm_ThreeSum_LightWeightedFrozenQuery_queryTime_zero
+import Theorems.Thm_ThreeSum_LightWeightedGlobalColorPreparationProof_header_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalColorPreparation_carryLibrary_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalColorPreparation_leftLibrary_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalColorPreparation_libraries_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalColorPreparation_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalColorPreparation_rightLibrary_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalDimensions_word_polynomial
+import Theorems.Thm_ThreeSum_LightWeightedGlobalGlobalPrelude_backendLibrary_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalGlobalPrelude_dimensionsLibrary_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalGlobalPrelude_libraries_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalGlobalPrelude_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGroupedBanks_program_length
+import Theorems.Thm_ThreeSum_LightWeightedNearEnumeration_branchOutput_length
+import Theorems.Thm_ThreeSum_LightWeightedNearEnumeration_output_length
+import Theorems.Thm_ThreeSum_LightWeightedNearPair_program_length
+import Theorems.Thm_ThreeSum_LightWeightedNearSetup_program_length
+import Theorems.Thm_ThreeSum_LightWeightedPreparedWanted_program_length
+import Theorems.Thm_ThreeSum_LightWeightedSourceCountHost_args_length
+import Theorems.Thm_ThreeSum_LightWeightedSourceCountHost_callArgs_cost
+import Theorems.Thm_ThreeSum_LightWeightedSourceCountHost_libraries_length
+import Theorems.Thm_ThreeSum_LightWeightedSourceCountHost_program_length
+import Theorems.Thm_ThreeSum_LightWeightedSourceCountHost_sourceArgs_length
+import Theorems.Thm_ThreeSum_LightWeightedSourceCountHost_source_length
+import Theorems.Thm_ThreeSum_LightWeightedSourceCountHost_sources_length
+import Theorems.Thm_ThreeSum_LightWeightedWantedQuery_program_length
+import Theorems.Thm_ThreeSum_LightWeightedWantedRows_program_length
+import Theorems.Thm_ThreeSum_MaskDifference_subsetMask_empty
+import Theorems.Thm_ThreeSum_MaskUnion_scanSet_all
+import Theorems.Thm_ThreeSum_MaskUnion_scanSet_zero
+import Theorems.Thm_ThreeSum_OneHotMask_extend_fin
+import Theorems.Thm_ThreeSum_OneHotMask_mem_natPositions
+import Theorems.Thm_ThreeSum_QueryCoordinates_mem_positions
+import Theorems.Thm_ThreeSum_QueryCoordinates_missingSets_length
+import Theorems.Thm_ThreeSum_QueryCoordinates_positions_length
+import Theorems.Thm_ThreeSum_QueryCoordinates_positions_toFinset
+import Theorems.Thm_ThreeSum_QueryCoordinates_positions_zero
+import Theorems.Thm_ThreeSum_QueryCoordinates_selectedPowers_length
+import Theorems.Thm_ThreeSum_QueryCoordinates_selectedPowers_sum
+import Theorems.Thm_ThreeSum_QueryCoordinates_selectedPowers_zero
+import Theorems.Thm_ThreeSum_QueryCoordinates_setLayer_length
+import Theorems.Thm_ThreeSum_QueryCoordinates_total_weights
+import Theorems.Thm_ThreeSum_ReportingHostPairSegments_leftMasks_length
+import Theorems.Thm_ThreeSum_ReportingHostPairSegments_rightMasks_length
+import Theorems.Thm_ThreeSum_ReportingHostSuffix_liftSet_card
+import Theorems.Thm_ThreeSum_ReportingHostSuffix_liftSet_empty
+import Theorems.Thm_ThreeSum_ReportingHostSuffix_mem_lowerSet
+import Theorems.Thm_ThreeSum_ReportingHostSuffix_shiftEmbedding_val
+import Theorems.Thm_ThreeSum_SignedLeaf_mem_explicitMissing
+import Theorems.Thm_ThreeSum_SourceBuckets_offset_zero
+import Theorems.Thm_ThreeSum_StageBounds_PowerBound_const
+import Theorems.Thm_ThreeSum_StageBounds_PowerBound_mul
+import Theorems.Thm_ThreeSum_SubsetAddress_isMask_zero
+import Theorems.Thm_ThreeSum_SubsetAddress_layerOffset_zero
+import Theorems.Thm_ThreeSum_SubsetAddress_natPositions_card
+import Theorems.Thm_ThreeSum_SubsetAddress_weight_zero
+import Theorems.Thm_ThreeSum_SubsetStages_mem_suffix
+import Theorems.Thm_ThreeSum_SubsetStages_stageValue_all
+import Theorems.Thm_ThreeSum_SubsetStages_stageValue_zero
+import Theorems.Thm_ThreeSum_SubsetStages_suffix_all
+import Theorems.Thm_ThreeSum_SubsetStages_suffix_zero
+import Theorems.Thm_ThreeSum_SubsetTransport_reindex_map
+import Theorems.Thm_ThreeSum_Switch_mem_candidates
+import Theorems.Thm_ThreeSum_TernaryAddresses_codes_length
+import Theorems.Thm_ThreeSum_TernaryBankEnumeration_wordList_length
+import Theorems.Thm_ThreeSum_TernaryBankEnumeration_wordList_sum
+import Theorems.Thm_ThreeSum_TernaryBankStageModel_forwardStage_zero
+import Theorems.Thm_ThreeSum_TernaryBank_mem_bank
+import Theorems.Thm_ThreeSum_TernaryBank_mem_lowerWords
+import Theorems.Thm_ThreeSum_TernaryBank_mem_nearWords
+import Theorems.Thm_ThreeSum_TernaryColorPreludeResources_depth_bound
+import Theorems.Thm_ThreeSum_TernaryColorPreludeResources_width_le
+import Theorems.Thm_ThreeSum_TernaryColorPreludeResources_word_bound
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_left_mapEdge
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_left_swapEdge
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_mapEdge_symm
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_output_mapEdge
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_reindex_symm
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_right_mapEdge
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_right_swapEdge
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_swapEdge_swapEdge
+import Theorems.Thm_ThreeSum_TernaryEnumeration_mem_digits
+import Theorems.Thm_ThreeSum_TernaryFrozenQueryStages_coords_zero
+import Theorems.Thm_ThreeSum_TernaryFrozenQueryStages_stageValue_zero
+import Theorems.Thm_ThreeSum_TernaryMomentSchedule_aggregate_append
+import Theorems.Thm_ThreeSum_TernaryMomentSchedule_aggregate_cons
+import Theorems.Thm_ThreeSum_TernaryMomentSchedule_aggregate_nil
+import Theorems.Thm_ThreeSum_TernaryNearEnumeration_codes_length
+import Theorems.Thm_ThreeSum_TernaryNearEnumeration_mem_digits
+import Theorems.Thm_ThreeSum_TernarySignedDigits_carryNat_zero
+import Theorems.Thm_ThreeSum_TernarySignedReduction_mem_carryCatalog
+import Theorems.Thm_ThreeSum_TernarySourceHostModel_mem_records
+import Theorems.Thm_ThreeSum_TernaryWantedBatchIndex_cells_length
+import Theorems.Thm_ThreeSum_TernaryWantedCanonicalPairs_rowCells_append
+import Theorems.Thm_ThreeSum_TernaryWantedCanonicalPairs_rowCells_length
+import Theorems.Thm_ThreeSum_TernaryWantedCanonicalPairs_wantedCodes_length
+import Theorems.Thm_ThreeSum_TernaryWantedCanonical_wantedCodes_length
+import Theorems.Thm_ThreeSum_TernaryWantedLittleEndian_wantedCodes_length
+import Theorems.Thm_ThreeSum_TernaryWantedRadix_mem_localBucket
+import Theorems.Thm_ThreeSum_TernaryWeightChannels_leftMoment_eval
+import Theorems.Thm_ThreeSum_TernaryWeightChannels_powerCircuit_eval
+import Theorems.Thm_ThreeSum_TernaryWeightChannels_rightMoment_eval
+import Theorems.Thm_ThreeSum_TernaryWeightChannels_scalarPower_eval
+import Theorems.Thm_ThreeSum_WantedPairs_count_zero
+import Theorems.Thm_ThreeSum_WantedPairs_pairs_zero
+import Theorems.Thm_ThreeSum_WeightedAddresses_codes_length
+import Theorems.Thm_ThreeSum_WeightedBankEnumeration_mem_bank
+import Theorems.Thm_ThreeSum_WeightedBankEnumeration_wordList_cost
+import Theorems.Thm_ThreeSum_WeightedBankEnumeration_wordList_length
+import Theorems.Thm_ThreeSum_WeightedBankStageModel_forwardStage_zero
+import Theorems.Thm_ThreeSum_WeightedEnumeration_digitCost_one
+import Theorems.Thm_ThreeSum_WeightedEnumeration_digitCost_two
+import Theorems.Thm_ThreeSum_WeightedEnumeration_digitCost_zero
+import Theorems.Thm_ThreeSum_WeightedEnumeration_mem_digits
+import Theorems.Thm_ThreeSum_WeightedFrontendResources_sourceConfig_config
+import Theorems.Thm_ThreeSum_WeightedGlobalArenaPrefixFootprints_Uniform_mono
+import Theorems.Thm_ThreeSum_WeightedGlobalArenaPrefixFootprints_carries
+import Theorems.Thm_ThreeSum_WeightedGlobalArenaPrefixFootprints_digits
+import Theorems.Thm_ThreeSum_WeightedGlobalArenaPrefixFootprints_inputN
+import Theorems.Thm_ThreeSum_WeightedGlobalArenaPrefixFootprints_inputU
+import Theorems.Thm_ThreeSum_WeightedGlobalArenaSourceSetup_setup_left_input
+import Theorems.Thm_ThreeSum_WeightedGlobalArenaSourceSetup_setup_right_input
+import Theorems.Thm_ThreeSum_WeightedGlobalBank_mem_bank
+import Theorems.Thm_ThreeSum_WeightedGlobalBank_mem_nearWords
+import Theorems.Thm_ThreeSum_WeightedGlobalFrontendResources_sourceConfig_config
+import Theorems.Thm_ThreeSum_WeightedGlobalGoodOutputCatalog_mapCodes_length
+import Theorems.Thm_ThreeSum_WeightedGlobalGoodOutputCatalog_mem_records
+import Theorems.Thm_ThreeSum_WeightedGlobalGoodOutputCatalog_raws_length
+import Theorems.Thm_ThreeSum_WeightedGlobalGoodOutputCatalog_wordCodes_length
+import Theorems.Thm_ThreeSum_WeightedGlobalNativePairAccess_mem_pair
+import Theorems.Thm_ThreeSum_WeightedNearBankEnumeration_mem_nearWords
+import Theorems.Thm_ThreeSum_WeightedNearEnumeration_codes_length
+import Theorems.Thm_ThreeSum_WeightedNearEnumeration_mem_digits
+import Theorems.Thm_ThreeSum_WeightedScore_corrections_zero
+import Theorems.Thm_ThreeSum_WeightedScore_remaining_zero
+attribute [local simp] Light.getElem_powList
+attribute [local simp] Light.length_powList
+attribute [local simp] Light.sameFrame_cons_cons
+attribute [local simp] Light.sameFrame_cons_nil
+attribute [local simp] Light.sameFrame_nil
+attribute [local simp] Light.sameFrame_nil_cons
+attribute [local simp] Light.toNat_natCast_add_natCast
+attribute [local simp] P2M_ThreeSum_TernaryCoverRegularity_mapEdge_symm__4d2d267acd4d
+attribute [local simp] P2M_ThreeSum_TernaryCoverRegularity_reindex_symm__dc387cbb7851
+attribute [local simp] ThreeSum.Arithmetic.missWeight_zero
+attribute [local simp] ThreeSum.BlockCoefficientRows.mapRow_fin
+attribute [local simp] ThreeSum.BlockCoefficientRows.occurrenceIndices_fin
+attribute [local simp] ThreeSum.BlockEncoding.leftSubset_fromSubsets
+attribute [local simp] ThreeSum.BlockEncoding.rightSubset_fromSubsets
+attribute [local simp] ThreeSum.BlockEncoding.row_leftSubset
+attribute [local simp] ThreeSum.BlockEncoding.row_outputSubset
+attribute [local simp] ThreeSum.BlockEncoding.row_rightSubset
+attribute [local simp] ThreeSum.BlockIndex.coordEquiv_val
+attribute [local simp] ThreeSum.BlockIndex.indexSet_card
+attribute [local simp] ThreeSum.BlockIndex.indexSet_subset
+attribute [local simp] ThreeSum.BlockIndex.indexSet_union
+attribute [local simp] ThreeSum.BlockIndex.index_unindex
+attribute [local simp] ThreeSum.BlockIndex.mem_indexSet
+attribute [local simp] ThreeSum.BlockIndex.unindex_index
+attribute [local simp] ThreeSum.BlockIndexedQuery.prefixIndices_card
+attribute [local simp] ThreeSum.BlockMaskLayout.packedMasks_length
+attribute [local simp] ThreeSum.BlockMaskLayout.prefixMask_all
+attribute [local simp] ThreeSum.BlockMaskLayout.prefixMask_zero
+attribute [local simp] ThreeSum.BlockMaskLayout.rawMasks_length
+attribute [local simp] ThreeSum.BlockRows.flat_row
+attribute [local simp] ThreeSum.BlockRows.mem_flat
+attribute [local simp] ThreeSum.BlockRows.mem_join
+attribute [local simp] ThreeSum.BlockRows.mem_prefixIndices
+attribute [local simp] ThreeSum.BlockRows.mem_row
+attribute [local simp] ThreeSum.BlockRows.row_flat
+attribute [local simp] ThreeSum.BlockRows.row_inter
+attribute [local simp] ThreeSum.BlockRows.row_join
+attribute [local simp] ThreeSum.BlockRows.row_sdiff
+attribute [local simp] ThreeSum.BlockRows.row_union
+attribute [local simp] ThreeSum.BoxStages.mem_prefix
+attribute [local simp] ThreeSum.BoxStages.prefix_all
+attribute [local simp] ThreeSum.BoxStages.prefix_zero
+attribute [local simp] ThreeSum.BoxStages.stageValue_all
+attribute [local simp] ThreeSum.BoxStages.stageValue_zero
+attribute [local simp] ThreeSum.ColorClassLists.value_fin
+attribute [local simp] ThreeSum.CyclicFold.asPolynomial_replicate_zero
+attribute [local simp] ThreeSum.ExplicitLayers.leaves_length
+attribute [local simp] ThreeSum.ExplicitLayers.missing_length
+attribute [local simp] ThreeSum.ExplicitLayers.valueSum_zero
+attribute [local simp] ThreeSum.HashFamily.hashMap_apply
+attribute [local simp] ThreeSum.Karatsuba.asPolynomial_coeff
+attribute [local simp] ThreeSum.Karatsuba.asPolynomial_minus
+attribute [local simp] ThreeSum.Karatsuba.asPolynomial_negate
+attribute [local simp] ThreeSum.Karatsuba.asPolynomial_plus
+attribute [local simp] ThreeSum.Karatsuba.asPolynomial_shift
+attribute [local simp] ThreeSum.Karatsuba.length_minus
+attribute [local simp] ThreeSum.Karatsuba.length_negate
+attribute [local simp] ThreeSum.Karatsuba.length_plus
+attribute [local simp] ThreeSum.Karatsuba.length_shift
+attribute [local simp] ThreeSum.Karatsuba.minus_getD
+attribute [local simp] ThreeSum.Karatsuba.plus_getD
+attribute [local simp] ThreeSum.LayerCounts.mem_edgeSet
+attribute [local simp] ThreeSum.LayerCounts.mem_vertices
+attribute [local simp] ThreeSum.LightBoxSum.partialSum_length
+attribute [local simp] ThreeSum.LightCacheEnumeration.output_length
+attribute [local simp] ThreeSum.LightCacheEnumeration.output_zero
+attribute [local simp] ThreeSum.LightClassFilter.items_zero
+attribute [local simp] ThreeSum.LightColoredTwoSum.flag_zero
+attribute [local simp] ThreeSum.LightDeletedTwoSum.flag_zero
+attribute [local simp] ThreeSum.LightHistogram.count_zero
+attribute [local simp] ThreeSum.LightIrreducibleFinder.program_length
+attribute [local simp] ThreeSum.LightKaratsuba.window_sub
+attribute [local simp] ThreeSum.LightLeafSum.partialSum_length
+attribute [local simp] ThreeSum.LightMomentDeterminant.eval_prodCircuits
+attribute [local simp] ThreeSum.LightMomentDeterminant.eval_sumCircuits
+attribute [local simp] ThreeSum.LightOriginalBucketFilter.bad_zero
+attribute [local simp] ThreeSum.LightOriginalBucketFilter.good_zero
+attribute [local simp] ThreeSum.LightOriginalCollisionCleanup.program_length
+attribute [local simp] ThreeSum.LightPolynomialCoefficient.raw_zero
+attribute [local simp] ThreeSum.LightSubsetEnumeration.output_length
+attribute [local simp] ThreeSum.LightSubsetEnumeration.output_zero
+attribute [local simp] ThreeSum.LightTernaryBankAssembly.program_length
+attribute [local simp] ThreeSum.LightTernaryBankStages.program_length
+attribute [local simp] ThreeSum.LightTernaryColorPrelude.program_length
+attribute [local simp] ThreeSum.LightTernaryCountFrontend.main
+attribute [local simp] ThreeSum.LightTernaryCountFrontend.prepared
+attribute [local simp] ThreeSum.LightTernaryCountFrontend.program_length
+attribute [local simp] ThreeSum.LightTernaryCountFrontend.row
+attribute [local simp] ThreeSum.LightTernaryCountFrontend.rows
+attribute [local simp] ThreeSum.LightTernaryEnumeration.output_length
+attribute [local simp] ThreeSum.LightTernaryEnumeration.output_zero
+attribute [local simp] ThreeSum.LightTernaryFrozenQuery.queryTime_zero
+attribute [local simp] ThreeSum.LightTernaryGroupedBanks.program_length
+attribute [local simp] ThreeSum.LightTernaryMomentChannelStep.callArgs_cost
+attribute [local simp] ThreeSum.LightTernaryNearEnumeration.branchOutput_length
+attribute [local simp] ThreeSum.LightTernaryNearEnumeration.output_length
+attribute [local simp] ThreeSum.LightTernaryNearPair.program_length
+attribute [local simp] ThreeSum.LightTernaryNearSetup.program_length
+attribute [local simp] ThreeSum.LightTernaryPairedPotential.program_digit
+attribute [local simp] ThreeSum.LightTernaryPairedPotential.program_divide
+attribute [local simp] ThreeSum.LightTernaryPairedPotential.program_main
+attribute [local simp] ThreeSum.LightTernaryPairedPotential.program_polynomial
+attribute [local simp] ThreeSum.LightTernaryPairedPotential.program_powers
+attribute [local simp] ThreeSum.LightTernaryPairedPotential.program_row
+attribute [local simp] ThreeSum.LightTernaryPreparedWanted.program_length
+attribute [local simp] ThreeSum.LightTernaryRequesterMatrix.program_length
+attribute [local simp] ThreeSum.LightTernarySourceCountHost.args_length
+attribute [local simp] ThreeSum.LightTernarySourceCountHost.callArgs_cost
+attribute [local simp] ThreeSum.LightTernarySourceCountHost.libraries_length
+attribute [local simp] ThreeSum.LightTernarySourceCountHost.program_length
+attribute [local simp] ThreeSum.LightTernarySourceCountHost.sourceArgs_length
+attribute [local simp] ThreeSum.LightTernarySourceCountHost.source_length
+attribute [local simp] ThreeSum.LightTernarySourceCountHost.sources_length
+attribute [local simp] ThreeSum.LightTernaryWantedQuery.program_length
+attribute [local simp] ThreeSum.LightTernaryWantedRows.program_length
+attribute [local simp] ThreeSum.LightTernaryWeightedHistogram.total_zero
+attribute [local simp] ThreeSum.LightTernaryWeightedSum.sum_zero
+attribute [local simp] ThreeSum.LightWeightedBankAssembly.program_length
+attribute [local simp] ThreeSum.LightWeightedBankStages.program_length
+attribute [local simp] ThreeSum.LightWeightedCountFrontend.main
+attribute [local simp] ThreeSum.LightWeightedCountFrontend.prepared
+attribute [local simp] ThreeSum.LightWeightedCountFrontend.program_length
+attribute [local simp] ThreeSum.LightWeightedCountFrontend.row
+attribute [local simp] ThreeSum.LightWeightedCountFrontend.rows
+attribute [local simp] ThreeSum.LightWeightedEnumeration.output_length
+attribute [local simp] ThreeSum.LightWeightedEnumeration.output_zero
+attribute [local simp] ThreeSum.LightWeightedEnumeration.total_succ
+attribute [local simp] ThreeSum.LightWeightedEnumeration.total_zero
+attribute [local simp] ThreeSum.LightWeightedFrozenQuery.queryTime_zero
+attribute [local simp] ThreeSum.LightWeightedGlobalColorPreparation.carryLibrary_length
+attribute [local simp] ThreeSum.LightWeightedGlobalColorPreparation.leftLibrary_length
+attribute [local simp] ThreeSum.LightWeightedGlobalColorPreparation.libraries_length
+attribute [local simp] ThreeSum.LightWeightedGlobalColorPreparation.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalColorPreparation.rightLibrary_length
+attribute [local simp] ThreeSum.LightWeightedGlobalColorPreparationProof.header_length
+attribute [local simp] ThreeSum.LightWeightedGlobalGlobalPrelude.backendLibrary_length
+attribute [local simp] ThreeSum.LightWeightedGlobalGlobalPrelude.dimensionsLibrary_length
+attribute [local simp] ThreeSum.LightWeightedGlobalGlobalPrelude.libraries_length
+attribute [local simp] ThreeSum.LightWeightedGlobalGlobalPrelude.program_length
+attribute [local simp] ThreeSum.LightWeightedGroupedBanks.program_length
+attribute [local simp] ThreeSum.LightWeightedNearEnumeration.branchOutput_length
+attribute [local simp] ThreeSum.LightWeightedNearEnumeration.output_length
+attribute [local simp] ThreeSum.LightWeightedNearPair.program_length
+attribute [local simp] ThreeSum.LightWeightedNearSetup.program_length
+attribute [local simp] ThreeSum.LightWeightedPreparedWanted.program_length
+attribute [local simp] ThreeSum.LightWeightedSourceCountHost.args_length
+attribute [local simp] ThreeSum.LightWeightedSourceCountHost.callArgs_cost
+attribute [local simp] ThreeSum.LightWeightedSourceCountHost.libraries_length
+attribute [local simp] ThreeSum.LightWeightedSourceCountHost.program_length
+attribute [local simp] ThreeSum.LightWeightedSourceCountHost.sourceArgs_length
+attribute [local simp] ThreeSum.LightWeightedSourceCountHost.source_length
+attribute [local simp] ThreeSum.LightWeightedSourceCountHost.sources_length
+attribute [local simp] ThreeSum.LightWeightedWantedQuery.program_length
+attribute [local simp] ThreeSum.LightWeightedWantedRows.program_length
+attribute [local simp] ThreeSum.MaskDifference.subsetMask_empty
+attribute [local simp] ThreeSum.MaskUnion.scanSet_all
+attribute [local simp] ThreeSum.MaskUnion.scanSet_zero
+attribute [local simp] ThreeSum.OneHotMask.extend_fin
+attribute [local simp] ThreeSum.OneHotMask.mem_natPositions
+attribute [local simp] ThreeSum.QueryCoordinates.mem_positions
+attribute [local simp] ThreeSum.QueryCoordinates.missingSets_length
+attribute [local simp] ThreeSum.QueryCoordinates.positions_length
+attribute [local simp] ThreeSum.QueryCoordinates.positions_toFinset
+attribute [local simp] ThreeSum.QueryCoordinates.positions_zero
+attribute [local simp] ThreeSum.QueryCoordinates.selectedPowers_length
+attribute [local simp] ThreeSum.QueryCoordinates.selectedPowers_sum
+attribute [local simp] ThreeSum.QueryCoordinates.selectedPowers_zero
+attribute [local simp] ThreeSum.QueryCoordinates.setLayer_length
+attribute [local simp] ThreeSum.QueryCoordinates.total_weights
+attribute [local simp] ThreeSum.ReportingHostPairSegments.leftMasks_length
+attribute [local simp] ThreeSum.ReportingHostPairSegments.rightMasks_length
+attribute [local simp] ThreeSum.ReportingHostSuffix.liftSet_card
+attribute [local simp] ThreeSum.ReportingHostSuffix.liftSet_empty
+attribute [local simp] ThreeSum.ReportingHostSuffix.mem_lowerSet
+attribute [local simp] ThreeSum.ReportingHostSuffix.shiftEmbedding_val
+attribute [local simp] ThreeSum.SignedLeaf.mem_explicitMissing
+attribute [local simp] ThreeSum.SourceBuckets.offset_zero
+attribute [local simp] ThreeSum.SubsetAddress.isMask_zero
+attribute [local simp] ThreeSum.SubsetAddress.layerOffset_zero
+attribute [local simp] ThreeSum.SubsetAddress.natPositions_card
+attribute [local simp] ThreeSum.SubsetAddress.weight_zero
+attribute [local simp] ThreeSum.SubsetStages.mem_suffix
+attribute [local simp] ThreeSum.SubsetStages.stageValue_all
+attribute [local simp] ThreeSum.SubsetStages.stageValue_zero
+attribute [local simp] ThreeSum.SubsetStages.suffix_all
+attribute [local simp] ThreeSum.SubsetStages.suffix_zero
+attribute [local simp] ThreeSum.SubsetTransport.reindex_map
+attribute [local simp] ThreeSum.Switch.mem_candidates
+attribute [local simp] ThreeSum.TernaryAddresses.codes_length
+attribute [local simp] ThreeSum.TernaryBank.mem_bank
+attribute [local simp] ThreeSum.TernaryBank.mem_lowerWords
+attribute [local simp] ThreeSum.TernaryBank.mem_nearWords
+attribute [local simp] ThreeSum.TernaryBankEnumeration.wordList_length
+attribute [local simp] ThreeSum.TernaryBankEnumeration.wordList_sum
+attribute [local simp] ThreeSum.TernaryBankStageModel.forwardStage_zero
+attribute [local simp] ThreeSum.TernaryCoverRegularity.left_mapEdge
+attribute [local simp] ThreeSum.TernaryCoverRegularity.left_swapEdge
+attribute [local simp] ThreeSum.TernaryCoverRegularity.mapEdge_symm
+attribute [local simp] ThreeSum.TernaryCoverRegularity.output_mapEdge
+attribute [local simp] ThreeSum.TernaryCoverRegularity.reindex_symm
+attribute [local simp] ThreeSum.TernaryCoverRegularity.right_mapEdge
+attribute [local simp] ThreeSum.TernaryCoverRegularity.right_swapEdge
+attribute [local simp] ThreeSum.TernaryCoverRegularity.swapEdge_swapEdge
+attribute [local simp] ThreeSum.TernaryEnumeration.mem_digits
+attribute [local simp] ThreeSum.TernaryFrozenQueryStages.coords_zero
+attribute [local simp] ThreeSum.TernaryFrozenQueryStages.stageValue_zero
+attribute [local simp] ThreeSum.TernaryMomentSchedule.aggregate_append
+attribute [local simp] ThreeSum.TernaryMomentSchedule.aggregate_cons
+attribute [local simp] ThreeSum.TernaryMomentSchedule.aggregate_nil
+attribute [local simp] ThreeSum.TernaryNearEnumeration.codes_length
+attribute [local simp] ThreeSum.TernaryNearEnumeration.mem_digits
+attribute [local simp] ThreeSum.TernarySignedDigits.carryNat_zero
+attribute [local simp] ThreeSum.TernarySignedReduction.mem_carryCatalog
+attribute [local simp] ThreeSum.TernarySourceHostModel.mem_records
+attribute [local simp] ThreeSum.TernaryWantedBatchIndex.cells_length
+attribute [local simp] ThreeSum.TernaryWantedCanonical.wantedCodes_length
+attribute [local simp] ThreeSum.TernaryWantedCanonicalPairs.rowCells_append
+attribute [local simp] ThreeSum.TernaryWantedCanonicalPairs.rowCells_length
+attribute [local simp] ThreeSum.TernaryWantedCanonicalPairs.wantedCodes_length
+attribute [local simp] ThreeSum.TernaryWantedLittleEndian.wantedCodes_length
+attribute [local simp] ThreeSum.TernaryWantedRadix.mem_localBucket
+attribute [local simp] ThreeSum.TernaryWeightChannels.leftMoment_eval
+attribute [local simp] ThreeSum.TernaryWeightChannels.powerCircuit_eval
+attribute [local simp] ThreeSum.TernaryWeightChannels.rightMoment_eval
+attribute [local simp] ThreeSum.TernaryWeightChannels.scalarPower_eval
+attribute [local simp] ThreeSum.WantedPairs.count_zero
+attribute [local simp] ThreeSum.WantedPairs.pairs_zero
+attribute [local simp] ThreeSum.WeightedAddresses.codes_length
+attribute [local simp] ThreeSum.WeightedBankEnumeration.mem_bank
+attribute [local simp] ThreeSum.WeightedBankEnumeration.wordList_cost
+attribute [local simp] ThreeSum.WeightedBankEnumeration.wordList_length
+attribute [local simp] ThreeSum.WeightedBankStageModel.forwardStage_zero
+attribute [local simp] ThreeSum.WeightedEnumeration.digitCost_one
+attribute [local simp] ThreeSum.WeightedEnumeration.digitCost_two
+attribute [local simp] ThreeSum.WeightedEnumeration.digitCost_zero
+attribute [local simp] ThreeSum.WeightedEnumeration.mem_digits
+attribute [local simp] ThreeSum.WeightedFrontendResources.sourceConfig_config
+attribute [local simp] ThreeSum.WeightedGlobalArenaSourceSetup.setup_left_input
+attribute [local simp] ThreeSum.WeightedGlobalArenaSourceSetup.setup_right_input
+attribute [local simp] ThreeSum.WeightedGlobalBank.mem_bank
+attribute [local simp] ThreeSum.WeightedGlobalBank.mem_nearWords
+attribute [local simp] ThreeSum.WeightedGlobalFrontendResources.sourceConfig_config
+attribute [local simp] ThreeSum.WeightedGlobalGoodOutputCatalog.mapCodes_length
+attribute [local simp] ThreeSum.WeightedGlobalGoodOutputCatalog.mem_records
+attribute [local simp] ThreeSum.WeightedGlobalGoodOutputCatalog.raws_length
+attribute [local simp] ThreeSum.WeightedGlobalGoodOutputCatalog.wordCodes_length
+attribute [local simp] ThreeSum.WeightedGlobalNativePairAccess.mem_pair
+attribute [local simp] ThreeSum.WeightedNearBankEnumeration.mem_nearWords
+attribute [local simp] ThreeSum.WeightedNearEnumeration.codes_length
+attribute [local simp] ThreeSum.WeightedNearEnumeration.mem_digits
+attribute [local simp] ThreeSum.WeightedScore.corrections_zero
+attribute [local simp] ThreeSum.WeightedScore.remaining_zero
+
+
+noncomputable section
+namespace ThreeSum.WeightedGlobalColoredSolverNeed
+open Light WeightedGlobalArenaLayout WeightedGlobalArenaAllocation WeightedGlobalArenaPrefixFootprints
+open WeightedGlobalCoverGoodMaps WeightedGlobalLocalParameters LightWeightedGlobalColorPreparation
+set_option maxHeartbeats 500000
+set_option maxRecDepth 24000
+variable {p m F : ℕ} [Fact p.Prime]
+private theorem poly_of_uniform (M : ℕ) (f : ℕ→ℕ→Need)
+    (h : Uniform M (fun n U _=>(f n U).word+(f n U).cells+(f n U).depth)) : PolyNeed f := by
+  unfold Uniform at h
+  obtain ⟨D,E,h⟩ := h
+  refine ⟨Nat.size D,E,fun n U=>?_⟩
+  have hd := (Nat.lt_size_self D).le
+  have hp := Nat.pow_le_pow_left (show n+U+1≤(n+1)*(U+1) by nlinarith) E
+  have hh := (h n U 0 (Nat.zero_le _)).trans (Nat.mul_le_mul hd hp)
+  have hpoly : polyBound (Nat.size D) E [n,U]=2^(Nat.size D)*((n+1)*(U+1))^E := by
+    simp [polyBound]
+  rw [←hpoly] at hh
+  dsimp only at hh
+  exact ⟨by omega,by omega,by omega⟩
+end ThreeSum.WeightedGlobalColoredSolverNeed
+set_option autoImplicit false
+noncomputable section
+open ThreeSum ThreeSum.WeightedGlobalColoredSolverNeed
+open Light WeightedGlobalArenaLayout WeightedGlobalArenaAllocation WeightedGlobalArenaPrefixFootprints
+open WeightedGlobalCoverGoodMaps WeightedGlobalLocalParameters LightWeightedGlobalColorPreparation
+set_option maxHeartbeats 500000
+set_option maxRecDepth 24000
+variable {p m F : ℕ} [Fact p.Prime]
+namespace ThreeSum.WeightedGlobalColoredSolverNeed
+theorem _root_.solution {maps : Fin F→Weight m p} {τ cap M b K H drift scale : ℕ}
+    (Alloc : Allocation maps τ cap M b K H drift scale) (hM : 1<M) (hb : 1<b) :
+    PolyNeed (need Alloc) := by
+  have hn := inputN M
+  have hU := inputU M
+  have hJ := digits hM hb
+  have hq := carries hM hb
+  have hc : Uniform M (fun n U _=>capacity Alloc.D Alloc.E (n+U)) := by
+    dsimp only [capacity]
+    exact (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M (256 * (Alloc.D + 1))) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.pow (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add hn hU) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 1)) Alloc.E))
+  have hprep : Uniform M (fun n U _=>preparationCells M b n U) := by
+    dsimp only [preparationCells]
+    exact (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 1000) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.pow (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add hn hU) hJ) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 3)) 2)) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add hq (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 1)))
+  have hcol : Uniform M (fun n U _=>LightTernaryColorPrelude.word n U) := by
+    refine (((Uniform.const M 1000).mul (hn.succ)).mul (hU.succ)).mono ?_
+    intro n U j hj
+    exact TernaryColorPreludeResources.word_bound n U
+  have hmat : Uniform M (fun n U _=>LightTernarySignedMatrix.word U b (LightWeightedGlobalDimensions.J M b n U)) := by
+    dsimp only [LightTernarySignedMatrix.word,LightTernarySignedRow.word,LightOutputDecodeDigits.word]
+    exact (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 4) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 3) hU)) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M (4 * b))) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 4) hJ)) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 32))
+  have hcarry : Uniform M (fun n U _=>LightTernaryCarryCodes.word (LightWeightedGlobalDimensions.J M b n U)
+      (2^(LightWeightedGlobalDimensions.J M b n U))) := by
+    dsimp only [LightTernaryCarryCodes.word,LightOutputDecodeDigits.word]
+    exact (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 4) hq) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M (4 * 2))) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 4) hJ)) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 32)) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 100))
+  have hdim : Uniform M (fun n U _=>LightWeightedGlobalDimensions.word M b p K n U) := by
+    have hh : Uniform M (fun n U _=>LightWeightedGlobalDimensions.coefficient M b p K*(n+1)^2*(U+1)) := by exact (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M (ThreeSum.LightWeightedGlobalDimensions.coefficient M b p K)) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.pow (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add hn (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 1)) 2)) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add hU (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 1)))
+    apply hh.mono
+    intro n U j hj
+    exact LightWeightedGlobalDimensions.word_polynomial hM hb n U
+  have hdepth : Uniform M (fun n _ _=>LightTernaryColorPrelude.depth n) := by
+    refine (((Uniform.const M 3).mul hn).add (Uniform.const M 20)).mono ?_
+    intro n U j hj
+    have hd := TernaryColorPreludeResources.depth_bound n
+    have hw := TernaryColorPreludeResources.width_le n
+    omega
+  apply poly_of_uniform M
+  dsimp only [need,WeightedGlobalArenaAllocationResources.need]
+  exact (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add hcol hmat) hcarry) hdim) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 1000) hc)) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 100)) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add hprep (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.mul (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M ThreeSum.WeightedGlobalArenaLayout.slots) hc))) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.add hc (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 200)) hdepth) (ThreeSum.WeightedGlobalArenaPrefixFootprints.Uniform.const M 1000)))
+end ThreeSum.WeightedGlobalColoredSolverNeed

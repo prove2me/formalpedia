@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_can_be_strictly_augmented_when_below_bound__p2m_300e589a_9958_4177_9a18_5a010b7286b4_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:03:32.16118+00:00
 -- url     : https://prove2.me/submissions/dd63c053-cc69-4d0b-8423-82d9cc596f7c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_has_maximal_supergraph__p2m_17cdf377_ddf7_4ef9_90d4_89407a0a5949_a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_TailConv_theorem3_tail_inf_convolution
 -- name    : TailRiskSharing.TailConv.theorem3_tail_inf_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:25.69059+00:00
 -- url     : https://prove2.me/theorems/722ff83c-2240-461f-a906-b15e2be62562

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBDisclosure_Stage2_uniform_eq_thresholds
 -- name    : BBDisclosure.Stage2.uniform_eq_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:32:46.586582+00:00
 -- url     : https://prove2.me/theorems/09e27ef7-0304-46bb-945d-21c70d33b518

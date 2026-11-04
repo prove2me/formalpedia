@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_continuousAt_xiCoordC
 -- name    : FiniteEnergyPlane.continuousAt_xiCoordC
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-02T21:14:07.667088+00:00
 -- url     : https://prove2.me/theorems/3525c527-a4a7-49b8-9ec9-cdcfeeb8d2cb

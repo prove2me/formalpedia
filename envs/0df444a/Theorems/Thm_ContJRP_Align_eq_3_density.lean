@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_eq_3_density
 -- name    : ContJRP.Align.eq_3_density
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:35.142212+00:00
 -- url     : https://prove2.me/theorems/88a9f066-07c7-4950-8c82-7b96a087f7c7

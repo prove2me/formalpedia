@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_hasWindInfAt_hasEigenWind
 -- name    : FiniteEnergyPlane.exists_hasWindInfAt_hasEigenWind
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:39:10.909475+00:00
 -- url     : https://prove2.me/theorems/e03d53a9-e985-42e3-9b48-678cde398234

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerOfDUniversality_Fluid_proposition_3_1
 -- name    : PowerOfDUniversality.Fluid.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:39:56.244394+00:00
 -- url     : https://prove2.me/theorems/9bde62d2-aa9f-43b8-a419-2d39da67a81e

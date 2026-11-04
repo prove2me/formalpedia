@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_theorem4_1_supervised_regret
 -- name    : CorruptRobustRL.Supervised.theorem4_1_supervised_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:27.937457+00:00
 -- url     : https://prove2.me/theorems/796f3828-8411-40f5-afe2-8231998882a8

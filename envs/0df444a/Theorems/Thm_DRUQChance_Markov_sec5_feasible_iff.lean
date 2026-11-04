@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRUQChance_Markov_sec5_feasible_iff
 -- name    : DRUQChance.Markov.sec5_feasible_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T18:48:59.013809+00:00
 -- url     : https://prove2.me/theorems/beedf888-3474-47ac-a881-a4c29b1769df

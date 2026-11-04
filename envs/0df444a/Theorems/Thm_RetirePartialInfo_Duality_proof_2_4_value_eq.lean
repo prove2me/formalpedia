@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetirePartialInfo_Duality_proof_2_4_value_eq
 -- name    : RetirePartialInfo.Duality.proof_2_4_value_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:53:00.931841+00:00
 -- url     : https://prove2.me/theorems/ce4b6561-a3d6-4ef6-b7fa-bab9a4ec97ac

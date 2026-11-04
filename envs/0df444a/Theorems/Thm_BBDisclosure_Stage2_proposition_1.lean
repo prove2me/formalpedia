@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBDisclosure_Stage2_proposition_1
 -- name    : BBDisclosure.Stage2.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:32:50.444993+00:00
 -- url     : https://prove2.me/theorems/31afe13d-2425-475d-8688-2ea595b6bbc3

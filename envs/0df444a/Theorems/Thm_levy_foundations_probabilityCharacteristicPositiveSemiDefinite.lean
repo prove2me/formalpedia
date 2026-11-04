@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_probabilityCharacteristicPositiveSemiDefinite
 -- name    : levy_foundations_probabilityCharacteristicPositiveSemiDefinite
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:11:07.64799+00:00
 -- url     : https://prove2.me/theorems/a01d2caf-def5-4619-ad72-cbaaa767930f

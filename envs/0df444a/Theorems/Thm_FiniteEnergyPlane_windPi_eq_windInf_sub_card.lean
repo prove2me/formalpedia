@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_windPi_eq_windInf_sub_card
 -- name    : FiniteEnergyPlane.windPi_eq_windInf_sub_card
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:39:23.005197+00:00
 -- url     : https://prove2.me/theorems/720d7b95-35b6-4e71-b5c4-37bd135bd00e

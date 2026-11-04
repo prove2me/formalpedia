@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_claim_3_4_uncrossing_term
 -- name    : ContJRP.Align.claim_3_4_uncrossing_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:29.030278+00:00
 -- url     : https://prove2.me/theorems/c5b7ec78-3cc8-4055-9b2f-065c28408439

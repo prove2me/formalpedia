@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_similarityTheorem
 -- name    : OAI.KadisonSimilarity.similarityTheorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:49.942524+00:00
 -- url     : https://prove2.me/theorems/8b750faf-2617-4cd7-a388-600466e9f0c2

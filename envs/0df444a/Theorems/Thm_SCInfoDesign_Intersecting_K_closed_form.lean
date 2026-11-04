@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Intersecting_K_closed_form
 -- name    : SCInfoDesign.Intersecting.K_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:57.325876+00:00
 -- url     : https://prove2.me/theorems/ce0f41cd-c867-4eec-af12-f45625244761

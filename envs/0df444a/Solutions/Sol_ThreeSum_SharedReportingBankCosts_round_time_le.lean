@@ -1,0 +1,145 @@
+-- Prove2me | solution 1 for ThreeSum.SharedReportingBankCosts.round_time_le
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T15:39:47.404076+00:00
+-- url     : https://prove2.me/submissions/01b71fa0-b303-475d-8a9e-a24359e87113
+
+import Definitions.Def_Submission_ThreeSum_LightSharedReportingHost
+import Definitions.Def_Submission_ThreeSum_LightSwitchCosts
+import Definitions.Def_Submission_ThreeSum_SharedReportingBankCosts
+import Theorems.Thm_ThreeSum_SharedReportingBankCosts_residual_eq
+import Theorems.Thm_ThreeSum_SharedReportingBankCosts_cut_eq
+import Theorems.Thm_ThreeSum_CostLedger_prefixBoxes_pos
+import Theorems.Thm_ThreeSum_LightBalancedOffset_time_bound
+import Theorems.Thm_ThreeSum_LightBandEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightBandPartition_time_bound
+import Theorems.Thm_ThreeSum_LightBlockChildrenIndexed_time_bound
+import Theorems.Thm_ThreeSum_LightBlockChildren_time_bound
+import Theorems.Thm_ThreeSum_LightBlockCoefficients_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_62675b0b68a02f51
+import Definitions.Def_WeightedCache3SUM_Alias_8e086529b85f69a3
+import Theorems.Thm_ThreeSum_LightBlockSourceHashes_time_bound
+import Theorems.Thm_ThreeSum_LightBlockSourceRetainedProgram_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_395153661a990775
+import Theorems.Thm_ThreeSum_LightBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightCanonicalBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetAddress_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_432686f9c1a6224e
+import Definitions.Def_WeightedCache3SUM_Alias_f1b1ba0c94539568
+import Theorems.Thm_ThreeSum_LightDownsetSize_time_bound
+import Theorems.Thm_ThreeSum_LightExplicitSum_time_bound
+import Theorems.Thm_ThreeSum_LightKaratsuba_time_bound
+import Theorems.Thm_ThreeSum_LightLeafSum_time_bound
+import Theorems.Thm_ThreeSum_LightLocalCoverRow_time_bound
+import Theorems.Thm_ThreeSum_LightLocalKeyRow_time_bound
+import Theorems.Thm_ThreeSum_LightLocalKeys_time_bound
+import Theorems.Thm_ThreeSum_LightMaskBits_time_bound
+import Theorems.Thm_ThreeSum_LightMaskHashes_time_bound
+import Theorems.Thm_ThreeSum_LightMaskMinimum_time_bound
+import Theorems.Thm_ThreeSum_LightMaskUnion_time_bound
+import Theorems.Thm_ThreeSum_LightNormalize_time_bound
+import Theorems.Thm_ThreeSum_LightOutputDecodeDivide_time_le_budget
+import Theorems.Thm_ThreeSum_LightPairFlags_time_bound
+import Theorems.Thm_ThreeSum_LightQueryBox_time_bound
+import Theorems.Thm_ThreeSum_LightQueryEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightQueryWeights_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_a98211a6e8223f5f
+import Theorems.Thm_ThreeSum_LightRadixRows_time_bound
+import Theorems.Thm_ThreeSum_LightReportingCatalogBatch_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_d9f2c07378eda243
+import Theorems.Thm_ThreeSum_LightReportingCatalogLevel_time_bound
+import Theorems.Thm_ThreeSum_LightReportingCatalogQuery_time_bound
+import Theorems.Thm_ThreeSum_LightReportingFrontierStep_time_bound
+import Theorems.Thm_ThreeSum_LightReportingGatherPair_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPairRows_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPositiveExpand_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPrefixArrays_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSortedCatalog_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixBatch_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_aee3f2a8e7e7d37a
+import Theorems.Thm_ThreeSum_LightReportingSuffixCatalog_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixCell_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixExplicit_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixLower_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixQueryHost_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixQueryIndexed_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_d5b1b0bdde74f397
+import Theorems.Thm_ThreeSum_LightReportingSuffixSetup_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixSum_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_306830be6786141e
+import Theorems.Thm_ThreeSum_LightResidueHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightScales_time_bound
+import Theorems.Thm_ThreeSum_LightSharedReportingCounts_time_bound
+import Theorems.Thm_ThreeSum_LightSignedBoxSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafBatch_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafCell_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafGeneral_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafTable_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeaf_time_bound
+import Theorems.Thm_ThreeSum_LightSmallDivide_time_bound
+import Theorems.Thm_ThreeSum_LightSortedBands_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBandBatch_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBandSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBucketFromHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBucketOriginal_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBuild_time_bound
+import Theorems.Thm_ThreeSum_LightSourceFlagArray_time_bound
+import Theorems.Thm_ThreeSum_LightSourceGather_time_bound
+import Theorems.Thm_ThreeSum_LightSourceHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSourceMaskFlags_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_5747fe39e5f06311
+import Theorems.Thm_ThreeSum_LightSourcePreparation_time_bound
+import Theorems.Thm_ThreeSum_LightSourceResidues_time_bound
+import Theorems.Thm_ThreeSum_LightSourceRetainedStages_time_bound
+import Theorems.Thm_ThreeSum_LightSourceRowFlag_time_bound
+import Theorems.Thm_ThreeSum_LightSourceStages_time_bound
+import Theorems.Thm_ThreeSum_LightSourceTrim_time_bound
+import Theorems.Thm_ThreeSum_LightSparseQuery_time_bound
+import Theorems.Thm_ThreeSum_LightStageLookup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumerationSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSwitchCosts_time_le_budget
+import Theorems.Thm_ThreeSum_LightSwitchDepth_time_bound
+import Theorems.Thm_ThreeSum_LightWeightDecode_time_bound
+import Theorems.Thm_ThreeSum_LightZetaBatch_time_bound
+import Theorems.Thm_ThreeSum_LightZetaCell_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_223d9caf4e7f660b
+import Definitions.Def_WeightedCache3SUM_Alias_c2a1891cab57c5b2
+import Definitions.Def_WeightedCache3SUM_Alias_f1c95625e9077016
+import Definitions.Def_WeightedCache3SUM_Alias_418e05005a34b027
+import Theorems.Thm_ThreeSum_SourceBandPairCosts_time_bound
+
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.SharedReportingBankCosts
+open Scales Parameters StageBounds ArithmeticStageBounds CostLedger Filter
+open SharedReportingCosts
+open scoped Topology
+set_option maxHeartbeats 2200000
+set_option maxRecDepth 12000
+namespace ThreeSum.SharedReportingBankCosts
+theorem _root_.solution {n k : ℕ} (hk : k ≤ blocks n) :
+    LightSharedReportingLevels.roundTime (half n) (blocks n) k+8 ≤
+      roundOverhead n*prefixBoxes n k := by
+  have hV : (blocks n-k)*(512*half n) ≤ width n :=
+    Nat.mul_le_mul_right _ (Nat.sub_le _ _)
+  have hdownset := (LightDownsetSize.time_bound ((blocks n-k)*(512*half n))).trans
+    (Nat.mul_le_mul_left 1400 (Nat.pow_le_pow_left (Nat.add_le_add_right hV 1) 2))
+  have hswitch := LightSwitchCosts.time_le_budget n k
+  rw [← residual_eq] at hswitch
+  have hcatalog := SharedReportingCosts.time_le_boxes hk
+  have hextra : LightSwitch.time (SharedReportingBankLevels.residual (half n) (blocks n) k)+
+      LightDownsetSize.time ((blocks n-k)*(512*half n))+2808 ≤ roundExtra n := by
+    unfold roundExtra
+    omega
+  have hextraBoxes := Nat.le_mul_of_pos_right (roundExtra n) (prefixBoxes_pos n k)
+  unfold LightSharedReportingLevels.roundTime LightSharedReportingCell.time LightSharedReportingEntry.time
+  rw [cut_eq]
+  change _ ≤ (SharedReportingCosts.overhead n+roundExtra n)*prefixBoxes n k
+  change LightReportingCatalogIndex.time (half n) (blocks n) k
+    (Switch.residualSize n k-Switch.actualSwitch n k) ≤
+    SharedReportingCosts.overhead n*prefixBoxes n k at hcatalog
+  rw [Nat.add_mul]
+  omega
+end ThreeSum.SharedReportingBankCosts

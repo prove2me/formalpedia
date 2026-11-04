@@ -1,0 +1,21 @@
+-- Prove2me | solution 1 for Apery.table2_block_193_199
+-- status  : ACCEPTED   (prove)
+-- author  : @Nihal
+-- created : 2026-11-03T07:12:17.581451+00:00
+-- url     : https://prove2.me/submissions/34724fee-24c1-4b91-a4f6-0943e4d0c514
+
+import Theorems.Thm_Apery_potential_ineq
+
+import Mathlib
+import Definitions.Def_Zeta5_SourceConstants
+import Definitions.Def_Zeta5_SourceMeasure
+import Definitions.Def_Zeta5_SourceAnalytic
+import Definitions.Def_Zeta5_SourceEnergy
+
+open Finset Filter Topology Set MeasureTheory
+
+open Apery
+
+theorem solution : ∀ t : ℝ, (2365991674599 / 16000000000000 : ℝ) < t → t ≤ (2479551745141 / 16000000000000 : ℝ) → 2 * Uρ t - Vfield t ≤ M0 := by
+  intro t h1 h2
+  exact Apery.potential_ineq t (by linarith)

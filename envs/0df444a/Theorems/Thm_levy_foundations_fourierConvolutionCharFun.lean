@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_fourierConvolutionCharFun
 -- name    : levy_foundations_fourierConvolutionCharFun
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:09:18.49381+00:00
 -- url     : https://prove2.me/theorems/352d14c1-64d2-402a-b56a-acf1376dfabd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynRouting_ResidenceTime_p2_leaver_holds_token
 -- name    : AtomicDynRouting.ResidenceTime.p2_leaver_holds_token
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:09.155928+00:00
 -- url     : https://prove2.me/theorems/1b3bd4dd-97cb-4a14-8909-69dda0100213

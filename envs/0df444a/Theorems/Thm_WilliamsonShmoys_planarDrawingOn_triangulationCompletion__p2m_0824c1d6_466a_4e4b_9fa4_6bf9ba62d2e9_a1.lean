@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarDrawingOn_triangulationCompletion__p2m_0824c1d6_466a_4e4b_9fa4_6bf9ba62d2e9_a1
 -- name    : WilliamsonShmoys.planarDrawingOn_triangulationCompletion__p2m_0824c1d6_466a_4e4b_9fa4_6bf9ba62d2e9_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:06:35.595141+00:00
 -- url     : https://prove2.me/theorems/ff18b25b-a5e2-42d5-a9ba-9dc0688f14d5

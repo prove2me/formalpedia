@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpikedWishart_SoftEdge_eq_61
 -- name    : SpikedWishart.SoftEdge.eq_61
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:40:33.527854+00:00
 -- url     : https://prove2.me/theorems/fc3b9909-9f48-4627-9da5-fcdf7d32cc86

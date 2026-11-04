@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_Disjoint_lemma_3_3
 -- name    : BudgetedAffine.Disjoint.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T21:16:49.26188+00:00
 -- url     : https://prove2.me/theorems/15b953bc-b383-4c74-b056-3ef0b682a69f

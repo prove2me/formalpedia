@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMembership_PerfectInfo_cutoff_optimality
 -- name    : CryptoMembership.PerfectInfo.cutoff_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:47.736875+00:00
 -- url     : https://prove2.me/theorems/c8a72a29-7de6-476a-9a94-c63a80a137e7

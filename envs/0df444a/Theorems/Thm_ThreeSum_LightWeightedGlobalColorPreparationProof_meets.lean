@@ -1,0 +1,171 @@
+-- Prove2me | Theorems.Thm_ThreeSum_LightWeightedGlobalColorPreparationProof_meets
+-- name    : ThreeSum.LightWeightedGlobalColorPreparationProof.meets
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T15:31:24.24588+00:00
+-- url     : https://prove2.me/theorems/440c323c-82ca-466f-b755-77255619696c
+-- title:
+--   Light Weighted Global Color Preparation Proof: meets
+-- statement:
+--   Closed execution of the color-preparation entry point. The assumptions
+--   are scalar/array bounds and actual input memory, never a kernel receipt.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/Weighted/Global/LightTernaryColorPreparationProof.lean#L458-L561
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/Weighted/Global/LightTernaryColorPreparationProof.lean#L458-L561
+
+import Definitions.Def_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_Weighted_Global_TernaryColorPreparationLayout
+import Definitions.Def_Submission_Weighted_Global_LightTernaryColorPreparationProof
+import Theorems.Thm_ThreeSum_LightArgumentTable_meets
+import Definitions.Def_WeightedCache3SUM_Alias_fe1d986d2522f297
+import Definitions.Def_WeightedCache3SUM_Alias_4c62aff33317338c
+import Definitions.Def_WeightedCache3SUM_Alias_d9563e39a04084e5
+import Definitions.Def_WeightedCache3SUM_Alias_fecb00c51dea7534
+import Definitions.Def_WeightedCache3SUM_Alias_ee0aafec5c99c3fa
+import Definitions.Def_WeightedCache3SUM_Alias_f2e191e7f7b92ebc
+import Theorems.Thm_ThreeSum_LightBlockQuery_meets
+import Definitions.Def_WeightedCache3SUM_Alias_d7235e9f603abd3f
+import Definitions.Def_WeightedCache3SUM_Alias_180c3abfd6d390ad
+import Definitions.Def_WeightedCache3SUM_Alias_443601c744eb157d
+import Theorems.Thm_ThreeSum_LightCacheEnumeration_meets
+import Definitions.Def_WeightedCache3SUM_Alias_84a6d1c69132a490
+import Definitions.Def_WeightedCache3SUM_Alias_cd0e44d57dc54f82
+import Definitions.Def_WeightedCache3SUM_Alias_98152438e5b788f3
+import Theorems.Thm_ThreeSum_LightCoefficientDecode_meets
+import Definitions.Def_WeightedCache3SUM_Alias_ec1db2019105351a
+import Definitions.Def_WeightedCache3SUM_Alias_e24e346b903ae22f
+import Definitions.Def_WeightedCache3SUM_Alias_1bc522b5c56beb35
+import Definitions.Def_WeightedCache3SUM_Alias_5d83a00a3f301eb9
+import Definitions.Def_WeightedCache3SUM_Alias_6cd6f72823a59258
+import Definitions.Def_WeightedCache3SUM_Alias_84379a8b0e0ffbf1
+import Definitions.Def_WeightedCache3SUM_Alias_9d1dcf23da3dbe87
+import Definitions.Def_WeightedCache3SUM_Alias_673095557addf664
+import Definitions.Def_WeightedCache3SUM_Alias_31257a44f822c74e
+import Theorems.Thm_ThreeSum_LightExplicitSum_meets
+import Theorems.Thm_ThreeSum_LightExtensionFactorCheck_Procs_meets
+import Theorems.Thm_ThreeSum_LightExtensionFactorPredicate_Procs_meets
+import Theorems.Thm_ThreeSum_LightExtensionMultiplyCell_meets
+import Theorems.Thm_ThreeSum_LightExtensionMultiplyTable_meets
+import Theorems.Thm_ThreeSum_LightExtensionQuotientPredicate_Procs_meets
+import Theorems.Thm_ThreeSum_LightExtensionSeedMatrix_meets
+import Theorems.Thm_ThreeSum_LightExtensionSeedRow_meets
+import Theorems.Thm_ThreeSum_LightFiniteTable_meets
+import Definitions.Def_WeightedCache3SUM_Alias_3718d050d478b160
+import Definitions.Def_WeightedCache3SUM_Alias_35c8db9f38e66e96
+import Definitions.Def_WeightedCache3SUM_Alias_54cf43efc96d8adf
+import Theorems.Thm_ThreeSum_LightLeafSum_meets
+import Definitions.Def_WeightedCache3SUM_Alias_9f151fd16c06b1ef
+import Definitions.Def_WeightedCache3SUM_Alias_e2ad5e59f3af6ab7
+import Definitions.Def_WeightedCache3SUM_Alias_3252ff1ef14149f2
+import Definitions.Def_WeightedCache3SUM_Alias_737c7144994f79de
+import Definitions.Def_WeightedCache3SUM_Alias_de0ba8c01a8a208c
+import Definitions.Def_WeightedCache3SUM_Alias_2ab790e73b946b9f
+import Definitions.Def_WeightedCache3SUM_Alias_c287aeb916bf4368
+import Definitions.Def_WeightedCache3SUM_Alias_e1d95931a2ead3e4
+import Theorems.Thm_ThreeSum_LightModuloCounts_Procs_meets
+import Definitions.Def_WeightedCache3SUM_Alias_03cdb09d18890d4e
+import Definitions.Def_WeightedCache3SUM_Alias_d92129e9a4741fac
+import Theorems.Thm_ThreeSum_LightNaturalDot_meets
+import Definitions.Def_WeightedCache3SUM_Alias_d98593d0ef804094
+import Definitions.Def_WeightedCache3SUM_Alias_54f2bf19dfb01d66
+import Definitions.Def_WeightedCache3SUM_Alias_9a4576158068ee52
+import Theorems.Thm_ThreeSum_LightPairSearch_meets
+import Definitions.Def_WeightedCache3SUM_Alias_97fa2774a4e14663
+import Theorems.Thm_ThreeSum_LightPolynomialCoefficient_meets
+import Theorems.Thm_ThreeSum_LightPolynomialProductArray_meets
+import Theorems.Thm_ThreeSum_LightPolynomialProductCheck_meets
+import Theorems.Thm_ThreeSum_LightPolynomialQuotientCheck_Procs_meets
+import Theorems.Thm_ThreeSum_LightPrimality_Procs_meets
+import Definitions.Def_WeightedCache3SUM_Alias_137b880911028d95
+import Theorems.Thm_ThreeSum_LightPrimeAddArray_meets
+import Definitions.Def_WeightedCache3SUM_Alias_a00dee90c4e0ea45
+import Definitions.Def_WeightedCache3SUM_Alias_e3ff37f6db941441
+import Definitions.Def_WeightedCache3SUM_Alias_daea56ef26e5693b
+import Definitions.Def_WeightedCache3SUM_Alias_874c626a95c648fa
+import Definitions.Def_WeightedCache3SUM_Alias_e6a24ed55341e959
+import Definitions.Def_WeightedCache3SUM_Alias_4b4040d8de1fb856
+import Definitions.Def_WeightedCache3SUM_Alias_32e47c9a32bb047b
+import Theorems.Thm_ThreeSum_LightReportingAffine_meets
+import Definitions.Def_WeightedCache3SUM_Alias_166ac700a68b6c71
+import Definitions.Def_WeightedCache3SUM_Alias_7aba91d69ad782cd
+import Definitions.Def_WeightedCache3SUM_Alias_4b224c9ee30c137c
+import Definitions.Def_WeightedCache3SUM_Alias_dc0a334da481a327
+import Definitions.Def_WeightedCache3SUM_Alias_9b3006da0fcbdf4e
+import Theorems.Thm_ThreeSum_LightScales_Procs_meets
+import Definitions.Def_WeightedCache3SUM_Alias_984013d7ba738e5d
+import Definitions.Def_WeightedCache3SUM_Alias_276ab4baf5d9c1f3
+import Definitions.Def_WeightedCache3SUM_Alias_3cbba57b9f47c556
+import Theorems.Thm_ThreeSum_LightSignedBoxSetup_meets
+import Theorems.Thm_ThreeSum_LightSignedCoefficientLayout_meets
+import Theorems.Thm_ThreeSum_LightSignedCoefficientMatrix_meets
+import Theorems.Thm_ThreeSum_LightSignedLeafBatch_meets
+import Theorems.Thm_ThreeSum_LightSignedLeafCell_meets
+import Definitions.Def_WeightedCache3SUM_Alias_d9b8d9638683d951
+import Theorems.Thm_ThreeSum_LightSignedLeafTable_meets
+import Theorems.Thm_ThreeSum_LightSignedLeaf_meets
+import Definitions.Def_WeightedCache3SUM_Alias_73246870e6a638ab
+import Definitions.Def_WeightedCache3SUM_Alias_f253b70ba796e513
+import Theorems.Thm_ThreeSum_LightSparseQuery_meets
+import Definitions.Def_WeightedCache3SUM_Alias_5c1e55e66cf081b7
+import Definitions.Def_WeightedCache3SUM_Alias_f29d07b5f5ce2e2c
+import Definitions.Def_WeightedCache3SUM_Alias_098d503c7eb426c7
+import Definitions.Def_WeightedCache3SUM_Alias_037fdff845f4735d
+import Definitions.Def_WeightedCache3SUM_Alias_8a94481881de516b
+import Theorems.Thm_ThreeSum_LightTernaryCarryApply_meets
+import Theorems.Thm_ThreeSum_LightTernaryCarryCodes_meets
+import Theorems.Thm_ThreeSum_LightTernaryColorPrelude_meets
+import Theorems.Thm_ThreeSum_LightTernaryDivide_meets
+import Theorems.Thm_ThreeSum_LightTernaryEnumeration_meets
+import Theorems.Thm_ThreeSum_LightTernaryEulerMemo_meets
+import Theorems.Thm_ThreeSum_LightTernaryEulerRow_meets
+import Theorems.Thm_ThreeSum_LightTernaryEulerScan_meets
+import Theorems.Thm_ThreeSum_LightTernaryInversePass_meets
+import Theorems.Thm_ThreeSum_LightTernaryMetadata_meets
+import Theorems.Thm_ThreeSum_LightTernaryOriginalRequester_Procs_meets
+import Theorems.Thm_ThreeSum_LightTernaryPass_meets
+import Theorems.Thm_ThreeSum_LightTernaryProduct_meets
+import Theorems.Thm_ThreeSum_LightTernaryQueryLookup_meets
+import Theorems.Thm_ThreeSum_LightTernaryRankTable_meets
+import Theorems.Thm_ThreeSum_LightTernaryRank_meets
+import Theorems.Thm_ThreeSum_LightTernaryRequesterMatrix_Procs_meets
+import Theorems.Thm_ThreeSum_LightTernaryRowSelector_meets
+import Theorems.Thm_ThreeSum_LightTernarySignedMatrix_Procs_meets
+import Theorems.Thm_ThreeSum_LightTernarySignedRow_Procs_meets
+import Theorems.Thm_ThreeSum_LightWeightedBankAssembly_meets
+import Theorems.Thm_ThreeSum_LightWeightedCost_meets
+import Definitions.Def_WeightedCache3SUM_Alias_faf0bf412734022a
+import Theorems.Thm_ThreeSum_LightWeightedEulerMetadata_meets
+import Theorems.Thm_ThreeSum_LightWeightedGlobalDigitLength_meets
+import Theorems.Thm_ThreeSum_LightWeightedNearDigits_meets
+import Theorems.Thm_ThreeSum_LightWeightedNearEnumerationMain_meets
+import Theorems.Thm_ThreeSum_LightWeightedNearSourceWords_meets
+import Theorems.Thm_ThreeSum_LightWeightedNearSource_meets
+import Theorems.Thm_ThreeSum_LightWeightedPredecessorTable_meets
+import Theorems.Thm_ThreeSum_LightWeightedPredecessor_meets
+import Definitions.Def_WeightedCache3SUM_Alias_c0e528b1e0cee255
+import Definitions.Def_WeightedCache3SUM_Alias_44f02ed11cdb23f7
+import Definitions.Def_WeightedCache3SUM_Alias_d110f06b53aa1a96
+import Definitions.Def_WeightedCache3SUM_Alias_197272b1cee37ac5
+import Theorems.Thm_ThreeSum_ReportingHostRelocation_meets
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.LightWeightedGlobalColorPreparationProof
+open Light LightWeightedGlobalColorPreparation
+open LightColorParametersCosts
+set_option maxHeartbeats 12000000
+set_option maxRecDepth 24000
+
+theorem ThreeSum.LightWeightedGlobalColorPreparationProof.meets {lim : Limits} {radix src n params row free U R J q menu depth : ℕ}
+    (μ : ℕ→ℤ) (p : Coloring.Parameter (width n)) (x : Fin n→ℤ)
+    (hn : 0<n) (hb : 1<radix) (bounds : Bounds lim radix n U J depth)
+    (hsrc : src+n≤free) (hparams : params+19≤free) (hparams9 : 9≤params)
+    (hrow : row+6≤free) (hspace : space free n J U≤lim.space)
+    (hR : (R:ℤ)≤lim.word) (hq : (q:ℤ)≤lim.word) (hmenu : (menu:ℤ)≤lim.word)
+    (hUread : μ (params-9)=(U:ℤ)) (hRread : μ (params-8)=(R:ℤ))
+    (hJread : μ (params-7)=(J:ℤ)) (hqread : μ (params-5)=(q:ℤ))
+    (hmenuread : μ (params-3)=(menu:ℤ)) (hbits : μ params=(Scales.inputBits n:ℤ))
+    (hfields : Seg μ row (ColorParameters.fields p))
+    (hinput : Seg μ src (List.ofFn x)) (hbound : ∀i, |x i|≤(U:ℤ)) :
+    Meets lim (program radix) 50 depth [src,n,params,row,free] μ (time n J U)
+      (fun ret ν=>Output μ ν free U R J q menu radix p x ret) := by sorry

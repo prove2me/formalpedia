@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SONATA_Push_prop_4_1
 -- name    : SONATA.Push.prop_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:14:26.024975+00:00
 -- url     : https://prove2.me/theorems/acbc0086-cb2a-443b-9d6d-146ea076b712

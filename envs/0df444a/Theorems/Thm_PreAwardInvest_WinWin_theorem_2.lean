@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PreAwardInvest_WinWin_theorem_2
 -- name    : PreAwardInvest.WinWin.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:03.513057+00:00
 -- url     : https://prove2.me/theorems/9b511197-69d4-41a1-86b9-4291512f4891

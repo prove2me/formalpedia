@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_proposition4_1_bellman_decomposition
 -- name    : CorruptRobustRL.Supervised.proposition4_1_bellman_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:15.497112+00:00
 -- url     : https://prove2.me/theorems/454d29ac-d679-4956-b84e-147f134fdf05

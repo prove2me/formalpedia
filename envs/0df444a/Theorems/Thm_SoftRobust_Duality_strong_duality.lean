@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftRobust_Duality_strong_duality
 -- name    : SoftRobust.Duality.strong_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T18:49:16.283462+00:00
 -- url     : https://prove2.me/theorems/8202729b-efdb-4aec-9d77-01aad99b90ee

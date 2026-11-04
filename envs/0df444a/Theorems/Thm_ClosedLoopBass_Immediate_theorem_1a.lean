@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClosedLoopBass_Immediate_theorem_1a
 -- name    : ClosedLoopBass.Immediate.theorem_1a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:10.566987+00:00
 -- url     : https://prove2.me/theorems/ac10b7d2-43a3-42a5-9ef1-6d0bea8d028f

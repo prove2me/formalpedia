@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_AnchoredPhases_odd_unpaid_positive_excess_initial_pair
 -- name    : LX.AnchoredPhases.odd_unpaid_positive_excess_initial_pair
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:28:51.985376+00:00
 -- url     : https://prove2.me/theorems/81e5c7f5-a6f6-49d5-bb2a-520309a934a5

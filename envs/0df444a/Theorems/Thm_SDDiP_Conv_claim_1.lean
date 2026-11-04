@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDDiP_Conv_claim_1
 -- name    : SDDiP.Conv.claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:49:10.559868+00:00
 -- url     : https://prove2.me/theorems/123bb74a-5135-42ea-b418-739b2bca17f0

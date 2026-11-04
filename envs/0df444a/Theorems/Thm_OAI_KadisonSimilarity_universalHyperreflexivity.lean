@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_universalHyperreflexivity
 -- name    : OAI.KadisonSimilarity.universalHyperreflexivity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:50.278985+00:00
 -- url     : https://prove2.me/theorems/3bf47a5f-7f89-422d-a1df-9b0f5dc5ecfb

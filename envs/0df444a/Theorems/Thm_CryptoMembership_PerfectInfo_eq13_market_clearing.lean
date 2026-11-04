@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMembership_PerfectInfo_eq13_market_clearing
 -- name    : CryptoMembership.PerfectInfo.eq13_market_clearing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:24:57.335011+00:00
 -- url     : https://prove2.me/theorems/add35313-f19b-485d-ad95-b46ed6cc07c7

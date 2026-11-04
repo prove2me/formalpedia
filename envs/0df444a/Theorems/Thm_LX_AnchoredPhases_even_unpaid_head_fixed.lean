@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_AnchoredPhases_even_unpaid_head_fixed
 -- name    : LX.AnchoredPhases.even_unpaid_head_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:27:03.69224+00:00
 -- url     : https://prove2.me/theorems/3df0d38b-237e-467f-a704-bc5ac0ddd9e2

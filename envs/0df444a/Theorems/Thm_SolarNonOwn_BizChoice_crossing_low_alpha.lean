@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolarNonOwn_BizChoice_crossing_low_alpha
 -- name    : SolarNonOwn.BizChoice.crossing_low_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:07.46039+00:00
 -- url     : https://prove2.me/theorems/c99b9d75-c539-43d0-a8a4-96182d053199

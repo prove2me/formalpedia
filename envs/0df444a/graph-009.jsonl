@@ -87277,7 +87277,7 @@
 {"parent": "OAI_Analysis_Cotype_ExponentialIntegral", "child": "OAI_Analysis_Cotype_ProjectionSemigroup", "via": ["statement"]}
 {"parent": "OAI_Analysis_Cotype_ExponentialIntegral", "child": "Cotype", "via": ["statement"]}
 {"parent": "OAI_Analysis_Cotype_ExponentialIntegral", "child": "OAI_Analysis_Cotype_WalshCoordinates", "via": ["statement"]}
-{"parent": "CryptoMembership.PerfectInfo.lhs15_log_concave_bell", "child": "CryptoMembership_PerfectInfo_Model", "via": ["statement"]}
+{"parent": "CryptoMembership.PerfectInfo.lhs15_log_concave_bell", "child": "CryptoMembership_PerfectInfo_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.TreeEdit.BinaryLower.finite_group_displacement", "child": "OAI_Combinatorics_BinaryEdit_TaggedNonsplit", "via": ["solution", "statement"]}
 {"parent": "OAI.TreeEdit.BinaryLower.finite_group_displacement", "child": "OAI_Combinatorics_BinaryEdit_BlockExtraction", "via": ["solution", "statement"]}
 {"parent": "OAI.TreeEdit.BinaryLower.finite_group_displacement", "child": "OAI_Combinatorics_BinaryEdit_FiniteTreeInstantiation", "via": ["solution", "statement"]}
@@ -87319,7 +87319,7 @@
 {"parent": "HardyLittlewood.first_hardy_littlewood", "child": "HardyLittlewood_series", "via": ["statement"]}
 {"parent": "HardyLittlewood.first_hardy_littlewood", "child": "HardyLittlewood_constellation", "via": ["statement"]}
 {"parent": "HardyLittlewood.first_hardy_littlewood", "child": "HardyLittlewood_counting", "via": ["statement"]}
-{"parent": "InnovAlloc.Optimal.equations_10_11", "child": "InnovAlloc_Optimal_Model", "via": ["statement"]}
+{"parent": "InnovAlloc.Optimal.equations_10_11", "child": "InnovAlloc_Optimal_Model", "via": ["solution", "statement"]}
 {"parent": "DerivativeChainPrivate.compressedRealDefectRadius", "child": "DerivativeChainPrivate_foundations", "via": ["solution", "statement"]}
 {"parent": "OAI_Analysis_SphereIsometry_CondensingFixedPoint", "child": "OAI_Analysis_SphereIsometry_BarycentricBasic", "via": ["statement"]}
 {"parent": "OAI_Analysis_SphereIsometry_CondensingFixedPoint", "child": "OAI_Analysis_SphereIsometry_BarycentricMesh", "via": ["statement"]}
@@ -87442,8 +87442,8 @@
 {"parent": "NLogN.KFL.p3B_fsp", "child": "IntMul_HvdH_M_Defs8", "via": ["statement"]}
 {"parent": "NLogN.KFL.p3B_fsp", "child": "IntMul_Kappa_K_Defs33", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P24.ppt_approximates_private_bits", "child": "QAlgorithms_Papers_Independent_Dependency50_P24", "via": ["solution", "statement"]}
-{"parent": "SelfishMiningRuin.ValueFn.theorem_3_1", "child": "SelfishMiningRuin_ValueFn_Model", "via": ["statement"]}
-{"parent": "SelfishMiningRuin.ValueFn.theorem_3_1", "child": "SelfishMiningRuin_ValueFn_Formula", "via": ["statement"]}
+{"parent": "SelfishMiningRuin.ValueFn.theorem_3_1", "child": "SelfishMiningRuin_ValueFn_Model", "via": ["solution", "statement"]}
+{"parent": "SelfishMiningRuin.ValueFn.theorem_3_1", "child": "SelfishMiningRuin_ValueFn_Formula", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Frontier30.P25.channel_sandwiched_near_subadditivity", "child": "QAlgorithms_Papers_Independent_Frontier30_P25", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Frontier30.P26.admissible_structure", "child": "QAlgorithms_Papers_Independent_Frontier30_P26", "via": ["statement"]}
 {"parent": "NLogN.Runs.take", "child": "IntMul_Kappa_R6_Defs1", "via": ["statement"]}
@@ -88147,7 +88147,7 @@
 {"parent": "OAI_Analysis_SphereIsometry_UltraSphere", "child": "OAI_Analysis_SphereIsometry_Basic", "via": ["statement"]}
 {"parent": "OAI_Analysis_SphereIsometry_UltraSphere", "child": "OAI_Analysis_SphereIsometry_UltraNormed", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P19.compressionDistillationInner", "child": "QAlgorithms_Papers_Independent_Dependency50_P19", "via": ["statement"]}
-{"parent": "ReserveLP.ProLPR.lemma_5_7", "child": "ReserveLP_ProLPR_Model", "via": ["statement"]}
+{"parent": "ReserveLP.ProLPR.lemma_5_7", "child": "ReserveLP_ProLPR_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Dependency50_P21", "child": "QAlgorithms_Defs_Hamiltonian", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Dependency50_P21", "child": "QAlgorithms_Defs_Measurement", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Dependency50_P21", "child": "QAlgorithms_Papers_Independent_Information100_P63", "via": ["statement"]}
@@ -88227,7 +88227,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Frontier18.P02.coherentDetection_capacityRegion", "child": "QAlgorithms_Papers_Independent_Frontier18_P02", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Information100.P69.auxiliaryExtensions", "child": "QAlgorithms_Papers_Independent_Information100_P69", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P06.channel_test_iff", "child": "QAlgorithms_Papers_Independent_Dependency50_P06", "via": ["solution", "statement"]}
-{"parent": "ClosedLoopBass.Immediate.if_plan_bass", "child": "ClosedLoopBass_Immediate_Model", "via": ["statement"]}
+{"parent": "ClosedLoopBass.Immediate.if_plan_bass", "child": "ClosedLoopBass_Immediate_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P23.amplitudeDampingEvaluation", "child": "QAlgorithms_Papers_Independent_Dependency50_P23", "via": ["statement"]}
 {"parent": "Bagaria.proto_least_is_berkeley", "child": "Bagaria_reinhardt", "via": ["statement"]}
 {"parent": "Bagaria.proto_least_is_berkeley", "child": "Bagaria_berkeley", "via": ["statement"]}
@@ -88826,7 +88826,7 @@
 {"parent": "OAI_LinearAlgebra_CirculantHadamard_AlternatingLocalization__EvenBarker", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryResidue__EvenBarker", "via": ["statement"]}
 {"parent": "OAI_LinearAlgebra_CirculantHadamard_AlternatingLocalization__EvenBarker", "child": "EvenBarker", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.runningSup_stopped_lintegral_countable_interchange", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
-{"parent": "CryptoMembership.PerfectInfo.proposition_1_exp_utility", "child": "CryptoMembership_PerfectInfo_Model", "via": ["statement"]}
+{"parent": "CryptoMembership.PerfectInfo.proposition_1_exp_utility", "child": "CryptoMembership_PerfectInfo_Model", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R6.IL3H.pushSeq_child", "child": "IntMul_Kappa_R6_Defs22", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Frontier30.P19.littlewoodRichardson_properties", "child": "QAlgorithms_Papers_Independent_Frontier30_P19", "via": ["statement"]}
 {"parent": "IntMul.Kappa.R6.IL3H.kerQ", "child": "IntMul_Kappa_R6_Defs22", "via": ["solution", "statement"]}
@@ -89244,7 +89244,7 @@
 {"parent": "OAI_MeasureTheory_SelfSimilar_WindowGain__SelfSimilarCorollaries", "child": "OAI_MeasureTheory_SelfSimilar_FairPairs__SelfSimilarCorollaries", "via": ["statement"]}
 {"parent": "OAI_MeasureTheory_SelfSimilar_WindowGain__SelfSimilarCorollaries", "child": "OAI_MeasureTheory_SelfSimilar_PairBands__SelfSimilarCorollaries", "via": ["statement"]}
 {"parent": "OAI_MeasureTheory_SelfSimilar_WindowGain__SelfSimilarCorollaries", "child": "OAI_MeasureTheory_SelfSimilar_DigitSumset__SelfSimilarCorollaries", "via": ["statement"]}
-{"parent": "ShapleyAttribution.UniqueUniform.proposition_1", "child": "ShapleyAttribution_UniqueUniform_Model", "via": ["statement"]}
+{"parent": "ShapleyAttribution.UniqueUniform.proposition_1", "child": "ShapleyAttribution_UniqueUniform_Model", "via": ["solution", "statement"]}
 {"parent": "IntMul.OpenAI.R154.P.NLogN.KFY.pass_all", "child": "IntMul_OpenAI_R154_P_Defs", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P18.operationalOrder", "child": "QAlgorithms_Papers_Independent_Dependency50_P18", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Frontier30.P12.generalSecretKeyCapacityFormula", "child": "QAlgorithms_Papers_Independent_Frontier30_P12", "via": ["statement"]}
@@ -90573,7 +90573,7 @@
 {"parent": "PrivacyQueue.Control.gamma_decreases", "child": "PrivacyQueue_Control_Model", "via": ["statement"]}
 {"parent": "Hintz2026.Dp_v_zero_iff_Yv_residual_zero", "child": "Hintz2026_AnalysisV2", "via": ["solution", "statement"]}
 {"parent": "Hintz2026.Dp_g1", "child": "Hintz2026_Chiral", "via": ["solution", "statement"]}
-{"parent": "ThirdPartyPricing.General.footnote_13", "child": "ThirdPartyPricing_General_Model", "via": ["statement"]}
+{"parent": "ThirdPartyPricing.General.footnote_13", "child": "ThirdPartyPricing_General_Model", "via": ["solution", "statement"]}
 {"parent": "OAI_Analysis_ModularRecovery_FourierOperators", "child": "OAI_Analysis_ModularRecovery_Model", "via": ["statement"]}
 {"parent": "OAI_Analysis_ModularRecovery_FourierOperators", "child": "OAI_Analysis_ModularRecovery_Commutant", "via": ["statement"]}
 {"parent": "OAI_Analysis_ModularRecovery_FourierOperators", "child": "OAI_Analysis_ModularRecovery_FourierKernels", "via": ["statement"]}
@@ -91446,7 +91446,7 @@
 {"parent": "NLogN.KFV.ISim.exec", "child": "IntMul_MultitapeModel", "via": ["statement"]}
 {"parent": "NLogN.KFV.ISim.exec", "child": "IntMul_HvdH_M_Defs8", "via": ["statement"]}
 {"parent": "NLogN.KFV.ISim.exec", "child": "IntMul_Kappa_K_Defs33", "via": ["statement"]}
-{"parent": "CryptoMembership.PerfectInfo.proposition_1_ex_ante_utility", "child": "CryptoMembership_PerfectInfo_Model", "via": ["statement"]}
+{"parent": "CryptoMembership.PerfectInfo.proposition_1_ex_ante_utility", "child": "CryptoMembership_PerfectInfo_Model", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat03_noexit_uniformIntegrable_of_measurable_event", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat03_noexit_uniformIntegrable_of_measurable_event", "child": "AvramDividend.Classical.chat03_noexit_payoff_family_uniformIntegrable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat03_noexit_uniformIntegrable_of_measurable_event", "child": "AvramDividend.Classical.chat03_scale_function_borel_measurable", "via": ["solution", "statement"]}
@@ -91758,7 +91758,7 @@
 {"parent": "OAI.LipschitzCounterexample.FreeSpace.uniform_finite_neighborhood_approx_cauchy", "child": "OAI_Analysis_LipschitzEquivalence_SupportedDuality", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P29.pureLoss_highEnergyLimit", "child": "QAlgorithms_Papers_Independent_Dependency50_P29", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Frontier30.P30.renyi_noncontinuity", "child": "QAlgorithms_Papers_Independent_Frontier30_P30", "via": ["solution", "statement"]}
-{"parent": "CryptoMembership.PerfectInfo.proposition_2", "child": "CryptoMembership_PerfectInfo_Model", "via": ["statement"]}
+{"parent": "CryptoMembership.PerfectInfo.proposition_2", "child": "CryptoMembership_PerfectInfo_Model", "via": ["solution", "statement"]}
 {"parent": "OAI_Analysis_ModularRecovery_FourierKernels", "child": "OAI_Analysis_ModularRecovery_Model", "via": ["statement"]}
 {"parent": "OAI_Analysis_ModularRecovery_FourierKernels", "child": "OAI_Analysis_ModularRecovery_Commutant", "via": ["statement"]}
 {"parent": "OAI_Analysis_ModularRecovery_FourierKernels", "child": "OAI_Analysis_ModularRecovery_RealGraph", "via": ["statement"]}
@@ -92146,7 +92146,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P26.completeTester_completeForDeterministic", "child": "QAlgorithms_Papers_Independent_Dependency50_P26", "via": ["solution", "statement"]}
 {"parent": "TargetedClosure.Stability.symmetric_similarity", "child": "TargetedClosure_Stability_Model", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P35.secondArgument_antitone", "child": "QAlgorithms_Papers_Independent_Dependency50_P35", "via": ["statement"]}
-{"parent": "SolarNonOwn.BizChoice.lemma_A1", "child": "SolarNonOwn_BizChoice_ClosedForms", "via": ["statement"]}
+{"parent": "SolarNonOwn.BizChoice.lemma_A1", "child": "SolarNonOwn_BizChoice_ClosedForms", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P42.regularizedFormation_upperBound", "child": "QAlgorithms_Papers_Independent_Dependency50_P42", "via": ["statement"]}
 {"parent": "IntMul.Kappa.R6.good_of", "child": "IntMul_Kappa_R6_Defs1", "via": ["solution", "statement"]}
 {"parent": "OAI.TalagrandDiscreteConvexity.exceptional_signed_summand_eq_zero", "child": "OAI_Combinatorics_DiscreteConvexity_FourierWeights", "via": ["solution", "statement"]}
@@ -92727,7 +92727,7 @@
 {"parent": "AvramDividend.Classical.chat03_noexit_integer_horizon_terminal_scale_vanish", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat03_noexit_integer_horizon_terminal_scale_vanish", "child": "AvramDividend.Classical.chat04_bounded_strip_scale_terminal_vanish", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P18.classicalFidelityBound", "child": "QAlgorithms_Papers_Independent_Dependency50_P18", "via": ["solution", "statement"]}
-{"parent": "ClosedLoopBass.Immediate.lemma_2", "child": "ClosedLoopBass_Immediate_Model", "via": ["statement"]}
+{"parent": "ClosedLoopBass.Immediate.lemma_2", "child": "ClosedLoopBass_Immediate_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.ThreeState.TreeClauses.Tree.regularLaw_forget", "child": "OAI_Probability_ThreeStateClauses_RegularLaw", "via": ["solution", "statement"]}
 {"parent": "OAI.ThreeState.TreeClauses.Tree.regularLaw_forget", "child": "OAI_Probability_ThreeStateClauses_Products", "via": ["solution", "statement"]}
 {"parent": "OAI.ThreeState.TreeClauses.Tree.regularLaw_forget", "child": "OAI_Probability_ThreeStateClauses_RadialAlgebra", "via": ["solution", "statement"]}
@@ -92884,7 +92884,7 @@
 {"parent": "OAI_Analysis_SphereIsometry_BarycentricMesh", "child": "OAI_Analysis_SphereIsometry_Basic", "via": ["statement"]}
 {"parent": "OAI_Analysis_SphereIsometry_BarycentricMesh", "child": "OAI_Analysis_SphereIsometry_ReturnMapBounds", "via": ["statement"]}
 {"parent": "OAI_Analysis_SphereIsometry_BarycentricMesh", "child": "OAI_Analysis_SphereIsometry_RadialContact", "via": ["statement"]}
-{"parent": "ThirdPartyPricing.General.theorem_2", "child": "ThirdPartyPricing_General_Model", "via": ["statement"]}
+{"parent": "ThirdPartyPricing.General.theorem_2", "child": "ThirdPartyPricing_General_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricEntropyDuality.FieldGraphSeparation.no_short_walk", "child": "OAI_Analysis_MetricEntropy_EntropyPair", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricEntropyDuality.FieldGraphSeparation.no_short_walk", "child": "OAI_Analysis_MetricEntropy_Basic", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricEntropyDuality.FieldGraphSeparation.no_short_walk", "child": "OAI_Analysis_MetricEntropy_FormDimension", "via": ["solution", "statement"]}
@@ -93053,7 +93053,7 @@
 {"parent": "IntMul.Kappa.R6.Cx.edgeStepsH_den", "child": "IntMul_Kappa_R6_Defs2", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Information100.P69.freeChannelDomination", "child": "QAlgorithms_Papers_Independent_Information100_P69", "via": ["statement"]}
 {"parent": "IntMul.Kappa.R6.IL3H.p14QH", "child": "IntMul_Kappa_R6_Defs23", "via": ["solution", "statement"]}
-{"parent": "ReserveLP.ProLPR.opt_bound", "child": "ReserveLP_ProLPR_Model", "via": ["statement"]}
+{"parent": "ReserveLP.ProLPR.opt_bound", "child": "ReserveLP_ProLPR_Model", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R6.IL3H.Gs_node", "child": "IntMul_Kappa_R6_Defs22", "via": ["solution", "statement"]}
 {"parent": "J6Sieve.step_core", "child": "IntMul_Kappa_R6_Defs1", "via": ["solution", "statement"]}
 {"parent": "OAI.SingleFold.PowerSystem.complete", "child": "SingleFold", "via": ["solution", "statement"]}
@@ -93161,7 +93161,7 @@
 {"parent": "OAI.Cotype.fourier_oddPart", "child": "OAI_Analysis_Cotype_Target", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P26.probabilistic_instrumentCompletion", "child": "QAlgorithms_Papers_Independent_Dependency50_P26", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Frontier30.P26.euler_affine_pairs_criterion", "child": "QAlgorithms_Papers_Independent_Frontier30_P26", "via": ["statement"]}
-{"parent": "PreAwardInvest.WinWin.ex_ante_identity", "child": "PreAwardInvest_WinWin_Model", "via": ["statement"]}
+{"parent": "PreAwardInvest.WinWin.ex_ante_identity", "child": "PreAwardInvest_WinWin_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P26.deterministic_iff_normalized", "child": "QAlgorithms_Papers_Independent_Dependency50_P26", "via": ["solution", "statement"]}
 {"parent": "OAI.TreeEdit.BinaryLower.TaggedNonsplit.natRowCount_div_le_width", "child": "OAI_Combinatorics_BinaryEdit_TaggedNonsplit", "via": ["solution", "statement"]}
 {"parent": "OAI.TreeEdit.BinaryLower.TaggedNonsplit.natRowCount_div_le_width", "child": "OAI_Combinatorics_BinaryEdit_FiniteTreeInstantiation", "via": ["solution", "statement"]}
@@ -93325,7 +93325,7 @@
 {"parent": "OAI.MetricEntropyDuality.coeff_diagonalPolynomial", "child": "OAI_Analysis_MetricEntropy_DirectionTuples", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricEntropyDuality.coeff_diagonalPolynomial", "child": "MetricEntropyDuality", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P09.feedback_strongConverse", "child": "QAlgorithms_Papers_Independent_Dependency50_P09", "via": ["statement"]}
-{"parent": "AtomicDynRouting.ResidenceTime.p3_new_token_only_waiting", "child": "AtomicDynRouting_ResidenceTime_Tokens", "via": ["statement"]}
+{"parent": "AtomicDynRouting.ResidenceTime.p3_new_token_only_waiting", "child": "AtomicDynRouting_ResidenceTime_Tokens", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Frontier30.P06.separable_feedback_information", "child": "QAlgorithms_Papers_Independent_Frontier30_P06", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.chat03_no_exit_before_horizon", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P09.randomness_finite_bicovariant", "child": "QAlgorithms_Papers_Independent_Dependency50_P09", "via": ["statement"]}
@@ -93445,7 +93445,7 @@
 {"parent": "OAI.SeymourSecondNeighborhood.exists_eval_maximal_support_rank", "child": "OAI_Combinatorics_SecondNeighborhood_ReductionCore", "via": ["solution", "statement"]}
 {"parent": "OAI.SeymourSecondNeighborhood.exists_eval_maximal_support_rank", "child": "OAI_Combinatorics_SecondNeighborhood_PruningDefinitions", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Frontier30.P26.inducedLCone_pointed", "child": "QAlgorithms_Papers_Independent_Frontier30_P26", "via": ["statement"]}
-{"parent": "PreAwardInvest.WinWin.top_type_zero_profit", "child": "PreAwardInvest_WinWin_Model", "via": ["statement"]}
+{"parent": "PreAwardInvest.WinWin.top_type_zero_profit", "child": "PreAwardInvest_WinWin_Model", "via": ["solution", "statement"]}
 {"parent": "OAI_LinearAlgebra_CirculantHadamard_LocalComparison__EvenBarker", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations__EvenBarker", "via": ["statement"]}
 {"parent": "OAI_LinearAlgebra_CirculantHadamard_LocalComparison__EvenBarker", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation__EvenBarker", "via": ["statement"]}
 {"parent": "OAI_LinearAlgebra_CirculantHadamard_LocalComparison__EvenBarker", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjectionPolynomial__EvenBarker", "via": ["statement"]}
@@ -94572,9 +94572,9 @@
 {"parent": "Gerver.gerver_optimal", "child": "Gerver_monotone", "via": ["statement"]}
 {"parent": "Gerver.gerver_optimal", "child": "Gerver_arena", "via": ["statement"]}
 {"parent": "Hintz2026.identN_p1", "child": "Hintz2026_Chiral", "via": ["solution", "statement"]}
-{"parent": "AtomicDynRouting.ResidenceTime.token_exit_bound", "child": "AtomicDynRouting_ResidenceTime_Tokens", "via": ["statement"]}
+{"parent": "AtomicDynRouting.ResidenceTime.token_exit_bound", "child": "AtomicDynRouting_ResidenceTime_Tokens", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P24.eve_block_representation", "child": "QAlgorithms_Papers_Independent_Dependency50_P24", "via": ["solution", "statement"]}
-{"parent": "AtomicDynRouting.ResidenceTime.p2_leaver_holds_token", "child": "AtomicDynRouting_ResidenceTime_Tokens", "via": ["statement"]}
+{"parent": "AtomicDynRouting.ResidenceTime.p2_leaver_holds_token", "child": "AtomicDynRouting_ResidenceTime_Tokens", "via": ["solution", "statement"]}
 {"parent": "OAI.Cotype.projectionLinearCoefficient_bound_of_power_gap", "child": "OAI_Analysis_Cotype_CubeNoise", "via": ["solution", "statement"]}
 {"parent": "OAI.Cotype.projectionLinearCoefficient_bound_of_power_gap", "child": "OAI_Analysis_Cotype_ComplexProjectionSpectrum", "via": ["solution", "statement"]}
 {"parent": "OAI.Cotype.projectionLinearCoefficient_bound_of_power_gap", "child": "OAI_Analysis_Cotype_WalshNorm", "via": ["solution", "statement"]}
@@ -94843,7 +94843,7 @@
 {"parent": "OAI.TalagrandDiscreteConvexity.largeWeightFamily_cost_le", "child": "OAI_Combinatorics_DiscreteConvexity_Bins", "via": ["solution", "statement"]}
 {"parent": "OAI.TalagrandDiscreteConvexity.largeWeightFamily_cost_le", "child": "OAI_Combinatorics_DiscreteConvexity_Basic", "via": ["solution", "statement"]}
 {"parent": "OAI.TalagrandDiscreteConvexity.largeWeightFamily_cost_le", "child": "OAI_Combinatorics_DiscreteConvexity_FiniteFibers", "via": ["solution", "statement"]}
-{"parent": "ThirdPartyPricing.General.varphi_increasing", "child": "ThirdPartyPricing_General_Model", "via": ["statement"]}
+{"parent": "ThirdPartyPricing.General.varphi_increasing", "child": "ThirdPartyPricing_General_Model", "via": ["solution", "statement"]}
 {"parent": "p2m_path_dual_step_contraction", "child": "VanderbeiLP_PathFollowing_PathFollowingMethod", "via": ["solution", "statement"]}
 {"parent": "p2m_path_dual_step_contraction", "child": "p2m_path_dual_update", "via": ["solution", "statement"]}
 {"parent": "p2m_path_dual_step_contraction", "child": "p2m_path_norm1_smul", "via": ["solution", "statement"]}
@@ -95123,7 +95123,7 @@
 {"parent": "OAI.Cotype.exists_sign_of_radius", "child": "OAI_Analysis_Cotype_Target", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P42.regularization_limit", "child": "QAlgorithms_Papers_Independent_Dependency50_P42", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P22.locc_relative_interior", "child": "QAlgorithms_Papers_Independent_Dependency50_P22", "via": ["statement"]}
-{"parent": "ShapleyAttribution.UniqueUniform.theorem_2", "child": "ShapleyAttribution_UniqueUniform_Model", "via": ["statement"]}
+{"parent": "ShapleyAttribution.UniqueUniform.theorem_2", "child": "ShapleyAttribution_UniqueUniform_Model", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R6.IL2.ceil_bnd_le", "child": "IntMul_Kappa_R6_Defs13", "via": ["solution", "statement"]}
 {"parent": "OAI.SingleFold.DuplicationBound.small_points", "child": "OAI_NumberTheory_SingleFold_EllipticCoordinates", "via": ["solution", "statement"]}
 {"parent": "OAI.SingleFold.DuplicationBound.small_points", "child": "OAI_NumberTheory_SingleFold_FunctionalCompiler", "via": ["solution", "statement"]}
@@ -95596,7 +95596,7 @@
 {"parent": "IntMul.Kappa.R6.IL.swWUP_spec", "child": "IntMul_Kappa_R6_Defs13", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R6.IL3H.bodyCoreQ", "child": "IntMul_Kappa_R6_Defs22", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P47.gray_wyner_sandwich", "child": "QAlgorithms_Papers_Independent_Dependency50_P47", "via": ["statement"]}
-{"parent": "ThirdPartyPricing.General.phiT_continuous_increasing", "child": "ThirdPartyPricing_General_Model", "via": ["statement"]}
+{"parent": "ThirdPartyPricing.General.phiT_continuous_increasing", "child": "ThirdPartyPricing_General_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.TreeEdit.BinaryLower.FiniteTree.nodeWord_leaf_script", "child": "OAI_Combinatorics_BinaryEdit_FiniteWordDetection", "via": ["solution", "statement"]}
 {"parent": "OAI.TreeEdit.BinaryLower.FiniteTree.nodeWord_leaf_script", "child": "OAI_Combinatorics_BinaryEdit_TaggedNonsplit", "via": ["solution", "statement"]}
 {"parent": "OAI.TreeEdit.BinaryLower.FiniteTree.nodeWord_leaf_script", "child": "OAI_Combinatorics_BinaryEdit_BlockExtraction", "via": ["solution", "statement"]}
@@ -95835,7 +95835,7 @@
 {"parent": "OAI_NumberTheory_SingleFold_LocalDescent", "child": "OAI_NumberTheory_SingleFold_DescentMap", "via": ["statement"]}
 {"parent": "OAI_NumberTheory_SingleFold_LocalDescent", "child": "OAI_NumberTheory_SingleFold_RationalCodes", "via": ["statement"]}
 {"parent": "OAI_NumberTheory_SingleFold_LocalDescent", "child": "OAI_NumberTheory_SingleFold_SquareSupport", "via": ["statement"]}
-{"parent": "InnovAlloc.Optimal.proposition_1", "child": "InnovAlloc_Optimal_Model", "via": ["statement"]}
+{"parent": "InnovAlloc.Optimal.proposition_1", "child": "InnovAlloc_Optimal_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P18.nonnegativityAndFaithfulness", "child": "QAlgorithms_Papers_Independent_Dependency50_P18", "via": ["solution", "statement"]}
 {"parent": "IntMul.OpenAI.R154.P.NLogN.KFY.NG.cost_real", "child": "IntMul_OpenAI_R154_P_Defs", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P23.zeroErrorGraphInvariance", "child": "QAlgorithms_Papers_Independent_Dependency50_P23", "via": ["solution", "statement"]}
@@ -96710,7 +96710,7 @@
 {"parent": "OAI.LipschitzCounterexample.FreeSpace.finite_escape_step", "child": "OAI_Analysis_LipschitzEquivalence_NullSequences", "via": ["solution", "statement"]}
 {"parent": "OAI.LipschitzCounterexample.FreeSpace.finite_escape_step", "child": "OAI_Analysis_LipschitzEquivalence_SupportedDuality", "via": ["solution", "statement"]}
 {"parent": "Hintz2026.contDiffOn_Xstar_mulVec", "child": "Hintz2026_AnalysisV2", "via": ["solution", "statement"]}
-{"parent": "ReserveLP.ProLPR.lemma_5_8", "child": "ReserveLP_ProLPR_Model", "via": ["statement"]}
+{"parent": "ReserveLP.ProLPR.lemma_5_8", "child": "ReserveLP_ProLPR_Model", "via": ["solution", "statement"]}
 {"parent": "AdBlocking.Surplus.thresholds", "child": "AdBlocking_Surplus_Model", "via": ["statement"]}
 {"parent": "OAI_MathematicalPhysics_NavierStokes_BalancedTransport_CompactFamilies__ForcedNavierStokesComputation", "child": "OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EffectiveArithmetic__ForcedNavierStokesComputation", "via": ["statement"]}
 {"parent": "OAI_MathematicalPhysics_NavierStokes_BalancedTransport_CompactFamilies__ForcedNavierStokesComputation", "child": "OAI_MathematicalPhysics_NavierStokes_BalancedTransport_TimeRegularity__ForcedNavierStokesComputation", "via": ["statement"]}
@@ -96931,7 +96931,7 @@
 {"parent": "OAI_Combinatorics_DiscreteConvexity_CoveringNumericalBounds", "child": "OAI_Combinatorics_DiscreteConvexity_FiniteProbability", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P11.nonunital_not_repeatable", "child": "QAlgorithms_Papers_Independent_Dependency50_P11", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Dependency50.P12.constantFibers_hamiltonianBase", "child": "QAlgorithms_Papers_Independent_Dependency50_P12", "via": ["statement"]}
-{"parent": "PreAwardInvest.WinWin.pointwise_inequality", "child": "PreAwardInvest_WinWin_Model", "via": ["statement"]}
+{"parent": "PreAwardInvest.WinWin.pointwise_inequality", "child": "PreAwardInvest_WinWin_Model", "via": ["solution", "statement"]}
 {"parent": "NLogN.KFZ.fmB_le_log", "child": "IntMul_Kappa_R6_Defs1", "via": ["solution", "statement"]}
 {"parent": "NLogN.KFZ.fmB_le_log", "child": "IntMul_MultitapeModel", "via": ["solution", "statement"]}
 {"parent": "NLogN.KFZ.fmB_le_log", "child": "IntMul_HvdH_M_Defs8", "via": ["solution", "statement"]}
@@ -99569,7 +99569,7 @@
 {"parent": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge__EvenBarker", "child": "OAI_LinearAlgebra_CirculantHadamard_Model", "via": ["statement"]}
 {"parent": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge__EvenBarker", "child": "EvenBarker", "via": ["statement"]}
 {"parent": "ChainCompSI.Backfire.proposition_3_ii", "child": "ChainCompSI_Backfire_Model", "via": ["statement"]}
-{"parent": "CryptoMembership.PerfectInfo.eq15_equilibrium_iff", "child": "CryptoMembership_PerfectInfo_Model", "via": ["statement"]}
+{"parent": "CryptoMembership.PerfectInfo.eq15_equilibrium_iff", "child": "CryptoMembership_PerfectInfo_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricEntropyDuality.exists_entropy_pair_with_budget", "child": "OAI_Analysis_MetricEntropy_EntropyPair", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricEntropyDuality.exists_entropy_pair_with_budget", "child": "OAI_Analysis_MetricEntropy_Basic", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricEntropyDuality.exists_entropy_pair_with_budget", "child": "OAI_Analysis_MetricEntropy_FormDimension", "via": ["solution", "statement"]}

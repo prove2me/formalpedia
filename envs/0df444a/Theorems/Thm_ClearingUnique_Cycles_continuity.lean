@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClearingUnique_Cycles_continuity
 -- name    : ClearingUnique.Cycles.continuity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:50:50.914261+00:00
 -- url     : https://prove2.me/theorems/07c131d8-0958-4400-9b08-4c84caaf12d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_maximal_drawable_graph_has_triangulation_edge_count__p2m_d8aa4474_1bb0_4a8a_92a2_795d49f289c9_a1
 -- name    : maximal_drawable_graph_has_triangulation_edge_count__p2m_d8aa4474_1bb0_4a8a_92a2_795d49f289c9_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:46:20.326768+00:00
 -- url     : https://prove2.me/theorems/d1879139-c8f2-40b8-b730-a1c2d5f0f3db

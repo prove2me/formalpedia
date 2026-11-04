@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_Disjoint_lemma_4_2
 -- name    : BudgetedAffine.Disjoint.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T21:18:22.036983+00:00
 -- url     : https://prove2.me/theorems/cfa844cc-0f8f-4d5b-a6d2-0ba2653ef0fd

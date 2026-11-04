@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynRouting_ResidenceTime_claim_1
 -- name    : AtomicDynRouting.ResidenceTime.claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:15.224794+00:00
 -- url     : https://prove2.me/theorems/acfba523-0003-4e39-b6be-772ba8b514fa

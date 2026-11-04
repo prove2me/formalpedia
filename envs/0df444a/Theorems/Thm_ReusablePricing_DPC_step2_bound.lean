@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusablePricing_DPC_step2_bound
 -- name    : ReusablePricing.DPC.step2_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:12:00.387452+00:00
 -- url     : https://prove2.me/theorems/ca3f2dda-ead9-4058-a4dd-93363ee4378a

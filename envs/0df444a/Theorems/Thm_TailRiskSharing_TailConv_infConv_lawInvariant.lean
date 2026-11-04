@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_TailConv_infConv_lawInvariant
 -- name    : TailRiskSharing.TailConv.infConv_lawInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:45.424673+00:00
 -- url     : https://prove2.me/theorems/6e9e0dac-ee1a-4d16-9899-a0bf48367936

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_exponentContinuous
 -- name    : levy_foundations_exponentContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:35:52.840804+00:00
 -- url     : https://prove2.me/theorems/b84825f1-721c-49b2-a661-2455dc9d830b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovEntanglementExact_inducedMatrix_isTransitionMatrix
 -- name    : MarkovEntanglementExact.inducedMatrix_isTransitionMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:21:25.906662+00:00
 -- url     : https://prove2.me/theorems/71fc82a4-160c-47da-a234-37b3a4d7f6ce

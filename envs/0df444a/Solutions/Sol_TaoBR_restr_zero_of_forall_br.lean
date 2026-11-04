@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TaoBR.restr_zero_of_forall_br
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-29T21:01:00.255774+00:00
 -- url     : https://prove2.me/submissions/800e55c3-05c5-4ccd-9403-344dc6b985ef
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_TaoBR

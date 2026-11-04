@@ -17233,7 +17233,7 @@
 {"parent": "FullLevelTate_DrinfeldSpecialization", "child": "DrinfeldCurve_TateRep", "via": ["statement"]}
 {"parent": "FullLevelTate_DrinfeldSpecialization", "child": "FullLevelTate_Datum", "via": ["statement"]}
 {"parent": "FullLevelTate_IsoHom", "child": "FullLevelTate_Datum", "via": ["statement"]}
-{"parent": "FullyCoupledSDE.DiffApprox.lemma_4_1_mollifier", "child": "FullyCoupledSDE_DiffApprox_Setting", "via": ["statement"]}
+{"parent": "FullyCoupledSDE.DiffApprox.lemma_4_1_mollifier", "child": "FullyCoupledSDE_DiffApprox_Setting", "via": ["solution", "statement"]}
 {"parent": "FullyCoupledSDE.DiffApprox.lemma_4_2_lln_fluctuation", "child": "FullyCoupledSDE_DiffApprox_Setting", "via": ["statement"]}
 {"parent": "FullyCoupledSDE.DiffApprox.lemma_4_4_i_clt_fluctuation", "child": "FullyCoupledSDE_DiffApprox_Setting", "via": ["statement"]}
 {"parent": "FullyCoupledSDE.DiffApprox.lemma_5_1_k1_averaged_regular", "child": "FullyCoupledSDE_DiffApprox_Setting", "via": ["statement"]}
@@ -19978,16 +19978,16 @@
 {"parent": "GaussianMatrix.wishart_lambda_min_tail", "child": "GaussianMatrix.tw_gamma_ratio_bound", "via": ["solution"]}
 {"parent": "GaussianMatrix.wishart_lambda_min_tail", "child": "GaussianMatrix.wishart_lambda_min_cdf_density_bound", "via": ["solution"]}
 {"parent": "GaussianMatrix.wishart_lambda_min_tail", "child": "GaussianMatrix_basic", "via": ["solution", "statement"]}
-{"parent": "GavrilSubtree.Chordal.exists_isSimplicial", "child": "GavrilSubtree_Chordal_Setting", "via": ["statement"]}
-{"parent": "GavrilSubtree.Chordal.hasCliqueTree_of_isChordal", "child": "GavrilSubtree_Chordal_Setting", "via": ["statement"]}
+{"parent": "GavrilSubtree.Chordal.exists_isSimplicial", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
+{"parent": "GavrilSubtree.Chordal.hasCliqueTree_of_isChordal", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
 {"parent": "GavrilSubtree.Chordal.inter_cliques_disjoint", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
 {"parent": "GavrilSubtree.Chordal.isChordal_induce", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
-{"parent": "GavrilSubtree.Chordal.isChordal_of_isSubtreeGraph", "child": "GavrilSubtree_Chordal_Setting", "via": ["statement"]}
-{"parent": "GavrilSubtree.Chordal.lemma_1", "child": "GavrilSubtree_Chordal_Setting", "via": ["statement"]}
+{"parent": "GavrilSubtree.Chordal.isChordal_of_isSubtreeGraph", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
+{"parent": "GavrilSubtree.Chordal.lemma_1", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
 {"parent": "GavrilSubtree.Chordal.maximal_insert_neighborSet", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
-{"parent": "GavrilSubtree.Chordal.theorem_2", "child": "GavrilSubtree_Chordal_Setting", "via": ["statement"]}
+{"parent": "GavrilSubtree.Chordal.theorem_2", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
 {"parent": "GavrilSubtree.Chordal.theorem_3", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
-{"parent": "GavrilSubtree.Chordal.three_point_inter_nonempty", "child": "GavrilSubtree_Chordal_Setting", "via": ["statement"]}
+{"parent": "GavrilSubtree.Chordal.three_point_inter_nonempty", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
 {"parent": "Gelbart.heckeForm_summable", "child": "Gelbart_hecke_series", "via": ["solution", "statement"]}
 {"parent": "Gelbart.hecke_LSeriesSummable", "child": "Gelbart_hecke_series", "via": ["solution", "statement"]}
 {"parent": "Gelbart.hecke_automorphic_of_nice", "child": "Gelbart_hecke_conditions", "via": ["solution", "statement"]}
@@ -81022,25 +81022,25 @@
 {"parent": "LuminousEfficacy.luminousFlux_nonneg", "child": "luminous_efficacy", "via": ["solution", "statement"]}
 {"parent": "LuminousEfficacy.max_luminous_efficacy_photopic", "child": "luminous_efficacy", "via": ["solution", "statement"]}
 {"parent": "LuminousEfficacy.max_luminous_efficacy_scotopic", "child": "luminous_efficacy", "via": ["solution", "statement"]}
-{"parent": "LuoSunLiu.DIP.lemma_1", "child": "LuoSunLiu_DIP_InnerB", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.lemma_1", "child": "LuoSunLiu_DIP_Model", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.lemma_1", "child": "LuoSunLiu_DIP_PLB", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.lemma_2", "child": "LuoSunLiu_DIP_InnerB", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.lemma_2", "child": "LuoSunLiu_DIP_Model", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.lemma_2", "child": "LuoSunLiu_DIP_PLB", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.lemma_2", "child": "SelfNormalizedProcess", "via": ["statement"]}
+{"parent": "LuoSunLiu.DIP.lemma_1", "child": "LuoSunLiu_DIP_InnerB", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.lemma_1", "child": "LuoSunLiu_DIP_Model", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.lemma_1", "child": "LuoSunLiu_DIP_PLB", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.lemma_2", "child": "LuoSunLiu_DIP_InnerB", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.lemma_2", "child": "LuoSunLiu_DIP_Model", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.lemma_2", "child": "LuoSunLiu_DIP_PLB", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.lemma_2", "child": "SelfNormalizedProcess", "via": ["solution", "statement"]}
 {"parent": "LuoSunLiu.DIP.lemma_3", "child": "LuoSunLiu_DIP_PLB", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.lemma_S3", "child": "LuoSunLiu_DIP_PLB", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.lemma_S3", "child": "SelfNormalizedProcess", "via": ["statement"]}
+{"parent": "LuoSunLiu.DIP.lemma_S3", "child": "LuoSunLiu_DIP_PLB", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.lemma_S3", "child": "SelfNormalizedProcess", "via": ["solution", "statement"]}
 {"parent": "LuoSunLiu.DIP.lemma_S5", "child": "LuoSunLiu_DIP_PLB", "via": ["statement"]}
 {"parent": "LuoSunLiu.DIP.lemma_S5", "child": "SelfNormalizedProcess", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.proposition_3", "child": "LuoSunLiu_DIP_InnerB", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.proposition_3", "child": "LuoSunLiu_DIP_Model", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.proposition_4", "child": "LuoSunLiu_DIP_InnerB", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.proposition_4", "child": "LuoSunLiu_DIP_Model", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.theorem_1", "child": "LuoSunLiu_DIP_InnerB", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.theorem_1", "child": "LuoSunLiu_DIP_Model", "via": ["statement"]}
-{"parent": "LuoSunLiu.DIP.theorem_1", "child": "LuoSunLiu_DIP_Policy", "via": ["statement"]}
+{"parent": "LuoSunLiu.DIP.proposition_3", "child": "LuoSunLiu_DIP_InnerB", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.proposition_3", "child": "LuoSunLiu_DIP_Model", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.proposition_4", "child": "LuoSunLiu_DIP_InnerB", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.proposition_4", "child": "LuoSunLiu_DIP_Model", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.theorem_1", "child": "LuoSunLiu_DIP_InnerB", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.theorem_1", "child": "LuoSunLiu_DIP_Model", "via": ["solution", "statement"]}
+{"parent": "LuoSunLiu.DIP.theorem_1", "child": "LuoSunLiu_DIP_Policy", "via": ["solution", "statement"]}
 {"parent": "LuoSunLiu.PLBLower.per_period_bound", "child": "LuoSunLiu_PLBLower_Model", "via": ["statement"]}
 {"parent": "LuoSunLiu.PLBLower.per_period_bound", "child": "LuoSunLiu_PLBLower_TwoPoint", "via": ["statement"]}
 {"parent": "LuoSunLiu.PLBLower.proposition_2", "child": "LuoSunLiu_PLBLower_Model", "via": ["solution", "statement"]}

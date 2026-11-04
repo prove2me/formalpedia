@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBDisclosure_Stage2_table_1_second_period_profit
 -- name    : BBDisclosure.Stage2.table_1_second_period_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:32:44.044511+00:00
 -- url     : https://prove2.me/theorems/081234c9-b7bf-4438-91c2-549a93c49cad

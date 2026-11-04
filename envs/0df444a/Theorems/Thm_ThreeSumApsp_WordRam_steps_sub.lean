@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_ThreeSumApsp_WordRam_steps_sub
+-- name    : ThreeSumApsp.WordRam.steps_sub
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T08:05:36.366353+00:00
+-- url     : https://prove2.me/theorems/e150579e-5cb0-40ad-8ec1-4ab540671953
+-- title:
+--   Word Ram: steps sub
+-- statement:
+--   The Word Ram construction uses the steps sub property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSumApsp/Machine/Steps.lean#L317-L320
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSumApsp/Machine/Steps.lean#L317-L320
+
+import Definitions.Def_Submission_EndStatement
+import Definitions.Def_Submission_ThreeSumApsp_Util_Basic
+import Mathlib.Data.Set.Function
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.Ring
+import Definitions.Def_Submission_ThreeSumApsp_Machine_Steps
+set_option autoImplicit false
+section
+open ThreeSumApsp ThreeSumApsp.WordRam
+open EndStatement (Instr exec loadWords)
+variable {W : ℕ} {P : List Instr}
+variable {m : ℤ → BitVec W} {i j k a b : ℤ}
+
+theorem ThreeSumApsp.WordRam.steps_sub {rest : List Instr} {pos : ℕ} (hcode : CodeAt P pos (.sub i j k :: rest))
+    (hj : m j = wd W a) (hk : m k = wd W b) :
+    Steps P 1 ⟨pos, m⟩ ⟨pos + 1, Function.update m i (wd W (a - b))⟩ := by sorry

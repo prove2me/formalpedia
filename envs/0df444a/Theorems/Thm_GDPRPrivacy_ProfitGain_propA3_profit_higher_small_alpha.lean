@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_ProfitGain_propA3_profit_higher_small_alpha
 -- name    : GDPRPrivacy.ProfitGain.propA3_profit_higher_small_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:19:34.646435+00:00
 -- url     : https://prove2.me/theorems/e595dc48-2182-4113-b3ad-af727fb665fb

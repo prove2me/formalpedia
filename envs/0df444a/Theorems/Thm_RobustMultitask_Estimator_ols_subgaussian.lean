@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMultitask_Estimator_ols_subgaussian
 -- name    : RobustMultitask.Estimator.ols_subgaussian
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:33:43.467586+00:00
 -- url     : https://prove2.me/theorems/741dbdbb-c5ed-48dc-9015-82e1ae2ab9e3

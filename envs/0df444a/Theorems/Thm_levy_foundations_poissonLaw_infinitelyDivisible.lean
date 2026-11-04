@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_poissonLaw_infinitelyDivisible
 -- name    : levy_foundations_poissonLaw_infinitelyDivisible
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T20:41:01.496888+00:00
 -- url     : https://prove2.me/theorems/54d436f5-bdef-4609-8180-4220ba115d49

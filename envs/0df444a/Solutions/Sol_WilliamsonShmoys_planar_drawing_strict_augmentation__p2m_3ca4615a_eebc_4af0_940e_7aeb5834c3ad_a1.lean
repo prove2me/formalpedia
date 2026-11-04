@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_drawing_strict_augmentation__p2m_3ca4615a_eebc_4af0_940e_7aeb5834c3ad_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:06:54.288365+00:00
 -- url     : https://prove2.me/submissions/15190712-d0d0-49f1-83f7-22200f9d7140
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_has_maximal_planar_supergraph__p2m_62655122_fd0a_4865_bebb_51bfbf1c6569_a2

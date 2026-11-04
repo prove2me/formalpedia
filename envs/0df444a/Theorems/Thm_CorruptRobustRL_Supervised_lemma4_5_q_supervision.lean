@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_lemma4_5_q_supervision
 -- name    : CorruptRobustRL.Supervised.lemma4_5_q_supervision
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:51:55.762681+00:00
 -- url     : https://prove2.me/theorems/69f1a19d-ea1a-459d-85d1-a6d5c1a627ff

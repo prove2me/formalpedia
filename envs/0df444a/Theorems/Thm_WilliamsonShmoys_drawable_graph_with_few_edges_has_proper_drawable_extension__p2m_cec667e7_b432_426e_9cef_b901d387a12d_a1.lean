@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_with_few_edges_has_proper_drawable_extension__p2m_cec667e7_b432_426e_9cef_b901d387a12d_a1
 -- name    : WilliamsonShmoys.drawable_graph_with_few_edges_has_proper_drawable_extension__p2m_cec667e7_b432_426e_9cef_b901d387a12d_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:29:07.626859+00:00
 -- url     : https://prove2.me/theorems/9940682f-4c7e-48c3-97b4-7cba95f9fa9e

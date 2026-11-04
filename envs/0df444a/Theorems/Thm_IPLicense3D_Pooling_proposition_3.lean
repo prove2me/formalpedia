@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IPLicense3D_Pooling_proposition_3
 -- name    : IPLicense3D.Pooling.proposition_3
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:25:37.376276+00:00
 -- url     : https://prove2.me/theorems/fb6f4a01-3c2b-4786-a5f0-19aa3ed0ff77

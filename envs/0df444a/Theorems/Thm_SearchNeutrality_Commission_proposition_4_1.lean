@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SearchNeutrality_Commission_proposition_4_1
 -- name    : SearchNeutrality.Commission.proposition_4_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:38:30.089908+00:00
 -- url     : https://prove2.me/theorems/515d92ea-58e3-473f-93cb-b452f8554c87

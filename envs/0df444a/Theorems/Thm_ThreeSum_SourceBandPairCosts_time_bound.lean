@@ -1,0 +1,92 @@
+-- Prove2me | Theorems.Thm_ThreeSum_SourceBandPairCosts_time_bound
+-- name    : ThreeSum.SourceBandPairCosts.time_bound
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T13:24:33.324717+00:00
+-- url     : https://prove2.me/theorems/8806940a-c372-47e3-9052-03cffaa37818
+-- title:
+--   Source Band Pair Costs: time bound
+-- statement:
+--   The Source Band Pair Costs construction uses the time bound property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/SourceBandPairCosts.lean#L9-L16
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/SourceBandPairCosts.lean#L9-L16
+
+import Definitions.Def_Submission_ThreeSum_LightSourceBandPair
+import Definitions.Def_Submission_ThreeSum_SourceBandPairCosts
+import Theorems.Thm_ThreeSum_LightBandEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightBandPartition_time_bound
+import Theorems.Thm_ThreeSum_LightBlockCoefficients_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_62675b0b68a02f51
+import Definitions.Def_WeightedCache3SUM_Alias_8e086529b85f69a3
+import Theorems.Thm_ThreeSum_LightBlockSourceHashes_time_bound
+import Theorems.Thm_ThreeSum_LightBlockSourceRetainedProgram_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_395153661a990775
+import Theorems.Thm_ThreeSum_LightBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightCanonicalBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetAddress_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_432686f9c1a6224e
+import Definitions.Def_WeightedCache3SUM_Alias_f1b1ba0c94539568
+import Theorems.Thm_ThreeSum_LightDownsetSize_time_bound
+import Theorems.Thm_ThreeSum_LightExplicitSum_time_bound
+import Theorems.Thm_ThreeSum_LightKaratsuba_time_bound
+import Theorems.Thm_ThreeSum_LightLeafSum_time_bound
+import Theorems.Thm_ThreeSum_LightLocalCoverRow_time_bound
+import Theorems.Thm_ThreeSum_LightMaskBits_time_bound
+import Theorems.Thm_ThreeSum_LightMaskHashes_time_bound
+import Theorems.Thm_ThreeSum_LightMaskMinimum_time_bound
+import Theorems.Thm_ThreeSum_LightMaskUnion_time_bound
+import Theorems.Thm_ThreeSum_LightNormalize_time_bound
+import Theorems.Thm_ThreeSum_LightPairFlags_time_bound
+import Theorems.Thm_ThreeSum_LightQueryBox_time_bound
+import Theorems.Thm_ThreeSum_LightQueryEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightQueryWeights_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixBatch_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixCell_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixSetup_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_306830be6786141e
+import Theorems.Thm_ThreeSum_LightResidueHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSignedBoxSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafBatch_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafCell_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafGeneral_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafTable_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeaf_time_bound
+import Theorems.Thm_ThreeSum_LightSmallDivide_time_bound
+import Theorems.Thm_ThreeSum_LightSortedBands_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBandBatch_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBandSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBucketFromHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBucketOriginal_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBuild_time_bound
+import Theorems.Thm_ThreeSum_LightSourceFlagArray_time_bound
+import Theorems.Thm_ThreeSum_LightSourceGather_time_bound
+import Theorems.Thm_ThreeSum_LightSourceHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSourceMaskFlags_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_5747fe39e5f06311
+import Theorems.Thm_ThreeSum_LightSourcePreparation_time_bound
+import Theorems.Thm_ThreeSum_LightSourceResidues_time_bound
+import Theorems.Thm_ThreeSum_LightSourceRetainedStages_time_bound
+import Theorems.Thm_ThreeSum_LightSourceRowFlag_time_bound
+import Theorems.Thm_ThreeSum_LightSourceStages_time_bound
+import Theorems.Thm_ThreeSum_LightSourceTrim_time_bound
+import Theorems.Thm_ThreeSum_LightSparseQuery_time_bound
+import Theorems.Thm_ThreeSum_LightStageLookup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumerationSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetSetup_time_bound
+import Theorems.Thm_ThreeSum_LightWeightDecode_time_bound
+import Theorems.Thm_ThreeSum_LightZetaBatch_time_bound
+import Theorems.Thm_ThreeSum_LightZetaCell_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_223d9caf4e7f660b
+import Definitions.Def_WeightedCache3SUM_Alias_c2a1891cab57c5b2
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.SourceBandPairCosts
+open Scales TrimScales StageBounds CostLedger BandScales SourceBandPairData
+
+theorem ThreeSum.SourceBandPairCosts.time_bound (NL NR g p m U D : ℕ) (hg : 0 < g) :
+    LightSourceBandPair.time NL NR g p m U D ≤
+      1016*(NL+NR)*(Nat.log 2 (U+1)+Nat.log 2 (p+D+1)+1)+
+      (BandPartition.size NL g+BandPartition.size NR g)*(233*m+1713)+13*m+3139 := by sorry

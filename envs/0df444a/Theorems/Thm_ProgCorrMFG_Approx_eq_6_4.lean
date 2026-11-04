@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProgCorrMFG_Approx_eq_6_4
 -- name    : ProgCorrMFG.Approx.eq_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:16.827516+00:00
 -- url     : https://prove2.me/theorems/db793120-2c00-4a3f-9143-fe34e8f1cc20

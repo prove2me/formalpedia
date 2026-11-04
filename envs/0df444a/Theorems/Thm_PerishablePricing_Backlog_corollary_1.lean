@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishablePricing_Backlog_corollary_1
 -- name    : PerishablePricing.Backlog.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:27:30.282232+00:00
 -- url     : https://prove2.me/theorems/8eadc1e8-dee6-4c87-8da7-13b19e152ce4

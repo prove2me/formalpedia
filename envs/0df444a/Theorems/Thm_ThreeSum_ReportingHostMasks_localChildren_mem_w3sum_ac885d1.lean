@@ -1,0 +1,25 @@
+-- Prove2me | Theorems.Thm_ThreeSum_ReportingHostMasks_localChildren_mem_w3sum_ac885d1
+-- name    : ThreeSum.ReportingHostMasks.localChildren_mem_w3sum_ac885d1
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T10:35:13.307805+00:00
+-- url     : https://prove2.me/theorems/41a75490-7889-4062-be8f-d19545515f7b
+-- title:
+--   Reporting Host Masks: local Children mem
+-- statement:
+--   The Reporting Host Masks construction uses the local Children mem property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/ReportingHostMasks.lean#L82-L94
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/ReportingHostMasks.lean#L82-L94
+
+import Definitions.Def_Submission_ThreeSum_BlockMaskLayout
+import Definitions.Def_Submission_ThreeSum_QueryCoordinates
+import Definitions.Def_Submission_ThreeSum_ReportingHostMasks
+set_option autoImplicit false
+open ThreeSum ThreeSum.ReportingHostMasks
+open Finset BlockRows BlockIndex BlockIndexedQuery BlockMaskLayout
+open ThreeSum.SubsetAddress StoredReporting BlockForced
+
+theorem ThreeSum.ReportingHostMasks.localChildren_mem_w3sum_ac885d1 {J L : ℕ} (i : Fin J) (Q S : Finset (Fin L)) (h : ℕ) :
+    S ∈ localChildren i Q h ↔ S ∈ RawReporting.childList Q h := by sorry

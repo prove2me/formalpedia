@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_posDefCharFun
 -- name    : levy_foundations_posDefCharFun
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-27T07:41:33.067979+00:00
 -- url     : https://prove2.me/theorems/52fe2c61-71ae-42a5-a3b1-8a8771b5c37a

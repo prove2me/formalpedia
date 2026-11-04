@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_sigmaFinite
 -- name    : levy_foundations_sigmaFinite
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:34:56.44598+00:00
 -- url     : https://prove2.me/theorems/98086eea-50d4-4f3f-b70a-ba0fcbdd6158

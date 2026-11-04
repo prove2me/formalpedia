@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KatyushaNs_tau_schedule_inequalities
 -- name    : KatyushaNs.tau_schedule_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:54:54.42117+00:00
 -- url     : https://prove2.me/theorems/4bf34126-2713-42d4-9bc4-e1ed6dc30cf7

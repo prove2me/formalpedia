@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GavrilSubtree_Chordal_three_point_inter_nonempty
 -- name    : GavrilSubtree.Chordal.three_point_inter_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:51:22.666092+00:00
 -- url     : https://prove2.me/theorems/f86948c2-9bf3-4368-8dbb-7cd056c783c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDDiP_Conv_under_approx
 -- name    : SDDiP.Conv.under_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:47:49.519064+00:00
 -- url     : https://prove2.me/theorems/0409db49-89ad-47e2-837e-f0acee59da24

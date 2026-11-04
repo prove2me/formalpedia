@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetirePartialInfo_Duality_proof_2_4_feasible
 -- name    : RetirePartialInfo.Duality.proof_2_4_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:34.984738+00:00
 -- url     : https://prove2.me/theorems/0cb64f64-7b0d-4858-8689-e4760073b6b9

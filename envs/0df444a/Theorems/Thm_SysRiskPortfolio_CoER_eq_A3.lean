@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SysRiskPortfolio_CoER_eq_A3
 -- name    : SysRiskPortfolio.CoER.eq_A3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:50:30.888224+00:00
 -- url     : https://prove2.me/theorems/d8bd8f33-4883-47bb-bd7d-26271e53dc31

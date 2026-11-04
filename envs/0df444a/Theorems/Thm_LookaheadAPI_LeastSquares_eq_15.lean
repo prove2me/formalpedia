@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LookaheadAPI_LeastSquares_eq_15
 -- name    : LookaheadAPI.LeastSquares.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:53:58.395132+00:00
 -- url     : https://prove2.me/theorems/6e0df983-297f-414f-9abe-c02aa13b9e83

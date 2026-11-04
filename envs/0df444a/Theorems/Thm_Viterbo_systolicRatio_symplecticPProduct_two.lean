@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_systolicRatio_symplecticPProduct_two
 -- name    : Viterbo.systolicRatio_symplecticPProduct_two
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T08:15:32.587169+00:00
 -- url     : https://prove2.me/theorems/66a14d90-82a1-43d7-a595-c0702ed0dbb3

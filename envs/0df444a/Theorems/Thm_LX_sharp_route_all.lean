@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_sharp_route_all
 -- name    : LX.sharp_route_all
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:28:57.776751+00:00
 -- url     : https://prove2.me/theorems/192bf839-fca9-4437-ac18-5b5c665bd141

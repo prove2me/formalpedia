@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_graph_has_three_n_minus_six_edges__p2m_b8daf038_e3c0_4a60_b7f6_5a7661d4dadb_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:53:17.038654+00:00
 -- url     : https://prove2.me/submissions/487b5efc-9cc3-4a5b-8362-061f652deedf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

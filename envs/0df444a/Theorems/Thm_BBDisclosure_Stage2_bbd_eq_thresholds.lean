@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBDisclosure_Stage2_bbd_eq_thresholds
 -- name    : BBDisclosure.Stage2.bbd_eq_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:32:50.809471+00:00
 -- url     : https://prove2.me/theorems/078f64d3-1246-40af-b4f6-feb7f37ba384

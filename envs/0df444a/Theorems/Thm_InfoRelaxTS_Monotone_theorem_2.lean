@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Monotone_theorem_2
 -- name    : InfoRelaxTS.Monotone.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:31:15.908717+00:00
 -- url     : https://prove2.me/theorems/9e8daf56-c3ed-45d8-8b13-88f178614aa6

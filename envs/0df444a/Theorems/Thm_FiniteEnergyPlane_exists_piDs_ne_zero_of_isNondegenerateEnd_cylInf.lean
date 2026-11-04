@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_piDs_ne_zero_of_isNondegenerateEnd_cylInf
 -- name    : FiniteEnergyPlane.exists_piDs_ne_zero_of_isNondegenerateEnd_cylInf
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-02T20:29:23.045474+00:00
 -- url     : https://prove2.me/theorems/0e8dff24-44ac-48ca-bc08-911676b7766f

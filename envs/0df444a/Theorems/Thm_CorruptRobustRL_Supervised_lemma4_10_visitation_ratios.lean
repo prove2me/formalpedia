@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_lemma4_10_visitation_ratios
 -- name    : CorruptRobustRL.Supervised.lemma4_10_visitation_ratios
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:12.341269+00:00
 -- url     : https://prove2.me/theorems/f20ece49-f6d0-4ae2-bc96-4b25a2b3c824

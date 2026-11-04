@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_lemma_2_1_easy_regime
 -- name    : ContJRP.Align.lemma_2_1_easy_regime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:41.174166+00:00
 -- url     : https://prove2.me/theorems/8c80736b-288b-4af8-ae6f-43d8ea16ea1b

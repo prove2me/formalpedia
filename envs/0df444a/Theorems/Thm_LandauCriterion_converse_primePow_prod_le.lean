@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauCriterion_converse_primePow_prod_le
 -- name    : LandauCriterion.converse_primePow_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @pitimespi
 -- created : 2026-11-01T18:53:14.628797+00:00
 -- url     : https://prove2.me/theorems/4343cdc5-33df-4176-a16c-6a194366ab85

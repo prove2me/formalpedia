@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBDisclosure_Stage2_eq_5_uniform_profit
 -- name    : BBDisclosure.Stage2.eq_5_uniform_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:32:50.100877+00:00
 -- url     : https://prove2.me/theorems/2d9d4bd4-e7c4-4354-899c-fb7271487f6d

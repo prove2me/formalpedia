@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.exists_hasWindPi_of_nondegenerate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-11-02T20:30:45.878055+00:00
 -- url     : https://prove2.me/submissions/87260940-f3df-46d8-8816-6cda3d71f352
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_Winding
 import Mathlib.Analysis.Normed.Module.Connected

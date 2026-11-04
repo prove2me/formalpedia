@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_claim_3_5_component_sum
 -- name    : ContJRP.Align.claim_3_5_component_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:42.931986+00:00
 -- url     : https://prove2.me/theorems/b8db2d4d-1295-4567-9bf7-be163e68ad0d

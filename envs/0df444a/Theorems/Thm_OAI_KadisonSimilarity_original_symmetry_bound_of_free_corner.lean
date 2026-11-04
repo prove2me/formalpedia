@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_original_symmetry_bound_of_free_corner
 -- name    : OAI.KadisonSimilarity.original_symmetry_bound_of_free_corner
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T08:53:42.418344+00:00
 -- url     : https://prove2.me/theorems/c51215e3-679f-4e07-a436-89e90f76be59

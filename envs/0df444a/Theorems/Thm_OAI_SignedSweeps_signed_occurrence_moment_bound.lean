@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SignedSweeps_signed_occurrence_moment_bound
 -- name    : OAI.SignedSweeps.signed_occurrence_moment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:21.80536+00:00
 -- url     : https://prove2.me/theorems/c1b03e7d-9070-4eb8-a156-e036d9b61b50

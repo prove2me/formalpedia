@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfisterCEP_H3_eq_graphHamiltonian
 -- name    : PfisterCEP.H3_eq_graphHamiltonian
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:26:53.479665+00:00
 -- url     : https://prove2.me/theorems/b6adb42c-efe3-4106-9e42-522a2ff0e732

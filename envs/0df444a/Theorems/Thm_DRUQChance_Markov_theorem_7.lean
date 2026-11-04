@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRUQChance_Markov_theorem_7
 -- name    : DRUQChance.Markov.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T18:48:50.136978+00:00
 -- url     : https://prove2.me/theorems/4eafb1ef-c3a9-4f84-8f38-a412647fda32

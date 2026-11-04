@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlindProphetSec_Upper_theorem_1_3
 -- name    : BlindProphetSec.Upper.theorem_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:14.463281+00:00
 -- url     : https://prove2.me/theorems/aee78905-5e9e-41de-9af6-4558070b3bc1

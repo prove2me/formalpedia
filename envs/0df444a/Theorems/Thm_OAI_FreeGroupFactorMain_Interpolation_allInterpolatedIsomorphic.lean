@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FreeGroupFactorMain_Interpolation_allInterpolatedIsomorphic
 -- name    : OAI.FreeGroupFactorMain.Interpolation.allInterpolatedIsomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:41.691249+00:00
 -- url     : https://prove2.me/theorems/9af858a6-bb05-4f0a-aa34-c7f88d021dfd

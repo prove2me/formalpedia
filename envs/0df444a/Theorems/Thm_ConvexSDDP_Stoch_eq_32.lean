@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexSDDP_Stoch_eq_32
 -- name    : ConvexSDDP.Stoch.eq_32
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:59:10.122372+00:00
 -- url     : https://prove2.me/theorems/438f19b6-fcd1-4caa-9667-bf20bbe1bc60

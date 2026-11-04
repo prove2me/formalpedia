@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyRSN_PartialBalance_partial_balance_equivalences
 -- name    : KellyRSN.PartialBalance.partial_balance_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:47:28.758099+00:00
 -- url     : https://prove2.me/theorems/8c08023d-e219-40f4-9502-13de083abc8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_AnchoredPhases_even_unpaid_binary_height_profile
 -- name    : LX.AnchoredPhases.even_unpaid_binary_height_profile
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:26:57.585939+00:00
 -- url     : https://prove2.me/theorems/1c2688d1-a81f-4a75-85df-52da58e8f9f6

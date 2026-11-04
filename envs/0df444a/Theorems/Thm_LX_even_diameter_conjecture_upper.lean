@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_even_diameter_conjecture_upper
 -- name    : LX.even_diameter_conjecture_upper
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:27:05.937128+00:00
 -- url     : https://prove2.me/theorems/aad2857b-2ff3-4a8c-85e3-2f5eb01f60fe

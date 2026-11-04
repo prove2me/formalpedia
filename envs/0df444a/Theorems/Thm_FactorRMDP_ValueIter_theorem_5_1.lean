@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FactorRMDP_ValueIter_theorem_5_1
 -- name    : FactorRMDP.ValueIter.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T19:33:58.931748+00:00
 -- url     : https://prove2.me/theorems/ba68d1f0-271a-4529-91f5-6565c1eac450

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_piecewisePathIsCadlag
 -- name    : levy_foundations_piecewisePathIsCadlag
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:45:52.089007+00:00
 -- url     : https://prove2.me/theorems/e3f77d65-eeb6-4b63-b035-d78f97e9b696

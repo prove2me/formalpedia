@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_isFastPlane_iff_hasWindInfAt_one
 -- name    : FiniteEnergyPlane.isFastPlane_iff_hasWindInfAt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:40:00.560751+00:00
 -- url     : https://prove2.me/theorems/c505e592-51da-4c29-bad9-1f319d94cb08

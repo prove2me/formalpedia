@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SONATA_Push_theorem_4_5
 -- name    : SONATA.Push.theorem_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:13:59.206148+00:00
 -- url     : https://prove2.me/theorems/cec268c2-a33f-468f-ab18-17d9224c7e12

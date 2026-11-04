@@ -1,0 +1,49 @@
+-- Prove2me | Theorems.Thm_ThreeSum_LightEncodedColorWantedSources_program_length
+-- name    : ThreeSum.LightEncodedColorWantedSources.program_length
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T13:31:56.322088+00:00
+-- url     : https://prove2.me/theorems/e8691a5e-f4c6-4716-bb3e-91288f81c4dd
+-- title:
+--   Light Encoded Color Wanted Sources: program length
+-- statement:
+--   The Light Encoded Color Wanted Sources construction uses the program length property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/LightEncodedColorWantedSources.lean#L20-L20
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/LightEncodedColorWantedSources.lean#L20-L20
+
+import Definitions.Def_Submission_ThreeSum_LightEncodedColorFiniteSources
+import Definitions.Def_Submission_ThreeSum_LightEncodedColorWantedSources
+import Theorems.Thm_ThreeSum_LightBalancedWanted_program_length
+import Theorems.Thm_ThreeSum_LightBandPreprocessing_program_length
+import Theorems.Thm_ThreeSum_LightBandRawAColor_program_length
+import Theorems.Thm_ThreeSum_LightBlockSourceBatchProgram_program_length
+import Theorems.Thm_ThreeSum_LightBlockSourceCatalogProgram_program_length
+import Theorems.Thm_ThreeSum_LightBlockSourceRetainedProgram_program_length
+import Theorems.Thm_ThreeSum_LightColorBands_program_length
+import Theorems.Thm_ThreeSum_LightCoverKeys_program_length
+import Theorems.Thm_ThreeSum_LightEncodedColorSources_program_length
+import Theorems.Thm_ThreeSum_LightGlobalKeys_program_length
+import Theorems.Thm_ThreeSum_LightGuardedWanted_program_length
+import Theorems.Thm_ThreeSum_LightOriginalOffset_program_length
+import Theorems.Thm_ThreeSum_LightSourceBandBanksProgram_program_length
+import Theorems.Thm_ThreeSum_LightSourceBandHostProgram_program_length
+import Theorems.Thm_ThreeSum_LightSourceBandPair_program_length
+import Theorems.Thm_ThreeSum_LightSourceBandProgram_program_length
+import Theorems.Thm_ThreeSum_LightSourceBucketBuild_program_length
+import Theorems.Thm_ThreeSum_LightSourceBucketOriginal_program_length
+import Theorems.Thm_ThreeSum_LightSourceBucketSetup_program_length
+import Theorems.Thm_ThreeSum_LightSourceControlsHostProgram_program_length
+import Theorems.Thm_ThreeSum_LightSourceControlsProgram_program_length
+import Theorems.Thm_ThreeSum_LightSourceOccurrenceArray_program_length
+import Theorems.Thm_ThreeSum_LightSourceRetainedStages_program_length
+import Theorems.Thm_ThreeSum_LightWantedSetup_program_length
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.LightEncodedColorWantedSources
+open Light Scales TrimScales BandScales
+set_option maxHeartbeats 2500000
+set_option maxRecDepth 13000
+
+theorem ThreeSum.LightEncodedColorWantedSources.program_length : program.length=181 := by sorry

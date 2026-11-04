@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynRouting_ResidenceTime_lemma_1
 -- name    : AtomicDynRouting.ResidenceTime.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:14.765241+00:00
 -- url     : https://prove2.me/theorems/65c04f0c-df51-490c-b6fd-71eaba2fe350

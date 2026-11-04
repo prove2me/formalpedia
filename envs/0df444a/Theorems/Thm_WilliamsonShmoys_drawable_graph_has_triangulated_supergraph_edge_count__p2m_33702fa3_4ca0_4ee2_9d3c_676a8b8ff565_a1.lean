@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_has_triangulated_supergraph_edge_count__p2m_33702fa3_4ca0_4ee2_9d3c_676a8b8ff565_a1
 -- name    : WilliamsonShmoys.drawable_graph_has_triangulated_supergraph_edge_count__p2m_33702fa3_4ca0_4ee2_9d3c_676a8b8ff565_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:23:52.883556+00:00
 -- url     : https://prove2.me/theorems/8b622a66-c72a-42ac-86d2-b24f5cfdd6f7

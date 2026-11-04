@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynkinAsymInfo_Linear_proposition_6_4
 -- name    : DynkinAsymInfo.Linear.proposition_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:32.46898+00:00
 -- url     : https://prove2.me/theorems/7c09b31a-bb76-421e-b8f1-472a70e0922d

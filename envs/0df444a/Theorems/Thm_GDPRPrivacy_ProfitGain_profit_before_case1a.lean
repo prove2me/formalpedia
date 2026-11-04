@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_ProfitGain_profit_before_case1a
 -- name    : GDPRPrivacy.ProfitGain.profit_before_case1a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:19:24.934466+00:00
 -- url     : https://prove2.me/theorems/beab36b9-7c19-44f7-8f23-debe05616b15

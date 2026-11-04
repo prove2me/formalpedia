@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDDiP_Conv_eq_3_8
 -- name    : SDDiP.Conv.eq_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:49:40.719246+00:00
 -- url     : https://prove2.me/theorems/a29cfb99-e282-4967-84c5-aa59bbdb7a3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_CAKKT_limNormal_subset_polar_linCone
 -- name    : StrictCQ.CAKKT.limNormal_subset_polar_linCone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:33:22.829073+00:00
 -- url     : https://prove2.me/theorems/30236e3a-c99f-47c2-ab7b-c37af713f10c

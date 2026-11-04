@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_lemmaD_1_ucb_decomposition
 -- name    : CorruptRobustRL.Supervised.lemmaD_1_ucb_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:07.132208+00:00
 -- url     : https://prove2.me/theorems/56b35744-d7e4-4cbe-86da-59544d6ce93d

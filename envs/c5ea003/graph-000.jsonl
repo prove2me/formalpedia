@@ -34409,7 +34409,7 @@
 {"parent": "MovingSofa.inner_le_supportValue_of_isCompact", "child": "MovingSofa_Geometry_Basic", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.inner_le_supportValue_of_isCompact", "child": "MovingSofa_Geometry_Plane", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.inner_normalVector_smul_add_inner_tangentVector_smul", "child": "MovingSofa_Geometry_Basic", "via": ["solution", "statement"]}
-{"parent": "MovingSofa.isMovingSofa_gerversSofaWith", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.isMovingSofa_gerversSofaWith", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.motion_linear_det_pos", "child": "MovingSofa.continuous_motion_linear_apply", "via": ["solution"]}
 {"parent": "MovingSofa.motion_linear_det_pos", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.motion_linear_det_pos", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
@@ -61396,3 +61396,6 @@
 {"parent": "FSCofinality.theorem1_2", "child": "FSCofinalityStructures20261102", "via": ["solution"]}
 {"parent": "FSCofinality.theorem1_2", "child": "FSCofinalityCosets20261102", "via": ["solution"]}
 {"parent": "FSCofinality.bounded_tree_isomorphism_borel", "child": "FSCofinalityStructures20261102", "via": ["solution"]}
+{"parent": "MovingSofa.uniqueParameterTuple_hasMotion", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.isMovingSofa_gerversSofaWith", "child": "MovingSofa.GerversSofa.ABphiThetaSpec.existsUnique", "via": ["solution"]}
+{"parent": "MovingSofa.isMovingSofa_gerversSofaWith", "child": "MovingSofa.uniqueParameterTuple_hasMotion", "via": ["solution"]}

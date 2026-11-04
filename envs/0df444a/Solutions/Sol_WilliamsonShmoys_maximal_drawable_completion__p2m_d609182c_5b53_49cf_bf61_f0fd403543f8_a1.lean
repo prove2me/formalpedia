@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_drawable_completion__p2m_d609182c_5b53_49cf_bf61_f0fd403543f8_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:00:26.249226+00:00
 -- url     : https://prove2.me/submissions/92421766-3909-4c5e-99ef-c57b3a0cc839
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_maximal_drawable_supergraph_exists__p2m_d07e54eb_c4bc_460d_b7df_6d44fa14b7ac_a1

@@ -1,16 +1,16 @@
 -- Prove2me | Theorems.Thm_TaoBR_restr_sparse_of_restr
 -- name    : TaoBR.restr_sparse_of_restr
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T17:06:40.500983+00:00
 -- url     : https://prove2.me/theorems/bf049406-71f0-49eb-b4fe-15137d633ca6
 -- title:
---   Lemma 3.2 — R(p, α) extends to functions supported on a sparse union of R-balls
+--   Lemma 3.2 (exponent chosen after α) — R(p, α) extends to functions supported on a sparse union of R-balls
 -- statement:
 --   For $n \ge 2$, $1 < p < 2$ and $\alpha > 0$: if $R(p, \alpha)$ holds, then there are constants $C_0$ and $C$ such that for every $R \ge 1$, every $N$, and every family of centres $x_1, \dots, x_N$ forming a sparse collection with constant $C_0$ (distinct centres at distance at least $R^{C_0}N^{C_0}$), every Schwartz $f$ supported in $\bigcup_i \overline B(x_i, R)$ satisfies
 --   $$\|\Re f\|_{L^p(S^{n-1})} \le C R^\alpha\|f\|_p.$$
 --
---   *Formalization note.* Definition 3.1's constant ("$C$ denotes a constant that will change from line to line") is the sparseness constant $C_0$; the lemma provides some $C_0$ for which the bound holds. Lemma 3.3 produces sparse collections for every prescribed constant, so the two fit together.
+--   *Formalization note.* Definition 3.1's constant ("$C$ denotes a constant that will change from line to line") is the sparseness constant $C_0$. This statement chooses it after $\alpha$, so it may grow as $\alpha \to 0$. That is the weaker reading: the paper's proof fixes the exponent independently of $\alpha$, and Theorem 1.2 needs that, since the radii of Lemma 3.3's sparse collections grow like $|E|^{C^N}$ with $N$ comparable to $\log(1/\alpha)$. The uniform form, with $C_0$ chosen before $\alpha$, is `TaoBR.restr_sparse_of_restr_uniform`, and this statement follows from it.
 -- source:
 --   Tao, T., The Bochner–Riesz conjecture implies the restriction conjecture, Duke Math. J. 96 (1999) 363–375, https://doi.org/10.1215/S0012-7094-99-09610-2 (the author's preprint, https://www.math.ucla.edu/~tao/preprints/restriction.dvi, whose page numbers are used), p. 5, Lemma 3.2
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KatyushaNs_theorem_4_1_katyusha_ns_rate
 -- name    : KatyushaNs.theorem_4_1_katyusha_ns_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:56:25.001146+00:00
 -- url     : https://prove2.me/theorems/1fd35554-1cae-46b4-a4f1-62a80249f162

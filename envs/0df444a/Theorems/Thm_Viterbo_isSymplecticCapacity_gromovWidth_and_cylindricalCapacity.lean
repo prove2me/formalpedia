@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_isSymplecticCapacity_gromovWidth_and_cylindricalCapacity
 -- name    : Viterbo.isSymplecticCapacity_gromovWidth_and_cylindricalCapacity
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T07:21:05.412866+00:00
 -- url     : https://prove2.me/theorems/d6f21c80-538c-4837-aafc-84aa686d9184

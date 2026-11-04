@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueBandit_EarlyLower_lemma_22
 -- name    : QueueBandit.EarlyLower.lemma_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:33:18.170545+00:00
 -- url     : https://prove2.me/theorems/bc69c8a7-5bab-48c4-8b89-7da688a5f27a

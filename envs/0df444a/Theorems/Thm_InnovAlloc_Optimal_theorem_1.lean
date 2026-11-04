@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InnovAlloc_Optimal_theorem_1
 -- name    : InnovAlloc.Optimal.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:20:43.666051+00:00
 -- url     : https://prove2.me/theorems/ea70d65c-10c0-42d4-bd38-b3baef5cbc1d

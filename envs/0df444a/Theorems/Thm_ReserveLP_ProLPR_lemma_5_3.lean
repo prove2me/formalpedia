@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReserveLP_ProLPR_lemma_5_3
 -- name    : ReserveLP.ProLPR.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:26.394058+00:00
 -- url     : https://prove2.me/theorems/fb8c9a47-c86a-43de-b002-962e440cbf79

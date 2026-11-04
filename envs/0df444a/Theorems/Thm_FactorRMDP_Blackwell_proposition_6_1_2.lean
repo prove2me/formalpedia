@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FactorRMDP_Blackwell_proposition_6_1_2
 -- name    : FactorRMDP.Blackwell.proposition_6_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:06.806483+00:00
 -- url     : https://prove2.me/theorems/3d45738e-7466-4139-9de4-db9a3ade73e6

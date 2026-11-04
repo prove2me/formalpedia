@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulated_completion__p2m_ae2deb14_265a_4589_b20a_d2c312b9c2e6_a1
 -- name    : WilliamsonShmoys.planar_drawing_triangulated_completion__p2m_ae2deb14_265a_4589_b20a_d2c312b9c2e6_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T11:36:09.519572+00:00
 -- url     : https://prove2.me/theorems/1ccfbc5e-ee72-4561-8bb6-ab9cee0a3a68

@@ -1,0 +1,82 @@
+-- Prove2me | solution 1 for ThreeSum.ReportingHostPositive.parentWork_le
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T14:39:40.381518+00:00
+-- url     : https://prove2.me/submissions/1d3f67fe-72a8-47ad-b704-291c5aab1038
+
+import Definitions.Def_Submission_ThreeSum_LightReportingCatalogExpand
+import Definitions.Def_Submission_ThreeSum_ReportingHostFrontier
+import Definitions.Def_Submission_ThreeSum_ReportingHostPositive
+import Theorems.Thm_ThreeSum_LightBlockChildrenIndexed_time_bound
+import Theorems.Thm_ThreeSum_LightBlockChildren_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_395153661a990775
+import Theorems.Thm_ThreeSum_LightBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightCanonicalBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetAddress_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetSize_time_bound
+import Theorems.Thm_ThreeSum_LightExplicitSum_time_bound
+import Theorems.Thm_ThreeSum_LightLeafSum_time_bound
+import Theorems.Thm_ThreeSum_LightMaskMinimum_time_bound
+import Theorems.Thm_ThreeSum_LightMaskUnion_time_bound
+import Theorems.Thm_ThreeSum_LightQueryBox_time_bound
+import Theorems.Thm_ThreeSum_LightQueryEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightQueryWeights_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_a98211a6e8223f5f
+import Theorems.Thm_ThreeSum_LightRadixRows_time_bound
+import Theorems.Thm_ThreeSum_LightReportingCatalogBatch_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_d9f2c07378eda243
+import Theorems.Thm_ThreeSum_LightReportingCatalogLevel_time_bound
+import Theorems.Thm_ThreeSum_LightReportingCatalogQuery_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPairRows_time_bound
+import Theorems.Thm_ThreeSum_LightReportingPrefixArrays_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSortedCatalog_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixBatch_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_aee3f2a8e7e7d37a
+import Theorems.Thm_ThreeSum_LightReportingSuffixCatalog_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixCell_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixExplicit_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixLower_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixQueryHost_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixQueryIndexed_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_d5b1b0bdde74f397
+import Theorems.Thm_ThreeSum_LightReportingSuffixSetup_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixSum_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_306830be6786141e
+import Theorems.Thm_ThreeSum_LightSignedBoxSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafBatch_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafCell_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafGeneral_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafTable_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeaf_time_bound
+import Theorems.Thm_ThreeSum_LightSparseQuery_time_bound
+import Theorems.Thm_ThreeSum_LightStageLookup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumerationSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetSetup_time_bound
+import Theorems.Thm_ThreeSum_LightZetaBatch_time_bound
+import Theorems.Thm_ThreeSum_LightZetaCell_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_223d9caf4e7f660b
+import Definitions.Def_WeightedCache3SUM_Alias_c2a1891cab57c5b2
+import Theorems.Thm_ThreeSum_RawReporting_total_frontier_length_le_raw_card
+import Theorems.Thm_ThreeSum_ReportingHostFrontier_total_frontier_length_le_raw_card
+
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.ReportingHostPositive
+open Light Finset ThreeSum.SubsetAddress
+open BlockForced StoredReporting GlobalEncoding LocalCoverBounds RawIncidences RawReporting
+open LightBlockChildrenIndexed ReportingHostFrontier
+open scoped BigOperators
+set_option linter.unusedSectionVars false
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+  [DecidableEq α] [DecidableEq β] [DecidableEq γ]
+namespace ThreeSum.ReportingHostPositive
+theorem _root_.solution {h J k t : ℕ} (I : Finset (RawItem h J α β γ)) (hk : k < J)
+    (ht : t ≤ LightBlockQuery.residualSize h J (k+1)+1) :
+    parentWork I k t ≤ I.card*
+      (25000*(LightBlockQuery.width h J+1)^3*
+        (LightSparseQuery.queryItems (LightBlockQuery.residualSize h J (k+1)) t+1)*(groupSize h+1)) := by
+  rw [parentWork,← Finset.sum_mul]
+  exact Nat.mul_le_mul (total_frontier_length_le_raw_card I (Nat.le_of_lt hk))
+    (LightReportingCatalogExpand.time_bound hk ht)
+end ThreeSum.ReportingHostPositive

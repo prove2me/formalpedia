@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Monotone_WTS_isSupersolution
 -- name    : InfoRelaxTS.Monotone.WTS_isSupersolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:31:35.207686+00:00
 -- url     : https://prove2.me/theorems/3300850c-6d01-4d45-a08c-b16da65e451d

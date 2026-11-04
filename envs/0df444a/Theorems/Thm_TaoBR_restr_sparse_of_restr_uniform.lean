@@ -1,11 +1,11 @@
 -- Prove2me | Theorems.Thm_TaoBR_restr_sparse_of_restr_uniform
 -- name    : TaoBR.restr_sparse_of_restr_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T22:55:21.758703+00:00
 -- url     : https://prove2.me/theorems/e6bd5d56-5030-4eda-a3d5-31e2e544726d
 -- title:
---   Tao 1999, Lemma 3.2 with the sparseness exponent uniform in α
+--   Lemma 3.2 (uniform form) — R(p, α) extends to sparse unions of R-balls, with the sparseness exponent chosen before α
 -- statement:
 --   For $n \ge 2$ and $1 < p < 2$ there is a sparseness exponent $C_0$ such that, for every $\alpha > 0$ for which $R(p, \alpha)$ holds, there is a constant $C$ with the following property. For every $R \ge 1$, every $N$, and every family of centres $x_1, \dots, x_N$ at mutual distances at least $R^{C_0}N^{C_0}$, every Schwartz $f$ supported in $\bigcup_i \overline B(x_i, R)$ satisfies
 --   $$\|\Re f\|_{L^p(S^{n-1})} \le C R^\alpha\|f\|_p.$$

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovSSAAudit_SSA_expected_error_bound
 -- name    : NesterovSSAAudit.SSA.expected_error_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:46:23.951851+00:00
 -- url     : https://prove2.me/theorems/1c4edea8-550c-43f5-a2a9-d05bd5ac07a3

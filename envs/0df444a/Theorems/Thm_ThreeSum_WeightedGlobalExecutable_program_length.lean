@@ -1,0 +1,119 @@
+-- Prove2me | Theorems.Thm_ThreeSum_WeightedGlobalExecutable_program_length
+-- name    : ThreeSum.WeightedGlobalExecutable.program_length
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T17:58:51.084752+00:00
+-- url     : https://prove2.me/theorems/feabcebd-832f-4776-8847-6e79545c4d75
+-- title:
+--   Weighted Global Executable: program length
+-- statement:
+--   The Weighted Global Executable construction uses the program length property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/Weighted/Global/TernaryExecutable.lean#L66-L69
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/Weighted/Global/TernaryExecutable.lean#L66-L69
+
+import Definitions.Def_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_Weighted_Global_LightTernaryFastProgram
+import Definitions.Def_Submission_Weighted_Global_LightTernaryPreparedPostSelection
+import Definitions.Def_Submission_ThreeSum_TernaryCanonicalDictionaries
+import Definitions.Def_Submission_Weighted_Global_TernaryArenaSourceSetup
+import Definitions.Def_Submission_Weighted_Global_TernaryGoodOutputCatalog
+import Definitions.Def_Submission_Weighted_Global_TernaryExecutable
+import Theorems.Thm_ThreeSum_LightBandPreprocessing_program_length
+import Theorems.Thm_ThreeSum_LightColorBands_program_length
+import Theorems.Thm_ThreeSum_LightIrreducibleFinder_program_length
+import Theorems.Thm_ThreeSum_LightOriginalCollisionCleanup_program_length
+import Theorems.Thm_ThreeSum_LightOriginalCollisionScore_program_length
+import Theorems.Thm_ThreeSum_LightOriginalOffset_program_length
+import Theorems.Thm_ThreeSum_LightSourceBucketBuild_program_length
+import Theorems.Thm_ThreeSum_LightSourceBucketSetup_program_length
+import Theorems.Thm_ThreeSum_LightStoredSpan_program_length
+import Theorems.Thm_ThreeSum_LightTernaryBankAssembly_program_length
+import Theorems.Thm_ThreeSum_LightTernaryBankStages_program_length
+import Theorems.Thm_ThreeSum_LightTernaryColorPrelude_program_length
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_main
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_program_length
+import Theorems.Thm_ThreeSum_LightTernaryFinalPreparation_program_length
+import Theorems.Thm_ThreeSum_LightTernaryGroupBankStep_program_length
+import Theorems.Thm_ThreeSum_LightTernaryGroupedBanks_program_length
+import Theorems.Thm_ThreeSum_LightTernaryNearPair_program_length
+import Theorems.Thm_ThreeSum_LightTernaryNearSetup_program_length
+import Theorems.Thm_ThreeSum_LightTernaryPreparedWanted_program_length
+import Theorems.Thm_ThreeSum_LightTernaryRequesterMatrix_program_length
+import Theorems.Thm_ThreeSum_LightTernarySourceCountHost_program_length
+import Theorems.Thm_ThreeSum_LightTernaryWantedQuery_program_length
+import Theorems.Thm_ThreeSum_LightTernaryWantedRows_program_length
+import Theorems.Thm_ThreeSum_LightWantedSetup_program_length
+import Theorems.Thm_ThreeSum_LightWeightedBankAssembly_program_length
+import Theorems.Thm_ThreeSum_LightWeightedBankStages_program_length
+import Theorems.Thm_ThreeSum_LightWeightedCountFrontend_main
+import Theorems.Thm_ThreeSum_LightWeightedCountFrontend_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalCertifiedMomentDriver_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalColorPreparation_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalGlobalPrelude_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalMomentReporter_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalPostSelection_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalPrefixLoop_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalPreparedPostSelection_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalSeedController_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalSeedScore_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGlobalTensorDriver_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGroupBankStep_program_length
+import Theorems.Thm_ThreeSum_LightWeightedGroupedBanks_program_length
+import Theorems.Thm_ThreeSum_LightWeightedNearPair_program_length
+import Theorems.Thm_ThreeSum_LightWeightedNearSetup_program_length
+import Theorems.Thm_ThreeSum_LightWeightedPreparedWanted_program_length
+import Theorems.Thm_ThreeSum_LightWeightedSourceCountHost_program_length
+import Theorems.Thm_ThreeSum_LightWeightedWantedQuery_program_length
+import Theorems.Thm_ThreeSum_LightWeightedWantedRows_program_length
+attribute [local simp] ThreeSum.LightIrreducibleFinder.program_length
+attribute [local simp] ThreeSum.LightOriginalCollisionCleanup.program_length
+attribute [local simp] ThreeSum.LightOriginalCollisionScore.program_length
+attribute [local simp] ThreeSum.LightStoredSpan.program_length
+attribute [local simp] ThreeSum.LightTernaryBankAssembly.program_length
+attribute [local simp] ThreeSum.LightTernaryBankStages.program_length
+attribute [local simp] ThreeSum.LightTernaryColorPrelude.program_length
+attribute [local simp] ThreeSum.LightTernaryCountFrontend.main
+attribute [local simp] ThreeSum.LightTernaryCountFrontend.program_length
+attribute [local simp] ThreeSum.LightTernaryFinalPreparation.program_length
+attribute [local simp] ThreeSum.LightTernaryGroupedBanks.program_length
+attribute [local simp] ThreeSum.LightTernaryNearPair.program_length
+attribute [local simp] ThreeSum.LightTernaryNearSetup.program_length
+attribute [local simp] ThreeSum.LightTernaryPreparedWanted.program_length
+attribute [local simp] ThreeSum.LightTernaryRequesterMatrix.program_length
+attribute [local simp] ThreeSum.LightTernarySourceCountHost.program_length
+attribute [local simp] ThreeSum.LightTernaryWantedQuery.program_length
+attribute [local simp] ThreeSum.LightTernaryWantedRows.program_length
+attribute [local simp] ThreeSum.LightWeightedBankAssembly.program_length
+attribute [local simp] ThreeSum.LightWeightedBankStages.program_length
+attribute [local simp] ThreeSum.LightWeightedCountFrontend.main
+attribute [local simp] ThreeSum.LightWeightedCountFrontend.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalCertifiedMomentDriver.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalColorPreparation.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalGlobalPrelude.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalMomentReporter.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalPostSelection.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalPrefixLoop.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalPreparedPostSelection.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalSeedController.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalSeedScore.program_length
+attribute [local simp] ThreeSum.LightWeightedGlobalTensorDriver.program_length
+attribute [local simp] ThreeSum.LightWeightedGroupedBanks.program_length
+attribute [local simp] ThreeSum.LightWeightedNearPair.program_length
+attribute [local simp] ThreeSum.LightWeightedNearSetup.program_length
+attribute [local simp] ThreeSum.LightWeightedPreparedWanted.program_length
+attribute [local simp] ThreeSum.LightWeightedSourceCountHost.program_length
+attribute [local simp] ThreeSum.LightWeightedWantedQuery.program_length
+attribute [local simp] ThreeSum.LightWeightedWantedRows.program_length
+
+
+set_option autoImplicit false
+noncomputable section
+open ThreeSum ThreeSum.WeightedGlobalExecutable
+open Light WeightedGlobalLocalParameters WeightedGlobalCoverGoodMaps TernaryCanonicalDictionaries
+variable {p m F : ℕ} [Fact p.Prime]
+
+theorem ThreeSum.WeightedGlobalExecutable.program_length (maps : Fin F→Weight m p) (τ cap M radix K D E κ : ℕ)
+    (Q : WeightedGlobalGoodOutputCatalog.Output m) :
+    (program maps τ cap M radix K D E κ Q).length=main (p := p) K+1 := by sorry

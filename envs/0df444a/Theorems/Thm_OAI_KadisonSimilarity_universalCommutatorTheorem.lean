@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_universalCommutatorTheorem
 -- name    : OAI.KadisonSimilarity.universalCommutatorTheorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:50.0957+00:00
 -- url     : https://prove2.me/theorems/21979db0-4ba0-4ef8-a5f7-eb36f4f37f63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p2_original_negative_tail_unweighted_linear_smalltime_bound
 -- name    : AvramDividend.Classical.avram_p2_original_negative_tail_unweighted_linear_smalltime_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T00:33:51.695589+00:00
 -- url     : https://prove2.me/theorems/a74403d6-48cc-48b4-9132-d197689b5600

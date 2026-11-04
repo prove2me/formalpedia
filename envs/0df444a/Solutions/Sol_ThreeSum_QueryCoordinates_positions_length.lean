@@ -1,0 +1,63 @@
+-- Prove2me | solution 1 for ThreeSum.QueryCoordinates.positions_length
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T09:03:36.566199+00:00
+-- url     : https://prove2.me/submissions/f2a4a531-b471-45fd-be0c-d69a840acd5d
+
+import Definitions.Def_Submission_ThreeSum_LightWeightedEnumeration
+import Definitions.Def_Submission_ThreeSum_MaskDifference
+import Definitions.Def_Submission_ThreeSum_MaskDecode
+import Mathlib.Data.List.Sublists
+import Mathlib.Algebra.BigOperators.Fin
+import Definitions.Def_Submission_ThreeSum_QueryCoordinates
+import Theorems.Thm_ThreeSum_QueryCoordinates_positions_nodup
+import Theorems.Thm_ThreeSum_QueryCoordinates_positions_toFinset
+import Theorems.Thm_Light_getElem_powList
+import Theorems.Thm_Light_length_powList
+import Theorems.Thm_Light_sameFrame_cons_cons
+import Theorems.Thm_Light_sameFrame_cons_nil
+import Theorems.Thm_Light_sameFrame_nil
+import Theorems.Thm_Light_sameFrame_nil_cons
+import Theorems.Thm_Light_toNat_natCast_add_natCast
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_output_length
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_output_zero
+import Theorems.Thm_ThreeSum_LightWeightedEnumeration_output_length
+import Theorems.Thm_ThreeSum_LightWeightedEnumeration_output_zero
+import Theorems.Thm_ThreeSum_LightWeightedEnumeration_total_succ
+import Theorems.Thm_ThreeSum_LightWeightedEnumeration_total_zero
+import Theorems.Thm_ThreeSum_MaskDifference_subsetMask_empty
+import Theorems.Thm_ThreeSum_SubsetAddress_isMask_zero
+import Theorems.Thm_ThreeSum_SubsetAddress_layerOffset_zero
+import Theorems.Thm_ThreeSum_SubsetAddress_natPositions_card
+import Theorems.Thm_ThreeSum_SubsetAddress_weight_zero
+attribute [local simp] Light.getElem_powList
+attribute [local simp] Light.length_powList
+attribute [local simp] Light.sameFrame_cons_cons
+attribute [local simp] Light.sameFrame_cons_nil
+attribute [local simp] Light.sameFrame_nil
+attribute [local simp] Light.sameFrame_nil_cons
+attribute [local simp] Light.toNat_natCast_add_natCast
+attribute [local simp] ThreeSum.LightSubsetEnumeration.output_length
+attribute [local simp] ThreeSum.LightSubsetEnumeration.output_zero
+attribute [local simp] ThreeSum.LightWeightedEnumeration.output_length
+attribute [local simp] ThreeSum.LightWeightedEnumeration.output_zero
+attribute [local simp] ThreeSum.LightWeightedEnumeration.total_succ
+attribute [local simp] ThreeSum.LightWeightedEnumeration.total_zero
+attribute [local simp] ThreeSum.MaskDifference.subsetMask_empty
+attribute [local simp] ThreeSum.SubsetAddress.isMask_zero
+attribute [local simp] ThreeSum.SubsetAddress.layerOffset_zero
+attribute [local simp] ThreeSum.SubsetAddress.natPositions_card
+attribute [local simp] ThreeSum.SubsetAddress.weight_zero
+
+
+attribute [local simp] ThreeSum.QueryCoordinates.positions_toFinset
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.QueryCoordinates
+open Finset ThreeSum.SubsetAddress
+open scoped BigOperators
+namespace ThreeSum.QueryCoordinates
+theorem _root_.solution {W : ℕ} (Q : Finset (Fin W)) :
+    (positions Q W).length = Q.card := by
+  rw [← List.toFinset_card_of_nodup (positions_nodup Q W),positions_toFinset,natPositions_card]
+end ThreeSum.QueryCoordinates

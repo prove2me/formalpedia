@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Nested_gammaStar_posteriors
 -- name    : SCInfoDesign.Nested.gammaStar_posteriors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:30:25.603549+00:00
 -- url     : https://prove2.me/theorems/859b8ec5-cdb3-4617-a82c-e809c9a40a5d

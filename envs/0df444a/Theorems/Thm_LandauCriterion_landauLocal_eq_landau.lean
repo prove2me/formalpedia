@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauCriterion_landauLocal_eq_landau
 -- name    : LandauCriterion.landauLocal_eq_landau
--- status  : Open
+-- status  : Proved
 -- author  : @pitimespi
 -- created : 2026-11-01T18:52:42.601271+00:00
 -- url     : https://prove2.me/theorems/7c98fbb1-b416-4567-9735-f0a910812f36

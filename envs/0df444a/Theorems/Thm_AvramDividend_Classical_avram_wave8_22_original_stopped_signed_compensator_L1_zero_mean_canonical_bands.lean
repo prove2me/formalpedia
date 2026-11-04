@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_22_original_stopped_signed_compensator_L1_zero_mean_canonical_bands
 -- name    : AvramDividend.Classical.avram_wave8_22_original_stopped_signed_compensator_L1_zero_mean_canonical_bands
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T20:58:37.37318+00:00
 -- url     : https://prove2.me/theorems/14adb08e-3594-411c-a73d-5bff3b8569d9

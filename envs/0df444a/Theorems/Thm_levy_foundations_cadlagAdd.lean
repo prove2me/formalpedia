@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_cadlagAdd
 -- name    : levy_foundations_cadlagAdd
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:38:11.357623+00:00
 -- url     : https://prove2.me/theorems/87460449-5cd8-44b6-a927-9fdbc87512a7

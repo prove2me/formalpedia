@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishablePricing_Backlog_lipschitz_bound
 -- name    : PerishablePricing.Backlog.lipschitz_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:15.77518+00:00
 -- url     : https://prove2.me/theorems/c92aaff8-2efc-41c6-b9f5-7049fb06f62e

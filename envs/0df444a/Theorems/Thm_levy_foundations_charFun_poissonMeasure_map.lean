@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_charFun_poissonMeasure_map
 -- name    : levy_foundations_charFun_poissonMeasure_map
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:30:16.21388+00:00
 -- url     : https://prove2.me/theorems/6f701da4-1229-4dcc-9008-b51b485e1ead

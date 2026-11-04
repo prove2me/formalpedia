@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompoundSMM_Conv_theorem_5
 -- name    : CompoundSMM.Conv.theorem_5
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:37.309527+00:00
 -- url     : https://prove2.me/theorems/6f22b6b4-4d39-44c3-b93f-da8896c9e926

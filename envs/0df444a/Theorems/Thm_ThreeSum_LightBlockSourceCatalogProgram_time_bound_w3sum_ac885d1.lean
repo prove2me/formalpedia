@@ -1,0 +1,84 @@
+-- Prove2me | Theorems.Thm_ThreeSum_LightBlockSourceCatalogProgram_time_bound_w3sum_ac885d1
+-- name    : ThreeSum.LightBlockSourceCatalogProgram.time_bound_w3sum_ac885d1
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T12:50:56.584937+00:00
+-- url     : https://prove2.me/theorems/11bdfc9c-1010-4d0f-b6be-dc5a363b722a
+-- title:
+--   Light Block Source Catalog Program: time bound
+-- statement:
+--   The Light Block Source Catalog Program construction uses the time bound property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/LightBlockSourceCatalogProgram.lean#L34-L58
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/LightBlockSourceCatalogProgram.lean#L34-L58
+
+import Definitions.Def_Submission_ThreeSum_LightBlockSourceCatalog
+import Definitions.Def_Submission_ThreeSum_LightBlockSourceBatchProgram
+import Definitions.Def_Submission_ThreeSum_LightBlockSourceCatalogProgram
+import Theorems.Thm_ThreeSum_LightBlockCoefficients_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_62675b0b68a02f51
+import Theorems.Thm_ThreeSum_LightBlockSourceHashes_time_bound
+import Theorems.Thm_ThreeSum_LightBlockSourceRetainedProgram_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_395153661a990775
+import Theorems.Thm_ThreeSum_LightBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightCanonicalBoxSum_time_bound
+import Theorems.Thm_ThreeSum_LightDownsetAddress_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_432686f9c1a6224e
+import Definitions.Def_WeightedCache3SUM_Alias_f1b1ba0c94539568
+import Theorems.Thm_ThreeSum_LightDownsetSize_time_bound
+import Theorems.Thm_ThreeSum_LightExplicitSum_time_bound
+import Theorems.Thm_ThreeSum_LightLeafSum_time_bound
+import Theorems.Thm_ThreeSum_LightLocalCoverRow_time_bound
+import Theorems.Thm_ThreeSum_LightMaskBits_time_bound
+import Theorems.Thm_ThreeSum_LightMaskHashes_time_bound
+import Theorems.Thm_ThreeSum_LightMaskMinimum_time_bound
+import Theorems.Thm_ThreeSum_LightMaskUnion_time_bound
+import Theorems.Thm_ThreeSum_LightPairFlags_time_bound
+import Theorems.Thm_ThreeSum_LightQueryBox_time_bound
+import Theorems.Thm_ThreeSum_LightQueryEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightQueryWeights_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixBatch_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixCell_time_bound
+import Theorems.Thm_ThreeSum_LightReportingSuffixSetup_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_306830be6786141e
+import Theorems.Thm_ThreeSum_LightResidueHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSignedBoxSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafBatch_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafCell_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafGeneral_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeafTable_time_bound
+import Theorems.Thm_ThreeSum_LightSignedLeaf_time_bound
+import Theorems.Thm_ThreeSum_LightSmallDivide_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBuild_time_bound
+import Theorems.Thm_ThreeSum_LightSourceFlagArray_time_bound
+import Theorems.Thm_ThreeSum_LightSourceGather_time_bound
+import Theorems.Thm_ThreeSum_LightSourceHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSourceMaskFlags_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_5747fe39e5f06311
+import Theorems.Thm_ThreeSum_LightSourcePreparation_time_bound
+import Theorems.Thm_ThreeSum_LightSourceResidues_time_bound
+import Theorems.Thm_ThreeSum_LightSourceRetainedStages_time_bound
+import Theorems.Thm_ThreeSum_LightSourceRowFlag_time_bound
+import Theorems.Thm_ThreeSum_LightSourceStages_time_bound
+import Theorems.Thm_ThreeSum_LightSourceTrim_time_bound
+import Theorems.Thm_ThreeSum_LightSparseQuery_time_bound
+import Theorems.Thm_ThreeSum_LightStageLookup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumerationSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetSetup_time_bound
+import Theorems.Thm_ThreeSum_LightWeightDecode_time_bound
+import Theorems.Thm_ThreeSum_LightZetaBatch_time_bound
+import Theorems.Thm_ThreeSum_LightZetaCell_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_223d9caf4e7f660b
+import Definitions.Def_WeightedCache3SUM_Alias_c2a1891cab57c5b2
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.LightBlockSourceCatalogProgram
+open Light SubsetAddress LightBlockSourceCatalog
+set_option maxHeartbeats 2200000
+set_option maxRecDepth 16000
+
+theorem ThreeSum.LightBlockSourceCatalogProgram.time_bound_w3sum_ac885d1 {h J cut : ℕ} (hcut : cut ≤ J*(512*h)) :
+    LightBlockSourceCatalog.time h J cut ≤
+      (count h J+1)*factor h J*(downsetCap (J*(512*h)) cut+1) := by sorry

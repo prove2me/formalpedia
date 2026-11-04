@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBDisclosure_Stage2_eq_14_bbd_profit
 -- name    : BBDisclosure.Stage2.eq_14_bbd_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:32:57.440342+00:00
 -- url     : https://prove2.me/theorems/bdfe3a04-ebf5-4b5c-9470-1bf6e7621d5f

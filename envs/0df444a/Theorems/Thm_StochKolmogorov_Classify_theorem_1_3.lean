@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKolmogorov_Classify_theorem_1_3
 -- name    : StochKolmogorov.Classify.theorem_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:32:48.971344+00:00
 -- url     : https://prove2.me/theorems/8f909832-08c5-4806-ba4c-d17124712878

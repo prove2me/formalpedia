@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_lemma_2_4_component_coefficients
 -- name    : ContJRP.Align.lemma_2_4_component_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:36.763087+00:00
 -- url     : https://prove2.me/theorems/fa36e2c8-d389-40f9-82d3-06fa3bfb551d

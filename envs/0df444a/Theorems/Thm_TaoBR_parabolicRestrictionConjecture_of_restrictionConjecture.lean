@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoBR_parabolicRestrictionConjecture_of_restrictionConjecture
 -- name    : TaoBR.parabolicRestrictionConjecture_of_restrictionConjecture
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T17:16:09.515191+00:00
 -- url     : https://prove2.me/theorems/7db88f36-0e3d-4efb-88f4-a827daba3aed

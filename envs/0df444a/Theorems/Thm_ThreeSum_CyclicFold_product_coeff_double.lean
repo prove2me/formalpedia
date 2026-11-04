@@ -1,0 +1,30 @@
+-- Prove2me | Theorems.Thm_ThreeSum_CyclicFold_product_coeff_double
+-- name    : ThreeSum.CyclicFold.product_coeff_double
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T07:17:02.189189+00:00
+-- url     : https://prove2.me/theorems/8a04149c-75ec-42f1-a5f3-c37f2514518f
+-- title:
+--   Cyclic Fold: product coeff double
+-- statement:
+--   The Cyclic Fold construction uses the product coeff double property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/CyclicFold.lean#L30-L36
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/CyclicFold.lean#L30-L36
+
+import Definitions.Def_Submission_ThreeSum_KaratsubaBounds
+import Definitions.Def_Submission_ThreeSum_Histograms
+import Mathlib.Data.ZMod.Basic
+import Mathlib.Data.Fintype.EquivFin
+import Definitions.Def_Submission_ThreeSum_CyclicFold
+set_option autoImplicit false
+open ThreeSum ThreeSum.CyclicFold
+open Finset Polynomial Karatsuba
+open scoped BigOperators
+
+theorem ThreeSum.CyclicFold.product_coeff_double (as bs : List ℤ) (p : ℕ)
+    (ha : as.length ≤ p) (hb : bs.length ≤ p) (r : ℕ) :
+    (asPolynomial as * asPolynomial bs).coeff r =
+      ∑ i ∈ Finset.range p, ∑ j ∈ Finset.range p,
+        if i + j = r then as.getD i 0 * bs.getD j 0 else 0 := by sorry

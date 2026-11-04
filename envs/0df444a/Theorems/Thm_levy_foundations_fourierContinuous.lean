@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_fourierContinuous
 -- name    : levy_foundations_fourierContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-27T00:14:32.842251+00:00
 -- url     : https://prove2.me/theorems/e6f50331-74e8-411a-be22-e345dd81ac44

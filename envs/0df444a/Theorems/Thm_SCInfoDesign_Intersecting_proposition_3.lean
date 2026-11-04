@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Intersecting_proposition_3
 -- name    : SCInfoDesign.Intersecting.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:58.82603+00:00
 -- url     : https://prove2.me/theorems/9993078e-bb76-4b75-a2ab-5112959ff78d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GPhNGIDiffusion_OccupationCLT_lemma_3_4
 -- name    : GPhNGIDiffusion.OccupationCLT.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:31:36.00368+00:00
 -- url     : https://prove2.me/theorems/90e2804b-e042-4bf8-b417-3a81b1139c83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_planar_face_certificate__p2m_42c50023_969e_4d67_9641_cde1dc4669ab_a2
 -- name    : WilliamsonShmoys.connected_planar_face_certificate__p2m_42c50023_969e_4d67_9641_cde1dc4669ab_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:14:03.776247+00:00
 -- url     : https://prove2.me/theorems/87b40329-c584-43e3-b2a8-a209b09780ca

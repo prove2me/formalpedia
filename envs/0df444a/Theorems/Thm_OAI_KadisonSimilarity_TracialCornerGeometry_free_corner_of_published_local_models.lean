@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_TracialCornerGeometry_free_corner_of_published_local_models
 -- name    : OAI.KadisonSimilarity.TracialCornerGeometry.free_corner_of_published_local_models
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T09:02:58.674968+00:00
 -- url     : https://prove2.me/theorems/4344f9ba-4224-4941-a90b-753a2b154ad0

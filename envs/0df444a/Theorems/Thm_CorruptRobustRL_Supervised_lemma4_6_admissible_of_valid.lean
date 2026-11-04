@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_lemma4_6_admissible_of_valid
 -- name    : CorruptRobustRL.Supervised.lemma4_6_admissible_of_valid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:51:48.607375+00:00
 -- url     : https://prove2.me/theorems/4e57c0ee-2dd8-4128-8505-210067de4c1f

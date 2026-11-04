@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesProphet_MultiSec_offline_satisfaction
 -- name    : BayesProphet.MultiSec.offline_satisfaction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:46:45.980671+00:00
 -- url     : https://prove2.me/theorems/fcdd151d-43d6-4c3b-b884-5c697aadb3fb

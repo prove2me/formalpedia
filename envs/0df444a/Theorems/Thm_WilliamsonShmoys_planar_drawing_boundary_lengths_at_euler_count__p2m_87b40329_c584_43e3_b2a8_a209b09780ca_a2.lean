@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_boundary_lengths_at_euler_count__p2m_87b40329_c584_43e3_b2a8_a209b09780ca_a2
 -- name    : WilliamsonShmoys.planar_drawing_boundary_lengths_at_euler_count__p2m_87b40329_c584_43e3_b2a8_a209b09780ca_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:20:37.986362+00:00
 -- url     : https://prove2.me/theorems/5616da3e-b404-43c0-825c-d8d997481a46

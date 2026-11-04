@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_CAKKT_regNormal_eq_polar_tangentCone
 -- name    : StrictCQ.CAKKT.regNormal_eq_polar_tangentCone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:02.703853+00:00
 -- url     : https://prove2.me/theorems/de49ee0d-eacc-4c35-8c1e-5421c3815986

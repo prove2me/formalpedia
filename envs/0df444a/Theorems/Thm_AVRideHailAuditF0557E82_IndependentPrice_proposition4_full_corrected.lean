@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHailAuditF0557E82_IndependentPrice_proposition4_full_corrected
 -- name    : AVRideHailAuditF0557E82.IndependentPrice.proposition4_full_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-28T00:37:30.19201+00:00
 -- url     : https://prove2.me/theorems/d03a3820-1bf7-4402-919e-09db338845dd

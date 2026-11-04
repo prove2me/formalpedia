@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LookaheadAPI_LeastSquares_proposition_1_limsup
 -- name    : LookaheadAPI.LeastSquares.proposition_1_limsup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:54:04.176967+00:00
 -- url     : https://prove2.me/theorems/8ca8104d-160d-4892-ad4a-e357ad3464be

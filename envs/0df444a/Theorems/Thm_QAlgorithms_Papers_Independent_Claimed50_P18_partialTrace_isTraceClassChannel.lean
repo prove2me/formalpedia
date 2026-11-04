@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P18_partialTrace_isTraceClassChannel
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P18.partialTrace_isTraceClassChannel
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-02T20:16:13.917292+00:00
 -- url     : https://prove2.me/theorems/a03df428-93f2-400a-abd0-7d0e9d9998d8

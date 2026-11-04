@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarlinDynamicProgramming_Uniqueness_bellman_solution_eq_optimal_return
 -- name    : KarlinDynamicProgramming.Uniqueness.bellman_solution_eq_optimal_return
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:56:00.924007+00:00
 -- url     : https://prove2.me/theorems/070d9f97-797c-4819-b7c8-230092c5b0e6

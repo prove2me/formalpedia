@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulate_planar_graph__p2m_0abcdb56_bfcd_4329_9382_36e3242f584a_a1
 -- name    : WilliamsonShmoys.triangulate_planar_graph__p2m_0abcdb56_bfcd_4329_9382_36e3242f584a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:51:47.518257+00:00
 -- url     : https://prove2.me/theorems/71345845-0812-4936-9e60-f9671145c018

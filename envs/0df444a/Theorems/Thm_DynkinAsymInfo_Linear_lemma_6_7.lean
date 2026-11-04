@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynkinAsymInfo_Linear_lemma_6_7
 -- name    : DynkinAsymInfo.Linear.lemma_6_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:16:34.995994+00:00
 -- url     : https://prove2.me/theorems/dbd97af1-331c-407f-86c5-8dfe2ba7242c

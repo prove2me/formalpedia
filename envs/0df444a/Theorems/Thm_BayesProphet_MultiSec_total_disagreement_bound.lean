@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesProphet_MultiSec_total_disagreement_bound
 -- name    : BayesProphet.MultiSec.total_disagreement_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:46:39.157901+00:00
 -- url     : https://prove2.me/theorems/22758e0e-f390-443c-ab01-857549e3972f

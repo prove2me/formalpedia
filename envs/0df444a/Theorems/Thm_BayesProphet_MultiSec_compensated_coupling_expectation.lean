@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesProphet_MultiSec_compensated_coupling_expectation
 -- name    : BayesProphet.MultiSec.compensated_coupling_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:45:59.124181+00:00
 -- url     : https://prove2.me/theorems/8f31e412-5b46-4d39-93fe-98e3b0a9df6f

@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for Light.Ends.storeThen
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T07:29:07.769755+00:00
+-- url     : https://prove2.me/submissions/e25fa273-179d-4412-bb3c-ff8e41bf897b
+
+module
+public import Definitions.Def_Submission_ThreeSumApsp_Lang_Logic
+public import Mathlib.Algebra.Order.Group.Abs
+public import Mathlib.Algebra.Order.Ring.Abs
+public import Definitions.Def_Submission_ThreeSumApsp_Lang_Rules
+public import Theorems.Thm_Light_Ends_next
+public import Theorems.Thm_Light_Ends_storeLast
+public import Theorems.Thm_Light_Ends_store
+set_option autoImplicit false
+public section
+open Light
+variable {lim : Limits} {P : Program} {d : ℕ}
+namespace Light
+namespace Ends
+theorem _root_.solution {loc μ : ℕ → ℤ} {T : ℕ} {a e : Expr} {s : Stmt} {Q : State → Prop}
+    (h : Ends lim P d s ⟨loc, Function.update μ (a.val ⟨loc, μ⟩).toNat (e.val ⟨loc, μ⟩)⟩ (T - (a.cost + e.cost + 1)) Q)
+    (hs : a.Safe lim ⟨loc, μ⟩ ∧ e.Safe lim ⟨loc, μ⟩ ∧ lim.Addr (a.val ⟨loc, μ⟩) := by
+      ( (try have := _root_.Light.Std.space_le (by assumption))
+        (try have := _root_.Light.Std.const_le (by assumption))
+        simp [_root_.Light.Limits.Addr, _root_.abs_le, -_root_.abs_mul, ] <;> omega))
+    (hT : a.cost + e.cost + 1 ≤ T := by
+      first
+      | ( simp only [_root_.Light.Stmt.blockCost, _root_.Light.Cond.cost, _root_.Light.Expr.cost, _root_.List.map_cons,
+            _root_.List.map_nil, _root_.List.sum_cons, _root_.List.sum_nil, ]
+          first
+          | omega
+          | (ring_nf; omega))
+      | omega
+      |
+        (simp [] <;>
+            first
+            | omega
+            | (ring_nf; omega))) :
+    Ends lim P d (_root_.Light.Stmt.seq (.store a e) s) ⟨loc, μ⟩ T Q :=
+  Ends.next _ (Ends.storeLast h hs le_rfl) hT
+end Ends
+end Light

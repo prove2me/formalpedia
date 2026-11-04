@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_OddFactors_observation_4_12
 -- name    : SnarkGen.OddFactors.observation_4_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:46.072197+00:00
 -- url     : https://prove2.me/theorems/1dd180ce-6880-43ee-ae76-13e9d490a155

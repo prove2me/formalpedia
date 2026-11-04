@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SONATA_Push_phi_bounds
 -- name    : SONATA.Push.phi_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:16:21.859959+00:00
 -- url     : https://prove2.me/theorems/19e3c513-c02c-49f5-971d-e5c531bfbb24

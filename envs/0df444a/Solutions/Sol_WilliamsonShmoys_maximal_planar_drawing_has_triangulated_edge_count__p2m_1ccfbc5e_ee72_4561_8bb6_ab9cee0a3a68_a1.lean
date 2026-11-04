@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_drawing_has_triangulated_edge_count__p2m_1ccfbc5e_ee72_4561_8bb6_ab9cee0a3a68_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:26:22.216883+00:00
 -- url     : https://prove2.me/submissions/9866187c-6c43-4e11-a98f-3137ff993612
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_edge_upper_bound__p2m_18bbe9c1_8b0d_4062_b19f_3ec33678fcd4_a1

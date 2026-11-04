@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SCInfoDesign_Nested_value_eq_convexEnvelope
 -- name    : SCInfoDesign.Nested.value_eq_convexEnvelope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:26.763048+00:00
 -- url     : https://prove2.me/theorems/dbd94c26-05ce-4b4c-9397-d70a0179d946

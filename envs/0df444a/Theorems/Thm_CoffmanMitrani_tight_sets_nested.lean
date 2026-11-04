@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani_tight_sets_nested
 -- name    : CoffmanMitrani.tight_sets_nested
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:29:05.138004+00:00
 -- url     : https://prove2.me/theorems/5a81ea39-e899-47c8-b481-1a6e45962693

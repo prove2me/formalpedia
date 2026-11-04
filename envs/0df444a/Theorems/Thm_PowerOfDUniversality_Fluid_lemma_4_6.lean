@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerOfDUniversality_Fluid_lemma_4_6
 -- name    : PowerOfDUniversality.Fluid.lemma_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:40:31.293394+00:00
 -- url     : https://prove2.me/theorems/658b51ce-30b9-4dbf-9217-85ef305a04ea

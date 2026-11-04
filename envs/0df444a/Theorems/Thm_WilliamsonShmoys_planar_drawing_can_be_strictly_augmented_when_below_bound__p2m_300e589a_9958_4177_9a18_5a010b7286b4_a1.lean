@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_can_be_strictly_augmented_when_below_bound__p2m_300e589a_9958_4177_9a18_5a010b7286b4_a1
 -- name    : WilliamsonShmoys.planar_drawing_can_be_strictly_augmented_when_below_bound__p2m_300e589a_9958_4177_9a18_5a010b7286b4_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:04:40.653372+00:00
 -- url     : https://prove2.me/theorems/17cdf377-ddf7-4ef9-90d4-89407a0a5949

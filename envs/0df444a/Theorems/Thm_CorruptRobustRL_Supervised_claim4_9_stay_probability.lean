@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorruptRobustRL_Supervised_claim4_9_stay_probability
 -- name    : CorruptRobustRL.Supervised.claim4_9_stay_probability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:06.423442+00:00
 -- url     : https://prove2.me/theorems/4b775408-f8b4-44fc-801a-27441986ba6f

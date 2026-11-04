@@ -1,0 +1,128 @@
+-- Prove2me | Theorems.Thm_ThreeSum_LightEncodedColorResult_program_meets
+-- name    : ThreeSum.LightEncodedColorResult.program_meets
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-03T14:43:20.725463+00:00
+-- url     : https://prove2.me/theorems/d56c6815-1ed2-4e98-be24-0d7fc5375ed3
+-- title:
+--   Light Encoded Color Result: program meets
+-- statement:
+--   The Light Encoded Color Result construction uses the program meets property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/LightEncodedColorResult.lean#L70-L77
+-- source:
+--   https://github.com/Wang-jiong-han/3sum-weighted-cache/blob/ac885d10bdbf723c3e0549198f9345bedf2a4131/Submission/ThreeSum/LightEncodedColorResult.lean#L70-L77
+
+import Definitions.Def_Submission_ThreeSum_EncodedColorSourceRetention
+import Definitions.Def_Submission_ThreeSum_LightEncodedColorResult
+import Theorems.Thm_ThreeSum_LightBalancedOffset_program_meets
+import Definitions.Def_WeightedCache3SUM_Alias_f4d14ad9782635c8
+import Theorems.Thm_ThreeSum_LightBandCandidates_program_meets
+import Theorems.Thm_ThreeSum_LightBandEnumeration_program_meets
+import Theorems.Thm_ThreeSum_LightBandLookup_program_meets
+import Theorems.Thm_ThreeSum_LightBandPartition_program_meets
+import Theorems.Thm_ThreeSum_LightBandPreprocessing_program_meets
+import Theorems.Thm_ThreeSum_LightBandRawACatalog_program_meets
+import Theorems.Thm_ThreeSum_LightBandRawAColor_program_meets
+import Theorems.Thm_ThreeSum_LightBandRawA_program_meets
+import Theorems.Thm_ThreeSum_LightBlockBoxes_program_meets
+import Theorems.Thm_ThreeSum_LightBlockCoefficients_program_meets
+import Theorems.Thm_ThreeSum_LightBlockQuery_program_meets
+import Theorems.Thm_ThreeSum_LightBlockSourceHashes_program_meets
+import Theorems.Thm_ThreeSum_LightBooleanDot_program_meets
+import Theorems.Thm_ThreeSum_LightBoxStages_program_meets
+import Theorems.Thm_ThreeSum_LightBoxSum_program_meets
+import Theorems.Thm_ThreeSum_LightCanonicalBoxSum_program_meets
+import Theorems.Thm_ThreeSum_LightCapacity_program_meets
+import Theorems.Thm_ThreeSum_LightClassFilter_program_meets
+import Theorems.Thm_ThreeSum_LightColorArray_program_meets
+import Theorems.Thm_ThreeSum_LightColorBands_program_meets
+import Theorems.Thm_ThreeSum_LightColorClasses_program_meets
+import Theorems.Thm_ThreeSum_LightColorIndex_program_meets
+import Theorems.Thm_ThreeSum_LightCoverGreedy_program_meets
+import Theorems.Thm_ThreeSum_LightCoverKeyData_program_meets
+import Theorems.Thm_ThreeSum_LightCoverScores_program_meets
+import Theorems.Thm_ThreeSum_LightCoverSelect_program_meets
+import Theorems.Thm_ThreeSum_LightCoverUpdate_program_meets
+import Theorems.Thm_ThreeSum_LightCyclic_program_meets
+import Theorems.Thm_ThreeSum_LightDownsetAddress_program_meets
+import Theorems.Thm_ThreeSum_LightDownsetEnumerationSetup_program_meets
+import Theorems.Thm_ThreeSum_LightDownsetEnumeration_program_meets
+import Theorems.Thm_ThreeSum_LightDownsetSize_program_meets
+import Theorems.Thm_ThreeSum_LightExplicitSum_program_meets
+import Definitions.Def_WeightedCache3SUM_Alias_645c59421f5229aa
+import Theorems.Thm_ThreeSum_LightHeaderBands_program_meets
+import Theorems.Thm_ThreeSum_LightKaratsuba_program_meets
+import Theorems.Thm_ThreeSum_LightLeafSum_program_meets
+import Theorems.Thm_ThreeSum_LightLocalCounts_program_meets
+import Theorems.Thm_ThreeSum_LightLocalCoverSchedule_program_meets
+import Theorems.Thm_ThreeSum_LightLocalParameters_program_meets
+import Theorems.Thm_ThreeSum_LightLookupSum_program_meets
+import Theorems.Thm_ThreeSum_LightMaskBits_program_meets
+import Theorems.Thm_ThreeSum_LightMaskErase_program_meets
+import Theorems.Thm_ThreeSum_LightMaskHashes_program_meets
+import Theorems.Thm_ThreeSum_LightMaskMinimum_program_meets
+import Theorems.Thm_ThreeSum_LightMaskUnion_program_meets
+import Theorems.Thm_ThreeSum_LightModuloCounts_program_meets
+import Theorems.Thm_ThreeSum_LightNatPower_program_meets
+import Theorems.Thm_ThreeSum_LightNormalize_program_meets
+import Theorems.Thm_ThreeSum_LightOneHot_program_meets
+import Theorems.Thm_ThreeSum_LightOriginalOffset_program_meets
+import Theorems.Thm_ThreeSum_LightOutputDecodeDigits_program_meets
+import Theorems.Thm_ThreeSum_LightOutputDecodeDivide_program_meets
+import Theorems.Thm_ThreeSum_LightPairFlags_program_meets
+import Theorems.Thm_ThreeSum_LightPrimality_program_meets
+import Theorems.Thm_ThreeSum_LightPrimeChain_program_meets
+import Theorems.Thm_ThreeSum_LightPrimeMinimum_program_meets
+import Theorems.Thm_ThreeSum_LightPrimePool_program_meets
+import Theorems.Thm_ThreeSum_LightQueryBox_program_meets
+import Theorems.Thm_ThreeSum_LightQueryEnumeration_program_meets
+import Theorems.Thm_ThreeSum_LightQueryWeights_program_meets
+import Theorems.Thm_ThreeSum_LightRadixDigit_program_meets
+import Theorems.Thm_ThreeSum_LightRadixKeys_program_meets
+import Theorems.Thm_ThreeSum_LightRadixRows_program_meets
+import Theorems.Thm_ThreeSum_LightRawAKeys_program_meets
+import Theorems.Thm_ThreeSum_LightReportingAffine_program_meets
+import Definitions.Def_WeightedCache3SUM_Alias_c19df7a51d8d0351
+import Theorems.Thm_ThreeSum_LightResidueHistogram_program_meets
+import Theorems.Thm_ThreeSum_LightScaleArray_program_meets
+import Theorems.Thm_ThreeSum_LightSelectedPrime_program_meets
+import Theorems.Thm_ThreeSum_LightSign_program_meets
+import Theorems.Thm_ThreeSum_LightSignedBoxSetup_program_meets
+import Theorems.Thm_ThreeSum_LightSignedLeafGeneral_program_meets
+import Theorems.Thm_ThreeSum_LightSignedLeafTable_program_meets
+import Theorems.Thm_ThreeSum_LightSignedLeaf_program_meets
+import Theorems.Thm_ThreeSum_LightSmallDivide_program_meets
+import Theorems.Thm_ThreeSum_LightSortedBands_program_meets
+import Theorems.Thm_ThreeSum_LightSourceBuild_program_meets
+import Theorems.Thm_ThreeSum_LightSourceGather_program_meets
+import Theorems.Thm_ThreeSum_LightSourceHistogram_program_meets
+import Theorems.Thm_ThreeSum_LightSourceOccurrenceArray_program_meets
+import Theorems.Thm_ThreeSum_LightSourceResidues_program_meets
+import Theorems.Thm_ThreeSum_LightSparseQuery_program_meets
+import Theorems.Thm_ThreeSum_LightStageLookup_program_meets
+import Theorems.Thm_ThreeSum_LightSubsetEnumerationSetup_program_meets
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_program_meets
+import Theorems.Thm_ThreeSum_LightSubsetSetup_program_meets
+import Theorems.Thm_ThreeSum_LightWantedJoin_program_meets
+import Definitions.Def_WeightedCache3SUM_Alias_631140e497667d8d
+import Theorems.Thm_ThreeSum_LightWeightDecode_program_meets
+import Theorems.Thm_ThreeSum_LightWeightRow_program_meets
+import Theorems.Thm_ThreeSum_LightWeightedEnumeration_program_meets
+import Theorems.Thm_ThreeSum_LightWeightedScore_program_meets
+import Theorems.Thm_ThreeSum_LightZetaCell_program_meets
+import Theorems.Thm_ThreeSum_LightZetaPass_program_meets
+import Theorems.Thm_ThreeSum_LightZetaStages_program_meets
+
+set_option autoImplicit false
+open ThreeSum ThreeSum.LightEncodedColorResult
+open Light
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+theorem ThreeSum.LightEncodedColorResult.program_meets {prime cover wanted controls bank out len p : ℕ} {μ : ℕ → ℤ}
+    (hw : (lim.space : ℤ) ≤ lim.word)
+    (hprime : prime ≤ out) (hcover : cover ≤ out) (hwanted : wanted ≤ out)
+    (hcontrols : controls ≤ out) (hbank : bank ≤ out)
+    (hspace : out+8 ≤ lim.space) (hlen : (len : ℤ) ≤ lim.word) (hp : (p : ℤ) ≤ lim.word) :
+    Meets lim program 0 d [prime,cover,wanted,controls,bank,out,len,p] μ 600
+      (fun r ν => r=(out : ℤ) ∧ Seg ν out (values prime cover wanted controls bank out len p) ∧ Kept μ ν out) := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_norm_dbar_xiPart_le_on
 -- name    : FiniteEnergyPlane.norm_dbar_xiPart_le_on
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-02T20:57:12.857354+00:00
 -- url     : https://prove2.me/theorems/12fe52c1-eef8-49f6-b103-d349db06b208

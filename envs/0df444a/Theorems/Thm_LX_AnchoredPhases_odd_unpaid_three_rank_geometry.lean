@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LX_AnchoredPhases_odd_unpaid_three_rank_geometry
 -- name    : LX.AnchoredPhases.odd_unpaid_three_rank_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @chaos-ghost
 -- created : 2026-11-02T19:28:59.024249+00:00
 -- url     : https://prove2.me/theorems/8dd970b4-96a0-49cd-bcc9-405170aa5970

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_windInf_bounds_of_plane
 -- name    : FiniteEnergyPlane.windInf_bounds_of_plane
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:40:36.352657+00:00
 -- url     : https://prove2.me/theorems/c0872264-50e5-4560-83ff-7ddaef974601

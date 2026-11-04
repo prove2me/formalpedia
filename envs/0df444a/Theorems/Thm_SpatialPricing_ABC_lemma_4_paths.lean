@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpatialPricing_ABC_lemma_4_paths
 -- name    : SpatialPricing.ABC.lemma_4_paths
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:44:21.13999+00:00
 -- url     : https://prove2.me/theorems/6710f779-20a3-40c8-a593-161b624f79ea

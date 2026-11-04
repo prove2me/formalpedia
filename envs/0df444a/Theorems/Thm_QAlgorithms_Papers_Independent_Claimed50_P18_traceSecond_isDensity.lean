@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P18_traceSecond_isDensity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P18.traceSecond_isDensity
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-02T20:16:12.677676+00:00
 -- url     : https://prove2.me/theorems/6a27e376-f75e-4a64-b650-38373ab347dc

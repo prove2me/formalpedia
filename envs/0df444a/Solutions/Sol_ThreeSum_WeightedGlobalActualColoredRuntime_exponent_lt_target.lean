@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for ThreeSum.WeightedGlobalActualColoredRuntime.exponent_lt_target
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T23:46:58.09152+00:00
+-- url     : https://prove2.me/submissions/32c75f20-9a0e-4feb-9577-0580c07a1931
+
+import Definitions.Def_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_Weighted_Global_TernaryActualRuntimeParameters
+import Definitions.Def_Submission_Weighted_Global_LightTernaryColorPreparationProof
+import Definitions.Def_Submission_Weighted_Global_LightTernaryPreparedPostSelection
+import Definitions.Def_Submission_Weighted_Global_TernaryFastProgramBudget
+import Definitions.Def_Submission_Weighted_Global_TernaryActualCleanupRuntime
+import Definitions.Def_Submission_Weighted_Global_TernaryActualColoredRuntime
+
+set_option autoImplicit false
+noncomputable section
+open ThreeSum ThreeSum.WeightedGlobalActualColoredRuntime
+open Light Real Filter StageBounds ArithmeticStageBounds
+open TernaryJointType WeightedGlobalLocalParameters WeightedGlobalCoverGoodMaps
+open WeightedGlobalArenaSourceSetup WeightedGlobalArenaSeedCandidate WeightedGlobalNativeCompleteFrontend
+open WeightedGlobalActualPrefixRuntime WeightedGlobalActualSeedRuntime WeightedGlobalEntropyRates
+open WeightedGlobalOversizePrime WeightedGlobalOversizeRates WeightedGlobalOversizeOverhead WeightedGlobalCoverScale
+open scoped Topology BigOperators
+set_option maxHeartbeats 10000000
+set_option maxRecDepth 24000
+attribute [local instance] Classical.propDecidable
+namespace ThreeSum.WeightedGlobalActualColoredRuntime
+theorem _root_.solution : exponent<WeightedGlobalParameters.targetExponent:=by
+  norm_num [exponent,WeightedGlobalParameters.targetExponent]
+end ThreeSum.WeightedGlobalActualColoredRuntime

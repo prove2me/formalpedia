@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_strict_augmentation__p2m_3ca4615a_eebc_4af0_940e_7aeb5834c3ad_a1
 -- name    : WilliamsonShmoys.planar_drawing_strict_augmentation__p2m_3ca4615a_eebc_4af0_940e_7aeb5834c3ad_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:29:37.28019+00:00
 -- url     : https://prove2.me/theorems/62655122-fd0a-4865-bebb-51bfbf1c6569

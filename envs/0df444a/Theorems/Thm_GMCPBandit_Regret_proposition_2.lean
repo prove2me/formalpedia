@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GMCPBandit_Regret_proposition_2
 -- name    : GMCPBandit.Regret.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:33:48.460606+00:00
 -- url     : https://prove2.me/theorems/97d8110e-e268-480e-aa9e-f0ef71741ccb

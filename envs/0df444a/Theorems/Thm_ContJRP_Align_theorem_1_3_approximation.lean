@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_theorem_1_3_approximation
 -- name    : ContJRP.Align.theorem_1_3_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:53:00.444768+00:00
 -- url     : https://prove2.me/theorems/c4fa3b97-a717-4e9e-81d5-689f859c51a5

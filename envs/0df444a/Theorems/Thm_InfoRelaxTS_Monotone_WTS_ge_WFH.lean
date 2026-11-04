@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Monotone_WTS_ge_WFH
 -- name    : InfoRelaxTS.Monotone.WTS_ge_WFH
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:31:11.987377+00:00
 -- url     : https://prove2.me/theorems/64deeeb6-e4c1-4d79-a804-035d97a4628e

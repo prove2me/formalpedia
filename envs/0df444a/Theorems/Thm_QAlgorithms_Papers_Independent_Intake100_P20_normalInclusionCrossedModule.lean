@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_normalInclusionCrossedModule
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.normalInclusionCrossedModule
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:33:22.391051+00:00
 -- url     : https://prove2.me/theorems/a8825a12-575f-403e-817c-9f28c85fa04c

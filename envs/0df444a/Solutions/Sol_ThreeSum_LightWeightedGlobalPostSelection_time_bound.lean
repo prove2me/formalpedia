@@ -1,0 +1,91 @@
+-- Prove2me | solution 1 for ThreeSum.LightWeightedGlobalPostSelection.time_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-03T16:17:14.550934+00:00
+-- url     : https://prove2.me/submissions/c2d66dfb-f8a3-4f53-9646-01979221f2a0
+
+import Definitions.Def_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_Weighted_Global_LightTernaryPostSelection
+import Definitions.Def_Submission_Weighted_Global_LightTernaryPostSelectionClosed
+import Theorems.Thm_ThreeSum_LightBalancedOffset_time_bound
+import Theorems.Thm_ThreeSum_LightBlockCoefficients_time_bound
+import Theorems.Thm_ThreeSum_LightCacheEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightKaratsuba_time_bound
+import Theorems.Thm_ThreeSum_LightLocalKeyRow_time_bound
+import Theorems.Thm_ThreeSum_LightLocalKeys_time_bound
+import Theorems.Thm_ThreeSum_LightMaskBits_time_bound
+import Theorems.Thm_ThreeSum_LightMaskHashes_time_bound
+import Theorems.Thm_ThreeSum_LightOriginalCollisionCleanup_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_957e2f25efb6cbcf
+import Theorems.Thm_ThreeSum_LightOriginalSurvivorPair_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_a98211a6e8223f5f
+import Theorems.Thm_ThreeSum_LightRadixRows_time_bound
+import Theorems.Thm_ThreeSum_LightResidueHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBucketBuild_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBucketFromHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightSourceBucketSetup_time_bound
+import Theorems.Thm_ThreeSum_LightSourceResidues_time_bound
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryBankAssembly_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryBankCoordinate_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryBankSweep_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryCarryCodes_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryDivide_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryEulerMemo_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryEulerMetadata_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryEulerRow_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryGroupBankStep_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryGroupedBanks_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryGroupedSourceKeys_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryGroupedSources_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryInversePass_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryLookup_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryMetadata_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryNearEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryNearSetup_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryNearSource_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryPass_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryPredecessorTable_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryPredecessor_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryQueryLookup_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryRankTable_time_bound
+import Theorems.Thm_ThreeSum_LightTernarySignedMatrix_time_bound
+import Theorems.Thm_ThreeSum_LightTernarySourceHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightTernarySourceKeys_time_bound
+import Theorems.Thm_ThreeSum_LightTernaryWeightedHistogram_time_bound
+import Theorems.Thm_ThreeSum_LightWantedJoin_time_bound
+import Theorems.Thm_ThreeSum_LightWantedSetup_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedBankAssembly_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedBankCoordinate_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedBankSweep_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedCountFrontend_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedEulerMetadata_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedGroupBankStep_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedGroupedBanks_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedNearEnumeration_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedNearSetup_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedNearSource_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedPredecessorTable_time_bound
+import Theorems.Thm_ThreeSum_LightWeightedPredecessor_time_bound
+import Definitions.Def_WeightedCache3SUM_Alias_f1c95625e9077016
+
+
+set_option autoImplicit false
+noncomputable section
+set_option maxRecDepth 24000
+set_option maxHeartbeats 1000000
+open ThreeSum ThreeSum.LightWeightedGlobalPostSelection
+open Light TernaryMomentSchedule
+namespace ThreeSum.LightWeightedGlobalPostSelection
+theorem _root_.solution {N : ℕ} (S : WeightedSourceCountExecutionFactory.Setup N) (H : ℕ)
+    (c : LightOriginalSurvivorPair.Layout) (keysB keysC : ℕ → ℕ) :
+    time S H c keysB keysC ≤ LightWeightedGlobalMomentReporter.time S H+280*(c.nB+c.nC)+2440+
+      ((TernaryOriginalCollisions.collisionPairs (fun i : Fin c.nB => keysB i.val)).card+
+       (TernaryOriginalCollisions.collisionPairs (fun i : Fin c.nC => keysC i.val)).card)*
+        (c.nA*(120*c.L+330)+300) := by
+  have ht := LightOriginalSurvivorPair.time_bound keysB keysC c.nA c.nB c.nC c.L
+  unfold time LightWeightedGlobalCompactReporter.time
+  omega
+end ThreeSum.LightWeightedGlobalPostSelection

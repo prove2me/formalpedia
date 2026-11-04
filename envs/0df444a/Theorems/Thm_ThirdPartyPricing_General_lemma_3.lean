@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThirdPartyPricing_General_lemma_3
 -- name    : ThirdPartyPricing.General.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:02.62051+00:00
 -- url     : https://prove2.me/theorems/8715de46-7329-42f7-90ef-b182abfd1c40

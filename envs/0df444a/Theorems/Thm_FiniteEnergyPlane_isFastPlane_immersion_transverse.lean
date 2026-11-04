@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_isFastPlane_immersion_transverse
 -- name    : FiniteEnergyPlane.isFastPlane_immersion_transverse
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-01T15:40:14.090705+00:00
 -- url     : https://prove2.me/theorems/2168fd00-b652-4836-b57e-1470bce8eee3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThompsonTutorial_InfoRatio_bayes_regret_le_sqrt_infoRatio_entropy
 -- name    : ThompsonTutorial.InfoRatio.bayes_regret_le_sqrt_infoRatio_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:14:43.653903+00:00
 -- url     : https://prove2.me/theorems/91543ab6-1ce4-4002-b9b1-fdb4a4593103

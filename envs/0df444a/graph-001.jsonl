@@ -79791,43 +79791,43 @@
 {"parent": "ConvexSDDP.Stoch.eq_26", "child": "ConvexSDDP_Stoch_Run", "via": ["solution", "statement"]}
 {"parent": "ConvexSDDP.Stoch.eq_26", "child": "ConvexSDDP_Stoch_Tree", "via": ["solution", "statement"]}
 {"parent": "ConvexSDDP.Stoch.eq_26", "child": "StochasticProg_Multistage_Tree", "via": ["solution", "statement"]}
-{"parent": "ConvexSDDP.Stoch.eq_32", "child": "ConvexSDDP_Det_Basic", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.eq_32", "child": "ConvexSDDP_Stoch_Model", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.eq_32", "child": "ConvexSDDP_Stoch_Run", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.eq_32", "child": "ConvexSDDP_Stoch_Selection", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.eq_32", "child": "ConvexSDDP_Stoch_Tree", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.eq_32", "child": "StochasticProg_Multistage_Tree", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_i", "child": "ConvexSDDP_Det_Basic", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_i", "child": "ConvexSDDP_Stoch_Model", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_i", "child": "ConvexSDDP_Stoch_Tree", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_i", "child": "StochasticProg_Multistage_Tree", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_ii", "child": "ConvexSDDP_Det_Basic", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_ii", "child": "ConvexSDDP_Stoch_Model", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_ii", "child": "ConvexSDDP_Stoch_Run", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_ii", "child": "ConvexSDDP_Stoch_Tree", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_ii", "child": "StochasticProg_Multistage_Tree", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_iii", "child": "ConvexSDDP_Det_Basic", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_iii", "child": "ConvexSDDP_Stoch_Model", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_iii", "child": "ConvexSDDP_Stoch_Run", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_iii", "child": "ConvexSDDP_Stoch_Tree", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_1_iii", "child": "StochasticProg_Multistage_Tree", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_2", "child": "ConvexSDDP_Det_Basic", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_2", "child": "ConvexSDDP_Stoch_Model", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_2", "child": "ConvexSDDP_Stoch_Run", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_2", "child": "ConvexSDDP_Stoch_Tree", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.lemma_3_2", "child": "StochasticProg_Multistage_Tree", "via": ["statement"]}
+{"parent": "ConvexSDDP.Stoch.eq_32", "child": "ConvexSDDP_Det_Basic", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.eq_32", "child": "ConvexSDDP_Stoch_Model", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.eq_32", "child": "ConvexSDDP_Stoch_Run", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.eq_32", "child": "ConvexSDDP_Stoch_Selection", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.eq_32", "child": "ConvexSDDP_Stoch_Tree", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.eq_32", "child": "StochasticProg_Multistage_Tree", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_i", "child": "ConvexSDDP_Det_Basic", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_i", "child": "ConvexSDDP_Stoch_Model", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_i", "child": "ConvexSDDP_Stoch_Tree", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_i", "child": "StochasticProg_Multistage_Tree", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_ii", "child": "ConvexSDDP_Det_Basic", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_ii", "child": "ConvexSDDP_Stoch_Model", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_ii", "child": "ConvexSDDP_Stoch_Run", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_ii", "child": "ConvexSDDP_Stoch_Tree", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_ii", "child": "StochasticProg_Multistage_Tree", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_iii", "child": "ConvexSDDP_Det_Basic", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_iii", "child": "ConvexSDDP_Stoch_Model", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_iii", "child": "ConvexSDDP_Stoch_Run", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_iii", "child": "ConvexSDDP_Stoch_Tree", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_1_iii", "child": "StochasticProg_Multistage_Tree", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_2", "child": "ConvexSDDP_Det_Basic", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_2", "child": "ConvexSDDP_Stoch_Model", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_2", "child": "ConvexSDDP_Stoch_Run", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_2", "child": "ConvexSDDP_Stoch_Tree", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.lemma_3_2", "child": "StochasticProg_Multistage_Tree", "via": ["solution", "statement"]}
 {"parent": "ConvexSDDP.Stoch.lemma_5_3", "child": "ConvexSDDP_Det_Basic", "via": ["solution", "statement"]}
 {"parent": "ConvexSDDP.Stoch.lemma_5_3", "child": "ConvexSDDP_Stoch_Model", "via": ["solution", "statement"]}
 {"parent": "ConvexSDDP.Stoch.lemma_5_3", "child": "ConvexSDDP_Stoch_Run", "via": ["solution", "statement"]}
 {"parent": "ConvexSDDP.Stoch.lemma_5_3", "child": "ConvexSDDP_Stoch_Selection", "via": ["solution", "statement"]}
 {"parent": "ConvexSDDP.Stoch.lemma_5_3", "child": "ConvexSDDP_Stoch_Tree", "via": ["solution", "statement"]}
 {"parent": "ConvexSDDP.Stoch.lemma_5_3", "child": "StochasticProg_Multistage_Tree", "via": ["solution", "statement"]}
-{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "ConvexSDDP_Det_Basic", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "ConvexSDDP_Stoch_Model", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "ConvexSDDP_Stoch_Run", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "ConvexSDDP_Stoch_Selection", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "ConvexSDDP_Stoch_Tree", "via": ["statement"]}
-{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "StochasticProg_Multistage_Tree", "via": ["statement"]}
+{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "ConvexSDDP_Det_Basic", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "ConvexSDDP_Stoch_Model", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "ConvexSDDP_Stoch_Run", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "ConvexSDDP_Stoch_Selection", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "ConvexSDDP_Stoch_Tree", "via": ["solution", "statement"]}
+{"parent": "ConvexSDDP.Stoch.theorem_3_1", "child": "StochasticProg_Multistage_Tree", "via": ["solution", "statement"]}
 {"parent": "ConvexSDDP_Det_Model", "child": "ConvexSDDP_Det_Basic", "via": ["statement"]}
 {"parent": "ConvexSDDP_Stoch_Model", "child": "ConvexSDDP_Det_Basic", "via": ["statement"]}
 {"parent": "ConvexSDDP_Stoch_Model", "child": "ConvexSDDP_Stoch_Tree", "via": ["statement"]}
@@ -99603,7 +99603,7 @@
 {"parent": "ExtADMM.Orth.F_monotone", "child": "ExtADMM_Orth_Setting", "via": ["solution", "statement"]}
 {"parent": "ExtADMM.Orth.eq_2_24_to_2_26", "child": "ExtADMM_Orth_Setting", "via": ["statement"]}
 {"parent": "ExtADMM.Orth.eq_2_27", "child": "ExtADMM_Orth_Setting", "via": ["statement"]}
-{"parent": "ExtADMM.Orth.lemma_2_1", "child": "ExtADMM_Orth_Setting", "via": ["statement"]}
+{"parent": "ExtADMM.Orth.lemma_2_1", "child": "ExtADMM_Orth_Setting", "via": ["solution", "statement"]}
 {"parent": "ExtADMM.Orth.lemma_2_2", "child": "ExtADMM_Orth_Setting", "via": ["statement"]}
 {"parent": "ExtADMM.Orth.lemma_2_3", "child": "ExtADMM_Orth_Setting", "via": ["statement"]}
 {"parent": "ExtADMM.Orth.theorem_2_4", "child": "ExtADMM_Orth_Setting", "via": ["statement"]}

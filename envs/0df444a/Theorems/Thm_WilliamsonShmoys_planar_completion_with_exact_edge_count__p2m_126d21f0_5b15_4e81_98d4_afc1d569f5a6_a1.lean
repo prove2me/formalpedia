@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_completion_with_exact_edge_count__p2m_126d21f0_5b15_4e81_98d4_afc1d569f5a6_a1
 -- name    : WilliamsonShmoys.planar_completion_with_exact_edge_count__p2m_126d21f0_5b15_4e81_98d4_afc1d569f5a6_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:39:16.645197+00:00
 -- url     : https://prove2.me/theorems/611c5e27-b46d-4fae-a676-63177eb6dd3b

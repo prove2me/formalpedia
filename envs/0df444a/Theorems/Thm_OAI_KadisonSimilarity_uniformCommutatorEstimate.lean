@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonSimilarity_uniformCommutatorEstimate
 -- name    : OAI.KadisonSimilarity.uniformCommutatorEstimate
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-31T08:20:20.417636+00:00
 -- url     : https://prove2.me/theorems/7e6b2ff3-338c-41d6-94b2-c909f0fd1520

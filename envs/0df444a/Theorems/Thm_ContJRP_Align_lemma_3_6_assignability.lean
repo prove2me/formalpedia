@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_lemma_3_6_assignability
 -- name    : ContJRP.Align.lemma_3_6_assignability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:53:05.586011+00:00
 -- url     : https://prove2.me/theorems/8c092594-8dbc-41cb-92f0-5a6a3db2e2e4
