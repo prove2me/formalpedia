@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenFarias_SimplePolicy_max_horizon_bound
 -- name    : ChenFarias.SimplePolicy.max_horizon_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:54.828402+00:00
 -- url     : https://prove2.me/theorems/b2253d2e-2ed9-438a-ad5f-f042183a0e12

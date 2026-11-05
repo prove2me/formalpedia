@@ -1,0 +1,23 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalColorPreparation.carryLibrary_length
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T11:44:46.811233+00:00
+-- url     : https://prove2.me/submissions/f434d082-399d-41e1-90b0-0059756331c2
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_ThreeSum_LightTernaryColorPrelude
+import Definitions.Def_Submission_ThreeSum_LightTernarySignedMatrix
+import Definitions.Def_Submission_ThreeSum_LightTernaryCarryCodes
+import Definitions.Def_Submission_ThreeSum_LightTernaryRequesterMatrix
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryGlobalPrelude
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryColorPreparation
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalColorPreparation
+open Light
+set_option maxRecDepth 20000
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalColorPreparation
+theorem _root_.solution : carryLibrary.length=42 := rfl
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalColorPreparation

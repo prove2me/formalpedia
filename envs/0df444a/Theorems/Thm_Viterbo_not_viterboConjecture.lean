@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_not_viterboConjecture
 -- name    : Viterbo.not_viterboConjecture
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T09:38:47.129712+00:00
 -- url     : https://prove2.me/theorems/c55c63a6-faa6-4168-9896-65cdcdca61b9

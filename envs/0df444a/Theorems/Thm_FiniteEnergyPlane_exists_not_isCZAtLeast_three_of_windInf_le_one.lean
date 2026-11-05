@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_not_isCZAtLeast_three_of_windInf_le_one
 -- name    : FiniteEnergyPlane.exists_not_isCZAtLeast_three_of_windInf_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T16:24:47.811585+00:00
 -- url     : https://prove2.me/theorems/326b6990-341d-421d-90a2-2a57edf08059

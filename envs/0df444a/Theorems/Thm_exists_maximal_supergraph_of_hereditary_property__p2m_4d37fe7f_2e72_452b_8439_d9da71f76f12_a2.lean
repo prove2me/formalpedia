@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_maximal_supergraph_of_hereditary_property__p2m_4d37fe7f_2e72_452b_8439_d9da71f76f12_a2
 -- name    : exists_maximal_supergraph_of_hereditary_property__p2m_4d37fe7f_2e72_452b_8439_d9da71f76f12_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:04:13.888138+00:00
 -- url     : https://prove2.me/theorems/a5ada2d3-7545-41d8-8089-bb59e4274a4d

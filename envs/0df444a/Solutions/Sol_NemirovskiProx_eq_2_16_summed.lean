@@ -1,0 +1,326 @@
+-- Prove2me | solution 1 for NemirovskiProx.eq_2_16_summed
+-- status  : ACCEPTED   (prove)
+-- author  : @Nickrobbins95
+-- created : 2026-11-04T17:26:55.726708+00:00
+-- url     : https://prove2.me/submissions/f2043952-7afa-409e-ab88-40f281ba52e4
+
+import Mathlib
+import Definitions.Def_NemirovskiProx_dualNorm
+import Definitions.Def_NemirovskiProx_IsLipMonotoneOn
+import Definitions.Def_NemirovskiProx_IsDistGen
+import Definitions.Def_NemirovskiProx_IsProxPointOn
+import Definitions.Def_NemirovskiProx_stepGap
+import Definitions.Def_NemirovskiProx_IsRelaxedCPMRun
+import Definitions.Def_NemirovskiProx_legendre
+import Definitions.Def_NemirovskiProx_Hfun
+import Definitions.Def_NemirovskiProx_Theta
+
+open scoped InnerProductSpace
+
+set_option autoImplicit false
+
+namespace NemirovskiProx
+
+/-- A definite seminorm on a finite-dimensional inner product space dominates a multiple of the norm. -/
+lemma np_N_lower {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [FiniteDimensional ℝ E]
+    {N : Seminorm ℝ E} (hN : ∀ x, N x = 0 → x = 0) : ∃ m : ℝ, 0 < m ∧ ∀ x, m * ‖x‖ ≤ N x := by
+  classical
+  let b := stdOrthonormalBasis ℝ E
+  set C : ℝ := ∑ i, N (b i) with hC
+  have hup : ∀ x, N x ≤ C * ‖x‖ := by
+    intro x
+    have hx : x = ∑ i, ⟪b i, x⟫_ℝ • b i := (b.sum_repr' x).symm
+    calc N x = N (∑ i, ⟪b i, x⟫_ℝ • b i) := by rw [← hx]
+      _ ≤ ∑ i, N (⟪b i, x⟫_ℝ • b i) :=
+          Finset.le_sum_of_subadditive (fun y => N y) (map_zero N).le (fun y y' => map_add_le_add N y y') _ _
+      _ = ∑ i, |⟪b i, x⟫_ℝ| * N (b i) := by
+          refine Finset.sum_congr rfl fun i _ => ?_
+          rw [map_smul_eq_mul, Real.norm_eq_abs]
+      _ ≤ ∑ i, ‖x‖ * N (b i) := by
+          refine Finset.sum_le_sum fun i _ => ?_
+          refine mul_le_mul_of_nonneg_right ?_ (apply_nonneg N _)
+          calc |⟪b i, x⟫_ℝ| ≤ ‖b i‖ * ‖x‖ := abs_real_inner_le_norm _ _
+            _ = ‖x‖ := by rw [b.orthonormal.1 i, one_mul]
+      _ = C * ‖x‖ := by rw [hC, Finset.sum_mul]; exact Finset.sum_congr rfl fun i _ => by ring
+  have hcont : Continuous fun x => N x := by
+    have hC0 : 0 ≤ C := Finset.sum_nonneg fun i _ => apply_nonneg N _
+    refine (LipschitzWith.of_dist_le_mul (K := ⟨C, hC0⟩) fun x y => ?_).continuous
+    rw [Real.dist_eq, dist_eq_norm]
+    calc |N x - N y| ≤ N (x - y) := abs_sub_map_le_sub N x y
+      _ ≤ C * ‖x - y‖ := hup _
+  by_cases hS : (Metric.sphere (0 : E) 1).Nonempty
+  · obtain ⟨x0, hx0, hmin⟩ := (isCompact_sphere (0 : E) 1).exists_isMinOn hS hcont.continuousOn
+    have hx0n : x0 ≠ 0 := by
+      intro h; rw [h] at hx0; simp at hx0
+    have hm : 0 < N x0 := lt_of_le_of_ne (apply_nonneg N _) (fun h => hx0n (hN _ h.symm))
+    refine ⟨N x0, hm, fun x => ?_⟩
+    by_cases hx : x = 0
+    · simp [hx]
+    · have hnx : 0 < ‖x‖ := norm_pos_iff.mpr hx
+      have hy : ‖x‖⁻¹ • x ∈ Metric.sphere (0 : E) 1 := by
+        rw [mem_sphere_zero_iff_norm, norm_smul, norm_inv, norm_norm, inv_mul_cancel₀ hnx.ne']
+      have h1 := hmin hy
+      simp only [Set.mem_setOf_eq, map_smul_eq_mul, norm_inv, norm_norm] at h1
+      calc N x0 * ‖x‖ ≤ ‖x‖⁻¹ * N x * ‖x‖ := mul_le_mul_of_nonneg_right h1 hnx.le
+        _ = N x := by field_simp
+  · refine ⟨1, one_pos, fun x => ?_⟩
+    by_cases hx : x = 0
+    · simp [hx]
+    · exfalso; apply hS
+      refine ⟨‖x‖⁻¹ • x, ?_⟩
+      rw [mem_sphere_zero_iff_norm, norm_smul, norm_inv, norm_norm,
+        inv_mul_cancel₀ (norm_pos_iff.mpr hx).ne']
+
+lemma np_dual_bdd {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [FiniteDimensional ℝ E]
+    {N : Seminorm ℝ E} (hN : ∀ x, N x = 0 → x = 0) (ξ : E) :
+    BddAbove ((fun z => ⟪ξ, z⟫_ℝ) '' {z | N z ≤ 1}) := by
+  obtain ⟨m, hm, hmN⟩ := np_N_lower hN
+  refine ⟨‖ξ‖ * m⁻¹, ?_⟩
+  rintro _ ⟨z, hz, rfl⟩
+  have hz' : ‖z‖ ≤ m⁻¹ := by
+    have hz1 : N z ≤ 1 := hz
+    have h1 : m * ‖z‖ ≤ 1 := le_trans (hmN z) hz1
+    have := (le_inv_mul_iff₀ hm).mpr (by simpa using h1 : m * ‖z‖ ≤ 1)
+    simpa using this
+  calc ⟪ξ, z⟫_ℝ ≤ ‖ξ‖ * ‖z‖ := real_inner_le_norm _ _
+    _ ≤ ‖ξ‖ * m⁻¹ := mul_le_mul_of_nonneg_left hz' (norm_nonneg _)
+
+lemma np_dual_nonneg {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [FiniteDimensional ℝ E]
+    {N : Seminorm ℝ E} (hN : ∀ x, N x = 0 → x = 0) (ξ : E) : 0 ≤ dualNorm N ξ := by
+  unfold dualNorm
+  refine le_csSup_of_le (np_dual_bdd hN ξ) ⟨0, by simp, rfl⟩ ?_
+  simp
+
+lemma np_inner_le_dual {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+    [FiniteDimensional ℝ E]
+    {N : Seminorm ℝ E} (hN : ∀ x, N x = 0 → x = 0) (ξ x : E) : ⟪ξ, x⟫_ℝ ≤ dualNorm N ξ * N x := by
+  by_cases hx : N x = 0
+  · rw [hN x hx]; simp
+  · have hpos : 0 < N x := lt_of_le_of_ne (apply_nonneg N _) (Ne.symm hx)
+    have hmem : (N x)⁻¹ • x ∈ {z | N z ≤ 1} := by
+      simp only [Set.mem_setOf_eq, map_smul_eq_mul, norm_inv, Real.norm_eq_abs, abs_of_pos hpos]
+      rw [inv_mul_cancel₀ hpos.ne']
+    have h1 : ⟪ξ, (N x)⁻¹ • x⟫_ℝ ≤ dualNorm N ξ := le_csSup (np_dual_bdd hN ξ) ⟨_, hmem, rfl⟩
+    rw [real_inner_smul_right] at h1
+    have h2 := mul_le_mul_of_nonneg_right h1 hpos.le
+    rw [inv_mul_eq_div, div_mul_cancel₀ _ hpos.ne'] at h2
+    exact h2
+
+lemma np_hasFDeriv {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+    {Z : Set E} {N : Seminorm ℝ E} {α : ℝ} {ω : E → ℝ} {ω' : E → E} (hω : IsDistGen Z N α ω ω')
+    {z : E} (hz : z ∈ Z) :
+    HasFDerivWithinAt ω (InnerProductSpace.toDual ℝ E (ω' z) : E →L[ℝ] ℝ) Z z :=
+  hω.2.1 z hz
+
+lemma np_omega_cont {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+    {Z : Set E} {N : Seminorm ℝ E} {α : ℝ} {ω : E → ℝ} {ω' : E → E} (hω : IsDistGen Z N α ω ω') :
+    ContinuousOn ω Z := fun z hz => (np_hasFDeriv hω hz).continuousWithinAt
+
+/-- Strong convexity: lower bound of the Bregman distance. -/
+lemma np_bregman_lb {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+    {Z : Set E} (hZc : Convex ℝ Z) {N : Seminorm ℝ E} {α : ℝ} {ω : E → ℝ} {ω' : E → E}
+    (hω : IsDistGen Z N α ω ω') {x y : E} (hx : x ∈ Z) (hy : y ∈ Z) :
+    α / 2 * N (y - x) ^ 2 ≤ ω y - ω x - ⟪ω' x, y - x⟫_ℝ := by
+  set d := y - x with hd
+  let p : ℝ → E := fun s => x + s • d
+  have hmaps : Set.MapsTo p (Set.Icc 0 1) Z := fun s hs => hZc.add_smul_sub_mem hx hy hs
+  let g : ℝ → ℝ := fun s => ω (p s) - ω x - s * ⟪ω' x, d⟫_ℝ - α / 2 * s ^ 2 * N d ^ 2
+  have hderiv : ∀ s ∈ Set.Icc (0:ℝ) 1, HasDerivWithinAt g
+      (⟪ω' (p s), d⟫_ℝ - ⟪ω' x, d⟫_ℝ - α * s * N d ^ 2) (Set.Icc 0 1) s := by
+    intro s hs
+    have hp : HasDerivWithinAt p d (Set.Icc 0 1) s := by
+      have := ((hasDerivAt_id s).smul_const d).const_add x
+      simpa [p] using this.hasDerivWithinAt
+    have h1 : HasDerivWithinAt (ω ∘ p) ⟪ω' (p s), d⟫_ℝ (Set.Icc 0 1) s := by
+      have := (np_hasFDeriv hω (hmaps hs)).comp_hasDerivWithinAt s hp hmaps
+      simpa [InnerProductSpace.toDual_apply_apply] using this
+    have h2 : HasDerivAt (fun s : ℝ => s * ⟪ω' x, d⟫_ℝ) ⟪ω' x, d⟫_ℝ s := by
+      simpa using (hasDerivAt_id s).mul_const ⟪ω' x, d⟫_ℝ
+    have h3 : HasDerivAt (fun s : ℝ => α / 2 * s ^ 2 * N d ^ 2) (α * s * N d ^ 2) s := by
+      have := ((hasDerivAt_pow 2 s).const_mul (α / 2)).mul_const (N d ^ 2)
+      convert this using 1 <;> first | rfl | (push_cast; ring)
+    exact ((h1.sub_const (ω x)).sub h2.hasDerivWithinAt).sub h3.hasDerivWithinAt
+  have hmono : MonotoneOn g (Set.Icc 0 1) := by
+    apply monotoneOn_of_hasDerivWithinAt_nonneg (convex_Icc 0 1)
+    · intro s hs; exact (hderiv s hs).continuousWithinAt
+    · intro s hs
+      rw [interior_Icc] at hs ⊢
+      exact (hderiv s (Set.Ioo_subset_Icc_self hs)).mono Set.Ioo_subset_Icc_self
+    · intro s hs
+      rw [interior_Icc] at hs
+      have hps : p s ∈ Z := hmaps (Set.Ioo_subset_Icc_self hs)
+      have key := hω.2.2.2 (p s) hps x hx
+      have hsub : p s - x = s • d := by simp [p]
+      rw [hsub, map_smul_eq_mul, Real.norm_eq_abs, abs_of_pos hs.1, real_inner_smul_right,
+        inner_sub_left] at key
+      have hsp : 0 < s := hs.1
+      have : α * s * N d ^ 2 ≤ ⟪ω' (p s), d⟫_ℝ - ⟪ω' x, d⟫_ℝ := by
+        have h' : s * (α * s * N d ^ 2) ≤ s * (⟪ω' (p s), d⟫_ℝ - ⟪ω' x, d⟫_ℝ) := by nlinarith
+        exact le_of_mul_le_mul_left h' hsp
+      linarith
+  have h01 := hmono (Set.left_mem_Icc.mpr zero_le_one) (Set.right_mem_Icc.mpr zero_le_one)
+    zero_le_one
+  simp only [g, p] at h01
+  simp at h01
+  have hxd : x + d = y := by rw [hd]; abel
+  rw [hxd] at h01
+  linarith
+
+/-- First-order optimality for a prox point over `U ⊆ Z`. -/
+lemma np_prox_foc {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+    {Z : Set E} {N : Seminorm ℝ E} {α : ℝ} {ω : E → ℝ} {ω' : E → E}
+    (hω : IsDistGen Z N α ω ω') {U : Set E} (hUc : Convex ℝ U) (hUZ : U ⊆ Z) {z ξ p : E}
+    (hp : IsProxPointOn U ω ω' z ξ p) {v : E} (hv : v ∈ U) :
+    0 ≤ ⟪ω' p + (ξ - ω' z), v - p⟫_ℝ := by
+  let ℓ : E →L[ℝ] ℝ := InnerProductSpace.toDual ℝ E (ξ - ω' z)
+  have hf : HasFDerivWithinAt (fun y => ω y + ℓ y)
+      ((InnerProductSpace.toDual ℝ E (ω' p) : E →L[ℝ] ℝ) + ℓ) U p :=
+    ((np_hasFDeriv hω (hUZ hp.1)).mono hUZ).add ℓ.hasFDerivWithinAt
+  have hmin : IsLocalMinOn (fun y => ω y + ℓ y) U p := by
+    refine IsMinOn.localize (fun y hy => ?_)
+    show ω p + ℓ p ≤ ω y + ℓ y
+    have := hp.2 y hy
+    rw [real_inner_comm (ξ - ω' z) p, real_inner_comm (ξ - ω' z) y] at this
+    simpa only [ℓ, InnerProductSpace.toDual_apply_apply] using this
+  have := hmin.hasFDerivWithinAt_nonneg hf
+    (sub_mem_posTangentConeAt_of_segment_subset (hUc.segment_subset hp.1 hv))
+  have e : ((InnerProductSpace.toDual ℝ E (ω' p) : E →L[ℝ] ℝ) + ℓ) (v - p) =
+      ⟪ω' p + (ξ - ω' z), v - p⟫_ℝ := by
+    simp only [ContinuousLinearMap.add_apply, ℓ, InnerProductSpace.toDual_apply_apply,
+      inner_add_left]
+  rw [← e]; exact this
+
+lemma np_legendre_eq {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+    {Z : Set E} (hZc : Convex ℝ Z) {N : Seminorm ℝ E} {α : ℝ} {ω : E → ℝ} {ω' : E → E}
+    (hω : IsDistGen Z N α ω ω') {y : E} (hy : y ∈ Z) :
+    legendre Z ω (ω' y) = ⟪ω' y, y⟫_ℝ - ω y := by
+  unfold legendre
+  refine IsGreatest.csSup_eq ⟨⟨y, hy, rfl⟩, ?_⟩
+  rintro _ ⟨v, hv, rfl⟩
+  have h := np_bregman_lb hZc hω hy hv
+  have hα : 0 ≤ α / 2 * N (v - y) ^ 2 := mul_nonneg (by linarith [hω.1]) (sq_nonneg _)
+  rw [inner_sub_right] at h
+  simp only
+  linarith
+
+lemma np_Hfun_eq {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+    {Z : Set E} (hZc : Convex ℝ Z) {N : Seminorm ℝ E} {α : ℝ} {ω : E → ℝ} {ω' : E → E}
+    (hω : IsDistGen Z N α ω ω') (u : E) {y : E} (hy : y ∈ Z) :
+    Hfun Z ω ω' u y = ⟪ω' y, y - u⟫_ℝ - ω y := by
+  unfold Hfun
+  rw [np_legendre_eq hZc hω hy, inner_sub_right]
+  ring
+
+lemma np_run_mem {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+    {Z : Set E} {F : E → E} {ω : E → ℝ} {ω' : E → E} {γs εs : ℕ → ℝ} {z w : ℕ → E} {n : ℕ}
+    (hrun : IsRelaxedCPMRun Z F ω ω' γs εs z w n) : ∀ t ≤ n, z t ∈ Z := by
+  intro t ht
+  cases t with
+  | zero => exact hrun.1
+  | succ k => exact (hrun.2 k (by omega)).2.2.2.1.1
+
+lemma np_one_step {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+    {Z : Set E} (hZc : Convex ℝ Z) {N : Seminorm ℝ E} {α : ℝ} {ω : E → ℝ} {ω' : E → E}
+    (hω : IsDistGen Z N α ω ω') {F : E → E} {γs εs : ℕ → ℝ} {z w : ℕ → E} {n : ℕ}
+    (hrun : IsRelaxedCPMRun Z F ω ω' γs εs z w n) {t : ℕ} (ht : t < n) {u : E} (hu : u ∈ Z) :
+    γs (t + 1) * ⟪F (w (t + 1)), w (t + 1) - u⟫_ℝ ≤
+      Hfun Z ω ω' u (z t) - Hfun Z ω ω' u (z (t + 1)) + εs (t + 1) := by
+  obtain ⟨_, _, _, hprox, hgap⟩ := hrun.2 t ht
+  have hzt : z t ∈ Z := np_run_mem hrun t ht.le
+  have hB := np_prox_foc hω hZc subset_rfl hprox hu
+  rw [np_Hfun_eq hZc hω u hzt, np_Hfun_eq hZc hω u hprox.1]
+  unfold stepGap at hgap
+  simp only [inner_add_left, inner_sub_left, real_inner_smul_left, inner_sub_right] at hB hgap ⊢
+  linarith
+
+lemma np_summed {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+    {Z : Set E} (hZc : Convex ℝ Z) {N : Seminorm ℝ E} {α : ℝ} {ω : E → ℝ} {ω' : E → E}
+    (hω : IsDistGen Z N α ω ω') {F : E → E} {γs εs : ℕ → ℝ} {z w : ℕ → E} {n : ℕ}
+    (hrun : IsRelaxedCPMRun Z F ω ω' γs εs z w n) {u : E} (hu : u ∈ Z) :
+    ∀ m ≤ n, ∑ t ∈ Finset.Icc 1 m, γs t * ⟪F (w t), w t - u⟫_ℝ ≤
+      Hfun Z ω ω' u (z 0) - Hfun Z ω ω' u (z m) + ∑ t ∈ Finset.Icc 1 m, εs t := by
+  intro m
+  induction m with
+  | zero => intro _; simp
+  | succ k ih =>
+    intro hk
+    have h1 := ih (by omega)
+    have h2 := np_one_step hZc hω hrun (t := k) (by omega) hu
+    rw [Finset.sum_Icc_succ_top (by omega), Finset.sum_Icc_succ_top (by omega)]
+    linarith
+
+lemma np_theta_ge {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+    {Z : Set E} (hZk : IsCompact Z) {N : Seminorm ℝ E} {α : ℝ} {ω : E → ℝ} {ω' : E → E}
+    (hω : IsDistGen Z N α ω ω') (z0 : E) {u : E} (hu : u ∈ Z) :
+    ω u - ⟪ω' z0, u - z0⟫_ℝ - ω z0 ≤ Theta Z ω ω' z0 := by
+  unfold Theta
+  have hc : ContinuousOn (fun v => ω v - ω z0 - ⟪ω' z0, v - z0⟫_ℝ) Z :=
+    ((np_omega_cont hω).sub continuousOn_const).sub
+      (continuous_const.inner (continuous_id.sub continuous_const)).continuousOn
+  have := le_csSup (hZk.bddAbove_image hc) ⟨u, hu, rfl⟩
+  simp only at this
+  linarith
+
+/-- (2.16), end to end: `Σ γ_t ⟨F(w_t), w_t − u⟩ ≤ Θ(z₀) + Σ ε_t`. -/
+lemma np_sum_le_theta {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+    {Z : Set E} (hZc : Convex ℝ Z) (hZk : IsCompact Z) {N : Seminorm ℝ E} {α : ℝ} {ω : E → ℝ}
+    {ω' : E → E} (hω : IsDistGen Z N α ω ω') {F : E → E} {γs εs : ℕ → ℝ} {z w : ℕ → E} {n : ℕ}
+    (hrun : IsRelaxedCPMRun Z F ω ω' γs εs z w n) {u : E} (hu : u ∈ Z) :
+    ∑ t ∈ Finset.Icc 1 n, γs t * ⟪F (w t), w t - u⟫_ℝ ≤
+      Theta Z ω ω' (z 0) + ∑ t ∈ Finset.Icc 1 n, εs t := by
+  have h1 := np_summed hZc hω hrun hu n le_rfl
+  have hz0 : z 0 ∈ Z := hrun.1
+  have hzn : z n ∈ Z := np_run_mem hrun n le_rfl
+  have h3 := np_bregman_lb hZc hω hzn hu
+  have hα : 0 ≤ α / 2 * N (u - z n) ^ 2 := mul_nonneg (by linarith [hω.1]) (sq_nonneg _)
+  have h5 := np_theta_ge hZk hω (z 0) hu
+  rw [np_Hfun_eq hZc hω u hz0, np_Hfun_eq hZc hω u hzn] at h1
+  set A := ∑ t ∈ Finset.Icc 1 n, γs t * ⟪F (w t), w t - u⟫_ℝ with hA
+  simp only [inner_sub_right] at h1 h3 h5
+  linarith
+
+
+end NemirovskiProx
+
+open NemirovskiProx InnerProductSpace in
+theorem solution {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [FiniteDimensional ℝ E]
+    {Z : Set E} (hZc : Convex ℝ Z) (hZk : IsCompact Z)
+    {N : Seminorm ℝ E} (hN : ∀ x, N x = 0 → x = 0)
+    {α : ℝ} {ω : E → ℝ} {ω' : E → E} (hω : IsDistGen Z N α ω ω')
+    {L : ℝ} {F : E → E} (hF : IsLipMonotoneOn Z N L F)
+    {γs εs : ℕ → ℝ} {z w : ℕ → E} {n : ℕ} (hrun : IsRelaxedCPMRun Z F ω ω' γs εs z w n) :
+    ∀ u ∈ Z,
+      (∑ t ∈ Finset.Icc 1 n, γs t * ⟪F (w t), w t - u⟫_ℝ ≤
+          Hfun Z ω ω' u (z 0) - Hfun Z ω ω' u (z n) + ∑ t ∈ Finset.Icc 1 n, εs t) ∧
+        (Hfun Z ω ω' u (z 0) - Hfun Z ω ω' u (z n) =
+          (⟪z 0 - u, ω' (z 0)⟫_ℝ - ω (z 0)) + (⟪u - z n, ω' (z n)⟫_ℝ + ω (z n))) ∧
+        (⟪u - z n, ω' (z n)⟫_ℝ + ω (z n) ≤ ω u) ∧
+        (∑ t ∈ Finset.Icc 1 n, γs t * ⟪F (w t), w t - u⟫_ℝ ≤
+          ω u - ⟪ω' (z 0), u - z 0⟫_ℝ - ω (z 0) + ∑ t ∈ Finset.Icc 1 n, εs t) ∧
+        (ω u - ⟪ω' (z 0), u - z 0⟫_ℝ - ω (z 0) + ∑ t ∈ Finset.Icc 1 n, εs t ≤
+          Theta Z ω ω' (z 0) + ∑ t ∈ Finset.Icc 1 n, εs t) ∧
+        (∑ t ∈ Finset.Icc 1 n, γs t * ⟪F (w t), w t - u⟫_ℝ ≤
+          Theta Z ω ω' (z 0) + ∑ t ∈ Finset.Icc 1 n, εs t) := by
+  intro u hu
+  have hz0 : z 0 ∈ Z := hrun.1
+  have hzn : z n ∈ Z := np_run_mem hrun n le_rfl
+  have h1 := np_summed hZc hω hrun hu n le_rfl
+  have h3 := np_bregman_lb hZc hω hzn hu
+  have hα : 0 ≤ α / 2 * N (u - z n) ^ 2 := mul_nonneg (by linarith [hω.1]) (sq_nonneg _)
+  have h5 := np_theta_ge hZk hω (z 0) hu
+  have hid : Hfun Z ω ω' u (z 0) - Hfun Z ω ω' u (z n) =
+      (⟪z 0 - u, ω' (z 0)⟫_ℝ - ω (z 0)) + (⟪u - z n, ω' (z n)⟫_ℝ + ω (z n)) := by
+    rw [np_Hfun_eq hZc hω u hz0, np_Hfun_eq hZc hω u hzn, real_inner_comm (ω' (z 0)),
+      real_inner_comm (ω' (z n))]
+    simp only [inner_sub_right]
+    ring
+  have h3' : ⟪u - z n, ω' (z n)⟫_ℝ + ω (z n) ≤ ω u := by
+    rw [real_inner_comm (ω' (z n))]
+    linarith
+  have h4 : ∑ t ∈ Finset.Icc 1 n, γs t * ⟪F (w t), w t - u⟫_ℝ ≤
+      ω u - ⟪ω' (z 0), u - z 0⟫_ℝ - ω (z 0) + ∑ t ∈ Finset.Icc 1 n, εs t := by
+    have e : ⟪z 0 - u, ω' (z 0)⟫_ℝ = -⟪ω' (z 0), u - z 0⟫_ℝ := by
+      rw [real_inner_comm (ω' (z 0)), ← inner_neg_right, neg_sub]
+    rw [hid, e] at h1
+    linarith
+  exact ⟨h1, hid, h3', h4, by linarith, by linarith⟩

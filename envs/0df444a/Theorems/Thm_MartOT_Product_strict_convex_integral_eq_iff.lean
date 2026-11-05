@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Product_strict_convex_integral_eq_iff
 -- name    : MartOT.Product.strict_convex_integral_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:21.378778+00:00
 -- url     : https://prove2.me/theorems/54f71e67-9bcd-4581-a2f3-394c4e74daa6

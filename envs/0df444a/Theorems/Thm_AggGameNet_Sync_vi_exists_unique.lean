@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AggGameNet_Sync_vi_exists_unique
 -- name    : AggGameNet.Sync.vi_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:36:29.86134+00:00
 -- url     : https://prove2.me/theorems/137e4187-bae6-42c4-b1a1-13c57bfc5370

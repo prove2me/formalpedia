@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p3_b_bvjump_sigmafinite_of_integrable_positive_ae
 -- name    : AvramDividend.Classical.avram_p3_b_bvjump_sigmafinite_of_integrable_positive_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-04T00:14:16.853107+00:00
 -- url     : https://prove2.me/theorems/1a393882-1c79-4f61-b284-409b2d8a57d5

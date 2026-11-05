@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaFixedParameters.pairFactor_pos
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T17:24:11.939715+00:00
+-- url     : https://prove2.me/submissions/61ebf55f-18ea-47c9-90c1-765bc93cf4f3
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaSignedSelection
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryPairedCarryBudget
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryPairedCollisionRate
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryPairedNativeDrift
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryDimensions
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaFixedParameters
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalOversizePrime_outputSize_pos
+
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaFixedParameters
+open Filter WeightedGlobalCoverScale WeightedGlobalOversizePrime WeightedGlobalOversizeRates
+open WeightedGlobalOversizeOverhead WeightedGlobalSignedPadding WeightedGlobalArenaBudgetExistence
+open WeightedGlobalPairedCollisionRate WeightedGlobalLocalParameters
+open scoped Topology
+set_option maxHeartbeats 3000000
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaFixedParameters
+theorem _root_.solution {K m F : ℕ} (hF : 0<F) : 0<9*pairFactor m F K := by
+  have hM := outputSize_pos m
+  unfold pairFactor
+  change 0<9*(F*outputSize m*(2^(fixedPi m 1)*3^(fixedPi m 2))^K)
+  positivity
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaFixedParameters

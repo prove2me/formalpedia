@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_covarianceMatrixPosSemidef
 -- name    : levy_foundations_covarianceMatrixPosSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:25:47.716983+00:00
 -- url     : https://prove2.me/theorems/d67e209c-8058-412e-9204-9c098c7290c0

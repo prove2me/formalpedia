@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaFixedParameters.native_factor_pos
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T17:46:01.939074+00:00
+-- url     : https://prove2.me/submissions/cd9927de-5955-460b-a7b8-db4a61f49381
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaSignedSelection
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryPairedCarryBudget
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryPairedCollisionRate
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryPairedNativeDrift
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryDimensions
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaFixedParameters
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalArenaFixedParameters_familyLength_pos
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalArenaFixedParameters_pairFactor_pos
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaFixedParameters
+open Filter WeightedGlobalCoverScale WeightedGlobalOversizePrime WeightedGlobalOversizeRates
+open WeightedGlobalOversizeOverhead WeightedGlobalSignedPadding WeightedGlobalArenaBudgetExistence
+open WeightedGlobalPairedCollisionRate WeightedGlobalLocalParameters
+open scoped Topology
+set_option maxHeartbeats 3000000
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaFixedParameters
+theorem _root_.solution {K : ℕ} (hK : 0<K) (m : ℕ) : 0<9*pairFactor m (familyLength K m) K :=
+  pairFactor_pos (familyLength_pos hK m)
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaFixedParameters

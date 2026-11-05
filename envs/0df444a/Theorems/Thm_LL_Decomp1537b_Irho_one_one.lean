@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1537b_Irho_one_one
 -- name    : LL_Decomp1537b.Irho_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:32:53.315669+00:00
 -- url     : https://prove2.me/theorems/08094c30-9ed2-4672-b839-8ad2e6cd62b5

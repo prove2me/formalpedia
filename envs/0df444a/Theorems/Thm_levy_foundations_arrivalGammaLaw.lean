@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_arrivalGammaLaw
 -- name    : levy_foundations_arrivalGammaLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:50:05.958834+00:00
 -- url     : https://prove2.me/theorems/8111ff85-4e49-46f8-ab39-ca88461d3de1

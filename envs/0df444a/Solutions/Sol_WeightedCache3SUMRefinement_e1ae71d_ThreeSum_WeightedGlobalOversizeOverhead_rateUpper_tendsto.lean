@@ -1,0 +1,176 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalOversizeOverhead.rateUpper_tendsto
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T11:22:25.360402+00:00
+-- url     : https://prove2.me/submissions/048de90f-646c-44e8-97a3-a994e2cb171e
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryOversizeRates
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryRadixOverhead
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryOversizeOverhead
+import Theorems.Thm_Light_getElem_powList
+import Theorems.Thm_Light_length_powList
+import Theorems.Thm_Light_sameFrame_cons_cons
+import Theorems.Thm_Light_sameFrame_cons_nil
+import Theorems.Thm_Light_sameFrame_nil
+import Theorems.Thm_Light_sameFrame_nil_cons
+import Theorems.Thm_Light_toNat_natCast_add_natCast
+import Theorems.Thm_P2M_ThreeSum_TernaryCoverRegularity_mapEdge_symm__4d2d267acd4d
+import Theorems.Thm_P2M_ThreeSum_TernaryCoverRegularity_reindex_symm__dc387cbb7851
+import Theorems.Thm_ThreeSum_BinomialEntropy_logarithmic_error_tendsto_zero
+import Theorems.Thm_ThreeSum_HashFamily_hashMap_apply
+import Theorems.Thm_ThreeSum_LayerCounts_mem_edgeSet
+import Theorems.Thm_ThreeSum_LayerCounts_mem_vertices
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_output_length
+import Theorems.Thm_ThreeSum_LightSubsetEnumeration_output_zero
+import Theorems.Thm_ThreeSum_LightTernaryEnumeration_output_length
+import Theorems.Thm_ThreeSum_LightTernaryEnumeration_output_zero
+import Theorems.Thm_ThreeSum_LightTernaryWeightedSum_sum_zero
+import Theorems.Thm_ThreeSum_SubsetAddress_isMask_zero
+import Theorems.Thm_ThreeSum_SubsetAddress_layerOffset_zero
+import Theorems.Thm_ThreeSum_SubsetAddress_natPositions_card
+import Theorems.Thm_ThreeSum_SubsetAddress_weight_zero
+import Theorems.Thm_ThreeSum_TernaryAddresses_codes_length
+import Theorems.Thm_ThreeSum_TernaryBankEnumeration_wordList_length
+import Theorems.Thm_ThreeSum_TernaryBankEnumeration_wordList_sum
+import Theorems.Thm_ThreeSum_TernaryBank_mem_bank
+import Theorems.Thm_ThreeSum_TernaryBank_mem_lowerWords
+import Theorems.Thm_ThreeSum_TernaryBank_mem_nearWords
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_left_mapEdge
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_left_swapEdge
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_mapEdge_symm
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_output_mapEdge
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_reindex_symm
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_right_mapEdge
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_right_swapEdge
+import Theorems.Thm_ThreeSum_TernaryCoverRegularity_swapEdge_swapEdge
+import Theorems.Thm_ThreeSum_TernaryEnumeration_mem_digits
+import Theorems.Thm_ThreeSum_TernaryFrozenQueryStages_coords_zero
+import Theorems.Thm_ThreeSum_TernaryFrozenQueryStages_stageValue_zero
+import Theorems.Thm_ThreeSum_TernaryNearEnumeration_codes_length
+import Theorems.Thm_ThreeSum_TernaryNearEnumeration_mem_digits
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightCacheEnumeration_output_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightCacheEnumeration_output_zero
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedBankAssembly_program_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedBankStages_program_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedFrozenQuery_queryTime_zero
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedNearEnumeration_branchOutput_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedNearEnumeration_output_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedNearPair_program_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedNearSetup_program_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedPreparedWanted_program_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedWantedQuery_program_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedAddresses_codes_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedBankEnumeration_mem_bank
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedBankEnumeration_wordList_cost
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedBankEnumeration_wordList_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedBankStageModel_forwardStage_zero
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_digitCost_one
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_digitCost_two
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_digitCost_zero
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_mem_digits
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalBank_mem_bank
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalBank_mem_nearWords
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalOversizeRates_denominator_atTop
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedNearBankEnumeration_mem_nearWords
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedNearEnumeration_codes_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedNearEnumeration_mem_digits
+attribute [local simp] Light.getElem_powList
+attribute [local simp] Light.length_powList
+attribute [local simp] Light.sameFrame_cons_cons
+attribute [local simp] Light.sameFrame_cons_nil
+attribute [local simp] Light.sameFrame_nil
+attribute [local simp] Light.sameFrame_nil_cons
+attribute [local simp] Light.toNat_natCast_add_natCast
+attribute [local simp] P2M_ThreeSum_TernaryCoverRegularity_mapEdge_symm__4d2d267acd4d
+attribute [local simp] P2M_ThreeSum_TernaryCoverRegularity_reindex_symm__dc387cbb7851
+attribute [local simp] ThreeSum.HashFamily.hashMap_apply
+attribute [local simp] ThreeSum.LayerCounts.mem_edgeSet
+attribute [local simp] ThreeSum.LayerCounts.mem_vertices
+attribute [local simp] ThreeSum.LightSubsetEnumeration.output_length
+attribute [local simp] ThreeSum.LightSubsetEnumeration.output_zero
+attribute [local simp] ThreeSum.LightTernaryEnumeration.output_length
+attribute [local simp] ThreeSum.LightTernaryEnumeration.output_zero
+attribute [local simp] ThreeSum.LightTernaryWeightedSum.sum_zero
+attribute [local simp] ThreeSum.SubsetAddress.isMask_zero
+attribute [local simp] ThreeSum.SubsetAddress.layerOffset_zero
+attribute [local simp] ThreeSum.SubsetAddress.natPositions_card
+attribute [local simp] ThreeSum.SubsetAddress.weight_zero
+attribute [local simp] ThreeSum.TernaryAddresses.codes_length
+attribute [local simp] ThreeSum.TernaryBank.mem_bank
+attribute [local simp] ThreeSum.TernaryBank.mem_lowerWords
+attribute [local simp] ThreeSum.TernaryBank.mem_nearWords
+attribute [local simp] ThreeSum.TernaryBankEnumeration.wordList_length
+attribute [local simp] ThreeSum.TernaryBankEnumeration.wordList_sum
+attribute [local simp] ThreeSum.TernaryCoverRegularity.left_mapEdge
+attribute [local simp] ThreeSum.TernaryCoverRegularity.left_swapEdge
+attribute [local simp] ThreeSum.TernaryCoverRegularity.mapEdge_symm
+attribute [local simp] ThreeSum.TernaryCoverRegularity.output_mapEdge
+attribute [local simp] ThreeSum.TernaryCoverRegularity.reindex_symm
+attribute [local simp] ThreeSum.TernaryCoverRegularity.right_mapEdge
+attribute [local simp] ThreeSum.TernaryCoverRegularity.right_swapEdge
+attribute [local simp] ThreeSum.TernaryCoverRegularity.swapEdge_swapEdge
+attribute [local simp] ThreeSum.TernaryEnumeration.mem_digits
+attribute [local simp] ThreeSum.TernaryFrozenQueryStages.coords_zero
+attribute [local simp] ThreeSum.TernaryFrozenQueryStages.stageValue_zero
+attribute [local simp] ThreeSum.TernaryNearEnumeration.codes_length
+attribute [local simp] ThreeSum.TernaryNearEnumeration.mem_digits
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightCacheEnumeration.output_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightCacheEnumeration.output_zero
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedBankAssembly.program_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedBankStages.program_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedFrozenQuery.queryTime_zero
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedNearEnumeration.branchOutput_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedNearEnumeration.output_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedNearPair.program_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedNearSetup.program_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedPreparedWanted.program_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedWantedQuery.program_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedAddresses.codes_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankEnumeration.mem_bank
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankEnumeration.wordList_cost
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankEnumeration.wordList_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankStageModel.forwardStage_zero
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.digitCost_one
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.digitCost_two
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.digitCost_zero
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.mem_digits
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalBank.mem_bank
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalBank.mem_nearWords
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedNearBankEnumeration.mem_nearWords
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedNearEnumeration.codes_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedNearEnumeration.mem_digits
+
+
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalOversizeOverhead
+open Filter Real WeightedGlobalParameters WeightedGlobalEntropyRates WeightedGlobalCoverScale
+open WeightedGlobalLocalParameters TernaryCoverLocal WeightedGlobalOversizePrime WeightedGlobalOversizeRates
+open WeightedGlobalCoverFrequency WeightedGlobalCoverCapParameters
+open scoped Topology
+set_option maxHeartbeats 1000000
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalOversizeOverhead
+theorem _root_.solution {k : ℕ} (hk : 0 < k) (c d : ℕ) :
+    Tendsto (rateUpper k c d) atTop (𝓝 (20/(k : ℝ))) := by
+  have hconst := denominator_atTop.const_div_atTop
+    (Real.log (max 1 c : ℝ)+(431+55*(d : ℝ))*Real.log 2)
+  have hlog := (BinomialEntropy.logarithmic_error_tendsto_zero (by decide : 0 < (1 : ℕ))).div_const
+    (30000000000000000*Real.log 2)
+  have hlog' : Tendsto (fun m : ℕ => Real.log (m+1 : ℝ)/((fixedLength m : ℝ)*Real.log 2)) atTop (𝓝 0) := by
+    convert hlog using 1
+    · funext m
+      simp only [fixedLength,Nat.cast_mul,Nat.cast_ofNat,one_mul,div_eq_mul_inv,mul_inv_rev]
+      ring
+    · simp
+  have htail := denominator_atTop.const_div_atTop ((8*(k : ℝ)^2+26+k)*Real.log 2/(k : ℝ))
+  have h := ((hconst.add (hlog'.const_mul ((d+7 : ℕ) : ℝ))).add_const (20/(k : ℝ))).add htail
+  convert h using 1
+  · funext m
+    unfold rateUpper
+    ring
+  · simp
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalOversizeOverhead

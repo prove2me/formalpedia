@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedPriceChanges_AlgorithmI_theorem_B1
 -- name    : LimitedPriceChanges.AlgorithmI.theorem_B1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:39.289715+00:00
 -- url     : https://prove2.me/theorems/12a96d5c-673b-4ed3-b6ec-0649c8b0a1f7

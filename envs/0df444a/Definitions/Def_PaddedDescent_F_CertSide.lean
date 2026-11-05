@@ -1,0 +1,32 @@
+-- Prove2me | Definitions.Def_PaddedDescent_F_CertSide
+-- name    : PaddedDescent_F_CertSide
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-04T22:09:27.78874+00:00
+-- url     : https://prove2.me/theorems/926d2996-16cb-4db6-ab21-ff975bc97c35
+-- title:
+--   Cert Side
+-- statement:
+--   Definitions and structural lemmas for Cert Side, from Anthropic’s pinned ETH development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/rates/PaddedDescent/F/CertSide.lean
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_PaddedDescent_F_Interfaces
+import Definitions.Def_PaddedDescent_F_FuelCert
+import Definitions.Def_ToTuring_Poly_GridSide
+set_option autoImplicit false
+section
+namespace PaddedDescent.F.CertSide
+open Groundwork Groundwork.Prog Groundwork.Grid
+variable {α : Type} [Enc α]
+section plain
+variable (tr : Bool)
+end plain
+end PaddedDescent.F.CertSide
+namespace PaddedDescent.F
+end PaddedDescent.F
+
+

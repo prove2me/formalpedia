@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynAssortPers_Regret_lemma_optimal_set_comparison
 -- name    : DynAssortPers.Regret.lemma_optimal_set_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:15:53.42279+00:00
 -- url     : https://prove2.me/theorems/610b1fa3-34cf-46ec-a2ce-d3b2560d45ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_h_pos_e
 -- name    : OAI.SharpPlanar.h_pos_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:49:31.898088+00:00
 -- url     : https://prove2.me/theorems/9a4f072f-e752-4a3e-8b19-fbfba77d9d77

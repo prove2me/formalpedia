@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassVarReg_PInf_theorem_1_I
 -- name    : WassVarReg.PInf.theorem_1_I
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T15:09:42.485339+00:00
 -- url     : https://prove2.me/theorems/dac9883b-f724-4ee8-a873-c8274bba6511

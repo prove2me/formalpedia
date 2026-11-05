@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_Tight_exists_eps_optimal_coupling
 -- name    : ShortWDRODual.Tight.exists_eps_optimal_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:09.895511+00:00
 -- url     : https://prove2.me/theorems/b365e55b-edca-4e13-9f17-f97346e5b868

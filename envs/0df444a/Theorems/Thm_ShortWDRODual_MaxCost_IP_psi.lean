@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_MaxCost_IP_psi
 -- name    : ShortWDRODual.MaxCost.IP_psi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:27:23.955608+00:00
 -- url     : https://prove2.me/theorems/1d134d85-47a0-4f9e-a9f3-f8552763fbd2

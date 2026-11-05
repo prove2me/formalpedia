@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543a_geom_dyadic
 -- name    : LL_Decomp1543a.geom_dyadic
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:39:10.642984+00:00
 -- url     : https://prove2.me/theorems/b99c7f07-1186-4bf7-8cc8-76bc32723770

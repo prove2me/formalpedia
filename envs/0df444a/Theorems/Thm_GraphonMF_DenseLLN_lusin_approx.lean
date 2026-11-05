@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonMF_DenseLLN_lusin_approx
 -- name    : GraphonMF.DenseLLN.lusin_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:29:30.546819+00:00
 -- url     : https://prove2.me/theorems/f73de3f0-0c21-4584-a40e-8510f6e1fb0c

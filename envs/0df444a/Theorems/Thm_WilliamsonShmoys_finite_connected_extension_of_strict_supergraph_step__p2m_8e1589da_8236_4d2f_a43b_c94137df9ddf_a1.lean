@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_connected_extension_of_strict_supergraph_step__p2m_8e1589da_8236_4d2f_a43b_c94137df9ddf_a1
 -- name    : WilliamsonShmoys.finite_connected_extension_of_strict_supergraph_step__p2m_8e1589da_8236_4d2f_a43b_c94137df9ddf_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:55:25.629963+00:00
 -- url     : https://prove2.me/theorems/7b028f0e-9557-4d63-b320-a3debd61f7f1

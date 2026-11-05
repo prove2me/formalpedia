@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_connected_supergraph_of_bridge_extension__p2m_5d530b65_2a84_4113_95c6_4b4a03a3063e_a1
 -- name    : WilliamsonShmoys.exists_connected_supergraph_of_bridge_extension__p2m_5d530b65_2a84_4113_95c6_4b4a03a3063e_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:54:40.126207+00:00
 -- url     : https://prove2.me/theorems/1743449e-70b2-453d-82e4-df1f7d1e75bd

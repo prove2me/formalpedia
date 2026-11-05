@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReinfRegGames_TimeAvg_lemma_C_6
 -- name    : ReinfRegGames.TimeAvg.lemma_C_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:08:19.092681+00:00
 -- url     : https://prove2.me/theorems/06b71df0-d8ce-4564-ad91-a12bc4261b96

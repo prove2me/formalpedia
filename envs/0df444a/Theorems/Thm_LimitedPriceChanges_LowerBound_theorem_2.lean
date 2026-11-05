@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedPriceChanges_LowerBound_theorem_2
 -- name    : LimitedPriceChanges.LowerBound.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:04:19.026066+00:00
 -- url     : https://prove2.me/theorems/fad3f70c-4d8d-43ce-ba80-6a57d70fcbf4

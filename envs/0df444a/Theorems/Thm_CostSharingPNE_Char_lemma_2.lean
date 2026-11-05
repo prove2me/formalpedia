@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostSharingPNE_Char_lemma_2
 -- name    : CostSharingPNE.Char.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:25:46.49266+00:00
 -- url     : https://prove2.me/theorems/88125f17-4212-4902-b289-46e2bca16c67

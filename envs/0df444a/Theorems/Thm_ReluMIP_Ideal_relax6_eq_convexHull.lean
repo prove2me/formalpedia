@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReluMIP_Ideal_relax6_eq_convexHull
 -- name    : ReluMIP.Ideal.relax6_eq_convexHull
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:17.875419+00:00
 -- url     : https://prove2.me/theorems/54526288-560b-45b0-9c34-b1dd71de2247

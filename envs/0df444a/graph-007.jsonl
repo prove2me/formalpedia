@@ -65058,7 +65058,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Information100.P03.separabilityCriterion", "child": "QAlgorithms_Papers_Independent_Information100_P03", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.preparedUniformDegreeProductiveSource_s2", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.preparedUniformDegreeProductiveSource_s2", "child": "OAIE3v2B290", "via": ["solution", "statement"]}
-{"parent": "SharingPlatform.WageSchemes.lemma_3", "child": "SharingPlatform_WageSchemes_Model", "via": ["statement"]}
+{"parent": "SharingPlatform.WageSchemes.lemma_3", "child": "SharingPlatform_WageSchemes_Model", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group174_part04", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "IoTFusion.KnownQuality.lemma_2", "child": "IoTFusion_KnownQuality_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.RecursivePotentials.AggregationVector.finite_recursion", "child": "OAI_Analysis_RecursivePotentials_ZeroRootGeometry", "via": ["solution", "statement"]}

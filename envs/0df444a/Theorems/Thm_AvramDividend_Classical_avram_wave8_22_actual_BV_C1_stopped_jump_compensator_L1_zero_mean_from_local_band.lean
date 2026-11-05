@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_22_actual_BV_C1_stopped_jump_compensator_L1_zero_mean_from_local_band
 -- name    : AvramDividend.Classical.avram_wave8_22_actual_BV_C1_stopped_jump_compensator_L1_zero_mean_from_local_band
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T21:44:49.468211+00:00
 -- url     : https://prove2.me/theorems/4ef4ea3d-7f14-40a6-a623-ba5f7cfe3139

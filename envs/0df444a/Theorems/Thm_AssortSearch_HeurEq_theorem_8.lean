@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_HeurEq_theorem_8
 -- name    : AssortSearch.HeurEq.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:29.385201+00:00
 -- url     : https://prove2.me/theorems/9b3d5c76-0721-4996-8869-b6e8958de9ed

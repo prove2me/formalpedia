@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543c_S1_absorb
 -- name    : LL_Decomp1543c.S1_absorb
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T17:33:59.533094+00:00
 -- url     : https://prove2.me/theorems/8cb8f542-942c-459e-b555-392c9a52d133

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FVRPricing_DecayBalancing_lemma_5_discount_invariance
 -- name    : FVRPricing.DecayBalancing.lemma_5_discount_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:57.821262+00:00
 -- url     : https://prove2.me/theorems/58f1b1cc-ac01-469e-87d4-290e79b098e5

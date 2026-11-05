@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedCache3SUM_bound_192027942
 -- name    : WeightedCache3SUM.bound_192027942
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-02T15:59:31.656136+00:00
 -- url     : https://prove2.me/theorems/807964b0-aab0-4733-b4ac-19a05091056f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_edge_maximal_planar_supergraph__p2m_f90d547e_0d6a_4173_8130_3021addb1efb_a1
 -- name    : WilliamsonShmoys.exists_edge_maximal_planar_supergraph__p2m_f90d547e_0d6a_4173_8130_3021addb1efb_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:36:25.068255+00:00
 -- url     : https://prove2.me/theorems/67118cd4-2aed-4d90-82ea-b0a7807bb269

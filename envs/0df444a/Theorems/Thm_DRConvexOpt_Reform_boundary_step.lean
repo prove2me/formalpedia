@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRConvexOpt_Reform_boundary_step
 -- name    : DRConvexOpt.Reform.boundary_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:34:32.684989+00:00
 -- url     : https://prove2.me/theorems/47850f17-1214-4963-a704-6795f7536e2a

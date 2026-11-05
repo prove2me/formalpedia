@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellianRelax_neg_conj_minValue_eq_inf_tilt
 -- name    : RockafellianRelax.neg_conj_minValue_eq_inf_tilt
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:35:58.450539+00:00
 -- url     : https://prove2.me/theorems/71597bf6-4dff-440f-9e70-ef046d6aa5d3

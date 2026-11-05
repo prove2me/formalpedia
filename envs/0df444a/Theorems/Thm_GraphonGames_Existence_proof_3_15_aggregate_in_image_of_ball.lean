@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonGames_Existence_proof_3_15_aggregate_in_image_of_ball
 -- name    : GraphonGames.Existence.proof_3_15_aggregate_in_image_of_ball
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:55:38.048161+00:00
 -- url     : https://prove2.me/theorems/7cc6e7f0-801e-415e-b575-69b3d735d232

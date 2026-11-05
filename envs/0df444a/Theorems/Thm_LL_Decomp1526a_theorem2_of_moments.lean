@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1526a_theorem2_of_moments
 -- name    : LL_Decomp1526a.theorem2_of_moments
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:09:03.584608+00:00
 -- url     : https://prove2.me/theorems/79c92e2b-636e-4069-8a34-9fc4c418de87

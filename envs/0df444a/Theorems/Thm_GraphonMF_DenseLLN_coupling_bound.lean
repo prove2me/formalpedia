@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonMF_DenseLLN_coupling_bound
 -- name    : GraphonMF.DenseLLN.coupling_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:29:39.844035+00:00
 -- url     : https://prove2.me/theorems/22b01359-5ab9-404f-ba16-cbb04bdc137e

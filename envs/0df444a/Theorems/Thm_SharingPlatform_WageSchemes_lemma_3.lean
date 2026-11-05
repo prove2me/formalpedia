@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharingPlatform_WageSchemes_lemma_3
 -- name    : SharingPlatform.WageSchemes.lemma_3
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:57.209983+00:00
 -- url     : https://prove2.me/theorems/83540d20-9822-4211-a390-e23c175a5a61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_expCut_decay_e
 -- name    : OAI.SharpPlanar.expCut_decay_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:44:04.132349+00:00
 -- url     : https://prove2.me/theorems/e6469ec0-227a-481d-84b8-7d64b3d30fd2

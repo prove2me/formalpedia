@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_volume_pentagon_and_systolicRatio_pentagonK_prod_pentagonT
 -- name    : Viterbo.volume_pentagon_and_systolicRatio_pentagonK_prod_pentagonT
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T08:14:43.465139+00:00
 -- url     : https://prove2.me/theorems/5acb79c7-a903-4d84-a135-f8ea2f4be245

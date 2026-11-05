@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_01_original_intrinsic_negative_borel_mark_unconditional_levy_rate
 -- name    : AvramDividend.Classical.avram_wave7_01_original_intrinsic_negative_borel_mark_unconditional_levy_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T14:30:59.741741+00:00
 -- url     : https://prove2.me/theorems/4928a464-057d-4fd0-a2c0-099e206d3a21

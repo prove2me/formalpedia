@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_MultiBuyer_display_21
 -- name    : MultiItemRev.MultiBuyer.display_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:12.962491+00:00
 -- url     : https://prove2.me/theorems/dc8ef343-89ce-4b83-9421-bf6955c7d785

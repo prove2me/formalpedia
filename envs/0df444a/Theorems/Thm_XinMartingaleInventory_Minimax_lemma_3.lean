@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinMartingaleInventory_Minimax_lemma_3
 -- name    : XinMartingaleInventory.Minimax.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T23:56:09.049102+00:00
 -- url     : https://prove2.me/theorems/8a982e33-21be-47e8-9810-2819e79a9d13

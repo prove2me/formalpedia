@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_posDefPointwiseLimit
 -- name    : levy_foundations_posDefPointwiseLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:08:16.861272+00:00
 -- url     : https://prove2.me/theorems/afd2a8ed-96c9-43ee-b6a3-ad8997744828

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AggGameNet_Sync_relation_19
 -- name    : AggGameNet.Sync.relation_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:36:40.025601+00:00
 -- url     : https://prove2.me/theorems/1be94da8-0983-4ccc-9b91-c5ebd88500e9

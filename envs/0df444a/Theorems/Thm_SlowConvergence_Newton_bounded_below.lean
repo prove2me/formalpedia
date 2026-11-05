@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_Newton_bounded_below
 -- name    : SlowConvergence.Newton.bounded_below
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:40:01.21598+00:00
 -- url     : https://prove2.me/theorems/27652b96-8c32-4b49-8a1f-af0af9425d43

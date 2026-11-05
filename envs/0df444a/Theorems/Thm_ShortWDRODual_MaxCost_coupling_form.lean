@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_MaxCost_coupling_form
 -- name    : ShortWDRODual.MaxCost.coupling_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:25:29.579399+00:00
 -- url     : https://prove2.me/theorems/18a43bb6-978d-4efc-9cf2-7b8cd7c5eb4d

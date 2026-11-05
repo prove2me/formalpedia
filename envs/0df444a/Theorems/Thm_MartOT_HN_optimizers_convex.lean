@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_HN_optimizers_convex
 -- name    : MartOT.HN.optimizers_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:57.755374+00:00
 -- url     : https://prove2.me/theorems/22e5caa9-cf7b-44f8-b990-12862f7aaf83

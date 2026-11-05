@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedMatching_MechBound_lemma_S1
 -- name    : TwoSidedMatching.MechBound.lemma_S1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T11:05:35.347984+00:00
 -- url     : https://prove2.me/theorems/3805fa36-3a0c-49ad-9c4c-d934b4ff307b

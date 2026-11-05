@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_theorem_4_1
 -- name    : TwoAgentSched.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:53:53.538041+00:00
 -- url     : https://prove2.me/theorems/eefa3333-8a8c-43cd-a686-d3eb78ab003f

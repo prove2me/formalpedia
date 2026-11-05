@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_eq_of_rightCts_of_continuous_of_eqOn_ratNNReal
 -- name    : levy_foundations_eq_of_rightCts_of_continuous_of_eqOn_ratNNReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T20:49:59.348978+00:00
 -- url     : https://prove2.me/theorems/3a72a393-f042-4c7a-a116-e6e839218b2d

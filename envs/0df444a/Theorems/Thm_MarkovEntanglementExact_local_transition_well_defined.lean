@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovEntanglementExact_local_transition_well_defined
 -- name    : MarkovEntanglementExact.local_transition_well_defined
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:21:37.01671+00:00
 -- url     : https://prove2.me/theorems/79ff49a4-5856-484a-8b27-c352286e37ca

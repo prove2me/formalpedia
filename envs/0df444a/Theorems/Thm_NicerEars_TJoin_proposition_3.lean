@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NicerEars_TJoin_proposition_3
 -- name    : NicerEars.TJoin.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:28:49.62977+00:00
 -- url     : https://prove2.me/theorems/35c63b4e-bdad-432e-84ce-20d14903118e

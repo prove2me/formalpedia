@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReinfRegGames_Extinction_proposition_C_4
 -- name    : ReinfRegGames.Extinction.proposition_C_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:17:28.395718+00:00
 -- url     : https://prove2.me/theorems/2ebae163-ec7a-4b8c-bf6b-70a5f4c82d83

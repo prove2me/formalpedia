@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Relative_equation_12
 -- name    : ExploreFirst.Relative.equation_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:12:57.504866+00:00
 -- url     : https://prove2.me/theorems/f862d638-1734-430a-b16d-80b7c3db6e62

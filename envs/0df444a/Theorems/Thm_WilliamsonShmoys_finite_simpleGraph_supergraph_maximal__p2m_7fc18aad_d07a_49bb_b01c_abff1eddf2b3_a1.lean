@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_simpleGraph_supergraph_maximal__p2m_7fc18aad_d07a_49bb_b01c_abff1eddf2b3_a1
 -- name    : WilliamsonShmoys.finite_simpleGraph_supergraph_maximal__p2m_7fc18aad_d07a_49bb_b01c_abff1eddf2b3_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:11:06.86549+00:00
 -- url     : https://prove2.me/theorems/a806b62f-032f-47b9-a30c-43e2f2e16ccc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_exists_maximal_supgraph_of_finite__p2m_2dea5b09_c429_4a5e_b3c1_b82fac24916e_a2
 -- name    : SimpleGraph.exists_maximal_supgraph_of_finite__p2m_2dea5b09_c429_4a5e_b3c1_b82fac24916e_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:47:26.407711+00:00
 -- url     : https://prove2.me/theorems/288a21a7-124b-4604-83f4-05f43dd10c79

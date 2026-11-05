@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_isMaximalPlanarSupergraph__p2m_252969a2_5705_4ea9_b97e_d995b4f5b608_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:19:45.259414+00:00
 -- url     : https://prove2.me/submissions/504adc99-d0cc-4aea-a6ef-ff62506af410
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

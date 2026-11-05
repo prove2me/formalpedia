@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_integration_original_unit_separated_negative_borel_levy_rate
 -- name    : AvramDividend.Classical.avram_integration_original_unit_separated_negative_borel_levy_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-04T00:50:50.638208+00:00
 -- url     : https://prove2.me/theorems/57f57f42-8f99-4af8-81d5-555f54ff14c1

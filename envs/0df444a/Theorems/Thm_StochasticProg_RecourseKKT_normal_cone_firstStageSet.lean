@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticProg_RecourseKKT_normal_cone_firstStageSet
 -- name    : StochasticProg.RecourseKKT.normal_cone_firstStageSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:51:26.531211+00:00
 -- url     : https://prove2.me/theorems/9ec15f7f-1a49-42fc-aa26-8add64d22146

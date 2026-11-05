@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_maximal_supergraph_of_property__p2m_aab4ced3_2cb3_4a94_814b_7026a53a954f_a2
 -- name    : finite_maximal_supergraph_of_property__p2m_aab4ced3_2cb3_4a94_814b_7026a53a954f_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T09:41:44.273542+00:00
 -- url     : https://prove2.me/theorems/fc9c7b34-2592-45bb-b8b0-1c28dec1ee49

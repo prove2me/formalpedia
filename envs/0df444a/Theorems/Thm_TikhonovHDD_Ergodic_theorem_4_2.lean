@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TikhonovHDD_Ergodic_theorem_4_2
 -- name    : TikhonovHDD.Ergodic.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:27:28.173495+00:00
 -- url     : https://prove2.me/theorems/e02df148-3f12-4e9b-a6ce-0353be52502f

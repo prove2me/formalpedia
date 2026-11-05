@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierAudit_Joint_proposition_3
 -- name    : SupplierAudit.Joint.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:31:38.527981+00:00
 -- url     : https://prove2.me/theorems/2516d174-424e-4328-bbbd-ee0ab090b6bd

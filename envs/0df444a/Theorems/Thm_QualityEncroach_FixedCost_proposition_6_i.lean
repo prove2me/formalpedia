@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_FixedCost_proposition_6_i
 -- name    : QualityEncroach.FixedCost.proposition_6_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:23:54.890008+00:00
 -- url     : https://prove2.me/theorems/426ad205-c461-45c5-be9e-be0e16ec4f3a

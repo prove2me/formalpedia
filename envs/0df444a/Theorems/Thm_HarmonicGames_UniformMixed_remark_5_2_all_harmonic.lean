@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicGames_UniformMixed_remark_5_2_all_harmonic
 -- name    : HarmonicGames.UniformMixed.remark_5_2_all_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:46:08.990745+00:00
 -- url     : https://prove2.me/theorems/152104c5-eadb-42b1-93bc-2a4969e14afa

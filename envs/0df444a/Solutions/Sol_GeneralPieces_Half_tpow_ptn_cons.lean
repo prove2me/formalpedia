@@ -1,0 +1,26 @@
+-- Prove2me | solution 1 for GeneralPieces.Half.tpow_ptn_cons
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T23:40:47.809086+00:00
+-- url     : https://prove2.me/submissions/7ee63d4b-49c1-473c-bb8e-d39b3ab49894
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_GeneralPieces_Ring_Op
+import Definitions.Def_ClauseBound_Boson_HalfList
+import Definitions.Def_GeneralPieces_Half_List
+import Theorems.Thm_GeneralPieces_Half_ptn_cons
+import Theorems.Thm_GeneralPieces_Ring_X_mul_tpow
+
+
+set_option autoImplicit false
+section
+section
+open GeneralPieces
+open AppHalfPieces MvPolynomial Finset GeneralPieces.Ring
+open GeneralPieces.Half
+namespace GeneralPieces.Half
+theorem _root_.solution (n : ℕ) (L : List ℕ) : tpow (ptn (n :: L)) = X n.toPNat' * tpow (ptn L) := by
+  rw [ptn_cons, X_mul_tpow]
+end GeneralPieces.Half

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketMakerAds_theorem_3
 -- name    : MarketMakerAds.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:35:25.475777+00:00
 -- url     : https://prove2.me/theorems/e453c34e-9364-4884-80ff-26a87d7c73d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_SearchQC_theorem_5
 -- name    : AssortSearch.SearchQC.theorem_5
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:57.543089+00:00
 -- url     : https://prove2.me/theorems/b88dd405-7065-4c61-bbb1-2d98baacce39

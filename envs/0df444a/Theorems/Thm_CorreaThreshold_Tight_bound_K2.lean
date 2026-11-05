@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Tight_bound_K2
 -- name    : CorreaThreshold.Tight.bound_K2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:35.083224+00:00
 -- url     : https://prove2.me/theorems/adde88a6-20c7-4ccf-8ab6-a87f515f23db

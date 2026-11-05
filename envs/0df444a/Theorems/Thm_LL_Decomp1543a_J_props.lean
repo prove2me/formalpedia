@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543a_J_props
 -- name    : LL_Decomp1543a.J_props
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:51:55.414492+00:00
 -- url     : https://prove2.me/theorems/573969cc-02b4-4aab-b352-f283a2ecbd62

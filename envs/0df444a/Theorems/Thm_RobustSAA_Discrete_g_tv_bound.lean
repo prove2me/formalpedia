@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Discrete_g_tv_bound
 -- name    : RobustSAA.Discrete.g_tv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:16:38.752915+00:00
 -- url     : https://prove2.me/theorems/55059fe8-d149-49cc-b3f9-ec2577a9f152

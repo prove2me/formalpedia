@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Exist_proposition_1
 -- name    : OffloadGNEP.Exist.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:47:07.535889+00:00
 -- url     : https://prove2.me/theorems/673cc5ef-822b-4189-9c49-244bbe514d1a

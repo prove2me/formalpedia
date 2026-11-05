@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_Hermetization_theorem_3_8_hermetizable_polytime
 -- name    : LNTopology.Hermetization.theorem_3_8_hermetizable_polytime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:32:51.247798+00:00
 -- url     : https://prove2.me/theorems/c7e9bada-bec3-42c1-8bdb-89fe004f4924

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_exists_isConvexDomain_gromovWidth_lt_cylindricalCapacity
 -- name    : Viterbo.exists_isConvexDomain_gromovWidth_lt_cylindricalCapacity
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T08:16:56.383367+00:00
 -- url     : https://prove2.me/theorems/f4a0cac8-7603-41f5-a7ba-6a5f88cac81d

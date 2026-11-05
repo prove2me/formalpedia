@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherbrooke_lowerHull_le_and_convex
 -- name    : Sherbrooke.lowerHull_le_and_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:23:03.514638+00:00
 -- url     : https://prove2.me/theorems/5126ac9e-ffb1-4828-8aa0-f04d22d68a0b

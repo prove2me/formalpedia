@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Product_eq_16
 -- name    : MartOT.Product.eq_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:12.963888+00:00
 -- url     : https://prove2.me/theorems/29054b16-ffb5-4cb3-a4bc-dd9596e34f65

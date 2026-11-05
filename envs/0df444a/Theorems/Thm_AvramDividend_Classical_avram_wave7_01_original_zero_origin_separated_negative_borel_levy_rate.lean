@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_01_original_zero_origin_separated_negative_borel_levy_rate
 -- name    : AvramDividend.Classical.avram_wave7_01_original_zero_origin_separated_negative_borel_levy_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T20:39:06.887281+00:00
 -- url     : https://prove2.me/theorems/34dbea70-e487-4806-9b05-464d4f8d052e

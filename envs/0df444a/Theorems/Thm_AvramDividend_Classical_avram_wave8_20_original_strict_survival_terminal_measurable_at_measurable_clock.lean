@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_20_original_strict_survival_terminal_measurable_at_measurable_clock
 -- name    : AvramDividend.Classical.avram_wave8_20_original_strict_survival_terminal_measurable_at_measurable_clock
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T21:12:59.886892+00:00
 -- url     : https://prove2.me/theorems/5f695a4f-6e10-4f05-8ffd-f5253cd0c4b1

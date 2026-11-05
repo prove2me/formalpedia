@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Adaptive_quantile_sandwich
 -- name    : CorreaThreshold.Adaptive.quantile_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:06.128082+00:00
 -- url     : https://prove2.me/theorems/a444ba61-6a29-4b7f-aeb1-5876f70007b6

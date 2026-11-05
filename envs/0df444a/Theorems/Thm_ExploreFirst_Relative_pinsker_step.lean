@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Relative_pinsker_step
 -- name    : ExploreFirst.Relative.pinsker_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:13:05.629789+00:00
 -- url     : https://prove2.me/theorems/3369fa99-4088-41b9-89bf-4829f339ebd0

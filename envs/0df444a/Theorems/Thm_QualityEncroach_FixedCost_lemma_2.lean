@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_FixedCost_lemma_2
 -- name    : QualityEncroach.FixedCost.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:55.142496+00:00
 -- url     : https://prove2.me/theorems/d655408f-9802-450c-8145-86132bd5b6b6

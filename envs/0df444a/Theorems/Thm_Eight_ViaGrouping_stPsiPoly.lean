@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_Eight_ViaGrouping_stPsiPoly
+-- name    : Eight.ViaGrouping.stPsiPoly
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-11-05T02:35:25.03507+00:00
+-- url     : https://prove2.me/theorems/123e8197-29e1-415d-bf9b-e37b3aff7c63
+-- title:
+--   Via Grouping: st Psi Poly
+-- statement:
+--   The program `gridPsi` is a polynomial-time function of (context, y, query), for λ given in unary
+--   (`StPsiPoly`).
+--
+--   Source: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/networks/Eight/ViaGrouping/GridPsi.lean#L189-L189
+-- source:
+--   https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/networks/Eight/ViaGrouping/GridPsi.lean#L189-L189
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_Eight_ViaGrouping_GridPsiDefs
+import Definitions.Def_Eight_ViaGrouping_LevelDefs
+import Definitions.Def_Eight_SecLevel_GridWords
+import Definitions.Def_Eight_SecCrossing_Cert
+import Definitions.Def_Eight_Level_Presents
+import Definitions.Def_Eight_Level_Cert
+import Mathlib.Tactic
+import Definitions.Def_Eight_ViaGrouping_GridPsi
+set_option autoImplicit false
+section
+section
+open Eight Eight.ViaGrouping
+open Finset Groundwork Groundwork.Prog Groundwork.Grid PaddedDescent.F ClauseBound.Alg ClauseBound.Alg.GridNet ClauseBound.Alg.GridPresents Stepped Eight.SecNetworks Eight.Level
+
+theorem Eight.ViaGrouping.stPsiPoly (g : ℕ) (tr : Bool) : StPsiPoly (gridPsi g tr) := by sorry

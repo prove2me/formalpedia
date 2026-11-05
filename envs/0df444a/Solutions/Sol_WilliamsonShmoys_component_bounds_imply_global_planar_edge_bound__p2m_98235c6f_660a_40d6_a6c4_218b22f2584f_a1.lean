@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.component_bounds_imply_global_planar_edge_bound__p2m_98235c6f_660a_40d6_a6c4_218b22f2584f_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:22:04.919548+00:00
 -- url     : https://prove2.me/submissions/cc02f5e7-e9d9-44af-96fa-59eefd32c087
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_component_local_sum_bound__p2m_2f886b64_45e5_4692_a31b_5084b02f539f_a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassTwoStage_LP1_constraint_decomposition
 -- name    : WassTwoStage.LP1.constraint_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:55:27.801304+00:00
 -- url     : https://prove2.me/theorems/972a00db-a7db-4054-b8c1-429528c8d60c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Exist_user_problem_convex
 -- name    : OffloadGNEP.Exist.user_problem_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:40.201962+00:00
 -- url     : https://prove2.me/theorems/73c996d0-9bdf-4eef-8aa2-38bbdbad8e37

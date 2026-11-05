@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TwoAgentSched.Knapsack.theorem_5_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T13:16:50.320982+00:00
 -- url     : https://prove2.me/submissions/ba5d463d-e952-4231-9bee-b86089152b28
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_TwoAgentSched_Knapsack_Problem51

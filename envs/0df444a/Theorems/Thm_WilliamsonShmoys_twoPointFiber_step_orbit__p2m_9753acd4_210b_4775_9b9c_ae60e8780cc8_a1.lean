@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_twoPointFiber_step_orbit__p2m_9753acd4_210b_4775_9b9c_ae60e8780cc8_a1
 -- name    : WilliamsonShmoys.twoPointFiber_step_orbit__p2m_9753acd4_210b_4775_9b9c_ae60e8780cc8_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T22:13:06.766141+00:00
 -- url     : https://prove2.me/theorems/cb23ac8c-db06-4d11-a240-e4b2c6ec42eb

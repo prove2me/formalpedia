@@ -1,0 +1,29 @@
+-- Prove2me | Theorems.Thm_Eight_SecNetworks_place_surj
+-- name    : Eight.SecNetworks.place_surj
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-04T20:03:00.088088+00:00
+-- url     : https://prove2.me/theorems/07cd5304-c09f-4c16-b434-789731716c4c
+-- title:
+--   Sec Networks: place surj
+-- statement:
+--   Every place below K − 1 is taken by a node other than w.
+--
+--   Source: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/networks/Eight/SecNetworks_Clique.lean#L45-L51
+-- source:
+--   https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/networks/Eight/SecNetworks_Clique.lean#L45-L51
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_Eight_SecNetworks_Defs
+import Definitions.Def_StepMachines_Prog_NetVal
+import Mathlib.Tactic
+import Definitions.Def_Eight_SecNetworks_Clique
+set_option autoImplicit false
+section
+section
+open Eight Eight.SecNetworks
+open Groundwork Groundwork.Prog Finset
+
+theorem Eight.SecNetworks.place_surj {K : ℕ} (w : Fin K) (j : ℕ) (hj : j < K - 1) : ∃ a : Fin K, a ≠ w ∧ place w a = j := by sorry

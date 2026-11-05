@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_FixedCost_subgame_low
 -- name    : QualityEncroach.FixedCost.subgame_low
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:49.408244+00:00
 -- url     : https://prove2.me/theorems/9317029e-fee3-4057-9fab-9f45240add33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_Tight_integral_le_supFn
 -- name    : ShortWDRODual.Tight.integral_le_supFn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:17.574575+00:00
 -- url     : https://prove2.me/theorems/ecdf3a95-bed6-4155-9d5e-c2fb0d41bad8

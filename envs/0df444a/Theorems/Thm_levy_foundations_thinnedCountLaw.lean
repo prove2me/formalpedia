@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_thinnedCountLaw
 -- name    : levy_foundations_thinnedCountLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T17:13:32.281368+00:00
 -- url     : https://prove2.me/theorems/03c12fc9-8386-46a8-874d-8a8c92258c6c

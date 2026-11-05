@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_conditioningCertificate_of_above_exponential
 -- name    : QuantumParallelRepetition.conditioningCertificate_of_above_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T05:56:53.02808+00:00
 -- url     : https://prove2.me/theorems/97708abc-31b5-4a59-a499-5aa4d30ef63f

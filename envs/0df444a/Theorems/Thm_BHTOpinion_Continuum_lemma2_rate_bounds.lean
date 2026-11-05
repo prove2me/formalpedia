@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BHTOpinion_Continuum_lemma2_rate_bounds
 -- name    : BHTOpinion.Continuum.lemma2_rate_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:54.424507+00:00
 -- url     : https://prove2.me/theorems/64fb31fd-3a94-4c7f-8532-f492f600390f

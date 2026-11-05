@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Product_curtain_target_least
 -- name    : MartOT.Product.curtain_target_least
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:20.277684+00:00
 -- url     : https://prove2.me/theorems/c29c7187-349f-4aec-bd7d-c21b8e02de8c

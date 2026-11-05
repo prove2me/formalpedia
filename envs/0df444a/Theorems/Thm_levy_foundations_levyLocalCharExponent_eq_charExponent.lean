@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_levyLocalCharExponent_eq_charExponent
 -- name    : levy_foundations_levyLocalCharExponent_eq_charExponent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:03:16.417811+00:00
 -- url     : https://prove2.me/theorems/05477e68-006f-49d8-934a-02814e2350bc

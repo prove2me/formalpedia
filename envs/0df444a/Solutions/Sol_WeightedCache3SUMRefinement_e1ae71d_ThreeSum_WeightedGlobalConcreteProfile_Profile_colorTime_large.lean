@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalConcreteProfile.Profile.colorTime_large
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T20:31:47.7935+00:00
+-- url     : https://prove2.me/submissions/0b8043d0-d2b2-449f-abd3-89320163e5c2
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryConcreteProfile
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryActualGlobalQueryRuntime
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryFastProgramBudget
+import Definitions.Def_Submission_ThreeSum_TernarySolverEndBridge
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryProfileRuntime
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalConcreteProfile_Profile_preparation_le_colorTime
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalConcreteProfile WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalConcreteProfile.Profile
+open Light StageBounds WeightedGlobalLocalParameters WeightedGlobalActualColoredRuntime
+open WeightedGlobalActualPrefixRuntime WeightedGlobalOversizeOverhead Filter
+open scoped Topology
+set_option maxHeartbeats 5000000
+set_option maxRecDepth 24000
+variable {κ : ℕ}
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalConcreteProfile.Profile
+theorem _root_.solution (P : Profile κ) (n : ℕ) : 10000≤P.colorTime n := by
+  have hh := preparation_le_colorTime P n
+  omega
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalConcreteProfile.Profile

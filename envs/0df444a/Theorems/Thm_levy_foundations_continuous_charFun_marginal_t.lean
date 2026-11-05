@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_continuous_charFun_marginal_t
 -- name    : levy_foundations_continuous_charFun_marginal_t
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:05:53.933911+00:00
 -- url     : https://prove2.me/theorems/70454ca9-cba6-4c7d-bd3a-7bd8ce09cee7

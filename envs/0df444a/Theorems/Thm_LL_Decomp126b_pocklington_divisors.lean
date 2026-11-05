@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp126b_pocklington_divisors
 -- name    : LL_Decomp126b.pocklington_divisors
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:51:55.204083+00:00
 -- url     : https://prove2.me/theorems/bb4973cf-9a05-43bc-81dd-00ee38758e38

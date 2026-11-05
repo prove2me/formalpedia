@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComplementarySourcing_hypothesis_at_n_two
 -- name    : ComplementarySourcing.hypothesis_at_n_two
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:05:38.673995+00:00
 -- url     : https://prove2.me/theorems/dab18d3f-3ea4-41a0-9c57-a8843474eb08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReinfRegGames_StrictStable_monotone_step
 -- name    : ReinfRegGames.StrictStable.monotone_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:07:50.215973+00:00
 -- url     : https://prove2.me/theorems/ed7192b9-31d4-42e8-b41f-acdef0ff4279

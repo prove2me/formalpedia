@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_localLog_continuousOn_exponent
 -- name    : levy_foundations_localLog_continuousOn_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T20:47:05.008153+00:00
 -- url     : https://prove2.me/theorems/230cfb80-4d18-46aa-8b73-7dcc68f61753

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellianRelax_eq_A1_argmin_tilt_iff
 -- name    : RockafellianRelax.eq_A1_argmin_tilt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:37:21.274985+00:00
 -- url     : https://prove2.me/theorems/a3ee2e36-4b6d-4beb-8362-cfbf73827aa5

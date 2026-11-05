@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonGames_Existence_proof_3_15_image_of_ball_relatively_compact
 -- name    : GraphonGames.Existence.proof_3_15_image_of_ball_relatively_compact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:55:27.736069+00:00
 -- url     : https://prove2.me/theorems/1c29d287-d17e-4695-a083-44a403554287

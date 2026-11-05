@@ -1,0 +1,132 @@
+-- Prove2me | solution 1 for WidthK.Node.bound
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T22:22:01.246195+00:00
+-- url     : https://prove2.me/submissions/c03a646c-bfca-4128-aa49-441785636115
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_SparsifyWidthK_Interfaces
+import Definitions.Def_StepMachines_Math_Sparsify
+import Definitions.Def_StepMachines_Math_Sparsify
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.SplitIfs
+import Definitions.Def_SparsifyWidthK_Step
+import Theorems.Thm_WidthK_InvK_step
+import Theorems.Thm_WidthK_Step_acc_le
+import Theorems.Thm_WidthK_Node_subset_of
+import Theorems.Thm_Groundwork_PB_mul
+import Theorems.Thm_Groundwork_PolyT_all
+import Theorems.Thm_Groundwork_TM_Run_trans
+import Theorems.Thm_Groundwork_TM_beq_LR
+import Theorems.Thm_Groundwork_TM_beq_RL
+import Theorems.Thm_Groundwork_TM_beq_bL
+import Theorems.Thm_Groundwork_TM_beq_bR
+import Theorems.Thm_Groundwork_TM_length_mirror
+import Theorems.Thm_Groundwork_TM_st4_cnt
+import Theorems.Thm_Groundwork_TM_st4_src
+import Theorems.Thm_Groundwork_TM_st4_t1
+import Theorems.Thm_Groundwork_TM_st4_t2
+import Theorems.Thm_Groundwork_TM_st_a
+import Theorems.Thm_Groundwork_TM_st_b
+import Theorems.Thm_Groundwork_TM_st_cnt
+import Theorems.Thm_Groundwork_TM_st_main
+import Theorems.Thm_Groundwork_TM_upd4_cnt
+import Theorems.Thm_Groundwork_TM_upd4_src
+import Theorems.Thm_Groundwork_TM_upd4_t1
+import Theorems.Thm_Groundwork_TM_upd4_t2
+import Theorems.Thm_Groundwork_TM_upd_a
+import Theorems.Thm_Groundwork_TM_upd_b
+import Theorems.Thm_Groundwork_TM_upd_main
+import Theorems.Thm_Groundwork_length_toWord
+import Theorems.Thm_Groundwork_mem_words
+import Theorems.Thm_Groundwork_size_bool
+import Theorems.Thm_Groundwork_size_inl
+import Theorems.Thm_Groundwork_size_inr
+import Theorems.Thm_Groundwork_size_int
+import Theorems.Thm_Groundwork_size_list
+import Theorems.Thm_Groundwork_size_nat
+import Theorems.Thm_Groundwork_size_none
+import Theorems.Thm_Groundwork_size_prod
+import Theorems.Thm_Groundwork_size_some
+import Theorems.Thm_Groundwork_size_unit
+attribute [local fun_prop] Groundwork.PolyT.all
+attribute [local simp] Groundwork.TM.beq_LR
+attribute [local simp] Groundwork.TM.beq_RL
+attribute [local simp] Groundwork.TM.beq_bL
+attribute [local simp] Groundwork.TM.beq_bR
+attribute [local simp] Groundwork.TM.length_mirror
+attribute [local simp] Groundwork.TM.st4_cnt
+attribute [local simp] Groundwork.TM.st4_src
+attribute [local simp] Groundwork.TM.st4_t1
+attribute [local simp] Groundwork.TM.st4_t2
+attribute [local simp] Groundwork.TM.st_a
+attribute [local simp] Groundwork.TM.st_b
+attribute [local simp] Groundwork.TM.st_cnt
+attribute [local simp] Groundwork.TM.st_main
+attribute [local simp] Groundwork.TM.upd4_cnt
+attribute [local simp] Groundwork.TM.upd4_src
+attribute [local simp] Groundwork.TM.upd4_t1
+attribute [local simp] Groundwork.TM.upd4_t2
+attribute [local simp] Groundwork.TM.upd_a
+attribute [local simp] Groundwork.TM.upd_b
+attribute [local simp] Groundwork.TM.upd_main
+attribute [local simp] Groundwork.length_toWord
+attribute [local simp] Groundwork.mem_words
+attribute [local simp] Groundwork.size_bool
+attribute [local simp] Groundwork.size_inl
+attribute [local simp] Groundwork.size_inr
+attribute [local simp] Groundwork.size_int
+attribute [local simp] Groundwork.size_list
+attribute [local simp] Groundwork.size_nat
+attribute [local simp] Groundwork.size_none
+attribute [local simp] Groundwork.size_prod
+attribute [local simp] Groundwork.size_some
+attribute [local simp] Groundwork.size_unit
+
+
+
+set_option autoImplicit false
+section
+open WidthK
+open Finset Groundwork Groundwork.Sparsify
+variable {α : Type*} [DecidableEq α]
+open Step
+variable {θ : ℕ → ℕ} {k j : ℕ} {F : Finset (Finset α)} {H : Finset α}
+variable {τ p t : ℕ} {φ : Finset (Finset α)}
+variable {n : ℕ} {U : Finset α} {β : ℕ → ℕ}
+namespace WidthK
+namespace Node
+theorem _root_.solution (hT : Thr τ θ β) (hU : U.card ≤ 2 * n) (hφ : ∀ C ∈ φ, C ⊆ U) (h : Node θ k τ φ F p t) :
+    p ≤ (∑ i ∈ range k, β i) * n ∧ t ≤ k * n := by
+  have hFU := h.subset_of hφ
+  obtain ⟨-, N, a, hh, hI, ha0, hh1, hp, ht⟩ := h
+  have ha := acc_le hU hFU hI ha0 (β := β) fun i hi => by
+    obtain ⟨i, rfl⟩ := Nat.exists_eq_succ_of_ne_zero hi.ne'
+    exact hT.step i
+  constructor
+  · rw [sum_mul]
+    exact hp.trans (sum_le_sum fun i _ => ha i)
+  · refine ht.trans ?_
+    rw [mul_sum]
+    refine (sum_le_card_nsmul _ _ n fun r _ => ?_).trans (by simp)
+    have h1 : τ * hh r * β r ≤ n * β r := by
+      calc τ * hh r * β r = hh r * (τ * β r) := by ring
+        _ ≤ hh r * θ r := Nat.mul_le_mul_left _ (hT.mul r)
+        _ ≤ a r := hh1 r
+        _ ≤ β r * n := ha r
+        _ = n * β r := Nat.mul_comm _ _
+    rcases Nat.eq_zero_or_pos (β r) with h0 | h0
+    · have h2 := (hh1 r).trans (ha r)
+      rw [h0, Nat.zero_mul] at h2
+      have h3 : hh r = 0 := by
+        rcases Nat.eq_zero_or_pos (hh r) with h | h
+        · exact h
+        · exact absurd (Nat.mul_pos h (hT.pos r)) (by omega)
+      rw [h3, Nat.mul_zero]; exact Nat.zero_le _
+    · exact Nat.le_of_mul_le_mul_right h1 h0
+end Node
+end WidthK

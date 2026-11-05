@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenFarias_SimplePolicy_exp_horizon_identity
 -- name    : ChenFarias.SimplePolicy.exp_horizon_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:46.325154+00:00
 -- url     : https://prove2.me/theorems/f88c659b-b41d-4bec-bcf5-ab94f23a3f72

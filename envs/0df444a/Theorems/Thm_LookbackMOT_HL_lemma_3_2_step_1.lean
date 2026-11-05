@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LookbackMOT_HL_lemma_3_2_step_1
 -- name    : LookbackMOT.HL.lemma_3_2_step_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:34:04.851255+00:00
 -- url     : https://prove2.me/theorems/8c6b9ec8-ab5b-4a0f-8229-4d6c0cbd1541

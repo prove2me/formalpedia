@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1528b_harmonic_mul_prod_le
 -- name    : LL_Decomp1528b.harmonic_mul_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:08:57.399983+00:00
 -- url     : https://prove2.me/theorems/14008b2f-820a-4dd1-8037-a67c5a3a5d7f

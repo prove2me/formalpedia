@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRConvexOpt_Reform_moment_duality
 -- name    : DRConvexOpt.Reform.moment_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:35:49.07637+00:00
 -- url     : https://prove2.me/theorems/7b55479a-a564-48b3-8ab2-bc49dba5d926

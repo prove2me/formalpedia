@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_cEHZ_pentagonK_prod_pentagonT
 -- name    : Viterbo.cEHZ_pentagonK_prod_pentagonT
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T08:14:21.116993+00:00
 -- url     : https://prove2.me/theorems/06305a3f-ae07-49f4-ad19-f388108e4139

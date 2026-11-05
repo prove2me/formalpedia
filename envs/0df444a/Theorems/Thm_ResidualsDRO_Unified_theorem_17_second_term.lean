@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResidualsDRO_Unified_theorem_17_second_term
 -- name    : ResidualsDRO.Unified.theorem_17_second_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:05:24.089209+00:00
 -- url     : https://prove2.me/theorems/ef94631a-c895-4866-8d73-2626c5210f8e

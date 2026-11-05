@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_HN_lemma_3_2
 -- name    : MartOT.HN.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:29.969561+00:00
 -- url     : https://prove2.me/theorems/217adb10-f0b7-4ba5-be18-c93c9376e286

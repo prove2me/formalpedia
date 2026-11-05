@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_MaxCost_legendre_eq_soft
 -- name    : ShortWDRODual.MaxCost.legendre_eq_soft
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:25:18.930876+00:00
 -- url     : https://prove2.me/theorems/cc10abad-bd07-45b2-9ce7-4ff98c8898fc

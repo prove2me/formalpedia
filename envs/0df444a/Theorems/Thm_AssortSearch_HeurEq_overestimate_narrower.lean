@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_HeurEq_overestimate_narrower
 -- name    : AssortSearch.HeurEq.overestimate_narrower
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:15.862637+00:00
 -- url     : https://prove2.me/theorems/c210b3dc-b5d0-4b43-a9ed-98317d32e0ea

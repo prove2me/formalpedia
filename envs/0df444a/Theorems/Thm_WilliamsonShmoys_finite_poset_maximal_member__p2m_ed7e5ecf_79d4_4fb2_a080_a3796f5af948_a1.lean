@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_poset_maximal_member__p2m_ed7e5ecf_79d4_4fb2_a080_a3796f5af948_a1
 -- name    : WilliamsonShmoys.finite_poset_maximal_member__p2m_ed7e5ecf_79d4_4fb2_a080_a3796f5af948_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:57:20.101335+00:00
 -- url     : https://prove2.me/theorems/b0563243-300f-434b-9ae4-6998c2ff4d96

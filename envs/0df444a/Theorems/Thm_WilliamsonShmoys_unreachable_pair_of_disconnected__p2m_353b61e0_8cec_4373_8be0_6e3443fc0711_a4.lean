@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_unreachable_pair_of_disconnected__p2m_353b61e0_8cec_4373_8be0_6e3443fc0711_a4
 -- name    : WilliamsonShmoys.unreachable_pair_of_disconnected__p2m_353b61e0_8cec_4373_8be0_6e3443fc0711_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:53:40.82457+00:00
 -- url     : https://prove2.me/theorems/ce77cf45-7d4f-4388-9278-a419121a62d9

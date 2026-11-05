@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_kOmega_iff_countableCompactHausdorffQuotient
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.kOmega_iff_countableCompactHausdorffQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:29:09.32265+00:00
 -- url     : https://prove2.me/theorems/edb52f63-e38b-4078-b2d8-d294707d5259

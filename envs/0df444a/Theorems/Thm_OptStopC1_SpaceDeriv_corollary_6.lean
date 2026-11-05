@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptStopC1_SpaceDeriv_corollary_6
 -- name    : OptStopC1.SpaceDeriv.corollary_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:26.656965+00:00
 -- url     : https://prove2.me/theorems/75467957-314d-4a16-9338-96007b8d84e0

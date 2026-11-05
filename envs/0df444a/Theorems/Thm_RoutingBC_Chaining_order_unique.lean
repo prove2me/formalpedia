@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoutingBC_Chaining_order_unique
 -- name    : RoutingBC.Chaining.order_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:51.121958+00:00
 -- url     : https://prove2.me/theorems/f9210296-7697-4605-b46a-80ff872aabcf

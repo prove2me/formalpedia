@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalPrefixSetup.nb_eq_bankSize
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T11:11:09.630202+00:00
+-- url     : https://prove2.me/submissions/0d72136c-0efd-40f4-8fb1-85678566ecc1
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_EnumerationSetup
+import Definitions.Def_Submission_ThreeSum_LightNatPower
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_BankCanonical
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_DimensionBounds
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryPrefixSetup
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedGlobalPrefixSetup_dimensions
+import Theorems.Thm_ThreeSum_TernaryBankEnumeration_codes_length_eq_bank_card
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedBankEnumeration_codes_length_eq_bank_card
+
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalPrefixSetup
+open Light LightSubsetAddress WeightedAddresses WeightedBankEnumeration
+open WeightedGlobalLocalParameters WeightedGlobalDimensionBounds
+set_option maxHeartbeats 6000000
+set_option maxRecDepth 18000
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalPrefixSetup
+theorem _root_.solution (m j : ℕ) : nb m j=bankSize m j :=by
+  unfold nb bankSize
+  rw [codes_length_eq_bank_card]
+  rw [(dimensions m j).1,(dimensions m j).2.1]
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalPrefixSetup

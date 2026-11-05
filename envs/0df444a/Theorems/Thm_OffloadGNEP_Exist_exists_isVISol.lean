@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Exist_exists_isVISol
 -- name    : OffloadGNEP.Exist.exists_isVISol
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:32.444972+00:00
 -- url     : https://prove2.me/theorems/2e136346-331c-48af-827d-03f23f3f0dc6

@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalCanonicalSourceBank.source_rows
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T11:42:18.053207+00:00
+-- url     : https://prove2.me/submissions/61c59053-2291-48d8-8f56-bf156d328696
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCanonicalTupleCodes
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryNativeBlockPairs
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryTupleDictionaryDecode
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_DimensionBounds
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryPrefixSetup
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCanonicalSourceBank
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalCanonicalSourceBank_dictionary_native
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalCanonicalSourceBank
+open TernaryJointType TernaryCanonicalDictionaries WeightedGlobalRepeatedWords
+open WeightedGlobalTupleDictionaryDecode TernaryCodeSemantics WeightedAddresses
+open TernaryCoverLocal TernaryFixedDictionaries WeightedGlobalLocalParameters
+attribute [local instance] Classical.propDecidable
+variable {p m F r : ℕ} [Fact p.Prime]
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalCanonicalSourceBank
+theorem _root_.solution (right : Bool)
+    (maps : Fin F→TernaryCoverHashes.Coordinate (Fin (fixedLength m))→ZMod p)
+    (B : ℕ) (j : Fin ((records (α := fixedAlpha m) right maps B).length^r))
+    (original : Fin r→ZMod p)
+    (hjoin : ((p^r : ℕ) : ℤ)∣(TernaryExtensionEncoding.coefficientCode original : ℤ)-
+      LightTernarySourceHost.dictionary ((records (α := fixedAlpha m) right maps B).map (native right maps)) p r j.val) :
+    original=nativeRow right maps B j := by
+  rw [dictionary_native] at hjoin
+  have he := Int.natCast_modEq_iff.mp (Int.modEq_iff_dvd.mpr hjoin)
+  change TernaryExtensionEncoding.coefficientCode (nativeRow right maps B j)%(p^r)=
+    TernaryExtensionEncoding.coefficientCode original%(p^r) at he
+  rw [Nat.mod_eq_of_lt (TernaryExtensionEncoding.coefficientCode_lt _),
+    Nat.mod_eq_of_lt (TernaryExtensionEncoding.coefficientCode_lt _)] at he
+  exact (TernaryExtensionEncoding.coefficientCode_injective r he).symm
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalCanonicalSourceBank

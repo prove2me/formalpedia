@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_separated_marked_finite_simple_predictable_L1_rate
 -- name    : AvramDividend.Classical.avram_wave7_06_original_separated_marked_finite_simple_predictable_L1_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T07:07:51.884456+00:00
 -- url     : https://prove2.me/theorems/bbab4968-b713-43da-a334-461b7689663a

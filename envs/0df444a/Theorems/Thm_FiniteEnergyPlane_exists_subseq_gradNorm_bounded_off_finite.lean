@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_subseq_gradNorm_bounded_off_finite
 -- name    : FiniteEnergyPlane.exists_subseq_gradNorm_bounded_off_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T16:24:11.107201+00:00
 -- url     : https://prove2.me/theorems/d439d99d-239c-48bf-85a1-554310f7e1a7

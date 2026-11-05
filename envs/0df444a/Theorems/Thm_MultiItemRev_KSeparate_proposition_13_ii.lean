@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KSeparate_proposition_13_ii
 -- name    : MultiItemRev.KSeparate.proposition_13_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:28:53.563774+00:00
 -- url     : https://prove2.me/theorems/f398b25d-a8d7-4aae-a84c-6af61c719296

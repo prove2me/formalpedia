@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_centralIndex_injective_e
 -- name    : OAI.SharpPlanar.Numerical.centralIndex_injective_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:43:53.652375+00:00
 -- url     : https://prove2.me/theorems/d31d95fa-0f0c-43c5-bdeb-b9ef313d147a

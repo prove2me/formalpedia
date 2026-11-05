@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_Tight_proposition_2
 -- name    : ShortWDRODual.Tight.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:44.856244+00:00
 -- url     : https://prove2.me/theorems/443c4120-aabf-4149-823e-ba2be4933e29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_edge_inclusion_maximal_graph__p2m_78ba916f_f700_41ef_a045_eff3bbec17a0_a2
 -- name    : WilliamsonShmoys.exists_edge_inclusion_maximal_graph__p2m_78ba916f_f700_41ef_a045_eff3bbec17a0_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:45:22.567759+00:00
 -- url     : https://prove2.me/theorems/0c9be13c-5f74-4c69-8dd8-5d16899823da

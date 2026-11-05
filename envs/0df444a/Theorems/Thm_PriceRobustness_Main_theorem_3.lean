@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceRobustness_Main_theorem_3
 -- name    : PriceRobustness.Main.theorem_3
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T06:39:34.985502+00:00
 -- url     : https://prove2.me/theorems/a495b3b8-5953-4789-b321-7ffc127d39e7

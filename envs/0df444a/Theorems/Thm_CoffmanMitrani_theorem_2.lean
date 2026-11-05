@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani_theorem_2
 -- name    : CoffmanMitrani.theorem_2
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:34:23.290709+00:00
 -- url     : https://prove2.me/theorems/1dad8aff-507d-4418-998c-1ad0cefa0131

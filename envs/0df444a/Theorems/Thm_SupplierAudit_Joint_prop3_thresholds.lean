@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierAudit_Joint_prop3_thresholds
 -- name    : SupplierAudit.Joint.prop3_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:31:58.263976+00:00
 -- url     : https://prove2.me/theorems/4bcdb00b-78c0-4c03-9cf9-2febd43d68e0

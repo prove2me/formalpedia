@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_cardinality_eq_subtype_ne__p2m_632e18d6_a4cc_4ac2_ab65_0a7319845dde_a2
 -- name    : finite_cardinality_eq_subtype_ne__p2m_632e18d6_a4cc_4ac2_ab65_0a7319845dde_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:39:28.962627+00:00
 -- url     : https://prove2.me/theorems/eb24eb1f-7a71-47bd-a51e-3e411d165af1

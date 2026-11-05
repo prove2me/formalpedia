@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1535a_sum_log_sq_le
 -- name    : LL_Decomp1535a.sum_log_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:12:20.612949+00:00
 -- url     : https://prove2.me/theorems/da798753-37df-45af-8885-be9e0c110d05

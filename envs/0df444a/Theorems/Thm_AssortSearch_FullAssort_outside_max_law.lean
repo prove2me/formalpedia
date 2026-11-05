@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_FullAssort_outside_max_law
 -- name    : AssortSearch.FullAssort.outside_max_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:01.452791+00:00
 -- url     : https://prove2.me/theorems/29b9b8ac-7e62-49f1-8ec1-986b197f7306

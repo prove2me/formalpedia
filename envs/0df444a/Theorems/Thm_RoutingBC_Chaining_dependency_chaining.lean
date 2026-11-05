@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoutingBC_Chaining_dependency_chaining
 -- name    : RoutingBC.Chaining.dependency_chaining
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:53.347136+00:00
 -- url     : https://prove2.me/theorems/ba76dd09-0b40-411d-8d4d-1ac5a0dee962

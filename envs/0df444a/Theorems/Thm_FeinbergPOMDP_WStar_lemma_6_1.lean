@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeinbergPOMDP_WStar_lemma_6_1
 -- name    : FeinbergPOMDP.WStar.lemma_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:55:47.933455+00:00
 -- url     : https://prove2.me/theorems/1b6c4b31-09b1-4d05-ad19-d394715469b4

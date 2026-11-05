@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonGames_Existence_theorem_3_15_existence
 -- name    : GraphonGames.Existence.theorem_3_15_existence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:55:36.920149+00:00
 -- url     : https://prove2.me/theorems/544413d9-af66-4a4d-a72b-592b428b8c7f

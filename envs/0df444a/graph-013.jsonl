@@ -60035,7 +60035,7 @@
 {"parent": "MIPStarRE.QPBT.WinImplications.obsOf_conjTranspose_mul_self", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.WinImplications.obsOf_conjTranspose_mul_self", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p003_b046", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "PutermanMDP.SemiMarkov.finite_evaluation", "child": "PutermanMDP_SemiMarkov_Deviation", "via": ["statement"]}
+{"parent": "PutermanMDP.SemiMarkov.finite_evaluation", "child": "PutermanMDP_SemiMarkov_Deviation", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c319055_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "OAI.LaughlinFock.fourYNumber_13_13_5", "child": "OAIQ084L022", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.hBConsistencyError_add_mdq_add_dnoteq_le_overAllOutcomesError", "child": "LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core", "via": ["solution", "statement"]}

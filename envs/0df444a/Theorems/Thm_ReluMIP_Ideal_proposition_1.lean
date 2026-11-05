@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReluMIP_Ideal_proposition_1
 -- name    : ReluMIP.Ideal.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:20.032759+00:00
 -- url     : https://prove2.me/theorems/c982e7ac-8ad3-4e88-93e4-d084a824486e

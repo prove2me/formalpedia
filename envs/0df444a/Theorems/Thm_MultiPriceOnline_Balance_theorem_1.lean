@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Balance_theorem_1
 -- name    : MultiPriceOnline.Balance.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:45:46.690301+00:00
 -- url     : https://prove2.me/theorems/8fe80f62-8887-4d4a-9b04-0598bdd2292e

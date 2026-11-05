@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NemirovskiProx_lemma_3_1
 -- name    : NemirovskiProx.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:34:57.476262+00:00
 -- url     : https://prove2.me/theorems/3365893e-93b5-4ff4-958a-cdccf35c331a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_HeurEq_equilibrium_profit_nonneg
 -- name    : AssortSearch.HeurEq.equilibrium_profit_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:50.083439+00:00
 -- url     : https://prove2.me/theorems/d0db3d66-7284-4269-8526-6b36f97e6749

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_08_source_piecewise_stopped_terminal_ofReal_le_cap
 -- name    : AvramDividend.Classical.avram_wave8_08_source_piecewise_stopped_terminal_ofReal_le_cap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T17:26:53.382361+00:00
 -- url     : https://prove2.me/theorems/4ea6cd91-4b5b-4b22-8aa3-c4b58b1ffd26

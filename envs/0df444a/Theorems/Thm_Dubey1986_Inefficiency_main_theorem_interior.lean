@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Dubey1986_Inefficiency_main_theorem_interior
 -- name    : Dubey1986.Inefficiency.main_theorem_interior
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:32.233577+00:00
 -- url     : https://prove2.me/theorems/654c8668-79d4-4783-a373-65b85234f743

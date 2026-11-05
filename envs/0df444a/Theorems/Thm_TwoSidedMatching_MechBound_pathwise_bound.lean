@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedMatching_MechBound_pathwise_bound
 -- name    : TwoSidedMatching.MechBound.pathwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T11:05:47.474059+00:00
 -- url     : https://prove2.me/theorems/cd6ace64-f7a2-49d1-ada7-c5b7926c8555

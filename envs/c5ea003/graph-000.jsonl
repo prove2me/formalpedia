@@ -61399,3 +61399,14 @@
 {"parent": "MovingSofa.uniqueParameterTuple_hasMotion", "child": "MovingSofa_Basic", "via": ["statement"]}
 {"parent": "MovingSofa.isMovingSofa_gerversSofaWith", "child": "MovingSofa.GerversSofa.ABphiThetaSpec.existsUnique", "via": ["solution"]}
 {"parent": "MovingSofa.isMovingSofa_gerversSofaWith", "child": "MovingSofa.uniqueParameterTuple_hasMotion", "via": ["solution"]}
+{"parent": "MarkovMixing.evolving_sets_stochastic", "child": "mm_martingale", "via": ["solution", "statement"]}
+{"parent": "MarkovMixing.evolving_sets_root_contraction", "child": "mm_martingale", "via": ["solution", "statement"]}
+{"parent": "MarkovMixing.evolving_sets_tv_decay", "child": "mm_martingale", "via": ["solution", "statement"]}
+{"parent": "MarkovMixing.bottleneckStar_pos", "child": "mm_lower", "via": ["statement"]}
+{"parent": "MarkovMixing.evolving_sets_mixing", "child": "MarkovMixing.evolving_sets_tv_decay", "via": ["solution"]}
+{"parent": "MarkovMixing.evolving_sets_mixing", "child": "MarkovMixing.bottleneckStar_pos", "via": ["solution"]}
+{"parent": "MarkovMixing.evolving_sets_root_contraction", "child": "mm_lower", "via": ["solution"]}
+{"parent": "MarkovMixing.evolving_sets_root_contraction", "child": "mm_mixing", "via": ["solution"]}
+{"parent": "MarkovMixing.evolving_sets_tv_decay", "child": "mm_lower", "via": ["solution"]}
+{"parent": "MarkovMixing.evolving_sets_tv_decay", "child": "mm_mixing", "via": ["solution"]}
+{"parent": "MarkovMixing.bottleneckStar_pos", "child": "mm_martingale", "via": ["solution"]}

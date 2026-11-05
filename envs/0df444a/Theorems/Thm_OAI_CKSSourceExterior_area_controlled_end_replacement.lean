@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CKSSourceExterior_area_controlled_end_replacement
 -- name    : OAI.CKSSourceExterior.area_controlled_end_replacement
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:25.678152+00:00
 -- url     : https://prove2.me/theorems/ff8af108-cac1-4ae4-b92c-f7df3364caa0

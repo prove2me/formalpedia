@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_kOmega_quotient
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.kOmega_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:29:39.545261+00:00
 -- url     : https://prove2.me/theorems/885305cd-bca6-4a4e-aef0-c4a46f74ad03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_arc_count_strict_of_graph_strict__p2m_c50204fa_335d_4575_bac2_23cf83d1b5e4_a2
 -- name    : WilliamsonShmoys.arc_count_strict_of_graph_strict__p2m_c50204fa_335d_4575_bac2_23cf83d1b5e4_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:51:32.60054+00:00
 -- url     : https://prove2.me/theorems/d59618d8-3eb5-4197-bbca-f3753d61f13d

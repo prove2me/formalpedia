@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_augmentation_maximal_extension__p2m_a95b2e09_031c_4e18_b347_423c7cdf2425_a1
 -- name    : WilliamsonShmoys.planar_graph_augmentation_maximal_extension__p2m_a95b2e09_031c_4e18_b347_423c7cdf2425_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T11:37:25.62759+00:00
 -- url     : https://prove2.me/theorems/17a446e3-fee0-4c12-aad4-c95a1431715c

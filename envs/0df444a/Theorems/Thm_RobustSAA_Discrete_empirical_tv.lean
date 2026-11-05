@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Discrete_empirical_tv
 -- name    : RobustSAA.Discrete.empirical_tv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:17:02.781825+00:00
 -- url     : https://prove2.me/theorems/a5f34d95-025e-47ca-9de1-e37180d315a9

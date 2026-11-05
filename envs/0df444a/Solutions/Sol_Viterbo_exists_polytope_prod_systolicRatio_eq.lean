@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Viterbo.exists_polytope_prod_systolicRatio_eq
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T11:04:49.695589+00:00
 -- url     : https://prove2.me/submissions/3f5b7c0b-434d-47a5-b226-e5d31d0ba6d6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SymmetricPolar

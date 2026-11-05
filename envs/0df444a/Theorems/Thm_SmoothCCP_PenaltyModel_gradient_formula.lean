@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothCCP_PenaltyModel_gradient_formula
 -- name    : SmoothCCP.PenaltyModel.gradient_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:30.370978+00:00
 -- url     : https://prove2.me/theorems/0327a5d1-05da-4784-9fa1-1e83720bac37

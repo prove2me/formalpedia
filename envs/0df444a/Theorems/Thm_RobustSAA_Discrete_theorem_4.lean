@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Discrete_theorem_4
 -- name    : RobustSAA.Discrete.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:16:47.833994+00:00
 -- url     : https://prove2.me/theorems/807b24aa-923f-4f07-b883-912a1accdf90

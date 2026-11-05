@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_DualGap_proposition_3
 -- name    : L0BnB.DualGap.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:28:26.258215+00:00
 -- url     : https://prove2.me/theorems/53e7b5a0-e51b-499c-9ab7-c2920a170bf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_separated_marked_future_past_rectangle_L1_rate
 -- name    : AvramDividend.Classical.avram_wave7_06_original_separated_marked_future_past_rectangle_L1_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T07:07:07.732418+00:00
 -- url     : https://prove2.me/theorems/ea8700f6-00a4-46a5-991e-c743f413c42b

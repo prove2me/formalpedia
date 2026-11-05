@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P41_spectralTrace
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P41.spectralTrace
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:34:05.674076+00:00
 -- url     : https://prove2.me/theorems/e920604f-dacc-46aa-a626-8218f342ea3b

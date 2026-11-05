@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_loop_near_reebOrbit_of_small_area
 -- name    : FiniteEnergyPlane.exists_loop_near_reebOrbit_of_small_area
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T16:23:50.137749+00:00
 -- url     : https://prove2.me/theorems/eb3afc82-795d-49bf-a8ef-c1342f63f626

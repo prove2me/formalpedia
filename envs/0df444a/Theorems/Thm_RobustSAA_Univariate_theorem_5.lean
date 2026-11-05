@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Univariate_theorem_5
 -- name    : RobustSAA.Univariate.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:17:03.483969+00:00
 -- url     : https://prove2.me/theorems/7bf129e5-e2cd-40ef-ad8d-be70d2cf45fe

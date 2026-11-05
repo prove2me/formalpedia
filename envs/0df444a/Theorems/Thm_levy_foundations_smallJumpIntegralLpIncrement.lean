@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_smallJumpIntegralLpIncrement
 -- name    : levy_foundations_smallJumpIntegralLpIncrement
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:10:07.331996+00:00
 -- url     : https://prove2.me/theorems/1be9ccc2-4753-453d-9ef3-646e70c12961

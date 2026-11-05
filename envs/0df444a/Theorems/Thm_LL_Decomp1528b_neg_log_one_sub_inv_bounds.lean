@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1528b_neg_log_one_sub_inv_bounds
 -- name    : LL_Decomp1528b.neg_log_one_sub_inv_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:08:42.491853+00:00
 -- url     : https://prove2.me/theorems/d58a7abe-1afc-48f4-bbd0-32bbfbee2e29

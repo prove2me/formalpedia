@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BHTOpinion_Continuum_lemma3_partial_integral_converges
 -- name    : BHTOpinion.Continuum.lemma3_partial_integral_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:10.40672+00:00
 -- url     : https://prove2.me/theorems/49badc0d-a1a2-4fb4-914b-2b67ef38b045

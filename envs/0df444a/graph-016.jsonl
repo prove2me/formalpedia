@@ -337,7 +337,7 @@
 {"parent": "ThreeSum.LightCoverUpdate.meets_w3sum_ac885d1", "child": "Submission_ThreeSum_LightCoverUpdate", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedPredecessorTable.keptApart_outside", "child": "Submission_Weighted_Predecessor", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedPredecessorTable.keptApart_outside", "child": "Submission_Weighted_PredecessorTable", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.hexNat_pos_e", "child": "OAIQ098E013", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.hexNat_pos_e", "child": "OAIQ098E013", "via": ["solution", "statement"]}
 {"parent": "BaconThesis.ExchangeUniv.mixing_lemma", "child": "BaconThesis_ExchangeUniv_suAlg", "via": ["statement"]}
 {"parent": "Light.Merge.step_left_end", "child": "Submission_ThreeSumApsp_Lang_Lib_Seg", "via": ["solution", "statement"]}
 {"parent": "Light.Merge.step_left_end", "child": "Submission_ThreeSumApsp_Lang_Tactics", "via": ["solution", "statement"]}
@@ -608,7 +608,7 @@
 {"parent": "AvramDividend.Classical.avram_p2_original_uniform_negative_grid_probability_mass", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_original_uniform_negative_grid_probability_mass", "child": "AvramDividend.Classical.avram_p2_original_negative_tail_unweighted_linear_smalltime_bound", "via": ["solution", "statement"]}
 {"parent": "WeightedCacheParameters.alpha_schedule", "child": "Submission_Weighted_Parameters", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.Numerical.lowExteriorIndex_injective_e", "child": "OAIQ098E011", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.Numerical.lowExteriorIndex_injective_e", "child": "OAIQ098E011", "via": ["solution", "statement"]}
 {"parent": "Submission_ThreeSum_LightTernaryPairedPotentialBatch", "child": "Light.Ends.set", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightTernaryPairedPotentialBatch", "child": "Light.Ends.call", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightTernaryPairedPotentialBatch", "child": "Submission_ThreeSum_LightTernaryPairedPotential", "via": ["statement"]}
@@ -968,7 +968,7 @@
 {"parent": "ThreeSum.UniformStageBounds.workBudget_powerBound", "child": "Submission_ThreeSum_UniformStageBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.UniformStageBounds.workBudget_powerBound", "child": "Submission_ThreeSum_StageBounds", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.fejer_exact_monomial_e", "child": "OAIQ098E018", "via": ["statement"]}
-{"parent": "OAI.SharpPlanar.h_pos_e", "child": "OAIQ098E001", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.h_pos_e", "child": "OAIQ098E001", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightSignedLeaf.time_bound", "child": "WeightedCache3SUM_Alias_c2a1891cab57c5b2", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightSignedLeaf.time_bound", "child": "ThreeSum.LightSubsetSetup.time_bound", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightSignedLeaf.time_bound", "child": "ThreeSum.LightStageLookup.time_bound", "via": ["solution", "statement"]}
@@ -2114,7 +2114,7 @@
 {"parent": "Submission_ThreeSum_LightSourceBandBanks", "child": "Light.Ends.set", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightSourceBandBanks", "child": "Light.Ends.skip", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightSourceBandBanks", "child": "Submission_ThreeSum_LightSourceOccurrenceArray", "via": ["statement"]}
-{"parent": "OAI.SharpPlanar.scaleFactor_pos_e", "child": "OAIQ098E014", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.scaleFactor_pos_e", "child": "OAIQ098E014", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalActualColoredRuntime.Fits.host_bound", "child": "Submission_Weighted_Global_TernaryActualCleanupRuntime", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalActualColoredRuntime.Fits.host_bound", "child": "Submission_Weighted_Global_LightTernaryPreparedPostSelection", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalActualColoredRuntime.Fits.host_bound", "child": "Submission_Weighted_Global_TernaryActualColoredRuntime", "via": ["solution", "statement"]}
@@ -3436,8 +3436,8 @@
 {"parent": "ThreeSum.LightReportingCatalogExpand.program_meets_w3sum_ac885d1", "child": "ThreeSum.LightBlockQuery.program_meets", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightReportingCatalogExpand.program_meets_w3sum_ac885d1", "child": "ThreeSum.LightBoxSum.program_meets", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightReportingCatalogExpand.program_meets_w3sum_ac885d1", "child": "ThreeSum.LightReportingSuffixBoxes.program_meets", "via": ["solution", "statement"]}
-{"parent": "SpikedWishart.SoftEdge.proposition_3_1_ii", "child": "SpikedWishart_SoftEdge_Kernels", "via": ["statement"]}
-{"parent": "SpikedWishart.SoftEdge.proposition_3_1_ii", "child": "SpikedWishart_SoftEdge_Airy", "via": ["statement"]}
+{"parent": "SpikedWishart.SoftEdge.proposition_3_1_ii", "child": "SpikedWishart_SoftEdge_Kernels", "via": ["solution", "statement"]}
+{"parent": "SpikedWishart.SoftEdge.proposition_3_1_ii", "child": "SpikedWishart_SoftEdge_Airy", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.complexTransformedFactor_disk_bound_e", "child": "OAIQ098E018", "via": ["statement"]}
 {"parent": "ThreeSum.LightBooleanDot.meets_w3sum_ac885d1", "child": "Submission_ThreeSum_LightArray", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightBooleanDot.meets_w3sum_ac885d1", "child": "Submission_ThreeSum_LightBooleanDot", "via": ["solution", "statement"]}
@@ -3709,7 +3709,7 @@
 {"parent": "ThreeSum.WeightedGlobalArenaQueryTimeMonotone.query", "child": "Submission_Weighted_Global_TernaryArenaQueryTimeMonotone", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaQueryTimeMonotone.query", "child": "Submission_Weighted_Global_TernaryArenaQueryTime", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaQueryTimeMonotone.query", "child": "Submission_Weighted_Global_TernaryArenaPostSelection", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.two_le_windInf_of_negative_puncture", "child": "FiniteEnergyPlane_Compactness", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.two_le_windInf_of_negative_puncture", "child": "FiniteEnergyPlane_Compactness", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryCodeSemantics.bitPosition_lt", "child": "Submission_ThreeSum_TernaryBankEnumeration", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryCodeSemantics.bitPosition_lt", "child": "Submission_ThreeSum_TernaryCodeSemantics", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryCodeSemantics.bitPosition_lt", "child": "Submission_ThreeSum_LightTernaryCodes", "via": ["solution", "statement"]}
@@ -7075,10 +7075,10 @@
 {"parent": "AvramDividend.Classical.avram_p2_d_future_negative_unit_mean_to_arbitrary_borel_rate", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_d_future_negative_unit_mean_to_arbitrary_borel_rate", "child": "AvramDividend.Classical.avram_p2_d_future_arbitrary_borel_rate_of_negative_rate", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_b_smalljump_original_rightCont_conditional_cross_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_uniform_L2_vitali", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_uniform_L2_vitali", "child": "AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_total_L2", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_uniform_L2_vitali", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_uniform_L2_vitali", "child": "AvramDividend.Classical.avram_wave7_05_turn11_gaussian_grid_L2_of_second_moment_bound", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_uniform_L2_vitali", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_uniform_L2_vitali", "child": "AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_total_L2", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_uniform_L2_vitali", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_uniform_L2_vitali", "child": "AvramDividend.Classical.avram_wave7_05_turn11_gaussian_grid_L2_of_second_moment_bound", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryExtensionEncoding.menu_field_lower", "child": "Submission_ThreeSum_TernaryExtensionCandidates", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryExtensionEncoding.menu_field_lower", "child": "Submission_ThreeSum_TernaryExtensionEncoding", "via": ["solution", "statement"]}
 {"parent": "Real.pow_clog_le_mul_rpow_logb", "child": "Submission_ThreeSumApsp_Util_Log", "via": ["solution", "statement"]}
@@ -7855,7 +7855,7 @@
 {"parent": "ThreeSum.WeightedGlobalCountFrontendBudget.envelope_one", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalCountFrontendBudget.envelope_one", "child": "Submission_Weighted_CountFrontend", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SubsetAddress.recordAddress_injective", "child": "Submission_ThreeSum_SubsetAddress", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.tableCoords_mem_e", "child": "OAIQ098E015", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.tableCoords_mem_e", "child": "OAIQ098E015", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.PolynomialResources.polyNeed_of_separate_envelopes", "child": "Submission_ThreeSum_PolynomialResources", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.PolynomialResources.polyNeed_of_separate_envelopes", "child": "Submission_ThreeSumApsp_Lang_Tasks", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.PolynomialResources.polyNeed_of_separate_envelopes", "child": "Submission_ThreeSum_StageBounds", "via": ["solution", "statement"]}
@@ -7880,7 +7880,7 @@
 {"parent": "ThreeSum.EncodedColorResources.schedule_power_le_w3sum_ac885d1", "child": "Submission_ThreeSum_LightBandRawAResourcesScales", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.EncodedColorResources.schedule_power_le_w3sum_ac885d1", "child": "Submission_ThreeSum_LightLocalCoverInitResources", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.EncodedColorResources.schedule_power_le_w3sum_ac885d1", "child": "Submission_ThreeSum_EncodedColorStageCosts", "via": ["solution", "statement"]}
-{"parent": "TailRiskSharing.VaRTail.exists_quantile_uniform", "child": "TailRiskSharing_VaRTail_Setting", "via": ["statement"]}
+{"parent": "TailRiskSharing.VaRTail.exists_quantile_uniform", "child": "TailRiskSharing_VaRTail_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightPrimeChain.modulus_bounds", "child": "Submission_ThreeSum_PrimeChain", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightPrimeChain.modulus_bounds", "child": "Submission_ThreeSum_LightPrimeChain", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightPrimeChain.modulus_bounds", "child": "Submission_ThreeSum_LightPrimeMinimum", "via": ["solution", "statement"]}
@@ -7947,7 +7947,7 @@
 {"parent": "ThreeSum.BandRawA.three_lifts_bound", "child": "Submission_ThreeSum_BandPartition", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.BandRawA.three_lifts_bound", "child": "Submission_ThreeSum_BandRawA", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.BandRawA.three_lifts_bound", "child": "Submission_ThreeSum_BandCandidateRowsMemory", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.Numerical.centralIndex_injective_e", "child": "OAIQ098E000", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.Numerical.centralIndex_injective_e", "child": "OAIQ098E000", "via": ["solution", "statement"]}
 {"parent": "BudgetedAffine.Disjoint.greedy_run_exists", "child": "BudgetedAffine_Disjoint_Model", "via": ["solution", "statement"]}
 {"parent": "BudgetedAffine.Disjoint.greedy_run_exists", "child": "BudgetedAffine_Disjoint_OnlineCover", "via": ["solution", "statement"]}
 {"parent": "BudgetedAffine.Disjoint.greedy_run_exists", "child": "BudgetedAffine_Disjoint_Construction", "via": ["solution", "statement"]}
@@ -8517,7 +8517,7 @@
 {"parent": "ThreeSum.TernaryColorPreludeResources.one_band_bounds", "child": "Submission_ThreeSum_PolynomialResources", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryColorPreludeResources.one_band_bounds", "child": "Submission_ThreeSum_ArithmeticStageBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryColorPreludeResources.one_band_bounds", "child": "Submission_ThreeSum_TernaryColorPreludeResources_w3sum_ac885d1", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.Numerical.exteriorIndex_injective_e", "child": "OAIQ098E006", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.Numerical.exteriorIndex_injective_e", "child": "OAIQ098E006", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Q_4_e", "child": "OAIQ098E001", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_07_original_ubv_admissible_discounted_true_clock_HJB_drift_nonpositive", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_07_original_ubv_admissible_discounted_true_clock_HJB_drift_nonpositive", "child": "AvramDividend.Classical.avram_wave7_07_true_clock_predictable_weight_HJB_generator_drift_nonpositive", "via": ["solution", "statement"]}
@@ -8713,7 +8713,7 @@
 {"parent": "ThreeSum.LightTernarySourceCountHost.libraries_length", "child": "Submission_ThreeSum_LightTernarySourceHost", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernarySourceCountHost.libraries_length", "child": "Submission_ThreeSum_TernarySourceHostModel", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernarySourceCountHost.libraries_length", "child": "Submission_ThreeSum_LightTernarySourceCountHost", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_subseq_gradNorm_bounded_off_finite", "child": "FiniteEnergyPlane_Compactness", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_subseq_gradNorm_bounded_off_finite", "child": "FiniteEnergyPlane_Compactness", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightSwitchScalar.sum_pow_le", "child": "Submission_ThreeSum_LightSwitchScalar", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightSwitchScalar.sum_pow_le", "child": "Submission_ThreeSumApsp_Lang_Lib_Logs", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.HierarchyScales.initialIndex_le_cap", "child": "Submission_ThreeSum_CostLedger", "via": ["solution", "statement"]}
@@ -8931,7 +8931,7 @@
 {"parent": "Submission_ThreeSum_LightEncodedColorResult", "child": "Light.Ends.store", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightEncodedColorResult", "child": "Submission_ThreeSum_EncodedColorSourceRetention", "via": ["statement"]}
 {"parent": "FreeGroupFactorProof21", "child": "FreeGroupFactorProof20", "via": ["statement"]}
-{"parent": "OAI.SharpPlanar.Scoords_smul_e", "child": "OAIQ098E001", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.Scoords_smul_e", "child": "OAIQ098E001", "via": ["solution", "statement"]}
 {"parent": "QMCLeafB_runparams_shallow_m2", "child": "QMCLeafB_runparams_m2", "via": ["statement"]}
 {"parent": "QMCLeafB_runparams_shallow_m2", "child": "QMCLeafB_shallow_ceiling_m1", "via": ["statement"]}
 {"parent": "QMCLeafB_runparams_shallow_m2", "child": "QMCLeafB_roundcount_m2", "via": ["statement"]}
@@ -9923,7 +9923,7 @@
 {"parent": "RiskAverseSDDP.Convergence.eq_4_32", "child": "RiskAverseSDDP_Convergence_Model", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_original_zero_horizon_intrinsic_jump_rate", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.HashFamily.trimmed_first_moment", "child": "Submission_ThreeSum_HashFamily", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_wave7_06_original_negative_band_occupied_cell_lintegral", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_wave7_06_original_negative_band_occupied_cell_lintegral", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceBandData.At.transfer_w3sum_ac885d1", "child": "Submission_ThreeSum_LightBlockSourceRetainedStages", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceBandData.At.transfer_w3sum_ac885d1", "child": "Submission_ThreeSum_SourceBandLayout", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceBandData.At.transfer_w3sum_ac885d1", "child": "Submission_ThreeSum_SourceBandData", "via": ["solution", "statement"]}
@@ -10439,7 +10439,7 @@
 {"parent": "ThreeSum.LightReportingCatalogQuery.time_bound", "child": "ThreeSum.LightDownsetAddress.time_bound", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightReportingCatalogQuery.time_bound", "child": "WeightedCache3SUM_Alias_c2a1891cab57c5b2", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightReportingCatalogQuery.time_bound", "child": "WeightedCache3SUM_Alias_aee3f2a8e7e7d37a", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.hasLoopWind_cylInf_eq_windInf_sub", "child": "FiniteEnergyPlane_Compactness", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.hasLoopWind_cylInf_eq_windInf_sub", "child": "FiniteEnergyPlane_Compactness", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SparseBoxes.IsInitial.erase_max_excluded", "child": "Submission_ThreeSum_SparseBoxes", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightBandEnumeration.program_meets", "child": "Submission_ThreeSum_LightBandEnumeration", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightBandEnumeration.program_meets", "child": "ThreeSum.LightCapacity.program_meets", "via": ["statement"]}
@@ -10630,7 +10630,7 @@
 {"parent": "ThreeSum.TernaryWantedCanonicalPairs.mem_wantedCodes", "child": "Submission_ThreeSum_TernaryAddresses", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryWantedCanonicalPairs.mem_wantedCodes", "child": "Submission_ThreeSum_TernaryWantedCanonical", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryWantedCanonicalPairs.mem_wantedCodes", "child": "Submission_ThreeSum_TernaryWantedCanonicalPairs", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.expCut_decay_e", "child": "OAIQ098E012", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.expCut_decay_e", "child": "OAIQ098E012", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUM_Alias_4fe59afd6c005567", "child": "ThreeSum.BandRawA.mem_aIndices_iff_owner_w3sum_ac885d1", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightFiniteTable", "child": "Light.Ends.set", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightFiniteTable", "child": "Light.Ends.store", "via": ["statement"]}
@@ -10828,8 +10828,8 @@
 {"parent": "ThreeSum.WeightedGlobalCoverScale.selected_scale_bound", "child": "Submission_Weighted_Global_TernaryCoverScale", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernarySourceExecutionFactory.Ready.run", "child": "Submission_ThreeSum_LightTernarySourceCountHost", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernarySourceExecutionFactory.Ready.run", "child": "Submission_ThreeSum_TernarySourceExecutionFactory", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.hexNat_residue_e", "child": "OAIQ098E013", "via": ["statement"]}
-{"parent": "OAI.SharpPlanar.hexNat_residue_e", "child": "OAIQ098E000", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.hexNat_residue_e", "child": "OAIQ098E013", "via": ["solution", "statement"]}
+{"parent": "OAI.SharpPlanar.hexNat_residue_e", "child": "OAIQ098E000", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_b_smalljump_original_finite_grid_predictable_L1_mean_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_b_smalljump_original_finite_grid_predictable_L1_mean_zero", "child": "AvramDividend.Classical.avram_p4_b_smalljump_original_bounded_predictable_weight_count_condExp_zero", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_b_smalljump_original_finite_grid_predictable_L1_mean_zero", "child": "AvramDividend.Classical.avram_p4_b_smalljump_original_predictable_weight_condExp_zero_implies_mean_zero", "via": ["solution", "statement"]}
@@ -12930,7 +12930,7 @@
 {"parent": "ThreeSum.LightExtensionFieldMultiply.actual_quotient_spec", "child": "Submission_ThreeSum_TernaryExtensionSeedSemantics", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightExtensionFieldMultiply.actual_quotient_spec", "child": "Submission_ThreeSum_LightExtensionFieldMultiply", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUM_Alias_c287aeb916bf4368", "child": "ThreeSum.LightMaskUnion.meets_w3sum_ac885d1", "via": ["statement"]}
-{"parent": "OAI.SharpPlanar.expCut_smooth_e", "child": "OAIQ098E012", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.expCut_smooth_e", "child": "OAIQ098E012", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryCoverScale.polynomial_carry_representation", "child": "Submission_ThreeSum_LocalCoverBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryCoverScale.polynomial_carry_representation", "child": "Submission_ThreeSum_TernaryCoverScale", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryCoverScale.polynomial_carry_representation", "child": "Submission_ThreeSum_TernaryCoverCapParameters", "via": ["solution", "statement"]}
@@ -14296,7 +14296,7 @@
 {"parent": "BookProof.SmOuterFock.smFockHam_quadForm_nonneg", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Switch.ratio_mem_half", "child": "Submission_ThreeSum_BandScales", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Switch.ratio_mem_half", "child": "Submission_ThreeSum_Switch", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.Numerical.finiteIndex_injective_e", "child": "OAIQ098E007", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.Numerical.finiteIndex_injective_e", "child": "OAIQ098E007", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUM_Alias_e0bdc711e9667f3c", "child": "Light.Exec.bounded_w3sum_ac885d1", "via": ["statement"]}
 {"parent": "ThreeSum.LightKaratsuba.linear_plus_segment", "child": "ThreeSum.Karatsuba.CoeffBound.plus", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightKaratsuba.linear_plus_segment", "child": "Submission_ThreeSum_KaratsubaBounds", "via": ["solution", "statement"]}
@@ -14422,7 +14422,7 @@
 {"parent": "AvramDividend.Classical.avram_p3_a_bvdrift_source_cofinal_mean_zero_random_clock_tsum", "child": "AvramDividend.Classical.avram_p3_a_bvdrift_original_cofinal_mean_zero_global_path", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_raw_levy_exponential_expected_le_one", "child": "AvramDividend.Classical.discounted_exponential_levy_supermartingale", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_raw_levy_exponential_expected_le_one", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_loop_near_reebOrbit_of_small_area", "child": "FiniteEnergyPlane_Compactness", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_loop_near_reebOrbit_of_small_area", "child": "FiniteEnergyPlane_Compactness", "via": ["solution", "statement"]}
 {"parent": "ThreeSumApsp.WordRam.wd_toInt", "child": "Submission_EndStatement", "via": ["solution", "statement"]}
 {"parent": "ThreeSumApsp.WordRam.wd_toInt", "child": "Submission_ThreeSumApsp_Machine_Steps", "via": ["solution", "statement"]}
 {"parent": "ThreeSumApsp.WordRam.wd_toInt", "child": "Submission_ThreeSumApsp_Util_Basic", "via": ["solution", "statement"]}
@@ -16330,7 +16330,7 @@
 {"parent": "Submission_ThreeSum_RawIncidences", "child": "Submission_ThreeSum_Histograms", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_RawIncidences", "child": "Submission_ThreeSum_GlobalEncoding", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_RawIncidences", "child": "Submission_ThreeSum_Arithmetic", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_p3_b_bvjump_original_marked_restricted_source_horizon_clip", "child": "AvramDividend.Classical.avram_p3_b_bvjump_original_marked_restricted_cell_measure", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_p3_b_bvjump_original_marked_restricted_source_horizon_clip", "child": "AvramDividend.Classical.avram_p3_b_bvjump_original_marked_restricted_cell_measure", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalSignedPreparationBudget.carry_preparation_budget", "child": "Submission_ThreeSum_LightTernarySignedMatrix", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalSignedPreparationBudget.carry_preparation_budget", "child": "Submission_ThreeSum_LightTernaryCarryCodes", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalSignedPreparationBudget.carry_preparation_budget", "child": "Submission_Weighted_Global_TernarySignedPreparationBudget", "via": ["solution", "statement"]}

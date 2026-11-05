@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_wave7_06_original_uniform_negative_band_grid_occupied_mean
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-03T09:10:02.898781+00:00
 -- url     : https://prove2.me/submissions/3b502e3e-25be-43be-9830-4bb8bc4b9542
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynAssortPers_Regret_lemma_exploration_count
 -- name    : DynAssortPers.Regret.lemma_exploration_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:17:16.632976+00:00
 -- url     : https://prove2.me/theorems/f20887ec-30e5-4bca-9152-f2cfc54656f8

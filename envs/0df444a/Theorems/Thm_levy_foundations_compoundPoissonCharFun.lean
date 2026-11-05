@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_compoundPoissonCharFun
 -- name    : levy_foundations_compoundPoissonCharFun
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:56:31.203935+00:00
 -- url     : https://prove2.me/theorems/9ae0b1e9-ab2e-4ebb-816c-c9382621ded5

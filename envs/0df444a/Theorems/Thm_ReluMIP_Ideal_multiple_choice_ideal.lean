@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReluMIP_Ideal_multiple_choice_ideal
 -- name    : ReluMIP.Ideal.multiple_choice_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:32:10.941261+00:00
 -- url     : https://prove2.me/theorems/1ced023c-43ec-4894-9374-efdc7196a1fc

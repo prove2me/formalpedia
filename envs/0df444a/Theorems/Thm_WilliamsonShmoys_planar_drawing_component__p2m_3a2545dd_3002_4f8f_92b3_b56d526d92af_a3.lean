@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_component__p2m_3a2545dd_3002_4f8f_92b3_b56d526d92af_a3
 -- name    : WilliamsonShmoys.planar_drawing_component__p2m_3a2545dd_3002_4f8f_92b3_b56d526d92af_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:06:52.290075+00:00
 -- url     : https://prove2.me/theorems/453b80ea-9a47-4075-b2d5-0d21a793f272

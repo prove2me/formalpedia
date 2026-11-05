@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NicerEars_TwoEC_proposition_2
 -- name    : NicerEars.TwoEC.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:29:51.067628+00:00
 -- url     : https://prove2.me/theorems/4962a35e-1095-43ef-974b-b1e8a7fc23e3

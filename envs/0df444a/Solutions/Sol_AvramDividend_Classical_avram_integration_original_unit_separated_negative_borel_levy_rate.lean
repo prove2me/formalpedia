@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_integration_original_unit_separated_negative_borel_levy_rate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-04T00:58:03.690149+00:00
 -- url     : https://prove2.me/submissions/92ea8f07-8e3c-4d47-bb83-f43b94e4df35
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

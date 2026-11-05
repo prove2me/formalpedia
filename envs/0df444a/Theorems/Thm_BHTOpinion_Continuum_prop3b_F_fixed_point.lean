@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BHTOpinion_Continuum_prop3b_F_fixed_point
 -- name    : BHTOpinion.Continuum.prop3b_F_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:49.389934+00:00
 -- url     : https://prove2.me/theorems/9a08bb28-4cff-4838-891b-b2092c90e3ee

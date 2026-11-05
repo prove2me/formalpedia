@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiKleitman92_Diameter_facet_walk
 -- name    : KalaiKleitman92.Diameter.facet_walk
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:03:41.428493+00:00
 -- url     : https://prove2.me/theorems/6c1c0cb0-f088-419f-8bab-dbcbfe0fb0f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Exist_partial_gradient_eq_F
 -- name    : OffloadGNEP.Exist.partial_gradient_eq_F
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:41.487807+00:00
 -- url     : https://prove2.me/theorems/83708dc6-db22-4688-81a8-6fe6b9a2609c

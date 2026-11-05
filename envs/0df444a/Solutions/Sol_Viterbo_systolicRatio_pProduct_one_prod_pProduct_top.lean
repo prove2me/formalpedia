@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Viterbo.systolicRatio_pProduct_one_prod_pProduct_top
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-03T16:20:33.52299+00:00
 -- url     : https://prove2.me/submissions/5e84866f-995f-42ec-8685-10c09f202d62
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SymmetricPolar

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KSeparate_theorem_7
 -- name    : MultiItemRev.KSeparate.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:28:38.526877+00:00
 -- url     : https://prove2.me/theorems/613f9bdd-8701-4194-a47e-417dc0c69b72

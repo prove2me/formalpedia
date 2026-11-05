@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_StrongDuality_theorem_7_strong_duality
 -- name    : WassersteinDRO.StrongDuality.theorem_7_strong_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:00:21.716005+00:00
 -- url     : https://prove2.me/theorems/00cb54ab-0b1b-4f9a-8132-7565839187be

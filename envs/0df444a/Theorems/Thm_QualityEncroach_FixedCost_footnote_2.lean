@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_FixedCost_footnote_2
 -- name    : QualityEncroach.FixedCost.footnote_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:05.878767+00:00
 -- url     : https://prove2.me/theorems/94d99bcd-ba49-420d-a26e-e57f6e57cc9b

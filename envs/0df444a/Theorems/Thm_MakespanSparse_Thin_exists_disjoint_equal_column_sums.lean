@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MakespanSparse_Thin_exists_disjoint_equal_column_sums
 -- name    : MakespanSparse.Thin.exists_disjoint_equal_column_sums
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:04:21.718992+00:00
 -- url     : https://prove2.me/theorems/963ff0c4-ae40-4055-82a1-29480ac71509

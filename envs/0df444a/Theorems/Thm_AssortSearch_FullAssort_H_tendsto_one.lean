@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_FullAssort_H_tendsto_one
 -- name    : AssortSearch.FullAssort.H_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:03.683274+00:00
 -- url     : https://prove2.me/theorems/7f7f3002-a219-4b29-85f8-d1965c7c6e0e

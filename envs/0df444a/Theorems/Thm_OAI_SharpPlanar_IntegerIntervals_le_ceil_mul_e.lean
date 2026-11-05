@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_le_ceil_mul_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.le_ceil_mul_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:41:52.211134+00:00
 -- url     : https://prove2.me/theorems/b3ccfd28-1a08-415a-aeec-d3fb7baa498b

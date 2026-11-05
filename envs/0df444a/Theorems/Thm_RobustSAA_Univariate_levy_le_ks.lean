@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Univariate_levy_le_ks
 -- name    : RobustSAA.Univariate.levy_le_ks
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:17:01.275592+00:00
 -- url     : https://prove2.me/theorems/300f3e2e-0d9c-435d-86d1-c77cda0f4f34

@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_Eight_ViaGrouping_satPsi_polyT
+-- name    : Eight.ViaGrouping.satPsi_polyT
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-11-05T04:04:57.979654+00:00
+-- url     : https://prove2.me/theorems/81af019c-37da-4d42-b522-2bf27d019207
+-- title:
+--   Via Grouping: sat Psi poly T
+-- statement:
+--   A value of Ψ is computed in polynomial time from Φ and the query.
+--
+--   Source: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/networks/Eight/ViaGrouping/SatPsi.lean#L81-L82
+-- source:
+--   https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/networks/Eight/ViaGrouping/SatPsi.lean#L81-L82
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_Eight_ViaGrouping_SatPsiDefs
+import Definitions.Def_Eight_ViaGrouping_Bridge
+import Definitions.Def_ToTuring_Poly_Count
+import Definitions.Def_ToTuring_Poly_Comb
+import Definitions.Def_StepMachines_Math_SatNet
+import Definitions.Def_StepMachines_Math_SatNet
+import Definitions.Def_StepMachines_Prog_CountNet
+import Definitions.Def_StepMachines_Prog_CountNet
+import Definitions.Def_StepMachines_Prog_Count
+import Definitions.Def_StepMachines_Prog_Count
+import Mathlib.Tactic
+import Definitions.Def_Eight_ViaGrouping_SatPsi
+import Theorems.Thm_Groundwork_PolyT_all
+attribute [local fun_prop] Groundwork.PolyT.all
+
+
+set_option autoImplicit false
+section
+section
+open Eight Eight.ViaGrouping
+open Finset Groundwork Groundwork.Prog Groundwork.Prog.Count Groundwork.SatNet Eight.SecNetworks
+variable {g k : ℕ} {Φ : Fml}
+
+theorem Eight.ViaGrouping.satPsi_polyT (g k : ℕ) : PolyT fun x : Fml × PsiQ => satPsi g k x.1 x.2 := by sorry

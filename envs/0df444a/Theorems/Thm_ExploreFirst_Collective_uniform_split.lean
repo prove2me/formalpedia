@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Collective_uniform_split
 -- name    : ExploreFirst.Collective.uniform_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:03:49.310258+00:00
 -- url     : https://prove2.me/theorems/cdcf97eb-9d96-452b-b145-60a8ac962f00

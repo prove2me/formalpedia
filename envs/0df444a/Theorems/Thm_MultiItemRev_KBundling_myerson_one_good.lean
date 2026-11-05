@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KBundling_myerson_one_good
 -- name    : MultiItemRev.KBundling.myerson_one_good
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:11:51.100185+00:00
 -- url     : https://prove2.me/theorems/1c5159cd-4b31-4172-a505-5ffa751fac15

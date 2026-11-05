@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_centeredPoissonTimeCountMartingale
 -- name    : levy_foundations_centeredPoissonTimeCountMartingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:10:32.705034+00:00
 -- url     : https://prove2.me/theorems/c476062d-92a2-4759-8839-1863ad31ac3b

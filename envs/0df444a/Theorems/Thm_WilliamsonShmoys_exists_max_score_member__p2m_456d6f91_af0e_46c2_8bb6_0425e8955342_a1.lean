@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_max_score_member__p2m_456d6f91_af0e_46c2_8bb6_0425e8955342_a1
 -- name    : WilliamsonShmoys.exists_max_score_member__p2m_456d6f91_af0e_46c2_8bb6_0425e8955342_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T06:38:44.407562+00:00
 -- url     : https://prove2.me/theorems/ff75b116-93bf-40af-b9b4-4091fd456659

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1535a_ternaryAbove_of_arcs
 -- name    : LL_Decomp1535a.ternaryAbove_of_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:19:40.695987+00:00
 -- url     : https://prove2.me/theorems/80a91ada-d9e5-4365-bdcc-b3a0afc21b0b

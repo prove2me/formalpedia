@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoutingBC_Chaining_pairwise_dependency_recursion
 -- name    : RoutingBC.Chaining.pairwise_dependency_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:42:51.056553+00:00
 -- url     : https://prove2.me/theorems/6adf93d4-a212-4ad8-b751-94a1c433fcce

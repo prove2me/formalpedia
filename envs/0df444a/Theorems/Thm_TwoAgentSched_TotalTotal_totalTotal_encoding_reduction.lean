@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_TotalTotal_totalTotal_encoding_reduction
 -- name    : TwoAgentSched.TotalTotal.totalTotal_encoding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:40:51.834171+00:00
 -- url     : https://prove2.me/theorems/7a8c7728-5e47-4f11-9598-7e0b07dfbc51

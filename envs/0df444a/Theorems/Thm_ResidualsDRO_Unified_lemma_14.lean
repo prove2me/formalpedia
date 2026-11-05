@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResidualsDRO_Unified_lemma_14
 -- name    : ResidualsDRO.Unified.lemma_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:05:29.25289+00:00
 -- url     : https://prove2.me/theorems/6d09bb2c-12b4-4063-b19a-c30e6102aaeb

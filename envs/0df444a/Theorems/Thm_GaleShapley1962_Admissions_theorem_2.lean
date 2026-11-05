@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaleShapley1962_Admissions_theorem_2
 -- name    : GaleShapley1962.Admissions.theorem_2
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T02:41:52.562626+00:00
 -- url     : https://prove2.me/theorems/bda221a2-ff1e-499e-aff7-3a6e16617741

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierAudit_Joint_lemma_OA11
 -- name    : SupplierAudit.Joint.lemma_OA11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:31:47.508493+00:00
 -- url     : https://prove2.me/theorems/8b438207-3c91-420c-8ea7-759207d47186

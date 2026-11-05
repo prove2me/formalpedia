@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.finite_graph_local_extension_connected__p2m_92ab9f16_2d15_4356_b6df_90082235199d_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:25:08.118093+00:00
 -- url     : https://prove2.me/submissions/757210e6-307c-46e9-b9d1-ad7d2c9c3e62
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_finite_edge_max_extension__p2m_c1868ea9_2f79_4b93_ad6c_bc634ef3355f_a2

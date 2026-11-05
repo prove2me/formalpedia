@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_minimal_connected_extension_exists__p2m_e60abc1f_4545_4a18_800d_698b86a0156b_a1
 -- name    : WilliamsonShmoys.minimal_connected_extension_exists__p2m_e60abc1f_4545_4a18_800d_698b86a0156b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:21:10.959751+00:00
 -- url     : https://prove2.me/theorems/5386f246-6d63-4306-885f-dbaa8083f5e2

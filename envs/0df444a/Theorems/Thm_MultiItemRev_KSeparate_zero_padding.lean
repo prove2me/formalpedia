@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KSeparate_zero_padding
 -- name    : MultiItemRev.KSeparate.zero_padding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:28:52.746234+00:00
 -- url     : https://prove2.me/theorems/d89f3b08-751a-4754-9f61-8b70f64be7a4

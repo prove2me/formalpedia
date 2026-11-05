@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_bochnerIntegralIdentity
 -- name    : levy_foundations_bochnerIntegralIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:27:21.394085+00:00
 -- url     : https://prove2.me/theorems/9b5d3b8f-384b-400e-83b6-212186e381d4

@@ -21312,7 +21312,7 @@
 {"parent": "OAI.Laughlin.Certificate.computeRow_12_1_5_0", "child": "OAIQ047L000", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_PellLightMatchingData13_Definitions_001", "child": "D1Bound5_PellLightMatching_Definitions", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c304060_s5", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "OnlineCombOpt.Exp2Full.theorem_1_full_domain", "child": "OnlineCombOpt_Exp2LB_Setting", "via": ["statement"]}
+{"parent": "OnlineCombOpt.Exp2Full.theorem_1_full_domain", "child": "OnlineCombOpt_Exp2LB_Setting", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.box_nonnegative_w1142", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_edge_count_lower_bound_on", "child": "IsMaximalPlanarOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_edge_count_lower_bound_on", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
@@ -25812,7 +25812,7 @@
 {"parent": "WilliamsonShmoys.planar_edge_upper_for_triangular_incidence_count", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairMask_1_8_23_valid", "child": "D1Bound5_SmallPairSieve_1_8_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairMask_1_8_23_valid", "child": "D1Bound5_FastSquareTest_Definitions", "via": ["solution", "statement"]}
-{"parent": "TwoAgentSched.Shops.shops_encoding_reduction", "child": "TwoAgentSched_Shops_Construction", "via": ["statement"]}
+{"parent": "TwoAgentSched.Shops.shops_encoding_reduction", "child": "TwoAgentSched_Shops_Construction", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundEndpoint22Types.types7_group5_eq", "child": "Sensitivity213981Formal_NamespacesComplete", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundEndpoint22Types.types7_group5_eq", "child": "SensitivitySeparation", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundEndpoint22Types.types7_group5_eq", "child": "Sensitivity213981Formal_Endpoint22TypeData", "via": ["solution", "statement"]}

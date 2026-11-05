@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_wave7_01_original_intrinsic_negative_borel_mark_unconditional_levy_rate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-02T20:32:59.230573+00:00
 -- url     : https://prove2.me/submissions/4e261f11-995e-4b3b-8b5f-9d6fa2bd7603
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

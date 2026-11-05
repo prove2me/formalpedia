@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1537b_abs_I1_sub
 -- name    : LL_Decomp1537b.abs_I1_sub
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:32:00.911992+00:00
 -- url     : https://prove2.me/theorems/b3e0394a-a97a-40ea-a082-c24e5f742d49

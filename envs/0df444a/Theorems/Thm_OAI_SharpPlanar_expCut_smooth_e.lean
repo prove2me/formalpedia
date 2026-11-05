@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_expCut_smooth_e
 -- name    : OAI.SharpPlanar.expCut_smooth_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:44:23.276877+00:00
 -- url     : https://prove2.me/theorems/f81ca167-baa2-49fc-8475-8085aa7d7f76

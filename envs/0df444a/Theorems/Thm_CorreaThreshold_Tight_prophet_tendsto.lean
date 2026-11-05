@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Tight_prophet_tendsto
 -- name    : CorreaThreshold.Tight.prophet_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:39:31.175336+00:00
 -- url     : https://prove2.me/theorems/50d4a7c2-5b87-42ab-ae39-dd7f99970411

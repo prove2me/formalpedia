@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_kolmogorovExtension_unique
 -- name    : levy_foundations_kolmogorovExtension_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:24:21.752342+00:00
 -- url     : https://prove2.me/theorems/f652bddc-2c02-4046-a413-9b7b40608b6a

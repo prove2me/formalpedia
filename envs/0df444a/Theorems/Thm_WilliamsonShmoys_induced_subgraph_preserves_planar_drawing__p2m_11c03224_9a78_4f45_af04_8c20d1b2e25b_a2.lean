@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_induced_subgraph_preserves_planar_drawing__p2m_11c03224_9a78_4f45_af04_8c20d1b2e25b_a2
 -- name    : WilliamsonShmoys.induced_subgraph_preserves_planar_drawing__p2m_11c03224_9a78_4f45_af04_8c20d1b2e25b_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T09:35:00.44741+00:00
 -- url     : https://prove2.me/theorems/2a50bc8a-1aee-413c-8544-35b101dc4879

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovEntanglementExact_local_transition_eq_sum
 -- name    : MarkovEntanglementExact.local_transition_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:21:43.671174+00:00
 -- url     : https://prove2.me/theorems/be4d8012-33f8-42b9-9fc1-458eb25516af

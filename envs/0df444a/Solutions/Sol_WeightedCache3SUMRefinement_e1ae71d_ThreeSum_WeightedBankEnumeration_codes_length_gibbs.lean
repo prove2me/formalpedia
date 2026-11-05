@@ -1,0 +1,55 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankEnumeration.codes_length_gibbs
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T10:17:55.085207+00:00
+-- url     : https://prove2.me/submissions/4832e7e0-c28b-4a8d-84b6-dfb0b0caf2fe
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Addresses
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Cache
+import Definitions.Def_Submission_ThreeSum_TernaryBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_BankEnumeration
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedBankEnumeration_mem_bank
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedBankEnumeration_wordList_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedBankEnumeration_wordList_cost
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedBankEnumeration_codes_length_eq_bank_card
+import Theorems.Thm_ThreeSum_TernaryAddresses_codes_length
+import Theorems.Thm_ThreeSum_TernaryBank_bank_card_gibbs
+import Theorems.Thm_ThreeSum_TernaryBank_mem_bank
+import Theorems.Thm_ThreeSum_TernaryBank_mem_lowerWords
+import Theorems.Thm_ThreeSum_TernaryBank_mem_nearWords
+import Theorems.Thm_ThreeSum_TernaryEnumeration_mem_digits
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedAddresses_codes_length
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_digitCost_one
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_digitCost_two
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_digitCost_zero
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_mem_digits
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_WeightedCache_bank_card_gibbs
+attribute [local simp] ThreeSum.TernaryAddresses.codes_length
+attribute [local simp] ThreeSum.TernaryBank.mem_bank
+attribute [local simp] ThreeSum.TernaryBank.mem_lowerWords
+attribute [local simp] ThreeSum.TernaryBank.mem_nearWords
+attribute [local simp] ThreeSum.TernaryEnumeration.mem_digits
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedAddresses.codes_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.digitCost_one
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.digitCost_two
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.digitCost_zero
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.mem_digits
+
+
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankEnumeration.mem_bank
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankEnumeration.wordList_length
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankEnumeration.wordList_cost
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankEnumeration
+open ThreeSum.WeightedEnumeration ThreeSum.WeightedAddresses
+open ThreeSum.TernaryJointType
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankEnumeration
+theorem _root_.solution (N T : ℕ) (y : ℝ) (hy : 0≤y) (hy1 : y≤1) :
+    (codes N T).length*y^T ≤ (1+y^1369+y^2740)^N := by
+  rw [codes_length_eq_bank_card]
+  have hh := WeightedCache.bank_card_gibbs N ![0,1369,2740] T y hy hy1
+  simpa [bank,Fin.sum_univ_succ,add_assoc] using hh
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedBankEnumeration

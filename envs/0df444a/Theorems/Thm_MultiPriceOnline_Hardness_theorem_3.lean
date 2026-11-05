@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Hardness_theorem_3
 -- name    : MultiPriceOnline.Hardness.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:02.209977+00:00
 -- url     : https://prove2.me/theorems/0163c247-9443-4b4b-b18b-a370f0934339

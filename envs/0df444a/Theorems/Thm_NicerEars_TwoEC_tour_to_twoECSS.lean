@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NicerEars_TwoEC_tour_to_twoECSS
 -- name    : NicerEars.TwoEC.tour_to_twoECSS
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:29:48.588352+00:00
 -- url     : https://prove2.me/theorems/072cef67-357c-4c86-aa1f-9534a918e4ac

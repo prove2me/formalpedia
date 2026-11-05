@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_MaxCost_example_2_sel
 -- name    : ShortWDRODual.MaxCost.example_2_sel
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:27:25.99165+00:00
 -- url     : https://prove2.me/theorems/d1afe78d-7eef-4ef1-a9a2-9d4db727394e

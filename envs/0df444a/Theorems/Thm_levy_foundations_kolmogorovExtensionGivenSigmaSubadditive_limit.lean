@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_kolmogorovExtensionGivenSigmaSubadditive_limit
 -- name    : levy_foundations_kolmogorovExtensionGivenSigmaSubadditive_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:28:33.17213+00:00
 -- url     : https://prove2.me/theorems/ea962684-957a-4a35-a410-0dc9078a3165

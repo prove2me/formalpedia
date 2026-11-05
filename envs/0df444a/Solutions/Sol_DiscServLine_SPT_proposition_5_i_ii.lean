@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DiscServLine.SPT.proposition_5_i_ii
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-21T06:45:07.165718+00:00
 -- url     : https://prove2.me/submissions/5ca5e6d4-d005-45d7-8b3c-ae1e8405bbfd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_DiscServLine_SPT_Model

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1535a_circle_identity_of_orth
 -- name    : LL_Decomp1535a.circle_identity_of_orth
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:10:16.176783+00:00
 -- url     : https://prove2.me/theorems/b39c5cc3-96cd-409b-ada5-bbf028663dbb

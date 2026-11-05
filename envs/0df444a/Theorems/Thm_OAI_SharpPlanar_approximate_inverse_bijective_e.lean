@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_approximate_inverse_bijective_e
 -- name    : OAI.SharpPlanar.approximate_inverse_bijective_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:41:52.193129+00:00
 -- url     : https://prove2.me/theorems/ccc3600f-fda7-4c0a-9eeb-e1e79fde73d7

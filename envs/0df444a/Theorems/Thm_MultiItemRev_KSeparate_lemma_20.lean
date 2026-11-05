@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KSeparate_lemma_20
 -- name    : MultiItemRev.KSeparate.lemma_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:28:42.236418+00:00
 -- url     : https://prove2.me/theorems/d4115083-ec5f-48d4-a636-10d752fce30e

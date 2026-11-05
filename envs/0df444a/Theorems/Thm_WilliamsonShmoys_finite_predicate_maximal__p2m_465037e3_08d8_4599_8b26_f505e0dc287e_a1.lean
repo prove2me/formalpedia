@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_predicate_maximal__p2m_465037e3_08d8_4599_8b26_f505e0dc287e_a1
 -- name    : WilliamsonShmoys.finite_predicate_maximal__p2m_465037e3_08d8_4599_8b26_f505e0dc287e_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:26:10.281204+00:00
 -- url     : https://prove2.me/theorems/48a0dda4-2fbc-4b99-b684-d61e828d3b92

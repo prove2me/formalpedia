@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_Covering_robust_minimizer_oracle_inequality
 -- name    : VarianceRegularization.Covering.robust_minimizer_oracle_inequality
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:41:33.701178+00:00
 -- url     : https://prove2.me/theorems/f47e6770-2fd4-446c-9135-797fe3400bef

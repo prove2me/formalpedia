@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_charFun_marginal_nat_pow
 -- name    : levy_foundations_charFun_marginal_nat_pow
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T20:42:14.890602+00:00
 -- url     : https://prove2.me/theorems/69595494-5782-4f16-8bd3-74727bdb1db6

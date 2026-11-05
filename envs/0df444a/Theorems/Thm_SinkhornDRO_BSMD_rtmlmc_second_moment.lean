@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornDRO_BSMD_rtmlmc_second_moment
 -- name    : SinkhornDRO.BSMD.rtmlmc_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:26:34.913252+00:00
 -- url     : https://prove2.me/theorems/f8ba74ee-0e6c-47e8-bb33-e8d979358248

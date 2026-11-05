@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NemirovskiProx_eq_2_16_summed
 -- name    : NemirovskiProx.eq_2_16_summed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:49:53.848458+00:00
 -- url     : https://prove2.me/theorems/c7f95aae-794b-4fe6-ad44-d7b567a181a8

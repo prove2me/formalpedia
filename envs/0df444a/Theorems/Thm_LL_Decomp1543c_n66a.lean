@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543c_n66a
 -- name    : LL_Decomp1543c.n66a
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T17:35:42.79216+00:00
 -- url     : https://prove2.me/theorems/a706ce86-3c05-4cd8-8e33-ad03e496d8ba

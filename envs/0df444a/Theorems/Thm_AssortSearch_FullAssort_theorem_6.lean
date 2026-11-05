@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_FullAssort_theorem_6
 -- name    : AssortSearch.FullAssort.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:11.03573+00:00
 -- url     : https://prove2.me/theorems/a182b907-a047-4a68-b6fa-d2833094b3fd

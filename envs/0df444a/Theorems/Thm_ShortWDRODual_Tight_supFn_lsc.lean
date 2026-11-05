@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_Tight_supFn_lsc
 -- name    : ShortWDRODual.Tight.supFn_lsc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:29.655994+00:00
 -- url     : https://prove2.me/theorems/c68a423c-d28d-4ea8-80bf-b8546ce8b7dc

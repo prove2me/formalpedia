@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_graph_order_card_facts__p2m_78898e31_8773_419c_99b2_d8837842d221_a2
 -- name    : WilliamsonShmoys.graph_order_card_facts__p2m_78898e31_8773_419c_99b2_d8837842d221_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:28:56.761822+00:00
 -- url     : https://prove2.me/theorems/040a8aa1-bba1-4f35-aade-86f76384a9e8

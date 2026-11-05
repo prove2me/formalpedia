@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.avram_wave4_04_source_intrinsic_jump_count_predictable_rectangle_compensator
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-02T19:32:30.778833+00:00
 -- url     : https://prove2.me/submissions/7b3b2b17-e514-4152-a3d1-398c12ae2742
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

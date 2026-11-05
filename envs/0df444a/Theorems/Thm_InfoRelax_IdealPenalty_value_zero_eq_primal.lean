@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelax_IdealPenalty_value_zero_eq_primal
 -- name    : InfoRelax.IdealPenalty.value_zero_eq_primal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:14.936021+00:00
 -- url     : https://prove2.me/theorems/5050bb3a-5498-475b-9ff8-982d032e5a1e

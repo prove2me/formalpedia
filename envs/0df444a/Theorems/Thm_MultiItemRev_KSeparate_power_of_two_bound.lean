@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KSeparate_power_of_two_bound
 -- name    : MultiItemRev.KSeparate.power_of_two_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:06.528752+00:00
 -- url     : https://prove2.me/theorems/ce0008e3-0186-4014-bd22-c0fdf12ad769

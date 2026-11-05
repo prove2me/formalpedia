@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_NamesInOrder_poly_le_two_rpow
+-- name    : NamesInOrder.poly_le_two_rpow
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-05T01:28:05.00139+00:00
+-- url     : https://prove2.me/theorems/cc89fa62-256a-4102-a065-80b04eba03f0
+-- title:
+--   Names In Order: poly le two rpow
+-- statement:
+--   If N ≤ 2^{aX} and X ≥ 1, then c·N^c ≤ 2^{(c + ac)X}.
+--
+--   Source: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/maintheorem/NamesInOrder/Arith.lean#L113-L120
+-- source:
+--   https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/maintheorem/NamesInOrder/Arith.lean#L113-L120
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_NamesInOrder_Defs
+import Definitions.Def_MinOfBounds_Arith
+import Definitions.Def_PairsToBound_Arith
+import Definitions.Def_VariableBound_Paper_Arith
+import Definitions.Def_VariableBound_Paper_Forms
+import Definitions.Def_ClauseBound_Alg_End
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.NormNum
+import Definitions.Def_NamesInOrder_Arith
+set_option autoImplicit false
+section
+section
+open NamesInOrder
+open Turing MainTheoremForms VariableBound.Paper MinOfBounds PairsToBound
+open Sat3 (CNF)
+
+theorem NamesInOrder.poly_le_two_rpow (c a : ℕ) {N : ℕ} {X : ℝ} (hX : 1 ≤ X) (hN : (N : ℝ) ≤ (2 : ℝ) ^ ((a : ℝ) * X)) : ((c * N ^ c : ℕ) : ℝ) ≤ (2 : ℝ) ^ (((c + a * c : ℕ) : ℝ) * X) := by sorry

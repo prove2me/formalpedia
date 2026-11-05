@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothCCP_Asymptotic_optSet_eventually_nonempty
 -- name    : SmoothCCP.Asymptotic.optSet_eventually_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:40.311326+00:00
 -- url     : https://prove2.me/theorems/9809db38-5502-4452-bcf6-2ca0db317b07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_prmIndependentFiniteFamily
 -- name    : levy_foundations_prmIndependentFiniteFamily
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:05:36.65799+00:00
 -- url     : https://prove2.me/theorems/34f8a811-0862-452e-86a5-61d6e5be506b

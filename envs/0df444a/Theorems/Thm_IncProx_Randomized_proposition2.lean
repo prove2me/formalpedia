@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncProx_Randomized_proposition2
 -- name    : IncProx.Randomized.proposition2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:55.337099+00:00
 -- url     : https://prove2.me/theorems/9e615e9b-67f0-4246-a0c6-e49cd7da7399

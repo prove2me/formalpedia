@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenFarias_SimplePolicy_expected_max
 -- name    : ChenFarias.SimplePolicy.expected_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:01.033913+00:00
 -- url     : https://prove2.me/theorems/05040bfe-ad1f-421a-b1d3-452d846b91bb

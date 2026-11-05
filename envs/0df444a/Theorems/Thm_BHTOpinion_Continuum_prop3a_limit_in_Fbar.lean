@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BHTOpinion_Continuum_prop3a_limit_in_Fbar
 -- name    : BHTOpinion.Continuum.prop3a_limit_in_Fbar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:55.997166+00:00
 -- url     : https://prove2.me/theorems/c4377aee-7b38-4ec6-80c7-eb41b17188cd

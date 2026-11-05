@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_supergraph_maximal_extension__p2m_e7b99952_d0a7_4658_9396_b1a5968fd530_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:17:31.798191+00:00
 -- url     : https://prove2.me/submissions/52a4c040-9cfd-425b-ac69-84a87b583cc4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

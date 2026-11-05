@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierAudit_Competition_oa11_common_dominated
 -- name    : SupplierAudit.Competition.oa11_common_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:30:07.834886+00:00
 -- url     : https://prove2.me/theorems/6e868eb8-d8d7-4839-92b2-517c71392fe2

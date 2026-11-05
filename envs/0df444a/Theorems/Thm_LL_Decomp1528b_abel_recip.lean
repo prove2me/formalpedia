@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1528b_abel_recip
 -- name    : LL_Decomp1528b.abel_recip
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:08:13.650982+00:00
 -- url     : https://prove2.me/theorems/766ef2a8-97af-4494-b853-ac2faa1894b3

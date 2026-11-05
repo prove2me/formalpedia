@@ -1,0 +1,44 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalActualPrefixRuntime.actual_bank_size
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T13:49:05.102208+00:00
+-- url     : https://prove2.me/submissions/029132c3-e791-4b36-8cbd-2c11d10b2405
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_ThreeSum_LightTernarySourceHostBudget
+import Definitions.Def_Submission_ThreeSum_TernaryWantedDictionaryFiber
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaQueryTime
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryOversizeDimensions
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryMomentReporterBudget
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernarySeedControllerBudget
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernarySeedScoreFactory
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernarySignedPreparationBudget
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryExtensionBudget
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryActualPrefixRuntime
+import Theorems.Thm_ThreeSum_TernaryBankEnumeration_codes_length_eq_bank_card
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedBankEnumeration_codes_length_eq_bank_card
+
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalActualPrefixRuntime
+open Light Real Filter Asymptotics
+open TernaryJointType WeightedGlobalLocalParameters WeightedGlobalCoverGoodMaps
+open WeightedGlobalArenaSourceSetup WeightedGlobalNativeCompleteFrontend
+open WeightedGlobalEntropyRates WeightedGlobalDimensionBounds WeightedGlobalOversizePrime
+open WeightedGlobalOversizeRates WeightedGlobalOversizeOverhead WeightedGlobalCoverScale
+open scoped BigOperators Topology
+set_option maxHeartbeats 8000000
+set_option maxRecDepth 24000
+attribute [local instance] Classical.propDecidable
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalActualPrefixRuntime
+theorem _root_.solution (m r : ℕ) : nb m r=bankSize m r :=by
+  unfold nb bankCodes
+  rw [WeightedBankEnumeration.codes_length_eq_bank_card]
+  have hn : N m r=fixedLength (r*m):=by unfold N fixedLength; ring
+  have ht : cut m r=bankCut m r:=by unfold cut bankCut LightWeightedGlobalPrefixSetup.T; ring
+  rw [hn,ht]
+  rfl
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalActualPrefixRuntime

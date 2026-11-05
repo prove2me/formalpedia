@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Collective_kl_display
 -- name    : ExploreFirst.Collective.kl_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:05:54.637644+00:00
 -- url     : https://prove2.me/theorems/00575453-1d21-4cf4-b377-9a601b2c8efb

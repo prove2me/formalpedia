@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grothendieck_matrix_grothendieck_identity
 -- name    : Grothendieck.matrix_grothendieck_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-02T04:15:36.469344+00:00
 -- url     : https://prove2.me/theorems/2b8a79cf-8343-4b1e-991c-3736cda7a067

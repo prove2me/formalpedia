@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_charFun_eq_exp_mul
 -- name    : levy_foundations_charFun_eq_exp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T20:59:57.632381+00:00
 -- url     : https://prove2.me/theorems/198d38df-c97c-4d67-b971-b3489b7c647b

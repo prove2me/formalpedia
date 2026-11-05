@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_exists_isSymplecticCapacity_eq_cEHZ_and_exists_action_eq_cEHZ
 -- name    : Viterbo.exists_isSymplecticCapacity_eq_cEHZ_and_exists_action_eq_cEHZ
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T08:16:32.257236+00:00
 -- url     : https://prove2.me/theorems/e8dc4ed9-e26b-42b9-bf6e-fdda32c73c30

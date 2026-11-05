@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynAssortPers_Regret_lemma_optimal_set_stable
 -- name    : DynAssortPers.Regret.lemma_optimal_set_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:15:49.709988+00:00
 -- url     : https://prove2.me/theorems/e60fec00-57cc-43f5-b489-fac0e98d3e2a

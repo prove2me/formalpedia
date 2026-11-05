@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KBundling_power_of_two_bound
 -- name    : MultiItemRev.KBundling.power_of_two_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:11:54.386198+00:00
 -- url     : https://prove2.me/theorems/ee1b880c-ca05-426d-9b27-bf240a499ece

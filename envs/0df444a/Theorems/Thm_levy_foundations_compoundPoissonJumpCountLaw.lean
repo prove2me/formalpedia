@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_compoundPoissonJumpCountLaw
 -- name    : levy_foundations_compoundPoissonJumpCountLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:53:51.111384+00:00
 -- url     : https://prove2.me/theorems/5d293a54-7f70-44ee-9430-0818fc1c396f

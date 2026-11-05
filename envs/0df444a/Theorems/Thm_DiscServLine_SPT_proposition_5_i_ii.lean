@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscServLine_SPT_proposition_5_i_ii
 -- name    : DiscServLine.SPT.proposition_5_i_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:36.743669+00:00
 -- url     : https://prove2.me/theorems/e6fd9cde-7326-49a7-a3c4-d75829af13f8

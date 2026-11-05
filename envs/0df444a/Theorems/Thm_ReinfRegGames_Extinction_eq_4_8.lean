@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReinfRegGames_Extinction_eq_4_8
 -- name    : ReinfRegGames.Extinction.eq_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:14:48.869849+00:00
 -- url     : https://prove2.me/theorems/274bc248-aa91-4950-9984-5d75626eaaaa

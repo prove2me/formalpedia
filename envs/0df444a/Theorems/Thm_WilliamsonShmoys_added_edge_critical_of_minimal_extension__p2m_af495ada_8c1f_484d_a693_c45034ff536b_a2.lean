@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_added_edge_critical_of_minimal_extension__p2m_af495ada_8c1f_484d_a693_c45034ff536b_a2
 -- name    : WilliamsonShmoys.added_edge_critical_of_minimal_extension__p2m_af495ada_8c1f_484d_a693_c45034ff536b_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:04:07.311816+00:00
 -- url     : https://prove2.me/theorems/564c7d1b-b3fd-403f-9f4d-18453c2c2050

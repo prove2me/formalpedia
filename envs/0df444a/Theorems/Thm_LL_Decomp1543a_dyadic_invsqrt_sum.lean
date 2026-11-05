@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543a_dyadic_invsqrt_sum
 -- name    : LL_Decomp1543a.dyadic_invsqrt_sum
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:51:22.095192+00:00
 -- url     : https://prove2.me/theorems/f7dd89d0-30fa-495b-8561-9b1d29cd71ae

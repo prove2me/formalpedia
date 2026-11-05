@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToddKK14_Diameter_facet_step
 -- name    : ToddKK14.Diameter.facet_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:44:38.563888+00:00
 -- url     : https://prove2.me/theorems/79607ef4-e217-48ae-a732-8f2eba8a9ccc

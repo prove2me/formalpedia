@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRConvexOpt_Reform_partition_step
 -- name    : DRConvexOpt.Reform.partition_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:36:11.919531+00:00
 -- url     : https://prove2.me/theorems/9cd041e7-2b69-4f39-b829-88afe9428766

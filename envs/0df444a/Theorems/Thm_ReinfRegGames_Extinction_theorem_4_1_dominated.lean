@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReinfRegGames_Extinction_theorem_4_1_dominated
 -- name    : ReinfRegGames.Extinction.theorem_4_1_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:14:41.45572+00:00
 -- url     : https://prove2.me/theorems/662576d0-ff09-425b-86c9-d40d45f9dc9d

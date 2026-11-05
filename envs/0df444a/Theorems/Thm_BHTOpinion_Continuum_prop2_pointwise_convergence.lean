@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BHTOpinion_Continuum_prop2_pointwise_convergence
 -- name    : BHTOpinion.Continuum.prop2_pointwise_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:11.951192+00:00
 -- url     : https://prove2.me/theorems/55098df2-146e-49a9-bc5d-c109788c26c3

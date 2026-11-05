@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_partial_order_has_maximal_above__p2m_b64ec28e_2554_405c_95cb_8078e84c56ed_a1
 -- name    : finite_partial_order_has_maximal_above__p2m_b64ec28e_2554_405c_95cb_8078e84c56ed_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:39:07.890195+00:00
 -- url     : https://prove2.me/theorems/dbf886ac-5640-48b2-9eeb-ab7f14638c7a

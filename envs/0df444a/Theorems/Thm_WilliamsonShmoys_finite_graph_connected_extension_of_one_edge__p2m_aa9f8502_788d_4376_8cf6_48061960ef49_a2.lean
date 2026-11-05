@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_graph_connected_extension_of_one_edge__p2m_aa9f8502_788d_4376_8cf6_48061960ef49_a2
 -- name    : WilliamsonShmoys.finite_graph_connected_extension_of_one_edge__p2m_aa9f8502_788d_4376_8cf6_48061960ef49_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:49:27.458531+00:00
 -- url     : https://prove2.me/theorems/9fc762a8-5f43-4315-941e-21ea4c59e3e4

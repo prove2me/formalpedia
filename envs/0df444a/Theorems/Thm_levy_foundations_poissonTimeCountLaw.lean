@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_poissonTimeCountLaw
 -- name    : levy_foundations_poissonTimeCountLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T15:18:30.788704+00:00
 -- url     : https://prove2.me/theorems/4939d434-0c5a-4828-b028-d97cc75ba46e

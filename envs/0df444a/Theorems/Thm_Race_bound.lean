@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Race_bound
 -- name    : Race.bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T00:00:11.632383+00:00
 -- url     : https://prove2.me/theorems/21b55cef-541f-4a10-8c74-1280a0fe003f

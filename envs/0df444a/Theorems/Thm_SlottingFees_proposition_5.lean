@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlottingFees_proposition_5
 -- name    : SlottingFees.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:53:06.58323+00:00
 -- url     : https://prove2.me/theorems/5ddf4c05-aac0-4671-8a95-c13017b7ff88

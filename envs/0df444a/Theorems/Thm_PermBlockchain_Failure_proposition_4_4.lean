@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermBlockchain_Failure_proposition_4_4
 -- name    : PermBlockchain.Failure.proposition_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:39.186604+00:00
 -- url     : https://prove2.me/theorems/4bf4b146-eb21-46a3-bf10-a901776e081e

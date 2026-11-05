@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p2_34dbea70_original_uniform_grid_image_le_indicator_count
 -- name    : AvramDividend.Classical.avram_p2_34dbea70_original_uniform_grid_image_le_indicator_count
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T12:24:32.625164+00:00
 -- url     : https://prove2.me/theorems/44aa4a7e-e258-4f6f-9b1f-170371690a70

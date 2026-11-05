@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_prmIndepEvalSigma
 -- name    : levy_foundations_prmIndepEvalSigma
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:06:11.994667+00:00
 -- url     : https://prove2.me/theorems/49f4a443-9e73-445e-b0dd-64f0e61b8ce7

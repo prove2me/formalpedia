@@ -48044,8 +48044,8 @@
 {"parent": "ThreeSum.SourceBandPairData.Data.transfer", "child": "ThreeSum1962Source_Bundle07", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceBandPairData.Data.transfer", "child": "APSPSource_ThreeSumApsp_Lang_Logic", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceBandPairData.Data.transfer", "child": "ThreeSum1962Source_Bundle01", "via": ["solution", "statement"]}
-{"parent": "PermBlockchain.Failure.proposition_4_4", "child": "agt_games", "via": ["statement"]}
-{"parent": "PermBlockchain.Failure.proposition_4_4", "child": "PermBlockchain_Failure_Setting", "via": ["statement"]}
+{"parent": "PermBlockchain.Failure.proposition_4_4", "child": "agt_games", "via": ["solution", "statement"]}
+{"parent": "PermBlockchain.Failure.proposition_4_4", "child": "PermBlockchain_Failure_Setting", "via": ["solution", "statement"]}
 {"parent": "AdDataSharing.Base.lemma_2", "child": "AdDataSharing_Base_Model", "via": ["statement"]}
 {"parent": "PoWMining.Equilibrium.eq_B_1", "child": "PoWMining_Equilibrium_Setting", "via": ["solution", "statement"]}
 {"parent": "CrowdfundRM.Triangular.corollary_2", "child": "CrowdfundRM_Triangular_Setting", "via": ["statement"]}
@@ -63913,8 +63913,8 @@
 {"parent": "GDPRDataMarkets.Rights.reduced_first_period_profit", "child": "GDPRDataMarkets_Rights_Model", "via": ["statement"]}
 {"parent": "GDPRDataMarkets.Rights.reduced_first_period_profit", "child": "GDPRDataMarkets_Rights_ClosedForms", "via": ["statement"]}
 {"parent": "Plasticity.CUB37.normal_form", "child": "Plasticity_SeqSpace", "via": ["solution", "statement"]}
-{"parent": "PermBlockchain.Failure.proposition_4_7", "child": "agt_games", "via": ["statement"]}
-{"parent": "PermBlockchain.Failure.proposition_4_7", "child": "PermBlockchain_Failure_Setting", "via": ["statement"]}
+{"parent": "PermBlockchain.Failure.proposition_4_7", "child": "agt_games", "via": ["solution", "statement"]}
+{"parent": "PermBlockchain.Failure.proposition_4_7", "child": "PermBlockchain_Failure_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614_Machine_Bundle015", "child": "ThreeSum1960614_Machine_Bundle006", "via": ["statement"]}
 {"parent": "ThreeSum1960614_Machine_Bundle015", "child": "ThreeSum1960614_Analysis", "via": ["statement"]}
 {"parent": "ThreeSum1960614_Machine_Bundle015", "child": "ThreeSum1962Source_Bundle02", "via": ["statement"]}
@@ -63995,8 +63995,8 @@
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightReportingInitialize.program_meets", "child": "ThreeSum1960614_Machine_Bundle026", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightReportingInitialize.program_meets", "child": "ThreeSum1960614_Machine_Bundle033", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightReportingInitialize.program_meets", "child": "ThreeSum1960614_Machine_Bundle017", "via": ["solution", "statement"]}
-{"parent": "PermBlockchain.Failure.proposition_4_3", "child": "agt_games", "via": ["statement"]}
-{"parent": "PermBlockchain.Failure.proposition_4_3", "child": "PermBlockchain_Failure_Setting", "via": ["statement"]}
+{"parent": "PermBlockchain.Failure.proposition_4_3", "child": "agt_games", "via": ["solution", "statement"]}
+{"parent": "PermBlockchain.Failure.proposition_4_3", "child": "PermBlockchain_Failure_Setting", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_finite_dirichlet50000", "child": "TaoFivePrimes_RHHighSamplingFunctions", "via": ["solution", "statement"]}
 {"parent": "SeqLoss.LiabilityGame.nucleolus_coordinates", "child": "SeqLoss_FixedFraction_Setting", "via": ["statement"]}
 {"parent": "SeqLoss.LiabilityGame.nucleolus_coordinates", "child": "SeqLoss_LiabilityGame_Nucleolus", "via": ["statement"]}
@@ -71790,8 +71790,8 @@
 {"parent": "TaoFivePrimes.rh_high_height_contour_reference_upper_zero_k06", "child": "TaoFivePrimes_RHHighContourCoefficient", "via": ["solution", "statement"]}
 {"parent": "OpRiskInspection.Hybrid.lemma_EC3", "child": "OpRiskInspection_Hybrid_Strategy", "via": ["statement"]}
 {"parent": "OpRiskInspection.Hybrid.lemma_EC3", "child": "OpRiskInspection_RandomVsPeriodic_Setting", "via": ["statement"]}
-{"parent": "PermBlockchain.Failure.proposition_4_6", "child": "agt_games", "via": ["statement"]}
-{"parent": "PermBlockchain.Failure.proposition_4_6", "child": "PermBlockchain_Failure_Setting", "via": ["statement"]}
+{"parent": "PermBlockchain.Failure.proposition_4_6", "child": "agt_games", "via": ["solution", "statement"]}
+{"parent": "PermBlockchain.Failure.proposition_4_6", "child": "PermBlockchain_Failure_Setting", "via": ["solution", "statement"]}
 {"parent": "LSWCuttingPlane.ChasingZero.exp_taylor_bound", "child": "LSWCuttingPlane_ChasingZero_Setting", "via": ["statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.SourceBandHostCosts.space_le_encoderCount", "child": "ThreeSum1960614_Machine_Bundle029", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.SourceBandHostCosts.space_le_encoderCount", "child": "ThreeSum1960614_Analysis", "via": ["solution", "statement"]}
@@ -72959,8 +72959,8 @@
 {"parent": "MIPRE.Cost.compressibility_criterion_halting", "child": "MIPRE_Foundations_Cost_Codable", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.compressibility_criterion_halting", "child": "MIPRE_Foundations_Cost_MachineData", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.compressibility_criterion_halting", "child": "MIPRE_Foundations_Cost_Basic", "via": ["solution", "statement"]}
-{"parent": "PermBlockchain.Failure.proposition_4_1", "child": "agt_games", "via": ["statement"]}
-{"parent": "PermBlockchain.Failure.proposition_4_1", "child": "PermBlockchain_Failure_Setting", "via": ["statement"]}
+{"parent": "PermBlockchain.Failure.proposition_4_1", "child": "agt_games", "via": ["solution", "statement"]}
+{"parent": "PermBlockchain.Failure.proposition_4_1", "child": "PermBlockchain_Failure_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightOneHot.meets", "child": "APSPSource_ThreeSumApsp_Lang_Regions", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightOneHot.meets", "child": "ThreeSum1962Source_Bundle02", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightOneHot.meets", "child": "APSPSource_RemainingDefinitions", "via": ["solution", "statement"]}

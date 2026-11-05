@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_20_original_all_right_clocks_killed_terminal_tendsto
 -- name    : AvramDividend.Classical.avram_wave8_20_original_all_right_clocks_killed_terminal_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T21:28:13.465086+00:00
 -- url     : https://prove2.me/theorems/dc9f7b01-07f5-4855-9e6c-b08edca35533

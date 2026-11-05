@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_maximum_on_nonempty_predicate__p2m_16fb1a0d_e68c_4595_a206_2f4554b0589b_a1
 -- name    : finite_maximum_on_nonempty_predicate__p2m_16fb1a0d_e68c_4595_a206_2f4554b0589b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:01:07.586648+00:00
 -- url     : https://prove2.me/theorems/38779cd5-2f75-4934-a696-27396d6f3f79

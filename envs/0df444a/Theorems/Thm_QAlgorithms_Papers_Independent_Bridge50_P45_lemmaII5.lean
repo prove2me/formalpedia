@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Bridge50_P45_lemmaII5
 -- name    : QAlgorithms.Papers.Independent.Bridge50.P45.lemmaII5
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T19:11:39.053307+00:00
 -- url     : https://prove2.me/theorems/d3fffe4c-9632-438a-ad9a-d2aa9bec77c5

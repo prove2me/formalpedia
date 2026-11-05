@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_projectiveFamily_nonempty
 -- name    : levy_foundations_projectiveFamily_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:11:53.41668+00:00
 -- url     : https://prove2.me/theorems/060e8fdd-387d-40f7-8700-029b8853bd98

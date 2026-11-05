@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_TwoIID_zeta_le
 -- name    : MultiItemRev.TwoIID.zeta_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:35.246665+00:00
 -- url     : https://prove2.me/theorems/2369c148-dfea-47e3-9b9a-4e986ecacf6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_01_negative_supported_original_mark_measure_full_borel_restriction
 -- name    : AvramDividend.Classical.avram_wave7_01_negative_supported_original_mark_measure_full_borel_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T00:14:53.378517+00:00
 -- url     : https://prove2.me/theorems/99c1781e-0660-49d2-ae23-e95281430cd2

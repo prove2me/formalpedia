@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Dubey1986_Inefficiency_transverse_Nstar_open_dense
 -- name    : Dubey1986.Inefficiency.transverse_Nstar_open_dense
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:34:46.061601+00:00
 -- url     : https://prove2.me/theorems/a5312d02-60c0-48de-b9fb-fee6af5d45c8

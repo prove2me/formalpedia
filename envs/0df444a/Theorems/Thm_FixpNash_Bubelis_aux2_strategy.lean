@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Bubelis_aux2_strategy
 -- name    : FixpNash.Bubelis.aux2_strategy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:22.498902+00:00
 -- url     : https://prove2.me/theorems/9745fe49-f0ce-469f-8f96-db3605d04f66

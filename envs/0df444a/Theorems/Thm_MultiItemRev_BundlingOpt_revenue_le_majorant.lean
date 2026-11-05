@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_BundlingOpt_revenue_le_majorant
 -- name    : MultiItemRev.BundlingOpt.revenue_le_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:26:04.745185+00:00
 -- url     : https://prove2.me/theorems/f80f1add-80f9-4fa0-a744-4e63b3f43172

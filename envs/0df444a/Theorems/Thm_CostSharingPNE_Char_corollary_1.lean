@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostSharingPNE_Char_corollary_1
 -- name    : CostSharingPNE.Char.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:27:16.656884+00:00
 -- url     : https://prove2.me/theorems/94c06c3f-8b3d-4318-8f46-2a5aec3550e5

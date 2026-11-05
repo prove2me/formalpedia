@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskSensMDP_Discounted_cost_iteration
 -- name    : RiskSensMDP.Discounted.cost_iteration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:28:35.624631+00:00
 -- url     : https://prove2.me/theorems/f689a4c1-1ddb-48ff-a0fa-27252e466428

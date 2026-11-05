@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFGLiquidation_Equilibrium_fact_2_2
 -- name    : MFGLiquidation.Equilibrium.fact_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:37.450129+00:00
 -- url     : https://prove2.me/theorems/015d8abc-4be1-49b0-a776-034acf7656de

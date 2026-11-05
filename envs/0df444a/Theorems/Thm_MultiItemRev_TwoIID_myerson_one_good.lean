@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_TwoIID_myerson_one_good
 -- name    : MultiItemRev.TwoIID.myerson_one_good
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:43.115034+00:00
 -- url     : https://prove2.me/theorems/04e26d8e-1b2b-4bea-9a1f-ace2d6649bbe

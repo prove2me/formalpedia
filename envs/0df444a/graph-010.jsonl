@@ -26561,8 +26561,8 @@
 {"parent": "NLogN.KFUU.R6Fine.fineE_runs", "child": "IntMul_Kappa_R6_Defs70", "via": ["solution", "statement"]}
 {"parent": "SellVsPPU.Duopoly.a24_threshold_gluing", "child": "SellVsPPU_Duopoly_Model", "via": ["statement"]}
 {"parent": "OAI.PiExponent.FinitePeriodCollision.rowTest_periodFunction_coeff", "child": "OAI_PiExponent_FinitePeriodAnalytic", "via": ["solution", "statement"]}
-{"parent": "DataTrackComp.Surplus.lemma_2", "child": "DataTrackComp_Surplus_ReducedGame", "via": ["statement"]}
-{"parent": "DataTrackComp.Surplus.lemma_2", "child": "DataTrackComp_Surplus_Game", "via": ["statement"]}
+{"parent": "DataTrackComp.Surplus.lemma_2", "child": "DataTrackComp_Surplus_ReducedGame", "via": ["solution", "statement"]}
+{"parent": "DataTrackComp.Surplus.lemma_2", "child": "DataTrackComp_Surplus_Game", "via": ["solution", "statement"]}
 {"parent": "IntMul.HvdH.RExpPf.expNeg_bound", "child": "IntMul_Kappa_R6_Defs1", "via": ["solution", "statement"]}
 {"parent": "IntMul.HvdH.RExpPf.expNeg_bound", "child": "IntMul_HvdH_Numeric", "via": ["solution", "statement"]}
 {"parent": "IntMul.HvdH.RExpPf.expNeg_bound", "child": "IntMul_HvdH_RealExp", "via": ["solution", "statement"]}
@@ -44983,7 +44983,7 @@
 {"parent": "HardyCapset20261020.Cert.case045_blockers1", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case045_blockers1", "child": "HardyCapsetCertificate04520261021", "via": ["solution", "statement"]}
 {"parent": "BrauerIdem.Splitting.existence", "child": "BrauerIdem_Splitting_Brauer", "via": ["statement"]}
-{"parent": "SpecActionsProb.Latency.proposition_1", "child": "SpecActionsProb_Latency_Model", "via": ["statement"]}
+{"parent": "SpecActionsProb.Latency.proposition_1", "child": "SpecActionsProb_Latency_Model", "via": ["solution", "statement"]}
 {"parent": "ProjSchedTW.Complexity.cumCheck_wf_filter_polytime", "child": "CookPvsNP_StackProgram", "via": ["solution", "statement"]}
 {"parent": "ProjSchedTW.Complexity.cumCheck_wf_filter_polytime", "child": "ProjSchedTW_Complexity_Encoding", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P45.boundedRankReversibility_complement", "child": "QAlgorithms_Papers_Independent_Gap48_P45", "via": ["solution", "statement"]}
@@ -45841,7 +45841,7 @@
 {"parent": "AvramDividend.Classical.chat04_all_finite_prefix_increment_cylinder_product", "child": "AvramDividend.Classical.chat04_finite_increment_prefix_event_filtration_measurable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_all_finite_prefix_increment_cylinder_product", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_all_finite_prefix_increment_cylinder_product", "child": "AvramDividend.Classical.chat04_past_event_next_levy_increment_measure_product", "via": ["solution", "statement"]}
-{"parent": "DynamicOnlineLP.LowerBound.online_lp_lower_bound", "child": "DynamicOnlineLP_LowerBound_OnlineLP", "via": ["statement"]}
+{"parent": "DynamicOnlineLP.LowerBound.online_lp_lower_bound", "child": "DynamicOnlineLP_LowerBound_OnlineLP", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P30.gaussian_locc_reduction", "child": "QAlgorithms_Papers_Independent_Gap48_P30", "via": ["statement"]}
 {"parent": "BraneBrauer.Orthogonal.orthogonality_7_12", "child": "BraneBrauer_Orthogonal_Setting", "via": ["statement"]}
 {"parent": "HardyCapset20261020.Cert.boolean_check_completion_bound", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}

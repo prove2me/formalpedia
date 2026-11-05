@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_b_smalljump_original_product_compensator_cell_rate_of_time_volume
 -- name    : AvramDividend.Classical.avram_p4_b_smalljump_original_product_compensator_cell_rate_of_time_volume
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-04T00:15:50.882855+00:00
 -- url     : https://prove2.me/theorems/452f9c5b-e309-4b03-bb45-226f56d35f7f

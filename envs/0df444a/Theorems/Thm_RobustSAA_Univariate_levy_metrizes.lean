@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Univariate_levy_metrizes
 -- name    : RobustSAA.Univariate.levy_metrizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:16:55.252733+00:00
 -- url     : https://prove2.me/theorems/d3731819-9466-42d9-8b5a-1ff778c4e859

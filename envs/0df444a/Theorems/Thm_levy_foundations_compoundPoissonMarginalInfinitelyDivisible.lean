@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_compoundPoissonMarginalInfinitelyDivisible
 -- name    : levy_foundations_compoundPoissonMarginalInfinitelyDivisible
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:57:49.592983+00:00
 -- url     : https://prove2.me/theorems/e2a8a617-4633-4172-8f7f-747b7ef8909f

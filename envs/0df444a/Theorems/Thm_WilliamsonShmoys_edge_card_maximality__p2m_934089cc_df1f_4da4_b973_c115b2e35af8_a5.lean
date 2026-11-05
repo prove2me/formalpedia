@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_card_maximality__p2m_934089cc_df1f_4da4_b973_c115b2e35af8_a5
 -- name    : WilliamsonShmoys.edge_card_maximality__p2m_934089cc_df1f_4da4_b973_c115b2e35af8_a5
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:28:11.050291+00:00
 -- url     : https://prove2.me/theorems/a61d9a0f-7ed9-4df5-b989-3e94ccc47412

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1526a_sum_rep_Ioc_le_theta_sq
 -- name    : LL_Decomp1526a.sum_rep_Ioc_le_theta_sq
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:04:57.770305+00:00
 -- url     : https://prove2.me/theorems/31888c06-3454-476c-a6e0-a334bf1836f6

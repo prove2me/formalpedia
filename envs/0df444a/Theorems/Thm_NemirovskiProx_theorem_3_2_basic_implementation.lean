@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NemirovskiProx_theorem_3_2_basic_implementation
 -- name    : NemirovskiProx.theorem_3_2_basic_implementation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:35:47.808114+00:00
 -- url     : https://prove2.me/theorems/6439a6ae-4d1b-4a15-b5ff-79792596575a

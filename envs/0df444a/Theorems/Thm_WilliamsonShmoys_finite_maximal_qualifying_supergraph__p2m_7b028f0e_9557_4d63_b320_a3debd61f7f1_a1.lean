@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_maximal_qualifying_supergraph__p2m_7b028f0e_9557_4d63_b320_a3debd61f7f1_a1
 -- name    : WilliamsonShmoys.finite_maximal_qualifying_supergraph__p2m_7b028f0e_9557_4d63_b320_a3debd61f7f1_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:05:43.429691+00:00
 -- url     : https://prove2.me/theorems/bf9a75f5-fb19-4298-9037-82dd49bb2208

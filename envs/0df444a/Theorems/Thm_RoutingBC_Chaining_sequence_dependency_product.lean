@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoutingBC_Chaining_sequence_dependency_product
 -- name    : RoutingBC.Chaining.sequence_dependency_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:42:42.269253+00:00
 -- url     : https://prove2.me/theorems/1869581c-6c3c-49f9-8895-9ca428d9471d

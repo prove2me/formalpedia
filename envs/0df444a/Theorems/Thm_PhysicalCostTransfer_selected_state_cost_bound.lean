@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_PhysicalCostTransfer_selected_state_cost_bound
+-- name    : PhysicalCostTransfer.selected_state_cost_bound
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-04T08:44:10.380199+00:00
+-- url     : https://prove2.me/theorems/c9803323-387e-4cd9-b390-58165c9dbb1d
+-- title:
+--   PhysicalCostTransfer: Selected state cost bound
+-- statement:
+--   The actual selected characteristic is already proved. Every member of every state family obeys this unnormalized bound under uniform physical contracts; the family can contain arbitrarily many volumes and spectators.
+--
+--   Conditional bounds for abstract physical state costs, assuming the stated recurrence and volume identities. These results retain their stated hypotheses and do not establish the complete fixed-tape multiplication algorithm.
+--
+--   [Original Lean source](https://github.com/CrocSwap/integer-mult-bounds/blob/7c49fe32c55de02c2c873655c804b16e4c3fef0a/research/machine-transfer-verification/transfer-proof/recurrence/PhysicalCostTransfer.lean#L127-L157). Imported from CrocSwap/integer-mult-bounds at `7c49fe32c55d`. Original authorship and assistance credits are retained in the upstream NOTICE and package documentation. [Attribution notice](https://github.com/CrocSwap/integer-mult-bounds/blob/7c49fe32c55de02c2c873655c804b16e4c3fef0a/NOTICE). Apache-2.0. Imported by marwahaha using lean-splitter.
+-- source:
+--   https://github.com/CrocSwap/integer-mult-bounds/blob/7c49fe32c55de02c2c873655c804b16e4c3fef0a/research/machine-transfer-verification/transfer-proof/recurrence/PhysicalCostTransfer.lean#L127-L157 | Apache-2.0 | CrocSwap contributors; see pinned NOTICE | lean-splitter import, independently validated on Hetzner
+
+import Definitions.Def_SelectedFloorTransfer
+import Definitions.Def_PhysicalCostTransfer
+set_option autoImplicit true
+open PhysicalCostTransfer
+open scoped BigOperators
+open SelectedProfileCertificate
+
+theorem PhysicalCostTransfer.selected_state_cost_bound {S : Type}
+    (width : S → ℕ) (volume cost : S → ℝ)
+    (child : S → (r : Row) → Fin r.multiplicity → S)
+    (B C : ℝ) (hvolume : ∀ s, 0 ≤ volume s)
+    (child_width : ∀ s, m ≤ width s → ∀ r ∈ rows, ∀ j,
+      width (child s r j) = r.width * (width s / m))
+    (child_volume : ∀ s, m ≤ width s → ∀ r ∈ rows, ∀ j,
+      volume (child s r j) = volume s / W)
+    (uniform_base : ∀ s, 0 < width s → width s < m → cost s ≤ B * volume s)
+    (physical_recurrence : ∀ s, m ≤ width s → cost s ≤ C * volume s +
+      (rows.map (fun r => ∑ j : Fin r.multiplicity, cost (child s r j))).sum) :
+    ∀ s, 0 < width s → cost s ≤ selectedConstant B C * volume s *
+      (width s : ℝ) ^ (1 - (saving : ℝ)) := by sorry

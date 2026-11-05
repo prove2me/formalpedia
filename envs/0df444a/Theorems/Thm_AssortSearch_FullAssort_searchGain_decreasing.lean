@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_FullAssort_searchGain_decreasing
 -- name    : AssortSearch.FullAssort.searchGain_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:45:51.35436+00:00
 -- url     : https://prove2.me/theorems/5d8b1a36-7ac2-48d6-8807-4e9161f956c0

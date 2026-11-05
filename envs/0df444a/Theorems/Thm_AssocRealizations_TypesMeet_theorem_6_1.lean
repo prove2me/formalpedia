@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssocRealizations_TypesMeet_theorem_6_1
 -- name    : AssocRealizations.TypesMeet.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:15.736344+00:00
 -- url     : https://prove2.me/theorems/4d92cb81-4182-4dea-884d-7b5f845e643e

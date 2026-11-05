@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPricing_PreAnn_example_2
 -- name    : SLPricing.PreAnn.example_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:15:17.672916+00:00
 -- url     : https://prove2.me/theorems/ffec1073-da70-440e-bdf9-45013b781623

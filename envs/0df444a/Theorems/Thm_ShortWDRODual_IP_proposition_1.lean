@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_IP_proposition_1
 -- name    : ShortWDRODual.IP.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:12.624008+00:00
 -- url     : https://prove2.me/theorems/b951d987-87dc-4c2a-9f75-eac46140a266

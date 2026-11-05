@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_hasPlanarDrawingOn_mono__p2m_3647f07c_750e_4c3e_8be8_ca29b1e4d823_a1
 -- name    : WilliamsonShmoys.hasPlanarDrawingOn_mono__p2m_3647f07c_750e_4c3e_8be8_ca29b1e4d823_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:37:13.419252+00:00
 -- url     : https://prove2.me/theorems/1340efd2-e406-4746-997b-d7e230feab14

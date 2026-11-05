@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_Legendre_theorem_1_hard
 -- name    : ShortWDRODual.Legendre.theorem_1_hard
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:36:03.414822+00:00
 -- url     : https://prove2.me/theorems/fb1cb182-18e3-42d6-8e33-e8dc5c34143e

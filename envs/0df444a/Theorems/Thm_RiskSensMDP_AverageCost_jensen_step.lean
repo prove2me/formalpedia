@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskSensMDP_AverageCost_jensen_step
 -- name    : RiskSensMDP.AverageCost.jensen_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:28:46.310719+00:00
 -- url     : https://prove2.me/theorems/700eb9db-a2f4-4e13-b2d9-61eb48a3278e

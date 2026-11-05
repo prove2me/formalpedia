@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_20_original_BV_deterministic_horizon_killed_terminal_integrable
 -- name    : AvramDividend.Classical.avram_wave8_20_original_BV_deterministic_horizon_killed_terminal_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T21:25:21.029118+00:00
 -- url     : https://prove2.me/theorems/00620243-492d-4b57-938d-b63392e6b607

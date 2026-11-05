@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_two_le_windInf_of_negative_puncture
 -- name    : FiniteEnergyPlane.two_le_windInf_of_negative_puncture
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T16:24:33.730027+00:00
 -- url     : https://prove2.me/theorems/6f2de4d6-e5ea-4647-9bbf-01ba1c128a8d

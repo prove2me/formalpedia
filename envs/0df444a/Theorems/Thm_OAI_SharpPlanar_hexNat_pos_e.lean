@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_hexNat_pos_e
 -- name    : OAI.SharpPlanar.hexNat_pos_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:44:22.454452+00:00
 -- url     : https://prove2.me/theorems/aa0d7e13-039c-40ed-8177-423f5b2c59d1

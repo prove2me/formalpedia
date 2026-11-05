@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonMF_DenseRate_eq_6_17
 -- name    : GraphonMF.DenseRate.eq_6_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:28:12.542043+00:00
 -- url     : https://prove2.me/theorems/47c644ad-9c9d-47b7-8a0b-6881c6f61e88

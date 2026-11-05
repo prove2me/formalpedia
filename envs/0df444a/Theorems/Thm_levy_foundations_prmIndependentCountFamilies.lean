@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_prmIndependentCountFamilies
 -- name    : levy_foundations_prmIndependentCountFamilies
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:05:49.636505+00:00
 -- url     : https://prove2.me/theorems/29eb4fc9-30c0-474f-bf04-0f6d54834bb5

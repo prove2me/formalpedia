@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostSharingPNE_Char_gwsv_guarantees_pne
 -- name    : CostSharingPNE.Char.gwsv_guarantees_pne
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:24:33.263737+00:00
 -- url     : https://prove2.me/theorems/3155c00a-14b5-44d9-a0f6-9b8f39e33da4

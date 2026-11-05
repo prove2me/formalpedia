@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Adaptive_beta_star_existsUnique
 -- name    : CorreaThreshold.Adaptive.beta_star_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:39:31.939101+00:00
 -- url     : https://prove2.me/theorems/512ff915-7ec1-4d24-87b3-bc8adfee6bad

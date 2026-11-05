@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_FixedCost_claim_3
 -- name    : QualityEncroach.FixedCost.claim_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:07.489068+00:00
 -- url     : https://prove2.me/theorems/89c89fad-f639-44ec-b737-18b9af496bc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_compoundPoissonDriverExists
 -- name    : levy_foundations_compoundPoissonDriverExists
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:46:31.390155+00:00
 -- url     : https://prove2.me/theorems/f9e2e0b5-4745-4ad5-9145-2e2936ea4695

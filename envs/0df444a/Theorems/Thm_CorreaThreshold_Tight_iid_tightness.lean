@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Tight_iid_tightness
 -- name    : CorreaThreshold.Tight.iid_tightness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:24.105645+00:00
 -- url     : https://prove2.me/theorems/a199008f-b4b7-4003-aeef-e3a4058d2671

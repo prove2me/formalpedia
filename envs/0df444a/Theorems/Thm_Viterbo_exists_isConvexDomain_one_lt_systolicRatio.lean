@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_exists_isConvexDomain_one_lt_systolicRatio
 -- name    : Viterbo.exists_isConvexDomain_one_lt_systolicRatio
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T08:15:55.289925+00:00
 -- url     : https://prove2.me/theorems/cdeeee93-5416-47de-9a16-b468ba3eba49

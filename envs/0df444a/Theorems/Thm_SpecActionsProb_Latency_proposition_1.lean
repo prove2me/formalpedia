@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpecActionsProb_Latency_proposition_1
 -- name    : SpecActionsProb.Latency.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:27.043953+00:00
 -- url     : https://prove2.me/theorems/17609a0b-0557-46ea-a864-49cf9d95ff44

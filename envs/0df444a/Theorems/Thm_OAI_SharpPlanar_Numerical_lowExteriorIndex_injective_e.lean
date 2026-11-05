@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_lowExteriorIndex_injective_e
 -- name    : OAI.SharpPlanar.Numerical.lowExteriorIndex_injective_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:47:01.807873+00:00
 -- url     : https://prove2.me/theorems/8cab9f6f-170d-4a7d-bdb3-0c21339990de

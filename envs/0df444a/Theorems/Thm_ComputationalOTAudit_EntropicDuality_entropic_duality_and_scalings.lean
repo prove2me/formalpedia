@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComputationalOTAudit_EntropicDuality_entropic_duality_and_scalings
 -- name    : ComputationalOTAudit.EntropicDuality.entropic_duality_and_scalings
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:32:29.669737+00:00
 -- url     : https://prove2.me/theorems/71f13556-1114-4372-9037-d5e87b6c7093

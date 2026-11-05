@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataTrackComp_Surplus_lemma_2
 -- name    : DataTrackComp.Surplus.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:24:25.665649+00:00
 -- url     : https://prove2.me/theorems/c2f1a487-25e7-42f0-baeb-20ddfe5512c9

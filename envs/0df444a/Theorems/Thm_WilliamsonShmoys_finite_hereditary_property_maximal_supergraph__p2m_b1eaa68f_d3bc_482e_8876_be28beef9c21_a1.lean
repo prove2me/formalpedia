@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_hereditary_property_maximal_supergraph__p2m_b1eaa68f_d3bc_482e_8876_be28beef9c21_a1
 -- name    : WilliamsonShmoys.finite_hereditary_property_maximal_supergraph__p2m_b1eaa68f_d3bc_482e_8876_be28beef9c21_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T01:03:25.129711+00:00
 -- url     : https://prove2.me/theorems/c8cf4474-432e-4dbd-85fe-0e5b17a700a6

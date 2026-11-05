@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_cEHZ_prod_eq_min_action_and_min_billiard_and_min_notTranslatable
 -- name    : Viterbo.cEHZ_prod_eq_min_action_and_min_billiard_and_min_notTranslatable
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T07:21:58.300089+00:00
 -- url     : https://prove2.me/theorems/d2486c07-c981-456e-96e6-d799717ddccb

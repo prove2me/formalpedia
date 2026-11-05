@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedRace_bound
 -- name    : WeightedRace.bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T05:00:08.442644+00:00
 -- url     : https://prove2.me/theorems/37442c5d-cbbf-4a07-ad33-14357e1cbe53

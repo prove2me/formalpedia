@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_isSeqCompact_fastPlaneSetL
 -- name    : FiniteEnergyPlane.isSeqCompact_fastPlaneSetL
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T16:26:06.85142+00:00
 -- url     : https://prove2.me/theorems/1dd1ac4d-42c7-4e83-b5e3-234e173e21c7

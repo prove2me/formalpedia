@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Asymptotic_equation_10
 -- name    : ExploreFirst.Asymptotic.equation_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:25:54.256571+00:00
 -- url     : https://prove2.me/theorems/078bfe75-64e1-4816-9618-2146171df13f

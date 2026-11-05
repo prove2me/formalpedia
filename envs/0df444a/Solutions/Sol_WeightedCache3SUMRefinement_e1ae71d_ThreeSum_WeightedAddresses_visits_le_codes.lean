@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedAddresses.visits_le_codes
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T10:13:09.647211+00:00
+-- url     : https://prove2.me/submissions/0420502b-fa35-470a-9a27-262bd8c830a6
+
+import Definitions.Def_Submission_ThreeSum_TernaryAddresses
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Enumeration
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Addresses
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedAddresses_codes_length
+import Theorems.Thm_ThreeSum_TernaryAddresses_codes_length
+import Theorems.Thm_ThreeSum_TernaryEnumeration_mem_digits
+import Theorems.Thm_ThreeSum_TernaryEnumeration_visits_le
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_digitCost_one
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_digitCost_two
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_digitCost_zero
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_mem_digits
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedEnumeration_visits_le
+attribute [local simp] ThreeSum.TernaryAddresses.codes_length
+attribute [local simp] ThreeSum.TernaryEnumeration.mem_digits
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.digitCost_one
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.digitCost_two
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.digitCost_zero
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedEnumeration.mem_digits
+
+
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedAddresses.codes_length
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedAddresses
+open ThreeSum.WeightedEnumeration
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedAddresses
+theorem _root_.solution (n t : ℕ) : visits n t ≤ (n + 1) * (codes n t).length := by
+  simpa only [codes_length] using visits_le n t
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedAddresses

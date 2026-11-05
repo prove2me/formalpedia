@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_IP_IP_imp_selStar
 -- name    : ShortWDRODual.IP.IP_imp_selStar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:24.384393+00:00
 -- url     : https://prove2.me/theorems/628d62b3-aa0a-48c9-850b-183df29b602d

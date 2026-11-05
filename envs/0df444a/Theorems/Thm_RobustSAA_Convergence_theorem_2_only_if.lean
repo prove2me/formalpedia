@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Convergence_theorem_2_only_if
 -- name    : RobustSAA.Convergence.theorem_2_only_if
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:18:50.395402+00:00
 -- url     : https://prove2.me/theorems/9fc87088-7909-4469-843e-48f7fe02553b

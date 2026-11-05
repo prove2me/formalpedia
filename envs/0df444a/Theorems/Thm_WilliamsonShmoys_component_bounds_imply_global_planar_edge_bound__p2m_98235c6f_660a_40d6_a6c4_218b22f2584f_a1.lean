@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_bounds_imply_global_planar_edge_bound__p2m_98235c6f_660a_40d6_a6c4_218b22f2584f_a1
 -- name    : WilliamsonShmoys.component_bounds_imply_global_planar_edge_bound__p2m_98235c6f_660a_40d6_a6c4_218b22f2584f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:03:20.921213+00:00
 -- url     : https://prove2.me/theorems/2f886b64-45e5-4692-a31b-5084b02f539f

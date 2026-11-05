@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_negative_band_occupied_cell_lintegral
 -- name    : AvramDividend.Classical.avram_wave7_06_original_negative_band_occupied_cell_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T09:06:33.222192+00:00
 -- url     : https://prove2.me/theorems/c5c26c2b-a76e-4198-add0-fd8cda8c66c7

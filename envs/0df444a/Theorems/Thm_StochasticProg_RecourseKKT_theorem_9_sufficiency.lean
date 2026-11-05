@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticProg_RecourseKKT_theorem_9_sufficiency
 -- name    : StochasticProg.RecourseKKT.theorem_9_sufficiency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:53:07.340061+00:00
 -- url     : https://prove2.me/theorems/05c9c22c-4578-4bf8-ac2a-a2fc9e712e33

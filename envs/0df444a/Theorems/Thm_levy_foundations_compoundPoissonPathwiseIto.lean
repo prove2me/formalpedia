@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_compoundPoissonPathwiseIto
 -- name    : levy_foundations_compoundPoissonPathwiseIto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:47:34.12175+00:00
 -- url     : https://prove2.me/theorems/50e01f40-3de1-4cf7-9bf7-337db33e7300

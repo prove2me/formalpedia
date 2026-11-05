@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_maximal_extension_of_downward_closed__p2m_693a0634_6764_414a_b500_9400969f72a3_a1
 -- name    : WilliamsonShmoys.finite_maximal_extension_of_downward_closed__p2m_693a0634_6764_414a_b500_9400969f72a3_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T09:44:35.838518+00:00
 -- url     : https://prove2.me/theorems/308e57e3-f473-4c2d-add3-2b2c00ce915b

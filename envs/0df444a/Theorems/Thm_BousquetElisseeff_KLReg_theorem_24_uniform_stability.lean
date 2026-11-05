@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BousquetElisseeff_KLReg_theorem_24_uniform_stability
 -- name    : BousquetElisseeff.KLReg.theorem_24_uniform_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:46:41.332286+00:00
 -- url     : https://prove2.me/theorems/1974893f-ecd5-4dfb-b783-3694e77618be

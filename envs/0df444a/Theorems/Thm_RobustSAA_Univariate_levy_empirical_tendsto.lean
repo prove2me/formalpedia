@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Univariate_levy_empirical_tendsto
 -- name    : RobustSAA.Univariate.levy_empirical_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:16:52.971982+00:00
 -- url     : https://prove2.me/theorems/51846bc7-83a9-4e30-9ce9-7b29bc8c7f20

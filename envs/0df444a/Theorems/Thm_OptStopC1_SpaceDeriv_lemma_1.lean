@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptStopC1_SpaceDeriv_lemma_1
 -- name    : OptStopC1.SpaceDeriv.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:07.903017+00:00
 -- url     : https://prove2.me/theorems/48bf0186-60da-4ad8-b3f3-e511f46213d7

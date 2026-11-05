@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRConvexOpt_Reform_lemma_1
 -- name    : DRConvexOpt.Reform.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:34:39.619611+00:00
 -- url     : https://prove2.me/theorems/65354ae1-1a1d-4496-8b2c-50cf67445eae

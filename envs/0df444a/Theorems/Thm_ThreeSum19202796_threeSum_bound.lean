@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum19202796_threeSum_bound
 -- name    : ThreeSum19202796.threeSum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-22T08:28:10.47582+00:00
 -- url     : https://prove2.me/theorems/541e3934-9bd7-4fbf-9a1d-edcf917b178e

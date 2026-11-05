@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p3_b_bvjump_original_marked_restricted_source_horizon_clip
 -- name    : AvramDividend.Classical.avram_p3_b_bvjump_original_marked_restricted_source_horizon_clip
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T10:46:48.215681+00:00
 -- url     : https://prove2.me/theorems/ec71350c-79c0-4225-9177-a22922aa8fc7

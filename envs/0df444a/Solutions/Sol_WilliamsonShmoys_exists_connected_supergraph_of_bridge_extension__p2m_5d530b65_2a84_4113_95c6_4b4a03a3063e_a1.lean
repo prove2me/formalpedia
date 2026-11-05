@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_connected_supergraph_of_bridge_extension__p2m_5d530b65_2a84_4113_95c6_4b4a03a3063e_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:18:33.210973+00:00
 -- url     : https://prove2.me/submissions/89b085f3-22aa-4e18-8312-ff1739cb31df
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_bridge_extension_strict_edgeSet__p2m_1743449e_70b2_453d_82e4_df1f7d1e75bd_a3

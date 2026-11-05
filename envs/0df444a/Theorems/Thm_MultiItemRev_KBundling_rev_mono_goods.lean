@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KBundling_rev_mono_goods
 -- name    : MultiItemRev.KBundling.rev_mono_goods
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:11:58.030446+00:00
 -- url     : https://prove2.me/theorems/669e4e11-1157-4521-bae5-1748689e2fb0

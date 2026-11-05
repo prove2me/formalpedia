@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_20_original_preruin_discounted_positive_postpayment_terminal_rightContinuous
 -- name    : AvramDividend.Classical.avram_wave8_20_original_preruin_discounted_positive_postpayment_terminal_rightContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T20:57:19.970309+00:00
 -- url     : https://prove2.me/theorems/2273e3d4-0546-43b2-afb2-2fccfb6ecd20

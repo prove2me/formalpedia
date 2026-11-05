@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierAudit_Competition_oa14_oa15
 -- name    : SupplierAudit.Competition.oa14_oa15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:30:12.822401+00:00
 -- url     : https://prove2.me/theorems/2227445d-d664-4cfd-8d26-a013227f21eb

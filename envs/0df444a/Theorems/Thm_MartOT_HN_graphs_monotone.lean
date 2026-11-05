@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_HN_graphs_monotone
 -- name    : MartOT.HN.graphs_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:54.709861+00:00
 -- url     : https://prove2.me/theorems/1f6d015c-e8f4-447c-9e0f-31459ff79e25

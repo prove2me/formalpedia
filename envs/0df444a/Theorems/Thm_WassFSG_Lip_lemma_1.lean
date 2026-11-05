@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassFSG_Lip_lemma_1
 -- name    : WassFSG.Lip.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:38:57.891432+00:00
 -- url     : https://prove2.me/theorems/bbd4487e-719d-443e-9c4e-f42121fbf063

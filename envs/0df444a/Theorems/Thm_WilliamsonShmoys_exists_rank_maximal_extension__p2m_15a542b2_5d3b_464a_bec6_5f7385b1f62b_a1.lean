@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_rank_maximal_extension__p2m_15a542b2_5d3b_464a_bec6_5f7385b1f62b_a1
 -- name    : WilliamsonShmoys.exists_rank_maximal_extension__p2m_15a542b2_5d3b_464a_bec6_5f7385b1f62b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T17:31:44.187236+00:00
 -- url     : https://prove2.me/theorems/33d33e73-0a26-4502-97a8-d2832b8beae5

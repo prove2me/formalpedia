@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.finite_connected_extension_of_strict_supergraph_step__p2m_8e1589da_8236_4d2f_a43b_c94137df9ddf_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:05:57.877812+00:00
 -- url     : https://prove2.me/submissions/a784bcf9-2bcf-430c-8cbf-1fa19d13899d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_finite_maximal_qualifying_supergraph__p2m_7b028f0e_9557_4d63_b320_a3debd61f7f1_a1

@@ -1,0 +1,28 @@
+-- Prove2me | Definitions.Def_ClauseBound_TopN_Budget
+-- name    : ClauseBound_TopN_Budget
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-04T22:33:11.803201+00:00
+-- url     : https://prove2.me/theorems/de74c3cb-19a2-4c37-b041-b4d9119c0f5d
+-- title:
+--   Budget
+-- statement:
+--   Definitions and structural lemmas for Budget, from Anthropic’s pinned ETH development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/rates/ClauseBound/TopN/Budget.lean
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_ClauseBound_TopN_Defs
+import Definitions.Def_PaddedDescent_F_ArithWalk
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Linarith
+set_option autoImplicit false
+section
+namespace ClauseBound.TopN
+open PaddedDescent PaddedDescent.F CountKSatRate
+open WidthK (theta bsum leafC)
+end ClauseBound.TopN
+
+

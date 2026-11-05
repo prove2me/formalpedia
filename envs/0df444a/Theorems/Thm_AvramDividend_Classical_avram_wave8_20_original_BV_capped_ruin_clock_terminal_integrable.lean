@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_20_original_BV_capped_ruin_clock_terminal_integrable
 -- name    : AvramDividend.Classical.avram_wave8_20_original_BV_capped_ruin_clock_terminal_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T21:32:58.588645+00:00
 -- url     : https://prove2.me/theorems/9c1faaa0-1c3f-4302-97ed-1f3da52a20ed

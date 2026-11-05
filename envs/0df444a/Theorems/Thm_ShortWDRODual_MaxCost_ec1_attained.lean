@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_MaxCost_ec1_attained
 -- name    : ShortWDRODual.MaxCost.ec1_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:25:45.037326+00:00
 -- url     : https://prove2.me/theorems/92d585f9-424a-4d0e-8acd-8dbd3da37bf3

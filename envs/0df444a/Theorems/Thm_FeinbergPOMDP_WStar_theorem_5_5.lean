@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeinbergPOMDP_WStar_theorem_5_5
 -- name    : FeinbergPOMDP.WStar.theorem_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:55:54.436599+00:00
 -- url     : https://prove2.me/theorems/46c4a863-d0aa-4746-b744-3b546826d315

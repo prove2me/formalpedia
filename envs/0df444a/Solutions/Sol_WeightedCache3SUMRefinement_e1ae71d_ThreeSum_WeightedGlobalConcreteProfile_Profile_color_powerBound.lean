@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalConcreteProfile.Profile.color_powerBound
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T22:36:22.626752+00:00
+-- url     : https://prove2.me/submissions/4a7536da-a2bf-430c-8ea1-ed1a2c7f9528
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryConcreteProfile
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryActualGlobalQueryRuntime
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryFastProgramBudget
+import Definitions.Def_Submission_ThreeSum_TernarySolverEndBridge
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryProfileRuntime
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalActualColoredRuntime_PB
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalActualColoredRuntime_selected_room
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalActualGlobalQueryRuntime_PB
+
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalConcreteProfile WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalConcreteProfile.Profile
+open Light StageBounds WeightedGlobalLocalParameters WeightedGlobalActualColoredRuntime
+open WeightedGlobalActualPrefixRuntime WeightedGlobalOversizeOverhead Filter
+open scoped Topology
+set_option maxHeartbeats 5000000
+set_option maxRecDepth 24000
+variable {κ : ℕ}
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalConcreteProfile.Profile
+theorem _root_.solution (P : Profile κ) : PowerBound P.colorTime exponent := by
+  have hδ : 0≤microAllowance P.K := by unfold microAllowance; positivity
+  have hroom := (selected_room P.large).le
+  exact WeightedGlobalActualGlobalQueryRuntime.PB
+    P.blockPositive P.radix_gt_one hδ P.carry hroom
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalConcreteProfile.Profile

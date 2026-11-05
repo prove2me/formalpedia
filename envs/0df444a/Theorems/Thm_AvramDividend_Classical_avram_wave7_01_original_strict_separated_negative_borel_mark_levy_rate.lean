@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_01_original_strict_separated_negative_borel_mark_levy_rate
 -- name    : AvramDividend.Classical.avram_wave7_01_original_strict_separated_negative_borel_mark_levy_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T20:21:31.440486+00:00
 -- url     : https://prove2.me/theorems/788041e5-e0e4-48be-83b2-5d12b01273ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_scaleFactor_pos_e
 -- name    : OAI.SharpPlanar.scaleFactor_pos_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:58:36.382443+00:00
 -- url     : https://prove2.me/theorems/9b249e51-e6c5-4cc5-871b-4e07ae85352f

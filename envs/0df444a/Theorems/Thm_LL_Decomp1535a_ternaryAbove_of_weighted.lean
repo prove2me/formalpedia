@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1535a_ternaryAbove_of_weighted
 -- name    : LL_Decomp1535a.ternaryAbove_of_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:20:04.317452+00:00
 -- url     : https://prove2.me/theorems/763c13b4-6ebd-40db-a550-52e972a514e6

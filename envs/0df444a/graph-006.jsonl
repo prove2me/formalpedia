@@ -43131,7 +43131,7 @@
 {"parent": "MazurTransfer_Order13ActualPicardConcreteNormKummerGroupHomData", "child": "MazurTransfer_Order13ActualPicardAlgebraicNormKummerEmbeddingsData", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group543_part06", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group312_part07", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "DiscServLine.SPT.lemma_A7", "child": "DiscServLine_SPT_Model", "via": ["statement"]}
+{"parent": "DiscServLine.SPT.lemma_A7", "child": "DiscServLine_SPT_Model", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group316_part06", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_theta_mesh_generic_group184", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedOriginalPathLaw_canonical_period_source_s2", "child": "OAIE3v2B234", "via": ["solution", "statement"]}

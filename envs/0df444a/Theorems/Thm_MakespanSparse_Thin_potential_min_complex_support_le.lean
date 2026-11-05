@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MakespanSparse_Thin_potential_min_complex_support_le
 -- name    : MakespanSparse.Thin.potential_min_complex_support_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:04:18.699296+00:00
 -- url     : https://prove2.me/theorems/f910e73e-d82e-44c6-b782-7f431656c49d

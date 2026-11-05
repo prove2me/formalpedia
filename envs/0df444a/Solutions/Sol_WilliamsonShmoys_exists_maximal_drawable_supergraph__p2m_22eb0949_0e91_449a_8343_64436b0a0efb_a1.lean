@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_maximal_drawable_supergraph__p2m_22eb0949_0e91_449a_8343_64436b0a0efb_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:06:08.316997+00:00
 -- url     : https://prove2.me/submissions/c3d9f806-af75-4722-a47d-aeda815effa5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_finite_drawable_supergraphs__p2m_34323cd1_374d_4357_8256_7d86cba1e73f_a1

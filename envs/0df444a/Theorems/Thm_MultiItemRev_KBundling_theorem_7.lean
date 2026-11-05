@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KBundling_theorem_7
 -- name    : MultiItemRev.KBundling.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:11:48.101207+00:00
 -- url     : https://prove2.me/theorems/fe0fdb57-2c4d-4439-8810-55cb42f6a034

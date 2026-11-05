@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Convergence_proposition_8
 -- name    : RobustSAA.Convergence.proposition_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:17:20.263734+00:00
 -- url     : https://prove2.me/theorems/87ca9afc-cd89-4f67-9011-ee513799487d

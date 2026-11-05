@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_orthocomplement_bounds_and_order
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.orthocomplement_bounds_and_order
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:53:14.45921+00:00
 -- url     : https://prove2.me/theorems/4e7b3396-e19f-458e-a9f1-215d0af55b3e

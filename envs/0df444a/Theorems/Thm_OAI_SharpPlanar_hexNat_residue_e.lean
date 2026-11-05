@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_hexNat_residue_e
 -- name    : OAI.SharpPlanar.hexNat_residue_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:44:26.074215+00:00
 -- url     : https://prove2.me/theorems/d6fee267-39d3-44ac-adc5-9b27dd089c6f

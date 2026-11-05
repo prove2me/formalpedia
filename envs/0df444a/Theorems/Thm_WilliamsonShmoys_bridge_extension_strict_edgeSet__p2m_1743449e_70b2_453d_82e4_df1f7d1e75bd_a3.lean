@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_bridge_extension_strict_edgeSet__p2m_1743449e_70b2_453d_82e4_df1f7d1e75bd_a3
 -- name    : WilliamsonShmoys.bridge_extension_strict_edgeSet__p2m_1743449e_70b2_453d_82e4_df1f7d1e75bd_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:09:15.771378+00:00
 -- url     : https://prove2.me/theorems/f30a3e63-593e-4761-8c47-8d21d3e62ad2

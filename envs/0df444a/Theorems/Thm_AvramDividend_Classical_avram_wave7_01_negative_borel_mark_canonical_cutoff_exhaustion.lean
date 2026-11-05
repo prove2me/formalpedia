@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_01_negative_borel_mark_canonical_cutoff_exhaustion
 -- name    : AvramDividend.Classical.avram_wave7_01_negative_borel_mark_canonical_cutoff_exhaustion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T00:12:48.635734+00:00
 -- url     : https://prove2.me/theorems/585a7393-1047-48b5-abb8-c132971ad376

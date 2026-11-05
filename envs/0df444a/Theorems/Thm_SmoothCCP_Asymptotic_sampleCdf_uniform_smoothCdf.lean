@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothCCP_Asymptotic_sampleCdf_uniform_smoothCdf
 -- name    : SmoothCCP.Asymptotic.sampleCdf_uniform_smoothCdf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:45:41.218412+00:00
 -- url     : https://prove2.me/theorems/da899e43-fb1b-4f76-bf4d-11749b78d494

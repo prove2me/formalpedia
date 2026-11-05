@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1535a_norm_S_le
 -- name    : LL_Decomp1535a.norm_S_le
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:19:04.637634+00:00
 -- url     : https://prove2.me/theorems/a02f69a9-c200-4c78-8132-f90cc73f129f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KBundling_explicit_bound
 -- name    : MultiItemRev.KBundling.explicit_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:11:51.75291+00:00
 -- url     : https://prove2.me/theorems/f1be9d70-1ffb-4491-98ad-6233f50b5049

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_fintype_card_two_elim__p2m_551112cf_8b4c_4517_8603_726684976d71_a2
 -- name    : fintype_card_two_elim__p2m_551112cf_8b4c_4517_8603_726684976d71_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T22:22:15.864657+00:00
 -- url     : https://prove2.me/theorems/a55460e2-7651-4ceb-b23d-00f5d024161b

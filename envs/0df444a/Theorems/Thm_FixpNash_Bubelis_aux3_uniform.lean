@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Bubelis_aux3_uniform
 -- name    : FixpNash.Bubelis.aux3_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:23.517998+00:00
 -- url     : https://prove2.me/theorems/e10f7658-dbc5-4fee-add3-eab50f9c3ada

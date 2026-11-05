@@ -442,10 +442,10 @@
 {"parent": "ModernOnlineLearning.ParameterFree.kt_one_dim_regret", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.ParameterFree.theorem_13_4", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.ParameterFree.theorem_13_9", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Portfolio.eq_10_5", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.Portfolio.eq_10_5", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Portfolio.lemma_10_5", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Portfolio.lemma_10_6", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.Portfolio.theorem_10_1_uniform", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.Portfolio.theorem_10_1_uniform", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Portfolio.theorem_10_4", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Reductions.eq_12_2", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Reductions.lemma_12_2_convex", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["solution", "statement"]}

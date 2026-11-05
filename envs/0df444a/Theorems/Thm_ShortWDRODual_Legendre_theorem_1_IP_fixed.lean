@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_Legendre_theorem_1_IP_fixed
 -- name    : ShortWDRODual.Legendre.theorem_1_IP_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:35:28.842984+00:00
 -- url     : https://prove2.me/theorems/055dde49-f653-4ed5-8163-1b19656eda31

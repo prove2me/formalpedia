@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_graph_maximal_extension__p2m_1743449e_70b2_453d_82e4_df1f7d1e75bd_a3
 -- name    : WilliamsonShmoys.finite_graph_maximal_extension__p2m_1743449e_70b2_453d_82e4_df1f7d1e75bd_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:09:15.569478+00:00
 -- url     : https://prove2.me/theorems/c7e47ca5-1b04-4237-81ca-6b57f8f3c2cb

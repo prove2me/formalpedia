@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_VaRTail_theorem2_var_tail_inf_convolution
 -- name    : TailRiskSharing.VaRTail.theorem2_var_tail_inf_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:15:50.263276+00:00
 -- url     : https://prove2.me/theorems/7051710b-7d01-4804-b028-561b3db1b7c5

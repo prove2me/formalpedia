@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierAudit_Competition_lemma_OA7
 -- name    : SupplierAudit.Competition.lemma_OA7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:30:26.393679+00:00
 -- url     : https://prove2.me/theorems/852a3f24-7810-4e9d-97d4-d592f7a12c55

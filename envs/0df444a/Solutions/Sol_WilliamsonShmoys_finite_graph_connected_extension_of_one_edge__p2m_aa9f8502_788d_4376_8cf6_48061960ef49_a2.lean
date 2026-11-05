@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.finite_graph_connected_extension_of_one_edge__p2m_aa9f8502_788d_4376_8cf6_48061960ef49_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:40:19.98911+00:00
 -- url     : https://prove2.me/submissions/7612c0df-e645-44bc-bf2e-d36f5ef4d0ac
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_bounded_progress_has_terminal_path__p2m_9fc762a8_5f43_4315_941e_21ea4c59e3e4_a2

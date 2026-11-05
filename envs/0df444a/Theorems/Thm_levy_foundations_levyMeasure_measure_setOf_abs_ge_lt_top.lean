@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_levyMeasure_measure_setOf_abs_ge_lt_top
 -- name    : levy_foundations_levyMeasure_measure_setOf_abs_ge_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T20:44:10.454219+00:00
 -- url     : https://prove2.me/theorems/b8e5f533-30f3-4a2a-8140-62aadccd1e65

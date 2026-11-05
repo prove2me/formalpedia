@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_directed_adj_card_eq_twice_edgeSet_ncard__p2m_badb0730_b4d5_45ef_abd7_880e94965ba4_a1
 -- name    : WilliamsonShmoys.directed_adj_card_eq_twice_edgeSet_ncard__p2m_badb0730_b4d5_45ef_abd7_880e94965ba4_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:22:21.516129+00:00
 -- url     : https://prove2.me/theorems/9b1ef575-c3f2-44f4-890b-4dea59e241c0

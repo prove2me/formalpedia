@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_PaddedDescent_F_Mark_trunc_layersM
+-- name    : PaddedDescent.F.Mark.trunc_layersM
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-05T03:30:06.519423+00:00
+-- url     : https://prove2.me/theorems/0aed2c31-4ed6-47d7-9e30-291187a513fa
+-- title:
+--   Mark: trunc layers M
+-- statement:
+--   The final evaluation is the number of assignments that satisfy ψ.
+--
+--   Source: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/rates/PaddedDescent/F/MarkLayers.lean#L439-L445
+-- source:
+--   https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/rates/PaddedDescent/F/MarkLayers.lean#L439-L445
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_PaddedDescent_F_MarkSums
+import Definitions.Def_PaddedDescent_F_Interfaces
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Tauto
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.GCongr
+import Definitions.Def_PaddedDescent_F_MarkLayers
+import Theorems.Thm_Groundwork_PolyT_length
+attribute [local fun_prop] Groundwork.PolyT.length
+
+
+set_option autoImplicit false
+section
+section
+open PaddedDescent PaddedDescent.F PaddedDescent.F.Mark
+open Finset Groundwork.Prog
+open Layers
+
+theorem PaddedDescent.F.Mark.trunc_layersM {n w : ℕ} (hw : n + 2 ≤ w) {R : ℕ} {ψ : Fml} (hR : 2 ^ R * ψ.length + 5 * 3 ^ R ≤ 3 ^ R * w) :
+    trunc n w ([] :: layersM n w R ψ) = (nSat n ψ : ℤ) := by sorry

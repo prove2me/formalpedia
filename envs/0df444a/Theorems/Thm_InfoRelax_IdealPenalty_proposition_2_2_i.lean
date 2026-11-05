@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelax_IdealPenalty_proposition_2_2_i
 -- name    : InfoRelax.IdealPenalty.proposition_2_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:14.858068+00:00
 -- url     : https://prove2.me/theorems/71b24159-1102-4539-9e51-f9b2e7c4138c

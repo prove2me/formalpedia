@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfisterCEP_allOnes_eigensystem
 -- name    : PfisterCEP.allOnes_eigensystem
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:26:03.164629+00:00
 -- url     : https://prove2.me/theorems/919aa515-27be-4282-9642-c3d2ab5f3775

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1528c_theta_two_mul_sub_le
 -- name    : LL_Decomp1528c.theta_two_mul_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:31:03.311973+00:00
 -- url     : https://prove2.me/theorems/47b0103b-db29-4e19-939c-54242c13a77e

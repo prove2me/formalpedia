@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KBundling_proposition_13_i
 -- name    : MultiItemRev.KBundling.proposition_13_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:12:00.738319+00:00
 -- url     : https://prove2.me/theorems/ab3df912-c3b6-4038-b124-265b97e34d1a

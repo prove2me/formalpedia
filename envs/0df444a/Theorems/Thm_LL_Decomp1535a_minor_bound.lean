@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1535a_minor_bound
 -- name    : LL_Decomp1535a.minor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:11:51.618987+00:00
 -- url     : https://prove2.me/theorems/cd4e3dd2-f809-44cf-8e8f-11fd8c32a341

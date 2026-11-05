@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_maxSystolicRatio_mono_and_exists_eq
 -- name    : Viterbo.maxSystolicRatio_mono_and_exists_eq
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T08:18:12.40873+00:00
 -- url     : https://prove2.me/theorems/4f24676c-4a77-49fe-aaa0-34af2b2371d4

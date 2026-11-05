@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornDRO_Duality_theorem_1
 -- name    : SinkhornDRO.Duality.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:24:18.351119+00:00
 -- url     : https://prove2.me/theorems/c07c05a2-f1bf-40a3-9600-609e607d9a79

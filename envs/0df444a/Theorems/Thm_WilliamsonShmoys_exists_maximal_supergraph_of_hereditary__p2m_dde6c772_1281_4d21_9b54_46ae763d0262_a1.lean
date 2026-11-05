@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_supergraph_of_hereditary__p2m_dde6c772_1281_4d21_9b54_46ae763d0262_a1
 -- name    : WilliamsonShmoys.exists_maximal_supergraph_of_hereditary__p2m_dde6c772_1281_4d21_9b54_46ae763d0262_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:44:53.595529+00:00
 -- url     : https://prove2.me/theorems/79adc0d7-3a11-418b-99ea-c41dca74eed5

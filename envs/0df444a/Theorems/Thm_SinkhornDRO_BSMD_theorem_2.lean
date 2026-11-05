@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornDRO_BSMD_theorem_2
 -- name    : SinkhornDRO.BSMD.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:27:14.286665+00:00
 -- url     : https://prove2.me/theorems/e703ba3e-f32e-4b5c-bf97-7f14e15b4858

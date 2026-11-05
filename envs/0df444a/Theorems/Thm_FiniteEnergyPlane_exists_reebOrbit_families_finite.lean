@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_reebOrbit_families_finite
 -- name    : FiniteEnergyPlane.exists_reebOrbit_families_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T16:23:27.975626+00:00
 -- url     : https://prove2.me/theorems/5961051f-2ed5-46e9-b98b-b96646e5e5c7

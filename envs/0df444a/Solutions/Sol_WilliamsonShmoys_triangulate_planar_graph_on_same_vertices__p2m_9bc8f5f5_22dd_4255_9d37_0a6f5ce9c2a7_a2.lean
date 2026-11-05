@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.triangulate_planar_graph_on_same_vertices__p2m_9bc8f5f5_22dd_4255_9d37_0a6f5ce9c2a7_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:38:28.7252+00:00
 -- url     : https://prove2.me/submissions/7f21b016-0895-452c-a93f-67c4c24caf0b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

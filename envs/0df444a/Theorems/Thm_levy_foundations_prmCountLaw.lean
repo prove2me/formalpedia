@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_prmCountLaw
 -- name    : levy_foundations_prmCountLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T15:16:45.780989+00:00
 -- url     : https://prove2.me/theorems/c9c702fe-3174-4bf2-97df-232295412e4c

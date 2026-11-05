@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_11_either_future_clock_source_ubv_value_bridge
 -- name    : AvramDividend.Classical.avram_wave7_11_either_future_clock_source_ubv_value_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T21:47:46.137691+00:00
 -- url     : https://prove2.me/theorems/e81b7340-880c-44b9-9810-51290da15ae3

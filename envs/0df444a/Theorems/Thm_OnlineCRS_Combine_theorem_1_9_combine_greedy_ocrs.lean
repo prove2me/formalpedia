@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Combine_theorem_1_9_combine_greedy_ocrs
 -- name    : OnlineCRS.Combine.theorem_1_9_combine_greedy_ocrs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:31:11.552777+00:00
 -- url     : https://prove2.me/theorems/36f5761a-c4b3-46e3-b0e7-4a5ef8fae9ae

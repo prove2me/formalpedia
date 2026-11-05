@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp126b_lemma8
 -- name    : LL_Decomp126b.lemma8
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:52:25.63974+00:00
 -- url     : https://prove2.me/theorems/18289e61-e64f-44ba-bb04-68610a0908c7

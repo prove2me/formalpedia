@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LasserreFC_FinConv_proposition_3_4
 -- name    : LasserreFC.FinConv.proposition_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:33:29.549785+00:00
 -- url     : https://prove2.me/theorems/11e86962-b427-417b-88c4-d4fc8d3dbb51

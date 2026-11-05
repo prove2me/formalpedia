@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_delete_edge_path_connected__p2m_e60abc1f_4545_4a18_800d_698b86a0156b_a1
 -- name    : WilliamsonShmoys.delete_edge_path_connected__p2m_e60abc1f_4545_4a18_800d_698b86a0156b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:21:12.297425+00:00
 -- url     : https://prove2.me/theorems/5a8b9ec1-c262-427b-9a6a-a4ab7cb1376e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_compoundPoissonTripleExponentIdentity
 -- name    : levy_foundations_compoundPoissonTripleExponentIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:57:20.490003+00:00
 -- url     : https://prove2.me/theorems/930cedf8-a433-42c9-a15e-7f58be286921

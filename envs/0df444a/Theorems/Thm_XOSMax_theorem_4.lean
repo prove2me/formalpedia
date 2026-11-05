@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XOSMax_theorem_4
 -- name    : XOSMax.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:28:53.719236+00:00
 -- url     : https://prove2.me/theorems/86c6d5bb-ff90-43b0-8afd-081981ab2e94

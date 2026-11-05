@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Tight_kRule_value_le
 -- name    : CorreaThreshold.Tight.kRule_value_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:44.603982+00:00
 -- url     : https://prove2.me/theorems/2541e037-e508-4036-b6e9-010eb2b1cf07

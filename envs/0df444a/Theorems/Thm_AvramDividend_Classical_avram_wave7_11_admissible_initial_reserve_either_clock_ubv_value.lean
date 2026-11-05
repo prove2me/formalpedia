@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_11_admissible_initial_reserve_either_clock_ubv_value
 -- name    : AvramDividend.Classical.avram_wave7_11_admissible_initial_reserve_either_clock_ubv_value
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T21:49:01.887035+00:00
 -- url     : https://prove2.me/theorems/05ca6c0b-4c63-4d81-983c-4f24c160eaf0

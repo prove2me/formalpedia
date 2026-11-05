@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedWorks_OnlineTime_theorem_4
 -- name    : GreedWorks.OnlineTime.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:07:39.065851+00:00
 -- url     : https://prove2.me/theorems/9e63fe29-f85d-455b-aa1d-15301fa44f98

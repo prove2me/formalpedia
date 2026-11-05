@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NicerEars_TwoEC_claim_p23
 -- name    : NicerEars.TwoEC.claim_p23
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:40.561384+00:00
 -- url     : https://prove2.me/theorems/0a3445ca-9488-4018-be7f-a763ab520a3d

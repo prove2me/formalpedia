@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LightningNetwork_RateBounds_theorem_2_bounds_on_payment_rates
 -- name    : LightningNetwork.RateBounds.theorem_2_bounds_on_payment_rates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:56:08.040017+00:00
 -- url     : https://prove2.me/theorems/3c159887-d807-4589-a2ac-21f61e69c1ea

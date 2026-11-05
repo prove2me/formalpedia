@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticProg_RecourseKKT_theorem_9
 -- name    : StochasticProg.RecourseKKT.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:54:40.180821+00:00
 -- url     : https://prove2.me/theorems/a9d051f5-7517-43d0-8274-d8fca519a0ef

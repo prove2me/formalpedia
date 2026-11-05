@@ -1,0 +1,26 @@
+-- Prove2me | solution 1 for GeneralPieces.Ring.opMon_smul
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T22:38:04.122642+00:00
+-- url     : https://prove2.me/submissions/3f49b91f-2abb-401b-bd04-2e6a0fd1b036
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_GeneralPieces_Ring_Basic
+import Definitions.Def_GeneralPieces_Ring_OpFacts
+import Theorems.Thm_GeneralPieces_Ring_Bd_smul
+import Theorems.Thm_GeneralPieces_Ring_opMon_eq_opWin
+import Theorems.Thm_GeneralPieces_Ring_exists_window
+import Theorems.Thm_GeneralPieces_Ring_opWin_smul
+
+set_option autoImplicit false
+section
+section
+open GeneralPieces GeneralPieces.Ring
+open AppHalfPieces MvPolynomial Finset
+namespace GeneralPieces.Ring
+theorem _root_.solution (μ : List ℕ+) (r : ℤ) (q : ℚ) (f : V) : opMon μ r (q • f) = q • opMon μ r f := by
+  obtain ⟨E, M, hE, h1, h2⟩ := exists_window f r
+  rw [opMon_eq_opWin (hE.smul q) μ h1 h2, opMon_eq_opWin hE μ h1 h2, opWin_smul]
+end GeneralPieces.Ring

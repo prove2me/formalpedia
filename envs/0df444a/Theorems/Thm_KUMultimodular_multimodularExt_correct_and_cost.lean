@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KUMultimodular_multimodularExt_correct_and_cost
 -- name    : KUMultimodular.multimodularExt_correct_and_cost
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:04:39.935381+00:00
 -- url     : https://prove2.me/theorems/1d2d249b-fab8-4433-9987-21af43516471

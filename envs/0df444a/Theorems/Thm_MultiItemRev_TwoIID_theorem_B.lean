@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_TwoIID_theorem_B
 -- name    : MultiItemRev.TwoIID.theorem_B
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:30:54.414986+00:00
 -- url     : https://prove2.me/theorems/eaa7a957-ae40-4c57-903e-5b671eb55a8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_bound_from_face_count__p2m_84c43119_f87e_4738_abb0_0796ef4e5b94_a2
 -- name    : WilliamsonShmoys.edge_bound_from_face_count__p2m_84c43119_f87e_4738_abb0_0796ef4e5b94_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:49:59.933259+00:00
 -- url     : https://prove2.me/theorems/d4f8d387-9206-45b9-aad3-c465e5520f51

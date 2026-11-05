@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_local_extension_strict_edge_count__p2m_c1868ea9_2f79_4b93_ad6c_bc634ef3355f_a2
 -- name    : WilliamsonShmoys.local_extension_strict_edge_count__p2m_c1868ea9_2f79_4b93_ad6c_bc634ef3355f_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:16:40.1342+00:00
 -- url     : https://prove2.me/theorems/62f2497d-bcc3-491f-aebd-6edd152459b6

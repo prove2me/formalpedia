@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPricing_Compare_proposition_8
 -- name    : SLPricing.Compare.proposition_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:56:43.636738+00:00
 -- url     : https://prove2.me/theorems/cd08de47-9e13-426d-811d-8ac347deb9ec

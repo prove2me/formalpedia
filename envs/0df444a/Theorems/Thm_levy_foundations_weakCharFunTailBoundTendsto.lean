@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_weakCharFunTailBoundTendsto
 -- name    : levy_foundations_weakCharFunTailBoundTendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:19:43.785008+00:00
 -- url     : https://prove2.me/theorems/f56de1af-a8f9-4193-b6c0-5954214c63ae

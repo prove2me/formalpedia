@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NemirovskiProx_eq_2_15_one_step
 -- name    : NemirovskiProx.eq_2_15_one_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:49:11.290716+00:00
 -- url     : https://prove2.me/theorems/e8e38aac-66d9-45cc-a8be-50125f00a0bc

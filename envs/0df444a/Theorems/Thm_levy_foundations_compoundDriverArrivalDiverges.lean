@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_compoundDriverArrivalDiverges
 -- name    : levy_foundations_compoundDriverArrivalDiverges
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:45:18.142328+00:00
 -- url     : https://prove2.me/theorems/9a47a925-ae84-4e29-8b77-5f31e660dedb

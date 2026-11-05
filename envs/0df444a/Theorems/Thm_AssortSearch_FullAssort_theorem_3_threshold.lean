@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_FullAssort_theorem_3_threshold
 -- name    : AssortSearch.FullAssort.theorem_3_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:20.978302+00:00
 -- url     : https://prove2.me/theorems/4b994e9d-7552-4d1f-a74a-4fc9a479c4c2

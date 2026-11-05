@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543a_block_cauchy
 -- name    : LL_Decomp1543a.block_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:38:33.292418+00:00
 -- url     : https://prove2.me/theorems/aeab5a83-a44b-4217-b861-b7c8142a74bb

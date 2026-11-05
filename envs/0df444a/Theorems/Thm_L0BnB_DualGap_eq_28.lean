@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_DualGap_eq_28
 -- name    : L0BnB.DualGap.eq_28
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:29:20.017641+00:00
 -- url     : https://prove2.me/theorems/253fa24a-5b1e-48d7-9e66-06aea4587331

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PutermanMDP_SemiMarkov_finite_evaluation
 -- name    : PutermanMDP.SemiMarkov.finite_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:34:32.448979+00:00
 -- url     : https://prove2.me/theorems/54a02fef-4727-4a10-bd71-facc6a7e2543

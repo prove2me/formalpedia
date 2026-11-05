@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoutingBC_Chaining_sequence_rbc_eq_sum_chained_dependencies
 -- name    : RoutingBC.Chaining.sequence_rbc_eq_sum_chained_dependencies
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:42:41.662725+00:00
 -- url     : https://prove2.me/theorems/3289d5ad-3502-4ba6-9e30-65445c0b3057

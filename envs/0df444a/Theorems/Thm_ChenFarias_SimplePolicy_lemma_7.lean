@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenFarias_SimplePolicy_lemma_7
 -- name    : ChenFarias.SimplePolicy.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:35.186331+00:00
 -- url     : https://prove2.me/theorems/f2f3cc4f-a153-425e-a257-8e9f1de5e0c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P41_resolventProduct
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P41.resolventProduct
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:33:36.011903+00:00
 -- url     : https://prove2.me/theorems/9ff42468-591f-4a06-843f-da419aebbc46

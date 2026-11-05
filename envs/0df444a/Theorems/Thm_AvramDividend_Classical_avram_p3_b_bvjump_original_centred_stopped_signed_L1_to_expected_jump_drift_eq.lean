@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p3_b_bvjump_original_centred_stopped_signed_L1_to_expected_jump_drift_eq
 -- name    : AvramDividend.Classical.avram_p3_b_bvjump_original_centred_stopped_signed_L1_to_expected_jump_drift_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T21:32:29.850115+00:00
 -- url     : https://prove2.me/theorems/a25d080b-86d4-4f57-a7f3-4af9432cbfbd

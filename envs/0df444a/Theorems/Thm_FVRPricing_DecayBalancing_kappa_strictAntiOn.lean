@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FVRPricing_DecayBalancing_kappa_strictAntiOn
 -- name    : FVRPricing.DecayBalancing.kappa_strictAntiOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:48:17.275284+00:00
 -- url     : https://prove2.me/theorems/ff6a2d64-09dc-4d6f-8e4b-be5aae231664

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_hasLoopWind_cylInf_eq_windInf_sub
 -- name    : FiniteEnergyPlane.hasLoopWind_cylInf_eq_windInf_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T16:25:29.87274+00:00
 -- url     : https://prove2.me/theorems/e5c4459a-5fef-4a8b-952d-e088da704ce6

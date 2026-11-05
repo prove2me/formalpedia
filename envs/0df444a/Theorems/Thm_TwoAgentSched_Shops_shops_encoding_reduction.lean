@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_Shops_shops_encoding_reduction
 -- name    : TwoAgentSched.Shops.shops_encoding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:41:14.428969+00:00
 -- url     : https://prove2.me/theorems/447fa1fe-d04a-4e1d-9b01-e1dc86a47518

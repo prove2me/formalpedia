@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani_H_subset_achievable
 -- name    : CoffmanMitrani.H_subset_achievable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:26:04.313588+00:00
 -- url     : https://prove2.me/theorems/86672be0-1b04-4548-a689-9cfa7ae0073b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncProx_Randomized_eq58
 -- name    : IncProx.Randomized.eq58
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:30.791847+00:00
 -- url     : https://prove2.me/theorems/546b8e2b-c702-45a4-9ca6-a07ac9e7273b

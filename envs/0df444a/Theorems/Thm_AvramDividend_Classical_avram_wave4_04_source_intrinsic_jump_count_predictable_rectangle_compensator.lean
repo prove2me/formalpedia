@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave4_04_source_intrinsic_jump_count_predictable_rectangle_compensator
 -- name    : AvramDividend.Classical.avram_wave4_04_source_intrinsic_jump_count_predictable_rectangle_compensator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-31T10:57:45.178993+00:00
 -- url     : https://prove2.me/theorems/393b03a8-2e9a-43d8-b415-854d86d58104

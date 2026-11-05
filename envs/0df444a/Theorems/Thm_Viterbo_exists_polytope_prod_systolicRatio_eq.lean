@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_exists_polytope_prod_systolicRatio_eq
 -- name    : Viterbo.exists_polytope_prod_systolicRatio_eq
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T08:17:28.937171+00:00
 -- url     : https://prove2.me/theorems/ae499a0e-73bc-4fa4-ac16-7394dae8dcc2

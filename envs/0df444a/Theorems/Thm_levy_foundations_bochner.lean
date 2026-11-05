@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_bochner
 -- name    : levy_foundations_bochner
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-27T07:47:39.748675+00:00
 -- url     : https://prove2.me/theorems/7b51dc81-b9d5-4524-b586-392469091ebc

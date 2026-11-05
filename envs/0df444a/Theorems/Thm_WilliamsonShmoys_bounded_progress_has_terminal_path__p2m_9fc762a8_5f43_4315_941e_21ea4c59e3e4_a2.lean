@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_bounded_progress_has_terminal_path__p2m_9fc762a8_5f43_4315_941e_21ea4c59e3e4_a2
 -- name    : WilliamsonShmoys.bounded_progress_has_terminal_path__p2m_9fc762a8_5f43_4315_941e_21ea4c59e3e4_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:28:38.473568+00:00
 -- url     : https://prove2.me/theorems/cbe37b09-4d1a-47e1-867f-6fdffa7c0ff4

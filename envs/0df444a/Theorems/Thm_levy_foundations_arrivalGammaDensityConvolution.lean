@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_arrivalGammaDensityConvolution
 -- name    : levy_foundations_arrivalGammaDensityConvolution
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:54:18.218236+00:00
 -- url     : https://prove2.me/theorems/2002b91e-5527-4a5c-8905-5212cea68b29

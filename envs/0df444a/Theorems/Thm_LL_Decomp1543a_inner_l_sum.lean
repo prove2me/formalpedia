@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543a_inner_l_sum
 -- name    : LL_Decomp1543a.inner_l_sum
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:40:41.00899+00:00
 -- url     : https://prove2.me/theorems/52126ac4-d65d-4619-b4a8-aae74cd839bc

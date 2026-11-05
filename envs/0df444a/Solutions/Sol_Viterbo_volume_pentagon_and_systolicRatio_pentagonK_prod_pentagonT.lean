@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Viterbo.volume_pentagon_and_systolicRatio_pentagonK_prod_pentagonT
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T10:51:26.81772+00:00
 -- url     : https://prove2.me/submissions/0b526c46-d7b0-46e5-86df-73af5664e664
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_SymmetricPolar
 import Definitions.Def_Viterbo

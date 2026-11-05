@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_weakCharFunTightness
 -- name    : levy_foundations_weakCharFunTightness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:20:18.805215+00:00
 -- url     : https://prove2.me/theorems/2fc4aaad-bbb6-4a7d-aa0a-a2289b051d6b

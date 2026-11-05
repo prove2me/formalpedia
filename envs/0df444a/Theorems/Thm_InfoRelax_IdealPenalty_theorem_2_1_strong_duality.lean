@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelax_IdealPenalty_theorem_2_1_strong_duality
 -- name    : InfoRelax.IdealPenalty.theorem_2_1_strong_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:34.660781+00:00
 -- url     : https://prove2.me/theorems/f93bbd78-cbc5-40f9-8e3a-cd832cfe20dd

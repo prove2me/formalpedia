@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_block_edge_bound_aggregation__p2m_a70877ba_ee67_4eb5_a950_6d5f423393ca_a2
 -- name    : WilliamsonShmoys.finite_block_edge_bound_aggregation__p2m_a70877ba_ee67_4eb5_a950_6d5f423393ca_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:47:03.912061+00:00
 -- url     : https://prove2.me/theorems/731c12b2-a7c8-4762-9428-5f2daf164604

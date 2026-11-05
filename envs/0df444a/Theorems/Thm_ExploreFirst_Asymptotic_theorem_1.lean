@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Asymptotic_theorem_1
 -- name    : ExploreFirst.Asymptotic.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:26:33.432976+00:00
 -- url     : https://prove2.me/theorems/1de37dee-3ff0-47f4-94c4-7160eec67cc8

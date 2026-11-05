@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReinfRegGames_StrictStable_proposition_A_1_iii
 -- name    : ReinfRegGames.StrictStable.proposition_A_1_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:08:05.914874+00:00
 -- url     : https://prove2.me/theorems/46a1c325-3dda-4203-882b-7add4cfaf69b

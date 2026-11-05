@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_iterate_planar_extensions_for_pairs__p2m_1f4c177d_eb20_4750_9a13_0c928226c3d6_a1
 -- name    : WilliamsonShmoys.iterate_planar_extensions_for_pairs__p2m_1f4c177d_eb20_4750_9a13_0c928226c3d6_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:17:46.090128+00:00
 -- url     : https://prove2.me/theorems/d6f5c40d-4678-423c-a95b-17addb4a7c75

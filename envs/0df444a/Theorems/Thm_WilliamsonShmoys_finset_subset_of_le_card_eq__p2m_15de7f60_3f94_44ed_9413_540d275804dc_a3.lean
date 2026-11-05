@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finset_subset_of_le_card_eq__p2m_15de7f60_3f94_44ed_9413_540d275804dc_a3
 -- name    : WilliamsonShmoys.finset_subset_of_le_card_eq__p2m_15de7f60_3f94_44ed_9413_540d275804dc_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:12:16.021794+00:00
 -- url     : https://prove2.me/theorems/2ccd04df-4437-4c53-8d7c-a44803aa8cee

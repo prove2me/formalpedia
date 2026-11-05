@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_TwoIID_rhs12_le
 -- name    : MultiItemRev.TwoIID.rhs12_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:27.653505+00:00
 -- url     : https://prove2.me/theorems/e525cde6-eeba-43ec-89b8-0de94be6925b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCombOpt_Exp2Full_theorem_1_full_domain
 -- name    : OnlineCombOpt.Exp2Full.theorem_1_full_domain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-28T00:36:01.803396+00:00
 -- url     : https://prove2.me/theorems/12f45264-f329-4049-bd4d-b9217aa65b52

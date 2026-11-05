@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1526a_sum_rep_odd_le
 -- name    : LL_Decomp1526a.sum_rep_odd_le
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:05:59.164751+00:00
 -- url     : https://prove2.me/theorems/a9fb4d98-82e6-4eec-8739-a8cec8dae885

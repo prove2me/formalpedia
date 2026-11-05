@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbabilityTheory_IsPoissonPointFamily_indepFun_pieceBlocks
 -- name    : ProbabilityTheory.IsPoissonPointFamily.indepFun_pieceBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T08:05:05.469371+00:00
 -- url     : https://prove2.me/theorems/33d18912-e461-4dcb-9a1b-63d0718466e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_prmCampbell
 -- name    : levy_foundations_prmCampbell
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T15:17:09.656095+00:00
 -- url     : https://prove2.me/theorems/abcfc254-3a21-462b-b0a1-b535fe67a34f

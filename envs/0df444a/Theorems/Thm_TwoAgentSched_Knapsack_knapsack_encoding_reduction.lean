@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_Knapsack_knapsack_encoding_reduction
 -- name    : TwoAgentSched.Knapsack.knapsack_encoding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:41:22.391959+00:00
 -- url     : https://prove2.me/theorems/bef82861-0515-4c24-b867-16f0ecd53b9a

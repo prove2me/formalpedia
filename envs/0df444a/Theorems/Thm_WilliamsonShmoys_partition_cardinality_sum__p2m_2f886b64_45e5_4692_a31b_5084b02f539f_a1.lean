@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_partition_cardinality_sum__p2m_2f886b64_45e5_4692_a31b_5084b02f539f_a1
 -- name    : WilliamsonShmoys.partition_cardinality_sum__p2m_2f886b64_45e5_4692_a31b_5084b02f539f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:13:27.809623+00:00
 -- url     : https://prove2.me/theorems/271a7c0d-63c8-473a-b0db-ae1f1287f5cd

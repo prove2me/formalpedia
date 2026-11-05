@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicGames_UniformMixed_corollary_5_2
 -- name    : HarmonicGames.UniformMixed.corollary_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:46:39.326983+00:00
 -- url     : https://prove2.me/theorems/ffe1cc7c-45ff-4df7-bbd0-665609bbe9c4

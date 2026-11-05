@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543a_S_split
 -- name    : LL_Decomp1543a.S_split
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:52:33.392216+00:00
 -- url     : https://prove2.me/theorems/94ec3356-e47a-4bd0-88e6-40999cc2a2da

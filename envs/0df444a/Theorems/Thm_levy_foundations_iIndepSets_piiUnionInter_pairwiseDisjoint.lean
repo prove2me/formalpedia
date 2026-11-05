@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_iIndepSets_piiUnionInter_pairwiseDisjoint
 -- name    : levy_foundations_iIndepSets_piiUnionInter_pairwiseDisjoint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:06:26.520078+00:00
 -- url     : https://prove2.me/theorems/9b7c92ad-bab9-48b8-8b68-4bf82139626b

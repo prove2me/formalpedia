@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_weakCharFunTendstoToWeak
 -- name    : levy_foundations_weakCharFunTendstoToWeak
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:20:41.966714+00:00
 -- url     : https://prove2.me/theorems/000fee4a-3ea8-424a-af7e-7b1934461592

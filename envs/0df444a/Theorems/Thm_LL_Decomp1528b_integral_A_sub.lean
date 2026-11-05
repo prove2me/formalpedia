@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1528b_integral_A_sub
 -- name    : LL_Decomp1528b.integral_A_sub
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:08:29.390784+00:00
 -- url     : https://prove2.me/theorems/4de07b84-31f8-4c82-888a-8f63dc23cbf9

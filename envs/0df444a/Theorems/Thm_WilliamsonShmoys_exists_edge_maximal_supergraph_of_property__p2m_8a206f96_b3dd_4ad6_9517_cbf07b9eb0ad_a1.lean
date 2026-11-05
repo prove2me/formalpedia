@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_edge_maximal_supergraph_of_property__p2m_8a206f96_b3dd_4ad6_9517_cbf07b9eb0ad_a1
 -- name    : WilliamsonShmoys.exists_edge_maximal_supergraph_of_property__p2m_8a206f96_b3dd_4ad6_9517_cbf07b9eb0ad_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:37:46.871176+00:00
 -- url     : https://prove2.me/theorems/1db78285-89d9-49bd-a745-5e1daaf30ce7

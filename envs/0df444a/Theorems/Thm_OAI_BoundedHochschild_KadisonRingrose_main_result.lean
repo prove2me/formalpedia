@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BoundedHochschild_KadisonRingrose_main_result
 -- name    : OAI.BoundedHochschild.KadisonRingrose.main_result
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:23.909204+00:00
 -- url     : https://prove2.me/theorems/56489584-db79-4fea-9b50-d4dd9ae2164c

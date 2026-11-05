@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finiteHereditaryMaximalSupergraph__p2m_3647f07c_750e_4c3e_8be8_ca29b1e4d823_a1
 -- name    : finiteHereditaryMaximalSupergraph__p2m_3647f07c_750e_4c3e_8be8_ca29b1e4d823_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:37:08.378493+00:00
 -- url     : https://prove2.me/theorems/f33abbf4-96d9-4363-8418-29cc7e5ff2c9

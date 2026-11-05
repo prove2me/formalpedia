@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_Legendre_legendre_eq_softValue
 -- name    : ShortWDRODual.Legendre.legendre_eq_softValue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:35:21.795847+00:00
 -- url     : https://prove2.me/theorems/9acd4e0d-dfc5-4c83-88ab-287b2bb8942b

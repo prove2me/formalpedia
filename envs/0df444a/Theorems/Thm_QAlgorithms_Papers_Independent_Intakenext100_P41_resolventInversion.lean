@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P41_resolventInversion
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P41.resolventInversion
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:33:01.345302+00:00
 -- url     : https://prove2.me/theorems/8a14bc33-cff7-473e-ba45-e538bee7a20c

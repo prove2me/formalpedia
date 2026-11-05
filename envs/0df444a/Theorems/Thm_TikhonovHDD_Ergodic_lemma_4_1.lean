@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TikhonovHDD_Ergodic_lemma_4_1
 -- name    : TikhonovHDD.Ergodic.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:12.808556+00:00
 -- url     : https://prove2.me/theorems/cb0cc9c4-35cb-40bf-854e-678f561da2e0

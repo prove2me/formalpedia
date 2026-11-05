@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_edge_maximal_planar_completion__p2m_92efd15a_1c37_4034_81a1_98dbd8d1208a_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:35:50.450579+00:00
 -- url     : https://prove2.me/submissions/dbffab32-73d5-428c-b437-4a593600582a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_finite_property_has_maximal_supergraph__p2m_e39dc392_ef53_43de_92b9_a9ba96581299_a2
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

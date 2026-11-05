@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p2_e_compensator_public_weighted_from_zero_origin_rate
 -- name    : AvramDividend.Classical.avram_p2_e_compensator_public_weighted_from_zero_origin_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-04T00:20:32.823767+00:00
 -- url     : https://prove2.me/theorems/12ff9a1a-8374-40b1-8ada-93aaea66f712

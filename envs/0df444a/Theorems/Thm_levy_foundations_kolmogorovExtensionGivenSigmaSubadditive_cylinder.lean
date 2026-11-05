@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_kolmogorovExtensionGivenSigmaSubadditive_cylinder
 -- name    : levy_foundations_kolmogorovExtensionGivenSigmaSubadditive_cylinder
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:29:42.076834+00:00
 -- url     : https://prove2.me/theorems/60e31875-4937-4a45-9036-fd3a9f37e141

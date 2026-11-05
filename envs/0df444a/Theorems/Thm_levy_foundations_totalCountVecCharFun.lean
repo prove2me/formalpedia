@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_totalCountVecCharFun
 -- name    : levy_foundations_totalCountVecCharFun
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:03:57.458594+00:00
 -- url     : https://prove2.me/theorems/e15ea110-1658-42bb-bbf0-b03a48f6544f

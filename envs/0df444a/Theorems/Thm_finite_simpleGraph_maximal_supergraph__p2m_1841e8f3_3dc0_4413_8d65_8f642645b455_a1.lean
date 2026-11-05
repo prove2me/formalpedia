@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_simpleGraph_maximal_supergraph__p2m_1841e8f3_3dc0_4413_8d65_8f642645b455_a1
 -- name    : finite_simpleGraph_maximal_supergraph__p2m_1841e8f3_3dc0_4413_8d65_8f642645b455_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T22:09:01.378521+00:00
 -- url     : https://prove2.me/theorems/fb02b1cf-9de2-4475-bf5d-05d90b1d6e99

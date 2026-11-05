@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NemirovskiProx_proposition_2_2
 -- name    : NemirovskiProx.proposition_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:50:50.71274+00:00
 -- url     : https://prove2.me/theorems/f54c1fde-d193-4f07-8a7d-9554e15406ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1528b_mertens_prod_lower
 -- name    : LL_Decomp1528b.mertens_prod_lower
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:09:10.463692+00:00
 -- url     : https://prove2.me/theorems/151155c7-01db-4c0b-9cf3-efa83b4f8fa2

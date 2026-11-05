@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothCCP_Asymptotic_eq_3_4
 -- name    : SmoothCCP.Asymptotic.eq_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:47:05.005189+00:00
 -- url     : https://prove2.me/theorems/2c3fbeca-620f-43ab-a17a-feb02c0457f7

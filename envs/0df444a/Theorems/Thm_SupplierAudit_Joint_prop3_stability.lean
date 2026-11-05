@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierAudit_Joint_prop3_stability
 -- name    : SupplierAudit.Joint.prop3_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:31:29.961282+00:00
 -- url     : https://prove2.me/theorems/aae916ee-e92c-405b-bd58-368d46375e49

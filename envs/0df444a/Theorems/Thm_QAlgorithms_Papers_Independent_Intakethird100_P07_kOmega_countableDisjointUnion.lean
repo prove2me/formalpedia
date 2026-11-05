@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_kOmega_countableDisjointUnion
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.kOmega_countableDisjointUnion
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:30:02.473865+00:00
 -- url     : https://prove2.me/theorems/fd9d2d2c-cd76-43f0-b5f1-54fc15f11328

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscServLine_SPT_lemma_A7
 -- name    : DiscServLine.SPT.lemma_A7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:31.165244+00:00
 -- url     : https://prove2.me/theorems/5344f61c-ed2e-43bc-86f1-6e2267f534b7

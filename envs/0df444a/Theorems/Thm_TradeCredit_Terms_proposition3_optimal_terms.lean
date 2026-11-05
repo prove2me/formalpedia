@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradeCredit_Terms_proposition3_optimal_terms
 -- name    : TradeCredit.Terms.proposition3_optimal_terms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:09:59.861966+00:00
 -- url     : https://prove2.me/theorems/e350aa7c-c1c4-4c97-8192-294d232a3f3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FVRPricing_DecayBalancing_lemma_10_scale_invariance
 -- name    : FVRPricing.DecayBalancing.lemma_10_scale_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:56.517486+00:00
 -- url     : https://prove2.me/theorems/83c5603d-731b-423c-a172-ac2ec886eaed

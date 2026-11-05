@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HellingerSubadd_lemmaA13_hellinger_subadditivity
 -- name    : HellingerSubadd.lemmaA13_hellinger_subadditivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:56:07.616146+00:00
 -- url     : https://prove2.me/theorems/7eeb124b-eb1d-47a7-ae2a-bd13a499f5fa

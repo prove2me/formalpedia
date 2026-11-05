@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_MaxCost_example_2_proj
 -- name    : ShortWDRODual.MaxCost.example_2_proj
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:24:59.834898+00:00
 -- url     : https://prove2.me/theorems/2881a883-50d5-42b2-93e0-b4488b7dcba2

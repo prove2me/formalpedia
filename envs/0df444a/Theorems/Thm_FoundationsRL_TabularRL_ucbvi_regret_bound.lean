@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_TabularRL_ucbvi_regret_bound
 -- name    : FoundationsRL.TabularRL.ucbvi_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:22:07.210228+00:00
 -- url     : https://prove2.me/theorems/fdbb17c9-56e4-497d-a143-d9ab3ae9490e

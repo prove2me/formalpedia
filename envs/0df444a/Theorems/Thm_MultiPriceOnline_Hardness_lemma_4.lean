@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Hardness_lemma_4
 -- name    : MultiPriceOnline.Hardness.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:37.062584+00:00
 -- url     : https://prove2.me/theorems/ff7068cd-39bf-4908-b7d0-9df16d0fd8f7

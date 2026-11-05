@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani_priority_achievable
 -- name    : CoffmanMitrani.priority_achievable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:24:56.52667+00:00
 -- url     : https://prove2.me/theorems/e14b429d-ef17-4406-a9b2-731f3aecc662

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_probability_iteratedConvolutionPower
 -- name    : levy_foundations_probability_iteratedConvolutionPower
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:25:37.405091+00:00
 -- url     : https://prove2.me/theorems/2e4a994a-355b-4e26-a22a-a4f4f701d908

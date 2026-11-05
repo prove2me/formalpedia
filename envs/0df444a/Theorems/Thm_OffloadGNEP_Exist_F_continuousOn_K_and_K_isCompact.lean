@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Exist_F_continuousOn_K_and_K_isCompact
 -- name    : OffloadGNEP.Exist.F_continuousOn_K_and_K_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:33.207315+00:00
 -- url     : https://prove2.me/theorems/9f34befa-72ce-4726-beef-19eddf74cc97

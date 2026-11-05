@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Scoords_smul_e
 -- name    : OAI.SharpPlanar.Scoords_smul_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:48:34.675042+00:00
 -- url     : https://prove2.me/theorems/e4086fc8-6422-4ba5-9e8d-cac276f7e459

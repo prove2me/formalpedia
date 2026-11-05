@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NondomArb_Superhedge_lemma_A_2
 -- name    : NondomArb.Superhedge.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:23:13.776984+00:00
 -- url     : https://prove2.me/theorems/f5f50b8f-af37-447e-924a-e354791d988e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothCCP_Asymptotic_theorem_3_5
 -- name    : SmoothCCP.Asymptotic.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:50.222663+00:00
 -- url     : https://prove2.me/theorems/66544c51-05dc-440f-be11-ec5978446d2d

@@ -1,0 +1,30 @@
+-- Prove2me | Theorems.Thm_Value_stJointSum
+-- name    : Value.stJointSum
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-11-05T02:24:53.573278+00:00
+-- url     : https://prove2.me/theorems/fb5e71d5-c624-4278-b975-9bff96ee8957
+-- title:
+--   Value: st Joint Sum
+-- statement:
+--   «Together with the sums inside the tables, this is a sum over all z ∈ ∏_{a ∈ [g]} S_a and over
+--   one string θ_{a,b} ∈ {0,1}^{c_{a,b}} per pair {a,b} of nodes in different groups.»
+--
+--   Source: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/networks/Value/Joint.lean#L113-L113
+-- source:
+--   https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/networks/Value/Joint.lean#L113-L113
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_Value_Blocks
+import Definitions.Def_Value_Sums
+import Definitions.Def_Value_Joint
+set_option autoImplicit false
+section
+section
+open Value
+open Groundwork Groundwork.Prog Groundwork.Prog.NetE Finset Eight.SecNetworks Eight.ViaGrouping
+variable {C : Type} [HasSize C] {g K : ℕ}
+
+theorem Value.stJointSum : StJointSum := by sorry

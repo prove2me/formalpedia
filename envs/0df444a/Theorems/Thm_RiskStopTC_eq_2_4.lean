@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskStopTC_eq_2_4
 -- name    : RiskStopTC.eq_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:34:55.909451+00:00
 -- url     : https://prove2.me/theorems/df61fd05-06a9-4fb0-a996-d9027a97ce44

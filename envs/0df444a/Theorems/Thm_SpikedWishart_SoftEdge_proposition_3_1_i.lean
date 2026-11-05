@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpikedWishart_SoftEdge_proposition_3_1_i
 -- name    : SpikedWishart.SoftEdge.proposition_3_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-04T05:40:28.013261+00:00
 -- url     : https://prove2.me/theorems/4cfde12d-d04f-4396-97c3-331c7924515f

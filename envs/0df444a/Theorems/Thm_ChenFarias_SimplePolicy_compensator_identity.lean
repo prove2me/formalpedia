@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenFarias_SimplePolicy_compensator_identity
 -- name    : ChenFarias.SimplePolicy.compensator_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:40.450557+00:00
 -- url     : https://prove2.me/theorems/13a50471-250c-4efb-84b0-310d4ece0d44

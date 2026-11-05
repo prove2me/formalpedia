@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Underdogs_odds_lt_odds
 -- name    : Underdogs.odds_lt_odds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:49:57.440536+00:00
 -- url     : https://prove2.me/theorems/cde6dd89-c08f-4887-bae0-cab4d6f535b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LightningChannels_SymmetricCosts_asymptotic_optimal_cost_and_collateral
 -- name    : LightningChannels.SymmetricCosts.asymptotic_optimal_cost_and_collateral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:38:26.804873+00:00
 -- url     : https://prove2.me/theorems/7ca02f11-775b-477c-b45f-e7364237a49f

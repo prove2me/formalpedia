@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Viterbo.not_viterboConjecture
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T10:06:42.173857+00:00
 -- url     : https://prove2.me/submissions/efe087cc-d704-4e6f-ad5e-2447ee6f4e76
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SymmetricPolar

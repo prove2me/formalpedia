@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1526a_rep_of_odd
 -- name    : LL_Decomp1526a.rep_of_odd
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:04:01.246791+00:00
 -- url     : https://prove2.me/theorems/3fd7237c-786b-4875-950d-2cb1e6495ed1

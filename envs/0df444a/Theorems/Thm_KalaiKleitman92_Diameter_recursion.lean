@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiKleitman92_Diameter_recursion
 -- name    : KalaiKleitman92.Diameter.recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:03:56.601672+00:00
 -- url     : https://prove2.me/theorems/f5350fc2-d372-49f8-a4be-43a69f75f2f7

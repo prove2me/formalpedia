@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenFarias_SimplePolicy_policy_value
 -- name    : ChenFarias.SimplePolicy.policy_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:44.743329+00:00
 -- url     : https://prove2.me/theorems/eed74f6e-b35e-4686-abe3-27815951f118

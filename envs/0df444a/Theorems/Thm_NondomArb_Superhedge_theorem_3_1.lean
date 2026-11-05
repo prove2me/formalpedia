@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NondomArb_Superhedge_theorem_3_1
 -- name    : NondomArb.Superhedge.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:23:52.353321+00:00
 -- url     : https://prove2.me/theorems/c61bf8a5-1bd5-46fb-b377-2adffd0b2f42

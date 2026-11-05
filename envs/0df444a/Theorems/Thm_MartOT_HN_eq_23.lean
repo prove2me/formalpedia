@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_HN_eq_23
 -- name    : MartOT.HN.eq_23
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:15.682984+00:00
 -- url     : https://prove2.me/theorems/79c037b2-4d8f-4c9e-97f3-61e1aac6b189

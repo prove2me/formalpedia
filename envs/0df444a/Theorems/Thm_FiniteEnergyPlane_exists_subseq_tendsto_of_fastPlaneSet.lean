@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_subseq_tendsto_of_fastPlaneSet
 -- name    : FiniteEnergyPlane.exists_subseq_tendsto_of_fastPlaneSet
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T16:25:49.102514+00:00
 -- url     : https://prove2.me/theorems/7aa2a5e5-4934-44de-8f6a-b3f1d4d17a31

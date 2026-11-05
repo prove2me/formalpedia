@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynAssortPers_Regret_lemma_revenue_lipschitz
 -- name    : DynAssortPers.Regret.lemma_revenue_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:15:40.822297+00:00
 -- url     : https://prove2.me/theorems/7844581d-e890-4d48-8b53-e20acb8bab73

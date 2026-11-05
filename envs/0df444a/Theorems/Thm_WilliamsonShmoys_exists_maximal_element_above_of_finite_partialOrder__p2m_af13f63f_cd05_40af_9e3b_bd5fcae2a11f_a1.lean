@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_element_above_of_finite_partialOrder__p2m_af13f63f_cd05_40af_9e3b_bd5fcae2a11f_a1
 -- name    : WilliamsonShmoys.exists_maximal_element_above_of_finite_partialOrder__p2m_af13f63f_cd05_40af_9e3b_bd5fcae2a11f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:09:55.81965+00:00
 -- url     : https://prove2.me/theorems/a87b3205-70d0-4852-a75f-43f6f3e7f22a

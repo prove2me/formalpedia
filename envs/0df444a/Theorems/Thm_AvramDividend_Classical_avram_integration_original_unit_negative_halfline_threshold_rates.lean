@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_integration_original_unit_negative_halfline_threshold_rates
 -- name    : AvramDividend.Classical.avram_integration_original_unit_negative_halfline_threshold_rates
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-04T00:57:37.540076+00:00
 -- url     : https://prove2.me/theorems/6169a734-f844-4e24-b278-0713a6f113b9

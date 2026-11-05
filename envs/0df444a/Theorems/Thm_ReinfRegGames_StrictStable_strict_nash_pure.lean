@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReinfRegGames_StrictStable_strict_nash_pure
 -- name    : ReinfRegGames.StrictStable.strict_nash_pure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:08:30.859978+00:00
 -- url     : https://prove2.me/theorems/6ab7b635-359f-4c22-9618-8efd5d31c81b

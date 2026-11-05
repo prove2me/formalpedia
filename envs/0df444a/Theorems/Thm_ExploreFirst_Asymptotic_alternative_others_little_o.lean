@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Asymptotic_alternative_others_little_o
 -- name    : ExploreFirst.Asymptotic.alternative_others_little_o
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:31.638072+00:00
 -- url     : https://prove2.me/theorems/c5e1541d-fbdc-4d77-ba4a-8576275a7b55

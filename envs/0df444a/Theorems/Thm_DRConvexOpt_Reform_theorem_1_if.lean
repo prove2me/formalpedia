@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRConvexOpt_Reform_theorem_1_if
 -- name    : DRConvexOpt.Reform.theorem_1_if
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:34:06.911306+00:00
 -- url     : https://prove2.me/theorems/ab529e4f-34cf-4cc8-8141-6765db65b433

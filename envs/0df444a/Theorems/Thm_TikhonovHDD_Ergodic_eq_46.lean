@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TikhonovHDD_Ergodic_eq_46
 -- name    : TikhonovHDD.Ergodic.eq_46
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:15.321483+00:00
 -- url     : https://prove2.me/theorems/efc7baa7-9009-4b94-966e-7cb4825a1c58

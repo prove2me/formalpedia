@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_MultiBuyer_remark_b_npt_ds
 -- name    : MultiItemRev.MultiBuyer.remark_b_npt_ds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:12.79398+00:00
 -- url     : https://prove2.me/theorems/3149e3e9-7838-462c-aab7-9ae817c6bea7

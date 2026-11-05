@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Viterbo.cEHZ_pentagonK_prod_pentagonT
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T10:49:15.947989+00:00
 -- url     : https://prove2.me/submissions/e3249829-d5ce-40a3-8cb6-25f49a8709bb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Viterbo
 import Definitions.Def_SymmetricPolar

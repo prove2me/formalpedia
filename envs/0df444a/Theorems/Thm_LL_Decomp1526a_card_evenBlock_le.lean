@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1526a_card_evenBlock_le
 -- name    : LL_Decomp1526a.card_evenBlock_le
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:05:30.378598+00:00
 -- url     : https://prove2.me/theorems/e053c0f1-961d-4767-a5ba-d4496ef7e15c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeinbergPOMDP_WStar_theorem_3_4
 -- name    : FeinbergPOMDP.WStar.theorem_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:55:46.029029+00:00
 -- url     : https://prove2.me/theorems/a7961cf9-0f26-4d34-961f-33689f790006

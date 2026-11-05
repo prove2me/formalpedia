@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JakulinBratko_totalCorrelation_decomposition
 -- name    : JakulinBratko.totalCorrelation_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:04:10.497326+00:00
 -- url     : https://prove2.me/theorems/5b899947-2302-4099-ad31-485384abbea1

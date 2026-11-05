@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReluMIP_Ideal_system7c_redundant
 -- name    : ReluMIP.Ideal.system7c_redundant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:20.374061+00:00
 -- url     : https://prove2.me/theorems/3bb50439-8bfd-4cab-b04c-089cf286b0b8

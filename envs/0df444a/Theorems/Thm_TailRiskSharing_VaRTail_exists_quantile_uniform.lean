@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_VaRTail_exists_quantile_uniform
 -- name    : TailRiskSharing.VaRTail.exists_quantile_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-04T04:44:09.117889+00:00
 -- url     : https://prove2.me/theorems/e2a9d314-ebf0-473c-8da8-ec6b8594972f

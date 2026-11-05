@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_card_lt_of_le_of_ne__p2m_f100cac1_01af_43d8_b482_631795dea89f_a1
 -- name    : WilliamsonShmoys.edge_card_lt_of_le_of_ne__p2m_f100cac1_01af_43d8_b482_631795dea89f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T09:52:18.21699+00:00
 -- url     : https://prove2.me/theorems/02a7bc58-dc6a-4722-90e1-33c6e9515334

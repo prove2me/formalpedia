@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_compensatedIntegrable
 -- name    : levy_foundations_compensatedIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:35:14.629692+00:00
 -- url     : https://prove2.me/theorems/473d7e84-9aca-431c-926c-e65ba28288e4

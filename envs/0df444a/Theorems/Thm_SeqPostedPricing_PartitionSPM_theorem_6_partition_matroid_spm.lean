@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqPostedPricing_PartitionSPM_theorem_6_partition_matroid_spm
 -- name    : SeqPostedPricing.PartitionSPM.theorem_6_partition_matroid_spm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:17:31.221205+00:00
 -- url     : https://prove2.me/theorems/d5583cde-9034-4188-be79-abeafc01fd88

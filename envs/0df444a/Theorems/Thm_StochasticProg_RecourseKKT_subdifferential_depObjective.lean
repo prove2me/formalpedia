@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticProg_RecourseKKT_subdifferential_depObjective
 -- name    : StochasticProg.RecourseKKT.subdifferential_depObjective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:52:10.202232+00:00
 -- url     : https://prove2.me/theorems/cfcef54f-6a16-4c6d-89fe-24ef40e7db95

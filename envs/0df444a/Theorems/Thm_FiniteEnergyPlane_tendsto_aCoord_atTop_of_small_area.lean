@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_tendsto_aCoord_atTop_of_small_area
 -- name    : FiniteEnergyPlane.tendsto_aCoord_atTop_of_small_area
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T16:25:10.75423+00:00
 -- url     : https://prove2.me/theorems/1af782b1-bad6-453e-b489-1022a31fd8e0

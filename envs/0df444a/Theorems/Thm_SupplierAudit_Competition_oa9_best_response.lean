@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierAudit_Competition_oa9_best_response
 -- name    : SupplierAudit.Competition.oa9_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:30:39.494887+00:00
 -- url     : https://prove2.me/theorems/036d5570-5091-4834-bb34-32f4b7298332

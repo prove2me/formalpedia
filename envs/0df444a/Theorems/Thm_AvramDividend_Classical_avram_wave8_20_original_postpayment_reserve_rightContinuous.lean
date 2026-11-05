@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_20_original_postpayment_reserve_rightContinuous
 -- name    : AvramDividend.Classical.avram_wave8_20_original_postpayment_reserve_rightContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T20:08:52.09031+00:00
 -- url     : https://prove2.me/theorems/c0b55139-c148-403f-81de-0d9edbf80ffb

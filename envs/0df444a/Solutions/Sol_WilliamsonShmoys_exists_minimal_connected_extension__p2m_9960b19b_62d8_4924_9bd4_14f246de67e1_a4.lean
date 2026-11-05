@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_minimal_connected_extension__p2m_9960b19b_62d8_4924_9bd4_14f246de67e1_a4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:53:26.231988+00:00
 -- url     : https://prove2.me/submissions/7d5aa6ae-5199-4987-97ef-22cd5f0fcddd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_minimal_connected_extension_exists__p2m_e60abc1f_4545_4a18_800d_698b86a0156b_a1

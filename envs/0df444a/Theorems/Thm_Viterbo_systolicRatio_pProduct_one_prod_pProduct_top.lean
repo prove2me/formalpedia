@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Viterbo_systolicRatio_pProduct_one_prod_pProduct_top
 -- name    : Viterbo.systolicRatio_pProduct_one_prod_pProduct_top
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-30T08:17:48.16182+00:00
 -- url     : https://prove2.me/theorems/f2b223ac-41d9-4ec0-93cd-ac91c31b863b

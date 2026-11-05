@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_poissonProcessMarginalLaw
 -- name    : levy_foundations_poissonProcessMarginalLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:36:28.854634+00:00
 -- url     : https://prove2.me/theorems/74653cb8-930c-4961-abc5-bd2779187231

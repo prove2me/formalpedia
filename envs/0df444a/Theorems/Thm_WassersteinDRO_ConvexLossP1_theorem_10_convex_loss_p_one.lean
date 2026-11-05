@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_ConvexLossP1_theorem_10_convex_loss_p_one
 -- name    : WassersteinDRO.ConvexLossP1.theorem_10_convex_loss_p_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:55:41.623032+00:00
 -- url     : https://prove2.me/theorems/de966a18-6f6b-4bdb-a320-2d4e48128313

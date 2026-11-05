@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JSQHalfinWhitt_Tightness_theorem_2_part_2_2
 -- name    : JSQHalfinWhitt.Tightness.theorem_2_part_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:44:57.322706+00:00
 -- url     : https://prove2.me/theorems/c8fe368d-a6ed-4930-a4b6-afe46c376286

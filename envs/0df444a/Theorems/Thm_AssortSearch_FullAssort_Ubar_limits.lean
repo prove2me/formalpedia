@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_FullAssort_Ubar_limits
 -- name    : AssortSearch.FullAssort.Ubar_limits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:21.715721+00:00
 -- url     : https://prove2.me/theorems/4ffa8606-110f-4c68-a271-29984945b060

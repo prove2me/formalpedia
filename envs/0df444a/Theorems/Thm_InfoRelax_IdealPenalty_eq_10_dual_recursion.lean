@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelax_IdealPenalty_eq_10_dual_recursion
 -- name    : InfoRelax.IdealPenalty.eq_10_dual_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:26.835993+00:00
 -- url     : https://prove2.me/theorems/ca6b87ec-e2cc-40fd-8e42-80ae928504f6

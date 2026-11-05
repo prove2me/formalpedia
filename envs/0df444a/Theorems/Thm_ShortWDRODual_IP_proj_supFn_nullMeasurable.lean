@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_IP_proj_supFn_nullMeasurable
 -- name    : ShortWDRODual.IP.proj_supFn_nullMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:41.894509+00:00
 -- url     : https://prove2.me/theorems/edc9a841-e1b8-4a0c-83ca-da4f2b8275c6

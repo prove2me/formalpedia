@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543a_vaughan_coeff
 -- name    : LL_Decomp1543a.vaughan_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:38:19.316993+00:00
 -- url     : https://prove2.me/theorems/756cb4be-6010-4071-ae1f-1938b0871215

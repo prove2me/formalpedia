@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_localLog_exists_ball_subset_goodDomain
 -- name    : levy_foundations_localLog_exists_ball_subset_goodDomain
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T20:47:32.368395+00:00
 -- url     : https://prove2.me/theorems/f74e39dc-42eb-49f1-b4e5-7f2992916982

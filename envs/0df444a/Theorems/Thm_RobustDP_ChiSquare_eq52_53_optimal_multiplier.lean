@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_ChiSquare_eq52_53_optimal_multiplier
 -- name    : RobustDP.ChiSquare.eq52_53_optimal_multiplier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:38:01.696037+00:00
 -- url     : https://prove2.me/theorems/16f20f2d-d488-457c-af7f-b1780f4d43fd

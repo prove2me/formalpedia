@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DDROFB_theorem_6_fb_sets
 -- name    : DDROFB.theorem_6_fb_sets
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:10:01.220531+00:00
 -- url     : https://prove2.me/theorems/16d3b472-7010-4d5c-8d1e-4a8be346afd0

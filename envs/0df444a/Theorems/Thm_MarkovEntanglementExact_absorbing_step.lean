@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovEntanglementExact_absorbing_step
 -- name    : MarkovEntanglementExact.absorbing_step
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:21:09.874382+00:00
 -- url     : https://prove2.me/theorems/f0c5ad00-dca6-4d42-a974-fd2d1a5519ec

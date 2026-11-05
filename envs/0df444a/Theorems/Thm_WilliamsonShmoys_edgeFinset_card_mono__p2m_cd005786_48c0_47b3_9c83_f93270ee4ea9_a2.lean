@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edgeFinset_card_mono__p2m_cd005786_48c0_47b3_9c83_f93270ee4ea9_a2
 -- name    : WilliamsonShmoys.edgeFinset_card_mono__p2m_cd005786_48c0_47b3_9c83_f93270ee4ea9_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:56:13.411708+00:00
 -- url     : https://prove2.me/theorems/74356c88-8f19-4ad9-babf-6b0db9c7b2a3

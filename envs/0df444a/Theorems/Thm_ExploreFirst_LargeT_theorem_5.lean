@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_LargeT_theorem_5
 -- name    : ExploreFirst.LargeT.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:12:17.2212+00:00
 -- url     : https://prove2.me/theorems/de74211d-8216-4067-a62f-8e024d4b6c94

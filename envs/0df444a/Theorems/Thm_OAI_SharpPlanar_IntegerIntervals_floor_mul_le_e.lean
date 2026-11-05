@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_floor_mul_le_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.floor_mul_le_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:41:28.648194+00:00
 -- url     : https://prove2.me/theorems/05991420-2c1a-486e-a6b9-8315b1f09a0c

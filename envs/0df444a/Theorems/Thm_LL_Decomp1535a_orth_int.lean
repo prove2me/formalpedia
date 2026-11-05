@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1535a_orth_int
 -- name    : LL_Decomp1535a.orth_int
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:09:30.28898+00:00
 -- url     : https://prove2.me/theorems/89978e3b-d4a1-4b53-a3d8-870a9e8900f8

@@ -11160,7 +11160,7 @@
 {"parent": "D1Bound5.PairLightPrepared36.right_signatures_checked", "child": "D1Bound5_SmallPairLightData36RightCached_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared36.right_signatures_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "KWSpectrum.Estimator.eq_25", "child": "KWSpectrum_Estimator_Model", "via": ["statement"]}
-{"parent": "TwoAgentSched.TotalTotal.totalTotal_encoding_reduction", "child": "TwoAgentSched_TotalTotal_Construction", "via": ["statement"]}
+{"parent": "TwoAgentSched.TotalTotal.totalTotal_encoding_reduction", "child": "TwoAgentSched_TotalTotal_Construction", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.edge_count_eq_of_maximal_planar_drawing_f3620a14", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_w1015_s0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1200_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -27788,8 +27788,8 @@
 {"parent": "AvramDividend.Classical.dividendMeasure_Iic_zero_of_monotone_rightLim", "child": "AvramDividend.Classical.measure_Iic_zero_of_all_negative_to_zero_Ioc_zero", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.dividendMeasure_Iic_zero_of_monotone_rightLim", "child": "AvramDividend.Classical.dividendMeasure_Ioc_eq_path_increment_of_mono_rightLim", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.dividendMeasure_Iic_zero_of_monotone_rightLim", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "TwoAgentSched.Knapsack.knapsack_encoding_reduction", "child": "TwoAgentSched_Knapsack_Problem51", "via": ["statement"]}
-{"parent": "TwoAgentSched.Knapsack.knapsack_encoding_reduction", "child": "TwoAgentSched_Knapsack_Construction", "via": ["statement"]}
+{"parent": "TwoAgentSched.Knapsack.knapsack_encoding_reduction", "child": "TwoAgentSched_Knapsack_Problem51", "via": ["solution", "statement"]}
+{"parent": "TwoAgentSched.Knapsack.knapsack_encoding_reduction", "child": "TwoAgentSched_Knapsack_Construction", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared30.right_checked", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared30.right_checked", "child": "D1Bound5_PairBipartiteCheck_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared30.right_checked", "child": "D1Bound5_SmallPairSieve_1_1_Definitions", "via": ["solution", "statement"]}

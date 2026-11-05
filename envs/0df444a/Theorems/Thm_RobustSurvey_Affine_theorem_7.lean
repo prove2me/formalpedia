@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSurvey_Affine_theorem_7
 -- name    : RobustSurvey.Affine.theorem_7
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T14:03:39.691754+00:00
 -- url     : https://prove2.me/theorems/43a6c693-56a2-4557-9714-a8c638c53b8c

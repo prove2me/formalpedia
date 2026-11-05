@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_bridge_strictly_enlarges_graph__p2m_a49e8573_7163_46f3_bc6a_b6dc614057e1_a1
 -- name    : WilliamsonShmoys.bridge_strictly_enlarges_graph__p2m_a49e8573_7163_46f3_bc6a_b6dc614057e1_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:42:28.124998+00:00
 -- url     : https://prove2.me/theorems/ca1a43f2-1df2-459f-8941-a20676018a5d

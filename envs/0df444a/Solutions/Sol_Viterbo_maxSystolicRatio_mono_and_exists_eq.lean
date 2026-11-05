@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Viterbo.maxSystolicRatio_mono_and_exists_eq
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-03T17:11:36.256759+00:00
 -- url     : https://prove2.me/submissions/b91e76df-858c-4da6-95d6-a4432553c85a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SymmetricPolar

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_DualGap_lemma_2
 -- name    : L0BnB.DualGap.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:29:19.297951+00:00
 -- url     : https://prove2.me/theorems/23a963d7-078c-4f96-8e96-431b62c65595

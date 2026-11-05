@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_separated_marked_adapted_weight_L1_rate
 -- name    : AvramDividend.Classical.avram_wave7_06_original_separated_marked_adapted_weight_L1_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T07:07:01.633785+00:00
 -- url     : https://prove2.me/theorems/d27347c9-2df4-4de8-b038-5bce4c50d754

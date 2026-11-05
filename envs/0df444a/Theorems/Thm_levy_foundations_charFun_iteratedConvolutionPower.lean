@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_charFun_iteratedConvolutionPower
 -- name    : levy_foundations_charFun_iteratedConvolutionPower
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:25:53.07982+00:00
 -- url     : https://prove2.me/theorems/604e2f0f-5578-4375-beee-288826bf6613

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_20_original_BV_bounded_measurable_random_clock_survival_terminal_integrable
 -- name    : AvramDividend.Classical.avram_wave8_20_original_BV_bounded_measurable_random_clock_survival_terminal_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T20:40:03.41331+00:00
 -- url     : https://prove2.me/theorems/8949220f-3a95-4bd0-8ddb-bfdbbefbf3df

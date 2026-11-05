@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_prmIndependent
 -- name    : levy_foundations_prmIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T15:16:56.849546+00:00
 -- url     : https://prove2.me/theorems/5b8516f5-d9f1-461c-af8b-e81610a6d07a

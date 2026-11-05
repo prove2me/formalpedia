@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_face_certificate_edge_bound__p2m_4a8418ba_23c0_49b2_b768_f1b389811726_a4
 -- name    : WilliamsonShmoys.face_certificate_edge_bound__p2m_4a8418ba_23c0_49b2_b768_f1b389811726_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:21:22.718021+00:00
 -- url     : https://prove2.me/theorems/5cb1e131-54f8-4579-b09b-7ea425fe4806

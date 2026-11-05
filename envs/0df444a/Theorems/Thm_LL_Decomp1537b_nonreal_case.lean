@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1537b_nonreal_case
 -- name    : LL_Decomp1537b.nonreal_case
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:33:06.628662+00:00
 -- url     : https://prove2.me/theorems/548b77a2-4059-4750-a37e-8b9a774bc0b9

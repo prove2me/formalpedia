@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NicerEars_TSP_proposition_2
 -- name    : NicerEars.TSP.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:49.944914+00:00
 -- url     : https://prove2.me/theorems/9b58c1bc-4bba-4b7a-93d2-fdb7d04e2dc4

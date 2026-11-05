@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalOversizePrime.nativePrime_lower
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T10:28:31.614922+00:00
+-- url     : https://prove2.me/submissions/6ed9af7c-032c-4b84-a102-b8e81c72d7fb
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryEntropyRates
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCoverCapParameters
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryOversizePrime
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalOversizePrime_nativePrime_eq_selected
+import Theorems.Thm_ThreeSum_LocalCoverBounds_selectedPrime_sq_lower
+
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalOversizePrime
+open Finset WeightedGlobalCoverScale WeightedGlobalEntropyRates WeightedGlobalLocalParameters
+open TernaryCoverLocal WeightedGlobalCoverFrequency WeightedGlobalCoverCapParameters
+set_option maxHeartbeats 2000000
+attribute [local semireducible] nativePrime
+
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalOversizePrime
+theorem _root_.solution (K m : ℕ) : inflatedThreshold K m ≤ nativePrime K m^2 := by
+  rw [nativePrime_eq_selected]
+  exact LocalCoverBounds.selectedPrime_sq_lower _
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalOversizePrime

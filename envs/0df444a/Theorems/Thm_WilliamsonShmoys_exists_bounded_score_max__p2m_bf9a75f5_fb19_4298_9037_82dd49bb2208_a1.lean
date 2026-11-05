@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_bounded_score_max__p2m_bf9a75f5_fb19_4298_9037_82dd49bb2208_a1
 -- name    : WilliamsonShmoys.exists_bounded_score_max__p2m_bf9a75f5_fb19_4298_9037_82dd49bb2208_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:09:53.048442+00:00
 -- url     : https://prove2.me/theorems/6fdc40f3-39be-4bda-8284-0bd49d008a1f

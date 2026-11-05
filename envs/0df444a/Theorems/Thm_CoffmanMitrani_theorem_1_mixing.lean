@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani_theorem_1_mixing
 -- name    : CoffmanMitrani.theorem_1_mixing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:23:52.99586+00:00
 -- url     : https://prove2.me/theorems/27b64375-d27d-4baa-9edc-e2baba62f130

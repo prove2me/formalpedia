@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Viterbo.exists_isConvexDomain_gromovWidth_lt_cylindricalCapacity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-30T10:08:04.817028+00:00
 -- url     : https://prove2.me/submissions/596b7bd0-5a5f-4a6d-a09d-18f192df2f42
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SymmetricPolar

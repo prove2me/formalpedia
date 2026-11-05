@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_set_progress_has_good_element__p2m_a6c61c44_359d_4d57_8094_2c2773f7c78b_a1
 -- name    : WilliamsonShmoys.finite_set_progress_has_good_element__p2m_a6c61c44_359d_4d57_8094_2c2773f7c78b_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:43:58.895838+00:00
 -- url     : https://prove2.me/theorems/e90806bb-86fd-4257-bca7-3fba625400e0

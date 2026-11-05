@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoutingBC_Chaining_target_dependency_recursion
 -- name    : RoutingBC.Chaining.target_dependency_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:42:53.391027+00:00
 -- url     : https://prove2.me/theorems/1ba0fcd9-b2e5-4afc-a28a-bc46990639c0

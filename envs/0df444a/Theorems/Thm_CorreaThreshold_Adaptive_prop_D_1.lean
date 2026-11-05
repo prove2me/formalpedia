@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Adaptive_prop_D_1
 -- name    : CorreaThreshold.Adaptive.prop_D_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:34.621434+00:00
 -- url     : https://prove2.me/theorems/d4fd1ffc-c9c7-46b5-8b7f-dd06bdff7930

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_drawable_supergraphs__p2m_34323cd1_374d_4357_8256_7d86cba1e73f_a1
 -- name    : WilliamsonShmoys.finite_drawable_supergraphs__p2m_34323cd1_374d_4357_8256_7d86cba1e73f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:05:53.882745+00:00
 -- url     : https://prove2.me/theorems/cb53f354-fccf-4552-b0a8-00c79a7fdb8c

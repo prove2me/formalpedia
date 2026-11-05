@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Collective_theorem_4
 -- name    : ExploreFirst.Collective.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:03:47.599452+00:00
 -- url     : https://prove2.me/theorems/ebeace9d-2035-4317-a57b-a2a47be00b02

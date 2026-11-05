@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LookbackMOT_HL_eq_3_23
 -- name    : LookbackMOT.HL.eq_3_23
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:33:53.998995+00:00
 -- url     : https://prove2.me/theorems/0d216bbd-8e46-4507-8073-37c19ddcf415

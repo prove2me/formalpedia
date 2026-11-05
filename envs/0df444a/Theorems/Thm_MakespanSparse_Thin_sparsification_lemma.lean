@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MakespanSparse_Thin_sparsification_lemma
 -- name    : MakespanSparse.Thin.sparsification_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:04:02.985752+00:00
 -- url     : https://prove2.me/theorems/bb3ae6f3-5b4b-4b76-815a-f1eaad6effab

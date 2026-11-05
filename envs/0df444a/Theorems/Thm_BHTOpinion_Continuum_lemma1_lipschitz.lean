@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BHTOpinion_Continuum_lemma1_lipschitz
 -- name    : BHTOpinion.Continuum.lemma1_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:20.694479+00:00
 -- url     : https://prove2.me/theorems/f09970c6-3bb2-4ab4-8f59-13349e16c785

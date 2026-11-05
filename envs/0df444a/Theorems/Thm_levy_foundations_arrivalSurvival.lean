@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_arrivalSurvival
 -- name    : levy_foundations_arrivalSurvival
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:51:40.29262+00:00
 -- url     : https://prove2.me/theorems/bb749c61-5e6f-4d87-acf5-d7939b618ddb

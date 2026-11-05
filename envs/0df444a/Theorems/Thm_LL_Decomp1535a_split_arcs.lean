@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1535a_split_arcs
 -- name    : LL_Decomp1535a.split_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:11:16.714392+00:00
 -- url     : https://prove2.me/theorems/45a98224-b7ab-4e1c-9381-126d7de58e1f

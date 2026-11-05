@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1528c_psi_two_mul_ge
 -- name    : LL_Decomp1528c.psi_two_mul_ge
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:31:20.350351+00:00
 -- url     : https://prove2.me/theorems/dfc26d21-795a-4b57-b0a9-a2c72cff17fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Bubelis_primary_payoff_one
 -- name    : FixpNash.Bubelis.primary_payoff_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:40.854631+00:00
 -- url     : https://prove2.me/theorems/c85ad279-ef58-4f3c-9150-daf9f615a618

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_vertex_pair_list__p2m_1f4c177d_eb20_4750_9a13_0c928226c3d6_a1
 -- name    : WilliamsonShmoys.finite_vertex_pair_list__p2m_1f4c177d_eb20_4750_9a13_0c928226c3d6_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:17:45.910815+00:00
 -- url     : https://prove2.me/theorems/c8ceede8-44b1-4bbf-ae4c-115baabb5537

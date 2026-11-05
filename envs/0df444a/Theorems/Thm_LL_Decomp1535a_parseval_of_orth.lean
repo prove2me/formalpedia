@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1535a_parseval_of_orth
 -- name    : LL_Decomp1535a.parseval_of_orth
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:10:38.715691+00:00
 -- url     : https://prove2.me/theorems/b1955120-b732-4c94-a2ca-ee1dd34a4415

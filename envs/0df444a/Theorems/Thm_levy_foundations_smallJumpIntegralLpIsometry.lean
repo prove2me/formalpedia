@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_smallJumpIntegralLpIsometry
 -- name    : levy_foundations_smallJumpIntegralLpIsometry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:08:01.369551+00:00
 -- url     : https://prove2.me/theorems/c9b94078-8f10-4ff3-a71e-2ec14b5e5ebf

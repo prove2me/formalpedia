@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornDRO_BSMD_unbiased_estimators
 -- name    : SinkhornDRO.BSMD.unbiased_estimators
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:26:02.682989+00:00
 -- url     : https://prove2.me/theorems/a8238122-51f6-47f1-bac0-de4ca84760fe

@@ -1,0 +1,25 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredPostABI.argv_zeroCounts
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T16:07:10.006658+00:00
+-- url     : https://prove2.me/submissions/625d0ea4-a7a3-481d-86c4-28ed17bb20a3
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryColoredSolver
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaFinalSolver
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryColoredPostABI
+import Theorems.Thm_Light_Ends_set
+
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredPostABI
+open Light LightWeightedGlobalColoredSolver WeightedGlobalArenaLayout
+set_option maxRecDepth 24000
+set_option maxHeartbeats 5000000
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredPostABI
+theorem _root_.solution {N : ℕ} (S : WeightedSourceCountExecutionFactory.Setup N) :
+    (LightWeightedGlobalCompactReporter.zeroCounts S).argv=(S.argv.set 11 0).set 34 0 := by rfl
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredPostABI

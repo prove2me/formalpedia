@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_between_mul_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.between_mul_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:41:28.051278+00:00
 -- url     : https://prove2.me/theorems/ac067b9a-05c2-4ff6-a839-ee337533fb27

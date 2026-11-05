@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Dubey1986_Inefficiency_eff_interior_mem_Estar
 -- name    : Dubey1986.Inefficiency.eff_interior_mem_Estar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:37:12.514686+00:00
 -- url     : https://prove2.me/theorems/f3e8d2ad-011e-4587-af54-fb1728b2cd1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoBR_linearizedRestriction_le_of_oscillatoryOp_le
 -- name    : TaoBR.linearizedRestriction_le_of_oscillatoryOp_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T17:16:34.163623+00:00
 -- url     : https://prove2.me/theorems/22f47167-3c3b-488f-a090-5a5e6781ab8b

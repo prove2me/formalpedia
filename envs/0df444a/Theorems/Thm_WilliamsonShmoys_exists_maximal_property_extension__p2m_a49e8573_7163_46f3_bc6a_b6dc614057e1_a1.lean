@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_property_extension__p2m_a49e8573_7163_46f3_bc6a_b6dc614057e1_a1
 -- name    : WilliamsonShmoys.exists_maximal_property_extension__p2m_a49e8573_7163_46f3_bc6a_b6dc614057e1_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:42:26.383028+00:00
 -- url     : https://prove2.me/theorems/11dec6b0-7278-4c2b-bc42-a778db9d922e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_LargeT_equation_15
 -- name    : ExploreFirst.LargeT.equation_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:12:50.768392+00:00
 -- url     : https://prove2.me/theorems/567416d6-6929-46d0-8357-0581d453993f

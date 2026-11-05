@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalEntropyRates.output_splitBits
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T10:27:25.806813+00:00
+-- url     : https://prove2.me/submissions/85043b98-e4d1-49c4-b22d-9e90bfa0509c
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalParameters
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCoverScale
+import Definitions.Def_Submission_ThreeSum_TernaryTypeCardinality
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryEntropyRates
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalEntropyRates_entropy_split
+import Theorems.Thm_ThreeSum_TernaryJointType_CertifiedParameters_pi_positive
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalParameters_pi_positive
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_WeightedGlobalParameters_pi_total
+
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalEntropyRates
+open Filter Real
+open scoped Topology
+open TernaryJointType TernaryCoverLocal WeightedGlobalLocalParameters WeightedGlobalCoverScale
+set_option maxRecDepth 10000
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalEntropyRates
+theorem _root_.solution : splitBits 30000000000000000 4759532833568040 878789933342820 = WeightedGlobalParameters.Hpi := by
+  have h := entropy_split WeightedGlobalParameters.pi_positive.1 WeightedGlobalParameters.pi_positive.2.1
+    WeightedGlobalParameters.pi_positive.2.2 WeightedGlobalParameters.pi_total
+  unfold splitBits ThreeSum.Parameters.entropy WeightedGlobalParameters.Hpi WeightedCacheParameters_e1ae71d.Hn
+  norm_num [WeightedCacheParameters_e1ae71d.pi0,WeightedCacheParameters_e1ae71d.pi1,WeightedCacheParameters_e1ae71d.pi2,WeightedGlobalParameters.pi0,WeightedGlobalParameters.pi1,WeightedGlobalParameters.pi2] at h ⊢
+  linear_combination h / Real.log 2
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalEntropyRates

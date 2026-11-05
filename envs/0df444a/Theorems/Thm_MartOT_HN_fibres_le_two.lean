@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_HN_fibres_le_two
 -- name    : MartOT.HN.fibres_le_two
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:44.731128+00:00
 -- url     : https://prove2.me/theorems/90417c38-52d7-40db-bc80-1373f8481df2

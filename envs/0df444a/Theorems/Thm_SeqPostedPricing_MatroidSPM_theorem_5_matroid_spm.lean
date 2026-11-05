@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqPostedPricing_MatroidSPM_theorem_5_matroid_spm
 -- name    : SeqPostedPricing.MatroidSPM.theorem_5_matroid_spm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:46:14.112003+00:00
 -- url     : https://prove2.me/theorems/b170c8e2-d6ed-4f02-abf0-6a147bf911d9

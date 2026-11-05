@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TikhonovHDD_Ergodic_tikhonov_curve_tendsto
 -- name    : TikhonovHDD.Ergodic.tikhonov_curve_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:25.45359+00:00
 -- url     : https://prove2.me/theorems/91b89a15-4f1b-4295-a9cb-7ae99e6d4950

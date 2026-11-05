@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_charFun_marginal_cpow
 -- name    : levy_foundations_charFun_marginal_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:04:40.519991+00:00
 -- url     : https://prove2.me/theorems/2c9b1b14-fc48-4ed4-a22d-decba659a8c5

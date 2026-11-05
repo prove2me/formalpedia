@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_isInfinitelyDivisible_marginal
 -- name    : levy_foundations_isInfinitelyDivisible_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T20:43:20.229999+00:00
 -- url     : https://prove2.me/theorems/7bbdb3df-78bc-4b6a-8357-5c84293e644b

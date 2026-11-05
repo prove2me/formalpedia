@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_poissonTimeCountIndependentBands
 -- name    : levy_foundations_poissonTimeCountIndependentBands
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T15:19:05.920989+00:00
 -- url     : https://prove2.me/theorems/0897b621-3ca4-4d94-930b-01f84e7f0267

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_maximal_by_measure__p2m_27628b41_9b86_421c_a9af_b79318367974_a2
 -- name    : finite_maximal_by_measure__p2m_27628b41_9b86_421c_a9af_b79318367974_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:43:18.617274+00:00
 -- url     : https://prove2.me/theorems/40f92af2-b652-416e-a759-ad573a97be44

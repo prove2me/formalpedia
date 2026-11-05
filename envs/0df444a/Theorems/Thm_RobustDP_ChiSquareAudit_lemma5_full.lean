@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_ChiSquareAudit_lemma5_full
 -- name    : RobustDP.ChiSquareAudit.lemma5_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:45:42.258463+00:00
 -- url     : https://prove2.me/theorems/8c612b6b-4917-4ab1-931c-f8034aa70ba8

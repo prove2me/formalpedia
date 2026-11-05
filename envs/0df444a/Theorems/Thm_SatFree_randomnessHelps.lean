@@ -1,0 +1,30 @@
+-- Prove2me | Theorems.Thm_SatFree_randomnessHelps
+-- name    : SatFree.randomnessHelps
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-11-04T15:55:17.380969+00:00
+-- url     : https://prove2.me/theorems/93e9c4d5-89a1-407e-8d29-3da0f5051325
+-- title:
+--   Sat Free: randomness Helps
+-- statement:
+--   «so allowing randomness can only make s_k smaller».
+--
+--   Source: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/consequences/FreeCode/Random.lean#L75-L75
+-- source:
+--   https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/consequences/FreeCode/Random.lean#L75-L75
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_KSatFreeCodeStatement
+import Mathlib.Tactic
+import Definitions.Def_FreeCode_Random
+set_option autoImplicit false
+section
+section
+open SatFree
+open Turing
+open Sat3 (CNF Satisfiable)
+open scoped NNReal ENNReal
+
+theorem SatFree.randomnessHelps : RandomnessHelps := by sorry

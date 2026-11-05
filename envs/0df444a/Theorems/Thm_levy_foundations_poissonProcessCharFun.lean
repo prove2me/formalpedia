@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_poissonProcessCharFun
 -- name    : levy_foundations_poissonProcessCharFun
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:36:46.415664+00:00
 -- url     : https://prove2.me/theorems/fb33cd6e-9320-41ba-9bef-bec0e6250b07

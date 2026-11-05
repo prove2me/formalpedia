@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToddKK14_Diameter_theorem_1
 -- name    : ToddKK14.Diameter.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:44:37.329347+00:00
 -- url     : https://prove2.me/theorems/0dd3f83e-87b1-467c-b056-927a0cd219c0

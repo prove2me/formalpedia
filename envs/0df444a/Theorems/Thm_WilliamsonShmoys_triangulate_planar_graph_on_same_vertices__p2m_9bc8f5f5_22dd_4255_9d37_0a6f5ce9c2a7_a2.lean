@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_triangulate_planar_graph_on_same_vertices__p2m_9bc8f5f5_22dd_4255_9d37_0a6f5ce9c2a7_a2
 -- name    : WilliamsonShmoys.triangulate_planar_graph_on_same_vertices__p2m_9bc8f5f5_22dd_4255_9d37_0a6f5ce9c2a7_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:26:07.631204+00:00
 -- url     : https://prove2.me/theorems/54b85171-3c84-49d0-b75e-a1ac45808ba4

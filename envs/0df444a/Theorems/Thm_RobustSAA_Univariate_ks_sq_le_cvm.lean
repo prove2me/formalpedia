@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Univariate_ks_sq_le_cvm
 -- name    : RobustSAA.Univariate.ks_sq_le_cvm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:17:15.969181+00:00
 -- url     : https://prove2.me/theorems/cbc70904-5cf5-4048-8264-3b2a7ce31ee1

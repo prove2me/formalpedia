@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_01_original_intrinsic_marked_future_extractor_and_levy_rate
 -- name    : AvramDividend.Classical.avram_wave7_01_original_intrinsic_marked_future_extractor_and_levy_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T12:20:25.430207+00:00
 -- url     : https://prove2.me/theorems/d9b9e3c2-55dd-4d9b-82ee-f6ce49bb70c5

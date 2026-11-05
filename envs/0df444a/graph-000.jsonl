@@ -5646,14 +5646,14 @@
 {"parent": "AggGameNet.GossipConst.relation_55_equal", "child": "AggGameNet_GossipConst_Gossip", "via": ["statement"]}
 {"parent": "AggGameNet.GossipConst.relations_30_31", "child": "AggGameNet_GossipConst_Gossip", "via": ["statement"]}
 {"parent": "AggGameNet.GossipConst.vi_exists_unique", "child": "AggGameNet_GossipConst_Game", "via": ["statement"]}
-{"parent": "AggGameNet.Sync.lemma_1", "child": "AggGameNet_Sync_Setting", "via": ["statement"]}
+{"parent": "AggGameNet.Sync.lemma_1", "child": "AggGameNet_Sync_Setting", "via": ["solution", "statement"]}
 {"parent": "AggGameNet.Sync.lemma_2", "child": "AggGameNet_Sync_Setting", "via": ["solution", "statement"]}
-{"parent": "AggGameNet.Sync.lemma_3", "child": "AggGameNet_Sync_Setting", "via": ["statement"]}
-{"parent": "AggGameNet.Sync.lemma_4", "child": "AggGameNet_Sync_Setting", "via": ["statement"]}
-{"parent": "AggGameNet.Sync.proposition_2", "child": "AggGameNet_Sync_Setting", "via": ["statement"]}
-{"parent": "AggGameNet.Sync.relation_19", "child": "AggGameNet_Sync_Setting", "via": ["statement"]}
-{"parent": "AggGameNet.Sync.relation_20", "child": "AggGameNet_Sync_Setting", "via": ["statement"]}
-{"parent": "AggGameNet.Sync.vi_exists_unique", "child": "AggGameNet_Sync_Setting", "via": ["statement"]}
+{"parent": "AggGameNet.Sync.lemma_3", "child": "AggGameNet_Sync_Setting", "via": ["solution", "statement"]}
+{"parent": "AggGameNet.Sync.lemma_4", "child": "AggGameNet_Sync_Setting", "via": ["solution", "statement"]}
+{"parent": "AggGameNet.Sync.proposition_2", "child": "AggGameNet_Sync_Setting", "via": ["solution", "statement"]}
+{"parent": "AggGameNet.Sync.relation_19", "child": "AggGameNet_Sync_Setting", "via": ["solution", "statement"]}
+{"parent": "AggGameNet.Sync.relation_20", "child": "AggGameNet_Sync_Setting", "via": ["solution", "statement"]}
+{"parent": "AggGameNet.Sync.vi_exists_unique", "child": "AggGameNet_Sync_Setting", "via": ["solution", "statement"]}
 {"parent": "AggGameNet_GossipConst_Game", "child": "AggGameNet_Gossip_Setting", "via": ["statement"]}
 {"parent": "AggGameNet_GossipConst_Game", "child": "AggGameNet_Sync_Game", "via": ["statement"]}
 {"parent": "AggGameNet_GossipConst_Game", "child": "AggGameNet_Sync_Setting", "via": ["statement"]}
@@ -42460,7 +42460,7 @@
 {"parent": "AssocRealizations.TypesMeet.proposition_4_4", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
 {"parent": "AssocRealizations.TypesMeet.proposition_4_7", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
 {"parent": "AssocRealizations.TypesMeet.proposition_5_5", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
-{"parent": "AssocRealizations.TypesMeet.theorem_6_1", "child": "AssocRealizations_TypesMeet_Setting", "via": ["statement"]}
+{"parent": "AssocRealizations.TypesMeet.theorem_6_1", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
 {"parent": "AssocRealizations.TypesMeet.three_properties_snake", "child": "AssocRealizations_TypesMeet_Setting", "via": ["solution", "statement"]}
 {"parent": "AssocRealizations_HLClass_Setting", "child": "AssocRealizations_TypesMeet_Setting", "via": ["statement"]}
 {"parent": "AssocRealizations_HLClass_Setting", "child": "ChvatalArtGallery_FanPartition_Triangulation", "via": ["statement"]}
@@ -42488,21 +42488,21 @@
 {"parent": "AssortSearch.Cannibal.theorem_2", "child": "RetailVariety_Structure_Model", "via": ["solution", "statement"]}
 {"parent": "AssortSearch.Cannibal.zero_mean", "child": "AssortSearch_Cannibal_Model", "via": ["statement"]}
 {"parent": "AssortSearch.Cannibal.zero_mean", "child": "RetailVariety_Structure_Model", "via": ["statement"]}
-{"parent": "AssortSearch.FullAssort.H_tendsto_one", "child": "AssortSearch_FullAssort_Model", "via": ["statement"]}
-{"parent": "AssortSearch.FullAssort.Ubar_decreasing", "child": "AssortSearch_FullAssort_Model", "via": ["statement"]}
-{"parent": "AssortSearch.FullAssort.Ubar_limits", "child": "AssortSearch_FullAssort_Model", "via": ["statement"]}
-{"parent": "AssortSearch.FullAssort.outside_max_law", "child": "AssortSearch_FullAssort_Model", "via": ["statement"]}
-{"parent": "AssortSearch.FullAssort.searchGain_decreasing", "child": "AssortSearch_FullAssort_Model", "via": ["statement"]}
-{"parent": "AssortSearch.FullAssort.theorem_3_threshold", "child": "AssortSearch_FullAssort_Model", "via": ["statement"]}
-{"parent": "AssortSearch.FullAssort.theorem_6", "child": "AssortSearch_FullAssort_Model", "via": ["statement"]}
-{"parent": "AssortSearch.HeurEq.equilibrium_profit_nonneg", "child": "AssortSearch_HeurEq_Model", "via": ["statement"]}
+{"parent": "AssortSearch.FullAssort.H_tendsto_one", "child": "AssortSearch_FullAssort_Model", "via": ["solution", "statement"]}
+{"parent": "AssortSearch.FullAssort.Ubar_decreasing", "child": "AssortSearch_FullAssort_Model", "via": ["solution", "statement"]}
+{"parent": "AssortSearch.FullAssort.Ubar_limits", "child": "AssortSearch_FullAssort_Model", "via": ["solution", "statement"]}
+{"parent": "AssortSearch.FullAssort.outside_max_law", "child": "AssortSearch_FullAssort_Model", "via": ["solution", "statement"]}
+{"parent": "AssortSearch.FullAssort.searchGain_decreasing", "child": "AssortSearch_FullAssort_Model", "via": ["solution", "statement"]}
+{"parent": "AssortSearch.FullAssort.theorem_3_threshold", "child": "AssortSearch_FullAssort_Model", "via": ["solution", "statement"]}
+{"parent": "AssortSearch.FullAssort.theorem_6", "child": "AssortSearch_FullAssort_Model", "via": ["solution", "statement"]}
+{"parent": "AssortSearch.HeurEq.equilibrium_profit_nonneg", "child": "AssortSearch_HeurEq_Model", "via": ["solution", "statement"]}
 {"parent": "AssortSearch.HeurEq.estimates_ratio", "child": "AssortSearch_HeurEq_Model", "via": ["solution", "statement"]}
 {"parent": "AssortSearch.HeurEq.iia_independent", "child": "AssortSearch_HeurEq_Model", "via": ["solution", "statement"]}
 {"parent": "AssortSearch.HeurEq.no_purchase_ratio", "child": "AssortSearch_HeurEq_Model", "via": ["solution", "statement"]}
-{"parent": "AssortSearch.HeurEq.overestimate_narrower", "child": "AssortSearch_HeurEq_Model", "via": ["statement"]}
+{"parent": "AssortSearch.HeurEq.overestimate_narrower", "child": "AssortSearch_HeurEq_Model", "via": ["solution", "statement"]}
 {"parent": "AssortSearch.HeurEq.profit_agree_at_estimate", "child": "AssortSearch_HeurEq_Model", "via": ["solution", "statement"]}
 {"parent": "AssortSearch.HeurEq.theorem_7", "child": "AssortSearch_HeurEq_Model", "via": ["solution", "statement"]}
-{"parent": "AssortSearch.HeurEq.theorem_8", "child": "AssortSearch_HeurEq_Model", "via": ["statement"]}
+{"parent": "AssortSearch.HeurEq.theorem_8", "child": "AssortSearch_HeurEq_Model", "via": ["solution", "statement"]}
 {"parent": "AssortSearch.HeurEq.z_antitone", "child": "AssortSearch_HeurEq_Model", "via": ["statement"]}
 {"parent": "AssortSearch.MNLQC.derivative_sign", "child": "AssortSearch_MNLQC_Model", "via": ["solution", "statement"]}
 {"parent": "AssortSearch.MNLQC.derivative_sign", "child": "RetailVariety_Structure_Model", "via": ["statement"]}
@@ -42520,7 +42520,7 @@
 {"parent": "AssortSearch.SearchQC.eq_8_corrected", "child": "AssortSearch_SearchQC_ProofTerms", "via": ["statement"]}
 {"parent": "AssortSearch.SearchQC.f_mono_g_anti", "child": "AssortSearch_SearchQC_Model", "via": ["solution", "statement"]}
 {"parent": "AssortSearch.SearchQC.f_mono_g_anti", "child": "AssortSearch_SearchQC_ProofTerms", "via": ["solution", "statement"]}
-{"parent": "AssortSearch.SearchQC.theorem_5", "child": "AssortSearch_SearchQC_Model", "via": ["statement"]}
+{"parent": "AssortSearch.SearchQC.theorem_5", "child": "AssortSearch_SearchQC_Model", "via": ["solution", "statement"]}
 {"parent": "AssortSearch_Cannibal_Model", "child": "RetailVariety_Structure_Model", "via": ["statement"]}
 {"parent": "AssortSearch_FullAssort_Model", "child": "AssortSearch_Cannibal_Model", "via": ["statement"]}
 {"parent": "AssortSearch_FullAssort_Model", "child": "RetailVariety_Structure_Model", "via": ["statement"]}
@@ -75170,15 +75170,15 @@
 {"parent": "BHTOpinion.Approx.theorem4_lower_slope_bound", "child": "BHTOpinion_Approx_Continuum", "via": ["statement"]}
 {"parent": "BHTOpinion.Approx.theorem7_finite_horizon_approximation", "child": "BHTOpinion_Approx_Continuum", "via": ["solution", "statement"]}
 {"parent": "BHTOpinion.Approx.theorem7_finite_horizon_approximation", "child": "BHTOpinion_Approx_Discrete", "via": ["solution", "statement"]}
-{"parent": "BHTOpinion.Continuum.lemma1_lipschitz", "child": "BHTOpinion_Continuum_Model", "via": ["statement"]}
-{"parent": "BHTOpinion.Continuum.lemma2_rate_bounds", "child": "BHTOpinion_Continuum_Model", "via": ["statement"]}
-{"parent": "BHTOpinion.Continuum.lemma3_partial_integral_converges", "child": "BHTOpinion_Continuum_Model", "via": ["statement"]}
-{"parent": "BHTOpinion.Continuum.prop2_pointwise_convergence", "child": "BHTOpinion_Continuum_Model", "via": ["statement"]}
-{"parent": "BHTOpinion.Continuum.prop3a_limit_in_Fbar", "child": "BHTOpinion_Continuum_Model", "via": ["statement"]}
-{"parent": "BHTOpinion.Continuum.prop3b_F_fixed_point", "child": "BHTOpinion_Continuum_Model", "via": ["statement"]}
-{"parent": "BHTOpinion.Continuum.prop3c_fixed_point_in_Fbar", "child": "BHTOpinion_Continuum_Model", "via": ["statement"]}
+{"parent": "BHTOpinion.Continuum.lemma1_lipschitz", "child": "BHTOpinion_Continuum_Model", "via": ["solution", "statement"]}
+{"parent": "BHTOpinion.Continuum.lemma2_rate_bounds", "child": "BHTOpinion_Continuum_Model", "via": ["solution", "statement"]}
+{"parent": "BHTOpinion.Continuum.lemma3_partial_integral_converges", "child": "BHTOpinion_Continuum_Model", "via": ["solution", "statement"]}
+{"parent": "BHTOpinion.Continuum.prop2_pointwise_convergence", "child": "BHTOpinion_Continuum_Model", "via": ["solution", "statement"]}
+{"parent": "BHTOpinion.Continuum.prop3a_limit_in_Fbar", "child": "BHTOpinion_Continuum_Model", "via": ["solution", "statement"]}
+{"parent": "BHTOpinion.Continuum.prop3b_F_fixed_point", "child": "BHTOpinion_Continuum_Model", "via": ["solution", "statement"]}
+{"parent": "BHTOpinion.Continuum.prop3c_fixed_point_in_Fbar", "child": "BHTOpinion_Continuum_Model", "via": ["solution", "statement"]}
 {"parent": "BHTOpinion.Continuum.theorem4_existence_uniqueness", "child": "BHTOpinion_Continuum_Model", "via": ["statement"]}
-{"parent": "BHTOpinion.Continuum.theorem5_convergence", "child": "BHTOpinion_Continuum_Model", "via": ["statement"]}
+{"parent": "BHTOpinion.Continuum.theorem5_convergence", "child": "BHTOpinion_Continuum_Model", "via": ["solution", "statement"]}
 {"parent": "BHTOpinion.Continuum.theorem6_intercluster_distance", "child": "BHTOpinion_Continuum_Model", "via": ["statement"]}
 {"parent": "BHTOpinion.Discrete.each_coordinate_converges", "child": "BHTOpinion_Discrete_Model", "via": ["statement"]}
 {"parent": "BHTOpinion.Discrete.eq2_3_partial_sums_monotone", "child": "BHTOpinion_Discrete_Model", "via": ["statement"]}
@@ -75565,7 +75565,7 @@
 {"parent": "BanKeskin.KnownSparsity.eq_15", "child": "BanKeskin_KnownSparsity_Model", "via": ["solution", "statement"]}
 {"parent": "BanKeskin.KnownSparsity.lemma_1", "child": "BanKeskin_KnownSparsity_Model", "via": ["statement"]}
 {"parent": "BanKeskin.KnownSparsity.lemma_2", "child": "BanKeskin_KnownSparsity_Model", "via": ["statement"]}
-{"parent": "BanKeskin.KnownSparsity.theorem_2", "child": "BanKeskin_KnownSparsity_Model", "via": ["statement"]}
+{"parent": "BanKeskin.KnownSparsity.theorem_2", "child": "BanKeskin_KnownSparsity_Model", "via": ["solution", "statement"]}
 {"parent": "BanKeskin.UnknownSparsity.experiment_count", "child": "BanKeskin_UnknownSparsity_Model", "via": ["solution", "statement"]}
 {"parent": "BanKeskin.UnknownSparsity.lemma_3", "child": "BanKeskin_UnknownSparsity_ILQX", "via": ["statement"]}
 {"parent": "BanKeskin.UnknownSparsity.lemma_3", "child": "BanKeskin_UnknownSparsity_Model", "via": ["statement"]}

@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalActualPrefixRuntime.hash_time_mono
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T13:41:03.339562+00:00
+-- url     : https://prove2.me/submissions/d0b90d1e-7520-46a4-9e48-cf91c723e751
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_Submission_ThreeSum_LightTernarySourceHostBudget
+import Definitions.Def_Submission_ThreeSum_TernaryWantedDictionaryFiber
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaQueryTime
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryOversizeDimensions
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryMomentReporterBudget
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernarySeedControllerBudget
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernarySeedScoreFactory
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernarySignedPreparationBudget
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryExtensionBudget
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryActualPrefixRuntime
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalActualPrefixRuntime
+open Light Real Filter Asymptotics
+open TernaryJointType WeightedGlobalLocalParameters WeightedGlobalCoverGoodMaps
+open WeightedGlobalArenaSourceSetup WeightedGlobalNativeCompleteFrontend
+open WeightedGlobalEntropyRates WeightedGlobalDimensionBounds WeightedGlobalOversizePrime
+open WeightedGlobalOversizeRates WeightedGlobalOversizeOverhead WeightedGlobalCoverScale
+open scoped BigOperators Topology
+set_option maxHeartbeats 8000000
+set_option maxRecDepth 24000
+attribute [local instance] Classical.propDecidable
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalActualPrefixRuntime
+theorem _root_.solution (J p b B : ℕ) (h : b≤B) :
+    LightSignedRowHash.time J p b≤LightSignedRowHash.time J p B :=by
+  unfold LightSignedRowHash.time LightNaturalDot.reducedTime
+  gcongr
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalActualPrefixRuntime

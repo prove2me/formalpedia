@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KempeCloning_binomial_normalization
 -- name    : KempeCloning.binomial_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:21:07.163273+00:00
 -- url     : https://prove2.me/theorems/0cd67a50-d67e-456f-9800-e53cde99b674

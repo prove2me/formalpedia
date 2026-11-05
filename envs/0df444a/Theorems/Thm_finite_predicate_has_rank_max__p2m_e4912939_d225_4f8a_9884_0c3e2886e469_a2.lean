@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_predicate_has_rank_max__p2m_e4912939_d225_4f8a_9884_0c3e2886e469_a2
 -- name    : finite_predicate_has_rank_max__p2m_e4912939_d225_4f8a_9884_0c3e2886e469_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T06:54:16.331549+00:00
 -- url     : https://prove2.me/theorems/3229f54f-3843-49cd-8ec4-9f9ee48ad656

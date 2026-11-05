@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543a_S4_dyadic
 -- name    : LL_Decomp1543a.S4_dyadic
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:41:25.345656+00:00
 -- url     : https://prove2.me/theorems/b3055a82-e46e-4953-8285-2d02c13fe8b1

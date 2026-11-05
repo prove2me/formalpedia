@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_negative_band_source_rate_to_real_lintegral
 -- name    : AvramDividend.Classical.avram_wave7_06_original_negative_band_source_rate_to_real_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T09:13:46.877669+00:00
 -- url     : https://prove2.me/theorems/2cc6bc61-b94e-4d48-a114-f44359e55fc0

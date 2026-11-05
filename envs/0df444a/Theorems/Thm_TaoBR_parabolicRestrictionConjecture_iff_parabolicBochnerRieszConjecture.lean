@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoBR_parabolicRestrictionConjecture_iff_parabolicBochnerRieszConjecture
 -- name    : TaoBR.parabolicRestrictionConjecture_iff_parabolicBochnerRieszConjecture
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-29T17:15:41.795358+00:00
 -- url     : https://prove2.me/theorems/aa99aa7c-85f5-4175-8b41-dad69ed1d880

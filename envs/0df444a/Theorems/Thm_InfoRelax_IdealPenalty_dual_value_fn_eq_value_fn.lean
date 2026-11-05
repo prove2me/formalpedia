@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelax_IdealPenalty_dual_value_fn_eq_value_fn
 -- name    : InfoRelax.IdealPenalty.dual_value_fn_eq_value_fn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:26.133386+00:00
 -- url     : https://prove2.me/theorems/21c026d7-45a9-4fb5-85a3-8dfc93ba6e5e

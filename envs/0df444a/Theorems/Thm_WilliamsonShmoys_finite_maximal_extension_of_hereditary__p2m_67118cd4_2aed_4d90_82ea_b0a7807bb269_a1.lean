@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_maximal_extension_of_hereditary__p2m_67118cd4_2aed_4d90_82ea_b0a7807bb269_a1
 -- name    : WilliamsonShmoys.finite_maximal_extension_of_hereditary__p2m_67118cd4_2aed_4d90_82ea_b0a7807bb269_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:52:40.253965+00:00
 -- url     : https://prove2.me/theorems/5b6b96d8-4ce0-42c1-a978-4ded37473014

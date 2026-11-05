@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_piecewisePathIto
 -- name    : levy_foundations_piecewisePathIto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:46:09.068916+00:00
 -- url     : https://prove2.me/theorems/4160bf95-11de-48aa-a1ed-b26c640037b8

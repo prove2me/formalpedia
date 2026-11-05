@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPricing_Compare_myopic_comparison
 -- name    : SLPricing.Compare.myopic_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:56:38.011632+00:00
 -- url     : https://prove2.me/theorems/6a96c5cb-13bf-4aed-95b8-068a83842f8c

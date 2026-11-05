@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edgeFinset_card_strict_of_lt__p2m_79adc0d7_3a11_418b_99ea_c41dca74eed5_a3
 -- name    : WilliamsonShmoys.edgeFinset_card_strict_of_lt__p2m_79adc0d7_3a11_418b_99ea_c41dca74eed5_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:13:58.120923+00:00
 -- url     : https://prove2.me/theorems/4652e9dd-b4ff-4ab4-8c66-c5b0e3748747

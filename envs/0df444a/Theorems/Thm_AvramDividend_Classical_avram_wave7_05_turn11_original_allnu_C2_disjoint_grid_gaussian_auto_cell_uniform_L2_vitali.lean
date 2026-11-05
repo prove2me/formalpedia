@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_uniform_L2_vitali
 -- name    : AvramDividend.Classical.avram_wave7_05_turn11_original_allnu_C2_disjoint_grid_gaussian_auto_cell_uniform_L2_vitali
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T11:12:52.922826+00:00
 -- url     : https://prove2.me/theorems/af6e5592-3fa0-4eaf-ab49-009b3183e21b

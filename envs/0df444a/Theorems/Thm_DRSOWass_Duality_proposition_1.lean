@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRSOWass_Duality_proposition_1
 -- name    : DRSOWass.Duality.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:28:16.694526+00:00
 -- url     : https://prove2.me/theorems/e4844237-e402-4bd4-9dc1-63aee792a565

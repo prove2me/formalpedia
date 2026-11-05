@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_crossing_adjacency_makes_strict_extension__p2m_59758877_c28f_4756_a5bc_fc8ad3e95fc8_a1
 -- name    : crossing_adjacency_makes_strict_extension__p2m_59758877_c28f_4756_a5bc_fc8ad3e95fc8_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:52:59.19862+00:00
 -- url     : https://prove2.me/theorems/3e8a20ae-0ab9-4ff0-aa18-ab4804a350f8

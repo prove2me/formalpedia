@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPricing_Compare_theta_eq_p1_myopic
 -- name    : SLPricing.Compare.theta_eq_p1_myopic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:58:50.584186+00:00
 -- url     : https://prove2.me/theorems/3f162565-b0d5-46af-b9f4-662577528a1f

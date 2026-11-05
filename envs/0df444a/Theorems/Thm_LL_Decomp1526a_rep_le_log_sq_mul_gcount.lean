@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1526a_rep_le_log_sq_mul_gcount
 -- name    : LL_Decomp1526a.rep_le_log_sq_mul_gcount
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-30T14:04:34.771988+00:00
 -- url     : https://prove2.me/theorems/3f579a79-b68b-4c1c-a143-2a400a2dc6e6

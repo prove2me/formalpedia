@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TailRiskSharing.VaRTail.theorem2_var_tail_inf_convolution
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-04T04:44:51.470977+00:00
 -- url     : https://prove2.me/submissions/cb027b48-4fbf-4570-b6cc-ebe973dab150
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_TailRiskSharing_VaRTail_Setting

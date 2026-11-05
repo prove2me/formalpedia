@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortWDRODual_Legendre_lemma_1
 -- name    : ShortWDRODual.Legendre.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:35:21.598991+00:00
 -- url     : https://prove2.me/theorems/c2e7d7e1-0b67-4355-8781-4cbd25228ea1

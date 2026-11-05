@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReluMIP_Ideal_fm_projection_eq_system7
 -- name    : ReluMIP.Ideal.fm_projection_eq_system7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:17.369268+00:00
 -- url     : https://prove2.me/theorems/def59097-40a6-4d0d-b61b-0c5705ffa2fb

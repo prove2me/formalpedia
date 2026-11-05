@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanPangGQVI_Existence_theorem_4_2
 -- name    : ChanPangGQVI.Existence.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:41:16.760822+00:00
 -- url     : https://prove2.me/theorems/27a356f8-aa07-4899-83fa-cc974b8febf1

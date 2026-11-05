@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynAssortPers_Regret_lemma_6
 -- name    : DynAssortPers.Regret.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:17:28.230969+00:00
 -- url     : https://prove2.me/theorems/0bb8f003-cc03-4f79-bd96-3f328745e90b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JSQHalfinWhitt_Ergodicity_theorem_4
 -- name    : JSQHalfinWhitt.Ergodicity.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:39:23.142148+00:00
 -- url     : https://prove2.me/theorems/75b75c2e-d7f2-4c12-904d-86a7cf0634d6

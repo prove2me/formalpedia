@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KSeparate_myerson_one_good
 -- name    : MultiItemRev.KSeparate.myerson_one_good
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:28:46.374772+00:00
 -- url     : https://prove2.me/theorems/49a9ba5a-2228-4d2d-a941-b27283bfe883

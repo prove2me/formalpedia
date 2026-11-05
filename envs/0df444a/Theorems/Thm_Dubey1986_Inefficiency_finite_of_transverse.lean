@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Dubey1986_Inefficiency_finite_of_transverse
 -- name    : Dubey1986.Inefficiency.finite_of_transverse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:34:40.843985+00:00
 -- url     : https://prove2.me/theorems/e751d027-576b-43f8-affd-1f3ac923bef0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_finiteTail
 -- name    : levy_foundations_finiteTail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:34:39.300316+00:00
 -- url     : https://prove2.me/theorems/d7c1cb98-f9d6-4c26-bae4-b9f1c51f8f75

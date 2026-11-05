@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_KSeparate_theorem_A
 -- name    : MultiItemRev.KSeparate.theorem_A
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:28:56.201991+00:00
 -- url     : https://prove2.me/theorems/85ce58e8-33fa-488b-a13d-ee29dea0337e

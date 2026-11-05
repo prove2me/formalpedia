@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_MultiBuyer_subdomain_ds
 -- name    : MultiItemRev.MultiBuyer.subdomain_ds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:30:20.069105+00:00
 -- url     : https://prove2.me/theorems/3a23eb0b-ca21-4aad-a689-960999105302

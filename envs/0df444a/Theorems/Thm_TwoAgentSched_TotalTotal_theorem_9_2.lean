@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_TotalTotal_theorem_9_2
 -- name    : TwoAgentSched.TotalTotal.theorem_9_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:10.7936+00:00
 -- url     : https://prove2.me/theorems/6a84217c-bc18-4142-bf54-2bb28c32b9aa

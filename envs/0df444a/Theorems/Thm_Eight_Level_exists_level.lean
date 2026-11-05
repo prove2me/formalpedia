@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_Eight_Level_exists_level
+-- name    : Eight.Level.exists_level
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-05T00:32:44.397491+00:00
+-- url     : https://prove2.me/theorems/d089bffe-87a2-4e84-88af-8a169156590c
+-- title:
+--   Level: exists level
+-- statement:
+--   The form in which «e_ℓ → 0» is used for Theorem 2: for every η > 0 and every K₀ there is a level
+--   ℓ with K_ℓ ≥ K₀ and e_ℓ ≤ η. Not a sentence of the paper; it follows from the limit and from ℓ <
+--   K_ℓ.
+--
+--   Source: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/networks/Eight/SecPseudocode_Levels.lean#L99-L101
+-- source:
+--   https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/proof/networks/Eight/SecPseudocode_Levels.lean#L99-L101
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_Eight_Level_Defs
+import Definitions.Def_SingleBitPieces_SecPseudocode_Levels
+import Mathlib.Tactic
+import Definitions.Def_Eight_SecPseudocode_Levels
+set_option autoImplicit false
+section
+section
+open Eight Eight.Level
+open Paper SingleBitPieces.SecPseudocode_Levels
+
+theorem Eight.Level.exists_level {η : ℝ} (hη : 0 < η) (K₀ : ℕ) : ∃ ℓ, K₀ ≤ levelK ℓ ∧ levelE ℓ ≤ η := by sorry

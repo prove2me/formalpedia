@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepMFC_FiniteHorizon_lemma_18
 -- name    : DeepMFC.FiniteHorizon.lemma_18
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:47:49.445855+00:00
 -- url     : https://prove2.me/theorems/0c45a68c-3cb1-40e3-b524-0394159d1934

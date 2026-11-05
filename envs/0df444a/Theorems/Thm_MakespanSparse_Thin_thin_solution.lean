@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MakespanSparse_Thin_thin_solution
 -- name    : MakespanSparse.Thin.thin_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:04:09.289189+00:00
 -- url     : https://prove2.me/theorems/9aefc17e-5d78-4121-9071-4c4246f122a8

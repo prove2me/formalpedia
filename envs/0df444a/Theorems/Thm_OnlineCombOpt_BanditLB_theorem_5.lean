@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCombOpt_BanditLB_theorem_5
 -- name    : OnlineCombOpt.BanditLB.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:55:44.37344+00:00
 -- url     : https://prove2.me/theorems/0191e881-940a-4c1f-913c-5a5c2d6acd35

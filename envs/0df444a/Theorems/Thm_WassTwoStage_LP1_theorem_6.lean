@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassTwoStage_LP1_theorem_6
 -- name    : WassTwoStage.LP1.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:57:18.217361+00:00
 -- url     : https://prove2.me/theorems/7de9c208-ab15-443e-9d0d-e43f4c6d0fca

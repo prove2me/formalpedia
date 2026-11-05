@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTaxiRouting_Integrality_flowRelax_extreme_zeroOne
 -- name    : OnlineTaxiRouting.Integrality.flowRelax_extreme_zeroOne
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:28:07.912754+00:00
 -- url     : https://prove2.me/theorems/5e60a581-5c5d-4ec8-952d-8932dcf70d27

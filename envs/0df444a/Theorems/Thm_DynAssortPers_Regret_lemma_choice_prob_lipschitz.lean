@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynAssortPers_Regret_lemma_choice_prob_lipschitz
 -- name    : DynAssortPers.Regret.lemma_choice_prob_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:15:52.373384+00:00
 -- url     : https://prove2.me/theorems/a2479293-e562-4cfd-8b32-ef44598c4572

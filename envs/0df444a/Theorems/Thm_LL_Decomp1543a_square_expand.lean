@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543a_square_expand
 -- name    : LL_Decomp1543a.square_expand
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:39:54.261097+00:00
 -- url     : https://prove2.me/theorems/0cfd206f-f322-4772-9d00-a16daf4efc96

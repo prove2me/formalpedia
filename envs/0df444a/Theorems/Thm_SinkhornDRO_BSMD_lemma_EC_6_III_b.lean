@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornDRO_BSMD_lemma_EC_6_III_b
 -- name    : SinkhornDRO.BSMD.lemma_EC_6_III_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:26:57.688974+00:00
 -- url     : https://prove2.me/theorems/b418880b-9f7c-4680-8df8-b54a3d4b04e4

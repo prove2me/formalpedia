@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_FullAssort_Ubar_decreasing
 -- name    : AssortSearch.FullAssort.Ubar_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:10.407188+00:00
 -- url     : https://prove2.me/theorems/4e2599e3-5e70-485e-9abd-ce1d2774c2fa

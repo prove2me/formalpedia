@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_graph_local_extension_connected__p2m_92ab9f16_2d15_4356_b6df_90082235199d_a1
 -- name    : WilliamsonShmoys.finite_graph_local_extension_connected__p2m_92ab9f16_2d15_4356_b6df_90082235199d_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:07:17.538426+00:00
 -- url     : https://prove2.me/theorems/c1868ea9-2f79-4b93-ad6c-bc634ef3355f

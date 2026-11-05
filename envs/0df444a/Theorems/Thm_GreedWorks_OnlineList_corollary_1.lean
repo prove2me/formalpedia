@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedWorks_OnlineList_corollary_1
 -- name    : GreedWorks.OnlineList.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:14:26.429066+00:00
 -- url     : https://prove2.me/theorems/24266217-a4d0-46a1-9306-5fa656bc03d3

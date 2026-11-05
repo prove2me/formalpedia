@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTaxiRouting_Integrality_theorem_1
 -- name    : OnlineTaxiRouting.Integrality.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:29:19.093983+00:00
 -- url     : https://prove2.me/theorems/b869263a-afb7-4d2d-b52e-e0c797b3b86b

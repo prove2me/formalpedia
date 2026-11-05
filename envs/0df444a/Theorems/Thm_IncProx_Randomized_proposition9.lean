@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncProx_Randomized_proposition9
 -- name    : IncProx.Randomized.proposition9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:37.113988+00:00
 -- url     : https://prove2.me/theorems/4c435f6b-6763-4a41-b601-cf1a0e4a3bad

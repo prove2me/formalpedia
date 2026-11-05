@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LasserreFC_Generic_proposition_4_4
 -- name    : LasserreFC.Generic.proposition_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:32:21.482772+00:00
 -- url     : https://prove2.me/theorems/f336aa49-7646-45f4-ad13-0b311505f606

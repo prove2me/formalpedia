@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonGames_Existence_lemma_3_7_best_response_lipschitz
 -- name    : GraphonGames.Existence.lemma_3_7_best_response_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:55:33.052933+00:00
 -- url     : https://prove2.me/theorems/c8606670-90c7-455f-ba30-b30c662b6251

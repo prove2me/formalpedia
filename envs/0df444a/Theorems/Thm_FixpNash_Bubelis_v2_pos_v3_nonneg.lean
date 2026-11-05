@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Bubelis_v2_pos_v3_nonneg
 -- name    : FixpNash.Bubelis.v2_pos_v3_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:24.753634+00:00
 -- url     : https://prove2.me/theorems/121a7e9f-b981-4d7a-8213-1d246069c6f8

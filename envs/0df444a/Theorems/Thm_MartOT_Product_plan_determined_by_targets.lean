@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Product_plan_determined_by_targets
 -- name    : MartOT.Product.plan_determined_by_targets
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:11.069631+00:00
 -- url     : https://prove2.me/theorems/14998329-66f2-4f20-b5cb-53974d7ca8d6

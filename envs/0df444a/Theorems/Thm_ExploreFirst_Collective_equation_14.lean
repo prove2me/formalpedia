@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Collective_equation_14
 -- name    : ExploreFirst.Collective.equation_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:04:43.285483+00:00
 -- url     : https://prove2.me/theorems/cf0fa862-e45d-4f66-b867-ff6efd68552a

@@ -1,0 +1,170 @@
+-- Prove2me | solution 1 for WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalSeedScoreFactory.AppendGuard.runO
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-04T13:00:35.679369+00:00
+-- url     : https://prove2.me/submissions/1ca6153a-bf96-41a1-8b7d-ddfa658df5bd
+
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernarySeedScore
+import Definitions.Def_Submission_ThreeSum_TernaryPhysicalDigitSpan
+import Definitions.Def_Submission_ThreeSum_TernaryWantedBatchCount
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryTensorFactoryScaled
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryNativeTensorScore
+import Definitions.Def_WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernarySeedScoreFactory
+import Theorems.Thm_Light_Ends_mono
+import Theorems.Thm_Light_Meets_mono
+import Theorems.Thm_Light_Need_Ok_mono
+import Theorems.Thm_Light_SameOn_mono
+import Theorems.Thm_Light_SameOutside_mono
+import Theorems.Thm_Light_SolvedIn_mono
+import Theorems.Thm_Light_SolvesN_meets
+import Theorems.Thm_Light_Solves_meets
+import Definitions.Def_WeightedCache3SUM_Alias_fe1d986d2522f297
+import Definitions.Def_WeightedCache3SUM_Alias_d9563e39a04084e5
+import Definitions.Def_WeightedCache3SUM_Alias_9c326f345c0ba28d
+import Definitions.Def_WeightedCache3SUM_Alias_d7235e9f603abd3f
+import Definitions.Def_WeightedCache3SUM_Alias_cd0e44d57dc54f82
+import Theorems.Thm_ThreeSum_LightFiniteTable_meets
+import Definitions.Def_WeightedCache3SUM_Alias_54cf43efc96d8adf
+import Definitions.Def_WeightedCache3SUM_Alias_eb65baeba73fd57c
+import Definitions.Def_WeightedCache3SUM_Alias_3b3552e2795ab46d
+import Definitions.Def_WeightedCache3SUM_Alias_3252ff1ef14149f2
+import Definitions.Def_WeightedCache3SUM_Alias_737c7144994f79de
+import Definitions.Def_WeightedCache3SUM_Alias_de0ba8c01a8a208c
+import Definitions.Def_WeightedCache3SUM_Alias_d061ef657958844a
+import Definitions.Def_WeightedCache3SUM_Alias_e1d95931a2ead3e4
+import Theorems.Thm_ThreeSum_LightModuloCounts_Procs_meets
+import Definitions.Def_WeightedCache3SUM_Alias_03cdb09d18890d4e
+import Theorems.Thm_ThreeSum_LightNaturalDot_meets
+import Definitions.Def_WeightedCache3SUM_Alias_aeb4de5e6b301b55
+import Definitions.Def_WeightedCache3SUM_Alias_375bd97fc128be02
+import Definitions.Def_WeightedCache3SUM_Alias_54f2bf19dfb01d66
+import Definitions.Def_WeightedCache3SUM_Alias_9a4576158068ee52
+import Definitions.Def_WeightedCache3SUM_Alias_e6a24ed55341e959
+import Definitions.Def_WeightedCache3SUM_Alias_4b4040d8de1fb856
+import Definitions.Def_WeightedCache3SUM_Alias_32e47c9a32bb047b
+import Theorems.Thm_ThreeSum_LightReportingAffine_meets
+import Definitions.Def_WeightedCache3SUM_Alias_9b3006da0fcbdf4e
+import Theorems.Thm_ThreeSum_LightScaleArray_meets
+import Theorems.Thm_ThreeSum_LightSignedFiniteTable_meets
+import Theorems.Thm_ThreeSum_LightSignedRowHash_Procs_meets
+import Definitions.Def_WeightedCache3SUM_Alias_73246870e6a638ab
+import Definitions.Def_WeightedCache3SUM_Alias_db7e3579c631dfa5
+import Definitions.Def_WeightedCache3SUM_Alias_8c6e823b5fcef3e6
+import Definitions.Def_WeightedCache3SUM_Alias_3b570d79c28763f9
+import Definitions.Def_WeightedCache3SUM_Alias_075817043fa4e845
+import Definitions.Def_WeightedCache3SUM_Alias_724c353a3aa82655
+import Theorems.Thm_ThreeSum_LightSourceResidues_meets
+import Theorems.Thm_ThreeSum_LightSpanAxpy_meets
+import Theorems.Thm_ThreeSum_LightSpanCatalogBlock_meets
+import Theorems.Thm_ThreeSum_LightSpanCatalogStep_meets
+import Theorems.Thm_ThreeSum_LightSpanCatalogTest_meets
+import Theorems.Thm_ThreeSum_LightSpanRowEqual_meets
+import Definitions.Def_WeightedCache3SUM_Alias_098d503c7eb426c7
+import Theorems.Thm_ThreeSum_LightTernaryAppendKeys_Procs_meets
+import Theorems.Thm_ThreeSum_LightTernaryBankAssembly_meets
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_meets
+import Theorems.Thm_ThreeSum_LightTernaryCountFrontend_row
+import Theorems.Thm_ThreeSum_LightTernaryDivide_meets
+import Theorems.Thm_ThreeSum_LightTernaryEnumeration_meets
+import Theorems.Thm_ThreeSum_LightTernaryEulerMemo_meets
+import Theorems.Thm_ThreeSum_LightTernaryEulerMetadata_meets
+import Theorems.Thm_ThreeSum_LightTernaryEulerRow_meets
+import Theorems.Thm_ThreeSum_LightTernaryEulerScan_meets
+import Theorems.Thm_ThreeSum_LightTernaryGroupBankStep_meets
+import Theorems.Thm_ThreeSum_LightTernaryGroupedBanks_meets
+import Theorems.Thm_ThreeSum_LightTernaryGroupedSourceKeys_meets
+import Theorems.Thm_ThreeSum_LightTernaryGroupedSources_meets
+import Theorems.Thm_ThreeSum_LightTernaryInversePass_meets
+import Theorems.Thm_ThreeSum_LightTernaryMetadata_meets
+import Theorems.Thm_ThreeSum_LightTernaryMomentAccumulate_meets
+import Theorems.Thm_ThreeSum_LightTernaryMomentChannelStep_Procs_meets
+import Theorems.Thm_ThreeSum_LightTernaryNearDigits_meets
+import Theorems.Thm_ThreeSum_LightTernaryNearEnumerationMain_meets
+import Theorems.Thm_ThreeSum_LightTernaryNearSourceWords_meets
+import Theorems.Thm_ThreeSum_LightTernaryNearSource_meets
+import Theorems.Thm_ThreeSum_LightTernaryPairedPolynomial_meets
+import Theorems.Thm_ThreeSum_LightTernaryPairedPotentialBatch_meets
+import Theorems.Thm_ThreeSum_LightTernaryPairedPotential_meets
+import Theorems.Thm_ThreeSum_LightTernaryPass_meets
+import Theorems.Thm_ThreeSum_LightTernaryPredecessorTable_meets
+import Theorems.Thm_ThreeSum_LightTernaryPredecessor_meets
+import Theorems.Thm_ThreeSum_LightTernaryPreparedState_Snapshot_meets
+import Theorems.Thm_ThreeSum_LightTernaryProductChannel_meets
+import Theorems.Thm_ThreeSum_LightTernaryProduct_meets
+import Theorems.Thm_ThreeSum_LightTernaryQueryLookup_meets
+import Theorems.Thm_ThreeSum_LightTernaryRankTable_meets
+import Theorems.Thm_ThreeSum_LightTernaryRank_meets
+import Theorems.Thm_ThreeSum_LightTernaryScalarChannel_meets
+import Theorems.Thm_ThreeSum_LightTernarySignedRow_Procs_meets
+import Theorems.Thm_ThreeSum_LightTernarySourceHistogram_meets
+import Theorems.Thm_ThreeSum_LightTernarySourceKeys_meets
+import Theorems.Thm_ThreeSum_LightTernaryTaggedChannel_meets
+import Theorems.Thm_ThreeSum_LightTernaryTensorScatter_meets
+import Theorems.Thm_ThreeSum_LightTernaryWantedCanonical_meets
+import Theorems.Thm_ThreeSum_LightTernaryWantedRowDispatch_meets
+import Theorems.Thm_ThreeSum_LightTernaryWeightedHistogram_meets
+import Definitions.Def_WeightedCache3SUM_Alias_7018b9952430b957
+import Definitions.Def_WeightedCache3SUM_Alias_5471e369d555e9e5
+import Definitions.Def_WeightedCache3SUM_Alias_b5410f4bcc10d599
+import Theorems.Thm_ThreeSum_ReportingHostRelocation_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightCacheEnumeration_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedBankAssembly_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedCost_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedCountFrontend_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedCountFrontend_row
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedEulerMetadata_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedGlobalMomentChannelFactory_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedGlobalQuarticStep_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedGlobalTensorDriver_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedGlobalTensorFactory_procs
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedGroupBankStep_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedGroupedBanks_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedNearDigits_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedNearEnumerationMain_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedNearSourceWords_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedNearSource_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedPredecessorTable_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedPredecessor_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedPreparedState_Snapshot_meets
+import Theorems.Thm_WeightedCache3SUMRefinement_e1ae71d_ThreeSum_LightWeightedWantedRowDispatch_meets
+attribute [local simp] ThreeSum.LightTernaryCountFrontend.row
+attribute [local simp] WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedCountFrontend.row
+
+
+
+set_option autoImplicit false
+open WeightedCache3SUMRefinement_e1ae71d
+open _root_.ThreeSum
+noncomputable section
+open WeightedCache3SUMRefinement_e1ae71d.ThreeSum WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalSeedScoreFactory
+open Light
+set_option maxHeartbeats 8000000
+set_option maxRecDepth 24000
+variable {lim : Limits}
+namespace WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalSeedScoreFactory
+namespace AppendGuard
+theorem _root_.solution {C : Config} {D : Data C} {depth : ℕ} {μ ν : ℕ → ℤ}
+    (G : AppendGuard C D lim depth μ) (H : BuiltC C D μ ν) :
+    Meets lim LightTernaryAppendKeys.program 6 (depth+1)
+      [C.Omatrix,C.row,C.Oold,C.Onew,C.nO,C.J+2,C.p,C.power,C.hashWork] ν
+      (LightTernaryAppendKeys.time C.nO (C.J+2) C.p D.bO)
+      (fun _ ξ => BuiltO C D μ ξ) := by
+  have hh := LightTernaryAppendKeys.procs.meets (depth := depth+1) (matrix := C.Omatrix) (row := C.row) (oldBase := C.Oold) (dst := C.Onew) (scratch := C.hashWork) ν D.oldO D.O D.coeff
+    G.spaceWord (by have := G.depth; omega) G.bO
+    (by have := G.matrixO; have := G.BC; have := G.CO; omega)
+    (by have := G.rowBefore; have := G.BC; have := G.CO; omega)
+    (by have := G.oldO; have := G.BC; have := G.CO; omega)
+    G.outScratch G.scratchSpace
+    (by intro i hi k hk; rw [H.1.1 _ (by have := G.matrixO; nlinarith),G.ORead i hi k hk])
+    (by intro k hk; rw [H.1.1 _ (by have := G.rowBefore; omega),G.coeffRead k hk])
+    (by intro i hi; rw [H.1.1 _ (by have := G.oldO; omega),G.oldORead i hi])
+    G.Obound G.coeffBound G.oldOBound G.Oword
+  apply hh.mono le_rfl
+  intro _ ξ h
+  refine ⟨⟨⟨?_,?_⟩,?_⟩,h.1⟩
+  · intro x hx; rw [h.2 x (by have := G.BC; have := G.CO; omega),H.1.1 x hx]
+  · intro i hi; rw [h.2 _ (by have := G.BC; have := G.CO; omega),H.1.2 i hi]
+  · intro i hi; rw [h.2 _ (by have := G.CO; omega),H.2 i hi]
+end AppendGuard
+end WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalSeedScoreFactory

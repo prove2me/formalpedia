@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrideGuilt_theorem_2
 -- name    : PrideGuilt.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:01:18.599784+00:00
 -- url     : https://prove2.me/theorems/d688909d-59df-45e0-b775-b42800e6f54d

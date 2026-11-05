@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_iIndepFun_setRestrict_pairwiseDisjoint
 -- name    : levy_foundations_iIndepFun_setRestrict_pairwiseDisjoint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T21:06:42.023229+00:00
 -- url     : https://prove2.me/theorems/666d880d-7a1c-4910-80a0-c17523c9f6a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_20_original_BV_W804_exact_real_horizon_terminal_integrable
 -- name    : AvramDividend.Classical.avram_wave8_20_original_BV_W804_exact_real_horizon_terminal_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T23:47:42.679121+00:00
 -- url     : https://prove2.me/theorems/beb7f2ea-daa1-44d4-8db8-366bbcb5bd85
