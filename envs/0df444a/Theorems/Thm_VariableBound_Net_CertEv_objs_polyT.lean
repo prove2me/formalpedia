@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_CertEv_objs_polyT
 -- name    : VariableBound.Net.CertEv.objs_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:42:57.421262+00:00
 -- url     : https://prove2.me/theorems/310a13af-b146-4515-bede-5f17fa8aedfb

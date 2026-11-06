@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_Composition_lemma_2_2
 -- name    : WhittFLT.Composition.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:58:19.887491+00:00
 -- url     : https://prove2.me/theorems/f0411301-ab2c-4532-a99f-5a5a834e3429

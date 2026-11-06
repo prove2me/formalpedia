@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_stCanBeWrappedAndEveryWrapperCounts
 -- name    : ThmCount.stCanBeWrappedAndEveryWrapperCounts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:10:59.818888+00:00
 -- url     : https://prove2.me/theorems/ab6a1db6-ee97-4cc7-bb52-dc595988a637

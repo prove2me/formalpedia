@@ -1,0 +1,181 @@
+-- Prove2me | Definitions.Def_TC433_GroupTheory_FixedSubgroup_59980ac542
+-- name    : TC433_GroupTheory_FixedSubgroup_59980ac542
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T10:16:28.968138+00:00
+-- url     : https://prove2.me/theorems/d7f32dbd-bc12-464d-9433-196033b10745
+-- title:
+--   TauCeti: GroupTheory / FixedSubgroup
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.GroupTheory.FixedSubgroup for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/GroupTheory/FixedSubgroup.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+
+public import Definitions.Def_TC433_Algebra_Group_Equiv_Semiconj_e1ac92dbf2
+public import Definitions.Def_TC433_Algebra_Group_Subgroup_Map_650e8a9083
+public import Mathlib.Dynamics.FixedPoints.Defs
+
+/-!
+# The fixed points of an endomorphism
+
+Let `F` be an endomorphism of a group `G`. This file studies the subgroup
+
+```text
+fixedSubgroup F = F.eqLocus (MonoidHom.id G)
+```
+
+of points of `G` fixed by `F`: when it is everything, how it grows along the powers of `F`, and how
+it transports along an isomorphism of the ambient group.
+
+An isomorphism `ψ : G ≃* G'` *intertwines* `F` with an endomorphism `F'` of `G'` when
+`ψ ∘ F = F' ∘ ψ`. Such a `ψ` carries `fixedSubgroup F` onto `fixedSubgroup F'`, so the pair
+`(G, F)` determines its fixed subgroup up to isomorphism and not merely up to inclusion. The
+one-sided statement for a homomorphism is `TauCeti.map_fixedSubgroup_le`; the two-sided statements
+are `TauCeti.map_fixedSubgroup_eq` and `TauCeti.fixedSubgroupCongr`.
+
+## Main definitions and results
+
+* `TauCeti.fixedSubgroup`: the subgroup of points fixed by an endomorphism.
+* `TauCeti.fixedSubgroup_eq_top_iff`: only the identity fixes every point.
+* `TauCeti.fixedSubgroup_le_fixedSubgroup_pow`: a point fixed by an endomorphism is fixed by each of
+  its powers.
+* `TauCeti.fixedSubgroup_inf_fixedSubgroup_le_fixedSubgroup_comp`: a point fixed by each of two
+  endomorphisms is fixed by their composite.
+* `TauCeti.map_fixedSubgroup_le`: a homomorphism intertwining two endomorphisms carries the points
+  fixed by the one to the points fixed by the other.
+* `TauCeti.map_subtype_fixedSubgroup_of_coe_eq`: the fixed points of an endomorphism of a subgroup,
+  read in the ambient group.
+* `TauCeti.map_fixedSubgroup_eq`: an isomorphism intertwining them carries the one *onto* the other.
+* `TauCeti.fixedSubgroupCongr`: the resulting isomorphism of fixed subgroups.
+
+## References
+
+The fixed subgroup of a Steinberg endomorphism of a connected reductive group is a finite group of
+Lie type; see R. W. Carter, *Simple Groups of Lie Type*.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace TauCeti
+
+variable {G : Type*} [Group G]
+
+/-- The subgroup of points fixed by an endomorphism of a group, `F.eqLocus (MonoidHom.id G)`. -/
+abbrev fixedSubgroup (F : G →* G) : Subgroup G := F.eqLocus (MonoidHom.id G)
+
+/-- A point lies in the fixed subgroup of `F` exactly when `F` fixes it. -/
+@[simp]
+theorem mem_fixedSubgroup {F : G →* G} {x : G} : x ∈ fixedSubgroup F ↔ F x = x := Iff.rfl
+
+/-- Only the identity fixes every point. -/
+theorem fixedSubgroup_eq_top_iff {F : G →* G} : fixedSubgroup F = ⊤ ↔ F = MonoidHom.id G := by
+  simp [Subgroup.eq_top_iff', MonoidHom.ext_iff]
+
+/-- A point fixed by an endomorphism is fixed by each of its powers.
+
+In particular, when some power of a Steinberg endomorphism is a Frobenius map (its square, for the
+Suzuki and Ree groups), the fixed group of the Steinberg endomorphism lies inside the fixed group of
+that Frobenius map. -/
+theorem fixedSubgroup_le_fixedSubgroup_pow (F : Monoid.End G) (n : ℕ) :
+    fixedSubgroup (F : G →* G) ≤ fixedSubgroup ((F ^ n : Monoid.End G) : G →* G) := fun x hx =>
+  mem_fixedSubgroup.mpr <| (congrFun (Monoid.End.coe_pow _ F n) x).trans
+    (Function.iterate_fixed (mem_fixedSubgroup.mp hx) n)
+
+/-- A point fixed by each of two endomorphisms is fixed by their composite.
+
+The converse fails in general: a Steinberg endomorphism is a composite of a Frobenius with a
+diagram automorphism, and its fixed points are not in general fixed by either factor.
+
+This is the subgroup-packaged form of `Function.inter_subset_fixedPoints_comp`. -/
+theorem fixedSubgroup_inf_fixedSubgroup_le_fixedSubgroup_comp (F F' : G →* G) :
+    fixedSubgroup F ⊓ fixedSubgroup F' ≤ fixedSubgroup (F'.comp F) := fun x hx => by
+  obtain ⟨hF, hF'⟩ := Subgroup.mem_inf.mp hx
+  rw [mem_fixedSubgroup] at hF hF' ⊢
+  rw [MonoidHom.coe_comp]
+  exact Function.inter_subset_fixedPoints_comp ⟨hF', hF⟩
+
+variable {G' : Type*} [Group G']
+
+/-- A homomorphism intertwining two endomorphisms carries the points fixed by the one to the points
+fixed by the other. -/
+theorem map_fixedSubgroup_le {F : G →* G} {F' : G' →* G'} (ψ : G →* G')
+    (hψ : ψ.comp F = F'.comp ψ) : (fixedSubgroup F).map ψ ≤ fixedSubgroup F' := by
+  rintro _ ⟨x, hx, rfl⟩
+  rw [mem_fixedSubgroup, ← MonoidHom.comp_apply, ← hψ, MonoidHom.comp_apply,
+    mem_fixedSubgroup.mp hx]
+
+/-- **Fixed points of an endomorphism of a subgroup, read in the ambient group.** If an
+endomorphism `F` of `S ≤ G` is the restriction of an endomorphism `f` of `G`, then the image of
+its fixed subgroup in `G` is `S ⊓ fixedSubgroup f`. -/
+theorem map_subtype_fixedSubgroup_of_coe_eq {S : Subgroup G} (F : S →* S) (f : G →* G)
+    (hF : ∀ g : S, (F g : G) = f g) :
+    (fixedSubgroup F).map S.subtype = S ⊓ fixedSubgroup f := by
+  ext g
+  simp [Subtype.ext_iff, hF, and_comm]
+
+/-! ### Transport along an isomorphism of the ambient group -/
+
+variable {F : G →* G} {F' : G' →* G'} {G'' : Type*} [Group G''] {F'' : G'' →* G''}
+
+/-- An isomorphism intertwining two endomorphisms carries the points fixed by the one *onto* the
+points fixed by the other. -/
+theorem map_fixedSubgroup_eq (ψ : G ≃* G')
+    (hψ : (ψ : G →* G').comp F = F'.comp (ψ : G →* G')) :
+    (fixedSubgroup F).map (ψ : G →* G') = fixedSubgroup F' :=
+  le_antisymm (map_fixedSubgroup_le _ hψ) fun y hy =>
+    ⟨ψ.symm y,
+      map_fixedSubgroup_le (ψ.symm : G' →* G) (ψ.symm_comp_eq_comp_symm_of_comp_eq_comp hψ)
+        ⟨y, hy, rfl⟩,
+      ψ.apply_symm_apply y⟩
+
+/-- The isomorphism of fixed subgroups induced by an isomorphism intertwining the two
+endomorphisms. -/
+def fixedSubgroupCongr (ψ : G ≃* G')
+    (hψ : (ψ : G →* G').comp F = F'.comp (ψ : G →* G')) :
+    ↥(fixedSubgroup F) ≃* ↥(fixedSubgroup F') :=
+  Subgroup.congrOfMapEq ψ (map_fixedSubgroup_eq ψ hψ)
+
+@[simp]
+theorem coe_fixedSubgroupCongr_apply (ψ : G ≃* G')
+    (hψ : (ψ : G →* G').comp F = F'.comp (ψ : G →* G')) (x : ↥(fixedSubgroup F)) :
+    (fixedSubgroupCongr ψ hψ x : G') = ψ (x : G) :=
+  Subgroup.coe_congrOfMapEq_apply ψ _ x
+
+@[simp]
+theorem coe_fixedSubgroupCongr_symm_apply (ψ : G ≃* G')
+    (hψ : (ψ : G →* G').comp F = F'.comp (ψ : G →* G')) (y : ↥(fixedSubgroup F')) :
+    ((fixedSubgroupCongr ψ hψ).symm y : G) = ψ.symm (y : G') :=
+  Subgroup.coe_congrOfMapEq_symm_apply ψ _ y
+
+@[simp]
+theorem fixedSubgroupCongr_refl
+    (hψ : (MulEquiv.refl G : G →* G).comp F = F.comp (MulEquiv.refl G : G →* G)) :
+    fixedSubgroupCongr (MulEquiv.refl G) hψ = MulEquiv.refl ↥(fixedSubgroup F) :=
+  Subgroup.congrOfMapEq_refl _
+
+@[simp]
+theorem fixedSubgroupCongr_trans (ψ : G ≃* G')
+    (hψ : (ψ : G →* G').comp F = F'.comp (ψ : G →* G')) (χ : G' ≃* G'')
+    (hχ : (χ : G' →* G'').comp F' = F''.comp (χ : G' →* G'')) :
+    (fixedSubgroupCongr ψ hψ).trans (fixedSubgroupCongr χ hχ) =
+      fixedSubgroupCongr (ψ.trans χ) (trans_comp_eq_comp_trans_of_comp_eq_comp hψ hχ) :=
+  Subgroup.congrOfMapEq_trans _ _ _ _
+
+-- Not `@[simp]`, for the reason given at `TauCeti.Subgroup.congrOfMapEq_symm`.
+theorem fixedSubgroupCongr_symm (ψ : G ≃* G')
+    (hψ : (ψ : G →* G').comp F = F'.comp (ψ : G →* G')) :
+    (fixedSubgroupCongr ψ hψ).symm =
+      fixedSubgroupCongr ψ.symm (ψ.symm_comp_eq_comp_symm_of_comp_eq_comp hψ) :=
+  Subgroup.congrOfMapEq_symm _ _
+
+end TauCeti
+
+

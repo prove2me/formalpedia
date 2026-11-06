@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClausesOccur_boundInClauses
 -- name    : ClausesOccur.boundInClauses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:35.105673+00:00
 -- url     : https://prove2.me/theorems/d5641f82-23cd-4a87-bdd4-32f50f3fe689

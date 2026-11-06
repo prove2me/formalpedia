@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_after_front
 -- name    : OccurM.after_front
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:09.844073+00:00
 -- url     : https://prove2.me/theorems/4a4d0a9c-35ff-433b-aa97-c2f64d4e2ff8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_initList_otm
 -- name    : CircuitLowerBound.Oracle.initList_otm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:46:27.882972+00:00
 -- url     : https://prove2.me/theorems/dc0003ca-00e3-4baa-9292-96156609564e

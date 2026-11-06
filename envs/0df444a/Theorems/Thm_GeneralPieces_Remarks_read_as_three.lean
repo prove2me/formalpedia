@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_Remarks_read_as_three
 -- name    : GeneralPieces.Remarks.read_as_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:42.185927+00:00
 -- url     : https://prove2.me/theorems/a6cf57be-abf4-465e-8bb5-6ebcbee726ff

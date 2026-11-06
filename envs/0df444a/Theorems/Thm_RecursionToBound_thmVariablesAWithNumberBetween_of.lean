@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_thmVariablesAWithNumberBetween_of
 -- name    : RecursionToBound.thmVariablesAWithNumberBetween_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:07.365856+00:00
 -- url     : https://prove2.me/theorems/d83c3c30-f2e6-4bc0-9f03-c0e4feb782c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_dropTake_polyT
 -- name    : ExplicitCost.dropTake_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:58:36.867547+00:00
 -- url     : https://prove2.me/theorems/1bfd820d-5f92-469e-a67b-28261ef5ff19

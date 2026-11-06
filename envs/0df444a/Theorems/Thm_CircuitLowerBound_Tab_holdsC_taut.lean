@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Tab_holdsC_taut
 -- name    : CircuitLowerBound.Tab.holdsC_taut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:43:12.690506+00:00
 -- url     : https://prove2.me/theorems/a3870f10-ea7b-48cd-b058-0fd0ad908be8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_wrapper_counts
 -- name    : ThmCount.wrapper_counts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:41:40.127787+00:00
 -- url     : https://prove2.me/theorems/65999d87-b623-4ce8-ae1e-7aa9fbb398c0

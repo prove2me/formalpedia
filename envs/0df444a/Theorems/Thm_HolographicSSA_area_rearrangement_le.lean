@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolographicSSA_area_rearrangement_le
 -- name    : HolographicSSA.area_rearrangement_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:32:57.140659+00:00
 -- url     : https://prove2.me/theorems/70bf46d5-dc16-4f7f-a43a-879d3d412054

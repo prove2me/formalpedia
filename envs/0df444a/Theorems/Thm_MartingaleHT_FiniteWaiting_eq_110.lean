@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartingaleHT_FiniteWaiting_eq_110
 -- name    : MartingaleHT.FiniteWaiting.eq_110
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:31:16.526981+00:00
 -- url     : https://prove2.me/theorems/3857ed95-2cc0-4ef4-b84a-1294352dc71e

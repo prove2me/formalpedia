@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_DomTree_cntS_step
 -- name    : GraphProblems.DomTree.cntS_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:02:37.206429+00:00
 -- url     : https://prove2.me/theorems/2dc13de8-fb65-4497-8842-8eec5de2ca34

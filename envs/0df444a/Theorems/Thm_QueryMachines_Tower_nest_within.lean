@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_nest_within
 -- name    : QueryMachines.Tower.nest_within
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:49:44.108197+00:00
 -- url     : https://prove2.me/theorems/f40f5ee9-6646-47a2-9ec9-a4beffb9bb18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stCountCostOf
 -- name    : Exits.stCountCostOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:39:21.016883+00:00
 -- url     : https://prove2.me/theorems/501db033-6f50-44ed-8130-458c1f4ba594

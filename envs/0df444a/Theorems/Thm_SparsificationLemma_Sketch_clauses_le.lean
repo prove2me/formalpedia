@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Sketch_clauses_le
 -- name    : SparsificationLemma.Sketch.clauses_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:13.825622+00:00
 -- url     : https://prove2.me/theorems/187fcea7-a82e-45dc-bdc2-c979256abb5e

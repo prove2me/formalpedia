@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_clipE_eq
 -- name    : CircuitLowerBound.TabF.clipE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:04:20.489433+00:00
 -- url     : https://prove2.me/theorems/61122eb4-f1ec-4340-8207-93fd661322ba

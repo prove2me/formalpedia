@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_getD_odd
 -- name    : CircuitLowerBound.Round.getD_odd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:56:52.487593+00:00
 -- url     : https://prove2.me/theorems/133e58d6-6629-4856-a28f-0442c882e645

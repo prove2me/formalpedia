@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEFinite_regret_eq_sum_gap_pulls
 -- name    : LinParamBandits.UEFinite.regret_eq_sum_gap_pulls
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:03:21.267985+00:00
 -- url     : https://prove2.me/theorems/db1d6bb8-92d8-48b4-96bc-f9244d8584ae

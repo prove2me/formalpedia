@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_disk_delta_bounds_e
 -- name    : OAI.SharpPlanar.disk_delta_bounds_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:55:08.846739+00:00
 -- url     : https://prove2.me/theorems/6509534c-2220-447a-91c4-cb9425b2c0da

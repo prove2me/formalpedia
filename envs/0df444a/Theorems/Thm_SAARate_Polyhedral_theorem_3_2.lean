@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAARate_Polyhedral_theorem_3_2
 -- name    : SAARate.Polyhedral.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:24.082993+00:00
 -- url     : https://prove2.me/theorems/812223bd-c719-47b7-9deb-cf2d2e559143

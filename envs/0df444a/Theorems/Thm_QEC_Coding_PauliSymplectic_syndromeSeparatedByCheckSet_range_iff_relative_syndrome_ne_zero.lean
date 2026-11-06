@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_QEC_Coding_PauliSymplectic_syndromeSeparatedByCheckSet_range_iff_relative_syndrome_ne_zero
+-- name    : QEC.Coding.PauliSymplectic.syndromeSeparatedByCheckSet_range_iff_relative_syndrome_ne_zero
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-05T12:27:19.552852+00:00
+-- url     : https://prove2.me/theorems/893f2096-ef6a-4dd9-a4b7-7c936e64148a
+-- title:
+--   Pauli Symplectic: syndrome Separated By Check Set range iff relative syndrome ne zero
+-- statement:
+--   The legacy pair-separation predicate over the generator range is exactly a
+--   nonzero syndrome for the relative binary Pauli.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/Stabilizer/PauliSemantics.lean#L1723-L1728
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/Stabilizer/PauliSemantics.lean#L1723-L1728
+
+import Definitions.Def_QEC_Coding_Core_Definitions
+import Definitions.Def_QEC_Semantics_ErrorCorrection_CodeSupport
+import Definitions.Def_QEC_Semantics_ErrorCorrection_KLRecovery
+import Definitions.Def_QEC_Semantics_Channels_Kraus
+import Definitions.Def_QEC_Semantics_Channels_KrausKnillLaflamme
+import Definitions.Def_QEC_Semantics_Core_Qubit
+import Definitions.Def_QEC_Coding_Stabilizer_PauliSemantics
+set_option autoImplicit false
+noncomputable section
+open QEC
+open QEC.Coding
+open Classical
+open scoped BigOperators
+universe u w
+open QEC.Coding.PauliSymplectic
+variable {ι : Type u} [Fintype ι]
+variable [DecidableEq ι]
+omit [DecidableEq ι]
+
+theorem QEC.Coding.PauliSymplectic.syndromeSeparatedByCheckSet_range_iff_relative_syndrome_ne_zero
+    {κ : Type w} [Fintype κ] (generators : κ → Binary ι) (E F : Binary ι) :
+    syndromeSeparatedByCheckSet (Set.range generators) E F ↔
+      stabilizerSyndrome generators (binaryMul (binaryDagger E) F) ≠ 0 := by sorry

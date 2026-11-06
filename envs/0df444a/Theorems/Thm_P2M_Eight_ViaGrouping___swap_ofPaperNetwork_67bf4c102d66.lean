@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Eight_ViaGrouping___swap_ofPaperNetwork_67bf4c102d66
 -- name    : P2M_Eight_ViaGrouping___swap_ofPaperNetwork_67bf4c102d66
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:30.484069+00:00
 -- url     : https://prove2.me/theorems/f2fee459-1014-48a8-b130-16be67c2cd87

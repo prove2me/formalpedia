@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlangA_Diffusion_sde_well_posed
 -- name    : ErlangA.Diffusion.sde_well_posed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:02:48.012298+00:00
 -- url     : https://prove2.me/theorems/98028180-7365-4afa-bf5d-7b2179db997e

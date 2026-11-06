@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleywegtSAA_ExpRate_deviation_le_two_exp
 -- name    : KleywegtSAA.ExpRate.deviation_le_two_exp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:04:10.953993+00:00
 -- url     : https://prove2.me/theorems/922fcd81-2c1f-42fc-81f7-40d12f330b14

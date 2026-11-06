@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_gridProcs_close
 -- name    : Printed.gridProcs_close
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:46:08.8907+00:00
 -- url     : https://prove2.me/theorems/4444a34c-4b89-4212-a0cc-1f2a8ffffe83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Inf_wires_append
 -- name    : CircuitLowerBound.Inf.wires_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:01.341778+00:00
 -- url     : https://prove2.me/theorems/50214057-b9ef-41db-8ffe-5de99d97e3d2

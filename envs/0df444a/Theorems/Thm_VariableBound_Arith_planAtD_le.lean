@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Arith_planAtD_le
 -- name    : VariableBound.Arith.planAtD_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:48.651508+00:00
 -- url     : https://prove2.me/theorems/b286d4a8-c4ac-4eb5-a542-7cf40da185d4

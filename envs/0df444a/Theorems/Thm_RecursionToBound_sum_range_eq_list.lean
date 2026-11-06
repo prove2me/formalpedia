@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_sum_range_eq_list
 -- name    : RecursionToBound.sum_range_eq_list
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:38.404074+00:00
 -- url     : https://prove2.me/theorems/b91814c2-f1ea-4831-905f-1ae1436d5711

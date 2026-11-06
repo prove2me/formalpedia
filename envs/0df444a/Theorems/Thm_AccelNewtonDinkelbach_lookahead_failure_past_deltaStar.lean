@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelNewtonDinkelbach_lookahead_failure_past_deltaStar
 -- name    : AccelNewtonDinkelbach.lookahead_failure_past_deltaStar
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:16:45.873526+00:00
 -- url     : https://prove2.me/theorems/5fec8cb9-6a58-404a-8715-83e034c04bfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_ArithNat_size_objMax_le
 -- name    : VariableBound.ArithNat.size_objMax_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:27.27796+00:00
 -- url     : https://prove2.me/theorems/f6fffca0-d8a8-4d28-8824-2d2d36254e57

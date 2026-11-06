@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_toFinset_vars
 -- name    : Coding.toFinset_vars
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:22.715419+00:00
 -- url     : https://prove2.me/theorems/55af0679-3a71-4e90-816c-c172cf66ef06

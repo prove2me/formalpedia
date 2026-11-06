@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_Supermod_proposition3_supermodular
 -- name    : ReliableFacilityLoc.Supermod.proposition3_supermodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:16:27.351346+00:00
 -- url     : https://prove2.me/theorems/7f1a308b-511b-4ddb-9ba8-afb51f80a4d2

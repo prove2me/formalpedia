@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_PinskerRefined_corollary_10_7_1
 -- name    : WildeQIT.PinskerRefined.corollary_10_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:09.652054+00:00
 -- url     : https://prove2.me/theorems/14bf4179-8f81-4f0f-87b3-0ae5488fefa7

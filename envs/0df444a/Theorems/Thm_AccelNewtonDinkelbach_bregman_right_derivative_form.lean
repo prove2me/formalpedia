@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelNewtonDinkelbach_bregman_right_derivative_form
 -- name    : AccelNewtonDinkelbach.bregman_right_derivative_form
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:17:09.376002+00:00
 -- url     : https://prove2.me/theorems/da7ad1da-ce98-466d-9afb-31783cd56a63

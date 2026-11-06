@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_size_sparse_le
 -- name    : Suffices.size_sparse_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:26:30.421759+00:00
 -- url     : https://prove2.me/theorems/8ec4e0ef-fb08-4100-9264-72485ad72ed0

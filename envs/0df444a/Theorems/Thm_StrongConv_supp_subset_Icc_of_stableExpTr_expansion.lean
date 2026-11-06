@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongConv_supp_subset_Icc_of_stableExpTr_expansion
 -- name    : StrongConv.supp_subset_Icc_of_stableExpTr_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T00:05:05.957279+00:00
 -- url     : https://prove2.me/theorems/3f24a409-57f0-4fc3-a0dc-96e02fcde476

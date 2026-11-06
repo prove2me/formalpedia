@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_stBridge
 -- name    : Eight.ViaGrouping.stBridge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:09.947684+00:00
 -- url     : https://prove2.me/theorems/9f218496-85e3-4864-aeff-73569961a85d

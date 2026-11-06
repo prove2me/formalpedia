@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_two_pow_clog_le
 -- name    : SparsificationLemma.Mach.two_pow_clog_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:34.775249+00:00
 -- url     : https://prove2.me/theorems/d8be1ecd-2123-48d4-bdd4-1706448b92ad

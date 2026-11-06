@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_thresholds_polyT
 -- name    : RecursionToBound.thresholds_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:13:59.128954+00:00
 -- url     : https://prove2.me/theorems/eae5d8ef-0c86-4c28-aef2-ec6e65a870ce

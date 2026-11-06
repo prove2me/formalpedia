@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_runs_of_mapIn
 -- name    : GraphProblems.runs_of_mapIn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:36:41.646126+00:00
 -- url     : https://prove2.me/theorems/1be81ae7-7285-47ca-b760-6b3a52010c3f

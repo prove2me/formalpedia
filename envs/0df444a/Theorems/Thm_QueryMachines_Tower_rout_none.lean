@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_rout_none
 -- name    : QueryMachines.Tower.rout_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:47:33.59982+00:00
 -- url     : https://prove2.me/theorems/bdbaf7b9-ac5e-46df-a3da-e83fbae4342d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEGeneral_inst_regret_bound
 -- name    : LinParamBandits.UEGeneral.inst_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:27.712118+00:00
 -- url     : https://prove2.me/theorems/499c2e79-d099-4e00-b7d1-db5d32d420f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittEfficiency_IS_sec_2_5_class_counts
 -- name    : WhittEfficiency.IS.sec_2_5_class_counts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:21.989928+00:00
 -- url     : https://prove2.me/theorems/b07c2b78-ecbf-489c-94a3-3539c8d0e130

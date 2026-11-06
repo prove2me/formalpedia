@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_iterate_halt
 -- name    : CircuitLowerBound.Alg.iterate_halt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:05.275667+00:00
 -- url     : https://prove2.me/theorems/5f17adc7-41a4-49c1-84b8-ec661f68178c

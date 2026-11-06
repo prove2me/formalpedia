@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_last_succ
 -- name    : QueryMachines.Bridge.Proof.last_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:24.033468+00:00
 -- url     : https://prove2.me/theorems/1319e888-ea13-4d38-8570-68fadf303c04

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.ae_early_downward_jumps_of_infinite_negative_activity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-27T19:03:14.175495+00:00
 -- url     : https://prove2.me/submissions/40158a4f-c7eb-46b9-b390-e1b559a5d220
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

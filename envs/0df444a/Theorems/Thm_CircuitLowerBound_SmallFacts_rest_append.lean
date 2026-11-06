@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_SmallFacts_rest_append
 -- name    : CircuitLowerBound.SmallFacts.rest_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:23.774527+00:00
 -- url     : https://prove2.me/theorems/f637fb57-a2aa-423c-969d-e41b4b4b1b48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_lam_clipE_unary
 -- name    : CircuitLowerBound.TabF.lam_clipE_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:05:19.274012+00:00
 -- url     : https://prove2.me/theorems/fa6a120c-3783-4404-bd00-8d529a65a9c4

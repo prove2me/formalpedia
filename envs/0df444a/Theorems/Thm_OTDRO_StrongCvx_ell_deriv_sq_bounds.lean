@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_StrongCvx_ell_deriv_sq_bounds
 -- name    : OTDRO.StrongCvx.ell_deriv_sq_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:10:24.40588+00:00
 -- url     : https://prove2.me/theorems/056edad3-3343-4777-a986-8cfc17b808c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Norm_wf_norm
 -- name    : CircuitLowerBound.Norm.wf_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:43:47.723202+00:00
 -- url     : https://prove2.me/theorems/0eb2cdd6-5cd6-42b5-a31c-337d2a137d29

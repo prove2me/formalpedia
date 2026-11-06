@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_length_blockString
 -- name    : Value.length_blockString
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:46.530224+00:00
 -- url     : https://prove2.me/theorems/25ba5d24-049b-44cf-8583-d33a632a2d0c

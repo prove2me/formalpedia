@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CircuitLowerBound.stFlip_of
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-04T22:47:13.694018+00:00
 -- url     : https://prove2.me/submissions/88601d2d-650b-447d-b231-50a992a41002
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
 Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.

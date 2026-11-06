@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Approx_eq_6_tangent_envelope
 -- name    : FastFashion.Approx.eq_6_tangent_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:14:59.994984+00:00
 -- url     : https://prove2.me/theorems/7d729766-443c-4a7e-b575-307562646539

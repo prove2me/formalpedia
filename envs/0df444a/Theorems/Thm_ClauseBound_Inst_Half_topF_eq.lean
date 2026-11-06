@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_topF_eq
 -- name    : ClauseBound.Inst.Half.topF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:40:51.962386+00:00
 -- url     : https://prove2.me/theorems/39dbc150-8ce4-4a4c-bc73-7670bbf4bf28

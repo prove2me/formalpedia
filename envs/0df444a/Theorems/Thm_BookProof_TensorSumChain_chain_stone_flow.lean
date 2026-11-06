@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TensorSumChain_chain_stone_flow
 -- name    : BookProof.TensorSumChain.chain_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:58:21.919811+00:00
 -- url     : https://prove2.me/theorems/f4e3a596-74cc-418d-b21e-ad7ea92d6f10

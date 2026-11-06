@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_CLIQUEp_polyTimeSteps
 -- name    : Eight.ViaGrouping.CLIQUEp_polyTimeSteps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:24:33.770841+00:00
 -- url     : https://prove2.me/theorems/10abe57e-c19a-4cb7-9f9c-88aafffcd8fd

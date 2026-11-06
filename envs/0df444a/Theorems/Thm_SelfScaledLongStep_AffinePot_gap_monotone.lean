@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfScaledLongStep_AffinePot_gap_monotone
 -- name    : SelfScaledLongStep.AffinePot.gap_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:16.620793+00:00
 -- url     : https://prove2.me/theorems/98d642b2-8d17-472c-83f3-100cdc5afe1c

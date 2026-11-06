@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_natCast_le_two_rpow
 -- name    : ThmCount.natCast_le_two_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:16.895823+00:00
 -- url     : https://prove2.me/theorems/186d34dc-5479-4c98-afb0-e126941e6bdc

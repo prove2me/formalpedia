@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejer_analytic_average_error_e
 -- name    : OAI.SharpPlanar.fejer_analytic_average_error_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:56:48.226498+00:00
 -- url     : https://prove2.me/theorems/3f7dc5c4-0335-4284-a7cc-3fde0138ab71

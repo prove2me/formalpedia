@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSchedPrec_CMNS_lp_relaxation
 -- name    : StochSchedPrec.CMNS.lp_relaxation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:54:30.891402+00:00
 -- url     : https://prove2.me/theorems/00025433-fe2b-4541-8d1a-a255962af196

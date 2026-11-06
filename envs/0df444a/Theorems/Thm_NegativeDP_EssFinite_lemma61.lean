@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_EssFinite_lemma61
 -- name    : NegativeDP.EssFinite.lemma61
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:36.049181+00:00
 -- url     : https://prove2.me/theorems/71652726-41bb-40f5-ae99-e83a6407e64a

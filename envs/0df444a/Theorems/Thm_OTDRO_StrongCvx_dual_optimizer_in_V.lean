@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_StrongCvx_dual_optimizer_in_V
 -- name    : OTDRO.StrongCvx.dual_optimizer_in_V
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:11:23.312398+00:00
 -- url     : https://prove2.me/theorems/6256a34c-4b7f-45ca-9934-3cbb34b59a7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_poisson_band_zero_count_laws_of_infinite_activity
 -- name    : AvramDividend.Classical.poisson_band_zero_count_laws_of_infinite_activity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-27T15:41:29.070966+00:00
 -- url     : https://prove2.me/theorems/0966bee8-71b3-4ed7-ad8a-abe88f7ae541

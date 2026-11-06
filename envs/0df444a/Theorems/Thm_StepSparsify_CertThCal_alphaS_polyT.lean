@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_CertThCal_alphaS_polyT
 -- name    : StepSparsify.CertThCal.alphaS_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:08.052114+00:00
 -- url     : https://prove2.me/theorems/932539dc-311f-4b3c-b6cc-6949be6b4bfc

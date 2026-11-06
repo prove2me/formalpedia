@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_SecNetworks_meeting_le
 -- name    : Eight.SecNetworks.meeting_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:53:03.881529+00:00
 -- url     : https://prove2.me/theorems/9d92af4d-bcab-4580-8db6-2035542d623a

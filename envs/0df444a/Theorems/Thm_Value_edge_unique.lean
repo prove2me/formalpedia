@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_edge_unique
 -- name    : Value.edge_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:46.810251+00:00
 -- url     : https://prove2.me/theorems/7d648ec3-c09f-4834-806c-44b3ec37fde0

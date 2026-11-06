@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_kfEntry_polyT
 -- name    : ClauseBound.Inst.Half.kfEntry_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:24:05.49054+00:00
 -- url     : https://prove2.me/theorems/5909af8f-7611-4535-a289-c971baa53517

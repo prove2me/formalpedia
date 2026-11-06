@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KUModComp_thm_3_1
 -- name    : KUModComp.thm_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:02:14.183373+00:00
 -- url     : https://prove2.me/theorems/67f1a882-82d5-4ee1-83d0-437724b4fbb5

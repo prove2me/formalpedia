@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_encF_eq
 -- name    : CircuitLowerBound.Round.encF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:59:00.733293+00:00
 -- url     : https://prove2.me/theorems/ed484c6a-959e-4e2c-8b64-99a4081201da

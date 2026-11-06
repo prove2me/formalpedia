@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EsaPair_ESAPair_exists_ne_zero_mem_domain
 -- name    : BookProof.EsaPair.ESAPair.exists_ne_zero_mem_domain
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T23:38:42.412432+00:00
 -- url     : https://prove2.me/theorems/5479954e-629d-40c2-b1ad-4886a8cef903

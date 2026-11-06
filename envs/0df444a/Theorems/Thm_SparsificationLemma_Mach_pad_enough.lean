@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_pad_enough
 -- name    : SparsificationLemma.Mach.pad_enough
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:13.187574+00:00
 -- url     : https://prove2.me/theorems/e9539b2c-e016-4117-b177-466af21f874e

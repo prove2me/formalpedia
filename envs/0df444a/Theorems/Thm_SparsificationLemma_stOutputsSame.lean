@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_stOutputsSame
 -- name    : SparsificationLemma.stOutputsSame
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:53:50.811336+00:00
 -- url     : https://prove2.me/theorems/0d9aa184-3c17-4f25-be0b-e483ceea7c74

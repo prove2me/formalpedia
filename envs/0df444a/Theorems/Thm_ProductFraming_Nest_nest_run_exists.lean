@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductFraming_Nest_nest_run_exists
 -- name    : ProductFraming.Nest.nest_run_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:09:17.131858+00:00
 -- url     : https://prove2.me/theorems/0f416a9a-c16f-4c52-ad30-44913c7e86db

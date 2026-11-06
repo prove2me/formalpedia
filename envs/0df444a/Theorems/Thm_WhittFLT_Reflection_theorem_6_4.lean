@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_Reflection_theorem_6_4
 -- name    : WhittFLT.Reflection.theorem_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:59:00.338808+00:00
 -- url     : https://prove2.me/theorems/182dda44-8b3b-4843-a502-8e9eebba5047

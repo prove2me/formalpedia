@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_mem_le_foldr_max
 -- name    : PairsToBound.mem_le_foldr_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:55:39.458952+00:00
 -- url     : https://prove2.me/theorems/eb0a1299-22c6-4243-b6a2-5480965d7085

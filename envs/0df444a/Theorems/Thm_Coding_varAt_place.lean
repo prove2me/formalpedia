@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_varAt_place
 -- name    : Coding.varAt_place
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:05.986999+00:00
 -- url     : https://prove2.me/theorems/90c8b09c-2b5b-42e7-817b-947adf6b2d9a

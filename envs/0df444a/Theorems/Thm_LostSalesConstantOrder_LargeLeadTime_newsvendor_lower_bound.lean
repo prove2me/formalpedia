@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesConstantOrder_LargeLeadTime_newsvendor_lower_bound
 -- name    : LostSalesConstantOrder.LargeLeadTime.newsvendor_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:03:48.081065+00:00
 -- url     : https://prove2.me/theorems/ec2afa41-93fb-4603-8eb7-8fc1ecd5db39

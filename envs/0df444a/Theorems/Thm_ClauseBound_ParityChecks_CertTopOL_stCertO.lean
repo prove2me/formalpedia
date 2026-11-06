@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertTopOL_stCertO
 -- name    : ClauseBound.ParityChecks.CertTopOL.stCertO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:20:08.857955+00:00
 -- url     : https://prove2.me/theorems/0088a135-8146-44dc-af75-1bffe0099dbe

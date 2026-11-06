@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRebate_Quantity_proposition1_linear_rebate_loss
 -- name    : ChannelRebate.Quantity.proposition1_linear_rebate_loss
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:12:53.975226+00:00
 -- url     : https://prove2.me/theorems/53c4c811-2d2a-49ea-9096-fecbaac49835

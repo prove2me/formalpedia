@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_LevelOrder_swap_cost_identity
 -- name    : ReliableFacilityLoc.LevelOrder.swap_cost_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:44.552807+00:00
 -- url     : https://prove2.me/theorems/68860a81-5f1c-41c8-bddb-e0bde70f480a

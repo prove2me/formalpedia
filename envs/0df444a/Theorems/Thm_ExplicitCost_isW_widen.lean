@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_isW_widen
 -- name    : ExplicitCost.isW_widen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:54:20.635577+00:00
 -- url     : https://prove2.me/theorems/9561adbf-7814-4dfe-9570-e1e3a9fd86a6

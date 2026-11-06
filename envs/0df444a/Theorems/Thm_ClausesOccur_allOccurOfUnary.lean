@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClausesOccur_allOccurOfUnary
 -- name    : ClausesOccur.allOccurOfUnary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:03.643094+00:00
 -- url     : https://prove2.me/theorems/4a63b988-4f32-433b-a14e-dc06aab26846

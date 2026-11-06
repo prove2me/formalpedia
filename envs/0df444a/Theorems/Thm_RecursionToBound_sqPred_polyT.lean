@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_sqPred_polyT
 -- name    : RecursionToBound.sqPred_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:13:53.552397+00:00
 -- url     : https://prove2.me/theorems/dba398f0-bfa8-4401-b166-744911482220

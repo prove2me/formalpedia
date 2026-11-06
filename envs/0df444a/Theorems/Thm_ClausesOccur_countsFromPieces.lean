@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClausesOccur_countsFromPieces
 -- name    : ClausesOccur.countsFromPieces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:48:07.793206+00:00
 -- url     : https://prove2.me/theorems/cf888ad7-e7ab-4aee-b7c9-19443678c8e3

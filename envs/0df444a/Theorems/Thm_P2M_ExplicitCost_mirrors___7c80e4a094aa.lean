@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ExplicitCost_mirrors___7c80e4a094aa
 -- name    : P2M_ExplicitCost_mirrors___7c80e4a094aa
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:51:14.659989+00:00
 -- url     : https://prove2.me/theorems/9614f530-c09e-4f55-801a-efb0215c1ae9

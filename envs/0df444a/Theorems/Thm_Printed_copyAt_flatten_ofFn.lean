@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_copyAt_flatten_ofFn
 -- name    : Printed.copyAt_flatten_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:48:35.765528+00:00
 -- url     : https://prove2.me/theorems/b25cf69d-245c-42e6-ba73-da1ca6cff58e

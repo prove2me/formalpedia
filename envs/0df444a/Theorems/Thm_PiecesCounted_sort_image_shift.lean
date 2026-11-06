@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_sort_image_shift
 -- name    : PiecesCounted.sort_image_shift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:50.525295+00:00
 -- url     : https://prove2.me/theorems/dfae0700-9322-461a-80f1-fe86784dd79a

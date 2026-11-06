@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_transformedIntegrand_disk_bound_e
 -- name    : OAI.SharpPlanar.transformedIntegrand_disk_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:59:13.129614+00:00
 -- url     : https://prove2.me/theorems/339143a3-732d-4566-a3f6-9bfa8eee0600

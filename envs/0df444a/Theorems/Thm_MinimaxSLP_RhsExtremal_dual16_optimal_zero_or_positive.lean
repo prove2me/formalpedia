@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsExtremal_dual16_optimal_zero_or_positive
 -- name    : MinimaxSLP.RhsExtremal.dual16_optimal_zero_or_positive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:18:11.938834+00:00
 -- url     : https://prove2.me/theorems/1b8355d6-f8db-46a6-a3f1-2a7a56e92022

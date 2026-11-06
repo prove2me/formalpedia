@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GJNSteadyState_Interchange_theorem_6
 -- name    : GJNSteadyState.Interchange.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:51:10.265216+00:00
 -- url     : https://prove2.me/theorems/66bbb301-8402-49ae-bde8-18aa5f242559

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapiroSDDP_Convergence_proposition_3_1
 -- name    : ShapiroSDDP.Convergence.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:36:23.299004+00:00
 -- url     : https://prove2.me/theorems/b65c1046-57bf-4661-925b-d074b34e17b0

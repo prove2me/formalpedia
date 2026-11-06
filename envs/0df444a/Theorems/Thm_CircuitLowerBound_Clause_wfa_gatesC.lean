@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_wfa_gatesC
 -- name    : CircuitLowerBound.Clause.wfa_gatesC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:49:15.917138+00:00
 -- url     : https://prove2.me/theorems/296f79f8-ceba-4139-b7cc-0fd73027d09d

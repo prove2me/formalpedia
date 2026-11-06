@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandAssort_theorem_1_if_bound
 -- name    : RandAssort.theorem_1_if_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T10:31:47.809988+00:00
 -- url     : https://prove2.me/theorems/6bbbd2f1-1a93-4a68-a067-ac3657ab84d7

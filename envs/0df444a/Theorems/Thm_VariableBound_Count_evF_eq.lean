@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_evF_eq
 -- name    : VariableBound.Count.evF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:45.65424+00:00
 -- url     : https://prove2.me/theorems/8a0adc1f-6525-4dc6-b266-c1e66c081238

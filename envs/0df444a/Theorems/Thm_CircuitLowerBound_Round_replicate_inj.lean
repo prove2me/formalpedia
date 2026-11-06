@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_replicate_inj
 -- name    : CircuitLowerBound.Round.replicate_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:58:20.35018+00:00
 -- url     : https://prove2.me/theorems/43bd2029-e296-4829-9070-d7f5f19ef2e2

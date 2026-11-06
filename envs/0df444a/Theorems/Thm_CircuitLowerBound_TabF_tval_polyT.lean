@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_tval_polyT
 -- name    : CircuitLowerBound.TabF.tval_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:05:14.412412+00:00
 -- url     : https://prove2.me/theorems/b060694b-18c0-451f-b2a4-32a796632e09

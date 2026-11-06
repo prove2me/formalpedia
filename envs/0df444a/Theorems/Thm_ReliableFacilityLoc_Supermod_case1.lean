@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_Supermod_case1
 -- name    : ReliableFacilityLoc.Supermod.case1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:16:08.694976+00:00
 -- url     : https://prove2.me/theorems/82d8e726-515a-49d4-bf64-499d06ca67be

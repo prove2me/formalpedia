@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.transformedJets_summable_e
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-04T08:10:43.715191+00:00
 -- url     : https://prove2.me/submissions/fb6cc986-c81e-40dc-ad6e-821889de124b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098E016

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Variance_stMeeting
 -- name    : Variance.stMeeting
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:34:09.346516+00:00
 -- url     : https://prove2.me/theorems/8ae781e7-9e41-46bc-8629-8e68462e8d6c

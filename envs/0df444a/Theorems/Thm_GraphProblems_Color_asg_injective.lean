@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Color_asg_injective
 -- name    : GraphProblems.Color.asg_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:53.504407+00:00
 -- url     : https://prove2.me/theorems/3d6ebace-b26e-457a-a0c3-869f2db622a2

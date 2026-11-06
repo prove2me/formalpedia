@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertNum_numI_aux
 -- name    : ClauseBound.ParityChecks.CertNum.numI_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:21:08.815575+00:00
 -- url     : https://prove2.me/theorems/1b85bba8-cadf-4d4d-aa84-b1a34dbb7687

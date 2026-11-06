@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopkisRation_Myopic_order_up_to
 -- name    : TopkisRation.Myopic.order_up_to
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:00.355007+00:00
 -- url     : https://prove2.me/theorems/7f9232f7-3c1c-40ab-ae7e-1bf7b8a7b210

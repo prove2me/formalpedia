@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_le_sum_map
 -- name    : CircuitLowerBound.Clause.le_sum_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:56:06.139814+00:00
 -- url     : https://prove2.me/theorems/1633a97d-a327-4af1-97d7-1893d04d2d9d

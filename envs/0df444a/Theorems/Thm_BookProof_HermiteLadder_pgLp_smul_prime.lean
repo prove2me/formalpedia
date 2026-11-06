@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteLadder_pgLp_smul_prime
 -- name    : BookProof.HermiteLadder.pgLp_smul_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T14:45:57.255286+00:00
 -- url     : https://prove2.me/theorems/2e340a2d-75bc-4716-b256-0519f1b4c4b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSchedPrec_InForest_lemma_4_4
 -- name    : StochSchedPrec.InForest.lemma_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:45:28.208542+00:00
 -- url     : https://prove2.me/theorems/6a25eab1-8cb3-46d4-85a0-d8693ee12507

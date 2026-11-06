@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_Dual_dual_reformulation
 -- name    : OTDRO.Dual.dual_reformulation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:31.002099+00:00
 -- url     : https://prove2.me/theorems/c3e96aba-4faa-42ce-9394-d439b2a4a07a

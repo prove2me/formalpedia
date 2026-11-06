@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_Cert_polyT_codeClP
 -- name    : SparsificationLemma.Mach.Cert.polyT_codeClP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:17.861881+00:00
 -- url     : https://prove2.me/theorems/4954c1bc-b6cb-4a79-8c4e-83bbc37024b8

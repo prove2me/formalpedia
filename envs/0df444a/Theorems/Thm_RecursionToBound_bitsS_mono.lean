@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_bitsS_mono
 -- name    : RecursionToBound.bitsS_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:14.836086+00:00
 -- url     : https://prove2.me/theorems/d48ad050-4352-47f0-8659-912fde28c483

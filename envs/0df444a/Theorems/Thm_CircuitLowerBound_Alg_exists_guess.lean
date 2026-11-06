@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_exists_guess
 -- name    : CircuitLowerBound.Alg.exists_guess
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:03.027317+00:00
 -- url     : https://prove2.me/theorems/7ea886ca-1514-4e4d-995c-3162c6a45cb6

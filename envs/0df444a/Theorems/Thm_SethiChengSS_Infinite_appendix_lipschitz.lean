@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SethiChengSS_Infinite_appendix_lipschitz
 -- name    : SethiChengSS.Infinite.appendix_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:09.049999+00:00
 -- url     : https://prove2.me/theorems/f8ecbe8a-4306-49d7-ac7d-4055a7c382f0

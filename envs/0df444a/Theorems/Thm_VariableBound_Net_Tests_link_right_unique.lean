@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tests_link_right_unique
 -- name    : VariableBound.Net.Tests.link_right_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:47.410861+00:00
 -- url     : https://prove2.me/theorems/dc8de6c4-7bbd-4a52-a931-89943961c095

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_add_three_le_two_pow
 -- name    : RecursionToBound.add_three_le_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:18.796311+00:00
 -- url     : https://prove2.me/theorems/d5735675-b8d5-4c0b-a9aa-4edff4f9fe4d

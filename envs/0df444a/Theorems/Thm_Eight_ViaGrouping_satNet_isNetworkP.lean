@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_satNet_isNetworkP
 -- name    : Eight.ViaGrouping.satNet_isNetworkP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:08:15.699078+00:00
 -- url     : https://prove2.me/theorems/9c2af36a-b786-4a86-b205-350cb50c05b1

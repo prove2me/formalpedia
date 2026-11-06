@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_ConnectedJoin_theorem_6
 -- name    : MetricGenerators.ConnectedJoin.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:49:36.847143+00:00
 -- url     : https://prove2.me/theorems/3e5de1b7-a20e-42ff-86e0-cd4bbfc30516

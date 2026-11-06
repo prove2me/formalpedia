@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_mirrors_mem
 -- name    : ExplicitCost.mirrors_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:49:19.675191+00:00
 -- url     : https://prove2.me/theorems/0baffaae-8ccc-4777-be73-f9f6c736721c

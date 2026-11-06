@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_EssFinite_vstar_eq_sup_markov
 -- name    : NegativeDP.EssFinite.vstar_eq_sup_markov
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:45.08373+00:00
 -- url     : https://prove2.me/theorems/18b34d16-7cbc-4df4-9b06-51be7b47d769

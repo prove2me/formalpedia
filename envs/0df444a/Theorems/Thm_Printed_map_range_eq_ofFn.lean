@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_map_range_eq_ofFn
 -- name    : Printed.map_range_eq_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:48:44.211055+00:00
 -- url     : https://prove2.me/theorems/7363981a-7282-4361-a147-090093a27e30

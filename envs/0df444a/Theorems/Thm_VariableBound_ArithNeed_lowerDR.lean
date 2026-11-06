@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_ArithNeed_lowerDR
 -- name    : VariableBound.ArithNeed.lowerDR
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:22.054968+00:00
 -- url     : https://prove2.me/theorems/6f2a000f-4617-46b3-ac1d-247e9a090b66

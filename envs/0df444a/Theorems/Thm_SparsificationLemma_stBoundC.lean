@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_stBoundC
 -- name    : SparsificationLemma.stBoundC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:32.16916+00:00
 -- url     : https://prove2.me/theorems/18ccfd70-92cd-4e01-ab53-222145dcb16a

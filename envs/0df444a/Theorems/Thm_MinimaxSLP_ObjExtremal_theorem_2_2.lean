@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjExtremal_theorem_2_2
 -- name    : MinimaxSLP.ObjExtremal.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:16:55.255997+00:00
 -- url     : https://prove2.me/theorems/b7d75804-6446-474c-8e78-807009a7b520

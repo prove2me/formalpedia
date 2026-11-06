@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_pow_le_timeClauses
 -- name    : OccurM.pow_le_timeClauses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:12.061209+00:00
 -- url     : https://prove2.me/theorems/70ce57cd-9285-45ea-9c23-acdbd36221a7

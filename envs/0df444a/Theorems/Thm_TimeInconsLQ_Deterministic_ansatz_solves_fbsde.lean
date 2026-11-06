@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeInconsLQ_Deterministic_ansatz_solves_fbsde
 -- name    : TimeInconsLQ.Deterministic.ansatz_solves_fbsde
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:26:37.564982+00:00
 -- url     : https://prove2.me/theorems/6b469c68-809e-453c-a1c8-70483f2e2f10

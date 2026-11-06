@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductFraming_Nest_proposition_2
 -- name    : ProductFraming.Nest.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:08:01.576674+00:00
 -- url     : https://prove2.me/theorems/d34efd17-2521-4eba-a8b9-3efe5469069e

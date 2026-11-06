@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_triesAllWithin_of_computes
 -- name    : PairsToBound.triesAllWithin_of_computes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:11:46.710217+00:00
 -- url     : https://prove2.me/theorems/a997b954-442e-41b1-9ed4-b89db2f064ef

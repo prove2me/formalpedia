@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_table_range_mass_e
 -- name    : OAI.SharpPlanar.table_range_mass_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:50:49.063663+00:00
 -- url     : https://prove2.me/theorems/8fca1cba-4cf0-4dd1-9047-14eba949150f

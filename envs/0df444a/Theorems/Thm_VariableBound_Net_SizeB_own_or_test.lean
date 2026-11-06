@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_own_or_test
 -- name    : VariableBound.Net.SizeB.own_or_test
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:40.246125+00:00
 -- url     : https://prove2.me/theorems/3dbfbb9d-f494-4e87-8fb5-efb32daf4cab

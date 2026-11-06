@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_ArithNeed_real_finalD
 -- name    : VariableBound.ArithNeed.real_finalD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:51.089203+00:00
 -- url     : https://prove2.me/theorems/11ae7316-0dab-4201-969b-0ce42b2cd158

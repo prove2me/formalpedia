@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_stSearch
 -- name    : Eight.ViaGrouping.stSearch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:06:01.616161+00:00
 -- url     : https://prove2.me/theorems/a967df02-4681-4c36-8294-2c759bb8a1d9

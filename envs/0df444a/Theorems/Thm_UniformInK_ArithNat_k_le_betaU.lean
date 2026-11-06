@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_ArithNat_k_le_betaU
 -- name    : UniformInK.ArithNat.k_le_betaU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:41.476501+00:00
 -- url     : https://prove2.me/theorems/9df4387c-195d-4abc-90f9-05ef47de80e8

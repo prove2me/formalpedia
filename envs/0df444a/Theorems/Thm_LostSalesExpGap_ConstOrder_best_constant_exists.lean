@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesExpGap_ConstOrder_best_constant_exists
 -- name    : LostSalesExpGap.ConstOrder.best_constant_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:11:38.445993+00:00
 -- url     : https://prove2.me/theorems/5ec15119-7ad4-4326-b9ac-955419b90cc9

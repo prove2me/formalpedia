@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_selChain_polyT
 -- name    : CircuitLowerBound.Clause.selChain_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:53:58.160929+00:00
 -- url     : https://prove2.me/theorems/31b0f8fd-7a1d-4c26-b1af-7661723424a3

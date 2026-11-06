@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_finiteIndex_bound_e
 -- name    : OAI.SharpPlanar.Numerical.finiteIndex_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:52:37.902507+00:00
 -- url     : https://prove2.me/theorems/5e8e4667-1e4b-46d9-9b2e-0469371a2a8c

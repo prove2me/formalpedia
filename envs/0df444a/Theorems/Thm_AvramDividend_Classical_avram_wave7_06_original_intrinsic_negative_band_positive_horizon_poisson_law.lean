@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_intrinsic_negative_band_positive_horizon_poisson_law
 -- name    : AvramDividend.Classical.avram_wave7_06_original_intrinsic_negative_band_positive_horizon_poisson_law
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T15:37:03.549215+00:00
 -- url     : https://prove2.me/theorems/aa265c9f-4568-4639-9694-5ab319ddc374

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Scoords_add_e
 -- name    : OAI.SharpPlanar.Scoords_add_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:48:00.472345+00:00
 -- url     : https://prove2.me/theorems/ff2805b1-0033-4bca-b0ad-c20d25b48d14

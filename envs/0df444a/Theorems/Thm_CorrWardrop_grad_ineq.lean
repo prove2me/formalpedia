@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrWardrop_grad_ineq
 -- name    : CorrWardrop.grad_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:28:29.375192+00:00
 -- url     : https://prove2.me/theorems/0422f765-97b8-4f9c-ad84-ff97d4bb4e47

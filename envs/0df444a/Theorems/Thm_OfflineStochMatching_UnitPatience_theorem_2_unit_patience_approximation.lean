@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatching_UnitPatience_theorem_2_unit_patience_approximation
 -- name    : OfflineStochMatching.UnitPatience.theorem_2_unit_patience_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:42:41.1036+00:00
 -- url     : https://prove2.me/theorems/17e2cbee-7365-4d69-bddb-2dcc1529b8bb

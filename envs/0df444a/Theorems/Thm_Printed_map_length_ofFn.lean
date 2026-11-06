@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_map_length_ofFn
 -- name    : Printed.map_length_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:50:12.923428+00:00
 -- url     : https://prove2.me/theorems/2781e71f-6992-4380-ab0f-e2d982f65185

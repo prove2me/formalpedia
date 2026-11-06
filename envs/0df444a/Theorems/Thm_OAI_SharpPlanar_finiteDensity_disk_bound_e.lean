@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_finiteDensity_disk_bound_e
 -- name    : OAI.SharpPlanar.finiteDensity_disk_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:58:10.366791+00:00
 -- url     : https://prove2.me/theorems/3c3e834b-0ba6-4a09-a2d7-ed7cd817b80e

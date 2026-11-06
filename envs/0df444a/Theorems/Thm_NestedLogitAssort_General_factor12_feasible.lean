@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitAssort_General_factor12_feasible
 -- name    : NestedLogitAssort.General.factor12_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:21:11.427818+00:00
 -- url     : https://prove2.me/theorems/58f79750-45d2-4831-b985-57c0bf9940d3

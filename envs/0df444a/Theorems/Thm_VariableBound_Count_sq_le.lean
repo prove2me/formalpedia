@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_sq_le
 -- name    : VariableBound.Count.sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:35.946349+00:00
 -- url     : https://prove2.me/theorems/215eeaa8-1968-4e6b-bc61-2a56a57faa6c

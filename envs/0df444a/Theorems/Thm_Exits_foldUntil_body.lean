@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_foldUntil_body
 -- name    : Exits.foldUntil_body
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:45:41.819584+00:00
 -- url     : https://prove2.me/theorems/dde8d23a-cfec-4949-a6df-994ad04e7a4a

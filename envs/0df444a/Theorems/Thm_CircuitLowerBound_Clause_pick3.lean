@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_pick3
 -- name    : CircuitLowerBound.Clause.pick3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:56:05.397343+00:00
 -- url     : https://prove2.me/theorems/2c83dc00-ae82-4214-8598-98ab98896f05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_mackeyMap_surjective
 -- name    : BookProof.ChapterMackeyGeneralBase.mackeyMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:40.698825+00:00
 -- url     : https://prove2.me/theorems/8baaa17e-a4db-41dc-b8ae-625b3ea980eb

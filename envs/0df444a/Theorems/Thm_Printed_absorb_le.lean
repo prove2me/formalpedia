@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_absorb_le
 -- name    : Printed.absorb_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:43:37.722357+00:00
 -- url     : https://prove2.me/theorems/a7ac7c30-bc3c-461b-abe3-1f522cde254d

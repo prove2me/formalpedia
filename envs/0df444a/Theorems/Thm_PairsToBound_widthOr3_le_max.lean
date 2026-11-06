@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_widthOr3_le_max
 -- name    : PairsToBound.widthOr3_le_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:04.559212+00:00
 -- url     : https://prove2.me/theorems/2426753a-eb62-45ab-9c04-7e153a29adac

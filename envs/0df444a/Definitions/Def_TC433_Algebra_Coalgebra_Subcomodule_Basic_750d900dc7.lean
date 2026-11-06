@@ -1,0 +1,427 @@
+-- Prove2me | Definitions.Def_TC433_Algebra_Coalgebra_Subcomodule_Basic_750d900dc7
+-- name    : TC433_Algebra_Coalgebra_Subcomodule_Basic_750d900dc7
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T10:47:25.275675+00:00
+-- url     : https://prove2.me/theorems/bf58f7b5-2198-46ff-9d76-5d60ed70fb20
+-- title:
+--   TauCeti: Algebra / Coalgebra / Subcomodule / Basic
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.Algebra.Coalgebra.Subcomodule.Basic for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/Algebra/Coalgebra/Subcomodule/Basic.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+public import Definitions.Def_TC433_Compat4331_Tensor_6326550516
+
+import Mathlib.LinearAlgebra.TensorProduct.RightExactness
+public import Mathlib.RingTheory.Finiteness.Basic
+public import Mathlib.RingTheory.Noetherian.Basic
+public import Definitions.Def_TC433_Algebra_Coalgebra_Comodule_Basic_6198cd60ef
+
+/-!
+# Subcomodules
+
+This file defines subcomodules of a right comodule as submodules whose elements have
+coaction in the tensor product of the submodule with the coalgebra. It is deliberately a
+lightweight predicate-style API: over a general commutative semiring, the map
+`N ⊗ C → M ⊗ C` need not be known injective, so the induced comodule structure on `N` is
+not registered here.
+
+Finite generation of a subcomodule is expressed by `Module.Finite R N.toSubmodule`;
+images under comodule morphisms preserve this property.
+
+## Main definitions
+
+* `TauCeti.Subcomodule`: a submodule stable under the coaction.
+* `TauCeti.Subcomodule.toSubmodule`: the underlying submodule.
+* `TauCeti.Subcomodule.finite`: subcomodules of noetherian modules are finite.
+* `TauCeti.Subcomodule.rid_lTensor_coact_mem`: a subcomodule is stable under contracting the
+  coaction against a linear functional on the coalgebra.
+* `⊤` and `⊥`: the full and zero subcomodules, which bound the order of subcomodules.
+* `TauCeti.Subcomodule.toSubmodule_eq_top` and `TauCeti.Subcomodule.toSubmodule_eq_bot`: the
+  underlying submodule detects the extreme subcomodules.
+* `TauCeti.Subcomodule.ne_bot_iff`: a subcomodule is nonzero exactly when it contains a nonzero
+  vector.
+* `TauCeti.Subcomodule.isSimpleOrder_of_transitive`: a family of maps that preserves every
+  subcomodule and acts transitively on nonzero vectors makes the subcomodule lattice simple.
+* `TauCeti.Subcomodule.map`: the image of a subcomodule under a comodule morphism.
+* `TauCeti.Subcomodule.map_finite`: images preserve finite generation of the underlying
+  submodule.
+* `TauCeti.Comodule.Hom.range`: the image subcomodule of a comodule morphism.
+* `TauCeti.Comodule.Hom.range_finite`: ranges of morphisms out of finite modules are finite.
+
+## References
+
+This follows the standard definition of a subcomodule: `N ≤ M` satisfies
+`ρ(N) ⊆ N ⊗ C`. See Sweedler, *Hopf Algebras*, Chapter 2.
+
+The lightweight range-based API follows the pattern of `TauCeti.Subcoalgebra`.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+open scoped TensorProduct
+
+namespace TauCeti
+
+universe u v w x
+
+variable (R : Type u) (C : Type v) (M : Type w)
+variable [CommSemiring R]
+variable [AddCommMonoid C] [Module R C] [Coalgebra R C]
+variable [AddCommMonoid M] [Module R M] [Comodule R C M]
+
+/-- A subcomodule of a right `C`-comodule `M`.
+
+It is an `R`-submodule `carrier` such that the coaction of every element of `carrier` lies in
+the range of `carrier ⊗ C → M ⊗ C`. -/
+structure Subcomodule where
+  /-- The underlying submodule of a subcomodule. -/
+  carrier : Submodule R M
+  /-- The coaction of an element of the submodule lies in its tensor product with `C`. -/
+  coact_mem' :
+    ∀ ⦃m : M⦄, m ∈ carrier →
+      Comodule.coact (R := R) (C := C) (M := M) m ∈
+        LinearMap.range (TensorProduct.map carrier.subtype (LinearMap.id : C →ₗ[R] C))
+
+namespace Subcomodule
+
+variable {R C M}
+
+instance : SetLike (Subcomodule R C M) M where
+  coe N := N.carrier
+  coe_injective N P h := by
+    cases N with
+    | mk carrier hN =>
+    cases P with
+    | mk carrier' hP =>
+    congr
+    exact SetLike.ext' h
+
+instance : AddSubmonoidClass (Subcomodule R C M) M where
+  add_mem {N} := N.carrier.add_mem
+  zero_mem N := N.carrier.zero_mem
+
+instance : SMulMemClass (Subcomodule R C M) R M where
+  smul_mem {N} r {_} hm := N.carrier.smul_mem r hm
+
+instance : PartialOrder (Subcomodule R C M) :=
+  .ofSetLike (Subcomodule R C M) M
+
+/-- The underlying submodule of a subcomodule. -/
+@[expose] def toSubmodule (N : Subcomodule R C M) : Submodule R M :=
+  N.carrier
+
+@[simp]
+theorem mem_carrier {N : Subcomodule R C M} {m : M} : m ∈ N.carrier ↔ m ∈ N :=
+  Iff.rfl
+
+@[simp]
+theorem mem_toSubmodule {N : Subcomodule R C M} {m : M} : m ∈ N.toSubmodule ↔ m ∈ N :=
+  Iff.rfl
+
+theorem toSubmodule_carrier (N : Subcomodule R C M) : N.toSubmodule = N.carrier :=
+  rfl
+
+/-- A subcomodule of a noetherian module is finitely generated as an `R`-module. -/
+theorem finite (N : Subcomodule R C M) [IsNoetherian R M] :
+    Module.Finite R N.toSubmodule := by
+  infer_instance
+
+theorem le_def {N P : Subcomodule R C M} : N ≤ P ↔ ∀ ⦃m : M⦄, m ∈ N → m ∈ P :=
+  Iff.rfl
+
+theorem toSubmodule_le_toSubmodule {N P : Subcomodule R C M} :
+    N.toSubmodule ≤ P.toSubmodule ↔ N ≤ P :=
+  Iff.rfl
+
+/-- Two subcomodules are equal when they contain the same elements. -/
+@[ext]
+theorem ext {N P : Subcomodule R C M} (h : ∀ m : M, m ∈ N ↔ m ∈ P) : N = P :=
+  SetLike.ext h
+
+/-- The coaction of an element of a subcomodule belongs to its tensor product with the
+coalgebra. -/
+theorem coact_mem (N : Subcomodule R C M) {m : M} (hm : m ∈ N) :
+    Comodule.coact (R := R) (C := C) (M := M) m ∈
+      LinearMap.range (TensorProduct.map N.carrier.subtype (LinearMap.id : C →ₗ[R] C)) :=
+  N.coact_mem' hm
+
+/-- A subcomodule is stable under contracting the coaction against a linear functional on the
+coalgebra.
+
+For a comodule over a Hopf algebra the contractions along the algebra homomorphisms `C →ₐ[R] R`
+are the actions of the `R`-valued points of the represented affine group, so this is the
+statement that a subcomodule is a subrepresentation. -/
+theorem rid_lTensor_coact_mem (N : Subcomodule R C M) (f : C →ₗ[R] R) {m : M} (hm : m ∈ N) :
+    TensorProduct.rid R M
+        (LinearMap.lTensor M f (Comodule.coact (R := R) (C := C) (M := M) m)) ∈ N := by
+  obtain ⟨x, hx⟩ := N.coact_mem hm
+  rw [← hx]
+  clear hx hm
+  induction x with
+  | tmul y c => simpa using N.carrier.smul_mem (f c) y.2
+  | add a b ha hb => simpa only [map_add] using add_mem ha hb
+
+/-- Constructor from a submodule and the tensor-product stability condition. -/
+@[expose] def ofSubmodule (N : Submodule R M) (hN :
+      ∀ ⦃m : M⦄, m ∈ N →
+        Comodule.coact (R := R) (C := C) (M := M) m ∈
+          LinearMap.range (TensorProduct.map N.subtype (LinearMap.id : C →ₗ[R] C))) :
+    Subcomodule R C M where
+  carrier := N
+  coact_mem' := hN
+
+@[simp]
+theorem ofSubmodule_carrier (N : Submodule R M) (hN) :
+    (ofSubmodule (R := R) (C := C) (M := M) N hN).carrier = N :=
+  rfl
+
+@[simp]
+theorem mem_ofSubmodule {N : Submodule R M} {hN} {m : M} :
+    m ∈ ofSubmodule (R := R) (C := C) (M := M) N hN ↔ m ∈ N :=
+  Iff.rfl
+
+/-- The coaction of any element lies in the tensor product of the top submodule with `C`,
+because the inclusion of `⊤` is surjective. -/
+theorem coact_mem_tensor_top (m : M) :
+    Comodule.coact (R := R) (C := C) (M := M) m ∈
+      LinearMap.range (TensorProduct.map (⊤ : Submodule R M).subtype
+        (LinearMap.id : C →ₗ[R] C)) :=
+  LinearMap.mem_range.mpr
+    (TensorProduct.map_surjective (fun m ↦ ⟨⟨m, Submodule.mem_top⟩, rfl⟩)
+      Function.surjective_id _)
+
+/-- The full module as a subcomodule. -/
+instance instTop : Top (Subcomodule R C M) where
+  top :=
+    { carrier := ⊤
+      coact_mem' := fun m _ ↦ coact_mem_tensor_top m }
+
+@[simp]
+theorem top_toSubmodule : (⊤ : Subcomodule R C M).toSubmodule = (⊤ : Submodule R M) :=
+  rfl
+
+@[simp]
+theorem mem_top (m : M) : m ∈ (⊤ : Subcomodule R C M) :=
+  Submodule.mem_top
+
+instance : OrderTop (Subcomodule R C M) where
+  top := ⊤
+  le_top _ _ _ := Submodule.mem_top
+
+/-- The zero submodule as a subcomodule. -/
+instance instBot : Bot (Subcomodule R C M) where
+  bot :=
+    { carrier := ⊥
+      coact_mem' := by
+        intro m hm
+        rw [Submodule.mem_bot] at hm
+        subst m
+        exact ⟨0, by simp⟩ }
+
+@[simp]
+theorem bot_toSubmodule : (⊥ : Subcomodule R C M).toSubmodule = (⊥ : Submodule R M) :=
+  rfl
+
+@[simp]
+theorem mem_bot {m : M} : m ∈ (⊥ : Subcomodule R C M) ↔ m = 0 :=
+  Submodule.mem_bot (R := R) (M := M)
+
+/-- The zero subcomodule is contained in every subcomodule. -/
+instance : OrderBot (Subcomodule R C M) where
+  bot := ⊥
+  bot_le N m hm := by
+    rw [mem_bot] at hm
+    rw [hm]
+    exact zero_mem N
+
+/-- The zero and full subcomodules bound the order of subcomodules. -/
+instance : BoundedOrder (Subcomodule R C M) where
+
+/-- The underlying submodule detects the full subcomodule. -/
+@[simp]
+theorem toSubmodule_eq_top {N : Subcomodule R C M} : N.toSubmodule = ⊤ ↔ N = ⊤ :=
+  ⟨fun h ↦ ext fun m ↦
+      ⟨fun _ ↦ mem_top m, fun _ ↦ mem_toSubmodule.mp (h ▸ Submodule.mem_top)⟩,
+    fun h ↦ by rw [h, top_toSubmodule]⟩
+
+/-- The underlying submodule detects the zero subcomodule. -/
+@[simp]
+theorem toSubmodule_eq_bot {N : Subcomodule R C M} : N.toSubmodule = ⊥ ↔ N = ⊥ :=
+  ⟨fun h ↦ ext fun m ↦ by
+      rw [mem_bot, ← mem_toSubmodule, h, Submodule.mem_bot],
+    fun h ↦ by rw [h, bot_toSubmodule]⟩
+
+/-- A subcomodule is nonzero exactly when it contains a nonzero vector. -/
+theorem ne_bot_iff {N : Subcomodule R C M} : N ≠ ⊥ ↔ ∃ m ∈ N, m ≠ 0 :=
+  (not_congr toSubmodule_eq_bot).symm.trans (Submodule.ne_bot_iff N.toSubmodule)
+
+/-- If a family of maps preserves every subcomodule and acts transitively on nonzero vectors,
+then the subcomodule lattice is simple. -/
+theorem isSimpleOrder_of_transitive {G : Type x} (v₀ : M) (hv₀ : v₀ ≠ 0)
+    (act : G → M → M)
+    (htrans : ∀ {v w : M}, v ≠ 0 → w ≠ 0 → ∃ g, act g w = v)
+    (hmem : ∀ (N : Subcomodule R C M) (g : G) {w : M}, w ∈ N → act g w ∈ N) :
+    IsSimpleOrder (Subcomodule R C M) where
+  exists_pair_ne := by
+    refine ⟨⊥, ⊤, fun h ↦ hv₀ ?_⟩
+    exact mem_bot.mp (h ▸ mem_top v₀)
+  eq_bot_or_eq_top N := by
+    by_cases hN : N = ⊥
+    · exact Or.inl hN
+    · right
+      obtain ⟨w, hwN, hw⟩ := ne_bot_iff.mp hN
+      apply Subcomodule.ext
+      intro v
+      refine ⟨fun _ ↦ mem_top v, fun _ ↦ ?_⟩
+      by_cases hv : v = 0
+      · exact hv ▸ zero_mem N
+      · obtain ⟨g, hg⟩ := htrans hv hw
+        exact hg ▸ hmem N g hwN
+
+variable {N : Type x} [AddCommMonoid N] [Module R N] [Comodule R C N]
+
+/-- The image of a subcomodule under a comodule morphism. -/
+@[expose] def map (A : Subcomodule R C M) (f : Comodule.Hom R C M N) : Subcomodule R C N where
+  carrier := A.carrier.map f.toLinearMap
+  coact_mem' := by
+    intro n hn
+    rcases Submodule.mem_map.mp hn with ⟨m, hm, rfl⟩
+    rcases A.coact_mem hm with ⟨t, ht⟩
+    refine ⟨TensorProduct.map (f.toLinearMap.submoduleMap A.carrier)
+      (LinearMap.id : C →ₗ[R] C) t, ?_⟩
+    have hcomp : (A.carrier.map f.toLinearMap).subtype ∘ₗ
+        f.toLinearMap.submoduleMap A.carrier = f.toLinearMap ∘ₗ A.carrier.subtype := by
+      ext x
+      simp only [LinearMap.comp_apply, Submodule.subtype_apply,
+        LinearMap.submoduleMap_coe_apply]
+    rw [TensorProduct.map_map, hcomp, ← TensorProduct.map_map, ht]
+    exact Comodule.Hom.map_coact_apply f m
+
+/-- The underlying submodule of the image subcomodule is the image of the underlying
+submodule. -/
+@[simp]
+theorem map_toSubmodule (A : Subcomodule R C M) (f : Comodule.Hom R C M N) :
+    (A.map f).toSubmodule = A.toSubmodule.map f.toLinearMap :=
+  rfl
+
+/-- The image of a finitely generated subcomodule is finitely generated as an `R`-module. -/
+theorem map_finite (f : Comodule.Hom R C M N) (A : Subcomodule R C M)
+    [Module.Finite R A.toSubmodule] : Module.Finite R (A.map f).toSubmodule := by
+  rw [map_toSubmodule]
+  infer_instance
+
+/-- Membership in the image subcomodule. -/
+theorem mem_map {A : Subcomodule R C M} {f : Comodule.Hom R C M N} {n : N} :
+    n ∈ A.map f ↔ ∃ m ∈ A, f m = n := by
+  rw [← mem_toSubmodule, map_toSubmodule, Submodule.mem_map]
+  rfl
+
+/-- The image of an element of a subcomodule belongs to the image subcomodule. -/
+theorem mem_map_of_mem (f : Comodule.Hom R C M N) {A : Subcomodule R C M} {m : M}
+    (hm : m ∈ A) : f m ∈ A.map f :=
+  (mem_map (A := A) (f := f)).2 ⟨m, hm, rfl⟩
+
+/-- The image subcomodule is contained in `B` exactly when each image of an element of the
+source subcomodule belongs to `B`. -/
+theorem map_le_iff {A : Subcomodule R C M} {f : Comodule.Hom R C M N} {B : Subcomodule R C N} :
+    A.map f ≤ B ↔ ∀ ⦃m⦄, m ∈ A → f m ∈ B := by
+  rw [← toSubmodule_le_toSubmodule, map_toSubmodule, Submodule.map_le_iff_le_comap]
+  simp only [SetLike.le_def, Submodule.mem_comap, mem_toSubmodule,
+    Comodule.Hom.coe_toLinearMap]
+
+/-- The image construction is monotone in the source subcomodule. -/
+theorem map_mono (f : Comodule.Hom R C M N) {A B : Subcomodule R C M} (hAB : A ≤ B) :
+    A.map f ≤ B.map f := by
+  rw [← toSubmodule_le_toSubmodule, map_toSubmodule, map_toSubmodule]
+  exact Submodule.map_mono (toSubmodule_le_toSubmodule.mpr hAB)
+
+/-- The image of the bottom subcomodule is bottom. -/
+@[simp]
+theorem map_bot (f : Comodule.Hom R C M N) : (⊥ : Subcomodule R C M).map f = ⊥ := by
+  ext n
+  simp only [← mem_toSubmodule, map_toSubmodule, bot_toSubmodule, Submodule.map_bot]
+
+/-- The image of the top subcomodule is the range of the comodule morphism as a submodule. -/
+@[simp]
+theorem map_top_toSubmodule (f : Comodule.Hom R C M N) :
+    ((⊤ : Subcomodule R C M).map f).toSubmodule = LinearMap.range f.toLinearMap := by
+  rw [map_toSubmodule, top_toSubmodule, Submodule.map_top]
+
+/-- The identity comodule morphism leaves a subcomodule unchanged. -/
+@[simp]
+theorem map_id (A : Subcomodule R C M) : A.map (Comodule.Hom.id R C M) = A := by
+  ext n
+  simp only [← mem_toSubmodule, map_toSubmodule, Comodule.Hom.id_toLinearMap,
+    Submodule.map_id]
+
+variable {P : Type*} [AddCommMonoid P] [Module R P] [Comodule R C P]
+
+/-- Images of subcomodules compose with comodule morphisms. -/
+@[simp]
+theorem map_map (A : Subcomodule R C M) (f : Comodule.Hom R C M N)
+    (g : Comodule.Hom R C N P) : (A.map f).map g = A.map (g.comp f) := by
+  ext n
+  simp only [← mem_toSubmodule, map_toSubmodule, Comodule.Hom.comp_toLinearMap,
+    Submodule.map_comp]
+
+end Subcomodule
+
+namespace Comodule
+
+namespace Hom
+
+variable {R C M}
+variable {N : Type x} [AddCommMonoid N] [Module R N] [Comodule R C N]
+
+/-- The image of a comodule morphism as a subcomodule of the codomain. -/
+def range (f : Hom R C M N) : Subcomodule R C N :=
+  (⊤ : Subcomodule R C M).map f
+
+@[simp]
+theorem range_toSubmodule (f : Hom R C M N) :
+    (range (R := R) (C := C) f).toSubmodule = LinearMap.range f.toLinearMap := by
+  rw [range, Subcomodule.map_top_toSubmodule]
+
+/-- The range of a comodule morphism out of a finitely generated module is finitely generated
+as an `R`-module. -/
+theorem range_finite (f : Hom R C M N) [Module.Finite R M] :
+    Module.Finite R (range (R := R) (C := C) f).toSubmodule := by
+  rw [range_toSubmodule]
+  infer_instance
+
+@[simp]
+theorem mem_range {f : Hom R C M N} {n : N} :
+    n ∈ range (R := R) (C := C) f ↔ ∃ m, f m = n := by
+  rw [← Subcomodule.mem_toSubmodule, range_toSubmodule]
+  rfl
+
+/-- A comodule morphism lands in its image subcomodule. -/
+theorem mem_range_self (f : Hom R C M N) (m : M) :
+    f m ∈ range (R := R) (C := C) f :=
+  (Subcomodule.mem_map (A := (⊤ : Subcomodule R C M)) (f := f)).2
+    ⟨m, Subcomodule.mem_top m, rfl⟩
+
+/-- The range of a comodule morphism is contained in `P` exactly when each value of the
+morphism belongs to `P`. -/
+theorem range_le_iff {f : Hom R C M N} {P : Subcomodule R C N} :
+    range (R := R) (C := C) f ≤ P ↔ ∀ m, f m ∈ P := by
+  rw [range]
+  simpa using
+    (Subcomodule.map_le_iff (A := (⊤ : Subcomodule R C M)) (f := f) (B := P))
+
+end Hom
+
+end Comodule
+
+end TauCeti
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_DomTree_sat_cons
 -- name    : GraphProblems.DomTree.sat_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:02:30.349812+00:00
 -- url     : https://prove2.me/theorems/ac5f8d6c-da20-4bd2-977f-6ef166e2fed4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_certSolveG
 -- name    : GeneralPieces.certSolveG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:40:35.612763+00:00
 -- url     : https://prove2.me/theorems/88739a3c-f426-4a39-aac9-ef609eeb7e28

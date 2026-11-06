@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeU_two_mul_pairs_le
 -- name    : VariableBound.Net.SizeU.two_mul_pairs_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:17.588212+00:00
 -- url     : https://prove2.me/theorems/0748efd9-902d-42a5-8214-1b42f5a0ab57

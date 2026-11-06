@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Gen_withSideClauses
 -- name    : SparsificationLemma.Gen.withSideClauses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:07:37.682937+00:00
 -- url     : https://prove2.me/theorems/ba0dbbb2-2474-494b-ad35-2c036a973485

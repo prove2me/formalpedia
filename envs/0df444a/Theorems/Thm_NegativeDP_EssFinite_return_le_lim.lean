@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_EssFinite_return_le_lim
 -- name    : NegativeDP.EssFinite.return_le_lim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:37.304282+00:00
 -- url     : https://prove2.me/theorems/27cfc6b9-c585-4842-ae66-daba9d139cb5

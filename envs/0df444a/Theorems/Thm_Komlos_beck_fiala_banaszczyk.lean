@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Komlos_beck_fiala_banaszczyk
 -- name    : Komlos.beck_fiala_banaszczyk
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-03T20:53:17.399284+00:00
 -- url     : https://prove2.me/theorems/c01c7754-1430-42b7-bbd3-dba17400f3f8

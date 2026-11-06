@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_toFinset_occAll
 -- name    : Coding.toFinset_occAll
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:24.475906+00:00
 -- url     : https://prove2.me/theorems/2e5d600d-f3a2-4dd1-bf14-b8e2680ba2bf

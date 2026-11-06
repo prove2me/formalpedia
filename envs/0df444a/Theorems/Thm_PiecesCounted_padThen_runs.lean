@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_padThen_runs
 -- name    : PiecesCounted.padThen_runs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:00.368913+00:00
 -- url     : https://prove2.me/theorems/3c89643d-9311-4f21-9338-e46b9130f89c

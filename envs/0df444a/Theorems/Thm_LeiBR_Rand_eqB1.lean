@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Rand_eqB1
 -- name    : LeiBR.Rand.eqB1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:08:46.630592+00:00
 -- url     : https://prove2.me/theorems/5e560030-b7f7-46a0-b61c-e39346f79afe

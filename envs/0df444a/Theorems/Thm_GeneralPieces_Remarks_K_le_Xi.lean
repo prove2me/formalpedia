@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_Remarks_K_le_Xi
 -- name    : GeneralPieces.Remarks.K_le_Xi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:38.755193+00:00
 -- url     : https://prove2.me/theorems/9687bd27-6a66-4339-9f41-4763b75a9808

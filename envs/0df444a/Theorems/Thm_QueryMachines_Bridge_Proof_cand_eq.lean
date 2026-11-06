@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_cand_eq
 -- name    : QueryMachines.Bridge.Proof.cand_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:43.703197+00:00
 -- url     : https://prove2.me/theorems/4056f9ee-53f4-4bb6-9c5b-d440a231d478

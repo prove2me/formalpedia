@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Inf_Avail_gate
 -- name    : CircuitLowerBound.Inf.Avail.gate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:05.304327+00:00
 -- url     : https://prove2.me/theorems/28e2fe5b-ece3-44fa-8b7a-3ce2ec0c9728

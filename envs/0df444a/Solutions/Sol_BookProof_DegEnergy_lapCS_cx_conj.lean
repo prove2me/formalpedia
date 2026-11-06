@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.DegEnergy.lapCS_cx_conj
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-04T09:30:43.335224+00:00
 -- url     : https://prove2.me/submissions/359021b3-4ca4-40bd-a937-3bac883663c1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterDegEnergyEstimate.lean — solution of BookProof.DegEnergy.lapCS_cx_conj
 import Mathlib

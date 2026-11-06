@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_gridW_polyT
 -- name    : ClauseBound.Alg.CertGridG.gridW_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:59:19.935891+00:00
 -- url     : https://prove2.me/theorems/ae02695e-41cf-49cb-932e-b865147b8d74

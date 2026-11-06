@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_QueryMachine_bind_reaches_inr
 -- name    : QueryMachines.QueryMachine.bind_reaches_inr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:43:21.041636+00:00
 -- url     : https://prove2.me/theorems/409bf14d-9985-441e-a587-ee7caf5add3f

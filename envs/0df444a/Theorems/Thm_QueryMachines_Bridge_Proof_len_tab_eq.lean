@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_len_tab_eq
 -- name    : QueryMachines.Bridge.Proof.len_tab_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:37.564485+00:00
 -- url     : https://prove2.me/theorems/2809fa6b-f10e-474f-83d3-202193a12091

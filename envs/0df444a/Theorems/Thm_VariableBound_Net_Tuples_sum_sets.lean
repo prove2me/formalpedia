@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tuples_sum_sets
 -- name    : VariableBound.Net.Tuples.sum_sets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:45:57.001338+00:00
 -- url     : https://prove2.me/theorems/8dbfa170-6bfc-4cb3-a883-5025d841faaf

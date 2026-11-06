@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_poly_le
 -- name    : SparsificationLemma.Mach.poly_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:27:40.683103+00:00
 -- url     : https://prove2.me/theorems/a6e5c256-41d4-4302-a4dc-49ea130a46c8

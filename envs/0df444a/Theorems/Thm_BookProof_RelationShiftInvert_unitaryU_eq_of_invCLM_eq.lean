@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RelationShiftInvert_unitaryU_eq_of_invCLM_eq
 -- name    : BookProof.RelationShiftInvert.unitaryU_eq_of_invCLM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:58:59.00898+00:00
 -- url     : https://prove2.me/theorems/6a944393-b901-47aa-8406-4ed6e3ae071c

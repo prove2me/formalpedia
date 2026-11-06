@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynChoiceJEO_theorem_1
 -- name    : DynChoiceJEO.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:40:41.762434+00:00
 -- url     : https://prove2.me/theorems/8b39e2e1-dcfc-4689-aeb9-f9ebf4f61249

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_v_bound_e
 -- name    : OAI.SharpPlanar.v_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:51:08.463146+00:00
 -- url     : https://prove2.me/theorems/4982603e-35f9-43dc-9af7-02a752ea0720

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_sqrt_polyT
 -- name    : ClauseBound.Alg.CertGridG.sqrt_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:14:42.598427+00:00
 -- url     : https://prove2.me/theorems/4c065fd2-95be-4af0-ab28-8e14d8e9b51c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_encPlain_polyT
 -- name    : ThmCount.encPlain_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:15.675492+00:00
 -- url     : https://prove2.me/theorems/c957b3e3-d351-49b8-85e6-bb532b185025

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsCutoffUniformity_norm_coeff_redMomentumPoly_le
 -- name    : BookProof.NsCutoffUniformity.norm_coeff_redMomentumPoly_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-03T22:17:15.307195+00:00
 -- url     : https://prove2.me/theorems/d3e16f92-eb41-42a1-bcce-2fe6fa5250c2

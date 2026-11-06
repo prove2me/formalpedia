@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BartlettNN_Margin_lemma4_covering_margin_bound
 -- name    : BartlettNN.Margin.lemma4_covering_margin_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:05:59.648526+00:00
 -- url     : https://prove2.me/theorems/02146583-8c0a-42ed-8a9f-1aa6c4afda64

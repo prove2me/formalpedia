@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_reciprocal_disk_bound_e
 -- name    : OAI.SharpPlanar.reciprocal_disk_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:43:24.577492+00:00
 -- url     : https://prove2.me/theorems/355a379e-a35c-44ff-9eed-f97e0a6451b1

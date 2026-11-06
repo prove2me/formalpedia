@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Main_chks
 -- name    : VariableBound.Net.Main.chks
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:04.235405+00:00
 -- url     : https://prove2.me/theorems/a2a9150f-f0f2-442d-9b81-4c23b74f241e

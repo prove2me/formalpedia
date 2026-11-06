@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_corCircuits_of
 -- name    : CircuitLowerBound.corCircuits_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:28:35.101099+00:00
 -- url     : https://prove2.me/theorems/a6b75d63-dce9-496e-b77b-f89a5212d2ef

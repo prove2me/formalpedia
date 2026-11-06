@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_satProcs_keepsP
 -- name    : Eight.ViaGrouping.satProcs_keepsP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:07:57.03439+00:00
 -- url     : https://prove2.me/theorems/762c846a-3f25-4602-907d-788fa90c2711

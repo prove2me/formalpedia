@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_stLowerD
 -- name    : VariableBound.stLowerD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:05:19.430196+00:00
 -- url     : https://prove2.me/theorems/d5702e7d-be2a-4d65-8d8b-e38cac17c0d6

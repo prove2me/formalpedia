@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowJobHardness_ColoringReduction_claim_3_8
 -- name    : FlowJobHardness.ColoringReduction.claim_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:32:33.491269+00:00
 -- url     : https://prove2.me/theorems/039bf317-376c-4055-bf80-b7d592a1cfeb

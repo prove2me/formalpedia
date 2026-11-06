@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_mem_tst
 -- name    : VariableBound.Net.SizeB.mem_tst
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:38.41401+00:00
 -- url     : https://prove2.me/theorems/8fd81fc5-32b0-45eb-945e-474f161c1b06

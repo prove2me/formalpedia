@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_inserted_arc_crosses_old_arc_only_at_common_endpoints__p2m_1a9c5bd1_cd0c_4131_96e3_8a49caa108d2_a2
 -- name    : WilliamsonShmoys.inserted_arc_crosses_old_arc_only_at_common_endpoints__p2m_1a9c5bd1_cd0c_4131_96e3_8a49caa108d2_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:59:09.48924+00:00
 -- url     : https://prove2.me/theorems/e6166acf-8ae9-4caa-9fd9-af658866bc01

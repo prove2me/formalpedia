@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.poisson_band_zero_count_laws_of_infinite_activity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-02T11:57:08.275496+00:00
 -- url     : https://prove2.me/submissions/aef9a9a3-c8b1-4dd7-9ece-542280dfb4ee
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Complex.Exponential
 import Mathlib.MeasureTheory.MeasurableSpace.Defs

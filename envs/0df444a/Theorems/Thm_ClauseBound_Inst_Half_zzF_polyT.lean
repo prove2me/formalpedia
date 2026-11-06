@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_zzF_polyT
 -- name    : ClauseBound.Inst.Half.zzF_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:40:17.168373+00:00
 -- url     : https://prove2.me/theorems/c3b11433-0136-45f5-a1d4-24f4564c964e

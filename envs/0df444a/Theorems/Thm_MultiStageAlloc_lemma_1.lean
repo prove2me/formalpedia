@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStageAlloc_lemma_1
 -- name    : MultiStageAlloc.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:30:34.9057+00:00
 -- url     : https://prove2.me/theorems/a5d763a4-4208-47c1-b771-9a682b3cf95e

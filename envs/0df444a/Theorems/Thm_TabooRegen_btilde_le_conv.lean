@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TabooRegen_btilde_le_conv
 -- name    : TabooRegen.btilde_le_conv
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:27:18.922505+00:00
 -- url     : https://prove2.me/theorems/a36b6f92-cdf2-41e9-8be1-7bc71fbc45e0

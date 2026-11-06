@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_widthOnTheCode
 -- name    : RecursionToBound.widthOnTheCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:01:12.264703+00:00
 -- url     : https://prove2.me/theorems/ce8acb9c-824f-432a-88e1-6be60e789039

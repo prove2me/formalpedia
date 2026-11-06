@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_widthOr3F_eq
 -- name    : RecursionToBound.widthOr3F_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:08.312192+00:00
 -- url     : https://prove2.me/theorems/9169ebea-9247-4139-802c-419be0bdc1cb

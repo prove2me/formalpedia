@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_Cost_bound_follows
 -- name    : Eight.ViaGrouping.Cost.bound_follows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:04:01.803551+00:00
 -- url     : https://prove2.me/theorems/5fd2d555-05da-4213-a0a0-2e8b829874e1

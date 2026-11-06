@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_sup_range_polyT
 -- name    : ClauseBound.Alg.CertGridG.sup_range_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:59:34.317207+00:00
 -- url     : https://prove2.me/theorems/d9f1f4e2-4270-4363-96e5-8c23fa9b0448

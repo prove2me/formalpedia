@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Step_add_heavy
 -- name    : UniformInK.Step.add_heavy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:41:56.085141+00:00
 -- url     : https://prove2.me/theorems/02649e28-a71b-427b-970a-0beb737b07ae

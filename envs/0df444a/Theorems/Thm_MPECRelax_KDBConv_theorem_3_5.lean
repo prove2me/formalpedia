@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPECRelax_KDBConv_theorem_3_5
 -- name    : MPECRelax.KDBConv.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:55.978614+00:00
 -- url     : https://prove2.me/theorems/b550b50f-f931-458d-a3a6-db3aab513540

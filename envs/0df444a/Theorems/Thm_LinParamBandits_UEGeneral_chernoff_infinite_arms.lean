@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEGeneral_chernoff_infinite_arms
 -- name    : LinParamBandits.UEGeneral.chernoff_infinite_arms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:23.339842+00:00
 -- url     : https://prove2.me/theorems/eda54add-d416-4282-8cf3-70df6405ab0d

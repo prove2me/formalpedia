@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_nb_le
 -- name    : CircuitLowerBound.Round.nb_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:59:41.645752+00:00
 -- url     : https://prove2.me/theorems/de04f9fe-9dbe-44e5-bd1f-25e9296d6a09

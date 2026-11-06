@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeU_adm_spec
 -- name    : VariableBound.Net.SizeU.adm_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:01.692748+00:00
 -- url     : https://prove2.me/theorems/542b40e7-a25f-4e8b-ac2d-3d60213d82ba

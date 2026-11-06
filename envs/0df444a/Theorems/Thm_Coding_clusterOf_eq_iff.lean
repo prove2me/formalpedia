@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_clusterOf_eq_iff
 -- name    : Coding.clusterOf_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:24.833205+00:00
 -- url     : https://prove2.me/theorems/ff59058d-730b-4383-a87e-6d396f7872b4

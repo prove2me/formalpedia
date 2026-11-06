@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CircuitLowerBound_stENP__of_vars_86a2b2596c60
 -- name    : P2M_CircuitLowerBound_stENP__of_vars_86a2b2596c60
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:12.143006+00:00
 -- url     : https://prove2.me/theorems/7277d293-5255-427b-a668-c0c455883a6b

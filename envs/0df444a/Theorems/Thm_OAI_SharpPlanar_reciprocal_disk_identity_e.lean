@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_reciprocal_disk_identity_e
 -- name    : OAI.SharpPlanar.reciprocal_disk_identity_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:43:45.654238+00:00
 -- url     : https://prove2.me/theorems/3b9e25ef-77fb-4008-aace-fed85317d35b

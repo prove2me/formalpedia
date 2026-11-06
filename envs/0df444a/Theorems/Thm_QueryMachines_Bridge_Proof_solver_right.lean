@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_solver_right
 -- name    : QueryMachines.Bridge.Proof.solver_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:56.69428+00:00
 -- url     : https://prove2.me/theorems/2a385b54-a132-4fcf-b596-bfafd31c7e6a

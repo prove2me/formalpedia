@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottSensitiveDP_Sensitive_theorem_4
 -- name    : VeinottSensitiveDP.Sensitive.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:56:50.555976+00:00
 -- url     : https://prove2.me/theorems/b3348374-fe2f-4bf9-a321-e031ed99783e

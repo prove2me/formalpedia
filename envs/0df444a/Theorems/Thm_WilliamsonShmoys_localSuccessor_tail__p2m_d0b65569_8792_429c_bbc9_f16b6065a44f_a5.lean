@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_localSuccessor_tail__p2m_d0b65569_8792_429c_bbc9_f16b6065a44f_a5
 -- name    : WilliamsonShmoys.localSuccessor_tail__p2m_d0b65569_8792_429c_bbc9_f16b6065a44f_a5
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:46:26.752459+00:00
 -- url     : https://prove2.me/theorems/1674a10a-7413-464c-95a7-ca7e73c084c5

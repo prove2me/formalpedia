@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Budget_stack_le
 -- name    : UniformInK.Budget.stack_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:47:50.395429+00:00
 -- url     : https://prove2.me/theorems/c4d71f39-964d-4636-9e2e-8b52301ed297

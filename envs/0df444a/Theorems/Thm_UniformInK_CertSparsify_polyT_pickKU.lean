@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_CertSparsify_polyT_pickKU
 -- name    : UniformInK.CertSparsify.polyT_pickKU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:53:06.002211+00:00
 -- url     : https://prove2.me/theorems/eaeeb06c-0c9d-4454-869a-6dfc9bf4aba8

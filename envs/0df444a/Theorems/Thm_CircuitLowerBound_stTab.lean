@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_stTab
 -- name    : CircuitLowerBound.stTab
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:39:52.333881+00:00
 -- url     : https://prove2.me/theorems/70a8fb4d-a7f6-4925-9ae9-274cc53b6613

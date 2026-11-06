@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_clause_iff
 -- name    : Coding.clause_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:01.045256+00:00
 -- url     : https://prove2.me/theorems/11bb9da7-4e25-455a-8856-86cca615132d

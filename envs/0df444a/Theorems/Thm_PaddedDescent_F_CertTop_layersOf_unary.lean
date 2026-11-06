@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaddedDescent_F_CertTop_layersOf_unary
 -- name    : PaddedDescent.F.CertTop.layersOf_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:41:16.685121+00:00
 -- url     : https://prove2.me/theorems/9e3ec66f-54a2-478f-9238-9fe23e785129

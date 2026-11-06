@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SqSumOuterFamily_SqFamily_esa_farisLavine
 -- name    : BookProof.SqSumOuterFamily.SqFamily.esa_farisLavine
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:58:12.954878+00:00
 -- url     : https://prove2.me/theorems/9838a555-dad3-4516-a503-940648f01fc0

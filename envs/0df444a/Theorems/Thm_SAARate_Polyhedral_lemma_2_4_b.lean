@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAARate_Polyhedral_lemma_2_4_b
 -- name    : SAARate.Polyhedral.lemma_2_4_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:41.240699+00:00
 -- url     : https://prove2.me/theorems/d4e1765e-97f5-421c-a2e0-784610b57f7f

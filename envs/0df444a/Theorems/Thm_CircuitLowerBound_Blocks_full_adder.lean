@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Blocks_full_adder
 -- name    : CircuitLowerBound.Blocks.full_adder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:32.72277+00:00
 -- url     : https://prove2.me/theorems/ee3b864c-6b69-473c-bf53-3d9d44e90eee

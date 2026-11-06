@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_B_polyT
 -- name    : CircuitLowerBound.Clause.B_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:55:35.052869+00:00
 -- url     : https://prove2.me/theorems/19659163-c124-44a1-aaf2-6518e70f0d4d

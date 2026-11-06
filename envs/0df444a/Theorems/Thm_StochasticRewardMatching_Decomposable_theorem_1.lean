@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticRewardMatching_Decomposable_theorem_1
 -- name    : StochasticRewardMatching.Decomposable.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T21:17:17.873307+00:00
 -- url     : https://prove2.me/theorems/732414eb-5ef3-4cbe-a6fd-4f5b2b1f17be

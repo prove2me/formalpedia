@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_tseitin_polyT
 -- name    : CircuitLowerBound.Form.tseitin_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:00:19.690246+00:00
 -- url     : https://prove2.me/theorems/4a029f62-7951-483c-91cf-edaf14ea0838

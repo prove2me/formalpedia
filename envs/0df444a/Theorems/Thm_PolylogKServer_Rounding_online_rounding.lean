@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolylogKServer_Rounding_online_rounding
 -- name    : PolylogKServer.Rounding.online_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:09:42.351186+00:00
 -- url     : https://prove2.me/theorems/80c9fd83-738e-46a7-a518-7c37391d1de9

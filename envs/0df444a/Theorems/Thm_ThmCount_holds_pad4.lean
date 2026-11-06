@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_holds_pad4
 -- name    : ThmCount.holds_pad4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:52.83077+00:00
 -- url     : https://prove2.me/theorems/ef75eb4c-8bf6-489d-bcd4-c3c9ad8ba902

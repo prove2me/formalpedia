@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Rand_eq9_contraction
 -- name    : LeiBR.Rand.eq9_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:09:38.37032+00:00
 -- url     : https://prove2.me/theorems/8aa3184e-c752-4451-9092-c8e0318489de

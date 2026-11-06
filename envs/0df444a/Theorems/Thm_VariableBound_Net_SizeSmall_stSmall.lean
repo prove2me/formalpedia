@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeSmall_stSmall
 -- name    : VariableBound.Net.SizeSmall.stSmall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:44.073459+00:00
 -- url     : https://prove2.me/theorems/940a9508-4cab-4039-9c79-53f306382431

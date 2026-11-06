@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_size_query_le
 -- name    : QueryMachines.Bridge.Proof.size_query_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:04.987304+00:00
 -- url     : https://prove2.me/theorems/57fa8a31-4acd-47ad-a58a-7a2ad07f836e

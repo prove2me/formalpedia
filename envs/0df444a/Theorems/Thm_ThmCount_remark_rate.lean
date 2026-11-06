@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_remark_rate
 -- name    : ThmCount.remark_rate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:20.930798+00:00
 -- url     : https://prove2.me/theorems/2679c2bc-be32-4477-b8c6-0e5a4bcc5875

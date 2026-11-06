@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_ArithNat_gPD_le_W
 -- name    : VariableBound.ArithNat.gPD_le_W
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:20.038723+00:00
 -- url     : https://prove2.me/theorems/cda24ba0-e0cc-4ef2-988c-2055a99807c3

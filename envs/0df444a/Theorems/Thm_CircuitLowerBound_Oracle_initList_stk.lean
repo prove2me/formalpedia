@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_initList_stk
 -- name    : CircuitLowerBound.Oracle.initList_stk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:44:02.582646+00:00
 -- url     : https://prove2.me/theorems/e7ccf10b-3d91-4a92-a878-424e96d26a9b

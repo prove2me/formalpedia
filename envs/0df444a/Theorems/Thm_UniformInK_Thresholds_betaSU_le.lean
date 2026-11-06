@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Thresholds_betaSU_le
 -- name    : UniformInK.Thresholds.betaSU_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:42:50.220648+00:00
 -- url     : https://prove2.me/theorems/ce61f2e3-6096-48c0-8e3a-c2ed818ede41

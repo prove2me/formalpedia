@@ -5538,7 +5538,7 @@
 {"parent": "PM.star5_54", "child": "PM_core_statement_formulas", "via": ["solution", "statement"]}
 {"parent": "PM.star5_54", "child": "PM_core_star1_system", "via": ["solution", "statement"]}
 {"parent": "PM.star5_54", "child": "PM_core_hypothetical_derivations", "via": ["solution", "statement"]}
-{"parent": "LindelofHypothesis.guth_maynard_density_estimate", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["statement"]}
+{"parent": "LindelofHypothesis.guth_maynard_density_estimate", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["solution", "statement"]}
 {"parent": "LindelofHypothesis.guth_maynard_density_estimate", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["statement"]}
 {"parent": "SearchNeutrality_ShortTerm_ClosedForms", "child": "SearchNeutrality_ShortTerm_Model", "via": ["statement"]}
 {"parent": "BBDisclosure.Stage2.proposition_1", "child": "BBDisclosure_Stage2_Model", "via": ["solution", "statement"]}
@@ -6675,7 +6675,7 @@
 {"parent": "PNT_ZeroFree_433_0181_parallel1", "child": "PNT_ZeroFree_433_0162", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0181_parallel1", "child": "PNT_ZeroFree_433_0009", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0181_parallel1", "child": "PNT_ZeroFree_433_0265_parallel1", "via": ["statement"]}
-{"parent": "LindelofHypothesis.ingham_density_estimate", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["statement"]}
+{"parent": "LindelofHypothesis.ingham_density_estimate", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["solution", "statement"]}
 {"parent": "LindelofHypothesis.ingham_density_estimate", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0103", "child": "PNT_ZeroFree_433_0101", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0103", "child": "PNT_ZeroFree_433_0100", "via": ["statement"]}

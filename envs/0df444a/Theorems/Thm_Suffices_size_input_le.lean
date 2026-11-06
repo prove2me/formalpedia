@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_size_input_le
 -- name    : Suffices.size_input_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:26:18.812424+00:00
 -- url     : https://prove2.me/theorems/2f6cdc51-81e5-4825-b4bc-1c39f815f178

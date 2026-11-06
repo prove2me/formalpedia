@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_encPlain_toN
 -- name    : ThmCount.encPlain_toN
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:42.160198+00:00
 -- url     : https://prove2.me/theorems/d366e789-7bc0-4a53-8489-70c3d60dbf4e

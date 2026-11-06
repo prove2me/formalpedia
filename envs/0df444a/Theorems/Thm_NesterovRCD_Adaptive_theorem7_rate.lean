@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Adaptive_theorem7_rate
 -- name    : NesterovRCD.Adaptive.theorem7_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:47.677653+00:00
 -- url     : https://prove2.me/theorems/5d3a55e1-811e-4dd0-a260-25e1ef648328

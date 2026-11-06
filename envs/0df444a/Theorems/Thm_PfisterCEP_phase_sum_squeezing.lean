@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfisterCEP_phase_sum_squeezing
 -- name    : PfisterCEP.phase_sum_squeezing
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:27:53.085531+00:00
 -- url     : https://prove2.me/theorems/a7a26efc-98c3-41f3-9802-9f398ebd71ca

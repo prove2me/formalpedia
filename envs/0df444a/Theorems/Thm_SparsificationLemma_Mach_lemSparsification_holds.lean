@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_lemSparsification_holds
 -- name    : SparsificationLemma.Mach.lemSparsification_holds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:02:30.803086+00:00
 -- url     : https://prove2.me/theorems/749ce8c8-2f35-4949-8c91-ea4a378ad816

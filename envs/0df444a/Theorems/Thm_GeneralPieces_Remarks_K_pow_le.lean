@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_Remarks_K_pow_le
 -- name    : GeneralPieces.Remarks.K_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:38.034649+00:00
 -- url     : https://prove2.me/theorems/12a487bd-96bc-4830-895b-cdb56c8a8dd0

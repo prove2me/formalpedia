@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_ArithNat_b_le_DU
 -- name    : UniformInK.ArithNat.b_le_DU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:31.490188+00:00
 -- url     : https://prove2.me/theorems/54affe4d-d17e-411a-907e-9a87b1797978

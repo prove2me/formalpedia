@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_Data_Is_size_question_le
 -- name    : PiecesCounted.Data.Is.size_question_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:59.453462+00:00
 -- url     : https://prove2.me/theorems/cdf5bbb4-8ca3-49d4-9d1b-8cc1852009be

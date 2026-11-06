@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRebate_Quantity_sec31_newsvendor_solution
 -- name    : ChannelRebate.Quantity.sec31_newsvendor_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:12:50.335742+00:00
 -- url     : https://prove2.me/theorems/f4d617f9-43ee-4aef-a1f2-1967f0eec53a

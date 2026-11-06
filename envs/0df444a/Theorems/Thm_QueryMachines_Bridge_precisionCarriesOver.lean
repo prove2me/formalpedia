@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_precisionCarriesOver
 -- name    : QueryMachines.Bridge.precisionCarriesOver
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:25.257005+00:00
 -- url     : https://prove2.me/theorems/86157087-2352-45cd-be73-226af4775fb4

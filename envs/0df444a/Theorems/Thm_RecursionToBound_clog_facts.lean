@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_clog_facts
 -- name    : RecursionToBound.clog_facts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:11.138194+00:00
 -- url     : https://prove2.me/theorems/bbbbb1da-ccd3-44f1-b824-f50ca32e67a8

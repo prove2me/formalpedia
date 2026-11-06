@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLIAG_eq_C_15
 -- name    : PLIAG.eq_C_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:27:35.036076+00:00
 -- url     : https://prove2.me/theorems/1bc180a4-e8dc-49fe-b8b1-11fca5f3e0f3

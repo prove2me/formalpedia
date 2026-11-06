@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsayQF_NoCommit_retailer_purchase
 -- name    : TsayQF.NoCommit.retailer_purchase
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:29.324995+00:00
 -- url     : https://prove2.me/theorems/3be9df31-5964-46ff-95b2-9e7166bae33a

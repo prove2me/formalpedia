@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RelationShiftInvert_isShiftInvert_invCLMAt
 -- name    : BookProof.RelationShiftInvert.isShiftInvert_invCLMAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:58:54.361445+00:00
 -- url     : https://prove2.me/theorems/7820aa16-f8c4-458a-b1ea-4edbe45adec4

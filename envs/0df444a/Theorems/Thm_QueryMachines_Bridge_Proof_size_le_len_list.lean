@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_size_le_len_list
 -- name    : QueryMachines.Bridge.Proof.size_le_len_list
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:22.420707+00:00
 -- url     : https://prove2.me/theorems/a0a2510a-dd0d-4f10-9160-a556b06e3f63

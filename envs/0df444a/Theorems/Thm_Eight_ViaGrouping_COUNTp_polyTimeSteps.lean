@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_COUNTp_polyTimeSteps
 -- name    : Eight.ViaGrouping.COUNTp_polyTimeSteps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:23:41.256234+00:00
 -- url     : https://prove2.me/theorems/3f9b731e-ef4c-43e5-adf2-2fae4e9464b3

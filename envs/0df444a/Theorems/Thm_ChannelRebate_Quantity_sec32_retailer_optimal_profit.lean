@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRebate_Quantity_sec32_retailer_optimal_profit
 -- name    : ChannelRebate.Quantity.sec32_retailer_optimal_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:13:17.459283+00:00
 -- url     : https://prove2.me/theorems/eee188b7-e012-4a83-85aa-066a765aa9ff

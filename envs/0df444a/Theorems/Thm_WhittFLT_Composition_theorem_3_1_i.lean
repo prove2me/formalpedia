@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_Composition_theorem_3_1_i
 -- name    : WhittFLT.Composition.theorem_3_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:01:36.055828+00:00
 -- url     : https://prove2.me/theorems/d5c2c601-d45e-4a24-9e68-a1fad2931a69

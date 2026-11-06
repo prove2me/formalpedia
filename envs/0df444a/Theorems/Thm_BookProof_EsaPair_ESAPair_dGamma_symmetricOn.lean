@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EsaPair_ESAPair_dGamma_symmetricOn
 -- name    : BookProof.EsaPair.ESAPair.dGamma_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:52:55.470182+00:00
 -- url     : https://prove2.me/theorems/af5a14e1-b535-4a83-b81d-77d4f3159594

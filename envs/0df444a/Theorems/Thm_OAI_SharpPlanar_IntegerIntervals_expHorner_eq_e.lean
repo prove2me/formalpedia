@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_expHorner_eq_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.expHorner_eq_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:51:48.714483+00:00
 -- url     : https://prove2.me/theorems/9f61a0fc-399a-43ea-be6b-1bae15b2aa3f

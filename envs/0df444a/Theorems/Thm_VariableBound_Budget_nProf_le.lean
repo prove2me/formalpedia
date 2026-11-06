@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Budget_nProf_le
 -- name    : VariableBound.Budget.nProf_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:09.420104+00:00
 -- url     : https://prove2.me/theorems/cc6493ab-8f9f-446b-a8c8-f5019292f0b5

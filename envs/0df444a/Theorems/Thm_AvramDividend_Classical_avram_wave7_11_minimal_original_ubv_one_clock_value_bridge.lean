@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_11_minimal_original_ubv_one_clock_value_bridge
 -- name    : AvramDividend.Classical.avram_wave7_11_minimal_original_ubv_one_clock_value_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T20:45:32.354683+00:00
 -- url     : https://prove2.me/theorems/884bc177-d45c-4f27-80ac-1fa7fb8e0c7b

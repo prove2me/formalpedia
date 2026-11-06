@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_selfCallRuns
 -- name    : QueryMachines.Tower.selfCallRuns
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:33:04.893665+00:00
 -- url     : https://prove2.me/theorems/b102ec13-03fc-49dd-8293-631f1611d27d

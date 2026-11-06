@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeberGittins_IndexGap_switch_to_gittins_after_t_optimal
 -- name    : WeberGittins.IndexGap.switch_to_gittins_after_t_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:55:23.669081+00:00
 -- url     : https://prove2.me/theorems/d72e7844-3e9a-4a9e-8554-dfda4af0512c

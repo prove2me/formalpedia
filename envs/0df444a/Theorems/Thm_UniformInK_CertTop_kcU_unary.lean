@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_CertTop_kcU_unary
 -- name    : UniformInK.CertTop.kcU_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:53:36.741109+00:00
 -- url     : https://prove2.me/theorems/a14b2c89-ced1-4e4e-95e9-dbc0b3107162

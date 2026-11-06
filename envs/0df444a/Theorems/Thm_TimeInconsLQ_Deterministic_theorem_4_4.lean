@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeInconsLQ_Deterministic_theorem_4_4
 -- name    : TimeInconsLQ.Deterministic.theorem_4_4
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:25:23.872115+00:00
 -- url     : https://prove2.me/theorems/4e65771d-4592-4431-8cc3-5a189957ce66

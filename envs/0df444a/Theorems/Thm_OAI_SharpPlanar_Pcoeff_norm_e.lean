@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Pcoeff_norm_e
 -- name    : OAI.SharpPlanar.Pcoeff_norm_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:53:51.973836+00:00
 -- url     : https://prove2.me/theorems/2b1d9c41-d7fa-40a4-9648-d0440d02dfaf

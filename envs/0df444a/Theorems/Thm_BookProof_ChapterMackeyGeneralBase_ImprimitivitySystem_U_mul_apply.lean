@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_ImprimitivitySystem_U_mul_apply
 -- name    : BookProof.ChapterMackeyGeneralBase.ImprimitivitySystem.U_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:29.568817+00:00
 -- url     : https://prove2.me/theorems/8cb565b7-0cd1-4e63-97ca-fd8a5f72fc83

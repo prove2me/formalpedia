@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_isPsi_widen
 -- name    : ExplicitCost.isPsi_widen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:49:27.21355+00:00
 -- url     : https://prove2.me/theorems/f6b1261a-0d18-44f1-b9e2-47c14ac59fa8

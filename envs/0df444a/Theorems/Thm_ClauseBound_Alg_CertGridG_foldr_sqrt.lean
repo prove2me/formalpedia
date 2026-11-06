@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_foldr_sqrt
 -- name    : ClauseBound.Alg.CertGridG.foldr_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:59:31.80738+00:00
 -- url     : https://prove2.me/theorems/2b3abe2d-4539-4773-a1a6-56dab2e2ed65

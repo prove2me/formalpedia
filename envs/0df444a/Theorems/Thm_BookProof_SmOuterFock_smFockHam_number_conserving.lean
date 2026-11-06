@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmOuterFock_smFockHam_number_conserving
 -- name    : BookProof.SmOuterFock.smFockHam_number_conserving
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-03T22:37:02.501144+00:00
 -- url     : https://prove2.me/theorems/1d50fff7-5ed6-44bf-baf6-16e2e487a7b2

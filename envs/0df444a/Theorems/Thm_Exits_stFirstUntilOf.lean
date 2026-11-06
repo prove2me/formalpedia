@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stFirstUntilOf
 -- name    : Exits.stFirstUntilOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T16:53:45.281535+00:00
 -- url     : https://prove2.me/theorems/1a3938d6-11b5-47d9-bf05-eccb67a1dc2d

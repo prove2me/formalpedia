@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Scheme_theorem_9
 -- name    : ConstrNestedLogit.Scheme.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:08:47.377236+00:00
 -- url     : https://prove2.me/theorems/fda8adde-34f9-4c9e-b985-fd83430076fb

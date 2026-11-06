@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Ev_stEvXF
 -- name    : VariableBound.Net.Ev.stEvXF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:36.049216+00:00
 -- url     : https://prove2.me/theorems/63b3181e-6262-4945-8e0f-b101a03e8cc2

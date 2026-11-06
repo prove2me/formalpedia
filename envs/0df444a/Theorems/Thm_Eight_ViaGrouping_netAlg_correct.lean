@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_netAlg_correct
 -- name    : Eight.ViaGrouping.netAlg_correct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:41.393773+00:00
 -- url     : https://prove2.me/theorems/b7e7410b-b2b1-4d81-b8c1-ff8e3a2946aa

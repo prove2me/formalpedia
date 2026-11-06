@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_bit_polyT
 -- name    : Printed.bit_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:48:47.852643+00:00
 -- url     : https://prove2.me/theorems/d2d5edd1-1351-4759-bc23-9c4deaecefd5

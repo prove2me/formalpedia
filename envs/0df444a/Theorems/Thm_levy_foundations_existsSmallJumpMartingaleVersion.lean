@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_existsSmallJumpMartingaleVersion
 -- name    : levy_foundations_existsSmallJumpMartingaleVersion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T18:11:33.624457+00:00
 -- url     : https://prove2.me/theorems/b17e8924-2ad0-41b8-963f-dde86b1e54f2

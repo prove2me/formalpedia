@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_codeP_eq
 -- name    : SparsificationLemma.Mach.codeP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:02:47.566199+00:00
 -- url     : https://prove2.me/theorems/24c3496a-8987-47f9-89cd-33a8668f8349

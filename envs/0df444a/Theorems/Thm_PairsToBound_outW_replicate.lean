@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_outW_replicate
 -- name    : PairsToBound.outW_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:11:41.575031+00:00
 -- url     : https://prove2.me/theorems/9096b623-01df-417a-a739-c6c5ea611059

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ExplicitCost_size_widen__a57a929d61ba
 -- name    : P2M_ExplicitCost_size_widen__a57a929d61ba
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:48:58.462896+00:00
 -- url     : https://prove2.me/theorems/ee7f30dc-fb66-4a52-84c8-90761de40c49

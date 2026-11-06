@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Sched_leTop_polyT
 -- name    : CircuitLowerBound.Sched.leTop_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:03:50.646175+00:00
 -- url     : https://prove2.me/theorems/dc061f4c-6c25-47b9-9db6-5a672df8aacb

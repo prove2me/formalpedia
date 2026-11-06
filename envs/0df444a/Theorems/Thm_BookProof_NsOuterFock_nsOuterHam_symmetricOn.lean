@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsOuterFock_nsOuterHam_symmetricOn
 -- name    : BookProof.NsOuterFock.nsOuterHam_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:55:02.221119+00:00
 -- url     : https://prove2.me/theorems/c4d9799a-2bd1-4737-bc0f-165a6807cecf

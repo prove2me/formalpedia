@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_needOutputsC_eq_some
 -- name    : RecursionToBound.needOutputsC_eq_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:55:28.194715+00:00
 -- url     : https://prove2.me/theorems/cd68e2a6-6c2b-4493-950b-547d47e83a54

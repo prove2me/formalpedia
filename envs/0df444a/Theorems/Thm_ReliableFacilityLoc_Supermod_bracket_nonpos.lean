@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_Supermod_bracket_nonpos
 -- name    : ReliableFacilityLoc.Supermod.bracket_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:14:53.59968+00:00
 -- url     : https://prove2.me/theorems/d7484efc-e80e-4c1e-a719-62487a289185

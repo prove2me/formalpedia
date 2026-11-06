@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_len_tab_unary
 -- name    : QueryMachines.Bridge.Proof.len_tab_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:17:19.720889+00:00
 -- url     : https://prove2.me/theorems/2f41c0d3-1a77-40a9-9ca9-f94eed404860

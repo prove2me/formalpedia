@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TensorSumChain_pair_op_tmul
 -- name    : BookProof.TensorSumChain.pair_op_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:58:11.743211+00:00
 -- url     : https://prove2.me/theorems/45eab602-6682-4d0a-a841-e83c9fc5d0b4

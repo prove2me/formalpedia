@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH7_generationOperator_conjTranspose_mul
 -- name    : BookProof.ChapterH7.generationOperator_conjTranspose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T19:55:39.061459+00:00
 -- url     : https://prove2.me/theorems/361ffd39-ac67-4c01-b1eb-9c6629f4d2d4

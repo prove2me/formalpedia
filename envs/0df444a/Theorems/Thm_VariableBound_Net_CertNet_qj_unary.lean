@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_CertNet_qj_unary
 -- name    : VariableBound.Net.CertNet.qj_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:14:30.34037+00:00
 -- url     : https://prove2.me/theorems/954ac82a-4ef6-46c9-ada7-de1aa4da6c99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_OSRUnitary_osr_unitary_iff
 -- name    : BaconThesis.OSRUnitary.osr_unitary_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:58:54.74351+00:00
 -- url     : https://prove2.me/theorems/c4e3ddc2-4f9f-4253-8feb-0417b82836d3

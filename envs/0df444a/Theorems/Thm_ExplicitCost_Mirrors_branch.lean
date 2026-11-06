@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_Mirrors_branch
 -- name    : ExplicitCost.Mirrors.branch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:47:45.310021+00:00
 -- url     : https://prove2.me/theorems/9a0f6dbd-f17d-4a50-9d8c-6940add0a66f

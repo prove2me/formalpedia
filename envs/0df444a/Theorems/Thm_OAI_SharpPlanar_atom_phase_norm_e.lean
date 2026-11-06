@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_atom_phase_norm_e
 -- name    : OAI.SharpPlanar.atom_phase_norm_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:41:53.111604+00:00
 -- url     : https://prove2.me/theorems/122dea2e-0f4f-4c97-9fd2-78b055453097

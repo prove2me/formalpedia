@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_ZhangAudenaert_relEntropy_nonneg
 -- name    : WildeQIT.ZhangAudenaert.relEntropy_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:56:18.183971+00:00
 -- url     : https://prove2.me/theorems/5c9afab7-7ca5-4951-b286-7225053c224f

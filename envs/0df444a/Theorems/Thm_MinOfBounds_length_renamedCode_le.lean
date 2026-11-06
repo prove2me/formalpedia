@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinOfBounds_length_renamedCode_le
 -- name    : MinOfBounds.length_renamedCode_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:54:02.253133+00:00
 -- url     : https://prove2.me/theorems/2cce3915-c895-4275-a052-4a6124ffc2f3

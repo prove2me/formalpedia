@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Main_certRank
 -- name    : VariableBound.Net.Main.certRank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:25.65179+00:00
 -- url     : https://prove2.me/theorems/698dd669-f1c1-4184-a123-bcb57cb8df5b

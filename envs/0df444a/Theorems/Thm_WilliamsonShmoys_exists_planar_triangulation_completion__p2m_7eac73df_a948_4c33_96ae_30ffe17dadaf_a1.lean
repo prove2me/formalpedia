@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_triangulation_completion__p2m_7eac73df_a948_4c33_96ae_30ffe17dadaf_a1
 -- name    : WilliamsonShmoys.exists_planar_triangulation_completion__p2m_7eac73df_a948_4c33_96ae_30ffe17dadaf_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:53:32.606878+00:00
 -- url     : https://prove2.me/theorems/9c07cfc8-fca3-44bb-9466-8248a8f68ed4

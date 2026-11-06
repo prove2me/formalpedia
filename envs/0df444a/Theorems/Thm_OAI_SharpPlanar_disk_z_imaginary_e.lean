@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_disk_z_imaginary_e
 -- name    : OAI.SharpPlanar.disk_z_imaginary_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:55:53.667947+00:00
 -- url     : https://prove2.me/theorems/cb203b55-da14-4da2-ae07-e8ba57c7f7b4

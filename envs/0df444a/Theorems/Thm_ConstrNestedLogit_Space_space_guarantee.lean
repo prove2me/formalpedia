@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Space_space_guarantee
 -- name    : ConstrNestedLogit.Space.space_guarantee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:44.488714+00:00
 -- url     : https://prove2.me/theorems/75e5cd60-e4ce-4ed7-8ea3-74cd61d9f53e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesExpGap_ConstOrder_chernoff_step
 -- name    : LostSalesExpGap.ConstOrder.chernoff_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:11:41.84518+00:00
 -- url     : https://prove2.me/theorems/3c59d75c-340f-4589-b1a6-37b4bec03fb7

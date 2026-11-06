@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoicePAC_MidPoint_midpoint_G_bound
 -- name    : ChoicePAC.MidPoint.midpoint_G_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:46.815576+00:00
 -- url     : https://prove2.me/theorems/541bf469-ee65-40cc-ac01-3e6b9bbdf117

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ExplicitCost_length_unary__ce48a98cee10
 -- name    : P2M_ExplicitCost_length_unary__ce48a98cee10
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:50:00.73984+00:00
 -- url     : https://prove2.me/theorems/5b56a38a-f20f-45f2-92ee-f9eb327c07f8

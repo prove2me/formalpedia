@@ -1,0 +1,69 @@
+-- Prove2me | Theorems.Thm_Monodromy_CounterContinuation_simulates
+-- name    : Monodromy.CounterContinuation.simulates
+-- status  : Proved
+-- author  : @Xiaoyang Liu
+-- created : 2026-11-05T18:46:11.229772+00:00
+-- url     : https://prove2.me/theorems/506f9a53-a27c-48d1-a505-217f558df82d
+-- title:
+--   Continuation compilation respects counter execution
+-- statement:
+--   For every positive m and every two-counter program with m addresses, its source transition system is respected by the native transition system of its three-phase continuation compilation under the relation encode(s)=u. Thus related halted source states have halted native states, and each successful source transition is matched by a positive native run ending at the encoding of its successor.
+--
+--   Statement dependencies: `Monodromy.Counter.Configuration`, `Monodromy.Counter.Program`, `Monodromy.Counter.step`, `Monodromy.CounterContinuation.compile`, `Monodromy.CounterContinuation.encode`, `Monodromy.CoupledContinuation.Memory`, `Monodromy.CoupledContinuation.Point`, `Monodromy.CoupledContinuation.Program.step`.
+--
+--   Original proof dependencies: `Monodromy.Counter.Configuration`, `Monodromy.Counter.Instruction`, `Monodromy.Counter.Program`, `Monodromy.Counter.step`, `Monodromy.CounterContinuation.compile`, `Monodromy.CounterContinuation.encode`, `Monodromy.CounterContinuation.step_halt`, `Monodromy.CounterContinuation.two_returns`, `Monodromy.CoupledContinuation.Memory`, `Monodromy.CoupledContinuation.Point`, `Monodromy.CoupledContinuation.Program.step`.
+--
+--   Statement elaboration dependencies: `Monodromy.Counter.Configuration`, `Monodromy.Counter.Program`, `Monodromy.Counter.step`, `Monodromy.CounterContinuation.compile`, `Monodromy.CounterContinuation.encode`, `Monodromy.CoupledContinuation.Memory`, `Monodromy.CoupledContinuation.Point`, `Monodromy.CoupledContinuation.Program.step`.
+--
+--   Proof elaboration dependencies: `Monodromy.Counter.Configuration`, `Monodromy.Counter.Instruction`, `Monodromy.Counter.Program`, `Monodromy.Counter.step`, `Monodromy.CounterContinuation.compile`, `Monodromy.CounterContinuation.encode`, `Monodromy.CounterContinuation.step_halt`, `Monodromy.CounterContinuation.two_returns`, `Monodromy.CoupledContinuation.Memory`, `Monodromy.CoupledContinuation.Point`, `Monodromy.CoupledContinuation.Program.step`.
+-- source:
+--   Authoritative local working-tree snapshot SHA-256 e03ce2d08e07ee663140bec213fb21e995f44153a3c556c908fcf1c8d6fefe6c; repository https://github.com/ERHUTUZI123/monodromy. The remote Git base is incomplete and is not asserted to contain these declarations.
+--   src/Monodromy/Counter.lean (file SHA-256 40536289575067aae1ed4154805e219805a1c786ccfdfcbe632ea7478a40636a):
+--   Monodromy.CounterContinuation.simulates at L441-L461 [UTF-8 19975:21167].
+
+module
+public import Definitions.Def_Monodromy_Counter
+public import Lean.Elab.Tactic.Omega
+public import Mathlib.Analysis.Analytic.Constructions
+public import Mathlib.Analysis.Analytic.IsolatedZeros
+public import Mathlib.Analysis.Analytic.Linear
+public import Mathlib.Analysis.Calculus.DSlope
+public import Mathlib.Analysis.Calculus.Deriv.Add
+public import Mathlib.Analysis.Calculus.Deriv.Comp
+public import Mathlib.Analysis.Calculus.Deriv.Mul
+public import Mathlib.Analysis.Calculus.Deriv.Pow
+public import Mathlib.Analysis.Complex.Basic
+public import Mathlib.Analysis.Complex.CoveringMap
+public import Mathlib.Analysis.Real.Pi.Bounds
+public import Mathlib.Analysis.SpecialFunctions.Complex.Analytic
+public import Mathlib.Analysis.SpecialFunctions.Complex.Circle
+public import Mathlib.Computability.StateTransition
+public import Mathlib.Computability.TuringMachine.PostTuringMachine
+public import Mathlib.Data.Fin.Basic
+public import Mathlib.Data.Fintype.Card
+public import Mathlib.Data.Fintype.EquivFin
+public import Mathlib.Data.Nat.Digits.Lemmas
+public import Mathlib.Data.Nat.Factorization.Basic
+public import Mathlib.Logic.Equiv.Fin.Basic
+public import Mathlib.Logic.Equiv.Fin.Rotate
+public import Mathlib.Logic.Function.Basic
+public import Mathlib.Logic.Function.Conjugate
+public import Mathlib.RingTheory.RootsOfUnity.Complex
+public import Mathlib.Tactic.FieldSimp
+public import Mathlib.Tactic.FinCases
+public import Mathlib.Tactic.FunProp
+public import Mathlib.Tactic.Linarith
+public import Mathlib.Tactic.Ring
+public import Mathlib.Topology.Homotopy.Lifting
+
+@[expose] public section
+
+open Monodromy
+open Monodromy.CounterContinuation
+open CoupledContinuation
+variable {m : ℕ}
+variable [NeZero m]
+
+theorem Monodromy.CounterContinuation.simulates (program : Counter.Program 2 m) :
+    StateTransition.Respects (Counter.step program) (compile program).step
+      (fun first second => encode first = second) := by sorry

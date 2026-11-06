@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_KKT_kkt_isSaddlePoint
 -- name    : KallMayerSLP.KKT.kkt_isSaddlePoint
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:10:13.040989+00:00
 -- url     : https://prove2.me/theorems/7ecc6ff5-8f1d-49c9-bf1a-4b73edb658e2

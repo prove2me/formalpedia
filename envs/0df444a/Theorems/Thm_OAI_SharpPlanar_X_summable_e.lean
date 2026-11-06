@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_X_summable_e
 -- name    : OAI.SharpPlanar.X_summable_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:48:25.351411+00:00
 -- url     : https://prove2.me/theorems/d9a2e1c7-9fac-4b09-96a0-e278e94e768f

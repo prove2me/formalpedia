@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Arith_of_BkD
 -- name    : VariableBound.Arith.of_BkD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:50.337997+00:00
 -- url     : https://prove2.me/theorems/87953466-1c16-419b-ac82-127608de5b9a

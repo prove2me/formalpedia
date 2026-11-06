@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_card_clauses_at_le
 -- name    : VariableBound.Net.SizeP.card_clauses_at_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:03.876441+00:00
 -- url     : https://prove2.me/theorems/9ea2ea9d-aa4a-4bc0-8163-8c55742865f2

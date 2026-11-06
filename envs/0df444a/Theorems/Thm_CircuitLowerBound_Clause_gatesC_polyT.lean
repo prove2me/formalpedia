@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_gatesC_polyT
 -- name    : CircuitLowerBound.Clause.gatesC_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:55:39.342483+00:00
 -- url     : https://prove2.me/theorems/126c1d62-0dfb-4ccb-b6ec-aed9ce5ad533

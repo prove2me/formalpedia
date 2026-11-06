@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolylogKServer_Allocation_frac_alloc_competitive
 -- name    : PolylogKServer.Allocation.frac_alloc_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:49:22.34799+00:00
 -- url     : https://prove2.me/theorems/ba300cc1-aebe-4a69-a97d-c9777027b51b

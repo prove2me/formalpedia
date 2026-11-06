@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_uOf_eq
 -- name    : CircuitLowerBound.Alg.uOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:29.934201+00:00
 -- url     : https://prove2.me/theorems/128ffcdc-fcb8-4bbe-b6aa-f6d4e03bb60d

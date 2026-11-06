@@ -1,0 +1,237 @@
+-- Prove2me | Definitions.Def_TC433_Algebra_Coalgebra_Subcoalgebra_GroupLike_8c2f7fbf8f
+-- name    : TC433_Algebra_Coalgebra_Subcoalgebra_GroupLike_8c2f7fbf8f
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T11:12:33.497109+00:00
+-- url     : https://prove2.me/theorems/dba4a270-5919-47de-9615-4a8b51bc5948
+-- title:
+--   TauCeti: Algebra / Coalgebra / Subcoalgebra / GroupLike
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.Algebra.Coalgebra.Subcoalgebra.GroupLike for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/Algebra/Coalgebra/Subcoalgebra/GroupLike.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+public import Definitions.Def_TC433_Compat4331_Tensor_6326550516
+
+public import Mathlib.RingTheory.Finiteness.Basic
+public import Definitions.Def_TC433_Algebra_Coalgebra_GroupLike_Map_24029538d3
+public import Definitions.Def_TC433_Algebra_Coalgebra_Subcoalgebra_Basic_d62e61045f
+public import Mathlib.LinearAlgebra.Basis.Basic
+
+import Mathlib.LinearAlgebra.Span.Basic
+
+/-!
+# Subcoalgebras spanned by group-like elements
+
+This file defines the subcoalgebra spanned by a set of group-like elements, together with the
+singleton span, a finite-generation theorem for finite sets of group-like elements, and a
+`Module.Finite` instance for singleton spans.
+
+The subcoalgebra spanned by all group-like elements is the full subcoalgebra exactly when the
+group-like elements span the carrier as a module, a condition invariant under coalgebra
+equivalence. Over a domain the group-like elements are linearly independent, so they then form a
+basis, `groupLikeBasis`.
+
+## References
+
+This file uses the `GroupLike` and `IsGroupLikeElem` API from
+`Mathlib.RingTheory.Coalgebra.GroupLike`, by Yaël Dillies and Michał Mrugała.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+open scoped TensorProduct
+
+namespace TauCeti
+
+universe u v w
+
+variable (R : Type u) (C : Type v)
+variable [CommSemiring R] [AddCommMonoid C] [Module R C] [Coalgebra R C]
+
+namespace Subcoalgebra
+
+variable {R C}
+
+/-- The subcoalgebra spanned by a set of group-like elements. -/
+@[expose] def groupLikeSetSpan (s : Set (GroupLike R C)) : Subcoalgebra R C :=
+  let D := Submodule.span R ((↑) '' s : Set C)
+  { carrier := D
+    comul_mem' := by
+      intro c hc
+      refine Submodule.span_induction
+        (p := fun c _ =>
+          Coalgebra.comul (R := R) (A := C) c ∈
+            LinearMap.range (TensorProduct.map D.subtype D.subtype)) ?mem ?zero ?add ?smul hc
+      · intro x hx
+        rcases hx with ⟨g, hg, rfl⟩
+        have hgD : (g : C) ∈ D := Submodule.subset_span ⟨g, hg, rfl⟩
+        refine ⟨⟨g, hgD⟩ ⊗ₜ[R] ⟨g, hgD⟩, ?_⟩
+        rw [TensorProduct.map_tmul]
+        exact g.isGroupLikeElem_val.comul_eq_tmul_self.symm
+      · exact ⟨0, by simp⟩
+      · intro x y hx hy hx' hy'
+        rcases hx' with ⟨x', hx'⟩
+        rcases hy' with ⟨y', hy'⟩
+        refine ⟨x' + y', ?_⟩
+        rw [LinearMap.map_add, hx', hy']
+        exact ((Coalgebra.comul (R := R) (A := C)).map_add x y).symm
+      · intro r x hx hx'
+        rcases hx' with ⟨x', hx'⟩
+        refine ⟨r • x', ?_⟩
+        rw [LinearMap.map_smul, hx']
+        exact ((Coalgebra.comul (R := R) (A := C)).map_smul r x).symm }
+
+/-- The underlying submodule of the subcoalgebra spanned by a set of group-like elements is the
+linear span of their underlying elements. -/
+@[simp]
+theorem groupLikeSetSpan_toSubmodule (s : Set (GroupLike R C)) :
+    (groupLikeSetSpan (R := R) (C := C) s).toSubmodule =
+      Submodule.span R ((↑) '' s : Set C) :=
+  rfl
+
+@[simp]
+theorem mem_groupLikeSetSpan {s : Set (GroupLike R C)} {c : C} :
+    c ∈ groupLikeSetSpan (R := R) (C := C) s ↔
+      c ∈ Submodule.span R ((↑) '' s : Set C) :=
+  Iff.rfl
+
+/-- A group-like element in the generating set belongs to the subcoalgebra it spans. -/
+theorem groupLike_mem_groupLikeSetSpan {s : Set (GroupLike R C)} {g : GroupLike R C} (hg : g ∈ s) :
+    (g : C) ∈ groupLikeSetSpan (R := R) (C := C) s := by
+  rw [mem_groupLikeSetSpan]
+  exact Submodule.subset_span ⟨g, hg, rfl⟩
+
+/-- Universal property for subcoalgebras spanned by a set of group-like elements. -/
+theorem groupLikeSetSpan_le {s : Set (GroupLike R C)} {D : Subcoalgebra R C} :
+    groupLikeSetSpan (R := R) (C := C) s ≤ D ↔ ∀ g ∈ s, (g : C) ∈ D := by
+  constructor
+  · intro h g hg
+    exact h (groupLike_mem_groupLikeSetSpan (R := R) (C := C) hg)
+  · intro h c hc
+    rw [mem_groupLikeSetSpan] at hc
+    rw [← mem_toSubmodule]
+    have hspan : ((↑) '' s : Set C) ⊆ D.toSubmodule := by
+      rintro _ ⟨g, hg, rfl⟩
+      exact (mem_toSubmodule).2 (h g hg)
+    exact (Submodule.span_le.2 hspan) hc
+
+/-- Monotonicity of the subcoalgebra spanned by a set of group-like elements. -/
+theorem groupLikeSetSpan_mono {s t : Set (GroupLike R C)} (hst : s ⊆ t) :
+    groupLikeSetSpan (R := R) (C := C) s ≤ groupLikeSetSpan (R := R) (C := C) t := by
+  rw [groupLikeSetSpan_le]
+  intro g hg
+  exact groupLike_mem_groupLikeSetSpan (R := R) (C := C) (hst hg)
+
+/-- The subcoalgebra spanned by all group-like elements is the full subcoalgebra exactly when the
+underlying group-like elements span the carrier as a module. -/
+theorem groupLikeSetSpan_eq_top_iff_span_eq_top :
+    groupLikeSetSpan (R := R) (C := C) Set.univ = ⊤ ↔
+      Submodule.span R (Set.range (GroupLike.val (R := R) (A := C))) = ⊤ := by
+  constructor
+  · intro h
+    rw [← Set.image_univ, ← groupLikeSetSpan_toSubmodule (R := R) (C := C) Set.univ, h,
+      top_toSubmodule]
+  · intro h
+    ext c
+    rw [mem_groupLikeSetSpan, Set.image_univ, h]
+    simp only [Submodule.mem_top, mem_top]
+
+/-- A coalgebra equivalence preserves the property that the group-like elements span the whole
+carrier. -/
+theorem groupLikeSetSpan_eq_top_iff_of_coalgEquiv {D : Type w} [AddCommMonoid D] [Module R D]
+    [Coalgebra R D] (e : C ≃ₗc[R] D) :
+    groupLikeSetSpan (R := R) (C := C) Set.univ = ⊤ ↔
+      groupLikeSetSpan (R := R) (C := D) Set.univ = ⊤ := by
+  rw [groupLikeSetSpan_eq_top_iff_span_eq_top (R := R) (C := C),
+    groupLikeSetSpan_eq_top_iff_span_eq_top (R := R) (C := D)]
+  have hgroupLike :
+      (e : C ≃ₗ[R] D) '' Set.range (GroupLike.val (R := R) (A := C)) =
+        Set.range (GroupLike.val (R := R) (A := D)) := by
+    ext d
+    constructor
+    · rintro ⟨_, ⟨g, rfl⟩, rfl⟩
+      exact ⟨TauCeti.GroupLike.equivOfCoalgEquiv e g,
+        TauCeti.GroupLike.val_equivOfCoalgEquiv e g⟩
+    · rintro ⟨g, rfl⟩
+      obtain ⟨x, rfl⟩ := (TauCeti.GroupLike.equivOfCoalgEquiv e).surjective g
+      exact ⟨x.val, ⟨x, rfl⟩, (TauCeti.GroupLike.val_equivOfCoalgEquiv e x).symm⟩
+  rw [← hgroupLike, Submodule.span_image_linearEquiv, Submodule.map_eq_top_iff]
+
+/-- The subcoalgebra spanned by a group-like element. -/
+def groupLikeSpan (g : GroupLike R C) : Subcoalgebra R C :=
+  groupLikeSetSpan (R := R) (C := C) {g}
+
+/-- Universal property for the subcoalgebra spanned by one group-like element. -/
+theorem groupLikeSpan_le {g : GroupLike R C} {D : Subcoalgebra R C} :
+    groupLikeSpan (R := R) (C := C) g ≤ D ↔ (g : C) ∈ D := by
+  rw [groupLikeSpan, groupLikeSetSpan_le]
+  simp
+
+/-- The underlying submodule of the subcoalgebra spanned by one group-like element is the
+submodule generated by `(g : C)`. -/
+@[simp]
+theorem groupLikeSpan_toSubmodule (g : GroupLike R C) :
+    (groupLikeSpan (R := R) (C := C) g).toSubmodule = R ∙ (g : C) := by
+  rw [groupLikeSpan, groupLikeSetSpan_toSubmodule]
+  congr 1
+  ext c
+  simp
+
+/-- A group-like element belongs to its span subcoalgebra. -/
+theorem groupLike_mem_groupLikeSpan (g : GroupLike R C) :
+    (g : C) ∈ groupLikeSpan (R := R) (C := C) g := by
+  rw [← mem_toSubmodule, groupLikeSpan_toSubmodule]
+  exact Submodule.mem_span_singleton_self (g : C)
+
+/-- Membership in the subcoalgebra spanned by a group-like element. -/
+@[simp]
+theorem mem_groupLikeSpan {g : GroupLike R C} {c : C} :
+    c ∈ groupLikeSpan (R := R) (C := C) g ↔ ∃ r : R, r • (g : C) = c := by
+  rw [← mem_toSubmodule, groupLikeSpan_toSubmodule, Submodule.mem_span_singleton]
+
+/-- A subcoalgebra spanned by a finite set of group-like elements is finitely generated. -/
+theorem groupLikeSetSpan_finite (s : Set (GroupLike R C)) (hs : s.Finite) :
+    Module.Finite R (groupLikeSetSpan (R := R) (C := C) s).toSubmodule := by
+  rw [groupLikeSetSpan_toSubmodule]
+  exact Module.Finite.span_of_finite R (hs.image ((↑) : GroupLike R C → C))
+
+/-- The underlying submodule of the subcoalgebra spanned by one group-like element is finitely
+generated. -/
+instance groupLikeSpan_finite (g : GroupLike R C) :
+    Module.Finite R (groupLikeSpan (R := R) (C := C) g).toSubmodule := by
+  rw [groupLikeSpan]
+  exact groupLikeSetSpan_finite (R := R) (C := C) {g} (Set.finite_singleton g)
+
+section Domain
+
+variable {S : Type u} {D : Type v} [CommRing S] [IsDomain S] [AddCommGroup D] [Module S D]
+variable [Module.IsTorsionFree S D] [Coalgebra S D]
+
+/-- Over a domain, the group-like elements of a torsion-free coalgebra that they span form a
+basis of it. -/
+noncomputable def groupLikeBasis (h : groupLikeSetSpan (R := S) (C := D) Set.univ = ⊤) :
+    Module.Basis (GroupLike S D) S D :=
+  Module.Basis.mk linearIndep_groupLikeVal
+    ((groupLikeSetSpan_eq_top_iff_span_eq_top (R := S) (C := D)).mp h).ge
+
+/-- The basis vector of `groupLikeBasis` indexed by a group-like element is that element. -/
+@[simp]
+theorem groupLikeBasis_apply (h : groupLikeSetSpan (R := S) (C := D) Set.univ = ⊤)
+    (g : GroupLike S D) : groupLikeBasis h g = g.val :=
+  Module.Basis.mk_apply _ _ g
+
+end Domain
+
+end Subcoalgebra
+
+end TauCeti
+
+

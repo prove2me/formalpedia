@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_stHalf
 -- name    : Printed.stHalf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:57:23.487442+00:00
 -- url     : https://prove2.me/theorems/c491cf17-92cf-470a-b8fb-181081bfd698

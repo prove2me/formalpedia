@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Eight_ViaGrouping_lvlPsi_netOf__runs_ab9065b5caad
 -- name    : P2M_Eight_ViaGrouping_lvlPsi_netOf__runs_ab9065b5caad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:38.432146+00:00
 -- url     : https://prove2.me/theorems/9953bf9b-73cf-4b7c-9b3e-a0e400ebd4d5

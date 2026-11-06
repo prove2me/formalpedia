@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLIAG_alpha0_bound
 -- name    : PLIAG.alpha0_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:27:40.583199+00:00
 -- url     : https://prove2.me/theorems/e25b4cad-608d-45a4-b9a7-1deee989fc76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountKSatRate_Cert_leafM_polyT
 -- name    : CountKSatRate.Cert.leafM_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:59:19.889751+00:00
 -- url     : https://prove2.me/theorems/d0b6ffbf-2626-46bf-8428-6283e5b0c2fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_stepC_polyT
 -- name    : RecursionToBound.stepC_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:45.62812+00:00
 -- url     : https://prove2.me/theorems/033a81c3-601c-46dd-876d-8fc3d650a081

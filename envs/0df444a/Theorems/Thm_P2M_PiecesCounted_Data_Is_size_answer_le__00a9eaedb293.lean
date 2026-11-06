@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PiecesCounted_Data_Is_size_answer_le__00a9eaedb293
 -- name    : P2M_PiecesCounted_Data_Is_size_answer_le__00a9eaedb293
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:19:54.146971+00:00
 -- url     : https://prove2.me/theorems/a51e4be4-0638-4aa0-9eb9-e0d209bffd46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_everyExhaustiveMachineTriesAll
 -- name    : PairsToBound.everyExhaustiveMachineTriesAll
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:12:56.066747+00:00
 -- url     : https://prove2.me/theorems/b38043b9-d3a4-471e-8813-9721867b8f86

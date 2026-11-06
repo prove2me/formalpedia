@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_K_mono
 -- name    : ExplicitCost.K_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:50:54.415608+00:00
 -- url     : https://prove2.me/theorems/6b8309a7-a19b-4337-a9f4-21e54dad5c0d

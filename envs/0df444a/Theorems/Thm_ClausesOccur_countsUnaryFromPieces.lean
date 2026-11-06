@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClausesOccur_countsUnaryFromPieces
 -- name    : ClausesOccur.countsUnaryFromPieces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:14:24.441784+00:00
 -- url     : https://prove2.me/theorems/9f11322f-43a3-4231-8d7f-3c61f73956e6

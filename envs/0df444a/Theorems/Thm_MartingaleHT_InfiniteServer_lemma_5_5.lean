@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartingaleHT_InfiniteServer_lemma_5_5
 -- name    : MartingaleHT.InfiniteServer.lemma_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:31:52.187963+00:00
 -- url     : https://prove2.me/theorems/bff2acb9-ae31-4144-aeb7-b881d97ec40b

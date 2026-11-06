@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_RiskMeasures_proposition_7_4
 -- name    : KallMayerSLP.RiskMeasures.proposition_7_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:42:07.89799+00:00
 -- url     : https://prove2.me/theorems/e0c42cc6-8280-4f20-9cf2-df7516b1963d

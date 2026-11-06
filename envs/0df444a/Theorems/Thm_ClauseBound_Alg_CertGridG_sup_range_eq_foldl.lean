@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_sup_range_eq_foldl
 -- name    : ClauseBound.Alg.CertGridG.sup_range_eq_foldl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:59:59.574236+00:00
 -- url     : https://prove2.me/theorems/cae118da-2713-4f47-af85-3966d96558d1

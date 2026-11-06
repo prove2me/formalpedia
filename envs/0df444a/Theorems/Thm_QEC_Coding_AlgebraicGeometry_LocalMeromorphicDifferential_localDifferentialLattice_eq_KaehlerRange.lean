@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_LocalMeromorphicDifferential_localDifferentialLattice_eq_KaehlerRange
+-- name    : QEC.Coding.AlgebraicGeometry.LocalMeromorphicDifferential.localDifferentialLattice_eq_KaehlerRange
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-05T12:05:54.065145+00:00
+-- url     : https://prove2.me/theorems/c530c6d6-c5ba-462d-b42f-394a5cf57fdc
+-- title:
+--   Local Meromorphic Differential: local Differential Lattice eq Kaehler Range
+-- statement:
+--   The regular df lattice is the image of the genuine local Kähler differential map.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/AlgebraicGeometry/Places/LocalMeromorphicDifferential.lean#L163-L186
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/AlgebraicGeometry/Places/LocalMeromorphicDifferential.lean#L163-L186
+
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Places_DiscreteAnalyticOrder
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Places_MeromorphicGermDifferentiation
+import Mathlib.RingTheory.Kaehler.Basic
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Places_LocalMeromorphicDifferential
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.AlgebraicGeometry QEC.Coding.AlgebraicGeometry.LocalMeromorphicDifferential
+open QEC.Coding.AlgebraicGeometry.MeromorphicGerms
+open QEC.Coding.AlgebraicGeometry.DiscreteAnalyticOrder QEC.Coding.AlgebraicGeometry.MeromorphicGerms
+open Filter Topology
+noncomputable section
+variable (K : Type*) [Field K] [Algebra ℂ K] (a : ℂ)
+attribute [local instance] QEC.Coding.AlgebraicGeometry.LocalMeromorphicDifferential._p2m_local_instance_8465ba921d_22
+variable [Algebra K (MeromorphicGermRing a)] [IsScalarTower ℂ K (MeromorphicGermRing a)]
+variable [IsDiscreteValuationRing (localValuationRing K a)]
+attribute [local instance] QEC.Coding.AlgebraicGeometry.LocalMeromorphicDifferential._p2m_local_instance_8465ba921d_158
+attribute [local instance] QEC.Coding.AlgebraicGeometry.LocalMeromorphicDifferential._p2m_local_instance_8465ba921d_159
+omit [IsDiscreteValuationRing (localValuationRing K a)]
+
+theorem QEC.Coding.AlgebraicGeometry.LocalMeromorphicDifferential.localDifferentialLattice_eq_KaehlerRange :
+    localDifferentialLattice K a =
+      ((KaehlerDifferential.D ℂ K).compAlgebraMap (localValuationRing K a)).liftKaehlerDifferential.range := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Prof_tset_nonempty
 -- name    : VariableBound.Net.Prof.tset_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:21:43.016651+00:00
 -- url     : https://prove2.me/theorems/d95dd376-d7f6-4d87-86cc-01aa9cc91aa7

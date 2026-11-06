@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_wfa_timeG
 -- name    : CircuitLowerBound.Clause.wfa_timeG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:51:46.920068+00:00
 -- url     : https://prove2.me/theorems/88be2cc5-ed4c-4c0a-8067-e7bc86868bf4

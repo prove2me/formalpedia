@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Komlos.beck_fiala_banaszczyk
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @ryanshin
 -- created : 2026-09-05T02:47:22.164196+00:00
 -- url     : https://prove2.me/submissions/088dea11-b7a6-48c1-b31e-5707b636ca94
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Komlos_model

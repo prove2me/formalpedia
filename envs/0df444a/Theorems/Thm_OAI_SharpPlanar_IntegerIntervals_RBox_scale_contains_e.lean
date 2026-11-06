@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_RBox_scale_contains_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.RBox.scale_contains_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T06:03:52.360272+00:00
 -- url     : https://prove2.me/theorems/148ee8c5-fe3e-4fd9-a824-dca48ed141b6

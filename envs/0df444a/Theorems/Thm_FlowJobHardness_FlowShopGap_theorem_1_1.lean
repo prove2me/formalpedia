@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowJobHardness_FlowShopGap_theorem_1_1
 -- name    : FlowJobHardness.FlowShopGap.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:34:09.077793+00:00
 -- url     : https://prove2.me/theorems/9955d81a-2787-46dc-a23d-fb2e3e434ea2

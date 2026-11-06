@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_stFlip
 -- name    : CircuitLowerBound.stFlip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:13:56.162361+00:00
 -- url     : https://prove2.me/theorems/55d4c610-d1f1-4ff2-9882-9845cd740ea7

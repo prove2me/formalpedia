@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Tree_one_le_thetaU
 -- name    : UniformInK.Tree.one_le_thetaU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:58.711642+00:00
 -- url     : https://prove2.me/theorems/db26f046-694c-40d1-9078-deb722a3e2dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsCutoffUniformity_norm_coeff_redAdvectPoly_le
 -- name    : BookProof.NsCutoffUniformity.norm_coeff_redAdvectPoly_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-03T22:16:35.590063+00:00
 -- url     : https://prove2.me/theorems/6968f1a4-678e-4f49-82ae-cb92d9a757c5

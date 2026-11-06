@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_exp_segment_bound_e
 -- name    : OAI.SharpPlanar.exp_segment_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:42:17.999367+00:00
 -- url     : https://prove2.me/theorems/f417ea48-af89-4e14-a899-477c4c8d8c7d

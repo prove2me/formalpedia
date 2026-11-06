@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_Eps_cast
 -- name    : RecursionToBound.Eps.cast
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:42.523315+00:00
 -- url     : https://prove2.me/theorems/fee086bd-4d02-46c0-ae57-bfcca4f991f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_exists_occOfSlot
 -- name    : Coding.exists_occOfSlot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:06:51.25507+00:00
 -- url     : https://prove2.me/theorems/66875553-553f-48c0-a8ec-4a1dc02830bb

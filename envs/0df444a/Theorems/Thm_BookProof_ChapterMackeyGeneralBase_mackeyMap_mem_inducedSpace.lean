@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_mackeyMap_mem_inducedSpace
 -- name    : BookProof.ChapterMackeyGeneralBase.mackeyMap_mem_inducedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:56.494553+00:00
 -- url     : https://prove2.me/theorems/154bfdb8-7083-47a3-8311-ae1622b54fd7

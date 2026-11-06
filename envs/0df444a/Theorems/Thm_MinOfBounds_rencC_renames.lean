@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinOfBounds_rencC_renames
 -- name    : MinOfBounds.rencC_renames
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:23.220414+00:00
 -- url     : https://prove2.me/theorems/16842495-5b80-4377-9dbd-f7e6e0b1e98b

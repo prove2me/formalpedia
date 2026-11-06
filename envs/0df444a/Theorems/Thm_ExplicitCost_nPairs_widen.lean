@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_nPairs_widen
 -- name    : ExplicitCost.nPairs_widen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:54:25.141481+00:00
 -- url     : https://prove2.me/theorems/ee1d8363-cb71-4855-96d2-389cdd9bb8c6

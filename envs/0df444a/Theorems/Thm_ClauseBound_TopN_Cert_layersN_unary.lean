@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_TopN_Cert_layersN_unary
 -- name    : ClauseBound.TopN.Cert.layersN_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:56:36.719285+00:00
 -- url     : https://prove2.me/theorems/ee705418-d9e6-4d47-bf2f-d595d623bc31

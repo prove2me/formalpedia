@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_Vof_eq_empty_iff
 -- name    : VariableBound.Count.Vof_eq_empty_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:08.982943+00:00
 -- url     : https://prove2.me/theorems/4e906ea4-a2b9-4169-b99a-e0b14ef042a4

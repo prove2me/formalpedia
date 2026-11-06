@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_stTheorem
 -- name    : ThmCount.stTheorem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:42:05.033088+00:00
 -- url     : https://prove2.me/theorems/b2fedd61-1b03-4a99-b590-e5a3be95c406

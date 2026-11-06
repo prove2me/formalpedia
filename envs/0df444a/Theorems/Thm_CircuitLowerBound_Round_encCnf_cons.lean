@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_encCnf_cons
 -- name    : CircuitLowerBound.Round.encCnf_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:58:37.322392+00:00
 -- url     : https://prove2.me/theorems/d68b15a3-641a-4c0d-8405-4aebe29eb1b0

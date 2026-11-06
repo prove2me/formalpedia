@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_not_sat_false
 -- name    : CircuitLowerBound.Alg.not_sat_false
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:50.121702+00:00
 -- url     : https://prove2.me/theorems/42991b73-8047-4b60-a723-75ba7dc8b2de

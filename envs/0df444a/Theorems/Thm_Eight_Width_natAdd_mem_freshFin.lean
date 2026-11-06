@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_natAdd_mem_freshFin
 -- name    : Eight.Width.natAdd_mem_freshFin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:47:40.166356+00:00
 -- url     : https://prove2.me/theorems/9c3c7041-0a91-4c4f-973b-558c98c9df31

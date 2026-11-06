@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Fld_lemFamily_listed
 -- name    : VariableBound.Fld.lemFamily_listed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:07.692138+00:00
 -- url     : https://prove2.me/theorems/469c0b11-2c2f-4d8a-bee5-618d8afc84d4

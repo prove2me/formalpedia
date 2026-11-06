@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongConv_exists_csDistribution_abs_stableExpTr_sub_le
 -- name    : StrongConv.exists_csDistribution_abs_stableExpTr_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T00:05:07.843686+00:00
 -- url     : https://prove2.me/theorems/a5c262c9-1a50-440b-aa4f-a8dd5ef9df4d

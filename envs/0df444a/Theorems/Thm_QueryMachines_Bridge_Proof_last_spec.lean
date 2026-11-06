@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_last_spec
 -- name    : QueryMachines.Bridge.Proof.last_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:04.564339+00:00
 -- url     : https://prove2.me/theorems/e69ac0a1-d9f8-4079-9c61-a4d9761b1fe0

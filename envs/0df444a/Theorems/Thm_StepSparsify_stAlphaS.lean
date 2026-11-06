@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_stAlphaS
 -- name    : StepSparsify.stAlphaS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:48.582278+00:00
 -- url     : https://prove2.me/theorems/978e9957-0f35-439e-888a-85711687e5ad

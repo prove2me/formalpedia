@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AugLagLLC_KKT_cpld_limit_kkt
 -- name    : AugLagLLC.KKT.cpld_limit_kkt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:36:58.604979+00:00
 -- url     : https://prove2.me/theorems/b6616e94-53fd-4d8d-88b2-1f8ed180eb7d

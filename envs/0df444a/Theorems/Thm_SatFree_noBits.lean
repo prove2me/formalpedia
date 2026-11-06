@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatFree_noBits
 -- name    : SatFree.noBits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:48:26.318506+00:00
 -- url     : https://prove2.me/theorems/81e11422-5dfe-476c-bf8b-55c452b52560

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_mem_occOf_iff
 -- name    : Coding.mem_occOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:30:07.716186+00:00
 -- url     : https://prove2.me/theorems/dad56fba-8e2b-40f5-bc65-534ad53357e9

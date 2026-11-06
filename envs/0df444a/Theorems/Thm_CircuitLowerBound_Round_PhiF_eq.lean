@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_PhiF_eq
 -- name    : CircuitLowerBound.Round.PhiF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:00:27.506186+00:00
 -- url     : https://prove2.me/theorems/b53477e7-f58f-4718-89c3-6e94a97c7068

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_WorstCase_effective_domain
 -- name    : OTDRO.WorstCase.effective_domain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:05:26.989968+00:00
 -- url     : https://prove2.me/theorems/55edcb58-e0b9-4be3-908f-f699e9426bc4

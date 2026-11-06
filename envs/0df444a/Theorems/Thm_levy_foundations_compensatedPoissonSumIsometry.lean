@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_compensatedPoissonSumIsometry
 -- name    : levy_foundations_compensatedPoissonSumIsometry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T15:18:13.973236+00:00
 -- url     : https://prove2.me/theorems/ce8c76b2-edba-4b5e-9bda-51c3b0a0e3e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaddedDescent_F_CertEval_certValF
 -- name    : PaddedDescent.F.CertEval.certValF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:17:36.954123+00:00
 -- url     : https://prove2.me/theorems/9f8dd185-2fc0-40e9-8a20-db5e962162e9

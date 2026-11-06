@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolographicSSA_ssa_diff
 -- name    : HolographicSSA.ssa_diff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:33.918725+00:00
 -- url     : https://prove2.me/theorems/ebe6d4d0-2d1a-43bd-8cb3-8da32adf39c7

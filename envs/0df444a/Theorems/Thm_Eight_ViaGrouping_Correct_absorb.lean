@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_Correct_absorb
 -- name    : Eight.ViaGrouping.Correct.absorb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:34.544839+00:00
 -- url     : https://prove2.me/theorems/726d7581-ea11-4d22-9912-5905481beece

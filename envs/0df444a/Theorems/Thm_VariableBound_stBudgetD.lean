@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_stBudgetD
 -- name    : VariableBound.stBudgetD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:19.621562+00:00
 -- url     : https://prove2.me/theorems/d53fc65a-4e3b-4c57-b308-c81d5e9e2b46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Gen_cntN_leafM
 -- name    : SparsificationLemma.Gen.cntN_leafM
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:34.505965+00:00
 -- url     : https://prove2.me/theorems/aadecf19-57b4-4c37-a40d-167bd655cdac

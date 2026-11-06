@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_shaped_false
 -- name    : CircuitLowerBound.Alg.shaped_false
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:25.645752+00:00
 -- url     : https://prove2.me/theorems/af7cbabf-2146-44e6-ade1-6a519b169264

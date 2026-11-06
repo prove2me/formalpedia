@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_len_node_le
 -- name    : SparsificationLemma.Mach.len_node_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:42.301046+00:00
 -- url     : https://prove2.me/theorems/2923c496-8328-439b-b061-a787fc1712e2

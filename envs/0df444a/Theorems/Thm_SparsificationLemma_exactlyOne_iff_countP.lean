@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_exactlyOne_iff_countP
 -- name    : SparsificationLemma.exactlyOne_iff_countP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:06:34.640791+00:00
 -- url     : https://prove2.me/theorems/ffe6fa09-af28-4d5a-90d4-1697ca57495e

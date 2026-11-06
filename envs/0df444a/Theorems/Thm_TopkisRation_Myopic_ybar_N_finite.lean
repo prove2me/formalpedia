@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopkisRation_Myopic_ybar_N_finite
 -- name    : TopkisRation.Myopic.ybar_N_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:50:35.168753+00:00
 -- url     : https://prove2.me/theorems/c5a65218-7624-4e52-af58-adff39360ce3

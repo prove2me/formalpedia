@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_mackeyMap_injective
 -- name    : BookProof.ChapterMackeyGeneralBase.mackeyMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:47.186117+00:00
 -- url     : https://prove2.me/theorems/f76317be-255b-4a95-b116-a977e59fa595

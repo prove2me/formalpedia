@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerCompact_weightRows_contains_e
 -- name    : OAI.SharpPlanar.IntegerCompact.weightRows_contains_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T06:01:10.067771+00:00
 -- url     : https://prove2.me/theorems/a37e1e34-0c90-4e3d-99e1-2645d6715bcf

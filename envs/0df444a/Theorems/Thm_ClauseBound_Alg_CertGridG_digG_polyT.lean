@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_digG_polyT
 -- name    : ClauseBound.Alg.CertGridG.digG_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:16:32.012685+00:00
 -- url     : https://prove2.me/theorems/0e4a0316-3210-4a8c-b85f-dc66ccbfc9d5

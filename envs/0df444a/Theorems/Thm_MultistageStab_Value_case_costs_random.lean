@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultistageStab_Value_case_costs_random
 -- name    : MultistageStab.Value.case_costs_random
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:25.471102+00:00
 -- url     : https://prove2.me/theorems/d91f8482-a732-4216-aef9-0140a02c1bf0

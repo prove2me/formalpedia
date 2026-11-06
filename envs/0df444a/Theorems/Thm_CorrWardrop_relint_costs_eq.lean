@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrWardrop_relint_costs_eq
 -- name    : CorrWardrop.relint_costs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:29:19.076104+00:00
 -- url     : https://prove2.me/theorems/a27bb8bc-8bb6-4c45-8a29-9f3072fc65fd

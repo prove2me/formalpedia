@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Pack_exists_pack
 -- name    : CircuitLowerBound.Pack.exists_pack
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:43:02.97436+00:00
 -- url     : https://prove2.me/theorems/1705d5e1-826a-4034-82ea-84e4c772bd67

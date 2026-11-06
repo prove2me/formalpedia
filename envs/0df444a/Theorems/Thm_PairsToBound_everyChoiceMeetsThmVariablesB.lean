@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_everyChoiceMeetsThmVariablesB
 -- name    : PairsToBound.everyChoiceMeetsThmVariablesB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:59:31.353245+00:00
 -- url     : https://prove2.me/theorems/8ab0985d-7c28-4bd7-8163-00324c0f4178

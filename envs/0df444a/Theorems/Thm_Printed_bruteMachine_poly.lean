@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_bruteMachine_poly
 -- name    : Printed.bruteMachine_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:55:10.649965+00:00
 -- url     : https://prove2.me/theorems/d2f523e2-4cf4-4eb6-af1b-b5f28fbd64a2

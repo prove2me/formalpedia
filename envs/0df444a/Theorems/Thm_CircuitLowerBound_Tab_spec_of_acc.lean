@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Tab_spec_of_acc
 -- name    : CircuitLowerBound.Tab.spec_of_acc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:45.76698+00:00
 -- url     : https://prove2.me/theorems/48c6c1fd-3ea5-48dd-95ad-2e6b02ca2d79

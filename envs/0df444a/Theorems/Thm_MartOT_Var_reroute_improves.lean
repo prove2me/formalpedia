@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Var_reroute_improves
 -- name    : MartOT.Var.reroute_improves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:11:24.998749+00:00
 -- url     : https://prove2.me/theorems/44817a52-49c5-4802-bd55-1351b163b2af

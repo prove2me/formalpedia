@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_stAskServes
 -- name    : Printed.stAskServes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:50:17.367199+00:00
 -- url     : https://prove2.me/theorems/11a5e87d-c585-46b8-965b-fbb40891996a

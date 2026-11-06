@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Gen_occN_out_le
 -- name    : SparsificationLemma.Gen.occN_out_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:51.930602+00:00
 -- url     : https://prove2.me/theorems/f8bb99d5-8064-42a6-9568-ebf3307355ee

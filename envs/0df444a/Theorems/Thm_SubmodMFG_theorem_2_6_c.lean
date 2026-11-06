@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubmodMFG_theorem_2_6_c
 -- name    : SubmodMFG.theorem_2_6_c
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:18:10.729132+00:00
 -- url     : https://prove2.me/theorems/df1c343d-60f5-4b61-b432-e062becaac9d

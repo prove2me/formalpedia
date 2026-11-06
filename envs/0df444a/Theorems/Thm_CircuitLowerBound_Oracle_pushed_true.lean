@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_pushed_true
 -- name    : CircuitLowerBound.Oracle.pushed_true
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:44:20.328847+00:00
 -- url     : https://prove2.me/theorems/2c6b5fb7-506b-492e-96a2-556cbc7d69c7

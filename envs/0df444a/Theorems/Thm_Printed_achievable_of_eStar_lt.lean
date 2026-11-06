@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_achievable_of_eStar_lt
 -- name    : Printed.achievable_of_eStar_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:58:23.638992+00:00
 -- url     : https://prove2.me/theorems/2b6a3406-b18b-49fa-b886-4a4fc27fc4bd

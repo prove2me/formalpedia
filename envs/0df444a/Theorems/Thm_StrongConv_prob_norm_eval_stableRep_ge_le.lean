@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongConv_prob_norm_eval_stableRep_ge_le
 -- name    : StrongConv.prob_norm_eval_stableRep_ge_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T22:58:29.831293+00:00
 -- url     : https://prove2.me/theorems/c468442d-ba01-4a11-8a87-66ff101c6ba3

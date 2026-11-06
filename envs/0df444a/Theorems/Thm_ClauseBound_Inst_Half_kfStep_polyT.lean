@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_kfStep_polyT
 -- name    : ClauseBound.Inst.Half.kfStep_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:38:13.641439+00:00
 -- url     : https://prove2.me/theorems/48f7cfaf-8ce4-4f44-b4a1-3b9e78a503a2

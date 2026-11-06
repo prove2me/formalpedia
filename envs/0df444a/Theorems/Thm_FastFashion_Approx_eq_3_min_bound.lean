@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Approx_eq_3_min_bound
 -- name    : FastFashion.Approx.eq_3_min_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:14:25.243981+00:00
 -- url     : https://prove2.me/theorems/d4adb7b6-3140-484d-a231-4ac9c24c0515

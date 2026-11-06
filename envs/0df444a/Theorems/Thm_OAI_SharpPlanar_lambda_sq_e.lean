@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_lambda_sq_e
 -- name    : OAI.SharpPlanar.lambda_sq_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:49:40.739208+00:00
 -- url     : https://prove2.me/theorems/841b6e67-ecf6-4463-8ed5-87178a8045b5

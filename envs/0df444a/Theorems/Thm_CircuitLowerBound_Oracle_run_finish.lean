@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_run_finish
 -- name    : CircuitLowerBound.Oracle.run_finish
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:45:58.92983+00:00
 -- url     : https://prove2.me/theorems/80345b29-c794-49cf-88d7-542768a95206

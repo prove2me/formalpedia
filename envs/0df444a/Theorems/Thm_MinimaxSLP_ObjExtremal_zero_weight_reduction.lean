@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjExtremal_zero_weight_reduction
 -- name    : MinimaxSLP.ObjExtremal.zero_weight_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:41.55732+00:00
 -- url     : https://prove2.me/theorems/419b0765-627f-4acb-987f-4db90e3e7486

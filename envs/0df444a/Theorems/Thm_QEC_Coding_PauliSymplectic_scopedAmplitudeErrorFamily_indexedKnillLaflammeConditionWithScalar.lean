@@ -1,0 +1,45 @@
+-- Prove2me | Theorems.Thm_QEC_Coding_PauliSymplectic_scopedAmplitudeErrorFamily_indexedKnillLaflammeConditionWithScalar
+-- name    : QEC.Coding.PauliSymplectic.scopedAmplitudeErrorFamily_indexedKnillLaflammeConditionWithScalar
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-05T12:23:30.454797+00:00
+-- url     : https://prove2.me/theorems/58ebe857-9791-412f-b1d9-cbcebe010f2c
+-- title:
+--   Pauli Symplectic: scoped Amplitude Error Family indexed Knill Laflamme Condition With Scalar
+-- statement:
+--   The scoped binary CSS Pauli KL scalar condition transfers through amplitudes.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/Stabilizer/PauliSemantics.lean#L2386-L2405
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/Stabilizer/PauliSemantics.lean#L2386-L2405
+
+import Definitions.Def_QEC_Coding_Core_Definitions
+import Definitions.Def_QEC_Semantics_ErrorCorrection_CodeSupport
+import Definitions.Def_QEC_Semantics_ErrorCorrection_KLRecovery
+import Definitions.Def_QEC_Semantics_Channels_Kraus
+import Definitions.Def_QEC_Semantics_Channels_KrausKnillLaflamme
+import Definitions.Def_QEC_Semantics_Core_Qubit
+import Definitions.Def_QEC_Coding_Stabilizer_PauliSemantics
+set_option autoImplicit false
+noncomputable section
+open QEC
+open QEC.Coding
+open Classical
+open scoped BigOperators
+universe u w
+open QEC.Coding.PauliSymplectic
+variable {ι : Type u} [Fintype ι]
+variable [DecidableEq ι]
+
+theorem QEC.Coding.PauliSymplectic.scopedAmplitudeErrorFamily_indexedKnillLaflammeConditionWithScalar
+    (xCode zCode : LinearCode (ZMod 2) ι)
+    (hdual : zCode.carrier ≤ xCode.dual.carrier)
+    {dX dZ t : Nat}
+    (hminX : MinimumDistance zCode.dual dX)
+    (hminZ : MinimumDistance xCode.dual dZ)
+    (hbound : 2 * t < min dX dZ)
+    (amp : {P : Binary ι // P ∈ scopedByWeight (ι := ι) t} → Complex) :
+    Semantics.FiniteKrausFamily.IndexedKnillLaflammeConditionWithScalar
+      (scopedAmplitudeErrorFamily (ι := ι) t amp)
+      (binaryCSSQuantumCodeOfDualLe xCode zCode hdual)
+      (fun E F => star (amp E) * amp F * scopedErrorFamilyKLScalar (ι := ι) t E F) := by sorry

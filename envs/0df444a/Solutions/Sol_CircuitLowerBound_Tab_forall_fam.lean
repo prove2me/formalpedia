@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for CircuitLowerBound.Tab.forall_fam
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-05T08:19:34.766209+00:00
+-- url     : https://prove2.me/submissions/61315129-7a33-4bf6-9191-e0f1bbc56f59
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_CircuitLowerBound_Tab_Frame
+import Mathlib.Tactic
+import Definitions.Def_CircuitLowerBound_Tab_Table
+import Theorems.Thm_CircuitLowerBound_Tab_mem_en
+import Theorems.Thm_Groundwork_length_toWord
+import Theorems.Thm_Groundwork_mem_words
+attribute [local simp] Groundwork.length_toWord
+attribute [local simp] Groundwork.mem_words
+
+
+
+set_option autoImplicit false
+section
+section
+open CircuitLowerBound CircuitLowerBound.Tab
+open ENP Turing
+variable (N : TM2ComputableAux Bool Bool)
+variable {N}
+namespace CircuitLowerBound.Tab
+theorem _root_.solution {ι : Type} [Finite ι] {f : ι → YCl N} {p : YCl N → Prop} : (∀ c ∈ fam f, p c) ↔ ∀ i, p (f i) := by
+  simp [fam, mem_en]
+end CircuitLowerBound.Tab

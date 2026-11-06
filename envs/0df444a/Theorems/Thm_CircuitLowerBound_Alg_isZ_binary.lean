@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_isZ_binary
 -- name    : CircuitLowerBound.Alg.isZ_binary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:55.164093+00:00
 -- url     : https://prove2.me/theorems/5a6aa66a-0db4-4f0c-995e-109682074604

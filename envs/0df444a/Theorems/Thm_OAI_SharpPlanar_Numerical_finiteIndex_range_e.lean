@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_finiteIndex_range_e
 -- name    : OAI.SharpPlanar.Numerical.finiteIndex_range_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:52:49.093202+00:00
 -- url     : https://prove2.me/theorems/6944ed0e-8bd8-46ee-973d-dc054ed896e7

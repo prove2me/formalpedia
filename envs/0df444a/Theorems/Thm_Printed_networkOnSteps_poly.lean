@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_networkOnSteps_poly
 -- name    : Printed.networkOnSteps_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:43:56.839856+00:00
 -- url     : https://prove2.me/theorems/2430367c-31d6-4c75-be75-a318edda1bb7

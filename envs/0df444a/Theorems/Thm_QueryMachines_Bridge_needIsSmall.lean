@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_needIsSmall
 -- name    : QueryMachines.Bridge.needIsSmall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:18:22.582195+00:00
 -- url     : https://prove2.me/theorems/82a30de1-f755-4e3b-ad41-c1753952709f

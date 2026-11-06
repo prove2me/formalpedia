@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_validB_widen
 -- name    : ExplicitCost.validB_widen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:49:30.982869+00:00
 -- url     : https://prove2.me/theorems/bc4052cc-b47f-4360-9e2b-1cc6c939413a

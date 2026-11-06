@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_length_tested_visits
 -- name    : Exits.length_tested_visits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:45:48.450401+00:00
 -- url     : https://prove2.me/theorems/3b6727cd-42c2-4281-a50e-96fe124855ef

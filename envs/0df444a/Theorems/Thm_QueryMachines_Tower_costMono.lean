@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_costMono
 -- name    : QueryMachines.Tower.costMono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:46:16.133528+00:00
 -- url     : https://prove2.me/theorems/07cbae5b-9f30-4bac-a718-9f9e69cf2b89

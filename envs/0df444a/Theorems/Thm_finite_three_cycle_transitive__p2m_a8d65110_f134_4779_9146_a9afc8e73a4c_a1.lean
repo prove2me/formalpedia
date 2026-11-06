@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_three_cycle_transitive__p2m_a8d65110_f134_4779_9146_a9afc8e73a4c_a1
 -- name    : finite_three_cycle_transitive__p2m_a8d65110_f134_4779_9146_a9afc8e73a4c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:21:36.91036+00:00
 -- url     : https://prove2.me/theorems/b4c44d04-edb9-41a7-ac17-6db35041007a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_foldUntil_reaches
 -- name    : Exits.foldUntil_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:45:46.140673+00:00
 -- url     : https://prove2.me/theorems/7b7e6a92-f736-4ae8-a166-a70821c5e0c8

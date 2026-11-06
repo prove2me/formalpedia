@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_Cvx_ellRob_convex
 -- name    : OTDRO.Cvx.ellRob_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:08:20.248695+00:00
 -- url     : https://prove2.me/theorems/5bfff097-a14a-4580-a736-4b996360423d

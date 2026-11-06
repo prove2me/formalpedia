@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_lamOf_unary
 -- name    : Printed.lamOf_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:54:40.021086+00:00
 -- url     : https://prove2.me/theorems/eb191f01-a5b7-40af-af66-0acd90744b37

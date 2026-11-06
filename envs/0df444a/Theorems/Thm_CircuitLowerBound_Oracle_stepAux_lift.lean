@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_stepAux_lift
 -- name    : CircuitLowerBound.Oracle.stepAux_lift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:44:06.18779+00:00
 -- url     : https://prove2.me/theorems/6789da65-a5a1-4d82-9636-9a416ab3ef93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_RBox_rat_check_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.RBox.rat_check_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:46:23.487999+00:00
 -- url     : https://prove2.me/theorems/43031c29-997c-4e9d-9ca0-df78ba2bbf82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_Mirrors_foldRange
 -- name    : ExplicitCost.Mirrors.foldRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:32:16.891088+00:00
 -- url     : https://prove2.me/theorems/279a8704-5ae7-4b94-9f59-1b3e02ac4036

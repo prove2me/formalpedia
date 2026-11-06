@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Step_add_light
 -- name    : UniformInK.Step.add_light
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:41:54.115958+00:00
 -- url     : https://prove2.me/theorems/f207c748-c719-45df-90f6-d5a5e7d2dd20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Main_sized
 -- name    : VariableBound.Net.Main.sized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:16.901628+00:00
 -- url     : https://prove2.me/theorems/65f0f85e-6f01-4a53-ade5-67a521d46226

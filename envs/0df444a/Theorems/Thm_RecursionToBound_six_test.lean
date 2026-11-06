@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_six_test
 -- name    : RecursionToBound.six_test
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:31.704426+00:00
 -- url     : https://prove2.me/theorems/2c1b870c-b45d-415d-9be2-fcabd5bd651e

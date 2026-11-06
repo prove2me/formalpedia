@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_answerOf_runs
 -- name    : Printed.answerOf_runs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:49:58.157016+00:00
 -- url     : https://prove2.me/theorems/a0e89ccb-cc76-4203-8056-258984170635

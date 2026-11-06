@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_outputs_unique
 -- name    : CircuitLowerBound.Alg.outputs_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:36:30.897006+00:00
 -- url     : https://prove2.me/theorems/7f176cb8-96e8-47e7-8055-190a517a271f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_tryAll_iff
 -- name    : CircuitLowerBound.TabF.tryAll_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:05:42.926293+00:00
 -- url     : https://prove2.me/theorems/03fe7379-c967-48ec-8404-0bf0eeee6789

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_exhaustiveMachineExists
 -- name    : PairsToBound.exhaustiveMachineExists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:23:20.642215+00:00
 -- url     : https://prove2.me/theorems/8fadf266-d347-43a1-91d5-447da6fd9137

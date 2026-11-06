@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_stShortens
 -- name    : GraphProblems.stShortens
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:12:34.247314+00:00
 -- url     : https://prove2.me/theorems/9a63d9ab-aa5c-485d-bedd-2e88518fd3bc

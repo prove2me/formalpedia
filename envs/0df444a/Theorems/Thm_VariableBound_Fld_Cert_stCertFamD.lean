@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Fld_Cert_stCertFamD
 -- name    : VariableBound.Fld.Cert.stCertFamD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:57:01.620892+00:00
 -- url     : https://prove2.me/theorems/7b06ed9a-676a-4925-a0d6-ad5a9ef5a941

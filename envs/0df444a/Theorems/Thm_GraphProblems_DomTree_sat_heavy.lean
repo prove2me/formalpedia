@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_DomTree_sat_heavy
 -- name    : GraphProblems.DomTree.sat_heavy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:02:11.660458+00:00
 -- url     : https://prove2.me/theorems/531565e0-ed6a-4d01-b5f8-883ae0eca238

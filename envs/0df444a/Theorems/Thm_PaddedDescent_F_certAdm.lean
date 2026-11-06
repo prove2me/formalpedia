@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaddedDescent_F_certAdm
 -- name    : PaddedDescent.F.certAdm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:13:34.775083+00:00
 -- url     : https://prove2.me/theorems/fa852557-1a2a-4a09-a3ec-411fb0ac9b97

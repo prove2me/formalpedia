@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_toLists_polyT
 -- name    : Printed.toLists_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:42:17.535104+00:00
 -- url     : https://prove2.me/theorems/fc89b4da-81e7-4014-9e21-1864388bf4a5

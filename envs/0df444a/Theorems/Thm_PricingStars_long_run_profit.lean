@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingStars_long_run_profit
 -- name    : PricingStars.long_run_profit
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:30:18.626252+00:00
 -- url     : https://prove2.me/theorems/0ea63585-cbe4-453f-9e59-302fd77dc1c7

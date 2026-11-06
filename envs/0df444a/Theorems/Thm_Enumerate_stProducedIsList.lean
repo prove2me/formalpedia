@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Enumerate_stProducedIsList
 -- name    : Enumerate.stProducedIsList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:08:40.537498+00:00
 -- url     : https://prove2.me/theorems/9a350508-5551-4be2-909c-c05e0a2f3b04

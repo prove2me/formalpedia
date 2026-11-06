@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AugLagLLC_KKT_theorem_4_2
 -- name    : AugLagLLC.KKT.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:37:54.765152+00:00
 -- url     : https://prove2.me/theorems/91f21b68-49c5-4046-a305-a5523ff206c9

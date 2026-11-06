@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_stWidth
 -- name    : Eight.Width.stWidth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T15:55:12.00572+00:00
 -- url     : https://prove2.me/theorems/049538d3-df40-4de1-8916-e11eae401e09

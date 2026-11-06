@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_nStates_widen
 -- name    : ExplicitCost.nStates_widen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:52:04.743267+00:00
 -- url     : https://prove2.me/theorems/1d51500e-541b-4ba5-b93f-ad7a3af68e53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_stCertCountD
 -- name    : VariableBound.stCertCountD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:11.673685+00:00
 -- url     : https://prove2.me/theorems/f3cc3dd6-a03d-403a-8df6-ff4b8fce9949

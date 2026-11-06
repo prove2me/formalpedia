@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_sup_toFinset_eq
 -- name    : RecursionToBound.sup_toFinset_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:04.396976+00:00
 -- url     : https://prove2.me/theorems/1b68f859-a396-42db-975f-a543866a3f1e

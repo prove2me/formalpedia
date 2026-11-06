@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_prepares_renc
 -- name    : OccurM.prepares_renc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:31.81268+00:00
 -- url     : https://prove2.me/theorems/c8f66cee-cbf7-462e-bd25-f81b9b48d50b

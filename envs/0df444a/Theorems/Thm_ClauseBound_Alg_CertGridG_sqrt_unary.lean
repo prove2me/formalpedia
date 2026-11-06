@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_sqrt_unary
 -- name    : ClauseBound.Alg.CertGridG.sqrt_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:15:38.399893+00:00
 -- url     : https://prove2.me/theorems/3d674cb9-c018-4070-b4ef-b49d79665d82

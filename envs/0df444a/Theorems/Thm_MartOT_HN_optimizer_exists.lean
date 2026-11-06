@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_HN_optimizer_exists
 -- name    : MartOT.HN.optimizer_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:06.896175+00:00
 -- url     : https://prove2.me/theorems/9757eb3b-b747-428c-b53a-fe8ad56757b2

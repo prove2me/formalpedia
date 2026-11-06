@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveProtection_Convergence_theorem1_case_one
 -- name    : AdaptiveProtection.Convergence.theorem1_case_one
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:05:23.097984+00:00
 -- url     : https://prove2.me/theorems/6f92cd02-cb7e-4911-ac77-233df49331cf

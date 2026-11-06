@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_clipE_polyT
 -- name    : CircuitLowerBound.TabF.clipE_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:04:36.814011+00:00
 -- url     : https://prove2.me/theorems/b2825c31-12fc-4449-be10-5994db249727

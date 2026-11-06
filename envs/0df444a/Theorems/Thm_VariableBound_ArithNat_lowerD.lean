@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_ArithNat_lowerD
 -- name    : VariableBound.ArithNat.lowerD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:55:12.529532+00:00
 -- url     : https://prove2.me/theorems/93928455-f8e3-4486-a0c9-d4c21af3784d

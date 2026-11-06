@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_ite_cast_min
 -- name    : PiecesCounted.ite_cast_min
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:11.568929+00:00
 -- url     : https://prove2.me/theorems/60dca223-efdf-4c52-a47c-e0add099564a

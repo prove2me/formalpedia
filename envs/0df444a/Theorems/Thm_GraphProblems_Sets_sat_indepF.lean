@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Sets_sat_indepF
 -- name    : GraphProblems.Sets.sat_indepF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:20.865087+00:00
 -- url     : https://prove2.me/theorems/b9d2fb64-579e-4144-b39c-323dcbca6973

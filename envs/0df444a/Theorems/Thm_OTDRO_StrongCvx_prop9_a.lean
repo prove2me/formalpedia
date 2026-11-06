@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_StrongCvx_prop9_a
 -- name    : OTDRO.StrongCvx.prop9_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:12:20.204979+00:00
 -- url     : https://prove2.me/theorems/8988f399-999a-409b-bb1d-7c8ce763831f

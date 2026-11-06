@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_countP_eq_card
 -- name    : SparsificationLemma.countP_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:50.806494+00:00
 -- url     : https://prove2.me/theorems/cd66d374-359f-4559-8939-5a66706912b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynChoiceJEO_corollary_1_primal_gap_bound
 -- name    : DynChoiceJEO.corollary_1_primal_gap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:39:45.429446+00:00
 -- url     : https://prove2.me/theorems/126c2d07-2ab2-4a0f-ab10-5f34f522f7d7

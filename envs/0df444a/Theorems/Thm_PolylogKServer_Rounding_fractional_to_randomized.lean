@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolylogKServer_Rounding_fractional_to_randomized
 -- name    : PolylogKServer.Rounding.fractional_to_randomized
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:07:40.375247+00:00
 -- url     : https://prove2.me/theorems/1c810f69-fca0-440d-af53-d24f17c3f0d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Inf_Avail_mono
 -- name    : CircuitLowerBound.Inf.Avail.mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:18.668478+00:00
 -- url     : https://prove2.me/theorems/bf45a742-389c-4c49-ba23-e2c2dd8f43df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Main_nPrMax
 -- name    : VariableBound.Net.Main.nPrMax
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:21:12.806864+00:00
 -- url     : https://prove2.me/theorems/dad65acb-f2f1-4ffb-81b5-3d9e870c927a

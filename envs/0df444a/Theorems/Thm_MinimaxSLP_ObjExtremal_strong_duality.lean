@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjExtremal_strong_duality
 -- name    : MinimaxSLP.ObjExtremal.strong_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:11.370428+00:00
 -- url     : https://prove2.me/theorems/5ed5e328-fc8e-4cd3-92a4-3c1be3a86b49

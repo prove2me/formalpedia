@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_entry_eq_or_mem
 -- name    : QueryMachines.Bridge.Proof.entry_eq_or_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:17:45.15746+00:00
 -- url     : https://prove2.me/theorems/d0cd5a2c-d255-4e2c-b626-61ef3439bc7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliqueLevels_solvesOfSolvesInFactor
 -- name    : CliqueLevels.solvesOfSolvesInFactor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:07.754528+00:00
 -- url     : https://prove2.me/theorems/ff73eb55-f7ba-42a3-856e-3744e41c59c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Eight_ViaGrouping_psiLt_eq___8a678fd56db2
 -- name    : P2M_Eight_ViaGrouping_psiLt_eq___8a678fd56db2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:04.804199+00:00
 -- url     : https://prove2.me/theorems/838f1a77-b1a7-4352-9a9b-31d72fd3a36e

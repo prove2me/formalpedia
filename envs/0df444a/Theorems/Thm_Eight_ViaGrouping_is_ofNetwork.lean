@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_is_ofNetwork
 -- name    : Eight.ViaGrouping.is_ofNetwork
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:49.776066+00:00
 -- url     : https://prove2.me/theorems/4cfd1e77-c372-437c-b208-a589de12dc0d

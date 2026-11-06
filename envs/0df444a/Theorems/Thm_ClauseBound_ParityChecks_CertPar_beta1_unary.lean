@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertPar_beta1_unary
 -- name    : ClauseBound.ParityChecks.CertPar.beta1_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:20:43.241855+00:00
 -- url     : https://prove2.me/theorems/565da08d-8f9a-4731-82dd-64919c6b5edd

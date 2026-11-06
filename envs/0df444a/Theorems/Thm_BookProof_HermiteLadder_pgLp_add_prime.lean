@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteLadder_pgLp_add_prime
 -- name    : BookProof.HermiteLadder.pgLp_add_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T14:45:40.900381+00:00
 -- url     : https://prove2.me/theorems/b5e6d3ab-e7ea-4ce3-85b0-4dc406b03e11

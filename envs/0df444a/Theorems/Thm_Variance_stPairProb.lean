@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Variance_stPairProb
 -- name    : Variance.stPairProb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:33:32.620295+00:00
 -- url     : https://prove2.me/theorems/7311cce8-d2d4-49f7-b858-5add7350f9fe

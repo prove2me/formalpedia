@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatFree_decidesRandTM_mono
 -- name    : SatFree.decidesRandTM_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:48:29.644486+00:00
 -- url     : https://prove2.me/theorems/2aae2145-c1f2-4184-935e-c57c2538a231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_rask_call
 -- name    : QueryMachines.Tower.rask_call
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:47:45.254641+00:00
 -- url     : https://prove2.me/theorems/3ccb00fc-d678-4632-a3cf-37396fce57a0

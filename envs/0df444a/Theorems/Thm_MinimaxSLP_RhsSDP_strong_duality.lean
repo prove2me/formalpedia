@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsSDP_strong_duality
 -- name    : MinimaxSLP.RhsSDP.strong_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:28.629119+00:00
 -- url     : https://prove2.me/theorems/da9a8d78-2336-4dd8-b236-30afec2a8fc0

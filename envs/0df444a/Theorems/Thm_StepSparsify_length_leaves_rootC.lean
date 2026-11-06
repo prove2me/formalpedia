@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_length_leaves_rootC
 -- name    : StepSparsify.length_leaves_rootC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:59.705678+00:00
 -- url     : https://prove2.me/theorems/0a253945-5f59-4744-a2b3-5cc9389766e6

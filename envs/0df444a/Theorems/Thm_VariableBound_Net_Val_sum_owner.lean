@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Val_sum_owner
 -- name    : VariableBound.Net.Val.sum_owner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:44:13.661108+00:00
 -- url     : https://prove2.me/theorems/301ac4b3-dd9c-4579-b5c8-86fe38b6c00e

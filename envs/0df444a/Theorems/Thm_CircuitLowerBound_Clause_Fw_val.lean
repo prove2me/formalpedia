@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_Fw_val
 -- name    : CircuitLowerBound.Clause.Fw_val
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:51:31.15258+00:00
 -- url     : https://prove2.me/theorems/4c8f4ce7-0f30-4d74-a30a-7ca788991fa2

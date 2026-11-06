@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_existsCompensatedPoissonL2Extension
 -- name    : levy_foundations_existsCompensatedPoissonL2Extension
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T15:20:15.866294+00:00
 -- url     : https://prove2.me/theorems/46054330-4b9b-479a-9132-3c8f571edc37

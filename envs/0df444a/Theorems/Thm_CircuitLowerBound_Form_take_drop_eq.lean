@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_take_drop_eq
 -- name    : CircuitLowerBound.Form.take_drop_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:58:17.750266+00:00
 -- url     : https://prove2.me/theorems/74e65a86-c356-4698-b00a-7baadf26e92b

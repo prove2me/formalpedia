@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_widthN_eq
 -- name    : PairsToBound.widthN_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:24.937519+00:00
 -- url     : https://prove2.me/theorems/a6834986-f106-4479-a580-d875cad0ec5f

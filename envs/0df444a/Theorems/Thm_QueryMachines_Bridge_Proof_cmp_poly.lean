@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_cmp_poly
 -- name    : QueryMachines.Bridge.Proof.cmp_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T19:24:26.492126+00:00
 -- url     : https://prove2.me/theorems/0239cf23-d849-4023-ba82-45b09047f2c7

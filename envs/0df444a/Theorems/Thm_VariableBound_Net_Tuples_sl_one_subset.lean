@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tuples_sl_one_subset
 -- name    : VariableBound.Net.Tuples.sl_one_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:08.558462+00:00
 -- url     : https://prove2.me/theorems/8bbec1aa-4379-430d-ae2e-2ee96e7f4123

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_PartD_thmRunningTime_d
 -- name    : GeneralPieces.PartD.thmRunningTime_d
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:23:40.852926+00:00
 -- url     : https://prove2.me/theorems/0f28f7f5-72ce-44b3-a789-4467fda2c0e4

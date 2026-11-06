@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_DomTree_inv_step
 -- name    : GraphProblems.DomTree.inv_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:03:08.822535+00:00
 -- url     : https://prove2.me/theorems/7a9b76c7-32cd-4552-929e-566cad44141e

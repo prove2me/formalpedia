@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_runs_algo
 -- name    : CircuitLowerBound.Alg.runs_algo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:37:52.994198+00:00
 -- url     : https://prove2.me/theorems/6df923cd-a3af-4b85-b9ec-399c9689bceb

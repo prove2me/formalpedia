@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_mod_two_pow_polyT
 -- name    : VariableBound.Count.mod_two_pow_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:04:46.847714+00:00
 -- url     : https://prove2.me/theorems/fb2a1081-d7a0-44f8-9150-d8cc2ab165b4

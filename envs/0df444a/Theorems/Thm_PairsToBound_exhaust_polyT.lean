@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_exhaust_polyT
 -- name    : PairsToBound.exhaust_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:38.929197+00:00
 -- url     : https://prove2.me/theorems/1d9161fe-4095-42b7-b25d-5ede27992d8f

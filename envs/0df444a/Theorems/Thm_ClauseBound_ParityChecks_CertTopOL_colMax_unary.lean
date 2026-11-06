@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertTopOL_colMax_unary
 -- name    : ClauseBound.ParityChecks.CertTopOL.colMax_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:19:44.457077+00:00
 -- url     : https://prove2.me/theorems/f13f4a15-cee8-473c-8e38-f169e8c1a9a2

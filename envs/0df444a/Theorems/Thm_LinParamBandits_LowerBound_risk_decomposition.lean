@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_LowerBound_risk_decomposition
 -- name    : LinParamBandits.LowerBound.risk_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:17:53.943448+00:00
 -- url     : https://prove2.me/theorems/0e15a41e-c989-44a7-9dfa-b08e3925a126

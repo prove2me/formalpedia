@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroFibreDivisor_support
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-06T05:04:39.686009+00:00
+-- url     : https://prove2.me/submissions/921bed73-2aed-4eca-a71d-795c34879cfa
+
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Towers_SourceGaloisWResidueDegrees
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Divisors_FinitePlaceDivisor
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Towers_SourceGaloisWFibreDivisors
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_sourceGaloisWZeroPlaceOfPrime_injective
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_finitePlaceDivisor_support
+
+
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.AlgebraicGeometry QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth
+open scoped BigOperators
+noncomputable section
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWFibreDivisors_closurePolynomialAlgebra
+attribute [local instance] sourceGaloisWFibreDivisors_closurePolynomialAlgebra
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWFibreDivisors_closurePolynomialRatFuncScalarTower
+attribute [local instance] sourceGaloisWFibreDivisors_closurePolynomialRatFuncScalarTower
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWFibreDivisors_closureRatFuncIsSeparable
+attribute [local instance] sourceGaloisWFibreDivisors_closureRatFuncIsSeparable
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWFibreDivisors_sourceGaloisWZeroPrimeFintype
+attribute [local instance] sourceGaloisWFibreDivisors_sourceGaloisWZeroPrimeFintype
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWFibreDivisors_sourceGaloisWInfinityPrimeFintype
+attribute [local instance] sourceGaloisWFibreDivisors_sourceGaloisWInfinityPrimeFintype
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWFibreDivisors_sourceGaloisWZeroPrimeNonempty
+attribute [local instance] sourceGaloisWFibreDivisors_sourceGaloisWZeroPrimeNonempty
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWFibreDivisors_sourceGaloisWInfinityPrimeNonempty
+attribute [local instance] sourceGaloisWFibreDivisors_sourceGaloisWInfinityPrimeNonempty
+namespace QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth
+theorem _root_.solution (m : ℕ) :
+    ↑(sourceGaloisWZeroFibreDivisor m).support =
+      Set.range (sourceGaloisWZeroPlaceOfPrime m) := by
+  exact GlobalPlace.finitePlaceDivisor_support _
+    (sourceGaloisWZeroPlaceOfPrime_injective m)
+end QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth

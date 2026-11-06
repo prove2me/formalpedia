@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_value_ofNetwork
 -- name    : Eight.ViaGrouping.value_ofNetwork
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:28.644733+00:00
 -- url     : https://prove2.me/theorems/b495bc87-a298-4958-94c3-5efed7e33c29

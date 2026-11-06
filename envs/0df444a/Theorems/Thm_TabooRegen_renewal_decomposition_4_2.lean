@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TabooRegen_renewal_decomposition_4_2
 -- name    : TabooRegen.renewal_decomposition_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:27:17.771149+00:00
 -- url     : https://prove2.me/theorems/1c9caa1b-fb5e-4a68-be95-e7981b58c430

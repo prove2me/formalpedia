@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_Mirrors_foldWhile
 -- name    : ExplicitCost.Mirrors.foldWhile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:50:19.756439+00:00
 -- url     : https://prove2.me/theorems/78949c61-98f9-4d27-800d-1b583767ace2

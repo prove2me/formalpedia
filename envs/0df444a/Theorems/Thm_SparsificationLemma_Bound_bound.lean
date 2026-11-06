@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Bound_bound
 -- name    : SparsificationLemma.Bound.bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:55:20.304519+00:00
 -- url     : https://prove2.me/theorems/eb4bb60f-7501-42b7-b005-e50fdf9e4f0f

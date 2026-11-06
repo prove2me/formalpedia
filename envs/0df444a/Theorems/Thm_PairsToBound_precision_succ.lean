@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_precision_succ
 -- name    : PairsToBound.precision_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:40.547399+00:00
 -- url     : https://prove2.me/theorems/1b73c5ca-48f4-4454-8cc7-8d59e52dcc7d

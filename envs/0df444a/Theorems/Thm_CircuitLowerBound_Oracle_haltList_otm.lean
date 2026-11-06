@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_haltList_otm
 -- name    : CircuitLowerBound.Oracle.haltList_otm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:46:42.384075+00:00
 -- url     : https://prove2.me/theorems/3c21ba63-2bf5-4683-8e37-1eb19c927c1d

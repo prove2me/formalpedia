@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_QueryMachine_foldRange_runs
 -- name    : QueryMachines.QueryMachine.foldRange_runs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:46:12.52852+00:00
 -- url     : https://prove2.me/theorems/df2db554-6fe1-429c-b68b-d5351b792000

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Occ_free_unary
 -- name    : Occ.free_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:58.665367+00:00
 -- url     : https://prove2.me/theorems/c6567838-cedf-4b92-80a2-711bb149db48

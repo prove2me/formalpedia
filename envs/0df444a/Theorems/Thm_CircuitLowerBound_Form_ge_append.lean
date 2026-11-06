@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_ge_append
 -- name    : CircuitLowerBound.Form.ge_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:54:15.867907+00:00
 -- url     : https://prove2.me/theorems/745f12c9-3361-4797-bc81-8ebe8f13fbfc

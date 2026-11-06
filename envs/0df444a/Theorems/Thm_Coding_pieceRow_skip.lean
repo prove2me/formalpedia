@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_pieceRow_skip
 -- name    : Coding.pieceRow_skip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:21.016197+00:00
 -- url     : https://prove2.me/theorems/2a087614-6f02-4af7-a919-8797fca21186

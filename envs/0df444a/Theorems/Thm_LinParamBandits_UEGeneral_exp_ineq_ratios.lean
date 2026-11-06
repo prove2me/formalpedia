@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEGeneral_exp_ineq_ratios
 -- name    : LinParamBandits.UEGeneral.exp_ineq_ratios
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:13.293882+00:00
 -- url     : https://prove2.me/theorems/2b6c68bb-5e36-44a6-815e-143bdc447a90

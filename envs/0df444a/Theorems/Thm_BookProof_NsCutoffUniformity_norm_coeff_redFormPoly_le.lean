@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsCutoffUniformity_norm_coeff_redFormPoly_le
 -- name    : BookProof.NsCutoffUniformity.norm_coeff_redFormPoly_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-03T22:16:45.432314+00:00
 -- url     : https://prove2.me/theorems/8dcf2736-109d-4667-9523-8f03b7bcb5ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAARate_Polyhedral_union_bound_p13
 -- name    : SAARate.Polyhedral.union_bound_p13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:27.231023+00:00
 -- url     : https://prove2.me/theorems/32f33337-d565-4e82-bc57-80c250fda250

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_ae_early_downward_jumps_of_infinite_negative_activity
 -- name    : AvramDividend.Classical.ae_early_downward_jumps_of_infinite_negative_activity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-25T23:08:00.656215+00:00
 -- url     : https://prove2.me/theorems/ff758fb4-87e5-4eec-b153-b6135498ca04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaddedDescent_F_CertTop_capOf_unary
 -- name    : PaddedDescent.F.CertTop.capOf_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:40:47.727307+00:00
 -- url     : https://prove2.me/theorems/a940d312-dd38-4f66-b4d3-b4ae775c7829

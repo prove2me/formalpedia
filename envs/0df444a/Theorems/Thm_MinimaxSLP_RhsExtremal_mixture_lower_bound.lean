@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsExtremal_mixture_lower_bound
 -- name    : MinimaxSLP.RhsExtremal.mixture_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:08.379667+00:00
 -- url     : https://prove2.me/theorems/f40f7449-f5a8-4226-ab98-03d43c1b1c97

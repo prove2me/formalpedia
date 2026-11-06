@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_ICC_eq_4_13_to_4_15
 -- name    : KallMayerSLP.ICC.eq_4_13_to_4_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:12:33.444988+00:00
 -- url     : https://prove2.me/theorems/37d8969f-14e8-4c59-bed0-f4e852043dc1

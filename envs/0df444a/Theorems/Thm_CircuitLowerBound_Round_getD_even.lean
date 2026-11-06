@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_getD_even
 -- name    : CircuitLowerBound.Round.getD_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:56:21.886503+00:00
 -- url     : https://prove2.me/theorems/2ec3e4e9-8a51-48f9-8792-410d193d6770

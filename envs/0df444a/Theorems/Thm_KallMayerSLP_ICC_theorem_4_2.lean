@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_ICC_theorem_4_2
 -- name    : KallMayerSLP.ICC.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:12:40.670084+00:00
 -- url     : https://prove2.me/theorems/65437d3e-b394-4da9-88d8-279ec1d3f6f7

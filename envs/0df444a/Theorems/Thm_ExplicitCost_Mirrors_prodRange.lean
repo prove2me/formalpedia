@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_Mirrors_prodRange
 -- name    : ExplicitCost.Mirrors.prodRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:48:18.735051+00:00
 -- url     : https://prove2.me/theorems/cf9d971f-c54c-4c2c-850c-63fa19af034c

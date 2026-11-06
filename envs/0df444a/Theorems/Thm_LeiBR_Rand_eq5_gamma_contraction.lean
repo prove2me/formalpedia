@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Rand_eq5_gamma_contraction
 -- name    : LeiBR.Rand.eq5_gamma_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:45.745642+00:00
 -- url     : https://prove2.me/theorems/5b103559-5b5d-4563-bc2e-da2631742972

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Rand_lemma_6
 -- name    : LeiBR.Rand.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:08:51.578164+00:00
 -- url     : https://prove2.me/theorems/3ddbc545-638c-4519-aa01-2eefeb8e90c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_thmVariablesAForEveryMachine_of
 -- name    : RecursionToBound.thmVariablesAForEveryMachine_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:12.05292+00:00
 -- url     : https://prove2.me/theorems/236c6553-946a-46cd-85f8-c7475e173b00

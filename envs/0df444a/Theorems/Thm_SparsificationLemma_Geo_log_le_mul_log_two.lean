@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Geo_log_le_mul_log_two
 -- name    : SparsificationLemma.Geo.log_le_mul_log_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:02:11.234252+00:00
 -- url     : https://prove2.me/theorems/fcc496f7-b596-4b53-8efa-a2bf50de9f6c

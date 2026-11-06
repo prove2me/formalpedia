@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TabooRegen_integral_btilde
 -- name    : TabooRegen.integral_btilde
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:27:26.522403+00:00
 -- url     : https://prove2.me/theorems/62d4cca6-dec7-4373-92a4-4cbe04dd1777

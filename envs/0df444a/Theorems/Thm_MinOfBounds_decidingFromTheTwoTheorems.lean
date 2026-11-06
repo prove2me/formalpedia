@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinOfBounds_decidingFromTheTwoTheorems
 -- name    : MinOfBounds.decidingFromTheTwoTheorems
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:13.205512+00:00
 -- url     : https://prove2.me/theorems/7cf543e1-60dc-440e-87e2-d904acfa48b2

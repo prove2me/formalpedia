@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Main_certNet
 -- name    : VariableBound.Net.Main.certNet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:36.826524+00:00
 -- url     : https://prove2.me/theorems/9d6756f5-83f6-4f7d-86bf-db0b01d1e745

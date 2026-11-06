@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stLevelUp
 -- name    : Exits.stLevelUp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:46:33.259894+00:00
 -- url     : https://prove2.me/theorems/27ba59bb-6d76-4aaa-b9c5-18294cd0d144

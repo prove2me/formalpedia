@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeU_one_le_k
 -- name    : VariableBound.Net.SizeU.one_le_k
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:49.705299+00:00
 -- url     : https://prove2.me/theorems/1190bf2d-9b2f-4d0e-b085-fd6477608702

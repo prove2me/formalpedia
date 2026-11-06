@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_DomTree_inv_root
 -- name    : GraphProblems.DomTree.inv_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:03:19.570139+00:00
 -- url     : https://prove2.me/theorems/ed8493aa-7019-4708-bb78-8c752380c660

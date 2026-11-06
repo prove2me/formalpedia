@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_run_of_iterate
 -- name    : CircuitLowerBound.Oracle.run_of_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:44:07.789296+00:00
 -- url     : https://prove2.me/theorems/368e8834-9b4b-4b59-b08a-79a1bf5e7a57

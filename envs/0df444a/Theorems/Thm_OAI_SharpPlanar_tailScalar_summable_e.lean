@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_tailScalar_summable_e
 -- name    : OAI.SharpPlanar.tailScalar_summable_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:51:04.310429+00:00
 -- url     : https://prove2.me/theorems/4a4e08f4-e3da-46fb-a514-07dd19138b2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AugLagLLC_KKT_mfcq_multipliers_bounded
 -- name    : AugLagLLC.KKT.mfcq_multipliers_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:37:14.797676+00:00
 -- url     : https://prove2.me/theorems/1879af2b-90db-408e-a274-6005665683a7

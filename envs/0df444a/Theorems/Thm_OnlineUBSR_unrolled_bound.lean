@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineUBSR_unrolled_bound
 -- name    : OnlineUBSR.unrolled_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:20:26.40999+00:00
 -- url     : https://prove2.me/theorems/6a8c7a8c-76b1-47a3-99bb-baa59fc5711d

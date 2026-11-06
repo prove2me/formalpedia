@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_Values_monomials_dense
 -- name    : FuzzyGames.Values.monomials_dense
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:26.893208+00:00
 -- url     : https://prove2.me/theorems/304df2b9-0609-48d0-b5ac-1a5153a700eb

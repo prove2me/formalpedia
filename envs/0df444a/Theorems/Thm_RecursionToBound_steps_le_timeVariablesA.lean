@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_steps_le_timeVariablesA
 -- name    : RecursionToBound.steps_le_timeVariablesA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:04.735525+00:00
 -- url     : https://prove2.me/theorems/58f38bd5-903a-4b77-abd5-7d140f4380b9

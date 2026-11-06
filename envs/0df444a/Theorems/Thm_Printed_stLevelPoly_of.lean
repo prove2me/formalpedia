@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_stLevelPoly_of
 -- name    : Printed.stLevelPoly_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:53:41.847192+00:00
 -- url     : https://prove2.me/theorems/1125bf02-cc82-463f-a1ba-efa4d42069ca

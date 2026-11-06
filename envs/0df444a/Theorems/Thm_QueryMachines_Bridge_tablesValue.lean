@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_tablesValue
 -- name    : QueryMachines.Bridge.tablesValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:57:48.822538+00:00
 -- url     : https://prove2.me/theorems/1a323895-e694-48d7-a52b-b42a55b44ddd

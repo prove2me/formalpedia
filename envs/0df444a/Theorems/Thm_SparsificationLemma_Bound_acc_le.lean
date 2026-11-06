@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Bound_acc_le
 -- name    : SparsificationLemma.Bound.acc_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:52.679081+00:00
 -- url     : https://prove2.me/theorems/629fb027-abd7-4bc4-b1e7-e19ca89c6188

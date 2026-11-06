@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_prod_groupTerm
 -- name    : Value.prod_groupTerm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:49.993284+00:00
 -- url     : https://prove2.me/theorems/f3582b5b-87b6-430f-9f35-2d74a2e074ee

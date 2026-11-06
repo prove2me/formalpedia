@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_drop_roundInput
 -- name    : CircuitLowerBound.Round.drop_roundInput
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:57:10.634222+00:00
 -- url     : https://prove2.me/theorems/ced8c020-744e-4659-8f76-fff811818f14

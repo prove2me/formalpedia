@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopkisRation_Myopic_theorem_4
 -- name    : TopkisRation.Myopic.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:50:52.78686+00:00
 -- url     : https://prove2.me/theorems/bc42291d-64e6-401e-823d-5dacc14168cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Variance_stCovDisjoint
 -- name    : Variance.stCovDisjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:33:26.988362+00:00
 -- url     : https://prove2.me/theorems/9fe08214-eaaf-4bd5-830c-0d7e30667d23

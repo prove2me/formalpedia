@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinOfBounds_numOcc_le_mul
 -- name    : MinOfBounds.numOcc_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:54:04.900935+00:00
 -- url     : https://prove2.me/theorems/9b6d1c46-7b05-42a2-bc62-7cc2f816cc8b

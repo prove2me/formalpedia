@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_evF_polyT
 -- name    : VariableBound.Count.evF_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:23.271087+00:00
 -- url     : https://prove2.me/theorems/e60f23d2-3154-44ab-b532-c2cc785c8744

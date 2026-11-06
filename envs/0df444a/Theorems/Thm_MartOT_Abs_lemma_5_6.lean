@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Abs_lemma_5_6
 -- name    : MartOT.Abs.lemma_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:08.259487+00:00
 -- url     : https://prove2.me/theorems/49b91c86-8228-45aa-88da-88812c2b5749

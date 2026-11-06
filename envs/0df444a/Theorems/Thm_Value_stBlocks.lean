@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_stBlocks
 -- name    : Value.stBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:23:39.480243+00:00
 -- url     : https://prove2.me/theorems/18134665-3825-489a-b458-c4a3c009f2bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_length_tab_codeOf_le
 -- name    : CircuitLowerBound.Round.length_tab_codeOf_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:00:11.525097+00:00
 -- url     : https://prove2.me/theorems/eadb2bb5-7f6b-487f-95e1-2e2adec266ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrimalDualLDR_Multistage_sec_4_eq_4_7
 -- name    : PrimalDualLDR.Multistage.sec_4_eq_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:43:47.141489+00:00
 -- url     : https://prove2.me/theorems/f978e099-aefb-40c9-96df-85f91be0512d

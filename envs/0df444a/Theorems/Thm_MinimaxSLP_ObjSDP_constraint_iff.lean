@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjSDP_constraint_iff
 -- name    : MinimaxSLP.ObjSDP.constraint_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:37.819778+00:00
 -- url     : https://prove2.me/theorems/6d130aa7-a900-4c88-aa98-4346f6ef3360

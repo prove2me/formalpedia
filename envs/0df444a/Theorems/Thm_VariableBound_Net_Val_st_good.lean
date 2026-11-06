@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Val_st_good
 -- name    : VariableBound.Net.Val.st_good
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:44:22.207613+00:00
 -- url     : https://prove2.me/theorems/34c44cd0-f68b-4321-9bde-8d64e48e843a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_StepSparsify_exactly_one
 -- name    : SparsificationLemma.StepSparsify.exactly_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:58.103561+00:00
 -- url     : https://prove2.me/theorems/932ee0ed-a956-4929-9641-6fe4c476e732

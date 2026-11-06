@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_stGridLength
 -- name    : Coding.stGridLength
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:48.069219+00:00
 -- url     : https://prove2.me/theorems/796f4a9b-e448-4f70-b1de-109194aee946

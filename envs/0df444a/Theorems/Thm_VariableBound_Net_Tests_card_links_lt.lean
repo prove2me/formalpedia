@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tests_card_links_lt
 -- name    : VariableBound.Net.Tests.card_links_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:25.051989+00:00
 -- url     : https://prove2.me/theorems/b92ea1a7-2f2b-4981-a0a1-42fa373f7adc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_size_widen
 -- name    : ExplicitCost.size_widen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:48:43.431396+00:00
 -- url     : https://prove2.me/theorems/5d2f1387-8e4d-443d-8b00-5cdffe76e2cc

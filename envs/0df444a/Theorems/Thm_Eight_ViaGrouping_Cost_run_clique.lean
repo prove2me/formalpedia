@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_Cost_run_clique
 -- name    : Eight.ViaGrouping.Cost.run_clique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:24:01.07355+00:00
 -- url     : https://prove2.me/theorems/2b6ee4f5-ecea-4c74-a6ce-e9e3f4225cd3

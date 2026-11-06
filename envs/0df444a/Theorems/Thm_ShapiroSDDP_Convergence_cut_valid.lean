@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapiroSDDP_Convergence_cut_valid
 -- name    : ShapiroSDDP.Convergence.cut_valid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:35:12.057825+00:00
 -- url     : https://prove2.me/theorems/7c859810-77c7-40c8-a008-98dd5f08b968

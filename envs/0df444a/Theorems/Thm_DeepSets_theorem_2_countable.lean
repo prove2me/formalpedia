@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepSets_theorem_2_countable
 -- name    : DeepSets.theorem_2_countable
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:50:19.773517+00:00
 -- url     : https://prove2.me/theorems/a7bab77b-0e77-4fab-83de-9bf62cfcbda5

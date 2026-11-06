@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Sync_lemma_3
 -- name    : LeiBR.Sync.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:10:38.665998+00:00
 -- url     : https://prove2.me/theorems/6b16b831-91a6-4323-b00a-23bc235bf258

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrWardrop_proposition_4
 -- name    : CorrWardrop.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:28:31.847589+00:00
 -- url     : https://prove2.me/theorems/0bc46d0a-d453-4548-ba2b-b853ca6885d5

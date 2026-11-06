@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_oracle_fn
 -- name    : PiecesCounted.oracle_fn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:17.437198+00:00
 -- url     : https://prove2.me/theorems/a2a736b1-7b64-409f-9c26-3a67a3f72199

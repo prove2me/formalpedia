@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_reloc_polyT
 -- name    : CircuitLowerBound.Form.reloc_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:59:38.700482+00:00
 -- url     : https://prove2.me/theorems/bcd97d24-7413-4b61-b60c-1d75295cc552

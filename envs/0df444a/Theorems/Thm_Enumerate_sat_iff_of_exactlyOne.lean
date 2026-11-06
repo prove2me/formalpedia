@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Enumerate_sat_iff_of_exactlyOne
 -- name    : Enumerate.sat_iff_of_exactlyOne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:50.965119+00:00
 -- url     : https://prove2.me/theorems/07bd8ba1-dc81-462c-af95-262c2eb8bcd8

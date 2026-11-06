@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_SmallFacts_sat_greedy
 -- name    : CircuitLowerBound.SmallFacts.sat_greedy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:17.355021+00:00
 -- url     : https://prove2.me/theorems/5a282705-7ad9-46e7-aaee-b4a7dead6c96

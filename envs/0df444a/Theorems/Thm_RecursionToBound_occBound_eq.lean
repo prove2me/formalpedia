@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_occBound_eq
 -- name    : RecursionToBound.occBound_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:42.34255+00:00
 -- url     : https://prove2.me/theorems/ff088e72-a3d8-4115-ad88-cd15395b2989

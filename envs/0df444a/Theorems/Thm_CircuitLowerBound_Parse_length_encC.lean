@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Parse_length_encC
 -- name    : CircuitLowerBound.Parse.length_encC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:49:44.778199+00:00
 -- url     : https://prove2.me/theorems/19bc949c-a991-4c82-b0d8-85a2ae34a387

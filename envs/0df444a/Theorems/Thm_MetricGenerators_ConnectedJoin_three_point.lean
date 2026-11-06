@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_ConnectedJoin_three_point
 -- name    : MetricGenerators.ConnectedJoin.three_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:49:18.685086+00:00
 -- url     : https://prove2.me/theorems/f69f2282-b18d-4332-a105-0139d89bca4c

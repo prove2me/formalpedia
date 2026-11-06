@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_abs_boole_lt
 -- name    : Coding.abs_boole_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:23.815354+00:00
 -- url     : https://prove2.me/theorems/37258ad2-f278-4475-aa27-2980a3fd048e

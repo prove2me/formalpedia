@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSchedPrec_CMNS_theorem_2_8
 -- name    : StochSchedPrec.CMNS.theorem_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:54:21.685834+00:00
 -- url     : https://prove2.me/theorems/351c57d0-dccb-486e-8d80-d8ce5154ad6e

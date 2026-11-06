@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_nodup_tst
 -- name    : VariableBound.Net.SizeB.nodup_tst
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:45.067197+00:00
 -- url     : https://prove2.me/theorems/4e34db02-f874-4191-8cea-6b9e7552d447

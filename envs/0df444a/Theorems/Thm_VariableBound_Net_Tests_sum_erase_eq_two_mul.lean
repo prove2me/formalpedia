@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tests_sum_erase_eq_two_mul
 -- name    : VariableBound.Net.Tests.sum_erase_eq_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:42.089482+00:00
 -- url     : https://prove2.me/theorems/365abff8-32e8-46dc-9725-2c8659dda9b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_transformedIntegrand_analytic_e
 -- name    : OAI.SharpPlanar.transformedIntegrand_analytic_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:58:51.579666+00:00
 -- url     : https://prove2.me/theorems/37357ef2-546d-4df4-be56-d205d9488c09

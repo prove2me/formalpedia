@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittEfficiency_IS_sec_2_5_busy_poisson
 -- name    : WhittEfficiency.IS.sec_2_5_busy_poisson
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:24.79117+00:00
 -- url     : https://prove2.me/theorems/22821687-7706-4237-9076-e161e656d725

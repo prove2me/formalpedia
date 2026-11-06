@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_divided_power_norm_e
 -- name    : OAI.SharpPlanar.divided_power_norm_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:42:16.156041+00:00
 -- url     : https://prove2.me/theorems/f9a40cb9-d3f8-458d-9977-d32635bcfa67

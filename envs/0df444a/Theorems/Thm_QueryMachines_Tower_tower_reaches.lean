@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_tower_reaches
 -- name    : QueryMachines.Tower.tower_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:49:18.717234+00:00
 -- url     : https://prove2.me/theorems/f5ab64f0-f049-417d-a5c5-35ef4f576c8a

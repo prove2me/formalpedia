@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_Bridge_stBridgeB
 -- name    : ClauseBound.ParityChecks.Bridge.stBridgeB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:36:40.605191+00:00
 -- url     : https://prove2.me/theorems/c6eea2b9-9363-4721-8837-40fc47fe942f

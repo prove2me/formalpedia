@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_NoAttain_small_ball_positive
 -- name    : GlynnSTS.NoAttain.small_ball_positive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:09:12.264985+00:00
 -- url     : https://prove2.me/theorems/1f083f03-21a2-4aef-a810-e03efcef68be

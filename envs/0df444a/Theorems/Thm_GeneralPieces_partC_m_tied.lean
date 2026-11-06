@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_partC_m_tied
 -- name    : GeneralPieces.partC_m_tied
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:52:04.270854+00:00
 -- url     : https://prove2.me/theorems/cd47d434-0783-4f56-bd95-a163a0b327c3

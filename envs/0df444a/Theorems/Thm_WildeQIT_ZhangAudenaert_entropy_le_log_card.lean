@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_ZhangAudenaert_entropy_le_log_card
 -- name    : WildeQIT.ZhangAudenaert.entropy_le_log_card
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:56:13.602978+00:00
 -- url     : https://prove2.me/theorems/6569d96d-12f5-4f3f-88d3-f9ddf60c54d4

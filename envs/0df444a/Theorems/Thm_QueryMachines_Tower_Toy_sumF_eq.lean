@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_Toy_sumF_eq
 -- name    : QueryMachines.Tower.Toy.sumF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:03:09.425569+00:00
 -- url     : https://prove2.me/theorems/25bf27d7-17f4-4056-bd3b-6b6eb171fc4f

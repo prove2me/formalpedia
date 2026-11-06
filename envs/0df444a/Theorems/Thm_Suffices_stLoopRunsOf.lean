@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_stLoopRunsOf
 -- name    : Suffices.stLoopRunsOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:29:17.224865+00:00
 -- url     : https://prove2.me/theorems/6d9618c6-0c18-452a-9b24-4b4268c7895d

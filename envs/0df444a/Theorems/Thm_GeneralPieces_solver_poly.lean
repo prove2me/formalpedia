@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_solver_poly
 -- name    : GeneralPieces.solver_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:33:24.242641+00:00
 -- url     : https://prove2.me/theorems/913ac633-9889-46e4-9f6e-77b2c4094c37

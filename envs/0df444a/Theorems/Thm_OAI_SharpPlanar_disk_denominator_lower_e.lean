@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_disk_denominator_lower_e
 -- name    : OAI.SharpPlanar.disk_denominator_lower_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:55:29.002846+00:00
 -- url     : https://prove2.me/theorems/163e5a2a-f3f8-4e67-a651-9c839a29410f

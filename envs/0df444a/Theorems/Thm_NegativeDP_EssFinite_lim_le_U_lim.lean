@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_EssFinite_lim_le_U_lim
 -- name    : NegativeDP.EssFinite.lim_le_U_lim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:58.39725+00:00
 -- url     : https://prove2.me/theorems/b5e8674a-9f54-4091-9106-4f31912f7c74

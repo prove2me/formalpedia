@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_ones_unary
 -- name    : GraphProblems.ones_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:56:46.832038+00:00
 -- url     : https://prove2.me/theorems/83dfaec6-372c-4aae-b38f-2dbd1741bc99

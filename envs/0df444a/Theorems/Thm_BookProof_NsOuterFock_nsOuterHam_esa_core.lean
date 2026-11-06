@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsOuterFock_nsOuterHam_esa_core
 -- name    : BookProof.NsOuterFock.nsOuterHam_esa_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:54:39.966306+00:00
 -- url     : https://prove2.me/theorems/793e24a5-ca03-43d7-a9df-7c5eeefac21b

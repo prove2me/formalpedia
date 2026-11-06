@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsSDP_theorem_3_2
 -- name    : MinimaxSLP.RhsSDP.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:59.138037+00:00
 -- url     : https://prove2.me/theorems/5bcbd22f-c5d6-4de3-b21d-021935a59064

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_time_le
 -- name    : SparsificationLemma.Mach.time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:11:20.289194+00:00
 -- url     : https://prove2.me/theorems/3593d906-5a58-48b1-a606-9dc17328c46c

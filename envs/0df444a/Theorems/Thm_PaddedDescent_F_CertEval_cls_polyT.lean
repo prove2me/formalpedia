@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaddedDescent_F_CertEval_cls_polyT
 -- name    : PaddedDescent.F.CertEval.cls_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:31:11.487202+00:00
 -- url     : https://prove2.me/theorems/e4c78a4a-cfbc-4df1-9f4e-ef5f9f74f43f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_alphaC_polyT
 -- name    : RecursionToBound.alphaC_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:13:35.969005+00:00
 -- url     : https://prove2.me/theorems/8455b4b3-3c86-4f68-a936-afd38bf3936d

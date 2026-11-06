@@ -1,0 +1,244 @@
+-- Prove2me | Definitions.Def_TC433_Algebra_Lie_F4_ShortRoot_PrimeField_Frobenius_8e9a1ca20e
+-- name    : TC433_Algebra_Lie_F4_ShortRoot_PrimeField_Frobenius_8e9a1ca20e
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T17:35:42.474252+00:00
+-- url     : https://prove2.me/theorems/0a4ea2dc-dae4-4a40-919a-705c88b39d05
+-- title:
+--   TauCeti: Algebra / Lie / F4 / ShortRoot / PrimeField / Frobenius
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.Algebra.Lie.F4.ShortRoot.PrimeField.Frobenius for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/Algebra/Lie/F4/ShortRoot/PrimeField/Frobenius.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+
+public import Definitions.Def_TC433_Algebra_CharP_Frobenius_Bialgebra_491afecaa7
+public import Definitions.Def_TC433_Algebra_Lie_F4_ShortRoot_PrimeField_PointsFunctor_064d991e27
+public import Definitions.Def_TC433_FieldTheory_Finite_Frobenius_9a11527dc4
+public import Definitions.Def_TC433_LinearAlgebra_Matrix_GeneralLinearGroup_Frobenius_d70729ad30
+
+/-!
+# Frobenius on the short-root type-F4 prime-field carrier
+
+This file defines the Frobenius endomorphisms of the carrier's matrix-valued points. The
+finite-field Frobenius algebra homomorphism exists for every `ZMod 2`-algebra, including the zero
+ring, so the coefficient formula and all functor laws need no separate characteristic hypothesis.
+The coordinate and group-scheme Frobenius maps are also exposed as `frobeniusCoordinateMap`
+and `frobeniusHom`.
+
+## Main declarations
+
+* `PrimeField.frobenius` is the point map induced by an iterate of the finite-field Frobenius.
+* `PrimeField.coe_frobenius_apply` is its entrywise `2 ^ m`-power formula.
+* `PrimeField.frobenius_zero`, `PrimeField.frobenius_add`, and `PrimeField.frobenius_pow` are the
+  iteration laws inherited from point functoriality.
+* `PrimeField.frobenius_rootSubgroupPoints` and `PrimeField.frobenius_weightTorusPoints` describe
+  the action on the pinned generators.
+* `PrimeField.frobenius_eq_self_iff` and `PrimeField.map_subtype_fixedSubgroup_frobenius_eq` say
+  which points it fixes, and identify the fixed subgroup with the carrier's points over the
+  Frobenius-fixed subalgebra. No finiteness of either side is asserted.
+
+## References
+
+* R. W. Carter, *Finite Groups of Lie Type: Conjugacy Classes and Complex Characters*, §1.17.
+* R. W. Carter, *Simple Groups of Lie Type*, §§4.4 and 11.3.
+* J. C. Jantzen, *Representations of Algebraic Groups*, II.1.
+* The corresponding integral short-root construction in
+  `TauCeti.Algebra.Lie.F4.ShortRoot.Frobenius`.
+-/
+
+public section
+set_option maxHeartbeats 800000
+set_option backward.isDefEq.respectTransparency.types false
+
+open scoped Matrix
+
+namespace TauCeti.F4ShortRoot
+
+universe v
+
+namespace PrimeField
+
+/-- **The `2 ^ m`-power Frobenius endomorphism of the carrier over `𝔽₂`**, the map on points
+induced by the iterated Frobenius of the value algebra.
+
+For `m` positive this is the `2 ^ m`-power Frobenius of the carrier's points; at `m = 0` it is the
+identity. -/
+noncomputable def frobenius (m : ℕ) (A : Type v) [CommRing A] [Algebra (ZMod 2) A] :
+    points A →* points A := pointsMap ((FiniteField.frobeniusAlgHom (ZMod 2) A) ^ m)
+
+/-- The Frobenius endomorphism of the carrier over `𝔽₂` maps matrices entrywise by the finite-field
+Frobenius algebra homomorphism. -/
+theorem coe_frobenius (m : ℕ) (A : Type v) [CommRing A] [Algebra (ZMod 2) A]
+    (g : points A) :
+    (frobenius m A g : _root_.Matrix.GeneralLinearGroup (Fin 26) A) =
+      _root_.Matrix.GeneralLinearGroup.map
+        (((FiniteField.frobeniusAlgHom (ZMod 2) A) ^ m : A →ₐ[ZMod 2] A) : A →+* A) g := by
+  simpa only [frobenius] using
+    coe_pointsMap ((FiniteField.frobeniusAlgHom (ZMod 2) A) ^ m) g
+
+/-- Entrywise, the Frobenius endomorphism of the carrier over `𝔽₂` raises each matrix coefficient
+to its `2 ^ m`-th power. -/
+@[simp]
+theorem coe_frobenius_apply (m : ℕ) (A : Type v) [CommRing A] [Algebra (ZMod 2) A]
+    (g : points A) (i j : Fin 26) :
+    ((frobenius m A g : _root_.Matrix.GeneralLinearGroup (Fin 26) A) :
+        Matrix (Fin 26) (Fin 26) A) i j =
+      ((g : _root_.Matrix.GeneralLinearGroup (Fin 26) A) :
+        Matrix (Fin 26) (Fin 26) A) i j ^ 2 ^ m := by
+  rw [coe_frobenius, _root_.Matrix.GeneralLinearGroup.map_apply]
+  simpa using TauCeti.FiniteField.frobeniusAlgHom_pow_apply (ZMod 2) A m
+    (((g : _root_.Matrix.GeneralLinearGroup (Fin 26) A) :
+      Matrix (Fin 26) (Fin 26) A) i j)
+
+/-- The zeroth Frobenius iterate is the identity on the carrier's point group. -/
+@[simp]
+theorem frobenius_zero (A : Type v) [CommRing A] [Algebra (ZMod 2) A] :
+    frobenius 0 A = MonoidHom.id _ := by
+  have h : (1 : A →ₐ[ZMod 2] A) = AlgHom.id (ZMod 2) A := by ext; rfl
+  rw [frobenius, pow_zero, h, pointsMap_id]
+
+/-- Frobenius iterates add under composition on the carrier's point group. -/
+theorem frobenius_add (m k : ℕ) (A : Type v) [CommRing A] [Algebra (ZMod 2) A] :
+    frobenius (m + k) A = (frobenius m A).comp (frobenius k A) := by
+  let F := FiniteField.frobeniusAlgHom (ZMod 2) A
+  have hcomp : F ^ m * F ^ k = (F ^ m).comp (F ^ k) := rfl
+  rw [frobenius, frobenius, frobenius, pow_add, hcomp, pointsMap_comp]
+
+/-- **Frobenius exponents multiply under taking powers**: the `m`-th power of the `2 ^ k`-power
+Frobenius of the carrier, in the endomorphism monoid of its points, is its `2 ^ (k * m)`-power
+Frobenius. -/
+theorem frobenius_pow (k m : ℕ) (A : Type v) [CommRing A] [Algebra (ZMod 2) A] :
+    (show Monoid.End _ from frobenius k A) ^ m = frobenius (k * m) A := by
+  induction m with
+  | zero => rw [pow_zero, Nat.mul_zero, frobenius_zero]; rfl
+  | succ m ih => rw [pow_succ, ih, Nat.mul_succ, frobenius_add (k * m) k A]; rfl
+
+/-- **Frobenius raises the parameter of every numbered simple root subgroup to its `2 ^ m`-th
+power.** -/
+@[simp]
+theorem frobenius_rootSubgroupPoints (m : ℕ) (A : Type v) [CommRing A] [Algebra (ZMod 2) A]
+    (k : Fin 4 ⊕ Fin 4) (u : Multiplicative A) :
+    frobenius m A (rootSubgroupPoints k A u) =
+      rootSubgroupPoints k A (Multiplicative.ofAdd (Multiplicative.toAdd u ^ 2 ^ m)) := by
+  rw [frobenius, pointsMap_rootSubgroupPoints]
+  congr 2
+  simpa using TauCeti.FiniteField.frobeniusAlgHom_pow_apply
+    (ZMod 2) A m (Multiplicative.toAdd u)
+
+/-- **Frobenius raises every coordinate of the pinned split weight torus to its `2 ^ m`-th
+power.** -/
+@[simp]
+theorem frobenius_weightTorusPoints (m : ℕ) (A : Type v) [CommRing A] [Algebra (ZMod 2) A]
+    (s : Fin 4 → Aˣ) :
+    frobenius m A (weightTorusPoints A s) = weightTorusPoints A (s ^ 2 ^ m) := by
+  rw [frobenius, pointsMap_weightTorusPoints]
+  congr 1
+  funext i
+  apply Units.ext
+  simpa using TauCeti.FiniteField.frobeniusAlgHom_pow_apply (ZMod 2) A m (s i)
+
+/-- **A point of the carrier over `𝔽₂` is fixed by the `2 ^ m`-power Frobenius exactly when all of
+its matrix entries lie in the Frobenius-fixed subalgebra.** -/
+@[simp]
+theorem frobenius_eq_self_iff (m : ℕ) (A : Type v) [CommRing A] [Algebra (ZMod 2) A]
+    (g : points A) :
+    frobenius m A g = g ↔
+      ∀ i j, ((g : _root_.Matrix.GeneralLinearGroup (Fin 26) A) :
+          Matrix (Fin 26) (Fin 26) A) i j ∈
+        TauCeti.FiniteField.frobeniusFixedSubalgebra (ZMod 2) A m := by
+  rw [← SetLike.coe_eq_coe, coe_frobenius, TauCeti.FiniteField.frobeniusFixedSubalgebra_def,
+    _root_.Matrix.GeneralLinearGroup.map_eq_self_iff_mem_equalizer]
+
+/-- **The Frobenius-fixed points of the carrier over `𝔽₂` are its points over the Frobenius-fixed
+subalgebra.** For `A` an algebraic closure of `𝔽₂` and `0 < m` that subalgebra is the field of
+`2 ^ m` elements, but no finiteness of either side is asserted here. -/
+theorem map_subtype_fixedSubgroup_frobenius_eq (m : ℕ) (A : Type v) [CommRing A]
+    [Algebra (ZMod 2) A] :
+    (fixedSubgroup (frobenius m A)).map (points A).subtype =
+      (points ↥(TauCeti.FiniteField.frobeniusFixedSubalgebra (ZMod 2) A m)).map
+        (_root_.Matrix.GeneralLinearGroup.map
+          ((TauCeti.FiniteField.frobeniusFixedSubalgebra (ZMod 2) A m).val :
+            ↥(TauCeti.FiniteField.frobeniusFixedSubalgebra (ZMod 2) A m) →+* A)) := by
+  rw [TauCeti.map_subtype_fixedSubgroup_of_coe_eq (frobenius m A) _ (coe_frobenius m A),
+    points_eq_hopfIdealPointsSubgroup
+      ↥(TauCeti.FiniteField.frobeniusFixedSubalgebra (ZMod 2) A m),
+    TauCeti.GeneralLinear.map_hopfIdealPointsSubgroup_subalgebra 26 definingIdeal _,
+    points_eq_hopfIdealPointsSubgroup A, TauCeti.FiniteField.frobeniusFixedSubalgebra_def,
+    _root_.Matrix.GeneralLinearGroup.range_map_val_equalizer]
+
+/-! ## Frobenius of the carrier group scheme -/
+
+open AlgebraicGeometry CategoryTheory
+
+local notation "Q" => CommHopfAlgCat.quotient
+  (GeneralLinear.coordinateHopfAlgebra (ZMod 2) 26)
+  (CommHopfAlgCat.commonKernelHopfIdeal generator)
+
+/-- The squaring Frobenius of the carrier coordinate Hopf algebra. -/
+noncomputable def frobeniusCoordinateMap : Q ⟶ Q :=
+  CommHopfAlgCat.ofHom (TauCeti.frobeniusBialgHom (ZMod 2) Q)
+
+/-- The coordinate Frobenius is the canonical Frobenius bialgebra homomorphism. -/
+theorem frobeniusCoordinateMap_def :
+    frobeniusCoordinateMap = CommHopfAlgCat.ofHom (TauCeti.frobeniusBialgHom (ZMod 2) Q) := by
+  rfl
+
+/-- The Frobenius coordinate morphism squares each function on the carrier. -/
+@[simp] theorem frobeniusCoordinateMap_apply (x : Q) :
+    frobeniusCoordinateMap.hom x = x ^ 2 := by
+  rw [frobeniusCoordinateMap_def, CommHopfAlgCat.hom_ofHom,
+    TauCeti.frobeniusBialgHom_apply, ZMod.card]
+
+/-- Evaluating the coordinate Frobenius is the named Frobenius on matrix-valued points. -/
+theorem coordinatePointsEquiv_map_frobeniusCoordinateMap
+    (A : Type*) [CommRing A] [Algebra (ZMod 2) A]
+    (q : HopfAlgebra.points (H := Q) (CommAlgCat.of (ZMod 2) A)) :
+    coordinatePointsEquiv A (AlgHom.mapDomain frobeniusCoordinateMap.hom q) =
+      frobenius 1 A (coordinatePointsEquiv A q) := by
+  apply Subtype.ext
+  rw [coe_coordinatePointsEquiv, coe_frobenius, coe_coordinatePointsEquiv]
+  have h : (q.ofConv.comp frobeniusCoordinateMap.hom.toAlgHom).comp
+      (CommHopfAlgCat.mkQuotient (GeneralLinear.coordinateHopfAlgebra (ZMod 2) 26)
+        (CommHopfAlgCat.commonKernelHopfIdeal generator)).hom.toAlgHom =
+      (FiniteField.frobeniusAlgHom (ZMod 2) A).comp
+        (q.ofConv.comp (CommHopfAlgCat.mkQuotient
+          (GeneralLinear.coordinateHopfAlgebra (ZMod 2) 26)
+          (CommHopfAlgCat.commonKernelHopfIdeal generator)).hom.toAlgHom) := by
+    ext x
+    simp only [frobeniusCoordinateMap_def, CommHopfAlgCat.hom_ofHom,
+      AlgHom.comp_apply, BialgHom.coe_toAlgHom, TauCeti.frobeniusBialgHom_apply,
+      FiniteField.coe_frobeniusAlgHom, map_pow]
+  -- Unfold point evaluation through the quotient to use the coordinate Frobenius identity.
+  change GeneralLinear.pointsMulEquiv 26 (WithConv.toConv
+    ((q.ofConv.comp frobeniusCoordinateMap.hom.toAlgHom).comp _)) = _
+  rw [h]
+  simp only [pow_one]
+  rw [← AlgHom.mapValue_apply]
+  exact GeneralLinear.pointsMulEquiv_mapValue 26 (FiniteField.frobeniusAlgHom (ZMod 2) A) _
+
+/-- The characteristic-two Frobenius of the explicit F4 carrier group scheme. -/
+noncomputable def frobeniusHom : groupScheme ⟶ groupScheme :=
+  eqToHom (GeneralLinear.generatedGroupScheme_def 26 generator) ≫
+    (hopfSpec (CommRingCat.of (ZMod 2))).map frobeniusCoordinateMap.op ≫
+      eqToHom (GeneralLinear.generatedGroupScheme_def 26 generator).symm
+
+/-- The carrier Frobenius is represented by its coordinate Frobenius morphism. -/
+theorem frobeniusHom_eq_map_frobeniusCoordinateMap :
+    frobeniusHom =
+      eqToHom (GeneralLinear.generatedGroupScheme_def 26 generator) ≫
+        (hopfSpec (CommRingCat.of (ZMod 2))).map frobeniusCoordinateMap.op ≫
+          eqToHom (GeneralLinear.generatedGroupScheme_def 26 generator).symm := by
+  rfl
+
+end PrimeField
+
+end TauCeti.F4ShortRoot
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_size_bitList
 -- name    : PiecesCounted.size_bitList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:19.102053+00:00
 -- url     : https://prove2.me/theorems/005b3e68-8038-48df-9b3f-d0cfb723c48e

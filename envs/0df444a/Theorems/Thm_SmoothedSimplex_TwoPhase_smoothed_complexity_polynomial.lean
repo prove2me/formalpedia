@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothedSimplex_TwoPhase_smoothed_complexity_polynomial
 -- name    : SmoothedSimplex.TwoPhase.smoothed_complexity_polynomial
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:29:54.305588+00:00
 -- url     : https://prove2.me/theorems/b1b2e73e-400e-443c-ae0b-4ef0e9793676

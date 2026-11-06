@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_satPf_unary
 -- name    : Eight.ViaGrouping.satPf_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:15.466778+00:00
 -- url     : https://prove2.me/theorems/a96c9fe2-0b81-424b-ad9b-51fadad23f7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_bound_le_pow
 -- name    : OccurM.bound_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:25.05066+00:00
 -- url     : https://prove2.me/theorems/1ab2bf0e-5764-489a-b5bd-8f6454ece1f3

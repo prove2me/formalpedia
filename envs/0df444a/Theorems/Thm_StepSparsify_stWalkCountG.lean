@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_stWalkCountG
 -- name    : StepSparsify.stWalkCountG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:55:07.050202+00:00
 -- url     : https://prove2.me/theorems/60e657dd-2387-46ab-8bec-65f077fa785c

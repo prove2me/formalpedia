@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppHalfPieces_stExpansion
 -- name    : AppHalfPieces.stExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:55:05.910503+00:00
 -- url     : https://prove2.me/theorems/201ad31f-d494-498a-8109-282d16a931ee

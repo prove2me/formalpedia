@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_achievable_half
 -- name    : Printed.achievable_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:57:49.673729+00:00
 -- url     : https://prove2.me/theorems/7ac8692e-41a6-49a9-b768-22b9ca4c7209

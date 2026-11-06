@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_walkTreeIsSparsify
 -- name    : RecursionToBound.walkTreeIsSparsify
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:14:18.199425+00:00
 -- url     : https://prove2.me/theorems/dbf1a65a-09ea-42d7-b58d-2b92e9354830

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesExpGap_ConstOrder_eq_3
 -- name    : LostSalesExpGap.ConstOrder.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:10:30.325278+00:00
 -- url     : https://prove2.me/theorems/92e8bea8-4699-4ee0-b44c-09c1c261fc8e

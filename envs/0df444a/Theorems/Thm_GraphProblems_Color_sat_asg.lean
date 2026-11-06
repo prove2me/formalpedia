@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Color_sat_asg
 -- name    : GraphProblems.Color.sat_asg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:53.252696+00:00
 -- url     : https://prove2.me/theorems/ae0546e9-c762-4b71-82db-21fce6c21a03

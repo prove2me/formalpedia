@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsSDP_dualFeasible12_eq_feasible15
 -- name    : MinimaxSLP.RhsSDP.dualFeasible12_eq_feasible15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:16:00.709969+00:00
 -- url     : https://prove2.me/theorems/febb28e2-6fdc-487d-a232-bea2dcb6d9d3

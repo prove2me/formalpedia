@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_DomTree_sum_leaves
 -- name    : GraphProblems.DomTree.sum_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:03:10.557183+00:00
 -- url     : https://prove2.me/theorems/03bd0a23-cc5f-4538-b233-38f9ddce4f86

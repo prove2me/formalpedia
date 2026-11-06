@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaddedDescent_F_CertTop_betaOf_unary
 -- name    : PaddedDescent.F.CertTop.betaOf_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:40:27.454197+00:00
 -- url     : https://prove2.me/theorems/aac3d659-ebcd-42f5-bed2-c3204078841d

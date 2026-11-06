@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Geo_stTauE
 -- name    : SparsificationLemma.Geo.stTauE
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:25:12.242599+00:00
 -- url     : https://prove2.me/theorems/6bac824b-39f5-4c43-9c3c-7aa024812bf2

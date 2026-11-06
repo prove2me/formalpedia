@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_Optimality_proposition_1
 -- name    : BootRobust.Optimality.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:53.595983+00:00
 -- url     : https://prove2.me/theorems/331fe2da-8527-47a9-8c4e-f612aec3f96a

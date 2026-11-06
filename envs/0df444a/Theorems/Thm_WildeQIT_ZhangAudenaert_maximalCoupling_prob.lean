@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_ZhangAudenaert_maximalCoupling_prob
 -- name    : WildeQIT.ZhangAudenaert.maximalCoupling_prob
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:56:39.804734+00:00
 -- url     : https://prove2.me/theorems/b5c4f17d-db58-4890-9d2a-c9f73dfa6d05

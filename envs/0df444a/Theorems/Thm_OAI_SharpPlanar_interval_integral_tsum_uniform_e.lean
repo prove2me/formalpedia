@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_interval_integral_tsum_uniform_e
 -- name    : OAI.SharpPlanar.interval_integral_tsum_uniform_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:43:00.400304+00:00
 -- url     : https://prove2.me/theorems/68ff962d-46f7-4bfd-a259-6d8460d4dcdd

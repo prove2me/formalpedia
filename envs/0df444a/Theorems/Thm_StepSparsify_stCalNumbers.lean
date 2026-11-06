@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_stCalNumbers
 -- name    : StepSparsify.stCalNumbers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:48.888183+00:00
 -- url     : https://prove2.me/theorems/9afabf1f-e89a-46c8-983b-958fd6397d27

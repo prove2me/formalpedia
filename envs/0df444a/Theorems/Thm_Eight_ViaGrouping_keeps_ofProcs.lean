@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_keeps_ofProcs
 -- name    : Eight.ViaGrouping.keeps_ofProcs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:39.364729+00:00
 -- url     : https://prove2.me/theorems/9f588630-f75e-4a45-8f63-ea6f353ab477

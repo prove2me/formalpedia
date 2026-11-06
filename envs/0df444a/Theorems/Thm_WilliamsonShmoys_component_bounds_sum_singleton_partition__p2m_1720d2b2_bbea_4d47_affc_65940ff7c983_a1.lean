@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_bounds_sum_singleton_partition__p2m_1720d2b2_bbea_4d47_affc_65940ff7c983_a1
 -- name    : WilliamsonShmoys.component_bounds_sum_singleton_partition__p2m_1720d2b2_bbea_4d47_affc_65940ff7c983_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:20:13.018666+00:00
 -- url     : https://prove2.me/theorems/cead4212-c380-4992-bb07-66f494ce734c

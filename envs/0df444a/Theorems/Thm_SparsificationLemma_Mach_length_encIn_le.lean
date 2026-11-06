@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_length_encIn_le
 -- name    : SparsificationLemma.Mach.length_encIn_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:16.044199+00:00
 -- url     : https://prove2.me/theorems/760b7f78-7a31-4256-a468-30f51a4bdc48

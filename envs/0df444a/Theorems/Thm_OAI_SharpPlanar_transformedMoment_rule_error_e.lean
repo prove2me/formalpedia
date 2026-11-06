@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_transformedMoment_rule_error_e
 -- name    : OAI.SharpPlanar.transformedMoment_rule_error_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:59:36.530709+00:00
 -- url     : https://prove2.me/theorems/c54b0d4d-7dfb-4098-b534-ea9d1137451a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Fld_Cert_irrS_polyT
 -- name    : VariableBound.Fld.Cert.irrS_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:42:46.738532+00:00
 -- url     : https://prove2.me/theorems/1f4746e2-1252-4de6-b07c-51e9b2f5fd0a

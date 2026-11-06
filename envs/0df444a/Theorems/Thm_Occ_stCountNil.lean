@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Occ_stCountNil
 -- name    : Occ.stCountNil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:12.42767+00:00
 -- url     : https://prove2.me/theorems/ed60cd51-d099-4ee8-ae75-48e1d7ba30ea

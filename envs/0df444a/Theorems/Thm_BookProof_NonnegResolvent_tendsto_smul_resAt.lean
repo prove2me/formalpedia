@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NonnegResolvent_tendsto_smul_resAt
 -- name    : BookProof.NonnegResolvent.tendsto_smul_resAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:53:16.126891+00:00
 -- url     : https://prove2.me/theorems/3705d22d-9f4d-43c7-a180-c6fc15499959

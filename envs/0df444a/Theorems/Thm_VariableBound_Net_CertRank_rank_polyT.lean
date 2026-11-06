@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_CertRank_rank_polyT
 -- name    : VariableBound.Net.CertRank.rank_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:44:17.14367+00:00
 -- url     : https://prove2.me/theorems/ff0c7c6b-ad3b-4386-a30e-2478e674c527

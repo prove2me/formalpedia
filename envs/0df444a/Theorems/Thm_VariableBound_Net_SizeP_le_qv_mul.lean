@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_le_qv_mul
 -- name    : VariableBound.Net.SizeP.le_qv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:55.844424+00:00
 -- url     : https://prove2.me/theorems/37cc65a4-9578-4739-bf37-bfb18b685897

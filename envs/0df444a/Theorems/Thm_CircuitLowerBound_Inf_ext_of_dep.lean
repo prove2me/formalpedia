@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Inf_ext_of_dep
 -- name    : CircuitLowerBound.Inf.ext_of_dep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:33.453207+00:00
 -- url     : https://prove2.me/theorems/951facce-14ea-4a3e-ae3a-c20bcae5e43e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Variance_stHence
 -- name    : Variance.stHence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:35:22.249487+00:00
 -- url     : https://prove2.me/theorems/2e4827e1-1a3c-4730-bbd2-eab4bda58f69

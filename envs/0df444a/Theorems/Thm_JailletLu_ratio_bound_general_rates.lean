@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JailletLu_ratio_bound_general_rates
 -- name    : JailletLu.ratio_bound_general_rates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:34:46.21964+00:00
 -- url     : https://prove2.me/theorems/9c77a81e-4173-4823-af47-c6f0a649e1d8

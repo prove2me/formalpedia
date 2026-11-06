@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_countD_polyT
 -- name    : VariableBound.Count.countD_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:43.570193+00:00
 -- url     : https://prove2.me/theorems/74f6d7f7-860b-414c-b24e-83f0c55c8634

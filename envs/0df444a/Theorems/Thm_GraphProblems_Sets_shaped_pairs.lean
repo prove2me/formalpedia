@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Sets_shaped_pairs
 -- name    : GraphProblems.Sets.shaped_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:37.400639+00:00
 -- url     : https://prove2.me/theorems/91a65eef-f771-4dc4-8721-49456a448699

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Enumerate_time_le_poly
 -- name    : Enumerate.time_le_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:01.948698+00:00
 -- url     : https://prove2.me/theorems/6d71d228-c813-44fa-842f-4b6cf25b9d05

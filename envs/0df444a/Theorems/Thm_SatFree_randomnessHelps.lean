@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatFree_randomnessHelps
 -- name    : SatFree.randomnessHelps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T15:55:17.380969+00:00
 -- url     : https://prove2.me/theorems/93e9c4d5-89a1-407e-8d29-3da0f5051325

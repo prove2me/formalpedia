@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_priceL_unary
 -- name    : ExplicitCost.priceL_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:58:10.664795+00:00
 -- url     : https://prove2.me/theorems/642680c7-eb09-4203-a36e-614ba1c5484f

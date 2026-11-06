@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynChoiceJEO_theorem_1_jensen_bound
 -- name    : DynChoiceJEO.theorem_1_jensen_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:40:41.557124+00:00
 -- url     : https://prove2.me/theorems/92a48058-2f5e-4583-b1bc-a963b191a62f

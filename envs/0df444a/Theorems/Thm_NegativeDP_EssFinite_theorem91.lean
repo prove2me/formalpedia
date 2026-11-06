@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_EssFinite_theorem91
 -- name    : NegativeDP.EssFinite.theorem91
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:23:08.706596+00:00
 -- url     : https://prove2.me/theorems/2bbe1c9e-b6b1-473f-9dcc-918483ee784c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Cal_factI
 -- name    : SparsificationLemma.Cal.factI
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:08:21.48797+00:00
 -- url     : https://prove2.me/theorems/927f4e34-c342-48e2-8d5d-e56937901645

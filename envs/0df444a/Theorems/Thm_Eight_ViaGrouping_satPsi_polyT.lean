@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_satPsi_polyT
 -- name    : Eight.ViaGrouping.satPsi_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:57.979654+00:00
 -- url     : https://prove2.me/theorems/81af019c-37da-4d42-b522-2bf27d019207

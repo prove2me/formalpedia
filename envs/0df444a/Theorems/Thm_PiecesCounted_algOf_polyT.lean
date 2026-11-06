@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_algOf_polyT
 -- name    : PiecesCounted.algOf_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:20:58.199054+00:00
 -- url     : https://prove2.me/theorems/8eca7fa4-69df-4e08-9cbc-50aa2607cdc5

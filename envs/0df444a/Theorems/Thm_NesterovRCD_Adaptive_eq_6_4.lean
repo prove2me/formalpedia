@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Adaptive_eq_6_4
 -- name    : NesterovRCD.Adaptive.eq_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:28.613068+00:00
 -- url     : https://prove2.me/theorems/621c419c-b30a-4002-b6cc-af08850a4fd2

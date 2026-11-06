@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrimalDualLDR_RandomRecourse_theorem_2_primal
 -- name    : PrimalDualLDR.RandomRecourse.theorem_2_primal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:43:59.981454+00:00
 -- url     : https://prove2.me/theorems/ca4ae36c-1a55-40ec-aae0-b25a4bc1d22f

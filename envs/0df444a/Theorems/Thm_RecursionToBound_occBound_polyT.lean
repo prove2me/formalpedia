@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_occBound_polyT
 -- name    : RecursionToBound.occBound_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:33.976715+00:00
 -- url     : https://prove2.me/theorems/0dd67b5c-0171-4c75-a906-21401f8398fd

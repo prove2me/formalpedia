@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_cntN_eq_zero_iff
 -- name    : CircuitLowerBound.Alg.cntN_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:50.935715+00:00
 -- url     : https://prove2.me/theorems/2fd3041f-5f5e-43cd-b78c-a91ba70536f6

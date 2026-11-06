@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_stCalLeaves
 -- name    : StepSparsify.stCalLeaves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:13.064906+00:00
 -- url     : https://prove2.me/theorems/62fd6975-44d1-48a4-a946-53448ba5e751

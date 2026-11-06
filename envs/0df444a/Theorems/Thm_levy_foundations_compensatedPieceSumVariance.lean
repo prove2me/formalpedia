@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_compensatedPieceSumVariance
 -- name    : levy_foundations_compensatedPieceSumVariance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T15:17:38.070216+00:00
 -- url     : https://prove2.me/theorems/93c89c43-1777-4f5d-a11c-7eecfecd07ed

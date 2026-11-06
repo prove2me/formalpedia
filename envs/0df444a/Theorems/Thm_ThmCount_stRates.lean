@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_stRates
 -- name    : ThmCount.stRates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:41:17.517616+00:00
 -- url     : https://prove2.me/theorems/b90c4c2e-46f9-4570-af05-8826df782d22

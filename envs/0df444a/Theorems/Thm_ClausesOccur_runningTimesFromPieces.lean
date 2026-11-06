@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClausesOccur_runningTimesFromPieces
 -- name    : ClausesOccur.runningTimesFromPieces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:39:27.873724+00:00
 -- url     : https://prove2.me/theorems/a770267f-416c-42bc-bb41-e92c99c08aca

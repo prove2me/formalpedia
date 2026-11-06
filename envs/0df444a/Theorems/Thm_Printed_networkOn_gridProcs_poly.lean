@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_networkOn_gridProcs_poly
 -- name    : Printed.networkOn_gridProcs_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:53:31.409708+00:00
 -- url     : https://prove2.me/theorems/e68f3316-f08d-4347-88e9-52202ca42ed6

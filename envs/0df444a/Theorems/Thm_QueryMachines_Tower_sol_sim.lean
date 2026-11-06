@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_sol_sim
 -- name    : QueryMachines.Tower.sol_sim
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:49:48.218605+00:00
 -- url     : https://prove2.me/theorems/d085c6a2-75be-4fe4-bf23-f01c2fa5c3db

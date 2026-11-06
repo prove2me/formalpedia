@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothedSimplex_Shadow_shadow_size_bound
 -- name    : SmoothedSimplex.Shadow.shadow_size_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:18:30.233192+00:00
 -- url     : https://prove2.me/theorems/e0c475e1-7c9d-4bd3-b78a-eff5272fa4bf

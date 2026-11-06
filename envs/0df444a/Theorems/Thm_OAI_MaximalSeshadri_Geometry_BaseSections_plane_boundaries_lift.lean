@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MaximalSeshadri_Geometry_BaseSections_plane_boundaries_lift
 -- name    : OAI.MaximalSeshadri.Geometry.BaseSections.plane_boundaries_lift
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-11-04T15:05:04.605539+00:00
 -- url     : https://prove2.me/theorems/56138f45-8e80-4dd3-9ef3-424d2de24b06

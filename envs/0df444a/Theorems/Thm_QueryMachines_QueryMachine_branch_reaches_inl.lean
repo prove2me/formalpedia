@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_QueryMachine_branch_reaches_inl
 -- name    : QueryMachines.QueryMachine.branch_reaches_inl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:44:43.60928+00:00
 -- url     : https://prove2.me/theorems/57179224-7c89-47c9-8642-bfe7bd632e1e

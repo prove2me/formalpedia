@@ -1,0 +1,72 @@
+-- Prove2me | Theorems.Thm_BianchiIX_hasDerivAt_projective_flow
+-- name    : BianchiIX.hasDerivAt_projective_flow
+-- status  : Proved
+-- author  : @trppppp
+-- created : 2026-11-04T21:27:29.96882+00:00
+-- url     : https://prove2.me/theorems/6474ae0c-c894-41a4-9b80-76d03aa172cd
+-- title:
+--   All four transformed derivatives along the normalized equations
+-- statement:
+--   For real variables $p,s,a,b,c$, set
+--   $$K=a^2+b^2+c^2-2(ab+bc+ca),\qquad S=p^2+s^2,\qquad C=S+K.$$
+--   The shear components and wall rates are
+--   $$P=Kp-2a^2+b^2+c^2+ab-2bc+ac,$$
+--   $$Q=Ks+\sqrt{3}(-b^2+c^2+ab-ac),$$
+--   $$r_1=-S+2p,\qquad r_2=-S-p+\sqrt{3}s,\qquad r_3=-S-p-\sqrt{3}s.$$
+--   These functions define the normalized vacuum Bianchi IX vector field
+--   $(P,Q,r_1a,r_2b,r_3c)$.
+--   For $y=(m,u,v,w)\in\mathbb R^4$, define
+--   $$K(u,v,w)=u^2+v^2+w^2-2(uv+vw+wu),\qquad \kappa=u(v+w-u),$$
+--   $$F_m=-v^2+w^2+u(v-w)-m\kappa,\qquad
+--   F_u=\tfrac12(1-m^2-(v-w)^2+u^2)u,$$
+--   $$F_v=(m-1-\kappa)v,\qquad F_w=(-m-1-\kappa)w,\qquad
+--   F=(F_m,F_u,F_v,F_w),$$
+--   and $E(m,v)=(m-1)^2+v^2$.
+--
+--   For $x=(p,s,a,b,c)$, put
+--   $$\psi(p,z)=\frac{\sqrt3\,z}{1+p},\qquad
+--   \Pi(x)=(\psi(p,s),\psi(p,a),\psi(p,b),\psi(p,c)).$$
+--   For $y=(m,u,v,w)$, set $D(y)=3+m^2+K(u,v,w)$ and
+--   $$\Xi_A(y)=\left(A-1,\frac{Am}{\sqrt3},\frac{Au}{\sqrt3},
+--   \frac{Av}{\sqrt3},\frac{Aw}{\sqrt3}\right),\qquad
+--   \Xi(y)=\Xi_{6/D(y)}(y).$$
+--   Write $N(x)=(P,Q,r_1a,r_2b,r_3c)$ for the normalized vector field
+--   and $\mathcal C(x)=C(p,s,a,b,c)$ for its constraint.
+--   Suppose the five components of
+--   $x(t)$ have derivatives $N(x(t))$ at a fixed time $t$, with
+--   $1+p(t)\ne0$ and $\mathcal C(x(t))=1$. Then the four components of
+--   $\Pi(x(t))$ have derivatives $(1+p(t))F(\Pi(x(t)))$ at that time.
+-- source:
+--   https://github.com/l46430640-del/ERA-STATISTICS-FORMAL/blob/d74c241819f896ab8d050b21ace80c8e90eabd9e/BianchiIX/Algebra/Coordinates.lean#L144-L168
+
+import Definitions.Def_BianchiIX_Algebra_Projective
+import Definitions.Def_BianchiIX_Algebra_Coordinates
+import Mathlib.Analysis.Calculus.Deriv.Pow
+import Mathlib.Analysis.Calculus.Deriv.Mul
+import Mathlib.Analysis.Calculus.Deriv.Add
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.Ring
+import Mathlib.Analysis.Calculus.Deriv.Inv
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.LinearCombination
+
+open BianchiIX
+noncomputable section
+
+theorem BianchiIX.hasDerivAt_projective_flow
+    {p s a b c : ℝ → ℝ} {t : ℝ}
+    (hp : HasDerivAt p (shearPlus (p t) (a t) (b t) (c t)) t)
+    (hs : HasDerivAt s (shearMinus (s t) (a t) (b t) (c t)) t)
+    (ha : HasDerivAt a (rateOne (p t) (s t) * a t) t)
+    (hb : HasDerivAt b (rateTwo (p t) (s t) * b t) t)
+    (hc : HasDerivAt c (rateThree (p t) (s t) * c t) t)
+    (hA : 1 + p t ≠ 0) (hG : constraint (p t) (s t) (a t) (b t) (c t) = 1) :
+    let m := projectiveCoord (p t) (s t)
+    let u := projectiveCoord (p t) (a t)
+    let v := projectiveCoord (p t) (b t)
+    let w := projectiveCoord (p t) (c t)
+    HasDerivAt (fun x => projectiveCoord (p x) (s x)) ((1 + p t) * phaseVelocity m u v w) t ∧
+    HasDerivAt (fun x => projectiveCoord (p x) (a x)) ((1 + p t) * strongVelocity m u v w) t ∧
+    HasDerivAt (fun x => projectiveCoord (p x) (b x)) ((1 + p t) * activeVelocity m u v w) t ∧
+    HasDerivAt (fun x => projectiveCoord (p x) (c x)) ((1 + p t) * weakVelocity m u v w) t := by sorry

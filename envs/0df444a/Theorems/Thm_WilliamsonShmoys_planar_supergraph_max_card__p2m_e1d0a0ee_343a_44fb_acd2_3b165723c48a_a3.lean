@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_max_card__p2m_e1d0a0ee_343a_44fb_acd2_3b165723c48a_a3
 -- name    : WilliamsonShmoys.planar_supergraph_max_card__p2m_e1d0a0ee_343a_44fb_acd2_3b165723c48a_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:55:51.206147+00:00
 -- url     : https://prove2.me/theorems/57d36944-770c-4d46-99be-52926779c9ff

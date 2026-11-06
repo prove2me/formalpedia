@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_exists_ge
 -- name    : CircuitLowerBound.Form.exists_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:54:41.617408+00:00
 -- url     : https://prove2.me/theorems/2ffc4651-8e96-4ab3-891b-1283d403ffaf

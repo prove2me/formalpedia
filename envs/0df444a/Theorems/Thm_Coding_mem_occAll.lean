@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_mem_occAll
 -- name    : Coding.mem_occAll
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:35:13.883835+00:00
 -- url     : https://prove2.me/theorems/ec3dd06d-95f9-4386-ba88-d70713e5ce70

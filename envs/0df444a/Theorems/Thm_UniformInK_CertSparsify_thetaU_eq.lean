@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_CertSparsify_thetaU_eq
 -- name    : UniformInK.CertSparsify.thetaU_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:52:21.349576+00:00
 -- url     : https://prove2.me/theorems/652b5aab-656e-4736-af81-baa831546cb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ConvolutionCalc_cnv_finset_sum
 -- name    : BookProof.ConvolutionCalc.cnv_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T09:13:18.119871+00:00
 -- url     : https://prove2.me/theorems/ab419906-70cb-4760-a99b-c81d920c998c

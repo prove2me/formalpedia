@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_taylorPolynomial_zero_e
 -- name    : OAI.SharpPlanar.taylorPolynomial_zero_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:58:49.977273+00:00
 -- url     : https://prove2.me/theorems/00582adc-31e2-4a65-96f4-835d0feb4458

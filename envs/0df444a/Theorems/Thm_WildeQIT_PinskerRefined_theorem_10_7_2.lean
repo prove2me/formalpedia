@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_PinskerRefined_theorem_10_7_2
 -- name    : WildeQIT.PinskerRefined.theorem_10_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:06.252986+00:00
 -- url     : https://prove2.me/theorems/3fc696c4-b102-45ae-9061-7f53c00d8111

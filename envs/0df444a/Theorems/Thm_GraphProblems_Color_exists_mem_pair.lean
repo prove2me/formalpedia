@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Color_exists_mem_pair
 -- name    : GraphProblems.Color.exists_mem_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:33.248175+00:00
 -- url     : https://prove2.me/theorems/7c4c183c-c799-46da-bcc8-02102a10990e

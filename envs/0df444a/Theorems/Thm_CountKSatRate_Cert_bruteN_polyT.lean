@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountKSatRate_Cert_bruteN_polyT
 -- name    : CountKSatRate.Cert.bruteN_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:20:02.003208+00:00
 -- url     : https://prove2.me/theorems/dbc11125-456b-42bc-bbe5-893d4ae8a517

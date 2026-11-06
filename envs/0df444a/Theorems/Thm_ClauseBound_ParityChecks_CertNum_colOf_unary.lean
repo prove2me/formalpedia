@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertNum_colOf_unary
 -- name    : ClauseBound.ParityChecks.CertNum.colOf_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:28:24.299505+00:00
 -- url     : https://prove2.me/theorems/d738df63-00f9-4c17-8cef-35f9ed4969f9

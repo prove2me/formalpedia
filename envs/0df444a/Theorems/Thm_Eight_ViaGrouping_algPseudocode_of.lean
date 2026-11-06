@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_algPseudocode_of
 -- name    : Eight.ViaGrouping.algPseudocode_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:22:59.113051+00:00
 -- url     : https://prove2.me/theorems/23b68dab-434b-479c-bde4-e304d71298ec

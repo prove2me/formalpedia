@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Approx_eq_4_5_single_size
 -- name    : FastFashion.Approx.eq_4_5_single_size
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:10.283984+00:00
 -- url     : https://prove2.me/theorems/120790de-97d3-404c-a40c-2b30ed6ad32f

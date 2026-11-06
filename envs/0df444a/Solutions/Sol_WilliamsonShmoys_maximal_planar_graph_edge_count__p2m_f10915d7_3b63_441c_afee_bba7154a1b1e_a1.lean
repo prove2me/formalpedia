@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_graph_edge_count__p2m_f10915d7_3b63_441c_afee_bba7154a1b1e_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:20:48.163237+00:00
 -- url     : https://prove2.me/submissions/99ebe22d-1e3e-4c9f-9d7d-0722bd1667d3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

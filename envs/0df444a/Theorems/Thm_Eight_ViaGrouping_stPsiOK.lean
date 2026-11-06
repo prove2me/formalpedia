@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_stPsiOK
 -- name    : Eight.ViaGrouping.stPsiOK
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:48.507602+00:00
 -- url     : https://prove2.me/theorems/c3afccdc-b855-45a6-873e-39f3be59835b

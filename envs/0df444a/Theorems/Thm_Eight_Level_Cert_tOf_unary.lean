@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Level_Cert_tOf_unary
 -- name    : Eight.Level.Cert.tOf_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:19:31.189001+00:00
 -- url     : https://prove2.me/theorems/121670f3-4173-4432-8757-df1c0b1c1e8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_FitL_small_le_PbD
 -- name    : VariableBound.Net.FitL.small_le_PbD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:31.068633+00:00
 -- url     : https://prove2.me/theorems/3a51e1ad-0d35-44f9-bf30-0db937aebafe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_tableQ_poly
 -- name    : Printed.tableQ_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:42:29.533468+00:00
 -- url     : https://prove2.me/theorems/975fa4ee-540f-4330-95ec-17227310bebf

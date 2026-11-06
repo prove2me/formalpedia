@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Norm_toGate_op
 -- name    : CircuitLowerBound.Norm.toGate_op
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:43:38.568263+00:00
 -- url     : https://prove2.me/theorems/f1b484dd-06f4-4c04-88ba-8ca8e5b95a94

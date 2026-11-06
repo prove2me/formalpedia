@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_Toy_size_two
 -- name    : QueryMachines.Tower.Toy.size_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:02:31.219544+00:00
 -- url     : https://prove2.me/theorems/98cb0e6c-48eb-419d-94eb-f06ae25886d2

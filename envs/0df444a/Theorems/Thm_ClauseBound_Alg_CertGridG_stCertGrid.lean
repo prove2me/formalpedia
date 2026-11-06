@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_stCertGrid
 -- name    : ClauseBound.Alg.CertGridG.stCertGrid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:01:00.201217+00:00
 -- url     : https://prove2.me/theorems/bafa166f-9f26-42de-a1e5-ee951479107e

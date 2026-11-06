@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_liftCfg_init
 -- name    : CircuitLowerBound.Oracle.liftCfg_init
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:45:56.003712+00:00
 -- url     : https://prove2.me/theorems/8e6f4e14-7415-46ed-99a4-4a1239a5f3d3

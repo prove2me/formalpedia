@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Main_nPr
 -- name    : VariableBound.Net.Main.nPr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:47.168326+00:00
 -- url     : https://prove2.me/theorems/57a5cb6c-19ea-4b60-8f06-6530519dec1a

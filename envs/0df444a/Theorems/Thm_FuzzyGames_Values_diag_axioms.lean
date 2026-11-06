@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_Values_diag_axioms
 -- name    : FuzzyGames.Values.diag_axioms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:16:01.145756+00:00
 -- url     : https://prove2.me/theorems/2a005883-c73c-4f1f-9420-063c9c9aa0d8

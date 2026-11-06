@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_length_le_sum_countP
 -- name    : SparsificationLemma.length_le_sum_countP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:34.906674+00:00
 -- url     : https://prove2.me/theorems/e40a4d36-71b5-4033-b107-686d1b3f8428

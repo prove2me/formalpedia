@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesExpGap_ConstOrder_observation_1
 -- name    : LostSalesExpGap.ConstOrder.observation_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:10:57.922231+00:00
 -- url     : https://prove2.me/theorems/62dda71d-73b7-4fdd-98f9-8e86a0581464

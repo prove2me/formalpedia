@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_cut_separates_reachable_vertices__p2m_30445ffc_ee20_477d_a948_c780081d704c_a1
 -- name    : WilliamsonShmoys.planar_drawing_cut_separates_reachable_vertices__p2m_30445ffc_ee20_477d_a948_c780081d704c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:37:32.541338+00:00
 -- url     : https://prove2.me/theorems/bc9d21a3-e9b7-4fa6-a15f-8ee7eb19a650

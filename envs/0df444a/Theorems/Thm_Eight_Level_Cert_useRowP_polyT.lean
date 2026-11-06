@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Level_Cert_useRowP_polyT
 -- name    : Eight.Level.Cert.useRowP_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:30:00.808585+00:00
 -- url     : https://prove2.me/theorems/a1a8c54f-e4cd-4e15-9973-e569ef7039ea

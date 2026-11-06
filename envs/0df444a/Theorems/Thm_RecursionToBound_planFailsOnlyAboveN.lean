@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_planFailsOnlyAboveN
 -- name    : RecursionToBound.planFailsOnlyAboveN
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:00:20.145795+00:00
 -- url     : https://prove2.me/theorems/895af345-34ff-46a4-9ca6-490150bb3b14

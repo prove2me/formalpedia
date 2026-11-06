@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Level_Cert_numPat8_polyT
 -- name    : Eight.Level.Cert.numPat8_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:30:19.114669+00:00
 -- url     : https://prove2.me/theorems/1667a139-616f-4ea7-a33c-4515a63448cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_wf_check
 -- name    : CircuitLowerBound.Form.wf_check
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:54:06.000498+00:00
 -- url     : https://prove2.me/theorems/9d9dce20-4fd3-4acf-b2e1-c31f615e42f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Prof_totP_le_of_match
 -- name    : VariableBound.Net.Prof.totP_le_of_match
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:44:12.631803+00:00
 -- url     : https://prove2.me/theorems/abc7f4f9-200e-4ed3-a688-9d2f39c5ebb5

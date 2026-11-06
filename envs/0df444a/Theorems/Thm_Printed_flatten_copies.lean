@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_flatten_copies
 -- name    : Printed.flatten_copies
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:49:36.615504+00:00
 -- url     : https://prove2.me/theorems/8858b6ad-d7a7-45fb-be17-d43dfc360f0a

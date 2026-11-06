@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_needSuffices
 -- name    : QueryMachines.Bridge.needSuffices
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:17:44.043194+00:00
 -- url     : https://prove2.me/theorems/d89fee1c-a4a6-4f65-b055-4e8aeb6a9b13

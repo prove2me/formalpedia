@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_core_val
 -- name    : CircuitLowerBound.Clause.core_val
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:08:40.672068+00:00
 -- url     : https://prove2.me/theorems/fb62a0e4-eec6-4abe-a9fe-eaa3691731e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_NoAttain_proposition_4_26
 -- name    : GlynnSTS.NoAttain.proposition_4_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:09:39.749487+00:00
 -- url     : https://prove2.me/theorems/ad19e682-9d0a-4d8e-84c8-02c28f46db4a

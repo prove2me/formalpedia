@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_outputsAreFew
 -- name    : RecursionToBound.outputsAreFew
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:55:35.305858+00:00
 -- url     : https://prove2.me/theorems/b1d657a5-5c47-478f-a8dc-06eacda91604

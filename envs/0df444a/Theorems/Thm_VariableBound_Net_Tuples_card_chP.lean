@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tuples_card_chP
 -- name    : VariableBound.Net.Tuples.card_chP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:45:59.988198+00:00
 -- url     : https://prove2.me/theorems/dde97b29-d4bd-4923-afd8-82f28aad7491

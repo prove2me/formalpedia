@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_CertThCal_stCertThCal
 -- name    : StepSparsify.CertThCal.stCertThCal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:55.348553+00:00
 -- url     : https://prove2.me/theorems/736f9ffe-2268-4e6d-96b2-9a539fbbd919

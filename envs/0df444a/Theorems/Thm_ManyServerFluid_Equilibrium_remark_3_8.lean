@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerFluid_Equilibrium_remark_3_8
 -- name    : ManyServerFluid.Equilibrium.remark_3_8
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:51:11.613989+00:00
 -- url     : https://prove2.me/theorems/5aff9412-d6bb-48a9-bcf8-4a3f5b71e9b5

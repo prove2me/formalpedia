@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Blocks_wires_cons
 -- name    : CircuitLowerBound.Blocks.wires_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:09.504889+00:00
 -- url     : https://prove2.me/theorems/76afbcdb-c800-4264-bbaf-e4f9f31895fd

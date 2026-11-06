@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_stSized
 -- name    : VariableBound.Net.SizeP.stSized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:11.488017+00:00
 -- url     : https://prove2.me/theorems/0cb7f1d8-4319-4021-b0db-61ae3a974071

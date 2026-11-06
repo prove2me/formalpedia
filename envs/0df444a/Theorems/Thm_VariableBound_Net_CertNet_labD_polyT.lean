@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_CertNet_labD_polyT
 -- name    : VariableBound.Net.CertNet.labD_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:46.451896+00:00
 -- url     : https://prove2.me/theorems/13be1aca-389a-41ae-a065-0f1244b9e313

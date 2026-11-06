@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Prof_mu_le_of_match
 -- name    : VariableBound.Net.Prof.mu_le_of_match
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:44:03.082669+00:00
 -- url     : https://prove2.me/theorems/b180b0ad-ef2c-4688-b842-fa9c845ff813

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_fb_iff
 -- name    : CircuitLowerBound.TabF.fb_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:07:00.987742+00:00
 -- url     : https://prove2.me/theorems/ee2c49d0-50d1-4f6e-a94e-759cc70704df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_numbers_fold
 -- name    : ExplicitCost.numbers_fold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:51:30.362184+00:00
 -- url     : https://prove2.me/theorems/054c2637-83a5-46bb-bd99-ccd56c38618a

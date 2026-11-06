@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_wave7_06_original_intrinsic_negative_band_positive_horizon_poisson_law
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-03T08:51:18.811212+00:00
 -- url     : https://prove2.me/submissions/96e3dfaa-27d2-4ac1-9ba0-33839ebae434
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

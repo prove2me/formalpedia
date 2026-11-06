@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_zero_lt_levelG
 -- name    : Exits.zero_lt_levelG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:33:14.436971+00:00
 -- url     : https://prove2.me/theorems/ac6274e6-3611-4f5f-9d12-732a789e50e3

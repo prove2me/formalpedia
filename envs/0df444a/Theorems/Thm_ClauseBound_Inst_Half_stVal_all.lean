@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_stVal_all
 -- name    : ClauseBound.Inst.Half.stVal_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:54:56.226829+00:00
 -- url     : https://prove2.me/theorems/c1832a65-9234-425e-a65c-3e52064165f2

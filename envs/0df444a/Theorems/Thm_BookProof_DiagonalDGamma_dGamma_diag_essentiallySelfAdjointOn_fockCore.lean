@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DiagonalDGamma_dGamma_diag_essentiallySelfAdjointOn_fockCore
 -- name    : BookProof.DiagonalDGamma.dGamma_diag_essentiallySelfAdjointOn_fockCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:52:56.832908+00:00
 -- url     : https://prove2.me/theorems/32189274-4680-4bc1-8dcb-0e842bc0bb4b

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_drawing_face_certificate__p2m_9667c397_02c4_4afb_ad3c_3d8252f0b79d_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:26:35.472105+00:00
 -- url     : https://prove2.me/submissions/18a7a1cc-298f-47dd-85ee-f2c1ea092e56
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

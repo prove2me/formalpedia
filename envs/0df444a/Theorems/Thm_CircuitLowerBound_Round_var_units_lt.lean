@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_var_units_lt
 -- name    : CircuitLowerBound.Round.var_units_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:00:14.940424+00:00
 -- url     : https://prove2.me/theorems/341b145f-0d91-426d-8fe9-700ea9997e9c

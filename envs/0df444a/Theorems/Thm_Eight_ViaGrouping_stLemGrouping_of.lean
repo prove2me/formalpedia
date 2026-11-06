@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_stLemGrouping_of
 -- name    : Eight.ViaGrouping.stLemGrouping_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:04.271204+00:00
 -- url     : https://prove2.me/theorems/30486659-3ee0-47d7-8bf9-a14771c23840

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TikhonovHDD_Strong_theorem_4_4_case_II
 -- name    : TikhonovHDD.Strong.theorem_4_4_case_II
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:52.02047+00:00
 -- url     : https://prove2.me/theorems/ec1e2065-9986-407a-881e-9822f9a05383

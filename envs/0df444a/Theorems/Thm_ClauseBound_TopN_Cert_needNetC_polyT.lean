@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_TopN_Cert_needNetC_polyT
 -- name    : ClauseBound.TopN.Cert.needNetC_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:14:38.780565+00:00
 -- url     : https://prove2.me/theorems/568e149a-1906-46e0-90e1-085def575837

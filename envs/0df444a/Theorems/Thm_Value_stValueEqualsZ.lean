@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_stValueEqualsZ
 -- name    : Value.stValueEqualsZ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:54:45.146465+00:00
 -- url     : https://prove2.me/theorems/484c8490-daab-462b-a30a-09f0733fdc1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_sideWQ_poly
 -- name    : Printed.sideWQ_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:51:10.450323+00:00
 -- url     : https://prove2.me/theorems/5c14aca2-19df-4d80-b19f-f1f4d8127bcb

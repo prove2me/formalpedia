@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stAlgorithm
 -- name    : Exits.stAlgorithm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:46:18.237595+00:00
 -- url     : https://prove2.me/theorems/ee442089-0396-4f5e-b435-3a23852ccf95

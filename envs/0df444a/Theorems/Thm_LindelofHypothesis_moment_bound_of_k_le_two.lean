@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_moment_bound_of_k_le_two
 -- name    : LindelofHypothesis.moment_bound_of_k_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T16:48:22.068091+00:00
 -- url     : https://prove2.me/theorems/8e0dcb9b-2ac5-4a6c-b97d-728bbd57f907

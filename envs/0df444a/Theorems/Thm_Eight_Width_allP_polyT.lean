@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_allP_polyT
 -- name    : Eight.Width.allP_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:01:16.611209+00:00
 -- url     : https://prove2.me/theorems/a0f1339b-8b87-4749-963b-d73369d6eb89

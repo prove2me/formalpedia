@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_fibre_stabilizer_invariant
 -- name    : BookProof.ChapterMackeyGeneralBase.fibre_stabilizer_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:21.728519+00:00
 -- url     : https://prove2.me/theorems/2130fd5c-2482-4373-a04f-2134fe5accac

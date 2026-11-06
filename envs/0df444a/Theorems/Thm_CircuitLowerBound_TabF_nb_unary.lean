@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_nb_unary
 -- name    : CircuitLowerBound.TabF.nb_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:04:46.838656+00:00
 -- url     : https://prove2.me/theorems/9158aff9-bd9c-4543-b701-8fa8b6a12c27

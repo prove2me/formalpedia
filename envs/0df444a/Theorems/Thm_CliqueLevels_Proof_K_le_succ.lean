@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliqueLevels_Proof_K_le_succ
 -- name    : CliqueLevels.Proof.K_le_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:42:43.099136+00:00
 -- url     : https://prove2.me/theorems/03503740-bd9e-4051-8886-2e7d9f90ee3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Blocks_obeys_wires
 -- name    : CircuitLowerBound.Blocks.obeys_wires
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:34:53.042457+00:00
 -- url     : https://prove2.me/theorems/610157fb-80b7-4d01-9264-cf794c29b5ef

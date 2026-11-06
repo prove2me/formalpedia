@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_search_isPolyT
 -- name    : Exits.search_isPolyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:32:17.396338+00:00
 -- url     : https://prove2.me/theorems/a0568b1f-b1b5-4335-b3fb-f42519aa5ff7

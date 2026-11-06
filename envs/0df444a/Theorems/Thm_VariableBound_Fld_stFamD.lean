@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Fld_stFamD
 -- name    : VariableBound.Fld.stFamD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:55:55.682503+00:00
 -- url     : https://prove2.me/theorems/d9d5174f-115e-4bc9-b037-03b21ac2f1e8

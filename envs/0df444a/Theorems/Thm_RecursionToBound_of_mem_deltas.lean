@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_of_mem_deltas
 -- name    : RecursionToBound.of_mem_deltas
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:35.522256+00:00
 -- url     : https://prove2.me/theorems/ba9ffc4f-3bc8-4a0c-a5d0-e9db9b58bd7e

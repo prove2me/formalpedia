@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_Mirrors_within
 -- name    : ExplicitCost.Mirrors.within
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:47:08.750192+00:00
 -- url     : https://prove2.me/theorems/64b1131c-ebd7-48dc-82bb-88be59c0aa6e

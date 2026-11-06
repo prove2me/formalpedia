@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_KKT_kkt_nonneg_3_5
 -- name    : KallMayerSLP.KKT.kkt_nonneg_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:47.487994+00:00
 -- url     : https://prove2.me/theorems/7cf5a2fa-5dbe-4c92-8c0b-d1f8e4d553c9

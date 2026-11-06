@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapiroSDDP_Convergence_attainment
 -- name    : ShapiroSDDP.Convergence.attainment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:35:25.252587+00:00
 -- url     : https://prove2.me/theorems/eea19edb-8110-496f-81b4-87436639b97b

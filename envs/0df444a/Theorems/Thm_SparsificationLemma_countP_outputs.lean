@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_countP_outputs
 -- name    : SparsificationLemma.countP_outputs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:05.921374+00:00
 -- url     : https://prove2.me/theorems/86696c19-2511-43eb-9a23-d95acd10225f

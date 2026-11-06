@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_posBit_polyT
 -- name    : CircuitLowerBound.Clause.posBit_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:54:05.638202+00:00
 -- url     : https://prove2.me/theorems/19fcd8c3-8ca6-4cec-9834-d611f4c64b1d

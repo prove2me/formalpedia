@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_stCubic
 -- name    : Coding.stCubic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:51.351377+00:00
 -- url     : https://prove2.me/theorems/8fc18f6a-3449-4880-8d05-4108e3d4a45f

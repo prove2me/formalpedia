@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_seq_of_rate
 -- name    : PairsToBound.seq_of_rate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:00.687138+00:00
 -- url     : https://prove2.me/theorems/bd591dae-9274-41b0-8808-52d4fc344089

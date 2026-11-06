@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjExtremal_jensen_step
 -- name    : MinimaxSLP.ObjExtremal.jensen_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:14:53.051389+00:00
 -- url     : https://prove2.me/theorems/e5492c7f-8c50-4f71-95b9-070da2753782

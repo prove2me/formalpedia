@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoldieRenewal_Kesten_corollary_2_4
 -- name    : GoldieRenewal.Kesten.corollary_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:09:17.289466+00:00
 -- url     : https://prove2.me/theorems/026698f0-b272-4954-b5ed-1d739b5159a4

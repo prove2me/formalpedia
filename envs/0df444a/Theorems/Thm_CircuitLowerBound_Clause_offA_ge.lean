@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_offA_ge
 -- name    : CircuitLowerBound.Clause.offA_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:52:13.667507+00:00
 -- url     : https://prove2.me/theorems/c9a39ccf-4e79-4240-b946-28349d116724

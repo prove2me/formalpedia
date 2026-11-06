@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_bitsOfTables_le_len
 -- name    : QueryMachines.Bridge.Proof.bitsOfTables_le_len
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:35.570896+00:00
 -- url     : https://prove2.me/theorems/c433c5d9-96d2-4bd2-b51a-30f5bf157d3f

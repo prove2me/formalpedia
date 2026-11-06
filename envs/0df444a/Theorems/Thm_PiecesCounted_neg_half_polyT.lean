@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_neg_half_polyT
 -- name    : PiecesCounted.neg_half_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:02:45.072207+00:00
 -- url     : https://prove2.me/theorems/56c3c9a6-f4ef-486d-8ff4-f39b1349a579

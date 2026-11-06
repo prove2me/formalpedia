@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingStars_corollary_1_derivatives
 -- name    : PricingStars.corollary_1_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:29:37.817113+00:00
 -- url     : https://prove2.me/theorems/6b765b8b-74e5-4615-805c-0b2505fdae11

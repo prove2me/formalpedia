@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_room
 -- name    : CircuitLowerBound.room
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:04.62678+00:00
 -- url     : https://prove2.me/theorems/fdfc83f6-218e-4ad9-be63-938a844e542d

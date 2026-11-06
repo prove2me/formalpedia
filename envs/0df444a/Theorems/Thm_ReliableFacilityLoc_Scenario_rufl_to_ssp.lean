@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_Scenario_rufl_to_ssp
 -- name    : ReliableFacilityLoc.Scenario.rufl_to_ssp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:10:19.759978+00:00
 -- url     : https://prove2.me/theorems/fffe6c04-d4c5-4bdd-8dda-96517d99958f

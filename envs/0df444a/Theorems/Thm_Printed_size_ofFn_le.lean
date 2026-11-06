@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_size_ofFn_le
 -- name    : Printed.size_ofFn_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:49:40.067204+00:00
 -- url     : https://prove2.me/theorems/7bd379ce-3dff-4d70-b315-226957f315cf

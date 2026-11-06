@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Arith_const_le
 -- name    : VariableBound.Arith.const_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:56.534296+00:00
 -- url     : https://prove2.me/theorems/35b7ff2a-e237-4ee5-bed5-876ad9ee1ed6

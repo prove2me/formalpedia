@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DegEnergy_integral_dcoord_mul
 -- name    : BookProof.DegEnergy.integral_dcoord_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T09:18:51.162948+00:00
 -- url     : https://prove2.me/theorems/5b7a4d26-c95c-4abf-9caa-696fe738d16e

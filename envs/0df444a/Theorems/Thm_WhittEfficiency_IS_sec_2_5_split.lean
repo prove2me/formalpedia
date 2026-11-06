@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittEfficiency_IS_sec_2_5_split
 -- name    : WhittEfficiency.IS.sec_2_5_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:16.309282+00:00
 -- url     : https://prove2.me/theorems/b3635028-c50d-4d1d-88e8-7c15a0c5ef9c

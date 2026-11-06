@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_isNetworkP_mono_B
 -- name    : Eight.ViaGrouping.isNetworkP_mono_B
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:41.039197+00:00
 -- url     : https://prove2.me/theorems/cd703f37-8246-438e-b455-d5bebaf122a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_atWidthOr3_polyT
 -- name    : PairsToBound.atWidthOr3_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:55:30.006367+00:00
 -- url     : https://prove2.me/theorems/52c3cbd9-0286-464c-9a5a-4b46dd09102c

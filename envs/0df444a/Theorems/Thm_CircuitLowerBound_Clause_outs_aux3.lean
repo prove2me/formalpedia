@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_outs_aux3
 -- name    : CircuitLowerBound.Clause.outs_aux3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:55:37.893556+00:00
 -- url     : https://prove2.me/theorems/ebd57cb8-7430-4812-b8cc-4cb1dc280279

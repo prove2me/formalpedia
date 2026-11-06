@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Time_final_le
 -- name    : CircuitLowerBound.Time.final_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:46.423296+00:00
 -- url     : https://prove2.me/theorems/12658379-6768-43e6-9e5a-d04dcea533a7

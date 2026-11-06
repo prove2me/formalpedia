@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPECRelax_ScholtesConv_limit_weakly_stationary
 -- name    : MPECRelax.ScholtesConv.limit_weakly_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:52:02.128115+00:00
 -- url     : https://prove2.me/theorems/4b390281-ef91-4aa4-9bae-a120fdfd8711

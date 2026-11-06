@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_length_rest_le
 -- name    : CircuitLowerBound.TabF.length_rest_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:05:42.911135+00:00
 -- url     : https://prove2.me/theorems/fee02360-07ea-4dba-b40c-996ed43ab1e2

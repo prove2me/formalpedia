@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROOptimal_Predictor_eq_15
 -- name    : DROOptimal.Predictor.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:10:06.228461+00:00
 -- url     : https://prove2.me/theorems/4dcf687d-4062-4bb5-ae56-ec71b97362e8

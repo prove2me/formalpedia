@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_stPsiOK_gridPsi
 -- name    : Eight.ViaGrouping.stPsiOK_gridPsi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:09:12.517073+00:00
 -- url     : https://prove2.me/theorems/f6b73848-2c8c-4fa1-b848-ff1aba25c481

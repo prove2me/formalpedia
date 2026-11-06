@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_QueryMachine_sum_map_range
 -- name    : QueryMachines.QueryMachine.sum_map_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:45:18.420419+00:00
 -- url     : https://prove2.me/theorems/3523b636-bbc6-44d8-84d4-4413707f7498

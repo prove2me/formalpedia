@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_TreeWalk_sparsifies_tau
 -- name    : SparsificationLemma.TreeWalk.sparsifies_tau
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:43.117145+00:00
 -- url     : https://prove2.me/theorems/d6d0dc76-01c3-4aa7-abf6-1ca20c111838

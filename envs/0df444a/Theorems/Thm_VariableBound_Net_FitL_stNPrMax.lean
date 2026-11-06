@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_FitL_stNPrMax
 -- name    : VariableBound.Net.FitL.stNPrMax
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:19.665292+00:00
 -- url     : https://prove2.me/theorems/a26c3aae-6b84-4156-96c8-f310c19f3278

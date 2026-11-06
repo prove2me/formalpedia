@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.zero_reflectedSupValue_eq_barrierValue
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-27T15:33:34.536523+00:00
 -- url     : https://prove2.me/submissions/d6de330d-a090-4883-b983-00267aabfa48
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

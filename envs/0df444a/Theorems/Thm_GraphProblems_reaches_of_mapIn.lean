@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_reaches_of_mapIn
 -- name    : GraphProblems.reaches_of_mapIn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:22.682196+00:00
 -- url     : https://prove2.me/theorems/d6b03b8e-3a32-4b66-a319-c1cd98035df3

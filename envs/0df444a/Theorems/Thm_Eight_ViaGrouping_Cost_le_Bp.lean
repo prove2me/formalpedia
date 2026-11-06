@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_Cost_le_Bp
 -- name    : Eight.ViaGrouping.Cost.le_Bp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:22.613533+00:00
 -- url     : https://prove2.me/theorems/866463bb-ecfa-4d54-a602-da1a19a25627

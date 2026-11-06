@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_StrongCvx_prop9_b_bounds
 -- name    : OTDRO.StrongCvx.prop9_b_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:12:22.640855+00:00
 -- url     : https://prove2.me/theorems/6c5ca8e6-2e57-468c-9370-1d3f691775cc

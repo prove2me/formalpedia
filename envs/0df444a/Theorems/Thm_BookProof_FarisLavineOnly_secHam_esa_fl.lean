@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FarisLavineOnly_secHam_esa_fl
 -- name    : BookProof.FarisLavineOnly.secHam_esa_fl
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:53:35.856746+00:00
 -- url     : https://prove2.me/theorems/32b7f999-36ec-4350-b3b3-4f66a15648db

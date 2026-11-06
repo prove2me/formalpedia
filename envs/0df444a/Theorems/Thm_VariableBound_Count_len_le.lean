@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_len_le
 -- name    : VariableBound.Count.len_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:57.619448+00:00
 -- url     : https://prove2.me/theorems/e75ae6ba-dd15-452d-9529-6fc6496c5062

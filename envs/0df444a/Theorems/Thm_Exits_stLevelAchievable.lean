@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stLevelAchievable
 -- name    : Exits.stLevelAchievable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:46:39.069429+00:00
 -- url     : https://prove2.me/theorems/060982e2-0be1-4803-9910-2d60ad6e7de8

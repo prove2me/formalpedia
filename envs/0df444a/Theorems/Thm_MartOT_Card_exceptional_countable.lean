@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Card_exceptional_countable
 -- name    : MartOT.Card.exceptional_countable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:25.117886+00:00
 -- url     : https://prove2.me/theorems/7c89c443-48e1-45f7-8815-35e4f3e4bffb

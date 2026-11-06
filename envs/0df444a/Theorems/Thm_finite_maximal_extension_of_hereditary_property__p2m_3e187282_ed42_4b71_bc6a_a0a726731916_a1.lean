@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_maximal_extension_of_hereditary_property__p2m_3e187282_ed42_4b71_bc6a_a0a726731916_a1
 -- name    : finite_maximal_extension_of_hereditary_property__p2m_3e187282_ed42_4b71_bc6a_a0a726731916_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:05:38.187219+00:00
 -- url     : https://prove2.me/theorems/67bd6668-a3be-4f37-b3da-343480d288a1

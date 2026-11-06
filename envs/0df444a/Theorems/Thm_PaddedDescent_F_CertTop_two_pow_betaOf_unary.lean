@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaddedDescent_F_CertTop_two_pow_betaOf_unary
 -- name    : PaddedDescent.F.CertTop.two_pow_betaOf_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:40:30.965302+00:00
 -- url     : https://prove2.me/theorems/07d52396-83fe-4542-b777-b809c62de009

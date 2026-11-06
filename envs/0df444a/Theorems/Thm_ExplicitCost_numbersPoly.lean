@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_numbersPoly
 -- name    : ExplicitCost.numbersPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:51:44.941396+00:00
 -- url     : https://prove2.me/theorems/a197b2cd-9bd5-4545-8685-9355d8d5c811

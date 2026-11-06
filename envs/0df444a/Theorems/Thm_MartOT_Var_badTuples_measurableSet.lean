@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Var_badTuples_measurableSet
 -- name    : MartOT.Var.badTuples_measurableSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:16.040709+00:00
 -- url     : https://prove2.me/theorems/0b672aa4-bd2a-41b1-a828-b9700a3715aa

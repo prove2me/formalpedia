@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_Optimality_separation
 -- name    : BootRobust.Optimality.separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:29.419983+00:00
 -- url     : https://prove2.me/theorems/48cbf2d6-3a36-46e1-9a8a-ceedf0182c26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_splitAll_sound
 -- name    : Eight.Width.splitAll_sound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:46:42.88858+00:00
 -- url     : https://prove2.me/theorems/24bfa832-e2cf-48bb-84cc-daea220f8f02

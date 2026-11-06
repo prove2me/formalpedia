@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DegEnergy_dcoord_cx_sq
 -- name    : BookProof.DegEnergy.dcoord_cx_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T09:20:42.968593+00:00
 -- url     : https://prove2.me/theorems/824507c2-5ca2-444e-9f21-fda890514958

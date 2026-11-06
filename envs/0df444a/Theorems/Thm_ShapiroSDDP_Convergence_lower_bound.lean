@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapiroSDDP_Convergence_lower_bound
 -- name    : ShapiroSDDP.Convergence.lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:35:13.109602+00:00
 -- url     : https://prove2.me/theorems/1545549a-b0fa-4539-a875-e468208227e5

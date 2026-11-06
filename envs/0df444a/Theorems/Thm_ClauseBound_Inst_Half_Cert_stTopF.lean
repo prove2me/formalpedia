@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_Cert_stTopF
 -- name    : ClauseBound.Inst.Half.Cert.stTopF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:23:29.52058+00:00
 -- url     : https://prove2.me/theorems/be8efb9f-a868-46d3-98ce-713396643dac

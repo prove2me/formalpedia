@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrWardrop_saddle_exchange
 -- name    : CorrWardrop.saddle_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:29:18.616421+00:00
 -- url     : https://prove2.me/theorems/6c9008f4-ef6e-4fb5-8357-07d97c704372

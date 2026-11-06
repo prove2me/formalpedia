@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_out_of_stack
 -- name    : SparsificationLemma.Mach.out_of_stack
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:49.428005+00:00
 -- url     : https://prove2.me/theorems/ea939dc8-a88d-4de8-b3fd-5f526cc40138

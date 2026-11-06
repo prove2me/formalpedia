@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_ConnectedJoin_minimal_tjoin_paths
 -- name    : MetricGenerators.ConnectedJoin.minimal_tjoin_paths
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:49:44.319468+00:00
 -- url     : https://prove2.me/theorems/4b77205d-5da4-4f92-8c10-23df93edac9f

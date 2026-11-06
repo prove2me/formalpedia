@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_chunkL_polyT
 -- name    : ExplicitCost.chunkL_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:56:16.786199+00:00
 -- url     : https://prove2.me/theorems/9780561d-b0d7-47bf-aaf3-ff666744ef5f

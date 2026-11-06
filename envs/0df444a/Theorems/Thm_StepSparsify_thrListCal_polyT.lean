@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_thrListCal_polyT
 -- name    : StepSparsify.thrListCal_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:54:18.903244+00:00
 -- url     : https://prove2.me/theorems/cc8c4330-9c0f-489f-9d84-d6089eb52ed5

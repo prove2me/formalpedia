@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Restart_time_le
 -- name    : CircuitLowerBound.Restart.time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:20.823205+00:00
 -- url     : https://prove2.me/theorems/44d17442-2d50-4393-8eca-5dd77cb02518

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_correct_of_searchStops
 -- name    : Exits.correct_of_searchStops
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:33:44.320775+00:00
 -- url     : https://prove2.me/theorems/e0a37024-c5a2-4a24-ac5d-5b6a9db0acf8

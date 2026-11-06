@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_levelLoop_poly
 -- name    : Printed.levelLoop_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:53:34.633088+00:00
 -- url     : https://prove2.me/theorems/b7d5d840-2097-4818-8d69-267fb848d47e

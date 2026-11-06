@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLIAG_condition_4_4
 -- name    : PLIAG.condition_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:27:42.733539+00:00
 -- url     : https://prove2.me/theorems/b1d26cfb-2456-4dda-8c62-2225bb67917d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_CLIQUEp_within
 -- name    : Eight.ViaGrouping.CLIQUEp_within
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:23:44.660981+00:00
 -- url     : https://prove2.me/theorems/b49b4145-d8b4-42db-b472-35fd68f58371

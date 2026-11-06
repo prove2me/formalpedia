@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_eStar_nonneg
 -- name    : Printed.eStar_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:57:30.5007+00:00
 -- url     : https://prove2.me/theorems/2ad0565f-ee69-4d84-8d27-799a5e216697

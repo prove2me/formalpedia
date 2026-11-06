@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertNum_numC_aux
 -- name    : ClauseBound.ParityChecks.CertNum.numC_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:20:45.521686+00:00
 -- url     : https://prove2.me/theorems/0a3e9579-885d-4ca1-81e3-c53702e00309

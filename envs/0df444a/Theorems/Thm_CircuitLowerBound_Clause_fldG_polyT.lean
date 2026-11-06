@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_fldG_polyT
 -- name    : CircuitLowerBound.Clause.fldG_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:53:36.42785+00:00
 -- url     : https://prove2.me/theorems/2535d4df-acac-4246-9f62-a8436540ef36

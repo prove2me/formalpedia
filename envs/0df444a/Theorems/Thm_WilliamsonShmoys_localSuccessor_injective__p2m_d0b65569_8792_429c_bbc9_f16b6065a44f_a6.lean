@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_localSuccessor_injective__p2m_d0b65569_8792_429c_bbc9_f16b6065a44f_a6
 -- name    : WilliamsonShmoys.localSuccessor_injective__p2m_d0b65569_8792_429c_bbc9_f16b6065a44f_a6
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:57:46.803014+00:00
 -- url     : https://prove2.me/theorems/301dfd88-1ad9-4d38-853e-110aa7bd5eba

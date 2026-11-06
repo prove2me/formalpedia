@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_stCertSched
 -- name    : CircuitLowerBound.stCertSched
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:13:09.250623+00:00
 -- url     : https://prove2.me/theorems/4c0b7f67-f4f0-46fd-9a1d-fdad07f5a95f

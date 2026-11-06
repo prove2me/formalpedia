@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_stUnchanged
 -- name    : SparsificationLemma.stUnchanged
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:37.486929+00:00
 -- url     : https://prove2.me/theorems/d61e4014-bfc9-45fa-a5ad-1dcd06869219

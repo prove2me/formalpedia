@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_total_mono
 -- name    : SparsificationLemma.Mach.total_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:55.105351+00:00
 -- url     : https://prove2.me/theorems/e7171ff4-323a-4fd3-8ecc-f06521aaafd5

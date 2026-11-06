@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_Count_count_first
 -- name    : GeneralPieces.Count.count_first
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:30.542459+00:00
 -- url     : https://prove2.me/theorems/db615132-5bbc-4282-acf1-2dc8390cb66d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_nF_eq
 -- name    : CircuitLowerBound.Form.nF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:59:30.644206+00:00
 -- url     : https://prove2.me/theorems/df3e9c6f-6537-4eac-94ff-88c7832f056a

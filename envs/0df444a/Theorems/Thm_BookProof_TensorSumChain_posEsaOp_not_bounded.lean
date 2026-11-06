@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TensorSumChain_posEsaOp_not_bounded
 -- name    : BookProof.TensorSumChain.posEsaOp_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T15:11:54.039691+00:00
 -- url     : https://prove2.me/theorems/ffc83c3b-08fd-4145-b2c5-7d18ae6cd1c8

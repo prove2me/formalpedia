@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Pack_qval_lt
 -- name    : CircuitLowerBound.Pack.qval_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:51.715259+00:00
 -- url     : https://prove2.me/theorems/18c3f42a-77b5-4718-896f-bbe495610f49

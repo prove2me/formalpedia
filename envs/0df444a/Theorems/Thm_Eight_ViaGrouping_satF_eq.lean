@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_satF_eq
 -- name    : Eight.ViaGrouping.satF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:47.712118+00:00
 -- url     : https://prove2.me/theorems/c5b61e70-6198-4558-9045-c15a50356f05

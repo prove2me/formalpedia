@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_stENP
 -- name    : CircuitLowerBound.stENP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:16.921366+00:00
 -- url     : https://prove2.me/theorems/9e8522bf-d9a4-49d0-8195-7a53a940c3ed

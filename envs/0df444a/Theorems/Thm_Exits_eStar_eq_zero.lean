@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_eStar_eq_zero
 -- name    : Exits.eStar_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:46:37.955687+00:00
 -- url     : https://prove2.me/theorems/4fdd9c36-0d06-4ef0-940c-d7f4f4fbed28

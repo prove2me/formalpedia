@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Geo_works_of_cube
 -- name    : SparsificationLemma.Geo.works_of_cube
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:16.880854+00:00
 -- url     : https://prove2.me/theorems/ffa71839-0228-4eae-af51-7e09aee329d7

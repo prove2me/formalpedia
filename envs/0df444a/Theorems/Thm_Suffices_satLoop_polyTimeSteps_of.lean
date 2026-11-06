@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_satLoop_polyTimeSteps_of
 -- name    : Suffices.satLoop_polyTimeSteps_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:32:37.081985+00:00
 -- url     : https://prove2.me/theorems/45ecc56b-a699-4fa7-9228-ab1ece6b4c2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_restr_padOcc
 -- name    : Coding.restr_padOcc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:04.471355+00:00
 -- url     : https://prove2.me/theorems/ce8079ee-dfa4-4e7a-a648-fc67c57ca024

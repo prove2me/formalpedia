@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingStars_explicit_inference
 -- name    : PricingStars.explicit_inference
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:30:15.02009+00:00
 -- url     : https://prove2.me/theorems/4a3051bf-c3dd-41b6-b9ad-b38d11a6a478

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_dq_le_dSum
 -- name    : CircuitLowerBound.Clause.dq_le_dSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:56:18.215612+00:00
 -- url     : https://prove2.me/theorems/2d61527b-f33b-47d3-90da-af876b19c0f5

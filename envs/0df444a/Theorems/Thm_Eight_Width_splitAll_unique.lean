@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_splitAll_unique
 -- name    : Eight.Width.splitAll_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:46:49.606584+00:00
 -- url     : https://prove2.me/theorems/31515eb4-3481-40a0-82cf-72e8d4ab06fa

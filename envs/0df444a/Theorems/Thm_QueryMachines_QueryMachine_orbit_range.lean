@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_QueryMachine_orbit_range
 -- name    : QueryMachines.QueryMachine.orbit_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:45:06.424773+00:00
 -- url     : https://prove2.me/theorems/e44f7eab-71d9-46bc-96ec-1ce35a77ecd8

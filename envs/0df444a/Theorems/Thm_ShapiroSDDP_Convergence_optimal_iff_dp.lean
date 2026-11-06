@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapiroSDDP_Convergence_optimal_iff_dp
 -- name    : ShapiroSDDP.Convergence.optimal_iff_dp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:36:47.059764+00:00
 -- url     : https://prove2.me/theorems/5b4fc128-f40a-4b9a-b838-4be3ab81829f

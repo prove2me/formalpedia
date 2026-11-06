@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TabooRegen_uniform_convergence_4_2
 -- name    : TabooRegen.uniform_convergence_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:27:38.790849+00:00
 -- url     : https://prove2.me/theorems/ad51b63d-693e-4524-a2d5-85fd1e43b7e8

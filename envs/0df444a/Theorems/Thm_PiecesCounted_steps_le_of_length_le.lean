@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_steps_le_of_length_le
 -- name    : PiecesCounted.steps_le_of_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:39.820463+00:00
 -- url     : https://prove2.me/theorems/37c58622-4bb0-432b-8e12-0a5cad546b60

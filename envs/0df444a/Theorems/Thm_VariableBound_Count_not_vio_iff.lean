@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_not_vio_iff
 -- name    : VariableBound.Count.not_vio_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:49.481207+00:00
 -- url     : https://prove2.me/theorems/28a06697-fe58-4ddd-919d-2e7f83b88fbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_toWord_eq_map
 -- name    : PairsToBound.toWord_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:41.982222+00:00
 -- url     : https://prove2.me/theorems/c050fb8a-23c7-4f2b-8581-dcf7d75618e3

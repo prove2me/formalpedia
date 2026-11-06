@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_needNetC_eq_some
 -- name    : RecursionToBound.needNetC_eq_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:29.314208+00:00
 -- url     : https://prove2.me/theorems/361512a9-435b-42c5-a6be-e5f63fed0ef7

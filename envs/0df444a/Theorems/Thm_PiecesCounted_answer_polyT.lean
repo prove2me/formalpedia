@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_answer_polyT
 -- name    : PiecesCounted.answer_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:44.217665+00:00
 -- url     : https://prove2.me/theorems/95710509-ffe6-4f8b-9f07-e251bced706f

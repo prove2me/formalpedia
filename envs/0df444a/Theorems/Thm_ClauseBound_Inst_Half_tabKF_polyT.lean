@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_tabKF_polyT
 -- name    : ClauseBound.Inst.Half.tabKF_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:40:26.279208+00:00
 -- url     : https://prove2.me/theorems/fa05e9bb-053c-4925-9052-4ea40e87fb74

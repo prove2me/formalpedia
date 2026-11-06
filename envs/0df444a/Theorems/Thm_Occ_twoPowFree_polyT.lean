@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Occ_twoPowFree_polyT
 -- name    : Occ.twoPowFree_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:49.764501+00:00
 -- url     : https://prove2.me/theorems/91f74121-49a3-4dea-84b4-a17d59f8c782

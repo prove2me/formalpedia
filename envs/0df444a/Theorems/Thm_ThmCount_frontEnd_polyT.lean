@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_frontEnd_polyT
 -- name    : ThmCount.frontEnd_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:54.88178+00:00
 -- url     : https://prove2.me/theorems/63a63c04-bbd8-4f2b-bc35-27968cc2de04

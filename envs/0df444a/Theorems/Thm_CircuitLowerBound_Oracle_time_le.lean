@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_time_le
 -- name    : CircuitLowerBound.Oracle.time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:47:06.584288+00:00
 -- url     : https://prove2.me/theorems/9f050822-498c-48bd-aeea-098924644964

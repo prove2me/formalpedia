@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_sum_cntN
 -- name    : SparsificationLemma.sum_cntN
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:50.83279+00:00
 -- url     : https://prove2.me/theorems/4b8f456f-68d4-4f98-907e-bc7368a1adbb

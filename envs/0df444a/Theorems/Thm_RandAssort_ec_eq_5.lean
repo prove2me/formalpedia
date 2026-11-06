@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandAssort_ec_eq_5
 -- name    : RandAssort.ec_eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T10:31:51.799319+00:00
 -- url     : https://prove2.me/theorems/1ed3af38-c49b-4804-8248-8621e0f4bc20

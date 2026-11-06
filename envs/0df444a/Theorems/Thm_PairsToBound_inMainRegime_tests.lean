@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_inMainRegime_tests
 -- name    : PairsToBound.inMainRegime_tests
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:20.992881+00:00
 -- url     : https://prove2.me/theorems/5a595415-620e-4cda-92ef-7f6f6aa65da9

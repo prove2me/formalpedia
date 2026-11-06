@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_check_out
 -- name    : CircuitLowerBound.Form.check_out
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:58:12.212195+00:00
 -- url     : https://prove2.me/theorems/5e3102de-05af-4315-8416-93f59848c4ba

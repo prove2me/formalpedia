@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_WorstCase_maximizers_bounded
 -- name    : OTDRO.WorstCase.maximizers_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:05:21.252767+00:00
 -- url     : https://prove2.me/theorems/a958600e-4496-445f-8f6c-a5677e04bf00

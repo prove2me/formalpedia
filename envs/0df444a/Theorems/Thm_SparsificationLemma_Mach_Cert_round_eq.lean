@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_Cert_round_eq
 -- name    : SparsificationLemma.Mach.Cert.round_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:20.284416+00:00
 -- url     : https://prove2.me/theorems/0896aa28-a074-4253-8ce1-018fee53e896

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_StepSparsify_count_eq_sum
 -- name    : SparsificationLemma.StepSparsify.count_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:54:42.514316+00:00
 -- url     : https://prove2.me/theorems/51525429-2c3d-4dcc-aba2-f58c1e17e0ea

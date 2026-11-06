@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Occ_numOcc_polyT
 -- name    : Occ.numOcc_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:32.805264+00:00
 -- url     : https://prove2.me/theorems/90ed07da-1b23-4faa-b149-a8fce9e230af

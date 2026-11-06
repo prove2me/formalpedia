@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsayQF_NoCommit_nc_production
 -- name    : TsayQF.NoCommit.nc_production
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:27.476981+00:00
 -- url     : https://prove2.me/theorems/ed43feac-2a3a-4d3d-b472-9d1ab6c8c785

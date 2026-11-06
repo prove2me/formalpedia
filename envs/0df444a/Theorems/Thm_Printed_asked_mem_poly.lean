@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_asked_mem_poly
 -- name    : Printed.asked_mem_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:41:50.267196+00:00
 -- url     : https://prove2.me/theorems/c34fed3e-d9bf-44e8-942b-b9fed2878715

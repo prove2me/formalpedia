@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliqueLevels_Proof_bound_mono
 -- name    : CliqueLevels.Proof.bound_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:43:47.335108+00:00
 -- url     : https://prove2.me/theorems/e37180a6-d212-4d38-b526-b7efb4291909

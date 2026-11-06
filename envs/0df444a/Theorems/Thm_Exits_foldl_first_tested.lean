@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_foldl_first_tested
 -- name    : Exits.foldl_first_tested
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:45:34.224551+00:00
 -- url     : https://prove2.me/theorems/50722519-34fc-4c48-b725-048b406bcb21

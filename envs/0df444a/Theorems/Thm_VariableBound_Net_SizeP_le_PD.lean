@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_le_PD
 -- name    : VariableBound.Net.SizeP.le_PD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:05.057794+00:00
 -- url     : https://prove2.me/theorems/0cd39cb8-aa38-4414-9ded-358bf24d893a

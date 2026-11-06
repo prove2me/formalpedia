@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertTopOL_clog_polyT
 -- name    : ClauseBound.ParityChecks.CertTopOL.clog_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:31:44.00509+00:00
 -- url     : https://prove2.me/theorems/e76517d2-35f3-404f-950f-e0018ef3ca7f

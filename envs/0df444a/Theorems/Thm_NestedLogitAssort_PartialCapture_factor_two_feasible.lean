@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitAssort_PartialCapture_factor_two_feasible
 -- name    : NestedLogitAssort.PartialCapture.factor_two_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:53:21.726428+00:00
 -- url     : https://prove2.me/theorems/d9ad5a80-b01d-47fe-9389-8cad7050ff39

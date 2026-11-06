@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_DeltaOf_eq
 -- name    : RecursionToBound.DeltaOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:12:42.170625+00:00
 -- url     : https://prove2.me/theorems/6bdd4064-6c7f-4e3f-910e-a19734c81e74

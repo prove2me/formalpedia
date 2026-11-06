@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_splitAll_map
 -- name    : Eight.Width.splitAll_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:01:42.690416+00:00
 -- url     : https://prove2.me/theorems/7d2156a3-2738-48d8-b731-f202c4d0a3ac

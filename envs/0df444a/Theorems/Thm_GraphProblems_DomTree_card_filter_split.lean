@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_DomTree_card_filter_split
 -- name    : GraphProblems.DomTree.card_filter_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:02:32.266906+00:00
 -- url     : https://prove2.me/theorems/8e9ec287-253b-4cd4-a10c-2aacf151ad53

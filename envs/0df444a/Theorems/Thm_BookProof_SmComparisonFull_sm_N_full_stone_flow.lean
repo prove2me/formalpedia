@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmComparisonFull_sm_N_full_stone_flow
 -- name    : BookProof.SmComparisonFull.sm_N_full_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T17:55:36.949741+00:00
 -- url     : https://prove2.me/theorems/61293715-c550-4f86-906a-82f06564edf2

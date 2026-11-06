@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingStars_lemma_1
 -- name    : PricingStars.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:30:15.061179+00:00
 -- url     : https://prove2.me/theorems/f16e26fb-daf0-470d-ae78-de4ab550130b

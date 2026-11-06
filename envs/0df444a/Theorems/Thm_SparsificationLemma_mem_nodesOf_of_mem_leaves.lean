@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_mem_nodesOf_of_mem_leaves
 -- name    : SparsificationLemma.mem_nodesOf_of_mem_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:54:18.684256+00:00
 -- url     : https://prove2.me/theorems/5f738207-1d36-419c-ba59-bbf27b4d91f3

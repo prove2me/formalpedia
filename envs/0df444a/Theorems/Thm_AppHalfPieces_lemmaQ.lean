@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppHalfPieces_lemmaQ
 -- name    : AppHalfPieces.lemmaQ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:56:05.72596+00:00
 -- url     : https://prove2.me/theorems/a483563b-8a8a-4c44-ad26-da58aac74506

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DegEnergy_energy_bound
 -- name    : BookProof.DegEnergy.energy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T09:19:10.404206+00:00
 -- url     : https://prove2.me/theorems/23f52b60-716b-4b01-a039-c8feffa89e7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Basic_tch_lt
 -- name    : VariableBound.Net.Basic.tch_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:44:18.53549+00:00
 -- url     : https://prove2.me/theorems/7d35cd1a-b8db-47b9-abef-3a44311d5a8f

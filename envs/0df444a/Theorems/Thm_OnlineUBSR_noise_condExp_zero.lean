@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineUBSR_noise_condExp_zero
 -- name    : OnlineUBSR.noise_condExp_zero
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:19:54.670987+00:00
 -- url     : https://prove2.me/theorems/3292ba46-2cda-4a2a-8456-7bf3877242a9

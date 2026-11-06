@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Arith_test3
 -- name    : VariableBound.Arith.test3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:35.299533+00:00
 -- url     : https://prove2.me/theorems/5853d10f-fb98-4446-8015-6cf83390712f

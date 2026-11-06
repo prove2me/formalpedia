@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsSDP_Qval_eq_max_extreme_points
 -- name    : MinimaxSLP.RhsSDP.Qval_eq_max_extreme_points
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:16:33.854768+00:00
 -- url     : https://prove2.me/theorems/48a47de7-b64d-4ab9-8eef-773eb055d4c9

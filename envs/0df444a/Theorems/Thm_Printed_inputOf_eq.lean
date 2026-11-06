@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_inputOf_eq
 -- name    : Printed.inputOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:50:31.419548+00:00
 -- url     : https://prove2.me/theorems/51f839ca-6575-42c8-8ece-fcfbaba46eb7

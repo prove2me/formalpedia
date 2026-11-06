@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_edge_bounds_large__p2m_798c5648_bc79_4a8b_aaf2_40b61aa85372_a1
 -- name    : WilliamsonShmoys.component_edge_bounds_large__p2m_798c5648_bc79_4a8b_aaf2_40b61aa85372_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:43:06.860333+00:00
 -- url     : https://prove2.me/theorems/6a70bc9e-bafc-44c9-9e52-5ddfb96b8782

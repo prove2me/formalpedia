@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Variance_stMean
 -- name    : Variance.stMean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:34:17.95197+00:00
 -- url     : https://prove2.me/theorems/7427cfb5-c96c-4d90-b9e9-617be28d6b96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_tables_eq_some
 -- name    : Printed.tables_eq_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:56:56.365508+00:00
 -- url     : https://prove2.me/theorems/afe18ff1-3f59-4cc1-87d4-f694fa971104

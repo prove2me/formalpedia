@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_mackeyMap_smul
 -- name    : BookProof.ChapterMackeyGeneralBase.mackeyMap_smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:47.927939+00:00
 -- url     : https://prove2.me/theorems/b1a105db-0544-4ac4-8a80-8c158ee99943

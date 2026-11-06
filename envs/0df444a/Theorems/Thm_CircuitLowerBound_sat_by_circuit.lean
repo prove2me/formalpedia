@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_sat_by_circuit
 -- name    : CircuitLowerBound.sat_by_circuit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:46.618355+00:00
 -- url     : https://prove2.me/theorems/2b5c80ee-879c-406e-80c0-edf4c78ab2a1

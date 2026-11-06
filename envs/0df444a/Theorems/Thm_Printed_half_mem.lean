@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_half_mem
 -- name    : Printed.half_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:57:28.35076+00:00
 -- url     : https://prove2.me/theorems/a22afa07-758e-4bc2-b1f7-66dae95ee8e4

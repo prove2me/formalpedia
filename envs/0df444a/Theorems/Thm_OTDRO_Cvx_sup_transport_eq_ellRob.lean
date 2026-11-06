@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_Cvx_sup_transport_eq_ellRob
 -- name    : OTDRO.Cvx.sup_transport_eq_ellRob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:08:18.246982+00:00
 -- url     : https://prove2.me/theorems/4ef00d75-0a6e-4065-aa2d-d38891d54202

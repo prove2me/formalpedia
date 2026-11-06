@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_answerOf_eight
 -- name    : PiecesCounted.answerOf_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:11:50.515205+00:00
 -- url     : https://prove2.me/theorems/66e95711-6096-4d8b-9863-9222c5a07d32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelNewtonDinkelbach_lookahead_success_slope_bound
 -- name    : AccelNewtonDinkelbach.lookahead_success_slope_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:17:00.655627+00:00
 -- url     : https://prove2.me/theorems/c47a91d4-a881-41fc-aa2f-070d1ee84873

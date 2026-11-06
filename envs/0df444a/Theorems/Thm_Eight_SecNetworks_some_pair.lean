@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_SecNetworks_some_pair
 -- name    : Eight.SecNetworks.some_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:53:19.482194+00:00
 -- url     : https://prove2.me/theorems/b06ff412-812d-4dd4-865c-1b0dfd9aa6bf

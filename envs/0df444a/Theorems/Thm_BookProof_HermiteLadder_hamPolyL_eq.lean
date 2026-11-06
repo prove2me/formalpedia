@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteLadder_hamPolyL_eq
 -- name    : BookProof.HermiteLadder.hamPolyL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T14:45:49.8432+00:00
 -- url     : https://prove2.me/theorems/da464671-3fa5-449f-afc0-43cd21ce41c5

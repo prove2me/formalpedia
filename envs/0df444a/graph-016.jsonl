@@ -817,7 +817,7 @@
 {"parent": "ThreeSum.LightWeightedGlobalPostSelection.program_eq_closed", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedGlobalPostSelection.program_eq_closed", "child": "Submission_Weighted_Global_LightTernaryPostSelection", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedGlobalPostSelection.program_eq_closed", "child": "ThreeSum.LightWeightedGlobalMomentReporter.program_eq_closed", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.IntegerIntervals.RBox.scale_check_e", "child": "OAIQ098E030", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.IntegerIntervals.RBox.scale_check_e", "child": "OAIQ098E030", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalParameterBounds.threshold_bound", "child": "Submission_ThreeSum_LightLocalParameters", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalParameterBounds.threshold_bound", "child": "Submission_ThreeSum_LocalParameterBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalParameterBounds.threshold_bound", "child": "Submission_ThreeSum_Scales", "via": ["solution", "statement"]}
@@ -893,7 +893,7 @@
 {"parent": "WeightedCache3SUM_Alias_8a1bc378764c1bfd", "child": "ThreeSum.Radix.representations_card_le_w3sum_ac885d1", "via": ["statement"]}
 {"parent": "WeightedCache3SUM_Alias_0166cf50b135e31f", "child": "ThreeSum.SharedReportingBankResourceBounds.resources_w3sum_ac885d1", "via": ["statement"]}
 {"parent": "ThreeSum.TernarySignedDigits.addition_has_carry", "child": "Submission_ThreeSum_TernarySignedDigits", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.complexV_disk_bound_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.complexV_disk_bound_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_c_borel_original_expected_measure_sigma_finite_additive_package", "child": "AvramDividend.Classical.avram_p2_c_borel_original_expected_mark_measure_sigma_finite_all_horizons", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_c_borel_original_expected_measure_sigma_finite_additive_package", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_c_borel_original_expected_measure_sigma_finite_additive_package", "child": "AvramDividend.Classical.avram_p2_c_borel_original_additive_mean_measure_negative_support", "via": ["solution", "statement"]}
@@ -964,10 +964,10 @@
 {"parent": "ThreeSum.WeightedGlobalOversizeOverhead.moment_limit_lt_allowance", "child": "Submission_Weighted_Global_TernaryOversizeRates", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalOversizeOverhead.moment_limit_lt_allowance", "child": "Submission_Weighted_Global_TernaryRadixOverhead", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalOversizeOverhead.moment_limit_lt_allowance", "child": "Submission_Weighted_Global_TernaryOversizeOverhead", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.IntegerIntervals.CBox.scale_check_e", "child": "OAIQ098E030", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.IntegerIntervals.CBox.scale_check_e", "child": "OAIQ098E030", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.UniformStageBounds.workBudget_powerBound", "child": "Submission_ThreeSum_UniformStageBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.UniformStageBounds.workBudget_powerBound", "child": "Submission_ThreeSum_StageBounds", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.fejer_exact_monomial_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.fejer_exact_monomial_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.h_pos_e", "child": "OAIQ098E001", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightSignedLeaf.time_bound", "child": "WeightedCache3SUM_Alias_c2a1891cab57c5b2", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightSignedLeaf.time_bound", "child": "ThreeSum.LightSubsetSetup.time_bound", "via": ["solution", "statement"]}
@@ -1798,8 +1798,8 @@
 {"parent": "ThreeSum.LightStageLookup.meets_w3sum_ac885d1", "child": "WeightedCache3SUM_Alias_d110f06b53aa1a96", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightStageLookup.meets_w3sum_ac885d1", "child": "Submission_ThreeSum_LightZetaStages", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightStageLookup.meets_w3sum_ac885d1", "child": "Submission_ThreeSum_LightDownsetAddress", "via": ["solution", "statement"]}
-{"parent": "BookProof.NsCutoffUniformity.norm_coeff_redFormPoly_le", "child": "ChapterNsCutoffUniformity", "via": ["statement"]}
-{"parent": "BookProof.NsCutoffUniformity.norm_coeff_redFormPoly_le", "child": "ChapterNavierStokesFullEulerianFock", "via": ["statement"]}
+{"parent": "BookProof.NsCutoffUniformity.norm_coeff_redFormPoly_le", "child": "ChapterNsCutoffUniformity", "via": ["solution", "statement"]}
+{"parent": "BookProof.NsCutoffUniformity.norm_coeff_redFormPoly_le", "child": "ChapterNavierStokesFullEulerianFock", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightReportingPositiveMasks.selected_index_lt", "child": "Submission_ThreeSum_LightReportingGatherPair", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightReportingPositiveMasks.selected_index_lt", "child": "Submission_ThreeSum_ReportingHostPositive", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightReportingPositiveMasks.selected_index_lt", "child": "Submission_ThreeSum_LightReportingPositiveMasks", "via": ["solution", "statement"]}
@@ -2682,8 +2682,8 @@
 {"parent": "ThreeSum.LocalCoverBounds.badCount_le_localPrime", "child": "Submission_ThreeSum_LayerCounts", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalCoverBounds.badCount_le_localPrime", "child": "Submission_ThreeSum_LocalCoverBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedEnumeration.visits_le", "child": "Submission_Weighted_Enumeration", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.IntegerIntervals.exp_small_error_e", "child": "OAIQ098E017", "via": ["statement"]}
-{"parent": "OAI.SharpPlanar.IntegerIntervals.exp_small_error_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.IntegerIntervals.exp_small_error_e", "child": "OAIQ098E017", "via": ["solution", "statement"]}
+{"parent": "OAI.SharpPlanar.IntegerIntervals.exp_small_error_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "CappedBaseStock_Window", "child": "CappedBaseStock_Model", "via": ["statement"]}
 {"parent": "ThreeSum.SourceBandHostCosts.scheduleCount_le_encoderCount", "child": "Submission_ThreeSum_SourceBandBanksCosts", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceBandHostCosts.scheduleCount_le_encoderCount", "child": "Submission_ThreeSum_LightSourceBandHostProgram", "via": ["solution", "statement"]}
@@ -2726,7 +2726,7 @@
 {"parent": "ThreeSumApsp.WordRam.SolvedInTimeAt.of_eventually_le", "child": "Submission_ThreeSumApsp_Util_Asymptotics_Powers", "via": ["solution", "statement"]}
 {"parent": "Submission_Weighted_Global_TernaryMomentWeightBounds", "child": "Submission_Weighted_GlobalBank", "via": ["statement"]}
 {"parent": "Submission_Weighted_Global_TernaryMomentWeightBounds", "child": "Submission_Weighted_Global_TernaryNativeMomentBounds", "via": ["statement"]}
-{"parent": "OAI.SharpPlanar.Q_as_table_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.Q_as_table_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightEncodedColorLayout.program_meets", "child": "ThreeSum.LightOneHot.program_meets", "via": ["statement"]}
 {"parent": "ThreeSum.LightEncodedColorLayout.program_meets", "child": "ThreeSum.LightMaskBits.program_meets", "via": ["statement"]}
 {"parent": "ThreeSum.LightEncodedColorLayout.program_meets", "child": "ThreeSum.LightBandRawACatalog.program_meets", "via": ["statement"]}
@@ -3245,7 +3245,7 @@
 {"parent": "ThreeSum.TernaryPairedColumnEnumeration.sum_digits_eq_sum_columns", "child": "Submission_ThreeSum_WeightEnumeration", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryPairedColumnEnumeration.sum_digits_eq_sum_columns", "child": "Submission_ThreeSum_LightTernaryPairedPolynomial", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryPairedColumnEnumeration.sum_digits_eq_sum_columns", "child": "Submission_ThreeSum_TernaryPairedColumnEnumeration", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.Numerical.finiteIndex_cover_check_e", "child": "OAIQ098E007", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.Numerical.finiteIndex_cover_check_e", "child": "OAIQ098E007", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ReportingHostMasks.localRow_blockSet", "child": "Submission_ThreeSum_BlockMaskLayout", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ReportingHostMasks.localRow_blockSet", "child": "Submission_ThreeSum_QueryCoordinates", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ReportingHostMasks.localRow_blockSet", "child": "Submission_ThreeSum_ReportingHostMasks", "via": ["solution", "statement"]}
@@ -3438,7 +3438,7 @@
 {"parent": "ThreeSum.LightReportingCatalogExpand.program_meets_w3sum_ac885d1", "child": "ThreeSum.LightReportingSuffixBoxes.program_meets", "via": ["solution", "statement"]}
 {"parent": "SpikedWishart.SoftEdge.proposition_3_1_ii", "child": "SpikedWishart_SoftEdge_Kernels", "via": ["solution", "statement"]}
 {"parent": "SpikedWishart.SoftEdge.proposition_3_1_ii", "child": "SpikedWishart_SoftEdge_Airy", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.complexTransformedFactor_disk_bound_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.complexTransformedFactor_disk_bound_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightBooleanDot.meets_w3sum_ac885d1", "child": "Submission_ThreeSum_LightArray", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightBooleanDot.meets_w3sum_ac885d1", "child": "Submission_ThreeSum_LightBooleanDot", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedGlobalPrefixHeader.patchList_length", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
@@ -4172,7 +4172,7 @@
 {"parent": "ThreeSum.LightScaleArray.meets", "child": "Submission_ThreeSum_LightArray", "via": ["solution", "statement"]}
 {"parent": "Submission_ThreeSum_TernaryCoverRegularity", "child": "ThreeSum.TernaryCoverLocal.edge_data", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_TernaryCoverRegularity", "child": "Submission_ThreeSum_TernaryCoverLocal", "via": ["statement"]}
-{"parent": "OAI.SharpPlanar.table_range_mass_e", "child": "OAIQ098E015", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.table_range_mass_e", "child": "OAIQ098E015", "via": ["solution", "statement"]}
 {"parent": "Submission_ThreeSum_LightReportingSuffixExplicit", "child": "Submission_ThreeSum_LightReportingSuffixSum", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightReportingSuffixExplicit", "child": "Light.Ends.call", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightReportingSuffixExplicit", "child": "Light.Ends.set", "via": ["statement"]}
@@ -4187,7 +4187,7 @@
 {"parent": "ThreeSum.WeightedGlobalArenaLayout.region_space", "child": "Submission_Weighted_SourceCountHost", "via": ["solution", "statement"]}
 {"parent": "PerishBaseStock.Population.theorem_2", "child": "PerishBaseStock_Population_Model", "via": ["solution", "statement"]}
 {"parent": "PerishBaseStock.Population.theorem_2", "child": "PerishBaseStock_Population_CompoundDemand", "via": ["solution", "statement"]}
-{"parent": "LostSalesExpGap.ConstOrder.lemma_3", "child": "LostSalesExpGap_ConstOrder_ConstantOrder", "via": ["statement"]}
+{"parent": "LostSalesExpGap.ConstOrder.lemma_3", "child": "LostSalesExpGap_ConstOrder_ConstantOrder", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryExtensionEncoding.decode_encoded", "child": "Submission_ThreeSum_TernaryExtensionDecoded", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryExtensionEncoding.decode_encoded", "child": "Submission_ThreeSum_TernaryExtensionRelations", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightExtensionMultiplyTable.program_meets", "child": "ThreeSum.LightCoefficientDecode.program_meets", "via": ["solution", "statement"]}
@@ -4605,7 +4605,7 @@
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_original_full_stieltjes_uniform_width_mesh_discount_error", "child": "AvramDividend.Classical.avram_p4_d_dividend_original_exact_discount_nnreal_width_oscillation", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_original_full_stieltjes_uniform_width_mesh_discount_error", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_original_full_stieltjes_uniform_width_mesh_discount_error", "child": "AvramDividend.Classical.avram_p4_d_dividend_original_full_stieltjes_finite_mesh_discount_error", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.transformedMoment_piece_error_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.transformedMoment_piece_error_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Scales.windowExponent_ratio_tendsto_zero", "child": "Submission_ThreeSum_PrimeDensity", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Scales.windowExponent_ratio_tendsto_zero", "child": "Submission_ThreeSum_Scales", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Scales.windowExponent_ratio_tendsto_zero", "child": "Submission_ThreeSum_Asymptotics", "via": ["solution", "statement"]}
@@ -5288,7 +5288,7 @@
 {"parent": "ThreeSum.WeightedGlobalColoredRuntimeCertificate.query_cap", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalColoredRuntimeCertificate.query_cap", "child": "ThreeSum.WeightedGlobalArenaScoreScan.initial", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalColoredRuntimeCertificate.query_cap", "child": "Submission_Weighted_Global_TernaryColoredTerminalReceipt", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.fejer_cheb_integral_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.fejer_cheb_integral_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceBandBanksCosts.finish_le_encoderCount", "child": "Submission_ThreeSum_SourceBandBanksCosts", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceBandBanksCosts.finish_le_encoderCount", "child": "Submission_ThreeSum_SourceBandPairCosts", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceBandBanksCosts.finish_le_encoderCount", "child": "Submission_ThreeSum_LightSourceBandBanksProgram", "via": ["solution", "statement"]}
@@ -5335,7 +5335,7 @@
 {"parent": "ThreeSum.WeightedGlobalPairedSelectedChain.actual_pick_positive", "child": "Submission_ThreeSum_TernaryPairedSupportConcrete", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalPairedSelectedChain.actual_pick_positive", "child": "Submission_ThreeSum_LightTernaryRowSelector", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalPairedSelectedChain.actual_pick_positive", "child": "Submission_ThreeSum_TernaryOriginalCollisions", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.fejerPolynomial_degree_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.fejerPolynomial_degree_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "Submission_ThreeSumApsp_Lang_Tasks", "child": "Submission_ThreeSumApsp_Lang_Lib_Seg", "via": ["statement"]}
 {"parent": "Submission_ThreeSumApsp_Lang_Tasks", "child": "Submission_ThreeSumApsp_Lang_Calls", "via": ["statement"]}
 {"parent": "Submission_ThreeSumApsp_Lang_Tasks", "child": "Submission_ThreeSumApsp_Lang_WordSize", "via": ["statement"]}
@@ -6086,7 +6086,7 @@
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_original_interior_diffuse_paymentTimes_only_atomic_signed_cash_budget", "child": "AvramDividend.Classical.avram_wave7_19_original_paymentTimes_nnreal_strict_survival_or_zero", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_original_interior_diffuse_paymentTimes_only_atomic_signed_cash_budget", "child": "AvramDividend.Classical.avram_p4_d_dividend_original_interior_diffuse_all_eligible_atomic_signed_cash_budget", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_original_interior_diffuse_paymentTimes_only_atomic_signed_cash_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.IntegerIntervals.expHorner_eq_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.IntegerIntervals.expHorner_eq_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "Submission_ThreeSum_LightSourceControlsHost", "child": "Light.Ends.set", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightSourceControlsHost", "child": "Light.Ends.call", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightSourceControlsHost", "child": "Submission_ThreeSum_SourceBandHostCosts", "via": ["statement"]}
@@ -7180,7 +7180,7 @@
 {"parent": "ThreeSum.TernaryConvolution.frozenInverse_eq_partial", "child": "Submission_ThreeSum_TernaryConvolution", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryConvolution.frozenInverse_eq_partial", "child": "Submission_ThreeSum_TernaryReconstruction", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryConvolution.frozenInverse_eq_partial", "child": "Submission_ThreeSum_TernaryTransform", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.trig_table_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.trig_table_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalNativeMomentBounds.detector_moments_bound", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalNativeMomentBounds.detector_moments_bound", "child": "Submission_Weighted_Global_TernaryNativePairMoments", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalNativeMomentBounds.detector_moments_bound", "child": "Submission_ThreeSum_LightMomentDeterminant", "via": ["solution", "statement"]}
@@ -8677,8 +8677,8 @@
 {"parent": "ThreeSum.WeightedGlobalSignedFeatureHash.left_injective", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalSignedFeatureHash.left_injective", "child": "Submission_ThreeSum_TernaryOriginalKeyCodes", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalSignedFeatureHash.left_injective", "child": "Submission_ThreeSum_TernarySignedModes", "via": ["solution", "statement"]}
-{"parent": "BookProof.NsCutoffUniformity.norm_coeff_redMomentumPoly_le", "child": "ChapterNsCutoffUniformity", "via": ["statement"]}
-{"parent": "BookProof.NsCutoffUniformity.norm_coeff_redMomentumPoly_le", "child": "ChapterNavierStokesFullEulerianFock", "via": ["statement"]}
+{"parent": "BookProof.NsCutoffUniformity.norm_coeff_redMomentumPoly_le", "child": "ChapterNsCutoffUniformity", "via": ["solution", "statement"]}
+{"parent": "BookProof.NsCutoffUniformity.norm_coeff_redMomentumPoly_le", "child": "ChapterNavierStokesFullEulerianFock", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ReportingHostMasks.blockSet_subset", "child": "Submission_ThreeSum_BlockMaskLayout", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ReportingHostMasks.blockSet_subset", "child": "Submission_ThreeSum_QueryCoordinates", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ReportingHostMasks.blockSet_subset", "child": "Submission_ThreeSum_ReportingHostMasks", "via": ["solution", "statement"]}
@@ -8734,7 +8734,7 @@
 {"parent": "ThreeSumApsp.isBigOPow_natCast", "child": "Submission_PaperStatements", "via": ["solution", "statement"]}
 {"parent": "ThreeSumApsp.isBigOPow_natCast", "child": "Submission_ThreeSumApsp_Util_Log", "via": ["solution", "statement"]}
 {"parent": "ThreeSumApsp.isBigOPow_natCast", "child": "Submission_ThreeSumApsp_Util_Asymptotics_PowPolylog", "via": ["solution", "statement"]}
-{"parent": "PricingStars.lemma_1", "child": "PricingStars_Model", "via": ["statement"]}
+{"parent": "PricingStars.lemma_1", "child": "PricingStars_Model", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalParameterBounds.vertex_bound", "child": "Submission_ThreeSum_LightLocalParameters", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalParameterBounds.vertex_bound", "child": "Submission_ThreeSum_LocalParameterBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalParameterBounds.vertex_bound", "child": "Submission_ThreeSum_Scales", "via": ["solution", "statement"]}
@@ -9464,7 +9464,7 @@
 {"parent": "AvramDividend.Classical.avram_p3_a_bvdrift_original_exact_path_of_bounded_laplace_residual_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightPrimality.flag_eq_one_iff", "child": "Submission_ThreeSum_LightResidues", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightPrimality.flag_eq_one_iff", "child": "Submission_ThreeSum_LightPrimality", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.transformedMoment_rule_error_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.transformedMoment_rule_error_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ColorClassLists.mem_negClassList", "child": "Submission_ThreeSum_LightClassFilter", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ColorClassLists.mem_negClassList", "child": "Submission_ThreeSum_LightColorIndex", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ColorClassLists.mem_negClassList", "child": "Submission_ThreeSum_ColorClassLists", "via": ["solution", "statement"]}
@@ -10154,7 +10154,7 @@
 {"parent": "ThreeSum.LightKaratsuba.ProductAt.bound", "child": "Submission_ThreeSumApsp_Lang_Lib_Logs", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightKaratsuba.ProductAt.bound", "child": "Submission_ThreeSum_LightArray", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightKaratsuba.ProductAt.bound", "child": "Submission_ThreeSum_LightKaratsuba", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.fejer_integral_zero_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.fejer_integral_zero_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_a_zero_rate_uniform_cell_stationary_probability", "child": "AvramDividend.Classical.avram_p2_a_zero_rate_uniform_cell_width", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_a_zero_rate_uniform_cell_stationary_probability", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Submission_ThreeSum_LightTernaryMomentChannelStep", "child": "Light.Ends.set", "via": ["statement"]}
@@ -12840,7 +12840,7 @@
 {"parent": "ThreeSum.TernaryExtensionEncoding.trajectory_constantCoefficient", "child": "Submission_ThreeSum_TernaryOriginalRowMenu", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryExtensionEncoding.trajectory_constantCoefficient", "child": "Submission_ThreeSum_LightNaturalDot", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryExtensionEncoding.trajectory_constantCoefficient", "child": "Submission_ThreeSum_TernaryExtensionSearchCorrect", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.X_summable_e", "child": "OAIQ098E001", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.X_summable_e", "child": "OAIQ098E001", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_c_borel_cutoff_dense_below_ext", "child": "AvramDividend.Classical.avram_p2_c_borel_cutoff_dense_halfline_ext", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LayerCounts.vertices_card", "child": "Submission_ThreeSum_LayerCounts", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_b_smalljump_original_continuous_isometry_of_all_Lp2_simple", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -14165,7 +14165,7 @@
 {"parent": "ThreeSum.TernarySignedModes.fieldMode_physical_sound", "child": "Submission_ThreeSum_TernarySignedReduction", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernarySignedModes.fieldMode_physical_sound", "child": "Submission_ThreeSum_TernarySignedModes", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_cash_atom_tsum_toReal_and_summable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.summand_bound_e", "child": "OAIQ098E002", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.summand_bound_e", "child": "OAIQ098E002", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedWantedRows.program_length", "child": "Submission_Weighted_WantedRowDispatch", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedWantedRows.program_length", "child": "Submission_Weighted_WantedRows", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedWantedRows.program_length", "child": "ThreeSum.LightWeightedNearSetup.program_length", "via": ["statement"]}
@@ -14216,7 +14216,7 @@
 {"parent": "ThreeSum.LightExtensionQuotientPredicate.Procs.meets", "child": "WeightedCache3SUM_Alias_e6a24ed55341e959", "via": ["solution", "statement"]}
 {"parent": "PerishBaseStock.Backlog.eq_28", "child": "PerishBaseStock_Backlog_Model", "via": ["statement"]}
 {"parent": "FreeGroupFactorProof12", "child": "FreeGroupFactorProof11", "via": ["statement"]}
-{"parent": "OAI.SharpPlanar.disk_z_imaginary_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.disk_z_imaginary_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryBank.nearWords_card_gibbs", "child": "Submission_ThreeSum_TernaryJointType", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryBank.nearWords_card_gibbs", "child": "Submission_ThreeSum_TernaryBank", "via": ["solution", "statement"]}
 {"parent": "AIMInventory_Known_Queue", "child": "CappedBaseStock_Model", "via": ["statement"]}
@@ -14469,7 +14469,7 @@
 {"parent": "ThreeSum.LightMaskErase.meets_w3sum_ac885d1", "child": "Submission_ThreeSum_MaskErase", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightMaskErase.meets_w3sum_ac885d1", "child": "Submission_ThreeSum_LightSubsetAddress", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightMaskErase.meets_w3sum_ac885d1", "child": "Submission_ThreeSum_LightMaskErase", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.lambda_sq_antitone_e", "child": "OAIQ098E001", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.lambda_sq_antitone_e", "child": "OAIQ098E001", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_b_smalljump_original_finite_intensity_count_integrable_and_ae_finite", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaSourceSeed.canonical", "child": "Submission_Weighted_Global_TernaryArenaSourceCertificate", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaSourceSeed.canonical", "child": "Submission_Weighted_Global_TernaryArenaSourceLayout", "via": ["solution", "statement"]}
@@ -14657,7 +14657,7 @@
 {"parent": "ThreeSum.ExplicitLayers.valueSum_succ", "child": "Submission_ThreeSum_SignedLeaf", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_rightCont_bounded_stop_discounted_exp_mean_le_one", "child": "AvramDividend.Classical.avram_p4_f_assembly_original_rightCont_bounded_stop_esscher_likelihood_mean_one", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_rightCont_bounded_stop_discounted_exp_mean_le_one", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.X_summable_pairs_e", "child": "OAIQ098E001", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.X_summable_pairs_e", "child": "OAIQ098E001", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_original_ubv_interior_band_rightjump_le_literal_cash", "child": "AvramDividend.Classical.avram_p4_d_dividend_original_closed_restrict_cash_eq_literal_stop", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_original_ubv_interior_band_rightjump_le_literal_cash", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_original_ubv_interior_band_rightjump_le_literal_cash", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -14803,7 +14803,7 @@
 {"parent": "ThreeSum.Scales.primeLoss_subpolynomial", "child": "Submission_ThreeSum_Asymptotics", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Scales.primeLoss_subpolynomial", "child": "Submission_ThreeSum_BinomialEntropy", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Scales.primeLoss_subpolynomial", "child": "Submission_ThreeSum_LocalCoverBounds", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.u_bound_e", "child": "OAIQ098E001", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.u_bound_e", "child": "OAIQ098E001", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_b_rate_original_weighted_expectation_eventually_linear", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_b_rate_original_weighted_expectation_eventually_linear", "child": "AvramDividend.Classical.avram_wave6_01_original_source_fourth_weighted_exponential_small_time_derivative", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernarySolverEndBridge.solvedAt_of_solves", "child": "Submission_ThreeSum_TernaryHybridCosts", "via": ["solution", "statement"]}
@@ -14845,7 +14845,7 @@
 {"parent": "ThreeSum.ReportingHostMasks.globalChildren_length", "child": "Submission_ThreeSum_BlockMaskLayout", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ReportingHostMasks.globalChildren_length", "child": "Submission_ThreeSum_QueryCoordinates", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ReportingHostMasks.globalChildren_length", "child": "Submission_ThreeSum_ReportingHostMasks", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.complexLambda_differentiableAt_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.complexLambda_differentiableAt_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryPairedPotential.program_digit", "child": "Submission_ThreeSum_LightWeightRow", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryPairedPotential.program_digit", "child": "Submission_ThreeSum_LightTernaryPairedPotential", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryPairedPotential.program_digit", "child": "Submission_ThreeSum_TernaryPairedColumnEnumeration", "via": ["solution", "statement"]}
@@ -15014,7 +15014,7 @@
 {"parent": "ThreeSum.WeightedGlobalArenaTensorBounds.spatial", "child": "ThreeSum.WeightedGlobalArenaFrontBounds.capacity", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaTensorBounds.spatial", "child": "Submission_Weighted_Global_TernaryArenaTensorBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSumApsp.Dominated.exists_const_and", "child": "Submission_ThreeSumApsp_Util_Asymptotics_Dominated", "via": ["solution", "statement"]}
-{"parent": "LostSalesConstantOrder.LargeLeadTime.minimizer_exists", "child": "LostSalesConstantOrder_LargeLeadTime_Model", "via": ["statement"]}
+{"parent": "LostSalesConstantOrder.LargeLeadTime.minimizer_exists", "child": "LostSalesConstantOrder_LargeLeadTime_Model", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalCountFrontendBudget.query_max_bound", "child": "Submission_Weighted_Global_CountFrontendBudget", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalCountFrontendBudget.query_max_bound", "child": "ThreeSum.WeightedPreparedBudget.query_max_bound", "via": ["statement"]}
 {"parent": "ThreeSum.WeightedGlobalCountFrontendBudget.query_max_bound", "child": "Submission_Weighted_PreparedBudget", "via": ["solution", "statement"]}
@@ -15890,7 +15890,7 @@
 {"parent": "ThreeSum.TernaryCoverHashes.same_side_relation", "child": "Submission_ThreeSum_TernaryCoverHashes", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryCoverHashes.same_side_relation", "child": "Submission_ThreeSum_HashFamily", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Karatsuba.length_shift", "child": "Submission_ThreeSum_Karatsuba", "via": ["solution", "statement"]}
-{"parent": "LostSalesConstantOrder.LargeLeadTime.newsvendor_lower_bound", "child": "LostSalesConstantOrder_LargeLeadTime_Model", "via": ["statement"]}
+{"parent": "LostSalesConstantOrder.LargeLeadTime.newsvendor_lower_bound", "child": "LostSalesConstantOrder_LargeLeadTime_Model", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalTupleDictionaryDecode.equiv_val", "child": "Submission_Weighted_Global_TernaryTupleDictionaryLookup", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalTupleDictionaryDecode.equiv_val", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalTupleDictionaryDecode.equiv_val", "child": "Submission_Weighted_Global_TernaryTupleDictionaryDecode", "via": ["solution", "statement"]}
@@ -16224,7 +16224,7 @@
 {"parent": "ThreeSum.EncodedColorStageCosts.source_space_mono", "child": "ThreeSum.LightKaratsuba.ProductAt.bound", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.EncodedColorStageCosts.source_space_mono", "child": "Submission_ThreeSum_EncodedColorStageCosts", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.EncodedColorStageCosts.source_space_mono", "child": "Submission_ThreeSum_EncodedColorPrimeReadyData", "via": ["solution", "statement"]}
-{"parent": "LostSalesExpGap.ConstOrder.lemma_5", "child": "LostSalesExpGap_ConstOrder_ConstantOrder", "via": ["statement"]}
+{"parent": "LostSalesExpGap.ConstOrder.lemma_5", "child": "LostSalesExpGap_ConstOrder_ConstantOrder", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightBlockSourceBuild.right_value", "child": "Submission_ThreeSum_LightSourceBuild", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightBlockSourceBuild.right_value", "child": "Submission_ThreeSum_LightBlockSourceBuild", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightBlockSourceBuild.right_value", "child": "Submission_ThreeSum_LightBlockSourceHashes", "via": ["solution", "statement"]}
@@ -17012,7 +17012,7 @@
 {"parent": "ThreeSum.LightWeightedGlobalPostSelection.libraries_length", "child": "ThreeSum.LightTernarySourceCountHost.libraries_length", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedGlobalPostSelection.libraries_length", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedGlobalPostSelection.libraries_length", "child": "Submission_Weighted_Global_LightTernaryPostSelection", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.fejerWeight_pos_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.fejerWeight_pos_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "Submission_ThreeSum_LightOutputDecodeDivide", "child": "Light.Ends.set", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightOutputDecodeDivide", "child": "Submission_ThreeSumApsp_Lang_Lib_Emod", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightOutputDecodeDivide", "child": "Light.Ends.skip", "via": ["statement"]}
@@ -17329,7 +17329,7 @@
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_terminal_from_source_exponential_growth_envelope", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_terminal_from_source_exponential_growth_envelope", "child": "AvramDividend.Classical.avram_p4_f_assembly_original_stopped_exponential_payoff_le_raw_Levy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_terminal_from_source_exponential_growth_envelope", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.fejerPolynomial_eval_e", "child": "OAIQ098E018", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.fejerPolynomial_eval_e", "child": "OAIQ098E018", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalGraph.output_card", "child": "Submission_ThreeSum_LayerCounts", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalGraph.output_card", "child": "Submission_ThreeSum_LocalGraph", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUM_Alias_446a36f9920b9ea7", "child": "ThreeSum.LightSharedReportingCounts.program_meets_w3sum_ac885d1", "via": ["statement"]}
@@ -17626,7 +17626,7 @@
 {"parent": "ThreeSum.LightExplicitSum.program_meets", "child": "Submission_ThreeSum_LightExplicitSum", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightExplicitSum.program_meets", "child": "Submission_ThreeSum_LightQueryEnumeration", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightExplicitSum.program_meets", "child": "ThreeSum.LightZetaStages.program_meets", "via": ["statement"]}
-{"parent": "OAI.SharpPlanar.tableD_offnode_e", "child": "OAIQ098E015", "via": ["statement"]}
+{"parent": "OAI.SharpPlanar.tableD_offnode_e", "child": "OAIQ098E015", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightZetaStages.stored_zeta", "child": "Submission_ThreeSum_LightDownsetSize", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightZetaStages.stored_zeta", "child": "Submission_ThreeSum_LightZetaPass", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightZetaStages.stored_zeta", "child": "Submission_ThreeSum_LightZetaStages", "via": ["solution", "statement"]}

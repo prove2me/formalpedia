@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_RBox_abs_bound_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.RBox.abs_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T06:01:14.048571+00:00
 -- url     : https://prove2.me/theorems/6e2a57ad-cde3-482a-8a16-f4751e855148

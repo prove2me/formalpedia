@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_lvlPsi_runs
 -- name    : Eight.ViaGrouping.lvlPsi_runs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:35.173516+00:00
 -- url     : https://prove2.me/theorems/d98c1ab0-9107-4f1d-9872-19d7af97646c

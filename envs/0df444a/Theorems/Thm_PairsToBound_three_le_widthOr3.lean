@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_three_le_widthOr3
 -- name    : PairsToBound.three_le_widthOr3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:10:58.55979+00:00
 -- url     : https://prove2.me/theorems/55a901b0-4cd0-490d-8b76-c4f6425582dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_afterFirst_polyT
 -- name    : PiecesCounted.afterFirst_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:38.366763+00:00
 -- url     : https://prove2.me/theorems/881f8b51-b2a7-45b2-ade8-718c117887ee

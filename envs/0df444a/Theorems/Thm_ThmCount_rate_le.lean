@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_rate_le
 -- name    : ThmCount.rate_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:41:25.024967+00:00
 -- url     : https://prove2.me/theorems/39ea8a0b-fdc7-4910-b886-062118e7a40d

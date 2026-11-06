@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_existsPureJumpProcess
 -- name    : levy_foundations_existsPureJumpProcess
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T15:19:47.297149+00:00
 -- url     : https://prove2.me/theorems/07f30811-0e76-48ee-acc9-4227583d447e

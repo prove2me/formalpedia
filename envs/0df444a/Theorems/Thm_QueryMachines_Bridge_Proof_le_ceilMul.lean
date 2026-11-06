@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_le_ceilMul
 -- name    : QueryMachines.Bridge.Proof.le_ceilMul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:30.059744+00:00
 -- url     : https://prove2.me/theorems/3215c84c-f0c1-4d77-b028-59d095a423a8

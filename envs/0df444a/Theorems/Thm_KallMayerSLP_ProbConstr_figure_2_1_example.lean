@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_ProbConstr_figure_2_1_example
 -- name    : KallMayerSLP.ProbConstr.figure_2_1_example
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:12:08.142642+00:00
 -- url     : https://prove2.me/theorems/ac450c7c-6704-4380-9963-645ad5220b4d

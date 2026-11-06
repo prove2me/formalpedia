@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_thmVariablesBFromThmVariablesA
 -- name    : PairsToBound.thmVariablesBFromThmVariablesA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:11:40.786572+00:00
 -- url     : https://prove2.me/theorems/0ed3fbbd-4ae0-4aef-89ae-86673a5c9de6

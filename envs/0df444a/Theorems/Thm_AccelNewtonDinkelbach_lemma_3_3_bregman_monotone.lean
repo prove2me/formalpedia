@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelNewtonDinkelbach_lemma_3_3_bregman_monotone
 -- name    : AccelNewtonDinkelbach.lemma_3_3_bregman_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:16:52.178514+00:00
 -- url     : https://prove2.me/theorems/2cac0553-8cd5-4fff-b0d2-ba573df034a3

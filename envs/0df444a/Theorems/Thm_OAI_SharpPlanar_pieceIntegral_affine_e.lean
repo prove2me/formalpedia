@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_pieceIntegral_affine_e
 -- name    : OAI.SharpPlanar.pieceIntegral_affine_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:58:09.428447+00:00
 -- url     : https://prove2.me/theorems/54215736-99bf-487b-98c5-78c408598632

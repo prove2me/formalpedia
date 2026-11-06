@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_bitsOfTables_poly
 -- name    : QueryMachines.Bridge.Proof.bitsOfTables_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:46.644993+00:00
 -- url     : https://prove2.me/theorems/15349ae2-b3d2-4480-bd47-687fcb3b8b45

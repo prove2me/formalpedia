@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Approx_gTilde_upper_bound
 -- name    : FastFashion.Approx.gTilde_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:05.325964+00:00
 -- url     : https://prove2.me/theorems/57146eb7-47ae-4469-90d8-ace03c80b4a1

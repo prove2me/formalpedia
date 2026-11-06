@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P28_phiAlpha_identity
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P28.phiAlpha_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T00:42:28.318448+00:00
 -- url     : https://prove2.me/theorems/f30438ab-37dd-4902-9435-fb41785ad9cd

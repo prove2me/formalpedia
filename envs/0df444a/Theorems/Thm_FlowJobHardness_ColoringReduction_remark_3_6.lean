@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowJobHardness_ColoringReduction_remark_3_6
 -- name    : FlowJobHardness.ColoringReduction.remark_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:32:23.944156+00:00
 -- url     : https://prove2.me/theorems/4408adcb-4ed6-4ba4-b905-1c3625f4dedc

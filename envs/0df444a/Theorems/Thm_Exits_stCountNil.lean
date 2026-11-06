@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stCountNil
 -- name    : Exits.stCountNil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:39:22.266556+00:00
 -- url     : https://prove2.me/theorems/a1c17e94-a207-4f53-9b0a-6516f9040436

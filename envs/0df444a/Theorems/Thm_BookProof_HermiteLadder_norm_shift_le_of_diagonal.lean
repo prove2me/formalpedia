@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteLadder_norm_shift_le_of_diagonal
 -- name    : BookProof.HermiteLadder.norm_shift_le_of_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T14:46:00.94332+00:00
 -- url     : https://prove2.me/theorems/8977171b-56bb-4355-bf93-73404dd0980d

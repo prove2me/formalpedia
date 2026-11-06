@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejer_exact_complex_e
 -- name    : OAI.SharpPlanar.fejer_exact_complex_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:56:59.331991+00:00
 -- url     : https://prove2.me/theorems/6adbb727-4ce6-404e-837a-4b7d0fbd439e

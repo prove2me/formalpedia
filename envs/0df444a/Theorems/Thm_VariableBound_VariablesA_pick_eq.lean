@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_VariablesA_pick_eq
 -- name    : VariableBound.VariablesA.pick_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:55.010339+00:00
 -- url     : https://prove2.me/theorems/bfb93650-4d98-4d80-a89a-f2d4dbab05e4

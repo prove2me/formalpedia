@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_mem_occurrencesOf_iff
 -- name    : Coding.mem_occurrencesOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:32:46.226196+00:00
 -- url     : https://prove2.me/theorems/04a38b0b-90b6-4f9a-98cc-6fc181eb4781

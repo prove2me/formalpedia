@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tests_sum_length_tst_le
 -- name    : VariableBound.Net.Tests.sum_length_tst_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:01:43.192419+00:00
 -- url     : https://prove2.me/theorems/3e677712-6b16-497a-8a20-2fd647a54a30

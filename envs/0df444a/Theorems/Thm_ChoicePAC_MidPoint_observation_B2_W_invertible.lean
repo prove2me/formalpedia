@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoicePAC_MidPoint_observation_B2_W_invertible
 -- name    : ChoicePAC.MidPoint.observation_B2_W_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:01.825213+00:00
 -- url     : https://prove2.me/theorems/09590fa6-94b9-4d1c-b820-55ed43169256

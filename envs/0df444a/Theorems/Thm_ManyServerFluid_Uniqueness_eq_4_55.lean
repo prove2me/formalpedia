@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerFluid_Uniqueness_eq_4_55
 -- name    : ManyServerFluid.Uniqueness.eq_4_55
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:47:40.400991+00:00
 -- url     : https://prove2.me/theorems/704b000f-a5ef-489c-846d-6458e135a71e

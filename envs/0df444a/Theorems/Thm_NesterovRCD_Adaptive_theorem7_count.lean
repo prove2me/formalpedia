@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Adaptive_theorem7_count
 -- name    : NesterovRCD.Adaptive.theorem7_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:36.194524+00:00
 -- url     : https://prove2.me/theorems/043d5532-ca54-46c4-947c-08a1da936e3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROOptimal_Continuous_lemma_1
 -- name    : DROOptimal.Continuous.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:30.437197+00:00
 -- url     : https://prove2.me/theorems/a41dc9cc-78f2-4487-ac69-e86916f66c30

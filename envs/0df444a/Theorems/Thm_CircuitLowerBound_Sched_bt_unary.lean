@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Sched_bt_unary
 -- name    : CircuitLowerBound.Sched.bt_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T19:32:40.959347+00:00
 -- url     : https://prove2.me/theorems/c8d89c70-4881-4ec5-bf47-0d1fe4d11298

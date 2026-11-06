@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRebate_NoCoord_proposition2_no_single_instrument
 -- name    : ChannelRebate.NoCoord.proposition2_no_single_instrument
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:21:19.05993+00:00
 -- url     : https://prove2.me/theorems/babce25a-0b24-48d4-8750-f45c09b657a2

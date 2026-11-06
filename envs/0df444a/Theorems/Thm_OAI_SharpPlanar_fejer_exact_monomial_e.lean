@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejer_exact_monomial_e
 -- name    : OAI.SharpPlanar.fejer_exact_monomial_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:57:03.433784+00:00
 -- url     : https://prove2.me/theorems/9a43e2ad-ee5e-4396-a2a0-7cbe4f13e027

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_widthN_polyT
 -- name    : PairsToBound.widthN_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:23.448918+00:00
 -- url     : https://prove2.me/theorems/33ea234f-bb46-422e-a399-c5c6a7f8c861

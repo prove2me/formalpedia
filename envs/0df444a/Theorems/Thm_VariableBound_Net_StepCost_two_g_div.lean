@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_StepCost_two_g_div
 -- name    : VariableBound.Net.StepCost.two_g_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:54:45.051843+00:00
 -- url     : https://prove2.me/theorems/35b566bb-f86e-4a74-b1a8-f676f1181a47

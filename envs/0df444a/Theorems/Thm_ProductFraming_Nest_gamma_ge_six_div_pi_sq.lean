@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductFraming_Nest_gamma_ge_six_div_pi_sq
 -- name    : ProductFraming.Nest.gamma_ge_six_div_pi_sq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:08:05.500657+00:00
 -- url     : https://prove2.me/theorems/dfb64266-751c-420b-abac-f4a624007f26

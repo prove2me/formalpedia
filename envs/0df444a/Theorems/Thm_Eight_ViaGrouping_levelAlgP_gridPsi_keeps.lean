@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_levelAlgP_gridPsi_keeps
 -- name    : Eight.ViaGrouping.levelAlgP_gridPsi_keeps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:10:50.965822+00:00
 -- url     : https://prove2.me/theorems/1f2c4356-87c2-4976-a03b-d38e660e36b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_Cert_partH_polyT
 -- name    : ClauseBound.Inst.Half.Cert.partH_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:24:46.592877+00:00
 -- url     : https://prove2.me/theorems/20a83104-d459-4b20-bb71-c9ef7fb5c093

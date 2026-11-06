@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_tableD_offnode_e
 -- name    : OAI.SharpPlanar.tableD_offnode_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:50:32.228954+00:00
 -- url     : https://prove2.me/theorems/fea586b0-7a7f-4646-9318-39e9de7bb86a

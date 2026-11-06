@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrWardrop_relint_common_support
 -- name    : CorrWardrop.relint_common_support
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:29:31.544982+00:00
 -- url     : https://prove2.me/theorems/18b061f6-a834-4cb5-b700-2db10ec5c729

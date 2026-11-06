@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_intersection_of_tendstoCInftyLocOn
 -- name    : FiniteEnergyPlane.exists_intersection_of_tendstoCInftyLocOn
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T21:08:22.128989+00:00
 -- url     : https://prove2.me/theorems/7a6df4c1-4afb-4a4f-b38b-9d2f04a6a4cc

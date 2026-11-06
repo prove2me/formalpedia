@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_Composition_billingsley_lemma_1
 -- name    : WhittFLT.Composition.billingsley_lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:58:08.710865+00:00
 -- url     : https://prove2.me/theorems/8c02f69f-dd14-491e-a4d0-832411a1f0bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_PhiF_polyT
 -- name    : CircuitLowerBound.Round.PhiF_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:01:09.728286+00:00
 -- url     : https://prove2.me/theorems/5e1acd85-a49c-42de-be0e-33cb390076ca

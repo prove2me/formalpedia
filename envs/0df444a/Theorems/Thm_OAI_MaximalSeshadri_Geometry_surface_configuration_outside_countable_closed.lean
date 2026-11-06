@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MaximalSeshadri_Geometry_surface_configuration_outside_countable_closed
 -- name    : OAI.MaximalSeshadri.Geometry.surface_configuration_outside_countable_closed
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-11-04T15:07:37.981022+00:00
 -- url     : https://prove2.me/theorems/90eb5dde-deb8-42d8-b4d3-57f060234c88

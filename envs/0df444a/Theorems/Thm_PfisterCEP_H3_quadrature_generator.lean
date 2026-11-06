@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfisterCEP_H3_quadrature_generator
 -- name    : PfisterCEP.H3_quadrature_generator
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:27:50.305052+00:00
 -- url     : https://prove2.me/theorems/35aaf868-21d4-4878-a8c2-7ae1dc2b0b15

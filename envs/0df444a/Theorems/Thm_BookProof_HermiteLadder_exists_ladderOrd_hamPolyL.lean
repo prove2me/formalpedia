@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteLadder_exists_ladderOrd_hamPolyL
 -- name    : BookProof.HermiteLadder.exists_ladderOrd_hamPolyL
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T14:45:52.835091+00:00
 -- url     : https://prove2.me/theorems/2024d5c1-4ebe-450b-9d68-5e937d670c66

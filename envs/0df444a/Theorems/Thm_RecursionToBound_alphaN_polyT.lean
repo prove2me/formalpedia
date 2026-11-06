@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_alphaN_polyT
 -- name    : RecursionToBound.alphaN_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:38.759423+00:00
 -- url     : https://prove2.me/theorems/1d089142-67a1-4c9d-83bc-1ecd44a4034e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_stSetForm
 -- name    : Coding.stSetForm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:50:57.389758+00:00
 -- url     : https://prove2.me/theorems/291a834a-bf4d-4454-82d1-2441761cbb79

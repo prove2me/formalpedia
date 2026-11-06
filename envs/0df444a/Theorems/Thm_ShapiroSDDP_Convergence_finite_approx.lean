@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapiroSDDP_Convergence_finite_approx
 -- name    : ShapiroSDDP.Convergence.finite_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:35:25.723296+00:00
 -- url     : https://prove2.me/theorems/c6f16b06-7802-4cdf-8b29-fcb64df33e18

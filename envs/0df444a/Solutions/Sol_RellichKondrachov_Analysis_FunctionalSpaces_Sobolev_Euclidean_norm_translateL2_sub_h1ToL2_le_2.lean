@@ -1,0 +1,92 @@
+-- Prove2me | solution 2 for RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.norm_translateL2_sub_h1ToL2_le
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-05T22:42:54.301422+00:00
+-- url     : https://prove2.me/submissions/cb826652-e485-4a70-8ed8-f142b12c4d8c
+
+import Definitions.Def_RellichKondrachov_Analysis_FunctionalSpaces_Sobolev_Euclidean_TranslationEstimateL2
+import Mathlib.Topology.Order.OrderClosed
+import Definitions.Def_RellichKondrachov_Analysis_FunctionalSpaces_Sobolev_Euclidean_TranslationEstimateH1
+import Theorems.Thm_RellichKondrachov_Analysis_FunctionalSpaces_Sobolev_Euclidean_norm_translateL2_sub_toL2_le
+
+
+set_option autoImplicit true
+open RellichKondrachov
+open RellichKondrachov.Analysis
+open RellichKondrachov.Analysis.FunctionalSpaces
+open RellichKondrachov.Analysis.FunctionalSpaces.Sobolev
+open RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean
+open scoped ENNReal MeasureTheory Topology
+open MeasureTheory Set
+noncomputable section
+variable {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [CompleteSpace E]
+attribute [local instance] RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.instMeasurableSpaceTranslationEstimateH1
+attribute [local instance] RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.instBorelSpaceTranslationEstimateH1
+attribute [local instance] RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.instOpensMeasurableSpaceTranslationEstimateH1
+attribute [local instance] RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.instMeasurableAddTranslationEstimateH1
+variable (μ : Measure E) [μ.IsAddRightInvariant] [IsFiniteMeasureOnCompacts μ] [SFinite μ]
+namespace RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean
+theorem _root_.solution (a : E) (u : ↥(h1 (μ := μ) (E := E))) :
+    ‖translateL2 (μ := μ) (F := ℝ) a (h1ToL2 (μ := μ) (E := E) u) -
+        h1ToL2 (μ := μ) (E := E) u‖ ≤
+      ‖a‖ * ‖h1ToL2Grad (μ := μ) (E := E) u‖ := by
+  classical
+  -- Work in the ambient space `L² × L²(E)`.
+  let V : Type _ := (E →₂[μ] ℝ) × (E →₂[μ] E)
+  let S : Set V :=
+    {v |
+      ‖translateL2 (μ := μ) (F := ℝ) a v.1 - v.1‖ ≤
+        ‖a‖ * ‖v.2‖}
+  have hS_closed : IsClosed S := by
+    -- Closedness follows from continuity of both sides.
+    have hf :
+        Continuous fun v : V =>
+          ‖translateL2 (μ := μ) (F := ℝ) a v.1 - v.1‖ := by
+      -- `v ↦ v.1` is continuous, translation is continuous,
+      -- subtraction is continuous, and norm is continuous.
+      have hfst : Continuous fun v : V => v.1 := continuous_fst
+      have htr :
+          Continuous fun v : V =>
+            translateL2 (μ := μ) (F := ℝ) a v.1 := by
+        -- `translateL2` is a continuous linear isometry.
+        exact (translateL2 (μ := μ) (F := ℝ) a).toContinuousLinearMap.continuous.comp hfst
+      have hsub :
+          Continuous fun v : V =>
+            translateL2 (μ := μ) (F := ℝ) a v.1 - v.1 := by
+        exact htr.sub hfst
+      exact (continuous_norm.comp hsub)
+    have hg :
+        Continuous fun v : V =>
+          ‖a‖ * ‖v.2‖ := by
+      have hsnd : Continuous fun v : V => v.2 := continuous_snd
+      have hnorm : Continuous fun v : V => ‖v.2‖ := continuous_norm.comp hsnd
+      exact (continuous_const.mul hnorm)
+    exact isClosed_le hf hg
+  have hRange : (LinearMap.range (graph (μ := μ) (E := E)) : Set V) ⊆ S := by
+    rintro v ⟨f, rfl⟩
+    -- Reduce to the `C¹_c` estimate.
+    simpa [S, graph, toL2Linear, toL2GradLinear] using
+      norm_translateL2_sub_toL2_le (μ := μ) (E := E) a f
+  have hClosure :
+      closure (LinearMap.range (graph (μ := μ) (E := E)) : Set V) ⊆ S :=
+    closure_minimal hRange hS_closed
+  have hu :
+      (u : V) ∈ closure (LinearMap.range (graph (μ := μ) (E := E)) : Set V) := by
+    -- `u ∈ H¹` means `u` is in the topological closure of the range of `graph`.
+    have hu0 :
+        (u : V) ∈
+          ((LinearMap.range (graph (μ := μ) (E := E))).topologicalClosure :
+            Set V) := by
+      have hu0 : (u : V) ∈ h1 (μ := μ) (E := E) := u.2
+      dsimp [h1] at hu0
+      exact hu0
+    have hu1 :
+        (u : V) ∈
+          ((LinearMap.range (graph (μ := μ) (E := E))).topologicalClosure :
+            Set V) := hu0
+    rw [Submodule.topologicalClosure_coe] at hu1
+    exact hu1
+  have huS : (u : V) ∈ S := hClosure hu
+  -- Unpack membership in `S` and rewrite in terms of the bundled maps `h1ToL2` and `h1ToL2Grad`.
+  simpa [S, V, h1ToL2, h1ToL2Grad] using huS
+end RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean

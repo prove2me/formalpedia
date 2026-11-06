@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetTraffic_PoissonStable_tail_j1
 -- name    : NetTraffic.PoissonStable.tail_j1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:10:13.484975+00:00
 -- url     : https://prove2.me/theorems/0972ebc2-fb47-4f1d-b263-7a219e1f8594

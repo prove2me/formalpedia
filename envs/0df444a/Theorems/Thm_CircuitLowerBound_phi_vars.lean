@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_phi_vars
 -- name    : CircuitLowerBound.phi_vars
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:53.504405+00:00
 -- url     : https://prove2.me/theorems/f672a947-1835-45eb-86a3-0adfe1427338

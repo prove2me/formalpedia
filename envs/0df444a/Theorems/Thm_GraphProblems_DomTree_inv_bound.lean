@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_DomTree_inv_bound
 -- name    : GraphProblems.DomTree.inv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:03:11.770784+00:00
 -- url     : https://prove2.me/theorems/5d92562e-67ec-43cc-ad6a-cb471994ec9d

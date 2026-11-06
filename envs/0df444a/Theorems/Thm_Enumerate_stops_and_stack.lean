@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Enumerate_stops_and_stack
 -- name    : Enumerate.stops_and_stack
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:11:28.245608+00:00
 -- url     : https://prove2.me/theorems/b7fbaf1c-bc40-4cdd-b4d6-87647d353bad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_mem_mD_iff
 -- name    : Value.mem_mD_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:25.453309+00:00
 -- url     : https://prove2.me/theorems/5f352544-1bc8-4a12-81b3-a5236ce540a8

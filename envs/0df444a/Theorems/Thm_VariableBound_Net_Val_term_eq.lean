@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Val_term_eq
 -- name    : VariableBound.Net.Val.term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:45:18.572597+00:00
 -- url     : https://prove2.me/theorems/ec981487-85bc-4711-a00a-08a26219e7a8

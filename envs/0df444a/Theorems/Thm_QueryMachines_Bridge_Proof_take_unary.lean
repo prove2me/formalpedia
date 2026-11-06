@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_take_unary
 -- name    : QueryMachines.Bridge.Proof.take_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:05.269202+00:00
 -- url     : https://prove2.me/theorems/200b84a2-a2df-45bb-bf76-dc9a6d67d7a3

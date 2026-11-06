@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_FirstPassage_theorem_7_2
 -- name    : WhittFLT.FirstPassage.theorem_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:06.036609+00:00
 -- url     : https://prove2.me/theorems/5364df0b-5e4c-438e-b8c1-f372d856b5ce

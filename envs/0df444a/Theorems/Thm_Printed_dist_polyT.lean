@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_dist_polyT
 -- name    : Printed.dist_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:43:08.412522+00:00
 -- url     : https://prove2.me/theorems/f95c0ee7-c9b4-4eac-87ad-0f8efdd17cb4

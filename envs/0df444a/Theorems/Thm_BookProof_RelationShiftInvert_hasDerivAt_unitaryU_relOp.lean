@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RelationShiftInvert_hasDerivAt_unitaryU_relOp
 -- name    : BookProof.RelationShiftInvert.hasDerivAt_unitaryU_relOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:57:06.462848+00:00
 -- url     : https://prove2.me/theorems/1c09c616-28dd-4c74-9e02-99e6d12258df

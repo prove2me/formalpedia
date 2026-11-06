@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_CertSparsify_masks_eq
 -- name    : UniformInK.CertSparsify.masks_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:51:42.230039+00:00
 -- url     : https://prove2.me/theorems/59009123-9291-498a-ac81-560e03beebd4

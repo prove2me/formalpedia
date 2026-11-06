@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Variance_stGroupingOf
 -- name    : Variance.stGroupingOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:36:32.681637+00:00
 -- url     : https://prove2.me/theorems/fe75249b-e6c4-4ade-a18c-d8d9109c48c5

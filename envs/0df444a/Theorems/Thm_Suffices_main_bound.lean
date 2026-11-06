@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_main_bound
 -- name    : Suffices.main_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:26:18.417873+00:00
 -- url     : https://prove2.me/theorems/fb152e49-9780-4571-b43f-1b2879f043aa

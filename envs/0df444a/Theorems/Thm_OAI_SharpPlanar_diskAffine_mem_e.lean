@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_diskAffine_mem_e
 -- name    : OAI.SharpPlanar.diskAffine_mem_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:54:42.732753+00:00
 -- url     : https://prove2.me/theorems/59abf8dc-4237-4559-ac74-644fc59a049b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_needAt_le
 -- name    : RecursionToBound.needAt_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:10.659761+00:00
 -- url     : https://prove2.me/theorems/b998beda-18d4-4b8c-b0c0-e52053c04335

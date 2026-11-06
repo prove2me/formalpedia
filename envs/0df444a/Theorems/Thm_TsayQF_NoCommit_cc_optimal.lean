@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsayQF_NoCommit_cc_optimal
 -- name    : TsayQF.NoCommit.cc_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:18.797843+00:00
 -- url     : https://prove2.me/theorems/426f1d78-9d3d-4ebe-aba3-ad9f54aac878

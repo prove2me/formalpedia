@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionWithPieces_master_of_par
 -- name    : RecursionWithPieces.master_of_par
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:37:42.11402+00:00
 -- url     : https://prove2.me/theorems/b4aa8b42-8d5f-4728-8723-71c9131780b7

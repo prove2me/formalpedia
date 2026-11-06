@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesExpGap_ConstOrder_vartheta_pos_gamma_lt_one
 -- name    : LostSalesExpGap.ConstOrder.vartheta_pos_gamma_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:11:37.474989+00:00
 -- url     : https://prove2.me/theorems/109eaef5-5d47-4de9-ab2c-34ad71dcc50d

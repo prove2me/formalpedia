@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_everyWordIsCompared
 -- name    : QueryMachines.Bridge.everyWordIsCompared
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:14:04.842181+00:00
 -- url     : https://prove2.me/theorems/d3177822-8b48-4a6b-9bf2-c0eadfdcf6e7

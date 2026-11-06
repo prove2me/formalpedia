@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Cal_log_le_yC
 -- name    : SparsificationLemma.Cal.log_le_yC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:50.524346+00:00
 -- url     : https://prove2.me/theorems/0e8fdcfe-251a-4079-a84a-17cfad35a71e

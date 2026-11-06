@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_eight_isPieces
 -- name    : GeneralPieces.eight_isPieces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:30.020381+00:00
 -- url     : https://prove2.me/theorems/9f85f25b-afc2-4eac-9164-d70ff2a1ff93

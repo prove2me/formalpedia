@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_NETWORKp_keeps
 -- name    : Eight.ViaGrouping.NETWORKp_keeps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:25:39.412883+00:00
 -- url     : https://prove2.me/theorems/4d6e865c-a080-49b1-8eb7-9b5ad8be011d

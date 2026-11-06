@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_lg_add_two_rpow_le
 -- name    : OccurM.lg_add_two_rpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:54.423204+00:00
 -- url     : https://prove2.me/theorems/6ee280d0-03d3-41fa-8c54-8df1ab42c8b7

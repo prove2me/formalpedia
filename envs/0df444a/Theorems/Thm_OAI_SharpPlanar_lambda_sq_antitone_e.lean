@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_lambda_sq_antitone_e
 -- name    : OAI.SharpPlanar.lambda_sq_antitone_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:49:32.895674+00:00
 -- url     : https://prove2.me/theorems/eb7e85bb-136f-4359-9d7c-75afe653b470

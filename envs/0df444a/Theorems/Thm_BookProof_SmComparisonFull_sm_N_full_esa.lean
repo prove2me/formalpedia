@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmComparisonFull_sm_N_full_esa
 -- name    : BookProof.SmComparisonFull.sm_N_full_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T17:56:07.069274+00:00
 -- url     : https://prove2.me/theorems/491a4e69-fb01-428f-b0a5-4f1c47cc1550

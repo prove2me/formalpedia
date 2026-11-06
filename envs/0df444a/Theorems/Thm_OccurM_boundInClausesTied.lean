@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_boundInClausesTied
 -- name    : OccurM.boundInClausesTied
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:14:20.744429+00:00
 -- url     : https://prove2.me/theorems/46d94154-34de-4bc4-aaa9-5810b8d088c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_okD_spec
 -- name    : VariableBound.Net.SizeB.okD_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:41.863866+00:00
 -- url     : https://prove2.me/theorems/8ca6a4ae-27fd-4126-b9d3-256d7f5c3937

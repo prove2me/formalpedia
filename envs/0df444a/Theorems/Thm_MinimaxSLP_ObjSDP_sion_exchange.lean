@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjSDP_sion_exchange
 -- name    : MinimaxSLP.ObjSDP.sion_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:07.738823+00:00
 -- url     : https://prove2.me/theorems/39eda5b1-51ad-4960-994d-f9672e18ea98

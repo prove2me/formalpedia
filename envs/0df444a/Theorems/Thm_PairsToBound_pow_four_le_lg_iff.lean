@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_pow_four_le_lg_iff
 -- name    : PairsToBound.pow_four_le_lg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:55:43.74206+00:00
 -- url     : https://prove2.me/theorems/49970d11-bc3d-44f4-8679-b0b67e3791f4

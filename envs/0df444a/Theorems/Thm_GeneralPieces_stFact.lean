@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_stFact
 -- name    : GeneralPieces.stFact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:41:51.360192+00:00
 -- url     : https://prove2.me/theorems/2116d03c-3808-44f9-b332-74d2146bbdeb

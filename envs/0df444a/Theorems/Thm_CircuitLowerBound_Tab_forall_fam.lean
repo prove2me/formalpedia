@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Tab_forall_fam
 -- name    : CircuitLowerBound.Tab.forall_fam
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:31:45.030727+00:00
 -- url     : https://prove2.me/theorems/1d8e1779-b2e9-4694-b14a-5bee295b4bb4

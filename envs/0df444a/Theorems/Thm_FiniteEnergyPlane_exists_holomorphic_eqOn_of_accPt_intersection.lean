@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_holomorphic_eqOn_of_accPt_intersection
 -- name    : FiniteEnergyPlane.exists_holomorphic_eqOn_of_accPt_intersection
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T21:08:47.860969+00:00
 -- url     : https://prove2.me/theorems/7387c623-9026-4854-b519-f72e75697361

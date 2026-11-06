@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_walkL_eq
 -- name    : SparsificationLemma.Mach.walkL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:02:19.728343+00:00
 -- url     : https://prove2.me/theorems/924cee47-b4c8-456b-8d7d-0580f5e75201

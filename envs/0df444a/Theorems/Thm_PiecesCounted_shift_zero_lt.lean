@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_shift_zero_lt
 -- name    : PiecesCounted.shift_zero_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:55.240938+00:00
 -- url     : https://prove2.me/theorems/54be7f21-841a-4628-8733-97654f58be76

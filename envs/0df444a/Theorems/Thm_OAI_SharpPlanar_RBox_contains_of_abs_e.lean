@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_RBox_contains_of_abs_e
 -- name    : OAI.SharpPlanar.RBox.contains_of_abs_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T06:04:24.175525+00:00
 -- url     : https://prove2.me/theorems/9a3bbf5e-c78c-465a-940a-83c3e52662cd

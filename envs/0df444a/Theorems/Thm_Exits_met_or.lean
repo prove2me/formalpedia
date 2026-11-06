@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_met_or
 -- name    : Exits.met_or
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:44:57.665055+00:00
 -- url     : https://prove2.me/theorems/7557a7d6-f1a6-4849-87ea-bda44f0c60e4

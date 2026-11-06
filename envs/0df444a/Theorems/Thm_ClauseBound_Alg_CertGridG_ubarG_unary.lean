@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_ubarG_unary
 -- name    : ClauseBound.Alg.CertGridG.ubarG_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:01:02.539209+00:00
 -- url     : https://prove2.me/theorems/875cd2fc-1bb1-4ea3-b6c7-3b87d7944251

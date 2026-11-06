@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeU_sum_lg_choose_le
 -- name    : VariableBound.Net.SizeU.sum_lg_choose_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:08.995837+00:00
 -- url     : https://prove2.me/theorems/231b5903-4383-4fa3-8270-dd344619bcd6

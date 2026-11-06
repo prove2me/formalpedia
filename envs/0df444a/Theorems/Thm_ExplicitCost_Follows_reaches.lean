@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_Follows_reaches
 -- name    : ExplicitCost.Follows.reaches
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:47:06.728296+00:00
 -- url     : https://prove2.me/theorems/604c9284-4ee5-40c1-b7d8-51a503fbab03

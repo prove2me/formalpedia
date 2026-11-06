@@ -1,10 +1,8 @@
 -- Prove2me | solution 16 for AvramDividend.Classical.barrierStrategy_zero_boundary_value_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-27T19:16:46.121637+00:00
 -- url     : https://prove2.me/submissions/93f106d6-dfef-4473-ad41-671f58749db5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

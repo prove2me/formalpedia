@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_WorstCase_dual_lambda_derivatives
 -- name    : OTDRO.WorstCase.dual_lambda_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:05:19.402192+00:00
 -- url     : https://prove2.me/theorems/ca17cb4a-764a-4a0b-8e59-525ed02c26df

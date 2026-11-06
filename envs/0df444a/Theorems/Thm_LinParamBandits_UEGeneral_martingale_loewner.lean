@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEGeneral_martingale_loewner
 -- name    : LinParamBandits.UEGeneral.martingale_loewner
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:27.50238+00:00
 -- url     : https://prove2.me/theorems/20815662-96cd-4cda-a0d8-8138c2f57fd1

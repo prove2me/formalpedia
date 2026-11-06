@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_met_first
 -- name    : Exits.met_first
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:45:19.722197+00:00
 -- url     : https://prove2.me/theorems/53e677f9-b096-4463-ae3c-edc1400b4ad4

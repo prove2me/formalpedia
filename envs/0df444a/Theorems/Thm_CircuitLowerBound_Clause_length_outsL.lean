@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_length_outsL
 -- name    : CircuitLowerBound.Clause.length_outsL
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:08:15.71546+00:00
 -- url     : https://prove2.me/theorems/2e0b9109-1692-4130-9a20-aca74153cd0a

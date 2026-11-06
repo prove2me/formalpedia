@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_walkSG_polyT
 -- name    : RecursionToBound.walkSG_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:40.999651+00:00
 -- url     : https://prove2.me/theorems/c6ef07fd-254f-4096-b6b8-6a88b0cc89dc

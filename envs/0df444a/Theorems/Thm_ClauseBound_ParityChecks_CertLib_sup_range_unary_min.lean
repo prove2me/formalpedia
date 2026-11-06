@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertLib_sup_range_unary_min
 -- name    : ClauseBound.ParityChecks.CertLib.sup_range_unary_min
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:19:50.899774+00:00
 -- url     : https://prove2.me/theorems/a92bdc74-6f7a-467d-abed-e54145296096

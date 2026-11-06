@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepSets_exists_rho_of_four_pow_code
 -- name    : DeepSets.exists_rho_of_four_pow_code
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:49:34.718149+00:00
 -- url     : https://prove2.me/theorems/505d7c14-eeae-460d-8b1b-245305fe3bf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_stp_ask
 -- name    : CircuitLowerBound.Oracle.stp_ask
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:44:06.852747+00:00
 -- url     : https://prove2.me/theorems/6ac929a1-3e09-47c5-9dcf-9a11d8b364d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_analytic_taylor_error_e
 -- name    : OAI.SharpPlanar.analytic_taylor_error_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:54:03.761016+00:00
 -- url     : https://prove2.me/theorems/3f2babcd-d4d9-404b-84bc-a76788da0b0f

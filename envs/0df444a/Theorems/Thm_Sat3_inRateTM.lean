@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sat3_inRateTM
 -- name    : Sat3.inRateTM
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:35:59.548243+00:00
 -- url     : https://prove2.me/theorems/c73b167b-8591-468d-bb22-d3155f3d445a

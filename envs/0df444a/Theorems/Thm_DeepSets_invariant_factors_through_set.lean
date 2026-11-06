@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepSets_invariant_factors_through_set
 -- name    : DeepSets.invariant_factors_through_set
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:50:15.698253+00:00
 -- url     : https://prove2.me/theorems/a907f191-0c22-4077-90a2-99c4d5a32ffb

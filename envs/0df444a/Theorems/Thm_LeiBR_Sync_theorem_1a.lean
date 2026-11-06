@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Sync_theorem_1a
 -- name    : LeiBR.Sync.theorem_1a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:10:31.870635+00:00
 -- url     : https://prove2.me/theorems/8e846962-6731-462e-8681-9bffd84200bb

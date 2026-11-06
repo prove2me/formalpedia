@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_stCliqueValue
 -- name    : Printed.stCliqueValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:49:33.323486+00:00
 -- url     : https://prove2.me/theorems/30504bf8-06c3-4059-8ffd-9533fa02f411

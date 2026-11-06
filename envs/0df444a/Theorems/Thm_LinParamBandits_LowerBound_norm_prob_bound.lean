@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_LowerBound_norm_prob_bound
 -- name    : LinParamBandits.LowerBound.norm_prob_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:00.704616+00:00
 -- url     : https://prove2.me/theorems/d8366d30-952f-4812-8828-812db2389f93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_sq_eq
 -- name    : ThmCount.sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:38.357515+00:00
 -- url     : https://prove2.me/theorems/979dcdfd-505f-4aaa-8216-1f5275c0a0bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_length_gatesC
 -- name    : CircuitLowerBound.Clause.length_gatesC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:07:35.722409+00:00
 -- url     : https://prove2.me/theorems/29466941-234f-46f1-8f07-01809770c3ee

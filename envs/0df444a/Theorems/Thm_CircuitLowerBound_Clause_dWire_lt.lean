@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_dWire_lt
 -- name    : CircuitLowerBound.Clause.dWire_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:52:30.005224+00:00
 -- url     : https://prove2.me/theorems/921d8595-5ebf-448c-ae81-1d29a2f2c417

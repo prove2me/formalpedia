@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Parse_block_flatten
 -- name    : CircuitLowerBound.Parse.block_flatten
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:49:48.460172+00:00
 -- url     : https://prove2.me/theorems/1e23cc1b-fc8b-4719-a578-e0bc46ce6a26

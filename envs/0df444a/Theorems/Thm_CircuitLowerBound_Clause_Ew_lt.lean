@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_Ew_lt
 -- name    : CircuitLowerBound.Clause.Ew_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:52:50.804971+00:00
 -- url     : https://prove2.me/theorems/9ed4a33b-f28a-45b0-b13a-c31c11e6d21d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Norm_length_norm
 -- name    : CircuitLowerBound.Norm.length_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:43:41.143589+00:00
 -- url     : https://prove2.me/theorems/65bb2928-6cf6-47b2-b372-10285cbb983e

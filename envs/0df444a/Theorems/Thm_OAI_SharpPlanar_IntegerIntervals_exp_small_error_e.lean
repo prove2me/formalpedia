@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_exp_small_error_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.exp_small_error_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:51:57.25007+00:00
 -- url     : https://prove2.me/theorems/8e5847b8-9576-4f0f-a7e7-ca0eacd4730a

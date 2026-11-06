@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_yC_mono
 -- name    : StepSparsify.yC_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:45.978197+00:00
 -- url     : https://prove2.me/theorems/db120dc8-987b-4de4-9321-2b4947086bc0

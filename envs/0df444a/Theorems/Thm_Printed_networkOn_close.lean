@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_networkOn_close
 -- name    : Printed.networkOn_close
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:44:44.40406+00:00
 -- url     : https://prove2.me/theorems/b9d7e865-b14f-4527-af7c-ac4294c73730

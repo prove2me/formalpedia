@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_KKT_remark_3_1_linear
 -- name    : KallMayerSLP.KKT.remark_3_1_linear
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:11:21.983098+00:00
 -- url     : https://prove2.me/theorems/97c8f794-190d-46d4-a014-c33f92e7271c

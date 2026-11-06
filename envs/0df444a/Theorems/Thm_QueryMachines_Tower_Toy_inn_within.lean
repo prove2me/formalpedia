@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_Toy_inn_within
 -- name    : QueryMachines.Tower.Toy.inn_within
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:03:52.372204+00:00
 -- url     : https://prove2.me/theorems/063ec393-c651-48b7-943b-16730dcee6b3

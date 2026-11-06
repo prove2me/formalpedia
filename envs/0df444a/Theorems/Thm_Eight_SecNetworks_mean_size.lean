@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_SecNetworks_mean_size
 -- name    : Eight.SecNetworks.mean_size
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:53:22.777439+00:00
 -- url     : https://prove2.me/theorems/46d80b7d-7e68-411c-951c-f409e9d7e015

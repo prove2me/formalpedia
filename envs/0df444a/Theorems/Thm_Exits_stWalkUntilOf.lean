@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stWalkUntilOf
 -- name    : Exits.stWalkUntilOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T16:53:58.986198+00:00
 -- url     : https://prove2.me/theorems/07f74e81-5920-4232-b328-e68846d31bfe

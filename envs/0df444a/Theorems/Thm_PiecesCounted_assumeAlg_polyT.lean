@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_assumeAlg_polyT
 -- name    : PiecesCounted.assumeAlg_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:59.585197+00:00
 -- url     : https://prove2.me/theorems/9d82d5f4-4c2d-40aa-a783-e92d8a6f30e0

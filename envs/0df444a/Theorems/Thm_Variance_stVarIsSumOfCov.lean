@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Variance_stVarIsSumOfCov
 -- name    : Variance.stVarIsSumOfCov
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:34:33.866198+00:00
 -- url     : https://prove2.me/theorems/fdb579cf-93ec-4d83-98d7-7bc78f216883

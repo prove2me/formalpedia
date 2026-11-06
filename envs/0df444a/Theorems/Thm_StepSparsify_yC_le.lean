@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_yC_le
 -- name    : StepSparsify.yC_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:28.493892+00:00
 -- url     : https://prove2.me/theorems/774e3a96-9bd8-4137-b41b-794190f66214

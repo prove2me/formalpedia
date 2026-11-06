@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_Correct_onFormula
 -- name    : Eight.ViaGrouping.Correct.onFormula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:17:36.463851+00:00
 -- url     : https://prove2.me/theorems/4f1bd910-dcf1-41b0-a064-05d3f5ffe73a

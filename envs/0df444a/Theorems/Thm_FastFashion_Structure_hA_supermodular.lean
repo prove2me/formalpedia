@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Structure_hA_supermodular
 -- name    : FastFashion.Structure.hA_supermodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:45.167984+00:00
 -- url     : https://prove2.me/theorems/4e04371e-5bad-4650-957c-3ad3bdc401c4

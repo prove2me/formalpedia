@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountKSatRate_Cert_polyT_roundS
 -- name    : CountKSatRate.Cert.polyT_roundS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:40:56.794862+00:00
 -- url     : https://prove2.me/theorems/07937da8-9a2b-4793-9aff-3906c682c49e

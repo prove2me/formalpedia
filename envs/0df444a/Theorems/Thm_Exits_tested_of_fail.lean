@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_tested_of_fail
 -- name    : Exits.tested_of_fail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:44:20.933591+00:00
 -- url     : https://prove2.me/theorems/62e6fff4-ab66-4746-801e-f3afdc6ce39b

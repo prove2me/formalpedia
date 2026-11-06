@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_sup_range_unary
 -- name    : ClauseBound.Alg.CertGridG.sup_range_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:18:01.399617+00:00
 -- url     : https://prove2.me/theorems/9a6783d5-76ce-4daf-9f64-64980ce7721a

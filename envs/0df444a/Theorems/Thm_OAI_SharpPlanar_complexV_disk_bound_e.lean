@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_complexV_disk_bound_e
 -- name    : OAI.SharpPlanar.complexV_disk_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:54:52.468424+00:00
 -- url     : https://prove2.me/theorems/7c8e3bfc-394e-4c28-a5c0-67dad2dfe921

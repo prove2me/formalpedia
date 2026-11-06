@@ -1,0 +1,122 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_p3_2_original_vanishing_error_grid_to_actual_prebudget_direct
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-05T16:33:08.17448+00:00
+-- url     : https://prove2.me/submissions/1c637deb-8d6b-4d22-a6d2-c53c2758b116
+
+import Mathlib
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Definitions.Def_AvramDividend_Classical_DividendStrategy
+import Theorems.Thm_AvramDividend_Classical_avram_p3_bv_original_prebudget_L1
+import Theorems.Thm_AvramDividend_Classical_avram_p3_2_nonnegative_signed_fatou_prebudget_bridge
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory Set Filter AvramDividend.Classical
+open scoped NNReal ENNReal
+noncomputable section
+
+/-- Signed physical finite-grid cash and terminal budgets with vanishing
+discretisation error imply the exact original strict-horizon budget. -/
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕) (hBV : X.BoundedVariation)
+    (x : ℝ) (C : ℝ≥0∞)
+    (D : ℝ≥0 → Ω → ℝ) (hD : IsAdmissibleLe X x C D)
+    (w : ℝ → ℝ) (hw_cont : ContinuousOn w (Ici 0))
+    (hw_neg : ∀ y < 0, w y = 0)
+    (hw_nonneg : ∀ ω (t : ℝ≥0), 0 < t →
+      (t : ℝ≥0∞) < ruinTime X x D ω →
+      0 ≤ w (riskProcess X x D t ω))
+    (q : ℝ) (hq : 0 ≤ q) (T : ℝ) (hT : 0 ≤ T)
+    (hTpos : 0 < T)
+    (F R : ℕ → Ω → ℝ) (ε : ℕ → ℝ)
+    (hFMeas : ∀ n, Measurable (F n))
+    (hFInt : ∀ n, Integrable (F n) P)
+    (hFNonneg : ∀ n, 0 ≤ᵐ[P] F n)
+    (hR : ∀ n, Integrable (R n) P ∧
+      (∫ ω, R n ω ∂P) ≤ 0)
+    (hErr : Tendsto ε atTop (nhds (0 : ℝ)))
+    (hBound : ∀ n, ∀ᵐ ω ∂P,
+      F n ω ≤ w x + R n ω + ε n)
+    (hFatou : ∀ᵐ ω ∂P,
+      let S : ℝ≥0 := ⟨T, hT⟩
+      ENNReal.ofReal (
+        (∫⁻ t in paymentTimes (ruinTime X x D ω) ∩ Iio T,
+          ENNReal.ofReal (Real.exp (-(q * t)))
+            ∂(dividendMeasure D ω)).toReal +
+        (if (S : ℝ≥0∞) < ruinTime X x D ω then
+          Real.exp (-(q * T)) * w (riskProcess X x D S ω)
+        else 0)) ≤
+      liminf (fun n => ENNReal.ofReal (F n ω)) atTop) :
+    let S : ℝ≥0 := ⟨T, hT⟩
+    (∫ ω, (∫⁻ t in paymentTimes (ruinTime X x D ω) ∩ Iio T,
+      ENNReal.ofReal (Real.exp (-(q * t)))
+        ∂(dividendMeasure D ω)).toReal +
+      (if (S : ℝ≥0∞) < ruinTime X x D ω then
+        Real.exp (-(q * T)) * w (riskProcess X x D S ω)
+      else 0) ∂P) ≤ w x := by
+  let S : ℝ≥0 := ⟨T, hT⟩
+  let Y : Ω → ℝ := fun ω =>
+    (∫⁻ t in paymentTimes (ruinTime X x D ω) ∩ Iio T,
+      ENNReal.ofReal (Real.exp (-(q * t)))
+        ∂(dividendMeasure D ω)).toReal +
+    (if (S : ℝ≥0∞) < ruinTime X x D ω then
+      Real.exp (-(q * T)) * w (riskProcess X x D S ω)
+    else 0)
+  have hYInt : Integrable Y P :=
+    avram_p3_bv_original_prebudget_L1 X hBV
+      x C D hD w hw_cont hw_neg q hq T hT
+  have hSpos : 0 < S := by
+    exact_mod_cast hTpos
+  have hYNonneg : 0 ≤ᵐ[P] Y := by
+    apply Filter.Eventually.of_forall
+    intro ω
+    dsimp [Y]
+    apply add_nonneg
+    · exact ENNReal.toReal_nonneg
+    · split_ifs with hsurv
+      · exact mul_nonneg (le_of_lt (Real.exp_pos _))
+          (hw_nonneg ω S hSpos hsurv)
+      · exact le_refl 0
+  have hFatou' : ∀ᵐ ω ∂P,
+      ENNReal.ofReal (Y ω) ≤
+        liminf (fun n => ENNReal.ofReal (F n ω)) atTop := by
+    simpa only [Y, S] using hFatou
+  letI : IsProbabilityMeasure P := X.isProbability
+  have hBudget (δ : ℝ) (hδ : 0 < δ) :
+      (∫ ω, Y ω ∂P) ≤ w x + δ := by
+    have hEventually : ∀ᶠ n in atTop, ε n < δ :=
+      hErr.eventually_lt_const hδ
+    obtain ⟨N, hN⟩ := Filter.eventually_atTop.1 hEventually
+    have hBoundTail (n : ℕ) :
+        ∀ᵐ ω ∂P, F (n + N) ω ≤ (w x + δ) + R (n + N) ω := by
+      filter_upwards [hBound (n + N)] with ω hω
+      have hNN : N ≤ n + N := by omega
+      have hε : ε (n + N) < δ := hN (n + N) hNN
+      linarith
+    have hFatouTail : ∀ᵐ ω ∂P,
+        ENNReal.ofReal (Y ω) ≤
+          liminf (fun n => ENNReal.ofReal (F (n + N) ω)) atTop := by
+      filter_upwards [hFatou'] with ω hω
+      have hlim :
+          liminf (fun n => ENNReal.ofReal (F (n + N) ω)) atTop =
+            liminf (fun n => ENNReal.ofReal (F n ω)) atTop :=
+        Filter.liminf_nat_add (fun n => ENNReal.ofReal (F n ω)) N
+      rw [hlim]
+      exact hω
+    exact avram_p3_2_nonnegative_signed_fatou_prebudget_bridge
+      P (w x + δ) Y (fun n => F (n + N)) (fun n => R (n + N))
+      hYInt hYNonneg (fun n => hFMeas (n + N))
+      (fun n => hFInt (n + N)) (fun n => hFNonneg (n + N))
+      (fun n => hR (n + N)) hBoundTail hFatouTail
+  change (∫ ω, Y ω ∂P) ≤ w x
+  by_contra hn
+  have hδ : 0 < ((∫ ω, Y ω ∂P) - w x) / 2 := by
+    have hlt : w x < ∫ ω, Y ω ∂P := lt_of_not_ge hn
+    linarith
+  have h := hBudget _ hδ
+  linarith

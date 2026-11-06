@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondRiskMap_Repr_lemma_1
 -- name    : CondRiskMap.Repr.lemma_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:52:55.196171+00:00
 -- url     : https://prove2.me/theorems/9e8fb4ed-adc1-4d46-9b83-b7b091a8dd11

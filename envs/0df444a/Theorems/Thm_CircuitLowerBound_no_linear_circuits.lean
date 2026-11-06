@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_no_linear_circuits
 -- name    : CircuitLowerBound.no_linear_circuits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:36:36.32556+00:00
 -- url     : https://prove2.me/theorems/4d0d9fb7-f0d7-4c30-825c-058d176d1ac4

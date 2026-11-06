@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_time_le
 -- name    : ThmCount.time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:40:11.384811+00:00
 -- url     : https://prove2.me/theorems/4ab792f8-a9e4-4447-a89a-22cfc1fadfdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpedalieriQHT_eq_19
 -- name    : SpedalieriQHT.eq_19
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:47:51.727413+00:00
 -- url     : https://prove2.me/theorems/933bef97-bc50-44d5-aa64-51e1f9175457

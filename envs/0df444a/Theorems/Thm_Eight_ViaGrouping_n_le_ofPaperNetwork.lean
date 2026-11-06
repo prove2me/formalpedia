@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_n_le_ofPaperNetwork
 -- name    : Eight.ViaGrouping.n_le_ofPaperNetwork
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:33.349389+00:00
 -- url     : https://prove2.me/theorems/acede0a3-d7be-4d77-b0eb-768a48b98405

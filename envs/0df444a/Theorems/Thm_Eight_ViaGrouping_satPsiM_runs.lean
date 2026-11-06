@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_satPsiM_runs
 -- name    : Eight.ViaGrouping.satPsiM_runs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:06.513421+00:00
 -- url     : https://prove2.me/theorems/542b9d4f-9e1d-4305-b4ba-6745960f0435

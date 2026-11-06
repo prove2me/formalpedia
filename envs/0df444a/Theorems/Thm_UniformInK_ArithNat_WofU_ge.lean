@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_ArithNat_WofU_ge
 -- name    : UniformInK.ArithNat.WofU_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:32.107681+00:00
 -- url     : https://prove2.me/theorems/f6c12e1b-7947-41c8-ae93-068aedc9f3f5

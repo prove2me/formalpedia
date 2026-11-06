@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_digL_polyT
 -- name    : ExplicitCost.digL_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:56:22.326326+00:00
 -- url     : https://prove2.me/theorems/746d1af8-673f-4271-b0b4-6a0bac26d834

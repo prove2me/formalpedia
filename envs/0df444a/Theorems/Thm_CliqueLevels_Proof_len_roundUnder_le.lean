@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliqueLevels_Proof_len_roundUnder_le
 -- name    : CliqueLevels.Proof.len_roundUnder_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:43:46.85628+00:00
 -- url     : https://prove2.me/theorems/dd247e71-d918-47fd-a47b-49e360440524

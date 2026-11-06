@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEGeneral_radius_large_deviation
 -- name    : LinParamBandits.UEGeneral.radius_large_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:25.955021+00:00
 -- url     : https://prove2.me/theorems/ab6ca709-c824-4740-8e17-3b61a116332d

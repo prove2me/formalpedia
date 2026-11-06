@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Prof_sum_oc
 -- name    : VariableBound.Net.Prof.sum_oc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:45:33.979061+00:00
 -- url     : https://prove2.me/theorems/7cc07d6d-3890-46e5-94f7-6f9347823174

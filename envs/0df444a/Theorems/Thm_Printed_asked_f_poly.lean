@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_asked_f_poly
 -- name    : Printed.asked_f_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:42:00.397787+00:00
 -- url     : https://prove2.me/theorems/b0717892-4664-4cb6-a8b5-174f0fce4781

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_thmHalfPieces
 -- name    : GeneralPieces.thmHalfPieces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:53:04.145172+00:00
 -- url     : https://prove2.me/theorems/26a43c86-50be-4de1-a629-79b9709fe663

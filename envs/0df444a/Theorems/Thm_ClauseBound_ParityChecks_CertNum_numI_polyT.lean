@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertNum_numI_polyT
 -- name    : ClauseBound.ParityChecks.CertNum.numI_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:20:37.787329+00:00
 -- url     : https://prove2.me/theorems/b5486a44-d486-4f90-b182-089db606cdd1

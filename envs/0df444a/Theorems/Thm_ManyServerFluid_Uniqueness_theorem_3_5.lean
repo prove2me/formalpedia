@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerFluid_Uniqueness_theorem_3_5
 -- name    : ManyServerFluid.Uniqueness.theorem_3_5
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:47:00.803496+00:00
 -- url     : https://prove2.me/theorems/dc8b0288-fe5c-41cd-b5c0-97423d7e7b8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesConstantOrder_LargeLeadTime_lemma_7
 -- name    : LostSalesConstantOrder.LargeLeadTime.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:20.44739+00:00
 -- url     : https://prove2.me/theorems/88e4c58f-e409-4dc7-a685-f98e76ba2da2

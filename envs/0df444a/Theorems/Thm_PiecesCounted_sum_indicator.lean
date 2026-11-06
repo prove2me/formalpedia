@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_sum_indicator
 -- name    : PiecesCounted.sum_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:35.36481+00:00
 -- url     : https://prove2.me/theorems/ca32bfd7-49cf-4d03-b0d3-b7f1d20aeb9d

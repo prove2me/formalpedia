@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_RiskMeasures_proposition_5_1
 -- name    : KallMayerSLP.RiskMeasures.proposition_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:41:14.813378+00:00
 -- url     : https://prove2.me/theorems/883e2dfd-5e1d-4e70-9149-8a9eeb704c45

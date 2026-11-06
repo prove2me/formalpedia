@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_transformedMoment_piece_average_error_e
 -- name    : OAI.SharpPlanar.transformedMoment_piece_average_error_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:59:14.370336+00:00
 -- url     : https://prove2.me/theorems/a8a4ab4b-61e2-4ac1-b81b-f4cfa5ecc7aa

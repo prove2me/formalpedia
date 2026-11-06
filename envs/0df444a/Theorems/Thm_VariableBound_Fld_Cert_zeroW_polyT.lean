@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Fld_Cert_zeroW_polyT
 -- name    : VariableBound.Fld.Cert.zeroW_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:13:30.661488+00:00
 -- url     : https://prove2.me/theorems/b2fde734-ec9e-4b78-bc08-8366540c1c18

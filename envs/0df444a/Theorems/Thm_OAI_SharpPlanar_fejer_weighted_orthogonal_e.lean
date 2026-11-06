@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejer_weighted_orthogonal_e
 -- name    : OAI.SharpPlanar.fejer_weighted_orthogonal_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:57:54.163162+00:00
 -- url     : https://prove2.me/theorems/a4c9c2f3-d4cd-4adf-bb88-29f8885d2bbd

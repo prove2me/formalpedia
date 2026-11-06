@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_wfa_posG
 -- name    : CircuitLowerBound.Clause.wfa_posG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:51:54.997687+00:00
 -- url     : https://prove2.me/theorems/685231b7-1eeb-4b39-a60a-9feaaa9e3a81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Blocks_ext_val
 -- name    : GraphProblems.Blocks.ext_val
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:43.137842+00:00
 -- url     : https://prove2.me/theorems/fd55006c-42ea-46f7-92db-a4b29e695f79

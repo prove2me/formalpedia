@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelNewtonDinkelbach_run_invariant
 -- name    : AccelNewtonDinkelbach.run_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:17:23.39351+00:00
 -- url     : https://prove2.me/theorems/e65aaace-6116-4488-ad9e-60867ac4318d

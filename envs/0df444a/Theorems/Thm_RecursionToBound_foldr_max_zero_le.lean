@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_foldr_max_zero_le
 -- name    : RecursionToBound.foldr_max_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:30.109269+00:00
 -- url     : https://prove2.me/theorems/6629a4a7-264c-4375-85d1-0349bbf10e61

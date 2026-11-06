@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StrongConv.prob_norm_eval_stableRep_ge_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-05T00:08:49.972656+00:00
 -- url     : https://prove2.me/submissions/e90067e1-f8b9-48d5-bb19-f21eb84c7392
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StrongConv

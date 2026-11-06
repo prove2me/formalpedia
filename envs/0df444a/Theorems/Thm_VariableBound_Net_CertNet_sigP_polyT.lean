@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_CertNet_sigP_polyT
 -- name    : VariableBound.Net.CertNet.sigP_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:38:14.926369+00:00
 -- url     : https://prove2.me/theorems/9c6eb385-b07c-4033-8ce0-585dd6301b70

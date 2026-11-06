@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_TopN_Cert_root17_polyT
 -- name    : ClauseBound.TopN.Cert.root17_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:57:40.728197+00:00
 -- url     : https://prove2.me/theorems/0adc48a4-9559-449b-9608-2a3677b62aba

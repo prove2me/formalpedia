@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_steps_le
 -- name    : OccurM.steps_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:36:53.548768+00:00
 -- url     : https://prove2.me/theorems/4a1e3224-bf65-4906-b4e0-3530d2ca928a

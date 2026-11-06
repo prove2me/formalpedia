@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_numerical_moment_bound_e
 -- name    : OAI.SharpPlanar.numerical_moment_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:42:59.968659+00:00
 -- url     : https://prove2.me/theorems/b4c68445-e4e6-4cb0-82b6-ecf36f5abc0e

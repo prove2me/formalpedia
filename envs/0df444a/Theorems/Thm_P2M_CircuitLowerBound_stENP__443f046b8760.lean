@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CircuitLowerBound_stENP__443f046b8760
 -- name    : P2M_CircuitLowerBound_stENP__443f046b8760
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:39:28.77803+00:00
 -- url     : https://prove2.me/theorems/c8c464c6-baa3-4bb5-8797-227e4846b733

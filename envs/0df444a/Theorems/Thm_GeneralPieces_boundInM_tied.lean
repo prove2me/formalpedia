@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_boundInM_tied
 -- name    : GeneralPieces.boundInM_tied
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:43:24.877413+00:00
 -- url     : https://prove2.me/theorems/59067f6c-6131-4def-8fbf-77f60f17f407

@@ -1,0 +1,233 @@
+-- Prove2me | solution 1 for QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroPlace_residueDegree_eq_inertia
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-06T05:01:55.928197+00:00
+-- url     : https://prove2.me/submissions/b5b7e56d-214c-4f22-afcb-a9a79b79895c
+
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Towers_SourceGaloisWGlobalPlaces
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Places_HeightOneQuotientResidue
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Residues_Rational_InfinityResidue
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Places_ResidueFinrankInertia
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_RiemannRoch_PlaceIncrement
+import Mathlib.RingTheory.Localization.AtPrime.Basic
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Towers_SourceGaloisWResidueDegrees
+import Theorems.Thm_Ideal_finrank_residueField_eq_inertiaDegIn_of_heightOne
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_AffinePlace_Rational_constantsToResidue_bijective
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_Differential_coe_rationalAdicPolynomialDifferential
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_Divisor_degree_zero
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_algebraMap_reciprocalUniformizer
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_algebraMap_sourceStepUniformizer
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_coe_sourceGaloisWFieldGenerator
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_coe_sourceSplitIntegralCoordinate
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_coe_sourceStepIntegralRoot
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_coe_sourceStepIntegralUniformizer
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_coe_splitIntegralAuxiliaryCoordinate
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_coe_stepIntegralRoot
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_coe_stepIntegralUniformizer
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_sourceGaloisWFieldEquivRatFunc_X
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_sourceSplitUpperRationalPlace_place
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_sourceStepResidualPolynomial_natDegree
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_splitUpperRationalPlace_place
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_stepAuxiliaryPolynomial_natDegree
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_stepFieldEquiv_stepAuxiliaryCoordinate
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_stepFieldEquiv_stepDistinguishedCoordinate
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_stepFieldEquiv_stepFieldEmbedding
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_stepFieldEquiv_stepReciprocalRoot
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_coe_constantsToValuationRing
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_coe_rationalAdicPolynomialToValuationRing
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_comapAlgEquiv_order
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_polarDivisor_zero
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_rationalAdicResidueEquiv_mk
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_rationalPlaceEquiv_apply_none
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_rationalPlaceEquiv_apply_some
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_repackageEquiv_order
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_repackageEquiv_valuation
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_repackage_valuation
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_residueDegree_eq_finrank
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_GlobalPlace_valuationRing_isDiscreteValuationRing
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_RatFuncDerivation_rationalDerivationEquiv_apply
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_RatFuncDerivation_rationalDerivationEquiv_symm_apply
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_RationalPlace_constantsToResidue_bijective
+attribute [local simp] QEC.Coding.AlgebraicGeometry.Differential.coe_rationalAdicPolynomialDifferential
+attribute [local simp] QEC.Coding.AlgebraicGeometry.Divisor.degree_zero
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.algebraMap_reciprocalUniformizer
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.algebraMap_sourceStepUniformizer
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.coe_sourceGaloisWFieldGenerator
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.coe_sourceSplitIntegralCoordinate
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.coe_sourceStepIntegralRoot
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.coe_sourceStepIntegralUniformizer
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.coe_splitIntegralAuxiliaryCoordinate
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.coe_stepIntegralRoot
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.coe_stepIntegralUniformizer
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWFieldEquivRatFunc_X
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceSplitUpperRationalPlace_place
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceStepResidualPolynomial_natDegree
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.splitUpperRationalPlace_place
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.stepAuxiliaryPolynomial_natDegree
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.stepFieldEquiv_stepAuxiliaryCoordinate
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.stepFieldEquiv_stepDistinguishedCoordinate
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.stepFieldEquiv_stepFieldEmbedding
+attribute [local simp] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.stepFieldEquiv_stepReciprocalRoot
+attribute [local simp] QEC.Coding.AlgebraicGeometry.GlobalPlace.coe_constantsToValuationRing
+attribute [local simp] QEC.Coding.AlgebraicGeometry.GlobalPlace.coe_rationalAdicPolynomialToValuationRing
+attribute [local simp] QEC.Coding.AlgebraicGeometry.GlobalPlace.comapAlgEquiv_order
+attribute [local simp] QEC.Coding.AlgebraicGeometry.GlobalPlace.polarDivisor_zero
+attribute [local simp] QEC.Coding.AlgebraicGeometry.GlobalPlace.rationalAdicResidueEquiv_mk
+attribute [local simp] QEC.Coding.AlgebraicGeometry.GlobalPlace.rationalPlaceEquiv_apply_none
+attribute [local simp] QEC.Coding.AlgebraicGeometry.GlobalPlace.rationalPlaceEquiv_apply_some
+attribute [local simp] QEC.Coding.AlgebraicGeometry.GlobalPlace.repackageEquiv_order
+attribute [local simp] QEC.Coding.AlgebraicGeometry.GlobalPlace.repackageEquiv_valuation
+attribute [local simp] QEC.Coding.AlgebraicGeometry.GlobalPlace.repackage_valuation
+attribute [local simp] QEC.Coding.AlgebraicGeometry.RatFuncDerivation.rationalDerivationEquiv_apply
+attribute [local simp] QEC.Coding.AlgebraicGeometry.RatFuncDerivation.rationalDerivationEquiv_symm_apply
+
+
+section
+namespace QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth
+noncomputable section
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wClosureAlgebra
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wClosureSMul
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wClosureModule
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wClosureFree
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wBaseFree
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wClosureFaithfulSMul
+attribute [local instance] sourceGaloisWResidueDegrees_wClosureScalarTower
+attribute [local instance] sourceGaloisWResidueDegrees_wClosureTorsionFree
+attribute [local instance] sourceGaloisWResidueDegrees_wClosureFiniteDimensional
+attribute [local instance] sourceGaloisWResidueDegrees_wClosureIsGalois
+attribute [local instance] sourceGaloisWResidueDegrees_closurePolynomialAlgebra
+attribute [local instance] sourceGaloisWResidueDegrees_closurePolynomialRatFuncScalarTower
+attribute [local instance] sourceGaloisWResidueDegrees_closureRatFuncIsSeparable
+attribute [local instance 2000] sourceGaloisWResidueDegrees_oBaseModule
+attribute [local instance 2000] sourceGaloisWResidueDegrees_oBaseFaithfulSMul
+attribute [local instance 2000] sourceGaloisWResidueDegrees_oClosureAlgebra
+attribute [local instance 2000] sourceGaloisWResidueDegrees_oClosureSMul
+attribute [local instance 2000] sourceGaloisWResidueDegrees_oClosureModule
+attribute [local instance] sourceGaloisWResidueDegrees_oBaseScalarTower
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureFractionTower
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureTorsionFree
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureFinite
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureIsFractionRing
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureIsDedekind
+attribute [local instance] sourceGaloisWResidueDegrees_wRelativeGalFinite
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureAction
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureIsGaloisGroup
+attribute [local instance] sourceGaloisWResidueDegrees_sourceGaloisWFieldConstantTower
+attribute [local instance] sourceGaloisWResidueDegrees_sourceGaloisWClosureFieldConstantTower
+private theorem sourceGaloisWResidueDegrees_sourceGaloisWClosureZero_constantsToResidue_bijective (m : ℕ) :
+    Function.Bijective
+      (GlobalPlace.constantsToResidue (sourceGaloisWClosureZeroPlace m)) := by
+  exact (sourceGaloisWResidueDegrees_sourceGaloisWClosureZeroRationalPlace m).constantsToResidue_bijective
+end
+end QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth
+end
+
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.AlgebraicGeometry QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth
+noncomputable section
+attribute [local instance 3000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wClosureAlgebra
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wClosureAlgebra
+attribute [local instance 3000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wClosureSMul
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wClosureSMul
+attribute [local instance 3000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wClosureModule
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wClosureModule
+attribute [local instance 3000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wClosureFree
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wClosureFree
+attribute [local instance 3000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wBaseFree
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wBaseFree
+attribute [local instance 3000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wClosureFaithfulSMul
+attribute [local instance 3000] sourceGaloisWResidueDegrees_wClosureFaithfulSMul
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wClosureScalarTower
+attribute [local instance] sourceGaloisWResidueDegrees_wClosureScalarTower
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wClosureTorsionFree
+attribute [local instance] sourceGaloisWResidueDegrees_wClosureTorsionFree
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wClosureFiniteDimensional
+attribute [local instance] sourceGaloisWResidueDegrees_wClosureFiniteDimensional
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wClosureIsGalois
+attribute [local instance] sourceGaloisWResidueDegrees_wClosureIsGalois
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_closurePolynomialAlgebra
+attribute [local instance] sourceGaloisWResidueDegrees_closurePolynomialAlgebra
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_closurePolynomialRatFuncScalarTower
+attribute [local instance] sourceGaloisWResidueDegrees_closurePolynomialRatFuncScalarTower
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_closureRatFuncIsSeparable
+attribute [local instance] sourceGaloisWResidueDegrees_closureRatFuncIsSeparable
+attribute [local instance 2000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oBaseModule
+attribute [local instance 2000] sourceGaloisWResidueDegrees_oBaseModule
+attribute [local instance 2000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oBaseFaithfulSMul
+attribute [local instance 2000] sourceGaloisWResidueDegrees_oBaseFaithfulSMul
+attribute [local instance 2000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oClosureAlgebra
+attribute [local instance 2000] sourceGaloisWResidueDegrees_oClosureAlgebra
+attribute [local instance 2000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oClosureSMul
+attribute [local instance 2000] sourceGaloisWResidueDegrees_oClosureSMul
+attribute [local instance 2000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oClosureModule
+attribute [local instance 2000] sourceGaloisWResidueDegrees_oClosureModule
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oBaseScalarTower
+attribute [local instance] sourceGaloisWResidueDegrees_oBaseScalarTower
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oIntegralClosureFractionTower
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureFractionTower
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oIntegralClosureTorsionFree
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureTorsionFree
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oIntegralClosureFinite
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureFinite
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oIntegralClosureIsFractionRing
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureIsFractionRing
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oIntegralClosureIsDedekind
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureIsDedekind
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_wRelativeGalFinite
+attribute [local instance] sourceGaloisWResidueDegrees_wRelativeGalFinite
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oIntegralClosureAction
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureAction
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_oIntegralClosureIsGaloisGroup
+attribute [local instance] sourceGaloisWResidueDegrees_oIntegralClosureIsGaloisGroup
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_sourceGaloisWFieldConstantTower
+attribute [local instance] sourceGaloisWResidueDegrees_sourceGaloisWFieldConstantTower
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWResidueDegrees_sourceGaloisWClosureFieldConstantTower
+attribute [local instance] sourceGaloisWResidueDegrees_sourceGaloisWClosureFieldConstantTower
+namespace QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth
+theorem _root_.solution (m : ℕ)
+    (P : SourceGaloisWZeroPrime m) :
+    GlobalPlace.residueDegree
+        (π := sourceGaloisWResidueDegrees_closurePolynomialAlgebra m)
+        (ρ := sourceGaloisClosureRatFuncAlgebra m)
+        (τ := sourceGaloisWResidueDegrees_closurePolynomialRatFuncScalarTower m)
+        (φ := sourceGaloisClosureFunctionField m)
+        (σ := sourceGaloisWResidueDegrees_closureRatFuncIsSeparable m)
+        (κ := sourceGaloisClosureConstantAlgebra m)
+        (sourceGaloisWZeroPlaceOfPrime m P) =
+      sourceGaloisWZeroInertiaDegree m := by
+  let Q := sourceGaloisWClosureZeroPlace m
+  let O₀ := Q.valuationRing
+  let C₀ := sourceGaloisWResidueDegrees_C m Q
+  let p : Ideal O₀ := IsLocalRing.maximalIdeal O₀
+  let H := sourceGaloisWZeroUpperHeightOne m P
+  letI : IsDiscreteValuationRing O₀ :=
+    Q.valuationRing_isDiscreteValuationRing
+  have hH : H.asIdeal.LiesOver p := by
+    change P.1.LiesOver
+      (IsLocalRing.maximalIdeal (sourceGaloisWClosureZeroPlace m).valuationRing)
+    exact P.2.2
+  let baseEquiv : F256 ≃+* (O₀ ⧸ p) :=
+    RingEquiv.ofBijective (GlobalPlace.constantsToResidue Q)
+      (sourceGaloisWResidueDegrees_sourceGaloisWClosureZero_constantsToResidue_bijective m)
+  let U := sourceGaloisWZeroPlaceOfPrime m P
+  have hvaluation : H.valuation (sourceGaloisWResidueDegrees_E m) = U.valuation := rfl
+  letI : Algebra F256 (GlobalPlace.residueField U) :=
+    GlobalPlace.residueAlgebra U
+  letI : FiniteDimensional F256 (GlobalPlace.residueField U) :=
+    GlobalPlace.residueField_finiteDimensional
+      (π := sourceGaloisWResidueDegrees_closurePolynomialAlgebra m)
+      (ρ := sourceGaloisClosureRatFuncAlgebra m)
+      (τ := sourceGaloisWResidueDegrees_closurePolynomialRatFuncScalarTower m)
+      (φ := sourceGaloisClosureFunctionField m)
+      (σ := sourceGaloisWResidueDegrees_closureRatFuncIsSeparable m)
+      U
+  rw [GlobalPlace.residueDegree_eq_finrank
+    (π := sourceGaloisWResidueDegrees_closurePolynomialAlgebra m)
+    (ρ := sourceGaloisClosureRatFuncAlgebra m)
+    (τ := sourceGaloisWResidueDegrees_closurePolynomialRatFuncScalarTower m)
+    (φ := sourceGaloisClosureFunctionField m)
+    (σ := sourceGaloisWResidueDegrees_closureRatFuncIsSeparable m)]
+  simpa only [sourceGaloisWZeroInertiaDegree] using
+    (Ideal.finrank_residueField_eq_inertiaDegIn_of_heightOne
+      (G := Gal((sourceGaloisWResidueDegrees_E m) / (sourceGaloisWResidueDegrees_W m))) p H hH U.valuation baseEquiv hvaluation)
+end QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth

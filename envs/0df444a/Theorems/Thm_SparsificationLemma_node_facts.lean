@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_node_facts
 -- name    : SparsificationLemma.node_facts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:45.836339+00:00
 -- url     : https://prove2.me/theorems/f29ef66c-219d-47fa-bee7-bc5f1593da82

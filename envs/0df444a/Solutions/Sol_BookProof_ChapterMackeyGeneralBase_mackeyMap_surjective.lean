@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterMackeyGeneralBase.mackeyMap_surjective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:31:52.75537+00:00
 -- url     : https://prove2.me/submissions/ad646961-2fca-487f-8718-06d3d0765d5e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterMackeyGeneralBase.lean — solution of BookProof.ChapterMackeyGeneralBase.mackeyMap_surjective
 import Mathlib

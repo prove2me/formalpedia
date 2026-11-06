@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_partC_n
 -- name    : GeneralPieces.partC_n
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:40:22.302191+00:00
 -- url     : https://prove2.me/theorems/bc7c9b1e-3196-4cc4-92d4-32ee07d39196

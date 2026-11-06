@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_OSRUnitary_eq_2_31
 -- name    : BaconThesis.OSRUnitary.eq_2_31
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:58:43.373177+00:00
 -- url     : https://prove2.me/theorems/4440bec5-da13-4c83-bdea-478cc3d96e3f

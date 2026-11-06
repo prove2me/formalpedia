@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_countP_block_le
 -- name    : VariableBound.Net.SizeP.countP_block_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:24.521493+00:00
 -- url     : https://prove2.me/theorems/ea50bf60-ba8f-4daf-98e7-013dbcde1715

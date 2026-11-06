@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_assumeAlg_runs_two
 -- name    : PiecesCounted.assumeAlg_runs_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:06.620783+00:00
 -- url     : https://prove2.me/theorems/3519eeb2-b36b-445c-b960-ec7fb22ea370

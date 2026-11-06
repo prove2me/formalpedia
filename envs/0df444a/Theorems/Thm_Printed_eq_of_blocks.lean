@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_eq_of_blocks
 -- name    : Printed.eq_of_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:50:20.799916+00:00
 -- url     : https://prove2.me/theorems/1fa17af4-0c99-474c-955c-1f16f9d26092

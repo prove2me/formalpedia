@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_cntN_splitN
 -- name    : Eight.Width.cntN_splitN
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:01:03.011394+00:00
 -- url     : https://prove2.me/theorems/576d2209-ca42-408a-b348-33f5d0f35e33

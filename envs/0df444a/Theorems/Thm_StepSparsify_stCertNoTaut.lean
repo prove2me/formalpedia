@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_stCertNoTaut
 -- name    : StepSparsify.stCertNoTaut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:07:21.976558+00:00
 -- url     : https://prove2.me/theorems/9e23d1de-69b0-473e-b434-e0983ca5edc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_ConnectedJoin_minimal_realization_unique
 -- name    : MetricGenerators.ConnectedJoin.minimal_realization_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:49:13.830892+00:00
 -- url     : https://prove2.me/theorems/3a6b807e-5afe-47de-aa28-e402bf61eb08

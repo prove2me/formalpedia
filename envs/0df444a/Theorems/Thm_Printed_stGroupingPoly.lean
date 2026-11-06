@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_stGroupingPoly
 -- name    : Printed.stGroupingPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:40:58.156764+00:00
 -- url     : https://prove2.me/theorems/836bfd6e-1b05-4177-a496-ab08a3088217

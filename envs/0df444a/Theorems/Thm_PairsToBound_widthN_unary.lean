@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_widthN_unary
 -- name    : PairsToBound.widthN_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:11:06.515339+00:00
 -- url     : https://prove2.me/theorems/15f6bdc6-6e62-4047-95cb-8e05747b0016

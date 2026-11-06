@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_ProbConstr_eq_2_20
 -- name    : KallMayerSLP.ProbConstr.eq_2_20
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:12:28.320412+00:00
 -- url     : https://prove2.me/theorems/df57d683-2871-431e-b4ba-ea0d4fb4a107

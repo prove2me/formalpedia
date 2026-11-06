@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_size_stack_le
 -- name    : Suffices.size_stack_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:32:45.700661+00:00
 -- url     : https://prove2.me/theorems/562e7368-39bc-4557-a4d0-473855881689

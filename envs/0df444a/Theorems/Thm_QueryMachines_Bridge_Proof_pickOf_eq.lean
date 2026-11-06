@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_pickOf_eq
 -- name    : QueryMachines.Bridge.Proof.pickOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:08.531216+00:00
 -- url     : https://prove2.me/theorems/02d6ebc3-ecc6-4a9d-91eb-fe2a9ad17ea3

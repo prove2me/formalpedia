@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_IntFeas_theorem_4
 -- name    : SPHardness.IntFeas.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:11:44.414165+00:00
 -- url     : https://prove2.me/theorems/dae4c7a3-5929-4abd-8c76-36799217ea34

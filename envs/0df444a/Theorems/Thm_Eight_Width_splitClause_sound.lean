@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_splitClause_sound
 -- name    : Eight.Width.splitClause_sound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:46:08.509414+00:00
 -- url     : https://prove2.me/theorems/cdecdca5-f24b-437e-883a-ff7bd6919536

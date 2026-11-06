@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GradDOvS_Submod_lemma_2_iii
 -- name    : GradDOvS.Submod.lemma_2_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:17:49.593542+00:00
 -- url     : https://prove2.me/theorems/fffa1535-9a7a-47e1-9897-5fb4328f1f9b

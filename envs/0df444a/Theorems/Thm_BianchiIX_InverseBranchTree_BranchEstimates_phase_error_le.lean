@@ -1,0 +1,71 @@
+-- Prove2me | Theorems.Thm_BianchiIX_InverseBranchTree_BranchEstimates_phase_error_le
+-- name    : BianchiIX.InverseBranchTree.BranchEstimates.phase_error_le
+-- status  : Proved
+-- author  : @trppppp
+-- created : 2026-11-04T18:44:39.649185+00:00
+-- url     : https://prove2.me/theorems/e156c75a-87d5-4753-b535-f9f8416938b9
+-- title:
+--   Local Gauss recurrence error of the actual phases
+-- statement:
+--   Let $T$ be an inverse-branch tree with open root
+--   $R\subset\mathbb R$. For every finite positive-digit word $v$ and digit $a$,
+--   let $U_{v,a}\subset\mathbb R$ be open and let $h_{v,a}:\mathbb R\to\mathbb R$
+--   be continuous and injective on $U_{v,a}$. For fixed $v$, assume the images
+--   $h_{v,a}(U_{v,a})$ are pairwise disjoint. Define
+--   $$K_\varnothing=R,\qquad K_{va}=U_{v,a}\cap h_{v,a}^{-1}(K_v),$$
+--   $$H_\varnothing=\mathrm{id},\qquad H_{va}=H_v\circ h_{v,a},\qquad C_v=H_v(K_v),$$
+--   $$D_v=K_v\setminus\bigcup_a h_{v,a}(U_{v,a}),\qquad S_n=\bigcup_{|v|=n}C_v.$$
+--   Here $va$ denotes appending the digit $a$ to $v$.
+--
+--   Let $S=\bigcap_nS_n$ be the surviving set. For $x\in S$, denote its unique
+--   length-$n$ cell word by $v_n(x)$ and define $a_n(x)$ by
+--   $v_{n+1}(x)=v_n(x)a_n(x)$. Let $g_b(t)=1/(b+t)$ and
+--   $G_v=g_{v_0}\circ\cdots\circ g_{v_{|v|-1}}$, with the empty composition the
+--   identity. The code is
+--   $$\kappa(x)=\lim_{n\to\infty}G_{v_n(x)}(0).$$
+--   For a Borel measure $\mu$ on $\mathbb R$, write $\mu_S$ for its pullback
+--   to the measurable subtype $S$ by the inclusion into $\mathbb R$.
+--
+--   Assume $R,U_{v,a}\subset(0,1)$ and that every branch is differentiable
+--   with nonzero derivative on its domain. Let real sequences $d,e$ satisfy,
+--   for every $t\in U_{v,a}$,
+--   $$|h_{v,a}(t)-g_a(t)|\leq d_{|v|},\qquad
+--   \left|\log\frac{|h_{v,a}'(t)|}{|g_a'(t)|}\right|\leq e_{|v|}.$$
+--   Put $B_n=\sum_{j=0}^{n-1}e_j+2\sum_{j=1}^{n-1}d_j$, with empty sums zero,
+--   and write $\lambda$ for Lebesgue measure.
+--   Let $\phi_n(x)$ be the phase in $K_{v_n(x)}$
+--   that maps to $x$. Then
+--   $$|\phi_n(x)-g_{a_n(x)}(\phi_{n+1}(x))|\leq d_n.$$
+-- source:
+--   https://github.com/l46430640-del/ERA-STATISTICS-FORMAL/blob/d74c241819f896ab8d050b21ace80c8e90eabd9e/BianchiIX/Statistics/TreeOrbits.lean#L54-L57
+
+import Definitions.Def_BianchiIX_Statistics_TreeDistortion
+import Definitions.Def_BianchiIX_Statistics_TreeOrbits
+import Mathlib.Analysis.Calculus.Deriv.Inv
+import Mathlib.Analysis.Calculus.Deriv.Add
+import Mathlib.Analysis.SpecificLimits.Basic
+import Mathlib.Data.List.Induction
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.Ring
+import Mathlib.Data.PNat.Basic
+import Mathlib.MeasureTheory.Constructions.BorelSpace.Metrizable
+import Mathlib.Data.Rat.Floor
+import Mathlib.NumberTheory.Real.Irrational
+import Mathlib.Order.OrderIsoNat
+import Mathlib.Analysis.SpecialFunctions.Log.Deriv
+import Mathlib.MeasureTheory.Group.MeasurableEquiv
+import Mathlib.MeasureTheory.Measure.Regular
+import Mathlib.MeasureTheory.Function.JacobianOneDim
+
+open Set MeasureTheory Filter
+open scoped Topology
+open BianchiIX
+open BianchiIX.InverseBranchTree
+variable (T : InverseBranchTree)
+open BianchiIX.InverseBranchTree.BranchEstimates
+variable {T : InverseBranchTree} {d e : ℕ → ℝ} (E : T.BranchEstimates d e)
+include E
+
+theorem BianchiIX.InverseBranchTree.BranchEstimates.phase_error_le (x : T.survivors) (n : ℕ) :
+    inverseError (fun k => (T.digits x k : ℕ)) (T.phase x) n ≤ d n := by sorry

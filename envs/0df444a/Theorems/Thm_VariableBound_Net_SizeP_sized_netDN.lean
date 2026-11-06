@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_sized_netDN
 -- name    : VariableBound.Net.SizeP.sized_netDN
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:03:41.887192+00:00
 -- url     : https://prove2.me/theorems/bac61835-f4a5-43c2-84ac-76a8d37c41f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_continuousOn_density_e
 -- name    : OAI.SharpPlanar.continuousOn_density_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:49:15.637869+00:00
 -- url     : https://prove2.me/theorems/fe94a200-eea3-486d-8646-402e1324f612

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_widthOr3F_toN
 -- name    : RecursionToBound.widthOr3F_toN
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:20.078795+00:00
 -- url     : https://prove2.me/theorems/15fb5de8-9ce0-43d8-809b-9e22235b42b7

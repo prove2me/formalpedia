@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_KKT_proposition_3_2
 -- name    : KallMayerSLP.KKT.proposition_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:09:32.611882+00:00
 -- url     : https://prove2.me/theorems/6f5c6430-5c2a-4929-8e36-b2a82075a88b

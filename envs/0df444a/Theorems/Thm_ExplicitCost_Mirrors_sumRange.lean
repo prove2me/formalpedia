@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_Mirrors_sumRange
 -- name    : ExplicitCost.Mirrors.sumRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:48:11.027187+00:00
 -- url     : https://prove2.me/theorems/719b4969-bc11-4103-a3f7-72c76d4a7e7b

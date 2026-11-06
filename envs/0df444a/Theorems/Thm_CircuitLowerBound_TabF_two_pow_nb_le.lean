@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_two_pow_nb_le
 -- name    : CircuitLowerBound.TabF.two_pow_nb_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:05:57.047475+00:00
 -- url     : https://prove2.me/theorems/3a2449a7-f6f6-4bf1-8bb9-0563d2aa6a2c

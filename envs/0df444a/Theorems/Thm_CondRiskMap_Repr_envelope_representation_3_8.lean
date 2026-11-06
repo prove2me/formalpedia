@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondRiskMap_Repr_envelope_representation_3_8
 -- name    : CondRiskMap.Repr.envelope_representation_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:53:36.715212+00:00
 -- url     : https://prove2.me/theorems/88f2a7bd-a21b-4754-bd42-f975081ee471

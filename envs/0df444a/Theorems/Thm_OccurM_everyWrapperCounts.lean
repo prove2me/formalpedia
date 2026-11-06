@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_everyWrapperCounts
 -- name    : OccurM.everyWrapperCounts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:11:11.393772+00:00
 -- url     : https://prove2.me/theorems/91205fe7-c0b7-4bde-a8d4-b9a62980a459

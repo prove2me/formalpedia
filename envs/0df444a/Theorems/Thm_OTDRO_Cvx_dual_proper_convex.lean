@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_Cvx_dual_proper_convex
 -- name    : OTDRO.Cvx.dual_proper_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:08:28.750267+00:00
 -- url     : https://prove2.me/theorems/fd1e3ad3-d8db-41da-9f70-ed74faa2ac28

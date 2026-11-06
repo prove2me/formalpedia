@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_thetaOfThePairs
 -- name    : PairsToBound.thetaOfThePairs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:37:03.25067+00:00
 -- url     : https://prove2.me/theorems/f81ff5ff-65a5-46c6-a2a9-18a4d7e00963

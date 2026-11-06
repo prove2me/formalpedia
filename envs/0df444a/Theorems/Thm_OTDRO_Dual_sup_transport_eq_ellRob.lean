@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_Dual_sup_transport_eq_ellRob
 -- name    : OTDRO.Dual.sup_transport_eq_ellRob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:32.896181+00:00
 -- url     : https://prove2.me/theorems/e092e151-b6fd-401d-b440-5aae1989e173

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_KKT_necessary_condition_strict
 -- name    : KallMayerSLP.KKT.necessary_condition_strict
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:10:12.587809+00:00
 -- url     : https://prove2.me/theorems/a86214aa-3515-4613-9265-4e62a925b883

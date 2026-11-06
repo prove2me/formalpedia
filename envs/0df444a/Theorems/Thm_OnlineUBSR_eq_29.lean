@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineUBSR_eq_29
 -- name    : OnlineUBSR.eq_29
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:18:14.827987+00:00
 -- url     : https://prove2.me/theorems/fc5c1df8-6c3b-4cc4-9dba-73c806c04248

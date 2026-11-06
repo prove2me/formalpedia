@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_NoAttain_C0_subset_D
 -- name    : GlynnSTS.NoAttain.C0_subset_D
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:09:56.63958+00:00
 -- url     : https://prove2.me/theorems/17b050b2-f5fb-4250-96c1-460fdf4b57ab

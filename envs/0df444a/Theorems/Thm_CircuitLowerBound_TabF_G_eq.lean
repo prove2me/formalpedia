@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_G_eq
 -- name    : CircuitLowerBound.TabF.G_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:13:45.89706+00:00
 -- url     : https://prove2.me/theorems/f3cde533-464c-47c0-84b0-574035a9a3c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_digit_eq_zero
 -- name    : ExplicitCost.digit_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:58:31.8472+00:00
 -- url     : https://prove2.me/theorems/2d132c80-71e8-460f-ad13-eb762cf1eed1

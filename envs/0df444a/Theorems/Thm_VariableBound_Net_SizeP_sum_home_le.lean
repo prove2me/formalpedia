@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_sum_home_le
 -- name    : VariableBound.Net.SizeP.sum_home_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:57.858851+00:00
 -- url     : https://prove2.me/theorems/337f2587-e4f2-4def-b163-717333291108

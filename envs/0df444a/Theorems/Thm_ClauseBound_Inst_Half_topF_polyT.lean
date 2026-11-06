@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_topF_polyT
 -- name    : ClauseBound.Inst.Half.topF_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:24:49.572746+00:00
 -- url     : https://prove2.me/theorems/f08d345a-814c-4cfb-bc4e-e59b38d1cd52

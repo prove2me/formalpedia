@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stClique
 -- name    : Exits.stClique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:46:14.875+00:00
 -- url     : https://prove2.me/theorems/12fb2249-4938-4422-8dce-f5bf981d51bf

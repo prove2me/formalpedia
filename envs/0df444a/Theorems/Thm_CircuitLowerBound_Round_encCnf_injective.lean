@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_encCnf_injective
 -- name    : CircuitLowerBound.Round.encCnf_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:59:20.891237+00:00
 -- url     : https://prove2.me/theorems/d90276b9-ee22-45d7-99c2-5b1417694c77

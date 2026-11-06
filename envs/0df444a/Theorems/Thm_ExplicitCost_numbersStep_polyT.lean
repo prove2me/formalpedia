@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_numbersStep_polyT
 -- name    : ExplicitCost.numbersStep_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:50:52.623842+00:00
 -- url     : https://prove2.me/theorems/3b3c094c-17fb-44a3-8af2-b82f2f389dcc

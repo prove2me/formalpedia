@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Leaves_mul_exponent_le
 -- name    : UniformInK.Leaves.mul_exponent_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:52.956135+00:00
 -- url     : https://prove2.me/theorems/4b40d3be-f7c2-483f-924e-8b5a70df46d6

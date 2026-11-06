@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriendlyShadow_Gaussian_theorem_22
 -- name    : FriendlyShadow.Gaussian.theorem_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:18:03.954848+00:00
 -- url     : https://prove2.me/theorems/b53119b3-3472-4d6f-b082-58784d21f716

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_shapeI_mono
 -- name    : QueryMachines.Tower.shapeI_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:46:02.314624+00:00
 -- url     : https://prove2.me/theorems/cc8c4f64-5b7d-480c-841c-0445784f8549

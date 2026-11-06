@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Step_card_lay_le
 -- name    : UniformInK.Step.card_lay_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:41:45.801925+00:00
 -- url     : https://prove2.me/theorems/4a6c33b3-cdc7-4d23-b4bc-bc333b04112d

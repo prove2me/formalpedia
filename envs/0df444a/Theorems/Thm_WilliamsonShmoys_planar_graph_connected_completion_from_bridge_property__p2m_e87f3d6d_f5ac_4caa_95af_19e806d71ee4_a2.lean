@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_connected_completion_from_bridge_property__p2m_e87f3d6d_f5ac_4caa_95af_19e806d71ee4_a2
 -- name    : WilliamsonShmoys.planar_graph_connected_completion_from_bridge_property__p2m_e87f3d6d_f5ac_4caa_95af_19e806d71ee4_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T23:44:15.29585+00:00
 -- url     : https://prove2.me/theorems/39b2e6d4-604e-4f41-9365-8bd67e4be3f2

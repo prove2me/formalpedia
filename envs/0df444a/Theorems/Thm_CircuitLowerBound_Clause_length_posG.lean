@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_length_posG
 -- name    : CircuitLowerBound.Clause.length_posG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:07:45.097871+00:00
 -- url     : https://prove2.me/theorems/4a5a9e3f-8840-49e9-b6c3-a2c5ce004d71

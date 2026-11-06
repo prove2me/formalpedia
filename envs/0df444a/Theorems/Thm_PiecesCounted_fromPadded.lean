@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_fromPadded
 -- name    : PiecesCounted.fromPadded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:21:00.94213+00:00
 -- url     : https://prove2.me/theorems/7b5bcdfe-8a30-4ddb-9726-4c233a3ab9d6

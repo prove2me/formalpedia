@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliqueLevels_Proof_fold_le
 -- name    : CliqueLevels.Proof.fold_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:43:13.840638+00:00
 -- url     : https://prove2.me/theorems/a8f9f4ff-ae06-49b5-9efd-bc1ccfd5e47e

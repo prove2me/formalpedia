@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_ProbConstr_realizationSet_convex_polyhedral
 -- name    : KallMayerSLP.ProbConstr.realizationSet_convex_polyhedral
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:10:22.316799+00:00
 -- url     : https://prove2.me/theorems/3f54a1a8-7fb5-4882-9a58-32fe0b98c2eb

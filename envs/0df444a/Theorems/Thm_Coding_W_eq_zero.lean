@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_W_eq_zero
 -- name    : Coding.W_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:25.354059+00:00
 -- url     : https://prove2.me/theorems/2bebb826-440f-409d-9052-1a8990192d95

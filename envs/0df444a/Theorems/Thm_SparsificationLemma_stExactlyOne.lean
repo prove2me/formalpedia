@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_stExactlyOne
 -- name    : SparsificationLemma.stExactlyOne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:07:14.483712+00:00
 -- url     : https://prove2.me/theorems/2d8b6ab8-6ddf-484c-b2af-057d84667b4d

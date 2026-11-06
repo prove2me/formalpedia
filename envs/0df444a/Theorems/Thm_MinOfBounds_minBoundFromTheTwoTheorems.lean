@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinOfBounds_minBoundFromTheTwoTheorems
 -- name    : MinOfBounds.minBoundFromTheTwoTheorems
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:10:26.237087+00:00
 -- url     : https://prove2.me/theorems/ef1886a8-93c2-4c3f-b2f0-8809987c5c9c

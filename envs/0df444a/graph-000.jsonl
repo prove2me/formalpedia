@@ -5053,16 +5053,16 @@
 {"parent": "AdaptiveProtection.Convergence.lemma2_robbins_siegmund", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["statement"]}
 {"parent": "AdaptiveProtection.Convergence.lemma3_bounded", "child": "AdaptiveProtection_Convergence_Setting", "via": ["statement"]}
 {"parent": "AdaptiveProtection.Convergence.lemma3_bounded", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["statement"]}
-{"parent": "AdaptiveProtection.Convergence.lemma4_rate_recursion", "child": "AdaptiveProtection_Convergence_Setting", "via": ["statement"]}
-{"parent": "AdaptiveProtection.Convergence.lemma4_rate_recursion", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["statement"]}
+{"parent": "AdaptiveProtection.Convergence.lemma4_rate_recursion", "child": "AdaptiveProtection_Convergence_Setting", "via": ["solution", "statement"]}
+{"parent": "AdaptiveProtection.Convergence.lemma4_rate_recursion", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["solution", "statement"]}
 {"parent": "AdaptiveProtection.Convergence.lipschitz_meanAdj", "child": "AdaptiveProtection_Convergence_Setting", "via": ["statement"]}
 {"parent": "AdaptiveProtection.Convergence.lipschitz_meanAdj", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["statement"]}
 {"parent": "AdaptiveProtection.Convergence.summable_weighted_error", "child": "AdaptiveProtection_Convergence_Setting", "via": ["statement"]}
 {"parent": "AdaptiveProtection.Convergence.summable_weighted_error", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["statement"]}
-{"parent": "AdaptiveProtection.Convergence.theorem1_case_one", "child": "AdaptiveProtection_Convergence_Setting", "via": ["statement"]}
-{"parent": "AdaptiveProtection.Convergence.theorem1_case_one", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["statement"]}
-{"parent": "AdaptiveProtection.Convergence.theorem1_convergence", "child": "AdaptiveProtection_Convergence_Setting", "via": ["statement"]}
-{"parent": "AdaptiveProtection.Convergence.theorem1_convergence", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["statement"]}
+{"parent": "AdaptiveProtection.Convergence.theorem1_case_one", "child": "AdaptiveProtection_Convergence_Setting", "via": ["solution", "statement"]}
+{"parent": "AdaptiveProtection.Convergence.theorem1_case_one", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["solution", "statement"]}
+{"parent": "AdaptiveProtection.Convergence.theorem1_convergence", "child": "AdaptiveProtection_Convergence_Setting", "via": ["solution", "statement"]}
+{"parent": "AdaptiveProtection.Convergence.theorem1_convergence", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["solution", "statement"]}
 {"parent": "AdaptiveProtection_Convergence_Setting", "child": "NestedSeatAlloc_ProbCond_Model", "via": ["statement"]}
 {"parent": "AdaptiveStepIPM.Potential.eq_16", "child": "AdaptiveStepIPM_Potential_Algorithm3", "via": ["solution", "statement"]}
 {"parent": "AdaptiveStepIPM.Potential.eq_16", "child": "LinearOptimization_InteriorPointPotential", "via": ["solution", "statement"]}
@@ -42713,11 +42713,11 @@
 {"parent": "AugLagLLC.Feas.eq_4_2", "child": "AugLagLLC_Feas_Setting", "via": ["statement"]}
 {"parent": "AugLagLLC.Feas.limit_mem_omega2", "child": "AugLagLLC_Feas_Setting", "via": ["statement"]}
 {"parent": "AugLagLLC.Feas.theorem_4_1", "child": "AugLagLLC_Feas_Setting", "via": ["solution", "statement"]}
-{"parent": "AugLagLLC.KKT.cpld_limit_kkt", "child": "AugLagLLC_KKT_ConstraintQualifications", "via": ["statement"]}
+{"parent": "AugLagLLC.KKT.cpld_limit_kkt", "child": "AugLagLLC_KKT_ConstraintQualifications", "via": ["solution", "statement"]}
 {"parent": "AugLagLLC.KKT.eq_4_10", "child": "AugLagLLC_KKT_Setting", "via": ["solution", "statement"]}
 {"parent": "AugLagLLC.KKT.eq_4_9", "child": "AugLagLLC_KKT_Setting", "via": ["solution", "statement"]}
-{"parent": "AugLagLLC.KKT.mfcq_multipliers_bounded", "child": "AugLagLLC_KKT_ConstraintQualifications", "via": ["statement"]}
-{"parent": "AugLagLLC.KKT.theorem_4_2", "child": "AugLagLLC_KKT_Setting", "via": ["statement"]}
+{"parent": "AugLagLLC.KKT.mfcq_multipliers_bounded", "child": "AugLagLLC_KKT_ConstraintQualifications", "via": ["solution", "statement"]}
+{"parent": "AugLagLLC.KKT.theorem_4_2", "child": "AugLagLLC_KKT_Setting", "via": ["solution", "statement"]}
 {"parent": "AugLagLLC.Penalty.eq_5_10", "child": "AugLagLLC_Penalty_SecondOrder", "via": ["statement"]}
 {"parent": "AugLagLLC.Penalty.h1_contraction", "child": "AugLagLLC_Penalty_SecondOrder", "via": ["statement"]}
 {"parent": "AugLagLLC.Penalty.lemma_5_2", "child": "AugLagLLC_Penalty_SecondOrder", "via": ["statement"]}
@@ -74829,9 +74829,9 @@
 {"parent": "AvramDividend.Classical.vcstar_basic_boundary_regular_of_positive_cstar", "child": "AvramDividend.Classical.vcstar_deriv_ge_one", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.vcstar_basic_boundary_regular_of_positive_cstar", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_basic_boundary_regular_of_positive_cstar", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.vcstar_capped_upper_bound_all_capital", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.vcstar_capped_upper_bound_all_capital", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.vcstar_capped_upper_bound_all_capital", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.vcstar_capped_upper_bound_all_capital", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.vcstar_capped_upper_bound_all_capital", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.vcstar_capped_upper_bound_all_capital", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_continuous_on_positive_bv", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_continuous_on_positive_bv", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_above_cstar", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
@@ -76771,10 +76771,10 @@
 {"parent": "BartlettNN.Margin.fat_squash_le_fat", "child": "BartlettNN_Margin_Covering", "via": ["solution", "statement"]}
 {"parent": "BartlettNN.Margin.fat_squash_le_fat", "child": "BartlettNN_Margin_FatShattering", "via": ["solution", "statement"]}
 {"parent": "BartlettNN.Margin.fat_squash_le_fat", "child": "BartlettNN_Margin_Squash", "via": ["solution", "statement"]}
-{"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_Classification", "via": ["statement"]}
-{"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_Covering", "via": ["statement"]}
-{"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_FatShattering", "via": ["statement"]}
-{"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_Squash", "via": ["statement"]}
+{"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_Classification", "via": ["solution", "statement"]}
+{"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_Covering", "via": ["solution", "statement"]}
+{"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_FatShattering", "via": ["solution", "statement"]}
+{"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_Squash", "via": ["solution", "statement"]}
 {"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_Classification", "via": ["solution", "statement"]}
 {"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_Covering", "via": ["solution", "statement"]}
 {"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_FatShattering", "via": ["solution", "statement"]}

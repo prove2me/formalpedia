@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_padOcc_inj
 -- name    : Coding.padOcc_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:28.113617+00:00
 -- url     : https://prove2.me/theorems/1d498a82-5af9-49e0-9700-17dc6a0af05f

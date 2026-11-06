@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_length_tested_le
 -- name    : Suffices.length_tested_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:26:20.083262+00:00
 -- url     : https://prove2.me/theorems/f2555487-ab16-4e09-8d26-614ba231a261

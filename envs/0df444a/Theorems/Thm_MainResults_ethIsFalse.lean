@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainResults_ethIsFalse
 -- name    : MainResults.ethIsFalse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T08:55:43.116744+00:00
 -- url     : https://prove2.me/theorems/55552c95-d6ff-433d-8f8e-dacfeffd295a

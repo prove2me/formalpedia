@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejerPolynomial_degree_e
 -- name    : OAI.SharpPlanar.fejerPolynomial_degree_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:56:15.544204+00:00
 -- url     : https://prove2.me/theorems/9ed25148-358f-48b5-9c59-aecb79466449

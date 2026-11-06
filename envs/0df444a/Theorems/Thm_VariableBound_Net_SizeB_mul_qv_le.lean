@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_mul_qv_le
 -- name    : VariableBound.Net.SizeB.mul_qv_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:29.861082+00:00
 -- url     : https://prove2.me/theorems/db83f4aa-baec-4819-9ba1-e0034a081a33

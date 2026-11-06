@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_abs_boole_le
 -- name    : VariableBound.Net.SizeP.abs_boole_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:28.856008+00:00
 -- url     : https://prove2.me/theorems/c46c8631-b459-4c65-aa2c-ff1a5b0ea762

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Color_sat_colorF
 -- name    : GraphProblems.Color.sat_colorF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:36:35.983539+00:00
 -- url     : https://prove2.me/theorems/715b2027-0f06-4f68-b874-b28d7f2d2b18

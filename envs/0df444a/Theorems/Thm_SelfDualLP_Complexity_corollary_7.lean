@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Complexity_corollary_7
 -- name    : SelfDualLP.Complexity.corollary_7
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:01:59.870991+00:00
 -- url     : https://prove2.me/theorems/270f2c7e-bf21-4905-bee2-4e90a61a1500

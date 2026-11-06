@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stFoldUntil
 -- name    : Exits.stFoldUntil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T16:51:29.177981+00:00
 -- url     : https://prove2.me/theorems/e8f66bb8-a754-4e84-96a4-d5ce7d1d3773

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsExtremal_theorem_3_3
 -- name    : MinimaxSLP.RhsExtremal.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:10.347289+00:00
 -- url     : https://prove2.me/theorems/6343b971-7bab-4e42-abbe-c6680e6c319f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_ingham_density_estimate
 -- name    : LindelofHypothesis.ingham_density_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T16:52:13.9421+00:00
 -- url     : https://prove2.me/theorems/4691a87d-6523-4153-8555-26fb32d58ac0

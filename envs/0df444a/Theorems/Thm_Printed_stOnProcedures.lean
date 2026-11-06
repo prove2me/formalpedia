@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_stOnProcedures
 -- name    : Printed.stOnProcedures
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:50:12.519339+00:00
 -- url     : https://prove2.me/theorems/157f9f27-5f91-4cc2-9220-8a175e0b95c9

@@ -1,0 +1,44 @@
+-- Prove2me | solution 1 for QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamificationIndex_two_le
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-06T05:26:53.517348+00:00
+-- url     : https://prove2.me/submissions/5cbcf0d0-1552-4175-93e3-bbb95fbb5846
+
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Towers_SourceGaloisSeedTranslation
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Towers_SourceGaloisWZeroRamification
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_sourceGaloisWZeroRamificationIndex_sixteen_dvd
+import Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_sourceGaloisWZeroRamificationIndex_pos
+
+
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.AlgebraicGeometry QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth
+noncomputable section
+attribute [local instance 4000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureBaseAlgebraPinned
+attribute [local instance 4000] sourceGaloisWZeroRamification_sourceZeroClosureBaseAlgebraPinned
+attribute [local instance 4000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureBaseSMulPinned
+attribute [local instance 4000] sourceGaloisWZeroRamification_sourceZeroClosureBaseSMulPinned
+attribute [local instance 4000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureBaseModulePinned
+attribute [local instance 4000] sourceGaloisWZeroRamification_sourceZeroClosureBaseModulePinned
+attribute [local instance 4000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureConstantAlgebraPinned
+attribute [local instance 4000] sourceGaloisWZeroRamification_sourceZeroClosureConstantAlgebraPinned
+attribute [local instance 4000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureConstantSMulPinned
+attribute [local instance 4000] sourceGaloisWZeroRamification_sourceZeroClosureConstantSMulPinned
+attribute [local instance 4000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureConstantModulePinned
+attribute [local instance 4000] sourceGaloisWZeroRamification_sourceZeroClosureConstantModulePinned
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureConstantBaseTowerPinned
+attribute [local instance] sourceGaloisWZeroRamification_sourceZeroClosureConstantBaseTowerPinned
+attribute [local instance 4000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureRatFuncAlgebraPinned
+attribute [local instance 4000] sourceGaloisWZeroRamification_sourceZeroClosureRatFuncAlgebraPinned
+attribute [local instance 4000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureRatFuncSMulPinned
+attribute [local instance 4000] sourceGaloisWZeroRamification_sourceZeroClosureRatFuncSMulPinned
+attribute [local instance 4000] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureRatFuncModulePinned
+attribute [local instance 4000] sourceGaloisWZeroRamification_sourceZeroClosureRatFuncModulePinned
+attribute [local instance] QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisWZeroRamification_sourceZeroClosureRatFuncTowerPinned
+attribute [local instance] sourceGaloisWZeroRamification_sourceZeroClosureRatFuncTowerPinned
+namespace QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth
+theorem _root_.solution (m : ℕ) :
+    2 ≤ sourceGaloisWZeroRamificationIndex (m + 1) := by
+  obtain ⟨n, hn⟩ := sourceGaloisWZeroRamificationIndex_sixteen_dvd m
+  have hpositive := sourceGaloisWZeroRamificationIndex_pos (m + 1)
+  omega
+end QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth

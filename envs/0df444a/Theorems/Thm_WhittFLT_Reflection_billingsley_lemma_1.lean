@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_Reflection_billingsley_lemma_1
 -- name    : WhittFLT.Reflection.billingsley_lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:56:13.410635+00:00
 -- url     : https://prove2.me/theorems/00ebb8cb-6b74-4d1e-9b7e-1acc3a785b78

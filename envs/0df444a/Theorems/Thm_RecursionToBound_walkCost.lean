@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_walkCost
 -- name    : RecursionToBound.walkCost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:12:41.873542+00:00
 -- url     : https://prove2.me/theorems/dbaab2fc-55da-4d86-80a4-48cb3ae6918e

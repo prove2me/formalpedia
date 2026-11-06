@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertNum_colOf_polyT
 -- name    : ClauseBound.ParityChecks.CertNum.colOf_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:28:37.647544+00:00
 -- url     : https://prove2.me/theorems/8cbc0973-8f6d-4b45-9c82-dfdf354494ad

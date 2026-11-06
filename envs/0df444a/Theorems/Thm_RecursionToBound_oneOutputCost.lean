@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_oneOutputCost
 -- name    : RecursionToBound.oneOutputCost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:12:39.500443+00:00
 -- url     : https://prove2.me/theorems/8d474595-bc69-4bda-a865-a741266d9d15

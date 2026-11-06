@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_Optimality_eq_31_sanov_lower
 -- name    : BootRobust.Optimality.eq_31_sanov_lower
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:38.873125+00:00
 -- url     : https://prove2.me/theorems/7695d32b-b601-41f5-88c8-0ff59eaaf4a0

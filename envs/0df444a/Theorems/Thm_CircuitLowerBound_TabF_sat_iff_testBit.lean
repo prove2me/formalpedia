@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_sat_iff_testBit
 -- name    : CircuitLowerBound.TabF.sat_iff_testBit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:05:23.346201+00:00
 -- url     : https://prove2.me/theorems/72dbcbf3-cde4-479b-a903-6a14c98c1f2b

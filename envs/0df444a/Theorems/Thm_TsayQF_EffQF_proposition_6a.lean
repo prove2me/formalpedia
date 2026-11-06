@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsayQF_EffQF_proposition_6a
 -- name    : TsayQF.EffQF.proposition_6a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:21.523597+00:00
 -- url     : https://prove2.me/theorems/4f7407a2-92b9-4117-9557-23b0456b7077

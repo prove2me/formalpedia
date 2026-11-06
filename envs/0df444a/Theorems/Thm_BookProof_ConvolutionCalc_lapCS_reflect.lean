@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ConvolutionCalc_lapCS_reflect
 -- name    : BookProof.ConvolutionCalc.lapCS_reflect
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T09:12:20.015362+00:00
 -- url     : https://prove2.me/theorems/c58bc159-cb5f-45da-9937-0159e7a7d17f

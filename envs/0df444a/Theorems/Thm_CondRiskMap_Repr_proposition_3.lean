@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondRiskMap_Repr_proposition_3
 -- name    : CondRiskMap.Repr.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:53:03.513747+00:00
 -- url     : https://prove2.me/theorems/5e2cc5c2-aa8d-49c4-b91f-6f3bf96bc0c1

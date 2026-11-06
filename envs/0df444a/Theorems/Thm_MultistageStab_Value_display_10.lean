@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultistageStab_Value_display_10
 -- name    : MultistageStab.Value.display_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:13.678495+00:00
 -- url     : https://prove2.me/theorems/06cecc58-0586-4259-8715-0846619eaf4c

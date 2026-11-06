@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NamesInOrder_generalFormFollowsAsPropositions
 -- name    : NamesInOrder.generalFormFollowsAsPropositions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:15:21.852755+00:00
 -- url     : https://prove2.me/theorems/85190768-741e-4912-9a32-675669be4415

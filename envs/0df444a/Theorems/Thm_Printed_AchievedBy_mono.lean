@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_AchievedBy_mono
 -- name    : Printed.AchievedBy.mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:55:56.625282+00:00
 -- url     : https://prove2.me/theorems/471208ed-b311-426c-a5cb-9aac45e5d91b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_SecNetworks_var_Y
 -- name    : Eight.SecNetworks.var_Y
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:53:34.223301+00:00
 -- url     : https://prove2.me/theorems/7cfe3c7b-f163-4a6f-ad5c-154f082ce53d

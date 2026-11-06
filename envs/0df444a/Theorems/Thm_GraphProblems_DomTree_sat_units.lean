@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_DomTree_sat_units
 -- name    : GraphProblems.DomTree.sat_units
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:02:05.144931+00:00
 -- url     : https://prove2.me/theorems/249246c3-817c-47e8-9780-1837812d21c4

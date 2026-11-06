@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_Cost_K2L_le_real
 -- name    : Eight.ViaGrouping.Cost.K2L_le_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:23.491199+00:00
 -- url     : https://prove2.me/theorems/cf805d7e-184d-4acc-a847-6e592cfc4f60

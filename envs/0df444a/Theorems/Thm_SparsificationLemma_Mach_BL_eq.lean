@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_BL_eq
 -- name    : SparsificationLemma.Mach.BL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:02.861338+00:00
 -- url     : https://prove2.me/theorems/a69dcf7e-42de-4208-afdb-10f103ca21a5

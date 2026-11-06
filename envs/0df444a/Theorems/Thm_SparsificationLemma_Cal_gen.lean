@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Cal_gen
 -- name    : SparsificationLemma.Cal.gen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:08:23.075602+00:00
 -- url     : https://prove2.me/theorems/b98bb1c5-b03b-49f1-b580-c19a496894d4

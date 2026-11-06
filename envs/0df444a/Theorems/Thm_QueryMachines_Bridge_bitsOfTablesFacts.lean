@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_bitsOfTablesFacts
 -- name    : QueryMachines.Bridge.bitsOfTablesFacts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:18:55.196466+00:00
 -- url     : https://prove2.me/theorems/81e4af01-a1b8-4caf-af09-b3db8d786806

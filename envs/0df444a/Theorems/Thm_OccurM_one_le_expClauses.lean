@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_one_le_expClauses
 -- name    : OccurM.one_le_expClauses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:22:29.21021+00:00
 -- url     : https://prove2.me/theorems/02671ffe-ac1a-42bb-88a8-a68fe1f0dfa9

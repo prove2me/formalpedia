@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_nF_unary
 -- name    : CircuitLowerBound.Form.nF_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:00:24.541134+00:00
 -- url     : https://prove2.me/theorems/716ae384-c230-4d2c-8c25-a3a07a7c5657

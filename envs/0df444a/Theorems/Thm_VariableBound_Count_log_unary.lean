@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_log_unary
 -- name    : VariableBound.Count.log_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:54.306326+00:00
 -- url     : https://prove2.me/theorems/6c9e013c-0f88-4ac0-88dd-46b0898c15be

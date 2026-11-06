@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_halfPiecesExist
 -- name    : PiecesCounted.halfPiecesExist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:09.590472+00:00
 -- url     : https://prove2.me/theorems/596614cf-c494-44d2-88eb-ec3052847f9a

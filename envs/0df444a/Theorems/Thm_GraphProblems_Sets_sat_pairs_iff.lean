@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Sets_sat_pairs_iff
 -- name    : GraphProblems.Sets.sat_pairs_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:14.74256+00:00
 -- url     : https://prove2.me/theorems/14422a83-097c-4654-929a-d800cbdb2f3e

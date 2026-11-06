@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_wordCompared
 -- name    : QueryMachines.Bridge.Proof.wordCompared
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T19:24:25.114984+00:00
 -- url     : https://prove2.me/theorems/62fe23ba-37fd-446b-8492-f83765750f5f

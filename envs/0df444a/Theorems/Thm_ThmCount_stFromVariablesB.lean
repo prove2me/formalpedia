@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_stFromVariablesB
 -- name    : ThmCount.stFromVariablesB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:41:07.325185+00:00
 -- url     : https://prove2.me/theorems/d86ccadf-625b-4f28-9801-6b5c53d73505

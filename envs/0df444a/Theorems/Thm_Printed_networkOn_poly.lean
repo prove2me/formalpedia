@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_networkOn_poly
 -- name    : Printed.networkOn_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:46:34.734526+00:00
 -- url     : https://prove2.me/theorems/fc49451f-cd06-479e-8116-decc54ed6e8e

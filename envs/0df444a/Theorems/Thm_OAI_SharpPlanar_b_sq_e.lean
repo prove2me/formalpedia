@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_b_sq_e
 -- name    : OAI.SharpPlanar.b_sq_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:49:09.441767+00:00
 -- url     : https://prove2.me/theorems/2f320e6d-ce1c-4352-b3b4-b52e844bb656

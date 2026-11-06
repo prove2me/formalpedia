@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_liftCfg_halt
 -- name    : CircuitLowerBound.Oracle.liftCfg_halt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:45:52.185207+00:00
 -- url     : https://prove2.me/theorems/eb740a41-f6c4-4cea-84af-0996d1f085e0

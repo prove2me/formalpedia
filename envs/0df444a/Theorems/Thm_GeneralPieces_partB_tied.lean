@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_partB_tied
 -- name    : GeneralPieces.partB_tied
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:40:54.738671+00:00
 -- url     : https://prove2.me/theorems/efdb95fb-8c6d-45e1-854b-6c0df832d14c

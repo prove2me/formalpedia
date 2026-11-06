@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_runForIsRight
 -- name    : QueryMachines.Bridge.runForIsRight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:15:40.01806+00:00
 -- url     : https://prove2.me/theorems/b97c0085-5c82-456f-b2b8-b99e7494e1bb

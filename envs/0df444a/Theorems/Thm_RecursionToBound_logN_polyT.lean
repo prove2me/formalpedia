@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_logN_polyT
 -- name    : RecursionToBound.logN_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:33.0026+00:00
 -- url     : https://prove2.me/theorems/3319249c-de9b-45ca-b27a-9cd46f90421f

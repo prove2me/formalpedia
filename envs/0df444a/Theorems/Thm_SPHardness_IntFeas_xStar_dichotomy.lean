@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_IntFeas_xStar_dichotomy
 -- name    : SPHardness.IntFeas.xStar_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:11:43.832409+00:00
 -- url     : https://prove2.me/theorems/b930ff64-800b-46b4-bb43-8688e1c28f3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_ArithNat_argD_le
 -- name    : VariableBound.ArithNat.argD_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:29.95561+00:00
 -- url     : https://prove2.me/theorems/e05cfdf3-520d-4061-b27b-4e55111a1a3f

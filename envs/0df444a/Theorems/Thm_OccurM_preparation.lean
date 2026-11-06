@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_preparation
 -- name    : OccurM.preparation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:00.05045+00:00
 -- url     : https://prove2.me/theorems/057a3c7f-ef98-4e6f-a303-2f769578471b

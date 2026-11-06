@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrWardrop_ccwe_integral_le
 -- name    : CorrWardrop.ccwe_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:28:23.802156+00:00
 -- url     : https://prove2.me/theorems/20d22655-5b6f-4f38-b782-cc822e62f5b0

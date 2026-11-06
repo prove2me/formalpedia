@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Level_Cert_factor_polyT
 -- name    : Eight.Level.Cert.factor_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:30:42.162941+00:00
 -- url     : https://prove2.me/theorems/cf94c1e1-7992-423e-8d7f-bf6f9480281d

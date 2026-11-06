@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_IntFeas_epsOptimal_bound
 -- name    : SPHardness.IntFeas.epsOptimal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:11:41.972488+00:00
 -- url     : https://prove2.me/theorems/1896be18-e9ee-4c92-87ce-16b8f55fa9a6

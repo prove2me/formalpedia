@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_Mirrors_gated
 -- name    : ExplicitCost.Mirrors.gated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:26:39.094172+00:00
 -- url     : https://prove2.me/theorems/c70f56ca-eb45-41eb-bd67-7bd905ad6651

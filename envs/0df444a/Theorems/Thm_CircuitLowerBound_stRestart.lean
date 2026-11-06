@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_stRestart
 -- name    : CircuitLowerBound.stRestart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:47:11.256699+00:00
 -- url     : https://prove2.me/theorems/d3ca7ccf-622d-48ca-bbaa-2badd0ec6f5b

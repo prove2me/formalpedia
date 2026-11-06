@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_bitsOfTables_eq
 -- name    : QueryMachines.Bridge.Proof.bitsOfTables_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:24.160766+00:00
 -- url     : https://prove2.me/theorems/37886a6c-f57e-41a5-8fda-61cff2117795

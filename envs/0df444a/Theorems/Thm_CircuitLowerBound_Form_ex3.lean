@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_ex3
 -- name    : CircuitLowerBound.Form.ex3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:54:19.378124+00:00
 -- url     : https://prove2.me/theorems/ace09801-a7a5-4451-b327-eb67b69c035c

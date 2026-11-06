@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_sat_Phi_of_pre
 -- name    : CircuitLowerBound.Alg.sat_Phi_of_pre
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:51.994477+00:00
 -- url     : https://prove2.me/theorems/545ec890-0a19-4841-af03-9e0addc9afa2

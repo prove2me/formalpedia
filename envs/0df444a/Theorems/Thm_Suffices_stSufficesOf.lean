@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_stSufficesOf
 -- name    : Suffices.stSufficesOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:35:30.59127+00:00
 -- url     : https://prove2.me/theorems/ad49e2b3-5d41-45e6-9336-57ce943af89c

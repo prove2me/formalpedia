@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EsaPair_ESAPair_dGamma_essentiallySelfAdjoint
 -- name    : BookProof.EsaPair.ESAPair.dGamma_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:52:46.268358+00:00
 -- url     : https://prove2.me/theorems/8081a5b2-d84f-4235-a769-5fd7cb3b325c

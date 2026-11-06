@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_bound_mono
 -- name    : QueryMachines.Bridge.Proof.bound_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:35.943809+00:00
 -- url     : https://prove2.me/theorems/8133af04-d286-4d5f-b97f-b449f2268323

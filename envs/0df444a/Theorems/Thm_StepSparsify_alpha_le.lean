@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_alpha_le
 -- name    : StepSparsify.alpha_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:30.122946+00:00
 -- url     : https://prove2.me/theorems/e25cb2b8-9652-4853-80fb-9baff7a372f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_stArgD
 -- name    : VariableBound.stArgD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:05:15.336445+00:00
 -- url     : https://prove2.me/theorems/9ab5e49b-fe78-446b-8c25-8e912addce0c

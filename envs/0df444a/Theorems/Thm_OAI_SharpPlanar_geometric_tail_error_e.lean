@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_geometric_tail_error_e
 -- name    : OAI.SharpPlanar.geometric_tail_error_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:42:37.632575+00:00
 -- url     : https://prove2.me/theorems/0cf93363-acfa-4da0-a1a8-9697ef3a6803

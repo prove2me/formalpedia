@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_count_cost_pos_of
 -- name    : Eight.ViaGrouping.count_cost_pos_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:20:14.4042+00:00
 -- url     : https://prove2.me/theorems/307414e9-9598-497d-8379-3615594da5be

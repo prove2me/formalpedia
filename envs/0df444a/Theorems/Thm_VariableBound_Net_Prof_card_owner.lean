@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Prof_card_owner
 -- name    : VariableBound.Net.Prof.card_owner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:45:28.253323+00:00
 -- url     : https://prove2.me/theorems/45a8e91c-db7e-4242-9205-9e8991d30ede

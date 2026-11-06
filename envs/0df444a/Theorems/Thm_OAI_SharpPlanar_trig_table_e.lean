@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_trig_table_e
 -- name    : OAI.SharpPlanar.trig_table_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:59:39.268106+00:00
 -- url     : https://prove2.me/theorems/c2d9967e-1fdd-46ca-acd4-cd44e386a61e

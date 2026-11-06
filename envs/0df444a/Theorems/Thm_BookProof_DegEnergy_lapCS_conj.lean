@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DegEnergy_lapCS_conj
 -- name    : BookProof.DegEnergy.lapCS_conj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T09:18:50.670061+00:00
 -- url     : https://prove2.me/theorems/a35632f2-4725-41b2-87ff-5a09441e4f12

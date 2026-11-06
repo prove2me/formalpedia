@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Fld_Cert_two_pow_sD_le
 -- name    : VariableBound.Fld.Cert.two_pow_sD_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:42:43.515911+00:00
 -- url     : https://prove2.me/theorems/55d73232-fc11-4a4f-b163-c8058b66d04f

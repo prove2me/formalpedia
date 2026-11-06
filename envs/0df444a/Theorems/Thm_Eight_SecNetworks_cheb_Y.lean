@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_SecNetworks_cheb_Y
 -- name    : Eight.SecNetworks.cheb_Y
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:11:08.018451+00:00
 -- url     : https://prove2.me/theorems/332242b3-511e-434c-a624-589364f7ad2f

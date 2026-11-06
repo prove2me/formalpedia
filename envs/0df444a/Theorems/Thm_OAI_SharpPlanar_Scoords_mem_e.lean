@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Scoords_mem_e
 -- name    : OAI.SharpPlanar.Scoords_mem_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:48:01.738002+00:00
 -- url     : https://prove2.me/theorems/0be4d7d1-b663-4dd2-9b69-c481d30d1055

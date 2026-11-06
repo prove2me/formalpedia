@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleywegtSAA_ExpRate_ld_upper_bound
 -- name    : KleywegtSAA.ExpRate.ld_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:03:52.764984+00:00
 -- url     : https://prove2.me/theorems/2cd25682-938a-4466-a298-90a0c2cccccb

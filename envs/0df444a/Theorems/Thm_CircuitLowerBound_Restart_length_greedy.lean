@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Restart_length_greedy
 -- name    : CircuitLowerBound.Restart.length_greedy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:23.529219+00:00
 -- url     : https://prove2.me/theorems/f3e2f22d-8ff2-47fd-8111-15d9fa10b507

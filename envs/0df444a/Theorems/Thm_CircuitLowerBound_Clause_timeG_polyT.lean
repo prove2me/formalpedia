@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_timeG_polyT
 -- name    : CircuitLowerBound.Clause.timeG_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:54:28.924006+00:00
 -- url     : https://prove2.me/theorems/991dd50f-d38c-4232-90c4-c126c1d4a4c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BartlettNN_Margin_theorem2_margin_bound
 -- name    : BartlettNN.Margin.theorem2_margin_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:06:29.286007+00:00
 -- url     : https://prove2.me/theorems/967fb5f4-e327-4b6f-8363-2845c21f03e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_TimeReversal_negRev_timeChange
 -- name    : WhittFLT.TimeReversal.negRev_timeChange
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:58:02.927104+00:00
 -- url     : https://prove2.me/theorems/3a6628df-0a9c-4771-99fe-3a9ee9ff5e92

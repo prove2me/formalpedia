@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_solverOfMachinePolyFrom
 -- name    : QueryMachines.Bridge.solverOfMachinePolyFrom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:20:29.712215+00:00
 -- url     : https://prove2.me/theorems/f56044dc-3ce5-4a27-883f-e09981cfa8ad

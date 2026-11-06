@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Val_st_surj
 -- name    : VariableBound.Net.Val.st_surj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:43:24.732907+00:00
 -- url     : https://prove2.me/theorems/f9557d9a-5dbd-4b11-bb8c-1eda0eaf2fc9

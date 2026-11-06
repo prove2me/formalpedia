@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_positive_quadrature_error_e
 -- name    : OAI.SharpPlanar.positive_quadrature_error_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:43:22.153813+00:00
 -- url     : https://prove2.me/theorems/b2d59a93-1a62-43ef-a387-ecdef7df7233

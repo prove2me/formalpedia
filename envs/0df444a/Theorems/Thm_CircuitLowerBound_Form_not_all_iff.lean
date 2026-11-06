@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_not_all_iff
 -- name    : CircuitLowerBound.Form.not_all_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:58:56.305061+00:00
 -- url     : https://prove2.me/theorems/b61de90b-06ea-48da-9927-01876fce151a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrWardrop_eq_4_4
 -- name    : CorrWardrop.eq_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:28:22.298508+00:00
 -- url     : https://prove2.me/theorems/1244f9be-9315-4d87-a22a-48f57dd61d7a

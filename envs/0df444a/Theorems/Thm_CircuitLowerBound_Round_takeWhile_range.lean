@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_takeWhile_range
 -- name    : CircuitLowerBound.Round.takeWhile_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:56:28.398453+00:00
 -- url     : https://prove2.me/theorems/7a5d8c1e-b245-431c-ab11-a9db25f96cb6

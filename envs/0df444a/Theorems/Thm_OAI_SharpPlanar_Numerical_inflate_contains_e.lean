@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_inflate_contains_e
 -- name    : OAI.SharpPlanar.Numerical.inflate_contains_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T06:04:21.733127+00:00
 -- url     : https://prove2.me/theorems/e947967e-b80e-49df-bfea-5f3e72d7d454

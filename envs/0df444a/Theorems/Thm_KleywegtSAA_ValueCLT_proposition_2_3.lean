@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleywegtSAA_ValueCLT_proposition_2_3
 -- name    : KleywegtSAA.ValueCLT.proposition_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:10:08.294552+00:00
 -- url     : https://prove2.me/theorems/bb9ab718-c272-4ad0-b8bf-49d23fa71e5e

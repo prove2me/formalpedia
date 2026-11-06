@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_size_natCast_le
 -- name    : PiecesCounted.size_natCast_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:40.42994+00:00
 -- url     : https://prove2.me/theorems/a8cb8ee5-105b-45c3-8435-797d40bbfc5b

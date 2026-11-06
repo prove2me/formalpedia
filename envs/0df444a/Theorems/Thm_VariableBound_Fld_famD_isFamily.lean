@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Fld_famD_isFamily
 -- name    : VariableBound.Fld.famD_isFamily
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:38.183694+00:00
 -- url     : https://prove2.me/theorems/25cc8fd5-1ac6-4e49-bdc4-77a7ac8a2bd0

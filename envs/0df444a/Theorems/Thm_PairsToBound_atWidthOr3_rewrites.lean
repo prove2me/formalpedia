@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_atWidthOr3_rewrites
 -- name    : PairsToBound.atWidthOr3_rewrites
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:55:49.127303+00:00
 -- url     : https://prove2.me/theorems/cafb6a2b-18d2-4a97-8de9-11593726038f

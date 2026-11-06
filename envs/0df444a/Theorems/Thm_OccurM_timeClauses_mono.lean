@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_timeClauses_mono
 -- name    : OccurM.timeClauses_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:36.846994+00:00
 -- url     : https://prove2.me/theorems/7054f39b-5c85-4110-8c00-1fcf556eb671

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_Toy_val_child
 -- name    : QueryMachines.Tower.Toy.val_child
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:02:44.174994+00:00
 -- url     : https://prove2.me/theorems/bb3a7cc3-6767-487f-844a-ca86cd04d58c

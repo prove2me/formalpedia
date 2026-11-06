@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_Mirrors_mapOut
 -- name    : ExplicitCost.Mirrors.mapOut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:46:42.957906+00:00
 -- url     : https://prove2.me/theorems/65685622-99d9-4fbc-90a2-35f4c3e25a4b

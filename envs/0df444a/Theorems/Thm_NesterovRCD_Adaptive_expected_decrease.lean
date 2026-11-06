@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Adaptive_expected_decrease
 -- name    : NesterovRCD.Adaptive.expected_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:19.605887+00:00
 -- url     : https://prove2.me/theorems/f4cca0a9-2900-4540-a057-4573170e1857

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_Cost_exponent_le
 -- name    : Eight.ViaGrouping.Cost.exponent_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:40.423371+00:00
 -- url     : https://prove2.me/theorems/2926349d-9e5d-4278-8295-e1be2b48114a

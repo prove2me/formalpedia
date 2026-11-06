@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_pi_fine_e
 -- name    : OAI.SharpPlanar.pi_fine_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:43:00.456867+00:00
 -- url     : https://prove2.me/theorems/3ea1fd1d-d92f-4e35-b0b2-5c190675e30a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_stCertTabF
 -- name    : CircuitLowerBound.stCertTabF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:07:04.362343+00:00
 -- url     : https://prove2.me/theorems/8c074936-4ceb-41b3-b610-98b65597a208

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_WorstCase_worst_case_randomized_monge
 -- name    : OTDRO.WorstCase.worst_case_randomized_monge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:06:10.99805+00:00
 -- url     : https://prove2.me/theorems/86b7457b-e49d-4324-9e5c-6b9e113099f9

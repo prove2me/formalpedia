@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stGroupingLemmaOf
 -- name    : Exits.stGroupingLemmaOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:33:19.854254+00:00
 -- url     : https://prove2.me/theorems/b62fe4dc-71cc-4761-a919-26593b22c4ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowJobHardness_ColoringReduction_coloring_reduction_gap
 -- name    : FlowJobHardness.ColoringReduction.coloring_reduction_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:32:33.006486+00:00
 -- url     : https://prove2.me/theorems/32ffe73d-a08f-4aa3-b523-677942275059

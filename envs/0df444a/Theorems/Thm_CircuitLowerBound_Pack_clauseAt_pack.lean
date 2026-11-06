@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Pack_clauseAt_pack
 -- name    : CircuitLowerBound.Pack.clauseAt_pack
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:43:09.296392+00:00
 -- url     : https://prove2.me/theorems/c6573e08-55dc-4bef-80fa-dc5f87b15e84

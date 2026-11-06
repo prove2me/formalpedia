@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_total_le_leaves
 -- name    : SparsificationLemma.Mach.total_le_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:55.46904+00:00
 -- url     : https://prove2.me/theorems/11f112ed-27be-4292-9f0a-2e3f26bc1c1a

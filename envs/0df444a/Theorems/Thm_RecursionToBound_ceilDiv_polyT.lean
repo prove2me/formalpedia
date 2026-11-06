@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_ceilDiv_polyT
 -- name    : RecursionToBound.ceilDiv_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:01:57.444173+00:00
 -- url     : https://prove2.me/theorems/dc4daf93-e3d8-47f9-8836-08e444cbda2b

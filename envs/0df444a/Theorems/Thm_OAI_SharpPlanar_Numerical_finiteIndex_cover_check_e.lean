@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_finiteIndex_cover_check_e
 -- name    : OAI.SharpPlanar.Numerical.finiteIndex_cover_check_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:52:47.126961+00:00
 -- url     : https://prove2.me/theorems/bc6f4fe8-b028-42f4-b007-9f655d303fdb

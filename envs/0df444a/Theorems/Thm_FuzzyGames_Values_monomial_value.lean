@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_Values_monomial_value
 -- name    : FuzzyGames.Values.monomial_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:43.668792+00:00
 -- url     : https://prove2.me/theorems/04e7e6b3-2427-4490-8ba8-e1de376a6ad4

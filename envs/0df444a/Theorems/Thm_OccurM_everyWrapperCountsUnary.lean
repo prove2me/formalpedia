@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_everyWrapperCountsUnary
 -- name    : OccurM.everyWrapperCountsUnary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:22.86091+00:00
 -- url     : https://prove2.me/theorems/5d822710-59aa-4208-9bc1-4d2f29f732f5

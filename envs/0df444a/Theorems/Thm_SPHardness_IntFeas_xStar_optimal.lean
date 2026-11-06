@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_IntFeas_xStar_optimal
 -- name    : SPHardness.IntFeas.xStar_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:11:39.480994+00:00
 -- url     : https://prove2.me/theorems/f558968d-d4c6-4a8a-9523-acdadf0d1001

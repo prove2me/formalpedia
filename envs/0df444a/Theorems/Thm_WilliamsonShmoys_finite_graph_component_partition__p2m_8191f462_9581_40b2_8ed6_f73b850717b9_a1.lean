@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_graph_component_partition__p2m_8191f462_9581_40b2_8ed6_f73b850717b9_a1
 -- name    : WilliamsonShmoys.finite_graph_component_partition__p2m_8191f462_9581_40b2_8ed6_f73b850717b9_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:32:56.579999+00:00
 -- url     : https://prove2.me/theorems/541f4d18-a1f1-4871-8c63-71c1d558c1ee

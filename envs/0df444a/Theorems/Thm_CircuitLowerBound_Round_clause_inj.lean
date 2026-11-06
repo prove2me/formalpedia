@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_clause_inj
 -- name    : CircuitLowerBound.Round.clause_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:58:10.961634+00:00
 -- url     : https://prove2.me/theorems/7651ba32-a368-46b9-a9b7-894f572b1033

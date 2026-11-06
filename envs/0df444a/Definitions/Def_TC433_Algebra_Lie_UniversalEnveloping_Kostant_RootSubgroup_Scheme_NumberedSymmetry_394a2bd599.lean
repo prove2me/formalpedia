@@ -1,0 +1,533 @@
+-- Prove2me | Definitions.Def_TC433_Algebra_Lie_UniversalEnveloping_Kostant_RootSubgroup_Scheme_NumberedSymmetry_394a2bd599
+-- name    : TC433_Algebra_Lie_UniversalEnveloping_Kostant_RootSubgroup_Scheme_NumberedSymmetry_394a2bd599
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T11:42:17.929775+00:00
+-- url     : https://prove2.me/theorems/abe68e6e-1dce-48c0-bdca-6e54f3454c1c
+-- title:
+--   TauCeti: Algebra / Lie / UniversalEnveloping / Kostant / RootSubgroup / Scheme / NumberedSymmetry
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.Algebra.Lie.UniversalEnveloping.Kostant.RootSubgroup.Scheme.NumberedSymmetry for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/Algebra/Lie/UniversalEnveloping/Kostant/RootSubgroup/Scheme/NumberedSymmetry.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+public import Definitions.Def_TC433_Compat4331_Tensor_6326550516
+
+public import Definitions.Def_TC433_Algebra_AlgebraicGroup_GeneralLinear_Conjugation_79e36631cb
+public import Definitions.Def_TC433_Algebra_AlgebraicGroup_GeneralLinear_FunctorOfPoints_45e74c63fa
+public import Definitions.Def_TC433_Algebra_AlgebraicGroup_GeneralLinear_Weight_Torus_e30f327bba
+public import Definitions.Def_TC433_Algebra_Lie_UniversalEnveloping_Kostant_RootSubgroup_NumberedSymmetry_d5a09993e5
+public import Definitions.Def_TC433_Algebra_Lie_UniversalEnveloping_Kostant_RootSubgroup_Scheme_Basic_bcacf80af6
+
+/-!
+# The ambient coordinate automorphism of a numbered Kostant symmetry
+
+A symmetry of numbered Kostant data is a self-map `σ` of the index set together with a rational
+automorphism `θ` of the representation which preserves the integral lattice `M` and carries the
+action of `eᵢ` to the action of `e_{σ i}`. Conjugating by the scalar extension of `θ` is then an
+automorphism of the general linear group of `A ⊗[ℤ] M`, natural in the value ring `A`.
+
+This file turns that natural automorphism into an automorphism of the coordinate Hopf algebra of
+`GLₙ` itself, and records the two compositional identities a closed subgroup scheme of `GLₙ` needs
+in order to inherit it:
+
+```text
+γ ≫ xᵢ = x_{σ i},        γ ≫ (weight torus of wt) = weight torus of (wt ∘ π⁻¹).
+```
+
+The first says that conjugation permutes the represented Kostant root subgroups without touching
+their additive parameters. The second says that when `θ` acts monomially on the chosen lattice
+basis, with coordinate permutation `π` and integral scaling coefficients, conjugation carries the
+represented weight torus of a weight family to the weight torus of the relabelled family. The
+scaling coefficients cancel from diagonal conjugation. Preserving a subgroup scheme cut out by
+both families additionally requires weight equivariance identifying that family with the original
+one, through a permutation of the torus index and
+`GeneralLinear.weightTorusCoordinateMap_reindex`.
+
+Neither identity is available from the construction of the coordinate automorphism, which goes
+through the functor of points: full faithfulness of the functor of points on commutative Hopf
+algebras recovers the coordinate morphism from the natural conjugation, and each identity is then
+proved by evaluating both sides at the generic point of the relevant codomain.
+
+Nothing here assumes that `σ` comes from a Dynkin-diagram symmetry, that `θ` is unique, or that the
+weights are the weights of an admissible lattice: all of that is supplied by the caller.
+
+## Main declarations
+
+* `TauCeti.UniversalEnvelopingAlgebra.kostantNumberedSymmetryMatrix`: the matrix of the
+  base-changed lattice symmetry in the chosen basis.
+* `TauCeti.UniversalEnvelopingAlgebra.kostantNumberedSymmetryCoordinateIso`: the resulting
+  automorphism of the coordinate Hopf algebra of `GLₙ`.
+* `TauCeti.UniversalEnvelopingAlgebra.kostantNumberedSymmetryPoints`: conjugation by that matrix,
+  as an automorphism of any subgroup of `GLₙ` it normalizes, together with its coordinate
+  formula, its naturality in the value ring, and its order relation.
+
+## Main results
+
+* `pointsMulEquiv_mapPointsFunctor_kostantNumberedSymmetryCoordinateIso`: on algebra-valued points
+  the coordinate automorphism is conjugation by the base-changed matrix.
+* `pointsMulEquiv_toConv_comp_kostantNumberedSymmetryCoordinateIso`: the explicit precomposition
+  form of the same statement.
+* `kostantNumberedSymmetryCoordinateIso_hom_comp_rootSubgroupCoordinateMap`: the pinning equation
+  `γ ≫ xᵢ = x_{σ i}` on coordinate algebras.
+* `kostantNumberedSymmetryCoordinateIso_hom_comp_weightTorusCoordinateMap`: a monomial-basis
+  symmetry carries the represented weight torus to the relabelled weight torus.
+
+All of these live in the `TauCeti.UniversalEnvelopingAlgebra` namespace.
+
+## References
+
+* R. W. Carter, *Simple Groups of Lie Type*, §12.2.
+* R. W. Carter, *Finite Groups of Lie Type: Conjugacy Classes and Complex Characters*, §1.15.
+* J. E. Humphreys, *Linear Algebraic Groups*, §27.
+
+This advances the pinnings and pinned-isomorphism targets of Layer 9 of
+`TauCetiRoadmap/ReductiveGroups/README.md`; the automorphisms it produces are required by milestone
+L1 of `TauCetiRoadmap/CFSGStatement/README.md`.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+open AlgebraicGeometry CategoryTheory TensorProduct WithConv
+
+namespace TauCeti.UniversalEnvelopingAlgebra
+
+universe u v v' w z
+
+attribute [local instance high] Algebra.toModule
+
+variable {L : Type u} [LieRing L] [LieAlgebra ℚ L]
+variable {I : Type w} {κ : Type z}
+variable {V : Type} [AddCommGroup V] [Module ℚ V]
+
+variable (e : I → L) (h : κ → L)
+variable (ρ : _root_.UniversalEnvelopingAlgebra ℚ L →ₐ[ℚ] Module.End ℚ V)
+variable (M : AddSubgroup V)
+variable (hM : ∀ u ∈ kostantForm e h, ∀ m ∈ M, ρ u m ∈ M)
+variable (hnil : ∀ i, IsNilpotent (ρ (_root_.UniversalEnvelopingAlgebra.ι ℚ (e i))))
+variable {n : ℕ} (b : Module.Basis (Fin n) ℤ M)
+variable (σ : I → I) (θ : V ≃ₗ[ℚ] V) (hθM : ∀ v, θ v ∈ M ↔ v ∈ M)
+variable (hθe : ∀ i, ∀ v : V,
+  θ (ρ (_root_.UniversalEnvelopingAlgebra.ι ℚ (e i)) v) =
+    ρ (_root_.UniversalEnvelopingAlgebra.ι ℚ (e (σ i))) (θ v))
+
+/-- The matrix of the base-changed lattice symmetry in the chosen basis. -/
+noncomputable def kostantNumberedSymmetryMatrix (A : Type v) [CommRing A] :
+    Matrix.GeneralLinearGroup (Fin n) A :=
+  Units.map (LinearMap.toMatrixAlgEquiv (b.baseChange A)).toMulEquiv
+    (AddEquiv.baseChangeInvariantRestrictUnit (R := A) θ.toAddEquiv M hθM)
+
+/-- The matrix of the numbered symmetry commutes with extension of the value ring. -/
+theorem map_kostantNumberedSymmetryMatrix {A : Type v} {B : Type v'} [CommRing A] [CommRing B]
+    (φ : A →+* B) :
+    Matrix.GeneralLinearGroup.map φ (kostantNumberedSymmetryMatrix M b θ hθM A) =
+      kostantNumberedSymmetryMatrix M b θ hθM B := by
+  apply Matrix.GeneralLinearGroup.ext
+  intro i j
+  rw [Matrix.GeneralLinearGroup.map_apply]
+  have hintertwine (z : A ⊗[ℤ] M) :
+      TensorProduct.map φ.toIntAlgHom.toLinearMap LinearMap.id
+          ((AddEquiv.baseChangeInvariantRestrictUnit
+            (R := A) θ.toAddEquiv M hθM).val z) =
+        (AddEquiv.baseChangeInvariantRestrictUnit
+            (R := B) θ.toAddEquiv M hθM).val
+          (TensorProduct.map φ.toIntAlgHom.toLinearMap LinearMap.id z) := by
+    induction z using TensorProduct.inductionOn with
+    | add x y hx hy => simp only [map_add, hx, hy]
+    | tmul a m =>
+        simp only [TensorProduct.map_tmul, AlgHom.toLinearMap_apply, LinearMap.id_apply,
+          AddEquiv.val_baseChangeInvariantRestrictUnit_tmul]
+  have hmatrix := Module.Basis.map_toMatrixAlgEquiv_baseChange b φ.toIntAlgHom
+    (AddEquiv.baseChangeInvariantRestrictUnit (R := A) θ.toAddEquiv M hθM).val
+    (AddEquiv.baseChangeInvariantRestrictUnit (R := B) θ.toAddEquiv M hθM).val
+    hintertwine
+  rw [kostantNumberedSymmetryMatrix, kostantNumberedSymmetryMatrix,
+    Units.coe_map, Units.coe_map]
+  -- `Units.map` and `GeneralLinearGroup.map` expose their underlying matrices only by
+  -- reduction; there is no conversion lemma from this entrywise goal to `hmatrix`.
+  change φ ((LinearMap.toMatrixAlgEquiv (b.baseChange A))
+      (AddEquiv.baseChangeInvariantRestrictUnit (R := A) θ.toAddEquiv M hθM).val i j) =
+    (LinearMap.toMatrixAlgEquiv (b.baseChange B))
+      (AddEquiv.baseChangeInvariantRestrictUnit (R := B) θ.toAddEquiv M hθM).val i j
+  exact congrFun (congrFun hmatrix i) j
+
+/-- The matrix of a numbered symmetry satisfies every order relation satisfied by the underlying
+rational linear equivalence. -/
+theorem kostantNumberedSymmetryMatrix_pow_eq_one (A : Type v) [CommRing A] {m : ℕ}
+    (hm : ∀ x, (θ ^ m) x = x) :
+    kostantNumberedSymmetryMatrix M b θ hθM A ^ m = 1 := by
+  have hcoe : ⇑(θ.toAddEquiv.toIntLinearEquiv : V ≃ₗ[ℤ] V) = (θ : V → V) := by
+    rw [AddEquiv.coe_toIntLinearEquiv]
+    exact funext fun x => LinearEquiv.coe_addEquiv_apply θ x
+  have hm' : ∀ x, (θ.toAddEquiv.toIntLinearEquiv ^ m) x = x := fun x => by
+    simpa only [LinearEquiv.pow_apply, hcoe] using hm x
+  have hunit := AddEquiv.baseChangeInvariantRestrictUnit_pow_eq_one
+    (R := A) θ.toAddEquiv M hθM hm'
+  have hmatrix := congrArg
+    (Units.map (LinearMap.toMatrixAlgEquiv (b.baseChange A)).toMonoidHom) hunit
+  rw [map_pow, map_one] at hmatrix
+  rw [kostantNumberedSymmetryMatrix]
+  exact hmatrix
+
+/-! ## The symmetry on a normalized group of matrix-valued points -/
+
+/-- **The automorphism of a group of matrix-valued points induced by a numbered symmetry**, given
+by conjugation by the symmetry's matrix on any subgroup `P` of `GLₙ` that matrix normalizes. A
+carrier cut out inside `GLₙ` supplies `P` and the normalization hypothesis; everything the
+conjugation satisfies is then read off the matrix. -/
+noncomputable def kostantNumberedSymmetryPoints (A : Type v) [CommRing A]
+    (P : Subgroup (Matrix.GeneralLinearGroup (Fin n) A))
+    (hP : P.map (MulAut.conj (kostantNumberedSymmetryMatrix M b θ hθM A)).toMonoidHom = P) :
+    MulAut P :=
+  P.normalizerMonoidHom ⟨kostantNumberedSymmetryMatrix M b θ hθM A,
+    Subgroup.mem_normalizer_iff_map_conj_eq.mpr hP⟩
+
+/-- On matrices, the numbered symmetry acts on points by conjugation by its matrix. -/
+@[simp]
+theorem coe_kostantNumberedSymmetryPoints (A : Type v) [CommRing A]
+    (P : Subgroup (Matrix.GeneralLinearGroup (Fin n) A))
+    (hP : P.map (MulAut.conj (kostantNumberedSymmetryMatrix M b θ hθM A)).toMonoidHom = P)
+    (g : P) :
+    (kostantNumberedSymmetryPoints M b θ hθM A P hP g :
+        Matrix.GeneralLinearGroup (Fin n) A) =
+      kostantNumberedSymmetryMatrix M b θ hθM A * g *
+        (kostantNumberedSymmetryMatrix M b θ hθM A)⁻¹ :=
+  (rfl)
+
+/-- On matrices, the inverse of the numbered symmetry on points is conjugation by the inverse of
+its matrix. -/
+@[simp]
+theorem coe_kostantNumberedSymmetryPoints_symm (A : Type v) [CommRing A]
+    (P : Subgroup (Matrix.GeneralLinearGroup (Fin n) A))
+    (hP : P.map (MulAut.conj (kostantNumberedSymmetryMatrix M b θ hθM A)).toMonoidHom = P)
+    (g : P) :
+    ((kostantNumberedSymmetryPoints M b θ hθM A P hP).symm g :
+        Matrix.GeneralLinearGroup (Fin n) A) =
+      (kostantNumberedSymmetryMatrix M b θ hθM A)⁻¹ * g *
+        kostantNumberedSymmetryMatrix M b θ hθM A :=
+  (rfl)
+
+/-- **The numbered symmetry on points is natural in the value ring.** The naturality is stated
+against any homomorphism `F` of point groups which is the entrywise map on matrices, which is what
+a carrier's own base-change map on points is; in particular the symmetry commutes with every
+Frobenius map. -/
+theorem comp_kostantNumberedSymmetryPoints {A : Type v} {B : Type v'} [CommRing A] [CommRing B]
+    (P : Subgroup (Matrix.GeneralLinearGroup (Fin n) A))
+    (hP : P.map (MulAut.conj (kostantNumberedSymmetryMatrix M b θ hθM A)).toMonoidHom = P)
+    (Q : Subgroup (Matrix.GeneralLinearGroup (Fin n) B))
+    (hQ : Q.map (MulAut.conj (kostantNumberedSymmetryMatrix M b θ hθM B)).toMonoidHom = Q)
+    (φ : A →+* B) (F : P →* Q)
+    (hF : ∀ g : P, (F g : Matrix.GeneralLinearGroup (Fin n) B) =
+      Matrix.GeneralLinearGroup.map φ g) :
+    F.comp (kostantNumberedSymmetryPoints M b θ hθM A P hP).toMonoidHom =
+      (kostantNumberedSymmetryPoints M b θ hθM B Q hQ).toMonoidHom.comp F := by
+  refine MonoidHom.ext fun g => Subtype.ext ?_
+  rw [MonoidHom.comp_apply, MonoidHom.comp_apply, MulEquiv.coe_toMonoidHom,
+    MulEquiv.coe_toMonoidHom, hF, coe_kostantNumberedSymmetryPoints,
+    coe_kostantNumberedSymmetryPoints, hF, map_mul, map_mul, map_inv,
+    map_kostantNumberedSymmetryMatrix]
+
+/-- **The numbered symmetry on points inherits every order relation its matrix satisfies.** -/
+theorem kostantNumberedSymmetryPoints_pow_eq_one (A : Type v) [CommRing A]
+    (P : Subgroup (Matrix.GeneralLinearGroup (Fin n) A))
+    (hP : P.map (MulAut.conj (kostantNumberedSymmetryMatrix M b θ hθM A)).toMonoidHom = P)
+    {m : ℕ} (hm : kostantNumberedSymmetryMatrix M b θ hθM A ^ m = 1) :
+    kostantNumberedSymmetryPoints M b θ hθM A P hP ^ m = 1 := by
+  have hX : (⟨kostantNumberedSymmetryMatrix M b θ hθM A,
+      Subgroup.mem_normalizer_iff_map_conj_eq.mpr hP⟩ :
+        Subgroup.normalizer (P : Set (Matrix.GeneralLinearGroup (Fin n) A))) ^ m = 1 :=
+    Subtype.ext (by
+      rw [Subgroup.coe_pow]
+      exact hm)
+  rw [kostantNumberedSymmetryPoints, ← map_pow, hX, map_one]
+
+/-- The coordinate Hopf-algebra automorphism recovered from conjugation on points: conjugation by
+the integral numbered-symmetry matrix. -/
+noncomputable def kostantNumberedSymmetryCoordinateIso :
+    GeneralLinear.coordinateHopfAlgebra ℤ n ≅
+      GeneralLinear.coordinateHopfAlgebra ℤ n :=
+  GeneralLinear.conjCoordinateIso (kostantNumberedSymmetryMatrix M b θ hθM ℤ)
+
+/-- On algebra-valued points, the recovered coordinate automorphism is conjugation by the
+base-changed numbered-symmetry matrix. -/
+theorem pointsMulEquiv_mapPointsFunctor_kostantNumberedSymmetryCoordinateIso
+    (A : CommAlgCat.{v} ℤ)
+    (f : HopfAlgebra.points
+      (R := ℤ) (H := GeneralLinear.coordinateHopfAlgebra ℤ n) A) :
+    GeneralLinear.pointsMulEquiv n
+        ((CommHopfAlgCat.mapPointsFunctor
+          (kostantNumberedSymmetryCoordinateIso M b θ hθM).hom).app A f) =
+      kostantNumberedSymmetryMatrix M b θ hθM A *
+          GeneralLinear.pointsMulEquiv n f *
+        (kostantNumberedSymmetryMatrix M b θ hθM A)⁻¹ := by
+  rw [kostantNumberedSymmetryCoordinateIso,
+    GeneralLinear.pointsMulEquiv_mapPointsFunctor_conjCoordinateIso,
+    map_kostantNumberedSymmetryMatrix]
+
+/-- On points over a value ring in any universe, precomposition with the coordinate
+automorphism is conjugation by the base-changed numbered-symmetry matrix. -/
+theorem pointsMulEquiv_toConv_comp_kostantNumberedSymmetryCoordinateIso (A : Type v) [CommRing A]
+    (f : WithConv (GeneralLinear.coordinateHopfAlgebra ℤ n →ₐ[ℤ] A)) :
+    GeneralLinear.pointsMulEquiv n
+        (toConv (f.ofConv.comp
+          ((kostantNumberedSymmetryCoordinateIso M b θ hθM).hom.hom :
+            GeneralLinear.coordinateHopfAlgebra ℤ n →ₐ[ℤ]
+              GeneralLinear.coordinateHopfAlgebra ℤ n))) =
+      kostantNumberedSymmetryMatrix M b θ hθM A *
+          GeneralLinear.pointsMulEquiv n f *
+        (kostantNumberedSymmetryMatrix M b θ hθM A)⁻¹ := by
+  simpa only [CommHopfAlgCat.mapPointsFunctor_app_apply] using
+    pointsMulEquiv_mapPointsFunctor_kostantNumberedSymmetryCoordinateIso
+      M b θ hθM (CommAlgCat.of ℤ A) f
+
+include hθe in
+/-- Matrix-coordinate form of the pinning equation. -/
+theorem kostantNumberedSymmetryMatrix_conj_kostantRootSubgroupMatrix
+    (A : Type v) [CommRing A] (i : I)
+    (q : WithConv (SymmetricAlgebra ℤ ℤ →ₐ[ℤ] A)) :
+    kostantNumberedSymmetryMatrix M b θ hθM A *
+          kostantRootSubgroupMatrix e h ρ M hM i (hnil i) b q *
+        (kostantNumberedSymmetryMatrix M b θ hθM A)⁻¹ =
+      kostantRootSubgroupMatrix e h ρ M hM (σ i) (hnil (σ i)) b q := by
+  let t := AdditiveGroup.gaPointsMulEquiv (R := ℤ) (A := CommAlgCat.of ℤ A) q
+  have hconj := baseChangeInvariantRestrictUnit_conj_kostantRootSubgroupParam
+    e h ρ M hM hnil σ θ hθM hθe (CommAlgCat.of ℤ A) i t
+  have hmatrix := congrArg
+    (Units.map (LinearMap.toMatrixAlgEquiv
+      (b.baseChange (CommAlgCat.of ℤ A))).toMonoidHom) hconj
+  rw [map_mul, map_mul, map_inv] at hmatrix
+  have htheta : Units.map (LinearMap.toMatrixAlgEquiv
+        (b.baseChange (CommAlgCat.of ℤ A))).toMonoidHom
+        (AddEquiv.baseChangeInvariantRestrictUnit
+          (R := CommAlgCat.of ℤ A) θ.toAddEquiv M hθM) =
+      kostantNumberedSymmetryMatrix M b θ hθM A := rfl
+  have hroot (j : I) : Units.map (LinearMap.toMatrixAlgEquiv
+        (b.baseChange (CommAlgCat.of ℤ A))).toMonoidHom
+        (kostantRootSubgroupParam e h ρ M hM j (hnil j)
+          (CommAlgCat.of ℤ A) t) =
+      kostantRootSubgroupMatrix e h ρ M hM j (hnil j) b q := by
+    rw [kostantRootSubgroupMatrix_def, MonoidHom.comp_apply,
+      kostantRootSubgroupParam_apply]
+    congr 1
+    dsimp only [t]
+    exact congrArg (kostantRootSubgroupPoints e h ρ M hM j (hnil j))
+      ((AdditiveGroup.gaPointsMulEquiv
+        (R := ℤ) (A := CommAlgCat.of ℤ A)).symm_apply_apply q)
+  rw [htheta, hroot i, hroot (σ i)] at hmatrix
+  exact hmatrix
+
+include hθe in
+/-- The ambient coordinate automorphism permutes the Kostant root-subgroup coordinate maps. -/
+theorem kostantNumberedSymmetryCoordinateIso_hom_comp_rootSubgroupCoordinateMap
+    (i : I) :
+    (kostantNumberedSymmetryCoordinateIso M b θ hθM).hom ≫
+        kostantRootSubgroupCoordinateMap e h ρ M hM i (hnil i) b =
+      kostantRootSubgroupCoordinateMap e h ρ M hM (σ i) (hnil (σ i)) b := by
+  let c := (kostantNumberedSymmetryCoordinateIso M b θ hθM).hom
+  let r := kostantRootSubgroupCoordinateMap e h ρ M hM i (hnil i) b
+  let s := kostantRootSubgroupCoordinateMap e h ρ M hM (σ i) (hnil (σ i)) b
+  apply _root_.CommHopfAlgCat.hom_ext
+  ext x
+  let q : WithConv (AdditiveGroup.coordinateHopfAlgebra ℤ →ₐ[ℤ]
+      AdditiveGroup.coordinateHopfAlgebra ℤ) :=
+    toConv (AlgHom.id ℤ (AdditiveGroup.coordinateHopfAlgebra ℤ))
+  let f : HopfAlgebra.points
+      (R := ℤ) (H := GeneralLinear.coordinateHopfAlgebra ℤ n)
+        (CommAlgCat.of ℤ (AdditiveGroup.coordinateHopfAlgebra ℤ)) :=
+    toConv (q.ofConv.comp r.hom.toAlgHom)
+  let g : HopfAlgebra.points
+      (R := ℤ) (H := GeneralLinear.coordinateHopfAlgebra ℤ n)
+        (CommAlgCat.of ℤ (AdditiveGroup.coordinateHopfAlgebra ℤ)) :=
+    toConv (q.ofConv.comp s.hom.toAlgHom)
+  have hroot_i : GeneralLinear.pointToGeneralLinear n f =
+      kostantRootSubgroupMatrix e h ρ M hM i (hnil i) b q := by
+    exact pointsMulEquiv_kostantRootSubgroupCoordinateMap
+      e h ρ M hM i (hnil i) b
+        (A := AdditiveGroup.coordinateHopfAlgebra ℤ) q
+  have hroot_σ : GeneralLinear.pointToGeneralLinear n g =
+      kostantRootSubgroupMatrix e h ρ M hM (σ i) (hnil (σ i)) b q := by
+    exact pointsMulEquiv_kostantRootSubgroupCoordinateMap
+      e h ρ M hM (σ i) (hnil (σ i)) b
+        (A := AdditiveGroup.coordinateHopfAlgebra ℤ) q
+  have hmatrix := kostantNumberedSymmetryMatrix_conj_kostantRootSubgroupMatrix
+    e h ρ M hM hnil b σ θ hθM hθe
+      (AdditiveGroup.coordinateHopfAlgebra ℤ) i q
+  have hp : toConv (f.ofConv.comp c.hom.toAlgHom) = g := by
+    apply (GeneralLinear.pointsMulEquiv
+      (R := ℤ) (A := CommAlgCat.of ℤ (AdditiveGroup.coordinateHopfAlgebra ℤ)) n).injective
+    rw [← CommHopfAlgCat.mapPointsFunctor_app_apply c
+      (CommAlgCat.of ℤ (AdditiveGroup.coordinateHopfAlgebra ℤ)) f,
+      pointsMulEquiv_mapPointsFunctor_kostantNumberedSymmetryCoordinateIso,
+      GeneralLinear.pointsMulEquiv_apply, GeneralLinear.pointsMulEquiv_apply]
+    have hleft := congrArg
+      (fun z => kostantNumberedSymmetryMatrix M b θ hθM
+          (AdditiveGroup.coordinateHopfAlgebra ℤ) * z *
+        (kostantNumberedSymmetryMatrix M b θ hθM
+          (AdditiveGroup.coordinateHopfAlgebra ℤ))⁻¹) hroot_i
+    exact hleft.trans (hmatrix.trans hroot_σ.symm)
+  have hx := congrArg (fun p => p.ofConv x) hp
+  simp only [f, g, q, AlgHom.id_apply, AlgHom.comp_apply] at hx
+  rw [_root_.CommHopfAlgCat.comp_apply]
+  exact hx
+
+/-- The entries of the numbered-symmetry matrix are the coordinates of the images of the basis
+vectors. -/
+theorem coe_kostantNumberedSymmetryMatrix_apply (A : Type v) [CommRing A] (i j : Fin n) :
+    (kostantNumberedSymmetryMatrix M b θ hθM A : Matrix (Fin n) (Fin n) A) i j =
+      (b.baseChange A).repr
+        ((AddEquiv.baseChangeInvariantRestrictUnit (R := A) θ.toAddEquiv M hθM).val
+          ((b.baseChange A) j)) i := by
+  rw [kostantNumberedSymmetryMatrix, Units.coe_map]
+  exact LinearMap.toMatrixAlgEquiv_apply (b.baseChange A) _ i j
+
+/-- **The matrix of a symmetry acting monomially on the chosen lattice basis.** Its `j`th column
+has the integral scaling coefficient at row `basisPerm j` and is zero elsewhere. This is the
+hypothesis under which conjugation normalizes the diagonal torus of `GLₙ`; allowing the coefficient
+is necessary for graph symmetries whose pinned lift is a signed coordinate permutation. -/
+theorem coe_kostantNumberedSymmetryMatrix_apply_of_monomial
+    (basisPerm : Equiv.Perm (Fin n)) (basisScale : Fin n → ℤ)
+    (hbasis : ∀ i, θ ((b i : M) : V) =
+      (((basisScale i) • b (basisPerm i) : M) : V))
+    (A : Type v) [CommRing A] (i j : Fin n) :
+    (kostantNumberedSymmetryMatrix M b θ hθM A : Matrix (Fin n) (Fin n) A) i j =
+      if i = basisPerm j then algebraMap ℤ A (basisScale j) else 0 := by
+  rw [coe_kostantNumberedSymmetryMatrix_apply, Module.Basis.baseChange_apply]
+  rw [AddEquiv.val_baseChangeInvariantRestrictUnit_tmul]
+  have hsub : θ.toAddEquiv.invariantRestrict M hθM (b j) =
+      (basisScale j) • b (basisPerm j) := by
+    apply Subtype.ext
+    rw [AddEquiv.coe_invariantRestrict_apply]
+    exact hbasis j
+  rw [hsub, Module.Basis.baseChange_repr_tmul]
+  simp [Finsupp.single_apply, eq_comm]
+
+/-- **Conjugating a diagonal matrix by a monomial basis symmetry relabels its entries by the
+inverse permutation.** The integral scaling coefficients cancel from the conjugation, so in
+particular every signed permutation normalizes the diagonal torus of `GLₙ`. -/
+theorem kostantNumberedSymmetryMatrix_conj_diagGL (basisPerm : Equiv.Perm (Fin n))
+    (basisScale : Fin n → ℤ)
+    (hbasis : ∀ i, θ ((b i : M) : V) =
+      (((basisScale i) • b (basisPerm i) : M) : V))
+    (A : Type v) [CommRing A] (d : Fin n → Aˣ) :
+    kostantNumberedSymmetryMatrix M b θ hθM A * diagGL d *
+        (kostantNumberedSymmetryMatrix M b θ hθM A)⁻¹ =
+      diagGL (fun i => d (basisPerm⁻¹ i)) := by
+  let Θ : (A ⊗[ℤ] M) ≃ₗ[A] (A ⊗[ℤ] M) :=
+    (AddEquiv.invariantRestrict θ.toAddEquiv M hθM).baseChange ℤ A M M
+  have hbasis' : ∀ i, AddEquiv.invariantRestrict θ.toAddEquiv M hθM (b i) =
+      basisScale i • b (basisPerm i) := by
+    intro i
+    apply Subtype.ext
+    rw [AddEquiv.coe_invariantRestrict_apply]
+    exact hbasis i
+  have hbase : ∀ i, Θ ((b.baseChange A) i) =
+      algebraMap ℤ A (basisScale i) • (b.baseChange A) (basisPerm i) :=
+    AddEquiv.baseChange_invariantRestrict_map_baseChange_basis
+      M b θ.toAddEquiv hθM basisPerm basisScale hbasis'
+  have hconj : Θ * basisDiagonal (b.baseChange A) d * Θ⁻¹ =
+      basisDiagonal (b.baseChange A) (fun i => d (basisPerm⁻¹ i)) :=
+    conj_basisDiagonal_of_map_basis (b.baseChange A) d
+      (fun i => d (basisPerm⁻¹ i)) (fun i => algebraMap ℤ A (basisScale i))
+      basisPerm Θ hbase (fun i => by simp)
+  have hmatrix := congrArg
+    (fun ψ : (A ⊗[ℤ] M) ≃ₗ[A] (A ⊗[ℤ] M) =>
+      Units.map (LinearMap.toMatrixAlgEquiv (b.baseChange A)).toMonoidHom
+        (LinearMap.GeneralLinearGroup.ofLinearEquiv ψ)) hconj
+  have hdiag (w : Fin n → Aˣ) :
+      Units.map (LinearMap.toMatrixAlgEquiv (b.baseChange A)).toMonoidHom
+          (LinearMap.GeneralLinearGroup.ofLinearEquiv
+            (basisDiagonal (b.baseChange A) w)) = diagGL w := by
+    apply Units.ext
+    rw [Units.coe_map]
+    -- The multiplicative-equivalence coercion remains folded after `Units.coe_map`; expose its
+    -- underlying `toMatrix` expression so the basis-diagonal matrix theorem applies.
+    change LinearMap.toMatrix (b.baseChange A) (b.baseChange A)
+        (basisDiagonal (b.baseChange A) w).toLinearMap = _
+    rw [toMatrix_basisDiagonal, diagGL_coe]
+  have hΘ :
+      Units.map (LinearMap.toMatrixAlgEquiv (b.baseChange A)).toMonoidHom
+          (LinearMap.GeneralLinearGroup.ofLinearEquiv Θ) =
+        kostantNumberedSymmetryMatrix M b θ hθM A := by
+    rw [kostantNumberedSymmetryMatrix]
+    apply Units.ext
+    simp only [Units.coe_map]
+    have hval :
+        (LinearMap.GeneralLinearGroup.ofLinearEquiv Θ : Module.End A (A ⊗[ℤ] M)) =
+          (AddEquiv.baseChangeInvariantRestrictUnit
+            (R := A) θ.toAddEquiv M hθM : Module.End A (A ⊗[ℤ] M)) := by
+      apply LinearMap.ext
+      intro z
+      rw [LinearMap.GeneralLinearGroup.coe_ofLinearEquiv,
+        AddEquiv.val_baseChangeInvariantRestrictUnit_apply]
+    exact congrArg (LinearMap.toMatrixAlgEquiv (b.baseChange A)) hval
+  simp only [LinearMap.GeneralLinearGroup.ofLinearEquiv_mul,
+    LinearMap.GeneralLinearGroup.ofLinearEquiv_inv, map_mul, map_inv] at hmatrix
+  rwa [hΘ, hdiag d, hdiag (fun i => d (basisPerm⁻¹ i))] at hmatrix
+
+/-- **A monomial-basis numbered symmetry carries the represented weight torus of a weight family
+to the weight torus of the relabelled family.** The scalar coefficients do not affect diagonal
+conjugation. Stability of a closed subgroup scheme cut out by the root subgroups and a weight torus
+additionally requires identifying this relabelled family with the original one, via weight
+equivariance and
+`GeneralLinear.weightTorusCoordinateMap_reindex`. -/
+theorem kostantNumberedSymmetryCoordinateIso_hom_comp_weightTorusCoordinateMap
+    {ι : Type} [Finite ι] (wt : Fin n → ι → ℤ) (basisPerm : Equiv.Perm (Fin n))
+    (basisScale : Fin n → ℤ)
+    (hbasis : ∀ i, θ ((b i : M) : V) =
+      (((basisScale i) • b (basisPerm i) : M) : V)) :
+    (kostantNumberedSymmetryCoordinateIso M b θ hθM).hom ≫
+        GeneralLinear.weightTorusCoordinateMap (R := ℤ) wt =
+      GeneralLinear.weightTorusCoordinateMap (R := ℤ) (fun i => wt (basisPerm⁻¹ i)) := by
+  classical
+  let _ : Fintype ι := Fintype.ofFinite ι
+  let c := (kostantNumberedSymmetryCoordinateIso M b θ hθM).hom
+  let r := GeneralLinear.weightTorusCoordinateMap (R := ℤ) wt
+  let s := GeneralLinear.weightTorusCoordinateMap (R := ℤ) (fun i => wt (basisPerm⁻¹ i))
+  apply _root_.CommHopfAlgCat.hom_ext
+  refine DFunLike.ext _ _ fun x => ?_
+  let T := MonoidAlgebra ℤ (SplitTorus.characterGroup ι)
+  let q : WithConv (T →ₐ[ℤ] T) := toConv (AlgHom.id ℤ T)
+  let f : HopfAlgebra.points
+      (R := ℤ) (H := GeneralLinear.coordinateHopfAlgebra ℤ n) (CommAlgCat.of ℤ T) :=
+    toConv (q.ofConv.comp r.hom.toAlgHom)
+  let g : HopfAlgebra.points
+      (R := ℤ) (H := GeneralLinear.coordinateHopfAlgebra ℤ n) (CommAlgCat.of ℤ T) :=
+    toConv (q.ofConv.comp s.hom.toAlgHom)
+  have htorus_r : GeneralLinear.pointsMulEquiv n f =
+      diagGL fun i => torusCharacter (SplitTorus.pointsMulEquiv q) (wt i) := by
+    calc
+      _ = GeneralLinear.pointsMulEquiv n
+          ((CommHopfAlgCat.mapPointsFunctor r).app (CommAlgCat.of ℤ T) q) := by
+        rw [CommHopfAlgCat.mapPointsFunctor_app_apply]
+      _ = _ := GeneralLinear.pointsMulEquiv_mapPointsFunctor_weightTorusCoordinateMap
+        wt (CommAlgCat.of ℤ T) q
+  have htorus_s : GeneralLinear.pointsMulEquiv n g =
+      diagGL fun i =>
+        torusCharacter (SplitTorus.pointsMulEquiv q) (wt (basisPerm⁻¹ i)) := by
+    calc
+      _ = GeneralLinear.pointsMulEquiv n
+          ((CommHopfAlgCat.mapPointsFunctor s).app (CommAlgCat.of ℤ T) q) := by
+        rw [CommHopfAlgCat.mapPointsFunctor_app_apply]
+      _ = _ := GeneralLinear.pointsMulEquiv_mapPointsFunctor_weightTorusCoordinateMap
+        (fun i => wt (basisPerm⁻¹ i)) (CommAlgCat.of ℤ T) q
+  have hp : toConv (f.ofConv.comp c.hom.toAlgHom) = g := by
+    apply (GeneralLinear.pointsMulEquiv (R := ℤ) (A := CommAlgCat.of ℤ T) n).injective
+    rw [← CommHopfAlgCat.mapPointsFunctor_app_apply c (CommAlgCat.of ℤ T) f,
+      pointsMulEquiv_mapPointsFunctor_kostantNumberedSymmetryCoordinateIso, htorus_r, htorus_s,
+      kostantNumberedSymmetryMatrix_conj_diagGL
+        M b θ hθM basisPerm basisScale hbasis]
+  have hx := congrArg (fun p => p.ofConv x) hp
+  simp only [f, g, q, AlgHom.id_apply, AlgHom.comp_apply] at hx
+  rw [_root_.CommHopfAlgCat.comp_apply]
+  exact hx
+
+end TauCeti.UniversalEnvelopingAlgebra
+
+

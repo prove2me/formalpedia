@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_CertSparsify_range_two_mul
 -- name    : UniformInK.CertSparsify.range_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:51:58.527255+00:00
 -- url     : https://prove2.me/theorems/98bab2ae-e342-4c2a-be79-05744dbef9d6

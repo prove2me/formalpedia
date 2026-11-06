@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Parse_gateOfW_gateW
 -- name    : CircuitLowerBound.Parse.gateOfW_gateW
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:50:13.737005+00:00
 -- url     : https://prove2.me/theorems/48d1b8f9-2933-4ce9-a2b5-0124b6a82835

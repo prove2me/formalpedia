@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SqSumOuterFamily_SqFamily_secExt_commForm_le
 -- name    : BookProof.SqSumOuterFamily.SqFamily.secExt_commForm_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:57:49.774688+00:00
 -- url     : https://prove2.me/theorems/7bff5e65-c723-4a01-a33d-6cd1326395d3

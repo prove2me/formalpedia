@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Enumerate_out_polyT
 -- name    : Enumerate.out_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:36:38.951981+00:00
 -- url     : https://prove2.me/theorems/39637c07-2cd6-44ac-b914-4cc46b0c9f42

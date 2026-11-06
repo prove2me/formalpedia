@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStageAlloc_certificate
 -- name    : MultiStageAlloc.certificate
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:32:39.665254+00:00
 -- url     : https://prove2.me/theorems/bfcd0784-f42e-4e9a-b436-60f903e76ceb

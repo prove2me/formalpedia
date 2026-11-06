@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleywegtSAA_ValueCLT_joint_clt
 -- name    : KleywegtSAA.ValueCLT.joint_clt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:09:37.664975+00:00
 -- url     : https://prove2.me/theorems/f5e3a76f-f186-40f2-bcf6-a0772329ba39

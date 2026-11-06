@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_both_le_polyT
 -- name    : PairsToBound.both_le_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:29.721423+00:00
 -- url     : https://prove2.me/theorems/d54eeeff-fa7e-4206-85c7-4b2dee8606f5

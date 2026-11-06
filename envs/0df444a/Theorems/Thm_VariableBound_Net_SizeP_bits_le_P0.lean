@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_bits_le_P0
 -- name    : VariableBound.Net.SizeP.bits_le_P0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:58.332048+00:00
 -- url     : https://prove2.me/theorems/9026b7d6-cb09-4648-8275-6b891a1dd1ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_NoAttain_display_4_27
 -- name    : GlynnSTS.NoAttain.display_4_27
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:08:47.858986+00:00
 -- url     : https://prove2.me/theorems/3f08beaf-fce5-42e0-8161-49b9d6445da2

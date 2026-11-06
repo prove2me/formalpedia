@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Parse_wfB_iff
 -- name    : CircuitLowerBound.Parse.wfB_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:51:28.415702+00:00
 -- url     : https://prove2.me/theorems/2b45911d-130a-429a-8510-9cdcfb98c4eb

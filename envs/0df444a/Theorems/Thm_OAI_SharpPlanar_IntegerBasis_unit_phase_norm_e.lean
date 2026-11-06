@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerBasis_unit_phase_norm_e
 -- name    : OAI.SharpPlanar.IntegerBasis.unit_phase_norm_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:41:29.112204+00:00
 -- url     : https://prove2.me/theorems/202ebacd-3e0a-4c63-a37c-c464077f134a

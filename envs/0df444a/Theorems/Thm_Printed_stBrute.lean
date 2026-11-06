@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_stBrute
 -- name    : Printed.stBrute
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:54:04.839606+00:00
 -- url     : https://prove2.me/theorems/93d8dc8e-074f-49f3-86c0-bb5a1397f30c

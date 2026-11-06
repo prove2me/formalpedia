@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_length_flatten_ofFn
 -- name    : Printed.length_flatten_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:50:28.220364+00:00
 -- url     : https://prove2.me/theorems/06e31e68-cb9a-4af7-b782-3bb1bf478795

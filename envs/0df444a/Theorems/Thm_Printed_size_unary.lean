@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_size_unary
 -- name    : Printed.size_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:56:31.232813+00:00
 -- url     : https://prove2.me/theorems/b06ef2b1-7588-4a46-868c-7b90afd5d4a0

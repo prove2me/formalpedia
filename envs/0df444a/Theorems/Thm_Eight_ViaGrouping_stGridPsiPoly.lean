@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_stGridPsiPoly
 -- name    : Eight.ViaGrouping.stGridPsiPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:07:36.822842+00:00
 -- url     : https://prove2.me/theorems/c2427258-6ce4-422d-8dfb-f715a6b1d860

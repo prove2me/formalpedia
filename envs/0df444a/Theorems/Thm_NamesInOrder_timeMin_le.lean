@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NamesInOrder_timeMin_le
 -- name    : NamesInOrder.timeMin_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:20.149933+00:00
 -- url     : https://prove2.me/theorems/1cf92fc5-437f-4870-b19d-036866d8bd26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Leaves_three_mul_le
 -- name    : UniformInK.Leaves.three_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:46.094168+00:00
 -- url     : https://prove2.me/theorems/fbe9daa0-d40e-46b7-bd1a-cfabfa587ca6

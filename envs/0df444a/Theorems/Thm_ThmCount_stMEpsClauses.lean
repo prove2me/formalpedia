@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_stMEpsClauses
 -- name    : ThmCount.stMEpsClauses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:58.371556+00:00
 -- url     : https://prove2.me/theorems/09a5910b-ef13-4acb-a8bb-333999360b5d

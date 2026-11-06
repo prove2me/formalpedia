@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_phase_exp_norm_bound_e
 -- name    : OAI.SharpPlanar.phase_exp_norm_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:43:01.325852+00:00
 -- url     : https://prove2.me/theorems/3b759b67-1b9c-4afd-a95a-619811b1c8a1

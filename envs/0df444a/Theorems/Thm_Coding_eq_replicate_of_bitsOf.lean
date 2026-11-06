@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_eq_replicate_of_bitsOf
 -- name    : Coding.eq_replicate_of_bitsOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:02:53.924611+00:00
 -- url     : https://prove2.me/theorems/d79eac9e-6268-4d25-bec0-7c6d62939462

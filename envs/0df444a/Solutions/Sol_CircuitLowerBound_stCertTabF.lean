@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CircuitLowerBound.stCertTabF
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-04T22:33:20.993258+00:00
 -- url     : https://prove2.me/submissions/8cbb4498-a28a-4fb1-992a-c28bc7044126
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
 Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.

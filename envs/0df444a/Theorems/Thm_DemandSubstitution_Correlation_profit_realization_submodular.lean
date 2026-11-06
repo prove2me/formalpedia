@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DemandSubstitution_Correlation_profit_realization_submodular
 -- name    : DemandSubstitution.Correlation.profit_realization_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:14:40.824195+00:00
 -- url     : https://prove2.me/theorems/d21a5db1-899b-4ed0-baba-bb57c946ee72

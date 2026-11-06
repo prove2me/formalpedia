@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Q_3_e
 -- name    : OAI.SharpPlanar.Q_3_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:47:41.394301+00:00
 -- url     : https://prove2.me/theorems/8599fd1a-803e-4d9c-8d74-dea382fa94bc

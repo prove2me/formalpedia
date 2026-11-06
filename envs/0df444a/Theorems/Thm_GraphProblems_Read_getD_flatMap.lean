@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Read_getD_flatMap
 -- name    : GraphProblems.Read.getD_flatMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:08.584854+00:00
 -- url     : https://prove2.me/theorems/ec6927ee-d232-422d-b390-75a5aeca6b29

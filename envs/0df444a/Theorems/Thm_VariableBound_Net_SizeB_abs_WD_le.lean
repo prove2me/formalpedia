@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_abs_WD_le
 -- name    : VariableBound.Net.SizeB.abs_WD_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:54:19.495959+00:00
 -- url     : https://prove2.me/theorems/93b78bf3-12fa-45c5-ba28-29b399556d73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionWithPieces_master_of_isPiecesB
 -- name    : RecursionWithPieces.master_of_isPiecesB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:40:07.761392+00:00
 -- url     : https://prove2.me/theorems/a6a859a7-b879-4c23-b7cd-8acc669309ea

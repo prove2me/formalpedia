@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Color_exists_coloring
 -- name    : GraphProblems.Color.exists_coloring
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:50.857918+00:00
 -- url     : https://prove2.me/theorems/b919e451-d607-43fb-a855-9c3cd0d6deb4

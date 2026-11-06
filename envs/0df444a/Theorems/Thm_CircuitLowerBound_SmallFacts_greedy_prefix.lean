@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_SmallFacts_greedy_prefix
 -- name    : CircuitLowerBound.SmallFacts.greedy_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:17.345326+00:00
 -- url     : https://prove2.me/theorems/bbd1ae36-574c-4c54-b32a-8d16faa6a5c4

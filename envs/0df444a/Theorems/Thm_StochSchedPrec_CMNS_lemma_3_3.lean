@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSchedPrec_CMNS_lemma_3_3
 -- name    : StochSchedPrec.CMNS.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:54:27.4767+00:00
 -- url     : https://prove2.me/theorems/da31e965-cc5e-4166-8c73-b743245ba415

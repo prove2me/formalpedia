@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_lift_fresh
 -- name    : Eight.Width.lift_fresh
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:47:59.7512+00:00
 -- url     : https://prove2.me/theorems/8dfa3ac7-afff-4b6d-9111-a0b7dcf0467c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_wave7_06_original_negative_band_no_jump_probability
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-02T13:22:27.129223+00:00
 -- url     : https://prove2.me/submissions/8114173c-3c7b-43e3-96e6-fe5a20b4644e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

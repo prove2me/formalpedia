@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmVariables_solverFromMachine_of
 -- name    : ThmVariables.solverFromMachine_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:12:20.869059+00:00
 -- url     : https://prove2.me/theorems/8ede034e-8511-48bf-8a89-d4e9335b267a

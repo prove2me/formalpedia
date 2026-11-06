@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_QueryMachine_mapAsk_reaches
 -- name    : QueryMachines.QueryMachine.mapAsk_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:43:47.187225+00:00
 -- url     : https://prove2.me/theorems/7f1b2233-454a-4be7-be42-125dd3bd210a

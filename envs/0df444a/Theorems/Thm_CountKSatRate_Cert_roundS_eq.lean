@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountKSatRate_Cert_roundS_eq
 -- name    : CountKSatRate.Cert.roundS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:17:39.909494+00:00
 -- url     : https://prove2.me/theorems/c3234028-3d9f-42ab-848e-910e76f94046

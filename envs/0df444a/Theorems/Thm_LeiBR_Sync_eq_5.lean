@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Sync_eq_5
 -- name    : LeiBR.Sync.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:10:17.514993+00:00
 -- url     : https://prove2.me/theorems/18bc1699-baca-44fa-8173-aa00670e55b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Structure_proposition_1
 -- name    : FastFashion.Structure.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:35.843923+00:00
 -- url     : https://prove2.me/theorems/3b5444e6-ac3f-410c-865f-6902c745aafa

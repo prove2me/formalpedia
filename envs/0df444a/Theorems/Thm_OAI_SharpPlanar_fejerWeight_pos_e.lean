@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejerWeight_pos_e
 -- name    : OAI.SharpPlanar.fejerWeight_pos_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:56:39.985615+00:00
 -- url     : https://prove2.me/theorems/df93f1b3-8fce-42b2-b97e-afb239055229

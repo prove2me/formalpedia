@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_closedSubspace_isKSpace
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.closedSubspace_isKSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:27:41.588843+00:00
 -- url     : https://prove2.me/theorems/748a6e22-7ccd-406b-b7f9-4b95248bbedf

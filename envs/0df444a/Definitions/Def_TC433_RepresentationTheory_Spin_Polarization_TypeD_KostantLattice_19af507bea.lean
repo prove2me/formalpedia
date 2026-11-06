@@ -1,0 +1,373 @@
+-- Prove2me | Definitions.Def_TC433_RepresentationTheory_Spin_Polarization_TypeD_KostantLattice_19af507bea
+-- name    : TC433_RepresentationTheory_Spin_Polarization_TypeD_KostantLattice_19af507bea
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T16:45:22.695284+00:00
+-- url     : https://prove2.me/theorems/5d79dc5b-0257-443f-a3bb-315152624412
+-- title:
+--   TauCeti: RepresentationTheory / Spin / Polarization / TypeD / KostantLattice
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.RepresentationTheory.Spin.Polarization.TypeD.KostantLattice for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/RepresentationTheory/Spin/Polarization/TypeD/KostantLattice.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+
+public import Definitions.Def_TC433_Algebra_Lie_UniversalEnveloping_Kostant_Serre_c2f7eb379b
+public import Definitions.Def_TC433_Algebra_Lie_UniversalEnveloping_Kostant_RootSubgroup_Torus_Basic_826b881434
+public import Definitions.Def_TC433_RepresentationTheory_Spin_Polarization_TypeD_CartanWeights_0f59c5565b
+public import Definitions.Def_TC433_RepresentationTheory_Spin_Polarization_TypeD_Serre_Relations_69d029a679
+
+import Definitions.Def_TC433_LinearAlgebra_Eigenspace_Binomial_0b2c0ba0c1
+import Definitions.Def_TC433_RepresentationTheory_Spin_HalfSpin_Basic_25473918ec
+import Definitions.Def_TC433_RingTheory_DividedPowers_Associative_914fdf3728
+
+/-!
+# The type-D spinor lattice is Kostant-stable
+
+This file turns the type-`Dₙ` Clifford Serre system into a rational representation of the
+type-`D` Serre presentation and proves that its coordinate spinor lattice is stable under the
+Serre Kostant form.
+
+The positive and negative simple-root representatives act by square-zero endomorphisms and
+preserve the exterior coordinate lattice. The simple-coroot representatives act diagonally on
+the exterior basis with the integral weights `TauCeti.DynkinType.typeDSpinWeight`; consequently
+all of their binomial coefficients preserve the same lattice. These two facts give stability
+under every generator of the Serre Kostant form.
+
+The full exterior algebra, rather than either parity summand alone, is used because its weights
+span the full simply connected type-`D` character lattice. Thus this is the admissible-lattice
+input for the full-weight type-`D` Chevalley--Demazure carrier in Layer 9 of the ReductiveGroups
+roadmap. That carrier is consumed by the `Dₙ(q)` and `²Dₙ(q)` branches of milestone L0 in the
+CFSGStatement roadmap.
+
+## Main declarations
+
+* `TauCeti.SpinPolarizationData.typeDSpinSerreRepresentation`: the type-`D` Serre presentation
+  acting on the spinor module.
+* `TauCeti.SpinPolarizationData.typeDSpinRep`: its extension to the universal enveloping algebra.
+* `TauCeti.SpinPolarizationData.typeDSpinRep_rootGenerator_sq`: the represented root operators
+  are square-zero.
+* `TauCeti.SpinPolarizationData.typeDSpinRep_rootGenerator_mem_evenOdd`: they preserve exterior
+  parity, hence each half-spin summand.
+* `TauCeti.SpinPolarizationData.isCartanWeightVector_typeDSpinRep_integralLatticeBasis`: the
+  integral exterior basis is a weight basis with weights `typeDSpinWeight`.
+* `TauCeti.SpinPolarizationData.typeDSpinRep_serreKostantForm_apply_mem_integralLattice`: the
+  Serre Kostant form preserves the coordinate spinor lattice.
+
+## References
+
+* C. Chevalley, *The Algebraic Theory of Spinors*, Chapter II.
+* J. E. Humphreys, *Introduction to Lie Algebras and Representation Theory*, §§26--27.
+* N. Bourbaki, *Groupes et algèbres de Lie*, Chapters 4--6, Plate IV.
+
+The organization parallels the type-`B` spinor-lattice construction in Tau Ceti PR #5269; the
+fork coroot and the need for both half-spin parities are the type-`D` features.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+open CliffordAlgebra
+
+namespace TauCeti.SpinPolarizationData
+
+universe u
+
+attribute [local instance 100] LieRing.ofAssociativeRing
+attribute [local instance] TauCeti.moduleNNRat
+
+variable {V : Type u} [AddCommGroup V] [Module ℚ V] {Q : QuadraticForm ℚ V}
+  (P : SpinPolarizationData Q) {n : ℕ} (b : Module.Basis (Fin n) ℚ P.W)
+  (hn : 4 ≤ n)
+
+/-! ## The rational spin representation -/
+
+/-- The rational type-`D` Serre presentation acting on the spinor module through its canonical
+Clifford Serre system. -/
+noncomputable def typeDSpinSerreRepresentation :
+    Matrix.ToLieAlgebra ℚ (CartanMatrix.D n) →ₗ⁅ℚ⁆
+      Module.End ℚ (ExteriorAlgebra ℚ P.W) :=
+  (spinAction Q P).toLieHom.comp
+    (TauCeti.serreLift (P.isSerreSystem_typeDSimpleRootBivector b hn))
+
+/-- A Cartan generator acts through the corresponding type-`D` simple-coroot Clifford element. -/
+@[simp]
+theorem typeDSpinSerreRepresentation_serreH (i : Fin n) :
+    P.typeDSpinSerreRepresentation b hn (TauCeti.serreH ℚ (CartanMatrix.D n) i) =
+      spinAction Q P (P.typeDSimpleCorootBivector b (by omega) i) := by
+  simp [typeDSpinSerreRepresentation]
+
+/-- A positive Serre generator acts through the corresponding type-`D` root Clifford element. -/
+@[simp]
+theorem typeDSpinSerreRepresentation_serreE (i : Fin n) :
+    P.typeDSpinSerreRepresentation b hn (TauCeti.serreE ℚ (CartanMatrix.D n) i) =
+      spinAction Q P (P.typeDSimpleRootBivector b (by omega) i) := by
+  simp [typeDSpinSerreRepresentation]
+
+/-- A negative Serre generator acts through the corresponding negative-root Clifford element. -/
+@[simp]
+theorem typeDSpinSerreRepresentation_serreF (i : Fin n) :
+    P.typeDSpinSerreRepresentation b hn (TauCeti.serreF ℚ (CartanMatrix.D n) i) =
+      spinAction Q P (P.typeDSimpleNegativeRootBivector b (by omega) i) := by
+  simp [typeDSpinSerreRepresentation]
+
+/-- The type-`D` spin representation extended to the universal enveloping algebra. -/
+noncomputable def typeDSpinRep :
+    _root_.UniversalEnvelopingAlgebra ℚ
+        (Matrix.ToLieAlgebra ℚ (CartanMatrix.D n)) →ₐ[ℚ]
+      Module.End ℚ (ExteriorAlgebra ℚ P.W) :=
+  _root_.UniversalEnvelopingAlgebra.lift ℚ (P.typeDSpinSerreRepresentation b hn)
+
+/-- An included Lie element acts through the rational Serre representation. -/
+theorem typeDSpinRep_ι (x : Matrix.ToLieAlgebra ℚ (CartanMatrix.D n)) :
+    P.typeDSpinRep b hn (_root_.UniversalEnvelopingAlgebra.ι ℚ x) =
+      P.typeDSpinSerreRepresentation b hn x := by
+  rw [typeDSpinRep, _root_.UniversalEnvelopingAlgebra.lift_ι_apply]
+
+/-! ## Root operators -/
+
+/-- Every represented positive or negative simple-root generator is square-zero. -/
+theorem typeDSpinRep_rootGenerator_sq (k : Fin n ⊕ Fin n) :
+    P.typeDSpinRep b hn
+        (_root_.UniversalEnvelopingAlgebra.ι ℚ
+          (TauCeti.serreRootGenerator (CartanMatrix.D n) k)) ^ 2 = 0 := by
+  cases k with
+  | inl i =>
+      simp only [TauCeti.serreRootGenerator_inl, P.typeDSpinRep_ι b hn,
+        P.typeDSpinSerreRepresentation_serreE b hn, pow_two]
+      exact P.spinAction_typeDSimpleRootBivector_sq b (by omega) i
+  | inr i =>
+      simp only [TauCeti.serreRootGenerator_inr, P.typeDSpinRep_ι b hn,
+        P.typeDSpinSerreRepresentation_serreF b hn, pow_two]
+      exact P.spinAction_typeDSimpleNegativeRootBivector_sq b (by omega) i
+
+/-- Every represented positive or negative simple-root generator acts nilpotently. -/
+theorem isNilpotent_typeDSpinRep_rootGenerator (k : Fin n ⊕ Fin n) :
+    IsNilpotent (P.typeDSpinRep b hn
+      (_root_.UniversalEnvelopingAlgebra.ι ℚ
+        (TauCeti.serreRootGenerator (CartanMatrix.D n) k))) :=
+  ⟨2, P.typeDSpinRep_rootGenerator_sq b hn k⟩
+
+/-- The represented positive Serre generator acts through its simple-root Clifford bivector. -/
+theorem typeDSpinRep_serreE_eq_spinAction (i : Fin n) :
+    P.typeDSpinRep b hn
+        (_root_.UniversalEnvelopingAlgebra.ι ℚ (TauCeti.serreE ℚ (CartanMatrix.D n) i)) =
+      spinAction Q P (P.typeDSimpleRootBivector b (by omega) i) := by
+  rw [P.typeDSpinRep_ι b hn, P.typeDSpinSerreRepresentation_serreE b hn]
+
+/-- The represented negative Serre generator acts through its negative simple-root Clifford
+bivector. -/
+theorem typeDSpinRep_serreF_eq_spinAction (i : Fin n) :
+    P.typeDSpinRep b hn
+        (_root_.UniversalEnvelopingAlgebra.ι ℚ (TauCeti.serreF ℚ (CartanMatrix.D n) i)) =
+      spinAction Q P (P.typeDSimpleNegativeRootBivector b (by omega) i) := by
+  rw [P.typeDSpinRep_ι b hn, P.typeDSpinSerreRepresentation_serreF b hn]
+
+/-- **The represented root generators preserve exterior parity**, for a polarization without a
+line summand. Each acts through a simple-root Clifford bivector, which is even, so it maps each
+half-spin summand into itself. -/
+theorem typeDSpinRep_rootGenerator_mem_evenOdd (hline : P.line = ⊥) (k : Fin n ⊕ Fin n)
+    {j : ZMod 2} {s : ExteriorAlgebra ℚ P.W} (hs : s ∈ evenOdd (0 : QuadraticForm ℚ P.W) j) :
+    P.typeDSpinRep b hn
+        (_root_.UniversalEnvelopingAlgebra.ι ℚ
+          (TauCeti.serreRootGenerator (CartanMatrix.D n) k)) s ∈
+      evenOdd (0 : QuadraticForm ℚ P.W) j := by
+  cases k with
+  | inl i =>
+    rw [TauCeti.serreRootGenerator_inl, P.typeDSpinRep_serreE_eq_spinAction b hn]
+    exact spinAction_mem_evenOdd_of_mem_even P hline (quadraticLieSubalgebra_le_even Q
+      (P.typeDSimpleRootBivector_mem_quadraticLieSubalgebra b (by omega) i)) hs
+  | inr i =>
+    rw [TauCeti.serreRootGenerator_inr, P.typeDSpinRep_serreF_eq_spinAction b hn]
+    exact spinAction_mem_evenOdd_of_mem_even P hline (quadraticLieSubalgebra_le_even Q
+      (P.typeDSimpleNegativeRootBivector_mem_quadraticLieSubalgebra b (by omega) i)) hs
+
+/-- At a chain node, the positive type-`D` root generator moves the singleton exterior-basis
+vector at `i + 1` to the singleton at `i`. -/
+theorem typeDSpinRep_serreE_exteriorBasis_singleton {i : Fin n}
+    (hnext : (i : ℕ) + 1 < n) :
+    P.typeDSpinRep b hn
+        (_root_.UniversalEnvelopingAlgebra.ι ℚ (TauCeti.serreE ℚ (CartanMatrix.D n) i))
+        (b.ExteriorAlgebra {⟨(i : ℕ) + 1, hnext⟩}) =
+      b.ExteriorAlgebra {i} := by
+  rw [P.typeDSpinRep_serreE_eq_spinAction b hn,
+    P.typeDSimpleRootBivector_def b, dif_pos hnext, map_mul, Module.End.mul_apply,
+    TauCeti.spinAction_ι_wedge, TauCeti.spinAction_ι_contract, P.pairingEquiv_dualVector,
+    TauCeti.ExteriorAlgebra.basis_singleton, CliffordAlgebra.contractLeft_ι]
+  simp [TauCeti.ExteriorAlgebra.basis_singleton]
+
+/-- At a chain node, the negative type-`D` root generator moves the singleton exterior-basis
+vector at `i` to the singleton at `i + 1`. -/
+theorem typeDSpinRep_serreF_exteriorBasis_singleton {i : Fin n}
+    (hnext : (i : ℕ) + 1 < n) :
+    P.typeDSpinRep b hn
+        (_root_.UniversalEnvelopingAlgebra.ι ℚ (TauCeti.serreF ℚ (CartanMatrix.D n) i))
+        (b.ExteriorAlgebra {i}) =
+      b.ExteriorAlgebra {⟨(i : ℕ) + 1, hnext⟩} := by
+  rw [P.typeDSpinRep_serreF_eq_spinAction b hn,
+    P.typeDSimpleNegativeRootBivector_def b, dif_pos hnext, map_mul,
+    Module.End.mul_apply, TauCeti.spinAction_ι_wedge, TauCeti.spinAction_ι_contract,
+    P.pairingEquiv_dualVector, TauCeti.ExteriorAlgebra.basis_singleton,
+    CliffordAlgebra.contractLeft_ι]
+  simp [TauCeti.ExteriorAlgebra.basis_singleton]
+
+/-- At the fork node, the positive type-`D` root generator creates the last two coordinates from
+the exterior vacuum. -/
+theorem typeDSpinRep_serreE_exteriorBasis_empty {i : Fin n}
+    (hlast : ¬(i : ℕ) + 1 < n) :
+    P.typeDSpinRep b hn
+        (_root_.UniversalEnvelopingAlgebra.ι ℚ (TauCeti.serreE ℚ (CartanMatrix.D n) i))
+        (b.ExteriorAlgebra ∅) =
+      TauCeti.ExteriorAlgebra.basisEraseSign (⟨n - 2, by omega⟩ : Fin n)
+          {(⟨n - 2, by omega⟩ : Fin n), (⟨n - 1, by omega⟩ : Fin n)} •
+        b.ExteriorAlgebra {⟨n - 2, by omega⟩, ⟨n - 1, by omega⟩} := by
+  rw [P.typeDSpinRep_serreE_eq_spinAction b hn,
+    P.typeDSimpleRootBivector_def b, dif_neg hlast, map_mul, Module.End.mul_apply,
+    TauCeti.spinAction_ι_wedge, TauCeti.spinAction_ι_wedge]
+  have hEmpty : b.ExteriorAlgebra (∅ : Finset (Fin n)) = 1 := by
+    rw [ExteriorAlgebra.basis_apply]
+    simp
+  rw [hEmpty, mul_one]
+  rw [← TauCeti.ExteriorAlgebra.basis_singleton,
+    ← TauCeti.ExteriorAlgebra.basis_singleton]
+  have h := TauCeti.ExteriorAlgebra.basis_singleton_mul_basis_erase b
+    ⟨n - 2, by omega⟩ {⟨n - 2, by omega⟩, ⟨n - 1, by omega⟩} (by simp)
+  rw [Finset.erase_insert (by
+    simp only [Finset.mem_singleton]
+    intro hEq
+    have := congrArg Fin.val hEq
+    dsimp only at this
+    omega)] at h
+  exact h
+
+/-- At the fork node, the negative type-`D` root generator annihilates the last two coordinates
+to the exterior vacuum. -/
+theorem typeDSpinRep_serreF_exteriorBasis_pair {i : Fin n}
+    (hlast : ¬(i : ℕ) + 1 < n) :
+    P.typeDSpinRep b hn
+        (_root_.UniversalEnvelopingAlgebra.ι ℚ (TauCeti.serreF ℚ (CartanMatrix.D n) i))
+        (b.ExteriorAlgebra {⟨n - 2, by omega⟩, ⟨n - 1, by omega⟩}) =
+      (TauCeti.ExteriorAlgebra.basisEraseSign (⟨n - 2, by omega⟩ : Fin n)
+          {(⟨n - 2, by omega⟩ : Fin n), (⟨n - 1, by omega⟩ : Fin n)} *
+        TauCeti.ExteriorAlgebra.basisEraseSign (⟨n - 1, by omega⟩ : Fin n)
+          {(⟨n - 1, by omega⟩ : Fin n)}) • b.ExteriorAlgebra ∅ := by
+  rw [P.typeDSpinRep_serreF_eq_spinAction b hn,
+    P.typeDSimpleNegativeRootBivector_def b, dif_neg hlast, map_mul,
+    Module.End.mul_apply, TauCeti.spinAction_ι_contract, P.pairingEquiv_dualVector,
+    TauCeti.spinAction_ι_contract, P.pairingEquiv_dualVector,
+    TauCeti.ExteriorAlgebra.contractLeft_coord_basis]
+  rw [if_pos (by simp), Finset.erase_insert (by
+    simp only [Finset.mem_singleton]
+    intro hEq
+    have := congrArg Fin.val hEq
+    dsimp only at this
+    omega), Units.smul_def,
+    ← Int.cast_smul_eq_zsmul ℚ, map_smul]
+  rw [TauCeti.ExteriorAlgebra.contractLeft_coord_basis]
+  simp only [Finset.mem_singleton, ↓reduceIte, Finset.erase_singleton, Units.smul_def,
+    Units.val_mul]
+  simp_rw [← Int.cast_smul_eq_zsmul ℚ]
+  rw [smul_smul, Int.cast_mul]
+
+/-- Every represented positive or negative simple-root generator preserves the coordinate spinor
+lattice. -/
+theorem typeDSpinRep_rootGenerator_apply_mem_integralLattice
+    (k : Fin n ⊕ Fin n) {v : ExteriorAlgebra ℚ P.W}
+    (hv : v ∈ TauCeti.ExteriorAlgebra.integralLattice b) :
+    P.typeDSpinRep b hn
+        (_root_.UniversalEnvelopingAlgebra.ι ℚ
+          (TauCeti.serreRootGenerator (CartanMatrix.D n) k)) v ∈
+      TauCeti.ExteriorAlgebra.integralLattice b := by
+  cases k with
+  | inl i =>
+      rw [TauCeti.serreRootGenerator_inl, P.typeDSpinRep_ι b hn,
+        P.typeDSpinSerreRepresentation_serreE b hn]
+      exact (P.mem_integralSpinActionSubring b).mp
+        (P.typeDSimpleRootBivector_mem_integralSpinActionSubring b (by omega) i) hv
+  | inr i =>
+      rw [TauCeti.serreRootGenerator_inr, P.typeDSpinRep_ι b hn,
+        P.typeDSpinSerreRepresentation_serreF b hn]
+      exact (P.mem_integralSpinActionSubring b).mp
+        (P.typeDSimpleNegativeRootBivector_mem_integralSpinActionSubring b (by omega) i) hv
+
+/-! ## Cartan weights and binomial operators -/
+
+/-- Every exterior-basis vector is a Cartan weight vector for the type-`D` spin representation,
+with its integral simply connected spin weight. -/
+theorem isCartanWeightVector_typeDSpinRep_exteriorBasis (s : Finset (Fin n)) :
+    TauCeti.UniversalEnvelopingAlgebra.IsCartanWeightVector
+      (TauCeti.serreH ℚ (CartanMatrix.D n)) (P.typeDSpinRep b hn)
+      (TauCeti.DynkinType.typeDSpinWeight s) (b.ExteriorAlgebra s) := by
+  refine (TauCeti.UniversalEnvelopingAlgebra.isCartanWeightVector_iff
+    (TauCeti.serreH ℚ (CartanMatrix.D n)) (P.typeDSpinRep b hn)).mpr fun i ↦ ?_
+  rw [P.typeDSpinRep_ι b hn, P.typeDSpinSerreRepresentation_serreH b hn]
+  simpa only [algebraMap_int_eq, Int.coe_castRingHom] using
+    (P.spinAction_typeDSimpleCorootBivector_basis b (by omega) i s)
+
+/-- The integral exterior basis is a Cartan weight basis for the type-`D` spin representation. -/
+theorem isCartanWeightVector_typeDSpinRep_integralLatticeBasis (s : Finset (Fin n)) :
+    TauCeti.UniversalEnvelopingAlgebra.IsCartanWeightVector
+      (TauCeti.serreH ℚ (CartanMatrix.D n)) (P.typeDSpinRep b hn)
+      (TauCeti.DynkinType.typeDSpinWeight s)
+      (((TauCeti.ExteriorAlgebra.integralLatticeBasis b) s :
+        TauCeti.ExteriorAlgebra.integralLattice b) : ExteriorAlgebra ℚ P.W) := by
+  rw [TauCeti.ExteriorAlgebra.coe_integralLatticeBasis]
+  exact P.isCartanWeightVector_typeDSpinRep_exteriorBasis b hn s
+
+/-- Every binomial coefficient in a represented simple-coroot generator preserves the coordinate
+spinor lattice. -/
+theorem typeDSpinRep_ringChoose_serreH_apply_mem_integralLattice
+    (i : Fin n) (m : ℕ) {v : ExteriorAlgebra ℚ P.W}
+    (hv : v ∈ TauCeti.ExteriorAlgebra.integralLattice b) :
+    P.typeDSpinRep b hn
+        (Ring.choose (_root_.UniversalEnvelopingAlgebra.ι ℚ
+          (TauCeti.serreH ℚ (CartanMatrix.D n) i)) m) v ∈
+      TauCeti.ExteriorAlgebra.integralLattice b := by
+  rw [Ring.map_choose]
+  refine TauCeti.ExteriorAlgebra.map_mem_integralLattice b
+    ((Ring.choose (P.typeDSpinRep b hn
+      (_root_.UniversalEnvelopingAlgebra.ι ℚ
+        (TauCeti.serreH ℚ (CartanMatrix.D n) i))) m).restrictScalars ℤ)
+    (fun s ↦ ?_) hv
+  rw [LinearMap.restrictScalars_apply, P.typeDSpinRep_ι b hn,
+    P.typeDSpinSerreRepresentation_serreH b hn]
+  rw [TauCeti.ringChoose_end_apply_of_apply_eq_smul
+      (by
+        simpa only [algebraMap_int_eq, Int.coe_castRingHom] using
+          (P.spinAction_typeDSimpleCorootBivector_basis b (by omega) i s)),
+    Ring.choose_intCast, Int.cast_smul_eq_zsmul ℚ]
+  exact Submodule.smul_mem _ _ (TauCeti.ExteriorAlgebra.basis_mem_integralLattice b s)
+
+/-! ## Stability under the Serre Kostant form -/
+
+/-- **The coordinate spinor lattice is admissible for the type-`D` Serre Kostant form.** -/
+theorem typeDSpinRep_serreKostantForm_apply_mem_integralLattice
+    {u : _root_.UniversalEnvelopingAlgebra ℚ
+      (Matrix.ToLieAlgebra ℚ (CartanMatrix.D n))}
+    (hu : u ∈ TauCeti.serreKostantForm (CartanMatrix.D n))
+    {v : ExteriorAlgebra ℚ P.W}
+    (hv : v ∈ TauCeti.ExteriorAlgebra.integralLattice b) :
+    P.typeDSpinRep b hn u v ∈ TauCeti.ExteriorAlgebra.integralLattice b := by
+  rw [TauCeti.serreKostantForm_def] at hu
+  exact TauCeti.UniversalEnvelopingAlgebra.kostantForm_apply_mem
+    (TauCeti.serreRootGenerator (CartanMatrix.D n))
+    (TauCeti.serreH ℚ (CartanMatrix.D n)) (P.typeDSpinRep b hn)
+    (TauCeti.ExteriorAlgebra.integralLattice b)
+    (fun k m _ hw ↦ by
+      rw [Associative.map_dividedPower]
+      exact Associative.dividedPower_apply_mem_of_pow_two_eq_zero _
+        (TauCeti.ExteriorAlgebra.integralLattice b).toAddSubgroup
+        (P.typeDSpinRep_rootGenerator_sq b hn k)
+        (fun hw' ↦ P.typeDSpinRep_rootGenerator_apply_mem_integralLattice b hn k hw') m hw)
+    (fun i m _ hw ↦
+      P.typeDSpinRep_ringChoose_serreH_apply_mem_integralLattice b hn i m hw) u hu hv
+
+end TauCeti.SpinPolarizationData
+
+

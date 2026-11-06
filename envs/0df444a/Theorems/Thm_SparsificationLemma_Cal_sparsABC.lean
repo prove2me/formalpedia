@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Cal_sparsABC
 -- name    : SparsificationLemma.Cal.sparsABC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:06:09.15979+00:00
 -- url     : https://prove2.me/theorems/fdada6cb-e630-4509-ab0a-d1e8a3e1b6cb

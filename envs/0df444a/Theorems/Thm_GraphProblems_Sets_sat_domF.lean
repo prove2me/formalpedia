@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_Sets_sat_domF
 -- name    : GraphProblems.Sets.sat_domF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:08.041701+00:00
 -- url     : https://prove2.me/theorems/73a740a0-e75f-4c14-9e76-199b28a08cc4

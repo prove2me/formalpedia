@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_nbhd_polyT
 -- name    : GraphProblems.nbhd_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:57:44.677752+00:00
 -- url     : https://prove2.me/theorems/06c5551c-312a-4e2f-8d98-93b79ee43cfa

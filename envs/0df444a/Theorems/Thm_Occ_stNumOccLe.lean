@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Occ_stNumOccLe
 -- name    : Occ.stNumOccLe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:19.161003+00:00
 -- url     : https://prove2.me/theorems/12bbdcdd-6fa3-422e-a5d1-158fa65db2fa

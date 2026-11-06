@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_inside_iff
 -- name    : Coding.inside_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:05.823622+00:00
 -- url     : https://prove2.me/theorems/54ce1af9-d9ff-417f-8047-e6597de12da6

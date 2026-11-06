@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_chkG_polyT
 -- name    : ClauseBound.Alg.CertGridG.chkG_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:14:46.759665+00:00
 -- url     : https://prove2.me/theorems/961f4250-618c-4074-9d30-811661fa46e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_CertThCal_thetaC_eq
 -- name    : StepSparsify.CertThCal.thetaC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:05.686247+00:00
 -- url     : https://prove2.me/theorems/13585cd2-7a20-479d-817b-24e37a5934f2

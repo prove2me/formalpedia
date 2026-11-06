@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TabooRegen_exp_moment_of_A7
 -- name    : TabooRegen.exp_moment_of_A7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:27:30.918594+00:00
 -- url     : https://prove2.me/theorems/84cfbad5-faec-4907-a2e4-5d7b03afa86f

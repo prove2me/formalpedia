@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_card_marked_le
 -- name    : VariableBound.Net.SizeB.card_marked_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:15.240738+00:00
 -- url     : https://prove2.me/theorems/1ff455c0-f3c9-420c-b2fe-6264c2b1421f

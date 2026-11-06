@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Abs_optimizer_exists
 -- name    : MartOT.Abs.optimizer_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:15.513716+00:00
 -- url     : https://prove2.me/theorems/05c73824-bf11-4304-a4b4-d2530362aafc

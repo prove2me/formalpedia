@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_shape_tseitin
 -- name    : CircuitLowerBound.Form.shape_tseitin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:54:35.557586+00:00
 -- url     : https://prove2.me/theorems/962fb964-df60-495a-a291-1aa8ee7f4ea3

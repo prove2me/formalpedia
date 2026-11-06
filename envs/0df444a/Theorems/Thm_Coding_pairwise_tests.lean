@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_pairwise_tests
 -- name    : Coding.pairwise_tests
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:05.173435+00:00
 -- url     : https://prove2.me/theorems/ccefb56d-51a3-4ad6-80a8-6bdebbad72c4

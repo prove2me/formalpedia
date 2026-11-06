@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_complexTransformedFactor_differentiableAt_e
 -- name    : OAI.SharpPlanar.complexTransformedFactor_differentiableAt_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:54:09.466612+00:00
 -- url     : https://prove2.me/theorems/55a69d77-dac4-4bfe-b54b-ff15ae36f249

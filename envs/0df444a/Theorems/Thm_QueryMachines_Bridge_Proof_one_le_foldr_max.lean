@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_one_le_foldr_max
 -- name    : QueryMachines.Bridge.Proof.one_le_foldr_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:07.416193+00:00
 -- url     : https://prove2.me/theorems/3e037c83-6313-4fe4-aa39-17c8b9c77ecf

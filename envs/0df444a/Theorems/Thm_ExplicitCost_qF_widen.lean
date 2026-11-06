@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_qF_widen
 -- name    : ExplicitCost.qF_widen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:51:09.568869+00:00
 -- url     : https://prove2.me/theorems/dc82923b-0705-4d2f-b27e-0dd479e43a81

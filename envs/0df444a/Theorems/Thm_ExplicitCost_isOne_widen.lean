@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_isOne_widen
 -- name    : ExplicitCost.isOne_widen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:51:26.065887+00:00
 -- url     : https://prove2.me/theorems/3005cc4a-0638-456e-97c3-0923500f75b7

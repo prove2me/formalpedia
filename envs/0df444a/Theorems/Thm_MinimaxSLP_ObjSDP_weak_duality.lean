@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjSDP_weak_duality
 -- name    : MinimaxSLP.ObjSDP.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:00.996988+00:00
 -- url     : https://prove2.me/theorems/ffd82195-2596-4704-af94-67ed1df5848e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_endO2
 -- name    : GeneralPieces.endO2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:39:45.861197+00:00
 -- url     : https://prove2.me/theorems/0281b3db-cdaf-4c30-9762-5377db8e735d

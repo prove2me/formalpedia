@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrWardrop_kkt_iff_saddle
 -- name    : CorrWardrop.kkt_iff_saddle
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:29:14.534583+00:00
 -- url     : https://prove2.me/theorems/f2b00daf-53e2-4e53-a673-fbd709487ef0

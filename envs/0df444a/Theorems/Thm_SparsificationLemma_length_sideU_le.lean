@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_length_sideU_le
 -- name    : SparsificationLemma.length_sideU_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:54:29.219568+00:00
 -- url     : https://prove2.me/theorems/84dcf2e2-841c-4baa-984b-6d82496ee971

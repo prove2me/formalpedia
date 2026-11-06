@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_pickOfFacts
 -- name    : QueryMachines.Bridge.pickOfFacts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:18:46.437979+00:00
 -- url     : https://prove2.me/theorems/762ab52b-e933-47e8-99a3-b7522886bf59

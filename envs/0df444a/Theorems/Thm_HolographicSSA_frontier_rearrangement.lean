@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolographicSSA_frontier_rearrangement
 -- name    : HolographicSSA.frontier_rearrangement
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:32:58.556213+00:00
 -- url     : https://prove2.me/theorems/d4bf3141-90ad-497f-9018-300e453046ef

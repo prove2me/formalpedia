@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_stTreeU
 -- name    : UniformInK.stTreeU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:50.580203+00:00
 -- url     : https://prove2.me/theorems/47d6db87-8d94-49c1-9571-40185d74511c

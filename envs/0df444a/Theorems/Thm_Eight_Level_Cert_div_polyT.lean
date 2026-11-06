@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Level_Cert_div_polyT
 -- name    : Eight.Level.Cert.div_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:18:55.108712+00:00
 -- url     : https://prove2.me/theorems/f1afd9a1-1903-4d03-8851-e173ed8286b1

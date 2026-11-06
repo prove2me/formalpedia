@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_lt_needNet_of_none
 -- name    : RecursionToBound.lt_needNet_of_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:24.267838+00:00
 -- url     : https://prove2.me/theorems/ea201ccd-daf0-4ba6-8032-d674ff5088ae

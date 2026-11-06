@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertOL_stCertCountOL_of
 -- name    : ClauseBound.ParityChecks.CertOL.stCertCountOL_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:22:57.630947+00:00
 -- url     : https://prove2.me/theorems/e76d0f7a-8b7e-44ce-bde2-396012fd6986

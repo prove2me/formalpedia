@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_stCertDom
 -- name    : GraphProblems.stCertDom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:57:07.628449+00:00
 -- url     : https://prove2.me/theorems/f1af4aa3-0f6c-4a21-adad-1c34a4fba881

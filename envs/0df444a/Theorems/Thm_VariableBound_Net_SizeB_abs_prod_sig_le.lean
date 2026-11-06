@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_abs_prod_sig_le
 -- name    : VariableBound.Net.SizeB.abs_prod_sig_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:18.971858+00:00
 -- url     : https://prove2.me/theorems/c485d4f8-a113-4a86-bc49-44439e3cd9de

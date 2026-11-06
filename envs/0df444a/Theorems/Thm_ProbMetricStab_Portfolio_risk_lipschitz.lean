@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbMetricStab_Portfolio_risk_lipschitz
 -- name    : ProbMetricStab.Portfolio.risk_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:04:55.860684+00:00
 -- url     : https://prove2.me/theorems/a205a6bf-d3e1-493f-a321-ab0b9460e15d

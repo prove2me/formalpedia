@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Sync_prop_4
 -- name    : LeiBR.Sync.prop_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:10:52.181338+00:00
 -- url     : https://prove2.me/theorems/69a62426-d8e3-4eb7-82ae-5408ca1dde42

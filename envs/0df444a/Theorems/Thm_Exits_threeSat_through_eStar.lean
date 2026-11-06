@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_threeSat_through_eStar
 -- name    : Exits.threeSat_through_eStar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:45:43.348105+00:00
 -- url     : https://prove2.me/theorems/4423da1b-598a-4018-8ea8-ef5a811f9aca

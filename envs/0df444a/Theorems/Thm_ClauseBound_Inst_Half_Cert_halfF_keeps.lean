@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_Cert_halfF_keeps
 -- name    : ClauseBound.Inst.Half.Cert.halfF_keeps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:23:35.146808+00:00
 -- url     : https://prove2.me/theorems/dd0a0ef3-503a-4b09-adbc-2511f2550b9c

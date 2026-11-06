@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_oracle_cap
 -- name    : PiecesCounted.oracle_cap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:48.478327+00:00
 -- url     : https://prove2.me/theorems/f2d1154c-25ae-404d-8903-0268ff8f3fbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_foldl_or
 -- name    : Exits.foldl_or
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:45:25.255804+00:00
 -- url     : https://prove2.me/theorems/1fef35d0-0127-458e-9216-207757116289

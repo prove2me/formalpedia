@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Rename_rencC_encC
 -- name    : VariableBound.Rename.rencC_encC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:57:23.341278+00:00
 -- url     : https://prove2.me/theorems/cb38ee8f-6ef3-470c-87ac-1819a2b21dd8

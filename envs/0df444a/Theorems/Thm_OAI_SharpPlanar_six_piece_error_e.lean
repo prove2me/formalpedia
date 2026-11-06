@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_six_piece_error_e
 -- name    : OAI.SharpPlanar.six_piece_error_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:43:45.820529+00:00
 -- url     : https://prove2.me/theorems/4fcc7022-6b18-4d1d-aaba-ae615da548ae

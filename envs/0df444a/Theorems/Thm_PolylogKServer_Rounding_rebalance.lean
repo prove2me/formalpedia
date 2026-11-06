@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolylogKServer_Rounding_rebalance
 -- name    : PolylogKServer.Rounding.rebalance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:09:24.211867+00:00
 -- url     : https://prove2.me/theorems/a0801a4b-8bd0-4b30-b2b8-5ec722fac121

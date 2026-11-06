@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowJobHardness_ColoringReduction_lemma_3_12
 -- name    : FlowJobHardness.ColoringReduction.lemma_3_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:32:30.866847+00:00
 -- url     : https://prove2.me/theorems/da58ac64-5c5d-4b52-92da-eff09fa1dfcb

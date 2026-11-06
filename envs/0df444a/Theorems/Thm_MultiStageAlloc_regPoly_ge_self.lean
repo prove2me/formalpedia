@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStageAlloc_regPoly_ge_self
 -- name    : MultiStageAlloc.regPoly_ge_self
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:30:46.300468+00:00
 -- url     : https://prove2.me/theorems/fb3f8719-be9a-45bd-984f-f48286300e5c

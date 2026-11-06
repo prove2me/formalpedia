@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_logC_epsOf
 -- name    : RecursionToBound.logC_epsOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:13.811101+00:00
 -- url     : https://prove2.me/theorems/848d8103-c1c7-4a1d-b5c0-5d9287919785

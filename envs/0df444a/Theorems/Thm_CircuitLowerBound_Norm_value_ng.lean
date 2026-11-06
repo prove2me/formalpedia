@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Norm_value_ng
 -- name    : CircuitLowerBound.Norm.value_ng
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:43:43.621521+00:00
 -- url     : https://prove2.me/theorems/1c442063-7338-4ce5-a0b0-9b17bd74bb73

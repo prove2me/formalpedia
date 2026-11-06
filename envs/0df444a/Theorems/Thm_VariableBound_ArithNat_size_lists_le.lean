@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_ArithNat_size_lists_le
 -- name    : VariableBound.ArithNat.size_lists_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:33.394899+00:00
 -- url     : https://prove2.me/theorems/d785ee2f-ae06-4e2a-969a-d1157cf8411d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_gridF_keeps
 -- name    : ClauseBound.Alg.CertGridG.gridF_keeps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:02:19.442195+00:00
 -- url     : https://prove2.me/theorems/65426a35-1d63-4e66-9232-5011d574c5f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepSets_four_pow_code_injective
 -- name    : DeepSets.four_pow_code_injective
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:49:32.761658+00:00
 -- url     : https://prove2.me/theorems/78e9ab0d-725a-46cb-acf8-e2c811df9bce

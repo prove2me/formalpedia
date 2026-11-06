@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_levelNetP_isNetworkP_printed_of
 -- name    : Eight.ViaGrouping.levelNetP_isNetworkP_printed_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:18.206952+00:00
 -- url     : https://prove2.me/theorems/cc19f9ca-7faf-4eba-9757-93b98f04e213

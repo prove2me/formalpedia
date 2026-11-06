@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSatPrinted_algPseudocode_viaC
 -- name    : ThreeSatPrinted.algPseudocode_viaC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:33:18.111035+00:00
 -- url     : https://prove2.me/theorems/47badfd5-4a1e-40a9-a797-e853cbd9c92e

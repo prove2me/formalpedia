@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_SmallFacts_fld_flatten
 -- name    : CircuitLowerBound.SmallFacts.fld_flatten
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:27.68189+00:00
 -- url     : https://prove2.me/theorems/a96f894c-f200-43aa-ae39-f44401053b41

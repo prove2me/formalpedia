@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_toN_widthReduce
 -- name    : Eight.Width.toN_widthReduce
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T19:56:13.798197+00:00
 -- url     : https://prove2.me/theorems/58e31f05-7400-47d9-a642-ca5eb73e8f07

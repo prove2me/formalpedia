@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_ImprimitivitySystem_pvm_hasSum_norm_sq
 -- name    : BookProof.ChapterMackeyGeneralBase.ImprimitivitySystem.pvm_hasSum_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:41.4324+00:00
 -- url     : https://prove2.me/theorems/058db00e-0952-45f2-b19a-9dc57c4ae26c

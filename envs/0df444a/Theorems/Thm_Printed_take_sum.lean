@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_take_sum
 -- name    : Printed.take_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:51:06.443206+00:00
 -- url     : https://prove2.me/theorems/b74ec880-e78c-4ecc-8ffe-c0ed5745ec4f

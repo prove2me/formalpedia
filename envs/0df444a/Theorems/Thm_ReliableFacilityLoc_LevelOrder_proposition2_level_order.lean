@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_LevelOrder_proposition2_level_order
 -- name    : ReliableFacilityLoc.LevelOrder.proposition2_level_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:20.171648+00:00
 -- url     : https://prove2.me/theorems/2338a159-443a-4b12-94a4-2cc8c83353f8

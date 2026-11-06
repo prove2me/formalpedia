@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Thresholds_step_le
 -- name    : UniformInK.Thresholds.step_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:42:57.629528+00:00
 -- url     : https://prove2.me/theorems/d6314a73-da02-4288-b08d-4f9dc06bdd15

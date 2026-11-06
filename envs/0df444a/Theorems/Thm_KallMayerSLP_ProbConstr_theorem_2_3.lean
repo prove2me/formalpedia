@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_ProbConstr_theorem_2_3
 -- name    : KallMayerSLP.ProbConstr.theorem_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:12:19.972785+00:00
 -- url     : https://prove2.me/theorems/cbd74a11-cfaf-450e-8b92-efef01cb01f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_widthReduce_eq
 -- name    : Eight.Width.widthReduce_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:47:00.173683+00:00
 -- url     : https://prove2.me/theorems/8011e3b1-9f1b-4cd4-bca0-683809b86905

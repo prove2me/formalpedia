@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Blocks_wires_input
 -- name    : CircuitLowerBound.Blocks.wires_input
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:34:13.577003+00:00
 -- url     : https://prove2.me/theorems/494cbaab-46ca-4359-8cd9-209ccc8d65d3

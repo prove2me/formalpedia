@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_xor_op
 -- name    : CircuitLowerBound.Form.xor_op
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:55:21.22889+00:00
 -- url     : https://prove2.me/theorems/8e37258a-adcd-4aa0-8db3-c721f08a7dd0

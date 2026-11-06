@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_pre_cases
 -- name    : CircuitLowerBound.Alg.pre_cases
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:08:09.171863+00:00
 -- url     : https://prove2.me/theorems/86908cf1-6029-4db0-83be-ed3f570917eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_psiLt_row
 -- name    : Eight.ViaGrouping.psiLt_row
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:54.813871+00:00
 -- url     : https://prove2.me/theorems/2c97d816-2368-4474-a480-4ee9431f22c4

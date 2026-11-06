@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_TreeWalk_iface
 -- name    : SparsificationLemma.TreeWalk.iface
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:29:12.127538+00:00
 -- url     : https://prove2.me/theorems/4c8d2a7d-6032-4e75-b6a4-b92aeb808db7

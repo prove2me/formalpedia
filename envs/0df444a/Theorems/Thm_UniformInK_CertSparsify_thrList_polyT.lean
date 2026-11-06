@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_CertSparsify_thrList_polyT
 -- name    : UniformInK.CertSparsify.thrList_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T19:42:12.783223+00:00
 -- url     : https://prove2.me/theorems/db5d0e8a-c4cc-4de6-915b-71ea40d9032f

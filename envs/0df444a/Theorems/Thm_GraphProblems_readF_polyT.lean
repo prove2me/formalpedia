@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_readF_polyT
 -- name    : GraphProblems.readF_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:59:14.453782+00:00
 -- url     : https://prove2.me/theorems/c7861cee-8491-4aa5-80db-d55f42a3b4c2

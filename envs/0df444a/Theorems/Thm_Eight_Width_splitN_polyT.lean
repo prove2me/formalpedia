@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_splitN_polyT
 -- name    : Eight.Width.splitN_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:01:33.823839+00:00
 -- url     : https://prove2.me/theorems/254c6646-3f94-4134-bd5e-5420e3be3f34

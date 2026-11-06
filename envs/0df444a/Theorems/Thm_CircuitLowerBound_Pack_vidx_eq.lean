@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Pack_vidx_eq
 -- name    : CircuitLowerBound.Pack.vidx_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:52.337973+00:00
 -- url     : https://prove2.me/theorems/2f9a202e-c399-4e72-aa69-392dffde77d0

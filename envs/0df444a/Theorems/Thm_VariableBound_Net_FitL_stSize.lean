@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_FitL_stSize
 -- name    : VariableBound.Net.FitL.stSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:35.421791+00:00
 -- url     : https://prove2.me/theorems/7e949e22-52c4-4f04-bcb0-d2e644c3a8a8

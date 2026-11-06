@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_Supermod_marginal
 -- name    : ReliableFacilityLoc.Supermod.marginal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:14:55.340546+00:00
 -- url     : https://prove2.me/theorems/a4948780-a41d-4395-9063-627d2d1412c4

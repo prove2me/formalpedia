@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for levy_foundations_projectiveFamily_sigma_subadditive
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-04T18:56:22.369809+00:00
 -- url     : https://prove2.me/submissions/3d6dc9f6-f64a-48df-aa05-0840a07db620
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Constructions.ProjectiveFamilyContent
 import Mathlib.MeasureTheory.Constructions.ClosedCompactCylinders

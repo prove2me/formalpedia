@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_add_two_le_K
 -- name    : QueryMachines.Bridge.Proof.add_two_le_K
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:53.299558+00:00
 -- url     : https://prove2.me/theorems/00f9b5d2-06c9-4003-a2a1-c9cf6b471278

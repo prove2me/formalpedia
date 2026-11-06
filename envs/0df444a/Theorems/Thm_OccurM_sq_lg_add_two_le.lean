@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_sq_lg_add_two_le
 -- name    : OccurM.sq_lg_add_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:23.781271+00:00
 -- url     : https://prove2.me/theorems/01c36bcc-e22b-48e9-afd0-b8e2048e2078

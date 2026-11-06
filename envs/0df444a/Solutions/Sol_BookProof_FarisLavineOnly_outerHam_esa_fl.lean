@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FarisLavineOnly.outerHam_esa_fl
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-04T23:05:20.146825+00:00
 -- url     : https://prove2.me/submissions/992568cc-4bb0-4bc0-8d77-4346b6772f2a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFarisLavineOnly.lean — solution of BookProof.FarisLavineOnly.outerHam_esa_fl
 import Mathlib

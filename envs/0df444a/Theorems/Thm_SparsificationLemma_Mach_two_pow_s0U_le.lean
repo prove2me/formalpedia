@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_two_pow_s0U_le
 -- name    : SparsificationLemma.Mach.two_pow_s0U_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:17.04551+00:00
 -- url     : https://prove2.me/theorems/905d7eee-55fa-42e3-8f4a-9010f9b384be

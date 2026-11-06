@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_stRestrict
 -- name    : Eight.Width.stRestrict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T16:10:15.589693+00:00
 -- url     : https://prove2.me/theorems/7cbf0916-a9be-49a4-942d-808a1a905991

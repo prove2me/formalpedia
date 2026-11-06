@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_thmRunningTime_b_tied
 -- name    : GeneralPieces.thmRunningTime_b_tied
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:40:24.675579+00:00
 -- url     : https://prove2.me/theorems/0e4767cc-7261-42c6-b64b-027f797f4f93

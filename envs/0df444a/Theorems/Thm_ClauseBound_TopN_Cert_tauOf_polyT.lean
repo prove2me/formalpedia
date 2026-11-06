@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_TopN_Cert_tauOf_polyT
 -- name    : ClauseBound.TopN.Cert.tauOf_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:20:16.72626+00:00
 -- url     : https://prove2.me/theorems/c603ce93-0ca8-48fb-a569-5ac3100fe329

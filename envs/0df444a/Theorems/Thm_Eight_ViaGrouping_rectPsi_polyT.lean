@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_rectPsi_polyT
 -- name    : Eight.ViaGrouping.rectPsi_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:04.363125+00:00
 -- url     : https://prove2.me/theorems/df018c24-ad22-4306-83bd-e9a0b20ddfb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_TreeWalk_lemSparsification_walk
 -- name    : SparsificationLemma.TreeWalk.lemSparsification_walk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:49.813458+00:00
 -- url     : https://prove2.me/theorems/68427170-d399-4ab1-aa6e-f2bf3d4fcfd6

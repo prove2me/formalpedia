@@ -1,0 +1,49 @@
+-- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_s3_original_stopped_actual_jump_sum_shorttime_L2_zero
+-- name    : AvramDividend.Classical.avram_p4_s3_original_stopped_actual_jump_sum_shorttime_L2_zero
+-- status  : Proved
+-- author  : @WillR
+-- created : 2026-11-05T18:11:42.801279+00:00
+-- url     : https://prove2.me/theorems/1df81739-9aae-45ab-8f9c-2b49f30e2a27
+-- title:
+--   Original stopped physical negative-band jump-time sum has vanishing L2 collision error under shrinking envelopes
+-- statement:
+--   For any sequence of path-dependent original physical stopping clocks τ_k≤T/k and uniformly bounded, time-indexed original jump kernels, the multiple-jump finite marked-time sum has expected square tending to zero. Assumes true stopped count and squared-sum measurability and uses the exact original Lévy intensity rate, with bound 2B²(Tν_band/k)² for k>0.
+-- source:
+--   New accepted bounded original clock physical jump sum L2 quadratic collision theorem and the proved original physical intensity horizon scaling c3093fe5; squeeze theorem.
+
+import Mathlib.MeasureTheory.MeasurableSpace.Defs
+import Mathlib.Topology.Order.LeftRightLim
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_negative_band_marked_times_finite
+open MeasureTheory Set Filter Topology AvramDividend.Classical
+open scoped NNReal ENNReal
+
+theorem AvramDividend.Classical.avram_p4_s3_original_stopped_actual_jump_sum_shorttime_L2_zero
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    [IsProbabilityMeasure P] {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕) (T : ℝ≥0) (n : ℕ)
+    (τ : ℕ → Ω → ℝ≥0)
+    (hτBound : ∀ k ω, τ k ω ≤ T / (k : ℝ≥0))
+    (hKmeas : ∀ k : ℕ, Measurable (fun ω : Ω =>
+      {u : ℝ≥0 | 0 < u ∧ u ≤ τ k ω ∧
+        X.X u ω - Function.leftLim (fun v : ℝ≥0 => X.X v ω) u ≤
+          -(1 / ((n : ℝ) + 1))}.ncard))
+    (f : ℕ → Ω → ℝ≥0 → ℝ) (B : ℝ) (hB : 0 ≤ B)
+    (hf : ∀ k ω u, |f k ω u| ≤ B)
+    (hErrSquareMeas : ∀ k : ℕ, AEStronglyMeasurable (fun ω =>
+      (if 2 ≤ {u : ℝ≥0 | 0 < u ∧ u ≤ τ k ω ∧
+        X.X u ω - Function.leftLim (fun v : ℝ≥0 => X.X v ω) u ≤
+          -(1 / ((n : ℝ) + 1))}.ncard then
+        ∑ u ∈ (avram_wave7_06_original_negative_band_marked_times_finite
+          X ω (τ k ω) n).toFinset, f k ω u
+      else 0) ^ 2) P) :
+    let F : ℕ → Ω → Finset ℝ≥0 := fun k ω =>
+      (avram_wave7_06_original_negative_band_marked_times_finite
+        X ω (τ k ω) n).toFinset
+    let K : ℕ → Ω → ℕ := fun k ω =>
+      {u : ℝ≥0 | 0 < u ∧ u ≤ τ k ω ∧
+        X.X u ω - Function.leftLim (fun v : ℝ≥0 => X.X v ω) u ≤
+          -(1 / ((n : ℝ) + 1))}.ncard
+    Filter.Tendsto (fun k : ℕ =>
+      ∫ ω, (if 2 ≤ K k ω then ∑ u ∈ F k ω, f k ω u else 0) ^ 2 ∂P)
+      Filter.atTop (nhds (0 : ℝ)) := by sorry

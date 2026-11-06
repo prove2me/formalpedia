@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_cmp_eq
 -- name    : QueryMachines.Bridge.Proof.cmp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T19:23:53.111192+00:00
 -- url     : https://prove2.me/theorems/e3b77801-d654-4641-b82d-0cd7a43e254c

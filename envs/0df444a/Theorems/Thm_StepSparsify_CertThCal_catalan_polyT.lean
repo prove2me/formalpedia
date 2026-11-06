@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_CertThCal_catalan_polyT
 -- name    : StepSparsify.CertThCal.catalan_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:43.790472+00:00
 -- url     : https://prove2.me/theorems/6fd6869e-3c9b-4e13-bcf4-5309ed8742f9

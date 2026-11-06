@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_lg_mul_le
 -- name    : OccurM.lg_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:37.322136+00:00
 -- url     : https://prove2.me/theorems/bc4e4206-5f0c-47b3-920e-e98ea0a99732

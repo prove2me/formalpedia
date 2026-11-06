@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRebate_ReturnsEffort_proposition4_returns_increase_effort
 -- name    : ChannelRebate.ReturnsEffort.proposition4_returns_increase_effort
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:14:43.141153+00:00
 -- url     : https://prove2.me/theorems/ffe93b7b-b0d9-43b2-b64a-8adeebd3a839

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_nodup_tests
 -- name    : Coding.nodup_tests
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:09.347195+00:00
 -- url     : https://prove2.me/theorems/8dea997b-4f36-4f69-b2cb-75ea9d863e10

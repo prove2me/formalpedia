@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjSDP_dual6_eq_dual8
 -- name    : MinimaxSLP.ObjSDP.dual6_eq_dual8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:37.126674+00:00
 -- url     : https://prove2.me/theorems/76f6fadc-6c17-459e-8a4c-6030c61b5025

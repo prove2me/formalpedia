@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_stIfaceC
 -- name    : SparsificationLemma.stIfaceC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:56:26.742197+00:00
 -- url     : https://prove2.me/theorems/6332964e-4150-457a-9f27-78e34c624651

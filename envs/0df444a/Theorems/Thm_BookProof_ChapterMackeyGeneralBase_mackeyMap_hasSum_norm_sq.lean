@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_mackeyMap_hasSum_norm_sq
 -- name    : BookProof.ChapterMackeyGeneralBase.mackeyMap_hasSum_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:48.814622+00:00
 -- url     : https://prove2.me/theorems/6d8ffb88-7787-40e1-9f05-714fcadba819

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Val_prod_wz_st
 -- name    : VariableBound.Net.Val.prod_wz_st
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:44:47.689538+00:00
 -- url     : https://prove2.me/theorems/e7eda46c-a6bb-4824-a495-fba59e4a527b

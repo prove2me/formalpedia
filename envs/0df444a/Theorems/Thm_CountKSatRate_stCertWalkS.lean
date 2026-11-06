@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountKSatRate_stCertWalkS
 -- name    : CountKSatRate.stCertWalkS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:19:24.563443+00:00
 -- url     : https://prove2.me/theorems/db9b1d04-de3c-4339-b806-2a38bc7ca5f9

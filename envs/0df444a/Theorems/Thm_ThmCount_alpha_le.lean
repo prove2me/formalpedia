@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_alpha_le
 -- name    : ThmCount.alpha_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:14:20.696017+00:00
 -- url     : https://prove2.me/theorems/9ce5e3ea-d828-49fc-ac8d-3637f8703377

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppRunningTime_lemPiecesPieces
 -- name    : AppRunningTime.lemPiecesPieces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:10:25.152961+00:00
 -- url     : https://prove2.me/theorems/54b4626c-1406-4f76-abb1-81275f2fb3dc

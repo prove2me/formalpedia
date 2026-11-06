@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_priceG_unary
 -- name    : ClauseBound.Alg.CertGridG.priceG_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:00:14.612059+00:00
 -- url     : https://prove2.me/theorems/f69e4e1a-2447-495c-8b46-accdbb4b7aa8

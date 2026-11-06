@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatFree_inTimeRand_of_inTime
 -- name    : SatFree.inTimeRand_of_inTime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:48:52.353659+00:00
 -- url     : https://prove2.me/theorems/e04c1e68-e660-4440-a8cf-11a461825851

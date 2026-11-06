@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Structure_delta_hA_integral_formula
 -- name    : FastFashion.Structure.delta_hA_integral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:11.619072+00:00
 -- url     : https://prove2.me/theorems/7131a9ce-38c1-4666-8743-8168ff781cf8

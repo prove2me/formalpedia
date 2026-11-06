@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_SecNetworks_cov_disjoint
 -- name    : Eight.SecNetworks.cov_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:52:47.800195+00:00
 -- url     : https://prove2.me/theorems/c3f16376-90b2-4690-b2c8-e736ac12ecd0

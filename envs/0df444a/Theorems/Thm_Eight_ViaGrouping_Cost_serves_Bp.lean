@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_Cost_serves_Bp
 -- name    : Eight.ViaGrouping.Cost.serves_Bp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:31.28205+00:00
 -- url     : https://prove2.me/theorems/44ff8c70-51c5-41dd-976c-577c68af6747

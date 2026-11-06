@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROOptimal_Predictor_theorem_2
 -- name    : DROOptimal.Predictor.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:09:54.999041+00:00
 -- url     : https://prove2.me/theorems/879d6113-7fdb-4552-96bc-e48ae16195db

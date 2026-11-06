@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_needAtC_eq_some
 -- name    : RecursionToBound.needAtC_eq_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:00.487193+00:00
 -- url     : https://prove2.me/theorems/7d2b185b-2788-46a0-83c9-536944fc87aa

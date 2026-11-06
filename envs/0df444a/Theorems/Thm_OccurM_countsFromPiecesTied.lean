@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_countsFromPiecesTied
 -- name    : OccurM.countsFromPiecesTied
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:08:17.755198+00:00
 -- url     : https://prove2.me/theorems/bf53ac9d-1b21-4804-a82d-f24823be1809

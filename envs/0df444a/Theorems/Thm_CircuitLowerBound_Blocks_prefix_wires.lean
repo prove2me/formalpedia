@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Blocks_prefix_wires
 -- name    : CircuitLowerBound.Blocks.prefix_wires
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:04:49.644231+00:00
 -- url     : https://prove2.me/theorems/34a5589e-a5ad-4caf-88a7-1d24c200e896

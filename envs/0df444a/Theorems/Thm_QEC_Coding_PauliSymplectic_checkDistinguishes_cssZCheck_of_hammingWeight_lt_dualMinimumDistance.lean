@@ -1,0 +1,40 @@
+-- Prove2me | Theorems.Thm_QEC_Coding_PauliSymplectic_checkDistinguishes_cssZCheck_of_hammingWeight_lt_dualMinimumDistance
+-- name    : QEC.Coding.PauliSymplectic.checkDistinguishes_cssZCheck_of_hammingWeight_lt_dualMinimumDistance
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-05T12:23:14.292886+00:00
+-- url     : https://prove2.me/theorems/5ee067f4-1f59-4c51-8cde-3224b29861bc
+-- title:
+--   Pauli Symplectic: check Distinguishes css ZCheck of hamming Weight lt dual Minimum Distance
+-- statement:
+--   A low-weight nonzero pure `Z` word is distinguished from identity by some
+--   `X` check in the binary CSS check set.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/Stabilizer/PauliSemantics.lean#L1803-L1812
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/Stabilizer/PauliSemantics.lean#L1803-L1812
+
+import Definitions.Def_QEC_Coding_Core_Definitions
+import Definitions.Def_QEC_Semantics_ErrorCorrection_CodeSupport
+import Definitions.Def_QEC_Semantics_ErrorCorrection_KLRecovery
+import Definitions.Def_QEC_Semantics_Channels_Kraus
+import Definitions.Def_QEC_Semantics_Channels_KrausKnillLaflamme
+import Definitions.Def_QEC_Semantics_Core_Qubit
+import Definitions.Def_QEC_Coding_Stabilizer_PauliSemantics
+set_option autoImplicit false
+noncomputable section
+open QEC
+open QEC.Coding
+open Classical
+open scoped BigOperators
+universe u w
+open QEC.Coding.PauliSymplectic
+variable {ι : Type u} [Fintype ι]
+variable [DecidableEq ι]
+omit [DecidableEq ι]
+
+theorem QEC.Coding.PauliSymplectic.checkDistinguishes_cssZCheck_of_hammingWeight_lt_dualMinimumDistance
+    (xCode zCode : LinearCode (ZMod 2) ι) {dZ : Nat}
+    (hminZ : MinimumDistance xCode.dual dZ)
+    {z : Word (ZMod 2) ι} (hz0 : z ≠ 0) (hzlt : HammingWeight z < dZ) :
+    checkDistinguishes (binaryCSSCheckSet xCode zCode) (cssZCheck z) := by sorry

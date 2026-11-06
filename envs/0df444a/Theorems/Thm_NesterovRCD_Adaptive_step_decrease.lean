@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Adaptive_step_decrease
 -- name    : NesterovRCD.Adaptive.step_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:28.484176+00:00
 -- url     : https://prove2.me/theorems/0d639530-85ca-4754-b493-0e393b393dcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Time_exists_threshold
 -- name    : CircuitLowerBound.Time.exists_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:30.557332+00:00
 -- url     : https://prove2.me/theorems/050150ab-ecc4-47e7-83b9-24358c9bbd87

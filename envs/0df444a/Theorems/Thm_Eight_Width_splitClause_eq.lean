@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_splitClause_eq
 -- name    : Eight.Width.splitClause_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:01:43.504043+00:00
 -- url     : https://prove2.me/theorems/286c1b56-3e03-42eb-8990-07c0a16af5b0

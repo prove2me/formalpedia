@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_readBlocks_mem
 -- name    : Value.readBlocks_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:22.36845+00:00
 -- url     : https://prove2.me/theorems/4145d2f4-83bc-45d0-a145-858ebd703edc

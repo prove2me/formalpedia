@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_stForm_of
 -- name    : CircuitLowerBound.stForm_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:00:40.114445+00:00
 -- url     : https://prove2.me/theorems/bba53c8e-1766-4599-9efc-338fcd398759

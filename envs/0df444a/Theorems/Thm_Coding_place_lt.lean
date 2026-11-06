@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_place_lt
 -- name    : Coding.place_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:02:34.885091+00:00
 -- url     : https://prove2.me/theorems/a37deef5-368a-4bc4-ba4f-1608980cf53a

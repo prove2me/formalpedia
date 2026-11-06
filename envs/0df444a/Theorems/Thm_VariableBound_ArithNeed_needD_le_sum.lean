@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_ArithNeed_needD_le_sum
 -- name    : VariableBound.ArithNeed.needD_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:38.795975+00:00
 -- url     : https://prove2.me/theorems/ec9819b3-cf61-4594-b5f8-59b9b7598e25

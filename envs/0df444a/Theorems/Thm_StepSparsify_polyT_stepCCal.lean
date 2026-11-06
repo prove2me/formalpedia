@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_polyT_stepCCal
 -- name    : StepSparsify.polyT_stepCCal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:20.43441+00:00
 -- url     : https://prove2.me/theorems/bca827fe-a981-4381-9333-0ba90f202708

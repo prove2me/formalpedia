@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_CertSparsify_thetaU_polyT
 -- name    : UniformInK.CertSparsify.thetaU_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:52:55.497758+00:00
 -- url     : https://prove2.me/theorems/89e3cd5f-7583-4622-9f24-f5da5d344fd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_forced_polyT
 -- name    : Eight.Width.forced_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:01:39.821855+00:00
 -- url     : https://prove2.me/theorems/4c81b66b-ef5c-4dac-b1cf-28d4bce3669a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbMetricStab_General_theorem_2_3_d_zero
 -- name    : ProbMetricStab.General.theorem_2_3_d_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:05:28.402244+00:00
 -- url     : https://prove2.me/theorems/0baa1b20-52a4-43e1-8a41-cd7ae58f4a8c

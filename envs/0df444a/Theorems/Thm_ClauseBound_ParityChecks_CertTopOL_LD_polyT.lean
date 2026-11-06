@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertTopOL_LD_polyT
 -- name    : ClauseBound.ParityChecks.CertTopOL.LD_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:28:20.539786+00:00
 -- url     : https://prove2.me/theorems/51e38908-3a02-4a33-9dda-7cda8b52b6a6

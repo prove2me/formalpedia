@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_X_summable_coord_e
 -- name    : OAI.SharpPlanar.X_summable_coord_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:48:26.154904+00:00
 -- url     : https://prove2.me/theorems/808f0dd7-2573-4da5-bcf2-f39ed251dc53

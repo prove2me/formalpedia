@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_levelMachine_close
 -- name    : Printed.levelMachine_close
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:43:14.440281+00:00
 -- url     : https://prove2.me/theorems/8fdb9391-24bb-47ce-ae7b-7489cf0f09b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoicePAC_MidPoint_perturbation_unique_optimum
 -- name    : ChoicePAC.MidPoint.perturbation_unique_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:09.055785+00:00
 -- url     : https://prove2.me/theorems/f74ca794-17cb-4e99-b1c6-0ac3322d925d

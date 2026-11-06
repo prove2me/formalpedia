@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_Pad_padOp_le_padLen
 -- name    : ClauseBound.Inst.Half.Pad.padOp_le_padLen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:39:59.336215+00:00
 -- url     : https://prove2.me/theorems/62948faf-f1de-472e-900d-40dba6908f8c

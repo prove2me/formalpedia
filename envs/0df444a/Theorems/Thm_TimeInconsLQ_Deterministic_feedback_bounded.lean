@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeInconsLQ_Deterministic_feedback_bounded
 -- name    : TimeInconsLQ.Deterministic.feedback_bounded
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:27:08.580977+00:00
 -- url     : https://prove2.me/theorems/396d688b-13d3-4b6a-9d8f-0dcf7ef62a4f

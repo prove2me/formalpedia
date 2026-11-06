@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_DomTree_inv_size
 -- name    : GraphProblems.DomTree.inv_size
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:03:01.345463+00:00
 -- url     : https://prove2.me/theorems/f795dc46-3d34-42e7-a48d-d264d073dc5a

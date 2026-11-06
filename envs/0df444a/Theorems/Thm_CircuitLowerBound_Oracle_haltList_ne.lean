@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Oracle_haltList_ne
 -- name    : CircuitLowerBound.Oracle.haltList_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:46:25.468601+00:00
 -- url     : https://prove2.me/theorems/8ffb882d-2c26-43bc-bbc8-79189711a5e2

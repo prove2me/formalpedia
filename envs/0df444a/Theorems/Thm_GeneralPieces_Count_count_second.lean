@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_Count_count_second
 -- name    : GeneralPieces.Count.count_second
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:52.32318+00:00
 -- url     : https://prove2.me/theorems/141cfba4-454a-474a-9d12-cc47fe467f3e

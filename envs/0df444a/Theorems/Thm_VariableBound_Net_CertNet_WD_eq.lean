@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_CertNet_WD_eq
 -- name    : VariableBound.Net.CertNet.WD_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:01.04285+00:00
 -- url     : https://prove2.me/theorems/7ac76fa6-3012-4506-ba02-232148382a9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_zero_lt_levelG
 -- name    : Eight.ViaGrouping.zero_lt_levelG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:24:26.096503+00:00
 -- url     : https://prove2.me/theorems/0a1cf8df-21dc-432c-9467-724285225cc0

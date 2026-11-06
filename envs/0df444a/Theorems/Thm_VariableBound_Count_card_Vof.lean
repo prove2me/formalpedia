@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_card_Vof
 -- name    : VariableBound.Count.card_Vof
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:49.008389+00:00
 -- url     : https://prove2.me/theorems/3cae6387-3373-4846-904d-a878ea41a6e7

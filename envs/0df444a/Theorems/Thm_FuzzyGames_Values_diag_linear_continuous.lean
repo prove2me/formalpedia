@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_Values_diag_linear_continuous
 -- name    : FuzzyGames.Values.diag_linear_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:45.921185+00:00
 -- url     : https://prove2.me/theorems/cf7c0176-bc7e-418b-a5b5-5fc011f770e5

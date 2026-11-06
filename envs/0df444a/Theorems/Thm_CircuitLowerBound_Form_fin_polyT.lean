@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_fin_polyT
 -- name    : CircuitLowerBound.Form.fin_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:59:23.711559+00:00
 -- url     : https://prove2.me/theorems/505e7e47-2def-42ad-b759-fceda2831436

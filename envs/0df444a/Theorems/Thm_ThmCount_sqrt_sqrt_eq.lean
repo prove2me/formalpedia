@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_sqrt_sqrt_eq
 -- name    : ThmCount.sqrt_sqrt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:55.884006+00:00
 -- url     : https://prove2.me/theorems/17dfc965-c91d-4ce4-96a2-ff53f4c593e3

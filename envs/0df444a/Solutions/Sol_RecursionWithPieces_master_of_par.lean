@@ -1,0 +1,700 @@
+-- Prove2me | solution 1 for RecursionWithPieces.master_of_par
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-05T10:57:58.492874+00:00
+-- url     : https://prove2.me/submissions/e948be8f-f3f9-4eba-aec5-794935a9c503
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_RecursionWithPieces_Defs
+import Definitions.Def_ClauseBound_Gen_Defs
+import Definitions.Def_GeneralPieces_ThmRunningTime
+import Definitions.Def_GeneralPieces_Num_PartAUse
+import Definitions.Def_GeneralPieces_Num_Asymptotic
+import Definitions.Def_UniformInK_Top_FallBack
+import Definitions.Def_ClauseBound_MainBoth
+import Definitions.Def_ClauseBound_ParityChecks_MasterOL
+import Definitions.Def_ClauseBound_ParityChecks_MasterOL
+import Definitions.Def_ClauseBound_TopN_Arith
+import Definitions.Def_ClauseBound_TopN_Arith
+import Definitions.Def_ClauseBound_Gen_End
+import Definitions.Def_ClauseBound_Alg_Need
+import Definitions.Def_RecursionWithPieces_Master
+import Theorems.Thm_ClauseBound_Alg_CertCount_mu_polyT2
+import Theorems.Thm_ClauseBound_Alg_CertCount_mu_unary2
+import Theorems.Thm_ClauseBound_Alg_CertCount_rows_polyT2
+import Theorems.Thm_ClauseBound_Alg_CertGridG_D_unary__6c8f65
+import Theorems.Thm_ClauseBound_Alg_CertGridG_K_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_Nof_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_a_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_b_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_c2_polyT
+import Theorems.Thm_ClauseBound_Alg_CertGridG_c2_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_chkG_polyT
+import Theorems.Thm_ClauseBound_Alg_CertGridG_d_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_h_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_heG_polyT
+import Theorems.Thm_ClauseBound_Alg_CertGridG_nMemb_polyT
+import Theorems.Thm_ClauseBound_Alg_CertGridG_nMemb_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_nParts_polyT
+import Theorems.Thm_ClauseBound_Alg_CertGridG_nParts_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_nRectG_polyT
+import Theorems.Thm_ClauseBound_Alg_CertGridG_nRectG_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_nodeG_polyT
+import Theorems.Thm_ClauseBound_Alg_CertGridG_p_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_rectIxG_polyT
+import Theorems.Thm_ClauseBound_Alg_CertGridG_sqrt_polyT
+import Theorems.Thm_ClauseBound_Alg_CertGridG_sqrt_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_thin_polyT
+import Theorems.Thm_ClauseBound_Alg_CertGridG_tri_unary
+import Theorems.Thm_ClauseBound_Alg_CertGridG_unary_ite
+import Theorems.Thm_ClauseBound_Alg_CertGridG_unary_max
+import Theorems.Thm_ClauseBound_Alg_CertGridG_unary_min
+import Theorems.Thm_ClauseBound_Alg_CertGridG_unary_mod
+import Theorems.Thm_ClauseBound_Alg_CertTop_PtopK_unary
+import Theorems.Thm_ClauseBound_Alg_CertTop_capF_unary3
+import Theorems.Thm_ClauseBound_Alg_CertTop_fF_polyT3
+import Theorems.Thm_ClauseBound_Alg_CertTop_lamTopK_unary
+import Theorems.Thm_ClauseBound_Alg_CertTop_linkB_polyT3
+import Theorems.Thm_ClauseBound_Alg_CertTop_links_polyT3
+import Theorems.Thm_ClauseBound_Alg_CertTop_litAt_polyT3
+import Theorems.Thm_ClauseBound_Alg_CertTop_locals_polyT3
+import Theorems.Thm_ClauseBound_Alg_CertTop_root9_polyT
+import Theorems.Thm_ClauseBound_Alg_CertTop_slotsOf_polyT3
+import Theorems.Thm_ClauseBound_Alg_CertTop_unary_max
+import Theorems.Thm_ClauseBound_Alg_CertTop_unary_size
+import Theorems.Thm_ClauseBound_Alg_CertTop_varAt_polyT3
+import Theorems.Thm_ClauseBound_Alg_CertTop_wF_polyT3
+import Theorems.Thm_ClauseBound_Alg_Need_stNeedG
+import Theorems.Thm_ClauseBound_Both_rN_nonneg
+import Theorems.Thm_ClauseBound_Both_rPow_nonneg
+import Theorems.Thm_ClauseBound_Gen_End_alpha_mem
+import Theorems.Thm_ClauseBound_Gen_End_le_rPow
+import Theorems.Thm_ClauseBound_Gen_Pick_next_polyT
+import Theorems.Thm_ClauseBound_Inst_Half_betF_polyT
+import Theorems.Thm_ClauseBound_Inst_Half_count_unary
+import Theorems.Thm_ClauseBound_Inst_Half_erase_polyT
+import Theorems.Thm_ClauseBound_Inst_Half_kfInit_polyT
+import Theorems.Thm_ClauseBound_Inst_Half_kfStep_polyT
+import Theorems.Thm_ClauseBound_Inst_Half_lookT_polyT
+import Theorems.Thm_ClauseBound_Inst_Half_nopE_polyT
+import Theorems.Thm_ClauseBound_Inst_Half_oneT_polyT
+import Theorems.Thm_ClauseBound_Inst_Half_tabKF_polyT
+import Theorems.Thm_ClauseBound_Inst_Half_tabOp_polyT
+import Theorems.Thm_ClauseBound_Inst_Half_zzF_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_ccF_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_chooseZ_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_factN_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_fallZ_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_linF_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_muF_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_muF_unary
+import Theorems.Thm_ClauseBound_Inst_Rec_nbF_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_nbF_unary
+import Theorems.Thm_ClauseBound_Inst_Rec_nblk_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_nblk_unary
+import Theorems.Thm_ClauseBound_Inst_Rec_phiF_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_powZ_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_qqF_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_sgnZ_polyT
+import Theorems.Thm_ClauseBound_Inst_Rec_unary_min_right
+import Theorems.Thm_ClauseBound_ParityChecks_CertNum_colOf_polyT
+import Theorems.Thm_ClauseBound_ParityChecks_CertNum_colOf_unary
+import Theorems.Thm_ClauseBound_ParityChecks_MasterOL_le_rN
+import Theorems.Thm_ClauseBound_TopN_Arith_root17_spec
+import Theorems.Thm_ClauseBound_TopN_Cert_PbN_unary
+import Theorems.Thm_ClauseBound_TopN_Cert_UbN_unary
+import Theorems.Thm_ClauseBound_TopN_Cert_betaN_unary
+import Theorems.Thm_ClauseBound_TopN_Cert_blockN_unary
+import Theorems.Thm_ClauseBound_TopN_Cert_layersN_unary
+import Theorems.Thm_ClauseBound_TopN_Cert_root17_polyT
+import Theorems.Thm_CountKSatRate_Cert_polyT_stepCU
+import Theorems.Thm_CountKSat_ProgC_pick_spec
+import Theorems.Thm_GeneralPieces_Chain_stChain2
+import Theorems.Thm_GeneralPieces_K_idx
+import Theorems.Thm_GeneralPieces_PartAUse_e_le_rPow
+import Theorems.Thm_GeneralPieces_PartAUse_e_mul_le
+import Theorems.Thm_GeneralPieces_PartAUse_inv_two_pow_le_e
+import Theorems.Thm_GeneralPieces_PartAUse_two_pow_le_div
+import Theorems.Thm_GeneralPieces_PartA_thmRunningTime_a
+import Theorems.Thm_GeneralPieces_PartD_alpha_mem
+import Theorems.Thm_GeneralPieces_Trim_length_bitsOf
+import Theorems.Thm_GeneralPieces_Trim_length_rep
+import Theorems.Thm_GeneralPieces_pick_spec
+import Theorems.Thm_GeneralPieces_seq_of_pick
+import Theorems.Thm_GeneralPieces_solveG2
+import Theorems.Thm_GeneralPieces_solver_poly
+import Theorems.Thm_GeneralPieces_stRate2
+import Theorems.Thm_GeneralPieces_thmRunningTime_a
+import Theorems.Thm_Groundwork_DecodeK_clauseDec_polyT
+import Theorems.Thm_Groundwork_Decode_clauseDec_polyT
+import Theorems.Thm_Groundwork_Decode_slotDec_polyT
+import Theorems.Thm_Groundwork_Decode_width_polyT
+import Theorems.Thm_Groundwork_Host_upd_none
+import Theorems.Thm_Groundwork_Host_withIO_none
+import Theorems.Thm_Groundwork_Host_withIO_some
+import Theorems.Thm_Groundwork_PolyT_all
+import Theorems.Thm_Groundwork_PolyT_any
+import Theorems.Thm_Groundwork_PolyT_comp
+import Theorems.Thm_Groundwork_PolyT_const
+import Theorems.Thm_Groundwork_PolyT_contains
+import Theorems.Thm_Groundwork_PolyT_count
+import Theorems.Thm_Groundwork_PolyT_countP
+import Theorems.Thm_Groundwork_PolyT_decide_mem
+import Theorems.Thm_Groundwork_PolyT_dedup
+import Theorems.Thm_Groundwork_PolyT_div
+import Theorems.Thm_Groundwork_PolyT_div_pow
+import Theorems.Thm_Groundwork_PolyT_dropWhile
+import Theorems.Thm_Groundwork_PolyT_elem
+import Theorems.Thm_Groundwork_PolyT_filter
+import Theorems.Thm_Groundwork_PolyT_filterMap
+import Theorems.Thm_Groundwork_PolyT_flatMap
+import Theorems.Thm_Groundwork_PolyT_fst
+import Theorems.Thm_Groundwork_PolyT_idxOf
+import Theorems.Thm_Groundwork_PolyT_length
+import Theorems.Thm_Groundwork_PolyT_map
+import Theorems.Thm_Groundwork_PolyT_mod
+import Theorems.Thm_Groundwork_PolyT_mul
+import Theorems.Thm_Groundwork_PolyT_optionElim
+import Theorems.Thm_Groundwork_PolyT_pow_const
+import Theorems.Thm_Groundwork_PolyT_prodMk
+import Theorems.Thm_Groundwork_PolyT_product
+import Theorems.Thm_Groundwork_PolyT_snd
+import Theorems.Thm_Groundwork_PolyT_sprod
+import Theorems.Thm_Groundwork_PolyT_sum
+import Theorems.Thm_Groundwork_PolyT_sumElim
+import Theorems.Thm_Groundwork_PolyT_takeWhile
+import Theorems.Thm_Groundwork_PolyT_testBit
+import Theorems.Thm_Groundwork_Prog_Count_linkB_polyT
+import Theorems.Thm_Groundwork_Prog_Count_links_polyT
+import Theorems.Thm_Groundwork_Prog_Count_litAt_polyT
+import Theorems.Thm_Groundwork_Prog_Count_locals_polyT
+import Theorems.Thm_Groundwork_Prog_Count_mu_polyT
+import Theorems.Thm_Groundwork_Prog_Count_rows_polyT
+import Theorems.Thm_Groundwork_Prog_Count_slotsOf_polyT
+import Theorems.Thm_Groundwork_Prog_Count_varAt_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_Pc_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_betaC_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_capWord_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_cap_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_col_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_lAt_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_labOf_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_lbLen_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_lbLens_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_members_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_n_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_prs_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_stLens_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_zA_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_zAt_polyT
+import Theorems.Thm_Groundwork_Prog_NetE_zOf_polyT
+import Theorems.Thm_Groundwork_Sparsify_polyT_addP
+import Theorems.Thm_Groundwork_Sparsify_polyT_canonP
+import Theorems.Thm_Groundwork_Sparsify_polyT_greedyP
+import Theorems.Thm_Groundwork_Sparsify_polyT_litsOf
+import Theorems.Thm_Groundwork_Sparsify_polyT_minusP
+import Theorems.Thm_Groundwork_Sparsify_polyT_overP
+import Theorems.Thm_Groundwork_Sparsify_polyT_pickP
+import Theorems.Thm_Groundwork_Sparsify_polyT_redP
+import Theorems.Thm_Groundwork_Sparsify_polyT_rootP
+import Theorems.Thm_Groundwork_Sparsify_polyT_stepP
+import Theorems.Thm_Groundwork_Sparsify_polyT_subP
+import Theorems.Thm_Groundwork_TM_Run_trans
+import Theorems.Thm_Groundwork_TM_beq_LR
+import Theorems.Thm_Groundwork_TM_beq_RL
+import Theorems.Thm_Groundwork_TM_beq_bL
+import Theorems.Thm_Groundwork_TM_beq_bR
+import Theorems.Thm_Groundwork_TM_length_mirror
+import Theorems.Thm_Groundwork_TM_st4_cnt
+import Theorems.Thm_Groundwork_TM_st4_src
+import Theorems.Thm_Groundwork_TM_st4_t1
+import Theorems.Thm_Groundwork_TM_st4_t2
+import Theorems.Thm_Groundwork_TM_st_a
+import Theorems.Thm_Groundwork_TM_st_b
+import Theorems.Thm_Groundwork_TM_st_cnt
+import Theorems.Thm_Groundwork_TM_st_main
+import Theorems.Thm_Groundwork_TM_upd4_cnt
+import Theorems.Thm_Groundwork_TM_upd4_src
+import Theorems.Thm_Groundwork_TM_upd4_t1
+import Theorems.Thm_Groundwork_TM_upd4_t2
+import Theorems.Thm_Groundwork_TM_upd_a
+import Theorems.Thm_Groundwork_TM_upd_b
+import Theorems.Thm_Groundwork_TM_upd_main
+import Theorems.Thm_Groundwork_TM_update_withIO
+import Theorems.Thm_Groundwork_block_polyT
+import Theorems.Thm_Groundwork_digit_polyT
+import Theorems.Thm_Groundwork_length_toWord
+import Theorems.Thm_Groundwork_mem_words
+import Theorems.Thm_Groundwork_query0_polyT
+import Theorems.Thm_Groundwork_size_bool
+import Theorems.Thm_Groundwork_size_inl
+import Theorems.Thm_Groundwork_size_inr
+import Theorems.Thm_Groundwork_size_int
+import Theorems.Thm_Groundwork_size_list
+import Theorems.Thm_Groundwork_size_nat
+import Theorems.Thm_Groundwork_size_none
+import Theorems.Thm_Groundwork_size_prod
+import Theorems.Thm_Groundwork_size_some
+import Theorems.Thm_Groundwork_size_unit
+import Theorems.Thm_Groundwork_tri_polyT
+import Theorems.Thm_P2M_Groundwork_PolyT_chunks__bc5b8682856d
+import Theorems.Thm_P2M_Groundwork_PolyT_cond__4c673073da15
+import Theorems.Thm_P2M_Groundwork_PolyT_cons__3a60f43a3b86
+import Theorems.Thm_P2M_Groundwork_PolyT_find__e812ffd764ea
+import Theorems.Thm_P2M_Groundwork_PolyT_id__1c5d0f44cc8f
+import Theorems.Thm_P2M_Groundwork_PolyT_inl__78f4b62d65a1
+import Theorems.Thm_P2M_Groundwork_PolyT_inr__53ca1f30b2d3
+import Theorems.Thm_P2M_Groundwork_PolyT_ite__226169acf219
+import Theorems.Thm_P2M_Groundwork_PolyT_log2__935ea318e2e8
+import Theorems.Thm_P2M_Groundwork_PolyT_ofWord__0eb069943014
+import Theorems.Thm_P2M_Groundwork_PolyT_size__c8c8eb1b342f
+import Theorems.Thm_P2M_Groundwork_PolyT_some__e6a32bd6af45
+import Theorems.Thm_PaddedDescent_F_CertGrid_look_polyT
+import Theorems.Thm_PaddedDescent_F_CertGrid_nRect_polyT
+import Theorems.Thm_PaddedDescent_F_CertGrid_nRect_unary
+import Theorems.Thm_PaddedDescent_F_CertGrid_priceCol_polyT
+import Theorems.Thm_PaddedDescent_F_CertGrid_priceRow_polyT
+import Theorems.Thm_PaddedDescent_F_CertGrid_sideCtx_polyT
+import Theorems.Thm_PaddedDescent_F_CertNet_Pc2
+import Theorems.Thm_PaddedDescent_F_CertNet_UcU
+import Theorems.Thm_PaddedDescent_F_CertNet_betaC2
+import Theorems.Thm_PaddedDescent_F_CertNet_betaCU
+import Theorems.Thm_PaddedDescent_F_CertNet_capP
+import Theorems.Thm_PaddedDescent_F_CertNet_capU
+import Theorems.Thm_PaddedDescent_F_CertNet_col2
+import Theorems.Thm_PaddedDescent_F_CertNet_goodB2
+import Theorems.Thm_PaddedDescent_F_CertNet_isOne2
+import Theorems.Thm_PaddedDescent_F_CertNet_isPsi2
+import Theorems.Thm_PaddedDescent_F_CertNet_isW2
+import Theorems.Thm_PaddedDescent_F_CertNet_lAt2
+import Theorems.Thm_PaddedDescent_F_CertNet_labOf2
+import Theorems.Thm_PaddedDescent_F_CertNet_lbLen2
+import Theorems.Thm_PaddedDescent_F_CertNet_lbLens2
+import Theorems.Thm_PaddedDescent_F_CertNet_look_polyT
+import Theorems.Thm_PaddedDescent_F_CertNet_members2
+import Theorems.Thm_PaddedDescent_F_CertNet_nLab2
+import Theorems.Thm_PaddedDescent_F_CertNet_nP
+import Theorems.Thm_PaddedDescent_F_CertNet_nStates2
+import Theorems.Thm_PaddedDescent_F_CertNet_nU
+import Theorems.Thm_PaddedDescent_F_CertNet_prs2
+import Theorems.Thm_PaddedDescent_F_CertNet_qF2
+import Theorems.Thm_PaddedDescent_F_CertNet_qP12
+import Theorems.Thm_PaddedDescent_F_CertNet_qP22
+import Theorems.Thm_PaddedDescent_F_CertNet_qW2
+import Theorems.Thm_PaddedDescent_F_CertNet_rowSumU
+import Theorems.Thm_PaddedDescent_F_CertNet_stLenU
+import Theorems.Thm_PaddedDescent_F_CertNet_stLens2
+import Theorems.Thm_PaddedDescent_F_CertNet_validB2
+import Theorems.Thm_PaddedDescent_F_CertNet_zA2
+import Theorems.Thm_PaddedDescent_F_CertNet_zAt2
+import Theorems.Thm_PaddedDescent_F_CertNet_zOf2
+import Theorems.Thm_PaddedDescent_F_CertSide_botF2
+import Theorems.Thm_PaddedDescent_F_CertSide_c2P
+import Theorems.Thm_PaddedDescent_F_CertSide_c2U
+import Theorems.Thm_PaddedDescent_F_CertSide_cutF2
+import Theorems.Thm_PaddedDescent_F_CertSide_he2
+import Theorems.Thm_PaddedDescent_F_CertSide_itemF2
+import Theorems.Thm_PaddedDescent_F_CertSide_look2
+import Theorems.Thm_PaddedDescent_F_CertSide_node2
+import Theorems.Thm_PaddedDescent_F_CertSide_rectDig2
+import Theorems.Thm_PaddedDescent_F_CertSide_rectIx2
+import Theorems.Thm_PaddedDescent_F_CertSide_rectLen2
+import Theorems.Thm_PaddedDescent_F_CertSide_sideChk2
+import Theorems.Thm_PaddedDescent_F_CertSide_sideChunk2
+import Theorems.Thm_PaddedDescent_F_CertSide_sideEdges2
+import Theorems.Thm_PaddedDescent_F_CertSide_sideLabels2
+import Theorems.Thm_PaddedDescent_F_CertTop_betaOf_unary
+import Theorems.Thm_PaddedDescent_F_CertTop_capOf_unary
+import Theorems.Thm_PaddedDescent_F_CertTop_depthOf_unary
+import Theorems.Thm_PaddedDescent_F_CertTop_gU_polyT
+import Theorems.Thm_PaddedDescent_F_CertTop_layersOf_unary
+import Theorems.Thm_PaddedDescent_F_CertTop_mulU_polyT
+import Theorems.Thm_PaddedDescent_F_CertTop_polyT_pickKU
+import Theorems.Thm_PaddedDescent_F_CertTop_polyT_stepKU
+import Theorems.Thm_PaddedDescent_F_CertTop_polyT_theta
+import Theorems.Thm_PaddedDescent_F_CertTop_sOf_polyT
+import Theorems.Thm_PaddedDescent_F_CertTop_sOf_unary
+import Theorems.Thm_PaddedDescent_F_CertTop_sqU_polyT
+import Theorems.Thm_PaddedDescent_F_CertTop_tauOf_unary
+import Theorems.Thm_PaddedDescent_F_CertTop_two_pow_betaOf_unary
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_adm_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_clAt_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_cls_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_enc_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_linkB_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mW1_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mW2_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mW2l_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mW3_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mW4_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mW_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mWs_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mark_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mcap_unary
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mlab_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mu_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_mu_unary
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_ownB_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_qv_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_qv_unary
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_sign_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_str_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_tchB_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_tch_polyT
+import Theorems.Thm_PaddedDescent_F_Mark_Cert_tst_polyT
+import Theorems.Thm_PaddedDescent_F_cap_polyT
+import Theorems.Thm_UniformInK_fallBack_rN_of
+import Theorems.Thm_WidthK_Prog_polyT_heartsP
+import Theorems.Thm_WidthK_Prog_polyT_maskP
+import Theorems.Thm_WidthK_Prog_polyT_pickK
+import Theorems.Thm_WidthK_Prog_polyT_stepK
+import Theorems.Thm_WidthK_Prog_polyT_tryT
+attribute [local fun_prop] ClauseBound.Alg.CertCount.mu_polyT2
+attribute [local fun_prop] ClauseBound.Alg.CertCount.mu_unary2
+attribute [local fun_prop] ClauseBound.Alg.CertCount.rows_polyT2
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.D_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.K_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.Nof_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.a_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.b_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.c2_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.c2_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.chkG_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.d_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.h_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.heG_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.nMemb_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.nMemb_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.nParts_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.nParts_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.nRectG_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.nRectG_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.nodeG_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.p_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.rectIxG_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.sqrt_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.sqrt_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.thin_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.tri_unary
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.unary_ite
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.unary_max
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.unary_min
+attribute [local fun_prop] ClauseBound.Alg.CertGridG.unary_mod
+attribute [local fun_prop] ClauseBound.Alg.CertTop.PtopK_unary
+attribute [local fun_prop] ClauseBound.Alg.CertTop.capF_unary3
+attribute [local fun_prop] ClauseBound.Alg.CertTop.fF_polyT3
+attribute [local fun_prop] ClauseBound.Alg.CertTop.lamTopK_unary
+attribute [local fun_prop] ClauseBound.Alg.CertTop.linkB_polyT3
+attribute [local fun_prop] ClauseBound.Alg.CertTop.links_polyT3
+attribute [local fun_prop] ClauseBound.Alg.CertTop.litAt_polyT3
+attribute [local fun_prop] ClauseBound.Alg.CertTop.locals_polyT3
+attribute [local fun_prop] ClauseBound.Alg.CertTop.root9_polyT
+attribute [local fun_prop] ClauseBound.Alg.CertTop.slotsOf_polyT3
+attribute [local fun_prop] ClauseBound.Alg.CertTop.unary_max
+attribute [local fun_prop] ClauseBound.Alg.CertTop.unary_size
+attribute [local fun_prop] ClauseBound.Alg.CertTop.varAt_polyT3
+attribute [local fun_prop] ClauseBound.Alg.CertTop.wF_polyT3
+attribute [local fun_prop] ClauseBound.Gen.Pick.next_polyT
+attribute [local fun_prop] ClauseBound.Inst.Half.betF_polyT
+attribute [local fun_prop] ClauseBound.Inst.Half.count_unary
+attribute [local fun_prop] ClauseBound.Inst.Half.erase_polyT
+attribute [local fun_prop] ClauseBound.Inst.Half.kfInit_polyT
+attribute [local fun_prop] ClauseBound.Inst.Half.kfStep_polyT
+attribute [local fun_prop] ClauseBound.Inst.Half.lookT_polyT
+attribute [local fun_prop] ClauseBound.Inst.Half.nopE_polyT
+attribute [local fun_prop] ClauseBound.Inst.Half.oneT_polyT
+attribute [local fun_prop] ClauseBound.Inst.Half.tabKF_polyT
+attribute [local fun_prop] ClauseBound.Inst.Half.tabOp_polyT
+attribute [local fun_prop] ClauseBound.Inst.Half.zzF_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.ccF_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.chooseZ_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.factN_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.fallZ_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.linF_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.muF_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.muF_unary
+attribute [local fun_prop] ClauseBound.Inst.Rec.nbF_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.nbF_unary
+attribute [local fun_prop] ClauseBound.Inst.Rec.nblk_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.nblk_unary
+attribute [local fun_prop] ClauseBound.Inst.Rec.phiF_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.powZ_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.qqF_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.sgnZ_polyT
+attribute [local fun_prop] ClauseBound.Inst.Rec.unary_min_right
+attribute [local fun_prop] ClauseBound.ParityChecks.CertNum.colOf_polyT
+attribute [local fun_prop] ClauseBound.ParityChecks.CertNum.colOf_unary
+attribute [local fun_prop] ClauseBound.TopN.Cert.PbN_unary
+attribute [local fun_prop] ClauseBound.TopN.Cert.UbN_unary
+attribute [local fun_prop] ClauseBound.TopN.Cert.betaN_unary
+attribute [local fun_prop] ClauseBound.TopN.Cert.blockN_unary
+attribute [local fun_prop] ClauseBound.TopN.Cert.layersN_unary
+attribute [local fun_prop] ClauseBound.TopN.Cert.root17_polyT
+attribute [local fun_prop] CountKSatRate.Cert.polyT_stepCU
+attribute [local fun_prop] Groundwork.Decode.clauseDec_polyT
+attribute [local fun_prop] Groundwork.Decode.slotDec_polyT
+attribute [local fun_prop] Groundwork.Decode.width_polyT
+attribute [local fun_prop] Groundwork.DecodeK.clauseDec_polyT
+attribute [local fun_prop] Groundwork.PolyT.all
+attribute [local fun_prop] Groundwork.PolyT.any
+attribute [local fun_prop] Groundwork.PolyT.comp
+attribute [local fun_prop] Groundwork.PolyT.const
+attribute [local fun_prop] Groundwork.PolyT.contains
+attribute [local fun_prop] Groundwork.PolyT.count
+attribute [local fun_prop] Groundwork.PolyT.countP
+attribute [local fun_prop] Groundwork.PolyT.decide_mem
+attribute [local fun_prop] Groundwork.PolyT.dedup
+attribute [local fun_prop] Groundwork.PolyT.div
+attribute [local fun_prop] Groundwork.PolyT.div_pow
+attribute [local fun_prop] Groundwork.PolyT.dropWhile
+attribute [local fun_prop] Groundwork.PolyT.elem
+attribute [local fun_prop] Groundwork.PolyT.filter
+attribute [local fun_prop] Groundwork.PolyT.filterMap
+attribute [local fun_prop] Groundwork.PolyT.flatMap
+attribute [local fun_prop] Groundwork.PolyT.fst
+attribute [local fun_prop] Groundwork.PolyT.idxOf
+attribute [local fun_prop] Groundwork.PolyT.length
+attribute [local fun_prop] Groundwork.PolyT.map
+attribute [local fun_prop] Groundwork.PolyT.mod
+attribute [local fun_prop] Groundwork.PolyT.mul
+attribute [local fun_prop] Groundwork.PolyT.optionElim
+attribute [local fun_prop] Groundwork.PolyT.pow_const
+attribute [local fun_prop] Groundwork.PolyT.prodMk
+attribute [local fun_prop] Groundwork.PolyT.product
+attribute [local fun_prop] Groundwork.PolyT.snd
+attribute [local fun_prop] Groundwork.PolyT.sprod
+attribute [local fun_prop] Groundwork.PolyT.sum
+attribute [local fun_prop] Groundwork.PolyT.sumElim
+attribute [local fun_prop] Groundwork.PolyT.takeWhile
+attribute [local fun_prop] Groundwork.PolyT.testBit
+attribute [local fun_prop] Groundwork.Prog.Count.linkB_polyT
+attribute [local fun_prop] Groundwork.Prog.Count.links_polyT
+attribute [local fun_prop] Groundwork.Prog.Count.litAt_polyT
+attribute [local fun_prop] Groundwork.Prog.Count.locals_polyT
+attribute [local fun_prop] Groundwork.Prog.Count.mu_polyT
+attribute [local fun_prop] Groundwork.Prog.Count.rows_polyT
+attribute [local fun_prop] Groundwork.Prog.Count.slotsOf_polyT
+attribute [local fun_prop] Groundwork.Prog.Count.varAt_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.Pc_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.betaC_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.capWord_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.cap_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.col_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.lAt_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.labOf_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.lbLen_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.lbLens_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.members_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.n_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.prs_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.stLens_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.zA_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.zAt_polyT
+attribute [local fun_prop] Groundwork.Prog.NetE.zOf_polyT
+attribute [local fun_prop] Groundwork.Sparsify.polyT_addP
+attribute [local fun_prop] Groundwork.Sparsify.polyT_canonP
+attribute [local fun_prop] Groundwork.Sparsify.polyT_greedyP
+attribute [local fun_prop] Groundwork.Sparsify.polyT_litsOf
+attribute [local fun_prop] Groundwork.Sparsify.polyT_minusP
+attribute [local fun_prop] Groundwork.Sparsify.polyT_overP
+attribute [local fun_prop] Groundwork.Sparsify.polyT_pickP
+attribute [local fun_prop] Groundwork.Sparsify.polyT_redP
+attribute [local fun_prop] Groundwork.Sparsify.polyT_rootP
+attribute [local fun_prop] Groundwork.Sparsify.polyT_stepP
+attribute [local fun_prop] Groundwork.Sparsify.polyT_subP
+attribute [local fun_prop] Groundwork.block_polyT
+attribute [local fun_prop] Groundwork.digit_polyT
+attribute [local fun_prop] Groundwork.query0_polyT
+attribute [local fun_prop] Groundwork.tri_polyT
+attribute [local fun_prop] P2M_Groundwork_PolyT_chunks__bc5b8682856d
+attribute [local fun_prop] P2M_Groundwork_PolyT_cond__4c673073da15
+attribute [local fun_prop] P2M_Groundwork_PolyT_cons__3a60f43a3b86
+attribute [local fun_prop] P2M_Groundwork_PolyT_find__e812ffd764ea
+attribute [local fun_prop] P2M_Groundwork_PolyT_id__1c5d0f44cc8f
+attribute [local fun_prop] P2M_Groundwork_PolyT_inl__78f4b62d65a1
+attribute [local fun_prop] P2M_Groundwork_PolyT_inr__53ca1f30b2d3
+attribute [local fun_prop] P2M_Groundwork_PolyT_ite__226169acf219
+attribute [local fun_prop] P2M_Groundwork_PolyT_log2__935ea318e2e8
+attribute [local fun_prop] P2M_Groundwork_PolyT_ofWord__0eb069943014
+attribute [local fun_prop] P2M_Groundwork_PolyT_size__c8c8eb1b342f
+attribute [local fun_prop] P2M_Groundwork_PolyT_some__e6a32bd6af45
+attribute [local fun_prop] PaddedDescent.F.CertGrid.look_polyT
+attribute [local fun_prop] PaddedDescent.F.CertGrid.nRect_polyT
+attribute [local fun_prop] PaddedDescent.F.CertGrid.nRect_unary
+attribute [local fun_prop] PaddedDescent.F.CertGrid.priceCol_polyT
+attribute [local fun_prop] PaddedDescent.F.CertGrid.priceRow_polyT
+attribute [local fun_prop] PaddedDescent.F.CertGrid.sideCtx_polyT
+attribute [local fun_prop] PaddedDescent.F.CertNet.Pc2
+attribute [local fun_prop] PaddedDescent.F.CertNet.UcU
+attribute [local fun_prop] PaddedDescent.F.CertNet.betaC2
+attribute [local fun_prop] PaddedDescent.F.CertNet.betaCU
+attribute [local fun_prop] PaddedDescent.F.CertNet.capP
+attribute [local fun_prop] PaddedDescent.F.CertNet.capU
+attribute [local fun_prop] PaddedDescent.F.CertNet.col2
+attribute [local fun_prop] PaddedDescent.F.CertNet.goodB2
+attribute [local fun_prop] PaddedDescent.F.CertNet.isOne2
+attribute [local fun_prop] PaddedDescent.F.CertNet.isPsi2
+attribute [local fun_prop] PaddedDescent.F.CertNet.isW2
+attribute [local fun_prop] PaddedDescent.F.CertNet.lAt2
+attribute [local fun_prop] PaddedDescent.F.CertNet.labOf2
+attribute [local fun_prop] PaddedDescent.F.CertNet.lbLen2
+attribute [local fun_prop] PaddedDescent.F.CertNet.lbLens2
+attribute [local fun_prop] PaddedDescent.F.CertNet.look_polyT
+attribute [local fun_prop] PaddedDescent.F.CertNet.members2
+attribute [local fun_prop] PaddedDescent.F.CertNet.nLab2
+attribute [local fun_prop] PaddedDescent.F.CertNet.nP
+attribute [local fun_prop] PaddedDescent.F.CertNet.nStates2
+attribute [local fun_prop] PaddedDescent.F.CertNet.nU
+attribute [local fun_prop] PaddedDescent.F.CertNet.prs2
+attribute [local fun_prop] PaddedDescent.F.CertNet.qF2
+attribute [local fun_prop] PaddedDescent.F.CertNet.qP12
+attribute [local fun_prop] PaddedDescent.F.CertNet.qP22
+attribute [local fun_prop] PaddedDescent.F.CertNet.qW2
+attribute [local fun_prop] PaddedDescent.F.CertNet.rowSumU
+attribute [local fun_prop] PaddedDescent.F.CertNet.stLenU
+attribute [local fun_prop] PaddedDescent.F.CertNet.stLens2
+attribute [local fun_prop] PaddedDescent.F.CertNet.validB2
+attribute [local fun_prop] PaddedDescent.F.CertNet.zA2
+attribute [local fun_prop] PaddedDescent.F.CertNet.zAt2
+attribute [local fun_prop] PaddedDescent.F.CertNet.zOf2
+attribute [local fun_prop] PaddedDescent.F.CertSide.botF2
+attribute [local fun_prop] PaddedDescent.F.CertSide.c2P
+attribute [local fun_prop] PaddedDescent.F.CertSide.c2U
+attribute [local fun_prop] PaddedDescent.F.CertSide.cutF2
+attribute [local fun_prop] PaddedDescent.F.CertSide.he2
+attribute [local fun_prop] PaddedDescent.F.CertSide.itemF2
+attribute [local fun_prop] PaddedDescent.F.CertSide.look2
+attribute [local fun_prop] PaddedDescent.F.CertSide.node2
+attribute [local fun_prop] PaddedDescent.F.CertSide.rectDig2
+attribute [local fun_prop] PaddedDescent.F.CertSide.rectIx2
+attribute [local fun_prop] PaddedDescent.F.CertSide.rectLen2
+attribute [local fun_prop] PaddedDescent.F.CertSide.sideChk2
+attribute [local fun_prop] PaddedDescent.F.CertSide.sideChunk2
+attribute [local fun_prop] PaddedDescent.F.CertSide.sideEdges2
+attribute [local fun_prop] PaddedDescent.F.CertSide.sideLabels2
+attribute [local fun_prop] PaddedDescent.F.CertTop.betaOf_unary
+attribute [local fun_prop] PaddedDescent.F.CertTop.capOf_unary
+attribute [local fun_prop] PaddedDescent.F.CertTop.depthOf_unary
+attribute [local fun_prop] PaddedDescent.F.CertTop.gU_polyT
+attribute [local fun_prop] PaddedDescent.F.CertTop.layersOf_unary
+attribute [local fun_prop] PaddedDescent.F.CertTop.mulU_polyT
+attribute [local fun_prop] PaddedDescent.F.CertTop.polyT_pickKU
+attribute [local fun_prop] PaddedDescent.F.CertTop.polyT_stepKU
+attribute [local fun_prop] PaddedDescent.F.CertTop.polyT_theta
+attribute [local fun_prop] PaddedDescent.F.CertTop.sOf_polyT
+attribute [local fun_prop] PaddedDescent.F.CertTop.sOf_unary
+attribute [local fun_prop] PaddedDescent.F.CertTop.sqU_polyT
+attribute [local fun_prop] PaddedDescent.F.CertTop.tauOf_unary
+attribute [local fun_prop] PaddedDescent.F.CertTop.two_pow_betaOf_unary
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.adm_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.clAt_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.cls_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.enc_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.linkB_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mW1_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mW2_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mW2l_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mW3_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mW4_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mW_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mWs_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mark_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mcap_unary
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mlab_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mu_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.mu_unary
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.ownB_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.qv_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.qv_unary
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.sign_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.str_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.tchB_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.tch_polyT
+attribute [local fun_prop] PaddedDescent.F.Mark.Cert.tst_polyT
+attribute [local fun_prop] PaddedDescent.F.cap_polyT
+attribute [local fun_prop] WidthK.Prog.polyT_heartsP
+attribute [local fun_prop] WidthK.Prog.polyT_maskP
+attribute [local fun_prop] WidthK.Prog.polyT_pickK
+attribute [local fun_prop] WidthK.Prog.polyT_stepK
+attribute [local fun_prop] WidthK.Prog.polyT_tryT
+attribute [local simp] GeneralPieces.Trim.length_bitsOf
+attribute [local simp] GeneralPieces.Trim.length_rep
+attribute [local simp] Groundwork.Host.upd_none
+attribute [local simp] Groundwork.Host.withIO_none
+attribute [local simp] Groundwork.Host.withIO_some
+attribute [local simp] Groundwork.TM.beq_LR
+attribute [local simp] Groundwork.TM.beq_RL
+attribute [local simp] Groundwork.TM.beq_bL
+attribute [local simp] Groundwork.TM.beq_bR
+attribute [local simp] Groundwork.TM.length_mirror
+attribute [local simp] Groundwork.TM.st4_cnt
+attribute [local simp] Groundwork.TM.st4_src
+attribute [local simp] Groundwork.TM.st4_t1
+attribute [local simp] Groundwork.TM.st4_t2
+attribute [local simp] Groundwork.TM.st_a
+attribute [local simp] Groundwork.TM.st_b
+attribute [local simp] Groundwork.TM.st_cnt
+attribute [local simp] Groundwork.TM.st_main
+attribute [local simp] Groundwork.TM.upd4_cnt
+attribute [local simp] Groundwork.TM.upd4_src
+attribute [local simp] Groundwork.TM.upd4_t1
+attribute [local simp] Groundwork.TM.upd4_t2
+attribute [local simp] Groundwork.TM.upd_a
+attribute [local simp] Groundwork.TM.upd_b
+attribute [local simp] Groundwork.TM.upd_main
+attribute [local simp] Groundwork.TM.update_withIO
+attribute [local simp] Groundwork.length_toWord
+attribute [local simp] Groundwork.mem_words
+attribute [local simp] Groundwork.size_bool
+attribute [local simp] Groundwork.size_inl
+attribute [local simp] Groundwork.size_inr
+attribute [local simp] Groundwork.size_int
+attribute [local simp] Groundwork.size_list
+attribute [local simp] Groundwork.size_nat
+attribute [local simp] Groundwork.size_none
+attribute [local simp] Groundwork.size_prod
+attribute [local simp] Groundwork.size_some
+attribute [local simp] Groundwork.size_unit
+
+
+
+set_option autoImplicit false
+section
+section
+open RecursionWithPieces
+open Groundwork PaddedDescent PaddedDescent.F CountKSat CountKSatRate ClauseBound.Alg ClauseBound.Gen ClauseBound.Gen.End Levels.Gen ClauseBound.TopN ClauseBound.TopN.Arith ClauseBound.ParityChecks ClauseBound.Both UniformInK VariableBound GeneralPieces
+namespace RecursionWithPieces
+theorem _root_.solution {R : ∀ (Idx : Type) [Enc Idx], Solver Idx → (U → U × Idx) → (U → U) → (ℕ → ℝ) → (ℕ → ℝ) → Prop} (hEnd : StEndS R) {P : PiecesF} {ρ : ℝ} {c x₀ : ℕ} (hρ : 1 / 2 ≤ ρ) (hρ1 : ρ < 1)
+    (hP : Par P ρ c) (hm : P.m = 1) (hKeeps : P.Keeps) (hx : 18 ≤ x₀) (hc : c + 5 ≤ 2 ^ x₀) :
+    R _ (solverOf P) (Pick.pick P x₀) (fun u => () :: u) (SatK.rN 1 (Real.logb 2 (1 / ρ))) (SatM.rPow (Real.logb 2 (1 / ρ))) := by
+  obtain ⟨hp1, hp2, hp3, hp4⟩ := pick_spec P x₀
+  obtain ⟨C₀, Q, hQ, hpick⟩ := seq_of_pick Chain.stChain2 stRate2 solveG2 Need.stNeedG P ρ c x₀ hρ hρ1 hP hm hx hc (Pick.pick P x₀) hp1 hp2 hp3 hp4
+  have hA := PartA.thmRunningTime_a ρ x₀ hρ hρ1 hx
+  obtain ⟨C, hC⟩ : ∃ C : ℕ, ρ ^ C ≤ 1 / 2 := by
+    obtain ⟨C, hC⟩ := exists_pow_lt_of_lt_one (by norm_num : (0 : ℝ) < 1 / 2) hρ1
+    exact ⟨C, hC.le⟩
+  rw [← hpick]
+  refine hEnd _ (solverOf P) (e ρ x₀) C₀ Q (solver_poly P hKeeps) (fun u => () :: u) (C + 1) (by fun_prop) (fun l => ?_) (fun l => ?_) _ _ (3 * (171 * (3 * x₀ + 6)))
+    (fun n _ => MasterOL.le_rN (alpha_mem hρ hρ1).2 (by omega) n) (fun n hn => ?_) (fallBack_rN_of (alpha_mem hρ hρ1).2)
+    (fun m _ => le_rPow (alpha_mem hρ hρ1).2 (by omega) m) (fun m _ => ?_) (rN_nonneg _) (rPow_nonneg _)
+  · simpa using PartAUse.inv_two_pow_le_e hA hρ l
+  · simpa using PartAUse.two_pow_le_div hA hρ hρ1 hC l
+  · obtain ⟨hr1, hr2⟩ := root17_spec n
+    have hK0 : (solverOf P).K (Q.idx 0) ≤ (root17 n).length := by
+      by_contra h
+      have h' := Nat.pow_le_pow_left (Nat.succ_le_of_lt (not_le.1 h)) 17
+      exact absurd (h'.trans hn) (not_le.2 hr2)
+    have hle := Q.pick_le _ hK0
+    have hmax := Q.pick_max (root17 n)
+    rw [Q.pick_idx, hQ, K_idx] at hle
+    rw [hQ, K_idx] at hmax
+    have h := PartAUse.e_mul_le (l := (Q.pick (root17 n)).1.length) (n := n) hρ hρ1 hx ((Nat.pow_le_pow_left hle 17).trans hr1)
+      (hr2.trans_le (Nat.pow_le_pow_left (Nat.succ_le_of_lt hmax) 17))
+    simpa [SatK.rN] using h
+  · have hmax := Q.pick_max (root9 m)
+    rw [hQ, K_idx] at hmax
+    refine (PartAUse.e_le_rPow hρ hρ1 hx hmax).trans (mul_le_mul_of_nonneg_right ?_ (rPow_nonneg _ m))
+    exact_mod_cast (by omega : 91 * (3 * x₀ + 6) ≤ 3 * (171 * (3 * x₀ + 6)))
+end RecursionWithPieces

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_rask_none
 -- name    : QueryMachines.Tower.rask_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:50:24.336768+00:00
 -- url     : https://prove2.me/theorems/5e4b48e6-19df-4a8a-961e-9f00ca9aa628

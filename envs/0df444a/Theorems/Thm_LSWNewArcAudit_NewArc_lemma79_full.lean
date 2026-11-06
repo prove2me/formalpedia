@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LSWNewArcAudit_NewArc_lemma79_full
 -- name    : LSWNewArcAudit.NewArc.lemma79_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T13:43:32.851705+00:00
 -- url     : https://prove2.me/theorems/0c67edc8-4f25-4788-aa7e-6f7da7259cb4

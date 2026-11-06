@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_partition_card_sum__p2m_fd88c45a_7ea7_48a7_9749_c5d6b2241812_a1
 -- name    : WilliamsonShmoys.partition_card_sum__p2m_fd88c45a_7ea7_48a7_9749_c5d6b2241812_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:07:15.598591+00:00
 -- url     : https://prove2.me/theorems/f9e492cb-48f2-4892-9337-38d2f2723693

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_cheb_primitive_deriv_e
 -- name    : OAI.SharpPlanar.cheb_primitive_deriv_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:42:15.639706+00:00
 -- url     : https://prove2.me/theorems/dd68553f-8315-4348-b6b3-0cb0da0b24e9

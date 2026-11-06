@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_boole_zero_or_one
 -- name    : Coding.boole_zero_or_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:50.390305+00:00
 -- url     : https://prove2.me/theorems/786eb98a-8885-4139-82d0-cc460b1b88f8

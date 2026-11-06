@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeU_stUPrinted
 -- name    : VariableBound.Net.SizeU.stUPrinted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:25.955783+00:00
 -- url     : https://prove2.me/theorems/cde92fcb-6be0-41f7-bfa4-0e874e1a431e

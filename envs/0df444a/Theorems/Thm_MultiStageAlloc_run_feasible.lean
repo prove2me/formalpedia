@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStageAlloc_run_feasible
 -- name    : MultiStageAlloc.run_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:32:33.879339+00:00
 -- url     : https://prove2.me/theorems/3064cdf2-2f8e-4cfa-9bf2-7d17810291c2

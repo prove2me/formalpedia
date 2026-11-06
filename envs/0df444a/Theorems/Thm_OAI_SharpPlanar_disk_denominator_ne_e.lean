@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_disk_denominator_ne_e
 -- name    : OAI.SharpPlanar.disk_denominator_ne_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:55:31.926622+00:00
 -- url     : https://prove2.me/theorems/b0e89d8a-f656-47ca-9bb5-1f6ea42f68b7

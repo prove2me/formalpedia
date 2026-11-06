@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_induce__p2m_4dfbc005_ec61_47aa_85e1_1f450847f914_a4
 -- name    : WilliamsonShmoys.planar_drawing_induce__p2m_4dfbc005_ec61_47aa_85e1_1f450847f914_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:18:08.558678+00:00
 -- url     : https://prove2.me/theorems/98bb09a3-5fff-4d40-87aa-050eb50db2d4

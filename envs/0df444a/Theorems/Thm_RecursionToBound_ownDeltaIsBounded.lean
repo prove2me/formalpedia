@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_ownDeltaIsBounded
 -- name    : RecursionToBound.ownDeltaIsBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:15:01.225195+00:00
 -- url     : https://prove2.me/theorems/f841e0b7-e3cd-48be-b2ba-18fc8170409b

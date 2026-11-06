@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_exists_goodP
 -- name    : Eight.ViaGrouping.exists_goodP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:25.292195+00:00
 -- url     : https://prove2.me/theorems/4a8d01bf-fb11-4f7a-a316-f20d30432f54

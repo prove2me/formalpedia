@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_back_le
 -- name    : OccurM.back_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:31.315978+00:00
 -- url     : https://prove2.me/theorems/221e90a7-0189-44bd-99c8-de5b44472011

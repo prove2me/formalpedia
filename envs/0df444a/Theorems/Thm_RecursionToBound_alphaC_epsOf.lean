@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_alphaC_epsOf
 -- name    : RecursionToBound.alphaC_epsOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:54:18.608614+00:00
 -- url     : https://prove2.me/theorems/ca3618ea-a176-4951-9c27-7405dd5a3efb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_z_sq_e
 -- name    : OAI.SharpPlanar.z_sq_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:51:22.961331+00:00
 -- url     : https://prove2.me/theorems/8bf6760f-bb0e-4a79-ba21-5580680cc1d8

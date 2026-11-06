@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKriging_OptimalMSE_display_6
 -- name    : StochKriging.OptimalMSE.display_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:05.356831+00:00
 -- url     : https://prove2.me/theorems/af37a840-c455-443b-ac5f-aed93146f093

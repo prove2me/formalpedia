@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondRiskMap_Repr_dom_conj_subset_probGiven
 -- name    : CondRiskMap.Repr.dom_conj_subset_probGiven
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:52:55.356165+00:00
 -- url     : https://prove2.me/theorems/de7bf9e8-e957-489b-84e5-8dc058783022

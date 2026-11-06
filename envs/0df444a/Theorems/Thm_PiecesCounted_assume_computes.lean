@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_assume_computes
 -- name    : PiecesCounted.assume_computes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:25.216295+00:00
 -- url     : https://prove2.me/theorems/e801d92f-4297-4fc3-8276-97acd9f1c2a6

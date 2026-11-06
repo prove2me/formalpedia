@@ -1,0 +1,285 @@
+-- Prove2me | Definitions.Def_TC433_Algebra_BigOperators_Finset_Range_f3ae865f95
+-- name    : TC433_Algebra_BigOperators_Finset_Range_f3ae865f95
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T17:22:48.449697+00:00
+-- url     : https://prove2.me/theorems/ab3d3292-7899-43e8-aa56-19fbf28cc806
+-- title:
+--   TauCeti: Algebra / BigOperators / Finset / Range
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.Algebra.BigOperators.Finset.Range for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/Algebra/BigOperators/Finset/Range.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+
+public import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+public import Mathlib.Algebra.BigOperators.Intervals
+public import Mathlib.Algebra.BigOperators.NatAntidiagonal
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.Ring
+
+/-!
+# Range reindexing for finite sums
+
+Generic identities for sums indexed by `Finset.range` and `Finset.Ioo`. These are used by
+coderivation/Taylor expansions, which reindex a cut-and-collapse double sum over a triangle to a
+square and enlarge a vanishing-off-the-block range, and by divided-power exponential calculations,
+which reindex a sum over antidiagonals to a rectangle.
+
+## Main results
+
+* `sum_Ioo_eq_sum_range`: a sum over `Ioo 0 n` equals the sum over `range n` when the summand at
+  `0` vanishes.
+* `sum_range_triangle`: summing over pairs `(c, p - c)` with `c ≤ p < K` equals the square
+  `range K × range K` when the family vanishes off the triangle.
+* `sum_range_add_antidiagonal_of_support`: a sum over antidiagonals below `k + l` equals
+  the rectangle `range k × range l` when the summand vanishes outside that rectangle.
+* `sum_sum_range_eq_of_eq_zero_right`: enlarging both ranges of a double sum that vanishes outside
+  a rectangle.
+* `sum_range_eq_of_eq_zero_off_pair` and `sum_range_eq_of_eq_zero_off_triple`: convenient
+  specializations to supports of size two and three.
+* `sum_range_add_add`: splitting a `range n` sum into a prefix, a block, and a suffix.
+* `sum_range_min_add_two`: the two-step recurrence satisfied by the sums
+  `∑_{i ≤ min j r} c^i a (j + r − 2i)`.
+* `sum_range_min_zero`: the base case `j = 0` of that recurrence, which its `j + 1` cannot state.
+* `two_mul_sum_range_pair`: twice the sum of the products over the pairs `i < j < k` is the
+  square of the sum minus the sum of the squares.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace TauCeti
+
+open Finset
+
+/-- Replacing a summation over `Finset.Ioo 0 n` by one over `Finset.range n`, provided the
+summand at `0` vanishes. -/
+theorem sum_Ioo_eq_sum_range {N : Type*} [AddCommMonoid N] (n : ℕ) (g : ℕ → N)
+    (hg : g 0 = 0) : ∑ c ∈ Ioo 0 n, g c = ∑ c ∈ range n, g c := by
+  refine sum_subset (fun c hc ↦ ?_) fun c hc hc' ↦ ?_
+  · simp only [mem_Ioo, mem_range] at hc ⊢
+    omega
+  · simp only [mem_range] at hc
+    have hc0 : c = 0 := by
+      by_contra hne
+      exact hc' (mem_Ioo.2 ⟨by omega, hc⟩)
+    rw [hc0, hg]
+
+/-- Summing a two-variable family over the pairs `(c, p - c)` with `c ≤ p < K` is the same as
+summing it over the square `range K × range K`, when the family vanishes off the triangle. -/
+theorem sum_range_triangle {N : Type*} [AddCommMonoid N] (K : ℕ) (g : ℕ → ℕ → N)
+    (hg : ∀ c q : ℕ, K ≤ c + q → g c q = 0) :
+    ∑ p ∈ range K, ∑ c ∈ range (p + 1), g c (p - c) =
+      ∑ c ∈ range K, ∑ q ∈ range K, g c q := by
+  rw [sum_range_diag_flip]
+  refine sum_congr rfl fun c hc ↦ ?_
+  simp only [mem_range] at hc
+  exact sum_subset (range_subset_range.mpr (Nat.sub_le K c)) fun q _ hq ↦ by
+    simp only [mem_range, not_lt] at hq
+    exact hg c q (by omega)
+
+/-- A sum over all antidiagonals below `k + l` equals the sum over the rectangle
+`range k × range l`, provided the summand vanishes whenever the first coordinate is at least
+`k` or the second coordinate is at least `l`. -/
+theorem sum_range_add_antidiagonal_of_support
+    {N : Type*} [AddCommMonoid N] (k l : ℕ) (f : ℕ × ℕ → N)
+    (hf : ∀ i j, k ≤ i ∨ l ≤ j → f (i, j) = 0) :
+    ∑ n ∈ range (k + l), ∑ ij ∈ antidiagonal n, f ij =
+      ∑ i ∈ range k, ∑ j ∈ range l, f (i, j) := by
+  classical
+  let s := (range (k + l)).sigma fun n => antidiagonal n
+  let t := s.filter fun q => q.2.1 < k ∧ q.2.2 < l
+  rw [Finset.sum_sigma']
+  -- `sum_sigma'` leaves the sigma index in the dependent pair `q`; unfolding the local
+  -- abbreviation is the only normalization needed to expose the original summand `f q.2`.
+  change (∑ q ∈ s, f q.2) = _
+  have hfilter : (∑ q ∈ t, f q.2) = ∑ q ∈ s, f q.2 := by
+    apply Finset.sum_subset (by simp [t])
+    intro q hqs hqt
+    rw [Finset.mem_filter] at hqt
+    simp only [hqs, true_and, not_and_or, not_lt] at hqt
+    exact hf q.2.1 q.2.2 hqt
+  rw [← hfilter, ← Finset.sum_product']
+  apply Finset.sum_bij (fun q _ => q.2)
+  · intro q hq
+    rw [Finset.mem_filter] at hq
+    rw [Finset.mem_product, Finset.mem_range, Finset.mem_range]
+    exact hq.2
+  · intro q₁ hq₁ q₂ hq₂ hqq
+    rcases q₁ with ⟨n₁, ij₁⟩
+    rcases q₂ with ⟨n₂, ij₂⟩
+    dsimp only at hqq
+    subst ij₂
+    rw [Finset.mem_filter, Finset.mem_sigma, mem_antidiagonal] at hq₁ hq₂
+    have hn : n₁ = n₂ := hq₁.1.2.symm.trans hq₂.1.2
+    subst n₂
+    rfl
+  · intro ij hij
+    rw [Finset.mem_product, Finset.mem_range, Finset.mem_range] at hij
+    let q : (n : ℕ) × (ℕ × ℕ) := ⟨ij.1 + ij.2, ij⟩
+    have hsum : ij.1 + ij.2 < k + l := by omega
+    have hq : q ∈ t := by
+      rw [Finset.mem_filter, Finset.mem_sigma, Finset.mem_range, mem_antidiagonal]
+      exact ⟨⟨hsum, rfl⟩, hij⟩
+    exact ⟨q, hq, rfl⟩
+  · intro q _
+    rfl
+
+/-- Enlarging both ranges of a double sum that vanishes for `b ≤ p` or `b < d`. -/
+theorem sum_sum_range_eq_of_eq_zero_right {N : Type*} [AddCommMonoid N] {b K : ℕ} (hK : b ≤ K)
+    (g : ℕ → ℕ → N) (hg : ∀ p d, b ≤ p ∨ b < d → g p d = 0) :
+    ∑ p ∈ range b, ∑ d ∈ range (b + 1), g p d =
+      ∑ p ∈ range K, ∑ d ∈ range (K + 1), g p d := by
+  have inner : ∀ p : ℕ, ∑ d ∈ range (b + 1), g p d = ∑ d ∈ range (K + 1), g p d :=
+    fun p ↦ sum_subset (range_subset_range.mpr (by omega)) fun d _ hd ↦ by
+      simp only [mem_range, not_lt] at hd
+      exact hg p d (Or.inr (by omega))
+  have outer : ∑ p ∈ range b, ∑ d ∈ range (K + 1), g p d =
+      ∑ p ∈ range K, ∑ d ∈ range (K + 1), g p d :=
+    sum_subset (range_subset_range.mpr hK) fun p _ hp ↦ by
+      simp only [mem_range, not_lt] at hp
+      exact sum_eq_zero fun d _ ↦ hg p d (Or.inl hp)
+  rw [← outer, ← sum_congr rfl fun p _ ↦ inner p]
+
+/-- A sum over `Finset.range t` whose terms vanish outside two distinct positions is the sum of
+the terms at those positions. -/
+theorem sum_range_eq_of_eq_zero_off_pair {N : Type*} [AddCommMonoid N] {t : ℕ} {f : ℕ → N}
+    {a b : ℕ} {v : N} (ha : a < t) (hb : b < t) (hab : a ≠ b)
+    (hz : ∀ j < t, j ≠ a → j ≠ b → f j = 0) (hv : f a + f b = v) :
+    ∑ j ∈ range t, f j = v := by
+  classical
+  rw [← Finset.sum_subset (s₁ := ({a, b} : Finset ℕ)) (s₂ := range t)
+    (fun x hx ↦ by
+      simp only [mem_insert, mem_singleton] at hx
+      rcases hx with rfl | rfl <;> simpa using by omega)
+    (fun x hx hx' ↦ by
+      simp only [mem_insert, mem_singleton, not_or] at hx'
+      exact hz x (mem_range.mp hx) hx'.1 hx'.2),
+    Finset.sum_pair hab, hv]
+
+/-- A sum over `Finset.range t` whose terms vanish outside three pairwise distinct positions is
+the sum of the terms at those positions. -/
+theorem sum_range_eq_of_eq_zero_off_triple {N : Type*} [AddCommMonoid N] {t : ℕ} {f : ℕ → N}
+    {a b d : ℕ} {v : N} (ha : a < t) (hb : b < t) (hd : d < t) (hab : a ≠ b) (had : a ≠ d)
+    (hbd : b ≠ d) (hz : ∀ j < t, j ≠ a → j ≠ b → j ≠ d → f j = 0)
+    (hv : f a + f b + f d = v) : ∑ j ∈ range t, f j = v := by
+  classical
+  rw [← Finset.sum_subset (s₁ := ({a, b, d} : Finset ℕ)) (s₂ := range t)
+    (fun x hx ↦ by
+      simp only [mem_insert, mem_singleton] at hx
+      rcases hx with rfl | rfl | rfl <;> simpa using by omega)
+    (fun x hx hx' ↦ by
+      simp only [mem_insert, mem_singleton, not_or] at hx'
+      exact hz x (mem_range.mp hx) hx'.1 hx'.2.1 hx'.2.2),
+    Finset.sum_insert (by simp [hab, had]), Finset.sum_pair hbd, ← add_assoc, hv]
+
+/-- Splitting a sum over `range n` into a prefix of length `p`, a block of length `d`, and the
+remaining suffix. -/
+theorem sum_range_add_add {N : Type*} [AddCommMonoid N] (g : ℕ → N) {p d n : ℕ}
+    (h : p + d ≤ n) :
+    ∑ j ∈ range n, g j =
+      (∑ j ∈ range p, g j) + (∑ j ∈ range d, g (p + j)) +
+        ∑ j ∈ range (n - p - d), g (p + d + j) := by
+  have s1 : ∑ j ∈ range n, g j =
+      (∑ j ∈ range p, g j) + ∑ j ∈ range (n - p), g (p + j) := by
+    have key := sum_range_add g p (n - p)
+    rwa [show p + (n - p) = n from Nat.add_sub_cancel' (show p ≤ n from by omega)] at key
+  have s2 : ∑ j ∈ range (n - p), g (p + j) =
+      (∑ j ∈ range d, g (p + j)) + ∑ j ∈ range (n - p - d), g (p + d + j) := by
+    have key := sum_range_add (f := fun k : ℕ => g (p + k)) d (n - p - d)
+    rw [show d + (n - p - d) = n - p from by omega] at key
+    refine key.trans ?_
+    simp only [Nat.add_assoc]
+  rw [s1, s2, ← add_assoc]
+
+
+
+/-! ### The two-step recurrence of the sums `∑_{i ≤ min j r} c^i a (j + r − 2i)` -/
+
+/-- **A two-step recurrence for the sums `S j r = ∑_{i ≤ min j r} c^i a (j + r − 2i)`**:
+`S (j+2) (r+1) + c · S j (r+1) = S (j+1) (r+2) + c · S (j+1) r`.
+
+This is the identity the Fourier coefficients of the Hecke operators at a prime power satisfy
+(`TauCeti/NumberTheory/ModularForms/HeckeSlash/Nebentypus/Prime/Power.lean`), with `a t` the
+coefficient at `p^t m` and `c = χ(p) p^{k−1}`; the `min` is what makes it hold with no relation
+between `j` and `r`. -/
+theorem sum_range_min_add_two {R : Type*} [Semiring R] (a : ℕ → R) (c : R) (j r : ℕ) :
+    (∑ i ∈ range (min (j + 2) (r + 1) + 1), c ^ i * a (j + 2 + (r + 1) - 2 * i)) +
+        c * ∑ i ∈ range (min j (r + 1) + 1), c ^ i * a (j + (r + 1) - 2 * i) =
+      (∑ i ∈ range (min (j + 1) (r + 2) + 1), c ^ i * a (j + 1 + (r + 2) - 2 * i)) +
+        c * ∑ i ∈ range (min (j + 1) r + 1), c ^ i * a (j + 1 + r - 2 * i) := by
+  -- every one of the four sums is a sum of `A i = c^i a (j + r + 3 − 2i)`, the two scalar
+  -- multiples with the index shifted by one, and the upper limits pair up, so both sides are the
+  -- same pair of sums with the `i = 0` term of one of them removed
+  set A : ℕ → R := fun i ↦ c ^ i * a (j + r + 3 - 2 * i) with hA
+  -- a sum whose index reads `t - 2 i` with `t = j + r + 3` is a sum of `A`
+  have eA : ∀ t n : ℕ, t = j + r + 3 →
+      ∑ i ∈ range n, c ^ i * a (t - 2 * i) = ∑ i ∈ range n, A i := by
+    rintro t n rfl
+    rfl
+  -- a scalar multiple of such a sum with `t + 2 = j + r + 3` is a sum of `A` shifted by one
+  have eshift : ∀ t n : ℕ, t + 2 = j + r + 3 →
+      c * ∑ i ∈ range n, c ^ i * a (t - 2 * i) = ∑ i ∈ range n, A (i + 1) := by
+    intro t n ht
+    rw [Finset.mul_sum]
+    refine Finset.sum_congr rfl fun i _ ↦ ?_
+    have hidx : j + r + 3 - 2 * (i + 1) = t - 2 * i := by omega
+    simp only [hA]
+    rw [hidx, ← mul_assoc, ← pow_succ']
+  -- and a shifted sum is the unshifted one without its `i = 0` term
+  have hsh : ∀ n : ℕ, ∑ i ∈ range n, A (i + 1) + A 0 = ∑ i ∈ range (n + 1), A i := fun n ↦
+    (Finset.sum_range_succ' A n).symm
+  have hmin₁ : min j (r + 1) + 1 + 1 = min (j + 1) (r + 2) + 1 := by omega
+  have hmin₂ : min (j + 1) r + 1 + 1 = min (j + 2) (r + 1) + 1 := by omega
+  rw [eA (j + 2 + (r + 1)) _ (by omega), eA (j + 1 + (r + 2)) _ (by omega),
+    eshift (j + (r + 1)) _ (by omega), eshift (j + 1 + r) _ (by omega)]
+  -- both sides become the same pair of sums of `A`, once the shifted ones absorb `A 0`
+  have h₁ := hsh (min j (r + 1) + 1)
+  have h₂ := hsh (min (j + 1) r + 1)
+  rw [hmin₁] at h₁
+  rw [hmin₂] at h₂
+  -- no cancellation is needed: each unshifted sum is rewritten back into a shifted one plus `A 0`,
+  -- after which the two sides differ only by the order of the summands
+  rw [← h₁, ← h₂]
+  abel
+
+/-- **The base case of the two-step recurrence, at `j = 0`.** `S 0 (r+2) + c · S 0 r = S 1 (r+1)`
+for `S j r = ∑_{i ≤ min j r} c^i a (j + r − 2i)`.
+
+`sum_range_min_add_two` states the recurrence only from `j + 1` upwards — its second index is
+`j + 1`, never `0` — so the degenerate case where the `min` pins two of the sums to a single term
+is stated separately here. Together the two cover every `j`. -/
+theorem sum_range_min_zero {R : Type*} [Semiring R] (a : ℕ → R) (c : R) (r : ℕ) :
+    (∑ i ∈ range (min 0 (r + 2) + 1), c ^ i * a (0 + (r + 2) - 2 * i)) +
+        c * ∑ i ∈ range (min 0 r + 1), c ^ i * a (0 + r - 2 * i) =
+      ∑ i ∈ range (min 1 (r + 1) + 1), c ^ i * a (1 + (r + 1) - 2 * i) := by
+  -- `min 0 _ = 0` pins the two sums on the left to their `i = 0` terms, and `min 1 (r+1) = 1`
+  -- pins the one on the right to its `i = 0` and `i = 1` terms
+  have hmin : min 1 (r + 1) + 1 = 2 := by omega
+  have hidx : 1 + (r + 1) = r + 2 := by omega
+  rw [hmin]
+  simp [Finset.sum_range_succ, hidx]
+
+
+/-- Twice the sum over pairs `i < j < k` is the square of the sum minus the sum of squares. -/
+theorem two_mul_sum_range_pair {R : Type*} [CommRing R] (k : ℕ) (d : ℕ → R) :
+    2 * ∑ j ∈ range k, ∑ i ∈ range j, d i * d j =
+      (∑ i ∈ range k, d i) ^ 2 - ∑ i ∈ range k, d i ^ 2 := by
+  induction k with
+  | zero => simp
+  | succ k ih =>
+    rw [sum_range_succ, mul_add, ih, ← sum_mul, sum_range_succ d,
+      sum_range_succ (fun i ↦ d i ^ 2)]
+    ring
+
+end TauCeti
+
+

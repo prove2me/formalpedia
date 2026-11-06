@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinOfBounds_everyAlternationMeetsMinBound
 -- name    : MinOfBounds.everyAlternationMeetsMinBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:58:34.877244+00:00
 -- url     : https://prove2.me/theorems/0c42e45a-befa-4218-a52d-7f51f607c3e2

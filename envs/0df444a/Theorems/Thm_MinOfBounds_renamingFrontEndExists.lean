@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinOfBounds_renamingFrontEndExists
 -- name    : MinOfBounds.renamingFrontEndExists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:05:49.805124+00:00
 -- url     : https://prove2.me/theorems/0114ff0e-5b2b-43ad-b5a7-92fe7662c3cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRebate_Quantity_lemma1_optimal_order
 -- name    : ChannelRebate.Quantity.lemma1_optimal_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:13:32.160163+00:00
 -- url     : https://prove2.me/theorems/e9e9bd90-e778-4ef5-b59c-16b9fbd25445

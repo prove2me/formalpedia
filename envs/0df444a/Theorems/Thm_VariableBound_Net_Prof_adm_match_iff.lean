@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Prof_adm_match_iff
 -- name    : VariableBound.Net.Prof.adm_match_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:45:27.486579+00:00
 -- url     : https://prove2.me/theorems/1e74f6b1-5862-4dc8-a782-491b3af60aa4

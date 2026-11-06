@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeU_totP_eq
 -- name    : VariableBound.Net.SizeU.totP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:54.905956+00:00
 -- url     : https://prove2.me/theorems/8d5a95d7-8fa3-4c89-8c96-4934a3aff988

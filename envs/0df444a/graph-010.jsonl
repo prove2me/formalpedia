@@ -49663,7 +49663,7 @@
 {"parent": "BookProof.UnboundedSpectralModel.model_symmetry_relation_inc", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
 {"parent": "BookProof.UnboundedSpectralModel.model_symmetry_relation_inc", "child": "ChapterUnitaryTransport", "via": ["solution", "statement"]}
 {"parent": "BookProof.UnboundedSpectralModel.model_symmetry_relation_inc", "child": "ChapterSpectralMultiplication", "via": ["solution", "statement"]}
-{"parent": "GradDOvS.Submod.lemma_2_i", "child": "GradDOvS_Submod_Model", "via": ["statement"]}
+{"parent": "GradDOvS.Submod.lemma_2_i", "child": "GradDOvS_Submod_Model", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case011_finite16_14", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case011_finite16_14", "child": "HardyCapsetCertificate01120261021", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P26.squeezed_thermal_entanglement_formation", "child": "QAlgorithms_Papers_Independent_Gap48_P26", "via": ["statement"]}
@@ -59830,7 +59830,7 @@
 {"parent": "HardyCapset20261020.Cert.case028_finite4_130", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P26.finite_iteration_entropy_estimate", "child": "QAlgorithms_Papers_Independent_Gap48_P26", "via": ["statement"]}
 {"parent": "HardyCapset20261020.Cert.case094_bound", "child": "HardyCapsetCertificateModel20261020", "via": ["statement"]}
-{"parent": "GradDOvS.Submod.lemma_2_iii", "child": "GradDOvS_Submod_Model", "via": ["statement"]}
+{"parent": "GradDOvS.Submod.lemma_2_iii", "child": "GradDOvS_Submod_Model", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case048_blockers0", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case048_blockers0", "child": "HardyCapsetCertificate04820261021", "via": ["solution", "statement"]}
 {"parent": "FullFormalization.nag_loss", "child": "FullFormalization.nagX_zero", "via": ["solution", "statement"]}

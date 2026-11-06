@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Alg_CertGridG_capSum_unary
 -- name    : ClauseBound.Alg.CertGridG.capSum_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:00:54.548963+00:00
 -- url     : https://prove2.me/theorems/6d312448-1dca-43e3-9a40-687efda7e548

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_size_ints_le
 -- name    : PiecesCounted.size_ints_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:26.197278+00:00
 -- url     : https://prove2.me/theorems/012b36d3-c705-41e9-8b9c-e3e89c6797f1

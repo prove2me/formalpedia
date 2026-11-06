@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Step_node_root
 -- name    : UniformInK.Step.node_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:41:34.566379+00:00
 -- url     : https://prove2.me/theorems/6408cb29-93aa-424b-9e2e-333f7eb21b5f

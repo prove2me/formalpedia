@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_RecourseBounds_lemma_2_8
 -- name    : KallMayerSLP.RecourseBounds.lemma_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:14:52.838988+00:00
 -- url     : https://prove2.me/theorems/33b6e555-9698-4b9a-a3dc-be4850c7bbf0

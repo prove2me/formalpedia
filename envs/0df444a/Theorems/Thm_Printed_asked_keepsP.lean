@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_asked_keepsP
 -- name    : Printed.asked_keepsP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:42:12.550199+00:00
 -- url     : https://prove2.me/theorems/ec9a2c31-237f-4329-9736-fa3224cd84a7

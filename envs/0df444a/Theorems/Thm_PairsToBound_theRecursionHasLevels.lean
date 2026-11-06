@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_theRecursionHasLevels
 -- name    : PairsToBound.theRecursionHasLevels
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:00:31.114702+00:00
 -- url     : https://prove2.me/theorems/8194a85a-f1de-47e2-b1b6-c6c86d5bccd6

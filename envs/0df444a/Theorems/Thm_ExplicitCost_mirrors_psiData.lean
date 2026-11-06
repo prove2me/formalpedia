@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_mirrors_psiData
 -- name    : ExplicitCost.mirrors_psiData
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:52:16.13624+00:00
 -- url     : https://prove2.me/theorems/20bc5bea-b444-4b21-9bcd-e7b2ea119b8f

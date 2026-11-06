@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_posG_eqs
 -- name    : CircuitLowerBound.Clause.posG_eqs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:08:46.526797+00:00
 -- url     : https://prove2.me/theorems/df891273-c992-46bf-8407-5194a9321f42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_complexLambda_differentiableAt_e
 -- name    : OAI.SharpPlanar.complexLambda_differentiableAt_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:54:05.968844+00:00
 -- url     : https://prove2.me/theorems/fb431905-3891-481f-b598-386fbfda5225

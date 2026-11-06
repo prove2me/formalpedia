@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesExpGap_ConstOrder_g_pos_opt_ge_g
 -- name    : LostSalesExpGap.ConstOrder.g_pos_opt_ge_g
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:10:41.808979+00:00
 -- url     : https://prove2.me/theorems/21011bb0-5dec-48ff-88d7-ff498204c860

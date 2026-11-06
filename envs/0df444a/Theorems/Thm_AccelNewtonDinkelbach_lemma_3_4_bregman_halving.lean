@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelNewtonDinkelbach_lemma_3_4_bregman_halving
 -- name    : AccelNewtonDinkelbach.lemma_3_4_bregman_halving
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:17:04.625492+00:00
 -- url     : https://prove2.me/theorems/34de5750-834b-4217-b588-db93464b4705

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_rstep_pop
 -- name    : QueryMachines.Tower.rstep_pop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:48:21.496407+00:00
 -- url     : https://prove2.me/theorems/6c4c3167-61a7-485a-a362-d839070384b2

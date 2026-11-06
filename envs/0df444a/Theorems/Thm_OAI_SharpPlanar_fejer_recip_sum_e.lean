@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejer_recip_sum_e
 -- name    : OAI.SharpPlanar.fejer_recip_sum_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:42:38.1877+00:00
 -- url     : https://prove2.me/theorems/3865375a-c8b5-45d2-b6a0-a64afa88fea6

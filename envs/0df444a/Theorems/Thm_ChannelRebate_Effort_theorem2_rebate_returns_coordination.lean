@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRebate_Effort_theorem2_rebate_returns_coordination
 -- name    : ChannelRebate.Effort.theorem2_rebate_returns_coordination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:13:21.638362+00:00
 -- url     : https://prove2.me/theorems/c480fe98-c6f5-4b29-9444-d0ef5d83ed32

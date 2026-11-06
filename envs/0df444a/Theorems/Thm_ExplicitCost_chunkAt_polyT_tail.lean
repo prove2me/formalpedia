@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_chunkAt_polyT_tail
 -- name    : ExplicitCost.chunkAt_polyT_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:57:59.22709+00:00
 -- url     : https://prove2.me/theorems/ab97093e-c7e3-4ae1-b12e-01d6e10b6e70

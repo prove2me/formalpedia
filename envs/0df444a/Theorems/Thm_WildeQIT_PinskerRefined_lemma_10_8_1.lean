@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_PinskerRefined_lemma_10_8_1
 -- name    : WildeQIT.PinskerRefined.lemma_10_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:09.197741+00:00
 -- url     : https://prove2.me/theorems/41f4d67b-90d2-489b-81b8-65256b7a7a00

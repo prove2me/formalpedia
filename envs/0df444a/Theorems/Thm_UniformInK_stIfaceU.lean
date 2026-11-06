@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_stIfaceU
 -- name    : UniformInK.stIfaceU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:52:12.114802+00:00
 -- url     : https://prove2.me/theorems/f9baf0df-0cb3-4bfa-bb9a-e53683289595

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_StrongCvx_dual_optimizer_bounds
 -- name    : OTDRO.StrongCvx.dual_optimizer_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:10:40.15527+00:00
 -- url     : https://prove2.me/theorems/462794aa-b773-4016-a5b4-b7e8f35bf140

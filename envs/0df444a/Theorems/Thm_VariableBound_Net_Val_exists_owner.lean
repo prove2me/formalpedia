@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Val_exists_owner
 -- name    : VariableBound.Net.Val.exists_owner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:44:44.588722+00:00
 -- url     : https://prove2.me/theorems/46a0f422-bd8f-4870-8ab2-9d7ee2dc8c3b

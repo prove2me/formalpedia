@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_RBox_lower_lt_e
 -- name    : OAI.SharpPlanar.RBox.lower_lt_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T06:04:27.91068+00:00
 -- url     : https://prove2.me/theorems/9b050a96-2b91-42a8-bf61-d6b6c1cb88b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrimalDualLDR_RandomRecourse_claim_3_13
 -- name    : PrimalDualLDR.RandomRecourse.claim_3_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:42:56.005624+00:00
 -- url     : https://prove2.me/theorems/892c8c03-7677-402f-969e-7db95c1e2f92

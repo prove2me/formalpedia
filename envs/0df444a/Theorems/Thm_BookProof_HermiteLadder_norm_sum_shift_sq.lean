@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteLadder_norm_sum_shift_sq
 -- name    : BookProof.HermiteLadder.norm_sum_shift_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T14:46:47.311276+00:00
 -- url     : https://prove2.me/theorems/5d7b5132-f899-4452-aaec-2757aee8042c

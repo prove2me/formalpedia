@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Leaves_tauOf_worksU
 -- name    : UniformInK.Leaves.tauOf_worksU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:56:30.990878+00:00
 -- url     : https://prove2.me/theorems/9529cfb8-f866-4dac-b053-3aa60f1a0d46

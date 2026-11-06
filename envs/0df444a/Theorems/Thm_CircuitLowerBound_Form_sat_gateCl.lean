@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_sat_gateCl
 -- name    : CircuitLowerBound.Form.sat_gateCl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:53:51.165258+00:00
 -- url     : https://prove2.me/theorems/ba19d3b6-0989-4282-8c40-86be61c584dc

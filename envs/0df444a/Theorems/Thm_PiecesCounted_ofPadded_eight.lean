@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_ofPadded_eight
 -- name    : PiecesCounted.ofPadded_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:12:17.865056+00:00
 -- url     : https://prove2.me/theorems/95d443c5-8810-49a9-8c0f-b874ff15fcab

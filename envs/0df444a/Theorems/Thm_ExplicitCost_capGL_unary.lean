@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_capGL_unary
 -- name    : ExplicitCost.capGL_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:56:40.955064+00:00
 -- url     : https://prove2.me/theorems/0b4ec200-3d04-48dd-b031-9b3cc537dc6a

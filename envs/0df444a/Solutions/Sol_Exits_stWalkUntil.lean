@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for Exits.stWalkUntil
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-05T07:39:08.808169+00:00
+-- url     : https://prove2.me/submissions/1b3428d8-67b7-4819-8701-5a7b3b48602c
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_Exits_Tested
+import Definitions.Def_StepMachines_Prog_Range
+import Definitions.Def_StepMachines_Prog_Range
+import Definitions.Def_StepMachines_Prog_Walk
+import Definitions.Def_StepMachines_Prog_Walk
+import Definitions.Def_Exits_Runs
+import Theorems.Thm_Exits_stFoldUntil
+import Theorems.Thm_Exits_stWalkUntilOf
+
+set_option autoImplicit false
+section
+section
+open Exits
+open Finset Groundwork Groundwork.Stepped
+open Groundwork.Sparsify (leaves)
+variable {α β γ τ ν : Type}
+namespace Exits
+theorem _root_.solution : StWalkUntil := stWalkUntilOf stFoldUntil
+end Exits

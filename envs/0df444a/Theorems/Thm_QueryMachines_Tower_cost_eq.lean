@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_cost_eq
 -- name    : QueryMachines.Tower.cost_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:48:18.99906+00:00
 -- url     : https://prove2.me/theorems/9eb8a96f-d8a0-4b37-9cf2-06f5a85fb12b

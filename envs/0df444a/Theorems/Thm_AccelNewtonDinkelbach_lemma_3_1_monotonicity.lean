@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelNewtonDinkelbach_lemma_3_1_monotonicity
 -- name    : AccelNewtonDinkelbach.lemma_3_1_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:16:51.868659+00:00
 -- url     : https://prove2.me/theorems/42030540-d339-4d93-9d63-ba91ab366aa9

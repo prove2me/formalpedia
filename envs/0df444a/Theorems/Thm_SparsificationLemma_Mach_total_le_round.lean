@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_total_le_round
 -- name    : SparsificationLemma.Mach.total_le_round
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:49.197454+00:00
 -- url     : https://prove2.me/theorems/eee0980a-75be-4750-92fe-d0b293853faf

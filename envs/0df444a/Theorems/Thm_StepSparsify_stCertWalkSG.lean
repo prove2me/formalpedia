@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_stCertWalkSG
 -- name    : StepSparsify.stCertWalkSG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:57.635291+00:00
 -- url     : https://prove2.me/theorems/967f5b69-c3d1-4d06-aa61-f57f18cb960e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolylogKServer_HST_exists_shallow_weighted_hst
 -- name    : PolylogKServer.HST.exists_shallow_weighted_hst
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:49:13.992246+00:00
 -- url     : https://prove2.me/theorems/f43509a3-4cb5-4a7e-9baa-8be876d2c24e

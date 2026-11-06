@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_SmallFacts_le_foldr
 -- name    : CircuitLowerBound.SmallFacts.le_foldr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:33.72588+00:00
 -- url     : https://prove2.me/theorems/9d057a43-652e-4c1a-b0f3-a71d7863e5d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_fold_done
 -- name    : QueryMachines.Bridge.Proof.fold_done
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T19:24:23.004554+00:00
 -- url     : https://prove2.me/theorems/b15a7dc9-96a7-4d9e-8aab-f53f5ecdc516

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_IsometryExt_theorem_4
 -- name    : MetricGenerators.IsometryExt.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:53.890889+00:00
 -- url     : https://prove2.me/theorems/548ea90d-37cc-4bfe-8bb4-ffdeac426f92

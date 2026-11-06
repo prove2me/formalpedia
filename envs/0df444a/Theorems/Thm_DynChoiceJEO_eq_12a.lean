@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynChoiceJEO_eq_12a
 -- name    : DynChoiceJEO.eq_12a
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:40:01.569133+00:00
 -- url     : https://prove2.me/theorems/160f4ff6-4acc-4924-a665-54038657f5c4

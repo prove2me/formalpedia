@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_foldr_bind_max_of_some
 -- name    : RecursionToBound.foldr_bind_max_of_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:54:31.897227+00:00
 -- url     : https://prove2.me/theorems/2cb067ce-0c96-46f9-b891-0a46175b1ae3

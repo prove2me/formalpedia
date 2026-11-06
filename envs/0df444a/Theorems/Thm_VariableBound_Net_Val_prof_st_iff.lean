@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Val_prof_st_iff
 -- name    : VariableBound.Net.Val.prof_st_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:19.746316+00:00
 -- url     : https://prove2.me/theorems/2a1e6b72-aefd-4bf9-a888-cbc0c507da67

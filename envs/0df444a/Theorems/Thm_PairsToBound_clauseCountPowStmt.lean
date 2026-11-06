@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_clauseCountPowStmt
 -- name    : PairsToBound.clauseCountPowStmt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:10:39.815214+00:00
 -- url     : https://prove2.me/theorems/81a5ea6f-5611-4be3-b371-5411ffcc6dfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_sideU_append_taut
 -- name    : SparsificationLemma.sideU_append_taut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:55.900149+00:00
 -- url     : https://prove2.me/theorems/a5bd63ca-3481-4f69-bf30-524b54cfd078

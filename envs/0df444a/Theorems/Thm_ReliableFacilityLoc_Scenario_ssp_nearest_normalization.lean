@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_Scenario_ssp_nearest_normalization
 -- name    : ReliableFacilityLoc.Scenario.ssp_nearest_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:59.139436+00:00
 -- url     : https://prove2.me/theorems/a22f92c6-1865-4268-8c37-0bbb0fdbe468

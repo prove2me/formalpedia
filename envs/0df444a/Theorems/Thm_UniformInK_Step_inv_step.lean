@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Step_inv_step
 -- name    : UniformInK.Step.inv_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:08:48.381891+00:00
 -- url     : https://prove2.me/theorems/ce3e5458-1384-4078-8480-b520be95a6ea

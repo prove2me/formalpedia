@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_ConnectedJoin_lemma_2
 -- name    : MetricGenerators.ConnectedJoin.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:49:25.511988+00:00
 -- url     : https://prove2.me/theorems/613fbc94-95ad-474c-85fe-d110a350ae78

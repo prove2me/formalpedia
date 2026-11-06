@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_getD_end
 -- name    : CircuitLowerBound.Round.getD_end
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:57:11.165609+00:00
 -- url     : https://prove2.me/theorems/05c07b54-2ecf-423c-a66c-23fa870e50b8

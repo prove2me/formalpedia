@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEGeneral_martingale_ineq
 -- name    : LinParamBandits.UEGeneral.martingale_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:18.834174+00:00
 -- url     : https://prove2.me/theorems/a3ae42fb-314e-4da1-9d93-2ce4760a9b28

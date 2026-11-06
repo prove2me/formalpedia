@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_stThrOfU
 -- name    : SparsificationLemma.stThrOfU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:22.447272+00:00
 -- url     : https://prove2.me/theorems/3c754c3a-9628-4222-8aa7-ac3d10060536

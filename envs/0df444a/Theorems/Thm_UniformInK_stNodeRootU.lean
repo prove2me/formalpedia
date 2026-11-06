@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_stNodeRootU
 -- name    : UniformInK.stNodeRootU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:09:10.423988+00:00
 -- url     : https://prove2.me/theorems/904df9e7-a37c-40fc-a119-6be8010a0f44

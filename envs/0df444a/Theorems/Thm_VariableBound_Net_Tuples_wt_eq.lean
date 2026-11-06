@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tuples_wt_eq
 -- name    : VariableBound.Net.Tuples.wt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:31.195824+00:00
 -- url     : https://prove2.me/theorems/90fac36b-3194-4471-987c-16c2d3bba1b2

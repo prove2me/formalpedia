@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_bBounds_contains_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.bBounds_contains_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T06:03:17.140494+00:00
 -- url     : https://prove2.me/theorems/cf776194-84d6-41bd-beeb-47c6fd9ac962

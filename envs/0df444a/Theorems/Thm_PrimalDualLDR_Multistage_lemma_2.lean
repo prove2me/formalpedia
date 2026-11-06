@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrimalDualLDR_Multistage_lemma_2
 -- name    : PrimalDualLDR.Multistage.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:45:02.387315+00:00
 -- url     : https://prove2.me/theorems/d262c539-58a2-4c04-a65b-4a7acbc7e231

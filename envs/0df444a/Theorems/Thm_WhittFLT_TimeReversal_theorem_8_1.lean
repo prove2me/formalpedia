@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_TimeReversal_theorem_8_1
 -- name    : WhittFLT.TimeReversal.theorem_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:57:54.69556+00:00
 -- url     : https://prove2.me/theorems/862bd853-b564-4092-bf57-335d6aa40ac7

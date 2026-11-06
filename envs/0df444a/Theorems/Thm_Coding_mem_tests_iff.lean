@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_mem_tests_iff
 -- name    : Coding.mem_tests_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:54:49.647611+00:00
 -- url     : https://prove2.me/theorems/d2dcd9c4-ccf8-4ec1-9a00-a64862ecb3a8

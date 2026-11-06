@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_X_summable_pairs_e
 -- name    : OAI.SharpPlanar.X_summable_pairs_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:48:49.859636+00:00
 -- url     : https://prove2.me/theorems/cc123ab0-9c37-4537-aba3-c95bbf9909e3

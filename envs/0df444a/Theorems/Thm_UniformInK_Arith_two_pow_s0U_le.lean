@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Arith_two_pow_s0U_le
 -- name    : UniformInK.Arith.two_pow_s0U_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:39.840375+00:00
 -- url     : https://prove2.me/theorems/f5c2f343-1a33-4333-8411-cbbf64415df0

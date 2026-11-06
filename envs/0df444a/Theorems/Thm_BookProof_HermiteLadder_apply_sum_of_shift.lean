@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteLadder_apply_sum_of_shift
 -- name    : BookProof.HermiteLadder.apply_sum_of_shift
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T14:46:58.144392+00:00
 -- url     : https://prove2.me/theorems/51ffb15f-727e-44cc-8d85-b6cd9fe1cc66

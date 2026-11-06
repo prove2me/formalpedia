@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjSDP_theorem_2_1
 -- name    : MinimaxSLP.ObjSDP.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:49.655446+00:00
 -- url     : https://prove2.me/theorems/828f9c12-8f1c-468a-ae4c-127fc1f7dfe0

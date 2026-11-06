@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_fldChain_polyT
 -- name    : CircuitLowerBound.Clause.fldChain_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:53:33.58137+00:00
 -- url     : https://prove2.me/theorems/9468991f-e7ed-49b2-8b71-8507415d388f

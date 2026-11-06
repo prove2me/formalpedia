@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Norm_wires_norm
 -- name    : CircuitLowerBound.Norm.wires_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:43:44.727952+00:00
 -- url     : https://prove2.me/theorems/24e2a07e-c376-4121-84bf-0cc37fcad959

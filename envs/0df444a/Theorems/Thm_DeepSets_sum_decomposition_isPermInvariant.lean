@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepSets_sum_decomposition_isPermInvariant
 -- name    : DeepSets.sum_decomposition_isPermInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:50:15.461195+00:00
 -- url     : https://prove2.me/theorems/2b684da6-63e4-45af-abdc-025c8cccfd35

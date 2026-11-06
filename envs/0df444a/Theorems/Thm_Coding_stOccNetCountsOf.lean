@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_stOccNetCountsOf
 -- name    : Coding.stOccNetCountsOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:32:39.387971+00:00
 -- url     : https://prove2.me/theorems/3de29ef3-4925-4949-82a9-f9c5b36ce2d5

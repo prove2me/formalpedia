@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_Toy_oracle_call
 -- name    : QueryMachines.Tower.Toy.oracle_call
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:04:21.50679+00:00
 -- url     : https://prove2.me/theorems/34301a24-f25f-4f43-a1d3-a5d4cf191702

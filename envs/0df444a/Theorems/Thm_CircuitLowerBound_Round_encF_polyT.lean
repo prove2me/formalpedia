@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_encF_polyT
 -- name    : CircuitLowerBound.Round.encF_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:01:47.772396+00:00
 -- url     : https://prove2.me/theorems/b6cfb5f8-d214-4f39-9770-d6d7b8356f80

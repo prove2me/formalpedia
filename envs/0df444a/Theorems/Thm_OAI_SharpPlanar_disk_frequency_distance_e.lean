@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_disk_frequency_distance_e
 -- name    : OAI.SharpPlanar.disk_frequency_distance_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:55:32.480529+00:00
 -- url     : https://prove2.me/theorems/2ef6064c-1e88-41da-a9d7-8eb32f134813

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Search_roundD_polyT
 -- name    : VariableBound.Search.roundD_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:42:20.68679+00:00
 -- url     : https://prove2.me/theorems/1480fcd6-fafa-4dd9-b39d-4826971c44f6

@@ -1,0 +1,113 @@
+-- Prove2me | Definitions.Def_TC433_LinearAlgebra_Matrix_Diagonal_1fdd7419cc
+-- name    : TC433_LinearAlgebra_Matrix_Diagonal_1fdd7419cc
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T11:16:18.998026+00:00
+-- url     : https://prove2.me/theorems/d942169a-2382-463e-8099-69d6a38e6829
+-- title:
+--   TauCeti: LinearAlgebra / Matrix / Diagonal
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.LinearAlgebra.Matrix.Diagonal for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/LinearAlgebra/Matrix/Diagonal.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+
+public import Mathlib.Data.Matrix.Basis
+public import Mathlib.LinearAlgebra.Matrix.IsDiag
+public import Mathlib.LinearAlgebra.Matrix.ToLin
+
+/-!
+# Diagonal matrices: products with matrix units, and commutation
+
+This file records generic identities about diagonal matrices. Multiplying a rectangular matrix
+unit on both sides by diagonal matrices of the corresponding row and column sizes rescales its one
+nonzero entry. And a matrix commuting with a diagonal matrix has no entry away from the diagonal
+wherever that diagonal matrix separates two coordinates, so a matrix commuting with a diagonal
+matrix of pairwise distinct entries is itself diagonal.
+
+Neither statement needs a unit or an associative multiplication in the entries: the first holds
+over a `NonUnitalNonAssocSemiring`, and the second adds commutativity and cancellation by nonzero
+elements, which is what forces the off-diagonal entries to vanish.
+
+## Main results
+
+* `TauCeti.diagonal_mul_single_mul_diagonal`: multiplying `Eᵢⱼ(c)` on the left and right by
+  diagonal matrices rescales its entry by the corresponding diagonal coefficients.
+* `TauCeti.apply_eq_zero_of_commute_diagonal`: a matrix commuting with a diagonal matrix has
+  vanishing `(i, j)` entry wherever that diagonal matrix separates `i` from `j`.
+* `TauCeti.isDiag_of_commute_diagonal`: a matrix commuting with a diagonal matrix of pairwise
+  distinct entries is itself diagonal.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+open Matrix
+
+namespace TauCeti
+
+variable {m n : Type*} [DecidableEq m] [Fintype m] [DecidableEq n] [Fintype n]
+variable {A : Type*} [NonUnitalNonAssocSemiring A] {i : m} {j : n}
+
+/-- Multiplying a matrix unit on the left and right by diagonal matrices rescales its nonzero
+entry by the corresponding diagonal entries. -/
+@[simp]
+theorem diagonal_mul_single_mul_diagonal {v : m → A} {w : n → A} (c : A) :
+    diagonal v * single i j c * diagonal w = single i j (v i * c * w j) := by
+  ext a b
+  simp only [Matrix.mul_diagonal, Matrix.diagonal_mul, Matrix.single_apply]
+  by_cases h : i = a ∧ j = b
+  · obtain ⟨rfl, rfl⟩ := h
+    simp
+  · simp [h]
+
+section Commute
+
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+variable {k : Type*} [NonUnitalNonAssocCommSemiring k] [IsLeftCancelMulZero k]
+
+/-- A matrix commuting with a diagonal matrix has vanishing `(i, j)` entry whenever the diagonal
+matrix separates the coordinates `i` and `j`. -/
+theorem apply_eq_zero_of_commute_diagonal {t : ι → k} {g : Matrix ι ι k}
+    (hg : Commute (Matrix.diagonal t) g) {i j : ι} (hij : t i ≠ t j) : g i j = 0 := by
+  have hentry : (Matrix.diagonal t * g) i j = (g * Matrix.diagonal t) i j := by rw [hg.eq]
+  rw [Matrix.diagonal_mul, Matrix.mul_diagonal] at hentry
+  -- `hentry : t i * g i j = g i j * t j`; cancelling `g i j` on the left would give `t i = t j`.
+  by_contra h
+  exact hij (mul_left_cancel₀ h (by rw [mul_comm (g i j) (t i)]; exact hentry))
+
+/-- **A matrix commuting with a diagonal matrix of pairwise distinct entries is diagonal.** -/
+theorem isDiag_of_commute_diagonal {t : ι → k} (ht : Function.Injective t)
+    {g : Matrix ι ι k} (hg : Commute (Matrix.diagonal t) g) : g.IsDiag :=
+  fun _ _ hij => apply_eq_zero_of_commute_diagonal hg (ht.ne hij)
+
+end Commute
+
+end TauCeti
+
+namespace Module.Basis
+
+/-- A map diagonal on a basis has that diagonal matrix in the basis coordinates. -/
+theorem toMatrix_eq_diagonal_of_basis
+    {R M ι : Type*} [CommSemiring R] [AddCommMonoid M] [Module R M]
+    [Fintype ι] [DecidableEq ι]
+    (b : Module.Basis ι R M) (f : M →ₗ[R] M) (c : ι → R)
+    (hf : ∀ i, f (b i) = c i • b i) :
+    LinearMap.toMatrix b b f = Matrix.diagonal c := by
+  ext i j
+  simp only [LinearMap.toMatrix_apply, hf, map_smul, Module.Basis.repr_self,
+    Finsupp.smul_apply, Finsupp.single_apply, smul_eq_mul, Matrix.diagonal_apply]
+  by_cases h : i = j
+  · subst j
+    simp
+  · simp [h, Ne.symm h]
+
+end Module.Basis
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_exists_par_half2
 -- name    : GeneralPieces.exists_par_half2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:42:07.645889+00:00
 -- url     : https://prove2.me/theorems/00e33d2d-e3e5-4777-a709-84e054e00466

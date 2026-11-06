@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tests_U_eq
 -- name    : VariableBound.Net.Tests.U_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:01:54.831358+00:00
 -- url     : https://prove2.me/theorems/abdc82e7-d83a-4bfd-8ea9-09147c92a703

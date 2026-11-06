@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for finite_three_injective_fixed_point_free_iterate_transitive__p2m_d0b65569_8792_429c_bbc9_f16b6065a44f_a6
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:13:09.836298+00:00
 -- url     : https://prove2.me/submissions/c55d6118-1515-4061-aeea-df0e476a35f4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_finite_three_injective_fixed_point_free_iterate_transitive_aux__p2m_c087dd6c_81e7_4e4c_ad72_7053d1a189f4_a1

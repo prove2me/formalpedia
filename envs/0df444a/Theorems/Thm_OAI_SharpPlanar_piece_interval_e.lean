@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_piece_interval_e
 -- name    : OAI.SharpPlanar.piece_interval_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:43:22.253214+00:00
 -- url     : https://prove2.me/theorems/15bf8e78-1434-4e0e-b9d4-67b7c91df60c

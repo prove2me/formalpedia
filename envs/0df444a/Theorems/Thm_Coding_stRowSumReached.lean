@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_stRowSumReached
 -- name    : Coding.stRowSumReached
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:41.912842+00:00
 -- url     : https://prove2.me/theorems/e9cf57d7-b991-4f5c-a80c-14b458450b6e

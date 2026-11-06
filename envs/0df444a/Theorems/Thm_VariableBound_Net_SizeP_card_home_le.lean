@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_card_home_le
 -- name    : VariableBound.Net.SizeP.card_home_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:44.271681+00:00
 -- url     : https://prove2.me/theorems/19a66725-0a78-4323-9a40-48cd0437092f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Main_u
 -- name    : VariableBound.Net.Main.u
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:04:35.347185+00:00
 -- url     : https://prove2.me/theorems/c7bda870-db18-4079-a9c3-2e8325b197b4

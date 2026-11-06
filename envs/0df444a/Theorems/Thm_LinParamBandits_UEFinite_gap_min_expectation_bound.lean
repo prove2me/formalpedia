@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEFinite_gap_min_expectation_bound
 -- name    : LinParamBandits.UEFinite.gap_min_expectation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:03:44.43498+00:00
 -- url     : https://prove2.me/theorems/49b453eb-eb6f-4d2e-8b06-ce0b68bf063b

@@ -1,0 +1,25 @@
+-- Prove2me | solution 1 for ClauseBound.ParityChecks.CertNum.numI_polyT
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-05T09:48:14.99417+00:00
+-- url     : https://prove2.me/submissions/f966483f-c9f5-4d92-9e21-13e7ca50879a
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_ClauseBound_ParityChecks_CertLib
+import Definitions.Def_ClauseBound_ParityChecks_CertNum
+import Theorems.Thm_ClauseBound_ParityChecks_CertNum_numI_aux
+
+set_option autoImplicit false
+section
+section
+open ClauseBound ClauseBound.ParityChecks ClauseBound.ParityChecks.CertNum
+open Groundwork PaddedDescent.F ClauseBound.Alg.CertGridG ClauseBound.ParityChecks.CertLib
+variable {α : Type} [Enc α]
+namespace ClauseBound.ParityChecks.CertNum
+theorem _root_.solution {q : α → Par} (hq : QU q) {Ls : α → List Chk} {cur : α → Chk} {e : α → ℕ} (hL : PolyT Ls) (hc : PolyT cur) (he : PolyT e) :
+    PolyT fun x => (q x).numI (Ls x) (cur x) (e x) := by
+  unfold Par.numI Par.k
+  exact numI_aux hq.m hq.nb hq.r hL hc he
+end ClauseBound.ParityChecks.CertNum

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_links_eq_tests
 -- name    : Coding.links_eq_tests
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:30:29.039345+00:00
 -- url     : https://prove2.me/theorems/57ae233e-df91-4e86-b1aa-dc76624d55bd

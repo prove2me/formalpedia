@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsSDP_dual_Y_posSemidef
 -- name    : MinimaxSLP.RhsSDP.dual_Y_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:47.76699+00:00
 -- url     : https://prove2.me/theorems/d5245c32-c65e-4ecb-9f3d-33d16692430c

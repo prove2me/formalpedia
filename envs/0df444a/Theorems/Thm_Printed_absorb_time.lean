@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_absorb_time
 -- name    : Printed.absorb_time
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:43:48.858205+00:00
 -- url     : https://prove2.me/theorems/42093ee6-172a-4300-964e-46138d1bcda0

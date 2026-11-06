@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_sat_first
 -- name    : SparsificationLemma.sat_first
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:55:24.435486+00:00
 -- url     : https://prove2.me/theorems/df32417a-b1b7-43a4-98e1-8836d592521b

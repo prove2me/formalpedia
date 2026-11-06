@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountKSatRate_Cert_polyT_stepCU
 -- name    : CountKSatRate.Cert.polyT_stepCU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:54:06.610732+00:00
 -- url     : https://prove2.me/theorems/b9aec6a0-be90-4a24-8b78-daa96474a812

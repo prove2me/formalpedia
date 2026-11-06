@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittEfficiency_IS_proposition_2_4
 -- name    : WhittEfficiency.IS.proposition_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:30.136736+00:00
 -- url     : https://prove2.me/theorems/e748b8dc-6d49-4652-b1c1-d53d97dd80fd

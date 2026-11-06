@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MitigateSupplyRisk_Heterogeneity_theorem_7
 -- name    : MitigateSupplyRisk.Heterogeneity.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:52:41.251028+00:00
 -- url     : https://prove2.me/theorems/29cf98ba-6249-4397-9818-2e8b93fa6277

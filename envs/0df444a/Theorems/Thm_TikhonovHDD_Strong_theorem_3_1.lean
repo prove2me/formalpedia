@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TikhonovHDD_Strong_theorem_3_1
 -- name    : TikhonovHDD.Strong.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:48.787349+00:00
 -- url     : https://prove2.me/theorems/a83e1e74-c68a-4162-94fc-77ae1d8762bd

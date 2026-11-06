@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_FitL_row_le
 -- name    : VariableBound.Net.FitL.row_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:03:38.346825+00:00
 -- url     : https://prove2.me/theorems/7fd486b2-f0ac-4934-b455-b92a3b5ec4c5

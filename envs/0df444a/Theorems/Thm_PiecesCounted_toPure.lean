@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_toPure
 -- name    : PiecesCounted.toPure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:23.278189+00:00
 -- url     : https://prove2.me/theorems/4bff83aa-edcf-4981-8776-646617238a8a

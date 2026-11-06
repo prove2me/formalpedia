@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_asked_W_poly
 -- name    : Printed.asked_W_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:42:08.899899+00:00
 -- url     : https://prove2.me/theorems/41c1827d-7d8e-4396-b4ad-0f9a0a232221

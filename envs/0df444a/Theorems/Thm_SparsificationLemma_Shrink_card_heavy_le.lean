@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Shrink_card_heavy_le
 -- name    : SparsificationLemma.Shrink.card_heavy_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:20.572259+00:00
 -- url     : https://prove2.me/theorems/93630aaf-423e-4ae6-a880-de291eb3bb72

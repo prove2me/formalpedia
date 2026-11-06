@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_SmallFacts_ones_append
 -- name    : CircuitLowerBound.SmallFacts.ones_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:13.388842+00:00
 -- url     : https://prove2.me/theorems/e2e09dae-218b-4023-9d8a-3aaaf6e9e2a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Structure_delta_hA_monotone
 -- name    : FastFashion.Structure.delta_hA_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:08:55.398002+00:00
 -- url     : https://prove2.me/theorems/d20e9539-a060-44bf-a0fe-ade094b7cff4

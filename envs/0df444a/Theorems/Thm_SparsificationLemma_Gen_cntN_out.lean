@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Gen_cntN_out
 -- name    : SparsificationLemma.Gen.cntN_out
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:14.337183+00:00
 -- url     : https://prove2.me/theorems/3c43f7e5-0256-44b9-9855-0beb257e240e

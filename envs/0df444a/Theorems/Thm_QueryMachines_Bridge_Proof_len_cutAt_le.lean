@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_len_cutAt_le
 -- name    : QueryMachines.Bridge.Proof.len_cutAt_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:19.997849+00:00
 -- url     : https://prove2.me/theorems/6b341fa4-3800-4f78-8dc9-2387cb37ea84

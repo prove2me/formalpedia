@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_mem_testsBetween
 -- name    : Coding.mem_testsBetween
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:05:32.212251+00:00
 -- url     : https://prove2.me/theorems/9c0cd1f1-b988-4adb-9028-2ffa6238a260

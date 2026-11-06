@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CandesTao_CompletionII_matrix_completion_ii
 -- name    : CandesTao.CompletionII.matrix_completion_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:56:11.457405+00:00
 -- url     : https://prove2.me/theorems/fc5b8bdf-e879-4c81-8677-4827fbe36113

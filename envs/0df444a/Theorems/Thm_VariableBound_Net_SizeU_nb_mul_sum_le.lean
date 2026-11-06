@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeU_nb_mul_sum_le
 -- name    : VariableBound.Net.SizeU.nb_mul_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:58.156268+00:00
 -- url     : https://prove2.me/theorems/46db57b9-6141-46aa-8da5-d46bf3f65766

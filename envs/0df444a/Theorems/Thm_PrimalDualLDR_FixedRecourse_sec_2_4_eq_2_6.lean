@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrimalDualLDR_FixedRecourse_sec_2_4_eq_2_6
 -- name    : PrimalDualLDR.FixedRecourse.sec_2_4_eq_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:53:48.48208+00:00
 -- url     : https://prove2.me/theorems/684220bf-2e7e-406b-99b0-884463b2ce00

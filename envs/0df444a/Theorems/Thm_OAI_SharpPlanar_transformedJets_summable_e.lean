@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_transformedJets_summable_e
 -- name    : OAI.SharpPlanar.transformedJets_summable_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:59:23.694647+00:00
 -- url     : https://prove2.me/theorems/84969eb5-ba65-4486-8341-6be68c15f10e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_count_isPolyT
 -- name    : Eight.ViaGrouping.count_isPolyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:19:10.570307+00:00
 -- url     : https://prove2.me/theorems/c2c514fc-40f8-44ad-a33f-524ae76ff59d

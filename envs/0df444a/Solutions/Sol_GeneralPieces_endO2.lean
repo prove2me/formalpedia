@@ -1,0 +1,114 @@
+-- Prove2me | solution 1 for GeneralPieces.endO2
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-05T10:45:03.576913+00:00
+-- url     : https://prove2.me/submissions/f8d5d50e-ac44-41c2-8abf-99a595549258
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_AppRunningTimeStatement
+import Definitions.Def_GeneralPieces_Group_Lemma
+import Definitions.Def_GeneralPieces_Rec_PartB
+import Definitions.Def_GeneralPieces_Rec_Seq
+import Definitions.Def_GeneralPieces_Num_PartA
+import Definitions.Def_GeneralPieces_Num_PartAUse
+import Definitions.Def_GeneralPieces_Num_PartD
+import Definitions.Def_GeneralPieces_Num_TopDisplay
+import Definitions.Def_GeneralPieces_DefGenPieces_MayAssume
+import Definitions.Def_ClauseBound_Gen_End
+import Definitions.Def_ClauseBound_ParityChecks_MasterOL
+import Definitions.Def_GeneralPieces_Top_CaseI
+import Definitions.Def_GeneralPieces_Top_EndM
+import Definitions.Def_ClauseBound_ParityChecks_MasterOL
+import Definitions.Def_ClauseBound_ParityChecks_MasterOL
+import Definitions.Def_ClauseBound_TopN_Arith
+import Definitions.Def_ClauseBound_TopN_Arith
+import Definitions.Def_ClauseBound_TopN_Gen
+import Definitions.Def_ClauseBound_TopN_Gen
+import Definitions.Def_ClauseBound_Alg_NeedC
+import Definitions.Def_ClauseBound_Alg_Decode
+import Definitions.Def_ClauseBound_Alg_TopVal
+import Definitions.Def_ClauseBound_Alg_CertTop
+import Definitions.Def_ClauseBound_Alg_End
+import Definitions.Def_ClauseBound_ParityChecks_EndOL
+import Definitions.Def_ClauseBound_ParityChecks_TopOL
+import Definitions.Def_ClauseBound_ParityChecks_CertTopOL
+import Definitions.Def_ClauseBound_ParityChecks_CertOL
+import Definitions.Def_ClauseBound_ParityChecks_BudgetOL
+import Definitions.Def_ClauseBound_ParityChecks_ArithOL
+import Definitions.Def_ClauseBound_ParityChecks_Ev
+import Definitions.Def_ClauseBound_ParityChecks_Count
+import Definitions.Def_ClauseBound_ParityChecks_Shape
+import Definitions.Def_ClauseBound_ParityChecks_Bridge
+import Definitions.Def_ClauseBound_ParityChecks_ChoiceByPotential
+import Definitions.Def_ClauseBound_TopN_Budget
+import Definitions.Def_ClauseBound_TopN_Walk
+import Definitions.Def_ClauseBound_Alg_CertTopNet
+import Definitions.Def_PaddedDescent_F_MarkCode
+import Definitions.Def_PaddedDescent_F_MarkVal
+import Definitions.Def_PaddedDescent_F_MarkProf
+import Definitions.Def_PaddedDescent_F_MarkSize
+import Definitions.Def_PaddedDescent_F_CertMark
+import Definitions.Def_CountKSatRate_Tree
+import Definitions.Def_CountKSatRate_Walk
+import Definitions.Def_CountKSatRate_Pad
+import Definitions.Def_CountKSatRate_Brute
+import Definitions.Def_CountKSatRate_Stack
+import Definitions.Def_CountKSat_InOut
+import Definitions.Def_GeneralPieces_ThmRunningTime
+import Theorems.Thm_ClauseBound_Alg_CertTopNet_stCertValS
+import Theorems.Thm_ClauseBound_ParityChecks_ArithOL_stArithO
+import Theorems.Thm_ClauseBound_ParityChecks_Bridge_stBridgeA
+import Theorems.Thm_ClauseBound_ParityChecks_Bridge_stBridgeB
+import Theorems.Thm_ClauseBound_ParityChecks_Bridge_stBridgeF
+import Theorems.Thm_ClauseBound_ParityChecks_BudgetOL_stBudgetO
+import Theorems.Thm_ClauseBound_ParityChecks_CertOL_stCertCountOL
+import Theorems.Thm_ClauseBound_ParityChecks_CertTopOL_stCertO
+import Theorems.Thm_ClauseBound_ParityChecks_Count_stCountOL
+import Theorems.Thm_ClauseBound_ParityChecks_EndOL_stEndO
+import Theorems.Thm_ClauseBound_ParityChecks_Ev_stEvW
+import Theorems.Thm_ClauseBound_ParityChecks_Shape_stShape
+import Theorems.Thm_ClauseBound_ParityChecks_TopOL_stCorrectO
+import Theorems.Thm_ClauseBound_ParityChecks_stepTwo
+import Theorems.Thm_ClauseBound_TopN_stParN
+import Theorems.Thm_ClauseBound_TopN_stWalkCount
+import Theorems.Thm_CountKSatRate_stBruteC
+import Theorems.Thm_CountKSatRate_stPaddedW
+import Theorems.Thm_CountKSatRate_stRoundS
+import Theorems.Thm_CountKSatRate_stRoundSEnd
+import Theorems.Thm_CountKSatRate_stStateLen
+import Theorems.Thm_CountKSatRate_stTreeK
+import Theorems.Thm_CountKSatRate_stWalkS
+import Theorems.Thm_CountKSat_stCntToN
+import Theorems.Thm_CountKSat_stDecU
+import Theorems.Thm_GeneralPieces_Top_stValS2
+import Theorems.Thm_Groundwork_PolyT_all
+import Theorems.Thm_PaddedDescent_F_Mark_Prof_stProfSum
+import Theorems.Thm_PaddedDescent_F_Mark_Val_stMarkPresents
+import Theorems.Thm_PaddedDescent_F_Mark_Val_stMarkVal
+import Theorems.Thm_PaddedDescent_F_certAdm
+import Theorems.Thm_PaddedDescent_F_certMark
+import Theorems.Thm_PaddedDescent_F_certRebalG
+import Theorems.Thm_PaddedDescent_F_stEncInj
+import Theorems.Thm_PaddedDescent_F_stEncLen
+import Theorems.Thm_PaddedDescent_F_stMarkSized
+attribute [local fun_prop] Groundwork.PolyT.all
+
+
+
+set_option autoImplicit false
+section
+section
+open GeneralPieces
+open Groundwork PaddedDescent.F ClauseBound.Alg ClauseBound.Gen ClauseBound.Gen.End Levels.Gen
+open PaddedDescent CountKSat CountKSatRate ClauseBound.ParityChecks ClauseBound.TopN
+namespace GeneralPieces
+theorem _root_.solution : StEndO :=
+  EndOL.stEndO stPaddedW
+    (TopOL.stCorrectO
+      (Count.stCountOL (Ev.stEvW (Mark.Val.stMarkVal stEncLen stEncInj) Mark.Prof.stProfSum Mark.Val.stMarkPresents stMarkSized Top.stValS2)
+        Shape.stShape Bridge.stBridgeB Bridge.stBridgeA Bridge.stBridgeF stepTwo)
+      BudgetOL.stBudgetO stParN (stWalkCount stTreeK stWalkS stRoundS stRoundSEnd stStateLen stCntToN stDecU) stBruteC stDecU)
+    (CertTopOL.stCertO (CertOL.stCertCountOL (CertTopNet.stCertValS certRebalG) certMark certAdm)) ArithOL.stArithO
+end GeneralPieces

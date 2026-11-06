@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_lenG_tail
 -- name    : ExplicitCost.lenG_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:58:23.75951+00:00
 -- url     : https://prove2.me/theorems/c4df2c75-ea43-4c07-bc70-d3a6653951cc

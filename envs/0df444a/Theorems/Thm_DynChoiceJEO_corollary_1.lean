@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynChoiceJEO_corollary_1
 -- name    : DynChoiceJEO.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:40:18.537261+00:00
 -- url     : https://prove2.me/theorems/1530b72c-28ac-43dc-880f-3eb6c088c407

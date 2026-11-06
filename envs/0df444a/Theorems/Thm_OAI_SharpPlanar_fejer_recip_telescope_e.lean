@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejer_recip_telescope_e
 -- name    : OAI.SharpPlanar.fejer_recip_telescope_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:42:36.183434+00:00
 -- url     : https://prove2.me/theorems/8c9be81b-5894-474d-b48a-601e4d7cc4be

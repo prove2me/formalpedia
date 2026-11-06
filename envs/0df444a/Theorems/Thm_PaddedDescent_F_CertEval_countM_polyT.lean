@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaddedDescent_F_CertEval_countM_polyT
 -- name    : PaddedDescent.F.CertEval.countM_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:17:37.489448+00:00
 -- url     : https://prove2.me/theorems/af05d74b-2bee-44ec-a4e3-ee4c4c187a89

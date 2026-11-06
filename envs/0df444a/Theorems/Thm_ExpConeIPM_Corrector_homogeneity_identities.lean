@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpConeIPM_Corrector_homogeneity_identities
 -- name    : ExpConeIPM.Corrector.homogeneity_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:05:40.187568+00:00
 -- url     : https://prove2.me/theorems/4460500b-4afe-4d41-9af7-f8fd8e863976

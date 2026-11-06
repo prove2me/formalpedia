@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_ZhangAudenaert_mutualInfo_nonneg
 -- name    : WildeQIT.ZhangAudenaert.mutualInfo_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:56:16.371605+00:00
 -- url     : https://prove2.me/theorems/963c84eb-4484-48ab-be7c-4657e32b813f

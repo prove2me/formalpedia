@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_stMono
 -- name    : Printed.stMono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:56:21.459398+00:00
 -- url     : https://prove2.me/theorems/103f42f3-e95f-4f13-aa7e-431d3182ecb3

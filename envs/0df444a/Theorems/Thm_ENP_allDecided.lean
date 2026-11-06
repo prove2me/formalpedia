@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ENP_allDecided
 -- name    : ENP.allDecided
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:29.500512+00:00
 -- url     : https://prove2.me/theorems/0d13e339-85b1-4602-9400-aaede5bd1909

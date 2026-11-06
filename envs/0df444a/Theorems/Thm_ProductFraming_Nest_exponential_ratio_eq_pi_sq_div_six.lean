@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductFraming_Nest_exponential_ratio_eq_pi_sq_div_six
 -- name    : ProductFraming.Nest.exponential_ratio_eq_pi_sq_div_six
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:07:23.43496+00:00
 -- url     : https://prove2.me/theorems/7a1d8589-5685-498e-bd4d-a49bb88bbcad

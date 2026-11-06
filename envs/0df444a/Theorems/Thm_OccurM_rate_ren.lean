@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_rate_ren
 -- name    : OccurM.rate_ren
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:37.104019+00:00
 -- url     : https://prove2.me/theorems/0b190312-c906-467e-9617-6386905b35b9

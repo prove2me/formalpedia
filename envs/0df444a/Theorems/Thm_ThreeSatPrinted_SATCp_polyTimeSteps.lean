@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSatPrinted_SATCp_polyTimeSteps
 -- name    : ThreeSatPrinted.SATCp_polyTimeSteps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:34:24.193193+00:00
 -- url     : https://prove2.me/theorems/abc53765-4f68-42a4-82fb-dd15b26e5102

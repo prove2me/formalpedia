@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_sum_len_le
 -- name    : QueryMachines.Bridge.Proof.sum_len_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T19:24:05.228928+00:00
 -- url     : https://prove2.me/theorems/64829768-49ef-403f-9866-6b00115232a6

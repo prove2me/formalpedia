@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_Mirrors_runs
 -- name    : ExplicitCost.Mirrors.runs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:33:09.745111+00:00
 -- url     : https://prove2.me/theorems/3b649731-207d-41e6-955b-159f61078f08

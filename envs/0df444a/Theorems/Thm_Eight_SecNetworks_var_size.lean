@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_SecNetworks_var_size
 -- name    : Eight.SecNetworks.var_size
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:54:13.441853+00:00
 -- url     : https://prove2.me/theorems/25db41a9-226f-4bd6-accb-dd68d7f701f5

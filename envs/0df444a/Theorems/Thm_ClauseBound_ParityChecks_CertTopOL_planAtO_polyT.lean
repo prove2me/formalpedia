@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertTopOL_planAtO_polyT
 -- name    : ClauseBound.ParityChecks.CertTopOL.planAtO_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:20:10.950802+00:00
 -- url     : https://prove2.me/theorems/5c8795fd-fbb5-47c5-9a79-08f20bdf2e83

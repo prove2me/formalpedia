@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_StepCost_bitsS_eq
 -- name    : VariableBound.Net.StepCost.bitsS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:39.473005+00:00
 -- url     : https://prove2.me/theorems/e3e59a54-05a2-437e-bca8-b24e4ac6e655

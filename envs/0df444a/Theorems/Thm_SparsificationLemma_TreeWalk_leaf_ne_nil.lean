@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_TreeWalk_leaf_ne_nil
 -- name    : SparsificationLemma.TreeWalk.leaf_ne_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:17.635594+00:00
 -- url     : https://prove2.me/theorems/8c7e6917-7fbf-4758-a771-8b3b6bc75992

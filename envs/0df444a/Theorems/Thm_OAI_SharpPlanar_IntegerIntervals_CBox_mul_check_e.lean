@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_CBox_mul_check_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.CBox.mul_check_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:45:38.754499+00:00
 -- url     : https://prove2.me/theorems/261949e2-d3e6-474b-9a25-92625b5407e1

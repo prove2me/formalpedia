@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineUBSR_sr_is_root
 -- name    : OnlineUBSR.sr_is_root
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:19:55.184989+00:00
 -- url     : https://prove2.me/theorems/ebf61550-e7ed-4aa3-85b8-761bd782def4

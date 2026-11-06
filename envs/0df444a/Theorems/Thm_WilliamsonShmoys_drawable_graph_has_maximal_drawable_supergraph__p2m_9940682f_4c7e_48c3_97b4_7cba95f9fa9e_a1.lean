@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_graph_has_maximal_drawable_supergraph__p2m_9940682f_4c7e_48c3_97b4_7cba95f9fa9e_a1
 -- name    : WilliamsonShmoys.drawable_graph_has_maximal_drawable_supergraph__p2m_9940682f_4c7e_48c3_97b4_7cba95f9fa9e_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:49:48.285106+00:00
 -- url     : https://prove2.me/theorems/ae4c30e4-5c41-43ac-8ef4-2c08b5f2ff70

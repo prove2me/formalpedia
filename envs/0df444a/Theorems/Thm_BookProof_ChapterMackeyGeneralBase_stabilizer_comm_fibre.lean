@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_stabilizer_comm_fibre
 -- name    : BookProof.ChapterMackeyGeneralBase.stabilizer_comm_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:33.248344+00:00
 -- url     : https://prove2.me/theorems/793e19c5-fa2b-431c-bcc8-348f50a05eef

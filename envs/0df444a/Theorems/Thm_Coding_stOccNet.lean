@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_stOccNet
 -- name    : Coding.stOccNet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:31:22.00848+00:00
 -- url     : https://prove2.me/theorems/23c9d09e-4d9a-41c1-8400-9af067da2623

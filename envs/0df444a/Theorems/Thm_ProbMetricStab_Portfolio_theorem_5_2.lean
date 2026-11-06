@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbMetricStab_Portfolio_theorem_5_2
 -- name    : ProbMetricStab.Portfolio.theorem_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:05:35.651974+00:00
 -- url     : https://prove2.me/theorems/c4ef8703-a8fd-4abb-a63c-1791bf58d636

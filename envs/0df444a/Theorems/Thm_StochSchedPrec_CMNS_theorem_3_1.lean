@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSchedPrec_CMNS_theorem_3_1
 -- name    : StochSchedPrec.CMNS.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:54:32.569362+00:00
 -- url     : https://prove2.me/theorems/613f451d-d7af-4cd7-872e-557864f90d44

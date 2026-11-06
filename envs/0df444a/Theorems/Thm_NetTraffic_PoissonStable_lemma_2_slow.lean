@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetTraffic_PoissonStable_lemma_2_slow
 -- name    : NetTraffic.PoissonStable.lemma_2_slow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:10:27.560215+00:00
 -- url     : https://prove2.me/theorems/35165fdf-570f-4912-99dd-5e7ea3555b0f

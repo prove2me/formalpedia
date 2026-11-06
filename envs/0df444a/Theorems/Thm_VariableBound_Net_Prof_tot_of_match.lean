@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Prof_tot_of_match
 -- name    : VariableBound.Net.Prof.tot_of_match
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:00:15.349308+00:00
 -- url     : https://prove2.me/theorems/fd7d13bd-6593-4098-8bd2-a90c14ddcea3

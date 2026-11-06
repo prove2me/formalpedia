@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_realSpectral_norm_e
 -- name    : OAI.SharpPlanar.realSpectral_norm_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:43:26.690508+00:00
 -- url     : https://prove2.me/theorems/a59ecd47-e7ae-4f03-941a-98e4f6c212f1

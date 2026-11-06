@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Enumerate_stEnumeratesTau
 -- name    : Enumerate.stEnumeratesTau
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:09:10.507313+00:00
 -- url     : https://prove2.me/theorems/bd349f44-dd51-4012-b5a9-927d31ff561e

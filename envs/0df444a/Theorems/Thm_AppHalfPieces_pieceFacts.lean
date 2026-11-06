@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppHalfPieces_pieceFacts
 -- name    : AppHalfPieces.pieceFacts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:45:28.53947+00:00
 -- url     : https://prove2.me/theorems/66f3f0f7-b89e-476d-b9a1-e8dd62c544b2

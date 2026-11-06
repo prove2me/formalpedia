@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_stGen
 -- name    : SparsificationLemma.stGen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:56:51.53601+00:00
 -- url     : https://prove2.me/theorems/56cae433-23e1-44e0-a435-063010f59459

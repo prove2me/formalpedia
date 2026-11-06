@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_Toy_cost_toy
 -- name    : QueryMachines.Tower.Toy.cost_toy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:04:25.01928+00:00
 -- url     : https://prove2.me/theorems/dddd946d-efa7-435d-9b9f-c02fdf89f044

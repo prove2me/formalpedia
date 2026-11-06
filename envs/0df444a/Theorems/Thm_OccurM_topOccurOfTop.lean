@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OccurM_topOccurOfTop
 -- name    : OccurM.topOccurOfTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T01:08:02.484362+00:00
 -- url     : https://prove2.me/theorems/562e46c3-2aaf-449b-a246-cfaf6271e0fd

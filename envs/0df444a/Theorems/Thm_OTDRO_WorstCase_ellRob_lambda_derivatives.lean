@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_WorstCase_ellRob_lambda_derivatives
 -- name    : OTDRO.WorstCase.ellRob_lambda_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:05:23.763612+00:00
 -- url     : https://prove2.me/theorems/eb7d8545-654a-40ad-9754-9ab25d64c827

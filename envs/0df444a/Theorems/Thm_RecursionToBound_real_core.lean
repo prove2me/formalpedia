@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_real_core
 -- name    : RecursionToBound.real_core
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:29.375778+00:00
 -- url     : https://prove2.me/theorems/2449af15-bd2a-45db-9e98-c6043ca6f0a6

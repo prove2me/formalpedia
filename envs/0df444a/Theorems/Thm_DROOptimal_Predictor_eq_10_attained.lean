@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROOptimal_Predictor_eq_10_attained
 -- name    : DROOptimal.Predictor.eq_10_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:09:55.724293+00:00
 -- url     : https://prove2.me/theorems/b4ba6657-c206-4fa7-8b0c-fc49c34c14e1

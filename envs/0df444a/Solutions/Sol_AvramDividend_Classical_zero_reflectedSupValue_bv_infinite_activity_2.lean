@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.zero_reflectedSupValue_bv_infinite_activity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-28T06:49:21.389432+00:00
 -- url     : https://prove2.me/submissions/176b3744-c15b-4997-b7a0-74a9a13789f9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
 import Definitions.Def_AvramDividend_Classical_ScaleFunction

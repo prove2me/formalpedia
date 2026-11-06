@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_deg_le
 -- name    : ThmCount.deg_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:41:45.186939+00:00
 -- url     : https://prove2.me/theorems/3f09e75d-d898-4a2d-b1fb-cdd2145068b6

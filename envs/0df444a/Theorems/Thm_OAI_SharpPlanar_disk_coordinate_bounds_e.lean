@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_disk_coordinate_bounds_e
 -- name    : OAI.SharpPlanar.disk_coordinate_bounds_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:55:06.398799+00:00
 -- url     : https://prove2.me/theorems/8b2bddb9-9b2e-4ddb-8477-055eb67d911e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Rename_clausesOf_bodyOf
 -- name    : VariableBound.Rename.clausesOf_bodyOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:45.653847+00:00
 -- url     : https://prove2.me/theorems/0dc3a6d2-24db-442f-a086-4d16fc456fdf

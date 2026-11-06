@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_size_node_le
 -- name    : Suffices.size_node_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:24:23.508423+00:00
 -- url     : https://prove2.me/theorems/fa8d60c9-bdd9-40a2-b303-d9030ca338c4

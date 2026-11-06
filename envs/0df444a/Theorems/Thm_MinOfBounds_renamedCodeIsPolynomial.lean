@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinOfBounds_renamedCodeIsPolynomial
 -- name    : MinOfBounds.renamedCodeIsPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:08:59.922162+00:00
 -- url     : https://prove2.me/theorems/b38fe090-ee3e-4eb9-8460-815cdfad05b9

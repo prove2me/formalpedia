@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EsaPair_ESAPair_norm_sub_smul_sq
 -- name    : BookProof.EsaPair.ESAPair.norm_sub_smul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:53:05.782691+00:00
 -- url     : https://prove2.me/theorems/ea06665e-95d9-41fa-9661-1762ff133a63

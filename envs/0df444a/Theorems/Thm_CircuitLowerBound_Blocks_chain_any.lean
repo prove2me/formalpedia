@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Blocks_chain_any
 -- name    : CircuitLowerBound.Blocks.chain_any
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:15.099811+00:00
 -- url     : https://prove2.me/theorems/d7e9c659-cdad-43d5-8d9b-23027b5debfe

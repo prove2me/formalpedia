@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.tailScalar_summable_e
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-04T08:08:08.455803+00:00
 -- url     : https://prove2.me/submissions/d80b2f60-59b4-4432-8d6f-1e96ec3577a7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098E001

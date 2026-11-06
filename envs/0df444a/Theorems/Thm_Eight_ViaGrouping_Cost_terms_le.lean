@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_Cost_terms_le
 -- name    : Eight.ViaGrouping.Cost.terms_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:25.635365+00:00
 -- url     : https://prove2.me/theorems/2a47733c-538c-41dd-a07a-ec840e317b5b

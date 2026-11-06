@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_exists_padRow
 -- name    : Coding.exists_padRow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:34.185547+00:00
 -- url     : https://prove2.me/theorems/1fa8f896-1999-432c-8609-575abec21fc3

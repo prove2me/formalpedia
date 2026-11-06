@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_qv_mono
 -- name    : VariableBound.Net.SizeP.qv_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:50.893474+00:00
 -- url     : https://prove2.me/theorems/87250dcd-60fe-40cc-a1ce-4d87b4a38129

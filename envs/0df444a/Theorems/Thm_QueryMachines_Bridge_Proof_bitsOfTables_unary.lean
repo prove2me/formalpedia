@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_bitsOfTables_unary
 -- name    : QueryMachines.Bridge.Proof.bitsOfTables_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:58:45.220845+00:00
 -- url     : https://prove2.me/theorems/f9bce68b-e199-4899-a5a4-12f0dafaa19c

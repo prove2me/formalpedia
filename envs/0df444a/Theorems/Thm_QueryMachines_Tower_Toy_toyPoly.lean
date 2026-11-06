@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_Toy_toyPoly
 -- name    : QueryMachines.Tower.Toy.toyPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:03:52.822212+00:00
 -- url     : https://prove2.me/theorems/5a3d1365-2bd2-4701-bdcb-e0348e1cdd5e

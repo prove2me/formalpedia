@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Thresholds_sum_eq
 -- name    : UniformInK.Thresholds.sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:42:27.542896+00:00
 -- url     : https://prove2.me/theorems/b71df48a-5ae9-45f8-9e42-c8ed35be6a90

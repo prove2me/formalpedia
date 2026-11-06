@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_countP_leaves
 -- name    : SparsificationLemma.countP_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:57.112428+00:00
 -- url     : https://prove2.me/theorems/15615f94-caa9-4891-bd11-d719392022eb

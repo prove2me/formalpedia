@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRebate_Quantity_theorem1_target_rebate_coordination
 -- name    : ChannelRebate.Quantity.theorem1_target_rebate_coordination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:13:00.131307+00:00
 -- url     : https://prove2.me/theorems/910fc47f-83d1-46db-8e2c-350517d97410

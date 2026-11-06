@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tests_sum_lt_eq_sum_product
 -- name    : VariableBound.Net.Tests.sum_lt_eq_sum_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:27.648207+00:00
 -- url     : https://prove2.me/theorems/4a97ad53-ea38-4140-b4bb-fa3f15683677

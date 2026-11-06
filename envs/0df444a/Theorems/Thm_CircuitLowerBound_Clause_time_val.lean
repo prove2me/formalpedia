@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_time_val
 -- name    : CircuitLowerBound.Clause.time_val
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:08:13.887832+00:00
 -- url     : https://prove2.me/theorems/3b0114c6-1972-4bd0-b53b-23364c1f210a

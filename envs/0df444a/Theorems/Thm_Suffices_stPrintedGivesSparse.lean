@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_stPrintedGivesSparse
 -- name    : Suffices.stPrintedGivesSparse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:35:49.126959+00:00
 -- url     : https://prove2.me/theorems/6216be34-5086-42f4-8288-c09b26f8a0b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_KKT_primalFunction_eq
 -- name    : KallMayerSLP.KKT.primalFunction_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:10:19.988471+00:00
 -- url     : https://prove2.me/theorems/b65e4189-262c-467d-9744-625632e9922c

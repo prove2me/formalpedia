@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_runB_polyT
 -- name    : GeneralPieces.runB_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:30:03.351529+00:00
 -- url     : https://prove2.me/theorems/ce6e34f4-492b-4e6f-8af7-88318171005f

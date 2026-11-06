@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_KKT_slater_nonlinear_only_implies_rc0
 -- name    : KallMayerSLP.KKT.slater_nonlinear_only_implies_rc0
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:11:18.776252+00:00
 -- url     : https://prove2.me/theorems/5e1b3747-d957-418c-964d-a6cf39fa7e38

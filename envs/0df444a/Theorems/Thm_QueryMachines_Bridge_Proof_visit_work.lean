@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_visit_work
 -- name    : QueryMachines.Bridge.Proof.visit_work
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T19:24:19.279904+00:00
 -- url     : https://prove2.me/theorems/26e15088-c1b3-46d7-b184-5a9afb076ef7

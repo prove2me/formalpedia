@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_needOf_poly
 -- name    : QueryMachines.Bridge.Proof.needOf_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:25.56476+00:00
 -- url     : https://prove2.me/theorems/2405bae6-a1a6-49ed-a4d9-fc61eb938f16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_ImprimitivitySystem_inner_pvm_eq_zero
 -- name    : BookProof.ChapterMackeyGeneralBase.ImprimitivitySystem.inner_pvm_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:46.656472+00:00
 -- url     : https://prove2.me/theorems/06052153-6dc7-48b0-aa61-d7a9fe482499

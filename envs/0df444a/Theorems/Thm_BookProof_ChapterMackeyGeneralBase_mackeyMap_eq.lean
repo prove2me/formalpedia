@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_mackeyMap_eq
 -- name    : BookProof.ChapterMackeyGeneralBase.mackeyMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:58.127182+00:00
 -- url     : https://prove2.me/theorems/6a310cec-7f52-451c-9cdd-08d184ca1870

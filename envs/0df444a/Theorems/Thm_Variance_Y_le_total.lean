@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Variance_Y_le_total
 -- name    : Variance.Y_le_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:16.551195+00:00
 -- url     : https://prove2.me/theorems/d2b38825-848b-4a7a-aa89-75873bf13b25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_firstQ_polyT
 -- name    : PiecesCounted.firstQ_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:32.462894+00:00
 -- url     : https://prove2.me/theorems/142827bb-5a78-44fc-ace3-793651d49ce8

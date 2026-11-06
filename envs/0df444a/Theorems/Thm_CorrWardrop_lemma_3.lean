@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrWardrop_lemma_3
 -- name    : CorrWardrop.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:28:22.45691+00:00
 -- url     : https://prove2.me/theorems/8174adbe-5baf-447c-b482-be42ac0be635

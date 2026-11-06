@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_complexTransformedFactor_disk_bound_e
 -- name    : OAI.SharpPlanar.complexTransformedFactor_disk_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:54:31.13083+00:00
 -- url     : https://prove2.me/theorems/7e7dcf31-1973-487a-aeaf-6891105995a1

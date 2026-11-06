@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_stMapOutRuns
 -- name    : QueryMachines.stMapOutRuns
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:31:28.322237+00:00
 -- url     : https://prove2.me/theorems/fb9ebbd9-b814-4584-9c9b-fb5c9abbafcb

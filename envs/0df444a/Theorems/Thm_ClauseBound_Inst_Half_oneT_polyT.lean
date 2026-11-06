@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_oneT_polyT
 -- name    : ClauseBound.Inst.Half.oneT_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:17:06.646274+00:00
 -- url     : https://prove2.me/theorems/3a99f843-d2f4-42f5-b07c-83149b47423e

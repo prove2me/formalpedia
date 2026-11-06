@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChannelRebate_Quantity_sec32_retailer_profit_shape
 -- name    : ChannelRebate.Quantity.sec32_retailer_profit_shape
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:12:58.854985+00:00
 -- url     : https://prove2.me/theorems/7156e79c-f50a-4f8a-bdfe-f535f48c8ae5

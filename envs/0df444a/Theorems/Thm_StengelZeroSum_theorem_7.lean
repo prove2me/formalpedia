@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StengelZeroSum_theorem_7
 -- name    : StengelZeroSum.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:04:43.196001+00:00
 -- url     : https://prove2.me/theorems/37c910ba-ed29-4c80-b915-c9f093a5e46d

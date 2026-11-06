@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TabooRegen_proposition_2
 -- name    : TabooRegen.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:27:13.555298+00:00
 -- url     : https://prove2.me/theorems/7668c84b-db55-4430-94d6-a083e92d3341

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_two_room_le
 -- name    : PiecesCounted.two_room_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:41.53765+00:00
 -- url     : https://prove2.me/theorems/09f31db8-2a1e-4c16-9bdb-1813b7b5898b

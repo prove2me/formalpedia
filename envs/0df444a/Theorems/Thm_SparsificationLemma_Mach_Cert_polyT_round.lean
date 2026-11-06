@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_Cert_polyT_round
 -- name    : SparsificationLemma.Mach.Cert.polyT_round
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:00.583149+00:00
 -- url     : https://prove2.me/theorems/fe199a2e-0a76-436f-ab93-0f1aaf481f28

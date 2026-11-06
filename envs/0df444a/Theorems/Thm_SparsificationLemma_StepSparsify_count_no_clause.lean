@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_StepSparsify_count_no_clause
 -- name    : SparsificationLemma.StepSparsify.count_no_clause
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:54:37.89738+00:00
 -- url     : https://prove2.me/theorems/23b746d3-5527-4b86-ae1f-21c770de4622

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_timeG_eqs
 -- name    : CircuitLowerBound.Clause.timeG_eqs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:07:43.741092+00:00
 -- url     : https://prove2.me/theorems/a0881fbe-ccd1-4693-a39f-bdd8c716fc36

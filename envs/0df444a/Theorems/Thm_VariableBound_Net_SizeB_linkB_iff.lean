@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_linkB_iff
 -- name    : VariableBound.Net.SizeB.linkB_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:29.644207+00:00
 -- url     : https://prove2.me/theorems/49123ec8-af7f-407d-bf2b-0d5521881a55

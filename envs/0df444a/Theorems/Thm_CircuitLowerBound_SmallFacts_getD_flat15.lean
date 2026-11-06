@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_SmallFacts_getD_flat15
 -- name    : CircuitLowerBound.SmallFacts.getD_flat15
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:35.10212+00:00
 -- url     : https://prove2.me/theorems/4712f311-bd69-417d-beda-27f2a80833cf

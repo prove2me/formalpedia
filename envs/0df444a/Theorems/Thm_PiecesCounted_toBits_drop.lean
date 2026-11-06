@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_toBits_drop
 -- name    : PiecesCounted.toBits_drop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:29.568214+00:00
 -- url     : https://prove2.me/theorems/67c48f5e-819e-4091-acec-501a5361afb3

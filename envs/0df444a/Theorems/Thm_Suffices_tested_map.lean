@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_tested_map
 -- name    : Suffices.tested_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:26:33.353645+00:00
 -- url     : https://prove2.me/theorems/f1725838-de60-4a26-9ddc-09a18cdd637b

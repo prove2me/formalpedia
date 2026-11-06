@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CircuitLowerBound.TabF.G_polyT
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-04T23:27:51.931452+00:00
 -- url     : https://prove2.me/submissions/a03a9470-554e-42dc-9818-050e62b9ca98
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CircuitLowerBound_TabF_clipE_polyT
 import Theorems.Thm_CircuitLowerBound_TabF_clauseAt_polyT

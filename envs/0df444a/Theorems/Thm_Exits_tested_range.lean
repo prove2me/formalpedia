@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_tested_range
 -- name    : Exits.tested_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T17:44:54.257943+00:00
 -- url     : https://prove2.me/theorems/0d2e9543-83af-4447-bf9e-548dfbc4c9a9

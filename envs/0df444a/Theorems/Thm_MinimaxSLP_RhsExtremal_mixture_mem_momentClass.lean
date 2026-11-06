@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsExtremal_mixture_mem_momentClass
 -- name    : MinimaxSLP.RhsExtremal.mixture_mem_momentClass
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:18:24.521968+00:00
 -- url     : https://prove2.me/theorems/cbdbefde-e667-4ba4-a448-467abb2b9c88

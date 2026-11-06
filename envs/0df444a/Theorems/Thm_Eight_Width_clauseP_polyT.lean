@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_clauseP_polyT
 -- name    : Eight.Width.clauseP_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:01:29.033874+00:00
 -- url     : https://prove2.me/theorems/b3d495de-94a2-4f88-a656-08735a74570e

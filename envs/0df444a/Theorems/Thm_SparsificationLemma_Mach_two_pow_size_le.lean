@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_two_pow_size_le
 -- name    : SparsificationLemma.Mach.two_pow_size_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:56.310317+00:00
 -- url     : https://prove2.me/theorems/271ffe93-f35f-44bd-b1aa-46c78b4a4bcb

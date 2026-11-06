@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_FirstPassage_u_tendsto_imp_j1
 -- name    : WhittFLT.FirstPassage.u_tendsto_imp_j1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:23:18.177581+00:00
 -- url     : https://prove2.me/theorems/88d76e95-091b-400b-a413-8e82fcc5f203

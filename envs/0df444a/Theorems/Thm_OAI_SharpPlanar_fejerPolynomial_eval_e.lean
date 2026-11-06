@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejerPolynomial_eval_e
 -- name    : OAI.SharpPlanar.fejerPolynomial_eval_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:56:15.156619+00:00
 -- url     : https://prove2.me/theorems/ed65dfbe-1f35-4583-a652-72c49fc9333b

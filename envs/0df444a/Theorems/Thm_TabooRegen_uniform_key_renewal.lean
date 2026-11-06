@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TabooRegen_uniform_key_renewal
 -- name    : TabooRegen.uniform_key_renewal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:27:42.985682+00:00
 -- url     : https://prove2.me/theorems/ecfe12f3-f9a3-4cc5-b8bc-254a728d2e98

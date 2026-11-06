@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Step_wsum_nextA_of_le
 -- name    : UniformInK.Step.wsum_nextA_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:41:51.404226+00:00
 -- url     : https://prove2.me/theorems/75a5aa41-daac-4b53-b957-fc94ac2a613b

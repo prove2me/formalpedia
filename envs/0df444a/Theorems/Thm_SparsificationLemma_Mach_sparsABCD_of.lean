@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_sparsABCD_of
 -- name    : SparsificationLemma.Mach.sparsABCD_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:21.849039+00:00
 -- url     : https://prove2.me/theorems/132d3d65-b2d9-4cd1-8dee-1b5a83238d1a

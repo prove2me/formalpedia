@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_threeSat_by_algorithm
 -- name    : Exits.threeSat_by_algorithm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:45:58.588027+00:00
 -- url     : https://prove2.me/theorems/b65ed776-8146-44ca-b69f-9c041f74a606

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_sat_leafM
 -- name    : SparsificationLemma.sat_leafM
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:04.42963+00:00
 -- url     : https://prove2.me/theorems/a7805a88-60bb-4b6e-adeb-a20e3c541bb1

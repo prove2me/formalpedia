@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveProtection_Convergence_lemma4_rate_recursion
 -- name    : AdaptiveProtection.Convergence.lemma4_rate_recursion
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:05:49.4125+00:00
 -- url     : https://prove2.me/theorems/906e1ba2-0dcd-4beb-9f09-8cb519175f1e

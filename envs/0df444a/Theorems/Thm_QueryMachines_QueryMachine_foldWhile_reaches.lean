@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_QueryMachine_foldWhile_reaches
 -- name    : QueryMachines.QueryMachine.foldWhile_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:31:27.180196+00:00
 -- url     : https://prove2.me/theorems/3758ea36-1a74-43cb-90c6-5ace97cfa00e

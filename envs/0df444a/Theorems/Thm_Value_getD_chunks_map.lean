@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_getD_chunks_map
 -- name    : Value.getD_chunks_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:50.549206+00:00
 -- url     : https://prove2.me/theorems/a53eadac-9788-4f4c-92fb-1dc312ad2cc6

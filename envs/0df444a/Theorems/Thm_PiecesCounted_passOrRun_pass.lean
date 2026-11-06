@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_passOrRun_pass
 -- name    : PiecesCounted.passOrRun_pass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:02:14.208096+00:00
 -- url     : https://prove2.me/theorems/73301fd3-b828-41b8-8aea-d576c2df4713

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_stJointSumOf
 -- name    : Value.stJointSumOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:26:24.510278+00:00
 -- url     : https://prove2.me/theorems/34802da1-7bb1-4db8-8b2b-03f42448f943

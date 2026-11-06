@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_stKeepsOf
 -- name    : Exits.stKeepsOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:33:41.754607+00:00
 -- url     : https://prove2.me/theorems/f810d231-41ac-43f8-b853-e493a17f6780

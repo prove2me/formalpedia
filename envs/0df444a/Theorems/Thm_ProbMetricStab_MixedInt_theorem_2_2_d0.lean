@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbMetricStab_MixedInt_theorem_2_2_d0
 -- name    : ProbMetricStab.MixedInt.theorem_2_2_d0
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:11:55.857441+00:00
 -- url     : https://prove2.me/theorems/67b55299-10cd-4446-9e2d-d279f99c8061

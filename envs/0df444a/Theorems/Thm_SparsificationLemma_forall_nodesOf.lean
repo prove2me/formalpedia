@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_forall_nodesOf
 -- name    : SparsificationLemma.forall_nodesOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:45.029062+00:00
 -- url     : https://prove2.me/theorems/055a375f-a52a-44cb-932c-bdfecfb482cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_stBetaU
 -- name    : UniformInK.stBetaU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:49.749535+00:00
 -- url     : https://prove2.me/theorems/8c7cef4c-a133-4030-9ff2-19ab2789e207

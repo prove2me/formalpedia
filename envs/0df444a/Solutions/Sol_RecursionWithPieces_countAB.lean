@@ -1,0 +1,78 @@
+-- Prove2me | solution 1 for RecursionWithPieces.countAB
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-05T10:17:38.171205+00:00
+-- url     : https://prove2.me/submissions/6d7c6fb5-c12f-4ef4-90f5-5aa2a60df4c6
+
+/- Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0; SPDX-License-Identifier: Apache-2.0.
+Source and original notices: https://github.com/anthropics/formal-math/blob/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth/NOTICE -/
+import Definitions.Def_UniformInKStatement
+import Definitions.Def_RecursionWithPieces_Defs
+import Definitions.Def_UniformInK_Top_Defs
+import Definitions.Def_RecursionWithPieces_Master
+import Definitions.Def_GeneralPieces_Main
+import Definitions.Def_GeneralPieces_Tied_Bound
+import Definitions.Def_GeneralPieces_Top_CaseI
+import Definitions.Def_GeneralPieces_Num_TopDisplay
+import Definitions.Def_GeneralPieces_Num_PartAUse
+import Definitions.Def_GeneralPieces_ThmRunningTime
+import Definitions.Def_ClauseBound_Alg_Need
+import Definitions.Def_SparsifyThenCount_Main
+import Definitions.Def_SparsifyThenCount_PlanUsed
+import Definitions.Def_SparsifyThenCount_Correct
+import Definitions.Def_SparsifyThenCount_CorrectB
+import Definitions.Def_SparsifyThenCount_Tied
+import Definitions.Def_VariableBound_MainPrinted
+import Definitions.Def_VariableBound_Printed_Tied
+import Definitions.Def_VariableBound_Paper_Decide
+import Definitions.Def_VariableBound_StepParity
+import Definitions.Def_VariableBound_Family_Main
+import Definitions.Def_VariableBound_Field_Family
+import Definitions.Def_VariableBound_Params_Spec
+import Definitions.Def_VariableBound_Params_Ineq
+import Definitions.Def_VariableBound_Search_Correct
+import Definitions.Def_VariableBound_Net_Main
+import Definitions.Def_VariableBound_Net_Ev
+import Definitions.Def_VariableBound_Count_Correct
+import Definitions.Def_VariableBound_Top_Budget
+import Definitions.Def_VariableBound_Top_ArithPlan
+import Definitions.Def_StepSparsify_WalkCount
+import Definitions.Def_StepSparsify_CalServes
+import Definitions.Def_UniformInK_Top_Correct
+import Definitions.Def_UniformInK_Top_CorrectB
+import Definitions.Def_UniformInK_Top_Leaves
+import Definitions.Def_ClauseBound_MainBoth
+import Definitions.Def_ClauseBound_Both_TimeM
+import Definitions.Def_ClauseBound_Alg_TopVal
+import Definitions.Def_ClauseBound_Alg_Decode
+import Definitions.Def_CountKSatRate_Pad
+import Definitions.Def_CountKSatRate_Brute
+import Definitions.Def_RecursionWithPieces_Main
+import Theorems.Thm_RecursionWithPieces_evXFAB
+import Theorems.Thm_ClauseBound_ParityChecks_StepOne_product
+import Theorems.Thm_Groundwork_PolyT_product
+import Theorems.Thm_VariableBound_Fld_stFamD
+import Theorems.Thm_VariableBound_Net_Main_fit
+import Theorems.Thm_VariableBound_Net_Main_nPrMax
+import Theorems.Thm_VariableBound_Net_Main_tbMax
+import Theorems.Thm_VariableBound_emptyList
+import Theorems.Thm_VariableBound_lemFamily
+import Theorems.Thm_VariableBound_paramIneq
+import Theorems.Thm_VariableBound_product
+import Theorems.Thm_VariableBound_stCountD
+import Theorems.Thm_VariableBound_stParamSpec
+import Theorems.Thm_VariableBound_stSearchD
+attribute [local fun_prop] Groundwork.PolyT.product
+
+
+
+set_option autoImplicit false
+section
+section
+open RecursionWithPieces
+open Groundwork PaddedDescent PaddedDescent.F CountKSat CountKSatRate ClauseBound.Alg ClauseBound.Both ClauseBound.ParityChecks ClauseBound.TopN UniformInK VariableBound VariableBound.Decide SparsifyThenCount GeneralPieces
+namespace RecursionWithPieces
+theorem _root_.solution : StCountD :=
+  stCountD evXFAB Net.Main.fit Net.Main.tbMax Net.Main.nPrMax stSearchD (Fld.stFamD lemFamily) stParamSpec paramIneq product emptyList
+end RecursionWithPieces

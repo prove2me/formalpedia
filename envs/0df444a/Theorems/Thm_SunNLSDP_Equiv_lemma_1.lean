@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SunNLSDP_Equiv_lemma_1
 -- name    : SunNLSDP.Equiv.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:39:06.851543+00:00
 -- url     : https://prove2.me/theorems/174d9228-cd0b-4544-941c-c7c41992f4be

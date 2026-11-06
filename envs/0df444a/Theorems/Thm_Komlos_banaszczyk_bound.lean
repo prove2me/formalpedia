@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Komlos_banaszczyk_bound
 -- name    : Komlos.banaszczyk_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-03T20:52:39.18599+00:00
 -- url     : https://prove2.me/theorems/1846fa46-fbad-4294-8e7d-4a74466da581

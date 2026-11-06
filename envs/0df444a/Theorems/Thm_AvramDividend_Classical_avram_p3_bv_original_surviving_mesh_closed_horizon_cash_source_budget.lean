@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p3_bv_original_surviving_mesh_closed_horizon_cash_source_budget
 -- name    : AvramDividend.Classical.avram_p3_bv_original_surviving_mesh_closed_horizon_cash_source_budget
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-04T18:06:16.274193+00:00
 -- url     : https://prove2.me/theorems/dc214082-2223-4ee1-adb9-efe9fc3f1b36

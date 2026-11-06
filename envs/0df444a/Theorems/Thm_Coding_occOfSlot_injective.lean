@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_occOfSlot_injective
 -- name    : Coding.occOfSlot_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:37.067295+00:00
 -- url     : https://prove2.me/theorems/f3c0df42-dc28-48ba-84b2-0e2f0158b1d2

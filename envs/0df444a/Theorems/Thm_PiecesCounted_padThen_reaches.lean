@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_padThen_reaches
 -- name    : PiecesCounted.padThen_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:49.204138+00:00
 -- url     : https://prove2.me/theorems/2b99e26c-b8a2-4af7-9e4f-0392c7c5144a

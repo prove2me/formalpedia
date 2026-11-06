@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_inputOf_polyT
 -- name    : Printed.inputOf_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:42:48.445117+00:00
 -- url     : https://prove2.me/theorems/4b55d363-69a5-42ec-ab69-cf95ad1a29ff

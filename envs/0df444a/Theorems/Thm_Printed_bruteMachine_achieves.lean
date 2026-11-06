@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_bruteMachine_achieves
 -- name    : Printed.bruteMachine_achieves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:57:41.44509+00:00
 -- url     : https://prove2.me/theorems/9c8509a8-5d50-4407-a097-9ce3ef16ac84

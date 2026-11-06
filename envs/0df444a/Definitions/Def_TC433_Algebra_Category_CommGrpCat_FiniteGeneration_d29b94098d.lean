@@ -1,0 +1,139 @@
+-- Prove2me | Definitions.Def_TC433_Algebra_Category_CommGrpCat_FiniteGeneration_d29b94098d
+-- name    : TC433_Algebra_Category_CommGrpCat_FiniteGeneration_d29b94098d
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T11:09:56.484204+00:00
+-- url     : https://prove2.me/theorems/acb3ac3b-c6f6-4329-9020-de22ba2c4da0
+-- title:
+--   TauCeti: Algebra / Category / CommGrpCat / FiniteGeneration
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.Algebra.Category.CommGrpCat.FiniteGeneration for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/Algebra/Category/CommGrpCat/FiniteGeneration.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+
+public import Mathlib.Algebra.Category.Grp.Basic
+public import Mathlib.GroupTheory.Finiteness
+
+/-!
+# Finitely generated commutative groups
+
+This file packages finitely generated commutative groups as a full subcategory of
+`CommGrpCat`.
+
+## Main declarations
+
+* `TauCeti.instFGULift`: universe lifts preserve finite generation of groups.
+* `TauCeti.CommGrpCat.isFG`: the object property of being finitely generated.
+* `TauCeti.FGCommGrpCat`: the category of finitely generated commutative groups.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+open CategoryTheory
+
+namespace TauCeti
+
+universe u v
+
+/-- Universe lifts of finitely generated groups are finitely generated. -/
+instance instFGULift (G : Type v) [Group G] [Group.FG G] :
+    Group.FG (ULift.{u} G) :=
+  Group.fg_of_surjective
+    (f := (MulEquiv.ulift.symm : G ≃* ULift.{u} G).toMonoidHom)
+    MulEquiv.ulift.symm.surjective
+
+namespace CommGrpCat
+
+/-- The object property of being a finitely generated commutative group. -/
+def isFG : ObjectProperty CommGrpCat.{v} :=
+  fun G => Group.FG G
+
+/-- Membership in the finitely generated commutative-group object property. -/
+@[simp]
+theorem isFG_iff (G : CommGrpCat.{v}) :
+    isFG G ↔ Group.FG G :=
+  Iff.rfl
+
+end CommGrpCat
+
+/-- The category of finitely generated commutative groups. -/
+abbrev FGCommGrpCat : Type _ :=
+  CommGrpCat.isFG.FullSubcategory
+
+namespace FGCommGrpCat
+
+/-- The underlying type of a finitely generated commutative group. -/
+@[expose, reducible]
+def carrier (G : FGCommGrpCat.{v}) : Type v :=
+  G.obj
+
+/-- Objects of `FGCommGrpCat` coerce to their underlying type. -/
+instance : CoeSort FGCommGrpCat.{v} (Type v) :=
+  ⟨carrier⟩
+
+attribute [coe] carrier
+
+/-- An object of `FGCommGrpCat` inherits the commutative-group structure of its
+underlying group. -/
+instance (G : FGCommGrpCat.{v}) : CommGroup G :=
+  inferInstanceAs (CommGroup G.obj)
+
+/-- The underlying group of an object of `FGCommGrpCat` is finitely generated. -/
+instance (G : FGCommGrpCat.{v}) : Group.FG G :=
+  G.property
+
+/-- Construct an object of `FGCommGrpCat` from a finitely generated commutative group. -/
+abbrev of (G : Type v) [CommGroup G] [Group.FG G] : FGCommGrpCat.{v} :=
+  ⟨CommGrpCat.of G, (CommGrpCat.isFG_iff _).2 inferInstance⟩
+
+/-- Lift a group homomorphism between finitely generated commutative groups to
+`FGCommGrpCat`. -/
+abbrev ofHom {G H : Type v} [CommGroup G] [Group.FG G] [CommGroup H] [Group.FG H]
+    (φ : G →* H) : of G ⟶ of H :=
+  ObjectProperty.homMk (CommGrpCat.ofHom φ)
+
+/-- The group homomorphism underlying a morphism in `FGCommGrpCat`. -/
+abbrev toMonoidHom {G H : FGCommGrpCat.{v}} (φ : G ⟶ H) : G →* H :=
+  φ.hom.hom
+
+@[simp]
+theorem ofHom_toMonoidHom {G H : FGCommGrpCat.{v}} (φ : G ⟶ H) :
+    ofHom (toMonoidHom φ) = φ :=
+  rfl
+
+@[simp]
+theorem toMonoidHom_ofHom {G H : Type v} [CommGroup G] [Group.FG G]
+    [CommGroup H] [Group.FG H] (φ : G →* H) :
+    toMonoidHom (ofHom φ) = φ :=
+  rfl
+
+/-- Two morphisms in `FGCommGrpCat` are equal when their underlying group homomorphisms
+are equal. -/
+@[ext]
+theorem hom_ext {G H : FGCommGrpCat.{v}} {φ ψ : G ⟶ H}
+    (h : toMonoidHom φ = toMonoidHom ψ) : φ = ψ :=
+  ObjectProperty.hom_ext (P := CommGrpCat.isFG) (CommGrpCat.hom_ext h)
+
+@[simp]
+theorem toMonoidHom_id {G : FGCommGrpCat.{v}} :
+    toMonoidHom (𝟙 G) = MonoidHom.id G :=
+  rfl
+
+@[simp]
+theorem toMonoidHom_comp {G H K : FGCommGrpCat.{v}} (φ : G ⟶ H) (ψ : H ⟶ K) :
+    toMonoidHom (φ ≫ ψ) = (toMonoidHom ψ).comp (toMonoidHom φ) :=
+  rfl
+
+end FGCommGrpCat
+
+end TauCeti
+
+

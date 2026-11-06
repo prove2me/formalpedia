@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EsaOneParticle_positionCore_not_isSelfAdjointOn
 -- name    : BookProof.EsaOneParticle.positionCore_not_isSelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T13:45:45.21585+00:00
 -- url     : https://prove2.me/theorems/8dda6d7a-de92-42b5-9897-5ea76daecb16

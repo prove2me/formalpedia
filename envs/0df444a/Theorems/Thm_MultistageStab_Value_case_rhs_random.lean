@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultistageStab_Value_case_rhs_random
 -- name    : MultistageStab.Value.case_rhs_random
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:13.816016+00:00
 -- url     : https://prove2.me/theorems/6331e46b-278a-4a19-9041-bdaffe0c9472

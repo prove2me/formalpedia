@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfisterCEP_hasDerivAt_smul_unique
 -- name    : PfisterCEP.hasDerivAt_smul_unique
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:26:05.77161+00:00
 -- url     : https://prove2.me/theorems/db9573a9-1855-4ed6-af49-ad994c51192c

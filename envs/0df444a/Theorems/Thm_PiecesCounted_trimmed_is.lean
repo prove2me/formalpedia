@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_trimmed_is
 -- name    : PiecesCounted.trimmed_is
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:21:50.020112+00:00
 -- url     : https://prove2.me/theorems/232d02ca-dd40-45b7-801f-36f371bfb676

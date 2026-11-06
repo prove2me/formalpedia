@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Occ_stTimesFreeCert
 -- name    : Occ.stTimesFreeCert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:38:53.545027+00:00
 -- url     : https://prove2.me/theorems/27488f32-84bc-47b4-bc9b-b231bbf811e0

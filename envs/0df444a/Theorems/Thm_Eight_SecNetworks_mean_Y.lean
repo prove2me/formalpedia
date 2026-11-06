@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_SecNetworks_mean_Y
 -- name    : Eight.SecNetworks.mean_Y
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:52:56.269199+00:00
 -- url     : https://prove2.me/theorems/466199d9-7b4a-4997-a66e-9e4ea02b050f

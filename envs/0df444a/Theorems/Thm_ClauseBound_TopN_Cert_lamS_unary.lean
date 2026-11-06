@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_TopN_Cert_lamS_unary
 -- name    : ClauseBound.TopN.Cert.lamS_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:27:08.009039+00:00
 -- url     : https://prove2.me/theorems/ea6e65cd-76cd-4344-bad9-3ab8fdc9ee0d

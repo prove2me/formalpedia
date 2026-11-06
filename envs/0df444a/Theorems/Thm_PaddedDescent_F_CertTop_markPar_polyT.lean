@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaddedDescent_F_CertTop_markPar_polyT
 -- name    : PaddedDescent.F.CertTop.markPar_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:17:58.411878+00:00
 -- url     : https://prove2.me/theorems/25d04679-3574-41b6-9ff2-77acac3e70fb

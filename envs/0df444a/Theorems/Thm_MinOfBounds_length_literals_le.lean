@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinOfBounds_length_literals_le
 -- name    : MinOfBounds.length_literals_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:58.797228+00:00
 -- url     : https://prove2.me/theorems/e955596a-5e81-45ef-ad5f-4bb18fd50b55

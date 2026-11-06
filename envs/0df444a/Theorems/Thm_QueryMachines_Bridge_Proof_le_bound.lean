@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_Proof_le_bound
 -- name    : QueryMachines.Bridge.Proof.le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:39.530362+00:00
 -- url     : https://prove2.me/theorems/a392b7e4-8a88-49bc-9ec6-77741575921d

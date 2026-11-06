@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_QueryMachine_both_reaches
 -- name    : QueryMachines.QueryMachine.both_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:44:15.609192+00:00
 -- url     : https://prove2.me/theorems/9e29d980-ce4b-4dd9-a73c-eb8e9d15456c

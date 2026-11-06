@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_thePairsSatisfyTheHypothesis
 -- name    : PairsToBound.thePairsSatisfyTheHypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:59:30.743007+00:00
 -- url     : https://prove2.me/theorems/4eb010e1-10ee-49d5-9b42-c3c474f03fab

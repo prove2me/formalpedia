@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjExtremal_dual9_attained
 -- name    : MinimaxSLP.ObjExtremal.dual9_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:09.536978+00:00
 -- url     : https://prove2.me/theorems/ea3e3c4a-b48b-4744-80d6-b532ef4d96ab

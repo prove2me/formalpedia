@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_dropFour_binary
 -- name    : ThmCount.dropFour_binary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:09:57.803976+00:00
 -- url     : https://prove2.me/theorems/f48ec806-ce9f-4fb0-804c-12c00aa90eae

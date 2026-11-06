@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_disk_phase_bound_e
 -- name    : OAI.SharpPlanar.disk_phase_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:55:54.417674+00:00
 -- url     : https://prove2.me/theorems/52e6fb46-b22a-4072-82e2-5d8061763806

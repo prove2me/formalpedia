@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Cal_factIIIy
 -- name    : SparsificationLemma.Cal.factIIIy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:08:06.513464+00:00
 -- url     : https://prove2.me/theorems/3a1fe6d0-08bd-45f6-936e-39dca2646df2

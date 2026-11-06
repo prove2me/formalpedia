@@ -1,0 +1,130 @@
+-- Prove2me | solution 1 for QEC.Locality.EdgeRestrictedStoppedRecursion.existsUnique_edgeOwner
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-05T13:15:45.609204+00:00
+-- url     : https://prove2.me/submissions/7967671f-a3df-4e11-a413-4a858ced994d
+
+import Definitions.Def_QEC_Locality_ConnectivityTradeoff_RecursiveSeparator
+import Definitions.Def_QEC_Locality_SeparatorProfile_Quantitative
+import Definitions.Def_QEC_Locality_SeparatorProfile_StoppedRecursion
+import Theorems.Thm_QEC_Locality_EdgeRestrictedStoppedRecursion_edgeRegion_subset
+import Theorems.Thm_QEC_Coding_ChainComplexData_pureZLogicalQuotientEquivMiddleHomology_mk
+import Theorems.Thm_QEC_Coding_FiniteSymplectic_form_apply
+import Theorems.Thm_QEC_Coding_PauliSymplectic_binaryPauliKrausFamily_operator
+import Theorems.Thm_QEC_QLDPC_CheckIncidence_mem_checkSupport
+import Theorems.Thm_QEC_QLDPC_CheckIncidence_mem_variableSupport
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_checkSupport_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_checkSupport_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_incident_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_incident_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_eq_checkSupport
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_weight_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_weight_inr
+import Theorems.Thm_QEC_QLDPC_mem_chainComplexCSSRowChecks
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_toOperator
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_card_complementCoordinates
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_card_selectedCoordinates
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_extendLocal_apply_localEmbedding
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_localEmbedding_apply
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_selectedPartialTrace_toLinearMap
+import Theorems.Thm_QEC_Semantics_OperatorMatrix_matrixUnit_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_comp_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_id_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localXSupport_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localZSupport_apply
+import Theorems.Thm_QEC_Semantics_QuditSubsystem_additionalRetainedFactorSwap_apply_tmul
+import Theorems.Thm_QEC_Semantics_QuditSubsystem_replacementFactorizedKraus_operator
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_cptp_toLinearMap
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_mapDensity_toOperator
+attribute [local simp] QEC.Coding.ChainComplexData.pureZLogicalQuotientEquivMiddleHomology_mk
+attribute [local simp] QEC.Coding.FiniteSymplectic.form_apply
+attribute [local simp] QEC.Coding.PauliSymplectic.binaryPauliKrausFamily_operator
+attribute [local simp] QEC.QLDPC.CheckIncidence.mem_checkSupport
+attribute [local simp] QEC.QLDPC.CheckIncidence.mem_variableSupport
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_checkSupport_inl
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_checkSupport_inr
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_incident_inl
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_incident_inr
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_eq_checkSupport
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_inl
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_inr
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_weight_inl
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_weight_inr
+attribute [local simp] QEC.QLDPC.mem_chainComplexCSSRowChecks
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_toOperator
+attribute [local simp] QEC.Semantics.FiniteSubsystem.card_complementCoordinates
+attribute [local simp] QEC.Semantics.FiniteSubsystem.card_selectedCoordinates
+attribute [local simp] QEC.Semantics.FiniteSubsystem.extendLocal_apply_localEmbedding
+attribute [local simp] QEC.Semantics.FiniteSubsystem.localEmbedding_apply
+attribute [local simp] QEC.Semantics.FiniteSubsystem.selectedPartialTrace_toLinearMap
+attribute [local simp] QEC.Semantics.OperatorMatrix.matrixUnit_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.comp_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.id_apply
+attribute [local simp] QEC.Semantics.Qubit.localXSupport_apply
+attribute [local simp] QEC.Semantics.Qubit.localZSupport_apply
+attribute [local simp] QEC.Semantics.QuditSubsystem.additionalRetainedFactorSwap_apply_tmul
+attribute [local simp] QEC.Semantics.QuditSubsystem.replacementFactorizedKraus_operator
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_cptp_toLinearMap
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_mapDensity_toOperator
+
+
+
+set_option autoImplicit false
+open QEC QEC.Locality
+universe u
+variable {ι : Type u} [Fintype ι] [DecidableEq ι]
+namespace QEC.Locality
+namespace EdgeRestrictedStoppedRecursion
+theorem _root_.solution
+    {G : ConnectivityGraph ι} {r : Nat} {edges : Finset (ι × ι)} {vertices : Finset ι}
+    (tree : EdgeRestrictedStoppedRecursion G r edges vertices)
+    (edge : ι × ι) (hedge : edge ∈ edges) :
+    ∃! owner : tree.edgeOwnerType, edge ∈ tree.edgeRegion owner := by
+  induction tree generalizing edge with
+  | leaf hsubset hsymmetric hincident hcard =>
+      refine ⟨Unit.unit, ?_, ?_⟩
+      · simpa [edgeRegion] using hedge
+      · intro owner _
+        simpa [edgeOwnerType] using
+          (Subsingleton.elim (α := Unit) owner Unit.unit)
+  | @split edges vertices left separator right hsubset hsymmetric hincident
+      hpartition hminimum hleft hright leftTree rightTree ihLeft ihRight =>
+      by_cases hleftEdge : edge.1 ∈ left ∨ edge.2 ∈ left
+      · have hchild : edge ∈ separatorLeftEdges edges left :=
+          Finset.mem_filter.mpr ⟨hedge, hleftEdge⟩
+        rcases ihLeft edge hchild with ⟨owner, howner, hunique⟩
+        refine ⟨Sum.inl owner, ?_, ?_⟩
+        · simpa [edgeRegion] using howner
+        · intro candidate hcandidate
+          cases candidate with
+          | inl candidate =>
+              exact congrArg Sum.inl (hunique candidate (by simpa [edgeRegion] using hcandidate))
+          | inr candidate =>
+              have hright : edge ∈ separatorRightEdges edges left := by
+                apply rightTree.edgeRegion_subset candidate
+                simpa [edgeRegion] using hcandidate
+              exact False.elim ((Finset.mem_filter.mp hright).2 hleftEdge)
+      · have hchild : edge ∈ separatorRightEdges edges left :=
+          Finset.mem_filter.mpr ⟨hedge, hleftEdge⟩
+        rcases ihRight edge hchild with ⟨owner, howner, hunique⟩
+        refine ⟨Sum.inr owner, ?_, ?_⟩
+        · simpa [edgeRegion] using howner
+        · intro candidate hcandidate
+          cases candidate with
+          | inl candidate =>
+              have hleftRegion : edge ∈ separatorLeftEdges edges left := by
+                apply leftTree.edgeRegion_subset candidate
+                simpa [edgeRegion] using hcandidate
+              exact False.elim (hleftEdge (Finset.mem_filter.mp hleftRegion).2)
+          | inr candidate =>
+              exact congrArg Sum.inr (hunique candidate (by simpa [edgeRegion] using hcandidate))
+end EdgeRestrictedStoppedRecursion
+end QEC.Locality

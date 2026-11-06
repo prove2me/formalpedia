@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_zero_padOcc
 -- name    : Coding.zero_padOcc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:23.163483+00:00
 -- url     : https://prove2.me/theorems/e7112abf-f441-4575-ac9b-7c866723b59e

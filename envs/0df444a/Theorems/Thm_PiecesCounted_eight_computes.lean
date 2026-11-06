@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_eight_computes
 -- name    : PiecesCounted.eight_computes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:12:20.740178+00:00
 -- url     : https://prove2.me/theorems/4daf3deb-e455-4114-a0fb-3bb6d9432d48

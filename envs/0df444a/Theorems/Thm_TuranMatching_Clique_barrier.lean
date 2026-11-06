@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_Clique_barrier
 -- name    : TuranMatching.Clique.barrier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:30:43.755169+00:00
 -- url     : https://prove2.me/theorems/5eed525d-b738-4b2a-bd73-f2953a7d01ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphProblems_readF_aux
 -- name    : GraphProblems.readF_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:58:53.699854+00:00
 -- url     : https://prove2.me/theorems/528e8088-a30a-47c7-9465-16ccdb55fe35

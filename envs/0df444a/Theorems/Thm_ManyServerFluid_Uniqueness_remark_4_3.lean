@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerFluid_Uniqueness_remark_4_3
 -- name    : ManyServerFluid.Uniqueness.remark_4_3
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:47:55.174976+00:00
 -- url     : https://prove2.me/theorems/62389cad-1bea-40d1-b133-ff25dd91e6b9

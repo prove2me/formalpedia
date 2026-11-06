@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Rename_decC_encC
 -- name    : VariableBound.Rename.decC_encC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:48.183927+00:00
 -- url     : https://prove2.me/theorems/90829897-71a8-4b50-9480-cb34b308a092

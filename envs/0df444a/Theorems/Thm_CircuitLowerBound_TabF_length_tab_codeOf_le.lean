@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_length_tab_codeOf_le
 -- name    : CircuitLowerBound.TabF.length_tab_codeOf_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:06:48.148804+00:00
 -- url     : https://prove2.me/theorems/5020724b-930b-46f3-9b72-52753c738d7f

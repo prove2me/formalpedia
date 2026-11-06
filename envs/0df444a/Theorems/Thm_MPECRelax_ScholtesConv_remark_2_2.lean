@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPECRelax_ScholtesConv_remark_2_2
 -- name    : MPECRelax.ScholtesConv.remark_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:46:48.041585+00:00
 -- url     : https://prove2.me/theorems/84920a73-2b81-4a0e-802c-617d740b172d

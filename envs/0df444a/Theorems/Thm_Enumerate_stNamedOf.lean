@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Enumerate_stNamedOf
 -- name    : Enumerate.stNamedOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:37:22.234065+00:00
 -- url     : https://prove2.me/theorems/a26d7ed4-a1d7-4677-a62c-f23ae675cb73

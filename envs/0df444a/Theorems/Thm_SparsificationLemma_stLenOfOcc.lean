@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_stLenOfOcc
 -- name    : SparsificationLemma.stLenOfOcc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:21:06.041694+00:00
 -- url     : https://prove2.me/theorems/54c9a159-42f9-42a4-a089-ba844d82f5ef

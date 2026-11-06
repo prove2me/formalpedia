@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrimalDualLDR_FixedRecourse_proposition_2
 -- name    : PrimalDualLDR.FixedRecourse.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:53:37.054961+00:00
 -- url     : https://prove2.me/theorems/f82a5716-28de-4330-aa41-ebeca97d9036

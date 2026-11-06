@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_eq_of_lex
 -- name    : Coding.eq_of_lex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:52.698201+00:00
 -- url     : https://prove2.me/theorems/ca809dec-8d45-465d-811a-64fbeca42310

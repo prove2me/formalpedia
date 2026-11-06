@@ -1,0 +1,437 @@
+-- Prove2me | Definitions.Def_TC433_Algebra_Lie_E6_DoubledMinuscule_BaseChange_d15ef2f1df
+-- name    : TC433_Algebra_Lie_E6_DoubledMinuscule_BaseChange_d15ef2f1df
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T17:05:15.161248+00:00
+-- url     : https://prove2.me/theorems/e4d792e6-70a3-4f78-956d-94d25712ab47
+-- title:
+--   TauCeti: Algebra / Lie / E6 / DoubledMinuscule / BaseChange
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.Algebra.Lie.E6.DoubledMinuscule.BaseChange for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/Algebra/Lie/E6/DoubledMinuscule/BaseChange.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+
+public import Definitions.Def_TC433_Algebra_Lie_E6_DoubledMinuscule_GroupScheme_7f2fc5f8f4
+public import Definitions.Def_TC433_Algebra_Lie_UniversalEnveloping_Kostant_RootSubgroup_Scheme_ToralClosure_GeneralLinearBaseChange_5e19eb56c3
+
+/-!
+# Base change of the full-weight doubled type-E6 minuscule carrier
+
+`TauCeti.E6DoubledMinuscule.groupScheme` is the explicit integral affine group scheme obtained by
+closing the twelve numbered type-`E₆` root subgroups and the fifty-four-weight torus of
+`V(ϖ₁) ⊕ V(ϖ₆)` inside `GL₅₄`. This file specializes the base-change construction for a general
+Kostant toral closure to that pinned carrier.
+
+For every commutative ring `A`, `TauCeti.E6DoubledMinuscule.baseChangeDefiningIdeal` is an ideal in
+`O(GL₅₄/A)` whose quotient is canonically the scalar extension of the integral coordinate Hopf
+algebra. The transported numbered root-subgroup maps and weight-torus map factor through that
+quotient. Thus the integral carrier and its pinned generators base-change together; none of the
+data is chosen anew over `A`.
+
+The defining ideal transported from `ℤ` is contained in the common kernel of the transported
+generators. Equality is not asserted over an arbitrary, possibly non-flat, base: additional
+equations can appear after specialization. Nor does this file assert that the carrier is reductive,
+that its torus is maximal, that its root datum has been identified, or that the `E₆` diagram
+symmetry the doubled index set was assembled to carry acts on it.
+
+## Main declarations
+
+* `TauCeti.E6DoubledMinuscule.baseChangeDefiningIdeal`: the transported defining ideal in
+  `O(GL₅₄/A)`.
+* `TauCeti.E6DoubledMinuscule.baseChangeCoordinateIso`: its quotient is the scalar extension of the
+  integral carrier coordinate Hopf algebra.
+* `TauCeti.E6DoubledMinuscule.rootSubgroupToBaseChangeCoordinateMap`: the transported numbered root
+  subgroup factored through the specialized carrier.
+* `TauCeti.E6DoubledMinuscule.weightTorusToBaseChangeCoordinateMap`: the transported weight torus
+  factored through the specialized carrier.
+
+## Main results
+
+* `TauCeti.E6DoubledMinuscule.mkQuotient_comp_baseChangeCoordinateIso_hom`: the coordinate
+  isomorphism is compatible with the quotient presentations.
+* `TauCeti.E6DoubledMinuscule.baseChangeCoordinateIso_hom_comp_rootSubgroupBaseChangeMap` and
+  `TauCeti.E6DoubledMinuscule.baseChangeCoordinateIso_hom_comp_weightTorusBaseChangeMap`: the
+  pinned generators are the scalar extensions of their integral coordinate maps.
+* `TauCeti.E6DoubledMinuscule.hopfSpec_map_rootSubgroupIntegralCoordinateMap_op` and
+  `TauCeti.E6DoubledMinuscule.hopfSpec_map_weightTorusIntegralCoordinateMap_op`: the integral
+  coordinate maps represent the existing pinned morphisms.
+* `TauCeti.E6DoubledMinuscule.baseChangeDefiningIdeal_le_commonKernel`: the transported carrier
+  contains the subgroup generated after base change by the transported maps.
+
+## References
+
+* R. W. Carter, *Simple Groups of Lie Type*, §§4.4 and 12.2.
+* J. E. Humphreys, *Linear Algebraic Groups*, §§26--27.
+* B. Conrad, *Reductive Group Schemes*, §1.
+
+This advances the base-change target in Layer 9 of `TauCetiRoadmap/ReductiveGroups/README.md`. The
+resulting specialized pinned carrier is an input to milestone L0, "pinned ambient groups", of
+`TauCetiRoadmap/CFSGStatement/README.md`, on the branch `²E₆(q)` that the doubled carrier serves.
+
+The declaration structure specializes the formal template in
+`TauCeti.Algebra.Lie.E6.Minuscule.BaseChange`, itself following
+`TauCeti.Algebra.Lie.Symplectic.StandardCarrier.BaseChange`. Every construction below uses the
+generic Kostant base-change API from
+`Kostant/RootSubgroup/Scheme/ToralClosure/GeneralLinearBaseChange.lean`; in particular, none of the
+coordinate-ring calculation is repeated here.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+open CategoryTheory
+open TauCeti.DynkinType
+open TauCeti.UniversalEnvelopingAlgebra
+open scoped Matrix TensorProduct
+
+namespace TauCeti.E6DoubledMinuscule
+
+universe v
+
+noncomputable section
+
+attribute [local instance] TauCeti.moduleNNRat
+attribute [local instance 100] LieRing.ofAssociativeRing
+attribute [local instance high] Algebra.toModule
+
+variable (A : Type v) [CommRing A]
+
+/-- The Hopf ideal in `O(GL₅₄/A)` obtained by transporting the defining ideal of the integral
+full-weight doubled type-`E₆` minuscule carrier along `ℤ → A`. -/
+noncomputable def baseChangeDefiningIdeal :
+    HopfIdeal A (GeneralLinear.coordinateHopfAlgebra A 54) :=
+  kostantToralBaseChangePresentationIdeal
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A
+
+/-- The transported defining ideal is the ideal supplied by the generic Kostant toral-closure base
+change. -/
+theorem baseChangeDefiningIdeal_def :
+    baseChangeDefiningIdeal A =
+      kostantToralBaseChangePresentationIdeal
+        (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+        (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+        rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+        matrixWeight A := by
+  rw [baseChangeDefiningIdeal]
+
+/-- Membership in the transported defining ideal is membership of the corresponding element in the
+base change of the named integral defining ideal. -/
+@[simp]
+theorem mem_baseChangeDefiningIdeal_iff
+    {x : GeneralLinear.coordinateHopfAlgebra A 54} :
+    x ∈ baseChangeDefiningIdeal A ↔
+      (GeneralLinear.coordinateHopfAlgebraBaseChangeIso ℤ A 54).inv.hom x ∈
+        CommHopfAlgCat.baseChangeHopfIdeal (K := A) definingIdeal := by
+  rw [baseChangeDefiningIdeal, mem_kostantToralBaseChangePresentationIdeal_iff,
+    kostantToralBaseChangeIdeal_def, ← definingIdeal_def]
+
+/-- Transporting a pure tensor of a scalar and an integral defining equation produces an equation
+in the transported defining ideal. -/
+theorem map_tmul_mem_baseChangeDefiningIdeal_of_mem (s : A)
+    {y : GeneralLinear.coordinateHopfAlgebra ℤ 54} (hy : y ∈ definingIdeal) :
+    (GeneralLinear.coordinateHopfAlgebraBaseChangeIso ℤ A 54).hom.hom
+        (s ⊗ₜ[ℤ] y) ∈ baseChangeDefiningIdeal A := by
+  rw [baseChangeDefiningIdeal]
+  exact map_tmul_mem_kostantToralBaseChangePresentationIdeal_of_mem
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A s (definingIdeal_def ▸ hy)
+
+/-- The coordinate Hopf algebra cut out over `A` by the transported doubled type-`E₆` defining
+ideal is canonically the scalar extension of the integral coordinate Hopf algebra. -/
+noncomputable def baseChangeCoordinateIso :
+    CommHopfAlgCat.quotient (GeneralLinear.coordinateHopfAlgebra A 54)
+        (baseChangeDefiningIdeal A) ≅
+      CommHopfAlgCat.baseChange (K := A)
+        (CommHopfAlgCat.quotient (GeneralLinear.coordinateHopfAlgebra ℤ 54) definingIdeal) :=
+  kostantToralBaseChangePresentationIsoOfEq
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A definingIdeal_def
+
+/-- The base-change coordinate isomorphism is compatible with the quotient presentation inside
+`GL₅₄`. -/
+@[simp]
+theorem mkQuotient_comp_baseChangeCoordinateIso_hom :
+    CommHopfAlgCat.mkQuotient (GeneralLinear.coordinateHopfAlgebra A 54)
+          (baseChangeDefiningIdeal A) ≫
+        (baseChangeCoordinateIso A).hom =
+      (GeneralLinear.coordinateHopfAlgebraBaseChangeIso ℤ A 54).inv ≫
+        CommHopfAlgCat.baseChangeMap
+          (CommHopfAlgCat.mkQuotient
+            (GeneralLinear.coordinateHopfAlgebra ℤ 54) definingIdeal) := by
+  rw [baseChangeCoordinateIso]
+  exact mkQuotient_comp_kostantToralBaseChangePresentationIsoOfEq_hom
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A definingIdeal_def
+
+/-! ## The transported root subgroups -/
+
+/-- The integral `k`th root-subgroup coordinate map, with source expressed using the named doubled
+type-`E₆` defining ideal. -/
+noncomputable def rootSubgroupIntegralCoordinateMap (k : Fin 6 ⊕ Fin 6) :
+    CommHopfAlgCat.quotient (GeneralLinear.coordinateHopfAlgebra ℤ 54) definingIdeal ⟶
+      AdditiveGroup.coordinateHopfAlgebra ℤ :=
+  kostantRootSubgroupToralCoordinateMapOfEq
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight definingIdeal_def k
+
+/-- The integral factored root-subgroup map recovers the represented `k`th root-subgroup coordinate
+map inside `GL₅₄`. -/
+@[simp]
+theorem mkQuotient_comp_rootSubgroupIntegralCoordinateMap (k : Fin 6 ⊕ Fin 6) :
+    CommHopfAlgCat.mkQuotient (GeneralLinear.coordinateHopfAlgebra ℤ 54) definingIdeal ≫
+        rootSubgroupIntegralCoordinateMap k =
+      kostantRootSubgroupCoordinateMap
+        (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+        (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+        rep_kostantForm_mem_lattice k (isNilpotent_rep_serreRootGenerator k) matrixBasis := by
+  rw [rootSubgroupIntegralCoordinateMap]
+  exact mkQuotient_comp_kostantRootSubgroupToralCoordinateMapOfEq
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight definingIdeal_def k
+
+/-- The integral factored root-subgroup coordinate map represents the carrier's `k`th numbered root
+subgroup. -/
+theorem hopfSpec_map_rootSubgroupIntegralCoordinateMap_op (k : Fin 6 ⊕ Fin 6) :
+    (AlgebraicGeometry.hopfSpec (CommRingCat.of ℤ)).map
+        (rootSubgroupIntegralCoordinateMap k).op =
+      eqToHom (AdditiveGroup.groupScheme_def ℤ).symm ≫
+        rootSubgroup k ≫ eqToHom groupScheme_def := by
+  rw [rootSubgroupIntegralCoordinateMap, rootSubgroup_def]
+  exact hopfSpec_map_kostantRootSubgroupToralCoordinateMapOfEq_op
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight definingIdeal_def k
+
+/-- The base-changed `k`th root-subgroup coordinate map factored through the transported doubled
+type-`E₆` carrier. -/
+noncomputable def rootSubgroupToBaseChangeCoordinateMap (k : Fin 6 ⊕ Fin 6) :
+    CommHopfAlgCat.quotient (GeneralLinear.coordinateHopfAlgebra A 54)
+        (baseChangeDefiningIdeal A) ⟶ AdditiveGroup.coordinateHopfAlgebra A :=
+  kostantRootSubgroupToralBaseChangePresentationCoordinateMap
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A k
+
+/-- The factored root-subgroup map recovers its ambient transported coordinate map. -/
+@[simp]
+theorem mkQuotient_comp_rootSubgroupToBaseChangeCoordinateMap (k : Fin 6 ⊕ Fin 6) :
+    CommHopfAlgCat.mkQuotient (GeneralLinear.coordinateHopfAlgebra A 54)
+          (baseChangeDefiningIdeal A) ≫
+        rootSubgroupToBaseChangeCoordinateMap A k =
+      kostantRootSubgroupBaseChangePresentationCoordinateMap
+        (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+        (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+        rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis A k := by
+  unfold baseChangeDefiningIdeal rootSubgroupToBaseChangeCoordinateMap
+  exact mkQuotient_comp_kostantRootSubgroupToralBaseChangePresentationCoordinateMap
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A k
+
+/-- Under the base-change coordinate isomorphism, the factored `k`th root-subgroup map is the
+scalar extension of its integral coordinate map. -/
+@[simp]
+theorem baseChangeCoordinateIso_hom_comp_rootSubgroupBaseChangeMap (k : Fin 6 ⊕ Fin 6) :
+    (baseChangeCoordinateIso A).hom ≫
+          CommHopfAlgCat.baseChangeMap (rootSubgroupIntegralCoordinateMap k) ≫
+        (_root_.CommHopfAlgCat.ofHom
+          (AdditiveGroup.gaScalarTensorBialgEquiv (k := ℤ) (K := A))) =
+      rootSubgroupToBaseChangeCoordinateMap A k := by
+  rw [baseChangeCoordinateIso, rootSubgroupIntegralCoordinateMap,
+    rootSubgroupToBaseChangeCoordinateMap]
+  exact kostantToralBaseChangePresentationIsoOfEq_hom_comp_rootSubgroupBaseChangeMap
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A definingIdeal_def k
+
+/-! ## The transported weight torus -/
+
+/-- The integral weight-torus coordinate map, with source expressed using the named doubled
+type-`E₆` defining ideal. -/
+noncomputable def weightTorusIntegralCoordinateMap :
+    CommHopfAlgCat.quotient (GeneralLinear.coordinateHopfAlgebra ℤ 54) definingIdeal ⟶
+      (DiagonalizableGroup.coordinateRing ℤ
+        (SplitTorus.characterGroup (Fin 6))).obj :=
+  kostantWeightTorusToralCoordinateMapOfEq
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight definingIdeal_def
+
+/-- The integral factored weight-torus map recovers the represented weight-torus coordinate map
+inside `GL₅₄`. -/
+@[simp]
+theorem mkQuotient_comp_weightTorusIntegralCoordinateMap :
+    CommHopfAlgCat.mkQuotient (GeneralLinear.coordinateHopfAlgebra ℤ 54) definingIdeal ≫
+        weightTorusIntegralCoordinateMap =
+      GeneralLinear.weightTorusCoordinateMap matrixWeight := by
+  rw [weightTorusIntegralCoordinateMap]
+  exact mkQuotient_comp_kostantWeightTorusToralCoordinateMapOfEq
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight definingIdeal_def
+
+/-- The integral factored weight-torus coordinate map represents the carrier's weight torus. -/
+theorem hopfSpec_map_weightTorusIntegralCoordinateMap_op :
+    (AlgebraicGeometry.hopfSpec (CommRingCat.of ℤ)).map
+        weightTorusIntegralCoordinateMap.op =
+      eqToHom (DiagonalizableGroup.groupScheme_def ℤ
+          (SplitTorus.characterGroup (Fin 6))).symm ≫
+        weightTorus ≫ eqToHom groupScheme_def := by
+  rw [weightTorusIntegralCoordinateMap, weightTorus_def]
+  exact hopfSpec_map_kostantWeightTorusToralCoordinateMapOfEq_op
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight definingIdeal_def
+
+/-- The base-changed weight-torus coordinate map factored through the transported doubled type-`E₆`
+carrier. -/
+noncomputable def weightTorusToBaseChangeCoordinateMap :
+    CommHopfAlgCat.quotient (GeneralLinear.coordinateHopfAlgebra A 54)
+        (baseChangeDefiningIdeal A) ⟶
+      (DiagonalizableGroup.coordinateRing A
+        (SplitTorus.characterGroup (Fin 6))).obj :=
+  kostantWeightTorusToralBaseChangePresentationCoordinateMap
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A
+
+/-- The factored weight-torus map recovers its ambient transported coordinate map. -/
+@[simp]
+theorem mkQuotient_comp_weightTorusToBaseChangeCoordinateMap :
+    CommHopfAlgCat.mkQuotient (GeneralLinear.coordinateHopfAlgebra A 54)
+          (baseChangeDefiningIdeal A) ≫
+        weightTorusToBaseChangeCoordinateMap A =
+      GeneralLinear.weightTorusBaseChangeCoordinateMap ℤ A matrixWeight := by
+  unfold baseChangeDefiningIdeal weightTorusToBaseChangeCoordinateMap
+  exact mkQuotient_comp_kostantWeightTorusToralBaseChangePresentationCoordinateMap
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A
+
+/-- Under the base-change coordinate isomorphism, the factored weight-torus map is the scalar
+extension of its integral coordinate map. -/
+@[simp]
+theorem baseChangeCoordinateIso_hom_comp_weightTorusBaseChangeMap :
+    (baseChangeCoordinateIso A).hom ≫
+          CommHopfAlgCat.baseChangeMap weightTorusIntegralCoordinateMap ≫
+        (_root_.CommHopfAlgCat.ofHom
+          (BialgHomClass.toBialgHom
+            (TauCeti.MonoidAlgebra.scalarTensorBialgEquiv ℤ A
+              (G := SplitTorus.characterGroup (Fin 6))))) =
+      weightTorusToBaseChangeCoordinateMap A := by
+  rw [baseChangeCoordinateIso, weightTorusIntegralCoordinateMap,
+    weightTorusToBaseChangeCoordinateMap]
+  exact kostantToralBaseChangePresentationIsoOfEq_hom_comp_weightTorusBaseChangeMap
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A definingIdeal_def
+
+/-- The coordinate Hopf algebra of the doubled minuscule carrier after base change to `A`. -/
+noncomputable abbrev coordinateHopfAlgebra :=
+  CommHopfAlgCat.quotient (GeneralLinear.coordinateHopfAlgebra A 54)
+    (baseChangeDefiningIdeal A)
+
+/-- The quotient coordinate morphism representing the carrier's closed immersion into `GL₅₄`. -/
+noncomputable def coordinateMap :
+    GeneralLinear.coordinateHopfAlgebra A 54 ⟶ coordinateHopfAlgebra A :=
+  CommHopfAlgCat.mkQuotient _ (baseChangeDefiningIdeal A)
+
+/-- The carrier coordinate morphism is surjective. -/
+theorem coordinateMap_surjective : Function.Surjective (coordinateMap A).hom :=
+  CommHopfAlgCat.mkQuotient_surjective _ _
+
+/-- The kernel of the carrier coordinate morphism is its transported defining ideal. -/
+@[simp]
+theorem coordinateMap_ker :
+    RingHom.ker (coordinateMap A).hom = (baseChangeDefiningIdeal A).toIdeal :=
+  CommHopfAlgCat.mkQuotient_ker _ _
+
+/-- The coordinate algebras of the numbered root subgroups and weight torus. -/
+noncomputable abbrev generatorCoordinateAlgebra :
+    Sum (Fin 6 ⊕ Fin 6) Unit → CommHopfAlgCat A
+  | .inl _ => AdditiveGroup.coordinateHopfAlgebra A
+  | .inr _ => (DiagonalizableGroup.coordinateRing A
+      (SplitTorus.characterGroup (Fin 6))).obj
+
+/-- The coordinate maps of the numbered root subgroups and weight torus into `GL₅₄`. -/
+noncomputable def generatorCoordinateMap (j : Sum (Fin 6 ⊕ Fin 6) Unit) :
+    GeneralLinear.coordinateHopfAlgebra A 54 ⟶ generatorCoordinateAlgebra A j :=
+  match j with
+  | .inl i =>
+      kostantRootSubgroupBaseChangePresentationCoordinateMap
+        (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+        (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+        rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis A i
+  | .inr _ => GeneralLinear.weightTorusBaseChangeCoordinateMap ℤ A matrixWeight
+
+/-- The root branch of the generator family is the transported root-subgroup map. -/
+@[simp]
+theorem generatorCoordinateMap_inl (i : Fin 6 ⊕ Fin 6) :
+    generatorCoordinateMap A (.inl i) =
+      kostantRootSubgroupBaseChangePresentationCoordinateMap
+        (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+        (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+        rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis A i := by
+  simp [generatorCoordinateMap]
+
+/-- The torus branch of the generator family is the transported weight-torus map. -/
+@[simp]
+theorem generatorCoordinateMap_inr :
+    generatorCoordinateMap A (.inr ()) =
+      GeneralLinear.weightTorusBaseChangeCoordinateMap ℤ A matrixWeight := by
+  simp [generatorCoordinateMap]
+
+/-- The closed subgroup of `GL₅₄/A` generated by the transported numbered root subgroups and weight
+torus lies in the base change of the integral doubled type-`E₆` carrier.
+
+The reverse inclusion is not asserted over an arbitrary base ring. -/
+theorem baseChangeDefiningIdeal_le_commonKernel :
+    baseChangeDefiningIdeal A ≤
+      CommHopfAlgCat.commonKernelHopfIdeal (generatorCoordinateMap A) := by
+  have h := kostantToralBaseChangePresentationIdeal_le_commonKernelHopfIdeal
+    (TauCeti.serreRootGenerator (CartanMatrix.E 6)ᵀ)
+    (TauCeti.serreH ℚ (CartanMatrix.E 6)ᵀ) rep lattice.toAddSubgroup
+    rep_kostantForm_mem_lattice isNilpotent_rep_serreRootGenerator matrixBasis
+    matrixWeight A
+  -- Compare the generic family with the named generators branchwise.
+  dsimp only at h ⊢
+  rw [CommHopfAlgCat.le_commonKernelHopfIdeal_iff] at h ⊢
+  rintro (k | _)
+  · exact h (.inl k)
+  · exact h (.inr ())
+
+end
+
+end TauCeti.E6DoubledMinuscule
+
+

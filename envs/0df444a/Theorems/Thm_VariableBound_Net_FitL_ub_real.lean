@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_FitL_ub_real
 -- name    : VariableBound.Net.FitL.ub_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:36.555713+00:00
 -- url     : https://prove2.me/theorems/5588a05f-c6ea-40c8-81a0-a31c3227d089

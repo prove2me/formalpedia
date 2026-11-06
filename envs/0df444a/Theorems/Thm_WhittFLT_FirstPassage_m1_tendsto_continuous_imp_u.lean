@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_FirstPassage_m1_tendsto_continuous_imp_u
 -- name    : WhittFLT.FirstPassage.m1_tendsto_continuous_imp_u
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:09.765144+00:00
 -- url     : https://prove2.me/theorems/b6bce989-112c-4fbb-a2a5-0494bf442b52

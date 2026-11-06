@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_display_eq
 -- name    : Value.display_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:51.916382+00:00
 -- url     : https://prove2.me/theorems/9c9723f6-0e75-4e7c-befc-7034eaa1e4a1

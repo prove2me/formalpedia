@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_clauseCountPow_of_two_le
 -- name    : PairsToBound.clauseCountPow_of_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:49.969346+00:00
 -- url     : https://prove2.me/theorems/44cbdfdc-1f09-4783-a2b1-25a5ba75a9e9

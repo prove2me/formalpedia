@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UncertainPricing_Superrep_lemma_5_4
 -- name    : UncertainPricing.Superrep.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:55.303863+00:00
 -- url     : https://prove2.me/theorems/42ec7bf2-c8a4-440c-be0e-c622c392f528

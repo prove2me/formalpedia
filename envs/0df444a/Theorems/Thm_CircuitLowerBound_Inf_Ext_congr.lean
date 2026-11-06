@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Inf_Ext_congr
 -- name    : CircuitLowerBound.Inf.Ext.congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:21.117467+00:00
 -- url     : https://prove2.me/theorems/3f4d1766-5fb5-4b10-b2a3-f02ff0c9cbaf

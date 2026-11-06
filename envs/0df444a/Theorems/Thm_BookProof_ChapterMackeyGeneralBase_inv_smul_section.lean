@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_inv_smul_section
 -- name    : BookProof.ChapterMackeyGeneralBase.inv_smul_section
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:27.10958+00:00
 -- url     : https://prove2.me/theorems/1d1355aa-3775-4ae3-af60-8ead253e99ce

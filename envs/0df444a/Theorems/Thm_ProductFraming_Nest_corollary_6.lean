@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductFraming_Nest_corollary_6
 -- name    : ProductFraming.Nest.corollary_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:08:21.053985+00:00
 -- url     : https://prove2.me/theorems/00949f68-76f4-488f-993a-c88fb1da1f07

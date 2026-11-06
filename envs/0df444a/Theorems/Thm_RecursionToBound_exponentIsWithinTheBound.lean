@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_exponentIsWithinTheBound
 -- name    : RecursionToBound.exponentIsWithinTheBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:13:53.905192+00:00
 -- url     : https://prove2.me/theorems/7df9cec9-8908-4797-91e1-a2bcf719ea0e

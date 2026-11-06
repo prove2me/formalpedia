@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Search_argminD_polyT
 -- name    : VariableBound.Search.argminD_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:42:33.987618+00:00
 -- url     : https://prove2.me/theorems/f5f2a1ca-3a2a-42d7-a0de-bd978a5b7f83

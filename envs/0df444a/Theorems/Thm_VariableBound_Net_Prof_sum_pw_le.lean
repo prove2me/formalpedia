@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Prof_sum_pw_le
 -- name    : VariableBound.Net.Prof.sum_pw_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:45:34.725122+00:00
 -- url     : https://prove2.me/theorems/9e192196-1a1d-4013-819b-49d1a2571002

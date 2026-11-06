@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_edge_maximal_planar_completion__p2m_9c07cfc8_fca3_44bb_9466_8248a8f68ed4_a1
 -- name    : WilliamsonShmoys.exists_edge_maximal_planar_completion__p2m_9c07cfc8_fca3_44bb_9466_8248a8f68ed4_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:05:38.422338+00:00
 -- url     : https://prove2.me/theorems/99f498ba-8796-40c9-a103-6d7b97940db4

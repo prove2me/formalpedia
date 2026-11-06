@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_length_enc_succ_le
 -- name    : PairsToBound.length_enc_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:59:19.572102+00:00
 -- url     : https://prove2.me/theorems/37af5baa-bfc5-488f-8c2f-39dcddc5c8af

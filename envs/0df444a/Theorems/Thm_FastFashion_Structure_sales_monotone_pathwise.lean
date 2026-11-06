@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Structure_sales_monotone_pathwise
 -- name    : FastFashion.Structure.sales_monotone_pathwise
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:11:20.698744+00:00
 -- url     : https://prove2.me/theorems/51bbf6db-8643-4f43-b185-499171dee588

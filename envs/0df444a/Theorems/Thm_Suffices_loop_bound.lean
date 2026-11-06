@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Suffices_loop_bound
 -- name    : Suffices.loop_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:26:08.90129+00:00
 -- url     : https://prove2.me/theorems/760ae5d3-4d23-44b4-b3a8-40f67fc991d8

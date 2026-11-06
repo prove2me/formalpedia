@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_SmallFacts_nu_two_mul
 -- name    : CircuitLowerBound.SmallFacts.nu_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:01.186929+00:00
 -- url     : https://prove2.me/theorems/328a59b7-0c2c-4620-80b5-23a71a752b82

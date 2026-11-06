@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriendlyShadow_Gaussian_theorem_13
 -- name    : FriendlyShadow.Gaussian.theorem_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:18:34.670329+00:00
 -- url     : https://prove2.me/theorems/30c62726-62ea-47c1-97bd-6f0d8c03e9ce

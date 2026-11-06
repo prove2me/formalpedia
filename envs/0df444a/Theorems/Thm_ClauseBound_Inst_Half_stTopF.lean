@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_stTopF
 -- name    : ClauseBound.Inst.Half.stTopF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:41:43.62032+00:00
 -- url     : https://prove2.me/theorems/f0764049-6916-49ba-9f30-ea81a9d896df

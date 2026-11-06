@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_u_bound_e
 -- name    : OAI.SharpPlanar.u_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:51:06.054615+00:00
 -- url     : https://prove2.me/theorems/dcf92f35-7025-4b24-8bcf-d13d4c9d7c9a

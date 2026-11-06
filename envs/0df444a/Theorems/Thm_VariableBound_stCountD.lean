@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_stCountD
 -- name    : VariableBound.stCountD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:48.949922+00:00
 -- url     : https://prove2.me/theorems/8e78b05a-04fa-4b1a-93bb-fbedeb7a5a06

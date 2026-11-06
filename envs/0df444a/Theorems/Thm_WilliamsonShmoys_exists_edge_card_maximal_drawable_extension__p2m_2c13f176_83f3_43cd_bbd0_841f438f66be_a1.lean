@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_edge_card_maximal_drawable_extension__p2m_2c13f176_83f3_43cd_bbd0_841f438f66be_a1
 -- name    : WilliamsonShmoys.exists_edge_card_maximal_drawable_extension__p2m_2c13f176_83f3_43cd_bbd0_841f438f66be_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:28:08.490299+00:00
 -- url     : https://prove2.me/theorems/eb4260ba-9d59-4700-a2ea-3c6102b49134

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashStackelberg_theorem_4
 -- name    : NashStackelberg.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:19:58.607993+00:00
 -- url     : https://prove2.me/theorems/806f9dda-9aad-4232-8655-23f5cdadb56c

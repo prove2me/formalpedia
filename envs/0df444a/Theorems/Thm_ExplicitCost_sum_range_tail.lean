@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_sum_range_tail
 -- name    : ExplicitCost.sum_range_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:58:53.569087+00:00
 -- url     : https://prove2.me/theorems/bc22537c-6934-4aa6-8880-040c0a0cb23b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_lvlPsiSize_le
 -- name    : Eight.ViaGrouping.lvlPsiSize_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:43.731408+00:00
 -- url     : https://prove2.me/theorems/28cd1d34-5c1d-4987-87bb-fb84681cd04a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_piece_rule_error_scaling_e
 -- name    : OAI.SharpPlanar.piece_rule_error_scaling_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:58:10.996228+00:00
 -- url     : https://prove2.me/theorems/b361780d-ff3f-4e2e-83e4-d7ee5a1abd3e

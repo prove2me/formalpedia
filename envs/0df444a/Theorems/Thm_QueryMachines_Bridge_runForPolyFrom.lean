@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_runForPolyFrom
 -- name    : QueryMachines.Bridge.runForPolyFrom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:15:27.419588+00:00
 -- url     : https://prove2.me/theorems/bf912fc0-c2a8-47fb-9889-259bef42f73b

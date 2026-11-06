@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_QueryMachine_foldWhile_body
 -- name    : QueryMachines.QueryMachine.foldWhile_body
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:45:37.562475+00:00
 -- url     : https://prove2.me/theorems/ba358280-88ce-406c-88b9-bb528c29d5ae

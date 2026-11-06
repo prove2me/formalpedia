@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_Remarks_card_term_le
 -- name    : GeneralPieces.Remarks.card_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:19.824181+00:00
 -- url     : https://prove2.me/theorems/ec06b45a-f213-4417-baef-0fc1c4722071

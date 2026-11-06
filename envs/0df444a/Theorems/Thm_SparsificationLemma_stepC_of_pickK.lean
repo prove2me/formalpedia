@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_stepC_of_pickK
 -- name    : SparsificationLemma.stepC_of_pickK
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:41.859217+00:00
 -- url     : https://prove2.me/theorems/800c2c9a-01bf-4e18-a831-77a883c2095e

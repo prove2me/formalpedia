@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_Inst_Half_chooseZ_nat_polyT
 -- name    : ClauseBound.Inst.Half.chooseZ_nat_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:24:49.021519+00:00
 -- url     : https://prove2.me/theorems/093e41ec-c731-44a6-a703-ba67df7f6c6d

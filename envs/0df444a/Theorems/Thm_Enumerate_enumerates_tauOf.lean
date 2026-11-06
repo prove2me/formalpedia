@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Enumerate_enumerates_tauOf
 -- name    : Enumerate.enumerates_tauOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:06.793837+00:00
 -- url     : https://prove2.me/theorems/51578025-5c18-4a99-b97f-0d6d19d40881

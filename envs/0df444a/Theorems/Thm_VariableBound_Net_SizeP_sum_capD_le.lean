@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_sum_capD_le
 -- name    : VariableBound.Net.SizeP.sum_capD_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:21.255853+00:00
 -- url     : https://prove2.me/theorems/569604be-c2fa-4a75-a0b3-a5de65333e15

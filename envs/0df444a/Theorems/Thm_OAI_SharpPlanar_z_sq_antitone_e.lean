@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_z_sq_antitone_e
 -- name    : OAI.SharpPlanar.z_sq_antitone_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:51:48.332821+00:00
 -- url     : https://prove2.me/theorems/385fe197-ac7e-43bb-ac84-3fc3d1ef541a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_inMainRegime_polyT
 -- name    : PairsToBound.inMainRegime_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:11.482095+00:00
 -- url     : https://prove2.me/theorems/5d3763c3-9421-4a0a-9783-2c626a3975b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_frontEndAndTestExist
 -- name    : PairsToBound.frontEndAndTestExist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T00:22:30.985545+00:00
 -- url     : https://prove2.me/theorems/536aaec0-370b-4bba-b030-22a8a8070019

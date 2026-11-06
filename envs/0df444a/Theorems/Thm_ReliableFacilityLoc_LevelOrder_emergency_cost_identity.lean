@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_LevelOrder_emergency_cost_identity
 -- name    : ReliableFacilityLoc.LevelOrder.emergency_cost_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:50.753167+00:00
 -- url     : https://prove2.me/theorems/fe7a4473-ed5b-4ad3-bb7d-59692a6dd97b

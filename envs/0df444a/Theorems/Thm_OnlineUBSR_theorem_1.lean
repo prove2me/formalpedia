@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineUBSR_theorem_1
 -- name    : OnlineUBSR.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:20:32.540188+00:00
 -- url     : https://prove2.me/theorems/e0f96d4c-1069-4d1b-8d4b-142417149e45

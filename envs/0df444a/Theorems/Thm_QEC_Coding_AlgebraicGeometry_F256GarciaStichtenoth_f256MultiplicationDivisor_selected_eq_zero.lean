@@ -1,0 +1,25 @@
+-- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_f256MultiplicationDivisor_selected_eq_zero
+-- name    : QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256MultiplicationDivisor_selected_eq_zero
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-11-06T05:42:19.975321+00:00
+-- url     : https://prove2.me/theorems/f1338a29-e3a6-48c9-b49e-7ccaffd26cad
+-- title:
+--   F256 Garcia Stichtenoth: f256 Multiplication Divisor selected eq zero
+-- statement:
+--   The F256 Garcia Stichtenoth construction uses the f256 Multiplication Divisor selected eq zero property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/AlgebraicGeometry/Codes/NormalClosureDivisor.lean#L66-L71
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/AlgebraicGeometry/Codes/NormalClosureDivisor.lean#L66-L71
+
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Towers_ExplicitGarciaStichtenothTower
+import Definitions.Def_QEC_Coding_AlgebraicGeometry_Codes_NormalClosureDivisor
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.AlgebraicGeometry QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth
+noncomputable section
+attribute [local instance 2500] Algebra.toSMul Algebra.toModule
+
+theorem QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256MultiplicationDivisor_selected_eq_zero (i : ℕ)
+    (j : Fin (f256GarciaStichtenothLength i)) :
+    f256MultiplicationDivisor i (f256GarciaStichtenothSelectedPlace i j) = 0 := by sorry

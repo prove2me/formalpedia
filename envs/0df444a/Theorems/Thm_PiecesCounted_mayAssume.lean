@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_mayAssume
 -- name    : PiecesCounted.mayAssume
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:23:35.072021+00:00
 -- url     : https://prove2.me/theorems/bc99db05-2d24-406f-8822-3074c092adfa

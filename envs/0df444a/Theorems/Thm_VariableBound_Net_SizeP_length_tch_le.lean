@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_length_tch_le
 -- name    : VariableBound.Net.SizeP.length_tch_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:01:30.444507+00:00
 -- url     : https://prove2.me/theorems/c612f46f-b67e-496d-a1b8-465826939051

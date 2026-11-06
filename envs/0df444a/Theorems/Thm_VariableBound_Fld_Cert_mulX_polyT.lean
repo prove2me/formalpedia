@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Fld_Cert_mulX_polyT
 -- name    : VariableBound.Fld.Cert.mulX_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:14:49.041199+00:00
 -- url     : https://prove2.me/theorems/1e1e4d85-e489-4fb9-8df2-81d35493295e

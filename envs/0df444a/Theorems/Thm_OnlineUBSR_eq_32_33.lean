@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineUBSR_eq_32_33
 -- name    : OnlineUBSR.eq_32_33
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:18:18.749985+00:00
 -- url     : https://prove2.me/theorems/75f2c0c5-2222-4dbe-a44f-8fa212377905

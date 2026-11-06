@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_D_as_table_e
 -- name    : OAI.SharpPlanar.D_as_table_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:51:52.888845+00:00
 -- url     : https://prove2.me/theorems/220e091b-4df7-443c-93bd-f5ed9d890d8b

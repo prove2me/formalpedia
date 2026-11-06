@@ -1,0 +1,110 @@
+-- Prove2me | Definitions.Def_TC433_LinearAlgebra_Matrix_ToLin_f1484bc148
+-- name    : TC433_LinearAlgebra_Matrix_ToLin_f1484bc148
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T11:33:09.515236+00:00
+-- url     : https://prove2.me/theorems/d2507552-10ce-482e-98f0-b743c0389dc2
+-- title:
+--   TauCeti: LinearAlgebra / Matrix / ToLin
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.LinearAlgebra.Matrix.ToLin for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/LinearAlgebra/Matrix/ToLin.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+
+-- `Module.End`, `Matrix` and `algEquivMatrix` occur in the statement and the body below; this is
+-- also the Mathlib file that `algEquivMatrix` itself lives in.
+public import Mathlib.LinearAlgebra.Matrix.ToLin
+public import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Defs
+-- `FiniteDimensional` and `Module.finrank` occur in the statement, and
+-- `Module.finBasisOfFinrankEq` in the body.
+public import Mathlib.LinearAlgebra.FiniteDimensional.Defs
+
+/-!
+# The endomorphism algebra of a finite-dimensional vector space, as matrices of a known size
+
+Mathlib's `algEquivMatrix` turns `Module.End K M` into matrices indexed by the index type of a
+chosen basis of `M`. This file records the form of it that is wanted when the *dimension* of `M` is
+known but no particular basis is: for `Module.finrank K M = n`, an isomorphism
+
+`Module.End K M ≃ₐ[K] Matrix (Fin n) (Fin n) K`.
+
+In the other direction it records how a matrix unit acts on the basis it is read in, which is the
+computation every matrix model of a Lie algebra performs on its root vectors.
+
+## Main results
+
+* `TauCeti.Algebra.endAlgEquivMatrix`: the above, read off the basis
+  `Module.finBasisOfFinrankEq`.
+* `TauCeti.toLinAlgEquiv_single_apply_basis`: the endomorphism of a matrix unit sends a basis
+  vector to a single coordinate.
+* `TauCeti.matrixGeneralLinearEquiv`: matrix `GL` and the linear automorphisms of coordinate
+  vectors are equivalent over a commutative semiring.
+
+The first is used to turn the Azumaya isomorphism of a finite-dimensional central simple algebra
+into a matrix algebra in `TauCeti/Algebra/CentralSimple/Opposite.lean`.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace TauCeti
+
+/-- The matrix general linear group is the group of linear automorphisms of coordinate vectors
+over a commutative semiring. Mathlib's `Matrix.GeneralLinearGroup.toLin` requires a commutative
+ring. -/
+def matrixGeneralLinearEquiv {R : Type*} [CommSemiring R] {n : Type*} [Fintype n]
+    [DecidableEq n] :
+    Matrix.GeneralLinearGroup n R ≃* LinearMap.GeneralLinearGroup R (n → R) :=
+  Units.mapEquiv Matrix.toLinAlgEquiv'.toMulEquiv
+
+/-- A general linear matrix acts on coordinate vectors by matrix-vector multiplication. -/
+@[simp]
+theorem matrixGeneralLinearEquiv_apply {R : Type*} [CommSemiring R] {n : Type*}
+    [Fintype n] [DecidableEq n] (A : Matrix.GeneralLinearGroup n R) (v : n → R) :
+    (LinearMap.GeneralLinearGroup.generalLinearEquiv R (n → R)
+      (matrixGeneralLinearEquiv A)) v = Matrix.mulVec (A : Matrix n n R) v := by
+  rw [LinearMap.GeneralLinearGroup.coeFn_generalLinearEquiv,
+    matrixGeneralLinearEquiv, Units.coe_mapEquiv]
+  exact Matrix.toLinAlgEquiv'_apply _ _
+
+/-- **A matrix unit acts on a basis by a single coordinate.** The endomorphism attached to
+`Matrix.single p q v` sends the basis vector indexed by the column `q` to `v • bas p`, and every
+other basis vector to `0`. -/
+theorem toLinAlgEquiv_single_apply_basis {R : Type*} [CommSemiring R] {M : Type*}
+    [AddCommMonoid M] [Module R M] {n : Type*} [Fintype n] [DecidableEq n]
+    (bas : Module.Basis n R M) (p q : n) (v : R) (c : n) :
+    Matrix.toLinAlgEquiv bas (Matrix.single p q v) (bas c) =
+      (if q = c then v else 0) • bas p := by
+  rw [Matrix.toLinAlgEquiv_self]
+  simp [Matrix.single_apply, ite_and, ite_smul]
+
+namespace Algebra
+
+variable (K : Type*) [Field K] (M : Type*) [AddCommGroup M] [Module K M] [FiniteDimensional K M]
+
+/-- A `K`-vector space `M` of dimension `n` has `Module.End K M ≃ₐ[K] Matrix (Fin n) (Fin n) K`,
+read off a chosen `K`-basis of `M`.
+
+This is Mathlib's `algEquivMatrix` at the basis `Module.finBasisOfFinrankEq`, named here because it
+is wanted wherever a finite-dimensional endomorphism algebra has to be turned into matrices of a
+known size -- in particular as the second half of the opposite isomorphism
+`TauCeti.Algebra.tensorOpAlgEquivMatrix`, which the roadmap asks for separately.
+
+The basis is a choice, and nothing downstream should depend on which one it is; there is
+deliberately no lemma computing the matrix entries. -/
+noncomputable def endAlgEquivMatrix {n : ℕ} (hn : Module.finrank K M = n) :
+    Module.End K M ≃ₐ[K] Matrix (Fin n) (Fin n) K :=
+  algEquivMatrix (Module.finBasisOfFinrankEq K M hn)
+
+end Algebra
+
+end TauCeti
+
+

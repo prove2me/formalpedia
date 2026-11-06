@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Main_tbMax
 -- name    : VariableBound.Net.Main.tbMax
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:00.254525+00:00
 -- url     : https://prove2.me/theorems/69c490af-2674-4573-85ec-06988d5867ce

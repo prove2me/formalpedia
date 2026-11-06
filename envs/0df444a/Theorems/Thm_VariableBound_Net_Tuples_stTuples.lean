@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Tuples_stTuples
 -- name    : VariableBound.Net.Tuples.stTuples
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:46:43.183889+00:00
 -- url     : https://prove2.me/theorems/12627ec7-cd29-4c47-b128-5fe0cc5a856b

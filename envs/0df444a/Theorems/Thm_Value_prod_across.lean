@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_prod_across
 -- name    : Value.prod_across
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:49.78297+00:00
 -- url     : https://prove2.me/theorems/ae856c1f-a1b3-4e20-987d-324492abd457

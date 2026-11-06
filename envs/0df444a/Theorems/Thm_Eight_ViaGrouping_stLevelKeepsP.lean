@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_stLevelKeepsP
 -- name    : Eight.ViaGrouping.stLevelKeepsP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:11:25.845248+00:00
 -- url     : https://prove2.me/theorems/c30dad60-b92d-4b96-852c-9dcdf6be65f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CircuitLowerBound_corCircuits__of_9b88f614dd99
 -- name    : P2M_CircuitLowerBound_corCircuits__of_9b88f614dd99
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:31:42.942425+00:00
 -- url     : https://prove2.me/theorems/8b66098a-46ba-41bc-ba23-cd5be70a4d39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_KKT_rc1_implies_rc0
 -- name    : KallMayerSLP.KKT.rc1_implies_rc0
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:11:10.220851+00:00
 -- url     : https://prove2.me/theorems/5894a74f-cdc0-4dda-becf-9e3683b0d8fc

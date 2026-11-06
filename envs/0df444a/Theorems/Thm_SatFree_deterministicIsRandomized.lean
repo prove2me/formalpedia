@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatFree_deterministicIsRandomized
 -- name    : SatFree.deterministicIsRandomized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T16:11:19.68921+00:00
 -- url     : https://prove2.me/theorems/f1d69363-ba0b-49aa-94d5-d8f97a3c331a

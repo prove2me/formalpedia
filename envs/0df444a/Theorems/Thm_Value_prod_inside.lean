@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Value_prod_inside
 -- name    : Value.prod_inside
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:00:59.620336+00:00
 -- url     : https://prove2.me/theorems/ab9605df-ca88-49e2-bc45-d986e54ef2db

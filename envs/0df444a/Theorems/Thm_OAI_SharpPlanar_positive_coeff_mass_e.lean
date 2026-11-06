@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_positive_coeff_mass_e
 -- name    : OAI.SharpPlanar.positive_coeff_mass_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:49:53.012974+00:00
 -- url     : https://prove2.me/theorems/ade0f7ac-1f61-4e5d-8f25-53736fe10aca

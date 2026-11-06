@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_bitsOut_unary
 -- name    : Printed.bitsOut_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:41:36.50346+00:00
 -- url     : https://prove2.me/theorems/8a2dc786-50e8-4843-919e-4207aff27ffc

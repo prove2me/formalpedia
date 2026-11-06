@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSatOnTree_sufficesSparse_viaC
 -- name    : ThreeSatOnTree.sufficesSparse_viaC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:20:40.343226+00:00
 -- url     : https://prove2.me/theorems/48893bda-5c61-407a-b1bc-a6534b6e031f

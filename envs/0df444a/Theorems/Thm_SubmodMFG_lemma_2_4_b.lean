@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubmodMFG_lemma_2_4_b
 -- name    : SubmodMFG.lemma_2_4_b
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:16:52.024447+00:00
 -- url     : https://prove2.me/theorems/8d19e015-3e28-47fa-b0a7-0f760e4e4d29

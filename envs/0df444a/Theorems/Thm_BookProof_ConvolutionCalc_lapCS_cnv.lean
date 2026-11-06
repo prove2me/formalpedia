@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ConvolutionCalc_lapCS_cnv
 -- name    : BookProof.ConvolutionCalc.lapCS_cnv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T09:12:49.336597+00:00
 -- url     : https://prove2.me/theorems/e06c4e63-3d4b-47d6-8fb7-b877d2272951

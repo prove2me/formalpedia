@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoicePAC_MidPoint_observation_B1_Jy_nonempty
 -- name    : ChoicePAC.MidPoint.observation_B1_Jy_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:38.343498+00:00
 -- url     : https://prove2.me/theorems/e0798220-3f1a-4cd6-b119-606e46ceb11e

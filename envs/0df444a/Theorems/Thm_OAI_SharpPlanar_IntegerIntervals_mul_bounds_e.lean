@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_mul_bounds_e
 -- name    : OAI.SharpPlanar.IntegerIntervals.mul_bounds_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T06:04:09.445015+00:00
 -- url     : https://prove2.me/theorems/9092af55-4c07-4424-8a29-8aae36a74797

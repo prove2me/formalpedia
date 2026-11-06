@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RelationShiftInvert_unitaryU_mem_relDomain
 -- name    : BookProof.RelationShiftInvert.unitaryU_mem_relDomain
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:57:08.357718+00:00
 -- url     : https://prove2.me/theorems/5ad57479-8b3b-4707-b89d-a0e868b59bd1

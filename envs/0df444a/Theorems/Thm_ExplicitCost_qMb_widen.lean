@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_qMb_widen
 -- name    : ExplicitCost.qMb_widen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:51:43.608231+00:00
 -- url     : https://prove2.me/theorems/8b229d6d-35f0-4383-a834-bb79a1952e33

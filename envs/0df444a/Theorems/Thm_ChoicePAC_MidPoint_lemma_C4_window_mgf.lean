@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoicePAC_MidPoint_lemma_C4_window_mgf
 -- name    : ChoicePAC.MidPoint.lemma_C4_window_mgf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:31:28.487212+00:00
 -- url     : https://prove2.me/theorems/5c789cbd-1556-46e5-a09b-7f562003c7a6

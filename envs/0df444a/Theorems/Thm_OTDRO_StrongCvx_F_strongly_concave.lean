@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_StrongCvx_F_strongly_concave
 -- name    : OTDRO.StrongCvx.F_strongly_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:12:07.739809+00:00
 -- url     : https://prove2.me/theorems/296e5d39-5349-4954-9ba2-34feeae0b919

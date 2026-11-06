@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_mem_occAll_of_varAt
 -- name    : Coding.mem_occAll_of_varAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:28:41.447371+00:00
 -- url     : https://prove2.me/theorems/276440be-e96e-4b75-add9-8407356f1e8c

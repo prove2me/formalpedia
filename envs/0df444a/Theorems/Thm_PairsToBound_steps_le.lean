@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_steps_le
 -- name    : PairsToBound.steps_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:00.877111+00:00
 -- url     : https://prove2.me/theorems/4cb0b0ea-db63-427b-8cf5-2deead180637

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottSensitiveDP_Sensitive_display_15
 -- name    : VeinottSensitiveDP.Sensitive.display_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:52:09.62735+00:00
 -- url     : https://prove2.me/theorems/68b1a524-e84e-4350-bfd2-e34e573fb1a0

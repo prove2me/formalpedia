@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_Mach_Cert_polyT_codeNatP
 -- name    : SparsificationLemma.Mach.Cert.polyT_codeNatP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:06.433668+00:00
 -- url     : https://prove2.me/theorems/5a151cf6-a53e-4d3f-800d-d0fc86bfab01

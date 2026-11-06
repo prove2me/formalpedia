@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerBasis_sum_fin_square_e
 -- name    : OAI.SharpPlanar.IntegerBasis.sum_fin_square_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:41:06.525902+00:00
 -- url     : https://prove2.me/theorems/f6e213c5-62f7-460d-9c24-ced8614e2fac

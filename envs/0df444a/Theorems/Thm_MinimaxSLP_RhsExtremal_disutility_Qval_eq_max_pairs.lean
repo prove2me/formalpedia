@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsExtremal_disutility_Qval_eq_max_pairs
 -- name    : MinimaxSLP.RhsExtremal.disutility_Qval_eq_max_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:01.058513+00:00
 -- url     : https://prove2.me/theorems/82368608-2eb2-47c2-86e3-77f0bde74d21

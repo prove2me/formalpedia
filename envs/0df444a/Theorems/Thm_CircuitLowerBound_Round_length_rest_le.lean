@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_length_rest_le
 -- name    : CircuitLowerBound.Round.length_rest_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:00:55.593896+00:00
 -- url     : https://prove2.me/theorems/d1c850ab-099d-40c3-9ace-c79b4175881e

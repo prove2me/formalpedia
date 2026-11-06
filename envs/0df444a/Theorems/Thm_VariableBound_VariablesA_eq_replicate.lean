@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_VariablesA_eq_replicate
 -- name    : VariableBound.VariablesA.eq_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:25.436192+00:00
 -- url     : https://prove2.me/theorems/e2691a1f-36e4-4362-b564-3ac3395a7412

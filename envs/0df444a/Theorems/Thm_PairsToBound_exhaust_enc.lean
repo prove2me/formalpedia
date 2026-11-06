@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairsToBound_exhaust_enc
 -- name    : PairsToBound.exhaust_enc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:56:24.321705+00:00
 -- url     : https://prove2.me/theorems/b1c0b96d-80c9-4afd-9a92-c2c4b9d3cb75

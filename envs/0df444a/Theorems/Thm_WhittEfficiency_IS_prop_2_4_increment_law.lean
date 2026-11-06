@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittEfficiency_IS_prop_2_4_increment_law
 -- name    : WhittEfficiency.IS.prop_2_4_increment_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:27.212544+00:00
 -- url     : https://prove2.me/theorems/6d76bdcc-4e41-4d97-9e5f-dbca23966b8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralPieces_seq2
 -- name    : GeneralPieces.seq2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:37:21.858236+00:00
 -- url     : https://prove2.me/theorems/6c930a0b-1d83-4cae-a395-6b13cd58cd7d

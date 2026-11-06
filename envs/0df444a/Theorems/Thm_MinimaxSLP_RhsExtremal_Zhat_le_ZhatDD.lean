@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_RhsExtremal_Zhat_le_ZhatDD
 -- name    : MinimaxSLP.RhsExtremal.Zhat_le_ZhatDD
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:16:53.213987+00:00
 -- url     : https://prove2.me/theorems/9f504fbd-105f-471c-bd82-f2fcfb2bd504

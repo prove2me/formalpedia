@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_PolChar_lemma_6_7
 -- name    : SymBoolPCSP.PolChar.lemma_6_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:57.324587+00:00
 -- url     : https://prove2.me/theorems/830c4a28-66d8-4550-92a7-c09dfedcd8ec

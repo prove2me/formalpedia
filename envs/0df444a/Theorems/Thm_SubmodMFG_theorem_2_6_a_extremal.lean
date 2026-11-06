@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubmodMFG_theorem_2_6_a_extremal
 -- name    : SubmodMFG.theorem_2_6_a_extremal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:17:38.523799+00:00
 -- url     : https://prove2.me/theorems/7647df46-8754-49b9-86b8-68aad270f303

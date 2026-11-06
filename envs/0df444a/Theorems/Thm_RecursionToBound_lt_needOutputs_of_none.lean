@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecursionToBound_lt_needOutputs_of_none
 -- name    : RecursionToBound.lt_needOutputs_of_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:57:53.481634+00:00
 -- url     : https://prove2.me/theorems/8d69aff0-14fa-4750-88e1-a5a1550da66a

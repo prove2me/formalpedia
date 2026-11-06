@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Blocks_half_adder
 -- name    : CircuitLowerBound.Blocks.half_adder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:41:14.977901+00:00
 -- url     : https://prove2.me/theorems/71d995e3-0e95-4aae-8d60-0c26d1ed8fa0

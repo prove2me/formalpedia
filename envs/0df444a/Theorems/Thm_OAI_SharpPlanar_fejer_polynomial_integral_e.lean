@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejer_polynomial_integral_e
 -- name    : OAI.SharpPlanar.fejer_polynomial_integral_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:57:47.016201+00:00
 -- url     : https://prove2.me/theorems/2c5666d9-0bc3-4462-9fa5-12eab93e7c8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Fld_Cert_powW_polyT
 -- name    : VariableBound.Fld.Cert.powW_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T23:31:57.397137+00:00
 -- url     : https://prove2.me/theorems/2fecdb35-0cfb-4df6-8df9-9949756b328e

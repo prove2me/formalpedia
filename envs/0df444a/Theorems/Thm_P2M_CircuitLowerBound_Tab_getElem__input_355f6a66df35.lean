@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CircuitLowerBound_Tab_getElem__input_355f6a66df35
 -- name    : P2M_CircuitLowerBound_Tab_getElem__input_355f6a66df35
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T18:42:40.971171+00:00
 -- url     : https://prove2.me/theorems/5d84f813-757b-4cd5-aabe-bb987067098c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeP_colD_eq
 -- name    : VariableBound.Net.SizeP.colD_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:00.424466+00:00
 -- url     : https://prove2.me/theorems/6d140635-a3ee-4c62-ab8e-6a3ea2fe10a5

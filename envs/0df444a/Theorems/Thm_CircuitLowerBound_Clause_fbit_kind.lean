@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Clause_fbit_kind
 -- name    : CircuitLowerBound.Clause.fbit_kind
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:52:26.939598+00:00
 -- url     : https://prove2.me/theorems/c2f52cff-93eb-4510-92fa-9bcb8c030632

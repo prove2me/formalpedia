@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_cntN_nil
 -- name    : SparsificationLemma.cntN_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:53:47.768453+00:00
 -- url     : https://prove2.me/theorems/61cc0187-7f61-438a-9df7-14f71e248a27

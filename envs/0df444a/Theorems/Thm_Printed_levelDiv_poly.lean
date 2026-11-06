@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_levelDiv_poly
 -- name    : Printed.levelDiv_poly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:48:31.861471+00:00
 -- url     : https://prove2.me/theorems/51ceea84-59e2-42f3-b100-e36e89210cf8

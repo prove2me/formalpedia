@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Step_toAddK
 -- name    : UniformInK.Step.toAddK
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:40:55.671208+00:00
 -- url     : https://prove2.me/theorems/1e906346-b5a2-4fa5-a94b-d5f85c7f8a3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejer_integral_zero_e
 -- name    : OAI.SharpPlanar.fejer_integral_zero_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:57:27.082617+00:00
 -- url     : https://prove2.me/theorems/f443a0e9-08d6-40fa-b1ea-cc053eaecbce

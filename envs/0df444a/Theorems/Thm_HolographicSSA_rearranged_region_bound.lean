@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolographicSSA_rearranged_region_bound
 -- name    : HolographicSSA.rearranged_region_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:40.194077+00:00
 -- url     : https://prove2.me/theorems/ae5321d7-f085-438e-9d77-26b1a8179150

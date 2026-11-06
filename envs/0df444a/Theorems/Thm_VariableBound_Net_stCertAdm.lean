@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_stCertAdm
 -- name    : VariableBound.Net.stCertAdm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:49:33.09611+00:00
 -- url     : https://prove2.me/theorems/e66ef99c-a739-429c-a7c5-42fb48b42c18

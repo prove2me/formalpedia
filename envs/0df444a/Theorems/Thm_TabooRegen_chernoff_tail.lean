@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TabooRegen_chernoff_tail
 -- name    : TabooRegen.chernoff_tail
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:27:26.916244+00:00
 -- url     : https://prove2.me/theorems/e25b6970-f6a8-41f0-a2fe-57b824e4c871

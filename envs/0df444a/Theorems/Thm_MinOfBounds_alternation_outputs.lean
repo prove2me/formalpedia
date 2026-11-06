@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinOfBounds_alternation_outputs
 -- name    : MinOfBounds.alternation_outputs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:10:36.326766+00:00
 -- url     : https://prove2.me/theorems/d37911e0-589f-4407-91cb-e8ad3ff7ac7e

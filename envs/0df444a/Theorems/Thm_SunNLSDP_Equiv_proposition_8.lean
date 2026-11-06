@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SunNLSDP_Equiv_proposition_8
 -- name    : SunNLSDP.Equiv.proposition_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:38:37.953762+00:00
 -- url     : https://prove2.me/theorems/3c8312a0-c06c-452c-a822-339f350ed5f3

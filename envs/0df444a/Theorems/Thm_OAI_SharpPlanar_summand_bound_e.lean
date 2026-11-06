@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_summand_bound_e
 -- name    : OAI.SharpPlanar.summand_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:59:00.972821+00:00
 -- url     : https://prove2.me/theorems/ea9e1b65-2e7f-49a8-bf78-984f6eccdabb

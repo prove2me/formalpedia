@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Enumerate_stSameTree
 -- name    : Enumerate.stSameTree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:29.028077+00:00
 -- url     : https://prove2.me/theorems/ff38a7e8-c989-401e-b870-0a274c4003f5

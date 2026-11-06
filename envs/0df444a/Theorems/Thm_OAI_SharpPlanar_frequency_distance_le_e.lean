@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_frequency_distance_le_e
 -- name    : OAI.SharpPlanar.frequency_distance_le_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:42:37.501847+00:00
 -- url     : https://prove2.me/theorems/bdf32c19-81d7-492e-a8f7-390d5dfa39b0

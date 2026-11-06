@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_aW_roundInput
 -- name    : CircuitLowerBound.Round.aW_roundInput
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:58:07.40483+00:00
 -- url     : https://prove2.me/theorems/61075488-7510-4cf5-a342-3f76c401ec2c

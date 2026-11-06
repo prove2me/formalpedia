@@ -1,0 +1,94 @@
+-- Prove2me | Definitions.Def_TC433_LinearAlgebra_Matrix_Dual_2bf2aa45b1
+-- name    : TC433_LinearAlgebra_Matrix_Dual_2bf2aa45b1
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-05T11:26:31.889849+00:00
+-- url     : https://prove2.me/theorems/4099e2c6-2c11-4bd3-88ae-b164641545c3
+-- title:
+--   TauCeti: LinearAlgebra / Matrix / Dual
+-- statement:
+--   Compatibility port of the definitions and proved supporting lemmas in TauCeti.LinearAlgebra.Matrix.Dual for the concrete CFSG catalog. This module does not assert the classification theorem.
+-- source:
+--   https://github.com/TauCetiProject/TauCeti/blob/6e0c6acab5f4c6f42e5f5bab9bd5e4e84f74c380/TauCeti/LinearAlgebra/Matrix/Dual.lean
+
+/-
+Copyright (c) 2026 The Tau Ceti contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: The Tau Ceti contributors
+-/
+module
+
+-- `dotProductBilin` and `dotProductEquiv` occur in the statement and the body below.
+public import Mathlib.LinearAlgebra.Matrix.Dual
+-- `BilinForm.IsSymm` occurs in the statement below.
+public import Mathlib.LinearAlgebra.BilinearForm.Orthogonal
+-- `LinearMap.IsPerfPair` occurs in the statement below.
+public import Mathlib.LinearAlgebra.PerfectPairing.Basic
+
+/-!
+# The dot product on `ι → R` is a perfect pairing
+
+Mathlib's `dotProductEquiv` identifies `ι → R`, for `ι` finite, with its own dual under the dot
+product. This file records the symmetry and perfectness of this pairing, so that the dot product
+may be used directly as the pairing of a `RootPairing` or a `RootDatum` on `ι → R`.
+
+## Main results
+
+* `TauCeti.dotProductBilin_isPerfPair`: the dot product `dotProductBilin R R` on `ι → R` is a
+  perfect pairing of that module with itself.
+* `TauCeti.isSymm_dotProductBilin`: the standard dot-product bilinear form is symmetric.
+* `TauCeti.linearIndependent_of_dotProduct_diagonal`: a family whose dot products against a second
+  family vanish off the diagonal and are right-regular on it is linearly independent.
+-/
+
+public section
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace TauCeti
+
+open _root_.Matrix
+
+/-- Over a commutative ring, the dot product on `ι → R` is a perfect pairing of that module
+with itself: it is Mathlib's `dotProductEquiv` read as a bilinear map. -/
+instance dotProductBilin_isPerfPair (R ι : Type*) [CommRing R] [Fintype ι] :
+    (dotProductBilin R R : (ι → R) →ₗ[R] (ι → R) →ₗ[R] R).IsPerfPair := by
+  classical
+  have h : (dotProductBilin R R : (ι → R) →ₗ[R] (ι → R) →ₗ[R] R) =
+      (dotProductEquiv R ι).toLinearMap := by
+    ext x y
+    simp
+  rw [h]
+  infer_instance
+
+/-- The standard dot-product bilinear form is symmetric. -/
+theorem isSymm_dotProductBilin {R ι : Type*} [CommSemiring R] [Fintype ι] :
+    LinearMap.BilinForm.IsSymm
+      (dotProductBilin R R : LinearMap.BilinForm R (ι → R)) := by
+  constructor
+  intro x y
+  simpa only [RingHom.id_apply, dotProductBilin_apply_apply] using dotProduct_comm x y
+
+/-- **A family paired diagonally by a second family is linearly independent.** If `v i ⬝ᵥ w j`
+vanishes whenever `i ≠ j` and right multiplication by `v i ⬝ᵥ w i` is injective, the `v i` are
+linearly independent. Over a ring without zero divisors, nonzero diagonal entries suffice; in
+particular, this applies over `ℤ` with diagonal `2`. The ring may have zero divisors away from
+the chosen diagonal entries.
+The family index `κ` is arbitrary — neither finite nor decidable — and unrelated to the coordinate
+index `ι`; the scalars need not commute. -/
+theorem linearIndependent_of_dotProduct_diagonal {κ ι R : Type*}
+    [Fintype ι] [Ring R] {v w : κ → ι → R} {c : κ → R}
+    (hc : ∀ i, IsRightRegular (c i)) (hdiag : ∀ i, v i ⬝ᵥ w i = c i)
+    (hoff : ∀ i j, i ≠ j → v i ⬝ᵥ w j = 0) :
+    LinearIndependent R v := by
+  rw [linearIndependent_iff']
+  intro s g hg j hj
+  -- pairing the relation with `w j` kills every term but the `j`-th, leaving `g j * c j = 0`
+  have hpair := congrArg (· ⬝ᵥ w j) hg
+  simp only [sum_dotProduct, smul_dotProduct, smul_eq_mul, zero_dotProduct] at hpair
+  rw [Finset.sum_eq_single j (fun i _ hij => by rw [hoff i j hij, mul_zero])
+      (fun hns => absurd hj hns), hdiag] at hpair
+  exact (hc j) (hpair.trans (zero_mul _).symm)
+
+end TauCeti
+
+

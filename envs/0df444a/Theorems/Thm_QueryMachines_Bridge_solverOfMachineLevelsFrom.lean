@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Bridge_solverOfMachineLevelsFrom
 -- name    : QueryMachines.Bridge.solverOfMachineLevelsFrom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:19:30.842085+00:00
 -- url     : https://prove2.me/theorems/a07f2ede-7af6-4b9e-b968-e500a745d232

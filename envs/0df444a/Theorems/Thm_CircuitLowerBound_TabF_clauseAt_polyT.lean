@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_TabF_clauseAt_polyT
 -- name    : CircuitLowerBound.TabF.clauseAt_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:05:29.328814+00:00
 -- url     : https://prove2.me/theorems/f4dbf228-6351-48e6-9e6f-edacbdf89cee

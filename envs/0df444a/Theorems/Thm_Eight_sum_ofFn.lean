@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_sum_ofFn
 -- name    : Eight.sum_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:45.037906+00:00
 -- url     : https://prove2.me/theorems/d12e26d4-ef51-4033-8c75-358964f63ade

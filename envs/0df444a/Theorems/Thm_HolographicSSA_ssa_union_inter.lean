@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolographicSSA_ssa_union_inter
 -- name    : HolographicSSA.ssa_union_inter
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:32.994514+00:00
 -- url     : https://prove2.me/theorems/096d01e9-8fd8-4469-b58a-4cb7005d628c

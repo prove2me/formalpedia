@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Printed_asked___poly_222d3bbb4648
 -- name    : P2M_Printed_asked___poly_222d3bbb4648
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:42:09.615532+00:00
 -- url     : https://prove2.me/theorems/89efe8e9-b015-409a-b4ae-263e4917ab97

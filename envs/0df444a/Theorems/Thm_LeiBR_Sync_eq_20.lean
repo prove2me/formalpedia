@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Sync_eq_20
 -- name    : LeiBR.Sync.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:10:35.687441+00:00
 -- url     : https://prove2.me/theorems/15f7b794-d98a-4642-8ccf-0f21ae0891ff

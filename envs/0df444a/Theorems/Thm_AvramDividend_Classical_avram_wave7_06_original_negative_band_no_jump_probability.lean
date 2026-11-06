@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_negative_band_no_jump_probability
 -- name    : AvramDividend.Classical.avram_wave7_06_original_negative_band_no_jump_probability
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T11:49:22.212193+00:00
 -- url     : https://prove2.me/theorems/bfc446d3-ff26-4179-a1b4-162efc857227

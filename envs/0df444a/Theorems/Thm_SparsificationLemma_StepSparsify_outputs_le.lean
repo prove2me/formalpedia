@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsificationLemma_StepSparsify_outputs_le
 -- name    : SparsificationLemma.StepSparsify.outputs_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:09:47.838534+00:00
 -- url     : https://prove2.me/theorems/8ca320a7-69e5-4655-b781-d572dcf14e87

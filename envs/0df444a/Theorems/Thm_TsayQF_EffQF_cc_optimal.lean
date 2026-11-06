@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsayQF_EffQF_cc_optimal
 -- name    : TsayQF.EffQF.cc_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:19.748292+00:00
 -- url     : https://prove2.me/theorems/ce868a1e-51cf-4ed8-b2ce-ab391cd7a5a9

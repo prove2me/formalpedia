@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Form_wf_reloc
 -- name    : CircuitLowerBound.Form.wf_reloc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:54:37.857879+00:00
 -- url     : https://prove2.me/theorems/469275f7-3509-4734-a19b-15d7283c61f4

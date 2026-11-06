@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittFLT_Reflection_barrier_continuous
 -- name    : WhittFLT.Reflection.barrier_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:57:57.012163+00:00
 -- url     : https://prove2.me/theorems/243beb49-4111-49c4-ab16-6a1098e4726f

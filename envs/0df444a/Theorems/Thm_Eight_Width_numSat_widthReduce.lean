@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_Width_numSat_widthReduce
 -- name    : Eight.Width.numSat_widthReduce
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T16:10:24.989274+00:00
 -- url     : https://prove2.me/theorems/555a906d-6487-4cec-8c2e-7363487e567c

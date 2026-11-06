@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThmCount_stRemarkTime_of
 -- name    : ThmCount.stRemarkTime_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:42:40.704616+00:00
 -- url     : https://prove2.me/theorems/eb482bf3-7905-4aca-9b67-d4425bd07b54

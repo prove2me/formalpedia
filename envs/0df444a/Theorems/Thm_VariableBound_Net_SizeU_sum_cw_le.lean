@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeU_sum_cw_le
 -- name    : VariableBound.Net.SizeU.sum_cw_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:45:53.868837+00:00
 -- url     : https://prove2.me/theorems/cf915883-87b8-4853-9b58-b76e37ed8180

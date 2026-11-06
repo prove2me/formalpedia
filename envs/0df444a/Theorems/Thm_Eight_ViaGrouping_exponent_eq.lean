@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_exponent_eq
 -- name    : Eight.ViaGrouping.exponent_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:01:31.833408+00:00
 -- url     : https://prove2.me/theorems/e61d3cec-9880-405e-aa3d-c805aee41aab

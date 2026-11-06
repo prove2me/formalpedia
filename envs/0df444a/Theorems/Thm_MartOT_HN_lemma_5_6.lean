@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_HN_lemma_5_6
 -- name    : MartOT.HN.lemma_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:56.795722+00:00
 -- url     : https://prove2.me/theorems/2d0f46f5-1a96-45ab-8c07-03401a8e92cd

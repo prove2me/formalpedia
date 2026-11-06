@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_CertSparsify_masks_polyT
 -- name    : UniformInK.CertSparsify.masks_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T19:42:10.732753+00:00
 -- url     : https://prove2.me/theorems/46413c4f-c774-4164-a65b-c67dff9981a8

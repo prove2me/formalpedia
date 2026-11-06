@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_units_eq
 -- name    : PiecesCounted.units_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:36.173206+00:00
 -- url     : https://prove2.me/theorems/625f773c-f171-4bae-a161-6c0b2934f271

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Round_var_Phi_lt
 -- name    : CircuitLowerBound.Round.var_Phi_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:00:19.19607+00:00
 -- url     : https://prove2.me/theorems/630f6ed0-109d-4af1-b8a8-fffdb5b3753f

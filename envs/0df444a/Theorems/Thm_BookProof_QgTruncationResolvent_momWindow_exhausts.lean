@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgTruncationResolvent_momWindow_exhausts
 -- name    : BookProof.QgTruncationResolvent.momWindow_exhausts
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:56:25.609757+00:00
 -- url     : https://prove2.me/theorems/a7e52e91-05f1-44eb-9181-08926745fb61

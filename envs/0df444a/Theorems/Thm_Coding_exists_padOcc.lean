@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_exists_padOcc
 -- name    : Coding.exists_padOcc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:45.809728+00:00
 -- url     : https://prove2.me/theorems/76a55c1f-e993-4d06-baa0-c536e5ea6f91

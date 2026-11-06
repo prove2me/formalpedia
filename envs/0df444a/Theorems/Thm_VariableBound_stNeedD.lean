@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_stNeedD
 -- name    : VariableBound.stNeedD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:51:36.198241+00:00
 -- url     : https://prove2.me/theorems/fbaa7a08-06a4-45c6-a336-f64cdffe3433

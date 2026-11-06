@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_modZ_polyT
 -- name    : VariableBound.Count.modZ_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:11.800117+00:00
 -- url     : https://prove2.me/theorems/3176b369-b291-40dc-a2a7-be980e9ec443

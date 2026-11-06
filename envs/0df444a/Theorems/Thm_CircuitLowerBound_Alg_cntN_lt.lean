@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircuitLowerBound_Alg_cntN_lt
 -- name    : CircuitLowerBound.Alg.cntN_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:07:21.967095+00:00
 -- url     : https://prove2.me/theorems/399257ed-9613-4d8c-9c8a-948464431e65

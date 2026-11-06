@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ENP_infinitely_often
 -- name    : ENP.infinitely_often
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:10:38.402461+00:00
 -- url     : https://prove2.me/theorems/7cf9a443-fe80-4d58-b4c5-966e1846b364

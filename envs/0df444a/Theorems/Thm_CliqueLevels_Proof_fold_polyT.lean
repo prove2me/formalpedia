@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliqueLevels_Proof_fold_polyT
 -- name    : CliqueLevels.Proof.fold_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:43:26.908355+00:00
 -- url     : https://prove2.me/theorems/4a7cd201-5a40-4e5c-b87f-23af1e2b0b7a

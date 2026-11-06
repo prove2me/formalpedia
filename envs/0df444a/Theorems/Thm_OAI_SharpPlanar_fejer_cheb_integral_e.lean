@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fejer_cheb_integral_e
 -- name    : OAI.SharpPlanar.fejer_cheb_integral_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:56:41.498046+00:00
 -- url     : https://prove2.me/theorems/9e8bc25e-1512-454f-9338-872c641a03fa

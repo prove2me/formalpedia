@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Exits_COUNT_polyTimeSteps
 -- name    : Exits.COUNT_polyTimeSteps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:38:50.053816+00:00
 -- url     : https://prove2.me/theorems/dd369e92-a3f6-460f-a7cd-52cb7fa49106

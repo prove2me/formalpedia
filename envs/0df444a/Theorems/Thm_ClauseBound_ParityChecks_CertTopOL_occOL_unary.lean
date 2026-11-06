@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertTopOL_occOL_unary
 -- name    : ClauseBound.ParityChecks.CertTopOL.occOL_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:22:29.12277+00:00
 -- url     : https://prove2.me/theorems/0fc43191-d0c8-4934-a626-e6d97bc451de

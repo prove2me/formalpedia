@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_map_links
 -- name    : Coding.map_links
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:32:01.900988+00:00
 -- url     : https://prove2.me/theorems/568381e0-6238-4578-8be2-a7dc9cf0445e

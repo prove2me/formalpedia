@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_CertNet_ite_zero_polyT
 -- name    : VariableBound.Net.CertNet.ite_zero_polyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:48:22.723841+00:00
 -- url     : https://prove2.me/theorems/bacb01d3-0eb0-4c22-9930-2b6bdd35bfa5

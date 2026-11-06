@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_TopN_Cert_PbN_unary
 -- name    : ClauseBound.TopN.Cert.PbN_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T22:58:14.493205+00:00
 -- url     : https://prove2.me/theorems/5a462506-cb24-491f-80f2-bc8051eba7ef

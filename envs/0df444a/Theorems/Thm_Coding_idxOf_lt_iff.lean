@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_idxOf_lt_iff
 -- name    : Coding.idxOf_lt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:04:09.455608+00:00
 -- url     : https://prove2.me/theorems/e6f3e883-8b43-4651-b9b2-751d3e46d545

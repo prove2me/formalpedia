@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_complexBasis_rule_error_e
 -- name    : OAI.SharpPlanar.complexBasis_rule_error_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:53:24.827762+00:00
 -- url     : https://prove2.me/theorems/b6bc7672-110f-4751-b266-459c1a73b095

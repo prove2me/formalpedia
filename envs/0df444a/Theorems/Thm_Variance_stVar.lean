@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Variance_stVar
 -- name    : Variance.stVar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:34:54.803496+00:00
 -- url     : https://prove2.me/theorems/f54063a6-856c-40a0-8863-b8b21d9920d0

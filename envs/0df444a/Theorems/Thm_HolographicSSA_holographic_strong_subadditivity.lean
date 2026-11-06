@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolographicSSA_holographic_strong_subadditivity
 -- name    : HolographicSSA.holographic_strong_subadditivity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:44.824874+00:00
 -- url     : https://prove2.me/theorems/94d03e9b-1dfa-400b-ba2d-4a4691f05a33

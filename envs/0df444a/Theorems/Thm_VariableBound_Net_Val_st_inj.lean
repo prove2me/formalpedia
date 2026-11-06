@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_Val_st_inj
 -- name    : VariableBound.Net.Val.st_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:44:19.708824+00:00
 -- url     : https://prove2.me/theorems/82039378-7417-4d63-9987-d2ae6e73eeca

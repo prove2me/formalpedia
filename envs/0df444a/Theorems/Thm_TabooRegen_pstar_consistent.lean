@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TabooRegen_pstar_consistent
 -- name    : TabooRegen.pstar_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:27:29.348474+00:00
 -- url     : https://prove2.me/theorems/111975c4-d76b-49a6-bb2a-b3b4a74d2531

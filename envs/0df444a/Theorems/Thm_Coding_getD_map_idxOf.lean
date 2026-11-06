@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_getD_map_idxOf
 -- name    : Coding.getD_map_idxOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:10.366669+00:00
 -- url     : https://prove2.me/theorems/c0aa28fd-ad99-4ee0-babf-cfd1dd1d14ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_length_noTaut_le
 -- name    : StepSparsify.length_noTaut_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:45.375825+00:00
 -- url     : https://prove2.me/theorems/decd62ec-2a23-4955-be65-d081c12afb2c

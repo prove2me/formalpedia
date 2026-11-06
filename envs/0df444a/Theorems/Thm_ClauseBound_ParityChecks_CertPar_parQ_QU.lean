@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClauseBound_ParityChecks_CertPar_parQ_QU
 -- name    : ClauseBound.ParityChecks.CertPar.parQ_QU
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:21:06.444421+00:00
 -- url     : https://prove2.me/theorems/59f8e565-1ea5-4e0a-87bc-0c2571501f41

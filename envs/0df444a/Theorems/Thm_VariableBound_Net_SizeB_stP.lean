@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_stP
 -- name    : VariableBound.Net.SizeB.stP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:51.760286+00:00
 -- url     : https://prove2.me/theorems/4060d7c0-5f7a-47e5-90b5-b3743d34e74a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_disk_lambda_bound_e
 -- name    : OAI.SharpPlanar.disk_lambda_bound_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:55:52.282217+00:00
 -- url     : https://prove2.me/theorems/5fb7993b-cf5a-4a33-800f-ecda1e3613a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Variance_stChebOfVar
 -- name    : Variance.stChebOfVar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T02:35:33.713616+00:00
 -- url     : https://prove2.me/theorems/07e66061-e559-4689-b662-27e8b612036d

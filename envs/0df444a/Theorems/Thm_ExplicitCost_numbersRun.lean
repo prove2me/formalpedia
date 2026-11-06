@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_numbersRun
 -- name    : ExplicitCost.numbersRun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:51:23.605392+00:00
 -- url     : https://prove2.me/theorems/2512b8d3-bd4a-480b-9acd-0ed10b54aa3d

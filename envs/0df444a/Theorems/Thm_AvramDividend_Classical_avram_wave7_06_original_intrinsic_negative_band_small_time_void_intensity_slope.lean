@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_intrinsic_negative_band_small_time_void_intensity_slope
 -- name    : AvramDividend.Classical.avram_wave7_06_original_intrinsic_negative_band_small_time_void_intensity_slope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T08:46:23.840995+00:00
 -- url     : https://prove2.me/theorems/17372d7a-a1d2-4158-9ab7-aa9be61fb864

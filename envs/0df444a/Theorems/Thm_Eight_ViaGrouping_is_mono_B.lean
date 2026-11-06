@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Eight_ViaGrouping_is_mono_B
 -- name    : Eight.ViaGrouping.is_mono_B
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:06:42.646704+00:00
 -- url     : https://prove2.me/theorems/a4573170-a514-46a1-ba86-19b438dc0d80

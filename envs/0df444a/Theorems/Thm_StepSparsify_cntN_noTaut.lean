@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StepSparsify_cntN_noTaut
 -- name    : StepSparsify.cntN_noTaut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:52:41.008921+00:00
 -- url     : https://prove2.me/theorems/f51c21c8-1340-4a01-b2ba-9d243ae63fce

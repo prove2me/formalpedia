@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_CertNet_netD_keeps
 -- name    : VariableBound.Net.CertNet.netD_keeps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:49.065787+00:00
 -- url     : https://prove2.me/theorems/9f174dd6-3b13-4c6d-8a73-f96d3b2f3b0d

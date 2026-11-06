@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Fld_Cert_two_pow_sD_unary
 -- name    : VariableBound.Fld.Cert.two_pow_sD_unary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:41:42.373605+00:00
 -- url     : https://prove2.me/theorems/ab476ceb-230d-4892-8869-8f4748cc9235

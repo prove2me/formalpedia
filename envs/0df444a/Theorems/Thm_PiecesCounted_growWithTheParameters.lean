@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_growWithTheParameters
 -- name    : PiecesCounted.growWithTheParameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:59:28.823249+00:00
 -- url     : https://prove2.me/theorems/9d074d1a-4a02-4a2d-b649-76f009697470

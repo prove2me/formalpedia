@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Count_emod_natCast
 -- name    : VariableBound.Count.emod_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:50:07.635089+00:00
 -- url     : https://prove2.me/theorems/3cdf3c9a-1873-41ab-b3d6-28cd8b601938

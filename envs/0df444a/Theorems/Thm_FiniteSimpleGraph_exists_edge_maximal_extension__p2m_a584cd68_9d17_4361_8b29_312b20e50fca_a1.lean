@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteSimpleGraph_exists_edge_maximal_extension__p2m_a584cd68_9d17_4361_8b29_312b20e50fca_a1
 -- name    : FiniteSimpleGraph.exists_edge_maximal_extension__p2m_a584cd68_9d17_4361_8b29_312b20e50fca_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:22:14.182747+00:00
 -- url     : https://prove2.me/theorems/04530e67-a406-43c9-a9b5-30db75f9b07d

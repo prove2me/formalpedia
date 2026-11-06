@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapiroSDDP_Convergence_finite_cuts
 -- name    : ShapiroSDDP.Convergence.finite_cuts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:35:20.267986+00:00
 -- url     : https://prove2.me/theorems/12c634d0-7c86-4a55-84da-5967874bb03b

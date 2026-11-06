@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_X_norm_e
 -- name    : OAI.SharpPlanar.X_norm_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T05:48:30.793208+00:00
 -- url     : https://prove2.me/theorems/2148e15b-6630-44cb-9410-617b14f9f8dd

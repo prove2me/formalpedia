@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Structure_eq_2_optional_sampling
 -- name    : FastFashion.Structure.eq_2_optional_sampling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:08:58.141982+00:00
 -- url     : https://prove2.me/theorems/cc25065c-04c6-4f20-8a75-ad46bba738d0

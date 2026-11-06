@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleywegtSAA_ExpRate_proposition_2_2
 -- name    : KleywegtSAA.ExpRate.proposition_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:04:45.123979+00:00
 -- url     : https://prove2.me/theorems/669eb0f6-f250-40c6-b7c4-94e5ad77d9db

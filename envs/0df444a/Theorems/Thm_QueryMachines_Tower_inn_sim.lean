@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryMachines_Tower_inn_sim
 -- name    : QueryMachines.Tower.inn_sim
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T21:49:50.997548+00:00
 -- url     : https://prove2.me/theorems/153212e6-d71b-4d81-9200-6c5ff50f9fde

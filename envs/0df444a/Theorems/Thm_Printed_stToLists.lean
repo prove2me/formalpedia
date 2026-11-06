@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Printed_stToLists
 -- name    : Printed.stToLists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:47:40.936631+00:00
 -- url     : https://prove2.me/theorems/cbe2f47f-1718-4aa6-9775-91b64f545754

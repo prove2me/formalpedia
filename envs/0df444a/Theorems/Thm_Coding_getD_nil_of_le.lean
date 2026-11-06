@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Coding_getD_nil_of_le
 -- name    : Coding.getD_nil_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:03:57.501293+00:00
 -- url     : https://prove2.me/theorems/89f7550e-f2b9-469d-927a-d3b45e18c8f0

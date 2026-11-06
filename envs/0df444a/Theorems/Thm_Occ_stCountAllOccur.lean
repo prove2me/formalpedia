@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Occ_stCountAllOccur
 -- name    : Occ.stCountAllOccur
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:08:54.874214+00:00
 -- url     : https://prove2.me/theorems/3b2b338b-297f-4e37-ac7c-5a922db91fd4

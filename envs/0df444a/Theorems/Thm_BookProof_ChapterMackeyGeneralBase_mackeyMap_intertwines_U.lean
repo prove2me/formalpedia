@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_mackeyMap_intertwines_U
 -- name    : BookProof.ChapterMackeyGeneralBase.mackeyMap_intertwines_U
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T20:21:50.111869+00:00
 -- url     : https://prove2.me/theorems/222dd524-5a8b-41f4-9fb6-64c6cf7ec7d3

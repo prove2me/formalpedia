@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_Scenario_proposition1_equivalence
 -- name    : ReliableFacilityLoc.Scenario.proposition1_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:10:09.493003+00:00
 -- url     : https://prove2.me/theorems/dd66aeb8-f836-4fc2-940e-a25b34bb097c

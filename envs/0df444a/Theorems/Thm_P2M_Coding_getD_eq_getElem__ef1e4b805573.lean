@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Coding_getD_eq_getElem__ef1e4b805573
 -- name    : P2M_Coding_getD_eq_getElem__ef1e4b805573
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:05:44.012949+00:00
 -- url     : https://prove2.me/theorems/7554eac8-764f-4fb9-ae8f-8120f0908d4a

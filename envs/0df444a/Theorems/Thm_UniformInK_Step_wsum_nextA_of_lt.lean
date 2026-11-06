@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformInK_Step_wsum_nextA_of_lt
 -- name    : UniformInK.Step.wsum_nextA_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T20:42:08.2105+00:00
 -- url     : https://prove2.me/theorems/0c7293d1-0fdb-4bd0-9824-10982a2a384f

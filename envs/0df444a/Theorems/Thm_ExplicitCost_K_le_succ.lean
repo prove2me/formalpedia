@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitCost_K_le_succ
 -- name    : ExplicitCost.K_le_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T05:51:12.183445+00:00
 -- url     : https://prove2.me/theorems/60c0d87a-0a9d-4e6a-949c-a8be50404b4c

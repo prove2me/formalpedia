@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiecesCounted_half_add_lt
 -- name    : PiecesCounted.half_add_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:02:34.752912+00:00
 -- url     : https://prove2.me/theorems/1eb7ed2f-9a47-49ba-8c98-e2b50adb37d7

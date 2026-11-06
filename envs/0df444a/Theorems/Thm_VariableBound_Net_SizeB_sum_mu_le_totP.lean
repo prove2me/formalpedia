@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VariableBound_Net_SizeB_sum_mu_le_totP
 -- name    : VariableBound.Net.SizeB.sum_mu_le_totP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T03:47:33.123627+00:00
 -- url     : https://prove2.me/theorems/3dc4812c-4356-4e80-a3ff-6fb546897741

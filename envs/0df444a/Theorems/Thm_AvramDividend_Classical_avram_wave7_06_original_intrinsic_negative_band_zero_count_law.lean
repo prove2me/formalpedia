@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_intrinsic_negative_band_zero_count_law
 -- name    : AvramDividend.Classical.avram_wave7_06_original_intrinsic_negative_band_zero_count_law
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T13:08:18.754056+00:00
 -- url     : https://prove2.me/theorems/390a8092-89ae-45c8-bed8-b43b900baa2f

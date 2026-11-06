@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrimalDualLDR_FixedRecourse_sec_2_2_constraints
 -- name    : PrimalDualLDR.FixedRecourse.sec_2_2_constraints
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:53:32.048715+00:00
 -- url     : https://prove2.me/theorems/c439a507-47e1-4170-8d2f-157fbb4d5f07

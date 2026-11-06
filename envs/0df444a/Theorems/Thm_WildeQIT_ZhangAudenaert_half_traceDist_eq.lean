@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_ZhangAudenaert_half_traceDist_eq
 -- name    : WildeQIT.ZhangAudenaert.half_traceDist_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:56:14.161643+00:00
 -- url     : https://prove2.me/theorems/691ad309-fb87-43b0-adb4-f8595f9787dd

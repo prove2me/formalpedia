@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPECRelax_ScholtesMFCQ_theorem_3_2
 -- name    : MPECRelax.ScholtesMFCQ.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:49:49.864985+00:00
 -- url     : https://prove2.me/theorems/dbe58481-3bc5-42fe-bca9-a7a6e26e5527
